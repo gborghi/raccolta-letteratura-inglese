@@ -139,6 +139,61 @@ Spirits are not worth all this fuss; I know that, for I
 am one myself. . .
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Scetticismo e spiritismo
+
+di G.K. Chesterton
+
+(Da un [[forms/essay|saggio]] apparso originariamente sull'ILLUSTRATED [[settings/london|LONDON]] NEWS, 14 aprile 1906)
+
+------------------------------------------------------------------------
+
+Scorrendo di recente diversi giornali, vedo titoli come «Smascherato un altro medium» e «Un'altra frode spiritica». I commenti facili e convenzionali che i giornalisti fanno sulla questione mi paiono singolarmente privi di senso logico, e sembra esservi, sotto tutti questi commenti, il tacito assunto che, quanto più spesso si scopre un medium disonesto o una seduta fraudolenta, tanto più si sia diminuito il credito o la probabilità dello spiritismo. Non ho mai preso parte a una seduta in vita mia, e non ho mai avuto, e probabilmente mai avrò, nulla a che fare con quella particolare cerchia di persone che si dicono spiritisti. Ma per pura giustizia intellettuale o lucidità mentale, è opportuno protestare contro questo argomento confuso che collega la comprovata falsità dei furfanti con la probabile falsità dei fenomeni psichici. Le due cose non hanno alcuna connessione logica. Nessun numero immaginabile di falsi medium influisce in un senso o nell'altro sulla probabilità dell'esistenza di medium autentici. Ciò è certamente abbastanza ovvio. Nessun numero immaginabile di banconote contraffatte può confutare l'esistenza della Banca d'Inghilterra. Semmai, l'argomento potrebbe [[motifs/well|ben]] essere rovesciato; potremmo dire, con assai più ragione, che, come tutte le ipocrisie sono i frutti malvagi della virtù pubblica, così, allo stesso modo, quanto più autentico spiritismo vi è al mondo, tanto più falso spiritismo è probabile che vi sia.
+
+In realtà, la mera razionalità astratta di questo problema è discussa assai malamente. Per esempio, si considera sempre ridicolo, e un segnale che scateni uno scoppio di risa, se gli spiritisti dicono che una seduta è stata rovinata dalla presenza di uno scettico, o che un atteggiamento di [[concepts/faith|fede]] è necessario per favorire le comunicazioni psichiche. Ma non vi è nulla di irragionevole o d'inverosimile nell'idea che il [[concepts/doubt|dubbio]] possa scoraggiare e la [[concepts/faith|fede]] incoraggiare le comunicazioni spirituali, ammesso che ve ne siano. Tale supposizione non rende lo spiritismo, in astratta logica, più improbabile. La sola cosa che fa è renderlo più difficile. Non vi è nulla di sciocco o di fantastico nel supporre che una persona spassionata agisca da deterrente rispetto a verità appassionate. Solo che ciò rende assai più arduo, per chiunque sia spassionato, scoprire ciò che è vero. Vi sono mille paralleli pratici. Uno psicologo imparziale che studiasse il problema della [[concepts/nature|natura]] umana potrebbe, senza [[concepts/doubt|dubbio]], imparare moltissimo da un uomo e una donna che si facessero l'[[motifs/love|amore]] in sua presenza. Ciò nondimeno, è purtroppo un fatto che nessun uomo e nessuna donna si farebbero l'[[motifs/love|amore]] in presenza di uno psicologo imparziale. Studenti di fisiologia e di chirurgia potrebbero imparare qualcosa da un uomo che ne pugnalasse improvvisamente un altro su una pedana in un'aula di conferenze. Ma nessun uomo pugnalerebbe un altro su una pedana in un'aula di conferenze. Un maestro imparerebbe molto se i ragazzi fossero ragazzi in sua presenza; ma essi non sono mai ragazzi in sua presenza. Un pedagogista che studiasse l'infanzia potrebbe fare importanti scoperte se potesse udire le cose dette da un bambino quando è del tutto solo e a proprio agio con la madre. Ma è del tutto ovvio che la sola comparsa di un grande, brutto pedagogista (sono una brutta genìa) farebbe strillare il [[archetypes/child|bambino]] dal terrore.
+
+Il problema, dunque, dello scetticismo e delle estasi spirituali è un problema perfettamente umano e intelligibile da enunciare, per quanto possa essere un problema difficile da risolvere. È esattamente come se un uomo indicasse una qualche dama (potete scegliere la dama tra le vostre conoscenze a vostra discrezione) e dicesse con marcata enfasi: «In nessuna circostanza potrei indirizzare un [[forms/sonnet|sonetto]] a quella dama». Potremmo replicare: «Oh, sì; se ve ne [[motifs/love|innamoraste]] potreste sentirvi inclini a farlo». Egli sarebbe pienamente giustificato nel rispondere (con le [[motifs/tears|lacrime]] agli occhi): «Ma io non posso [[motifs/love|innamorarmi]] di lei per alcun processo immaginabile». Non sarebbe però logicamente giustificato nel rispondere: «Oh, sono tutte sciocchezze. Volete che io rinunci al mio giudizio e divenga uno sciocco partigiano». L'intera questione in discussione è che cosa accadrebbe se egli divenisse partigiano. Allo stesso modo, lo scettico che viene cacciato con il cappello ammaccato e le falde della giacca a brandelli da una seduta spiritica ha pieno diritto di dire (con o senza le [[motifs/tears|lacrime]] agli occhi): «Ma perché biasimarmi per la mia incredulità? Non riesco a credere a simili cose per alcun processo immaginabile». Ma non ha alcun diritto logico di affermare che non possa essere stato il suo scetticismo a rovinare la seduta, o che vi fosse alcunché di antifilosofico nel supporlo. Una persona imparziale è un buon giudice di molte cose, ma non di tutte. Non è (per esempio) un buon giudice di che cosa si provi a essere parziali.
+
+Da parte mia, quel poco che mi urta in quel poco che ho
+visto dello spiritismo è tutt'altro elemento.
+Non ho nulla contro lo spiritismo, in quanto è fervido e credulo.
+In ciò mi pare affine al sesso, al canto, ai grandi poemi epici
+e alle grandi religioni, a tutto ciò che ha reso eroica l'umanità.
+Non obietto allo spiritismo in quanto è spiritualistico.
+Obietto invece in quanto è scientifico.
+La convinzione e la curiosità sono entrambe ottime cose.
+Ma dovrebbero abitare due case diverse.
+Vi sono state molte credenze frenetiche e blasfeme su questa
+nostra vecchia terra barbarica; gli uomini hanno servito le loro divinità con
+danze oscene, col cannibalismo e col [[motifs/blood|sangue]] dei lattanti.
+Ma nessuna religione fu tanto blasfema da pretendere di
+indagare scientificamente il proprio dio per scoprire di che cosa fosse fatto.
+I baccanti non dicevano: "Scopriamo se esiste
+un dio del vino." Godevano tanto del vino che invocavano
+naturalmente il suo dio. I cristiani non dicevano: "Qualche
+esperimento ci mostrerà se esiste un dio della bontà."
+Amavano tanto il bene da sapere che era un dio.
+Inoltre, tutte le grandi religioni amarono sempre, con passione
+e poesia, i simboli e gli apparati mediante cui operavano
+--il tempio, le vesti variopinte, l'altare, i [[motifs/flowers|fiori]] simbolici,
+o il [[motifs/fire|fuoco]] sacrificale. Rendeva belle queste cose:
+si esponeva all'accusa di idolatria.
+E in queste grandi religioni rituali è discesa,
+qualunque ne sia il significato, quella cosa di cui parlò Sofocle:
+"La potenza degli dèi, che è possente e non invecchia."
+Quando sentirò che gli spiritisti hanno cominciato a intagliare grandi
+ali dorate sui loro tavolini volanti, riconoscerò
+l'atmosfera di una [[concepts/faith|fede]]. Quando li sentirò accusati di adorare
+una tavoletta medianica fatta d'avorio e sardonice (qualunque cosa sia)
+saprò che sono diventati una grande religione.
+Nel frattempo, [[concepts/fear|temo]] che resterò uno di quelli che credono
+negli spiriti troppo facilmente per diventare mai spiritista.
+I moderni ritengono il [[motifs/supernatural|soprannaturale]] così improbabile che
+vogliono vederlo. Io lo ritengo così probabile che lo lascio in pace.
+Gli spiriti non valgono tanto chiasso; lo so bene, perché io
+stesso ne sono uno. . .
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="skeptic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/tears,motif/well,concept/doubt,concept/faith,concept/nature,form/essay,form/sonnet,setting/london"></span>

@@ -1083,12 +1083,1079 @@ The Two Gentlemen of [[settings/verona|Verona]]
 | DUKE | What mean you by that saying? |
 | [[characters/valentine\|VALENTINE]] | Please you, I’ll tell you as we pass along,<br>That you will [[concepts/wonder\|wonder]] what hath fortunèd.<br>Come, [[characters/proteus\|Proteus]], ’tis your penance but to hear<br>The story of your loves discovered.<br>That done, our day of [[motifs/marriage\|marriage]] shall be yours,<br>One feast, one house, one mutual happiness. |
 | *(didascalia)* | Exeunt |
-| THE TAMING OF THE | SHREW<br>The Taming of the Shrew was first published in the 1623 Folio, but a related play, shorter and simpler, with the title The Taming of a Shrew, had appeared in print in 1594. The exact relationship of these plays is disputed. A Shrew has sometimes been regarded as the source for The Shrew; some scholars have believed that both plays derive independently from an earlier play, now lost; it has even been suggested that Shakespeare wrote both plays. In our view Shakespeare’s play was written first, not necessarily on the foundation of an earlier play, and A Shrew is an anonymous imitation, written in the [[concepts/hope\|hope]] of capitalizing on the success of Shakespeare’s play. The difference between the titles is probably no more significant than the fact that The [[motifs/winter\|Winter]]’s Tale is even now often loosely referred to as A [[motifs/winter\|Winter]]’s Tale, or The [[forms/comedy\|Comedy]] of Errors as A [[forms/comedy\|Comedy]] of Errors.<br>The plot of The Taming of the Shrew has three main strands. First comes the Induction showing how a drunken tinker, [[characters/christopher-sly\|Christopher Sly]], is made to believe himself a lord for whose entertainment a play is to be presented. This resembles an episode in The Arabian Nights, in which Caliph Haroun al Raschid plays a similar trick on Abu Hassan. A Latin version of this story was known in Shakespeare’s England; it may also have circulated by word of mouth. Second comes the principal plot of the play performed for Sly, in which the shrewish Katherine is wooed, won, and tamed by the fortune-hunting Petruccio. This is a popular narrative theme; Shakespeare may have known a ballad called ‘A merry jest of a shrewd and curst wife lapped in morel’s skin for her good behaviour’, printed around 1550. The third strand of the play involves [[characters/lucentio\|Lucentio]], Gremio, and [[characters/hortensio\|Hortensio]], all of them suitors for the hand of Katherine’s sister, [[characters/bianca\|Bianca]]. This is based on the first English prose [[forms/comedy\|comedy]], George Gascoigne’s Supposes, translated from Ludovico Ariosto’s I Suppositi (1509), acted in 1566, and published in 1573. In The Taming of the Shrew as printed in the 1623 Folio [[characters/christopher-sly\|Christopher Sly]] fades out after Act 1, Scene 1, in A Shrew he makes other appearances, and rounds off the play. These episodes may derive from a version of Shakespeare’s play different from that preserved in the Folio; we print them as Additional Passages.<br>The adapting of Shakespeare’s play that seems to have occurred early in its career foreshadows its later [[concepts/history\|history]] on the stage. Seven versions appeared during the seventeenth and eighteenth centuries, culminating in David Garrick’s Catharine and [[characters/petruchio\|Petruchio]], first performed in 1754. This version, omitting [[characters/christopher-sly\|Christopher Sly]] and concentrating on the taming story, held the stage almost unchallenged until late in the nineteenth century. In various incarnations The Taming of the Shrew has always been popular on the stage, but its reputation as a robust [[forms/comedy\|comedy]] verging on farce has often obscured its more subtle and imaginative aspects, brutalizing Petruccio and trivializing Kate. The Induction, finely written, establishes a fundamentally serious concern with the powers of persuasion to change not merely appearance but reality, and this theme is acted out at different levels in both strands of the subsequent action. |
-| THE PERSONS OF THE | PLAY<br><br>In the Induction |
-| CHRISTOPHER | SLY, beggar and tinker<br>A HOSTESS<br>A LORD<br>BARTHOLOMEW, his page |
-| PLAYERS | In the play-within-the-play |
-| [[characters/baptista\|BAPTISTA]] | Minola, a gentleman of Padua<br>KATHERINE, his elder daughter<br>[[characters/bianca\|BIANCA]], his younger daughter<br>PETRUCCIO, a gentleman of [[settings/verona\|Verona]], suitor of Katherine<br>GREMIO, a rich old man of Padua, suitor of [[characters/bianca\|Bianca]]<br>[[characters/hortensio\|HORTENSIO]], another suitor, who disguises himself as Licio, a<br>teacher<br>[[characters/lucentio\|LUCENTIO]], from Pisa, who disguises himself as Cambio, a teacher<br>VINCENTIO, [[characters/lucentio\|Lucentio]]’s father<br>A PEDANT (schoolmaster), from Mantua<br>A WIDOW<br>A TAILOR<br>A HABERDASHER<br>An OFFICER<br>SERVINGMEN, including NATHANIEL, PHILIP, JOSEPH, and PETER<br>Other servants of [[characters/baptista\|Baptista]] and Petruccio |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+THE TWO GENTLEMEN OF [[settings/verona|VERONA]]
+THE accomplished elegance of the lyrical verse in The Two Gentlemen of [[settings/verona|Verona]], as [[motifs/well|well]] as the skilful, theatrically effective prose of Lance’s monologues, demonstrates that Shakespeare had already developed his writing skills when he composed this play. Nevertheless—and although the earliest mention of it is by Francis Meres in 1598—it may be his first work for the stage; for its dramatic structure is comparatively unambitious, and while some of its scenes are expertly constructed, those involving more than, at the most, four characters betray an uncertainty of technique suggestive of inexperience. It was first printed in the 1623 Folio.
+The [[concepts/friendship|friendship]] of the ‘two gentlemen’—[[characters/valentine|Valentine]] and [[characters/proteus|Proteus]]—is strained when both fall in [[motifs/love|love]] with [[characters/silvia|Silvia]]. [[characters/proteus|Proteus]] has followed [[characters/valentine|Valentine]] from [[settings/verona|Verona]] to Milan, leaving behind his beloved [[characters/julia|Julia]], who in turn follows him, disguised as a boy. At the climax of the action [[characters/valentine|Valentine]] displays the depth of his [[concepts/friendship|friendship]] by offering [[characters/silvia|Silvia]] to [[characters/proteus|Proteus]]. The conflicting claims of [[motifs/love|love]] and [[concepts/friendship|friendship]] illustrated in this plot had been treated in a considerable [[concepts/body|body]] of English literature written by the [[motifs/time|time]] Shakespeare wrote his play in, or shortly before, 1590. John Lyly’s didactic fiction Euphues (1578) was an immensely popular example; and Lyly’s earliest plays, such as Campaspe (1584) and Endimion (1588), influenced Shakespeare’s style as [[motifs/well|well]] as his subject matter. Shakespeare was writing in a fashionable mode, but his story of [[characters/proteus|Proteus]] and [[characters/julia|Julia]] is specifically (though perhaps indirectly) indebted to a prose fiction, [[characters/diana|Diana]], written in Spanish by the Portuguese Jorge de Montemayor and first published in 1559. Many other influences on the young dramatist may be discerned: his idealized portrayal of [[characters/silvia|Silvia]] and her relationship with [[characters/valentine|Valentine]] derives from the medieval tradition of courtly [[motifs/love|love]]; [[characters/arthur|Arthur]] Brooke’s long poem The Tragical [[concepts/history|History]] of Romeus and [[characters/juliet|Juliet]] (1562) provided some details of the plot; and the comic commentary on the romantic action supplied by the page-boy [[characters/speed|Speed]] and the more rustic clown Lance has dramatic antecedents in English plays such as Lyly’s early comedies.
+Though the play was presumably acted in Shakespeare’s [[motifs/time|time]], its first recorded performance is in 1762, in a rewritten version at Drury Lane. Later performances have been sparse, and the play has succeeded best when subjected to adaptation, increasing its musical content, adjusting the emphasis of the last scene so as to reduce the shock of [[characters/valentine|Valentine]]’s donation of [[characters/silvia|Silvia]] to [[characters/proteus|Proteus]], and updating the setting. It can be seen as a dramatic laboratory in which Shakespeare first experimented with conventions of romantic [[forms/comedy|comedy]] which he would later treat with a more subtle complexity, but it has its own charm. If the whole is not greater than the parts, some of the parts—such as Lance’s brilliant monologues, and the delightful scene (4.2) in which [[characters/proteus|Proteus]] serenades his new [[motifs/love|love]] with ‘Who is [[characters/silvia|Silvia]]?’ while his disguised old [[motifs/love|love]], [[characters/julia|Julia]], looks wistfully on—are wholly successful. And Lance’s dog, Crab, has the most scene-stealing non-speaking role in the canon: this is an experiment that Shakespeare did not repeat.
+THE PERSONS OF THE PLAY
+[[characters/duke-of-milan|DUKE of Milan]]
+[[characters/silvia|SILVIA]], his daughter
+[[characters/proteus|PROTEUS]], a gentleman of [[settings/verona|Verona]]
+LANCE, his clownish servant
+[[characters/valentine|VALENTINE]], a gentleman of [[settings/verona|Verona]]
+[[characters/speed|SPEED]], his clownish servant
+[[characters/thurio|THURIO]], a foolish rival to [[characters/valentine|Valentine]]
+[[characters/antonio|ANTONIO]], father of [[characters/proteus|Proteus]]
+PANTHINO, his servant
+[[characters/julia|JULIA]], beloved of [[characters/proteus|Proteus]]
+LUCETTA, her waiting-woman
+HOST, where [[characters/julia|Julia]] lodges
+
+EGLAMOUR, agent for [[characters/silvia|Silvia]] in her escape
+
+OUTLAWS
+
+Servants, musicians
+
+The Two Gentlemen of [[settings/verona|Verona]]
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/valentine\|Valentino]] e [[characters/proteus\|Proteo]] |
+| [[characters/valentine\|VALENTINE]] | Cessa di persuadermi, mio amoroso [[characters/proteus\|Proteo]].<br>Giovinezza [[motifs/home\|casalinga]] ebbe sempre casalingo ingegno.<br>Se l'affetto non [[motifs/chains\|incatenasse]] i tuoi teneri giorni<br>ai dolci sguardi del tuo onorato [[motifs/love\|amore]],<br>vorrei piuttosto pregarti di venir meco<br>a veder le meraviglie del mondo lontano,<br>anziché, vivendo qui infingardo e ozioso in [[motifs/home\|casa]],<br>logorar la tua giovinezza in informe pigrizia.<br>Ma poiché ami, séguita ad [[motifs/love\|amare]], e prospera in ciò—<br>come vorrei per me, quando ad [[motifs/love\|amare]] comincerò. |
+| [[characters/proteus\|PROTEUS]] | Vuoi dunque partire? Dolce [[characters/valentine\|Valentino]], addio.<br>Pensa al tuo [[characters/proteus\|Proteo]] quando per ventura scorgerai<br>qualche raro e notevole oggetto nel tuo viaggio.<br>Desiderami partecipe della tua felicità<br>quando t'incontri in buona sorte; e nel tuo pericolo—<br>se mai pericolo t'assedi—<br>affida i tuoi affanni alle mie sante preghiere;<br>ché io sarò il tuo orante, [[characters/valentine\|Valentino]]. |
+| [[characters/valentine\|VALENTINE]] | E su un libro d'[[motifs/love\|amore]] pregherai per il mio successo? |
+| [[characters/proteus\|PROTEUS]] | Su qualche libro che [[motifs/love\|amo]] pregherò per te. |
+| [[characters/valentine\|VALENTINE]] | Cioè su qualche superficiale storia di profondo [[motifs/love\|amore]]—<br>di come il giovane Leandro varcò l'Ellesponto. |
+| [[characters/proteus\|PROTEUS]] | È profonda storia d'un più profondo [[motifs/love\|amore]],<br>ché ne fu immerso più su delle scarpe, nell'[[motifs/love\|amore]]. |
+| [[characters/valentine\|VALENTINE]] | È vero, ché voi ne siete immerso più su degli stivali, nell'[[motifs/love\|amore]],<br>e pure non nuotaste mai l'Ellesponto. |
+| [[characters/proteus\|PROTEUS]] | Più su degli stivali? Eh via, non calzarmi tu il piede. |
+| [[characters/valentine\|VALENTINE]] | No, non lo farò; ché a te non calza. |
+| [[characters/proteus\|PROTEUS]] | Che cosa? |
+| [[characters/valentine\|VALENTINE]] | L'esser in [[motifs/love\|amore]], dove il disprezzo si compra con gemiti,<br>gli sguardi schivi con sospiri che accorano, l'allegrezza d'un<br>attimo fuggente<br>con venti notti vigili, stanche, tediose.<br>Se per ventura la vinci, forse è guadagno sventurato;<br>se la perdi, ebbene, è una grave fatica guadagnata;<br>comunque sia, non è che follia comprata con senno,<br>o senno dalla follia soggiogato. |
+| [[characters/proteus\|PROTEUS]] | Così, per il vostro argomentare, mi chiamate [[archetypes/fool\|folle]]. |
+| [[characters/valentine\|VALENTINE]] | Così, per il vostro argomentare, [[concepts/fear\|temo]] che tale vi mostrerete. |
+| [[characters/proteus\|PROTEUS]] | È l'[[motifs/love\|amore]] che voi cavillate. Io non sono [[motifs/love\|amore]]. |
+| [[characters/valentine\|VALENTINE]] | [[motifs/love\|Amore]] è vostro padrone, ché vi signoreggia,<br>e chi è così aggiogato da un [[archetypes/fool\|folle]]<br>non dovrebbe, a mio credere, esser registrato fra i savi. |
+| [[characters/proteus\|PROTEUS]] | Pure gli scrittori dicono: 'Come nel più dolce bocciolo<br>alberga il verme che lo rode, così l'[[motifs/love\|amore]] insensato<br>abita negl'ingegni più fini di tutti.' |
+| [[characters/valentine\|VALENTINE]] | E gli scrittori dicono: 'Come il bocciolo più precoce<br>è roso dal verme prima ch'egli sbocci,<br>così dall'[[motifs/love\|amore]] il giovane e tenero ingegno<br>è volto in follia, avvizzendo nel bocciolo,<br>perdendo il suo verde nel fiore stesso degli anni,<br>e ogni bel frutto di speranze future.'<br>Ma perché spreco io [[motifs/time\|tempo]] a consigliar te,<br>che sei devoto d'un folle [[motifs/desire\|desiderio]]?<br>Ancora una volta addio. Mio padre alla [[motifs/road\|rada]]<br>attende il mio venire, per vedermi imbarcato. |
+| [[characters/proteus\|PROTEUS]] | E là io ti accompagnerò, [[characters/valentine\|Valentino]]. |
+| [[characters/valentine\|VALENTINE]] | Dolce [[characters/proteus\|Proteo]], no. Prendiamo ora congedo.<br>A Milano fammi saper di te per lettere<br>del tuo successo in [[motifs/love\|amore]], e d'ogni altra novella<br>che qui accada in assenza del tuo amico;<br>e io del pari ti visiterò con le mie. |
+| [[characters/proteus\|PROTEUS]] | Ti tocchi ogni felicità a Milano. |
+| [[characters/valentine\|VALENTINE]] | Altrettanto a voi in [[motifs/home\|patria]]; e così, addio. Esce |
+| [[characters/proteus\|PROTEUS]] | Egli va a caccia d'[[concepts/honour\|onore]], io d'[[motifs/love\|amore]].<br>Egli [[motifs/leaves\|lascia]] gli amici per meglio nobilitarli,<br>io lascio me stesso, gli amici e tutto, per [[motifs/love\|amore]].<br>Tu, [[characters/julia\|Giulia]], tu m'hai metamorfosato,<br>m'hai fatto trascurar gli studi, perdere il mio [[motifs/time\|tempo]],<br>far guerra al buon consiglio, tener per nulla il mondo;<br>fiacco l'ingegno col fantasticare, malato il cuore col pensiero. |
+| *(didascalia)* | Entra [[characters/speed\|Svelto]] |
+| [[characters/speed\|SPEED]] | Messer [[characters/proteus\|Proteo]], Dio vi salvi. Avete visto il mio padrone? |
+| [[characters/proteus\|PROTEUS]] | Or ora è partito di qui per imbarcarsi alla volta di Milano. |
+| [[characters/speed\|SPEED]] | Venti contro uno, dunque, che è già imbarcato,<br>e io ho fatto la pecora, perdendolo. |
+| [[characters/proteus\|PROTEUS]] | Davvero, la pecora assai spesso si smarrisce,<br>se il pastore per un poco s'allontana. |
+| [[characters/speed\|SPEED]] | Concludete dunque che il mio padrone è un pastore,<br>e io una pecora? |
+| [[characters/proteus\|PROTEUS]] | Sì. |
+| [[characters/speed\|SPEED]] | E allora le mie corna sono le sue corna, ch'io vegli o [[motifs/sleep\|dorma]]. |
+| [[characters/proteus\|PROTEUS]] | Sciocca risposta, e che s'addice [[motifs/well\|bene]] a una pecora. |
+| [[characters/speed\|SPEED]] | Questo prova che sono ancora una pecora. |
+| [[characters/proteus\|PROTEUS]] | Vero, e il tuo padrone un pastore. |
+| [[characters/speed\|SPEED]] | No, questo posso negarlo con un argomento. |
+| [[characters/proteus\|PROTEUS]] | Sarà ben difficile ch'io non lo provi con un altro. |
+| [[characters/speed\|SPEED]] | Il pastore cerca la pecora, e non la pecora il pastore. Ma io cerco il mio padrone, e il mio padrone non cerca me. Dunque non sono una pecora. |
+| [[characters/proteus\|PROTEUS]] | Le pecore per il foraggio seguono il pastore, il pastore per il cibo non segue le pecore. Tu per il salario segui il tuo padrone, il tuo padrone per il salario non segue te. Dunque sei una pecora. |
+| [[characters/speed\|SPEED]] | Un'altra prova come questa e mi farete gridare 'beee'. |
+| [[characters/proteus\|PROTEUS]] | Ma senti un po': hai dato la mia lettera a [[characters/julia\|Giulia]]? |
+| [[characters/speed\|SPEED]] | Sì, messere. Io, montone smarrito, ho dato la vostra lettera a lei, agnella in busto; e lei, agnella in busto, non ha dato a me, montone smarrito, nulla per la mia fatica. |
+| [[characters/proteus\|PROTEUS]] | Ecco un pascolo troppo piccolo per tanta dovizia di montoni. |
+| [[characters/speed\|SPEED]] | Se il terreno è sovraccarico, fareste meglio a sgozzarla. |
+| [[characters/proteus\|PROTEUS]] | No, in questo tu vai errando. Sarebbe meglio metterti in libbra. |
+| [[characters/speed\|SPEED]] | Eh no, messere: meno d'una libbra mi basterà per aver portato la vostra lettera. |
+| [[characters/proteus\|PROTEUS]] | Fraintendi. Intendo la libbra, cioè il serraglio delle bestie smarrite. |
+| [[characters/speed\|SPEED]] | Da una libbra a uno spillo? Piegatelo e ripiegatelo: è tre volte troppo poco per aver portato una lettera alla vostra [[archetypes/lover\|innamorata]]. |
+| [[characters/proteus\|PROTEUS]] | Ma che disse ella? |
+| [[characters/speed\|SPEED]] | (fa di sì col capo, poi dice) Sì. |
+| [[characters/proteus\|PROTEUS]] | Capo-sì? Ebbene, questo fa 'capocchia'. |
+| [[characters/speed\|SPEED]] | Avete frainteso, messere. Io dico che ella fece di sì col capo, e voi mi chiedete se fece di sì col capo, e io dico 'Sì'. |
+| [[characters/proteus\|PROTEUS]] | E messo tutto insieme fa 'capocchia'. |
+| [[characters/speed\|SPEED]] | Or che vi siete preso la pena di metterlo insieme, pigliatevelo per la vostra pena. |
+| [[characters/proteus\|PROTEUS]] | No, no. L'avrai tu, per aver portato la lettera. |
+| [[characters/speed\|SPEED]] | [[motifs/well\|Bene]], vedo che dovrò rassegnarmi a portar pazienza con voi. |
+| [[characters/proteus\|PROTEUS]] | Come, messere, e in che modo porti con me? |
+| [[characters/speed\|SPEED]] | Perbacco, messere, la lettera l'ho portata assai per bene, non avendo per mia pena altro che la parola 'capocchia'. |
+| [[characters/proteus\|PROTEUS]] | Ch'io sia maledetto, ma tu hai l'ingegno pronto. |
+| [[characters/speed\|SPEED]] | E pure non riesce a raggiungere la vostra borsa lenta. |
+| [[characters/proteus\|PROTEUS]] | Su, su, apri la faccenda in breve. Che disse ella? |
+| [[characters/speed\|SPEED]] | Aprite la vostra borsa, che il denaro e la faccenda sian consegnati a un tempo. |
+| [[characters/proteus\|PROTEUS]] | (dandogli del denaro) [[motifs/well\|Bene]], messere, ecco per la tua pena. Che disse ella? |
+| [[characters/speed\|SPEED]] | In verità, messere, credo che a stento la conquisterete. |
+| [[characters/proteus\|PROTEUS]] | Perché? Hai potuto ricavar tanto da lei? |
+| [[characters/speed\|SPEED]] | Messere, non ho potuto ricavar nulla affatto da lei, no, neppure un ducato per aver recato la vostra lettera. Ed essendo stata così dura con me, che le portavo il vostro pensiero, [[concepts/fear\|temo]] che si mostrerà altrettanto dura con voi nel dichiararle il vostro pensiero. Non le date altro pegno che pietre, ché è dura come l'acciaio. |
+| [[characters/proteus\|PROTEUS]] | Che disse ella? Nulla? |
+| [[characters/speed\|SPEED]] | No, neppure un 'Prendi questo per la tua pena'. A testimonio della vostra munificenza, vi ringrazio: mi avete testimoniato con un testone; in ricompensa di che, d'ora innanzi portatevi le lettere da voi. E così, messere, vi raccomanderò al mio padrone. |
+| *(didascalia)* | Esce |
+| [[characters/proteus\|PROTEUS]] | Va', va', vattene, a salvare la tua [[motifs/ship\|nave]] dal naufragio,<br>ché non può perire avendo te a bordo,<br>essendo tu destinato a più asciutta [[motifs/death\|morte]] in terra.<br>Devo andare a mandare un miglior messaggero.<br>[[concepts/fear\|Temo]] che la mia [[characters/julia\|Giulia]] non degnerebbe i miei versi,<br>ricevendoli da un così spregevole corriere. Esce |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/julia\|Giulia]] e Lucetta |
+| [[characters/julia\|JULIA]] | Ma dimmi, Lucetta, ora che siamo sole—<br>mi consiglieresti tu di cadere in [[motifs/love\|amore]]? |
+| LUCETTA | Sì, madonna, purché non inciampiate senza avvedervene. |
+| [[characters/julia\|JULIA]] | Di tutta la bella schiera di gentiluomini<br>che ogni giorno mi vengono incontro a parlare,<br>chi è, a tuo parere, più degno d'[[motifs/love\|amore]]? |
+| LUCETTA | Se vi piace ridirne i nomi, dirò il mio pensiero<br>secondo la mia povera e semplice capacità. |
+| [[characters/julia\|JULIA]] | Che pensi del bel messer Eglamour? |
+| LUCETTA | Che è cavaliere [[motifs/well\|ben]] parlante, lindo e garbato,<br>ma, s'io fossi in voi, non sarebbe mai il mio amato. |
+| [[characters/julia\|JULIA]] | Che pensi del ricco Mercatio? |
+| LUCETTA | [[motifs/well\|Bene]] della sua ricchezza, ma di lui, così così. |
+| [[characters/julia\|JULIA]] | Che pensi del gentile [[characters/proteus\|Proteo]]? |
+| LUCETTA | Signore, Signore, a vedere che follia regna in noi! |
+| [[characters/julia\|JULIA]] | Che c'è ora? Che vuol dire questo turbamento al suo nome? |
+| LUCETTA | Perdonate, cara madonna, è vergogna somma<br>ch'io, indegna [[concepts/body\|persona]] quale sono,<br>dia così giudizio su gentiluomini avvenenti. |
+| [[characters/julia\|JULIA]] | Perché non su [[characters/proteus\|Proteo]], come su tutti gli altri? |
+| LUCETTA | Ebbene, ecco: fra molti buoni, lo stimo il migliore. |
+| [[characters/julia\|JULIA]] | La tua ragione? |
+| LUCETTA | Non ne ho altra che una ragione di donna:<br>lo penso tale perché lo penso tale. |
+| [[characters/julia\|JULIA]] | E vorresti tu ch'io gettassi su di lui il mio [[motifs/love\|amore]]? |
+| LUCETTA | Sì, se pensaste che il vostro [[motifs/love\|amore]] non fosse gettato via. |
+| [[characters/julia\|JULIA]] | Ma egli, fra tutti gli altri, non m'ha mai fatto istanza. |
+| LUCETTA | Eppure egli, fra tutti gli altri, credo che più v'ami. |
+| [[characters/julia\|JULIA]] | Il suo poco parlare mostra il suo [[motifs/love\|amore]] ben piccolo. |
+| LUCETTA | [[motifs/fire\|Fuoco]] più chiuso è quello che più divampa. |
+| [[characters/julia\|JULIA]] | Non [[motifs/love\|amano]] coloro che non mostrano il loro [[motifs/love\|amore]]. |
+| LUCETTA | Oh, [[motifs/love\|amano]] meno coloro che fanno saper altrui il loro [[motifs/love\|amore]]. |
+| [[characters/julia\|JULIA]] | Vorrei conoscere il suo animo. |
+| LUCETTA | (porgendo la lettera di [[characters/proteus\|Proteo]])<br>Scorrete questo foglio, madonna. |
+| [[characters/julia\|JULIA]] | 'A [[characters/julia\|Giulia]]'—dimmi, da parte di chi? |
+| LUCETTA | Questo ve lo mostrerà il contenuto. |
+| [[characters/julia\|JULIA]] | Dimmi, dimmi—chi te l'ha data? |
+| LUCETTA | Il paggio di messer [[characters/valentine\|Valentino]]; e mandata, credo, da [[characters/proteus\|Proteo]]. Voleva darla a voi, ma trovandomi io sul cammino la ricevetti in vostro nome. Perdonate il fallo, ve ne prego. |
+| [[characters/julia\|JULIA]] | Ora, per la mia modestia, una bella mezzana.<br>Osate voi accogliere righe lascive?<br>Bisbigliare e congiurare contro la mia giovinezza?<br>Credetemi, è un ufficio di gran pregio,<br>e voi un'ufficiale adatta al posto.<br>Ecco. Prendete il foglio.<br>Dà a Lucetta la lettera<br>Badate che sia restituito,<br>o altrimenti non tornate più al mio cospetto. |
+| LUCETTA | Perorare per l'[[motifs/love\|amore]] merita più mercede che odio. |
+| [[characters/julia\|JULIA]] | Volete andarvene? |
+| LUCETTA | Perché possiate ruminare. |
+| *(didascalia)* | Esce |
+| [[characters/julia\|JULIA]] | E pure vorrei aver dato un'occhiata alla lettera.<br>Sarebbe vergogna richiamarla indietro<br>e pregarla d'un fallo per cui l'ho rimbrottata.<br>Che [[archetypes/fool\|sciocca]] è costei, che sa ch'io son fanciulla<br>e non volle forzarmi la lettera sotto gli occhi,<br>poiché le fanciulle per modestia dicon 'No' a ciò<br>che vorrebbero l'offerente intendesse 'Sì'.<br>Ohibò, ohibò, quanto è capriccioso questo folle [[motifs/love\|amore]],<br>che come bimbo stizzoso graffia la [[characters/nurse\|nutrice]]<br>e subito, tutto umiliato, bacia la verga.<br>Con che asprezza cacciai Lucetta di qui sgridandola,<br>quando volentieri l'avrei voluta qui.<br>Con che ira insegnai alla mia fronte a corrugarsi,<br>mentre interna gioia costringeva il cuore a sorridere.<br>La mia penitenza è richiamar Lucetta<br>e chieder remissione della mia follia passata.<br>Olà! Lucetta! |
+| *(didascalia)* | Entra Lucetta |
+| LUCETTA | Che desidera vostra signoria? |
+| [[characters/julia\|JULIA]] | È vicino il [[motifs/time\|tempo]] del pranzo? |
+| LUCETTA | Vorrei che lo fosse,<br>ché potreste ammazzare la vostra stizza sulle vivande<br>e non sulla vostra ancella. |
+| *(didascalia)* | Lascia cadere la lettera e la raccoglie |
+| [[characters/julia\|JULIA]] | Che cos'è quel che<br>hai raccolto con tanta cautela? |
+| LUCETTA | Nulla. |
+| [[characters/julia\|JULIA]] | E perché ti sei chinata, allora? |
+| LUCETTA | Per raccogliere un foglio che m'era caduto. |
+| [[characters/julia\|JULIA]] | E quel foglio è nulla? |
+| LUCETTA | Nulla che mi concerna. |
+| [[characters/julia\|JULIA]] | Allora lascialo giacere per quelli che concerne. |
+| LUCETTA | Madonna, non giacerà dove concerne,<br>se non abbia un falso interprete. |
+| [[characters/julia\|JULIA]] | Qualche tuo [[motifs/love\|amore]] t'ha scritto in rima. |
+| LUCETTA | Perché io possa cantarlo, madonna, su un'aria,<br>datemi una nota. Vostra signoria sa intonare. |
+| [[characters/julia\|JULIA]] | Faccio di simili balocchi il minor conto possibile.<br>Meglio cantarlo sull'aria di 'Cuor leggero in [[motifs/love\|amore]]'. |
+| LUCETTA | È troppo greve per un'aria così leggera. |
+| [[characters/julia\|JULIA]] | Greve? Avrà dunque, forse, qualche bordone? |
+| LUCETTA | Sì, e melodioso sarebbe, se voi lo cantaste. |
+| [[characters/julia\|JULIA]] | E perché non tu? |
+| LUCETTA | Non arrivo tanto in alto. |
+| [[characters/julia\|JULIA]] | Vediamo la tua canzone. |
+| *(didascalia)* | Cerca di prendere le lettere |
+| [[characters/julia\|JULIA]] | Ehi, sfacciatella! |
+| LUCETTA | Tenete il tono, là. Così lo canterete fino in fondo.<br>E pure mi pare che quest'aria non mi piaccia. |
+| [[characters/julia\|JULIA]] | Non ti piace? |
+| LUCETTA | No, madonna, è troppo acuta. |
+| [[characters/julia\|JULIA]] | Tu, sfacciatella, sei troppo insolente. |
+| LUCETTA | No, ora voi siete troppo bassa,<br>e guastate l'accordo con un discanto troppo aspro.<br>Non manca che una mezzana a compire la vostra canzone. |
+| [[characters/julia\|JULIA]] | La mezzana è affogata dal tuo basso sregolato. |
+| LUCETTA | Davvero, io tengo il basso per [[characters/proteus\|Proteo]]. |
+| [[characters/julia\|JULIA]] | Questa bagattella non mi turberà oltre.<br>Ecco un bel garbuglio di proteste.<br>[[motifs/tears\|Straccia]] la lettera e ne lascia cadere i pezzi<br>Va', vattene, e lascia i fogli dove sono.<br>Vorresti palpeggiarli per farmi adirare. |
+| LUCETTA | (a parte)<br>Fa la ritrosa, ma sarebbe assai più contenta<br>d'essere adirata così con un'altra lettera. |
+| *(didascalia)* | Esce |
+| [[characters/julia\|JULIA]] | Anzi, vorrei esser adirata così con quella stessa.<br>O mani odiose, a lacerar parole tanto amorose;<br>vespe ingiuriose, a pascervi di sì dolce miele<br>e a uccidere col vostro pungiglione le [[motifs/bees\|api]] che lo danno.<br>Bacerò ogni singolo foglio in ammenda.<br>Raccoglie alcuni dei pezzi di carta<br>Guarda, qui è scritto 'Gentile [[characters/julia\|Giulia]]'—sgentile [[characters/julia\|Giulia]],<br>che a [[concepts/revenge\|vendetta]] della tua ingratitudine<br>getto il tuo nome contro le pietre che l'ammaccano,<br>calpestando con disprezzo il tuo disdegno.<br>E qui è scritto '[[characters/proteus\|Proteo]] ferito d'[[motifs/love\|amore]]'.<br>Povero nome ferito, il mio seno come letto<br>t'accoglierà finché la tua piaga sia del tutto sanata;<br>e così la sondo con un bacio sovrano.<br>Ma due o tre volte fu scritto '[[characters/proteus\|Proteo]]'.<br>Sta' calmo, buon [[motifs/wind\|vento]], non soffiar via una parola<br>finch'io non abbia trovato ogni lettera nella lettera,<br>tranne il mio proprio nome. Quello, lo porti qualche turbine<br>sopra una rupe scoscesa, paurosa, sporgente,<br>e di là lo getti nel mare furioso.<br>Ecco, qui in una sola riga il suo nome è scritto due volte:<br>'Povero derelitto [[characters/proteus\|Proteo]]', 'appassionato [[characters/proteus\|Proteo]]',<br>'Alla dolce [[characters/julia\|Giulia]]'—questo lo straccerò via.<br>E pure non lo farò, poiché con tanta grazia<br>egli l'accoppia ai suoi nomi lamentosi.<br>Così li piegherò, l'uno sopra l'altro.<br>Ora baciatevi, abbracciatevi, contendete, fate ciò che volete. |
+| *(didascalia)* | Entra Lucetta |
+| LUCETTA | Madonna, il pranzo è pronto, e vostro padre attende. |
+| [[characters/julia\|JULIA]] | [[motifs/well\|Bene]], andiamo. |
+| LUCETTA | Come, resteranno qui questi fogli a far da spie? |
+| [[characters/julia\|JULIA]] | Se ci tieni, meglio raccoglierli. |
+| LUCETTA | Eh no, fui ripresa per averli posati.<br>Pure qui non resteranno, per non prendere freddo. |
+| [[characters/julia\|JULIA]] | Vedo che ne hai una gran voglia. |
+| LUCETTA | Sì, madonna, potete dire quel che vi par di vedere.<br>Anch'io vedo delle cose, benché mi crediate a occhi chiusi. |
+| [[characters/julia\|JULIA]] | Su, su, ti piace andare? |
+| *(didascalia)* | Escono |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/antonio\|Antonio]] e Pantino |
+| [[characters/antonio\|ANTONIO]] | Dimmi, Pantino, qual era quel grave discorso<br>con cui mio fratello t'ha trattenuto nel chiostro? |
+| PANTHINO | Era di suo nipote [[characters/proteus\|Proteo]], vostro figlio. |
+| [[characters/antonio\|ANTONIO]] | Come, che cosa di lui? |
+| PANTHINO | Si stupiva che vostra signoria<br>tolleri ch'egli spenda la sua giovinezza in [[motifs/home\|casa]],<br>mentre altri uomini, di più modesta fama,<br>mandano fuori i figli a cercar fortuna—<br>chi alle guerre, per tentarvi la sorte,<br>chi a scoprire isole lontane,<br>chi alle studiose università.<br>Per uno o per tutti questi esercizi<br>egli diceva che [[characters/proteus\|Proteo]] vostro figlio è atto,<br>e mi pregò d'importunarvi<br>perché non gli lasciate più spendere il suo [[motifs/time\|tempo]] in [[motifs/home\|casa]],<br>il che sarebbe grande scorno alla sua età,<br>non avendo conosciuto viaggio in gioventù. |
+| [[characters/antonio\|ANTONIO]] | Né molto occorre che tu m'importuni di ciò<br>su cui da un mese vado martellando.<br>Ho considerato [[motifs/well\|bene]] la sua perdita di [[motifs/time\|tempo]],<br>e come non possa farsi uomo compiuto<br>senza esser provato e ammaestrato dal mondo.<br>L'esperienza s'acquista con l'industria,<br>e si perfeziona col rapido corso del [[motifs/time\|tempo]].<br>Dimmi dunque: dove sarebbe meglio ch'io lo mandassi? |
+| PANTHINO | Penso che vostra signoria non ignori<br>come il suo compagno, il giovane [[characters/valentine\|Valentino]],<br>serva l'Imperatore nella sua regale [[settings/court\|corte]]. |
+| [[characters/antonio\|ANTONIO]] | Lo so [[motifs/well\|bene]]. |
+| PANTHINO | Sarebbe bene, credo, che vostra signoria ve lo mandasse.<br>Là egli s'eserciterà in giostre e tornei,<br>udrà dolci discorsi, converserà con nobiluomini,<br>e avrà sott'occhio ogni esercizio<br>degno della sua giovinezza e della nobiltà dei natali. |
+| [[characters/antonio\|ANTONIO]] | Mi piace il tuo consiglio. [[motifs/well\|Bene]] hai consigliato,<br>e perché tu possa vedere quanto [[motifs/well\|bene]] mi piaccia,<br>l'esecuzione lo farà noto.<br>Con la più rapida sollecitudine<br>lo spedirò alla [[settings/court\|corte]] dell'Imperatore. |
+| PANTHINO | Domani, se vi piace, Don Alfonso,<br>con altri gentiluomini di buona stima,<br>si mette in viaggio per salutar l'Imperatore<br>e per offrire il proprio servigio al suo volere. |
+| [[characters/antonio\|ANTONIO]] | Buona compagnia. Con loro andrà [[characters/proteus\|Proteo]]. |
+| *(didascalia)* | Entra [[characters/proteus\|Proteo]] con una lettera. Non vede [[characters/antonio\|Antonio]] e Pantino |
+| [[characters/antonio\|ANTONIO]] | E a buon [[motifs/time\|punto]]. Ora gliene parleremo. |
+| [[characters/proteus\|PROTEUS]] | Dolce [[motifs/love\|amore]], dolci righe, dolce vita!<br>Ecco la sua mano, messaggera del suo cuore.<br>Ecco il suo giuramento d'[[motifs/love\|amore]], il pegno del suo [[concepts/honour\|onore]].<br>Oh, se i nostri padri applaudissero i nostri amori<br>per suggellare la nostra felicità col loro consenso!<br>O celeste [[characters/julia\|Giulia]]! |
+| [[characters/antonio\|ANTONIO]] | Ebbene, che lettera state leggendo costì? |
+| [[characters/proteus\|PROTEUS]] | Se piace a vostra signoria, sono una parola o due<br>di saluti mandate da [[characters/valentine\|Valentino]],<br>recate da un amico che veniva da lui. |
+| [[characters/antonio\|ANTONIO]] | Dammi la lettera. Ch'io veda che novelle. |
+| [[characters/proteus\|PROTEUS]] | Non v'è novella, mio signore, se non ch'egli scrive<br>quanto felicemente viva, quanto [[motifs/well\|ben]] sia amato<br>e ogni giorno onorato dall'Imperatore,<br>desiderandomi con lui, partecipe della sua fortuna. |
+| [[characters/antonio\|ANTONIO]] | E come siete disposto verso il suo desiderio? |
+| [[characters/proteus\|PROTEUS]] | Come chi si rimette al volere di vostra signoria,<br>e non dipende dal suo amichevole desiderio. |
+| [[characters/antonio\|ANTONIO]] | Il mio volere s'accorda in qualche modo col suo desiderio.<br>Non stupirti ch'io proceda così all'improvviso,<br>ché quel che voglio, voglio, e qui si chiude.<br>Ho risoluto che tu spenda alcun [[motifs/time\|tempo]]<br>con Valentino nella [[settings/court\|corte]] dell'Imperatore.<br>Quel mantenimento ch'egli riceve dai suoi,<br>eguale sovvenzione avrai tu da me.<br>Domani sii pronto a partire.<br>Non addurre scuse, ché io son perentorio. |
+| [[characters/proteus\|PROTEUS]] | Mio signore, non posso essere così presto in ordine.<br>Vi piaccia deliberare un giorno o due. |
+| [[characters/antonio\|ANTONIO]] | Guarda: ciò che ti manca ti sarà mandato dietro.<br>Basta con gl'indugi. Domani devi andare.<br>Vieni, Pantino. Tu sarai impiegato<br>ad affrettare la sua partenza. |
+| *(didascalia)* | Escono [[characters/antonio\|Antonio]] e Pantino |
+| [[characters/proteus\|PROTEUS]] | Così ho schivato il [[motifs/fire\|fuoco]] per [[concepts/fear\|paura]] d'ardere<br>e mi son tuffato nel mare dove annego.<br>Temetti di mostrare a mio padre la lettera di [[characters/julia\|Giulia]],<br>ché non movesse eccezioni al mio [[motifs/love\|amore]],<br>e col vantaggio della mia stessa scusa<br>egli ha eccepito al massimo contro il mio [[motifs/love\|amore]].<br>Oh, come questa [[motifs/spring\|primavera]] d'[[motifs/love\|amore]] somiglia<br>all'incerta gloria d'un giorno d'aprile,<br>che ora mostra tutta la [[concepts/beauty\|bellezza]] del sole,<br>e a un tratto una nube porta via ogni cosa. |
+| *(didascalia)* | Entra Pantino |
+| PANTHINO | Messer [[characters/proteus\|Proteo]], vostro padre vi chiama.<br>Ha fretta, perciò vi prego, andate. |
+| [[characters/proteus\|PROTEUS]] | Ecco, è così. Il mio cuore vi consente,<br>e pure mille volte risponde 'No'. |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/valentine\|Valentino]] e [[characters/speed\|Svelto]] |
+| [[characters/speed\|SPEED]] | (offrendo un guanto a [[characters/valentine\|Valentino]])<br>Messere, il vostro guanto. |
+| [[characters/valentine\|VALENTINE]] | Non è mio. I miei guanti li ho indosso. |
+| [[characters/speed\|SPEED]] | E allora questo può essere vostro, ché questo è uno solo. |
+| [[characters/valentine\|VALENTINE]] | Ah, fammi vedere. Sì, dammelo, è mio—<br>dolce ornamento, che adorna cosa divina.<br>Ah, [[characters/silvia\|Silvia]], [[characters/silvia\|Silvia]]! |
+| [[characters/speed\|SPEED]] | Madonna [[characters/silvia\|Silvia]], madonna [[characters/silvia\|Silvia]]! |
+| [[characters/valentine\|VALENTINE]] | Che fai, messerino? |
+| [[characters/speed\|SPEED]] | Non è a portata d'orecchio, messere. |
+| [[characters/valentine\|VALENTINE]] | E chi ti ha detto di chiamarla, messere? |
+| [[characters/speed\|SPEED]] | Vossignoria, messere, o altrimenti ho frainteso. |
+| [[characters/valentine\|VALENTINE]] | [[motifs/well\|Bene]], sarai sempre troppo precipitoso. |
+| [[characters/speed\|SPEED]] | E pure l'ultima volta fui sgridato per esser troppo lento. |
+| [[characters/valentine\|VALENTINE]] | Andiamo, messere. Dimmi, conosci tu madonna [[characters/silvia\|Silvia]]? |
+| [[characters/speed\|SPEED]] | Quella che vossignoria ama? |
+| [[characters/valentine\|VALENTINE]] | Ma come sai tu ch'io sono in [[motifs/love\|amore]]? |
+| [[characters/speed\|SPEED]] | Perbacco, da questi segni particolari: primo, avete imparato, come messer [[characters/proteus\|Proteo]], a incrociarvi le braccia, come un malcontento; a gustare una canzone d'[[motifs/love\|amore]], come un pettirosso; a passeggiare solo, come uno che avesse la peste; a sospirare, come uno scolaro che avesse perduto l'abbecedario; a piangere, come una ragazza che avesse seppellito la nonna; a digiunare, come uno che sta a dieta; a vegliare, come uno che teme i ladri; a parlar piagnucolando, come un mendicante a Ognissanti. Solevate, quando ridevate, cantare come un gallo; quando camminavate, camminare come uno dei leoni. Quando digiunavate, era subito dopo il pranzo; quando avevate l'aria triste, era per mancanza di denaro. E ora siete così metamorfosato da una padrona, che quando vi guardo a stento vi credo il mio padrone. |
+| [[characters/valentine\|VALENTINE]] | Si scorgono in me tutte queste cose? |
+| [[characters/speed\|SPEED]] | Si scorgono tutte fuori di voi. |
+| [[characters/valentine\|VALENTINE]] | Fuori di me? Non possono. |
+| [[characters/speed\|SPEED]] | Fuori di voi? No, questo è certo; ché, se non foste voi così sempliciotto, nessun altro lo sarebbe. Ma voi siete talmente fuori di queste follie, che queste follie sono dentro di voi, e traspaiono attraverso voi come l'[[motifs/water\|acqua]] in un orinale, sicché non c'è occhio che vi guardi il quale non sia un medico a commentare la vostra malattia. |
+| [[characters/valentine\|VALENTINE]] | Ma dimmi, conosci tu la mia signora [[characters/silvia\|Silvia]]? |
+| [[characters/speed\|SPEED]] | Quella che voi fissate tanto mentre siede a cena? |
+| [[characters/valentine\|VALENTINE]] | L'hai osservato? Proprio lei intendo. |
+| [[characters/speed\|SPEED]] | Ma io, messere, non la conosco. |
+| [[characters/valentine\|VALENTINE]] | La conosci dal mio fissarla, e pure non la conosci? |
+| [[characters/speed\|SPEED]] | Non è ella di brutto aspetto, messere? |
+| [[characters/valentine\|VALENTINE]] | Non tanto bella, ragazzo, quanto [[motifs/well\|ben]] avvenente. |
+| [[characters/speed\|SPEED]] | Messere, questo lo so [[motifs/well\|ben]] bene. |
+| [[characters/valentine\|VALENTINE]] | E che cosa sai? |
+| [[characters/speed\|SPEED]] | Che non è tanto bella quanto da voi [[motifs/well\|ben]] favorita. |
+| [[characters/valentine\|VALENTINE]] | Intendo che la sua [[concepts/beauty\|bellezza]] è squisita, ma la sua grazia infinita. |
+| [[characters/speed\|SPEED]] | Questo perché l'una è dipinta e l'altra fuor d'ogni conto. |
+| [[characters/valentine\|VALENTINE]] | Come dipinta? E come fuor di conto? |
+| [[characters/speed\|SPEED]] | Perbacco, messere, dipinta così per farla bella, che nessuno tien conto della sua [[concepts/beauty\|bellezza]]. |
+| [[characters/valentine\|VALENTINE]] | Come mi stimi tu? Io tengo conto della sua [[concepts/beauty\|bellezza]]. |
+| [[characters/speed\|SPEED]] | Voi non l'avete più veduta da quando è deformata. |
+| [[characters/valentine\|VALENTINE]] | Da quanto tempo è deformata? |
+| [[characters/speed\|SPEED]] | Da quando l'amate. |
+| [[characters/valentine\|VALENTINE]] | L'ho amata da quando la vidi, e ancora la vedo bella. |
+| [[characters/speed\|SPEED]] | Se l'[[motifs/love\|amate]] non potete vederla. |
+| [[characters/valentine\|VALENTINE]] | Perché? |
+| [[characters/speed\|SPEED]] | Perché l'[[motifs/love\|amore]] è cieco. Oh, aveste voi i miei occhi, o avessero i vostri occhi i lumi che solevano avere quando rimproveravate messer [[characters/proteus\|Proteo]] perché andava senza giarrettiere. |
+| [[characters/valentine\|VALENTINE]] | E che cosa vedrei allora? |
+| [[characters/speed\|SPEED]] | La vostra presente follia e la sua straordinaria deformità; ché egli, essendo in [[motifs/love\|amore]], non ci vedeva ad allacciarsi le calze, e voi, essendo in [[motifs/love\|amore]], non ci vedete nemmeno a infilarvele. |
+| [[characters/valentine\|VALENTINE]] | Forse allora, ragazzo, sei tu in [[motifs/love\|amore]], ché ieri mattina non ci vedevi a pulirmi le scarpe. |
+| [[characters/speed\|SPEED]] | Vero, messere. Ero in [[motifs/love\|amore]] col mio letto. Vi ringrazio: mi bastonaste per il mio [[motifs/love\|amore]], il che mi rende più ardito a rimproverarvi per il vostro. |
+| [[characters/valentine\|VALENTINE]] | In conclusione, io sto disposto verso di lei. |
+| [[characters/speed\|SPEED]] | Vorrei che vi metteste a sedere. Così la vostra disposizione cesserebbe. |
+| [[characters/valentine\|VALENTINE]] | Ieri [[motifs/night\|notte]] m'ingiunse di scrivere alcune righe a uno ch'ella ama. |
+| [[characters/speed\|SPEED]] | E l'avete fatto? |
+| [[characters/valentine\|VALENTINE]] | L'ho fatto. 85 |
+| [[characters/speed\|SPEED]] | Non sono scritte zoppicando? |
+| [[characters/valentine\|VALENTINE]] | No, ragazzo, ma [[motifs/well\|bene]] quanto so farle. Zitto, ecco che viene. |
+| *(didascalia)* | Entra [[characters/silvia\|Silvia]] |
+| [[characters/speed\|SPEED]] | (a parte) Oh eccellente spettacolo di burattini! Oh straordinaria marionetta!<br>Ora egli le farà da interprete. |
+| [[characters/valentine\|VALENTINE]] | Madonna e signora, mille buongiorni. |
+| [[characters/speed\|SPEED]] | (a parte)<br>Oh, buona sera a voi! Ecco un milione di cerimonie. |
+| [[characters/silvia\|SILVIA]] | Messer [[characters/valentine\|Valentino]] e mio servitore, a voi duemila. |
+| [[characters/speed\|SPEED]] | (a parte) Dovrebbe esser lui a darle l'interesse, ed è lei a darlo a lui. |
+| [[characters/valentine\|VALENTINE]] | Come m'ingiungeste, ho scritto la vostra lettera<br>a quel segreto, innominato amico vostro;<br>cosa in cui assai malvolentieri procedetti,<br>se non per il dovere verso vostra signoria.<br>Le dà una lettera |
+| [[characters/silvia\|SILVIA]] | Vi ringrazio, gentile servitore. È fatta con molta dottrina. |
+| [[characters/valentine\|VALENTINE]] | Credetemi, madonna, mi venne a stento;<br>ché, ignorando a chi vada,<br>scrissi a caso, assai dubbiosamente. |
+| [[characters/silvia\|SILVIA]] | Forse vi par troppa, per tanto scritto, la fatica? |
+| [[characters/valentine\|VALENTINE]] | No, madonna. Purché vi giovi, scriverò—<br>se vi piace comandarlo—mille volte altrettanto.<br>E pure . . . |
+| [[characters/silvia\|SILVIA]] | Un bel punto fermo. [[motifs/well\|Bene]], indovino il seguito.<br>E pure non lo nominerò. E pure non me ne curo.<br>E pure, riprendetevi questa.<br>Gli porge la lettera<br>E pure vi ringrazio,<br>intendendo d'ora innanzi di non disturbarvi più. |
+| [[characters/speed\|SPEED]] | (a parte)<br>E pure lo farete, e pure un altro 'e pure'. |
+| [[characters/valentine\|VALENTINE]] | Che intende vostra signoria? Non vi piace? |
+| [[characters/silvia\|SILVIA]] | Sì, sì. Le righe son scritte con molta arte,<br>ma poiché controvoglia, riprendetevele.<br>Gli caccia in mano la lettera<br>Su, prendetele. |
+| [[characters/valentine\|VALENTINE]] | Madonna, sono per voi. |
+| [[characters/silvia\|SILVIA]] | Sì, sì. Voi le scriveste, messere, a mia richiesta,<br>ma io non ne voglio. Sono per voi.<br>Le avrei volute scritte più commoventi. |
+| [[characters/valentine\|VALENTINE]] | Se vi piace, ne scriverò a vostra signoria un'altra. |
+| [[characters/silvia\|SILVIA]] | E quando sarà scritta, per amor mio rileggetela,<br>e se vi piace, sta bene. Se no, ebbene, sta bene. |
+| [[characters/valentine\|VALENTINE]] | Se piace a me, madonna? E allora? |
+| [[characters/silvia\|SILVIA]] | Ma sì, se vi piace, prendetela per la vostra fatica.<br>E così, buon giorno, servitore. |
+| *(didascalia)* | Esce |
+| [[characters/speed\|SPEED]] | (a parte)<br>Oh burla inosservata, imperscrutabile, invisibile<br>come il naso sulla faccia d'un uomo o una banderuola su un<br>campanile.<br>Il mio padrone la corteggia, ed ella ha insegnato al suo corteggiatore,<br>essendo egli suo scolaro, a farsi suo maestro.<br>Oh eccellente trovata! S'udì mai di meglio?—<br>che il mio padrone, facendo da scrivano, a se stesso scrivesse<br>la lettera. |
+| [[characters/valentine\|VALENTINE]] | Ebbene, messere—che c'è, ragionate fra voi? |
+| [[characters/speed\|SPEED]] | No, stavo rimando. Siete voi che avete la ragione. |
+| [[characters/valentine\|VALENTINE]] | Di far che cosa? |
+| [[characters/speed\|SPEED]] | D'essere portavoce da parte di madonna [[characters/silvia\|Silvia]]. |
+| [[characters/valentine\|VALENTINE]] | Verso chi? |
+| [[characters/speed\|SPEED]] | Verso voi stesso. Ma sì, ella vi corteggia per figura. |
+| [[characters/valentine\|VALENTINE]] | Che figura? |
+| [[characters/speed\|SPEED]] | Per lettera, dovrei dire. |
+| [[characters/valentine\|VALENTINE]] | Ma non m'ha scritto affatto. |
+| [[characters/speed\|SPEED]] | Che bisogno n'aveva, quando v'ha fatto scrivere a voi stesso? Come, non vedete la burla? |
+| [[characters/valentine\|VALENTINE]] | No, credimi. |
+| [[characters/speed\|SPEED]] | Non c'è da credervi davvero, messere. Ma vi siete accorto della sua caparra? |
+| [[characters/valentine\|VALENTINE]] | Non me ne diede alcuna, tranne una parola irata. |
+| [[characters/speed\|SPEED]] | Ma vi ha dato una lettera. |
+| [[characters/valentine\|VALENTINE]] | Quella è la lettera ch'io scrissi al suo amico. |
+| [[characters/speed\|SPEED]] | E quella lettera l'ha fatta recapitare, e qui si chiude. |
+| [[characters/valentine\|VALENTINE]] | Vorrei che non fosse peggio. |
+| [[characters/speed\|SPEED]] | Ve lo garantisco, sta [[motifs/well\|bene]] così.<br>Ché spesso le avete scritto, ed ella per modestia,<br>o per mancanza di [[motifs/time\|tempo]] ozioso, non poté replicare,<br>o temendo che qualche messaggero potesse il suo animo<br>scoprire,<br>ha insegnato ella stessa al suo [[motifs/love\|amore]] a scrivere al proprio<br>[[archetypes/lover\|innamorato]].<br>—Tutto questo lo dico a stampa, ché a stampa l'ho trovato. Perché<br>fantasticate, messere? È il [[motifs/time\|tempo]] del pranzo. |
+| [[characters/valentine\|VALENTINE]] | Ho già pranzato. |
+| [[characters/speed\|SPEED]] | Sì, ma ascoltate, messere. Benché l'[[motifs/love\|amore]] camaleonte possa pascersi d'aria, io sono uno che si nutre di vivande, e vorrei volentieri della carne. Oh, non siate come la vostra padrona—lasciatevi muovere, lasciatevi muovere! |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/proteus\|Proteo]] e [[characters/julia\|Giulia]] |
+| [[characters/proteus\|PROTEUS]] | Abbi pazienza, gentile [[characters/julia\|Giulia]]. |
+| [[characters/julia\|JULIA]] | Devo averne, dove non v'è rimedio. |
+| [[characters/proteus\|PROTEUS]] | Appena mi sarà possibile, tornerò. |
+| [[characters/julia\|JULIA]] | Se non vi voltate altrove, tornerete più presto.<br>Gli dà un anello<br>Serba questo ricordo per amor della tua [[characters/julia\|Giulia]]. |
+| [[characters/proteus\|PROTEUS]] | Ebbene, faremo scambio. Ecco, prendi tu questo.<br>Le dà un anello |
+| [[characters/julia\|JULIA]] | E suggella il patto con un santo bacio. |
+| *(didascalia)* | Si baciano |
+| [[characters/proteus\|PROTEUS]] | Ecco la mia mano a pegno della mia vera costanza.<br>E quando mi trascorra un'ora del giorno<br>in cui io non sospiri, [[characters/julia\|Giulia]], per amor tuo,<br>nell'ora che segue qualche turpe sciagura<br>mi tormenti per la dimenticanza del mio [[motifs/love\|amore]].<br>Mio padre attende la mia venuta. Non rispondere.<br>La marea è adesso. ([[characters/julia\|Giulia]] piange) No, non la tua marea di [[motifs/tears\|lacrime]],<br>quella marea mi tratterrebbe più a lungo di quanto io debba.<br>[[characters/julia\|Giulia]], addio. |
+| *(didascalia)* | Esce [[characters/julia\|Giulia]] |
+| [[characters/proteus\|PROTEUS]] | Come, andata via senza una parola?<br>Sì, così deve fare il vero [[motifs/love\|amore]]. Non sa parlare,<br>ché la [[concepts/truth\|verità]] ha, per adornarsi, opere migliori delle parole. |
+| *(didascalia)* | Entra Pantino |
+| PANTHINO | Messer [[characters/proteus\|Proteo]], siete atteso. |
+| [[characters/proteus\|PROTEUS]] | Va', vengo, vengo.—<br>Ahimè, questo distacco fa muti i poveri amanti. |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Lancia col suo cane Granchio |
+| LANCE | (al pubblico) Eh no, ci vorrà un'ora prima ch'io abbia finito di piangere. Tutta la razza dei Lancia ha proprio questo difetto. Ho ricevuto la mia porzione, come il figliol prodigioso, e me ne vado con messer [[characters/proteus\|Proteo]] alla [[settings/court\|corte]] dell'Imperiale. Credo che Granchio, il mio cane, sia il cane di più acida natura che viva. Mia madre che piangeva, mio padre che si lamentava, mia sorella che singhiozzava, la nostra serva che urlava, la nostra gatta che si torceva le mani, e tutta la nostra casa in gran costernazione: e pure questo botolo dal cuore crudele non versò una lacrima. È una pietra, un vero ciottolo, e non ha in sé più pietà d'un cane. Un ebreo avrebbe pianto a vedere il nostro distacco. Ma sì, mia nonna, che non aveva occhi, vedete, si pianse cieca alla mia partenza. Anzi, vi mostrerò com'è andata. Questa scarpa è mio padre. No, questa scarpa sinistra è mio padre. No, no, questa scarpa sinistra è mia madre. Anzi, neanche così può essere. Sì, è così, è così, ha la suola peggiore. Questa scarpa col buco è mia madre, e questa mio padre. Maledizione, ecco fatto. Ora, messere, questo bastone è mia sorella, ché, vedete, è bianca come un giglio e sottile come una bacchetta. Questo cappello è Nannina, la nostra serva. Io sono il cane. No, il cane è sé stesso, e io sono il cane. Oh, il cane sono io, e io sono me stesso. Sì, così, così. Ora vengo da mio padre: 'Padre, la vostra benedizione.' Ora la scarpa non dovrebbe dir parola dal gran piangere. Ora dovrei baciare mio padre. [[motifs/well\|Bene]], lui séguita a piangere. Ora vengo da mia madre. Oh, potesse parlare adesso, come donna commossa. [[motifs/well\|Bene]], la bacio. Ecco, è proprio così. Ecco tale e quale il fiato di mia madre. Ora vengo da mia sorella. Notate il lamento che fa.—Ora il cane, per tutto questo tempo, non versa una lacrima né dice una parola. Ma guardate come abbatto la [[motifs/dust\|polvere]] con le mie [[motifs/tears\|lacrime]]. |
+| *(didascalia)* | Entra Pantino |
+| PANTHINO | Lancia, via, via, a bordo. Il tuo padrone è imbarcato, e tu devi corrergli dietro a remi. Che c'è? Perché piangi, uomo? Via, asino, perderai la marea se indugi ancora. |
+| LANCE | Poco importa se l'amarra andasse perduta, ché è la più scortese amarra che uomo abbia mai amarrato. |
+| PANTHINO | Qual è l'amarra più scortese? |
+| LANCE | Ma quello che è amarrato qui, Granchio il mio cane. |
+| PANTHINO | Bah, uomo, intendo che perderai il flusso, e perdendo il flusso, perderai il viaggio, e perdendo il viaggio, perderai il padrone, e perdendo il padrone, perderai il servizio, e perdendo il servizio—<br>Lancia mette la mano sulla bocca di Pantino<br>Perché mi tappi la bocca? |
+| LANCE | Per [[concepts/fear\|paura]] che tu perda la lingua. |
+| PANTHINO | E dove mai perderei la lingua? |
+| LANCE | Nelle tue novelle. |
+| PANTHINO | Nelle tue budella! |
+| LANCE | Perdere la marea, e il viaggio, e il padrone, e il servizio, e l'amarra? Ma via, uomo, se il [[motifs/river\|fiume]] fosse asciutto, io son capace di riempirlo con le mie [[motifs/tears\|lacrime]]. Se il [[motifs/wind\|vento]] fosse caduto, potrei spingere la barca coi miei sospiri. |
+| PANTHINO | Su, vieni via, uomo. Fui mandato a chiamarti. |
+| LANCE | Messere, chiamami come osi. |
+| PANTHINO | Vuoi venire? |
+| LANCE | [[motifs/well\|Bene]], verrò. Escono |
+
+### Atto 2, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/valentine\|Valentino]], [[characters/silvia\|Silvia]], [[characters/thurio\|Turio]] e [[characters/speed\|Svelto]] |
+| [[characters/silvia\|SILVIA]] | Servitore! |
+| [[characters/valentine\|VALENTINE]] | Signora? |
+| [[characters/speed\|SPEED]] | (a [[characters/valentine\|Valentino]]) Padrone, messer [[characters/thurio\|Turio]] vi guarda torvo. |
+| [[characters/valentine\|VALENTINE]] | Sì, ragazzo, è per [[motifs/love\|amore]]. |
+| [[characters/speed\|SPEED]] | Non per voi. 5 |
+| [[characters/valentine\|VALENTINE]] | Per la mia signora, allora. |
+| [[characters/speed\|SPEED]] | Sarebbe bene che lo pestaste. |
+| [[characters/silvia\|SILVIA]] | (a [[characters/valentine\|Valentino]]) Servitore, siete triste. |
+| [[characters/valentine\|VALENTINE]] | Davvero, madonna, tale sembro. |
+| [[characters/thurio\|THURIO]] | Sembrate quel che non siete? |
+| [[characters/valentine\|VALENTINE]] | Forse sì. |
+| [[characters/thurio\|THURIO]] | Così fanno i falsari. |
+| [[characters/valentine\|VALENTINE]] | Così fate voi. |
+| [[characters/thurio\|THURIO]] | E che sembro io che non sono? |
+| [[characters/valentine\|VALENTINE]] | Savio. |
+| [[characters/thurio\|THURIO]] | Quale prova del contrario? |
+| [[characters/valentine\|VALENTINE]] | La vostra follia. |
+| [[characters/thurio\|THURIO]] | E dove la notate, la mia follia? |
+| [[characters/valentine\|VALENTINE]] | La noto nel vostro giubbetto. |
+| [[characters/thurio\|THURIO]] | Il mio 'giubbetto' è un doppietto. |
+| [[characters/valentine\|VALENTINE]] | [[motifs/well\|Bene]], allora [[topoi/double\|raddoppierò]] la vostra follia. |
+| [[characters/thurio\|THURIO]] | Come! |
+| [[characters/silvia\|SILVIA]] | Come, adirato, messer [[characters/thurio\|Turio]]? Cambiate colore? |
+| [[characters/valentine\|VALENTINE]] | Lasciatelo fare, madonna, è una specie di camaleonte. |
+| [[characters/thurio\|THURIO]] | Che ha più voglia di pascersi del vostro [[motifs/blood\|sangue]] che di vivere della vostra aria. |
+| [[characters/valentine\|VALENTINE]] | Avete detto, messere. |
+| THORIO | Sì, messere, e anche fatto, per questa [[motifs/time\|volta]]. |
+| [[characters/valentine\|VALENTINE]] | Lo so [[motifs/well\|bene]], messere: finite sempre prima di cominciare. |
+| [[characters/silvia\|SILVIA]] | Bella scarica di parole, signori, e prestamente sparata. |
+| [[characters/valentine\|VALENTINE]] | Davvero, madonna, e ne ringraziamo chi ce l'ha data. [[characters/silvia\|SILVIA]] E chi è, servitore? |
+| [[characters/valentine\|VALENTINE]] | Voi stessa, dolce dama, ché voi deste il [[motifs/fire\|fuoco]]. Messer [[characters/thurio\|Turio]] toglie in prestito il suo spirito dagli sguardi di vostra signoria, e spende gentilmente in vostra compagnia ciò che prende in prestito. |
+| [[characters/thurio\|THURIO]] | Messere, se spendete parola per parola con me, vi manderò lo spirito in bancarotta. |
+| [[characters/valentine\|VALENTINE]] | Lo so [[motifs/well\|bene]], messere. Voi avete un erario di parole e, credo, nessun altro tesoro da dare ai vostri seguaci. Ché appare dalle loro nude livree che vivono delle vostre nude parole. |
+| [[characters/silvia\|SILVIA]] | Basta, signori, basta. Ecco che viene mio padre. |
+| *(didascalia)* | Entra il Duca |
+| DUCA | Ora, figlia [[characters/silvia\|Silvia]], siete duramente assediata.<br>Messer [[characters/valentine\|Valentino]], vostro padre è in buona salute:<br>che direste d'una lettera dai vostri<br>con molte buone novelle? |
+| [[characters/valentine\|VALENTINE]] | Mio signore, sarò grato<br>a ogni felice messaggero che ne venga. |
+| DUCA | Conoscete Don [[characters/antonio\|Antonio]], vostro concittadino? |
+| [[characters/valentine\|VALENTINE]] | Sì, mio buon signore, so che quel gentiluomo<br>è di valore, e degno di stima,<br>e non senza [[motifs/desert\|merito]] così [[motifs/well\|ben]] reputato. |
+| DUCA | Non ha egli un figlio? |
+| [[characters/valentine\|VALENTINE]] | Sì, mio buon signore, un figlio che [[motifs/well\|ben]] merita<br>l'[[concepts/honour\|onore]] e la considerazione di tal padre. |
+| DUCA | Lo conoscete [[motifs/well\|bene]]? |
+| [[characters/valentine\|VALENTINE]] | Lo conoscevo come me stesso, ché fin dall'infanzia<br>abbiamo conversato e passato insieme le nostre ore.<br>E benché io sia stato un ozioso vagabondo,<br>trascurando il dolce beneficio del [[motifs/time\|tempo]]<br>per vestire la mia età d'angelica perfezione,<br>pure messer [[characters/proteus\|Proteo]]—ché tale è il suo nome—<br>ha fatto uso e bel profitto dei suoi giorni:<br>giovani i suoi anni, ma vecchia la sua esperienza;<br>acerbo il suo capo, ma maturo il suo giudizio.<br>E in una parola—ché assai indietro dal suo valore<br>resta ogni lode ch'io ora gli tributi—<br>egli è compiuto, di sembiante e di mente,<br>d'ogni buona grazia che possa adornare un gentiluomo. |
+| DUCA | Ch'io sia maledetto, messere, ma se egli tien fede a questo<br>è degno dell'[[motifs/love\|amore]] d'un'imperatrice<br>quanto atto a esser consigliere d'un imperatore.<br>[[motifs/well\|Bene]], messere, questo gentiluomo è venuto da me<br>con raccomandazioni di grandi potentati,<br>e qui intende passare qualche [[motifs/time\|tempo]].<br>Credo che per voi non sia novella sgradita. |
+| [[characters/valentine\|VALENTINE]] | Se avessi dovuto desiderare qualcosa, sarebbe stato lui. |
+| DUCA | Accoglietelo dunque secondo il suo valore.<br>[[characters/silvia\|Silvia]], parlo a voi, e a voi, messer [[characters/thurio\|Turio]];<br>quanto a [[characters/valentine\|Valentino]], non occorre ch'io ve lo esorti.<br>Ve lo manderò qui or ora. |
+| *(didascalia)* | Esce |
+| [[characters/valentine\|VALENTINE]] | Questo è il gentiluomo di cui dissi a vostra signoria<br>che sarebbe venuto con me, se la sua dama<br>non gli avesse tenuti gli occhi chiusi nei suoi sguardi di cristallo. |
+| [[characters/silvia\|SILVIA]] | Forse ora glieli ha affrancati<br>dietro qualche altro pegno di fedeltà. |
+| [[characters/valentine\|VALENTINE]] | Anzi no, credo che li tenga ancora prigionieri. |
+| [[characters/silvia\|SILVIA]] | Ma allora dovrebb'essere cieco; ed essendo cieco,<br>come poté veder la strada per venire a cercar voi? |
+| [[characters/valentine\|VALENTINE]] | Ma dama, l'[[motifs/love\|amore]] ha venti paia d'occhi. |
+| [[characters/thurio\|THURIO]] | Dicono che l'[[motifs/love\|amore]] non abbia occhio affatto. |
+| [[characters/valentine\|VALENTINE]] | Per veder tali amanti, [[characters/thurio\|Turio]], come voi.<br>Su un oggetto sgraziato l'[[motifs/love\|amore]] sa chiudere gli occhi. |
+| [[characters/silvia\|SILVIA]] | Basta, basta. Ecco che viene il gentiluomo. |
+| *(didascalia)* | Entra [[characters/proteus\|Proteo]] |
+| [[characters/valentine\|VALENTINE]] | Benvenuto, caro [[characters/proteus\|Proteo]]. Signora, vi supplico,<br>confermate il suo benvenuto con qualche favore speciale. |
+| [[characters/silvia\|SILVIA]] | Il suo valore è garanzia del suo benvenuto qui,<br>se è lui colui di cui spesso desideraste aver nuove. |
+| [[characters/valentine\|VALENTINE]] | Signora, è lui. Dolce dama, accoglietelo<br>a esser mio compagno di servizio presso vostra signoria. |
+| [[characters/silvia\|SILVIA]] | Troppo umile padrona per servitore così alto. |
+| [[characters/proteus\|PROTEUS]] | Non così, dolce dama, ma troppo meschino servitore<br>per meritare uno sguardo di padrona sì degna. |
+| [[characters/valentine\|VALENTINE]] | Lasciate i discorsi d'indegnità.<br>Dolce dama, accoglietelo per vostro servitore. |
+| [[characters/proteus\|PROTEUS]] | Del mio dovere mi vanterò, di null'altro. |
+| [[characters/silvia\|SILVIA]] | E il dovere non mancò mai della sua mercede.<br>Servitore, siete benvenuto presso una padrona senza valore. |
+| [[characters/proteus\|PROTEUS]] | Sfiderò a morte chi lo dica, tranne voi stessa. |
+| [[characters/silvia\|SILVIA]] | Che siete benvenuto? |
+| [[characters/proteus\|PROTEUS]] | Che siete senza valore. |
+| *(didascalia)* | Entra un Servitore |
+| *(didascalia)* | SERVITORE |
+| [[characters/proteus\|PROTEUS]] | Madonna, il mio signore vostro padre vorrebbe parlarvi. |
+| *(didascalia)* | Sono ai suoi ordini. Esce il Servitore |
+| [[characters/silvia\|SILVIA]] | Venite, messer [[characters/thurio\|Turio]],<br>venite con me. Ancora una volta, nuovo servitore, benvenuto.<br>Vi lascio a conferire delle cose di [[motifs/home\|casa]].<br>Quando avrete finito, contiamo d'aver vostre nuove. |
+| [[characters/proteus\|PROTEUS]] | Verremo entrambi al servizio di vostra signoria. |
+| *(didascalia)* | Escono [[characters/silvia\|Silvia]] e [[characters/thurio\|Turio]] |
+| [[characters/valentine\|VALENTINE]] | Ora dimmi: come stanno tutti là donde vieni? |
+| [[characters/proteus\|PROTEUS]] | I tuoi amici stanno [[motifs/well\|bene]], e ti mandano molti saluti. |
+| [[characters/valentine\|VALENTINE]] | E i tuoi come stanno? |
+| [[characters/proteus\|PROTEUS]] | Li ho lasciati tutti in salute. |
+| [[characters/valentine\|VALENTINE]] | Come sta la tua dama, e come prospera il tuo [[motifs/love\|amore]]? |
+| [[characters/proteus\|PROTEUS]] | I miei racconti d'[[motifs/love\|amore]] solevano annoiarti.<br>So che non godi d'un discorso d'[[motifs/love\|amore]]. |
+| [[characters/valentine\|VALENTINE]] | Sì, [[characters/proteus\|Proteo]], ma quella vita ora è mutata.<br>Ho fatto penitenza per aver disprezzato l'[[motifs/love\|amore]],<br>i cui alti e imperiosi pensieri m'hanno punito<br>con amari digiuni, con gemiti di penitenza,<br>con [[motifs/tears\|lacrime]] notturne e diurni sospiri che accorano.<br>Ché a [[concepts/revenge\|vendetta]] del mio disprezzo dell'[[motifs/love\|amore]]<br>[[motifs/love\|Amore]] ha cacciato il [[motifs/sleep\|sonno]] dai miei occhi asserviti,<br>e li ha fatti veglianti sul dolore del mio stesso cuore.<br>O gentile [[characters/proteus\|Proteo]], l'[[motifs/love\|amore]] è un possente signore,<br>e m'ha così umiliato ch'io confesso<br>non esservi doglia pari al suo castigo,<br>né al suo servigio gioia pari sulla terra.<br>Ora, nessun discorso se non sia d'[[motifs/love\|amore]].<br>Ora posso far colazione, desinare, cenare e [[motifs/sleep\|dormire]]<br>sul nudo nome stesso d'[[motifs/love\|amore]]. |
+| [[characters/proteus\|PROTEUS]] | Basta. Leggo la tua fortuna nel tuo occhio.<br>Era questo l'idolo che tanto adori? |
+| [[characters/valentine\|VALENTINE]] | Proprio lei; e non è ella una santa celeste? |
+| [[characters/proteus\|PROTEUS]] | No, ma è un terreno paragone. |
+| [[characters/valentine\|VALENTINE]] | Chiamala divina. |
+| [[characters/proteus\|PROTEUS]] | Non voglio adularla. |
+| [[characters/valentine\|VALENTINE]] | Oh, adula me; ché l'[[motifs/love\|amore]] si diletta di lodi. |
+| [[characters/proteus\|PROTEUS]] | Quando ero malato mi desti amare pillole,<br>e io devo somministrarne di simili a te. |
+| [[characters/valentine\|VALENTINE]] | Allora di' la [[concepts/truth\|verità]] su di lei: se non divina,<br>sia almeno una principessa,<br>sovrana di tutte le creature della terra. |
+| [[characters/proteus\|PROTEUS]] | Tranne la mia signora. |
+| [[characters/valentine\|VALENTINE]] | Caro, non eccettuare alcuna,<br>se non vuoi far eccezione contro il mio [[motifs/love\|amore]]. |
+| [[characters/proteus\|PROTEUS]] | Non ho ragione di preferire la mia? |
+| [[characters/valentine\|VALENTINE]] | E anch'io t'aiuterò a preferirla.<br>Sarà nobilitata da questo alto [[concepts/honour\|onore]]:<br>portare lo strascico della mia dama, ché la vile terra<br>non abbia per caso a rubare un bacio alla sua veste<br>e, insuperbita di sì gran favore,<br>sdegni di dar radice al fiore che l'[[motifs/summer\|estate]] gonfia,<br>e faccia rigido [[motifs/winter\|inverno]] in eterno. |
+| [[characters/proteus\|PROTEUS]] | Ma via, [[characters/valentine\|Valentino]], che millanteria è questa? |
+| [[characters/valentine\|VALENTINE]] | Perdonami, [[characters/proteus\|Proteo]]: tutto quel che posso è nulla<br>presso colei il cui valore fa nulla ogni altro valore.<br>Ella è sola al mondo. |
+| [[characters/proteus\|PROTEUS]] | Allora lasciala sola. |
+| [[characters/valentine\|VALENTINE]] | Per nulla al mondo. Ma via, uomo, ella è mia,<br>e io son ricco d'aver tal [[motifs/jewel\|gioiello]]<br>quanto venti mari, se tutta la loro sabbia fosse perla,<br>l'[[motifs/water\|acqua]] nettare, e gli scogli oro puro.<br>Perdonami se non fantastico su di te,<br>perché mi vedi stravedere per il mio [[motifs/love\|amore]].<br>Il mio sciocco rivale, che a suo padre piace<br>solo perché i suoi possedimenti son tanto vasti,<br>è andato via con lei, e io devo seguirli;<br>ché l'[[motifs/love\|amore]], tu lo sai, è pieno di [[concepts/jealousy\|gelosia]]. |
+| [[characters/proteus\|PROTEUS]] | Ma ella ti ama? |
+| [[characters/valentine\|VALENTINE]] | Sì, e siamo fidanzati. Anzi di più, l'ora delle nostre [[motifs/marriage\|nozze]],<br>è stabilita,<br>con tutta l'astuta maniera della nostra fuga,<br>convenuta: come io debba scalare la sua [[motifs/window\|finestra]],<br>la scala fatta di corde, e tutti i mezzi<br>orditi e [[concepts/greed\|concordati]] per la mia felicità.<br>Buon [[characters/proteus\|Proteo]], vieni con me nella mia camera<br>ad aiutarmi col tuo consiglio in queste faccende. |
+| [[characters/proteus\|PROTEUS]] | Va' innanzi. Verrò a cercarti.<br>Devo andare alla [[motifs/road\|rada]], a sbarcare<br>alcune cose necessarie di cui devo servirmi,<br>e poi sarò subito da te. |
+| [[characters/valentine\|VALENTINE]] | Farai presto? |
+| [[characters/proteus\|PROTEUS]] | Sì. Esce [[characters/valentine\|Valentino]]<br>Come un calore scaccia un altro calore,<br>o come un chiodo a forza ne caccia fuori un altro,<br>così il ricordo del mio [[motifs/love\|amore]] d'un tempo<br>è, per un oggetto più nuovo, del tutto obliato.<br>È il mio occhio, o la lode di [[characters/valentine\|Valentino]],<br>la sua vera perfezione, o la mia falsa trasgressione,<br>che mi fa, senza ragione, ragionare così?<br>Ella è bella, e bella è [[characters/julia\|Giulia]] ch'io [[motifs/love\|amo]]—<br>ch'io [[motifs/love\|amai]], ché ora il mio [[motifs/love\|amore]] s'è disciolto,<br>e come immagine di cera davanti al [[motifs/fire\|fuoco]]<br>non serba impronta della cosa che fu.<br>Mi pare che il mio zelo per [[characters/valentine\|Valentino]] sia freddo,<br>e ch'io non l'[[motifs/love\|ami]] come solevo.<br>Oh, ma [[motifs/love\|amo]] troppo, troppo la sua dama,<br>ed è questa la ragione per cui l'[[motifs/love\|amo]] così poco.<br>Come stravedrò per lei con più riflessione,<br>se così, senza riflessione, comincio ad [[motifs/love\|amarla]]?<br>Non è che la sua immagine quel ch'io ho finora contemplato,<br>e già m'ha abbagliato la luce della ragione.<br>Ma quando guarderò le sue perfezioni<br>non v'è ragione ch'io non resti cieco.<br>Se posso frenare il mio errante [[motifs/love\|amore]], lo farò;<br>se no, per conquistarla userò la mia arte. Esce |
+
+### Atto 2, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/speed\|Svelto]] e Lancia col suo cane Granchio |
+| [[characters/speed\|SPEED]] | Lancia, sulla mia onestà, benvenuto a Milano. |
+| LANCE | Non spergiurare, dolce giovane, ché non sono affatto benvenuto. Io conto sempre così: che un uomo non è mai rovinato finché non sia impiccato, né mai benvenuto in un luogo finché non sia pagato un certo scotto e l'ostessa non dica 'Benvenuto'. |
+| [[characters/speed\|SPEED]] | Andiamo, testa matta. Verrò subito con te alla birreria, dove, per uno scotto di cinque soldi, avrai cinquemila benvenuti. Ma dimmi, messerino, come si separò il tuo padrone da madonna [[characters/julia\|Giulia]]? |
+| LANCE | Perbacco, dopo essersi stretti sul serio si separarono assai garbatamente per scherzo. |
+| [[characters/speed\|SPEED]] | Ma lei lo sposerà? |
+| LANCE | No. |
+| [[characters/speed\|SPEED]] | E come, la sposerà lui? |
+| LANCE | No, nemmeno. |
+| [[characters/speed\|SPEED]] | Come, si sono rotti? |
+| LANCE | No, sono tutti e due sani come un pesce. |
+| [[characters/speed\|SPEED]] | E allora come sta la faccenda fra loro? |
+| LANCE | Perbacco, così: quando sta [[motifs/well\|bene]] a lui sta [[motifs/well\|bene]] a lei. |
+| [[characters/speed\|SPEED]] | Che asino sei! Io non ti sostengo. |
+| LANCE | Che ceppo sei tu, che non ci riesci! Il mio bastone mi sostiene. |
+| [[characters/speed\|SPEED]] | Quel che dici? |
+| LANCE | Sì, e anche quel che faccio. Guarda: non ho che da appoggiarmi, e il mio bastone mi sta-sotto-e-sostiene. |
+| [[characters/speed\|SPEED]] | Ti sta sotto davvero. |
+| LANCE | Ma sì, stare-sotto e so-stenere è tutt'uno. [[characters/speed\|SPEED]] Ma dimmi il vero, sarà un matrimonio? |
+| LANCE | Chiedilo al mio cane. Se dice 'Sì', si farà. Se dice 'No', si farà. Se scuote la coda e non dice nulla, si farà. |
+| [[characters/speed\|SPEED]] | La conclusione, dunque, è che si farà. |
+| LANCE | Un tal segreto non me lo caverai mai se non per [[forms/parable\|parabola]]. |
+| [[characters/speed\|SPEED]] | Sta [[motifs/well\|bene]] che l'abbia così. Ma Lancia, che dici tu che il mio padrone è diventato un famoso [[archetypes/lover\|amoroso]]? |
+| LANCE | Non l'ho mai conosciuto altrimenti. |
+| [[characters/speed\|SPEED]] | Altrimenti come? |
+| LANCE | Un famoso ozioso, come tu me lo descrivi. |
+| [[characters/speed\|SPEED]] | Ma va', asino figlio di baldracca, tu m'hai frainteso. |
+| LANCE | Ma [[archetypes/fool\|sciocco]], non intendevo te, intendevo il tuo padrone. |
+| [[characters/speed\|SPEED]] | Ti dico che il mio padrone è diventato un [[archetypes/lover\|innamorato]] ardente. |
+| LANCE | E io ti dico che non m'importa, quand'anche si bruciasse d'[[motifs/love\|amore]]. Se vuoi, vieni con me alla birreria. Se no, sei un ebreo, un giudeo, e non degno del nome di cristiano. |
+| [[characters/speed\|SPEED]] | Perché? |
+| LANCE | Perché non hai in te tanta [[concepts/charity\|carità]] da andare a bere una birra con un cristiano. Ci vieni? |
+| [[characters/speed\|SPEED]] | Ai tuoi ordini. |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/proteus\|Proteo]] |
+| [[characters/proteus\|PROTEUS]] | A lasciare la mia [[characters/julia\|Giulia]] sarò spergiuro;<br>ad [[motifs/love\|amare]] la bella [[characters/silvia\|Silvia]] sarò spergiuro;<br>a far torto al mio amico sarò spergiuro assai.<br>E quella stessa potenza che prima mi diede il giuramento<br>mi spinge a questo triplice spergiuro.<br>[[motifs/love\|Amore]] mi comandò di giurare, e [[motifs/love\|amore]] mi comanda di spergiurare.<br>O [[motifs/love\|amore]] dalle dolci suggestioni, se hai peccato<br>insegna a me, tuo tentato suddito, a scusarlo.<br>Dapprima adorai una stella tremolante,<br>ma ora venero un sole celeste.<br>I voti fatti senza avvedutezza si possono avvedutamente rompere,<br>e manca di senno colui cui manca risoluto volere<br>d'insegnare al suo senno a cambiare il peggio col meglio.<br>Ohibò, ohibò, lingua irriverente, a chiamar cattiva colei<br>la cui sovranità tante volte hai anteposto<br>con ventimila giuramenti confermati dall'[[motifs/soul\|anima]].<br>Non posso cessare d'[[motifs/love\|amare]], e pure lo faccio.<br>Ma cesso d'[[motifs/love\|amare]] proprio là dove dovrei [[motifs/love\|amare]].<br>[[characters/julia\|Giulia]] perdo, e [[characters/valentine\|Valentino]] perdo.<br>Se li conservo, devo per forza perdere me stesso.<br>Se li perdo, ecco che trovo con la loro perdita<br>in luogo di [[characters/valentine\|Valentino]] me stesso, in luogo di [[characters/julia\|Giulia]], [[characters/silvia\|Silvia]].<br>Io a me stesso son più caro d'un amico,<br>ché l'[[motifs/love\|amore]] è sempre più prezioso in sé,<br>e [[characters/silvia\|Silvia]]—ne sia testimone il cielo che la fece bella—<br>mostra [[characters/julia\|Giulia]] non più che una fosca etiope.<br>Dimenticherò che [[characters/julia\|Giulia]] è viva,<br>ricordando che il mio [[motifs/love\|amore]] per lei è morto,<br>e [[characters/valentine\|Valentino]] terrò per nemico,<br>mirando a [[characters/silvia\|Silvia]] come a più dolce amica.<br>Non posso ora mostrarmi costante a me stesso<br>senza usare qualche tradimento a [[characters/valentine\|Valentino]].<br>Questa [[motifs/night\|notte]] egli intende, con una scala di corde,<br>scalare la [[motifs/window\|finestra]] della camera della celeste [[characters/silvia\|Silvia]],<br>essendo io suo confidente e insieme rivale.<br>Or ora ne darò avviso a suo padre,<br>del loro travestimento e della fuga divisata;<br>ed egli, tutto infuriato, bandirà [[characters/valentine\|Valentino]];<br>ché a [[characters/thurio\|Turio]] intende dar la figlia in sposa.<br>Ma andato via [[characters/valentine\|Valentino]], presto [[motifs/cross\|traverserò]]<br>con qualche astuzia il goffo procedere dell'ottuso [[characters/thurio\|Turio]].<br>[[motifs/love\|Amore]], prestami ali per far rapido il mio disegno,<br>come m'hai prestato ingegno per ordir questa trama. Esce |
+
+### Atto 2, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/julia\|Giulia]] e Lucetta |
+| [[characters/julia\|JULIA]] | Consiglio, Lucetta. Gentile fanciulla, assistimi,<br>e in nome del tenero [[motifs/love\|amore]] io ti scongiuro,<br>tu che sei la tavola in cui tutti i miei pensieri<br>sono visibilmente scritti e incisi,<br>d'ammaestrarmi, e dirmi qualche buon modo<br>perché io possa col mio [[concepts/honour\|onore]] intraprendere<br>un [[motifs/journey\|viaggio]] verso il mio amoroso [[characters/proteus\|Proteo]]. |
+| LUCETTA | Ahimè, la via è faticosa e lunga. |
+| [[characters/julia\|JULIA]] | Un [[archetypes/pilgrim\|pellegrino]] veramente devoto non si stanca<br>di misurare regni coi suoi deboli passi.<br>Molto meno colei che ha ali d'[[motifs/love\|amore]] per volare,<br>e quando il volo è fatto verso uno sì caro,<br>di sì divina perfezione come messer [[characters/proteus\|Proteo]]. |
+| LUCETTA | Meglio pazientare finché [[characters/proteus\|Proteo]] faccia ritorno. |
+| [[characters/julia\|JULIA]] | Oh, non sai tu che i suoi sguardi sono il cibo della mia [[motifs/soul\|anima]]?<br>Abbi pietà della carestia in cui mi sono consumata<br>[[concepts/longing\|bramando]] quel cibo per sì lungo [[motifs/time\|tempo]].<br>Se solo conoscessi il tocco intimo dell'[[motifs/love\|amore]],<br>andresti piuttosto ad accendere il [[motifs/fire\|fuoco]] con la [[motifs/snow\|neve]]<br>che a cercar di spegnere con parole il [[motifs/fire\|fuoco]] d'[[motifs/love\|amore]]. |
+| LUCETTA | Non cerco di spegnere l'ardente [[motifs/fire\|fuoco]] del vostro [[motifs/love\|amore]],<br>ma di temperare l'estrema furia del [[motifs/fire\|fuoco]],<br>ché non arda oltre i confini della ragione. |
+| [[characters/julia\|JULIA]] | Più tu lo argini, più esso brucia.<br>La corrente che con dolce mormorio scorre,<br>tu lo sai, se arrestata, impazientemente infuria.<br>Ma quando il suo bel corso non è impedito<br>fa dolce musica coi ciottoli smaltati,<br>dando un tenero bacio a ogni giunco<br>che raggiunge nel suo pellegrinare.<br>E così per molte anse tortuose vagabonda<br>con lieto giuoco fino al selvaggio oceano.<br>Lasciami dunque andare, e non impedire il mio corso.<br>Sarò paziente come un dolce ruscello,<br>e farò passatempo d'ogni passo affannoso<br>finché l'ultimo passo m'abbia condotta al mio [[motifs/love\|amore]].<br>E là riposerò come, dopo molto travaglio,<br>riposa un'[[motifs/soul\|anima]] beata nell'Eliso. |
+| LUCETTA | Ma in quale abito ve n'andrete? |
+| [[characters/julia\|JULIA]] | Non da donna, ché vorrei prevenire<br>i licenziosi incontri d'uomini lascivi.<br>Gentile Lucetta, forniscimi di quelle vesti<br>che possano convenire a un paggio di [[motifs/well\|buona]] reputazione. |
+| LUCETTA | E allora vostra signoria dovrà tagliarsi i capelli. |
+| [[characters/julia\|JULIA]] | No, fanciulla, li annoderò in cordoncini di seta<br>con venti nodi d'[[motifs/love\|amore]] fedele di strana foggia.<br>L'esser stravagante può convenire a un giovane<br>di [[motifs/time\|età]] maggiore di quella che mostrerò d'avere. |
+| LUCETTA | Di che foggia, madonna, vi farò i calzoni? |
+| [[characters/julia\|JULIA]] | Questo sta [[motifs/well\|bene]] quanto: 'Ditemi, mio buon signore,<br>di che circonferenza porterete il vostro guardinfante?'<br>Ma sì, della foggia che più ti piace, Lucetta. |
+| LUCETTA | Bisogna proprio averli con la brachetta, madonna. |
+| [[characters/julia\|JULIA]] | Via, via, Lucetta. Sarà cosa sconveniente. |
+| LUCETTA | Una braca tonda, madonna, oggi non vale uno spillo<br>se non avete una brachetta su cui appuntare gli spilli. |
+| [[characters/julia\|JULIA]] | Lucetta, per l'amore che mi porti, dammi<br>ciò che stimi conveniente e che sia più decoroso.<br>Ma dimmi, ragazza, come mi giudicherà il mondo<br>per aver intrapreso un [[motifs/journey\|viaggio]] così sconsiderato?<br>[[concepts/fear\|Temo]] che mi renderà oggetto di scandalo. |
+| LUCETTA | Se così pensate, restate a [[motifs/home\|casa]], e non andate. |
+| [[characters/julia\|JULIA]] | No, questo non lo farò. |
+| LUCETTA | Allora non pensate all'infamia, e andate.<br>Se a [[characters/proteus\|Proteo]] piacerà il vostro [[motifs/journey\|viaggio]] quando arriverete,<br>poco importa a chi dispiaccia una volta che sarete partita.<br>[[concepts/fear\|Temo]] però che a stento ne sarà contento. |
+| [[characters/julia\|JULIA]] | Questo è il minore, Lucetta, dei miei [[concepts/fear\|timori]].<br>Mille giuramenti, un oceano delle sue [[motifs/tears\|lacrime]],<br>e prove d'[[motifs/love\|amore]] infinito<br>mi garantiscono accoglienza presso il mio [[characters/proteus\|Proteo]]. |
+| LUCETTA | Tutte queste cose sono serve d'uomini ingannatori. |
+| [[characters/julia\|JULIA]] | Uomini vili, che le usano a sì vile effetto.<br>Ma [[motifs/stars\|stelle]] più veraci governarono la nascita di [[characters/proteus\|Proteo]].<br>Le sue parole sono obbligazioni, i suoi giuramenti oracoli,<br>il suo [[motifs/love\|amore]] sincero, i suoi pensieri immacolati,<br>le sue [[motifs/tears\|lacrime]] puri messaggeri mandati dal suo cuore,<br>il suo cuore tanto lontano dalla frode quanto il cielo dalla terra. |
+| LUCETTA | Voglia il cielo ch'egli si mostri tale quando verrete a lui. |
+| [[characters/julia\|JULIA]] | Ora, per l'amore che mi porti, non gli fare questo torto<br>d'avere dura opinione della sua [[concepts/truth\|lealtà]].<br>Merita il mio [[motifs/love\|amore]] soltanto amando lui,<br>e vieni subito con me nella mia camera<br>a prender nota di ciò di cui ho bisogno<br>per fornirmi in vista del mio [[concepts/longing\|bramato]] [[motifs/journey\|viaggio]].<br>Tutto ciò che è mio lascio a tua disposizione:<br>i miei beni, le mie terre, la mia reputazione;<br>solo, in cambio di questo, spediscimi via di qui.<br>Su, non rispondere, ma mettiti all'opera subito.<br>Sono impaziente del mio indugio. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Duca, [[characters/thurio\|Turio]] e [[characters/proteus\|Proteo]] |
+| DUCA | Messer [[characters/thurio\|Turio]], lasciateci soli, ve ne prego, un poco.<br>Abbiamo certi [[motifs/secrets\|segreti]] da conferire. Esce [[characters/thurio\|Turio]]<br><br>Or dimmi, [[characters/proteus\|Proteo]], che vuoi da me? |
+| [[characters/proteus\|PROTEUS]] | Mio grazioso signore, ciò che vorrei svelare<br>la legge dell'[[concepts/friendship\|amicizia]] m'impone di celare.<br>Ma quando richiamo alla mente i vostri graziosi favori<br>fatti a me, immeritevole quale io sono,<br>il mio dovere mi sprona a dire ciò<br>che altrimenti nessun bene al mondo mi strapperebbe.<br>Sappiate, degno principe, che messer [[characters/valentine\|Valentino]], mio amico,<br>questa [[motifs/night\|notte]] intende rapirvi la figlia.<br>Io stesso son fatto partecipe della trama.<br>So che avete deciso di darla in sposa<br>a [[characters/thurio\|Turio]], che la vostra gentile figliola odia,<br>e s'ella vi fosse così rapita<br>sarebbe gran tormento alla vostra età.<br>Così, per amor del dovere, ho scelto piuttosto<br>di [[motifs/cross\|traversare]] il mio amico nel suo divisato disegno<br>che, celandolo, ammucchiare sul vostro capo<br>un fardello di dolori che vi schiaccerebbe,<br>se non prevenuto, fino all'immatura vostra [[motifs/grave\|tomba]]. |
+| DUCA | [[characters/proteus\|Proteo]], ti ringrazio della tua onesta premura,<br>e per ricompensarla disponi di me finché vivo.<br>Questo loro [[motifs/love\|amore]] l'ho spesso veduto io stesso,<br>forse quando mi credevano profondamente addormentato,<br>e spesse volte ho pensato di vietare<br>a messer [[characters/valentine\|Valentino]] la sua compagnia e la mia [[settings/court\|corte]].<br>Ma temendo che il mio geloso sospetto errasse,<br>e disonorasse così indegnamente quell'uomo—<br>avventatezza che sempre ho evitato—<br>gli diedi sguardi benevoli, per scoprire<br>ciò che tu stesso ora m'hai rivelato.<br>E perché tu possa intendere la mia [[concepts/fear\|paura]] di ciò,<br>sapendo che la tenera giovinezza è presto tentata,<br>ogni notte l'alloggio in un'alta torre,<br>la cui chiave ho sempre tenuto io stesso;<br>e di là non può essere portata via. |
+| [[characters/proteus\|PROTEUS]] | Sappiate, nobile signore, ch'essi hanno escogitato un modo<br>per cui egli salirà alla [[motifs/window\|finestra]] della sua camera,<br>e con una scala di corda la farà scendere,<br>per la quale il giovane [[archetypes/lover\|innamorato]] è ora partito,<br>e per questa via egli viene con essa fra poco,<br>dove, se vi piace, potrete intercettarlo.<br>Ma, mio buon signore, fatelo con tanta astuzia<br>che non si sospetti la mia rivelazione;<br>ché per [[motifs/love\|amore]] di voi, non per odio all'amico,<br>mi son fatto rivelatore di questo disegno. |
+| DUCA | Sul mio [[concepts/honour\|onore]], egli non saprà mai<br>che da te ho avuto lume di questo. |
+| [[characters/proteus\|PROTEUS]] | Addio, mio signore. Messer [[characters/valentine\|Valentino]] viene. Esce Entra [[characters/valentine\|Valentino]] |
+| DUCA | Messer [[characters/valentine\|Valentino]], dove andate così in fretta? |
+| [[characters/valentine\|VALENTINE]] | Piaccia a vostra grazia, c'è un messaggero<br>che aspetta di portare le mie lettere agli amici,<br>e vado a consegnargliele. |
+| DUCA | Sono di molta importanza? |
+| [[characters/valentine\|VALENTINE]] | Il loro tenore non significa altro che<br>la mia salute e il felice mio stare alla vostra [[settings/court\|corte]]. |
+| DUCA | E allora non importa. Resta un poco con me.<br>Devo aprirmi con te di certe faccende<br>che mi toccano da presso, e in cui devi esser discreto.<br>Non t'è ignoto ch'io ho cercato<br>di maritare l'amico mio messer [[characters/thurio\|Turio]] a mia figlia. |
+| [[characters/valentine\|VALENTINE]] | Lo so [[motifs/well\|bene]], signore; e certo il partito<br>sarebbe ricco e onorevole. E poi il gentiluomo<br>è pieno di virtù, generosità, valore e qualità<br>degne d'una sposa quale la vostra bella figliola.<br>Non può vostra grazia indurla ad amarlo? |
+| DUCA | No, credimi. È stizzosa, imbronciata, ritrosa,<br>superba, disubbidiente, ostinata, senza dovere,<br>né bada ch'ella è mia [[archetypes/child\|figlia]]<br>né mi teme come se fossi suo padre.<br>E posso dirti che questa sua [[concepts/pride\|superbia]],<br>a ben pensarci, m'ha ritratto da lei il mio [[motifs/love\|amore]],<br>e là dove pensavo che il resto della mia età<br>dovesse esser confortato dal suo dovere di [[archetypes/child\|figlia]] amorosa,<br>ora son del tutto risoluto a prender moglie,<br>e a cacciarla fuori a chi la voglia accogliere.<br>La sua [[concepts/beauty\|bellezza]] sia dunque la sua dote nuziale,<br>ché me e i miei averi ella non stima. |
+| [[characters/valentine\|VALENTINE]] | Che vorrebbe vostra grazia ch'io facessi in questo? |
+| DUCA | C'è qui una dama di [[settings/verona\|Verona]]<br>ch'io amo, ma ella è schifiltosa e ritrosa,<br>e nulla stima la mia attempata eloquenza.<br>Perciò vorrei averti per mio maestro—<br>ché da gran tempo ho dimenticato l'arte di [[settings/court\|corteggiare]],<br>e poi la moda del [[motifs/time\|tempo]] è mutata—<br>come e in che modo io possa contenermi<br>per esser guardato dal suo occhio splendente come il sole. |
+| [[characters/valentine\|VALENTINE]] | Vincetela con doni, se non bada alle parole.<br>Muti gioielli spesso, nel loro tacito modo,<br>più che pronte parole muovono la mente d'una donna. |
+| DUCA | Ma ella sdegnò un presente che le mandai. |
+| [[characters/valentine\|VALENTINE]] | Talvolta una donna sdegna ciò che più le piace.<br>Mandatele un altro. Non desistete mai,<br>ché lo sdegno da principio fa poi l'[[motifs/love\|amore]] maggiore.<br>S'ella s'acciglia, non è per odio di voi,<br>ma piuttosto per generare in voi più [[motifs/love\|amore]].<br>S'ella vi sgrida, non è per mandarvi via,<br>perché quelle sciocche impazziscono se lasciate sole.<br>Non accettate ripulsa, qualunque cosa ella dica:<br>con 'Andatevene' non intende 'Via'.<br>Adulate e lodate, encomiate, esaltate le loro grazie;<br>per nere che siano, dite ch'hanno visi d'angelo.<br>Quell'uomo che ha una lingua, io dico che non è uomo<br>se con la lingua non sa conquistare una donna. |
+| DUCA | Ma quella ch'io dico è promessa dai suoi<br>a un giovane gentiluomo di valore,<br>e tenuta severamente lontana dal concorso d'uomini,<br>sì che nessuno può accostarla di giorno. |
+| [[characters/valentine\|VALENTINE]] | E allora andrei da lei di [[motifs/night\|notte]]. |
+| DUCA | Sì, ma le porte son chiuse e le chiavi custodite,<br>sì che nessuno può giungere a lei di [[motifs/night\|notte]]. |
+| [[characters/valentine\|VALENTINE]] | Che impedisce d'entrare dalla sua [[motifs/window\|finestra]]? |
+| DUCA | La sua camera è in alto, lontana dal suolo,<br>e costruita così a strapiombo che non vi si può salire<br>senza manifesto pericolo della vita. |
+| [[characters/valentine\|VALENTINE]] | Ebbene, una scala ingegnosamente fatta di corde<br>da lanciar su, con un paio di ganci d'ancoraggio,<br>basterebbe a scalare la torre d'un'altra [[archetypes/hero\|Ero]],<br>pur che un ardito Leandro l'osasse. |
+| DUCA | Ora, come tu sei gentiluomo di [[motifs/blood\|sangue]],<br>consigliami dove possa avere una tale scala. |
+| [[characters/valentine\|VALENTINE]] | Quando l'usereste? Di grazia, signore, ditemelo. |
+| DUCA | Questa stessa [[motifs/night\|notte]]; ché l'[[motifs/love\|amore]] è come un [[archetypes/child\|fanciullo]]<br>che brama tutto ciò cui possa arrivare. |
+| [[characters/valentine\|VALENTINE]] | Per le sette d'[[motifs/clock\|orologio]] vi procurerò una tal scala. |
+| DUCA | Ma senti: andrò da lei solo.<br>Come porterò meglio la scala colà? |
+| [[characters/valentine\|VALENTINE]] | Sarà leggera, signore, sì che potrete portarla<br>sotto un mantello di qualsivoglia lunghezza. |
+| DUCA | Un mantello lungo come il tuo servirà allo scopo? |
+| [[characters/valentine\|VALENTINE]] | Sì, mio buon signore. |
+| DUCA | Allora fammi vedere il tuo mantello,<br>me ne procurerò uno d'altrettanta lunghezza. |
+| [[characters/valentine\|VALENTINE]] | Ma qualunque mantello servirà allo scopo, signore. |
+| DUCA | Come devo acconciarmi per portare un mantello?<br>Ti prego, lascia ch'io provi il tuo mantello addosso.<br>Solleva il mantello di [[characters/valentine\|Valentino]] e vi trova una lettera e una scala di corda<br>Che lettera è mai questa? Che c'è qui? 'A [[characters/silvia\|Silvia]]'?<br>E qui uno strumento adatto al mio procedere.<br>Sarò tanto ardito da rompere il sigillo per una volta.<br>(Legge)<br>'I miei pensieri albergano ogni notte con la mia [[characters/silvia\|Silvia]],<br>e schiavi son di me, che li mando a volo.<br>Oh, potesse il padrone loro andare e venire così lieve,<br>egli stesso alloggerebbe dove essi, insensibili, giacciono.<br>I miei pensieri araldi riposano nel tuo puro seno,<br>mentre io, loro [[archetypes/king\|re]], che colà li sospingo,<br>maledico la grazia che con tanta grazia ha benedetto<br>loro,<br>perché io stesso son privo della fortuna dei miei servi.<br>Maledico me stesso perché son mandati da me,<br>sì ch'essi albergano dove il loro signore dovrebbe essere.'<br>Che c'è qui?<br>'[[characters/silvia\|Silvia]], questa [[motifs/night\|notte]] ti darò libertà'?<br>È così, ed ecco la scala a tale scopo.<br>Ma come, Fetonte, poiché sei figlio di Merope,<br>aspiri tu a guidare il carro celeste,<br>e con la tua ardita follia bruciare il mondo?<br>Vuoi tu raggiungere le [[motifs/stars\|stelle]] perché splendono su di te?<br>Va', vile intruso, schiavo presuntuoso,<br>elargisci i tuoi sorrisi adulatori a compagni tuoi pari,<br>e pensa che la mia pazienza, più che il tuo [[motifs/desert\|merito]],<br>è il privilegio della tua partenza di qui.<br>Ringraziami di questo più che di tutti i favori<br>che, fin troppo, t'ho elargito.<br>Ma se t'attardi nei miei territori<br>più a lungo di quanto la più rapida spedizione<br>ti darà [[motifs/time\|tempo]] per lasciare la nostra regia [[settings/court\|corte]],<br>per il cielo, la mia ira supererà di gran lunga l'[[motifs/love\|amore]]<br>che mai portai a mia figlia o a te stesso.<br>Vattene. Non ascolterò la tua vana scusa,<br>ma se ami la vita, fa' [[characters/speed\|presto]] a partire di qui. |
+| *(didascalia)* | Esce |
+| [[characters/valentine\|VALENTINE]] | E perché non la [[motifs/death\|morte]], piuttosto che vivo tormento?<br>Morire è essere bandito da me stesso,<br>e [[characters/silvia\|Silvia]] è il mio [[concepts/self\|io]]. Bandito da lei<br>è [[concepts/self\|io]] da [[concepts/self\|io]], un bando mortale.<br>Qual luce è luce, se [[characters/silvia\|Silvia]] non si vede?<br>Qual gioia è gioia, se [[characters/silvia\|Silvia]] non è presso—<br>se non forse pensare ch'ella è presso,<br>e nutrirsi dell'[[archetypes/shadow\|ombra]] della perfezione.<br>Se non sono presso [[characters/silvia\|Silvia]] nella [[motifs/night\|notte]]<br>non c'è musica nell'[[motifs/nightingale\|usignolo]].<br>Se non guardo [[characters/silvia\|Silvia]] di giorno<br>non c'è giorno ch'io possa guardare.<br>Ella è la mia essenza, e io cesso d'essere<br>se dal suo bell'influsso non sono<br>nutrito, illuminato, vezzeggiato, tenuto in vita.<br>Non fuggo la [[motifs/death\|morte]] fuggendo la sua mortale sentenza.<br>Se indugio qui non faccio che attendere la [[motifs/death\|morte]],<br>ma se fuggo di qui, fuggo via dalla vita. |
+| *(didascalia)* | Entrano [[characters/proteus\|Proteo]] e Lancia |
+| [[characters/proteus\|PROTEUS]] | Corri, ragazzo, corri, corri, e trovalo. |
+| LANCE | Ohilà, ohilà! |
+| [[characters/proteus\|PROTEUS]] | Che vedi? |
+| LANCE | Quello che andiamo cercando. Non c'è un capello sul suo capo che non sia un Valentino. |
+| [[characters/proteus\|PROTEUS]] | [[characters/valentine\|Valentino]]? |
+| [[characters/valentine\|VALENTINE]] | No. |
+| [[characters/proteus\|PROTEUS]] | Chi allora—il suo spirito? |
+| [[characters/valentine\|VALENTINE]] | Nemmeno. |
+| [[characters/proteus\|PROTEUS]] | Che dunque? |
+| [[characters/valentine\|VALENTINE]] | Nulla. |
+| LANCE | Può nulla parlare?<br>Minaccia [[characters/valentine\|Valentino]]<br>Padrone, devo picchiare? |
+| [[characters/proteus\|PROTEUS]] | Chi vorresti picchiare? |
+| LANCE | Nulla. |
+| [[characters/proteus\|PROTEUS]] | [[archetypes/villain\|Furfante]], smettila. |
+| LANCE | Ma signore, non picchierò nulla. Vi prego— |
+| [[characters/proteus\|PROTEUS]] | Messere, ti dico smettila. Amico [[characters/valentine\|Valentino]], una parola. |
+| [[characters/valentine\|VALENTINE]] | I miei orecchi sono chiusi, e non possono udire buone notizie,<br>tante ne hanno già di cattive occupati. |
+| [[characters/proteus\|PROTEUS]] | Allora in muto [[motifs/silence\|silenzio]] seppellirò le mie,<br>ché sono aspre, stonate e cattive. |
+| [[characters/valentine\|VALENTINE]] | È morta [[characters/silvia\|Silvia]]? |
+| [[characters/proteus\|PROTEUS]] | No, [[characters/valentine\|Valentino]]. |
+| [[characters/valentine\|VALENTINE]] | Nessun [[characters/valentine\|Valentino]] davvero, per la sacra [[characters/silvia\|Silvia]].<br>M'ha ella rinnegato? |
+| [[characters/proteus\|PROTEUS]] | No, [[characters/valentine\|Valentino]]. |
+| [[characters/valentine\|VALENTINE]] | Nessun [[characters/valentine\|Valentino]], se [[characters/silvia\|Silvia]] m'ha rinnegato.<br>Quali sono le tue nuove? |
+| LANCE | Signore, c'è un bando che dice che voi siete svanito. |
+| [[characters/proteus\|PROTEUS]] | Che tu sei bandito. Oh, questa è la notizia:<br>di qui, da [[characters/silvia\|Silvia]], e da me tuo amico. |
+| [[characters/valentine\|VALENTINE]] | Oh, di questo dolore già mi son nutrito,<br>e ora l'eccesso me ne darà la nausea.<br>Sa [[characters/silvia\|Silvia]] ch'io sono bandito? |
+| [[characters/proteus\|PROTEUS]] | Sì, sì; ed ella ha offerto alla sentenza,<br>che irrevocata sta in vigore effettivo,<br>un mare di perle liquefatte, che alcuni chiamano [[motifs/tears\|lacrime]].<br>Quelle ai piedi villani del padre ella offerse,<br>e con esse, in ginocchio, l'umile suo [[concepts/self\|io]],<br>torcendosi le mani, il cui candore così le adornava<br>come se pur ora impallidissero, per dolore.<br>Ma né ginocchia piegate, né pure mani levate,<br>né tristi sospiri, né gemiti profondi, né [[motifs/tears\|lacrime]] versate d'argento<br>poterono penetrare il suo spietato genitore,<br>ma [[characters/valentine\|Valentino]], se sarà preso, deve morire.<br>Inoltre, la sua intercessione l'irritò tanto,<br>quando ella supplicava il tuo richiamo,<br>che in stretta [[motifs/prison\|prigione]] la mandò,<br>con molte amare minacce di restarvi. |
+| [[characters/valentine\|VALENTINE]] | Basta, a meno che la prossima parola che dirai<br>non abbia qualche maligno potere sulla mia vita.<br>Se è così, ti prego, sussurramela all'orecchio,<br>come inno finale del mio infinito dolore. |
+| [[characters/proteus\|PROTEUS]] | Cessa di lamentarti di ciò cui non puoi rimediare,<br>e cerca rimedio a ciò di cui ti lamenti.<br>Il [[motifs/time\|Tempo]] è la [[characters/nurse\|nutrice]] e il generatore d'ogni bene.<br>Se resti qui non potrai vedere il tuo [[motifs/love\|amore]].<br>E poi il tuo restare accorcerà la tua vita.<br>La [[concepts/hope\|Speranza]] è il bastone dell'[[archetypes/lover\|innamorato]]. Va' via con quello,<br>e adoperalo contro i pensieri disperati.<br>Le tue lettere possono esser qui, benché tu sia lontano,<br>e, scritte a me, saranno consegnate<br>proprio nel seno bianco come latte del tuo [[motifs/love\|amore]].<br>Il [[motifs/time\|tempo]] ora non serve a rimostranze.<br>Vieni, ti condurrò fuori dalla porta della [[motifs/city\|città]],<br>e prima di lasciarti conferirò a lungo<br>di tutto ciò che può riguardare i tuoi affari d'[[motifs/love\|amore]].<br>Se ami [[characters/silvia\|Silvia]], se non per te stesso,<br>bada al tuo pericolo, e vieni con me. |
+| [[characters/valentine\|VALENTINE]] | Ti prego, Lancia, se vedi il mio ragazzo<br>digli di far presto, e di trovarmi alla Porta Nord. |
+| [[characters/proteus\|PROTEUS]] | Va', messere, trovalo. Vieni, [[characters/valentine\|Valentino]]. |
+| [[characters/valentine\|VALENTINE]] | O mia cara [[characters/silvia\|Silvia]]! Sventurato [[characters/valentine\|Valentino]]. |
+| *(didascalia)* | Escono [[characters/proteus\|Proteo]] e [[characters/valentine\|Valentino]] |
+| LANCE | Io non sono che uno [[archetypes/fool\|sciocco]], vedete, eppure ho il cervello di pensare che il mio padrone è una specie di furfante. Ma fa lo stesso, purché sia un furfante solo. Non vive nessuno adesso che sappia ch'io sono in [[motifs/love\|amore]]; eppure sono in [[motifs/love\|amore]], ma un tiro di [[motifs/horse\|cavalli]] non me lo strapperebbe, né chi è colei ch'io [[motifs/love\|amo]]; ed è pure una donna, ma che donna non lo dirò nemmeno a me stesso; ed è pure una lattaia; eppure non è una fanciulla, ché ha avuto le comari; eppure è una fanciulla, ché è la fanciulla del suo padrone, e serve a salario. Ha più qualità d'un cane da [[motifs/water\|acqua]], il che è molto in un semplice cristiano.<br>Tira fuori un foglio<br>Ecco il catalogo delle sue condizioni. 'Imprimis, sa riportare e portare'—ma un [[motifs/horse\|cavallo]] non sa far di più. Anzi, un [[motifs/horse\|cavallo]] non sa riportare, ma solo portare, dunque ella è meglio d'un ronzino. 'Item, sa mungere.' Vedete, una dolce virtù in una fanciulla dalle mani pulite. |
+| *(didascalia)* | Entra [[characters/speed\|Svelto]] |
+| [[characters/speed\|SPEED]] | Ebbene, signor Lancia, che nuove da vostra vascellenza? |
+| LANCE | Dal [[motifs/ship\|vascello]] del mio padrone? Ma è in mare. |
+| [[characters/speed\|SPEED]] | [[motifs/well\|Bene]], sempre il tuo vecchio vizio: scambiare la parola. Che nuove dunque nel tuo foglio? |
+| LANCE | Le più nere nuove che tu abbia mai udito. |
+| [[characters/speed\|SPEED]] | Ma come, uomo, come 'nere'? |
+| LANCE | Ma nere come l'inchiostro. |
+| [[characters/speed\|SPEED]] | Lascia che le legga. |
+| LANCE | Vergogna, testa di zucca, tu non sai leggere. |
+| [[characters/speed\|SPEED]] | Menti. So leggere. |
+| LANCE | Ti metterò alla prova. Dimmi questo: chi ti ha generato? |
+| [[characters/speed\|SPEED]] | Perbacco, il figlio di mio nonno. |
+| LANCE | Oh, illetterato bighellone, fu il figlio di tua nonna. Questo prova che non sai leggere. |
+| [[characters/speed\|SPEED]] | Su, [[archetypes/fool\|sciocco]], su. Mettimi alla prova col tuo foglio. |
+| LANCE | (dando il foglio a [[characters/speed\|Svelto]]) Ecco: e san Nicola ti faccia [[characters/speed\|svelto]]. |
+| [[characters/speed\|SPEED]] | 'Imprimis, sa mungere.' |
+| LANCE | Sì, questo lo sa fare. |
+| [[characters/speed\|SPEED]] | 'Item, fa buona birra.' |
+| LANCE | E di qui viene il proverbio 'Benedetto il tuo cuore, tu fai buona birra'. |
+| [[characters/speed\|SPEED]] | 'Item, sa cucire.' |
+| LANCE | Che è quanto dire 'Sa cucinare?' Cucire, cucinare: per lei è tutt'uno. |
+| [[characters/speed\|SPEED]] | 'Item, sa far la calza.' |
+| LANCE | Che bisogno ha un uomo di badare alla dote d'una ragazza, quando lei sa fargli una calza che gli calza? |
+| [[characters/speed\|SPEED]] | 'Item, sa lavare e strofinare.' |
+| LANCE | Virtù speciale, ché allora non c'è bisogno di lavare e strofinare lei. |
+| [[characters/speed\|SPEED]] | 'Item, sa filare.' |
+| LANCE | Allora posso mandare il mondo sulle ruote, se lei sa filare per campare. |
+| [[characters/speed\|SPEED]] | 'Item, ha molte virtù senza nome.' |
+| LANCE | Che è quanto dire 'virtù bastarde', che davvero non conoscono i loro padri, e perciò non hanno nome. |
+| [[characters/speed\|SPEED]] | Qui seguono i suoi vizi. |
+| LANCE | Alle calcagna delle sue virtù. |
+| [[characters/speed\|SPEED]] | 'Item, non la si deve tenere a digiuno, per riguardo al suo fiato.' |
+| LANCE | [[motifs/well\|Bene]], quel difetto si può rimediare con una colazione, ché il digiuno lo rompe. Séguita a leggere. |
+| [[characters/speed\|SPEED]] | 'Item, ha la bocca dolce.' |
+| LANCE | Il che compensa il suo fiato acido. |
+| [[characters/speed\|SPEED]] | 'Item, parla nel [[motifs/sleep\|sonno]].' |
+| LANCE | Non importa nulla, purché non [[motifs/sleep\|dorma]] nel suo parlare. |
+| [[characters/speed\|SPEED]] | 'Item, è lenta di parole.' |
+| LANCE | Oh, il [[archetypes/villain\|furfante]], che l'ha messo fra i suoi vizi! Esser lenta di parole è l'unica virtù d'una donna. Ti prego, cancellalo di lì, e mettilo per la sua virtù principale. |
+| [[characters/speed\|SPEED]] | 'Item, è superba.' |
+| LANCE | Cancella anche quello. Fu il lascito d'Eva, e non le si può togliere. |
+| [[characters/speed\|SPEED]] | 'Item, non ha denti.' |
+| LANCE | Neanche di questo m'importa, perché io [[motifs/love\|amo]] le croste. |
+| [[characters/speed\|SPEED]] | 'Item, è bisbetica.' |
+| LANCE | [[motifs/well\|Bene]], il meglio è che non ha denti per mordere. |
+| [[characters/speed\|SPEED]] | 'Item, spesso loda il suo liquore.' |
+| LANCE | Se il suo liquore è buono, lo lodi pure. Se non lo fa lei, lo farò io; ché le cose buone vanno lodate. |
+| [[characters/speed\|SPEED]] | 'Item, è troppo liberale.' |
+| LANCE | Della lingua non può esserlo, ché sta scritto che n'è lenta. Della borsa non lo sarà, ché quella la terrò chiusa io. Ora d'un'altra cosa può ben esserlo, e a questo non posso rimediare. [[motifs/well\|Bene]], séguita. |
+| [[characters/speed\|SPEED]] | 'Item, ha più capelli che cervello, e più difetti che capelli, e più ricchezza che difetti.' |
+| LANCE | Férmati lì. La prendo. È stata mia e non mia due o tre volte in quell'ultimo articolo. Ripetilo ancora una volta. 347 |
+| [[characters/speed\|SPEED]] | 'Item, ha più capelli che cervello'— |
+| LANCE | 'Più capelli che cervello.' Può essere. Lo provo: il coperchio della saliera nasconde il sale, e perciò è più del sale. I capelli che coprono il cervello son più del cervello, ché il maggiore nasconde il minore. Che viene poi? |
+| [[characters/speed\|SPEED]] | 'E più difetti che capelli'— |
+| LANCE | Questo è mostruoso. Oh, fosse cancellato! |
+| [[characters/speed\|SPEED]] | 'E più ricchezza che difetti.' |
+| LANCE | Ma quella parola rende graziosi i difetti. [[motifs/well\|Bene]], la prendo, e se sarà matrimonio—ché nulla è impossibile— |
+| [[characters/speed\|SPEED]] | E allora? |
+| LANCE | Ma allora ti dirò che il tuo padrone t'aspetta alla Porta Nord. |
+| [[characters/speed\|SPEED]] | Me? |
+| LANCE | Te? Sì, e chi sei tu? Ha aspettato un uomo migliore di te. |
+| [[characters/speed\|SPEED]] | E devo andare da lui? |
+| LANCE | Devi corrergli incontro, ché hai indugiato tanto che andare a piedi non basterà. |
+| [[characters/speed\|SPEED]] | Perché non me l'hai detto prima? Al diavolo le vostre lettere d'[[motifs/love\|amore]]! Esce |
+| LANCE | Ora sarà bastonato per aver letto la mia lettera. Uno screanzato servo, che si caccia nei [[motifs/secrets\|segreti]] altrui. Gli andrò dietro, per godermi la correzione del ragazzo. |
+| *(didascalia)* | Esce |
+
+### Atto 3, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Duca e [[characters/thurio\|Turio]] |
+| DUCA | Messer [[characters/thurio\|Turio]], non [[concepts/fear\|temete]] ch'ella non v'[[motifs/love\|ami]]<br>ora che [[characters/valentine\|Valentino]] è bandito dalla sua vista. |
+| [[characters/thurio\|THURIO]] | Dal suo [[concepts/exile\|esilio]] ella m'ha spregiato più che mai,<br>ha rifiutato la mia compagnia e m'ha svillaneggiato,<br>sì che dispero d'ottenerla. |
+| DUCA | Questa debole impronta d'[[motifs/love\|amore]] è come una figura<br>incisa nel ghiaccio, che col calore d'un'ora<br>si scioglie in [[motifs/water\|acqua]] e perde la sua forma.<br>Un poco di [[motifs/time\|tempo]] scioglierà i suoi gelati pensieri,<br>e l'indegno [[characters/valentine\|Valentino]] sarà dimenticato. |
+| *(didascalia)* | Entra [[characters/proteus\|Proteo]] |
+| DUCA | Ebbene, messer [[characters/proteus\|Proteo]], il vostro compaesano<br>è partito, secondo il nostro bando? |
+| [[characters/proteus\|PROTEUS]] | Partito, mio buon signore. |
+| DUCA | Mia figlia prende gravemente la sua partenza? |
+| [[characters/proteus\|PROTEUS]] | Un poco di [[motifs/time\|tempo]], signore, ucciderà quel dolore. |
+| DUCA | Così credo, ma [[characters/thurio\|Turio]] non la pensa così.<br>[[characters/proteus\|Proteo]], la buona opinione ch'io ho di te—<br>ché hai mostrato qualche segno di buon [[motifs/desert\|merito]]—<br>mi rende più disposto a conferire con te. |
+| [[characters/proteus\|PROTEUS]] | Se un giorno cessassi d'esser leale a vostra grazia,<br>ch'io non viva più a guardare vostra grazia. |
+| DUCA | Sai tu con quanta volontà io vorrei compiere<br>il matrimonio fra messer [[characters/thurio\|Turio]] e mia figlia? |
+| [[characters/proteus\|PROTEUS]] | Lo so, signore. |
+| DUCA | E anche, credo, non t'è ignoto<br>come ella s'opponga al mio volere? |
+| [[characters/proteus\|PROTEUS]] | S'opponeva, signore, quando [[characters/valentine\|Valentino]] era qui. |
+| DUCA | Sì, e caparbiamente séguita a farlo.<br>Che potremmo fare per far dimenticare alla ragazza<br>l'[[motifs/love\|amore]] di [[characters/valentine\|Valentino]], e farle [[motifs/love\|amare]] messer [[characters/thurio\|Turio]]? |
+| [[characters/proteus\|PROTEUS]] | Il modo migliore è calunniare [[characters/valentine\|Valentino]]<br>di falsità, viltà e bassa nascita,<br>tre cose che le donne odiano sommamente. |
+| DUCA | Sì, ma ella penserà che sia detto per odio. |
+| [[characters/proteus\|PROTEUS]] | Sì, se lo dicesse un suo nemico.<br>Perciò dev'esser detto con ogni riguardo<br>da uno ch'ella stimi suo amico. |
+| DUCA | Allora dovete voi incaricarvi di calunniarlo. |
+| [[characters/proteus\|PROTEUS]] | E questo, signore, mi ripugnerà di fare.<br>È un brutto ufficio per un gentiluomo,<br>e specialmente contro il proprio amico. |
+| DUCA | Là dove la vostra buona parola non può giovargli,<br>la vostra calunnia non può mai nuocergli.<br>Perciò l'ufficio è indifferente,<br>essendovi richiesto dal vostro amico. |
+| [[characters/proteus\|PROTEUS]] | Avete vinto, signore. Se potrò farlo<br>con quanto saprò dire a suo biasimo,<br>ella non séguiterà a lungo ad [[motifs/love\|amarlo]].<br>Ma poniamo che questo le sradichi l'[[motifs/love\|amore]] per [[characters/valentine\|Valentino]]:<br>non ne segue ch'ella [[motifs/love\|amerà]] messer [[characters/thurio\|Turio]]. |
+| [[characters/thurio\|THURIO]] | Perciò, mentre le dipanate dall'uno l'[[motifs/love\|amore]],<br>affinché non s'imbrogli e non serva a nessuno<br>dovete provvedere ad [[characters/bottom\|avvolgerlo]] su di me;<br>il che si deve fare lodando me altrettanto<br>quanto biasimerete il valore di messer [[characters/valentine\|Valentino]]. |
+| DUCA | E [[characters/proteus\|Proteo]], osiamo fidarci di voi in questa faccenda<br>perché sappiamo, per testimonianza di [[characters/valentine\|Valentino]],<br>che siete già saldo devoto d'[[motifs/love\|amore]],<br>e non potete presto ribellarvi e mutar pensiero.<br>Su questa garanzia avrete accesso<br>là dove potrete conferire a lungo con [[characters/silvia\|Silvia]].<br>Ché ella è abbattuta, greve, [[concepts/melancholy\|malinconica]],<br>e per amor del vostro amico sarà lieta di voi;<br>e là potrete piegarla, con la vostra persuasione,<br>a odiare il giovane [[characters/valentine\|Valentino]] e ad [[motifs/love\|amare]] il mio amico. |
+| [[characters/proteus\|PROTEUS]] | Quanto potrò fare, lo farò.<br>Ma voi, messer [[characters/thurio\|Turio]], non siete abbastanza accorto.<br>Dovete tender panie per invischiare i suoi desideri<br>con sonetti lamentosi, le cui rime composte<br>siano ben cariche di voti servizievoli. |
+| DUCA | Sì, grande è la forza della poesia nata dal cielo. |
+| [[characters/proteus\|PROTEUS]] | Dite che sull'altare della sua [[concepts/beauty\|bellezza]]<br>sacrificate le vostre [[motifs/tears\|lacrime]], i vostri sospiri, il vostro cuore.<br>Scrivete finché l'inchiostro sia secco, e con le vostre [[motifs/tears\|lacrime]]<br>inumiditelo di nuovo; e componete qualche verso sentito<br>che riveli una tale integrità;<br>ché il liuto d'Orfeo era incordato con nervi di poeti,<br>il cui tocco d'oro poteva ammollire acciaio e pietre,<br>far mansuete le tigri, e i grandi leviatani<br>lasciare gli abissi insondati per [[motifs/dance\|danzare]] sulle sabbie.<br>Dopo le vostre elegie di cupo lamento,<br>visitate di [[motifs/night\|notte]] la [[motifs/window\|finestra]] della camera della vostra dama<br>con qualche dolce concerto. Ai loro strumenti<br>accordate un motivo dolente. Il morto [[motifs/silence\|silenzio]] della [[motifs/night\|notte]]<br>s'addirà [[motifs/well\|bene]] a un sì dolce lagnarsi.<br>Questo, o nulla, ve la darà in eredità. |
+| DUCA | Questa dottrina mostra che sei stato in [[motifs/love\|amore]]. |
+| [[characters/thurio\|THURIO]] | E il tuo consiglio questa [[motifs/night\|notte]] metterò in pratica.<br>Perciò, dolce [[characters/proteus\|Proteo]], mio consigliere,<br>andiamo subito in [[motifs/city\|città]]<br>a scegliere alcuni gentiluomini [[motifs/well\|ben]] esperti di musica.<br>Ho un [[forms/sonnet\|sonetto]] che servirà allo scopo<br>per dare avvio al tuo buon consiglio. |
+| DUCA | All'opera, signori. |
+| [[characters/proteus\|PROTEUS]] | Serviremo vostra grazia fino a dopo cena,<br>e poi determineremo il nostro procedere. |
+| DUCA | Anzi, all'opera subito. Vi dispenso. |
+| *(didascalia)* | Escono [[characters/thurio\|Turio]] e [[characters/proteus\|Proteo]] da una porta, e il Duca da un'altra |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Fuorilegge |
+| PRIMO FUORILEGGE | Compagni, tenete duro. Vedo un viandante. |
+| SECONDO FUORILEGGE | Fossero anche dieci, non tiratevi indietro: addosso a loro. |
+| *(didascalia)* | Entrano [[characters/valentine\|Valentino]] e [[characters/speed\|Svelto]] |
+| TERZO FUORILEGGE | Fermo, signore, e gettateci quel che avete addosso.<br>Se no, vi faremo sedere, e vi spoglieremo. |
+| [[characters/speed\|SPEED]] | (a [[characters/valentine\|Valentino]])<br>Signore, siamo perduti. Questi sono i furfanti<br>che tutti i viaggiatori tanto [[concepts/fear\|temono]]. |
+| [[characters/valentine\|VALENTINE]] | (ai Fuorilegge) Amici miei. |
+| PRIMO FUORILEGGE | Non è così, signore. Siamo vostri nemici. |
+| SECONDO FUORILEGGE | Zitti. Ascoltiamolo. |
+| TERZO FUORILEGGE | Sì, per la mia barba, lo ascolteremo. Ché è un bell'uomo. |
+| [[characters/valentine\|VALENTINE]] | Sappiate dunque che ho poca ricchezza da perdere.<br>Sono un uomo attraversato dall'avversità.<br>Le mie ricchezze son questi poveri panni,<br>dei quali se qui mi spogliaste<br>prendereste tutta la somma e la sostanza che ho. |
+| SECONDO FUORILEGGE | Dove viaggiate? |
+| [[characters/valentine\|VALENTINE]] | A [[settings/verona\|Verona]]. |
+| PRIMO FUORILEGGE | Di dove venite? |
+| [[characters/valentine\|VALENTINE]] | Da Milano. 20 |
+| TERZO FUORILEGGE | Vi siete fermato là a lungo? |
+| [[characters/valentine\|VALENTINE]] | Circa sedici mesi, e più a lungo sarei rimasto<br>se una storta fortuna non m'avesse contrariato. |
+| PRIMO FUORILEGGE | Come, ne foste bandito? |
+| [[characters/valentine\|VALENTINE]] | Lo fui. |
+| SECONDO FUORILEGGE | Per quale offesa? |
+| [[characters/valentine\|VALENTINE]] | Per quella che ora mi tormenta a ripetere.<br>Uccisi un uomo, della cui [[motifs/death\|morte]] molto mi pento,<br>ma pure l'uccisi virilmente, in duello,<br>senza falso vantaggio né vile tradimento. |
+| PRIMO FUORILEGGE | Ma non pentitevene, se fu fatto così.<br>Ma foste bandito per una colpa sì lieve? |
+| [[characters/valentine\|VALENTINE]] | Lo fui, e mi tenni contento d'una tale sentenza. |
+| SECONDO FUORILEGGE | Conoscete le lingue? |
+| [[characters/valentine\|VALENTINE]] | I miei viaggi giovanili in ciò mi fecero felice,<br>altrimenti sarei stato spesso misero. |
+| TERZO FUORILEGGE | Per il calvo cranio del grasso frate di [[characters/robin-hood\|Robin Hood]],<br>costui sarebbe un [[archetypes/king\|re]] per la nostra selvaggia banda. |
+| PRIMO FUORILEGGE | Lo prenderemo. Signori, una parola.<br>I Fuorilegge confabulano |
+| [[characters/speed\|SPEED]] | (a [[characters/valentine\|Valentino]]) Padrone, unitevi a loro.<br>È una specie onorevole di ladroneria. |
+| [[characters/valentine\|VALENTINE]] | Taci, [[archetypes/villain\|furfante]]. |
+| SECONDO FUORILEGGE | Diteci questo: avete qualcosa a cui appigliarvi? |
+| [[characters/valentine\|VALENTINE]] | Nulla se non la mia sorte. |
+| TERZO FUORILEGGE | Sappiate, dunque, che alcuni di noi son gentiluomini<br>che il furore d'una giovinezza sregolata<br>cacciò dalla compagnia degli uomini timorati.<br>Io stesso fui bandito da [[settings/verona\|Verona]]<br>per aver tentato di rapire una dama,<br>ereditiera, e stretta parente del Duca. |
+| SECONDO FUORILEGGE | E io da Mantova, per un gentiluomo<br>che, nella mia collera, trafissi al cuore. |
+| PRIMO FUORILEGGE | E io, per simili piccoli delitti come questi.<br>Ma veniamo al punto, ché citiamo le nostre colpe<br>perché tengano scusate le nostre vite fuorilegge.<br>E in parte vedendo che siete adorno<br>d'avvenente figura, e per vostro stesso racconto<br>siete linguista, e uomo di tale perfezione<br>quale nel nostro mestiere ci manca assai— |
+| SECONDO FUORILEGGE | Anzi, proprio perché siete un uomo bandito,<br>per questo più che per altro veniamo a patti con voi.<br>Vi contentate d'essere il nostro generale,<br>di far virtù della necessità<br>e di vivere come noi in questo deserto? |
+| TERZO FUORILEGGE | Che dici tu? Vuoi essere della nostra compagnia?<br>Di' 'Sì', e sii il capitano di tutti noi.<br>Ti renderemo omaggio, e saremo da te governati,<br>t'[[motifs/love\|ameremo]] come nostro comandante e nostro [[archetypes/king\|re]]. |
+| PRIMO FUORILEGGE | Ma se sdegni la nostra cortesia, muori. |
+| SECONDO FUORILEGGE | Non vivrai per vantarti di ciò che t'abbiamo offerto. |
+| [[characters/valentine\|VALENTINE]] | Accetto la vostra offerta, e vivrò con voi,<br>purché non facciate oltraggi<br>a povere donne o a poveri viandanti. |
+| TERZO FUORILEGGE | No, detestiamo tali vili e basse pratiche.<br>Venite, andiamo. Ti condurremo alle nostre schiere<br>e ti mostreremo tutto il tesoro che abbiamo raccolto,<br>il quale, con noi stessi, resta tutto a tua disposizione. Escono |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/proteus\|Proteo]] |
+| [[characters/proteus\|PROTEUS]] | Già sono stato falso con [[characters/valentine\|Valentino]],<br>e ora devo essere altrettanto ingiusto con [[characters/thurio\|Turio]].<br>Col pretesto di raccomandarlo<br>ho modo d'avanzare il mio proprio [[motifs/love\|amore]].<br>Ma [[characters/silvia\|Silvia]] è troppo bella, troppo sincera, troppo santa<br>per lasciarsi corrompere dai miei indegni doni.<br>Quando le protesto vera lealtà<br>ella mi rinfaccia la mia falsità verso l'amico.<br>Quando alla sua [[concepts/beauty\|bellezza]] raccomando i miei voti<br>ella m'invita a pensare come io sia spergiuro<br>rompendo [[concepts/faith\|fede]] con [[characters/julia\|Giulia]], che amavo.<br>E nonostante tutte le sue pronte frecciate,<br>la minore delle quali spegnerebbe la [[concepts/hope\|speranza]] d'un [[archetypes/lover\|innamorato]],<br>pure, come uno spaniel, quanto più ella respinge il mio [[motifs/love\|amore]],<br>tanto più esso cresce e le fa festa d'attorno.<br>Ma ecco venire [[characters/thurio\|Turio]]. Ora dobbiamo andare alla sua [[motifs/window\|finestra]],<br>e dare al suo orecchio un po' di musica serale. |
+| *(didascalia)* | Entra [[characters/thurio\|Turio]] con Musici |
+| [[characters/thurio\|THURIO]] | Ebbene, messer [[characters/proteus\|Proteo]], vi siete insinuato prima di noi? |
+| [[characters/proteus\|PROTEUS]] | Sì, gentile [[characters/thurio\|Turio]], ché voi sapete che l'[[motifs/love\|amore]]<br>s'insinua strisciando dove non può camminare. |
+| [[characters/thurio\|THURIO]] | Sì, ma [[concepts/hope\|spero]], signore, che voi non [[motifs/love\|amiate]] qui. |
+| [[characters/proteus\|PROTEUS]] | Signore, invece sì, altrimenti sarei lontano di qui. |
+| [[characters/thurio\|THURIO]] | Chi, [[characters/silvia\|Silvia]]? |
+| [[characters/proteus\|PROTEUS]] | Sì, [[characters/silvia\|Silvia]]—per amor vostro. |
+| [[characters/thurio\|THURIO]] | Vi ringrazio per amor vostro. Ora, signori,<br>accordiamo, e sotto di lena per un poco. |
+| *(didascalia)* | Entrano l'Oste e [[characters/julia\|Giulia]], vestita da paggio. |
+| [[characters/thurio\|THURIO]] | Parlano in disparte |
+| HOST | Ebbene, mio giovane ospite, mi sembrate malincomico. Ditemi, di grazia, perché? |
+| [[characters/julia\|JULIA]] | Perbacco, mio oste, perché non riesco a essere allegro. |
+| HOST | Su, vi faremo allegro. Vi condurrò dove udirete musica, e vedrete il gentiluomo di cui chiedevate. |
+| [[characters/julia\|JULIA]] | Ma lo udrò parlare? |
+| HOST | Sì, lo udrete. |
+| [[characters/julia\|JULIA]] | Quella sarà musica. |
+| HOST | Udite, udite. |
+| [[characters/julia\|JULIA]] | È fra questi? |
+| HOST | Sì. Ma zitto, ascoltiamoli. |
+| *(didascalia)* | Canzone |
+| HOST | Chi è [[characters/silvia\|Silvia]]? Che cos'è,<br>che tutti i nostri pastori la lodano?<br>Santa, bella e saggia è lei.<br>Il cielo le prestò tal grazia<br>perché fosse ammirata.<br>È buona quanto è bella?<br>Ché la [[concepts/beauty\|bellezza]] vive con la bontà.<br>[[motifs/love\|Amore]] ai suoi occhi ripara<br>per guarire della sua cecità,<br>e, guarito, vi prende dimora.<br>A [[characters/silvia\|Silvia]] dunque cantiamo<br>che [[characters/silvia\|Silvia]] è sovrana.<br>Ella supera ogni cosa mortale<br>che abiti la greve terra.<br>A lei portiamo ghirlande. |
+| HOST | Ebbene, siete più triste di prima? Come state, uomo? La musica non vi piace. |
+| [[characters/julia\|JULIA]] | V'ingannate. È il musico che non mi piace. |
+| HOST | Perché, mio bel giovane? |
+| [[characters/julia\|JULIA]] | Suona falso, padre. |
+| HOST | Come, stonato sulle corde? |
+| [[characters/julia\|JULIA]] | Non così, eppure tanto falso che addolora le corde stesse del mio cuore. |
+| HOST | Avete l'orecchio pronto. |
+| [[characters/julia\|JULIA]] | Sì, vorrei essere sordo. Mi fa avere il cuore lento. |
+| HOST | M'accorgo che non vi dilettate di musica. |
+| [[characters/julia\|JULIA]] | Neanche un poco, quando stona così. |
+| HOST | Udite che bella variazione c'è nella musica. |
+| [[characters/julia\|JULIA]] | Sì, è proprio quel 'variare' il dispetto. |
+| HOST | Vorreste che suonassero sempre una cosa sola? |
+| [[characters/julia\|JULIA]] | Vorrei che uno suonasse sempre una cosa sola. Ma, oste, questo messer [[characters/proteus\|Proteo]] di cui parliamo viene spesso da questa gentildonna? |
+| HOST | Vi dico quel che Lancia, il suo servo, mi disse: che l'amava fuor d'ogni misura. |
+| [[characters/julia\|JULIA]] | Dov'è Lancia? |
+| HOST | Andato a cercare il suo cane, che domani, per ordine del padrone, deve portare in dono alla sua dama. |
+| [[characters/julia\|JULIA]] | Zitto, tiriamoci in disparte. La compagnia si separa. |
+| [[characters/proteus\|PROTEUS]] | Messer [[characters/thurio\|Turio]], non [[concepts/fear\|temete]]. Perorerò così<br>che direte che la mia astuta manovra è insuperabile. |
+| [[characters/thurio\|THURIO]] | Dove ci troviamo? |
+| [[characters/proteus\|PROTEUS]] | Al [[motifs/well\|pozzo]] di San Gregorio. |
+| [[characters/thurio\|THURIO]] | Addio. |
+| *(didascalia)* | Escono [[characters/thurio\|Turio]] e i Musici |
+| *(didascalia)* | Entra [[characters/silvia\|Silvia]], in alto |
+| [[characters/proteus\|PROTEUS]] | Madonna, buona sera a vostra signoria. |
+| [[characters/silvia\|SILVIA]] | Vi ringrazio della vostra musica, signori.<br>Chi è colui che ha parlato? |
+| [[characters/proteus\|PROTEUS]] | Uno, madonna, che se conosceste la [[concepts/truth\|sincerità]] del suo puro cuore<br>imparereste presto a riconoscerlo dalla voce. |
+| [[characters/silvia\|SILVIA]] | Messer [[characters/proteus\|Proteo]], se non m'inganno. |
+| [[characters/proteus\|PROTEUS]] | Messer [[characters/proteus\|Proteo]], gentile madonna, e vostro servo. |
+| [[characters/silvia\|SILVIA]] | Qual è il vostro volere? |
+| [[characters/proteus\|PROTEUS]] | Che io possa ottenere il vostro. |
+| [[characters/silvia\|SILVIA]] | Avete il vostro desiderio. Il mio volere è proprio questo:<br>che subito ve n'andiate a [[motifs/home\|casa]] a letto.<br>Tu, uomo sottile, spergiuro, falso, sleale,<br>credi tu ch'io sia tanto vana, tanto senza cervello<br>da lasciarmi sedurre dalle tue lusinghe,<br>tu che tanti hai ingannato coi tuoi voti?<br>Torna, torna, e fa' ammenda al tuo [[motifs/love\|amore]].<br>Quanto a me—per questa pallida [[characters/queen\|regina]] della [[motifs/night\|notte]] lo giuro—<br>son tanto lontana dall'accordarti la tua richiesta<br>che ti disprezzo per la tua ingiusta corte,<br>e fra poco intendo rimproverare me stessa<br>proprio per questo [[motifs/time\|tempo]] che spendo a parlare con te. |
+| [[characters/proteus\|PROTEUS]] | Ammetto, dolce [[motifs/love\|amore]], che [[motifs/love\|amai]] una dama,<br>ma ella è morta. |
+| [[characters/julia\|JULIA]] | (a parte) Sarebbe falso se lo dicessi io,<br>ché son certa che non è sepolta. |
+| [[characters/silvia\|SILVIA]] | Poniamo che lo sia: pure [[characters/valentine\|Valentino]], tuo amico,<br>sopravvive, e a lui, tu stesso ne sei testimone,<br>io son promessa. E non ti vergogni<br>di fargli torto con la tua importunità? |
+| [[characters/proteus\|PROTEUS]] | Odo del pari che [[characters/valentine\|Valentino]] è morto. |
+| [[characters/silvia\|SILVIA]] | E così supponi che lo sia anch'io, ché nella sua [[motifs/grave\|tomba]],<br>siine certo, è sepolto il mio [[motifs/love\|amore]]. |
+| [[characters/proteus\|PROTEUS]] | Dolce madonna, lasciate ch'io lo raspi via dalla terra. |
+| [[characters/silvia\|SILVIA]] | Va' alla [[motifs/grave\|tomba]] della tua dama e richiama di là il suo,<br>o almeno seppellisci il tuo nella sua. |
+| [[characters/julia\|JULIA]] | (a parte) Questo non l'ha udito. |
+| [[characters/proteus\|PROTEUS]] | Madonna, se il vostro cuore è tanto duro,<br>concedetemi almeno il vostro ritratto per il mio [[motifs/love\|amore]],<br>il ritratto che pende nella vostra camera.<br>A quello parlerò, a quello sospirerò e piangerò;<br>ché poiché la sostanza del vostro perfetto [[concepts/self\|essere]]<br>è votata ad altri, io non sono che un'[[archetypes/shadow\|ombra]],<br>e alla vostra [[archetypes/shadow\|ombra]] farò fedele [[motifs/love\|amore]]. |
+| [[characters/julia\|JULIA]] | (a parte)<br>Se fosse una sostanza, certo l'ingannereste<br>e la rendereste soltanto un'[[archetypes/shadow\|ombra]], come sono io. |
+| [[characters/silvia\|SILVIA]] | Assai mi ripugna d'essere il vostro idolo, signore,<br>ma poiché alla vostra falsità s'addirà [[motifs/well\|bene]]<br>venerare ombre e adorare false forme,<br>mandate da me al mattino, e ve lo manderò.<br>E così, buon riposo. Esce |
+| [[characters/proteus\|PROTEUS]] | Quale l'hanno i disgraziati la notte,<br>che aspettano l'esecuzione al mattino. |
+| *(didascalia)* | Esce |
+| [[characters/julia\|JULIA]] | Oste, volete andare? |
+| HOST | Per la mia fede, ero profondamente addormentato. |
+| [[characters/julia\|JULIA]] | Ditemi, di grazia, dove alloggia messer [[characters/proteus\|Proteo]]? |
+| HOST | Perbacco, in casa mia. Credetemi, penso che sia quasi giorno. |
+| [[characters/julia\|JULIA]] | Non è così; ma è stata la più lunga [[motifs/night\|notte]]<br>ch'io abbia mai vegliato, e la più pesante. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra messer Eglamour |
+| EGLAMOUR | Questa è l'ora in cui madonna [[characters/silvia\|Silvia]]<br>mi pregò di venire, per conoscere il suo intento.<br>C'è qualche gran faccenda in cui vuole adoperarmi.<br>Madonna, madonna! |
+| *(didascalia)* | Entra [[characters/silvia\|Silvia]] [in alto] |
+| [[characters/silvia\|SILVIA]] | Chi chiama? |
+| EGLAMOUR | Il vostro servo, e il vostro amico. Uno che attende il comando di vostra signoria. |
+| [[characters/silvia\|SILVIA]] | Messer Eglamour, mille volte buon giorno! |
+| EGLAMOUR | Altrettante, degna madonna, a voi.<br>Secondo l'ordine di vostra signoria<br>son venuto così per tempo, per sapere in quale servigio<br>vi piaccia comandarmi. |
+| [[characters/silvia\|SILVIA]] | O Eglamour, tu sei un gentiluomo—<br>non pensare ch'io ti aduli, ché giuro di no—<br>valoroso, saggio, pietoso, [[motifs/well\|ben]] compito.<br>Non t'è ignoto quale caro affetto<br>io porti al bandito [[characters/valentine\|Valentino]],<br>né come mio padre mi vorrebbe costringere a sposare<br>il vano [[characters/thurio\|Turio]], che l'[[motifs/soul\|anima]] mia aborre.<br>Tu stesso hai amato, e t'ho udito dire<br>che nessun dolore ti venne mai così vicino al cuore<br>come quando la tua dama e tuo vero [[motifs/love\|amore]] morì,<br>sulla cui [[motifs/grave\|tomba]] giurasti pura castità.<br>Messer Eglamour, io vorrei andare da [[characters/valentine\|Valentino]],<br>a Mantova, dove odo ch'egli dimora;<br>e poiché le strade son pericolose a percorrersi<br>[[motifs/desire\|desidero]] la tua degna compagnia,<br>sulla cui [[concepts/faith\|fede]] e sul cui [[concepts/honour\|onore]] mi riposo.<br>Non addurmi la collera di mio padre, Eglamour,<br>ma pensa al mio dolore, dolore d'una dama,<br>e alla giustizia della mia fuga di qui<br>per salvarmi da un connubio empio oltre ogni dire,<br>che cielo e fortuna ricompensano sempre con flagelli.<br>Ti [[motifs/desire\|prego]], proprio da un cuore<br>tanto pieno di dolori quanto il mare di sabbie,<br>di farmi compagnia e di venire con me.<br>Se no, di celare quel che t'ho detto,<br>perché io possa arrischiarmi a partire sola. |
+| EGLAMOUR | Madonna, molto compiango le vostre pene,<br>e poiché so che sono virtuosamente riposte,<br>acconsento a venire con voi,<br>curandomi tanto poco di ciò che a me accadrà<br>quanto molto auguro ogni bene a voi.<br>Quando volete andare? |
+| [[characters/silvia\|SILVIA]] | Questa sera stessa. |
+| EGLAMOUR | Dove v'incontrerò? |
+| [[characters/silvia\|SILVIA]] | Alla cella di fra' Patrizio,<br>dove intendo fare santa confessione. |
+| EGLAMOUR | Non mancherò a vostra signoria.<br>Buon giorno, gentile madonna. |
+| [[characters/silvia\|SILVIA]] | Buon giorno, cortese messer Eglamour. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Lancia col suo cane Granchio |
+| LANCE | (al pubblico) Quando il servo d'un uomo gli fa il cane, vedete, la cosa va male. Uno che ho allevato da cucciolo, uno che ho salvato dall'annegamento quando tre o quattro dei suoi fratelli e sorelle ciechi ci andarono. L'ho educato proprio come uno direbbe per l'appunto 'Così educherei un cane'. Fui mandato a consegnarlo in dono a madonna [[characters/silvia\|Silvia]] da parte del mio padrone, e non appena entrai nella sala da pranzo eccotelo che va al suo tagliere e le ruba la coscia del cappone. Oh, è una brutta cosa quando un botolo non sa contenersi in ogni compagnia. Vorrei, come si suol dire, che uno il quale si vanta d'esser cane davvero fosse, per così dire, cane in tutto. Se non avessi avuto più cervello di lui, da prendermi addosso una colpa fatta da lui, credo davvero che sarebbe stato impiccato per questo. Com'è vero ch'io vivo, l'avrebbe pagata. Giudicate voi. Eccotelo che si caccia in mezzo a tre o quattro cani di rango sotto la tavola del Duca. Non c'era stato—con licenza parlando—il tempo d'una pisciata che tutta la sala lo fiutava. 'Fuori il cane', dice uno. 'Che botolo è quello?' dice un altro. 'Frustatelo fuori', dice il terzo. 'Impiccatelo', dice il Duca. Io, che quell'odore lo conoscevo già, seppi ch'era Granchio, ed eccomi che vado da quello che frusta i cani. 'Amico', dico io, 'volete frustare il cane.' 'Sì, perbacco', dice lui. 'Gli fate un gran torto', dico io, 'fui io a fare la cosa che sapete.' Lui senza tante storie mi frusta e mi caccia fuori dalla sala. Quanti padroni farebbero questo per il loro servo? Anzi, posso giurare che son stato in ceppi per salsicce rubate da lui, altrimenti sarebbe stato giustiziato. Son stato alla gogna per oche ammazzate da lui, altrimenti l'avrebbe pagata. (A Granchio) Tu ora non ci pensi a questo. Anzi, mi ricordo il tiro che m'hai giocato quando presi congedo da madonna [[characters/silvia\|Silvia]]. Non t'avevo detto di badare sempre a me, e di fare come faccio io? Quando m'hai visto alzare la gamba e fare [[motifs/water\|acqua]] contro il guardinfante d'una gentildonna? M'hai mai visto fare un tiro simile? |
+| *(didascalia)* | Entra [[characters/proteus\|Proteo]], con [[characters/julia\|Giulia]] vestita da paggio |
+| [[characters/proteus\|PROTEUS]] | (a [[characters/julia\|Giulia]])<br>[[characters/sebastian\|Sebastiano]] è il tuo nome? Mi piaci [[motifs/well\|assai]],<br>e t'impiegherò subito in qualche servigio. |
+| [[characters/julia\|JULIA]] | In quel che vi piace. Farò quel che posso. |
+| [[characters/proteus\|PROTEUS]] | Lo [[concepts/hope\|spero]].—Ebbene, villano figlio di baldracca,<br>dove sei stato a bighellonare in questi due giorni? |
+| LANCE | Perbacco, signore, ho portato a madonna [[characters/silvia\|Silvia]] il cane che m'avevate ordinato. |
+| [[characters/proteus\|PROTEUS]] | E che dice lei del mio piccolo [[motifs/jewel\|gioiello]]? |
+| LANCE | Perbacco, dice che il vostro cane era un botolo, e vi manda a dire che ringraziamenti da botolo bastano per un tal dono. |
+| [[characters/proteus\|PROTEUS]] | Ma ha ricevuto il mio cane? |
+| LANCE | No davvero, non l'ha ricevuto. Eccolo, ve l'ho riportato indietro. |
+| [[characters/proteus\|PROTEUS]] | Come, le hai offerto questo da parte mia? |
+| LANCE | Sì, signore. L'altro scoiattolo me lo rubarono i ragazzi da forca in piazza del mercato, e allora le offersi il mio, ch'è un cane grande come dieci dei vostri, e perciò il dono è maggiore. |
+| [[characters/proteus\|PROTEUS]] | Va', vattene di qui, e ritrova il mio cane,<br>o non tornare mai più alla mia vista.<br>Via, dico. Resti qui a seccarmi? |
+| *(didascalia)* | Esce Lancia con Granchio |
+| [[characters/proteus\|PROTEUS]] | Un servo che di continuo mi volge in vergogna.<br>[[characters/sebastian\|Sebastiano]], t'ho preso al mio servizio<br>in parte perché ho bisogno d'un giovane simile,<br>che sappia con qualche discrezione sbrigare i miei affari,<br>ché non c'è da fidarsi di quello sciocco zoticone,<br>ma soprattutto per il tuo volto e il tuo contegno,<br>che, se il mio presagio non m'inganna,<br>attestano buona educazione, fortuna e [[concepts/truth\|lealtà]].<br>Sappi dunque che per questo ti prendo con me.<br>Va' subito, e porta con te quest'anello.<br>Consegnalo a madonna [[characters/silvia\|Silvia]].<br>Colei che m'amava [[motifs/well\|tanto]] me lo diede. |
+| [[characters/julia\|JULIA]] | Pare che voi non amaste lei, se ne abbandonate il pegno.<br>È morta, forse? |
+| [[characters/proteus\|PROTEUS]] | Non è così. Credo che viva. |
+| [[characters/julia\|JULIA]] | Ahimè.<br>[[characters/proteus\|Proteo]] Perché gridi 'Ahimè'? |
+| [[characters/julia\|JULIA]] | Non posso fare a meno d'averne pietà. |
+| [[characters/proteus\|PROTEUS]] | E perché dovresti averne pietà? |
+| [[characters/julia\|JULIA]] | Perché mi sembra ch'ella v'amasse altrettanto [[motifs/well\|bene]]<br>quanto voi [[motifs/love\|amate]] la vostra madonna [[characters/silvia\|Silvia]].<br>Ella [[motifs/dreams\|sogna]] colui che ha dimenticato il suo [[motifs/love\|amore]];<br>voi vi struggete per colei che non si cura del vostro [[motifs/love\|amore]].<br>È un peccato che l'[[motifs/love\|amore]] sia così contrario,<br>e a pensarci mi vien da gridare 'Ahimè'. |
+| [[characters/proteus\|PROTEUS]] | [[motifs/well\|Bene]], dalle quell'anello, e insieme<br>questa lettera. (Indicando) Quella è la sua camera. Di' alla mia<br>signora<br>che reclamo la promessa del suo celeste ritratto.<br>Fatta l'ambasciata, corri a [[motifs/home\|casa]] nella mia stanza,<br>dove mi troverai triste e solitario. |
+| *(didascalia)* | Esce |
+| [[characters/julia\|JULIA]] | Quante donne farebbero una tale ambasciata?<br>Ahimè, povero [[characters/proteus\|Proteo]], t'hai preso al servizio<br>una volpe per pastore dei tuoi agnelli.<br>Ahimè, povera [[archetypes/fool\|sciocca]], perché ho pietà di lui<br>che con tutto il cuore mi disprezza?<br>Perché ama lei, mi disprezza.<br>Perché io l'[[motifs/love\|amo]], devo averne pietà.<br>Quest'anello glielo diedi quando si partì da me,<br>per legarlo a ricordarsi del mio affetto.<br>E ora tocca a me, infelice messaggera,<br>perorare per ciò che non vorrei ottenere;<br>portare ciò che vorrei fosse rifiutato;<br>lodare la sua [[concepts/faith\|fedeltà]], che vorrei biasimare.<br>Io sono il [[motifs/love\|amore]] confermato e vero del mio padrone,<br>ma non posso essere vera serva del mio padrone<br>senza mostrarmi falsa traditrice di me stessa.<br>Pure perorerò per lui, ma con tanta freddezza<br>che, il cielo lo sa, non vorrei vederlo [[characters/speed\|riuscire]]. |
+| *(didascalia)* | Entra [[characters/silvia\|Silvia]] |
+| [[characters/julia\|JULIA]] | Gentildonna, buon giorno. Vi prego, siate il mio tramite<br>per condurmi dove possa parlare con madonna [[characters/silvia\|Silvia]]. |
+| [[characters/silvia\|SILVIA]] | Che volete da lei, se quella fossi io? |
+| [[characters/julia\|JULIA]] | Se voi siete lei, imploro la vostra pazienza<br>d'ascoltarmi dire l'ambasciata per cui son mandato. |
+| [[characters/silvia\|SILVIA]] | Da parte di chi? |
+| [[characters/julia\|JULIA]] | Dal mio padrone, messer [[characters/proteus\|Proteo]], madonna. |
+| [[characters/silvia\|SILVIA]] | Oh, vi manda per un ritratto? |
+| [[characters/julia\|JULIA]] | Sì, madonna. |
+| [[characters/silvia\|SILVIA]] | Orsola, porta qua il mio ritratto.<br>[Un'ancella porta un ritratto]<br>Va', dà questo al tuo padrone. Digli da parte mia<br>che una certa [[characters/julia\|Giulia]], che i suoi mutevoli pensieri dimenticano,<br>s'addirebbe meglio alla sua camera di quest'[[archetypes/shadow\|ombra]]. |
+| [[characters/julia\|JULIA]] | Madonna, vi piaccia scorrere questa lettera.<br>Dà una lettera a [[characters/silvia\|Silvia]]<br>Perdonatemi, madonna, per sbadataggine<br>v'ho consegnato un foglio che non dovevo.<br>Riprende la lettera e ne dà a [[characters/silvia\|Silvia]] un'altra<br>Questa è la lettera per vostra signoria. |
+| [[characters/silvia\|SILVIA]] | Ti prego, lasciami rivedere quell'altra. |
+| [[characters/julia\|JULIA]] | Non si può. Buona madonna, perdonatemi. |
+| [[characters/silvia\|SILVIA]] | Ecco, tieni. Non voglio guardare le righe del tuo padrone.<br>So che son farcite di proteste,<br>e piene di giuramenti nuovi di zecca, ch'egli romperà<br>con la stessa facilità con cui io straccio il suo foglio.<br>Ella [[motifs/tears\|straccia]] la lettera |
+| [[characters/julia\|JULIA]] | Madonna, egli manda a vostra signoria quest'anello.<br>Offre un anello a [[characters/silvia\|Silvia]] |
+| [[characters/silvia\|SILVIA]] | Tanta più vergogna per lui, che me lo manda;<br>ché gli ho udito dire mille volte<br>che la sua [[characters/julia\|Giulia]] glielo diede alla partenza.<br>Benché il suo falso dito abbia profanato l'anello,<br>il mio non farà alla sua [[characters/julia\|Giulia]] un tal torto. |
+| [[characters/julia\|JULIA]] | Ella vi ringrazia. |
+| [[characters/silvia\|SILVIA]] | Che dici? |
+| [[characters/julia\|JULIA]] | Vi ringrazio, madonna, che abbiate riguardo per lei.<br>Povera gentildonna, il mio padrone le fa gran torto. |
+| [[characters/silvia\|SILVIA]] | La conosci? |
+| [[characters/julia\|JULIA]] | Quasi altrettanto [[motifs/well\|bene]] quanto conosco me stesso.<br>A pensare ai suoi dolori, ve lo giuro,<br>ho pianto cento volte e più. |
+| [[characters/silvia\|SILVIA]] | Forse ella crede che [[characters/proteus\|Proteo]] l'abbia abbandonata? |
+| [[characters/julia\|JULIA]] | Credo di sì; ed è questa la cagione del suo dolore. |
+| [[characters/silvia\|SILVIA]] | Non è oltremodo bella? |
+| [[characters/julia\|JULIA]] | È stata più bella, madonna, di quel che è ora.<br>Quando credeva che il mio padrone l'amasse [[motifs/well\|davvero]]<br>era, a mio giudizio, bella quanto voi.<br>Ma da quando ha trascurato il suo specchio,<br>e ha gettato via la maschera che scacciava il sole,<br>l'aria ha inaridito le rose delle sue guance<br>e ha spento la tinta di giglio del suo viso,<br>sì che ora è diventata bruna come me. |
+| [[characters/silvia\|SILVIA]] | Quanto era alta? |
+| [[characters/julia\|JULIA]] | Circa la mia statura; ché a Pentecoste,<br>quando si recitarono tutti i nostri spettacoli di festa,<br>i nostri giovani mi fecero fare la parte della donna,<br>e fui vestito con l'abito di madonna [[characters/julia\|Giulia]],<br>che mi calzava così a pennello, a giudizio di tutti,<br>come se la veste fosse stata fatta per me;<br>perciò so ch'ella è press'a poco della mia altezza.<br>E in quell'[[motifs/time\|occasione]] la feci piangere a dirotto,<br>ché recitai una parte lamentevole.<br>Madonna, era Arianna, che si struggeva<br>per lo spergiuro e l'ingiusta fuga di [[characters/theseus\|Teseo]];<br>e la recitai al vivo con le mie [[motifs/tears\|lacrime]]<br>tanto che la mia povera padrona, commossa,<br>pianse amaramente; e ch'io possa morire<br>se col pensiero non provai il suo dolore stesso. |
+| [[characters/silvia\|SILVIA]] | Ella t'è obbligata, gentile giovane.<br>Ahimè, povera dama, desolata e abbandonata.<br>Piango io stessa a pensare alle tue parole.<br>Ecco, giovane. Ecco la mia borsa. Ti do questo<br>per amor della tua dolce padrona, perché tu l'ami.<br>Addio. |
+| *(didascalia)* | Esce |
+| [[characters/julia\|JULIA]] | Ed ella vi ringrazierà, se mai la conoscerete.—<br>Una gentildonna virtuosa, mite e bella.<br>[[concepts/hope\|Spero]] che la corte del mio padrone sarà ben fredda,<br>poiché ella ha tanto riguardo per l'[[motifs/love\|amore]] della 'mia padrona'.<br>Ahimè, come l'[[motifs/love\|amore]] sa scherzare con sé stesso.<br>Ecco il suo ritratto. Vediamo un po': io penso<br>che se avessi una tale acconciatura, questo mio viso<br>sarebbe altrettanto grazioso di questo suo.<br>E pure il pittore l'ha un poco adulata,<br>a meno che non aduli troppo me stessa.<br>I suoi capelli sono castani, i miei d'un giallo perfetto.<br>Se è tutta qui la differenza nel suo [[motifs/love\|amore]],<br>mi procurerò una parrucca di quel colore.<br>I suoi occhi son grigi come vetro, e così i miei.<br>Sì, ma la sua fronte è bassa, e la mia è alta.<br>Che cosa mai può esserci ch'egli apprezzi in lei<br>e ch'io non possa rendere pregevole in me stessa,<br>se questo folle [[motifs/love\|amore]] non fosse un dio accecato?<br>Vieni, [[archetypes/shadow\|ombra]], vieni, e raccogli quest'altra [[archetypes/shadow\|ombra]],<br>ché è tua rivale.<br>Raccoglie il ritratto<br>O tu, forma insensata,<br>tu sarai venerata, baciata, amata e adorata;<br>e se ci fosse senno nella sua idolatria<br>la mia sostanza sarebbe statua in tua vece.<br>Ti tratterò gentilmente, per amor della tua padrona,<br>che così trattò me; se no, per Giove lo giuro,<br>t'avrei graffiato via quegli occhi che non vedono,<br>per far cadere il mio padrone fuor d'[[motifs/love\|amore]] con te. Esce |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra messer Eglamour |
+| EGLAMOUR | Il sole comincia a indorare il cielo d'occidente,<br>e ora è press'a poco l'ora stessa<br>in cui [[characters/silvia\|Silvia]] dovrebbe incontrarmi alla cella di fra' Patrizio.<br>Ella non mancherà; ché gli innamorati non mancano all'ora,<br>se non per venire prima del loro [[motifs/time\|tempo]],<br>tanto spronano la loro fretta. |
+| *(didascalia)* | Entra [[characters/silvia\|Silvia]] |
+| EGLAMOUR | Ecco che viene. Madonna, felice sera! |
+| [[characters/silvia\|SILVIA]] | Amen, amen. Andate avanti, buon Eglamour,<br>fuori dalla porticina presso il muro dell'abbazia.<br>[[concepts/fear\|Temo]] d'essere seguita da qualche spia. |
+| EGLAMOUR | Non [[concepts/fear\|temete]]. La foresta non dista tre leghe.<br>Se la raggiungiamo, siamo abbastanza sicuri. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/thurio\|Turio]], [[characters/proteus\|Proteo]] e [[characters/julia\|Giulia]] vestita da paggio |
+| [[characters/thurio\|THURIO]] | Messer [[characters/proteus\|Proteo]], che dice [[characters/silvia\|Silvia]] della mia corte? |
+| [[characters/proteus\|PROTEUS]] | Oh signore, la trovo più mite di prima,<br>eppure ha da ridire sulla vostra persona. |
+| [[characters/thurio\|THURIO]] | Come? Che la mia gamba è troppo lunga? |
+| [[characters/proteus\|PROTEUS]] | No, che è troppo poca cosa. |
+| [[characters/thurio\|THURIO]] | Porterò uno stivale, per farla un po' più tornita. |
+| [[characters/julia\|JULIA]] | (a parte)<br>Ma l'[[motifs/love\|amore]] non si sprona verso ciò che aborre. |
+| [[characters/thurio\|THURIO]] | Che dice del mio viso? |
+| [[characters/proteus\|PROTEUS]] | Dice che è bello. |
+| [[characters/thurio\|THURIO]] | Eh no, allora la sfrontata mente. Il mio viso è nero. |
+| [[characters/proteus\|PROTEUS]] | Ma le perle son belle; e il vecchio detto dice:<br>'Gli uomini neri son perle agli occhi delle belle dame'. |
+| [[characters/julia\|JULIA]] | (a parte)<br>È vero, perle tali da cavare gli occhi alle dame,<br>ché io preferirei chiuderli piuttosto che guardarle. |
+| [[characters/thurio\|THURIO]] | Come le piace il mio conversare? |
+| [[characters/proteus\|PROTEUS]] | Male, quando parlate di guerra. |
+| [[characters/thurio\|THURIO]] | Ma [[motifs/well\|bene]] quando discorro d'[[motifs/love\|amore]] e di pace. |
+| [[characters/julia\|JULIA]] | (a parte)<br>Ma meglio ancora quando la pace la tenete in bocca. |
+| [[characters/thurio\|THURIO]] | Che dice del mio valore? |
+| [[characters/proteus\|PROTEUS]] | Oh signore, di quello non ha alcun [[concepts/doubt\|dubbio]]. |
+| [[characters/julia\|JULIA]] | (a parte)<br>Non ne ha bisogno, quando lo sa viltà. |
+| [[characters/thurio\|THURIO]] | Che dice della mia nascita? |
+| [[characters/proteus\|PROTEUS]] | Che siete di [[motifs/well\|buona]] discendenza. |
+| [[characters/julia\|JULIA]] | (a parte)<br>Vero: da gentiluomo si è discesi a [[archetypes/fool\|sciocco]]. |
+| [[characters/thurio\|THURIO]] | Considera i miei possedimenti? |
+| [[characters/proteus\|PROTEUS]] | Oh sì, e ne ha pietà. |
+| [[characters/thurio\|THURIO]] | Perché? |
+| [[characters/julia\|JULIA]] | (a parte)<br>Perché un tale asino li possiede. |
+| [[characters/proteus\|PROTEUS]] | Perché son dati in affitto. |
+| [[characters/julia\|JULIA]] | Ecco che viene il Duca. |
+| *(didascalia)* | Entra il Duca |
+| DUCA | Ebbene, messer [[characters/proteus\|Proteo]]. Ebbene, [[characters/thurio\|Turio]].<br>Chi di voi ha visto Eglamour di recente? |
+| [[characters/thurio\|THURIO]] | Io no. |
+| [[characters/proteus\|PROTEUS]] | Nemmeno io. |
+| DUCA | Avete visto mia figlia? |
+| [[characters/proteus\|PROTEUS]] | Neanche lei. |
+| DUCA | E allora è fuggita da quel villano di [[characters/valentine\|Valentino]],<br>ed Eglamour è in sua compagnia.<br>È vero, ché [[characters/friar-laurence\|fra' Lorenzo]] li incontrò entrambi<br>mentre in penitenza vagava per la foresta.<br>Lui lo riconobbe [[motifs/well\|bene]], e indovinò ch'era lei,<br>ma essendo mascherata non ne fu sicuro.<br>Inoltre ella intendeva confessarsi<br>alla cella di Patrizio questa sera, e là non c'era.<br>Queste verosimiglianze confermano la sua fuga di qui;<br>perciò vi prego, non state a discorrere,<br>ma montate a cavallo subito, e raggiungetemi<br>sul rialzo ai piedi della montagna<br>che conduce verso Mantova, dove sono fuggiti.<br>Sbrigatevi, dolci signori, e seguitemi. |
+| *(didascalia)* | Esce |
+| [[characters/thurio\|THURIO]] | Ecco che vuol dire essere una ragazza bisbetica,<br>che fugge la sua fortuna quando questa la insegue.<br>Andrò dietro, più per vendicarmi d'Eglamour<br>che per l'[[motifs/love\|amore]] della sconsiderata [[characters/silvia\|Silvia]].<br>[esce] |
+| [[characters/proteus\|PROTEUS]] | E io seguirò, più per l'[[motifs/love\|amore]] di [[characters/silvia\|Silvia]]<br>che per odio d'Eglamour che va con lei.<br>[Esce] |
+| [[characters/julia\|JULIA]] | E io seguirò, più per [[motifs/cross\|traversare]] quell'[[motifs/love\|amore]]<br>che per odio di [[characters/silvia\|Silvia]], ch'è partita per [[motifs/love\|amore]].<br>[Esce] |
+
+### Atto 5, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Fuorilegge con [[characters/silvia\|Silvia]] prigioniera |
+| PRIMO FUORILEGGE | Su, su, abbiate pazienza. Dobbiamo condurvi dal nostro capitano. |
+| [[characters/silvia\|SILVIA]] | Mille altre sventure maggiori di questa<br>m'hanno insegnato a sopportarla con pazienza. |
+| SECONDO FUORILEGGE | Su, portatela via. |
+| PRIMO FUORILEGGE | Dov'è il gentiluomo che era con lei? |
+| TERZO FUORILEGGE | Avendo il piede lesto ci è sfuggito di corsa;<br>ma Mosè e Valerio gli van dietro.<br>Tu va' con lei all'estremità occidentale del bosco.<br>Là c'è il nostro capitano. Noi inseguiremo quello che è fuggito.<br>La macchia è circondata, non può scampare. |
+| *(didascalia)* | Escono il Secondo e il Terzo Fuorilegge |
+| PRIMO FUORILEGGE | (a [[characters/silvia\|Silvia]])<br>Venite, devo condurvi alla [[motifs/cave\|caverna]] del nostro capitano.<br>Non [[concepts/fear\|temete]]. Egli ha animo onorevole,<br>e non tratterà una donna senza legge. |
+| [[characters/silvia\|SILVIA]] | (a parte)<br>O [[characters/valentine\|Valentino]]! Questo io sopporto per te. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/valentine\|Valentino]] |
+| [[characters/valentine\|VALENTINE]] | Come l'uso genera l'abitudine in un uomo!<br>Questo ombroso [[motifs/desert\|deserto]], questi boschi non frequentati<br>sopporto meglio delle floride città popolose.<br>Qui posso sedere solo, non veduto da nessuno,<br>e alle note lamentose dell'[[motifs/nightingale\|usignolo]]<br>accordare le mie pene e cantare i miei dolori.<br>O tu che abiti nel mio petto,<br>non lasciare la dimora tanto a lungo senza inquilino,<br>ché, andando in rovina, l'edificio non cada<br>e non lasci [[motifs/memory\|memoria]] di ciò che fu.<br>Risanami con la tua presenza, [[characters/silvia\|Silvia]].<br>Gentile ninfa, conforta il tuo derelitto pastore.<br>Che gridi e che trambusto son questi oggi?<br>Sono i miei compagni, che fanno legge del loro capriccio,<br>e danno la caccia a qualche infelice viandante.<br>Mi [[motifs/love\|amano]] [[motifs/well\|assai]], eppure ho un gran daffare<br>a trattenerli da incivili oltraggi.<br>Ritirati, [[characters/valentine\|Valentino]]. Chi è che viene qui?<br>Si tira in disparte. |
+| *(didascalia)* | Entrano [[characters/proteus\|Proteo]], [[characters/silvia\|Silvia]] e [[characters/julia\|Giulia]] vestita da paggio |
+| [[characters/proteus\|PROTEUS]] | Madonna, questo servigio io v'ho reso—<br>benché non abbiate riguardo a nulla di ciò che fa il vostro servo—<br>rischiando la vita e strappandovi a colui<br>che avrebbe fatto violenza al vostro [[concepts/honour\|onore]] e al vostro [[motifs/love\|amore]].<br>Concedetemi per mercede un solo sguardo benigno.<br>Un dono minore di questo non saprei chiedere,<br>e meno di questo son certo che non potete dare. |
+| [[characters/valentine\|VALENTINE]] | (a parte)<br>Come un sogno è ciò che vedo e odo!<br>[[motifs/love\|Amore]], prestami pazienza per trattenermi ancora un poco. |
+| [[characters/silvia\|SILVIA]] | Oh misera, infelice che sono! |
+| [[characters/proteus\|PROTEUS]] | Infelice eravate, madonna, prima ch'io venissi.<br>Ma col mio venire v'ho resa felice. |
+| [[characters/silvia\|SILVIA]] | Col tuo accostarti mi rendi infelicissima. |
+| [[characters/julia\|JULIA]] | (a parte)<br>E me, quando egli s'accosta alla vostra presenza. |
+| [[characters/silvia\|SILVIA]] | Fossi stata ghermita da un [[motifs/lion\|leone]] affamato<br>sarei stata colazione alla belva<br>piuttosto che lasciarmi salvare dal falso [[characters/proteus\|Proteo]].<br>O cielo, sii giudice di come io [[motifs/love\|ami]] [[characters/valentine\|Valentino]],<br>la cui vita m'è cara quanto l'[[motifs/soul\|anima]] mia.<br>E altrettanto pienamente, ché di più non si può,<br>io detesto il falso spergiuro [[characters/proteus\|Proteo]].<br>Perciò vattene, non sollecitarmi più. |
+| [[characters/proteus\|PROTEUS]] | Quale pericolosa impresa, fosse anche accanto alla [[motifs/death\|morte]],<br>non affronterei per un solo sguardo sereno!<br>Oh, è questa la maledizione nell'[[motifs/love\|amore]], e sempre verificata,<br>che le donne non sappiano [[motifs/love\|amare]] là dove sono amate. |
+| [[characters/silvia\|SILVIA]] | Che [[characters/proteus\|Proteo]] non sappia [[motifs/love\|amare]] là dov'è amato.<br>Rileggi il cuore di [[characters/julia\|Giulia]], il tuo primo e migliore [[motifs/love\|amore]],<br>per amor della quale allora lacerasti la tua [[concepts/faith\|fede]]<br>in mille giuramenti, e tutti quei giuramenti<br>sono scesi allo spergiuro per [[motifs/love\|amare]] me.<br>Non t'è rimasta [[concepts/faith\|fede]] alcuna, se non ne avessi due,<br>e questo è assai peggio che nessuna. Meglio non averne<br>che averne una [[concepts/faith\|fede]] plurale, ch'è di troppo d'una,<br>tu falsario verso il tuo vero amico. |
+| [[characters/proteus\|PROTEUS]] | In [[motifs/love\|amore]]<br>chi ha riguardo per l'amico? |
+| [[characters/silvia\|SILVIA]] | Tutti gli uomini fuorché [[characters/proteus\|Proteo]]. |
+| [[characters/proteus\|PROTEUS]] | Ebbene, se il gentile spirito di parole commoventi<br>non può in alcun modo mutarvi in forma più mite<br>vi corteggerò da soldato, con la punta dell'arme,<br>e vi [[motifs/love\|amerò]] contro la [[concepts/nature\|natura]] dell'[[motifs/love\|amore]]: con la forza. |
+| [[characters/silvia\|SILVIA]] | O cielo! |
+| [[characters/proteus\|PROTEUS]] | (assalendola) Ti costringerò a cedere al mio [[motifs/desire\|desiderio]]. |
+| [[characters/valentine\|VALENTINE]] | (facendosi avanti)<br>Ribaldo, lascia quel rozzo e incivile contatto,<br>tu amico di malo stampo. |
+| [[characters/proteus\|PROTEUS]] | [[characters/valentine\|Valentino]]! |
+| [[characters/valentine\|VALENTINE]] | Tu, amico da strapazzo, senza [[concepts/faith\|fede]] né [[motifs/love\|amore]],<br>ché tale è un amico oggigiorno. Uomo traditore,<br>hai ingannato le mie speranze. Null'altro che il mio occhio<br>avrebbe potuto persuadermene. Ora non oso dire<br>d'avere un solo amico vivo. Tu mi smentiresti.<br>Di chi ci si può fidare, quando la propria destra<br>è spergiura verso il petto? [[characters/proteus\|Proteo]],<br>mi duole che non debba mai più fidarmi di te,<br>ma tenere il mondo per estraneo a cagione tua.<br>La ferita che viene da vicino è la più profonda. O [[motifs/time\|tempo]] maledettissimo,<br>che fra tutti i nemici il peggiore sia un amico! |
+| [[characters/proteus\|PROTEUS]] | La mia vergogna e la mia [[concepts/guilt\|colpa]] mi confondono.<br>Perdonami, [[characters/valentine\|Valentino]]. Se un dolore sincero<br>è riscatto sufficiente per l'offesa,<br>qui te l'offro. Soffro con altrettanta verità<br>quanta ne posi nel commettere. |
+| [[characters/valentine\|VALENTINE]] | Allora son pagato,<br>e ancora una volta ti ricevo per onesto.<br>Chi non è soddisfatto dal pentimento<br>non è né del cielo né della terra. Ché questi si placano;<br>con la penitenza l'ira dell'Eterno si acqueta.<br>E perché il mio [[motifs/love\|amore]] appaia schietto e libero,<br>tutto ciò che era mio in [[characters/silvia\|Silvia]] io ti dono. |
+| [[characters/julia\|JULIA]] | Oh me infelice!<br>Sviene |
+| [[characters/proteus\|PROTEUS]] | Badate al ragazzo. |
+| [[characters/valentine\|VALENTINE]] | Ehi, ragazzo!<br>Ehi, monello, che c'è? Che succede? Alza gli occhi. Parla. |
+| [[characters/julia\|JULIA]] | Oh buon signore, il mio padrone m'incaricò di consegnare un anello a madonna [[characters/silvia\|Silvia]], il che per mia negligenza non fu mai fatto. |
+| [[characters/proteus\|PROTEUS]] | Dov'è quell'anello, ragazzo? |
+| [[characters/julia\|JULIA]] | Eccolo. Questo è.<br>Dà l'anello a [[characters/proteus\|Proteo]] |
+| [[characters/proteus\|PROTEUS]] | Come, fa' vedere!<br>Ma questo è l'anello che diedi a [[characters/julia\|Giulia]]. |
+| [[characters/julia\|JULIA]] | Oh, [[concepts/mercy\|perdonatemi]], signore, mi sono sbagliato.<br>Offre a [[characters/proteus\|Proteo]] un altro anello<br>Questo è l'anello che mandaste a [[characters/silvia\|Silvia]]. |
+| [[characters/proteus\|PROTEUS]] | Ma come t'è venuto quest'anello? Alla mia partenza<br>lo diedi a [[characters/julia\|Giulia]]. |
+| [[characters/julia\|JULIA]] | E [[characters/julia\|Giulia]] stessa me lo diede,<br>e [[characters/julia\|Giulia]] stessa l'ha portato qui. |
+| [[characters/proteus\|PROTEUS]] | Come? [[characters/julia\|Giulia]]? |
+| [[characters/julia\|JULIA]] | Guarda colei che fu il bersaglio di tutti i tuoi giuramenti<br>e li accolse profondamente nel suo cuore.<br>Quante volte con lo spergiuro ne hai spaccato la radice?<br>O [[characters/proteus\|Proteo]], che quest'abito ti faccia arrossire.<br>Vergognati che io abbia indossato<br>una veste così immodesta, se vergogna alberga<br>in un travestimento d'[[motifs/love\|amore]].<br>È macchia minore, giudica il pudore,<br>che le donne mutino forma, che gli uomini animo. |
+| [[characters/proteus\|PROTEUS]] | Che gli uomini animo! È vero. O cielo, se l'uomo fosse<br>soltanto costante, sarebbe perfetto. Quel solo errore<br>lo riempie di colpe, gli fa percorrere tutti i<br>peccati;<br>l'incostanza decade prima ancora di cominciare.<br>Che c'è nel viso di [[characters/silvia\|Silvia]] ch'io non possa scorgere<br>più fresco in quello di [[characters/julia\|Giulia]], con occhio costante? |
+| [[characters/valentine\|VALENTINE]] | Su, su, una mano da ciascuno.<br>Sia mia la benedizione di fare questa felice chiusa.<br>Sarebbe un peccato che due tali amici restassero a lungo nemici.<br>[[characters/julia\|Giulia]] e [[characters/proteus\|Proteo]] si danno la mano |
+| [[characters/proteus\|PROTEUS]] | Sii testimone, cielo: ho il mio desiderio per sempre. |
+| [[characters/julia\|JULIA]] | E io il mio. |
+| *(didascalia)* | Entrano i Fuorilegge col Duca e [[characters/thurio\|Turio]] prigionieri |
+| OUTLAWS | Una preda, una preda, una preda! |
+| [[characters/valentine\|VALENTINE]] | Fermi, fermi, dico. È il mio signore il Duca.<br>I Fuorilegge liberano il Duca e [[characters/thurio\|Turio]]<br><br>(Al Duca) Vostra grazia è benvenuta presso un uomo<br>caduto in disgrazia,<br>il bandito [[characters/valentine\|Valentino]]. |
+| DUCA | Messer [[characters/valentine\|Valentino]]! |
+| [[characters/thurio\|THURIO]] | Là c'è [[characters/silvia\|Silvia]], e [[characters/silvia\|Silvia]] è mia. |
+| [[characters/valentine\|VALENTINE]] | [[characters/thurio\|Turio]], indietro, o abbraccia la tua [[motifs/death\|morte]].<br>Non venire a portata della mia ira.<br>Non chiamare [[characters/silvia\|Silvia]] tua. Se lo fai ancora una volta,<br>[[settings/verona\|Verona]] non ti conterrà. Eccola qui.<br>Prova soltanto a impadronirtene con un tocco—<br>ti sfido anche solo a soffiare sul mio [[motifs/love\|amore]]. |
+| [[characters/thurio\|THURIO]] | Messer [[characters/valentine\|Valentino]], di lei non m'importa, io.<br>Tengo per [[archetypes/fool\|sciocco]] chi mette a repentaglio<br>il suo [[concepts/body\|corpo]] per una ragazza che non l'ama.<br>Non la reclamo, e perciò è tua. |
+| DUCA | Tanto più degenere e vile sei tu<br>ad aver messo in opera per lei i mezzi che hai messo,<br>e a lasciarla per condizioni così lievi.<br>Ora, per l'[[concepts/honour\|onore]] della mia stirpe,<br>io applaudo il tuo spirito, [[characters/valentine\|Valentino]],<br>e ti giudico degno dell'[[motifs/love\|amore]] d'un'imperatrice.<br>Sappi dunque che qui dimentico tutti i vecchi rancori,<br>cancello ogni astio, ti richiamo a [[motifs/home\|casa]],<br>ti assegno un nuovo stato per il tuo merito senza pari,<br>al quale così sottoscrivo: messer [[characters/valentine\|Valentino]],<br>sei un gentiluomo, e di [[motifs/well\|buona]] discendenza.<br>Prenditi la tua [[characters/silvia\|Silvia]], ché l'hai meritata. |
+| [[characters/valentine\|VALENTINE]] | Ringrazio vostra grazia. Il dono m'ha reso felice.<br>Ora vi supplico, per amor di vostra figlia,<br>di concedermi un favore ch'io vi chiederò. |
+| DUCA | Te lo concedo, per te stesso, qualunque esso sia. |
+| [[characters/valentine\|VALENTINE]] | Questi uomini banditi con cui son vissuto<br>sono uomini dotati di degne qualità.<br>Perdonate loro quel che hanno commesso qui,<br>e siano richiamati dal loro [[concepts/exile\|esilio]].<br>Sono emendati, civili, pieni di bontà,<br>e adatti a grandi incarichi, degno signore. |
+| DUCA | Hai vinto. Perdono loro e te.<br>Disponi di loro come conosci i loro meriti.<br>Vieni, andiamo. Concluderemo ogni discordia<br>con trionfi, allegria e rara solennità. |
+| [[characters/valentine\|VALENTINE]] | E mentre andiamo oserò essere ardito<br>tanto da far sorridere vostra grazia col nostro discorso.<br>Che pensate di questo paggio, signore? |
+| DUCA | Penso che il ragazzo ha grazia in sé. Arrossisce. |
+| [[characters/valentine\|VALENTINE]] | Ve lo garantisco, signore: più grazia che ragazzo. |
+| DUCA | Che intendete con questo detto? |
+| [[characters/valentine\|VALENTINE]] | Se vi piace, ve lo dirò strada facendo,<br>sì che vi [[concepts/wonder\|meraviglierete]] di ciò ch'è accaduto.<br>Vieni, [[characters/proteus\|Proteo]], è tutta la tua penitenza l'ascoltare<br>la storia dei tuoi amori scoperta.<br>Fatto questo, il nostro giorno di [[motifs/marriage\|nozze]] sarà il vostro,<br>una sola festa, una sola casa, una sola felicità comune. |
+| *(didascalia)* | Escono |
 
 
 
@@ -3195,11 +4262,6 @@ The Two Gentlemen of [[settings/verona|Verona]]
 | DUKE | What mean you by that saying? |
 | [[characters/valentine\|VALENTINE]] | Please you, I’ll tell you as we pass along,<br>That you will [[concepts/wonder\|wonder]] what hath fortunèd.<br>Come, [[characters/proteus\|Proteus]], ’tis your penance but to hear<br>The story of your loves discovered.<br>That done, our day of [[motifs/marriage\|marriage]] shall be yours,<br>One feast, one house, one mutual happiness. |
 | *(didascalia)* | Exeunt |
-| THE TAMING OF THE | SHREW<br>The Taming of the Shrew was first published in the 1623 Folio, but a related play, shorter and simpler, with the title The Taming of a Shrew, had appeared in print in 1594. The exact relationship of these plays is disputed. A Shrew has sometimes been regarded as the source for The Shrew; some scholars have believed that both plays derive independently from an earlier play, now lost; it has even been suggested that Shakespeare wrote both plays. In our view Shakespeare’s play was written first, not necessarily on the foundation of an earlier play, and A Shrew is an anonymous imitation, written in the [[concepts/hope\|hope]] of capitalizing on the success of Shakespeare’s play. The difference between the titles is probably no more significant than the fact that The [[motifs/winter\|Winter]]’s Tale is even now often loosely referred to as A [[motifs/winter\|Winter]]’s Tale, or The [[forms/comedy\|Comedy]] of Errors as A [[forms/comedy\|Comedy]] of Errors.<br>The plot of The Taming of the Shrew has three main strands. First comes the Induction showing how a drunken tinker, [[characters/christopher-sly\|Christopher Sly]], is made to believe himself a lord for whose entertainment a play is to be presented. This resembles an episode in The Arabian Nights, in which Caliph Haroun al Raschid plays a similar trick on Abu Hassan. A Latin version of this story was known in Shakespeare’s England; it may also have circulated by word of mouth. Second comes the principal plot of the play performed for Sly, in which the shrewish Katherine is wooed, won, and tamed by the fortune-hunting Petruccio. This is a popular narrative theme; Shakespeare may have known a ballad called ‘A merry jest of a shrewd and curst wife lapped in morel’s skin for her good behaviour’, printed around 1550. The third strand of the play involves [[characters/lucentio\|Lucentio]], Gremio, and [[characters/hortensio\|Hortensio]], all of them suitors for the hand of Katherine’s sister, [[characters/bianca\|Bianca]]. This is based on the first English prose [[forms/comedy\|comedy]], George Gascoigne’s Supposes, translated from Ludovico Ariosto’s I Suppositi (1509), acted in 1566, and published in 1573. In The Taming of the Shrew as printed in the 1623 Folio [[characters/christopher-sly\|Christopher Sly]] fades out after Act 1, Scene 1, in A Shrew he makes other appearances, and rounds off the play. These episodes may derive from a version of Shakespeare’s play different from that preserved in the Folio; we print them as Additional Passages.<br>The adapting of Shakespeare’s play that seems to have occurred early in its career foreshadows its later [[concepts/history\|history]] on the stage. Seven versions appeared during the seventeenth and eighteenth centuries, culminating in David Garrick’s Catharine and [[characters/petruchio\|Petruchio]], first performed in 1754. This version, omitting [[characters/christopher-sly\|Christopher Sly]] and concentrating on the taming story, held the stage almost unchallenged until late in the nineteenth century. In various incarnations The Taming of the Shrew has always been popular on the stage, but its reputation as a robust [[forms/comedy\|comedy]] verging on farce has often obscured its more subtle and imaginative aspects, brutalizing Petruccio and trivializing Kate. The Induction, finely written, establishes a fundamentally serious concern with the powers of persuasion to change not merely appearance but reality, and this theme is acted out at different levels in both strands of the subsequent action. |
-| THE PERSONS OF THE | PLAY<br><br>In the Induction |
-| CHRISTOPHER | SLY, beggar and tinker<br>A HOSTESS<br>A LORD<br>BARTHOLOMEW, his page |
-| PLAYERS | In the play-within-the-play |
-| [[characters/baptista\|BAPTISTA]] | Minola, a gentleman of Padua<br>KATHERINE, his elder daughter<br>[[characters/bianca\|BIANCA]], his younger daughter<br>PETRUCCIO, a gentleman of [[settings/verona\|Verona]], suitor of Katherine<br>GREMIO, a rich old man of Padua, suitor of [[characters/bianca\|Bianca]]<br>[[characters/hortensio\|HORTENSIO]], another suitor, who disguises himself as Licio, a<br>teacher<br>[[characters/lucentio\|LUCENTIO]], from Pisa, who disguises himself as Cambio, a teacher<br>VINCENTIO, [[characters/lucentio\|Lucentio]]’s father<br>A PEDANT (schoolmaster), from Mantua<br>A WIDOW<br>A TAILOR<br>A HABERDASHER<br>An OFFICER<br>SERVINGMEN, including NATHANIEL, PHILIP, JOSEPH, and PETER<br>Other servants of [[characters/baptista\|Baptista]] and Petruccio |
 
 
 <span class="qlang-split" data-lang="it"></span>

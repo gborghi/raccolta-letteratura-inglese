@@ -261,6 +261,252 @@ If our temporal reversion nourish
 The life of significant soil.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+    Non so molto degli dèi; ma penso che il [[motifs/river|fiume]]  
+Sia un forte dio bruno — cupo, indomito e intrattabile,  
+Paziente fino a un certo punto, dapprima riconosciuto come frontiera;  
+Utile, infido, come vettore di commerci;  
+Poi solo un problema che sta davanti al costruttore di ponti.  
+Risolto il problema, il dio bruno è quasi dimenticato  
+Dagli abitanti delle città — sempre, tuttavia, implacabile,  
+Che serba le sue [[motifs/seasons|stagioni]] e le sue ire, distruttore, memoria  
+Di ciò che gli uomini scelgono di dimenticare. Non onorato, non propiziato  
+Dagli adoratori della [[motifs/machine|macchina]], ma in attesa, vigile e in attesa.  
+Il suo ritmo era presente nella stanza dei bambini,  
+Nell'ailanto rigoglioso del cortile d'aprile,  
+Nell'odore dell'uva sulla tavola d'[[motifs/autumn|autunno]],  
+E nel cerchio serale sotto il gas d'[[motifs/winter|inverno]].  
+    Il [[motifs/river|fiume]] è dentro di noi, il mare è tutt'intorno a noi;  
+Il mare è anche il margine della terra, il granito  
+In cui si spinge, le spiagge dove getta  
+I suoi indizi di una creazione anteriore e altra:  
+La stella marina, il limulo, la spina dorsale della balena;  
+Le pozze dove offre alla nostra curiosità  
+Le alghe più delicate e l'anemone di mare.  
+Ributta a riva le nostre perdite, la sciabica strappata,  
+La nassa sfondata, il remo spezzato  
+E gli attrezzi di morti stranieri. Il mare ha molte voci,  
+Molti dèi e molte voci.  
+                                               Il sale è sulla [[motifs/rose|rosa]] di macchia,  
+La nebbia è tra gli abeti.  
+                                            L'ululo del mare  
+E il guaito del mare, sono voci diverse  
+Spesso udite insieme: il gemito nel sartiame,  
+La minaccia e la carezza dell'onda che si rompe sull'[[motifs/water|acqua]],  
+Il rombo lontano tra i denti di granito,  
+E il lamentoso avvertimento dal promontorio che s'avvicina  
+Sono tutte voci del mare, e la boa gemente sull'onda  
+Doppiata verso casa, e il gabbiano:  
+E sotto l'oppressione della nebbia silenziosa  
+La campana che rintocca  
+Misura un [[motifs/time|tempo]] che non è il nostro [[motifs/time|tempo]], suonata dalla non frettolosa  
+Onda lunga di fondo, un [[motifs/time|tempo]]  
+Più antico del [[motifs/time|tempo]] dei cronometri, più antico  
+Del [[motifs/time|tempo]] contato da donne ansiose e preoccupate  
+Sveglie a letto, che calcolano il futuro,  
+Cercando di disfare, svolgere, districare  
+E ricomporre il passato e il futuro,  
+Tra la mezzanotte e l'[[motifs/dawn|alba]], quando il passato è tutto [[concepts/deception|inganno]],  
+Il futuro senza futuro, prima della guardia del mattino  
+Quando il [[motifs/time|tempo]] si ferma e il [[motifs/time|tempo]] non ha mai fine;  
+E l'onda lunga di fondo, che è ed era dal principio,  
+Fa risuonare  
+La campana.  
+
+II  
+    Dov'è la fine di tutto questo, il lamento senza suono,  
+Il silenzioso appassire degli [[motifs/autumn|autunnali]] [[motifs/flowers|fiori]]  
+Che lasciano cadere i petali e restano immobili;  
+Dov'è la fine dei relitti alla deriva,  
+La [[motifs/prayer|preghiera]] dell'osso sulla spiaggia, l'impregabile  
+[[motifs/prayer|Preghiera]] alla calamitosa annunciazione?  
+    Non c'è fine, ma addizione: lo strascico  
+Conseguente di altri giorni e altre ore,  
+Mentre l'emozione fa propri gli inemotivi  
+Anni di vita in mezzo ai rottami  
+Di ciò in cui si credeva come nel più affidabile —  
+E perciò il più adatto alla [[concepts/renunciation|rinuncia]].  
+    C'è l'addizione finale, il declinante  
+[[concepts/pride|Orgoglio]] o il rancore per le forze che declinano,  
+La devozione senza oggetto che potrebbe passare per assenza di devozione,  
+In una barca alla deriva con una lenta falla,  
+L'ascolto silenzioso dell'innegabile  
+Clamore della campana dell'ultima annunciazione.  
+    Dov'è la loro fine, i pescatori che navigano  
+Nella coda del [[motifs/wind|vento]], dove la nebbia si rannicchia?  
+Non possiamo pensare a un [[motifs/time|tempo]] senza oceano  
+O a un oceano non disseminato di rifiuti  
+O a un futuro che non sia esposto  
+Come il passato, a non avere destinazione.  
+    Dobbiamo pensarli mentre per sempre aggottano,  
+Calano e salpano le reti, mentre il Nord Est incombe  
+Su banchi bassi immutabili e senza erosione  
+O riscuotono il loro denaro, asciugando le vele all'ormeggio;  
+Non mentre compiono un viaggio che non sarà pagabile  
+Per una pesca che non reggerà all'esame.  
+    Non c'è fine, il lamento senza voce,  
+Non c'è fine all'appassire di [[motifs/flowers|fiori]] appassiti,  
+Al movimento del [[motifs/pain|dolore]] che è indolore e immobile,  
+Alla deriva del mare e ai relitti alla deriva,  
+La [[motifs/prayer|preghiera]] dell'osso alla [[motifs/death|Morte]] suo Dio. Solo la a stento, appena pregabile  
+[[motifs/prayer|Preghiera]] dell'unica Annunciazione.  
+    Sembra, col farsi più vecchi,  
+Che il passato abbia un altro schema, e cessi di essere una mera sequenza —  
+O anche uno sviluppo: quest'ultimo una fallacia parziale  
+Incoraggiata da nozioni superficiali di evoluzione,  
+Che diventa, nella mente popolare, un mezzo per rinnegare il passato.  
+I momenti di felicità — non il senso del [[motifs/well|benessere]],  
+Del godimento, dell'appagamento, della sicurezza o dell'affetto,  
+O anche di un'ottima cena, ma l'improvvisa illuminazione —  
+Avemmo l'esperienza ma perdemmo il significato,  
+E l'accostarsi al significato restituisce l'esperienza  
+In una forma diversa, al di là di ogni significato  
+Che possiamo assegnare alla felicità. Ho già detto  
+Che l'esperienza passata ravvivata nel significato  
+Non è l'esperienza di una vita soltanto  
+Ma di molte generazioni — senza dimenticare  
+Qualcosa che è probabilmente del tutto ineffabile:  
+Lo sguardo all'indietro oltre la sicurezza  
+Della [[concepts/history|storia]] registrata, il mezzo sguardo all'indietro  
+Da sopra la spalla, verso il terrore primitivo.  
+Ora, veniamo a scoprire che i momenti d'agonia  
+(Se siano o no dovuti a un fraintendimento,  
+All'aver sperato le cose sbagliate o temuto le cose sbagliate,  
+Non è la questione) sono ugualmente permanenti  
+Di quella permanenza che il [[motifs/time|tempo]] ha. Lo intendiamo meglio  
+Nell'agonia degli altri, quasi vissuta,  
+Che ci coinvolge, che nella nostra.  
+Ché il nostro passato è coperto dalle correnti dell'azione,  
+Ma il tormento degli altri resta un'esperienza  
+Senza attenuazioni, non logorata dal successivo attrito.  
+La gente cambia, e sorride: ma l'agonia permane.  
+Il [[motifs/time|tempo]] distruttore è il [[motifs/time|tempo]] che conserva,  
+Come il [[motifs/river|fiume]] col suo carico di negri morti, vacche e stie di polli,  
+La mela amara e il morso nella mela.  
+E la roccia frastagliata nelle acque inquiete,  
+Le onde la lavano, le nebbie la nascondono;  
+In un giorno alcionio è soltanto un monumento,  
+Col tempo navigabile è sempre un punto di riferimento  
+Su cui tracciare una rotta: ma nella stagione cupa  
+O nella furia improvvisa, è ciò che sempre è stato.  
+III  
+A volte mi [[concepts/wonder|domando]] se sia questo che Krishna intendeva —  
+Tra le altre cose — o un modo di dire la stessa cosa:  
+Che il futuro è una canzone sbiadita, una [[motifs/rose|Rosa]] Regale o un rametto di lavanda  
+Di malinconico rimpianto per quelli che non sono ancora qui a rimpiangere,  
+Pressato tra le gialle [[motifs/leaves|foglie]] di un libro che non è mai stato aperto.  
+E la via in su è la via in giù, la via avanti è la via indietro.  
+Non puoi guardarlo fisso, ma questo è certo,  
+Che il [[motifs/time|tempo]] non guarisce: il paziente non è più qui.  
+Quando il treno parte, e i passeggeri si sono sistemati  
+Con la frutta, i periodici e le lettere d'affari  
+(E quelli che li hanno accompagnati hanno lasciato il binario)  
+I loro volti si distendono dal dolore al sollievo,  
+Al ritmo sonnolento di cento ore.  
+Andate avanti, viaggiatori! non sfuggendo al passato  
+Verso vite diverse, o verso un qualsiasi futuro;  
+Non siete le stesse persone che lasciarono quella stazione  
+O che arriveranno a un qualsiasi capolinea,  
+Mentre le rotaie che si restringono scorrono a unirsi dietro di voi;  
+E sul ponte del transatlantico rombante  
+Guardando la scia che si allarga dietro di voi,  
+Non penserete 'il passato è finito'  
+O 'il futuro ci sta davanti'.  
+Al calar della notte, nel sartiame e nell'antenna,  
+C'è una voce che canta (ma non all'orecchio,  
+La conchiglia mormorante del [[motifs/time|tempo]], e in nessuna lingua)  
+'Andate avanti, voi che credete di viaggiare;  
+Non siete quelli che videro il porto  
+Allontanarsi, né quelli che sbarcheranno.  
+Qui fra la riva di qua e la riva di là  
+Mentre il [[motifs/time|tempo]] è ritirato, considerate il futuro  
+E il passato con animo uguale.  
+Nel momento che non è d'azione né d'inazione  
+Potete ricevere questo: “su qualunque sfera dell'essere  
+La mente di un uomo sia intenta  
+Al [[motifs/time|momento]] della [[motifs/death|morte]]” — quella è l'unica azione  
+(E il [[motifs/time|momento]] della [[motifs/death|morte]] è ogni istante)  
+Che fruttificherà nelle vite degli altri:  
+E non pensate al frutto dell'azione.  
+Andate avanti.  
+                        O viaggiatori, o marinai,  
+Voi che giungete in porto, e voi i cui corpi  
+Subiranno la prova e il giudizio del mare,  
+O qualunque evento, questa è la vostra vera destinazione.'  
+Così Krishna, come quando ammonì Arjuna  
+Sul campo di battaglia.  
+                                    Non un andar [[motifs/well|bene]],  
+Ma un andare avanti, viaggiatori.  
+IV  
+    Signora, il cui santuario sta sul promontorio,  
+Prega per tutti coloro che sono sulle navi, quelli  
+Il cui mestiere ha a che fare col pesce, e  
+Quelli che attendono a ogni lecito traffico  
+E quelli che li conducono.  
+    Ripeti una [[motifs/prayer|preghiera]] anche in favore  
+Delle donne che hanno visto i figli o i mariti  
+Partire, e non tornare:  
+Figlia del tuo figlio,  
+[[characters/queen|Regina]] del Cielo.  
+    Prega anche per quelli che erano sulle navi, e  
+Finirono il loro viaggio sulla sabbia, nelle labbra del mare  
+O nella gola oscura che non li respingerà  
+O dovunque non li possa raggiungere il suono del perpetuo angelus  
+Della campana del mare.  
+V  
+Comunicare con Marte, conversare con gli spiriti,  
+Riferire il comportamento del [[archetypes/monster|mostro]] marino,  
+Descrivere l'oroscopo, fare l'aruspice o scrutare nella sfera,  
+Osservare la malattia nelle segnature, evocare  
+La [[forms/biography|biografia]] dalle rughe del palmo  
+E la [[forms/tragedy|tragedia]] dalle dita; sciogliere presagi  
+Per sortilegio, o [[motifs/leaves|foglie]] di tè, [[forms/riddle|indovinare]] l'inevitabile  
+Con le carte da gioco, trastullarsi coi pentagrammi  
+O con gli acidi barbiturici, o sezionare  
+L'immagine ricorrente in terrori preconsci —  
+Esplorare il grembo, o la tomba, o i [[motifs/dreams|sogni]]; tutti questi sono soliti  
+Passatempi e droghe, e rubriche della stampa:  
+E sempre lo saranno, alcuni di essi specialmente  
+Quando c'è angoscia di nazioni e perplessità  
+Sia sulle coste dell'Asia, sia nella Edgware [[motifs/road|Road]].  
+La curiosità degli uomini fruga il passato e il futuro  
+E si aggrappa a quella dimensione. Ma cogliere  
+Il punto d'intersezione dell'atemporale  
+Col [[motifs/time|tempo]], è occupazione da santo —  
+E nemmeno un'occupazione, ma qualcosa di dato  
+E ricevuto, in una [[motifs/death|morte]] d'una vita intera nell'[[motifs/love|amore]],  
+Ardore e abnegazione e resa di [[concepts/self|sé]].  
+Per la maggior parte di noi, c'è solo il momento inatteso,  
+Il momento dentro e fuori dal [[motifs/time|tempo]],  
+L'accesso di distrazione, perso in un raggio di sole,  
+Il timo selvatico non visto, o il [[motifs/winter|invernale]] [[motifs/lightning|lampo]]  
+O la cascata, o la musica udita così profondamente  
+Che non è udita affatto, ma tu sei la musica  
+Finché la musica dura. Questi sono solo accenni e congetture,  
+Accenni seguiti da congetture; e il resto  
+È [[motifs/prayer|preghiera]], osservanza, disciplina, pensiero e azione.  
+L'accenno mezzo indovinato, il dono mezzo compreso, è l'Incarnazione.  
+Qui l'impossibile [[concepts/union|unione]]  
+Di sfere dell'esistenza è attuale,  
+Qui il passato e il futuro  
+Sono vinti, e riconciliati,  
+Dove l'azione sarebbe altrimenti movimento  
+Di ciò che è soltanto mosso  
+E non ha in sé sorgente di movimento —  
+Spinto da demoniache, ctonie  
+Potenze. E l'azione giusta è [[concepts/freedom|libertà]]  
+Dal passato e anche dal futuro.  
+Per la maggior parte di noi, questo è il fine  
+Mai qui da realizzare;  
+Noi che siamo invitti solamente  
+Perché abbiamo continuato a tentare;  
+Noi, alla fine paghi  
+Se il nostro ritorno temporale nutre  
+(Non troppo lontano dal tasso)  
+La vita del suolo significativo.
+
 
 
 <span class="atom-split" data-atom="section_01_part_i" data-title="The Dry Salvages — I" data-chapter="part i" data-kind="section" data-tags="motif/autumn,motif/dawn,motif/machine,motif/river,motif/rose,motif/seasons,motif/time,motif/water,motif/winter,concept/deception"></span>
@@ -318,6 +564,60 @@ And the ground swell, that is and was from the beginning,
 Clangs  
 The bell.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+    Non so molto degli dèi; ma penso che il [[motifs/river|fiume]]  
+Sia un forte dio bruno — cupo, indomito e intrattabile,  
+Paziente fino a un certo punto, dapprima riconosciuto come frontiera;  
+Utile, infido, come vettore di commerci;  
+Poi solo un problema che sta davanti al costruttore di ponti.  
+Risolto il problema, il dio bruno è quasi dimenticato  
+Dagli abitanti delle città — sempre, tuttavia, implacabile,  
+Che serba le sue [[motifs/seasons|stagioni]] e le sue ire, distruttore, memoria  
+Di ciò che gli uomini scelgono di dimenticare. Non onorato, non propiziato  
+Dagli adoratori della [[motifs/machine|macchina]], ma in attesa, vigile e in attesa.  
+Il suo ritmo era presente nella stanza dei bambini,  
+Nell'ailanto rigoglioso del cortile d'aprile,  
+Nell'odore dell'uva sulla tavola d'[[motifs/autumn|autunno]],  
+E nel cerchio serale sotto il gas d'[[motifs/winter|inverno]].  
+    Il [[motifs/river|fiume]] è dentro di noi, il mare è tutt'intorno a noi;  
+Il mare è anche il margine della terra, il granito  
+In cui si spinge, le spiagge dove getta  
+I suoi indizi di una creazione anteriore e altra:  
+La stella marina, il limulo, la spina dorsale della balena;  
+Le pozze dove offre alla nostra curiosità  
+Le alghe più delicate e l'anemone di mare.  
+Ributta a riva le nostre perdite, la sciabica strappata,  
+La nassa sfondata, il remo spezzato  
+E gli attrezzi di morti stranieri. Il mare ha molte voci,  
+Molti dèi e molte voci.  
+                                               Il sale è sulla [[motifs/rose|rosa]] di macchia,  
+La nebbia è tra gli abeti.  
+                                            L'ululo del mare  
+E il guaito del mare, sono voci diverse  
+Spesso udite insieme: il gemito nel sartiame,  
+La minaccia e la carezza dell'onda che si rompe sull'[[motifs/water|acqua]],  
+Il rombo lontano tra i denti di granito,  
+E il lamentoso avvertimento dal promontorio che s'avvicina  
+Sono tutte voci del mare, e la boa gemente sull'onda  
+Doppiata verso casa, e il gabbiano:  
+E sotto l'oppressione della nebbia silenziosa  
+La campana che rintocca  
+Misura un [[motifs/time|tempo]] che non è il nostro [[motifs/time|tempo]], suonata dalla non frettolosa  
+Onda lunga di fondo, un [[motifs/time|tempo]]  
+Più antico del [[motifs/time|tempo]] dei cronometri, più antico  
+Del [[motifs/time|tempo]] contato da donne ansiose e preoccupate  
+Sveglie a letto, che calcolano il futuro,  
+Cercando di disfare, svolgere, districare  
+E ricomporre il passato e il futuro,  
+Tra la mezzanotte e l'[[motifs/dawn|alba]], quando il passato è tutto [[concepts/deception|inganno]],  
+Il futuro senza futuro, prima della guardia del mattino  
+Quando il [[motifs/time|tempo]] si ferma e il [[motifs/time|tempo]] non ha mai fine;  
+E l'onda lunga di fondo, che è ed era dal principio,  
+Fa risuonare  
+La campana.
 
 
 
@@ -402,6 +702,85 @@ To lay a course by: but in the sombre season
 Or the sudden fury, is what it always was.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II  
+    Dov'è la fine di tutto questo, il lamento senza suono,  
+Il silenzioso appassire degli [[motifs/autumn|autunnali]] [[motifs/flowers|fiori]]  
+Che lasciano cadere i petali e restano immobili;  
+Dov'è la fine dei relitti alla deriva,  
+La [[motifs/prayer|preghiera]] dell'osso sulla spiaggia, l'impregabile  
+[[motifs/prayer|Preghiera]] alla calamitosa annunciazione?  
+    Non c'è fine, ma addizione: lo strascico  
+Conseguente di altri giorni e altre ore,  
+Mentre l'emozione fa propri gli inemotivi  
+Anni di vita in mezzo ai rottami  
+Di ciò in cui si credeva come nel più affidabile —  
+E perciò il più adatto alla [[concepts/renunciation|rinuncia]].  
+    C'è l'addizione finale, il declinante  
+[[concepts/pride|Orgoglio]] o il rancore per le forze che declinano,  
+La devozione senza oggetto che potrebbe passare per assenza di devozione,  
+In una barca alla deriva con una lenta falla,  
+L'ascolto silenzioso dell'innegabile  
+Clamore della campana dell'ultima annunciazione.  
+    Dov'è la loro fine, i pescatori che navigano  
+Nella coda del [[motifs/wind|vento]], dove la nebbia si rannicchia?  
+Non possiamo pensare a un [[motifs/time|tempo]] senza oceano  
+O a un oceano non disseminato di rifiuti  
+O a un futuro che non sia esposto  
+Come il passato, a non avere destinazione.  
+    Dobbiamo pensarli mentre per sempre aggottano,  
+Calano e salpano le reti, mentre il Nord Est incombe  
+Su banchi bassi immutabili e senza erosione  
+O riscuotono il loro denaro, asciugando le vele all'ormeggio;  
+Non mentre compiono un viaggio che non sarà pagabile  
+Per una pesca che non reggerà all'esame.  
+    Non c'è fine, il lamento senza voce,  
+Non c'è fine all'appassire di [[motifs/flowers|fiori]] appassiti,  
+Al movimento del [[motifs/pain|dolore]] che è indolore e immobile,  
+Alla deriva del mare e ai relitti alla deriva,  
+La [[motifs/prayer|preghiera]] dell'osso alla [[motifs/death|Morte]] suo Dio. Solo la a stento, appena pregabile  
+[[motifs/prayer|Preghiera]] dell'unica Annunciazione.  
+    Sembra, col farsi più vecchi,  
+Che il passato abbia un altro schema, e cessi di essere una mera sequenza —  
+O anche uno sviluppo: quest'ultimo una fallacia parziale  
+Incoraggiata da nozioni superficiali di evoluzione,  
+Che diventa, nella mente popolare, un mezzo per rinnegare il passato.  
+I momenti di felicità — non il senso del [[motifs/well|benessere]],  
+Del godimento, dell'appagamento, della sicurezza o dell'affetto,  
+O anche di un'ottima cena, ma l'improvvisa illuminazione —  
+Avemmo l'esperienza ma perdemmo il significato,  
+E l'accostarsi al significato restituisce l'esperienza  
+In una forma diversa, al di là di ogni significato  
+Che possiamo assegnare alla felicità. Ho già detto  
+Che l'esperienza passata ravvivata nel significato  
+Non è l'esperienza di una vita soltanto  
+Ma di molte generazioni — senza dimenticare  
+Qualcosa che è probabilmente del tutto ineffabile:  
+Lo sguardo all'indietro oltre la sicurezza  
+Della [[concepts/history|storia]] registrata, il mezzo sguardo all'indietro  
+Da sopra la spalla, verso il terrore primitivo.  
+Ora, veniamo a scoprire che i momenti d'agonia  
+(Se siano o no dovuti a un fraintendimento,  
+All'aver sperato le cose sbagliate o temuto le cose sbagliate,  
+Non è la questione) sono ugualmente permanenti  
+Di quella permanenza che il [[motifs/time|tempo]] ha. Lo intendiamo meglio  
+Nell'agonia degli altri, quasi vissuta,  
+Che ci coinvolge, che nella nostra.  
+Ché il nostro passato è coperto dalle correnti dell'azione,  
+Ma il tormento degli altri resta un'esperienza  
+Senza attenuazioni, non logorata dal successivo attrito.  
+La gente cambia, e sorride: ma l'agonia permane.  
+Il [[motifs/time|tempo]] distruttore è il [[motifs/time|tempo]] che conserva,  
+Come il [[motifs/river|fiume]] col suo carico di negri morti, vacche e stie di polli,  
+La mela amara e il morso nella mela.  
+E la roccia frastagliata nelle acque inquiete,  
+Le onde la lavano, le nebbie la nascondono;  
+In un giorno alcionio è soltanto un monumento,  
+Col tempo navigabile è sempre un punto di riferimento  
+Su cui tracciare una rotta: ma nella stagione cupa  
+O nella furia improvvisa, è ciò che sempre è stato.
+
 
 
 <span class="atom-split" data-atom="section_03_part_iii" data-title="The Dry Salvages — III" data-chapter="part III" data-kind="section" data-tags="motif/death,motif/leaves,motif/rose,motif/time,motif/well,concept/wonder"></span>
@@ -457,6 +836,57 @@ On the field of battle.
 But fare forward, voyagers.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III  
+A volte mi [[concepts/wonder|domando]] se sia questo che Krishna intendeva —  
+Tra le altre cose — o un modo di dire la stessa cosa:  
+Che il futuro è una canzone sbiadita, una [[motifs/rose|Rosa]] Regale o un rametto di lavanda  
+Di malinconico rimpianto per quelli che non sono ancora qui a rimpiangere,  
+Pressato tra le gialle [[motifs/leaves|foglie]] di un libro che non è mai stato aperto.  
+E la via in su è la via in giù, la via avanti è la via indietro.  
+Non puoi guardarlo fisso, ma questo è certo,  
+Che il [[motifs/time|tempo]] non guarisce: il paziente non è più qui.  
+Quando il treno parte, e i passeggeri si sono sistemati  
+Con la frutta, i periodici e le lettere d'affari  
+(E quelli che li hanno accompagnati hanno lasciato il binario)  
+I loro volti si distendono dal dolore al sollievo,  
+Al ritmo sonnolento di cento ore.  
+Andate avanti, viaggiatori! non sfuggendo al passato  
+Verso vite diverse, o verso un qualsiasi futuro;  
+Non siete le stesse persone che lasciarono quella stazione  
+O che arriveranno a un qualsiasi capolinea,  
+Mentre le rotaie che si restringono scorrono a unirsi dietro di voi;  
+E sul ponte del transatlantico rombante  
+Guardando la scia che si allarga dietro di voi,  
+Non penserete 'il passato è finito'  
+O 'il futuro ci sta davanti'.  
+Al calar della notte, nel sartiame e nell'antenna,  
+C'è una voce che canta (ma non all'orecchio,  
+La conchiglia mormorante del [[motifs/time|tempo]], e in nessuna lingua)  
+'Andate avanti, voi che credete di viaggiare;  
+Non siete quelli che videro il porto  
+Allontanarsi, né quelli che sbarcheranno.  
+Qui fra la riva di qua e la riva di là  
+Mentre il [[motifs/time|tempo]] è ritirato, considerate il futuro  
+E il passato con animo uguale.  
+Nel momento che non è d'azione né d'inazione  
+Potete ricevere questo: “su qualunque sfera dell'essere  
+La mente di un uomo sia intenta  
+Al [[motifs/time|momento]] della [[motifs/death|morte]]” — quella è l'unica azione  
+(E il [[motifs/time|momento]] della [[motifs/death|morte]] è ogni istante)  
+Che fruttificherà nelle vite degli altri:  
+E non pensate al frutto dell'azione.  
+Andate avanti.  
+                        O viaggiatori, o marinai,  
+Voi che giungete in porto, e voi i cui corpi  
+Subiranno la prova e il giudizio del mare,  
+O qualunque evento, questa è la vostra vera destinazione.'  
+Così Krishna, come quando ammonì Arjuna  
+Sul campo di battaglia.  
+                                    Non un andar [[motifs/well|bene]],  
+Ma un andare avanti, viaggiatori.
+
 
 
 <span class="atom-split" data-atom="section_04_part_iv" data-title="The Dry Salvages — IV" data-chapter="part IV" data-kind="section" data-tags="motif/prayer,character/queen"></span>
@@ -479,6 +909,25 @@ Or in the dark throat which will not reject them
 Or wherever cannot reach them the sound of the sea bell’s  
 Perpetual angelus.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV  
+    Signora, il cui santuario sta sul promontorio,  
+Prega per tutti coloro che sono sulle navi, quelli  
+Il cui mestiere ha a che fare col pesce, e  
+Quelli che attendono a ogni lecito traffico  
+E quelli che li conducono.  
+    Ripeti una [[motifs/prayer|preghiera]] anche in favore  
+Delle donne che hanno visto i figli o i mariti  
+Partire, e non tornare:  
+Figlia del tuo figlio,  
+[[characters/queen|Regina]] del Cielo.  
+    Prega anche per quelli che erano sulle navi, e  
+Finirono il loro viaggio sulla sabbia, nelle labbra del mare  
+O nella gola oscura che non li respingerà  
+O dovunque non li possa raggiungere il suono del perpetuo angelus  
+Della campana del mare.
 
 
 
@@ -536,3 +985,58 @@ We, content at the last
 If our temporal reversion nourish  
 (Not too far from the yew-tree)  
 The life of significant soil.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+V  
+Comunicare con Marte, conversare con gli spiriti,  
+Riferire il comportamento del [[archetypes/monster|mostro]] marino,  
+Descrivere l'oroscopo, fare l'aruspice o scrutare nella sfera,  
+Osservare la malattia nelle segnature, evocare  
+La [[forms/biography|biografia]] dalle rughe del palmo  
+E la [[forms/tragedy|tragedia]] dalle dita; sciogliere presagi  
+Per sortilegio, o [[motifs/leaves|foglie]] di tè, [[forms/riddle|indovinare]] l'inevitabile  
+Con le carte da gioco, trastullarsi coi pentagrammi  
+O con gli acidi barbiturici, o sezionare  
+L'immagine ricorrente in terrori preconsci —  
+Esplorare il grembo, o la tomba, o i [[motifs/dreams|sogni]]; tutti questi sono soliti  
+Passatempi e droghe, e rubriche della stampa:  
+E sempre lo saranno, alcuni di essi specialmente  
+Quando c'è angoscia di nazioni e perplessità  
+Sia sulle coste dell'Asia, sia nella Edgware [[motifs/road|Road]].  
+La curiosità degli uomini fruga il passato e il futuro  
+E si aggrappa a quella dimensione. Ma cogliere  
+Il punto d'intersezione dell'atemporale  
+Col [[motifs/time|tempo]], è occupazione da santo —  
+E nemmeno un'occupazione, ma qualcosa di dato  
+E ricevuto, in una [[motifs/death|morte]] d'una vita intera nell'[[motifs/love|amore]],  
+Ardore e abnegazione e resa di [[concepts/self|sé]].  
+Per la maggior parte di noi, c'è solo il momento inatteso,  
+Il momento dentro e fuori dal [[motifs/time|tempo]],  
+L'accesso di distrazione, perso in un raggio di sole,  
+Il timo selvatico non visto, o il [[motifs/winter|invernale]] [[motifs/lightning|lampo]]  
+O la cascata, o la musica udita così profondamente  
+Che non è udita affatto, ma tu sei la musica  
+Finché la musica dura. Questi sono solo accenni e congetture,  
+Accenni seguiti da congetture; e il resto  
+È [[motifs/prayer|preghiera]], osservanza, disciplina, pensiero e azione.  
+L'accenno mezzo indovinato, il dono mezzo compreso, è l'Incarnazione.  
+Qui l'impossibile [[concepts/union|unione]]  
+Di sfere dell'esistenza è attuale,  
+Qui il passato e il futuro  
+Sono vinti, e riconciliati,  
+Dove l'azione sarebbe altrimenti movimento  
+Di ciò che è soltanto mosso  
+E non ha in sé sorgente di movimento —  
+Spinto da demoniache, ctonie  
+Potenze. E l'azione giusta è [[concepts/freedom|libertà]]  
+Dal passato e anche dal futuro.  
+Per la maggior parte di noi, questo è il fine  
+Mai qui da realizzare;  
+Noi che siamo invitti solamente  
+Perché abbiamo continuato a tentare;  
+Noi, alla fine paghi  
+Se il nostro ritorno temporale nutre  
+(Non troppo lontano dal tasso)  
+La vita del suolo significativo.

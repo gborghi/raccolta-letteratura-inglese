@@ -832,6 +832,261 @@ S’il n’est digne d’Atrée, est digne de Thyeste.
 They are to be found in Crébillon’s ‘Atrée.’”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuna conoscenza è più odiosa del suo stesso acume. — Seneca.
+
+A [[settings/paris|Parigi]], poco dopo il tramonto, in una serata ventosa dell’[[motifs/autumn|autunno]] del 18,, mi godevo il doppio lusso della meditazione e di un bicchiere di pipa di mare, in compagnia del mio amico [[characters/c.-auguste-dupin|C. Auguste Dupin]], nella sua piccola biblioteca, situata al terzo piano, numero 33 di rue Dunôt, nel Faubourg Saint-Germain. Per almeno un’ora mantenemmo un profondo [[motifs/silence|silenzio]]; e chiunque ci avesse osservati avrebbe potuto pensare che fossimo completamente assorti nei vortici di fumo che riempivano la stanza. In realtà, io stavo riflettendo su alcuni argomenti di cui avevamo parlato in precedenza quella sera: il caso della rue Morgue e il mistero legato all’omicidio di Marie Rogêt. Quindi, quando la porta del nostro appartamento si aprì improvvisamente e fece entrare il nostro vecchio conoscente, Monsieur G,, prefetto della polizia parigina, considerai tutto ciò una pura coincidenza.
+
+Lo accogliemmo con calore; in quell’uomo c’era quasi tanto di gradevole quanto di spregevole, e non lo vedevamo da diversi anni. Eravamo seduti al buio quando Dupin si alzò per accendere una lampada, ma poi si rimise a sedere senza farlo, dopo che G. gli aveva detto di essere venuto per consultarci, o meglio per chiedere l’opinione del mio amico su qualche questione ufficiale che aveva causato molti problemi.
+
+“Se si tratta di qualcosa che richiede riflessione”, osservò Dupin, rifiutandosi di accendere la candela, “lo esamineremo meglio al buio.”
+
+“È un'altra delle tue strane idee,” disse il Prefetto, che aveva l’abitudine di definire “strane” tutte le cose che andavano al di là della sua comprensione, e così viveva circondato da una vera legione di “stranezze”.
+
+“Assolutamente vero,” disse Dupin, offrendo al suo visitatore una pipa e spingendogli verso di lui una sedia comoda.
+
+“E qual è ora la difficoltà?” chiesi. “Niente di più legato all’assassinio, spero, ”
+
+“Oh no; nulla di quel genere. In realtà, l’affare è molto semplice, e non ho alcun dubbio che possiamo gestirlo abbastanza bene da soli; ma poi ho pensato che a Dupin potrebbe interessare conoscere i dettagli, perché la situazione è davvero straordinaria.”
+
+“Semplice e strano,” disse Dupin.
+
+“Sì, più o meno. In realtà siamo tutti piuttosto perplessi: la situazione è così semplice, eppure ci lascia completamente confusi.”
+
+“Forse è proprio la semplicità stessa della cosa a farti commettere un errore,” disse il mio amico.
+
+“Che sciocchezze stai dicendo!” rispose il Prefetto, ridendo di cuore.
+
+“Forse questo mistero è un po’ troppo ovvio,” disse Dupin.
+
+“Oh, mio Dio! Chi avrebbe mai pensato a una cosa del genere?”
+
+“Un po’ troppo evidente da solo.”
+
+“Ahahahahahahahahahahahahah! – Ahhh! Ahhh!” ruggì il nostro visitatore, divertito da morire. “Oh, Dupin, diventerai davvero la mia [[motifs/death|morte]]!”
+
+“E poi, in fondo, di cosa si tratta?” chiesi.
+
+“Perché, vi spiegherò,” rispose il Prefetto, dopo aver tirato una lunga, lenta e meditativa boccata di sigaro, poi si sistemò comodamente sulla sedia. “Vi dirò tutto in poche parole; ma prima di iniziare, lasciate che vi avverta: questa è un’affermazione che richiede la massima segretezza. E molto probabilmente perderei la posizione che occupo ora se qualcuno venisse a sapere che l’ho confidata a qualcun altro.”
+
+“Procedi,” dissi io.
+
+“O forse no,” disse Dupin.
+
+“Beh, allora. Ho ricevuto informazioni personali, provenienti da fonti molto autorevoli, secondo cui un documento di estrema importanza è stato rubato dagli appartamenti reali. La persona che lo ha rubato è nota; non c’è alcun [[concepts/doubt|dubbio]] al riguardo: è stato visto mentre lo prendeva. È anche certo che esso si trovi ancora in suo possesso.”
+
+“Come è possibile saperlo?” chiese Dupin.
+
+“Si può dedurre chiaramente,” rispose il Prefetto, “dalla [[concepts/nature|natura]] del documento stesso, e dal fatto che non si sono verificati alcuni risultati che sarebbero dovuti emergere immediatamente se il documento fosse uscito dalle mani del ladro; in altre parole, perché lui deve averlo utilizzato esattamente nel modo in cui probabilmente intende farlo in futuro.”
+
+“Sii un po’ più esplicito,” dissi.
+
+“Beh”, potrei osare dire che quel documento conferisce al suo possessore un certo potere in una determinata area, dove tale potere è estremamente prezioso. Il Prefetto amava molto i toni diplomatici.
+
+“Tuttavia non capisco ancora del tutto,” disse Dupin.
+
+“No? Beh, la divulgazione di questo documento a una terza persona, la cui identità dovrà rimanere sconosciuta, metterebbe in discussione l’onore di una figura di estrema importanza; e questo fatto conferisce al possessore del documento un vantaggio su quella illustre persona il cui onore e la cui pace sono così messi a rischio.”
+
+“Ma questa supremazia,” intervenni, “dipenderebbe dalla conoscenza che il ladro ha riguardo a ciò che la vittima sa sul ladro stesso. Chi oserebbe, ”
+
+“Il ladro,” disse G., “è il Ministro D——, che osa tutto: sia ciò che non è degno di un uomo, sia ciò che invece lo è. Il metodo utilizzato per commettere il furto fu altrettanto ingegnoso quanto audace. Il documento in questione – a dire il vero, una lettera – era stato ricevuto dalla persona derubata mentre si trovava da sola nel boudoir reale. Mentre la leggeva, fu improvvisamente interrotta dall’arrivo di un’altra alta autorità, proprio da quella a cui desiderava particolarmente nasconderla. Dopo aver tentato inutilmente di infilarla in un cassetto, fu costretta a lasciarla aperta su un tavolo. L’indirizzo, però, era visibile in superficie, quindi il contenuto della lettera passò inosservato. In quel momento entrò il Ministro D——; i suoi occhi acuti notarono immediatamente il foglio, riconobbero la calligrafia dell’indirizzo e compresero il suo segreto. Dopo aver sbrigato rapidamente alcune faccende, tirò fuori una lettera simile a quella in questione, la aprì, fece finta di leggerla e poi la posizionò accanto all’altra. Continuò quindi a conversare per circa quindici minuti su argomenti di pubblica attualità. Alla fine, prima di congedarsi, prese anche dalla tavola quella lettera a cui non aveva alcun diritto. La legittima proprietaria la vide, ma ovviamente non osò attirare l’attenzione su quel fatto, in presenza della terza persona che le stava accanto. Il ministro se ne andò, lasciando sulla tavola la propria lettera – del tutto insignificante.
+
+“Allora, ecco,” mi disse Dupin, “avete esattamente ciò che desiderate per rendere questa situazione definitiva: la conoscenza del ladro riguardo a quella della vittima, e di conseguenza anche riguardo al ladro stesso.”
+
+“Sì,” rispose il Prefetto; “e il potere così acquisito è stato, negli ultimi mesi, utilizzato a scopi politici in modo molto pericoloso. La persona derubata è sempre più convinta, giorno dopo giorno, della necessità di recuperare la sua lettera. Ma questo, ovviamente, non può essere fatto apertamente. Alla fine, spinta al [[concepts/despair|dispero]], mi ha affidato la questione.”
+
+“Di nessun altro,” disse Dupin, in mezzo a un vortice perfetto di fumo, “si potrebbe desiderare, o addirittura immaginare, un agente più saggio.”
+
+“Mi lusingate,” rispose il Prefetto; “ma è possibile che qualcuno abbia potuto nutrire un simile pensiero.”
+
+“È chiaro,” dissi, “come potete osservare, che la lettera è ancora in possesso del ministro; è proprio questa proprietà, e non alcun utilizzo della lettera stesso, a conferire quel potere. Quando la lettera viene utilizzata, quel potere scompare.”
+
+“Vero,” disse G.; “e su questa convinzione procedetti. La mia prima preoccupazione fu quella di perquisire a fondo l’hotel del ministro; e qui il mio principale problema consisteva nel dover effettuare la ricerca senza che lui se ne accorgesse. Soprattutto, ero stato avvertito del pericolo che deriverebbe dal far sì che sospettasse dei nostri piani.”
+
+“Ma,” dissi, “voi siete davvero molto esperto in queste indagini. La polizia parigina ha già fatto cose del genere molte volte in passato.”
+
+“Oh, sì; ed è proprio per questo motivo che non ho perso la speranza. Anche le abitudini del ministro mi hanno fornito un grande vantaggio: lui spesso è assente da casa tutta la notte, i suoi servitori non sono numerosi e dormono lontano dall’appartamento del padrone; inoltre, essendo per lo più napoletani, si ubriacano facilmente. Come sai, ho le chiavi necessarie per aprire qualsiasi stanza o armadio a Parigi. Per tre mesi consecutive, quasi ogni notte, mi sono dedicato personalmente alla ricerca. La mia reputazione è in gioco, e, per rivelare un grande segreto, la ricompensa è enorme. Quindi non ho smesso le ricerche finché non sono stato assolutamente certo che il ladro fosse una persona più astuta di me. Credo di aver esaminato ogni angolo di quegli edifici in cui quel documento potesse essere nascosto.”
+
+“Ma non è possibile,” suggerii, “che, anche se la lettera sia effettivamente in possesso del ministro, come senza dubbio è, egli l’abbia nascosta altrove, e non nelle sue proprietà personali?”
+
+“È quasi impossibile,” disse Dupin. “La particolare situazione attuale alla [[settings/court|corte]], soprattutto le intrighi in cui è coinvolto D——, rendono la disponibilità immediata del documento – ovvero la possibilità di ottenerlo in qualsiasi momento – quasi altrettanto importante della sua effettiva possessione.”
+
+“La sua suscettibilità a essere prodotta?”, dissi io.
+
+“In altre parole, essere distrutto,” disse Dupin.
+
+“Vero,” osservai; “quindi il documento si trova sicuramente nelle stanze in questione. Per quanto riguarda il fatto che possa essere con il ministro, possiamo ritenere che questa ipotesi sia fuori discussione.”
+
+“Del tutto,” disse il Prefetto. “È stato assalito due volte, come se fosse stato attaccato da banditi a piedi, e la sua persona è stata attentamente perquisita sotto la mia stessa supervisione.”
+
+“Avresti potuto risparmiarti questa seccatura,” disse Dupin. “D—,
+presumo, non sia del tutto uno [[archetypes/fool|idiota]], e, in caso contrario, avrebbe sicuramente previsto queste imboscate, come cosa del tutto normale.”
+
+“Non del tutto un [[archetypes/fool|idiota]]”, disse G., “ma dopotutto è un poeta, il che, a mio parere, lo avvicina molto a un [[archetypes/fool|idiota]].”
+
+“Vero,” disse Dupin, dopo aver aspirato a lungo e pensierosamente dalla sua pipa di merica, “anche se anch’io ho commesso alcune piccole sciocchezze.”
+
+“Supponiamo che tu descriva nei dettagli le fasi della tua ricerca”, dissi.
+
+“La verità è che abbiamo impiegato il nostro [[motifs/time|tempo]] e abbiamo cercato _dappertutto_. Ho molta esperienza in queste faccende: ho ispezionato l’intero edificio, stanza per stanza, dedicando intere notti a ciascuna. Prima di tutto abbiamo esaminato i mobili di ogni appartamento; abbiamo aperto ogni cassetto possibile. E immagino che sappiate che, per un agente di polizia ben addestrato, l’esistenza di un cassetto “segreto” è impossibile da scoprire. Chi permette che un simile cassetto gli sfugga durante una ricerca del genere è davvero uno sciocco. La cosa è troppo evidente: in ogni armadio c’è una certa quantità di spazio che deve essere tenuta conto; inoltre disponiamo di regole precise. Nemmeno un cinquantesimo di linea potrebbe sfuggirci. Dopo gli armadi abbiamo esaminato le sedie; i cuscini li abbiamo ispezionati utilizzando quelle lunghe e sottili aghi che avete visto usare. Dai tavoli abbiamo rimosso i piani superiori.”
+
+“Perché proprio così?”
+
+“A volte la parte superiore di un tavolo, o di altri mobili disposti allo stesso modo, viene rimossa da chi desidera nascondere un oggetto; successivamente si scava nella gamba del mobile, si deposita l’oggetto all’interno della cavità creata e si riposiziona la parte superiore. Anche i piedi e le testate dei letti vengono utilizzati nello stesso modo.”
+
+“Ma non si potrebbe individuare la cavità facendo un’indagine acustica?”, chiesi.
+
+“Assolutamente no; quando l’articolo viene depositato, è necessario inserire attorno ad esso un sufficiente strato di ovatta di cotone. Inoltre, nel nostro caso, eravamo costretti a procedere senza fare rumore.”
+
+“Ma non avreste potuto smontare – non avreste potuto distruggere tutti quegli oggetti di arredamento nei quali fosse stato possibile effettuare un deposito nel modo che avete descritto. Una lettera, ad esempio, può essere compressa in un sottile rotolo a spirale, il cui aspetto e le dimensioni non differiscono molto da quelli di un grosso ferro da maglia; in questa forma potrebbe essere inserita, per esempio, tra i gradini di una sedia. Non avete smontato tutte le sedie, vero?”
+
+“Certamente no; ma abbiamo fatto di più: abbiamo esaminato ogni gradino di ogni sedia dell’hotel, nonché le giunzioni di ogni tipo di mobili, utilizzando un microscopio estremamente potente. Se ci fossero stati segni di recenti manomissioni, li avremmo sicuramente individuati all’istante. Ad esempio, anche un singolo granello di polvere sarebbe stato visibile tanto chiaramente quanto una mela; qualsiasi anomalia nella colla utilizzata, qualsiasi imperfezione nelle giunzioni, sarebbe stata sufficiente per farci scoprire qualcosa.”
+
+“Presumo che abbiate controllato gli specchi, nascosti tra le assi e le piastre, e che abbiate esaminato i letti e la biancheria da letto, così come le tende e i tappeti.”
+
+“Certo; e quando avevamo completato in questo modo ogni singola parte del mobilio, allora esaminammo la casa stessa. Dividemmo tutta la sua superficie in compartimenti, che numerammo affinché nessuno venisse trascurato; poi analizzammo con il microscopio ogni singolo centimetro quadrato dell’intero edificio, comprese le due case adiacenti.”
+
+“Le due case adiacenti!” esclamai; “devete aver avuto molti problemi.”
+
+Abbiamo avuto; ma la ricompensa offerta è immensa!
+
+"#I includo anche le informazioni riguardanti le case?"
+
+“Tutti i terreni sono lastricati con mattoni. Ci hanno causato relativamente pochi problemi. Abbiamo esaminato l’erba tra i mattoni e abbiamo trovato che era intatta.”
+
+“Avete sicuramente esaminato i documenti di D— e anche i libri della biblioteca, vero?”
+
+“Certamente; abbiamo aperto ogni pacco e pacchetto; non ci siamo limitati ad aprire ogni libro, ma abbiamo esaminato attentamente ogni pagina di ciascun volume, senza accontentarci di una semplice ispezione superficiale, come fanno alcuni dei nostri agenti di polizia. Abbiamo anche misurato con la massima precisione lo spessore di ogni copertina e abbiamo analizzato ogni libro al microscopio con estrema attenzione. Se qualcuna delle rilegature fosse stata recentemente alterata, sarebbe stato assolutamente impossibile che questo fatto sfuggisse alla nostra osservazione. Cinque o sei volumi, appena usciti dalle mani del rilegatore, li abbiamo esaminati con cura, analizzandoli anche nella loro parte longitudinale utilizzando aghi.”
+
+Hai esplorato i pavimenti sotto i tappeti?
+
+“Senza alcun [[concepts/doubt|dubbio]]. Abbiamo rimosso tutti i tappeti e esaminato le assi al microscopio.”
+
+“E i fogli di carta appesi ai muri?”
+
+“Sì, davvero.”
+
+Hai controllato le cantine?
+
+“Lo abbiamo fatto.”
+
+“Allora,” dissi, “avete commesso un errore di calcolo: la lettera non si trova nel luogo che pensate.”
+
+“Temo che tu abbia ragione,” disse il Prefetto. “E ora, Dupin, cosa mi consiglieresti di fare?”
+
+“Condurre un’indagine approfondita sulle strutture presenti.”
+
+“È assolutamente inutile,” rispose G—. “Non sono più sicuro di respirare di quanto sia certo che quella lettera non si trovi nell’hotel.”
+
+“Non ho nessun altro consiglio da darvi”, disse Dupin. “Avete sicuramente una descrizione accurata della lettera, vero?”
+
+“Ah sì!” — E qui il Prefetto, estraendo un taccuino, iniziò a leggere ad alta voce una dettagliata descrizione dell’aspetto interno e, soprattutto, esterno del documento scomparso. Poco dopo aver terminato la lettura di questa descrizione, se ne andò, ancora più depresso di quanto avessi mai visto quel gentiluomo prima d’allora.
+
+Circa un mese dopo, ci fece nuovamente visita e ci trovò quasi come prima: prese una pipa e una sedia e iniziò a chiacchierare del più e del meno. Alla fine dissi.
+
+“Beh, ma G—, e quella lettera rubata? Immagino che finalmente tu abbia deciso che non esiste nulla di così grave da poter offendere il Ministro, ”
+
+“Maledetto lui. Sì, ho effettuato nuovamente l’esame, come suggerito da Dupin, ma è stato tutto inutile: lo sapevo già che sarebbe andato a vuoto.”
+
+“Quanto era la ricompensa offerta, hai detto?” chiese Dupin.
+
+“Beh, una ricompensa molto generosa. Non mi piace dire esattamente quanto, ma una cosa la posso dire con certezza: non mi dispiacerebbe affatto dare cinquanta mila franchi a chiunque riuscisse a procurarmi quella lettera. Il fatto è che questa lettera sta diventando sempre più importante ogni giorno; inoltre, la ricompensa è stata recentemente raddoppiata. Tuttavia, anche se fosse triplicata, non farei di più di quanto abbia già fatto.”
+
+“Beh, sì,” disse Dupin, con tono lento e prolisso, tra una boccata di tabacco da pipa, “credo davvero che tu non abbia fatto del tuo meglio in questa faccenda. Potresti, fare ancora di più, non credi?”
+
+“Come?—in che modo?”
+
+“Perché, forse dovresti consultare un avvocato in questa faccenda, eh? Ricordi quella storia di Abernethy che si racconta?”
+
+“No; impiccate Abernethy!”
+
+“Certo! Impiccatelo pure, senza esitazioni. Ma, una volta, un certo ricco avaro decise di approfittare dell’opinione medica di Abernethy. Per questo scopo, iniziò una conversazione apparentemente casuale in privato e descrisse la sua situazione come quella di una persona immaginaria.”
+
+“‘Supponiamo,’ disse il avaro, ‘che i suoi sintomi siano questi e quelli; ora, dottore, cosa gli avreste consigliato di prendere?’”
+
+“Prendilo!” disse Abernethy, “dai retta, per favore.”
+
+“Ma,” disse il Prefetto, un po’ sconvolto, “sono assolutamente disposto ad ascoltare i consigli altrui e a pagarli. Darei davvero cinquantamila franchi a chiunque fosse disposto ad aiutarmi in questa faccenda.”
+
+“In quel caso,” rispose Dupin, aprendo un cassetto e tirando fuori un libretto degli assegni, “potete tranquillamente compilare un assegno per l’importo menzionato. Una volta firmato, vi consegnerò la lettera.”
+
+Ero sbalordito. Il Prefetto sembrava completamente sconvolto; per alcuni minuti rimase senza parole e immobile, fissando incredibilmente il mio amico con la bocca aperta e gli occhi che sembravano uscire dalle orbite; poi, apparentemente ripresosi in parte, prese una penna, e dopo diverse pause e sguardi vuoti, finalmente compilò e firmò un assegno da cinquantamila franchi, porgendolo a Dupin. Quest’ultimo lo esaminò attentamente e lo mise nel proprio portafoglio; quindi, aprendo uno scrittoio, ne tirò fuori una lettera e la diede al Prefetto. Quest’ultimo la afferrò con estrema gioia, l’aprì con mano tremante, diede un’occhiata rapida al suo contenuto, e poi, barcollando verso la porta, fuggì precipitosamente dalla stanza e dall’casa, senza pronunciare una parola da quando Dupin gli aveva chiesto di compilare l’assegno.
+
+Dopo che se n'è andato, il mio amico ha iniziato a dare alcune spiegazioni.
+
+“La polizia parigina,” disse, “è estremamente competente nel suo campo. È perseverante, ingegnosa, astuta e completamente versata nelle conoscenze che sembrano essere le più necessarie per svolgere i propri compiti. Pertanto, quando G—— ci ha descritto il metodo con cui aveva ispezionato gli ambienti dell’Hotel D——, ho avuto piena fiducia nel fatto che avesse condotto un’indagine soddisfacente, almeno per quanto riguardava i limiti del suo incarico.”
+
+“Fino a dove si estendevano i suoi sforzi?”, chiesi io.
+
+“Sì,” disse Dupin. “Le misure adottate non erano solo le migliori del loro genere, ma furono anche attuate con assoluta perfezione. Se la lettera fosse stata depositata all’interno dell’ambito delle loro ricerche, questi individui l’avrebbero sicuramente trovata.”
+
+Ho semplicemente riso, ma sembrava davvero serio in tutto ciò che diceva.
+
+“Quindi,” continuò, “quelle misure erano valide nel loro genere e furono eseguite [[motifs/well|bene]]; il loro difetto stava nel fatto che non erano adatte al caso specifico né all’uomo in questione. Un certo insieme di risorse estremamente ingegnose, per il Prefetto, rappresenta una sorta di ‘letto di Procrusto’, al quale forzatamente adatta i propri piani. Ma egli commette costantemente errori, perché quelle risorse sono troppo profonde o troppo superficiali rispetto alla situazione concreta; e molti studenti delle scuole elementari sono più capaci di ragionare di lui. Conoscevo un bambino di circa otto anni il cui successo nel gioco del ‘pari o dispari’ attirava l’ammirazione di tutti. Questo gioco è semplice: si utilizzano delle biglie; uno dei giocatori ne tiene alcune in mano e chiede all’altro se il numero sia pari o dispari. Se la risposta è corretta, vince una biglia; altrimenti, ne perde una. Il bambino di cui parlo vinse tutte le biglie della scuola. Ovviamente aveva un metodo per indovinare; esso consisteva semplicemente nell’osservare e valutare l’intelligenza dei suoi avversari. Ad esempio, se l’avversario era uno sciocco, lui gli chiedeva ‘sono pari o dispari?’ e, se rispondeva ‘dispari’, il bambino perdeva; ma al secondo tentativo vinceva, perché si rendeva conto che lo sciocco aveva scelto ‘pari’ la prima volta, quindi avrebbe probabilmente scelto ‘dispari’ anche questa volta, e così indovinava correttamente. Con un avversario un po’ più astuto, invece, ragionava in questo modo: ‘Questo tipo si renderà conto che la prima volta ho indovinato “dispari”; quindi, la seconda volta, penserà subito a una variazione semplice, come ha fatto lo sciocco. Ma poi rifletterà che questa variazione è troppo banale, e alla fine sceglierà di nuovo “pari”. Quindi indovinerò “pari”, ’ E vinceva. Ora, questo modo di ragionare, beh, in fondo, cos’è?”
+
+“È semplicemente,” dissi, “un’identificazione dell’intelligenza del ragionatore con quella del suo avversario.”
+
+“È così,” disse Dupin; “e quando chiesi al ragazzo con quale mezzo fosse riuscito a effettuare quell’identificazione così precisa che aveva portato al suo successo, ricevetti la seguente risposta: ‘Quando voglio scoprire quanto qualcuno sia saggio, stupido, buono o cattivo, o quali pensieri abbia in quel momento, imito il più fedelmente possibile l’espressione del suo volto, e poi aspetto di vedere quali pensieri o sentimenti emergano nella mia mente o nel mio cuore, come se essi dovessero corrispondere all’espressione che ho assunto.’ Questa risposta dello scolaro costituisce la vera base di tutta quella presunta profondità attribuita a Rochefoucault, La Bougive, Machiavelli e Campanella.”
+
+“E l’identificazione,” dissi, “dell’intelletto del ragionatore con quello del suo avversario dipende, se ho capito bene, dall’accuratezza con cui viene misurato l’intelletto dell’avversario stesso.”
+
+“Per quanto riguarda il suo valore pratico, tutto dipende da questo,” rispose Dupin; “e il Prefetto e la sua squadra falliscono così spesso: innanzitutto a causa della mancanza di questa identificazione, e in secondo luogo a causa di una valutazione errata – o meglio, dell’assenza di qualsiasi valutazione – dell’intelligenza di coloro con cui si occupano. Considerano soltanto le proprie idee riguardo all’ingegnosità umana; e quando cercano qualcosa di nascosto, pensano solo ai modi in cui loro stessi lo nasconderebbero. Hanno ragione su questo punto: la loro ingegnosità rappresenta infatti fedelmente quella della massa; ma quando l’astuzia di un criminale è diversa da quella che loro conoscono, naturalmente il criminale li batte. Ciò accade sempre quando tale astuzia è superiore alla loro, e molto spesso anche quando è inferiore. Nelle loro indagini non esiste alcuna variazione nei principi adottati; al massimo, in caso di emergenze insolite o di ricompense particolarmente alte, estendono o esagerano i propri metodi abituali, senza mai modificare i principi fondamentali su cui si basano. Per esempio, in questo caso del documento rubato da D, cosa è stato fatto per variare i principi utilizzati nella ricerca? Tutte queste indagini minuziose, questi esami approfonditi, l’uso del microscopio e la suddivisione della superficie dell’edificio in unità di misura precise, non sono forse soltanto un’esagerazione nell’applicazione di quei pochi principi di ricerca basati sulle stesse idee riguardo all’ingegnosità umana, alle quali il Prefetto è abituato nel corso delle sue routine quotidiane? Non vedete che egli dà per scontato che tutti gli uomini nascondano una lettera, non esattamente in un foro praticato nella gamba di una sedia, ma almeno in qualche angolo nascosto suggerito dallo stesso tipo di pensiero che spingerebbe qualcuno a farlo? E non vedete anche che tali metodi di nascondimento sono adatti soltanto alle situazioni ordinarie e vengono utilizzati soltanto da persone con un’intelligenza media? In tutti i casi, infatti, il modo in cui viene nascosto l’oggetto in questione è, fin dall’inizio, qualcosa che si può presumere, e quindi la sua scoperta dipende non dall’acume degli investigatori, ma soltanto dalla loro attenzione, pazienza e determinazione. E quando il caso ha importanza, o, per usare un termine politico, quando la ricompensa è sostanziosa, queste qualità non hanno mai fallito. Ora capite ciò che intendevo dicendo che, se la lettera rubata fosse stata nascosta entro i limiti delle indagini del Prefetto, in altre parole, se il principio della sua nascondita rientrasse nei principi generalmente adottati dal Prefetto, la sua scoperta sarebbe stata molto più facile.”
+La scoperta sarebbe stata senza dubbio una certezza assoluta. Tuttavia, questo funzionario è rimasto completamente perplesso; la causa della sua sconfitta risiede nell’ipotesi che il Ministro sia un [[archetypes/fool|idiota]], solo perché ha acquisito fama come poeta. Secondo il Prefetto, tutti gli idioti sono poeti; e lui si è semplicemente sbagliato nel non considerare le differenze tra questi due concetti, inferendo quindi che tutti i poeti siano idioti.
+
+“Ma è davvero questo il poeta?”, chiesi. “So che ci sono due fratelli; entrambi hanno ottenuto fama nel campo letterario. Credo che il Ministro abbia scritto opere erudite sul Calcolo Differenziale. È un matematico, non un poeta.”
+
+“Ti sbagli; lo conosco molto bene. È sia poeta che matematico: come poeta, ragionerebbe in modo logico; ma se fosse solo un matematico, non sarebbe stato in grado di ragionare affatto, e quindi sarebbe stato alla [[concepts/mercy|margine]] del Prefetto.”
+
+“Mi sorprendi,” dissi, “con queste opinioni che sono state contraddette dalla voce del mondo. Non vuoi certo mettere in discussione l’idea, ormai ben consolidata nel corso dei secoli. Il ragionamento matematico è da tempo considerato il ragionamento per eccellenza.”
+
+“‘Il y a à parièr’,” rispose Dupin, citando Chamfort, “‘che ogni idea pubblica, ogni convenzione accettata è una sciocchezza, poiché è stata concordata dal maggior numero.’ I matematici, lo ammetto, hanno fatto del loro meglio per diffondere questo errore popolare di cui parlate, e che tuttavia rimane un errore anche quando viene diffuso come ‘verità’. Con un’arte degna di una causa migliore, hanno ad esempio insinuato l’uso del termine ‘analisi’ in riferimento all’algebra. I francesi sono gli autori di questa particolare ‘inganno’; ma se un termine ha qualche importanza – se le parole acquistano valore dalla loro applicabilità – allora ‘analisi’ indica ‘algebra’ esattamente come, in latino, ‘ambitus’ significa ‘ambizione’, ‘religio’ significa ‘religione’, o ‘homines honesti’ indica un insieme di persone ‘oneste’.”
+
+“Vedo che avete un disaccordo in corso con alcuni degli algebristi di [[settings/paris|Parigi]]; ma continuate pure.”
+
+“Discuto l’effettiva disponibilità, e quindi il valore, di quella ragione che viene coltivata in forme particolari, diverse da quelle della logica astratta. In particolare, metto in discussione la ragione formatasi attraverso lo studio matematico. La matematica è la scienza della forma e della quantità; il ragionamento matematico non è altro che logica applicata all’osservazione di tali concetti. Il grande errore consiste nel ritenere che anche le verità della cosiddetta algebra pura siano verità astratte o generali. Questo errore è così evidente che mi lascia perplesso riguardo alla sua diffusione universale. Gli assiomi matematici non sono assiomi di verità generale; ciò che è vero in relazione alla forma e alla quantità spesso è completamente falso quando si tratta di questioni morali, ad esempio. In questa ultima disciplina è molto frequente che la somma delle parti non sia uguale al tutto. Anche in chimica tale assioma fallisce; nel considerare i motivi che guidano le azioni umane, infatti, due motivi di valore pari non necessariamente producono, uniti, un risultato uguale alla somma dei loro valori singoli. Esistono molte altre verità matematiche che sono valide soltanto all’interno dei limiti delle relazioni considerate. Tuttavia il matematico, abituato a utilizzare queste verità finite, le considera di applicabilità assolutamente generale, proprio come il mondo tende a credere. Bryant, nel suo molto erudito ‘Mitologia’, menziona una fonte analoga di errore quando afferma che ‘sebbene le favole pagane non siano credute, noi continuiamo comunque a trarne conclusioni, come se fossero realtà esistenti’. Per quanto riguarda gli algebristi, invece, queste ‘favole pagane’ vengono effettivamente ritenute vere, e le conclusioni tratte da esse non derivano tanto da una perdita di memoria, quanto da un errore mentale inspiegabile. In breve, non ho mai incontrato un matematico su cui si potesse fare affidamento riguardo alle proprietà delle radici quadrate; tutti considerano, in modo assoluto e incondizionato, che x²+px sia uguale a q. Provate, per esempio, a dire a uno di questi signori che ritenete possano esistere casi in cui x²+px non sia uguale a q; una volta che avrà capito cosa intendete, allontanatevi da lui il più rapidamente possibile, perché, senza dubbio, cercherà di farvi del male.”
+
+“Voglio dire,” continuò Dupin, mentre io ridevo semplicemente delle sue ultime osservazioni, “che se il Ministro fosse stato soltanto un matematico, il Prefetto non avrebbe avuto alcun bisogno di darmi quel assegno. Tuttavia, lo conoscevo sia come matematico che come poeta, e le mie strategie erano adattate alle sue capacità, tenendo conto delle circostanze in cui si trovava. Lo conoscevo anche come cortigiano e come audace intrighista. Un uomo del genere, pensavo, non poteva certo ignorare i metodi abituali dell’azione poliziesca. Doveva essersi aspettato – e gli eventi hanno dimostrato che effettivamente se l’aspettava – le imboscate a cui era soggetto. Doveva aver previsto, riflettevo, le indagini segrete condotte nelle sue residenze. Le sue frequenti assenze di notte da casa, che il Prefetto considerava un aiuto sicuro per il suo “successo”, io le ritenevo soltanto trucchi per fornire alla polizia l’opportunità di effettuare una perquisizione approfondita. E così, più rapidamente, convincerli della conclusione a cui G—— aveva infine raggiunto: che la lettera non si trovava nelle sue residenze. Inoltre, ero convinto che l’intero filo di pensieri che vi ho appena descritto con tanto dettaglio – riguardante i principi fondamentali dell’azione poliziesca nella ricerca di oggetti nascosti – dovesse necessariamente passare per la mente del Ministro. Lo avrebbe inevitabilmente portato a disprezzare tutti i metodi tradizionali di nascondimento. Non poteva essere così ingenuo da non rendersi conto che anche il recesso più intricato e remoto della sua residenza sarebbe stato, agli occhi della polizia, altrettanto accessibile delle sue stanze più comuni. In breve, ritenevo che fosse inevitabile che optasse per metodi semplici. Anzi, forse lo avrebbero persino spinto a farlo deliberatamente. Forse ricorderete come il Prefetto abbia riso disperatamente quando, durante il nostro primo incontro, ho suggerito che quella misteriosa scomparsa potesse essere dovuta proprio al fatto che tutto era così, “ovvio” da non richiedere alcun nascondimento.”
+
+“Sì,” dissi, “mi ricordo molto bene della sua allegria. Pensavo davvero che potesse avere delle convulsioni.”
+
+“Il mondo materiale,” continuò Dupin, “è pieno di analogie molto precise con il mondo immateriale; ed è per questo che al dogma retorico secondo cui la metafora o il simile possono rafforzare un argomento e abbellire una descrizione è stato dato un certo fondamento di [[concepts/truth|_verità]]. Ad esempio, il principio della ‘vis inertiæ’ sembra essere identico sia nella fisica che nella metafisica. Non è meno vero nella prima che un corpo di grandi dimensioni richieda uno sforzo maggiore per mettersi in movimento rispetto a uno più piccolo, e che l’impulso risultante sia proporzionale a tale sforzo; lo stesso vale nella seconda: intelligenze di maggior capacità, sebbene più potenti, costanti e efficaci nei loro processi mentali rispetto a quelle di livello inferiore, sono però meno pronte ad agire e incontrano maggiori difficoltà e esitazioni nei primi passi del loro sviluppo. Inoltre: avete mai notato quali dei cartelli stradali, sopra le vetrine dei negozi, attirino di più l’attenzione?”
+
+“Non ho mai pensato a questa questione,” dissi.
+
+“Esiste un gioco di enigmi,” proseguì, “che si svolge su una mappa. Una delle parti in gioco chiede all’altra di trovare una determinata parola: il nome di una città, di un [[motifs/river|fiume]], di uno stato o di un impero, insomma, qualsiasi parola che si trovi su quella superficie complessa e confusa della mappa. Un principiante nel gioco cerca solitamente di mettere in imbarazzo gli avversari fornendo loro nomi scritti con caratteri estremamente piccoli; mentre un esperto sceglie parole che, stampate in caratteri grandi, si estendono da un’estremità all’altra della mappa. Queste parole, proprio come i cartelli stradali dai caratteri eccessivamente grandi, passano inosservate perché troppo evidenti. E qui, l’inattenzione fisica è esattamente paragonabile alla mancanza di comprensione morale che fa sì che l’intelligenza ignori quelle considerazioni che sono troppo ovvie e troppo chiaramente evidenti. Ma a quanto pare, questo argomento va al di là della comprensione del Prefetto. Lui non ha mai pensato nemmeno per un momento che fosse possibile che il Ministro avesse nascosto quella lettera proprio sotto il naso di tutto il mondo, proprio per impedire a chiunque di scorgerla.”
+
+“Ma più riflettevo sull’ingegnosità audace, spettacolare e meticolosa di D,; sul fatto che quel documento dovesse necessariamente essere a portata di mano, se lui intendeva utilizzarlo a fini positivi,; e sulla prova decisiva ottenuta dal Prefetto, secondo cui il documento non era nascosto all’interno dei luoghi solitamente ispezionati da quel funzionario,, più ero convinto che, per nascondere quella lettera, il Ministro avesse adottato l’espediente comprensivo e sagace di non tentare nemmeno di nasconderla.”
+
+“Con queste idee in mente, mi preparai con un paio di occhiali verdi e, una bella mattina, per puro caso, bussai all’hotel ministeriale. Trovai D—— a [[motifs/home|casa]], che sbadigliava, si stiracchiava e indugiava, come al solito, fingendo di essere estremamente annoiato. Forse è l’uomo più energico che esista oggi, ma solo quando nessuno lo vede.”
+
+“Per pareggiare i conti con lui, mi lamentai dei miei occhi deboli e della necessità di portare gli occhiali; sotto il pretesto di usarli, esaminai attentamente e minuziosamente l’intera stanza, mentre in realtà ero completamente concentrata sulla conversazione del mio ospite.”
+
+“Ho prestato particolare attenzione a un grande scrittoio vicino al quale sedeva; su di esso erano disposti in modo disordinato alcune lettere e altri documenti, insieme a uno o due strumenti musicali e alcuni libri. Tuttavia, dopo un'attenta ispezione, non ho trovato nulla che potesse suscitare sospetti particolari.”
+
+“Finalmente, mentre guardavo intorno nella stanza, i miei occhi si posarono su un ridicolo portacarte di cartone, appeso a una lurida corda blu, fissato a un piccolo pomello di bronzo situato poco sotto la metà del camino. In quel portacarte, che conteneva tre o quattro scompartimenti, c’erano cinque o sei biglietti da visita e una singola lettera. Quest’ultima era molto sporca e accartocciata; era stata strappata quasi a metà, come se in un primo momento si fosse voluto gettarla via considerandola inutile, per poi cambiare idea. Portava un grande sigillo nero con la lettera ‘D’ ben visibile, e l’indirizzo era scritto, con una calligrafia minuscola e femminile, proprio a ‘D’, il ministro stesso. Era stata infilata in modo negligente, anzi, sembrava addirittura con disprezzo, in uno degli scompartimenti più in alto del portacarte.”
+
+Non appena ebbi dato un’occhiata a questa lettera, conclusi che fosse proprio quella che stavo cercando. Certo, a prima vista, era radicalmente diversa da quella di cui il Prefetto ci aveva fornito una descrizione così dettagliata: qui il sigillo era grande e nero, con la cifra “D”; là era piccolo e rosso, con gli stemmi ducali della famiglia “S”. Qui l’indirizzo, rivolto al Ministro, era scritto in forma diminutiva e femminile; là la destinataria, una certa persona reale, aveva un nome scritto in modo particolarmente evidente e deciso. Solo le dimensioni della lettera presentavano alcune somiglianze. Tuttavia, l’eccessiva radicalità di queste differenze, la sporcizia e lo stato logoro del foglio di carta – aspetti che non corrispondevano affatto alle abitudini meticolose di D——, e soprattutto il fatto che la lettera fosse così visibile a chiunque entrasse, confermavano tutte le mie precedenti congetture. Questi elementi, insieme al modo in cui era stata posizionata, contribuivano notevolmente ad alimentare i sospetti di chi, come me, aveva già intenzione di dubitare della sua autenticità.
+
+“Rallentai il più possibile la mia visita e, mentre intrattenevo una discussione molto animata con il Ministro su un argomento che sapevo avesse sempre suscitato in lui grande interesse ed entusiasmo, tenni davvero l’attenzione concentrata sulla lettera. Durante questa analisi, memorizzai la sua forma esterna e la disposizione delle pagine; alla fine feci una scoperta che dissipò ogni piccola [[concepts/doubt|dubbio]] che potessi avere. Esaminando i bordi della carta, notai che erano più consumati del dovuto: presentavano quel segno di usura tipico quando un foglio rigido, dopo essere stato piegato e pressato, viene ripiegato nella direzione opposta, seguendo le stesse pieghe originali. Questa scoperta fu sufficiente per capire che la lettera era stata girata al contrario, ricondotta nella sua forma originale e sigillata di nuovo. Salutai il Ministro con un buongiorno e me ne andai immediatamente, lasciando sul tavolo una scatola da tabacco d’oro.”
+
+“La mattina seguente chiamai il mio snuff-box; riprendemmo quindi, con notevole entusiasmo, la conversazione del giorno precedente. Mentre eravamo impegnati in questo, si udì improvvisamente un forte rumore, simile a quello prodotto da una [[characters/pistol|pistola]], proprio sotto le finestre dell’hotel; subito dopo seguirono grida spaventose e il clamore di una folla terrorizzata. D—— corse verso una finestra, la aprì e guardò fuori. Nel frattempo, io presi la lettera dal supporto dove era appoggiata, la misi in tasca e ne sostituii il contenuto con una copia identica, preparata con cura nelle mie stanze; questa copia imitava perfettamente lo stile di scrittura di D——, grazie a un sigillo realizzato con del pane.”
+
+“Il trambusto in strada era stato causato dal comportamento folle di un uomo armato di moschetto; aveva sparato tra una folla di donne e bambini. Tuttavia, si scoprì che non c’erano proiettili nel fucile, e quell’uomo fu lasciato andare via, considerato pazzo o ubriaco. Dopo che se ne fu andato, D— uscì dalla [[motifs/window|finestra]], dove lo avevo seguito non appena avevo individuato l’oggetto della mia attenzione. Poco dopo gli dissi addio. Quel presunto pazzo era in realtà un uomo pagato da me.”
+
+“Ma qual era lo scopo,” chiesi, “di sostituire la lettera con una sua copia? Non sarebbe stato meglio, alla prima visita, prenderla apertamente e andarsene?”
+
+“D—,” rispose Dupin, “è un uomo disperato e coraggioso. Anche il suo hotel non è privo di persone devote ai suoi interessi. Se avessi tentato quell’impresa folle che tu suggerisci, forse non sarei mai uscito vivo dall’ambiente ministeriale. Gli abitanti di [[settings/paris|Parigi]] probabilmente non avrebbero più sentito parlare di me. Ma avevo altri motivi, oltre a questi considerazioni. Conosci le mie inclinazioni politiche: in questa faccenda agisco come sostenitore di quella signora. Per diciotto mesi il Ministro l’ha tenuta sotto il suo controllo; ora è lei ad avere il controllo su di lui. Poiché non sa che la lettera non si trova nelle sue mani, continuerà con le sue richieste come se fosse davvero lì. In questo modo si condannerà inevitabilmente alla rovina politica. La sua caduta sarà tanto rapida quanto imbarazzante. È facile parlare di “facile discesa agli inferi”; ma, come disse Catalani del canto, in ogni tipo di arrampicata è molto più facile salire che scendere. In questo caso, non provo alcuna simpatia, almeno nessuna pietà, per colui che sta scendendo. È un uomo senza principi, ma dotato di genio. Tuttavia, ammetto di voler conoscere molto bene i veri motivi delle sue azioni. Quando, sfidato da lei – che il prefetto definisce “una certa persona” – è stato costretto ad aprire la lettera che gli avevo lasciato nel portacarte, ”
+
+“Come? Hai messo qualcosa di particolare al suo interno?”
+
+“Perché, non sembrava del tutto giusto lasciare quella parte vuota; sarebbe stato offensivo. Una volta, a Vienna, D, mi fece uno scherzo crudele, di cui gli dissi, con molta allegria, che me ne sarei ricordata. Quindi, sapendo che avrebbe provato curiosità riguardo all’[[concepts/identity|identità]] della persona che lo aveva ingannato, pensai fosse un peccato non dargli alcuna indicazione. Lui conosce molto bene il mio manoscritto; così ho semplicemente copiato quelle parole nel mezzo della pagina vuota, ”
+
+“‘— — Un disegno così funesto,
+Se non è degno di Atreo, allora è degno di Tieste.”
+
+“Si possono trovare nell’‘Atrée’ di Crébillon.”
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Purloined Letter (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/nature,motif/silence,motif/well,concept/doubt,concept/hope,concept/nature,concept/self,setting/paris,character/c_auguste_dupin"></span>

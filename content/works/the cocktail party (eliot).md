@@ -34,6 +34,14 @@ tags:
 > [!abstract] 
 > Eliot's drawing-room comedy with a spiritual core, loosely modelled on Euripides' Alcestis: a psychiatrist-guardian (Reilly) directs the Chamberlaynes toward reconciliation in ordinary marriage and Celia toward a vocation of sanctity and martyrdom.
 
+## Capitoli / Chapters
+
+- [Act I, Scene 1](/testi/eliot/plays/the_cocktail_party#act_1--scene_1)
+- [Act I, Scene 2](/testi/eliot/plays/the_cocktail_party#act_1--scene_2)
+- [Act I, Scene 3](/testi/eliot/plays/the_cocktail_party#act_1--scene_3)
+- [Act II](/testi/eliot/plays/the_cocktail_party#act_2--scene_1)
+- [Act III](/testi/eliot/plays/the_cocktail_party#act_3--scene_1)
+
 ## Connections
 
 **Archetypes:** [[archetypes/mentor|Mentor]], [[archetypes/martyr-saint|Martyr Saint]]

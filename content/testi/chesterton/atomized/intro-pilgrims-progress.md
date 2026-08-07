@@ -239,6 +239,234 @@ amid a fields of [[motifs/flowers|flowers]] in the quiet sunlight and realize th
 all conceivable things the most dangerous thing is to be alive.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Introduzione a «IL VIAGGIO DEL [[archetypes/pilgrim|PELLEGRINO]]» di John Bunyan,
+di G.K. Chesterton.
+
+John Bunyan nacque nel 1628, con ogni probabilità nel novembre
+di quell'anno, poiché il suo battesimo seguì in quello stesso mese.
+Il suo luogo natale fu il villaggio di Elstow, appena fuori Bedford.
+La sua famiglia era un buon esempio di una cosa di cui vi sono
+molti esempi, e di cui non ve ne potranno mai essere troppi:
+una sorta di aristocrazia plebea, umile e insignificante quanto a nome
+e mestiere, ma radicata alla terra come un ducato regale.
+L'idea che le origini di Bunyan giacciano tra calderai vagabondi è un errore;
+giacciono tra calderai assai rispettabili, la cui presenza si può rintracciare
+per generazioni e che avevano lasciato testimonianze come un'intera fattoria
+chiamata da sempre «Bonyon's End». Il nonno di Bunyan,
+Thomas Bunyan, era un piccolo bottegaio o «merciaio ambulante» morto nel 1641;
+del padre si sa meno, oltre al fatto che ebbe tre mogli,
+delle quali la seconda fu la madre di John Bunyan, e la terza
+fu a tutti gli effetti la sua peggior nemica.
+
+Egli stesso ha lasciato scritto che la sua giovinezza fu sregolata,
+ma a giudicare dagli esempi che ne dà sembrerebbe potersi vantare
+soltanto di una specie assai blanda e goffa di sregolatezza.
+Con ogni umana probabilità non fu in realtà che un ragazzo rozzo e impacciato,
+che talora capitava in mezzo a compagnie dubbie, e assai più spesso
+se ne andava alla deriva, imbronciato, tutto solo. Servì in giovane età nell'esercito,
+episodio niente affatto insolito nella carriera di quella specie di sfaccendati cupi.
+È sorta qualche disputa, non certo sulla realtà del suo
+servizio militare, ma sulla parte per cui combatté nella Guerra Civile.
+L'evidenza interna generale, tuttavia, come [[motifs/well|pure]] un'enorme probabilità
+morale, lo assegna al campo dei Parlamentari.
+
+Nell'anno della Restaurazione fu arrestato per aver predicato ad
+assemblee illegali, e fu imprigionato nel carcere di Bedford per dodici anni.
+In quell'improvviso isolamento, escluso da ogni efficace azione o parola,
+gli venne in mente di mettersi a scrivere sistematicamente, e aprì la prima
+[[motifs/window|finestra]] sull'oscuro e stupefacente dramma che si era svolto dentro
+la sua personalità in apparenza scialba, mentre correva per i campi per fuggire
+la matrigna o si appoggiava alla picca presso i fuochi di guardia
+della grande guerra.
+
+Scrisse «Grace Abounding to the Worst of Sinners», forse l'opera più
+potente mai forgiata dal genio con i materiali della morbosità.
+Di certo nessun decadente parigino, nessun poeta alla Swinburne, nessun
+[[archetypes/artist|artista]] alla Beardsley riuscì così compiutamente a dare alla malattia il vigore della salute.
+È il capolavoro di un elemento che ha diritto ad avere
+un capolavoro, giacché è un elemento vivo e ricorrente:
+l'elemento dell'[[motifs/soul|anima]] oscura e isterica della prima giovinezza.
+È l'[[forms/epic|epica]] del pessimismo dell'adolescenza.
+
+Nello stesso periodo scrisse un'opera meno nota, intitolata «La [[motifs/city|Città]] Santa».
+Fu liberato nel 1672, ma poiché rifiutò di rinunciare alla predicazione,
+ormai potente e popolare, fu ricacciato di nuovo in
+[[motifs/prison|prigione]] nel 1675. Fu durante questa seconda detenzione che scrisse
+l'opera che lo ha posto definitivamente tra gli immortali inglesi,
+«Il viaggio del [[archetypes/pilgrim|Pellegrino]]». Molte controversie sono divampate se
+egli dovesse il tipo di narrazione allegorica a qualcosa che l'aveva preceduto,
+ma tutte le allegorie citate a questo proposito sono quasi
+tanto dissimili dal «Viaggio del [[archetypes/pilgrim|Pellegrino]]» quanto lo sono dalla «Fiera delle [[concepts/vanity|Vanità]]».
+Il calderaio di Elstow produsse una cosa originale, se mai una cosa
+originale fu prodotta. Nulla di più forte si può dirne
+che questo: essa rimpicciolisce fino all'insignificanza «Grace Abounding»,
+pubblicato prima, e «The Holy War», pubblicato dopo.
+Bunyan, uscito di [[motifs/prison|prigione]], morì tranquillamente nel 1688.
+
+Nessuno sonderà mai le vere profondità e il significato di quella cosa
+straordinaria che fu il movimento puritano inglese. Perché gli inglesi,
+la cui [[concepts/nature|natura]] è quella d'essere particolarmente felici e
+particolarmente confusionari, dovessero essere l'unico popolo d'Europa a
+venire influenzato in modo tanto sorprendente dall'amarezza e dalla
+logica di Calvino, deve restare un [[forms/riddle|enigma]]. Deve
+restare un [[forms/riddle|enigma]] per due ragioni. Primo, che era una cosa
+religiosa e perciò imperscrutabile; e secondo, che era una cosa riuscita,
+e perciò ne siamo tutti gli eredi; la stiamo guardando attraverso i
+nostri occhiali puritani, e ne parliamo attraverso i nostri nasi
+puritani. Ma qualunque altra cosa fosse la rivoluzione puritana, c'è una
+cosa che essa non fu, ed è ciò che una vasta massa di opinioni
+costantemente sostiene che fosse. Non fu un passo verso un maggiore
+razionalismo, o verso ciò che scegliamo di chiamare progresso; non fu un
+avanzamento nell'indagine; e non fu, nel senso comune, un avanzamento
+nella civiltà. Per dirla in breve, essa non fu enfaticamente una
+continuazione del [[historical-references/renaissance|Rinascimento]]. Semmai, fu una reazione
+contro il [[historical-references/renaissance|Rinascimento]]. Fu essenzialmente una cosa
+barbarica, un'eruzione della parte feroce e misteriosa dell'uomo. Aveva
+assai meno in comune con la moderna compostezza anticonformista. Aveva
+assai più in comune con qualche religione primitiva, che batte gong e
+mugghia a un'eclissi della [[motifs/moon|Luna]]. Era la voce di quella cosa
+velata dentro di noi che è così segreta e intrattabile che gli uomini non
+hanno mai davvero saputo se sia la bestia, misticamente intronizzata, o il
+Dio che siede negli inferi. La parola "selvaggio" qui usata potrebbe forse
+essere fraintesa come un'insinuazione contro il puritanesimo; io uso la
+parola come un elogio. Poiché penso che la probabilità della faccenda fosse
+in realtà questa, che il [[historical-references/puritanism|puritanesimo]] fosse una protesta cieca
+ed eroica contro un mondo che si faceva sempre più razionale. Vediamo
+almeno che dopo la caduta del [[historical-references/puritanism|puritanesimo]], quando la
+"giusta Repubblica" di Cromwell era rovinata a terra, ci ritroviamo
+d'improvviso in un mondo di lindo buon senso, un mondo perfettamente
+miscredente, perfettamente moderno. Può darsi che Bunyan fosse l'ultimo
+grido del misticismo inglese sotto il piede di Hobbes. La religione fu
+invero predicata dai Cavalieri, sia prima sia dopo la grande guerra: prima
+di essa, come un nobilissimo disegno di civiltà nazionale; dopo di essa,
+come un ingegnosissimo ingranaggio nella costituzione politica. Tra i due
+si erge il [[historical-references/puritanism|puritanesimo]], un gigante nudo e ruggente, che
+proclama che la religione non è un [[motifs/wheel|ingranaggio]] in nessuna politica,
+una parte di nessuna civiltà; una cosa antica quanto la [[concepts/fear|paura]], e
+rapace di [[motifs/love|amore]]; che la religione è ciò che realmente è, un terrore,
+uno splendore, una necessità e una seccatura.
+
+Questa impressione è, in ogni caso, confermata da uno strano fenomeno
+letterario, che ognuno deve aver notato in rapporto alla letteratura del
+[[historical-references/puritanism|puritanesimo]]. Lo si può notare anche in rapporto alla
+letteratura della [[historical-references/french-revolution|Rivoluzione francese]], e di quasi
+tutte le altre guerre religiose di tal genere. Se leggiamo la letteratura
+di alta classe immediatamente precedente al movimento puritano, o che se
+ne tiene in disparte, restiamo sorpresi di trovarla tanto più recente e
+simile a noi della letteratura del [[historical-references/puritanism|puritanesimo]]. Il
+[[historical-references/puritanism|puritanesimo]] sembra vecchio di migliaia di anni, qualcosa
+accaduto nell'Età della Pietra, con le sue strane grida, le sue strane
+visioni, le sue strane [[motifs/tears|lacrime]], la sua strana felicità. Ha nel
+suo registro un insieme di cose indescrivibilmente grandi e primitive: la
+messa a morte di un [[archetypes/king|re]], un libro sacro, disgustosi massacri, e un
+immortale [[forms/epic|poema epico]]. Tornate indietro di qualche anno prima, e
+prendete in mano George Herbert o Herrick, e vi ritroverete a leggere una
+sorta di gentiluomo perfettamente moderno e assennato. Ciò produce sulla
+mente una peculiare impressione. È come se ci venisse detto che Herbert
+Spencer visse prima di Giuda Maccabeo. Il medesimo singolare effetto si
+può, come ho detto, notare a proposito della
+[[historical-references/french-revolution|Rivoluzione francese]]. Danton e Marat sono figure
+lontane e gigantesche nell'[[motifs/dawn|alba]] della terra, e talvolta si stenta
+a ricordare che indossassero alcun vestito. Quando ricordiamo che essi
+vissero un [[motifs/time|tempo]] considerevole dopo la pubblicazione de "I
+rivali" e all'incirca all'[[motifs/time|epoca]] dell'invenzione del cilindro, ci
+sentiamo girare la testa sottosopra.
+
+Questi grandi nuovi scoppi dell'elementare nell'uomo diventano d'improvviso
+vecchi di secoli. E questa deve, io penso, essere la vera descrizione del
+[[historical-references/puritanism|puritanesimo]] inglese: che l'[[motifs/soul|anima]] di un antico
+popolo, che un tempo era stato profondamente religioso, il cui paese era
+stato chiamato il [[motifs/garden|Giardino]] di Maria, e l'Isola dei Santi, sentì
+per quel sesto senso, che solo i semplici possiedono, la terra vibrare
+sotto l'elefante avanzante della Ragione. Accecato da una densa ignoranza,
+smarrito in un'epoca anarchica, furiosamente sospettoso di filosofi e
+collegi e re, esso afferrò il primo selvaggio brandello di nuova teologia
+che gli capitò a portata di mano e fece guerra per la religione, per
+l'eterno selvaggio e l'eterno [[archetypes/child|fanciullo]]. Non aveva cultura, né
+guida, né tradizione, né dignità, né maniere. I Puritani colpivano le
+persone di gusto del loro [[motifs/time|tempo]] semplicemente come una sorta di
+neri folletti dalle grandi orecchie. Ma contro ogni ostacolo di miseria e
+volgarità, una via fu aperta dalla divina energia del loro odio per la
+saggezza del mondo. Prima che i Puritani fossero spazzati via dalla scena
+per sempre, avevano fatto due cose straordinarie. Avevano fatto a pezzi in
+aperta battaglia, su un prato inglese, la cavalleria di una grande nazione,
+allevata sin dalla gioventù alle armi. E avevano tratto fuori dalla loro
+agonia un piccolo libro, intitolato "Il [[archetypes/pilgrim|Viaggio del pellegrino]]",
+che era letteratura più grande di tutta la cultura contemporanea del grande
+[[historical-references/renaissance|Rinascimento]], fondata su tre generazioni di culto del
+sapere e dell'arte.
+
+Il "[[archetypes/pilgrim|Viaggio del pellegrino]]" mostra certamente tutti i segni di
+una simile rinascita di potenza e mistero primitivi. La sua somiglianza con
+la [[historical-references/bible|Bibbia]] non è una mera imitazione di stile; è anche
+una coincidenza di stato d'animo. Bunyan, che fu un soldato nell'esercito
+di Cromwell, era stato egli stesso gettato in un mondo quasi feroce quanto
+quello di Gedeone, o dei Maccabei, ed era davvero sotto l'influsso del
+medesimo tipo di emozione. Ciò accadeva semplicemente perché, come ho detto,
+il [[historical-references/puritanism|puritanesimo]] era una cosa barbarica, e perciò eterna. In
+nessun luogo, forse, tranne che in Omero, vi è una descrizione così perfetta
+resa con l'uso di parole meramente semplici. La descrizione, in Bunyan, di
+come Mosè venne su per la [[motifs/road|strada]] come un [[motifs/wind|vento]], e non fu
+che una parola e un colpo; o di come Apollion si piantò a gambe larghe per
+tutta la larghezza della via e imprecò per la sua tana infernale: queste
+sono cose che possono trovare paragone solo in improvvise e splendide frasi
+tratte da Omero o dalla [[historical-references/bible|Bibbia]], come le frasi sulle mostruose e
+micidiali mani di [[characters/achilles|Achille]], o sul [[motifs/horse|destriero]] da guerra
+che ride allo scuotersi della lancia.
+
+Vi è un altro aspetto di Bunyan e del movimento puritano che non può essere
+trascurato, perché getta una luce tanto grande sull'opera particolare di
+Bunyan. In misura assai considerevole è possibile identificare persino il
+più importante movimento teologico e filosofico semplicemente con stati
+d'animo. Il peculiare stato d'animo del [[historical-references/puritanism|puritanesimo]] era un
+senso del mortale pericolo dell'esistenza. L'intera tendenza dell'Inghilterra
+e della maggior parte dell'Europa durante il sedicesimo secolo era verso la
+sistemazione di ogni cosa; verso una piacevole pietà, un sapere appagante,
+una politica bene ordinata, una filosofia autentica, e così via. Era
+caratteristico di un'epoca in cui, per la prima [[motifs/time|volta]], comode case
+private cominciarono a essere costruite. Proprio come venivano costruite
+case comode, così venivano costruite comode costituzioni, e comode chiese.
+Ma nessuno per cui il nome di Bunyan sia qualcosa di più di un nome può mai
+dimenticare l'impressione di quel tremendo capitolo di "Grace Abounding", in
+cui il peccatore si rifugia in un luogo dopo l'altro solo per aspettarsi che
+un tetto dopo l'altro gli crolli addosso, e che egli non è al sicuro in
+nessun luogo se l'Universo stesso che eredita appartiene a uno che è suo
+nemico. Né alcuno dimenticherà il capitolo in cui il peccatore si riconcilia
+con l'Universo, e cammina per i campi e non può trattenersi dal parlare agli
+[[motifs/birds|uccelli]] della grande [[concepts/mercy|misericordia]] di Dio. È questo
+generale e acuto senso del pericolo che è l'[[motifs/soul|anima]] del
+[[historical-references/puritanism|puritanesimo]], e l'[[motifs/soul|anima]] del "[[archetypes/pilgrim|Viaggio del
+pellegrino]]".
+
+Vi è un'innumerevole schiera di figure buone e pittoresche nel
+"[[archetypes/pilgrim|Viaggio del pellegrino]]". C'è l'uomo scuro vestito di
+lucente paramento (quell'ammirevole persona), c'è il signor Saggio-secondo-
+il-mondo, la cui conversazione è indistinguibile da quella di un moderno
+filantropo. C'è Apollion, la cui eloquenza è come la più nobile eloquenza
+del diciassettesimo secolo. C'è il Gigante [[concepts/despair|Disperazione]], che non
+ha bisogno di presentazioni nel moderno mondo illuminato. Ma nessuna figura
+nell'intera storia afferra l'[[concepts/imagination|immaginazione]], a un tempo
+pittorica e spirituale, quanto la figura con cui inizia l'intera grafica
+[[forms/parable|parabola]]. La selvaggia figura del [[archetypes/pilgrim|Pellegrino]] stesso
+con il fardello sulla schiena, e le dita nelle orecchie, che corre come un
+pazzo fuori dalla [[motifs/city|città]] clamorosa e sprezzante e beffarda, che è
+chiamata la [[motifs/city|City]] della Distruzione: questa è certamente l'incarnazione
+dell'effettiva energia letteraria di Bunyan.
+
+Vi potranno essere alcuni "non so se ve ne siano" che saranno tanto
+alienati dall'apparato secentesco della grande storia, tanto poco in
+sintonia con gli interminabili ragionamenti sull'Espiazione, tanto insensibili
+al significato dei nomi e dei titoli scritturali, tanto stanchi dei vecchi
+testi, tanto sprezzanti delle vecchie dottrine, da immaginare che questa
+antica poesia puritana del pericolo sia interessante solo da un punto di
+vista letterario e per nulla da un punto di vista filosofico o religioso. Per
+tali persone vi è, suppongo, ancora in attesa e non provato quell'inevitabile
+stato d'animo in cui un uomo può stare in mezzo a un campo di
+[[motifs/flowers|fiori]] nella quieta luce del sole e rendersi conto che, di tutte
+le cose concepibili, la cosa più pericolosa è essere vivi.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="intro-pilgrims-progress (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/pilgrim,motif/city,motif/prison,motif/soul,motif/well,motif/window,concept/vanity,form/epic"></span>

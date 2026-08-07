@@ -48,285 +48,81 @@ Lords attending on [[characters/cymbeline|Cymbeline]], ladies attending on the [
 
 [[characters/cymbeline|Cymbeline]], [[archetypes/king|King]] of Britain
 
-1.1 Enter two Gentlemen
-FIRST GENTLEMAN
-You do not meet a man but frowns. Our bloods
-No more obey the heavens than our courtiers
-Still seem as does the [[archetypes/king|King]].
-SECOND GENTLEMAN
-But what’s the matter?
-FIRST GENTLEMAN
-His daughter, and the heir of ’s kingdom, whom
-He purposed to his wife’s sole son—a widow
-That late he married—hath referred herself
-Unto a poor but worthy gentleman. She’s wedded,
-Her husband banished, she imprisoned. All
-Is outward sorrow, though I think the [[archetypes/king|King]]
-Be touched at very heart.
-SECOND GENTLEMAN
-None but the [[archetypes/king|King]]?
-FIRST GENTLEMAN
-He that hath lost her, too. So is the [[characters/queen|Queen]],
-That most desired the match. But not a courtier—
-Although they wear their faces to the bent
-Of the [[archetypes/king|King]]’s looks—hath a heart that is not
-Glad of the thing they scowl at.
-SECOND GENTLEMAN
-And why so?
-FIRST GENTLEMAN
-He that hath missed the Princess is a thing
-Too bad for bad report, and he that hath her—
-I mean that married her—alack, good man,
-And therefore banished!—is a creature such
-As, to seek through the regions of the earth
-For one his like, there would be something failing
-In him that should compare. I do not think
-So fair an outward and such stuff within
-Endows a man but he.
-SECOND GENTLEMAN
-You speak him far.
-FIRST GENTLEMAN
-I do extend him, sir, within himself;
-Crush him together rather than unfold
-His measure duly.
-SECOND GENTLEMAN What’s his name and birth?
-FIRST GENTLEMAN
-I cannot delve him to the root. His father
-Was called Sicilius, who did join his [[concepts/honour|honour]]
-Against the Romans with Cassibelan
-But had his titles by Tenantius, whom
-He served with glory and admired success,
-So gained the sur-addition ‘Leonatus’;
-And had, besides this gentleman in question,
-Two other sons who in the wars o‘th’ [[motifs/time|time]]
-Died with their swords in hand; for which their father,
-Then old and fond of issue, took such sorrow
-That he quit being, and his gentle lady,
-Big of this gentleman, our theme, deceased
-As he was born. The [[archetypes/king|King]], he takes the babe
-To his protection, calls him [[characters/posthumus|Posthumus]] Leonatus,
-Breeds him, and makes him of his bedchamber;
-Puts to him all the learnings that his [[motifs/time|time]]
-Could make him the receiver of, which he took
-As we do air, fast as ’twas ministered,
-And in ’s [[motifs/spring|spring]] became a harvest; lived in [[settings/court|court]]—
-Which rare it is to do—most praised, most loved;
-A sample to the youngest, to th’ more mature
-A glass that feated them, and to the graver
-A [[archetypes/child|child]] that guided dotards. To his mistress,
-For whom he now is banished, her own price
-Proclaims how she esteemed him and his virtue.
-By her election may be truly read
-What kind of man he is.
-SECOND GENTLEMAN
-I [[concepts/honour|honour]] him
-Even out of your report. But pray you tell me,
-Is she sole [[archetypes/child|child]] to th’ [[archetypes/king|King]]?
-FIRST GENTLEMAN His only [[archetypes/child|child]].
-He had two sons—if this be worth your hearing,
-Mark it: the eld‘st of them at three years old,
-I’th’ swathing clothes the other, from their nursery
-Were stol’n, and to this hour no guess in knowledge
-Which way they went.
-SECOND GENTLEMAN How long is this ago?
-FIRST GENTLEMAN Some twenty years.
-SECOND GENTLEMAN
-That a [[archetypes/king|king]]’s children should be so conveyed,
-So slackly guarded, and the search so slow
-That could not trace them!
-FIRST GENTLEMAN
-Howsoe‘er ’tis strange,
-Or that the negligence may [[motifs/well|well]] be laughed at,
-Yet is it true, sir.
-SECOND GENTLEMAN I do [[motifs/well|well]] believe you.
-Enter the [[characters/queen|Queen]], [[characters/posthumus|Posthumus]], and [[characters/innogen|Innogen]]
-FIRST GENTLEMAN
-We must forbear. Here comes the gentleman,
-The [[characters/queen|Queen]] and Princess.
-Exeunt the two Gentlemen
-[[characters/queen|QUEEN]]
-No, be assured you shall not find me, daughter,
-After the slander of most stepmothers,
-Evil-eyed unto you. You’re my prisoner, but
-Your jailer shall deliver you the keys
-That lock up your restraint. For you, [[characters/posthumus|Posthumus]],
-So soon as I can win th‘offended [[archetypes/king|King]]
-I will be known your advocate. Marry, yet
-The [[motifs/fire|fire]] of rage is in him, and ’twere good
-You leaned unto his sentence with what patience
-Your wisdom may inform you.
-[[characters/posthumus|POSTHUMUS]]
-Please your highness,
-I will from hence today.
-[[characters/queen|QUEEN]]
-You know the peril.
-I’ll fetch a turn about the [[motifs/garden|garden]], pitying
-The pangs of barred affections, though the [[archetypes/king|King]]
-Hath charged you should not speak together. Exit
-[[characters/innogen|INNOGEN]]
-O dissembling courtesy! How fine this [[archetypes/tyrant|tyrant]]
-Can tickle where she wounds! My dearest husband,
-I something [[concepts/fear|fear]] my father’s wrath, but nothing—
-Always reserved my holy duty—what
-His rage can do on me. You must be gone,
-And I shall here abide the hourly shot
-Of angry eyes, not comforted to live
-But that there is this [[motifs/jewel|jewel]] in the world
-That I may see again.
-[[characters/posthumus|POSTHUMUS]]
-My [[characters/queen|queen]], my mistress!
-O lady, weep no more, lest I give cause
-To be suspected of more tenderness
-Than doth become a man. I will remain
-The loyal‘st husband that did e’er plight troth;
-My residence in Rome at one Filario’s,
-Who to my father was a friend, to me
-Known but by letter; thither write, my [[characters/queen|queen]],
-And with mine eyes I’ll drink the words you send
-Though ink be made of gall.
-Enter [[characters/queen|Queen]]
-[[characters/queen|QUEEN]]
-Be brief, I pray you.
-If the [[archetypes/king|King]] come, I shall incur I know not
-How much of his displeasure. (Aside) Yet I’ll move him
-To walk this way. I never do him wrong
-But he does buy my injuries, to be friends,
-Pays dear for my offences. Exit
-[[characters/posthumus|POSTHUMUS]]
-Should we be taking leave
-As long a term as yet we have to live,
-The loathness to depart would grow. Adieu.
-[[characters/innogen|INNOGEN]] Nay, stay a little.
-Were you but riding forth to air yourself
-Such parting were too petty. Look here, [[motifs/love|love]]:
-This diamond was my mother’s. Take it, heart;
-She gives him a ring
-But keep it till you woo another wife
-When [[characters/innogen|Innogen]] is dead.
-[[characters/posthumus|POSTHUMUS]]
-How, how? Another?
-You gentle gods, give me but this I have,
-And cere up my embracements from a next
-With bonds of [[motifs/death|death]]! Remain, remain thou here
-He puts on the ring
-While sense can keep it on; and, sweetest, fairest,
-As I my poor [[concepts/self|self]] did exchange for you
-To your so infinite loss, so in our trifles
-I still win of you. For my sake wear this.
-He gives her a bracelet
-It is a manacle of [[motifs/love|love]]. I’ll place it
-Upon this fairest prisoner.
-[[characters/innogen|INNOGEN]] O the gods!
-When shall we see again?
-Enter [[characters/cymbeline|Cymbeline]] and lords
-[[characters/posthumus|POSTHUMUS]]
-Alack, the [[archetypes/king|King]]!
-[[characters/cymbeline|CYMBELINE]]
-Thou basest thing, avoid hence, from my sight!
-If after this command thou fraught the [[settings/court|court]]
-With thy unworthiness, thou diest. Away.
-Thou’rt [[motifs/poison|poison]] to my [[motifs/blood|blood]].
-[[characters/posthumus|POSTHUMUS]]
-The gods protect you,
-And bless the good remainders of the [[settings/court|court]]!
-I am gone.
-Exit
-[[characters/innogen|INNOGEN]]
-There cannot be a pinch in [[motifs/death|death]]
-More sharp than this is.
-[[characters/cymbeline|CYMBELINE]]
-O disloyal thing,
-That shouldst repair my youth, thou heap’st
-A year’s age on me.
-[[characters/innogen|INNOGEN]]
-I beseech you, sir,
-Harm not yourself with your vexation.
-I am senseless of your wrath. A touch more rare
-Subdues all pangs, all fears.
-[[characters/cymbeline|CYMBELINE]]
-Past grace, obedience-
-[[characters/innogen|INNOGEN]]
-Past [[concepts/hope|hope]] and in [[concepts/despair|despair]]: that way past grace.
-[[characters/cymbeline|CYMBELINE]]
-That mightst have had the sole son of my [[characters/queen|queen]]!
-[[characters/innogen|INNOGEN]]
-O blessed that I might not! I chose an eagle
-And did avoid a puttock.
-[[characters/cymbeline|CYMBELINE]]
-Thou took’st a beggar, wouldst have made my throne
-A seat for baseness.
-[[characters/innogen|INNOGEN]]
-No, I rather added
-A lustre to it.
-[[characters/cymbeline|CYMBELINE]]
-O thou vile one!
-[[characters/innogen|INNOGEN]]
-Sir,
-It is your fault that I have loved [[characters/posthumus|Posthumus]].
-You bred him as my playfellow, and he is
-A man worth any woman, over-buys me
-Almost the sum he pays.
-[[characters/cymbeline|CYMBELINE]]
-What, art thou mad?
-[[characters/innogen|INNOGEN]]
-Almost, sir. Heaven restore me! Would I were
-A neatherd’s daughter, and my Leonatus
-Our neighbour shepherd’s son.
-Enter [[characters/queen|Queen]]
-[[characters/cymbeline|CYMBELINE]]
-Thou foolish thing.
-(To [[characters/queen|Queen]]) They were again together; you have done
-Not after our command. (To lords) Away with her,
-And pen her up.
-[[characters/queen|QUEEN]]
-Beseech your patience, peace,
-Dear lady daughter, peace. Sweet sovereign,
-Leave us to ourselves, and make yourself some comfort
-Out of your best advice.
-[[characters/cymbeline|CYMBELINE]]
-Nay, let her languish
-A drop of [[motifs/blood|blood]] a day, and, being aged,
-Die of this folly.
-Exit with lords
-[[characters/queen|QUEEN]]
-Fie, you must give way.
-Enter Pisanio
-Here is your servant. How now, sir? What news?
-PISANIO
-My lord your son drew on my master.
-[[characters/queen|QUEEN]] Ha!
-No harm, I trust, is done?
-PISANIO
-There might have been,
-But that my master rather played than fought,
-And had no help of anger. They were parted
-By gentlemen at hand.
-[[characters/queen|QUEEN]]
-I am very glad on’t.
-[[characters/innogen|INNOGEN]]
-Your son’s my father’s friend; he takes his part
-To draw upon an [[concepts/exile|exile]]—O brave sir!
-I would they were in Afric both together,
-Myself by with a needle, that I might prick
-The goer-back. (To Pisanio) Why came you from your
-master?
-PISANIO
-On his command. He would not suffer me
-To bring him to the haven, left these notes
-Of what commands I should be subject to
-When’t pleased you to employ me.
-[[characters/queen|QUEEN]]
-This hath been
-Your faithful servant. I dare lay mine [[concepts/honour|honour]]
-He will remain so.
-PISANIO I humbly thank your highness.
-[[characters/queen|QUEEN]] Pray walk a while.
-⌈Exit⌉
-[[characters/innogen|INNOGEN]]
-About some half hour hence, pray you speak with me.
-You shall at least go see my lord aboard.
-For this [[motifs/time|time]] leave me.
-Exeunt severally
+### Atto 1, Scena 1
+
+| Speaker | Line |
+|---|---|
+| *(didascalia)* | Enter two Gentlemen |
+| FIRST GENTLEMAN | You do not meet a man but frowns. Our bloods<br>No more obey the heavens than our courtiers<br>Still seem as does the [[archetypes/king\|King]]. |
+| SECOND GENTLEMAN | But what’s the matter? |
+| FIRST GENTLEMAN | His daughter, and the heir of ’s kingdom, whom<br>He purposed to his wife’s sole son—a widow<br>That late he married—hath referred herself<br>Unto a poor but worthy gentleman. She’s wedded,<br>Her husband banished, she imprisoned. All<br>Is outward sorrow, though I think the [[archetypes/king\|King]]<br>Be touched at very heart. |
+| SECOND GENTLEMAN | None but the [[archetypes/king\|King]]? |
+| FIRST GENTLEMAN | He that hath lost her, too. So is the [[characters/queen\|Queen]],<br>That most desired the match. But not a courtier—<br>Although they wear their faces to the bent<br>Of the [[archetypes/king\|King]]’s looks—hath a heart that is not<br>Glad of the thing they scowl at. |
+| SECOND GENTLEMAN | And why so? |
+| FIRST GENTLEMAN | He that hath missed the Princess is a thing<br>Too bad for bad report, and he that hath her—<br>I mean that married her—alack, good man,<br>And therefore banished!—is a creature such<br>As, to seek through the regions of the earth<br>For one his like, there would be something failing<br>In him that should compare. I do not think<br>So fair an outward and such stuff within<br>Endows a man but he. |
+| SECOND GENTLEMAN | You speak him far. |
+| FIRST GENTLEMAN | I do extend him, sir, within himself;<br>Crush him together rather than unfold<br>His measure duly. |
+| SECOND GENTLEMAN | What’s his name and birth? |
+| FIRST GENTLEMAN | I cannot delve him to the root. His father<br>Was called Sicilius, who did join his [[concepts/honour\|honour]]<br>Against the Romans with Cassibelan<br>But had his titles by Tenantius, whom<br>He served with glory and admired success,<br>So gained the sur-addition ‘Leonatus’;<br>And had, besides this gentleman in question,<br>Two other sons who in the wars o‘th’ [[motifs/time\|time]]<br>Died with their swords in hand; for which their father,<br>Then old and fond of issue, took such sorrow<br>That he quit being, and his gentle lady,<br>Big of this gentleman, our theme, deceased<br>As he was born. The [[archetypes/king\|King]], he takes the babe<br>To his protection, calls him [[characters/posthumus\|Posthumus]] Leonatus,<br>Breeds him, and makes him of his bedchamber;<br>Puts to him all the learnings that his [[motifs/time\|time]]<br>Could make him the receiver of, which he took<br>As we do air, fast as ’twas ministered,<br>And in ’s [[motifs/spring\|spring]] became a harvest; lived in [[settings/court\|court]]—<br>Which rare it is to do—most praised, most loved;<br>A sample to the youngest, to th’ more mature<br>A glass that feated them, and to the graver<br>A [[archetypes/child\|child]] that guided dotards. To his mistress,<br>For whom he now is banished, her own price<br>Proclaims how she esteemed him and his virtue.<br>By her election may be truly read<br>What kind of man he is. |
+| SECOND GENTLEMAN | I [[concepts/honour\|honour]] him<br>Even out of your report. But pray you tell me,<br>Is she sole [[archetypes/child\|child]] to th’ [[archetypes/king\|King]]? |
+| FIRST GENTLEMAN | His only [[archetypes/child\|child]].<br>He had two sons—if this be worth your hearing,<br>Mark it: the eld‘st of them at three years old,<br>I’th’ swathing clothes the other, from their nursery<br>Were stol’n, and to this hour no guess in knowledge<br>Which way they went. |
+| SECOND GENTLEMAN | How long is this ago? |
+| FIRST GENTLEMAN | Some twenty years. |
+| SECOND GENTLEMAN | That a [[archetypes/king\|king]]’s children should be so conveyed,<br>So slackly guarded, and the search so slow<br>That could not trace them! |
+| FIRST GENTLEMAN | Howsoe‘er ’tis strange,<br>Or that the negligence may [[motifs/well\|well]] be laughed at,<br>Yet is it true, sir. |
+| SECOND GENTLEMAN | I do [[motifs/well\|well]] believe you. |
+| *(didascalia)* | Enter the [[characters/queen\|Queen]], [[characters/posthumus\|Posthumus]], and [[characters/innogen\|Innogen]] |
+| FIRST GENTLEMAN | We must forbear. Here comes the gentleman,<br>The [[characters/queen\|Queen]] and Princess. |
+| *(didascalia)* | Exeunt the two Gentlemen |
+| [[characters/queen\|QUEEN]] | No, be assured you shall not find me, daughter,<br>After the slander of most stepmothers,<br>Evil-eyed unto you. You’re my prisoner, but<br>Your jailer shall deliver you the keys<br>That lock up your restraint. For you, [[characters/posthumus\|Posthumus]],<br>So soon as I can win th‘offended [[archetypes/king\|King]]<br>I will be known your advocate. Marry, yet<br>The [[motifs/fire\|fire]] of rage is in him, and ’twere good<br>You leaned unto his sentence with what patience<br>Your wisdom may inform you. |
+| [[characters/posthumus\|POSTHUMUS]] | Please your highness,<br>I will from hence today. |
+| [[characters/queen\|QUEEN]] | You know the peril.<br>I’ll fetch a turn about the [[motifs/garden\|garden]], pitying<br>The pangs of barred affections, though the [[archetypes/king\|King]]<br>Hath charged you should not speak together. Exit |
+| [[characters/innogen\|INNOGEN]] | O dissembling courtesy! How fine this [[archetypes/tyrant\|tyrant]]<br>Can tickle where she wounds! My dearest husband,<br>I something [[concepts/fear\|fear]] my father’s wrath, but nothing—<br>Always reserved my holy duty—what<br>His rage can do on me. You must be gone,<br>And I shall here abide the hourly shot<br>Of angry eyes, not comforted to live<br>But that there is this [[motifs/jewel\|jewel]] in the world<br>That I may see again. |
+| [[characters/posthumus\|POSTHUMUS]] | My [[characters/queen\|queen]], my mistress!<br>O lady, weep no more, lest I give cause<br>To be suspected of more tenderness<br>Than doth become a man. I will remain<br>The loyal‘st husband that did e’er plight troth;<br>My residence in Rome at one Filario’s,<br>Who to my father was a friend, to me<br>Known but by letter; thither write, my [[characters/queen\|queen]],<br>And with mine eyes I’ll drink the words you send<br>Though ink be made of gall. |
+| *(didascalia)* | Enter [[characters/queen\|Queen]] |
+| [[characters/queen\|QUEEN]] | Be brief, I pray you.<br>If the [[archetypes/king\|King]] come, I shall incur I know not<br>How much of his displeasure. (Aside) Yet I’ll move him<br>To walk this way. I never do him wrong<br>But he does buy my injuries, to be friends,<br>Pays dear for my offences. Exit |
+| [[characters/posthumus\|POSTHUMUS]] | Should we be taking leave<br>As long a term as yet we have to live,<br>The loathness to depart would grow. Adieu. |
+| [[characters/innogen\|INNOGEN]] | Nay, stay a little.<br>Were you but riding forth to air yourself<br>Such parting were too petty. Look here, [[motifs/love\|love]]:<br>This diamond was my mother’s. Take it, heart;<br>She gives him a ring<br>But keep it till you woo another wife<br>When [[characters/innogen\|Innogen]] is dead. |
+| [[characters/posthumus\|POSTHUMUS]] | How, how? Another?<br>You gentle gods, give me but this I have,<br>And cere up my embracements from a next<br>With bonds of [[motifs/death\|death]]! Remain, remain thou here<br>He puts on the ring<br>While sense can keep it on; and, sweetest, fairest,<br>As I my poor [[concepts/self\|self]] did exchange for you<br>To your so infinite loss, so in our trifles<br>I still win of you. For my sake wear this.<br>He gives her a bracelet<br>It is a manacle of [[motifs/love\|love]]. I’ll place it<br>Upon this fairest prisoner. |
+| [[characters/innogen\|INNOGEN]] | O the gods!<br>When shall we see again? |
+| *(didascalia)* | Enter [[characters/cymbeline\|Cymbeline]] and lords |
+| [[characters/posthumus\|POSTHUMUS]] | Alack, the [[archetypes/king\|King]]! |
+| [[characters/cymbeline\|CYMBELINE]] | Thou basest thing, avoid hence, from my sight!<br>If after this command thou fraught the [[settings/court\|court]]<br>With thy unworthiness, thou diest. Away.<br>Thou’rt [[motifs/poison\|poison]] to my [[motifs/blood\|blood]]. |
+| [[characters/posthumus\|POSTHUMUS]] | The gods protect you,<br>And bless the good remainders of the [[settings/court\|court]]!<br>I am gone. |
+| *(didascalia)* | Exit |
+| [[characters/innogen\|INNOGEN]] | There cannot be a pinch in [[motifs/death\|death]]<br>More sharp than this is. |
+| [[characters/cymbeline\|CYMBELINE]] | O disloyal thing,<br>That shouldst repair my youth, thou heap’st<br>A year’s age on me. |
+| [[characters/innogen\|INNOGEN]] | I beseech you, sir,<br>Harm not yourself with your vexation.<br>I am senseless of your wrath. A touch more rare<br>Subdues all pangs, all fears. |
+| [[characters/cymbeline\|CYMBELINE]] | Past grace, obedience- |
+| [[characters/innogen\|INNOGEN]] | Past [[concepts/hope\|hope]] and in [[concepts/despair\|despair]]: that way past grace. |
+| [[characters/cymbeline\|CYMBELINE]] | That mightst have had the sole son of my [[characters/queen\|queen]]! |
+| [[characters/innogen\|INNOGEN]] | O blessed that I might not! I chose an eagle<br>And did avoid a puttock. |
+| [[characters/cymbeline\|CYMBELINE]] | Thou took’st a beggar, wouldst have made my throne<br>A seat for baseness. |
+| [[characters/innogen\|INNOGEN]] | No, I rather added<br>A lustre to it. |
+| [[characters/cymbeline\|CYMBELINE]] | O thou vile one! |
+| [[characters/innogen\|INNOGEN]] | Sir,<br>It is your fault that I have loved [[characters/posthumus\|Posthumus]].<br>You bred him as my playfellow, and he is<br>A man worth any woman, over-buys me<br>Almost the sum he pays. |
+| [[characters/cymbeline\|CYMBELINE]] | What, art thou mad? |
+| [[characters/innogen\|INNOGEN]] | Almost, sir. Heaven restore me! Would I were<br>A neatherd’s daughter, and my Leonatus<br>Our neighbour shepherd’s son. |
+| *(didascalia)* | Enter [[characters/queen\|Queen]] |
+| [[characters/cymbeline\|CYMBELINE]] | Thou foolish thing.<br>(To [[characters/queen\|Queen]]) They were again together; you have done<br>Not after our command. (To lords) Away with her,<br>And pen her up. |
+| [[characters/queen\|QUEEN]] | Beseech your patience, peace,<br>Dear lady daughter, peace. Sweet sovereign,<br>Leave us to ourselves, and make yourself some comfort<br>Out of your best advice. |
+| [[characters/cymbeline\|CYMBELINE]] | Nay, let her languish<br>A drop of [[motifs/blood\|blood]] a day, and, being aged,<br>Die of this folly. |
+| *(didascalia)* | Exit with lords |
+| [[characters/queen\|QUEEN]] | Fie, you must give way. |
+| *(didascalia)* | Enter Pisanio |
+| [[characters/queen\|QUEEN]] | Here is your servant. How now, sir? What news? |
+| PISANIO | My lord your son drew on my master. |
+| [[characters/queen\|QUEEN]] | Ha!<br>No harm, I trust, is done? |
+| PISANIO | There might have been,<br>But that my master rather played than fought,<br>And had no help of anger. They were parted<br>By gentlemen at hand. |
+| [[characters/queen\|QUEEN]] | I am very glad on’t. |
+| [[characters/innogen\|INNOGEN]] | Your son’s my father’s friend; he takes his part<br>To draw upon an [[concepts/exile\|exile]]—O brave sir!<br>I would they were in Afric both together,<br>Myself by with a needle, that I might prick<br>The goer-back. (To Pisanio) Why came you from your<br>master? |
+| PISANIO | On his command. He would not suffer me<br>To bring him to the haven, left these notes<br>Of what commands I should be subject to<br>When’t pleased you to employ me. |
+| [[characters/queen\|QUEEN]] | This hath been<br>Your faithful servant. I dare lay mine [[concepts/honour\|honour]]<br>He will remain so. |
+| PISANIO | I humbly thank your highness. |
+| [[characters/queen\|QUEEN]] | Pray walk a while. |
+| *(didascalia)* | Exit |
+| [[characters/innogen\|INNOGEN]] | About some half hour hence, pray you speak with me.<br>You shall at least go see my lord aboard.<br>For this [[motifs/time\|time]] leave me. |
+| *(didascalia)* | Exeunt severally |
 
 ### Atto 1, Scena 2
 
@@ -1389,11 +1185,1181 @@ Exeunt severally
 | SOOTHSAYER | The fingers of the powers above do tune<br>The harmony of this peace. The vision,<br>Which I made known to [[characters/lucius\|Lucius]] ere the stroke<br>Of this yet scarce-cold battle, at this instant<br>Is full accomplished. For the Roman eagle,<br>From south to west on wing soaring aloft,<br>Lessened herself, and in the beams o‘th’ sun<br>So vanished; which foreshowed our princely eagle<br>Th’imperial Caesar should again unite<br>His favour with the radiant [[characters/cymbeline\|Cymbeline]],<br>Which shines here in the west. |
 | [[characters/cymbeline\|CYMBELINE]] | Laud we the gods,<br>And let our crooked smokes climb to their nostrils<br>From our blest altars. Publish we this peace<br>To all our subjects. Set we forward, let<br>A Roman and a British ensign wave<br>Friendly together. So through Lud’s town march,<br>And in the temple of great Jupiter<br>Our peace we’ll ratify, seal it with feasts.<br>Set on there. Never was a war did cease,<br>Ere bloody hands were washed, with such a peace. |
 | *(didascalia)* | Flourish. Exeunt in triumph |
-| THE | [[archetypes/king\|King]]’s Men acted The Tempest before their patron, James I, at Whitehall on I November 1611. (It was also chosen for performance during the festivities for the [[motifs/marriage\|marriage]] of James’s daughter, Princess Elizabeth, to the Elector Palatine during the [[motifs/winter\|winter]] of 1612- 13.) Shakespeare’s play takes place on a [[motifs/desert\|desert]] island somewhere between Tunis and Naples; he derived some details of it from his reading of travel literature, including accounts of an expedition of nine ships taking five hundred colonists from Plymouth to Virginia, which set sail in May 1609. On 29 July the flagship, the Sea-Adventure, was wrecked by a [[motifs/storm\|storm]] on the coast of the Bermudas. She was presumed lost, but on 23 May 1610 those aboard her arrived safely in Jamestown, Virginia, having found shelter on the island of Bermuda, where they were able to build the pinnaces in which they completed their [[motifs/journey\|journey]]. Accounts of the voyage soon reached England; the last-written that Shakespeare seems to have known is a letter by William Strachey, who was on the Sea-Adventure, dated 15 July 1610; though it was not published until 1625, it circulated in manuscript. So it seems clear that Shakespeare wrote The Tempest during the later part of 1610or in 1611. It was first printed in the 1623 Folio, where it is the opening play.<br>Though other items of Shakespeare’s reading—including both [[characters/arthur\|Arthur]] Golding’s [[forms/translation\|translation]] and Ovid’s original Metamorphoses (closely echoed in Prospero’s farewell to his magic), John Florio’s [[forms/translation\|translation]] of essays by Michel de Montaigne, and (less locally but no less pervasively) Virgil’s Aeneid—certainly fed Shakespeare’s [[concepts/imagination\|imagination]] as he wrote The Tempest, he appears to have devised the main plot himself. Many of its elements are based on the familiar stuff of romance literature: the long-past shipwreck after a perilous voyage of Prospero and his daughter [[characters/miranda\|Miranda]]; the shipwreck, depicted in the opening scene, of Prospero’s brother, [[characters/antonio\|Antonio]], with [[characters/alonso\|Alonso]], [[archetypes/king\|King]] of Naples, and others; the separation and estrangement of relatives—[[characters/antonio\|Antonio]] usurped Prospero’s dukedom, and [[characters/alonso\|Alonso]] believes his son, [[characters/ferdinand\|Ferdinand]], is drowned; the chaste [[motifs/love\|love]], subjected to trials, of the handsome [[characters/ferdinand\|Ferdinand]] and the beautiful [[characters/miranda\|Miranda]]; the influence of the [[motifs/supernatural\|supernatural]] exercised through Prospero’s magic powers; and the final reunions and reconciliations along with the happy conclusion of the [[motifs/love\|love]] affair. Shakespeare had employed such conventions from the beginning of his career in his comedies, and with especial concentration, shortly before he wrote The Tempest, in [[characters/pericles\|Pericles]], The [[motifs/winter\|Winter]]’s Tale, and [[characters/cymbeline\|Cymbeline]]. But whereas those plays unfold the events as they happen, taking us on a [[motifs/journey\|journey]] through [[motifs/time\|time]] and space, in The Tempest (as elsewhere only in The [[forms/comedy\|Comedy]] of Errors) Shakespeare gives us only the end of the story, concentrating the action into a few hours and locating it in a single place, but informing us about the past, as in the long, romance-type narrative (1.2) in which Prospero tells [[characters/miranda\|Miranda]] of her [[motifs/childhood\|childhood]]. The [[motifs/supernatural\|supernatural]], a strong presence in all Shakespeare’s late plays, is particularly pervasive in The Tempest; Prospero is a ‘white’ magician—a beneficent one—attended by the spirit [[characters/ariel\|Ariel]] and the sub-human [[characters/caliban\|Caliban]], two of Shakespeare’s most obviously symbolic characters; and a climax of the play is the supernaturally induced wedding [[forms/masque\|masque]] that Prospero conjures up for the entertainment and edification of the young lovers, and which vanishes as he remembers [[characters/caliban\|Caliban]]’s plot against his life. |
-| THE PERSONS OF THE | PLAY<br>PROSPERO, the rightful [[characters/duke-of-milan\|Duke of Milan]]<br>[[characters/miranda\|MIRANDA]], his daughter<br><br>[[characters/antonio\|ANTONIO]], his brother, the usurping [[characters/duke-of-milan\|Duke of Milan]]<br>[[characters/alonso\|ALONSO]], [[archetypes/king\|King]] of Naples<br>[[characters/sebastian\|SEBASTIAN]], his brother<br>[[characters/ferdinand\|FERDINAND]], [[characters/alonso\|Alonso]]’s son<br>[[characters/gonzalo\|GONZALO]], an honest old counsellor of Naples<br>[[characters/ariel\|ARIEL]], an airy spirit attendant upon Prospero<br>[[characters/caliban\|CALIBAN]], a savage and deformed native of the island, Prospero’s slave<br>[[characters/trinculo\|TRINCULO]], [[characters/alonso\|Alonso]]’s jester<br>STEFANO, [[characters/alonso\|Alonso]]’s drunken butler<br><br>The MASTER of a [[motifs/ship\|ship]] |
-| SPIRITS | The [[forms/masque\|Masque]]<br>Spirits appearing as: |
-| JUNO | Nymphs, reapers |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[characters/cymbeline|CYMBELINE]]
+OUR first reference to [[characters/cymbeline|Cymbeline]] is a note by the astrologer Simon Forman that he saw the play, probably not long before his [[motifs/death|death]] on 8 September 1611. He refers to the heroine as ‘[[characters/innogen|Innogen]]’, and this name occurs in the sources; the form ‘Imogen’, found only in the Folio, appears to be a misprint. The play’s courtly tone, and the [[forms/masque|masque]]-like quality of, particularly, the episode (5.5.186.1-2) in which Jupiter ‘descends in thunder and [[motifs/lightning|lightning]], sitting upon an eagle’ and ‘throws a thunderbolt’, suggests that as Shakespeare wrote he may have had in mind the audiences and the stage equipment of the Blackfriars theatre, which his company used from the [[motifs/autumn|autumn]] of 1609; and stylistic evidence places the play in about 1610-11. It was first printed in the 1623 Folio, as the last of the tragedies. In fact it is a [[forms/tragicomedy|tragicomedy]], or a romance, telling a complex and implausible tale of events which cause the deaths of certain subsidiary characters ([[characters/cloten|Cloten]], and the [[characters/queen|Queen]]) and bring major characters (including the heroine, [[characters/innogen|Innogen]]) close to [[motifs/death|death]], but which are miraculously resolved in the reunions and reconciliations of the closing scene.
+Shakespeare’s plot reflects a wide range of reading. He took his title and setting from the name and reign of the legendary British [[archetypes/king|king]] [[characters/cymbeline|Cymbeline]], or Cunobelinus, said to have reigned from 33 BC till shortly after the birth of [[characters/christ|Christ]]. [[characters/cymbeline|Cymbeline]] is no chronicle [[concepts/history|history]], but Shakespeare derived some ideas, and many of his characters’ names, from accounts of early British [[concepts/history|history]] in Holinshed’s Chronicles and elsewhere. Drawing partially, it seems, on an old play, The Rare Triumphs of [[motifs/love|Love]] and Fortune (acted 1582, printed 1589), he gives [[characters/cymbeline|Cymbeline]] a daughter, [[characters/innogen|Innogen]], and a wicked second [[characters/queen|Queen]] with a loutish, vicious son, [[characters/cloten|Cloten]], whom she wishes to see on the throne in her husband’s place. [[characters/cymbeline|Cymbeline]], disapproving of his daughter’s [[motifs/marriage|marriage]] to ‘a poor but worthy gentleman’, [[characters/posthumus|Posthumus]] Leonatus, banishes him. The strand of plot showing the outcome of a wager that [[characters/posthumus|Posthumus]], in Rome, lays on his wife’s chastity is indebted, directly or indirectly, to Boccaccio’s Decameron. Another old play, Sir Clyomon and Clamydes (printed in 1599), may have suggested the bizarre scene (4.2) in which [[characters/innogen|Innogen]] mistakes [[characters/cloten|Cloten]]’s headless [[concepts/body|body]] for that of [[characters/posthumus|Posthumus]]; and IIolinshed’s Ilistory of Scotland supplied the episode in which [[characters/cymbeline|Cymbeline]]’s two sons, [[characters/guiderius|Guiderius]] and [[characters/arviragus|Arviragus]], helped only by the old man ([[characters/belarius|Belarius]]) who has brought them up in the wilds of Wales, defeat the entire Roman army.
+The tone of [[characters/cymbeline|Cymbeline]] has puzzled commentators. Its prose and verse style is frequently ornate, sometimes [[concepts/grotesque|grotesque]]. Its characterization often seems deliberately artificial. Extremes are violently juxtaposed, most daringly when [[characters/innogen|Innogen]], supposed dead, is laid beside [[characters/cloten|Cloten]]’s headless [[concepts/body|body]]: the [[concepts/beauty|beauty]] of the verse in which she is mourned, and of the [[motifs/flowers|flowers]] strewn over the bodies, contrasts with the hideous spectacle of the headless corpse; her waking speech is one of Shakespeare’s most thrillingly difficult challenges to his performers. The appearance of Jupiter lifts the action to a new level of even greater implausibility, preparing us for the extraordinary series of revelations by which the play advances to its impossibly happy ending. [[characters/cymbeline|Cymbeline]] has been valued mostly for its portrayal of [[characters/innogen|Innogen]], ideal of womanhood to, especially, Victorian readers and theatre-goers. The play as a whole is a fantasy, an experimental exercise in virtuosity.
+THE PERSONS OF THE PLAY
+[[characters/cymbeline|CYMBELINE]], [[archetypes/king|King]] of Britain
+Princess [[characters/innogen|INNOGEN]], his daughter, later disguised as a man named Fidele
+[[characters/queen|QUEEN]], [[characters/cymbeline|Cymbeline]]’s wife, [[characters/innogen|Innogen]]’s stepmother
+Lord [[characters/cloten|CLOTEN]], her son
+
+[[characters/belarius|BELARIUS]], a banished lord, calling himself Morgan
+CORNELIUS, a physician
+[[characters/helen|HELEN]], a lady attending on [[characters/innogen|Innogen]]
+Two LORDS attending on [[characters/cloten|Cloten]]
+Two GENTLEMEN
+Two British CAPTAINS
+Two JAILERS
+[[characters/posthumus|POSTHUMUS]] Leonatus, a poor gentleman, [[characters/innogen|Innogen]]’s husband
+PISANIO, his servant
+FILARIO, a friend of [[characters/posthumus|Posthumus]]
+Caius [[characters/lucius|LUCIUS]], ambassador from Rome, later General of the Roman forces
+Two Roman SENATORS
+Roman TRIBUNES
+A Roman CAPTAIN
+Philharmonus, a SOOTHSAYER
+JUPITER
+[[archetypes/ghost|Ghost]] of SICILIUS Leonatus, father of [[characters/posthumus|Posthumus]]
+[[archetypes/ghost|Ghost]] of the MOTHER of [[characters/posthumus|Posthumus]]
+[[motifs/ghosts|Ghosts]] of the BROTHERS of [[characters/posthumus|Posthumus]]
+
+Lords attending on [[characters/cymbeline|Cymbeline]], ladies attending on the [[characters/queen|Queen]], musicians attending on [[characters/cloten|Cloten]], messengers, soldiers
+
+[[characters/cymbeline|Cymbeline]], [[archetypes/king|King]] of Britain
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano due Gentiluomini |
+| PRIMO GENTILUOMO | Non incontrate uomo che non aggrotti la fronte. I nostri sangui<br>non obbediscono ai cieli più di quanto i nostri cortigiani<br>non appaiano sempre come appare il [[archetypes/king\|Re]]. |
+| SECONDO GENTILUOMO | Ma che cosa è accaduto? |
+| PRIMO GENTILUOMO | Sua figlia, ed erede del suo regno, ch’egli<br>destinava all’unico figlio della moglie—una vedova<br>che di recente ha sposato—si è data<br>a un gentiluomo povero ma degno. Ella è sposata,<br>il marito bandito, ella imprigionata. Tutto<br>è dolore esteriore, benché io creda che il [[archetypes/king\|Re]]<br>sia toccato nel più profondo del cuore. |
+| SECONDO GENTILUOMO | Nessuno tranne il [[archetypes/king\|Re]]? |
+| PRIMO GENTILUOMO | Anche colui che l’ha perduta. E così la [[characters/queen\|Regina]],<br>che più d’ogni altro bramava quelle nozze. Ma non v’è cortigiano—<br>per quanto pieghino i loro volti alla piega<br>degli sguardi del [[archetypes/king\|Re]]—che abbia un cuore che non<br>gioisca della cosa a cui fanno il viso arcigno. |
+| SECONDO GENTILUOMO | E perché mai? |
+| PRIMO GENTILUOMO | Colui che ha mancato la Principessa è cosa<br>troppo trista perché la mala fama ne parli, e colui che l’ha—<br>voglio dire, che l’ha sposata—ahimè, brav’uomo,<br>e perciò bandito!—è creatura tale<br>che, a cercare per tutte le regioni della terra<br>uno suo pari, qualcosa mancherebbe<br>in chi volesse stargli a paragone. Non credo<br>che sì bella scorza e tale sostanza dentro<br>adornino altr’uomo che lui. |
+| SECONDO GENTILUOMO | Assai in alto lo ponete. |
+| PRIMO GENTILUOMO | Io lo distendo, signore, entro i suoi propri confini;<br>lo comprimo piuttosto che spiegarne<br>la misura come si dovrebbe. |
+| SECONDO GENTILUOMO | Qual è il suo nome e la sua nascita? |
+| PRIMO GENTILUOMO | Non posso scavarlo fino alla radice. Suo padre<br>si chiamava Sicilio, che congiunse il suo [[concepts/honour\|onore]]<br>contro i Romani con Cassibelano,<br>ma ebbe i suoi titoli da Tenanzio, cui<br>servì con gloria e ammirato successo,<br>e così guadagnò il soprannome di ‘Leonato’;<br>ed ebbe, oltre al gentiluomo di cui si parla,<br>altri due figli che nelle guerre di quel [[motifs/time\|tempo]]<br>morirono con la spada in pugno; onde il padre loro,<br>già vecchio e amante della prole, ne prese tal dolore<br>che lasciò la vita, e la sua gentile signora,<br>gravida di questo gentiluomo, nostro tema, trapassò<br>mentre egli nasceva. Il [[archetypes/king\|Re]] prende il fanciullo<br>sotto la sua protezione, lo chiama [[characters/posthumus\|Postumo]] Leonato,<br>lo alleva, e lo fa uomo della sua camera;<br>gli somministra tutte le dottrine di cui il suo [[motifs/time\|tempo]]<br>poteva farlo ricevitore, ed egli le prese<br>come noi l’aria, rapide quanto gli eran porte,<br>e nella sua [[motifs/spring\|primavera]] divenne messe; visse a [[settings/court\|corte]]—<br>cosa rara a farsi—assai lodato, assai amato;<br>esempio ai più giovani, ai più maturi<br>uno specchio che li adornava, e ai più gravi<br>un [[archetypes/child\|fanciullo]] che guidava i rimbambiti. Quanto alla sua signora,<br>per cui ora è bandito, il prezzo ch’ella stessa pagò<br>proclama quanto stimasse lui e la sua virtù.<br>Dalla sua scelta si può leggere in verità<br>che sorta d’uomo egli sia. |
+| SECONDO GENTILUOMO | Io lo [[concepts/honour\|onoro]]<br>già per la vostra sola relazione. Ma ditemi, di grazia,<br>è ella unica [[archetypes/child\|figlia]] del [[archetypes/king\|Re]]? |
+| PRIMO GENTILUOMO | La sua unica [[archetypes/child\|figlia]].<br>Ebbe due figli—se ciò merita il vostro ascolto,<br>notatelo: il maggiore di tre anni,<br>l’altro ancora in fasce, dalla loro stanza<br>furono rapiti, e fino a quest’ora nessuna congettura sa<br>per quale via andarono. |
+| SECONDO GENTILUOMO | Quanto tempo è di ciò? |
+| PRIMO GENTILUOMO | Circa vent’anni. |
+| SECONDO GENTILUOMO | Che i figli d’un [[archetypes/king\|re]] fossero così trafugati,<br>così fiaccamente custoditi, e la ricerca sì lenta<br>da non poterne trovar traccia! |
+| PRIMO GENTILUOMO | Per quanto sia strano,<br>e per quanto della negligenza si possa [[motifs/well\|ben]] ridere,<br>pure è vero, signore. |
+| SECONDO GENTILUOMO | [[motifs/well\|Ben]] vi credo. |
+| *(didascalia)* | Entrano la [[characters/queen\|Regina]], [[characters/posthumus\|Postumo]] e [[characters/innogen\|Innogene]] |
+| PRIMO GENTILUOMO | Dobbiamo tacere. Ecco venire il gentiluomo,<br>la [[characters/queen\|Regina]] e la Principessa. |
+| *(didascalia)* | Escono i due Gentiluomini |
+| [[characters/queen\|REGINA]] | No, siate certa che non mi troverete, figlia,<br>secondo la calunnia che grava su quasi tutte le matrigne,<br>malevola verso di voi. Siete mia prigioniera, ma<br>il vostro carceriere vi consegnerà le chiavi<br>che serrano la vostra prigionia. Quanto a voi, [[characters/posthumus\|Postumo]],<br>non appena potrò guadagnare l’offeso [[archetypes/king\|Re]]<br>mi farò conoscere vostra avvocata. Eppure, in verità,<br>il [[motifs/fire\|fuoco]] dell’ira è in lui, e sarebbe bene<br>che vi piegaste alla sua sentenza con quanta pazienza<br>la vostra saggezza saprà suggerirvi. |
+| [[characters/posthumus\|POSTUMO]] | Piaccia a vostra altezza,<br>partirò di qui oggi stesso. |
+| [[characters/queen\|REGINA]] | Conoscete il pericolo.<br>Farò un giro per il [[motifs/garden\|giardino]], compiangendo<br>gli spasimi degli affetti impediti, benché il [[archetypes/king\|Re]]<br>abbia ordinato che non parliate insieme. Esce |
+| [[characters/innogen\|INNOGENE]] | Oh cortesia simulatrice! Che finezza ha questa [[archetypes/tyrant\|tiranna]]<br>nel solleticare dove ferisce! Carissimo sposo,<br>alquanto [[concepts/fear\|temo]] l’ira di mio padre, ma nulla—<br>salvo sempre il mio santo dovere—di ciò<br>che il suo furore può fare su di me. Tu devi partire,<br>e io resterò qui a sostenere il colpo d’ogni ora<br>di occhi adirati, senza conforto di vivere<br>se non che esiste questo [[motifs/jewel\|gioiello]] al mondo<br>ch’io possa rivedere. |
+| [[characters/posthumus\|POSTUMO]] | Mia [[characters/queen\|regina]], mia signora!<br>Oh dama, non piangere più, ch’io non dia motivo<br>d’esser sospettato di maggior tenerezza<br>di quanta ne convenga a un uomo. Rimarrò<br>il più leale marito che mai desse fede;<br>la mia dimora sarà in Roma, presso un tal Filario,<br>che di mio padre fu amico, e a me<br>noto solo per lettera; là scrivi, mia [[characters/queen\|regina]],<br>e con gli occhi berrò le parole che manderai<br>quand’anche l’inchiostro fosse fatto di fiele. |
+| *(didascalia)* | Entra la [[characters/queen\|Regina]] |
+| [[characters/queen\|REGINA]] | Siate brevi, ve ne prego.<br>Se viene il [[archetypes/king\|Re]], incorrerò non so<br>in quanta parte del suo sdegno. (A parte) Eppure lo spingerò<br>a venire da questa parte. Non gli faccio mai torto<br>senza ch’egli compri le mie offese, per farsi amico,<br>e paghi caro i miei oltraggi. Esce |
+| [[characters/posthumus\|POSTUMO]] | Se prendessimo congedo<br>per tutto il tempo che ancora ci resta da vivere,<br>la ripugnanza a partire crescerebbe. Addio. |
+| [[characters/innogen\|INNOGENE]] | No, resta un poco.<br>Se solo cavalcassi fuori a prender aria<br>un tal congedo sarebbe troppo meschino. Guarda qui, [[motifs/love\|amore]]:<br>questo diamante era di mia madre. Prendilo, cuore;<br>Gli dà un anello<br>ma serbalo finché non corteggerai un’altra sposa,<br>quando [[characters/innogen\|Innogene]] sarà morta. |
+| [[characters/posthumus\|POSTUMO]] | Come, come? Un’altra?<br>Voi, dèi benigni, datemi solo questa ch’io ho,<br>e sigillate i miei amplessi da una seconda<br>con i vincoli della [[motifs/death\|morte]]! Rimani, rimani tu qui<br>Si mette l’anello<br>finché il senso può tenerti; e, dolcissima, bellissima,<br>come io scambiai il mio povero [[concepts/self\|essere]] con te<br>a tua perdita sì infinita, così nei nostri pegni<br>io vinco sempre su di te. Per amor mio porta questo.<br>Le dà un braccialetto<br>È una manetta d’[[motifs/love\|amore]]. La porrò<br>su questa bellissima prigioniera. |
+| [[characters/innogen\|INNOGENE]] | Oh dèi!<br>Quando ci rivedremo? |
+| *(didascalia)* | Entrano [[characters/cymbeline\|Cimbelino]] e i signori |
+| [[characters/posthumus\|POSTUMO]] | Ahimè, il [[archetypes/king\|Re]]! |
+| [[characters/cymbeline\|CIMBELINO]] | Tu, cosa vilissima, sgombra di qui, dalla mia vista!<br>Se dopo questo comando tu carichi la [[settings/court\|corte]]<br>della tua indegnità, morrai. Via.<br>Tu sei [[motifs/poison\|veleno]] per il mio [[motifs/blood\|sangue]]. |
+| [[characters/posthumus\|POSTUMO]] | Gli dèi vi proteggano,<br>e benedicano i buoni che restano alla [[settings/court\|corte]]!<br>Io me ne vado. |
+| *(didascalia)* | Esce |
+| [[characters/innogen\|INNOGENE]] | Non può esservi nella [[motifs/death\|morte]] una stretta<br>più acuta di questa. |
+| [[characters/cymbeline\|CIMBELINO]] | Oh cosa sleale,<br>che dovresti riparare la mia giovinezza, tu accumuli<br>un anno d’età su di me. |
+| [[characters/innogen\|INNOGENE]] | Vi supplico, signore,<br>non fatevi male col vostro cruccio.<br>Io son priva di senso alla vostra ira. Un tocco più raro<br>soggioga ogni spasimo, ogni timore. |
+| [[characters/cymbeline\|CIMBELINO]] | Fuor di grazia, d’obbedienza- |
+| [[characters/innogen\|INNOGENE]] | Fuor di [[concepts/hope\|speranza]] e nella [[concepts/despair\|disperazione]]: per quella via, fuor di grazia. |
+| [[characters/cymbeline\|CIMBELINO]] | Tu che potevi avere l’unico figlio della mia [[characters/queen\|regina]]! |
+| [[characters/innogen\|INNOGENE]] | Oh, benedetta ch’io non lo potei! Scelsi un’aquila<br>ed evitai un nibbio. |
+| [[characters/cymbeline\|CIMBELINO]] | Prendesti un mendico, avresti fatto del mio trono<br>un seggio per la bassezza. |
+| [[characters/innogen\|INNOGENE]] | No, gli aggiunsi piuttosto<br>un lustro. |
+| [[characters/cymbeline\|CIMBELINO]] | Oh tu, vile! |
+| [[characters/innogen\|INNOGENE]] | Signore,<br>è colpa vostra s’io ho amato [[characters/posthumus\|Postumo]].<br>Voi l’allevaste come compagno dei miei giochi, ed egli è<br>uomo degno d’ogni donna, e mi compra oltre il valore<br>di quasi tutta la somma che paga. |
+| [[characters/cymbeline\|CIMBELINO]] | Che? Sei tu impazzita? |
+| [[characters/innogen\|INNOGENE]] | Quasi, signore. Il cielo mi risani! Fossi io<br>figlia d’un bifolco, e il mio Leonato<br>figlio del pastore nostro vicino. |
+| *(didascalia)* | Entra la [[characters/queen\|Regina]] |
+| [[characters/cymbeline\|CIMBELINO]] | Tu, cosa insensata.<br>(Alla [[characters/queen\|Regina]]) Erano di nuovo insieme; non avete fatto<br>secondo il nostro comando. (Ai signori) Portatela via,<br>e rinchiudetela. |
+| [[characters/queen\|REGINA]] | Imploro la vostra pazienza, pace,<br>cara signora figlia, pace. Dolce sovrano,<br>lasciateci a noi stesse, e traete qualche conforto<br>dal vostro miglior consiglio. |
+| [[characters/cymbeline\|CIMBELINO]] | No, ch’ella languisca<br>d’una goccia di [[motifs/blood\|sangue]] al giorno, e, invecchiata,<br>muoia di questa follia. |
+| *(didascalia)* | Esce con i signori |
+| [[characters/queen\|REGINA]] | Suvvia, dovete cedere. |
+| *(didascalia)* | Entra Pisanio |
+| [[characters/queen\|REGINA]] | Ecco il vostro servo. Ebbene, signore? Che nuove? |
+| PISANIO | Il mio signore vostro figlio ha tratto la spada contro il mio padrone. |
+| [[characters/queen\|REGINA]] | Ah!<br>Nessun male, spero, è stato fatto? |
+| PISANIO | Ve ne poteva essere,<br>se non che il mio padrone più giocava che combattesse,<br>e non ebbe soccorso dall’ira. Furono separati<br>da gentiluomini lì presso. |
+| [[characters/queen\|REGINA]] | Ne son molto lieta. |
+| [[characters/innogen\|INNOGENE]] | Vostro figlio è amico di mio padre; ne prende le parti<br>sguainando contro un [[concepts/exile\|esule]]—oh, valoroso signore!<br>Vorrei che fossero entrambi insieme in Africa,<br>e io lì presso con un ago, per pungere<br>chi indietreggiasse. (A Pisanio) Perché siete venuto via dal vostro<br>padrone? |
+| PISANIO | Per suo comando. Non volle permettermi<br>di accompagnarlo al porto, e lasciò questi appunti<br>degli ordini a cui dovrei sottostare<br>quando vi piacesse impiegarmi. |
+| [[characters/queen\|REGINA]] | Costui è stato<br>il vostro fedele servitore. Oso scommettere il mio [[concepts/honour\|onore]]<br>che tale rimarrà. |
+| PISANIO | Umilmente ringrazio vostra altezza. |
+| [[characters/queen\|REGINA]] | Andate a passeggiare un poco, vi prego. |
+| *(didascalia)* | Esce |
+| [[characters/innogen\|INNOGENE]] | Fra circa mezz’ora, vi prego, parlate con me.<br>Andrete almeno a vedere imbarcare il mio signore.<br>Per questa [[motifs/time\|volta]] lasciatemi. |
+| *(didascalia)* | Escono separatamente |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/cloten\|Cloten]] e due Signori |
+| PRIMO SIGNORE | Signore, vi consiglierei di cambiarvi la camicia. La violenza dell’azione vi ha fatto fumare come una vittima sacrificale. Dove esce aria, entra aria. E non ce n’è in giro di così salubre come quella che voi emettete. |
+| [[characters/cloten\|CLOTEN]] | Se la mia camicia fosse insanguinata, allora sì che la cambierei. L’ho ferito? |
+| SECONDO SIGNORE | (a parte) No, in [[concepts/faith\|fede]] mia, nemmeno la sua pazienza. |
+| PRIMO SIGNORE | Ferirlo? Il suo [[concepts/body\|corpo]] è una carcassa da passarci attraverso, se non è ferito. È una strada maestra per l’acciaio, se non è ferito. |
+| SECONDO SIGNORE | (a parte) Il suo acciaio era indebitato: se n’è andato per i vicoli di dietro della città. |
+| [[characters/cloten\|CLOTEN]] | Il [[archetypes/villain\|manigoldo]] non ha voluto tenermi testa. |
+| SECONDO SIGNORE | (a parte) No, ma fuggiva sempre in avanti, verso la vostra faccia. |
+| PRIMO SIGNORE | Tenervi testa? Avete terra a sufficienza di vostro, ma egli ha aggiunto ai vostri averi, vi ha dato un po’ di terreno. |
+| SECONDO SIGNORE | (a parte) Tanti pollici quanti oceani avete voi. Cuccioli! |
+| [[characters/cloten\|CLOTEN]] | Vorrei che non si fossero messi in mezzo fra noi. |
+| SECONDO SIGNORE | (a parte) Lo vorrei anch’io, finché non aveste misurato quanto eravate lungo, da [[archetypes/fool\|sciocco]], disteso per terra. |
+| [[characters/cloten\|CLOTEN]] | E che ella debba [[motifs/love\|amare]] costui e rifiutare me! |
+| SECONDO SIGNORE | (a parte) Se è peccato fare una scelta giusta, ella è dannata. |
+| PRIMO SIGNORE | Signore, come vi ho sempre detto, la sua [[concepts/beauty\|bellezza]] e il suo cervello non vanno insieme. È una bella insegna, ma ho visto poco riflesso del suo ingegno. |
+| SECONDO SIGNORE | (a parte) Ella non risplende sugli sciocchi, per timore che il riflesso le faccia male. |
+| [[characters/cloten\|CLOTEN]] | Su, me ne vado in camera mia. Avrei voluto che si fosse fatto qualche danno. |
+| SECONDO SIGNORE | (a parte) Io non lo desidero, a meno che non fosse stata la caduta di un asino, che non è gran danno. |
+| [[characters/cloten\|CLOTEN]] | (al Secondo Signore) Verrete con noi? |
+| PRIMO SIGNORE | Sarò al seguito di vostra signoria. |
+| [[characters/cloten\|CLOTEN]] | Ma no, venite, andiamo insieme. |
+| SECONDO SIGNORE | [[motifs/well\|Bene]], mio signore. |
+| *(didascalia)* | Escono |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/innogen\|Innogene]] e Pisanio |
+| [[characters/innogen\|INNOGENE]] | Vorrei che tu fossi cresciuto sulle rive del porto<br>e interrogassi ogni vela. Se egli scrivesse<br>e io non l’avessi, sarebbe un foglio perduto<br>come lo è la [[concepts/mercy\|grazia]] offerta. Quale fu l’ultima parola<br>ch’egli ti disse? |
+| PISANIO | Era: la sua [[characters/queen\|regina]], la sua [[characters/queen\|regina]]. |
+| [[characters/innogen\|INNOGENE]] | E poi agitò il fazzoletto? |
+| PISANIO | E lo baciò, signora. |
+| [[characters/innogen\|INNOGENE]] | Tela insensata, più felice in ciò di me!<br>E fu tutto? |
+| PISANIO | No, signora. Poiché per tutto il tempo<br>ch’egli poté farsi da quest’occhio o quest’orecchio<br>distinguere dagli altri, tenne<br>il ponte, con guanto o cappello o fazzoletto<br>sempre agitato, come gli scatti e i moti del suo animo<br>meglio potevano esprimere quanto lenta navigasse la sua [[motifs/soul\|anima]],<br>quanto rapida la sua [[motifs/ship\|nave]]. |
+| [[characters/innogen\|INNOGENE]] | Avresti dovuto farlo<br>piccolo come una cornacchia, o meno, prima di cessare<br>di seguirlo con l’occhio. |
+| PISANIO | Signora, così feci. |
+| [[characters/innogen\|INNOGENE]] | Avrei spezzato i nervi dei miei occhi, li avrei rotti,<br>pur<br>di guardarlo finché il diminuire<br>dello spazio non l’avesse aguzzato sottile come il mio ago;<br>anzi, l’avrei seguito finché non si fosse dileguato<br>dalla piccolezza d’un moscerino nell’aria, e allora<br>avrei volto l’occhio e pianto. Ma, buon Pisanio,<br>quando avremo sue nuove? |
+| PISANIO | Siate certa, signora,<br>alla prima occasione propizia. |
+| [[characters/innogen\|INNOGENE]] | Non presi congedo da lui, eppure avevo<br>tante graziose cose da dirgli. Prima ch’io potessi dirgli<br>come avrei pensato a lui a certe ore,<br>questi e quei pensieri, o potessi fargli giurare<br>che le donne d’[[settings/italy\|Italia]] non avrebbero tradito<br>il mio diritto e il suo [[concepts/honour\|onore]], o l’avessi incaricato<br>alla sesta ora del mattino, a [[motifs/noon\|mezzogiorno]], a mezzanotte<br>d’incontrarmi con le preghiere—ché allora<br>io sono in cielo per lui—o prima ch’io potessi<br>dargli quel bacio d’addio che avevo posto<br>fra due parole d’incanto, entra mio padre,<br>e, come il soffio tirannico della tramontana,<br>scuote tutti i nostri germogli e ne impedisce il crescere. |
+| *(didascalia)* | Entra |
+| [[characters/innogen\|INNOGENE]] | una Dama |
+| DAMA | La [[characters/queen\|Regina]], signora,<br>desidera la compagnia di vostra altezza. |
+| [[characters/innogen\|INNOGENE]] | (a Pisanio)<br>Quelle cose che vi ho ordinato, fatele sbrigare.<br>Io andrò dalla [[characters/queen\|Regina]]. |
+| PISANIO | Signora, così farò. |
+| *(didascalia)* | Escono [[characters/innogen\|Innogene]] e la Dama da una porta, Pisanio da un’altra |
+| *(didascalia)* | Viene portata fuori una tavola, con sopra un banchetto. Entrano Filario, Giacomo, un Francese, un Olandese e uno Spagnolo |
+| GIACOMO | Credetelo, signore, l’ho veduto in Britannia. Era allora di fama crescente, e ci si aspettava che riuscisse degno di quel nome che da allora gli è stato concesso. Ma io avrei potuto allora guardarlo senza l’aiuto dell’ammirazione, quand’anche il catalogo delle sue doti fosse stato disteso al suo fianco e io l’avessi esaminato voce per voce. |
+| FILARIO | Parlate di lui quand’era meno fornito di quanto ora sia di ciò che lo fa quale è di fuori e di dentro. |
+| FRANCESE | L’ho veduto in Francia. Ne avevamo là moltissimi che potevano fissare il sole con occhio altrettanto fermo del suo. |
+| GIACOMO | Questa faccenda d’aver sposato la figlia del suo [[archetypes/king\|re]], nella quale egli dev’essere pesato più sul valore di lei che sul proprio, lo fa parlare, non ne [[concepts/doubt\|dubito]], assai al di là del vero. |
+| FRANCESE | E poi il suo bando. |
+| GIACOMO | Sì, e l’approvazione di quelli che piangono questo lamentevole divorzio sotto i colori di lei serve mirabilmente ad accrescerlo, non fosse che per fortificare il giudizio di lei, che altrimenti una facile batteria potrebbe abbattere, per aver preso un mendico senza altre qualità. Ma come mai egli deve soggiornare presso di voi? Come nasce la conoscenza? |
+| FILARIO | Suo padre e io fummo soldati insieme, e a lui sono stato spesso debitore di niente meno che la vita. |
+| *(didascalia)* | Entra [[characters/posthumus\|Postumo]] |
+| FILARIO | Ecco venire il Britanno. Sia accolto fra voi come si conviene a gentiluomini del vostro sapere verso uno straniero della sua qualità. Vi supplico tutti, fate meglio conoscenza con questo gentiluomo, che vi raccomando come nobile amico mio. Quanto egli valga lascerò che appaia in seguito, piuttosto che narrarlo mentre egli stesso mi ode. |
+| FRANCESE | (a [[characters/posthumus\|Postumo]]) Signore, ci siamo conosciuti a Orléans. |
+| [[characters/posthumus\|POSTUMO]] | E da allora vi sono debitore di cortesie che sarò sempre in atto di pagare, e pur sempre pagherò. |
+| FRANCESE | Signore, sopravvalutate la mia povera gentilezza. Fui lieto di riconciliare voi e il mio compatriota. Sarebbe stato un peccato che foste stati messi l’uno contro l’altro con proposito così mortale come allora ciascuno portava, per una questione di [[concepts/nature\|natura]] tanto lieve e triviale. |
+| [[characters/posthumus\|POSTUMO]] | Col vostro perdono, signore, io ero allora un giovane viaggiatore, più incline a schivare d’andar d’accordo con quanto udivo che a lasciarmi guidare in ogni mio atto dall’esperienza altrui; ma secondo il mio giudizio emendato—se non offendo a dire ch’è emendato—la mia contesa non era del tutto lieve. |
+| FRANCESE | [[concepts/faith\|In fede]], sì, per essere rimessa all’arbitrio delle spade, e da due tali che con ogni verisimiglianza si sarebbero rovinati l’un l’altro, o sarebbero caduti entrambi. |
+| GIACOMO | Possiamo, senza mancare di garbo, chiedere quale fu la differenza? |
+| FRANCESE | Senza pericolo, credo. Fu una contesa in pubblico, che senza contraddizione può sopportare d’esser riferita. Somigliava molto a una disputa scoppiata la scorsa [[motifs/night\|notte]], quando ciascuno di noi si mise a lodare le dame del proprio paese, e questo gentiluomo in quel [[motifs/time\|tempo]] sosteneva—e sotto garanzia di sanguinosa affermazione—che la sua era più bella, virtuosa, saggia, casta, costante, dotata e meno tentabile di qualsiasi, anche la più rara, delle nostre dame di Francia. |
+| GIACOMO | Quella dama ormai non è più viva, oppure l’opinione di questo gentiluomo è a quest’ora consumata. |
+| [[characters/posthumus\|POSTUMO]] | Ella tiene ancora la sua virtù, e io il mio parere. |
+| GIACOMO | Non dovete anteporla così di gran lunga alle nostre d’[[settings/italy\|Italia]]. |
+| [[characters/posthumus\|POSTUMO]] | Provocato tanto quanto lo fui in Francia, non le toglierei nulla, benché io mi professi suo adoratore, non suo amico. |
+| GIACOMO | Bella e buona altrettanto—una sorta di paragone a mano a mano—sarebbe stato alquanto troppo bello e troppo buono per qualsiasi dama di Britannia. Se ella superasse altre ch’io ho veduto—come quel vostro diamante vince di lustro molti che ho contemplati—non potrei non credere ch’ella ne eccella molte; ma io non ho veduto il più prezioso diamante che esista, né voi la dama. |
+| [[characters/posthumus\|POSTUMO]] | Io la lodai come la stimavo; e così faccio della mia pietra. |
+| GIACOMO | A quanto la valutate? |
+| [[characters/posthumus\|POSTUMO]] | Più di quanto il mondo possiede. |
+| GIACOMO | O la vostra impareggiabile signora è morta, o la vince di prezzo un’inezia. |
+| [[characters/posthumus\|POSTUMO]] | V’ingannate. L’una può essere venduta o donata, se ci fosse ricchezza bastante per l’acquisto o merito per il dono. L’altra non è cosa da vendere, ed è solo dono degli dèi. |
+| GIACOMO | Che gli dèi vi hanno dato? |
+| [[characters/posthumus\|POSTUMO]] | E che, per loro grazia, io serberò. |
+| GIACOMO | Potete portarla vostra di titolo; ma, sapete, uccelli forestieri si posano su stagni vicini. Anche il vostro anello può essere rubato; sicché delle vostre due stime inestimabili l’una è fragile, l’altra è affidata al caso. Un ladro astuto o un cortigiano compiuto in quell’arte rischierebbe di guadagnare l’una e l’altra. |
+| [[characters/posthumus\|POSTUMO]] | La vostra [[settings/italy\|Italia]] non contiene cortigiano tanto compiuto da vincere l’[[concepts/honour\|onore]] della mia signora, se nel conservarlo o nel perderlo voi la chiamate fragile. Non [[concepts/doubt\|dubito]] affatto che abbiate dovizia di ladri; ciò nonostante, non [[concepts/fear\|temo]] per il mio anello. |
+| FILARIO | Lasciamo qui, signori. |
+| [[characters/posthumus\|POSTUMO]] | Signore, con tutto il cuore. Questo degno signore, lo ringrazio, non mi tratta da straniero. Siamo familiari fin dal primo momento. |
+| GIACOMO | Con cinque volte tanto discorso io guadagnerei terreno sulla vostra bella signora, la farei retrocedere fino alla resa, se avessi accesso e occasione a mio favore. |
+| [[characters/posthumus\|POSTUMO]] | No, no. |
+| GIACOMO | Oso su ciò impegnare la metà del mio patrimonio contro il vostro anello, che a mio parere lo supera alquanto di valore. Ma faccio la mia scommessa piuttosto contro la vostra sicurezza che contro la reputazione di lei; e, per togliere anche qui ogni vostra offesa, oserei tentarlo contro qualsiasi dama del mondo. in |
+| [[characters/posthumus\|POSTUMO]] | Siete assai ingannato da una troppo ardita persuasione, e non [[concepts/doubt\|dubito]] che riceverete ciò che meritate col vostro tentativo. |
+| GIACOMO | E che sarebbe? |
+| [[characters/posthumus\|POSTUMO]] | Un rifiuto; benché il vostro tentativo, come lo chiamate, meriti di più—anche un castigo. |
+| FILARIO | Signori, basta con questo. È venuto troppo all’improvviso. Muoia com’è nato; e, vi prego, fate miglior conoscenza. |
+| GIACOMO | Vorrei aver messo il mio patrimonio e quello del mio vicino a prova di quanto ho detto. |
+| [[characters/posthumus\|POSTUMO]] | Quale dama scegliereste d’assalire? |
+| GIACOMO | La vostra, che in costanza credete stia così sicura. Vi metto diecimila ducati contro il vostro anello che, raccomandandomi voi alla [[settings/court\|corte]] dove sta la vostra dama, con non altro vantaggio che l’occasione d’un secondo colloquio, io porterò via di là quell’[[concepts/honour\|onore]] di lei che voi immaginate tanto custodito. |
+| [[characters/posthumus\|POSTUMO]] | Scommetterò contro il vostro oro, oro contro oro; il mio anello lo tengo caro quanto il mio dito, ne è parte. |
+| GIACOMO | Siete un amico, e in ciò il più saggio. Se comprate carne di dame a un milione la dramma, non potete preservarla dal guastarsi. Ma vedo che avete in voi qualche religione, poiché [[concepts/fear\|temete]]. |
+| [[characters/posthumus\|POSTUMO]] | Questa non è che un’abitudine della vostra lingua. Nutrite un proposito più grave, lo [[concepts/hope\|spero]]. |
+| GIACOMO | Sono padrone dei miei discorsi, e sosterrei quanto ho detto, lo giuro. |
+| [[characters/posthumus\|POSTUMO]] | Davvero? Io non farò che prestare il mio diamante fino al vostro ritorno. Si stendano patti fra noi. La mia signora eccede in bontà l’enormità del vostro indegno pensare. Vi sfido a questa contesa. Ecco il mio anello. |
+| FILARIO | Non voglio che sia scommessa. |
+| GIACOMO | Per gli dèi, lo è. Se non vi porto testimonianza sufficiente d’aver goduto la più cara parte del corpo della vostra signora, i miei diecimila ducati sono vostri; e così pure il vostro diamante. Se me ne vengo via e la lascio in quell’[[concepts/honour\|onore]] in cui riponete fiducia, ella vostro [[motifs/jewel\|gioiello]], questo vostro [[motifs/jewel\|gioiello]] e il mio oro son vostri, purché io abbia la vostra raccomandazione per essere accolto più liberamente. |
+| [[characters/posthumus\|POSTUMO]] | Accetto queste condizioni; si stendano articoli fra noi. Solo di questo dovrete rispondere: se compite il vostro viaggio contro di lei e mi date direttamente a intendere d’aver prevalso, non vi sono più nemico; ella non vale la nostra contesa. Se rimane non sedotta, e voi non provate il contrario, per la vostra mala opinione e per l’assalto che avrete portato alla sua castità mi risponderete con la vostra spada. |
+| GIACOMO | La vostra mano, un patto. Faremo mettere le cose per iscritto da legale consiglio, e subito via per la Britannia, ché il contratto non prenda freddo e non muoia. Andrò a prendere il mio oro e a far registrare le nostre due scommesse. |
+| [[characters/posthumus\|POSTUMO]] | D’accordo. |
+| *(didascalia)* | Esce con Giacomo |
+| FRANCESE | Reggerà questa cosa, credete? |
+| FILARIO | Il signor Giacomo non se ne ritrarrà. Vi prego, seguiamoli. |
+| *(didascalia)* | Escono. La tavola viene tolta |
+
+### Atto 1, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano la [[characters/queen\|Regina]], le Dame e Cornelio, un medico |
+| [[characters/queen\|REGINA]] | Finché la rugiada è ancora sul suolo, cogliete quei [[motifs/flowers\|fiori]].<br>Fate presto. Chi ne ha la nota?<br>UNA DAMA<br>Io, signora. |
+| [[characters/queen\|REGINA]] | Spicciatevi. |
+| *(didascalia)* | Escono le Dame |
+| [[characters/queen\|REGINA]] | Or dunque, signor Medico, avete portato quelle droghe? |
+| CORNELIO | Piaccia a vostra altezza, sì. Eccole, signora.<br>Le dà una scatola<br>Ma supplico vostra grazia, senza offesa—<br>la mia [[concepts/conscience\|coscienza]] mi comanda di chiedere—perché mi avete<br>ordinato questi composti tanto velenosi,<br>che son promotori d’una [[motifs/death\|morte]] lenta,<br>ma, per lenta che sia, mortale. |
+| [[characters/queen\|REGINA]] | Mi [[concepts/wonder\|meraviglio]], dottore,<br>che tu mi faccia tale domanda. Non sono stata<br>a lungo tua discepola? Non m’hai insegnato come<br>fare profumi, distillare, conservare—sì, tanto<br>che il nostro gran [[archetypes/king\|Re]] stesso spesso mi corteggia<br>per le mie confezioni? Giunta fin qui,<br>a meno che tu non mi creda diabolica, non è forse giusto<br>ch’io ampliassi il mio giudizio in<br>altre conclusioni? Proverò le forze<br>di questi tuoi composti su creature tali<br>che non stimiamo degne d’essere impiccate, ma nessuna umana,<br>per saggiarne il vigore, e applicare<br>rimedi alla loro azione, e da esse raccogliere<br>le loro diverse virtù ed effetti. |
+| CORNELIO | Vostra altezza<br>da questa pratica non trarrà che l’indurimento del cuore.<br>Inoltre, il vedere tali effetti sarà<br>cosa insieme nauseante e contagiosa. |
+| [[characters/queen\|REGINA]] | Oh, contèntati. |
+| *(didascalia)* | Entra Pisanio |
+| [[characters/queen\|REGINA]] | (A parte) Ecco venire un briccone adulatore; su di lui<br>lavorerò per primo. È il fattore del suo padrone,<br>e nemico di mio figlio. (Ad alta voce) Ebbene, Pisanio?—<br>Dottore, il vostro servizio per questa [[motifs/time\|volta]] è finito.<br>Andate per la vostra via. |
+| CORNELIO | (a parte)<br>Vi sospetto, signora.<br>Ma non farete alcun male. |
+| [[characters/queen\|REGINA]] | (a Pisanio)<br>Odimi, una parola. |
+| CORNELIO | (a parte)<br>Ella non mi piace. Crede d’avere<br>strani veleni indugianti. Conosco il suo spirito,<br>e non affiderò a una della sua malizia<br>una droga di [[concepts/nature\|natura]] tanto dannata. Quelle ch’ella ha<br>stupefaranno e ottunderanno i sensi per un poco,<br>e forse prima le proverà su gatti e cani,<br>poi più in alto; ma non v’è<br>pericolo alcuno in quella parvenza di [[motifs/death\|morte]] che producono<br>più che nel serrare gli spiriti per un [[motifs/time\|tempo]],<br>perché siano poi più freschi e rinvigoriti. Ella è gabbata<br>da un effetto affatto falso, e io son tanto più verace<br>quanto più son falso con lei. |
+| [[characters/queen\|REGINA]] | Nessun altro servizio, dottore,<br>finché non mandi a chiamarti. |
+| CORNELIO | Umilmente prendo congedo. |
+| *(didascalia)* | Esce |
+| [[characters/queen\|REGINA]] | (a Pisanio)<br>Piange ancora, dici tu? Credi che col [[motifs/time\|tempo]]<br>ella non si spenga, e non lasci entrare gli ammaestramenti<br>là dove ora regna la follia? Tu lavora.<br>Quando mi porterai parola ch’ella ama mio figlio,<br>ti dirò all’istante che tu sarai allora<br>grande quanto il tuo padrone—più grande, ché<br>le sue fortune giacciono tutte senza voce, e il suo nome<br>è all’ultimo respiro. Tornare non può, né<br>può restare dov’è. Mutare la sua dimora<br>è scambiare una miseria con un’altra,<br>e ogni giorno che viene, viene a far [[motifs/decay\|decadere]]<br>d’un giorno l’opera in lui. Che puoi aspettarti<br>a dipendere da una cosa che pende,<br>che non può essere riedificata né ha amici<br>tanti da poterlo anche solo puntellare? |
+| *(didascalia)* | Ella lascia cadere la scatola. Egli la raccoglie |
+| [[characters/queen\|REGINA]] | Tu raccogli<br>tu non sai che cosa; ma prendila per la tua fatica.<br>È cosa fatta da me, che ha il [[archetypes/king\|Re]]<br>cinque volte riscattato dalla [[motifs/death\|morte]]. Non conosco<br>nulla di più cordiale. Su, ti prego, prendila.<br>È caparra d’un bene maggiore<br>ch’io intendo per te. Di’ alla tua padrona come<br>stia il caso suo; fallo come da te stesso.<br>Pensa a quale sorte tu passi, e pensa<br>che hai ancora la tua padrona; e per giunta mio figlio,<br>che avrà cura di te. Muoverò il [[archetypes/king\|Re]]<br>a qualsiasi forma della tua promozione, tale<br>quale tu la [[motifs/desire\|desidererai]]; e poi io stessa, io soprattutto,<br>che t’ho spinto a questo [[motifs/desert\|merito]], son tenuta<br>a caricare riccamente il tuo valore. Chiama le mie donne.<br>Pensa alle mie parole. |
+| *(didascalia)* | Esce Pisanio |
+| [[characters/queen\|REGINA]] | Un furfante scaltro e costante,<br>che non si può scuotere; l’agente del suo padrone,<br>e colui che a lei rammenta di tener saldo<br>il patto col suo signore. Gli ho dato ciò<br>che, s’egli lo prende, la spoglierà del tutto<br>d’ambasciatori per il suo diletto; e che poi anch’ella,<br>se non piega il suo umore, gusterà<br>di certo. |
+| *(didascalia)* | Entrano Pisanio e le Dame |
+| [[characters/queen\|REGINA]] | Così, così; [[motifs/well\|ben]] fatto, [[motifs/well\|ben]] fatto.<br>Le violette, le primule odorose e le primavere<br>portatele nel mio gabinetto. Sta’ [[motifs/well\|bene]], Pisanio.<br>Pensa alle mie parole, Pisanio. |
+| PISANIO | Così farò. |
+| *(didascalia)* | Escono la [[characters/queen\|Regina]] e le Dame |
+| PISANIO | Ma quando io sarò infedele al mio buon signore,<br>mi strozzerò da me—ecco tutto quel che farò per voi. |
+| *(didascalia)* | Esce |
+
+### Atto 1, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/innogen\|Innogene]] |
+| [[characters/innogen\|INNOGENE]] | Un padre crudele e una matrigna falsa,<br>uno sciocco pretendente a una dama sposata<br>che ha il marito bandito. Oh, quel marito,<br>suprema [[motifs/crown\|corona]] del mio dolore, e quelle ripetute<br>angustie che ne vengono! Fossi stata rapita dai ladri,<br>come i miei due fratelli, sarei felice; ma il più misero<br>è il [[motifs/desire\|desiderio]] che è glorioso. Benedetti coloro,<br>per umili che siano, che compiono i loro onesti voleri,<br>ai quali il tempo dà [[motifs/seasons\|stagione]] di conforto. |
+| *(didascalia)* | Entrano Pisanio e Giacomo |
+| [[characters/innogen\|INNOGENE]] | Chi mai può essere costui? Ohibò! |
+| PISANIO | Signora, un nobile gentiluomo di Roma<br>viene dal mio signore con lettere. |
+| GIACOMO | Mutate colore, signora?<br>Il degno Leonato è al sicuro,<br>e saluta caramente vostra altezza.<br>Le dà le lettere |
+| [[characters/innogen\|INNOGENE]] | Grazie, buon signore.<br>Siete gentilmente il benvenuto.<br>Legge le lettere |
+| GIACOMO | (a parte)<br>Tutto ciò che di lei è al di fuori è ricchissimo!<br>Se è fornita d’una mente altrettanto rara,<br>ella è sola, l’araba fenice, e io<br>ho perduto la scommessa. L’ardire mi sia amico;<br>l’audacia m’armi dal capo ai piedi,<br>o, come il Parto, dovrò combattere fuggendo;<br>anzi, fuggire senz’altro. |
+| [[characters/innogen\|INNOGENE]] | (legge ad alta voce) ’Egli è dei più nobili di fama, alle cui gentilezze sono infinitamente legato. Trattatelo di conseguenza, se avete cara la stima del<br>Vostro fedelissimo<br>Leonato.’<br>(A Giacomo) Fin qui ho letto ad alta voce,<br>ma il mezzo stesso del mio cuore<br>è riscaldato dal resto, e lo accoglie con gratitudine.<br>Siete il benvenuto, degno signore, quanto io<br>ho parole per dirvelo, e tale mi troverete<br>in tutto ciò che posso fare. |
+| GIACOMO | Grazie, bellissima dama.<br>Che? Sono impazziti gli uomini? La [[concepts/nature\|natura]] ha dato loro occhi<br>per vedere questa volta arcuata e la ricca messe<br>del mare e della terra, occhi che sanno distinguere<br>fra gli orbi di fuoco lassù e i ciottoli gemelli<br>sulla spiaggia innumerabile; e non sappiamo noi<br>far distinzione con occhiali sì preziosi<br>fra il bello e il turpe? |
+| [[characters/innogen\|INNOGENE]] | Che cosa vi fa stupire? |
+| GIACOMO | Non può essere nell’occhio—ché scimmie e bertucce,<br>fra due tali femmine, cinguetterebbero da questa parte<br>e sprezzerebbero l’altra con smorfie; né nel giudizio,<br>ché in questo caso di grazia perfino gli idioti<br>sarebbero saggiamente risoluti; né nell’appetito—<br>la sozzura, opposta a sì netta eccellenza,<br>farebbe vomitare al [[motifs/desire\|desiderio]] il suo vuoto,<br>non allettato a pascersene. |
+| [[characters/innogen\|INNOGENE]] | Di che si tratta, dunque? |
+| GIACOMO | La volontà nauseata,<br>quel [[motifs/desire\|desiderio]] sazio e pur mai satollo, quel tino<br>insieme colmo e traboccante, che prima divora l’[[motifs/lamb\|agnello]]<br>e poi agogna la carogna. |
+| [[characters/innogen\|INNOGENE]] | Che cosa, caro signore,<br>così vi rapisce? State [[motifs/well\|bene]]? |
+| GIACOMO | Grazie, signora, [[motifs/well\|bene]]. (A Pisanio) Vi supplico, signore,<br>[[motifs/desire\|chiedete]] che il mio servo resti dove l’ho lasciato.<br>È forestiero e ombroso. |
+| PISANIO | Andavo appunto, signore,<br>a dargli il benvenuto. |
+| *(didascalia)* | Esce |
+| [[characters/innogen\|INNOGENE]] | Continua a star [[motifs/well\|bene]] il mio signore?<br>La sua salute, di grazia? |
+| GIACOMO | [[motifs/well\|Bene]], signora. |
+| [[characters/innogen\|INNOGENE]] | È disposto all’allegria? Lo [[concepts/hope\|spero]]. |
+| GIACOMO | Straordinariamente lieto; nessuno straniero là<br>è tanto gaio e tanto giocondo. Lo chiamano<br>il Gaudente Britanno. |
+| [[characters/innogen\|INNOGENE]] | Quando era qui<br>inclinava alla tristezza, e spesso<br>senza saperne il perché. |
+| GIACOMO | Non l’ho mai visto triste.<br>V’è un Francese suo compagno, un<br>eminente monsieur che, a quel che pare, molto ama<br>una fanciulla gallica in [[motifs/home\|patria]]. Costui manda fuori come da fornace<br>i suoi densi sospiri, mentre il giocondo Britanno—<br>il vostro signore, intendo—ride a polmoni liberi,<br>e grida: ‘Oh,<br>reggeranno i miei fianchi, a pensare che un uomo il quale sa<br>per [[concepts/history\|storia]], per fama o per propria prova<br>che cosa sia la donna, sì, che cosa non possa non essere,<br>voglia languire nelle sue ore libere<br>per una schiavitù sicura?’ |
+| [[characters/innogen\|INNOGENE]] | Direbbe così il mio signore? |
+| GIACOMO | Sì, signora, con gli occhi inondati dal riso.<br>È uno spasso starvi accanto<br>e udirlo beffare il Francese. Ma il cielo<br>sa<br>che certi uomini sono assai da biasimare. |
+| [[characters/innogen\|INNOGENE]] | Non lui, lo [[concepts/hope\|spero]]. |
+| GIACOMO | Non lui; eppure la munificenza del cielo verso di lui<br>potrebbe essere usata con più gratitudine. In sé è molto;<br>in voi, che io conto sua, oltre ogni talento.<br>Mentre son costretto a [[concepts/wonder\|meravigliarmi]], son costretto<br>anche a compiangere. |
+| [[characters/innogen\|INNOGENE]] | Che cosa compiangete, signore? |
+| GIACOMO | Due creature, di cuore. |
+| [[characters/innogen\|INNOGENE]] | Sono io una, signore?<br>Voi mi guardate; qual rovina scorgete in me<br>che meriti la vostra pietà? |
+| GIACOMO | Lamentevole! Che,<br>nascondermi dal sole radioso, e cercar conforto<br>in un sotterraneo presso un moccolo? |
+| [[characters/innogen\|INNOGENE]] | Vi prego, signore,<br>date con maggior chiarezza le vostre risposte<br>alle mie domande. Perché mi compiangete? |
+| GIACOMO | Che altri godano—<br>stavo per dire il vostro—ma<br>è ufficio degli dèi vendicarlo,<br>non mio parlarne. |
+| [[characters/innogen\|INNOGENE]] | Voi sembrate sapere<br>qualcosa di me, o che mi riguarda. Vi prego,<br>poiché dubitare che le cose vadano male spesso duole più<br>che l’esserne certi—ché le certezze<br>o sono senza rimedio, o, conosciute per tempo,<br>fanno nascere allora il rimedio—svelatemi<br>ciò che insieme spronate e trattenete. |
+| GIACOMO | Avessi io questa guancia<br>su cui bagnare le mie labbra; questa mano il cui tocco,<br>ogni cui tocco, costringerebbe l’[[motifs/soul\|anima]] di chi lo sente<br>al giuramento di fedeltà; questo oggetto che<br>fa prigioniero il moto vagante del mio occhio,<br>fissandolo qui soltanto: dovrei io, dannato allora,<br>sbavare con labbra comuni come le scale<br>che salgono al Campidoglio; stringere mani<br>indurite dalla falsità d’ogni ora—falsità<br>come da fatica; e poi spiare in un occhio<br>vile e senza lustro come la luce fumosa<br>nutrita di sego fetido—sarebbe giusto<br>che tutte le pesti dell’inferno in un sol [[motifs/time\|tempo]]<br>incontrassero tale rivolta. |
+| [[characters/innogen\|INNOGENE]] | Il mio signore, io [[concepts/fear\|temo]],<br>ha dimenticato la Britannia. |
+| GIACOMO | E se stesso. Non son io,<br>inclinato a questa rivelazione, a proclamare<br>la miseria del suo mutamento, ma son le vostre grazie<br>che dalla mia più muta [[concepts/conscience\|coscienza]] alla mia lingua<br>traggono per incanto questo racconto. |
+| [[characters/innogen\|INNOGENE]] | Non voglio udirne più. |
+| GIACOMO | Oh carissima [[motifs/soul\|anima]], la vostra causa mi colpisce il cuore<br>d’una pietà che mi fa male. Una dama<br>sì bella, e legata a un impero<br>che farebbe [[topoi/double\|doppio]] il più gran [[archetypes/king\|re]], accoppiata<br>a sgualdrinelle assoldate con quel [[concepts/self\|medesimo]] assegno<br>che i vostri scrigni rendono; con avventuriere malate<br>che per oro trafficano d’ogni infermità<br>che la putredine possa prestare alla [[concepts/nature\|natura]]; tal roba bollita<br>che [[motifs/well\|ben]] potrebbe [[motifs/poison\|avvelenare]] il [[motifs/poison\|veleno]]! Vendicatevi,<br>o colei che vi generò non fu [[characters/queen\|regina]], e voi<br>rinculate dal vostro gran ceppo. |
+| [[characters/innogen\|INNOGENE]] | Vendicarmi?<br>Come dovrei vendicarmi? Se questo è vero—<br>ché ho tal cuore che le mie orecchie<br>non devono in fretta ingannarlo—se è vero,<br>come dovrei vendicarmi? |
+| GIACOMO | S’egli mi facesse<br>vivere come sacerdote di [[characters/diana\|Diana]] fra lenzuola fredde<br>mentre egli monta rampe d’ogni sorta,<br>a vostro dispetto e a spese della vostra borsa—[[concepts/revenge\|vendicatevene]].<br>Io mi dedico al vostro dolce piacere,<br>più nobile di quel rinnegato per il vostro letto,<br>e resterò saldo al vostro affetto,<br>sempre segreto quanto sicuro. |
+| [[characters/innogen\|INNOGENE]] | Olà, Pisanio! |
+| GIACOMO | Lasciate ch’io offra il mio servizio sulle vostre labbra. |
+| [[characters/innogen\|INNOGENE]] | Via, io condanno le mie orecchie che t’hanno<br>ascoltato così a lungo. Se tu fossi onorevole<br>avresti raccontato questa storia per virtù, non<br>per il fine che cerchi, tanto vile quanto strano.<br>Tu fai torto a un gentiluomo che è tanto lontano<br>dalla tua relazione quanto tu dall’[[concepts/honour\|onore]], e<br>sollecìti qui una dama che disdegna<br>te e il diavolo egualmente. Olà, Pisanio!<br>Il [[archetypes/king\|Re]] mio padre sarà informato<br>del tuo assalto. Se egli riterrà conveniente<br>che uno straniero insolente faccia mercato nella sua [[settings/court\|corte]]<br>come in un lupanare romano, e ci esponga<br>la sua mente bestiale, egli ha una [[settings/court\|corte]]<br>di cui poco si cura, e una figlia<br>che punto non rispetta. Olà, Pisanio! |
+| GIACOMO | Oh felice Leonato! Posso ben dire<br>che la fede che la tua dama ha in te<br>merita la tua fiducia, e la tua perfettissima bontà<br>la sicura fede di lei. Vivete a lungo benedetta,<br>dama del più degno signore che mai<br>paese chiamò suo; e voi sua sposa, adatta<br>solo al più degno di tutti. Datemi il vostro perdono.<br>Ho detto questo per sapere se la vostra fiducia<br>fosse profondamente radicata, e farò del vostro signore<br>quel che egli è, di nuovo; ed egli è uomo<br>dai costumi più veraci, un santo [[characters/witch\|incantatore]]<br>tale che attira a sé per magia intere brigate;<br>metà dei cuori di tutti gli uomini sono suoi. |
+| [[characters/innogen\|INNOGENE]] | Voi riparate. |
+| GIACOMO | Egli siede fra gli uomini come un dio disceso.<br>Ha una sorta d’[[concepts/honour\|onore]] che lo fa apparire<br>più che mortale in sembianza. Non adiratevi,<br>potentissima principessa, ch’io mi sia avventurato<br>a saggiare come accogliereste una falsa relazione, la quale ha<br>onorato con conferma il vostro gran giudizio<br>nella scelta d’un signore sì raro,<br>che voi sapete non può errare. L’[[motifs/love\|amore]] ch’io gli porto<br>mi fece così ventilarvi, ma gli dèi vi fecero,<br>a differenza di tutte le altre, senza pula. Perdonatemi, vi prego. |
+| [[characters/innogen\|INNOGENE]] | Tutto va [[motifs/well\|bene]], signore. Prendete come vostro il mio potere nella [[settings/court\|corte]]. |
+| GIACOMO | I miei umili ringraziamenti. Avevo quasi dimenticato<br>di supplicare vostra grazia d’una piccola richiesta,<br>e pure di momento, ché concerne<br>il vostro signore; io stesso e altri nobili amici<br>siamo soci nell’affare. |
+| [[characters/innogen\|INNOGENE]] | Di grazia, che cos’è? |
+| GIACOMO | Una dozzina di noi Romani, e il vostro signore—<br>penna migliore della nostra ala—hanno unito le somme<br>per comprare un dono all’Imperatore,<br>ciò ch’io, fattore per gli altri, ho fatto<br>in Francia. È vasellame di rara fattura, e gioielli<br>di ricca ed esquisita forma; il loro valore è grande,<br>e io son piuttosto ansioso, essendo forestiero,<br>d’averli in custodia sicura. Vi piacerebbe<br>prenderli sotto la vostra protezione? |
+| [[characters/innogen\|INNOGENE]] | Volentieri,<br>e impegno il mio [[concepts/honour\|onore]] per la loro sicurezza; poiché<br>il mio signore vi ha interesse, li terrò<br>nella mia camera da letto. |
+| GIACOMO | Sono in un baule<br>custodito dai miei uomini. Mi prenderò l’ardire<br>di mandarveli, solo per questa [[motifs/night\|notte]].<br>Domani devo imbarcarmi. |
+| [[characters/innogen\|INNOGENE]] | Oh, no, no! |
+| GIACOMO | Sì, ve ne supplico, o mancherò alla mia parola<br>allungando il mio ritorno. Dalla Gallia<br>ho traversato i mari apposta e per promessa<br>di vedere vostra grazia. |
+| [[characters/innogen\|INNOGENE]] | Vi ringrazio della vostra fatica;<br>ma non partire domani! |
+| GIACOMO | Oh, devo, signora.<br>Perciò vi supplicherò, se vi piace<br>di salutare per iscritto il vostro signore, di farlo stanotte.<br>Ho oltrepassato il mio [[motifs/time\|tempo]], il che importa<br>alla consegna del nostro dono. |
+| [[characters/innogen\|INNOGENE]] | Scriverò.<br>Mandatemi il vostro baule, sarà custodito sicuro<br>e fedelmente reso a voi. Siete molto benvenuto. |
+| *(didascalia)* | Escono separatamente |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/cloten\|Cloten]] e i due Signori |
+| [[characters/cloten\|CLOTEN]] | Ci fu mai uomo con tanta fortuna? Quando avevo baciato il boccino con un tiro alto, essermelo fatto scacciare! Ci avevo cento sterline sopra; e poi un figlio di puttana d’un babbuino deve riprendermi perché bestemmio, come se le mie bestemmie le avessi prese in prestito da lui, e non potessi spenderle a mio piacimento. |
+| PRIMO SIGNORE | Che ci ha guadagnato? Voi gli avete rotto la zucca con la vostra boccia. |
+| SECONDO SIGNORE | (a parte) Se il suo cervello fosse stato come quello di chi gliel’ha rotta, sarebbe colato via tutto. |
+| [[characters/cloten\|CLOTEN]] | Quando un gentiluomo ha voglia di bestemmiare non tocca a chi sta a guardare accorciargli le bestemmie, eh? |
+| SECONDO SIGNORE | No, mio signore (a parte)—né tosarne le orecchie. |
+| [[characters/cloten\|CLOTEN]] | Cane figlio di puttana! Dar soddisfazione a lui? Fosse stato del mio rango. |
+| SECONDO SIGNORE | (a parte) Per puzzare da [[archetypes/fool\|sciocco]]. |
+| [[characters/cloten\|CLOTEN]] | Non c’è cosa al mondo che più mi irriti. Maledizione, preferirei non essere così nobile come sono. Non osano battersi con me a causa della [[characters/queen\|Regina]], mia madre. Ogni servaccio si empie la pancia di duelli, e io devo andare su e giù come un gallo con cui nessuno può misurarsi. |
+| SECONDO SIGNORE | (a parte) Siete gallo e cappone insieme, se cantate da gallo con la vostra cresta addosso. |
+| [[characters/cloten\|CLOTEN]] | Che dici? |
+| SECONDO SIGNORE | Non conviene che vostra signoria affronti ogni compagnone che offende. |
+| [[characters/cloten\|CLOTEN]] | No, questo lo so; ma conviene ch’io commetta offesa contro i miei inferiori. |
+| SECONDO SIGNORE | Sì, ciò conviene a vostra signoria soltanto. |
+| [[characters/cloten\|CLOTEN]] | Ecco, è quel che dico. |
+| PRIMO SIGNORE | Avete sentito d’uno straniero giunto a [[settings/court\|corte]] stanotte? |
+| [[characters/cloten\|CLOTEN]] | Uno straniero, e io non saperlo? |
+| SECONDO SIGNORE | (a parte) È lui stesso un tipo strano, e non lo sa. |
+| PRIMO SIGNORE | È giunto un Italiano, e, si crede, uno degli amici di Leonato. |
+| [[characters/cloten\|CLOTEN]] | Leonato? Un furfante bandito; e l’altro è un altro tale, chiunque sia. Chi vi ha parlato di questo straniero? |
+| PRIMO SIGNORE | Uno dei paggi di vostra signoria. |
+| [[characters/cloten\|CLOTEN]] | Conviene ch’io vada a vederlo? Non c’è in ciò nessuna degradazione? |
+| SECONDO SIGNORE | Voi non potete degradarvi, mio signore. |
+| [[characters/cloten\|CLOTEN]] | Non facilmente, credo. |
+| SECONDO SIGNORE | (a parte) Siete [[archetypes/fool\|sciocco]] riconosciuto, perciò i vostri atti, essendo sciocchi, non vi degradano. |
+| [[characters/cloten\|CLOTEN]] | Su, andrò a vedere quest’Italiano. Quel che ho perduto oggi alle bocce lo vincerò stanotte da lui. Su, andiamo. |
+| SECONDO SIGNORE | Sarò al seguito di vostra signoria. |
+| *(didascalia)* | Escono [[characters/cloten\|Cloten]] e il Primo Signore |
+| SECONDO SIGNORE | Che un diavolo tanto astuto quanto è sua madre<br>abbia dato al mondo quest’asino!—una donna che<br>tutto abbatte col suo cervello, e questo suo figlio<br>non sa, quand’anche ne andasse la vita, togliere due da venti<br>e lasciarne diciotto. Ahimè, povera principessa,<br>tu, divina [[characters/innogen\|Innogene]], che cosa sopporti,<br>fra un padre governato dalla tua matrigna,<br>una madre che d’ora in ora conia trame, un pretendente<br>più odioso della turpe espulsione<br>del tuo caro sposo, e di quell’orrendo atto<br>del divorzio che vorrebbe fare! Il cielo tenga saldi<br>i muri del tuo caro [[concepts/honour\|onore]], serbi non scosso<br>quel tempio, la tua bella mente, sì che tu possa reggere<br>a goderti il tuo signore bandito e questa gran terra! Esce |
+
+### Atto 2, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Un baule e un arazzo. Viene spinto avanti un letto con [[characters/innogen\|Innogene]] dentro, che legge un libro. Entra da lei [[characters/helen\|Elena]], una dama |
+| [[characters/innogen\|INNOGENE]] | Chi è là? La mia donna [[characters/helen\|Elena]]? |
+| [[characters/helen\|ELENA]] | Piaccia a voi, signora. |
+| [[characters/innogen\|INNOGENE]] | Che ora è? |
+| [[characters/helen\|ELENA]] | Quasi mezzanotte, signora. |
+| [[characters/innogen\|INNOGENE]] | Ho letto tre ore, dunque. I miei occhi son deboli.<br>Piega l’angolo della pagina dove ho lasciato. A letto.<br>Non portar via la candela; lasciala accesa,<br>e se puoi svegliarti alle quattro dell’[[motifs/clock\|orologio]],<br>ti prego, chiamami. Il [[motifs/sleep\|sonno]] mi ha presa tutta. |
+| *(didascalia)* | Esce [[characters/helen\|Elena]] |
+| [[characters/innogen\|INNOGENE]] | Alla vostra protezione mi affido, o dèi.<br>Dalle fate e dai tentatori della [[motifs/night\|notte]]<br>guardatemi, ve ne supplico.<br>Si addormenta.<br>Giacomo esce dal baule |
+| GIACOMO | Cantano i grilli, e il senso dell’uomo affaticato<br>si ristora col riposo. Così il nostro [[characters/tarquin\|Tarquinio]]<br>premeva piano i giunchi prima di destare<br>la castità che ferì. Citerea,<br>come nobilmente adorni il tuo letto! Giglio fresco,<br>e più bianco delle lenzuola! Potessi toccare,<br>solo baciare, un bacio! Rubini impareggiabili,<br>con quanta grazia lo fanno! È il suo respiro che<br>così profuma la stanza. La fiamma della candela<br>si china verso di lei, e vorrebbe spiare sotto le sue palpebre<br>per vedere le luci rinchiuse, ora coperte<br>sotto queste finestre bianche e trapunte d’azzurro<br>col celeste della tinta stessa del cielo. Ma il mio disegno-<br>notare la stanza. Scriverò tutto.<br>Scrive nelle sue tavolette<br>Tali e tali quadri, là la [[motifs/window\|finestra]], tale<br>l’ornamento del suo letto, l’arazzo, le figure,<br>ecco, tali e tali; e il contenuto della storia.<br>Ah, ma alcuni segni naturali sul suo [[concepts/body\|corpo]]<br>testimonierebbero, più di diecimila suppellettili minori,<br>ad arricchire il mio inventario.<br>Oh [[motifs/sleep\|sonno]], tu scimmia della [[motifs/death\|morte]], giaci greve su di lei,<br>e sia il suo senso non altro che un monumento<br>giacente così in una cappella. Vien via, vien via;<br>tanto scorrevole quanto duro era il nodo gordiano.<br>Le toglie il braccialetto dal braccio<br>È mio, e questo testimonierà di fuori,<br>fortemente quanto la [[concepts/conscience\|coscienza]] fa di dentro,<br>fino a far impazzire il suo signore. Sulla mammella sinistra<br>un neo, a cinque punti, come le gocce cremisi<br>in [[characters/bottom\|fondo]] a una primula. Ecco una prova<br>più forte di quante mai legge potesse fare. Questo segreto<br>lo costringerà a credere ch’io ho forzato la serratura e<br>preso<br>il tesoro del suo [[concepts/honour\|onore]]. Basta. A che fine?<br>Perché dovrei scrivere ciò che è ribadito,<br>avvitato alla mia [[motifs/memory\|memoria]]? Ha letto fino a tardi<br>la storia di Tereo. Qui la pagina è ripiegata<br>là dove Filomela cedette. Ho abbastanza.<br>Di nuovo nel baule, e serrarne la [[motifs/spring\|molla]].<br>Presto, presto, voi draghi della [[motifs/night\|notte]], ché l’alba<br>scopra l’occhio del corvo! Io alloggio nella [[concepts/fear\|paura]].<br>Benché questa sia un angelo celeste, qui è l’inferno.<br>L’[[motifs/clock\|orologio]] batte<br>Uno, due, tre. [[motifs/time\|Tempo]], [[motifs/time\|tempo]]! |
+| *(didascalia)* | Esce nel baule. Il letto e il baule vengono portati via |
+
+### Atto 2, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/cloten\|Cloten]] e i due Signori |
+| PRIMO SIGNORE | Vostra signoria è l’uomo più paziente nella perdita, il più freddo che mai abbia scoperto un asso. |
+| [[characters/cloten\|CLOTEN]] | Perdere farebbe venire freddo a chiunque. |
+| PRIMO SIGNORE | Ma non renderebbe chiunque paziente secondo il nobile temperamento di vostra signoria. Voi siete caldissimo e furioso quando vincete. |
+| [[characters/cloten\|CLOTEN]] | Il vincere mette [[concepts/courage\|coraggio]] in qualunque uomo. Se potessi avere questa sciocca [[characters/innogen\|Innogene]] avrei oro a sufficienza. È quasi mattino, non è vero? |
+| PRIMO SIGNORE | È giorno, mio signore. |
+| [[characters/cloten\|CLOTEN]] | Vorrei che venisse questa musica. Mi si consiglia di darle musica al mattino; dicono che penetri. |
+| *(didascalia)* | Entrano i Musici |
+| [[characters/cloten\|CLOTEN]] | Su, accordate. Se potete penetrarla col vostro diteggiare, bene; proveremo anche con la lingua. Se nulla giova, che rimanga com’è; ma io non desisterò mai. Prima una cosa arguta ed eccellente; poi un’aria mirabilmente dolce con parole ricche e ammirevoli; e poi ci pensi lei. |
+| *(didascalia)* | Musica |
+| *(didascalia)* | MUSICO (canta) |
+| [[characters/cloten\|CLOTEN]] | Odi, odi, l’allodola alla porta del cielo canta,<br>e Febo comincia a salire,<br>ad [[motifs/water\|abbeverare]] i suoi corsieri a quelle fonti<br>che sui [[motifs/flowers\|fiori]] socchiusi stanno,<br>e i bocci assonnati di Maria cominciano ad aprire i loro occhi d’oro;<br>con tutto ciò che è vago, dolce mia signora, sorgi,<br>sorgi, sorgi! |
+| [[characters/cloten\|CLOTEN]] | Così, andatevene. Se questo penetra, terrò in maggior conto la vostra musica; se non penetra, è un vizio nelle sue orecchie che né crini di [[motifs/horse\|cavallo]] né budella di vitello, né per giunta la voce d’un eunuco intatto, potranno mai emendare. |
+| *(didascalia)* | Escono i Musici |
+| *(didascalia)* | Entrano [[characters/cymbeline\|Cimbelino]] e la [[characters/queen\|Regina]] |
+| SECONDO SIGNORE | Ecco venire il [[archetypes/king\|Re]]. |
+| [[characters/cloten\|CLOTEN]] | Son lieto d’essere stato in piedi così tardi, ché per questo son levato così presto. Non può non prendere paternamente questo servigio che ho reso. Buon giorno a vostra maestà, e alla mia graziosa madre. |
+| [[characters/cymbeline\|CIMBELINO]] | Fate voi la posta alla porta della nostra dura figlia?<br>Non vuol venir fuori? |
+| [[characters/cloten\|CLOTEN]] | L’ho assalita con musiche, ma non si degna di darne cenno. |
+| [[characters/cymbeline\|CIMBELINO]] | L’[[concepts/exile\|esilio]] del suo favorito è troppo recente.<br>Non l’ha ancora dimenticato. Occorre altro [[motifs/time\|tempo]]<br>perché ne logori l’impronta nella memoria,<br>e allora ella è vostra. |
+| [[characters/queen\|REGINA]] | (a [[characters/cloten\|Cloten]]) Voi siete assai obbligato al [[archetypes/king\|Re]],<br>che non lascia sfuggire vantaggio alcuno che possa<br>innalzarvi a sua figlia. Disponetevi<br>a corteggiamenti regolari, e fatevi amica<br>l’opportunità della stagione. Fate che i rifiuti<br>accrescano i vostri servigi; sì da parere<br>ispirato a compiere quei doveri<br>che le offrite; e ch’ella in tutto vi trovi obbediente,<br>salvo quando l’ordine tende al vostro congedo:<br>in ciò siate insensibile. |
+| [[characters/cloten\|CLOTEN]] | Insensibile? Niente affatto. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | (a [[characters/cymbeline\|Cimbelino]])<br>Se vi piace, signore, ambasciatori da Roma;<br>l’uno è Caio [[characters/lucius\|Lucio]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Uomo degno,<br>benché ora venga per fine adirato:<br>ma non è colpa sua. Dobbiamo riceverlo<br>secondo l’[[concepts/honour\|onore]] di chi lo manda,<br>e verso lui stesso, per la sua bontà già spesa a nostro favore,<br>dobbiamo estendere il nostro riguardo. Caro figlio nostro,<br>quando avrete dato il buon giorno alla vostra signora,<br>venite dalla [[characters/queen\|Regina]] e da noi. Avremo bisogno<br>d’impiegarvi presso questo Romano. Venite, nostra [[characters/queen\|regina]]. |
+| *(didascalia)* | Escono tutti tranne |
+| [[characters/cymbeline\|CIMBELINO]] | [[characters/cloten\|Cloten]] |
+| [[characters/cloten\|CLOTEN]] | S’ella è alzata, le parlerò; se no,<br>che giaccia pure e sogni. |
+| *(didascalia)* | Bussa |
+| [[characters/cloten\|CLOTEN]] | Col vostro permesso, olà!—<br>So che le sue donne le stanno intorno; e che<br>se io ungessi la mano a una di loro? È l’oro<br>che compra l’accesso—spesso è così—sì, e rende<br>falsi i guardaboschi di [[characters/diana\|Diana]], che cedono<br>la loro cerva alla posta del bracconiere; ed è l’oro<br>che fa uccidere l’onesto e salva il ladro,<br>anzi, talvolta impicca insieme ladro e onesto. Che cosa<br>non può fare e disfare? Farò<br>di una delle sue donne il mio avvocato, ché<br>io stesso non intendo ancora la causa.—<br>Col vostro permesso.<br>Bussa. Entra una Dama |
+| DAMA | Chi è là che bussa? |
+| [[characters/cloten\|CLOTEN]] | Un gentiluomo. |
+| DAMA | Non altro? |
+| [[characters/cloten\|CLOTEN]] | Sì, e figlio di gentildonna. |
+| DAMA | Questo è più |
+| *(didascalia)* | A parte Di quanto alcuni, i cui sarti son cari quanto i |
+| DAMA | vostri,<br>possano giustamente vantare. (A lui) Qual è il piacere di vostra<br>signoria? |
+| [[characters/cloten\|CLOTEN]] | La persona della vostra signora. È pronta? |
+| DAMA | Sì. |
+| *(didascalia)* | A parte A tenersi in camera. |
+| [[characters/cloten\|CLOTEN]] | Ecco dell’oro per voi.<br>Vendetemi la vostra buona relazione. |
+| DAMA | Come, il mio buon nome?—o il riferire di voi<br>ciò che riterrò buono? |
+| *(didascalia)* | Entra |
+| DAMA | [[characters/innogen\|Innogene]]<br>La Principessa. |
+| *(didascalia)* | Esce |
+| [[characters/cloten\|CLOTEN]] | Buon giorno, bellissima. Sorella, la vostra dolce mano. |
+| [[characters/innogen\|INNOGENE]] | Buon giorno, signore. Vi date troppa pena<br>per non acquistare che fastidio. Il ringraziamento che vi do<br>è dirvi ch’io son povera di grazie,<br>e a stento posso spenderne. |
+| [[characters/cloten\|CLOTEN]] | Pure io giuro che vi [[motifs/love\|amo]]. |
+| [[characters/innogen\|INNOGENE]] | Se solo lo diceste, avrebbe per me lo stesso peso.<br>Se continuate a giurarlo, la vostra ricompensa è sempre<br>che io non ci bado. |
+| [[characters/cloten\|CLOTEN]] | Questa non è una risposta. |
+| [[characters/innogen\|INNOGENE]] | Se non fosse che direste che tacendo cedo,<br>non parlerei. Vi prego, risparmiatemi. [[concepts/faith\|In fede]],<br>io renderò scortesia pari<br>alla vostra migliore gentilezza. Uno del vostro gran sapere<br>dovrebbe imparare, essendo ammaestrato, a desistere. |
+| [[characters/cloten\|CLOTEN]] | Lasciarvi nella vostra [[concepts/madness\|follia]] sarebbe mio peccato.<br>Non lo farò. |
+| [[characters/innogen\|INNOGENE]] | Gli sciocchi non guariscono i pazzi. |
+| [[characters/cloten\|CLOTEN]] | Mi chiamate [[archetypes/fool\|sciocco]]? |
+| [[characters/innogen\|INNOGENE]] | In quanto son pazza, sì.<br>Se sarete paziente, non sarò più pazza;<br>ciò guarisce entrambi. Mi duole assai, signore,<br>che mi facciate dimenticare le maniere d’una dama<br>col vostro tanto parlare; e apprendete una volta per tutte<br>che io, che conosco il mio cuore, qui dichiaro<br>per la [[concepts/truth\|verità]] stessa di esso: non m’importa di voi,<br>e son tanto vicina alla mancanza di [[concepts/charity\|carità]]<br>da accusarmi di odiarvi; il che avrei preferito<br>che sentiste da voi piuttosto che farne vanto. |
+| [[characters/cloten\|CLOTEN]] | Voi peccate contro<br>l’obbedienza che dovete a vostro padre. Quanto<br>al contratto che pretendete con quel vile miserabile,<br>allevato di elemosina e nutrito di piatti freddi,<br>con gli avanzi della [[settings/court\|corte]], non è contratto alcuno, nessuno.<br>E benché sia permesso a persone più umili—<br>eppure, chi più umile di lui?—annodare le loro anime,<br>dalle quali non dipende altro<br>che marmocchi e pezzenteria, in nodo foggiato da loro [[concepts/self\|stessi]],<br>a voi tuttavia è vietata quella licenza<br>dalle conseguenze della [[motifs/crown\|corona]], e non dovete macchiare<br>la sua preziosa fama con un vile schiavo,<br>un buono a nulla da livrea, da panno di scudiero,<br>un dispensiere—e neppure tanto eminente. |
+| [[characters/innogen\|INNOGENE]] | Individuo profano,<br>fossi tu il figlio di Giove, e nulla più<br>di quello che sei per il resto, saresti troppo vile<br>per essergli stalliere; saresti abbastanza onorato,<br>fino al punto di destare invidia, se, per un paragone<br>fatto sulle tue virtù, ti si intitolasse<br>sotto-boia del suo regno, e fossi odiato<br>per essere stato promosso così [[motifs/well\|bene]]. |
+| [[characters/cloten\|CLOTEN]] | Che la nebbia del sud lo faccia marcire! |
+| [[characters/innogen\|INNOGENE]] | Non gli può accadere sventura maggiore<br>che l’essere anche solo nominato da te. La più vile veste sua<br>che mai abbia stretto il suo [[concepts/body\|corpo]] mi è più cara<br>di quanti capelli hai sul capo,<br>fossero tutti fatti uomini come te. Ebbene, Pisanio! |
+| *(didascalia)* | Entra Pisanio |
+| [[characters/cloten\|CLOTEN]] | La sua veste? Ora, il diavolo— |
+| [[characters/innogen\|INNOGENE]] | (a Pisanio)<br>Va’ subito da Dorotea, la mia donna. |
+| [[characters/cloten\|CLOTEN]] | La sua veste? |
+| [[characters/innogen\|INNOGENE]] | (a Pisanio) Sono ossessa da uno [[archetypes/fool\|sciocco]],<br>spaventata, e peggio ancora adirata. Va’ e di’ alla mia donna<br>di cercare un [[motifs/jewel\|gioiello]] che troppo casualmente<br>ha lasciato il mio braccio. Era del tuo padrone. Maledetta me<br>se volessi perderlo per la rendita<br>di qualunque [[archetypes/king\|re]] d’Europa! Mi pare<br>d’averlo visto stamattina; son certa<br>che la scorsa [[motifs/night\|notte]] era al mio braccio; l’ho baciato.<br>[[concepts/hope\|Spero]] che non sia andato a dire al mio signore<br>ch’io bacio altri che lui. |
+| PISANIO | Non andrà perduto. |
+| [[characters/innogen\|INNOGENE]] | Lo [[concepts/hope\|spero]]. Va’ e cerca. |
+| *(didascalia)* | Esce Pisanio |
+| [[characters/cloten\|CLOTEN]] | Voi mi avete oltraggiato.<br>‘La sua più vile veste’? |
+| [[characters/innogen\|INNOGENE]] | Sì, così ho detto, signore.<br>Se volete farne causa, chiamatene testimoni. |
+| [[characters/cloten\|CLOTEN]] | Ne informerò vostro padre. |
+| [[characters/innogen\|INNOGENE]] | E anche vostra madre.<br>Ella è mia buona signora, e concepirà, lo [[concepts/hope\|spero]],<br>solo il peggio di me. Così vi lascio, signore,<br>al peggio dello scontento. |
+| *(didascalia)* | Esce |
+| [[characters/cloten\|CLOTEN]] | Mi vendicherò.<br>‘La sua più vile veste’? [[motifs/well\|Bene]]! Esce |
+
+### Atto 2, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/posthumus\|Postumo]] e Filario |
+| [[characters/posthumus\|POSTUMO]] | Non lo [[concepts/fear\|temete]], signore. Vorrei essere altrettanto sicuro<br>di guadagnare il [[archetypes/king\|Re]] quanto son certo che il suo [[concepts/honour\|onore]]<br>rimarrà suo. |
+| FILARIO | Quali mezzi impiegate presso di lui? |
+| [[characters/posthumus\|POSTUMO]] | Nessuno; ma attendo il mutare del [[motifs/time\|tempo]],<br>tremo nello stato del presente [[motifs/winter\|inverno]], e desidero<br>che vengano giorni più caldi. Con queste speranze inaridite<br>a stento ricambio il vostro [[motifs/love\|amore]]; e s’esse mancano,<br>dovrò morire vostro gran debitore. |
+| FILARIO | La vostra sola bontà e la vostra compagnia<br>ripagano oltre misura quanto io possa fare. Ormai il vostro [[archetypes/king\|re]]<br>ha udito del grande Augusto. Caio [[characters/lucius\|Lucio]]<br>eseguirà a fondo la sua commissione. E credo<br>ch’egli concederà il tributo, e manderà gli arretrati,<br>prima che guardare in faccia i nostri Romani, la cui memoria<br>è ancor fresca nel loro dolore. |
+| [[characters/posthumus\|POSTUMO]] | Io credo,<br>benché uomo di stato non sia, né sia per essere,<br>che questo si volgerà in guerra; e udrete<br>le legioni ora in Gallia sbarcate<br>nella nostra impavida Britannia prima d’aver notizia<br>d’un solo denaro di tributo pagato. I nostri compatrioti<br>sono uomini più ordinati di quando [[characters/julius-caesar\|Giulio Cesare]]<br>sorrise alla loro imperizia ma trovò il loro [[concepts/courage\|coraggio]]<br>degno del suo corrugare le ciglia. La loro disciplina,<br>ora alata dal loro [[concepts/courage\|coraggio]], farà conoscere<br>a chi li mette alla prova ch’essi son gente tale<br>che va migliorando col mondo. |
+| *(didascalia)* | Entra Giacomo |
+| FILARIO | Ecco Giacomo. |
+| [[characters/posthumus\|POSTUMO]] | (a Giacomo)<br>I più veloci cervi vi han portato per terra,<br>e i venti d’ogni angolo han baciato le vostre vele<br>per rendere agile il vostro vascello. |
+| FILARIO | (a Giacomo)<br>Benvenuto, signore. |
+| [[characters/posthumus\|POSTUMO]] | (a Giacomo)<br>[[concepts/hope\|Spero]] che la brevità della vostra risposta abbia fatto<br>la rapidità del vostro ritorno. |
+| GIACOMO | La vostra dama è<br>una delle più belle ch’io abbia contemplate— |
+| [[characters/posthumus\|POSTUMO]] | E insieme la migliore, o lasci la sua [[concepts/beauty\|bellezza]]<br>affacciarsi a una finestra per adescare cuori falsi,<br>e sia falsa con loro. |
+| GIACOMO | Ecco lettere per voi. |
+| [[characters/posthumus\|POSTUMO]] | Di buon tenore, spero. |
+| GIACOMO | È assai probabile.<br>[[characters/posthumus\|Postumo]] legge le lettere |
+| *(didascalia)* | FILARIO |
+| GIACOMO | Era Caio [[characters/lucius\|Lucio]] alla [[settings/court\|corte]] britanna<br>quando voi eravate là? |
+| GIACOMO | Era allora atteso,<br>ma non ancora giunto. |
+| [[characters/posthumus\|POSTUMO]] | Tutto va ancora [[motifs/well\|bene]].<br>Scintilla questa pietra come soleva, o non è<br>troppo opaca perché voi la portiate? |
+| GIACOMO | Se l’avessi perduta<br>avrei perduto il suo valore in oro.<br>Farei un [[motifs/journey\|viaggio]] due volte più lungo per godere<br>una seconda [[motifs/night\|notte]] di sì dolce brevità come quella<br>che fu mia in Britannia; ché l’anello è vinto. |
+| POSTHUMOUS | La pietra è troppo difficile da ottenere. |
+| GIACOMO | Neanche un poco,<br>essendo la vostra dama tanto facile. |
+| [[characters/posthumus\|POSTUMO]] | Non fate, signore,<br>della vostra perdita un vostro spasso. [[concepts/hope\|Spero]] sappiate che noi<br>non possiamo restare amici. |
+| GIACOMO | Buon signore, dobbiamo,<br>se mantenete il patto. Se non avessi portato<br>a [[motifs/home\|casa]] la conoscenza della vostra signora, ammetto<br>che avremmo dovuto discutere oltre; ma ora io<br>mi professo vincitore del suo [[concepts/honour\|onore]],<br>insieme col vostro anello, e non offensore<br>di lei né di voi, essendo proceduto<br>secondo la volontà d’entrambi. |
+| [[characters/posthumus\|POSTUMO]] | Se potete render manifesto<br>d’averla gustata a letto, la mia mano<br>e l’anello son vostri. Se no, la turpe opinione<br>che aveste del suo puro [[concepts/honour\|onore]] guadagna o perde<br>la vostra spada o la mia, o [[motifs/leaves\|lascia]] entrambe senza padrone<br>a chi le troverà. |
+| GIACOMO | Signore, le mie circostanze,<br>essendo così vicine alla [[concepts/truth\|verità]] come le esporrò,<br>devono anzitutto indurvi a credere; e la loro forza<br>confermerò con giuramento, che non [[concepts/doubt\|dubito]]<br>mi permetterete di risparmiare quando troverete<br>che non ve n’è bisogno. |
+| [[characters/posthumus\|POSTUMO]] | Procedete. |
+| GIACOMO | Anzitutto, la sua camera da letto—<br>dove confesso che non dormii, ma dichiaro<br>d’aver avuto ciò che [[motifs/well\|ben]] valeva il vegliare—era parata<br>d’arazzi di seta e d’argento; la storia<br>era la superba [[characters/cleopatra\|Cleopatra]] quando incontrò il suo Romano,<br>e il Cidno si gonfiava sopra le rive, o per<br>la calca delle barche o per [[concepts/pride\|orgoglio]]: opera<br>eseguita sì nobilmente, sì ricca, che gareggiava<br>in fattura e in valore; e mi meravigliavo<br>che potesse essere lavorata con tanta rarità ed esattezza,<br>tanta era in essa la vita vera. |
+| [[characters/posthumus\|POSTUMO]] | Questo è vero,<br>e potevate averlo udito qui, da me<br>o da qualche altro. |
+| GIACOMO | Altri particolari<br>devono giustificare la mia conoscenza. |
+| [[characters/posthumus\|POSTUMO]] | Così dev’essere,<br>o fanno ingiuria al vostro [[concepts/honour\|onore]]. |
+| GIACOMO | Il camino<br>è a mezzogiorno della camera, e sulla cappa<br>la casta Diana che si bagna. Mai vidi figure<br>tanto pronte a raccontarsi da sé; l’intagliatore<br>era come un’altra [[concepts/nature\|natura]]; muto, la superò,<br>tolti il moto e il respiro. |
+| [[characters/posthumus\|POSTUMO]] | Questa è cosa<br>che potevate del pari raccogliere per sentito dire,<br>essendo, com’è, molto celebrata. |
+| GIACOMO | Il soffitto della camera<br>è tutto intagliato di cherubini d’oro. I suoi alari—<br>li avevo dimenticati—erano due Cupidi ammiccanti<br>d’argento, ciascuno ritto su un piede, graziosamente<br>appoggiati alle loro fiaccole. |
+| [[characters/posthumus\|POSTUMO]] | Questo è il suo [[concepts/honour\|onore]]!<br>Sia pur concesso che abbiate visto tutto ciò—e lode<br>sia data alla vostra memoria—la descrizione<br>di ciò che è nella sua camera per nulla salva<br>la scommessa che avete posto. |
+| GIACOMO | Allora, se potete<br>impallidire, non chiedo che il permesso d’arieggiare questo [[motifs/jewel\|gioiello]]. Guardate!<br>Mostra il braccialetto<br>E ora è di nuovo riposto; dev’essere sposato<br>a quel vostro diamante. Li terrò io. |
+| [[characters/posthumus\|POSTUMO]] | Per Giove!<br>Ancora una volta lasciate ch’io lo guardi. È quello<br>ch’io lasciai con lei? |
+| GIACOMO | Signore, la ringrazio, è quello.<br>Se lo sfilò dal braccio. La vedo ancora.<br>Il suo grazioso gesto valeva più del dono,<br>eppure lo arricchiva anche. Me lo diede,<br>e disse che una volta l’aveva caro. |
+| [[characters/posthumus\|POSTUMO]] | Forse se lo sfilò<br>per mandarlo a me. |
+| GIACOMO | Ve lo scrive così, non è vero? |
+| [[characters/posthumus\|POSTUMO]] | Oh, no, no, no—è vero! Ecco, prendete anche questo.<br>Dà a Giacomo il suo anello<br>È un basilisco per il mio occhio,<br>mi uccide a guardarlo. Non vi sia [[concepts/honour\|onore]]<br>dove è [[concepts/beauty\|bellezza]], né [[concepts/truth\|verità]] dove è apparenza, né [[motifs/love\|amore]]<br>dove c’è un altro uomo. I voti delle donne<br>non abbiano più vincolo verso colui a cui son fatti<br>di quanto ne abbiano verso le loro virtù, cioè nessuno!<br>Oh, false oltre ogni misura! |
+| PILASIO | Abbiate pazienza, signore,<br>e riprendete il vostro anello; non è ancora vinto.<br>Può essere probabile ch’ella l’abbia perduto, o<br>chi sa se una delle sue donne, corrotta,<br>gliel’abbia rubato? |
+| [[characters/posthumus\|POSTUMO]] | Verissimo,<br>e così [[concepts/hope\|spero]] ch’egli l’abbia avuto. Rendetemi l’anello.<br>Riprende il suo anello<br>Datemi qualche segno corporale su di lei<br>più evidente di questo; ché questo fu rubato. |
+| GIACOMO | Per Giove, l’ebbi dal suo braccio. |
+| [[characters/posthumus\|POSTUMO]] | Udite, egli giura, per Giove egli giura.<br>È vero, anzi, tenete l’anello, è vero. Son certo<br>ch’ella non l’avrebbe perduto. I suoi servitori sono<br>tutti giurati e onorevoli. Indotti a rubarlo?<br>E da uno straniero? No, egli l’ha goduta.<br>Il contrassegno della sua incontinenza<br>è questo. Ha comprato il nome di sgualdrina a caro<br>prezzo.<br>Dà a Giacomo il suo anello<br>Ecco, prendi la tua mercede, e tutte le furie dell’inferno<br>si spartiscano fra voi due! |
+| FILARIO | Signore, siate paziente.<br>Questo non è abbastanza forte per esser creduto<br>di persona di cui si è [[motifs/well\|ben]] persuasi. |
+| [[characters/posthumus\|POSTUMO]] | Non parlarne più.<br>Ella è stata cavalcata da lui. |
+| GIACOMO | Se cercate<br>ulteriore soddisfazione, sotto la sua mammella—<br>degna d’esser premuta—giace un neo, ben superbo<br>di quell’alloggio delicatissimo. Sulla mia vita,<br>io lo baciai, e mi diede subito fame<br>di pascermene ancora, benché sazio. Ricordate<br>questa macchia su di lei? |
+| [[characters/posthumus\|POSTUMO]] | Sì, e conferma<br>un’altra macchia grande quanto l’inferno può contenere,<br>quand’anche non ve ne fosse che quella. |
+| GIACOMO | Volete udire altro? |
+| [[characters/posthumus\|POSTUMO]] | Risparmiate la vostra aritmetica, non contate le volte.<br>Una, e un milione! |
+| GIACOMO | Lo giurerò. |
+| [[characters/posthumus\|POSTUMO]] | Nessun giuramento.<br>Se giurerete di non averlo fatto, mentite,<br>e t’ucciderò se negherai<br>d’avermi fatto becco.<br>GlACOMO<br>Non negherò nulla. |
+| [[characters/posthumus\|POSTUMO]] | Oh, l’avessi qui per farla a brani!<br>Andrò là e lo farò nella [[settings/court\|corte]], davanti<br>a suo padre. Farò qualcosa. |
+| *(didascalia)* | Esce |
+| FILARIO | Del tutto fuori<br>dal governo della pazienza! Voi avete vinto.<br>Seguiamolo e sviamo l’ira presente<br>che ha contro se stesso. |
+| GIACOMO | Con tutto il cuore. |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/posthumus\|Postumo]] |
+| [[characters/posthumus\|POSTUMO]] | Non v’è dunque modo che gli uomini siano, senza che le donne<br>ne debbano essere per metà artefici? Siamo tutti bastardi,<br>e quel venerabilissimo uomo ch’io<br>chiamavo mio padre era non so dove<br>quando io fui coniato. Qualche falsario coi suoi ferri<br>fece di me una moneta falsa; eppure mia madre pareva<br>la Diana di quel [[motifs/time\|tempo]]: così mia moglie<br>l’impareggiabile di questo. Oh vendetta, vendetta!<br>Ella mi tratteneva dal mio lecito piacere,<br>e spesso mi pregava d’astenermi; e lo faceva con<br>un pudore sì roseo che il dolce spettacolo<br>[[motifs/well\|ben]] avrebbe potuto scaldare il vecchio [[characters/saturn\|Saturno]]; sì ch’io la credevo<br>lei<br>casta come [[motifs/snow\|neve]] non tocca dal sole. Oh, tutti i diavoli!<br>Questo giallo Giacomo in un’ora—non fu così?—<br>o meno—al primo assalto? Forse non parlò affatto, ma,<br>come un cinghiale pasciuto di ghiande, un cinghiale germanico,<br>gridò ‘Oh!’ e montò; e non trovò opposizione<br>se non quella ch’egli cercava che gli si opponesse, e che lei<br>doveva opporre all’assalto. Potessi io scoprire<br>la parte femminile in me—ché non v’è moto<br>che tenda al vizio nell’uomo ch’io non affermi<br>essere parte della donna; sia il mentire, notatelo,<br>è della donna; l’adulare, suo; l’ingannare, suo;<br>lussuria e pensieri fetidi, suoi, suoi; le vendette, sue;<br>ambizioni, cupidigie, mutar di superbie, disdegno,<br>schifiltoso [[concepts/longing\|desiderio]], calunnie, [[motifs/mutability\|incostanza]],<br>tutte le colpe che l’uomo sappia nominare, anzi, che l’inferno conosca,<br>ecco, son sue in parte o tutte, anzi piuttosto tutte—<br>ché perfino al vizio<br>non son costanti, ma van sempre cambiando<br>un vizio d’un minuto appena con uno<br>non vecchio la metà. Scriverò contro di loro,<br>le detesterò, le maledirò; eppure è arte maggiore,<br>in un odio verace, pregare che abbiano il loro volere.<br>I diavoli stessi non saprebbero tormentarle meglio. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Squilli di trombe. Entrano in pompa [[characters/cymbeline\|Cimbelino]], la [[characters/queen\|Regina]], [[characters/cloten\|Cloten]] e i signori da una porta, e da un’altra Caio [[characters/lucius\|Lucio]] e il seguito |
+| [[characters/cymbeline\|CIMBELINO]] | Or dite: che vuole Augusto Cesare da noi? |
+| [[characters/lucius\|LUCIO]] | Quando [[characters/julius-caesar\|Giulio Cesare]]—la cui memoria ancora<br>vive negli occhi degli uomini, e sarà per orecchi e lingue<br>tema e ascolto in eterno—era in questa Britannia<br>e la conquistò, Cassibelano, tuo zio,<br>famoso nelle lodi di Cesare non meno<br>che nelle imprese che le meritarono, per sé<br>e per la sua successione concesse a Roma un tributo,<br>tremila libbre l’anno, che da te di recente<br>è lasciato non versato. |
+| [[characters/queen\|REGINA]] | E, per uccidere la meraviglia,<br>sarà così per sempre. |
+| [[characters/cloten\|CLOTEN]] | Vi saranno molti Cesari<br>prima d’un altro tal Giulio. La Britannia è un mondo<br>da sé, e noi non pagheremo nulla<br>per portare i nostri propri nasi. |
+| [[characters/queen\|REGINA]] | Quell’occasione<br>che allora essi ebbero di toglierci qualcosa, noi<br>l’abbiamo di nuovo per riprenderla. Ricordate, signore, mio sovrano,<br>i re vostri antenati, insieme con<br>la naturale fierezza della vostra isola, che sta<br>come il parco di Nettuno, costolata e cinta<br>da rive inaccessibili e da acque ruggenti,<br>con sabbie che non reggeranno le barche dei vostri nemici,<br>ma le inghiottiranno fino all’albero di gabbia. Una specie di conquista<br>Cesare fece qui, ma non fece qui il suo vanto<br>del ‘venni, vidi, vinsi’. Con vergogna—<br>la prima che mai lo toccasse—fu portato via<br>dalla nostra costa, due volte battuto; e le sue navi,<br>povere ignoranti bagattelle, sui nostri mari terribili<br>si movevano sui flutti come gusci d’uovo, e con pari<br>facilità si schiantavano contro i nostri scogli; per la qual gioia<br>il famoso Cassibelano, che una volta fu sul punto—<br>oh fortuna sgualdrina!—d’impadronirsi della spada di Cesare,<br>fece splendere la città di Lud di fuochi festosi,<br>e i Britanni impettirsi di [[concepts/courage\|coraggio]]. |
+| [[characters/cloten\|CLOTEN]] | Suvvia, non c’è più tributo da pagare. Il nostro regno è più forte di quanto fosse a quel [[motifs/time\|tempo]], e, come ho detto, non ci son più tali Cesari. Altri di loro potranno avere nasi adunchi, ma braccia altrettanto dritte, nessuno. |
+| [[characters/cymbeline\|CIMBELINO]] | Figlio, lasciate finire vostra madre. |
+| [[characters/cloten\|CLOTEN]] | Abbiamo ancora fra noi molti che sanno stringere forte quanto Cassibelano. Non dico d’essere uno di quelli, ma ho una mano anch’io. Perché tributo? Perché dovremmo pagare tributo? Se Cesare può nasconderci il sole con una coperta, o mettersi la [[motifs/moon\|luna]] in tasca, gli pagheremo tributo per la luce; altrimenti, signore, niente più tributo, ve ne prego. |
+| [[characters/cymbeline\|CIMBELINO]] | (a [[characters/lucius\|Lucio]]) Dovete sapere<br>che, finché gli ingiuriosi Romani non estorsero<br>da noi questo tributo, eravamo liberi. L’[[concepts/ambition\|ambizione]] di Cesare,<br>che si gonfiò tanto da quasi distendere<br>i fianchi del mondo, contro ogni ragione qui<br>ci pose il giogo; e scuoterlo<br>si conviene a un popolo guerriero, quale noi stimiamo<br>d’essere. Diciamo dunque a Cesare<br>che nostro antenato fu quel Mulmuzio che<br>ordinò le nostre leggi, il cui uso la spada di Cesare<br>ha troppo mutilato; e restaurarle e renderle libere<br>sarà, per il potere che deteniamo, la nostra buona opera,<br>quand’anche Roma per questo s’adiri. Mulmuzio fece<br>le nostre leggi,<br>egli che fu il primo in Britannia a porre<br>la fronte dentro una [[motifs/crown\|corona]] d’oro e a chiamarsi<br>[[archetypes/king\|re]]. |
+| [[characters/lucius\|LUCIO]] | Mi duole, [[characters/cymbeline\|Cimbelino]],<br>di dover proclamare Augusto Cesare—<br>Cesare, che ha più re per servi di quanti<br>tu abbia ufficiali domestici—tuo nemico.<br>Ricevilo dunque da me: guerra e rovina<br>in nome di Cesare io proclamo contro di te. Aspettati<br>un furore cui non si può resistere. Così sfidato,<br>ti ringrazio per parte mia. |
+| [[characters/cymbeline\|CIMBELINO]] | Tu sei il benvenuto, Caio.<br>Il tuo Cesare mi fece cavaliere; la mia giovinezza spesi<br>in gran parte sotto di lui; da lui raccolsi [[concepts/honour\|onore]],<br>che, poiché egli vuol ora ritoglierlo da me per forza,<br>mi conviene difendere fino all’estremo. So per certo<br>che i Pannoni e i Dalmati per<br>le loro libertà sono ora in armi: un precedente<br>che, a non leggerlo, mostrerebbe i Britanni freddi;<br>e tali Cesare non li troverà. |
+| [[characters/lucius\|LUCIO]] | Parli la prova. |
+| [[characters/cloten\|CLOTEN]] | Sua maestà vi dà il benvenuto. Sollazzatevi con noi un giorno o due o più. Se poi ci cercherete in altri termini, ci troverete nella nostra cintura d’[[motifs/water\|acqua]] salata. Se ce ne cacciate fuori, è vostra; se cadrete nell’impresa, le nostre cornacchie staranno meglio grazie a voi; e la cosa finisce lì. |
+| [[characters/lucius\|LUCIO]] | Sia, signore. |
+| [[characters/cymbeline\|CIMBELINO]] | Conosco il piacere del vostro padrone, ed egli il mio.<br>Tutto ciò che resta è: ‘Benvenuto’. |
+| *(didascalia)* | Squilli di trombe. Escono |
+
+### Atto 3, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Pisanio, leggendo una lettera |
+| PISANIO | Come? D’adulterio? Perché non scrivete<br>quale [[archetypes/monster\|mostro]] sia il suo accusatore? Leonato,<br>oh padrone, quale strana infezione<br>è caduta nel tuo orecchio! Quale falso Italiano,<br>dalla lingua velenosa quanto la mano, ha prevalso<br>sul tuo troppo pronto ascolto? Sleale? No.<br>Ella è punita per la sua [[concepts/truth\|verità]], e subisce,<br>più da dea che da moglie, tali assalti<br>che vincerebbero più d’una virtù. Oh padrone mio,<br>il tuo animo rispetto al suo è ora tanto basso quanto lo furono<br>le tue fortune. Come? Ch’io la debba assassinare,<br>in nome dell’[[motifs/love\|amore]] e della [[concepts/truth\|fedeltà]] e dei voti ch’io<br>ho fatto al tuo comando? Io lei? Il suo [[motifs/blood\|sangue]]?<br>Se rendere buon servigio è questo, ch’io non sia<br>mai contato fra i servitori. Che aspetto ho io,<br>ch’io debba sembrare privo d’umanità<br>quanto questo atto comporta? (Legge) ‘Fallo. La lettera<br>ch’io le ho mandato, per suo stesso comando<br>ti darà l’occasione.’ Oh carta dannata,<br>nera come l’inchiostro che ti sta sopra! Insensibile bagattella,<br>sei tu complice di quest’atto, e appari<br>di fuori così verginale? |
+| *(didascalia)* | Entra [[characters/innogen\|Innogene]] |
+| PISANIO | Ecco, eccola venire.<br>Fingo d’ignorare ciò che m’è comandato. |
+| [[characters/innogen\|INNOGENE]] | Ebbene, Pisanio? |
+| PISANIO | Signora, ecco una lettera dal mio signore. |
+| [[characters/innogen\|INNOGENE]] | Chi, il tuo signore che è il mio signore, Leonato?<br>Oh, davvero dotto sarebbe quell’astronomo<br>che conoscesse le [[motifs/stars\|stelle]] come io i suoi caratteri—<br>egli aprirebbe il futuro. Voi, dèi benigni,<br>fate che ciò che è qui contenuto sappia d’[[motifs/love\|amore]],<br>della salute del mio signore, del suo contento—ma non<br>che noi due siamo divisi; di questo egli s’affligga.<br>Certi dolori son medicinali; e questo è di quelli,<br>ché medica l’[[motifs/love\|amore]]—del suo contento<br>in tutto fuor che in ciò. Buona cera, con tuo permesso. Benedette<br>voi, [[motifs/bees\|api]], che fate queste chiusure del segreto! Gli amanti<br>e gli uomini stretti in obbligazioni pericolose non pregano allo stesso modo;<br>ché voi gettate in [[motifs/prison\|prigione]] gli insolventi, eppure<br>serrate le tavolette del giovane Cupido. Buone nuove, o dèi!<br>Apre e legge la lettera<br>’La giustizia e l’ira di vostro padre, se mi cogliesse nel<br>suo dominio, non potrebbero essermi tanto crudeli quanto voi, o<br>carissima fra le creature, potreste anzi rinnovarmi con<br>i vostri occhi. Sappiate ch’io sono in Cambria, a Milford<br>Haven. Ciò che il vostro stesso [[motifs/love\|amore]] vi consiglierà in proposito,<br>seguitelo. Così vi augura ogni felicità colui che rimane<br>leale al suo voto, e voi crescente nell’[[motifs/love\|amore]],<br>Leonato [[characters/posthumus\|Postumo]].’<br>Oh, un [[motifs/horse\|cavallo]] con le ali! Odi tu, Pisanio?<br>Egli è a Milford Haven. Leggi, e dimmi<br>quanto è lontano di là. Se uno che va per affari da poco<br>può arrancarci in una settimana, perché non potrei io<br>scivolarvi in un giorno? Allora, fedele Pisanio,<br>tu che come me brami vedere il tuo signore, che brami—<br>oh, lascia ch’io scemi—ma non come me—eppure brami,<br>ma in modo più fioco—oh, non come me,<br>ché il mio è oltre ogni oltre; parla, e parla fitto—<br>il consigliere dell’[[motifs/love\|amore]] dovrebbe empire i fori dell’udito<br>fino a soffocarne il senso—quanto sia lontana<br>questa benedetta Milford. E per via<br>dimmi come il Galles sia stato tanto felice<br>da ereditare un tal porto. Ma prima di tutto,<br>come possiamo fuggire di qui; e per il vuoto<br>che faremo nel [[motifs/time\|tempo]] dal nostro andarcene<br>fino al ritorno, come scusarci; ma prima, come andarcene.<br>Perché dovrebbe nascere la scusa prima d’esser generata?<br>Ne parleremo poi. Ti prego, parla:<br>quante ventine di miglia possiamo [[motifs/well\|ben]] cavalcare<br>fra un’ora e l’altra? |
+| PISANIO | Una ventina fra sole e sole,<br>signora, basta per voi, e anche troppo. |
+| [[characters/innogen\|INNOGENE]] | Ma via, uno che cavalcasse verso la propria esecuzione, amico,<br>non potrebbe mai andare così adagio. Ho udito di scommesse a cavallo<br>dove i cavalli furono più agili della sabbia<br>che corre per conto dell’[[motifs/clock\|orologio]]. Ma questa è [[archetypes/fool\|follia]].<br>Va’ e di’ alla mia donna di fingersi malata, dica<br>che torna a [[motifs/home\|casa]] da suo padre; e procurami subito<br>un abito da cavalcare non più costoso di quanto convenga<br>alla moglie d’un piccolo possidente. |
+| PISANIO | Signora, fareste meglio a riflettere. |
+| [[characters/innogen\|INNOGENE]] | Io vedo davanti a me, amico. Né qui, né qui,<br>né ciò che segue, ma tutti hanno in sé una nebbia<br>attraverso cui non posso guardare. Va’, ti prego,<br>fa’ come t’ho comandato. Non c’è altro da dire:<br>accessibile non è che la via di Milford. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/belarius\|Belario]], seguito da [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]], da una [[motifs/cave\|caverna]] nei boschi |
+| [[characters/belarius\|BELARIO]] | Bel giorno per non tenere dimora con quelli<br>il cui tetto è basso come il nostro. Chinatevi, ragazzi; questa porta<br>v’insegna come adorare i cieli, e vi piega<br>al santo ufficio del mattino. Le porte dei monarchi<br>sono arcuate così alte che i giganti possono passarvi impettiti<br>e tenersi in capo i loro turbanti empi senza<br>dare il buon giorno al sole. Salve, o bel cielo!<br>Noi abitiamo nella roccia, eppure non ti trattiamo così duramente<br>come fanno i viventi più superbi. |
+| [[characters/guiderius\|GUIDERIO]] | Salve, cielo! |
+| [[characters/arviragus\|ARVIRAGO]] | Salve, cielo! |
+| [[characters/belarius\|BELARIO]] | Ora al nostro sollazzo montano. Su per quel [[motifs/hill\|colle]],<br>le vostre gambe son giovani; io batterò questi piani. Considerate,<br>quando di lassù mi scorgerete simile a una cornacchia,<br>ch’è il luogo a rimpicciolire e a ingrandire;<br>e potrete allora ripensare ai racconti che v’ho fatto<br>delle corti, dei principi, degli inganni in guerra;<br>e che il servigio non è servigio per esser reso,<br>ma per esser così riconosciuto. Intendere così<br>ci trae profitto da tutte le cose che vediamo,<br>e spesso a nostro conforto troveremo<br>lo scarabeo corazzato in più sicuro riparo<br>di quanto sia l’aquila dall’ala intera. Oh, questa vita<br>è più nobile che attendere per un rimprovero,<br>più ricca che non far nulla per un ninnolo,<br>più superba che frusciare in seta non pagata;<br>tali guadagnano il berretto di chi li fa eleganti,<br>e pure ne tiene il libro non saldato. Nessuna vita pari alla nostra. |
+| [[characters/guiderius\|GUIDERIO]] | Voi parlate per prova. Noi, poveri implumi,<br>non abbiamo mai spiccato il volo fuori dalla vista del nido, né sappiamo<br>affatto<br>che aria sia quella lontana da [[motifs/home\|casa]]. Forse questa vita è la migliore,<br>se la vita quieta è la migliore; più dolce a voi<br>che ne avete conosciuta una più aspra; [[motifs/well\|ben]] corrispondente<br>alla vostra età irrigidita, ma per noi è<br>una cella d’ignoranza, un viaggiare a letto,<br>una [[motifs/prison\|prigione]] per un debitore, che non osa<br>varcare un confine. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/belarius\|Belario]]) Di che dovremo parlare<br>quando saremo vecchi come voi? Quando udremo<br>la pioggia e il [[motifs/wind\|vento]] battere il buio dicembre, come,<br>in questa nostra angusta [[motifs/cave\|caverna]], scacceremo discorrendo<br>le ore gelate? Non abbiamo veduto nulla.<br>Siamo bestiali: sottili come la volpe per la preda,<br>bellicosi come il lupo per ciò che mangiamo.<br>Il nostro valore è inseguire ciò che fugge; della nostra gabbia<br>facciamo un coro, come l’uccello prigioniero,<br>e cantiamo liberamente la nostra schiavitù. |
+| [[characters/belarius\|BELARIO]] | Come parlate!<br>Conosceste voi le usure della [[motifs/city\|città]],<br>e le sentiste con cognizione; l’arte della [[settings/court\|corte]],<br>tanto dura a lasciare quanto a mantenere, la cui cima a salire<br>è certa caduta, o tanto sdrucciolevole che<br>la [[concepts/fear\|paura]] è cattiva quanto il cadere; la fatica della guerra,<br>una [[motifs/pain\|pena]] che solo par cercare il pericolo<br>in nome della fama e dell’[[concepts/honour\|onore]], la quale muore nella ricerca<br>e altrettanto spesso ha un epitaffio calunnioso<br>quanto un ricordo di bella azione; anzi, molte volte<br>merita male facendo [[motifs/well\|bene]]; e, ciò ch’è peggio,<br>deve inchinarsi alla censura. Oh ragazzi, questa storia<br>il mondo può leggerla in me. Il mio [[concepts/body\|corpo]] è segnato<br>da spade romane, e la mia fama fu un tempo<br>prima fra le più stimate. [[characters/cymbeline\|Cimbelino]] mi amava,<br>e quando si parlava d’un soldato il mio nome<br>non era lontano. Allora ero come un albero<br>i cui rami si piegavano sotto il frutto; ma in una sola [[motifs/night\|notte]]<br>una [[motifs/storm\|tempesta]] o una rapina, chiamatela come volete,<br>scosse a terra i miei frutti maturi, anzi, le mie [[motifs/leaves\|foglie]],<br>e mi lasciò nudo all’intemperie. |
+| [[characters/guiderius\|GUIDERIO]] | Incerto favore! |
+| [[characters/belarius\|BELARIO]] | E la mia colpa non era nulla, come v’ho detto spesso,<br>se non che due scellerati, i cui falsi giuramenti prevalsero<br>sul mio perfetto [[concepts/honour\|onore]], giurarono a [[characters/cymbeline\|Cimbelino]]<br>ch’io ero confederato coi Romani. Così<br>seguì il mio bando, e da vent’anni<br>questa rupe e questi possessi sono stati il mio mondo,<br>dove ho vissuto in onesta [[concepts/freedom\|libertà]], e pagato<br>più pii debiti al cielo che in tutta<br>la prima parte del mio [[motifs/time\|tempo]]. Ma su, ai [[settings/mountains\|monti]]!<br>Questo non è linguaggio da cacciatori. Chi colpirà<br>per primo la selvaggina sarà signore del banchetto,<br>a lui gli altri due faranno da servi,<br>e non [[concepts/fear\|temeremo]] alcun [[motifs/poison\|veleno]] che si accompagna<br>a luoghi di maggior grandezza. C’incontreremo nelle valli. |
+| *(didascalia)* | Escono [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]] |
+| [[characters/belarius\|BELARIO]] | Com’è difficile nascondere le scintille della [[concepts/nature\|natura]]!<br>Questi ragazzi poco sanno d’esser figli del [[archetypes/king\|Re]],<br>né [[characters/cymbeline\|Cimbelino]] [[motifs/dreams\|sogna]] ch’essi son vivi.<br>Credono d’esser miei, e benché allevati<br>così umilmente<br>nella [[motifs/cave\|caverna]] in cui si chinano, i loro pensieri toccano<br>i tetti dei palazzi, e la [[concepts/nature\|natura]] li spinge,<br>in cose semplici e basse, a fare da principi assai<br>oltre il modo degli altri. Questo Polidoro,<br>erede di [[characters/cymbeline\|Cimbelino]] e della Britannia, che<br>il [[archetypes/king\|Re]] suo padre chiamò [[characters/guiderius\|Guiderio]]—per Giove,<br>quando siedo sul mio sgabello a tre piedi e racconto<br>le imprese guerriere che ho compiute, i suoi spiriti volano<br>dentro il mio racconto: dico ‘Così cadde il mio nemico,<br>e così posi il piede sul suo collo’, e proprio allora<br>il [[motifs/blood\|sangue]] principesco gli scorre nella guancia, egli suda,<br>tende i suoi giovani nervi, e si mette in atteggiamento<br>che recita le mie parole. Il fratello minore, Cadwal,<br>già [[characters/arviragus\|Arvirago]], con figura non meno simile<br>infonde vita al mio discorso, e mostra assai più<br>ciò che egli stesso concepisce. |
+| *(didascalia)* | Suona un corno da caccia |
+| [[characters/belarius\|BELARIO]] | Udite, la selvaggina è levata!<br>Oh [[characters/cymbeline\|Cimbelino]], il cielo e la mia [[concepts/conscience\|coscienza]] sanno<br>che tu ingiustamente mi bandisti; per il che,<br>quando avevano tre e due anni, io rapii questi fanciulli,<br>pensando di toglierti la successione come<br>tu mi strappasti le mie terre. Eurifile,<br>tu fosti la loro [[characters/nurse\|nutrice]]; essi ti presero per loro<br>madre,<br>e ogni giorno rendono [[concepts/honour\|onore]] alla sua [[motifs/grave\|tomba]].<br>Me stesso, [[characters/belarius\|Belario]], che son chiamato Morgan,<br>prendono per padre naturale. |
+| *(didascalia)* | Suona un corno da caccia |
+| [[characters/belarius\|BELARIO]] | La caccia è iniziata. |
+| *(didascalia)* | Esce |
+
+### Atto 3, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Pisanio e [[characters/innogen\|Innogene]] in abito da cavallerizza |
+| [[characters/innogen\|INNOGENE]] | Mi dicevi, quando scendemmo da [[motifs/horse\|cavallo]], che il luogo<br>era vicino. Mai mia madre bramò tanto<br>di vedermi la prima volta quanto io ora. Pisanio, amico,<br>dov’è [[characters/posthumus\|Postumo]]? Che cosa hai in mente<br>che ti fa guardare così fisso? Perché prorompe quel<br>sospiro<br>dal tuo intimo? Uno solo dipinto così<br>sarebbe interpretato come cosa perplessa<br>oltre ogni [[concepts/self\|auto]]-spiegazione. Poniti<br>in un contegno di minor [[concepts/fear\|paura]], prima che lo smarrimento<br>vinca i miei sensi più fermi. Che c’è?<br>Pisanio le porge una lettera<br>Perché mi porgi quella carta con<br>uno sguardo senza tenerezza? Se son notizie d’[[motifs/summer\|estate]],<br>sorridi prima; se invernali, non ti resta<br>che serbare quel volto. La mano di mio marito?<br>Quell’[[settings/italy\|Italia]] dannata dai veleni l’ha vinto d’astuzia,<br>ed egli è in qualche duro frangente. Parla, amico. La tua lingua<br>può togliere qualcosa dell’estremo che a leggerlo<br>mi sarebbe mortale. |
+| PISANIO | Vi piaccia leggere,<br>e mi troverete, misero uomo, la cosa<br>più disdegnata dalla fortuna. |
+| [[characters/innogen\|INNOGENE]] | (legge) ‘La tua padrona, Pisanio, ha fatto la meretrice nel mio letto; le testimonianze di ciò mi stanno sanguinando dentro. Non parlo per deboli congetture, ma per prova forte quanto il mio dolore e certa quanto è certo ch’io aspetto la mia [[concepts/revenge\|vendetta]]. Quella parte devi tu, Pisanio, recitare per me, se la tua [[concepts/faith\|fede]] non è macchiata dalla rottura della sua. Che le tue stesse mani le tolgano la vita. Te ne darò occasione a Milford Haven. Ella ha una mia lettera a tal fine; e se là tu [[concepts/fear\|temi]] di colpire e di rendermi certo che è fatto, tu sei il ruffiano del suo disonore e ugualmente sleale verso di me.’ |
+| PISANIO | (a parte)<br>Che bisogno avrò di sguainare la mia spada? La carta<br>le ha già tagliato la gola. No, è la calunnia,<br>il cui filo è più tagliente della spada, la cui lingua<br>avvelena più di tutti i vermi del Nilo, il cui fiato<br>cavalca i venti in posta e mentisce<br>a tutti gli angoli del mondo. Re, regine e stati,<br>fanciulle, matrone, anzi, i [[motifs/secrets\|segreti]] della [[motifs/grave\|tomba]]<br>questa viperina calunnia penetra. (A [[characters/innogen\|Innogene]]) Come state,<br>signora? |
+| [[characters/innogen\|INNOGENE]] | Infedele al suo letto? Che cosa vuol dire esser falsa?<br>Giacere là vegliando e pensare a lui?<br>Piangere fra un’[[motifs/clock\|ora]] e l’altra dell’[[motifs/clock\|orologio]]? Se il [[motifs/sleep\|sonno]] grava sulla [[concepts/nature\|natura]],<br>romperlo con un sogno pauroso di lui<br>e destarmi gridando? Questo è esser falsa al suo letto, non è vero? |
+| PISANIO | Ahimè, buona signora. |
+| [[characters/innogen\|INNOGENE]] | Io falsa? Ne sia testimone la tua [[concepts/conscience\|coscienza]], Giacomo:<br>tu l’accusasti d’incontinenza.<br>Allora avevi l’aria d’un [[archetypes/villain\|scellerato]]; ora, mi pare,<br>il tuo volto è abbastanza buono. Qualche ghiandaia d’[[settings/italy\|Italia]],<br>la cui madre fu il suo belletto, l’ha tradito.<br>Povera me, son roba stantia, veste fuori moda;<br>e poiché son troppo ricca per pendere alle pareti<br>devo essere sdrucita. A pezzi con me! Oh,<br>i voti degli uomini son traditori delle donne. Ogni bella apparenza,<br>per la tua defezione, o marito, sarà creduta<br>indossata per scelleraggine; non nata dove cresce,<br>ma portata come esca per le dame. |
+| PISANIO | Buona signora, ascoltatemi. |
+| [[characters/innogen\|INNOGENE]] | Uomini veramente onesti, ascoltati come il falso Enea,<br>furono al suo [[motifs/time\|tempo]] creduti falsi; e il pianto di Sinone<br>fece scandalo di più d’una santa lacrima, e tolse pietà<br>alla più vera miseria. Così tu, [[characters/posthumus\|Postumo]],<br>getterai il lievito su tutti gli uomini dabbene.<br>Il prode e il gentile saranno falsi e spergiuri<br>per la tua gran caduta. (A Pisanio) Su, amico, sii tu<br>onesto,<br>fa’ il comando del tuo padrone. Quando lo vedrai,<br>lui,<br>testimonia un poco la mia obbedienza. Guarda,<br>sguaino io stessa la spada. Prendila, e colpisci<br>la dimora [[archetypes/innocent\|innocente]] del mio [[motifs/love\|amore]], il mio cuore.<br>Non [[concepts/fear\|temere]], è vuoto d’ogni cosa fuorché di dolore.<br>Il tuo padrone non è là, lui che ne era invero<br>la ricchezza. Fa’ il suo comando; colpisci.<br>Potrai essere valoroso in causa migliore,<br>ma ora sembri un vile. |
+| PISANIO | Via, vile strumento,<br>tu non dannerai la mia mano! |
+| [[characters/innogen\|INNOGENE]] | Ma io devo morire,<br>e se non muoio per mano tua, tu non sei<br>servo del tuo padrone. Contro l’[[concepts/self\|auto]]-uccisione<br>v’è un divieto tanto divino<br>che rende codarda la mia debole mano. Su, ecco il mio cuore.<br>C’è qualcosa davanti. Piano, piano, nessuna difesa;<br>obbediente come il fodero. Che c’è qui?<br>Trae dal seno delle lettere<br>Le scritture del leale Leonato,<br>tutte volte in eresia? Via, via,<br>corruttrici della mia [[concepts/faith\|fede]], non sarete più<br>corpetti sul mio cuore. Così i poveri sciocchi<br>credono ai falsi maestri. Benché coloro che son traditi<br>sentano acutamente il tradimento, pure il traditore<br>si trova in peggior condizione di sciagura. E tu, [[characters/posthumus\|Postumo]],<br>che sollevasti la mia disobbedienza contro il [[archetypes/king\|Re]]<br>mio padre, e mi facesti sprezzare le domande<br>di principeschi pretendenti, troverai d’ora in poi<br>che non fu atto di comune andazzo, ma<br>una tempra di rarità; e mi affliggo<br>a pensare che, quando sarai smussato da colei<br>su cui ora ti sfami, come la tua [[motifs/memory\|memoria]]<br>sarà allora straziata da me. (A Pisanio) Ti prego,<br>spicciati.<br>L’[[motifs/lamb\|agnello]] supplica il macellaio. Dov’è il tuo coltello?<br>Sei troppo lento a fare il comando del tuo padrone<br>quando anch’io lo [[motifs/desire\|desidero]]. |
+| PISANIO | Oh graziosa signora,<br>da quando ricevetti l’ordine di questa faccenda<br>non ho chiuso occhio un istante. |
+| [[characters/innogen\|INNOGENE]] | Fallo, dunque, e poi a letto. |
+| PISANIO | Prima mi consumerò gli occhi vegliando. |
+| [[characters/innogen\|INNOGENE]] | Perché allora<br>l’hai intrapresa? Perché hai abusato<br>di tante miglia con un pretesto?—di questo luogo,<br>del mio agire e del tuo? Della fatica dei nostri cavalli,<br>del [[motifs/time\|tempo]] che t’invitava? Della [[settings/court\|corte]] sconvolta<br>per la mia assenza, alla quale mai<br>intendo tornare? Perché sei andato tanto lontano<br>per aver l’arco allentato quando ti sei messo alla posta,<br>col cervo prescelto davanti? |
+| PISANIO | Solo per guadagnar [[motifs/time\|tempo]]<br>e perdere così malvagio incarico, nel quale<br>ho meditato una via. Buona signora,<br>ascoltatemi con pazienza. |
+| [[characters/innogen\|INNOGENE]] | Parla fino a stancarti la lingua. Parla.<br>Ho udito ch’io sono una meretrice, e il mio orecchio,<br>colpito in ciò di falso, non può ricevere ferita maggiore,<br>né sonda che ne raggiunga il [[characters/bottom\|fondo]]. Ma parla. |
+| PISANIO | Allora, signora,<br>pensai che non sareste tornata indietro. |
+| [[characters/innogen\|INNOGENE]] | Molto probabile,<br>portandomi qui per uccidermi. |
+| PISANIO | Non è così, neppure.<br>Ma se fossi tanto saggio quanto onesto, allora<br>il mio disegno riuscirebbe [[motifs/well\|bene]]. Non può essere<br>se non che il mio padrone sia ingannato. Qualche [[archetypes/villain\|scellerato]],<br>sì, e singolare nella sua arte, ha fatto a entrambi<br>questa maledetta ingiuria. |
+| [[characters/innogen\|INNOGENE]] | Qualche cortigiana romana. |
+| PISANIO | No, sulla mia vita.<br>Darò solo notizia che siete morta, e gli manderò<br>qualche segno sanguinoso, ché così m’è<br>comandato di fare. Sarete cercata invano a [[settings/court\|corte]],<br>e ciò lo confermerà [[motifs/well\|bene]]. |
+| [[characters/innogen\|INNOGENE]] | Ma, buon amico,<br>che farò io intanto, dove starò, come vivrò,<br>o quale conforto avrò nella mia vita quando sarò<br>morta per mio marito? |
+| PISANIO | Se voleste tornare a [[settings/court\|corte]]— |
+| [[characters/innogen\|INNOGENE]] | Nessuna [[settings/court\|corte]], nessun padre, né più nulla a che fare<br>con quel duro, zotico, nobile, sciocco niente,<br>quel [[characters/cloten\|Cloten]], la cui domanda d’[[motifs/love\|amore]] è stata per me<br>spaventosa come un assedio. |
+| PISANIO | Se non a [[settings/court\|corte]],<br>allora non in Britannia dovrete dimorare. |
+| [[characters/innogen\|INNOGENE]] | Dove, allora?<br>Ha la Britannia tutto il sole che splende? Il giorno, la [[motifs/night\|notte]],<br>non sono forse che in Britannia? Nel volume del mondo<br>la nostra Britannia par di esso ma non dentro di esso,<br>in un gran stagno un nido di cigno. Ti prego, pensa<br>che vi son viventi fuori di Britannia. |
+| PISANIO | Son molto lieto<br>che pensiate ad altro luogo. L’ambasciatore,<br>[[characters/lucius\|Lucio]] il Romano, viene a Milford Haven<br>domani. Ora, se poteste portare un animo<br>oscuro quanto è la vostra fortuna, e solo travestire<br>ciò che ad apparire qual è non potrebbe ancora<br>se non a [[concepts/self\|proprio]] pericolo, calchereste una via<br>bella e piena di prospettiva; sì, forse vicina<br>alla dimora di [[characters/posthumus\|Postumo]]; almeno tanto vicina<br>che, benché le sue azioni non fossero visibili, pure<br>la fama ve lo renderebbe d’ora in ora all’orecchio<br>fedelmente come egli si muove. |
+| [[characters/innogen\|INNOGENE]] | Oh, per tali mezzi,<br>fosse pure a rischio del mio pudore, non della sua [[motifs/death\|morte]],<br>mi avventurerei. |
+| PISANIO | [[motifs/well\|Bene]] allora, ecco il punto:<br>dovete dimenticare d’esser donna; mutare<br>il comando in obbedienza, la [[concepts/fear\|paura]] e la schifiltà—<br>ancelle di tutte le donne, o più veramente<br>la donna nel suo grazioso [[concepts/self\|essere]]—in un [[concepts/courage\|coraggio]] burlesco,<br>pronto alle beffe, svelto di risposta, sfrontato e<br>litigioso come la donnola. Anzi, dovete<br>dimenticare quel rarissimo tesoro della vostra guancia,<br>esponendolo—ma oh, il cuore più duro!—<br>ahimè, non c’è rimedio—all’avido tocco<br>del Titano che tutti bacia; e dimenticare<br>i vostri elaborati e delicati ornamenti coi quali<br>facevate adirare la gran Giunone. |
+| [[characters/innogen\|INNOGENE]] | Su, sii breve.<br>Vedo dove vuoi arrivare, e sono già quasi<br>un uomo. |
+| PISANIO | Prima, fatevi soltanto simile a uno.<br>Prevedendo questo, ho già pronti—<br>sono nella mia bisaccia—farsetto, cappello, calze, tutto<br>ciò che vi si accompagna. Vorreste voi, servendovene,<br><br>e con quanta imitazione potrete prendere<br>dalla giovinezza di tale età, presentarvi<br>davanti al nobile [[characters/lucius\|Lucio]], [[motifs/desire\|chiedere]] di servirlo, e dirgli<br>in che cosa siete felicemente dotata—il che gli farà conoscere,<br>se il suo capo ha orecchio per la musica—senza dubbio<br>con gioia egli vi accoglierà, ché è onorevole,<br>e, a raddoppiare ciò, santissimo. Quanto ai vostri mezzi all’estero—<br>avete me, ricco, e non mancherò mai<br>né al principio né al sostentamento. |
+| [[characters/innogen\|INNOGENE]] | Tu sei tutto il conforto<br>di cui gli dèi vorranno nutrirmi. Ti prego, via.<br>V’è altro da considerare, ma pareggeremo<br>tutto ciò che il buon [[motifs/time\|tempo]] ci darà. A questo tentativo<br>io son soldato, e lo sosterrò con<br>[[concepts/courage\|coraggio]] di principe. Via, ti prego. |
+| PISANIO | [[motifs/well\|Bene]], signora, dobbiamo prendere un breve congedo,<br>ché, non trovandomi, non mi si sospetti<br>del vostro allontanamento dalla [[settings/court\|corte]]. Mia nobile padrona,<br>ecco una scatola. L’ebbi dalla [[characters/queen\|Regina]].<br>Ciò che v’è dentro è prezioso. Se soffrirete il mare<br>o vi verrà nausea in terra, una dramma di questo<br>scaccerà il malessere. In qualche luogo appartato,<br>e adattatevi alla vostra virilità. Gli dèi<br>vi guidino al meglio. |
+| [[characters/innogen\|INNOGENE]] | Amen. Ti ringrazio. |
+| *(didascalia)* | Escono separatamente |
+| *(didascalia)* | Squilli di trombe. Entrano [[characters/cymbeline\|Cimbelino]], la [[characters/queen\|Regina]], [[characters/cloten\|Cloten]], [[characters/lucius\|Lucio]] e i signori |
+| [[characters/cymbeline\|CIMBELINO]] | (a [[characters/lucius\|Lucio]])<br>Fin qui, e così addio. |
+| [[characters/lucius\|LUCIO]] | Grazie, regal signore.<br>Il mio imperatore ha scritto ch’io debba partire di qui;<br>e mi duole assai di dovervi riferire<br>nemico del mio padrone. |
+| [[characters/cymbeline\|CIMBELINO]] | I nostri sudditi, signore,<br>non sopporteranno il suo giogo; e, quanto a noi,<br>mostrare meno sovranità di loro non potrebbe<br>che parere indegno d’un re. |
+| [[characters/lucius\|LUCIO]] | Dunque, signore, [[motifs/desire\|chiedo]] da voi<br>un salvacondotto per terra fino a Milford Haven. |
+| *(didascalia)* | (Alla [[characters/queen\|Regina]]) Signora, ogni gioia arrida a vostra grazia, e a [[characters/cloten\|Cloten]] e a voi. |
+| [[characters/cymbeline\|CIMBELINO]] | Miei signori, siete designati a quell’ufficio.<br>Il debito dell’[[concepts/honour\|onore]] non sia omesso in nulla.<br>E così addio, nobile [[characters/lucius\|Lucio]]. |
+| [[characters/lucius\|LUCIO]] | La vostra mano, mio signore. |
+| [[characters/cloten\|CLOTEN]] | Ricevetela amichevolmente, ma da questo [[motifs/time\|momento]] in poi<br>io la porto come vostro nemico. |
+| [[characters/lucius\|LUCIO]] | Signore, l’esito<br>deve ancora nominare il vincitore. State [[motifs/well\|bene]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Non lasciate il degno [[characters/lucius\|Lucio]], miei buoni signori,<br>finché non abbia varcato il Severn. Felicità. |
+| *(didascalia)* | Escono [[characters/lucius\|Lucio]] e i signori |
+| [[characters/queen\|REGINA]] | Se ne va accigliato, ma ci fa onore<br>che gliene abbiamo dato causa. |
+| [[characters/cloten\|CLOTEN]] | Tanto meglio.<br>I vostri valorosi Britanni hanno in ciò il loro desiderio. |
+| [[characters/cymbeline\|CIMBELINO]] | [[characters/lucius\|Lucio]] ha già scritto all’Imperatore<br>come vanno qui le cose. Ci conviene dunque prontamente<br>che i nostri carri e i nostri cavalieri siano in ordine.<br>Le forze ch’egli ha già in Gallia<br>saranno presto radunate, e di là egli muoverà<br>la sua guerra contro la Britannia. |
+| [[characters/queen\|REGINA]] | Non è faccenda da sonnolenti,<br>ma dev’essere curata con prestezza e con forza. |
+| [[characters/cymbeline\|CIMBELINO]] | L’aver noi previsto che sarebbe andata così<br>ci ha resi solleciti. Ma, mia gentile [[characters/queen\|regina]],<br>dov’è nostra figlia? Non è comparsa<br>davanti al Romano, né a noi ha reso<br>l’omaggio del giorno. Ci appare<br>cosa fatta più di malizia che di dovere.<br>L’abbiamo notato. Chiamatela davanti a noi, ché<br>siamo stati troppo leggeri nel tollerare. |
+| *(didascalia)* | Esce uno o più |
+| [[characters/queen\|REGINA]] | Regal signore,<br>dall’[[concepts/exile\|esilio]] di [[characters/posthumus\|Postumo]] la sua vita è stata<br>assai ritirata; e la cura di ciò, mio signore,<br>spetta al [[motifs/time\|tempo]] di farla. Supplico vostra maestà<br>di astenersi da parole aspre con lei. È dama<br>tanto sensibile ai rimproveri che le parole son colpi,<br>e i colpi [[motifs/death\|morte]] per lei. |
+| *(didascalia)* | Entra un Messaggero |
+| [[characters/cymbeline\|CIMBELINO]] | Dov’è ella, signore? Come<br>si può rispondere al suo disprezzo? |
+| MESSAGGERO | Se vi piace, signore,<br>le sue stanze son tutte chiuse a chiave, e non v’è risposta<br>che si dia al più forte strepito che facciamo. |
+| [[characters/queen\|REGINA]] | Mio signore, l’ultima volta che andai a visitarla<br>ella mi pregò di scusare il suo tenersi rinchiusa,<br>giacché, costretta dalla sua infermità,<br>doveva lasciare non pagato a voi quel dovere<br>che ogni giorno era tenuta a offrire. Questo<br>ella mi pregò di far sapere, ma la nostra gran<br>[[settings/court\|corte]]<br>mi rese colpevole di [[motifs/memory\|memoria]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Le sue porte chiuse?<br>Non veduta di recente? Concedano i cieli che ciò ch’io<br>[[concepts/fear\|temo]] si dimostri falso. |
+| *(didascalia)* | Esce |
+| [[characters/queen\|REGINA]] | avanti, dico, seguite il [[archetypes/king\|Re]]. |
+| [[characters/cloten\|CLOTEN]] | Quel suo uomo, Pisanio, il suo vecchio servo,<br>non l’ho visto da due giorni. |
+| [[characters/queen\|REGINA]] | Va’, informati. |
+| *(didascalia)* | Esce [[characters/cloten\|Cloten]] |
+| [[characters/queen\|REGINA]] | Pisanio, tu che stai tanto per [[characters/posthumus\|Postumo]]!<br>Egli ha una droga mia. Prego che la sua assenza<br>proceda dall’averla ingoiata, ché egli crede<br>che sia cosa preziosissima. Ma quanto a lei,<br>dov’è andata? Forse la [[concepts/despair\|disperazione]] l’ha presa,<br>o, alata dal fervore del suo [[motifs/love\|amore]], è volata<br>al suo desiderato [[characters/posthumus\|Postumo]]. Se n’è andata<br>verso la [[motifs/death\|morte]] o verso il disonore, e il mio fine<br>può trarre buon uso dall’uno o dall’altro. Caduta lei,<br>a me spetta il collocare la [[motifs/crown\|corona]] britanna. |
+| *(didascalia)* | Entra [[characters/cloten\|Cloten]] |
+| [[characters/queen\|REGINA]] | Ebbene, figlio mio? |
+| [[characters/cloten\|CLOTEN]] | È certo ch’ella è fuggita.<br>Entrate e rincuorate il [[archetypes/king\|Re]]. Egli infuria, e nessuno<br>osa avvicinarglisi. |
+| [[characters/queen\|REGINA]] | Tanto meglio. Possa<br>questa [[motifs/night\|notte]] privarlo del giorno che viene. Esce |
+| [[characters/cloten\|CLOTEN]] | Io la [[motifs/love\|amo]] e la odio. Perché è bella e regale,<br>e perché ha tutte le doti cortesi più squisite<br>di dama, di dame, di donna—da ciascuna<br>ha il meglio, ed ella, composta di tutte,<br>le supera tutte di pregio—perciò la [[motifs/love\|amo]]; ma<br>il suo disdegnarmi, e il gettare i suoi favori<br>sul vile [[characters/posthumus\|Postumo]], calunnia tanto il suo giudizio<br>che quanto altro ha di raro ne è soffocato; e in ciò<br>concluderò d’odiarla, anzi, in verità,<br>di vendicarmi di lei. Poiché quando gli sciocchi<br>dovranno— |
+| *(didascalia)* | Entra Pisanio |
+| [[characters/cloten\|CLOTEN]] | Chi è qui? Che, fate fagotto, messere?<br>Vieni qua. Ah, prezioso ruffiano! [[archetypes/villain\|Scellerato]],<br>dov’è la tua signora? In una parola, o altrimenti<br>sei subito coi demoni. |
+| PISANIO | Oh mio buon signore! |
+| [[characters/cloten\|CLOTEN]] | Dov’è la tua signora?—o, per Giove,<br>non lo chiederò una seconda volta. Chiuso [[archetypes/villain\|scellerato]],<br>avrò questo segreto dalla tua lingua, o squarcerò<br>il tuo cuore per trovarlo. È ella con [[characters/posthumus\|Postumo]],<br>dai cui tanti pesi di bassezza non si può<br>trarre una dramma di valore? |
+| PISANIO | Ahimè, mio signore,<br>come può essere con lui? Quando è stata cercata invano?<br>Egli è a Roma. |
+| [[characters/cloten\|CLOTEN]] | Dov’è ella, messere? Vieni più vicino.<br>Basta esitare. Soddisfami fino in [[motifs/home\|fondo]]:<br>che ne è stato di lei. |
+| PISANIO | Oh mio degnissimo signore! |
+| [[characters/cloten\|CLOTEN]] | Degnissimo [[archetypes/villain\|scellerato]],<br>svela dov’è la tua padrona, e subito,<br>alla prossima parola. Basta con ‘degno signore’.<br>Parla, o il tuo [[motifs/silence\|silenzio]] all’istante è<br>la tua condanna e la tua [[motifs/death\|morte]]. |
+| PISANIO | Allora, signore,<br>questa carta è la [[concepts/history\|storia]] di quanto io so<br>circa la sua fuga.<br>Dà a [[characters/cloten\|Cloten]] una lettera |
+| [[characters/cloten\|CLOTEN]] | Vediamola. La inseguirò<br>fin sul trono d’Augusto. |
+| *(didascalia)* | PISANIO a parte |
+| [[characters/cloten\|CLOTEN]] | O questo o perire.<br>Ella è abbastanza lontana, e ciò ch’egli apprende da questa<br>può risolversi nel suo viaggio, non nel pericolo di lei. |
+| [[characters/cloten\|CLOTEN]] | Uhm! |
+| PISANIO | (a parte)<br>Scriverò al mio signore ch’ella è morta. Oh [[characters/innogen\|Innogene]],<br>possa tu errare sicura, e sicura tornare! |
+| [[characters/cloten\|CLOTEN]] | Messere, è vera questa lettera? |
+| PISANIO | Signore, per quanto credo. |
+| [[characters/cloten\|CLOTEN]] | È la mano di [[characters/posthumus\|Postumo]]; la conosco. Messere, se tu non volessi essere un [[archetypes/villain\|furfante]] ma rendermi vero servigio, e assumessi quegli incarichi nei quali io avessi ragione d’adoperarti con seria diligenza—cioè, qualunque scelleraggine io ti comandassi di fare, eseguirla direttamente e fedelmente—ti terrei per uomo onesto. Non ti mancherebbero né i miei mezzi per il tuo sostentamento né la mia voce per la tua promozione. |
+| PISANIO | [[motifs/well\|Bene]], mio buon signore. |
+| [[characters/cloten\|CLOTEN]] | Vuoi tu servirmi? Poiché, dal momento che pazientemente e costantemente sei rimasto attaccato alla nuda fortuna di quel pezzente di [[characters/posthumus\|Postumo]], non puoi, per legge di gratitudine, non essere un diligente seguace mio. Vuoi tu servirmi? 121 |
+| PISANIO | Signore, lo farò. |
+| [[characters/cloten\|CLOTEN]] | Dammi la mano. Ecco la mia borsa. Hai in tuo possesso qualche veste del tuo ultimo padrone? |
+| PISANIO | Ho, mio signore, al mio alloggio, lo stesso abito ch’egli portava quando prese congedo dalla mia dama e padrona. |
+| [[characters/cloten\|CLOTEN]] | Il primo servigio che mi rendi: porta qui quell’abito. Sia il tuo primo servigio. Va’. |
+| PISANIO | Così farò, mio signore. Esce |
+| [[characters/cloten\|CLOTEN]] | Incontrarti a Milford Haven! Ho dimenticato di chiedergli una cosa; me ne ricorderò fra poco. Proprio là, scellerato [[archetypes/villain\|furfante]] di [[characters/posthumus\|Postumo]], ti ucciderò. Vorrei che quelle vesti fossero arrivate. Ella disse una [[motifs/time\|volta]]—l’amarezza di ciò ora me la rutto fuori dal cuore—che teneva la veste stessa di [[characters/posthumus\|Postumo]] in maggior rispetto della mia nobile e naturale persona, insieme con l’ornamento delle mie qualità. Con quell’abito addosso io la violenterò—prima ucciderò lui, e sotto gli occhi di lei; là ella vedrà il mio valore, che sarà allora un tormento per il suo disprezzo. Lui a terra, finito il mio discorso d’insulto sul suo [[concepts/body\|corpo]] morto, e quando la mia libidine avrà pranzato—il che, come dico, per tormentarla eseguirò negli abiti ch’ella tanto lodò—a suon di calci la ricaccerò alla [[settings/court\|corte]], la rimanderò a [[motifs/home\|casa]] a pedate. Ella m’ha disprezzato con gioia, e io sarò allegro nella mia [[concepts/revenge\|vendetta]]. |
+| *(didascalia)* | Entra Pisanio con l’abito di [[characters/posthumus\|Postumo]] |
+| [[characters/cloten\|CLOTEN]] | Son quelle le vesti? |
+| PISANIO | Sì, mio nobile signore. |
+| [[characters/cloten\|CLOTEN]] | Quanto tempo è che se n’è andata a Milford Haven? |
+| PISANIO | Può appena esservi giunta. |
+| [[characters/cloten\|CLOTEN]] | Porta questo vestiario nella mia camera. Questa è la seconda cosa che t’ho comandato. La terza è che tu sia volontariamente muto sul mio disegno. Sii solo ossequente, e vera promozione s’offrirà da sé a te. La mia [[concepts/revenge\|vendetta]] è ora a Milford. Vorrei aver ali per seguirla. Vieni, e sii fedele. Esce |
+| PISANIO | Tu mi comandi la mia rovina, ché esser fedele a te<br>sarebbe esser falso, cosa che non sarò mai<br>verso colui che è verissimo. Va’ pure a Milford,<br>e non trovare colei che insegui. Scendano, scendano<br>su di lei le benedizioni celesti. La [[characters/speed\|fretta]] di questo [[archetypes/fool\|sciocco]]<br>sia attraversata dalla lentezza; la fatica sia il suo premio. Esce |
+
+### Atto 3, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/innogen\|Innogene]], vestita da uomo, davanti alla [[motifs/cave\|caverna]] |
+| [[characters/innogen\|INNOGENE]] | Vedo che la vita d’un uomo è cosa faticosa.<br>Mi son stancata, e per due notti di fila<br>ho fatto del suolo il mio letto. Sarei malata,<br>se la mia risoluzione non m’aiutasse. Milford,<br>quando dalla cima del monte Pisanio ti mostrò,<br>eri a portata di sguardo. Oh Giove, credo<br>che le case fuggano i miseri—quelle, intendo,<br>dove dovrebbero esser soccorsi. Due mendicanti mi dissero<br>ch’io non potevo sbagliare strada. Mentiscono i poveri,<br>che hanno afflizioni addosso, sapendo ch’è<br>castigo o prova? Sì. Nessuna [[concepts/wonder\|meraviglia]],<br>quando i ricchi a stento dicono il vero. Errare nell’abbondanza<br>è più grave che mentire per bisogno, e la falsità<br>è peggiore nei re che nei mendicanti. Mio caro signore,<br>tu sei uno dei falsi. Ora che penso a te<br>la mia fame è passata, e pure poco prima ero<br>sul punto di svenire per il cibo. Ma che cos’è questo?<br>Ecco un sentiero che vi conduce. È qualche tana selvaggia.<br>Meglio non chiamare; non oso chiamare; eppure la fame,<br>prima di abbattere del tutto la [[concepts/nature\|natura]], la fa valorosa.<br>Abbondanza e pace generano codardi, la durezza sempre<br>è madre dell’ardire. Olà! Chi c’è qui?<br>Se qualcosa di civile, parli; se selvaggio,<br>prenda o dia. Olà! Nessuna risposta? Allora entrerò.<br>Meglio sguainare la mia spada; e se il mio nemico<br>[[concepts/fear\|teme]] la spada quanto me, a stento la guarderà.<br>Un tal nemico, o cieli benigni! |
+| *(didascalia)* | Entra nella [[motifs/cave\|caverna]] |
+| *(didascalia)* | Entrano [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]] |
+| [[characters/belarius\|BELARIO]] | Tu, Polidoro, ti sei mostrato il miglior cacciatore e<br>sei signore del banchetto. Cadwal e io<br>faremo da cuoco e da servo; è il nostro patto.<br>Il sudore della fatica seccherebbe e morirebbe<br>se non fosse per il fine cui tende. Su, i nostri stomachi<br>renderanno saporito ciò ch’è modesto. La stanchezza<br>sa russare sulla selce, mentre l’ozio impigrito<br>trova duro il guanciale di piuma. Or pace sia qui,<br>povera casa, che ti custodisci da sola. |
+| [[characters/guiderius\|GUIDERIO]] | Son stanco morto. |
+| [[characters/arviragus\|ARVIRAGO]] | Son debole di fatica, ma forte d’appetito. |
+| [[characters/guiderius\|GUIDERIO]] | C’è carne fredda nella [[motifs/cave\|caverna]]. Ci rosicchieremo quella<br>mentre si cuoce ciò che abbiamo ucciso. |
+| [[characters/belarius\|BELARIO]] | (guardando dentro la [[motifs/cave\|caverna]]) Fermi, non entrate.<br>Se non fosse che mangia le nostre vettovaglie, penserei<br>che qui ci fosse un folletto. |
+| [[characters/guiderius\|GUIDERIO]] | Che c’è, signore? |
+| [[characters/belarius\|BELARIO]] | Per Giove, un angelo—o, se no,<br>un paragone terreno. Guardate: divinità<br>non più vecchia d’un ragazzo. |
+| *(didascalia)* | Entra [[characters/innogen\|Innogene]] dalla [[motifs/cave\|caverna]], vestita da uomo |
+| [[characters/innogen\|INNOGENE]] | Buoni padroni, non fatemi male.<br>Prima d’entrare qui chiamai, e pensavo<br>di mendicare o comprare ciò che ho preso. In buona<br>[[concepts/truth\|verità]],<br>non ho rubato nulla, né lo vorrei, quand’anche avessi<br>trovato<br>oro sparso sul pavimento. Ecco denaro per il mio cibo.<br>L’avrei lasciato sulla tavola non appena<br>avessi finito il pasto, e sarei partito<br>con preghiere per chi l’ha fornito. |
+| [[characters/guiderius\|GUIDERIO]] | Denaro, giovane? |
+| [[characters/arviragus\|ARVIRAGO]] | Che tutto l’oro e l’argento si mutino piuttosto in fango,<br>poiché non è stimato di più se non da coloro<br>che adorano dèi fangosi. |
+| [[characters/innogen\|INNOGENE]] | Vedo che siete adirati.<br>Sappiate che, se mi uccidete per la mia colpa, sarei<br>morto se non l’avessi commessa. |
+| [[characters/belarius\|BELARIO]] | Dove diretto? |
+| [[characters/innogen\|INNOGENE]] | A Milford Haven. |
+| [[characters/belarius\|BELARIO]] | Qual è il vostro nome? |
+| [[characters/innogen\|INNOGENE]] | Fidele, signore. Ho un parente che<br>è diretto in [[settings/italy\|Italia]]. S’imbarcò a Milford;<br>e andando da lui, quasi sfinito dalla fame,<br>son caduto in questa offesa. |
+| [[characters/belarius\|BELARIO]] | Di grazia, bel giovane,<br>non ci credere zotici, né misurare i nostri buoni animi<br>da questo rozzo luogo in cui viviamo. [[motifs/well\|Ben]] incontrato.<br>È quasi [[motifs/night\|notte]]. Avrai miglior desco<br>prima di partire, e grazie a te se resti a mangiarlo.<br>Ragazzi, dategli il benvenuto. |
+| [[characters/guiderius\|GUIDERIO]] | Foste una donna, giovane,<br>vi corteggerei con forza per esservi sposo in onestà,<br>sì, offrirei per voi come per comprarvi. |
+| [[characters/arviragus\|ARVIRAGO]] | Mi sarà conforto<br>ch’egli è uomo, e lo [[motifs/love\|amerò]] come mio fratello.<br>(A [[characters/innogen\|Innogene]]) E il benvenuto ch’io darei a lui<br>dopo lunga assenza, tale è il vostro. Benvenutissimo.<br>Siate allegro, ché siete capitato fra amici. |
+| [[characters/innogen\|INNOGENE]] | Fra amici,<br>se fratelli. (A parte) Fosse stato così, che essi<br>fossero i figli di mio padre. Allora il mio prezzo<br>sarebbe stato minore, e più uguale la zavorra<br>rispetto a te, [[characters/posthumus\|Postumo]].<br>I tre uomini parlano in disparte |
+| [[characters/belarius\|BELARIO]] | Si torce per qualche affanno. |
+| [[characters/guiderius\|GUIDERIO]] | Potessi liberarnelo. |
+| [[characters/arviragus\|ARVIRAGO]] | O io, qualunque cosa sia,<br>a costo di qualsiasi [[motifs/pain\|pena]], di qualsiasi pericolo. O dèi! |
+| [[characters/belarius\|BELARIO]] | Udite, ragazzi.<br>Bisbigliano |
+| [[characters/innogen\|INNOGENE]] | (a parte) Grandi uomini<br>che avessero una [[settings/court\|corte]] non più grande di questa [[motifs/cave\|caverna]],<br>che servissero se stessi e avessero la virtù<br>che la loro stessa [[concepts/conscience\|coscienza]] sigilla loro, deposto<br>quel dono da nulla delle moltitudini discordi,<br>non potrebbero superare questi due. Perdonatemi, o dèi,<br>muterei il mio sesso per esser loro compagno,<br>poiché Leonato è falso. |
+| [[characters/belarius\|BELARIO]] | Sia dunque così.<br>Ragazzi, andiamo a preparare la nostra caccia. Bel giovane, entra.<br>Il discorrere è pesante a digiuno. Quando avremo cenato<br>ti chiederemo garbatamente la tua storia,<br>per quanto vorrai raccontarla. |
+| [[characters/guiderius\|GUIDERIO]] | Di grazia, avvicinatevi. |
+| [[characters/arviragus\|ARVIRAGO]] | Meno benvenuta la [[motifs/night\|notte]] al gufo e il mattino all’allodola. |
+| [[characters/innogen\|INNOGENE]] | Grazie, signore. |
+| [[characters/arviragus\|ARVIRAGO]] | Vi prego, avvicinatevi. |
+| *(didascalia)* | Escono nella [[motifs/cave\|caverna]] |
+
+### Atto 3, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano due Senatori romani e i Tribuni |
+| PRIMO SENATORE | Questo è il tenore del rescritto dell’Imperatore:<br>che, poiché i soldati comuni sono ora in azione<br>contro i Pannoni e i Dalmati,<br>e le legioni ora in Gallia sono<br>troppo deboli per sostenere le nostre guerre contro<br>i Britanni ribelli, noi incitiamo<br>la nobiltà a quest’impresa. Egli crea<br>[[characters/lucius\|Lucio]] proconsole, e a voi tribuni,<br>per questa leva immediata, affida<br>la sua assoluta commissione. Lunga vita a Cesare!<br>UN TRIBUNO<br>È [[characters/lucius\|Lucio]] generale delle forze? |
+| SECONDO SENATORE | Sì.<br>UN TRIBUNO<br>Che ora rimangono in Gallia? |
+| PRIMO SENATORE | Con quelle legioni<br>di cui ho parlato, alle quali la vostra leva<br>dev’essere di supplemento. Le parole della vostra commissione<br>vi vincoleranno al numero e al [[motifs/time\|tempo]]<br>del loro invio.<br>UN TRIBUNO<br>Adempiremo il nostro dovere. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/cloten\|Cloten]], nell’abito di [[characters/posthumus\|Postumo]] |
+| [[characters/cloten\|CLOTEN]] | Son vicino al luogo dove dovrebbero incontrarsi, se Pisanio l’ha descritto fedelmente. Come mi calzano bene le sue vesti! Perché la sua signora, che fu fatta da colui che fece il sarto, non dovrebbe calzarmi anch’essa?—tanto più—salva la riverenza della parola—che si dice che l’adattarsi d’una donna venga a momenti. In ciò dovrò fare io da artefice. Oso dirlo a me stesso, ché non è vanagloria se un uomo e il suo specchio conferiscono nella sua propria camera. Voglio dire che le linee del mio [[concepts/body\|corpo]] sono altrettanto [[motifs/well\|ben]] tracciate delle sue: non meno giovane, più forte, non inferiore a lui per fortuna, superiore per il vantaggio del [[motifs/time\|tempo]], sopra di lui per nascita, altrettanto pratico nei servizi generali, e più notevole nei duelli singolari. Eppure questa creatura senza discernimento ama lui a mio dispetto. Che cos’è la [[concepts/mortality\|mortalità]]! [[characters/posthumus\|Postumo]], la tua testa che ora ti cresce sulle spalle sarà entro quest’ora staccata, la tua signora violata, le tue vesti tagliate a pezzi davanti alla tua faccia; e, fatto tutto ciò, la ricaccerò a pedate a [[motifs/home\|casa]] da suo padre, che forse s’adirerà un poco per il mio così rude trattamento; ma mia madre, avendo potere sulla sua stizza, volgerà tutto in mia lode. Il mio [[motifs/horse\|cavallo]] è legato al sicuro. Fuori, spada, e per un fine crudele! Fortuna, mettimeli in mano. Questa è proprio la descrizione del loro luogo d’incontro, e quel tale non osa ingannarmi. |
+| *(didascalia)* | Esce |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]], [[characters/arviragus\|Arvirago]] e [[characters/innogen\|Innogene]] vestita da uomo, dalla [[motifs/cave\|caverna]] |
+| [[characters/belarius\|BELARIO]] | (a [[characters/innogen\|Innogene]])<br>Non state [[motifs/well\|bene]]. Restate qui nella [[motifs/cave\|caverna]].<br>Verremo da voi tornando dalla caccia. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/innogen\|Innogene]])<br>Fratello, resta qui.<br>Non siamo forse fratelli? |
+| [[characters/innogen\|INNOGENE]] | Come uomo e uomo dovrebbero essere,<br>ma creta e creta differiscono in dignità,<br>benché la [[motifs/dust\|polvere]] d’entrambi sia la stessa. Son molto malato. |
+| [[characters/guiderius\|GUIDERIO]] | (a [[characters/belarius\|Belario]] e [[characters/arviragus\|Arvirago]])<br>Andate voi a caccia. Io resterò con lui. |
+| [[characters/innogen\|INNOGENE]] | Tanto malato non sono, eppure non sto [[motifs/well\|bene]];<br>ma non son cittadino tanto molle<br>da parer morire prima d’ammalarmi. Se vi piace, lasciatemi.<br>Attenetevi al vostro corso quotidiano. La rottura d’un’usanza<br>è rottura d’ogni cosa. Sono ammalato, ma il vostro starmi accanto<br>non può guarirmi. La compagnia non è conforto<br>a chi non è socievole. Non son molto malato,<br>poiché posso ragionarne. Vi prego, fidatevi di me qui.<br>Non deruberò nessuno se non me stesso; e lasciate ch’io muoia<br>rubando così poveramente. |
+| [[characters/guiderius\|GUIDERIO]] | Io ti [[motifs/love\|amo]]: l’ho detto;<br>e quanto è la quantità, tanto è il peso,<br>quanto [[motifs/love\|amo]] mio padre. |
+| [[characters/belarius\|BELARIO]] | Che, come, come? |
+| [[characters/arviragus\|ARVIRAGO]] | Se è peccato dirlo, signore, io mi aggiogo<br>alla colpa del mio buon fratello. Non so perché<br>[[motifs/love\|amo]] questo giovane, e v’ho udito dire<br>che la ragione dell’[[motifs/love\|amore]] è senza ragione. Fosse la bara alla porta<br>e la domanda chi debba morire, io direi<br>‘Mio padre, non questo giovane’. |
+| [[characters/belarius\|BELARIO]] | (a parte)<br>Oh nobile stirpe!<br>Oh valore della [[concepts/nature\|natura]], razza di [[concepts/greatness\|grandezza]]!<br>I codardi generano codardi, e le cose vili generano vile prole.<br>La [[concepts/nature\|Natura]] ha farina e crusca, disprezzo e grazia.<br>Io non son loro padre, eppure chi mai costui sia<br>fa miracolo di sé, amato più di me.<br>(Ad alta voce) È la nona ora del mattino. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/innogen\|Innogene]])<br>Fratello, addio. |
+| [[characters/innogen\|INNOGENE]] | Vi auguro buona caccia. |
+| [[characters/arviragus\|ARVIRAGO]] | E io a voi salute.—Come vi piace, signore. |
+| [[characters/innogen\|INNOGENE]] | (a parte)<br>Queste son creature gentili. O dèi, che menzogne ho udite!<br>I nostri cortigiani dicono che tutto è selvaggio fuorché a [[settings/court\|corte]].<br>Esperienza, oh come tu smentisci la fama!<br>I mari imperiosi generano mostri; per la mensa<br>i poveri fiumi tributari danno pesce altrettanto dolce.<br>Sto ancora male, malato di cuore. Pisanio,<br>ora gusterò la tua droga. |
+| *(didascalia)* | Ella ingoia la droga. Gli uomini parlano in disparte |
+| [[characters/guiderius\|GUIDERIO]] | Non son riuscito a smuoverlo.<br>Disse d’essere di nascita gentile ma sfortunato,<br>disonestamente afflitto eppure onesto. |
+| [[characters/arviragus\|ARVIRAGO]] | Così rispose anche a me, ma disse che in seguito<br>potrei sapere di più. |
+| [[characters/belarius\|BELARIO]] | Ai campi, ai campi!<br>(A [[characters/innogen\|Innogene]]) Vi lasciamo per questa [[motifs/time\|volta]]. Entrate e riposate. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/innogen\|Innogene]])<br>Non staremo via a lungo. |
+| [[characters/belarius\|BELARIO]] | (a [[characters/innogen\|Innogene]])<br>Vi prego, non ammalatevi,<br>ché dovete essere la nostra massaia. |
+| [[characters/innogen\|INNOGENE]] | [[motifs/well\|Bene]] o male,<br>vi sono legato. |
+| *(didascalia)* | Esce |
+| [[characters/belarius\|BELARIO]] | E lo sarai sempre.<br>Questo giovane, per quanto afflitto, mostra d’aver avuto<br>buoni antenati. |
+| [[characters/arviragus\|ARVIRAGO]] | Come canta angelicamente! |
+| [[characters/guiderius\|GUIDERIO]] | E la sua netta cucina! |
+| *(didascalia)* | [[characters/belarius\|BELARIO]] |
+| [[characters/guiderius\|GUIDERIO]] | Egli tagliava le nostre radici in figure,<br>e condiva i nostri brodi come se Giunone fosse malata<br>ed egli il suo dietista. |
+| [[characters/arviragus\|ARVIRAGO]] | Nobilmente egli aggioga<br>un sorriso a un sospiro, come se il sospiro<br>fosse tale per non essere quel sorriso;<br>e il sorriso beffasse il sospiro che voleva fuggire<br>da un tempio sì divino per mescolarsi<br>coi venti contro cui imprecano i marinai. |
+| [[characters/guiderius\|GUIDERIO]] | Io noto<br>che il dolore e la pazienza, in lui entrambi radicati,<br>intrecciano insieme le loro radici. |
+| [[characters/arviragus\|ARVIRAGO]] | Cresci, pazienza,<br>e lasci il fetido sambuco, il dolore, sciogliere<br>la sua radice morente dalla vite che cresce. |
+| RELARIUS | È giorno pieno. Venite via. Chi è là? |
+| *(didascalia)* | Entra [[characters/cloten\|Cloten]] nell’abito di [[characters/posthumus\|Postumo]] |
+| [[characters/cloten\|CLOTEN]] | Non riesco a trovare quei fuggiaschi. Quel [[archetypes/villain\|furfante]]<br>mi ha beffato. Son spossato. |
+| [[characters/belarius\|BELARIO]] | (a parte, a [[characters/arviragus\|Arvirago]] e [[characters/guiderius\|Guiderio]])<br>‘Quei fuggiaschi’?<br>Non intende forse noi? In parte lo conosco; è<br>[[characters/cloten\|Cloten]], il figlio della [[characters/queen\|Regina]]. [[concepts/fear\|Temo]] qualche imboscata.<br>Non l’ho visto da molti anni, eppure<br>so ch’è lui. Siamo tenuti per fuorilegge. Via di qui! |
+| [[characters/guiderius\|GUIDERIO]] | (a parte, a [[characters/arviragus\|Arvirago]] e [[characters/belarius\|Belario]])<br>È uno solo. Voi e mio fratello cercate<br>quali compagnie siano vicine. Vi prego, andate.<br>Lasciatemi solo con lui. |
+| *(didascalia)* | Escono [[characters/arviragus\|Arvirago]] e [[characters/belarius\|Belario]] |
+| [[characters/cloten\|CLOTEN]] | Piano, chi siete voi<br>che mi fuggite così? Certi [[archetypes/villain\|furfanti]] montanari?<br>Ne ho sentito parlare. Che schiavo sei tu? |
+| [[characters/guiderius\|GUIDERIO]] | Cosa<br>più servile non feci mai che rispondere<br>a uno schiavo senza un colpo. |
+| [[characters/cloten\|CLOTEN]] | Tu sei un rapinatore,<br>un violatore di leggi, un [[archetypes/villain\|furfante]]. Arrenditi, ladro. |
+| [[characters/guiderius\|GUIDERIO]] | A chi? A te? Che cosa sei tu? Non ho io<br>un braccio grande quanto il tuo, un cuore altrettanto grande?<br>Le tue parole, lo ammetto, son più grandi, ché io non porto<br>il mio pugnale in bocca. Di’ che cosa sei,<br>perché io debba arrendermi a te. |
+| [[characters/cloten\|CLOTEN]] | Tu, vile [[archetypes/villain\|furfante]],<br>non mi conosci dai miei abiti? |
+| [[characters/guiderius\|GUIDERIO]] | No, né conosco il tuo sarto, briccone,<br>che è tuo nonno. Egli fece quegli abiti,<br>i quali, a quanto pare, fanno te. |
+| [[characters/cloten\|CLOTEN]] | Tu, prezioso mascalzone,<br>non li fece il mio sarto. |
+| [[characters/guiderius\|GUIDERIO]] | Vattene, dunque, e ringrazia<br>l’uomo che te li diede. Sei qualche [[archetypes/fool\|sciocco]].<br>Mi ripugna batterti. |
+| [[characters/cloten\|CLOTEN]] | Tu, ladro ingiurioso,<br>odi soltanto il mio nome e trema.<br>GUlDERIUS<br>Qual è il tuo nome? |
+| [[characters/cloten\|CLOTEN]] | [[characters/cloten\|Cloten]], tu [[archetypes/villain\|furfante]]. |
+| [[characters/guiderius\|GUIDERIO]] | [[characters/cloten\|Cloten]], fossi tu chiamato [[topoi/double\|doppio]] [[archetypes/villain\|furfante]],<br>non saprei tremarne. Fosse rospo o vipera, ragno,<br>mi smuoverebbe di più. |
+| [[characters/cloten\|CLOTEN]] | A tua ulteriore [[concepts/fear\|paura]],<br>anzi, a tua pura rovina, saprai<br>ch’io son figlio della [[characters/queen\|Regina]]. |
+| [[characters/guiderius\|GUIDERIO]] | Me ne dispiace, ché non appari<br>degno quanto la tua nascita. |
+| [[characters/cloten\|CLOTEN]] | Non hai paura? |
+| [[characters/guiderius\|GUIDERIO]] | Quelli che riverisco, quelli [[concepts/fear\|temo]], i saggi.<br>Degli sciocchi rido, non li [[concepts/fear\|temo]]. |
+| [[characters/cloten\|CLOTEN]] | Muori della [[motifs/death\|morte]].<br>Quando t’avrò ucciso con la mia propria mano<br>inseguirò quelli che or ora son fuggiti di qui,<br>e sulle porte della città di Lud pianterò le vostre teste.<br>Arrenditi, rustico montanaro.<br>Combattono ed escono |
+| *(didascalia)* | Entrano [[characters/belarius\|Belario]] e [[characters/arviragus\|Arvirago]] |
+| [[characters/belarius\|BELARIO]] | Nessuna compagnia là fuori? |
+| [[characters/arviragus\|ARVIRAGO]] | Nessuna al mondo. Vi siete di certo sbagliato su di lui. |
+| [[characters/belarius\|BELARIO]] | Non saprei dire. È molto che non lo vedevo,<br>ma il [[motifs/time\|tempo]] non ha per nulla offuscato quei lineamenti<br>ch’egli allora portava. Gli strappi della sua voce<br>e lo scoppiare del suo parlare erano i suoi. Son certo<br>che era proprio [[characters/cloten\|Cloten]]. |
+| [[characters/arviragus\|ARVIRAGO]] | In questo luogo li lasciammo.<br>Auguro a mio fratello di far buon [[motifs/time\|gioco]] con lui,<br>voi dite ch’è tanto feroce. |
+| [[characters/belarius\|BELARIO]] | Essendo appena formato,<br>intendo, a uomo, non aveva percezione<br>dei terrori ruggenti; ché il difetto di giudizio<br>è spesso causa di [[concepts/fear\|paura]]. |
+| *(didascalia)* | Entra [[characters/guiderius\|Guiderio]] con la testa di [[characters/cloten\|Cloten]] |
+| [[characters/belarius\|BELARIO]] | Ma ecco, tuo fratello. |
+| [[characters/guiderius\|GUIDERIO]] | Questo [[characters/cloten\|Cloten]] era uno [[archetypes/fool\|sciocco]], una borsa vuota,<br>non c’era denaro dentro. Neppure Ercole<br>avrebbe potuto fargli saltare le cervella, ché non ne aveva.<br>Eppure, non facendo io questo, lo [[archetypes/fool\|sciocco]] avrebbe portato<br>la mia testa come io porto la sua. |
+| [[characters/belarius\|BELARIO]] | Che cosa hai fatto? |
+| [[characters/guiderius\|GUIDERIO]] | So bene che cosa: tagliato la testa a un certo [[characters/cloten\|Cloten]],<br>figlio della [[characters/queen\|Regina]] a suo stesso dire,<br>che mi chiamò traditore, montanaro, e giurò<br>che con la sua sola mano ci avrebbe presi,<br>strappandoci le teste di dove—grazie, o dèi—ci<br>crescono,<br>per piantarle sulla città di Lud. |
+| [[characters/belarius\|BELARIO]] | Siamo tutti rovinati. |
+| [[characters/guiderius\|GUIDERIO]] | Ma, degno padre, che abbiamo da perdere<br>se non ciò ch’egli giurò di prendere, le nostre vite? La legge<br>non ci protegge: perché dunque dovremmo essere sì teneri<br>da lasciare che un arrogante pezzo di carne ci minacci,<br>faccia da giudice e da carnefice tutto da sé,<br>solo perché [[concepts/fear\|temiamo]] la legge? Quale compagnia<br>avete scoperto là fuori? |
+| [[characters/belarius\|BELARIO]] | Non una sola [[motifs/soul\|anima]]<br>abbiamo potuto scorgere; ma, a ogni sana ragione,<br>egli deve avere qualche seguito. Benché il suo umore<br>non fosse che mutamento, sì, e per giunta<br>da una cosa cattiva a una peggiore, né frenesia,<br>né assoluta [[concepts/madness\|follia]], avrebbero potuto delirare tanto<br>da portarlo qui solo. Sebbene forse<br>si possa udire a [[settings/court\|corte]] che gente come noi<br>[[motifs/cave\|abita in caverna]] qui, caccia qui, è fuorilegge, e col [[motifs/time\|tempo]]<br>può formare qualche schiera più forte; e ciò egli<br>udendo—<br>come è da lui—potrebbe prorompere e giurare<br>di venire a prenderci; e tuttavia non è probabile<br>ch’egli venisse solo, né che lo intraprendesse,<br>né che gli altri lo [[concepts/suffering\|sopportassero]]. Dunque a buon diritto [[concepts/fear\|temiamo]],<br>se [[concepts/fear\|temiamo]] che questo [[concepts/body\|corpo]] abbia una coda<br>più pericolosa della testa. |
+| [[characters/arviragus\|ARVIRAGO]] | Venga il decreto<br>come gli dèi lo predicono; comunque sia,<br>mio fratello ha fatto [[motifs/well\|bene]]. |
+| [[characters/belarius\|BELARIO]] | Non avevo voglia<br>di cacciare oggi. La malattia del ragazzo Fidele<br>mi ha reso lunga la via là fuori.<br>GUIDERlUS<br>Con la sua stessa spada,<br>ch’egli agitava contro la mia gola, gli ho tolto<br>la testa. La getterò nel torrente<br>dietro la nostra rupe, e la lascerò andare al mare<br>a dire ai pesci ch’egli è il figlio della [[characters/queen\|Regina]], [[characters/cloten\|Cloten]].<br>È tutto ciò di cui mi curo. |
+| *(didascalia)* | Esce con la testa di [[characters/cloten\|Cloten]] |
+| [[characters/belarius\|BELARIO]] | [[concepts/fear\|Temo]] che se ne farà vendetta.<br>Vorrei, Polidoro, che tu non l’avessi fatto, benché il valore<br>ti si addica<br>[[motifs/well\|ben]] abbastanza. |
+| [[characters/arviragus\|ARVIRAGO]] | Vorrei averlo fatto io,<br>così che la [[concepts/revenge\|vendetta]] inseguisse me solo. Polidoro,<br>ti [[motifs/love\|amo]] fraternamente, ma invidio molto<br>che tu m’abbia rubato quest’atto. Vorrei che vendette<br>che una forza possibile potesse affrontare ci cercassero<br>dovunque<br>e ci chiamassero a risponderne. |
+| [[characters/belarius\|BELARIO]] | [[motifs/well\|Bene]], è fatto.<br>Non cacceremo più oggi, né cercheremo pericolo<br>dove non c’è profitto. Ti prego, alla nostra rupe.<br>Tu e Fidele fate da cuochi. Io resterò<br>finché non torni l’impetuoso Polidoro, e lo condurrò<br>subito a pranzo. |
+| [[characters/arviragus\|ARVIRAGO]] | Povero Fidele malato!<br>Andrò da lui volentieri. Per ridargli il colore<br>caverei il [[motifs/blood\|sangue]] a una parrocchia intera di tali Cloten,<br>e mi loderei d’averlo fatto per [[concepts/charity\|carità]]. |
+| *(didascalia)* | Esce nella [[motifs/cave\|caverna]] |
+| [[characters/belarius\|BELARIO]] | Oh tu, dea,<br>tu divina [[concepts/nature\|Natura]], come ti blasoni<br>in questi due principeschi ragazzi! Son gentili<br>come zeffiri che spirano sotto la violetta<br>senza scuoterne il dolce capo; e pure altrettanto aspri,<br>quando il loro regale [[motifs/blood\|sangue]] s’infiamma, quanto il più rude [[motifs/wind\|vento]]<br>che afferra per la cima il pino montano<br>e lo fa chinare alla valle. È [[concepts/wonder\|meraviglia]]<br>che un istinto invisibile li formi<br>a una regalità non appresa, a un [[concepts/honour\|onore]] non insegnato,<br>a una civiltà non veduta in altri, a un valore<br>che cresce in loro selvatico, e pur dà una messe<br>come se fosse stato seminato. Eppure è strano<br>che cosa ci presagisca l’esser [[characters/cloten\|Cloten]] qui,<br>o che cosa ci porterà la sua [[motifs/death\|morte]]. |
+| *(didascalia)* | Entra [[characters/guiderius\|Guiderio]] |
+| [[characters/guiderius\|GUIDERIO]] | Dov’è mio fratello?<br>Ho mandato lo zuccone di [[characters/cloten\|Cloten]] giù per la corrente<br>in ambasciata a sua madre. Il suo [[concepts/body\|corpo]] è ostaggio<br>per il suo ritorno.<br>Musica solenne |
+| [[characters/belarius\|BELARIO]] | Il mio ingegnoso strumento!—<br>Odi, Polidoro, esso suona. Ma quale occasione<br>ha ora Cadwal di metterlo in moto? Odi! |
+| [[characters/guiderius\|GUIDERIO]] | È a [[motifs/home\|casa]]? |
+| [[characters/belarius\|BELARIO]] | È uscito di qui or ora. |
+| [[characters/guiderius\|GUIDERIO]] | Che vuol dire? Dalla [[motifs/death\|morte]] della mia carissima madre<br>non aveva più parlato. Tutte le cose solenni<br>dovrebbero rispondere a solenni accidenti. Che c’è?<br>Trionfi per nulla e lamenti per bazzecole<br>son giubilo da scimmie e dolore da ragazzi.<br>È impazzito Cadwal? |
+| *(didascalia)* | Entra dalla [[motifs/cave\|caverna]] [[characters/arviragus\|Arvirago]] con [[characters/innogen\|Innogene]], morta, portandola fra le braccia |
+| [[characters/belarius\|BELARIO]] | Guarda, eccolo venire,<br>e reca fra le braccia la funesta occasione<br>di ciò per cui lo biasimiamo. |
+| [[characters/arviragus\|ARVIRAGO]] | L’uccello è morto<br>di cui tanto ci prendemmo cura. Avrei preferito<br>saltare dai sedici anni ai sessanta,<br>e mutare in gruccia il mio [[motifs/time\|tempo]] di salti,<br>che vedere questo. |
+| [[characters/guiderius\|GUIDERIO]] | (a [[characters/innogen\|Innogene]]) Oh dolcissimo, bellissimo giglio!<br>Mio fratello non ti porta neppure per metà così [[motifs/well\|bene]]<br>come quando crescevi da te. |
+| [[characters/belarius\|BELARIO]] | Oh [[concepts/melancholy\|malinconia]],<br>chi mai poté scandagliare il tuo [[characters/bottom\|fondo]], trovare<br>la melma che mostri in quale costa la tua pigra barca<br>possa più facilmente approdare? Tu, benedetta creatura,<br>Giove sa quale uomo saresti potuto diventare;<br>ma io so<br>che moristi ragazzo rarissimo, di [[concepts/melancholy\|malinconia]].<br>(A [[characters/arviragus\|Arvirago]]) Come lo trovasti? |
+| [[characters/arviragus\|ARVIRAGO]] | Rigido, come vedete,<br>così sorridente, come se una mosca avesse solleticato il suo sonno,<br>non come se avesse deriso il dardo della [[motifs/death\|morte]]; la guancia destra<br>posata su un cuscino. |
+| [[characters/guiderius\|GUIDERIO]] | Dove? |
+| [[characters/arviragus\|ARVIRAGO]] | Sul pavimento,<br>le braccia così intrecciate. Credetti che dormisse, e mi tolsi<br>dai piedi le mie scarpe chiodate, la cui rozzezza<br>rispondeva troppo forte ai miei passi. |
+| [[characters/guiderius\|GUIDERIO]] | Ma via, egli dorme soltanto.<br>Se se n’è andato, farà della sua [[motifs/grave\|tomba]] un letto.<br>Da fate femmine sarà visitato il suo sepolcro,<br>(a [[characters/innogen\|Innogene]]) e i vermi non verranno a te. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/innogen\|Innogene]]) Coi più bei [[motifs/flowers\|fiori]],<br>finché dura l’[[motifs/summer\|estate]] e io vivo qui, Fidele,<br>addolcirò la tua triste [[motifs/grave\|tomba]]. Non ti mancherà<br>il fiore che somiglia al tuo volto, la pallida primula, né<br>la campanula azzurra, simile alle tue vene; no, né<br>la foglia della rosa canina, che senza calunniarla<br>non era più dolce del tuo respiro. Il pettirosso vorrebbe,<br>col suo caritatevole becco—oh becco che assai svergogna<br>quegli eredi lasciati ricchi che lasciano i padri giacere<br>senza monumento!—portarti tutto questo,<br>sì, e per giunta il musco peloso, quando [[motifs/flowers\|fiori]] non ve n’è,<br>per vestire d’[[motifs/winter\|inverno]] il tuo corpo. |
+| [[characters/guiderius\|GUIDERIO]] | Ti prego, smettila,<br>e non giocare con parole da fanciulla su ciò<br>che è tanto serio. Seppelliamolo,<br>e non ritardiamo con l’ammirazione ciò<br>ch’è ora debito dovuto. Alla [[motifs/grave\|tomba]]. |
+| [[characters/arviragus\|ARVIRAGO]] | Di’, dove lo porremo? |
+| [[characters/guiderius\|GUIDERIO]] | Presso la buona Eurifile, nostra madre. |
+| [[characters/arviragus\|ARVIRAGO]] | Sia così,<br>e, Polidoro, benché ora le nostre voci<br>abbiano preso l’incrinatura virile, cantiamolo alla terra<br>come un tempo nostra madre; usiamo la stessa nota e le stesse parole,<br>salvo che ‘Eurifile’ dev’essere ‘Fidele’. |
+| [[characters/guiderius\|GUIDERIO]] | Cadwal,<br>io non so cantare. Piangerò, e reciterò con te le parole,<br>ché note di dolore stonate son peggio<br>di sacerdoti e templi che mentiscono. |
+| [[characters/arviragus\|ARVIRAGO]] | Lo diremo allora. |
+| [[characters/belarius\|BELARIO]] | I grandi dolori, vedo, medicano i minori, ché [[characters/cloten\|Cloten]]<br>è del tutto dimenticato. Era figlio d’una [[characters/queen\|regina]], ragazzi,<br>e benché venisse da nemico, ricordate<br>che ne fu pagato. Benché l’umile e il potente<br>imputridendo<br>insieme abbiano una sola [[motifs/dust\|polvere]], pure la riverenza,<br>quell’angelo del mondo, fa distinzione<br>di luogo fra l’alto e il basso. Il nostro nemico era principesco,<br>e benché tu gli abbia tolto la vita perché nostro nemico,<br>seppelliscilo tuttavia come un principe. |
+| [[characters/guiderius\|GUIDERIO]] | Vi prego, portatelo qua.<br>Il [[concepts/body\|corpo]] di [[characters/thersites\|Tersite]] vale quanto quello d’[[characters/ajax\|Aiace]]<br>quando nessuno dei due è vivo. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/belarius\|Belario]]) Se andate a prenderlo,<br>noi diremo intanto il nostro canto. |
+| *(didascalia)* | Esce [[characters/belarius\|Belario]] |
+| [[characters/arviragus\|ARVIRAGO]] | Fratello, comincia. |
+| [[characters/guiderius\|GUIDERIO]] | No, Cadwal, dobbiamo porgli il capo verso oriente.<br>Mio padre ne ha una ragione. |
+| [[characters/arviragus\|ARVIRAGO]] | È vero. |
+| [[characters/guiderius\|GUIDERIO]] | Su, dunque, e spostiamolo. |
+| [[characters/arviragus\|ARVIRAGO]] | Così, comincia. |
+| [[characters/guiderius\|GUIDERIO]] | [[concepts/fear\|Non temer]] più l’arsura del sole,<br>né del furioso [[motifs/winter\|inverno]] il furore.<br>Il tuo compito terreno è compiuto,<br>a [[motifs/home\|casa]] sei andato, e il salario avuto.<br>Fanciulli e fanciulle d’oro, tutti,<br>come spazzacamini, in [[motifs/dust\|polvere]] ridotti. |
+| [[characters/arviragus\|ARVIRAGO]] | [[concepts/fear\|Non temer]] più dei grandi il cipiglio,<br>sei fuori dal colpo del [[archetypes/tyrant\|tiranno]].<br>Non curarti più di vestire e mangiare,<br>per te la canna è quanto la quercia.<br>Lo scettro, il sapere, la medicina, devono<br>seguir tutti questa via e in [[motifs/dust\|polvere]] tornare. |
+| [[characters/guiderius\|GUIDERIO]] | [[concepts/fear\|Non temer]] più il guizzo del [[motifs/lightning\|fulmine]], |
+| [[characters/arviragus\|ARVIRAGO]] | né la folgore da tutti paventata. |
+| [[characters/guiderius\|GUIDERIO]] | [[concepts/fear\|Non temer]] calunnia, né censura avventata. |
+| [[characters/arviragus\|ARVIRAGO]] | Hai finito con la gioia e col lamento. |
+| [[characters/guiderius\|GUIDERIO]] | e [[characters/arviragus\|ARVIRAGO]]<br>Tutti gli amanti giovani, tutti gli amanti devono<br>consegnarsi a te e in [[motifs/dust\|polvere]] tornare. |
+| [[characters/guiderius\|GUIDERIO]] | Nessun esorcista ti faccia male, |
+| [[characters/arviragus\|ARVIRAGO]] | né alcuna stregoneria t’incanti. |
+| [[characters/guiderius\|GUIDERIO]] | [[archetypes/ghost\|Spettro]] non placato ti risparmi. |
+| [[characters/arviragus\|ARVIRAGO]] | Nulla di male ti s’appressi. |
+| [[characters/guiderius\|GUIDERIO]] | e [[characters/arviragus\|ARVIRAGO]]<br>Quieta consumazione tu abbia,<br>e rinomata sia la tua [[motifs/grave\|tomba]]. |
+| *(didascalia)* | Entra [[characters/belarius\|Belario]] col [[concepts/body\|corpo]] di [[characters/cloten\|Cloten]] nell’abito di [[characters/posthumus\|Postumo]] |
+| [[characters/guiderius\|GUIDERIO]] | Abbiamo compiuto le nostre esequie. Su, deponetelo. |
+| [[characters/belarius\|BELARIO]] | Ecco pochi [[motifs/flowers\|fiori]], ma verso mezzanotte ne avremo di più;<br>le erbe che portano su di sé la fredda rugiada della [[motifs/night\|notte]]<br>sono i più adatti spargimenti per le tombe sulla faccia della terra.<br>Voi eravate come [[motifs/flowers\|fiori]], ora appassiti; e così<br>saranno queste erbette che spargiamo su di voi.<br>Venite via; in disparte, sulle nostre ginocchia |
+| *(didascalia)* |  |
+| [[characters/belarius\|BELARIO]] | La terra che li diede da prima li riprende.<br>I loro piaceri qui son passati, e così il loro [[motifs/pain\|dolore]]. |
+| *(didascalia)* | Escono [[characters/belarius\|Belario]], [[characters/arviragus\|Arvirago]] e [[characters/guiderius\|Guiderio]] |
+| [[characters/innogen\|INNOGENE]] | (si sveglia)<br>Sì, signore, a Milford Haven. Qual è la via?<br>Vi ringrazio. Presso quel cespuglio? Di grazia, quanto è lontano?<br>Per la pietà di Dio, è possibile che siano ancora sei miglia?<br>Ho camminato tutta la [[motifs/night\|notte]]. In [[concepts/faith\|fede]], mi sdraierò a [[motifs/sleep\|dormire]].<br>Vede [[characters/cloten\|Cloten]]<br>Ma piano, nessun compagno di letto! O dèi e dee!<br>Questi [[motifs/flowers\|fiori]] sono come i piaceri del mondo,<br>quest’uomo insanguinato l’affanno che ne viene. [[concepts/hope\|Spero]] di sognare,<br>ché così credevo d’essere custode d’una caverna<br>e cuoco d’oneste creature. Ma non è così.<br>Non era che un dardo di nulla, tiro di nulla,<br>che il cervello fa di vapori. I nostri stessi occhi<br>sono talvolta, come i nostri giudizi, ciechi. In buona [[concepts/faith\|fede]],<br>tremo ancora di [[concepts/fear\|paura]]; ma se è rimasta<br>in cielo una goccia di pietà anche piccola<br>quanto l’occhio d’uno scricciolo, o dèi temuti, datemene parte!<br>Il sogno è ancora qui. Perfino sveglia, esso è<br>fuori di me come dentro di me; non immaginato, sentito.<br>Un uomo senza testa? Le vesti di [[characters/posthumus\|Postumo]]?<br>Conosco la forma della sua gamba; questa è la sua mano,<br>il suo piede mercuriale, la sua coscia marziale,<br>i muscoli d’Ercole; ma il suo volto gioviale-<br>omicidio in cielo! Come? È sparito. Pisanio,<br>tutte le maledizioni che l’impazzita Ecuba diede ai Greci,<br>e le mie per giunta, siano scagliate su di te! Tu,<br>congiurato con quel diavolo scomposto di [[characters/cloten\|Cloten]],<br>hai qui abbattuto il mio signore. Lo scrivere e il leggere<br>siano d’ora in poi traditori! Il dannato Pisanio<br>con le sue lettere falsificate-dannato Pisanio-<br>da questo bravissimo vascello del mondo<br>ha abbattuto l’albero maestro) Oh [[characters/posthumus\|Postumo]], ahimè,<br>dov’è il tuo capo? Dov’è? Ahimè, dov’è<br>quello?<br>Pisanio poteva ucciderti nel cuore<br>e lasciarti la testa. Come può essere? Pisanio?<br>È lui e [[characters/cloten\|Cloten]]. La malizia e il lucro in loro<br>hanno posto qui questa sciagura. Oh, è evidente, evidente!<br>La droga ch’egli mi diede, che disse esser preziosa<br>e cordiale per me, non l’ho forse trovata<br>micidiale ai sensi? Ciò lo conferma fino in [[motifs/home\|fondo]].<br>Questa è opera di Pisanio, e di [[characters/cloten\|Cloten]]-oh,<br>dà colore alla mia pallida guancia col tuo [[motifs/blood\|sangue]],<br>perché più orridi appariamo a coloro<br>che per caso ci trovino! |
+| *(didascalia)* | Si imbratta il viso di [[motifs/blood\|sangue]] |
+| [[characters/innogen\|INNOGENE]] | Oh mio signore, mio signore! |
+| *(didascalia)* | Sviene. |
+| *(didascalia)* | Entrano [[characters/lucius\|Lucio]], Capitani romani e un Indovino |
+| [[characters/innogen\|INNOGENE]] | UN CAPITANO ROMANO (a [[characters/lucius\|Lucio]])<br>A loro le legioni acquartierate in Gallia<br>secondo la vostra volontà han varcato il mare, e vi attendono<br>qui a Milford Haven con le vostre navi.<br>Son di qui pronte a muovere. |
+| [[characters/lucius\|LUCIO]] | Ma che nuove da Roma?<br>UN CAPITANO ROMANO<br>Il senato ha mosso i confinanti<br>e i gentiluomini d’[[settings/italy\|Italia]], animi volenterosissimi<br>che promettono nobile servizio, ed essi vengono<br>sotto la condotta dell’ardito Giacomo,<br>fratello del signore di Siena. |
+| [[characters/lucius\|LUCIO]] | Quando li attendete?<br>UN CAPITANO ROMANO<br>Col prossimo favore del [[motifs/wind\|vento]]. |
+| [[characters/lucius\|LUCIO]] | Questa prontezza<br>rende belle le nostre speranze. Si comandi che le forze presenti<br>siano radunate; i capitani ne abbiano cura. |
+| *(didascalia)* | Esce uno o più |
+| [[characters/lucius\|LUCIO]] | (All’Indovino) Ora, signore,<br>che avete sognato di recente sul fine di questa guerra? |
+| INDOVINO | La scorsa [[motifs/night\|notte]] gli dèi stessi mi mostrarono una visione—<br>io digiuno, e pregai per la loro rivelazione-così:<br>vidi l’uccello di Giove, l’aquila romana, volare<br>dal molle mezzogiorno a questa parte d’occidente,<br>e là svanire nei raggi del sole; ciò che presagisce,<br>se i miei peccati non abusano della mia divinazione,<br>successo all’esercito romano. |
+| [[characters/lucius\|LUCIO]] | Sogna spesso così,<br>e mai falso.<br>Vede il [[concepts/body\|corpo]] di [[characters/cloten\|Cloten]]<br>Piano, olà, che tronco è questo<br>senza la sua cima? La rovina dice che un tempo<br>fu un edificio degno. Come, un paggio?<br>Morto o addormentato su di lui? Ma piuttosto morto,<br>ché la [[concepts/nature\|natura]] aborre di far letto<br>col defunto, o di [[motifs/sleep\|dormire]] sul morto.<br>Vediamo il volto del ragazzo.<br>UN CAPITANO ROMANO<br>È vivo, mio signore. |
+| [[characters/lucius\|LUCIO]] | C’istruirà allora su questo [[concepts/body\|corpo]]. Giovinetto,<br>informaci delle tue sorti, ché sembra<br>ch’esse chiedano d’essere interrogate. Chi è costui<br>di cui fai il tuo sanguinoso guanciale? O chi fu colui<br>che, altrimenti che la nobile [[concepts/nature\|natura]] non fece,<br>ha alterato quella bella immagine? Che parte hai tu<br>in questo triste naufragio? Come avvenne? Chi è?<br>Chi sei tu? |
+| [[characters/innogen\|INNOGENE]] | Io non son nulla; o, se non lo sono,<br>meglio sarebbe non esser nulla. Costui era il mio padrone,<br>un Britanno assai valoroso, e buono,<br>che giace qui ucciso da montanari. Ahimè,<br>non ci son più tali padroni. Posso errare<br>da oriente a occidente, gridare in cerca di servizio,<br>provarne molti, tutti buoni; servire fedelmente, e mai<br>trovare un altro padrone simile. |
+| [[characters/lucius\|LUCIO]] | Ahimè, buon giovane,<br>tu commuovi non meno col tuo lamento<br>di quanto il tuo padrone col suo sanguinare. Dinne il nome, buon amico. |
+| [[characters/innogen\|INNOGENE]] | [[characters/richard\|Richard]] du Champ. (A parte) Se mento e con ciò<br>non faccio male, benché gli dèi m’odano [[concepts/hope\|spero]]<br>che me lo perdoneranno. (Ad alta voce) Dicevate, signore? |
+| [[characters/lucius\|LUCIO]] | Il tuo nome? |
+| [[characters/innogen\|INNOGENE]] | Fidele, signore. |
+| [[characters/lucius\|LUCIO]] | Tu ti dimostri appunto tale.<br>Il tuo nome s’adatta [[motifs/well\|bene]] alla tua [[concepts/faith\|fede]], e la tua [[concepts/faith\|fede]] al tuo nome.<br>Vuoi tentare la sorte con me? Non dirò<br>che avrai un padrone altrettanto [[motifs/well\|buono]], ma sii certo,<br>non meno amato. Le lettere dell’Imperatore romano<br>mandate a me per mezzo d’un console non ti raccomanderebbero<br>più presto del tuo stesso valore. Vieni con me. |
+| [[characters/innogen\|INNOGENE]] | Vi seguirò, signore. Ma prima, se piace agli dèi,<br>nasconderò il mio padrone alle mosche tanto in fondo<br>quanto questi poveri picconi possono scavare; e quando<br>con [[motifs/leaves\|foglie]] di bosco selvatico ed erbe avrò cosparso la sua<br>[[motifs/grave\|tomba]]<br>e vi avrò detto sopra un centinaio di preghiere,<br>quali io so, due volte piangerò e sospirerò,<br>e, lasciato così il suo servizio, seguirò voi,<br>se vi piace prendermi. |
+| [[characters/lucius\|LUCIO]] | Sì, buon giovane,<br>e ti farò piuttosto da padre che da padrone. Amici miei,<br>il ragazzo ci ha insegnato virili doveri. Cerchiamo<br>il più bel prato fiorito di margherite che possiamo,<br>e facciamogli con le nostre picche e alabarde<br>una [[motifs/grave\|fossa]]. Su, prendetelo in braccio. Ragazzo, egli ci è raccomandato<br>da te, e sarà sepolto<br>come i soldati sanno fare. Fatti animo. Asciuga i tuoi occhi.<br>Certe cadute son mezzo per risorgere più felici. |
+| *(didascalia)* | Escono col [[concepts/body\|corpo]] di [[characters/cloten\|Cloten]] |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/cymbeline\|Cimbelino]], i Signori e Pisanio |
+| [[characters/cymbeline\|CIMBELINO]] | Di nuovo, e portatemi notizia di come stia. |
+| *(didascalia)* | Esce uno o più |
+| [[characters/cymbeline\|CIMBELINO]] | Una febbre per l’assenza del figlio,<br>una [[concepts/madness\|follia]] per cui la sua vita è in pericolo-o cieli,<br>quanto profondamente mi colpite tutt’insieme! [[characters/innogen\|Innogene]],<br>gran parte del mio conforto, scomparsa; la mia [[characters/queen\|regina]]<br>su un letto disperato, e in un [[motifs/time\|tempo]]<br>in cui guerre paurose mi minacciano; suo figlio scomparso,<br>lui così necessario in questo frangente! Ciò mi colpisce oltre<br>ogni [[concepts/hope\|speranza]] di conforto. (A Pisanio) Ma quanto a te, uomo,<br>che per forza devi sapere della sua partenza e<br>fingi tanta ignoranza, te lo strapperemo<br>con una tortura acuta. |
+| PISANIO | Signore, la mia vita è vostra.<br>Umilmente la pongo al vostro volere. Ma quanto alla mia padrona,<br>nulla so di dove ella sia, né perché partita,<br>né quando si proponga di tornare. Supplico vostra<br>altezza,<br>tenetemi per vostro leale servitore.<br>UN SIGNORE<br>Mio buon sovrano,<br>il giorno in cui ella fu cercata invano, costui era qui.<br>Oso garantire ch’egli è fedele, e adempirà<br>lealmente ogni parte della sua sudditanza. Quanto a [[characters/cloten\|Cloten]],<br>non manca diligenza nel cercarlo,<br>e senza [[concepts/doubt\|dubbio]] sarà trovato. |
+| [[characters/cymbeline\|CIMBELINO]] | Il [[motifs/time\|tempo]] è travagliato.<br>(A Pisanio) Ti lasceremo andare per una stagione, ma il nostro [[concepts/jealousy\|sospetto]]<br>resta ancora pendente.<br>UN SIGNORE<br>Se piace a vostra maestà,<br>le legioni romane, tutte tratte dalla Gallia,<br>sono sbarcate sulla vostra costa con un rinforzo<br>di gentiluomini romani mandati dal senato. |
+| [[characters/cymbeline\|CIMBELINO]] | Ora sì che mi occorre il consiglio di mio figlio e della [[characters/queen\|regina]]!<br>Sono sopraffatto dagli eventi.<br>UN SIGNORE<br>Mio buon sovrano,<br>i vostri preparativi possono affrontare non meno<br>di quanto udite. Ne vengano di più: per di più siete<br>pronto.<br>Non manca che mettere in moto quelle forze<br>che bramano muoversi. |
+| [[characters/cymbeline\|CIMBELINO]] | Vi ringrazio. Ritiriamoci,<br>e affrontiamo il [[motifs/time\|tempo]] come esso ci cerca. Non [[concepts/fear\|temiamo]]<br>ciò che dall’[[settings/italy\|Italia]] può molestarci, ma<br>ci addoloriamo delle sventure di qui. Via. |
+| *(didascalia)* | Escono [[characters/cymbeline\|Cimbelino]] e i Signori |
+| PISANIO | Non ho ricevuto lettera dal mio padrone da quando<br>gli scrissi che [[characters/innogen\|Innogene]] era uccisa. È strano.<br>Né ho notizie dalla mia padrona, che promise<br>di darmi spesso ragguagli. Né so<br>che sia accaduto a [[characters/cloten\|Cloten]], ma resto<br>perplesso in tutto. Il cielo deve pur operare.<br>In ciò in cui son falso, io sono onesto; non verace, per esser verace.<br>Queste guerre presenti troveranno ch’io [[motifs/love\|amo]] il mio paese<br>fin sotto gli occhi del [[archetypes/king\|Re]], o cadrò in esse.<br>Tutti gli altri dubbi, sia il [[motifs/time\|tempo]] a chiarirli:<br>la fortuna porta in porto certe barche che nessuno governa. |
+| *(didascalia)* | Esce |
+
+### Atto 4, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]] |
+| [[characters/guiderius\|GUIDERIO]] | Il frastuono ci è tutt’intorno. |
+| [[characters/belarius\|BELARIO]] | Allontaniamocene. |
+| [[characters/arviragus\|ARVIRAGO]] | Qual piacere, signore, troviamo nella vita a chiuderla<br>fuori dall’azione e dall’avventura? |
+| [[characters/guiderius\|GUIDERIO]] | Anzi, quale [[concepts/hope\|speranza]]<br>abbiamo nel nasconderci? Per questa via i Romani<br>o ci uccideranno come Britanni, o ci accoglieranno<br>come barbari e snaturati ribelli<br>finché servono loro, e poi ci uccideranno. |
+| [[characters/belarius\|BELARIO]] | Figli,<br>saliremo più in alto ai [[settings/mountains\|monti]]; là ci metteremo al sicuro.<br>Dal partito del [[archetypes/king\|Re]] non si può andare. La novità<br>della [[motifs/death\|morte]] di [[characters/cloten\|Cloten]]-non essendo noi conosciuti né arruolati<br>fra le schiere—potrebbe costringerci a render conto<br>di dove abbiamo vissuto, e così estorcerci ciò<br>che abbiamo fatto, la cui risposta sarebbe la [[motifs/death\|morte]]<br>tirata in lungo con la tortura. |
+| [[characters/guiderius\|GUIDERIO]] | Questo è, signore, un [[concepts/doubt\|timore]]<br>che in tal [[motifs/time\|tempo]] per nulla vi si addice<br>né ci soddisfa. |
+| [[characters/arviragus\|ARVIRAGO]] | Non è verosimile<br>che, quando odono nitrire i cavalli romani,<br>e vedono le loro file accampate, e hanno occhi<br>e orecchi tanto saziati di cose importanti come ora,<br>essi vogliano sprecare il loro [[motifs/time\|tempo]] a prender nota di noi,<br>per sapere donde veniamo. |
+| [[characters/belarius\|BELARIO]] | Oh, io son conosciuto<br>da molti nell’esercito. Molti anni,<br>benché [[characters/cloten\|Cloten]] fosse allora giovane, vedete, non l’hanno cancellato<br>dalla mia memoria. E inoltre il [[archetypes/king\|Re]]<br>non ha meritato il mio servizio né il vostro amore,<br>voi che trovate nel mio [[concepts/exile\|esilio]] la mancanza d’educazione,<br>la certezza di questa dura vita; e siete senza speranza<br>d’avere quella cortesia che la vostra culla prometteva,<br>ma dovete essere abbronzati dalla calda [[motifs/summer\|estate]], e<br>schiavi rattrappiti dell’[[motifs/winter\|inverno]]. |
+| [[characters/guiderius\|GUIDERIO]] | Piuttosto che esser così,<br>meglio cessar d’essere. Di grazia, signore, all’esercito.<br>Io e mio fratello non siamo conosciuti; voi stesso,<br>tanto uscito dalla memoria, e per giunta così invecchiato d’aspetto,<br>non potete essere interrogato. |
+| [[characters/arviragus\|ARVIRAGO]] | Per questo sole che splende,<br>io andrò là. Che cosa è mai ch’io non abbia mai<br>veduto morire un uomo, che a stento abbia mai guardato [[motifs/blood\|sangue]]<br>se non quello di lepri codarde, di capre in foia e di selvaggina,<br>né mai cavalcato un [[motifs/horse\|cavallo]] fuorché uno che aveva<br>un cavaliere simile a me, che mai portò sperone<br>né ferro al calcagno! Mi vergogno<br>di guardare il santo sole, di godere<br>il beneficio dei suoi raggi benedetti, restando<br>così a lungo un povero sconosciuto. |
+| [[characters/guiderius\|GUIDERIO]] | Per il cielo, io andrò.<br>Se volete benedirmi, signore, e darmi licenza,<br>avrò maggior cura di me; ma se non volete,<br>cada su di me il rischio che ne consegue, per<br>le mani dei Romani. |
+| [[characters/arviragus\|ARVIRAGO]] | Così dico io, amen. |
+| [[characters/belarius\|BELARIO]] | Non v’è ragione ch’io, poiché delle vostre vite fate<br>sì lieve stima, riservi<br>la mia, già incrinata, a maggior cura. Vengo con voi, ragazzi!<br>Se nelle guerre del vostro paese vi accade di morire,<br>quello è anche il mio letto, figlioli, e là giacerò.<br>Guidate, guidate. (A parte) Il [[motifs/time\|tempo]] pare lungo. Il loro [[motifs/blood\|sangue]]<br>sdegna d’attendere<br>finché non prorompa e li mostri nati principi. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/posthumus\|Postumo]], vestito da gentiluomo italiano, recando un panno insanguinato |
+| [[characters/posthumus\|POSTUMO]] | Sì, panno insanguinato, ti serberò, ché una volta desiderai<br>che tu fossi tinto così. Voi uomini sposati,<br>se ciascuno di voi tenesse questa via, quanti<br>dovrebbero uccidere mogli assai migliori di loro<br>per un piccolo sviamento! Oh Pisanio,<br>ogni buon servo non esegue tutti i comandi,<br>e non è tenuto se non ai giusti. O dèi, se voi<br>aveste preso vendetta delle mie colpe, io mai<br>sarei vissuto per commettere questo; e così avreste salvato<br>la nobile [[characters/innogen\|Innogene]] al pentimento, e colpito<br>me, miserabile, più degno della vostra vendetta. Ma ahimè,<br>voi strappate di qui alcuni per lievi colpe; e questo è [[motifs/love\|amore]],<br>perché non cadano più. Ad altri permettete<br>di far seguire mali a mali, ciascuno peggiore del precedente,<br>e li fate temere del male, a profitto di chi lo compie.<br>Ma [[characters/innogen\|Innogene]] è vostra. Fate i vostri benedetti voleri,<br>e fate me benedetto nell’obbedire. Son condotto qui<br>fra la nobiltà italiana, a combattere<br>contro il regno della mia signora. Basti<br>che, o Britannia, io t’abbia ucciso il tuo capolavoro;<br>non ti darò altra ferita. Perciò, cieli benigni,<br>udite con pazienza il mio proposito. Mi spoglierò<br>di queste vesti italiane, e mi vestirò<br>come un contadino britanno. |
+| *(didascalia)* | Si spoglia |
+| [[characters/posthumus\|POSTUMO]] | Così combatterò<br>contro la parte con cui vengo; così morrò<br>per te, o [[characters/innogen\|Innogene]], per la quale la mia vita<br>è a ogni respiro una [[motifs/death\|morte]]; e, così sconosciuto,<br>non compianto né odiato, alla faccia del pericolo<br>mi consacrerò. Ch’io faccia conoscere agli uomini<br>più valore in me di quanto mostrino i miei abiti.<br>O dèi, mettete in me la forza dei Leonati.<br>Per svergognare l’usanza del mondo, io comincerò<br>la moda: meno fuori e più dentro. Esce |
+| *(didascalia)* | Una marcia. Entrano [[characters/lucius\|Lucio]], Giacomo e l’esercito romano da una porta, e l’esercito britanno da un’altra, Leonato [[characters/posthumus\|Postumo]] che segue in veste di povero soldato. Sfilano ed escono. Squilli d’allarme. Poi rientrano in scaramuccia Giacomo e [[characters/posthumus\|Postumo]]: questi lo vince e lo disarma, e poi lo [[motifs/leaves\|lascia]] |
+| GIACOMO | Il peso e la [[concepts/guilt\|colpa]] dentro il mio petto<br>mi tolgono la virilità. Ho calunniato una dama,<br>la principessa di questo paese, e l’aria di esso<br>vendicandosi mi snerva; o come potrebbe questo villano,<br>un vero manovale della [[concepts/nature\|natura]], avermi soggiogato<br>nella mia professione? Cavallerie e onori portati<br>come io porto i miei non son che titoli di scherno.<br>Se la tua nobiltà, o Britannia, supera<br>questo zoticone quanto egli supera i nostri signori,<br>il divario è che noi a stento siamo uomini e voi siete dèi. |
+| *(didascalia)* | Esce |
+
+### Atto 5, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | La battaglia continua. Squilli d’allarme. Sortite. Le trombe suonano la ritirata. I Britanni fuggono, [[characters/cymbeline\|Cimbelino]] è fatto prigioniero. Poi entrano in suo soccorso [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]] |
+| [[characters/belarius\|BELARIO]] | Fermi, fermi, abbiamo il vantaggio del terreno.<br>Il passo è custodito. Nulla ci mette in rotta se non<br>la scelleratezza delle nostre paure. |
+| [[characters/guiderius\|GUIDERIO]] | e [[characters/arviragus\|ARVIRAGO]] Fermi, fermi, e combattete. |
+| *(didascalia)* | Entra [[characters/posthumus\|Postumo]] in veste di povero soldato, e seconda i Britanni. Essi liberano [[characters/cymbeline\|Cimbelino]] ed escono |
+| *(didascalia)* | Le trombe suonano la ritirata, poi entrano [[characters/lucius\|Lucio]], Giacomo e [[characters/innogen\|Innogene]] |
+| [[characters/lucius\|LUCIO]] | (a [[characters/innogen\|Innogene]])<br>Via, ragazzo, lontano dalle truppe, e salvati;<br>ché gli amici uccidono gli amici, e il disordine è tale<br>come se la guerra fosse bendata. |
+| GIACOMO | Sono i loro rinforzi freschi. |
+| [[characters/lucius\|LUCIO]] | È una giornata volta stranamente. O per tempo<br>ci rinforziamo, o fuggiamo. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/posthumus\|Postumo]] in veste di povero soldato, e un Signore britanno |
+| SIGNORE | Vieni tu di dove fecero la resistenza? |
+| [[characters/posthumus\|POSTUMO]] | Sì,<br>benché voi, a quel che pare, veniate dai fuggitivi. |
+| SIGNORE | Sì. |
+| [[characters/posthumus\|POSTUMO]] | Nessun biasimo a voi, signore, ché tutto era perduto<br>se non avesse combattuto il cielo. Il [[archetypes/king\|Re]] stesso<br>privo delle sue ali, l’esercito spezzato,<br>e non si vedevano che schiene di Britanni, tutti in fuga<br>per uno stretto viottolo; il nemico pieno d’ardire,<br>con la lingua penzoloni dal macellare, avendo lavoro<br>più abbondante degli strumenti per farlo, abbatteva<br>alcuni mortalmente, altri appena toccava, altri cadevano<br>per sola [[concepts/fear\|paura]], sì che lo stretto passo fu ostruito<br>di uomini morti feriti alle spalle, e di codardi vivi<br>per morire con vergogna prolungata. |
+| SIGNORE | Dov’era questo viottolo? |
+| [[characters/posthumus\|POSTUMO]] | Vicinissimo alla battaglia, fossato e murato di zolle;<br>il che diede vantaggio a un vecchio soldato,<br>onesto, ve lo garantisco, che meritava<br>una così lunga vita quanta la sua bianca barba diceva,<br>per aver fatto questo per il suo paese. Attraverso il viottolo<br>egli, con due giovinetti-ragazzi più adatti a correre<br>giochi di campagna che a compiere tale strage;<br>con volti degni d’esser mascherati, o piuttosto più belli<br>di quelli che si coprono per preservarli, o per vergogna-<br>tenne il passaggio, gridò a quelli che fuggivano:<br>‘I cervi della nostra Britannia muoiono fuggendo, non i suoi uomini.<br>Alle tenebre volino le anime che volano all’indietro. Fermatevi,<br>o siamo Romani, e vi daremo da bestie<br>ciò che da bestie fuggite, e potete salvarvi<br>solo guardando indietro con cipiglio. Fermi, fermi.’ Questi tre,<br>arditi come tremila, e nell’atto altrettanti-<br>ché tre esecutori sono tutta la schiera quando<br>gli altri non fanno nulla-con questa parola ‘Fermi, fermi’,<br>favoriti dal luogo, e più incantevoli<br>per la loro stessa nobiltà, che avrebbe potuto mutare<br>una conocchia in lancia, e dorò i visi pallidi;<br>parte vergogna, parte spirito rinnovato, sì che alcuni, fatti<br>codardi<br>solo per esempio,-oh, peccato in guerra,<br>dannato in chi per primo lo comincia!-presero a guardare<br>là dove guardavan quelli, e a digrignare come leoni<br>contro le picche dei cacciatori. Allora cominciò<br>un arresto negli inseguitori, una ritirata. Tosto<br>una rotta, una fitta confusione; e subito fuggono<br>come polli per la via per cui erano piombati aquile; schiavi,<br>là dove da vincitori marciavano; e ora i nostri codardi,<br>come avanzi in dure traversate, divennero<br>la vita del bisogno. Trovata aperta la porta di dietro<br>dei cuori non custoditi, o cieli, come feriscono!<br>Alcuni già uccisi, altri morenti, altri i cui amici<br>erano stati travolti nell’ondata precedente, dieci inseguiti da uno,<br>son ora ciascuno il carnefice di venti.<br>Quelli che avrebbero preferito morire che resistere son divenuti<br>i mortali spauracchi del campo. |
+| SIGNORE | Fu strana ventura:<br>uno stretto viottolo, un vecchio e due ragazzi. |
+| [[characters/posthumus\|POSTUMO]] | Ma no, non ve ne [[concepts/wonder\|meravigliate]]. Eppure siete fatto<br>più per [[concepts/wonder\|meravigliarvi]] delle cose che udite<br>che per compierne alcuna. Volete metterlo in rima,<br>e spacciarlo come una beffa? Eccone una:<br>‘Due ragazzi, un vecchio due volte ragazzo, un viottolo,<br>salvarono i Britanni, e furono dei Romani la rovina.’ |
+| SIGNORE | Suvvia, non v’adirate, signore. |
+| [[characters/posthumus\|POSTUMO]] | Ahimè, a che fine?<br>Chi non osa affrontare il suo nemico, io gli sarò amico;<br>ché s’egli farà com’è fatto per fare,<br>so che presto fuggirà anche la mia [[concepts/friendship\|amicizia]].<br>Voi m’avete messo in rima. |
+| SIGNORE | Addio; siete in collera. |
+| *(didascalia)* | Esce |
+| [[characters/posthumus\|POSTUMO]] | Se ne va ancora? E questo è un signore? Oh nobile miseria,<br>esser sul campo e chiedere a me ‘Che nuove?’!<br>Oggi quanti avrebbero dato i loro onori<br>per salvare le loro carcasse-e presero il volo per farlo,<br>eppure morirono lo stesso! Io, incantato dal mio stesso dolore,<br>non ho potuto trovare la [[motifs/death\|morte]] dove l’udivo gemere,<br>né sentirla dove colpiva. Essendo un brutto [[archetypes/monster\|mostro]],<br>è strano ch’essa si nasconda in coppe fresche, in molli letti,<br>in dolci parole, e abbia più ministri di noi<br>che sguainiamo i suoi coltelli in guerra. [[motifs/well\|Bene]], la troverò;<br>ché, essendo ora favorevole al Britanno,<br>non più Britanno, ho ripreso di nuovo<br>la parte con cui venni. Combattere non voglio più,<br>ma mi arrenderò al più vile villano che mi tocchi<br>una sola volta la spalla. Grande è la strage<br>fatta qui dal Romano; grande sia la risposta<br>che i Britanni devono dare. Quanto a me, il mio riscatto è la [[motifs/death\|morte]];<br>d’ambo le parti io vengo a spendere il mio fiato,<br>che né qui serberò né porterò altrove,<br>ma lo finirò in qualche modo per [[characters/innogen\|Innogene]]. |
+| *(didascalia)* | Entrano due Capitani britanni e soldati |
+| PRIMO CAPITANO | Sia lodato il gran Giove, [[characters/lucius\|Lucio]] è preso.<br>Si crede che il vecchio e i suoi figli fossero angeli. |
+| SECONDO CAPITANO | C’era un quarto uomo, in umile arnese,<br>che sostenne l’urto con loro. |
+| PRIMO CAPITANO | Così si riferisce,<br>ma nessuno di loro si trova. Fermo, chi è là? |
+| [[characters/posthumus\|POSTUMO]] | Un Romano,<br>che ora non sarebbe qui abbattuto se dei secondi<br>gli avessero risposto. |
+| SECONDO CAPITANO | (ai soldati) Mettetegli le mani addosso, cane!<br>Non tornerà una gamba di Roma a raccontare<br>quali cornacchie li abbiano beccati qui. Egli si vanta del suo<br>servizio<br>come se fosse persona di conto. Conducetelo al [[archetypes/king\|Re]]. |
+| *(didascalia)* | Squilli di trombe. Entrano [[characters/cymbeline\|Cimbelino]] e il suo seguito, [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]], [[characters/arviragus\|Arvirago]], Pisanio e prigionieri romani. I Capitani presentano [[characters/posthumus\|Postumo]] a [[characters/cymbeline\|Cimbelino]], che lo consegna a un Carceriere. Escono tutti tranne [[characters/posthumus\|Postumo]] e due Carcerieri, che gli serrano i ceppi alle gambe |
+| PRIMO CARCERIERE | Ora non sarete rubato. Avete i lucchetti addosso,<br>e pascolate pure dove trovate pastura. |
+| SECONDO CARCERIERE | Sì, o dove trovate appetito. |
+| *(didascalia)* | Escono i Carcerieri |
+| [[characters/posthumus\|POSTUMO]] | Benvenuta, o schiavitù, ché tu sei una via,<br>io credo, alla libertà. Eppure sto meglio<br>di chi ha la gotta, poiché costui preferisce<br>gemere così in perpetuo che esser guarito<br>dal sicuro medico, la [[motifs/death\|morte]], che è la chiave<br>per aprire questi lucchetti. Mia [[concepts/conscience\|coscienza]], tu sei incatenata<br>più dei miei stinchi e dei miei polsi. Voi, dèi benigni, datemi<br>a me<br>lo strumento penitente per forzare quel chiavistello,<br>e poi libero per sempre. Basta ch’io sia pentito?<br>Così i figli placano i padri temporali;<br>gli dèi son più pieni di [[concepts/mercy\|misericordia]]. Se devo pentirmi,<br>non posso farlo meglio che in ceppi<br>desiderati più che imposti. Per soddisfare,<br>se della mia [[concepts/freedom\|libertà]] questa è la parte principale, non chiedete no<br>rendiconto più stretto da me del mio tutto.<br>So che siete più clementi degli uomini vili<br>che dai loro debitori falliti prendono un terzo,<br>un sesto, un decimo, lasciandoli prosperare di nuovo<br>sul loro abbuono. Non è questo il mio [[motifs/desire\|desiderio]].<br>Per la cara vita d’[[characters/innogen\|Innogene]] prendete la mia, e benché<br>non sia così cara, pure è una vita; voi la coniaste.<br>Fra uomo e uomo non si pesa ogni conio;<br>benché leggeri, si prendono i pezzi per amor dell’effigie;<br>voi a maggior ragione i miei, essendo vostri. E dunque, o grandi potenze,<br>se volete fare questo bilancio, prendete questa vita,<br>e cancellate questi freddi vincoli. Oh [[characters/innogen\|Innogene]],<br>ti parlerò in [[motifs/silence\|silenzio]]!<br>Si addormenta. Musica solenne. Entra, come in apparizione, Sicilio Leonato (padre di [[characters/posthumus\|Postumo]], un vecchio), vestito da guerriero, conducendo per mano un’antica matrona, sua moglie e madre di [[characters/posthumus\|Postumo]], con musica davanti a loro.<br>Poi, dopo altra musica, seguono i due giovani Leonati, fratelli di [[characters/posthumus\|Postumo]], con le ferite quali le ebbero morendo in guerra. Fanno cerchio intorno a [[characters/posthumus\|Postumo]] mentre giace dormendo |
+| SICILIO | Non più, o signore del tuono, mostrare<br>il tuo dispetto su mortali mosche.<br>Con Marte litiga, con Giunone contendi,<br>che i tuoi adultèri<br>rimprovera e vendica.<br>Ha il mio povero figlio fatto altro che [[motifs/well\|bene]],<br>lui di cui mai vidi il volto?<br>Io morii mentr’egli stava nel grembo,<br>attendendo la legge di [[concepts/nature\|natura]];<br>e suo padre allora-come dicono gli uomini<br>che tu sei padre degli orfani-<br>tu avresti dovuto essere, e fargli scudo<br>contro questa pena che affligge la terra. |
+| MADRE | Lucina non mi prestò il suo aiuto,<br>ma mi colse fra le doglie,<br>sì che da me [[characters/posthumus\|Postumo]] fu strappato,<br>e venne piangendo fra i suoi nemici,<br>creatura da pietà. |
+| SICILIO | La gran [[concepts/nature\|natura]], come i suoi avi,<br>plasmò la materia sì bella<br>ch’egli meritò la lode del mondo<br>quale erede del grande Sicilio. |
+| PRIMO FRATELLO | Quando una volta fu maturo per esser uomo,<br>in Britannia dov’era colui<br>che potesse ergersi suo pari,<br>o essere fecondo oggetto<br>agli occhi d’[[characters/innogen\|Innogene]], che meglio d’ogni altro<br>sapeva stimarne la dignità? |
+| MADRE | Perché fu beffato col [[motifs/marriage\|matrimonio]],<br>per essere esiliato, e scacciato<br>dalla sede dei Leonati, e strappato<br>a lei, la sua carissima,<br>la dolce [[characters/innogen\|Innogene]]? |
+| SICILIO | Perché permetteste che Giacomo,<br>cosa da nulla d’[[settings/italy\|Italia]],<br>infettasse il suo più nobile cuore e cervello<br>con vana [[concepts/jealousy\|gelosia]],<br>e ch’egli divenisse lo zimbello e lo scherno<br>della scelleraggine altrui? |
+| SECONDO FRATELLO | Per questo veniamo da sedi più quiete,<br>i nostri genitori e noi due,<br>che, colpendo per la causa del nostro paese,<br>cademmo valorosi e fummo uccisi,<br>per mantenere con [[concepts/honour\|onore]]<br>la nostra fedeltà e il diritto di Tenanzio. |
+| PRIMO FRATELLO | Pari ardimento [[characters/posthumus\|Postumo]] ha<br>a [[characters/cymbeline\|Cimbelino]] Prestato.<br>Allora, Giove, tu [[archetypes/king\|re]] degli dèi,<br>perché hai così differito<br>le grazie dovute ai suoi meriti,<br>volte tutte in dolori? |
+| SICILIO | Apri la tua [[motifs/window\|finestra]] di cristallo; guarda fuori;<br>non esercitare più<br>su una stirpe valorosa le tue dure<br>e potenti ingiurie. |
+| MADRE | Poiché, Giove, nostro figlio è buono,<br>togligli le sue miserie. |
+| SICILIO | Sbircia dalla tua dimora di marmo. Soccorri,<br>o noi poveri [[motifs/ghosts\|spettri]] grideremo<br>al fulgente sinodo degli altri<br>contro la tua deità. |
+| FRATELLI | Soccorri, Giove, o noi ci appelliamo,<br>e dalla tua giustizia fuggiamo.<br>Giove discende fra tuoni e [[motifs/lightning\|lampi]], seduto su un’aquila. Scaglia un fulmine. Gli [[motifs/ghosts\|spettri]] cadono in ginocchio |
+| GIOVE | Non più, voi minuti spiriti di regione bassa,<br>offendete il nostro udito. Zitti! Come osate voi [[motifs/ghosts\|spettri]]<br>accusare il tonante, il cui dardo, ben sapete,<br>piantato dal cielo, batte tutte le coste ribelli?<br>Povere ombre dell’Elisio, via, e riposate<br>sulle vostre rive di [[motifs/flowers\|fiori]] che mai appassiscono.<br>Non siate oppresse da accidenti mortali;<br>non è cura vostra; sapete ch’è nostra.<br>Chi più [[motifs/love\|amo]], io [[motifs/cross\|contrario]], per rendere il mio dono,<br>quanto più differito, tanto più gradito. Contentatevi.<br>Il vostro figlio abbattuto la nostra divinità solleverà.<br>I suoi conforti prosperano, le sue prove son [[motifs/well\|ben]] spese.<br>La nostra stella gioviale regnò alla sua nascita, e nel<br>nostro tempio fu sposato. Sorgete, e dileguatevi.<br>Egli sarà signore di Madonna [[characters/innogen\|Innogene]],<br>e assai più felice reso dalla sua afflizione.<br>Ponete questa tavoletta sul suo petto, nella quale<br>il nostro piacere racchiude la sua piena fortuna.<br>Dà agli [[motifs/ghosts\|spettri]] una tavoletta ch’essi pongono sul petto di [[characters/posthumus\|Postumo]]<br>E ora via. Non esprimete oltre col vostro strepito<br>impazienza, ché non destiate la mia.<br>Sali, aquila, al mio palazzo cristallino.<br>Ascende nei cieli |
+| SICILIO | Venne fra i tuoni. Il suo fiato celeste<br>era sulfureo all’odorato. La santa aquila<br>si abbassò, come per ghermirci. La sua ascesa<br>è più dolce dei nostri campi beati. Il suo regale uccello<br>si liscia l’ala immortale e s’affila il becco<br>come quando il suo dio è compiaciuto. |
+| TUTTI GLI [[motifs/ghosts\|SPETTRI]] | Grazie, Giove. |
+| SICILIO | Il pavimento di marmo si chiude, egli è entrato<br>nel suo tetto radioso. Via, e, per essere benedetti,<br>compiamo con cura il suo grande comando.<br>Gli [[motifs/ghosts\|spettri]] svaniscono<br>[[characters/posthumus\|Postumo]] si sveglia |
+| [[characters/posthumus\|POSTUMO]] | [[motifs/sleep\|Sonno]], tu sei stato un avo, e hai generato<br>un padre per me; e hai creato<br>una madre e due fratelli. Ma, oh scherno,<br>spariti! Se ne andarono appena furono nati,<br>e così io sono desto. Poveri miseri che dipendono<br>dal favore della [[concepts/greatness\|grandezza]] sognano come io ho sognato,<br>si destano e non trovano nulla. Ma, ahimè, io devio.<br>Molti non sognano di trovare, né meritano,<br>eppure sono immersi nei favori; e tale son io,<br>che ho questa aurea ventura e non so perché.<br>Quali fate infestano questo suolo? Un libro? Oh cosa rara,<br>non essere, come il nostro mondo bizzarro, una veste<br>più nobile di ciò che copre. Fa’ che i tuoi effetti<br>seguano tanto diversi dai nostri cortigiani<br>quanto la promessa è buona.<br>Legge<br>‘Quando il cucciolo d’un [[motifs/lion\|leone]], a se stesso ignoto, senza cercare troverà, e sarà abbracciato da un lembo di tenera aria; e quando da un cedro maestoso saranno recisi rami che, morti da molti anni, poi rivivranno, si congiungeranno al vecchio tronco e cresceranno freschi; allora [[characters/posthumus\|Postumo]] porrà fine alle sue miserie, la Britannia sarà fortunata e fiorirà in pace e abbondanza.’<br>È ancora un sogno, o roba tale quale i pazzi<br>pronunciano senza intenderla; o entrambe le cose, o nulla,<br>o un parlare senza senso, o un parlare tale<br>che il senso non sa sciogliere. Sia quel che sia,<br>l’azione della mia vita gli somiglia, e lo serberò,<br>non fosse che per simpatia. |
+| *(didascalia)* | Entra il Carceriere |
+| CARCERIERE | Venite, signore, siete pronto per la [[motifs/death\|morte]]? |
+| [[characters/posthumus\|POSTUMO]] | Troppo arrostito, piuttosto; pronto da un pezzo. |
+| CARCERIERE | La parola è impiccagione, signore. Se siete pronto per quella, siete [[motifs/well\|ben]] cotto. |
+| [[characters/posthumus\|POSTUMO]] | Così, se riesco buon pasto per gli spettatori, la pietanza paga il conto. |
+| CARCERIERE | Un conto pesante per voi, signore. Ma il conforto è che non sarete chiamato ad altri pagamenti, non [[concepts/fear\|temerete]] più conti d’osteria, che tanto spesso sono la tristezza del congedo quanto il procacciare allegria. Entrate svenuto per mancanza di cibo, uscite barcollando per troppo bere, dolente d’aver pagato troppo e dolente d’essere stato pagato troppo; borsa e cervello entrambi vuoti: il cervello tanto più pesante per essere troppo leggero, la borsa troppo leggera per essere stata svuotata del suo peso. Di questa contraddizione ora sarete quitto. Oh, la [[concepts/charity\|carità]] d’una corda da un soldo! Somma migliaia in un attimo. Non avete debitore e creditore più veri di lei: del passato, del presente e del futuro essa è la quietanza. Il vostro collo, signore, è penna, libro e gettoni; e così ne segue la quietanza. |
+| [[characters/posthumus\|POSTUMO]] | Io son più lieto di morire di quanto tu lo sia di vivere. |
+| CARCERIERE | Invero, signore, chi dorme non sente il mal di denti; ma un uomo che dovesse [[motifs/sleep\|dormire]] il vostro [[motifs/sleep\|sonno]], con un boia ad aiutarlo ad andare a letto, credo che scambierebbe il posto col suo ufficiale; perché, vedete, signore, voi non sapete per quale via andrete. |
+| [[characters/posthumus\|POSTUMO]] | Sì che lo so, amico. |
+| CARCERIERE | La vostra [[motifs/death\|morte]] ha dunque occhi in testa. Non l’ho mai vista dipinta così. Dovete o farvi guidare da certuni che si arrogano di sapere, o arrogarvi voi stesso ciò che di sicuro non sapete, o saltare l’indagine finale a vostro rischio; e quanto alla [[characters/speed\|riuscita]] alla fine del vostro [[motifs/journey\|viaggio]], credo che non tornerete mai a raccontarlo. |
+| [[characters/posthumus\|POSTUMO]] | Ti dico, amico, che non mancano occhi per indicare la via ch’io prendo, se non a coloro che li chiudono e non vogliono usarli. |
+| CARCERIERE | Che beffa infinita è questa, che un uomo debba fare il miglior uso degli occhi per vedere la via della cecità! Son certo che l’impiccagione è la via del chiudere gli occhi. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | Togliètegli le manette, portate il vostro prigioniero al [[archetypes/king\|Re]]. |
+| [[characters/posthumus\|POSTUMO]] | Tu porti buone nuove: son chiamato per essere fatto libero. |
+| CARCERIERE | Allora m’impicchino. |
+| [[characters/posthumus\|POSTUMO]] | Sarai allora più libero d’un carceriere: nessun chiavistello per i morti. |
+| CARCERIERE | (a parte) A meno che uno non voglia sposare una forca e generare giovani patiboli, non ho mai visto nessuno tanto pronto. Eppure, sulla mia [[concepts/conscience\|coscienza]], ci sono furfanti ben peggiori che [[motifs/desire\|desiderano]] vivere, per quanto costui sia Romano; e ce ne sono anche di quelli che muoiono contro voglia; e così farei io se fossi uno di loro. Vorrei che fossimo tutti d’un solo animo, e d’un animo buono. Oh, allora sarebbe la desolazione dei carcerieri e delle forche! Parlo contro il mio presente guadagno, ma il mio desiderio contiene una promozione. Escono |
+| *(didascalia)* | Squilli di trombe.  Entrano [[characters/cymbeline\|Cimbelino]], [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]], [[characters/arviragus\|Arvirago]], Pisanio e i signori |
+| [[characters/cymbeline\|CIMBELINO]] | (a [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]])<br>State al mio fianco, voi che gli dèi hanno fatto<br>preservatori del mio trono. Duole al mio cuore<br>che il povero soldato che sì riccamente combatté,<br>i cui cenci fecero vergogna alle armi dorate, il cui petto nudo<br>si spinse davanti a scudi a prova, non si possa trovare.<br>Sarà felice chi potrà trovarlo, se<br>la nostra grazia può renderlo tale. |
+| [[characters/belarius\|BELARIO]] | Non vidi mai<br>sì nobile furore in cosa tanto povera,<br>gesta sì preziose in uno che nulla prometteva<br>se non pezzenteria e povero aspetto. |
+| [[characters/cymbeline\|CIMBELINO]] | Nessuna notizia di lui? |
+| PISANIO | È stato cercato fra i morti e i vivi,<br>ma nessuna traccia di lui. |
+| [[characters/cymbeline\|CIMBELINO]] | Con mio dolore io sono<br>l’erede della sua ricompensa, che aggiungerò<br>(a [[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]])<br>a voi, fegato, cuore e cervello della Britannia,<br>per i quali riconosco ch’ella vive. È ora il [[motifs/time\|tempo]]<br>di chiedere donde venite. Riferitelo. |
+| [[characters/belarius\|BELARIO]] | Signore,<br>in Cambria siamo nati, e gentiluomini.<br>Vantarsi oltre non sarebbe né vero né modesto,<br>se non aggiungo che siamo onesti. |
+| [[characters/cymbeline\|CIMBELINO]] | Piegate le ginocchia.<br>S’inginocchiano. Egli li fa cavalieri<br>Sorgete, miei cavalieri della battaglia. Vi creo<br>compagni della nostra persona, e vi fornirò<br>di dignità convenienti al vostro stato.<br>[[characters/belarius\|Belario]], [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]] si alzano. |
+| *(didascalia)* | Entrano Cornelio e le Dame |
+| [[characters/cymbeline\|CIMBELINO]] | C’è qualcosa in questi volti. Perché salutate<br>così mestamente la nostra vittoria? Sembrate Romani,<br>e non della [[settings/court\|corte]] di Britannia. |
+| CORNELIO | Salve, gran [[archetypes/king\|Re]]!<br>Per inacidire la vostra felicità devo riferire<br>che la [[characters/queen\|Regina]] è morta. |
+| [[characters/cymbeline\|CIMBELINO]] | A chi peggio che a un medico<br>si converrebbe questo annuncio? Ma considero<br>che con la medicina la vita può prolungarsi, eppure la [[motifs/death\|morte]]<br>afferrerà anche il dottore. Come è finita? |
+| CORNELIO | Con orrore, morendo furiosamente, come la sua vita,<br>che, essendo crudele al mondo, si concluse<br>crudelissima verso se stessa. Ciò ch’ella confessò<br>riferirò, se vi piace. Queste sue donne<br>possono smentirmi s’io erro, ché con le guance bagnate<br>erano presenti quando spirò. |
+| [[characters/cymbeline\|CIMBELINO]] | Ti prego, parla. |
+| CORNELIO | Prima, confessò che non v’amò mai, ma solo<br>desiderò la [[concepts/greatness\|grandezza]] ottenuta per mezzo vostro, non voi;<br>sposò la vostra regalità, fu moglie del vostro seggio,<br>aborrì la vostra persona. |
+| [[characters/cymbeline\|CIMBELINO]] | Ella sola sapeva questo,<br>e se non l’avesse detto morendo, io non<br>crederei alle sue labbra nel rivelarlo. Procedi. |
+| CORNELIO | Vostra figlia, che ella fingeva d’[[motifs/love\|amare]]<br>con tanta integrità, confessò<br>ch’era come uno scorpione alla sua vista, e la cui vita,<br>se la fuga non l’avesse impedito, ella avrebbe<br>spenta col [[motifs/poison\|veleno]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Oh demonio raffinatissimo!<br>Chi mai può leggere una donna? V’è dell’altro? |
+| CORNELIO | Dell’altro, signore, e peggiore. Confessò d’avere<br>per voi un minerale mortale che, preso,<br>avrebbe di minuto in minuto roso la vita, e, indugiando,<br>a pollice a pollice consumato voi. Nel qual [[motifs/time\|tempo]] ella si proponeva,<br>col vegliare, piangere, assistere, baciare, di<br>vincervi con la sua finzione; e infine,<br>quando v’avesse foggiato con la sua arte, di condurre<br>suo figlio all’adozione della [[motifs/crown\|corona]];<br>ma, mancato il suo fine per la strana assenza di lui,<br>divenne svergognatamente disperata, e aprì a dispetto<br>del cielo e degli uomini i suoi disegni, pentendosi<br>che i mali covati non fossero stati compiuti; e così<br>morì disperando. |
+| [[characters/cymbeline\|CIMBELINO]] | Udiste tutto ciò, voi sue donne? |
+| *(didascalia)* | DAME |
+| [[characters/cymbeline\|CIMBELINO]] | L’udimmo, se piace a vostra altezza. |
+| [[characters/cymbeline\|CIMBELINO]] | I miei occhi<br>non erano in colpa, ché ella era bella;<br>né i miei orecchi che udirono la sua adulazione, né il mio cuore<br>che la credette simile al suo apparire. Sarebbe stato vizioso<br>diffidare di lei. Eppure, o mia figlia,<br>che fu follia in me tu puoi ben dirlo,<br>e provarlo con ciò che hai sofferto. Il cielo emendi tutto! |
+| *(didascalia)* | Entrano [[characters/lucius\|Lucio]], Giacomo, l’Indovino e altri prigionieri romani, [[characters/posthumus\|Postumo]] dietro, e [[characters/innogen\|Innogene]] vestita da uomo, tutti sotto scorta di soldati britanni |
+| [[characters/cymbeline\|CIMBELINO]] | Non vieni ora, Caio, per il tributo. Quello<br>i Britanni l’hanno cancellato, benché con la perdita<br>di più d’un ardito; i cui congiunti hanno chiesto<br>che le loro buone anime siano placate con la strage<br>di voi, loro prigionieri, il che noi stessi abbiamo concesso.<br>Pensate dunque alla vostra condizione. |
+| [[characters/lucius\|LUCIO]] | Considerate, signore, la sorte della guerra. La giornata<br>fu vostra per accidente. Se fosse andata a noi,<br>non avremmo, quando il [[motifs/blood\|sangue]] si fu raffreddato,<br>minacciato<br>i nostri prigionieri con la spada. Ma poiché gli dèi<br>vogliono così, che nulla se non le nostre vite<br>possa chiamarsi riscatto, venga pure. Basti<br>che un Romano con cuore di Romano sa soffrire.<br>Augusto vive per pensarci; e questo basti<br>quanto alla mia particolare sorte. Solo questa cosa<br>chiederò in grazia:<br>Presenta [[characters/innogen\|Innogene]] a [[characters/cymbeline\|Cimbelino]] il mio ragazzo, nato Britanno,<br>sia riscattato. Mai padrone ebbe<br>un paggio così gentile, così ossequente, diligente,<br>così premuroso nelle sue occorrenze, fedele,<br>così destro, così simile a una [[characters/nurse\|nutrice]]; s’unisca la sua virtù<br>alla mia richiesta, che oso dire vostra altezza<br>non può negare. Egli non ha fatto male a nessun Britanno,<br>benché abbia servito un Romano. Salvate lui, signore,<br>e non risparmiate altro [[motifs/blood\|sangue]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Certamente l’ho già veduto.<br>Il suo volto mi è familiare. Ragazzo,<br>tu ti sei guardato dentro la mia grazia,<br>e sei mio. Non so perché, né per qual ragione,<br>debba dire ‘Vivi, ragazzo’. Non ringraziare il tuo padrone. Vivi,<br>e chiedi a [[characters/cymbeline\|Cimbelino]] qual grazia tu voglia,<br>conveniente alla mia munificenza e al tuo stato, e te la darò,<br>sì, quand’anche tu domandassi un prigioniero<br>fra i più nobili presi. |
+| [[characters/innogen\|INNOGENE]] | Umilmente ringrazio vostra altezza. |
+| [[characters/lucius\|LUCIO]] | Non ti chiedo di supplicare per la mia vita, buon ragazzo,<br>eppure so che lo farai. |
+| [[characters/innogen\|INNOGENE]] | No, no. Ahimè,<br>c’è altro da fare. Vedo una cosa<br>amara per me quanto la [[motifs/death\|morte]]. La vostra vita, buon padrone,<br>deve arrangiarsi da sé. |
+| [[characters/lucius\|LUCIO]] | Il ragazzo mi disdegna.<br>Mi [[motifs/leaves\|lascia]], mi sprezza. Brevemente muoiono le gioie<br>di chi le ripone nella [[concepts/truth\|fedeltà]] di fanciulle e fanciulli.<br>Perché sta così perplesso? |
+| [[characters/cymbeline\|CIMBELINO]] | (a [[characters/innogen\|Innogene]]) Che vuoi tu, ragazzo?<br>Ti [[motifs/love\|amo]] sempre più; pensa sempre più<br>a ciò che è meglio chiedere. Conosci colui che guardi?<br>Parla, no<br>vuoi ch’egli viva? È tuo parente, tuo amico? |
+| [[characters/innogen\|INNOGENE]] | Egli è un Romano, non più mio parente<br>di quanto io lo sia di vostra altezza; e io, nato vostro vassallo,<br>lo sono un poco di più. |
+| [[characters/cymbeline\|CIMBELINO]] | Perché lo fissi così? |
+| [[characters/innogen\|INNOGENE]] | Ve lo dirò, signore, in privato, se vi piace<br>di darmi ascolto. |
+| [[characters/cymbeline\|CIMBELINO]] | Sì, con tutto il cuore,<br>e presterò la mia miglior attenzione. Qual è il tuo nome? |
+| [[characters/innogen\|INNOGENE]] | Fidele, signore. |
+| [[characters/cymbeline\|CIMBELINO]] | Sei il mio buon giovane, il mio paggio.<br>Sarò il tuo padrone. Cammina con me, parla liberamente.<br>[[characters/cymbeline\|Cimbelino]] e [[characters/innogen\|Innogene]] parlano in disparte |
+| [[characters/belarius\|BELARIO]] | (a parte, a [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]])<br>Non è questo ragazzo tornato dalla [[motifs/death\|morte]]? |
+| [[characters/arviragus\|ARVIRAGO]] | Un granello di sabbia con un altro<br>non somiglia di più a quel dolce roseo giovinetto<br>che morì, ed era Fidele. Che ne pensate? |
+| [[characters/guiderius\|GUIDERIO]] | La stessa cosa morta, viva. |
+| [[characters/belarius\|BELARIO]] | Zitti, zitti, guardiamo oltre. Non ci guarda. Trattenetevi.<br>Le creature possono somigliarsi. Fosse lui, son certo<br>che ci avrebbe parlato. |
+| [[characters/guiderius\|GUIDERIO]] | Ma lo vedemmo morto. |
+| [[characters/belarius\|BELARIO]] | Silenzio; guardiamo oltre. |
+| PISANIO | (a parte)<br>È la mia padrona.<br>Poiché è viva, che il [[motifs/time\|tempo]] corra<br>al bene o al male. |
+| [[characters/cymbeline\|CIMBELINO]] | (a [[characters/innogen\|Innogene]]) Su, mettiti al nostro fianco,<br>e fa’ la tua domanda ad alta voce. (A Giacomo) Signore, fatevi<br>avanti.<br>Rispondete a questo ragazzo, e fatelo liberamente,<br>o, per la nostra [[concepts/greatness\|grandezza]] e la sua grazia,<br>che è il nostro [[concepts/honour\|onore]], un’amara tortura<br>separerà come loglio la [[concepts/truth\|verità]] dalla menzogna.<br>(A [[characters/innogen\|Innogene]])<br>Su, parlagli. |
+| [[characters/innogen\|INNOGENE]] | La mia grazia è che questo gentiluomo dichiari<br>da chi ebbe quest’anello. |
+| [[characters/posthumus\|POSTUMO]] | (a parte) Che gliene importa? |
+| [[characters/cymbeline\|CIMBELINO]] | (a Giacomo)<br>Quel diamante sul vostro dito, dite,<br>come divenne vostro? |
+| GIACOMO | Mi tortureresti perché lasci non detto ciò<br>che a essere detto torturerebbe te. |
+| [[characters/cymbeline\|CIMBELINO]] | Come, me? |
+| GIACOMO | Son lieto d’esser costretto a proferire ciò<br>che mi tormenta a tacere. Per scelleraggine<br>ottenni quest’anello; era il [[motifs/jewel\|gioiello]] di Leonato,<br>che tu bandisti; e, ciò che più può<br>affliggerti,<br>come affligge me, mai visse signore più nobile<br>fra cielo e terra. Vuoi udire di più, mio signore? |
+| [[characters/cymbeline\|CIMBELINO]] | Tutto ciò che a questo appartiene. |
+| GIACOMO | Quel paragone di tua figlia,<br>per la quale il mio cuore stilla [[motifs/blood\|sangue]], e i miei falsi spiriti<br>vengon meno a ricordare-datemi licenza, mi sento mancare. |
+| [[characters/cymbeline\|CIMBELINO]] | Mia figlia? Che c’è di lei? Rinnova la tua forza.<br>Preferirei che tu vivessi quanto vorrà la [[concepts/nature\|natura]]<br>piuttosto che morissi prima ch’io oda di più. Sforzati, uomo, e parla. |
+| GIACOMO | Una [[motifs/time\|volta]]-infelice fu l’[[motifs/clock\|orologio]]<br>che batté quell’ora-fu a Roma-maledetta<br>la casa dove-fu a un banchetto-oh, fossero<br>state avvelenate le nostre vivande, o almeno<br>quelle ch’io portai alla bocca!—il buon [[characters/posthumus\|Postumo]]—<br>che dovrei dire?—egli era troppo buono per stare<br>dove stavan uomini cattivi, ed era il migliore fra tutti<br>fra i più rari dei buoni-sedendo mesto,<br>udendoci lodare le nostre amanti d’[[settings/italy\|Italia]]<br>per una [[concepts/beauty\|bellezza]] che rendeva sterile il gonfio vanto<br>di chi meglio sapeva parlare; per fattezze che facevano zoppicare<br>il tempio di [[characters/venus\|Venere]] o la ben ritta Minerva,<br>portamenti oltre la breve [[concepts/nature\|natura]]; per indole,<br>una bottega di tutte le qualità per cui l’uomo<br>ama la donna; oltre a quell’amo del maritarsi,<br>la beltà che colpisce l’occhio— |
+| [[characters/cymbeline\|CIMBELINO]] | Io sto sul [[motifs/fire\|fuoco]].<br>Vieni al fatto. |
+| GIACOMO | Ci verrò fin troppo presto,<br>a meno che tu non voglia affliggerti in fretta. Questo [[characters/posthumus\|Postumo]],<br>proprio come nobile signore in [[motifs/love\|amore]], e uno<br>che aveva un regale [[archetypes/lover\|amante]], colse lo spunto,<br>e, senza denigrare chi noi lodavamo—in ciò<br>fu calmo come la virtù-cominciò<br>il ritratto della sua signora; e quel ritratto, fatto dalla sua lingua<br>e poi animato d’un’anima, o rese i nostri vanti<br>vanti da sguattere di cucina, o la sua descrizione<br>ci provò balordi senza parola. |
+| [[characters/cymbeline\|CIMBELINO]] | Suvvia, suvvia, al punto. |
+| GIACOMO | La castità di vostra figlia-là comincia.<br>Egli parlò di lei come se Diana avesse caldi [[motifs/dreams\|sogni]]<br>ed ella sola fosse fredda; onde io, misero,<br>feci obiezione alla sua lode, e scommisi con lui<br>pezzi d’oro contro questo ch’egli allora portava<br>sul suo onorato dito, per ottenere<br>col corteggiare il posto del suo letto e vincere quest’anello<br>con l’adulterio di lei e mio. Egli, vero cavaliere,<br>non meno fiducioso nel suo [[concepts/honour\|onore]]<br>di quanto io la trovai in verità, mette in gioco quest’anello—<br>e l’avrebbe fatto fosse pure un carbonchio<br>della [[motifs/wheel\|ruota]] di Febo; e con pari sicurezza l’avrebbe fatto<br>fosse tutto il valore del suo carro. Via, in Britannia<br>corro in questo disegno. [[motifs/well\|Ben]] potete, signore,<br>ricordarvi di me a [[settings/court\|corte]], dove appresi<br>dalla vostra casta figlia la larga differenza<br>fra amoroso e scellerato. Così spento<br>di [[concepts/hope\|speranza]], non di [[concepts/longing\|desiderio]], il mio cervello italiano<br>prese a operare nella vostra più ottusa Britannia<br>vilissimamente; per il mio vantaggio, eccellentemente.<br>E, per esser breve, il mio artificio prevalse tanto<br>ch’io tornai con prove simulate abbastanza<br>da far impazzire il nobile Leonato<br>ferendo la sua fede nella fama di lei<br>con segni tali e tali; asserendo particolari<br>dei parati della camera, dei quadri, e questo suo braccialetto—<br>oh astuzia, come lo presi!—anzi, certi segni<br>segreti sulla sua persona, sì ch’egli non poté<br>non credere che il suo vincolo di castità fosse infranto,<br>e ch’io ne avessi preso il pegno. E allora—<br>mi par di vederlo ora— |
+| [[characters/posthumus\|POSTUMO]] | (facendosi avanti) Sì, tu lo vedi,<br>demonio italiano! Ahimè, credulissimo [[archetypes/fool\|sciocco]],<br>egregio assassino, ladro, tutto ciò<br>che si conviene a tutti gli scellerati passati, presenti<br>e futuri! Oh, datemi corda, o coltello, o [[motifs/poison\|veleno]],<br>qualche giusto giustiziere! Tu, [[archetypes/king\|Re]], manda a chiamare<br>ingegnosi torturatori. Son io<br>che tutte le cose aborrite della terra emendo<br>essendo peggiore di esse. Io sono [[characters/posthumus\|Postumo]],<br>che uccise tua figlia—da [[archetypes/villain\|scellerato]], mento:<br>che fece fare a uno [[archetypes/villain\|scellerato]] minore di me,<br>a un ladro sacrilego, l’opera. Ella era il tempio<br>della virtù; anzi, era la virtù stessa.<br>Sputate e gettate pietre, scagliatemi fango addosso, aizzate<br>i cani della strada a latrarmi dietro. Ogni [[archetypes/villain\|scellerato]]<br>sia chiamato [[characters/posthumus\|Postumo]] Leonato, e<br>‘[[archetypes/villain\|scellerato]]’ sia meno di quel che era! Oh [[characters/innogen\|Innogene]]!<br>Mia [[characters/queen\|regina]], mia vita, mia moglie, oh [[characters/innogen\|Innogene]],<br>[[characters/innogen\|Innogene]], [[characters/innogen\|Innogene]]! |
+| [[characters/innogen\|INNOGENE]] | (avvicinandoglisi) Pace, mio signore. Udite, udite. |
+| [[characters/posthumus\|POSTUMO]] | Dovremo farne una commedia? Tu, paggio sprezzante,<br>là giace la tua parte.<br>La atterra con un colpo |
+| PISANIO | (facendosi avanti) Oh signori, aiuto!<br>La mia e la vostra padrona! Oh mio signore [[characters/posthumus\|Postumo]],<br>voi non uccideste [[characters/innogen\|Innogene]] fino a ora. Aiuto, aiuto!<br>(A [[characters/innogen\|Innogene]]) Mia onorata signora. |
+| [[characters/cymbeline\|CIMBELINO]] | Gira il mondo intorno? |
+| [[characters/posthumus\|POSTUMO]] | Donde mi vengono queste vertigini? |
+| PISANIO | (a [[characters/innogen\|Innogene]])<br>Destatevi, mia padrona. |
+| [[characters/cymbeline\|CIMBELINO]] | Se questo è vero, gli dèi vogliono colpirmi<br>a [[motifs/death\|morte]] con gioia mortale. |
+| PISANIO | (a [[characters/innogen\|Innogene]]) Come sta la mia padrona? |
+| [[characters/innogen\|INNOGENE]] | Oh, togliti dalla mia vista!<br>Tu mi desti il [[motifs/poison\|veleno]]. Uomo pericoloso, via.<br>Non respirare dove son principi. |
+| [[characters/cymbeline\|CIMBELINO]] | La voce di [[characters/innogen\|Innogene]]. |
+| PISANIO | Signora, gli dèi mi scaglino addosso pietre di zolfo se<br>quella scatola ch’io vi diedi non fu da me creduta<br>cosa preziosa. L’ebbi dalla [[characters/queen\|Regina]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Sempre nuove cose. |
+| [[characters/innogen\|INNOGENE]] | Essa mi avvelenò. |
+| CORNELIO | O dèi!<br>Ho tralasciato una cosa che la [[characters/queen\|Regina]] confessò<br>(a Pisanio) e che deve provarti onesto. ’Se Pisanio<br>ha’, disse ella, ‘dato alla sua padrona quella confezione<br>ch’io gli diedi per cordiale, ella è servita<br>come io servirei un topo.’ |
+| [[characters/cymbeline\|CIMBELINO]] | Che è questo, Cornelio? |
+| CORNELIO | La [[characters/queen\|Regina]], signore, assai spesso m’importunò<br>perché le preparassi veleni, sempre pretendendo<br>di volere soltanto soddisfazione al suo sapere<br>uccidendo creature vili, come gatti e cani<br>di nessun pregio. Io, temendo che il suo scopo<br>fosse di maggior pericolo, le composi<br>una certa sostanza che, presa, avrebbe sospeso<br>la presente potenza della vita, ma in breve [[motifs/time\|tempo]]<br>tutti gli uffici della [[concepts/nature\|natura]] avrebbero di nuovo<br>compiuto le loro debite funzioni. (A [[characters/innogen\|Innogene]]) Ne avete<br>presa? |
+| [[characters/innogen\|INNOGENE]] | Assai probabilmente sì, ché io ero morta. |
+| [[characters/belarius\|BELARIO]] | (a parte, a [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]]) Ragazzi miei,<br>là fu il nostro errore. |
+| [[characters/guiderius\|GUIDERIO]] | Questo è di certo Fidele. |
+| [[characters/innogen\|INNOGENE]] | (a [[characters/posthumus\|Postumo]])<br>Perché scagliaste lontano da voi la vostra sposa?<br>Pensate d’essere su una rupe, e ora<br>gettatemi di nuovo.<br>Gli getta le braccia al collo |
+| [[characters/posthumus\|POSTUMO]] | Pendi là come un frutto, [[motifs/soul\|anima]] mia,<br>finché l’albero non muoia. |
+| [[characters/cymbeline\|CIMBELINO]] | (a [[characters/innogen\|Innogene]]) Ebbene, carne mia, [[archetypes/child\|figlia]] mia?<br>Che, mi fai tu da balordo in questa scena?<br>Non vuoi parlarmi? |
+| [[characters/innogen\|INNOGENE]] | (inginocchiandosi)<br>La vostra benedizione, signore. |
+| [[characters/belarius\|BELARIO]] | (a parte, a [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]])<br>Benché abbiate [[motifs/love\|amato]] questo giovane, non vi biasimo.<br>Ne avevate un motivo. |
+| [[characters/cymbeline\|CIMBELINO]] | Le mie [[motifs/tears\|lacrime]] che cadono<br>siano su di te [[motifs/water\|acqua]] santa! |
+| *(didascalia)* | La rialza |
+| [[characters/cymbeline\|CIMBELINO]] | [[characters/innogen\|Innogene]],<br>tua madre è morta. |
+| [[characters/innogen\|INNOGENE]] | Me ne duole, mio signore. |
+| [[characters/cymbeline\|CIMBELINO]] | Oh, ella non valeva nulla, e per causa sua<br>ci ritroviamo qui in modo sì strano. Ma suo figlio<br>è scomparso, non sappiamo come né dove. |
+| PISANIO | Mio signore,<br>ora che la [[concepts/fear\|paura]] è lontana da me dirò la [[concepts/truth\|verità]]. Il signor [[characters/cloten\|Cloten]],<br>quando la mia signora fu cercata invano, venne da me<br>con la spada sguainata, con la schiuma alla bocca, e<br>giurò<br>che, se non gli scoprivo per quale via ella se n’era andata,<br>sarebbe stata la mia [[motifs/death\|morte]] immediata. Per caso<br>avevo allora in tasca una finta lettera<br>del mio padrone, che lo indirizzò<br>a cercarla sui [[settings/mountains\|monti]] presso Milford,<br>dove, in preda alla frenesia, negli abiti del mio padrone,<br>ch’egli mi estorse, corse in fretta<br>con proposito impuro, e con giuramento di violare<br>l’[[concepts/honour\|onore]] della mia signora. Che ne sia stato di lui<br>oltre non so. |
+| [[characters/guiderius\|GUIDERIO]] | Lasciate ch’io finisca la storia.<br>Io l’uccisi là. |
+| [[characters/cymbeline\|CIMBELINO]] | In verità, gli dèi non voglia!<br>Non vorrei che le tue buone azioni strappassero<br>dalle mie labbra una dura sentenza. Ti prego, valoroso giovane,<br>negalo di nuovo. |
+| [[characters/guiderius\|GUIDERIO]] | L’ho detto, e l’ho fatto. |
+| [[characters/cymbeline\|CIMBELINO]] | Egli era un principe. |
+| [[characters/guiderius\|GUIDERIO]] | Un principe incivilissimo. I torti che mi fece<br>non erano affatto da principe, ché mi provocò<br>con parole tali che m’avrebbero fatto sprezzare il mare<br>se avesse potuto ruggirmi così. Gli tagliai la testa,<br>e son ben lieto ch’egli non stia qui ritto<br>a raccontar questa mia storia. |
+| [[characters/cymbeline\|CIMBELINO]] | Mi duole per te.<br>Per la tua stessa lingua sei condannato, e devi<br>subire la nostra legge. Sei morto. |
+| [[characters/innogen\|INNOGENE]] | Quell’uomo senza testa<br>io credetti fosse il mio signore. |
+| [[characters/cymbeline\|CIMBELINO]] | (ai soldati)<br>Legate il colpevole,<br>e toglietelo dalla nostra presenza. |
+| [[characters/belarius\|BELARIO]] | Fermati, sire [[archetypes/king\|Re]].<br>Questo ragazzo è migliore dell’uomo che uccise,<br>di nascita [[motifs/well\|altrettanto]] buona della tua, e ha<br>meritato di te più di quanto una banda di Cloten<br>abbia mai avuto cicatrici per meritare. Lascia stare le sue braccia;<br>non nacquero per i ceppi—lasciale libere. |
+| [[characters/cymbeline\|CIMBELINO]] | Ma, vecchio soldato,<br>vuoi tu disfare il merito per cui non sei ancora pagato<br>gustando la nostra ira? Come, di stirpe<br>buona quanto la nostra? |
+| [[characters/arviragus\|ARVIRAGO]] | In questo egli disse troppo. |
+| *(didascalia)* | [[characters/cymbeline\|CIMBELINO]] a [[characters/belarius\|Belario]] |
+| [[characters/arviragus\|ARVIRAGO]] | E tu ne morrai. |
+| [[characters/belarius\|BELARIO]] | Moriremo tutti e tre,<br>ma io proverò che due di noi son buoni<br>quanto ho detto che è lui. Figli miei, devo<br>per parte mia svelare un discorso pericoloso,<br>benché forse [[motifs/well\|buono]] per voi. |
+| [[characters/arviragus\|ARVIRAGO]] | Il vostro pericolo è nostro. |
+| [[characters/guiderius\|GUIDERIO]] | E il nostro bene è suo. |
+| [[characters/belarius\|BELARIO]] | Sia dunque. Col vostro permesso,<br>tu avesti, gran [[archetypes/king\|Re]], un suddito che<br>si chiamava [[characters/belarius\|Belario]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Che c’è di lui? È<br>un traditore bandito. |
+| [[characters/belarius\|BELARIO]] | È lui che ha<br>assunto questa vecchiaia. Bandito, invero;<br>traditore non so come. |
+| [[characters/cymbeline\|CIMBELINO]] | (ai soldati)<br>Portatelo via.<br>Il mondo intero non lo salverà. |
+| [[characters/belarius\|BELARIO]] | Non tanta foga.<br>Prima pagami per l’allevamento dei tuoi figli,<br>e sia poi confiscato tutto non appena<br>l’avrò ricevuto. |
+| [[characters/cymbeline\|CIMBELINO]] | L’allevamento dei miei figli? |
+| [[characters/belarius\|BELARIO]] | Sono troppo brusco e insolente. (Inginocchiandosi) Ecco il mio ginocchio.<br>Prima d’alzarmi innalzerò i miei figli,<br>poi non risparmiate il vecchio padre. Possente signore,<br>questi due giovani gentiluomini che mi chiamano padre<br>e credono d’esser miei figli non son miei affatto.<br>Sono il frutto dei vostri lombi, mio sovrano,<br>e [[motifs/blood\|sangue]] del vostro generare. |
+| [[characters/cymbeline\|CIMBELINO]] | Come, frutto mio? |
+| [[characters/belarius\|BELARIO]] | Sì certo come voi lo siete di vostro padre. Io, vecchio Morgan,<br>sono quel [[characters/belarius\|Belario]] che un tempo bandiste.<br>Il vostro piacere fu tutta la mia offesa, la mia punizione<br>stessa, e tutto il mio tradimento. Ciò che soffrii<br>fu tutto il male ch’io feci. Questi gentili principi—<br>ché tali essi sono-per vent’anni<br>li ho allevati. Quelle arti hanno che io<br>seppi metter loro dentro. La mia educazione fu, signore,<br>quale vostra altezza sa. La loro [[characters/nurse\|nutrice]] Eurifile,<br>che per il furto sposai, rubò questi bambini<br>al tempo del mio bando. Io ve la spinsi,<br>avendo ricevuto la punizione prima<br>di ciò che allora feci. L’esser battuto per lealtà<br>mi eccitò al tradimento. La loro cara perdita,<br>quanto più fu sentita da voi, tanto più si conformò<br>al mio fine nel rapirli. Ma, grazioso signore,<br>eccovi di nuovo i vostri figli, e io devo perdere<br>due dei più dolci compagni del mondo.<br>La benedizione di questi cieli che ci coprono<br>cada sui loro capi come rugiada, ché son degni<br>d’intarsiare il cielo di [[motifs/stars\|stelle]]. |
+| [[characters/cymbeline\|CIMBELINO]] | Tu piangi, e parli.<br>Il servigio che voi tre avete reso è più<br>inverosimile di questo che racconti. Io persi i miei figli.<br>Se questi son loro, non so come desiderare<br>una coppia di figli più degni. |
+| *(didascalia)* | [[characters/belarius\|BELARIO]] alzandosi |
+| [[characters/cymbeline\|CIMBELINO]] | Compiacetevi un momento.<br>Questo gentiluomo, ch’io chiamo Polidoro,<br>degnissimo principe, come vostro, è il vero [[characters/guiderius\|Guiderio]]. |
+| *(didascalia)* | [[characters/guiderius\|Guiderio]] s’inginocchia |
+| [[characters/cymbeline\|CIMBELINO]] | Questo gentiluomo, il mio Cadwal, è [[characters/arviragus\|Arvirago]],<br>il vostro più giovane figlio principesco. |
+| *(didascalia)* | [[characters/arviragus\|Arvirago]] s’inginocchia |
+| [[characters/cymbeline\|CIMBELINO]] | Egli, signore, fu avvolto<br>in un mantello ricercatissimo, opera della mano<br>della sua [[characters/queen\|regina]] madre; il quale, per maggior prova,<br>posso con facilità produrre. |
+| [[characters/cymbeline\|CIMBELINO]] | [[characters/guiderius\|Guiderio]] aveva<br>sul collo un neo, una stella sanguigna.<br>Era un segno di [[concepts/wonder\|meraviglia]]. |
+| [[characters/belarius\|BELARIO]] | Questi è lui,<br>che porta ancora addosso quel naturale suggello.<br>Fu il fine della saggia [[concepts/nature\|natura]] nel donarglielo<br>ch’esso fosse ora la sua testimonianza. |
+| [[characters/cymbeline\|CIMBELINO]] | Oh, che cosa sono io?<br>Una madre al parto di tre? Mai madre<br>gioì più d’un partorire. Siate benedetti,<br>voi che, dopo questo strano uscire dalle vostre orbite,<br>possiate ora regnarvi dentro! |
+| *(didascalia)* | [[characters/guiderius\|Guiderio]] e [[characters/arviragus\|Arvirago]] si alzano |
+| [[characters/cymbeline\|CIMBELINO]] | Oh [[characters/innogen\|Innogene]],<br>tu hai perduto con ciò un regno. |
+| [[characters/innogen\|INNOGENE]] | No, mio signore,<br>ci ho guadagnato due mondi. Oh miei gentili fratelli,<br>ci siamo dunque incontrati così? Oh, non dite mai più<br>ch’io non sia la più verace parlatrice. Voi mi chiamaste fratello<br>quand’io non ero che vostra sorella; e io voi fratelli<br>quando tali eravate davvero. |
+| [[characters/cymbeline\|CIMBELINO]] | Vi incontraste mai? |
+| [[characters/arviragus\|ARVIRAGO]] | Sì, mio buon signore. |
+| [[characters/guiderius\|GUIDERIO]] | E al primo incontro l’amammo,<br>e così continuammo finché non lo credemmo morto. |
+| CORNELIO | Per la dramma della [[characters/queen\|Regina]] ch’egli ingoiò. |
+| [[characters/cymbeline\|CIMBELINO]] | Oh raro istinto!<br>Quando udrò tutto per intero? Questo aspro compendio<br>ha in sé rami circostanziati nei quali<br>la distinzione dovrebbe esser ricca. Dove? Come viveste?<br>E quando veniste a servire il nostro prigioniero romano?<br>Come vi separaste dai vostri fratelli? Come li incontraste dapprima?<br>Perché fuggiste dalla [[settings/court\|corte]]? E dove? Queste cose,<br>e i vostri tre motivi per la battaglia, con<br>non so quanto altro, dovrebbero esser chieste,<br>e tutte le altre dipendenze accessorie,<br>di caso in caso. Ma né il [[motifs/time\|tempo]] né il luogo<br>serviranno ai nostri lunghi interrogatori. Vedete,<br>[[characters/posthumus\|Postumo]] getta l’àncora su [[characters/innogen\|Innogene]],<br>ed ella, come innocuo [[motifs/lightning\|lampo]], getta lo sguardo<br>su di lui, sui suoi fratelli, su me, sul suo padrone, colpendo<br>ciascun oggetto con una gioia. Lo scambio<br>è distinto in ciascuno. Lasciamo questo terreno,<br>e affumichiamo il tempio coi nostri sacrifici.<br>(A [[characters/belarius\|Belario]]) Tu sei mio fratello; e tale ti terremo<br>per sempre. |
+| [[characters/innogen\|INNOGENE]] | (a [[characters/belarius\|Belario]])<br>Voi siete anche mio padre, e mi soccorreste<br>perché vedessi questa graziosa stagione. |
+| [[characters/cymbeline\|CIMBELINO]] | Tutti son colmi di gioia,<br>salvo questi in catene. Siano lieti anch’essi,<br>ché gusteranno il nostro conforto. |
+| [[characters/innogen\|INNOGENE]] | (a [[characters/lucius\|Lucio]])<br>Mio buon padrone,<br>vi renderò ancora servizio. |
+| [[characters/lucius\|LUCIO]] | Siate felice! |
+| [[characters/cymbeline\|CIMBELINO]] | Quel derelitto soldato che sì nobilmente combatté,<br>[[motifs/well\|ben]] si sarebbe addetto a questo luogo, e avrebbe onorato<br>i ringraziamenti d’un [[archetypes/king\|re]]. |
+| [[characters/posthumus\|POSTUMO]] | Io sono, signore,<br>il soldato che accompagnò questi tre<br>in povero arnese. Era abito adatto<br>al fine ch’io allora seguivo. Ch’io fossi quello,<br>dillo tu, Giacomo; t’avevo atterrato, e avrei potuto<br>farla finita con te. |
+| GIACOMO | (inginocchiandosi)<br>Sono di nuovo a terra,<br>ma ora la mia grave [[concepts/conscience\|coscienza]] mi piega il ginocchio<br>come allora la vostra forza. Prendete quella vita, ve ne supplico,<br>che tante volte vi devo; ma prima il vostro anello,<br>ed ecco il braccialetto della più verace principessa<br>che mai giurasse la sua [[concepts/faith\|fede]]. |
+| [[characters/posthumus\|POSTUMO]] | (rialzandolo)<br>Non inginocchiarti a me.<br>Il potere che ho su di te è di risparmiarti,<br>la malizia verso di te è di perdonarti. Vivi,<br>e comportati meglio con gli altri. |
+| [[characters/cymbeline\|CIMBELINO]] | Nobilmente sentenziato!<br>Impareremo la nostra generosità da un genero.<br>‘Perdono’ è la parola per tutti. |
+| [[characters/arviragus\|ARVIRAGO]] | (a [[characters/posthumus\|Postumo]]) Voi ci aiutaste, signore,<br>come se davvero intendeste essere nostro fratello.<br>Ci rallegriamo che lo siate. |
+| [[characters/posthumus\|POSTUMO]] | Vostro servo, principi. (A [[characters/lucius\|Lucio]]) Mio buon signore di<br>Roma,<br>fate venire il vostro indovino. Mentre dormivo, mi parve<br>che il gran Giove, in groppa alla sua aquila,<br>m’apparisse con altre spettrali visioni<br>della mia stirpe. Quando mi destai trovai<br>questo cartiglio sul petto, il cui contenuto<br>è tanto lontano dal senso per oscurità ch’io<br>non ne so trarre alcuna conclusione. Mostri egli<br>la sua arte nell’interpretarlo. |
+| [[characters/lucius\|LUCIO]] | Filarmono. |
+| INDOVINO | Eccomi, mio buon signore. |
+| [[characters/lucius\|LUCIO]] | Leggi, e dichiara il significato. |
+| INDOVINO | (legge la tavoletta) ‘Quando il cucciolo d’un [[motifs/lion\|leone]], a se stesso ignoto, senza cercare troverà, e sarà abbracciato da un lembo di tenera aria; e quando da un cedro maestoso saranno recisi rami che, morti da molti anni, poi rivivranno, si congiungeranno al vecchio tronco e cresceranno freschi: allora [[characters/posthumus\|Postumo]] porrà fine alle sue miserie, la Britannia sarà fortunata e fiorirà in pace e abbondanza.’<br>Tu, Leonato, sei il cucciolo del [[motifs/lion\|leone]].<br>La giusta e appropriata interpretazione del tuo nome,<br>essendo leo-natus, importa appunto questo.<br>(A [[characters/cymbeline\|Cimbelino]]) Il lembo di tenera aria è la tua virtuosa<br>figlia,<br>che noi chiamiamo ‘mollis aer’; e ‘mollis aer’<br><br>lo diciamo ‘mulier’, (a [[characters/posthumus\|Postumo]]) e quella ‘mulier’ io<br>divino<br>essere questa costantissima moglie, la quale proprio ora,<br>rispondendo alla lettera dell’oracolo,<br>a te ignota, non cercata, ti fu stretta intorno<br>come questa tenerissima aria. |
+| [[characters/cymbeline\|CIMBELINO]] | Questo ha una qualche verosimiglianza. |
+| INDOVINO | L’alto cedro, regale [[characters/cymbeline\|Cimbelino]],<br>rappresenta te, e i tuoi rami recisi indicano<br>i tuoi due figli, che, rubati da [[characters/belarius\|Belario]],<br>per molti anni creduti morti, ora son rivissuti,<br>congiunti al maestoso cedro, la cui progenie<br>promette alla Britannia pace e abbondanza. |
+| [[characters/cymbeline\|CIMBELINO]] | [[motifs/well\|Bene]],<br>daremo inizio alla mia pace; e, Caio [[characters/lucius\|Lucio]],<br>benché vincitori, ci sottomettiamo a Cesare<br>e all’impero romano, promettendo<br>di pagare il nostro consueto tributo, dal quale<br>fummo dissuasi dalla nostra malvagia [[characters/queen\|regina]],<br>sulla quale e sui suoi il cielo in giustizia<br>ha posto pesantissima mano. |
+| INDOVINO | Le dita delle potenze superne accordano<br>l’armonia di questa pace. La visione,<br>ch’io feci nota a [[characters/lucius\|Lucio]] prima del cozzo<br>di questa battaglia appena raffreddata, in questo istante<br>è pienamente compiuta. Poiché l’aquila romana,<br>volando alta da mezzogiorno a occidente,<br>si rimpiccioliva, e nei raggi del sole<br>così svanì; il che presagiva che la nostra principesca aquila,<br>l’imperiale Cesare, dovesse di nuovo unire<br>il suo favore al radioso [[characters/cymbeline\|Cimbelino]],<br>che qui risplende in occidente. |
+| [[characters/cymbeline\|CIMBELINO]] | Lodiamo gli dèi,<br>e i nostri fumi ricurvi salgano alle loro narici<br>dai nostri altari benedetti. Pubblichiamo questa pace<br>a tutti i nostri sudditi. Muoviamo avanti, e<br>un’insegna romana e una britanna sventolino<br>amiche insieme. Marciamo così per la città di Lud,<br>e nel tempio del gran Giove<br>ratificheremo la nostra pace, la suggelleremo con banchetti.<br>Avanti, dunque. Mai guerra cessò,<br>prima che fossero lavate le mani sanguinose, con tale pace. |
+| *(didascalia)* | Squilli di trombe. Escono in trionfo |
 
 
 
@@ -1636,63 +2602,6 @@ Exeunt severally
 | [[characters/innogen\|INNOGEN]] | (to Pisanio)<br>Those things I bid you do, get them dispatched.<br>I will attend the [[characters/queen\|Queen]]. |
 | PISANIO | Madam, I shall. |
 | *(didascalia)* | Exeunt [[characters/innogen\|Innogen]] and Lady at one door, Pisanio at another |
-| *(didascalia)* | 1.4 A table brought out, with a banquet upon it. Enter Filario, Giacomo, a Frenchman, a Dutchman, and a Spaniard |
-| GIACOMO | Believe it, sir, I have seen him in Britain. He was then of a crescent note, expected to prove so worthy as since he hath been allowed the name of. But I could then have looked on him without the help of admiration, though the catalogue of his endowments had been tabled by his side and I to peruse him by items. |
-| FILARIO | You speak of him when he was less furnished than now he is with that which makes him both without and within. |
-| FRENCHMAN | I have seen him in France. We had very many there could behold the sun with as firm eyes as he. |
-| GIACOMO | This matter of marrying his [[archetypes/king\|king]]’s daughter, wherein he must be weighed rather by her value than his own, words him, I [[concepts/doubt\|doubt]] not, a great deal from the matter. |
-| FRENCHMAN | And then his banishment. |
-| GIACOMO | Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat for taking a beggar without less quality. But how comes it he is to sojourn with you? How creeps acquaintance? |
-| FILARIO | His father and I were soldiers together, to whom I have been often bound for no less than my life. |
-| *(didascalia)* | Enter [[characters/posthumus\|Posthumus]] |
-| FILARIO | Here comes the Briton. Let him be so entertained amongst you as suits with gentlemen of your knowing to a stranger of his quality. I beseech you all, be better known to this gentleman, whom I commend to you as a noble friend of mine. How worthy he is I will leave to appear hereafter rather than story him in his own hearing. |
-| FRENCHMAN | (to [[characters/posthumus\|Posthumus]]) Sir, we have known together in Orléans. |
-| [[characters/posthumus\|POSTHUMUS]] | Since when I have been debtor to you for courtesies which I will be ever to pay, and yet pay still. |
-| FRENCHMAN | Sir, you o’er-rate my poor kindness. I was glad I did atone my countryman and you. It had been pity you should have been put together with so mortal a purpose as then each bore, upon importance of so slight and trivial a [[concepts/nature\|nature]]. |
-| [[characters/posthumus\|POSTHUMUS]] | By your pardon, sir, I was then a young traveller, rather shunned to go even with what I heard than in my every action to be guided by others’ experiences; but upon my mended judgement—if I offend not to say it is mended—my quarrel was not altogether slight. |
-| FRENCHMAN | [[concepts/faith\|Faith]], yes, to be put to the arbitrement of swords, and by such two that would by all likelihood have confounded one the other, or have fallen both. |
-| GIACOMO | Can we with manners ask what was the difference? |
-| FRENCHMAN | Safely, I think. ’Twas a contention in public, which may without contradiction suffer the report. It was much like an argument that fell out last [[motifs/night\|night]], where each of us fell in praise of our country mistresses, this gentleman at that [[motifs/time\|time]] vouching—and upon warrant of bloody affirmation—his to be more fair, virtuous, wise, chaste, constant, qualified, and less attemptable than any the rarest of our ladies in France. |
-| GIACOMO | That lady is not now living, or this gentleman’s opinion by this worn out. |
-| [[characters/posthumus\|POSTHUMUS]] | She holds her virtue still, and I my mind. |
-| GIACOMO | You must not so far prefer her fore ours of [[settings/italy\|Italy]]. |
-| [[characters/posthumus\|POSTHUMUS]] | Being so far provoked as I was in France I would abate her nothing, though I profess myself her adorer, not her friend. |
-| GIACOMO | As fair and as good—a kind of hand-in-hand comparison—had been something too fair and too good for any lady in Britain. If she went before others I have seen—as that diamond of yours outlustres many I have beheld—I could not but believe she excelled many; but I have not seen the most precious diamond that is, nor you the lady. |
-| [[characters/posthumus\|POSTHUMUS]] | I praised her as I rated her; so do I my stone. |
-| GIACOMO | What do you esteem it at? |
-| [[characters/posthumus\|POSTHUMUS]] | More than the world enjoys. |
-| GIACOMO | Either your unparagoned mistress is dead, or she’s outprized by a trifle. |
-| [[characters/posthumus\|POSTHUMUS]] | You are mistaken. The one may be sold or given, or if there were wealth enough for the purchase or merit for the gift. The other is not a thing for sale, and only the gift of the gods. |
-| GIACOMO | Which the gods have given you? |
-| [[characters/posthumus\|POSTHUMUS]] | Which, by their graces, I will keep. |
-| GIACOMO | You may wear her in title yours; but, you know, strange fowl light upon neighbouring ponds. Your ring may be stolen too; so your brace of unprizable estimations, the one is but frail, and the other casual. A cunning thief or a that-way accomplished courtier would hazard the winning both of first and last. |
-| [[characters/posthumus\|POSTHUMUS]] | Your [[settings/italy\|Italy]] contains none so accomplished a courtier to convince the [[concepts/honour\|honour]] of my mistress if in the holding or loss of that you term her frail. I do nothing [[concepts/doubt\|doubt]] you have store of thieves; notwithstanding, I [[concepts/fear\|fear]] not my ring. |
-| FILARIO | Let us leave here, gentlemen. |
-| [[characters/posthumus\|POSTHUMUS]] | Sir, with all my heart. This worthy signor, I thank him, makes no stranger of me. We are familiar at first. |
-| GIACOMO | With five times so much conversation I should get ground of your fair mistress, make her go back even to the yielding, had I admittance and opportunity to friend. |
-| [[characters/posthumus\|POSTHUMUS]] | No, no. |
-| GIACOMO | I dare thereupon pawn the moiety of my estate to your ring, which in my opinion o’ervalues it something. But I make my wager rather against your confidence than her reputation, and, to bar your offence herein too, I durst attempt it against any lady in the world. in |
-| [[characters/posthumus\|POSTHUMUS]] | You are a great deal abused in too bold a persuasion, and I [[concepts/doubt\|doubt]] not you sustain what you’re worthy of by your attempt. |
-| GIACOMO | What’s that? |
-| [[characters/posthumus\|POSTHUMUS]] | A repulse; though your attempt, as you call it, deserve more—a punishment, too. |
-| FILARIO | Gentlemen, enough of this. It came in too suddenly. Let it die as it was born; and, I pray you, be better acquainted. |
-| GIACOMO | Would I had put my estate and my neighbour’s on th’approbation of what I have spoke. |
-| [[characters/posthumus\|POSTHUMUS]] | What lady would you choose to assail? |
-| GIACOMO | Yours, whom in constancy you think stands so safe. I will lay you ten thousand ducats to your ring that, commend me to the [[settings/court\|court]] where your lady is, with no more advantage than the opportunity of a second conference, and I will bring from thence that [[concepts/honour\|honour]] of hers which you imagine so reserved. |
-| [[characters/posthumus\|POSTHUMUS]] | I will wage against your gold, gold to it; my ring I hold dear as my finger, ’tis part of it. |
-| GIACOMO | You are a friend, and therein the wiser. If you buy ladies’ flesh at a million a dram, you cannot preserve it from tainting. But I see you have some religion in you, that you [[concepts/fear\|fear]]. |
-| [[characters/posthumus\|POSTHUMUS]] | This is but a custom in your tongue. You bear a graver purpose, I [[concepts/hope\|hope]]. |
-| GIACOMO | I am the master of my speeches, and would undergo what’s spoken, I swear. |
-| [[characters/posthumus\|POSTHUMUS]] | Will you? I shall but lend my diamond till your return. Let there be covenants drawn between ’s. My mistress exceeds in goodness the hugeness of your unworthy thinking. I dare you to this match. Here’s my ring. |
-| FILARIO | I will have it no lay. |
-| GIACOMO | By the gods, it is one. If I bring you no sufficient testimony that I have enjoyed the dearest bodily part of your mistress, my ten thousand ducats are yours; so is your diamond too. If I come off and leave her in such [[concepts/honour\|honour]] as you have trust in, she your [[motifs/jewel\|jewel]], this your [[motifs/jewel\|jewel]], and my gold are yours, provided I have your commendation for my more free entertainment. |
-| [[characters/posthumus\|POSTHUMUS]] | I embrace these conditions; let us have articles betwixt us. Only thus far you shall answer: if you make your voyage upon her and give me directly to understand you have prevailed, I am no further your enemy; she is not worth our debate. If she remain unseduced, you not making it appear otherwise, for your ill opinion and th’assault you have made to her chastity you shall answer me with your sword. |
-| GIACOMO | Your hand, a covenant. We will things set down by lawful counsel, and straight away for Britain, lest the bargain should catch cold and starve. I will fetch my gold and have our two wagers recorded. |
-| [[characters/posthumus\|POSTHUMUS]] | Agreed. |
-| *(didascalia)* | Exit with Giacomo |
-| FRENCHMAN | Will this hold, think you? |
-| FILARIO | Signor Giacomo will not from it. Pray let us follow ’em. |
-| *(didascalia)* | Exeunt. Table is removed |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2458,23 +3367,6 @@ Exeunt severally
 | *(didascalia)* | Enter [[characters/posthumus\|Posthumus]] |
 | [[characters/posthumus\|POSTHUMUS]] | Is there no way for men to be, but women<br>Must be half-workers? We are bastards all,<br>And that most venerable man which I<br>Did call my father was I know not where<br>When I was stamped. Some coiner with his tools<br>Made me a counterfeit; yet my mother seemed<br>The Dian of that [[motifs/time\|time]]: so doth my wife<br>The nonpareil of this. O vengeance, vengeance!<br>Me of my lawful pleasure she restrained,<br>And prayed me oft forbearance; did it with<br>A pudency so rosy the sweet view on’t<br>Might [[motifs/well\|well]] have warmed old [[characters/saturn\|Saturn]]; that I thought<br>her<br>As chaste as unsunned [[motifs/snow\|snow]]. O all the devils!<br>This yellow Giacomo in an hour—was’t not?—<br>Or less—at first? Perchance he spoke not, but<br>Like a full-acorned boar, a German one,<br>Cried ‘O!’ and mounted; found no opposition<br>But what he looked for should oppose and she<br>Should from encounter guard. Could I find out<br>The woman’s part in me—for there’s no motion<br>That tends to vice in man but I affirm<br>It is the woman’s part; be it lying, note it,<br>The woman’s; flattering, hers; deceiving, hers;<br>Lust and rank thoughts, hers, hers; revenges, hers;<br>Ambitions, covetings, change of prides, disdain,<br>Nice [[concepts/longing\|longing]], slanders, [[motifs/mutability\|mutability]],<br>All faults that man can name, nay, that hell knows,<br>Why, hers in part or all, but rather all—<br>For even to vice<br>They are not constant, but are changing still<br>One vice but of a minute old for one<br>Not half so old as that. I’ll write against them,<br>Detest them, curse them, yet ’tis greater skill<br>In a true hate to pray they have their will.<br>The very devils cannot plague them better. |
 | *(didascalia)* | Exit |
-| *(didascalia)* | 3.1 Flourish. Enter in state [[characters/cymbeline\|Cymbeline]], the [[characters/queen\|Queen]], [[characters/cloten\|Cloten]], and lords at one door, and at another, Caius [[characters/lucius\|Lucius]] and attendants |
-| [[characters/cymbeline\|CYMBELINE]] | Now say, what would Augustus Caesar with us? |
-| [[characters/lucius\|LUCIUS]] | When [[characters/julius-caesar\|Julius Caesar]]—whose remembrance yet<br>Lives in men’s eyes, and will to ears and tongues<br>Be theme and hearing ever—was in this Britain<br>And conquered it, Cassibelan, thine uncle,<br>Famous in Caesar’s praises no whit less<br>Than in his feats deserving it, for him<br>And his succession granted Rome a tribute,<br>Yearly three thousand pounds, which by thee lately<br>Is left untendered. |
-| [[characters/queen\|QUEEN]] | And, to kill the marvel,<br>Shall be so ever. |
-| [[characters/cloten\|CLOTEN]] | There will be many Caesars<br>Ere such another Julius. Britain’s a world<br>By itself, and we will nothing pay<br>For wearing our own noses. |
-| [[characters/queen\|QUEEN]] | That opportunity<br>Which then they had to take from ‘s, to resume<br>We have again. Remember, sir, my liege,<br>The kings your ancestors, together with<br>The natural bravery of your isle, which stands<br>As Neptune’s park, ribbed and paled in<br>With banks unscalable and roaring waters,<br>With sands that will not bear your enemies’ boats,<br>But suck them up to th’ topmast. A kind of conquest<br>Caesar made here, but made not here his brag<br>Of ‘came and saw and overcame’. With shame—<br>The first that ever touched him—he was carried<br>From off our coast, twice beaten; and his shipping,<br>Poor ignorant baubles, on our terrible seas<br>Like eggshells moved upon their surges, cracked<br>As easily ’gainst our rocks; for joy whereof<br>The famed Cassibelan, who was once at point—<br>O giglot fortune!—to master Caesar’s sword,<br>Made Lud’s town with rejoicing fires bright,<br>And Britons strut with [[concepts/courage\|courage]]. |
-| [[characters/cloten\|CLOTEN]] | Come, there’s no more tribute to be paid. Our kingdom is stronger than it was at that [[motifs/time\|time]], and, as I said, there is no more such Caesars. Other of them may have crooked noses, but to owe such straight arms, none. |
-| [[characters/cymbeline\|CYMBELINE]] | Son, let your mother end. |
-| [[characters/cloten\|CLOTEN]] | We have yet many among us can grip as hard as Cassibelan. I do not say I am one, but I have a hand. Why tribute? Why should we pay tribute? If Caesar can hide the sun from us with a blanket, or put the [[motifs/moon\|moon]] in his pocket, we will pay him tribute for light; else, sir, no more tribute, pray you now. |
-| [[characters/cymbeline\|CYMBELINE]] | (to [[characters/lucius\|Lucius]]) You must know,<br>Till the injurious Romans did extort<br>This tribute from us we were free. Caesar’s [[concepts/ambition\|ambition]],<br>Which swelled so much that it did almost stretch<br>The sides o‘th’ world, against all colour here<br>Did put the yoke upon ’s, which to shake off<br>Becomes a warlike people, whom we reckon<br>Ourselves to be. We do say then to Caesar,<br>Our ancestor was that Mulmutius which<br>Ordained our laws, whose use the sword of Caesar<br>Hath too much mangled, whose repair and franchise<br>Shall by the power we hold be our good deed,<br>Though Rome be therefore angry. Mulmutius made<br>our laws,<br>Who was the first of Britain which did put<br>His brows within a golden [[motifs/crown\|crown]] and called<br>Himself a [[archetypes/king\|king]]. |
-| [[characters/lucius\|LUCIUS]] | I am sorry, [[characters/cymbeline\|Cymbeline]],<br>That I am to pronounce Augustus Caesar—<br>Caesar, that hath more kings his servants than<br>Thyself domestic officers—thine enemy.<br>Receive it from me, then: war and confusion<br>In Caesar’s name pronounce I ’gainst thee. Look<br>For fury not to be resisted. Thus defied,<br>I thank thee for myself. |
-| [[characters/cymbeline\|CYMBELINE]] | Thou art welcome, Caius.<br>Thy Caesar knighted me; my youth I spent<br>Much under him; of him I gathered [[concepts/honour\|honour]],<br>Which he to seek of me again perforce<br>Behoves me keep at utterance. I am perfect<br>That the Pannonians and Dalmatians for<br>Their liberties are now in arms, a precedent<br>Which not to read would show the Britons cold;<br>So Caesar shall not find them. |
-| [[characters/lucius\|LUCIUS]] | Let proof speak. |
-| [[characters/cloten\|CLOTEN]] | His majesty bids you welcome. Make pastime with us a day or two or longer. If you seek us afterwards in other terms, you shall find us in our salt-[[motifs/water\|water]] girdle. If you beat us out of it, it is yours; if you fall in the adventure, our crows shall fare the better for you; and there’s an end. |
-| [[characters/lucius\|LUCIUS]] | So, sir. |
-| [[characters/cymbeline\|CYMBELINE]] | I know your master’s pleasure, and he mine.<br>All the remain is ‘Welcome’. |
-| *(didascalia)* | Flourish. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2663,73 +3555,6 @@ Exeunt severally
 | PISANIO | [[motifs/well\|Well]], madam, we must take a short farewell<br>Lest, being missed, I be suspected of<br>Your carriage from the [[settings/court\|court]]. My noble mistress,<br>Here is a box. I had it from the [[characters/queen\|Queen]].<br>What’s in’t is precious. If you are sick at sea<br>Or stomach-qualmed at land, a dram of this<br>Will drive away distemper. To some shade,<br>And fit you to your manhood. May the gods<br>Direct you to the best. |
 | [[characters/innogen\|INNOGEN]] | Amen. I thank thee. |
 | *(didascalia)* | Exeunt severally |
-| *(didascalia)* | 3.5 Flourish. Enter [[characters/cymbeline\|Cymbeline]], the [[characters/queen\|Queen]], [[characters/cloten\|Cloten]], [[characters/lucius\|Lucius]], and lords |
-| [[characters/cymbeline\|CYMBELINE]] | (to [[characters/lucius\|Lucius]])<br>Thus far, and so farewell. |
-| [[characters/lucius\|LUCIUS]] | Thanks, royal sir.<br>My emperor hath wrote I must from hence;<br>And am right sorry that I must report ye<br>My master’s enemy. |
-| [[characters/cymbeline\|CYMBELINE]] | Our subjects, sir,<br>Will not endure his yoke, and for ourself<br>To show less sovereignty than they must needs<br>Appear unkinglike. |
-| [[characters/lucius\|LUCIUS]] | So, sir, I [[motifs/desire\|desire]] of you<br>A conduct over land to Milford Haven. |
-| *(didascalia)* | (To the [[characters/queen\|Queen]]) Madam, all joy befall your grace, to [[characters/cloten\|Cloten]] and you. |
-| [[characters/cymbeline\|CYMBELINE]] | My lords, you are appointed for that office.<br>The due of [[concepts/honour\|honour]] in no point omit.<br>So farewell, noble [[characters/lucius\|Lucius]]. |
-| [[characters/lucius\|LUCIUS]] | Your hand, my lord. |
-| [[characters/cloten\|CLOTEN]] | Receive it friendly, but from this [[motifs/time\|time]] forth<br>I wear it as your enemy. |
-| [[characters/lucius\|LUCIUS]] | Sir, the event<br>Is yet to name the winner. Fare you [[motifs/well\|well]]. |
-| [[characters/cymbeline\|CYMBELINE]] | Leave not the worthy [[characters/lucius\|Lucius]], good my lords,<br>Till he have crossed the Severn. Happiness. |
-| *(didascalia)* | Exeunt [[characters/lucius\|Lucius]] and lords |
-| [[characters/queen\|QUEEN]] | He goes hence frowning, but it honours us<br>That we have given him cause. |
-| [[characters/cloten\|CLOTEN]] | ’Tis all the better.<br>Your valiant Britons have their wishes in it. |
-| [[characters/cymbeline\|CYMBELINE]] | [[characters/lucius\|Lucius]] hath wrote already to the Emperor<br>How it goes here. It fits us therefore ripely<br>Our chariots and our horsemen be in readiness.<br>The powers that he already hath in Gallia<br>Will soon be drawn to head, from whence he moves<br>His war for Britain. |
-| [[characters/queen\|QUEEN]] | ’Tis not sleepy business,<br>But must be looked to speedily and strongly. |
-| [[characters/cymbeline\|CYMBELINE]] | Our expectation that it would be thus<br>Hath made us forward. But, my gentle [[characters/queen\|queen]],<br>Where is our daughter? She hath not appeared<br>Before the Roman, nor to us hath tendered<br>The duty of the day. She looks us like<br>A thing more made of malice than of duty.<br>We have noted it. Call her before us, for<br>We have been too slight in sufferance. |
-| *(didascalia)* | Exit one or more |
-| [[characters/queen\|QUEEN]] | Royal Sir,<br>Since the [[concepts/exile\|exile]] of [[characters/posthumus\|Posthumus]] most retired<br>Hath her life been, the cure ,whereof, my lord,<br>’Tis [[motifs/time\|time]] must do. Beseech your majesty<br>Forbear sharp speeches to her. She’s a lady<br>So tender of rebukes that words are strokes,<br>And strokes [[motifs/death\|death]] to her. |
-| *(didascalia)* | Enter a Messenger |
-| [[characters/cymbeline\|CYMBELINE]] | Where is she, sir? How<br>Can her contempt be answered? |
-| MESSENGER | Please you, sir,<br>Her chambers are all locked, and there’s no answer<br>That will be given to th’ loud’st of noise we make. |
-| [[characters/queen\|QUEEN]] | My lord, when last I went to visit her<br>She prayed me to excuse her keeping close,<br>Whereto constrained by her infirmity,<br>She should that duty leave unpaid to you<br>Which daily she was bound to proffer. This<br>She wished me to make known, but our great<br>[[settings/court\|court]]<br>Made me to blame in [[motifs/memory\|memory]]. |
-| [[characters/cymbeline\|CYMBELINE]] | Her doors locked?<br>Not seen of late? Grant heavens that which I<br>[[concepts/fear\|Fear]] prove false. |
-| *(didascalia)* | Exit |
-| [[characters/queen\|QUEEN]] | on, I say, follow the [[archetypes/king\|King]]. |
-| [[characters/cloten\|CLOTEN]] | That man of hers, Pisanio, her old servant,<br>I have not seen these two days. |
-| [[characters/queen\|QUEEN]] | Go, look after. |
-| *(didascalia)* | Exit [[characters/cloten\|Cloten]] |
-| [[characters/queen\|QUEEN]] | Pisanio, thou that stand’st so for [[characters/posthumus\|Posthumus]]!<br>He hath a drug of mine. I pray his absence<br>Proceed by swallowing that, for he believes<br>It is a thing most precious. But for her,<br>Where is she gone? Haply [[concepts/despair\|despair]] hath seized her,<br>Or, winged with fervour of her [[motifs/love\|love]], she’s flown<br>To her desired [[characters/posthumus\|Posthumus]]. Gone she is<br>To [[motifs/death\|death]] or to dishonour, and my end<br>Can make good use of either. She being down,<br>I have the placing of the British [[motifs/crown\|crown]]. |
-| *(didascalia)* | Enter [[characters/cloten\|Cloten]] |
-| [[characters/queen\|QUEEN]] | How now, my son? |
-| [[characters/cloten\|CLOTEN]] | ’Tis certain she is fled.<br>Go in and cheer the [[archetypes/king\|King]]. He rages, none<br>Dare come about him. |
-| [[characters/queen\|QUEEN]] | All the better. May<br>This [[motifs/night\|night]] forestall him of the coming day. Exit |
-| [[characters/cloten\|CLOTEN]] | I [[motifs/love\|love]] and hate her. For she’s fair and royal,<br>And that she hath all courtly parts more exquisite<br>Than lady, ladies, woman—from every one<br>The best she hath, and she, of all compounded,<br>Outsells them all—I [[motifs/love\|love]] her therefore; but<br>Disdaining me, and throwing favours on<br>The low [[characters/posthumus\|Posthumus]], slanders so her judgement<br>That what’s else rare is choked; and in that point<br>I will conclude to hate her, nay, indeed,<br>To be revenged upon her. For when fools<br>Shall— |
-| *(didascalia)* | Enter Pisanio |
-| [[characters/cloten\|CLOTEN]] | Who is here? What, are you packing, sirrah?<br>Come hither. Ah, you precious pander! [[archetypes/villain\|Villain]],<br>Where is thy lady? In a word, or else<br>Thou art straightway with the fiends. |
-| PISANIO | O good my lord! |
-| [[characters/cloten\|CLOTEN]] | Where is thy lady?—or, by Jupiter,<br>I will not ask again. Close [[archetypes/villain\|villain]],<br>I’ll have this secret from thy tongue or rip<br>Thy heart to find it. Is she with [[characters/posthumus\|Posthumus]],<br>From whose so many weights of baseness cannot<br>A dram of worth be drawn? |
-| PISANIO | Alas, my lord,<br>How can she be with him? When was she missed?<br>He is in Rome. |
-| [[characters/cloten\|CLOTEN]] | Where is she, sir? Come nearer.<br>No farther halting. Satisfy me [[motifs/home\|home]]<br>What is become of her. |
-| PISANIO | O my all-worthy lord! |
-| [[characters/cloten\|CLOTEN]] | All-worthy [[archetypes/villain\|villain]],<br>Discover where thy mistress is at once,<br>At the next word. No more of ‘worthy lord’.<br>Speak, or thy [[motifs/silence\|silence]] on the instant is<br>Thy condemnation and thy [[motifs/death\|death]]. |
-| PISANIO | Then, sir,<br>This paper is the [[concepts/history\|history]] of my knowledge<br>Touching her flight.<br>He gives [[characters/cloten\|Cloten]] a letter |
-| [[characters/cloten\|CLOTEN]] | Let’s see’t. I will pursue her<br>Even to Augustus’ throne. |
-| *(didascalia)* | PISANIO aside |
-| [[characters/cloten\|CLOTEN]] | Or this or perish.<br>She’s far enough, and what he learns by this<br>May prove his travel, not her danger. |
-| [[characters/cloten\|CLOTEN]] | Hum! |
-| PISANIO | (aside)<br>I’ll write to my lord she’s dead. O [[characters/innogen\|Innogen]],<br>Safe mayst thou wander, safe return again! |
-| [[characters/cloten\|CLOTEN]] | Sirrah, is this letter true? |
-| PISANIO | Sir, as I think. |
-| [[characters/cloten\|CLOTEN]] | It is [[characters/posthumus\|Posthumus]]’ hand; I know’t. Sirrah, if thou wouldst not be a [[archetypes/villain\|villain]] but do me true service, undergo those employments wherein I should have cause to use thee with a serious industry—that is, what villainy soe’er I bid thee do, to perform it directly and truly—I would think thee an honest man. Thou shouldst neither want my means for thy relief nor my voice for thy preferment. |
-| PISANIO | [[motifs/well\|Well]], my good lord. |
-| [[characters/cloten\|CLOTEN]] | Wilt thou serve me? For since patiently and constantly thou hast stuck to the bare fortune of that beggar [[characters/posthumus\|Posthumus]], thou canst not in the course of gratitude but be a diligent follower of mine. Wilt thou serve me? 121 |
-| PISANIO | Sir, I will. |
-| [[characters/cloten\|CLOTEN]] | Give me thy hand. Here’s my purse. Hast any of thy late master’s garments in thy possession? |
-| PISANIO | I have, my lord, at my lodging the same suit he wore when he took leave of my lady and mistress. |
-| [[characters/cloten\|CLOTEN]] | The first service thou dost me, fetch that suit hither. Let it be thy first service. Go. |
-| PISANIO | I shall, my lord. Exit |
-| [[characters/cloten\|CLOTEN]] | Meet thee at Milford Haven! I forgot to ask him one thing; I’ll remember’t anon. Even there, thou [[archetypes/villain\|villain]] [[characters/posthumus\|Posthumus]], will I kill thee. I would these garments were come. She said upon a [[motifs/time\|time]]—the bitterness of it I now belch from my heart—that she held the very garment of [[characters/posthumus\|Posthumus]] in more respect than my noble and natural person, together with the adornment of my qualities. With that suit upon my back will I ravish her—first kill him, and in her eyes; there shall she see my valour, which will then be a torment to her contempt. He on the ground, my speech of insultment ended on his dead [[concepts/body\|body]], and when my lust hath dined—which, as I say, to vex her I will execute in the clothes that she so praised—to the [[settings/court\|court]] I’ll knock her back, foot her [[motifs/home\|home]] again. She hath despised me rejoicingly, and I’ll be merry in my [[concepts/revenge\|revenge]]. |
-| *(didascalia)* | Enter Pisanio with [[characters/posthumus\|Posthumus]]’ suit |
-| [[characters/cloten\|CLOTEN]] | Be those the garments? |
-| PISANIO | Ay, my noble lord. |
-| [[characters/cloten\|CLOTEN]] | How long is’t since she went to Milford Haven? |
-| PISANIO | She can scarce be there yet. |
-| [[characters/cloten\|CLOTEN]] | Bring this apparel to my chamber. That is the second thing that I have commanded thee. The third is that thou wilt be a voluntary mute to my design. Be but duteous, and true preferment shall tender itself to thee. My [[concepts/revenge\|revenge]] is now at Milford. Would I had wings to follow it. Come, and be true. Exit |
-| PISANIO | Thou bidd’st me to my loss, for true to thee<br>Were to prove false, which I will never be<br>To him that is most true. To Milford go,<br>And find not her whom thou pursuest. Flow, flow,<br>You heavenly blessings, on her. This [[archetypes/fool\|fool]]’s [[characters/speed\|speed]]<br>Be crossed with slowness; labour be his meed. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3449,9 +4274,6 @@ Exeunt severally
 | [[characters/posthumus\|POSTHUMUS]] | Yea, bloody cloth, I’ll keep thee, for I once wished<br>Thou shouldst be coloured thus. You married ones,<br>If each of you should take this course, how many<br>Must murder wives much better than themselves<br>For wrying but a little! O Pisanio,<br>Every good servant does not all commands,<br>No bond but to do just ones. Gods, if you<br>Should have ta‘en vengeance on my faults, I never<br>Had lived to put on this; so had you saved<br>The noble [[characters/innogen\|Innogen]] to repent, and struck<br>Me, wretch, more worth your vengeance. But alack,<br>You snatch some hence for little faults; that’s [[motifs/love\|love]],<br>To have them fall no more. You some permit<br>To second ills with ills, each elder worse,<br>And make them dread ill, to the doer’s thrift.<br>But [[characters/innogen\|Innogen]] is your own. Do your blest wills,<br>And make me blest to obey. I am brought hither<br>Among th’Italian gentry, and to fight<br>Against my lady’s kingdom. ’Tis enough<br>That, Britain, I have killed thy mistress-piece;<br>I’ll give no wound to thee. Therefore, good heavens,<br>Hear patiently my purpose. I’ll disrobe me<br>Of these Italian weeds, and suit myself<br>As does a Briton peasant. |
 | *(didascalia)* | He disrobes himself |
 | [[characters/posthumus\|POSTHUMUS]] | So I’ll fight<br>Against the part I come with; so I’ll die<br>For thee, O [[characters/innogen\|Innogen]], even for whom my life<br>Is every breath a [[motifs/death\|death]]; and, thus unknown,<br>Pitied nor hated, to the face of peril<br>Myself I’ll dedicate. Let me make men know<br>More valour in me than my habits show.<br>Gods, put the strength o‘th’ Leonati in me.<br>To shame the guise o’th’ world, I will begin<br>The fashion-less without and more within. Exit |
-| *(didascalia)* | 5.2 A march. Enter [[characters/lucius\|Lucius]], Giacomo, and the Roman army at one door, and the Briton army at another, Leonatus [[characters/posthumus\|Posthumus]] following like a poor soldier. They march over and go out. Alarums. Then enter again in skirmish Giacomo and [[characters/posthumus\|Posthumus]]: he vanquisheth and disarmeth Giacomo, and then [[motifs/leaves\|leaves]] him |
-| GIACOMO | The heaviness and [[concepts/guilt\|guilt]] within my bosom<br>Takes off my manhood. I have belied a lady,<br>The princess of this country, and the air on’t<br>Revengingly enfeebles me; or could this carl,<br>A very drudge of [[concepts/nature\|nature]]’s, have subdued me<br>In my profession? Knighthoods and honours borne<br>As I wear mine are titles but of scorn.<br>If that thy gentry, Britain, go before<br>This lout as he exceeds our lords, the odds<br>Is that we scarce are men and you are gods. |
-| *(didascalia)* | Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3494,11 +4316,6 @@ Exeunt severally
 | [[characters/belarius\|BELARIUS]] | Stand, stand, we have th’advantage of the ground.<br>The lane is guarded. Nothing routs us but<br>The villainy of our fears. |
 | [[characters/guiderius\|GUIDERIUS]] | and [[characters/arviragus\|ARVIRAGUS]] Stand, stand, and fight. |
 | *(didascalia)* | Enter [[characters/posthumus\|Posthumus]] like a poor soldier, and seconds the Britons. They rescue [[characters/cymbeline\|Cymbeline]] and exeunt |
-| *(didascalia)* | 5.4 The trumpets sound a retreat, then enter [[characters/lucius\|Lucius]], Giacomo, and [[characters/innogen\|Innogen]] |
-| [[characters/lucius\|LUCIUS]] | (to [[characters/innogen\|Innogen]])<br>Away, boy, from the troops, and save thyself;<br>For friends kill friends, and the disorder’s such<br>As war were hoodwinked. |
-| GIACOMO | ’Tis their fresh supplies. |
-| [[characters/lucius\|LUCIUS]] | It is a day turned strangely. Or betimes<br>Let’s reinforce, or fly. |
-| *(didascalia)* | Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3601,165 +4418,6 @@ Exeunt severally
 | JAILER | I’ll be hanged then. |
 | [[characters/posthumus\|POSTHUMUS]] | Thou shalt be then freer than a jailer; no bolts for the dead. |
 | JAILER | (aside) Unless a man would marry a gallows and beget young gibbets, I never saw one so prone. Yet, on my [[concepts/conscience\|conscience]], there are verier knaves [[motifs/desire\|desire]] to live, for all he be a Roman; and there be some of them, too, that die against their wills; so should I if I were one. I would we were all of one mind, and one mind good. O, there were desolation of jailers and gallowses! I speak against my present profit, but my wish hath a preferment in’t. Exeunt |
-| *(didascalia)* | 5.6 Flourish.  Enter [[characters/cymbeline\|Cymbeline]], [[characters/belarius\|Belarius]], [[characters/guiderius\|Guiderius]], [[characters/arviragus\|Arviragus]], Pisanio, and lords |
-| [[characters/cymbeline\|CYMBELINE]] | (to [[characters/belarius\|Belarius]], [[characters/guiderius\|Guiderius]], and [[characters/arviragus\|Arviragus]])<br>Stand by my side, you whom the gods have made<br>Preservers of my throne. Woe is my heart<br>That the poor soldier that so richly fought,<br>Whose rags shamed gilded arms, whose naked breast<br>Stepped before targs of proof, cannot be found.<br>He shall be happy that can find him, if<br>Our grace can make him so. |
-| [[characters/belarius\|BELARIUS]] | I never saw<br>Such noble fury in so poor a thing,<br>Such precious deeds in one that promised naught<br>But beggary and poor looks. |
-| [[characters/cymbeline\|CYMBELINE]] | No tidings of him? |
-| PISANIO | He hath been searched among the dead and living,<br>But no trace of him. |
-| [[characters/cymbeline\|CYMBELINE]] | To my grief I am<br>The heir of his reward, which I will add<br>(To [[characters/belarius\|Belarius]], [[characters/guiderius\|Guiderius]], and [[characters/arviragus\|Arviragus]])<br>To you, the liver, heart, and brain of Britain,<br>By whom I grant she lives. ’Tis now the [[motifs/time\|time]]<br>To ask of whence you are. Report it. |
-| [[characters/belarius\|BELARIUS]] | Sir,<br>In Cambria are we born, and gentlemen.<br>Further to boast were neither true nor modest,<br>Unless I add we are honest. |
-| [[characters/cymbeline\|CYMBELINE]] | Bow your knees.<br>They kneel. He knights them<br>Arise, my knights o’th’ battle. I create you<br>Companions to our person, and will fit you<br>With dignities becoming your estates.<br>[[characters/belarius\|Belarius]], [[characters/guiderius\|Guiderius]], and [[characters/arviragus\|Arviragus]] rise. |
-| *(didascalia)* | Enter Cornelius and Ladies |
-| [[characters/cymbeline\|CYMBELINE]] | There’s business in these faces. Why so sadly<br>Greet you our victory? You look like Romans,<br>And not o’th’ [[settings/court\|court]] of Britain. |
-| CORNELIUS | Hail, great [[archetypes/king\|King]]!<br>To sour your happiness I must report<br>The [[characters/queen\|Queen]] is dead. |
-| [[characters/cymbeline\|CYMBELINE]] | Who worse than a physician<br>Would this report become? But I consider<br>By medicine life may be prolonged, yet [[motifs/death\|death]]<br>Will seize the doctor too. How ended she? |
-| CORNELIUS | With horror, madly dying, like her life,<br>Which being cruel to the world, concluded<br>Most cruel to herself. What she confessed<br>I will report, so please you. These her women<br>Can trip me if I err, who with wet cheeks<br>Were present when she finished. |
-| [[characters/cymbeline\|CYMBELINE]] | Prithee, say. |
-| CORNELIUS | First, she confessed she never loved you, only<br>Affected [[concepts/greatness\|greatness]] got by you, not you;<br>Married your royalty, was wife to your place,<br>Abhorred your person. |
-| [[characters/cymbeline\|CYMBELINE]] | She alone knew this,<br>And but she spoke it dying, I would not<br>Believe her lips in opening it. Proceed. |
-| CORNELIUS | Your daughter, whom she bore in hand to [[motifs/love\|love]]<br>With such integrity, she did confess<br>Was as a scorpion to her sight, whose life,<br>But that her flight prevented it, she had<br>Ta’en off by [[motifs/poison\|poison]]. |
-| [[characters/cymbeline\|CYMBELINE]] | O most delicate fiend!<br>Who is’t can read a woman? Is there more? |
-| CORNELIUS | More, sir, and worse. She did confess she had<br>For you a mortal mineral which, being took,<br>Should by the minute feed on life, and, ling‘ring,<br>By inches waste you. In which [[motifs/time\|time]] she purposed<br>By watching, weeping, tendance, kissing, to<br>O’ercome you with her show; and in fine,<br>When she had fit you with her craft, to work<br>Her son into th’adoption of the [[motifs/crown\|crown]];<br>But failing of her end by his strange absence,<br>Grew shameless-desperate, opened in despite<br>Of heaven and men her purposes, repented<br>The evils she hatched were not effected; so<br>Despairing died. |
-| [[characters/cymbeline\|CYMBELINE]] | Heard you all this, her women? |
-| *(didascalia)* | LADIES |
-| [[characters/cymbeline\|CYMBELINE]] | We did, so please your highness. |
-| [[characters/cymbeline\|CYMBELINE]] | Mine eyes<br>Were not in fault, for she was beautiful;<br>Mine ears that heard her flattery, nor my heart<br>That thought her like her seeming. It had been vicious<br>To have mistrusted her. Yet, O my daughter,<br>That it was folly in me thou mayst say,<br>And prove it in thy feeling. Heaven mend all! |
-| *(didascalia)* | Enter [[characters/lucius\|Lucius]], Giacomo, Soothsayer, and other Roman prisoners, [[characters/posthumus\|Posthumus]] behind, and [[characters/innogen\|Innogen]] dressed as a man, all guarded by Briton soldiers |
-| [[characters/cymbeline\|CYMBELINE]] | Thou com’st not, Caius, now for tribute. That<br>The Britons have razed out, though with the loss<br>Of many a bold one; whose kinsmen have made suit<br>That their good souls may be appeased with slaughter<br>Of you, their captives, which ourself have granted.<br>So think of your estate. |
-| [[characters/lucius\|LUCIUS]] | Consider, sir, the chance of war. The day<br>Was yours by accident. Had it gone with us,<br>We should not, when the [[motifs/blood\|blood]] was cool, have<br>threatened<br>Our prisoners with the sword. But since the gods<br>Will have it thus, that nothing but our lives<br>May be called ransom, let it come. Sufficeth<br>A Roman with a Roman’s heart can suffer.<br>Augustus lives to think on’t; and so much<br>For my peculiar care. This one thing only<br>I will entreat:<br>He presents [[characters/innogen\|Innogen]] to [[characters/cymbeline\|Cymbeline]] my boy, a Briton born,<br>Let him be ransomed. Never master had<br>A page so kind, so duteous, diligent,<br>So tender over his occasions, true,<br>So feat, so [[characters/nurse\|nurse]]-like; let his virtue join<br>With my request, which I’ll make bold your highness<br>Cannot deny. He hath done no Briton harm,<br>Though he have served a Roman. Save him, sir,<br>And spare no [[motifs/blood\|blood]] beside. |
-| [[characters/cymbeline\|CYMBELINE]] | I have surely seen him.<br>His favour is familiar to me. Boy,<br>Thou hast looked thyself into my grace,<br>And art mine own. I know not why, wherefore,<br>To say ‘Live, boy’. Ne‘er thank thy master. Live,<br>And ask of [[characters/cymbeline\|Cymbeline]] what boon thou wilt<br>Fitting my bounty and thy state, I’ll give it,<br>Yea, though thou do demand a prisoner<br>The noblest ta’en. |
-| [[characters/innogen\|INNOGEN]] | I humbly thank your highness. |
-| [[characters/lucius\|LUCIUS]] | I do not bid thee beg my life, good lad,<br>And yet I know thou wilt. |
-| [[characters/innogen\|INNOGEN]] | No, no. Alack,<br>There’s other work in hand. I see a thing<br>Bitter to me as [[motifs/death\|death]]. Your life, good master,<br>Must shuffle for itself. |
-| [[characters/lucius\|LUCIUS]] | The boy disdains me.<br>He [[motifs/leaves\|leaves]] me, scorns me. Briefly die their joys<br>That place them on the [[concepts/truth\|truth]] of girls and boys.<br>Why stands he so perplexed? |
-| [[characters/cymbeline\|CYMBELINE]] | (to [[characters/innogen\|Innogen]]) What wouldst thou, boy?<br>I [[motifs/love\|love]] thee more and more; think more and more<br>What’s best to ask. Know‘st him thou look’st on?<br>Speak, no<br>Wilt have him live? Is he thy kin, thy friend? |
-| [[characters/innogen\|INNOGEN]] | He is a Roman, no more kin to me<br>Than I to your highness, who, being born your vassal,<br>Am something nearer. |
-| [[characters/cymbeline\|CYMBELINE]] | Wherefore ey’st him so? |
-| [[characters/innogen\|INNOGEN]] | I’ll tell you, sir, in private, if you please<br>To give me hearing. |
-| [[characters/cymbeline\|CYMBELINE]] | Ay, with all my heart,<br>And lend my best attention. What’s thy name? |
-| [[characters/innogen\|INNOGEN]] | Fidele, sir. |
-| [[characters/cymbeline\|CYMBELINE]] | Thou’rt my good youth, my page.<br>I’ll be thy master. Walk with me, speak freely.<br>[[characters/cymbeline\|Cymbeline]] and [[characters/innogen\|Innogen]] speak apart |
-| [[characters/belarius\|BELARIUS]] | (aside to [[characters/guiderius\|Guiderius]] and [[characters/arviragus\|Arviragus]])<br>Is not this boy revived from [[motifs/death\|death]]? |
-| [[characters/arviragus\|ARVIRAGUS]] | One sand another<br>Not more resembles that sweet rosy lad<br>Who died, and was Fidele. What think you? |
-| [[characters/guiderius\|GUIDERIUS]] | The same dead thing alive. |
-| [[characters/belarius\|BELARIUS]] | Peace, peace, see further. He eyes us not. Forbear.<br>Creatures may be alike. Were’t he, I am sure<br>He would have spoke to us. |
-| [[characters/guiderius\|GUIDERIUS]] | But we see him dead. |
-| [[characters/belarius\|BELARIUS]] | Be silent; let’s see further. |
-| PISANIO | (aside)<br>It is my mistress.<br>Since she is living, let the [[motifs/time\|time]] run on<br>To good or bad. |
-| [[characters/cymbeline\|CYMBELINE]] | (to [[characters/innogen\|Innogen]]) Come, stand thou by our side,<br>Make thy demand aloud. (To Giacomo) Sir, step you<br>forth.<br>Give answer to this boy, and do it freely,<br>Or, by our [[concepts/greatness\|greatness]] and the grace of it,<br>Which is our [[concepts/honour\|honour]], bitter torture shall<br>Winnow the [[concepts/truth\|truth]] from falsehood.<br>(To [[characters/innogen\|Innogen]])<br>On, speak to him. |
-| [[characters/innogen\|INNOGEN]] | My boon is that this gentleman may render<br>Of whom he had this ring. |
-| [[characters/posthumus\|POSTHUMUS]] | (aside) What’s that to him? |
-| [[characters/cymbeline\|CYMBELINE]] | (to Giacomo)<br>That diamond upon your finger, say,<br>How came it yours? |
-| GIACOMO | Thou’lt torture me to leave unspoken that<br>Which to be spoke would torture thee. |
-| [[characters/cymbeline\|CYMBELINE]] | How, me? |
-| GIACOMO | I am glad to be constrained to utter that<br>Torments me to conceal. By villainy<br>I got this ring; ‘twas Leonatus’ [[motifs/jewel\|jewel]],<br>Whom thou didst banish; and, which more may<br>grieve thee,<br>As it doth me, a nobler sir ne’er lived<br>’Twixt sky and ground. Wilt thou hear more, my lord? |
-| [[characters/cymbeline\|CYMBELINE]] | All that belongs to this. |
-| GIACOMO | That paragon thy daughter,<br>For whom my heart drops [[motifs/blood\|blood]], and my false spirits<br>Quail to remember-give me leave, I faint. |
-| [[characters/cymbeline\|CYMBELINE]] | My daughter? What of her? Renew thy strength.<br>I had rather thou shouldst live while [[concepts/nature\|nature]] will<br>Than die ere I hear more. Strive, man, and speak. |
-| GIACOMO | Upon a [[motifs/time\|time]]-unhappy was the [[motifs/clock\|clock]]<br>That struck the hour-it was in Rome-accursed<br>The mansion where-‘twas at a feast-O, would<br>Our viands had been poisoned, or at least<br>Those which I heaved to head!—the good [[characters/posthumus\|Posthumus]]—<br>What should I say?—he was too good to be<br>Where ill men were, and was the best of all<br>Amongst the rar’st of good ones-sitting sadly,<br>Hearing us praise our loves of [[settings/italy\|Italy]]<br>For [[concepts/beauty\|beauty]] that made barren the swelled boast<br>Of him that best could speak; for feature laming<br>The shrine of [[characters/venus\|Venus]] or straight-pitched Minerva,<br>Postures beyond brief [[concepts/nature\|nature]]; for condition,<br>A shop of all the qualities that man<br>Loves woman for; besides that hook of wiving,<br>Fairness which strikes the eye— |
-| [[characters/cymbeline\|CYMBELINE]] | I stand on [[motifs/fire\|fire]].<br>Come to the matter. |
-| GIACOMO | All too soon I shall,<br>Unless thou wouldst grieve quickly. This [[characters/posthumus\|Posthumus]],<br>Most like a noble lord in [[motifs/love\|love]] and one<br>That had a royal [[archetypes/lover\|lover]], took his hint,<br>And not dispraising whom we praised—therein<br>He was as calm as virtue-he began<br>His mistress’ picture, which by his tongue being made,<br>And then a mind put in’t, either our brags<br>Were cracked of kitchen-trulls, or his description<br>Proved us unspeaking sots. |
-| [[characters/cymbeline\|CYMBELINE]] | Nay, nay, to th’ purpose. |
-| GIACOMO | Your daughter’s chastity-there it begins.<br>He spake of her as Dian had hot [[motifs/dreams\|dreams]]<br>And she alone were cold, whereat I, wretch,<br>Made scruple of his praise, and wagered with him<br>Pieces of gold ‘gainst this which then he wore<br>Upon his honoured finger, to attain<br>In suit the place of ’s bed and win this ring<br>By hers and mine adultery. He, true knight,<br>No lesser of her [[concepts/honour\|honour]] confident<br>Than I did truly find her, stakes this ring—<br>And would so had it been a carbuncle<br>Of Phoebus’ [[motifs/wheel\|wheel]], and might so safely had it<br>Been all the worth of ’s car. Away to Britain<br>Post I in this design. [[motifs/well\|Well]] may you, sir,<br>Remember me at [[settings/court\|court]], where I was taught<br>Of your chaste daughter the wide difference<br>’Twixt amorous and villainous. Being thus quenched<br>Of [[concepts/hope\|hope]], not [[concepts/longing\|longing]], mine Italian brain<br>Gan in your duller Britain operate<br>Most vilely; for my vantage, excellent.<br>And, to be brief, my practice so prevailed<br>That I returned with simular proof enough<br>To make the noble Leonatus mad<br>By wounding his belief in her renown<br>With tokens thus and thus; averring notes<br>Of chamber-hanging, pictures, this her bracelet—<br>O cunning, how I got it!—nay, some marks<br>Of secret on her person, that he could not<br>But think her bond of chastity quite cracked,<br>I having ta’en the forfeit. Whereupon—<br>Methinks I see him now— |
-| [[characters/posthumus\|POSTHUMUS]] | (coming forward) Ay, so thou dost,<br>Italian fiend! Ay me, most credulous [[archetypes/fool\|fool]],<br>Egregious murderer, thief, anything<br>That’s due to all the villains past, in being,<br>To come! O, give me cord, or knife, or [[motifs/poison\|poison]],<br>Some upright justicer! Thou, [[archetypes/king\|King]], send out<br>For torturers ingenious. It is I<br>That all th‘abhorrèd things o’th’ earth amend<br>By being worse than they. I am [[characters/posthumus\|Posthumus]],<br>That killed thy daughter—[[archetypes/villain\|villain]]-like, I lie:<br>That caused a lesser [[archetypes/villain\|villain]] than myself,<br>A sacrilegious thief, to do’t. The temple<br>Of virtue was she; yea, and she herself.<br>Spit and throw stones, cast mire upon me, set<br>The dogs o‘th’ street to bay me. Every [[archetypes/villain\|villain]]<br>Be called [[characters/posthumus\|Posthumus]] Leonatus, and<br>Be ‘[[archetypes/villain\|villain]]’ less than ’twas! O [[characters/innogen\|Innogen]]!<br>My [[characters/queen\|queen]], my life, my wife, O [[characters/innogen\|Innogen]],<br>[[characters/innogen\|Innogen]], [[characters/innogen\|Innogen]]! |
-| [[characters/innogen\|INNOGEN]] | (approaching him) Peace, my lord. Hear, hear. |
-| [[characters/posthumus\|POSTHUMUS]] | Shall ’s have a play of this? Thou scornful page,<br>There lie thy part.<br>He strikes her down |
-| PISANIO | (coming forward) O gentlemen, help!<br>Mine and your mistress! O my lord [[characters/posthumus\|Posthumus]],<br>You ne’er killed [[characters/innogen\|Innogen]] till now. Help, help!<br>(To [[characters/innogen\|Innogen]]) Mine honoured lady. |
-| [[characters/cymbeline\|CYMBELINE]] | Does the world go round? |
-| [[characters/posthumus\|POSTHUMUS]] | How comes these staggers on me? |
-| PISANIO | (to [[characters/innogen\|Innogen]])<br>Wake, my mistress. |
-| [[characters/cymbeline\|CYMBELINE]] | If this be so, the gods do mean to strike me<br>To [[motifs/death\|death]] with mortal joy. |
-| PISANIO | (to [[characters/innogen\|Innogen]]) How fares my mistress? |
-| [[characters/innogen\|INNOGEN]] | O, get thee from my sight!<br>Thou gav’st me [[motifs/poison\|poison]]. Dangerous fellow, hence.<br>Breathe not where princes are. |
-| [[characters/cymbeline\|CYMBELINE]] | The tune of [[characters/innogen\|Innogen]]. |
-| PISANIO | Lady, the gods throw stones of sulphur on me if<br>That box I gave you was not thought by me<br>A precious thing. I had it from the [[characters/queen\|Queen]]. |
-| [[characters/cymbeline\|CYMBELINE]] | New matter still. |
-| [[characters/innogen\|INNOGEN]] | It poisoned me. |
-| CORNELIUS | O gods!<br>I left out one thing which the [[characters/queen\|Queen]] confessed<br>(To Pisanio) Which must approve thee honest. ’If Pisanio<br>Have‘, said she, ‘given his mistress that confection<br>Which I gave him for cordial, she is served<br>As I would serve a rat.’ |
-| [[characters/cymbeline\|CYMBELINE]] | What’s this, Cornelius? |
-| CORNELIUS | The [[characters/queen\|Queen]], sir, very oft importuned me<br>To temper poisons for her, still pretending<br>The satisfaction of her knowledge only<br>In killing creatures vile, as cats and dogs<br>Of no esteem. I, dreading that her purpose<br>Was of more danger, did compound for her<br>A certain stuff which, being ta‘en, would cease<br>The present power of life, but in short [[motifs/time\|time]]<br>All offices of [[concepts/nature\|nature]] should again<br>Do their due functions. (To [[characters/innogen\|Innogen]]) Have you ta’en<br>of it? |
-| [[characters/innogen\|INNOGEN]] | Most like I did, for I was dead. |
-| [[characters/belarius\|BELARIUS]] | (aside to [[characters/guiderius\|Guiderius]] and [[characters/arviragus\|Arviragus]]) My boys,<br>There was our error. |
-| [[characters/guiderius\|GUIDERIUS]] | This is sure Fidele. |
-| [[characters/innogen\|INNOGEN]] | (to [[characters/posthumus\|Posthumus]])<br>Why did you throw your wedded lady from you?<br>Think that you are upon a lock, and now<br>Throw me again.<br>She throws her arms about his neck |
-| [[characters/posthumus\|POSTHUMUS]] | Hang there like fruit, my [[motifs/soul\|soul]],<br>Till the tree die. |
-| [[characters/cymbeline\|CYMBELINE]] | (to [[characters/innogen\|Innogen]]) How now, my flesh, my [[archetypes/child\|child]]?<br>What, mak’st thou me a dullard in this act?<br>Wilt thou not speak to me? |
-| [[characters/innogen\|INNOGEN]] | (kneeling)<br>Your blessing, sir. |
-| [[characters/belarius\|BELARIUS]] | (aside to [[characters/guiderius\|Guiderius]] and [[characters/arviragus\|Arviragus]])<br>Though you did [[motifs/love\|love]] this youth, I blame ye not.<br>You had a motive for’t. |
-| [[characters/cymbeline\|CYMBELINE]] | My [[motifs/tears\|tears]] that fall<br>Prove holy [[motifs/water\|water]] on thee! |
-| *(didascalia)* | He raises her |
-| [[characters/cymbeline\|CYMBELINE]] | [[characters/innogen\|Innogen]],<br>Thy mother’s dead. |
-| [[characters/innogen\|INNOGEN]] | I am sorry for’t, my lord. |
-| [[characters/cymbeline\|CYMBELINE]] | O, she was naught, and ’long of her it was<br>That we meet here so strangely. But her son<br>Is gone, we know not how nor where. |
-| PISANIO | My lord,<br>Now [[concepts/fear\|fear]] is from me I’ll speak [[concepts/truth\|truth]]. Lord [[characters/cloten\|Cloten]],<br>Upon my lady’s missing, came to me<br>With his sword drawn, foamed at the mouth, and<br>swore<br>If I discovered not which way she was gone<br>It was my instant [[motifs/death\|death]]. By accident<br>I had a feigned letter of my master’s<br>Then in my pocket, which directed him<br>To seek her on the [[settings/mountains\|mountains]] near to Milford,<br>Where in a frenzy, in my master’s garments,<br>Which he enforced from me, away he posts<br>With unchaste purpose, and with oath to violate<br>My lady’s [[concepts/honour\|honour]]. What became of him<br>I further know not. |
-| [[characters/guiderius\|GUIDERIUS]] | Let me end the story.<br>I slew him there. |
-| [[characters/cymbeline\|CYMBELINE]] | Marry, the gods forfend!<br>I would not thy good deeds should from my lips<br>Pluck a hard sentence. Prithee, valiant youth,<br>Deny’t again. |
-| [[characters/guiderius\|GUIDERIUS]] | I have spoke it, and I did it. |
-| [[characters/cymbeline\|CYMBELINE]] | He was a prince. |
-| [[characters/guiderius\|GUIDERIUS]] | A most incivil one. The wrongs he did me<br>Were nothing prince-like, for he did provoke me<br>With language that would make me spurn the sea<br>If it could so roar to me. I cut off ’s head,<br>And am right glad he is not standing here<br>To tell this tale of mine. |
-| [[characters/cymbeline\|CYMBELINE]] | I am sorrow for thee.<br>By thine own tongue thou art condemned, and must<br>Endure our law. Thou’rt dead. |
-| [[characters/innogen\|INNOGEN]] | That headless man<br>I thought had been my lord. |
-| [[characters/cymbeline\|CYMBELINE]] | (to soldiers)<br>Bind the offender,<br>And take him from our presence. |
-| [[characters/belarius\|BELARIUS]] | Stay, sir [[archetypes/king\|King]].<br>This boy is better than the man he slew,<br>As [[motifs/well\|well]] descended as thyself, and hath<br>More of thee merited than a band of Clotens<br>Had ever scar for. Let his arms alone;<br>They were not born for bondage. |
-| [[characters/cymbeline\|CYMBELINE]] | Why, old soldier,<br>Wilt thou undo the worth thou art unpaid for<br>By tasting of our wrath? How of descent<br>As good as we? |
-| [[characters/arviragus\|ARVIRAGUS]] | In that he spake too far. |
-| *(didascalia)* | [[characters/cymbeline\|CYMBELINE]] to [[characters/belarius\|Belarius]] |
-| [[characters/arviragus\|ARVIRAGUS]] | And thou shalt die for’t. |
-| [[characters/belarius\|BELARIUS]] | We will die all three<br>But I will prove that two on ’s are as good<br>As I have given out him. My sons, I must<br>For mine own part unfold a dangerous speech,<br>Though haply [[motifs/well\|well]] for you. |
-| [[characters/arviragus\|ARVIRAGUS]] | Your danger’s ours. |
-| [[characters/guiderius\|GUIDERIUS]] | And our good his. |
-| [[characters/belarius\|BELARIUS]] | Have at it then. By leave,<br>Thou hadst, great [[archetypes/king\|King]], a subject who<br>Was called [[characters/belarius\|Belarius]]. |
-| [[characters/cymbeline\|CYMBELINE]] | What of him? He is<br>A banished traitor. |
-| [[characters/belarius\|BELARIUS]] | He it is that hath<br>Assumed this age. Indeed, a banished man;<br>I know not how a traitor. |
-| [[characters/cymbeline\|CYMBELINE]] | (to soldiers)<br>Take him hence.<br>The whole world shall not save him. |
-| [[characters/belarius\|BELARIUS]] | Not too hot.<br>First pay me for the nursing of thy sons,<br>And let it be confiscate all so soon<br>As I have received it. |
-| [[characters/cymbeline\|CYMBELINE]] | Nursing of my sons? |
-| [[characters/belarius\|BELARIUS]] | I am too blunt and saucy. (Kneeling) Here’s my knee.<br>Ere I arise I will prefer my sons,<br>Then spare not the old father. Mighty sir,<br>These two young gentlemen that call me father<br>And think they are my sons are none of mine.<br>They are the issue of your loins, my liege,<br>And [[motifs/blood\|blood]] of your begetting. |
-| [[characters/cymbeline\|CYMBELINE]] | How, my issue? |
-| [[characters/belarius\|BELARIUS]] | So sure as you your father’s. I, old Morgan,<br>Am that [[characters/belarius\|Belarius]] whom you sometime banished.<br>Your pleasure was my mere offence, my punishment<br>Itself, and all my treason. That I suffered<br>Was all the harm I did. These gentle princes—<br>For such and so they are-these twenty years<br>Have I trained up. Those arts they have as I<br>Could put into them. My breeding was, sir,<br>As your highness knows. Their [[characters/nurse\|nurse]] Euriphile,<br>Whom for the theft I wedded, stole these children<br>Upon my banishment. I moved her to‘t,<br>Having received the punishment before<br>For that which I did then. Beaten for loyalty<br>Excited me to treason. Their dear loss,<br>The more of you ‘twas felt, the more it shaped<br>Unto my end of stealing them. But, gracious sir,<br>Here are your sons again, and I must lose<br>Two of the sweet’st companions in the world.<br>The benediction of these covering heavens<br>Fall on their heads like dew, for they are worthy<br>To inlay heaven with [[motifs/stars\|stars]]. |
-| [[characters/cymbeline\|CYMBELINE]] | Thou weep‘st, and speak’st.<br>The service that you three have done is more<br>Unlike than this thou tell’st. I lost my children.<br>If these be they, I know not how to wish<br>A pair of worthier sons. |
-| *(didascalia)* | [[characters/belarius\|BELARIUS]] rising |
-| [[characters/cymbeline\|CYMBELINE]] | Be pleased a while.<br>This gentleman, whom I call Polydore,<br>Most worthy prince, as yours, is true [[characters/guiderius\|Guiderius]]. |
-| *(didascalia)* | [[characters/guiderius\|Guiderius]] kneels |
-| [[characters/cymbeline\|CYMBELINE]] | This gentleman, my Cadwal, [[characters/arviragus\|Arviragus]],<br>Your younger princely son. |
-| *(didascalia)* | [[characters/arviragus\|Arviragus]] kneels |
-| [[characters/cymbeline\|CYMBELINE]] | He, sir, was lapped<br>In a most curious mantle wrought by th’ hand<br>Of his [[characters/queen\|queen]] mother, which for more probation<br>I can with ease produce. |
-| [[characters/cymbeline\|CYMBELINE]] | [[characters/guiderius\|Guiderius]] had<br>Upon his neck a mole, a sanguine star.<br>It was a mark of [[concepts/wonder\|wonder]]. |
-| [[characters/belarius\|BELARIUS]] | This is he,<br>Who hath upon him still that natural stamp.<br>It was wise [[concepts/nature\|nature]]’s end in the donation<br>To be his evidence now. |
-| [[characters/cymbeline\|CYMBELINE]] | O, what am I?<br>A mother to the birth of three? Ne’er mother<br>Rejoiced deliverance more. Blest pray you be,<br>That, after this strange starting from your orbs,<br>You may reign in them now! |
-| *(didascalia)* | [[characters/guiderius\|Guiderius]] and [[characters/arviragus\|Arviragus]] rise |
-| [[characters/cymbeline\|CYMBELINE]] | O [[characters/innogen\|Innogen]],<br>Thou hast lost by this a kingdom. |
-| [[characters/innogen\|INNOGEN]] | No, my lord,<br>I have got two worlds by’t. O my gentle brothers,<br>Have we thus met? O, never say hereafter<br>But I am truest speaker. You called me brother<br>When I was but your sister; I you brothers<br>When ye were so indeed. |
-| [[characters/cymbeline\|CYMBELINE]] | Did you e’er meet? |
-| [[characters/arviragus\|ARVIRAGUS]] | Ay, my good lord. |
-| [[characters/guiderius\|GUIDERIUS]] | And at first meeting loved,<br>Continued so until we thought he died. |
-| CORNELIUS | By the [[characters/queen\|Queen]]’s dram she swallowed. |
-| [[characters/cymbeline\|CYMBELINE]] | O rare instinct!<br>When shall I hear all through? This fierce abridgement<br>Hath to it circumstantial branches which<br>Distinction should be rich in. Where? How lived you?<br>And when came you to serve our Roman captive?<br>How parted with your brothers? How first met them?<br>Why fled you from the [[settings/court\|court]]? And whither? These,<br>And your three motives to the battle, with<br>I know not how much more, should be demanded,<br>And all the other by-dependences,<br>From chance to chance. But nor the [[motifs/time\|time]] nor place<br>Will serve our long inter’gatories. See,<br>[[characters/posthumus\|Posthumus]] anchors upon [[characters/innogen\|Innogen]],<br>And she, like harmless [[motifs/lightning\|lightning]], throws her eye<br>On him, her brothers, me, her master, hitting<br>Each object with a joy. The counterchange<br>Is severally in all. Let’s quit this ground,<br>And smoke the temple with our sacrifices.<br>(To [[characters/belarius\|Belarius]]) Thou art my brother; so we’ll hold thee<br>ever. |
-| [[characters/innogen\|INNOGEN]] | (to [[characters/belarius\|Belarius]])<br>You are my father too, and did relieve me<br>To see this gracious season. |
-| [[characters/cymbeline\|CYMBELINE]] | All o’erjoyed,<br>Save these in bonds. Let them be joyful too,<br>For they shall taste our comfort. |
-| [[characters/innogen\|INNOGEN]] | (to [[characters/lucius\|Lucius]])<br>My good master,<br>I will yet do you service. |
-| [[characters/lucius\|LUCIUS]] | Happy be you! |
-| [[characters/cymbeline\|CYMBELINE]] | The forlorn soldier that so nobly fought,<br>He would have [[motifs/well\|well]] becomed this place, and graced<br>The thankings of a [[archetypes/king\|king]]. |
-| [[characters/posthumus\|POSTHUMUS]] | I am, sir,<br>The soldier that did company these three<br>In poor beseeming. ’Twas a fitment for<br>The purpose I then followed. That I was he,<br>Speak, Giacomo; I had you down, and might<br>Have made you finish. |
-| GIACOMO | (kneeling)<br>I am down again,<br>But now my heavy [[concepts/conscience\|conscience]] sinks my knee<br>As then your force did. Take that life, beseech you,<br>Which I so often owe; but your ring first,<br>And here the bracelet of the truest princess<br>That ever swore her [[concepts/faith\|faith]]. |
-| [[characters/posthumus\|POSTHUMUS]] | (raising him)<br>Kneel not to me.<br>The power that I have on you is to spare you,<br>The malice towards you to forgive you. Live,<br>And deal with others better. |
-| [[characters/cymbeline\|CYMBELINE]] | Nobly doomed!<br>We’ll learn our freeness of a son-in-law.<br>Pardon’s the word to all. |
-| [[characters/arviragus\|ARVIRAGUS]] | (to [[characters/posthumus\|Posthumus]]) You holp us, sir,<br>As you did mean indeed to be our brother.<br>Joyed are we that you are. |
-| [[characters/posthumus\|POSTHUMUS]] | Your servant, princes. (To [[characters/lucius\|Lucius]]) Good my lord of<br>Rome,<br>Call forth your soothsayer. As I slept, methought<br>Great Jupiter, upon his eagle backed,<br>Appeared to me with other spritely shows<br>Of mine own kindred. When I waked I found<br>This label on my bosom, whose containing<br>Is so from sense in hardness that I can<br>Make no collection of it. Let him show<br>His skill in the construction. |
-| [[characters/lucius\|LUCIUS]] | Philharmonus. |
-| SOOTHSAYER | Here, my good lord. |
-| [[characters/lucius\|LUCIUS]] | Read, and declare the meaning. |
-| SOOTHSAYER | (reads the tablet) ‘Whenas a [[motifs/lion\|lion]]’s whelp shall, to himself unknown, without seeking find, and be embraced by a piece of tender air; and when from a stately cedar shall be lopped branches which, being dead many years, shall after revive, be jointed to the old stock, and freshly grow: then shall [[characters/posthumus\|Posthumus]] end his miseries, Britain be fortunate and flourish in peace and plenty.’<br>Thou, Leonatus, art the [[motifs/lion\|lion]]’s whelp.<br>The fit and apt construction of thy name,<br>Being leo-natus, doth import so much.<br>(To [[characters/cymbeline\|Cymbeline]]) The piece of tender air thy virtuous<br>daughter,<br>Which we call ‘mollis aer’; and ‘mollis aer’<br><br>We term it ‘mulier’, (to [[characters/posthumus\|Posthumus]]) which ‘mulier’ I<br>divine<br>Is this most constant wife, who even now,<br>Answering the letter of the oracle,<br>Unknown to you, unsought, were clipped about<br>With this most tender air. |
-| [[characters/cymbeline\|CYMBELINE]] | This hath some seeming. |
-| SOOTHSAYER | The lofty cedar, royal [[characters/cymbeline\|Cymbeline]],<br>Personates thee, and thy lopped branches point<br>Thy two sons forth, who, by [[characters/belarius\|Belarius]] stol’n,<br>For many years thought dead, are now revived,<br>To the majestic cedar joined, whose issue<br>Promises Britain peace and plenty. |
-| [[characters/cymbeline\|CYMBELINE]] | [[motifs/well\|Well]],<br>My peace we will begin; and, Caius [[characters/lucius\|Lucius]],<br>Although the victor, we submit to Caesar<br>And to the Roman empire, promising<br>To pay our wonted tribute, from the which<br>We were dissuaded by our wicked [[characters/queen\|queen]],<br>Whom heavens in justice both on her and hers<br>Have laid most heavy hand. |
-| SOOTHSAYER | The fingers of the powers above do tune<br>The harmony of this peace. The vision,<br>Which I made known to [[characters/lucius\|Lucius]] ere the stroke<br>Of this yet scarce-cold battle, at this instant<br>Is full accomplished. For the Roman eagle,<br>From south to west on wing soaring aloft,<br>Lessened herself, and in the beams o‘th’ sun<br>So vanished; which foreshowed our princely eagle<br>Th’imperial Caesar should again unite<br>His favour with the radiant [[characters/cymbeline\|Cymbeline]],<br>Which shines here in the west. |
-| [[characters/cymbeline\|CYMBELINE]] | Laud we the gods,<br>And let our crooked smokes climb to their nostrils<br>From our blest altars. Publish we this peace<br>To all our subjects. Set we forward, let<br>A Roman and a British ensign wave<br>Friendly together. So through Lud’s town march,<br>And in the temple of great Jupiter<br>Our peace we’ll ratify, seal it with feasts.<br>Set on there. Never was a war did cease,<br>Ere bloody hands were washed, with such a peace. |
-| *(didascalia)* | Flourish. Exeunt in triumph |
-| THE | [[archetypes/king\|King]]’s Men acted The Tempest before their patron, James I, at Whitehall on I November 1611. (It was also chosen for performance during the festivities for the [[motifs/marriage\|marriage]] of James’s daughter, Princess Elizabeth, to the Elector Palatine during the [[motifs/winter\|winter]] of 1612- 13.) Shakespeare’s play takes place on a [[motifs/desert\|desert]] island somewhere between Tunis and Naples; he derived some details of it from his reading of travel literature, including accounts of an expedition of nine ships taking five hundred colonists from Plymouth to Virginia, which set sail in May 1609. On 29 July the flagship, the Sea-Adventure, was wrecked by a [[motifs/storm\|storm]] on the coast of the Bermudas. She was presumed lost, but on 23 May 1610 those aboard her arrived safely in Jamestown, Virginia, having found shelter on the island of Bermuda, where they were able to build the pinnaces in which they completed their [[motifs/journey\|journey]]. Accounts of the voyage soon reached England; the last-written that Shakespeare seems to have known is a letter by William Strachey, who was on the Sea-Adventure, dated 15 July 1610; though it was not published until 1625, it circulated in manuscript. So it seems clear that Shakespeare wrote The Tempest during the later part of 1610or in 1611. It was first printed in the 1623 Folio, where it is the opening play.<br>Though other items of Shakespeare’s reading—including both [[characters/arthur\|Arthur]] Golding’s [[forms/translation\|translation]] and Ovid’s original Metamorphoses (closely echoed in Prospero’s farewell to his magic), John Florio’s [[forms/translation\|translation]] of essays by Michel de Montaigne, and (less locally but no less pervasively) Virgil’s Aeneid—certainly fed Shakespeare’s [[concepts/imagination\|imagination]] as he wrote The Tempest, he appears to have devised the main plot himself. Many of its elements are based on the familiar stuff of romance literature: the long-past shipwreck after a perilous voyage of Prospero and his daughter [[characters/miranda\|Miranda]]; the shipwreck, depicted in the opening scene, of Prospero’s brother, [[characters/antonio\|Antonio]], with [[characters/alonso\|Alonso]], [[archetypes/king\|King]] of Naples, and others; the separation and estrangement of relatives—[[characters/antonio\|Antonio]] usurped Prospero’s dukedom, and [[characters/alonso\|Alonso]] believes his son, [[characters/ferdinand\|Ferdinand]], is drowned; the chaste [[motifs/love\|love]], subjected to trials, of the handsome [[characters/ferdinand\|Ferdinand]] and the beautiful [[characters/miranda\|Miranda]]; the influence of the [[motifs/supernatural\|supernatural]] exercised through Prospero’s magic powers; and the final reunions and reconciliations along with the happy conclusion of the [[motifs/love\|love]] affair. Shakespeare had employed such conventions from the beginning of his career in his comedies, and with especial concentration, shortly before he wrote The Tempest, in [[characters/pericles\|Pericles]], The [[motifs/winter\|Winter]]’s Tale, and [[characters/cymbeline\|Cymbeline]]. But whereas those plays unfold the events as they happen, taking us on a [[motifs/journey\|journey]] through [[motifs/time\|time]] and space, in The Tempest (as elsewhere only in The [[forms/comedy\|Comedy]] of Errors) Shakespeare gives us only the end of the story, concentrating the action into a few hours and locating it in a single place, but informing us about the past, as in the long, romance-type narrative (1.2) in which Prospero tells [[characters/miranda\|Miranda]] of her [[motifs/childhood\|childhood]]. The [[motifs/supernatural\|supernatural]], a strong presence in all Shakespeare’s late plays, is particularly pervasive in The Tempest; Prospero is a ‘white’ magician—a beneficent one—attended by the spirit [[characters/ariel\|Ariel]] and the sub-human [[characters/caliban\|Caliban]], two of Shakespeare’s most obviously symbolic characters; and a climax of the play is the supernaturally induced wedding [[forms/masque\|masque]] that Prospero conjures up for the entertainment and edification of the young lovers, and which vanishes as he remembers [[characters/caliban\|Caliban]]’s plot against his life. |
-| THE PERSONS OF THE | PLAY<br>PROSPERO, the rightful [[characters/duke-of-milan\|Duke of Milan]]<br>[[characters/miranda\|MIRANDA]], his daughter<br><br>[[characters/antonio\|ANTONIO]], his brother, the usurping [[characters/duke-of-milan\|Duke of Milan]]<br>[[characters/alonso\|ALONSO]], [[archetypes/king\|King]] of Naples<br>[[characters/sebastian\|SEBASTIAN]], his brother<br>[[characters/ferdinand\|FERDINAND]], [[characters/alonso\|Alonso]]’s son<br>[[characters/gonzalo\|GONZALO]], an honest old counsellor of Naples<br>[[characters/ariel\|ARIEL]], an airy spirit attendant upon Prospero<br>[[characters/caliban\|CALIBAN]], a savage and deformed native of the island, Prospero’s slave<br>[[characters/trinculo\|TRINCULO]], [[characters/alonso\|Alonso]]’s jester<br>STEFANO, [[characters/alonso\|Alonso]]’s drunken butler<br><br>The MASTER of a [[motifs/ship\|ship]] |
-| SPIRITS | The [[forms/masque\|Masque]]<br>Spirits appearing as: |
-| JUNO | Nymphs, reapers |
 
 
 <span class="qlang-split" data-lang="it"></span>

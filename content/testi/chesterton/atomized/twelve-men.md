@@ -151,6 +151,65 @@ of the ordinary men standing round.  The same thing was done,
 if I remember right, by the Founder of [[historical-references/christianity|Christianity]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I DODICI UOMINI
+
+G.K. Chesterton
+
+Da «Tremendous Trifles» (1909)
+
+L'altro giorno, mentre meditavo sulla moralità e sul signor H. Pitt, fui, per così dire, ghermito e messo in un banco di giuria a giudicare la gente. Il ghermirmi richiese alcune settimane, ma a me parve qualcosa d'improvviso e arbitrario. Fui messo in quel banco perché abitavo a Battersea, e il mio nome cominciava con la C. Guardandomi attorno, vidi che erano stati convocati e si trovavano presenti nel [[settings/court|tribunale]] intere folle e processioni di uomini, tutti abitanti di Battersea, e tutti con un nome che cominciava con la C.
+
+Pare che convochino sempre i giurati con questo travolgente criterio alfabetico. Con un solo colpo ufficiale, per così dire, Battersea viene spogliata di tutte le sue C, e lasciata a cavarsela come può con il resto dell'alfabeto. Manca un Cumberpatch da una via, un Chizzolpop da un'altra, tre Chucksterfield da Chucksterfield House; i bambini reclamano a gran voce un Cadgerboy assente; la donna all'angolo della strada piange il suo Coffintop, e non vuole essere consolata. Ci sistemiamo con spensierata disinvoltura ai nostri posti (poiché siamo una razza audace e temeraria, noi C di Battersea), e ci viene somministrato un giuramento in maniera del tutto inudibile da un individuo somigliante a un chirurgo militare nella sua seconda [[motifs/childhood|fanciullezza]]. Comprendiamo, tuttavia, che dobbiamo giudicare [[motifs/well|bene]] e fedelmente la causa tra il nostro sovrano signore il [[archetypes/king|Re]] e il prigioniero alla sbarra, nessuno dei quali si è ancora presentato.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+Proprio mentre mi chiedevo se il [[archetypes/king|Re]] e il prigioniero non stessero, forse, giungendo a un amichevole accordo in qualche vicina taverna, la testa del prigioniero spunta sopra la barriera del banco degli imputati; è accusato di rubare biciclette, ed è il ritratto vivente di un mio grande amico. Entriamo nel merito del furto delle biciclette. Giudichiamo [[motifs/well|bene]] e fedelmente la causa tra il [[archetypes/king|Re]] e il prigioniero nella faccenda delle biciclette. E giungiamo alla conclusione, dopo una breve ma ragionevole discussione, che il [[archetypes/king|Re]] non è in alcun modo implicato. Passiamo poi a una donna che aveva trascurato i propri figli, e che ha l'aria di essere stata trascurata da qualcuno o da qualcosa. E io sono tra coloro che immaginano che qualcosa l'avesse trascurata.
+
+Per tutto il [[motifs/time|tempo]] in cui l'occhio coglieva queste lievi apparenze e il cervello formulava queste lievi critiche, vi era nel cuore una pietà e un [[concepts/fear|timore]] barbarici che gli uomini non hanno mai saputo esprimere fin dal principio, ma che sono la forza dietro metà dei poemi del mondo. Quello stato d'animo non può nemmeno essere adeguatamente suggerito, se non fiocamente con questa affermazione: che la [[forms/tragedy|tragedia]] è la più alta espressione dell'infinito valore della vita umana. Mai ero stato così vicino al [[motifs/pain|dolore]]; e mai così lontano dal pessimismo. Di norma non avrei affatto parlato di queste oscure emozioni, poiché parlarne è troppo difficile; ma le menziono ora per una ragione specifica e particolare, alla cui esposizione procederò subito. Esprimo questi sentimenti perché dalla loro fornace scaturì una curiosa presa di coscienza di una [[concepts/truth|verità]] politica o sociale. Vidi con una strana e indescrivibile chiarezza che cosa sia davvero una giuria, e perché non dobbiamo mai lasciarla andare.
+
+La tendenza della nostra epoca fino a questo [[motifs/time|momento]] è stata costantemente verso lo specialismo e il professionismo. Tendiamo ad avere soldati addestrati perché combattono meglio, cantanti addestrati perché cantano meglio, ballerini addestrati perché [[motifs/dance|danzano]] meglio, ridenti appositamente istruiti perché ridono meglio, e così via all'infinito. Il principio è stato applicato al diritto e alla politica da innumerevoli scrittori moderni. Molti Fabiani hanno insistito che una parte maggiore del nostro lavoro politico dovrebbe essere svolta da esperti. Molti giuristi hanno dichiarato che la giuria non addestrata dovrebbe essere del tutto soppiantata dal giudice addestrato.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Ora, se questo nostro mondo fosse davvero ciò che si dice ragionevole, non so se vi sarebbe nulla da ridire su tutto ciò. Ma il vero risultato di ogni esperienza e il vero fondamento di ogni religione è questo. Che le quattro o cinque cose che è più praticamente essenziale che un uomo conosca sono tutte quante ciò che la gente chiama paradossi. Vale a dire che, per quanto le troviamo tutti nella vita come mere semplici verità, pure non possiamo facilmente enunciarle a parole senza renderci colpevoli di apparenti contraddizioni verbali. Una di esse, per esempio, è l'inoppugnabile luogo comune che l'uomo il quale trova più piacere per sé è spesso l'uomo che meno lo va cercando. Un'altra è il [[concepts/paradox|paradosso]] del [[concepts/courage|coraggio]]; il fatto che il modo per evitare la [[motifs/death|morte]] è di non averne troppa avversione. Chi è abbastanza incurante delle proprie ossa da arrampicarsi su qualche promettente scogliera sopra la marea può salvare le proprie ossa proprio grazie a quell'incuranza. Chiunque perderà la propria vita, quello stesso la salverà; affermazione del tutto pratica e prosaica.
+
+Ora, uno di questi quattro o cinque paradossi che si dovrebbero insegnare a ogni bimbo che ciarla sulle ginocchia della madre è il seguente: che quanto più un uomo guarda una cosa, tanto meno riesce a vederla, e quanto più un uomo impara una cosa, tanto meno la conosce. L'argomento fabiano dell'esperto, secondo cui l'uomo addestrato dovrebbe essere l'uomo di cui fidarsi, sarebbe assolutamente inconfutabile se fosse davvero vero che un uomo il quale studiasse una cosa e la praticasse ogni giorno ne cogliesse sempre più il significato. Ma non è così. Egli continua a coglierne sempre meno il significato. Allo stesso modo, ahimè!, tutti noi continuiamo ogni giorno, a meno di non spronarci di continuo alla gratitudine e all'[[concepts/humility|umiltà]], a cogliere sempre meno il significato del cielo o delle pietre.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Ora, è cosa terribile additare un uomo alla vendetta degli uomini.
+Ma è cosa a cui un uomo può abituarsi, come può abituarsi
+ad altre cose terribili; può abituarsi persino al sole.
+E l'orribile, in tutti i funzionari della legge, anche i migliori,
+in tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni sono buoni), non è che
+siano stupidi (parecchi sono assai intelligenti): è semplicemente
+che ci hanno fatto l'abitudine.
+
+A rigore, essi non vedono l'imputato al banco; tutto ciò che
+vedono è il solito uomo nel solito posto.  Non vedono
+il tremendo [[settings/court|tribunale]] del giudizio; vedono soltanto la propria bottega.
+Perciò l'istinto della civiltà cristiana ha assai saggiamente
+stabilito che nei loro giudizi si debba, a ogni occasione,
+infondere [[motifs/blood|sangue]] fresco e pensieri freschi venuti dalle strade.
+Entrino uomini capaci di vedere il [[settings/court|tribunale]] e la folla, e i volti grossolani
+del poliziotto e dei criminali di mestiere, i volti sciupati
+dei perdigiorno, i volti irreali degli avvocati che gesticolano,
+e di vedere il tutto come si vede un quadro nuovo o un dramma mai visto prima.
+
+La nostra civiltà ha deciso, e con grande giustizia,
+che stabilire la [[concepts/guilt|colpevolezza]] o l'innocenza degli uomini è cosa troppo
+importante per essere affidata a uomini addestrati.  Vuole luce su
+quella tremenda materia, e interroga uomini che non sanno di legge più di quanto ne sappia io,
+ma che sanno provare le cose che io provai nel banco della giuria.
+Quando vuole catalogare una biblioteca, o scoprire il sistema solare,
+o una bazzecola di tal genere, consuma specialisti.  Ma quando
+desidera che si faccia qualcosa di veramente serio, raccoglie dodici
+degli uomini comuni che stanno lì attorno.  Lo stesso fece,
+se ben ricordo, il Fondatore del [[historical-references/christianity|Cristianesimo]].
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="twelve-men (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/dance,motif/death,motif/pain,motif/time,motif/well,concept/courage,concept/fear,concept/humility,concept/paradox,concept/truth,form/tragedy,setting/court"></span>

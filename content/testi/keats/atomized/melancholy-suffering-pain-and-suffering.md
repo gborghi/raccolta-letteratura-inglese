@@ -76,60 +76,60 @@ February, 1815.
 <span class="qlang-split" data-lang="it"></span>
 
 Quando siedo al mio focolare solitario,  
-e pensieri odiosi avvolgono di tenebra la mia [[motifs/soul|anima]];  
+  e pensieri odiosi avvolgono di tenebra la mia [[motifs/soul|anima]];  
 quando nessun bel [[motifs/dreams|sogno]] trascorre davanti all’“occhio della mente”,  
-e la brulla landa della vita non offre fioritura;  
-dolce [[concepts/hope|Speranza]], versa su me il tuo balsamo etereo,  
-e agita le tue ali d’argento sopra il mio capo.  
+  e la brulla landa della vita non offre fioritura;  
+    dolce [[concepts/hope|Speranza]], versa su me il tuo balsamo etereo,  
+    e agita le tue ali d’argento sopra il mio capo.  
 
 Ogni volta che vago, al calare della [[motifs/night|notte]],  
-dove i rami intrecciati escludono il raggio chiaro della [[motifs/moon|luna]],  
+  dove i rami intrecciati escludono il raggio chiaro della [[motifs/moon|luna]],  
 se il triste Sconforto spaventasse i miei pensieri,  
-e s’accigliasse per scacciare la bella Letizia,  
-fa’ capolino coi raggi di [[motifs/moon|luna]] tra il tetto di foglie,  
-e tieni lontano quel demone dello Sconforto.  
+  e s’accigliasse per scacciare la bella Letizia,  
+    fa’ capolino coi raggi di [[motifs/moon|luna]] tra il tetto di foglie,  
+    e tieni lontano quel demone dello Sconforto.  
 
 Se la Delusione, madre della [[concepts/despair|Disperazione]],  
-lottasse perché il figlio suo prenda il mio cuore incurante;  
+  lottasse perché il figlio suo prenda il mio cuore incurante;  
 quando, come nube, egli siede sull’aria,  
-pronto a piombare sulla preda ammaliata:  
-scaccialo, dolce [[concepts/hope|Speranza]], col volto luminoso,  
-e atterriscilo come il mattino atterrisce la [[motifs/night|notte]]!  
+  pronto a piombare sulla preda ammaliata:  
+    scaccialo, dolce [[concepts/hope|Speranza]], col volto luminoso,  
+    e atterriscilo come il mattino atterrisce la [[motifs/night|notte]]!  
 
 Ogni volta che la sorte di chi mi è più caro  
-narra al mio petto timoroso una storia di dolore,  
+  narra al mio petto timoroso una storia di dolore,  
 o [[concepts/hope|Speranza]] dagli occhi lucenti, rallegra la mia fantasia malata;  
-lascia ch’io prenda un poco i tuoi conforti più dolci:  
-versa intorno a me il tuo splendore nato dal cielo,  
-e agita le tue ali d’argento sopra il mio capo!  
+  lascia ch’io prenda un poco i tuoi conforti più dolci:  
+    versa intorno a me il tuo splendore nato dal cielo,  
+    e agita le tue ali d’argento sopra il mio capo!  
 
 Se mai un [[motifs/love|amore]] infelice desse [[motifs/pain|pena]] al mio petto,  
-per genitori crudeli, o per bella spietata;  
+  per genitori crudeli, o per bella spietata;  
 oh, lascia ch’io pensi che non è del tutto vano  
-sospirare sonetti all’aria di mezzanotte!  
-Dolce [[concepts/hope|Speranza]], versa su me il tuo balsamo etereo.  
-E agita le tue ali d’argento sopra il mio capo!  
+  sospirare sonetti all’aria di mezzanotte!  
+    Dolce [[concepts/hope|Speranza]], versa su me il tuo balsamo etereo.  
+    E agita le tue ali d’argento sopra il mio capo!  
 
 Nella lunga prospettiva degli anni che verranno,  
-ch’io non veda spegnersi l’[[concepts/honour|onore]] del nostro paese:  
+  ch’io non veda spegnersi l’[[concepts/honour|onore]] del nostro paese:  
 oh, ch’io veda la nostra terra serbare la sua [[motifs/soul|anima]],  
-il suo [[concepts/pride|orgoglio]], la sua [[concepts/freedom|libertà]]; e non l’ombra della [[concepts/freedom|libertà]].  
-Dai tuoi occhi lucenti versa un chiarore inconsueto —  
-sotto le tue ali fa’ baldacchino al mio capo!  
+  il suo [[concepts/pride|orgoglio]], la sua [[concepts/freedom|libertà]]; e non l’ombra della [[concepts/freedom|libertà]].  
+    Dai tuoi occhi lucenti versa un chiarore inconsueto —  
+    sotto le tue ali fa’ baldacchino al mio capo!  
 
 Ch’io non veda l’alto lascito del patriota,  
-grande Libertà! quanto grande in dimessa veste!  
+  grande Libertà! quanto grande in dimessa veste!  
 oppresso dalla vile porpora di una [[settings/court|corte]],  
-chinando il capo, e pronta a spirare:  
-ma ch’io ti veda chinarti dal cielo su ali  
-che colmano i cieli di scintillii d’argento!  
+  chinando il capo, e pronta a spirare:  
+    ma ch’io ti veda chinarti dal cielo su ali  
+    che colmano i cieli di scintillii d’argento!  
 
 E come, in scintillante maestà, una stella  
-indora la vetta chiara di qualche nube cupa;  
+  indora la vetta chiara di qualche nube cupa;  
 rischiarando lontano il volto seminascosto del cielo:  
-così, quando pensieri oscuri avvolgono il mio spirito presago,  
-dolce [[concepts/hope|Speranza]], versa intorno a me celeste influsso,  
-agitando le tue ali d’argento sopra il mio capo.  
+  così, quando pensieri oscuri avvolgono il mio spirito presago,  
+    dolce [[concepts/hope|Speranza]], versa intorno a me celeste influsso,  
+    agitando le tue ali d’argento sopra il mio capo.  
 
 Febbraio 1815.
 

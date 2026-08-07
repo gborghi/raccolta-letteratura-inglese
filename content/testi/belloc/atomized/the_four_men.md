@@ -2681,6 +2681,2682 @@ A boy that sings on Duncton Hill.”
 Full of these thoughts and greatly relieved by their metrical expression, I went, through the gathering darkness, southward across the Downs to my home.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Indice
+
+Prefazione
+
+I QUATTRO UOMINI
+
+Il ventinovesimo ottobre 1902
+
+Il trentesimo ottobre 1902
+
+Il trentunesimo ottobre 1902
+
+Il primo di novembre 1902
+
+Il 2 novembre 1902
+
+Frontespizio della prima edizione
+
+Prima pagina della prima edizione, riccamente illustrata
+
+I QUATTRO UOMINI
+
+Un disastro totale
+
+Di H. Belloc
+
+Le colline del sud e il mare meridionale
+
+Donano loro gioia alla mia vita
+
+Titolo:  
+Quando arriverò a Burton Sands…
+
+E sentite l’odore delle Terre d’Origine.
+
+Cuore rinnovato e colmo di speranza
+
+Con il Mare del Sud e le Colline del Sud.
+
+TO
+
+Signora Wright-Biddulph
+
+Di Burton nella contea del Sussex, sotto il cui tetto è stata scritta gran parte di questo libro
+
+Prefazione
+
+La mia contea. È stato dimostrato nella vita di ogni uomo che, anche se i suoi affetti sono umani e quindi soggetti a cambiamenti, quanto più li lega a cose immutabili, tanto più questi affetti maturano e si ampliano.
+
+Per questo motivo, caro Sussex, quelle donne sono particolarmente apprezzate dagli uomini perché, con il passare del tempo, continuano a essere sempre più se stesse, raggiungono l’equilibrio e abbandonano o dimenticano le vicissitudini della vita. Ed è per questo motivo che un uomo ama una vecchia casa che apparteneva a suo padre; ed è per questo motivo che un uomo inizia ad amare con tutto il cuore quella parte della terra che ha visto crescere la sua infanzia. Perché essa non cambia, o se cambia, cambia molto poco, e in essa l’uomo trova le caratteristiche delle cose durature.
+
+In quell’amore, lui rimane soddisfatto fino a quando, forse, non riceve qualche avvertimento che anche la sua stessa contea sta per affrontare la propria rovina. Allora, credimi, Sussex, diventa ansioso in un modo molto diverso; vorrebbe, se potesse, preservare la sua terra nel mondo reale e mantenerla così com’è, per sempre. Ma poiché sa di non poterlo fare, “almeno”, dice, “conserverò il suo ricordo, e quello rimarrà”. E proprio come un uomo dipinge con passione un volto che può vedere solo per poco tempo, così anche noi cerchiamo disperatamente di fissare nella memoria i nostri paesaggi e le nostre terre prima che vengano dimenticati o cambiino completamente. È per questo che ho deciso di scrivere ciò che mi è accaduto tanti anni fa, quando ho incontrato prima un uomo e poi un altro, e insieme abbiamo attraversato tutta la tua terra, Sussex, da un capo all’altro. Per molti anni ho voluto farlo, ma non l’ho mai fatto; né lo farei ora, se non sapessi che anche tu, come tutte le cose create, potresti essere molto vicino alla tua fine. So infatti con certezza che arriverà un giorno in cui quel luogo sacro scomparirà e tutti i suoi abitanti non saranno più quelli di una volta. Ma prima che quel giorno arrivi, Sussex, possa la tua terra coprirmi. E possa qualche prete dal forte timbro di voce, proveniente da Arundel, Grinstead, Crawley o Storrington – ma soprattutto dalla mia casa – cantare “Do Mi Fa Sol” sopra le mie ossa.
+
+I QUATTRO UOMINI
+
+Il ventinovesimo ottobre 1902
+
+Nove anni fa, mentre sedevo al “George” a Robertsbridge, bevendo quel loro porto e fissando il fuoco, nella mia mente affiorarono molte idee; alla fine emerse l’immagine dei boschi della mia [[motifs/home|>casa]] e di un altro luogo: il lago da cui nasce l’Arun.
+
+E mi dissi dentro di me: “Cosa stai facendo? Stai intraprendendo un viaggio lungo e lontano, non per ambizione né per avventura, ma solo per guadagnare denaro. Attraverserai il mare per ottenere i tuoi soldi, e poi tornerai indietro per spendere più di quanto hai guadagnato. Ma nel frattempo la tua vita scorre via come un fiume, e le cose che sono davvero importanti per gli uomini tu non le consideri affatto.”
+
+Mentre pensavo a queste cose e continuavo a bere quel porto, i boschi che si estendono lungo le rive del mio fiume mi tornarono alla mente con tale chiarezza che, per il loro bene e per godermi la loro bellezza, misi una mano davanti agli occhi. Vidi tutto ciò che quei boschi possono offrire: la ripida riva sopra Stoke, la valle, l’alta cresta che nasconde un uomo dagli sguardi di Arundel. E vidi anche il fiume Arun che scorreva veloce sotto di me. Sentii anche l’odore della marea.
+
+Mai, in un momento migliore, quando l’avevo visto con i miei occhi davanti alla realtà, quell’immagine così bella era apparsa così chiara; persino i suoi colori erano più vividi di quanto siano solitamente nel nostro clima inglese. Ma poiché si trattava di una visione, non c’era alcun suono; non riuscivo nemmeno a sentire il fruscio delle foglie, anche se vedevo la brezza soffiare forte sulle rive del prato allagato, sollevando onde contro la corrente.
+
+“Allora mi dissi di nuovo…”
+
+“Quello che stai facendo non vale la pena; su questa terra infelice nulla ha valore se non la realizzazione dei desideri di un uomo. Pensa a quanti anni siano trascorsi da quando hai visto la tua casa, e a quanto tempo potrebbe durare ancora la sua perfezione. Alzati e torna al tuo posto, anche solo per un giorno; hai questa grande opportunità: ti trovi già sul suolo della tua contea, e Kent è a soli un miglio o due di distanza.”
+
+Mentre mi dicevo queste cose, provai ciò che provava quell’uomo di cui tutti hanno letto nelle opere di Omero: un desiderio ardente di rivedere ancora una volta il fumo levarsi dalla sua terra natale, e poi morire.
+
+Allora colpii il tavolo con la mano, come se non ci fossero obblighi né impegni al mondo, e parlai ad alta voce (perché pensavo di essere solo). Dissi:
+
+“Me ne andrò da questo posto e tornerò a casa mia.”
+
+“Quando dissi questo, una voce più profonda di un uomo anziano rispose…”
+
+“E poiché sto andando proprio in quel posto, viaggiamo lì insieme.”
+
+Mi girai, arrabbiato: quando ero immerso in quella fantastica riflessione, non c'era nessuno con me, e pensavo di essere solo.
+
+Vidi allora, seduto oltre il tavolo, un uomo alto e snello, di età avanzata ma ancora vigoroso; i suoi occhi erano incassati profondamente nella testa, pieni di esperienze vissute e di tristezza; i suoi capelli erano del colore dell'acciaio, ricci e folti, e sul suo mento c'era una barba robusta e folta, grigia e rigida come i suoi capelli.
+
+“Non sapevo che fossi qui,” dissi, “né so come tu sia entrato, né chi tu sia; ma se vuoi sapere perché mi sono fatto parlare ad alta voce pur pensando di essere solo, è stato il ricordo di questa contea, ai margini della quale mi trovo ora per caso, per soltanto un breve istante, fino a quando un treno non mi porterà via da qui.”
+
+“Allora rispose, con lo stesso tono serio di prima.”
+
+“Per quel che riguarda la questione, è anche la mia contea… E ho sentito dire che avete detto qualcosa di più.”
+
+“Sì, ho detto di più. E poiché mi avete ascoltato, sapete cosa ho detto. Ho detto che tutto il mondo potesse essere distrutto, ma che io avrei rivisto la mia terra, e che da ora in poi avrei camminato nuovamente sul mio territorio. E poiché mi avete chiesto quale parte specifica intendo, ve lo dirò: la mia parte del Sussex è tutta quella zona a partire dalla valle di Arun, lungo il fiume Western Rother, fino alle colline dei Downs e al luogo desolato chiamato No Man’s Land.”
+
+“Mi disse, annuendo lentamente…”
+
+“Conosco anche questi,” proseguì. “Un uomo è più se stesso quando fa parte di un gruppo; quindi seguiamo insieme questa strada e, lungo il cammino, cerchiamo di raccogliere quanta compagnia possiamo trovare.”
+
+Ero più che disposto, perché ogni compagnia è utile, ma quella casuale è la migliore di tutte; tuttavia, prima gli dissi:
+
+“Se dobbiamo stare insieme per tre o quattro giorni (poiché ci vorranno almeno così tanto per percorrere l’intera lunghezza del Sussex), dimmi il tuo nome e ti dirò il mio.”
+
+Sorrise leggermente, quel tipo di sorriso che hanno gli uomini che hanno parlato con molte persone molto diverse tra loro, e disse:
+
+“Il mio nome non dice molto; inoltre, raccontarlo non avrebbe alcun valore. E tu, qual è il tuo nome?”
+
+“Il mio nome,” gli dissi, “ha importanza solo per coloro che hanno bisogno di conoscerlo; potrebbe essere importante per i miei padroni, se ne avessi, ma non ne ho. Non ha importanza nemmeno per i miei pari. E poiché tu non mi dirai il tuo nome, e dobbiamo pur chiamarci in qualche modo, ti chiamerò Grizzledbeard. Questo nome ti si addice perfettamente nella mia mente.”
+
+“E come dovrei chiamarti,” disse, “durante un viaggio così breve?”
+
+“Potete chiamarmi ‘Me Stesso’”, risposi, “poiché questo è il nome che darò a me stesso e alla mia anima, come scoprirete quando inizierò a parlare di loro, a seconda delle circostanze.”
+
+Fu così concordato tra di noi: avremmo attraversato l'intero distretto fino al luogo che conoscevamo, per recuperare, finché ancora era possibile, le principali gioie dell'anima e, se ci fosse riuscito, anche qualche altro compagno; inoltre fu deciso che, poiché la nostra [[concepts/friendship|amicizia]] era nata per caso, così doveva rimanere, e che quei titoli banali fossero sufficienti perché potessimo riconoscerci a vicenda.
+
+Quindi, quando avevamo stipulato una sorta di patto (ma non prima), versai per lui una grande quantità del mio vino in una coppa d’argento che lui teneva abitualmente in tasca; bevendo il resto dalla mia stessa coppa, concordammo sul fatto che avremmo iniziato il giorno seguente all’alba, con la faccia rivolta verso ovest lungo la strada di Brightling – cioè, addentrandoci nella foresta e dirigendoci verso quella vasta area sabbiosa da cui, molto lontano, si possono vedere per la prima volta le colline delle Downs.
+
+Tutto ciò accadde nella serata del 29 ottobre 1902; l’aria era fresca, ma non gelida, e fuori si disperdevano gli ultimi strati di nuvole causati da una tempesta intensa che aveva durato per tre giorni.
+
+La mattina seguente, dopo aver dormito profondamente, senza dare alcuna notifica a coloro che ci avevano assunto o a noi che avevamo accettato l’incarico, e mettendoci completamente al di fuori delle preoccupazioni e del mondo esterno, partimmo con la direzione ovest, decisi a raggiungere infine la valle dell’Arun e le cose che conoscevamo.
+
+Il trentesimo ottobre 1902
+
+C'era ancora vento nel cielo, e nuvole che prendevano la sua forma, spinte avanti da esso in quella fredda mattina mentre percorrevamo il sentiero vicino alla Scalands Gate, tra i boschi spogli; la strada continuava a salire fino a quando non arrivammo al villaggio di Brightling. Lì pensammo di entrare in una locanda per fare colazione, perché avevamo camminato per quattro miglia, e per tutto quel tratto in salita quasi non ci eravamo scambiati una parola.
+
+Ma quando entrammo nell’osteria, trovammo un uomo molto allegro, con un sorriso sempre pronto sul volto e occhi diretti e acuti. Tuttavia, quegli occhi erano velati dal “sale del mare”, più chiari di quelli di una persona di terra; infatti, dal modo in cui si muoveva seduto lì e dall’agilità delle sue membra, era evidente che fosse un marinaio. Era tutto molto chiaro. Inoltre, indossava un cappello da marinaio con la tesa lucida; i suoi vestiti erano di taglio tipico dei marinai, e le sue scarpe non avevano lacci, ma venivano semplicemente infilate, senza alcuna parte separata.
+
+Non appena siamo entrati, abbiamo salutato quest’uomo e lui ha salutato noi. Ci ha chiesto da dove venivamo; abbiamo risposto che eravamo di Robertsbridge. Ci ha detto che quella notte aveva dormito in una locanda e che, dopo aver fatto colazione, stava per ripartire. Ci ha anche chiesto dove stavamo andando. Allora io gli ho detto:
+
+“Questo anziano e io abbiamo deciso di dirigerci verso ovest senza alcun piano preciso, fino a quando non raggiungeremo le zone migliori della contea, cioè Arun e quelle terre che conosco bene.”
+
+Il marinaio. “Ah, mi andrà benissimo.”
+
+Grizzlebeard: “Come fai a dire che ti si addatterà perfettamente?”
+
+Il marinaio disse: “Beh, intendo dire che anch'io ho l'intenzione di dirigermi verso ovest, perché ho del denaro in tasca e penso che mi durerà per alcuni giorni.”
+
+Io stesso. “Senza dubbio avete una nave a Portsmouth o a Southampton; se venite con noi, potrete unirvi a essa.”
+
+Il marinaio: “No, nemmeno a Bosham. Di cui canta la canzone: ‘Bosham, che si trova vicino a Selsea’. Non c’è alcuna piccola nave ad aspettarmi nel porto di Bosham. Ma me la caverò. Così ho vissuto da quando ho iniziato questa vita. E così intendo finirla.”
+
+Grizzledbeard: “Non andrà come vuoi tu.”
+
+Quando avevo chiesto la colazione per noi due e anche per lui, dissi al Marinai: “Se vuoi venire con noi, con quale nome dobbiamo chiamarti?”
+
+“Perché questo”, disse il Marinaio, “dipenderà dal nome che voi stessi vi darete”.
+
+“Perché,” dissi, “questo uomo più anziano si chiama Grizzled beard. Non è il nome della sua famiglia, ma il suo nome personale; quanto a me, il mio nome è Myself, e anche un bel nome, il più bel nome che esista al mondo.”
+
+“Molto bene,” disse il Marinaiolo, avvicinando la sedia al tavolo e versandosi una grande tazza di tè, “allora potete chiamarmi Marinaiolo, che è il nome migliore del mondo e mi si addice molto, perché credo di essere il miglior marinaiolo di tutti i marinai. Ho navigato in tutti i mari del mondo.”
+
+Grizzledbeard: “Vedo che sarai un ottimo compagno.”
+
+Il marinaio: “Sì, per tutto il tempo che deciderò io; ma non dovete sorprendervi se parto in questa o in quell’altra direzione, in qualsiasi momento, senza il vostro permesso o quello di nessun altro; finché avrò denaro in tasca, sono deciso a vedere il mondo.”
+
+Io stesso. “Siamo davvero ben messi insieme, Marinai: tu, Grizzlebeard e io in questa parrocchia di Brightling. Che, anche se si trova così lontana dalle zone migliori e più importanti della nostra contea, è in un certo senso un suo santuario.”
+
+GrizzlediBarba. “Di questo non ho mai sentito parlare a Brightling, ma solo a Hurstmonceaux.”
+
+Io stesso. “In qualsiasi terra possano esistere templi e luoghi sacri di ogni tipo.”
+
+Come avrete notato, Grizzlebeard, o meglio, avreste dovuto notarlo già, essendo vissuto così a lungo, che le cose buone non si affollano mai insieme.
+
+Il Marinai: “Ma perché dici queste cose di Brightling? Forse a causa di questi vasti boschi che ora si aprono all’autunno e sembrano un’arpa che cattura il vento? Certamente, se mi fossi svegliato qui a causa di una malattia o di un lungo sonno, avrei capito subito, dall’aria e dagli alberi, in quale terra mi trovavo.” Grizzlebeard: “No, lui pensava all’obelisco che attira gli sguardi da tutto il Sussex.”
+
+Io stesso. “Stavo pensando a qualcosa di molto più prezioso, alla anima di un uomo. Non notate forse il segno che contraddistingue questa locanda?”
+
+Il marinaio: “Beh, si chiama ‘The Fuller’s Arms’. Ci sono così tante pecore, quindi molta lana, e di conseguenza anche il processo di cardatura.”
+
+Io stesso, “No, non si chiama così per quel motivo, ma in onore delle armi o del nome di un certo Fuller, un gentiluomo di queste parti che possedeva nel proprio sangue lo spirito e le tradizioni del Sussex, proprio come il Conte Godwin e altri personaggi famosi nella storia. E davvero, questo uomo merita di essere ricordato; si potrebbe dire che sia quasi una sorta di semidio della mia contea. Infatti, spendeva tutto il proprio denaro in modo sfarzoso e viveva come un essere immortale, consapevole di ciò che realmente vale la pena fare nella breve vita umana. Ho sentito dire che Fuller di Brightling, quando fu nominato Cavaliere del Borough per la contea del Sussex all’epoca del regno di Re Giorgio III, si recò a Westminster in un magnifico cocchio, trainato da sei cavalli enormi e robusti. Ma questi cavalli non erano della razza del Sussex, poiché tale razza semplicemente non esiste.”
+
+Grizzlebeard: “Hai ragione quando dici che non si trattava di ‘cavalli del Sussex’, perché nel Sussex ci sono soltanto due cose a cui questo nome viene concesso con orgoglio: il levriero e la pecora. Nota bene: molti regni, contee e territori sono generosi nel dare i loro nomi a cose comuni, poiché tali nomi non hanno alcun valore particolare né significato sacro; quindi si dà il nome di ‘Sussex’ a formaggi, cavalli, oggetti di ferro, panna cotta o burro, persino a cose ridicole come un gatto senza coda. Ma non è così per il Sussex: il nostro nome non può essere usato in modo banale, come etichetta apposta a oggetti ordinari. Infatti, noi siamo stati il primo luogo creato quando il mondo fu formato, e sicuramente saremo gli ultimi ad esistere ancora. Regali e al riparo, mentre tutto il resto perirà miserabilmente nel Giorno del Giudizio, sotto una terribile pioggia di fuoco dal cielo. Quella pioggia colpirà tutta la terra, comprese le zone circostanti questa contea: distruggerà Tonbridge e Appledore (ma non Rye), Horley, Ockley, Hazelmere, e certamente anche Petersfield e Havant. Ma nemmeno un singolo capello del Sussex verrà bruciato. Così è stato stabilito fin dall’inizio, nonostante Burwash e coloro che vi abitano.”
+
+Io stesso. “Ora che mi avete interrotto mentre parlavo di Fuller, quel nobile e grande uomo proveniente da questa nobile e grande terra, ”
+
+Il Marinaio: “L’hai lasciato andare a Westminster su una carrozza trainata da sei bei cavalli, per sedersi in Parlamento e diventare un Cavaliere della Contea.”
+
+Io stesso. “È proprio così; e, se Dio vuole, mentre viaggiava cantava la canzone ‘Golier! Golier!’ E non ho dubbi che, fino a quando non arrivò nelle marche della contea e non entrò in quelle terre barbare al di fuori, grandi folle si radunarono lungo il suo cammino acclamandolo come si merita un uomo del genere. Perché era davvero un uomo nobile, generoso con tutte le cose buone. Non sapeva nemmeno cosa lo aspettava: non conosceva nulla di così malvagio come Westminster, né nulla di così opprimente o disgustoso come la sua odiosa Camera dei Comuni, dove gli uomini stanno seduti immobili e cupi, odiandosi a vicenda e anche se stessi. Ma per lui esisteva solo il vasto Sussex.”
+
+“Beh, allora, quando arrivò a Westminster, molto presto arrivò il giorno in cui i grandi personaggi avrebbero tenuto un dibattito, tutto vuoto e senza valore, su argomenti insignificanti o sul valore del nulla; l’uomo che prendeva la maggior parte dei soldi dalle tasse, suo cugino che sedeva di fronte a lui e a cui aveva promesso il prossimo mucchio di ricchezze pubbliche, suo cognato, il suo parassita e tutti gli altri ladri avevano già iniziato con le loro vanità pompose. Quando allora il grande Fuller si alzò al suo posto, pieno di orgoglio per il Sud, e disse che non era venuto alla Camera dei Comuni per parlare di simili sciocchezze, né per ascoltarle; anzi propose, lì stesso, di tenere un elogio per la contea del Sussex, da cui proveniva e che considerava il cuore e la capitale di tutto il mondo.”
+
+“Questo elogio lo iniziò subito e con grande forza, usando la sua voce come dovrebbe fare un uomo sano, capace di soffocare ogni opposizione e di far obbedire anche un cane da mezzo miglio di distanza. E infatti, nonostante intorno a lui si scatenasse una tempesta di critiche da parte di quegli uomini meschini venuti a Westminster non per lodare o onorare il loro paese, ma solo per arricchirsi, lui continuò a parlare con coraggio, e la sua voce si udì sopra ogni altro rumore. Il Sergente d’Arma ne ebbe paura, e l’Ufficiale addetto alle registrazioni desiderò di non essere mai nato. Ma il Presidente della Camera, il cui compito è mantenere l’ordine in aula (non ricordo il suo nome, perché persone del genere non diventano famose dopo la morte), si alzò in piedi e ordinò a Fuller di smettere. Poiché Fuller rifiutò di obbedire, tutti i presenti gridarono “Ordine!” otto o novecento volte. Ma quando finalmente si esaurirono, quel grande Fuller, Fuller di Brightling, gridò ancora più forte su di loro, ”
+
+“‘Pensi davvero che mi importi di te, piccolo insignificante con quella parrucca? Prendi questo!’ E con queste parole fece schioccare le dita davanti a loro, poi uscì dalla Camera dei Comuni, salì sul suo grande cocchio trainato da sei potenti cavalli e ordinò che si dirigesse verso sud. Finalmente ritornò nella sua terra natale, dove fu accolto come meritava: con campane che suonavano, spari di cannone, grida di bambini. E tutti gli anatre, le galline e i maiali fuggivano a destra e a sinistra della strada al suo passaggio. Da quel giorno, essere un cavaliere di Brightling è considerato un onore straordinario, superiore a ogni altro; mentre essere membro della Camera dei Comuni non rappresenta alcun onore. Spese tutta la sua enorme fortuna per i poveri del Sussex e della sua parrocchia, incoraggiandoli a bere e mangiare abbondantemente, convinto che queste abitudini fossero le migliori per preservare la vita. Fino a quando anche lui non morì. Ecco la storia di Fuller di Brightling. Possiamo tutti meritare lo stesso onore.”
+
+Il Marinai: “La lunghezza della tua storia mi ha permesso di preparare una colazione davvero eccellente; per essa pagherò io stesso, e vi invito tu e Grizzlebeard a pagare ciascuno la propria parte, come è consuetudine nella parrocchia dove sono nato. Spero che apprezzerete questa usanza, finché ho ancora denaro. Ma forse ve ne dimenticherete quando lo avrò speso tutto. E se, parlando così tanto, avete mangiato poco, beh, non posso farci nulla. Devo andarmene.”
+
+Il marinaio si alzò e si pulì con cura le labbra con il fazzoletto, poi depositò una somma di denaro concordata in precedenza con il proprietario dell’alloggio; anche noi pagammo la nostra parte, e così tutti e tre ci mettemmo in viaggio verso Heathfield all’alba. Eravamo proprio sul punto di parlare di Jack Cade – che per poco non riuscì a rovinare i ricchi, ma purtroppo morì in queste zone a causa di un colpo alla testa – quando notammo lungo la strada davanti a noi un tizio allungato, che si muoveva in modo tipico di certi individui presenti in tutto il mondo: persone le cui menti sono sempre occupate da pensieri vaghi, che sembrano non avere uno scopo preciso nella vita, ma che comunque vengono mantenute e vestite grazie alla carità altrui.
+
+“Tenete bene a mente quell’uomo,” disse Grizzlebeard, “perché credo che possiamo farne parte della nostra compagnia. E se non mi sbaglio, lui potrà fornirci ciò di cui voi (parlando al Marinaio) e io stesso abbiamo bisogno. Questa mattina, infatti, ci ha dimostrato tutti e tre persone caute, discrete nel parlare e nell’agire; individui che conoscono bene il mondo e fanno attenzione a non rivelare nemmeno i propri nomi. Tipi che pensano solo a se stessi e, in molti altri modi, fedeli al Diavolo. Ma quest’uomo davanti a noi, se non mi sbaglio, appartiene a una categoria molto più vicina a Dio.”
+
+Mentre Grizzlebeard diceva queste cose, osservammo più attentamente l’uomo davanti a noi: mentre camminava, sembrava che le sue lunghe membra avessero articolazioni poco flessibili; i suoi bracci dondolavano piuttosto che muoversi con scioltezza; non seguiva una traiettoria dritta lungo la strada. Sotto il suo cappello di feltro a bordo stretto, spuntava una chioma castana troppo lunga e decisamente poco rigogliosa. La sua camicia era morbida, grigia e sporca, fatta di lana; il colletto si confondeva con essa, e solo un piccolo lembo spuntava sopra la gola. Il suo cappotto era di velluto, simile a quello di un guardiacaccia, ma in ogni altro aspetto non assomigliava affatto a uno di loro; nessuno gli affiderebbe mai una pistola.
+
+“Chi lo sa, forse questa creatura è un’artista,” mi disse il Marinairo con voce piena di ammirazione mentre ci avvicinavamo.
+
+Io stesso, “Non credo proprio. Un artista non sarebbe così indifferente. Anche da giovani, i loro debiti li opprimono, e fanno certi gesti precisi e decisi, perché sono persone che lavorano con le mani. Ma questo oggetto è appeso in modo disinvolto. E anche se scoprirò sicuramente che ha dei debiti, sarò altrettanto certo che non gliene importa nulla, e non riuscirebbe nemmeno a indicarti la loro entità con precisione, nemmeno alla metà del valore reale.”
+
+A quel punto, poiché noi camminavamo con regolarità mentre lui barcollava, come ho detto, eravamo quasi arrivati al suo fianco e lo sentimmo mormorare tra sé in modo che avrebbe potuto infastidire qualsiasi ascoltatore stanco: le note del suo canticchiolio non erano affatto chiare, e sembrava che a lui non importasse affatto dove iniziasse o finisse la melodia. Poi lo vedemmo fermarsi improvvisamente, tirare fuori una penna da qualche tasca e cercare, come immaginammo, del carta.
+
+“Ho ragione”, disse Grizzlebeard trionfante. “È un poeta!”
+
+Sentendo le nostre voci per la prima volta, il giovane si girò lentamente; quando vedemmo i suoi occhi, capimmo davvero che Grizzlebeard aveva ragione. I suoi occhi erano grandi e arcuati, come se fossero sempre sorpresi, e di un colore grigio caldo. Non sembravano vedere le cose davanti a loro, ma qualcos’altro al di là; e mentre il resto del suo viso cambiava leggermente nel salutarci, i suoi occhi rimasero invariati. Anzi, sembravano sempre tristi.
+
+Prima che qualcuno di noi potesse rivolgersi a questo giovane, lui chiese improvvisamente un coltello.
+
+“Pensi che sia sicuro lasciargliene uno?” mi chiese il Marinaiolo.
+
+“È per affilare questa matita,” disse lo sconosciuto, mostrando un mozzicone di matita H.B. molto più corto del suo pollice. Lo teneva in mano in modo piuttosto patetico e incerto, con l’estremità smussata e rotta rivolta verso l’alto.
+
+“È meglio che tu prenda questo,” disse Grizzlebeard, porgendogli una matita in condizioni migliori. “Non hai forse un coltello tuo?”
+
+“L’ho perso,” disse l’altro con tristezza. La sua voce era piena di dolore mentre lo diceva, quindi immagino che si trattasse del suo amico.
+
+Grizzlebeard: “Beh, prendi il mio e scrivi velocemente ciò che devi scrivere; so per esperienza personale che queste cose sono effimere.”
+
+Il estraneo lo fissò per un momento e poi disse:
+
+Ho dimenticato cosa volevo dire… Voglio dire, scrivere.
+
+Il marinaio (con un gemito): “Ha dimenticato il proprio nome!” — Poi, più ad alta voce: “Poeta! Chiamiamoti Poeta e seguiamo te. Ci prenderemo cura di te, e in cambio tu scriverai versi per noi. Versi brutti, versi difficili da comprendere, ma forti, intensi. Versi che i poeti scrivono quando vengono ispirati dalle passioni profonde degli altri uomini, ma che loro stessi non riescono a comporre con facilità.”
+
+Il poeta. “Non ti capisco.”
+
+Ma Grizzlebeard prese affettuosamente il suo braccio, come se fosse suo padre, e disse: “Vieni, questi uomini sono abbastanza gentili, ma hanno appena fatto colazione e non è ancora mezzogiorno; quindi sono in vena di caccia. E poiché non c’è selvaggina da cacciare, caccieranno te. Ma tu non devi rispondere loro. Vieni semplicemente con noi verso ovest e sii nostro compagno fino a quando non arriveremo nel luogo dove il sole tramonta. E scopriremo cosa rende quel posto così splendido.”
+
+Sentendo queste parole, il Poeta ne fu molto felice.
+
+Desiderava da tempo trovare quel luogo e disse che aveva camminato verso di esso per tutta la sua vita. Ma ci confessò, con un po' di imbarazzo, di non avere denaro, se non tre scellini e una moneta francese che qualcuno gli aveva dato per carità quel giorno stesso, confondendolo per un mendicante poco lontano da Brightling.
+
+“Tuttavia,” disse, “se siete disposti a finanziarmi in ogni modo, indipendentemente da ciò che mangio, bevo, leggo o faccio per divertirmi, allora sarò molto felice di concludere quell’accordo con voi.”
+
+Io stesso. “Poeta! Questo dovrà essere chiaro tra noi. E potrai ordinare ciò che desideri; non dovrai sentirti vincolato da alcuna restrizione. È proprio nell’essenza di una buona amicizia che il povero chieda il vino e che il ricco lo paghi.”
+
+“Non sono un uomo povero,” mi disse gentilmente il Poeta, “solo che ho dimenticato dove ho lasciato i miei soldi. So di aver avuto tre sterline ieri, ma credo di aver pagato una sovrana per un penny oltre Brede, e a Battle, deve essere stato lì, ho dimenticato di prendere il resto. Per quanto riguarda la terza sterlina, forse appare ancora, ma l’ho cercata più volte stamattina e inizio a temere che sia scomparsa. Ora mi ricordo!” Il Marinaio: “Cosa? Ancora fortuna? Puoi esserne certo! Non torneremo indietro per quella tua sterlina, né per cinque di esse.” Il Poeta: “No, non è questo. Quando ho detto ‘mi ricordo’, intendevo qualcos’altro. Intendevo la frase che avevo in mente mentre vi avvicinavate e che ha cambiato i miei pensieri.”
+
+Il Marinaio. “Non voglio sentirlo.”
+
+Il Poeta. “Era…”
+
+“Chissà se queste piccole colline appuntite…”
+
+Grizzlebeard: “Sì, e poi cosa succede?” Il Poeta (con un po’ di dolore): “Niente, temo. Ma noterete che le piccole colline qui intorno hanno una forma appuntita.”
+
+Il Marinaio: “Nella mia vita non ho mai ringraziato i miei genitori per nulla, ma ora li ringrazio per ciò che fino ad ora mi ha causato più dolore: per avermi destinato alla dura professione di marinaio. Perché se non fossi stato affidato in apprendistato, come è consuetudine a Bristol, da bambino a un individuo scontroso proveniente dal Holderness, forse sarei diventato un Poeta, per la collera di Dio.”
+
+Grizzlebeard: “Non ascoltarlo, Poeta. Ma guarda! Siamo arrivati a Heathfield. Penso sia giunto il momento di mangiare, bere, o entrambi. E di considerare la nostra compagnia ormai unita, e il primo stadio del nostro [[motifs/journey|viaggio]] verso Ovest completato.”
+
+All’epoca, Heathfield era un ottimo posto per gli uomini, e lo sarà di nuovo: questa terra del Sussex tende sempre verso il meglio e non permetterà mai che si verifichino degradazioni.
+
+Quindi ci sedemmo fuori dal villaggio, ai margini di un piccolo boschetto che faceva parte del parco di un uomo ricco, e guardammo verso nord, verso la collina di Mayfield, dove San Dunstan tirò il Diavolo per il naso; e fino ad oggi si conservano ancora le tenaglie con cui lo fece a Mayfield.
+
+Ora che la storia di come San Dunstan tirasse il Diavolo per il naso, nel corso di mille anni, è stata distorta, alterata e resa molto diversa dalla sua vera origine, e poiché si tratta di un racconto che ogni bambino dovrebbe conoscere e ogni adulto ricordare per la gloria della religione e l’onore di questa antica terra, lo riporterò qui prima di dimenticarlo. Potrete leggerlo o meno, come preferite.
+
+Allora, San Dunstan, che era originario del Sussex (poiché nacque poco lontano da Ardingly, nonostante quanto possano affermare falsamente alcuni cronisti; era figlio di un uomo molto onesto di nome Dunstan delle Leas), dopo aver ricevuto gli ordini sacri – una scelta che riguardava soltanto lui e non noi – salì rapidamente dai ranghi di subdecano a decano, da decano a presbitero, e da presbitero a vescovo. Con ogni probabilità sarebbe diventato papa in tempi brevi, se solo avesse preferito vivere nella sua amata contea piuttosto che sprecare la sua vita tra gli stranieri.
+
+Di tutte le cose che fece, non ho spazio per raccontarvele (e inoltre, la mia storia sta diventando più lunga di quanto mi piaccia, ma lasciamo perdere). Tuttavia, c’è una cosa che fece, davvero memorabile tra tutte. Sì, ancora più memorabile del miracolo per cui riuscì a far cadere diversi laici attraverso il pavimento marcio di un fienile, per suo grande divertimento ma loro grande imbarazzo. E questa cosa memorabile fu, quando prese il Diavolo per il naso.
+
+Dovete sapere che il Diavolo, desideroso di fare del male al popolo del Sussex, andò a chiedere prima a un uomo e poi a un altro chi avesse il diritto di scegliere, e tutti risposero che era San Dunstan. Poiché lui era il loro protettore, come sapevano bene, ed è per questo che lo inviarono da lui, consapevoli che sarebbe riuscito a sconfiggere quel demone. Da quel giorno in poi, gli abitanti del Sussex continuano a sfidare e infastidire il Diavolo, come potrete leggere spesso nelle pagine di questo libro.
+
+Allora il Diavolo salì nella foresta di Weald una mattina di maggio, quando tutto era piacevole agli occhi e all’orecchio. Trovò San Dunstan seduto a Cuckfield, a un tavolo all’aperto, che scriveva versi in latino, cosa che sapeva fare molto bene. Allora il Diavolo disse a San Dunstan: “Sono venuto per farti scegliere il modo in cui Sussex dovrà essere distrutta. Poiché devi sapere che ho il potere e l’autorità necessari per farlo, e nessuno può opporsi a me. Tuttavia, al tuo popolo è concesso di conoscere il modo con cui dovranno perire.”
+
+E infatti questo è proprio lo stile del Diavolo: fingere sempre di essere il padrone, anche se nel suo cuore nero sa benissimo di non esserlo affatto.
+
+In realtà San Dunstan non era lo sciocco che sembrava, nonostante il suo viso rotondo, la tonsura rotonda e gli occhi rotondi; avrebbe sicuramente fatto i suoi scherzi con il Diavolo prima di sconfiggerlo definitivamente. Così rispose in modo abbastanza cortese: —
+
+“Perché, Demone, penso che se tutti dobbiamo morire, sarebbe più piacevole farlo attraverso l’acqua del mare piuttosto che in qualsiasi altro modo. Dopotutto, è dal mare che è nata la nostra terra, e quindi dovrebbe tornarci. Tuttavia dubito della tua capacità di riuscirci: siamo infatti protetti dal mare da queste grandi colline chiamate The Downs, che richiederebbero un impegno enorme per essere attraversate.”
+
+“Pf! Bah!” disse il Diavolo in modo scortese come risposta. “Non conosci davvero le mie capacità! Taglierò via quelle piccole cose in una sola notte senza nemmeno accorgermene, visto che sono il padre di tutti i contrattori, l’originale maestro degli ispettori e dei responsabili di grandi opere: per me è un gioco da bambini. È come essere morso da una pulce, un lavoro da sbrigare in una notte estiva, tra il tramonto e l’alba.”
+
+“Allora,” disse San Dunstan, “il sole sta per tramontare sopra Black Down, a ovest di noi; quindi andate pure a fare il vostro lavoro. Ma se non l’avrete terminato entro l’alba sul Weald, dovrete partire in nome di Dio.”
+
+Allora il Diavolo, pieno di gioia per aver ingannato San Dunstan, come pensava lui, e per essere così riuscito a distruggere la nostra terra – cosa che, se mai fosse riuscito a realizzare, avrebbe comportato la distruzione totale e l’oblio dell’intero mondo – volò verso sud attraverso l’aria, sbattendo le sue grandi ali. Tutti i abitanti della regione del Weald pensarono che si trattasse di un aeroplano, di quel mezzo di trasporto di cui sono grandi appassionati osservatori; molti uscirono per seguirne il volo, e alcuni erano pronti a raccontare agli altri di che tipo fosse quell’aeroplano, e altre simili bugie.
+
+Ma non appena calò la notte, il Diavolo, avendo ottenuto un grande badile, lo mandò dalla sua fattoria e iniziò a lavorare con grande impegno e forza, scavando nelle colline rivolte verso il mare. I ciuffi d’erba volavano ovunque, e i grandi blocchi di gesso che spalava si disperdevano da tutte le parti; alcuni di questi, a causa del forte impatto del badile, finirono sul Monte Caburn, altri su Rackham Hill, e ancora altri in varie altre zone. Ma la maggior parte cadde su Cissbury. Ed è così che si formarono quei grandi tumuli di cui gli studiosi parlano con tanta facilità, anche se in realtà non sanno assolutamente nulla della verità. Il Diavolo scavò e sollevò terra senza sosta, fino a mezzanotte nella chiesa di Shoreham. E poi ancora un’ora, due ore, tre ore dopo. Mentre scavava, quel grande argine si faceva sempre più profondo nelle colline, tanto che rischiava di raggiungere il lato di Wealden. Non mancavano ormai che una ventina di metri di scavo prima che il mare irrompesse e ci sommergesse tutti.
+
+Ma San Dunstan, che sapeva tutto ciò, recitò la preghiera “Populus Tuus Domine” (la preghiera del 8 novembre, Pp alba 42, “Double or quits”). Grazie al potere di questa preghiera, in quell’istante tutti i galli presenti nella regione tra il Rother occidentale e quello orientale, da Ashdown fino a Harting Hill, e da Bodiam fino a Shillinglee, si svegliarono improvvisamente per difendere la gente cristiana. Alzarono le loro teste rosse e cantarono tutti insieme in coro, producendo un rumore tale che non era mai stato sentito prima, né lo sarebbe stato mai più dopo. Si sarebbe detto che fosse una notte di Natale, piuttosto che l’inizio di una mattina di maggio.
+
+Allora il Diavolo, sentendo questa terribile sfida provenire da milioni di voci che gridavano per settanta miglia in una direzione e venti miglia nell’altra, smise di scavare, confuso. Piantò la sua pala nel terreno, salì sulla cima della collina e guardò meravigliato il cielo, osservando tutte le stelle, chiedendosi come fosse possibile che fosse già quasi giorno. Ma con questo suo errore perse il tempo necessario. Perché proprio mentre si rendeva conto di essere stato ingannato, oltre la cresta di Hawkhurst Ridge sorse il giorno, e con un grande urlo il Diavolo capì di aver perso la sua scommessa.
+
+Ma era deciso nella sua decisione (poiché amava trattare con rigore le questioni legate all’oppressione) e volò qua e là nell’aria, fino a quando finalmente trovò San Dunstan, non a Cuckfield, ma a Mayfield. Anche se non so come quel Santo sia riuscito ad arrivare lì in così poco tempo. È un mistero degno di un grande santo.
+
+Comunque, quando il Diavolo arrivò a Mayfield chiese dove fosse San Dunstan, e gli dissero che stava celebrando la Messa. Così il Diavolo dovette aspettare, grattandosi e scodinzolando, finché San Dunstan non uscì; quest'ultimo lo fece con grande calma e sorridendo, e chiese al Diavolo come stesse e perché non avesse ancora terminato quella sua incombenza. Ma il Diavolo, interrompendolo, rispose.
+
+“Non accetterò alcuna privazione, ma solo ciò che mi spetta!”
+
+“Perché, come è possibile?” disse San Dunstan con sorpresa e piacere.
+
+Allora il Diavolo gli spiegò come tutti i galli avevano iniziato a cantare mezz’ora prima dell’orario previsto, privandolo così ingiustamente della sua ricompensa. Il diga, disse, era quasi completato e ora si estendeva per gran parte delle colline circostanti. Era davvero una vergogna che fosse stato commesso un simile trucco; credeva fermamente che ci fossero state prove preliminari in merito, ma nonostante ciò avrebbe ottenuto i suoi diritti, perché la legge era dalla sua parte.
+
+Allora San Dunstan, grattandosi il mento con l’indice della mano sinistra (cosa che riusciva a fare meglio, poiché quella mattina non si era rasato), rispose al Diavolo:
+
+“Percepisco che qui ci sia materia per un dibattito. Ma non discutiamone qui. Venite invece nel mio piccolo laboratorio nel palazzo laggiù, dove tengo tutti i miei argomenti; lì vi ascolterò, secondo quanto meriti la vostra causa.”
+
+Andarono insieme verso quel piccolo laboratorio: San Dunstan con serenità, da vero uomo santo; il Diavolo, invece, in modo molto cupo e irritato. Lì, San Dunstan offrì al Diavolo una sedia e gli disse di esporre le sue ragioni, mentre lui stesso avrebbe passato il tempo occupandosi di piccoli lavori di falegnameria e decorazione, che gli procuravano grande piacere. Così dicendo, San Dunstan soffiò nel mantice, riscaldò il fuoco della sua fucina, mise dentro le pinze per l’incastonatura e ascoltò mentre il Diavolo presentava le sue argomentazioni: ragionamenti così convincenti, esempi così numerosi, leggi così chiare e ordini così logici da non essere mai stati uditi in nessun tribunale. Tali argomentazioni avrebbero fatto ballare di gioia qualsiasi avvocato. E tutto il tempo San Dunstan continuava ad annuire seriamente, dicendo.
+
+“Sì! Sì! Procedi. Ma ho un’obiezione contro tutto questo!” Fino a quando, infine, il Diavolo, irritato da una risposta così semplice ripetuta più volte, disse:
+
+“Allora, diamo un’occhiata al tuo argomento! Non esiste alcun argomento o motivo conosciuto o possibile che possa confutare la mia affermazione, né costringermi ad abbandonarla o a modificarla anche solo in minima parte.”
+
+Ma proprio mentre lo diceva, San Dunstan, tirando fuori le sue tenaglie ancora calde dal fuoco della fucina, gridò improvvisamente e ad alta voce:
+
+“Ecco il mio argomento!” E così dicendo batté con forza le tenaglie sul naso del Diavolo, facendolo ballare e urlare, mentre iniziava a maledire in modo davvero orribile.
+
+“Come, ora!” disse San Dunstan. “Come! Questi ululati non sono suppliche, ma pura e semplice sfrontatezza! Non vorrete forse ammettere il mio argomento e quindi ritirarvi da questa Corte, dove non avete nulla da fare?” Mentre parlava, trascinò il Diavolo avanti e indietro per la stanza, facendolo saltare sui tavoli e sulle sedie come un acrobata, mentre lui continuava a maledirlo senza seguire alcun ordine preciso di argomentazioni legali – replevin, quo warranto, nisi prius, habeas corpus, ecc. – ma in buon tedesco, che era la sua lingua madre. E tutto il tempo San Dunstan continuava a dire.
+
+“Discutete pure, fratello! Discutete pure, voi illustre avvocato! Invocate tutte le vostre argomentazioni. Ma nulla di tutto ciò riguarda la questione che si sta esaminando in tribunale! Dobbiamo avere delle risposte concrete!” E mentre così incalzava il Diavolo con termini legali, continuava a trascinarlo avanti e indietro per la stanza, divertendosi un mondo a sue spese. Fino a quando, finalmente, il Diavolo non ne poté più sopportare e, non appena San Dunstan smise di usare i suoi ferri da taglio, volò via all’istante.
+
+E per questo motivo il Diavolo, ancora oggi, prova un sentimento di estrema tenerezza riguardo al proprio naso; e a dimostrazione di tutta questa storia (se mai fosse necessaria una prova per qualcosa che è riportato negli scritti dei Bollandisti ed ampiamente riconosciuto dalla Curia, dalla Propaganda e da chiunque altro voglia), ecco le prove: innanzitutto, il Dike stesso, ancora oggi chiamato “Dike del Diavolo”, che si trova lì, scavato con estrema cura, quasi fino al punto in cui le colline si incrociano; in secondo luogo, e cosa ancora più significativa, a Mayfield è possibile trovare e vedere personalmente le pinze stesse utilizzate per compiere quell’atto.
+
+E se vi sembra che questa storia sia troppo lunga, sappiate che anche il Diavolo l’avrebbe trovata ancora più lunga. Non esiste infatti racconto al mondo capace di annoiare un uomo tanto quanto il ferro rovente. Quindi, torniamo a Heathfield.
+
+Beh, mentre eravamo seduti lì a Heathfield, discutevamo tra noi su quale strada seguire per dirigerci verso ovest, perché tutta questa zona della contea è un territorio molto disordinato e complicato.
+
+Prima di tutto, per dovere, chiedemmo al Poeta, poiché era arrivato ultimo; scoprimmo che non riusciva a prendere una decisione, e quando lo pressammo, capimmo anche che non sapeva affatto quale fosse il modo per dirigersi verso ovest lasciando questi boschi. Ma quando gli dicemmo che passare attraverso Burgess Hill e Hayward’s Heath avrebbe significato attraversare città simili a quelle di Londra, il Poeta rispose che preferiva lasciare il nostro gruppo piuttosto che farlo. Disse infatti che in città del genere, più si lavorava e meno si guadagnava; eppure, se non si lavorava affatto, si moriva comunque. Quindi, tutto ciò che poté dirci fu che, per lui, non faceva alcuna differenza se evitassimo tali luoghi passando dal nord o dal sud; ma che, in ogni caso, dovevamo evitarli se volevamo che continuasse a seguirci.
+
+Quando il Poeta ebbe espresso il suo parere, Grizzlebeard e io ponemmo la domanda al Marinaio, il quale aggrottò la fronte e sembrò molto saggeggiare per un po’; poi, tirando fuori la sua penna, chiese al Poeta di ripetere esattamente qual fosse la sua obiezione; quest’ultimo gliela spiegò nuovamente e lui la trascrisse con cura su un pezzo di carta. Dopo averlo fatto, riempì molto attentamente la sua pipa di tabacco, arrotolò il foglio di carta in una pallina, ci diede fuoco e con essa accese la pipa. Una volta terminati tutti questi gesti, disse che non gli importava come avremmo proceduto, purché riuscissimo a superare rapidamente quella parte difficile.
+
+Pensava che potessimo farlo al buio. Ma gli dissi che quei posti sarebbero stati pieni di poliziotti, i quali venivano pagati per mandare in prigione uomini poveri e senza fissa dimora, soprattutto di notte. Così abbandonò l’intera idea.
+
+Allora Grizzlebeard ed io discutemmo su come procedere, e decidemmo che non c’era altra scelta se non quella di seguire i sentieri secondari verso Irkfield, ricordando in particolare “The Black Boy”, il punto da cui questi sentieri iniziavano. Poi, senza dormire a Irkfield, avremmo proseguito nella notte verso Fletching e, attraverso altri sentieri secondari, fino ad Ardingly. In questo modo, noi che conoscevamo bene la zona, avremmo potuto sbarazzarci degli invasori, aggirandoli da nord fino a raggiungere la foresta.
+
+Avendo così deciso, partimmo lungo quella strada in silenzio; prima però comprammo carne fredda e pane da mangiare durante il viaggio. Quando arrivammo a Irkfield, era già sera.
+
+Il vento si era placato. Quel giorno avevamo percorso molte miglia; eravamo stanchi, e solo la paura di ciò che ci aspettava impediva che dormissimo lì. Temevamo infatti che, se avessimo riposato in quel luogo, il giorno dopo avremmo evitato di fare quella lunga deviazione e avremmo comunque dovuto vedere quei posti orribili. Ma all’improvviso il Marinaio chiese quanta denaro avessimo con noi. Lui stesso, disse, ne aveva più di una sterlina, e posò su quel tavolo dell’osteria in cui ci eravamo fermati una sovrana e alcuni scellini. Dissi che ne avevo più di cinque, il che era vero, ma non volli mostrarli. Grizzlebeard affermò che la sua denaro riguardava soltanto lui stesso. Il Poeta frugò in molte tasche, ma raccolse una somma molto inferiore a mezzo scellino.
+
+Solo dopo che tutto questo fu fatto, il Marinai ci raccontò che aveva noleggiato nella stessa casa un piccolo carretto a due ruote, con un cavallo robusto e un conducente, e che, per una somma molto elevata, avremmo potuto essere portati per tutte quelle miglia attraverso la notte fino ad Ardingly, fino al margine dei grandi boschi. Disse anche che, per quanto riguardava lui, potevamo seguirlo o meno, ma che comunque avrebbe guidato velocemente nella oscurità, senza dormire finché non fosse arrivato sulla cresta della foresta, lontano da tutta quella parte detestabile della contea, una zona che non era fatta per gli uomini, ma piuttosto per turisti, stranieri o persone di Londra che si erano perse.
+
+Così salimmo nel suo carretto e fummo portati attraverso la notte lungo strade secondarie, senza attraversare alcun villaggio tranne Fletching; verso mezzanotte arrivammo ai margini della fitta foresta. Lì il conducente ricevette abbastanza denaro da potersi fermare e trascorrere la notte lì stesso, mentre noi proseguimmo nella foresta, guidati dal marinaio che affermava di conoscerla meglio di chiunque altro.
+
+Pertanto lo seguimmo con pazienza, anche se non voleva dire come conoscesse questi boschi o quando li avesse scoperti per la prima volta.
+
+Attraversammo gli alberi oscuri per un lungo tragitto verde, salimmo il cancello che un uomo ricco aveva eretto e chiuso a chiave, e ci addentrammo sempre di più nella natura selvaggia. Nel poco che dicemmo l’uno all’altro, Grizzlebeard, il marinaio e io, speravamo di poter riposare presto; ma il marinaio continuò ad andare avanti, conoscendo bene la strada come un cane da caccia. Svoltammo in questo sentiero e poi in quello, fino a quando improvvisamente ci trovammo di fronte a qualcosa che si distingueva nella oscurità: un quadrato nero che si estendeva tra gli alberi da una parte all’altra. Era una piccola capanna.
+
+Il marinaio provò prima ad aprire la porta; vedendola chiusa, tirò fuori una chiave dalla tasca e entrò. Una volta al riparo dal vento, accese un fiammifero e illuminò una candela che si trovava lì, su un bastoncino di rame. Noi tutti entrammo e ci guardammo intorno.
+
+Era una sola stanza, e una piccola per di più; tutti i quattro lati erano fatti di assi grezzi. C'erano due piccole finestre che, alla luce delle candele, apparivano nere; sul lato destro della porta c'era un grande caminetto in mattoni, pieno di cenere e con dei pezzetti di legno e tronchi pronti per essere bruciati. Vicino a questo caminetto c'era un angolo rialzato con panche, e lì erano appoggiate due tappete. Ma a parte queste cose, nella capanna non c'era assolutamente nulla: nessun libro, nessun mobile, tranne la candela; il pavimento era fatto di terra battuta.
+
+“Marinaio,” dissi, “come hai fatto ad ottenere la chiave di questo posto?”
+
+“Era già meraviglioso che sapesse come arrivarci… Ma il Marinaio disse:”
+
+“Perché no?”, e dopo di ciò non aggiunse più nulla. Solo prima che andassimo a dormire, molto tardi com'era, ci disse che sarebbe stato meglio accendere il fuoco e metterci sopra due o tre dei grossi tronchi che avevamo lì vicino; infatti, con il freddo autunnale, nessuno di noi avrebbe potuto dormire a sufficienza, nonostante avessimo avvolto i piedi nei nostri mantelli, se non ci fosse stato un fuoco acceso. E in questo aveva perfettamente ragione: indipendentemente dal tempo, anche all’aperto, le persone possono sempre dormire se hanno un fuoco. Così decidemmo che Grizzlebeard, essendo un anziano, avrebbe avuto a disposizione la panca e i tappeti, mentre noi tre ci saremmo sdraiati davanti al fuoco non appena fosse stato acceso; parlando così, ancora completamente svegli, accendemmo dei fiammiferi e provammo ad attizzare la fiamma.
+
+Ma all’inizio, a causa del vento che soffiava, il fuoco non bruciava bene; il legno era umido e produceva fumo, che ci colpiva in faccia e riempiva la stanza. Il marinaio, cercando di proteggersi con il cappotto e di far entrare un po’ d’aria attraverso quel grande camino, disse che un camino fumante era davvero una cosa maledetta.
+
+“È la cosa peggiore del mondo,” disse il Poeta con irritazione; a cui il Marinaio rispose:
+
+“Sciocchezze! La morte è la cosa peggiore al mondo.”
+
+Ma Grizzlebeard, sdraiato sulla larga panca circondato da tappeti e con la testa appoggiata alla mano, negò anche questo, parlando con una voce profonda e piena di saggezza. “Nessuno di voi ha ragione,” disse. “La cosa peggiore al mondo è la perdita dell'affetto umano. Nessun uomo che abbia perso un amico deve temere la morte,” aggiunse.
+
+Il marinaio: “Tutto ciò è per me del tutto incomprensibile. Se c’è qualcuno che abbia fatto amicizia e poi li abbia persi, sono proprio io. Una volta ho perso un amico a Lima, ma poi si è riapparso a Valparaiso. E posso assicurarvi che il periodo intermedio non è stato affatto tragico.”
+
+Grizzlebeard (solennemente): “Parli con leggerezza, come se fossi più giovane di quanto non sia in realtà. Di ciò di cui sto parlando si tratta del graduale indebolirsi, e infine della rottura, dei legami umani. Si dice che nessun uomo possa vedere Dio e vivere. Ecco un altro detto, molto simile: nessun uomo può vivere da solo. Nessuno, nemmeno in vecchiaia.”
+
+Si fermò e fissò per un po’ il fuoco che si alzava. Fuori, il vento soffiava intorno alla casa; si potevano sentire i rami muoversi nell’oscurità.
+
+“Poi Grizzlebeard continuò…”
+
+“Quando l’[[concepts/friendship|amicizia]] scompare, rimane uno spazio vuoto che lascia entrare quella terribile solitudine esterna, simile al freddo dello spazio tra i pianeti. È un ambiente in cui gli uomini periscono completamente. L’abbandono assoluto è la morte dell’anima; e la fine della vita è rappresentata da un grande amore abbandonato.”
+
+Io stesso. “Ma quel luogo guarisce, Grizzled beard, ” Grizzled beard (ancora più solennemente): “Tutte le ferite guariscono in coloro che sono condannati a vivere, ma nel processo stesso di guarigione si induriscono e impediscono il rinnovamento. La cosa è finita.”
+
+Proseguì in modo monotono e grave. Disse: “Tutto ciò che esiste nell’attività della mente, tranne l’amore, è per sua natura un processo di crescita: attraversa fasi diverse – semina, germogliamento miracoloso, maturità, declino. Ma non è così per l’amore; infatti, la comprensione che una anima ha di un’altra è qualcosa che viene preso in prestito da ciò che esiste al di fuori del tempo: non è soggetto alle leggi del tempo. Quindi, se scompare, è irrecuperabile. Non cresce mai più; e lo perdiamo, proprio come si perde un diamante o la propria onore.” Io dissi: “Poiché parli di onore, Grizzlebeard, avrei dovuto pensare che la perdita dell’onore fosse peggiore della perdita degli amici.” Grizzlebeard rispose: “Oh no. Perché una cosa è una perdita reale, l’altra immaginaria. Inoltre, coloro che perdono l’onore hanno sempre la possibilità di morire. Ma chi perde l’amore negli occhi di qualcuno non ha alcuna via d’uscita: anche nella morte, quella perdita rimane irrisolta. E tra coloro che hanno cercato nel dolore della morte un sollievo ai propri problemi, non c’è nessuno (almeno per quanto ne ricordo) che abbia fatto ciò a causa della perdita del cuore di un essere umano.”
+
+Il Poeta: “Quando poco fa ho detto, con tanta rabbia, che ‘quello’ era la cosa peggiore al mondo, ero stupido. Avrei dovuto ricordarmi del mal di denti.”
+
+Il Marinaio (con impazienza e disprezzo): “Allora ti sbagli completamente, perché il mal di orecchio è molto più grave.”
+
+Il poeta. “Non ho mai avuto mal di orecchio”.
+
+Il Marinairo (ancora con disprezzo): “Me lo aspettavo! Se ne fossi capace, scriveresti versi migliori. È proprio la tua innocenza riguardo alle grandi emozioni a rendere i tuoi versi così terribili, nel senso più stretto di questa parola.”
+
+Grizzlebeard: “Voi due parlate proprio come bambini. La perdita dell’affetto umano è la cosa peggiore al mondo. Quando i nostri amici muoiono, ci lasciano, ma non per loro stessa volontà; o se lo fanno per loro stessa volontà, non è in contraddizione con la nostra; e anche se lo fanno contro la nostra volontà, a causa di un litigio, comunque si tratta di una cosa violenta, eppure ancora piena di affetto. Ma quella decadenza di ciò che è vivo nel cuore, quell’intorpidimento che segue, quell’indifferenza finale, oh! Non c’è alcuna malattia su questa terra infelice che possa paragonarsi a tanta sfortuna. E se poteste osservare il mondo da un’alta posizione, guardando dentro i cuori degli uomini, vedreste come quel “freddo” si insinui lentamente, ”
+
+Io stesso, “È una cosa che succede spesso, Grizzlebeard? Soprattutto agli anziani?” Grizzlebeard rispose: “No. Gli anziani ci sono abituati. Lo sanno, ma per loro non è nulla di particolare. Il problema emerge quando si avvicina la mezza età. Quando gli entusiasmi della giovinezza diventano noiosi o divergenti, e quando, tra le infinite opportunità che il tempo offre, nascono differenze tra amici. Allora appare il male. Gli anni iniziali di una vita di solito non portano a questo. Siamo così convinti della bontà dei nostri obiettivi, e così impegnati nella loro realizzazione, che se dobbiamo separarci lo facciamo senza esitazioni, ognuno convinto che l’altro abbia commesso un grave errore: uno crede che un criminale sia innocente, l’altro che un uomo innocente sia stato ingiustamente accusato di crimine. Uno ama la guerra, l’altro la considera ingiusta e la odia. O ancora, uno colpisce l’altro in faccia. Queste sono cose violente. Ma è quando la giovinezza è maturata, e iniziano i processi lenti della vita, che appare il pericolo. O meglio, la certezza di questo terribile fenomeno: il passaggio delle affetti. Il cuore si stabilizza, come le acque di un lago tra le colline; è pieno delle proprie convinzioni, sicuro nella propria filosofia. Non si adatta più ai cambiamenti dell’altro. E quindi, se non si mantiene una stretta comunione, l’affetto decade. Quando questa decadenza diventa totale, allora appare quella terribile visione di cui ho parlato. La cosa peggiore del mondo.”
+
+Il Poeta: “I grandi poeti, Grizzlebeard, non avrebbero mai ammesso una cosa del genere. Non hanno mai cantato né lamentato il passare dell’affetto umano; hanno cantato dell’amore che si trasforma in odio, della passione e della rabbia, della calma che segue la passione, dei dubbi dell’anima e del destino. E continuamente hanno parlato di morte, ma mai del male di cui parli tu.”
+
+Il Marinaio: “È perché il male stesso è troppo noioso. Devo ammetterlo! C’è niente di più noioso della perdita di un amico. È come scrivere una poesia sull’noia, o cantare una canzone su Welbeck Street. Tentare di poetizzare cose del genere è assurdo! Meglio rivolgersi a questo fuoco, che finalmente sta iniziando a divampare. Grazie a Dio! Concentrarsi su esso e aspettare l’alba.”
+
+Io stesso. “Tu Poeta e tu Marinai, entrambi vi sbagliate. L’argomento è stato affrontato, sebbene molto superficialmente, perché non riguarda l’arte. Si tratta soltanto di un accenno alla ritornata di Odisseo; il poeta Shakespeare ne ha scritto una canzone che sicuramente avete sentito. La cantano gentiluomini truccati con vernice e vestiti di stoffa verde: uno di loro è un Duca, quindi porta una piuma sul cappello. Si siedono sotto alberi dipinti anch’essi, bevono da calici di cartone completamente vuoti. Se ci fosse davvero vino dentro, sicuramente ne uscirebbe. E così, in queste circostanze assurde, cantano una canzone intitolata ‘Soffia, soffia, tu vento invernale’.” Inoltre, un altro poeta ha parlato di questa stessa cosa proprio in questa contea del Sussex, con queste due righe:
+
+“Le cose che amavo sono diventate tutte noiose…”
+
+“Le cose che mi amavano sono lontane o morte.”
+
+Barba Grigia. “‘Allontanamento’ è la parola giusta: stavo cercando proprio quella. L’allontanamento è la cosa più triste al mondo.”
+
+Il Marinaio. “Non riesco assolutamente a capirci nulla!”
+
+Il Poeta: “Hai mai perso un amico?” Il Marinaio: “Decine, come ti ho già detto. E quello che mi dispiace di più è stato un dottore che i proprietari ci hanno fatto viaggiare con noi fino al Capo di Buona Speranza e ritorno. Ma non l’ho mai lasciato influenzare il mio umore.”
+
+Grizzlebeard: “Il motivo per cui i grandi poeti hanno parlato così poco di questa cosa è proprio perché si tratta della cosa peggiore al mondo. Non incoraggia alcuna azione nobile, né stimola il pensiero profondo, e non migliora affatto l’animo umano. I veri poeti, che lo vogliano o no, sono costretti a cercare di migliorare l’animo delle persone; sono obbligati a occuparsi di cose nobili. Ma questa, non ha nulla di nobile in sé. Non possiede nemmeno il fascino del terrore o della tragedia per renderla più significativa; è semplicemente una fine, e una fine priva di qualsiasi conseguenza positiva. È una fine che non solleva domande né stimola la ricerca. È una fine senza avventura, completa, un nulla. E in questa situazione, l’arte non ha alcun ruolo nel tentativo umano di placare la fame eterna dell’anima.”
+
+E dopo questo triste discorso di suo, rimanemmo di nuovo in silenzio, sdraiati davanti al fuoco; il Marinaio aveva acceso la pipa e la fumava.
+
+“Allora mi ricordai di qualcosa che avevo letto una volta, e dissi…”
+
+Io stesso, “Una volta lessi in un libro di un uomo che attraversava una brughiera in una regione selvaggia, non lontano dal rumore del mare. Il vento e la pioggia lo colpivano con forza, faceva molto freddo; quindi fu felice di vedere, in lontananza, una luce nella brughiera. Si diresse verso di essa e, arrivato nel luogo indicato, scoprì che si trattava di una cappella dove circa venti o trenta persone stavano cantando. C’era un prete all’altare che celebrava la Messa a mezzanotte, e un monaco lo assisteva nella cerimonia. Il viaggiatore notò quanto fosse caldo e luminoso quel luogo: le finestre brillavano di colori vivaci, tutte le pietre erano scolpite con cura; l’altare era illuminato a giorno, e l’aria risuonava del canto. Ma non riusciva a vedere i volti delle persone presenti: sia il prete che il monaco avevano il viso girato dall’altra parte; tutti indossavano cappucci e tenevano il viso nascosto. Tuttavia il loro canto era forte e melodioso. Pensò di essere in un regno incantato. E infatti lo era. Alla fine della Messa, si addormentò avvolto nel calore e con la musica ancora nelle orecchie; al risveglio, scoprì che quel luogo non era altro che rovine: le finestre erano vuote, il vento soffiava forte. Nessun vetro. Solo alcune assi rotte, prive di colore. Foglie secche di alberi sparse sui gradini dell’altare. E sopra tutto, la luce pallida e debole dell’alba invernale, ”
+
+“Questa storia che ho letto raccontava che quell’uomo intraprese il suo [[motifs/journey|viaggio]] sotto quella luce nuova e triste di un alba invernale tempestosa, attraverso le brughiere di quella landa selvaggia. Eppure, nonostante avesse già fatto un viaggio simile il giorno prima, la sua mente era cambiata: nel breve intervallo tra i due viaggi aveva perso qualcosa di molto importante; per questo il mondo gli sembrava molto meno prezioso di quanto lo fosse stato il giorno precedente. Anche se non avesse sentito alcuna canzone né visto luci al tramonto, il viaggio sarebbe comunque risultato lo stesso. Questo cambiamento positivo, seguito poi da quella perdita, lo aveva completamente impoverito; ormai quel viaggio non significava più nulla per lui. Questa è la storia che ho letto. E credo che tu intenda dire qualcosa del genere.”
+
+“Sì, intendevo qualcosa del genere,” rispose Grizzlebeard sospirando. “Stavo pensando a quella luce che filtra attraverso il corno, e a come, quando quella luce si spegne, il corno diventi freddo e opaco. Stavo pensando a cose irrevocabili.”
+
+In quel momento, il Poeta, che credevamo stesse dormendo, si alzò in piedi.
+
+“Oh, lasciamo perdere queste questioni così scoraggianti,” disse, “e pensiamo piuttosto a ciò che è il meglio al mondo, invece di ciò che è il peggio. Infatti, in mezzo a questo bosco, dove tutto è felice tranne l’uomo, e dove la notte dovrebbe insegnarci la tranquillità, dovremmo imparare o scoprire ciò che è veramente il meglio al mondo.”
+
+“Non conosco alcun modo per farlo,” disse il Marinaiolo, “ma osservando le azioni degli uomini e vedendo a cosa si attaccano principalmente. Infatti, l’uomo conosce la propria natura, e ciò che cerca sicuramente deve rappresentare la sua soddisfazione. Giudicando da questo, ritengo che la cosa migliore al mondo sia fuggire a tutta velocità dalla persecuzione, continuare a correre fino a quando non ci mancano le forze, fino a quando non ci sentiamo storditi e sanguinanti. Alla fine, tutti cadremo, e quella cosa (qualunque essa sia) che ci insegue ci raggiungerà e consumerà i nostri corpi. Questo modo di vivere, penso, debba essere davvero il migliore al mondo, perché quasi tutti gli uomini scelgono di vivere così.”
+
+Io stesso. “Quello che dici, Marinai, sembra abbastanza logico, ma c’è un punto che mi lascia perplesso: perché, se la maggior parte degli uomini segue i propri desideri, alla fine finiscono tutti in condizioni così misere?”
+
+Il Marinaio: “Perché, questo non lo so dire. È affar loro. Ma certamente, osservando gli uomini, mi sembra che considerino la caccia la cosa migliore al mondo. Un uomo, infatti, che possiede abbastanza da poter (se ne avesse voglia) esplorare il mondo di Dio, mangiare ogni tipo di frutto e carne, bere la migliore birra, nonostante ciò inizia una “corsa” contro un Demone del Denaro: una flotta potente di Demoni del Denaro, spinti da una lancia. E quando questi Demoni del Denaro gli danno un vantaggio di cinque anni, diciamo fino a quando non ha quasi trent’anni, allora quell’uomo inizia a correre, a inseguire quel Demone del Denaro attraverso montagne e valli, campi e paludi, foreste e distese desolate, finché, alla fine (di solito intorno ai sessant’anni, o poco dopo), emette un grido terribile, alza le mani e cade a terra. E allora il Demone del Denaro viene a “digerirlo” completamente. Miliardi di persone amano questa strada da percorrere.”
+
+“E c’è anche quel tipo di ‘caccia’, in cui qualche desiderio o lussuria mette all’inseguimento l’uomo, lo spinge tra recinzioni, fossati, siepi e rovi, lo fa correre sopra ponti, attraverso boschi fitti e cespugli spinosi, finché non ha esaurito tutte le sue forze. Poi, dopo una breve pausa, l’inseguimento continua fino alla tomba. Quando l’uomo inseguito vede che la fine è vicina, di solito si ferma apposta, e quella cosa che lo ha perseguitato lo raggiunge e lo divora, proprio come aveva fatto la prima volta. Si vedono milioni di persone intraprendere questo percorso guidate da desideri lussuriosi. Alcuni addirittura cercano di combinarlo con quella ‘caccia’ al denaro. Ma si consiglia a tutti, fin da giovani, di scegliere con chiarezza quale di queste due strade intraprendere. La prima viene solitamente lodata e ritenuta degna; la seconda invece biasimata. Perché? Non lo so. I nostri anziani ci dicono: ‘Figliolo, scegli il “Diavolo del Denaro” e lascialo correre libero.’ Entrambe queste forme di “sport” mi sembrano estremamente miserevoli. Ma parlo solo per me stesso. Sono un eccentrico, nel modo in cui scelgo le mie feste e nella felicità che trovo nella mia vita quotidiana.”
+
+“Perché, per quanto mi riguarda, il mio piacere consiste proprio nel giocare con quella grande Lenta Tortuga a Tre Dita, che è l’inviata più amabile dell’inferno. Per tutta la mia vita ho giocato felicemente a farla ridere facendola inciampare e correndo davanti a lei; ora mi sdraio finché non mi raggiunge, poi mi allontano di nuovo finché non si avvicina di nuovo. A volte addirittura accelero un po’ per poter dormire ancora più a lungo alla fine, e così faccio divertire davvero quella povera Lenta Tortuga.”
+
+“Tuttavia, alla fine, il mio metodo è lo stesso di quello di tutti gli altri, e avrà lo stesso risultato.”
+
+“Perché quando vedrò la tomba lontana da me, allora indosserò le pantofole, mi preparerò una grande ciotola di vino caldo con noce moscata, riempirò la pipa e mi siederò in un grande divano davanti a un fuoco di quercia o faggio, che arde in un grande camino, con il suono del Mar Mediterraneo nelle orecchie.”
+
+“E mentre sono lì seduto, bevo il mio vino caldo, fumo la mia lunga pipa, guardo il fuoco e ricordo vecchie tempeste e naufragi lontani, sentirò il rumore prodotto da quel grande Lento, che perseguita tutta la mia vita. Colpirà la mia porta con il suo muso, ma sarò troppo pigro per chiuderla a chiave, e così entrerà. Allora quel Grande Lento a Tre Dita mi divorerà, e così finirà la mia esistenza. E avrò raggiunto la cosa migliore del mondo.”
+
+Io stesso. “Mentre parlavi, Sailor, mi è sembrato che avessi dimenticato una grande felicità, uno scopo virile e la realizzazione finale dello spirito immortale, ovvero, scavare buche e poi riempirle di nuovo.”
+
+Il marinaio: “Hai ragione! Me n’ero dimenticato. È davvero un passatempo ammirevole; per alcuni, forse per molti, è addirittura la cosa migliore al mondo!”
+
+Io stesso, “Sì, davvero: pensate solo a come beviamo di nuovo per sete, mangiamo di nuovo per fame, amiamo nonostante delusioni, e viaggiamo soltanto per tornare indietro. Pensate anche con quanta cura mettiamo in ordine i nostri capelli e la barba, che comunque ricresceranno inevitabilmente; come guadagniamo denaro per spenderlo; come indossiamo stivali neri prima di camminare nel fango, facciamo penitenza prima di peccare, dormiamo per poi svegliarci, e ci svegliamo per dormire di nuovo. E poi, con grande cura, abbottoniamo, fissiamo, legiamo i nostri vestiti complicati, solo per slacciarli, scioglierli e rimetterli in ordine migliaia di volte quando arriva mezzanotte. C’è anche il sporcare le cose soltanto per pulirle, la costruzione di case che poi vengono demolite, la guerra combattuta sia per essere sconfitti che per ottenere vittorie “vane”, i dipinti fatti per i ricchi ciechi, le canzoni cantate per i ricchi sordi. Tutto ciò viene fatto soltanto a beneficio degli altri, e i bambini nascono proprio per perpetuare tutto questo ciclo. Più ci penso, più mi rendo conto che scavare buche e poi riempirle di nuovo rappresenta davvero lo scopo finale dell’uomo e la sua vera felicità.”
+
+Il Poeta: “Penso che tu debba sbagliare.” Io: “Allora, dato che lo sai, qual è la cosa migliore al mondo?”
+
+Il Poeta: “È un miscuglio nel quale devono essere combinati e mescolati strettamente grandi quantità di denaro inaspettato, nuovi paesaggi e il ritorno di vecchi amori.”
+
+Il Marinaio: “Oh, ascoltatelo mentre racconta di quelle vecchie storie d’amore! Tutto arriva in processione, due per due, proprio come le vecchie ragazze di Midhurst che escono dalla chiesa una domenica mattina. Si direbbe che abbia ucciso cento persone con il solo suo sguardo!”
+
+Grizzlebeard: “Voi giovani parlate solo sciocchezze. La cosa migliore al mondo è dormire.” Detto questo, si sdraiò sul banco accanto al fuoco, si coprì con la coperta e non ci parlò più. Anche noi, dopo un po’, rannicchiati nei nostri cappotti davanti al calore del fuoco, ci addormentammo profondamente. Così trascorremmo le ore fino all’alba: ci svegliavamo nel freddo per aggiungere legna al fuoco, poi riprendevamo a dormire. Per tutta la notte il vento soffiava tra gli alberi.
+
+Il trentunesimo ottobre 1902
+
+La mattina seguente mi svegliai al suono, un suono piacevole: quello dell’acqua che bolliva in una pentola. Che Dio benedica quel suono e lo renda il suono più sacro del mondo. È il suono che i bambini sentono alla nascita e gli anziani ascoltano mentre muoiono nel loro letto; è il suono delle nostre case per tutta la nostra vita. In tutto il mondo, ovunque ci siano camini, quel ronfare, quel canto, quel mormorio, quel “dialogo” tra l’acqua calda e il nostro grande alleato: il fuoco, è il simbolo del [**focolare domestico**].
+
+“Così pensai”, mentre ero semiaddormentato su quella dura e asciutta terra del pavimento. Tuttavia, quando mi svegliai, la mia mente, ancora non tornata nel Sussex, credeva che stessi dormendo in un campo aperto; intorno a me c’erano compagni del reggimento, e le braci che riscaldavano i miei piedi erano il fuoco di un bivacco. Allora mi alzai, completamente sveglio e indolenzito dopo quella “notte” trascorsa a terra, e vidi il marinaio accovacciato sopra le fiamme di due robuste tronchi su cui aveva messo una pentola e dell’acqua prelevata da una sorgente. Aveva anche con sé un pacchetto di tè e dello zucchero, un pane e un po’ di latte.
+
+Grizzlebeard, rigido e immobile sulla panca, con la testa appoggiata senza sostegno, la bocca aperta e respirando appena, sembrava un uomo morto. Quanto al Poeta, era rannicchiato come chi avesse raccolto l’ultima traccia di calore disponibile; dormiva ancora profondamente, addossato all’angolo più lontano del fuoco.
+
+Scossi il mantello e mi alzai in piedi.
+
+“Marinaio,” dissi, “da quanto tempo sei sveglio?”
+
+“A cui il marinaio rispose:”
+
+Da quando sono nato… sfortuna continua! Non riesco mai a dormire.
+
+“Dove hai preso tutte queste cose?”, dissi, “quel tè, quel latte, quegli zuccheri e quel pane?”
+
+Mentre lo dicevo, sbadigliai e poi allungai le mani, intorpidite dal sonno, verso la luce che iniziava a diffondersi nel fuoco. Il Marinaio era ancora accovacciato vicino alla pentola e mi rispose lentamente e con attenzione:
+
+“Dovete sapere che vicino a questa casa vive un Troll. Molti anni fa, quando era giovane, fu incantato dall’amore di una Fata in quella brughiera chiamata ‘Oltre-il-mondo’. La portò [[motifs/home|a casa]] per farne sua moglie e ora vive qui vicino, in una capanna che non appartiene a questo mondo. In un certo senso, è il mio padrone di casa: è stato lui a darmi questo tè, questo latte, questo zucchero e questo pane. Ma non servirà chiedere dove si trovi, perché nessuno può trovare quella loro dimora magica tranne me.”
+
+“È stata una bugia davvero lunga da raccontare,” dissi, “perché di certo non mi sarei preso la briga di scoprire da dove provenissero quelle cose, se non per poterle liberare.”
+
+“Hai ragione,” disse il Marinaio, “e anch’io li ho ottenuti gratuitamente.”
+
+E dopo aver detto questo, rovesciò il pacchetto di tè, lo zucchero e il latte direttamente nella pentola, tanto che gridai allarmata.
+
+“Che stai facendo?”
+
+“Ma mi disse, mentre toglieva la pentola dal fuoco…”
+
+“Ecco come veniva preparato il tè dei troll dalla cameriera maggiore in quella brughiera chiamata Oltre-il-Mondo. Ci sono stato io, quindi lo so.”
+
+E con quello diede un forte calcio al Poeta, che si alzò di scatto dal mucchio di vestiti in cui era seduto, sembrò confuso per un momento, poi capì dove si trovava e disse: “Oh!”
+
+“Non rima…”, disse il Marinaio, “ma ti offrirò del tè.”
+
+Versò il tè dalla teiera nella tazza comune che portavamo con noi, e poi con il suo coltello da cucina tagliò un pezzo di pane.
+
+La nostra conversazione aveva svegliato Grizzlebeard. Quell’uomo anziano si alzò a fatica dal letto, come se rivedere il giorno non fosse affatto una cosa piacevole per lui. Si sedette sul banco, e per lui, che era un uomo d’onore, prima gli fu versato il tè nella sua tazza d’argento, poi gli venne consegnata la fetta di pane successiva. Dopo aver mangiato e bevuto anch’io, lo fece anche il Marinaio; una volta terminato tutto ciò, lui ed io sistemammo in ordine la capanna. Ripiegammo le coperte e sistemammo i tronchi non bruciati; versammo via l’acqua dal bollitore e bevemmo il latte, poi posizionammo il pane nell’angolo riscaldato dal camino. Dopo aver detto addio a quel luogo sconosciuto, ce ne andammo, senza più avere nulla da dirgli. Ma il motivo per cui dovevamo sistemare tutto in quel modo era (mi disse il Marinaio) che, se avessimo infastidito il Troll, forse non ci avrebbe mai più permesso di dormire lì.
+
+“Sei un compagno meraviglioso, Marinai!” dissi io.
+
+“Forse per gli altri sì,” disse lui, chiudendo la porta e mettendosi la chiave in tasca, “ma non per me. Eppure è l’unica cosa che conta davvero!”
+
+A quel punto eravamo tutti di nuovo sul sentiero nel bosco, svoltando da una parte e dall’altra seguendo le indicazioni del Marinaio. A volte attraversavamo vaste distanze senza deviare mai dal percorso, e una volta anche la strada principale. Ma noi proseguimmo dritti lungo di essa, passando accanto a molte cartelli che avvertivano che chiunque venisse trovato in questi boschi sarebbe stato imprigionato; altri cartelli minacciavano che coloro che non fossero ricchi e si aggirassero lì potessero essere uccisi dalle macchine. Tuttavia il Marinaio procedeva con agilità, dirigendosi verso ovest attraverso tutto ciò che ci trovavamo davanti, in modo così astuto che anche io, che conosco bene la mia contea, finii per confondermi. Non riuscivo a capire in quale parte del bosco ci trovassimo fino a quando non arrivammo in una radura attraversata da un ruscello; allora capii che quel ruscello era il corso superiore del fiume Mole, e che eravamo a Tilgate. Allora dissi ai miei compagni: “Ora il bosco profuma di, ” [continua con la parola che rappresenta “casa” nella tua lingua].
+
+Ma Grizzlebeard disse che, considerando com'era il mondo al di fuori della Contea, tutta la Contea era [[motifs/home|>casa]]. E il Poeta disse che qui nella foresta c'erano elementi che lo riportavano a casa, e altri invece gli erano estranei e non possedevano lo spirito della nostra terra.
+
+Ma il Marinai non disse nulla; ci guidò semplicemente lungo sentieri nascosti, in modo che i servitori dei ricchi non potessero farci del male. Poi ci portò in una radura aperta, e lì ci sedemmo per riposare un attimo, respirando l’aria fresca della mattina.
+
+La mattina non era come la notte precedente, piena di vento e nuvole veloci; era invece la mattina dopo una tempesta. Su queste alte colline, tra gli alberi che si ergevano intorno, l’aria sembrava portare un messaggio di vita dal mare. Ma era un’aria ferma, immobile; non seguiva più il corso della tempesta, arrivava invece in modo stabile. Il cielo sopra di noi non era coperto da nuvole, e non c’era alcun segno di movimento; era solo di un pallido blu invernale. C’era brina ovunque, anche se eravamo ancora all’inizio dell’anno e l’inverno sembrava lontano. Ma quell’anno le foglie erano cadute presto, e la foresta appariva già desolata.
+
+Dopo esserci riposati per un momento in questa radura, seguimmo di nuovo il Marinai lungo un sentiero che presto abbandonò, guidandoci con cura attraverso una fitta boscaglia incontaminata, fino a quando non arrivammo a un recinto; al di là di esso si trovava la grande strada principale e Pease Pottage era proprio lì vicino.
+
+“Vi ho guidati attraverso questo bosco,” disse il Marinaiolo, “e ora potete prendere la strada che volete.”
+
+Io stesso. “Ora, davvero, conosco ogni singolo tratto di questo percorso; vi porterò verso la nostra terra natale. Ma lo farò a mio modo, perché conosco i luoghi migliori, le terre più tranquille, e un tetto sotto il quale potremo dormire liberamente alla sera. Dovrete seguirmi.”
+
+“Lo sai tutto questo?” mi chiese incuriosito Grizzlebeard, “allora puoi dirmi perché tutti questi boschi vengono chiamati Foresta di San Leonardo?”
+
+“Me stesso… Certo; si chiamano Foresta di San Leonardo in onore di San Leonardo.”
+
+Il poeta. “Sei davvero così sicuro?”
+
+Io stesso. “Senza dubbio! Poiché è certo che San Leonardo visse qui e possedeva un piccolo eremo ai tempi in cui i poveri potevano andare dove volevano. E questo eremo si trovava nel luogo a cui vi porterò tra poco, da dove è possibile pregare contemporaneamente sia per la nostra Contea che per Dio che l’ha creata.”
+
+Detto questo, li portai lungo la strada secondaria che inizia da Pease Pottage (e in quei tempi c’era ancora quella vecchia locanda lì), ma prima di partire chiesi loro uno per uno se avessero qualche maledizione che gli impedisse di bere birra al mattino.
+
+Tutti e tre negarono categoricamente; così entrammo nella “Swan” – che all’epoca, ripeto, era quella vecchia locanda – e bevemmo birra, proprio come faceva lo stesso San Leonardo, verso le nove o le dieci di una mattina autunnale. Lui era nato in queste zone e non aveva mai lasciato la contea, se non una volta per andare in Germania, dove cercò di convertire i pagani del luogo; al suo ritorno disse che, se Dio lo avesse voluto, avrebbe preferito andare all’inferno pur di convertire i demoni. Comunque, era stanco di viaggiare e così stabilì il proprio eremo nel luogo in cui ora stavo conducendo i miei compagni.
+
+Dopo aver percorso circa un miglio lungo la strada, capii che eravamo arrivati in quel luogo dove il bosco a sinistra terminava bruscamente su quella altura, e all’improvviso sotto i nostri piedi si apriva tutto il panorama della contea.
+
+Lì, a un giorno di marcia a sud, si estendeva la catena dei Downs.
+
+Nessun esiliato che li avesse visti tornare dopo molti anni, seguendo quel percorso da Londra verso il mare, affamati di [[motifs/home|>casa]], fu colpito o commosso in modo più improvviso da quella visione delle loro colline di quanto lo fossimo noi quattro uomini quella mattina; per un momento fui il loro leader, perché quel luogo era qualcosa che avevo sempre amato fin da quando ero ragazzo.
+
+“Guarda,” dissi a Grizzlebeard, “quanto sia vero che proprio in questo luogo un uomo potrebbe stabilirsi per adorare tutto ciò che vede, e soprattutto Dio che deve averlo creato.”
+
+“Hai ragione,” disse Grizzlebeard; “vedo davanti a me la Foresta trasformata in un giardino in disordine, Wolstonbury sopra New Timber, e Highden e Rackham più lontano” (poiché questi sono i nomi di quelle alte colline), “e in lontananza, verso ovest, sotto Duncton, vedo quello che penso sia il Giardino dell’Eden, verso cui siamo diretti. E seduto al centro, incoronato, vedo Chanctonbury. Un uomo morente, credo, se è di Ashurst, di Thakeham o delle pinete vicino alle rocce, se per qualche sfortuna muore lontano da casa, se ne ricorderà sempre, così nitidamente posizionato a sud, ”
+
+“Dimmi,” disse il Marinaiolo, “puoi indicarci qui il luogo in cui San Leonardo costruì la sua eremita?”
+
+“Certamente,” dissi, e loro si radunarono intorno a me.
+
+“Ecco,” dissi, “qui si trovava la cella” (disegnando un cerchio con il mio bastone sul terreno), “e qui” (spostandomi di una o due iarde) “si trovava il suo narthex o carfax, come alcuni lo chiamano; e qui a destra” (mi spostai all’indietro e tracciai con il bastone un segno sulla sabbia) “si trovava il bibulatium. Ma tutte le rovine di questo monumento sono scomparse a causa dell’estrazione di materiale da costruzione e degli effetti del tempo; rimangono soltanto tracce che solo gli esperti riescono a riconoscere, e io ne faccio parte.”
+
+Allora, volendo non dar loro il tempo di discutere, li portai giù attraverso la Piana di Shelley; dopo aver percorso circa un miglio, dissi:
+
+“Non è forse il fiume verso cui ci stiamo dirigendo proprio il fiume Arun?”
+
+Il Poeta. “Sì, certo… Se non fosse stato così, non mi sarei mai unito a voi.”
+
+Il Marinaio: “Certo, siamo diretti ad Arun; un luogo dove, chi vi si bagna, dimentica tutto ciò che gli è accaduto dopo i diciotto anni, o forse anche dopo i ventisette.”
+
+“Sì,” disse Grizzlebeard con maggiore serietà, “siamo diretti al fiume Arun, che è vecchio quanto è giovane, e lì speriamo di ritrovare la nostra giovinezza e di riscoprire le cose che un tempo conoscevamo.”
+
+“Allora,” dissi, “lasciate che vi prenda in giro, che vi copra di delusione, che profani i vostri templi e che deluda la vostra pellegrinazione! Quel ruscello d’acqua laggiù a sinistra nella valle, e quel lungo lago che vedete con un bosco solitario su entrambe le rive, è il luogo dove sorge Arun.”
+
+Grizzlebeard: “Per me non è nulla; non sono venuto a vedere il piccolo Arun, ma Arun nella sua maestosità, un re, unito al mare.” Il Marinaio: “Per quanto mi riguarda, sono felice di aver assistito alla nascita di Arun. Prospera, amato fiume! È affar tuo (non mio) decidere se percorrere tanti sentieri incerti verso la maturità e il mare.”
+
+Il Poeta: “C’è sempre un certo senso di sacralità nel corso dei fiumi, e un profondo legame con le loro sorgenti.”
+
+A quel punto eravamo arrivati ai piedi del lago, dove una diga trattiene l’acqua e la strada attraversa un grande sbarramento. Mentre lo superavamo, osservammo il salto della cascata; poi, dopo aver attraversato quel piccolo fiume, proseguimmo lungo le terre desolate fino a raggiungere un luogo chiamato Lower Beeding, che significa “il punto più basso dove si può pregare”, e che si trova proprio sulla cima di una collina. Proprio come Upper Beeding è situato nel punto più basso dell’intero Contea di Sussex, direttamente sopra le lontane paludi di Adur, che, per così dire, confinano con il mare.
+
+Poiché quando Adamo, con l’aiuto di Eva, iniziò a dare nomi a tutti i luoghi della terra (e per questo dovette vivere così a lungo), desiderava distinguere Sussex, il suo felice rifugio, con un segno particolare che lo facesse emergere tra tutti gli altri luoghi della terra, suoi inferiori e vassalli. Così, quando il Paradiso fosse stato riconquistato e alla generazione perduta di uomini fosse permesso di attraversare la Spada Infuocata presso Shiremark Mill, e di vedere nuovamente i quattro fiumi: Arun, Adur, Cuckmere e Ouse, avrebbero potuto riconoscere il loro luogo d’origine e identificarlo come il Paradiso. E il modo migliore, pensò Adamo, per designare con nomi questo prezioso luogo speciale, questo Eden che oggi è ancora Sussex, era scegliere nomi che potessero confondere anche i più semplici. Così stabilì che tutto ciò che in Sussex era alto dovesse essere chiamato basso, e viceversa; che una collina dovesse essere definita pianura, un argine fossato, la Foresta del Nord a sud delle Downs, la Collina di Nore a sud della foresta, e Southwater a nord di tutto il resto. Inoltre, nessuno nella contea doveva pronunciare la lettera “th”.
+
+“Ph”, o “sh”, ma sempre “h” separatamente, altrimenti si incorre nella dannazione eterna. Inoltre, le ultime lettere di quei nomi devono essere pesate, al contrario della consuetudine di tutta l’Inghilterra.
+
+Ecco dunque cosa significano i nostri nomi: qualsiasi uomo può verificarlo da solo osservando Bos-ham, Felp-ham, Hors-ham, Arding-ly, e quella piazza chiamata “Roundabout”. O anche il Broadbridge, che è così stretto che due carri non possono passarvi fianco a fianco. Dio sa che siamo una sola terra!
+
+Noi quattro eravamo passati di lì; affamati e camminando con passo veloce, poiché era in discesa, avevamo attraversato l’aria fresca e pura di quella bella giornata, scendendo dalla collina oltre Leonard’s Lee. Mentre raccontavo ai miei compagni come avremmo potuto mangiare e bere al Crabtree o a Little Cowfold, il marinaio all’improvviso iniziò a cantare in modo così forte e gioioso che, in un posto più civile di quello, sarebbe sicuramente finito in prigione. Ma il motivo della sua canzone era davvero valido: appena usciti dalla zona boscosa della strada, avevamo incontrato quell’apertura da cui, sebbene da un’altezza inferiore, si poteva di nuovo ammirare l’immensità della foresta e la maestosità delle colline che incantano lo sguardo umano. Cantò quella canzone, ancora tipica di questa terra, per tutta la sua lunghezza; noi, che l’avevamo sentita ciascuno nel proprio luogo, iniziammo prima a ripetere il ritornello con lui, poi lo ampliammo tutti insieme con voci diverse. Lui cominciò.
+
+I
+
+"Nei colli del Sussex dove sono cresciuto..."
+
+Quando i marciapiedi diventano rossi con la pioggia autunnale
+
+Quando Arun cade nel suo letto
+
+Forti raffiche di vento passano veloci…
+
+Quando i rami sono spogli a Burton Glen
+
+E così, Bury Hill diventa sempre più bianca…
+
+Bevo birra forte in compagnia di gentiluomini;
+
+Nessuno può negarlo.
+
+Negare, negare, negare, negare…
+
+Qualcosa che nessuno può negare!
+
+II
+
+"A metà di novembre me ne vado,"
+
+Premere il viso contro la neve
+
+E osserva i venti, ovunque soffino…
+
+Perché il mio cuore è pieno di speranza
+
+Fino a quando non mi stabilirò a Steyning per cantare
+
+Di quelle donne che ho incontrato nel mio vagabondare
+
+E queste sono tutte le cose che intendo fare in primavera.
+
+Nessuno può negarlo.
+
+Negare, negare, negare, negare…
+
+Qualcosa che nessuno può negare!
+
+III
+
+"#Tempi duri e clima ostile..."
+
+Strade oscure e destino avverso
+
+Titolo:  
+Siamo gente robusta del Sud…
+
+“Che non possa mai aver abbastanza birra buona…”
+
+E facciano cantare questo ritornello con tutte le loro forze!
+
+Da Crowboro’ Top fino a Ditchling Down
+
+Da Hurstpierpoint ad Arundel Town
+
+Le ragazze sono paffute e la birra è marrone…
+
+Nessuno può negarlo.
+
+Negare, negare, negare, negare!
+
+“Se lo fa, sta mentendo!”
+
+Quando tutti ebbero finito di cantare e ci trovammo vicino al Crabtree, il Marinaio disse:
+
+“Ora, non era forse una bella canzone?”
+
+“Sì,” dissi, “e si abbina perfettamente a questa mattina, a quest’aria, e a quella vasta vista delle terre più basse che ora si estende davanti a noi.”
+
+Mentre parlavo, eravamo già arrivati a quel piccolo ripiano su cui si trova il Crabtree; da lì si potevano vedere le colline che si estendevano davanti a noi, Bramber Gap, e nella sua conca il tetto alto di Lancing; più in lontananza, poi, Arundel Gap e le colline e i boschi della nostra [[motifs/home|>casa]]. Era certamente nella terra sotto di noi, lungo la regione del Weald che avevamo davanti agli occhi, che molti anni fa un giovane doveva aver scritto questa canzone.
+
+Grizzlebeard: "In quali luoghi, secondo te, si può cantare?"
+
+Me stesso… “In qualsiasi luogo possa esserci.”
+
+Il Marinaio: “Ad esempio, al tavolo di qualche ricco usuraio che quella sera ha invitati alcuni amici a cena, con i quali discuterà di affari di stato. E vi ha chiesto di partecipare solo perché un tempo eravate intimo del nipote maggiore di lui. A mio parere, questa sarebbe un'ottima occasione per cantare ‘Golier!’”
+
+Il Poeta: “Sì, o ancora, quando si arriva (si stessi piccoli e sconosciuti) alla casa di una ricca padrona di casa da cui ci si aspetta un avanzamento. Fu in un posto del genere e in un momento del genere che Charlie Ribston, ora in prigione, compose per la prima volta la sua canzone ‘The Wowly Wows’, con quel ritornello così allegra.”
+
+Grizzlebeard: “Il motivo per cui ti ho chiesto dove potessi cantare è che pensavo fosse ormai impossibile farlo in qualsiasi luogo, intendo, in questo regno e in questi tempi terribili. Non esiste forse una legge, e non è essa in vigore, secondo cui chiunque canti in pubblico, se viene sentito dalla polizia, deve essere certificato da due medici, imprigionato, marchiato a fuoco, gli vengono prese le impronte del pollice, i capelli rasati, gli viene cavata un occhio, tutte le sue finanze vengono esaminate minuziosamente, e, in proporzione al “logaritmo” del suo reddito, gli viene imposta una tassa elevatissima? E dopo tutto questo, non è obbligato a presentarsi ogni mese davanti a un comitato locale, con la moglie del parroco presente, e anche davanti a politici e altre autorità che ritengano opportuno, in nome della maestà di Nostro Signore il Re, della sua corona e dignità? Mi pare di aver già sentito parlare di qualcosa del genere, ”
+
+“Sì, hai perfettamente ragione,” dissi; “ma quando un uomo si reca in luoghi solitari, che sembrano isole separate da questo mare di tirannia – come ad esempio questa strada vicino a Leonard’s Lee – perché allora non possa ancora cantare?” Il marinaio rispose: “Sì, e anche in una locanda.”
+
+“In alcune locande”, dissi, “sotto determinate condizioni e in momenti specifici”.
+
+Grizzlebeard: “Molto bene, durante questa nostra marcia sceglieremo le locande e i momenti più adatti. E questa è una di quelle?” aggiunse, indicando il Crabtree.
+
+“Né fuori, né a quest’ora”, risposi con cautela.
+
+“Tuttavia,” disse il Poeta, “mangeremo lo stesso.” Così ci sedemmo fuori, sui banchi del Crabtree Inn, e mangiammo pane e formaggio.
+
+Ora che avevamo finito di mangiare il nostro pane e formaggio in quell’aria fredda e immobile, ammirando la meravigliosa vista sotto di noi, e dopo aver bevuto ancora dell’ale e anche di un vino chiamato Jubilee (poiché l’anno del Giubileo, al momento di questo viaggio, era passato da non più di cinque anni), il Marinaio disse con un tono quasi provocatorio:
+
+“Stavi dicendo, credo, che oggi un uomo possa cantare solo in certi luoghi solitari, come lungo quel filare di siepi che costeggia la strada di Leonard’s Lee. E quando Grizzlebeard ha chiesto se si potesse cantare anche fuori dal Crabtree, hai detto di no. Ma farò l’esperimento; e, a titolo di compromesso, affinché nessuno rimanga scioccato, la mia canzone sarà di natura religiosa, riguardante le grandi verità. Forse questo potrà addolcire i cuori dei persecutori, se davvero hanno l’ordine, come dici tu, di perseguitare le persone per una cosa così semplice come una canzone.”
+
+Grizzlebeard: “Se la tua canzone è dedicata alle divinità, non dovrebbe essere cantata in compagnia di birra o vino, né adatta all’atmosfera di una taverna.”
+
+Il Marinai: “Non essere così sicuro. Aspetta di averla ascoltata. Questa canzone che propongo di cantare è di quel genere che richiede un canto forte e potente, ma non per questo tratta di argomenti banali; anzi, riguarda questioni fondamentali dell’esistenza umana. E devi sapere che ha più di mille anni di storia. Non può essere cantata correttamente se il semichoro (che indicherò alzando le mani) non viene intonato tutti insieme ad alta voce, né se il ritornello non viene gridato con tutte le vostre forze. Fino a quando le finestre non tremano e la gente non si sveglia. Questa è proprio la natura di questa canzone.”
+
+Dopo aver detto tutto ciò, il Marinairo, appoggiandosi allo schienale, iniziò a cantare con grande fervore e decisione questa CANZONE DELL’ERESIA PELAGIANA, al fine di rafforzare la determinazione delle persone e di respingere decisamente dottrine dubbiose e opinioni intellettuali incerte.
+
+Pelagio visse a Kardanoel
+
+Insegnò una dottrina laggiù
+
+Che tu andassi in Cielo o all’Inferno, era una questione che riguardava solo te.
+
+Come, se tu abbia trovato la gioia eterna
+
+O affondò per sempre per bruciare…
+
+Non aveva nulla a che fare con la Chiesa, ragazzo mio…
+
+Ma era una tua preoccupazione personale.
+
+Grizzlebeard: “Questa canzone è blasfema.” Il Marinaiolo: “Assolutamente no, anzi, è del tutto ortodossa. Ma ora vi prego di non interrompere, perché questo è il semichoro.”
+
+[Semichorus.]
+
+“Oh, non ci credeva.”
+
+"In Adam e Eva"
+
+Non ci credeva affatto!
+
+I suoi dubbi iniziarono
+
+Con la caduta dell’uomo…
+
+E rideva dell’peccato originale!
+
+In questo semichorus ci unimmo tutti, seguendo il ritmo che lui impostava; poi il Marinai, esortandoci a mettere tutta la nostra virilità nella performance, iniziò a cantare il chorus stesso, che era sia potente che semplice.
+
+[Coro.]
+
+Con il mio remo-ti-tiro, ti-o-dio-ay…
+
+Rise dell’peccato originale!
+
+Quando arrivammo a questo punto, che rappresentava la fine del primo verso e definiva chiaramente l’argomento in discussione, il rumore assai fragoroso prodotto da tutto ciò attirò fuori dalle loro tane diversi abitanti dei dintorni, i quali ascoltarono attentamente, in attesa di vedere cosa sarebbe successo. Ma il Marinario, del tutto senza imbarazzo, continuò procedendo con il secondo verso.
+
+Dove il vescovo di Auxerre d’antica memoria…
+
+Germanus era il suo nome
+
+Si strappò grosse manciate di capelli.
+
+Pelagio la vergogna
+
+E poi, con il suo robusto bastone episcopale…
+
+Schiantato e distrutto completamente
+
+Gli eretici, tutti quanti, grandi e piccoli…
+
+Avrebbero preferito essere impiccati.
+
+[Semichorus.]
+
+Oh, li colpiva con forza, e li sbatteva a lungo, in ogni occasione possibile.
+
+Fino a quando non gridarono tutti insieme, ad alta voce e con forza, le loro convinzioni ortodosse!
+
+Coro
+
+Con il mio remo-ti-tiro, ti-o-dio-ay…
+
+Le loro convinzioni ortodosse.
+
+Alla fine di questo secondo verso, la folla era aumentata; molti di loro avevano lasciato aperta la bocca, non avendo mai sentito prima una canzone del genere. Ma il Marinai, guardandoli con gentilezza e annuendo, come per dire “Capirete tutto tra un attimo”, iniziò il terzo verso con ancora più entusiasmo, cantando: —
+
+Ora la fede è vecchia e il diavolo è audace.
+
+Estremamente audace davvero;
+
+E le miriadi di dubbi che aleggiano nell’aria…
+
+Sopprimerebbe qualsiasi credo umano.
+
+Ma noi che siamo nella piena forza della giovinezza…
+
+E ancora può bere birra forte…
+
+“Oh… consideriamolo una verità inconfutabile.”
+
+Che sempre dovrà prevalere!
+
+Semi-coro
+
+E ringraziate il Signore.
+
+Per la spada del tempo
+
+E anche gli eretici che urlano…
+
+E qualsiasi altra cosa buona…
+
+Il nostro cristianesimo porta…
+
+Ma soprattutto la birra alla orzo!
+
+[Coro.]
+
+Con il mio remo-ti-tiro, ti-o-dio-ay…
+
+Soprattutto la birra prodotta con orzo!
+
+Quando finimmo questo ultimo ritornello a un volume più alto rispetto agli altri, si potrebbe dire che metà degli abitanti di quella collina fossero radunati intorno a noi. Ma il Marinaio, alzandosi rapidamente e lasciando del denaro sul tavolo per pagare la nostra tariffa, e anche qualcosa in più, ci invitò tutti ad alzarci insieme a lui, cosa che facemmo. Poi si rivolse così all’assemblea:
+
+“Buoni cittadini! Spero che abbiate chiaramente udito ogni parola di ciò che vi abbiamo appena comunicato, poiché si tratta di affari governativi; siamo stati inviati a trasmetterveli esattamente come li abbiamo ricevuti dal Gabinetto, di cui siamo emissari. Per vostro conforto, aggiungo che questo stesso governo del nostro Signore il Re, sempre premuroso del benessere delle persone più povere, ci ha fornito i fondi necessari per rifornire tutti i cittadini del Sussex lungo il nostro viaggio. Per questo motivo ho lasciato qui sul tavolo, a nome dei suddetti onorabili funzionari, una somma di cinque scellini: con essa potrete ordinare birra in quantità illimitata. Addio dunque. Ma vi è severamente vietato seguirci o disturbarci in alcun modo, altrimenti offendreste quei buoni ministri che vegliano tutta la notte per il bene del popolo e al servizio di nostro Signore il Re. Ascoltate! Il Re lo vuole!”
+
+Dopo aver detto questo, ci fece segno di seguirlo; mentre camminavamo lungo la strada, sentimmo tutti loro esultare ad alta voce, perché pensavano che fosse arrivato il momento di cui parla il profeta Abacuc: “Quando i poveri saranno saziati e i ricchi gioiranno”. Una cosa che non era mai accaduta fin dall’inizio del mondo.
+
+Mentre percorrevamo la strada che finalmente conduceva a Little Cowfold, Grizzlebeard, pensando a quella canzone, disse:
+
+“Non riesco a credere, Sailor, che la tua canzone sia né vecchia né vera; perché non esiste alcun posto chiamato Kardanoel, e Pelagio non vi ha mai vissuto; inoltre, le sue dottrine erano molto diverse da quelle che tu descrivi, e il beato Germano non avrebbe mai fatto del male nemmeno a una mosca. Come prova di ciò, c’è quella battaglia a Flint, dove infastidì soprattutto gli scozzesi parlando ebraico ad alta voce, anche se conosceva soltanto una parola di quella lingua. Inoltre, quello che dici sull’ale non corrisponde affatto alle dottrine ecclesiastiche, e ringraziare il Signore per l’eresia non è certo una pratica giusta.”
+
+Il Marinai: “Qualsiasi cosa desideriate! Ma ogni chiesa deve avere le proprie usanze, entro limiti ragionevoli. Questa canzone, o meglio questo inno, appartiene al Breviario ed è utilizzato molto correttamente nella diocesi di Telemo in alcune feste. In particolare durante la festa dei Santi Como e Hilario: questi, non avendo altro da fare, sarebbero stati crudelmente martirizzati per la fede, se solo, come è degno di cristiani, non avessero a loro volta martirizzato e ucciso i propri persecutori. Si tratta di un testo legato alla “chiesa militante”; viene attribuito a Dun Scotus, ma molto probabilmente ha origini tradizionali. Potete confrontarlo con l’“Inno all’Asino”: tutti i veri cristiani dovrebbero conoscerlo.”
+
+Grizzlebeard: “Tuttavia, dubito che sia finalizzato al rafforzamento delle anime. Piuttosto sembra una sorta di volgarità, più adatta alla Montagna dei Martiri – che forse conoscete – che al sacro Sussex.”
+
+Quando arrivammo a Little Cowfold, il che avvenne molto presto, erano già passate le tre del pomeriggio; quindi, in quel clima così precoce (più invernale che autunnale), l’aria aveva un’atmosfera tipica della sera. Guardando la chiesa lì presente e ammirandola, discutemmo se dovessimo fermarci un po’ in quel luogo per litigare con qualcuno, oppure, in mancanza di questo, cantare un’altra canzone, o ancora, in assenza anche di queste attività, bere in silenzio. Infatti Virgilio dice: “Propria quae Cowfold Carmen Cervisia Ludus.”
+
+Ma poiché era così tardi, pensammo di non fare nulla di tutto ciò e invece prendemmo la strada per Henfield per avvicinarci alle colline, anche se nessuno di noi sapeva esattamente quanto distanza dovessimo percorrere quella notte. L’unica cosa su cui eravamo d’accordo era che il giorno dopo, che sarebbe stato All-Hallows, dovevamo raggiungere il fiume Arun e la parte occidentale della contea, insieme a tutte le altre cose che conoscevamo.
+
+Quindi proseguimmo verso sud, diretti a Henfield; mentre viaggiavamo, Grizzlebeard, che camminava con passo deciso, ci ricordò che era Halloween. In questa notte, più di tutte le altre dell’anno, c’è un grande movimento e attività tra quelle cose che gli uomini non possono vedere; si diffondono voci in tutti i boschi. Molto tardi, quando gli uomini dormono, tutte quelle creature che altrimenti non potrebbero uscire dalla terra vengono fuori per festeggiare. La maggior parte di queste piccole creature buone danza questa notte nei prati e tra i cespugli, si muovono avanti e indietro lungo le rive del fiume, formando cerchi tenendosi per mano sui pascoli pianeggianti, sulle praterie allagate e sulle brughiere vicino al mare. È proprio questa loro danza che lascia tracce sull’erba di un verde più intenso, e disegna su i campi quei cerchi e quelle forme che convincono gli increduli.
+
+Il Poeta disse di aver visto le Piccole Persone, ma sapevamo che ciò che aveva detto era falso.
+
+Grizzlebeard disse che, anche se non li aveva mai visti, credeva in loro; e che per questo i Piccoli Esseri lo avevano benedetto per tutta la sua vita. Ed era proprio per questo (ci spiegò) che era così ricco: perché, anche se suo padre gli aveva lasciato molte cose, i Piccoli Esseri ne avevano aumentato la quantità, poiché lui non aveva mai dubitato di loro né desiderato loro del male.
+
+Il Marinaiere: “Allora sei stato fortunato! È ben noto infatti che coloro che incontrano i Piccoli Esseri mentre danzano in cerchio vengono catturati da loro nel mezzo del cerchio stesso. I Piccoli Esseri ridono di loro con un suono simile a quello di piccole campane d’argento; poi, come se volessero scusarsi per quella risata, portano il mortale in un luogo dove è possibile entrare sottoterra. Quando arrivano lì, in una bellissima sala dove la Regina siede con Oberon, viene ordinato di dare all’uomo dell’oro. Gli portano un sacco; lui lo riempie fino al collo d’oro e, mentre sta per ringraziarli, all’improvviso si ritrova non più in quella sala, ma nel freddo deserto all’alba, completamente solo. Allora quell’uomo, tremando e chiedendosi se avesse davvero visto i Piccoli Esseri o no, pensa: ‘Almeno ho il mio oro.’ Ma quando cerca di riprendere il sacco, scopre che è molto leggero; rovesciandone il contenuto a terra, invece dell’oro ricevuto, trova soltanto foglie morte. Le foglie secche e marroni dei faggi e degli ontani: è proprio di questo tipo che i Piccoli Esseri coniutano l’oro fatato. Si dice che, mentre se ne va lì, deluso e arrabbiato per quell’avventura, possa ancora sentire, anche se è giorno, in profondità sotto terra, il leggero tintinnio di molte piccole campane d’argento. E allora sa che sono i Piccoli Esseri che stanno ridendo.”
+
+Grizzlebeard: “So che for alcuni può essere una grande sfortuna incontrare le Piccole Persone, ma come vi ho detto, io non le ho mai viste. Anzi, è stato proprio il contrario: anno dopo anno ho raccogliuto le foglie morte, fino a quando tutte le ‘foglie’ della mia vita sono diventate morte. E anno dopo anno ho trovato tra le mie mani oro, e ancora più oro.”
+
+Il Poeta: “Vi dico ancora una volta che li ho visti; quando ero più giovane li incontravo spesso e trascorrevo ore con loro in quel loro bel posto, dove nulla ha davvero importanza e nessuno se ne va mai.”
+
+Il Marinaio: “E cosa ti hanno dato, oltre a quello sguardo strano che è tipico della tua tribù?”
+
+Il Poeta. “Mi hanno dato il dono di creare versi belli, e questo dono lo conservo ancora oggi.”
+
+Il Marinai: “Ora sì, Poeta, credo davvero che tu abbia visto i Piccoli Esseri. Quello che hai appena detto me lo dimostra. Hai anche toccato l’oro fatato. E ce ne sono molti come te. I Piccoli Esseri ti hanno dato versi che sembravano autentici, puri e validi; li hai messi nella tua borsa e te li sei portati via. Ma quando sei uscito nel mondo degli uomini e hai respirato l’aria umana, quei versi si sono rivelati nient’altro che foglie morte, prive di valore. Oh, non scuotere la testa! Noi conosciamo bene quei versi che le fate ci danno in scherzo. Solo noi, crescendo, diventiamo abbastanza saggi da non curarci più di quelle cose vane. Le lasciamo al vento per farle volare via. Sono soltanto foglie morte. Voi poeti, invece, vi attaccate a quelle borse piene di versi inutili, facendovi prendere in giro per tutta la vita. Mentre noi, uomini veri, ci dedichiamo alle cose che davvero contano nel mondo umano: legge, costruzioni, prestiti. Ogni attività degna di un uomo.”
+
+Grizzledbeard. “E tu, io stesso, hai mai visto le fate?”
+
+Io stesso. “Non credo proprio. Non penso di averli mai visti: ahimè per me! Ma credo di averli sentiti una o due volte, mormorare e chiacchierare, frusciare e rumoreggiare, lusingarmi e deridermi, tentandomi ad avvicinarmi ai bordi pericolosi e alle rive dove il torrente si getta giù dalle alte colline.”
+
+Il Marinaiere: “Cosa ti hanno detto?” Io: “Mi hanno detto che non dovevo mai tornare a [[motifs/home|casa]], e così non ho mai fatto.”
+
+Mentre parlavamo, l’oscurità iniziò ad avvolgerci; avevamo aspettato un paio di volte lungo la strada, soprattutto in quel piccolo tratto in salita dove si attraversa una valle di querce e si vedono davanti a sé vaste praterie allagate, e oltre di esse le alte colline, piuttosto vicine.
+
+A ovest il cielo era già di un verde simile a quello delle mele, mentre nel blu orientale brillavano le stelle. C'erano anche alcune piccole nuvole invernali, ordinate e ben definite nel cielo; sopra di esse la luna, superata la prima fase ma ancora non piena, non era più pallida, ma iniziava a emanare una luce fredda e maestosa. Tutto quel valle dell’Adur offriva uno spettacolo grandioso e solenne mentre proseguivamo nel nostro viaggio senza meta. Per noi quattro uomini, nessuno dei quali conosceva gli altri, che ci eravamo incontrati per qualche motivo inspiegabile e che presto ci saremmo separati per sempre, tutto questo veniva offerto a noi. Tutti e quattro insieme ricevemmo il dono di quella bellezza vasta e silenziosa; e anche noi, in silenzio, la accettammo.
+
+E così, quando fu completamente buio, arrivammo a Henfield e decidemmo che era giunto il momento di mangiare pane, pancetta e birra: una cena ispirata dal viaggio e dall’aria fredda della notte. Dovete sapere che, anche se erano ancora all’inizio dell’anno, una leggera brina aveva già gelato la terra.
+
+Quindi ci fermammo in una locanda in quel luogo e chiedemmo alla padrona di friggere del bacon per noi, insieme a del pane e abbastanza birra da bastare a quattro uomini, secondo il suo giudizio e il nostro desiderio; mentre aspettavamo questo pasto, il marinaio mi disse:
+
+“Ora dunque, Myself, poiché dici di conoscere così bene la Contea, puoi spiegarci come sia possibile rendere il Maiale così adatto all’Uomo?”
+
+Grizzlebeard: “Ma come, nessuno può dirlo con certezza, perché noi sappiamo soltanto che le cose stanno così. Alcuni dicono che all’inizio il cavallo sia stato creato per essere cavalcato dall’uomo, la mucca per essere munta, il maiale per essere mangiato; lo stesso vale per il grano, che è stato dato all’uomo perché lo semini nei campi, proprio come le stelle e la luna crescente sono state create affinché l’uomo alzi lo sguardo verso il cielo, e il sole per fornirgli luce e calore durante il giorno. Ma altri affermano che tutte queste cose siano un semplice disordine, che le stelle non si curino affatto di noi, che la luna, se solo si conoscesse la verità, sia molto lontana da noi e sia soltanto un essere inutile (Dio mi perdoni! Non sono io a dire queste cose, ma loro!). Dicono anche che i cavalli siano stati semplicemente scoperti dall’uomo (ciò posso ben crederlo, vedendo alcune persone cavalcarli), e che persino quel creatura perfettamente adatta all’uomo, quel robusto quadrupede, il maiale, sia soltanto un caso fortuito, e non abbia alcun scopo reale per noi; anzi, con i cambiamenti delle circostanze umane, potrebbe essere sostituito da qualcos’altro di più adatto. Tutto è creato per uno scopo, ma chi può dire quale sia esattamente?” Io: “Coloro che parlano in questo modo, Grizzlebeard, non hanno mai riflettuto attentamente sulle opere dell’uomo, né sui suoi modi curiosi e ingegnosi, che rivelano la presenza del suo Creatore e lo dimostrano come un vero artista. Il fatto che la carne di maiale venga trasformata in pancetta è una prova evidente di questa verità. So che ci sono ancora persone che sostengono che chiodi, aghi, martelli, seghe, persino il violino, siano stati creati poco alla volta, attraverso tentativi e errori dell’uomo. Di fronte a questi atei io urlo in protesta, credendo fermamente e senza dubbi che all’inizio, quando i nostri antenati furono espulsi dall’Eden e costretti ad abbandonare quella regione, loro furono gentilmente forniti dalle autorità di tutto ciò di cui avevano bisogno, ”
+
+“Una sola scatola degli attrezzi.”
+
+Un gallo e sei galline.
+
+Un po’ di vernice, alcuni pennelli e un tubetto di seppia.
+
+Sei matite, dalla misura BB alla misura 4H.
+
+Tabacco in scatola.
+
+Grammatica e lessico greco.
+
+Mezz’ore con i migliori scrittori di poesia e prosa in inglese, escludendo quel tizio lì.
+
+Una piccola stampante.
+
+Un Bibbia.
+
+Gli Elementi della Giurisprudenza.
+
+Un piccolo baule da viaggio per medicinali.
+
+Una raccolta di semi, con
+
+Un opuscolo che dovrebbe accompagnare questi materiali…
+
+Due maiali.
+
+“Anche questi ultimi furono salvati nell’Arca, come testimonia la Sacra Scrittura; uno di loro in seguito accompagnò San Antonio e rappresenta la sua bestia rituale su ogni monumento.”
+
+“Ma tutto questo,” disse il Marinaio, mentre iniziava a mangiare la sua pancetta, “non ci dice nulla riguardo alla cura dei maiali, che, secondo voi, rappresenta una prova dell’istruzione originaria dell’uomo e delle intenzioni della Provvidenza.”
+
+Io stesso. “E l’ho detto con assoluta sincerità: come potrebbe un uomo scoprire da solo una cosa del genere? Ci deve essere una rivelazione alla base di tutto ciò, e c’è anche quella apparente contraddizione che caratterizza tutti i doni misteriosi.”
+
+Grizzlebeard: “Volete dire che non esiste modo di curare un maiale finché non è morto? Perché proprio in quel momento, secondo i nostri materialisti, sarebbe ormai irrecuperabile. Eppure (oh, meraviglia!), è proprio allora che diventa il momento più adatto per curarlo.”
+
+Il Poeta: “Beh, ma al di là della teologia di questa questione, non potresti dirci come si cura un maiale? Desidero ardentemente imparare qualcosa di utile nella mia vita.”
+
+Io stesso. “Non si impara qualcosa semplicemente ascoltando, non è vero ciò che dice il Filosofo? ‘Se vuoi diventare un falegname, devi fare il lavoro di un falegname.’ Tuttavia, per l'affetto profondo che provo per te e anche per il piacere che mi dà quest’arte, spiegherò questo concetto.”
+
+“Prima di tutto, taglia il maiale a metà e disponi entrambe le parti in modo uniforme su una tavola liscia e ben lavata, fatta di quercia, frassino, olmo, noce, teak, mogano, ebano, rovere rosso o qualsiasi altro tipo di legno. Poi, prendendo una di queste metà, disponi da un lato una quantità di salgemma; prendi un pugno di questo sale e strofinalo con molta cura sulla carne del maiale, assicurandoti che venga distribuito uniformemente su tutta la superficie. Devi fare tutto questo solo all’interno della carne, mai all’esterno, poiché l’esterno è già ricoperto di peli.”
+
+“Quindi, quando avrete strofinato con tanta energia fino a quando il vostro panno non sarà diventato luminoso per via dello strofinio, perché allora smettere? Appendetevi quel pezzo di stoffa su un gancio e lavatevi le mani; così avrete finito per quella giornata.”
+
+“Ma il giorno dopo dovrai ricominciare nello stesso modo (dopo aver prima consacrato il tuo lavoro con una preghiera), e così via per trenta giorni; ogni giorno, però, dovrai usare una quantità leggermente inferiore a quella del giorno precedente, fino a quando, prima che la guarigione sia completata, avrai utilizzato soltanto un decimo della quantità di nitrato che avevi inizialmente preso.”
+
+“Quando tutto questo sarà finito, la tua metà maiale sarà rigida come una puritana, salata come il dolore, incorruttibile come un avvocato, e dura come Tacito. Allora potrai sollevarla intera, come un tronco, e arrostarla sul fuoco di legna, come facevano gli antichi giganti; oppure potrai impacchettarla tra strati puliti di paglia, come fanno i tedeschi ancora oggi. O fai pure ciò che vuoi. Ma a te non importa: in ogni caso avrai comunque una maiale perfetta, che avrà realizzato il proprio destino e trovato il frutto della sua nascita: uno scandalo per Mahound, e cibo per i cristiani.”
+
+Il Marinai: “Tutto quello che dici è vero, ma che ne dici delle setole del maiale? E dei suoi peli? Non sono forse le setole più adatte per le spazzole piuttosto che per il prosciutto?”
+
+Io stesso. “Parli la verità con chiarezza, anche se forse un po’ troppo bruscamente, quando chiedi: ‘E i peli?’ Perché il maiale, come tutti gli animali brutali, si differenzia dall’uomo in questo: la sua pelle è coperta di peli. Su questo argomento anche il poeta Wordsworth, o qualcuno del genere, compose una poesia che, poiché non l’avete mai sentita prima, vi racconterò ora (nello stile di Burnand) e la canticcherò con quella voce che gli italiani chiamano ‘Tenore Stridente’, mentre noi la chiamiamo ‘Voce Appassionata’.”
+
+Il cane è un amico fedele e intelligente.
+
+Ma la sua pelle è coperta di peli;
+
+La gatta rimarrà in quella casa fino alla fine.
+
+Ma la sua pelle è coperta di peli.
+
+“La pelle del mammut era coperta di lana.”
+
+La pelle del delfino è liscia e fresca.
+
+Ma scoprirai, se osservi quel folle che gioca e scherza…
+
+Che la sua pelle sia coperta di peli.
+
+“Oh, ringrazio Dio almeno per questo.”
+
+In Occidente sono stato “cornuto”, non in Oriente…
+
+E mi trasformò in un essere umano, invece che in una bestia
+
+“Di chi è la pelle coperta di peli?”
+
+Barba Grigia (con interesse): “Questa canzone non la conosco, anche se so quasi tutte le altre. È tua?”
+
+Io stesso. “No, in realtà si tratta di una traduzione, ma gratuita, devo ammetterlo, di Anacreonte o Teocrito, non ricordo esattamente. Cosa sto dicendo? Non è forse di Wordsworth, come abbiamo appena detto? Ci sono molte sue poesie che rimangono poco conosciute! Ne avete altre? Ne esistono molte, ”
+
+Il Marinaio. “No.”
+
+Io stesso. “Allora, continuerò immediatamente.”
+
+"#La mucca nel pascolo che rumina..."
+
+“La sua pelle è coperta di peli.”
+
+Il Marinaio. “Fermati!”
+
+“E anche un cavallo di sangue berbero…”
+
+La sua pelle è coperta di peli!
+
+“La cammella eccelle sotto molti aspetti…”
+
+E i viaggiatori gli rivolgono lodi senza limiti…
+
+Può sopravvivere senza bere per diversi giorni.
+
+“Ma la sua pelle è coperta di peli.”
+
+Grizzlebeard: “Quante strofe contiene questa poesia?”
+
+Io stesso. “Sono moltissimi. Tutti gli animali del campo, le creature striscianti e i mammiferi marini partecipano a questa canzone; alla fine vi compare persino lo stesso Hairy Ainu. Ci sono centinaia e centinaia di versi.”
+
+La tigre della foresta che vive in una buca
+
+La sua pelle è coperta di peli;
+
+La iena che ride, nonostante la sua intelligenza…
+
+La sua pelle è coperta di peli!
+
+"The Barbary ape and the chimpanzee"
+
+Il leone d’Africa, davvero lui…
+
+Con la testa simile a una parrucca e il ciuffo sulle ginocchia…
+
+“La sua pelle…”
+
+Grizzlebeard (alzandosi): “Basta! Basta! Queste poesie, lunghe quanto i serpenti marini, non rappresentano affatto lo spirito vero della poesia. Non riesco a credere che il coscienzioso Wordsworth, soprannominato ‘Testa di Cavallo’, abbia scritto queste cose; né che possano essere considerate vere traduzioni di Anacreonte o del brillante Teocrito. C’è sicuramente un errore. Questo modo di immaginare temi a cui si possono aggiungere innumerevoli capitoli nello stesso stile non fa parte della poesia. È piuttosto uno strumento da utilizzare nei campi, adatto soltanto a una soldataglia rozza, per aiutarli nel cammino e sotto il peso dei bagagli. Capisco che durante lunghe marce gli uomini debbano cantare cose del genere, accompagnandosi con un ritmo e battendo i piedi. Ma noi no. Dico basta, davvero basta!”
+
+Gli risposi alzandomi anch'io come aveva fatto lui, preparandomi per la partenza. “Ma insomma, Grizzlebeard, non è molto gentile da parte tua. Se mi avessi concesso ancora quindici versi, avrei potuto completare il poema ‘The Greater Camivorae’, e forse, prima che terminasse, saremmo riusciti a convincere anche Wart Hog, che non ama la guerra ma è un pacifista.”
+
+Il Poeta (alzandosi anche). “Può essere così, caro Myself, ma ricorda che tutto è ancora lì, pronto per te. Niente viene davvero perso. Riscoprirai questi versi nell’eternità, e senza dubbio il tuo tempo all’inferno sarà abbastanza lungo da permetterti di esaurire, uno dopo l’altro, tutti gli animali che sono mai esistiti.”
+
+Il Marinaio (“Grizzlebeard ci ha salvati tutti!”)
+
+Con questa condanna di una nobile canzone, uscirono all’aperto e si incamminarono lungo la strada, un po’ senza meta, guardando verso le alte colline, sotto la luna ormai luminosa, chiedendosi dove dovessero andare. Grizzlebeard suggerì gentilmente di recarci in una locanda a Bramber e dormirci lì, ma il Marinaio disse improvvisamente: “No!”
+
+Lo disse con tale violenza e determinazione che tutti rimanemmo sorpresi e lo guardammo con paura. Poi continuò:
+
+“No, non andremo all’osteria di Bramber, né respireremo su braci ormai quasi estinte; non andremo a camminare nei boschi da cui sono stati tagliati tutti i lauri, né torneremo ad emozioni che un tempo forse erano solo vagamente divine, ma che il passare del tempo ha reso sacre. È l’impresa più pericolosa tra quelle umane: tentare di tornare al passato; se fallisse, genererebbe i più tristi dolori. Conosco bene i giardini di Bramber, anch’io ci ho seduto a mangiare e bere nelle serate estive, tra l’ultima luce del giorno e l’oscurità. Anch’io ho visto una grande stella apparire sopra Buttolph Combe; anch’io ho visto i topi volanti sfrecciare sopra di me in un’aria simile al bronzo. Credetemi, ho sentito il canto della nightingale a Bramber, ma non tornerò.”
+
+Il poeta. “Ma…!”
+
+Il marinaio: “State zitti!. Non tornerò più. Quell’ostello era davvero il migliore di tutti. Parlate dell’ostello di Saint Girons, dove il vino era ottimo ai tempi di Arthur Young e lo è ancora oggi. Anche se non lo stesso vino, ma comunque il “nipote” di quello stesso vino. E lodate anche quell’ostello situato sotto il passo che porta da Val Carlos. Parlate giustamente dell’illustre ostello di Urgel, conosciuto come l’Ostello Universale, da dove, sotto la luna piena, si può ammirare tutta l’altezza della Sierra del Cadi. E ripetete continuamente le lodi di quell’ostello situato sotto il “Segno della Catena d’Oro”, accanto a un grande castello in rovina, lungo un fiume ampio e molto tranquillo in Normandia. Fate bene ad elogiarli. Ma tutti questi ostelli insieme non potrebbero nemmeno avvicinarsi al livello di quello che un tempo era l’ostello di Bramber.”
+
+Me stesso: “Non ho mai menzionato nessuna di queste locande!”
+
+Il marinaio disse: “Non esiste al mondo nulla di meglio di una locanda; ma anche tra le cose buone deve esserci una gerarchia. Si dice che gli angeli salgano i gradini, e sono molto disposto a crederci. Lo stesso vale per le locande. Non spetta certo a un viandante stabilire l’ordine giusto tra di esse; ma nella mia giovinezza, la migliore locanda del mondo era una locanda dimenticata tra gli alberi di Bramber. Per questo motivo non tornerò mai più lì. Le famose locande toscane hanno indotto molti a lodarle. Alcuni, credo, in modo eccessivo. E per quanto riguarda le locande minori dei porti marittimi, i marinai (sebbene non le lodino mai in prosa o in poesia) conoscono bene la “Stella di Yarmouth” – intendo quella di Great Yarmouth – e la “County Inn” dell’altra Yarmouth. In particolare, lodano molto il “Dolphin” di Southampton: una locanda davvero nobile, con finestre ad arco. Seconda solo a poche altre al mondo per l’opportunità che offre di comporre versi meravigliosi e prosa fluida. E poi, situata a un giorno di marcia dall’oceano, quante locande i marinai non conoscono! Ci sono la “Bridge Inn” di Amberley, la “White Hart” di Storrington, la “Spread Eagle” di Midhurst, quella più antica e rispettata tra tutte le locande del mondo. La “White Hart” di Steyning, il “White Horse” di Storrington, il “Swan” di Petworth. Tutte queste meritano sicuramente di essere visitate. Erano locande ordinarie, umane, piene di una bontà comune e ragionevole. Ma intorno alla locanda di Bramber, compagni miei, aleggia un’atmosfera molto diversa. La memoria la avvolge, il passare del tempo, l’ossessione perpetua della gioventù. Lasciamo quindi che rimanga lì. Metterò insieme i ricordi di un amore d’infanzia. Ascolterò con sentimenti misti di tristezza e gioia le canzoni che hanno riempito la mia infanzia. Ma non guarderò deliberatamente ciò che, attraverso il processo della santificazione del tempo, è ormai diventato quasi “non di questo mondo”. Non andrò a dormire nella locanda di Bramber. I dei me lo vietino.
+
+“No, a parte tutto ciò che voi tre forse (soprattutto il Poeta) non siete in grado di comprendere, a parte queste considerazioni rare e misteriose, c’è una ragione evidente e semplice per cui non dovremmo disturbare le ‘pagine’ della memoria. Chi sa se tutto rimarrà come prima? Chi sa se in quel giardino si sentiranno ancora quelle stesse voci, o se la vernice verde sui tavoli sarà ancora polverosa, consumata dal tempo. Se le sedie saranno ancora traballanti, e se i cetrioli continueranno ad essere l’ornamento principale di quella festa? Voi due, uno giovane, uno di mezza età, e tu, il terzo ormai anziano, non avete forse imparato che tutto è legato al cambiamento, che esiste solo perché si trasforma? E a quale scopo servirebbe risvegliare ancora una volta quella sete dell’anima per la certezza e per la tranquillità? Con quale dolore straziante dovremmo lottare se il ricordo di ciò che un tempo era l’ostello di Bramber si trasformasse in un orrore che mettesse in discussione ciò che oggi è. Non potrebbe davanti ai nostri occhi sorgere un doppio ritratto di ciò che è stato e di ciò che è diventato, un ritratto capace di tormentarci con la crudeltà del tempo? Non giocherò con passioni troppo forti per gli uomini. Questa notte non andrò a dormire nell’ostello di Bramber.”
+
+“Non è forse il mondo pieno di altre locande dove un uomo può dormire profondamente e svegliarsi come se si trovasse in un nuovo mondo? Non ci ha forse il cielo offerto, come stelle nel firmamento, questi luoghi di isolamento e riposo in tutto il regno cristiano? Non esiste forse una locanda alla fine della terra dove si può restare svegli in un silenzio più profondo del sonno, ascoltando il rumore del mare sulle navi lunghe e il vento dell’Atlantico? E non c’è un’altra locanda a John o’ Groats verso cui si può andare in bicicletta, se si desidera (ma io no)? Non esiste forse quella locanda senza nome famosa per il suo vino rosso di Borgogna a Llanidloes? E non c’è l’Unicom a Machynlleth? E non ci sono a Dolgelly quarantamila locande straordinarie e solide? E poi quelle di Ludlow, dove le persone bevono così spesso e con tanta intensità dopo che i fuochi sono spenti. E quella sua sorella a Ledbury. E la New Inn di Gloucester, che è più antica del New College di Oxford o del Ponte Nuovo di Parigi? E tra l’altro, anche se Oxford stessa non possiede vere e proprie locande, non ce ne sono forse molte altre disposte a cerchio attorno alla città, come pianeti in orbita? Le locande di Eynsham, Shillingford, Dorchester, Abingdon. La straordinaria locanda di Nuneham. E quella odiosa di Wheatley, che perdette la sua reputazione circa sessant’anni fa. Ora rappresenta chiaramente un esempio di ciò a cui possono ridursi le locande, quando, pur possedendo volontà libera e destinate alla gioia eterna, non riescono a adempiere al loro vero scopo, ”
+
+. Sì, davvero, nel mondo ci sono abbastanza locande tra cui scegliere, senza che si debba essere costretti da una cattiva sorte o da una curiosità ancora più malvagia a esplorare quelle profonde, ma oh! sacre e inviolabili, zone dell’anima legate alla rinascita e all’amore appagato. Nessun uomo può rivivere la sua giovinezza, e l’amore non è sempre fruttuoso per l’uomo.
+
+Grizzlebeard (riflettendo): “Se non fosse così lontano, questa stessa notte mi recerei all’Hotel Station di York. Di tutte le locande che conosco, è senz’altro la più grande e la più sicura.”
+
+Il Poeta: “E io, verso il Pesce, il Cane e l’Anatra, dove il fiume Ouse si unisce al Cam; oppure verso i grappoli sulle colline sopra Corbridge, prima di avventurarti nella solitudine del Northumberland. Entrambi ottimi ostelli.”
+
+Io stesso. “Ma io, sotto il segno del Leone, su Arun, che nessuno conosce se non io. Lì dovrò avvicinarmi ancora una volta a quell’antico enigma, e forse, finalmente, ascoltare le voci dei morti e conoscere il destino dell’anima.”
+
+Il marinaio disse: “A tutti e tre vi starebbe bene. Le locande, infatti, sono come gli uomini e le donne: ognuna ha caratteristiche e destini infinitamente diversi. C’è chi cerca silenzio e riposo in una locanda gestita da un anziano; chi preferisce avventure o solitudine in una più giovane; e c’è chi, senza alcun motivo apparente, sceglie una locanda dove accumulare ancora più quella sorta di irritabilità e impotenza che costituisce il nutrimento quotidiano di queste persone. Ci sono anche locande seducenti, brutali, discrete, gentili o robuste: ognuna si adatta a un certo umore. Ma proprio come in ogni vita esiste un’emozione che non può essere toccata e per la quale le cose ordinarie non sono sufficienti, lo stesso vale per le locande. Per me, ad esempio, c’è una locanda sacra, quella a Bramber. E quindi, come credo di aver già detto, non ci andrò mai.”
+
+Io stesso. “Ora che tutta quella affettazione nel tuo discorso è finita, posso dirti che avresti potuto risparmiarti la fatica: so dove c’è una piccola casa, vuota ma ben arredata e piena di provviste per l’inverno. Marinaio, te lo dico io: i Troll non sono miei amici. Eppure, di tutte queste piccole case sparse in tutta la contea, solo io ho le chiavi.”
+
+Allora andremo in questa mia piccola casa, perché si trova proprio dall’altra parte dei prati allagati.
+
+Questo l’abbiamo fatto; mentre attraversavamo il ponte di legno, abbiamo visto sotto di noi il mio piccolo fiume, l’Adur, che con la bassa marea scorreva verso il mare.
+
+Così proseguimmo attraverso i prati allagati. Faceva molto freddo, e la luna si levava sopra Chanctonbury in un cielo sereno. Non parlammo. Camminammo tutti e quattro in fila indiana, io davanti, lungo il sentiero stretto accanto al filare di siepi spogli. La brina aveva coperto l’erba, e i rami dei cespugli sembravano affilati sotto la luce della luna, come se fossero incisi nel metallo. Arrivammo sulla strada di Ashurst. A quei tempi il mulino era ancora attivo, e le sue pale si stagliavano contro il cielo. Camminammo fianco a fianco, in silenzio: il Poeta camminava curvo, Grizzlebeard lasciava che il suo bastone strisciasse sul terreno, e anche il Marinaio aveva un’aria malinconica, nonostante le sue forti gambe lo portassero con facilità. Io, invece, continuavo ad avanzare leggermente davanti agli altri, perché sapevo che la mia meta era vicina; per i miei tre compagni, invece, si trattava soltanto di una lunga camminata senza scopo attraverso l’oscurità, dopo una giornata intera di viaggio. Così arrivammo a quella piccola casa. Che Dio sappia quanto la ami, tanto quanto amo qualsiasi altra delle sei o sette case che ci sono al mondo.
+
+Raggiungemmo la base di una piccola collina: lontano dalla strada, oltre un piccolo spazio verde, si ergevano alti olmi contro il cielo. Sotto di loro brillava il tetto di paglia di un enorme fienile; accanto ad esso c'era qualcosa che conoscevo molto bene, il tetto e la ciminiera. Abbandonai la strada per attraversare lo spazio verde e tirai fuori dalla tasca una grande chiave. Quando i miei compagni la videro, la loro allegria tornò, perché sapevano che avevo trovato il rifugio.
+
+“Guarda come tutte le porte della Contea si aprano davanti a te!” disse Grizzlebeard.
+
+“Non tutti,” risposi, “ma di certo quattro o cinque.”
+
+Inserii la chiave nella serratura e, dentro, non appena accesi un fiammifero, apparve quella stanza familiare. Il raggio di luce proveniente dal soffitto era per me come un amico, e il grande camino occupava tutto lo spazio della stanza. Lì, in quel angolo, c'erano dei ceppi, una buona quantità di cenere, un fascio di legna e quattro o cinque grossi tronchi di quercia provenienti dalla regione del Weald: sotto tutta quella legna accesi un mazzo di versi che portavo con me da mesi, ma che fino ad allora non mi avevano soddisfatto. Le fiamme si alzarono, assumendo la forma delle foglie di vischio. Era davvero una bella vista.
+
+Con il fuoco l'umanità tornò alla vita; parlammo, allungammo le mani verso il calore; uno tirò le tende davanti alla lunga finestra bassa della stanza, un altro portò i banchi vicino al fuoco, banchi con schienali alti e scuri per l’età; un altro posizionò le assi sopra i cavalletti; un altro accese due candele e le mise sulle assi. Eravamo in un nuovo stato d’animo: appena usciti dalla notte, vedevamo la gioia che il fuoco portava con sé.
+
+Successivamente andavamo alla Fontana per bere. L’ostello di Ashurst, infatti, si chiama Fountain Inn. Non si tratta della stessa fontana menzionata nei testi, quella chiamata “Fonte d’Oro”.
+
+“Questa è proprio quell’acqua della Fonte d’Oro…”
+
+“Acqua della giovinezza e rimedio alle preoccupazioni”.
+
+La Fontana di Ashurst, per grazia di Dio, contiene sostanze migliori dell’acqua.
+
+Né è quella l’altra Fontana di cui si parla…
+
+“Fonte degli anni e acqua di ciò che è stato compiuto.”
+
+Anche se ci sono anni onorevoli intorno alla Fontana di Ashurst, certamente non vi sono rimpianti. Non è ancora finito. Goditelo appieno! Fontana, goditelo appieno!
+
+Né la Fontana di Vaucluse, né quella di Moulton Parva o di Thames-head, che si prosciugò quando morì Giorgio III e da allora non ha mai più iniziato a sgorgare; né la Sorgente Bandusian. No, nemmeno l’Helicon, che è stata sfruttata così spesso da esaurirsi circa trentacinque anni fa e da allora rimane solo fangosa.
+
+Né si tratta di quelle due fonti gemelle: una con acqua calda e l’altra con acqua fredda, dove un tempo, nei giorni di pace precedenti l’arrivo dei Greci, le donne di Troia lavavano i loro panni.
+
+No, non era nessuna di queste cose, ma semplicemente la solita Fontana di Ashurst; era lì che avevamo intenzione di andare a prendere pane, formaggio e birra, che scorrono proprio accanto a questa fontana.
+
+Per quanto riguarda a chi dovessimo inviare, si trattava di una scelta difficile. Non Grizzlebeard, per rispetto all’età, ma uno degli altri tre. Non io, perché solo io conoscevo quella casa e ero impegnato ad organizzare tutto, ma uno degli altri due. Né il Poeta, perché, all’improvviso, la Musa lo aveva afferrato per la gola e lo stava “strappando” via. Già scriveva con grande impegno; aveva quasi pronto un poema per noi, e disse che questo genere di lavoro non poteva essere interrotto.
+
+Pertanto, fu il Marinai ad essere inviato, anche se odiava l’idea del freddo.
+
+Si alzò e disse: “Quando in un gruppo di persone si trova qualcuno che sia più coraggioso e più allegro, più virile, più giusto e più premuroso degli altri; più forte, più saggio e molto più pio; inoltre molto generoso, ma allo stesso tempo deciso e fermo nelle sue intenzioni, sagace nei consigli, gentile e dal cuore grande e aperto, allora, anche se (per non menzionare cose di minor importanza) possieda anche l’intelligenza più acuta e il fisico più robusto tra tutti, è proprio lui a diventare lo zimbello e l’oggetto delle derisioni degli altri.”
+
+Con questo ci lasciò, portando con sé un grande barile da due galloni; poco dopo tornò con esso pieno di birra Steyning. Appena lo posò, disse: “La Fontana scorre, ma non con acqua comune. Diventerà famosa tra tutte le fontane, perché ne parlerò in versi.” Poi diede al Poeta un forte colpo e chiese della salute del suo poema.
+
+Il poeta. “Non è ancora del tutto completo.”
+
+Il Marinaio (seduto vicino al fuoco e versando la birra): “È meglio così! Non dobbiamo cercare di riempire i vuoti. Fate attenzione alla perfezione: è come un fantasma errante, che ha rovinato molte persone.”
+
+Grizzledbeard. "C’è una canzone?"
+
+Il Poeta. “C’è una sorta di lamento… Inizia a cantare.”
+
+Il poeta
+
+"#Ascoltate, miei gentili fratelli della Foresta..."
+
+Chi ora nel campo gelato…
+
+Rifiuta il tuo lavoro sotto quella sua corazza dura e impenetrabile?
+
+E rivolgete le vostre azioni…
+
+“Il tuo bestiame torna pigramente alle stalle…”
+
+Il marinaio: “Oh, Signore. È una canzone di lutto! Quell’uomo canta come il vecchio Disperazione nei giorni di digiuno. Andiamo, diamogli, ”
+
+“Me stesso… No, il poeta deve finire; lasciatelo continuare.”
+
+Il Poeta, dopo aver guardato con rimprovero il Marinaio, riempì i polmoni un po’ più completamente del solito e continuò:
+
+“Mentre il bestiame torna pigramente alle stalle…”
+
+Oh! radunatevi intorno ai nostri fuochi
+
+E puntare una bacchetta, o scaldare un compagno pulito…
+
+Mentre
+
+Con un rigoroso e attento rispetto dei riti tradizionali…
+
+Intrecciando rime dignitose
+
+“Una threnodia per l’anno che si congeda”.
+
+Il Marinaio: “‘Decente’ è una parola negativa; inoltre, non si può comporre un lamento per qualcosa che non è morto.”
+
+Il poeta (continuazione)
+
+“E tu, che da quando esiste questo mondo stanco…”
+
+L’essenza dell’uomo
+
+“Hanno creato un continuo rumore intorno alle nostre case…”
+
+"Voi mucche, oche, maiali, pecore e tutto il resto..."
+
+Titolo:  
+Anche dei topi e dei conigli…
+
+E le lepri, e tutto ciò che mai si nasconde e vaga…
+
+Dalla località di Harting fino al punto in cui il percorso descrive una curva a Bodiam.
+
+Aspettate!
+
+Un momento solenne
+
+E ci siamo riuniti qui.
+
+Progresso in rima onorabile
+
+Con un rigido e attento rispetto dei riti tradizionali
+
+La nostra “Trenodia per l’anno che si congeda”.
+
+Il tempo passerà, e ancora una volta arriverà un nuovo anno…
+
+Torneremo sulle nostre canne
+
+“Le canne rigogliose accanto al fiume Arun che scorre veloce…”
+
+Qui il Poeta si fermò e guardò il fuoco.
+
+“Hai finito?” disse il Marinaio con un'aria di grande preoccupazione.
+
+“Mi sono fermato”, disse il Poeta, “ma non ho ancora finito”.
+
+“Allora,” disse il Marinaio, “lasciate che vi aiuti.” E subito iniziò a recitare spontaneamente:
+
+"#Attraversando le vostre città costiere..."
+
+Ho sentito dire che nel Sud giaceva una dea…
+
+“Non riesco più a continuare,” aggiunse.
+
+Il poeta
+
+“Con un velo di tristezza, lei pone fine al nostro piccolo ciclo.”
+
+Grizzlebeard. “Chi lo fa?”
+
+Il Poeta: “Ma sì, quella dea sua. La farò partecipare e le farò comporre qualcosa sul momento. Il marinaio non è l’unico qui che sia capace di creare cose all’istante. Te lo prometto, ”
+
+“Con un velo di tristezza, lei pone fine al nostro piccolo ciclo…”
+
+La neve invernale… la neve invernale cade con rispetto.
+
+Nelle nostre amate terre
+
+Titolo:  
+Come su Marana, un lenzuolo avvolgente…
+
+Nascondeva la piccolezza delle sue mani
+
+E le sue labbra vergini…
+
+“Le sue piedi bianchi e puri…”
+
+Quando quel lamento si fu spento e loro, seduti o sdraiati davanti al fuoco, ebbero uno dopo l’altro chiuso gli occhi, il sonno colpì tutti e tre, stanchi per la lunga giornata trascorsa e per il freddo intenso dell’aria. Nella loro mente, mentre si addormentavano in quella notte di Ognissanti, si immaginavano la Foresta delle terre alte e la vasta brughiera che si estendevano sotto di loro, nonché la strada che conduceva laggiù, fino al nostro arrivo sotto la maestosa bellezza della campagna notturna. Riposarono davanti al fuoco.
+
+Ma ero ancora sveglio, da solo, ricordando All-Hallows e quella danza che si svolgeva nel bosco quella notte, anche se nessun essere umano poteva sentire la musica né vedere i ballerini. Pensavo che l’oscurità illuminata dal fuoco fosse “viva”. Così mi avvicinai silenziosamente alla porta, coprii il chiavistello con le dita per attutirne il rumore, e uscii a osservare il mondo intorno.
+
+La luna si ergeva sopra Chanctonbury, così distante e fredda nella sua luce argentea che quasi si poteva pensare che non le importassero affatto le follie degli uomini; piccole nuvole, sue “dame di compagnia”, brillavano sotto il suo splendore, e insieme regnavano su un silenzio generale. La sua luce illuminava i bordi delle colline della regione dei Downs. Non c’era nebbia; era ancora limpida e cristallina quando la vidi scomparire dietro quelle montagne. Le stelle sembravano ancora più brillanti dopo il suo tramonto, e un profondo silenzio avvolgeva la valle dell’Adur, il mio piccolo fiume, che a bassa marea scorreva verso il mare.
+
+Dopo aver visto tutto questo, tornai dentro casa silenziosamente come ero uscito, raggiunsi il mio letto e mi avvolsi nel mio mantello davanti al fuoco. Alla fine anche a me venne il sonno; ma quella notte, in sogno, dei miei amici defunti vennero a trovarmi.
+
+Il primo di novembre 1902
+
+La mattina seguente, quando mi svegliai, fu perché il Poeta stava camminando timidamente per la stanza, facendo il più rumore possibile, ma riluttante a rimanere solo ancora a lungo.
+
+Il fuoco era spento, e quel piccolo posto appariva triste sotto quella luce grigia dell’alba. Riuscivo a vedere, attraverso la finestra, che il tempo era cambiato e l’aria si era riscaldata. Il cielo era pieno di nuvole in movimento; pensai che quel giorno sarebbe piovuto. Ma sarebbe stato comunque una bella giornata. Era infatti All-Hallows, la festa che bilancia l’anno, che rappresenta quasi un contrappeso a “All Fools’ Day”, quando tutto è leggerezza e gioia, quando si dimentica l’inverno e ci si rallegra all’avvicinarsi dell’estate. Una stagione in cui non si conosce nemmeno il nome dell’autunno, né la caduta delle foglie.
+
+Anche Grizzlebeard si mosse e si svegliò; infine, anche il Marinai, piuttosto stupito, si alzò. Tutti mi guardarono come per chiedermi: “Qui non c’è colazione?” Ma io, comprendendo ciò che pensavano, risposi con decisione:
+
+“In questa casa facciamo colazione nello stesso modo dei nostri antenati, degli eroi: con la birra di ieri sera, il pane e il formaggio della cena. Così facevano coloro che combatterono contro De Montfort sul Monte Harry, all’altra estremità della contea, seicento anni fa. Dopo aver marciato tutto il giorno, si schieravano contro il re al mattino presto. Contro la loro volontà, per giunta! Perché un uomo non è veramente pronto a combattere prima delle nove. E anche allora, una tazza di caffè o di zuppa gli farebbe bene. Ma oggi non c’è bisogno di combattere. Solo di mettersi in cammino. Quindi mangiamo e andiamo.”
+
+Nessuno di loro era soddisfatto, ma poiché io volevo che fosse così e non c’era altra soluzione, bevvero quella birra stantia, uno per tazza, con espressioni torve sul viso, e mordicchiarono un po’ del pane raffermo. Poi lasciammo il resto del pane e del formaggio ai topi: quando non sono presente, loro si prendono cura della casa per me e spaventano gli intrusi fingendo di essere gli spiriti dei morti.
+
+Quindi siamo usciti dalla porta e attraversato quel piccolo prato verde per raggiungere quella strada un po’ instabile che c’è lì; poi, passando per i campi, siamo arrivati a Steyning, dove avremmo dovuto trovare la strada principale che conduce a Washington, Storrington e Amberley Bridge, e da lì proseguire verso le zone rurali al di là di Arun e verso tutte quelle località che conoscevamo.
+
+Mentre ci dirigevamo verso sud attraverso quei campi, con il calore fresco delle nuvole in movimento sopra di noi e le colline che diventavano sempre più alte, il Poeta, che fino ad allora aveva taciuto quanto gli altri avrebbero potuto dire, iniziò a brontolare. Affermava infatti che la birra non fosse un pasto adatto per un uomo al mattino; preferiva il tè.
+
+Il Marinaio: “Poeta, penso che tu debba essere un vegetariano, e molto probabilmente (come la maggior parte degli uomini della tua condizione sociale) hai ancora paura del tuo corpo, una sorta di creatura allungata, lo ammetto.”
+
+Io stesso. “Bruciate quegli uomini che hanno paura della carne! Anche coloro che bevono acqua, quei che gridano e piangono, quei nemici della carne bovina, traditori dell’antico dio del bue e delle tradizioni della nostra specie umana! Quei che sospirano e singhiozzano, quei servitori dei demoni più meschini, legati saldamente a Bafometto, il dio dei codardi, e incatenati ai usurai, proprio come un cane malato è legato a un uomo cieco!”
+
+Il Marinai: “Andiamo, inseguiamoli! Cacciateli oltre le colline con corni e cani! Inseguite loro, tormentateli, intrappolateli, annegateli nel fiume. Liberateci di loro dal nostro suolo offeso! Sono i traditori del Cristianesimo. Sono coloro che hanno tradito quegli uomini valorosi dei nostri antenati, che, come su due pilastri gemelli, fondarono la Comunità.”
+
+“Me stesso… ‘Vieni, poeta, non sei ancora convinto?’”
+
+Il Poeta. “Di cosa? Che dovrei rispettare adeguatamente il mio corpo?”
+
+Il Marinai: “Quel ‘Respect’ dovrebbe impiccarsi per far entrare un po’ di sangue nel suo viso pallido, e poi ricevere una bella frustata per ritrovare la vita!” Grizzlebeard: “Non capisci forse, Poeta, che con tutte queste tue stranezze potresti condurre l’umanità nella fossa che conduce all’inferno? Non c’è nulla infatti che non possa essere usato a servizio del Signore del Male, se utilizzato in modo abusivo; né c’è nulla che non possa essere usato per glorificare Dio, se consumato in modo giusto e ragionevole. Non provi alcun piacere nel vedere queste nuvole muoversi sopra di noi? O forse ti sembrano troppo lente nel loro movimento,?”
+
+Il Poeta: “Che cos'è tutta questa furia da parte vostra, voi tre? Cosa ho detto io a proposito del Corpo, o contro di esso?”
+
+Io stesso, “No, Poeta, ma ti diremo cose che non vorresti nemmeno sentire! Quel magnifico strumento è in realtà un cannone, dal quale si possono lanciare proiettili contro coloro che meritano di essere “cacciati”. Quell’uomo che nasconde il proprio odio per la guerra è colui che organizza quelle sporche avventure contro i più deboli, e, per volontà di Dio, i suoi scopi sono davvero abominevoli. È anche lui colui che paga gli avvocati affinché distruggano i poveri.”
+
+Il Marinaio: “Non so cosa tutto questo abbia a che fare con il Mio Corpo. Ma una cosa la dico con certezza: dategli l’onore che merita, trattatelo bene, custoditelo con cura. È qualcosa di complesso. Non avreste potuto crearlo voi stessi, e se lo danneggiate, sarà difficile ripararlo. Oh, mio prezioso e onorabile Corpo! Te ne prendo cura con affetto. Sei il mio amico. Non posso fare a meno di te! Il giorno in cui dovrò farne a meno, sarò completamente perso. Con i tuoi occhi leggo i libri scritti da donne offese; con le tue orecchie ascolto il rumore dei volgari; con i tuoi piedi entro nelle case dei ricchi, ma evito la presenza degli sciocchi! Oh, mio Corpo così utile, costante, omogeneo e prezioso. Ti saluto. Trovo conforto in te. Sono davvero felice che mi sia stato dato per questo breve periodo di vita mortale. Piccolo mio Corpo. Credimi: se fossi ricco, ti riempirei di cose buone! Non sono mai stato più soddisfatto di quando ho sentito da un francescano a Crawley che, quando mi impiccheranno, non perderò del tutto il Mio Corpo. Tornerà da me in un futuro, anche se non è mai stato detto con esattezza quando. Comunque, ti riacquisterò di nuovo, e tu sarai nuovamente in perfette condizioni, senza difetti né imperfezioni, una cosa bella e funzionale!”
+
+Il Poeta: “Tutto questo è del tutto fuori luogo; hai sfogato su di me soltanto la tua irritazione per non aver fatto colazione. Nella mia vita non ho mai creduto alle cose che volevi farmi credere, né ho detto una parola contro questa ‘vasca’ che racchiude la mia anima, così strettamente come una bottiglia racchiude il tappo. Ne so molto su di essa, ma così poco sulla mia anima stessa, sebbene sia lei il mio unico compagno.”  
+Grizzlebeard: “Il corpo è qualcosa che tutti conosciamo troppo bene. Ma l’anima è un’altra questione. Conoscevo una volta un uomo (non di questa contea) che sosteneva che non esistesse alcuna anima, e voleva provarlo. Aveva già tentato in passato con alcuni strumenti di dimostrarne l’esistenza, ma senza successo. Così concluse naturalmente che l’anima non potesse esistere, e si mise all’opera per provarlo con i suoi quattro dita e il pollice, in modo pratico e convincente. Ma anche quella prova fallì. Lasciamo perdere tutto questo. Troviamo la strada attraverso questi alberi per raggiungere Steyning, quella bella casa lì. E prepariamoci qualcosa di appropriato per il nostro viaggio. Perché il Signore sa che io e la Regina Elisabetta abbiamo commesso un errore a considerare birra scadente e pane vecchio una colazione adeguata per un uomo. La birra forte e la carne sono ciò di cui abbiamo davvero bisogno.”
+
+Il Marinaio: “Inoltre, la Notte di Ognissanti è una grande festa, e durante le feste si mangia. Busseremo alla mia porta quando dovremo digiunare per espiare qualche grave male, o quando arriverà la brutta Quaresima.”
+
+Quando entrammo nella città di Steyning, io, il Marinaiolo, il Poeta e Grizzlebeard entrammo in una locanda o ostello; mentre passavamo davanti al padrone, chiedemmo molto gentilmente che ci venissero serviti carne fredda e birra nella sala fumosa.
+
+Ma quando entrammo nella sala fumatori, il Marinaiolo, il Poeta, Grizzlebeard e io fummo piuttosto infastiditi nel vedere, in un angolo della stanza, accovacciato vicino al fuoco su una vecchia poltrona comoda, quell’essere di tipo sgradevole. Aveva una gobba che non era colpa sua, e uno sguardo acido. Fumava una lunga pipa, con le labbra sprezzanti. Aveva pochissimi capelli in faccia, anche se non si radeva; l’orecchio sinistro era così rotto da sembrare appuntito. Il suo sorriso beffardo veniva completato dall’espressione astuta dei suoi occhi. Le sue gambe erano sottili come stecche; ne teneva una incrociata sull’altra. I suoi stivali avevano i lati elastici, e orribili etichette davanti e dietro. Sopra indossava calzini grigi, sottili e rugosi. Non si girò nemmeno quando entrammo; non ci salutò.
+
+Durante questo indimenticabile viaggio, la nostra abitudine era quella di essere cortesi con tutti, ma senza stabilire alcuna intimità. A meno che non si consideri tale “intimità” il momento in cui il Poeta gettò della birra su un filosofo per “battezzarlo” e farlo svegliare in un nuovo mondo, come leggerete più avanti.
+
+Quindi ci sedemmo goffamente intorno al bordo del tavolo: il Poeta all’estremità opposta alla finestra che dava sul cortile delle stalle; io accanto a lui, all’angolo; dopo di me il Marinaio, e ancora oltre Grizzlebeard, che sembrava l’unico tra noi completamente soddisfatto. Non pareva affatto infastidito dalla presenza di quella creatura vicino al fuoco; anzi, sembrava immerso nei ricordi suoi personali, con lo sguardo che andava oltre le mura. Noi, i più giovani, tamburellavamo leggermente sul tavolo in attesa che venisse portata la birra; poi iniziammo a chiederci quali vini potessero esserci in una casa così antica. Il Poeta e il Marinaio si misero a raccontare bugie a turno: il Poeta parlava di vini rari che aveva trovato nelle case dei ricchi, mentre il Marinaio menzionava vini che non esistevano nemmeno nei porti lontani, al di là dei pericoli immensi degli oceani. Grizzlebeard, ascoltandoli confusamente, disse che suo padre aveva comprato un Tokay nel 1849 a 204 penny la dozzina. Anche questa era una bugia. E io, per compiacerli, parlai di vini veri. In particolare di quello che viene prodotto all’interno della pelle di capra nella regione di Val d’Aran, Sobrarbe, e dalle radici dell’Aragona: il vino più disgustoso, ma anche il più tonico al mondo, pieno del “potere” stesso della capra.
+
+Mentre parlavamo così (in modo tranquillo, per non offendere nessuno), arrivò la birra e la nostra conversazione si spostò sul prezzo dei vini, poi su coloro che potevano permetterseli, quindi sui ricchi, e infine sugli estremamente ricchi. Alla fine il Poeta disse:
+
+Vorrei essere molto ricco.
+
+E così, per la frustrazione di tutti noi, quel tipo sgradevole accanto al fuoco tirò fuori dalla bocca il suo lungo e stupido pipa, soffiò fuori dalle labbra una piccola nuvola di fumo blu senza consistenza, e disse:
+
+“Uff… Come si definisce essere molto ricchi?”
+
+Il Poeta, per natura, era una persona indecisa e si spaventò quando qualcuno gli parlò all’improvviso, e inoltre qualcuno così orribile! Così rispose in modo vago:
+
+“Oh! Non dover pensare a nulla; non trovarsi mai in pericolo di perdere l’onore; poter prendere ciò che si desidera dal proprio portafoglio e pagare tutto ciò che si vuole, aiutare i bisognosi, viaggiare o riposare quando si ha voglia, ” Poi aggiunse, come fanno le persone dotate di un'immaginazione infinita e piene di desideri: “I miei bisogni sono pochi.”
+
+Forse stava pensando a una grande casa situata su una collina a est, che potesse godere di una vista sul Mar Mediterraneo e allo stesso tempo essere facilmente collegata a Londra; al contempo, però, doveva rimanere completamente isolata dal resto del mondo. Intorno a quella casa ci sarebbero stati esattamente quante persone desiderasse avere lì, tutte a sua disposizione.
+
+“Seduto accanto a lui, ho ripreso la conversazione come se fosse un gioco di carte, e ho detto…”
+
+“Non è possibile farlo! Quando si desidera la ricchezza, per natura si desidera ciò che l’uomo permette e controlla.”
+
+“Stai quindi desiderando…”
+
+“Non predicare!” disse la persona vicino al fuoco. Il marinaio, per rendere le cose più piacevoli, iniziò a parlare in fretta:
+
+“Se fossi molto ricco, vorrei alcune cose precise, proprio come ha detto questo signore,” disse agitando le mani verso di lui per evitare qualsiasi situazione sgradevole. È un modo che hanno loro, lì nella cabina di pilotaggio.
+
+“Non è stato lui a dirlo… Sono stata io”, mormorai.
+
+A quel punto il Marinaio diede un calcio vigoroso e deciso sotto il tavolo, come segnale, e afferrò il Poeta, che iniziò a urlare ad alta voce. Solo allora la persona accanto al fuoco si mosse, facendo un solo gesto: girò rapidamente la testa e strinse gli occhi, senza muovere nemmeno un muscolo del corpo, ma guardando intorno come fanno gli animali e muovendosi come fanno gli animali.
+
+“Vai avanti!” ordinò.
+
+Il marinaio era un uomo combattivo; ma riuscì a controllarsi e procedette gradualmente nel suo percorso. “Oh! Mi piacerebbe organizzare grandi cene con frequenza e andare a teatro.”
+
+“Una frase sciocca, ma purtroppo vera… L’ha corretta, aggiungendo:…”
+
+“Vorrei avere una piccola casa allegra, e cinque, dieci, venti, trenta, o forse cento acri di terra; su quella terra dovrebbe esserci del legno. Detesterei vivere vicino a una ferrovia, quindi avrei un’auto; devo assolutamente avere un telefono, ma non deve permettere alle persone di venire da me, quindi avrei un cavo telefonico privato che si estendesse per chilometri. Inoltre, bisogna disporre d’acqua nel proprio terreno. Vorrei anche l’elettricità negli uffici, ma nelle stanze ci vorrebbero le candele.”
+
+Quando ebbe raggiunto quel punto, l’uomo vicino al fuoco girò la testa per guardare Grizzlebeard. Il marinaio si fermò, sorpreso; Grizzlebeard, credo un po’ spaventato, disse rapidamente:
+
+“Davvero, non lo so! Non credo di voler essere molto ricco. Immagino che secondo qualsiasi criterio sia considerato ricco. La mia casa ha ventitré stanze, compresa quella vecchia cucina che ora funge da cantina. Ho anche circa quattro acri di terreno coltivabile, e tantissimo altro terreno non ancora utilizzato. Sono anche un gentiluomo. Posso ospitare quanti amici vogliano venire a trovarmi. Ho quattro cavalli, denaro in banca e nessun debito. Taglio da solo la legna che uso, costruisco con il mio stesso legname e estrago anche la pietra dal mio terreno. Davvero, non ho bisogno di nient’altro!”
+
+“Comunque, si ricordò di qualcosa e disse…”
+
+Sarebbe una cosa buona aiutare le nazioni. Sarebbe una cosa buona dare diritti civili a quelle nazioni intrappolate nella rete infernale degli usurai.
+
+Era in silenzio. Molti ricordi gli attraversarono la mente, ma era troppo vecchio per credere che si potesse fare molto sul mondo; e poi, come potevano i soldi cambiare qualcosa di fronte alle abominazioni del mondo?
+
+Fu il Marinai ad avere abbastanza coraggio per affrontare quel tizio seduto in sedia.
+
+“E cosa faresti,” disse con aggressività, “se fossi molto ricco?”
+
+L’Uomo sulla Sedia non si mosse.
+
+“Sto parlando con lei, signore,” disse il marinaio in tono deciso.
+
+“Lo so,” ringhiò l’Uomo sulla Sedia in modo inumano. Poi, proprio prima che il Marinaio esplodesse, aggiunse: “Dovrei sedermi qui su questa sedia, fumare questa pipa con questo stesso tabacco e guardare questo stesso fuoco. È quello che dovrei fare. E voi quattro uomini sareste dietro di me.”
+
+“Oh, davvero lo faresti, vero?” disse il Marinaiolo. “E come fai a sapere che resteresti esattamente com’eri prima?”
+
+“Perché sono già molto ricco,” disse l’Uomo sulla Sedia con una voce metallica e bassa, piena di soddisfazione meschina, “Sono estremamente ricco. Ho più soldi di qualsiasi altro uomo nella grande città del nord dove sono nato. Sì, sono abbastanza ricco.” Si sporse in avanti verso il fuoco per un momento, poi tirò fuori una carta e la gettò al Marinaio.
+
+“Quello è il mio nome,” disse lui. E noi gli dicemmo “Buon giorno”, poi tutti uscimmo.
+
+Prendemmo la strada per non passare attraverso Wiston Park; perché, anche se quella casa è uno spettacolo altrettanto bello di qualsiasi altra in Inghilterra, beh, non era nostra. Superammo anche quel campo dove il Santo trasportava sua madre su un carretto e malediceva i falciatori; per questo motivo lì piove sempre durante la stagione del taglio dell’erba.
+
+Perché lui era, come si suol dire in quelle regioni, un Uomo Santo e possedeva grande potere. Ma poiché era molto povero, nessuno se ne accorgeva. Prima di tutto, seguendo Dio, vendette la sua motocicletta per comprare una carrozza a cavalli; poi vendette quella carrozza per acquistare un carretto a ruote; successivamente vendette anche quel carretto per ottenere un vecchio veicolo malandato, graffiato dalla vernice e in pessime condizioni. E continuando a servire Dio, non gli uomini, vendette anche quel veicolo e il suo cavallo, per comprare una carriola. Doveva pur trovare il modo di portare sua madre anziana in chiesa. Tutto ciò accadde nell’anno del Signore 713: subito dopo che il Sussex abbracciò la fede cristiana, e centinaia di anni prima che questa venisse nuovamente persa. E poco prima che San Leonardo maledicesse i usignoli.
+
+So che stava portando sua madre in chiesa con il carretto quando le persone che raccoglievano l’erba si misero a ridere di lui mentre passava; il Santo disse: “Ridete voi, ma il cielo piangerà”. E immediatamente su quel campo cadde solo due pollici di pioggia in mezz’ora, e quella pioggia colpì le aree già pronte per la raccolta dell’erba. Oh mio Dio, quanto imprecarono e maledirono! Da quel giorno in poi, che sia a maggio o a giugno quando arriva il periodo della raccolta dell’erba, su quel campo piove sempre durante quella stagione.
+
+Ora che avevamo percorso circa un miglio da Steyning e ci eravamo imbarcati sulla strada di Washington, il marinaio si ricordò della carta e la tirò fuori; su di essa era scritto.
+
+Il signor Deusipsenotavit, di Brooks.
+
+Il marinaio la guardò subito in su, in giù, di lato, e poi la tenne davanti alla luce per poterla esaminare anche attraverso di essa; dopodiché disse:
+
+“È un nome straniero.”
+
+“Grizzlebeard lo prese e, dopo averlo esaminato attentamente, disse…”
+
+“È un nome basco: è di tipo agglutinante.” E poi tutti insieme andammo a Washington, parlando di mille cose diverse.
+
+Mentre parlavamo così, apparvero dall’orlo delle alte colline che si ergevano come un muro sopra di noi; dalle nuvole veloci spinte dal vento sud-ovest iniziarono a cadere le prime gocce di pioggia. E il Poeta disse:
+
+“Cosa? Dobbiamo proprio proseguire per questa strada mentre piove?”
+
+Il Marinaio: “Sì, certo, ragazzo mio! A che altro servono le strade, se non per far sì che un uomo debba faticare molto nel attraversare terreni umidi?”
+
+Il Poeta: “Beh, dico che per ogni cosa c’è il suo momento giusto. E il tempo della pioggia non è certo il momento adatto per camminare su una strada.”
+
+Il Marinaio: “Allora vuoi dire che giorni autunnali come questi non dovrebbero essere apprezzati appieno, né ci dovrebbero offrire tutti i loro benefici, ma che dobbiamo semplicemente morire di sete senza mai assaporare l’aria fresca del Sussex sotto la pioggia?”
+
+Il Poeta: “No, lo dico ad alta voce: ci sono giorni per ogni cosa, anche se non sappiamo il motivo. Ed è proprio per questo che non mi raserò mai di domenica, perché la considero una giornata sfortunata.”
+
+“Avrete sicuramente notato, in tutta l’Inghilterra, uomini che presentano piccoli peli rigogliosi soltanto sulle labbra superiori; altri hanno barbe folte e disordinate come quella di Grizzlebeard, mentre altri ancora hanno barbe consumate dai parassiti. I peggiori di tutti, comunque sia: sono certi che ognuno di loro si rade, almeno una volta alla settimana, il giorno della domenica.”
+
+“È un giorno di riposo, e non esiste lavoro più faticoso del radersi. È un giorno di dignità, e non esiste occupazione più disgustosa, con espressioni torve e facce accigliate, del radersi. Quindi dico: ‘Per ogni cosa c’è il suo momento giusto, tranne che per seppellire i morti.’”
+
+Io stesso. “Ecco fatto! Ed era proprio quello che stavo per dire, i giorni possono essere davvero molto diversi a seconda delle circostanze! Non dice forse il vecchio detto, ”
+
+“Sepolto di lunedì… sepolto per motivi di salute.”
+
+Sepolto di martedì… sepolto per il proprio denaro.
+
+Sepolto di mercoledì… sepolto con calma e tranquillità.
+
+Sepolto di giovedì… sepolto per puro piacere.
+
+Seppellito di venerdì… sepolto per divertimento.
+
+Sepolto il sabato… sepolto in un luogo solitario.
+
+Il Marinaio. “Perché?”
+
+Io stesso, “Ecco che mostri davvero chi sei: un uomo che segue il mare. Qui sulla terra, infatti, smettiamo di lavorare alle dodici di sabato. Sono preti, becchini, portatori di bara, piangenti e tutti gli altri che con grande disponibilità si occupano dei morti dalle sette alle cinque del pomeriggio, ma pretendono comunque la loro mezza giornata libera. Ma voi marinai, potete anche passare tutto il sabato a poltrire, finché non vi diventa nero in faccia. Un altro si occuperà del vostro tempo! E anche se venisse approvata una legge che vi obbligasse a stare a letto dalle otto di sabato pomeriggio fino all’ora di guardia di lunedì, come facciamo noi sulla terra, quell’altro vi farebbe schizzare via con un fischietto prima ancora che riusciate ad accendere le vostre pipe. Andate pure a farvi fottere! Guardate? Vi guarderò comunque, che lo vogliate o no. Andatevene e divertitevi pure. Correte su e legateli bene, finché non vi congelano le mani. Tirate, voi scansafatiche. Strisciate per il cortile come una fila di acrobati in fiera. E poi legatevi bene e andatevene al diavolo! Meglio per voi che per me, ”
+
+“Allora la canzone continua (per noi, felici persone sulla terra; per voi in mare, potete morire e annegare come volete):”
+
+“Sepolto domenica dopo le undici…”
+
+“Se ottieni il prete, arriverai in paradiso.”
+
+Grizzledbeard: “È una pura follia… L’assoluzione è riservata agli uomini vivi.”
+
+Io stesso, “Ecco fatto, Grizzlebeard: parli senza pensare, confondi le cose e distruggi ogni logica, proprio come quel Maligno! Discorsi esegetici, neoscolastici, ipografi. La fine della vera religione. Vecchio mio, sii gentile: benedire un cadavere non fa mai del male a nessuno, anzi è un grande conforto per gli spiriti angosciati. Con le tue decisioni, continui ad andare dritto verso l’eresia. Sei caduto in uno stato terribile e febbrile. Riparati ancora in tempo! Altrimenti, forse quando morirai, non ci saranno candele intorno al tuo feretro, né un grande drappo nero decorato con lacrime d’argento, né un vescovo per benedirti. Chissà. Forse nemmeno un monaco, un parroco, o anche solo un umile curato del castello, ”
+
+“Quando la morte ti colpirà, Grizzlebeard, vorrei che scrivessi in grandi lettere nere su una grande lavagna bianca: ‘Quest’uomo credeva’, e che lo appendessi al collo prima di morire. In questo modo non ci saranno errori.”
+
+“Vi assicuro che in questa faccenda vengono commessi degli errori. Un uomo, sebbene segretamente devoto (veniva dalla vicina mia fattoria), fu comunque sepolto a causa di un simile errore, e questo avvenne con le sole preghiere. Così dovette andare a tormentare i Normanni (così chiamavano quella casa) sulla strada di Dial Post. E credetemi, fu davvero una brutta esperienza! La gente che viveva in quella casa aveva paura dei fantasmi; e ogni volta che quell’uomo camminava – anche se lo faceva con estrema delicatezza – loro lanciavano urla spaventose, tanto che lui finiva per tremare e sudare. Povero spirito! Fino a quando coloro che incaricavano i morti di compiere tali “compiti” non ebbero pietà di lui e lo lasciarono andare a tormentare la Marine Parade a Worthing, dove nessuno gli badava più.”
+
+Il Poeta. “Allora, come riuscì finalmente a riposare?”
+
+Io stesso. “Perché, nel solito modo: disegnando un pentagono sulla sabbia e sacrificandovi al centro una gallina bianca pura. L’ho fatto.”
+
+Il Marinaio. “È meglio così, perché ha smesso di piovere.”
+
+Ed è proprio così che è stato. A nostro vantaggio, e anche perché abbiamo cambiato idea.
+
+Per tutto il cammino sotto Chanctonbury, su quella collina alta, proseguimmo man mano che l’alba si diffondeva: lungo una strada molto più antica di qualsiasi altra al mondo; una strada che parte dal vecchio porto di Pevensey, attraversa la Valle di Glynde, Cuckmere e il fiume Ouse, per poi raggiungere l’altopiano di Lewes, costeggiare il bordo della Combe e scendere fino alla cresta sottostante le colline delle Downs, passando per Court House, Plumpton Corner, West Meston, Clinton e Hollow Pie Combe (sebbene tra queste due località la strada si dirami e poi si ricongiunga, formando un’isola con il Wolstonbury Hill); quindi proseguiamo attraverso Poynings, Fulking ed Edburton, fino al punto in cui il fiume viene attraversato e al Forte di Bramber; e così via, sempre sotto le colline delle Downs, fino ad arrivare ad Arun, presso Houghton Bridge, per poi passare per Bury, Westburton, Sutton, Duncton, Graffham, Cocking, Diddling e Harting, tutti nomi tipici del Sussex, luoghi in cui l’acqua pura, filtrata attraverso la calcarea delle alte colline, zampilla fuori in fontane, alimentando quelle terre e quegli insediamenti umani. Lungo quel percorso, tra muri e alberi che sembravano altrettanto antichi della strada stessa, parlammo di tutte le cose di cui gli uomini parlano, perché gli uomini sono fatti per parlare e per condividere la vita. Fino a quando non arrivammo all’incrocio di Washington; e lì, dissi ai miei compagni:
+
+Me stesso. “Hai mai sentito parlare di Washington Inn?”
+
+Grizzlebeard. “Sì, certo, tutto il mondo ne ha sentito parlare; e quando Washington del Virginia, un generale in terre lontane, radunava il suo esercito molto tempo fa, le persone che udivano il suo nome dicevano: ‘Washington?. Washington?. Conosco quel nome.’ Poi ricordavano l’osteria di Washington e sorridevano. Perché la fama è proprio così: si diffonde attraverso i nomi.”
+
+Il poeta. “Allora, per quale motivo è famosa l’osteria di Washington?”
+
+Il Marinaio. “Non per una canzone, ma per colui che le crea… Lo scoprirai presto.”
+
+E quando ebbe detto questo, entrammo tutti insieme e, nell’osteria di Washington, decidemmo di mettere alla prova se quanto tante persone avevano cantato di quella birra fosse vero o meno. Ma appena il marinaio posò la sua brocca a terra, gridò ad alta voce:
+
+“È vero, e io ci credo!”
+
+Poi continuò: “Senza alcun dubbio, questo nettare è stato prodotto durante la fase crescente della luna e con quell’orzo che Bruto portò qui alla fondazione di questa terra! L’acqua utilizzata per prepararlo era la rugiada del Primo Maggio, quella che cade sull’erba prima dell’alba di una mattina di maggio. Poiché possiede tutte e sette le qualità tipiche della birra, ”
+
+Aleph = Chiarezza; Beth = Sapore; Gimel = Un colore vivace; Daleth = Leggerezza; He = Profondità; Yod = Forza conservata; e infine, Zayin, che rappresenta la Perfezione e la Fine.
+
+“Credo che fosse proprio alla ricerca di questa birra che Alessandro si spinse fino al fiume Indo, ma morì miserabilmente a causa di un attacco di colica nel fiore degli anni, perché non riuscì a trovarla.”
+
+“Cercando questa birra, credo fosse proprio quella che spinse Carlo Magno a viaggiare in tutte le direzioni, Nord e Sud, Est e Ovest, per tutta la sua vita, in quelle numerose guerre di cui potete leggere negli antichi libri; infatti visse fino a duecento anni. La sua barba si fece bianca come schiuma marina e intricata; i suoi occhi, per l’età, divennero vuoti. Eppure non volle mai abbandonare la ricerca di quella birra chiamata ‘Mitchell’s Ale’, che si vendeva a Washington. Ma non riuscì a trovarla, e alla fine morì di delusione.”
+
+“Sentendo parlare di questa birra da un Familiar, Aldabaran si recò a Saragossa sotto mentite spoglie e vi trascorse dieci anni interi pianificando come ottenerla dall’Emiro di El Kazar, che era in alleanza con il Male; poi, nel momento stesso del suo trionfo, mentre stava aprendo la porta di quel seminterrato, un schiavo guardiano lo uccise con una spada, e la sua anima se ne andò, lasciando la botte intatta.”
+
+Anche San Offa, di Swinestead in Mercia, che svenne al solo pensiero di quella birra che demoni tentatori gli avevano fatto annusare in sogno, rischiò di perdere la salvezza sua. Lasciò il suo eremo e si recò oltre Kent, attraverso i mari stretti fino ai Paesi Bassi, vagando avanti e indietro per sette anni; alla fine, a causa della mancanza di quella bevanda, perse la ragione e iniziò a delirare. Tuttavia, alla fine fu assolto a Roma.
+
+“Allora c’è Orlando, il cui furore fu suscitato soltanto da un ardente desiderio di bere proprio questa birra. Poiché aveva condotto una vita tranquilla come calzolaio ad Upper Beeding, finché per caso non sentì parlare di questa birra; all’istante decise di andarla a cercare. Ed è così che intraprese tutte le sue imprese eroiche, ma anche che subì ferite e, alla fine, morì senza mai aver assaggiato quella birra.”
+
+“Devo menzionare Gastos o Clemens? Artaxerxes, Paolo o Ramon, che tutti hanno atteso e desiderato invano questa cosa? O ricordare Prassitele o Zenone suo cugino, Periscopolo il Pirata, Basilio di Cirene o Milo? Anche loro hanno sprecato le loro energie in quell’unico scopo. Ma a me, che sono più nobile di tutti loro, è stato concesso di assaporarlo; ora so che risolve ogni dubbio, e andrò incontro alla mia grande morte sorridendo. È la soddisfazione di ogni desiderio, la vera fine di tutte le filosofie: per gli Epicurei, perché rappresenta una felicità definitiva; per gli Stoici, perché mi rende indifferente a tutto ciò che è terreno; per i Hegeliani, perché, è semplicemente “esso”. E nelle sue profondità vedo la conclusione di ogni desiderio, rimorso, ricordo, aspettativa e meraviglia. È ciò di cui cantavano i grandi poeti, quando dicevano che anche il tempo stesso dovrebbe dissolversi. Di questo, il più grande di loro ha scritto, ”
+
+“Fino a quando un momento eterno non fermerà i suoi poteri…”
+
+“Quando il tempo è passato, tutto il tempo trascorso diventa nostro.”
+
+È davvero una buona birra; e quando lasceremo le nostre valli, la berremo tutti insieme in Paradiso.
+
+Grizzlebeard. “Hai ragione.”
+
+Il poeta. “Sì, lo sei.”
+
+Io stesso. “Stiamo tutti bene insieme.” Grizzlebeard. “Non c’è da meravigliarsi che persone del genere, o peggio ancora, abbiano combattuto per dieci lunghi anni intorno a Troia; né che, nutriti da questa realtà regale, gli uomini del Sussex in passato abbiano sconfitto tutti i loro nemici e si siano stabiliti saldamente su questa antica terra.”
+
+Io stesso. “Sì, certamente! Cadwalla, che fu il primo Re del Sussex a conoscere la vera Fede e che si guadagnò per sempre l’affetto di San Wilfrid e del Papa donando al primo diecimila, e al secondo ventimila barili di questo meraviglioso nettare di Cervisia, così ammirevole da non poter essere mai abbastanza lodato (la sua tomba si trova a Roma), fu spinto ad estendere il nostro potere anche oltre il mare, fino all’Isola di Wight. Una volta sottomessa quella terra, fece uccidere i due principi eredi al trono. Conquistò tutto il Sussex e tutto il Kent, e divenne un sovrano potente prima ancora dei trent’anni. Tutto grazie alla birra prodotta da Washington, la birra di Mitchell del Washington Inn! Che potenza incredibile!”
+
+Mentre facevo queste considerazioni, guardai fuori dalla finestra. E lì c'erano di nuovo le tempeste di pioggia.
+
+“Non inizieremo,” dissi, “sta piovendo.”
+
+Il poeta. “Ma proprio adesso…”
+
+Io stesso, “Oh, Poeta! Ci prenderai anche tu in giro con la logica, o forse non hai mai imparato nella tua breve vita come un uomo possa portare via un intero branco di cavalli per andare a giocare, mentre un altro nemmeno darebbe un’occhiata a una piccola siepe di acero appena alta quanto i suoi ginocchi. Ecco com’è! Lasciamo perdere giustizia e tutto il resto; sediamoci qui al caldo, nel mezzo del mondo, e lasciamo che sia Grizzlebeard a parlare. Lui ha vissuto più a lungo e sa di più. Eppure non ci ha mai raccontato nessuna storia, né cantato nessuna canzone.”
+
+“Ci avete raccontato,” disse Grizzlebeard con piacere, “la storia di Cadwalla, che possedeva quel nobile istinto imperiale che lo spingeva a cercare nuove opportunità anche all’interno dei confini del suo regno del Sussex; partì quindi per attraversare il mare e guidare quella grande spedizione finalizzata a conquistare e annettersi l’Isola di Wight, uccidendo in modo spietato i due principi che ne erano eredi. La vostra storia mi ha fatto pensare a tutte quelle altre occasioni nella storia in cui le armate e gli stendardi di questa immortale contea si sono fatti vedere in terre lontane.”
+
+Il Marinaio: “È interessante che tu sappia così tanto, caro Grizzledbeard. Ma quelle sono cose lontane nel tempo, e non abbiamo alcuna testimonianza concreta al riguardo.”
+
+Io stesso. “Tuttavia, Grizzlebeard, poiché siamo già sul questo argomento, spesso mi sono chiesto come mai la nostra contea sembri superare costantemente i propri confini naturali, estendendosi a nord, a est e a ovest nel territorio altrui; difendendosi, in qualche modo, con territori che non le appartengono, e preservandoli come simboli e garanzie della sua grande potenza militare.”
+
+Il Poeta: “No, senza dubbio la contea del Sussex si sarebbe estesa verso sud se non fosse stata delimitata dal mare, che non tollera l’ingresso di alcun uomo.”
+
+Il Marinai: “Piuttosto si potrebbe dire che non ci sia stata alcuna annessione verso sud, perché il mare salato, essendo inutilizzato, non offriva nulla di valore da annettersi; ma comunque sia, i pescatori del Sussex non vogliono che stranieri si intromettano nelle loro zone di pesca. Dall’Owers Bank fino a Dungeness, se di notte chiamate una barca da pesca, vi risponderanno nel modo tipico del Sussex. In quel mare non sono tollerati uomini provenienti da altre regioni marine.”  
+Io: “Vorrei ancora chiedervi, Grizzlebeard. Poiché siete il più anziano di noi e possedete in casa tanti documenti e registri, per non parlare delle antiche tradizioni di questa terra inviolata. Come mai il Sussex ha sovranità su quelle zone che si estendono oltre la palude del Rother e oltre le colline da cui nascono i fiumi Adur, Arun e Ouse? Spesso ho osservato quella vasta area priva di confini propri, al di là di Crawley. Tutti gli abitanti sembrano appartenere alla contea di Surrey, eppure sulla mappa è indicata come Sussex. Come mai siamo noi i padroni non solo dei nostri fiumi, ma anche delle sorgenti dei fiumi Snouzling Mole, Royal Medway e altri corsi d’acqua minori?”
+
+“Per coincidenza,” rispose Grizzlebeard con immensa soddisfazione, “so rispondere a quella domanda. Questo grande evento ebbe luogo più o meno nel periodo in cui il tiranno Napoleone perseguiva le sue meschine ambizioni tra le nazioni povere del Continente; ebbe origine proprio in quella parte tanto amata di questa contea, da dove anch’io provengo e dove sono nato: intendo dire le zone intorno a Hailsham, dove le pianure si affacciano sul mare. Lì il destino della nostra contea è stato deciso due volte. Poiché inoltre la storia completa di quella grande battaglia è conservata nei diari e negli archivi della mia famiglia, sono perfettamente qualificato per raccontarvela. Per le prossime ore ve la narrerò dettagliatamente. Anche se piove e poi spunta il sole, continuerò lo stesso: questa storia mi è molto cara. Continuerò all’infinito, mentre voi sbadigliate e vi stiracchiate; anzi, anche se mi supplicherete di smettere o cercherete di costringermi, proseguirò fino a quando non l’avrò conclusa.”
+
+“Dovete quindi sapere che il re che governava il Sussex in quel periodo aveva quarant’anni e regnava da ventidue anni; un uomo non solo maestoso, ma amato da tutti, e particolarmente premuroso nei confronti dei consumatori di alcol prodotto con malto. Tuttavia era anche un rigido governatore per gli produttori di birra (che Dio riposi la sua anima!). In quelle zone circolava una canzone che parlava del tiranno Napoleone e delle sue vanterie: si diceva che, dopo aver conquistato Prussia, Russia, Polonia, Olanda, tutta l’Italia e la Spagna, avrebbe sfidato anche il potere del Sussex prima di porre fine alle guerre. E questa canzone, lasciate che ve la canti, recitava più o meno così.”
+
+Con questa sua barba grigiastra, Grizzlebeard si schiarì la voce e intonò con armonia i seguenti versi virili, seguendo esattamente la melodia su cui, senza eccezione alcuna, sono state composte tutte le canzoni del Sussex fin dai tempi antichi: quella melodia chiamata “Golier”.
+
+"#Se Bonaparte..."
+
+Shud Zummon d’Eart
+
+"To land on Pevensey Level,"
+
+Ho due figli maschi
+
+Con le nostre tre pistole
+
+“Per scagliare una maledizione sul diavolo.”
+
+“È davvero così,” continuò Grizzlebeard, quando le lunghe note della sfida si furono attenuate, “una canzone molto nobile e ispiratrice; al suo confronto, ‘To the North, Merry Boys’ non è altro che musica da sala da ballo, mentre la ‘Marseillaise’ sembra solo un grido emesso con una flauta da un penny.”
+
+“Ora questa canzone,” continuò, “essendo per sua natura un inno di vera virtù e gloria, non poteva che diffondersi ampiamente tra le persone. Si diffuse in tutta la nostra contea: fu conosciuta e commentata a Lewes, nel castello stesso del re; proseguì poi verso est, lungo la costa, fino a Hastings, e oltre ancora, fino alle rive del fiume Brede e oltre il Brede, fino a Rother, che all’epoca rappresentava il confine di questa regione. Poiché in quei tempi non avevamo ancora iniziato a stabilire leggi per East Guildford, situata sulla sponda sinistra della foce del fiume.”
+
+“Per pura coincidenza, quel testo si diffuse: forse attraverso le parole dei mercanti ambulanti, oppure stampato su fogli volanti e venduto nei loro banchetti lungo tutto il valle del Rother e tra la gente del Kent. Presto divenne noto ad Appledore, Small Hythe e in altri luoghi, fino a raggiungere Goudhurst stesso, che sorge su una collina. Ed è proprio lì che la sfortuna attendeva quegli uomini del Kent, sempre orgogliosi e testardi, nonostante si affidassero a San Tommaso di Canterbury e ad altri saggi personaggi, e negassero con fermezza di avere la coda. Infatti, non avevano affatto senso dell’umorismo, proprio come si potrebbe trovare in un custode di cattedrale. Ecco tutto riguardo al Kent.”
+
+“Beh, allora, quando questa grande canzone arrivò a Goudhurst, dove si trova sulla sua collina, gli uomini del Kent, nella loro orgoglio e follia, o forse soltanto nella loro ignoranza (perché non vorrei giudicarli male), la modificarono per adattarla ai propri scopi e vanità, e iniziarono a cantarla in questo modo:
+
+“Se Bonaparte…”
+
+Shud Zummon d’Eart
+
+"To land on Pevensey Level,"
+
+Ci sono tre uomini
+
+In Horsemonden
+
+“Gridirà contro il diavolo.”
+
+“Quale corruzione e degradazione di una tale nobile stirpe, cose che spesso ripetevano attorno ai loro bicchieri, la sera, nella sicurezza delle loro case nell’entroterra.”
+
+“Ora, quando la notizia arrivò nel Sussex e giunse al re, che sedeva nel suo castello di Lewes, riflettendo sulla propria grandezza e sull’immensità del mondo, faticava a credere alle sue orecchie. Che gli abitanti del Kent cantassero le loro canzoni e si comportassero come volevano, quando ne avevano voglia, be’, questo poteva ancora essere tollerabile; ma che prendessero quella canzone che rappresentava, in un certo senso, l’anima stessa del Sussex e la utilizzassero a proprio vantaggio, questo, secondo lui, era davvero insopportabile. E infatti, come ho detto, faticava a crederci.”
+
+“Quindi inviò molto cortesemente un araldo montato su un piccolo asino marrone e vestito con grande eleganza; quest’araldo si recò dal Re di Kent, che in quel momento sedeva – o meglio, giaceva – a tavola a Canterbury, mangiando. L’araldo soffiò forte nella tromba all’orecchio del Re di Kent e gli consegnò la lettera del Re di Sussex; dopodiché, spronando il proprio cavallo, se ne andò via con grande eleganza.”
+
+“Re di Kent, come potete ben credere, era completamente analfabeta; tuttavia a Canterbury non mancavano funzionari religiosi, quindi ne fece venire uno. Quest’ultimo, tremando, ruppe il sigillo su cui erano impressi gli stemmi del Sussex e lesse ad alta voce quanto segue al suo padrone, ”
+
+“‘Fratello Kent: Abbiamo sentito, anche se non vogliamo crederci, che alcuni dei tuoi sudditi (e giuriamo che senza il tuo sapere) abbiano preso in uso il nostro inno privato e lo cantano liberamente a Goudhurst e in altre tue preziose località; e che, non contenti di questa usurpazione del nostro diritto sovrano e delle legittime proprietà del nostro caro popolo (ci è stato persino detto, anche se la nostra anima si rifiuta di crederlo), abbiano modificato e degradato questo Inno Reale al punto di usarlo per lodare sé stessi, in particolare una località chiamata Horsemonden, di cui né noi né alcun altro abbiamo mai sentito parlare.”
+
+“Pertanto, fratello Kent, con questi documenti ti chiediamo di ordinare immediatamente e di proclamarlo attraverso gli araldi in tutti i tuoi domini: che tale pratica cessi immediatamente, altrimenti si subiranno terribili torture e la morte. Se davvero le informazioni che abbiamo sono corrette, questa pratica dovrebbe già essere stata abolita.”
+
+“Saluti e benedizioni fraterne. – Date da noi nel nostro castello di Lewes, il primo giorno della stagione di produzione della birra in ottobre, nell’anno 3010 da quando Bruto sbarcò a Troia e gettò le basi della nostra casata. – (Firmato) SUSSEX.”
+
+“Quando il Re di Kent ricevette questo messaggio, ordinò l’esecuzione immediata del sacerdote sfortunato (come è consuetudine in quella contea quando si tratta di chierici), ma non appena lo fece, si pentì dell’atto, poiché non sapendo scrivere dovette fargli redigere un altro messaggio. Così mandò a chiamare un altro sacerdote, il quale arrivò dopo molto tempo; quando giunse, gli ordinò di scrivere quanto segue:, ”
+
+“‘Fratello Sussex, una parola all’orecchio: forse non siamo molto istruiti, ma non tollereremo alcuna sciocchezza. Con una piccola parte delle nostre forze, sufficiente allo scopo, entreremo nel tuo territorio e lo devasteremo: bruceremo le case, i granai, porteremo via tutti i maiali e il bestiame; assalteremo anche il tuo castello, metteremo un nuovo vescovo a Chichester al posto del tuo, e insedieremo i nostri funzionari a Midhurst, Horsham, Arundel e in altri luoghi. Per quanto riguarda il tuo trono reale, lì metteremo nostro nipote. Ma tu, resterai incatenato.’ — KENT.”
+
+“Questa lettera fu inviata al Re del Sussex, il quale, dopo averla ricevuta, ritenne impossibile evitare la guerra.”
+
+“Tuttavia, nel suo cuore onesto e gentile, sperava che si potesse evitare questa ultima conseguenza; perciò inviò un’altra lettera, formulata in termini ancora più cortesi e rispettosi della prima, dichiarando di non desiderare altro che pace, insieme ai propri diritti e onori legittimi. Questa seconda lettera fu inviata tramite un araldo, proprio come la prima. Ma il Re di Kent fece giustiziare anche questo secondo araldo; quindi non rimase altra scelta se non quella di prendere le armi. Così il Re di Sussex radunò il suo esercito e ordinò che si riunisse entro quattordici giorni nel cortile della migliore locanda di Lewes, che all’epoca era chiamata ‘La Testa del Turco’, ma che in seguito fu distrutta da quei malvagi che odiano le locande e tutte le altre cose buone e amabili. Lì radunò il suo esercito, si assicurò che tutti fossero ben equipaggiati e li incoraggiò a mantenere alto il morale; poi si diresse verso Brede e si posizionò sulla sommità di quella collina, che da allora è stata chiamata ‘BATTLE’, rivolto verso il sole nascente.”
+
+“Era il 14 ottobre; i cuori di tutti erano gioiosi e pieni di entusiasmo, e ognuno era pronto a compiere le cose più terribili. Ma come iniziò la battaglia, come si svolse, quali meravigliose imprese furono compiute e quali effetti duraturi ne derivarono. Di questo dovrò raccontarvi ora.”
+
+Il poeta. “Mi piacerebbe ascoltare la versione del Kent di questa storia.”
+
+“Dovete quindi sapere che il Re di Sussex, essendo così schierato poco prima dell’alba sulla collina oggi chiamata Battle e guardando verso est oltre Brede, prima esortò tutti i suoi uomini con parole appropriate e li schierò abilmente in formazione, incitandoli a non rompere le file fino a quando non avessero sconfitto il nemico; una volta raggiunto questo obiettivo, avrebbero potuto inseguirlo liberamente. Dopo aver parlato così, notò che attraverso la valle stavano arrivando le truppe del suo nemico, il Re di Kent, armate di lunghi bastoni da battaglia e comportandosi in modo estremamente aggressivo. Anzi, mentre marciavano, cantavano con grande insolenza la canzone che aveva scatenato tutta questa disputa; in particolare, le truppe di Horsemonden, che formavano l’avanguardia, intonavano con particolare violenza le nuove strofe composte per la loro gloria.”
+
+“Anche se questa scena, come potete immaginare, rappresentava per gli uomini del Sussex qualcosa di estremamente offensivo e provocatorio, loro non mossero un dito né pronunciarono una parola. Con aria decisa e risoluta si arrotolarono le maniche delle braccia destre, sputarono sulle palme delle mani e impugnarono con forza i bastoni di legno con cui avevano intenzione di colpire duramente gli invasori dei loro felici focolari. In particolare, va menzionato il popolo di Hailsham, la mia cara città natale: quel giorno impugnavano bastoni così pesanti e ingombranti che dieci uomini moderni avrebbero faticato a sollevarne uno solo, tanto erano pesanti. Eppure riuscirono comunque a usarli con grande efficacia.”
+
+Ora gli uomini del Kent iniziarono a salire la collina; quelli del Sussex li osservavano in silenzio da sopra, prendendo ogni precauzione affinché non violassero le aiuole ornamentali né disturbassero i cespugli di quel gentiluomo che aveva permesso loro di schierarsi nei terreni dell’Abbazia di Battle. In quei giardini, infatti, si trovava la posizione indicata da tutti i grandi generali del suo stato maggiore al Re del Sussex; essi l’avevano definita “la chiave per la vittoria”. Anche se il re non riusciva a capire esattamente cosa significasse quel termine, era proprio lì che aveva schierato le sue truppe.
+
+“Quando gli uomini del Kent si resero conto dell’impennata della collina, il loro canto cessò; iniziarono a respirare affannosamente e a sudare; la loro formazione, ordinata con tanta precisione come se fossero pastori che guidavano il bestiame, andò completamente in disordine. Così, mentre i primi tra di loro, quelli più snelli, stavano già avvicinandosi agli uomini del Sussex, gli ultimi erano ancora impegnati a legarsi le scarpe vicino al ponte, o a discutere con il vecchietto in corduroy verde che sorvegliava il passaggio a livello sopra la ferrovia. Lui insisteva nel dire che era stata segnalata l’arrivo di un treno e che avanzare fosse estremamente pericoloso; ma loro protestavano, sostenendo che se solo li avesse lasciati passare attraverso il cancello laterale, situato accanto alle grandi porte della ferrovia, avrebbero potuto attraversare prima dell’arrivo del treno.”
+
+“Questo disordine e questa grave mancanza di capacità strategiche tra le file del Kent furono la rovina di quelle truppe, poiché tutti i libri sull’arte militare affermano che se una formazione viene spezzata, perde la sua forza. Ma, come potete immaginare, l’abilità strategica era interamente dalla nostra parte; la follia e la sfortuna appartenevano ai nostri nemici, i quali erano già stati destinati al completo disastro dal Dio delle Battaglie.”
+
+“Quando i primi di loro raggiunsero la cima della collina, tutti erano esausti per lo sforzo dell’ascesa; alcuni ricevettero colpi in faccia, altri sulle spalle, altri ancora forti spinte al petto; alcuni furono colpiti alla mandibola, altri vennero accecati da violenti pugni negli occhi o resi incapaci di pensare da abili ferite all’angolo della mascella. Il nostro re, e soprattutto i suoi consiglieri, generali e ufficiali, erano infatti grandi maestri dell’arte della guerra. In questo modo abile, dunque, gli uomini più valorosi del Kent furono sconfitti con astuzia; alla fine, l’intera avanguardia fuggì in preda al panico, gettando nel caos anche le altre centinaia di soldati che ancora si stavano arrampicando sulla collina. Tra i soldati del Kent non rimase più alcuna volontà di combattere, tranne in pochi (e il loro re era tra questi); essi si rifugiarono in una stanza al piano superiore di un’osteria vicino a Brede, gridando incoraggiamenti e minacce, esortando i soldati sottostanti a mostrare coraggio. Ma questi ultimi, pensando più ai colpi che ricevevano che alle parole dei loro comandanti al sicuro lassù, fuggirono tutti insieme in preda al terrore, diffondendo voci secondo cui i loro inseguitori non erano uomini ma demoni. Mentre correvano, gettarono a terra le loro pertiche per aumentare la velocità; alcuni si tolsero i cappotti, molti persero i cappelli durante la fuga. In breve, tutto si trasformò in un disastro totale.”
+
+“Come potete immaginare, a quel punto gli uomini del Sussex avevano ricevuto l’ordine di attaccarli senza pietà. E così fecero, colpendo brutalmente gli uomini del Kent con i loro rami di salice, radunandoli e spingendoli verso il stretto passaggio del ponte a livello; tutti urlavano e si spingevano l’un l’altro, soprattutto quelli più in pericolo, che erano stati colpiti dai rami di salice, mostrando un’eccessiva fretta di allontanarsi da quel luogo.”
+
+“Finalmente, il treno di cui avevo parlato passò, e l’uomo con i pantaloni di velluto verde che sorvegliava il passaggio a livello acconsentì ad aprire i cancelli; tutti si riversarono fuori in un gran flusso, correndo per salvarsi la vita. Metà degli uomini del Sussex li inseguì, disperso il nemico in tutte le direzioni, mentre l’altra metà rimase indietro a Brede, per uno scopo che vi spiegherò tra poco.”
+
+Gli uomini del Kent, essendo stati sconfitti e dispersi in tutta quella regione, alcuni trovarono rifugio nel bosco di Egham, altri fuggirono verso Inkpin; quelli più decisi, ma non necessariamente i più coraggiosi, si impegnarono al massimo per difendere Robertsbridge, mentre una dozzina di loro finì nelle mani del nemico a Staplecross. Così, tutta quella zona fu piena di uomini nascosti o accovacciati; alcuni riuscirono a fuggire, altri furono catturati, ma nessuno riuscì a riorganizzarsi o a dimostrare di essere in grado di riprendere le operazioni militari.
+
+Nel frattempo, il loro re e il suo seguito, essendo circondati in quell’ostello, si arresero secondo condizioni che il Re del Sussex, con il suo nobile e generoso cuore, non avrebbe reso troppo severe.
+
+“Il primo articolo di questo trattato prevedeva che, per ogni prigioniero rilasciato, il Tesoro del Kent dovesse pagare la somma di un scellino, a meno che non si trattasse di un gentiluomo del Kent; in tal caso, la riscatto ammontava a mezza corona. Fino al pagamento della somma richiesta, i prigionieri dovevano rimanere in custodia.”
+
+“Poi il secondo articolo stabiliva che gli abitanti del Kent dovessero pagare al Re di Sussex 100 sacchi di luppolo all’anno come tributo; questa usanza è continuata fino ai nostri tempi e non si è interrotta finché il luppolo non è diventato così economico da non valere più la pena trasportarlo da confine del Sussex a Lewes.”
+
+“Ma il terzo articolo, che ci riguarda di più, stabiliva che la riva destra del fiume Rother, partendo da Wittersham, attraversando il canale e proseguendo lungo il confine di Wallingmarsh fino alla costa marittima, passasse dalla Corona di Kent a quella di Sussex, per rimanere in possesso del Re di Sussex e dei suoi eredi per sempre. Ed è così ancora oggi. A questa nuova terra di frontiera, il Re di Sussex le diede il nome di ‘Guildford Level’, perché effettivamente era pianeggiante, e in onore della città di Guildford nel Surrey, che costituiva la dote di sua madre. Lì costruì East Guildford, la fondò e la dotò di risorse. Tuttavia non prosperò mai; per questo, quando si parla di Guildford, di solito ci si riferisce a quella nel Surrey, poiché è la più grande delle due città. Il Re di Sussex costruì anche un faro in questa nuova provincia per i marinai; avendo ormai entrambi i lati del porto di Rye, lo approfondì e dragò il fondale, trasformandolo nel luogo navale reale che conoscete. Lontano in mare, dove inizia il canale navigabile, piantò un vecchio manico di scopa nella sabbia, con l’estremità del manico sopra le acque, in modo che nessuno potesse perdere la rotta. Ed è ancora lì oggi, una vera benedizione per i marinai.”
+
+“Quando il Re del Sussex ebbe fatto tutte queste cose, tornò [[motifs/home|a casa]] nel suo castello di Lewes, ma non prima di aver mangiato e intrattenuto con grande magnanimità il proprio esercito nell’osteria di Battle, facendo servire loro 1732 barili di quella birra estremamente vecchia, chiamata Audit Ale; il ricordo di essa è ancora oggi conservato in quelle zone in modo meraviglioso.”
+
+“Questa è la storia di come gli uomini del Kent furono conquistati dagli uomini del Sussex e di Guildford Level; le paludi furono annesse e trasformate, in un certo senso, in un baluardo del nostro regno. Ed è proprio a causa di questa grande battaglia che questo luogo viene chiamato ‘Battle’, e non affatto per quella piccola scaramuccia con i Normanni, nella quale li sconfiggemmo completamente, tanto che dovettero fuggire verso il Weald, dirigendosi verso Dover e altre zone dell’Est.”
+
+Perché noi non avremmo mai voluto che William fosse nostro re, e infatti non lo è mai stato. Ma per noi lui è il Duca William, ed è solo ora, e per sempre, il Duca William. Amen!
+
+Il poeta. “È possibile che gli uomini del Kent raccontino una storia diversa…”
+
+“Me stesso. Ma questo non ci spiega come mai siamo riusciti a prendere sotto controllo questa zona della contea di Crawley, nonché quella fascia di terra che chiaramente appartiene ai popoli del Surrey.” Grizzlebeard rispose: “Beh, era proprio quello che chiamavano ‘strategia’. Quando i baroni del Surrey – il cui capo viveva in una grotta sotto la collina di Reigate – vennero a sapere della battaglia e conoscerono le qualità del re di Sussex e dei suoi uomini, decisero spontaneamente di chiedergli di controllare quella fascia di terra dove nascevano i loro fiumi, al fine di ottenere una maggiore protezione. Lui acconsentì molto volentieri, ed è così che fu tracciato il confine settentrionale del Sussex.”
+
+Me stesso. “E ha smesso di piovere.”
+
+Il Marinaio: “E che non piova mai più, perché quando piove noi stiamo qui nelle taverne e ascoltiamo solo storie interminabili.”
+
+Dopo aver detto questo, ci alzammo tutti e ripartimmo, desiderosi di arrivare a Storrington per pranzo, poiché il maltempo ci aveva fatto ritardare molto.
+
+Quindi proseguimmo lungo quella stessa vecchia strada, sempre verso ovest, fino a quando non arrivammo a Storrington. Lì entrammo in una locanda chiamata “The White Horse”. Appena entrati, ci assalì la stanchezza, un senso di malinconia e anche l’umore irritabile. Proprio come succede tra le persone che sono state costrette a stare insieme per troppo tempo, anche se hanno viaggiato su una vasta strada aperta e si sono comportate come compagni.
+
+Mentre sedevamo insieme, il Marinaiolo, il Poeta, Grizzlebeard e io, riflettendo con malinconia sulla banalità di tutte le cose e sull’usura dell’esperienza, entrò all’improvviso un giovane signore molto alto, sotto i trent’anni, snello, con un baffo sottile e leggermente storto su un lato. I suoi occhi erano gentili ma al contempo selvaggi; dal cappello inclinato all’indietro spuntavano ciocche di capelli grigio-marroni sulla sua alta fronte. Indossava pantaloni di pelle bianca, stivali e speroni; il suo abito da sera era grigio, con bottoni metallici; intorno al collo, invece di una cravatta, c’era un pezzo di stoffa morbida che un tempo doveva essere stato ben sistemato, ma ora era tutto spiegazzato. Era fissato con una spilla da balia d’oro. Sul suo cappello c’erano alcune macchie di fango; sul viso ne aveva un po’ meno, mentre sugli stivali e sui pantaloni ce n’era molto di più.
+
+Questo Essere si trattenne mentre entrava nella stanza, chiuse la porta con molto rumore e disse gentilmente: “Buonasera!”. Poi si sedette su una delle poltrone Windsor, sospirando profondamente.
+
+Si alzò di nuovo, suonò il campanello, non aspettò che qualcuno rispondesse, infilò la testa dentro la porta e disse: “Alcuni degli stessi!” Poi chiuse la porta, si sedette di nuovo e rise.
+
+Ci fece piacere vederlo con noi, e gli chiedemmo se già da così presto stesse cacciando la volpe; infatti era proprio così. Gli domandai (sebbene non ne sapessi nulla) se fosse andato bene nella sua caccia, e lui rispose scuotendo rapidamente la testa e mordendosi uno dei baffi.
+
+"No! No! Non è possibile… Mi ha quasi tolto la vita!"
+
+“Mi dispiace molto sentirlo,” disse Grizzlebeard, che un tempo cacciava spesso le volpi, ma ora non lo faceva più. Il Poeta, il Marinaio e io rimanemmo in silenzio ad ascoltare ciò che l’arrivato aveva da dire. Lui tirò un profondo sospiro di soddisfazione, come chi fosse finalmente tornato in porto dopo aver navigato tra mari tempestosi, si sporse in avanti con il suo corpo snello, mosse lentamente le mani guantate di colore marrone tra le sue gambe di pelle bianca e disse: “Il mio cavallo. Non ho più un cavallo. Non ne ho mai avuto uno, ”
+
+Poi, rivolgendosi a Grizzlebeard – che giustamente riteneva essere il più ricco del nostro gruppo – disse: “Ti piace andare in moto?”
+
+“Sì,” disse Grizzlebeard, pensandoci bene, “mi è sempre piaciuto cavalcare i cavalli. Mi piace ancora, ma con moderazione.”
+
+“Ah!”, disse lo sconosciuto con saggezza, inclinando la testa da un lato. “Ecco il punto: in realtà non importa molto il modo in cui si cavalca; ciò che conta è il tipo di cavallo!”
+
+“Ho giocato a ‘coppa e palla’ con te?”, dissi gentilmente.
+
+Al contrario, tutto è andato molto liscio e senza problemi; ma mio Dio, che coraggio aveva!.
+
+“Sai,” continuò, battendo il palmo della mano sinistra con l’indice destro, “esiste un tipo di coraggio che è utile e un altro che è avventato. Ora, questo cavallo (che era l’ex cavallo di Benjamin a Petworth) non temeva il pericolo, anzi, non lo conosceva nemmeno; quindi, in un certo senso, non c’era davvero nulla di eccezionale in lui. Ma quando vedo qualcosa di buono, non lo nego certo. E ti dico: era davvero un eroe!”
+
+Si sedette di nuovo e rifletté a lungo sul cavallo. C’era una sorta di lirismo o ispirazione in lui. Alzò lo sguardo al soffitto e disse: “Signore. Che bestia!” Poi allargò le mani, fissandoci con gli occhi, e aggiunse: “Era tutto rosso; anche i suoi occhi erano rossi. Alzava la testa in aria come un grande lucertola, cercava di spezzare la morsa con i suoi grandi denti, ringhiava e sputava segni di sfida. Non riusciva a stare in piedi su più di due zampe contemporaneamente; le cambiava dieci volte al secondo. Era quello che si chiama ‘danzare’. Mentre tutti gli altri stavano seduti tranquillamente sui loro enormi, ben nutriti animali, sembrando stupidi. Non ho detto nulla; non mi sentivo nel diritto di farlo. Ma un idiota di ferramenta che comprava terreni nei dintorni di Graffham ha detto: ‘Ehi! Fermati!’. Che sciocco! Ha completamente fatto impazzire quella bestia. Lui la odiava davvero. E non c’era modo di fargli capire che non era colpa mia, anche se avrei voluto farlo con tutto il cuore. Poi è arrivato quel vecchio Squire Powler, che aveva sposato mia zia Eliza per i suoi soldi, e ha iniziato a lusingare mio padre riguardo al suo ‘uomo dei pozzi’. Mi ha chiesto da dove avessi preso quella bestia; io ho risposto: ‘Dall’inferno’. E se n’è andato come un idiota, ” Quando questo giovane eccitabile ebbe finito di parlare, temette che avesse detto troppo. Ma Grizzlebeard, che aveva il cuore più gentile del mondo, disse cordialmente: “Oh, non c’è niente di male in vecchio Mr. Powler, ” E anch’io, anche se non conoscevo Squire Powler, dissi che credevo davvero che gli ‘uomini dei pozzi’ esistessero. Il che era la verità, e non faceva alcun danno.
+
+L’uomo alto e magro voleva rimanere in silenzio dopo quella sua esplosione di parole, ma Grizzlebeard lo incalzò a continuare, e la schiettezza stessa del giovane gli impedì di tacere. Stava trattenendo dentro tutta quella storia, che doveva assolutamente essere raccontata, quindi iniziò di nuovo a parlare.
+
+“Beh, ecco qua! La prima cosa che fecero tutti gli altri fu correre dietro ai cagnolini attraverso uno o due campi. E questo cavallo, che avrebbe dovuto portarmi in giro, rimase fermo immobile e li guardò come se pensasse che fossero pazzi. Poi all’improvviso partì di corsa descrivendo un semicerchio con la testa bassa, e si fermò davanti a un quercio. Questo mi infastidì così tanto che mi sporsi in avanti e gli diedi una schiaffo sul viso. E vi dico! Non si girò subito per mordermi il piede? Poi iniziò a saltellare di lato in un modo davvero orribile da vedere e da sentire. A quel punto cominciai a chiedermi cosa sarebbe successo di me; avrei potuto anche piangere, perché se non fosse tornato a Petworth dove qualcuno avrebbe potuto prenderlo – ed era quello che speravo – l’unica altra soluzione sarebbe stata scendere da cavallo e dargli un calcio nelle costole per farlo andare via. E poi avrei dovuto comprarlo io stesso. E chi sa da dove avrei trovato i soldi! Magari si sarebbe annegato nel ruscello di Timberley o si sarebbe impiccato a un palo. Eh! Che cosa ne pensate?”
+
+Questo giovane alto e snello pensò di nuovo di aver esagerato, ma i nostri volti comprensivi, anzi, i nostri sguardi affettuosi, lo incoraggiarono a continuare. Proseguì più lentamente.
+
+“All'improvviso, lontano lì in fondo, tutti quei cagnolini iniziarono a fare quei loro versi acuti che emettono quando sono eccitati; e mentre ero seduto su quell’animale alto, riuscivo a vedere le loro code bianche muoversi avanti e indietro vicino a Burton Rough, un po’ oltre i luoghi dove vivevano i Gesuiti. Mi interessai molto. Cosa? Poi smisi di pensare a nulla, perché quel cavallo iniziò a correre il più velocemente possibile, dritto verso quella direzione; sapevo che c’era il fiume Rother nel mezzo. Oh mio Dio! Che bocca ha quel cavallo, ”
+
+“Ora, quando volete fermare un cavallo che è troppo, ehm, ‘francese’ nel suo modo di comportarsi, se mi usate,” continuò, sembrando estremamente intelligente e pronto a spiegare tutto nei dettagli, “ci sono diversi trucchi da utilizzare. Alcuni uomini danno uno strattone laterale per cercare di staccargli la testa. Conoscevo un uomo (ora è morto, era un soldato) che continuava a tirare e poi all’improvviso lasciava andare il cavallo. Lui diceva che era così che si faceva. Ma io preferisco muovermi avanti e indietro, da una parte all’altra, finché il cavallo non ne ha abbastanza e non ce la fa più a sopportarlo. Allora si ferma per capire cosa c’è che non va. Qualsiasi cavallo lo farà. Anche se avesse una bocca ‘come un vecchio senso di colpa’. Almeno così pensavo fino ad oggi. Ma il cavallo di Benjamin no. Non avrei mai creduto che un animale potesse correre così dritto! Si è avvicinato molto al bordo del prato e in qualche modo si è messo le zampe sotto il corpo, ‘Tirri Pat, Tirri Pat, ’ Così velocemente che quasi non si riusciva a capire quando toccava terra o no. Non ho potuto girarmi per vedere la sua coda. Ero troppo preoccupato. Ma sicuramente era dritta in aria. Il suo collo, comunque, lo era. E sapevo che il cavallo del Rother si stava avvicinando sempre di più. Non ha saltato esattamente nel momento giusto quando è arrivato vicino alle siepi. Ha semplicemente continuato a correre e le siepi sono passate sotto di lui. Non avevo mai visto dei tetti lontani sembrare così tranquilli. Quando sono arrivato nel campo del signor Churton, quello dove ci sono le mucche, ho pensato: ‘Forse c’è della rete metallica?’ È una siepe bassa e arricciata. Ma sufficiente per nascondere una rete. Beh. Prima ancora che me ne accorgessi, il cavallo l’aveva già superata. E quello era l’unico modo in cui si poteva capire di aver superato qualcosa. Ha mancato qualcosa con uno zoccolo posteriore. Maledetto. Ma poi è ripartito. Poi ho visto il cavallo del Rother. E mi sono detto chiaramente: ‘O salterà proprio sopra questo fiume, e allora sarà davvero un miracolo. Perché è otto volte più lontano di quanto qualsiasi altro cavallo abbia mai saltato prima. E sarà altrettanto facile. Sarà come volare nell’aria. Oppure entrerà in acqua. E allora non farà più stupidaggini, ’ Perché ho sempre sentito dire che quando un cavallo selvaggio e pazzo finisce in acqua fredda, questo lo guarisce. Proprio come accadrebbe a qualsiasi altro essere vivente, ”
+
+Ma ecco! Proprio questo non è successo! Nessuno dei due! Mi crederete, quando è arrivato sul bordo di quell’acqua — wow! — ha cambiato direzione come un rondine e si è diretto di nuovo verso la strada principale e Petworth. E una volta sulla strada principale, ha iniziato a camminare lentamente verso casa, ansimando come se avesse fatto tutto il giorno di lavoro. Di tanto in tanto anche starnutendo. Accidenti, che giornata!
+
+“Non può esserti voluto tutto un giorno. È ancora solo ora di pranzo,” disse gentilmente Grizzledbeard.
+
+“No,” disse lo sconosciuto gentile, alzandosi e dirigendosi verso la porta mentre guardava indietro. “No! Non ci sono voluti nemmeno venti minuti!” Poi gridò uscendo: “Esattamente lo stesso!” Chiuse di nuovo la porta e continuò: “Al massimo venti minuti. Un tempo incredibile! Ma è bastato per occupare l’intera giornata. Per ore non sono riuscito a pensare ad altro. E lui è tornato da vecchio Benjamin tranquillamente, come un agnello. Solo con quel terribile bagliore rosso negli occhi. E il ragazzo della stalla ha detto, ”
+
+“Me lo stai facendo pagare davvero caro!”
+
+Ero così arrabbiato che non sapevo cosa dire; comunque, dissi: “Prendi il tuo Belzebub.” E il ragazzo di stalla rispose con molta aggressività: “Non è mica Belzebub, e tu non hai il diritto di chiamarlo così! Avremmo potuto litigare, ma ero troppo stanco. Ho detto che avrei preso qualcosa di adatto per tornare a casa in modo dignitoso, e ora l’ho nel fienile; devo andare. È tardi, e sono davvero molto stanco.”
+
+Glielo dicemmo uno dopo l’altro, e poi tutti insieme, che eravamo profondamente incantati dalla descrizione della sua giornata. Grizzlebeard gli chiese se avesse sentito qualcosa riguardo a quella fuga, ma lui scosse la testa; il Poeta, che non aveva mai immaginato che cose del genere potessero accadere nei campi inglesi, li osservò entrambi con una certa preoccupazione.
+
+Poi tutti andammo con lui nelle stalle per vedere il suo animale. C’era una luce fioca nelle stalle, un’oscurità. E nel recinto c’era qualcosa di straordinario: un animale dall’aspetto timido, molto vecchio e grasso, con un viso astuto; misurava a malapena quindici piedi di altezza, e sembrava decisamente pronto ad affrontare l’ultima tappa del suo viaggio in questo mondo. Il signore alto, dagli occhi selvaggi, si avvicinò a lui, gli accarezzò dolcemente il collo grassoccio e, mentre lo faceva, sospirò profondamente, con soddisfazione e contentezza. Lo portammo fuori e lo vedemmo montare in sella; le sue gambe sembravano insolitamente lunghe. Ci salutò allegramente con un “Buona sera”, e mentre si allontanava verso est lungo la strada, sentimmo il rumore degli zoccoli del suo cavallo sul terreno bagnato. Sembrava che, nonostante la sua letargia (poiché era una cavalla), il peso del cavaliere fosse troppo per lei. Il suono dei suoi passi rivelava un movimento lento e faticoso. Mentre quel rumore si affievoliva in lontananza, fu chiaro che quella cavalla stava soffrendo terribilmente. Se quella mattina aveva sofferto a causa del suo cavallo, quel pomeriggio era lui ad averne la revanche. Era il cavallo ad essere davvero nei guai.
+
+Mentre stavamo lì nel cortile della stalla a parlare, arrivò un cocchiere molto basso di statura, dall’aspetto duro, con i denti ingialliti dal tempo; credendoci ricchi, ci colpì forte la fronte con il dito indice della mano destra. Grizzlebeard, che amava il suo paese come l’anima sua e era sempre sincero, non tollerava mai le follie e i vizi degli uomini, ma li riteneva migliori o più saggi di quanto in realtà fossero, chiese al cocchiere con grande curiosità: “Dovrei conoscere quel giovane. Credo che fosse nipote di Sir John Powler, vero?” Il cocchiere rispose con astuzia: “Sì, signore! Non ne so nulla, signore. Lui è Master Battie, di The Kennels. Suo padre lo manda lì a vivere. È appena tornato dall’estero, signore.”
+
+Grizzlebeard guardò lungo la strada, pensando a tutta quella campagna e fissando il suo uomo. Poi disse, con un po’ di tristezza: “Oh, quello è Batteson; era il terzo, quello di cui sua povera madre parlava sempre con tanto affetto, e che non voleva mai mandare via.”
+
+Entrammo tutti insieme in casa, e quando arrivammo lì, Grizzlebeard, dopo averci pensato a lungo, disse: “Che cosa straordinaria. Che un uomo, anche se solo da ragazzo, abbia potuto permettersi di montare un cavallo del genere! Chi mai riuscirebbe a cavalcare un cavallo del genere?”
+
+Il marinaio disse: “Beh, nessuno. Ma diamoci da fare. Non dobbiamo sprecare questa giornata; presto supereremo quella catena di montagne che ci separa da Arun. Andiamo via.”
+
+Quindi siamo usciti e abbiamo preso la strada di Amberley; abbiamo attraversato quella brughiera, lasciando il laghetto sulla nostra destra, e poi abbiamo superato quel piccolo boschetto di pini. A quel punto Grizzlebeard disse:
+
+“Quanto è più alto questo albero… Lo sapevo già da ragazzo!”
+
+“E io dissi: ‘Sì, ed è anche più alta per me.’”
+
+“E il poeta disse: ‘Lo so.’”
+
+E il Marinai disse: “Lo so anch’io.” Anch’io stesso. “Sì, tutti conosciamo questo luogo famoso, e conosciamo anche questi alti e bassi della vita. Rackham Mount, il monastero dietro di noi, Parham, quella grande casa. Perché ci troviamo ai confini di ciò che conosciamo, in una sorta di terra di frontiera. Presto parleremo con la nostra gente, sotto le nostre stesse colline.”
+
+Grizzlebeard: “Allora, in questa ora, supereremo quella catena di montagne; e il primo di noi che vedrà il fiume Arun dovrà avvisare gli altri. Gli organizzeremo qualche tipo di ricompensa, visto che voi tre parlate sempre con grande ammirazione di quella valle.”
+
+Il Poeta: “Non ne parliamo per un affetto comune, no, né per un affetto semplicemente profondo, ma perché è la nostra patria, e perché rivedere la propria patria dopo molti anni è l’unica cosa beata in questo mondo. Non c’è nulla di altro che sia beato in questo mondo, penso, e non c’è nulla altro che rimanga.”
+
+Io stesso. “Quello che dice il marinaio è vero. Quando avremo superato quella altura di terreno sulla strada di Amberley, vedremo Arun in lontananza, tra i suoi canneti, e la marea che scorre verso il mare attraverso Arun. Vedremo anche Houghton e Westburton Hill, e Duncton più avanti, insieme a tutte le altre località: Graffham, Barlton, fino a Harting, dove il contea finisce e iniziano quelle terre senza forma. Tutto questo è la nostra patria; è proprio per vederlo che abbiamo viaggiato con tanta determinazione in questi lunghi giorni.”
+
+Il Poeta: “Qualunque cosa leggiate nelle scritture degli uomini, qualunque cosa ascoltiate nei loro discorsi, e qualunque cosa notiate negli occhi degli uomini – nell’espressione, nel ricordo o nel desiderio – non troverete nulla, in nessun discorso, scrittura o espressione umana, che possa eguagliare ciò che segna la loro fame di [[motifs/home|>casa]]. Coloro che sembrano privi di essa sono in realtà uomini saziati, che non hanno mai lasciato i loro villaggi per un periodo sufficientemente lungo da comprendere veramente quel desiderio e quella necessità. Quelli che ne hanno perso ogni speranza sono gli esiliati; la maledizione che li colpisce è più dura di qualsiasi altra maledizione possa abbattersi sugli uomini. Si dice che il primo omicidio commesso in questo mondo sia stato punito proprio con l’espulsione dalla propria casa; si dice anche che i crimini più gravi e orribili mai compiuti dagli uomini siano stati puniti allo stesso modo: con l’esilio generale dei colpevoli e di tutti i loro figli. Si dice infine che si possa vedere quell’esilio nei loro gesti, nelle linee tormentate dei loro volti, nella tristezza senza sorriso nei loro occhi.”
+
+Grizzlebeard: “Dimmi, Marinai. Quando dici che, tornando a casa in questo modo, sarai soddisfatto, ne sei davvero sicuro? Per quanto mi riguarda, ho viaggiato molto, soprattutto nelle regioni orientali (quelle più diverse dalle nostre), e in totale quaranta volte sono tornato nelle pianure della mia patria, a est della Valle di Glynde. Ho rivisto ancora una volta quelle nuvole dense tipiche del mio paese, che si muovono al vento sopra le pianure. E ho sentito, dall’odore delle saline e dalle zone dietro Pevensey, la vicinanza del mare. Ogni volta ricordavo la mia infanzia e mi rallegravo di essere tornato a casa. Ma quella gioia non era mai definitiva. Dopo un po’ dovevo ripartire, alla ricerca di nuovi luoghi. Ed è anche per questo che, in questo breve viaggio, sono venuto con voi verso quelle parti della contea che non appartengono a noi.”
+
+Il Marinaio: “Non posso dirti, Grizzled beard, se un uomo possa trovare la completezza nella propria casa o meno. Tu sei un uomo ricco e hai viaggiato come fanno gli uomini ricchi, per divertimento, qualcosa che gli uomini ricchi in realtà non trovano mai.” Grizzled beard: “Nemmeno gli uomini poveri!”
+
+Il Marinaio: “Beh, gli uomini poveri non la cercano, quindi non si addolorano; ma gli uomini ricchi, comunque sia, viaggiano per trovarla e non la trovano mai. E poi, se tornano a casa pensando di trovarla lì, ovviamente non la trovano nemmeno: perché un uomo deve tornare a casa stanco e dopo aver lavorato sodo, o dopo qualche viaggio che gli è stato imposto, per poter davvero sentire il gusto della propria casa.”
+
+Io stesso. “Tuttavia, Sailor, ciò che Grizzlebeard ha chiesto, o meglio, ciò che intende con quella richiesta, è vero. Nessuno di noi potrà riposare, nemmeno nella Valle di Arun; dovremo andare avanti, senza fermarci.”
+
+Il Poeta. “Penso che ci riusciremo.”
+
+Io stesso. “Andremo avanti senza mai accontentarci, senza mai essere soddisfatti. L’uomo che scrisse di non avere in questo mondo una patria nativa conosceva molto bene la sua missione, ed è proprio questa la missione di tutta la poesia.”
+
+Il Poeta: “Tuttavia lo sappiamo nei sogni. Ci sono sogni in cui gli uomini raggiungono una completa soddisfazione, trovando la [[motifs/home|>casa]] all’interno della stessa casa e il luogo dentro la mente. Ed è stato proprio un uomo che, ricordando tali sogni, scrisse di aver dimenticato il nome del proprio paese e di non riuscire a trovarvi la strada. Ma quell’uomo aveva in sé la sensazione che presto il nome del suo paese gli sarebbe stato rivelato; sapeva che, non appena l’avesse sentito, avrebbe trovato facilmente quel luogo. Gli sarebbe tornato subito in mente, proprio come il ricordo del suo amore e di Dovrefjeld era tornato a quell’uomo che aveva riportato a casa la fanciulla nella storia. L’aveva portata a casa dall’altra parte del mare; ma poi l’aveva dimenticata, a causa del cibo umano che mangiava, ”
+
+“Quest’uomo disse di aver previsto l’avvicinarsi di un momento fatale, e che lo aveva chiaramente immaginato nella sua mente. Si sarebbe trovato in una taverna, seduto da solo, mentre altre due persone avrebbero parlato sottovoce l’una con l’altra, in modo che lui non potesse sentire. Tuttavia, uno di loro avrebbe menzionato il nome del suo paese natale; e quando avesse sentito quel nome (disse), avrebbe saputo che doveva alzarsi, prendere il proprio bastone e andarsene.”
+
+“Andrò senza compagni.”
+
+E con nulla in mano…
+
+Io stesso. “È un errore. Se ha un bastone in mano, allora deve avere qualcosa in mano. Penso che l’abbia messo lì per motivi legati alla rima.”
+
+Il Marinai: “Non interrompete il Poeta, altrimenti non riuscirà a continuare la sua poesia; inoltre, nella poesia non si è obbligati a seguire regole precise come avviene in aritmetica; l’umanità lo ha dimostrato migliaia di volte.”
+
+Grizzledbeard. “Vai avanti, Poeta.”
+
+Il poeta
+
+"Andrò senza compagni."
+
+E senza nulla in mano…
+
+Attraverserò molti luoghi
+
+Ciò che non riesco a comprendere
+
+Fino a quando non tornerò nel mio paese natale.
+
+Che paese piacevole!
+
+Gli alberi che crescono nel mio paese natale
+
+Il faggio e il tasso
+
+Molti stanno insieme.
+
+E alcuni rimangono pochi.
+
+“Nel mese di maggio, nel mio paese, tutti i boschi appaiono nuovi.”
+
+Il Marinai: “Credo di sapere dove si trovi questo posto di cui parla il Poeta. È l’angolo della collina sopra i canili, tra Upwaltham e Gumber.”
+
+Il Poeta (con rabbia): “Non è affatto così. È un luogo dove nessun uomo è mai stato, e non ci andrà mai, almeno non uomini come voi!”
+
+Grizzledbeard: “Non arrabbiarti, Poeta… ma dimmi se ne sono rimasti ancora.”
+
+Il Poeta. “Non c’è molto di più da aggiungere; è così che va…”
+
+“Quando tornerò nel mio paese”
+
+Mi sdraierò e dormirò.
+
+Osserverò nelle valli
+
+Le lunghe mandrie di pecore.
+
+E poi sognerò, per sempre e senza fine.
+
+“Un bel sogno… e profondo.”
+
+Grizzlebeard: “Ecco il punto – proprio questo. Se un uomo potesse essere certo di dormire e sognare per sempre, allora, tornando nel suo paese natale, troverebbe una completa soddisfazione! Ma dovete notare che, in tutte le storie riguardanti questo argomento, persino nella storia del ritorno di Ulisse, non osano raccontare tutte quelle cose umane che ne seguirono, né l’imperfezione delle gioie che ne derivarono.”
+
+Io stesso. “Per quanto mi riguarda, penso che tu sia molto ingrato o molto mistico; oppure forse hai una fede religiosa. Ma comunque sia, è affar tuo e non mio. Dico soltanto che, se potessi tornare in quella terra che si trova tra Lavant, Rother e Arun, vivrei lì con gratitudine, come se fossi il frutto stesso di quel luogo; morirei lì facilmente, come cade un frutto; verrei sepolto lì e mi fonderei per sempre con esso. Lascerei me stesso e tutto ciò che possiedo a quella terra come eredità.”
+
+Grizzlebeard: “Beh, allora. Poiché tieni così tanto alla tua patria, in che modo possiamo segnare il passaggio di Arun quando arriveremo al suo ponte?”
+
+“Me stesso… ‘Diamo vita a un sorteggio per decidere chi si annegherà in sacrificio al fiume.’”
+
+Il poeta. “Contiamo i nostri soldi… devono essere quasi finiti, e io non ne ho affatto.”
+
+Il Marinai: “No, lasciateci raccontare (dopo tanti anni, a nessuno importa più) la storia del primo amore che ognuno di noi ha avuto, coloro di noi che se ne ricordano.” Ognuno di noi, nel proprio cuore, concordava.
+
+Quando ci eravamo scambiati questa promessa l’uno con l’altro (e ognuno la teneva nel proprio cuore), la pioggia iniziò di nuovo a cadere dal cielo; ma essendo arrivati su un altopiano così elevato, la pioggia e le sue nuvole non facevano che aumentare la bellezza di tutto ciò che vedevamo. Il cielo e la terra insieme non assomigliavano affatto a novembre, ma a aprile, e ci riempivano di meraviglia. In quel luogo, i prati pianeggianti – quelli stessi che in pieno inverno vengono allagati e trasformati in laghi – formavano una sorta di scena o palcoscenico su cui poteva essere rappresentata tutta la maestosità delle colline dei Downs. Guardando da un punto elevato, sulle pendici del monte Rackham, si potevano ammirare i terreni ondulati, le dune di sabbia, i pini, la cresta della regione di Egdean, le brughiere e le aree aperte che costeggiavano gli ultimi rilievi fino al confine con il Hampshire. Oltre quel confine, non c’era più nulla. Questo era il “primo piano” della regione di Arundel: un angolo dei Downs così straordinario che, appena lo si vedeva, si capiva immediatamente che si trattava di una gemma per cui l’intero contea del Sussex era stata creata. Un ornamento degno di un contesto così raro. E oltre Arundel, proprio sopra quella pianura dove la linea dell’orizzonte si innalzava più alta verso il cielo, c’erano le colline della mia terra natale.
+
+Noi quattro ci trovavamo su quella altura, sotto la pioggia che non oscurava le luci dei campi sottostanti e intorno a noi; vedevamo il fiume Arun, bianco e scintillante nei prati allagati d’acqua, per cui avevamo percorso tante miglia. Quell’evento precedente, avvenuto presso la sua sorgente nella foresta, non aveva interrotto il nostro pellegrinaggio. Ora il nostro scopo era vedere l’Arun nel suo pieno vigore, in quel luogo dove già si unisce alle acque del mare salato, scorrendo con tale forza sotto il ponte, accanto a Houghton Pit, lungo Stoke Woods, fino ad Arundel e infine al mare.
+
+Poi abbiamo osservato quel fiume per un po’, lo abbiamo benedetto e ognuno di noi ha provato profondamente la gioia del ritorno; la pioggia continuava a cadere su di noi mentre camminavamo. Alla fine abbiamo superato la grande cava di gesso e siamo arrivati alla ferrovia, nonché all’osteria Bridge Inn, situata proprio dall’altra parte del punto in cui il fiume Arun attraversa la strada.
+
+······
+
+Quando noi quattro entrammo nella sala del signor Duke al Bridge Inn, dopo essere stati sotto la pioggia, e ordinammo della birra iniziando ad asciugarci vicino al fuoco, il Marinai disse: “Forza, Grizzlebeard, abbiamo promesso di raccontare le storie dei nostri primi amori quando saremmo arrivati ad Arun; e poiché sei senz’altro il più anziano di noi, inizia tu.”
+
+“Con tutto il mio cuore,” disse Grizzlebeard, “perché, come sapete, non appartengo a quegli eretici tardivi che considerano tali cose sacre; credo infatti che solo ciò che è strettamente legato alla Fede sia davvero sacro. Tuttavia, ricordare quel grande momento, il modo in cui fui al sicuro, e in quale “porto” si trovava la nave della mia anima, provo qualcosa che dovrebbe far tacere un uomo, ”
+
+“A quali ormeggi eri legato?” chiesi io.
+
+“Alle tre,” rispose. “Le sue palpebre, la sua voce, e il suo nome.” Poi, dopo una breve pausa, continuò:
+
+“Era ormai oltre la sua giovinezza; aveva compiuto venticinque anni. I suoi genitori erano morti. Era molto ricca.”
+
+“Aveva un fratello che viveva lontano, in qualche grande palazzo nel nord, e una sorella sposata in Italia. Lei stessa aveva ereditato una vecchia casa di pietra situata nella sua valle, quella del fiume Brede; era il luogo che le era più caro: lì aveva trascorso l’infanzia e lì avrebbe passato anche la sua giovinezza.”
+
+“In questa casa fui accolto, poiché lei era molto più anziana di me; quando la conobbi per la prima volta, non ero ancora un uomo. Continuavo a tornarvi nei momenti liberi dagli studi. In modo insensibile, le mie visite divennero sempre più naturali; superai i confini che segnano l’inizio di una vita vera e, nonostante un comportamento più attivo e la piena padronanza della mia giovinezza, mi ritrovavo sempre da solo in sua compagnia. I suoi numerosi servitori mi conoscevano come parte della loro famiglia: i suoi cavalieri che mi avevano insegnato a montare a cavallo, le sue guardie con cui avevo imparato a sparare, la sua vecchia nutrice. Tutti favorivano questa precoce [[concepts/friendship|amicizia]] tra noi. Anche il prete mi chiamava per nome.”
+
+“Camminammo insieme lungo viali lunghi; i prati di quattrocento anni ci facevano da tappeto. Percorremmo lentamente i suoi boschi insieme, e spesso, nella stagione gelida dell’anno, osservavamo insieme il tramonto del sole dietro gli alberi nudi. Alla sera, accanto ai suoi grandi e maestosi falò, sedevamo uno accanto all’altro, parlando soltanto di poeti defunti, di guerre, di cose viste, e di piccoli ricordi domestici che erano diventati immagini chiare e adorabili.”
+
+“Allora finalmente capii di quale tipo di ‘rovo’ si trattasse che aveva preso radici dentro di me.”
+
+“Nella sua assenza – soprattutto durante quelle lunghe notti – ritornava in me quell’abbassare degli occhi, quegli sguardi lenti e generosi. Quando mi svegliavo e lei non era lì, se vedevo in qualcun altro quel medesimo raro abbassamento delle palpebre, mi sentivo turbato.”
+
+La sua voce, perché era proprio lei stessa, mi commuoveva così tanto che ogni volta che la sentivo mentre mi avvicinavo alla sua porta, ogni volta che la sentivo parlare anche da lontano, indipendentemente dal fatto di cosa stesse dicendo a qualcun altro, tremavo.
+
+“Il suo nome, che non era né Mary né Catherine, ma un nome semplice e comune, fu scritto al di sopra del mondo intero e gli fu conferita potenza sul mio spirito. Così, ogni volta che lo sentivo associato a qualcun altro o lo vedevo scritto su una pagina, tutto in me si agitava; era come se improvvisamente nella mia anima si accendesse una lampada. Allora capii davvero quanto siano reali le parole magiche e come possano legare o sciogliere le cose materiali.”
+
+Negli occhi di Grizzlebeard apparve un entusiasmo, qualcosa di al tempo stesso brillante e lontano, come la luce che si diffonde per miglia sul mare. Aprì la mano sul tavolo con un gesto deciso e gridò:
+
+“Ma che visione straordinaria! Che fonte di ispirazione offerta dalla Natura, anche per la scarsa memoria di un uomo. Intendo dire: il poter comunicare liberamente con un tale amico proprio all’inizio della vita. Quando si è ancora privi di leggi e preoccupazioni, ma già liberi da ogni tutela esterna, e padroni pieni di sé stessi. Trovare qualcosa che possa santificare questo momento iniziale: conoscere, accompagnare, adorare, ”
+
+“Non chiedetemi se abbia considerato questa o quell’opzione, un’unione o un matrimonio, o semplicemente la continuazione di ciò che conoscevo. Perché mi trovavo in un mondo dove cose del genere non venivano nemmeno prese in considerazione. Non esisteva il tempo. Nessun futuro mi minacciava, nessun passato poteva essere ricordato. Ero al di sopra di tutte queste cose.”
+
+“Per un caso fortunato fui chiamato via e in una lontana città, oltre mare, mi venne offerto un lavoro diverso da quello che facevo prima; vi trascorsi il tempo tra gli operai. Lavoravo con diligenza sui cavalli magri e ungevo con cura gli assi delle ruote pesanti. Fino a quando, dopo diciannove mesi, riuscii a tornare [[motifs/home|>a casa]]; non appena arrivato, mi diressi subito verso la Valle.”
+
+“Mentre mi avvicinavo alla casa, non notai alcun cambiamento. Quel periodo di oscurità era svanito, e io potevo vedere e sentire di nuovo.”
+
+“L’uomo che mi aprì la porta mi conosceva bene. Chiesi di lei usando il suo titolo e il suo nome, perché era nobile. Mi rispose utilizzando soltanto il suo titolo, ma non il suo nome. Mi disse che sarebbe tornata a [[motifs/home|>casa]] quella sera tardi, e mi diede una lettera da leggere. Le parole scritte su quel piccolo pezzo di carta rinnovarono in me, con una forza che conoscevo troppo bene, la magia di un luogo sacro al quale ero tornata apposta. Mentre la tenevo in mano, respiravo affannosamente e camminavo con febbre verso le grandi porte di ferro; non aprii la lettera fino a quando non mi rifugiai, per le ore successive della sera, nell’osteria del suo villaggio, dove anch’io ero conosciuta e amata da tutti da quando ero bambina.”
+
+“Ecco, sotto una piccola lampada, solo, con il cibo davanti a me, leggo l’invito che lei mi ha dato.”
+
+“Ho appreso da quella lettera che aveva sposato un uomo la cui fama mi era già nota da tempo: un politico, un patriota e un industriale estremamente capace. Mi disse (poiché l’avevo avvisata del mio arrivo) che sarebbero tornati alle sette per trascorrere due notti in questa loro casa di campagna, e mi pregò di essere il loro ospite, almeno per quel breve periodo.”
+
+“Un velo fu strappato via dal volto del mondo e dal mio stesso spirito; vidi la realtà nuda, originale, piena di male e guidata dall’istinto della morte. Non avevo più voglia di mangiare o bere. Alla fine gridai ad alta voce, piangendo come un bambino piccolo; quando mi calmai, mi avvicinai alla finestra e fissai l’oscurità fino a quando non riacquistai la mia natura normale e sentii di nuovo di respirare aria vera.”
+
+“Quando gli spiriti cadono, non è come quando i corpi cadono; non vengono uccisi né distrutti. Ma in quei momenti io ero precipitato da un’altezza immensa, e il resto del mio cammino, finché fossi sopravvissuto, sarebbe stato trascorso sotto il peso a cui tutti siamo destinati. Poi, diventato forte, e infine, a quel prezzo, maturo, ho atteso il momento giusto e sono andato verso le porte attraverso cui lei era entrata, forse un’ora prima, in compagnia dell’uomo il cui nome aveva legato al proprio.” “Io stesso, ” “Cosa produceva?” chiese Grizzlebeard. “Lardo raffinato. E, credimi, così bene che nessuno poteva competere con lui.” Poi continuò: “Sono entrato e sono stato accolto. La sua voce per un momento mi ha restituito alcune eco del Divino. Ma quelle echeggiarono presto. Nel frattempo, il suo viso, la sua figura, man mano che il tempo passava, assunsero davanti ai miei occhi una forma sempre meno piacevole.”
+
+“Molte persone che ci conoscevano entrambi mi hanno assicurato che ciò che ho visto non era affatto insolito. Per me, tuttavia, è stato altrettanto strano di un terremoto. La sua pelle, ora che la vedevo bene, sebbene per lo più di colore giallastro, presentava macchie bianche morte (poiché disdegnava ogni trucco). I suoi denti erano di vario tipo; non so dire se fossero falsi o veri. I suoi occhi erano semichiusi a causa di qualche problema; la sua voce non aveva alcuna melodia; i suoi gesti a volte erano volgari; il suo modo di parlare era insensato. Nel corso dei successivi quindici minuti, ho pensato di non aver mai sentito in così poco tempo così tante citazioni tratte dai giornali.”
+
+“Ma noi tre abbiamo chiacchierato allegramente fino a quando lei non è andata a letto. Poi sono rimasto seduto per alcune ore a parlare con quel simpatico padrone di casa, esperto in politica e, in altre cose. Perché, nei miei viaggi e nel mio nuovo incontro con molte persone, ho scoperto che ognuno è molto disposto e capace di parlare della propria professione. E lasciate che vi dica: quest’uomo possedeva tutte le qualità necessarie per essere un buon cittadino, un membro degno e utile dello Stato. La sua intelligenza era chiara e solida, la sua cultura sufficientemente ampia, il suo carattere equilibrato, e il suo cuore così caloroso che non si poteva fare a meno di augurargli il meglio. Non lo vedo da molti anni, ma ho notato nell’ultimo elenco delle onorificenze che aveva acquistato un titolo nobiliare. Lo considero ancora un mio vecchio amico.”
+
+“La mattina seguente, dopo una colazione sostanziosa, iniziai a piacermelo ancora di più; nella luce serena di un nuovo giorno, riuscii a vedere quali eccellenti qualità possedesse anche la moglie che aveva scelto. Il lavoro che la mia povertà (all’epoca ero davvero povero) mi costringeva a fare mi portò in città con il treno del mattino, e da quella mattina ho vissuto la mia vita così come l’ho vissuta fino ad oggi.”
+
+“Ma quella prima donna siede ancora sul suo trono. Penso che nemmeno dopo la morte riuscirò a perderla.”
+
+“GrizzlediBarba, GrizzlediBarba,” dissi, “queste cose provengono da Satana! Bambini e matrimoni onesti avrebbero dovuto spezzare questa maledizione molto tempo fa.”
+
+“Non sono sposato”, disse, “e non ho nemmeno figli”.
+
+“Allora, gli amori sparsi qua e là avrebbero dovuto farti ritrovare te stesso.”
+
+Scosse la testa e rispose: “Non è stato per mancanza loro, grandi o piccoli. Ne sono stati centinaia, ma lasciamo perdere! C’è stato un straniero che l’ha detto molto bene quando ha affermato: ‘Le cose non arrivano affatto, o se arrivano, non avvengono nel momento in cui ci avrebbero potuto dare la massima gioia.’”
+
+Nel suo boccale di stagno rimaneva un po' meno della metà della birra che conteneva prima. La guardò e notò anche, accanto a sé, vicino al fuoco, una scatola piena di sabbia, proprio quella che usiamo nella mia contea per levigare i pavimenti.
+
+Con calma e metodo, versò tutta la birra sulla sabbia, poi posizionò il suo boccale di piombo con un anello attaccato.
+
+La birra non contaminò la sabbia; venne assorbita completamente e ne sprigionò un aroma delizioso in tutta la stanza. Ma una birra, una vera birra, destinata agli uomini, buona e nutriente, che soddisfi le esigenze umane: quella birra non sarebbe mai più stata possibile.
+
+Allora Grizzlebeard disse: “Vedete ciò che ho fatto. L’ho fatto principalmente come un sacrificio, poiché dobbiamo sempre rinunciare a una parte di ogni piacere, offrendola ai Presidenti al di sopra di ogni altro piacere e riversandola, in apparenza sprecata, davanti agli dèi per dimostrare che li onoriamo come si deve. Ma l’ho fatto anche come un simbolo di ciò che accade nella più importante esperienza della vita di ogni uomo.”
+
+Ci fu un lungo silenzio dopo che Grizzlebeard ebbe finito di parlare. Da dove mi trovavo, potevo guardare fuori dalla finestra e vedere la linea delle colline, i grandi boschi di faggi, gli uccelli che si muovevano nell’aria piovosa; e ricordai un paio di uomini e donne, poi altri ancora. Poi iniziai a pensare a un uomo che avevo conosciuto in un luogo straniero: uno che allo stesso tempo amavo e odiavo. Qualcosa per me incomprensibile. Ma lui era del sud. Poi sentii il silenzio interrotto dal Poeta, che stava dicendo al Marinaio:
+
+Ora è il tuo turno.
+
+E il marinaio disse: “Certo, se lo desideri,” e subito iniziò a raccontare: “La mia prima amore viveva nella città di Lisbona, dopo il terremoto e prima della Rivoluzione, quando avevo diciassette anni e ormai ero stanco del mare. Lei, invece, doveva avere trentasei anni o poco più, ma in quel clima le donne invecchiano rapidamente. La nostra storia d’amore è stata breve, è durata soltanto cinque ore. In realtà, il mio congedo dalla terraferma non è stato molto lungo; facevo servizio su una galea, e questo è vergognoso da dire. Ma un ragazzo deve pur guadagnarsi da vivere, e piuttosto che arrivare in ritardo a bordo, avrei preferito fuggire nelle colline.”
+
+“Come si chiamava?” disse il Poeta.
+
+“Non lo so,” rispose il Marinaio, “non l’ho chiesto. Ma un attimo!. Non sono così sicuro che quella fosse la mia prima volta d’amore. Temo che la vividezza dei miei ricordi mi abbia ingannato. A meno che non mi sbagli completamente,” proseguì, riflettendo lentamente, “è stato a Newhaven, prima di partire per quel viaggio in Spagna, che ho conosciuto la mia prima donna. Si chiamava Belina. No, aspetta!. Anche questo è sbagliato: quella era la mia seconda nave. Ora che me lo chiedi, comincio a ricordare. La mia prima volta d’amore non è stata lì, ma in un posto chiamato Erith, sul fiume Tamigi. Almeno credo, ”
+
+“Perdonatemi un momento, signori,” disse con tono supplichevole, portandosi la mano alla fronte; “gli anni hanno schiacciato i miei sentimenti giovani. Sì, era quella donna a Erith, la chiamavano Joan, ”
+
+Joan!. A meno che non fosse quella donna curiosa e piuttosto sgradevole che viveva dall’altra parte di Foulness, con suo padre, e che usciva in barca con frutta e altre cose quando la marea si ritirava dal fango, proprio prima che le barche in attesa di attraversare il Swin avessero abbastanza acqua per levare l’ancora. Era una delle due donne di cui sono abbastanza sicura. Quella più giovane a Goole, perché quando ero piccola, anche se poche cose di qualche dimensione arrivavano così lontano lungo il fiume, noi lo facevamo. Se ricordo bene, non era affatto una donna che cercava relazioni sentimentali, ma soltanto qualcuno che offriva conforto.
+
+Il poeta. “Non credo che tu sia serio; non penso che capisca davvero ciò che dici.”
+
+Il marinaio: “Allora, poiché ne sai di più tu, puoi darmi la tua lista; non ho dubbi che funzionerà altrettanto bene della mia, visto che la mia memoria in questi casi è davvero molto confusa.”
+
+Il Poeta: “Non posso dirvi nulla riguardo alle vostre faccende, e sembra che nemmeno voi possiate dirci qualcosa; ma posso certamente descrivere le mie, poiché è mio dovere farlo secondo i termini del nostro accordo, anche se preferirei rimanere in silenzio.”
+
+“Un certo anno, verso la fine dei miei anni scolastici, passavo lungo un sentiero che si snodava tra i due laghi di Bringhanger. Era distante circa un miglio dalla casa, e poche persone lo percorrevano spesso, nonostante fosse uno dei luoghi più belli del mondo. Gli alberi iniziavano appena a germogliare, ma i loro boccioli erano ancora così piccoli che si potevano vedere le colline vicine attraverso i rami aperti; il vento, sebbene dolce, sembrava freddo sulla superficie del lago, poiché era molto presto al mattino. Fu allora che vidi, sulla sponda opposta, mescolata tra le foglie e parzialmente nascosta dalle canne, una giovane donna che non avrei mai più rivisto. Chi fosse o per quale caso si trovasse lì, non lo so mai saputo. Mi affrettai subito a osservare la sua figura mentre scompariva tra i rami degli alberi, formando quasi una sorta di “nuvola” nel loro disegno. Per un momento non fui sicuro se avessi davvero visto qualcosa di umano o meno.”
+
+Immediatamente, come se si fosse fusa tra gli alberi, scomparve, e io proseguii per la mia strada. Ma mentre vagavo verso est, diretto ad Arun, quell’immagine continuò a crescere nella mia mente e a rimanervi fissata; nei giorni successivi di viaggio solitario, da una locanda all’altra nella contea, divenne la mia compagna, fino a quando alla fine iniziai a considerarla davvero una compagnia di viaggio. Da allora l’ho tenuta sempre nel mio cuore.
+
+Il Marinaio: “Per tutti i cieli, che bugia!” Il Poeta rispose arrabbiato che non era affatto una bugia, ma il Marinaio rimase fermo sulla sua posizione.
+
+“È una menzogna”, disse, “e una menzogna letteraria, che è la più disprezzabile di tutte le menzogne”.
+
+“Non posso provarlo,” rispose il Poeta in tono cupo. “Non riesco nemmeno a dimostrare che ciò che ho visto fosse umano.”
+
+“No,” disse il Marinaiolo, “non puoi farlo, perché l’hai preso da un libro, o vuoi metterlo in un libro; ma tutto questo genere di discorsi non ha più sostanza reale di quelle sciocchezze scritte dagli intellettuali che parlano di caccia. Wow! Non mi vedreste mai morto in un campo con roba del genere.”
+
+“Fu allora che scrissi,” disse il Poeta con sognante nostalgia, come se nessuno fosse lì ad ascoltare, “cinque versi che custodiscono la sua memoria.”
+
+E mentre le recitava, il Marinai alzò prima il pollice e poi, uno dopo l’altro, gli altri dita, per indicare la fine di ogni verso e l’allineamento delle rime.
+
+Il colore del cielo al mattino
+
+Come uno scudo di bronzo
+
+“Quell’altro qualcosa era proprio quell’altro qualcosa.”
+
+“‘Cosa?’” disse il Marinaiolo.
+
+“Non riesco a ricordare le parole esatte,” disse il Poeta, “e non sono mai riuscito a completare quella riga correttamente, ma ho ben presente il suo ritmo nella mia testa,” e continuò.
+
+I suoi piccoli piedi si aggiravano lì intorno
+
+“Le rive degli stagni”.
+
+“Ora ti ho preso in trappola,” gridò trionfante il Marinaiolo, “‘ponds’ non rima con ‘bronze’.”
+
+“Sì, lo è!” disse il Poeta, con entusiasmo. “È semplicemente uno di quei nuovi ritmi che si dovrebbero utilizzare. Non si pronuncia la ‘d’ in ‘pond’, almeno,” aggiunse in fretta, “non nel caso del plurale.”
+
+Il Marinaio si rivolse a Grizzledbeard.
+
+“GrizzlediBarba”, gridò, “il Poeta sta dicendo bugie e compone versi orribili! GrizzlediBarba!”
+
+Poi guardò più da vicino e vide che Grizzlebeard stava dormendo.
+
+Ma all’urlo del marinaio: “Eh? Cosa?”, si svegliò di scatto e pensò: “Ho forse perso qualche parte della storia?”
+
+“Due”, dissi, “ciascuno più noioso e peggiore del precedente”.
+
+“Allora sono contento di aver dormito,” disse Grizzlebeard. “Davvero. È giusto che tu sia contento! Il Marinaio ha mentito riguardo a venti ragazze, mentre il Poeta ne ha mentito riguardo a una sola; ma le bugie del Marinaio erano più divertenti, e inoltre, più plausibili. Stavano mentendo sulla loro prima volta d’amore, come è facile credere.”
+
+Barba Grigia (mormorando): “Beh, beh, non è proprio colpa loro; più o meno, tutti noi facciamo lo stesso. E tu, io stesso, hai già raccontato la tua storia?”
+
+Il marinaio (con impazienza): “No, non l’ha fatto… se n’è andato senza occuparsene.”
+
+Il Poeta. “Ci ha guidati senza dire nulla di concreto, il che non è affatto giusto.”
+
+Io stesso. “Stavo solo aspettando il mio turno, e sarò molto felice di raccontarvi quelle storie divertenti. Non le nascondo affatto. Grazie al cielo, quella non è la mia religione.”
+
+A questo punto assunsi un'aria di gravità tale da essere adeguata alle circostanze, e guardai i miei compagni con serietà, affinché si aspettassero una rivelazione importante. Presi quindi dalla tasca del mio cappotto una sovrana appena coniata: di colore giallo-rosso, recante l'effigie del Re, di peso pieno, estremamente pulita e integra. Tenendola tra il dito indice e il pollice, dissi:
+
+“Ecco il mio primo amore! Quello che ho incontrato quando sono uscito per la prima volta dal calore di [[motifs/home|>casa]] e mi sono ritrovato nei deserti di questo mondo; una persona sempre assolutamente fedele e sincera, mai cambiata nemmeno in minima parte, sempre costante e affidabile. E al servizio di questo mio primo amore, anch'io sono stato assolutamente fedele, senza mai deviare neanche per un istante da quella lealtà. Signori, essere fedeli in questo modo è davvero qualcosa di raro e prezioso!”
+
+Poi riposi il sovrano nel mio taschino, con delicatezza e rispetto; presi quindi la coppa di piombo e bevvi ciò che vi era rimasto, dopodiché dissi loro con toni ancora più solenni:
+
+“Vedete cosa ho fatto. Ho completamente svuotato questa brocca; ora è vuota. L’ho fatto soprattutto perché ne avevo voglia; dopotutto, è senso comune non rinunciare mai a nessuno dei pochi piaceri che ci capitano. Ma l’ho fatto anche come simbolo di quanto grande possa essere la soddisfazione che un uomo può provare se fa ciò che ogni uomo dovrebbe fare: cioè godersi la vita e le sue “dame” così come le incontra nel breve periodo in cui vive, nel suo breve passaggio attraverso questo mondo. Ora lo sapete.”
+
+“Ma Grizzlebeard scosse la testa e disse…”
+
+“Tutte queste cose sono sciocchezze! Ma poiché la pioggia è finita, partiamo di nuovo. È novembre: i giorni sono brevi; e la luce non durerà a lungo. Proseguiamo verso Arun e continuiamo il nostro cammino verso ovest, sotto le colline.”
+
+Facciammo come ci aveva ordinato; attraversammo il lungo ponte e vedemmo l’acqua vorticare nella forte marea marrone. Proseguimmo lungo la diga e risalimmo verso Houghton, dove si trovava quella piccola locanda, “San Giorgio e il Drago”, dove molti anni fa re Carlo II, il primo re d’Inghilterra a ricevere uno stipendio e a servire come suddito, bevve mentre fuggiva da Worcester. Continuammo lungo quel sentiero antico, quel percorso scavato dalle generazioni che, avanzando verso la morte, lo avevano eroso fino a farlo scendere molto al di sotto del livello dei campi arati. Superammo Bury e Westburton, proseguendo fino al luogo in cui un antico romano aveva fatto costruire il proprio palazzo, vicino alla strada militare, in una posizione che si affaccia su una grande conca delle colline e è infestata dalle rovine di millecinquecento anni fa. Ma non ci fermammo ad ammirare quelle sculture in pietra, né quella “testa sacra dell’Inverno” nella quale quel signore del sud aveva fatto rappresentare la desolazione del nostro freddo e degli alberi spogli. Continuammo attraverso il terreno ripido e accidentato, giù per il pendio scosceso di Bignor e su per la riva ripida di Sutton: sempre verso ovest, seguendo la strada. Con l’avvicinarsi della sera, il vento aveva spazzato via le nuvole; non ce n’era più nessuna.
+
+E mentre camminavamo, il Marinaio disse:
+
+“Poeta, è da un po’ che non ci offri versi, e non te lo chiederei se non sapessi quanto sia faticoso per te, con quella costante sensazione di fallimento. Tuttavia ti prego di provarci, anche solo per divertirci: nulla come una canzone può rendere più leggero il cammino, e abbiamo già percorso tanti, tantissimi chilometri.”
+
+Il Poeta: “Con tutto il mio cuore, poiché ci troviamo ora ai margini di Burton e dei suoi stagni, con gli alberi che li circondano, le terre erbose, e il modo in cui tutto questo paesaggio si affaccia sulle colline delle Downs, forse questa è la miglia più propizia alla poesia al mondo. Ispirato da tutto ciò, lasciate che vi canti la canzone più incantevole, ”
+
+“Oh, che strano. Ma questa è la primavera dell’anno!”
+
+Il sole…
+
+Il Marinai: “Fermati! Fermati immediatamente! Sei impazzito, se davvero cervelli come il tuo sono degni di tali onori. Non ti è ancora entrato in quella testa dura che oggi è la Notte di Ognissanti? Anche se è noto che i poeti non vedono ciò che hanno davanti a loro, né sentono, né odono nulla, ma lavorano nel vuoto (e per questo le loro opere sono fragili), tuttavia, se non riesci a vedere i rami spogli e le foglie morte, né a percepire l’odore dell’autunno, né a cogliere l’atmosfera della sera, per amor del Signore, non scrivere nulla. Sarebbe molto meglio così.”
+
+Il Poeta: “Non sto scrivendo, ma cantando. E per me è un piacere cantare della primavera. Se canto bene o meno, lo potrete sapere solo quando avrò terminato questa mia piccola canzone. Ma mi avete interrotto. Devo ricominciare.”
+
+E così, senza più allegria ma con grande coraggio, riprese a suonare quella melodia.
+
+“Ah, che sciocco. Ma questa è la primavera dell’anno!”
+
+Il sole mi renderà felice per tutto il giorno.
+
+E andremo a raccogliere fiori a maggio, mia cara…
+
+E andremo a raccogliere fiori a maggio…
+
+Perché i cieli sono vasti e il cuculo è qui.
+
+E andremo a raccogliere fiori a maggio.
+
+Quando il Poeta cantò di nuovo questa canzone (e la sua voce si affievolì verso la fine della breve strofa), il Marinairo, incrociando le mani dietro la schiena, iniziò a muoversi più lentamente, costringendoci così ad rallentare il passo. Abbassò lo sguardo a terra e per un po' sembrò perdersi tra i dettagli del terreno. Poi recitò, con voce profonda, ma solo per sé stesso:
+
+“Dio mio! Montréal…”
+
+Il poeta. “Non capisco.”
+
+Il Marinai: “No, non lo faresti.” Grizzlebeard (con gentilezza): “È una citazione, Poeta. Una citazione tratta da un poema di un inglese che un giorno andò a Montreal e scoprì che avevano messo il Discobolo nei pantaloni. Allora questo inglese, dopo aver vissuto un’esperienza del genere tra quei coloni, scrisse un’ode per celebrare l’evento, ripetendo più volte in quell’ode: ‘Oh Dio! Oh Montreal!’”
+
+Io stesso. “Sì, da allora è diventato un proverbio e viene utilizzato per sottolineare quelle occasioni in cui la mente umana non riesce a adempiere alla sua alta missione in alcun campo dell’arte.”
+
+Il poeta. “Oh!”
+
+Il marinaio (alzando lo sguardo): “Dimmi, poeta… l’hai scritto tu stesso?”
+
+Il poeta (con determinazione). “Sì.”
+
+Il Marinaio (dopo una breve pausa). “Dimmi, Poeta, cos’è una tortora selvatica?”
+
+Il poeta. “Non lo so.”
+
+Il Marinaio. “Lo pensavo anch’io… E dimmi, Poeta: esce fuori in primavera?”
+
+Il Poeta: “Oserei dire di sì. La maggior parte delle cose, infatti, avviene così.” Il Marinaio: “Beh, beh, non litigheremo; ma se hai scritto ancora molte cose del genere, pubblicale pure. Ci divertiremo un mondo.”
+
+Il Poeta era ormai profondamente infastidito; non essendo, a causa della sua professione, un uomo particolarmente socievole. Infatti, le persone diventano socievoli quando lavorano con il proprio corpo e non con la propria mente stanca, mentre creare qualcosa partendo da se stessi è un’attività disumana.
+
+“Gli dissi di calmarlo…”
+
+“Non sono un esperto di poesia, Poeta, ma penso che si adatterebbe molto bene a della vera musica. Non potresti trovare qualcun altro per comporre la musica adatta?” Il Poeta rispose arrabbiato:
+
+“No, non lo farò. E poiché quel marinaio pensa che sia così facile scrivere versi belli su due piedi, lasciamo che ci provi lui stesso.”
+
+Il Marinairo (allegramente): “Ma certo, riesco a fare queste cose anche nel sonno. Ho già scritto le cose più belle sui polsini della mia camicia ascoltando gli uomini importanti ai banchetti. E anche da solo, in quelle stanze in cui la polizia a volte mi ha rinchiuso nelle ore tra le feste e l’alba, ho decorato le pareti con tanti piccoli, deliziosi, affascinanti simboli. Se questi venissero pubblicati in un libro, mi renderebbero ancora più famoso di Lord Mayor dello scorso anno.”
+
+Grizzledibarba. “Sì, ma non hai ancora accettato la sfida.”
+
+Il Marinaio (“Subito, lo farò immediatamente”). E così disse velocemente:
+
+"#Quando il cielo aperto rinnova l’anno..."
+
+E chiacchierano sotto le grida di Gumber
+
+Perché i giorni sono vicini
+
+Quando il cielo aperto rinnova l’anno
+
+Sotto le cascate di Burton
+
+Le piccole pozze sono di un colore ambra trasparente.
+
+“E blatera, blatera, blatera sotto le grida di Gumber.”
+
+Poi continuò molto rapidamente:
+
+“Ecco davvero versi, se vi piacciono! Versi ben confezionati, uniti senza bisogno di colla. Signore, potrei scrivere versi del genere all’infinito senza stancarmi! Ma non mi interessa molto la fama; in questo momento, ciò che desidero è semplicemente pane e formaggio. Stiamo infatti per arrivare al Cricketers’ Arms di Duncton, una locanda famosa proprio per questo: le persone vi vanno a mangiare per raccogliere le energie necessarie per scalare la collina di Duncton. O, se invece scendono dalla collina, vi vanno a mangiare dopo averla discesa.”
+
+Il Poeta: “Va bene così, ma quel verso non è affatto tuo. È tipico dello stile elisabettano, e lascia che te lo dica: uno stile del genere può essere ‘diluito’ con l’acqua esattamente come la birra. Mescola la tua poesia elisabettana con acqua in parti uguali. E poi dimmi cosa ne risulta. È proprio così che voi moderni, pensando di aver sfruttato appieno lo stile elisabettano, in realtà lo avete diluito fino a renderlo irriconoscibile.”
+
+Il Marinai: “Quello che dici non è vero. Questa è una mia poesia personale, e se mi dici che è scritta nello stile di coloro che scrivevano per 40 sterline al verso durante il regno della Regina Elisabetta, non mi vergognerò. Molti uomini vissero in quel periodo e scrivevano con grande abilità.”
+
+Il poeta. “Beh, allora, cos’è un ‘yaffle’?”
+
+Il marinaio: “Ma è davvero un uccello…”
+
+Il poeta (con sarcasmo): “Sì, proprio come il grande uccello marino.”
+
+“The Sailor. ‘No, assolutamente no come il Grande Uccello Marino; perché del Grande Uccello Marino si dice…’”
+
+“Qui c’è il grande uccello becco azzurro, un volatile con zampe pelose…”
+
+Arriva all’inizio della primavera e depone le sue uova.
+
+(E questo fu scritto di Beachy Head, ) è morto. Ma il “Yaffle” è ancora vivo, ed è un picchio, come dovreste sapere se voi poeti non aveste tutti i sensi intorpiditi, come ho detto io. Perché quando il picchio grida “Yaffle” nella foresta, tutto il mondo attorno a lui, tranne i poeti, se ne accorge.
+
+“Inoltre, nella mia canzone non ci sono donne. Si riconosce un cattivo poeta proprio per l’eccesso di riferimenti a questo genere femminile; ma riguardo a questo tema in chiave sentimentale, ho anche scritto, usando versi maestosi: —
+
+“Se tutto il danno che le donne causano…”
+
+Messi in un barile
+
+E portato via per essere annegato a Looe
+
+“Ma perché mai gli uomini litigerebbero?”
+
+Io stesso. “Come possa un uomo parlare male delle donne nello stesso momento in cui il fiume Looe scorre verso il mare, non lontano da Owers Light. È qualcosa che non riesco a comprendere. Del resto, nessun uomo, sentendo il nome di Owers Light, può non ricordare quella canzone cantata per una donna, che dice, ”
+
+“Il vento forte, quel vento costante che soffia al di là degli Overs…”
+
+Oltre i confini… per te e per me
+
+Il Poeta: “Mi sembra che tu non sia del mestiere; i tuoi versi sono incerti, molto brevi e interrotti. Penso che tu abbia paura.” Il Marinai: “Ma come! Ho cantato le canzoni più lunghe di tutti voi! E poiché mi sfidi, ti canterò una canzone davvero completa e ben strutturata. Ma ti avverto: i tuoi capelli si rizzeranno in piedi!”
+
+Grizzledibarba. “Temo quel marinaio… È blasfemo e licenzioso.”
+
+Il Marinaio. “Giudicate dopo aver ascoltato… È una canzone natalizia.”
+
+Il poeta. “Ma non è Natale.”
+
+Il Marinai: “Non è ancora primavera, eppure con il permesso di qualcuno abbiamo cantato le canzoni della primavera. E per questo. Beh, lasciate che vi arresti tutti.”
+
+“Noël”
+
+Io stesso (in modo piacevole). “E ti congratulo, Marinai, per la tua fantasia originale e per le belle idee che hai avuto riguardo ai titoli.”
+
+Il marinaio
+
+“Natale! Natale! Natale! Natale!”
+
+Devo raccontarvi una storia cattolica.
+
+Una canzone cristiana devo cantare
+
+Mentre tutti i campanelli di Arundel suonano.
+
+“Prego per buon manzo e prego per buona birra”
+
+Questa sacra notte di tutto l’anno…
+
+Una bevanda disgustosa per loro…
+
+Questo non rende onore a Betlemme.
+
+"Che tutti i bravi compagni qui presenti..."
+
+Bevi con me l’Ale dell’Audit in cielo…
+
+E che tutti i miei nemici vadano all’inferno!
+
+Natale! Natale! Natale! Natale!
+
+Che tutti i miei nemici vadano all’inferno!
+
+“Natale! Natale!”
+
+Grizzlebeard: “Classifica la blasfemia come ho detto io, e l’eresia, che è ancora peggiore. Perché a Natale dovremmo soprattutto perdonare i nostri nemici.” Il Marinaio: “Lo penso anch’io. Questa canzone parla di coloro che non mi perdonano.”
+
+Il poeta. “E sono versi scadenti, come tutti gli altri.”
+
+Il Marinai: “Vai a annegare nel latte e nell’acqua. È un poema davvero magnifico, ricco di emozioni; forte e vigoroso, proprio come quel mio altro poema, che era bello e pieno di immagini evocative.”
+
+Grizzlebeard: “Quello che né il Poeta né tu sembrate sapere, Marinai, è che le discussioni tra poeti sono noiose per chi ascolta; quindi andiamo al Cricketers’ Arms a mangiare, come dici tu, per amor di Dio, e occupiamoci di qualcosa di più piacevole delle liriche in disputa.”
+
+Io stesso. “Benissimo allora, entriamo nel Cricketers’ Arms, quel luogo dove il giudice Honeybubble andava quando ero ragazzo e dove pronunciò la sua famosa sentenza: una sentenza ponderata, di valore permanente, che rappresenta la gloria del diritto.”
+
+“Che opinione era quella?” disse Grizzlebeard entrando nella locanda, e noi lo seguimmo.
+
+“Posso raccontarvelo senza molte difficoltà,” dissi, “se volete ascoltare. Ma vi avverto: è una storia noiosa, davvero noiosa. Del resto, lo stesso valeva per quella vostra lezione storica sulla guerra del Sussex. Eppure io l’ho ascoltata. Quindi ora ascolterete anche me.”
+
+Si sedettero non molto soddisfatti, ma io li assicurai che, una volta ascoltato il mio racconto, avrebbero compreso di più legge di molti altri. “Perché la legge,” dissi, “non è quell’argomento noioso che alcuni pensano sia; al contrario, è un campo molto affascinante, pieno di stratagemmi e inganni utili per sconfiggere l’avversario. Non consiste soltanto nel mandare povera gente in prigione, come si crede comunemente. Ho qui delle note su ciò che quel grande giudice, il signor Justice Honeybubble, disse e fece vent’anni fa quando tenne un discorso davanti ai cittadini di Duncton al Cricketers’ Arms; quell’episodio è ancora famoso in tutta questa zona della contea. Quindi fareste bene ad ascoltarmi attentamente.” Ordinarono quindi la loro birra, e io ne ricevetti una gratis, come è consuetudine nella contea per chi racconta storie del genere. Poi, estraendo alcune note dal mio taccuino e sistemandole nel modo appropriato quando si trattano di argomenti tecnici, iniziai a raccontare loro tutto nei dettagli.
+
+“Beh, allora, il giudice Honeybubble era un uomo pieno di umorismo sano, amici miei. Aveva abitudini fisiche salutari. Era uno di quegli uomini del mondo legale che mantenevano un passo deciso anche in vecchiaia, e un’espressione vigile nei loro movimenti e negli occhi. Il suo viso era rosso, le sue sopracciglia erano folte, i suoi capelli bianchi erano folti, e ne aveva davvero molti.”
+
+“Gli piaceva molto fare lunghe passeggiate quando i suoi doveri gli lasciavano del tempo libero, e sceglieva soprattutto queste zone erbose e aperte. Una volta arrivò camminando lungo quella che un tempo era la Glatting Beacon, ma ormai non lo è più; attraversò poi la Combe e i faggi spogli di Burton Hanger fino a Duncton e al Cricketers’ Arms. Era sera, l’aria era fredda e pura. Camminava con passo deciso lungo quella strada ripida, tenendo in mano quel bastone da passeggio, o meglio, quel manganello che era il suo compagno più fedele. In tale stato d’animo ed atteggiamento entrò in questa locanda dove ci troviamo ora. Lo fece con l’intento di mangiare e bere qualcosa prima di andare a prendere il treno a Petworth; perché ai tempi di cui parlo, era permesso a tutti recarsi in luoghi pubblici per ristorarsi.”
+
+“Fu molto felice di trovare, nella stanza principale, un gruppo di persone riunite; si trattava di contadini che stavano discutendo di una questione complicata. Lo salutarono rispettosamente non appena entrò, perché lui si vestiva sempre con cura, e l’abitudine costante di intimidire coloro che non erano in grado di replicare gli aveva conferito un atteggiamento autoritario.”
+
+“Si fermò davanti al fuoco e li osservò con un tono gentile ma autoritario; ascoltò attentamente mentre discutevano della questione che avevano di fronte. Non era facile capire esattamente in cosa consistesse il loro problema, se non nel fatto che riguardava due persone in disaccordo: uno si chiamava George, l’altro Roland. La questione era la seguente: due maiali, ”
+
+“Masr” Burt, il cambio di un sovrano, e il mercato di Chichester.
+
+“Roland aveva presentato le sue argomentazioni con passione, sostenendo che il giusto è sempre giusto.”
+
+“George aveva risposto con toni di indignazione, affermando di non appartenere al tipo di persona che si lascia accusare di stupidità.”
+
+“Ognuno aveva basato le proprie argomentazioni sulle note caratteristiche e circostanze relative a ‘Maaster’.”
+
+‘Masr’ Burt, il mercato di Chichester, le monete attuali, e i maiali. Dopo un breve silenzio, l’assemblea, discutendo delle loro tazze, affrontò il problema recitando lentamente, a intervalli di circa trenta secondi, le frasi rituali “Ar!”, “Ecco fatto, ”, e nel caso dell’uomo più anziano seduto all’estremità del tavolo, anche la dichiarazione tipica di questa valle sacra: “Mubbe soa; mubbe noa”.
+
+“Il giudice Honeybubble, che una volta stesso era stato costretto a pronunciare la sentenza in soli quattro ore e ventitré minuti, provò pietà per questi suoi colleghi e disse, ”
+
+“Forse, signori, posso esservi di qualche utilità: sono abituato, ecco, a valutare le prove (nel senso più ampio di questa parola), e ho una certa esperienza in questioni che mi sono state sottoposte, ecco, ”
+
+“I contadini, che lo consideravano nientemeno che un nobile Giudice di Pace, proprietario terriero e forse anche colonnello di qualche unità ausiliaria, acconsentirono rispettosamente al suo desiderio e non rimasero delusi quando quel giurista umanitario ordinò birra fresca per l’intera compagnia, compreso se stesso. Poi si sedette su una sedia di legno marrone con bracci, posta davanti al fuoco, incrociò le gambe, unì le punte delle dita e fissò il suo pubblico con un’espressione particolarmente solenne che, in parte, intimidiva e in parte affascinava i contendenti e tutti coloro presenti nell’assemblea.”
+
+“Roland e George avevano appena iniziato di nuovo a esporre le loro argomentazioni, parlando entrambi contemporaneamente e con rabbia, poiché non erano abituati a quel tipo di procedure legali, quando il Giudice li zittì con un gesto della sua grande mano destra bianca, permettendo così che.
+
+“‘Qui abbiamo,’ disse lui, ‘quello che gli avvocati chiamano un problema; cioè, una disputa di opinioni, o comunque di affermazioni, riguardo a una verità oggettiva. Eliminiamo tutti i fattori su cui le parti sono d’accordo, e soprattutto,’ qui si sporse in avanti e strinse il pugno in modo impressionante, ‘tutte quelle impressioni soggettive che, per quanto importanti in sé stesse, non possono avere alcun rilievo,’ e qui agitò il braccio destro con un gesto ampio e deciso, ‘di fronte a un tribunale civile.’”
+
+A questo punto, George, che dal tono dei giudici aveva intuito che le cose si stavano mettendo male per lui, assunse un'espressione di determinazione ostinata; mentre Roland, giunto alla stessa conclusione e ritenendo la sua causa in pericolo, appariva decisamente cupo. Ma gli assessori presenti erano profondamente commossi e interessati, concentrandosi con tutte le loro facoltà mentali sull'esposizione del giudizio dell'esperto.
+
+“Finora, tutto va bene,” disse il giudice Honey-bubble, sospirando profondamente e bevendo un sorso dalla brocca accanto a lui. “Finora, tutto va bene. Ora, dalle prove presentate davanti a me è chiaro che Burt, in qualità di terzo, non può né concordare né avanzare alcuna obiezione o eccezione. Questo,” aggiunse bruscamente, rivolgendosi improvvisamente a un anziano all’estremità del tavolo, “sarebbe considerato Barottage.” L’anziano, che di professione era un appaltatore di lavori agricoli, annuì in segno di assenso. “E Barottage,” tuonò il giudice, “è qualcosa di così ripugnante per l’integrità del nostro diritto inglese, che dubito ci sia qualcuno che abbia il coraggio di difenderlo!” Il pubblico, colpito dalle sue parole, trattenne il respiro mentre lui proseguiva in toni più moderati: “Ammetto che questa pratica sia stata assimilata alla nozione di ‘mantenimento’ da autorevoli giuristi come Lord Eldon nella sua sentenza nel caso Crawford contro Croke. Ma, data l’inutilità attuale di tale concetto e la corretta abrogazione della legge Graham nel 1848, o forse nel 1849, ” (sorrise leggermente), “non sono sicuro. Comunque, l’abrogazione della legge Graham ha lasciato Barottage intatta, nella sua orribile natura originale; quindi rappresenta un elemento estraneo e ingiusto all’interno del maestoso corpo del nostro diritto comune inglese.” A questo punto, un lieve applauso da parte di Roland, che vedeva le cose prendere una piega positiva, fu soffocato dallo sguardo minaccioso del giudice, il quale concluse con voce potente: “E non riceverà alcuna pietà da me, finché avrò la forza e l’autorità di sedere su questa cattedra.”
+
+“Il giudice Honeybubble bevve di nuovo; poiché evidentemente stava riposando la voce in quel momento, gli agricoltori, ormai terrorizzati ma affascinati, mormorarono un applauso caloroso. Il loro patriottismo era stato commosso, la tradizione secolare risvegliata nel loro sangue. Se in quel momento qualcuno li avesse chiamati a difendere quella vasta rete di leggi, avrebbero versato il loro sangue per essa, anche se in modo goffo. Con una voce bassa, regolare e impressionante che segnava il cambio di argomento, il giudice Honeybubble continuò, ”
+
+“Ora, signori, considerate i maiali. Spesso accade, anzi deve accadere nel corso di un procedimento giudiziario, che la nostra decisione non si basi soltanto sull’equilibrio delle testimonianze umane (e voi siete lì per giudicare i fatti, non le leggi), ma anche sull’insieme delle circostanze a cui quelle testimonianze si riferiscono, nonché sulle azioni compiute o sulla situazione di persone che, per natura loro, non possono salire su quel banco dei testimoni” (e qui indicò un grande pesce impagliato in una vetrina; l’intera platea girò lo sguardo verso di esso, per poi riportarlo su di lui con espressioni piuttosto vuote) “e ci chiedono, sotto giuramento” (la parola “giuramento” fu pronunciata con un profondo tono basso), “di raccontare ciò che hanno visto e sentito in modo da trasmettere la verità, tutta la verità, e nient’altro che la verità. Non si può citare in giudizio un maiale, ”
+
+“‘Ah! Lo vedi? Ah!’ esclamò eccitato George, ormai convinto che, con qualche astuto trucco, gli stessero rubando i maiali, ‘Ah! Lo vedi, ’”
+
+“‘Silenzio!’ gridò il giudice Honeybubble. ‘Devo forse essere interrotto mentre siedo su questa cattedra, non nemmeno dai legali, ma da una delle parti in causa? Spero di non dover mai più richiamare l’attenzione sui comportamenti così vergognosi che violano le antiche tradizioni di un tribunale inglese! Snff. Ripeto: non possiamo citare in giudizio nemmeno un maiale’ (lo ripeté fissando con sguardo severo il povero George).”
+
+“Ma quello che possiamo fare, signori, è chiederci quale sarebbe stata, con ogni probabilità ragionevole, la situazione se, in quelle circostanze e trascurando per il momento tutto ciò che è stato detto riguardo a eventuali lettere o dichiarazioni presentate, le cose fossero andate diversamente da come ha ipotizzato il querelante. Chrm!”
+
+“In questo caso, poiché la complessità dei dettagli rendeva la spiegazione un po’ difficile da seguire, tutti si avvicinarono di più e concentrarono tutta la loro attenzione sul problema.”
+
+“La decisione dipenderebbe,” continuò il giudice Honeybubble con tono deciso e sollevato, “dal verdetto a cui si arriverà nell’una o nell’altra sequenza di eventi.”
+
+Si appoggiò allo schienale della sedia, allargando le mani verso di loro, come se stesse offrendo loro una massa enorme di prove, accuratamente selezionate e organizzate con straordinaria abilità, prive di qualsiasi pregiudizio o influenza esterna.
+
+“‘È a voi, signori,’ concluse alzandosi, ‘di decidere quale delle due conclusioni, dopo tutto ciò che avete ascoltato, sia la vera. Ricordate che, se anche in uno solo di voi esiste il minimo dubbio, è vostro dovere solenne concedere il beneficio del dubbio a quella parte nella controversia che ne trarrebbe maggior vantaggio. Credo di non avervi influenzato in alcun modo nella vostra decisione. Spero proprio di no. Posso certamente dire, con sincerità, che in questa questione così grave e importante ho cercato di presentarvi una visione generale il più imparziale possibile; ora devo lasciarvi liberi di prendere la vostra decisione.’”
+
+“Con queste parole, Sir Thingumbob Honeybubble annuì a tutti i presenti, afferrò il suo bastone e, uscendo rapidamente dalla porta, li lasciò immersi in un silenzio assordante. Prima di andarsene, ebbe la gentilezza di ordinare che loro fossero riforniti di tazze; quindi, guardando l’orologio, si incamminò a passo svelto lungo la strada, oltre Burton Rough, verso la stazione. Ma per tutto il tragitto camminò sorridendo tra sé e sé, canticchiando una piccola melodia.”
+
+“Non era forse quel giudice, ben nutrito e degno di essere ricordato in tutta questa valle per quella famosa decisione?”
+
+Quando ho raccontato loro tutto questo, abbiamo ripreso il cammino, pensando ai avvocati e parlandone; da lì la conversazione è passata facilmente agli usurai, e da questi ancora ai traditori. In questo modo abbiamo esaminato tutte le principali attività dell’umanità, nel corso di circa un miglio, fino a quando non ci siamo esauriti completamente e non ci fu più nulla da dire.
+
+Dopo questo, tutti rimanemmo in silenzio e continuammo il nostro cammino. Grizzlebeard procedeva avanti, allontanandosi sempre di più da noi con passi lenti e pensierosi; il Poeta si trovava a metà strada; mentre io e il Marinaio andavamo più adagio, poiché avevamo concordato che ci saremmo riuniti tutti nella prossima locanda, qualunque fosse. Quella locanda la trovammo a meno di due miglia da lì.
+
+E quando abbiamo preso il Poeta, che ci stava aspettando lì, ci ha detto che Grizzlebeard era entrato circa un quarto d’ora prima, e temeva che fosse finito in qualche tipo di intrattenimento, perché per tutto quel tempo non era uscito né aveva fatto segno di vita; quindi, ha detto il Poeta, dovremmo tutti andare dentro a trovarlo.
+
+Quindi ci trasformammo in quella piccola casa, per dovere, visto che erano passate cinque miglia da quando avevamo ultimamente ringraziato Dio per il piacere di bere l’ale, che è una sorta di preghiera, come recita lo slogan:
+
+“Lavorare è pregare, ma anche tagliare è una forma di preghiera”.
+
+Ciò significa che il lavoro è nobile, e la preghiera sua pari; ma bere una buona birra è un atto ancora più rinomato e glorioso di qualsiasi altro in cui l’uomo possa impegnarsi. Ed è per questo motivo che avete un Dio del Vino, e vari altri Dei legati a diversi liquori: in realtà, si tratta soltanto di immaginazioni umane o demoniache. Ma per quanto riguarda la birra, non c’è bisogno di simboli: essa è semplicemente il “Re” tra tutti i liquori.
+
+Ma quando arrivammo in casa e vi entrammo, scoprimmo che Grizzlebeard, che era entrato prima di noi, in quel breve lasso di tempo si era profondamente impegnato in una conversazione con uno Sconosciuto, che, per tutti i cieli, stava bevendo tè!
+
+Lì seduti, quasi senza notare il nostro arrivo, erano immersi in una furiosa discussione.
+
+Lo Straniero era un individuo meschino, avvolto in un mantello; alto, con una voce acuta e parole raffinate. I suoi occhi, però, erano come ostriche morte. Cose davvero sgradevoli da vedere. Lui e Grizzledbeard, nonostante si fossero incontrati solo di recente, erano già immersi in una discussione assurda e incomprensibile. Del genere che i buoni angeli stessi non permetterebbero mai su questa triste terra.
+
+Parlammo ad alta voce con Grizzlebeard, ma lo sconosciuto non ci prestò alcuna attenzione.
+
+Eravamo molto sorpresi e guardavamo intorno con occhi spalancati, ma Grizzlebeard si limitò ad alzare lo sguardo e annuire. Era troppo immerso nella discussione per poter fare altro.
+
+“Dovrei affrontare la questione attraverso una dicotomia”, stava dicendo.
+
+“Con cosa?” chiese il Marinaiolo.
+
+Il poeta. “Credo sia qualcosa di tedesco…”
+
+Ma Grizzlebeard, senza prestare affatto attenzione a noi, disse al suo compagno serio: “Non è teleologico; non devi pensarlo così; anzi, se vuoi, nemmeno antiteleologico.”
+
+Me stesso… “Bene, e spero anche che non sia ontologico, perché quello sarebbe davvero il Diavolo.”
+
+“Lo Straniero, ignorandoci deliberatamente, rispose soltanto a Grizzledbeard.”
+
+“Questo argomento non può essere confutato in questo modo, perché anche se non si ammette l’esistenza del tempo come processo, è comunque necessario riconoscerlo come una dimensione.”
+
+“Non per costrizione!”, disse con fermezza il Marinaio.
+
+“Ma Grizzlebeard, come se noi tre non fossimo lì, rispose allo Sconosciuto…”
+
+“La parola ‘dimensione’ è in realtà un esempio di petitio elenchi,” disse lo Straniero con entusiasmo. “Ecco qua: si tratta chiaramente di monismo puro e semplice!”
+
+Barba Grigia (ancora più ansioso): “Assolutamente no! Anzi, il Monismo sarebbe proprio la tua posizione.”
+
+Il Marinairo (al Poeta e a Me): “Andiamo via da qui, miei figli, e beviamo al bar con la gente comune; il Diavolo arriverà molto presto dalla finestra e porterà via questi filosofi. Dobbiamo separarci in un posto sicuro quando inizierà la lotta.”
+
+Così ci mettemmo tutti fuori e rimanemmo per circa dieci minuti, bevendo con alcuni lavoratori e pagando le loro bevande, perché eravamo in condizioni migliori di loro. A questi uomini raccontammo bugie che pensavamo potessero divertirli, e poi, dopo circa venti minuti, il Marinaio ci disse:
+
+Il Marinaio: “Quei due maledetti che abbiamo lasciato indietro devono ormai essere arrivati fino alle fondamenta del mondo, e aver analizzato a fondo come Dio abbia piantato le radici delle montagne, perché i macigni e il mondo siano rotondi, e persino se abbiano o meno una volontà libera. Una questione mai scoperta prima d’ora, se non attraverso la Bastonata. Ma venite, distruggiamoli! Conosco bene questa filosofia: quando le persone ci si mettono, finiscono per incatenarsi da sole per ore intere.”
+
+Con questo ci riportò nella stanza, e infatti sentimmo che stavano ancora lavorando con martelli e tenaglie; Grizzlebeard, eccitato, si sporgeva in avanti, quasi alzandosi in piedi.
+
+“Ecco dunque: il contenuto della realtà espresso attraverso termini contraddittori!”
+
+Lo Straniero: “Non c’è contraddizione, ma una varietà di aspetti che si risolvono in un’unità più alta.”
+
+Il Marinairo (con tono solenne): “Grizzlebeard! Presto calerà l’oscurità sul Weald, e prima che ciò accada dobbiamo essere ben lontani da Graffham. Quindi decidi: o dissentire con questo onesto gentiluomo, oppure cedere subito. In ogni caso, devi trovare il tuo Dio” (e qui tirò fuori l’orologio) “entro esattamente dieci minuti. Altrimenti lo troveremo noi per te, in modo piuttosto improvviso. Quindi, tra dieci minuti, raggiungici al bar comune, o perisci nei tuoi peccati!”
+
+Poi noi tre uscimmo di nuovo e sentimmo, dal bar del villaggio, una canzone che veniva cantata; il ritornello era “Golier”, che in effetti è il vero ritornello di tutte le canzoni, e rappresenta la base su cui si basano ogni tipo di canto popolare e di grida di gioia. Ma quando rientrammo, gli uomini più poveri smisero di cantare per timidezza. Solo il Marinai disse loro: “Penso che dovremmo cantarvi una nuova canzone, quella che stanno cantando lì fuori, vicino a Horsham, su Duke William. Ma dovete ricordarvela, perché non so scriverla.” E così cantò loro questo verso:
+
+“Il Duca William era il figlio di una donna di basso rango…”
+
+Suo nonno era un conciatore!
+
+Bevve il suo sidro direttamente dalla botte
+
+Qual è il modo normanno…
+
+Il suo trono era fatto di quercia e oro.
+
+Il suo fusto di arco fatto di tasso
+
+Così si racconta la storia
+
+Dubito che sia vero!
+
+“Ma a me che importanza ha lui?”
+
+Il mio boccale è pieno fino all’orlo.
+
+E canterò di Elizabeth, Dorothy…
+
+Margaret, Mary, Dorinda, Persefone, Miriam
+
+Pegotty era snella e ben proporzionata.
+
+Gli uomini che salparono per la Normandia
+
+Maltempo possano trovarsi ad affrontare…
+
+Per agitarsi senza sosta nella parte centrale di una nave
+
+Non mi era mai passato per la mente.
+
+Bevono il loro rum nel “foro della gloria”
+
+Con tremore e paura…
+
+Ma rimase un uomo migliore…
+
+E lui se ne sta seduto a bere birra.
+
+“Ma a me che importano quei maiali?”
+
+Non sono mai stati miei compagni!
+
+E canterò di Elizabeth, Dorothy…
+
+Margaret, Mary, Dorinda
+
+Persefone, Miriam, Pegotty
+
+“Jezebel, Topsy, Andromeda”.
+
+Il Poeta. “A tuo aiuto con le ‘she-dactyls’…”
+
+“Magdalen, Emily, Charity, Agatha, Beatrice, Anna, Cecilia, Maud, Cleopatra, Selene e Jessica, ”
+
+Il Marinaio (con determinazione) —
+
+“Barbara robusta e bella.”
+
+Io stesso (alla compagnia): “Non è forse una bella canzone? Non vi ricorda Duca Guglielmo, che tanti anni fa venne qui nel nostro contea con grande gentilezza e ci liberò per sempre dai nordici?”
+
+Un uomo nella compagnia disse di non ricordare quella canzone, ma desiderava che venisse trascritta; il Marinai rispose che questo non era possibile perché la canzone era protetta da copyright, ma che, se Dio voleva, l’anno successivo o quello dopo ancora sarebbe passato di lì e gliel’avrebbe fatta ascoltare di nuovo, in modo che potessero impararla a memoria. Dopo aver detto questo, pagò per permettere a tutti di bere di nuovo al suo ritorno, e ci riportò nella stanza dove si trovavano lo Straniero e Grizzlebeard. Ma portò con sé anche una brocca piena di birra, e ci sono motivi per cui fece così, che verranno spiegati presto.
+
+Perché si fermò davanti alla porta dietro la quale potevamo sentire le voci delle persone che continuavano a discutere sulle loro realtà, sui loro contenuti, sulle loro soggettività e oggettività, e su come afferrare le cose così come venivano presentate, e ci disse:
+
+Il Marinaio disse: “Non avete mai visto due cani che si azzuffano per strada, grugnendo e ringhiando senza alcun motivo, semplicemente perché è nella loro natura comportarsi così? E quando succede questo, non avete mai visto come le brave casalinghe, uscendo di casa, riescano a fermare quel rumore fastidioso versando su di esso acqua fredda e bagnata, che smette immediatamente la loro lite inutile e li costringe ad occuparsi di cose più utili? Lo stesso vale per i filosofi: si lamentano e disturbano il mondo senza alcun scopo reale, non intendendo nemmeno trovare una soluzione o fare una scoperta, ma solo esercitare il loro vano rumore. Inoltre, hanno inventato un insieme di parole barbare e incomprensibili per questo stesso scopo. Come quelle che Attila il Re pronunciò quando il dentista della corte di Costantinopoli gli estrasse i denti posteriori per allargargli la mascella. Questo tipo di persone può essere curato soltanto con il battesimo, che esiste in quattro forme: con l’acqua, con il sangue, e con la birra. Quindi guardate bene cosa farò.”
+
+Poi entrò davanti a noi, e tutti lo seguimmo; quando entrammo, né Grizzlebeard né lo Sconosciuto alzarono lo sguardo nemmeno per un momento, ma Grizzlebeard continuava a dire, con profondo disprezzo:
+
+“Stai semplicemente negando il rapporto di causa-effetto, o meglio, la causalità effettiva.”
+
+“Lo faccio!” rispose seriamente lo Straniero.
+
+Sentendo questa risposta, il Marinairo, molto rapidamente e all’improvviso, versò su di lui tutto ciò che c'era nella pentola da una pinta di birra, dicendo mentre lo faceva: “Ti battezzo nel nome dei cinque sensi”. Dopo averlo fatto, corse via il più velocemente possibile, con noi due alle sue calcagna; accelerò al massimo lungo la strada e non rallentò fino a quando non raggiunse l’estremità di Jockey’s Spinney, a mezzo miglio di distanza. Noi lo seguivamo da vicino, correndo con tutte le nostre forze; lo trovammo senza fiato, che rideva e si compiaceva del proprio “grande gesto”.
+
+“Ora,” disse, “vi assicuro che Grizzlebeard arriverà in tempo, e anche se sarà arrabbiato, rimarrà confuso.”
+
+Come previsto, Grizzlebeard ci raggiunse dopo poco più di un quarto d’ora; sebbene fosse arrabbiato, la salita aveva in parte placato la sua rabbia. Quando maledisse il Marinaio e gli disse che lo Straniero, in un certo senso, era suo “ospite”, il Marinaio lo tranquillizzò, affermando che lo Straniero, in realtà, rappresentava soltanto la sua noia e il peso insopportabile che portava con sé. Se non fosse stato per lui, probabilmente non saremmo mai partiti.
+
+“Ma dimmi,” aggiunse, “non avete raggiunto alcuna conclusione prima che ce ne andassimo? Eravate impegnati da un’ora intera. Si potrebbe pensare che in quel lasso di tempo gli uomini riuscissero a capire se esiste davvero un Creatore, e quale sia la natura della Dimensione e il suo grado.”
+
+Ma Grizzlebeard era di cattivo umore e non gli rispondeva; nel corso del lento processo di recupero del suo temperamento, il cammino sembrava lungo abbastanza. Soprattutto a causa di quel Poeta, che, pensando di essere gentile, iniziò a elencare i difetti del mondo, sostenendo che fosse opportuno accordarsi con gli altri e adattarsi alle questioni pratiche; poi passò a parlare dei fanatici, per finire con commenti negativi sull’autorità, affermando che qualsiasi persona potesse condurre una vita serena se solo avesse la saggezza di non offendere coloro che erano superiori a lei nel suo percorso verso il successo, e di prestare attenzione a ciò che le persone al potere desideravano da lei.
+
+Per questo tipo di equilibrio, Grizzlebeard, essendo il più anziano tra noi, avrebbe acconsentito; ma nella sua rabbia, che sebbene stesse diminuendo, continuava ad ardere, decise di contraddire e disse in tono brusco:
+
+Grizzlebeard: “Quello che i nostri padri chiamavano ‘vendere l’anima’. Sì, è la cosa più facile e al contempo la peggiore che un uomo possa fare.”
+
+Il marinaio: “Forse è la cosa peggiore, anche se non ne sono del tutto sicuro, ma allo stesso tempo è anche la più facile. Oh no! E dico che non sono proprio certo che sia davvero la peggiore. Perché nessuno vende nulla, a meno di essere in difficoltà economiche, e le persone in difficoltà non sono mai veramente malvagie; sono i ricchi quelli che sono malvagi. Almeno così mi hanno sempre detto i poveri, che non solo rappresentano la stragrande maggioranza delle persone e quindi probabilmente hanno ragione, ma non hanno nemmeno alcun interesse a mentire quando parlano. Ma facile? No! Non ditemi che sia facile, soprattutto considerando l’esempio terribile di Pietro il Politico, una storia che tutti dovrebbero ascoltare.”
+
+Grizzledbeard. “E tutto il mondo l’ha sentito.”
+
+Il Marinaiere (dolcemente): “Ma non tu, Grizzled beard. Quindi devo raccontare la storia con calma, per renderti un onore speciale.” Grizzled beard (con tono più mite): “Fallo pure. Anche la tua storia potrebbe essere meno noiosa di camminare in silenzio nell’ultima ora della giornata, ”
+
+Il Marinaio: “Allora devi sapere che Pietro il Politico, dopo aver venduto ogni onore pubblico che potesse offrire, ogni carica ufficiale e ogni tipo di potere tranne il proprio, dopo aver venduto la sua patria, i suoi amici, i suoi genitori, persino i suoi figli, e naturalmente anche il suo rispetto per se stesso e tutto il resto, non gli rimase più nulla da vendere se non la sua stessa anima. Ma doveva venderla, perché aveva bisogno di soldi; senza soldi nessuno può vivere una vita ‘grande’ e andare a cena nei nuovi hotel fatti di ferro e gesso. Che il Signore abbia pietà di noi tutti!”
+
+“Allora, Peter il Politico avvolse la sua ‘anima’ in un piccolo pacchetto di carta marrone, sigillandolo con della cera e legandolo con del filo costoso; perché, quando si tratta di politici, è il pubblico a pagare per queste cose.”
+
+“Ha messo tutta la sua anima, ho detto bene, in questo piccolo pacchetto. No, mi sbaglio! È stata la sua segretaria a farlo; non quella non retribuita, ma la sua vera segretaria, un umile uomo.”
+
+“Dovete sapere che i politici hanno tre tipi di segretari: il primo tipo, che si potrebbe chiamare ‘Segretario Massimo’, è il figlio di un uomo ricco; il suo posto è stato pagato in anticipo: viene chiamato segretario soltanto per poter essere promosso in futuro. Non fa assolutamente nulla, se non viaggiare in automobile e sedersi accanto al suo padrone quando c’è bisogno di discutere qualcosa. Poi c’è il secondo tipo di segretario, che di solito è il figlio di un amico del politico e può essere chiamato ‘Segretario Minore’; non si aspetta alcuna promozione, ma soltanto un piccolo incarico nel Servizio Civile dopo anni di lavoro. Il suo compito consiste nel dire al terzo tipo di segretario cosa deve fare. Questo terzo tipo, che si potrebbe chiamare ‘Segretario Minimo’, riceve trenta scellini ogni sabato; in cambio deve lavorare sodo, essere sempre a disposizione del suo padrone, andare a letto tardi e alzarsi presto, fino a consumarsi completamente. A quarant’anni, se riesce a trovare un altro lavoro, diventa di nuovo segretario, ma con uno stipendio più basso; altrimenti, beh, non c’è altra scelta che impiccarsi o mettersi in fila per ricevere della zuppa sul lungofiume.”
+
+“Beh, allora dico che fu questo terzo segretario, quello addetto alle pratiche burocratiche, ad avvolgere l’anima di Peter il Politico in un piccolo pacchetto, fatto di carta marrone pagata con i soldi delle tasse, sigillato con bei sigilli rossi pagati sempre con le tasse, e legato con una corda sottile ma robusta, anch’essa pagata con le tasse. Poiché il politico era molto attento alla sua anima – e inoltre non pesava molto – se la portò con sé e andò dritto all’ufficio del Diavolo per venderla. Sapeva benissimo dove si trovava quell’ufficio: aveva trascorso gran parte della sua giovinezza lì, e aveva anche svolto il suo tirocinio in un’altra parte dello stesso edificio.”
+
+“Quando Pietro il Politico inviò la sua cartolina, fu accolto con grande cortesia dallo ‘uomo del Limbo’ incaricato di custodire le porte; gli fu chiesto di sedersi su una sedia in una sorta di piccola stanza privata, dove persone distinte attendono il piacere del Diavolo Capo.”
+
+“In questa piccola stanza esterna c'erano uno o due libri da leggere su argomenti legati ai problemi della vita, soprattutto quelli coniugali; inoltre, sulle pareti c’erano alcune stampe di scarsa qualità che il Diavolo aveva ‘preso in prestito’ da un editore. C’era anche un calendario, ma su di esso non erano indicate le feste dei Santi, bensì solo le date di morte di persone importanti; e naturalmente, Peter il Politico non lo consultava mai.”
+
+Ora che era seduto lì da circa un’ora senza aver bisogno di un fuoco, entrò un piccolo folletto ben vestito, molto educato, che gli disse quanto suo padrone si scusasse per aver fatto aspettare Peter il Politico, ma che in realtà era impegnato in molte faccende importanti. Poi il piccolo folletto se ne andò, lasciando Peter il Politico da solo, e lui aspettò ancora altre due ore.
+
+“Alla fine di questo lasso di tempo, un altro Imp più alto e più anziano, vestito non con bottoni, ma con un elegante abito da sera (poiché era un Imp a Coda), entrò e si scusò ancora di più, dicendo che il suo Padrone, il Diavolo Capo, si dispiaceva moltissimo per aver fatto aspettare Peter il Politico; chiese quindi gentilmente di conoscere la ragione della sua visita, promettendo che sarebbe stata immediatamente presa in considerazione.”
+
+“Allora Pietro il Politico rispose, con il suo modo breve e dignitoso, che era venuto per vendere la sua anima.”
+
+“‘Certo! Certo!’ disse l’Imp con il suo abito da sera. ‘Dio mio! Perdonatemi; abbiamo così tante cose da fare oggi che siamo davvero sommersi dal lavoro. Certo,’ aggiunse, con ansiosa cortesia, ‘c’è un ufficio regolare, ’”
+
+“‘Sì, sì, lo so,’ disse Peter il Politico con la stessa impazienza che la sua dignità gli permetteva. ‘So tutto su quell’ufficio, ma date le circostanze e considerando che sono conosciuto qui, ’”
+
+“‘Sì, certo!’ disse di nuovo il grande Imp, e se ne andò in fretta; così Peter il Politico dovette aspettare altre due ore.”
+
+“Mormorò qualcosa tra sé, si mosse a scatti con i piedi, batté le dita e iniziò seriamente a pensare se non dovesse andare da qualche altra parte. Ma non conosceva nessuno all’Inferno che desiderasse la sua anima. Alla fine sospirò e continuò ad aspettare, con tutta la rassegnazione di cui era capace.”
+
+“E dopo altre due ore entrò un maggiore molto alto, distinto e dal tono di voce profondo; gli disse quanto fosse dispiaciuto che il suo padrone dovesse farlo aspettare, soprattutto ora che conoscevano la natura della sua richiesta. Ma il carico di lavoro di quel giorno era davvero terribile! E Peter il Politico sarebbe stato così gentile da inviare la sua proposta, almeno questa volta, perché il Diavolo Capo proprio non poteva uscire.”
+
+“Così disse seriamente Pietro il Politico…”
+
+“‘Per fortuna ho portato con me le merci.’ E gli consegnò il suo bel pacchetto avvolto in carta marrone; poi il Maggiore Diavolo uscì scusandosi.”
+
+“Allora Pietro il Politico dovette aspettare altre due ore. Alla fine entrò un Diavolo davvero distinto: i capelli divisi a metà, col colletto alto e rigido. Il suo accento, tutto quanto. Si sedette amichevolmente allo stesso tavolo di Pietro il Politico, si chinò verso di lui e disse in modo molto affabile e cortese, ”
+
+“‘Mio caro signore, il mio padrone si scusa davvero molto, ma da agosto c’è stato un calo terribile in questo settore; il mercato è completamente distrutto, e, beh, per essere franchi, quello che vogliamo sapere è quante unità avete disponibili per la vendita.’”
+
+“‘Quanti!’ disse Pietro il Politico, con un vero fastidio indegno della sua posizione.”
+
+“‘Sì,’ disse il seducente e davvero importante Segretario Diavolo (poiché tale era), ‘in realtà, il mio Capo dice che al momento attuale del mercato non può fornire prezzi per singoli articoli, ma se riusciste a portare una quantità maggiore, ’”
+
+“In quel momento, Pietro il Politico si alzò imprecando e uscì di casa, dimenticandosi di portare con sé la sua anima, che rimase lì sul tavolo, ancora legata.”
+
+“Ed è per questo che alcune persone dicono che abbia perso l’anima sua, perché di certo non l’ha mai venduta; e questo dovrebbe insegnarvi che non è facile vendere la propria anima, anche se è estremamente facile perderla o darla via.”
+
+Il Poeta (con grande interesse): “È la prima volta che ascolto questa storia!” Io: “Non è certo la quindicesima volta che la sento. La prima volta l’ho ascoltata da un yankee, e lui l’ha raccontata molto più velocemente e meglio del marinaio.”
+
+Il marinaio (con rabbia): “Allora torna pure in America e sentilo lì!”
+
+Io stesso. “Non arrabbiarti, Sailor, hai fatto del tuo meglio e ho imparato molte cose che prima non conoscevo. Ad esempio, riguardo a quel calendario. Non sapevo mai perché le morti di grandi uomini venissero registrate nei calendari.”
+
+Il Marinaio (un po' placato): “Beh, ora lo sai. E sai anche che se vuoi vendere la tua anima, dovrai produrre un camion pieno di roba prima di poter ottenere prezzi ragionevoli.”
+
+Grizzlebeard: “Penso che la storia del marinaio sia immorale”.
+
+Il Poeta: “Anch'io lo penso, perché parla in modo superficiale di cose che dovrebbero essere trattate con rispetto.”
+
+Grizzlebeard: “No, non per questo motivo; è immorale perché sostiene che le anime abbiano dimensioni e valori diversi. Ora è ben noto che le anime sono esattamente uguali tra loro: quando vengono messe a confronto, non differiscono nemmeno di un granello di sabbia, e se venissero misurate, non ci sarebbe nemmeno la centesima parte di un pollice di differenza tra due di esse. In termini di valore, sono tutte esattamente uguali. Questo principio è stato stabilito in ben 572 Sinodi, tre Decisioni dell’Ufficio Santo e un Concilio Ecumenico.”
+
+Il Marinaio: “Sì, ma non nei primi quattro Concili, e tantomeno a Nicea. Quindi questo ti lascia senza parole, vero?”
+
+Grizzlebeard (con solennità). “Che vada al diavolo Nicea!”
+
+Io stesso. “Molto bene, certamente, ma spero non sia Trent. Lui è molto importante, e litigare con lui comporterebbe troppi rischi.”
+
+“No,” disse Grizzlebeard, “né Trent, né tantomeno Constance, anche se questa seconda cosa mi preoccupa di più.”
+
+* * * * *
+
+Poi rimanemmo di nuovo in silenzio. La sera grigia si era fatta più scura mentre ascoltavamo la storia del marinaio, e faceva sempre più freddo. Proseguimmo nel buio crepuscolare fino a quando non arrivò il momento di cena. Eravamo così stanchi dopo quelle molte miglia percorse quel giorno che decidemmo tutti insieme di dormire, se possibile, nello stesso posto dove avremmo mangiato, cioè nell’osteria successiva. Ormai eravamo vicini alla fine del nostro viaggio: mancavano soltanto un miglio o due dal confine della contea. Mentre camminavamo, discutevamo su quale fosse il nostro ultimo pasto, l’ultima conversazione, l’ultima canzone, e le nostre ultime parole d’addio.
+
+“Amici miei,” dissi, “tutti gli uomini, prima di morire, fanno un banchetto se ne hanno la possibilità. È una vecchia usanza, e una che il tempo ha pienamente approvato. Fate un banchetto prima della battaglia, se potete, e anche prima della morte che potrebbe verificarsi in battaglia. Tutte quelle morti che colpiscono gli uomini quando sono in salute, è giusto fare un banchetto prima di esse. Ora, domani mattina, concluderemo questo nostro piccolo [[motifs/journey|viaggio]], attraversando l’intera contea, da un capo all’altro. In questo modo, potremmo dire, raggiungeremo la ‘morte dei nostri bei tempi’. Perché abbiamo concordato che, una volta arrivati al confine con il Hampshire, ci separeremo e non ci vedremo più.”
+
+Il marinaio: “Sì, siamo d’accordo.”
+
+Me stesso. “Bene, allora organizziamo una festa.”
+
+Il poeta. E chi pagherà?
+
+Grizzlebeard: “In generale, dovrei essere io a pagare, perché sono il più ricco. Non abbiamo organizzato nessuna festa in questi giorni, ma poiché questa sarà una festa solenne, una sorta di Pasqua (poiché presto attraverseremo il confine per entrare in Hampshire), ognuno dovrà contribuire con la propria parte.”
+
+Me stesso. “Sono molto disposto, ma se lo faccio, devo chiamare qualcuno per portare cibo e bevande.”
+
+Il Marinaio: “Per niente al mondo lo vorrei fare, ma anche se non lo voglio, di certo non mangerò né berò nulla che non mi piaccia.”
+
+Il Poeta: “Per quanto riguarda il mangiare e il bere, sono d’accordo con voi tutti; ma per quanto riguarda il pagare, sono completamente in disaccordo con voi, perché non ho nulla.”
+
+Io stesso dissi: “Ma come mai, Poeta? Solo oggi ti ho visto coi miei occhi al Bluebell, mentre pagavi una tazza di birra insieme a un lavoratore.”
+
+Il poeta. “Era l’ultimo denaro che avevo; l’ho fatto per beneficenza.”
+
+Il Marinaio. “Allora ora puoi ricevere la ricompensa della carità… o morire di fame.”
+
+Io stesso. “No, no. Esiste una via d’uscita da queste situazioni che è del tutto sconosciuta ai bambini e ai selvaggi, ma accessibile agli uomini intelligenti e colti come noi. Si tratta di utilizzare il carta invece del metallo per risolvere le questioni finanziarie. Vi sarà creato un fondo: ognuno verserà nel fondo un pezzo di carta su cui sarà scritto ‘Pagherò un quarto della somma richiesta’, e tutti firmeranno tale documento. Una volta fatto ciò, uno di noi quattro agirà come finanziatore e pagherà il debito. In seguito, quel pezzo di carta verrà presentato per il pagamento. E io pagherò, così come Grizzlebeard e il Marinaio. Ma tu, Poeta, non pagherai. E sarai dichiarato fallito.”
+
+Grizzlebeard: “Sì, in linea di principio hai ragione, ma non sono d’accordo con la semplicità della tua ultima clausola. Non permetterò che il onesto Poeta vada in bancarotta. Comprerò tutte le sue pubblicazioni e lui diventerà mio schiavo per tutta la vita; se riesco a organizzarlo, anche la sua famiglia subirà lo stesso destino.”
+
+Il poeta disse: “Ne sarò molto felice, Grizzledbeard, e ti ripagherò il debito con delle canzoni.” Grizzledbeard rispose: “Nemmeno per idea. Me lo pagherai in contanti, e con gli interessi. Quanto a come farai ad ottenerli, quella è affar tuo.”
+
+Io stesso. “Beh, comunque sia, è stato deciso che organizzeremo una festa, e personalmente dico che in questa festa deve esserci pancetta e uova fritte insieme nella stessa padella, creando così un unico piatto condiviso da tutti.” Il Marinaio. “Eccellente; e la bevanda sarà birra.”
+
+Il Poeta: “Oltre a questo, ci servono due grandi pani di pane fresco, burro e qualche tipo di formaggio.”
+
+Io stesso. “Poeta, non mi avevi detto che eri di questa contea, di questa terra?” Il Poeta. “Sì, l’avevo detto.”
+
+Io stesso. “Penso che tu abbia mentito. Chi mai in Sussex ha sentito parlare di ‘un qualche tipo di formaggio’? Potresti benissimo parlare a Hereford di ‘un qualche tipo di sidro’, o nel Kent di ‘un qualche tipo di straniero’ che arriva dalle terre straniere con le sue barche. Penso che tu abbia trascorso molti anni lontano dal Sussex, Poeta, e in momenti sbagliati.” Il Poeta. “Beh, è vero.”
+
+Io stesso, “E, senza dubbio, Poeta, in altre regioni hai preso l’abitudine di mangiare quel formaggio Gorgonzola, che in realtà è fatto di sapone nel Connecticut; e lo Stilton, che non viene prodotto affatto a Stilton; e il Camembert, e altre cose ancora più strane. Ma nel Sussex, lascia che te lo dica, abbiamo soltanto un tipo di formaggio, il cui nome è FORMAGGIO. È uno solo; indiviso, anche se diviso in mille pezzi; immutabile, anche se cambia luogo e quantità consumata. Nel Sussex non esiste altro formaggio che Formaggio, ed è sempre lo stesso vero Formaggio, dalla parte orientale del Rother fino a Harting Hill, e dalla spiaggia marina fino a quella zona del Surrey che abbiamo conquistato con spada e arco dalle Marche. Di colore è giallo, il colore giusto per un formaggio. Non è né giovane né vecchio. Il suo sapore è proprio quello di un formaggio, e nient’altro. Un uomo può vivere soltanto di questo formaggio per tutta la vita.”
+
+Grizzlebeard: “Bene, allora ci saranno pancetta e uova, pane e formaggio, birra. E dopo di questo, ”
+
+Io stesso. “Dopo di allora, ognuno prenderà ciò che gli appartiene, e il Poeta berrà acqua fredda. Ma io berò vino porto. E se ne sentirò il sapore caratteristico del vino di uva nera della mia contea, prodotto dalle piccole piante che conosco così bene, allora loderò Dio. Perché preferisco bere quel tipo di vino porto, che è tutto Sussex, dalla vigna al tino, prodotto esattamente come fanno gli uomini del Sussex, piuttosto che qualsiasi miscela portoghese fatta con bacche di sambuco, liquirizia e vino bollito.”
+
+Dopo aver così deciso la natura della festa, l’ultima traccia di luce si era ormai spenta all’orizzonte, dietro la rete formata dalle nude fronde degli alberi. L’aria era pura e fredda, tipica di questa notte di Ognissanti; ai confini delle colline, verso il Hampshire, si vedevano lunghe strisce di luce colorate, simboli di addio e riposo. Sugli argenti dei prati del Rother aleggiava una leggera nebbia, che formava anche una linea bianca nell’oscurità crescente ai piedi delle colline. Non era ancora completamente notte, ma le prime stelle erano già apparse nel cielo; il piacevole profumo dei falò si diffondeva nell’aria serale quando ci trovammo davanti a una grande locanda situata a nord della strada, dietro un piccolo spazio verde. Lì, alcuni carri erano parcheggiati all’aperto; un uomo stava accanto a un carro, a una o due landaulette e anche a dei carretti trainati da cani, tutti raggruppati nel grande cortile.
+
+I piani inferiori di questa vecchia locanda erano illuminati in modo splendido. Le piccole finestre quadrate erano oscurate da tende rosse; attraverso di esse, la luce raggiungeva noi mentre percorrevamo i freddi corridoi della sera, e sentivamo le canzoni degli uomini all’interno. Credo che ci fosse qualche tipo di mercato, il quale aveva attirato molti contadini dei dintorni, nonché alcuni commercianti e altre persone di rango inferiore.
+
+Quindi l'abbiamo trovato quando abbiamo bussato alla porta ed è stato aperto. C'era un bar piacevole, e da esso si apriva una grande stanza nella quale si trovavano circa quindici o venti uomini, tutti robusti, alcuni anziani; tutti bevevano e cantavano.
+
+Il loro pasto era già pronto da tempo, ma noi avevamo ordinato il nostro, che era di tale eccellenza in termini di uova e bacon, che nessuno di noi avrebbe mai pensato fosse possibile trovare qualcosa del genere al di là della tomba. Anche il formaggio, di cui ho parlato, ci fu servito insieme ai nuovi panini appena sfornati; quindi questa festa, a differenza di qualsiasi altra dal tempo dell’inizio del mondo, soddisfaceva esattamente tutte le aspettative che avevamo, e noi ne fummo molto contenti.
+
+Poi accendemmo le nostre pipe e ognuno chiese il proprio drink: io il mio porto alle bacche nere, Grizzlebeard il brandy; il Poeta, a spese del Marinaio, la birra, mentre il Marinaio stesso il vino rosso. Dopo aver preso posto attorno al grande tavolo, salutammo tutti i presenti. Tuttavia non ci fu permesso di continuare la conversazione finché un vecchio seduto all’estremità del tavolo, con una piccola barba grigia e occhi semichiusi, non batté forte il pugno sul tavolo gridando “GOLIER”. Questa parola sembrava rappresentare qualche tipo di segnale, perché appena la pronunciò, tutti gli altri ripeterono in coro:
+
+“E canterò ‘Golier’!”
+
+Goliere, Goliere, Goliere, Goliere
+
+E canterò di Golier!
+
+Quando questo verso (che costituisce l’intero poema) fu ripetuto circa sei volte, capii con certezza di trovarmi ancora nella mia contea natale, e ne fui felice nel profondo del cuore, come un uomo che sente la tempesta battere contro le finestre, ma che è al sicuro all’interno della propria casa, protetto dal fuoco. Così capii anche che Hampshire si estendeva desolata per un miglio o due oltre, ma io ero al sicuro tra la mia gente, e questo lo dimostrava il fatto che stavano cantando quella antica canzone “Golier”.
+
+Dopo aver cantato quante strofe di questo inno nazionale ritenevano opportuno, un giovane chiamò “Signor Charles”; da un angolo remoto del tavolo arrivò la risposta.
+
+“Se così deve essere, che sia come desidero io… o che si possa agire secondo i miei voleri…”
+
+Ma non riuscì a finirla, perché tutti iniziarono ad esclamare molto ad alta voce: “Signor Charles, Signor Charles!”, allora l’uomo molto anziano, alzandosi con fatica sulle sue gambe molto vecchie, posò le sue mani molto vecchie sul tavolo, si chinò in avanti e guardò verso l’alto con un volto pieno di anni e aspettativa, dicendo:
+
+“Posso cantare quella canzone della California di sessant'anni fa,” disse ridacchiando. Poi un altro vecchio vicino a lui aggiunse:
+
+“Ah, finalmente parlate nel modo giusto, signor Charles. C'era quel campo chiamato Hewlett’s Field, o alcuni lo chiamavano Howlett’s Field; in quello stesso periodo venne poi chiamato ‘California’, ” Ma i giovani che non riuscivano a sentirlo gridavano:
+
+“Signor Charles, Signor Charles, ”, fino a quando il silenzio fu nuovamente ristabilito dal pugno del presidente che, con grande solennità, chiamò ancora una volta il signor Charles. Il signor Charles, con voce tremante, ci recitò allora quella antica lamentela.
+
+Navigo verso l’America
+
+Quella riva così lontana e straniera…
+
+E io spero di poter mettere piede…
+
+“In una terra fertile e rigogliosa…”
+
+Ma nel mezzo dell’oceano…
+
+Cresca pure il melo verde
+
+Prima di dimostrare che è falso
+
+Per la ragazza che mi ama.
+
+La luna sarà avvolta nell’oscurità.
+
+E le stelle non emettono luce
+
+Ma ti avvolgerò tra le mie braccia
+
+In una fredda notte gelida.
+
+E nel mezzo dell’oceano
+
+“Che possa crescere il melo verde…”
+
+Qui, sopraffatta dalla malinconia di simili eventi, l’intera compagnia si unì in un grande lamento.
+
+Prima che dimostri di essere falso
+
+“Per la ragazza che mi ama.”
+
+Questa canzone ci ha colpiti profondamente tutti, soprattutto il Poeta; per alcuni momenti non siamo più stati noi stessi. Quando il Marinai, alzando lo sguardo all’improvviso, disse:
+
+“Signori, vi canterò una canzone, ma solo a condizione che possiate unirvi al ritornello.” A cui il presidente, seduto in fondo al tavolo, rispose:
+
+“Ah, signore, se così fosse come noi lo conosciamo…”
+
+Un giovane uomo protestò allora:
+
+“Nient'altro che quello che possiamo fare insieme per cantarlo dopo”, ed era questa l’opinione generale. Così, quando quel pugno posto all’estremità del tavolo ebbe eseguito il suo rituale abituale, e quando fu portata ancora più birra, come richiesto dall’occasione, il Marinai iniziò a gridare a squarciagola, senza alcuna melodia particolare, quella nobile canzone; enfatizzava in modo particolare il ritornello, così che tutti i nostri amici potessero ripeterlo facilmente.
+
+"La brutta, meschina e traditrice regina"...
+
+Penso che tu sia il Diavolo!
+
+Per abbattere i ricchi e gli egoisti
+
+E portarle allo stesso livello.
+
+Di tutti i miei amici che hanno trovato la loro fine…
+
+Seguendoti soltanto.
+
+Quanti ne ho già raccontati all’inferno…
+
+“Così sarà anche per me…”
+
+Sentendo quest'ultima frase, tutti cominciarono a battere le mani e a gridare con entusiasmo, urlando ad alta voce:
+
+"#Non sarà mai così."
+
+Non sarà mai così
+
+“Non resterai mai con me!”
+
+Che, attraverso ripetizioni appassionate, trasformarono in un canto corale; e un vecchio signore il cui mento era quasi appoggiato sul tavolo disse: “Sì, padrone! Ma chi è lei?”
+
+“Perché,” disse il Marinaio, “quella di cui parliamo in questa canzone è proprio lo spirito che ci spinge a cercare sempre di ottenere di più, a rendere la nostra vita più facile a scapito degli altri e delle nostre stesse anime.”
+
+“Dovremo riuscirci! Se possibile, faremo del nostro meglio!” disse un giovane mugnaio che abitava più a valle.
+
+“Sì,” disse brevemente il Marinaiolo, “ma lasciate che vi dica: nelle città esagerano davvero. Non biasimo il vostro modo di fare, e comunque, la canzone deve andare avanti,” e così iniziò il secondo verso.
+
+"Conoscevo tre individui che erano sotto il tuo controllo..."
+
+Troppo da portare
+
+Il primo potrebbe non bere affatto vino.
+
+E nel secondo momento, non volle sposarsi.
+
+Il terzo nella ricerca della terra d’oro
+
+Fu annegato in mare.
+
+“Cosa gli insegnò a capire quanto valga il proprio salario…”
+
+“Così sarà anche per me…”
+
+E tutti gridarono di nuovo come prima:
+
+"#Non sarà mai così."
+
+Non sarà mai così
+
+“Non sarai mai con me.”
+
+“Allora il marinaio ricominciò…”
+
+“C’era Peter Bell di North Chappel…”
+
+Fu troppo duro e spietato
+
+Non spese nemmeno un centesimo di tutti i suoi molti…
+
+Morì per aver curato troppo…
+
+Salvò più di due sterline e mezza
+
+Ma sua vedova lo spendette senza risparmio.
+
+Capovolse letteralmente la città
+
+“Così sarà anche per me…”
+
+E ancora una volta, ma con maggiore zelo di prima, gli ripeterono il loro coro; tutti conoscevano infatti la North Chapel, e alcuni scuotevano la testa ridendo; uno anziano bugiardo aggiunse persino di ricordare quella vedova.
+
+Ma il marinaio, alla fine, cantò con una voce ancora più potente di quella che ci aveva riservato in tutti quei giorni:
+
+Titolo:  
+“Allora i manichini battono sul tavolo…”
+
+Per il figlio minore dello sceriffo
+
+Chi mai non ha posseduto nemmeno un penny o una sterlina…
+
+Ma ottenne ciò che desiderava con tutto il cuore.
+
+Oh, la maledizione dei creditori
+
+Seguirebbe il suo feretro
+
+Per tutto ciò che aveva importanza per lui!
+
+Facili da ingannare
+
+Dall’adorare Mammon…
+
+“Così sarà anche per me…”
+
+“E tutti insieme, con un unico e potente coro, lo applaudirono e lo accolsero come amico, gridando…”
+
+"Non lo dirò mai"
+
+Non lo dirò mai
+
+“Non sarai mai con me.”
+
+“Ah! Ma questo è davvero giusto!” disse il principale usuraio di quella zona, con gli occhi che brillavano; e in quel momento si sarebbe potuto pensare che nessuno di loro avesse più ambizioni terrene. Mentre il marinaio mormorava tra sé:
+
+"#And Absalom..."
+
+Un figlio di re
+
+Impiccato a un albero
+
+Quando avrebbe potuto conquistare il regno
+
+“Così sarà anche per me…”
+
+Era giunto il momento in cui gli ospiti dovevano andare a salvare coloro che quella notte avrebbero dormito in quella casa, e i cui animali erano alloggiati lì. Ma quando Grizzlebeard ed io chiedemmo all’ospite se ci fosse posto per noi, lui rispose di no, nemmeno nella sua stalla, dove quella notte molte persone avrebbero dormito sul pagliaio. Tuttavia, se avessimo pagato il nostro conto, avremmo potuto dormire (e ci avrebbe fornito coperte e tappeti) davanti a quel fuoco, in quella stanza.
+
+Gli dicemmo che saremmo partiti presto, pagammo il conto e così, per la terza volta in quelle tre notti, avremmo dormito di nuovo come fanno gli uomini in tempo di guerra. Ma ormai le nostre ossa erano ormai abituate a questo.
+
+TT
+
+E quando l’ultimo uomo se ne andò a letto o nel fienile, ci rimase solo una candela; così ci sistemammo il più meglio possibile intorno al fuoco e dormimmo l’ultima notte di quel meraviglioso viaggio.
+
+Il 2 novembre 1902
+
+Mi svegliai di colpo, uscendo bruscamente da quel sogno in quella stanza vuota. Era Grizzlebeard ad aver messo la sua mano sulla mia spalla. L’alba tardi invernale appena iniziava a illuminare il cielo; c’era nebbia sulle lande circostanti e brina sui vetri delle finestre.
+
+Mi svegliai e rabbrividii. Nel sogno ero giunto in un luogo meraviglioso, quel luogo nascosto nella mente, fatto interamente di ricordi e pace. Lì sembravo trovarmi in una vasta radura di faggi, in piedi su erba morbida e profumata, su una pendenza molto alta sopra il mare; l’aria era calda e il mare rifletteva i raggi del sole, molto più in basso. Era un luogo simile a quello che le mie terre natie avevano creato nella mia mente, ma trasfigurato, pieno di gloria e soddisfazione, di grandezza e bellezza adatta alla beatitudine dell’anima. Nel sogno non provavo alcun senso di perdita; al contrario, tutto sembrava essere finalmente ritornato a me. Ma tutto questo era solo un sogno. Quando mi svegliai, mi trovai nel mondo reale, davanti alle tristi incertezze di una giornata invernale appena iniziata.
+
+“Grizzlebeard, che mi aveva svegliato, disse seriamente…”
+
+“Dobbiamo alzarci presto. Svegliamo anche gli altri e partiamo, perché siamo vicini alla fine del nostro [[motifs/journey|viaggio]]. Siamo arrivati alla fine di questo breve tratto del nostro percorso, e della nostra breve compagnia, poiché dobbiamo raggiungere il confine della contea in queste prime ore del giorno. Quindi, svegliatevi e svegliate anche gli altri.”
+
+Poi svegliai gli altri due, che anch'essi si mossero e guardarono con stanchezza quella debole luce grigiastra, ma si alzarono a loro volta. Allora dissi a Grizzledbeard:
+
+“Non dovremmo mangiare prima di andare in quel posto dove non ci vedremo più mai?”
+
+Ma lui disse: “No, abbiamo ancora un piccolo tratto da percorrere; e quando avremo completato questo tratto insieme, romperemo il pane che abbiamo tra noi, ci faremo promesse a vicenda, se vuoi. E poi non ci vedremo mai più.”
+
+Anche gli altri dissero che era proprio in questo modo che la cosa doveva essere fatta.
+
+Cedendo loro, quindi (poiché percepii che erano più forti di me), uscimmo nella nebbia mattutina e camminammo attraverso di essa con decisione, ma in silenzio; i suoni dei nostri passi ci raggiungevano chiaramente, avvolti e nascosti dalla nebbia. Per un miglio, poi un secondo miglio, nessuno di noi pronunciò una parola. Mentre camminavo, guardavo furtivamente da una parte all’altra, osservando i miei compagni che il caso aveva messo al mio fianco in quelle poche ore; e mi sembrava (forse a causa della nebbia o per qualche altro motivo) che fossero più alti degli uomini normali, e i loro occhi evitavano di incrociare i miei.
+
+Quando arrivammo a Treyford, Grizzlebeard, che in quel momento era di fatto il nostro capo – o almeno il mio – prese quella strada che conduceva a nord, attraversava Redlands e saliva fino alla collina di Elstead e alla sua locanda. Fu allora che per la prima volta parlò.
+
+“Qui spezzeremo un pane e ci prometteremo l’un l’altro per l’ultima volta.”
+
+Lo facemmo, seduti tutti in silenzio; poi riprendemmo il cammino, procedendo come avevamo fatto prima, fino a quando non arrivammo a Harting. Appena entrammo nel villaggio, Grizzlebeard, avanzando un po’ più velocemente, si fermò insieme ai suoi due compagni davanti a me, bloccandomi il passo; mi guardavano con gentilezza, ma impedivano che potessi proseguire.
+
+Dissero loro, un po' spaventati: “State per lasciarci ora? Non siamo ancora arrivati al confine della contea!”
+
+“Ma GrizzlediBarba disse (gli altri rimasero in silenzio):…”
+
+“Sì. Proprio come ci siamo incontrati da questa parte del confine della contea, così ci separeremo prima di attraversarlo. E nemmeno tu lo attraverserai con noi. Ma io e questi miei compagni, una volta superato il confine, dovremo andare ognuno per la propria strada; mentre tu, forse, sei più fortunato, perché non sei lontano dalla tua [[motifs/home|>casa]].”
+
+Quando lo disse, rimasi confuso e mi chiesi, dalla sua voce e dal comportamento di lui e dei suoi compagni nel complesso, se davvero fossero uomini.
+
+“. E in tutta la contea,” dissi, “esiste un'altra compagnia di quattro persone come questa; riuscirò a trovare anche solo un compagno simile a uno di voi? Chi c’è oggi che possa cantare come fate voi, in qualsiasi momento della giornata, e che sappia anche comporre le melodie? E anche se qualcuno potesse cantare così, sarebbe davvero una persona della mia stessa fede?”
+
+“Torna con me,” dissi, “lungo la cresta delle Downs; vedremo insieme i boschi di Lavington e il pendio ripido di Bury Combe, poi gireremo a sud e raggiungeremo una casa che conosco, costruita su ciottoli, vicino alla riva del mare, non lontano da dove gli antichi palazzi romani sono sommersi dall’Owers; stasera ancora, e se vorrai per l’ultima volta, accanto a un altro fuoco canteremo ancora più forte, mescolando le nostre voci al rumore del mare.”
+
+Ma Grizzlebeard non volle nemmeno indugiare. Mi guardò con una terribile solennità e disse: “No; tutti e tre siamo chiamati ad altre cose. Ma torni pure a casa tua, perché il [[motifs/journey|viaggio]] è finito.”
+
+Poi aggiunse (ma con un altro tono di voce): “Non rimane assolutamente nulla: né case, né castelli, per quanto forti; né amori, per quanto teneri e sinceri; né [[concepts/comradeship|amicizie]] tra gli uomini, per quanto solide. Non resta che ciò di cui non parlerò, perché ne abbiamo già parlato abbastanza in questi quattro giorni. Ma io, che sono vecchio, vi darò un consiglio: da ora in poi dovete considerare soprattutto quelle cose permanenti che rappresentano, per così dire, le rive di quest’epoca e i porti del nostro mare scintillante e piacevole, ma anche pericoloso e completamente mutevole.”
+
+Quando ebbe detto queste parole – intendendo con esse la Morte – gli altri due, guardandomi tristemente, rimasero in silenzio per il tempo necessario perché un uomo possa dire addio con rispetto. Poi tutti e tre si girarono e se ne andarono rapidamente, con uno scopo preciso, lungo la strada del villaggio.
+
+Li osservavo, stringendo gli occhi pieni di tristezza, ma in un attimo la nebbia li avvolse e scomparvero.
+
+* * * * *
+
+Salii nella penombra, lungo il sentiero più vicino, fino al prato e nella solitudine delle alte colline che sono i miei “fratelli” e la mia fonte di riposo; una volta raggiunto la loro cima, rivolsi il viso verso est e proseguii per molte ore, camminando febbrilmente verso le località da cui eravamo partiti; sotto di me, mentre avanzavo, si estendeva quel bellissimo paesaggio in cui avevo trascorso momenti così rari e indimenticabili.
+
+Continuavo ad avanzare, attraverso piccoli sentieri tortuosi e le grandi creste ondulate delle colline; man mano che il giorno proseguiva e la luce intorno a me diminuiva, continuavo comunque ad andare avanti, ora inoltrandomi nelle zone dove sentieri e strade attraversavano la catena montuosa, ora entrando per un breve tratto in alte e silenziose foreste. E tutto il tempo mi avvicinavo sempre di più a un luogo preciso, del quale ricordi erano rimasti impressi nella mia mente da anni. Ma mentre camminavo verso quell’obiettivo, una crescente solitudine mi opprimeva; l’atmosfera di perdita e il ricordo di quelle profonde riflessioni scambiate in passato dai quattro di noi continuavano a tormentarmi.
+
+Era nel bosco sopra Lavington, vicino alle colline dove si dice siano sepolti gli antichi re, che io, continuando ancora a seguire il profilo delle colline circostanti, provai l’apice totale di tutte quelle venti “marea” di mutabilità che si erano accumulate nel corso del tempo, formando così un insieme complesso nella mia anima. Vidi e compresi, proprio come si vede o si tocca una cosa fisica, che nulla di ciò che appartiene a noi umani rimane; anzi, anche prima che la mia contea smettesse di essere se stessa, io l’avrei già lasciata. Riconobbi di trovarmi in quella condizione mentale in cui gli uomini ammettono la propria [[concepts/mortality|mortalità]]: qualcosa era già svanito da me. Intendo dire quel “mattino fresco e vigoroso” della mia vita, in cui la bellezza di questa terra si rifletteva come in uno specchio d’argento lucido. La giovinezza se n’era andata. Era stata amata e rimpianta, ma ormai non mi apparteneva più.
+
+Poi, mentre camminavo più lentamente attraverso quel bosco, spingendo davanti a me grandi ondate di foglie secche – proprio come le vele di una nave spingono l’acqua scura al loro passaggio – da un lato all’altro. Quando il vento soffia forte sul centro della vela e l’acqua risponde con un suono potente mentre la nave procede, così anch’io continuai a camminare. Finché, all’improvviso, ricordai con quel dolore che colpisce gli uomini al suono delle campane: quella volta era novembre. Era il Giorno dei Morti. Per tutto quel giorno ero stato immerso nei miei pensieri, in solitudine e digiuno. Ora stava calando la sera. Avevo trascorso l’intera giornata in quella profonda solitudine tra le montagne. E ora era già sera. Proprio in quell’istante di ricordo alzai lo sguardo. E vidi che ero arrivato laggiù. Ero giunto su quel prato che, per tutto quel tempo, avevo immaginato fosse la mia meta.
+
+È quella grande piattaforma situata poco oltre Barl’ton, da dove tutto il mondo si apre davanti ai nostri occhi. A est, per cinquanta miglia, si estende la muraglia delle colline nella notte; a ovest, verso il cielo colorato, persiste ancora una luce diurna, sebbene trasformata. A sud si estende la vasta distesa del mare, assolutamente immobile; nemmeno un animale si muove nelle macchie boschive vicino a me, per disturbare la maestosità di quel silenzio. A nord, molto più in basso, si stende la foresta di Weald.
+
+La nebbia era svanita; il cielo era pallido e invernale, ma puro in tutto il suo perimetro, e sopra la Manica si stagliava chiaramente la luna piena, ancora pallida, perché la notte non era ancora arrivata.
+
+Ma sebbene fosse spesso adorata in tali serate e in un luogo del genere, ora qualcosa di ancora più grande mi attirava lontano da lei; così mi girai e guardai verso nord, oltre la cresta della scoscesa scarpata, verso la pianura, i fiumi e i tetti della regione del Weald. Avrei voluto benedirli se avessi conosciuto qualche parola o incantesimo in grado di trasmettere una vera benedizione; ma poiché non ne conoscevo alcuno, ripetei invece l’elenco dei loro nomi, come se fosse una preghiera.
+
+Il fiume Arun, una valle di acque sacre; e il ruscello Amberley Wild, solitario e circondato da canne al tramonto; e la grande casa di Burton, dove avevo trascorso delle notti a novembre; e anche Lavington e Hidden Byworth; poi Fittleworth e Egdean Side, tutto brughiera e aria pura; il lago e i pini vicino alla mulina; e Petworth, piccola città.
+
+Tutta quella terra che è intrecciata con la nostra carne, eppure nella quale un uomo non riesce nemmeno a trovare un acro o un muro che appartenga a lui stesso.
+
+Sapevo che, spinto da questo sentimento, soltanto quel verso avrebbe potuto soddisfare almeno in parte quel desiderio irrimediabile. Così mi sdraiai completamente sull’erba corta che anche le pecore amano, presi un piccolo mozzicone di matita che avevo con me e strappai il retro di una lettera; poi composi le mie parole, misurandone la metrica, che all’inizio mi sfuggiva (sebbene fosse già presente in me da molte ore). Fu proprio grazie a quelle righe casualmente scritte che riuscii a trovare la giusta struttura.
+
+"... e quindi anche la gioventù che muore"
+
+“Può lasciare in eredità i suoi beni secondo il proprio volere.”
+
+Posai il mio gesso sul foglio, con esitazione, e tracciai delle piccole linee, riflettendo sul mio tema. Ma non esitai a lungo in questo modo, perché sapevo che ogni creazione deve prima nascere dal caos, per poi assumere forma nel vuoto, prima di diventare qualcosa di completo. Così scrissi frammenti qua e là; pensando a quanti bambini, sotto di me, su quel vasto e fecondo “terreno”, stessero appena iniziando ciò che io avrei dovuto inevitabilmente abbandonare.
+
+“…e della mia ricchezza lascio…”
+
+Per ogni ragazza e ragazzo del Sussex
+
+“La mia sorte nella gioia universale”.
+
+Dopo averlo scritto, capii chiaramente cosa avevo in mente.
+
+Il modo in cui la nostra terra e noi ci fondono insieme, diventando parte di un’unica entità, mi ha dato forza e ha guidato le varie parti del mio poema verso una conclusione; presentandole una dopo l’altra, fino a quando alla fine ho scritto questa riga:
+
+“Uniti ai nostri campi casuali, cresciamo insieme.”
+
+E poiché al momento non riuscivo a completare la parte centrale del verso, scrissi la fine, che già era pronta.
+
+"... a causa della discendenza e perché..."
+
+Il suolo e i ricordi che svaniscono dalla mente
+
+“Divaricare e ampliare tutta l’umanità.”
+
+Ah! Ma se un uomo fa parte di una terra ferma e solida che lo ha nutrito e dato vita, e se lui stesso può contribuire a renderla ancora più gloriosa e utile, allora quella terra sarà per lui un vero amico per sempre; in un certo senso, avrà sconfitto la Morte.
+
+“E io passerò”, pensai, “ma questo rimarrà”.
+
+“Quasi lungo quanto la Terra di Nessuno.”
+
+“No, certamente,” risposi ad alta voce a me stesso, “lui non muore!” E da quella frase iniziarono a nascere le successive idee; le ultime strofe mi apparvero subito chiare, complete e significative, e le scrissi il più velocemente possibile.
+
+“Non muore mai… ciò che può essere lasciato in eredità.”
+
+Un certo influenzo sulla terra che conosce…
+
+Osa, perseverante, intrecciarsi
+
+Amore eterno tra i cespugli selvatici
+
+Non muore, ma rimane comunque lì.
+
+Confermare con le sue adorate pianure.
+
+Titolo:  
+“L’avventura meravigliosa della primavera chiama…”
+
+La sua polvere divampa tra gli alberi;
+
+Il segreto delle cascate del fiume che delimita il suo territorio
+
+Ricordate e ripetete il suo nome.
+
+Cavalca nel cielo rumoroso di ottobre
+
+Non muore. Non muore.
+
+“Le querce conoscono quella testa familiare…”
+
+Chi li amava, e un cielo popolato di esseri viventi
+
+Sotto la loro benedizione… si estendeva…
+
+Consola il silenzio ovunque
+
+Per gli spiriti nativi… tornate e restate qui
+
+Perfeziona il mistero che si nasconde tra gli alberi.
+
+“Quindi, anche se io stesso sono… “
+
+Il tremore di quel terribile giorno
+
+Quando amici, fuoco e [[motifs/home|>casa]] vengono persi.
+
+E anche i bambini, che vengono portati via…
+
+Il passante mi sentirà ancora.
+
+“Un ragazzo che canta sulla collina di Duncton”.
+
+Ricco di questi pensieri e profondamente sollevato dalla loro espressione in versi, attraversai l’oscurità circostante, dirigendomi verso sud, attraverso le colline, fino alla mia [[motifs/home|>casa]].
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Four Men (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/home,motif/journey"></span>

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Tell leaf atoms from aggregate ones in VaultEnglish/Authors/*/Atomized/.
+"""Tell leaf atoms from aggregate ones in VaultEnglish/Authors/*/{Atomized,Long,Plays,Poems}/.
 
 Atomization is redundant on purpose: the same text exists at up to three levels.
 
@@ -20,7 +20,7 @@ VAULT_ROOT = os.path.normpath(os.path.join(HERE, "..", "..", "..", "VaultEnglish
 
 
 def is_leaf(rel, vault=VAULT_ROOT):
-    """rel is 'Authors/<Name>/Atomized/.../x.md' relative to the vault root."""
+    """rel is 'Authors/<Name>/<subtree>/.../x.md' relative to the vault root."""
     if not rel.endswith(".md") or rel.endswith(".it.md"):
         return False
     path = os.path.join(vault, rel)
@@ -40,21 +40,31 @@ def is_leaf(rel, vault=VAULT_ROOT):
     return True
 
 
+# The content subtrees, in the order an author's work is meant to be read. Atomized/ was
+# the only one walked for a long time, which left Long/, Plays/ and Poems/ outside every
+# common rule -- no frontmatter check, no leaf/aggregate verdict, no assembly -- so each of
+# them grew its own ad-hoc script. They are all the same shape (a work dir holding leaves,
+# nested as deep as the work needs), so one walker covers them all.
+# _raw/ and _letters_raw/ are staging areas, not content: they stay out.
+SUBTREES = ("Atomized", "Long", "Plays", "Poems")
+
+
 def walk_leaves(author=None, vault=VAULT_ROOT):
     base = os.path.join(vault, "Authors")
     for name in sorted(os.listdir(base)):
         if author and name != author:
             continue
-        atom = os.path.join(base, name, "Atomized")
-        if not os.path.isdir(atom):
-            continue
-        for root, _dirs, files in os.walk(atom):
-            for f in files:
-                if not f.endswith(".md") or f.endswith(".it.md"):
-                    continue
-                rel = os.path.relpath(os.path.join(root, f), vault)
-                if is_leaf(rel, vault):
-                    yield name, rel
+        for sub in SUBTREES:
+            atom = os.path.join(base, name, sub)
+            if not os.path.isdir(atom):
+                continue
+            for root, _dirs, files in os.walk(atom):
+                for f in sorted(files):
+                    if not f.endswith(".md") or f.endswith(".it.md"):
+                        continue
+                    rel = os.path.relpath(os.path.join(root, f), vault)
+                    if is_leaf(rel, vault):
+                        yield name, rel
 
 
 def main():

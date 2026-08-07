@@ -175,7 +175,7 @@ And he smiles, but not as Sultans smile, and settles back the blade....
 
 Lepanto  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 Bianche fonti cadono nelle Corti del sole,  
 e il Soldano di Bisanzio sorride al loro scorrere;  

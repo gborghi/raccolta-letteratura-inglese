@@ -78832,6 +78832,72 @@ had anything to do with this fellow. Yet he never passed in at _my_
 door--never sat in colloquy with _me_ until midnight.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non è stato il tuo nome a essere menzionato davanti a me.”
+
+“No; lo so già. Scusate. Ho già avuto esperienze negative in passato: il mio nome, infatti, non sembra incoraggiarvi ad accettare un colloquio; per questo ho osato menzionare il nome di qualcuno che sto cercando.”
+
+“Prega,” rispose lei, indicandogli una sedia con tale freddezza che lui rimase in piedi, “qual era il nome che hai dato?”
+
+“Ho menzionato il nome di Blandois.”
+
+“Blandois?”
+
+“Un nome che conosci bene.”
+
+“È strano,” disse lei, aggrottando la fronte, “che continui a mostrare un interesse indesiderato per me e le mie conoscenti, per me e le mie faccende, signor Clennam. Non so cosa intenda.”
+
+“Scusi. Conosce il nome?”
+
+‘Cosa c'entra questo nome con te? Cosa c'entra questo nome con il fatto che io lo conosca o meno? Conosco molti nomi, e ne ho dimenticati ancora di più. Potrebbe trovarsi in questa classe, oppure in un'altra. O forse non l’ho mai nemmeno sentito. Non vedo alcun motivo per esaminarmi riguardo a questo, né per essere esaminato al riguardo.’
+
+“Se mi permettete,” disse Clennam, “vi spiegherò il motivo per cui insisto su questo argomento. Ammetto di farlo effettivamente, e vi prego sinceramente di scusarmi se lo faccio. Il motivo è esclusivamente mio; non intendo affatto insinuare che sia in qualche modo vostro.”
+
+“Beh, signore,” rispose lei, ripetendo l’invito precedente a sedersi in tono meno altezzoso di prima; lui attese che si fosse sistemata per fare lo stesso. “Almeno sono contenta di sapere che questa non è un’altra schiava di qualche vostro amico, priva di libertà di scelta, che io abbia portato via. Vi ascolterò spiegare il motivo, se vi compiacete.”
+
+“Prima di tutto, per identificare la persona di cui stiamo parlando,” disse Clennam, “lasciate che osservi che si tratta della persona che avete incontrato a [[settings/london|Londra]] qualche tempo fa. Vi ricorderete sicuramente di averlo incontrato vicino al [[motifs/river|fiume]], nell’Adelphi!”
+
+“Ti immischi nelle mie faccende in modo del tutto irragionevole,” rispose lei, guardandolo con severo disappunto. “Come fai a saperlo?”
+
+“Vi prego, non prendetela sul serio. È stato solo un caso.”
+
+“Che incidente?”
+
+Solo l’incidente di incontrarti per strada e vedere quell’incontro.
+
+“Parli di te stesso, o di qualcun altro?”
+
+“Di me stesso. L’ho visto.”
+
+“Con certezza è successo in una strada aperta,” osservò dopo alcuni momenti di riflessione, durante i quali la sua rabbia si era gradualmente placata. “Cinquanta persone avrebbero potuto vederlo. Ma anche se l’avessero fatto, non avrebbe significato nulla.”
+
+“Né considero il fatto di averlo visto come qualcosa di particolarmente importante in questo momento, né collego la mia visita a esso o al favore che devo chiedere, se non come una spiegazione del motivo per cui sono venuto qui.”
+
+“Oh! Devo chiedervi un favore. Mi è venuto in mente,” disse il bel viso guardandolo con amarezza, “che il vostro comportamento si sia addolcito, signor Clennam.”
+
+Era soddisfatto di protestare contro questa situazione con un gesto semplice, senza affrontarla a parole. Poi menzionò la scomparsa di Blandois; probabilmente lei ne aveva già sentito parlare. Per quanto fosse probabile per lui, lei non ne sapeva nulla. “Guardati intorno,” gli disse, “e giudica tu stesso fino a che punto una donna rinchiusa lì dentro, in mezzo a tutto ciò che accadeva, potesse venire a conoscenza di certe cose, ”. Quando pronunciò questa negazione, che lui riteneva vera, lei gli chiese cosa intendesse per “scomparsa”. Allora lui le raccontò nei dettagli tutta la storia, esprimendo la sua ansia di scoprire cosa fosse realmente accaduto a quell’uomo e di scacciare quelle oscure sospetti che avvolgevano la casa di sua madre. Lei lo ascoltò con evidente sorpresa, mostrando un interesse più profondo di quanto lui avesse mai notato in lei. Tuttavia, quel suo atteggiamento distaccato, orgoglioso e riservato non cambiò affatto. Quando finì di parlare, lei non disse nulla se non queste parole:
+
+“Signore, non mi avete ancora detto cosa ho a che fare con questa faccenda, o quale favore si tratti. Potreste gentilmente chiarirmi?”
+
+“Suppongo,” disse [[characters/arthur|Arthur]], continuando nel suo tentativo di mitigare il suo atteggiamento sprezzante, “che mantenere un rapporto di comunicazione, posso dire, una comunicazione confidenziale, con questa persona, ”
+
+“Può darsi che lei dica quello che vuole,” osservò; “ma io non condivido le sue supposizioni, signor Clennam, né quelle di nessun altro.”
+
+“–Cioè, almeno nella comunicazione personale con lui,” disse Clennam, cambiando posizione nella speranza di rendere la sua richiesta meno ostile, “potreste dirmi qualcosa sui suoi antecedenti, sulle sue attività, sulle sue abitudini, sul luogo in cui di solito risiede. Potreste darmi qualche indizio per trovarlo nel modo più probabile, e far sì che si presenti o scoprire cosa ne è stato. Questa è la grazia che chiedo, e la chiedo nella disperazione. Spero che vi impietosirete. Se aveste motivo di impormi delle condizioni, le rispetterò senza chiedere quali siano.”
+
+“Ti è capitato di vedermi per strada con quell’uomo,” osservò lei, dopo essere stata, a suo grande imbarazzo, chiaramente più interessata alle proprie riflessioni sull’argomento che alla sua richiesta. “Allora lo conoscevi già?”
+
+“Prima no; dopo sì. Non l’avevo mai visto prima, ma l’ho rivisto proprio questa [[motifs/night|notte]] del suo scomparire. Nella stanza di mia madre, per la precisione. L’ho lasciato lì. In questo giornale troverete tutto ciò che si sa su di lui.”
+
+Le diede uno dei biglietti stampati; lei lo lesse con un’espressione seria e attenta.
+
+“Questo è molto di più di quanto io sapessi su di lui,” disse lei, restituendoglielo. Lo sguardo di Clennam esprimeva una profonda delusione, forse persino incredulità; perché lei aggiunse, con lo stesso tono privo di compassione: “Non ci credi. Eppure è così. Per quanto riguarda le comunicazioni personali: sembra che ci sia stata una corrispondenza tra lui e tua madre. Eppure tu dici di credere alla sua dichiarazione secondo cui lei non sa nulla su di lui!”
+
+In queste parole, e nel sorriso che le accompagnava, c'era un accenno di sospetto abbastanza esplicito da far arrossire le guance di Clennam.
+
+“Come, signore,” disse lei, con un crudele piacere nel ripetere quell’offesa, “sarò altrettanto aperta con voi quanto possiate desiderare. Confesserò che, se mi importasse della mia reputazione (cosa che non mi interessa affatto) o volessi preservare una buona nomea (che non ho, poiché non mi interessa affatto che venga considerata buona o cattiva), mi sentirei gravemente compromessa se avessi avuto a che fare con quest’uomo. Eppure lui non è mai entrato nella mia casa. Non ha mai parlato con me fino a mezzanotte.”
+
 
 
 <span class="atom-split" data-atom="chapter_58_introduces_the_next--part_03" data-title="Little Dorrit — Chapter 20: Introduces the next (part 3)" data-chapter="Introduces the next" data-kind="excerpt" data-tags="archetype/shadow,motif/love,motif/nature,motif/rose,motif/time,concept/nature,concept/revenge,concept/self,setting/italy,setting/london,setting/venice,character/arthur,character/arthur_clennam"></span>

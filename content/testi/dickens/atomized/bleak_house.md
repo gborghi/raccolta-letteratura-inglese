@@ -41473,6 +41473,60 @@ to a church. And there really was a churchyard outside under some
 cloisters, for I saw the gravestones from the staircase [[motifs/window|window]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In quei sei anni non ero mai stata via, se non per brevi visite durante le vacanze nel quartiere. Dopo i primi sei mesi circa, avevo seguito il consiglio di Miss Donny riguardo alla opportunità di scrivere a Mr. Kenge per ringraziarlo e dirgli che ero felice; con il suo permesso, avevo effettivamente inviato una lettera del genere. Avevo ricevuto una risposta formale in cui si accettava la lettera stessa e si diceva: “Prendiamo atto dei suoi contenuti, i quali verranno debitamente comunicati al nostro cliente”. In seguito, sentivo spesso Miss Donny e sua sorella parlare di quanto regolari fossero i miei pagamenti; ogni due anni circa, osavo inviare un’altra lettera simile. Ogni volta ricevevo esattamente la stessa risposta, scritta con lo stesso inchiostro e firmata da Kenge e Carboy, che presumevo fosse la firma di Mr. Kenge stesso.
+
+Mi sembra davvero curioso dover scrivere tutto questo su di me stesso. Come se questa narrazione fosse proprio la storia della MIA vita. Ma il mio piccolo [[concepts/body|-corpo]] presto passerà in secondo piano.
+
+Sei anni tranquilli, (Mi rendo conto di dirlo per la seconda [[motifs/time|volta]], ) li ho trascorsi a Greenleaf, osservando nelle persone intorno a me, come in uno specchio, ogni fase della mia crescita e dei miei cambiamenti. Poi, una mattina di novembre, ricevetti questa lettera. Ometto la data.
+
+
+Piazza Vecchia, l’Inn di Lincoln
+
+Signora.
+
+Jarndyce e Jarndyce
+
+Il nostro cliente, il signor Jarndyce, sta per trasferirsi nella sua casa, in seguito a un ordine del Tribunale di Chy che lo ha designato come tutore in questa causa. Desiderando trovare una compagnia adeguata per sé, ci incarica di comunicarvi che sarà lieto della vostra collaborazione in tale veste.
+
+Abbiamo organizzato che voi veniate trasportato gratuitamente in carrozza alle otto di [[motifs/clock|ore]] di lunedì mattina prossimo, da Reading fino al White Horse Cellar a Piccadilly, [[settings/london|Londra]], dove uno dei nostri autisti vi aspetterà per accompagnarvi al nostro locale come indicato sopra.
+
+# Noi siamo, signora, i vostri umili servitori
+
+# Kenge e Carboy
+
+Signorina [[characters/esther-summerson|Esther Summerson]]
+
+
+Oh, mai, mai, mai dimenticherò l’emozione che questa lettera ha suscitato in quella >casa! Era così tenero da parte loro il prendersi tanto cura di me; era così nobile da parte di quel padre che non mi aveva dimenticato, aver reso la mia condizione di [[archetypes/orphan|orfana]] così agevole e aver attirato l’attenzione di tante giovani persone verso di me. Era qualcosa che quasi non riuscivo a sopportare. Non che volessi che provassero meno compassione per me, temo proprio di no; ma la gioia, il dolore, l’orgoglio e la felicità che provavo erano così intrecciati che il mio cuore sembrava spezzarsi, nonostante fosse pieno di estasi.
+
+La lettera mi comunicava la mia rimozione soltanto con cinque giorni di preavviso. Mentre ogni minuto di quei cinque giorni rappresentava una prova d’[[motifs/love|amore]] e gentilezza da parte loro, quando finalmente arrivò la mattina e mi accompagnarono in tutte le stanze per che potessi vederle un’ultima volta, quando alcuni piangevano dicendo: “Esther, cara, addio qui al mio letto, dove per la prima volta mi hai parlato con tanta gentilezza, ”, mentre altri mi chiedevano soltanto di scrivere i loro nomi “con l’[[motifs/love|amore]] di Esther”, quando tutti mi circondarono con regali d’addio e si aggrapparono a me piangendo, dicendo: “Cosa faremo ora che la cara Esther se n’è andata,?”, e quando cercai di dir loro quanto fossero stati pazienti e gentili con me, e quanto li benedissi e ringraziassi tutti quanti. Che cuore avevo!
+
+E quando le due signorine Donny si disperarono tanto all’idea di separarsi da me quanto chiunque altro tra loro, e quando le cameriere dissero: “Che Dio vi benedica, signorina, ovunque andiate!”, e quando quel vecchio giardiniere brutto e zoppo, che pensavo non mi avesse quasi mai notato in tutti quegli anni, corse dietro alla carrozza per darmi un mazzolino di gerani e disse che ero stata la luce dei suoi occhi, davvero, lo disse!. Che cuore avevo allora!
+
+E come avrei potuto evitarlo, con tutto questo: l’arrivo alla scuola elementare, la vista inaspettata di quei bambini poveri che mi salutavano agitando cappelli e berretti, e poi quel signore e quella signora dai capelli grigi, la cui figlia avevo aiutato a insegnare e alla cui casa ero stata invitata (si diceva fossero le persone più orgogliose di tutta quella regione), che non pensavano ad altro che a dire: “Addio, Esther. Che tu sia molto felice!”. Come avrei potuto evitarlo se, dentro la carrozza, mi sentivo completamente sopraffatta da tutte queste emozioni e ripetevo più volte: “Oh, sono così grata, sono davvero così grata!”
+
+Ma naturalmente presto pensai che non dovevo piangere, considerando tutto ciò che era stato fatto per me. Quindi, ovviamente, cercai di smettere di singhiozzare e mi convinsi a stare calma ripetendomi spesso: “Esther, ora devi davvero farlo! Non può andare così!” Alla fine riuscii a consolarmi abbastanza bene, anche se temo che ci sia voluto più tempo del dovuto; e quando mi fui calmata con dell’acqua di lavanda, fu il momento di prepararmi ad affrontare [[settings/london|Londra]].
+
+Ero abbastanza convinto che fossimo arrivati quando eravamo ancora a dieci miglia di distanza, e quando finalmente ci trovammo lì, pensai che non avremmo mai raggiunto la meta. Tuttavia, quando iniziammo a sobbalzare su un selciato di pietre, e soprattutto quando sembrava che tutti gli altri veicoli ci urtassero, e noi urtassimo tutti gli altri veicoli, cominciai a credere che stessimo davvero avvicinandoci alla fine del nostro [[motifs/journey|viaggio]]. Poco dopo ci fermammo.
+
+Un giovane gentiluomo che si era accidentalmente sporcato d'inchiostro mi parlò dal marciapiede dicendo: “Sono di Kenge and Carboy’s, signorina, presso l’[[characters/lincoln|Lincoln’s]]’s Inn.”
+
+“Se vuole, signore,” dissi io.
+
+Era molto premuroso; dopo aver supervisionato il trasporto delle mie valigie, mi accompagnò fino all’aereo. Gli chiesi se ci fosse qualche grande [[motifs/fire|incendio]] da qualche parte. Le strade erano infatti piene di fumo denso e marrone, tanto che quasi nulla si riusciva a vedere.
+
+“Oh, no, signorina,” disse lui. “Questo è qualcosa di tipico di [[settings/london|Londra]].”
+
+Non avevo mai sentito parlare di una cosa del genere.
+
+“Una foglia, signorina,” disse il giovane gentiluomo.
+
+“Ah, davvero!” dissi io.
+
+Guidammo lentamente attraverso le strade più sporche e oscure che si fossero mai viste al mondo (pensai); eravamo in uno stato di confusione così totale che mi chiedevo come la gente riuscisse a mantenere la lucidità. Fino a quando non entrammo improvvisamente in un silenzio assoluto, sotto un vecchio arco di ingresso; proseguimmo quindi attraverso una piazza deserta, fino ad arrivare in un angolo strano, dove c’era un ingresso costituito da una serie di gradini ripidi e larghi, simili a quelli di una chiesa. E infatti, fuori, sotto alcuni chiostri, c’era davvero un cimitero; vedevo le lapidi dalla finestra del piano di sopra.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="Bleak House — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/home,motif/journey,motif/leaves,motif/lion,motif/love,motif/night,motif/time,motif/well,motif/window,concept/pride,setting/court,character/ada_clare,character/richard,character/richard_carstone"></span>

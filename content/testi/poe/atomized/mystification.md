@@ -691,6 +691,706 @@ anything and everything in the universe that had ever been
 written about the _duello_.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mai scrivere una frase su questo argomento
+
+loro.
+
+—Ned Knowles.
+
+
+
+Il barone Ritzner von Jung apparteneva a una nobile famiglia ungherese…
+
+Membro di cui (almeno fin nell’antichità)…
+
+Alcuni documenti testimoniano che tale persona fosse, in misura maggiore o minore, eccezionale per il proprio talento.
+
+Titolo:  
+Una descrizione… la maggior parte delle manifestazioni di quella specie di “grottesqueria”.
+
+Nella concezione di quest'opera, Tieck, discendente della famiglia , ha dato un contributo fondamentale.
+
+Vividi, anche se certamente non le esemplificazioni più vivide…
+
+Conoscenza di Ritzner iniziò nel magnifico Castello…
+
+Jung: una serie di avventure straordinarie e inaspettate
+
+Durante i mesi estivi del 18—, mi gettarono via. Ecco qui.
+
+Fu così che riuscii ad ottenere un certo posto nel suo affetto… e qui, con…
+
+Un po’ più di difficoltà… una visione parziale della sua mente
+
+Conformazione. Negli anni successivi, questa intuizione divenne sempre più chiara…
+
+Intimità che, all’inizio, aveva permesso loro di avvicinarsi ancora di più…
+
+Quando, dopo tre anni di separazione, ci incontrammo a G——n, capii tutto
+
+Era necessario conoscere la natura del Barone
+
+Ritzner von Jung.
+
+
+
+Ricordo l’agitazione e la curiosità che il suo arrivo suscitò in tutti.
+
+I quartieri universitari la [[motifs/night|notte]] del ventiquattresimo giugno. Io.
+
+Ricorda ancora più chiaramente che, mentre veniva dichiarato…
+
+L’uomo più straordinario che si possa incontrare…
+
+“Mondo”, nessuno tentò mai di spiegare o giustificare il suo punto di vista.
+
+Che fosse unico era indubbiamente vero, al punto che si riteneva…
+
+Impertinente chiedere in cosa consistesse quell’unicità… Ma…
+
+Per il momento lasciamo perdere la questione; mi limiterò semplicemente a osservare…
+
+Da quel primo momento in cui mise piede entro quei confini…
+
+Dell’università, iniziò ad esaminare con attenzione le abitudini e i modi di comportamento delle persone.
+
+Personaggi, risorse finanziarie e inclinazioni dell’intera comunità…
+
+Lo circondava un’influenza estremamente vasta e dispotica…
+
+Nello stesso [[motifs/time|momento]], ciò che è più indefinito e assolutamente.
+
+Incomprensibile. Ecco quindi il breve periodo della sua permanenza lì…
+
+L'università segna un’epoca nelle sue cronache e si caratterizza per…
+
+"Tutte le classi sociali ad esso appartenenti o alle sue dipendenze"
+
+Quell’epoca straordinaria che segnò l’ascesa del…
+
+“Barone Ritzner von Jung”.
+
+
+
+Al suo arrivo a G——n, venne a cercarmi nei miei appartamenti. Lui…
+
+A quel tempo non aveva un’età precisa; intendo dire che non era definito da un’età specifica.
+
+Impossibile fare una supposizione sulla sua età basandosi su qualsiasi dato disponibile
+
+Personalmente disponibile… Potesse avere quindici o cinquant’anni…
+
+Ventuno anni e sette mesi… Di certo non era un uomo attraente.
+
+Uomo… forse il contrario. I tratti del suo viso erano piuttosto…
+
+Fronte alto e molto pallido; il suo naso…
+
+“Un rifiuto… I suoi occhi grandi, pesanti, vitrei… e privi di significato.”
+
+Labbra che raccontavano di molto di più… Le labbra erano dolcemente…
+
+“Sporgenti l’uno sull’altro…”
+
+Una moda tale da rendere impossibile concepire qualsiasi altra… anche la più innovativa.
+
+Combinazione complessa di tratti umani, che ne trasmette l’essenza in modo completo
+
+E così, singolarmente, l’idea di una gravità assoluta, di una solennità imponente…
+
+Si riposò.
+
+
+
+Senza alcun [[concepts/doubt|dubbio]], ciò che ho già detto permetterà di comprendere questo.
+
+Il barone era uno di quegli esseri umani anomali che si incontrano di tanto in tanto…
+
+Possono essere trovati coloro che fanno della scienza della misticizzazione lo studio principale delle loro ricerche.
+
+L’attività principale della loro vita… Per questa scienza, è necessario un particolare modo di pensare.
+
+Gli diede istintivamente quel segnale, mentre il suo aspetto fisico…
+
+Gli fornirono strutture insolite per portare avanti le sue possibilità future.
+
+Effetto. Credo fermamente che nessuno studente alla G——n, durante quel periodo…
+
+Titolo:  
+L’epoca rinomata, così curiosamente definita “il dominio del Barone”
+
+Ritzner von Jung, sempre immerso nella meraviglia di quel mistero…
+
+Il suo carattere venne oscurato da qualcos’altro… Credo davvero che nessuno, in quella situazione, potesse fare altrimenti.
+
+Università: tranne che io, nessuno mai lo sospettò
+
+Titolo:  
+Essere in grado di scherzare, sia a parole che con azioni… come quel vecchio bulldog.
+
+La porta del [[motifs/garden|giardino]] sarebbe stata accusata molto più facilmente, il fantasma di.
+
+Eraclito, o forse la parrucca del Professore Emerito di Teologia.
+
+Anche questo, quando divenne evidente che il più flagrante…
+
+Inqualificabile tra tutte le possibili astuzie e capricci…
+
+Le buffonerie furono causate, se non direttamente da lui, almeno…
+
+Chiaramente attraverso la sua mediazione o complicità.
+
+La [[concepts/beauty|bellezza]], se così posso chiamarla, della sua arte mistica risiedeva proprio in questo.
+
+Abilità perfetta (risultante da una conoscenza quasi intuitiva)
+
+Della natura umana, e di un controllo su se stessi davvero meraviglioso, attraverso certi mezzi.
+
+Titolo:  
+di cui non mancava mai di sottolineare quanto fossero ridicole le sue azioni…
+
+Era impegnato a portare a termine qualcosa; in parte, questo impegno era nato anche contro la sua volontà…
+
+In parte a seguito degli sforzi lodevoli che stava compiendo…
+
+La loro prevenzione, e per la conservazione dell’ordine e della buona disciplina
+
+La dignità dell’Alma Mater: profonda, commovente, travolgente
+
+Titolo:  
+La mortificazione, che ogni volta, di fronte a tali fallimenti del suo lodabile comportamento…
+
+Lo sforzo si rifletteva in ogni tratto del suo volto.
+
+Nessun minimo dubbio sulla sua sincerità esisteva nei loro cuori.
+
+Anche i suoi compagni più scettici non potevano negare la sua abilità… E anche quella abilità era davvero notevole.
+
+Un metodo non meno degno di attenzione con cui riuscì a cambiare argomento
+
+Il senso del [[concepts/grotesque|grottesco]] da parte del creatore verso ciò che ha creato, da parte sua.
+
+La persona stessa delle assurdità che aveva generato… In nessun modo.
+
+Un caso precedente di cui parlo… ho conosciuto quella persona abitualmente…
+
+Una fuga misteriosa per eludere le conseguenze naturali delle sue manovre…
+
+L’attaccamento di ciò che è ridicolo al proprio carattere e alla propria persona.
+
+Costantemente avvolto in un’atmosfera di capriccio, il mio amico…
+
+Sembrava vivere esclusivamente per le durezze della società… e nemmeno quelle riuscivano a fermarla.
+
+La sua stessa famiglia, per un momento, ha associato altre idee…
+
+Coloro che appartenevano alla classe rigida e nobile, ricordavano il Barone.
+
+Ritzner von Jung.
+
+
+
+Durante il periodo in cui risiedette a G——n, sembrava davvero che…
+
+Il demone del “dolce far niente” gravava su di loro come un incubo.
+
+Università… Non si faceva assolutamente nulla, se non mangiare.
+
+Bere e divertirsi… Gli appartamenti degli studenti
+
+trasformati in tante case dove si fumava la marijuana; non esisteva però nessuna casa specificamente dedicata a questo scopo.
+
+Tutti questi luoghi erano ancora più famosi o frequentati di quello del Barone.
+
+I nostri divertimenti qui erano numerosi, rumorosi e duravano a lungo… mai finivano mai.
+
+Pieno solo di eventi infruttuosi.
+
+
+
+In un’occasione, abbiamo prolungato la nostra seduta fino a quasi…
+
+Alba… e una quantità insolita di vino era stata bevuta.
+
+Il gruppo era composto da sette o otto persone, oltre al barone.
+
+Io e loro. La maggior parte di questi erano giovani uomini ricchi, di alto rango…
+
+Una connessione familiare, un grande senso di [[concepts/pride|orgoglio]], e tutti ancora vivi.
+
+Eccessivo senso dell’onore… Erano molti quelli che ne erano posseduti in modo estremo.
+
+Opinioni tedesche sul duello. A queste nozioni quixottesche
+
+Alcune recenti pubblicazioni parigine, sostenute da tre o quattro…
+
+Incontri disperati e fatali a G——n… avevano dato nuovo slancio alla situazione…
+
+Impulso; e così la conversazione, per la maggior parte del tempo…
+
+Quella [[motifs/night|notte]], si era completamente immerso nel discutere di quell’argomento così avvincente.
+
+“I tempi… Il barone, che fino ad allora era stato insolitamente silenzioso e assorto…”
+
+La prima parte della serata, finalmente, sembrò volgere al termine…
+
+Scosso dalla sua apatia, prese un ruolo attivo nel dibattito.
+
+E si soffermò sui benefici, e in particolare su…
+
+Bellezze del codice di etichetta vigente nei contesti di duello
+
+Con passione, eloquenza, impatto… e molto di più.
+
+Un modo di comportarsi pieno di affetto, che suscitò il calore più sincero dell’entusiasmo.
+
+Colpito profondamente da tutti coloro che lo ascoltavano
+
+Io stesso, che [[motifs/well|benissimo]] sapevo che nel profondo del cuore lui era uno che derideva quelle persone.
+
+Molti punti a suo favore, soprattutto per quanto riguarda il mantenere…
+
+Tutta la solennità delle regole di duello del sovrano
+
+Il disprezzo che merita.
+
+
+
+Guardandomi intorno durante una pausa nel discorso del Barone…
+
+Titolo:  
+Di cui i miei lettori potranno farsi un vago idea quando dirò che…
+
+Assomiglia al fervore, ai canti monotoni, ma allo stesso tempo melodiosi…
+
+Con lo stile predicante di Coleridge, percepii segni di qualcosa di ancora più…
+
+più dell’interesse generale legato all’aspetto di uno dei partecipanti.
+
+Questo signore, che chiamerò Hermann, era davvero un individuo originale…
+
+In ogni senso… tranne forse per un singolo aspetto.
+
+Era un vero e proprio [[archetypes/fool|idiota]]. Tuttavia, riuscì comunque a sopportare, tra tante altre cose.
+
+Una particolare comunità all’università, una reputazione di profondità…
+
+Pensiero metafisico, e, credo, anche un certo talento logico.
+
+Come duellista aveva acquisito grande fama, persino a G———n.
+
+Il numero esatto delle vittime che avevano perso la vita per colpa sua…
+
+Ma erano molti. Indubbiamente era un uomo di [[concepts/courage|coraggio]]. Ma.
+
+La sua scarsa conoscenza delle regole dell’etichetta
+
+Duello e la raffinatezza del suo senso dell’onore…
+
+Si vantava particolarmente di queste cose; per lui rappresentavano un vero hobby.
+
+Raggiunse la [[motifs/death|morte]]. Per Ritzner, che era sempre all’erta.
+
+[[concepts/grotesque|Grottesco]], le sue particolarità avevano, per molto tempo ormai, suscitato.
+
+Cibo per la misteriosità. Tuttavia, di questo non ero a conoscenza.
+
+Anche se, in questo caso specifico, vidi chiaramente che qualcosa…
+
+Avevamo con mio amico un tappeto decorato con motivi di natura capricciosa, e così via.
+
+Ermanno era il suo obiettivo principale.
+
+
+
+Mentre l’ex proseguiva nel suo discorso, o meglio nel suo monologo, io…
+
+Percepì che l’emozione di quell’ultimo momento aumentava sempre di più.
+
+Durante il suo discorso, sollevò alcune obiezioni riguardo a un punto su cui si era insistito.
+
+Titolo:  
+Di R., che espone nei dettagli le proprie ragioni. A queste, il Barone…
+
+Rispose a lungo (mantenendo ancora quel tono esagerato)
+
+Titolo: (Sentimento…) e concludendo, secondo me in modo molto di cattivo gusto, con…
+
+Un sarcasmo e un sorriso beffardo… Ora l’hobby di Hermann prendeva il sopravvento su tutto.
+
+I suoi denti… Questo riuscii a distinguerlo grazie a un’attenta osservazione, anche se era quasi impossibile notarlo.
+
+Un groviglio di parole nella sua risposta. Le sue ultime parole le ricordo chiaramente.
+
+“Le vostre opinioni, permettetemi di dirlo, Barone von Jung, sebbene…”
+
+Titolo:  
+In molti aspetti, queste affermazioni sono davvero disonorevoli per te stesso.
+
+E all’università di cui fate parte… Tra pochi giorni…
+
+Rispetti che non meritano nemmeno una seria confutazione. Io…
+
+Dire di più signore sarebbe inutile, se non fosse per la [[concepts/fear|paura]] di darvi.
+
+Offesa… (il parlante sorrise in modo indifferente), direi, signore, che…
+
+“Le tue opinioni non sono quelle che ci si aspetterebbe da una…”
+
+“Un gentiluomo.”
+
+
+
+Quando Hermann concluse questa frase ambigua, tutti gli sguardi si fissarono su di lui
+
+Si voltò contro il barone. Diventò pallido, poi improvvisamente rosso in viso.
+
+“Allora, lasciando cadere il fazzoletto di tasca, si chinò per raccoglierlo.”
+
+Quando intravidi il suo volto…
+
+Visto da nessun altro al tavolo… Era splendente.
+
+Espressione enigmatico che costituiva il suo carattere naturale… ma che io…
+
+Non l'avevo mai visto assumere quella forma se non quando eravamo soli insieme.
+
+Quando si rilassò completamente… Un istante dopo era in piedi.
+
+In piedi, di fronte a Hermann; un cambiamento totale…
+
+Un cambiamento così rapido nel suo aspetto. Di certo non l’avevo mai visto prima.
+
+Per un momento ho persino pensato di averlo frainteso… e che…
+
+Era assolutamente serio. Sembrava soffocare per la passione che provava.
+
+E il suo viso era pallido come quello di un morto. Per un breve [[motifs/time|istante]] rimase così.
+
+Silenzioso, apparentemente impegnato a controllare le proprie emozioni. Mentre…
+
+Riuscì apparentemente nel suo intento; raggiunse quindi un decantatore che si trovava lì…
+
+Vicino a lui, mentre lo stringeva forte tra le mani, disse: “Il linguaggio che…”
+
+Titolo:  
+Ho ritenuto opportuno utilizzare, Signor Hermann, nel mio messaggio…
+
+“Donarsi completamente a me presenta molte inconvenienze… che io…”
+
+Non ho né l’umore né il [[motifs/time|tempo]] per fare delle specifiche. Quanto alle mie opinioni.
+
+Tuttavia, queste opinioni non sono degne di un gentiluomo…
+
+Un’osservazione così offensiva da richiedere soltanto una frase
+
+Comportamento adeguato. Tuttavia, è necessario dimostrare un certo rispetto in presenza altrui.
+
+Di questa azienda, e a te stesso, in questo momento, in qualità di mio ospite.
+
+“Perdonatemi quindi se, considerando tutto ciò, io…”
+
+Deviare leggermente dall’uso comune tra i gentiluomini…
+
+Casi simili di offesa personale… Mi scuserete per questa domanda.
+
+Imporrò una tassa moderata sulla vostra [[concepts/imagination|immaginazione]] e cercherò di.
+
+Considera, per un istante, il riflesso della tua immagine in quel luogo…
+
+Un [[motifs/mirror|specchio]] che raffigurava il vero e proprio signor Hermann in vita. Una volta fatto ciò.
+
+Non ci saranno alcuna difficoltà. Riuscirò a svolgere questo compito senza problemi.
+
+Un decanter di vino, raffigurante la tua immagine nello specchio laggiù. E così compiere il tuo desiderio.
+
+Tutta la rabbia, se non proprio le parole esatte, per ciò che ti è stato fatto…
+
+Offesa e la necessità della violenza fisica…
+
+“La necessità di tale persona verrà eliminata.”
+
+
+
+Con queste parole scagliò il decantatore, pieno di vino, contro…
+
+Lo [[motifs/mirror|specchio]] che pendeva esattamente di fronte a Hermann; colpiva.
+
+Rappresentazione fedele e dettagliata della sua persona, naturalmente…
+
+Frantumare il vetro in mille pezzi. L’intera azienda, all’improvviso…
+
+Si alzarono in piedi, e ad eccezione di me e…
+
+Ritzner e gli altri se ne andarono. Mentre Hermann usciva, il Barone…
+
+Mi sussurrò di seguirlo e fargli un’offerta…
+
+Servizi… A questo ho acconsentito, senza sapere esattamente cosa pensarne.
+
+Un affare così ridicolo.
+
+
+
+Il duellante accettò il mio aiuto con un atteggiamento rigido e estremamente formale.
+
+“Air… e, prendendomi il braccio, mi portò nel suo appartamento. A malapena riuscivo…”
+
+Non ridere mai in faccia a lui mentre continua a parlare…
+
+La più profonda gravità, ciò che egli definiva “la raffinatamente particolare”
+
+“Carattere” dell’insulto che aveva ricevuto… Dopo un’esperienza estenuante…
+
+Con il suo solito stile appassionato, trascrisse dal libro…
+
+"Una serie di vecchi volumi polverosi sull’argomento dei duelli"...
+
+E mi hanno intrattenuto per molto tempo con i loro contenuti; leggendo.
+
+Ad alta voce, commentando con fervore mentre leggeva… Me ne ricordo ancora.
+
+Titoli di alcune delle opere. C’era l’“Ordinanza di…”
+
+“Philip il Bello nel combattimento singolo”; “Il Teatro dell’Onore”, di
+
+Favyn, e un trattato intitolato “Sulla permessa dei duelli”, scritto da Andiguier.
+
+Mostrò, inoltre, con grande pompa, i “Memorie” di Brantome.
+
+“Dueli”, pubblicato a Colonia nel 1666 con caratteri tipografici Elzevir…
+
+Volume rilegato in prezioso e unico pergameno, con bordi ben rifiniti…
+
+“Convinto da Derome… Ma lui chiese esplicitamente la mia attenzione.”
+
+Con un tono di misteriosa saggezza, in un formato tascabile in ottavo, scritto…
+
+Un latino barbaro scritto da un francese di nome Hedelin…
+
+Titolo: Un titolo curioso: “Duelli Lex Scripta, et non; aliterque.” Da questo…
+
+Titolo:  
+Mi lesse uno dei capitoli più divertenti del mondo… riguardante…
+
+“Injuriarie per applicazione, per interpretazione e di per sé”
+
+Titolo:  
+“Circa la metà di esso, affermava, era applicabile esclusivamente al suo caso.”
+
+Titolo:  
+Il proprio caso “raffinatamente particolare”, anche se non una singola sillaba di esso…
+
+Non riuscirei mai a capire tutta questa faccenda, per quanto ci provassi.
+
+Finito il capitolo, chiuse il libro e chiese cosa avessi fatto…
+
+“Ritenni necessario farlo. Risposi che ne ero completamente d’accordo.”
+
+Titolo:  
+Fiducia nella sua superiore raffinatezza di sentimenti… e la volontà di perseverare.
+
+Con questa risposta sembrava lusingato…
+
+Si sedette per scrivere una nota al barone. Il contenuto era il seguente:
+
+
+
+Sir, – Il mio amico, il signor P., vi consegnerà questa nota. La trovo…
+
+Devo chiedervi, al più presto possibile, di…
+
+Spiegazione degli avvenimenti di stasera nelle tue stanze.
+
+Titolo:  
+Se rifiuterete questa richiesta, il signor P. ne sarà molto felice.
+
+Organizza, con qualsiasi amico tu decida di scegliere, le fasi necessarie per procedere.
+
+Un preliminare a un incontro.
+
+
+
+Con sentimenti di perfetto rispetto,
+
+
+
+Il vostro umile servitore
+
+Johann Herman.
+
+
+
+"#A Barone Ritzner von Jung"
+
+18 agosto 18_—.
+
+
+
+Non sapendo cosa fare di meglio, ho chiesto aiuto a Ritzner.
+
+Epistola. Si inchinò quando gliela presentai; poi, con un tono [[motifs/grave|serio]].
+
+“Countenance” mi fece segno di sedermi. Dopo aver letto il cartello, lui…
+
+Scrissi la seguente risposta, che portai a Hermann.
+
+
+
+“Signore, — tramite il nostro comune amico, il signor P., ho ricevuto la sua…”
+
+Nota di questa sera… Dopo un’attenta riflessione, devo ammettere onestamente…
+
+“La pertinenza dell’spiegazione che proponi… Ammesso questo, io…”
+
+Ancora trovo grandi difficoltà, a causa di quella particolarità raffinata…
+
+La natura del nostro disaccordo, nonché l’offesa personale che è stata fatta.
+
+Da parte mia, ho cercato di esprimere ciò che dovevo dire in termini di scuse…
+
+Per far fronte a tutte le esigenze immediate e alle variazioni impreviste
+
+Ombre del caso… Tuttavia, ho grande fiducia in ciò.
+
+Estrema delicatezza nella discriminazione, in questioni relative a...
+
+Le regole dell’etichetta, di cui avete parlato così a lungo…
+
+Pre-eminentemente distinto. Con perfetta certezza, pertanto…
+
+Per essere compreso, permettetemi di offrire, al posto di qualcosa di concreto…
+
+Titolo:  
+I miei personali sentimenti… per riferirvi alle opinioni del Signor…
+
+Hedelin, come descritto nel nono paragrafo del capitolo…
+
+“_Injuriarie per applicazione, per costruzione e per sé stesse_”, in
+
+“La precisione delle leggi scritte… e quella che non lo è.” La raffinatezza del tuo ragionamento.
+
+**Discernimento in tutte le questioni trattate qui, sarà sufficiente.**
+
+Titolo:  
+Vi assicuro, per convincervi… che la semplice circostanza del mio essere qui…
+
+Referendoti a questo meraviglioso passaggio, dovrebbe soddisfarti…
+
+Chiedo, come uomo d'onore, una spiegazione.
+
+
+
+“Con sentimenti di profondo rispetto,
+
+
+
+“Il vostro più devoto servitore”
+
+“Von Jung.”
+
+
+
+“The Herr Johann Hermann”
+
+18 agosto 18…
+
+
+
+Hermann iniziò a leggere questa lettera con un cipiglio.
+
+Che, tuttavia, si trasformò in un sorriso delle più assurde…
+
+La [[concepts/self|auto-compiacenza]] di fronte a tutte quelle sciocchezze su “Injuriae per”.
+
+Applicazione, per costruzione e per sé stessa. Completata.
+
+“Leggimi qualcosa, per favore“, mi disse con il sorriso più indifferente possibile.
+
+“Per potersi sedere, mentre faceva riferimento al trattato…”
+
+Domanda. Rivolgendosi al passaggio specificato, lo lesse con grande attenzione.
+
+“Si preoccupò solo di se stesso, poi chiuse il libro e mi chiamò…”
+
+Titolo:  
+In qualità di conoscente confidenziale, per esprimere al Barone…
+
+La nobile concezione di Jung riguardo al proprio comportamento cavalleresco
+
+Titolo:  
+Per assicurargli che la spiegazione fornita fosse…
+
+Il più completo, il più onorevole e senza dubbio il migliore
+
+Di natura soddisfacente.
+
+
+
+Piuttosto sorpreso da tutto ciò, mi ritirai dal Barone. Lui…
+
+Sembrava che accettasse la lettera cordiale di Hermann come una cosa naturale…
+
+Conversazione e poi…
+
+Stanza interna e ne estrasse il trattato immortale “_Duelli Lex”
+
+“Scritta… o no? E in altro modo ancora…” Mi porse il volume e chiese.
+
+Titolo:  
+Mi è stato chiesto di esaminare una parte di quel materiale. L’ho fatto, ma con scarsi risultati.
+
+Scopo, senza riuscire a ricavare nemmeno la minima traccia di significato.
+
+Poi prese il libro e mi lesse ad alta voce un capitolo. A me…
+
+Sorpresa: ciò che lesse si rivelò essere qualcosa di estremamente assurdo e grottesco
+
+Racconto di un duello tra due scimmie babuino
+
+Titolo:  
+Mistero: dimostrazione che il volume, come appariva a prima vista…
+
+Scritto seguendo lo schema delle assurde poesie di Du Bartas;
+
+In altre parole, il linguaggio era stato concepito in modo ingegnoso al fine di…
+
+Sembrano tutti segni evidenti di comprensibilità…
+
+Anche se profondo, in realtà non contiene alcun significato.
+
+Non esisteva alcuna soluzione. La chiave per risolvere tutto stava nel omettere ogni…
+
+Titolo:  
+“Seconda e terza parola alternate, quando compariva una serie…”
+
+Quiz assurdi su un singolo combattimento come praticato nei tempi moderni
+
+volte.
+
+
+
+Il barone mi disse in seguito che aveva gettato quel oggetto di proposito.
+
+Titolo:  
+Trattato nel modo di Hermann… due o tre settimane prima del…
+
+Avventura… e sembrava soddisfatto, a giudicare dal tono generale…
+
+La sua conversazione: l’aveva studiata con la massima attenzione
+
+Attenzione: credeva fermamente che si trattasse di un'opera di eccezionale valore.
+
+Su questa indicazione, proseguì. Hermann sarebbe morto mille volte…
+
+Morte piuttosto che ammettere la propria incapacità di comprendere
+
+Qualsiasi cosa esista nell’universo…
+
+Scritto sul _duello_.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Mystification (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,motif/garden,motif/nature,motif/night,motif/summer,motif/time,concept/beauty,concept/doubt,concept/grotesque,concept/nature,concept/self"></span>

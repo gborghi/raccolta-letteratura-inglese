@@ -13590,6 +13590,34 @@ For certain, neither of them sees a happy Present, as the gate opens
 and closes, and one goes in, and the other goes away.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Parte, non c’è nessun altro giovane, ”
+
+“No, Eddy! È molto gentile da parte tua chiedermelo, ma no, assolutamente no!”
+
+Sono arrivati molto vicini alle finestre della [[settings/cathedral|Cattedrale]], e in questo momento l’organo e il coro suonano in modo sublime. Mentre ascoltano quel suono solenne, nella mente del giovane Edwin Drood riaffiora la fiducia provata la scorsa [[motifs/night|notte]], e pensa quanto questa musica sia diversa da quella disarmonia di prima.
+
+“Credo di riconoscere la voce di Jack,” disse lui a bassa voce, in linea con quel filo di pensieri.
+
+“Portami via subito, per favore,” lo esorta la sua fidanzata, posando rapidamente la sua mano leggera sul suo polso. “Tutti usciranno tra poco; andiamo via. Oh, che suono meraviglioso! Ma non fermiamoci ad ascoltarlo; andiamo via!”
+
+La sua fretta scompare non appena escono dal vicolo. Ora camminano a braccio, con aria seria e deliberata, lungo la vecchia High-street, verso la Casa delle suore. Alla porta, vedendo che la strada è deserta, Edwin si china verso il viso di Rosebud.
+
+Si lamenta ridendo, e diventa di nuovo una ragazzina scolastica infantile.
+
+“Eddy, no! Sono troppo appiccicoso per essere baciato. Ma dammi la tua mano, e ti soffierò un bacio lì dentro.”
+
+Lo fa. Lei soffia dentro di esso delicatamente e chiede, tenendolo tra le mani e guardandolo dentro: —
+
+“Ora dimmi: cosa vedi?”
+
+“Vedi, Rosa?”
+
+“Ma pensavo che voi ragazzi egiziani poteste guardare dentro una mano e vedere ogni sorta di fantasmi. Non riuscite forse a vedere un futuro felice?”
+
+Di certo, nessuno dei due vede un futuro felice: quando il cancello si apre e si chiude, uno entra e l’altro se ne va.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="The Mystery of Edwin Drood — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/autumn,motif/clock,motif/fire,motif/garden,motif/home,motif/leaves,motif/memory,motif/time,motif/well,concept/honour,concept/self,setting/egypt,setting/paris,character/edwin_drood"></span>
@@ -15424,6 +15452,88 @@ desperately she tried to tear it out, or bite it off. I have nothing
 further to say, sir, except that I [[concepts/hope|hope]] you will bear with me and make
 allowance for me.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#CAPITOLO VII.  
+MOLTE PIÙ RIVELAZIONI DELLE PRECEDENTI
+
+
+“Conosco molto poco di quel signore, signore,” disse Neville al Canon Minore mentre si giravano per tornare indietro.
+
+“Conosci molto poco riguardo al tuo guardiano, vero?” ripeté il Minore Canonico.
+
+“Quasi nulla!”
+
+# Come mai.
+
+“Diventare il mio tutore? Le dirò una cosa, signore. Immagino sappia che io e mia sorella proveniamo dal Cilone.”
+
+“No di certo.”
+
+“Mi [[concepts/wonder|meraviglio]] davvero. Vivevamo lì con un patrigno. Nostra madre è morta lì, quando eravamo bambini piccoli. Abbiamo avuto una vita terribile. Lei lo ha nominato nostro tutore, ma era un individuo meschino che ci negava il cibo e i vestiti. Alla sua [[motifs/death|morte]], ci ha affidati a quest’uomo. Per nessuna ragione particolare, se non perché lui era un amico o una conoscente di mio padre, la cui nome compariva spesso sui giornali e attirava la sua attenzione.”
+
+“Dev’essere stato di recente, immagino, ”
+
+“Piuttosto di recente, signore. Questo nostro patrigno era un individuo crudele e spietato. È stato davvero meglio che sia morto in quel momento; altrimenti forse l’avrei ucciso io stesso.”
+
+Il signor Crisparkle si fermò nel chiaro di luna e guardò il suo allievo pieno di speranza, con aria perplessa.
+
+“Vi sorprendo, signore?”, disse, cambiando immediatamente tono in uno più sottomesso.
+
+“Mi sciocchi; mi sciocchi in modo indescrivibile.”
+
+Il ragazzo abbassò la testa per un po’, mentre continuavano a camminare, poi disse: “Tu non l’hai mai visto picchiare tua sorella. Io l’ho visto picchiare la mia, più di una volta. E non me lo sono mai dimenticato.”
+
+“Niente,” disse il signor Crisparkle, “neanche le lacrime di una sorella amata e bella a causa di un trattamento spregevole;” nonostante la sua indignazione crescesse, divenne meno severo, contro la sua volontà; “niente potrebbe giustificare quelle orribili espressioni che avete usato.”
+
+“Mi dispiace di averli usati, soprattutto con voi, signore. Vi chiedo scusa. Ma permettetemi di chiarire un punto: avete parlato delle [[motifs/tears|lacrime]] di mia sorella. Mia sorella gli avrebbe permesso di distruggerla completamente, piuttosto che lasciargli credere di poterla far piangere.”
+
+Il signor Crisparkle rilesse quelle sue note mentali e non fu affatto sorpreso di ciò che lesse, né ebbe alcuna intenzione di metterlo in dubbio.
+
+“Forse troverete strano, signore,” – disse con voce esitante – “che vi chieda così presto di permettermi di confidarmi in voi e di avere la gentilezza di ascoltare una parola o due da me a mia difesa.”
+
+“Difesa?”, ripeté il signor Crisparkle. “Non si trova nella posizione di dover difendersi, signor Neville.”
+
+“Credo di sì, signore. Almeno so che dovrei esserlo, se conosceste meglio il mio carattere.”
+
+“Beh, signor Neville,” fu la risposta. “E se lasciassi che sia io a scoprirlo?”
+
+“Poiché è la vostra volontà, signore,” rispose il giovane, cambiando immediatamente tono in uno di cupa delusione: “poiché desiderate impedirmi di seguire il mio impulso, devo sottomettermi.”
+
+C'era qualcosa nel tono di quel breve discorso che metteva a disagio l’uomo coscienzioso a cui era rivolto. Gli suggeriva che, forse senza volerlo, potesse allontanare da sé una fiducia che sarebbe stata benefica per una giovane mente ancora in via di formazione, e che avrebbe potuto aiutarlo anche lui stesso nel guidarla e migliorarla. Erano ormai a portata di vista delle luci alle sue finestre, e allora si fermò.
+
+“Torniamo indietro e facciamone un altro giro, signor Neville. Altrimenti potrebbe non avere il [[motifs/time|tempo]] necessario per finire ciò che vuole dirmi. Si affretta a pensare che io intenda controllarla. Niente affatto. Le invito piuttosto a fidarsi di me.”
+
+“L’avete invitata voi stesso, signore, senza nemmeno saperlo. Da quando sono arrivato qui. Dico ‘da quando sono arrivato’ come se fossi stato qui già una settimana. La [[concepts/truth|verità]] è che io e mia sorella siamo venuti qui per litigare con voi, per sfidarvi, e poi per separarci di nuovo.”
+
+“Davvero?” disse il signor Crisparkle, completamente senza sapere cosa altro aggiungere.
+
+“Vede, signore, non potevamo sapere in anticipo cosa fosse lei. Non è vero?”
+
+“Chiaramente no,” disse il signor Crisparkle.
+
+“E poiché non ci eravamo mai piaciuti nessun altro con cui eravamo entrati in contatto, avevamo deciso di non piacerci nemmeno a te.”
+
+“Davvero?” disse di nuovo il signor Crisparkle.
+
+“Ma ci piacete davvero, signore, e notiamo una differenza inequivocabile tra la vostra >casa e il modo in cui ci avete accolto, rispetto a tutto ciò che abbiamo mai conosciuto prima. Questo, il fatto che io mi trovi da sola con voi, e il silenzio, la tranquillità che regnano intorno a noi dopo la partenza del signor Honeythunder, e il fatto che Cloisterham sia così antico, ma anche così maestoso e bello, con la [[motifs/moon|luna]] che splende su di esso, tutte queste cose mi hanno spinta ad aprire il mio cuore.”
+
+“Capisco perfettamente, signor Neville. E ascoltare tali influenze può rivelarsi davvero benefico.”
+
+“Nel descrivere le mie stesse imperfezioni, signore, devo chiedervi di non pensare che io stia descrivendo quelle di mia sorella. Lei è riuscita a superare gli svantaggi della nostra misera vita ed è molto più fortunata di me, proprio come quella torre della [[settings/cathedral|Cattedrale]] è più alta di quelle ciminiere.”
+
+Nel profondo del suo cuore, il signor Crisparkle non ne era così sicuro.
+
+“Da quando ho memoria, signore, ho dovuto reprimere un odio mortale e amaro. Questo mi ha reso segreto e vendicativo. Sono sempre stato oppresso con violenza; questa situazione, nella mia debolezza, mi ha costretto a ricorrere alla falsità e alla meschinità. Mi sono stati negati l’[[concepts/education|istruzione]], la libertà, i soldi, i vestiti, le cose essenziali per vivere, i piaceri più semplici dell’[[motifs/childhood|infanzia]] e dei primi anni della giovinezza. Questo mi ha reso completamente privo di quelle emozioni, di quei ricordi, di quegli istinti positivi che, ne sono certo, voi avete potuto sviluppare in altri giovani, ”
+
+“È evidentemente vero. Ma non è certo incoraggiante,” pensò il signor Crisparkle mentre si giravano di nuovo.
+
+“E per concludere, signore: sono stato cresciuto tra dipendenti umili e servili, appartenenti a una razza inferiore, e avrei potuto facilmente sviluppare qualche affinità con loro. A volte, non so, forse c’è qualcosa di ‘tigresco’ nel loro [[motifs/blood|sangue]].”
+
+“Proprio come nel caso di quel commento di poco fa,” pensò il signor Crisparkle.
+
+“Per concludere, riguardo a mia sorella, signore (siamo gemelli), dovrebbe sapere che, per il suo [[concepts/honour|onore]], nulla della nostra miseria è mai riuscito a sottometterla, anche se spesso questo mi intimidiva. Ogni volta che fuggivamo (ne abbiamo fatte quattro in sei anni, solo per essere subito riportati indietro e puniti crudelmente), era sempre lei ad organizzare e guidare la fuga. Ogni volta si travestiva da ragazzo e dimostrava il coraggio di un uomo. Credo che avessimo sette anni quando ci siamo fugiti per la prima volta; ricordo che, quando ho perso il coltello a portata di mano con cui lei avrebbe dovuto tagliarsi i capelli corti, ha cercato disperatamente di strapparseli o morderli via. Non ho altro da dire, signore, se non che [[concepts/hope|spero]] che mi comprenderà e mi perdonerà.”
 
 
 
@@ -17630,6 +17740,80 @@ very different. He thought—perhaps most of all—could it be that these
 things were yet but so many weeks old, and had become an integral part
 of his life?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+## CAPITOLO X.  
+Migliorare le condizioni.
+
+È stato spesso osservato che le donne possiedono una strana capacità di indovinare il carattere degli uomini, una capacità che sembra essere innata e istintiva; tuttavia, questa capacità non deriva da un processo razionale paziente, non offre spiegazioni soddisfacenti o sufficienti per il proprio funzionamento, e si esprime in modo estremamente sicuro anche di fronte alle osservazioni accumulate dall’altro sesso. Tuttavia, meno spesso si è notato che questa capacità (fallibile, come ogni altro attributo umano) è nella maggior parte dei casi completamente incapace di autocorrezione; e quando emette un giudizio negativo che in seguito si rivela errato, non si distingue affatto dal pregiudizio, nel suo rifiuto di essere corretto. Anzi, la sola possibilità di contraddizione o confutazione, per quanto remota, conferisce fin dall’inizio a questo giudizio femminile la stessa debolezza tipica del testimone interessato; in nove casi su dieci, la “giudice” si identifica completamente con il proprio pronostico.
+
+“Ora, non pensi anche tu, cara mamma,” disse un giorno il canonico minore alla madre mentre lei sedeva a lavorare a maglia nella sua piccola biblioteca, “che sei un po’ troppo dura con il signor Neville?”
+
+“No, non lo faccio, Sept,” rispose la vecchia signora.
+
+# Discutiamone insieme, mamma.
+
+“Non ho obiezioni ad discuterne, Sept. Credimi, cara, sono sempre aperta a qualsiasi discussione.” C'era una sorta di vibrazione nella cuffia della vecchia signora, come se lei stesse pensando tra sé: “E vorrei proprio vedere quale discussione potrebbe convincermi del contrario!”
+
+“Molto bene, mamma,” disse suo figlio in tono conciliante. “Non c’è nulla di meglio che essere aperti a un dialogo.”
+
+“Non lo spero affatto, mio caro,” rispose la vecchia signora, chiaramente ignara della cosa.
+
+“Beh! In quell’occasione sfortunata, il signor Neville ha agito su provocazione.”
+
+“E con del vino al rum,” aggiunse la vecchia signora.
+
+“Devo ammettere che il vino era davvero ottimo. Anche se credo che quei due giovani fossero molto simili anche in questo aspetto.”
+
+“Non lo faccio,” disse la vecchia signora.
+
+“Perché no, mamma?”
+
+“Perché io no”, disse la vecchia signora. “Comunque, sono più che disposta a discuterne”.
+
+“Ma cara mamma, non capisco proprio come possiamo discutere se tu segui quella linea di comportamento, ”
+
+“Dai la colpa a Mr. Neville, Sept, non a me,” disse la vecchia signora con solenne severità.
+
+“Mia cara mamma, perché il signor Neville?”
+
+“Perché,” disse la signora Crisparkle, attenendosi ai principi fondamentali, “tornò a [[motifs/home|>casa]] in stato di ebbrezza, causando grande disonore a questa casa e dimostrando un profondo disprezzo per questa famiglia.”
+
+“Non si può negare, mamma. Allora come ora, si dispiace molto per questo.”
+
+“Se non fosse stato per la gentilezza e la considerazione di Mr. Jasper, che il giorno dopo, dopo la funzione, è venuto da me direttamente nella navata della chiesa, ancora con addosso l’abito da cerimonia, esprimendo la sua speranza che io non fossi stata troppo spaventata o che il mio riposo non fosse stato disturbato in modo eccessivo, credo che probabilmente non avrei mai saputo nulla di quell’incidente vergognoso,” disse la vecchia signora.
+
+“A dire la verità, Ma, penso che avrei dovuto tenerlo nascosto a te se avessi potuto: anche se non avevo ancora preso una decisione definitiva. Stavo seguendo Jasper per parlare con lui dell’argomento e valutare l’opportunità di tenere tutto sotto silenzio, sia da parte sua che mia, quando lo ho trovato mentre parlava con te. A quel punto era già troppo tardi.”
+
+“Troppo tardi, davvero. Era ancora pallido come le ceneri di un gentiluomo, dopo ciò che era accaduto nelle sue stanze durante la notte.”
+
+“Se l’avessi tenuto nascosto da te, mamma, puoi essere certa che avrebbe servito alla tua tranquillità e al bene di quei giovani, e sarebbe stato il modo migliore per adempiere ai miei doveri nel miglior modo possibile.”
+
+La vecchia signora attraversò immediatamente la stanza e lo baciò, dicendo:  
+“Certo che sì, mio caro Sept, ne sono sicura.”
+
+“Tuttavia, è diventato un argomento di conversazione in tutta la città,” disse il signor Crisparkle, strofinandosi l’orecchio, mentre sua madre riprendeva a sedersi e a lavorare a maglia, “e ormai non è più sotto il mio controllo.”
+
+“E allora dissi, Sept,” rispose la vecchia signora, “che pensavo male di Mr. Neville. E ora dico ancora che penso male di Mr. Neville. Allora come ora, spero che Mr. Neville possa cambiare, ma non credo che lo farà.” A quel punto il cappello tremolò di nuovo in modo evidente.
+
+“Mi dispiace molto sentirti dire così, mamma, ”
+
+“Mi dispiace dirlo, caro mio,” intervenne la vecchia signora, continuando a lavorare a maglia con determinazione, “ma non posso farci nulla.”
+
+“—Perché,” continuò il canonico minore, “è innegabile che il signor Neville sia estremamente diligente e attento, che progredisca rapidamente, e che abbia, spero di poter dire, un certo affetto per me.”
+
+“Non c’è alcun merito nell’ultimo articolo, caro mio,” disse la vecchia signora rapidamente; “e se lui sostiene il contrario, penso che sia ancora peggio per lui, per quella vanteria.”
+
+“Ma, cara mamma, lui non ha mai detto che esistesse.”
+
+“Forse no,” rispose la vecchia signora; “comunque, non credo che abbia un grande significato.”
+
+Nell’atteggiamento piacevole con cui il signor Crisparkle osservava quel grazioso pezzo di porcellana mentre si riscaldava al fuoco, non c’era alcuna impazienza; tuttavia, era evidente un senso umoristico riguardo al fatto che quel pezzo di porcellana non fosse certo qualcosa con cui si potesse discutere seriamente.
+
+“Inoltre, Sept, chiediti cosa sarebbe lui senza sua sorella. Sai quanto grande sia l’influenza che lei ha su di lui; sai quali capacità possiede; sai che tutto ciò che legge con te, lo legge anche con lei. Dalle la sua giusta parte dei tuoi complimenti. Quanto ne rimane allora per lui?”
+
+A queste parole, il signor Crisparkle cadde in una leggera meditazione, durante la quale pensò a molte cose. Ricordò le volte in cui aveva visto i fratello e la sorella conversare a lungo insieme su uno dei suoi vecchi libri universitari; ricordò le mattine umide e nebbiose in cui si recava al Cloisterham Weir; ricordò le serate cupe, quando, salito sul suo preferito punto di osservazione tra le rovine del monastero, affrontava il vento al tramonto, mentre le luci della città rendevano il paesaggio ancora più desolato. Pensò a come gli fosse diventato chiaro che, insegnando a uno, in realtà stesse insegnando anche all’altro; pensò a come avesse quasi inconsciamente adattato le sue spiegazioni alle esigenze di entrambi: a quelle della persona con cui aveva quotidianamente a che fare, e a quelle di quella che poteva conoscere soltanto attraverso la prima. Pensò anche alle voci che gli erano giunte dal Convento delle Suore, secondo cui [[characters/helena|Helena]], che lui aveva ritenuto così orgogliosa e testarda, si era sottomessa alla “fata sposa” (così la chiamava) e aveva imparato da lei tutto ciò che sapeva. Pensò a quell’alleanza così strana, apparentemente così diversa in superficie. E pensò soprattutto: poteva davvero essere che tutte queste cose fossero accadute soltanto poche settimane prima, e che ormai facessero parte integrante della sua vita?
 
 
 
@@ -23972,6 +24156,73 @@ much as know our letters in the [[motifs/stars|stars]] yet—or seem likely to d
 this state of existence—and few languages can be read until their
 alphabets are mastered.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Crisparkle, con un cenno deciso, acconsentì; poi, raggiungendo di nuovo Neville, se ne andò con lui. Mangiarono insieme e si separarono alla stazione ferroviaria ancora incompleta e in via di sviluppo: il signor Crisparkle per tornare a [[motifs/home|>casa]]; Neville invece per camminare per le strade, attraversare i ponti e fare un lungo giro attorno alla [[motifs/city|>città]] nella tranquilla oscurità della notte, fino a stancarsi del tutto.
+
+Era mezzanotte quando tornò dal suo solitario viaggio e salì le scale. La [[motifs/night|notte]] era calda, e tutte le finestre delle scale erano completamente aperte. Arrivato in cima, provò un leggero brivido di sorpresa (non essendoci altre stanze se non la sua) nel vedere un estraneo seduto sul davanzale della [[motifs/window|finestra]]; sembrava più un avventuroso vetraio che un dilettante solitamente attento alla propria sicurezza. Anzi, era così “fuori” dalla finestra che si poteva pensare fosse salito attraverso lo scarico dell’acqua, invece che per le scale.
+
+Lo sconosciuto non disse nulla finché Neville non inserì la chiave nella sua porta; poi, sembrando volersi assicurare della sua [[concepts/identity|identità]] attraverso quel gesto, parlò.
+
+“Mi scusi,” disse lui, avvicinandosi dalla [[motifs/window|finestra]] con un atteggiamento sincero e sorridente, e un modo di parlare molto affabile; “i fagioli, ”
+
+Neville era davvero senza sapere cosa fare.
+
+“Gli corridori,” disse il visitatore. “Scarlet, proprio accanto, dietro.”
+
+“O,” rispose Neville. “E la mignonette e il fiore da parete?”
+
+“Lo stesso,” disse il visitatore.
+
+“Entra pure, prego.”
+
+"Grazie."
+
+Neville accese le sue candele e il visitatore si sedette. Un gentiluomo attraente, con un viso giovane, ma una corporatura più matura, robusta e dalle spalle larghe; direi un uomo di ventotto anni, al massimo trenta; così abbronzato che il contrasto tra il suo volto scuro e la fronte bianca, in parte nascosta dal cappello all’aperto, e i frammenti di pelle bianca visibili sotto il colletto, sarebbe stato quasi ridicolo se non fosse stato per le sue tempie larghe, gli occhi azzurri brillanti, i capelli castani e i denti sorridenti.
+
+“Ho notato,” disse lui; “il mio nome è Tartar.”
+
+Neville inclinò la testa.
+
+“Ho notato (scusate) che vi tenete molto in disparte e che sembrate apprezzare il mio [[motifs/garden|giardino]] qui sopra. Se voleste ne avere di più, potrei appendere alcune piante tra le mie finestre e le vostre; i servitori le porterebbero direttamente lì. Inoltre, ho alcune cassette contenenti piante di mignonette e altre specie che potrei posizionare lungo il canale di scolo (con l’aiuto di un gancio che ho a disposizione) vicino alle vostre finestre; le potreste tirare indietro quando aveste bisogno di annaffiarle o curarle, e rimetterle a posto quando fossero pronte per essere nuovamente piantate. Non oserei prendermi questa libertà senza il vostro permesso, quindi vi chiedo gentilmente il consenso. Tartar, il set corrispondente è proprio accanto, ”
+
+“Sei davvero molto gentile.”
+
+“Assolutamente no. Dovrei scusarmi per essere venuto così tardi. Ma avendo notato che di solito esce di sera, ho pensato di non disturbarla aspettando il suo ritorno. Ho sempre paura di disturbare le persone impegnate, essendo io stesso un uomo inutile.”
+
+# Non avrei mai pensato una cosa del genere, guardandoti.
+
+“No? Lo interpreto come un complimento. In effetti, sono stato educato nella Royal Navy e sono diventato Primo Ufficiale prima di lasciarla. Ma un mio zio, deluso dal servizio militare, mi lasciò la sua proprietà a condizione che io abbandonassi la Marina; accettai quella fortuna e rassegnai le dimissioni.”
+
+“Ultimamente, immagino, ”
+
+“Beh, prima avevo passato dodici o quindici anni viaggiando da un posto all’altro. Sono arrivato qui circa nove mesi prima di te; avevo già raccolto una stagione di prodotti prima del tuo arrivo. Ho scelto questo posto perché, avendo servito l’ultima volta su una piccola corvetta, sapevo che mi sarei sentito più a mio agio in un ambiente dove avevo costantemente la possibilità, di ‘sbattere la testa contro il soffitto’, per così dire. Inoltre, non sarebbe stato affatto appropriato per un uomo che fin da ragazzo aveva trascorso la vita su una nave trasformarsi all’improvviso in uno spendaccione. E poi, essendo abituato a vivere in spazi molto ristretti per tutta la mia vita, pensavo che iniziando con qualcosa di semplice come delle scatole, avrei potuto gradualmente imparare a gestire una proprietà terriera.”
+
+Per quanto detta in modo capriccioso, c'era un pizzico di serietà gioiosa che la rendeva ancora più stravagante.
+
+“Tuttavia,” disse il Tenente, “ho parlato abbastanza di me stesso. Non è nel mio stile, spero; si è trattato soltanto di presentarmi a voi in modo naturale. Se mi permetterete di compiere l’azione che ho descritto, sarà una sorta di carità, poiché mi darà qualcosa di più da fare. E non dovete pensare che ciò possa causarvi alcuna interruzione o intrusione, perché questa è assolutamente lontana dalla mia intenzione.”
+
+Neville rispose che era molto grato e che accettava con gratitudine quell’offerta gentile.
+
+“Sono molto felice di poter occuparmi dei vostri finestrini,” disse il tenente.  
+“Da quanto ho visto di voi mentre lavoravo nel mio giardino e voi osservavate, ho pensato che foste, scusate, un po’ troppo studioso e delicato. Posso chiedervi se la vostra salute ne risenta in qualche modo?”
+
+“Ho attraversato alcuni periodi di difficoltà mentale,” disse Neville, confuso, “che, in un certo senso, hanno sostituito la malattia stessa.”
+
+“Perdonatemi,” disse il signor Tartar.
+
+Con la massima delicatezza, spostò di nuovo il proprio peso verso le finestre e chiese se potesse guardarne una. Non appena Neville le aprì, lui balzò immediatamente fuori, come se dovesse portare in salvo un intero orologio in caso di emergenza, dando così un esempio luminoso.
+
+“Per l’amor del cielo,” gridò Neville, “non fatelo! Dove state andando, signor Tartar? Vi schianterete in mille pezzi!”
+
+“Tutto a posto!”, disse il tenente, guardandosi intorno con calma sul tetto della casa. “Tutti i cavi sono tesi e in ordine; quei tiranti verranno sistemati prima che tu esca questa mattina. Posso prendere questo sentiero più breve per tornare a [[motifs/home|casa]] e augurarti la buona [[motifs/night|notte]]?”
+
+“Mr. Tartar!”, esclamò Neville. “Per favore. Vedervi mi fa girare la testa!”
+
+Ma il signor Tartar, con un gesto della mano e la destrezza di un gatto, era già passato attraverso i suoi corridoi foderati di velluto rosso senza rompere nemmeno una foglia, ed era “scomparso al piano di sotto”.
+
+Il signor Grewgious, con la tenda della finestra della sua camera da letto tenuta da parte con la mano, si trovava proprio in quel momento a guardare direttamente verso le stanze di Neville, per l’ultima volta quella [[motifs/night|notte]]. Fortunatamente il suo sguardo era rivolto verso la facciata della casa e non sul retro; altrimenti quell’incredibile apparizione e sparizione avrebbero potuto disturbare il suo sonno, considerandola un fenomeno strano. Ma poiché il signor Grewgious non vide nulla lì, nemmeno una luce alle finestre, il suo sguardo si spostò dalle finestre verso le [[motifs/stars|stelle]], come se volesse leggere in esse qualcosa che gli era nascosto. Molti di noi lo farebbero, se potessimo; ma nessuno di noi conosce ancora nemmeno le lettere presenti nelle [[motifs/stars|stelle]]. E poche lingue possono essere comprese prima che il loro alfabeto venga appreso.
 
 
 

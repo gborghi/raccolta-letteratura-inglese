@@ -201,7 +201,7 @@ def main():
             try:
                 it_body = dt.translate_atom(en_path, cache, fixups)
                 en_body = dt._read_vault(en_path)
-                verse = "/Poems/" in en_path or "/Long/" in en_path
+                verse = dt.is_verse_path(en_path)
                 problems = dt.validate(en_body, it_body, verse)
                 if problems:
                     _log(f"REJECT {rel}: {'; '.join(problems)}")

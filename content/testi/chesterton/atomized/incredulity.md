@@ -7732,6 +7732,2909 @@ not forget that, like many other sneaks and skunks in [[concepts/history|history
 he is also a poet.'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+UNO:  La [[concepts/resurrection|resurrezione]] di [[characters/father-brown|Padre Brown]]
+
+CI FU un breve periodo durante il quale [[characters/father-brown|Padre Brown]] godette, o piuttosto non godette, di qualcosa di simile alla fama. Fu, per nove giorni, la [[concepts/wonder|meraviglia]] dei giornali; fu perfino un consueto argomento di controversia nelle riviste settimanali; le sue imprese venivano narrate con avidità e inesattezza in un'infinità di circoli e di salotti, specialmente in [[settings/america|America]]. Per quanto incongruo e davvero incredibile possa sembrare a chiunque lo conoscesse, le sue avventure di [[archetypes/detective|investigatore]] furono persino fatte oggetto di racconti apparsi sulle riviste.
+
+Stranamente, questa vagabonda luce della ribalta lo colpì nel più oscuro, o almeno nel più remoto, dei suoi molti luoghi di residenza. Era stato mandato a officiare, in una condizione a metà tra il missionario e il parroco, in una di quelle fasce della costa settentrionale del Sud [[settings/america|America]], dove certi lembi di territorio ancora si aggrappano malfermi alle potenze europee, o minacciano di continuo di diventare repubbliche indipendenti, sotto la gigantesca [[archetypes/shadow|ombra]] del presidente Monroe. La popolazione era rossa e bruna con macchie rosee; vale a dire, era ispano-americana, e in gran parte ispano-americana-india, ma vi era una considerevole e crescente infiltrazione di americani del tipo settentrionale: inglesi, tedeschi e via dicendo. E i guai sembra siano cominciati quando uno di questi visitatori, sbarcato da pochissimo e assai contrariato per aver smarrito una delle proprie valigie, si avvicinò al primo edificio che gli capitò sotto gli occhi, che si dava il caso fosse la casa della missione con la cappella annessa, davanti alla quale correvano una lunga veranda e una lunga fila di pali, su cui erano allevate le nere viti contorte, le loro [[motifs/leaves|foglie]] quadrangolari rosse d'[[motifs/autumn|autunno]]. Dietro di essi, anch'essi in fila, alcuni esseri umani sedevano quasi rigidi come i pali, e colorati in certo modo come le viti. Poiché, mentre i loro cappelli a tesa larga erano neri come i loro occhi che non ammiccavano, la carnagione di molti di loro avrebbe potuto essere fatta del legno rosso scuro di quelle foreste transatlantiche. Molti fumavano sigari neri, lunghissimi e sottili; e in tutto quel gruppo il fumo era quasi l'unica cosa in movimento. Il visitatore li avrebbe probabilmente descritti come indigeni, benché alcuni fossero molto fieri del proprio [[motifs/blood|sangue]] spagnolo. Ma egli non era uomo da tracciare sottili distinzioni tra spagnoli e pellirosse, essendo piuttosto incline a congedare la gente dalla scena una volta che l'avesse dichiarata colpevole di esservi indigena.
+
+Era un giornalista di Kansas [[motifs/city|City]], un uomo magro, dai capelli chiari, con quello che Meredith chiamava un naso avventuroso; si sarebbe quasi immaginato che trovasse la strada tastandola, e che si muovesse come la proboscide di un formichiere. Si chiamava Snaith, e i suoi genitori, dopo qualche oscura meditazione, lo avevano chiamato Saul, fatto che egli aveva il buon gusto di celare per quanto possibile. Anzi, alla fine aveva raggiunto un compromesso chiamandosi Paul, benché non certo per la stessa ragione che aveva riguardato l'Apostolo dei Gentili. Al contrario, per quel poco che aveva idee su simili faccende, il nome del persecutore sarebbe stato più appropriato; poiché guardava alla religione organizzata con quel convenzionale disprezzo che si apprende più facilmente da Ingersoll che da Voltaire. E questo era, guarda caso, il lato non molto importante del suo carattere che egli rivolgeva alla stazione missionaria e ai gruppi davanti alla veranda. Qualcosa nel loro sfrontato riposo e nella loro indifferenza infiammava la sua stessa furia di efficienza; e, poiché non riusciva a ottenere risposta precisa alle sue prime domande, cominciò a fare tutto da sé il discorso.
+
+Ritto là fuori nel sole forte, figura lustra e impeccabile nel suo panama e nei suoi abiti ordinati, la borsa da viaggio stretta in una morsa d'acciaio, cominciò a gridare alla gente nell'[[archetypes/shadow|ombra]]. Prese a spiegare loro a gran voce perché fossero pigri e sudici, e bestialmente ignoranti e più in basso delle bestie che periscono, caso mai il problema avesse in precedenza occupato le loro menti. A suo parere era la deleteria influenza dei preti che li aveva resi così miserabilmente poveri e così irrimediabilmente oppressi da poter starsene seduti all'ombra a fumare senza far nulla.
+
+«E che gente rammollita dovete essere per giunta» disse «per lasciarvi tiranneggiare da questi idoli tronfi solo perché vanno in giro con le loro mitre e le loro tiare e i loro piviali d'oro e altri ninnoli sgargianti, guardando tutti gli altri dall'alto in basso come fango; per lasciarvi abbindolare da corone e baldacchini e sacri ombrelli come un bambino a una pantomima; solo perché un pomposo vecchio Sommo Sacerdote di Mumbo-Jumbo ha l'aria di essere il signore della terra. E voi? Voi che aria avete, poveri sciocchi? Ve lo dico io, ecco perché siete rimasti indietro nella barbarie e non sapete né leggere né scrivere e...»
+
+A questo punto il Sommo Sacerdote di Mumbo-Jumbo uscì con fretta poco dignitosa dalla porta della casa della missione, con un'aria non molto simile a quella di un signore della terra, ma piuttosto a quella di un fagotto di neri abiti smessi abbottonati intorno a un corto guanciale a somiglianza di un fantoccio. Non portava la tiara, ammesso che ne possedesse una, ma un logoro cappellaccio a tesa larga non molto dissimile da quelli degli indios spagnoli, e se l'era spinto sulla nuca con un gesto di stizza. Sembrava sul punto di parlare agli indigeni immobili quando scorse lo straniero e disse in fretta:
+
+«Oh, posso esservi d'aiuto? Volete accomodarvi dentro?»
+
+Il signor Paul Snaith si accomodò dentro; e fu l'inizio di un notevole accrescimento delle informazioni di quel giornalista su molte cose. Presumibilmente il suo istinto giornalistico era più forte dei suoi pregiudizi, come, in verità, spesso accade nei giornalisti in gamba; e fece parecchie domande, le cui risposte lo interessarono e lo sorpresero. Scoprì che gli indios sapevano leggere e scrivere, per la semplice ragione che il prete glielo aveva insegnato; ma che non leggevano né scrivevano più dello stretto necessario, per una naturale preferenza verso comunicazioni più dirette. Apprese che quella strana gente, che se ne stava seduta a mucchi sulla veranda senza muovere un capello, sapeva lavorare piuttosto sodo sui propri appezzamenti di terra; specialmente quelli tra loro che erano per più di metà spagnoli; e apprese con ancor maggiore stupore che tutti possedevano appezzamenti di terra realmente propri. Ciò faceva parte di una tenace tradizione che pareva del tutto indigena degli indigeni. Ma anche in questo il prete aveva avuto una certa parte, e così facendo aveva forse preso la sua prima e ultima parte nella politica, se pure si trattava soltanto di politica locale.
+
+Aveva di recente attraversato quella regione una di quelle febbri di radicalismo ateo e quasi anarchico che scoppiano periodicamente nei paesi di cultura latina, cominciando in genere in una società segreta e finendo in genere in una guerra civile e in ben poco altro. Il capo locale del partito iconoclasta era un certo Alvarez, un avventuriero piuttosto pittoresco di nazionalità portoghese ma, come dicevano i suoi nemici, di origine in parte negra, il capo di un'infinità di logge e di templi d'iniziazione del genere che in tali luoghi rivestono perfino l'ateismo di qualcosa di mistico. Il capo dello schieramento più conservatore era una persona assai più comune, un uomo molto ricco di nome Mendoza, proprietario di numerose fabbriche e del tutto rispettabile, ma non molto entusiasmante. Era opinione generale che la causa dell'ordine e della legge sarebbe stata interamente perduta se non avesse adottato una politica propria più popolare, nella forma di assicurare la terra ai contadini; e questo movimento aveva avuto origine principalmente dalla piccola stazione missionaria di [[characters/father-brown|Padre Brown]].
+
+Mentre parlava col giornalista, entrò Mendoza, il capo conservatore. Era un uomo tozzo e bruno, con una testa calva a forma di pera e un [[concepts/body|corpo]] rotondo anch'esso a forma di pera; fumava un sigaro assai profumato, ma lo gettò via, forse un po' teatralmente, quando venne alla presenza del prete, come se stesse entrando in chiesa; e s'inchinò con una curva che, in un signore tanto corpulento, appariva del tutto inverosimile. Era sempre estremamente serio nei suoi gesti sociali, specialmente verso le istituzioni religiose. Era uno di quei laici che sono assai più ecclesiastici degli ecclesiastici. Ciò imbarazzava non poco [[characters/father-brown|Padre Brown]], specialmente quando veniva così trasportato nella vita privata.
+
+«Credo di essere un anticlericale» soleva dire Padre Brown con un lieve sorriso; «ma non ci sarebbe neppure la metà del clericalismo, se soltanto lasciassero le cose ai chierici.»
+
+«Ma guarda, signor Mendoza» esclamò il giornalista con nuova animazione «credo che ci siamo già incontrati. Non era lei al Congresso del Commercio in Messico, l'anno scorso?»
+
+Le palpebre pesanti del signor Mendoza ebbero un fremito di riconoscimento, ed egli sorrise nel suo modo lento. «Ricordo.»
+
+«Un bell'affare, e grosso, concluso là in un'ora o due» disse Snaith con gusto. «Ha fatto una bella differenza anche per lei, immagino.»
+
+«Sono stato molto fortunato» disse Mendoza con modestia.
+
+«Non ci creda!» esclamò l'entusiasta Snaith. «La buona sorte arride a chi sa quando afferrare l'occasione; e lei l'ha afferrata ben salda e sicura. Ma [[concepts/hope|spero]] di non interrompere i suoi affari?»
+
+«Niente affatto» disse l'altro. «Ho spesso l'[[concepts/honour|onore]] di far visita al padre per una piccola conversazione. Nient'altro che una piccola conversazione.»
+
+Sembrava che questa familiarità tra [[characters/father-brown|Padre Brown]] e un uomo d'affari di successo e persino famoso completasse la [[concepts/reconciliation|riconciliazione]] tra il prete e il pratico signor Snaith. Egli sentì, si può supporre, una nuova rispettabilità rivestire la stazione e la missione, e fu pronto a passar sopra a quegli occasionali richiami all'esistenza della religione che una cappella e una canonica possono di rado evitare del tutto. Divenne addirittura entusiasta del programma del prete — almeno nel suo aspetto laico e sociale — e si dichiarò pronto in qualsiasi momento ad agire in veste di filo conduttore per trasmetterlo al mondo intero. E fu a questo punto che [[characters/father-brown|Padre Brown]] cominciò a trovare il giornalista più molesto nella sua simpatia di quanto lo fosse stato nella sua ostilità.
+
+Il signor Paul Snaith si mise vigorosamente a dare risalto a [[characters/father-brown|Padre Brown]]. Inviò lunghi e clamorosi elogi su di lui attraverso il continente, al suo giornale del Medio Ovest. Scattò istantanee dello sventurato ecclesiastico nelle occupazioni più comuni, e le esibì in fotografie giganteggianti sui giganteschi giornali [[characters/sunday|domenicali]] degli Stati Uniti. Trasformò i suoi detti in slogan, e presentava di continuo al mondo «Un messaggio» dal reverendo signore del Sud America. Qualsiasi stirpe meno robusta e strenuamente ricettiva della razza americana si sarebbe assai annoiata di Padre Brown. Così invece egli ricevette offerte generose e sollecite di intraprendere un giro di conferenze negli Stati; e quando rifiutò, le condizioni furono innalzate con espressioni di rispettoso stupore. Una serie di racconti su di lui, sul modello di quelli di Sherlock Holmes, furono, per opera del signor Snaith, progettati e sottoposti all'eroe con richieste del suo aiuto e del suo incoraggiamento. Quando il prete si accorse che li avevano avviati, non poté offrire altro suggerimento se non che li interrompessero. E questo a sua volta fu preso dal signor Snaith come spunto per una discussione sull'opportunità che Padre Brown scomparisse temporaneamente oltre un dirupo, alla maniera dell'eroe del dottor Watson. A tutte queste richieste il prete dovette pazientemente rispondere per iscritto, dicendo che avrebbe acconsentito a tali condizioni alla temporanea sospensione dei racconti e supplicando che intercorresse un intervallo considerevole prima che ricominciassero. I biglietti che scriveva si facevano sempre più brevi; e mentre scriveva l'ultimo di essi, sospirò.
+
+Inutile dire che questo strano clamore al Nord si ripercosse sul piccolo avamposto al Sud, dove egli aveva sperato di vivere in un esilio tanto solitario. La considerevole popolazione inglese e americana già presente sul posto cominciò a inorgoglirsi di possedere una persona tanto largamente pubblicizzata. Turisti americani, del genere che sbarca reclamando a gran voce l'Abbazia di Westminster, sbarcarono su quella costa remota reclamando a gran voce Padre Brown. Erano a un passo dal far circolare treni d'escursione intitolati a lui, e dal portare folle a vederlo come se fosse un monumento pubblico. Era particolarmente tormentato dai nuovi commercianti e bottegai del luogo, attivi e ambiziosi, che lo assillavano di continuo perché provasse le loro mercanzie e desse loro attestati. E se anche gli attestati non arrivavano, essi prolungavano la corrispondenza allo scopo di collezionare autografi. Poiché era una persona di buon carattere, ottenevano da lui buona parte di ciò che volevano; e fu in risposta a una particolare richiesta di un mercante di vini di Francoforte, di nome Eckstein, che egli scrisse in fretta poche parole su un biglietto, parole che si sarebbero rivelate una terribile svolta nella sua vita.
+
+Eckstein era un ometto agitato, dai capelli crespi e con le pince-nez, follemente ansioso che il prete non solo assaggiasse un po' del suo celebre porto medicinale, ma gli facesse sapere dove e quando l'avrebbe bevuto, nell'accusarne ricevuta. Il prete non fu particolarmente sorpreso dalla richiesta, poiché aveva da tempo smesso di stupirsi delle follie della pubblicità. Così scarabocchiò qualcosa e passò ad altre faccende che parevano un po' più sensate. Fu di nuovo interrotto, da un biglietto niente meno che del suo nemico politico Alvarez, che gli chiedeva di recarsi a un incontro nel quale si sperava di raggiungere un compromesso su una questione ancora aperta; e proponeva un appuntamento per quella sera in un caffè appena fuori le mura della cittadina. Anche a questo egli inviò un messaggio d'accettazione tramite il messaggero, piuttosto vistoso e marziale, che lo aspettava; e poi, avendo un'ora o due davanti a sé, si sedette a tentare di sbrigare un poco dei propri legittimi affari. Al termine di quel tempo si versò un bicchiere del notevole vino del signor Eckstein e, lanciando un'occhiata all'orologio con un'espressione divertita, lo bevve e uscì nella notte.
+
+Una luna forte posava sulla cittadina spagnola, sicché quando egli giunse al pittoresco portale, con il suo arco piuttosto rococò e la fantastica frangia di palme al di là, esso sembrava quasi una scena di un'opera spagnola. Una lunga foglia di palma dai bordi frastagliati, nera contro la luna, pendeva dall'altro lato dell'arco, visibile attraverso l'archivolto, e aveva qualcosa dell'aspetto della mascella di un nero coccodrillo. La fantasticheria non sarebbe indugiata nella sua immaginazione se non fosse stato per qualcos'altro che colpì il suo occhio, per natura vigile. L'aria era mortalmente immobile, e non c'era un alito di vento; ma egli vide distintamente muoversi la foglia di palma pendente.
+
+Si guardò attorno e si rese conto di essere solo. Si era lasciato alle spalle le ultime case, per lo più chiuse e sprangate, e camminava tra due lunghi muri ciechi, costruiti con pietre grandi e informi ma appiattite, irte qua e là delle strane erbacce spinose di quella regione; muri che correvano paralleli per tutto il tragitto fino al portale. Non riusciva a vedere le luci del caffè fuori della porta; probabilmente era troppo lontano. Sotto l'arco non si scorgeva nulla se non una più ampia distesa di lastricato a grandi lastre, pallida al chiaro di luna, con qua e là il fico d'India sparso e spinoso. Ebbe una forte sensazione dell'odore del male; provò una strana oppressione fisica; ma non pensò di fermarsi. Il suo coraggio, che era considerevole, era forse in lui una parte perfino meno forte della sua curiosità. Per tutta la vita era stato guidato da una fame intellettuale della verità, anche delle inezie. Spesso la teneva a freno in nome della misura; ma essa era sempre lì. Attraversò dritto il portale, e dall'altra parte un uomo balzò come una scimmia dalla cima dell'albero e lo colpì con un coltello. Nello stesso istante un altro uomo venne strisciando rapido lungo il muro e, roteando un randello sopra il capo, lo abbatté. Padre Brown si voltò, barcollò e cadde in un mucchio, ma mentre cadeva sul suo volto rotondo spuntò un'espressione di mite e immenso stupore.
+
+In quella stessa cittadina viveva a quel tempo un altro giovane americano, particolarmente diverso dal signor Paul Snaith. Si chiamava John Adams Race, ed era un ingegnere elettrotecnico, assunto da Mendoza per dotare la vecchia città di tutte le nuove comodità. Era una figura assai meno familiare alla satira e al pettegolezzo internazionale di quella del giornalista americano. Eppure, di fatto, l'America contiene un milione di uomini del tipo morale di Race per uno del tipo morale di Snaith. Era eccezionale nell'essere eccezionalmente bravo nel suo mestiere, ma in ogni altro senso era molto semplice. Aveva cominciato la vita come garzone di farmacista in un villaggio dell'Ovest, ed era salito per puro lavoro e merito; ma continuava a considerare la sua città natale come il cuore naturale del mondo abitabile. Gli era stata insegnata una sorta di cristianesimo assai puritano, o puramente evangelico, dalla Bibbia di famiglia sulle ginocchia della madre; e nella misura in cui aveva tempo di avere una religione, quella era ancora la sua religione. In mezzo a tutte le luci abbaglianti delle più recenti e persino più audaci scoperte, quando era proprio sull'orlo estremo dell'esperimento, operando miracoli di luce e di suono come un dio che crea nuove stelle e nuovi sistemi solari, non dubitò mai neppure per un istante che le cose «a [[motifs/home|casa]]» fossero le migliori del mondo; sua madre e la [[historical-references/bible|Bibbia]] di famiglia e la quieta e bizzarra moralità del suo villaggio. Aveva un senso della sacralità della madre tanto serio e nobile quanto ne avrebbe avuto un frivolo francese. Era ben certo che la religione della [[historical-references/bible|Bibbia]] fosse davvero la cosa giusta; solo che ne sentiva vagamente la mancanza ovunque andasse nel mondo moderno. Difficilmente ci si poteva aspettare che simpatizzasse con gli aspetti esteriori della religione nei paesi cattolici; e nell'avversione per le mitre e i pastorali simpatizzava col signor Snaith, benché non in maniera così sfrontatamente sicura. Non aveva alcuna simpatia per i pubblici inchini e strisciamenti di Mendoza e certamente nessuna [[concepts/temptation|tentazione]] verso il misticismo massonico dell'ateo Alvarez. Forse tutta quella vita semitropicale era troppo colorita per lui, striata di rosso indiano e d'oro spagnolo. Comunque, quando diceva che non c'era nulla che potesse eguagliare la sua città [[motifs/home|natale]], non si vantava. Voleva davvero dire che da qualche parte esisteva qualcosa di semplice e senza pretese e commovente, che egli rispettava davvero più di ogni altra cosa al mondo. Tale essendo l'atteggiamento mentale di John Adams Race in una stazione sudamericana, era andato crescendo in lui per qualche [[motifs/time|tempo]] un curioso sentimento, che contraddiceva tutti i suoi pregiudizi e di cui non sapeva rendersi conto. Poiché la [[concepts/truth|verità]] era questa: che l'unica cosa che avesse mai incontrato nei suoi viaggi che gli ricordasse anche minimamente la vecchia catasta di legna e le convenienze provinciali e la [[historical-references/bible|Bibbia]] sulle ginocchia della madre era (per qualche imperscrutabile ragione) il volto rotondo e il nero e goffo ombrello di [[characters/father-brown|Padre Brown]].
+
+Si sorprendeva a osservare senza volerlo quella comune e persino comica figura nera mentre si affaccendava di qua e di là; a osservarla con un fascino quasi morboso, come se fosse un [[forms/riddle|enigma]] ambulante o una contraddizione. Aveva trovato qualcosa che non poteva fare a meno di amare nel cuore di tutto ciò che odiava; era come se fosse stato orribilmente tormentato da demoni minori e avesse poi scoperto che il Diavolo era una persona del tutto ordinaria.
+
+Fu così che, guardando fuori dalla sua [[motifs/window|finestra]] in quella [[motifs/night|notte]] illuminata dalla luna, egli vide passare il Diavolo, il demone dell'inspiegabile innocenza, col suo largo cappello nero e il lungo cappotto nero, che si trascinava lungo la strada verso il portale, e lo vide con un interesse che egli stesso non sapeva comprendere. Si domandò dove andasse il prete, e che cosa avesse realmente in mente; e rimase a fissare la strada illuminata dalla luna a lungo, dopo che la piccola figura nera era passata. E poi vide qualcos'altro che lo incuriosì ulteriormente. Altri due uomini che riconobbe attraversarono la sua [[motifs/window|finestra]] come attraverso un palcoscenico illuminato. Una specie di azzurra luce di ribalta della [[motifs/moon|luna]] correva in un alone spettrale intorno al gran cespuglio di capelli che si drizzava sul capo del piccolo Eckstein, il venditore di vino, e delineava una figura più alta e più scura, dal profilo d'aquila e con uno strano cappello nero all'antica e assai sbilanciato verso l'alto, che pareva rendere l'intera sagoma ancor più bizzarra, come una forma in una pantomima d'[[archetypes/shadow|ombre]]. Race si rimproverò di lasciare che la [[motifs/moon|luna]] giocasse simili scherzi alla sua fantasia; poiché a un secondo sguardo riconobbe i neri favoriti spagnoli e il volto dai lineamenti marcati del dottor Calderon, degno medico della città, che una volta aveva trovato mentre assisteva professionalmente Mendoza. Eppure c'era qualcosa nel modo in cui i due uomini bisbigliavano tra loro e scrutavano su per la strada che lo colpì come singolare. Su un improvviso impulso scavalcò il basso davanzale della [[motifs/window|finestra]] e s'incamminò lui stesso a capo scoperto su per la [[motifs/road|strada]], seguendone le tracce. Li vide sparire sotto l'oscuro archivolto, e un momento dopo giunse da oltre un grido terribile; stranamente forte e penetrante, e che tanto più agghiacciava il [[motifs/blood|sangue]] a Race in quanto diceva qualcosa in modo assai distinto in una lingua che egli non conosceva.
+
+Un attimo dopo vi fu un accorrere di piedi, altre grida, e poi un confuso ruggito di rabbia o di dolore che scosse le torrette e le alte palme del luogo; vi fu un movimento nella folla che si era radunata, come se stesse rifluendo all'indietro attraverso il portale. E poi l'oscuro archivolto risuonò di una nuova voce, questa [[motifs/time|volta]] a lui comprensibile e che cadeva con la nota della condanna, mentre qualcuno gridava attraverso il portale:
+
+«Padre Brown è morto!»
+
+Non seppe mai quale sostegno cedette nella sua mente, o perché qualcosa su cui aveva contato improvvisamente gli venne meno; ma corse verso il portale e giunse appena in tempo per incontrare il suo connazionale, il giornalista Snaith, che usciva dall'oscuro ingresso, mortalmente pallido e schioccando nervosamente le dita.
+
+«È proprio vero» disse Snaith, con qualcosa che per lui rasentava la reverenza. «È spacciato. Il dottore l'ha esaminato, e non c'è speranza. Alcuni di questi maledetti dagos l'hanno accoppato col bastone mentre passava dalla porta — Dio sa perché. Sarà una grande perdita per il posto.»
+
+Race non rispose, o forse non poté rispondere, ma proseguì la corsa sotto l'arco fino alla scena che stava al di là. La piccola figura nera giaceva dov'era caduta sulla distesa desolata di larghe pietre punteggiate qua e là di verdi spine; e la gran folla veniva tenuta indietro, principalmente dai soli gesti di una figura gigantesca in primo piano. Poiché molti là oscillavano di qua e di là al solo movimento della sua mano, come se fosse un mago.
+
+Alvarez, il dittatore e demagogo, era una figura alta e spavalda, sempre vestita in modo piuttosto sgargiante, e in quell'occasione indossava un'uniforme verde con ricami come serpenti d'argento che vi strisciavano dappertutto, con un'onorificenza appesa al collo a un nastro d'un vivido rosso granata. I suoi capelli fitti e ricciuti erano già grigi, e per contrasto la sua carnagione, che gli amici chiamavano olivastra e i nemici da ottavo di sangue negro, appariva quasi letteralmente dorata, come se fosse una maschera plasmata nell'oro. Ma il suo volto dai lineamenti marcati, che era potente e faceto, era in quel momento debitamente grave e arcigno. Aveva atteso, spiegò, Padre Brown al caffè, quando aveva udito un fruscio e un tonfo e, uscendo, aveva trovato il cadavere disteso sul lastricato.
+
+«So che cosa alcuni di voi stanno pensando» disse, guardandosi intorno con fierezza «e se avete paura di me — come l'avete — lo dirò io per voi. Sono un ateo; non ho alcun dio da invocare per coloro che non vogliono credere alla mia parola. Ma vi dico, nel nome di ogni radice d'onore che possa restare a un soldato e a un uomo, che non ho avuto parte in questo. Se avessi qui gli uomini che l'hanno fatto, godrei a impiccarli a quell'albero.»
+
+«Naturalmente siamo lieti di sentirvelo dire» disse il vecchio Mendoza, rigido e solenne, ritto accanto al [[concepts/body|corpo]] del suo caduto collaboratore. «Questo colpo è stato troppo spaventoso perché possiamo dire che altro proviamo al momento. Suggerisco che sia più decoroso e conveniente rimuovere il corpo del mio amico e sciogliere questa riunione irregolare. Comprendo» aggiunse gravemente rivolto al dottore «che purtroppo non vi è alcun [[concepts/doubt|dubbio]].»
+
+«Non vi è alcun dubbio» disse il dottor Calderon.
+
+John Race tornò al suo alloggio triste e con un singolare senso di vuoto. Gli pareva impossibile poter rimpiangere un uomo che non aveva mai conosciuto. Apprese che il funerale si sarebbe svolto l'indomani; poiché tutti sentivano che la crisi doveva essere superata il più rapidamente possibile, per timore dei tumulti che di ora in ora si facevano più probabili. Quando Snaith aveva visto la fila di pellirosse seduti sulla veranda, essi avrebbero potuto essere una fila di antiche immagini azteche scolpite nel legno rosso. Ma non li aveva visti com'erano quando udirono che il prete era morto.
+
+In verità si sarebbero certamente sollevati in rivolta e avrebbero linciato il capo repubblicano, se non fossero stati immediatamente trattenuti dalla diretta necessità di comportarsi rispettosamente davanti alla bara del loro stesso capo religioso. Gli assassini veri e propri, che sarebbe stato quanto mai naturale linciare, parevano essersi dileguati nel nulla. Nessuno conosceva i loro nomi; e nessuno avrebbe mai saputo se il moribondo avesse anche solo visto i loro volti. Quello strano sguardo di sorpresa che era stato, a quanto pareva, il suo ultimo sguardo sulla terra, poteva essere stato il riconoscimento dei loro volti. Alvarez ripeté con violenza che non era opera sua, e presenziò al funerale, camminando dietro la bara nella sua splendida uniforme d'argento e verde con una sorta di spavalda ostentazione di reverenza.
+
+Dietro la veranda una rampa di gradini di pietra saliva lungo una ripidissima scarpata verde, cinta da una siepe di cactus, e su per essa la bara fu faticosamente issata al terreno soprastante, e collocata provvisoriamente ai piedi del grande e scarno crocifisso che dominava la strada e vegliava sul suolo consacrato. In basso sulla strada c'erano grandi mari di gente che si lamentava e sgranava i rosari: una popolazione orfana che aveva perduto un padre. Nonostante tutti questi simboli, che per lui erano abbastanza provocatori, Alvarez si comportò con ritegno e rispetto; e tutto sarebbe andato bene — come Race si disse — se solo gli altri lo avessero lasciato in pace.
+
+Race si disse con amarezza che il vecchio Mendoza aveva sempre avuto l'aria di un vecchio sciocco e che ora si era comportato, in modo assai vistoso e completo, da vecchio sciocco. Per un'usanza comune nelle società più semplici, la bara era stata lasciata aperta e il volto scoperto, portando il pathos al culmine dell'angoscia per tutta quella gente semplice. Ciò, essendo conforme alla tradizione, non avrebbe fatto alcun male; ma qualche persona invadente vi aveva aggiunto l'usanza dei liberi pensatori francesi, quella dei discorsi sul ciglio della fossa. Mendoza si accinse a fare un discorso — un discorso piuttosto lungo, e quanto più era lungo, tanto più a lungo e in basso sprofondavano lo spirito di John Race e la sua simpatia per il rituale religioso in questione. Un elenco di attributi santi, apparentemente del genere più antiquato, veniva srotolato con la tediosa lentezza di un oratore da dopo-cena che non sa come sedersi. Già questo era abbastanza spiacevole; ma Mendoza ebbe anche l'ineffabile stupidità di cominciare a rimproverare e persino a schernire i suoi avversari politici. In tre minuti era riuscito a fare una scenata, e una scenata davvero straordinaria.
+
+«Possiamo [[motifs/well|ben]] chiederci» disse, guardandosi intorno con pomposità «possiamo ben chiederci dove tali virtù possano trovarsi tra coloro che hanno follemente abbandonato la fede dei loro padri. È quando abbiamo tra noi degli atei, capi atei, anzi talvolta persino governanti atei, che vediamo la loro infame filosofia dare frutto in delitti come questo. Se ci chiediamo chi abbia assassinato questo sant'uomo, troveremo di certo...»
+
+L'Africa delle foreste guardava fuori dagli occhi di Alvarez, l'avventuriero meticcio; e a Race parve di poter d'un tratto vedere che quell'uomo era, dopo tutto, un barbaro, incapace di controllarsi fino in fondo; si poteva supporre che tutto il suo trascendentalismo «illuminato» avesse un tocco di Voodoo. Comunque, Mendoza non poté continuare, poiché Alvarez era balzato in piedi e gli gridava di rimando e lo sovrastava con la voce, con polmoni infinitamente superiori.
+
+«Chi l'ha assassinato?» ruggì. «Il vostro Dio l'ha assassinato! Il suo stesso Dio l'ha assassinato! Secondo voi, egli assassina tutti i suoi servi fedeli e sciocchi — come ha assassinato costui» e fece un gesto violento, non verso la bara ma verso il crocifisso. Sembrando controllarsi un poco, proseguì con un tono ancora adirato ma più argomentativo: «Io non ci credo, ma voi sì. Non è meglio non avere alcun Dio che averne uno che vi deruba a questo modo? Io, almeno, non ho paura di dire che non ce n'è alcuno. Non c'è potere in tutto questo universo cieco e senza cervello che possa udire la vostra [[motifs/prayer|preghiera]] o restituirvi l'amico. Per quanto imploriate il Cielo di risuscitarlo, egli non risorgerà. Per quanto io sfidi il Cielo a risuscitarlo, egli non risorgerà. Qui e ora lo metterò alla prova: sfido il Dio che non c'è a risvegliare l'uomo che dorme per sempre.»
+
+Vi fu un urto di [[motifs/silence|silenzio]], e il demagogo aveva ottenuto il suo effetto sensazionale.
+
+«Avremmo dovuto immaginarlo» esclamò Mendoza con voce spessa e gorgogliante «quando abbiamo permesso a uomini come voi...»
+
+Una nuova voce s'intromise nel suo discorso; una voce alta e stridula con accento yankee.
+
+«Fermi! Fermi!» gridò Snaith il giornalista; «sta succedendo qualcosa! Giuro di averlo visto muoversi.»
+
+Salì di corsa i gradini e si precipitò alla bara, mentre la folla in basso ondeggiava in frenesie indescrivibili. Un attimo dopo aveva voltato al di sopra della spalla un volto attonito e fatto un cenno col dito al dottor Calderon, che si affrettò avanti a confabulare con lui. Quando i due uomini si allontanarono di nuovo dalla bara, tutti poterono vedere che la posizione della testa era mutata. Un ruggito d'eccitazione si levò dalla folla e parve arrestarsi di colpo, come reciso a mezz'aria; poiché il prete nella bara emise un gemito e si sollevò su un gomito, guardando con occhi velati e ammiccanti la folla.
+
+John Adams Race, che fino ad allora aveva conosciuto solo i miracoli della scienza, non riuscì mai, negli anni successivi, a descrivere il sottosopra di quei pochi giorni. Gli pareva d'essere sbucato fuori dal mondo del tempo e dello spazio, e di vivere nell'impossibile. In mezz'ora l'intera città e l'intero distretto erano stati trasformati in qualcosa di mai visto da mille anni; un popolo medievale mutato in una folla di monaci da uno sbalorditivo miracolo; una città greca dove il dio era disceso tra gli uomini. Migliaia si prostravano sulla strada; centinaia facevano voti sul posto; e persino gli estranei, come i due americani, non riuscivano a pensare e a parlare d'altro che del prodigio. Lo stesso Alvarez era scosso, come ben poteva esserlo; e si sedette, con la testa tra le mani.
+
+E in mezzo a tutto questo turbine di beatitudine c'era un ometto che lottava per farsi udire. La sua voce era piccola e fioca, e il fracasso era assordante. Faceva deboli gesti che parevano più d'irritazione che d'altro. Venne all'orlo del parapetto sopra la folla, agitando la mano perché facesse silenzio, con movimenti piuttosto simili al battito delle corte ali di un pinguino. Vi fu qualcosa d'un po' più simile a una tregua nel fracasso; e allora Padre Brown per la prima volta raggiunse la massima estensione dell'indignazione che potesse scagliare contro i suoi figli.
+
+«Oh, gente sciocca» disse con voce alta e tremula; «oh, gente sciocca, sciocca.»
+
+Poi d'un tratto parve riprendersi, si slanciò verso i gradini con la sua andatura più normale, e cominciò a scendere in fretta.
+
+«Dove andate, Padre?» disse Mendoza, con più della sua consueta venerazione.
+
+«All'ufficio del telegrafo» disse Padre Brown in fretta. «Come? No; certo che non è un miracolo. Perché mai dovrebbe esserci un miracolo? I miracoli non sono così a buon mercato.»
+
+E scese ruzzolando i gradini, mentre la gente si gettava davanti a lui per implorarne la benedizione.
+
+«Vi benedico, vi benedico» disse Padre Brown in fretta. «Dio vi benedica tutti e vi dia più giudizio.»
+
+E se ne andò via a passettini con straordinaria rapidità fino all'ufficio del telegrafo, dove telegrafò al segretario del suo Vescovo: «Qui circola una folle storia di miracolo; spero che Sua Eccellenza non conceda autorizzazione. Non c'è nulla di vero.»
+
+Mentre si allontanava da quella fatica, vacillò un poco per il contraccolpo, e John Race lo afferrò per il braccio.
+
+«Lasciate che vi accompagni a [[motifs/home|casa]]» disse; «meritate più di quanto questa gente vi stia dando.»
+
+John Race e il prete sedevano nella canonica; il tavolo era ancora ingombro delle carte con cui quest'ultimo si era accapigliato il giorno prima; la bottiglia di vino e il bicchiere vuotato stavano ancora dove li aveva lasciati.
+
+«E ora» disse [[characters/father-brown|Padre Brown]] quasi torvo «posso cominciare a pensare.»
+
+«Non penserei troppo intensamente per ora» disse l'americano. «Dovete aver bisogno di riposo. E poi, a che cosa volete pensare?»
+
+«Mi è capitato piuttosto spesso di dovermi occupare di indagini su omicidi, guarda caso» disse [[characters/father-brown|Padre Brown]]. «Ora mi tocca indagare sul mio stesso assassinio.»
+
+«Se fossi in voi» disse Race «prima berrei un po' di vino.»
+
+Padre Brown si alzò e si riempì un altro bicchiere, lo sollevò, guardò pensoso nel vuoto, e lo posò di nuovo. Poi si sedette ancora una volta e disse:
+
+«Sapete che cosa provai quando morii? Forse non ci crederete, ma la mia sensazione fu di uno stupore travolgente.»
+
+«Be'» rispose Race «immagino foste stupito d'esser stato colpito alla testa.»
+
+[[characters/father-brown|Padre Brown]] si chinò verso di lui e disse a bassa voce: «Ero stupito di non essere stato colpito alla testa.»
+
+Race lo guardò per un momento come se pensasse che il colpo alla testa fosse stato fin troppo efficace; ma disse soltanto: «Che cosa intendete?»
+
+«Intendo che, quando quell'uomo abbatté il suo randello con un gran fendente, esso si fermò alla mia testa e non la toccò nemmeno. Allo stesso modo, l'altro tizio fece come per colpirmi con un coltello, ma non mi procurò neppure un graffio. Era proprio come una recita. Credo che lo fosse. Ma poi seguì la cosa straordinaria.»
+
+Guardò pensoso per un momento le carte sul tavolo e poi proseguì:
+
+«Benché non fossi stato neppure sfiorato da coltello o bastone, cominciai a sentire le gambe piegarmisi sotto e la vita stessa venir meno. Sapevo di essere abbattuto da qualcosa, ma non da quelle armi. Sapete che cosa penso fosse?» E indicò il vino sul tavolo.
+
+Race prese il bicchiere di vino e lo osservò e lo annusò.
+
+«Credo abbiate ragione» disse. «Ho cominciato come farmacista e ho studiato chimica. Non saprei dirlo con certezza senza un'analisi; ma credo che ci sia qualcosa di assai insolito in questa roba. Esistono droghe con cui gli asiatici producono un [[motifs/sleep|sonno]] temporaneo che ha l'aspetto della [[motifs/death|morte]].»
+
+«Proprio così» disse il prete con calma. «Tutto questo miracolo è stato architettato, per una ragione o per l'altra. Quella scena funebre è stata inscenata — e cronometrata. Credo faccia parte di quella delirante follia della pubblicità che ha preso Snaith; ma stento a credere che si sarebbe spinto fino a tanto, per quello soltanto. Dopo tutto, un conto è fare articoli su di me e presentarmi come una sorta di finto Sherlock Holmes, e...»
+
+Proprio mentre il prete parlava, il suo volto mutò. Le palpebre che ammiccavano si chiusero di colpo ed egli si alzò come se stesse soffocando. Poi tese una mano vacillante, come cercando a tastoni la strada verso la porta.
+
+«Dove andate?» chiese l'altro con una certa meraviglia.
+
+«Se proprio volete saperlo» disse [[characters/father-brown|Padre Brown]], che era tutto bianco «stavo andando a pregare. O meglio, a lodare.»
+
+«Non sono sicuro di capire. Che cosa avete?»
+
+«Stavo andando a lodare Dio per avermi salvato così stranamente e così incredibilmente — per avermi salvato per un pelo.»
+
+«Certo» disse Race «io non sono della vostra religione; ma credetemi, ho abbastanza religione da capirlo. Naturalmente ringraziereste Dio per avervi salvato dalla morte.»
+
+«No» disse il prete. «Non dalla morte. Dall'infamia.»
+
+L'altro rimase seduto a fissarlo; e le parole successive del prete gli proruppero con una sorta di grido. «E se fosse stata soltanto la mia infamia! Ma era l'infamia di tutto ciò che rappresento; l'infamia della [[concepts/faith|Fede]] che essi manovravano per circuire. Che cosa avrebbe potuto essere! Il più enorme e orribile scandalo mai scagliato contro di noi da quando l'ultima menzogna fu soffocata nella gola di Titus Oates.»
+
+«Ma di che diavolo state parlando?» domandò il suo compagno.
+
+«[[motifs/well|Ebbene]], meglio che ve lo dica subito» disse il prete; e sedendosi, proseguì più padrone di sé: «Mi venne in mente in un lampo, quando mi capitò di menzionare Snaith e Sherlock Holmes. Ora, mi ricordo per l'appunto ciò che scrissi a proposito del suo assurdo progetto; era la cosa naturale da scrivere, eppure credo che mi avessero ingegnosamente manovrato perché scrivessi proprio quelle parole. Erano qualcosa come: "Sono pronto a morire e a tornare in vita come Sherlock Holmes, se questa è la maniera migliore." E nell'istante in cui pensai a ciò, mi resi conto che mi avevano fatto scrivere ogni sorta di cose di quel genere, tutte volte alla stessa idea. Scrissi, come a un complice, dicendo che avrei bevuto il vino drogato a un determinato [[motifs/time|momento]]. Ora, non capite?»
+
+Race balzò in piedi ancora fissandolo: «Sì» disse «credo di cominciare a capire.»
+
+«Avrebbero gonfiato il miracolo. Poi avrebbero fatto scoppiare il miracolo. E, cosa peggiore, avrebbero provato che io ero nella cospirazione. Sarebbe stato il nostro falso miracolo. È tutto qui; e press'a poco il più vicino all'inferno che io e voi mai saremo, spero.»
+
+Poi disse, dopo una pausa, con voce del tutto mite: «Di certo avrebbero ricavato da me parecchia buona materia da giornale.»
+
+Race guardò il tavolo e disse cupamente: «Quanti di questi bruti c'erano dentro?»
+
+Padre Brown scosse il capo. «Più di quanti mi piaccia pensare» disse; «ma spero che alcuni di loro fossero soltanto strumenti. Alvarez potrebbe pensare che in guerra tutto è lecito, forse; ha una mente bizzarra. Temo molto che Mendoza sia un vecchio ipocrita; non mi sono mai fidato di lui, e detestava il mio operato in una questione industriale. Ma tutto questo può attendere; non mi resta che ringraziare Dio per lo scampato pericolo. E specialmente per aver telegrafato subito al Vescovo.»
+
+John Race appariva molto pensieroso. «Mi avete detto molte cose che non sapevo» disse alla fine «e mi sento incline a dirvi l'unica cosa che voi non sapete. Riesco a immaginare abbastanza bene come calcolarono quei tizi. Pensavano che qualsiasi uomo vivente, svegliandosi in una bara per trovarsi canonizzato come un santo, e trasformato in un miracolo ambulante da ammirare per tutti, sarebbe stato travolto insieme ai suoi adoratori e avrebbe accettato la corona di gloria che gli cadeva addosso dal cielo. E ritengo che il loro calcolo fosse una psicologia piuttosto pratica, per come sono fatti gli uomini. Ho visto ogni sorta di uomini in ogni sorta di luoghi; e vi dico francamente che non credo ci sia un uomo su mille capace di svegliarsi a quel modo con tutto il suo senno; e che, mentre stava ancora quasi parlando nel sonno, avesse la lucidità e la semplicità e l'umiltà di...» Fu assai sorpreso di scoprirsi commosso, e la sua voce piana vacillare.
+
+[[characters/father-brown|Padre Brown]] fissava distrattamente, e in maniera piuttosto storta, la bottiglia sul tavolo. «Sentite un po'» disse «che ne direste di una bottiglia di vino vero?»
+
+DUE: La freccia del cielo
+
+C'è da temere che un centinaio circa di racconti [[archetypes/detective|polizieschi]] abbiano avuto inizio con la scoperta che un milionario americano è stato assassinato; un evento che, per qualche ragione, viene trattato alla stregua di una pubblica sciagura. Questa storia, sono lieto di dirlo, deve cominciare con un milionario assassinato; anzi, in un certo senso, deve cominciare con tre milionari assassinati, cosa che taluni potranno giudicare un vero e proprio embarras de richesse. Ma fu soprattutto questa coincidenza, o continuità, di disegno criminoso che sottrasse l'intera faccenda al corso ordinario dei casi delittuosi e ne fece lo straordinario enigma che essa era.
+
+Si diceva assai comunemente che tutti fossero caduti vittime di una vendetta o di una maledizione legata al possesso di una reliquia di gran valore, tanto intrinseco quanto storico: una sorta di calice tempestato di pietre preziose e comunemente chiamato la Coppa Copta. La sua origine era oscura, ma se ne congetturava un uso religioso; e alcuni attribuivano la sorte che perseguitava i suoi possessori al [[concepts/fanaticism|fanatismo]] di qualche cristiano orientale, inorridito nel vederla passare per mani tanto materialistiche. Ma il misterioso assassino, fosse o no un simile fanatico, era già una figura di sinistro e sensazionale interesse nel mondo del giornalismo e delle chiacchiere. All'essere senza nome venne fornito un nome, o un soprannome. È però soltanto della vicenda della terza vittima che ora ci occupiamo; poiché fu solo in questo caso che un certo [[characters/father-brown|Father Brown]], il quale è il soggetto di questi schizzi, ebbe l'occasione di far sentire la propria presenza.
+
+Quando [[characters/father-brown|Father Brown]] mise per la prima volta il piede giù da un transatlantico sul suolo americano, scoprì, come tanti altri inglesi prima di lui, di essere una persona assai più importante di quanto avesse mai supposto. La sua corta figura, il suo volto miope e privo di distinzione, i suoi abiti clericali di un nero piuttosto stinto, avrebbero potuto attraversare qualsiasi folla nel suo paese senza esser notati come alcunché di insolito, tranne forse per una insolita insignificanza. Ma l'[[settings/america|America]] ha il genio dell'incoraggiamento della fama; e la sua comparsa in uno o due curiosi problemi criminali, unita alla sua lunga frequentazione di [[characters/flambeau|Flambeau]], l'ex criminale e [[archetypes/detective|investigatore]], aveva consolidato in [[settings/america|America]] una reputazione a partire da ciò che in Inghilterra era poco più d'una diceria. Il suo viso rotondo era vacuo per la sorpresa quando si trovò trattenuto sulla banchina da un gruppo di giornalisti, come da una banda di briganti, i quali gli rivolgevano domande su tutti gli argomenti riguardo ai quali era meno probabile che si considerasse un'autorità, quali i particolari dell'abbigliamento femminile e le statistiche criminali del paese sul quale aveva posato gli occhi soltanto in quell'istante. Fu forse il contrasto con la nera, schierata solidarietà di quel gruppo a rendere più vivida un'altra figura che se ne stava in disparte, egualmente nera contro l'ardente luce bianca di quel luogo e di quella stagione splendenti, ma del tutto solitaria: un uomo alto, dal volto piuttosto giallastro, con grandi occhialoni, che lo fermò con un gesto quando i giornalisti ebbero terminato e disse: «Mi scusi, ma forse sta cercando il capitano Wain».
+
+Qualche scusa si può addurre in favore di Padre Brown; ché egli stesso si sarebbe sinceramente scusato. Bisogna ricordare che non aveva mai visto l'America prima d'allora, e più ancora che non aveva mai visto prima quel genere di occhiali di tartaruga; giacché la moda, a quel tempo, non si era ancora diffusa in Inghilterra. La sua prima sensazione fu quella di fissare qualche mostro marino dagli occhi sporgenti, con una vaga suggestione di elmo da palombaro. Per il resto l'uomo era vestito in modo squisito; e a Brown, nella sua innocenza, gli occhiali parvero la più strana delle deturpazioni per un damerino. Era come se un damerino si fosse adornato di una gamba di legno quale ulteriore tocco d'eleganza. Anche la domanda lo mise in imbarazzo. Un aviatore americano di nome Wain, amico di alcuni suoi amici in Francia, era in effetti uno di una lunga lista di persone che sperava in qualche modo di incontrare durante la sua visita americana; ma non si era mai aspettato di sentirne parlare tanto presto.
+
+«Le chiedo scusa», disse esitando, «è lei il capitano Wain? Lo... lo conosce?»
+
+«[[motifs/well|Be']], sono abbastanza sicuro di non essere il capitano Wain», disse l'uomo dagli occhialoni, con una faccia di legno. «Su questo avevo le idee piuttosto chiare quando l'ho visto che l'aspettava laggiù, in macchina. Ma l'altra domanda è un po' più problematica. Direi di conoscere Wain e suo zio, e anche il vecchio Merton. Conosco il vecchio Merton, ma il vecchio Merton non conosce me. E lui crede di essere in vantaggio, e io credo di essere in vantaggio io. Capisce?»
+
+Padre Brown non capiva del tutto. Sbatté le palpebre davanti allo scintillante panorama marino e ai pinnacoli della città, e poi davanti all'uomo dagli occhialoni. Non era soltanto il mascheramento degli occhi dell'uomo a produrre l'impressione di qualcosa d'impenetrabile. Qualcosa nel suo viso giallo era quasi asiatico, addirittura cinese; e la sua conversazione pareva consistere di strati sovrapposti d'ironia. Era un tipo che si incontra qua e là in quella popolazione cordiale e socievole: era l'americano imperscrutabile.
+
+«Il mio nome è Drage», disse, «Norman Drage, e sono un cittadino americano, il che spiega ogni cosa. O almeno immagino che il suo amico Wain vorrà spiegare il resto; sicché rimanderemo il Quattro Luglio a un'altra data».
+
+Padre Brown fu trascinato, in uno stato alquanto stordito, verso un'automobile a poca distanza, dalla quale un giovane con ciuffi di capelli gialli e scomposti e un'espressione piuttosto affannata e smunta lo salutò da lontano e si presentò come Peter Wain. Prima ancora di rendersi conto di dove fosse, era stato caricato nell'automobile e viaggiava a considerevole velocità attraverso e oltre la città. Non era avvezzo all'impetuosa concretezza di simili modi di agire americani, e si sentiva sconcertato press'a poco come se un carro tirato da draghi lo avesse rapito e portato in una terra fatata. Fu in queste condizioni sconcertanti che udì per la prima volta, in lunghi monologhi di Wain e in brevi frasi di Drage, la storia della Coppa Copta e dei due delitti già a essa collegati.
+
+Pareva che Wain avesse uno zio di nome Crake, il quale aveva un socio di nome Merton, che era il terzo della serie di ricchi uomini d'affari cui la coppa era appartenuta. Il primo di essi, Titus P. Trant, il Re del Rame, aveva ricevuto lettere minatorie da qualcuno che si firmava Daniel Doom. Il nome era con ogni probabilità uno pseudonimo, ma era arrivato a designare un personaggio assai pubblico, se non molto popolare; qualcuno noto quanto Robin Hood e Jack lo Squartatore messi insieme. Ben presto infatti apparve chiaro che l'autore della lettera minatoria non si limitava a minacciare. Comunque fosse, il risultato fu che il vecchio Trant venne trovato una mattina con la testa nel proprio stagno delle ninfee, e non c'era l'ombra di un indizio. La coppa era, per fortuna, al sicuro in banca; e passò insieme al resto delle sostanze di Trant al cugino di lui, Brian Horder, che era anch'egli un uomo di grande ricchezza e che fu anch'egli minacciato dal nemico senza nome. Brian Horder fu raccolto cadavere ai piedi di una scogliera, fuori dalla sua residenza sul mare, dove ci fu un furto con scasso, questa volta su vasta scala. Perché, sebbene la coppa fosse a quanto pare di nuovo scampata, furono trafugati titoli e obbligazioni a sufficienza da lasciare in scompiglio gli affari finanziari di Horder.
+
+«La vedova di Brian Horder», spiegò Wain, «dovette vendere la maggior parte dei suoi oggetti di valore, credo, e Brander Merton dev'essersi procurato la coppa in quell'occasione, perché la possedeva già quando lo conobbi. Ma potete immaginare da voi che non è cosa molto piacevole da avere.»
+
+«Il signor Merton ha mai ricevuto qualcuna di quelle lettere minatorie?» chiese [[characters/father-brown|Padre Brown]], dopo una pausa.
+
+«Immagino di sì», disse il signor Drage; e qualcosa nella sua voce indusse il prete a guardarlo con curiosità, finché non si accorse che l'uomo dagli occhiali stava ridendo in silenzio, in un modo che comunicò al nuovo venuto una sorta di brivido.
+
+«Sono quasi certo di sì», disse Peter Wain, aggrottando la fronte. «Non ho visto le lettere: solo il suo segretario vede la sua corrispondenza, perché è assai riservato in materia d'affari, come devono esserlo i grandi uomini d'affari. Ma l'ho visto davvero sconvolto e irritato da certe lettere; lettere che per giunta ha stracciato, prima ancora che le vedesse il segretario. Il segretario stesso comincia a innervosirsi e dice di essere sicuro che qualcuno stia tramando contro il vecchio; e, per farla breve, gli saremmo molto grati di un piccolo consiglio in proposito. La vostra grande fama è nota a tutti, Padre Brown, e il segretario mi ha chiesto di vedere se vi dispiacerebbe venire subito, senza indugio, fino a casa Merton.»
+
+«Oh, capisco», disse [[characters/father-brown|Padre Brown]], al quale il significato di questo apparente rapimento cominciava finalmente ad [[motifs/dawn|albeggiare]]. «Ma, davvero, non vedo che io possa fare più di quanto possiate voi. Voi siete sul posto, e dovete avere cento volte più dati per una conclusione scientifica di quanti ne abbia un visitatore capitato per caso.»
+
+«Sì», disse il signor Drage seccamente; «le nostre conclusioni sono fin troppo scientifiche per essere vere. Ritengo che, se qualcosa ha colpito un uomo come Titus P. Trant, sia semplicemente venuto giù dal cielo senza aspettare alcuna spiegazione scientifica. Quello che si chiama un fulmine a ciel sereno.»
+
+«Non vorrete davvero dire», esclamò Wain, «che è stato soprannaturale!»
+
+Ma non era affatto facile, in nessun momento, scoprire che cosa mai il signor Drage potesse voler dire; salvo che, se diceva di qualcuno che era un uomo davvero in gamba, molto probabilmente intendeva che era uno sciocco. Il signor Drage mantenne un'immobilità orientale finché l'automobile non si fermò, poco dopo, a quella che era palesemente la loro meta. Era un luogo piuttosto singolare. Avevano attraversato una regione scarsamente boscosa che si apriva in una vasta pianura, e proprio davanti a loro sorgeva un edificio costituito da un unico muro, o altissima palizzata, circolare, come un accampamento romano, e con l'aspetto piuttosto di un aerodromo. La barriera non pareva né di legno né di pietra, e un esame più ravvicinato rivelò che era di metallo.
+
+Scesero tutti dall'automobile, e una porticina nel muro fu fatta scorrere con notevole cautela, dopo manovre simili all'apertura di una cassaforte. Ma, con gran sorpresa di Padre Brown, l'uomo chiamato Norman Drage non mostrò alcuna intenzione di entrare, e prese congedo da loro con sinistra allegria.
+
+«Io non entro», disse. «Sarebbe un'emozione troppo piacevole per il vecchio Merton, immagino. Gli è così caro il vedermi che morirebbe di gioia.»
+
+E se ne andò a grandi passi, mentre [[characters/father-brown|Padre Brown]], con crescente [[concepts/wonder|meraviglia]], veniva ammesso attraverso la porta d'acciaio che si richiuse all'istante dietro di lui con uno scatto. All'interno c'era un ampio ed elaborato [[motifs/garden|giardino]] dai colori vivaci e svariati, ma del tutto privo di alberi o di alti arbusti o di [[motifs/flowers|fiori]]. Al centro si [[motifs/rose|ergeva]] una casa di architettura raffinata e persino imponente, ma tanto alta e stretta da somigliare piuttosto a una torre. Il sole cocente scintillava qua e là su tettoie di vetro in cima, ma non pareva esserci finestra alcuna nella parte inferiore. Su ogni cosa regnava quella pulizia immacolata e sfavillante che sembrava così connaturata alla limpida aria americana. Quando furono entrati dal portale, si trovarono in mezzo a marmi risplendenti e a metalli e a smalti dai colori brillanti, ma non c'era scala alcuna. Nient'altro che un unico pozzo per un ascensore saliva nel mezzo, fra le solide pareti, e l'accesso ad esso era sorvegliato da uomini poderosi e robusti, simili a poliziotti in borghese.
+
+«Una protezione piuttosto elaborata, lo so», disse Wain. «Forse vi fa un po' sorridere, [[characters/father-brown|Padre Brown]], scoprire che Merton debba vivere in una fortezza come questa, senza nemmeno un albero nel [[motifs/garden|giardino]] dietro cui qualcuno possa nascondersi. Ma voi non sapete con che genere di gente abbiamo a che fare in questo paese. E forse non sapete che cosa significhi esattamente il nome di Brander Merton. È un uomo dall'aspetto abbastanza dimesso, e chiunque potrebbe incrociarlo per strada; non che ne abbiano molte occasioni al giorno d'oggi, perché ormai può uscire solo di tanto in tanto, in un'automobile chiusa. Ma se accadesse qualcosa a Brander Merton ci sarebbero terremoti dall'Alaska alle Isole dei Cannibali. Credo che non ci sia mai stato [[archetypes/king|re]] o imperatore che avesse sulle nazioni un potere pari al suo. Dopotutto, immagino che, se vi avessero invitato a far visita allo zar, o al [[archetypes/king|re]] d'Inghilterra, avreste avuto la curiosità di andarci. Può darsi che non v'importi granché di zar o di milionari; ma questo significa proprio che un potere simile è sempre interessante. E [[concepts/hope|spero]] che non sia contro i vostri principi far visita a una sorta di imperatore moderno come Merton.»
+
+«Niente affatto» disse padre Brown, con calma. «È mio dovere far visita ai prigionieri e a tutti gli uomini miseri tenuti in cattività.»
+
+Vi fu un [[motifs/silence|silenzio]], e il giovane aggrottò la fronte con un'espressione strana e quasi sfuggente sul volto scarno. Poi disse, di scatto:
+
+«Be', tenga presente che non sono soltanto i ladri comuni o la Mano Nera ad avercela con lui. Questo Daniel Doom somiglia parecchio al diavolo. Guardi come ha steso Trant nei suoi stessi giardini e Horder davanti a casa sua, e l'ha fatta franca.»
+
+L'ultimo piano del palazzo, dentro le mura enormemente spesse, si componeva di due stanze: una stanza esterna, nella quale entrarono, e una stanza interna che era il sancta sanctorum del grande milionario. Entrarono nella stanza esterna proprio mentre altri due visitatori uscivano da quella interna. In uno di essi Peter Wain salutò lo zio: un uomo piccolo ma quanto mai robusto e vigoroso, con il capo rasato che pareva calvo e un volto bruno che pareva troppo bruno per essere mai stato bianco. Era il vecchio Crake, comunemente chiamato Hickory Crake in memoria del più celebre Old Hickory, per via della sua fama nelle ultime guerre contro i Pellirosse. Il suo compagno gli faceva singolare contrasto: un gentiluomo assai azzimato, con i capelli scuri come vernice nera e un largo nastro nero al monocolo, Barnard Blake, che era l'avvocato del vecchio Merton e aveva discusso con i soci gli affari della ditta. I quattro uomini si incontrarono nel mezzo della stanza esterna e si fermarono per un breve, cortese scambio di parole, nell'atto di andare e di venire rispettivamente. E attraverso tutti quegli andirivieni un'altra figura sedeva in fondo alla stanza, presso la porta interna, massiccia e immobile nella penombra proveniente dalla finestra interna: un uomo dal volto di negro e dalle spalle enormi. Era ciò che l'umoristica autocritica dell'America chiama scherzosamente il Bad Man, l'uomo cattivo, che gli amici avrebbero potuto chiamare guardia del corpo e i nemici sicario.
+
+Quest'uomo non si mosse né si scompose mai per salutare nessuno; ma la sua vista nella stanza esterna parve spingere Peter Wain alla sua prima, nervosa domanda.
+
+«C'è qualcuno con il capo?» chiese.
+
+«Non agitarti, Peter» ridacchiò lo zio. «Wilton, il segretario, è con lui, e [[concepts/hope|spero]] che questo basti a chiunque. Non credo che Wilton dorma mai, tanto sta a guardia di Merton. Vale più di venti guardie del corpo. Ed è svelto e silenzioso come un Indiano.»
+
+«Be', tu te ne intendi» disse il nipote, ridendo. «Mi ricordo i trucchi da Pellirossa che mi insegnavi quando ero ragazzo e mi piaceva leggere le storie di Pellirossa. Solo che nelle mie storie i Pellirossa parevano avere sempre la peggio.»
+
+«Nella vita vera non l'avevano» disse cupo il vecchio uomo di frontiera.
+
+«Davvero?» domandò il mellifluo signor Blake. «Avrei creduto che potessero far ben poco contro le nostre armi da fuoco.»
+
+«Ho visto un Indiano stare sotto il tiro di cento fucili con nient'altro che un piccolo coltello da scotennare e uccidere un uomo bianco ritto in cima a un forte» disse Crake.
+
+«E come, che cosa ne fece?» chiese l'altro.
+
+«Lo scagliò» rispose Crake, «lo scagliò in un lampo, prima che si potesse sparare un colpo. Non so dove abbia imparato il trucco.»
+
+«[[motifs/well|Be'!]], [[concepts/hope|spero]] che tu non l'abbia imparato» disse il nipote, ridendo.
+
+«Mi pare» disse padre Brown, pensieroso, «che la storia potrebbe avere una morale.»
+
+Mentre parlavano, il signor Wilton, il segretario, era uscito dalla stanza interna e stava ad attendere: un uomo pallido, dai capelli chiari, con il mento quadrato e occhi fermi dallo sguardo simile a quello di un cane; non era difficile credere che avesse l'occhio vigile di un cane da guardia.
+
+Disse soltanto: «Il signor Merton può riceverla fra una decina di minuti», ma bastò come segnale a sciogliere il crocchio di chiacchieroni. Il vecchio Crake disse che doveva andare, e il nipote uscì con lui e con il suo compagno legale, lasciando padre Brown per un momento solo con il segretario; poiché il gigante negroide all'altro capo della stanza a stento poteva essere sentito come umano o vivo: sedeva così immobile, con le larghe spalle voltate verso di loro, lo sguardo fisso verso la stanza interna.
+
+«Precauzioni piuttosto elaborate qui, temo» disse il segretario. «Avrà probabilmente sentito parlare di questo Daniel Doom, e del perché non sia prudente lasciare il capo troppo a lungo da solo.»
+
+«Ma proprio adesso è solo, non è vero?» disse [[characters/father-brown|Father Brown]].
+
+Il segretario lo guardò con [[motifs/grave|gravi]] occhi grigi. «Per quindici minuti» disse. «Per quindici minuti sulle ventiquattr'ore. È tutta la vera [[concepts/solitude|solitudine]] che ha; e su quella insiste, per una ragione piuttosto notevole.»
+
+«E qual è la ragione?» domandò il visitatore. Wilton, il segretario, continuò a fissarlo con lo sguardo fermo, ma la bocca, che era stata semplicemente grave, si fece torva.
+
+«La Coppa Copta» disse. «Forse lei ha dimenticato la Coppa Copta; ma lui non ha dimenticato quella né alcun'altra cosa. Non si fida di nessuno di noi riguardo alla Coppa Copta. È chiusa da qualche parte e in qualche modo in quella stanza, cosicché soltanto lui possa trovarla; e non la tira fuori finché non ci siamo tolti tutti di mezzo. Così dobbiamo rischiare quel quarto d'ora mentre lui siede e la adora; suppongo sia la sola adorazione che gli riesca. Non che vi sia davvero un rischio; perché ho trasformato tutto questo posto in una trappola in cui non credo che nemmeno il diavolo in persona riuscirebbe a entrare... o, per lo meno, a uscire. Se questo infernale Daniel Doom ci fa una visita, resterà a cena e a lungo dopo, per Dio! Io me ne sto qui sui carboni ardenti per i quindici minuti, e nell'istante in cui sentissi uno sparo o un rumore di lotta premerei questo bottone e una corrente da sedia elettrica correrebbe in cerchio lungo tutto il muro di quel giardino, così che sarebbe la [[motifs/death|morte]] a [[motifs/cross|varcarlo]] o a scalarlo. Naturalmente non ci potrebbe essere uno sparo, perché questa è l'unica via d'ingresso; e la sola [[motifs/window|finestra]] a cui egli siede è lassù, in cima a una torre liscia come un palo insaponato. Ma, a ogni modo, qui siamo tutti armati, si capisce; e se Doom riuscisse a entrare in quella stanza sarebbe morto prima di uscirne.»
+
+[[characters/father-brown|Father Brown]] guardava sbattendo le palpebre verso il tappeto, immerso in profonde riflessioni. Poi disse all'improvviso, con qualcosa che somigliava a un sussulto: «Spero non le dispiaccia che io lo faccia notare, ma proprio in questo momento mi è balenata in testa una specie di idea. Riguarda lei.»
+
+«Già,» osservò Wilton, «e io, allora?»
+
+«Credo che lei sia un uomo di una sola idea,» disse [[characters/father-brown|Father Brown]], «e mi perdonerà se le dico che pare essere, più ancora, l'idea di catturare Daniel Doom che non quella di difendere Brander Merton.»
+
+Wilton ebbe un lieve sussulto e continuò a fissare il suo interlocutore; poi, molto lentamente, la sua bocca severa si atteggiò a un sorriso piuttosto curioso. «Come ha fatto... che cosa glielo fa pensare?» domandò.
+
+«Lei ha detto che, se avesse udito uno sparo, avrebbe potuto all'istante fulminare il nemico in fuga,» osservò il prete. «Suppongo le sia venuto in mente che lo sparo potrebbe riuscire fatale al suo datore di lavoro prima che la scarica riuscisse fatale al suo avversario. Non voglio dire che lei non proteggerebbe il signor Merton, se potesse; ma la cosa pare venire piuttosto in secondo piano nei suoi pensieri. Gli accorgimenti sono assai elaborati, come lei dice, e pare che li abbia elaborati lei. Ma sembrano concepiti più per catturare un assassino che per salvare un uomo.»
+
+«Padre Brown,» disse il segretario, che aveva ripreso il suo tono pacato, «lei è molto acuto, ma c'è in lei qualcosa di più della semplice acutezza. In qualche modo lei è il genere d'uomo al quale si ha voglia di dire la [[concepts/truth|verità]]; e del resto la verrà probabilmente a sapere comunque, ché per un verso è già una beffa a mie spese. Dicono tutti che io sia un monomaniaco nel dare la caccia a questo grande furfante, e forse lo sono davvero. Ma le dirò una cosa che nessuno di loro sa. Il mio nome per intero è John Wilton Border.»
+
+[[characters/father-brown|Father Brown]] annuì come se ne fosse stato pienamente illuminato, ma l'altro proseguì.
+
+«Quest'uomo che si fa chiamare Doom uccise mio padre e mio zio e rovinò mia madre. Quando Merton cercò un segretario, accettai il posto, perché pensavo che là dov'era la coppa, prima o poi, sarebbe stato anche il criminale. Ma non sapevo chi fosse il criminale, e non potevo far altro che attenderlo; e avevo intenzione di servire Merton fedelmente.»
+
+«Capisco,» disse [[characters/father-brown|Father Brown]] con dolcezza; «e, a proposito, non è forse ora che andiamo da lui?»
+
+«Ma sì,» rispose Wilton, riscuotendosi di nuovo con un lieve sussulto dalle sue cupe fantasticherie, sicché il prete concluse che la sua mania vendicativa lo aveva di nuovo assorbito per un istante. «Entri pure, senz'altro.»
+
+[[characters/father-brown|Father Brown]] entrò dritto nella stanza interna. Non seguì alcun suono di saluti, ma soltanto un [[motifs/silence|silenzio]] di morte; e un attimo dopo il prete riapparve sulla soglia.
+
+Nello stesso istante il silenzioso guardaspalle, seduto accanto alla porta, si mosse d'improvviso; e fu come se un enorme mobile avesse preso vita. Parve che qualcosa nell'atteggiamento stesso del prete fosse stato un segnale; poiché il suo capo si stagliava contro la luce che veniva dalla [[motifs/window|finestra]] interna, e il suo volto era in [[archetypes/shadow|ombra]].
+
+«Immagino che premerà quel pulsante,» egli disse con una sorta di sospiro.
+
+Wilton parve destarsi con un balzo dalle sue feroci fantasticherie e scattò in piedi con la voce spezzata.
+
+«Non c'è stato alcuno sparo,» gridò.
+
+«Be',» disse Padre Brown, «dipende da che cosa lei intenda per sparo.»
+
+Wilton si precipitò avanti, e insieme irruppero nella stanza interna. Era una stanza relativamente piccola, arredata con semplicità eppure con eleganza. Di fronte a loro una larga [[motifs/window|finestra]] stava aperta, affacciata sul [[motifs/garden|giardino]] e sulla pianura boscosa. Proprio a ridosso della [[motifs/window|finestra]] c'erano una sedia e un tavolino, come se il prigioniero desiderasse quanta più aria e luce gli fossero concesse durante il suo breve lusso di [[concepts/loneliness|solitudine]].
+
+Sul tavolino, sotto la [[motifs/window|finestra]], stava la Coppa Copta; il suo proprietario, evidentemente, l'aveva stata contemplando nella luce migliore. Valeva [[motifs/well|ben]] la pena di guardarla, ché quella luce diurna, bianca e sfolgorante, mutava le sue pietre preziose in fiamme dai molti colori, sicché avrebbe potuto essere un modello del Santo Graal. Valeva [[motifs/well|ben]] la pena di guardarla; ma Brander Merton non la stava guardando. Poiché il suo capo era ricaduto all'indietro contro la sedia, la sua criniera di capelli bianchi pendeva verso il pavimento, e il pizzo della sua barba brizzolata si protendeva verso il soffitto, e dalla sua gola sporgeva una lunga freccia dipinta di bruno, con l'impennatura di cuoio rosso all'altra estremità.
+
+«Un colpo silenzioso,» disse Padre Brown, a voce bassa; «mi stavo giusto interrogando su quelle nuove invenzioni per rendere silenziose le armi da fuoco. Ma questa è un'invenzione assai antica, e altrettanto silenziosa.»
+
+Poi, dopo un istante, aggiunse: «Temo che sia morto. Che cosa intende fare?»
+
+Il pallido segretario si riscosse con una brusca risolutezza. «Premerò quel pulsante, si capisce,» disse, «e se questo non basterà a liquidare Daniel Doom, gli darò la caccia per il mondo intero finché non lo troverò.»
+
+«Badi che non liquidi qualcuno dei nostri amici,» osservò [[characters/father-brown|Father Brown]]; «non possono essere molto lontani; sarà meglio chiamarli.»
+
+«Quella gente sa tutto del muro,» rispose Wilton. «Nessuno di loro tenterà di scavalcarlo, a meno che uno di loro... non abbia una gran fretta.»
+
+Padre Brown si accostò alla finestra dalla quale, evidentemente, era entrata la freccia, e guardò fuori. Il giardino, con le sue piatte aiuole, si stendeva laggiù in basso come una carta del mondo delicatamente colorata. L'intera veduta pareva così vasta e vuota, la torre pareva collocata così in alto nel cielo, che, mentre fissava là fuori, una strana frase gli tornò alla memoria.
+
+«Un fulmine a ciel sereno,» disse. «Che cosa aveva detto, qualcuno, a proposito di un fulmine a ciel sereno e della morte che scende dal cielo? Guardi quanto lontano appare ogni cosa; sembra straordinario che una freccia possa arrivare da così lungi, a meno che non fosse una freccia venuta dal cielo.»
+
+Wilton era tornato, ma non rispose, e il prete proseguì come in un soliloquio. «Vien fatto di pensare all'aviazione. Dovremo interrogare il giovane Wain... a proposito dell'aviazione.»
+
+«Ce n'è parecchia da queste parti,» disse il segretario.
+
+«Un caso di armi vecchissime o nuovissime,» osservò [[characters/father-brown|Father Brown]]. «Alcune sarebbero ben note al suo vecchio zio, immagino; dobbiamo interrogarlo a proposito delle frecce. Questa somiglia piuttosto a una freccia da pellerossa. Non so da dove il pellerossa l'abbia scoccata; ma lei ricorda la storia che il vecchio ha raccontato. Ho detto che aveva una morale.»
+
+«Se aveva una morale,» disse Wilton con calore, «era soltanto che un vero pellerossa potrebbe scagliare un oggetto più lontano di quanto lei possa immaginare. È un'assurdità, che lei suggerisca un parallelo.»
+
+«Non credo che abbiate colto del tutto la morale», disse Padre Brown.
+
+Sebbene il giorno seguente il piccolo prete paresse dissolversi nei milioni di New York, senza alcun apparente tentativo di essere qualcosa di più d'un numero in una via numerata, egli fu in realtà, per la quindicina successiva, discretamente indaffarato intorno all'incarico che gli era stato affidato, poiché lo colmava un profondo timore d'un possibile errore giudiziario. Senza dare a vedere in modo particolare di distinguerli dalle altre sue nuove conoscenze, gli riuscì agevole intavolare discorsi con i due o tre uomini di recente coinvolti nel mistero; e proprio col vecchio Hickory Crake ebbe una conversazione curiosa e interessante. Avvenne su una panchina di Central Park, dove il veterano sedeva con le mani ossute e il volto a scure appoggiati sull'impugnatura dalla foggia bizzarra d'un bastone da passeggio di legno rosso scuro, forse modellato su un tomahawk.
+
+«[[motifs/well|Beh]], sarà pure un tiro azzardato», disse, scuotendo il capo, «ma non vi consiglierei d'essere troppo perentorio su quanto lontano possa arrivare una freccia indiana. Ho conosciuto certi colpi d'arco che parevano andare più dritti d'ogni pallottola, e cogliere il bersaglio in modo prodigioso, se si pensa a quanto a lungo avevano viaggiato. Certo, oggigiorno non si sente praticamente mai parlare d'un Pellerossa con arco e frecce, e ancor meno d'un Pellerossa che se ne stia a bighellonare da queste parti. Ma se per un qualsiasi caso ci fosse uno dei vecchi tiratori indiani, con uno dei vecchi archi indiani, nascosto fra quegli alberi centinaia di metri oltre il muro esterno di casa Merton... ebbene, allora non lo escluderei affatto che il nobile selvaggio fosse capace di scoccare una freccia oltre il muro e fin nella finestra più alta della casa di Merton; no, e nemmeno dentro Merton. Ho visto compiere cose altrettanto meravigliose ai vecchi tempi.»
+
+«Senza [[concepts/doubt|dubbio]]», disse il prete, «voi avete compiuto cose altrettanto meravigliose, oltre ad averle viste.»
+
+Il vecchio Crake fece una risatina, poi disse con voce arcigna: «Oh, sono tutte faccende di antica [[concepts/history|storia]].»
+
+«C'è chi ha l'abitudine di studiarla, l'antica storia», disse il prete. «Suppongo si possa ritenere che nei vostri vecchi trascorsi non ci sia nulla che induca la gente a sparlare di questa faccenda.»
+
+«Che cosa intendete?», domandò Crake, e per la prima [[motifs/time|volta]] gli occhi guizzarono acuti nel volto rosso e legnoso, che somigliava piuttosto alla lama d'un tomahawk.
+
+«Ecco, dato che eravate così ferrato in tutte le arti e i mestieri del Pellerossa...», cominciò lentamente [[characters/father-brown|Father Brown]].
+
+Crake aveva assunto un aspetto curvo e quasi rattrappito, seduto com'era col mento puntellato sulla sua stampella dalla foggia bizzarra. Ma un istante dopo era ritto in piedi sul sentiero come un bravo pronto alla rissa, la stampella stretta come un randello.
+
+«Cosa?», gridò, con qualcosa di simile a uno strido rauco, «che diavolo! State forse tenendomi testa per dirmi che potrei aver assassinato mio cognato?»
+
+Da una dozzina di panchine sparse lungo il sentiero la gente volse lo sguardo verso i due contendenti, mentre stavano l'uno di fronte all'altro in mezzo al viale: l'omino calvo ed energico che brandiva il suo bastone stravagante come una clava, e la figura nera e tozza del piccolo chierico che lo fissava senza muovere un muscolo, se non per le palpebre che gli si abbassavano. Per un momento parve che la figura nera e tozza dovesse essere colpita al capo e stesa a terra con la prontezza e la spicciativa risolutezza d'un autentico Pellerossa; e in lontananza si scorgeva la corpulenta sagoma d'un poliziotto irlandese sollevarsi e piombare verso il gruppo. Ma il prete disse soltanto, con perfetta placidezza, come chi risponde a una domanda qualsiasi:
+
+«Mi sono fatto certe conclusioni al riguardo, ma non credo che le esporrò prima di stendere la mia relazione.»
+
+Fosse per l'influsso dei passi del poliziotto o per quello degli occhi del prete, il vecchio Hickory si ficcò il bastone sotto il braccio e si rimise il cappello, borbottando. Il prete gli augurò un placido buongiorno e uscì dal parco senza affrettarsi, dirigendosi verso il salone dell'albergo dove sapeva di poter trovare il giovane Wain. Il giovane balzò in piedi con un saluto; appariva ancor più sparuto e tormentato di prima, come se qualche preoccupazione lo stesse consumando; e il prete ebbe il sospetto che il suo giovane amico si fosse di recente adoperato, con successo fin troppo vistoso, a eludere l'ultimo Emendamento alla Costituzione americana. Ma alla prima parola sul suo passatempo, o scienza prediletta, si fece abbastanza vigile e concentrato. Padre Brown gli aveva infatti chiesto, in tono ozioso e discorsivo, se in quel distretto si volasse molto, e gli aveva raccontato come dapprima avesse scambiato il muro circolare del signor Merton per un aerodromo.
+
+«È una [[concepts/wonder|meraviglia]] che non ne abbiate visto nemmeno uno mentre eravamo lì», rispose il capitano Wain. «A volte sono fitti come mosche; quella pianura aperta è un gran posto per loro, e non mi stupirei se in futuro diventasse il principale vivaio, per così dire, dei volatili della mia specie. Anch'io, naturalmente, ho volato parecchio da quelle parti, e conosco quasi tutti quelli di qui che hanno volato durante la guerra; ma c'è tutta una gran quantità di gente che adesso ci si dedica laggiù e di cui in vita mia non avevo mai sentito parlare. Suppongo che presto sarà come con l'automobile, e ogni uomo negli Stati ne avrà una.»
+
+«Essendo stato dotato dal suo Creatore», disse [[characters/father-brown|Father Brown]] con un sorriso, «del diritto alla vita, alla libertà e alla ricerca dell'automobilismo... per non parlare dell'aviazione. Sicché suppongo si possa ritenere che un aeroplano sconosciuto in transito sopra quella casa, in certi momenti, non desterebbe molta attenzione.»
+
+«No», replicò il giovane; «suppongo di no.»
+
+«O anche se l'uomo fosse conosciuto», proseguì l'altro, «suppongo potrebbe procurarsi una [[motifs/machine|macchina]] che non venisse riconosciuta come sua. Se voi, per esempio, voleste nel modo consueto, il signor Merton e i suoi amici riconoscerebbero forse l'attrezzatura; ma potreste passare assai vicino a quella [[motifs/window|finestra]] su un modello diverso di aeroplano, o come lo chiamate voi; abbastanza vicino per gli scopi pratici.»
+
+«Beh, sì», cominciò il giovane, quasi meccanicamente, poi tacque, e rimase a fissare il chierico a bocca aperta e con gli occhi sbarrati fuori dalle orbite.
+
+«Dio mio!» disse a bassa voce; «Dio mio!».
+
+Poi si [[motifs/rose|alzò]] dal divanetto, pallido e tremante da capo a piedi, sempre fissando il sacerdote.
+
+«Siete pazzo?» disse; «siete pazzo furioso?».
+
+Vi fu un silenzio, poi riprese a parlare con un rapido sibilo. «Voi venite qui apposta per insinuare...».
+
+«No; solo per raccogliere insinuazioni» disse [[characters/father-brown|Father Brown]], alzandosi. «Può darsi che mi sia fatto qualche conclusione provvisoria, ma farò meglio a riservarmela per il momento».
+
+E allora, salutando l'altro con la medesima rigida cortesia, uscì dall'albergo per proseguire le sue curiose peregrinazioni.
+
+Sul far della sera di quel giorno esse lo avevano condotto giù per le stradine sudicie e le scalinate che degradavano disordinatamente verso il fiume, nella parte più antica e più irregolare della città. Proprio sotto la lanterna colorata che segnalava l'ingresso di un ristorante cinese piuttosto malfamato, s'imbatté in una figura che aveva già veduto, benché non gli si presentasse affatto all'occhio così come l'aveva veduta.
+
+Il signor Norman Drage affrontava ancora il mondo con aria arcigna dietro i suoi grandi occhialoni, che parevano in qualche modo coprirgli il volto come una cupa maschera di vetro. Ma, a parte gli occhialoni, il suo aspetto aveva subìto una strana trasformazione nel mese trascorso dal delitto. Allora, come Padre Brown aveva notato, era vestito con ogni ricercatezza fino all'inverosimile, fino a quel punto, invero, in cui comincia a farsi troppo sottile la distinzione fra il dandy e il manichino esposto nella vetrina d'un sarto. Ma ora tutti quegli ornamenti esteriori erano misteriosamente mutati in peggio, come se il manichino del sarto fosse stato trasformato in uno spaventapasseri. Il suo cilindro esisteva ancora, ma era ammaccato e liso; gli abiti erano sdruciti; la catena dell'orologio e i piccoli fronzoli erano scomparsi. Padre Brown, tuttavia, gli si rivolse come se si fossero incontrati il giorno prima, e non ebbe difficoltà a sedersi accanto a lui su una panca nella misera bettola verso la quale l'altro era diretto. Non fu però lui a cominciare la conversazione.
+
+«[[motifs/well|Ebbene]]?» brontolò Drage, «e siete riuscito a vendicare il vostro santo e beato milionario? Sappiamo bene che tutti i milionari sono santi e beati; potete leggere tutto nei giornali il giorno dopo, di come vivessero al lume della Bibbia di famiglia che leggevano sulle ginocchia della madre. Perbacco! se avessero letto ad alta voce certe cose che stanno nella Bibbia di famiglia, la madre forse ne avrebbe avuto qualche sussulto. E anche il milionario, immagino. Quel vecchio Libro è pieno d'un mucchio di antiche idee grandiose e feroci che oggigiorno non crescono più; una specie di saggezza dell'età della pietra, sepolta sotto le Piramidi. Supponete che qualcuno avesse scagliato il vecchio Merton dalla cima di quella sua torre, lasciandolo divorare dai cani in fondo: non sarebbe stato peggio di ciò che accadde a Iezabele. E Agag non fu forse fatto a pezzettini, per quanto camminasse con delicatezza? Merton camminò con delicatezza per tutta la vita, maledetto lui, finché non divenne troppo delicato per camminare del tutto. Ma la freccia del Signore lo scovò, come sarebbe potuto accadere nel vecchio Libro, e lo colpì a morte in cima alla sua torre, a spettacolo del popolo».
+
+«La freccia, quanto meno, era materiale» disse il suo compagno.
+
+«Le Piramidi sono ben materiali, eppure tengono giù i re morti come si deve» ghignò l'uomo dagli occhialoni. «Credo che ci sia molto da dire in favore di queste vecchie religioni materiali. Ci sono antichi intagli che sono durati per migliaia d'anni, e mostrano i loro dèi e i loro imperatori con archi tesi; con mani che paiono capaci di tendere davvero archi di pietra. Materiali, forse, ma che materiali! Non vi capita, a volte, di restare a fissare quegli antichi motivi orientali e simili cose, finché non vi coglie il sospetto che quell'antico Signore Iddio stia ancora guidando il carro come un cupo [[characters/apollo|Apollo]], scoccando neri raggi di [[motifs/death|morte]]?».
+
+«Se è così» replicò Padre Brown, «potrei chiamarlo con un altro nome. Ma [[concepts/doubt|dubito]] che Merton sia morto per un raggio oscuro, o anche per una freccia di pietra».
+
+«Immagino che lo crediate un san Sebastiano» sogghignò Drage, «ucciso da una freccia. Un milionario dev'essere per forza un martire. Come sapete che non se lo meritava? Non sapete granché del vostro milionario, mi pare. [[motifs/well|Ebbene]], lasciate che ve lo dica: se lo meritava cento volte».
+
+«Ebbene» chiese Padre Brown con dolcezza, «perché allora non lo avete ammazzato voi?».
+
+«Volete sapere perché non l'ho fatto?» disse l'altro, fissandolo. «[[motifs/well|Bel]] tipo di ecclesiastico che siete».
+
+«Niente affatto» disse l'altro, come per respingere un complimento.
+
+«Suppongo sia il vostro modo di dire che l'ho fatto» ringhiò Drage. «Ebbene, provatelo, ecco tutto. Quanto a lui, ritengo che non sia stata una gran perdita».
+
+«Sì, invece» disse [[characters/father-brown|Father Brown]], secco. «È stata una perdita per voi. Ecco perché non lo avete ucciso».
+
+E uscì dalla stanza, lasciando l'uomo dagli occhialoni a guardarlo a bocca aperta.
+
+Era passato quasi un mese quando Padre Brown tornò a visitare la casa in cui il terzo milionario aveva patito la vendetta di Daniel Doom. Si tenne una sorta di consiglio fra le persone più direttamente interessate. Il vecchio Crake sedeva a capotavola, con il nipote alla sua destra e l'avvocato alla sinistra; l'omone dai tratti africani, il cui nome pareva essere Harris, era pesantemente presente, non fosse che a titolo di testimone materiale; un individuo dai capelli rossi e dal naso aguzzo, chiamato Dixon, sembrava il rappresentante dell'agenzia Pinkerton o di qualche altra simile agenzia privata; e Padre Brown scivolò senza dar nell'occhio in un seggio vuoto accanto a lui.
+
+Ogni giornale del mondo era pieno della catastrofe del colosso della finanza, del grande organizzatore di quel Grande Affare che soggioga il mondo moderno; ma dal minuscolo gruppo che gli era stato più vicino nell'istante stesso della sua morte ben poco si poté apprendere. Lo zio, il nipote e il procuratore che li accompagnava dichiararono di trovarsi già ben oltre il muro esterno prima che venisse dato l'allarme; e le indagini presso i guardiani ufficiali di entrambe le barriere fornirono risposte piuttosto confuse, ma nell'insieme concordi. Solo un'altra complicazione pareva richiedere attenzione. Sembrava che, all'incirca all'ora della morte, prima o dopo, uno sconosciuto fosse stato sorpreso ad aggirarsi misteriosamente intorno all'ingresso, chiedendo di vedere il signor Merton. I servitori avevano avuto qualche difficoltà a capire ciò che intendeva, giacché il suo linguaggio era assai oscuro; ma in seguito lo si giudicò anche assai sospetto, poiché aveva detto qualcosa a proposito di un uomo malvagio distrutto da una parola venuta dal cielo.
+
+Peter Wain si sporse in avanti, gli occhi accesi nel volto scavato, e disse:
+
+«Su questo, comunque, ci scommetto. Norman Drage».
+
+«E chi diavolo è Norman Drage?» domandò lo zio.
+
+«È proprio quello che vorrei sapere» rispose il giovane. «Gliel'ho chiesto, praticamente; ma ha un talento straordinario nel torcere ogni domanda diretta e renderla obliqua: è come menare una stoccata a uno schermidore. Mi si è appiccicato con allusioni alla nave volante dell'avvenire; ma non mi sono mai fidato granché di lui».
+
+«Ma che razza d'uomo è?» chiese Crake.
+
+«È un mistagogo» disse Padre Brown, con innocente prontezza. «Ce n'è parecchi in giro; quel genere di uomini di mondo che nei caffè e nei cabaret di [[settings/paris|Parigi]] ti lasciano intendere di aver sollevato il velo di Iside o di conoscere il segreto di Stonehenge. In un caso come questo di sicuro hanno pronta qualche spiegazione mistica».
+
+Il capo liscio e bruno del signor Barnard Blake, l'avvocato, si chinò cortesemente verso chi parlava, ma il suo sorriso era vagamente ostile.
+
+«Non avrei mai pensato, signore» disse, «che lei avesse qualcosa da ridire sulle spiegazioni mistiche».
+
+«Al contrario» rispose Padre Brown, sbattendo le palpebre con aria amabile. «È proprio per questo che posso ridirci. Un finto avvocato qualunque potrebbe imbrogliarmi, ma non imbroglierebbe lei, perché lei l'avvocato lo fa davvero. Un imbecille qualunque potrebbe travestirsi da pellerossa e io me lo berrei tutto d'un fiato come l'unico e autentico Hiawatha; ma il signor Crake lo smaschererebbe all'istante. Un truffatore potrebbe darmi a intendere di sapere tutto degli aeroplani, ma non lo darebbe a intendere al capitano Wain. E con l'altra faccenda è esattamente lo stesso, non capisce? È proprio perché ho raccattato un po' di nozioni sui mistici che non so che farmene dei mistagoghi. I mistici veri non nascondono i misteri, li rivelano. Espongono una cosa in piena luce, e quando l'hai vista è ancora un mistero. I mistagoghi, invece, nascondono una cosa nel buio e nel segreto, e quando la trovi è una banalità. Ma nel caso di Drage, ammetto che nel parlare di fuoco dal cielo e di saette a ciel sereno aveva anche un'altra idea, più pratica».
+
+«E qual era la sua idea?» chiese Wain. «Comunque sia, credo che la si debba tener d'occhio».
+
+«[[motifs/well|Ebbene]]» rispose il prete, lentamente, «voleva farci credere che i delitti fossero miracoli perché... ebbene, perché sapeva che non lo erano».
+
+«Ah» fece Wain, con una specie di sibilo, «me l'aspettavo. In parole povere, è lui il criminale».
+
+«In parole povere, è il criminale che non ha commesso il delitto» rispose [[characters/father-brown|Padre Brown]] con calma.
+
+«Sarebbe questa la sua idea di parole povere?» s'informò Blake garbatamente.
+
+«Adesso dirà che il mistagogo sono io» disse [[characters/father-brown|Padre Brown]], un po' confuso ma con un largo sorriso, «eppure è stato del tutto casuale. Drage non ha commesso il delitto... voglio dire questo delitto. Il suo unico delitto era ricattare qualcuno, e bighellonava qui intorno per farlo; ma difficilmente avrebbe voluto che il segreto diventasse di dominio pubblico, o che tutta la faccenda venisse troncata da una morte. Di lui potremo parlare dopo. Per il momento, voglio soltanto toglierlo di mezzo».
+
+«Di mezzo a che cosa?» chiese l'altro.
+
+«Di mezzo alla verità» rispose il prete, guardandolo tranquillo, con le palpebre immobili.
+
+«Vuol dire» balbettò l'altro, «che lei conosce la verità?»
+
+«Direi di sì» disse [[characters/father-brown|Padre Brown]] modestamente.
+
+Ci fu un [[motifs/silence|silenzio]] improvviso, dopo il quale Crake proruppe di scatto, in tono stridente e fuori luogo:
+
+«Ma insomma, dov'è finito quel segretario? Wilton! Dovrebbe essere qui».
+
+«Sono in contatto con il signor Wilton» disse [[characters/father-brown|Padre Brown]] con gravità; «anzi, gli ho chiesto di telefonarmi qui tra pochi minuti. Posso dire che abbiamo sbrogliato la cosa insieme, per così dire».
+
+«Se lavorate insieme, allora suppongo vada bene» brontolò Crake. «So che è sempre stato una specie di segugio sulle tracce di quel suo furfante inafferrabile, sicché forse era il caso di dar la caccia in coppia con lui. Ma se lei sa la verità su tutto questo, dove diamine l'ha pescata?»
+
+«L'ho pescata da lei» rispose il prete, con pacatezza, continuando a fissare mitemente il vecchio veterano dallo sguardo di fuoco. «Voglio dire che la prima ipotesi l'ho ricavata da un'allusione in un suo racconto, quello di un indiano che scagliò un coltello e colpì un uomo in cima a una fortezza».
+
+«L'ha detto parecchie volte» disse Wain, con aria perplessa; «ma non ci vedo alcuna deduzione, se non che questo assassino ha scagliato una freccia e colpito un uomo in cima a una casa molto simile a una fortezza. Ma la freccia, s'intende, non è stata scagliata bensì tirata con l'arco, e sarebbe andata molto più lontano. Di certo è andata straordinariamente lontano; ma non vedo come questo ci porti più avanti».
+
+«Temo che lei abbia mancato il senso del racconto» disse Padre Brown. «Non si tratta del fatto che, se una cosa può andar lontano, un'altra può andare più lontano. Si tratta del fatto che l'uso sbagliato di uno strumento può tagliare da entrambe le parti. Gli uomini sulla fortezza di Crake pensavano al coltello come a un'arma da combattimento corpo a corpo e dimenticavano che poteva essere un proiettile come un giavellotto. Certe altre persone che conosco pensavano a una cosa come a un proiettile simile a un giavellotto e dimenticavano che, in fin dei conti, poteva essere adoperata corpo a corpo come una lancia. In breve, la morale del racconto è che, così come un pugnale può essere trasformato in una freccia, allo stesso modo una freccia può essere trasformata in un pugnale».
+
+Ora lo guardavano tutti; ma egli proseguì nello stesso tono casuale e distratto: «Naturalmente ci siamo lambiccati e tormentati non poco intorno a chi avesse scoccato quella freccia attraverso la finestra, e se venisse da lontano, e via dicendo. Ma la verità è che nessuno ha scoccato affatto la freccia. Non è affatto entrata dalla finestra».
+
+«E allora come è arrivata lì?» chiese l'avvocato dalla carnagione scura, con volto piuttosto accigliato.
+
+«Qualcuno ce l'ha portata con sé, suppongo» disse Padre Brown; «non sarebbe stato difficile trasportarla o nasconderla. Qualcuno l'aveva in mano mentre stava con Merton nella stanza di Merton. Qualcuno l'ha conficcata nella gola di Merton come un pugnale, e poi ha avuto l'idea quanto mai ingegnosa di collocare il tutto in un punto e con un'angolatura tali da farci supporre in un lampo che fosse volata dentro dalla [[motifs/window|finestra]] come un uccello».
+
+«Qualcuno» disse il vecchio Crake, con voce pesante come la pietra.
+
+Lo squillo del telefono risuonò con un clamore stridulo e orribile di insistenza. Veniva dalla stanza attigua, e Padre Brown vi si era precipitato prima che chiunque altro potesse muoversi.
+
+«Che diavolo succede?» gridò Peter Wain, che pareva tutto scosso e sconvolto.
+
+«Ha detto che si aspettava una chiamata da Wilton, il segretario» rispose lo zio con la stessa voce spenta.
+
+«Immagino sia Wilton?» osservò l'avvocato, come chi parla per riempire un [[motifs/silence|silenzio]]. Ma nessuno rispose alla domanda, finché [[characters/father-brown|Padre Brown]] non ricomparve d'improvviso e in silenzio nella stanza, portando la risposta.
+
+«Signori» disse, dopo aver ripreso il suo posto, «siete stati voi a chiedermi di indagare sulla verità di questo rompicapo; e, avendone trovata la verità, devo dirla, senza alcuna finzione che ne attenui il colpo. Temo che chiunque ficchi il naso in faccende simili non possa permettersi di avere riguardo per le persone.»
+
+«Immagino» disse Crake, rompendo il [[motifs/silence|silenzio]] che ne era seguito, «che questo significhi che alcuni di noi sono accusati, o sospettati.»
+
+«Tutti noi siamo sospettati» rispose [[characters/father-brown|Padre Brown]]. «Posso essere sospettato io stesso, poiché sono stato io a trovare il corpo.»
+
+«Naturalmente siamo sospettati» sbottò Wain. «Padre Brown ha avuto la cortesia di spiegarmi come avrei potuto assediare la torre con una macchina volante.»
+
+«No» ribatté il sacerdote con un sorriso; «siete stato voi a descrivermi come avreste potuto farlo. Ed è proprio questa la parte interessante della faccenda.»
+
+«Pareva ritenesse verosimile» ringhiò Crake «che l'avessi ucciso io stesso con una freccia da pellerossa.»
+
+«L'ho ritenuto quanto mai improbabile» disse [[characters/father-brown|Padre Brown]], facendo una smorfia piuttosto storta. «Mi dispiace se ho agito male, ma non riuscivo a pensare a nessun altro modo per mettere alla prova la cosa. Difficilmente potrei immaginare qualcosa di più inverosimile dell'idea che il capitano Wain sia passato sfrecciando su un'enorme [[motifs/machine|macchina]] davanti alla [[motifs/window|finestra]], proprio nell'istante del delitto, senza che nessuno se ne accorgesse; a meno che, forse, non lo sia l'idea che un rispettabile vecchio signore si metta a giocare ai pellerossa con arco e frecce dietro i cespugli, per uccidere qualcuno che avrebbe potuto uccidere in venti modi assai più semplici. Ma dovevo scoprire se avessero avuto qualcosa a che fare con la faccenda; e così ho dovuto accusarli per provare la loro innocenza.»
+
+«E come avete provato la loro innocenza?» chiese Blake, l'avvocato, chinandosi in avanti con impazienza.
+
+«Solo dall'agitazione che hanno mostrato quando sono stati accusati» rispose l'altro.
+
+«Che cosa intendete, esattamente?»
+
+«Se mi permettete di dirlo» osservò [[characters/father-brown|Padre Brown]] con sufficiente compostezza, «ritenni senza dubbio mio dovere sospettare di loro e di tutti gli altri. Sospettai del signor Crake e sospettai del capitano Wain, nel senso che presi in considerazione la possibilità o la probabilità della loro colpevolezza. Dissi loro che avevo tratto delle conclusioni al riguardo; e ora dirò loro quali fossero quelle conclusioni. Ero certo della loro innocenza, per il modo e il momento in cui passarono dall'inconsapevolezza all'indignazione. Finché non pensarono di essere accusati, continuarono a fornirmi materiali per sostenere l'accusa. Praticamente mi spiegarono come avrebbero potuto commettere il delitto. Poi, d'un tratto, si resero conto, con un sussulto e un grido di rabbia, di essere accusati; se ne resero conto molto tempo dopo il momento in cui avrebbero ben potuto aspettarsi di essere accusati, ma molto prima che io li accusassi. Ora, nessun colpevole potrebbe mai comportarsi così. Potrebbe mostrarsi irritabile e sospettoso fin dall'inizio; oppure potrebbe simulare inconsapevolezza e innocenza sino alla fine. Ma non comincerebbe col peggiorare la propria situazione per poi fare un gran balzo e prendere a negare furiosamente l'idea che egli stesso aveva contribuito a suggerire. Ciò potrebbe accadere soltanto se davvero non si fosse reso conto di ciò che stava suggerendo. La coscienza di sé di un assassino sarebbe sempre almeno tanto morbosamente viva da impedirgli prima di dimenticare il proprio legame con la cosa, e poi di ricordarsi di negarlo. Così ho escluso entrambi voi, e altri per altre ragioni di cui non occorre discutere ora. Per esempio, c'era il segretario...
+
+«Ma non è di questo che sto parlando adesso. Ecco: ho appena avuto notizie da Wilton al telefono, e mi ha dato il permesso di riferirvi qualche notizia piuttosto grave. Ora immagino che a questo [[motifs/time|punto]] sappiate tutti chi fosse Wilton, e che cosa cercasse.»
+
+«So che dava la caccia a Daniel Doom e che non avrebbe avuto pace finché non l'avesse preso» rispose Peter Wain; «e ho sentito la storia che sarebbe il figlio del vecchio Horder, e che per questo è il [[archetypes/avenger|vendicatore]] del [[motifs/blood|sangue]]. In ogni caso, di sicuro sta cercando l'uomo chiamato Doom.»
+
+«Ebbene» disse Padre Brown, «lo ha trovato.»
+
+Peter Wain balzò in piedi per l'eccitazione.
+
+«L'assassino!» gridò. «L'assassino è già in gattabuia?»
+
+«No» disse Padre Brown, con gravità; «ho detto che la notizia era grave, ed è più grave di così. Temo che il povero Wilton si sia preso una responsabilità terribile. Temo che stia per far ricadere su di noi una responsabilità terribile. Ha dato la caccia al criminale, e proprio quando finalmente lo aveva messo alle strette... [[motifs/well|ebbene]], si è fatto giustizia da sé.»
+
+«Volete dire che Daniel Doom...» cominciò l'avvocato.
+
+«Voglio dire che Daniel Doom è morto» disse il sacerdote. «C'è stata una sorta di lotta furiosa, e Wilton lo ha ucciso.»
+
+«Ben gli sta» ringhiò il signor Hickory Crake.
+
+«Non si può biasimare Wilton per aver abbattuto una canaglia simile, specie considerando la faida» convenne Wain; «era come schiacciare una vipera.»
+
+«Non sono d'accordo con voi» disse [[characters/father-brown|Padre Brown]]. «Suppongo che tutti noi ci abbandoniamo a discorsi romantici, a casaccio, in difesa del linciaggio e dell'illegalità; ma ho il sospetto che, se perdiamo le nostre leggi e le nostre libertà, ce ne pentiremo. Del resto, mi pare illogico dire che qualcosa si possa dire a favore di Wilton che commette un omicidio, senza nemmeno domandarsi se qualcosa si potesse dire a favore di Doom che ne commetteva uno. Dubito piuttosto che Doom fosse un semplice, volgare assassino; può darsi che fosse una sorta di fuorilegge con una mania per il calice, che lo esigeva con minacce e uccideva soltanto dopo una lotta; entrambe le vittime furono abbattute proprio davanti alle loro case. L'obiezione al modo di agire di Wilton è che non udremo mai la versione di Doom.»
+
+«Oh, non ho pazienza per tutto questo sentimentale sbiancare di canaglie sanguinarie e senza valore» esclamò Wain, con foga. «Se Wilton ha fatto secco il criminale, ha compiuto un'ottima giornata di lavoro, e la questione finisce lì.»
+
+«Proprio così, proprio così» disse suo zio, annuendo con vigore.
+
+Il volto di [[characters/father-brown|Father Brown]] si fece di una gravità ancora più pesante mentre girava lentamente lo sguardo intorno al semicerchio dei volti. «È davvero questo che pensate tutti?» domandò. E proprio mentre lo diceva si rese conto di essere un inglese e un esule. Si rese conto di trovarsi tra stranieri, per quanto si trovasse tra amici. Attorno a quell'anello di stranieri correva un fuoco inquieto che non apparteneva alla sua stirpe: lo spirito più feroce della nazione occidentale che sa ribellarsi e linciare, e soprattutto coalizzarsi. Sapeva che si erano già coalizzati.
+
+«[[motifs/well|Ebbene]]» disse [[characters/father-brown|Father Brown]], con un sospiro, «devo dunque intendere che voi condonate senza riserve il delitto di questo sventurato, o il suo atto di giustizia privata, o comunque lo vogliate chiamare. In tal caso non gli farà alcun male se vi racconto qualcosa di più al riguardo.»
+
+Si alzò improvvisamente in piedi; e per quanto essi non vedessero alcun significato nel suo gesto, questo parve in qualche modo mutare o raffreddare l'aria stessa della stanza.
+
+«Wilton uccise Doom in un modo piuttosto curioso» esordì.
+
+«Come lo uccise, Wilton?» chiese Crake, bruscamente.
+
+«Con una freccia» disse [[characters/father-brown|Father Brown]].
+
+Il crepuscolo si andava addensando nella lunga sala, e la luce del giorno si riduceva a un barlume proveniente dalla grande [[motifs/window|finestra]] della stanza interna, dove il grande milionario era morto. Quasi automaticamente gli occhi del gruppo si volsero lentamente in quella direzione, ma per il momento non si udì alcun suono. Poi la voce di Crake giunse incrinata, acuta e senile, in una sorta di gracchiante farfuglio.
+
+«Che intende dire? Che intende dire? Brander Merton ucciso da una freccia. Questo furfante ucciso da una freccia...»
+
+«Dalla stessa freccia» disse il prete, «e nel medesimo istante.»
+
+Di nuovo si fece una sorta di silenzio strozzato eppure gonfio e prossimo a scoppiare — un [[motifs/silence|silenzio]] soffocato —, e il giovane Wain cominciò: «Volete dire...»
+
+«Voglio dire che il vostro amico Merton era Daniel Doom» disse Father Brown con fermezza, «e l'unico Daniel Doom che riuscirete mai a trovare. Il vostro amico Merton è sempre stato pazzo per quella Coppa Copta che soleva adorare come un idolo ogni giorno; e nella sua giovinezza sfrenata aveva realmente ucciso due uomini per averla, sebbene io continui a credere che quelle morti possano essere state, in un certo senso, incidenti della rapina. Comunque sia, egli la possedeva; e quell'uomo, Drage, conosceva la storia e lo ricattava. Ma Wilton gli dava la caccia per uno scopo assai diverso; immagino che scoprì la verità soltanto una volta entrato in questa casa. Ma comunque sia, fu in questa casa, e in quella stanza, che questa caccia ebbe fine, ed egli abbatté l'assassino di suo padre.»
+
+Per lungo tempo nessuno rispose. Poi si udì il vecchio Crake tamburellare con le dita sul tavolo e mormorare:
+
+«Brander doveva essere pazzo. Doveva essere pazzo.»
+
+«Ma, santo cielo!» proruppe Peter Wain, «che dobbiamo fare? Che dobbiamo dire? Oh, è tutto completamente diverso! E i giornali, e i grandi uomini d'affari? Brander Merton è una cosa come il Presidente o il Papa di Roma.»
+
+«Sono certamente d'avviso che la faccenda sia piuttosto diversa» cominciò Barnard Blake, l'avvocato, a bassa voce. «La differenza implica un intero...»
+
+[[characters/father-brown|Father Brown]] batté un pugno sul tavolo tanto che i bicchieri sopra tintinnarono; e quasi si poté immaginare un'eco spettrale provenire dal misterioso calice che ancora si ergeva nella stanza al di là.
+
+«No!» gridò, con una voce simile a un colpo di pistola. «Non vi sarà alcuna differenza. Vi ho offerto la possibilità di aver pietà del povero diavolo quando lo credevate un comune criminale. Allora non avete voluto ascoltare; allora eravate tutti per la vendetta privata. Eravate tutti per lasciarlo macellare come una bestia feroce senza un'udienza né un pubblico processo, e dicevate che aveva avuto soltanto ciò che meritava. Ebbene, [[motifs/well|molto bene]], se Daniel Doom ha avuto ciò che meritava, allora Brander Merton ha avuto ciò che meritava. Se quello era abbastanza buono per Doom, per tutto ciò che è santo è abbastanza buono per Merton. Prendetevi la vostra giustizia selvaggia oppure la nostra ottusa legalità; ma nel nome di Dio Onnipotente, che vi sia un'eguale illegalità o un'eguale legge.»
+
+Nessuno rispose tranne l'avvocato, e rispose con qualcosa di simile a un ringhio: «Che diranno gli agenti di polizia se raccontiamo loro che intendiamo condonare un delitto?»
+
+«Che diranno se io racconto loro che voi lo avete condonato?» replicò [[characters/father-brown|Father Brown]]. «Il vostro rispetto per la legge arriva piuttosto tardi, signor Barnard Blake.»
+
+Dopo una pausa riprese in tono più mite: «Io, per parte mia, sono pronto a dire la verità se le autorità competenti me lo chiederanno; e il resto di voi può fare come crede. Ma di fatto la cosa non farà gran differenza. Wilton mi ha telefonato soltanto per dirmi che ora ero libero di esporvi la sua confessione; poiché, quando l'aveste udita, egli sarebbe stato al di fuori di ogni inseguimento.»
+
+Si incamminò lentamente verso la stanza interna e vi rimase in piedi accanto al piccolo tavolo presso il quale il milionario era morto. La Coppa Copta si ergeva ancora nello stesso posto, ed egli restò lì per un poco a fissarne il grappolo di tutti i colori dell'arcobaleno, e, al di là di essa, un azzurro abisso di cielo.
+
+TRE:  L'oracolo del cane
+
+«Sì», disse [[characters/father-brown|Padre Brown]], «un cane mi piace sempre, a patto che non lo si scriva a rovescio.»
+
+Chi parla in fretta non sempre ascolta in fretta. Talora perfino la loro brillantezza genera una specie di ottusità. L'amico e compagno di Padre Brown era un giovane con un fiume di idee e di racconti, un giovane entusiasta di nome Fiennes, dagli occhi azzurri e ardenti e dai capelli biondi che parevano ravviati all'indietro non da una semplice spazzola, ma dal vento del mondo mentre vi si slanciava attraverso. Ma s'arrestò nel torrente delle sue parole, in un momentaneo sconcerto, prima di afferrare il senso semplicissimo del prete.
+
+«Vuol dire che se ne fa troppo caso?», disse. «Be', non saprei. Sono creature meravigliose. A volte penso che sappiano molto più di noi.»
+
+Padre Brown non disse nulla, ma seguitò ad accarezzare la testa del grosso retriever in una maniera distratta eppure, a quanto pareva, blanda e tranquillizzante.
+
+«Ecco», disse Fiennes, riscaldandosi di nuovo al suo monologo, «c'era un cane nel caso per cui sono venuto a trovarla: quello che chiamano il «Caso dell'Omicidio Invisibile», sa. È una storia curiosa, ma dal mio punto di vista il cane è quasi la cosa più curiosa che contenga. Certo, c'è il mistero del delitto in sé, e di come il vecchio Druce possa essere stato ucciso da qualcun altro mentre se ne stava tutto solo nel padiglione [[motifs/summer|estivo]]...»
+
+La mano che carezzava il cane si arrestò un istante nel suo movimento ritmico, e Padre Brown disse con calma: «Oh, era un padiglione [[motifs/summer|estivo]], dunque?»
+
+«Credevo che avesse letto tutto sui giornali», rispose Fiennes. «Aspetti un momento; mi pare di avere un ritaglio che le darà tutti i particolari.» Trasse dalla tasca una striscia di giornale e la porse al prete, che cominciò a leggerla, tenendola vicina ai suoi occhi socchiusi con una mano mentre l'altra proseguiva le sue carezze semiconsapevoli al cane. Pareva la parabola dell'uomo che non lascia sapere alla mano destra ciò che fa la sinistra.
+
+-------------
+
+Molte storie misteriose, di uomini assassinati dietro porte e finestre sprangate, e di assassini svaniti senza via d'entrata né d'uscita, si sono avverate nel corso degli straordinari avvenimenti di Cranston, sulla costa dello Yorkshire, dove il colonnello Druce fu trovato pugnalato alle spalle da un pugnale scomparso interamente dalla scena, e a quanto pare persino dai dintorni.
+
+Il padiglione estivo in cui morì era in verità accessibile da un solo ingresso, la porta ordinaria che guardava giù lungo il viale centrale del giardino verso la casa. Ma, per un concorso di circostanze quasi da potersi dire una coincidenza, risulta che tanto il sentiero quanto l'ingresso furono sorvegliati durante il tempo cruciale, e vi è una catena di testimoni che si confermano a vicenda. Il padiglione sorge all'estremità più remota del giardino, dove non v'è uscita né entrata di sorta. Il viale centrale del giardino è una corsia fra due file di alti delphinium, piantati così fitti che qualsiasi passo fuori dal sentiero ne lascerebbe le tracce; e sentiero e piante corrono fin proprio all'imboccatura del padiglione, sicché nessuna deviazione da quel dritto sentiero potrebbe sfuggire all'osservazione, né si può immaginare altro modo d'ingresso.
+
+Patrick Floyd, segretario dell'ucciso, testimoniò di essere stato in condizione di dominare con lo sguardo l'intero giardino dal momento in cui il colonnello Druce apparve vivo per l'ultima volta sulla soglia fino al momento in cui fu trovato morto; giacché egli, Floyd, si trovava in cima a una scala a pioli a potare la siepe del giardino. Janet Druce, la figlia del morto, confermò la cosa, dicendo di essere rimasta seduta sulla terrazza della casa per tutto quel tempo e di aver visto Floyd al suo lavoro. Per una parte di quel tempo, ciò è di nuovo avvalorato da Donald Druce, il fratello di lei — che pure dominava il giardino — ritto alla finestra della sua camera in vestaglia, poiché s'era alzato tardi. Infine, il racconto concorda con quello reso dal dottor Valentine, un vicino, che passò per un poco a conversare con la signorina Druce sulla terrazza, e con quello dell'avvocato del colonnello, il signor Aubrey Traill, che fu a quanto pare l'ultimo a vedere vivo l'ucciso — salvo, presumibilmente, l'assassino.
+
+Tutti concordano che il corso degli eventi fu il seguente. Verso le tre e mezzo del pomeriggio, la signorina Druce scese lungo il sentiero per chiedere al padre a che ora desiderasse il tè; ma egli rispose che non ne voleva e che aspettava di vedere Traill, il suo legale, che gli sarebbe stato mandato nel padiglione. La ragazza allora si allontanò e incontrò Traill che scendeva per il sentiero; lo indirizzò al padre ed egli entrò come indicato. Circa mezz'ora dopo ne uscì di nuovo, e il colonnello lo accompagnò fino alla porta, mostrandosi a ogni apparenza in salute e persino di ottimo umore. Era stato alquanto contrariato, prima nella giornata, dagli orari irregolari del figlio, ma parve riprendere il buonumore in maniera del tutto normale, e fu anzi assai marcatamente cordiale nel ricevere altri visitatori, compresi due suoi nipoti, venuti a passare la giornata. Ma poiché costoro erano fuori a passeggio durante l'intero periodo della tragedia, non ebbero testimonianza da rendere. Si dice, in verità, che il colonnello non fosse in ottimi rapporti col dottor Valentine, ma quel signore ebbe soltanto un breve colloquio con la figlia di casa, cui si suppone rivolga serie attenzioni.
+
+Traill, l'avvocato, dice di aver lasciato il colonnello del tutto solo nel padiglione, e ciò è confermato dalla veduta a volo d'uccello del giardino che aveva Floyd, la quale mostrava che nessun altro passò per l'unico ingresso. Dieci minuti più tardi, la signorina Druce scese di nuovo nel giardino, e non aveva ancora raggiunto la fine del sentiero quando vide il padre, ben riconoscibile per la sua giacca di lino bianco, giacere ammucchiato sul pavimento. Emise un grido che fece accorrere gli altri sul posto, ed entrando trovarono il colonnello disteso morto accanto alla sua poltrona di vimini, anch'essa rovesciata. Il dottor Valentine, che era ancora nelle immediate vicinanze, testimoniò che la ferita era stata inferta da una sorta di stiletto, penetrato sotto la scapola e trafiggente il cuore. La polizia ha frugato i dintorni in cerca di una tale arma, ma non se ne trova traccia.
+
+«Dunque il colonnello Druce indossava una giacca bianca?», disse [[characters/father-brown|Padre Brown]] posando il giornale.
+
+«Un vezzo che aveva imparato ai tropici», rispose Fiennes con una certa meraviglia. «Laggiù aveva avuto strane avventure, a suo dire; e ho idea che la sua antipatia per [[characters/valentine|Valentine]] fosse legata anche al fatto che il dottore veniva dai tropici. Ma è tutto un rompicapo infernale. Il resoconto lì è abbastanza esatto. Io non vidi la [[forms/tragedy|tragedia]], nel senso della scoperta; ero fuori a passeggio coi giovani nipoti e col cane — il cane di cui volevo parlarle. Ma vidi la scena allestita com'è descritta: la dritta corsia fra i [[motifs/flowers|fiori]] azzurri fin proprio all'oscuro ingresso, e l'avvocato che vi scendeva nel suo nero e col suo cilindro di seta, e la testa rossa del segretario che spiccava alta sopra la verde siepe mentre vi lavorava con le cesoie. Nessuno avrebbe potuto scambiare quella testa rossa a nessuna distanza; e se la gente dice di averla vista lì per tutto il [[motifs/time|tempo]], potete star certi che è così.
+
+Questo segretario dai capelli rossi, Floyd, è proprio un personaggio; un tipo trafelato e sempre in movimento, che fa in continuazione il lavoro di tutti, come faceva quello del giardiniere. Credo sia americano; di certo ha la visione americana della vita — quello che chiamano il «punto di vista», Dio li benedica.»
+
+«E l'avvocato?», chiese [[characters/father-brown|Padre Brown]]. Vi fu un [[motifs/silence|silenzio]], e poi Fiennes parlò, per lui, assai lentamente. «Traill mi fece l'impressione di un uomo singolare. Nei suoi bei panni neri era quasi lezioso, eppure non lo si direbbe elegante. Perché portava un paio di lunghe, folte fedine nere quali non se ne vedevano più dai tempi vittoriani. Aveva un viso piuttosto bello e grave e un contegno bello e grave, ma ogni tanto pareva ricordarsi di sorridere. E quando mostrava i denti bianchi pareva perdere un po' della sua dignità, e c'era in lui qualcosa di vagamente adulatorio. Poteva essere solo imbarazzo, perché armeggiava di continuo anche con la cravatta e con lo spillo, che erano insieme belli e insoliti, come lui. Se solo potessi pensare a qualcuno... ma a che pro, quando l'intera faccenda è impossibile? Nessuno sa chi l'abbia fatto. Nessuno sa come possa essere stato fatto. C'è almeno una sola eccezione che farei, ed è per questo che ho tirato fuori tutta la storia. Il cane lo sa.»
+
+Padre Brown sospirò e poi disse distrattamente: «Lei era lì come amico del giovane Donald, non è vero? Non venne a passeggio con voi?»
+
+«No», rispose Fiennes sorridendo. «Il giovane mascalzone era andato a letto quella mattina e s'era alzato quel pomeriggio. Andai coi suoi cugini, due giovani ufficiali venuti dall'India, e la nostra conversazione fu abbastanza banale. Ricordo che il maggiore, che credo si chiami Herbert Druce e che è un'autorità in fatto di allevamento di [[motifs/horse|cavalli]], non parlò d'altro che di una giumenta comprata e del carattere morale dell'uomo che gliela vendette; mentre suo fratello Harry pareva rimuginare sulla sua malasorte a Monte Carlo. Lo dico solo per mostrarle, alla luce di ciò che accadde durante la nostra passeggiata, che non c'era nulla di psichico in noi. Il cane era l'unico mistico della compagnia.»
+
+«Che razza di cane era?», chiese il prete.
+
+«Della stessa razza di quello», rispose Fiennes. «È ciò che mi ha avviato la storia, il suo dire che non credeva nel credere in un cane. È un grosso retriever nero, di nome Nox, e nome suggestivo anche questo; perché credo che ciò che fece sia un mistero più cupo del delitto stesso. Sa che la casa e il giardino dei Druce sono in riva al mare; camminammo per circa un miglio lungo la sabbia e poi tornammo indietro, prendendo l'altra via. Passammo accanto a una roccia piuttosto curiosa chiamata la Rupe della Fortuna, famosa nei dintorni perché è uno di quegli esempi d'un masso appena in equilibrio su un altro, tanto che un tocco basterebbe a rovesciarlo. Non è in realtà molto alta, ma il suo profilo a strapiombo le dà un che di selvaggio e sinistro; almeno a me parve tale, giacché non immagino che i miei allegri giovani compagni fossero afflitti dal senso del pittoresco. Ma può darsi che cominciassi a percepire un'atmosfera; perché proprio allora sorse la questione se fosse ora di tornare per il tè, e già allora, credo, ebbi il presentimento che il tempo contasse parecchio in quella faccenda. Né Herbert Druce né io avevamo un orologio, così chiamammo suo fratello, che era qualche passo indietro, essendosi fermato ad accendere la pipa sotto la siepe. Fu così che egli gridò l'ora, che erano le quattro e venti, con la sua voce possente attraverso il crepuscolo crescente; e in qualche modo la sonorità di quella voce le diede il suono d'un proclama di qualcosa di tremendo. La sua inconsapevolezza pareva renderlo ancor più tale; ma così è sempre stato con i presagi; e certi rintocchi dell'orologio furono davvero cose assai sinistre quel pomeriggio. Secondo la testimonianza del dottor Valentine, il povero Druce morì in effetti proprio verso le quattro e mezzo.
+
+«[[motifs/well|Be']], dissero che non occorreva tornare a [[motifs/home|casa]] per dieci minuti, e camminammo un poco oltre lungo la sabbia, senza far nulla di preciso — lanciando sassi al cane e gettando bastoni in mare perché li andasse a riprendere a nuoto. Ma a me il crepuscolo parve farsi stranamente opprimente, e la stessa [[archetypes/shadow|ombra]] della Rupe della Fortuna, tutta sbilanciata in alto, mi pesava addosso come un fardello. E poi accadde la cosa curiosa. Nox aveva appena riportato dal mare il bastone da passeggio di Herbert e il fratello vi gettò anche il suo. Il cane nuotò di nuovo al largo, ma proprio all'incirca quando doveva battere la mezz'ora, smise di nuotare. Tornò a riva e ci si piantò davanti. Poi d'improvviso levò il capo ed emise un ululato, un lamento di dolore quale mai ne udii al mondo.
+
+«Che diavolo ha il cane?», chiese Herbert; ma nessuno di noi seppe rispondere. Vi fu un lungo silenzio dopo che il guaito e il lamento della bestia si spensero sulla riva desolata; e poi il silenzio fu rotto. Com'è vero che vivo, fu rotto da un grido fioco e lontano, come il grido d'una donna al di là delle siepi, verso l'interno. Allora non sapevamo che cosa fosse; ma lo sapemmo dopo. Era il grido che la ragazza emise quando vide per la prima volta il corpo di suo padre.»
+
+«Immagino che siate tornati indietro», disse [[characters/father-brown|Padre Brown]] con pazienza. «Che accadde poi?»
+
+«Le dirò io che accadde poi», disse Fiennes con cupa enfasi. «Quando rientrammo in quel giardino, la prima cosa che vedemmo fu Traill, l'avvocato; lo vedo ancora col suo cappello nero e le sue fedine nere che si stagliavano contro la prospettiva dei fiori azzurri digradanti fino al padiglione, col tramonto e lo strano profilo della Rupe della Fortuna in lontananza. Il volto e la figura erano in ombra contro il tramonto; ma giuro che i denti bianchi gli spiccavano in bocca e stava sorridendo. Nell'istante in cui Nox vide quell'uomo, il cane si slanciò in avanti e si piantò in mezzo al sentiero abbaiandogli contro come impazzito, con furia omicida, vomitando maledizioni quasi verbali nella loro spaventosa nitidezza d'odio. E l'uomo si piegò in due e fuggì, lungo il sentiero fra i fiori.»
+
+Padre Brown balzò in piedi con una impazienza sorprendente. «Dunque il cane lo denunciò?», esclamò. «L'oracolo del cane lo condannò. Avete guardato quali uccelli volavano, e siete sicuri se fossero a destra o a sinistra? Avete consultato gli àuguri sui sacrifici? Di certo non avrete tralasciato di sventrare il cane e di esaminarne le viscere. È il genere di prova scientifica cui voi umanitari pagani sembrate affidarvi quando pensate di togliere la vita e l'onore a un uomo.»
+
+Fiennes rimase un istante a bocca aperta prima di trovare il fiato per dire: «Ma insomma, che cos'ha? Che cosa ho fatto ora?» Una specie d'ansia tornò negli occhi del prete — l'ansia di chi ha urtato contro un palo nel buio e per un momento si domanda se non gli abbia fatto male.
+
+«Mi dispiace moltissimo», disse con sincero rammarico. «Le chiedo scusa d'essere stato così sgarbato; la prego, mi perdoni.»
+
+Fiennes lo guardò incuriosito. «A volte penso che lei sia più misterioso di tutti i misteri», disse. «Ma comunque, se anche non crede al mistero del cane, per lo meno non può scavalcare il mistero dell'uomo. Non può negare che, nell'istante stesso in cui la bestia tornò dal mare e muggì, l'[[motifs/soul|anima]] del suo padrone fu scacciata dal suo [[concepts/body|corpo]] dal colpo di qualche potenza invisibile che nessun mortale può rintracciare né pure immaginare. E quanto all'avvocato — non mi baso solo sul cane — ci sono anche altri particolari curiosi. Mi fece l'impressione di un tipo liscio, sorridente, ambiguo; e uno dei suoi vezzi pareva quasi un indizio. Sa che il dottore e la polizia furono sul posto assai in fretta; [[characters/valentine|Valentine]] fu richiamato mentre si allontanava dalla casa, e telefonò all'istante. Ciò, con la casa appartata, il piccolo numero di persone e lo spazio chiuso, rese abbastanza possibile perquisire chiunque potesse essere stato nei paraggi; e chiunque fu perquisito accuratamente — in cerca di un'arma. L'intera casa, il [[motifs/garden|giardino]] e la riva furono passati al setaccio in cerca di un'arma. La scomparsa del pugnale è quasi altrettanto folle quanto la scomparsa dell'uomo.»
+
+«La scomparsa del pugnale», disse Padre Brown annuendo. Pareva d'un tratto divenuto attento.
+
+«[[motifs/well|Be']]», proseguì Fiennes, «le ho detto che quel Traill aveva il vezzo di trafficare con la cravatta e con lo spillo — specialmente con lo spillo. Il suo spillo, come lui, era insieme vistoso e antiquato. Aveva una di quelle pietre con anelli concentrici di colore che paiono un occhio; e la sua stessa concentrazione su di esso mi dava ai nervi, come se fosse stato un Ciclope con un occhio in mezzo al corpo. Ma lo spillo non era solo grosso: era lungo; e mi venne in mente che la sua ansia nell'aggiustarlo dipendesse dal fatto che era ancora più lungo di quanto sembrasse; lungo, in effetti, quanto uno stiletto.»
+
+Padre Brown annuì pensieroso. «Fu mai suggerito qualche altro strumento?», chiese.
+
+«Ci fu un altro suggerimento», rispose Fiennes, «da parte di uno dei giovani Druce — i cugini, intendo. Né Herbert né Harry Druce, a prima vista, sarebbero parsi tipi capaci di dare una mano in un'indagine scientifica; ma mentre Herbert era davvero il tradizionale tipo del pesante dragone, che non si cura d'altro che di cavalli ed è un ornamento delle [[motifs/horse|Horse]] Guards, il fratello minore Harry era stato nella Polizia indiana e s'intendeva un poco di simili cose. Anzi, a modo suo era piuttosto in gamba; e ho idea che fosse stato troppo in gamba; voglio dire che aveva lasciato la polizia per aver infranto qualche regola burocratica e per essersi preso, di sua iniziativa, un certo rischio e una certa responsabilità. Comunque, era in un certo senso un [[archetypes/detective|investigatore]] senza impiego, e si gettò in questa faccenda con più dell'ardore d'un dilettante. E fu con lui che ebbi una discussione sull'arma — una discussione che condusse a qualcosa di nuovo. Cominciò col ribattere alla mia descrizione del cane che abbaiava a Traill; e disse che un cane, al peggio, non abbaia, ma ringhia.»
+
+«Aveva ragione in questo», osservò il prete.
+
+«Questo giovanotto proseguì dicendo che, se era per quello, aveva sentito Nox ringhiare ad altre persone prima d'allora; e fra gli altri a Floyd, il segretario. Ribattei che il suo stesso argomento si smentiva da sé; giacché il delitto non poteva essere fatto ricadere [[motifs/home|addosso]] a due o tre persone, e meno che mai a Floyd, che era [[archetypes/innocent|innocente]] come uno scolaretto scavezzacollo, ed era stato visto da tutti per tutto il [[motifs/time|tempo]] appollaiato sopra la siepe del [[motifs/garden|giardino]] col suo ciuffo di capelli rossi cospicuo come un cacatua scarlatto.
+
+«So che comunque ci sono delle difficoltà», disse il mio collega, «ma vorrei che venisse con me giù in [[motifs/garden|giardino]] un momento. Voglio mostrarle una cosa che non credo abbia visto nessun altro.» Era il giorno stesso della scoperta, e il [[motifs/garden|giardino]] era proprio com'era stato. La scala a pioli era ancora appoggiata alla siepe, e proprio sotto la siepe la mia guida si fermò e districò qualcosa dall'erba folta. Erano le cesoie usate per potare la siepe, e sulla punta di una delle lame c'era una macchia di [[motifs/blood|sangue]].»
+
+Vi fu un breve [[motifs/silence|silenzio]], e poi [[characters/father-brown|Padre Brown]] disse d'improvviso: «Per che cosa era venuto l'avvocato?»
+
+«Ci disse che il colonnello l'aveva mandato a chiamare per modificare il testamento», rispose Fiennes. «E, a proposito, c'era un'altra cosa nella faccenda del testamento che dovrei accennare. Vede, il testamento non fu propriamente firmato nel padiglione quel pomeriggio.»
+
+«Immagino di no», disse [[characters/father-brown|Padre Brown]]; «ci sarebbero voluti due testimoni.»
+
+«L'avvocato era in realtà sceso il giorno prima e allora fu firmato; ma fu mandato a chiamare di nuovo il giorno dopo perché il vecchio aveva un [[concepts/doubt|dubbio]] su uno dei testimoni e bisognava rassicurarlo.»
+
+«Chi erano i testimoni?», chiese Padre Brown.
+
+«È proprio questo il punto», replicò con ardore il suo informatore, «i testimoni erano Floyd, il segretario, e questo dottor Valentine, la specie di chirurgo straniero o quel che è; e i due ebbero un litigio. Ora, sono costretto a dire che il segretario è un po' un ficcanaso. È uno di quei tipi caldi e impetuosi il cui calore di temperamento si è purtroppo mutato per lo più in litigiosità e in sospettosità irta di spine; nel diffidare della gente anziché nel fidarsene. Quel genere di tipo dai capelli rossi e dal sangue caldo è sempre o universalmente credulo o universalmente incredulo; e talora entrambe le cose. Non era soltanto un factotum tuttofare, ma la sapeva più lunga di tutti i mestieranti. Non solo sapeva tutto, ma metteva in guardia ciascuno contro chiunque. Di tutto ciò bisogna tener conto nei suoi sospetti su Valentine; ma in quel caso particolare pare che ci fosse qualcosa sotto. Disse che il nome di Valentine non era in realtà Valentine. Disse di averlo visto altrove conosciuto col nome di De Villon. Disse che ciò avrebbe invalidato il testamento; naturalmente ebbe la bontà di spiegare all'avvocato che cosa dicesse la legge su quel punto. Erano entrambi in una furia spaventosa.»
+
+Padre Brown rise. «La gente lo è spesso quando deve fare da testimone a un testamento», disse; «se non altro, significa che non può ricavarne alcun lascito. Ma il dottor Valentine che cosa disse? Senza dubbio l'universale segretario ne sapeva più del dottore sul nome del dottore. Ma anche il dottore poteva avere qualche informazione sul proprio nome.»
+
+Fiennes esitò un momento prima di rispondere. «Il dottor [[characters/valentine|Valentine]] la prese in maniera curiosa. Il dottor [[characters/valentine|Valentine]] è un uomo curioso. Il suo aspetto è piuttosto notevole ma molto straniero. È giovane ma porta la barba tagliata a quadro; e il viso è pallidissimo, spaventosamente pallido — e spaventosamente serio. Nei suoi occhi c'è come un dolore, quasi dovesse portare gli occhiali, o si fosse procurato un mal di capo a furia di pensare; ma è piuttosto bello e sempre vestito con molta formalità, con un cilindro e una redingote scura e una piccola rosetta rossa. I suoi modi sono piuttosto freddi e altezzosi, e ha un modo di fissarti che mette molto a disagio. Quando gli fu così contestato d'aver mutato nome, si limitò a fissare come una sfinge e poi disse con una risatina che immaginava gli Americani non avessero nomi da mutare. A quel punto credo che anche il colonnello si adombrasse e dicesse ogni sorta di cose irose al dottore; tanto più irose per via delle pretese del dottore a un posto futuro nella sua famiglia. Ma non ci avrei fatto gran caso, se non fosse per alcune parole che mi capitò di udire più tardi, nel primo pomeriggio della [[forms/tragedy|tragedia]]. Non voglio darvi troppo peso, perché non erano il genere di parole su cui, in circostanze normali, si vorrebbe fare l'origliatore. Mentre passavo verso il cancello d'ingresso coi miei due compagni e col cane, udii delle voci che mi rivelarono come il dottor [[characters/valentine|Valentine]] e la signorina Druce si fossero ritirati un momento nell'[[archetypes/shadow|ombra]] della casa, in un angolo dietro una fila di piante fiorite, e stessero parlando fra loro in appassionati bisbigli — a tratti quasi sibili; perché era tanto una lite d'amanti [[motifs/well|quanto]] un convegno d'amanti. Nessuno riferisce, per la maggior parte, il genere di cose che si dissero; ma in una faccenda sventurata come questa sono costretto a dire che vi fu ripetuta più d'una volta una frase sull'uccidere qualcuno. Anzi, la ragazza pareva scongiurarlo di non uccidere qualcuno, o dirgli che nessuna provocazione poteva giustificare l'uccidere alcuno; il che pare un genere di discorso insolito da rivolgere a un signore capitato per il tè.»
+
+«Sa», chiese il prete, «se il dottor [[characters/valentine|Valentine]] parve molto adirato dopo la scena col segretario e col colonnello — intendo a proposito del testimoniare il testamento?»
+
+«A quanto pare», rispose l'altro, «non era neppure lontanamente adirato quanto lo era il segretario. Fu il segretario ad andarsene su tutte le furie dopo aver testimoniato il testamento.»
+
+«E ora», disse Padre Brown, «che mi dice del testamento stesso?»
+
+«Il colonnello era uomo assai facoltoso, e il suo testamento era importante. Traill non volle dirci la modifica a quel punto, ma ho poi saputo — proprio stamattina, in effetti — che la maggior parte del denaro veniva trasferita dal figlio alla figlia. Le ho detto che Druce era fuori di sé col mio amico Donald per via delle sue ore dissipate.»
+
+«La questione del movente è stata alquanto messa in ombra dalla questione del metodo», osservò Padre Brown pensieroso. «In quel momento, a quanto pare, la signorina Druce era l'immediata beneficiaria della [[motifs/death|morte]].»
+
+«Buon Dio! Che modo di parlare a sangue freddo», esclamò Fiennes, fissandolo. «Non vorrà davvero insinuare che lei...»
+
+«Sposerà quel dottor [[characters/valentine|Valentine]]?», chiese l'altro.
+
+«Qualcuno è contrario», rispose l'amico. «Ma lui è benvoluto e stimato nel luogo, ed è un chirurgo abile e devoto.»
+
+«Un chirurgo tanto devoto», disse Padre Brown, «da avere con sé strumenti chirurgici quando andò a far visita alla giovane signora all'ora del tè. Perché deve aver usato una lancetta o qualcosa di simile, e non pare essere mai tornato a [[motifs/home|casa]].»
+
+Fiennes balzò in piedi e lo guardò in un ardore di domande. «Vuol dire che potrebbe aver usato proprio la stessa lancetta...»
+
+Padre Brown scosse il capo. «Tutti questi suggerimenti per ora sono fantasie», disse. «Il problema non è chi l'abbia fatto o con che cosa, ma come sia stato fatto. Potremmo trovare molti uomini e persino molti arnesi — spilli e cesoie e lancette. Ma come fece un uomo a entrare nella stanza? Come vi entrò anche solo uno spillo?»
+
+Fissava riflessivo il soffitto mentre parlava, ma nel dire le ultime parole l'occhio gli si drizzò all'erta come se avesse d'improvviso scorto una curiosa mosca sul soffitto.
+
+«[[motifs/well|Be']], che farebbe lei al riguardo?», chiese il giovane. «Lei ha molta esperienza; che cosa consiglierebbe ora?»
+
+«Temo di non esserle di grande aiuto», disse [[characters/father-brown|Padre Brown]] con un sospiro. «Non posso suggerire molto senza essere mai stato vicino né al luogo né alle persone. Per il momento non può che proseguire con le indagini sul posto. Deduco che il suo amico della Polizia indiana sia più o meno a capo della sua inchiesta laggiù. Io ci farei un salto per vedere come se la cava. Guarderei che cosa ha combinato in fatto d'indagine dilettantesca. Potrebbero già esserci novità.»
+
+Come i suoi ospiti, il bipede e il quadrupede, scomparvero, Padre Brown prese la penna e tornò alla sua occupazione interrotta, la preparazione d'un ciclo di conferenze sull'enciclica Rerum Novarum. L'argomento era vasto ed egli dovette rifonderlo più d'una volta, sicché era pressappoco similmente occupato quando, un due giorni dopo, il grosso cane nero venne di nuovo saltellando nella stanza e gli si sdraiò addosso tutto entusiasmo ed eccitazione. Il padrone che seguiva il cane condivideva l'eccitazione se non l'entusiasmo. Era eccitato in modo meno piacevole, perché i suoi occhi azzurri parevano schizzargli dalla testa e il suo viso ardente era persino un po' pallido.
+
+«Lei mi disse», esordì bruscamente e senza preamboli, «di scoprire che cosa stesse facendo Harry Druce. Sa che cosa ha fatto?» Il prete non rispose, e il giovane proseguì con tono spezzato: «Le dirò io che cosa ha fatto. Si è ucciso.»
+
+Le labbra di Padre Brown si mossero appena, e non c'era nulla di pratico in ciò che diceva — nulla che abbia a che fare con questa storia o con questo mondo.
+
+«A volte mi fa venire i brividi», disse Fiennes. «Se lo... se lo aspettava?»
+
+«Lo ritenevo possibile», disse [[characters/father-brown|Padre Brown]]; «per questo le chiesi di andare a vedere che cosa stesse facendo. Speravo che non arrivasse troppo tardi.»
+
+«Fui io a trovarlo», disse Fiennes con voce piuttosto roca. «Fu la cosa più orribile e più sinistra che abbia mai conosciuto. Scesi di nuovo in quel vecchio giardino, e sapevo che c'era in esso qualcosa di nuovo e d'innaturale, oltre al delitto. I fiori ondeggiavano ancora in masse azzurre da ciascun lato del nero ingresso nel vecchio grigio padiglione; ma a me i fiori azzurri parevano diavoli azzurri danzanti dinanzi a qualche oscura caverna degli inferi. Mi guardai attorno, tutto pareva al suo posto consueto. Ma la strana idea mi crebbe dentro che ci fosse qualcosa di sbagliato nella forma stessa del cielo. E poi vidi che cos'era. La Rupe della Fortuna s'era sempre elevata sullo sfondo, oltre la siepe del giardino e contro il mare. La Rupe della Fortuna era sparita.»
+
+Padre Brown aveva alzato il capo e ascoltava intento.
+
+«Era come se una montagna se ne fosse andata via da un paesaggio o una [[motifs/moon|luna]] fosse caduta dal cielo; benché sapessi, s'intende, che un tocco in qualunque [[motifs/time|momento]] avrebbe rovesciato la cosa. Qualcosa m'invase e mi precipitai giù per quel [[motifs/garden|giardino]] come il [[motifs/wind|vento]], sfondando quella siepe come se fosse una ragnatela. Era una siepe davvero sottile, benché la sua intatta compostezza le avesse permesso di servire a tutti gli scopi d'un muro. Sulla riva trovai la roccia mobile caduta dal suo piedistallo; e il povero Harry Druce giaceva come un rottame là sotto. Un braccio le era gettato intorno in una sorta d'abbraccio, come se se l'avesse tirata addosso; e sull'ampia sabbia bruna accanto ad essa, in grandi lettere sconnesse, aveva scarabocchiato le parole: «La Rupe della Fortuna cade sullo Sciocco».»
+
+«Fu il testamento del colonnello a produrre tutto ciò», osservò [[characters/father-brown|Padre Brown]]. «Il giovane aveva puntato tutto sul trarre profitto dal disonore di Donald, specie quando lo zio lo mandò a chiamare lo stesso giorno dell'avvocato, e lo accolse con tanto calore. Altrimenti era rovinato; aveva perduto il posto in polizia; era ridotto sul lastrico a Monte Carlo. E si uccise quando scoprì d'aver ucciso il proprio congiunto per nulla.»
+
+«Un momento, si fermi!», gridò Fiennes con gli occhi sbarrati. «Va troppo in fretta per me.»
+
+«A proposito del testamento», proseguì con calma [[characters/father-brown|Padre Brown]], «prima che me ne dimentichi, o che passiamo a cose più grosse, c'era una spiegazione semplice, credo, di tutta quella faccenda del nome del dottore. Ho idea d'aver già sentito entrambi i nomi da qualche parte. Il dottore è in realtà un nobile francese col titolo di marchese de Villon. Ma è anche un ardente repubblicano e ha abbandonato il titolo, ripiegando sul dimenticato cognome di famiglia. «Col vostro Cittadino Riquetti avete tenuto in scacco l'Europa per dieci giorni.»»
+
+«Che cos'è?», chiese il giovane con aria smarrita.
+
+«Non importa», disse il prete. «Nove volte su dieci mutare il proprio nome è una cosa da mascalzoni; ma questo era un tratto di nobile [[concepts/fanaticism|fanatismo]]. È qui il senso del suo sarcasmo sugli Americani che non hanno nomi — cioè, titoli. Ora, in Inghilterra il marchese di Hartington non è mai chiamato signor Hartington; ma in Francia il marchese de Villon è chiamato M. de Villon. Sicché potrebbe [[motifs/well|ben]] sembrare un cambiamento di nome. Quanto ai discorsi sull'uccidere, ho idea che anche quello fosse un punto d'etichetta francese. Il dottore parlava di sfidare Floyd a duello, e la ragazza cercava di dissuaderlo.»
+
+«Oh, capisco», esclamò lentamente Fiennes. «Ora capisco che cosa intendeva.»
+
+«E di che si tratta?», chiese il compagno, sorridendo.
+
+«[[motifs/well|Be']]», disse il giovane, «è una cosa che mi accadde poco prima che trovassi il corpo di quel pover'uomo; solo che la catastrofe me la scacciò dalla mente. Immagino sia difficile ricordare un piccolo idillio romantico quando si è appena inciampati in una tragedia. Ma mentre scendevo per i viottoli che portano alla vecchia dimora del colonnello, incontrai sua figlia a passeggio col dottor Valentine. Era in lutto, s'intende, e lui vestiva sempre di nero come se andasse a un funerale; ma non posso dire che i loro volti fossero molto funerei. Mai ho visto due persone dall'aria, a modo loro, più dignitosamente raggiante e lieta. Si fermarono e mi salutarono, e poi lei mi disse che erano sposati e vivevano in una casetta ai margini della città, dove il dottore continuava a esercitare. La cosa mi sorprese piuttosto, perché sapevo che il testamento del suo vecchio padre le aveva lasciato le sue proprietà; e vi alludei con delicatezza dicendo che mi recavo appunto alla vecchia dimora del padre e mezzo m'aspettavo di incontrarla lì. Ma lei si limitò a ridere e disse: «Oh, abbiamo rinunciato a tutto ciò. A mio marito non piacciono le ereditiere.» E scoprii con una certa meraviglia che avevano davvero insistito per restituire le proprietà al povero Donald; sicché [[concepts/hope|spero]] che abbia avuto un sano scossone e la tratti con giudizio. Non c'è mai stato molto di male in lui, in fondo; era giovanissimo e suo padre non era molto saggio. Ma fu a proposito di ciò che lei disse una cosa che sul [[motifs/time|momento]] non compresi; ma ora sono sicuro che dev'essere come dice lei. Disse con una sorta d'improvvisa e splendida arroganza che era del tutto altruistica:
+
+«[[concepts/hope|Spero]] che ciò impedisca a quello [[archetypes/fool|sciocco]] dai capelli rossi di continuare a impicciarsi del testamento. Crede forse che mio marito, che ha rinunciato a uno stemma e a una corona antichi quanto le [[historical-references/crusades|Crociate]] per i suoi princìpi, ucciderebbe un vecchio in un padiglione [[motifs/summer|estivo]] per un lascito simile?» Poi rise di nuovo e disse: «Mio marito non uccide nessuno, se non per motivi professionali. Ma via, non ha neppure chiesto ai suoi amici di far visita al segretario.» Ora, s'intende, capisco che cosa intendeva.»
+
+«Capisco in parte che cosa intendeva, s'intende», disse [[characters/father-brown|Padre Brown]]. «Che cosa intendeva esattamente col segretario che s'impiccia del testamento?»
+
+Fiennes sorrise nel rispondere: «Vorrei che conoscesse il segretario, [[characters/father-brown|Padre Brown]]. Sarebbe una gioia per lei vederlo «far girare le cose», come dice lui. Fece girare la casa in lutto. Riempì il funerale di tutto lo scatto e la verve del più brillante evento sportivo. Non c'era modo di trattenerlo, dopo che qualcosa era davvero accaduto. Le ho raccontato come soprintendeva al giardiniere come faceva col [[motifs/garden|giardino]], e come istruiva l'avvocato in fatto di legge. Inutile dire che istruì anche il chirurgo nella pratica della chirurgia; e poiché il chirurgo era il dottor [[characters/valentine|Valentine]], potete star certi che finì con l'accusarlo di qualcosa di peggio della cattiva chirurgia. Il segretario si ficcò in quella sua testa rossa che il dottore avesse commesso il delitto, e quando arrivò la polizia fu perfettamente [[concepts/sublime|sublime]]. C'è bisogno che dica che divenne, su due piedi, il più grande di tutti gli investigatori dilettanti? Sherlock Holmes non torreggiò mai su Scotland Yard con più titanico [[concepts/pride|orgoglio]] intellettuale e sdegno di quanto facesse il segretario privato del colonnello Druce sulla polizia che indagava sulla [[motifs/death|morte]] del colonnello Druce. Le dico che era una gioia vederlo. Se ne andava a grandi passi con aria assorta, scuotendo la sua scarlatta cresta di capelli e dando risposte secche e impazienti. Naturalmente fu il suo contegno in quei giorni a rendere la figlia di Druce così esasperata con lui. Naturalmente aveva una teoria. È proprio il genere di teoria che uno avrebbe in un libro; e Floyd è il genere di uomo che dovrebbe stare in un libro. Sarebbe più divertente e meno seccante in un libro.»
+
+«Qual era la sua teoria?», chiese l'altro.
+
+«Oh, era piena di brio», rispose Fiennes con aria tetra. «Sarebbe stata una copia gloriosa, se avesse potuto reggere ancora dieci minuti. Diceva che il colonnello era ancora vivo quando lo trovarono nel padiglione, e che il dottore lo uccise con lo strumento chirurgico col pretesto di tagliargli i vestiti.»
+
+«Capisco», disse il prete. «Immagino giacesse bocconi sul pavimento di fango a mo' di siesta.»
+
+«È straordinario ciò che sa fare la frenesia», proseguì il suo informatore. «Credo che Floyd avrebbe comunque fatto arrivare la sua grande teoria sui giornali, e forse fatto arrestare il dottore, quando tutte queste cose furono fatte saltare in aria come per dinamite dalla scoperta di quel cadavere disteso sotto la Rupe della Fortuna. Ed è a questo che torniamo, dopotutto. Immagino che il suicidio sia quasi una confessione. Ma nessuno conoscerà mai l'intera storia.»
+
+Vi fu un silenzio, e poi il prete disse con modestia: «Credo piuttosto di conoscere l'intera storia.»
+
+Fiennes lo fissò. «Ma senta un po'», esclamò; «come mai lei conosce l'intera storia, o è sicuro che sia la storia vera? È rimasto seduto qui a cento miglia di distanza a scrivere un sermone; vuol dirmi che sa già davvero che cosa è accaduto? Se è davvero arrivato alla fine, da dove diamine comincia? Che cosa l'ha avviata con la sua storia?»
+
+[[characters/father-brown|Padre Brown]] balzò in piedi con un'eccitazione assai insolita, e la sua prima esclamazione fu come un'esplosione.
+
+«Il cane!», gridò. «Il cane, naturalmente! Aveva l'intera storia fra le mani nella faccenda del cane sulla spiaggia, se solo avesse osservato il cane come si deve.»
+
+Fiennes lo fissò ancor più. «Ma prima mi ha detto che le mie sensazioni sul cane erano tutte sciocchezze, e che il cane non c'entrava nulla.»
+
+«Il cane c'entrava in tutto», disse [[characters/father-brown|Padre Brown]], «come avrebbe scoperto se solo avesse trattato il cane come un cane, e non come Dio Onnipotente che giudica le anime degli uomini.»
+
+S'interruppe imbarazzato per un momento, e poi disse, con un'aria di scusa piuttosto patetica: «La [[concepts/truth|verità]] è che mi capita d'essere terribilmente affezionato ai cani. E mi pareva che, in tutto questo lurido alone di superstizioni canine, nessuno pensasse davvero al povero cane. Per cominciare da un piccolo particolare, quello del suo abbaiare all'avvocato o ringhiare al segretario. Lei mi ha chiesto come potessi indovinare le cose a cento miglia di distanza; ma onestamente è merito soprattutto suo, perché ha descritto le persone così [[motifs/well|bene]] che ne riconosco i tipi. Un uomo come Traill, che di solito corruga la fronte e sorride d'improvviso, un uomo che gingilla con gli oggetti, specie alla gola, è un uomo nervoso, facile all'imbarazzo. Non mi [[concepts/wonder|stupirei]] se anche Floyd, l'efficiente segretario, fosse nervoso e scattante; quegli affannati yankee spesso lo sono. Altrimenti non si sarebbe tagliato le dita sulle cesoie lasciandole cadere quando udì Janet Druce gridare.
+
+«Ora, i cani detestano le persone nervose. Non so se siano esse a rendere nervoso anche il cane; o se, essendo dopotutto una bestia, egli sia un po' un prepotente; o se la sua vanità canina (che è colossale) resti semplicemente offesa dal non essere amata. Ma comunque non c'era altro, nel povero Nox che protestava contro quelle persone, se non che le detestava perché avevano paura di lui. Ora, so che lei è terribilmente intelligente, e nessuna persona di buon senso irride all'intelligenza. Ma a volte immagino, per esempio, che lei sia troppo intelligente per capire gli animali. A volte è troppo intelligente per capire gli uomini, specie quando agiscono quasi con la stessa semplicità degli animali. Gli animali sono molto letterali; vivono in un mondo di truismi. Prenda questo caso: un cane abbaia a un uomo e un uomo fugge da un cane. Ora, lei non sembra abbastanza semplice da vedere il fatto: che il cane abbaiò perché l'uomo gli era antipatico e l'uomo fuggì perché aveva paura del cane. Non avevano altri moventi e non ne avevano bisogno; ma lei deve leggervi dentro misteri psicologici e supporre che il cane avesse una vista sovrannaturale e fosse un misterioso portavoce del destino. Deve supporre che l'uomo stesse fuggendo non dal cane, ma dal boia. Eppure, se ci pensa bene, tutta questa psicologia più profonda è oltremodo improbabile. Se il cane avesse potuto davvero, in modo completo e consapevole, riconoscere l'assassino del suo padrone, non se ne starebbe a guaire come farebbe con un curato a un ricevimento; è molto più probabile che gli sarebbe volato alla gola. E d'altra parte, crede davvero che un uomo che aveva indurito il cuore fino ad assassinare un vecchio amico e poi a passeggiare sorridente fra la famiglia del vecchio amico, sotto gli occhi della figlia del vecchio amico e del medico legale — crede che un uomo simile si piegherebbe in due per il puro rimorso perché un cane ha abbaiato? Potrebbe sentirne la tragica ironia; potrebbe scuotergli l'anima, come qualsiasi altra tragica inezia. Ma non si precipiterebbe come un pazzo per tutta la lunghezza d'un giardino per sfuggire all'unico testimone che sapeva incapace di parlare. La gente ha un panico simile quando ha paura non delle tragiche ironie, ma dei denti. L'intera faccenda è più semplice di quanto lei sappia comprendere.
+
+«Ma quando arriviamo a quella faccenda in riva al mare, le cose sono molto più interessanti. Come lei le ha esposte, erano molto più sconcertanti. Non capivo quel racconto del cane che entrava e usciva dall'[[motifs/water|acqua]]; non mi pareva una cosa da cane. Se Nox fosse stato molto turbato per qualcos'altro, avrebbe forse potuto rifiutarsi del tutto di andare a prendere il bastone. Probabilmente sarebbe andato a fiutare in qualunque direzione sospettasse il guaio. Ma una volta che un cane sta davvero inseguendo qualcosa, un sasso o un bastone o un coniglio, la mia esperienza è che non si ferma per nulla, se non per l'ordine più perentorio, e non sempre neppure per quello. Che si voltasse perché il suo umore era cambiato mi pare impensabile.»
+
+«Eppure si voltò», insisté Fiennes; «e tornò senza il bastone.»
+
+«Tornò senza il bastone per la migliore ragione del mondo», replicò il prete. «Tornò perché non riusciva a trovarlo. Guaì perché non riusciva a trovarlo. È proprio il genere di cosa per cui un cane davvero guaisce. Un cane è un ritualista indiavolato. È scrupoloso sulla precisa routine d'un gioco come un [[archetypes/child|bambino]] sulla precisa ripetizione d'una fiaba. In questo caso qualcosa nel gioco era andato storto. Tornò a lamentarsi seriamente della condotta del bastone. Mai era accaduta una cosa simile. Mai un cane eminente e distinto era stato trattato così da un marcio vecchio bastone da passeggio.»
+
+«Ma perché, che cosa aveva fatto il bastone da passeggio?», domandò il giovane.
+
+«Era affondato», disse [[characters/father-brown|Padre Brown]].
+
+Fiennes non disse nulla, ma continuò a fissarlo; e fu il prete a proseguire: «Era affondato perché non era in realtà un bastone, ma una verga d'acciaio con un sottilissimo guscio di canna e una punta aguzza. In altre parole, era un bastone animato. Immagino che un assassino non si sbarazzi mai d'un'arma insanguinata in modo così bizzarro e insieme così naturale come gettandola in mare per un retriever.»
+
+«Comincio a capire che cosa intende», ammise Fiennes; «ma anche se fu usato un bastone da spada, non ho idea di come sia stato usato.»
+
+«Ne ebbi una specie d'intuizione», disse Padre Brown, «proprio all'inizio, quando lei disse le parole «padiglione [[motifs/summer|estivo]]». E un'altra quando disse che Druce indossava una giacca bianca. Finché tutti cercavano un corto pugnale, nessuno vi pensò; ma se ammettiamo una lama piuttosto lunga come uno stocco, non è poi così impossibile.»
+
+Se ne stava reclinato all'indietro, guardando il soffitto, e cominciò come chi risale ai propri primi pensieri e ai fondamenti.
+
+«Tutta quella discussione sui romanzi polizieschi come La Camera Gialla, su un uomo trovato morto in stanze sigillate in cui nessuno poteva entrare, non si applica al caso presente, perché si tratta d'un padiglione estivo. Quando parliamo d'una Camera Gialla, o d'una qualsiasi stanza, sottintendiamo pareti davvero omogenee e impenetrabili. Ma un padiglione estivo non è fatto così; è fatto spesso, com'era in questo caso, di rami intrecciati fitti ma separati e di strisce di legno, in cui qua e là ci sono delle fessure. Ce n'era una proprio dietro la schiena di Druce mentre sedeva sulla sua poltrona addossato alla parete. Ma come la stanza era un padiglione estivo, così la poltrona era una poltrona di vimini. Anch'essa era un intreccio di feritoie. Infine, il padiglione era addossato alla siepe; e lei mi ha appena detto che era una siepe davvero sottile. Un uomo fermo all'esterno avrebbe potuto facilmente scorgere, in mezzo a una rete di ramoscelli e rami e canne, una macchia bianca della giacca del colonnello, netta come il bianco d'un bersaglio.
+
+«Ora, lei ha lasciato la geografia un po' vaga; ma era possibile fare due più due. Ha detto che la Rupe della Fortuna non era in realtà alta; ma ha detto anche che la si vedeva dominare il [[motifs/garden|giardino]] come una vetta di montagna. In altre parole, era assai vicina alla fine del [[motifs/garden|giardino]], benché la vostra passeggiata vi avesse portati a farne un lungo giro. Inoltre, non è probabile che la giovane signora abbia davvero urlato tanto da farsi udire a mezzo miglio. Emise un ordinario grido involontario, eppure lei lo udì sulla riva. E fra le altre cose interessanti che mi ha raccontato, posso rammentarle che ha detto come Harry Druce fosse rimasto indietro ad accendere la pipa sotto una siepe.»
+
+Fiennes rabbrividì lievemente. «Vuol dire che estrasse lì la sua lama e la spinse attraverso la siepe verso la macchia bianca. Ma di certo fu un caso ben strano e una scelta ben improvvisa. Del resto, non poteva essere sicuro che il denaro del vecchio fosse passato a lui, e di fatto non era così.»
+
+Il volto di Padre Brown si animò. «Lei fraintende il carattere dell'uomo», disse, come se egli stesso avesse conosciuto quell'uomo tutta la vita. «Un tipo di carattere curioso ma non ignoto. Se avesse davvero saputo che il denaro sarebbe toccato a lui, credo sul serio che non l'avrebbe fatto. L'avrebbe vista per la cosa sordida che era.»
+
+«Non è piuttosto paradossale?», chiese l'altro.
+
+«Quest'uomo era un giocatore d'azzardo», disse il prete, «e un uomo in disgrazia per aver corso rischi e anticipato ordini. Fu probabilmente per qualcosa di alquanto spregiudicato, perché ogni polizia imperiale somiglia più a una polizia segreta russa di quanto ci piaccia pensare. Ma aveva oltrepassato il segno ed era fallito. Ora, la [[concepts/temptation|tentazione]] di quel tipo d'uomo è di fare una cosa folle proprio perché il rischio, a ripensarci, sarà mirabile. Vuole poter dire: «Nessuno tranne me avrebbe potuto cogliere quell'occasione, o vedere che era allora o mai più. Che azzardo sfrenato e mirabile fu, quando misi insieme tutte quelle cose: Donald in disgrazia; e l'avvocato mandato a chiamare; e Herbert e io mandati a chiamare nello stesso momento — e poi nient'altro che il modo in cui il vecchio mi sogghignò e mi strinse la mano. Chiunque direbbe che ero pazzo a rischiare; ma è così che si fanno le fortune, dall'uomo abbastanza pazzo da avere un po' di preveggenza.» In breve, è la vanità dell'indovinare. È la megalomania del giocatore. Più incongrua è la coincidenza, più istantanea la decisione, più è probabile che egli afferri l'occasione. Il caso, la stessa banalità della macchia bianca e del buco nella siepe l'inebriò come una visione del desiderio del mondo. Nessuno abbastanza intelligente da scorgere una simile combinazione di casi poteva essere abbastanza vile da non servirsene! È così che il diavolo parla al giocatore. Ma il diavolo stesso ben difficilmente avrebbe indotto quell'infelice a scendere in modo scialbo e deliberato a uccidere un vecchio zio dal quale aveva sempre avuto aspettative. Sarebbe stato troppo rispettabile.»
+
+S'interruppe un momento, e poi proseguì con una certa quieta enfasi.
+
+«E ora provi a rievocare la scena, così come lei stesso la vide. Mentre stava lì, stordito dalla sua diabolica opportunità, alzò lo sguardo e vide quello strano profilo che avrebbe potuto essere l'immagine della sua stessa [[motifs/soul|anima]] vacillante; l'unico grande masso poggiato pericolosamente sull'altro come una piramide sulla punta, e ricordò che si chiamava la Rupe della Fortuna. Riesce a indovinare come un uomo simile, in un momento simile, leggerebbe un simile segnale? Credo che lo esaltasse all'azione e persino alla vigilanza. Chi vuol essere una torre non deve [[concepts/fear|temere]] d'essere una torre traballante. Comunque, agì; la difficoltà successiva era coprire le proprie tracce. Essere trovato con un bastone da spada, per non dire con un bastone da spada macchiato di [[motifs/blood|sangue]], sarebbe stato fatale nella perquisizione che di certo sarebbe seguita. Se l'avesse lasciato in qualche luogo, sarebbe stato trovato e probabilmente rintracciato. Anche gettandolo in mare, l'atto avrebbe potuto essere notato, e ritenuto degno di nota — a meno che davvero non gli venisse in mente un modo più naturale di mascherare l'atto. Come lei sa, un modo gliene venne, e assai buono. Essendo l'unico di voi con un orologio, vi disse che non era ancora [[motifs/time|ora]] di rientrare, si spinse un poco oltre, e cominciò il gioco di gettare bastoni per il retriever. Ma come devono avergli roteato cupamente gli occhi su tutta quella desolata riva marina prima di posarsi sul cane!»
+
+Fiennes annuì, fissando pensieroso nel vuoto. La sua mente pareva essere tornata a una parte meno pratica del racconto.
+
+«È strano», disse, «che il cane fosse davvero nella storia, dopotutto.»
+
+«Il cane avrebbe quasi potuto raccontarle la storia, se avesse saputo parlare», disse il prete. «Tutto ciò di cui mi lagno è che, poiché non sapeva parlare, lei gli inventò la storia al posto suo, e lo fece parlare con le lingue degli uomini e degli angeli. È parte di qualcosa che ho notato sempre più nel mondo moderno, che affiora in ogni sorta di dicerie giornalistiche e di slogan da conversazione; qualcosa di arbitrario senza essere autorevole. La gente [[motifs/swallow|inghiotte]] prontamente le pretese non verificate di questo, di quello e di quell'altro. Sta annegando tutto il vostro vecchio razionalismo e scetticismo, sta montando come un mare; e il suo nome è superstizione.» Si alzò bruscamente, il volto grave d'una sorta d'accigliamento, e proseguì a parlare quasi come se fosse solo. «È il primo effetto del non credere in Dio, che si perde il buon senso e non si riescono a vedere le cose come sono. Qualunque cosa di cui uno parli, dicendo che c'è del buono in essa, si dilata indefinitamente come una prospettiva in un incubo. E un cane è un presagio, e un gatto è un mistero, e un maiale è un portafortuna, e uno scarabeo è uno scarabeo sacro, che evoca tutto il serraglio del politeismo dall'Egitto e dall'antica India; il Cane Anubi e la grande Pasht dagli occhi verdi e tutti i sacri muggenti Tori di Basan; ruzzolando all'indietro verso le bestiali divinità del principio, sfuggendo in elefanti e serpenti e coccodrilli; e tutto perché avete paura di quattro parole:
+
+«Si fece Uomo».»
+
+Il giovane si alzò con un lieve imbarazzo, quasi avesse origliato un soliloquio. Chiamò il cane e lasciò la stanza con vaghi ma spigliati saluti. Ma dovette chiamare il cane due volte, perché il cane era rimasto indietro del tutto immobile per un momento, guardando fisso in su verso [[characters/father-brown|Padre Brown]] come il lupo guardò san Francesco.
+
+QUATTRO: Il miracolo di [[motifs/moon|Moon]] Crescent
+
+[[motifs/moon|MOON]] CRESCENT era destinato, in un certo senso, a essere romantico quanto il suo nome;
+e le cose che vi accaddero furono, a modo loro, abbastanza romantiche.
+
+Almeno era stato l'espressione di quel genuino elemento
+di sentimento — storico e quasi eroico — che riesce
+a sopravvivere fianco a fianco con il mercantilismo nelle città più antiche
+della costa orientale d'[[settings/america|America]]. In origine era una curva
+di architettura classica che davvero rievocava quell'atmosfera del
+Settecento in cui uomini come Washington e Jefferson
+sembravano tanto più repubblicani quanto più erano aristocratici.
+I viaggiatori, messi di fronte alla ricorrente domanda di che cosa pensassero
+della nostra [[motifs/city|città]], erano ritenuti specialmente responsabili di ciò che
+pensavano del nostro [[motifs/moon|Moon]] Crescent. Gli stessi contrasti che confondono
+la sua armonia originaria erano caratteristici della sua [[concepts/survival|sopravvivenza]].
+A un'estremità, o corno, della mezzaluna le ultime finestre
+davano su un recinto simile a una striscia del parco di un gentiluomo,
+con alberi e siepi formali come un [[motifs/garden|giardino]] alla [[characters/queen|Queen]] Anne.
+Ma subito dietro l'angolo, le altre finestre, perfino
+delle medesime stanze, o piuttosto «appartamenti», si affacciavano sul muro cieco
+e disadorno di un enorme magazzino annesso a qualche brutta industria.
+Gli appartamenti di Moon Crescent stessi, a quel capo, erano stati rimodellati
+sul monotono schema di un albergo americano, e si innalzavano fino a
+un'altezza che, pur essendo inferiore al colossale magazzino, sarebbe
+stata chiamata un grattacielo a Londra. Ma il colonnato che correva
+lungo tutta la facciata sulla strada aveva una solennità grigia e scolorita
+dalle intemperie, tale da suggerire che i fantasmi dei Padri
+della Repubblica potessero ancora passeggiarvi avanti e indietro.
+L'interno delle stanze, tuttavia, era lindo e nuovo quanto potevano renderlo
+gli ultimi arredi newyorkesi, specialmente all'estremità settentrionale,
+tra il lindo giardino e il muro cieco del magazzino.
+Erano un sistema di appartamentini piccolissimi, come diremmo noi in Inghilterra,
+ciascuno composto di un salotto, una camera da letto e un bagno,
+identici come le cento cellette di un alveare. In uno di essi
+il celebre Warren Wynd sedeva alla sua scrivania a smistare lettere
+e a diramare ordini con mirabile rapidità ed esattezza.
+Non lo si poteva paragonare che a un ordinato turbine.
+
+Warren Wynd era un uomo piccolissimo, dai radi capelli grigi
+e dalla barba a punta, apparentemente fragile ma di ardente attività.
+Aveva occhi assai straordinari, più luminosi delle stelle e più forti
+delle calamite, che nessuno di quanti li avevano visti poteva
+facilmente dimenticare. E in effetti, nel suo lavoro di riformatore e regolatore
+di molte opere buone, aveva mostrato per lo meno di avere un paio
+di occhi in testa. Si raccontavano ogni sorta di storie e perfino di leggende
+sulla miracolosa rapidità con cui sapeva
+formulare un giudizio fondato, specialmente sul carattere umano.
+Si diceva che avesse scelto la moglie, che lavorò con lui così a lungo
+in modo così caritatevole, individuandola in tutto un reggimento
+di donne in uniforme che sfilavano a qualche celebrazione ufficiale,
+alcuni dicevano delle Girl Guides e altri della Polizia Femminile.
+Un'altra storia si narrava di come tre vagabondi, indistinguibili
+l'uno dall'altro nella comune sozzura e nei comuni stracci,
+si fossero presentati davanti a lui a chiedere l'elemosina.
+Senza un attimo di esitazione ne aveva mandato uno a un
+particolare ospedale dedicato a un certo disturbo nervoso,
+aveva raccomandato il secondo a un istituto per alcolizzati, e aveva assunto
+il terzo, con un lauto stipendio, come proprio domestico privato,
+posizione che quello ricoprì con successo per anni a venire.
+C'erano, naturalmente, gli inevitabili aneddoti sulle sue pronte
+critiche e sulle sue secche battute quando veniva a contatto
+con Roosevelt, con Henry Ford, e con la signora Asquith
+e con tutte le altre persone con cui un uomo pubblico americano deve
+avere un colloquio storico, non fosse che sui giornali.
+Certamente non era tipo da lasciarsi intimidire da simili personaggi;
+e nel momento qui in questione egli proseguiva con grande calma
+il suo centrifugo turbinare di carte, benché l'uomo che gli stava di fronte
+fosse un personaggio di importanza quasi pari alla sua.
+
+Silas T. Vandam, il milionario e magnate del petrolio, era un uomo asciutto
+dal lungo volto giallastro e dai capelli nero-bluastri, colori che risultavano
+tanto meno cospicui quanto in qualche modo più sinistri perché il suo volto
+e la sua figura si stagliavano scuri contro la finestra e il bianco muro del magazzino
+là fuori; era abbottonato ben stretto in un elegante soprabito
+con bordi di astrakan. Il volto ansioso e gli occhi brillanti di Wynd,
+invece, erano nella piena luce dell'altra finestra, quella che
+dava sul giardinetto, poiché la sua sedia e la sua scrivania le stavano di fronte;
+e benché il volto fosse assorto, non sembrava indebitamente assorto
+a proposito del milionario. Il valletto, ossia il domestico personale di Wynd, un uomo grande
+e vigoroso dai capelli biondi e lisci, stava in piedi dietro la scrivania del padrone
+reggendo un mazzo di lettere; e il segretario privato di Wynd, un giovane lindo, dai
+capelli rossi e dal volto acuto, aveva già la mano sulla maniglia della porta,
+come indovinando qualche intenzione o obbedendo a qualche gesto del suo datore di lavoro.
+La stanza non era soltanto linda, ma austera fino al punto di parere vuota;
+poiché Wynd, con la sua caratteristica meticolosità, aveva affittato l'intero
+piano di sopra e l'aveva trasformato in un soppalco o ripostiglio, dove tutte le sue
+altre carte e cose erano ammucchiate in casse e balle legate con corde.
+
+«Dia queste all'impiegato di piano, Wilson», disse Wynd al domestico
+che reggeva le lettere, «e poi mi porti l'opuscolo sui
+Night Clubs di Minneapolis; lo troverà nel fascio contrassegnato con la «G».
+Mi servirà tra mezz'ora, ma non mi disturbi fino allora.
+[[motifs/well|Ebbene]], signor Vandam, credo che la sua proposta suoni molto promettente;
+ma non posso darle una risposta definitiva finché non avrò visto la relazione.
+Dovrebbe arrivarmi domani pomeriggio, e le telefonerò subito.
+Mi spiace di non poter dire nulla di più preciso per il momento.»
+
+Il signor Vandam parve sentire che questo somigliava a un cortese congedo;
+e il suo volto giallastro e saturnino lasciava intendere che vi trovava una certa ironia.
+
+«Bene, suppongo che debba andare», disse.
+
+«Molto gentile da parte sua a essere passato, signor Vandam», disse Wynd, cortese;
+«mi scuserà se non l'accompagno fuori, ma ho qui una cosa che
+devo sistemare all'istante. Fenner», aggiunse rivolto al segretario,
+«accompagni il signor Vandam alla sua automobile, e non tornare per mezz'ora.
+Ho qui una cosa che voglio risolvere da solo;
+dopo di che avrò bisogno di te.»
+
+I tre uomini uscirono insieme nel corridoio, chiudendosi la porta
+alle spalle. Wilson, il grosso domestico, imboccava il corridoio
+in direzione dell'impiegato di piano, mentre gli altri due si muovevano
+nella direzione opposta, verso l'ascensore; giacché l'appartamento di Wynd
+era là in alto, al quattordicesimo piano. Non si erano allontanati d'una
+iarda dalla porta chiusa quando s'accorsero che il corridoio
+era invaso da una figura incedente e persino magnifica.
+L'uomo era altissimo e dalle larghe spalle, e la sua mole appariva
+tanto più cospicua per essere ammantata di bianco, o d'un grigio chiaro
+che gli somigliava, con un panama bianco assai largo e una frangia
+o aureola quasi altrettanto larga di capelli quasi altrettanto bianchi.
+Incastonato in quell'aureola, il suo volto era forte e bello, come quello
+d'un imperatore romano, salvo che v'era qualcosa di più che fanciullesco,
+qualcosa d'un poco puerile, nel fulgore dei suoi occhi
+e nella beatitudine del suo sorriso. «C'è il signor Warren Wynd?» domandò,
+con tono cordiale.
+
+«Il signor Warren Wynd è occupato», disse Fenner; «non deve essere disturbato per
+nessuna ragione. Le dirò che sono il suo segretario e posso riferire qualunque messaggio.»
+
+«Il signor Warren Wynd non riceve né il Papa né le Teste Coronate»,
+disse Vandam, il magnate del petrolio, con acida ironia. «Il signor Warren Wynd
+è terribilmente schizzinoso. Sono entrato là dentro per consegnargli una bazzecola
+di ventimila dollari a certe condizioni, e lui mi ha detto
+di ripassare, come se io fossi un fattorino.»
+
+«È una bella cosa essere un ragazzo», disse lo sconosciuto, «e più bella
+ancora avere una vocazione; e io ho una chiamata che lui non potrà non ascoltare.
+È la chiamata del grande, buon paese laggiù nell'Ovest, dove il vero
+americano si viene forgiando mentre voialtri ve ne state a russare. Ditegli soltanto
+che Art Alboin di Oklahoma [[motifs/city|City]] è venuto a convertirlo.»
+
+«Le ripeto che nessuno può vederlo», disse tagliente il segretario dai capelli rossi.
+«Ha dato ordine di non essere disturbato per mezz'ora.»
+
+«Voialtri dell'Est siete tutti contro il farvi disturbare»,
+disse il gioviale signor Alboin, «ma calcolo che sta montando un gran
+vento laggiù nell'Ovest che vi dovrà pur disturbare.
+Lui sta lì a calcolare quanto denaro deve andare a questa e a quella
+soffocante vecchia religione; ma io le dico che qualunque piano [[motifs/leaves|escluda]]
+il nuovo movimento del Grande Spirito nel Texas e nell'Oklahoma
+esclude la religione dell'avvenire.»
+
+«Oh, li ho già soppesati io codesti culti dell'avvenire», disse il
+milionario, con disprezzo. «Li ho passati al pettine fitto
+e sono rognosi come cani gialli. C'era quella donna che si faceva
+chiamare Sophia: avrebbe dovuto chiamarsi Saffira, mi sa.
+Una frode bell'e buona. Fili legati a tutti i tavolini e ai tamburelli.
+Poi c'era la combriccola della Vita Invisibile; dicevano di potersi far dileguare
+a piacere, e si dileguarono davvero, e centomila
+dei miei dollari si dileguarono con loro. Conobbi Giove Gesù laggiù a Denver;
+lo frequentai per settimane intere; ed era soltanto un truffatore volgare.
+Come lo era il [[archetypes/prophet|Profeta]] della Patagonia; ci scommetto che è filato a gambe in Patagonia.
+No, ho chiuso con tutta questa roba; d'ora in poi credo solo a ciò che vedo.
+Credo che lo chiamino essere ateo.»
+
+«Mi sa che m'ha frainteso», disse l'uomo dell'Oklahoma,
+quasi con foga. «Mi sa che sono ateo tanto quanto lei.
+Niente roba [[motifs/supernatural|soprannaturale]] o superstiziosa nel nostro movimento;
+soltanto pura scienza. L'unica vera, giusta scienza è la salute,
+e l'unica vera, giusta salute è il respiro.
+Riempitevi i polmoni dell'aria sconfinata della prateria e potreste
+soffiar via nel mare tutte le vostre vecchie città dell'Est.
+Potreste sbuffar via i vostri uomini più grandi come lanugine di cardo.
+Ecco cosa facciamo nel nuovo movimento laggiù a [[motifs/home|casa]]: respiriamo.
+Non preghiamo; respiriamo.»
+
+«Be', immagino di sì», disse il segretario, con stanchezza. Aveva un volto acuto,
+intelligente, che a stento riusciva a celare la stanchezza; ma aveva
+ascoltato i due monologhi con quell'ammirevole pazienza e cortesia
+(così in contrasto con le leggende d'impazienza e insolenza)
+con cui simili monologhi vengono ascoltati in America.
+
+«Niente di [[motifs/supernatural|soprannaturale]]», proseguì Alboin, «soltanto il grande
+fatto naturale che sta dietro a tutte le fantasie soprannaturali. Che se ne facevano gli Ebrei
+d'un Dio, se non per soffiare nelle narici dell'uomo il soffio della vita?
+Noi ce lo soffiamo da noi, nelle nostre narici, laggiù in Oklahoma.
+Che significa infatti la parola stessa Spirito? Non è che il greco
+per esercizi di respirazione. Vita, progresso, profezia: è tutto respiro.»
+
+«C'è chi direbbe che è tutto [[motifs/wind|vento]]», disse Vandam; «ma sono contento
+che tu ti sia sbarazzato della trovata della divinità, in ogni caso.»
+
+Il volto acuto del segretario, piuttosto pallido contro i capelli rossi,
+tradì un guizzo di qualche strano sentimento, indizio d'un'amarezza segreta.
+
+«Io non sono contento», disse, «sono soltanto certo. A voi pare che piaccia essere atei;
+sicché forse credete semplicemente a ciò che vi piace credere. Ma. Vorrei
+per Dio che ci fosse un Dio; e non c'è. È proprio la mia fortuna.»
+
+Senza un suono né un moto, in quell'istante s'avvidero tutti, con un brivido
+quasi sinistro, che il gruppo fermo davanti alla porta
+di Wynd era silenziosamente cresciuto da tre figure a quattro.
+Da quanto la quarta figura fosse là ritta, nessuno di quei ferventi
+disputanti avrebbe saputo dirlo, ma aveva tutta l'aria di aspettare
+rispettosamente, e persino timidamente, l'occasione di dire
+qualcosa d'urgente. Alla loro sensibilità già scossa, tuttavia, parve
+ch'egli fosse spuntato d'improvviso e in silenzio come un fungo.
+E in effetti somigliava piuttosto a un grosso fungo nero,
+poiché era assai basso e la sua piccola, tozza figura era eclissata
+dal suo grande, nero cappello ecclesiastico; la somiglianza sarebbe stata
+ancor più compiuta se i funghi avessero l'abitudine di portare ombrelli,
+foss'anche d'una specie lisa e sformata.
+
+Fenner, il segretario, provò una curiosa sorpresa in più
+riconoscendo la figura d'un prete; ma quando il prete sollevò
+un volto tondo di sotto il tondo cappello e domandò con candore del signor Warren Wynd,
+gli diede la consueta risposta negativa in modo ancor più brusco di prima.
+Ma il prete non si mosse d'un passo.
+
+«Desidero davvero vedere il signor Wynd», disse.
+«Sembra strano, ma è proprio questo che desidero fare.
+Non voglio parlargli. Voglio soltanto vederlo.
+Voglio soltanto vedere se è là, da poter esser visto.»
+
+«[[motifs/well|Beh]], vi dico che è là e che non lo si può vedere», disse Fenner, con crescente irritazione. «Che intendete quando dite di voler vedere se è là da vedere? Certo che è là. L'abbiamo lasciato tutti lì cinque minuti fa, e da allora siamo rimasti fuori da questa porta.»
+
+«[[motifs/well|Beh]], voglio vedere se sta bene», disse il prete.
+
+«Perché?» domandò il segretario, esasperato. «Perché ho una ragione seria, direi solenne», disse il chierico, con gravità, «per dubitare che stia bene.»
+
+«Oh, Signore!» gridò Vandam, in una specie di furia; «non altre superstizioni.»
+
+«Vedo che dovrò esporre le mie ragioni», osservò il piccolo chierico, con gravità. «Suppongo di non poter pretendere che mi lasciate nemmeno sbirciare dalla fessura di una porta prima che vi abbia raccontato tutta la storia.» Rimase un istante in silenzio, come assorto, e poi riprese senza badare ai volti attoniti che lo circondavano. «Passeggiavo là fuori, lungo la facciata del colonnato, quando vidi un uomo assai cencioso correre a rotta di collo doppiando l'angolo in fondo alla mezzaluna. Venne avanti a gran passi sul marciapiede verso di me, rivelando una figura ossuta e massiccia e un volto che conoscevo. Era il volto di un focoso irlandese che un tempo avevo un poco aiutato; non vi dirò il suo nome. Quando mi scorse barcollò, chiamandomi per nome e dicendo: "Santi del cielo, è [[characters/father-brown|Father Brown]]; siete l'unico uomo il cui volto potrebbe farmi paura, oggi."
+
+«Capii che intendeva d'aver commesso qualche follia o l'altra, e non credo che il mio volto lo spaventasse granché, perché di lì a poco già me ne parlava. Ed era una faccenda ben strana. Mi chiese se conoscessi Warren Wynd, e risposi di no, benché sapessi che abitava vicino alla cima di questi appartamenti. Disse: "È un uomo che si crede un santo di Dio; ma se sapesse ciò che vado dicendo di lui, dovrebbe esser pronto a impiccarsi." E ripeté più volte, istericamente: "Sì, pronto a impiccarsi." Gli domandai se avesse fatto del male a Wynd, e la sua risposta fu piuttosto singolare. Disse: "Ho preso una [[characters/pistol|pistola]] e non l'ho caricata né a pallini né a pallottola, ma soltanto con una maledizione." Per quanto potei capire, tutto ciò che aveva fatto era stato scendere in quel vicoletto tra questo edificio e il grande magazzino, con una vecchia [[characters/pistol|pistola]] caricata a salve, e semplicemente [[motifs/fire|scaricarla]] contro il muro, come se ciò dovesse far crollare l'edificio. "Ma mentre lo facevo", disse, "lo maledissi con la grande maledizione: che la giustizia di Dio lo afferrasse per i capelli e la vendetta dell'inferno per i calcagni, e che fosse dilaniato come Giuda e il mondo non sapesse più di lui."
+
+«Ebbene, non importa ora che altro dissi al povero pazzo; se ne andò un poco rasserenato, e io girai sul retro dell'edificio per ispezionare. E difatti, nel vicoletto ai piedi di questo muro giaceva una pistola arrugginita e antiquata; me ne intendo abbastanza di pistole per sapere che era stata caricata soltanto con un po' di polvere: c'erano i segni neri della polvere e del fumo sul muro, e perfino l'impronta della bocca da fuoco, ma neppure l'ammaccatura d'una pallottola. Non aveva lasciato traccia di distruzione; non aveva lasciato traccia di nulla, tranne quei segni neri e quella nera maledizione che aveva scagliato verso il cielo. Così sono tornato qui a chiedere di questo Warren Wynd e a scoprire se sta bene.»
+
+Penner, il segretario, rise. «Posso risolvervi in un attimo questa difficoltà. Vi assicuro che sta benissimo; l'abbiamo lasciato che scriveva alla sua scrivania appena pochi minuti fa. Era solo nel suo appartamento; sta a cento piedi dalla strada, e collocato in modo tale che nessun colpo avrebbe potuto raggiungerlo, anche se il vostro amico non avesse sparato a salve. Non v'è altro ingresso a questo luogo se non questa porta, e noi le siamo rimasti davanti da allora.»
+
+«Ciò nondimeno», disse Father Brown, con gravità, «vorrei dare un'occhiata dentro e vedere.»
+
+«Beh, non potete», ribatté l'altro. «Buon Dio, non vorrete dirmi che date qualche peso alla maledizione.»
+
+«Dimenticate», disse il milionario, con un lieve ghigno, «che l'intero mestiere del reverendo signore sono le benedizioni e le maledizioni. Suvvia, signore, se è stato maledetto all'inferno, perché non lo ribenedite? A che valgono le vostre benedizioni, se non riescono a battere la maledizione d'un monellaccio irlandese?»
+
+«C'è ancora qualcuno che crede a simili cose, oggi?» protestò l'uomo dell'Ovest.
+
+«[[characters/father-brown|Father Brown]] crede a un buon numero di cose, a quanto pare», disse Vandam, il cui umore [[concepts/suffering|soffriva]] per lo smacco di poco prima e per l'attuale battibecco. «[[characters/father-brown|Father Brown]] crede che un eremita abbia attraversato un [[motifs/river|fiume]] su un coccodrillo evocato dal nulla, e che poi abbia ordinato al coccodrillo di morire, e quello morì sul serio. [[characters/father-brown|Father Brown]] crede che un qualche beato santo o l'altro sia morto, e che il suo [[concepts/body|corpo]] morto sia stato tramutato in tre corpi morti, da spartirsi fra tre parrocchie tutte accanite nel volersi figurare come la sua [[motifs/home|città natale]]. [[characters/father-brown|Father Brown]] crede che un santo abbia appeso il proprio mantello a un raggio di sole, e che un altro se ne sia servito come barca per [[motifs/cross|attraversare]] l'Atlantico. [[characters/father-brown|Father Brown]] crede che il sacro asino avesse sei zampe e che la casa di Loreto abbia volato per l'aria. Crede in centinaia di vergini di pietra che ammiccano e lacrimano tutto il giorno. Per lui è cosa da nulla credere che un uomo possa fuggire attraverso il buco della serratura o svanire da una stanza chiusa a chiave. Direi che non fa gran conto delle leggi della [[concepts/nature|natura]].»
+
+«Comunque sia, io devo far conto delle leggi di Warren Wynd», disse il segretario, stancamente, «ed è sua regola che lo si lasci solo quando lo comanda. Wilson vi dirà esattamente lo stesso», giacché il corpulento domestico che era stato mandato a prendere l'opuscolo passò placidamente lungo il corridoio proprio mentre egli parlava, recando l'opuscolo, ma oltrepassando serenamente la porta. «Andrà a sedersi sulla panca accanto all'impiegato di piano e si girerà i pollici finché non sarà richiesto; ma non entrerà prima d'allora; e nemmeno io lo farò. Direi che sappiamo entrambi da che parte è imburrato il nostro pane, e ci vorrebbe un bel po' dei santi e degli angeli di Father Brown per farcelo dimenticare.»
+
+«Quanto ai santi e agli angeli...» cominciò il prete.
+
+«Sono tutte sciocchezze», ripeté Fenner. «Non voglio dire nulla di offensivo, ma quel genere di cose può andar benissimo per cripte e chiostri e ogni sorta di luoghi da chiaro di luna. Ma i fantasmi non possono passare attraverso una porta chiusa in un albergo americano.»
+
+«Ma una porta si può aprire, anche in un albergo americano»,
+replicò [[characters/father-brown|padre Brown]] con pazienza. «E mi pare che la cosa
+più semplice sarebbe aprirla.»
+
+«Sarebbe abbastanza semplice farmi perdere il posto», rispose il segretario,
+«e a Warren Wynd i suoi segretari non piacciono così semplici.
+Né tanto semplici da credere al genere di fiabe a cui pare che
+crediate voi.»
+
+«[[motifs/well|Beh]]», disse il prete con gravità, «è vero abbastanza che io
+credo in un buon numero di cose in cui probabilmente voi non credete. Ma
+ci vorrebbe parecchio tempo per spiegare tutte le cose in cui
+credo, e tutte le ragioni che ho per pensare di aver ragione.
+Ci vorranno all'incirca due secondi per aprire quella porta e provare
+che ho torto.»
+
+Qualcosa in quella frase parve solleticare lo spirito più selvaggio e
+inquieto dell'uomo dell'Ovest.
+
+«Ammetto che mi [[motifs/love|piacerebbe]] provare che avete torto», disse Alboin,
+passando loro davanti a grandi falcate d'un tratto, «e lo farò.»
+
+Spalancò la porta dell'appartamento e guardò dentro.
+La prima occhiata mostrò che la poltrona di Warren Wynd era vuota.
+La seconda occhiata mostrò che era vuota anche la stanza.
+
+Fenner, elettrizzato di energia a sua volta, si precipitò oltre l'altro
+dentro l'appartamento.
+
+«È in camera da letto», disse secco, «per forza.»
+
+Mentre spariva nella camera interna gli altri uomini
+rimasero nella stanza esterna, vuota, a girare lo sguardo intorno.
+La severità e la semplicità dell'arredo, già notate,
+tornarono su di loro come una sfida inflessibile.
+Di certo in quella stanza non c'era modo di nascondere
+un topo, e tanto meno un uomo. Non c'erano tende e,
+cosa rara nelle disposizioni americane, non c'erano armadi.
+Perfino lo scrittoio non era che un semplice tavolo con un cassetto
+poco profondo e un piano inclinato. Le sedie erano scheletri duri e dallo
+schienale alto. Un momento dopo il segretario ricomparve
+sulla porta interna, avendo perlustrato le due stanze di dentro.
+Nei suoi occhi stava fissa una negazione attonita, e la bocca pareva
+muoversi con un distacco meccanico da essa quando disse bruscamente:
+«Non è uscito di qui?»
+
+In qualche modo gli altri non ritennero nemmeno necessario rispondere
+a quella negazione in senso negativo. Le loro menti si erano scontrate
+con qualcosa di simile al muro cieco del magazzino che occhieggiava
+dalla [[motifs/window|finestra]] di fronte, virando a poco a poco dal bianco al grigio
+mentre il crepuscolo scendeva lento con l'avanzare del pomeriggio.
+Vandam attraversò la stanza fino al davanzale della [[motifs/window|finestra]] contro cui si era
+appoggiato mezz'ora prima e guardò fuori dalla [[motifs/window|finestra]] aperta.
+Non c'era né tubo né scala [[motifs/fire|antincendio]], né sporgenza né appiglio d'alcun genere
+sulla parete a strapiombo che precipitava fino alla stradicciola sottostante, e nulla
+c'era sulla pari distesa di muro che si [[motifs/rose|levava]] per molti piani più in alto.
+C'era ancor meno varietà dall'altra parte della strada;
+non c'era proprio nulla se non la tediosa distesa di
+muro imbiancato a calce. Scrutò in basso, come aspettandosi di scorgere
+lo svanito filantropo giacere in un rottame suicida sul selciato.
+Non riuscì a vedere nulla se non un piccolo oggetto scuro che, per quanto rimpicciolito
+dalla distanza, poteva [[motifs/well|ben]] essere la [[characters/pistol|pistola]] che il prete aveva trovato
+lì per terra. Nel frattempo Fenner si era avvicinato all'altra [[motifs/window|finestra]],
+che dava su una parete altrettanto cieca e inaccessibile,
+ma affacciata su un piccolo parco ornamentale invece che su una via laterale.
+Qui un boschetto interrompeva la vista effettiva del suolo;
+ma gli alberi salivano solo per un breve tratto lungo l'enorme rupe umana.
+Entrambi si voltarono di nuovo verso l'interno e si fronteggiarono nel
+crepuscolo che si addensava, dove gli ultimi bagliori argentei della luce del giorno sui
+lucidi ripiani di scrittoi e tavoli viravano rapidamente al grigio.
+Come se il crepuscolo stesso lo irritasse, Fenner toccò
+l'interruttore e la scena balzò nella nitidezza sorprendente
+della luce elettrica.
+
+«Come avete detto poco fa», disse Vandam cupamente, «non c'è sparo che da
+laggiù potesse colpirlo, anche se ci fosse stato un colpo nell'arma.
+Ma anche se fosse stato colpito da una pallottola non sarebbe scoppiato
+di netto come una bolla di sapone.»
+
+Il segretario, più pallido che mai, gettò un'occhiata irritata sul
+volto biliardo del milionario. «Che cosa vi ha messo in testa
+quelle idee morbose? Chi parla di pallottole e di bolle?
+Perché non dovrebbe essere vivo?»
+
+«Perché no, in effetti?» replicò Vandam con scorrevolezza. «Se mi direte
+dov'è, io vi dirò come ci è arrivato.»
+
+Dopo una pausa il segretario borbottò, piuttosto imbronciato:
+«Immagino che abbiate ragione. Siamo proprio davanti alla cosa
+stessa di cui stavamo parlando. Sarebbe strano se voi
+o io arrivassimo mai a credere che ci fosse qualcosa nel maledire.
+Ma chi avrebbe potuto far del male a Wynd, chiuso qui dentro?»
+
+Il signor Alboin, dell'Oklahoma, era rimasto piuttosto a gambe larghe in mezzo
+alla stanza, con la sua bianca aureola ispida [[motifs/well|non meno]] degli occhi tondi che parevano
+irradiare stupore. A questo punto disse, distrattamente,
+con qualcosa dell'impudenza sconclusionata di un enfant terrible:
+«Non è che vi andasse molto a genio, eh, signor Vandam?»
+
+Il lungo volto giallo del signor Vandam parve allungarsi ancor più mentre
+si faceva più sinistro, ed egli sorrise e rispose con calma:
+«Se si vuol parlare di coincidenze, mi pare foste voi
+a dire che un [[motifs/wind|vento]] dall'Ovest avrebbe spazzato via i nostri
+grandi uomini come pappi di cardo.»
+
+«Lo so, ho detto che l'avrebbe fatto», disse l'uomo dell'Ovest, con candore;
+«ma comunque, come diavolo avrebbe potuto?»
+
+Il silenzio fu rotto da Fenner che disse con una bruschezza che rasentava
+la violenza: «C'è una sola cosa da dire su questa faccenda.
+Semplicemente non è accaduta. Non può essere accaduta.»
+
+«Oh, sì», disse padre Brown dal suo angolo; «è accaduta
+eccome.»
+
+Sobbalzarono tutti; perché la [[concepts/truth|verità]] era che avevano tutti dimenticato
+l'insignificante omino che li aveva in origine indotti
+ad aprire la porta. E il recupero della [[motifs/memory|memoria]] si accompagnò a un brusco
+rovesciamento d'umore; tornò loro alla mente d'un tratto che avevano
+tutti liquidato quell'uomo come un sognatore superstizioso per aver solo accennato
+alla cosa stessa che da allora era accaduta sotto i loro occhi.
+
+«Serpenti!» gridò l'impetuoso uomo dell'Ovest, come chi parla
+prima di potersi trattenere; «e se ci fosse qualcosa
+di vero, dopotutto!»
+
+«Devo confessare», disse Fenner, accigliato verso il tavolo, «che le previsioni di sua reverenza sembrano essere state ben fondate. Non so se abbia qualcos'altro da dirci.»
+
+«Potrebbe forse dirci», intervenne Vandam, sardonico, «che diavolo dovremmo fare adesso.»
+
+Il piccolo prete parve accettare la situazione con modestia, ma anche con concretezza. «L'unica cosa che mi viene in mente», disse, «è anzitutto avvertire le autorità del posto, e poi vedere se ci siano altre tracce del mio uomo, quello che ha sparato con la pistola. È sparito all'altra estremità del Crescent, dove c'è il giardinetto. Là ci sono delle panchine, ed è un luogo prediletto dai vagabondi.»
+
+Le consultazioni dirette con la direzione dell'albergo, che condussero a consultazioni indirette con le autorità di polizia, li occuparono per un tempo considerevole; ed era già calata la notte quando uscirono sotto la lunga, classica curva del colonnato. Il Crescent appariva freddo e vuoto come la luna da cui prendeva nome, e la luna stessa sorgeva luminosa ma spettrale dietro le nere cime degli alberi, mentre svoltavano l'angolo presso il giardinetto pubblico. La notte velava gran parte di ciò che nel luogo era meramente urbano e artificiale, e via via che si fondevano nell'ombra degli alberi provarono la strana sensazione di aver percorso all'improvviso molte centinaia di miglia lontano dalle proprie case. Dopo aver camminato per un poco in silenzio, Alboin, che aveva in sé qualcosa di elementare, esplose di colpo.
+
+«Mi arrendo», gridò; «getto la spugna. Non avrei mai creduto di arrivare a cose simili; ma che si fa quando le cose arrivano a te? Le chiedo scusa, padre Brown; credo proprio che passerò dalla vostra parte, per quel che riguarda lei e le sue favole. D'ora in poi, io sto con le favole. Ma via, lei stesso ha detto, signor Vandam, di essere ateo e di credere soltanto a ciò che vede. Bene, che cosa ha visto? O piuttosto: che cosa non ha visto?»
+
+«Lo so», disse Vandam, e annuì cupo.
+
+«Oh, è in parte tutta questa faccenda della luna e degli alberi che dà ai nervi», disse Fenner ostinato. «Gli alberi hanno sempre un'aria strana al chiaro di luna, con i rami che si contorcono come se strisciassero. Guardate quello là...»
+
+«Sì», disse [[characters/father-brown|padre Brown]], fermandosi immobile e scrutando la [[motifs/moon|luna]] attraverso un groviglio di alberi. «È un ramo davvero molto strano, lassù.»
+
+Quando riprese a parlare, disse soltanto: «Credevo fosse un ramo spezzato.»
+
+Ma questa [[motifs/time|volta]] c'era nella sua voce un'esitazione che, senza spiegazione, gelò il sangue a chi lo ascoltava. Qualcosa che assomigliava piuttosto a un ramo secco pendeva infatti, in modo floscio, dall'albero che si stagliava scuro contro la [[motifs/moon|luna]]; ma non era un ramo secco. Quando gli si avvicinarono per vedere di che si trattasse, Fenner scattò di nuovo indietro con una bestemmia squillante. Poi accorse di nuovo e allentò una corda dal collo del misero corpicino che penzolava, con i suoi ciuffi cadenti di capelli grigi. In qualche modo seppe che quel [[concepts/body|corpo]] era un [[concepts/body|corpo]] senza vita prima ancora di riuscire a tirarlo giù dall'albero. Una lunghissima matassa di corda era avvolta più e più volte intorno ai rami, e un tratto relativamente breve pendeva dalla biforcazione del ramo fino al [[concepts/body|corpo]]. Un lungo mastello da [[motifs/garden|giardino]] era rotolato un metro o poco più da sotto i piedi, come lo sgabello scalciato via da sotto i piedi di un [[concepts/suicide|suicida]].
+
+«Oh, mio Dio!», disse Alboin, in modo che parve tanto una preghiera quanto una bestemmia. «Che cosa aveva detto di lui, quell'uomo?... "Se sapesse, sarebbe pronto a impiccarsi." Non era così che aveva detto, [[characters/father-brown|padre Brown]]?»
+
+«Sì», disse padre Brown.
+
+«[[motifs/well|Ebbene]]», disse Vandam con voce cava, «non avrei mai creduto di vedere o dire una cosa simile. Ma che cosa si può dire, se non che la maledizione ha funzionato?»
+
+Fenner stava in piedi con le mani a coprirsi il volto; e il prete gli posò una mano sul braccio e disse, con dolcezza: «Gli voleva molto bene?»
+
+Il segretario lasciò cadere le mani, e il suo volto bianco era spettrale sotto la luna.
+
+«Lo odiavo a morte», disse; «e se è morto per una maledizione, poteva ben essere la mia.»
+
+La stretta della mano del prete sul suo braccio si fece più salda; e il prete disse, con una gravità che fino a quel momento non aveva quasi mai mostrato: «Non è stata la sua maledizione; si consoli, la prego.»
+
+La polizia del distretto ebbe non poche difficoltà a trattare con i quattro testimoni coinvolti nel caso. Erano tutti persone rispettabili, e persino attendibili nel senso comune del termine; e uno di loro era un personaggio di notevole potere e importanza: Silas Vandam dell'Oil Trust. Il primo agente di polizia che tentò di esprimere scetticismo sul suo racconto trasse scintille dall'acciaio della mente di quel magnate assai rapidamente, in verità.
+
+«Non venga a parlarmi di attenersi ai fatti», disse il milionario con asprezza. «Io mi sono attenuto a un bel po' di fatti prima ancora che lei nascesse, e qualcuno di quei fatti si è attenuto a me. Le darò i fatti come si deve, se avrà il buon senso di trascriverli correttamente.»
+
+L'agente in questione era giovane e di grado subalterno, e aveva la vaga idea che il milionario fosse troppo influente in politica per essere trattato come un comune cittadino; così passò lui e i suoi compagni a un superiore più flemmatico, un certo ispettore Collins, un uomo brizzolato dal modo di parlare torvamente bonario, come chi è cordiale ma non tollera sciocchezze.
+
+«[[motifs/well|Bene]], [[motifs/well|bene]]», disse, guardando le tre figure davanti a sé con occhi scintillanti, «pare proprio una storia piuttosto buffa, questa.»
+
+Padre Brown era già andato ad occuparsi delle sue faccende quotidiane; ma Silas Vandam aveva sospeso perfino i giganteschi affari dei mercati per un'oretta o giù di lì, per testimoniare la sua straordinaria esperienza. L'attività di Fenner come segretario era in un certo senso cessata con la vita del suo datore di lavoro; e il grande Art Alboin, non avendo alcun affare né a New York né altrove, tranne la diffusione della religione del Soffio della Vita, ovvero del Grande Spirito, non aveva in quel momento nulla che lo distogliesse dalla vicenda immediata. Così se ne stavano schierati in fila nell'ufficio dell'ispettore, pronti a confermarsi a vicenda.
+
+«Allora, è meglio che le dica subito, tanto per cominciare», disse l'ispettore allegramente, «che non serve a niente venire da me con storie di miracoli. Io sono un uomo pratico e un poliziotto, e quella roba lì va benissimo per i preti e i pastori. Questo vostro prete pare avervi messo tutti in agitazione con non so quale storia di una morte spaventosa e di un castigo divino; ma io ho intenzione di lasciare completamente da parte lui e la sua religione. Se Wynd è uscito da quella stanza, qualcuno ce l'ha fatto uscire. E se Wynd è stato trovato appeso a quell'albero, qualcuno ce l'ha appeso.»
+
+«Verissimo» disse Fenner; «ma poiché la nostra testimonianza è che nessuno lo fece uscire, la domanda è: come avrebbe potuto qualcuno appenderlo lassù?»
+
+«E come mai qualcuno ha un naso in mezzo alla faccia?» ribatté l'ispettore. «Lui aveva un naso in mezzo alla faccia, e aveva un cappio intorno al collo. Questi sono fatti; e, come dico io, sono un uomo pratico e mi attengo ai fatti. Non può essere stato fatto da un miracolo, dunque deve essere stato fatto da un uomo.»
+
+Alboin era rimasto piuttosto in disparte, sullo sfondo; e in effetti la sua figura massiccia pareva costituire uno sfondo naturale agli uomini più asciutti e più vivaci che gli stavano davanti. La testa canuta era china in una certa astrazione; ma quando l'ispettore pronunciò l'ultima frase, egli la sollevò, scuotendo la sua bianca criniera alla maniera di un leone, con un'aria stordita eppure ridesta. Avanzò fino al centro del gruppo, e tutti ebbero la vaga sensazione che fosse persino più imponente di prima. Fin troppo facilmente lo avevano preso per uno sciocco o un ciarlatano; ma non aveva tutti i torti quando diceva che c'era in lui una certa profondità di polmoni e di vita, come un vento di ponente accumulato nella sua forza, che un giorno o l'altro avrebbe potuto spazzar via, con un soffio, le cose più leggere.
+
+«Così lei è un uomo pratico, [[characters/mr-collins|signor Collins]]» disse, con una voce insieme molle e greve. «Dev'essere la seconda o la terza volta che, in questa breve conversazione, accenna al fatto di essere un uomo pratico; sicché su questo non posso sbagliarmi. E per chiunque si accingesse a scrivere la sua vita, le sue lettere e i suoi discorsi da tavola, corredati del ritratto all'età di cinque anni, del dagherrotipo di sua nonna e di vedute del vecchio paese natale, è un particolare davvero interessante; e son certo che il suo biografo non mancherà di menzionarlo, insieme al fatto che lei aveva un naso camuso con un foruncolo sopra, ed era così grasso da quasi non poter camminare. E poiché è un uomo pratico, forse potrebbe continuare a esercitarsi finché non abbia riportato in vita Warren Wynd, scoprendo esattamente come un uomo pratico attraversi una porta di tavole massicce. Ma io credo che lei l'abbia intesa male. Lei non è un uomo pratico. Lei è uno scherzo pratico, ecco cos'è. L'Onnipotente si stava prendendo un po' di svago alle nostre spalle quando la ideò.»
+
+Con un caratteristico senso del dramma, veleggiò verso la porta prima che l'attonito ispettore potesse replicare; e nessuna successiva recriminazione poté privarlo di una certa aria di trionfo.
+
+«Credo che lei avesse perfettamente ragione» disse Fenner. «Se quelli sono uomini pratici, datemi i preti.»
+
+Un altro tentativo fu fatto per giungere a una versione ufficiale dell'accaduto, quando le autorità compresero appieno chi fossero i sostenitori della storia, e quali ne fossero le implicazioni. La cosa era già scoppiata sulla stampa nella forma più sensazionalistica, e persino sfacciatamente medianica. Interviste a Vandam sulla sua meravigliosa avventura, articoli su Padre Brown e le sue mistiche intuizioni, indussero presto coloro che si sentono responsabili di guidare il pubblico a desiderare di guidarlo lungo un canale più assennato. Questa volta gli scomodi testimoni furono avvicinati in modo più indiretto e cauto. Fu detto loro, quasi con noncuranza, che il professor Vair era molto interessato a simili esperienze anomale; ed era interessato in modo particolare al loro stesso caso sbalorditivo. Il professor Vair era uno psicologo di grande fama; era noto per avere nutrito un distaccato interesse per la criminologia; fu solo qualche tempo dopo che essi scoprirono ch'egli era in qualche modo legato alla polizia.
+
+Il professor Vair era un gentiluomo cortese, vestito con sobrietà di grigio pallido, con una cravatta di gusto artistico e una barba bionda e appuntita; a chiunque non conoscesse un certo tipo particolare di accademico, aveva l'aria piuttosto di un paesaggista. C'era in lui un'aria non soltanto di cortesia, ma di franchezza.
+
+«Sì, sì, lo so» disse sorridendo; «posso immaginare quel che dovete aver passato. La polizia non brilla certo nelle indagini di natura medianica, non è vero? Naturalmente il caro vecchio Collins diceva di volere soltanto i fatti. Che sciocco abbaglio! In un caso di questo genere noi, con la massima decisione, non vogliamo soltanto i fatti. È persino più essenziale possedere le fantasie.»
+
+«Intende dire» chiese Vandam con gravità «che tutto ciò che noi credevamo fatti erano semplici fantasie?»
+
+«Niente affatto» disse il professore; «intendo soltanto che la polizia è ottusa nel credere di poter tralasciare l'elemento psicologico in queste faccende. Ebbene, s'intende, l'elemento psicologico è tutto in ogni cosa, per quanto si cominci appena adesso a comprenderlo. Cominciamo col prendere l'elemento chiamato personalità. Ora, io avevo già sentito parlare di questo prete, Padre Brown; ed è uno degli uomini più notevoli del nostro tempo. Gli uomini di quella tempra si portano dietro una sorta di atmosfera; e nessuno sa quanto i nervi, e persino i sensi stessi, ne restino influenzati per il momento. La gente viene ipnotizzata... sì, ipnotizzata; perché l'ipnotismo, come ogni altra cosa, è una questione di grado; s'insinua, in misura lieve, in ogni conversazione quotidiana: non è necessariamente condotto da un uomo in abito da sera su un palco, in una sala pubblica. La religione di Padre Brown ha sempre compreso la psicologia delle atmosfere, e sa come rivolgersi a tutto simultaneamente; persino, per esempio, al senso dell'olfatto. Comprende quei curiosi effetti prodotti dalla musica sugli animali e sugli esseri umani; sa...»
+
+«Al diavolo» protestò Fenner, «non penserà mica che egli abbia percorso il corridoio portandosi appresso un organo da chiesa?»
+
+«Sa bene di non doverlo fare» disse il professor Vair ridendo. «Sa come concentrare l'essenza di tutti questi suoni, e visioni, e persino odori spirituali, in pochi gesti misurati; in un'arte, o scuola, di maniere. Saprebbe fare in modo di concentrare a tal punto le vostre menti sul [[motifs/supernatural|soprannaturale]] con la sua mera presenza, che le cose naturali vi sfuggirebbero dalla mente, a destra e a sinistra, inosservate. Ora, sappiate» proseguì, con un ritorno alla lieta assennatezza, «che quanto più la studiamo, tanto più bizzarra si fa l'intera questione della testimonianza umana. Non c'è un uomo su venti che osservi davvero le cose. Non c'è un uomo su cento che le osservi con vera precisione; e certo non uno su cento capace prima di osservare, poi di ricordare, e infine di descrivere. Esperimenti scientifici sono stati condotti più e più volte, a dimostrare che uomini sotto tensione hanno creduto chiusa una porta quando era aperta, o aperta quando era chiusa. Certi uomini hanno discordato sul numero di porte o di finestre in una parete proprio davanti a loro. Hanno sofferto illusioni ottiche in pieno giorno. E hanno fatto tutto questo persino senza l'effetto ipnotico di una personalità; ma qui abbiamo una personalità potentissima e persuasiva, tutta protesa a fissare una sola immagine nelle vostre menti: l'immagine del feroce ribelle irlandese che scuote la pistola verso il cielo e spara quella vana scarica, i cui echi furono i tuoni del firmamento.»
+
+«Professore» esclamò Fenner, «giurerei sul mio letto di morte che quella porta non si è mai aperta.»
+
+«Esperimenti recenti» proseguì il professore, con calma, «hanno suggerito che la nostra coscienza non è continua, ma è una successione di impressioni rapidissime, come un cinematografo; è possibile che qualcuno o qualcosa possa, per così dire, insinuarsi dentro o fuori tra una scena e l'altra. Agisce soltanto nell'istante in cui il sipario è calato. Probabilmente le chiacchiere dei prestigiatori e ogni forma di gioco di mano dipendono da ciò che potremmo chiamare questi neri lampi di cecità tra un lampo di visione e l'altro. Ora, questo prete e predicatore di nozioni trascendentali vi aveva riempiti di un'immagine trascendentale: l'immagine del Celta simile a un Titano che scuoteva la torre con la sua maledizione. Probabilmente l'accompagnò con qualche gesto lieve ma imperioso, indirizzando gli occhi e le menti nella direzione dell'ignoto distruttore, laggiù. O forse accadde qualcos'altro, o qualcun altro passò di lì.»
+
+«Wilson, il domestico» grugnì Alboin, «scese lungo il corridoio ad aspettare sulla panca, ma direi che non ci distrasse granché.»
+
+«Non si sa mai quanto» ribatté Vair; «potrebbe essere stato quello, o più probabilmente i vostri occhi che seguivano qualche gesto del prete mentre raccontava la sua storia di magia. Fu in uno di quei neri lampi che il signor Warren Wynd sgusciò fuori dalla sua porta e andò incontro alla morte. È la spiegazione più probabile. È un'illustrazione della nuova scoperta. La mente non è una linea continua, ma piuttosto una linea tratteggiata.»
+
+«Molto tratteggiata» disse Fenner fiaccamente. «Per non dire scombinata.»
+
+«Non crederà davvero» chiese Vair, «che il suo datore di lavoro fosse chiuso in una stanza come in una scatola?»
+
+«È meglio che credere di dover essere chiuso io in una stanza come in una cella imbottita» rispose Fenner. «È di questo che mi lamento nelle sue supposizioni, professore. Sarei disposto a credere in un prete che crede in un miracolo, piuttosto che a non credere che un uomo abbia il diritto di credere in un fatto. Il prete mi dice che un uomo può appellarsi a un Dio di cui non so nulla perché lo vendichi secondo le leggi di una giustizia superiore di cui non so nulla. Non ho altro da dire se non che non ne so nulla. Ma, almeno, se la [[motifs/prayer|preghiera]] e la [[characters/pistol|pistola]] del povero irlandese potessero essere udite in un mondo più alto, quel mondo più alto potrebbe agire in qualche modo che a noi appare bizzarro. Lei invece mi chiede di non credere ai fatti di questo mondo così come appaiono ai miei cinque sensi. Secondo lei, un'intera processione di irlandesi con gli archibugi potrebbe aver attraversato questa stanza mentre parlavamo, purché avessero cura di posare i piedi sui punti ciechi delle nostre menti. I miracoli di stampo monacale, come materializzare un coccodrillo o appendere un mantello a un raggio di sole, sembrano del tutto assennati in confronto a lei.»
+
+«Oh, be'» disse il professor Vair, piuttosto seccamente, «se è deciso a credere nel suo prete e nel suo irlandese miracoloso, non ho altro da aggiungere. Temo che lei non abbia avuto occasione di studiare la psicologia.»
+
+«No» disse Fenner asciutto; «ma ho avuto occasione di studiare gli psicologi.»
+
+E, inchinandosi cortesemente, condusse la sua delegazione fuori dalla stanza e non parlò finché non fu in strada; allora si rivolse a loro in modo piuttosto esplosivo.
+
+«Pazzi furiosi!» gridò Fenner infuriato. «Che diavolo credono che accadrà al mondo se nessuno sa più se ha visto qualcosa oppure no? Vorrei avergli fatto saltare la sciocca testa con una cartuccia a salve, e poi spiegargli che l'ho fatto in un lampo di cecità. Il miracolo di [[characters/father-brown|Father Brown]] sarà miracoloso o no, ma lui disse che sarebbe accaduto, e accadde. Tutto ciò che quei maledetti fissati sanno fare è vedere accadere una cosa e poi dire che non è accaduta. Sentite, credo che dobbiamo al padre di testimoniare la sua piccola dimostrazione. Siamo tutti uomini sani, solidi, che non hanno mai creduto a nulla. Non eravamo ubriachi. Non eravamo devoti. Accadde semplicemente proprio come aveva detto.»
+
+«Sono pienamente d'accordo» disse il milionario. «Potrebbe essere l'inizio di cose grandiose sul piano spirituale; ma comunque sia, l'uomo che è lui stesso del ramo spirituale, [[characters/father-brown|Father Brown]], ha di certo segnato un punto in tutta questa faccenda.»
+
+Pochi giorni dopo [[characters/father-brown|Father Brown]] ricevette un biglietto assai cortese firmato Silas T. Vandam, che gli chiedeva se volesse presentarsi a un'ora stabilita nell'appartamento che era stato teatro della scomparsa, allo scopo di prendere provvedimenti per la constatazione di quel prodigioso avvenimento. L'avvenimento stesso aveva già cominciato a esplodere sui giornali, ed era ripreso ovunque dagli entusiasti dell'occultismo. [[characters/father-brown|Father Brown]] vide i manifesti sgargianti che recavano la scritta «Suicidio dell'uomo scomparso» e «La maledizione di un uomo impicca il filantropo», mentre si dirigeva verso [[motifs/moon|Mezzaluna]] Crescent e saliva i gradini in direzione dell'ascensore. Trovò il piccolo gruppo pressappoco come lo aveva lasciato, Vandam, Alboin e il segretario; ma vi era un rispetto interamente nuovo, e persino una riverenza, nel loro tono verso di lui. Erano in piedi accanto alla scrivania di Wynd, sulla quale giaceva un grande foglio e l'occorrente per scrivere; si voltarono per salutarlo.
+
+«Padre Brown» disse il portavoce, che era l'uomo dell'Ovest dai capelli bianchi, alquanto rinsavito dalla propria responsabilità, «l'abbiamo pregata di venire qui anzitutto per offrirle le nostre scuse e i nostri ringraziamenti. Riconosciamo che fu lei a individuare fin dal principio la manifestazione spirituale. Eravamo scettici dalla dura scorza, tutti quanti; ma ora comprendiamo che un uomo deve spezzare quella scorza per giungere alle grandi cose che stanno dietro il mondo. Lei rappresenta quelle cose; lei rappresenta la spiegazione sovrannaturale delle cose; e dobbiamo rendergliene merito. E in secondo luogo, sentiamo che questo documento non sarebbe completo senza la sua firma. Stiamo notificando i fatti esatti alla Society for Psychical Research, perché i resoconti dei giornali non sono quel che si direbbe esatti. Abbiamo dichiarato come la maledizione fu pronunciata in strada; come l'uomo fu sigillato qui dentro, in una stanza come in una scatola; come la maledizione lo dissolse dritto nell'aria sottile, e in qualche modo inconcepibile lo materializzò come un [[concepts/suicide|suicida]] issato su una forca. È tutto quel che possiamo dirne; ma è tutto ciò che sappiamo, e abbiamo visto con i nostri occhi. E poiché lei fu il primo a credere nel miracolo, sentiamo tutti che dovrebbe essere il primo a firmare.»
+
+«No, davvero» disse padre Brown, imbarazzato.
+«Non credo che mi andrebbe di farlo.»
+
+«Vuol dire che preferirebbe non firmare per primo?»
+
+«Voglio dire che preferirei non firmare affatto» disse [[characters/father-brown|Father Brown]], con modestia.
+«Vede, non sta troppo bene, per un uomo nella mia posizione,
+scherzare sui miracoli.»
+
+«Ma è stato lei a dire che era un miracolo» disse Alboin, fissandolo.
+
+«Mi dispiace tanto» disse padre Brown; «temo che ci sia
+qualche equivoco. Non credo di aver mai detto che fosse un miracolo.
+Ho detto soltanto che poteva accadere. Siete stati voi a dire che
+non poteva accadere, perché sarebbe stato un miracolo se fosse accaduto.
+E poi è accaduto. E allora avete detto che era un miracolo.
+Ma io non ho mai detto una parola sui miracoli o sulla magia, o su qualcosa
+del genere, dall'inizio alla fine.»
+
+«Ma credevo che lei credesse nei miracoli» proruppe il segretario.
+
+«Sì» rispose [[characters/father-brown|Father Brown]], «credo nei miracoli. Credo nelle tigri
+mangiatrici d'uomini, ma non le vedo scorrazzare dappertutto.
+Se voglio dei miracoli, so dove trovarli.»
+
+«Non riesco a capire come possa prendere questa posizione, [[characters/father-brown|Father Brown]]»
+disse Vandam, con serietà. «Sembra così gretta; e lei non
+mi pare un uomo gretto, per quanto sia un prete. Non capisce,
+un miracolo come questo manderebbe tutto il materialismo a gambe all'aria?
+Direbbe al mondo intero, a caratteri cubitali, che le potenze
+spirituali possono agire e agiscono davvero. Renderebbe alla religione
+un servizio quale nessun prete le ha mai reso finora.»
+
+Il sacerdote si era irrigidito un poco e pareva rivestito, in qualche strano modo,
+di una dignità inconsapevole e impersonale, nonostante la sua
+figura tozza. «[[motifs/well|Ebbene]]» disse, «non vorrà suggerirmi di servire
+la religione con quella che io so essere una menzogna? Non so con precisione che cosa
+intenda con quella frase; e, per essere del tutto sincero, non sono sicuro che lo sappia lei.
+Mentire può essere servire la religione; di certo non è servire Dio.
+E poiché insiste tanto ossessivamente su ciò in cui credo,
+non sarebbe bene che lei avesse una qualche idea di che cosa si tratti?»
+
+«Non credo di capire bene» osservò il milionario, incuriosito.
+
+«Non credo che lei capisca» disse padre Brown, con semplicità.
+«Lei dice che questa cosa è stata fatta da potenze spirituali.
+Quali potenze spirituali? Non penserà mica che i santi angeli
+l'abbiano preso e appeso a un albero del [[motifs/garden|giardino]], vero? E quanto
+agli angeli non santi... no, no, no. Gli uomini che hanno fatto questo hanno commesso una
+cosa malvagia, ma non sono andati oltre la loro stessa malvagità;
+non erano abbastanza malvagi da trattare con potenze spirituali.
+Qualcosa di satanismo la so, Dio mi perdoni; sono stato costretto
+a saperla. So che cos'è, che cosa in pratica è sempre.
+È superbo ed è subdolo. Ama sentirsi superiore; ama
+inorridire l'[[archetypes/innocent|innocente]] con cose comprese a metà, far venire
+la pelle d'oca ai bambini. Ecco perché è così ghiotto di misteri
+e iniziazioni e società segrete e tutto il resto.
+I suoi occhi sono rivolti all'interno, e per quanto grande e [[motifs/grave|solenne]]
+possa apparire, nasconde sempre un piccolo, folle sorriso.»
+Rabbrividì all'improvviso, come colto da una gelida corrente d'aria.
+«Non pensate a loro; non hanno nulla a che vedere con questo,
+credetemi. Pensate forse che quel povero, sfrenato irlandese,
+che è corso urlando giù per la strada, che ne ha spiattellato metà
+quando ha visto per la prima volta la mia faccia, ed è fuggito per paura di spiattellarne
+ancora, pensate forse che Satana confidi a lui qualche segreto?
+Ammetto che abbia preso parte a un complotto, probabilmente a un complotto con altri due
+uomini peggiori di lui; ma nonostante tutto, era soltanto
+in una collera senza fine quando è corso giù per il vicolo e ha scaricato
+la pistola e la sua maledizione.»
+
+«Ma che diavolo significa tutto questo?» domandò Vandam.
+«Scaricare una pistola giocattolo e una maledizione da due soldi non poteva fare ciò che è stato fatto,
+se non per miracolo. Non poteva far sparire Wynd come una fata.
+Non poteva farlo riapparire a un quarto di miglio di distanza con una corda
+al collo.»
+
+«No» disse [[characters/father-brown|Father Brown]] bruscamente; «ma che cosa poteva fare?»
+
+«E continuo a non seguirla» disse il milionario, gravemente.
+
+«Dico, che cosa poteva fare?» ripeté il sacerdote; mostrando, per la
+prima volta, una sorta di animazione che rasentava l'irritazione.
+«Voi continuate a ripetere che uno sparo a salve di [[characters/pistol|pistola]] non poteva
+fare questo e non poteva fare quello; che, se non c'era altro,
+l'omicidio non poteva accadere o il miracolo non poteva accadere.
+Non vi viene in mente di chiedervi che cosa poteva accadere.
+Che cosa vi accadrebbe se un pazzo scaricasse un'arma da fuoco
+senza capo né coda proprio sotto la vostra [[motifs/window|finestra]]?
+Qual è la primissima cosa che accadrebbe?»
+
+Vandam parve pensieroso. «Immagino che guarderei fuori dalla
+finestra» disse.
+
+«Sì» disse [[characters/father-brown|Father Brown]], «guardereste fuori dalla finestra.
+È tutta qui la storia. È una storia triste, ma ormai è finita;
+e c'erano circostanze attenuanti.»
+
+«Perché guardare fuori dalla [[motifs/window|finestra]] avrebbe dovuto fargli del male?» chiese Alboin.
+«Non è caduto, altrimenti l'avrebbero trovato nel vicolo.»
+
+«No» disse [[characters/father-brown|Father Brown]], a voce bassa. «Non è caduto. Si è alzato.»
+
+C'era nella sua voce qualcosa come il gemito di un gong,
+una nota di fatalità, ma per il resto proseguì con fermezza: «Si [[motifs/rose|alzò]],
+ma non su ali; non sulle ali di angeli santi o non santi.
+Si [[motifs/rose|alzò]] all'estremità di una corda, esattamente come l'avete visto nel [[motifs/garden|giardino]];
+un cappio calato sulla sua testa nell'istante in cui la sporgeva dalla [[motifs/window|finestra]].
+Non ricordate Wilson, quel suo grosso domestico, un uomo di
+forza smisurata, mentre Wynd era il più minuto dei gamberetti?
+Non era salito Wilson al piano di sopra per prendere un opuscolo,
+in una stanza piena di bagagli legati con matasse e matasse di corda?
+È stato più visto Wilson da quel giorno? Mi sa di no.»
+
+«Vuol dire» chiese il segretario, «che Wilson lo ha tirato su
+di netto dalla sua stessa [[motifs/window|finestra]] come una trota all'amo?»
+
+«Sì» disse l'altro, «e lo ha calato di nuovo dall'altra [[motifs/window|finestra]]
+giù nel parco, dove il terzo complice lo ha agganciato a un albero.
+Ricordate che il vicolo era sempre deserto; ricordate che il muro
+di fronte era del tutto nudo; ricordate che tutto si concluse in cinque
+minuti dopo che l'irlandese diede il segnale con la [[characters/pistol|pistola]].
+Erano in tre, naturalmente; e mi [[concepts/wonder|domando]] se
+riuscite tutti a indovinare chi fossero.»
+
+Fissavano tutti e tre la [[motifs/window|finestra]] semplice e quadrata e il muro bianco e nudo che si stendeva al di là; e nessuno rispose.
+
+«A proposito», riprese Padre Brown, «non crediate che vi rimproveri di essere saltati a conclusioni soprannaturali. La ragione è molto semplice, in verità. Giuravate tutti di essere materialisti dalla scorza dura; e a dire il vero eravate tutti in equilibrio sull'orlo stesso della fede... della fede in quasi ogni cosa. Ce ne sono migliaia in bilico su quell'orlo, oggigiorno; ma è un orlo tagliente e scomodo su cui stare seduti. Non troverete pace finché non crederete in qualcosa; ecco perché il signor Vandam ha passato al setaccio le religioni nuove, e il signor Alboin cita la Scrittura a sostegno della sua religione degli esercizi di respirazione, e il signor Fenner brontola contro quel Dio stesso che nega. È lì che vi dividete tutti; è naturale credere nel [[motifs/supernatural|soprannaturale]]. Non sembra mai naturale accettare soltanto le cose naturali. Ma benché bastasse un tocco per farvi cadere nel preternaturale a proposito di questi fatti, questi fatti erano davvero soltanto cose naturali. Non erano soltanto naturali, erano quasi innaturalmente semplici. Suppongo che non ci sia mai stata una storia tanto semplice quanto questa.»
+
+Fenner rise e poi parve perplesso. «Una cosa non la capisco», disse. «Se è stato Wilson, come mai Wynd aveva un uomo simile in rapporti così intimi? Come mai si è fatto uccidere da un uomo che vedeva ogni giorno da anni? Era famoso come conoscitore di uomini.»
+
+[[characters/father-brown|Padre Brown]] batté l'ombrello a terra con un'enfasi che di rado mostrava.
+
+«Sì», disse, quasi con ferocia; «è proprio così che si è fatto uccidere. È stato ucciso proprio per questo. È stato ucciso per essere un conoscitore di uomini.»
+
+Lo fissarono tutti, ma egli proseguì, quasi come se non fossero presenti.
+
+«Chi mai è un uomo perché debba giudicare gli uomini?», domandò. «Quei tre erano i vagabondi che un giorno gli erano comparsi davanti e furono congedati in fretta, l'uno di qua l'altro di là, verso questo o quel destino; come se per loro non esistesse alcun manto di cortesia, nessuna gradazione di intimità, nessun libero arbitrio nell'[[concepts/friendship|amicizia]]. E vent'anni non hanno esaurito lo sdegno nato da quell'insondabile insulto, nell'istante in cui egli osò riconoscerli a colpo d'occhio.»
+
+«Sì», disse il segretario; «capisco... e capisco come mai voi capiate... ogni sorta di cose.»
+
+«Be', che io sia dannato se ci capisco qualcosa», esclamò rumorosamente l'espansivo gentiluomo dell'Ovest. «Il vostro Wilson e il vostro irlandese mi sembrano proprio un paio di assassini tagliagole che hanno ammazzato il loro benefattore. Non so che farmene di un sicario nero e sanguinario di quella specie, nella mia morale, che sia religione o no.»
+
+«Era un assassino nero e sanguinario, non c'è dubbio», disse Fenner con calma. «Non lo difendo; ma suppongo che sia compito di [[characters/father-brown|Padre Brown]] pregare per tutti gli uomini, perfino per uno come...»
+
+«Sì», assentì [[characters/father-brown|Padre Brown]], «è mio compito pregare per tutti gli uomini, perfino per uno come Warren Wynd.»
+
+QUINTO: La maledizione della Croce d'oro
+
+Sei persone sedevano attorno a un tavolino, con un'aria quasi tanto stonata e casuale quanto se fossero naufragate ciascuna per proprio conto sulla medesima piccola isola deserta. Almeno il mare le circondava; giacché, in un certo senso, la loro isola era racchiusa dentro un'altra isola, un'isola grande e volante come Laputa. Poiché il tavolino era uno dei molti tavolini disseminati per la sala da pranzo di quel colossale piroscafo, il Moravia, che filava attraverso la notte e l'eterno vuoto dell'Atlantico. La piccola compagnia non aveva nulla in comune, se non che tutti facevano rotta dall'America verso l'Inghilterra. Due di loro, almeno, potevano dirsi celebrità; altri potevano dirsi oscuri, e in un caso o due persino equivoci.
+
+Il primo era il celebre professor Smaill, un'autorità in certi studi archeologici concernenti il tardo Impero bizantino. Le sue lezioni, tenute in un'università americana, erano accolte come di prim'ordine perfino nelle più autorevoli sedi del sapere europee. Le sue opere letterarie erano così pervase da una matura e fantasiosa simpatia per il passato europeo, che spesso faceva trasalire gli estranei sentirlo parlare con accento americano. Eppure, a suo modo, era assai americano; portava lunghi capelli biondi ravviati all'indietro da una grande fronte quadrata, aveva lineamenti lunghi e diritti e una curiosa mescolanza di assorto raccoglimento e di prontezza pronta a scattare, come un leone che rimugini distrattamente sul suo prossimo balzo.
+
+Nel gruppo vi era una sola signora; ed ella era (come i giornalisti dicevano spesso di lei) una folla in una persona sola, sempre pronta a fare da padrona di casa, per non dire da imperatrice, a quel tavolo come a qualunque altro. Era Lady Diana Wales, la celebre viaggiatrice per paesi tropicali e non; ma non v'era nulla di rude o di mascolino nel suo aspetto a tavola. Era bella, di una bellezza quasi tropicale, con una massa di capelli rossi, caldi e pesanti; era vestita in quella che i giornalisti chiamano una foggia ardita, ma il suo viso era intelligente e i suoi occhi avevano quell'aria vivace e piuttosto sporgente che appartiene agli occhi delle signore che fanno domande alle riunioni politiche.
+
+Le altre quattro figure parvero dapprima come ombre in questa presenza sfolgorante; ma, a guardarle da vicino, mostravano le loro differenze. Uno di loro era un giovane iscritto sul registro della nave come Paul T. Tarrant. Era un tipo americano che si potrebbe più giustamente chiamare un antitipo americano. Ogni nazione ha probabilmente il suo antitipo: una sorta di eccezione estrema che conferma la regola nazionale. Gli americani rispettano davvero il lavoro, un po' come gli europei rispettano la guerra. Vi è attorno ad esso un'aureola di eroismo; e chi se ne ritrae è meno di un uomo. L'antitipo risalta appunto per la sua estrema rarità. È il dandy, il bellimbusto: il ricco scioperato che offre un debole cattivo a tanti romanzi americani. Paul Tarrant pareva non avere assolutamente nulla da fare se non cambiarsi d'abito, cosa che faceva circa sei volte al giorno; passando a sfumature più pallide o più intense del suo completo di squisito grigio chiaro, come le delicate variazioni argentee del crepuscolo. Diversamente dalla maggior parte degli americani, coltivava con gran cura una barba corta e riccia; e, diversamente dalla maggior parte dei dandy, anche del suo stesso genere, pareva più imbronciato che vanesio. Forse v'era qualcosa di quasi byroniano nel suo silenzio e nella sua tetraggine.
+
+I due viaggiatori seguenti venivano naturalmente accomunati; e ciò per il solo fatto che erano entrambi conferenzieri inglesi di ritorno da una tournée americana. Uno di loro era indicato come Leonard Smyth, a quanto pareva un poeta minore, ma qualcosa come un giornalista maggiore; testa allungata, capelli chiari, vestito alla perfezione e perfettamente in grado di badare a sé stesso. L'altro offriva un contrasto piuttosto comico, essendo basso e tozzo, con un nero paio di baffi da tricheco, e taciturno tanto quanto l'altro era loquace. Ma poiché era stato tanto accusato di aver derubato quanto lodato per aver salvato una principessa rumena minacciata da un giaguaro del suo serraglio ambulante, e aveva così figurato in un processo mondano, si riteneva naturalmente che le sue opinioni su Dio, sul progresso, sulla propria giovinezza e sull'avvenire dei rapporti anglo-americani sarebbero riuscite di grande interesse e valore per gli abitanti di Minneapolis e di Omaha. La sesta e più insignificante figura era quella di un piccolo prete inglese che rispondeva al nome di Brown. Egli ascoltava la conversazione con rispettosa attenzione, e proprio in quel momento andava formandosi l'impressione che vi fosse una cosa piuttosto curiosa a suo riguardo.
+
+«Immagino che questi vostri studi bizantini, professore» stava dicendo Leonard Smyth, «getterebbero un po' di luce su questa storia di una tomba scoperta chissà dove sulla costa meridionale; vicino a Brighton, non è così? Brighton è ben lontana da Bisanzio, s'intende. Ma ho letto qualcosa a proposito dello stile di sepoltura, o di imbalsamazione, o che so io, che si suppone sia bizantino.»
+
+«Gli studi bizantini devono di certo spingersi molto lontano» rispose il professore con tono asciutto. «Parlano tanto di specialisti; ma io credo che la cosa più difficile al mondo sia specializzarsi. Prendete questo caso, per esempio: come può un uomo sapere qualcosa di Bisanzio, finché non sa tutto di Roma che la precedette e dell'Islam che la seguì? La maggior parte delle arti arabe erano antiche arti bizantine. Ma via, prendete l'algebra...»
+
+«Ma io non prenderò affatto l'algebra» esclamò la signora con tono risoluto. «Non l'ho mai fatto, e non lo farò mai. Sono però tremendamente interessata all'imbalsamazione. Ero con Gatton, sapete, quando aprì le tombe babilonesi. Da allora ho trovato mummie e corpi conservati e tutto quel genere di cose semplicemente elettrizzanti. Raccontateci di questa, vi prego.»
+
+«Gatton era un uomo interessante» disse il professore. «Erano una famiglia interessante. Quel suo fratello che entrò in Parlamento fu ben più di un comune politicante. Non capii mai i fascisti finché egli non tenne quel discorso sull'[[settings/italy|Italia]].»
+
+«Be', in questo viaggio non andiamo mica in Italia» disse Lady Diana con insistenza, «e credo che voi siate diretto a quel paesino dove hanno trovato la tomba. Nel Sussex, non è vero?»
+
+«Il Sussex è piuttosto vasto, per queste piccole contrade inglesi» rispose il professore. «Ci si potrebbe girovagare per un bel [[motifs/time|po' di tempo]]; ed è un buon luogo dove girovagare. È straordinario come sembrino grandi quelle basse colline, quando ci si sta sopra.»
+
+Vi fu un [[motifs/silence|silenzio]] improvviso e casuale; poi la signora disse: «Oh, salgo in coperta», e si alzò, mentre gli uomini si alzavano con lei. Ma il Professore si attardò e il piccolo prete fu l'ultimo a lasciare la tavola, ripiegando con cura il tovagliolo. E quando furono così rimasti soli, il Professore disse d'un tratto al suo commensale:
+
+«Che cosa direbbe fosse il senso di quella nostra piccola conversazione?»
+
+«Ebbene», rispose padre Brown sorridendo, «giacché me lo chiede, c'è stato qualcosa che mi ha un poco divertito. Posso sbagliarmi; ma mi è parso che la compagnia abbia fatto tre tentativi per indurla a parlare di un certo [[concepts/body|corpo]] imbalsamato che si dice sia stato ritrovato nel Sussex. E lei, dal canto suo, si è offerto con somma cortesia di discorrere: prima di algebra, poi dei Fascisti, e infine del paesaggio delle Downs.»
+
+«In breve», replicò il Professore, «lei ha pensato che io fossi pronto a parlare di qualsiasi argomento fuorché di quello. Aveva perfettamente ragione.»
+
+Il Professore rimase in silenzio per un poco di [[motifs/time|tempo]], lo sguardo abbassato sulla tovaglia; poi alzò gli occhi e parlò con quella rapida impulsività che faceva pensare al balzo del [[motifs/lion|leone]].
+
+«Mi ascolti, padre Brown», disse, «io la considero l'uomo più saggio e più candido che io abbia mai incontrato.»
+
+[[characters/father-brown|Father Brown]] era molto inglese. Possedeva tutta la normale impotenza nazionale sul da farsi quando un complimento serio e sincero gli viene d'improvviso rivolto in faccia, alla maniera americana. La sua risposta fu un mormorio privo di senso; e fu il Professore a proseguire, con la medesima serietà staccata: «Vede, fino a un certo punto la faccenda è abbastanza semplice. Una tomba cristiana dell'Alto Medioevo, apparentemente quella di un vescovo, è stata rinvenuta sotto una chiesetta a Dulham, sulla costa del Sussex. Il vicario si dà il caso sia egli stesso un discreto archeologo, ed è riuscito a scoprire ben più di quanto io sappia ancora. Correva voce che il cadavere fosse imbalsamato in una maniera propria dei Greci e degli Egizi, ma ignota in Occidente, e specialmente a quell'epoca. Sicché il signor Walters (è questi il vicario) si interroga naturalmente su eventuali influssi bizantini. Ma egli menziona anche qualcos'altro, che riveste per me un interesse persino più personale.»
+
+Il suo lungo volto grave parve farsi ancor più lungo e più grave mentre aggrottava la fronte fissando la tovaglia. Il suo lungo dito pareva tracciarvi sopra dei disegni, come le piante di città morte con i loro templi e i loro sepolcri.
+
+«Le dirò dunque, e a nessun altro, perché io debba andar cauto nel menzionare quella faccenda in compagnia mista; e perché, quanto più gli altri smaniano di parlarne, tanto più io debba stare in guardia. Si afferma inoltre che nella bara vi sia una catena con una [[motifs/cross|croce]], abbastanza comune a vedersi, ma recante sul retro un certo simbolo segreto che si ritrova su una sola altra [[motifs/cross|croce]] al mondo. Proviene dagli arcani della Chiesa delle primissime origini, e si suppone indichi san Pietro nell'atto di fondare la sua Sede ad Antiochia, prima di venire a Roma. In ogni modo, credo non ve ne sia che un'altra simile, ed essa appartiene a me. Ho sentito dire che vi sia intorno una storia di maledizione; ma non ci bado. Comunque, che ci sia o no una maledizione, c'è davvero, in un certo senso, una cospirazione; per quanto la cospirazione possa consistere in un uomo solo.»
+
+«In un uomo solo?» ripeté padre Brown quasi meccanicamente.
+
+«In un pazzo solo, per quel che ne so», disse il professor Smaill. «È una lunga storia, e per certi versi una storia sciocca.»
+
+Tornò a fare una pausa, tracciando piante come disegni architettonici col dito sulla tovaglia, e poi riprese: «Forse è meglio che gliela racconti dal principio, nel caso lei scorga nella vicenda qualche particolare che a me sfugge di senso. Cominciò tanti e tanti anni fa, quando conducevo per conto mio certe indagini sulle antichità di Creta e delle isole greche. Feci gran parte del lavoro praticamente da solo; talora col più rozzo e provvisorio aiuto degli abitanti del luogo, e talora letteralmente solo. Fu in quest'ultima circostanza che scoprii un dedalo di passaggi sotterranei che conducevano infine a un cumulo di ricche rovine, ornamenti spezzati e gemme sparse, che presi per i resti di un qualche altare sprofondato, e fra i quali rinvenni la curiosa [[motifs/cross|croce]] d'oro. La rigirai, e sul retro vidi l'Ichthys, ovvero il pesce, che era un antico simbolo cristiano, ma di forma e disegno alquanto diversi da quelli comunemente riscontrati; e, a quanto mi parve, più realistici: quasi che l'arcaico disegnatore avesse inteso farne non già un mero recinto o nimbo convenzionale, ma qualcosa che rassomigliasse un poco di più a un pesce vero. Mi parve di scorgere, verso un'estremità, uno schiacciamento che non aveva nulla della semplice decorazione matematica, ma somigliava piuttosto a una sorta di zoologia rozza, anzi selvaggia.
+
+«Per spiegarle in poche parole perché ritenni importante questo ritrovamento, devo dirle il fine di quello scavo. Anzitutto, esso aveva qualcosa della natura di uno scavo di uno scavo. Non eravamo sulle tracce soltanto delle antichità, ma degli antiquari dell'antichità. Avevamo ragione di credere, o alcuni di noi credevano di aver ragione di credere, che quei passaggi sotterranei, per lo più del periodo minoico, come quel famoso che è addirittura identificato col labirinto del Minotauro, non fossero realmente rimasti perduti e indisturbati per tutti i secoli intercorsi tra il Minotauro e l'esploratore moderno. Credevamo che quei luoghi sotterranei, direi quasi quelle città e villaggi sotterranei, fossero già stati penetrati, nel periodo frapposto, da alcune persone spinte da un qualche movente. Sul movente si contrapponevano diverse scuole di pensiero: alcuni sostenevano che gli Imperatori avessero ordinato un'esplorazione ufficiale per mera curiosità scientifica; altri che la furiosa moda, nel tardo Impero romano, per ogni sorta di torbide superstizioni asiatiche avesse spinto qualche innominata setta manichea o simile a darsi al baccano in quelle caverne, in orge che bisognava tenere nascoste alla faccia del sole. Io appartengo al gruppo che credeva quelle caverne fossero state usate nello stesso modo delle catacombe. Vale a dire, credevamo che, durante alcune delle persecuzioni che si propagavano come un incendio su tutto l'Impero, i Cristiani si fossero nascosti in quegli antichi labirinti pagani di pietra. Fu dunque con un brivido acuto come un tuono che trovai e raccolsi la croce d'oro caduta a terra e ne vidi il disegno; e fu con un fremito di felicità ancor più forte che, voltandomi per riprendere il cammino verso l'esterno e verso l'alto, verso la luce del giorno, alzai lo sguardo alle pareti di nuda roccia che si estendevano senza fine lungo i bassi passaggi, e vidi, graffiata in un contorno ancor più rozzo, ma se possibile ancor più inconfondibile, la forma del Pesce.
+
+«Qualcosa in esso lo faceva sembrare un pesce fossile o un qualche organismo rudimentale fissato per sempre in un mare gelato. Non riuscivo ad analizzare questa analogia, per il resto priva di ogni legame con un semplice disegno graffiato sulla pietra, finché non compresi che nel mio subconscio andavo ripetendo che i primi cristiani dovevano essere apparsi qualcosa di simile a pesci, muti e abitanti di un mondo decaduto, fatto di penombra e [[motifs/silence|silenzio]], sprofondati assai al di sotto dei piedi degli uomini e moventisi in un mondo oscuro, crepuscolare e senza suono.
+
+«Chiunque cammini lungo corridoi di pietra sa che cosa significhi essere seguìto da passi fantasma. L'eco insegue, battendo o schioccando dietro o davanti, così che è quasi impossibile, per l'uomo veramente solo, credere alla propria solitudine. Mi ero abituato agli effetti di quest'eco e da qualche tempo non vi facevo più molto caso, quando scorsi la forma simbolica scarabocchiata sulla parete di roccia. Mi fermai, e nello stesso istante mi parve che anche il cuore mi si arrestasse; perché i miei piedi si erano fermati, ma l'eco continuava a marciare.
+
+«Mi lanciai in avanti, e parve che anche i passi spettrali si mettessero a correre, ma non con quell'esatta imitazione che contraddistingue la ripercussione materiale di un suono. Mi fermai di nuovo, e anche i passi si fermarono; ma avrei giurato che si fermassero un istante troppo tardi; gridai una domanda, e al mio grido fu data risposta; ma la voce non era la mia.
+
+«Veniva da dietro lo spigolo di una roccia proprio dinanzi a me; e per tutta quella caccia sinistra notai che era sempre a un simile angolo del sentiero tortuoso che essa si arrestava e parlava. Il piccolo spazio davanti a me che la mia minuscola torcia elettrica riusciva a illuminare era sempre vuoto come una stanza vuota. In tali condizioni ebbi una conversazione con non so chi, che durò per tutto il tragitto fino al primo bianco baluginare della luce del giorno, e nemmeno là riuscii a vedere in che modo egli svanisse nella luce del giorno. Ma la bocca del labirinto era piena di aperture, di fenditure e di voragini, e non gli sarebbe stato difficile guizzare in qualche modo all'indietro e sparire di nuovo nel mondo sotterraneo delle caverne. So soltanto che sbucai sui gradini solitari di una gran montagna, simili a una terrazza di marmo, variata unicamente da una verde vegetazione che pareva in qualche modo più tropicale della purezza della roccia, come l'invasione orientale che si è diffusa sporadicamente sulla caduta della classica Ellade. Mi affacciai su un mare d'azzurro immacolato, e il sole splendeva costante su una solitudine e un silenzio assoluti; e non c'era un filo d'erba mosso da un sussurro di fuga, né l'ombra dell'ombra di un uomo.
+
+«Era stata una conversazione terribile; così intima e così personale e, in un certo senso, così noncurante. Questo essere, senza corpo, senza volto, senza nome, e che pure mi chiamava per nome, mi aveva parlato in quelle cripte e in quelle fenditure dove eravamo sepolti vivi con non più passione o [[forms/melodrama|melodramma]] che se fossimo stati seduti in due poltrone di un club. Ma mi aveva anche detto che avrebbe indubbiamente ucciso me, o qualunque altro uomo fosse entrato in possesso della [[motifs/cross|croce]] con il segno del pesce. Mi disse francamente che non era così [[archetypes/fool|sciocco]] da assalirmi lì nel labirinto, sapendo che avevo una rivoltella carica, e che egli correva tanto rischio quanto me. Ma mi disse, con eguale calma, che avrebbe pianificato il mio assassinio con la certezza del successo, con ogni dettaglio elaborato e ogni pericolo scongiurato, con quella sorta di perfezione artistica che un artigiano cinese o un ricamatore indiano conferisce all'opera artistica di un'intera [[motifs/time|vita]]. Eppure non era un orientale; sono certo che fosse un uomo bianco. Sospetto che fosse un mio connazionale.
+
+«Da allora ho ricevuto di tanto in tanto segni e simboli e strani messaggi impersonali che mi hanno reso certo, quanto meno, che se quell'uomo è un maniaco, è un monomaniaco. Continua a dirmi, in quel modo aereo e distaccato, che i preparativi per la mia morte e la mia sepoltura procedono in maniera soddisfacente; e che l'unico modo in cui posso impedire che siano coronati da un comodo successo è cedere la reliquia in mio possesso — la croce unica che trovai nella caverna. Non pare nutrire alcun sentimento religioso o fanatismo in proposito; pare non avere altra passione che quella di un collezionista di curiosità. È una delle cose che mi fanno sentire sicuro che sia un uomo dell'Occidente e non dell'Oriente. Ma questa particolare curiosità pare averlo fatto impazzire del tutto.
+
+«E poi giunse questa notizia, ancora non confermata, riguardo alla reliquia gemella rinvenuta su un [[concepts/body|corpo]] imbalsamato in una tomba del Sussex. Se prima era stato un maniaco, questa notizia lo trasformò in un indemoniato posseduto da sette diavoli. Che ve ne fosse una appartenente a un altro uomo era già abbastanza grave, ma che ve ne fossero due e nessuna delle due appartenesse a lui era una tortura insopportabile. I suoi folli messaggi cominciarono a giungere fitti e rapidi come rovesci di frecce avvelenate, e ciascuno gridava con più sicurezza del precedente che la [[motifs/death|morte]] mi avrebbe colpito nell'istante in cui avessi teso la mia indegna mano verso la [[motifs/cross|croce]] nella tomba.
+
+«“Non mi conoscerai mai,” scrisse, “non pronuncerai mai il mio nome; non vedrai mai il mio volto; morirai, e non saprai mai chi ti ha ucciso. Posso trovarmi in qualunque forma tra quelle che ti circondano; ma sarò in quella soltanto verso cui ti sei dimenticato di guardare.”
+
+«Da queste minacce deduco che è assai probabile che mi [[archetypes/shadow|pedini]] in questa spedizione, e che cerchi di rubare la reliquia o di farmi qualche danno per il fatto che la possiedo. Ma poiché non ho mai visto quell'uomo in vita mia, egli può essere quasi chiunque io incontri. Logicamente parlando, può essere uno qualunque dei camerieri che mi servono a tavola. Può essere uno qualunque dei passeggeri che siedono con me a tavola.»
+
+«Può essere me» disse Padre Brown, con allegro disprezzo per la grammatica.
+
+«Può essere chiunque altro» rispose Smaill con serietà. «È questo che intendevo con ciò che ho detto poco fa. Lei è l'unico uomo di cui mi senta sicuro che non sia il nemico.»
+
+Padre Brown parve di nuovo imbarazzato; poi sorrise e disse: «[[motifs/well|Ebbene]], per quanto strano possa sembrare, non lo sono. Ciò che dobbiamo considerare è se vi sia qualche possibilità di scoprire se egli è davvero qui prima che — prima che si renda sgradevole.»
+
+«C'è un modo per scoprirlo, credo» osservò il Professore con una certa cupezza. «Quando arriveremo a Southampton, prenderò subito un'automobile e mi dirigerò lungo la costa; sarei lieto se voleste accompagnarmi, ma in senso ordinario, s'intende, la nostra piccola compagnia si scioglierà. Se qualcuno di loro dovesse ricomparire in quel piccolo cimitero sulla costa del Sussex, sapremo chi egli sia davvero.»
+
+Il programma del Professore fu debitamente eseguito, almeno per quanto riguardava l'automobile e il suo carico nella persona di [[characters/father-brown|Padre Brown]]. Costeggiarono la [[motifs/road|strada]] con il mare da un lato e le colline dell'Hampshire e del Sussex dall'altro; né apparve all'occhio [[archetypes/shadow|ombra]] alcuna d'inseguimento. Mentre si avvicinavano al villaggio di Dulham, un solo uomo incrociò il loro cammino che avesse qualche legame con la questione in corso: un giornalista che aveva appena visitato la chiesa ed era stato cortesemente accompagnato dal vicario attraverso la cappella di recente scavata; ma le sue osservazioni e i suoi appunti parevano del comune genere giornalistico. Eppure il Professor Smaill era forse un po' fantasioso, e non riusciva a scacciare la sensazione di qualcosa di strano e scoraggiante nell'atteggiamento e nell'aspetto di quell'uomo, alto e trasandato, dal naso adunco e dagli occhi infossati, con i baffi che pendevano avviliti. Sembrava tutt'altro che rallegrato dal suo recente esperimento di turista; anzi, pareva allontanarsi il più rapidamente possibile da quella vista, quando lo fermarono con una domanda.
+
+«Si tratta tutto di una maledizione» disse; «una maledizione sul luogo, secondo la guida o il parroco o l'abitante più anziano o chiunque sia l'autorità in materia; e per la verità, ci si sente proprio così. Maledizione o non maledizione, sono contento di esserne uscito.»
+
+«Credete alle maledizioni?» chiese Smaill incuriosito.
+
+«Non credo a nulla; sono un giornalista» rispose quell'essere [[concepts/melancholy|malinconico]]. «Boon, del Daily Wire. Ma c'è qualcosa di raccapricciante in quella cripta; e non negherò mai d'aver sentito un brivido.» E proseguì a grandi passi verso la stazione ferroviaria, accelerando ancora l'andatura.
+
+«Sembra un corvo o una cornacchia, quel tale» osservò Smaill mentre si volgevano verso il cimitero. «Come si dice, a proposito di un uccello di malaugurio?»
+
+Entrarono lentamente nel cimitero, gli occhi dell'antiquario americano che indugiavano con voluttà sul tetto isolato del portale coperto e sull'enorme, imperscrutabile massa nera del tasso, simile alla notte stessa che sfidasse la piena luce del giorno. Il sentiero saliva tra ondulati ripiani d'erba in cui le lapidi erano inclinate a ogni angolazione, come zattere di pietra sballottate su un mare verde, finché non giunse al crinale oltre il quale il grande mare stesso correva come una sbarra di ferro, con pallidi bagliori dentro simili all'acciaio. Quasi ai loro piedi la dura erba ispida si mutava in un ciuffo d'agrifoglio marino e finiva in sabbia grigia e gialla; e a un piede o due dall'agrifoglio, stagliata scura contro il mare d'acciaio, si ergeva una figura immobile. Se non fosse stato per le sue vesti grigio scuro, avrebbe potuto quasi essere la statua di qualche monumento sepolcrale. Ma Padre Brown riconobbe all'istante qualcosa nell'elegante curva delle spalle e nella sporgenza piuttosto imbronciata della corta barba in fuori.
+
+«Perbacco!» esclamò il professore d'archeologia; «è quel tale, Tarrant, se lo si può chiamare un uomo. Avreste mai pensato, quando ne parlai sul piroscafo, che avrei ottenuto una risposta così pronta alla mia domanda?»
+
+«Temevo che poteste ottenerne fin troppe» rispose [[characters/father-brown|Padre Brown]].
+
+«Come, che cosa intendete dire?» s'informò il Professore, lanciandogli un'occhiata al di sopra della spalla.
+
+«Intendo» rispose l'altro con dolcezza «che mi è parso di udire delle voci dietro il tasso. Non credo che il signor Tarrant sia così solitario come sembra; oserei perfino dire, così solitario come ama sembrare.»
+
+Proprio mentre Tarrant si voltava lentamente col suo fare accigliato, ne venne la conferma. Un'altra voce, acuta e piuttosto dura, ma non per questo meno femminile, diceva con esperta ironia: «E come potevo sapere che sarebbe stato qui?» Al Professor Smaill fu chiaro che quell'allegra osservazione non era rivolta a lui; sicché fu costretto a concludere, con un certo sconcerto, che era presente addirittura una terza persona. Quando Lady [[characters/diana|Diana]] Wales uscì, raggiante e risoluta come sempre, dall'[[archetypes/shadow|ombra]] del tasso, egli notò con cupezza che aveva un'[[archetypes/shadow|ombra]] vivente tutta sua. La figura magra e azzimata di Leonard Smyth, quell'insinuante uomo di lettere, apparve immediatamente dietro la sagoma sgargiante di lei, sorridente, la testa un poco reclinata da un lato come quella d'un cane.
+
+«Diamine!» borbottò Smaill; «ma allora ci sono proprio tutti! O tutti tranne quel piccolo imbonitore dai baffi di tricheco.»
+
+Sentì [[characters/father-brown|Padre Brown]] ridere sommessamente al suo fianco; e in verità la situazione stava diventando qualcosa di più che ridicolo. Sembrava capovolgersi e rovinare loro attorno alle orecchie come un gioco di pantomima; poiché, proprio mentre il Professore stava parlando, le sue parole avevano ricevuto la più comica delle smentite. La testa tonda con il [[concepts/grotesque|grottesco]] nero mezzaluna di baffi era apparsa d'improvviso, e a quanto pareva da un buco nel terreno. Un istante dopo si resero conto che il buco era in realtà un buco assai grande, che immetteva in una scala a pioli discendente nelle viscere della terra; che era, di fatto, l'ingresso alla scena sotterranea che erano venuti a visitare. Il piccolo uomo era stato il primo a trovare l'ingresso, e aveva già disceso uno o due pioli della scala prima di sporgere di nuovo la testa per rivolgersi ai compagni di viaggio. Aveva l'aria di qualche [[motifs/grave|becchino]] particolarmente assurdo in una parodia dell'[[characters/hamlet|Amleto]]. Disse soltanto, con voce impastata dietro i folti baffi: «È quaggiù.» Ma agli altri della comitiva venne, con un sussulto di consapevolezza, che, per quanto gli fossero seduti di fronte a tavola per una settimana, quasi mai l'avevano udito parlare prima; e che, benché lo si supponesse conferenziere inglese, egli parlava con un accento straniero piuttosto occulto.
+
+«Vedete, mio caro Professore» esclamò Lady [[characters/diana|Diana]] con incisiva allegria, «la vostra mummia bizantina era semplicemente troppo eccitante per lasciarsela sfuggire. Non potevo far altro che venire a vederla; e sono certa che i signori provavano esattamente lo stesso. Ora dovete raccontarci tutto quanto.»
+
+«Non so tutto di questa faccenda», disse il Professore con gravità, per non dire con cupezza, «e sotto certi aspetti non so nemmeno di che cosa si tratti. Certo pare strano che ci siamo ritrovati tutti insieme così presto, ma suppongo che non vi siano limiti alla moderna sete di sapere. Se però dobbiamo davvero visitare tutti quel luogo, la cosa va fatta in maniera responsabile e, se mi permettete, sotto una guida responsabile. Dobbiamo avvertire chiunque sia incaricato degli scavi; con ogni probabilità dovremo perlomeno mettere il nostro nome su un registro.»
+
+A questo scontro fra l'impazienza della signora e i sospetti dell'archeologo seguì qualcosa che assomigliava assai a un battibecco; ma alla fine prevalse l'insistenza di quest'ultimo sui diritti ufficiali del Vicario e sull'indagine locale; l'ometto dai baffi uscì di malavoglia una seconda volta dalla sua fossa e acconsentì in silenzio a una discesa meno impetuosa. Per fortuna, a questo punto comparve il pastore in persona: un gentiluomo dai capelli grigi e di bell'aspetto, con una cadenza melanconica accentuata da un paio di occhiali a doppia lente; e mentre stabiliva rapidamente rapporti cordiali con il Professore in quanto collega antiquario, non sembrava considerare quel suo gruppo di compagni piuttosto variopinto con nulla di più ostile del divertimento.
+
+«[[concepts/hope|Spero]] che nessuno di voi sia superstizioso», disse in tono affabile. «Devo dirvi, tanto per cominciare, che si suppone incombano ogni sorta di malaugurî e maledizioni sulle nostre devote teste in questa impresa. Ho appena finito di decifrare un'iscrizione latina rinvenuta sopra l'ingresso della cappella; e parrebbe che le maledizioni coinvolte non siano meno di tre: una maledizione per chi entra nella camera sigillata, una doppia maledizione per chi apre il feretro, e una tripla e terribilissima maledizione per chi tocca la reliquia d'oro trovata al suo interno. Le prime due maledizioni le ho già attirate su di me», soggiunse con un sorriso; «ma [[concepts/fear|temo]] che perfino voi dovrete incorrere nella prima e più mite di esse, se volete vedere alcunché. Stando alla leggenda, le maledizioni scendono in modo piuttosto indugiante, a lunghi intervalli e in occasioni successive. Non so se questo vi sia di qualche conforto.» E il reverendo signor Walters sorrise ancora una volta nella sua maniera melanconica e benevola.
+
+«Leggenda», ripeté il professor Smaill, «ma insomma, quale leggenda?»
+
+«È una storia piuttosto lunga e mutevole, come le altre leggende locali», rispose il Vicario. «Ma è senza dubbio contemporanea all'[[motifs/time|epoca]] della tomba; e la sua sostanza è racchiusa nell'[[forms/inscription|iscrizione]], e in linea di massima è questa. Guido de Gisors, signore di questo maniero nei primi anni del tredicesimo secolo, si era invaghito di un bel [[motifs/horse|cavallo]] nero appartenente a un inviato genovese, cavallo che quel pratico principe mercante non voleva vendere se non a un prezzo enorme. L'avarizia spinse Guido al delitto di saccheggiare il santuario e, secondo una versione, perfino di uccidere il vescovo che allora vi risiedeva. Comunque sia, il vescovo pronunciò una maledizione che sarebbe caduta su chiunque avesse continuato a sottrarre la [[motifs/cross|croce]] d'oro dal suo luogo di riposo nella tomba, o avesse osato turbarla una volta che vi fosse tornata. Il signore feudale raccolse il denaro per il [[motifs/horse|cavallo]] vendendo la reliquia d'oro a un orefice della città; ma il primo giorno in cui montò il [[motifs/horse|cavallo]], l'animale si impennò e lo disarcionò davanti al portico della chiesa, spezzandogli il collo. Nel frattempo l'orefice, fino allora ricco e prospero, fu rovinato da una serie di incidenti inspiegabili, e cadde in balìa di un usuraio ebreo che viveva nel maniero. Alla fine lo sventurato orefice, ridotto a non avere davanti a sé che la fame, si impiccò a un melo. La [[motifs/cross|croce]] d'oro, insieme a tutti gli altri suoi beni, la sua casa, la bottega e gli arnesi, era da tempo passata in possesso dell'usuraio. Frattanto il figlio ed erede del signore feudale, sconvolto dalla condanna che aveva colpito il suo empio genitore, era diventato un fervente devoto nello spirito tetro e severo di quei tempi, e si era convinto che fosse suo dovere perseguitare ogni eresia e miscredenza fra i suoi vassalli. Così l'ebreo, a sua volta, che il padre aveva cinicamente tollerato, fu spietatamente arso per ordine del figlio; sicché anch'egli, a sua volta, patì per il possesso della reliquia; e dopo queste tre condanne, la reliquia fu restituita alla tomba del vescovo; da allora nessun occhio l'ha veduta e nessuna mano l'ha toccata.»
+
+Lady [[characters/diana|Diana]] Wales parve più colpita di quanto ci si sarebbe potuti aspettare. «Fa davvero venire un certo brivido», disse, «pensare che saremo i primi, tranne il vicario.»
+
+Il pioniere dai grandi baffi e dall'inglese stentato non discese, dopo tutto, per la sua scala prediletta, che in realtà era stata usata soltanto da alcuni degli operai addetti agli scavi; poiché il pastore li condusse in giro fino a un ingresso più ampio e più comodo, un centinaio di metri più in là, dal quale egli stesso era appena riemerso dalle sue indagini sotterranee. Qui la discesa avveniva lungo un pendio abbastanza dolce, senza altre difficoltà che l'oscurità crescente; ben presto infatti si trovarono a procedere in fila indiana giù per una galleria nera come la pece, e passò un certo [[motifs/time|tempo]] prima che scorgessero un barlume di luce davanti a sé. Una volta, durante quella marcia silenziosa, si udì un suono simile a un respiro trattenuto in gola, ed era impossibile dire di chi; e una volta risuonò un'imprecazione come una sorda esplosione, in una lingua sconosciuta.
+
+Sbucarono in una camera circolare, simile a una basilica, entro un anello di archi a tutto sesto; giacché quella cappella era stata edificata prima che il primo arco a sesto acuto del gotico trafiggesse come una lancia la nostra civiltà. Un barlume di luce verdastra fra alcuni dei pilastri segnava il punto dell'altra apertura sul mondo di sopra, e dava una vaga impressione di trovarsi sott'acqua, impressione accresciuta da una o due altre somiglianze accessorie e forse fantasiose. Il motivo a dente di cane dei Normanni si distingueva infatti debolmente intorno a tutti gli archi, conferendo loro, al di sopra della tenebra cavernosa, qualcosa dell'aspetto delle fauci di mostruosi squali. E al centro la mole oscura della tomba stessa, con il suo coperchio di pietra sollevato, avrebbe potuto quasi essere le mascelle di un simile leviatano.
+
+Sia per un senso di convenienza, sia per mancanza di apparecchiature più moderne, l'antiquario in abito talare aveva disposto che la cappella fosse illuminata soltanto da quattro alte candele infilate in grossi candelieri di legno posati sul pavimento. Di queste una sola era accesa quando essi entrarono, e spandeva un debole barlume sulle possenti forme architettoniche. Quando furono tutti radunati, l'ecclesiastico si accinse ad accendere le altre tre, e l'aspetto e il contenuto del grande sarcofago si offrirono più chiaramente alla vista.
+
+Tutti gli sguardi corsero dapprima al volto del morto, conservato attraverso tutti quei secoli nelle linee della vita per mezzo di qualche segreto procedimento orientale, si diceva, ereditato dall'antichità pagana e ignoto agli umili cimiteri della nostra isola. [[works/the-professor-(bronte)|The Professor]] a stento riuscì a trattenere un'esclamazione di [[concepts/wonder|meraviglia]]; poiché, sebbene il volto fosse pallido come una maschera di cera, per il resto sembrava quello di un uomo addormentato, che in quello stesso istante avesse chiuso gli occhi. Era un volto del tipo ascetico, forse persino fanatico, con un'alta impalcatura di ossa; la figura era ammantata in un piviale d'oro e in sontuosi paramenti, e in alto sul petto, alla base della gola, luccicava la famosa [[motifs/cross|croce]] d'oro appesa a una corta catenella d'oro, o meglio a una collana. La bara di pietra era stata aperta sollevandone il coperchio dal lato del capo e puntellandolo in alto su due robuste stanghe o pertiche di legno, agganciate in cima sotto l'orlo della lastra superiore e incuneate in basso negli angoli della bara, dietro il capo del cadavere. Si potevano dunque scorgere meno i piedi o la parte inferiore della figura, ma la luce delle candele batteva in pieno sul volto; e, in contrasto con le sue tinte d'avorio morto, la [[motifs/cross|croce]] d'oro pareva agitarsi e scintillare come un [[motifs/fire|fuoco]].
+
+L'ampia fronte del professor Smaill portava un profondo solco di riflessione, o forse di preoccupazione, fin da quando l'ecclesiastico aveva raccontato la storia della maledizione. Ma l'intuito femminile, non immune da un'isteria pure femminile, comprese il senso di quella sua immobilità meditabonda meglio di quanto lo comprendessero gli uomini che gli stavano intorno. Nel [[motifs/silence|silenzio]] di quella caverna illuminata dalle candele Lady [[characters/diana|Diana]] gridò a un tratto: «Non toccarla, ti dico!»
+
+Ma l'uomo aveva già compiuto uno dei suoi rapidi movimenti leonini, chinandosi in avanti sopra il corpo. L'istante seguente scattarono tutti, chi in avanti chi indietro, ma tutti con un terribile gesto di chi si abbassa di scatto, come se il cielo stesse crollando.
+
+Non appena il professore posò un dito sulla croce d'oro, i puntelli di legno, che si piegavano lievissimamente nel sostenere il coperchio di pietra sollevato, parvero sobbalzare e raddrizzarsi con uno strappo. L'orlo della lastra di pietra scivolò dal suo appoggio di legno; e in tutte le loro anime e in tutti i loro stomaci si insinuò una nauseante sensazione di rovina precipitante, come se fossero stati tutti scaraventati giù da un precipizio. Smaill aveva ritratto il capo con prontezza, ma non in tempo; e giaceva privo di sensi accanto alla bara, in una rossa pozza di sangue sgorgato dal cuoio capelluto o dal cranio. E l'antica bara di pietra era di nuovo chiusa come lo era stata per secoli; salvo che uno o due bastoni o schegge sporgevano dalla fessura, orribilmente evocatori di ossa stritolate da un orco. Il leviatano aveva serrato le sue fauci di pietra.
+
+Lady Diana fissava lo scempio con occhi che avevano un bagliore elettrico come di follia; i suoi capelli rossi parevano scarlatti contro il pallore del viso in quel crepuscolo verdastro. Smyth guardava lei, sempre con qualcosa di canino nell'inclinazione del capo; ma era l'espressione di un cane che guarda un padrone la cui catastrofe egli può comprendere solo in parte. Tarrant e lo straniero si erano irrigiditi nei loro consueti atteggiamenti imbronciati, ma i loro volti avevano assunto il colore dell'argilla. Il vicario pareva essere svenuto. Padre Brown era inginocchiato accanto alla figura caduta, e cercava di saggiarne le condizioni.
+
+Con sorpresa generale, il fannullone byroniano, Paul Tarrant, si fece avanti per aiutarlo.
+
+«Sarà meglio portarlo su, all'aria aperta» disse. «Suppongo che gli resti giusto una possibilità.»
+
+«Non è morto» disse [[characters/father-brown|Father Brown]] a voce bassa «ma temo che sia piuttosto grave; non sarà per caso un medico?»
+
+«No; ma nella mia [[motifs/time|vita]] ho dovuto imparare parecchie cose» rispose l'altro. «Ma non pensi a me adesso. La mia vera professione probabilmente la sorprenderebbe.»
+
+«Non credo» replicò [[characters/father-brown|Father Brown]] con un lieve sorriso. «Ci ho pensato circa a metà della traversata. Lei è un investigatore che pedina qualcuno. Be', a ogni modo la croce è ormai al sicuro dai ladri.»
+
+Mentre parlavano, Tarrant aveva sollevato la fragile figura dell'uomo caduto con disinvolta forza e destrezza, e la trasportava con cautela verso l'uscita. Rispose voltando appena il capo:
+
+«Sì, la [[motifs/cross|croce]] è abbastanza al sicuro.»
+
+«Vuol dire che nessun altro lo è» replicò Brown. «Pensa anche lei alla maledizione?»
+
+[[characters/father-brown|Father Brown]] andò in giro, per le due ore che seguirono, sotto un peso di accigliata perplessità che era qualcosa di più dello sconvolgimento per il tragico incidente. Aiutò a trasportare la vittima alla piccola locanda di fronte alla chiesa, interpellò il medico, che giudicò la ferita grave e minacciosa, benché non certamente mortale, e portò la notizia al piccolo gruppo di viaggiatori che si era radunato attorno al tavolo nella saletta della locanda. Ma ovunque andasse la nube della perplessità si posava su di lui e pareva farsi più cupa quanto più a fondo egli rifletteva. Poiché il mistero centrale si faceva sempre più misterioso, e proprio nella stessa misura in cui molti dei misteri minori cominciavano a chiarirsi nella sua mente. Esattamente nella misura in cui il significato delle singole figure di quel gruppo variopinto cominciava a spiegarsi, ciò che era accaduto diventava sempre più difficile da spiegare. Leonard Smyth era venuto soltanto perché era venuta Lady [[characters/diana|Diana]]; e Lady [[characters/diana|Diana]] era venuta soltanto perché così le piaceva. Erano impegnati in uno di quei fluttuanti flirt mondani che sono tanto più sciocchi quanto più si atteggiano a semi-intellettuali. Ma il romanticismo della dama aveva un suo lato superstizioso; ed ella era rimasta piuttosto [[motifs/well|ben]] prostrata dal terribile epilogo della sua avventura. Paul Tarrant era un [[archetypes/detective|investigatore]] privato, forse incaricato di sorvegliare il flirt per conto di qualche moglie o marito; forse di pedinare il conferenziere straniero dai baffi, che aveva tutta l'aria di uno straniero indesiderabile. Ma se lui o chiunque altro avesse avuto l'intenzione di rubare la reliquia, tale intenzione era stata definitivamente frustrata. E, a ogni umana apparenza, ciò che l'aveva frustrata era o un'incredibile coincidenza o l'intervento dell'antica maledizione.
+
+Mentre se ne stava in preda a un'insolita perplessità in mezzo alla strada del villaggio, fra la locanda e la chiesa, provò un lieve sussulto di sorpresa nel vedere avanzare lungo la via una figura da poco divenuta familiare, ma piuttosto inattesa. Il signor Boon, il giornalista, dall'aria assai sparuta sotto il sole, che ne metteva in risalto le vesti sdrucite come quelle di uno spaventapasseri, teneva gli occhi scuri e infossati (piuttosto ravvicinati ai due lati del lungo naso cadente) fissi sul prete. Questi dovette guardarlo due volte prima di rendersi conto che i folti baffi scuri celavano qualcosa di simile a un ghigno, o quantomeno a un sorriso arcigno.
+
+«Credevo che se ne stesse andando» disse Padre Brown con una punta di asprezza. «Credevo fosse partito con quel treno due ore fa.»
+
+«Be', come vede, non l'ho fatto» disse Boon.
+
+«Perché è tornato?» chiese il prete quasi severamente.
+
+«Non è il genere di piccolo paradiso rurale che un giornalista abbandoni in fretta» rispose l'altro. «Qui le cose accadono troppo in fretta perché valga la pena tornarsene in un posto tetro come [[settings/london|Londra]]. Del resto, non possono tenermi fuori da questa faccenda... intendo dire da questa seconda faccenda. Sono stato io a trovare il [[concepts/body|corpo]], o quantomeno gli abiti. Condotta assai sospetta da parte mia, non trova? Forse pensa che volessi indossare io i suoi vestiti. Non farei un curato incantevole?»
+
+E il magro saltimbanco dal naso lungo compì d'un tratto un gesto stravagante in mezzo alla piazza del mercato, tendendo le braccia e spalancando le mani inguantate di scuro in una sorta di benedizione burlesca, dicendo: «Oh, miei cari fratelli e sorelle, poiché vorrei abbracciarvi tutti...»
+
+«Ma di che diamine sta parlando?» esclamò [[characters/father-brown|Father Brown]], e picchiettò leggermente le pietre col suo tozzo ombrello, poiché era un po' meno paziente del solito.
+
+«Oh, scoprirà ogni cosa se lo chiede a quella sua brigata da picnic alla locanda» rispose Boon con disprezzo. «Quel tale Tarrant pare sospettare di me solo perché ho trovato gli abiti; benché sia arrivato con appena un minuto di ritardo per trovarli lui stesso. Ma in questa storia ci sono misteri d'ogni sorta. Il piccoletto dai grossi baffi potrebbe nascondere ben più di quanto appaia. E se è per questo, non vedo perché non dovrebbe essere stato lei stesso a uccidere quel povero diavolo.»
+
+[[characters/father-brown|Father Brown]] non parve minimamente seccato dall'insinuazione, ma sembrò oltremodo turbato e sconcertato dall'osservazione. «Vuol dire» chiese con semplicità «che sarei stato io a tentare di uccidere il professor Smaill?»
+
+«Niente affatto» disse l'altro, agitando la mano con l'aria di chi fa una magnanima concessione. «Ha morti in abbondanza fra cui scegliere. Non deve limitarsi al professor Smaill. Come, non sapeva che era saltato fuori qualcun altro, ben più morto del professor Smaill? E non vedo perché non dovrebbe averlo fatto fuori lei, alla chetichella. Divergenze religiose, sa... deplorevole disunione della cristianità... Immagino che abbia sempre desiderato riavere le parrocchie inglesi.»
+
+«Torno alla locanda» disse il prete con calma; «lei dice che quelli là dentro sanno cosa intende, e forse sapranno anche dirlo.»
+
+In [[concepts/truth|verità]], subito dopo le sue private perplessità conobbero una momentanea dispersione alla notizia di una nuova sciagura. Nell'istante in cui entrò nel piccolo salottino dove il resto della compagnia era radunato, qualcosa nei loro volti pallidi gli disse che erano scossi da qualcosa di ancor più recente dell'incidente al sepolcro. Proprio mentre entrava, Leonard Smyth stava dicendo: «Dove andrà a finire tutto questo?»
+
+«Non finirà mai, ve lo dico io» ripeté Lady Diana, fissando il vuoto con occhi vitrei; «non finirà finché non finiremo tutti quanti. A uno a uno la maledizione ci prenderà; lentamente, forse, come diceva il povero vicario; ma ci prenderà tutti, come ha preso lui.»
+
+«Che cosa mai è successo adesso?» chiese Padre Brown.
+
+Vi fu un silenzio, poi Tarrant disse con una voce che suonava un po' cava: «Il signor Walters, il vicario, si è tolto la vita con un [[concepts/suicide|suicidio]]. Immagino sia stato lo choc a fargli perdere la ragione. Ma [[concepts/fear|temo]] che non ci possa essere alcun [[concepts/doubt|dubbio]] al riguardo. Abbiamo appena trovato il suo cappello nero e i suoi abiti su uno scoglio che sporge dalla riva. Pare si sia gettato in mare. Mi era sembrato che la cosa l'avesse ridotto mezzo scemo, e forse avremmo dovuto tenerlo d'occhio; ma c'era tanto di cui occuparsi.»
+
+«Non avreste potuto far nulla» disse la dama. «Non vedete che la cosa dispensa la sua condanna secondo un ordine spaventoso? Il professore toccò la [[motifs/cross|croce]], e se ne andò per primo; il vicario aveva aperto la tomba, e se ne andò per secondo; noi non abbiamo fatto che entrare nella cappella, e noi...»
+
+«Un momento» disse [[characters/father-brown|Father Brown]], con una voce tagliente che usava assai di rado; «questo deve finire.»
+
+Recava ancora sul volto un cipiglio pesante, benché inconsapevole, ma nei suoi occhi non c'era più la nube della perplessità, bensì una luce di comprensione quasi terribile. «Che [[archetypes/fool|sciocco]] sono stato!» mormorò. «Avrei dovuto capirlo da un pezzo. Il racconto della maledizione avrebbe dovuto dirmelo.»
+
+«Vuol dire» incalzò Tarrant «che davvero possiamo essere uccisi ora da qualcosa accaduto nel tredicesimo secolo?»
+
+Padre Brown scosse il capo e rispose con tranquilla enfasi: «Non discuterò se possiamo essere uccisi da qualcosa accaduto nel tredicesimo secolo; ma sono più che certo che non possiamo essere uccisi da qualcosa che nel tredicesimo secolo non è mai accaduto, qualcosa che non è mai accaduto affatto.»
+
+«Be'» disse Tarrant «fa piacere trovare un prete così scettico riguardo al [[motifs/supernatural|soprannaturale]] a tal punto.»
+
+«Niente affatto» replicò il prete con calma; «non è della parte [[motifs/supernatural|soprannaturale]] che [[concepts/doubt|dubito]]. È della parte naturale. Mi trovo esattamente nella posizione di quell'uomo che diceva: "Posso credere all'impossibile, ma non all'improbabile".»
+
+«E questo è ciò che lei chiama un paradosso, non è vero?» chiese l'altro.
+
+«È ciò che io chiamo buon senso, inteso a dovere» rispose [[characters/father-brown|Father Brown]]. «È davvero più naturale credere a una storia prodigiosa, che tratta di cose che non comprendiamo, che a una storia naturale che contraddice cose che invece comprendiamo. Ditemi che il grande signor Gladstone, nelle sue ultime ore, fu perseguitato dal [[archetypes/ghost|fantasma]] di Parnell, e sarò agnostico al riguardo. Ma ditemi che il signor Gladstone, la prima volta che fu presentato alla [[characters/queen|regina]] Vittoria, tenne il cappello in testa nel suo salotto, le diede una pacca sulla schiena e le offrì un sigaro, e allora non sono affatto agnostico. Questo non è impossibile; è soltanto incredibile. Eppure sono assai più certo che ciò non sia accaduto di quanto lo sia che il [[archetypes/ghost|fantasma]] di Parnell non sia apparso; perché viola le leggi del mondo che io comprendo. Così è con quel racconto della maledizione. Non è la leggenda che io non credo... è la [[concepts/history|storia]].»
+
+Lady [[characters/diana|Diana]] si era un poco riavuta dalla sua trance di Cassandra,
+e la sua perenne curiosità per le cose nuove tornava ad affacciarsi
+dai suoi occhi vividi e sporgenti.
+
+«Che uomo curioso siete!» disse. «Perché mai dovreste
+dubitare della [[concepts/history|storia]]?»
+
+«Non credo alla storia perché non è storia»,
+rispose Padre Brown. «Per chiunque si dia il caso di conoscere
+un poco il Medioevo, tutta la vicenda era all'incirca
+tanto probabile quanto Gladstone che offre alla [[characters/queen|regina]] Vittoria un sigaro.
+Ma qualcuno sa qualcosa del Medioevo? Sapete
+che cos'era una Gilda? Avete mai sentito parlare del salvo managio suo?
+Sapete che genere di persone fossero i Servi Regis?
+
+«No, certo che non lo so», disse la dama, piuttosto stizzita.
+«Quante parole latine!»
+
+«No, certo», disse Padre Brown. «Se si fosse trattato di Tutankhamon
+e di un manipolo di Africani rinsecchiti, conservati Dio sa perché
+all'altro capo del mondo; se si fosse trattato di Babilonia o della Cina;
+se si fosse trattato di qualche razza remota e misteriosa come l'Uomo
+nella [[motifs/moon|Luna]], i vostri giornali vi avrebbero raccontato ogni cosa,
+fino all'ultima scoperta di uno spazzolino da denti o di un bottone da colletto.
+Ma gli uomini che costruirono le chiese delle vostre parrocchie, e diedero i nomi
+alle vostre città e ai vostri mestieri, e alle strade stesse su cui camminate...
+non vi è mai passato per la mente di saperne qualcosa.
+Non pretendo di saperne molto neppure io; ma ne so abbastanza per capire
+che quella storia è fandonia e assurdità dal principio alla fine. Era
+illegale, per un usuraio, pignorare la bottega e gli arnesi di un uomo.
+È oltremodo improbabile che la Gilda non avrebbe salvato un uomo
+da una simile rovina totale, specie se rovinato da un ebreo.
+Quella gente aveva vizi e tragedie tutte sue;
+talvolta torturava e bruciava la gente. Ma quell'idea di un uomo,
+senza Dio né [[concepts/hope|speranza]] al mondo, che si trascina via a morire perché
+a nessuno importa se vive o no... non è un'idea medievale.
+È un prodotto della nostra scienza economica e del nostro progresso.
+L'ebreo non sarebbe stato vassallo del signore feudale.
+Gli ebrei di norma avevano una posizione speciale come servi del [[archetypes/king|Re]].
+Soprattutto, l'ebreo non avrebbe potuto in alcun modo essere bruciato
+per la sua religione.»
+
+«I paradossi si moltiplicano», osservò Tarrant; «ma di certo
+non negherete che gli ebrei fossero perseguitati nel Medioevo?»
+
+«Sarebbe più vicino alla [[concepts/truth|verità]]», disse [[characters/father-brown|Padre Brown]], «dire che furono
+l'unico popolo a non essere perseguitato nel Medioevo.
+Se volete fare la satira del medievalismo, potreste costruire un buon caso
+dicendo che un povero cristiano poteva essere arso vivo per aver commesso
+un errore sull'Homoousion, mentre un ricco ebreo poteva passeggiare
+per strada sogghignando apertamente su Cristo e sulla Madre di Dio.
+Ebbene, ecco a che cosa somiglia quella storia. Non fu mai una storia
+del Medioevo; non fu mai nemmeno una leggenda sul Medioevo.
+Fu inventata da qualcuno le cui nozioni venivano da romanzi e giornali,
+e probabilmente inventata lì per lì, sul momento.»
+
+Gli altri parevano un po' storditi da quella digressione storica,
+e sembravano domandarsi vagamente perché il prete vi ponesse tanta enfasi
+e ne facesse una parte così importante dell'enigma.
+Ma Tarrant, il cui mestiere era estrarre il dettaglio pratico
+da molti grovigli di digressione, si era d'un tratto fatto attento.
+Il mento barbuto era proteso in avanti più che mai,
+ma i suoi occhi tetri erano ben desti. «Ah», disse;
+«inventata lì per lì, sul momento!»
+
+«Forse è un'esagerazione», ammise [[characters/father-brown|Padre Brown]] con calma.
+«Direi piuttosto inventata con più noncuranza e trascuratezza
+del resto di una trama insolitamente accurata. Ma il macchinatore non
+pensò che i dettagli della storia medievale avrebbero contato granché per chicchessia.
+E il suo calcolo, in linea generale, era pressoché esatto,
+come la maggior parte degli altri suoi calcoli.»
+
+«Il calcolo di chi? Chi aveva ragione?» incalzò la dama con un'improvvisa
+vampata d'impazienza. «Chi è questa persona di cui state parlando?
+Non ne abbiamo passate abbastanza, senza che voi ci facciate accapponare
+la pelle con i vostri "lui" e i vostri "egli"?»
+
+«Sto parlando dell'assassino», disse [[characters/father-brown|Padre Brown]].
+
+«Quale assassino?» chiese lei bruscamente. «Volete dire che il povero
+Professore è stato assassinato?»
+
+«Be'», disse Tarrant con voce roca, fissando la propria barba,
+«non possiamo dire "assassinato", perché non sappiamo che sia stato ucciso.»
+
+«L'assassino ha ucciso qualcun altro, che non era il Professor Smaill»,
+disse il prete con gravità.
+
+«E chi altri poteva uccidere?» chiese l'altro.
+«Ha ucciso il reverendo John Walters, vicario di Dulham»,
+replicò [[characters/father-brown|Padre Brown]] con precisione. «Voleva uccidere soltanto quei due,
+perché entrambi avevano messo le mani su reliquie di un unico raro modello.
+L'assassino era una specie di monomaniaco su quel punto.»
+
+«Suona tutto molto strano», mormorò Tarrant.
+«Certo, non possiamo neppure giurare che il vicario sia davvero morto.
+Non abbiamo visto il suo corpo.»
+
+«Oh, invece sì che l'avete visto», disse [[characters/father-brown|Padre Brown]].
+
+Ci fu un [[motifs/silence|silenzio]] improvviso come il colpo di un gong;
+un [[motifs/silence|silenzio]] in cui quel congetturare inconscio che era tanto
+vivo e infallibile nella donna la spinse quasi a un grido.
+
+«È esattamente ciò che avete visto», proseguì il prete.
+«Avete visto il suo [[concepts/body|corpo]]. Non avete visto lui...
+l'uomo vero e vivo; ma il suo [[concepts/body|corpo]] l'avete visto eccome.
+L'avete fissato a lungo alla luce di quattro grandi ceri;
+e non si dibatteva suicida nel mare, ma giaceva in stato solenne
+come un Principe della Chiesa in un reliquiario eretto prima della Crociata.»
+
+«In parole povere», disse Tarrant, «voi ci chiedete davvero di credere
+che quel [[concepts/body|corpo]] imbalsamato fosse in realtà la salma di un uomo assassinato.»
+
+[[characters/father-brown|Padre Brown]] tacque per un istante; poi disse quasi con un'aria
+di irrilevanza: «La prima cosa che notai fu la croce;
+o meglio la cordicella che la sosteneva. Naturalmente, per la maggior parte di voi,
+era solo un filo di grani e nient'altro di particolare;
+ma, altrettanto naturalmente, era faccenda più di mia competenza che vostra.
+Ricorderete che stava aderente al mento, con solo pochi
+grani in vista, come se l'intera collana fosse assai corta.
+Ma i grani che si vedevano erano disposti in un modo speciale, prima uno
+e poi tre, e così via; di fatto, capii a colpo d'occhio che
+era un rosario, un comune rosario con una croce all'estremità.
+Ma un rosario ha almeno cinque poste e altri grani in aggiunta;
+e mi domandai naturalmente dove fosse finito tutto il resto.
+Avrebbe fatto ben più di un giro intorno al collo del vecchio.
+Sul momento non riuscii a spiegarmelo; e fu solo
+in seguito che indovinai dove fosse andata a finire la lunghezza in più.
+Era avvolta e riavvolta intorno alla base del sostegno di legno
+fissato nell'angolo della bara, che reggeva su il coperchio.
+Cosicché, quando il povero Smaill diede appena uno strattone alla croce, questa fece scattare
+il sostegno fuori posto e il coperchio gli piombò sul cranio come una
+mazza di pietra.»
+
+«Perbacco!» disse Tarrant; «comincio a credere che ci sia del vero in quello che dite. È una storia ben strana, se è vera.»
+
+«Quando compresi tutto ciò,» proseguì [[characters/father-brown|padre Brown]], «riuscii, più o meno, a indovinare il resto. Ricordate, anzitutto, che non vi fu mai alcuna autorità archeologica responsabile per nulla che andasse oltre una semplice indagine. Il povero vecchio Walters era un onesto antiquario, impegnato ad aprire la tomba per accertare se ci fosse qualcosa di vero nella leggenda dei corpi imbalsamati. Il resto era tutto diceria, di quella specie che spesso anticipa o esagera simili ritrovamenti. Di fatto, egli scoprì che il corpo non era stato affatto imbalsamato, ma da tempo si era ridotto in polvere. Se non che, mentre lavorava là al lume della sua candela solitaria, in quella cappella infossata, la fiamma proiettò un'altra ombra che non era la sua.»
+
+«Ah!» esclamò Lady [[characters/diana|Diana]] con un soffio mozzato nel respiro; «e ora so cosa intendete. Volete dirci che abbiamo incontrato l'assassino, che abbiamo chiacchierato e scherzato con l'assassino, che gli abbiamo lasciato raccontare una storia romantica e lo abbiamo lasciato andare senza torcergli un capello.»
+
+«Abbandonando il suo travestimento clericale su uno scoglio,» confermò Brown. «È tutto spaventosamente semplice. Quest'uomo giunse prima del Professore nella corsa verso il camposanto e la cappella, forse mentre il Professore stava parlando con quel lugubre giornalista. Sorprese il vecchio ecclesiastico accanto alla bara vuota e lo uccise. Poi si rivestì delle nere vesti tolte al cadavere, lo avvolse in un antico piviale che era tra i veri ritrovamenti della spedizione, e lo depose nella bara, disponendovi il rosario e il sostegno di legno come ho descritto. Quindi, avendo così teso la trappola per il suo secondo nemico, risalì alla luce del giorno e ci accolse tutti con la cortesia più amabile di un parroco di campagna.»
+
+«Correva un rischio considerevole,» obiettò Tarrant, «che qualcuno riconoscesse Walters di vista.»
+
+«Ammetto che era mezzo pazzo,» convenne padre Brown; «e credo che ammetterete anche voi che valeva la pena correre il rischio, giacché, dopotutto, l'ha fatta franca.»
+
+«Ammetto che è stato molto fortunato,» borbottò Tarrant. «E chi diavolo era costui?»
+
+«Come dite, è stato molto fortunato,» rispose padre Brown, «e non da ultimo proprio in questo. Poiché è l'unica cosa che forse non sapremo mai.» Aggrottò la fronte fissando la tavola per un istante, poi riprese: «Questo individuo si aggira minaccioso ormai da anni, ma l'unica cosa di cui si è preoccupato è stata custodire il segreto di chi fosse; e lo custodisce ancora. Ma se il povero Smaill si rimette, come credo che sarà, si può dire con buona certezza che ne sentirete ancora parlare.»
+
+«Ma perché, cosa credete che farà il professor Smaill?» domandò Lady [[characters/diana|Diana]].
+
+«Direi che la prima cosa che farà,» disse Tarrant, «sarà lanciare i detective come segugi alle calcagna di quel demonio assassino. Mi piacerebbe dargli la caccia io stesso.»
+
+«Ebbene,» disse padre Brown, sorridendo d'improvviso dopo il suo lungo accesso di perplessità corrucciata, «credo di sapere qual è la primissima cosa che dovrebbe fare.»
+
+«E quale sarebbe?» chiese Lady Diana con aggraziata impazienza.
+
+«Dovrebbe chiedere scusa a tutti voi,» disse [[characters/father-brown|padre Brown]].
+
+Non fu tuttavia su questo punto che [[characters/father-brown|padre Brown]] si trovò a conversare col professor Smaill, seduto al suo capezzale durante la lenta convalescenza di quell'eminente archeologo. E nemmeno fu principalmente [[characters/father-brown|padre Brown]] a tenere le fila del discorso; ché, per quanto il Professore fosse costretto a piccole dosi dello stimolante della conversazione, egli ne concentrava la maggior parte su questi colloqui con l'amico prete. [[characters/father-brown|Padre Brown]] aveva il talento di tacere in modo incoraggiante, e Smaill ne traeva l'incoraggiamento a parlare di molte cose strane, non sempre facili a dirsi; come le fasi morbose della guarigione e i mostruosi [[motifs/dreams|sogni]] che spesso accompagnano il delirio. È spesso un'esperienza che scombussola alquanto riprendersi lentamente da una brutta botta in testa; e quando la testa è interessante come quella del professor Smaill, persino i suoi turbamenti e le sue distorsioni tendono a essere originali e curiosi. I suoi [[motifs/dreams|sogni]] erano come disegni arditi e ampi, un po' fuori squadra, quali si vedono nelle arti arcaiche, vigorose ma rigide, che egli aveva studiato; erano gremiti di strani santi dalle aureole quadrate e triangolari, di corone e glorie d'oro sporgenti attorno a volti scuri e appiattiti, di aquile venute dall'oriente e degli alti copricapi di uomini barbuti con i capelli acconciati come quelli delle donne. Se non che, come raccontava all'amico, ve n'era uno assai più semplice e meno intricato, che ricorreva di continuo alla sua [[motifs/memory|memoria]] fervida d'immagini. Di continuo tutti quei motivi bizantini svanivano, come svaniva l'oro su cui erano tracciati, quasi fosse sul [[motifs/fire|fuoco]]; e nulla restava se non la nuda e scura parete di roccia su cui la fulgida forma del pesce era disegnata come da un dito intinto nella fosforescenza dei pesci. Poiché quello era il segno che una volta, alzando lo sguardo, egli aveva veduto, nell'istante in cui udì per la prima volta, dietro l'angolo dell'oscuro corridoio, la voce del suo nemico.
+
+«E finalmente,» disse, «credo di aver scorto un significato in quell'immagine e in quella voce; un significato che prima non avevo mai compreso. Perché mai dovrei tormentarmi solo perché un pazzo, tra un milione di uomini savi coalizzati in una grande società contro di lui, sceglie di vantarsi di perseguitarmi o di braccarmi fino alla [[motifs/death|morte]]? L'uomo che tracciò nella buia catacomba il simbolo segreto di [[characters/christ|Cristo]] fu perseguitato in maniera ben diversa. Egli era il pazzo solitario; l'intera società dei savi era coalizzata non per salvarlo, ma per ucciderlo. A volte mi sono agitato, ho smaniato e mi sono chiesto se questo o quell'uomo fosse il mio persecutore; se fosse Tarrant; se fosse Leonard Smyth; se fosse uno qualunque di loro. E se fossero stati tutti quanti? E se fossero stati tutti gli uomini sul battello e gli uomini sul treno e gli uomini nel villaggio? Supponiamo che, per quanto mi riguardava, fossero tutti assassini. Credevo di aver diritto a essere allarmato perché strisciavo nelle viscere della terra, nel buio, e c'era un uomo che voleva la mia rovina. Come sarebbe stato, se il distruttore si fosse trovato lassù, alla luce del giorno, e avesse posseduto tutta la terra e comandato tutti gli eserciti e le folle? Che sarebbe stato se avesse potuto sbarrare tutte le tane, o stanarmi col fumo dal mio nascondiglio, o uccidermi nel momento stesso in cui mettevo il naso fuori, alla luce del giorno? Cosa significa avere a che fare con un delitto di tali proporzioni? Il mondo ha dimenticato queste cose, come fino a poco tempo fa aveva dimenticato la guerra.»
+
+«Sì,» disse padre Brown, «ma la guerra è venuta. Il pesce può essere ricacciato di nuovo sottoterra, ma tornerà ancora una volta alla luce del giorno. Come osservò argutamente sant'Antonio da Padova: "Sono soltanto i pesci a sopravvivere al Diluvio".»
+
+SEI:  Il pugnale con le ali
+
+[[characters/father-brown|PADRE BROWN]], in un certo periodo della sua vita, trovava difficile appendere
+il cappello a un attaccapanni senza reprimere un lieve brivido.
+L'origine di questa fissazione era in verità un semplice particolare nell'ambito di eventi
+assai più complicati; ma era forse l'unico particolare che gli fosse rimasto,
+nella sua vita indaffarata, a rammentargli l'intera faccenda.
+La sua origine remota andava cercata nei fatti che indussero il dottor Boyne,
+l'ufficiale medico aggregato alle forze di polizia, a mandare a chiamare il sacerdote
+in una certa gelida mattina di dicembre.
+
+Il dottor Boyne era un irlandese grande e bruno, uno di quegli irlandesi piuttosto
+sconcertanti che si incontrano per tutto il mondo, i quali discorrono di scetticismo
+scientifico, di materialismo e di cinismo a lungo e con dovizia,
+ma che non si sognerebbero mai di rimettere qualsiasi cosa tocchi il rituale della religione
+ad altro che non sia la religione tradizionale della loro terra natale.
+Sarebbe difficile dire se il loro credo sia una verniciatura assai superficiale
+o un fondamentale substrato; ma con ogni probabilità è l'una e l'altra cosa,
+con una massa di materialismo nel mezzo.  Comunque sia, quando pensò che
+potessero esservi implicate faccende di quel genere, chiese a [[characters/father-brown|Father Brown]] di passare,
+benché non fingesse alcuna predilezione per quell'aspetto di esse.
+
+«Non sono affatto sicuro di volerla qui, sa,» fu il suo saluto.
+«Non sono ancora sicuro di nulla.  Che io sia impiccato se riesco
+a capire se sia un caso da medico, o da poliziotto,
+o da sacerdote.»
+
+«Ebbene,» disse Padre Brown con un sorriso, «dato che, suppongo, lei è al tempo stesso
+poliziotto e medico, mi pare di essere piuttosto in minoranza.»
+
+«Ammetto che lei è ciò che i politici chiamano una minoranza istruita,»
+replicò il dottore.  «Voglio dire, so che ha dovuto occuparsi un poco
+del nostro mestiere tanto quanto del [[motifs/well|suo]].  Ma è maledettamente difficile dire
+se questa faccenda sia di sua competenza o della nostra, o semplicemente
+di competenza dei Commissari per l'Infermità Mentale.  Abbiamo appena ricevuto un messaggio
+da un uomo che abita qui vicino, in quella casa bianca sulla [[motifs/hill|collina]],
+che chiede protezione contro una persecuzione omicida.
+Abbiamo indagato sui fatti per quanto ci è stato possibile, e forse è meglio
+che io le racconti la storia così come si suppone sia avvenuta,
+dal principio.
+
+«Pare che un uomo di nome Aylmer, ricco proprietario terriero
+nel West Country, si sia sposato piuttosto tardi
+nella vita e abbia avuto tre figli, Philip, Stephen e Arnold.
+Ma ai tempi del suo celibato, quando pensava che non avrebbe avuto
+eredi, aveva adottato un ragazzo che gli sembrava assai brillante
+e promettente, che rispondeva al nome di John Strake.
+La sua origine pare essere incerta; dicono fosse un trovatello;
+alcuni dicono fosse uno zingaro.  Credo che quest'ultima idea si mescoli
+al fatto che Aylmer, nella sua vecchiaia, si dilettava di ogni
+sorta di squallido occultismo, chiromanzia e astrologia comprese,
+e i suoi tre figli dicono che Strake ve lo incoraggiava.
+Ma dissero anche molte altre cose, oltre a questa.
+Dissero che Strake era un mascalzone straordinario, e in particolare
+uno straordinario bugiardo; un genio nell'inventare menzogne su due piedi,
+e nel raccontarle in modo da ingannare un investigatore.
+Ma potrebbe benissimo trattarsi di un pregiudizio naturale, alla luce
+di quanto accadde.
+
+Forse lei può più o meno immaginare che cosa accadde.
+Il vecchio lasciò praticamente ogni cosa al figlio adottivo;
+e quando morì i tre figli veri impugnarono il testamento.
+Dissero che il padre era stato intimidito fino a cedere e,
+per non mettere troppo puntiglio, fino a un'idiozia farfugliante.
+Dissero che Strake aveva i modi più strani e più subdoli
+per raggiungerlo, malgrado le infermiere e la famiglia,
+e per terrorizzarlo sul letto di morte.  Comunque sia, parevano
+aver provato qualcosa circa la condizione mentale del defunto,
+poiché i tribunali annullarono il testamento e i figli ereditarono.
+Si dice che Strake sia esploso nel modo più spaventoso,
+giurando che li avrebbe uccisi tutti e tre, uno dopo l'altro,
+e che nulla avrebbe potuto sottrarli alla sua vendetta.
+È il terzo e ultimo dei fratelli, Arnold Aylmer,
+a chiedere la protezione della polizia.»
+
+«Terzo e ultimo,» disse il sacerdote, guardandolo con gravità.
+
+«Sì,» disse Boyne.  «Gli altri due sono morti.»  Vi fu un [[motifs/silence|silenzio]]
+prima che egli riprendesse.  «È qui che entra in gioco il dubbio.
+Non vi è prova che siano stati assassinati, ma è possibile
+che lo siano stati.  Il maggiore, che aveva assunto la posizione di signorotto,
+si suppone si sia suicidato nel suo giardino.
+Il secondo, che si era dato al commercio come fabbricante,
+fu colpito alla testa dai macchinari della sua fabbrica;
+potrebbe benissimo aver messo un piede in fallo ed essere caduto.
+Ma se Strake li ha davvero uccisi, è certo assai scaltro nel suo
+modo di agire e di dileguarsi.  D'altra parte,
+è più che probabile che l'intera faccenda sia una mania di cospirazione
+fondata su una coincidenza.  Senta, ecco che cosa voglio.
+Voglio qualcuno di buon senso, che non sia un funzionario, che salga a fare
+quattro chiacchiere con questo signor Arnold Aylmer e si formi un'impressione di lui.
+Lei sa com'è fatto un uomo in preda a un delirio, e come appare un uomo
+quando dice la verità.  Voglio che lei sia l'avanguardia,
+prima che noi prendiamo in mano la faccenda.»
+
+«Pare piuttosto strano,» disse [[characters/father-brown|Father Brown]], «che lei non abbia dovuto
+prenderla in mano prima.  Se c'è qualcosa in questa faccenda,
+sembra andare avanti da parecchio tempo.  C'è
+qualche ragione particolare per cui egli dovrebbe mandare a chiamarla proprio adesso,
+più che in qualsiasi altro momento?»
+
+«Ci avevo pensato, come può immaginare,» rispose il dottor Boyne.
+«Una ragione la dà, ma confesso che è una di quelle cose che mi fanno
+domandare se l'intera storia non sia soltanto il capriccio di qualche
+mezzo matto svitato.  Ha dichiarato che tutta la sua servitù se n'è andata all'improvviso
+in sciopero, abbandonandolo, sicché egli è costretto a ricorrere alla polizia perché
+custodisca la sua casa.  E, facendo indagini, trovo per l'appunto che vi è stato
+un vero e proprio esodo generale di servitori da quella casa sulla collina; e
+naturalmente la città è piena di dicerie, dicerie assai unilaterali, oserei dire.
+Il loro resoconto pare essere che il loro datore di lavoro fosse diventato del tutto
+insopportabile nelle sue smanie, nelle sue paure e nelle sue pretese; che volesse che
+gli facessero la guardia alla casa come sentinelle, o che vegliassero come infermiere
+notturne in un ospedale; che non potessero mai essere lasciati soli, perché egli non
+doveva mai essere lasciato solo.
+Così tutti proclamarono a gran voce che era un pazzo, e se ne andarono.
+Naturalmente ciò non prova che sia un pazzo; ma pare piuttosto bizzarro
+di questi tempi che un uomo si aspetti che il suo cameriere o la sua domestica facciano
+da guardia armata.»
+
+«E così», disse il prete con un sorriso, «vuole che un poliziotto gli faccia da cameriera perché la sua cameriera non vuole fargli da poliziotto.»
+
+«Anche a me parve un po' esagerato», convenne il dottore; «ma non me la sento di assumermi la responsabilità di un rifiuto netto prima di aver tentato un compromesso. Il compromesso siete voi.»
+
+«[[motifs/well|Benissimo]]», disse [[characters/father-brown|Padre Brown]] con semplicità. «Andrò a fargli visita ora, se volete.»
+
+La campagna ondulata intorno alla cittadina era sigillata e serrata dal gelo, e il cielo era limpido e freddo come l'acciaio, salvo a nord-est, dove nuvole dagli aloni lividi cominciavano ad arrampicarsi lungo la volta. Era contro quei colori più cupi e più sinistri che la casa sulla collina brillava con una fila di pallidi pilastri, formando un breve colonnato di gusto classico. Una strada tortuosa vi saliva attraversando la curva del poggio, per poi tuffarsi in una massa di cespugli scuri. Proprio prima di raggiungere i cespugli l'aria pareva farsi sempre più fredda, come se egli si avvicinasse a una ghiacciaia o al Polo Nord. Ma era un uomo eminentemente pratico, che mai coltivava simili fantasie se non come fantasie. E si limitò a lanciare un'occhiata alla grande nuvola livida che avanzava strisciando sopra la casa, e osservò allegramente: «Sta per [[motifs/snow|nevicare]].»
+
+Attraverso un basso cancello di ferro battuto ornamentale, di foggia italianeggiante, entrò in un [[motifs/garden|giardino]] che aveva qualcosa di quella desolazione che appartiene soltanto al disordine delle cose ordinate. I germogli verde cupo erano grigi per la lieve polvere del [[motifs/frost|gelo]], grosse erbacce avevano orlato il disegno sbiadito delle aiuole come in una cornice sfilacciata; e la casa stava come immersa fino alla cintola in una foresta stentata di arbusti e cespugli. La vegetazione consisteva in gran parte di sempreverdi o di piante assai resistenti; e sebbene fosse così fitta e pesante, era troppo nordica per potersi dire lussureggiante. La si sarebbe potuta definire una giungla artica. E così era, in un certo senso, anche la casa stessa, che con la sua fila di colonne e la sua facciata classica avrebbe potuto affacciarsi sul Mediterraneo; ma che ora pareva avvizzire nel [[motifs/wind|vento]] del Mare del Nord. Qua e là l'ornamento classico accentuava il contrasto; cariatidi e maschere scolpite di [[forms/comedy|Commedia]] o di [[forms/tragedy|Tragedia]] guardavano dall'alto, dagli angoli dell'edificio, la grigia confusione dei sentieri del [[motifs/garden|giardino]]; ma quei volti sembravano morsi dal [[motifs/frost|gelo]]. Perfino le volute dei capitelli parevano essersi raggomitolate per il freddo.
+
+[[characters/father-brown|Padre Brown]] salì gli erbosi gradini fino a un portico quadrato fiancheggiato da grandi pilastri e bussò alla porta. Circa quattro minuti dopo, bussò di nuovo. Poi rimase immobile, ad attendere pazientemente con le spalle alla porta, e volse lo sguardo sul paesaggio che lentamente si oscurava. Si oscurava sotto l'[[archetypes/shadow|ombra]] di quell'unico grande continente di nuvola giunto in volo dal nord; e proprio mentre guardava oltre i pilastri del portico, che parevano enormi e neri sopra di lui nel crepuscolo, vide l'orlo opalescente e strisciante della grande nuvola mentre veleggiava sopra il tetto e si inarcava sul portico come un baldacchino. Il grande baldacchino, con le sue frange dai tenui colori, pareva calare sempre più giù sul [[motifs/garden|giardino]] al di là, finché di quello che poco prima era stato un cielo d'[[motifs/winter|inverno]] limpido e dai toni pallidi non rimasero che poche nastri e brandelli d'argento, come un tramonto malaticcio. [[characters/father-brown|Padre Brown]] attese, e dall'interno non venne alcun suono.
+
+Allora scese lestamente i gradini e girò intorno alla casa in cerca di un altro ingresso. Alla fine ne trovò uno, una porta laterale nel muro piano, e anche su questa martellò, e anche fuori da questa attese. Poi provò la maniglia e trovò la porta apparentemente sprangata o assicurata in qualche modo; e allora si mosse lungo quel lato della casa, rimuginando sulle possibilità della situazione, e domandandosi se l'eccentrico signor Aylmer si fosse barricato troppo in profondità nella casa per udire qualsiasi richiamo; oppure se forse si sarebbe barricato tanto più saldamente, nella supposizione che ogni richiamo dovesse essere la sfida del vendicatore Strake. Poteva darsi che i domestici in fuga avessero soltanto aperto una porta al momento di andarsene, al mattino, e che il padrone l'avesse poi chiusa; ma qualunque cosa egli avesse fatto, era improbabile che essi, nello stato d'animo di quel momento, avessero badato con tanta cura alle difese. Egli proseguì il suo giro furtivo intorno al luogo: non era davvero un luogo grande, benché forse un po' pretenzioso; e in pochi istanti si accorse di averne compiuto l'intero circuito. Un momento dopo trovò ciò che sospettava e cercava. La [[motifs/window|portafinestra]] di una stanza, velata e ombreggiata dal rampicante, stava aperta di uno spiraglio, indubbiamente lasciata socchiusa per caso, ed egli si ritrovò in una stanza centrale, comodamente tappezzata in una maniera piuttosto all'antica, con una scala che ne saliva da un lato e una porta che ne usciva dall'altro. Immediatamente di fronte a lui c'era un'altra porta con un vetro rosso incastonato, un po' troppo sgargiante per i gusti più recenti; qualcosa che somigliava a una figura in veste rossa in vetro colorato dozzinale. Su un tavolino rotondo alla sua destra c'era una sorta di acquario — una grande ampolla piena d'[[motifs/water|acqua]] verdastra, in cui pesci e cose simili si muovevano come in una vasca; e proprio di fronte una pianta della varietà delle palme dalle grandi [[motifs/leaves|foglie]] verdi. Tutto ciò appariva così polveroso e primo-vittoriano che il telefono, visibile nell'alcova velata da una tenda, riusciva quasi una sorpresa.
+
+«Chi è?» chiamò una voce, secca e piuttosto sospettosa, da dietro la porta a vetri colorati.
+
+«Potrei vedere il signor Aylmer?» chiese il prete in tono di scusa.
+
+La porta si aprì e ne uscì un gentiluomo in vestaglia verde pavone, con aria interrogativa. I capelli erano piuttosto ruvidi e in disordine, come se fosse stato a letto o vivesse in uno stato di perenne, lento levarsi; ma i suoi occhi non erano soltanto svegli, bensì all'erta, e taluni li avrebbero detti allarmati. [[characters/father-brown|Padre Brown]] sapeva che quella contraddizione era abbastanza probabile in un uomo che s'era piuttosto lasciato andare sotto l'[[archetypes/shadow|ombra]] di un'illusione o di un pericolo. Aveva un bel volto aquilino visto di profilo, ma visto di fronte la prima impressione era quella del disordine e persino della selvatichezza della sua sciolta barba castana.
+
+«Sono il signor Aylmer» disse «ma ho perso l'abitudine di aspettarmi visite.»
+
+Qualcosa nell'occhio inquieto del signor Aylmer indusse il prete ad andare dritto al punto. Se la persecuzione di quell'uomo non era che una monomania, egli sarebbe stato tanto meno propenso a risentirsene.
+
+«Mi domandavo» disse dolcemente Padre Brown «se sia proprio vero che lei non aspetta mai visite.»
+
+«Ha ragione» rispose l'ospite con fermezza. «Aspetto sempre un visitatore. E potrebbe essere l'ultimo.»
+
+«Spero di no» disse Padre Brown «ma almeno mi conforta dedurre che io non gli assomiglio granché.»
+
+Il signor Aylmer si scosse con una specie di risata feroce. «Di certo no» disse.
+
+«Signor Aylmer» disse [[characters/father-brown|Padre Brown]] con franchezza «mi scuso per la libertà che mi prendo, ma alcuni miei amici mi hanno parlato dei suoi guai e mi hanno pregato di vedere se potevo fare qualcosa per lei. La verità è che ho una certa piccola esperienza in faccende come questa.»
+
+«Non ci sono faccende come questa» disse Aylmer.
+
+«Vuol dire» osservò Padre Brown «che le tragedie della sua sventurata famiglia non furono morti normali?»
+
+«Voglio dire che non furono nemmeno omicidi normali» rispose l'altro. «L'uomo che sta braccando tutti noi verso la [[motifs/death|morte]] è un mastino infernale, e la sua potenza viene dall'inferno.»
+
+«Ogni male ha un'unica origine» disse gravemente il prete. «Ma come sa che non furono omicidi normali?»
+
+Aylmer rispose con un gesto che offriva all'ospite una sedia; poi si sedette lentamente su un'altra, aggrottando le sopracciglia, con le mani sulle ginocchia; ma quando alzò lo sguardo la sua espressione si era fatta più mite e più pensosa, e la sua voce era del tutto cordiale e pacata.
+
+«Signore» disse «non voglio che lei mi immagini per nulla una persona irragionevole. Sono giunto a queste conclusioni con la ragione, perché purtroppo la ragione conduce davvero là. Ho letto moltissimo su questi argomenti; poiché fui l'unico a ereditare l'erudizione di mio padre in materie alquanto oscure, e da allora ne ho ereditato anche la biblioteca. Ma ciò che le dico non poggia su quel che ho letto, bensì su quel che ho visto.»
+
+[[characters/father-brown|Padre Brown]] annuì, e l'altro proseguì, come scegliendo con cura le parole: «Nel caso del mio fratello maggiore, dapprima non ero certo. Non c'erano tracce né impronte là dove lo trovarono ucciso da un colpo d'arma da fuoco, e la pistola era rimasta accanto a lui. Ma aveva appena ricevuto una lettera minatoria, certamente del nostro nemico, poiché recava un segno simile a un pugnale alato, che era uno dei suoi infernali trucchi cabalistici. E una serva disse di aver visto qualcosa muoversi lungo il muro del giardino nel crepuscolo, qualcosa di troppo grande per essere un gatto. Su questo mi fermo; tutto ciò che posso dire è che, se l'assassino venne, riuscì a non lasciare traccia del suo venire. Ma quando morì mio fratello Stephen fu diverso; e da allora ho saputo. Una macchina lavorava su un'impalcatura aperta sotto la torre della fabbrica; io salii sulla piattaforma un attimo dopo che egli era caduto sotto il maglio di ferro che lo colpì; non vidi nient'altro colpirlo, ma vidi ciò che vidi.
+
+«Una gran ventata di fumo di fabbrica stava rotolando tra me e la torre; ma attraverso uno squarcio di esso vidi, in cima ad essa, una scura figura umana avvolta in quello che pareva un mantello nero. Poi il fumo sulfureo tornò a spingersi fra noi; e quando si diradò alzai lo sguardo verso il lontano comignolo: non c'era nessuno. Sono un uomo razionale, e domanderò a tutti gli uomini razionali come avesse raggiunto quel torrione vertiginoso e inavvicinabile, e come lo avesse lasciato.»
+
+Fissava il prete con una sfida da sfinge; poi, dopo un [[motifs/silence|silenzio]], disse bruscamente: «A mio fratello sfondarono il cranio, ma il corpo non subì gran danno. E nella sua tasca trovammo uno di quei messaggi d'avvertimento, datato del giorno prima e recante il timbro del pugnale volante.
+
+«Sono certo» proseguì con gravità «che il simbolo del pugnale alato non sia semplicemente arbitrario o casuale. Nulla, in quell'uomo abominevole, è casuale. Egli è tutto disegno; anche se è invero un disegno oscurissimo e intricato. La sua mente è intessuta non solo di elaborati stratagemmi, ma di ogni sorta di linguaggi e segni segreti, di muti segnali e figure senza parole che sono i nomi di cose senza nome. Egli è la peggior specie d'uomo che il mondo conosca: è il mistico malvagio. Ora, io non pretendo di penetrare tutto ciò che questo simbolo racchiude; ma pare certo che debba avere una relazione con tutto ciò che vi fu di più notevole, o persino d'incredibile, nei suoi movimenti mentre aleggiava attorno alla mia sventurata famiglia. Non c'è forse un legame fra l'idea di un'arma alata e il mistero per cui Philip fu colpito a morte sul proprio prato senza che il più lieve tocco d'impronta avesse turbato la polvere o l'erba? Non c'è forse un legame fra il pugnale piumato che vola come una freccia impennata e quella figura appesa in cima al vacillante comignolo, ammantata di un mantello a mo' di penne?»
+
+«Lei vuol dire» disse [[characters/father-brown|Padre Brown]] pensosamente «che egli si trova in un perpetuo stato di levitazione.»
+
+«Simon Mago lo fece» rispose Aylmer «e una delle predizioni più comuni dei Secoli Bui era che l'Anticristo avrebbe saputo volare. Comunque sia, sul documento c'era il pugnale volante; e, potesse volare o no, di certo poteva colpire.»
+
+«Ha notato di che tipo di carta si trattasse?» chiese [[characters/father-brown|Padre Brown]]. «Carta comune?»
+
+Il volto da sfinge proruppe d'improvviso in una risata aspra.
+
+«Può vedere lei stesso come sono fatti» disse Aylmer cupamente «perché stamattina ne ho ricevuto uno anch'io.»
+
+Ora si era abbandonato all'indietro sulla sedia, con le lunghe gambe protese fuori dalla veste da camera verde, che gli stava un po' corta, e il mento barbuto affondato nel petto. Senza muoversi altrimenti, cacciò la mano in fondo alla tasca della veste da camera e porse, all'estremità di un braccio rigido, un frammento di carta che tremolava. Tutto il suo atteggiamento suggeriva una sorta di paralisi, che era insieme rigidità e collasso. Ma l'osservazione successiva del prete ebbe il curioso effetto di ridestarlo.
+
+[[characters/father-brown|Padre Brown]] sbatteva le palpebre, alla sua maniera di miope, davanti alla carta che gli veniva porta. Era una carta di tipo singolare, ruvida senza essere comune, come tratta dall'album di [[forms/sketch|schizzi]] di un [[archetypes/artist|artista]]; e su di essa era disegnato arditamente, in inchiostro rosso, un pugnale ornato di ali come la verga di Ermes, con queste parole scritte: «La morte viene il giorno dopo questo, come venne ai tuoi fratelli.»
+
+Padre Brown gettò il foglio a terra e si drizzò a sedere, rigido, sulla poltrona.
+
+«Non deve lasciarsi stordire da simili fandonie», disse con tono tagliente. «Questi demoni cercano sempre di renderci inermi rendendoci disperati.»
+
+Con sua non piccola sorpresa, un'onda di risveglio percorse la figura prostrata, che balzò dalla poltrona come strappata di soprassalto a un sogno.
+
+«Ha ragione, ha ragione!» esclamò Aylmer con un'animazione alquanto [[concepts/uncanny|perturbante]]; «e i demoni scopriranno che, dopo tutto, non sono poi così disperato, né tanto meno così inerme. Forse ho più speranza e un aiuto migliore di quanto lei immagini.»
+
+Se ne stava con le mani in tasca, aggrottando la fronte verso il prete, il quale ebbe, durante quel silenzio teso, un momentaneo dubbio: che il lungo pericolo di quell'uomo non gli avesse toccato il cervello. Ma quando parlò lo fece con tutta pacatezza.
+
+«Credo che i miei sventurati fratelli abbiano fallito perché adoperarono le armi sbagliate. Philip portava una rivoltella, ed è così che la sua [[motifs/death|morte]] finì per essere chiamata [[concepts/suicide|suicidio]]. Stephen aveva la protezione della polizia, ma aveva anche il senso di ciò che lo rendeva ridicolo; e non poteva permettere che un poliziotto gli si arrampicasse dietro su una scala fino a un'impalcatura dove egli sostava soltanto un istante. Erano entrambi degli schernitori, ripiegati nello scetticismo per reazione allo strano misticismo degli ultimi giorni di mio padre. Ma io ho sempre saputo che in mio padre c'era più di quanto essi comprendessero. È vero che, studiando la magia, egli cadde infine sotto il flagello della magia nera; la magia nera di quella canaglia di Strake. Ma i miei fratelli si sbagliavano sull'antidoto. L'antidoto alla magia nera non è il brutale materialismo né la saggezza mondana. L'antidoto alla magia nera è la magia bianca.»
+
+«Dipende piuttosto», disse Padre Brown, «da che cosa intende per magia bianca.»
+
+«Intendo la magia d'argento», disse l'altro, a voce bassa, come chi parla di una rivelazione segreta. Poi, dopo un silenzio, soggiunse: «Sa che cosa intendo per magia d'argento? Mi scusi un istante.»
+
+Si voltò, aprì la porta centrale dal vetro rosso ed entrò in un corridoio al di là di essa. La casa aveva meno profondità di quanto Brown avesse supposto; anziché aprirsi su stanze interne, il corridoio che la porta rivelava terminava in un'altra porta che dava sul [[motifs/garden|giardino]]. La porta di una stanza si trovava su un lato del passaggio; senza dubbio, si disse il prete, la camera da letto del padrone di casa, donde egli era uscito precipitosamente in veste da camera. Su quel lato non c'era null'altro che un'ordinaria attaccapanni con l'ordinario, sbiadito grappolo di vecchi cappelli e soprabiti; ma sull'altro lato c'era qualcosa di più interessante: una credenza di quercia antica, molto scura, sulla quale era disposto del vecchio argento, e sormontata da un trofeo, o ornamento, di antiche armi. Fu proprio lì che Arnold Aylmer si fermò, alzando lo sguardo verso una lunga [[characters/pistol|pistola]] antiquata dalla bocca a campana.
+
+La porta in fondo al passaggio era appena socchiusa, e attraverso la fessura filtrava una striscia di bianca luce diurna. Il prete aveva istinti prontissimi riguardo alle cose naturali, e qualcosa nell'insolito splendore di quella linea bianca gli disse ciò che era accaduto fuori. Era proprio quanto egli aveva profetizzato mentre si avvicinava alla casa. Corse oltre il suo ospite alquanto sbigottito e aprì la porta, per trovarsi di fronte a qualcosa che era insieme un vuoto e una vampata. Ciò che aveva visto brillare attraverso la fessura non era soltanto il più negativo dei biancori, quello della luce del giorno, ma il biancore positivo della [[motifs/snow|neve]]. Tutt'intorno, l'ampio digradare della campagna era coperto da quel pallore lucente che pare a un tempo canuto e [[archetypes/innocent|innocente]].
+
+«Ecco qui, comunque, la magia bianca», disse Padre Brown con la sua voce allegra. Poi, mentre rientrava nell'ingresso, mormorò: «E anche la magia d'argento, immagino», poiché il bianco lustro toccava l'argento di splendore e faceva luccicare qua e là il vecchio acciaio nell'oscura armeria. L'ispida testa del meditabondo Aylmer pareva cinta da un'aureola di [[motifs/fire|fuoco]] d'argento, mentre egli si voltava, il volto in [[archetypes/shadow|ombra]] e la stravagante [[characters/pistol|pistola]] in pugno.
+
+«Sa perché ho scelto questa specie di vecchio archibugio?» domandò. «Perché posso caricarlo con questa specie di pallottola.»
+
+Aveva raccolto dalla credenza un piccolo cucchiaino da apostolo e, con pura violenza, ne aveva spezzato la figurina in cima. «Torniamo nell'altra stanza», soggiunse.
+
+«Ha mai letto della [[motifs/death|morte]] di Dundee?» chiese quando si furono di nuovo seduti. Si era ripreso dalla momentanea irritazione per l'irrequietezza del prete. «Graham di Claverhouse, sa, colui che perseguitò i Covenanters e aveva un cavallo nero capace di risalire diritto un precipizio. Non sa che poteva essere ucciso soltanto con una pallottola d'argento, perché si era venduto al Diavolo? Questo è un conforto, quanto a lei: almeno ne sa abbastanza da credere nel Diavolo.»
+
+«Oh, sì», rispose [[characters/father-brown|Father Brown]], «credo nel Diavolo. Ciò in cui non credo è il Dundee. Intendo il Dundee delle leggende dei Covenanters, con quel suo cavallo da incubo. John Graham era semplicemente un soldato di mestiere del Seicento, un po' migliore dei più. Se li dragonò, fu perché era un dragone, non un drago. Ora, la mia esperienza è che non è quel genere di spadaccino spavaldo a vendersi al Diavolo. Gli adoratori del demonio che ho conosciuto erano ben diversi. Per non fare nomi, che potrebbero suscitare un certo scompiglio mondano, prenderò un uomo dei tempi stessi di Dundee. Ha mai sentito parlare di Dalrymple di Stair?»
+
+«No», rispose l'altro in tono burbero.
+
+«Ha sentito parlare di ciò che fece», disse Padre Brown, «e fu peggio di qualunque cosa Dundee abbia mai fatto; eppure egli sfugge all'infamia grazie all'oblio. Fu l'uomo che ordì il Massacro di Glencoe. Era un uomo dottissimo e un lucido giurista, uno statista dalle idee assai serie e vaste sull'arte del governo, un uomo tranquillo dal volto raffinato e intellettuale. Ecco il genere d'uomo che si vende al Diavolo.»
+
+Aylmer si sollevò a metà dalla poltrona con l'entusiasmo di un fervido assenso.
+
+«Per Dio! ha ragione», esclamò. «Un volto raffinato e intellettuale! È il volto di John Strake.»
+
+Poi si drizzò e rimase a guardare il prete con una curiosa concentrazione. «Se vuole aspettare qui un momento», disse, «le mostrerò una cosa.»
+
+Ripassò dalla porta centrale, richiudendola dietro di sé; diretto, suppose il prete, alla vecchia credenza o forse alla propria camera da letto. [[characters/father-brown|Father Brown]] rimase seduto, lo sguardo perso sul tappeto, dove un fioco bagliore rosso scendeva dal vetro della porta. Una volta parve avvivarsi come un rubino e poi tornò a spegnersi, come se il sole di quel giorno tempestoso fosse passato da una nuvola all'altra. Nulla si muoveva, salvo le creature acquatiche che galleggiavano avanti e indietro nella boccia di un verde smorto. [[characters/father-brown|Father Brown]] stava pensando intensamente.
+
+Un minuto o due dopo si alzò e scivolò senza rumore fino alla nicchia del telefono, dove chiamò il suo amico dottor Boyne, alla sede ufficiale. «Volevo parlarle di Aylmer e delle sue faccende», disse a bassa voce. «È una storia bizzarra, ma sono piuttosto propenso a credere che ci sia qualcosa di vero. Se fossi in lei, manderei subito quassù alcuni uomini; quattro o cinque, direi, e circonderei la casa. Se qualcosa accadrà, ci sarà probabilmente qualcosa di sensazionale in fatto di fuga.»
+
+Poi tornò a sedersi, fissando il tappeto scuro, che di nuovo ardeva rosso [[motifs/blood|sangue]] alla luce della porta a vetri. Qualcosa in quella luce filtrata mise la sua mente a vagare per certe terre di confine del pensiero, con la prima bianca alba che precede il sopraggiungere del colore, e tutto quel mistero che è alternativamente velato e svelato nel simbolo delle finestre e delle porte.
+
+Un ululato disumano in voce umana giunse da oltre le porte chiuse, quasi simultaneamente al rumore di uno sparo. Prima ancora che gli echi del colpo si fossero spenti, la porta fu spalancata con violenza e il suo ospite entrò barcollando nella stanza, la vestaglia mezza strappata dalla spalla e la lunga [[characters/pistol|pistola]] fumante in mano. Sembrava tremare in ogni membro, eppure era scosso in parte da un riso innaturale.
+
+«Gloria alla Magia Bianca!» esclamò. «Gloria al proiettile d'argento! Il mastino infernale ha dato la caccia una volta di troppo, e i miei fratelli sono finalmente vendicati.»
+
+Sprofondò in una poltrona e la [[characters/pistol|pistola]] gli scivolò di mano e cadde sul pavimento. [[characters/father-brown|Father Brown]] gli sfrecciò accanto, s'infilò per la porta a vetri e percorse il corridoio. Facendolo, posò la mano sulla maniglia della porta della camera da letto, come se avesse una mezza intenzione di entrare; poi si chinò un istante, come per esaminare qualcosa, e infine corse alla porta esterna e l'aprì.
+
+Sul campo di [[motifs/snow|neve]], che poco prima era stato così immacolato, giaceva un unico oggetto nero. A prima vista somigliava un po' a un enorme pipistrello. A un secondo sguardo si vedeva che era, dopo tutto, una figura umana; caduta bocconi, l'intera testa coperta da un ampio cappello nero che aveva un che di latino-americano; mentre l'apparenza di ali nere derivava dai due lembi o maniche larghe di un vastissimo mantello nero, spiegate, forse per caso, in tutta la loro lunghezza ai due lati. Entrambe le mani erano nascoste, sebbene [[characters/father-brown|Father Brown]] credesse di poter individuare la posizione di una di esse, e vide, vicino a questa, sotto l'orlo del mantello, il luccichio di qualche arma metallica. L'effetto principale, tuttavia, era curiosamente simile a quello delle semplici stravaganze dell'araldica; come un'aquila nera spiegata su un campo bianco. Ma girandovi intorno e spiando sotto il cappello il prete riuscì a intravedere il volto, che era davvero quello che il suo ospite aveva definito raffinato e intellettuale; perfino scettico e austero: il volto di John Strake.
+
+«Be', che io sia impiccato», mormorò padre Brown. «Sembra davvero un enorme vampiro calato in picchiata come un uccello.»
+
+«E in che altro modo avrebbe potuto arrivare?» giunse una voce dalla soglia, e padre Brown alzò lo sguardo per vedere Aylmer di nuovo là ritto.
+
+«Non avrebbe potuto venire a piedi?» rispose [[characters/father-brown|Father Brown]] evasivo.
+
+Aylmer tese il braccio e con un gesto spazzò il bianco paesaggio.
+
+«Guardi la neve», disse con una voce profonda che aveva in sé una sorta di rullo e di fremito. «Non è forse la [[motifs/snow|neve]] intatta, pura come la magia bianca che lei stesso ha nominato? C'è forse una macchia su di essa per miglia e miglia, tranne quell'unica lorda chiazza nera che vi è caduta? Non ci sono orme, salvo poche, sue e mie; non ce n'è alcuna che si avvicini alla casa da nessuna parte.»
+
+Poi guardò il piccolo prete per un momento con un'espressione concentrata e curiosa, e disse: «Le dirò un'altra cosa. Quel mantello con cui vola è troppo lungo per camminarci. Non era un uomo molto alto, e gli si sarebbe trascinato dietro come uno strascico regale. Lo distenda pure sul suo corpo, se vuole, e veda.»
+
+«Che cosa è accaduto a voi due?» chiese [[characters/father-brown|Father Brown]] a bruciapelo.
+
+«È stato troppo rapido per descriverlo», rispose Aylmer. «Avevo guardato fuori dalla porta e mi stavo voltando quando venne una sorta di impeto di [[motifs/wind|vento]] tutt'intorno a me, come se fossi sballottato da una [[motifs/wheel|ruota]] che girasse a mezz'aria. In qualche modo mi girai su me stesso e sparai alla cieca; e poi non vidi altro che quel che vede adesso. Ma sono moralmente certo che lei non lo vedrebbe se non avessi avuto un proiettile d'argento nel fucile. Sarebbe stato un [[concepts/body|corpo]] diverso quello disteso là nella [[motifs/snow|neve]].»
+
+«A proposito», osservò padre Brown, «lo lasciamo lì disteso nella [[motifs/snow|neve]]? Oppure preferirebbe farlo portare nella sua stanza… suppongo che quella nel corridoio sia la sua camera da letto?»
+
+«No, no», rispose Aylmer in fretta, «dobbiamo lasciarlo qui finché la polizia non l'avrà visto. E poi, ne ho avuto abbastanza di simili cose per il momento. Qualunque altra cosa accada, ho intenzione di bermi qualcosa. Dopodiché, possono impiccarmi, se vogliono.»
+
+Dentro l'appartamento centrale, tra la palma e la boccia dei pesci, Aylmer si lasciò cadere in una poltrona. Aveva quasi rovesciato la boccia mentre entrava barcollando nella stanza, ma era riuscito a trovare la caraffa di brandy dopo aver ficcato la mano piuttosto alla cieca in vari armadietti e angoli. In nessun [[motifs/time|momento]] aveva l'aria di una persona metodica, ma in quell'istante il suo smarrimento doveva essere estremo. Bevve con un lungo sorso e cominciò a parlare in modo piuttosto febbrile, come per colmare un [[motifs/silence|silenzio]].
+
+«Vedo che siete ancora dubbioso», disse, «benché abbiate visto la cosa con i vostri stessi occhi. Credetemi, dietro la contesa tra lo spirito di Strake e lo spirito della casa degli Aylmer c'era qualcosa di più. E poi, non avete alcun diritto di essere un miscredente. Dovreste stare dalla parte di tutte quelle cose che questa gente sciocca chiama superstizioni. Suvvia, non credete che ci sia molto di vero in quelle vecchie storielle sulla fortuna e i talismani e via dicendo, pallottole d'argento comprese? Che cosa ne dite, voi che siete cattolico?»
+
+«Dico che sono un agnostico», rispose Padre Brown sorridendo.
+
+«Sciocchezze», disse Aylmer spazientito. «È vostro mestiere credere alle cose.»
+
+«[[motifs/well|Beh]], certe cose le credo, naturalmente», concesse [[characters/father-brown|Padre Brown]]; «e perciò, naturalmente, altre cose non le credo.»
+
+Aylmer si era sporto in avanti e lo fissava con una strana intensità, quasi da ipnotizzatore.
+
+«Voi ci credete», disse. «Voi credete a tutto. Tutti crediamo a tutto, anche quando neghiamo tutto. I negatori credono. Gli increduli credono. Non sentite forse nel vostro cuore che queste contraddizioni non si contraddicono davvero: che esiste un cosmo capace di contenerle tutte? L'anima gira su una ruota di stelle e ogni cosa ritorna; forse Strake e io abbiamo lottato in molte forme, bestia contro bestia e uccello contro uccello, e forse lotteremo in eterno. Ma poiché ci cerchiamo e abbiamo bisogno l'uno dell'altro, persino quell'odio eterno è un amore eterno. Il bene e il male girano su una ruota che è una cosa sola e non molte. Non vi rendete conto, nel vostro cuore, non credete, dietro tutte le vostre credenze, che vi sia un'unica realtà e che noi ne siamo le ombre; e che tutte le cose non siano se non aspetti di una sola cosa: un centro dove gli uomini si fondono nell'Uomo e l'Uomo in Dio?»
+
+«No», disse [[characters/father-brown|Padre Brown]].
+
+Fuori il crepuscolo aveva cominciato a calare, in quella fase di una sera così carica di [[motifs/snow|neve]] in cui la terra appare più luminosa del cielo. Nel portico dell'ingresso principale, visibile attraverso una [[motifs/window|finestra]] a mezzo velata da una tenda, [[characters/father-brown|Padre Brown]] poteva scorgere confusamente una figura massiccia in piedi. Gettò uno sguardo distratto alle portefinestre da cui in origine era entrato, e vide che erano oscurate da due figure altrettanto immobili. La porta interna dal vetro colorato era leggermente socchiusa; e poteva vedere, nel breve corridoio al di là, le estremità di due lunghe ombre, ingigantite e deformate dalla luce radente della sera, ma ancora simili a grigie caricature di figure d'uomini. Il dottor Boyne aveva già obbedito al messaggio telefonico. La casa era circondata.
+
+«A che pro dire di no?» insisté il suo ospite, sempre con lo stesso sguardo ipnotico. «Avete visto parte di quell'eterno dramma con i vostri stessi occhi. Avete visto la minaccia di John Strake di uccidere Arnold Aylmer con la magia nera. Avete visto Arnold Aylmer uccidere John Strake con la magia bianca. Vedete Arnold Aylmer vivo che vi parla in questo momento. Eppure non ci credete.»
+
+«No, non ci credo», disse Padre Brown, e si alzò dalla sedia come chi pone fine a una visita.
+
+«E perché no?» chiese l'altro.
+
+Il prete si limitò ad alzare un poco la voce, ma essa risuonò in ogni angolo della stanza come una campana. «Perché voi non siete Arnold Aylmer», disse. «So chi siete. Il vostro nome è John Strake; e avete assassinato l'ultimo dei fratelli, che giace là fuori nella [[motifs/snow|neve]].»
+
+Un cerchio di bianco apparve intorno all'iride dell'altro; pareva compiere, con gli occhi sbarrati fino a scoppiare, un ultimo sforzo per ipnotizzare e soggiogare il suo interlocutore. Poi fece un brusco movimento di lato; e proprio mentre lo faceva la porta dietro di lui si aprì e un grosso [[archetypes/detective|poliziotto]] in borghese gli posò con calma una mano sulla spalla. L'altra mano gli pendeva lungo il fianco, ma stringeva una rivoltella. L'uomo si guardò intorno con aria stravolta, e vide uomini in borghese in ogni angolo della quieta stanza.
+
+Quella sera [[characters/father-brown|Padre Brown]] ebbe un'altra e più lunga conversazione con il dottor Boyne sulla [[forms/tragedy|tragedia]] della famiglia Aylmer. A quel [[motifs/time|momento]] non v'era più alcun [[concepts/doubt|dubbio]] sul fatto centrale del caso, poiché John Strake aveva confessato la propria [[concepts/identity|identità]] e persino i propri delitti; solo che sarebbe più esatto dire che si vantava delle proprie vittorie. In confronto al fatto di aver coronato l'opera della sua vita con l'ultimo Aylmer steso morto, ogni altra cosa, compresa l'esistenza stessa, gli pareva indifferente.
+
+«Quell'uomo è una specie di monomaniaco», disse Padre Brown. «Non gli interessa nient'altro; nemmeno un altro delitto. Gli devo qualcosa per questo; perché parecchie volte, questo pomeriggio, ho dovuto consolarmi con tale riflessione. Come di certo vi sarà venuto in mente, invece di intessere tutto quell'ingegnoso ma stravagante romanzo su vampiri alati e pallottole d'argento, avrebbe potuto piantarmi addosso un'ordinaria pallottola di piombo, e uscirsene dalla casa. Vi assicuro che la cosa mi è venuta in mente assai di frequente.»
+
+«Mi domando perché non l'abbia fatto», osservò Boyne. «Non lo capisco; ma finora non capisco nulla. Come diamine avete fatto a scoprirlo, e che cosa mai avete scoperto?»
+
+«Oh, siete stato voi a fornirmi informazioni preziosissime», rispose Padre Brown modestamente, «e in particolare l'unica informazione che davvero contava. Intendo l'affermazione che Strake era un bugiardo assai inventivo e fantasioso, dotato di grande prontezza di spirito nel confezionare le sue menzogne. Questo pomeriggio ne aveva bisogno; e [[motifs/rose|si mostrò]] all'altezza della situazione. Forse il suo unico errore fu scegliere una storia soprannaturale; aveva l'idea che, essendo io un sacerdote, avrei creduto a qualunque cosa. Molte persone hanno ideucce di questo genere.»
+
+«Ma io non ci capisco un'acca», disse il dottore. «Dovete proprio cominciare dal principio.»
+
+«Il principio di tutto fu una vestaglia», disse Padre Brown con semplicità. «È il solo travestimento davvero riuscito che io abbia mai conosciuto. Quando incontrate un uomo in una casa con addosso una vestaglia, date per scontato, in modo del tutto automatico, che sia in casa propria. L'ho dato per scontato anch'io; ma poi cominciarono ad accadere piccole cose strane. Quando tirò giù la [[characters/pistol|pistola]], la fece scattare tenendola a distanza di braccio, come fa chi vuole accertarsi che un'arma sconosciuta non sia carica; naturalmente lui avrebbe saputo se le pistole del proprio atrio fossero cariche o no. Non mi piacque il modo in cui cercò il brandy, né il modo in cui per poco non andò a sbattere contro la boccia dei pesci. Perché un uomo che tiene un oggetto tanto fragile come suppellettile fissa nelle proprie stanze acquista l'abitudine del tutto meccanica di evitarlo. Ma queste cose potevano forse essere fantasie; il primo punto davvero concreto fu questo. Uscì dal breve passaggio fra le due porte; e in quel passaggio non c'è che un'altra porta, che conduce a una stanza; perciò supposi che fosse la camera da letto da cui era appena uscito. Provai la maniglia; ma era chiusa a chiave. La cosa mi parve strana; e guardai dal buco della serratura. Era una stanza del tutto spoglia, evidentemente abbandonata; nessun letto, niente di niente. Dunque non era uscito dall'interno di alcuna stanza, ma dall'esterno della casa. E quando vidi ciò, credo di aver visto l'intero quadro.
+
+Povero Arnold Aylmer, senza dubbio dormiva, forse anche viveva al piano di sopra, e poi scese indossando la sua vestaglia, passando attraverso la porta di vetro rosso. All’estremità del corridoio, stagliato contro la luce invernale, vide il nemico della sua casa: un uomo alto, barbuto, con un cappello nero a tesa larga e un grande mantello nero che svolazzava al vento. Non vide molto di più. Strake gli si scagliò addosso, soffocandolo o pugnalandolo; non possiamo esserne certi fino all’inchiesta. Poi, Strake, fermo nel corridoio stretto tra il cappello e l’antico comò, guardando con trionfo il suo ultimo nemico, sentì qualcosa che non si aspettava: dei passi nella sala accanto. Ero io che stavo entrando dalle finestre francesi.
+
+La sua mascherata fu un vero miracolo di prontezza. Non si trattava soltanto di un travestimento, ma anche di una romanzata, un’romanzata improvvisata. Si tolse il grande cappello nero e il mantello, indossò l’abito del morto. Poi fece qualcosa di piuttosto macabro; almeno, a me sembra molto più macabro degli altri gesti che aveva compiuto. Appese il cadavere come un cappotto a uno dei ganci per cappelli, lo avvolse nel proprio lungo mantello e notò che pendeva appena sotto le punte dei tacchi; coprì completamente la testa con il proprio largo cappello. Era l’unico modo possibile per nasconderlo in quel piccolo corridoio con la porta chiusa a chiave. Ma davvero un’idea molto ingegnosa. Anche io sono passato accanto a quel “gancio per cappelli” senza nemmeno rendermi conto che non fosse altro che un gancio per cappelli. Penso che quel mio momentaneo ignorare la realtà mi faccia ancora rabbrividire, oggi.
+
+Forse avrebbe potuto lasciarle lì; ma io avrei potuto scoprire il cadavere in qualsiasi momento; e, appeso dove si trovava, era un cadavere che richiedeva, per così dire, una spiegazione. Decise quindi di agire in modo più deciso: scoprirlo lui stesso e fornire anche lui la spiegazione.
+
+Allora, nella mente di quell’uomo strano e terribilmente fertile, nacque l’idea di una storia basata sulla sostituzione, sull’inversione dei ruoli. Aveva già assunto il ruolo di Arnold Aylmer. Perché non avrebbe dovuto anche il suo nemico morto assumere il ruolo di John Strake? Doveva esserci qualcosa di affascinante in quell’idea, per conquistare l’immaginazione di un uomo così fantasioso e cupo. Era come un banchetto di mascherate in cui i due nemici mortali si sarebbero vestiti a vicenda. Solo che quel “banchetto” sarebbe stato una [[topoi/dance-of-death|danza della morte]], e uno dei partecipanti sarebbe stato davvero morto. Ecco perché riesco a immaginare quell’uomo mentre concepisce tutto questo. E riesco anche a immaginarlo sorridere.
+
+[[characters/father-brown|Padre Brown]] fissava il vuoto con i suoi grandi occhi grigi; quando non erano offuscati dal suo tic di battito delle palpebre, essi rappresentavano l’unica caratteristica distintiva del suo volto. Continuò a parlare in modo semplice e serio: “Tutto proviene da Dio; soprattutto la ragione, l’immaginazione e i grandi doni dell’intelletto. Sono cose buone di per sé; e non dobbiamo dimenticare mai la loro origine, nemmeno quando vengono utilizzate a scopi malvagi. Quest’uomo, però, possedeva un potere molto nobile, il potere di raccontare storie. Era un grande romanziere; ma ha distorto questo suo dono per fini pratici e malvagi: per ingannare le persone con fatti falsi, invece che con storie inventate. Tutto è iniziato quando ha ingannato il vecchio Aylmer con scuse elaborate e bugie ricercatamente dettagliate. Ma anche questo, all’inizio, poteva essere poco più che le fantasie di un bambino che dice di aver visto il Re d’Inghilterra o il Re delle Fate. Quel vizio è cresciuto in lui grazie alla vanità, si è sempre vantato della sua capacità di inventare storie originali e di svilugarle con abilità. È per questo che i giovani Aylmer dicevano che poteva sempre “incantare” loro padre. Ed era vero. Era lo stesso tipo di incantesimo che il narratore usava nei racconti delle Mille e Una Notte per dominare i tiranni. Fino alla fine, ha vissuto con l’orgoglio di un poeta, e con il coraggio falso ma incomprensibile di un grande bugiardo. Avrebbe sempre potuto inventare altre storie delle Mille e Una Notte, anche se la sua vita fosse stata in pericolo. E oggi, la sua vita è davvero in pericolo.”
+
+‘Ma sono sicuro, come dico, che lui ne trasse piacere sia come una fantasia, sia come una congiura. Iniziò quindi il compito di raccontare la vera storia, ma al contrario: trattando l’uomo morto come se fosse vivo e l’uomo vivo come se fosse morto. Si infilò già nell’abito da camera di Aylmer; poi proseguì, entrando nel suo [[concepts/body|-corpo]] e nella sua [[motifs/soul|-anima]]. Guardava il cadavere come se fosse il proprio corpo freddo disteso nella [[motifs/snow|-neve]]. Poi lo adornò in quel modo strano, per suggerire l’immagine di un rapace che discende velocemente, e lo vestì non solo con i propri abiti scuri e fluttuanti, ma anche con tutto ciò che rappresenta il mondo delle fate: il simbolo del uccello nero che può essere abbattuto soltanto da una pallottola d’argento. Non so se fosse lo scintillio dell’argento sul comodino o la [[motifs/snow|-neve]] che brillava oltre la porta a ispirare in lui il tema della “magia bianca” e del metallo bianco utilizzato contro i maghi. Ma, qualunque ne fosse l’origine, lo adattò alle sue esigenze come un poeta, e lo fece con grande rapidità, come una persona pratica. Completò il processo di scambio e inversione delle parti, gettando il cadavere nella [[motifs/snow|-neve]] come se fosse quello di Strake. Si sforzò davvero molto di creare l’immagine inquietante di Strake, qualcosa che fluttuasse dappertutto nell’aria, una harpy con ali veloci e artigli mortali, per spiegare l’assenza di orme e altre anomalie. Per questa audacia artistica lo ammiro profondamente. In realtà, trasformò addirittura una delle contraddizioni presenti nel suo racconto in un argomento a sostegno della sua teoria, dicendo che il mantello dell’uomo fosse troppo lungo per lui, e quindi dimostrasse che non camminava mai a terra come un comune mortale. Ma mentre lo diceva, mi guardò con molta intensità. E qualcosa mi fece capire che in quel momento stava cercando di bluffare con tutte le sue forze.’
+
+Il dottor Boyne sembrava pensieroso. “A quel punto avevi già scoperto la verità?”, chiese. “C’è qualcosa di molto strano, che riguarda direttamente i nervi, nelle nozioni legate all’[[concepts/identity|identità]]. Non so se sarebbe ancora più bizzarro formulare un’ipotesi del genere in modo rapido o lento. Mi chiedo quando hai iniziato a sospettarlo e quando ne sei stato sicuro.”
+
+«Credo di aver sospettato davvero nel momento in cui vi ho telefonato»,
+rispose l'amico. «E non fu nulla di più che la luce rossa
+proveniente dalla porta chiusa, che si ravvivava e si oscurava sul tappeto.
+Sembrava una macchia di [[motifs/blood|sangue]] che si faceva viva a mano a mano che
+gridava vendetta. Perché avrebbe dovuto mutare a quel modo?
+Sapevo che il sole non era spuntato; poteva accadere soltanto perché la
+seconda porta dietro di essa era stata aperta e richiusa sul [[motifs/garden|giardino]].
+Ma se lui fosse uscito e avesse veduto allora il proprio nemico, avrebbe
+dato l'allarme in quel momento; e fu qualche [[motifs/time|tempo]] più tardi
+che avvenne la zuffa. Cominciai a sentire che era uscito
+per fare qualcosa... per preparare qualcosa... ma quanto al momento in cui
+ne fui certo, questa è tutt'altra faccenda. Sapevo che proprio alla
+fine egli tentava di ipnotizzarmi, di soggiogarmi con l'arte nera
+di occhi simili a talismani e di una voce simile a un incantesimo.
+È ciò che soleva fare col vecchio Aylmer, senza [[concepts/doubt|dubbio]].
+Ma non era soltanto il modo in cui lo diceva, era ciò che diceva.
+Era la religione e la filosofia che vi stavano dentro.»
+
+«Temo di essere un uomo pratico», disse il dottore con burbero umorismo,
+«e non mi curo granché di religione e filosofia.»
+
+«Non sarete mai un uomo pratico finché non lo farete», disse Padre Brown.
+«Sentite, dottore; voi mi conoscete piuttosto [[motifs/well|bene]]; credo che
+sappiate ch'io non sono un bigotto. Sapete che so bene esservi ogni sorta
+di gente in tutte le religioni; uomini buoni in quelle cattive e uomini cattivi in quelle buone.
+Ma c'è un piccolo fatto che ho appreso semplicemente da
+uomo pratico, un punto interamente pratico, che ho colto
+per esperienza, come i trucchi di un animale o il marchio
+di fabbrica di un buon vino. Non ho quasi mai incontrato un criminale
+che filosofeggiasse, che non filosofeggiasse lungo
+quelle linee dell'orientalismo, della ricorrenza e della reincarnazione,
+e della [[motifs/wheel|ruota]] del destino e del serpente che si morde la coda.
+Ho scoperto, semplicemente in pratica, che v'è una maledizione sopra
+i servi di quel serpente; sul loro ventre andranno
+e [[motifs/dust|polvere]] mangeranno; e non nacque mai furfante
+o dissoluto che non sapesse discorrere di quella sorta di spiritualità.
+Può darsi che non sia così nelle sue vere origini religiose;
+ma qui, nel nostro mondo di ogni giorno, è la religione dei mascalzoni;
+e io sapevo che a parlare era un mascalzone.»
+
+«Diamine», disse Boyne, «avrei creduto che un mascalzone potesse
+piuttosto [[motifs/well|bene]] professare qualunque religione gli piacesse.»
+
+«Sì», convenne l'altro; «poteva professare qualunque religione;
+vale a dire, poteva fingere qualunque religione, se tutto era finzione.
+Se si fosse trattato di mera ipocrisia meccanica e nient'altro,
+senza [[concepts/doubt|dubbio]] avrebbe potuto compierlo un mero ipocrita meccanico.
+Ogni sorta di maschera può essere posta su ogni sorta di volto. Chiunque può imparare
+certe frasi, o dichiarare a parole di sostenere certe opinioni.
+Posso uscire per strada e dichiarare di essere un metodista wesleyano
+o un sandemaniano, benché [[concepts/fear|temo]] con accento poco convincente.
+Ma noi stiamo parlando di un [[archetypes/artist|artista]]; e per il godimento dell'[[archetypes/artist|artista]]
+la maschera deve, in una certa misura, essere modellata sul volto.
+Ciò che egli plasma al di fuori di sé deve corrispondere a qualcosa dentro di sé;
+egli può trarre i propri effetti soltanto da alcune delle materie della sua [[motifs/soul|anima]].
+Suppongo che avrebbe potuto dire d'essere un metodista wesleyano;
+ma non avrebbe mai potuto essere un eloquente metodista come sa essere un
+eloquente mistico e fatalista. Parlo di quella sorta d'ideale
+a cui un tale uomo pensa se davvero cerca d'essere idealista.
+Fu tutto il suo gioco, con me, essere quanto più idealista possibile;
+e ogniqualvolta ciò viene tentato da un uomo di quella specie, troverete di solito
+che è quella la specie d'ideale. Un uomo di quella specie può grondare
+di sangue; ma sarà sempre in grado di dirvi con tutta sincerità
+che il buddismo è migliore del [[historical-references/christianity|cristianesimo]]. Anzi, vi dirà
+con tutta sincerità che il buddismo è più cristiano del [[historical-references/christianity|cristianesimo]].
+Questo solo basta a gettare un raggio orrendo e spettrale di luce
+sulla sua idea del [[historical-references/christianity|cristianesimo]].»
+
+«Sull'anima mia», disse il dottore ridendo, «non riesco a capire se
+lo stiate denunciando o difendendo.»
+
+«Non è difendere un uomo dire che è un genio», disse Padre Brown.
+«Tutt'altro. Ed è semplicemente un fatto psicologico che
+un [[archetypes/artist|artista]] tradisce se stesso con una qualche sorta di sincerità.
+Leonardo da Vinci non può disegnare come se non sapesse disegnare.
+Anche se ci provasse, ne verrebbe sempre una vigorosa [[forms/parody|parodia]] di una cosa debole.
+Quest'uomo avrebbe ricavato qualcosa di troppo terribile e meraviglioso
+dal metodista wesleyano.»
+
+Quando il prete si rimise in cammino e volse il viso verso casa,
+il freddo si era fatto più intenso e pure, in qualche modo, inebriante.
+Gli alberi si ergevano come candelabri d'argento di qualche incredibile, gelida
+candelora di [[concepts/purification|purificazione]]. Era un freddo pungente, come quella spada
+d'argento di puro [[motifs/pain|dolore]] che una volta trafisse il cuore stesso della purezza.
+Ma non era un freddo che uccide, se non nel senso di parer voler uccidere
+tutti gli ostacoli mortali alla nostra immortale e incommensurabile vitalità.
+Il cielo verde pallido del crepuscolo, con una stella simile alla stella di Betlemme,
+sembrava, per qualche strana contraddizione, essere una caverna di limpidezza.
+Era come se potesse esistere una verde fornace di freddo che destasse
+tutte le cose alla vita come fa il calore, e come se, quanto più addentro
+esse penetravano in quei freddi colori cristallini, tanto più
+si facessero lievi come creature alate e limpide come vetro colorato!
+Vibrava di [[concepts/truth|verità]] e separava la [[concepts/truth|verità]] dall'errore con una lama
+di ghiaccio; ma tutto ciò che rimaneva non si era mai sentito tanto vivo.
+Era come se ogni gioia fosse un [[motifs/jewel|gioiello]] nel cuore di un ghiacciaio.
+Il prete a stento comprendeva il proprio stato d'animo mentre si inoltrava
+sempre più addentro nel verde imbrunire, bevendo sorsi sempre
+più profondi di quella verginale vivacità dell'aria.
+Qualche dimenticato groviglio e morbosità pareva restare indietro, o cancellato
+come la [[motifs/snow|neve]] aveva cancellato le orme dell'uomo di [[motifs/blood|sangue]].
+Mentre trascinava i passi verso casa attraverso la [[motifs/snow|neve]], mormorava tra sé:
+«E tuttavia ha proprio ragione quanto all'esistere di una magia bianca,
+purché sappia dove cercarla.»
+
+SETTE:  La condanna dei Darnaway
+
+Due paesaggisti stavano contemplando un medesimo paesaggio, che era insieme una veduta di mare, e l'uno e l'altro ne ricevevano una strana impressione, benché le loro impressioni non fossero esattamente le stesse. Per il primo, un artista emergente venuto da Londra, quel luogo era nuovo oltre che singolare. Per il secondo, un artista di provincia ma dotato di una fama che oltrepassava i confini della provincia, era più familiare; e forse tanto più strano proprio per quel che ne sapeva.
+
+Quanto a tono e forma, così come quei due lo vedevano, era una distesa di sabbie contro una distesa di tramonto, l'intera scena giacendo in strisce di colore cupo, verde spento e bronzo e bruno e un grigiastro che non era soltanto smorto, ma che in quel crepuscolo appariva in qualche modo più misterioso dell'oro. Tutto ciò che rompeva quelle linee piatte era un lungo edificio che si protendeva dai campi fin dentro le sabbie del mare, sicché la sua frangia di malinconiche erbe e di giunchi pareva quasi congiungersi con le alghe. Ma il suo tratto più singolare era che la parte superiore aveva i contorni frastagliati di una rovina, trafitta da tante ampie finestre e da così larghi squarci da ridursi a un mero scheletro scuro contro la luce morente; mentre la mole inferiore dell'edificio non aveva quasi finestra alcuna, essendo la maggior parte di esse cieche e murate, e i loro profili appena rintracciabili nel crepuscolo. Ma almeno una finestra era ancora una finestra; e la cosa più strana di tutte pareva questa: che essa mostrava un lume.
+
+«Chi diamine può abitare in quel vecchio guscio?» esclamò il londinese, un uomo grande, dall'aria bohémien, giovane ma con una ispida barba rossa che lo faceva sembrare più anziano; a Chelsea lo conoscevano confidenzialmente come Harry Payne.
+
+«Fantasmi, si direbbe» replicò il suo amico Martin Wood. «[[motifs/well|Ecco]], la gente che ci vive somiglia davvero un po' ai [[motifs/ghosts|fantasmi]].»
+
+Era forse un certo [[concepts/paradox|paradosso]] che l'[[archetypes/artist|artista]] di [[settings/london|Londra]] apparisse quasi bucolico nella sua fresca e chiassosa esuberanza e [[concepts/wonder|meraviglia]], mentre l'[[archetypes/artist|artista]] del luogo sembrasse una persona più accorta ed esperta, e lo osservasse con un divertimento maturo e benevolo; il secondo, in verità, era in tutto una figura più quieta e più convenzionale, vestito di panni più scuri e col volto squadrato e placido perfettamente rasato.
+
+«È solo un segno dei tempi, si capisce» proseguì, «o del trapasso dei vecchi tempi e, con essi, delle vecchie famiglie. Gli ultimi dei grandi Darnaway vivono in quella casa, e non molti fra i nuovi poveri sono poveri come loro. Non possono nemmeno permettersi di rendere abitabile il loro ultimo piano; e devono vivere nelle stanze inferiori di una rovina, come pipistrelli e civette. Eppure posseggono ritratti di famiglia che risalgono alla Guerra delle Due Rose e alla prima ritrattistica in Inghilterra, e alcuni di essi sono davvero bellissimi; lo so per caso, perché mi hanno chiesto il mio parere professionale per restaurarli. Ce n'è uno in particolare, e fra i più antichi, ma è così bello che ti fa venire i brividi.»
+
+«L'intero posto fa venire i brividi, direi, a giudicare dall'aspetto» replicò Payne.
+
+«Beh» disse l'amico, «a dirti la [[concepts/truth|verità]], è proprio così.»
+
+Il [[motifs/silence|silenzio]] che seguì fu turbato da un lieve fruscio tra i giunchi presso il fossato; e diede loro, con ragione, un piccolo trasalimento nervoso, quando una figura scura scivolò lungo l'argine, muovendosi rapida e quasi come un uccello spaventato. Ma era soltanto un uomo che camminava di buon passo con una borsa nera in mano: un uomo dal viso lungo e giallastro e dagli occhi acuti, che lanciò allo straniero di [[settings/london|Londra]] uno sguardo un poco torvo e sospettoso.
+
+«È solo il dottor Barnet» disse Wood con una sorta di sollievo. «Buonasera, dottore. Salite alla casa? Spero che nessuno stia male.»
+
+«Tutti stanno sempre male in un posto simile» borbottò il dottore; «solo che a volte stanno troppo male per accorgersene. La stessa aria di quel luogo è una piaga e una pestilenza. Non invidio il giovanotto venuto dall'Australia.»
+
+«E chi» chiese Payne d'un tratto e piuttosto distrattamente, «sarebbe mai il giovanotto venuto dall'Australia?»
+
+«Ah!» sbuffò il dottore; «il vostro amico non vi ha parlato di lui? A dire il vero credo che arrivi oggi. Un vero romanzo alla vecchia maniera del melodramma: l'erede che torna dalle colonie al suo castello in rovina, il tutto completo persino di un antico patto familiare che lo destina a sposare la dama in vedetta nella torre coperta d'edera. Roba vecchia e curiosa, non è vero? eppure a volte accade davvero. Ha perfino un po' di denaro, che è l'unico punto luminoso mai apparso in tutta questa faccenda.»
+
+«E che ne pensa la stessa signorina Darnaway, nella sua torre coperta d'edera, di tutta la faccenda?» chiese Martin Wood asciutto.
+
+«Quel che ormai pensa di ogni altra cosa» rispose il dottore. «In quella vecchia tana infestata di superstizioni non si pensa, si sogna soltanto e si va alla deriva. Credo che accetti il patto di famiglia e il marito coloniale come parte della Condanna dei Darnaway, capite. Penso davvero che, se lui si rivelasse un negro gobbo con un occhio solo e una mania omicida, lei giudicherebbe soltanto che vi si aggiunge un tocco finale e che ben si accorda con lo scenario crepuscolare.»
+
+«Non state offrendo al mio amico di Londra un ritratto molto allegro dei miei amici di campagna» disse Wood, ridendo. «Avevo intenzione di condurlo là in visita; nessun [[archetypes/artist|artista]] dovrebbe lasciarsi sfuggire quei ritratti dei Darnaway, se gliene capita l'occasione. Ma forse è meglio che rimandi, se sono in piena invasione australiana.»
+
+«Oh, andate pure a vederli, per l'amor del cielo» disse il dottor Barnet con calore. «Qualsiasi cosa possa rischiarare le loro vite tenebrose renderà più facile il mio compito. Ci vorranno parecchi cugini coloniali per rallegrare un poco le cose, immagino; e più siamo, meglio è. Venite, vi accompagno io stesso.»
+
+Man mano che si avvicinavano alla casa, la si vide isolata come un'isola in un fossato di [[motifs/water|acqua]] salmastra, che essi attraversarono su un ponte. Dall'altra parte si stendeva una piattaforma di pietra o terrapieno assai ampio, solcato da grandi crepe, in cui qua e là spuntavano ciuffetti di erbacce e di spine. Quella terrazza di roccia appariva vasta e nuda nel grigio crepuscolo, e Payne stentava a credere che un simile angolo di spazio potesse racchiudere tanta [[motifs/soul|anima]] di solitudine selvaggia. La piattaforma si protendeva soltanto da un lato, come un gigantesco gradino di soglia, e oltre di essa c'era la porta; un arco Tudor dalla fronte assai bassa, spalancato, ma buio come una [[motifs/cave|caverna]].
+
+Quando il dottore, sbrigativo, li condusse dentro senza cerimonie, Payne provò, per così dire, un altro soprassalto di sconforto. Si sarebbe aspettato di doversi arrampicare su una torre in rovina, per stretti scaloni a chiocciola; ma in questo caso i primi passi dentro la casa furono invece passi verso il basso. Scesero per parecchie brevi e sconnesse rampe di scale fino a vaste stanze immerse nella penombra, che, se non fosse stato per le loro file di quadri scuri e per le scaffalature polverose, avrebbero potuto essere le tradizionali segrete al di sotto del fossato del [[settings/castle|castello]]. Qua e là una candela in un vecchio candeliere rischiarava qualche polveroso, casuale dettaglio di una eleganza ormai morta; ma il visitatore non fu tanto colpito o depresso da quella luce artificiale quanto dall'unico pallido barlume di luce naturale. Percorrendo la lunga sala, egli scorse l'unica [[motifs/window|finestra]] in quella parete: una curiosa e bassa [[motifs/window|finestra]] ovale, di foggia tardo-seicentesca. Ma la cosa strana era che essa non dava direttamente su alcun tratto di cielo, bensì soltanto su un riflesso di cielo; una pallida striscia di luce diurna semplicemente rispecchiata nel fossato, sotto l'[[archetypes/shadow|ombra]] incombente della sponda. Payne ebbe un [[motifs/memory|ricordo]] della Dama di Shallot, che non vide mai il mondo esterno se non in uno [[motifs/mirror|specchio]]. La dama di questa Shallot non solo, in un certo senso, vedeva il mondo in uno [[motifs/mirror|specchio]], ma addirittura lo vedeva capovolto.
+
+«È come se la casa dei Darnaway stesse cadendo davvero, e non soltanto in senso metaforico», disse Wood a bassa voce; «come se stesse sprofondando lentamente in una palude o in una sabbia mobile, finché il mare non le passi sopra come un tetto verde».
+
+Perfino il robusto dottor Barnet trasalì un poco all'avvicinarsi silenzioso della figura che venne a riceverli. Anzi, la stanza era così silenziosa che tutti sussultarono nell'accorgersi che non era vuota. C'erano tre persone, quando entrarono: tre figure indistinte, immobili nella stanza in penombra; tutte e tre vestite di nero e simili a ombre scure. Man mano che la figura più avanzata si accostava alla grigia luce della [[motifs/window|finestra]], mostrava un volto che appariva quasi grigio quanto la cornice dei suoi capelli. Costui era il vecchio Vine, l'amministratore, rimasto a lungo in loco parentis fin dalla [[motifs/death|morte]] di quel padre eccentrico, l'ultimo Lord Darnaway. Sarebbe stato un bell'uomo, da vecchio, se non avesse avuto denti. Così com'era, gliene restava uno, che di quando in quando si mostrava e gli conferiva un aspetto piuttosto sinistro. Egli accolse il dottore e i suoi amici con squisita cortesia e li accompagnò là dove sedevano le altre due figure vestite di nero. Una di esse parve a Payne aggiungere un altro tocco appropriato di cupa antichità al [[settings/castle|castello]], per il solo fatto di essere un prete cattolico romano, che avrebbe potuto uscire da un nascondiglio per preti in quei tenebrosi giorni antichi. Payne poteva immaginarlo mentre borbottava preghiere o sgranava il rosario, o suonava a morto le [[motifs/bells|campane]] o compiva un gran numero di indistinte e [[concepts/melancholy|malinconiche]] cose in quel luogo [[concepts/melancholy|malinconico]]. Proprio in quel momento si sarebbe potuto supporre che stesse porgendo conforto religioso alla dama; ma difficilmente si sarebbe potuto supporre che il conforto fosse molto confortante, o comunque molto rallegrante. Del resto, il prete era di per sé abbastanza insignificante, con lineamenti dimessi e piuttosto inespressivi; ma la dama era tutt'altra faccenda. Il suo volto era ben lungi dall'essere dimesso o insignificante; spiccava dall'oscurità del suo abito, dei suoi capelli e dello sfondo con un pallore quasi terribile, ma di una [[concepts/beauty|bellezza]] quasi terribilmente viva. Payne lo contemplò quanto a lungo osò; ed era destinato a contemplarlo assai più a lungo prima di morire.
+
+Wood si limitò a scambiare con i suoi ospiti quelle frasi cortesi e garbate che avrebbero condotto al suo scopo di tornare a osservare i ritratti. Si scusò di aver fatto visita nel giorno che aveva saputo dover essere di accoglienza familiare; ma si convinse ben presto che la famiglia era anzi lievemente sollevata di avere visitatori che la distraessero o attenuassero lo shock. Non esitò, dunque, a guidare Payne attraverso il salone centrale di ricevimento fino alla biblioteca al di là, dove pendeva il ritratto, giacché ce n'era uno che egli era particolarmente intenzionato a mostrare, non solo come dipinto ma quasi come un enigma. Il piccolo prete arrancava con loro; sembrava saperne [[motifs/well|bene]] di vecchi quadri non meno che di vecchie preghiere.
+
+«Vado piuttosto fiero di aver individuato questo», disse Wood. «Credo sia un Holbein. Se non lo è, allora c'era qualcuno, ai tempi di Holbein, che era grande quanto Holbein.»
+
+Era un ritratto nella maniera dura ma sincera e viva del periodo, che raffigurava un uomo vestito di nero, guarnito d'oro e di pelliccia, dal volto pesante, pieno, piuttosto pallido, ma dagli occhi vigili.
+
+«Che peccato che l'arte non abbia potuto fermarsi per sempre proprio a quello stadio di transizione», esclamò Wood, «e non transitare mai più oltre. Non vedete che è realistico quanto basta per essere reale? Non vedete che il volto parla tanto più proprio perché si staglia da una impalcatura piuttosto più rigida di cose meno essenziali? E gli occhi sono ancora più reali del volto. Sull'anima mia, credo che gli occhi siano troppo reali per il volto! È proprio come se quei bulbi oculari sornioni e guizzanti sporgessero da una grande maschera pallida.»
+
+«La rigidità si estende un poco anche alla figura, mi pare», disse Payne. «Non avevano ancora del tutto padroneggiato l'anatomia, quando finì il medioevo, almeno nel nord. Quella gamba sinistra mi sembra parecchio sbagliata nel disegno.»
+
+«Non ne sono così sicuro», replicò Wood pacatamente. «Quei tali che dipingevano proprio quando il realismo cominciava a farsi, e prima che cominciasse a essere esagerato, erano spesso più realistici di quanto pensiamo. Mettevano dettagli veri, da ritrattista, in cose che si crederebbero puramente convenzionali. Potreste dire che le sopracciglia o le orbite di costui sono un po' storte; ma scommetto che, se lo aveste conosciuto, avreste scoperto che uno dei suoi sopraccigli si rizzava davvero più dell'altro. E non mi stupirei se fosse stato zoppo o qualcosa del genere, e se quella gamba nera fosse stata intesa storta.»
+
+«Che vecchio demonio, all'aspetto!», sbottò all'improvviso Payne. «Confido che sua reverenza vorrà scusare il mio linguaggio.»
+
+«Io credo nel diavolo, grazie tante» disse il prete con volto imperscrutabile. «E, cosa abbastanza curiosa, esisteva una leggenda secondo cui il diavolo era zoppo.»
+
+«Insomma» protestò Payne «non vorrete mica dire sul serio che era il diavolo; ma chi diavolo era, allora?»
+
+«Fu il lord Darnaway sotto Enrico VII ed [[characters/henry-viii|Enrico VIII]]» rispose il compagno. «Ma anche su di lui corrono leggende curiose; una è richiamata da quell'iscrizione che gira attorno alla cornice, e ulteriormente sviluppata in certe annotazioni lasciate da qualcuno in un libro che ho trovato qui. Sono entrambe letture piuttosto singolari.»
+
+Payne si sporse in avanti, allungando il collo per seguire l'arcaica iscrizione che correva attorno alla cornice. Tralasciando i caratteri e l'ortografia antiquati, pareva una sorta di filastrocca in rima che suonava all'incirca così:
+
+Nel settimo erede farò ritorno: nella settima ora me ne andrò via: nessuno in quell'ora mi terrà la mano: e guai a colei che mi tiene il cuore.
+
+«In qualche modo mette i brividi» disse Payne «ma sarà anche perché non ne capisco una parola.»
+
+«Mette i brividi anche quando la si capisce» disse Wood a voce bassa. «Il resoconto redatto in epoca posteriore, nel vecchio libro che ho trovato, racconta per filo e per segno come questo bell'uomo si tolse deliberatamente la vita in modo tale che sua moglie fu giustiziata per il suo omicidio. Un'altra annotazione commemora una tragedia successiva, sette successioni più tardi — sotto i Giorgi — in cui un altro Darnaway si suicidò, non prima di aver premurosamente lasciato del veleno nel vino della moglie. Si dice che entrambi i suicidi avvennero alle sette di sera. Suppongo se ne debba dedurre che egli ritorni davvero a ogni settimo erede e renda la vita spiacevole, come suggerisce la filastrocca, a qualsiasi dama tanto imprudente da sposarlo.»
+
+«A rigor di questo ragionamento» replicò Payne «sarebbe un tantino scomodo per il prossimo settimo gentiluomo.»
+
+La voce di Wood si fece ancora più bassa mentre diceva: «Il nuovo erede sarà il settimo.»
+
+Harry Payne d'un tratto sollevò l'ampio petto e le spalle come chi si scrolla di dosso un fardello.
+
+«Ma che discorsi assurdi stiamo facendo?» esclamò. «Siamo tutti uomini istruiti in un'epoca illuminata, mi pare. Prima di entrare in questa maledetta atmosfera umida non avrei mai creduto che mi sarei ritrovato a parlare di simili cose, se non per riderne.»
+
+«Avete ragione» disse Wood. «Se viveste abbastanza a lungo in questo palazzo sotterraneo, comincereste a sentire le cose in modo diverso. Io ho cominciato a nutrire sensazioni assai singolari riguardo a quel quadro, avendo avuto tanto a che fare col maneggiarlo e appenderlo. A volte mi pare che il volto dipinto sia più vivo dei volti spenti di coloro che abitano qui; che sia una sorta di talismano o di calamita: che comandi gli elementi e attiri a sé i destini degli uomini e delle cose. Suppongo che lo definireste un'idea molto fantasiosa.»
+
+«Che cos'è quel rumore?» esclamò Payne all'improvviso.
+
+Tesero tutti l'orecchio, e non parve esserci alcun rumore se non il sordo rombo del mare lontano; poi cominciarono ad avvertire il senso di qualcosa che vi si mescolava; qualcosa come una voce che chiamava attraverso il frastuono della risacca, dapprima da esso attutita, ma che si faceva sempre più vicina. Un istante dopo ne furono certi: qualcuno gridava fuori, nell'oscurità del crepuscolo.
+
+Payne si volse verso la bassa finestra alle sue spalle e si chinò a guardar fuori. Era la finestra dalla quale nulla si poteva scorgere se non il fossato, con il suo riflesso di riva e di cielo. Ma quella visione capovolta non era la medesima che aveva veduto prima. Dall'ombra sospesa della riva, nell'acqua, pendevano due ombre scure riflesse dai piedi e dalle gambe di una figura che stava ritta là sopra, sulla riva. Attraverso quella feritoia angusta non potevano vedere altro che le due gambe nere contro il riflesso di un tramonto pallido e livido. Ma in qualche modo proprio il fatto che il capo fosse invisibile, come tra le nubi, conferiva qualcosa di terribile al suono che seguì: la voce di un uomo che gridava a gran voce ciò che essi non riuscivano a udire né a comprendere come si deve. Payne in particolare scrutava fuori dalla piccola finestra con volto mutato, e parlò con voce mutata:
+
+«Come sta ritto in modo strano!»
+
+«No, no» disse Wood, in una sorta di sussurro rassicurante. «Le cose spesso appaiono così nei riflessi. È l'ondeggiare dell'acqua che ve lo fa pensare.»
+
+«Pensare cosa?» chiese il prete secco.
+
+«Che la sua gamba sinistra sia storta» disse Wood.
+
+Payne aveva immaginato la finestra ovale come una sorta di specchio mistico; e gli parve che vi fossero, dentro, altre imperscrutabili immagini di sventura. C'era qualcos'altro, accanto alla figura, che egli non comprendeva; tre gambe più sottili che si stagliavano in linee scure contro la luce, come se un mostruoso ragno o uccello a tre zampe stesse in piedi accanto allo straniero. Poi ebbe il pensiero meno folle di un tripode come quello degli oracoli pagani; e l'istante dopo la cosa era svanita e le gambe della figura umana uscivano dal quadro.
+
+Si voltò e incontrò il volto pallido del vecchio Vine, il maggiordomo, con la bocca aperta, smanioso di parlare, e il suo unico dente in mostra. «È arrivato» disse. «Il piroscafo dall'Australia è giunto stamane.»
+
+Mentre ancora tornavano indietro dalla biblioteca al salone centrale, udirono i passi del nuovo venuto risuonare per la scalinata d'ingresso, con svariati bagagli leggeri trascinati dietro di sé. Quando Payne ne vide uno, rise in una reazione di sollievo. Il suo tripode non era altro che le gambe telescopiche di una macchina fotografica portatile, facile da imballare e da sballare; e l'uomo che la portava pareva, fin lì, assumere qualità altrettanto solide e normali. Era vestito di scuro, ma con un'aria trascurata e vacanziera; la sua camicia era di flanella grigia, e i suoi stivali echeggiavano in modo abbastanza perentorio in quelle stanze silenziose. Mentre avanzava a grandi passi per salutare la nuova cerchia, la sua andatura tradiva a malapena l'accenno di una zoppia. Ma Payne e i suoi compagni gli guardavano il volto, e a stento riuscivano a distoglierne gli occhi.
+
+Egli sentiva evidentemente che c'era qualcosa di curioso e di sgradevole nella sua accoglienza; ma avrebbero potuto giurare che egli stesso non ne conoscesse la ragione. La dama, che si supponeva già in qualche modo a lui promessa, era certo abbastanza bella da attrarlo; ma evidentemente lo spaventava anche. Il vecchio maggiordomo gli rendeva una sorta di omaggio feudale, eppure lo trattava come se fosse il fantasma di famiglia. Il prete continuava a guardarlo con un volto del tutto indecifrabile, e perciò forse tanto più sconcertante. Una nuova specie d'ironia, più simile all'ironia greca, cominciò ad attraversare la mente di Payne. Egli aveva sognato lo straniero come un demonio, ma pareva quasi peggio che egli fosse un destino inconsapevole. Sembrava marciare verso il delitto con la mostruosa innocenza di Edipo. Si era accostato alla dimora avita con animo così ciecamente esuberante da aver piantato la macchina fotografica per immortalare la sua prima veduta di essa; e persino la macchina aveva assunto le sembianze del tripode di una tragica pizia.
+
+Nel congedarsi poco dopo, Payne fu sorpreso da qualcosa che rivelava come l'australiano fosse ormai un po' meno inconsapevole di quanto lo circondava. Disse a voce bassa:
+
+«Non andate... o tornate presto. Voi avete l'aria di un essere umano. Questo posto mi mette addosso una vera inquietudine.»
+
+Quando Payne emerse da quelle sale quasi sotterranee e uscì nell'aria della [[motifs/night|notte]] e nell'odore del mare, ebbe la sensazione di essere sbucato da quel mondo sotterraneo dei [[motifs/dreams|sogni]] in cui gli avvenimenti si accavallano l'uno sull'altro in un modo insieme inquieto e irreale.
+
+L'arrivo dello strano parente lo aveva in qualche modo lasciato insoddisfatto e, per così dire, poco persuaso. Il raddoppiarsi del medesimo volto nell'antico ritratto e nel nuovo arrivato lo turbava come un [[archetypes/monster|mostro]] bicipite. Eppure non era del tutto un incubo; né era forse quel volto, tra tutti, quello che gli si affacciava con maggiore vividezza.
+
+«Avete detto?» domandò al dottore, mentre insieme percorrevano a lunghi passi le sabbie scure e striate lungo il mare che si oscurava; «avete detto che quel giovane era promesso alla signorina Darnaway per una sorta di patto di famiglia, o qualcosa del genere? Sembra roba da [[forms/novel|romanzo]].»
+
+«Ma da romanzo storico,» rispose il dottor Barnet. «I Darnaway andarono tutti a [[motifs/sleep|dormire]] qualche secolo fa, quando si facevano davvero le cose che noi non leggiamo se non nei racconti cavallereschi. Sì; credo esista una certa tradizione di famiglia secondo cui i cugini di secondo o terzo grado si sposano sempre quando si trovano in un dato rapporto d'età, allo scopo di riunire le proprietà. Una tradizione maledettamente stupida, direi; e se spesso si sposarono così, tra consanguinei e riconsanguinei, ciò potrebbe spiegare, in base ai princìpi dell'eredità, come mai siano andati tanto in malora.»
+
+«Non direi proprio,» ribatté Payne un po' impettito, «che siano andati tutti in malora.»
+
+«Be',» replicò il dottore, «il giovane non ha certo l'aria di essere in malora, si capisce, per quanto sia decisamente zoppo.»
+
+«Il giovane!» esclamò Payne, colto d'improvviso e senza ragione dall'ira. «[[motifs/well|Ebbene]], se pensate che sia la giovane signora ad avere una cattiva cera, io penso che siate voi ad avere un cattivo gusto.»
+
+Il volto del dottore si fece cupo e amaro. «M'immagino di saperne più di voi,» scattò.
+
+Completarono la passeggiata in silenzio, ciascuno sentendo di essere stato irragionevolmente scortese e di avere subìto una scortesia altrettanto irragionevole; e Payne fu lasciato a rimuginare da solo sulla faccenda, poiché il suo amico Wood era rimasto indietro a sbrigare certi suoi affari relativi ai quadri.
+
+Payne approfittò largamente dell'invito che gli aveva rivolto il cugino coloniale, il quale cercava qualcuno che gli tirasse su il morale. Nelle settimane che seguirono egli conobbe a fondo il buio interno della dimora dei Darnaway; anche se si potrebbe dire che non si limitasse per intero a tirar su il morale del cugino coloniale. La malinconia della signorina era di più antica data e forse aveva bisogno di essere sollevata con maggiore impegno; comunque fosse, egli mostrò una laboriosa prontezza a sollevarla. Non era però privo di coscienza, e la situazione lo rendeva dubbioso e a disagio. Passavano le settimane e nessuno riusciva a scoprire dal contegno del nuovo Darnaway se egli si considerasse impegnato secondo l'antico patto oppure no. Se ne andava vagando trasognato per le buie gallerie e restava a fissare con occhio assente il quadro tetro e sinistro. Le ombre di quella casa-prigione cominciavano di certo a stringersi intorno a lui, e poco rimaneva della sua sicurezza australiana. Ma Payne non riusciva a scoprire nulla sul punto che più gli premeva. Una volta tentò di confidarsi con il suo amico Martin Wood, mentre questi trafficava nella sua veste di appenditore di quadri; ma nemmeno da lui ottenne gran soddisfazione.
+
+«Mi pare che tu non possa metterti in mezzo,» disse Wood seccamente, «a causa del fidanzamento.»
+
+«Certo che non mi metterò in mezzo se c'è un fidanzamento,» ribatté l'amico; «ma c'è davvero? Non le ho detto una parola, naturalmente; però l'ho frequentata abbastanza da essere pressoché certo che lei non creda che ci sia, anche se pensa che potrebbe esserci. Lui non dice che ci sia, né lascia neppure intendere che ci dovrebbe essere. Mi pare che tutto questo tergiversare sia piuttosto ingiusto verso tutti.»
+
+«Verso di te soprattutto, immagino,» disse Wood un po' aspramente. «Ma se vuoi il mio parere, ti dirò quel che penso: penso che abbia paura.»
+
+«Paura di essere respinto?» chiese Payne.
+
+«No; paura di essere accettato,» rispose l'altro. «Non saltarmi addosso: non intendo dire che abbia paura della signora. Intendo dire che ha paura del quadro.»
+
+«Paura del quadro!» ripeté Payne.
+
+«Intendo dire che ha paura della maledizione,» disse Wood. «Non ricordi la filastrocca sulla condanna dei Darnaway che ricadrà su lui e su lei?»
+
+«Sì, ma senti un po',» esclamò Payne; «neppure la condanna dei Darnaway può avere la botte piena e la moglie ubriaca. Prima mi dici che non devo fare a modo mio a causa del patto, e poi che il patto non deve fare a modo suo a causa della maledizione. Ma se la maledizione può distruggere il patto, perché mai lei dovrebbe essere legata al patto? Se hanno paura di sposarsi l'un l'altra, sono liberi di sposare chiunque altro, e non se ne parla più. Perché dovrei soffrire io per l'osservanza di qualcosa che essi non hanno intenzione di osservare? Mi sembra che la tua posizione sia del tutto irragionevole.»
+
+«Certo che è tutto un garbuglio,» disse Wood piuttosto stizzito, e riprese a martellare la cornice di una tela.
+
+Un mattino, all'improvviso, il nuovo erede ruppe il suo lungo e sconcertante [[motifs/silence|silenzio]]. Lo fece in modo curioso, un po' rozzo, come era nel suo stile, ma con un'evidente ansia di fare la cosa giusta. Chiese francamente consiglio, non a questo o a quell'individuo come aveva fatto Payne, ma collettivamente, come a una folla. Quando si decise a parlare, si gettò sull'intera compagnia come un uomo di Stato che si rivolge al Paese. La chiamò «una resa dei conti». Per fortuna la signora non fu inclusa in quell'ampio gesto; e Payne rabbrividì al pensiero di ciò che lei avrebbe provato. Ma l'australiano era del tutto sincero; riteneva che la cosa naturale fosse chiedere aiuto e informazioni, convocando una specie di consiglio di famiglia in cui mise le carte in tavola. Si potrebbe dire che scagliò le carte sul tavolo, poiché lo fece con aria alquanto disperata, come chi sia stato tormentato giorno e notte dalla pressione crescente di un problema. In quel breve tempo le ombre di quel luogo dalle finestre basse e dai pavimenti che sprofondavano lo avevano curiosamente mutato, accentuando una certa somiglianza che si insinuava attraverso tutti i loro ricordi.
+
+I cinque uomini, compreso il medico, sedevano attorno a un tavolo; e Payne rifletteva oziosamente che il proprio abito di tweed chiaro e i propri capelli rossi dovevano essere gli unici colori nella stanza, giacché il prete e l'amministratore erano vestiti di nero, e Wood e Darnaway indossavano d'abitudine completi di un grigio scuro che sembrava quasi nero. Forse era stata questa incongruità ciò che il giovane aveva inteso chiamandolo un essere umano. In quel momento il giovane stesso si voltò bruscamente sulla sedia e prese a parlare. Un attimo dopo l'artista stordito capì che stava parlando della cosa più tremenda del mondo.
+
+«C'è qualcosa di vero in tutto questo?» diceva. «È ciò che ho finito col domandarmi, fino quasi a impazzire. Non avrei mai creduto che sarei arrivato a pensare a simili cose; eppure penso al ritratto e alla filastrocca e alle coincidenze, o comunque le si voglia chiamare, e mi vengono i brividi. C'è qualcosa di vero? Esiste davvero una maledizione dei Darnaway, o è soltanto un caso maledettamente strano? Ho il diritto di sposarmi, o farò piombare qualcosa di grande e nero giù dal cielo, qualcosa di cui non so nulla, su me stesso e su qualcun altro?»
+
+Il suo occhio roteante aveva percorso il tavolo e si era fermato sul volto dimesso del prete, al quale ora sembrava rivolgersi. Il senso pratico sommerso di Payne [[motifs/rose|insorse]] in segno di protesta contro il fatto che il problema della superstizione venisse posto davanti a quel tribunale supremamente superstizioso. Sedeva accanto a Darnaway e intervenne prima che il prete potesse rispondere.
+
+«Ebbene, le coincidenze sono curiose, lo ammetto,» disse, forzando un poco una nota di allegria; «ma di sicuro noi...» e allora si fermò come fulminato. Poiché Darnaway aveva voltato di scatto la testa oltre la spalla a quell'interruzione, e con il movimento il suo sopracciglio sinistro guizzò in alto, ben oltre il compagno, e per un istante il volto del ritratto lo fissò con una spettrale, esagerata esattezza. Gli altri lo videro; e tutti ebbero l'aria di essere stati abbagliati da un lampo di luce. Il vecchio amministratore emise un gemito cavo.
+
+«Non serve a niente,» disse con voce roca; «abbiamo a che fare con qualcosa di troppo terribile.»
+
+«Sì,» assentì il prete a bassa voce, «abbiamo a che fare con qualcosa di terribile; con la cosa più terribile che io conosca, e il suo nome è sciocchezza.»
+
+«Che cosa avete detto?» domandò Darnaway, ancora rivolto verso di lui.
+
+«Ho detto sciocchezza,» ripeté il prete. «Finora non ho detto nulla di particolare, perché non erano affari miei; mi trovavo qui solo in servizio temporaneo nei dintorni, e la signorina Darnaway desiderava vedermi. Ma dal momento che me lo chiedete di persona e a bruciapelo, ebbene, è abbastanza facile rispondere. Naturalmente non esiste nessuna maledizione dei Darnaway capace di impedirvi di sposare chiunque abbiate una ragione decente di sposare. Un uomo non è destinato a cadere nel più piccolo peccato veniale, e tanto meno in crimini come il suicidio e l'omicidio. Non vi si può costringere a compiere azioni malvagie contro la vostra volontà perché vi chiamate Darnaway, così come non vi si potrebbe costringere me perché mi chiamo Brown. La maledizione dei Brown,» aggiunse con gusto — «il Fato dei Brown suonerebbe persino meglio.»
+
+«E proprio voi,» ripeté l'australiano, fissandolo, «mi dite di pensarla così.»
+
+«Vi dico di pensare a qualcos'altro,» rispose il prete allegramente. «Che ne è stato della nascente arte della fotografia? Come procede la faccenda della macchina fotografica? So che al piano di sotto è piuttosto buio, ma quelle arcate cave del piano superiore potrebbero facilmente essere trasformate in uno studio fotografico di prim'ordine. Pochi operai potrebbero attrezzarlo con un tetto di vetro in un batter di [[motifs/time|tempo]].»
+
+«Davvero,» protestò Martin Wood, «credo proprio che voi dovreste essere l'ultimo uomo al mondo a mettere le mani su quelle magnifiche arcate gotiche, che sono più o meno la migliore opera che la vostra religione abbia mai prodotto al mondo. Avrei pensato che nutriste qualche sentimento per quel genere d'arte; ma non capisco perché dobbiate essere così straordinariamente appassionato di fotografia.»
+
+«Sono straordinariamente appassionato di luce del giorno,» rispose Padre Brown, «specialmente in questa tetra faccenda; e la fotografia ha la virtù di dipendere dalla luce del giorno. E se non sapete che ridurrei in polvere tutte le arcate gotiche del mondo per salvare la sanità mentale di una sola [[motifs/soul|anima]] umana, allora non sapete della mia religione tanto quanto credete di sapere.»
+
+Il giovane australiano era balzato in piedi come un uomo ringiovanito. «Perbacco! ecco come si parla,» gridò; «anche se non avrei mai pensato di sentirlo proprio da quella parte. Ecco cosa vi dico, reverendo: farò qualcosa che dimostrerà che, dopotutto, non ho perso il mio [[concepts/courage|coraggio]].»
+
+Il vecchio amministratore lo guardava ancora con una vigilanza tremante, come se avvertisse qualcosa di funesto nella sfida del giovane. «Oh,» esclamò, «che cosa avete intenzione di fare adesso?»
+
+«Ho intenzione di fotografare il ritratto,» rispose Darnaway.
+
+Eppure non era passata neppure una settimana che la tempesta della catastrofe parve calare giù dal cielo, oscurando quel sole della ragione al quale il prete si era invano appellato, e sprofondando ancora una volta la dimora nelle tenebre della maledizione dei Darnaway. Era stato abbastanza facile allestire il nuovo studio; e visto dall'interno somigliava molto a un qualsiasi altro studio del genere, vuoto se non per la pienezza della luce bianca. Un uomo che salisse dalle stanze tetre di sotto aveva più che mai la sensazione di entrare in uno splendore più che moderno, bianco e vuoto come il futuro. Su suggerimento di Wood, che conosceva bene il castello e aveva superato i suoi primi brontolii estetici, una piccola stanza rimasta intatta tra le rovine superiori fu facilmente trasformata in una camera oscura, nella quale Darnaway usciva dalla bianca luce del giorno per andare a tentoni tra i bagliori cremisi di una lampada rossa. Wood diceva, ridendo, che la lampada rossa lo aveva riconciliato con il vandalismo; poiché quell'oscurità venata di sangue era romantica quanto la caverna di un alchimista.
+
+Darnaway si era alzato all'alba il giorno in cui intendeva fotografare il misterioso ritratto, e lo aveva fatto portare su dalla biblioteca per l'unica scala a chiocciola che collegava i due piani. Là lo aveva sistemato nell'ampia bianca luce del giorno su una specie di cavalletto e aveva piantato davanti ad esso il treppiede fotografico. Diceva di essere ansioso di inviare una riproduzione dell'opera a un grande antiquario che aveva scritto sulle antichità della casa; ma gli altri sapevano che questa era una scusa dietro cui si celavano cose ben più profonde. Era, se non proprio un duello spirituale tra Darnaway e il quadro demoniaco, quanto meno un duello tra Darnaway e i propri dubbi. Voleva mettere la luce del giorno della fotografia faccia a faccia con quel cupo capolavoro della pittura; e vedere se il chiarore solare della nuova arte non avrebbe scacciato le ombre di quella antica.
+
+Forse era per questo che preferiva sbrigarsela da solo, anche se qualcuno dei preparativi pareva richiedere più tempo e comportare indugi maggiori del normale. Comunque fosse, non incoraggiava affatto i pochi che visitarono il suo studio nel giorno dell'esperimento, e che lo trovarono intento a mettere a fuoco e ad affaccendarsi in un'aria del tutto isolata e impenetrabile. L'amministratore gli aveva lasciato un pasto, giacché egli si rifiutava di scendere; il vecchio gentiluomo tornò poi qualche ora dopo e trovò il pasto smaltito più o meno normalmente; ma quando glielo aveva portato non aveva ottenuto altra gratitudine che un grugnito. Payne salì una volta a vedere come procedesse, ma trovando il fotografo poco disposto alla conversazione ridiscese. Padre Brown si era incamminato da quella parte, con la sua discrezione consueta, per portare a Darnaway una lettera dell'esperto al quale la fotografia doveva essere spedita. Ma lasciò la lettera su un vassoio, e qualunque cosa pensasse di quella grande serra colma di luce del giorno e di dedizione a un passatempo, un mondo che egli stesso in un certo senso aveva creato, se lo tenne per sé e discese. Ebbe ben presto motivo di ricordare che era stato l'ultimo a scendere per la solitaria scala che collegava i piani, lasciandosi dietro un uomo solo e una stanza vuota. Gli altri stavano nel salotto che dava sulla biblioteca, proprio sotto il grande orologio di ebano nero che pareva una bara titanica.
+
+«Come procedeva Darnaway» chiese Payne poco dopo «l'ultima volta che siete salito?»
+
+Il sacerdote si passò una mano sulla fronte. «Non ditemi che sto diventando sensitivo» disse con un sorriso mesto. «Credo di essere del tutto abbagliato dalla luce del giorno lassù in quella stanza, e di non aver visto bene le cose. In tutta onestà, per un istante ho avuto la sensazione che vi fosse qualcosa di sinistro nella figura di Darnaway ritto davanti a quel ritratto.»
+
+«Oh, è la gamba zoppa» disse Barnet con prontezza. «Sappiamo tutto di quella.»
+
+«Sapete» disse Payne di scatto, ma abbassando la voce «io non credo che ne sappiamo tutto, né alcunché. Che cos'ha quella sua gamba? Che cos'aveva la gamba del suo antenato?»
+
+«Oh, c'è qualcosa in proposito nel libro che stavo leggendo là dentro, negli archivi di famiglia» disse Wood; «ve lo vado a prendere.» E fece un passo nella biblioteca lì accanto.
+
+«Credo» disse [[characters/father-brown|Padre Brown]] con calma «che il signor Payne debba avere qualche ragione particolare per chiederlo.»
+
+«Tanto [[motifs/well|vale]] che lo dica una volta per tutte» disse Payne, ma a voce ancor più bassa. «Dopotutto, c'è una spiegazione razionale. Un uomo venuto da chissà dove potrebbe essersi truccato per somigliare al ritratto. Che cosa sappiamo di Darnaway? Si sta comportando in modo piuttosto strano...»
+
+Gli altri lo fissavano con un'aria alquanto sconcertata; ma il sacerdote parve prenderla con grande calma.
+
+«Non credo che il vecchio ritratto sia mai stato fotografato» disse. «È per questo che vuole farlo. Non ci vedo nulla di strano.»
+
+«Uno stato di cose del tutto ordinario, in fondo» disse Wood con un sorriso; era appena tornato col libro in mano. E proprio mentre parlava vi fu un fremito nel meccanismo del grande orologio scuro alle sue spalle, e rintocchi successivi vibrarono per la stanza fino al numero di sette. All'ultimo rintocco venne dal piano di sopra uno schianto che scosse la casa come una folgore; e Padre Brown era già due gradini su per la scala a chiocciola prima che il suono si fosse spento.
+
+«Dio mio!» gridò Payne senza volerlo; «è solo lassù.»
+
+«Sì» disse [[characters/father-brown|Padre Brown]] senza voltarsi, mentre spariva su per la scala. «Lo troveremo solo.»
+
+Quando gli altri si riebbero dalla prima paralisi e si precipitarono alla rinfusa su per i gradini di pietra e trovarono la via del nuovo studio, era vero in quel senso che lo trovarono solo. Lo trovarono disteso tra i rottami della sua alta macchina fotografica, con le lunghe gambe scheggiate che sporgevano grottescamente in tre diverse angolazioni; e Darnaway era caduto sopra di essa, con una gamba nera e storta distesa a un quarto angolo lungo il pavimento. Per un istante quel mucchio oscuro sembrò che egli fosse impigliato in un qualche ragno enorme e orribile. Bastarono poco più di un'occhiata e di un tocco per dire loro che era morto. Solo il ritratto se ne stava intatto sul cavalletto, e si sarebbe potuto immaginare che gli occhi sorridenti splendessero.
+
+Un'ora più tardi Padre Brown, mentre aiutava a placare lo sgomento della casa colpita, s'imbatté nel vecchio amministratore che borbottava quasi in modo altrettanto meccanico di quanto l'orologio aveva ticchettato e battuto l'ora terribile. Quasi senza udirle, sapeva quali dovessero essere le parole borbottate.
+
+Nel settimo erede tornerò, nella settima ora me ne andrò.
+
+Mentre stava per dire qualcosa di consolatorio, il vecchio parve d'un tratto ridestarsi e irrigidirsi nell'ira; il suo borbottio si mutò in un grido feroce.
+
+«Voi!» gridò; «voi e la vostra luce del giorno! Neppure voi direte adesso che non c'è nessuna Maledizione per i Darnaway.»
+
+«La mia opinione in proposito non è mutata» disse [[characters/father-brown|Padre Brown]] con dolcezza. Poi, dopo una pausa, aggiunse: «Spero che rispetterete l'ultimo desiderio del povero Darnaway, e che la fotografia venga spedita.»
+
+«La fotografia!» gridò il dottore aspramente. «A che serve? A dire il vero, è piuttosto curioso; ma non c'è nessuna fotografia. Pare che alla fine non l'abbia mai scattata, dopo aver gingillato tutto il giorno.»
+
+Padre Brown si voltò di scatto. «Allora scattatela voi» disse. «Il povero Darnaway aveva perfettamente ragione. È della massima importanza che la fotografia sia scattata.»
+
+Mentre tutti i visitatori, il dottore, il sacerdote e i due artisti si allontanavano in una nera e desolata processione attraverso le sabbie brune e gialle, dapprima rimasero più o meno silenziosi, quasi fossero stati storditi. E certo vi era stato qualcosa come un tuono in un cielo sereno nel compiersi di quella dimenticata superstizione proprio nel [[motifs/time|momento]] in cui l'avevano più che mai dimenticata; quando il dottore e il sacerdote avevano entrambi riempito la mente di razionalismo come il fotografo aveva riempito le sue stanze di luce del giorno. Potevano essere razionalisti quanto volevano; ma in pieno giorno il settimo erede era tornato, e in pieno giorno alla settima ora era perito.
+
+«Temo che ormai tutti crederanno per sempre alla superstizione dei Darnaway» disse Martin Wood.
+
+«Io conosco qualcuno che non ci crederà» ribatté il dottore in tono aspro. «Perché mai dovrei indulgere alla superstizione solo perché qualcun altro indulge al suicidio?»
+
+«Pensa che il povero signor Darnaway abbia commesso un [[concepts/suicide|suicidio]]?» chiese il prete.
+
+«Sono certo che si sia suicidato» rispose il dottore.
+
+«È possibile» convenne l'altro.
+
+«Era completamente solo lassù, e nella camera oscura aveva un intero arsenale di veleni. E poi, è proprio il genere di cose che fanno i Darnaway.»
+
+«Non crede che ci sia qualcosa nel compimento della maledizione di famiglia?»
+
+«Sì» disse il dottore; «credo in una sola maledizione di famiglia, ed è la costituzione della famiglia. Gliel'ho detto, è questione di eredità, e sono tutti mezzo matti. Se ristagni, ti riproduci in consanguineità e rimugini nella tua palude come loro, sei destinato a degenerare, che ti piaccia o no. Le leggi dell'eredità non si possono aggirare; le verità della scienza non si possono negare. Le menti dei Darnaway vanno in pezzi, come vanno in pezzi le loro vecchie pietre e travi corrotte, corrose dal mare e dall'aria salmastra. [[concepts/suicide|Suicidio]] — ovviamente ha commesso [[concepts/suicide|suicidio]]; oserei dire che tutti gli altri commetteranno il [[concepts/suicide|suicidio]]. Forse la cosa migliore che potrebbero fare.»
+
+Mentre l'uomo di scienza parlava, balzò all'improvviso e con sorprendente nitidezza nella [[motifs/memory|memoria]] di Payne il volto della figlia dei Darnaway, tragica maschera pallida contro un buio insondabile, eppure di una [[concepts/beauty|bellezza]] abbagliante e più che mortale. Aprì la bocca per parlare e si scoprì senza parole.
+
+«Capisco» disse padre Brown al dottore; «dunque, in fondo, alla superstizione ci crede davvero?»
+
+«Che intende dire... credere alla superstizione? Io credo al suicidio come necessità scientifica.»
+
+«[[motifs/well|Ebbene]]» ribatté il prete, «non vedo un briciolo di differenza tra la sua superstizione scientifica e l'altra, quella magica. Entrambe sembrano finire col ridurre gli uomini a paralitici, incapaci di muovere le proprie gambe o le proprie braccia, di salvare la propria vita o la propria anima. La filastrocca diceva che la Maledizione dei Darnaway era di essere uccisi, e il manuale scientifico dice che la Maledizione dei Darnaway è di uccidersi. In entrambi i casi sembrano schiavi.»
+
+«Ma credevo avesse detto di credere in una visione razionale di queste cose» disse il dottor Barnet. «Non crede nell'eredità?»
+
+«Ho detto che credo nella luce del giorno» replicò il prete con voce alta e chiara, «e mi rifiuto di scegliere tra due gallerie di superstizione sotterranea che finiscono entrambe nel buio. E la prova è questa: che siete tutti completamente all'oscuro di ciò che è realmente accaduto in quella casa.»
+
+«Intende a proposito del [[concepts/suicide|suicidio]]?» chiese Payne.
+
+«Intendo a proposito dell'assassinio» disse padre Brown; e la sua voce, benché appena sollevata a una nota più alta, parve in qualche modo risuonare per tutta la spiaggia. «Fu un assassinio; ma l'assassinio appartiene alla volontà, che Dio ha creato libera.»
+
+Che cosa rispose l'altro in quel momento, Payne non lo seppe mai. Poiché la parola ebbe su di lui un effetto piuttosto curioso: lo scosse come lo squillo di una tromba, e insieme lo inchiodò sul posto. Rimase immobile in mezzo alla distesa di sabbia e lasciò che gli altri proseguissero davanti a lui; sentì il sangue strisciargli per tutte le vene e quella sensazione che si dice faccia rizzare i capelli sul capo; eppure provò una felicità nuova e innaturale. Un processo psicologico troppo rapido e troppo complicato perché lui stesso potesse seguirlo era già giunto a una conclusione che non sapeva analizzare; ma la conclusione era di sollievo. Dopo essere rimasto immobile un istante, si voltò e tornò lentamente attraverso la sabbia verso la casa dei Darnaway.
+
+Attraversò il fossato con un passo che fece tremare il ponte, discese le scale e percorse le lunghe sale con un'andatura fragorosa, finché non giunse al luogo in cui Adelaide Darnaway sedeva aureolata dalla luce fioca della finestra ovale, quasi come una santa dimenticata, lasciata indietro nella terra della morte. Ella alzò lo sguardo, e un'espressione di stupore rese il suo volto ancora più meraviglioso.
+
+«Che cosa c'è?» disse. «Perché siete tornato?»
+
+«Sono venuto per la Bella Addormentata» disse, con un tono che aveva la risonanza di una risata. «Questa vecchia casa si è addormentata molto tempo fa, come ha detto il dottore; ma è sciocco che voi fingiate di essere vecchia. Salite alla luce del giorno e ascoltate la verità. Vi ho portato una parola; è una parola terribile, ma spezza l'incantesimo della vostra prigionia.»
+
+Ella non capì una sola parola di ciò che diceva, ma qualcosa la spinse ad alzarsi e a lasciarsi condurre giù per il lungo salone, su per le scale e fuori, sotto il cielo della sera. Le rovine di un giardino morto si stendevano verso il mare, e una vecchia fontana con la figura di un tritone, verde di ruggine, restava là sospesa, senza versare nulla da un corno inaridito in una vasca vuota. Passando, aveva visto spesso quel profilo desolato contro il cielo della sera, ed esso gli era parso l'emblema di fortune cadute in più di un senso. Di lì a poco, senza dubbio, quelle conche vuote si sarebbero riempite, ma delle pallide, verdi, amare acque del mare, e i fiori sarebbero annegati e strangolati tra le alghe. Così, si era detto, la figlia dei Darnaway avrebbe forse potuto andare sposa; ma sarebbe andata sposa alla morte e a una condanna sorda e spietata come il mare. Ma ora egli posò una mano sul tritone di bronzo, una mano che pareva quella di un gigante, e lo scosse come se volesse rovesciarlo al pari di un idolo o di un dio malvagio del giardino.
+
+«Che cosa intendete?» chiese lei con fermezza. «Qual è questa parola che ci renderà liberi?»
+
+«La parola è assassinio» disse, «e la libertà che porta è fresca come i fiori di primavera. No; non intendo dire di aver ucciso qualcuno. Ma il fatto stesso che qualcuno possa essere assassinato è di per sé una buona notizia, dopo i sogni malvagi in cui avete vissuto. Non capite? In quel vostro sogno tutto ciò che vi accadeva veniva dal di dentro di voi; la Maledizione dei Darnaway era racchiusa nei Darnaway; si dischiudeva come un fiore orribile. Non c'era scampo nemmeno per un caso fortunato; era tutto inevitabile; fosse Vine con le sue storie da vecchie comari, o Barnet con la sua eredità dell'ultima moda. Ma quest'uomo che è morto non fu vittima di una maledizione magica né di una follia ereditaria. Fu assassinato; e per noi quell'assassinio è semplicemente un caso; sì, requiescat in pace: ma un caso fortunato. È un raggio di luce del giorno, perché viene da fuori.»
+
+D'improvviso ella sorrise. «Sì, credo di capire.
+Immagino che parliate come un pazzo, eppure capisco.
+Ma chi lo ha ucciso?»
+
+«Non lo so» rispose lui con calma «ma [[characters/father-brown|padre Brown]] lo sa.
+E, come dice [[characters/father-brown|padre Brown]], l'assassinio è quantomeno opera della volontà,
+libera come quel [[motifs/wind|vento]] che viene dal mare.»
+
+«Padre Brown è una persona straordinaria» disse ella dopo una pausa;
+«è stato l'unico che abbia mai rischiarato la mia esistenza
+in un modo qualsiasi, fino a quando...»
+
+«Fino a quando?» chiese Payne, e fece un gesto quasi impetuoso,
+chinandosi verso di lei e spingendo via il [[archetypes/monster|mostro]] di bronzo, così che
+parve oscillare sul suo piedistallo.
+
+«Ebbene, fino a quando lo avete fatto voi» disse ella, e sorrise di nuovo.
+
+Così fu ridestato il palazzo addormentato, e non è compito di questo racconto
+descrivere le fasi del suo risveglio, per quanto molto ne fosse già
+accaduto prima che il buio di quella sera calasse sulla riva.
+Mentre Harry Payne muoveva ancora una volta a gran passi verso casa, attraverso quelle
+sabbie oscure che aveva percorso in tanti stati d'animo diversi, egli si trovava al
+punto più alto della felicità che sia concessa in questa vita mortale,
+e l'intero mare rosso che aveva dentro era al culmine della sua marea.
+Non avrebbe avuto difficoltà a immaginare tutto quel luogo
+di nuovo in fiore, e il tritone di bronzo splendente come un dio
+d'oro, e la fontana che sgorgava acqua o vino.
+Ma tutto questo splendore e questo fiorire gli erano stati dischiusi
+da quell'unica parola, «assassinio», e restava pur sempre una parola che egli
+non comprendeva. L'aveva accolta per fede, e non fu insensato;
+poiché era uno di quelli che hanno il senso del suono della [[concepts/truth|verità]].
+
+Fu più di un mese dopo che Payne fece ritorno alla sua [[settings/london|Londra]],
+alla casa, per un appuntamento con [[characters/father-brown|padre Brown]], portando con sé
+la fotografia richiesta. La sua personale storia d'amore era prosperata tanto [[motifs/well|bene]]
+quanto si conveniva sotto l'[[archetypes/shadow|ombra]] di una simile [[forms/tragedy|tragedia]], e l'[[archetypes/shadow|ombra]]
+stessa perciò gravava su di lui un po' più lieve; ma era difficile
+considerarla altrimenti che come l'[[archetypes/shadow|ombra]] di una fatalità di famiglia.
+In molti modi era stato assai occupato; e fu soltanto quando
+la casa dei Darnaway ebbe ripreso la sua routine alquanto severa,
+e il ritratto era da tempo tornato al suo posto nella biblioteca,
+che egli riuscì a fotografarlo con un lampo al magnesio.
+Prima di inviarlo all'antiquario, come inizialmente stabilito,
+lo portò al sacerdote che con tanta insistenza lo aveva reclamato.
+
+«Non riesco a capire il vostro atteggiamento in tutta questa faccenda, padre Brown»
+disse. «Vi comportate come se aveste già risolto il problema in qualche
+modo tutto vostro.»
+
+Il sacerdote scosse il capo con mestizia. «Neanche per sogno»
+rispose. «Devo essere molto sciocco, ma sono del tutto arenato;
+arenato sul punto più pratico di tutti.
+È una faccenda bizzarra: tanto semplice fino a un certo punto, e poi...
+Fatemi dare un'occhiata a quella fotografia, volete?»
+
+La tenne per un istante vicino agli occhi socchiusi e miopi,
+e poi disse: «Avete una lente d'ingrandimento?»
+
+Payne ne produsse una, e il sacerdote vi guardò attraverso
+attentamente per qualche [[motifs/time|tempo]], poi disse: «Guardate il titolo
+di quel libro all'estremità dello scaffale accanto alla cornice;
+è La storia della papessa Giovanna. Ora, mi domando... sì,
+perbacco; e quello sopra è qualcosa che riguarda l'Islanda.
+Signore! che modo curioso di scoprirlo! Che stupido e che asino
+sono stato a non notarlo quando ero là!»
+
+«Ma che cosa avete scoperto?» chiese Payne con impazienza.
+
+«L'ultimo anello» disse padre Brown «e non sono più arenato.
+Sì; credo di sapere ora come andò quella infelice storia dal principio alla fine.»
+
+«Ma perché?» insistette l'altro.
+
+«Perché, ecco» disse il sacerdote con un sorriso «la biblioteca
+dei Darnaway conteneva libri sulla papessa Giovanna e sull'Islanda, per non
+parlare di un altro che vedo, col titolo che comincia con La religione
+di Federico, che non è poi tanto difficile da completare.»
+Poi, vedendo il fastidio dell'altro, il sorriso gli si spense ed egli disse
+con maggiore serietà: «A dire il vero, quest'ultimo punto,
+per quanto sia l'ultimo anello, non è la questione principale.
+Vi erano cose ben più curiose in questo caso.
+Una di esse è piuttosto una curiosità in fatto di prove.
+Lasciate che cominci col dirvi qualcosa che potrà sorprendervi.
+Darnaway non morì alle sette di quella sera.
+Era già morto da un giorno intero.»
+
+«Sorprendere è una parola un po' blanda» disse Payne cupamente «visto che
+voi e io lo vedemmo entrambi camminare in giro dopo quell'ora.»
+
+«No, non lo vedemmo» replicò [[characters/father-brown|padre Brown]] con calma. «Credo che entrambi vedemmo lui,
+o credemmo di vederlo, affaccendarsi attorno alla messa a fuoco della sua macchina fotografica.
+Non aveva forse il capo sotto quel panno nero quando attraversaste la stanza?
+Lo aveva quando la attraversai io. Ed è per questo che sentii che c'era qualcosa di strano
+nella stanza e nella figura. Non era che la gamba fosse storta,
+ma piuttosto che non era storta. Era vestito con lo stesso tipo
+di abiti scuri; ma se vedete quello che credete essere un uomo, in piedi
+nel modo in cui sta un altro uomo, penserete che egli si trovi in un atteggiamento strano
+e forzato.»
+
+«Volete davvero dire» esclamò Payne con qualcosa di simile a un brivido
+«che era un uomo sconosciuto?»
+
+«Era l'assassino» disse [[characters/father-brown|padre Brown]]. «Aveva già
+ucciso Darnaway all'alba e nascosto il cadavere e se stesso
+nella camera oscura: un eccellente nascondiglio, perché di norma nessuno
+vi entra, né può vedere granché se pure vi entra.
+Ma lo lasciò cadere sul pavimento alle sette, s'intende,
+affinché tutta la faccenda potesse spiegarsi con la maledizione.»
+
+«Ma non capisco» osservò Payne. «Perché allora non lo uccise
+alle sette, invece di caricarsi di un cadavere
+per quattordici ore?»
+
+«Lasciate che vi ponga un'altra domanda» disse il sacerdote.
+«Perché non fu scattata alcuna fotografia? Perché l'assassino volle esser certo
+di ucciderlo appena si fosse alzato, e prima che potesse scattarla.
+Era essenziale per l'assassino impedire che quella fotografia
+giungesse all'esperto delle antichità dei Darnaway.»
+
+Vi fu un improvviso silenzio per un momento, poi il sacerdote riprese
+con tono più sommesso: «Non vedete quanto è semplice? Ma se voi stesso avete visto
+uno dei lati della possibilità; solo che è ancora più semplice di quanto pensaste.
+Avete detto che si sarebbe potuto truccare un uomo perché somigliasse a un vecchio quadro.
+È certo più semplice che si trucchi un quadro perché somigli a un uomo.
+
+In parole povere, è vero in un senso piuttosto particolare che non vi fu alcuna Condanna
+dei Darnaway. Non vi fu alcun vecchio quadro; non vi fu alcuna vecchia filastrocca;
+non vi fu alcuna leggenda di un uomo che causò la [[motifs/death|morte]] della propria moglie.
+Ma vi fu un uomo assai malvagio e assai astuto, disposto
+a causare la [[motifs/death|morte]] di un altro uomo per derubarlo della sposa promessa.»
+
+Il sacerdote rivolse a un tratto a Payne un sorriso mesto, quasi a rassicurarlo. «Per un momento avete creduto che alludessi a voi» disse; «ma non eravate l'unico a frequentare quella casa per ragioni sentimentali. Conoscete l'uomo, o per lo meno credete di conoscerlo. Eppure in colui che si faceva chiamare Martin Wood, artista e antiquario, si celavano profondità che nessuna delle sue semplici conoscenze artistiche avrebbe mai potuto sospettare. Ricordate che era stato chiamato a giudicare e a catalogare i quadri; e in una pattumiera aristocratica di quel genere ciò significa in pratica soltanto dire ai Darnaway quali tesori d'arte possiedano. Non si sarebbero stupiti se fossero saltate fuori cose che non avevano mai notato prima. Bisognava farlo bene, e fu fatto bene; forse aveva ragione quando diceva che, se non era un Holbein, era qualcuno del medesimo genio.»
+
+«Mi sento piuttosto sbalordito» disse Payne; «e ci sono venti cose che ancora non riesco a spiegarmi. Come faceva a sapere che aspetto avesse Darnaway? E come lo uccise davvero? I medici sembrano al momento piuttosto perplessi.»
+
+«Ho visto una fotografia che la signora possedeva e che l'australiano aveva spedito prima di sé» disse il sacerdote, «e vi sono parecchi modi in cui egli poté apprendere certe cose, una volta che il nuovo erede fu riconosciuto. Forse questi particolari non li conosceremo mai; ma non sono difficoltà. Ricordate che soleva dare una mano nella camera oscura; mi pare un luogo ideale, poniamo, per pungere un uomo con uno spillo avvelenato, avendo il veleno bell'e pronto sottomano. No; vi dico che queste non erano difficoltà. La difficoltà che mi lasciò interdetto era come Wood potesse trovarsi in due luoghi contemporaneamente. Come poteva prendere il cadavere dalla camera oscura e appoggiarlo alla macchina fotografica in modo che cadesse dopo pochi secondi, senza scendere le scale, mentre si trovava in biblioteca a cercare un libro? E fui tanto sciocco da non guardare mai i libri della biblioteca; e fu solo in questa fotografia, per un colpo di fortuna del tutto immeritato, che scorsi il semplice fatto di un libro sulla papessa Giovanna.»
+
+«Vi siete tenuto il migliore [[forms/riddle|indovinello]] per la fine» disse Payne cupo. «Che diamine può avere a che fare la papessa Giovanna con tutto questo?»
+
+«Non dimenticate il libro sul Non-so-che d'Islanda» consigliò il sacerdote, «né quello sulla religione di un tale Federico. Non resta che chiedersi che genere d'uomo fosse il defunto Lord Darnaway.»
+
+«Ah, davvero?» osservò Payne con gravità.
+
+«Era un eccentrico colto e spiritoso, a quanto pare» proseguì Padre Brown. «Essendo colto, sapeva che non era mai esistita una persona come la papessa Giovanna. Essendo spiritoso, è probabilissimo che avesse pensato a un titolo come "I serpenti d'Islanda" o a qualcos'altro che non esisteva affatto. Mi arrischio a ricostruire il terzo titolo come "La religione di Federico il Grande" — che parimenti non esiste. Ora, non vi colpisce che questi sarebbero proprio i titoli da mettere sui dorsi di libri inesistenti; o, in altre parole, su una libreria che non era una libreria?»
+
+«Ah!» esclamò Payne; «adesso capisco che cosa intendete. C'era una scala nascosta...»
+
+«Che saliva fino alla stanza che Wood in persona aveva scelto come camera oscura» disse il sacerdote annuendo. «Mi dispiace. Non si poteva farci nulla. È spaventosamente banale e stupido, stupido quanto sono stato io in questo caso tanto banale. Ma eravamo immischiati in un autentico, stantìo vecchio romanzo di nobiltà decaduta e di una dimora avita in rovina; ed era troppo sperare di poter sfuggire a un passaggio segreto. Era un nascondiglio da prete; e meriterei di esservi cacciato dentro.»
+
+OTTO: Il fantasma di Gideon Wise
+
+PADRE BROWN considerò sempre quel caso come l'esempio più singolare della teoria dell'alibi: la teoria secondo cui si sostiene, a dispetto del mitologico uccello irlandese, che è impossibile per chiunque trovarsi in due luoghi nello stesso momento. Tanto per cominciare, James Byrne, essendo un giornalista irlandese, era forse l'approssimazione più prossima all'uccello irlandese. Ci andò vicino quanto chiunque altro potesse, all'essere in due luoghi contemporaneamente: perché si trovò in due luoghi agli estremi opposti del mondo sociale e politico nello spazio di venti minuti. Il primo era nelle sale babilonesi del grande albergo, luogo di ritrovo dei tre magnati del commercio impegnati a organizzare una serrata nel settore del carbone e a denunciarla come uno sciopero del carbone; il secondo era in una curiosa taverna, con la facciata di una drogheria, dove si riuniva il più sotterraneo triumvirato di coloro che sarebbero stati ben felici di trasformare la serrata in sciopero--e lo sciopero in rivoluzione. Il cronista andava avanti e indietro tra i tre milionari e i tre capi bolscevichi con l'immunità dell'araldo moderno o del nuovo ambasciatore.
+
+Trovò i tre magnati delle miniere nascosti in una giungla di piante fiorite e in una foresta di colonne scanalate e fiorite di stucco dorato; gabbie dorate pendevano in alto sotto le cupole affrescate, tra le foglie più alte delle palme; e vi stavano dentro uccelli dai colori screziati e dai versi svariati. Nessun uccello nel deserto cantò mai più inascoltato, e nessun fiore sprecò mai la propria dolcezza nell'aria del deserto più compiutamente di quanto i fiori di quelle alte piante sprecassero la loro su quegli uomini d'affari svelti e affannati, per lo più americani, che parlavano e correvano avanti e indietro in quel luogo. E lì, in mezzo a un tripudio di ornamenti rococò che nessuno guardava mai, a un cinguettio di costosi uccelli esotici che nessuno udiva mai, a una massa di splendidi tappezzati e a un labirinto di lussuosa architettura, i tre uomini sedevano e discutevano di come il successo si fondasse sul pensiero e sulla parsimonia e su una vigile economia e sull'autocontrollo.
+
+Uno di loro, in verità, non parlava quanto gli altri; ma osservava con occhi vivissimi e immobili, che parevano stretti insieme dal suo pince-nez, e il sorriso perpetuo sotto i suoi piccoli baffi neri somigliava piuttosto a un perpetuo ghigno. Era il famoso Jacob P. Stein, e non parlava finché non aveva qualcosa da dire. Ma il suo compagno, il vecchio Gallup della Pennsylvania, un tipo enorme e grasso, dai venerandi capelli grigi ma con una faccia da pugile, parlava moltissimo. Era di umore gioviale e mezzo canzonava, mezzo tiranneggiava il terzo milionario, Gideon Wise--un vecchio uccellaccio duro, secco, spigoloso, del tipo che i suoi compatrioti paragonano al noce americano, con una rigida barbetta grigia sul mento e i modi e gli abiti di un qualsiasi vecchio contadino delle pianure centrali. C'era una vecchia disputa tra Wise e Gallup a proposito di concentrazione e concorrenza. Perché il vecchio Wise conservava ancora, insieme ai modi del vecchio uomo dei boschi, qualcosa delle opinioni del vecchio individualista; apparteneva, come diremmo in Inghilterra, alla Scuola di Manchester; e Gallup cercava sempre di persuaderlo a eliminare la concorrenza e a mettere in comune le risorse del mondo.
+
+«Dovrai entrarci, vecchio mio, prima o poi», diceva Gallup con affabilità quando Byrne entrò. «È così che va il mondo, e ormai non possiamo tornare all'impresa a conduzione singola. Dobbiamo far tutti fronte comune.»
+
+«Se posso dire una parola», disse Stein, nel suo modo tranquillo, «direi che c'è qualcosa di un po' più urgente perfino del far fronte comune sul piano commerciale. In ogni caso, dobbiamo far fronte comune sul piano politico; ed è per questo che ho chiesto al signor Byrne di raggiungerci qui oggi. Sulla questione politica dobbiamo coalizzarci; per la semplice ragione che tutti i nostri nemici più pericolosi sono già coalizzati.»
+
+«Oh, sulla coalizione politica sono del tutto d'accordo», borbottò Gideon Wise.
+
+«Ecco», disse Stein al giornalista; «so che lei ha libero accesso a quegli strani ambienti, signor Byrne, e voglio che faccia qualcosa per noi in via ufficiosa. Lei sa dove s'incontrano quegli uomini; ce ne sono solo due o tre che contano, John Elias e Jake Halket, che fa tutte le arringhe, e forse quel tale poeta, [[motifs/home|Home]].»
+
+«Ma se Home era un amico di Gideon», disse il beffardo signor Gallup; «frequentava la sua classe di scuola [[characters/sunday|domenicale]] o qualcosa del genere.»
+
+«Allora era un cristiano», disse solennemente il vecchio Gideon; «ma quando un uomo si mette con gli atei non si sa mai. Lo incontro ancora di tanto in tanto. Ero prontissimo ad appoggiarlo contro la guerra e la coscrizione e tutto quanto, s'intende, ma quando si arriva a tutti i maledetti bolscevichi del creato--»
+
+«Mi scusi», s'intromise Stein, «la faccenda è piuttosto urgente, sicché spero mi perdonerà se la espongo subito al signor Byrne. Signor Byrne, posso dirle in confidenza che sono in possesso di informazioni, o meglio di prove che manderebbero almeno due di quegli uomini in prigione per lunghe pene, in relazione a cospirazioni durante l'ultima guerra. Non voglio usare quelle prove. Ma voglio che lei vada da loro con discrezione e riferisca che le userò, e le userò domani, a meno che non cambino atteggiamento.»
+
+«[[motifs/well|Beh]]», replicò Byrne, «ciò che lei propone verrebbe di certo definito favoreggiamento di un reato e potrebbe essere definito ricatto. Non pensa che sia piuttosto pericoloso?»
+
+«Io penso che sia piuttosto pericoloso per loro», disse Stein di scatto; «e voglio che lei vada a dirglielo.»
+
+«Oh, e va [[motifs/well|bene]]», disse Byrne alzandosi, con un sospiro un po' scherzoso. «Fa tutto parte del mestiere; ma se mi caccio nei guai, la avverto che cercherò di trascinarci anche lei.»
+
+«Cercherà, ragazzo mio», disse il vecchio Gallup con una franca risata.
+
+Perché tanto ancora indugia di quel grande sogno di Jefferson e di ciò che gli uomini hanno chiamato [[concepts/democracy|Democrazia]], che nel suo paese, mentre i ricchi governano come tiranni, i poveri non parlano come schiavi; ma vi è franchezza tra l'oppressore e l'oppresso.
+
+Il luogo di ritrovo dei rivoluzionari era uno strano ambiente spoglio e imbiancato a calce, sulle cui pareti stavano uno o due schizzi contorti e rozzi in bianco e nero, nello stile di qualcosa che voleva essere Arte Proletaria, di cui non un proletario su un milione avrebbe saputo cavare un ragno dal buco. Forse l'unico punto in comune tra le due sale del consiglio era che entrambe violavano la Costituzione americana con l'esibizione di alcolici. Cocktail di vari colori erano stati posati davanti ai tre milionari. Halket, il più violento dei bolscevichi, riteneva appropriato bere soltanto vodka. Era un tipo lungo e massiccio, dalla curvatura minacciosa, e il suo stesso profilo era aggressivo come quello di un cane, il naso e le labbra spinti in fuori insieme, queste ultime ornate di un ispido baffo rosso, e il tutto arricciato all'infuori in un disprezzo perpetuo. John Elias era un uomo bruno e guardingo, con gli occhiali e una nera barba a punta; e aveva imparato in molti caffè europei il gusto per l'assenzio. La prima e l'ultima sensazione del giornalista fu quanto in fondo si somigliassero John Elias e Jacob P. Stein. Erano tanto simili nel volto, nella mente e nei modi, che il milionario avrebbe potuto scomparire per una botola nel Babylon Hotel e riemergere nella roccaforte dei bolscevichi.
+
+Anche il terzo uomo aveva un gusto curioso in fatto di bevande, e la sua bevanda era simbolica di lui. Perché ciò che stava davanti al poeta [[motifs/home|Home]] era un bicchiere di latte, e la sua stessa mitezza pareva, in quel contesto, avere in sé qualcosa di sinistro, come se il suo colore opaco e scialbo fosse d'una qualche pasta lebbrosa più velenosa dello spento verde malato dell'assenzio. Eppure in [[concepts/truth|verità]] la mitezza era finora abbastanza genuina; perché Henry [[motifs/home|Home]] era giunto al campo della rivoluzione lungo una [[motifs/road|strada]] assai diversa e da origini assai diverse da quelle di Jake, il comune imbonitore da comizio, ed Elias, il cosmopolita tessitore d'intrighi. Aveva ricevuto quella che si dice un'educazione accurata, era andato alla cappella nella sua [[motifs/childhood|infanzia]], e aveva portato per tutta la vita un astensionismo dall'alcol di cui non era riuscito a liberarsi quando aveva gettato via inezie come il [[historical-references/christianity|cristianesimo]] e il [[motifs/marriage|matrimonio]]. Aveva i capelli chiari e un bel volto che avrebbe potuto somigliare a quello di Shelley, se non avesse indebolito il mento con una piccola frangia esotica di barba. In qualche modo la barba lo faceva somigliare di più a una donna; era come se quei pochi peli dorati fossero tutto ciò di cui era capace.
+
+Quando il giornalista entrò, il famigerato Jake stava parlando, come faceva di solito. [[motifs/home|Home]] aveva pronunciato qualche frase casuale e convenzionale sul «Dio ce ne scampi» questo o quello, e ciò bastò ampiamente a scatenare Jake in un torrente di bestemmie.
+
+«Dio ce ne scampi! ed è più o meno l'unica dannata cosa che fa [[motifs/well|bene]]», disse. «Il Cielo non fa altro che vietare questo, quello e quell'altro; ci vieta di scioperare, ci vieta di batterci, e ci vieta di sparare ai maledetti usurai e sanguisughe là dove stanno seduti. Perché il Cielo non vieta qualcosa a loro, tanto per cambiare? Perché i maledetti preti e parroci non si alzano a dire la verità su quei bruti, per una volta? Perché il loro prezioso Dio--»
+
+Elias lasciò sfuggire un lieve sospiro, come di flebile stanchezza.
+
+«I preti», disse, «appartenevano, come Marx ha dimostrato, allo stadio feudale dello sviluppo economico e non fanno perciò più realmente parte del problema. La parte un tempo recitata dal prete è ora recitata dall'esperto capitalista e--»
+
+«Sì», interruppe il giornalista, con la sua cupa e ironica implacabilità, «ed è ora che sappiate che alcuni di loro sono espertissimi nel recitarla.» E senza distogliere i propri occhi dagli occhi vividi ma morti di Elias, gli riferì della minaccia di Stein.
+
+«Ero preparato a qualcosa del genere», disse Elias sorridendo senza muoversi; «direi del tutto preparato.»
+
+«Sporchi cani!» esplose Jake. «Se un pover'uomo dicesse una cosa così, finirebbe ai lavori forzati. Ma scommetto che loro finiranno in un posto peggiore prima di rendersene conto. Se non vanno all'inferno, non so proprio dove diavolo andranno--»
+
+[[motifs/home|Home]] fece un gesto di protesta, forse non tanto per ciò che l'uomo stava dicendo quanto per ciò che stava per dire, ed Elias troncò il discorso con fredda esattezza.
+
+«È del tutto superfluo per noi», disse, guardando Byrne fisso attraverso gli occhiali, «scambiare minacce con l'altra parte. È del tutto sufficiente che le loro minacce siano del tutto inefficaci per quanto ci riguarda. Anche noi abbiamo preso tutte le nostre disposizioni, e alcune di esse non si manifesteranno finché non si manifesteranno in azione. Per quanto ci riguarda, una rottura immediata e una prova di forza estrema saranno del tutto conformi al piano.»
+
+Mentre parlava in modo del tutto quieto e dignitoso, qualcosa nel suo immobile volto giallastro e nei suoi grandi occhialoni fece serpeggiare una fioca [[concepts/fear|paura]] lungo la spina dorsale del giornalista. Il volto feroce di Halket poteva sembrare avere un ringhio nella stessa sagoma, visto di profilo; ma visto di faccia, la rabbia covante nei suoi occhi aveva anche qualcosa d'ansioso, come se l'[[forms/riddle|enigma]] etico ed economico fosse in fondo un po' troppo per lui; e [[motifs/home|Home]] pareva ancor più sospeso a fili di preoccupazione e di [[concepts/self|autocritica]]. Ma in questo terzo uomo con gli occhialoni, che parlava in modo tanto assennato e semplice, c'era qualcosa di [[concepts/uncanny|perturbante]]; era come un morto che parlasse a tavola.
+
+Mentre Byrne usciva col suo messaggio di sfida, e percorreva lo strettissimo passaggio accanto alla drogheria, ne trovò l'estremità bloccata da una figura strana eppure stranamente familiare: bassa e tozza, e d'aspetto piuttosto bizzarro vista in scura sagoma, con la testa rotonda e il largo cappello.
+
+«Padre Brown!» esclamò il giornalista stupito. «Credo che dobbiate esservi sbagliato di porta. Non è probabile che voi facciate parte di questa piccola cospirazione.»
+
+«La mia è una cospirazione piuttosto più antica», replicò Padre Brown sorridendo, «ma è una cospirazione assai diffusa.»
+
+«[[motifs/well|Beh]]», replicò Byrne, «non riesco a immaginare che qualcuno della gente qui dentro si trovi a mille miglia da ciò che a voi interessa.»
+
+«Non è sempre facile dirlo», replicò il prete con pacatezza; «ma in effetti c'è qui una persona che ne è a un dito.»
+
+Scomparve nell'ingresso buio e il giornalista proseguì per la sua strada molto perplesso. Fu ancor più perplesso per un piccolo incidente che gli capitò quando svoltò verso l'albergo per fare il suo rapporto ai clienti capitalisti. Al pergolato di fiori e gabbie d'uccelli in cui erano annidati quei vecchi arcigni signori si accedeva per una rampa di gradini di marmo, fiancheggiata da ninfe e tritoni dorati. Giù per quei gradini corse un giovane pieno d'energia, dai capelli neri, dal naso camuso e con un fiore all'occhiello, che lo afferrò e lo trasse in disparte prima che potesse salire la scala.
+
+«Senta un po'», bisbigliò il giovane, «sono Potter--il segretario del vecchio Gid, sa: ora, tra noi, si sta forgiando una specie di fulmine, non è vero?»
+
+«Sono giunto alla conclusione», replicò Byrne con cautela, «che il Ciclope avesse qualcosa sull'incudine. Ma ricordi sempre che il Ciclope è un gigante, ma ha un occhio solo. Penso che il bolscevismo sia--»
+
+Mentre parlava, il segretario ascoltava con un volto che aveva una certa immobilità quasi mongolica, nonostante la vivacità delle gambe e dell'abbigliamento. Ma quando Byrne pronunciò la parola «bolscevismo», gli occhi acuti del giovane guizzarono ed egli disse in fretta:
+
+«Che c'entra quel--oh sì, quel genere di fulmine; mi scusi tanto, errore mio. È così facile dire incudine quando si intende ghiacciaia.»
+
+E con ciò lo straordinario giovane scomparve giù per i gradini e Byrne continuò a salirli, con una mistificazione sempre maggiore che gli offuscava la mente.
+
+Trovò il gruppo di tre accresciuto a quattro dalla presenza d'una persona dal volto affilato come un'accetta, dai capelli radissimi color paglia e con un monocolo, che pareva essere una sorta di consigliere del vecchio Gallup, forse il suo avvocato, benché non fosse chiamato precisamente così. Si chiamava Nares, e le domande che rivolgeva a Byrne riguardavano principalmente, per una ragione o per l'altra, il numero di coloro che erano probabilmente arruolati nell'organizzazione rivoluzionaria. Di ciò, poiché Byrne sapeva poco, disse ancor meno; e i quattro uomini alla fine si alzarono dai loro posti, l'ultima parola spettando all'uomo che era stato il più silenzioso.
+
+«Grazie, signor Byrne», disse Stein, ripiegando gli occhiali. «Rimane solo da dire che tutto è pronto; su questo punto sono del tutto d'accordo col signor Elias. Domani, prima di mezzogiorno, la polizia avrà arrestato il signor Elias, sulla base di prove che per allora le avrò sottoposto, e quei tre almeno saranno in carcere prima di notte. Come sapete, ho tentato di evitare questa via. Credo sia tutto, signori.»
+
+Ma il signor Jacob P. Stein non presentò la sua denuncia formale il giorno seguente, per una ragione che ha spesso interrotto le attività di simili industriosi personaggi. Non lo fece perché si dava il caso che fosse morto; e nessuna delle altre parti del programma fu portata a termine, per una ragione che Byrne trovò esposta a caratteri giganteschi quando aprì il giornale del mattino: «Terrificante triplice omicidio: tre milionari uccisi in una sola [[motifs/night|Notte]].» Seguivano altre frasi esclamative in caratteri più piccoli, grandi appena quattro volte quelli normali, che insistevano sulla caratteristica particolare del mistero: il fatto che i tre uomini erano stati uccisi non solo simultaneamente ma in tre luoghi assai distanti tra loro--Stein nella sua artistica e lussuosa residenza di campagna cento miglia nell'entroterra, Wise fuori dal piccolo bungalow sulla costa dove viveva di brezze marine e di vita semplice, e il vecchio Gallup in un boschetto poco fuori i cancelli della portineria della sua [[motifs/great-house|grande dimora]] all'altro capo della contea. In tutti e tre i casi non poteva esserci alcun [[concepts/doubt|dubbio]] sulle scene di violenza che avevano preceduto la [[motifs/death|morte]], benché il [[concepts/body|corpo]] vero e proprio di Gallup non fu trovato che il secondo giorno, dove pendeva, enorme e orribile, tra le forcelle spezzate e i rami del piccolo bosco in cui il suo peso era precipitato, come un bisonte che si getta sulle lance: mentre Wise era stato chiaramente scagliato oltre la scogliera nel mare, non senza lotta, giacché le sue orme raspanti e scivolose si potevano ancora rintracciare sull'orlo stesso. Ma il primo segnale della [[forms/tragedy|tragedia]] era stato la vista del suo largo e floscio cappello di paglia, che galleggiava lontano sulle onde e ben visibile dalle scogliere sovrastanti. Anche il [[concepts/body|corpo]] di Stein sfuggì dapprima alle ricerche, finché una debole scia di [[motifs/blood|sangue]] non condusse gli investigatori a una vasca da bagno sull'antico modello romano che stava costruendo nel suo [[motifs/garden|giardino]]; perché era stato un uomo d'indole sperimentale con un gusto per le antichità.
+
+Qualunque cosa pensasse, Byrne era costretto ad ammettere che, stando così le cose, non c'era prova legale contro nessuno. Un movente per l'omicidio non bastava. Perfino un'attitudine morale all'omicidio non bastava. E non riusciva a concepire quel pallido giovane pacifista, Henry [[motifs/home|Home]], che massacrasse un altro uomo con brutale violenza, per quanto potesse immaginare il bestemmiante Jake e perfino il ghignante ebreo come capaci di tutto. La polizia, e l'uomo che pareva assisterla (che non era altri che il piuttosto misterioso uomo col monocolo, presentato come il signor Nares), si rendevano conto della situazione con la stessa chiarezza del giornalista.
+
+Sapevano che al momento i cospiratori bolscevichi non potevano essere perseguiti e condannati, e che sarebbe stato un fiasco altamente clamoroso se fossero stati perseguiti e assolti. Nares cominciò con un abile candore convocandoli in un certo senso a consiglio, invitandoli a un conclave privato e chiedendo loro di esprimere liberamente le proprie opinioni nell'interesse dell'umanità. Aveva iniziato le sue indagini dalla più vicina scena della [[forms/tragedy|tragedia]], il bungalow in riva al mare; e a Byrne fu concesso di assistere a una scena curiosa, che era al tempo stesso un pacifico parlamento di diplomatici e una velata [[historical-references/inquisition|inquisizione]], ossia un mettere gli indiziati sotto interrogatorio. Con non poca sorpresa di Byrne, l'incongrua compagnia, seduta intorno al tavolo nel bungalow in riva al mare, comprendeva la figura tarchiata e la testa da gufo di [[characters/father-brown|Father Brown]], benché il suo legame con la faccenda non apparve che qualche [[motifs/time|tempo]] dopo. La presenza del giovane Potter, il segretario del morto, era più naturale; eppure in qualche modo il suo contegno non era del tutto naturale. Egli solo conosceva bene il loro luogo di ritrovo, ed era anzi in un certo cupo senso il loro ospite; eppure offriva scarso aiuto o informazione. La sua faccia rotonda dal naso camuso aveva un'espressione più simile al broncio che al dolore.
+
+Jake Halket, come al solito, parlava più di tutti; e da un uomo del suo tipo non ci si poteva aspettare che mantenesse la cortese finzione che lui e i suoi amici non fossero accusati. Il giovane [[motifs/home|Home]], nel suo modo più raffinato, cercò di trattenerlo quando cominciò a inveire contro gli uomini che erano stati assassinati; ma Jake era sempre pronto a soverchiare con la voce tanto gli amici quanto i nemici. In un getto di bestemmie sollevò la sua [[motifs/soul|anima]] da un necrologio assai poco ufficiale del defunto Gideon Wise. Elias sedeva del tutto immobile e apparentemente indifferente dietro quegli occhiali che mascheravano i suoi occhi.
+
+«Sarebbe inutile, suppongo», disse Nares con freddezza, «dirvi che le vostre osservazioni sono indecenti. Forse vi toccherà di più se vi dico che sono imprudenti. Praticamente ammettete che odiavate il morto.»
+
+«Mi sbatterete dentro per questo, eh?» sghignazzò il demagogo. «Va bene. Solo che dovrete costruire una [[motifs/prison|prigione]] per un milione di uomini se volete incarcerare tutti i poveracci che avevano motivo di odiare Gid Wise. E lo sapete [[motifs/well|bene]] quanto me che è sacrosanta [[concepts/truth|verità]].»
+
+Nares tacque; e nessuno parlò finché Elias non s'intromise con la sua cadenza strascicata, chiara benché lievemente blesa.
+
+«Questa mi pare una discussione assai improficua da entrambe le parti», disse. «Ci avete convocati qui o per chiederci informazioni o per sottoporci a un [[motifs/cross|controinterrogatorio]]. Se vi fidate di noi, vi diciamo che non abbiamo informazioni. Se diffidate di noi, dovete dirci di che cosa siamo accusati, o avere la cortesia di tenere il fatto per voi. Nessuno è stato in grado di addurre la più flebile traccia di prova che colleghi uno qualunque di noi a queste tragedie più di quanto ci colleghi all'assassinio di [[characters/julius-caesar|Julius Caesar]]. Non osate arrestarci, e non volete crederci. A che pro rimanere qui?»
+
+E si [[motifs/rose|alzò]], abbottonandosi con calma il cappotto, mentre i suoi amici ne seguivano l'esempio. Mentre andavano verso la porta, il giovane [[motifs/home|Home]] si voltò e affrontò per un istante gli investigatori col suo pallido volto fanatico.
+
+«Desidero dire», disse, «che sono stato in una lurida prigione per tutta la durata della guerra perché non volli acconsentire a uccidere un uomo.»
+
+Con ciò uscirono, e i membri del gruppo rimasti si guardarono cupamente l'un l'altro.
+
+«Non credo proprio», disse Padre Brown, «che rimaniamo interamente vittoriosi, nonostante la ritirata.»
+
+«Non mi importa di nulla», disse Nares, «tranne che d'essere schernito da quel blasfemo mascalzone di Halket. [[motifs/home|Home]] è comunque un gentiluomo. Ma checché dicano, sono assolutamente certo che sanno; ci sono dentro, o la maggior parte di loro lo è. Lo hanno quasi ammesso. Ci hanno rinfacciato la nostra incapacità di provare che abbiamo ragione, assai più che d'aver torto. Che ne pensate, [[characters/father-brown|Father Brown]]?»
+
+La persona interpellata guardò Nares con uno sguardo di una mitezza e di una meditazione quasi sconcertanti.
+
+«È verissimo», disse, «che mi sono fatto l'idea che una persona in particolare sappia più di quanto ci abbia detto. Ma penso che sarebbe [[motifs/well|bene]] non farne il nome ancora per ora.»
+
+Il monocolo di Nares gli cadde dall'occhio, ed egli alzò lo sguardo di scatto. «Finora è tutto ufficioso», disse. «Suppongo sappiate che in una fase successiva, se tratterrete informazioni, la vostra posizione potrà farsi seria.»
+
+«La mia posizione è semplice», replicò il prete. «Sono qui per tutelare i legittimi interessi del mio amico Halket. Penso che sarà nel suo interesse, viste le circostanze, se vi dico che credo che di lì a poco reciderà il suo legame con questa organizzazione, e cesserà d'essere socialista in quel senso. Ho ogni ragione di credere che probabilmente finirà come cattolico.»
+
+«Halket!» esplose l'altro incredulo. «Ma se maledice i preti da mattina a [[motifs/night|sera]]!»
+
+«Non credo che comprendiate del tutto quel genere d'uomo», disse Padre Brown con dolcezza. «Maledice i preti perché mancano (a suo avviso) di sfidare il mondo intero per la giustizia. Perché mai dovrebbe aspettarsi che sfidino il mondo intero per la giustizia, se non avesse già cominciato a presumere che fossero--ciò che sono? Ma non ci siamo riuniti qui per discutere la psicologia della conversione. Lo accenno soltanto perché può semplificare il vostro compito--forse restringere le vostre ricerche.»
+
+«Se è vero, le restringerebbe proprio [[motifs/well|bene]] a quel furfante dalla faccia stretta di Elias--e non mi [[concepts/wonder|stupirei]], perché un diavolo più raccapricciante, più a sangue freddo e più ghignante non l'ho mai visto.»
+
+[[characters/father-brown|Father Brown]] sospirò. «Mi ha sempre ricordato il povero Stein», disse, «anzi credo fossero in qualche modo parenti.»
+
+«Oh, ma andiamo», cominciò Nares, quando la sua protesta fu troncata dalla porta spalancata di colpo, che rivelò ancora una volta la figura lunga e slegata e il volto pallido del giovane [[motifs/home|Home]]; ma pareva che avesse non solo il suo pallore naturale, bensì un pallore nuovo e innaturale.
+
+«To'», esclamò Nares, inforcando il monocolo, «perché siete tornato indietro?»
+
+[[motifs/home|Home]] attraversò la stanza piuttosto malfermo senza una parola e si lasciò cadere pesantemente su una sedia. Poi disse, come in una sorta di stordimento: «Ho perso gli altri... Ho smarrito la strada. Ho pensato che fosse meglio tornare.»
+
+Gli avanzi dei rinfreschi serali erano sul tavolo, e Henry Home, quel proibizionista di vecchia data, si versò un bicchiere da vino colmo di brandy liquoroso e lo bevve d'un fiato. «Sembrate sconvolto», disse [[characters/father-brown|Father Brown]].
+
+[[motifs/home|Home]] si era portato le mani alla fronte e parlò come da sotto la sua [[archetypes/shadow|ombra]]: pareva rivolgersi soltanto al prete, a bassa voce.
+
+«Tanto vale che ve lo dica. Ho visto un fantasma.»
+
+«Un [[archetypes/ghost|fantasma]]!» ripeté Nares sbalordito. «Il fantasma di chi?»
+
+«Il [[archetypes/ghost|fantasma]] di Gideon Wise, il padrone di questa casa», rispose [[motifs/home|Home]] con più fermezza, «ritto sull'abisso in cui è precipitato.»
+
+«Oh, sciocchezze!» disse Nares; «nessuna persona assennata crede ai fantasmi.»
+
+«Non è del tutto esatto», disse [[characters/father-brown|Father Brown]], sorridendo un poco. «Vi sono davvero prove buone tanto per molti fantasmi quanto per la maggior parte dei delitti.»
+
+«[[motifs/well|Beh]], il mio mestiere è correre dietro ai criminali», disse Nares piuttosto bruscamente, «e lascerò agli altri di scappare via dai fantasmi. Se qualcuno di questi tempi sceglie di lasciarsi spaventare dai fantasmi, sono affari suoi.»
+
+«Non ho detto d'averne paura, benché oserei dire che potrei averne», disse [[characters/father-brown|Father Brown]]. «Nessuno lo sa finché non prova. Ho detto che ci credevo, in ogni caso, abbastanza da voler saperne di più su questo. Che cosa, esattamente, avete visto, signor Home?»
+
+«Era laggiù sull'orlo di quelle scogliere sgretolantesi; sapete che c'è una specie di varco o fenditura proprio all'incirca nel punto in cui fu scaraventato di sotto. Gli altri erano andati avanti, e io stavo attraversando la brughiera verso il sentiero lungo la scogliera. Andavo spesso da quella parte, perché mi piaceva vedere l'alta marea infrangersi contro le rupi. Ci badai poco questa [[motifs/night|notte]], se non nel meravigliarmi che il mare fosse così agitato in una simile [[motifs/night|notte]] di chiaro di luna. Vedevo le pallide creste di spuma apparire e sparire mentre i grandi flutti balzavano contro il promontorio. Tre volte vidi il lampo momentaneo della schiuma al chiaro di luna e poi vidi qualcosa d'imperscrutabile. Il quarto lampo dell'argentea schiuma parve fissarsi nel cielo. Non cadeva; attesi con folle intensità che cadesse. Immaginai d'essere pazzo, e che il [[motifs/time|tempo]] fosse per me misteriosamente arrestato o prolungato. Poi mi avvicinai, e allora credo di aver gridato a voce alta. Perché quella spuma sospesa, come fiocchi di neve mai caduti, si era ricomposta in un volto e in una figura, bianca come il lebbroso splendente d'una leggenda, e terribile come il [[motifs/lightning|fulmine]] immobile.»
+
+«Ed era Gideon Wise, dite?»
+
+Home annuì senza parlare. Vi fu un silenzio rotto bruscamente da Nares che si alzò in piedi; così bruscamente, invero, che rovesciò una sedia.
+
+«Oh, sono tutte sciocchezze», disse, «ma è meglio uscire a vedere.»
+
+«Non ci vado», disse [[motifs/home|Home]] con improvvisa violenza. «Non camminerò mai più per quel sentiero.»
+
+«Penso che tutti dobbiamo camminare per quel sentiero stanotte», disse il prete con gravità; «benché non negherò mai che sia stato un sentiero pericoloso... per più d'una persona.»
+
+«Non lo farò... Dio, come mi pungolate tutti quanti», gridò Home, e i suoi occhi cominciarono a roteare in modo strano. Si era alzato con gli altri, ma non fece alcun movimento verso la porta.
+
+«Signor [[motifs/home|Home]]», disse Nares con fermezza, «sono un agente di polizia, e questa casa, anche se forse non lo sapete, è circondata dalla polizia. Ho cercato di indagare in modo amichevole, ma devo indagare su tutto, perfino su qualcosa di tanto sciocco come un fantasma. Devo chiedervi di condurmi al punto di cui parlate.»
+
+Vi fu un altro silenzio mentre Home stava ansimante e affannato come per timori indescrivibili. Poi d'un tratto si risedette sulla sedia e disse con una voce del tutto nuova e assai più composta:
+
+«Non posso farlo. Tanto [[motifs/well|vale]] che sappiate il perché. Lo saprete prima o poi. L'ho ucciso io.»
+
+Per un istante vi fu l'immobilità d'una casa colpita da un fulmine e piena di cadaveri. Poi la voce di [[characters/father-brown|Father Brown]] risuonò in quell'enorme [[motifs/silence|silenzio]] stranamente piccola come lo squittio d'un topo.
+
+«L'avete ucciso deliberatamente?» chiese.
+
+«Come si può rispondere a una simile domanda?» rispose l'uomo sulla sedia, rosicchiandosi il dito con aria tetra. «Ero pazzo, suppongo. Era intollerabile e insolente, lo so. Ero sulla sua terra e credo che mi colpì; comunque, venimmo alle mani ed egli precipitò oltre la scogliera. Quando fui ben lontano dal luogo, mi esplose dentro la consapevolezza d'aver commesso un delitto che mi tagliava fuori dagli uomini; il marchio di Caino pulsava sulla mia fronte e nel mio stesso cervello; compresi per la prima volta che avevo davvero ucciso un uomo. Sapevo che avrei dovuto confessarlo prima o poi.» Si drizzò d'un tratto sulla sedia. «Ma non dirò nulla contro nessun altro. È inutile chiedermi di complotti o complici--non dirò nulla.»
+
+«Alla luce degli altri omicidi», disse Nares, «è difficile credere che il litigio fosse davvero tanto impremeditato. Di certo qualcuno vi ha mandato là?»
+
+«Non dirò nulla contro chiunque abbia lavorato con me», disse Home con orgoglio. «Sono un assassino, ma non sarò un traditore.»
+
+Nares si frappose tra l'uomo e la porta e chiamò in modo ufficiale qualcuno all'esterno.
+
+«Andremo tutti sul posto, in ogni caso», disse a bassa voce al segretario; «ma quest'uomo deve restare in custodia.»
+
+La compagnia in generale sentiva che andare a caccia di spettri su una scogliera marina fosse un ben stupido anticlimax dopo la confessione dell'assassino. Ma Nares, benché il più scettico e sprezzante di tutti, ritenne suo dovere non lasciare nulla d'intentato; come si potrebbe dire, nessuna pietra tombale non rivoltata. Perché, in fondo, quella scogliera sgretolantesi era l'unica pietra tombale sulla tomba d'acqua del povero Gideon Wise. Nares chiuse a chiave la porta, essendo l'ultimo a uscire dalla casa, e seguì gli altri attraverso la brughiera fino alla scogliera, quando si stupì di vedere il giovane Potter, il segretario, tornare rapidamente verso di loro, col volto che al chiaro di luna appariva bianco come una luna.
+
+«Per Dio, signore», disse, parlando per la prima [[motifs/time|volta]] quella [[motifs/night|notte]], «là c'è davvero qualcosa. È--è proprio come lui.»
+
+«Ma via, delirate», ansimò il [[archetypes/detective|detective]]. «Delirano tutti.»
+
+«Credete che non lo riconosca quando lo vedo?» gridò il segretario con singolare amarezza. «Ho le mie ragioni.»
+
+«Forse», disse il [[archetypes/detective|detective]] con asprezza, «voi siete uno di quelli che avevano motivo di odiarlo, come diceva Halket.»
+
+«Forse», disse il segretario; «comunque, lo conosco, e vi dico che lo vedo là ritto e con lo sguardo fisso sotto questa luna infernale.»
+
+E indicò verso la fenditura nelle scogliere, dove già si poteva vedere qualcosa che poteva essere un raggio di luna o una striscia di schiuma, ma che già cominciava ad apparire un po' più solida. Si erano avvicinati furtivamente di un centinaio di iarde, ed era ancora immobile; ma sembrava una statua d'argento.
+
+Lo stesso Nares appariva un po' pallido e pareva star lì a dibattere cosa fare. Potter era francamente spaventato quanto lo stesso Home; e perfino Byrne, che era un cronista incallito, era piuttosto riluttante ad avvicinarsi ulteriormente se poteva evitarlo. Non poteva perciò fare a meno di trovare un po' bizzarro che l'unico uomo che non pareva spaventato da un fantasma fosse l'uomo che aveva detto apertamente che avrebbe potuto esserlo. Perché Padre Brown avanzava con la stessa fermezza, al suo passo pesante, come se andasse a consultare una bacheca.
+
+«Non pare disturbarvi granché», disse Byrne al prete; «eppure pensavo foste l'unico a credere agli spettri.»
+
+«Se è per questo», replicò [[characters/father-brown|Father Brown]], «io pensavo che voi foste uno di quelli che non ci credono. Ma credere ai fantasmi è una cosa, e credere a un fantasma è tutt'altra.»
+
+Byrne parve piuttosto vergognarsi di sé, e lanciò uno sguardo quasi furtivo ai promontori sgretolantesi nel freddo chiaro di luna che erano i luoghi frequentati dalla visione o dall'illusione. «Non ci ho creduto finché non l'ho visto», disse.
+
+«E io ci ho creduto finché non l'ho visto», disse Padre Brown. Il giornalista lo seguì con lo sguardo mentre se ne andava a passo pesante attraverso la grande landa desolata che saliva verso il promontorio spaccato come il fianco in pendenza di una collina tagliata in due. Sotto la luna scolorente l'erba somigliava a lunghi capelli grigi tutti pettinati da un lato dal vento, e pareva indicare il luogo in cui la scogliera franante mostrava pallidi barlumi di gesso nella zolla grigioverde, e dove stava la pallida figura o l'ombra splendente che nessuno ancora sapeva comprendere. Fino a quel momento quella pallida figura dominava un desolato paesaggio vuoto tranne che per la nera schiena squadrata e la figura sbrigativa del prete che vi avanzava solo incontro. Poi il prigioniero Home si svincolò d'improvviso dai suoi carcerieri con un grido penetrante e corse davanti al prete, cadendo in ginocchio dinanzi allo spettro.
+
+«Ho confessato», lo udirono gridare. «Perché siete venuto a dir loro che vi ho ucciso?»
+
+«Sono venuto a dir loro che non l'avete fatto», disse il [[archetypes/ghost|fantasma]], e gli tese una mano. Allora l'uomo inginocchiato balzò in piedi con un grido di tutt'altra specie; e capirono che era una mano di carne.
+
+Fu la più straordinaria scampata alla [[motifs/death|morte]] degli annali recenti, dissero l'esperto [[archetypes/detective|detective]] e il non meno esperto giornalista. Eppure, in un certo senso, era stata in fondo assai semplice. Scaglie e schegge della scogliera si staccavano di continuo, e alcune si erano incastrate nella gigantesca fenditura, così da formare quella che era in realtà una cengia o una nicchia in ciò che si supponeva fosse un precipizio a strapiombo attraverso il buio fino al mare. Il vecchio, che era un vecchio assai tenace e nerboruto, era caduto su questa spalla di roccia più bassa e aveva trascorso ventiquattro ore piuttosto terribili nel tentativo di risalire per rupi che gli franavano di continuo sotto, ma che alla fine formarono con le loro stesse rovine una sorta di scala di scampo. Questa poteva essere la spiegazione dell'illusione ottica di [[motifs/home|Home]] su un'onda bianca che appariva e spariva, e infine si fermava. Ma in ogni caso c'era Gideon Wise, solido nelle ossa e nei tendini, coi suoi capelli bianchi e i suoi bianchi e polverosi abiti di campagna e i suoi aspri tratti campagnoli, che erano, tuttavia, molto meno aspri del solito. Forse fa bene ai milionari trascorrere ventiquattro ore su una cengia di roccia a un palmo dall'[[concepts/eternity|eternità]]. Comunque, non solo egli negò ogni malanimo contro il criminale, ma fornì della faccenda un resoconto che modificava considerevolmente il delitto. Dichiarò che [[motifs/home|Home]] non l'aveva affatto gettato di sotto; che il terreno che franava di continuo aveva ceduto sotto di lui, e che [[motifs/home|Home]] aveva perfino fatto un qualche movimento come per tentare di soccorrerlo.
+
+«Su quel provvidenziale pezzetto di roccia laggiù», disse solennemente, «promisi al Signore di perdonare i miei nemici; e il Signore mi giudicherebbe assai meschino se non perdonassi un piccolo incidente come quello.»
+
+[[motifs/home|Home]] dovette naturalmente andarsene sotto sorveglianza della polizia, ma il [[archetypes/detective|detective]] non si nascondeva che la detenzione del prigioniero sarebbe stata probabilmente breve, e la sua pena, se pena vi fosse stata, insignificante. Non è ogni assassino che possa mettere l'ucciso al banco dei testimoni a rendergli una buona testimonianza.
+
+«È un caso strano», disse Byrne, mentre il detective e gli altri si affrettavano lungo il sentiero della scogliera verso la città.
+
+«Lo è», disse [[characters/father-brown|Father Brown]]. «Non sono affari nostri; ma vorrei che vi fermaste con me a discuterne.»
+
+Vi fu un silenzio e poi Byrne acconsentì dicendo d'un tratto: «Suppongo che pensaste già a [[motifs/home|Home]], quando diceste che qualcuno non raccontava tutto quel che sapeva.»
+
+«Quando lo dissi», replicò l'amico, «pensavo all'eccessivamente silenzioso signor Potter, il segretario del non più defunto né (diciamo pure) compianto signor Gideon Wise.»
+
+«Beh, l'unica volta che Potter mi ha parlato l'ho preso per un pazzo», disse Byrne, sgranando gli occhi, «ma non ho mai pensato che fosse un criminale. Ha detto qualcosa sul fatto che tutto quanto avesse a che fare con una ghiacciaia.»
+
+«Sì, pensavo che ne sapesse qualcosa», disse Padre Brown pensoso. «Non ho mai detto che avesse a che farci... Suppongo che il vecchio Wise sia davvero abbastanza forte da essersi arrampicato fuori da quell'abisso.»
+
+«Che intendete?» chiese il cronista stupito. «Ma certo che è uscito da quell'abisso; visto che eccolo là.»
+
+Il prete non rispose alla domanda ma chiese bruscamente: «Che ne pensate di Home?»
+
+«[[motifs/well|Beh]], non lo si può definire propriamente un criminale», rispose Byrne. «Non è mai stato per nulla come alcun criminale che io abbia conosciuto, e un po' d'esperienza ce l'ho; e, naturalmente, Nares ne ha molta di più. Non credo che l'abbiamo mai davvero creduto un criminale.»
+
+«E io non ho mai creduto in lui in un'altra veste», disse il prete con calma. «Voi ne saprete di più sui criminali. Ma c'è una categoria di persone su cui probabilmente ne so più di voi, o perfino di Nares, se è per questo. Ne ho conosciuti parecchi, e conosco le loro piccole abitudini.»
+
+«Un'altra categoria di persone», ripeté Byrne, mistificato. «Ma di quale categoria ne sapete?»
+
+«I penitenti», disse Padre Brown.
+
+«Non capisco bene», obiettò Byrne. «Volete dire che non credete al suo delitto?»
+
+«Non credo alla sua confessione», disse [[characters/father-brown|Father Brown]]. «Ho udito parecchie confessioni, e non ce n'è mai stata una genuina come quella. Era romantica; era tutta presa dai libri. Guardate come parlava d'avere il marchio di Caino. Questo viene dai libri. Non è ciò che proverebbe chi avesse compiuto in prima persona una cosa fino allora orribile ai suoi occhi. Supponete d'essere un onesto impiegato o commesso, sconvolto nel sentire che per la prima volta avete rubato del denaro. Riflettereste all'istante che la vostra azione era la stessa di quella di Barabba? Supponete d'aver ucciso un bambino in un qualche accesso d'ira spaventosa. Risalireste la storia, fino a poter identificare la vostra azione con quella d'un potentato idumeo chiamato Erode? Credetemi, i nostri delitti sono di gran lunga troppo orrendamente privati e prosaici perché i nostri primi pensieri corrano a paralleli storici, per quanto calzanti. E perché mai si è dato tanto da fare per dire che non avrebbe tradito i suoi colleghi? Perfino nel dirlo, li stava tradendo. Nessuno gli aveva fin lì chiesto di tradire alcunché o alcuno. No; non credo fosse sincero, e non gli darei l'assoluzione. Bella faccenda, se la gente cominciasse a farsi assolvere per ciò che non ha fatto.» E Padre Brown, il capo voltato altrove, guardò fisso il mare aperto.
+
+«Ma non capisco dove volete arrivare», esclamò Byrne. «A che pro ronzargli intorno coi sospetti quando è già perdonato? È fuori dai giochi, in ogni caso. È perfettamente al sicuro.»
+
+Padre Brown volteggiò come una trottola e afferrò l'amico per il cappotto con un'agitazione inaspettata e inspiegabile. «È proprio così», gridò con enfasi. «Aggrappatevi a questo! È perfettamente al sicuro. È fuori dai giochi. È per questo che è la chiave dell'intero rompicapo.»
+
+«Oh, aiuto», disse Byrne fiaccamente.
+
+«Voglio dire», insistette il piccolo prete, «che è dentro proprio perché è fuori. Questa è tutta la spiegazione.»
+
+«E anche una spiegazione lucidissima», disse il giornalista con sentimento.
+
+Rimasero a guardare il mare aperto per qualche [[motifs/time|tempo]] in [[motifs/silence|silenzio]], e poi [[characters/father-brown|Father Brown]] disse allegramente: «E così torniamo alla ghiacciaia. Il punto in cui vi siete tutti sbagliati fin dall'inizio in questa faccenda è quello in cui si sbagliano parecchi giornali e uomini pubblici. È perché avete dato per scontato che non ci sia proprio nulla nel mondo moderno per cui combattere tranne il bolscevismo. Questa storia non ha assolutamente nulla a che fare col bolscevismo; se non forse come specchietto per le allodole.»
+
+«Non vedo come possa essere», protestò Byrne. «Qui avete i tre milionari di quella stessa impresa assassinati--»
+
+«No!» disse il prete con voce acuta e squillante. «Non è così. È proprio questo il punto. Non avete tre milionari assassinati. Avete due milionari assassinati; e avete il terzo milionario vivo e vegeto e prontissimo a menare calci. E avete quel terzo milionario liberato per sempre dalla minaccia che gli era stata scagliata sul capo davanti ai vostri stessi occhi, in termini scherzosamente cortesi, e in quella conversazione che avete descritto come svoltasi nell'albergo. Gallup e Stein minacciarono quel vecchio mercante più all'antica e indipendente che, se non fosse entrato nel loro consorzio, l'avrebbero congelato fuori. Da qui la ghiacciaia, naturalmente.»
+
+Dopo una pausa proseguì. «Vi è indubbiamente un movimento bolscevico nel mondo moderno, e gli si deve indubbiamente resistere, benché io non creda granché nel vostro modo di resistervi. Ma ciò che nessuno nota è che c'è un altro movimento altrettanto moderno e altrettanto in moto: il grande movimento verso il monopolio, ossia la trasformazione di tutti i commerci in trust. Anche quella è una rivoluzione. Anche quella produce ciò che tutte le rivoluzioni producono. Gli uomini uccideranno per quello e contro quello, come fanno per e contro il bolscevismo. Ha i suoi ultimatum e le sue invasioni e le sue esecuzioni. Questi magnati dei trust hanno le loro corti come i re; hanno la loro guardia del corpo e i loro sicari; hanno le loro spie nel campo nemico. Home era una delle spie del vecchio Gideon in uno dei campi nemici; ma qui fu impiegato contro un altro nemico: i rivali che lo stavano rovinando perché resisteva.»
+
+«Continuo a non vedere bene come sia stato impiegato», disse Byrne, «o a che cosa sia servito.»
+
+«Non vedete», gridò [[characters/father-brown|Father Brown]] con asprezza, «che si sono forniti a vicenda un alibi?»
+
+Byrne lo guardava ancora un po' dubbioso, benché la comprensione gli affiorasse sul volto.
+
+«È questo che intendo», proseguì l'altro, «quando dico che erano dentro perché erano fuori. La maggior parte della gente direbbe che devono essere estranei agli altri due delitti, perché erano implicati in questo. In realtà, erano implicati negli altri due perché erano estranei a questo; perché questo non è mai avvenuto affatto. Un tipo di alibi molto strano e improbabile, s'intende; improbabile e perciò impenetrabile. La maggior parte della gente direbbe che un uomo che confessa un omicidio dev'essere sincero; che un uomo che perdona il proprio assassino dev'essere sincero. A nessuno verrebbe in mente l'idea che il fatto non fosse mai accaduto, sicché uno non aveva nulla da perdonare e l'altro nulla da temere. Erano inchiodati qui per quella notte da una storia contro se stessi. Ma quella notte non erano qui; perché Home stava assassinando il vecchio Gallup nel Bosco, mentre Wise strangolava quel piccolo ebreo nella sua vasca romana. È per questo che chiedo se Wise fosse davvero abbastanza forte per l'avventura dell'arrampicata.»
+
+«Era un'avventura piuttosto ben congegnata», disse Byrne con rammarico. «Si inseriva nel paesaggio, ed era davvero molto convincente.»
+
+«Troppo convincente per convincere», disse [[characters/father-brown|Father Brown]], scuotendo il capo. «Com'era vivida quella schiuma illuminata dalla luna scagliata in alto e mutata in [[archetypes/ghost|fantasma]]. E com'era letteraria! [[motifs/home|Home]] è un vigliacco e una carogna, ma non dimenticate che, come molti altri vigliacchi e carogne nella [[concepts/history|storia]], è anche un poeta.»
+
 
 
 <span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_01" data-title="Incredulity — The Resurrection of Father Brown (part 1)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/autumn,motif/blood,motif/city,motif/leaves,concept/resurrection,concept/wonder,histref/america,setting/america,character/father_brown"></span>

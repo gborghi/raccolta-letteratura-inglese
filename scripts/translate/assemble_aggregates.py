@@ -30,7 +30,7 @@ import os, sys, time, argparse, difflib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from leafcheck import is_leaf, VAULT_ROOT  # noqa: E402
+from leafcheck import is_leaf, SUBTREES, VAULT_ROOT  # noqa: E402
 from work_titles import TITLES             # noqa: E402
 
 # "(parte 3)", "(parte 3 di 7)", and the English "(part 3)" the atomizer also emits
@@ -146,6 +146,14 @@ def children_of(path):
             inner = os.path.join(p, os.path.basename(p) + ".md")
             if os.path.exists(inner):         # a sub-work with its own book file
                 out.append(inner)
+            elif not os.path.exists(p + ".md"):
+                # A level with no file of its own: `Work/part/part_NN.md` (Chesterton, Sayers,
+                # Belloc, Poe...) and `Play/Act_N/Scene_M.md` (Shakespeare, Wilde, Coleridge).
+                # Skipping it left 566 such directories invisible, so their books were never
+                # assembled from their leaves at all -- The_Lost_Tools_of_Learning came back
+                # "nessun figlio" and kept whatever text it happened to have. Descend instead:
+                # the level is a pure container, so its own children are this parent's.
+                out.extend(children_of(inner))
             continue
         if e.endswith(".md") and not e.endswith(".it.md") and p != path:
             out.append(p)
@@ -275,7 +283,7 @@ _WORK_VOTE = {}
 def work_part_vote(path):
     """The spelling the work's own chapters use most for the part before the em dash."""
     work = os.path.dirname(path)
-    while os.path.basename(os.path.dirname(work)) not in ("Atomized", ""):
+    while os.path.basename(os.path.dirname(work)) not in SUBTREES + ("",):
         work = os.path.dirname(work)
     if work not in _WORK_VOTE:
         # grouped by _norm first: counting raw spellings would let "La Locanda Volante" and
@@ -297,21 +305,37 @@ def work_part_vote(path):
     return _WORK_VOTE[work]
 
 
+def is_play_book(path):
+    """`Plays/<Play>/<Play>.md` -- the play file, which is NOT a concatenation of its scenes.
+
+    It carries an editorial preamble (introduction, dramatis personae) that exists nowhere below
+    it, and reproduces each scene under a `### Act N, Scene M` heading. Its Italian is built by
+    plays_assemble.py, which substitutes the translated scene rows into that skeleton. Rebuilding
+    it here would throw the preamble and the scene headings away.
+    """
+    parent = os.path.dirname(path)
+    return (os.path.basename(path)[:-3] == os.path.basename(parent)
+            and os.path.basename(os.path.dirname(parent)) == "Plays")
+
+
 def walk_aggregates(author=None):
     base = os.path.join(VAULT_ROOT, "Authors")
     for name in sorted(os.listdir(base)):
         if author and name != author:
             continue
-        atom = os.path.join(base, name, "Atomized")
-        if not os.path.isdir(atom):
-            continue
-        for root, _dirs, files in os.walk(atom):
-            for f in sorted(files):
-                if not f.endswith(".md") or f.endswith(".it.md"):
-                    continue
-                p = os.path.join(root, f)
-                if not is_leaf(os.path.relpath(p, VAULT_ROOT), VAULT_ROOT):
-                    yield p
+        for sub in SUBTREES:
+            atom = os.path.join(base, name, sub)
+            if not os.path.isdir(atom):
+                continue
+            for root, _dirs, files in os.walk(atom):
+                for f in sorted(files):
+                    if not f.endswith(".md") or f.endswith(".it.md"):
+                        continue
+                    p = os.path.join(root, f)
+                    if is_play_book(p):
+                        continue
+                    if not is_leaf(os.path.relpath(p, VAULT_ROOT), VAULT_ROOT):
+                        yield p
 
 
 def verify(author):
@@ -361,7 +385,10 @@ def main():
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--force", action="store_true", help="rebuild existing .it.md")
     ap.add_argument("--verify", action="store_true")
+    ap.add_argument("--full", action="store_true",
+                    help="elenca tutti gli aggregati, non i primi cinque per sezione")
     a = ap.parse_args()
+    n = None if a.full else 5
 
     if a.verify:
         return verify(a.author)
@@ -372,15 +399,15 @@ def main():
 
     tag = "scritti" if a.write else "da scrivere (dry-run)"
     print("aggregati %s: %d" % (tag, len(stats["built"])))
-    for rel, n, k in stats["built"][:5]:
-        print("   %s  (%d B da %d figli)" % (rel, n, k))
+    for rel, nb, k in stats["built"][:n]:
+        print("   %s  (%d B da %d figli)" % (rel, nb, k))
     if stats["incomplete"]:
         print("\nbloccati da figli non tradotti: %d" % len(stats["incomplete"]))
-        for rel, miss, tot in stats["incomplete"][:5]:
+        for rel, miss, tot in stats["incomplete"][:n]:
             print("   %s  (%d/%d figli senza .it.md)" % (rel, miss, tot))
     if stats["no_title"]:
         print("\nsenza titolo derivabile dai figli: %d" % len(stats["no_title"]))
-        for rel in stats["no_title"][:5]:
+        for rel in stats["no_title"][:n]:
             print("   %s" % rel)
     return 0
 

@@ -13075,6 +13075,60 @@ him to [[motifs/swallow|swallow]] boiling fat, but you shall never force him to 
 facts of his life.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+IL SIGNOR BOUNDERBY
+
+
+Non essendo la signora Grundy, chi era il signor Bounderby?
+
+Ebbene, il signor Bounderby era quasi l'amico fraterno del signor Gradgrind, quanto un uomo totalmente privo di sensibilità può avvicinarsi a quella relazione spirituale con un altro uomo altrettanto insensibile. Il signor Bounderby era così vicino — o, se al lettore dovesse piacere di più, così lontano.
+
+Era un uomo ricco: banchiere, commerciante, industriale e chissà cos'altro ancora. Un uomo grosso e rumoroso, con uno sguardo fisso e una risata metallica. Un uomo fatto di materiale grossolano, che sembrava essere stato allungato per produrre tanto di lui. Un uomo con la testa e la fronte gonfie, vene rigonfie alle tempie e una pelle del viso così tesa da sembrare che tenesse gli occhi aperti e sollevasse le sopracciglia. Un uomo con un'aria pervasiva di essere gonfiato come un pallone, pronto a partire. Un uomo che non si stancava mai di vantarsi di essere un [[archetypes/self-made-man|uomo fatto da sé]]. Un uomo che proclamava sempre, attraverso quella voce tonante e metallica, la sua vecchia ignoranza e la sua antica [[concepts/poverty|povertà]]. Un uomo che era il Bullo dell'[[concepts/humility|umiltà]].
+
+Di uno o due anni più giovane del suo amico eminentemente pratico,
+il signor Bounderby sembrava più vecchio; i suoi quarantotto anni avrebbero potuto avere un altro otto, senza sorprendere nessuno. Non aveva molti capelli. Si sarebbe potuto pensare che li avesse sprecati a parlare e che quelli rimasti, tutti in piedi nel disordine più completo, fossero ridotti così per essere stati costantemente scompigliati dal suo ventoso vaniloquio.
+
+Nel salotto formale di Stone Lodge, in piedi sul tappeto del caminetto,
+riscaldandosi davanti al [[motifs/fire|fuoco]], il signor Bounderby rivolse alcune
+osservazioni alla signora Gradgrind riguardo al fatto che era il suo
+compleanno.  Si trovava davanti al [[motifs/fire|fuoco]] in parte perché era un fresco pomeriggio di [[motifs/spring|primavera]],
+nonostante splendesse il sole; in parte perché l'ombra di Stone Lodge
+era sempre infestata dallo [[archetypes/ghost|spettro]] dell'intonaco umido; e in parte perché così assumeva una posizione dominante da cui soggiogare la signora Gradgrind.
+
+«Non avevo una scarpa ai piedi. Quanto alle calze, non ne conoscevo nemmeno il nome. Passavo le giornate in un fosso e la [[motifs/night|notte]] nella stalla dei maiali. Così ho trascorso il mio decimo compleanno. Non che fossi una novità per me, dato che sono nato in un fosso».
+
+La signora Gradgrind, un piccolo, esile, pallido e roseo mucchietto di scialli, di una debolezza senza pari sia fisica che mentale; che prendeva sempre medicine senza alcun effetto e che ogni volta che mostrava qualche segno di vita veniva invariabilmente stordita da un pezzo di realtà pesante che le cadeva addosso; la signora Gradgrind sperava fosse una fossa asciutta?
+
+«No! Bagnato come un pan bagnato. Un piede di [[motifs/water|acqua]] dentro», disse il signor Bounderby.
+
+«Abbastanza da far prendere freddo a un bambino», considerò la signora Gradgrind.
+
+«Avevo freddo? Sono nato con l'infiammazione ai polmoni e di tutto il resto, credo, che fosse capace di infiammarsi», rispose Mr. Bounderby. «Per anni, signora, sono stato uno dei più miserabili piccoli disgraziati mai visti. Ero così malaticcio da piangere e lamentarmi sempre. Ero così stracciato e sporco che non mi avreste toccato neanche con le pinze».
+
+La signora Gradgrind guardò debolmente le pinze, come la cosa più appropriata che la sua imbecillità potesse pensare di fare.
+
+«Come ho fatto a superarlo non lo so neppure io», disse Bounderby «Ero deciso, immagino. Sono stato un uomo deciso nella vita e credo di esserlo stato anche allora. Ecco qui che sono, comunque sia, signora Gradgrind, e nessuno merita ringraziamenti per il fatto che io ci sia se non me stesso».
+
+La signora Gradgrind sperava timidamente e debolmente che sua madre.
+
+«Mia madre? Fuggita, signora!» disse Bounderby.
+
+La signora Gradgrind, come al solito stordita, crollò e rinunciò.
+
+«Mia madre mi ha lasciato a mia nonna», disse Bounderby; «e, per quanto ne ricordo, mia nonna era la vecchia più cattiva e malvagia che sia mai esistita. Se per caso riuscivo ad avere un paio di scarpe nuove, lei me le toglieva e le vendeva per comprarsi da bere. Ero talmente abituato a vederla sdraiata sul letto a tracannare quattordici bicchieri di liquore prima di colazione!»
+
+La signora Gradgrind, sorridendo debolmente e senza dare altri segni di vitalità,
+sembrava (come sempre) una trasparenza eseguita in modo mediocre che rappresentava
+una piccola figura femminile, ma non aveva abbastanza luce alle spalle.
+
+«Teneva un negozio di candele», continuò Bounderby, «e mi teneva in una scatola delle uova. Quella era la culla della _mia_ infanzia; una vecchia scatola delle uova. Appena fui abbastanza grande da scappare, naturalmente scappai. Poi diventai un giovane vagabondo; e invece di essere picchiato e affamato da una sola vecchia, ero picchiato e affamato da tutti, di tutte le età. Avevano ragione; non avevano motivo di fare altro. Ero un fastidio, un ingombro, e una piaga. Lo so _ [[motifs/well|molto]]_ bene».
+
+Il suo [[concepts/pride|orgoglio]] di aver raggiunto in qualsiasi [[motifs/time|momento]] della sua vita una tale grande distinzione sociale da essere un fastidio, un ingombro e una seccatura, poteva essere soddisfatto solo da tre ripetizioni sonore dell'ostentazione.
+
+«Sono riuscito a superarlo, immagino, signora Gradgrind. Che ci fossi o no riuscito, signora, l'ho fatto. Sono riuscito a superarlo, anche se nessuno mi ha lanciato una corda. Vagabondo, fattorino, vagabondo, operaio, facchino, impiegato, direttore generale, piccolo socio, [[characters/josiah-bounderby|Josiah Bounderby]] di Coketown. Queste sono le mie origini e il mio apice. [[characters/josiah-bounderby|Josiah Bounderby]] di Coketown ha imparato a leggere dai cartelloni delle vetrine, signora Gradgrind, ed è stato in grado per la prima volta di dire l'[[motifs/time|ora]] su un quadrante studiando il [[motifs/clock|orologio]] della torre campanaria della chiesa di San Giles a [[settings/london|Londra]], sotto la guida di un ubriacone storpio, che era un ladro condannato e un vagabondo irrecuperabile. Parlate a [[characters/josiah-bounderby|Josiah Bounderby]] di Coketown delle vostre scuole di quartiere e delle vostre scuole modello, e delle vostre scuole formative, e dell'intero maelstrom delle vostre scuole; e [[characters/josiah-bounderby|Josiah Bounderby]] di Coketown vi dice chiaro e tondo: tutto bene, tutto corretto — lui non ha avuto questi vantaggi — ma ci vogliono persone con la testa dura e il pugno solido. L'[[concepts/education|educazione]] che lo ha fatto diventare quello che è non va bene per tutti, lo sa [[motifs/well|bene]] — comunque sia, questa è stata la sua [[concepts/education|educazione]], e anche se potete costringerlo a [[motifs/swallow|ingurgitare]] grasso bollente, mai al mondo riuscirete a farlo negare i fatti della sua vita.»
+
 
 
 <span class="atom-split" data-atom="chapter_41--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/hope,concept/humility,concept/imagination,concept/nature,concept/truth,concept/wonder,character/josiah_bounderby"></span>

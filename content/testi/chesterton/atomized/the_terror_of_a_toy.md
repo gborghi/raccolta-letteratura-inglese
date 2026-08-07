@@ -151,6 +151,64 @@ apart from all its horrible accidents.  It is the [[motifs/soul|soul]] of the sw
 that will never be stained with [[motifs/blood|blood]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il terrore di un giocattolo
+
+Il terrore di un giocattolo, "Fancies versus Fads", [[settings/new-york|New York]], Dodd, Mead
+and company, 1923, pagine da 105 a 110.
+
+Il terrore di un giocattolo
+
+Sarebbe un complimento troppo alto e ottimistico dire che il mondo
+sta diventando assolutamente infantile.  Poiché la sua principale debolezza di mente
+è un'incapacità di apprezzare l'intelligenza dei bambini.
+Da ogni parte odiamo sussurri e ammonimenti che sarebbero sembrati
+da mezzi scemi ai Savi di Gotham.  Proprio questo Natale mi
+è stato detto in un negozio di giocattoli che non si fabbricavano più tanti archi
+e frecce per i ragazzini; perché erano considerati pericolosi.
+In certe circostanze potrebbe essere pericoloso possedere un piccolo arco.
+È sempre pericoloso possedere un piccolo ragazzo.  Ma nessun'altra società,
+che pretenda di essere sana di mente, si sarebbe mai sognata di supporre che si potessero
+abolire tutti gli archi senza abolire tutti i ragazzi.
+
+Dei meriti di quest'ultima [[concepts/reform|riforma]] non mi occuperò qui.
+C'è molto da dire a favore di tale via; e forse
+ne avremo presto occasione di considerarla.  Poiché la mente moderna
+sembra del tutto incapace di distinguere tra i mezzi e il fine,
+tra l'organo e la malattia, tra l'uso e l'abuso;
+e senza dubbio spezzerebbe l'arco insieme al ragazzo, così come rovescia
+il bambino con l'acqua del bagno.
+
+Ma consideriamo, a mo' di piccolo studio su questo luttuoso
+stato di cose, questo caso del giocattolo pericoloso.
+Ora la prima e più [[concepts/self|auto]]-evidente [[concepts/truth|verità]] è che, di tutte le cose
+che un [[archetypes/child|bambino]] vede e tocca, il giocattolo più pericoloso è pressoché la cosa meno
+pericolosa.  Non c'è quasi un solo utensile domestico
+che non sia molto più pericoloso di un piccolo arco con frecce.
+Può bruciarsi nel [[motifs/fire|fuoco]], può bollirsi nella vasca,
+può tagliarsi la gola con il coltello da trinciare, può scottarsi
+con il bollitore, può soffocarsi con qualunque cosa
+abbastanza piccola, può rompersi il collo cadendo da qualunque cosa abbastanza alta.
+Si muove tutto il giorno in mezzo a un macchinario micidiale, capace di
+uccidere e mutilare quanto le ruote della più spaventosa fabbrica.
+Gioca tutto il giorno in una casa attrezzata di strumenti di tortura come la
+[[historical-references/spanish-inquisition|Inquisizione spagnola]].  E, mentre così danza all'[[archetypes/shadow|ombra]] della [[motifs/death|morte]],
+lo si dovrebbe salvare da tutti i pericoli del possedere un pezzo di spago,
+legato a un ramo o a un rametto piegato.  Quando è un ragazzino
+di solito gli occorre un po' di [[motifs/time|tempo]] anche solo per imparare a impugnare l'arco.
+Quando ci riesce, è deliziato se la freccia svolazza per
+qualche metro come una piuma o una foglia d'[[motifs/autumn|autunno]].  Ma anche se cresce
+un po' più grande e più abile, e non ha ancora imparato a disprezzare
+le frecce in favore degli aeroplani, la quantità di danno che potrebbe
+plausibilmente fare con le sue piccole frecce sarebbe circa un centesimo
+del danno che avrebbe comunque potuto fare in ogni caso semplicemente
+raccogliendo una pietra nel [[motifs/garden|giardino]].
+
+Ora, non si impedisce a un ragazzino di tirare sassi impedendogli di vedere mai dei sassi. Non lo si fa chiudendo a chiave tutti i sassi nel Museo Geologico, e rilasciando biglietti d'ingresso solo agli adulti. Non lo si fa cercando di raccogliere tutti i ciottoli sulla spiaggia, per [[concepts/fear|paura]] che si eserciti a lanciarli in mare. Non si adotta nemmeno una [[concepts/reform|riforma]] sociale tanto ovvia e persino pressante quanto proibire che le strade siano fatte d'altro che d'asfalto, o disporre che tutti i giardini siano fatti sull'argilla e nessuno sulla ghiaia. Trascurate tutte queste grandi opportunità che vi si aprono davanti; trascurate tutte queste esaltanti prospettive di scienza sociale e di illuminismo. Quando volete impedire a un [[archetypes/child|bambino]] di tirare sassi, ripiegate sui metodi più triti e più sentimentali e persino più superstiziosi. Lo fate cercando di conservare una qualche ragionevole autorità e influenza sul [[archetypes/child|bambino]]. Vi affidate al vostro rapporto privato col ragazzo, e non al vostro rapporto pubblico col sasso. E ciò che è vero del proiettile naturale è altrettanto vero, naturalmente, del proiettile artificiale; tanto più che è un proiettile assai più inefficace e perciò innocuo. Un uomo potrebbe essere davvero ucciso, come san Stefano, con i sassi della [[motifs/road|strada]]. [[concepts/doubt|Dubito]] che possa essere davvero ucciso, come san [[characters/sebastian|Sebastiano]], con le frecce del negozio di giocattoli. Ma comunque il principio, per quanto ovvio, è lo stesso. Se sapete insegnare a un [[archetypes/child|bambino]] a non tirare un sasso, potete insegnargli quando scoccare una freccia; se non sapete insegnargli nulla, avrà sempre qualcosa da tirare. Se lo si può persuadere a non fracassare il cappello dell'Arcidiacono con una pesante selce, sarà probabilmente possibile dissuaderlo dal trafiggere quel copricapo con una freccia giocattolo. Se il suo addestramento lo trattiene dallo scagliare mezzo mattone contro il postino, probabilmente lo metterà in guardia anche contro il continuo scoccare dardi di [[motifs/death|morte]] contro il poliziotto. Ma l'idea che il [[archetypes/child|bambino]] dipenda da particolari arnesi, etichettati come pericolosi, per essere un pericolo a se stesso e agli altri, è un'idea tanto insensata che è difficile capire come una mente umana possa accarezzarla anche per un istante. La [[concepts/truth|verità]] è che ogni sorta di fanatismo, sia ufficiale sia teorico, ha demolito l'autorità naturale dell'istituzione domestica, specialmente tra i poveri; e i fanatici vanno ora cercando disperatamente un sostituto per la cosa che hanno essi stessi distrutto. La cosa normale è che i genitori impediscano a un ragazzo di fare più di una ragionevole quantità di danno col suo arco e le sue frecce; e per il resto, di lasciargliene un ragionevole godimento. L'ufficialità non può così seguire la vita del singolo ragazzo, come può il singolo tutore. Non si può nominare un particolare poliziotto per ciascun ragazzo, perché lo insegua quando si arrampica sugli alberi o cade negli stagni. Così lo spirito moderno è disceso all'indescrivibile degradazione mentale di tentare di abolire l'abuso delle cose abolendo le cose stesse; il che è come se volesse abolire gli stagni o abolire gli alberi. Forse fra non molto ci proverà. Così tutti abbiamo sentito di selvaggi che processano un tomahawk per omicidio, o bruciano una clava di legno per il danno che ha arrecato alla società. A tali livelli intellettuali può ritornare il mondo.
+
+Vi sono in verità livelli ancora più bassi. C'è una storia dall'[[settings/america|America]] su un ragazzino che rinunciò al suo cannone giocattolo per contribuire al disarmo del mondo. Non so se sia vera, ma nel complesso preferisco crederlo; poiché è forse più tollerabile immaginare un piccolo [[archetypes/monster|mostro]] capace di fare una cosa simile che molti mostri più maturi capaci di inventarla o di ammirarla. Ve n'erano senza dubbio alcuni che non l'inventarono né l'ammirarono. È una delle peculiarità degli americani il combinare un potere di produrre ciò che essi satireggiano come "roba lacrimosa" con un parallelo potere di satireggiarlo. E delle due storie iperboliche americane, è talvolta difficile dire quale sia la storia e quale la [[forms/satire|satira]]. Ma pare chiaro che alcune persone ripeterono davvero questa storia in spirito reverente. E ciò segna, come ho detto, un altro stadio del [[motifs/decay|decadimento]] cerebrale. Si può (con fortuna) rompere una [[motifs/window|finestra]] con una freccia giocattolo; ma difficilmente si può bombardare una città con un pupazzo giocattolo. Se la gente ha da obiettare al semplice modello di un cannone, deve del pari obiettare all'immagine di un cannone, e così a ogni quadro al mondo che raffiguri una spada o una lancia. Ci sarebbe uno splendido sgombero di tutte le grandi pinacoteche del mondo. Ma non sarebbe nulla rispetto alla distruzione di tutte le grandi biblioteche del mondo, se estendessimo logicamente il principio a tutti i capolavori letterari che ammettono la gloria delle armi. Quando questo progresso fosse andato avanti per un secolo o due, potrebbe cominciare ad [[motifs/dawn|albeggiare]] nella gente che c'era qualcosa di sbagliato nel loro principio morale. Ciò che c'è di sbagliato nel loro principio morale è che è immorale. Le armi, come ogni altra avventura dell'arte dell'uomo, hanno due facce, a seconda che siano invocate per l'inflizione o per lo sfidamento del torto. Hanno anche un elemento di vera poesia e un elemento di prosa realistica e perciò repellente. La spada e l'arco simbolici del [[archetypes/child|bambino]] sono semplicemente la poesia senza la prosa; il bene senza il male. La spada giocattolo è l'astrazione e l'emanazione dell'eroico, a prescindere da tutti i suoi orribili accidenti. È l'[[motifs/soul|anima]] della spada, che non sarà mai macchiata di [[motifs/blood|sangue]].
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The_Terror_of_a_Toy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/death,motif/fire,motif/garden,motif/time,concept/reform,concept/self,concept/truth,histref/spanish_inquisition,setting/new_york"></span>

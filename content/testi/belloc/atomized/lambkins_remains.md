@@ -1451,6 +1451,1454 @@ We’re mortgaging the rest to build it.
 85 The phrase is “return to her true self.” It was a favourite one of Lambkin’s, but is I fear untranslatable. The French have no such subtle ideas. The whole sentence was left out in the Horreur, and the final paragraph began with “Je reste.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Indice
+
+Dedica
+
+ODE DEDICATA.
+
+Prefazione
+
+I. Introducitive
+
+II. Lambkin’s Newdigate
+
+III. Alcune osservazioni sullo stile prosastico di Lambkin
+
+IV. Saggio di Lambkin sul “successo”
+
+V. Lambkin sul sonno
+
+VI. I consigli di Lambkin ai nuovi studenti
+
+VII. La lezione di Lambkin sul “diritto”
+
+VIII. La corrispondenza speciale di Lambkin
+
+IX. L’allocuzione di Lambkin alla Lega del Progresso
+
+Il leader di Lambkin
+
+XI. I commenti di Lambkin sulla fine del semestre
+
+XII. L’articolo di Lambkin sul angolo nord-occidentale della pavimentazione in mosaico della villa romana di Bignor
+
+XIII. Il sermone di Lambkin.
+
+XIV. La lettera aperta di Lambkin ai chierici
+
+XV. La lettera di Lambkin a un amico francese
+
+XVI. Intervista con il signor Lambkin.
+
+Note finali.
+
+Prima edizione
+
+Dedica
+
+TO
+
+Il Club Repubblicano
+
+Titolo:  
+Sono deciso.
+
+to
+
+Dedicato
+
+Questo libro
+
+E nulla mi fermerà
+
+Il mio scopo.
+
+ODE DEDICATA.
+
+Scrivere con tutta la mia forza
+
+In declino da tempo…
+
+Una ballata di enorme lunghezza…
+
+Alcune parti di cui sarà necessario fornire spiegazioni.1
+
+Perché (a differenza della maggior parte degli uomini)
+
+Chi scrive per la fama e per gli scopi pubblici…
+
+Una penna sciolta e fluida
+
+Di miei amici intimi
+
+Per nessuno, nel nostro lungo declino…
+
+Così polveroso, malvagio e diviso…
+
+Avevo amici così piacevoli come i miei…
+
+O li amava almeno la metà di quanto li amassi io.
+
+Il matricolato si avvia lentamente lungo il viale principale
+
+Folle d’amore per tutto ciò che vede
+
+Nota il cielo sereno di ottobre…
+
+Assapora con piacere la fresca brezza occidentale.
+
+“Può essere davvero [[settings/oxford|Oxford]]? Questo è il posto, ”
+
+“Di cui mio padre disse…”
+
+L’insegnamento privato era una vera e propria vergogna.
+
+Un credo che non è altro che una mascherata, pieno di vuote parole e privo di vita reale?
+
+Può essere proprio qui che zio Paul…
+
+Guidato da un eccessivo cupore…
+
+“To drink and debt, e infine…”
+
+Fumare oppio nella sua stanza?
+
+“È da qui che vengono le persone?”
+
+Chi parla così ad alta voce e rotea gli occhi…
+
+E balbettare? Che cosa estremamente strana!
+
+Che curioso! Che grande sorpresa.
+
+“Un influsso di tempi più nobili”
+
+Più di quelli di loro… intendo, più di quelli dello zio Paul.
+
+Ha risvegliato il sonno della loro decadenza
+
+E i loro antichi muri furono adornati di luce.
+
+“O, cari e intrepidi ragazzi di un tempo…”
+
+Che i vostri nomi fossero incisi qui…
+
+Per tutto il mondo, in francobolli d’oro…
+
+Per poterli leggere e rispettarli.
+
+Chi lo creò e me lo tramandò
+
+Questo [[settings/oxford|Oxford]] dell’ampio mondo.
+
+Ridendo, pieni di fede e liberi.
+
+“Con la gioventù che splende ovunque.”
+
+“Allora impara: tu, ignorante e cieco…”
+
+Uomo giovane, inesperto e ignorante…
+
+I loro nomi privati erano… 3
+
+Il loro club si chiamava “Republican”.
+
+Dove giacciono sulle loro rive di luce
+
+Le felici colline del Cielo tra loro
+
+Gli dèi che dominano il cielo del mattino
+
+Non sono più giovani, né più sereni
+
+“Il coraggio dei quattro indomabili che rimangono…”
+
+Il primo che osò realizzare il proprio sogno
+
+E in questa terra sgradevole…
+
+Per fondare l’Abbazia di Telemo.
+
+Abbiamo mantenuto il piano rabelaesco:4
+
+I delicati chiostri ricevettero la nostra dignità
+
+Con la legge naturale e i diritti dell’uomo
+
+Canzoni, stoicismo, vino e ostriche.
+
+La biblioteca era davvero accogliente…
+
+I libri sugli scaffali affollati
+
+Titolo: Erano principalmente scritti privati nostri.
+
+Abbiamo mantenuto una scuola e ci siamo insegnati da soli.
+
+Insegnammo l’arte di scrivere
+
+Uomini che ancora vorremmo soffocare…
+
+E dove trovare il sangue dei re
+
+Solo mezzo scellino a bottiglia.
+
+Eheu, fugaci, postumi!
+
+Un vecchio detto ormai obsoleto
+
+Il mio mantello di sogni è stato rubato.
+
+La mia giovinezza sta passando lungo la strada.
+
+La ricchezza della giovinezza… l’abbiamo spesa bene.
+
+E in modo dignitoso, come pochi riescono a fare.
+
+È andato perduto? Non lo so…
+
+E inoltre, dubito che tu sia in grado di farlo.
+
+La domanda è davvero troppo vaga.
+
+E troppo profondo… e troppo vuoto.
+
+Titolo:  
+E gli uomini eruditi da entrambe le parti
+
+Usare argomenti che non riesco a comprendere.
+
+Dicono che in quel luogo immutabile…
+
+Ovunque ciò che amiamo rimane sempre caro
+
+Ci incontriamo faccia a faccia al mattino…
+
+E finalmente arriviamo al nostro ventesimo anno.
+
+Dicono… e sono felice che lo dicano.
+
+È così; e potrebbe anche essere così.
+
+Potrebbe essere proprio il contrario
+
+Non posso dirlo con certezza… Ma una cosa so:
+
+Dalle case tranquille e dai primi inizi…
+
+Verso le estremità ancora inesplorate
+
+"Niente vale la fatica e il sacrificio necessari per vincere."
+
+Ma c'è la risata e l'amore degli amici.
+
+Ma qualcosa si assottiglia… oh, miei compagni!
+
+Qualcosa inganna il cuore e poi passa…
+
+E Tom… che voleva scuotere via gli anni.
+
+È diventato soltanto un rumore prodotto dallo sbattere di bicchieri.
+
+E Lui, il Pastore del Gregge
+
+"Tenere i birmanesi sotto controllo"...
+
+Un esiliato su una roccia desolata
+
+Quello si affaccia sul confine cinese.
+
+E uno… anch’io, intendo dire.
+
+Ah! — riuscirà la posterità a crederci?
+
+Non solo non meritano il successo…
+
+Ma non è riuscito a realizzarlo.
+
+Non nemmeno questa strana città
+
+Ha mai reso un’amicizia più solida?
+
+Ma… uno è sposato, un altro se n’è andato…
+
+Uno è un Don, e l’altro si trova in Birmania.
+
+E oh… quei giorni, quei giorni…
+
+Quando tutti e quattro se ne andarono insieme:
+
+L’infinita profondità della nebbia estiva
+
+Il fragoroso orgoglio del clima autunnale!
+
+Non proverò più ad arrivare lì.
+
+Non salperò da solo.
+
+Ancorare una barca priva di uomini
+
+Nei piccoli moli di pietra di Yarnton.
+
+Ma mi siederò accanto al fuoco.
+
+E mi porto la mano davanti agli occhi
+
+E seguire, per soddisfare il desiderio del mio cuore…
+
+L’ultima delle nostre “Odissee”.
+
+La tranquilla serata le permise di mantenere il loro appuntamento…
+
+Sotto un cielo aperto viaggiavamo.
+
+E mescolato con una nebbia vagante
+
+Lungo il perfetto fiume Evenlode.
+
+Titolo:  
+La tenera Evenlode che…
+
+Le sue praterie tacciono per ascoltare quel suono
+
+Delle acque che si mescolano nelle frenate
+
+E lega il mio cuore alla terra inglese.
+
+Un bel fiume, tutto solo…
+
+Rimane tra le colline… e tiene stretto qualcosa
+
+Cento piccole città di pietra
+
+Dimenticato nelle lande occidentali.
+
+Osso di dubio (sebbene ci siano forze più malvagie)
+
+"Dominate i nostri troni… e anche le menti più semplici."
+
+Bevono vini peggiori dei nostri.
+
+“In quello che non è più Austerlitz”
+
+“Quello sicuramente è uno spettro terribile…”
+
+Il temerario, il presuntuoso…
+
+Ancora canta per un brindisi immortale.
+
+Le avventure disastrose del mugnaio.
+
+I vasti mari sono appena separati…
+
+Per coloro che sono così presi da tale convinzione…
+
+Eravamo? Allora, per Dio, siamo ancora…
+
+Ordine! Chiamo il club alla riunione!
+
+Tu conservi ancora quella canzone che abbiamo scelto insieme
+
+E come si alza, inciampa e osserva intorno?
+
+Conservi ancora quel ricordo sacro
+
+Repubblicani? Repubblicani?
+
+Come venivano scagliate quelle parole…
+
+Per sfuggire al peggio della sfortuna?
+
+Un brindisi per il mondo intero
+
+Bevilo, signori: il Club.
+
+Prefazione
+
+La preparazione delle pagine che seguono è stata un lavoro fatto con amore e mi ha costato molte ore di ansia. “Nella scrittura dei libri”, dice il sapiente Salmista (o più probabilmente uno scriba sirio-caldeo del III secolo), “non c’è fine”; ed effettivamente è un pensiero molto solenne rendersi conto che così tanti scrittori sostengono la vita di molti editori, questi a loro volta mantengono in funzione numerosi giornali, recensioni e riviste, e queste ultime forniscono lavoro a un vasto numero di redattori, critici e altro ancora. È davvero un pensiero molto solenne che una così grande quantità di persone si dedichi a un’attività del genere; un’attività che, se utilizzata correttamente, potrebbe essere di immenso beneficio all’umanità, ma che purtroppo spesso viene deviata verso scopi inutili o addirittura dannosi. Potrei scrivere a lungo su questi argomenti, ma è necessario concludere questa riflessione.
+
+Alla fine di un antico poema arabo – probabilmente l’opera letteraria più antica al mondo ancora esistente – si trova, nascosta tra i suoi numerosi tesori, questa frase: “Oh! Se solo il mio nemico avesse scritto un libro!” Questo desiderio di letteratura, del tutto comprensibile in un popolo primitivo, e quel desiderio quasi selvaggio che il lavoro dello scrivere fosse affidato a un nemico catturato in battaglia, nel corso del lungo processo dello sviluppo storico sono stati sostituiti da uno spirito molto diverso. Oggi, se mai, esiste un’eccessiva abbondanza di letteratura; quindi è necessario trovare una giustificazione per l’esistenza di opere del genere. Inoltre, tale opera non sarebbe mai stata pubblicata se non si fosse pensato che i numerosi amici di Lambkin ne avrebbero garantito la vendita.
+
+Animaxandro, Re dei Milesi, quando l’Inviato di Atarxessus gli chiese quale fosse, a suo parere, la cosa più estenuante al mondo, rispose tagliando la testa allo stesso messaggero, offendendo così i sentimenti religiosi di un’epoca in cui ospiti e araldi erano considerati sacri, poiché sotto la protezione speciale di Ζεύς (pronunciato “Tsephs”).
+
+Avvertito dal terribile destino di quel monarca sacrilego, metterò fine a queste prime parole. Il mio libro deve essere il proprio prefazione; vorrei che l’opera potesse anche essere il proprio editore, il proprio libraio e il proprio recensore.
+
+Mi resta solo il compito di ringraziare tutti coloro che mi hanno aiutato nel mio lavoro, prestandomi lettere, frammenti di manoscritti, ritratti e pezzi di abbigliamento: insomma, tutto ciò che potesse essere utile per illustrare la carriera di Lambkin. La mia gratitudine è particolarmente rivolta a Mr. Binder, che mi ha aiutato nella stesura del testo; a Mr. Cook, che si è preso la briga di revisionare le bozze; e a Mr. Wallingford, Q.C., che ha gentilmente acconsentito ad ricevere una copia anticipata del libro. Devo inoltre ringraziare il Vescovo di Bury per la sua cortese collaborazione e i suoi suggerimenti sempre pronti; non posso dimenticare nemmeno M. Hertz, che mi ha aiutato con le questioni legate alla lingua francese, e la cui diligenza e comportamento gentiluomo sono particolarmente apprezzabili.
+
+Non posso concludere senza esprimere la mia gratitudine generale ai tipografi che hanno realizzato questo libro, alle agenzie che lo hanno distribuito e ai librai che l’hanno messo sugli scaffali; provo un profondo senso di riconoscenza verso un gran numero di persone, ed è una sensazione piacevole per uno che, nel corso di una carriera abbastanza di successo, ha dovuto dare (e ricevere) più di un “colpo duro”.
+
+Il Capellano
+
+Burford College
+
+[[settings/oxford|Oxford]].
+
+P.S. — Nel corso di questo lavoro ho consultato il “Liddell and Scott’s Larger Greek Lexicon”, il “Smith’s Dictionary of Antiquities”, il “Skeats’ Etymological Dictionary”, il “Le Dictionnaire Franco-Anglais, et Anglo-Français” di Boileau, i “Curtis’ English Synonyms”, il “Buffle on Punctuation” e molte altre fonti, le quali verranno menzionate nel testo.
+
+I. Introducitive
+
+Senza il minimo rimorso o pentimento, mi appresto a curare gli scarsi saggi, sermoni e discorsi inediti del mio caro amico scomparso, il signor Lambkin. Al contrario, provo la sensazione che il mio compito sia quello che risponde agli interessi più fondamentali di tutto il popolo inglese; man mano che il lavoro prendeva forma sotto le mie mani, ho avuto l’impressione di adempiere, con la dovuta umiltà, a un dovere nobile e importante. Ricordo che Lambkin stesso, in una delle ultime conversazioni che abbiamo avuto, disse con quella schiettezza che lo caratterizzava: “Il mondo non conosce i suoi più grandi uomini”. Questo commento profondo sugli affari umani fu, devo ammetterlo, scaturito da un errore presente sul [[settings/oxford|Oxford Herald]] riguardante me: il mio nome era stato scritto male in una descrizione di un evento pubblico. Anche se ne fui profondamente offeso, ho preferito, per un sentimento che spero sia comune a tutti noi, non fare alcuna menzione a quell’insulto.
+
+L'acuto occhio dell'amicizia e della simpatia, unito agli istinti di uno studioso e di un gentiluomo, percepì la mia irritazione; quella sera Lambkin pronunciò quelle parole memorabili che ho citato. Gli ringraziai calorosamente, ma se una lunga conoscenza gli aveva insegnato il mio carattere, allo stesso modo mi aveva fatto conoscere anche il suo. Conoscevo la reticenza e la modestia del mio collega, quella paura quasi morbosa che la [[concepts/vanity|vanità]] (un vizio che detestava) potesse essere attribuita a lui a causa dei doni eccezionali che non poteva ignorare o nascondere del tutto; e ero certo che le parole che aveva scelto per lenire il mio dolore riflettevano anche la sua stessa oscurità ingiustificata.
+
+Il mondo non sa nulla dei suoi più grandi uomini! Josiah Lambkin. Da quei cipresseti dell’aldilà che ci circondano nelle silenziose serate invernali, quando nemmeno il silenzio stesso può dissolvere i nostri pensieri. Ma tutto si allinea a ciò che la natura stessa ci invita costantemente a ricordare. Il tuo nome sarà conosciuto ovunque si parli l’inglese e i suoi vari dialetti. La grande Madre Onnipotente mi ha reso lo strumento umile per compiere questa missione; eseguirò il mio dovere nel modo che tu stesso avresti desiderato. In uno stile che, perdendo tutta la retorica superflua, elimina anche metà del male. Continuerò dritto per la mia strada, senza deviare né a destra né a sinistra, seguendo soltanto il vecchio e coraggioso modo inglese. Fino a quando non avrò completato il mio compito.
+
+Josiah Abraham Lambkin nacque il 19 gennaio 1843 a Bayswater da genitori benestanti e di buona educazione. Al momento della sua nascita, suo padre nutriva delle obiezioni riguardo alle grandi scuole pubbliche, motivazioni legate principalmente alle sue convinzioni religiose, che all’epoca erano in contrasto con i riti praticati da quelle istituzioni. Nonostante le vivaci proteste di sua madre (che aveva un legame di parentela remota, per parte materna, con la famiglia Crompton del Cheshire), il ragazzo trascorse i primi anni della sua vita sotto la guida competente di un insegnante nonconformista; in seguito frequentò l’accademia di Dr. Whortlebury a Highgate.
+
+Dei suoi giorni di scuola parlava sempre con una certa amarezza. Sembra che abbia sofferto molto a causa dei bullismo; il preside, sebbene umano, era un uomo diretto e poco adatto a comprendere la natura delicata della situazione con cui doveva confrontarsi. Una volta, quel ragazzo nervoso e sensibile ritenne necessario descrivere al preside il trattamento subito da parte di un altro ragazzo più giovane, più piccolo, ma molto più forte; l’unica risposta del pedagogo fu frustare Lambkin con un leggero bastone, “infliggendogli”, come mi disse una volta, “un dolore così intenso che avrebbe rimasto per sempre nella sua memoria”. Senza dubbio, questo insegnante riteneva di stargli “formando il carattere”, ma tale obiettivo non si poteva raggiungere con metodi brutali. Siamo fortunati che queste punizioni siano ormai quasi scomparse dai nostri seminari moderni.
+
+Quando Josiah aveva quindici anni, suo padre, essendo diventato molto ricco nel commercio, si trasferì a Eaton Square e acquistò una tenuta nel Surrey. La mente di quel mercante, sebbene rozza, era forte e acuta; inoltre, dopo lunghe e silenziose riflessioni su questioni religiose, egli divenne un fervente sostenitore di un sistema che in precedenza aveva disprezzato. Per questo motivo decise di mandare il ragazzo in una delle due grandi università; sebbene i cugini di secondo grado della signora Lambkin, i Crumpton, fossero tutti andati a Cambridge, alla fine fu scelta [[settings/oxford|Oxford]], poiché offriva maggiori opportunità sociali in quel periodo.
+
+Ecco dunque il giovane Lambkin, all’età di diciannove anni, vestito con eleganza ma sobriamente, e pieno di entusiasmo per la nuova vita che lo aspetta. È entrato al Burford College il 15 ottobre 1861; una data che, per una curiosa coincidenza, corrisponde esattamente a trentasei anni, quattro mesi e due giorni dal momento in cui sto scrivendo queste righe.
+
+Di tutta la sua carriera universitaria non c’è molto da dire. Chiamato dai suoi nemici “Il Burford Bounder” o “il sporco Lambkin”, riuscì comunque ad ottenere il rispetto di un piccolo ma selezionato gruppo di persone che lo chiamavano con il suo vero nome. Fu terzo classificato nel concorso per il premio Johnson in studi biblici, e senza dubbio avrebbe vinto (o sarebbe stato nominato) anche per il premio Newdigate, se non fosse stato messo di fronte a due uomini dotati di straordinari talenti poetici: l’attuale editore di “The Investor’s Sure Prophet” e il signor Hound, noto scrittore di argomenti legati alle “Statistiche alimentari”.
+
+Nell'estate del 1864 ottenne un ottimo risultato nel corso di studi di Seconda Classe e fu immediatamente eletto per una borsa di studio presso il Burford College. All’epoca non si sapeva che suo padre fosse diventato fallito a causa del fatto che aveva prestato ingenti somme di denaro ad un giovane erede senza alcuna garanzia, fidandosi della certezza che quest’ultimo avrebbe onorato i suoi debiti per rispetto al proprio nome e alla propria reputazione. Nel corso di questo disastro finanziario, la piccola dotazione ricevuta da Josiah fu davvero una manna dal cielo; senza di essa, sarebbe stato costretto a lavorare per guadagnarsi da vivere.
+
+Così come stavano le cose, i suoi strani poteri furono liberati per permettergli di pianificare la sua grande monografia sull’“Essere”, un'opera che, fino al giorno della sua morte, intendeva non solo scrivere ma anche pubblicare.
+
+Naturalmente, non ci furono alcun incidente degno di nota nei trent’anni in cui ricoprì quella carica. Svolse semplicemente i propri doveri nel modo più corretto, prendendo occasionalmente studenti sotto la sua guida e, dopo l’intervento della Commissione Reale, tenne persino lezioni nell’aula del college. Nel ottobre 1872 fu nominato Vicedirettore, nel 1876 Vicesegretario e nel 1880 Segretario, incarico che mantenne per il resto della sua vita.
+
+Nella sua veste di tale incarico, nessuna calunnia lo toccò mai; il suo carattere era irreprensibile. Non offrì mai né accettò compensazioni di alcun tipo, e nessuno ha mai insinuato che i suoi registri non fossero tenuti in modo accurato e rigoroso.
+
+Non si permise mai di candidarsi apertamente alla carica di Decano del Collegio, ma è sorprendente che abbia ricevuto un voto in ciascuna delle tre elezioni tenutesi nei vent’anni della sua permanenza lì.
+
+È morto serenamente poco dopo Hall, nella Notte di Gaudy dello scorso anno. Quando è stata annunciata la sua morte, un vecchio scout di novantadue anni, che aveva perso l'udito durante il suo servizio presso il College, scoppiò in lacrime e pregò che il nome venisse ripetuto più chiaramente, poiché non era riuscito a sentirlo. Dopo averlo sentito, asciugò gli occhi e disse di non aver mai conosciuto un maestro migliore.
+
+Penso che il suo carattere risulti abbastanza evidente nelle opere che pubblicherò. Era uno di quei gentiluomini nati per natura: riservato, giusto e pieno di autostima. Odiava le discussioni e faceva di tutto per evitare anche solo di scatenarne una. D'altra parte, era estremamente determinato a difendere i propri diritti legittimi, sebbene fosse generoso con i poveri meritevoli; lasciò in eredità una fortuna di trentacinquemila sterline.
+
+Nei difficili problemi che derivano dal rango superiore dei soggetti subordinati, dimostrò sempre grande tatto e giudizio. Non è sempre facile per un tutore controllare e guidare i membri più giovani dell’aristocrazia senza essere accusato da un lato di severità spietata e dall’altro di eccessiva ossequiosità. Lambkin, a suo onore, riuscì a guidare con energia e senza offese coloro dai quali dipende la grandezza dell’Inghilterra.
+
+Lui non era affatto uno snob; la presunzione non faceva parte di lui. D'altra parte, era altrettanto lontano da ciò che è quasi peggio dello snobismo: il terrore morboso della sottomissione che caratterizza alcune menti squilibrate.
+
+La sua posizione era la seguente: che siamo costretti ad ammettere la natura aristocratica della politica inglese e che, pur velandone opportunamente gli aspetti più grezzi, dovremmo godere appieno dei benefici che una tale costituzione offre alla società e a ciascuno di noi individualmente.
+
+Grazie al rispetto scrupoloso di tali regole, divenne uno dei più stimati tra coloro che, come studenti o genitori, ebbero l’opportunità di intraprendere una carriera accademica. Fu ospite e amico onorato del Duca di Cumberland, del Duca di Pembroke, del Duca di Limerick (“Mad Harry”) e del Duca di Lincoln; ebbe inoltre l’onore di conversare a lungo con il Duca di Berkshire, che incontrò su un omnibus a Piccadilly e riconobbe immediatamente. Possedeva lettere, ricevute o comunicazioni da non meno di quattro marchesi, un marchese, dieci baroni, sedici baronetti e centoventi gentiluomini di contea. Non devo dimenticare Lord Grumbletooth, che aveva avuto rapporti commerciali con suo padre e rimase per tutta la vita un amico sincero e devoto.
+
+Il suo modo di comportarsi nelle conversazioni informali non era meno notevole del suo solito savoir faire nella vita quotidiana. Un giorno, per caso, un personaggio reale stava pranzando nel salone. Erano trascorsi alcuni giorni dalla morte di Mr. Hooligan, il noto leader del movimento per l’Autonomia. Il distinto ospite, forse con una certa libertà, si rivolse a Lambkin e disse: “Beh, signor cassiere, che ne pensate di Hooligan?” Observammo un rispettovole silenzio, chiedendoci quale risposta avrebbe dato Lambkin in quelle circostanze difficili. La risposta fu inaspettata: “De mortuis nil nisi bonum”, disse lo studioso classico, e un mormorio di applausi si diffuse intorno al tavolo.
+
+Infatti, le sue opinioni politiche rappresentavano forse il tratto più notevole di una personalità davvero eccezionale. Morì convinto e fedele sostenitore del Partito Liberale Unionista; ciò era ancora più sorprendente, poiché tutti i suoi amici ritenevano che fosse un conservatore fino all’introduzione del famoso disegno di legge proposto da Lord Gladstone nel 1885.
+
+Nella delicata questione delle controversie religiose, sono i suoi stessi scritti a doverlo descrivere; inoltre, non intendo affrontare qui una questione che non ha assunto un'importanza pubblica significativa se non dopo la sua morte. Forse posso dire almeno questo: era un cristiano sincero nel vero senso della parola, non legato a formule ristrette, ma che seguiva con la massima attenzione il sistema di Seneca, arricchito dalle meditazioni di Marco Aurelio; tuttavia, non arrivò mai al punto di tentare di mettere in pratica ciò che quel estremo stoico aveva teorizzato.
+
+Né un ritualista né un seguace della Chiesa Bassa, esprimeva la propria posizione attraverso un silenzio profondo e significativo. Queste parole gli sfuggirono soltanto in un’unica occasione. Riflettiamoci bene su di esse nelle discussioni turbolente di oggi: “Medio tutissimus ibis.”
+
+La sua erudizione e il suo sapere, così profondi nelle lingue morte, venivano applicati con straordinaria abilità e gusto nella scelta che faceva degli autori moderni.
+
+Era ignorante di italiano, ma assai versato nei classici francesi, che leggeva attraverso le meravigliose traduzioni della “Half-crown Series”. La sua lettura principale riguardava le opere di Voltaire; tuttavia confessava di non trovare in esse alcun stile degno di nota, e soltanto oscenità blasfeme. Tra le lingue europee, preferiva leggere il tedesco, limitandosi principalmente alle opere di Lessing, Kant e Schiller. Questa abitudine conferì alla sua mente una vastità e una fertilità straordinarie; il suo stile risultava un po’ confusionario, ma le sue parole – poiché era in grado di conversare un po’ in quella lingua – erano arricchite da espressioni di profonda portata filosofica. Questo atteggiamento gli diede un ascendente particolare sui suoi studenti, i quali scambiavano le gutturalità tedesche per oscenità violente.
+
+Ecco l’uomo, ecco il gentiluomo: il vero “Hglaford”, il moderno “Godgebidden Eorldemanthingancanning”; i suoi pensieri più intimi verranno rivelati nelle pagine che seguono.
+
+II. Lambkin’s Newdigate
+
+Poema scritto per il “Newdigate Prize” in versi inglesi
+
+Il signor J. A. Lambkin del Burford College
+
+Nota: — I concorrenti sono tenuti a utilizzare esclusivamente i pentametri giambici eroici in rima, ma è consentita l’aggiunta di testi lirici.
+
+Argomento: “I benefici conferiti dalla scienza, in particolare in relazione alla luce elettrica”
+
+Per coloro che non desiderano leggere l’intero poema ma vogliono conoscerne i contenuti, allego i seguenti titoli.
+
+Invocazione alla Musa
+
+Salve! Felice Musa, tocca quella corda melodiosa!
+
+I benefici conferiti dalla Scienza, li esalto.
+
+Il suo tema: la luce elettrica e i suoi benefici
+
+Sotto la gentile guida degli esaminatori
+
+Solo ne scrivo quando sono collegati a qualcos’altro
+
+Titolo:  
+Con i vantaggi offerti dalla luce elettrica…
+
+Ci dona qualcosa; soprattutto di notte.
+
+Questi sono i miei temi; su di essi sorgerà la mia canzone.
+
+La mia testa orgogliosa toccherà il cielo
+
+E lacrime d’amore disperato bagnano gli occhi della fanciulla.
+
+Seconda Invocazione alla Musa
+
+Scendi, o Musa, dalla tua divina dimora.
+
+Osney
+
+A Osney, sulla strada delle Sette Ponti;
+
+Sotto l’ombra solitaria di Osney
+
+La maggior parte della lampada elettrica è già stata prodotta.
+
+Titolo:  
+Ecco le opere; da qui inizia il corso attuale degli eventi.
+
+Quale… (così recita il prospetto aziendale)
+
+Titolo:  
+Il potere delle opere lì
+
+Titolo: Fornisce agli iscritti informazioni orarie per orario
+
+Non meno di sedicimila candele di potenza,13
+
+Tutti a mille volt… (È essenziale)
+
+Mantenere il livello attuale a questo alto potenziale
+
+Nonostante le notevoli spese.
+
+Statistiche su di loro
+
+L’energia sviluppata rappresenta…
+
+In termini di piedotoni, le forze unite…
+
+Quindici elefanti e quaranta cavalli.
+
+Ma dovranno forse i miei dettagli scientifici essere esposti in questo modo?
+
+Tagliare via le adorabili ali del leggero Pegaso?
+
+Domande poetiche o retoriche
+
+Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
+
+Quelle pantaloni accentuano chiaramente il tono melodioso di Lyric, vero?
+
+Devo descrivere il complesso Dynamo?
+
+O scrivere qualcosa sul suo commutatore? No!
+
+Titolo:  
+Il tema cambia
+
+Verso campi più felici conduco la mia penna libera e spensierata
+
+Lo studio approfondito dell’umanità riguarda gli esseri umani stessi.
+
+Terza Invocazione alla Musa
+
+Risvegliati, mia Musa! Raffigura questa piacevole scena
+
+Questo ci porta nel luogo in cui producono la luce elettrica.
+
+Una fotografia dell’elettricista
+
+Ecco il elettricista dove si trova…
+
+Polvere di carbone, olio e ruggine sulle sue mani…
+
+Grandi macchie di grasso sporcano i suoi vestiti luridi.
+
+Mentre la sua conversazione è piena di imprecazioni.
+
+Dovrebbe davvero un essere del genere perire nella sua giovinezza?
+
+Ahimè, è davvero la tragica verità.
+
+“In quel cervello apatico, sotto quei capelli disordinati…”
+
+La familiarità ha generato disprezzo.
+
+Lo avvertiamo di quel gesto troppo tardi…
+
+Oh, crudele Giove! Oh, inflessibile Destino!
+
+La sua terribile sorte
+
+Un contatto casuale… un movimento imprudente di una mano…
+
+I Terminali – un lampo – un suono simile a “Zip!”
+
+Un odore di combustione riempie l’aria sorpresa…
+
+L’elettricista non c’è più!
+
+Cambia argomento
+
+Ma torniamo, con un vero disprezzo artistico…
+
+Da fatti funebri e da visioni desolate
+
+Nato da Erebo e dalla notte più oscura.14
+
+Quarta Invocazione alla Musa
+
+Risvegliati, Musa! e canta con accenti ricchi e vibranti
+
+Titolo:  
+I processi interessanti attraverso i quali…
+
+L'elettricità viene trasmessa lungo il circuito…
+
+Questi sono i miei temi; su di essi modulo la mia canzone.
+
+Descrizione del metodo mediante il quale viene utilizzato il Corrente
+
+Incapsulato nel legno o nella malta porosa
+
+Attraverso fili di rame spessi due millimetri
+
+E isolati nella loro pericolosa missione
+
+Con gomma indiana, seta o material sintetico…
+
+Titolo:  
+Qui si può operare con grande abilità critica
+
+La seguente domanda: “Che cos’è l’elettricità?”
+
+Difficoltà nel determinare la natura dell’elettricità
+
+“Attività molecolare”, dicono alcuni.
+
+Altri, quando interrogati, non dicono nulla e sono semplicemente stupidi.
+
+Qualunque ne sia la natura… questo è certo.
+
+Il rapido corso d’acqua si arrestò nel suo percorso.
+
+Bloccato nella sua corsa e fermato nel suo percorso15
+
+Si trasforma in calore e luce attraverso la sua forza latente:
+
+Conservazione dell’energia. Dimostrazioni di ciò: non sono necessari esperimenti
+
+Non c’è bisogno di un pedante sul podio dell’oratore
+
+Per dimostrare che lì sono presenti luce e calore.
+
+Il globo di vetro a forma di pera… capisco.
+
+Fa troppo caldo per poter toccare qualcosa con le mani.
+
+Mentre, come è evidente anche al più semplice osservatore…
+
+Il filamento di carbonio è molto luminoso.
+
+Dubbi sul sistema municipale, ma…
+
+Per quanto riguarda le luci che pendono per la città…
+
+Alcuni li lodano molto, altri li criticano aspramente.
+
+Questo sistema (chiamato tecnicamente “arco”)
+
+Rende alcuni passaggi troppo leggeri, altri troppo cupi.
+
+Nessuno in casa
+
+Ma nella casa, i raggi dolci e costanti…
+
+Ha sempre ricevuto consensi universali.
+
+I suoi vantaggi
+
+Ad esempio: se vuoi leggere a letto
+
+Nessuna candela brilla accanto alla tua testa, dietro le tende…
+
+Lontano da qualche angolo remoto della stanza
+
+La lampada ad incandescenza scaccia l’oscurità.
+
+Vantaggi della stampa in grandi dimensioni
+
+E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
+
+Le capacità visive di qualsiasi giovane occhio pieno di vigore.
+
+Quinta Invocazione alla Musa
+
+Arointa te, Musa! L’ispirazione fa cantare il poeta!
+
+Non posso fare a meno di osservare le cose che accadranno in futuro!
+
+L’unica speranza dell’umanità risiede nella scienza.
+
+La vita è una valle: i suoi sentieri sono oscuri e accidentati.
+
+Solo perché non sappiamo abbastanza.
+
+Quando la scienza ha scoperto qualcosa di ancora più grande
+
+Saremo più felici di quanto fossimo prima.
+
+Perorazione nello spirito del resto della poesia
+
+Evviva, Britannia, padrona dei mari azzurri!
+
+Diecimila flotte ti assalgono invano!
+
+Salve! Potente madre dei coraggiosi e liberi.
+
+Quel ritmo sconfisse Napoleone, e mi diede alla luce!
+
+Colui che può avvolgersi nel suo manto decorato di simboli
+
+Un quarto del globo abitabile.
+
+Le tue montagne, accarezzate da una brezza favorevole…
+
+Come imponenti colline resistono ai mari tempestosi.
+
+Avvertimento per la Gran Bretagna
+
+Tu sei una comunità cristiana… Eppure
+
+Non essere del tutto ingrato… né dimenticare
+
+Come esulti nella potenza imperiale…
+
+I benefici della luce elettrica.
+
+III. Alcune osservazioni sullo stile prosastico di Lambkin
+
+Nessun altro risultato ottenuto dal mio caro amico ha avuto un effetto maggiore dell’articolo in inglese che presentò all’esame. Il fatto che un giovane così giovane, e cresciuto in un ambiente del genere, fosse riuscito a scrivere un simile articolo era già sufficientemente notevole; ma il fatto che il suo lavoro dimostrasse una tale padronanza nella struttura, un equilibrio così delicato tra le idee e una conoscenza così vasta (nel vero senso della parola), unita a una comprensione sorprendente del carattere umano e della psicologia contemporanea, era davvero motivo di ammirazione. Fu proprio per questo che il allora direttore di Burford commentò: “Se queste cose” (disse l’anziano ma eminente religioso), “se queste cose vengono realizzate in un ambiente ancora poco maturo, cosa si potrà mai realizzare in futuro?”
+
+Si può davvero dire che la “Foresta Verde” degli anni iniziali di Lambkin come studente universitario sia stata degna di essere seguita dalla “Foresta Secca” dei suoi anni successivi, quando divenne membro del corpo docente e persino tutor, e addirittura rettore finanziario del suo college.
+
+Non è mia intenzione aggiungere molto alle impressioni personali del lettore riguardo a quest’opera straordinaria, né insistere eccessivamente sull’abilità e sulla profondità di analisi che sicuramente colpiranno qualsiasi persona intelligente, così come gran parte del pubblico. Tuttavia, mi si perdonerà se condivido alcune mie personali memorie nell’interpretazione di un’opera che, inevitabilmente, viene presentata attraverso il freddo mezzo della stampa.
+
+La scrittura di Lambkin era fluida e decisa, ma spesso difficile da leggere; questa caratteristica portò, negli ultimi anni della sua vita, alla famosa risposta data dal Vescovo Rurale di Henchthorp al Cappellano di Bower’s Hall. Il suo manoscritto, proprio come quello di Lord Byron (a differenza del famoso Codex V conservato in Vaticano), era noto per le numerose cancellature presenti; in alcuni punti si potevano vedere fino a tre cancellature sovrapposte l’una all’altra, disposte a gradini, perpendicolarmente alla linea di scrittura.
+
+Questa eccessiva meticolosità nell’uso delle parole fu la causa della sua produzione scritta relativamente scarsa; per questo motivo, l’articolo pubblicato qui sotto richiese quasi tre ore di lavoro. Le sue idee in merito furono meglio rappresentate dal suo breve epigramma riguardo all’uscita del grande lessico greco di Liddell e Scott. “Qualità, non quantità”: questa fu la frase spiritosa che si diceva che mormorasse quando ricevette la prima copia di quell’opera.
+
+La tensione nervosa derivante da tanta ansia riguardo al suo lavoro letterario logorava sia la mente che il corpo, ma ne ebbe la sua ricompensa. L’abilità accademica di ogni singola parte della frase, nonché la curiosa simmetria che si riscontra nell’intero saggio, sono frutto di una qualità che egli esercitò certamente fino all’eccesso, ma mai al di là del confine che separa il Giusto dall’Errato; ammiriamo il risultato finale ciò che potremmo criticare nel metodo utilizzato, e quando giudichiamo in veste di critici, siamo costretti, in quanto inglesi e appassionati, a congratularci e ad applaudire.
+
+Era d'accordo con Aristotele nel ritenere la chiarezza la principale virtù dello stile. E se a volte non riusciva a realizzare il proprio ideale in questo campo, l’oscurità derivava non da quei manierismi così deplorabili in autori come Meredith o Browning, ma piuttosto dal fatto che gli risultava molto difficile concludere una frase esattamente come l’aveva iniziata. La sua mente superava la capacità della sua penna; e quella frase tratta dal suo sermone all’università, “L’Inghilterra deve adempiere al proprio dovere. Altrimenti, quale sarà il risultato?” – per quanto commovente e patriottica – presenta sicuramente questo tipo di difetto, anche se non riesco esattamente a individuarne la causa.
+
+L’ossimoro, l’aposiopesi, il nominativo pendente, l’anacoluto e la zeugma li considerava con orrore, persino con terrore. Era un amico di ogni entusiasmo virile nella scrittura, ma un nemico della retorica, che (come diceva) “è insidiosa anche in un demagogo, e addirittura nauseabonda nell’uomo di lettere”. Faceva distinzione tra eloquenza e retorica, lodando spesso la prima e denunciando con grande fervore la seconda; anzi, era il suo passatempo preferito nelle conversazioni critiche: individuare con precisione il significato delle parole. Da giovane aveva l’abitudine di dividere gli infiniti o di concludere le frasi con preposizioni. Ma, sempre umile e disposto ad imparare, dopo aver letto i noti saggi della signora Griffin sul “Daily American”, decise di evitare tali pratiche in futuro; era davvero commovente vederlo, anche in età avanzata, con i suoi venerabili capelli bianchi che sfioravano il foglio mentre i suoi occhi deboli si avvicinavano attentamente alle pagine manoscritte, correggendo con cura le errori di quel genere al termine del suo lavoro quotidiano.
+
+Di solito utilizzava una punta in metallo dorato, montata su un supporto di avorio finto, ma non si lasciava limitare da dettagli banali; se necessario, poteva anche usare una penna d’oca o persino una penna stilografica, purché fosse della migliore qualità.
+
+Il foglio su cui scrisse l'opera che ci è rimasta era semplicemente un comune foglio di carta a righe utilizzato per gli affari; ma anche questo lo considerava del tutto insignificante. Ciò che contava davvero erano i contenuti delle sue scritture, e non (come spesso accade per persone meno importanti) i semplici dettagli legati all’uso della penna o della carta.
+
+Non ricordo molto altro riguardo al suo modo di scrivere, ma non dubito che questi dettagli abbiano il loro valore; infatti, le abitudini personali di un grande uomo possiedono un fascino tutto loro. Ho letto una volta che per la penna di Charles Dickens fu pagata la somma di cinquanta sterline. Mi chiedo quanto verrebbe offerto per una reliquia simile di un uomo meno noto, ma indirettamente molto più influente. Una reliquia che tengo con grande reverenza accanto a me; non la uso io stesso, anche se spesso mi mancano penne o matite, e di certo non permetto mai ai bambini di giocarci.
+
+Ma devo concludere, altrimenti rischierei di essere accusato di cadere in una retorica sentimentale e mi verrebbe detto che anch'io sto indulgendo nella stessa retorica che Lambkin aveva così severamente condannato.
+
+IV. Saggio di Lambkin sul “successo”
+
+Sul “successo”: le sue cause e i suoi risultati
+
+Difficoltà dell’argomento
+
+Nel affrontare un problema di questa natura, con tutte le sue anomalie e analogie, ci rendiamo immediatamente conto della difficoltà di formulare una stima accurata dei fattori necessari per risolvere tale problema, dato che tali fattori sono insiti proprio nei termini della domanda stessa. Tuttavia, forse sarà utile distinguere chiaramente la proposta che dobbiamo analizzare dalle altre simili; inoltre, come primo passo della nostra analisi, sarà opportuno fissare definitivamente i concetti e i termini di cui parleremo.
+
+Definizione di successo
+
+Il successo può essere definito come la realizzazione efficace di un tentativo, o più brevemente come l’attuazione di un bene desiderato. Poiché il successo implica sia il desiderio che l’azione volta ad ottenere quel bene, potremmo considerarlo anche come l’espressione concreta di un desiderio attraverso l’azione. Infatti, questa ultima definizione sembra essere nella sua interezza la più appropriata; tuttavia è evidente che, come in tutte le cose, sia impossibile raggiungere la perfezione. Pertanto, la nostra definizione più sicura sarà quella che si riveli nel complesso la più vicina alla media di centinaia di altre possibili definizioni, capaci di esprimere con maggiore o minore precisione l’idea che cerchiamo di descrivere.
+
+Finora è evidente che, sebbene possediamo un concetto visivo soggettivo abbastanza chiaro di ciò che sia il Successo, non saremo mai in grado di trasmettere agli altri, con molte parole, esattamente quale sia la nostra idea al riguardo.
+
+“Chi sono io?”
+
+, . . . .
+
+Un bambino che piange per la luce
+
+“Che non ha linguaggio se non un grido…”
+
+Metodo per affrontare i problemi
+
+È tuttavia di maggiore importanza pratica trovare un metodo che ci permetta, nel lungo periodo, di affrontare seriamente il problema che ci è stato posto. La nostra migliore opportunità per giungere a una soluzione risiede nel tentativo di dare una forma oggettiva a ciò che dobbiamo fare. A tal fine divideremo innanzitutto tutte le azioni in (א) azioni riuscite e (ב) azioni non riuscite. Queste due categorie sono al contempo reciprocamente esclusive e collettivamente universali: nulla di ciò che può essere veramente definito “riuscito” può allo stesso tempo essere considerato “non riuscito”; viceversa, se un’azione si conclude con un fallimento, è evidente che parlare di “successo” sarebbe solo un vano gioco di parole e una distrazione, il che rappresenterebbe comunque un errore fatale. Abbiamo quindi queste due categorie principali: ciò che vale per l’una vale, con alcune riserve, anche per l’altra, nella maggior parte dei casi (ne parleremo più avanti), e viceversa.
+
+(1) Riuscito.
+
+(2) Fallimento.
+
+Prima grande difficoltà
+
+Ma qui ci troviamo di fronte, fin dall’inizio della nostra indagine, a una difficoltà di enormi dimensioni. Non esiste un solo tipo di successo; ne esistono molti. Ci sono i successi del Filosofo, dello Scienziato, del Politico, dell’Argomentazione, del Comandante in Capo, di ciò che è Divino, dell’appetito animale privo di riflessione, e ancora molti altri. È evidente che, con un numero così vasto di categorie secondarie all’interno della nostra categoria principale, sarebbe impossibile giungere a conclusioni assolute o stabilire principi generali solidi. Finora abbiamo eretto una sorta di fondamento fondamentale, ma questa struttura solida verrebbe distrutta da ogni nuova forma, aspetto o realtà del successo che potesse esserci sfuggita alla nostra attenzione; quindi, dove ci troveremmo allora? È pertanto un problema in cui dobbiamo fare particolare attenzione a evitare generalizzazioni eccessive e dogmatismi affrettati. Dobbiamo abbandonare, qui come ovunque, i metodi deduttivi immorali e fallimentari inventati da preti e ciarlatani al fine di schiavizzare la mente umana, e limitarci a ciò che sappiamo con certezza. Alla fine di questo saggio riusciremo davvero a conoscere qualcosa riguardo al successo? Chi può dirlo. Ma almeno non inganniamoci con assiomi, affermazioni e dogmi che, in un certo senso, sono la rovina di molte persone; lasciamo da parte l’“a priori” e preferiamo ciò che è chiaro e evidente.
+
+Seconda difficoltà ancora maggiore
+
+Ma se il problema è complesso a causa della grande varietà dei diversi tipi di Successo, cosa dovremmo dire allora del disturbo introdotto da un nuovo aspetto della questione, al quale stiamo per fare riferimento? Ahimè. Un aspetto così diffuso nelle sue conseguenze, così importante e così pieno di minacce per tutta la filosofia, così carico di presagi e così pericoloso per l’umanità stessa, che esitiamo persino a menzionarlo! Il Successo non è sempre davvero Successo: il Fallimento è anch’esso un aspetto del Successo, e viceversa. Questo apparente paradosso si rivelerà vero se lo consideriamo attentamente. Infatti, in ogni caso, il “Successo” implica necessariamente il “Fallimento” o la “Non-riuscita” di ciò che gli è opposto o correlato. Quindi, se scommettiamo dieci sterline con un nostro amico, il nostro “Successo” diventa il suo “Fallimento”, e viceversa. Inoltre, se desideriamo fallire in qualcosa (ad esempio, chiunque vorrebbe evitare di essere impiccato, ), allora riuscire significa fallire, e fallire significa riuscire. Il nostro “successo” fallimentare diventerebbe un vero fallimento se si verificasse un risultato disastroso! E notate che lo stesso atto, non questo o quell’altro, ma ESATTAMENTE LO STESSO, può essere considerato un atto “di successo” o “di fallimento”, a seconda del modo in cui lo osserviamo. Quindi il Successo non solo può essere Fallimento, ma DEVE esserlo. E le due categorie su cui avevamo costruito tante speranze sono ormai scomparse per sempre!
+
+Considerazioni solenni derivanti da ciò
+
+Che pensiero terribile! Una cosa può essere allo stesso tempo sé stessa e non sé stessa, anzi, il proprio opposto! La mente vacilla; la debole vista umana, che si affaccia sul vasto abisso dell’infinito metafisico, si perde in un grido di pietà e trema ai confini dell’invisibile. Quante visioni di orrore e follia potrebbero attendere l’anima troppo audace che osa bussare alle Porte del Silenzio. Impariamo dall’Incomprensibile quanto sia piccolo e debole l’uomo!
+
+Un punto di vista più ottimista
+
+Ma sarebbe indegno di un filosofo abbandonare i propri sforzi a causa di qualche ostacolo iniziale. La grande mano del Tempo ci incita sempre ad “andare avanti”; e anche se non riusciamo a scoprire l’Assoluto entro i limiti di questo saggio, possiamo risorgere dalle ceneri delle nostre lacrime per raggiungere cose migliori e più felici.
+
+Il principio di una soluzione
+
+Sembra che ci stia illuminando una luce. Non arriveremo alla piena comprensione della realtà, ma vedremo “in modo vago e indiretto” ciò che, alla fine del nostro percorso di evoluzione, potrebbe forse essere rivelato più chiaramente a noi. È evidente che abbiamo sempre trattato di concetti relativi. Non possiamo comprendere come cose apparentemente assolute, come il fallimento o la vittoria, possano in realtà avere un carattere relativo; non riusciamo infatti a immaginare l’intero quadro nel quale Successo e Fallimento, positività e negatività, sì e no, verità e menzogne sono soltanto le lucide facce di un diamante indossato dal dito di qualcuno importante e ricco.
+
+Il nostro errore derivava da una sciocca autosufficienza e orgoglio. Pensavamo davvero che le nostre semplici concezioni umane di contraddizione fossero reali. Ci è stato concesso (sebbene siamo ancora solo esseri umani) di scoprire il nostro errore: non esistono caldo né freddo, luce né oscurità, bene né male; tutto, in un certo senso e entro determinati limiti (se posso esprimermi così), è soltanto un aspetto di qualcos’altro.
+
+In quel momento suonò la campanella e i documenti dovevano essere consegnati immediatamente. Tuttavia, Lambkin non poteva lasciare il suo lavoro senza aggiungere alcune parole per spiegare cosa avrebbe potuto fare se avesse avuto più tempo. Scrisse: —
+
+“Nessun tempo a disposizione. Avevo intenzione di fornire esempi: successo, ambito accademico, acrobazie, agricoltura, aristocrazia, bacilli, anche esempi legati alle culture yaroslavi, zenobidi, ecc. Ho esaminato casi storici, la visione di Biggar, l’unità, la coscienza universale, Amphodunissa, 22 settembre.”
+
+V. Lambkin sul sonno
+
+[Questo piccolo capolavoro fu scritto per la grande monografia sull’“Essere”, che Lambkin non ebbe mai il tempo di completare. Tuttavia, fu incluso nel suo piccolo volume di saggi intitolato “Rictus Almae Matris”. Le attente note a piè di pagina, l’ampia quantità di informazioni e l’accuratezza accademica dell’intero lavoro rappresentano un esempio – ahimè, l’unico – di ciò che la sua opera completa avrebbe potuto essere se fosse stata portata a termine. È senz’altro un esempio ammirevole del suo stile negli anni più maturi.]
+
+Nel sonno le nostre facoltà rimangono inattive. Non percepiamo nulla, o quasi nulla, di ciò che ci circonda; e più profondo è il nostro sonno, più assoluta diventa la barriera tra noi e il mondo esterno. Le cause di questa “Cessazione della Coscienza” (così l’ha definita con grande acume il professor M’Obvy) rimangono nascoste anche ai nostri fisiologi più eruditi. Un tempo ho avuto l’onore di incontrare il maestro delle scienze fisiche che ha reso famosa l’Università di Kreigenswald; gli ho chiesto quale fosse, a suo parere, la causa del sonno. Lui ha risposto, con quella reverenza che è la gloria della mente teutonica: “È un segreto prezioso, custodito dalla saggezza della Natura Madre.” Non ho mai dimenticato quelle parole sagge e profonde.
+
+Forse l'ipotesi più vicina alla vera natura del sonno può essere trovata nelle lezioni di un giovane studioso brillante, ma a volte troppo audace, che tutti noi ammiriamo quando tiene lezioni di Psicologia. “Il sonno”, dice lui, “è il prodotto diretto della sonnolenza cerebrale, la quale a sua volta deriva dal bisogno di riposo che ogni organismo deve provare dopo qualsiasi sforzo particolare”. Ero presente quando questa frase fu pronunciata, e non mi vergogno di ammettere che fui uno di coloro che applaudirono calorosamente il giovane oratore.
+
+Possiamo quindi affermare che la Scienza abbia quasi conquistato quest’ultimo baluardo dell’ignoranza e della superstizione.28
+
+Per quanto riguarda le Muse, sappiamo bene che il Sonno è da secoli il loro tema preferito. Ad eccezione di Catullo (le cui poesie sono state grandemente sopravvalutate e nel quale si parla sempre di persone che restano sveglie di notte), tutti gli antichi hanno menzionato e lodato questo innocente passatempo. Chiunque abbia compiuto grandi imprese ricorderà certamente il bellissimo passaggio in Lucrezio, ma forse quello di Sidonio Apollinare, l’elegante vescovo della Gallia, è meno conosciuto. Per quanto riguarda la nostra letteratura, va menzionato il sonetto che inizia con “Morire, addormentarsi, ”, e soprattutto quelle splendide strofe nelle quali Wordsworth raggiunge il suo livello più nobile.
+
+“È davvero piacevole addormentarsi…”
+
+Frasi che, per quanto mi riguarda, non riesco mai a leggere senza essere colpito dalla loro magica e sonnolenta influenza.32
+
+Tutti gli uomini grandi hanno dormito. Giorgio III dormiva spesso; anche quel grande e buon uomo, Wycliffe, aveva l’abitudine di leggere ogni sera le proprie traduzioni bibliche e i propri sermoni per ottenere l’effetto desiderato. Il Duca di Wellington (che mio padre chiamava “Il Duca di Ferro”) dormiva su un piccolo letto non più grande di quello di una persona comune.
+
+Per quanto riguarda le varie posizioni in cui si può dormire, ne parlo nel mio piccolo libro di prosa latina per scuole, che uscirà l’anno prossimo.35
+
+VI. I consigli di Lambkin ai nuovi studenti
+
+Il signor Lambkin, oltre ad altre grandi e gentili qualità, aveva l’abitudine di scrivere a suo nipote, Thomas Ezekiel Lambkin, che era entrato all’università come studente universitario quando suo zio ne era già membro da circa quattro anni. Tra le molte lettere scambiate, lui ne apprezzava particolarmente questa, che riporto qui di seguito a causa delle circostanze curiose e commoventi che l’hanno accompagnata. Alcuni mesi dopo che Thomas aveva ricevuto i suoi incarichi accademici ed era lasciato l’università, il signor Lambkin stava sfogliando alcuni libri in una libreria di seconda mano, non con l’intenzione di acquistarne qualcuno per arricchire la propria cultura. Era un’abitudine che aveva da tempo; mentre era immerso nella lettura di un romanzo scritto sotto lo pseudonimo di “Marie Corelli”, una lettera inviata molti anni prima cadde dalle pagine del libro. Era ancora dentro la sua busta originale, intatta; girando la pagina di guardia, vide il nome di suo nipote scritto sopra. Quel ragazzo aveva tenuto così a quel piccolo messaggio da inserirlo nel libro che preferiva!
+
+Lambkin fu così profondamente commosso da quell’episodio che decise di acquistare quel volume, chiedendo che il prezzo venisse addebitato sul suo conto, che all’epoca non esisteva ancora da molto tempo. Scrisse una lettera nella quale indicò che dovesse essere pubblicata “dopo la mia morte”. E io rispetto volentieri i desideri del mio amato amico.
+
+"My Dear Thomas,"
+
+“Eccoti finalmente a [[settings/oxford|Oxford]], e a Burford, un vero ‘uomo di Burford’. Quanto tua madre debba essere orgogliosa, e anche tuo padre. Ricordo bene che diceva: ‘Se non fosse un contabile, preferirebbe essere un membro del club di Burford piuttosto che qualsiasi altra cosa al mondo.’ Ma non è andata così.”
+
+“La vita nella quale state entrando è molto diversa da quella che avete lasciato alle vostre spalle. Quando eravate a scuola, eravate sottoposti a una disciplina rigorosa: vi veniva imposto di studiare i classici e di giocare a vari giochi. La pulizia e l’onestà venivano promosse attraverso punizioni, mentre le abitudini più istintive di decenza e buone maniere potevano essere acquisite solo attraverso uno sforzo costante. In altre parole, ‘eravate bambini e pensavate da bambini’.”
+
+Ora che tutto è cambiato, sei libero (entro certi limiti) di seguire i tuoi desideri, di renderti migliore o peggiore. Ma se utilizzi correttamente l’educazione offerta da [[settings/oxford|Oxford]], essa ti trasformerà, come ha già fatto con molti della tua stessa razza, in un vero gentiluomo.
+
+“Ma basta con queste generalità. È ora di passare a uno o due consigli concreti che spero riceverete con il giusto atteggiamento. Mio caro ragazzo, voglio che mettiate la vostra mano nella mia mentre vi parlo, non come zio, ma piuttosto come fratello maggiore. Promettetemi tre cose: primo, mai giocare d’azzardo in alcuna forma; secondo, mai bere nemmeno un bicchiere di vino dopo cena; terzo, mai acquistare nulla senza pagarlo in contanti. Se seguirete queste regole rigorose e le rispetterete fedelmente, dopo anni di impegno costante noterete sicuramente dei cambiamenti positivi nel vostro carattere: scoprirete con gioia di non aver perso né guadagnato denaro giocando d’azzardo, di non esservi mai ubriacati e di non avere debiti. Per quanto riguarda i primi due punti, posso solo dire che si tratta di questioni morali su cui tutti possiamo, e spesso facciamo, differire. Ma il terzo è di importanza vitale e pratica: l’ubriachezza occasionale dipende dalla valutazione personale; la sua giustezza o ingiustizia dipende dal nostro sistema etico. Tuttavia, i debiti sono fatali per qualsiasi speranza di successo nella vita pubblica.”
+
+“Esito un po’ ad affrontare un altro argomento; ma, posso dirlo? Farete del vostro meglio per evitare di bere alcolici puro nelle prime ore della mattina, soprattutto brandy? Certo, un governatore e un tutore, per quanto abili possano essere, inevitabilmente si allontana per simpatia dai giovani. Forse questa abitudine è ormai scomparsa; in tal caso non dirò altro. Ma ai miei tempi, era la rovina di molte giovani vite.”
+
+“Ora, per quanto riguarda la tua giornata e il suo svolgimento. Prima di tutto, alzati subito quando vieni chiamato, e vai immediatamente nel tuo bagno freddo, tu giovane mascalzone! Niente esitazioni: entra dentro e fai in modo che l’acqua non schizzi dappertutto, nel tentativo patetico di ingannare il tuo istruttore. Ma fai un vero e proprio bagno freddo britannico, da uomo. Il sapone va usato soltanto sulle mani e sul collo. Per quanto riguarda i bagni caldi. Non chiederli mai all’università: causerebbero solo problemi. È molto meglio farseli in città, per un penny. Niente è più rinfrescante di un buon bagno caldo durante il semestre invernale.”
+
+“Dopodiché puoi andare a ‘custodire’ una moschea, una sinagoga o un luogo di riunione dei fratelli; tuttavia, se riesci ad accordarti con il sistema in vigore, è molto meglio recarti nella cappella del tuo college: ciò ti mette nelle condizioni di rispettare i tuoi superiori e tu obbedisci così all’ordine apostolico.”
+
+“Poi arriva la colazione. Mangia quanto puoi; è la base di un buon lavoro nella vigna oggi. Ma cos’è questo? — una nota dal tuo tutore. Vai all’appuntamento fissato, e poiché potresti essere un po’ nervoso e timido, ti darò un piccolo esempio, per così dire, di come dovrebbe comportarsi un matricola al suo primo incontro con il tutore.”
+
+“[Lo studente entra e, mentre è ancora a metà strada dalla porta, dice:]”
+
+“Buongiorno! Avete notato cosa dicono i giornali su. [Qui menzionare un argomento importante dell’attualità.]”
+
+“Il tutore non risponde, ma continua a scrivere in un piccolo libro; alla fine alza lo sguardo e dice: — ”
+
+“Tut. Per favore, qual è il tuo nome?”
+
+“St. — M. or N.
+
+“Tut, — Cosa ha letto prima di salire, signor ⸺?”
+
+“St. Gli autori latini esistenti, da Ennio a Sidonio Apollinare, con i loro frammenti. Quelli greci, da Saffo a Origene, compreso Bacchilide.”
+
+[L’istitutore prende appunti su questo e prosegue, ]
+
+“Tutti. Avete letto i Vangeli?”
+
+“St. No, Signore.”
+
+“Tut. Devi leggerne due il prima possibile in greco, poiché è necessario per la comprensione della Divinità. A meno che non preferisca l’opera meravigliosa di Platone. Vieni alle dieci di domani. Buongiorno.”
+
+“St. Non sono abituato a essere parlato in quel modo.”
+
+[L’Insegnante si rivolgerà a un altro studente, e il primo studente lascerà la stanza.]
+
+“Non ho molto altro da dire. Presto imparerete le usanze di questo posto, e nessuna mia parola potrà avvertirvi efficacemente come potrebbe farlo l’esperienza. Indossate un cappotto nero prima dell’incontro e preparatevi a quel pasto con cura, ma senza esagerazioni. Non indossate il vostro cappello e la vostra toga nel pomeriggio; non mostrate né un rispetto eccessivo verso i giovani (ad eccezione del Cappellano), né un disprezzo sciocco per gli anziani. Il primo comportamento è quello di una persona timida e incerta: non è utile per il vostro futuro avanzamento e attirerà soltanto il disprezzo di tutti. Il secondo, invece, è destinato ad infastidire un gruppo di persone così raffinate come qualsiasi altro in Inghilterra e influenzerà negativamente la vostra reputazione nella società.”
+
+“In ogni college esiste un club che riunisce gli studenti più benestanti e quelli con posizioni di rilievo. Se possibile, iscriviti subito, prima che qualcuno ti conosca bene. Durante le riunioni settimanali parla in modo sobrio, ma senza presunzione; aggiungi occasionalmente battute umoristiche, ma evita espressioni volgari o di oltrepassare i limiti della decenza. Tali eccessi possono suscitare momentanee risate, ma alla fine distruggono ogni rispetto per la tua persona. Ricorda la moglie di Lot, ”
+
+“Certo che remerai. E mentre correrai verso il fiume dopo un pranzo affrettato e ti precipiterai per leggere un po’ prima dell’inizio delle lezioni, il tuo viso splenderà di soddisfazione al pensiero che ogni giorno della tua vita sarà così impegnato, per ben quattro anni.”
+
+“Di quei mali più gravi e volgari non ho bisogno di avvertirti: non darai denaro ai mendicanti per strada, né lo presterai ai tuoi amici. Non esporrai continuamente i tuoi pensieri privati, né aprirai il tuo cuore a chiunque incontri, con quell’entusiasmo superficiale che alcuni mostrano. No, mio caro Ezekiel, sarebbe indegno del tuo nome, e ti conosco troppo bene per temere che tu possa comportarti in quel modo. Sei un gentiluomo, e che tu possa, da vero gentiluomo, essere sempre a tuo agio, cortese quando necessario, ma mai familiare, questa è la sincera preghiera di, ”
+
+“Josiah Lambkin.”
+
+VII. La lezione di Lambkin sul “diritto”
+
+Dei risultati derivanti dalle lezioni del signor Lambkin, i più significativi e, oserei dire, i più duraturi sono quelli ottenuti grazie al suo corso di Etica. Il defunto decano di Heaving-on-the-Marsh (l’onorevole Albert Nathan-Merivale, il cui nome fu scelto in riferimento alla sua proprietà nel Rutland) mi disse una volta che, per la direzione mentale che aveva assunto nella vita, doveva più a quelle lezioni che a qualsiasi altra corsa di studi ricordasse.
+
+Un'idea più o meno simile mi fu espressa anche dal Vescovo di Humbury: circa un anno fa, si avvicinò a me nel salone con uno sguardo particolare negli occhi e, quando menzionai il nome di Lambkin, disse improvvisamente, come se lottasse con un'emozione: “Lambkin, non teneva lezioni nel vostro salone sull’Etica?” “Alcune sì,” risposi, “alcune nel salone stesso, altre nella Aula di Lezioni n. 2.” Il Vescovo non disse nulla, ma nei suoi occhi si leggevano molti pensieri e ricordi. Non possiamo forse – conoscendo le difficoltà del Vescovo in materia di fede e la sua vittoria finale – attribuire una parte di questa influenza progressiva e benefica al mio caro amico?
+
+Sul “diritto”
+
+[Lezione V di un corso composto da otto lezioni, tenuta nel semestre autunnale del 1878.]
+
+Abbiamo ormai percorso una notevole distanza nel nostro viaggio verso la Soluzione. Delle otto lezioni che avevo proposto come tappe fondamentali lungo questo percorso, ne abbiamo raggiunta la quinta, e ora siamo a una distanza misurabile dalla Grande Risposta: la comprensione delle relazioni tra il particolare e l’universale.
+
+È un compito facile, sebbene proficuo, vagabondare in ciò che il defunto Sir Reginald Hawke una volta definì, con una bellissima espressione, “i prati fioriti e i valloni boscosi della Conoscenza Positiva”. È proprio nell’essenza di qualsiasi metodo moderno di indagine che dobbiamo prima assicurarci dei fatti su cui ci basiamo; ed è per questo motivo che ogni ricerca filosofica degna di questo nome deve iniziare dalle scienze fisiche. Negli ultimi giorni ho arricchito le mie lezioni con esperimenti chimici e, occasionalmente, con grandi diagrammi a colori, i quali, soprattutto per giovani come voi, hanno contribuito notevolmente a rendere più interessante un argomento che al primo sguardo potrebbe sembrare molto noioso. È quindi con cuori felici e pieni di speranza, con occhi brillanti e grande entusiasmo che lasciamo l’ingresso della conoscenza attraverso le scienze fisiche per avvicinarci al delizioso banchetto della metafisica.
+
+Ma qui ci troviamo di fronte a una difficoltà. Finora abbiamo seguito un percorso di sviluppo storico: abbiamo studiato le azioni dei selvaggi e i gesti dei bambini piccoli; abbiamo indagato sulle abitudini delle persone che camminano nel sonno, e abbiamo tratto le nostre conclusioni dalle attitudini manifestate in particolari manie. Fino ad ora, quindi, ci siamo mossi su terreno sicuro: siamo partiti dal conosciuto per arrivare all’ignoto, e abbiamo correlato Psicologia, Sociologia, Anatomia, Morfologia, Fisiologia, Geografia e Teologia. (In questo momento, il signor Darkin di Vast, che da tempo soffriva di malattia, fu portato fuori in stato di incoscienza; il signor Lambkin, essendo miope, non comprese appieno ciò che era accaduto, e pensando che alcuni spettatori stessero lasciando la sala senza autorizzazione, si arrabbiò al massimo grado possibile per una persona del suo carattere. Tenne un breve discorso sul declino dei costumi morali e pronunciò alcune aspre epigramme. È giusto dire che, venuto a conoscenza della causa dell’interruzione, si pentì dell’espressione “cibo troppo forte per i bambini” che gli era sfuggita in quel momento.)
+
+Finora tutto va bene. Ma c’è ancora qualcosa da aggiungere. Nessuno può proseguire all’infinito nello studio dell’Etica senza imbattersi, prima o poi, nella concezione convenzionale di ciò che è giusto. Non intendo dire che questa concezione abbia alcun valore filosofico; sarei l’ultimo a fornirle quei fondamenti empirici e dogmatici che potrebbero soddisfare menti ristrette e deduttive. Ma essa esiste, e come persone pratiche dobbiamo affrontarla. Cos’è giusto? Da dove deriva questa strana combinazione di idealismo, misticismo, empirismo e fanatismo a cui è stato dato questo nome?
+
+È impossibile dirlo con certezza. Il compito dell’insegnante è quello di esporre la struttura della verità: in altre parole, di creare una “mappa” o un “piano” dell’Epistemologia. Non spetta a lui dimostrare un punto specifico, né è obbligato a contestare le posizioni degli avversari. Lasciamo che cadano da soli. È mio compito mostrare che le cose possono essere viste in questo o in quel modo; rifiuterò fermamente di coinvolgermi in argomentazioni sterili e discussioni infruttuose basate su semplici affermazioni.
+
+“L’involuzione della progressione rappresenta l’evoluzione subconscia di quella funzione specifica.” Nessun ragionatore serio potrebbe negarlo: si tratta della sintesi definitiva di tutto ciò che il concetto di “sviluppo” intende esprimere. È la formula fondamentale del XIX secolo, che purtroppo sta ora volgendo al termine sotto i nostri occhi. Ora, a questa proposizione fondamentale, ne aggiungo un’altra: “Il sentimento del giusto rappresenta l’inversione della funzione subconscia nel suo rapporto con l’ego indeterminato.” Anche questo concetto, credo, sia riconosciuto da tutti i filosofi europei, in Germania soprattutto. Tuttavia, non oserei affermare che una premessa principale assolutamente valida, seguita da una premessa secondaria altrettanto valida, porti necessariamente a una conclusione certa. Dio si manifesta in molti modi; ci sono molte più cose nel cielo e sulla terra di quanto possa immaginare la vostra filosofia. Ma prendo questa ipotesi con cautela: se queste due proposizioni sono vere (e abbiamo la parola di Herr Waldteufel, che vive in Woodstock Road, a confermarlo), allora ne consegue inevitabilmente che non è possibile raggiungere alcuna certezza in questi ambiti. Vi consiglio vivamente, su questo punto, di leggere l’articolo del defunto Dr. Barton pubblicato su “Shots at the Probable”; troverete anche il terzo capitolo della “Storia dell’anima” di Mr. Mendellsohn molto utile. Non dimenticate inoltre di consultare la nota a piè di pagina alla pagina 343 de “L’Anticristo” di Renan. Il libro del Maestro delle “Piccole Avventure ovvie” di San Dives è leggero e divertente, ma anche molto istruttivo.
+
+Esiste un certo tipo di atteggiamento (queste furono le parole conclusive di Lambkin, e ne era giustamente orgoglioso) che non distrugge nulla, ma crea molto; che trasforma senza subire metamorfosi, e che dice “Guardate questo: ho trovato la verità!”, ma che non osa dire “Allontanatevi da quello: è falso”.
+
+Ecco il nostro obiettivo. Cerchiamo di agire senza distruggere nulla; in questa difficile questione sull’origine del Diritto, adottiamo umilmente, come logici, quel nobile concetto anglo-sassone di “Dovrebbe”; ma come uomini pratici, perseguimolo con determinazione. Un principio del genere potrebbe essere il seguente:
+
+“Il diritto nasce dal nulla, non significa nulla e non conduce a nulla; con esso siamo nulla, ma senza di esso siamo peggio del nulla.”45
+
+Venerdì prossimo parlerò della morale nelle relazioni internazionali.
+
+VIII. La corrispondenza speciale di Lambkin
+
+LAMBKIN fu quasi il primo di quella grande schiera di docenti dell’Università di Oxford che, come corrispondenti speciali per i giornali, si recavano in luoghi difficili e persino pericolosi. Spesso parlava con entusiasmo dei vantaggi di questo sistema, e fu felice di vedere, man mano che invecchiava, diventava più ricco e più saggio, che altri seguivano le sue orme. “I giovani”, diceva, “hanno notato ciò che forse io fui il primo a comprendere: che la stampa è un potere reale, e che coloro che vengono pagati per educare non dovrebbero vergognarsi di essere remunerati anche per qualsiasi forma di insegnamento”. Tuttavia rimase sorpreso nel vedere con quale rapidità le lettere di un corrispondente potessero essere pubblicate in libro; scoprendo inoltre che tali opere venivano organizzate separatamente dagli editori e non appartenevano ai giornali stessi, esprimette con fermezza la sua condanna contro tale pratica.
+
+“Signore” (disse al Cappellano), “nei miei giovani anni avremmo disdegnato di inventare lavori fittizi, realizzati appositamente per un certo scopo, o di indossare abiti nuovi soltanto in cerca di ricchezza”; e devo rendere omaggio alla memoria di Lambkin dicendo che non guadagnò nemmeno un penny con il suo “Diario sulle Profondità”, nel quale, verso la fine della sua vita, raccolse le varie lettere che aveva scritto ai giornali, per lo più composte in mare.
+
+L’occasione che portò alla stesura della seguente lettera fu la disgustosa repressione da parte delle truppe italiane dei rivolti cattolici a Roma nel 1873. Gli inglesi di tutte le fazioni furono profondamente indignati alla notizia di tali atrocità. “Come nazione”, per citare il mio caro amico, “siamo lenti ad arrabbiarci, ma quando lo facciamo, la nostra rabbia è terribile”. E infatti era proprio così.
+
+Si tenne un grande incontro a Hampstead, durante il quale il signor Ram tenne il suo famoso discorso. “Non si tratta di una questione religiosa o nazionale, ma di dignità umana (disse), e se non esprimiamo liberamente la nostra solidarietà, se non inviamo corrispondenti per conoscere la verità, se non ci riuniamo pubblicamente per protestare, se non scriviamo, parliamo e leggiamo fino a quando le nostre forze non saranno esaurite, allora l’Inghilterra non sarà più l’Inghilterra di Cromwell e di Peel.”
+
+Un tale sentimento pubblico non poteva non raggiungere Lambkin. Ricordo che una notte venne da me nel mio studio e mi disse: “George (il mio nome è George), oggi ho ricevuto una lettera dal giornale di Mr. Solomon, ‘The Sunday Englishman’. Vogliono che vada a raccontare quanto accaduto in questa infame faccenda, e io andrò. Non provate nemmeno a dissuadermi. Tornerò – se Dio mi risparmia la vita – prima della fine delle vacanze. L’offerta è estremamente vantaggiosa sotto ogni aspetto: andrò in Inghilterra, per la causa della giustizia e per quella libertà di pensiero senza la quale non esiste vera religione. Perché, capite bene, anche se questi poveri disgraziati sono cattolici romani, io ritengo che ogni uomo debba avere giustizia. E il mio sangue ribolle dentro di me.”
+
+Mi strinse la mano con affetto, promettendomi di portarmi indietro delle fotografie dal Museo di Napoli.
+
+Se la lettera che segue sembra mancare di informazioni complete sull’esercito italiano e sulle sue azioni infami, se si osserva che sia scarsa e superficiale riguardo all’intero argomento dei disordini, ciò può essere spiegato dai semplici fatti che seguono.
+
+Quando Lambkin salpò, la Flotta Britannica aveva già occupato un porto profondo e comodo sulla costa dell’Apulia, e l’irritazione del pubblico era al suo apice; ma quando lui sbarcò, il Quirinale fu costretto a scusarsi, il Vaticano ricevette un risarcimento finanziario e le truppe piemontesi furono obbligate ad evacuare Roma.
+
+Quindi, al suo arrivo a Livorno47, trovò un telegramma del giornale che gli comunicava che i suoi servizi non erano più necessari, ma che gli impegni finanziari presi dai proprietari sarebbero stati rigorosamente rispettati.
+
+In parte soddisfatto, in parte deluso, Lambkin tornò a [[settings/oxford|Oxford]], portando con sé alcuni schizzi ottenuti lungo la strada da diversi artisti disposti a vendergli le loro opere. In seguito li appese nella sua stanza, non usando chiodi (che, come disse lui stesso, rovinavano il muro), ma un corrimano; i colori di quelle opere sono vivaci e piacevoli da vedere. Mi portò anche le fotografie che gli avevo chiesto, e ora sono appese nella mia camera da letto.
+
+Questo riassunto deve tenere conto della scarsità delle note che seguono, nonché del fatto che queste non siano mai state pubblicate.
+
+C’era qualche dubbio riguardo al fatto che alcune restrizioni menzionate nelle lettere di Mr. Lambkin potessero influenzare una delle nostre migliori famiglie. Finché non sono stato certo se l’eredità dovesse essere registrata come un ricavo o come una perdita, ho esitato a pubblicare queste informazioni. Mr. Lambkin non lasciò eredi, ma sicuramente si sarebbe pentito (se fosse ancora vivo) di qualsiasi riduzione della sua piccola fortuna.
+
+Sono felice di poter dire che la questione è stata risolta in modo soddisfacente, e che, sebbene tutte le parti ne abbiano tratto qualche vantaggio, nessuna ha subito perdite a seguito di tale accordo.
+
+Le Lettere
+
+S.S. Borgia, Gravesend
+
+Domenica 27 settembre 1873
+
+Qualsiasi rimorso potessi aver avuto nel spedire la mia prima lettera prima di lasciare il Tamigi, e in un giorno del genere, viene dissipato dalle emozioni scatenate dalle scene che ho appena vissuto.48
+
+Cosa può esserci di più meraviglioso di questo fiume storico? Tutto è buio, tranne nei punti in cui la luce elettrica sulla riva, le lanterne delle barche sul fiume, i lampioni a gas e il bagliore intenso della città dissipano l’oscurità. E sopra il fiume stesso, l’antico Tamigi, regna un profondo silenzio, interrotto soltanto dal fischio delle barche a remi, dai grugniti dei barcaioli e dalle allegre melodie suonate al banjo sotto la tettoia della nostra nave. Tutto è immobile, silenzioso e senza suoni: un profondo silenzio avvolge queste vaste acque. È notte.
+
+È notte e silenzio! Silenzio e notte. Le due cose primordiali. Mi chiedo se mai sia venuto in mente ai lettori del “Sunday Englishman” di attraversare i grandi mari, o di osservare nelle loro case tranquille il meraviglioso silenzio della notte. Capirebbero di cosa sono pieni i miei pensieri? Sono pieni di quei poveri Romani, insultati, interrogati e disturbati da una soldataglia brutale. E ho pensato a questo: noi che intraprendiamo missioni particolarmente pacifiche, che abbiamo solo il compito di scrivere mentre altri impugnano la spada, anche noi facciamo la nostra parte. Prego che arrivi presto il momento in cui si possa dichiarare un Protettorato inglese su Roma e che finisca il detestabile dominio dei barbari longobardi.
+
+Per chiunque abbia il sangue degli antichi vichinghi, esiste una sorta di fascinazione per il mare. La vite è moderna, ma la sua vibrazione ricorda esattamente il movimento di quelle aliene pagaie bianche che portarono i nordici sul campo di Senlac. Ora capisco come abbiamo osato e fatto tutto ciò. Questa notte potrei conquistare la Sicilia.
+
+Mentre camminavo avanti e indietro sul ponte, un ufficiale mi passò accanto e mi diede una calorosa pacca sulla spalla. Era il Primo Ufficiale. Un uomo ruvido, ma comunque un vero uomo. Mi chiese dove fossi diretto; dissi che andavo a Livorno. Poi mi domandò se avessi tutto ciò di cui avevo bisogno per il viaggio. A quanto pare, ero finito nella parte del ponte riservata ai passeggeri di seconda classe. Gli spiegai l’errore; rise di cuore e disse che non dovevamo litigare per una cosa del genere. Gli dissi che la sua nave sembrava davvero un “Saucy Lass”; lui rispose: “Va bene così”, mi chiese se sapessi giocare a “Turn-up Jack” e poi se ne andò. È su uomini come questi che si fonda la grandezza dell’Inghilterra.
+
+Beh, andrò a ritirare il mio orologio e scenderò sottocoperta; voi signori d’Inghilterra che leggete il “Sunday Englishman”, non sapete bene com’è la vita in mare aperto. Ma credo che, quando si tratta dell’amore per le acque azzurre, siamo tutti uguali.
+
+Pubblicato a Dover, lunedì 28 settembre 1873.
+
+Abbiamo abbandonato il progetto pilota. Non ho nulla di particolare da scrivere. Un viaggio in mare presenta una sorta di monotonia che deprime molto lo spirito. Ieri sera il mare era calmo, eppure stamattina mi sono svegliato con un senso di inquietudine a cui non ero più abituato. E che non dovrebbe affatto esserci in un uomo sano. Penso che anche le lievi oscillazioni della barca possano averci qualcosa a che fare, anche se la signora seduta accanto a me mi ha detto che si percepiscono solo sui piroscafi. Ha aggiunto che suo marito le aveva spiegato che si trattava “del odore dell’olio”. Ho suggerito che a colazione si possano parlare di altre cose.
+
+Il Primo Ufficiale siede all’estremità del nostro tavolo. Non so perché, ma a bordo di una nave mancano completamente le reazioni sociali tipiche. Un uomo è o un marinaio o un passeggero, e basta. Non esiste alcun rango fisso, e quella disciplina basata sulla pressione sociale sembra essere del tutto scomparsa. Questa mattina il Primo Ufficiale mi ha chiamato “Il Pastore”, e non ho potuto offendersi per questa familiarità. Ma non voleva certo fare del male; è davvero una brava persona.
+
+Dopo colazione, i miei pensieri continuavano a tornare su questa questione della persecuzione romana; e (non so come) alcune frasi continuavano a ripetersi letteralmente nella mia immaginazione, fino alla nausea. Queste frasi seguivano il ritmo del battito del vapore, una sensazione del tutto nuova. E la mia mente sembrava, come avrebbe detto il mio vecchio tutor, il signor Blurt, “funzionare in cerchio”. Il pilota sta per arrivare; non assomiglia affatto a un marinaio: è piccolo e pallido, indossa un cappello a cilindro e sembra più un impiegato di città che altro. Quando ho chiesto al primo ufficiale il motivo di questo comportamento, mi ha risposto: “Sono i cervelli a decidere”. Una dichiarazione davvero notevole, e piena di minacce per la nostra marina mercantile.
+
+Giovedì, 1 ottobre 1873.
+
+Non riesco a descrivere appieno la freschezza e la bellezza del mare dopo una tempesta. Non possiedo lo stile dei grandi maestri della prosa inglese, e mi manca quella capacità espressiva che spesso accompagna l’anima poetica.
+
+Le punte bianche dei pattini da curling sembrano avvicinarsi quando si guarda verso il lato ventoso, mentre se si guarda verso il lato levente pare che scappino via. C’è un’atmosfera di allegria nell’aria, dovuta al caldo del sud; e l’intero equipaggio è pieno di gioia, come mi hanno detto stamattina la signora Burton e sue figlie. Mi sento capace di qualsiasi cosa. Quando il primo ufficiale si è avvicinato a me stamattina cercando di provocarmi con le sue battute volgari, gli ho risposto chiaramente: “Ora, signore, ascoltate bene. Non soffro di mal di mare, non sono un principiante in materia marittima. Sono di nuovo in grado di gestire le situazioni in mare, e vi faccio sapere che ho tutta la forza necessaria per far sentire a chiunque mi attacchi l’effetto del mio pugno.”
+
+Si allontanò da me pieno di vergogna e chiese a un uomo di pulire i ponti. I passeggeri sembravano impegnati nelle loro varie attività, ma sentii di aver “vinto qualcosa” e mi ritirai nella mia cabina.
+
+Il mio steward mi ha parlato di un gruppo di rocce al largo della costa spagnola verso cui ci stiamo avvicinando; queste rocce vengono chiamate “Il Cimitero”. Se una persona riesce a rivolgere la propria mente alla Coscienza Universale e a uno Scopo Finale, tutte le paure sciocche perdono importanza. Non dirò mai che quell’incidente mi abbia influenzato negativamente, ma una donna o un bambino potrebbero esserne stati colpiti. E sicuramente i membri dell’equipaggio dovrebbero essere avvertiti di non dire sciocchezze ai passeggeri, i quali hanno bisogno di tutta la loro forza per affrontare il mare.
+
+Venerdì, 2 ottobre 1873.
+
+Oggi ho incontrato il Capitano. Sono salito sul ponte per parlare con lui; si chiama Arnssen. È emerso dalle file dei semplici marinai, poiché suo padre era un importante commerciante di abbigliamento a Copenaghen e anche membro del consiglio comunale. Vorrei poter dire lo stesso del Primo Ufficiale. Ma lui è il figlio disonorevole di una grande famiglia inglese, e sembra non provare alcuna vergogna. Arnssen e io saremmo diventati rapidamente buoni amici, se solo il suo tempo non fosse interamente dedicato alla gestione della nave. È proprio il tipo di persona che rappresenta la forza della nostra marina mercantile britannica. Spesso viene a passeggiare con me sul ponte; in quelle occasioni gli offro un sigaro, o a volte lo invito anche a bere vino con me. Mi dice che per il Capitano sia contrario alle regole offrire simili cortesie ai propri ospiti. Ma se mai mi troverò a Ernskjöldj, vicino a Copenaghen, e lui non sarà in viaggio, ricorderà sicuramente con gratitudine la mia gentilezza e me la ripagherà.
+
+Oggi ho detto al Capitano, mettendo una mano sulla sua spalla: “Signore, posso parlare con sincerità?” “Sì,” rispose lui, “certamente; e che Dio vi benedica per questo pensiero gentile.” “Signore,” continuai, “voi siete un uomo forte, silenzioso e timorato di Dio. Il mio cuore è con voi, nient’altro.” Lui rimase in silenzio e salì sul ponte; ma quando cercai di seguirlo, mi assicurò che non era permesso.
+
+Più tardi quel giorno gli chiesi cosa ne pensasse dei problemi che stavano sorgendo a Roma. Lui rispose: “Oh! Basta che si sfidino a duello e la questione sia risolta.” Era una risposta tipica di un marinaio spavaldo, ma non è forse ciò che l’Inghilterra avrebbe detto nei suoi momenti più gloriosi? Non è forse proprio questo lo spirito di un Chatham?
+
+Non parlo più con il Primo Ufficiale. Ma tra pochi giorni riuscirò a dimenticarlo del tutto, quindi non mi soffermerò sulla sua insolenza.
+
+Leghorn, 5 ottobre 1873.
+
+Ecco la fine di tutto. Non ho più nulla da dire. Ritengo che il pubblico non abbia bisogno dei miei servizi, e che l’Inghilterra abbia subito una sconfitta disastrosa. La flotta si è ritirata dall’Apulia. L’Inghilterra – che la posterità lo ricordi – non possiede nemmeno un pollice di terra in tutta la penisola italiana. Beh, siamo stati sconfitti e dobbiamo aspettare il momento giusto; ma voglio dire una cosa: se quel giovane arrogante, il Primo Ufficiale, pensa che la sua famiglia possa proteggerlo, si sbaglia. La stampa è un potere enorme, e mai così grande come quando (come in Inghilterra) professori universitari o le classi superiori scrivono per i giornali, e quando il segreto delle loro identità permette a talento e posizione di esercitare tutto il loro peso.
+
+IX. L’allocuzione di Lambkin alla Lega del Progresso
+
+TUTTI RAMINERANNO quell’importante incontro delle “Higher Spinsters” del 1868: un gruppo fino ad allora interamente volontario nella sua organizzazione, che si era impegnato a portare nelle case dei poveri e degli sfortunati ciò che caratterizza i quartieri residenziali delle nostre grandi città. Se oggi Whitechapel è più degradata di quanto non lo fosse trent’anni fa, non dobbiamo trascurare del tutto gli sforzi compiuti in passato dalle “Higher Spinsters”. Ognuna di loro ha lavorato con impegno nel proprio ambito, e anche dopo la morte non vi furono divisioni tra di loro.
+
+Tuttavia, il momento in cui queste loro concezioni embrionali assunsero una forma concreta non arrivò fino al 1868. Fu durante la conferenza tenutasi a Burford quell’estate che, come si legge nel loro eloquente comunicato, “le idee furono discusse e le opinioni espresse che ci hanno reso ciò che siamo oggi”. In altre parole, le organizzazioni delle “Higher Spinsters” furono integrate nella nuova e più ampia società della Lega del Progresso. Quanto abbia fatto la Lega del Progresso, il suo riconoscimento ufficiale da parte del Consiglio della Contea, le somme versate ai suoi organizzatori e collaboratori non è necessario descriverle qui; basta dire che, come tutti i nostri grandi movimenti, fu un’iniziativa spontanea della classe media superiore, si rivolgeva principalmente agli artigiani, desiderando elevarli al proprio livello, e ha avuto successo a tal punto da contare oggi quarantatré “Cloisters” nelle nostre grandi città, ognuno con il proprio Gran Maestro, la propria amministrazione, il proprio consiglio di cittadini progressisti e i propri membri laici; tutto ciò è finanziato interamente attraverso contributi volontari, fatta eccezione per quella parte dei ricavi provenienti dai fondi pubblici.
+
+L’argomento della Conferenza, dal quale sarebbero derivate molte importanti conseguenze, era “I sintomi terziari dell’istruzione secondaria tra i poveri”.
+
+Si ascoltarono opinioni su questa questione da ogni possibile punto di vista; persone di diverse convinzioni religiose, dallo scienziato agnostico al persiano zoroastriano, contribuirono a rendere questo argomento ancora più interessante e complesso. Il suo aspetto chimico fu descritto in modo eccellente (con esperimenti) da Sir Julius Wobble, l’Astronomo Reale, mentre i suoi risvolti teologici furono analizzati dal “Reader in Burmesan”.
+
+Lambkin era noto soprattutto per l’eloquenza semplice e chiara con cui riusciva a esprimere le concezioni più complesse e confuse. Fu proprio per questo che gli fu chiesto di tenere il discorso di chiusura con cui si concludevano i lavori.
+
+Prima di recitarlo, devo intrattenere il lettore con un’ottima aneddota relativa a questa occasione: un passaggio degno dell’evento e dell’uomo che lo ha compiuto. Lambkin (come non c’è bisogno di dire) era completamente immerso nel suo argomento, entusiasta e concentrato al massimo. Non gli passò nemmeno per la mente l’idea di trarne un profitto; inoltre, non era il tipo di persona che avrebbe chiesto un compenso se non fosse stato convinto che gli spettasse. Tuttavia, sarebbe stato impossibile lasciare senza ricompensa un lavoro del genere. Le autorità decisero quindi di pagarlo con una somma tratta dalle tariffe pagate dai visitatori per ammirare i laghetti dei pesci del college; l’uso medievale di questi laghetti in epoca monastica fu spiegato in modo accessibile da qualcuno che non verrà nominato, ma che fornì il proprio contributo gratuitamente.
+
+Dopo la loro partenza, il signor Large entrò nella stanza di Lambkin con una busta, desiderando aggiungere un tocco personale a un compito piacevole, e disse:
+
+“Mi fa grande piacere, mio caro Lambkin, presentarti questa banconota come un piccolo riconoscimento dei tuoi servizi durante la conferenza.”
+
+“Lambkin rispose immediatamente con:…”
+
+“Mio caro Large, sarò davvero scontento se considererai quel semplice compito piacevole così prezioso da valere dieci sterline.”
+
+In realtà non era affatto così. Quando Lambkin aprì la scatola (dopo aver aspettato con grande cortesia che il suo visitatore lasciasse la stanza), vi trovò soltanto cinque sterline. Ma notate ciò che segue: Lambkin non ne parlò mai con nessuno, né criticò in alcun modo le future azioni di Large, tranne nei casi in cui riteneva che il suo collega fosse davvero colpevole. Nel corso degli anni in cui continuarono a incontrarsi, la moderazione e il rispetto di sé di Lambkin lo evitarono dall’usare armi ignobili, sia quelle della parola che quelle della penna. Fu una lezione di ironia da gentiluomo vedere mio amico assumere un posto superiore a quello di Large alla tavola durante quei giorni difficili che seguirono.
+
+L’indirizzo
+
+Carissimi amici,
+
+Tenterò di esporvi, con poche parole semplici ma spero ben scelte, le opinioni di un uomo comune su questo importante argomento che oggi ci occupa. Farò del mio meglio per evitare qualsiasi offesa personale, ma non esiterò a utilizzare parole dure, se necessario; è infatti dovere di ogni pastore, qualunque sia la sua posizione. Ricordo un caro amico defunto che non avrebbe voluto che si facesse il nome suo pubblicamente, ma che forse riconoscerete nel fondatore e costruttore della nuova cattedrale di Isaacsville in Canada54. Mi ricorda di avermi detto, con uno scintillio malizioso negli occhi tipico degli uomini liberi dell’Ovest: “Lambkin”, disse, “vorresti sapere come ho fatto a guadagnare una grande fortuna in soli tre mesi e come abbia raggiunto tale dignità ed onore? È stato seguendo questo semplice principio che mia madre mi insegnò nella rozza capanna di legno dove sono nato: ‘Sii cortese con tutti gli sconosciuti, ma non diventare troppo intimo con nessuno.’”57
+
+Amici miei, non siete estranei; anzi, in questa solenne occasione credo di potervi chiamare amici, persino fratelli! Carissimi fratelli e sorelle! Ma un piccolo uccellino mi ha detto, (Un sorriso cordiale apparve sul suo volto mentre beveva un sorso d’acqua fredda da un bicchiere accanto a lui.) Un piccolo uccellino mi ha detto che alcuni di voi temevano qualche parola dura, forse una rimprovera o un avvertimento riguardo al pericolo. Nel migliore dei casi, un atteggiamento scettico riguardo al futuro. Non temete nulla: seguirò una strada molto diversa. E per quanto possa essere cortese, non indulgerò in alcuna familiarità.
+
+“I sintomi terziari dell’Istruzione Secondaria tra i poveri” è una frase nobile che esprime un’idea altrettanto nobile. Tuttavia, le parole stesse sono tratte dalla nostra lingua madre anglo-sassone e abilmente mescolate con alcune espressioni prese dalla lingua morta dell’antica Grecia e Roma.
+
+Che cos'è l'Istruzione? L'etimologia della parola fornisce una risposta a questa domanda. Deriva da “e”, che significa “fuori da”, da “duc-o”, che vuol dire “guido”, dalla radice “Duc” – che indica guidare, governare (da qui derivano molte delle nostre parole più importanti, come “Duca”; “Duck” = un maschio anatreo, ecc.) e infine dal suffisso “-tio”, che corrisponde al termine inglese “-ishness”. Possiamo quindi esprimere l'intera definizione in termini semplici così: “Le tre manifestazioni di una duplice natura guidata verso qualcosa di esterno, rivolte alle persone bisognose”.
+
+I Poveri! I Bisognosi! Terribili parole. È davvero vero che li abbiamo sempre con noi. Una delle nostre particolari glorie nell’Inghilterra del XIX secolo è il fatto che noi, appartenenti alle classi superiori, abbiamo pienamente riconosciuto la nostra pesante responsabilità nei confronti dei nostri concittadini più deboli. Non attraverso rivoluzioni, che sono pericolose e vane; non attraverso leggi eroiche o folli progetti di soluzioni universali; né attraverso utopie effimere. No! Solo attraverso un lavoro duro e costante, uno sforzo silenzioso e perseverante, con quella tenacia lenta ma inesorabile che ci ha permesso di vincere a Badajoz, abbiamo ottenuto questa grande vittoria sociale. E se qualcuno mi chiedesse quale sia il risultato, gli risponderei: andate a Bolton, andate a Manchester, andate a Liverpool. Andate a Hull o Halifax. La risposta è lì.
+
+Esistono molti modi in cui questo nobile lavoro può essere portato avanti. La vita è una gemma dalle molteplici facce: alcuni dei miei amici trovano rifugio nella preghiera, altri hanno aderito alle organizzazioni di carità, mentre altri ancora hanno contribuito in modo meno appariscente ma altrettanto efficace scrivendo libri sulla statistica sociale che godono di una vasta diffusione. Tu hai scelto la strada dell’educazione, e l’hai fatto bene. Mostratemi un minatore o un portuale che partecipi alle lezioni su Rossetti, e vi mostrerò un uomo. Mostratemi sua moglie o sua figlia in una scuola di cucina o impegnate nella lavorazione a maglia, e vi mostrerò una donna. Un uomo e una donna, pensiero solenne!
+
+Un vero e proprio scopo nobile, uno che può occupare l’intera vita di un uomo! Questa “istruzione”, questo processo di “guida e formazione”, rappresenta l’essenza della nostra esistenza qui a [[settings/oxford|Oxford]], tranne durante le vacanze. E quale effetto ha davvero! Lasciate che ve lo dimostri con un breve esempio.
+
+In una misera locanda a Lafayette, nel Pennsylvania, Stati Uniti d’America, tre uomini ben istruiti del New England, caduti in tempi difficili, erano seduti attorno a un tavolo insieme a due irlandesi ignoranti e superstiziosi. Questi ultimi, approfittando del loro numero, non esitarono a chiamare quegli sfortunati silenziosi e gentiluomini “miserabili idioti”; ma ascoltate il seguito. Durante la notte scoppiò un incendio. La casa era piena di irlandesi e, ancora di più, di italiani repellenti. Alcuni furono consumati dalle fiamme, altri morirono nell’incendio, altri ancora salvarono la vita fuggendo in modo codardo. Ma che ne fu di quei tre del Massachusetts, guidati da principi migliori fin da giovani e per i quali la filosofia aveva sostituito l’astuzia meschina dei preti? Furono trovati, seduti tranquillamente attorno al tavolo; non si erano mossi; nessuna passione li aveva accecati, nessun panico li aveva turbati: sui loro volti carbonizzati non c’era traccia di terrore. Ecco l’effetto, ecco la gloria di ciò che il mio defunto maestro e guida, il Professore di Tautologia, chiamava “il Principio della Sopravvivenza del Più Adatto”.
+
+(Applausi, che furono accettati soltanto in segno di rispetto per il Sacro edificio.)
+
+Allora andate avanti! Ancora una volta vi dico: andate avanti! Il momento è vicino in cui l’Inghilterra comprenderà che le vostre richieste di rispetto, riconoscimento e remunerazione sono uguali alle nostre. Lo ripeto: andate avanti, e quando riuscirete a far cambiare opinione alla maggior parte delle famiglie, allora davvero trasformerete il mondo! Perché senza la mente, l’intelligenza umana non è nulla.
+
+Il leader di Lambkin
+
+Il signor Solomon era sempre determinato a mantenere il livello di qualità del “Sunday Englishman”. “Lo dobbiamo” – diceva – “prima di tutto al pubblico che ne trae beneficio, e poi a noi stessi, poiché questo ci garantisce una circolazione sempre maggiore”. Con “noi stessi” si riferiva agli azionisti, poiché il “Sunday Englishman” era una società a responsabilità limitata le cui azioni (di cui il signor Solomon possedeva la maggioranza) venivano distribuite all’interno della famiglia; persino il più piccolo bambino di due anni riceveva una quota dalle sue genitori, che lo trattavano con affetto e generosità.
+
+In questo lodevole sforzo di “tenersi al passo con i tempi” (come egli stesso lo esprimeva), l’Editore e co-proprietario decise di far scrivere gli articoli da persone universitarie, che, grazie alla loro posizione privilegiata, possedevano un’esperienza unica in materia pratica. Aveva una grande stima delle capacità giornalistiche di Lambkin, basandosi sulle sue lettere inedite come corrispondente speciale. Infatti, si diceva spesso che “un uomo del genere era sprecato a [[settings/oxford|Oxford]]; era nato per Fleet Street”. Pertanto scrisse a Lambkin dando a lui “carta bianca”, indicandogli soltanto le linee generali: l’articolo doveva essere “intelligente, aggiornato e pieno di energia”; non troppo lungo né troppo breve; scritto in un tono semplice e familiare, ma senza contenuti seriamente offensivi.
+
+Il signor Lambkin fu molto felice; e quando, su sua richiesta, l’articolo fu pagato, inviò quanto segue:
+
+Il Leader.
+
+“La razza di lingua inglese possiede – se escludiamo gli elementi olandesi, neri e irlandesi – un talento straordinario per l’autogoverno. Dalle origini più remote dei nostri antenati anglosassoni fino ai consigli parrocchiali di oggi, guidati ma non controllati dal moderno ‘Mass Thegen’ o dal ‘Gesithcund man’ locale, questo talento, o meglio questo genio, è evidente. Non possiamo spiegare perché, negli inscrutabili disegni della Provvidenza, la nostra razza sia stata così particolarmente dotata; ma è certo che ovunque uomini comuni come me, che scrivo queste parole, e voi, che le leggete, si trovino, essi sono in grado di far fiorire il deserto e far sgorgare l’acqua dalla roccia viva. Chi non ha conosciuto, tra le persone che frequenta o attraverso i libri, quel tipo di uomo che costituisce la forza di questo potente organismo nazionale? E chi non si è sentito, a sua volta, parte di quella stessa forza? Restiamo sbalorditi dal nostro stesso potere straordinario; ed è stato detto con grande acume che Nelson era più grande di quanto lui stesso sapesse. Dall’uno all’altro capo della terra si parla e si comprende la lingua inglese. Le stesse parole che sto scrivendo verranno lette domani a Londra, il giorno dopo a Oxford. E da lì non è che un passo fino alle estremità più remote del mondo.”
+
+“In queste condizioni di potere, splendore e dominio, è intollerabile che la vasta metropoli di questo gigantesco impero venga infastidita da questi taxi striscianti. Infatti, ci sono molte cose nel piano divino che per loro natura devono strisciare. Noi, tra tutte le razze umane, siamo i più disposti ad ammettere il dominio della legge universale. Le razze inferiori non conoscono questa legge, ma noi ne siamo i figli; dove lo strisciare fa parte del Cosmo, ci sottomettiamo come veri uomini, armati dell’armatura della rettitudine. Per questo motivo, nessun inglese (per quanto possano pensarla diversamente gli stranieri) si offende di fronte a un insetto o a un verme che striscia. Un coniglio ferito striscerà; leggiamo infatti che ‘il serpente fu maledetto e dovette strisciare sul proprio ventre’; inoltre, Aristotele nella sua Etica parla di coloro la cui natura è ‘ἕρπειν’, termine solitamente tradotto con ‘strisciare’. E Kipling parla delle cornamuse che ‘strisciano’. Con tutto ciò, non abbiamo nulla in contrario a queste cose; ma il taxi strisciante è qualcosa di disgustoso e abominabile. Se i proprietari di questi mezzi non prestano attenzione in tempo, scopriranno che lo spirito di Cromwell non è ancora morto. Forse allora il popolo pacifico e risoluto di questo regno si alzerà per scacciare loro, insieme alle loro decorazioni vistose, ai loro cavalli arroganti e ai loro servitori obbedienti, dal bel volto dell’Inghilterra.”
+
+XI. I commenti di Lambkin sulla fine del semestre
+
+Distribuito in aula sabato 6 dicembre 1887, la mattina stessa in cui il college andò in rovina.
+
+Cari amici miei, cari studenti universitari di questo college…
+
+La fine del semestre si avvicina, anzi, è già arrivata. Tra poco non ci vedremo per sei settimane intere. È un pensiero solenne e sacro. Non è la tristezza, né tantomeno il rimpianto, a colpirci all’inizio delle lunghe vacanze. Questa non è una separazione definitiva. Non perdiamo (spero) amici; nessuno ci lascia per sempre, a meno che non mi riferisca a quel giovane di cui pochi di voi conoscevano l’esistenza, ma a causa della cui follia criminale il responsabile di questa fondazione ha perso l’uso di un occhio.
+
+Questo non è un momento di esultanza, quindi non dovrebbe nemmeno essere un momento di lutto troppo assoluto. Non si tratta della fine del semestre di Pasqua, né di quello estivo. Si tratta della fine del semestre di San Michele. Questa è la realtà, e i fatti devono essere affrontati con onestà. Cosa dobbiamo fare riguardo alle vacanze imminenti? E cosa abbiamo fatto durante il semestre appena trascorso?
+
+Nel semestre scorso (credo di poter rispondere per alcuni di voi), un significato molto più profondo è entrato nelle vostre vite. Soprattutto voi, giovani matricole. Fortunatamente ho avuto l’opportunità di guidare molti di voi, di insegnare ad altri. So che la vostra vita è diventata più ricca di significati. Quell’ora e mezza alla settimana, a cui prestavate così poca attenzione, avrà un grande valore negli anni futuri. Siete venuti da me in gruppi, per quell’ora e mezza ogni settimana. E ognuno di voi ha potuto, collettivamente, iniziare quel processo di formazione personale e di sviluppo del carattere che rappresenta l’obiettivo principale di tutti i nostri sforzi qui a [[settings/oxford|Oxford]]. Non riuscite forse, guardando indietro, a vedere quanto grande sia stato il cambiamento che avete vissuto in questi pochi mesi? Non intendo parlare dei cambiamenti fisici causati dal clima o dalle nostre abitudini alimentari. Né alludo ai cambiamenti nel vostro abbigliamento o nell’aspetto esteriore. Mi riferisco alla trasformazione mentale che avete subito.
+
+Siete arrivati convinti di molte cose che avevate imparato a scuola o dalle vostre madri. Di cosa siete certi ora? Di nulla! Nel misterioso processo dell’educazione, è necessario che questa fede cieca o questa certezza vengano poste come fondamento nella giovinezza. Ma è altrettanto indispensabile che un uomo – se vuole essere un uomo e non un mostro – le perda fin dall’inizio della sua vita. Miei giovani amici, vi ho dato la “perla di grande valore”. Avete iniziato a dubitare.
+
+Mezz’ora a settimana – quattro ore in tutto il semestre. In quel lasso di tempo, o con tale intensità, sarebbe stato possibile trasmettere qualche insegnamento positivo, empirico o dogmatico? Credo di no.
+
+Ecco dunque cosa si può dire riguardo alla conoscenza e all’insegnamento. E che dire della morale? È un argomento delicato, ma ne parlerò con coraggio. Ricordate tutti come, poco dopo il mese di ottobre, il College abbia celebrato la Giornata di Guy Fawkes: gli studenti più anziani con una cena in onore del loro fondatore, quelli più giovani accendendo un falò nel cortile. Tutti conoscete ciò che è successo dopo. Non desidero più tornare sull’argomento – certamente non con amarezza – ma la perdita della vista è una cosa grave; una colpa che la vittima potrà anche perdonare, ma difficilmente dimenticare. Spero che questa lezione sia sufficiente, e che in futuro nessun studente di questo College debba più pentirsi di un simile evento così grave.
+
+Passiamo ora a cose più leggere. Il “Concerto del Fumo” nel Giorno dei Morti è stato un grande successo. Speravo di organizzare qualcosa di simile in Venerdì Santo, ma si trova proprio durante le vacanze di Pasqua. Tuttavia, rappresenta un ottimo precedente, e sicuramente ne organizzeremo un altro in un’altra occasione festiva. Non intendo menzionare l’azione di uno dei nostri membri meno responsabili. Ma certamente non c’è né buone maniere né decenza nel travestirsi da vecchia signora, nell’assumere il nome di una delle nostre famiglie più nobili, e nel sfruttare in questo modo la cavalleria – e forse anche la devozione – dei propri superiori. Questo comportamento è troppo grave per essere ignorato, e il colpevole sicuramente verrà scoperto.
+
+Per il successo del College nel hockey e nella competizione di draft tra le università, sono altrettanto orgoglioso di voi. [Applausi scroscianti che durano diversi minuti.] Erano giochi di cui anch'io ero fiero quando ero giovane. Non vedo alcun motivo per vergognarsi riguardo al risultato ottenuto sul fiume; il prossimo semestre avremo i Torpids, e dopo ancora gli Eights. Non abbiamo motivi per disperare. La mia esperienza – basata su dieci anni di attenta osservazione – mi dice che nessun college può rimanere permanentemente in fondo alla classifica. Nelle vicende umane esiste sempre una corrente che, se colta al momento giusto, porta verso il successo; quindi, diamoci forza e raccogliamo tutto il nostro coraggio. Disponiamo della squadra di canottaggio più leggera del “Varsity” e di un ottimo allenatore. Con queste risorse possiamo ottenere molto.
+
+Per quanto riguarda lo stato religioso di questo college, è, come tutti sapete, eccellente. Vorrei poter dire lo stesso anche per il corso di Chimica Inorganica. Questo dipartimento rientra sotto la guida del signor Large, ma le carenze che presentiamo sono interamente colpa dei suoi studenti. Non ci sono nemmeno venti persone all’università più adatte a insegnare Chimica Inorganica di mio collega. Comunque sia, si tratta di una questione molto grave; è proprio su questo che il successo o il fallimento di un college dipendono in definitiva.
+
+Durante questo semestre non abbiamo avuto decessi da lamentare, e a mio parere l’epidemia di orecchiette che ha colpito il college a novembre difficilmente può essere definita tale. Durante le vacanze i sistemi fognari saranno completamente riparati, e le spese sostenute, distribuite tra tutti gli studenti universitari, residenti o meno, rappresenteranno un contributo molto modesto alle risorse di Battells. Dubito che questo intervento abbia effetti significativi.
+
+C’è ancora una cosa su cui vorrei soffermarmi. Siamo costantemente infastiditi dal modo in cui gli studenti universitari calpestano il prato. L’erba di [[settings/oxford|Oxford]] rappresenta uno dei simboli più evidenti della nostra antichità come università; non esiste al mondo un’erba simile. Il fatto che venga continuamente calpestata danneggia gravemente il suo aspetto. Un comportamento del genere non verrebbe mai tollerato in un ambiente rispettabile, e si parla addirittura di costruire un muro attorno al cortile per impedire questa pratica. Non c’è bisogno che vi spieghi quanto sia dannoso un simile intervento. Ma se c’è una cosa su cui sono particolarmente deciso nella gestione del college, è che nessuno, né studente né comune, possa calpestare l’erba!
+
+Vi auguro un Felice Natale in tutte le residenze di campagna che probabilmente state visitando, e spero e prego che lì possiate ritrovare tutti i membri della vostra famiglia riuniti.
+
+Il signor Gurge rimarrà qui e parlerà con me per qualche momento.
+
+XII. L’articolo di Lambkin sul angolo nord-occidentale della pavimentazione in mosaico della villa romana di Bignor
+
+Si è parlato molto poco delle ricerche storiche del signor Lambkin, poiché si trattava soltanto di un’attività secondaria rispetto al lavoro serio che avrebbe dovuto lasciare un segno più duraturo nella storia. Tuttavia, è certo che nel circolo ristretto degli studiosi di antichità egli godesse di una notevole reputazione; in più occasioni, le sue scoperte avevano scatenato vivaci dibattiti e persino conflitti. Nel libro “Roman Sandals” di Winsk, il signor Lambkin viene menzionato come “Herr Professor Lambkin”; inoltre, il signor Bigchurch, nella prefazione alla sua opera esaustiva sul “Drenaggio del porto marittimo greco” (che contiene molte informazioni sulle colonie ionie e sulla Magna Grecia), riconosce “il prezioso sostegno e l’aiuto costante del signor Lambkin, che lo hanno aiutato in momenti difficili”. Il signor Lambkin veniva spesso incaricato di recensire libri sull’antichità greca e romana; si può presumere che l’editore della rivista “Culture”, essendo anch’egli un docente dell’Università di Oxford e laureatosi nel 1862, non avrebbe mai affidato compiti del genere a una persona ignorante.
+
+Se fosse necessaria un'altra prova della profonda e approfondita erudizione del signor Lambkin in questa materia, essa si troverebbe nelle molte riproduzioni di antichità che un tempo adornavano la sua stanza all'università. Si trattava di fotografie di colore marrone rossastro che raffiguravano molti oggetti cari allo studioso: il Partenone, i templi di Paestum, l’Apollo Belvedere e la testa in bronzo conservata al Vaticano; quest’ultima, nella sua dedica originale chiamata “Arianna”, veniva invece più correttamente definita da M. Crémieux-Nathanson, alla luce delle ricerche moderne, come “Sileno”.
+
+Qualsiasi dubbio riguardo alla completa competenza di Lambkin in quei settori verrà certamente dissipato da un unico documento che ci ha lasciato al riguardo: il suo articolo pubblicato sulla Revue Intellectuelle, tradotto per lui da un amico belga, ma del quale ho conservato la versione originale in manoscritto. L’articolo recita quanto segue:
+
+L’ARTICOLO.
+
+Non riesco a capire come il signor Bischoff64 e il signor Crapiloni65 possano essere caduti in un errore così grottesco riguardo alla testa raffigurata nel mosaico di Bignor. Come tutti sanno, questa testa si trova nell’angolo estremamente nord-occidentale del pavimento del mosaico di Bignor, nel Sussex. Le sue dimensioni esatte, dal punto più alto della corona al mento, e dal margine posteriore del cervelletto alla punta esterna del naso, sono rispettivamente un piede e cinque pollici e un piede e tre pollici. Pertanto, la testa ha dimensioni eroiche o esagerate, e non (“di dimensioni naturali”, come afferma Wainwright nelle sue “Antiquities”). Rappresenta la testa e il volto di un anziano ed è composta da frammenti diversi; vengono utilizzati i colori nero, marrone, blu, giallo, rosa, verde, viola e arancione brillante. Non c’è dubbio che il pavimento doveva presentare un aspetto molto bello, persino splendente, quando era nuovo; tuttavia, oggi è molto attenuato a causa dei quindicicento anni trascorsi sepolto sotto terra.
+
+La mia tesi è che il signor Bischoff e il signor Crapiloni abbiano commesso un errore molto ridicolo (non lo chiamerò con un nome più duro) nel raffigurare questa figura come simbolo dell’Inverno. Nel caso del signor Bischoff, non ho dubbi che le sue idee patriottiche siano state troppo forti da permettergli di giudicare in modo equilibrato; ma nell’altro caso, non riesco a trovare alcuna base sufficiente per una dichiarazione che non solo è falsa, ma mira anche a causare gravi danni alla storia e persino alle morali pubbliche. Il signor Bischoff ammette di essere stato in Inghilterra insieme al signor Crapiloni; non ho dubbi che quest’ultimo abbia influenzato il primo, e quindi la colpa e la vergogna di questa situazione debbano ricadere sull’ultramontanista tedesco, e non sul filosofo ma entusiasta gallo.
+
+Per gli insulti che i miei avversari mi rivolgono nelle colonne di giornali del genere del Bulletin de la Société Historique de Bourges o della Revue d’Histoire Romaine, provo soltanto disprezzo e compassione; ma in Inghilterra ci insegnano che una menzogna su qualsiasi argomento è ugualmente grave, e non intendo certo contribuire a definire Mosè una “figura dell’Inverno” quando sono convinto che non lo sia affatto.
+
+Da quanto posso capire dalla loro retorica un po’ prolissa, i miei avversari fanno riferimento all’iscrizione “Inverno” realizzata con pietre bianche sotto il mosaico, e sostengono che, poiché le altre quattro angolazioni sono chiamate rispettivamente “Primavera”, “Estate” e “Autunno”, ciascuna con il proprio nome indicato sotto di sé, anche questa quarta angolazione debba essere chiamata “Inverno”!
+
+È proprio questo tipo di argomentazione basata sull’analogia che mi aspettavo da persone cresciute in una morale corrotta e con concezioni religiose volgari del Continente! Quando a qualcuno viene insegnato che l’autorità è tutto e che non si può utilizzare il proprio giudizio, è quasi inevitabile che si arrivi a conclusioni affrettate e sbagliate di fronte a fatti concreti.
+
+Per quanto mi riguarda, sono convinto che il dipinto raffiguri il proprietario romano della villa; sono altrettanto convinto che la scritta “Hiems” sia stata aggiunta in un secondo momento, al fine di ingannare tutti quegli storici presuntuosi e creduloni. I miei critici continentali sanno forse che non esiste alcuna copia di questo mosaico nei resti romani della Britannia? Sanno anche che la villa di Bignor è passata di mano tre volte in questo secolo? Non intendo insinuare nulla di negativo, ma trovo davvero strana l’aspetto di questa scritta “Hiems”.
+
+Passando a un altro argomento, sebbene sia collegato al nostro tema. La pupilla dell’occhio è scomparsa. Sappiamo che questa perdita risale a tempi antichi, poiché Wright menziona la sua assenza nel suo catalogo. È sorta una discussione molto interessante riguardo al materiale di cui era composta la pupilla. Questo argomento ha occupato l’attenzione della Società di Dresda (di cui sono membro corrispondente) per diversi giorni; ho quindi cercato di approfondirlo, ma con successo solo parziale. Ho effettivamente trovato un frammento blu a forma triangolare, molto simile nella forma alla cavità mancante; tuttavia, è leggermente più grande in tutte le dimensioni e presenta una superficie convessa invece che piatta. Sono certo che si tratti soltanto di un pezzo di porcellana blu prodotta di recente, come ne si trovano molti simili nei campi e nelle pattumiere. Se (come sospetto fortemente) queste ipotesi fossero solo una strategia per ingannare, e se (come spero) il mio frammento, dopo alcune lavorazioni di limatura, potesse adattarsi alla cavità mancante, la scoperta avrebbe un valore immenso: dimostrerebbe infatti che il proprietario della villa era di origine teutonica e contribuirebbe in modo significativo a confermare la teoria della continuità romana, attualmente basata su prove molto fragili. Vi farò sapere il risultato.
+
+Le monete recentemente scavate nel quartiere, su cui si basavano tante speranze, non provano nulla riguardo alla data di realizzazione del mosaico. Non possono essere di origine romana, poiché la maggior parte presenta il ritratto e l’iscrizione di Guglielmo III, mentre le altre sono penny e scellini dei re Giorgio. Una moneta era una ghinea; temo che verrà venduta alla banca come oro. Sono stato molto deluso da un risultato così scarso: da allora, i lavoratori continuano a portarmi monete chiaramente moderne – soprattutto monete di bronzo di Napoleone III – che hanno sepolto per farle “ingrigire” e successivamente battute fino a renderle irriconoscibili, nella speranza che io le comprassi. Ho avuto la sfortuna di acquistare, per una somma non inferiore a un sovrano, ciò che in realtà era solo un’etichetta di rame rotonda appesa al collare di un cane; su di essa era scritto il nome “Ponto”, inciso all’interno di un ghirlando classico, il quale mi ha ingannato.
+
+Da quando vi ho comunicato l’ultima volta, non è accaduto nulla di davvero importante.
+
+XIII. Il sermone di Lambkin.
+
+Un uomo che non si lasciava dominare troppo dalle parole, Lambkin era anche lui piuttosto scettico riguardo all’eloquenza del proprio pulpito e per questo i suoi sermoni erano rari. Non bisogna pensare che fosse uno di coloro che si ribellavano inutilmente contro le abitudini consolidate. In lui non c’era nulla di quel demagogo sfacciato e distruttivo; il suo carattere era lontanissimo da quei demoni che, durante l’orribile regno del terrore, inondarono la bella Francia di fiumi di sangue.
+
+Ma proprio perché era un liberale nel vero senso della parola (non secondo la ristretta definizione partitica del termine), allo stesso modo anche nel campo religioso sosteneva la necessità di riforme dolci ma persistenti. “Il presente”, diceva spesso, “è inseparabile dal passato”, ma aggiungeva: “La continua modifica per adattarsi alle esigenze di un ambiente in cambiamento è una condizione fondamentale per la vitalità”.
+
+Pertanto, il suo obiettivo era quello di mantenere la forma di tutte le istituzioni esistenti e di modificare soltanto il loro contenuto sostanziale.
+
+Pertanto, era a favore del mantenimento della Cattedra Regia di Greco e addirittura votò per un notevole aumento dello stipendio del suo titolare; tuttavia insistette e riuscì infine ad approvare l’emendamento che obbliga attualmente tale dignitario a tenere lezioni principalmente su temi di politica attuale. Anche la matematica era una materia di cui percepiva l’importanza, nonostante dubitasse della sua efficacia come disciplina mentale; per questo motivo sosteneva i borse di studio offerte occasionalmente in questo campo, ma nella valutazione dei candidati vincenti dava adeguato peso anche ai dettagli legati all’abbigliamento e alle buone maniere.
+
+Da tutto ciò si può dedurre che, sebbene Lambkin fosse essenzialmente un uomo moderno, era anche una persona saggia e moderata; cauto nelle sue azioni e incline a preferire il giudizio alla violenza, spesso diceva: “Un trasformatore, per favore, non un riformatore”, quando i suoi amici lo prendevano in giro per le sue innovazioni.
+
+La religione, quindi, che dovrebbe essere di grande importanza per tutti, non fu trascurata da una mente del genere.
+
+Vide che non tutto era perduto quando il dogma falliva, ma che il grande aspetto etico del sistema poteva essere sviluppato nel vuoto lasciato dal declino della sua forma formale. Proprio come un uomo che ha perso le dita a volte ne sviluppa dei pollici al loro posto, così Lambkin prevedeva che al posto di una funzione atrofizzata potessero emergere esempi vigorosi di un tipo più antico, e che l’organismo guadagnasse in ampiezza ciò che aveva perso in definizione. “Aspetto con impazienza il giorno” (diceva) “in cui la mano devota dell’uomo sarà composta soltanto da pollici.”
+
+La filosofia che applicò così all’insegnamento formale e ai dogmi ebbe effetti concreti anche nella questione altrettanto importante del sermone. Conservò quella forma esteriore, ma la utilizzò come gradino per elevare il contenuto da uno stato di staticità a qualcosa di più alto; il successo di molte persone in questa vita è dovuto proprio all’influenza esercitata dalle loro parole semplici e dirette.
+
+L’allocuzione particolare che ho scelto come migliore esempio del suo metodo non fu tenuta nella cappella del college, ma fu invece un sermone universitario pronunciato nell’arco di otto settimane. Il testo del sermone era il seguente:
+
+Predica
+
+Titolo:  
+Prendo come testo un bellissimo ma poco conosciuto passaggio del Talmud:
+
+“Mi alzerò e mi preparerò per partire; sì, lascierò la terra dei miei antenati, che si trova a Ben-Ramon, e andrò fino in Edom, nella Valle di Kush, nelle città vicino a Laban, fino ai confini estremi della terra.”
+
+C'è qualcosa nel viaggio all'estero, cari fratelli miei, che sembra rappresentare una vera e propria necessità fisica per la nostra generazione avida e coltivata. In determinati periodi dell’anno cacciamo o discutiamo; ci occupiamo delle nostre faccende in città o dedichiamo il nostro tempo alla guida dello Stato. La sala da ballo, il salotto, il club: ognuno di questi luoghi ha la sua stagione appropriata. Nei nostri passatempi, il calcio lascia il posto al cricket; e con l’avanzare della stagione, il verso del fagiano, del pernice o dello stesso capercailzie cede il posto al suono secco del fucile Winchester, mentre la preda cade davanti all’intelligenza umana. Una moda dopo l’altra prende il sopravvento; e nel misterioso corso degli anni – un corso che non è del tutto sotto il controllo della nostra volontà – il rispettabile gioco del croquet ritorna sui prati che, per tanto tempo, sono stati soltanto teatro dell’agilità feroce del tennis.
+
+So che, nella grande processione dei tempi e delle stagioni, arriva per noi il momento del viaggio. Non è in inverno, quando tutto è coperto da un velo bianco di neve – o forse trasformato dagli straordinari effetti dello scioglimento della neve; non è nemmeno in primavera, quando i boccioli iniziano ad apparire nei cespugli e i crochi adornano il prato con un disordine apparentemente casuale ma in realtà ben calcolato. No, non è allora che l’antica usanza del pellegrinaggio viene ripresa dalla nostra epoca moderna e illuminata.
+
+È nel caldo periodo estivo, quando il bagliore del sole diventa quasi insopportabile per gli occhi stanchi di chi danza, quando la notte è più breve e il giorno più lungo, che lasciamo queste terre inospitali e questi campi verdi d’Inghilterra.
+
+E verso dove voliamo? Verso il fresco e delizioso nord, verso i ghiacciai della Groenlandia, o verso le nobili scogliere e le persone integre delle Isole Orcadi? Forse verso la Norvegia. O forse la Lapponia? Alcuni, molto pochi, viaggiano verso questi luoghi a bordo delle comode e ben attrezzate barche verdi del signor Wilson, di Tranby Croft. Ma ahimè! La maggior parte abbandona il caldo estate inglese per le ancora più torride regioni d’Italia, Spagna, Levante e costa berbera. Ignorando la salute, che è il nostro tesoro più prezioso, spreciamo le nostre energie nella malaria di Roma. O a Parigi avveleniamo la nostra mente con il disprezzo suscitato dalla vista di orribili stranieri.
+
+Permettetemi di passare da questo aspetto doloroso della questione, che certamente presenta temi più nobili e utili. Forse, in un certo senso, è molto più appropriato per i nostri scopi; senza dubbio, in molti modi, è ancora più utile considerare in un'occasione come questa gli aspetti morali del viaggio all’estero, soprattutto quei piccoli dettagli della vita quotidiana che hanno una importanza molto maggiore rispetto ai rari e esagerati atti a cui i nostri antenati davano il nome di “peccati”.
+
+Consideriamo le sovratasse degli hotel: l’economista potrebbe spiegarle, l’utilitarista potrebbe giustificarle, ma se vogliamo perseguire la rettitudine, non possiamo tollerare una pratica che a malapena condanneremmo noi stessi. Se in questo “edificio sacro” ci sono persone che gestiscono locali di intrattenimento nel Continente, soprattutto se tra voi c’è qualche rappresentante di quella classe in Svizzera, vi prego di riflettere profondamente su questa questione: un clero fanatico del vostro paese potrebbe perdonarla, ma è nostro dovere denunciarla pubblicamente.
+
+Riflettete ancora su quei numerosi esempi di degradazione sociale e morale che incontriamo durante i nostri viaggi! Passiamo dal volgare tedesco al capriccioso gallo; sfuggiamo all’indifferenza e alle derisioni licenziose di Milano per poi cadere nella trappola dell’idolatria e della superstizione che la gente chiama Napoli; lungo il nostro viaggio incontriamo lo spagnolo pigro, lo slavo disgustoso, il frisone rozzo e l’orribile unno. I nostri viaggi non saranno certo inutili se ci insegnano ad essere grati al Cielo per averci risparmiato una sorte simile a quella dei nostri antenati.
+
+Ancora una volta, possiamo considerare i grandi vantaggi che, come individui, possiamo trarre dal viaggio. Possiamo mettere alla prova la nostra ingegnosità finanziaria (e questo rappresenta senz’altro una parte importante dell’addestramento mentale) nell’organizzare le nostre spese quotidiane. Possiamo scoprire, nei angoli delle città straniere, quei resti del Passato che vengono ignorati dalle persone insensibili e degenerate di quel luogo, e che sono riservati alla comprensione di una razza più vivace e sensibile. Nelle gallerie d’arte possiamo apprezzare le bellezze di un San Mirtānoja, così come la banalità e l’ostentazione di un Sanzio. In mille modi, l’esperienza vissuta nel Continente rappresenta una consolazione e un sostegno per noi.
+
+In quarto luogo, cari fratelli miei, contrapponiamo il nostro gruppo di turisti onesti e sinceri alle ridicole caste e alle meschinità sociali delle altre nazioni straniere. Lì, contadino, borghese, nobile, prete, politico, soldato: ognuno sembra vivere nel proprio mondo. Nella nostra più felice Inghilterra, ci sono soltanto due classi: i proprietari delle macchine e i proprietari della terra; queste due classi si mescolano in modo così sottile e armonioso che esiste al contempo un’indipendenza sincera e un rispetto sensato per le differenze sociali. Di conseguenza, l’enorme massa di gentiluomini e commercianti vive in una perfetta armonia, contribuendo in modo decisivo allo sviluppo delle città europee.
+
+Ma ho detto abbastanza. Devo concludere. L’amore per la fama, che è stato bellamente definito l’ultima debolezza delle menti nobili, da solo mi spingerebbe a continuare. Ma devo finire. Spero che coloro di voi che andranno in Spagna visitino la straordinaria e interessante città vecchia di Saragozza.
+
+(A questo punto, il signor Lambkin lasciò improvvisamente il pulpito.)
+
+XIV. La lettera aperta di Lambkin ai chierici
+
+Il clamore suscitato dal famoso consiglio del signor Lambkin all’arcidiacono Burfle sarà ricordato da tutti i miei lettori. Tuttavia, egli non pubblicò quella lettera (come erroneamente si ritiene in “Great Dead Men of the Period”),72 senza averla prima attentamente discussa e riflettuta. Personalmente non lo esortai a renderla pubblica: ritenevo che fosse imprudente farlo. Ma si potrebbe quasi dire che il signor Large abbia insistito su questo punto durante la lunga conversazione che ebbe con Josiah sull’argomento. Dopo che Lambkin se ne fu andato, ebbi l’ardire di andare a trovarlo di nuovo, ma quella lettera fatale era già stata inviata e il giorno seguente apparve su “The Times”, “The Echo” e altri giornali, per non menzionare “The Englishman’s Anchor”. Non intendo accusare il signor Large di alcuna intenzione maliziosa o di voler ingannare deliberatamente qualcuno, ma temo che (essendo una persona non impulsiva) il suo consiglio derivasse da una grave e calcolata mancanza di giudizio.
+
+Non c’è dubbio che (dal punto di vista stesso di Lambkin), la pubblicazione di questa lettera sia stata un errore molto grave. Offese profondamente Arthur Bundleton e allontanò tutti i membri del gruppo “Pimlico” (così venivano chiamati all’epoca). Allo stesso tempo, non soddisfece nemmeno quel piccolo ma entusiasta e colto gruppo di persone che seguiva Tamworthy. Portò un certo sollievo al clero più povero delle parrocchie rurali, ma dubito fortemente che proprio queste persone possano rappresentare una fonte di vantaggi sociali o promozioni ecclesiastiche. Spesso dicevo a Lambkin che la complessità della nostra politica inglese era qualcosa con cui non si dovrebbe mai scherzare. “Un uomo”, gli dicevo, “che esprime un’opinione è come colui che conficca un coltello in una parte sensibile del corpo umano: il primo può offendere involontariamente semplicemente a causa delle proprie convinzioni o pregiudizi, proprio come il secondo può causare dolore se tocca un nervo nascosto”.
+
+Ora Lambkin era essenzialmente un uomo saggio. Sentiva l’obbligo – il dovere, per usare un termine più nobile – che tutti noi abbiamo di studiare i nostri simili. Forse, nella sua vita, non espresse mai con chiarezza le sue opinioni su nessuna questione, per paura di contraddire l’esperienza più ampia o le emozioni più profonde della società che lo circondava. Si considerava parte di un grande flusso storico, e riteneva fosse dovere di un uomo giusto seguirlo; quando parlava con forza – cosa che faceva spesso – era su questioni su cui la stragrande maggioranza dei suoi connazionali concordava. Dava infatti grande importanza all’opinione pubblica e alle classi dirigenti del paese nel suo sistema morale; già a ventuno anni provava un profondo disprezzo per quegli entusiasti dottrinari che trascuravano i giornali e elaboravano sistemi etici basati soltanto su tradizioni cieche o, peggio ancora, sulla propria coscienza interiore.
+
+È quindi notevole che un uomo del genere abbia commesso un errore del genere. “Non è stato un crimine,” disse saggiamente parlandomene, “è stato qualcosa di peggio: è stato un errore.” Ed è quello che tutti noi pensavamo. Tuttavia, l’episodio può essere spiegato tenendo conto delle particolari circostanze del momento in cui è avvenuto. La cattedra vescovile di Bury era appena diventata vacante a seguito della morte di Henry Carver, il più anziano. Un governo liberale unionista era al potere, e forse Lambkin pensò che una controversia potesse ancora attirare l’attenzione del pubblico, come era accaduto pochi anni prima. Ha commesso un errore, ma è stato un nobile errore.
+
+Almeno una cosa può farci gioire: quella lettera potrebbe aver ferito Lambkin in questa sua misera vita mortale; ma ha portato vantaggi incalcolabili per la generazione che è seguita immediatamente dopo la sua. Non posso fare a meno di credere che da quel piccolo evento sia scaturito tutto il grande flusso di riforme che ha lasciato un segno così profondo nella società di oggi.
+
+La lettera recita quanto segue: —
+
+Lettera aperta
+
+Burford. Vigilia di San Giovanni, 1876.
+
+Mio caro Burfle,
+
+Mi hai chiesto il mio parere su una questione di grande importanza, una questione su cui ogni inglese che si rispetti si pone questa domanda: “Sono una pecora o una capra?” Caro Burfle, ti risponderò francamente, e so che non sarai arrabbiato con me se rispondo anche in pubblico, “davanti alla gente”, come avrebbe fatto Paolo. Sei una pecora o una capra? Pensiamoci bene.
+
+Dici giustamente che la questione su cui tutto ciò si basa è proprio quella delle scarpe da ginnastica. È solo un simbolo, ma un simbolo su cui tutta l’Inghilterra è divisa. Da un lato abbiamo uomini energici, determinati, desiderosi di impegnarsi attivamente; uomini (se posso dirlo così) di vera qualità apostolica, per i quali la scarpa da ginnastica con i bottoni rappresenta qualcosa di sacro, al punto che alcuni di noi potrebbero trovarlo difficile da comprendere. Sono pochi questi devoti pionieri, ma in certi modi, e da alcuni punti di vista, possono essere considerati tra l’élite della Nazione, per così dire.
+
+D'altra parte, abbiamo la grande massa di uomini sensati, seri, devoti e pratici – quelli che Beeker definisce, con una bella espressione, “il vero corpo e l’essenza stessa d’Inghilterra” – determinati a mantenere ciò che i loro padri avevano realizzato prima di loro, e insistenti nel considerare il calzino con la laccia come l’abbigliamento appropriato per i membri della Chiesa.
+
+Nessuno è più sensato di me (caro Burfle); dico davvero che nessuno comprende meglio della mia la gravità di questa scissione, poiché sembra proprio destinata a diventarlo. E nessuno apprezza più di me quanto ci sia da dire su entrambi i lati. Una parte sosterrà (con perfetta giustizia) che le scarpe con i bottoni rappresentino un progresso. Essi affermano (e c’è molto da dire a loro favore) che l’uso comune di queste scarpe, il loro aspetto decorativo e il segnale di benessere che trasmettono le rendano particolarmente adatte al servizio del Tempio. Si vedono sui piedi dei parigini, dei romani, dei viennesi; sono associate alle nostre occasioni formali moderne, e quando le indossiamo ci sentiamo parte di tutto ciò che appartiene alla nostra cultura cristiana. In breve, sono cattoliche, nel senso più autentico del termine.
+
+Ora, mio caro Burfle, considera anche l’altro aspetto della questione. La scarpa con i lacci, per quanto moderna nella forma e nera e solida, rimane comunque, in essenza, la stessa che i primi cristiani indossavano. Il fatto che i primi cristiani portassero sandali è ormai al di là di ogni dubbio o contestazione. C’è certamente la famosa falsificazione di Gelasio, che potrebbe aver influenzato le superstizioni del Medioevo; ci sono anche le prove incerte relative ai mosaici di Ravenna. Ma l’unica argomentazione solida mai presentata è il passaggio presente nel Pseudo-Giovanni, che nessun studioso moderno ammetterebbe possa riferirsi a bottoni. “ξύγον”, tra le altre cose, significa un laccio. Un laccio assoluto. E sfido i nostri avversari (che sono molti e senza scrupoli) a negarlo. Il sandalo ha finalmente ottenuto il suo posto come ornamento tipico dei primi cristiani; e possiamo sconfiggere le macchinazioni delle missioni straniere con la semplice affermazione di quel grande studioso, il dottor Junker: “Il sandalo”, dice lui, “è il precursore della scarpa con i lacci”.
+
+Finora, quindi, tutto va bene. Vedi, mio caro Burfle, quanto possano essere sincere le divergenze tra le due parti, e come, con un sostegno così forte da entrambe le parti, la battaglia potrebbe proseguire all’infinito, fino alla possibile estinzione della nostra amata nazione e delle sue istituzioni più preziose.
+
+Non esiste alcun modo per evitare una tale catastrofe?
+
+Certamente sì. Esiste una strada su cui entrambi possono viaggiare, un luogo dove tutti possono incontrarsi. Intendo dire le scarpe da ginnastica (preferibilmente quelle in tessuto con i lacci elastici). Molti dei nostri chierici le indossano già. Non offendono nessuna delle due parti, soddisfano, o dovrebbero soddisfare, entrambe; e per quanto mi riguarda, vi vedo uno di quei compromessi su cui si fonda la nostra grandezza. Diamo quindi il via a non essere né pecore né capre in questa questione. È molto meglio, davvero molto meglio, ammettere un po’ di “timidezza” nella nostra “capricciosità”, o (se i nostri estremisti lo vogliono così) un po’ di “capricciosità” nella nostra “timidezza”: è meglio, dico io, unirsi sotto lo stesso stendardo e vivere in pace, piuttosto che mettere a rischio i nostri principi più cari e amati per una semplice disputa su questioni secondarie. Perché, dopotutto, cosa è essenziale per noi? Non le scarpe, penso, ma la rettitudine. La rettitudine può manifestarsi attraverso le scarpe; è giusto e buono che sia così. Ma vedere la rettitudine nelle scarpe stesse significa cadere nel grossolano materialismo del Medioevo, dimenticando il nostro diritto innato e i valori fondamentali della nostra fede.
+
+Tuo (caro Burfle), con tutto il mio affetto
+
+Josiah Lambkin.
+
+XV. La lettera di Lambkin a un amico francese
+
+L’interesse di Lambkin per il Continente era profondo e duraturo. Conosceva bene la parte occidentale di questa parte del globo grazie a un costante viaggiare che lo portava attraverso la rotta Calais-Basilea, passando di notte per il San Gottardo, fino alle storiche pianure dell’Italia. Fu a Milano che scrisse la sua “Grammatica anglo-sassone ridotta”, e ad Assisi corresse le bozze del suo articolo sul valore degli avena come alimento umano. Tutti ricorderanno l’abominevole atto di violenza avvenuto a Napoli, dove fu pugnalato da un cocchiere in segno di vendetta per la sua nobile e disinteressata protezione di un povero cavallo da calesa; insomma, l’Italia è piena dei suoi ricordi legati ai viaggi, e nessun nome è più noto ai membri del Club della Villa Marinoni.
+
+Potrebbe sembrare strano che, in tali circostanze, i nostri sfortunati vicini al di là della Manica abbiano preso particolarmente in considerazione le sue azioni pubbliche. Lui non conosceva a fondo la lingua francese e aveva solo una conoscenza superficiale delle abitudini della gente comune di quel paese; tuttavia, nelle sue “Considerazioni sulle obbligazioni politiche”, aveva affermato con grande fervore che nessuno poteva essere un buon cittadino d’Inghilterra senza comprendere la sua posizione internazionale. “Cosa possono sapere di Inghilterra coloro che conoscono soltanto Inghilterra?” esclamava spesso. Non si vantava di una profonda conoscenza dei dettagli della politica estera, né era così pedante da offendersi per le battute scherzose riguardanti il suo accento nella pronuncia dei nomi stranieri. Tuttavia riteneva – e con ragione – che fosse suo dovere inserire, in qualsiasi discussione sugli affari della Repubblica, quelle frasi casuali che davano colore e concretezza alle conversazioni. Riconosceva questo dovere quando si presentava e lo adempiva senza enfasi, ma con determinazione e fermezza assoluta. Spesso pronunciava espressioni come “état majeur”, “la cléricalisme c’est l’ennemi”, “l’état c’est moi”; grazie alla sua attenta ricerca, fu il primo all’università a comprendere il vero significato della parola “bordereau”, che fino ad allora tutti ritenevano fosse un documento segreto di particolare complessità.
+
+Il signor Lambkin aveva in Francia un solo amico intimo: un uomo che, grazie alle sue esperienze cosmopolite, possedeva una visione ampia del mondo e un senso dell’umorismo che i francesi di solito mancano; per questo motivo, quel suo amico univa il fascino tipico del carattere francese con quella saggezza universale che Lambkin richiedeva sempre ai suoi amici. Inoltre, poiché apparteneva a una piccola minoranza politica e aveva trascorso molto tempo in compagnia di stranieri, queste esperienze gli avevano permesso di eliminare da quella nobile anima quelle caratteristiche volgari e unilaterali, quella mescolanza di [[concepts/vanity|vanità]] e ferocia che sembrano essere parte intrinseca del temperamento francese. In alcuni aspetti, questo amico ricordava quei grandi ugonotti che la Francia, a suo eterno danno, espulse con l’annullamento dell’Editto di Nantes; oggi, solo ventimila di loro sopravvivono nella città di Nîmes. In altri momenti, quando provava giusta indignazione, il suo modo di pensare e il suo aspetto ricordavano quelli di un “Profeeta Maggiore”.
+
+Jules de la Vaguère dè Bissac fu il primo della sua famiglia a portare quel nome antico, ma non certo il meno degno di esso. Nato su una nave transatlantica nel porto di Amburgo, le sue prime esperienze di vita ebbero luogo nella frenetica atmosfera di New York. Fu lì che sviluppò quell’acume visivo, quella capacità decisionale e quel senso degli affari che lo portarono da Buenos Aires ad Amsterdam, fino a raggiungere la ricchezza. Impiegò il proprio patrimonio nel divertire i numerosi amici, nel promuovere cause giuste in politica (cosa che purtroppo i ricchi in Francia non fanno quanto dovrebbero), nella pubblicazione di opinioni valide sulla stampa, e occasionalmente – per vecchia abitudine – nel sostegno di imprese industriali destinate a beneficiare il proprio paese e il mondo. Tuttavia, evitava qualsiasi operazione commerciale che avesse anche solo l’aspetto della semplice speculazione; quando suo zio e suo fratello fuggirono dal paese nel 1887, li aiutò con i suoi soldi, ma non si sentì mai in dovere di giustificare o menzionare quelle persone cadute in disgrazia.
+
+Il suo hotel situato in Rue des Fortifications – un piccolo gioiello modesto ma grazioso, le cui porte erano copie in bronzo delle famose porte del Battistero di Firenze – aveva spesso ospitato il signor Lambkin e un gruppo felice di amici. Immaginate quindi l’orrore e la indignazione con cui [[settings/oxford|Oxford]] apprese che due delle sue bellissime finestre erano state intenzionalmente rotte nella notte del 15 giugno 1896. La famosa statua di “Misericordia”, tratta dai vetri colorati di Reims, fu distrutta e uno dei pezzi di vetro cadde a pochi centimetri da un inestimabile vaso di Sèvres che un tempo apparteneva a Law ed era stato acquistato dal signor Panama. Fu proprio in occasione di questo abominevole atto di vandalismo che il signor Lambkin inviò la seguente lettera, che, essendo stata pubblicata su “Horreur”, non esito a riprodurla qui. Tuttavia, per il valore storico che possiede, la presento nella sua forma originale: —
+
+“Cari amici e signori,”
+
+Non ho dubbi che ricorderete la vostra visita a [[settings/oxford|Oxford]], perché sono certo di ricordare anch'io la mia visita a Parigi, quando fui accolto con tanta gentilezza da voi e dalla vostra adorabile famiglia.
+
+Quindi, immediatamente dopo l’incidente, avete pensato a noi perché sapevate che io e Bilkin eravamo i vostri veri amici, soprattutto in ambito politico. Ci aspettavamo qualcosa del genere e capiamo benissimo perché è stato quel cattivo Durand ad lanciare le pietre. Siete stati troppo buoni con quell’uomo. Ricordatevi in futuro che sono proprio coloro a cui prestiamo denaro e che dovrebbero essere fedeli a noi a diventare nostri nemici. Ecco il motivo per cui spesso non si riesce a fare del bene, tranne che verso coloro che ci saranno sempre fedeli e gentili.
+
+(Tutto ciò, essendo di natura privata, non fu pubblicato sul giornale di M. de Bissac. La parte destinata al pubblico segue.)
+
+È evidente da dove derivino cose così orribili e scioccanti: è perché la Francia sta morendo. Un paese in cui nessuno può impedire a dei fanatici di rompere i vetri è un paese in declino. L’Irlanda sarebbe diventata così se non fossimo stati lì a fermarli. Senza dubbio, si romperebbero molti vetri. Spero di non ferire il vostro cuore di francesi dicendo queste cose, ma è molto meglio conoscere ciò che si ha, anche se è pericoloso come in Francia.
+
+Avete detto bene: sono proprio il militarismo e il clericalismo a causare queste offese. Esaminate bene quell’uomo che ha compiuto questo atto e vedrete che è stato battezzato e molto probabilmente ha prestato servizio militare. Oh, mio caro amico. Che Dio vi abbia meravigliosamente protetto dall’influenza del Saba e del Goupillon! Non avete prestato servizio militare, e se siete saggio, non fatelo mai: distrugge il carattere delle persone. Noi, per fortuna, non l’abbiamo mai fatto.
+
+Ho letto con grande piacere il vostro articolo “Il Prete al Bagno”; sì, è proprio al Bagno che dovrebbero essere mandati i preti. Solo in un paese dove molte persone sono cattoliche, forse i giurì sentimentali del vostro paese assolverebbero vergognosamente questi uomini dannosi.
+
+Spero di non ferire il vostro Cuore di Cattolico dicendo queste cose. I nostri Cattolici qui non sono così cattivi come quelli là. Molti di loro provengono da famiglie molto rispettabili, ma in Irlanda l’ignoranza è terribile. E vogliono ancora peggiorare le cose con l’istituzione di un’università!
+
+Con la speranza che la Francia ritorni a essere ciò che è veramente, anche se temo che sia impossibile, rimango, mio caro amico (e signore), il tuo sincero amico. Accetta i miei ferventi auguri, per te e per tutto ciò che ti è caro.
+
+Josue Lambkin.
+
+XVI. Intervista con il signor Lambkin.
+
+Un rappresentante della J. C. R., poco prima della sua morte, ebbe l’onore di un colloquio con il signor Lambkin su quelle numerose questioni dell’epoca che l’attività editoriale pone ai suoi lettori. Quell’incontro presenta un interesse davvero commovente: ecco l’uomo anziano, ancora pieno di vitalità, profondamente interessato alle questioni del momento, e fino all’ultimo vero rappresentante della sua classe. Nella settimana successiva, però, la morte lo colpì. E non c’era più! Sebbene queste parole siano state riportate da un altro, esse conservano l’integrità e la freschezza della sua personalità; le considero quindi l’espressione autentica e ultima di quel grande intelletto.
+
+“Suonando alla porta” (scrive il nostro rappresentante) “di una graziosa villa in Banbury Road, la porta fu aperta da una cameriera ben curata, vestita con un abito di cotone a quadri e con un cappello bianco in testa. L’intero aspetto della casa del signor Lambkin, sia all’esterno che all’interno, trasmetteva serenità e un’atmosfera di decoro e allegria. Fui introdotto in uno studio ben ordinato, dove notai sulle pareti alcune bellissime stampe, scelte con grande gusto e incorniciate con cura: ‘L’incontro tra Wellington e Blucher a Waterloo’, ‘John Knox che predica davanti a Maria Stuarda’, ‘Il processo di Lord William Russell’, oltre a due adorabili ritratti di un bambino e di un cane: ‘Può parlare “oo”?’ e ‘Anch’io!’ completavano questa piccola galleria d’arte. Notai inoltre una bella fotografia del marchese di Llanidloes, il cui percorso accademico e i suoi studi filologici avevano creato un legame stretto tra lui e il signor Lambkin. Un dagherrotipo sbiadito della madre del signor Lambkin e uno schizzo a matita della residenza di campagna di suo padre possedevano anch’essi un fascino particolare.”
+
+“Mr. Lambkin entrò nella stanza con aria allegra, e io mi misi subito all’opera senza indugi.”
+
+“Chiedete al signor Lambkin: che ne pensate della situazione attuale tra le parti in conflitto?”
+
+“‘Perché, se me lo chiedete,’ rispose lui con uno sguardo intelligente, ‘penso che il grande sistema partitico abbia bisogno di un’opposizione per mantenersi in ordine, e mi dispiace molto l’assenza di uomini di peso o talento – avrei quasi detto di buona educazione – nel campo liberale. Il defunto Lord Llanidloes, che rappresentava quel vecchio tipo di liberale, che nobile cuore! – mi disse proprio in questa stanza: “Ricorda le mie parole, Lambkin”, disse, “l’opposizione è condannata”. Questo avvenne durante il Parlamento del 1885 guidato da Mr. Gladstone; per me è sempre stata una profezia straordinaria. Ma Llanidloes era un uomo meraviglioso, e la carica di secondo Sottosegretario all’Agricoltura rappresentava davvero un compenso troppo modesto per i servizi che aveva reso allo Stato. “Conoscete quelle righe, ” A questo punto, Mr. Lambkin sembrò visibilmente commosso, ““Allora tutti erano per il partito, ma nessuno per lo Stato; l’uomo ricco pagava l’uomo povero, e l’uomo debole amava i potenti”. “Temo che quei tempi non torneranno mai più.””
+
+Seguì un silenzio profondo. “Tuttavia,” continuò lui con un tono calmo ma deciso, “l’Autonomia è morta, e non esiste alcun pericolo immediato che il sistema giudiziario della Gran Bretagna venga alterato nel modo in cui avviene in Francia.”
+
+“‘Sì,’ continuò lui, con quel sorriso che lo rende così familiare, ‘questi sono i miei libri: cose insignificanti, ma mie. Ecco’ (prendendo un volume), ‘‘Cosa avrebbe fatto Cromwell?’, una proposta per riformare l’Università di Oxford. Poi qui, in una rilegatura con fiori viola, c’è il mio ‘Tempo e Scopo’, un libro di devozione che si è venduto molto bene. Il resto degli scaffali contiene ciò che chiamo i miei ‘lavori casuali’: sono stati scritti principalmente per quel grande editore moderno, Matthew Straight, che sa così bene come combinare lo spirito antico con le esigenze contemporanee. Conoscete quella bellissima insegna della ‘Cottura a Bollitura’ in Plummer’s Court? È stata dipinta apposta per lui da uno dei suoi giovani artisti. Senz’altro avrete visto il suo nome nelle liste degli ospiti delle case di campagna; spesso lo incontro quando vado a far visita ai miei amici, e insieme pianifichiamo nuovi progetti editoriali.’”
+
+“‘Thus My Boys of Great Britain – un'opera storica – nacque presso l'eccellente porto di Baron Gusmann, all'interno dell'abbazia di Westburton. Successivamente venne ampliata questa opera con il libro ‘English Boyhood’, composto da tre volumi, di cui ne sono stati pubblicati soltanto due: ‘Anglo-Saxon Boyhood’ e ‘Mediæval Boyhood in England’. Il lavoro di realizzazione di questi volumi è stato molto impegnativo.”
+
+“‘No,’ riprese lui, con una rapidità nervosa, ‘non mi sono limitato solo a questi. Ci sono anche “Che cos’è la volontà?”, “Mehitopel, l’ebraia di Praga” (un romanzo sociale), “La Camera Alta della Convocazione davanti alla Storia”, “Elementi della monodologia leibniziana per scuole” (il terzo volume della serie per le scuole superiori), “Fisiologia dell’elefante” e la sua versione abbreviata adatta ai bambini, “Come è fatto Jumbo all’interno”; quest’ultimo, tra l’altro, è dedicato a quella cara piccola principessa, Lady Constantia de la Pole: una bambina così incantevole, e sicuramente destinata a diventare una donna buona e bella. Ha tre anni e sta crescendo come un grazioso giovane giglio.’”
+
+“‘Temo di stiarvi trattenendo,’ dissi, mentre quell’uomo gentile, i cui occhi si erano riempiti di lacrime durante quelle ultime parole (è un grande amante dei bambini), tirava fuori un orologio d’oro e controllava il suo quadrante. ‘Assolutamente no!’ rispose con estrema cortesia, ‘ma faccio sempre in modo di partecipare al tè pomeridiano e di assicurarmi che mia moglie e la mia famiglia stiano bene prima di andare a Hall. Sicuramente è quel suono: ecco arrivare i miei piccoli “barbari”!’”
+
+“Mi accompagnò fino alla porta con quella vera cortesia tipica dell’antichità e mi strinse la mano con grande gentilezza. ‘Addio,’ disse, ‘addio e che Dio vi guidi. Potete fare di questo ciò che volete; credo infatti che il compito del giornalista sia tra i più nobili in questa nostra vasta nazione. La stampa ha una grande missione, davvero una grande missione.’”
+
+Con queste parole ancora nelle mie orecchie, raccolsi le gonne per attraversare la strada fangosa e salii sul tram.
+
+Women’s Printing Society, Ltd., 66, Whitcomb St. W.C.
+
+Note finali.
+
+1
+
+Ma non pensate che io intenda spiegarlo.
+
+In larga misura… Credetemi.
+
+Farvi soffrire un po’…
+
+E se non mi piaci, lasciami andare.
+
+2
+
+E soprattutto non potete lamentarvi…
+
+Recensori, il cui mestiere è…
+
+Sforzarsi con tutte le proprie forze
+
+Biografie di signore single.
+
+3 Lascia perdere.
+
+4
+
+Il piano ha dimenticato… (Non so come.)
+
+“Forse era il refettorio a riempirlo…”
+
+Inserire una cappella… e ora?
+
+Stiamo ipotecando il resto per costruirlo.
+
+Non vi può essere dubbio che quest’opera rappresenti un vero esempio della commedia semitica arcaica. Probabilmente veniva cantata in parti durante le feste di primavera, e veniva recitata da pastori che indossavano maschere e si lanciavano l’un l’altro pelli di capra, proprio come si vede nei bassorilievi di Ik-shmûl. Si rimanda all’articolo pubblicato su “Righteousness”, scritto da un gentiluomo inviato dall’Associazione Biblica in Assiria a proprie spese; nonché alla nota allegata all’Appendice A del libro di Benson su “Og: Re di Basan”.
+
+Ora la casa è occupata dal signor Heavy, il noto finanziere.
+
+L’antica scuola è stata demolita per far spazio a un complesso di ville chiamato “Whortlebury Gardens”. Credo che il numero 35 sia esattamente il punto in questione, ma non sono riuscito a determinarlo con certezza a causa dell’indifferenza del attuale proprietario.
+
+Sto parlando del 1861.
+
+Il signor Lambkin mi ha assicurato che il suo signore aveva mantenuto queste relazioni fino al giorno della sua morte.
+
+10 Deve essere pronunciato come una parola monosillabica, secondo la pronuncia americana.
+
+11 Il signor Punt, il signor Howl e il signor Grewcock, – ahimè, ora tutti defunti.
+
+12: Una raffinata interpretazione di “Sublimi feriam sidera vertice”.
+
+13 Ai Giudici Esaminatori. Questi fatti (della cui accuratezza garantisco) mi sono stati forniti da un Direttore.
+
+14 Un ricordo di Milton: “È necessario imparare anche dall’avversario”.
+
+15. Lambkin mi disse di pentirsi di questa riga, che era stata scritta per motivi legati alla rima. Avrebbe volentieri sostituita quella riga, ma fino all’ultimo giorno della sua vita non riuscì a trovarne nessuna alternativa.
+
+Questa aneddota si trova nel mio libro “Cinquanta anni di conoscenze casuali” (Isaacs & Co., 44 pagine).
+
+Nel giugno del 1881, quando un suo allievo gli chiese decisamente di definire la Felicità, Lambkin rifiutò categoricamente: anzi, il suo odio per le definizioni era così noto che tra i giovani studiosi più irrequieti gli venne affibbiato con bonarietà il soprannome di “il Lento”.
+
+18 il centro
+
+Questo fu il primo esempio storico della conoscenza di Lamkin dell’ebraico: una competenza che in seguito utilizzò in modo estensivo nella sua critica al falso Giovanni.
+
+È il passaggio che segue ad aver fatto un’impressione così profonda sugli esaminatori. A quel tempo, il giovane Lambkin era quasi l’unico a sostenere tali opinioni; queste, in seguito, attraverso i membri dei college – che potessero essere giornalisti o governatori coloniali – hanno finito per influenzare l’intero mondo.
+
+21.umoristico.
+
+22 Il manoscritto è quasi indecifrabile
+
+23 La parola stessa “dormante” deriva dal latino, che significa “addormentato”.
+
+Conoscevo il Professore M’O negli anni Sessanta. Era un scozzese affascinante e colto, con una perfetta padronanza della lingua inglese.
+
+Il dottor von Lieber-Augustin. Lo conoscevo bene. Era un tedesco affascinante e colto.
+
+Quanto diverso dalla cinica volgarità di Voltaire.
+
+27 Il signor Buffin. Lo conosco bene. Suo zio è il lord Glenaltamont, uno dei nostri nuovi nobili più affascinanti e colti.
+
+Vedi in particolare “Ipnosismo”, ovvero i lavori della Research Society (xiv volumi, Londra, 1893), e “Superstizioni del passato, in particolare la credenza nell’influenza del sonno sugli incantesimi”, di Dr. Beradini. Tradotto da Mrs. Blue. (Londra: Tooby & Co., 1895.)
+
+29 Bk. I. or Bk. IV.
+
+“Amo dormire. Ma mai dopo le nove di sera, perché sono un vescovo e devo dare un buon esempio ai fedeli.” App. Sid. Epistol., Bk. III., Epist. 26. (Edizione di Libermach. Berlino, 1875.) Ha davvero lo spirito tipico del V secolo.
+
+So che Herrick, nel suo famoso epigrafo su Buggins, lo citava spesso; un prelato erudito che conoscevo faceva altrettanto.
+
+Le stesse strofe si trovano anche in altri poeti, in particolare in Tupper e Montgomery.
+
+Vedi “Memorie private della corte di Giorgio III e del Reggente”, di Mrs. Fitz-H⸺t.
+
+Vedi anche, “The Morning Star of England”, nella serie “Stirrers of the Nations”, scritto dal reverendo H. Turmsey, M.A.; inoltre, “Foes and Friends of John of Gaunt”, di Miss Matchkin.
+
+“35 ‘Prose latine’”, 3 sterline e 6 pence a pezzo. Jason and Co., Piccadilly.
+
+Ora svolge nobilmente il proprio dovere verso l’Impero, lavorando come allevatore di bestiame nel Minnesota.
+
+Tutti ricorderanno l’articolo interessante su questo autore pubblicato su “The Christian Home” nel luglio del 1886; era scritto da Lambkin.
+
+Al momento in cui scrisse questa lettera, 38 anni, Lambkin aveva appena raggiunto i ventisei anni di età.
+
+Solo un termine giocoso, naturalmente.
+
+Si è scatenata una notevole discussione riguardo al significato di ciò.
+
+41 Un’allusione scherzosa.
+
+“Sicut ut homo hier” – i miei lettori completeranno il resto.
+
+La nota esclamativa è mia.
+
+44 Autore di “Morali prussiane”.
+
+Queste sono quasi esattamente le parole che apparvero nel successivo e sopravvalutato libro di Théophile Gauthier: “Rien ne mène à rien, cependant tout arrive.”
+
+Fu su mia proposta (poiché ero solo una parte del quorum) che fu aggiunto il motto: “Coloro che scendono in mare con le navi, vedono i miracoli del Signore”.
+
+47 Livorno in italiano.
+
+48 O “hanno dato origine”. Io e i miei colleghi abbiamo cercato di stabilire questo punto. Ma non c’è dubbio che la versione a cui siamo arrivati sia corretta sia dal punto di vista grammaticale che dei fatti. Il manoscritto originale è confuso.
+
+Sebbene sia stata inviata a Gravesend, questa lettera sembra essere stata scritta tra Londra e l’Estuario. Alcuni dicono che sia stata scritta nel “Dead Man’s Reach”.
+
+Questo passaggio fu presentato nella categoria “Prosa Latina” per la borsa di studio Burford del 1875. La vittoria andò al signor Hurt, attualmente cappellano della Gilda dei Vinaioli.
+
+51 Normanni.
+
+52 Hastings.
+
+Queste lettere non sono mai state stampate fino ad ora.
+
+Il defunto Onorevole John Tupton, quel gentile coloniale che acquistò la Marlborough House e causò tanto scalpore a Londra alcuni anni fa.
+
+La signora Tupton, di età avanzata: una donna il cui coraggioso impegno nella lotta contro la povertà estrema costituiva un continuo monito sui terribili risultati del nostro cosiddetto sistema penale “perfezionato”.
+
+Esistono grandi dubbi riguardo alla precisione di queste informazioni. Durante la sua vita, Tupton parlava spesso di “quella povera casa popolare di New York dove sono nato”, e in una lettera accenna al fatto che “sia nato in mare, nella cabina dei passeggeri di terza classe di una nave da linea”.
+
+57 Forse questo fu l’origine di un’espressione che si trova ampiamente diffusa nelle opere di Lambkin.
+
+58 Il signor Lambkin non fornì l’etimologia di questa parola.
+
+“Alcuni hanno dato la vita per l’infamia, altri sono fuggiti davanti ad essa.” – Tacito, De tutti i Cesari, I, viii, 7.
+
+Le parole in corsivo sono state omesse nell’articolo.
+
+Il titolo completo della traduzione è “La scarpa da romano: la sua origine, lo sviluppo e il declino; la sua influenza sulla società e il suo ruolo nella liturgia della Chiesa occidentale”.
+
+Figlio di secondo grado del signor Child, l’ex editore; nipote del signor Pilgrim, il fondatore; e padre dell’attuale editore di “Culture”.
+
+Il signor Cook critica questa frase; si tratta di un punto su cui gli amici potrebbero “accordarsi di dissentire”.
+
+64 Autore di “Psychologie de l’Absurde”.
+
+65 Professore di Micrografia a Bonn.
+
+Questo era piuttosto grave, poiché il signor Bischoff aveva trascorso alcuni anni in una casa di cura.
+
+67 Un esempio di queste difficoltà occasionali nello stile, dovute proprio alla fretta di cui ho parlato.
+
+Il significato di questa frase è chiarito così: Loro (soggetto) hanno twittato (predicato), con le sue qualifiche (in modo avverbiale, “come”), sul porto (in modo avverbiale, “dove e quando”), riguardo a lui (oggetto).
+
+Il signor Lambkin amava trascorrere ore tranquille studiando i manoscritti conservati presso la Biblioteca Bodleiana, e citava con grande familiarità le poche righe di Chaucer, in particolare tra i poeti medievali.
+
+Questa frase è un esempio ammirevole dello stile letterario di Lambkin in un periodo successivo.
+
+71 Raphael.
+
+72 P. 347: “L’impulsività di tale azione non si addice a ciò che si sa di Lambkin.” È senz’altro vero che l’editore di “Great Dead Men” possa affermare che questo episodio giustifichi la sfortuna accaduta; tuttavia, tale giustificazione non scusa affatto l’accusa di impulsività rivolta a un uomo il cui comportamento era sempre misurato e controllato.
+
+Forse più conosciuto come autore che come chierico, trovò la morte in un modo tragico in un incidente ferroviario. Tuttavia, la sua vita era assicurata e aveva con sé una copia di “Golden Deeds”.
+
+74 “Beeker’s A Torch for the Chapell; or the Nonconformists out-done”. Folio, 1663, p. 71.
+
+75 Riferendosi all’editto sui stivali con bottoni di Romolo Augusto: una vera e propria ingiustizia senza vergogna.
+
+Il 76° Lambkin vide realizzarsi l’adozione quasi universale di tale pratica: un risultato per cui ebbe un ruolo fondamentale.
+
+“Sulle famose pianure d’Italia”, Biggin, xii., riga 32.
+
+Sono certo, grazie al signor Venial, che questa famosa frase abbia originariamente preso forma sulle labbra del signor Lambkin.
+
+Questa frase gli era balzata all’occhio fin dai primi giorni degli studi: si trattava di una parola ricorrente che formava rime, e la pronunciò sempre così fino al giorno della sua morte.
+
+80 Hobbes.
+
+Pertanto, il signor dè Bissac fu il presidente della Société Anonyme des Voitures-fixes.
+
+“L’accuratezza nell’uso dei negativi”, diceva il signor Lambkin, “è la prova di un vero studioso”.
+
+83 È stato modificato in “le Destin” sul giornale.
+
+84 M. de Bissac era cattolico, ma di indole molto liberale. Rispettava il Papa, ma riteneva che questi fosse fuorviato dai suoi consiglieri. Ogni anno votava a favore della soppressione dei riti pubblici in Francia e della trasformazione delle chiese in musei locali. Per un uomo della sua fede, era straordinariamente privo di pregiudizi sotto ogni aspetto. I suoi incessanti attacchi contro il clero del suo paese gli hanno guadagnato l’ammirazione di gran parte del mondo civile.
+
+L’espressione è “tornare al proprio vero sé”. Era una delle preferite di Lambkin, ma temo sia intraducibile. I francesi non possiedono concetti così sottili. L’intera frase è stata omessa nella versione “Horreur”, e il paragrafo finale inizia con “Je reste”.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Lambkin’s Remains (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="setting/oxford"></span>

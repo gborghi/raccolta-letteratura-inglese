@@ -58,7 +58,7 @@ As a torment for our crimes.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Canto del Giusto e dell'Ingiusto
+Il Canto del Giusto e dell'Ingiusto  
 
 -------------------------------------------------------------  
 

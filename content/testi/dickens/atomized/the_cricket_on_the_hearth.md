@@ -6934,6 +6934,88 @@ at last at the feet of her friend, and hid her blind face in the folds
 of her dress.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Erano presenti due persone, oltre alla sposa e allo sposo designati,
+che non resero un gran [[concepts/honour|onore]] al brindisi. Una di queste era Dot, troppo
+arrossata e scompigliata per adattarsi a qualsiasi piccolo evento del
+momento; l'altra, Bertha, che si [[motifs/rose|alzò]] in fretta prima degli altri e
+abbandonò la tavola.
+
+«Addio!» disse il robusto [[characters/john-peerybingle|John Peerybingle]], infilando la sua giacca di lana spessa. «Tornerò al solito [[motifs/time|orario]]. Addio a tutti!»
+
+«Addio, John», rispose Caleb.
+
+Sembrava ripeterlo a memoria e agitare la mano nello stesso modo inconsapevole: infatti rimase lì a osservare Bertha con un'espressione ansiosa e interrogativa che non cambiò mai.
+
+"Addio, giovane monello!" disse il gioviale Carrier, chinandosi per baciare [[archetypes/child|il bambino]]; che [[characters/tilly-slowboy|Tilly Slowboy]], ora intenta col suo coltello e forchetta, aveva deposto addormentato (e, strano a dirsi, senza danni) in una piccola culla di arredo di Bertha; "addio! Verrà il [[motifs/time|momento]], immagino, quando _tu_ uscirai nel freddo, mio piccolo amico, e lascerai tuo vecchio padre a godersi la sua pipa e le sue reumatismi nell'angolo del camino; eh? Dov'è Dot?"
+
+«Sono qui, John!» disse lei, sobbalzando.
+
+«Ebbene, ebbene!», rispose il vetturale battendo le mani che facevano un gran rumore. «Dov'è la pipa?»
+
+«Mi ero completamente dimenticato la pipa, John».
+
+Ha dimenticato la pipa! Si era mai sentita una tale [[concepts/wonder|meraviglia]]? Lei! Ha dimenticato la pipa!
+
+«Lo riempirò subito. È una cosa che si fa in un attimo».
+
+Ma non fu così facile nemmeno questa volta. Era nel solito posto -- la tasca imbottita del corriere -- con il piccolo sacchetto, opera sua, da cui era solita riempirlo; ma le tremava tanto la mano che lo impigliò (eppure la sua mano era abbastanza piccola per uscire facilmente, ne sono sicuro), e fece un pasticcio terribile. Il riempimento della pipa e l'accensione, quei piccoli compiti in cui ho lodato la sua discrezione, furono fatti malamente dall'inizio alla fine. Durante tutto il processo, [[characters/tackleton|Tackleton]] rimase a guardare con occhio malizioso semichiuso; che, ogni volta che incontrava il suo sguardo -- o lo catturava, perché non si può dire che abbia mai veramente incontrato un altro sguardo: piuttosto era una specie di trappola per catturarlo -- aumentò la sua confusione in modo notevole.
+
+«Ma che goffa sei oggi pomeriggio, Dot!» disse John. «Io credo sinceramente di poterlo fare meglio da solo!»
+
+Con queste parole benevole, si allontanò a passi rapidi e poco dopo lo si udì,
+in compagnia di Boxer, del vecchio [[motifs/horse|cavallo]] e della carriola, fare musica allegra lungo la [[motifs/road|strada]]. Che [[motifs/time|ora]] fosse, Caleb sognante stava ancora in piedi a guardare sua figlia cieca con lo stesso sguardo sul volto.
+
+«Bertha!», disse Caleb dolcemente. «Che cosa è successo? Come sei cambiata,
+mia cara, in poche ore -- da questa mattina! Tu silenziosa e triste
+tutto il giorno! Che cos'è? Dimmelo!»
+
+"Ah, padre, padre!" esclamò la fanciulla cieca, scoppiando in [[motifs/tears|lacrime]]. "Ah, il mio duro, duro destino!"
+
+Caleb si passò la mano sugli occhi prima di risponderle.
+
+«Ma pensa a quanto sei stata allegra e felice, Bertha! Quanto buona,
+e quanto amata da tante persone.»
+
+«Questo mi colpisce nel profondo del cuore, caro padre! Sempre così premuroso per me,
+sempre così gentile con me!»
+
+Caleb era molto perplesso nel cercare di capirla.
+
+Essere, essere ciechi, Bertha, mia povera cara, è una grande afflizione; ma.
+
+"Non l'ho mai provato!" esclamò la ragazza cieca. "Non l'ho mai provato in tutta la sua pienezza. Mai! A volte ho desiderato di potervi vedere, o di vederlo lui -- solo una volta, caro padre, per un minuto soltanto -- così avrei saputo che cosa custodisco," si posò le mani sul petto, "e tengo qui! Così sarei sicura di aver ragione! E a volte (ma allora ero ancora una [[archetypes/child|bambina]]) ho pianto nelle mie preghiere la sera, pensando che quando le vostre immagini salivano dal mio cuore al Cielo, non fossero il vero ritratto di voi. Ma questi sentimenti non mi sono mai durati a lungo. Sono passati e mi hanno lasciata tranquilla e contenta."
+
+"E lo faranno di nuovo", disse Caleb.
+
+«Ma, padre! Oh, mio buono e gentile padre, sopportatemi se sono cattiva»,
+disse la fanciulla cieca. «Non è questo il dolore che mi opprime tanto!»
+
+Il padre non poté fare a meno di lasciar traboccare i suoi occhi umidi;
+era così seria e patetica. Ma lui ancora non la capiva.
+
+«Portatela da me», disse Bertha. «Non posso tenerlo chiuso e rinchiuso dentro di me. Portatela da me, padre!»
+
+Sapeva che esitava e disse: «Porta qui Maggio!».
+
+May udì pronunciare il suo nome e, avvicinandosi silenziosamente a lei,
+le toccò un braccio. La fanciulla cieca si voltò subito e la prese per entrambe le mani.
+
+«Guarda il mio viso, caro cuore, dolce cuore!» disse Bertha «Leggilo con i tuoi begli occhi e dimmi se la [[concepts/truth|verità]] è scritta su di esso.»
+
+«Cara Bertha, sì!»
+
+La ragazza cieca, continuando a rivolgere verso l'alto il suo viso privo di sguardo, lungo il quale le [[motifs/tears|lacrime]] scorrevano veloci, si rivolse a lei con queste parole:
+
+"Non c'è nella mia [[motifs/soul|anima]] un desiderio o un pensiero che non sia per il tuo bene,
+radiosa May! Non c'è nella mia [[motifs/soul|anima]] un ricordo grato più forte di quello profondo
+che conservo dei tanti, tanti momenti in cui, nel pieno [[concepts/pride|orgoglio]] della vista e della [[concepts/beauty|bellezza]], hai avuto riguardo per la cieca Bertha, anche quando eravamo entrambe bambine, o quando Bertha era ancora una [[archetypes/child|bambina]] come solo la cecità può essere! Ogni benedizione sulla tua testa!
+Luce sul tuo felice cammino! Non di meno, mia cara May," -- e lei l'attirò a sé in un abbraccio più stretto, -- "non di meno, mio uccellino, perché oggi,
+la consapevolezza che tu sarai sua moglie ha quasi spezzato il mio cuore! Padre, May, Mary! Oh, perdonatemi se è così, per tutto ciò che lui ha fatto per alleviare la noia della mia vita oscura: e per la fiducia che avete in me, quando chiamo il Cielo a testimone che non potrei desiderare che sposi una moglie più degna della sua bontà!"
+
+Mentre parlava, aveva lasciato le mani di [[characters/may-fielding|May Fielding]] e si era aggrappata ai suoi vestiti con un atteggiamento misto di supplica e [[motifs/love|amore]]. Abbassandosi sempre più mentre proseguiva nella sua strana confessione, alla fine cadde ai piedi della sua amica e nascose il suo volto cieco tra le pieghe del suo abito.
+
 
 
 <span class="atom-split" data-atom="story_05_chirp_the_second--part_09" data-title="The Cricket on the Hearth — Chirp The Second (part 9)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/nature,motif/night,motif/secrets,motif/time,motif/well,motif/winter,concept/fear,concept/honour,concept/humility,concept/nature,concept/self,concept/truth,character/tackleton"></span>
@@ -8350,6 +8432,86 @@ to flow; and, when the Presence which had been beside the Carrier all
 [[motifs/night|night]], appeared behind her, pointing to her father, they fell down like
 rain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il buon cuore di Slowboy si trasformò in quel momento in un pianto così
+lamentoso e tanto più tremendo per essere stato a lungo represso che
+senza dubbio avrebbe svegliato il Bambino, spaventandolo fino a causargli
+qualcosa di grave (probabilmente delle convulsioni), se i suoi occhi non si fossero
+imbattuti in [[characters/caleb-plummer|Caleb Plummer]] che faceva entrare sua figlia. Questa scena
+la riportò alla consapevolezza delle convenienze, e rimase per qualche istante
+in silenzio con la bocca spalancata; poi, correndo verso il letto su cui giaceva addormentato il Bambino,
+ballò sul pavimento in modo strano, come se avesse la corea di San Vito e nello stesso [[motifs/time|tempo]] frugava con
+il viso e la testa tra le coperte del letto, apparentemente trovando grande sollievo in quelle operazioni straordinarie.
+
+«Maria!» disse Bertha «Non al [[motifs/marriage|matrimonio]]!»
+
+"Le ho detto che non ci sarebbe stato, mamma," sussurrò Caleb. "L'ho sentito dire ieri [[motifs/night|sera]]. Ma benedetta lei," disse l'uomo piccolo prendendola teneramente per entrambe le mani, "_io_ non mi preoccupo di quello che dicono. _Io_ non ci credo. Non sono molto, ma quel poco dovrebbe essere strappato a pezzi prima che io creda anche solo una parola contro di lei!"
+
+Le mise le braccia al collo e la strinse forte, come avrebbe potuto fare un [[archetypes/child|bambino]]
+abbracciando una delle sue bambole.
+
+"Bertha non poteva rimanere a [[motifs/home|casa]] questa mattina", disse Caleb.
+"Aveva paura, lo so, di sentire suonare le campane, e non si fidava di stare così vicino a loro nel giorno delle nozze. Così siamo partiti in buona [[motifs/time|ora]] e siamo venuti qui.
+Ho pensato a quello che ho fatto", disse Caleb dopo una pausa; "mi sono rimproverato fino a non sapere più cosa fare, o dove andare, per il dispiacere che le ho causato; e sono arrivato alla conclusione che sarebbe meglio, se resterai con me nel frattempo, dirle la [[concepts/truth|verità]]. Resterai con me nel frattempo?" chiese, tremando dalla testa ai piedi. "Non so quale effetto possa avere su di lei; non so cosa penserà di me; non so se dopo ci terrà ancora al suo povero padre. Ma è meglio per lei che venga disillusa, e io devo sopportare le conseguenze come merito!"
+
+"Maria", disse Bertha, "dov'è la tua mano? Ah! Ecco qui; eccola!"
+premendosela sulle labbra con un sorriso e passandogliela sotto il braccio. "Li ho sentiti parlare sottovoce tra loro [[motifs/night|ieri notte]] di qualche accusa contro di te. Si sbagliavano."
+
+La moglie del vetturale taceva. Caleb rispose per lei.
+
+«Si sbagliavano», disse.
+
+«Lo sapevo!» esclamò Bertha con orgoglio. «Gliel'avevo detto. Mi rifiutavo di sentire una sola parola! Incolpatela giustamente!» stringeva la mano tra le sue e la guancia morbida contro il suo viso. «No, non sono così cieca».
+
+Il padre si mise da un lato di lei, mentre Dot rimase dall'altro tenendole la mano.
+
+"Vi conosco tutti," disse Bertha, "meglio di quanto pensiate. Ma nessuno così [[motifs/well|bene]] come lei.
+Nemmeno tu, padre. Non c'è nulla in me che sia anche solo la metà reale e vero quanto lo è lei.
+Se potessi riacquistare la vista in questo istante, senza che venisse pronunciata una sola parola,
+la sceglierei tra una folla! Mia sorella!"
+
+«Bertha, mia cara!» disse Caleb «ho qualcosa in mente che voglio dirti mentre siamo soli noi tre. Ascoltami con benevolenza! Ho una confessione da farti, mio tesoro!»
+
+«Una confessione, padre?»
+
+«Mi sono allontanato dalla [[concepts/truth|verità]] e mi sono perso, mio [[archetypes/child|figliolo]]», disse Caleb con un'espressione pietosa sul suo volto disorientato. «Mi sono allontanato dalla [[concepts/truth|verità]], desiderando essere gentile con te; e invece sono stato crudele».
+
+Girò verso di lui il suo volto stupito e ripeté: «Crudele!».
+
+«Si accusa troppo duramente, Bertha», disse Dot. «Lo dirai fra poco. Sarai la prima a dirglielo».
+
+"È crudele con me!" esclamò Bertha con un sorriso di incredulità.
+
+"Non intendevo così, mia [[archetypes/child|figlia]]", disse Caleb. "Ma è stato: anche se non me ne sono mai accorto fino a ieri. Mia cara figlia cieca, ascoltami e perdonami. Il mondo in cui vivi, mio cuore, non esiste come te l'ho descritto. Gli occhi di cui ti sei fidata ti hanno tradita."
+
+Girò ancora verso di lui il suo volto stupito, ma indietreggiò e si strinse più forte alla sua amica.
+
+"La tua [[motifs/road|strada]] nella vita è stata difficile, povera mia," disse Caleb,
+"e volevo renderla più facile per te. Ho modificato oggetti, cambiato i caratteri delle persone,
+inventato molte cose che non sono mai esistite, per renderti più felice.
+Ti ho tenuto nascoste alcune cose, ti ho ingannata, Dio mi perdoni!
+e ti ho circondata di fantasie."
+
+«Ma le persone in carne e ossa non sono fantasie?» disse lei affrettatamente, impallidendo molto e continuando a ritirarsi da lui. «Non si possono cambiare».
+
+Ho fatto così, Bertha, implorò Caleb. C'è una persona che conosci, mia colomba.
+
+«Oh, padre! perché dite che lo so?», rispose con un tono di aspra riprovazione. «Che cosa e chi _io_ conosco? Io che non ho nessuna guida! Io così miseramente cieca!»
+
+Nell’angoscia del suo cuore, ella stese le mani come se tastasse il cammino; poi le distese sul volto con un gesto di abbandono e tristezza infinita.
+
+"Il [[motifs/marriage|matrimonio]] che si celebra oggi", disse Caleb, "è con un uomo severo,
+meschino e tirchio. Un duro padrone per te e per me, mia cara, da molti
+anni. Sgradevole nel suo aspetto e nella sua [[concepts/nature|natura]]. Sempre freddo e insensibile.
+Diverso in tutto da come te l'ho descritto, mio [[archetypes/child|figliolo]]. In tutto."
+
+"Oh, perché," gridò la Ragazza Cieca, torturata, come sembrava, quasi oltre ogni [[concepts/endurance|sopportazione]], "perché hai mai fatto questo? Perché mi hai riempito il cuore così tanto e poi sei venuto come la [[motifs/death|morte]] a strapparmi gli oggetti del mio [[motifs/love|amore]]? O cielo, quanto sono cieca! Quanto sono impotente e sola!"
+
+Il suo afflitto padre chinò il capo e non offrì altra risposta che nel pentimento e nella tristezza.
+
+Era passato solo un breve [[motifs/time|periodo]] da quando si era abbandonata a questo furore di rimpianto, quando il Grillo del Focolare, udito soltanto da lei, cominciò a frinire. Non allegramente, ma con toni bassi, flebili e addolorati. Era così triste che le sue [[motifs/tears|lacrime]] iniziarono a scorrere; e quando la Presenza che era stata accanto al Carrettiere tutta la [[motifs/night|notte]] apparve dietro di lei, indicando suo padre, caddero come pioggia.
 
 
 

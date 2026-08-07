@@ -43,7 +43,7 @@ When all the [[motifs/leaves|leaves]] are gold.
 
 Foglie d'[[motifs/leaves|Oro]]  
 
-di G.K. Chesterton
+di G.K.Chesterton  
 
 Ecco! Sono giunto all'[[motifs/autumn|autunno]],  
 quando tutte le [[motifs/leaves|foglie]] sono d'oro;  

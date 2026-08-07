@@ -1167,6 +1167,1161 @@ A MISCELLANY OF MEN. _Second Edition._
 METHUEN & CO. LTD. [[settings/london|LONDON]]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prodotto da Jana Srna, Bryan Ness e l’Online Distributed…
+
+Proofreading Team at http://www.pgdp.net (This file was
+
+Realizzato grazie alle immagini gentilmente concesse da The
+
+Internet Archive/American Libraries.
+
+Note del trascrittore:
+
+È stato fatto ogni sforzo per riprodurre questo testo il più fedelmente possibile.
+
+Possibile, anche con incongruenze nella grafia e nell’uso dei trattini.
+
+Nessun cambiamento è stato apportato al testo originale.
+
+Il testo in corsivo è stato contrassegnato con _sottolineature_.
+
+Il testo in grassetto e corsivo è stato contrassegnato con i segni di uguale (=).
+
+]
+
+Vino, [[motifs/water|acqua]] e canto.
+
+Lo stesso autore
+
+Charles Dickens
+
+La ballata del cavallo bianco
+
+Il rifugio volante
+
+Tutto considerato
+
+Cose da nulla
+
+Allarmi e discorsi
+
+Un insieme di uomini
+
+VINO, [[motifs/water|ACQUA]]
+
+E CANZONA
+
+BY
+
+G. K. Chesterton
+
+Terza edizione
+
+METHUEN & CO. LTD.
+
+36 ESSEX STREET, zona W.C.
+
+[[settings/london|LONDRA]]
+
+Prima pubblicazione: 6 agosto 1915
+
+Seconda edizione – 10 agosto 1915
+
+Terza edizione – 23 agosto 1915
+
+Nota
+
+Le CANZONI presenti in questo libro sono tratte da “THE FLYING INN”.
+
+Ad eccezione di “Il buon ricco” e “La canzone dello strano asceta””.
+
+Titolo:  
+Qui inclusi per gentile concessione dell’editore di “The New”
+
+Testimone =, nel luogo in cui sono apparsi per la prima volta.
+
+Indice
+
+Pagina
+
+L'inglese                          9
+
+Vino e [[motifs/water|Acqua]]                          11
+
+La Canzone contro i negozi di alimentari             15
+
+La strada inglese [[motifs/road|ripolverosa]]             20
+
+La Canzone di [[characters/quoodle|Quoodle]]                          24
+
+Pionieri, o pionieri                  27
+
+Il logico vegetariano                31
+
+"#La testa del saraceno"                34
+
+Il buon ricco                    37
+
+La Canzone contro le altre canzoni                42
+
+Il mio cuore                           45
+
+La Canzone del Quercio                49
+
+La [[motifs/road|Strada]] che conduce al rondò        53
+
+La Canzone dello strano Asceta      57
+
+La Canzone del Giusto e dell’Ingiusto          60
+
+Chi va a [[motifs/home|casa]]?                          63
+
+Vino, [[motifs/water|acqua]] e canto.
+
+L'inglese
+
+San Giorgio, protettore d’Inghilterra
+
+E prima di uccidere il drago
+
+Bevve una pinta di birra inglese
+
+Dall’imboccatura di un boccale inglese.
+
+Perché sebbene digiuni con grande facilità…
+
+In abiti severi o in uniforme,
+
+Non è sicuro dargli dei dolci
+
+A meno che non gli dia dell’ale.
+
+San Giorgio, protettore d’Inghilterra
+
+E così, con grande nobiltà, viene liberato.
+
+La signora se ne andò per diventare cibo del drago
+
+Legato a un albero;
+
+Ma poiché rappresentava l’Inghilterra…
+
+E sapeva cosa significasse l’Inghilterra
+
+A meno che non gli dia il bacon
+
+Non devi dargli fagioli.
+
+San Giorgio è il protettore d’Inghilterra
+
+E porterà lo scudo che un tempo indossò
+
+Quando usciamo armati di corazza
+
+Con la croce della battaglia davanti a sé.
+
+Ma sebbene sia una compagnia molto piacevole…
+
+E molto felice di poter cenare…
+
+Non è sicuro dargli noci
+
+A meno che non gli dia del vino.
+
+Vino e [[motifs/water|acqua]]
+
+Vecchio Noè aveva una fattoria di struzzi e allevava pollame su larga scala
+
+Mangiò l’uovo con un cucchiaio in una ciotola grande quanto un secchio
+
+Zuppa d’elefante e pesce balena
+
+Ma tutti sembravano piccoli rispetto alla cantina che aveva preparato prima di partire per il viaggio in mare.
+
+“E Noè, spesso, quando si sedeva a mangiare con sua moglie…”
+
+“Non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.”
+
+La cascata accecante della scogliera del cielo si riversò giù dal bordo
+
+Come se potesse lavare via le [[motifs/stars|stelle]], proprio come il sapone scivola nello scarico.
+
+I sette cieli si abbatterono con fragore sulla gola dell’inferno per bere…
+
+“E Noè, guardando con un occhio solo, disse: ‘Sembra che stia per piovere.’”
+
+L’[[motifs/water|acqua]] ha sommerso il Monte Bianco fino a raggiungere la profondità di una miniera del Mendip.
+
+Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
+
+Ma Noè ha peccato, e anche noi abbiamo peccato; barcollando sulle gambe instabili, abbiamo commesso errori…
+
+Finché non ci fu inviato un enorme ubriacone nero per una canna…
+
+Non si può trovare vino in una P.S.A., in una cappella o durante un Eisteddfod.
+
+Perché la Maledizione dell’[[motifs/water|Acqua]] è tornata a causa della collera di Dio.
+
+E l’[[motifs/water|acqua]] si trova sulla scacchiera del Vescovo e nel santuario del Pensatore Superiore.
+
+Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
+
+La Canzone contro i negozi di alimentari
+
+Dio creò il malvagio Rivenditore di alimenti.
+
+Per un mistero e un segno
+
+Per che gli uomini possano evitare quei terribili negozi
+
+Andare nelle taverne per mangiare…
+
+Dove si trova il bacon sul tetto
+
+Il vino è nel legno
+
+E Dio che ha creato la buona risata
+
+Ha visto che sono buoni.
+
+Il malvagio Rivenditore di alimenti
+
+Chiamerebbe sua madre “Signora”.
+
+E inchinandosi davanti a lei…
+
+La sua anziana [[motifs/soul|'anima]] era destinata all'inferno.
+
+E strofinarsi quelle mani orribili, chiedendo…
+
+Quale articolo veniva dopo?
+
+Perita nell’atto stesso
+
+Dovrebbe essere il testo originale suo.
+
+I suoi oggetti personali non sono i suoi figli.
+
+Ma i ragazzi vivaci vengono pagati troppo poco.
+
+Chi grida “Denaro!” e fa tutto un trambusto
+
+Per esercitare la sua malvagia attività…
+
+Tenne una donna in gabbia
+
+“La parte più crudele di tutta la giornata…”
+
+E la fa contare, chiamandola “Signorina”.
+
+Fino a quando non svanirà.
+
+Le menti rette degli ostieri
+
+Inducili di tanto in tanto
+
+Rompere una bottiglia con un amico
+
+O trattare gli uomini senza denaro…
+
+Ma chi ha mai visto il Rivenditore di alimentari?
+
+"Trattare le cameriere con il suo tè"
+
+Mai aprire una bottiglia di salsa di pesce
+
+O offrire a un uomo un formaggio?
+
+Ci vende le sabbie d'Arabia
+
+Come zucchero, pagamento in contanti;
+
+Spazza la sua bottega e vende la [[motifs/dust|polvere]]
+
+Il sale più puro della città,
+
+Rimpinza di lattine di carne avvelenata
+
+I poveri sudditi del [[archetypes/king|Re]],
+
+E quando muoiono a migliaia
+
+Ebbene, ride a più non posso.
+
+Il malvagio Droghiere drogheggia
+
+In liquori e in vino,
+
+Non francamente e in compagnia
+
+Come gli uomini cenano nelle locande;
+
+Ma impacchettato con sapone e sardine
+
+E portato via da stallieri,
+
+Per essere afferrato dalle Duchesse
+
+E bevuto negli spogliatoi.
+
+Il Droghiere istruito dall'inferno
+
+Ha un tempio fatto di latta,
+
+E la rovina dei buoni locandieri
+
+Vi è rumorosamente perorata;
+
+Ma ora la sabbia sta scorrendo via
+
+Da uno zucchero di dubbia specie,
+
+Il Droghiere trema; poiché il suo [[motifs/time|tempo]],
+
+Proprio come il suo peso, è scarso.
+
+La [[motifs/road|Strada]] Inglese Serpeggiante
+
+Prima che il Romano giungesse a Rye o s'inoltrasse verso il Severn,
+
+L'ondeggiante ubriacone inglese fece l'ondeggiante [[motifs/road|strada]] inglese.
+
+Una [[motifs/road|strada]] barcollante, una [[motifs/road|strada]] ondeggiante, che vagabonda per la contea,
+
+E dietro a lui corsero il parroco, il sagrestano e lo squire;
+
+Una [[motifs/road|strada]] allegra, una [[motifs/road|strada]] labirintica, e tale quale percorremmo
+
+La [[motifs/night|notte]] in cui andammo a Birmingham passando per Beachy Head.
+
+Non sapevo alcun male di Bonaparte e molto dello Squire,
+
+E a combattere il Francese non molto [[motifs/desire|desideravo]];
+
+Ma sì che pestai le loro baionette perché vennero schierate
+
+Per raddrizzare la storta [[motifs/road|strada]] che un ubriacone inglese fece,
+
+Dove tu ed io scendemmo per il viottolo coi boccali di birra in mano,
+
+La [[motifs/night|notte]] in cui andammo a Glastonbury passando per i Goodwin Sands.
+
+I suoi peccati gli furono perdonati; o perché i [[motifs/flowers|fiori]] corrono
+
+Dietro di lui; e le siepi tutte irrobustendosi al sole?
+
+La creatura selvaggia andò da sinistra a destra e non sapeva quale fosse quale,
+
+Ma la [[motifs/rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
+
+Dio ci perdoni, e non c'indurisca; non vedevamo così chiaro
+
+La [[motifs/night|notte]] in cui andammo a Bannockburn passando per il Brighton Pier.
+
+Amici miei, non vi torneremo né scimmiotteremo un'antica ira,
+
+Né stireremo la follia della nostra giovinezza a farne l'onta della vecchiaia,
+
+Ma percorreremo con occhi e orecchie più limpidi questo sentiero che vagabonda,
+
+E vedremo non drogati nella luce della sera la decorosa locanda della [[motifs/death|morte]];
+
+Poiché vi sono ancora buone novelle da udire e belle cose da vedere,
+
+Prima di andare in Paradiso passando per Kensal Green.
+
+Il Canto di [[characters/quoodle|Quoodle]]
+
+Non hanno nasi, loro,
+
+I decaduti figli di Eva;
+
+Persino l'odore delle rose
+
+Non è ciò che suppongano;
+
+Ma più di quanto la mente riveli
+
+E più di quanto gli uomini credano.
+
+Non hanno nasi, loro,
+
+Non sanno nemmeno dire
+
+Quando porta e tenebra racchiudono
+
+Il parco che un ebreo recinta,
+
+Dove persino la Legge di Mosè
+
+Ti lascia rubare un odore.
+
+Il brillante odore dell'[[motifs/water|acqua]],
+
+Il fiero odore di una pietra,
+
+L'odore di rugiada e tuono,
+
+Le vecchie ossa sepolte sotto,
+
+Sono cose in cui essi arrancano
+
+E sbagliano, se lasciati soli.
+
+Il [[motifs/wind|vento]] dalle foreste d'[[motifs/winter|inverno]],
+
+Il profumo di [[motifs/flowers|fiori]] senza profumo,
+
+Il respiro dell'ornarsi delle spose,
+
+L'odore d'insidia e d'avvertimento,
+
+L'odore del mattino di [[characters/sunday|domenica]],
+
+Dio ci diede come nostri.
+
+. . . . .
+
+E [[characters/quoodle|Quoodle]] qui rivela
+
+Tutte le cose che [[characters/quoodle|Quoodle]] può,
+
+Non hanno nasi, loro,
+
+Non hanno nasi, loro,
+
+E soltanto la bontà divina conosce
+
+La Nasomancanza dell'Uomo.
+
+Pionieri, o Pionieri
+
+Nabucodonosor il [[archetypes/king|Re]] dei Giudei
+
+Soffriva di vedute nuove e originali,
+
+Strisciava su mani e ginocchia, si dice,
+
+Con l'erba in bocca e una [[motifs/crown|corona]] in capo.
+
+Con un wowtyiddly, ecc.
+
+Coloro che calcavano i sentieri tradizionali
+
+Pensavano che la cosa fosse una maledizione di Dio,
+
+Ma un Pioniere lo si insulta sempre
+
+Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
+
+Il nero Lord Foulon, che il Francese uccise,
+
+Pensò fosse una cosa Futurista da fare.
+
+Offrì loro erba invece di pane.
+
+Così lo rimpinzarono d'erba quando gli tagliarono la testa.
+
+Con un wowtyiddly, ecc.
+
+Per l'[[concepts/pride|orgoglio]] della sua [[motifs/soul|anima]] perì allora...
+
+Ma naturalmente è sempre di [[concepts/pride|orgoglio]] che gli uomini,
+
+Un Uomo in Anticipo sui Tempi, accusano,
+
+Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
+
+Simeon Scudder di Styx, nel Maine,
+
+Pensò alla cosa e vi si rimise di nuovo.
+
+Diede buona erba e [[motifs/water|acqua]] in secchi
+
+A mille Irlandesi che martellavano rotaie.
+
+Con un wowtyiddly, ecc.
+
+Gli appetiti differiscono; e legato a un palo
+
+Fu impeciato e impiumato per amor di [[concepts/conscience|Coscienza]].
+
+Ma lapidare i profeti è cosa antica,
+
+Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
+
+Il Vegetariano Logico
+
+«Perché non dovrei avere una bevanda puramente vegetariana? Perché non dovrei prendere
+
+i vegetali nella loro forma più alta, per così dire? I modesti vegetariani
+
+dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande vegetariane,
+
+invece di colmare i loro calici col [[motifs/blood|sangue]] di tori ed elefanti,
+
+come fanno tutti i convenzionali mangiatori di carne, suppongo». — Dalroy.
+
+Mi troverai a bere rum,
+
+Come un marinaio in un tugurio,
+
+Mi troverai a bere birra come un Bavarese.
+
+Mi troverai a bere gin
+
+Nella più infima specie di locanda,
+
+Perché sono un rigido Vegetariano.
+
+Così vuotai la locanda del vino,
+
+E cercai di arrampicarmi sull'insegna,
+
+E cercai di salutare il poliziotto chiamandolo «Marion».
+
+Ma egli disse che non sapevo parlare,
+
+E mi spedì di filato dal Giudice
+
+Perché ero un Felice Vegetariano.
+
+Oh, conoscevo un Dottor Gluck,
+
+E il suo naso aveva un uncino,
+
+E i suoi atteggiamenti erano tutt'altro che Ariani;
+
+Così gli diedi tutto il maiale
+
+Che avevo, su una forchetta;
+
+Perché io stesso sono un Vegetariano.
+
+Sono silenzioso al Circolo,
+
+Sono silenzioso al pub,
+
+Sono silenzioso su una maledetta vetta nel Darien;
+
+Poiché mi rimpinzo per la vita
+
+Cacciandomi i piselli con un coltello,
+
+Perché in cuore sono un Vegetariano.
+
+Non più il latte di mucca
+
+Contaminerà la mia privata dimora
+
+Più del latte delle cavalle selvagge del Barbaro;
+
+Mi atterrò al porto e allo sherry,
+
+Poiché sono così tanto, tanto,
+
+Così tanto, tanto, tanto Vegetariani.
+
+«La Testa del Saraceno»
+
+«La Testa del Saraceno» guarda giù per il vicolo,
+
+Dove non berremo mai più vino,
+
+Poiché le malvagie vecchie che si sentono [[motifs/well|ben]] educate
+
+Hanno mutato in una sala da tè «La Testa del Saraceno».
+
+«La Testa del Saraceno» venne dall'Arabia,
+
+[[archetypes/king|Re]] [[characters/richard|Riccardo]] cavalcando in armi come fiamma,
+
+E dove stabilì che la sua gente fosse nutrita
+
+Piantò una lancia... e la Testa del Saraceno.
+
+Ma «La Testa del Saraceno» sopravvisse ai Re,
+
+Pensò e ripensò a cose orribilissime,
+
+Di Salute e di Sapone e di Pane Standard,
+
+E di bevande saracene a «La Testa del Saraceno».
+
+Così «La Testa del Saraceno» compie il suo nome,
+
+Non bevono vino... un gioco ridicolo...
+
+E mi [[concepts/wonder|stupirò]] finché non sarò morto,
+
+Come mai sia entrato nella Testa del Saraceno.
+
+Il Buon Ricco
+
+Il signor Mandragon, il Milionario, non voleva né vino né moglie,
+
+Non sopportava la complessità: viveva la Vita Semplice.
+
+Ordinava il pranzo col megafono in toni virili e semplici,
+
+E usava tutte le sue automobili per battere gli elettori, e venti telefoni;
+
+Oltre a un elegante [[motifs/machine|congegno]],
+
+Ingegnoso e lindo come mai se ne vide,
+
+Con cento carrucole e manovelle in mezzo,
+
+Fatto di metallo e tenuto ben pulito,
+
+Per issarlo fuori dal salubre letto ogni giorno della sua vita,
+
+E lavarlo e vestirlo e raderlo e spazzolarlo
+
+...per vivere la Vita Semplice.
+
+Il signor Mandragon era assai raffinato e vestito con quieta eleganza,
+
+Dicono tutti i giornali americani che di raffinatezza s'intendono;
+
+Quieto e lindo il cappello e i capelli e la giacca quieta e linda,
+
+Un pantalone indossato su ciascuna gamba, mentre gli stivali ornano i piedi;
+
+E non, come chiunque si aspetterebbe,
+
+Una Pelle di Tigre tutta striata e macchiettata,
+
+E un Cappello di Pavone con la coda eretta,
+
+Una tunica scarlatta adorna di girasoli,
+
+Che avrebbe potuto avere un effetto più marcato,
+
+E lusingato l'[[concepts/pride|orgoglio]] di un uomo più debole che agognasse vino o moglie;
+
+Ma la Fama e il Boccale, per il signor Mandragon
+
+...offuscarono la Vita Semplice.
+
+Il signor Mandragon, il Milionario, sono lieto di dirlo, è morto;
+
+Godette di un quieto funerale in un capannone di Crematorio.
+
+E giace là soffice e molle e grigio e certamente assai raffinato;
+
+Quando avrebbe potuto marcire in [[motifs/flowers|fiori]] e frutta con Adamo e tutto il genere umano,
+
+O essere divorato da lupi assetati di [[motifs/blood|sangue]],
+
+O arso su una bella alta pira di legna,
+
+In una fiamma torreggiante, come s'addice a un pagano,
+
+O persino sedere con noi qui a tavola,
+
+Prendendo allegramente birra da due soldi e maiale con un temperino;
+
+Ma questo era un lusso non per chi mirava alla Vita Semplice.
+
+Il Canto contro i Canti
+
+Il canto del dolore di Melisande è un canto fiacco e un canto tetro,
+
+La gloria della fattoria di [[characters/mariana|Mariana]] era caduta in gran [[motifs/decay|rovina]],
+
+Il canto del Corvo Mai Più non è mai stato detto un canto gaio,
+
+E le cose più luminose in Baudelaire sono tutt'altro che liete.
+
+Ma chi ci scriverà un canto da cavalcata,
+
+O un canto di caccia o un canto da bevuta,
+
+Degno di coloro che si levarono e cavalcarono
+
+Quando il giorno e il vino erano rossi?
+
+Ma portatemi fuori un quarto di chiaretto,
+
+E vi scriverò un canto tintinnante,
+
+Un canto di guerra e un canto di vino
+
+E un canto per svegliare i morti.
+
+Il canto della furia di Fragolette è un canto florido e un canto torrido,
+
+Il canto del dolore di Tara è cantato su un'arpa scordata,
+
+Il canto dell'allegro Giovane dello Shropshire lo considero un canto perfettamente orrendo,
+
+E il canto del felice Futurista è un canto che non si può cantare.
+
+Ma chi ci scriverà un canto da cavalcata
+
+O un canto di battaglia o un canto da bevuta,
+
+Degno dei padri tuoi e miei,
+
+Che sapevano pensare e prosperare?
+
+Ma il canto della [[concepts/beauty|Bellezza]] e dell'Arte e dell'[[motifs/love|Amore]]
+
+È semplicemente un canto del tutto puzzolente,
+
+Da [[topoi/double|piegarti]] in due e trascinarti giù
+
+E dannare la tua [[motifs/soul|anima]] viva.
+
+Il Mio Cuore
+
+Vengo da Castlepatrick, e il mio cuore è sulla mia manica,
+
+E qualsiasi ragazzo con spada o [[characters/pistol|pistola]] può colpirlo col mio permesso,
+
+Vi brilla come una spallina, dorato come una fiamma,
+
+Nudo come i miei antenati, nobile come il mio nome.
+
+Poiché vengo da Castlepatrick, e il mio cuore è sulla mia manica,
+
+Ma una dama me lo rubò la Vigilia di San Gallowglass.
+
+La gente che vive a Liverpool, ha il cuore negli stivali;
+
+Vanno all'inferno come agnelli, davvero, perché la sirena fischia.
+
+Dove agli uomini non è concesso danzare, benché le ruote [[motifs/dance|danzino]] tutto il giorno;
+
+E agli uomini non è concesso fumare; ma solo ai camini sì.
+
+Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica,
+
+Ma una dama me lo rubò la Vigilia di San Poleander.
+
+La gente che vive nella nera Belfast, ha il cuore in gola,
+
+Ci vedono commettere omicidi nei prati del Sud;
+
+Credono che un aratro sia un cavalletto di tortura, davvero, e che i richiami del bestiame siano credi,
+
+E credono che stiamo bruciando streghe quando bruciamo solo erbacce;
+
+Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica;
+
+Ma una dama me lo rubò la Vigilia di San Barnaba.
+
+Il Canto della Quercia
+
+I Druidi agitavano i loro coltelli d'oro
+
+E danzavano intorno alla Quercia
+
+Quando avevano sacrificato un uomo;
+
+Ma per quanto i dotti cerchino e scrutino,
+
+Nessuna persona moderna riesce
+
+A cogliere del tutto lo scherzo.
+
+Ma benché tagliassero la gola agli uomini
+
+Non tagliavano l'albero,
+
+E dal [[motifs/blood|sangue]] germogliarono gli alberelli
+
+Dei querceti ancora a venire.
+
+Ma Ivywood, Lord Ivywood,
+
+Marcisce l'albero come farebbe l'edera,
+
+S'aggrappa e striscia come farebbe l'edera
+
+Intorno all'albero sacro.
+
+[[archetypes/king|Re]] Carlo fuggì dalla battaglia di Worcester
+
+E si nascose in una Quercia;
+
+Nelle scuole di convento nessun uomo di tatto
+
+Traccerebbe e loderebbe ogni suo atto,
+
+O sosterrebbe che egli fosse in effetti
+
+Un tipo austero e santificato,
+
+Ma non per opera sua i boschi sacri
+
+Hanno perduto le loro libere fantasie,
+
+E benché fosse estremamente grosso
+
+Non spezzò l'albero.
+
+Ma Ivywood, Lord Ivywood,
+
+Spezza l'albero come farebbe l'edera,
+
+E divora i boschi come farebbe l'edera
+
+Fra noi e il mare.
+
+Il grande Collingwood scese per la radura
+
+E sparse le ghiande a manciate,
+
+Affinché le querce fossero ancora nel boschetto
+
+Querciose quanto le travi lassù,
+
+Quando il grande [[archetypes/lover|Amante]] che i marinai [[motifs/love|amano]]
+
+Fu baciato dalla [[motifs/death|Morte]] in mare.
+
+Ma benché per lui le querce cadessero
+
+Per costruire le navi di quercia,
+
+Il boscaiolo venerava ciò che abbatteva
+
+E onorava persino le schegge.
+
+Ma Ivywood, Lord Ivywood,
+
+Odia l'albero come farebbe l'edera,
+
+Come farebbe il drago dell'edera
+
+Che ci tiene nella sua stretta.
+
+La [[motifs/road|Strada]] per Roundabout
+
+Alcuni dicono che Guido di Warwick,
+
+L'uomo che uccise la Vacca
+
+E spezzò vivo il possente Cinghiale
+
+Oltre il Ponte di Slough;
+
+Si mosse contro un Ripugnante Verme
+
+Che devastava tutte le Downs,
+
+E così le strade si torcono e si contorcono
+
+(Se mi è concesso il termine)
+
+Dal dimenarsi del Verme colpito
+
+Che morì in sette città.
+
+Non vedo alcuna prova scientifica
+
+Che quest'idea sia fondata,
+
+E direi che serpeggiavano attorno
+
+Per trovare la città di Roundabout,
+
+L'allegra città di Roundabout,
+
+Che fa girare il mondo.
+
+Alcuni dicono che Robin Goodfellow,
+
+La cui lanterna illumina i prati
+
+(Per rubare una frase di cui Sir Walter Scott
+
+In cielo non ha più bisogno),
+
+Tali [[motifs/dance|danze]] intorno al luogo del convegno
+
+Conduce l'[[archetypes/lover|amante]] lunatico;
+
+La qual superstizione dovrei respingere
+
+V'è più [[concepts/faith|fede]] in un onesto [[concepts/doubt|dubbio]]
+
+(Come ha rilevato Tennyson)
+
+Che in quei laidi credi.
+
+Ma pace e giustizia (San Giovanni)
+
+A Roundabout possono baciarsi,
+
+E poiché è tutto ciò che si trova attorno
+
+Alla piacevole città di Roundabout,
+
+Le strade semplicemente rimbalzano attorno
+
+Per scoprire dove sia.
+
+Alcuni dicono che quando Sir Lancillotto
+
+Partì per trovare il Graal,
+
+Il grigio Merlino aggrinzì le strade
+
+Nella [[concepts/hope|speranza]] che egli fallisse;
+
+Tutte le strade riconducevano a Lyonesse
+
+E a Camelot nella Valle,
+
+Non posso prestare assenso a questa
+
+Stravagante ipotesi,
+
+Il semplice, accorto Britanno respingerà
+
+Tali dicerie (=Daily Mail=).
+
+Ma nelle strade di Roundabout
+
+Non si trovano simili fazioni,
+
+Né teorie da esporre attorno,
+
+O su cui rotolarsi per terra attorno,
+
+Nella felice città di Roundabout,
+
+Che fa girare il mondo.
+
+Il Canto dello Strano Asceta
+
+Se fossi stato un Pagano,
+
+Avrei lodato la purpurea vite,
+
+I miei schiavi avrebbero zappato le vigne,
+
+E io avrei bevuto il vino;
+
+Ma Higgins è un Pagano,
+
+E i suoi schiavi si fanno magri e grigi,
+
+Affinché egli possa bere un po' di latte tiepido
+
+Esattamente due volte al giorno.
+
+Se fossi stato un Pagano,
+
+Avrei incoronato i riccioli di Neera,
+
+E colmato la mia vita di relazioni d'[[motifs/love|amore]],
+
+La mia casa di fanciulle danzanti;
+
+Ma Higgins è un Pagano,
+
+Ed è costretto alle sale di conferenza,
+
+Dove le sue zie, che non sono sposate,
+
+Pretendono di essere divorziate.
+
+Se fossi stato un Pagano,
+
+Avrei mandato avanti i miei eserciti,
+
+E trascinato dietro i miei carri
+
+I Capi del Nord.
+
+Ma Higgins è un Pagano,
+
+E spinge la tetra penna d'oca,
+
+Per prestare ai poveri quel buffo denaro
+
+Che li rende ancor più poveri.
+
+Se fossi stato un Pagano,
+
+Avrei innalzato in alto la mia pira,
+
+E in un gran rosso turbine
+
+Sarei salito ruggendo al cielo;
+
+Ma Higgins è un Pagano,
+
+E un uomo più ricco di me;
+
+E lo misero in un forno,
+
+Proprio come se fosse una torta.
+
+Ora chi corre può leggerlo,
+
+L'[[forms/riddle|enigma]] che scrivo,
+
+Del perché questo povero vecchio peccatore,
+
+Debba peccare senza diletto...?
+
+Ma io, io non riesco a leggerlo
+
+(Benché corra e corra),
+
+Di coloro che non hanno la [[concepts/faith|fede]],
+
+E non vogliono il divertimento.
+
+Il Canto del Giusto e dell'Ingiusto
+
+Banchetta col vino o digiuna con l'[[motifs/water|acqua]],
+
+E il tuo [[concepts/honour|onore]] rimarrà saldo,
+
+Figlio e figlia di Dio Onnipotente
+
+Egli il valoroso, ella la pura;
+
+Se un angelo dal cielo
+
+Ti reca altre cose da bere,
+
+Ringrazialo per le sue gentili premure,
+
+E va' a versarle nel lavandino.
+
+Il tè è come l'Oriente in cui cresce,
+
+Un grande giallo Mandarino
+
+Con urbanità di modi
+
+E inconsapevolezza del peccato;
+
+Tutte le donne, come un harem,
+
+Gli marciano dietro al codino;
+
+E, come tutto l'Oriente in cui cresce,
+
+È [[motifs/poison|Veleno]] quando è forte.
+
+Il tè, benché Orientale,
+
+È perlomeno un gentiluomo;
+
+Il cacao è un mascalzone e un codardo,
+
+Il cacao è una bestia volgare,
+
+Il cacao è un ottuso, sleale,
+
+Bugiardo, strisciante mascalzone e buffone,
+
+E può assai [[motifs/well|bene]] essere grato
+
+Allo [[archetypes/fool|sciocco]] che lo trangugia.
+
+Quanto a tutte le acque ventose,
+
+Furono fatte piovere come tempeste
+
+Quando la buona bevanda era stata disonorata
+
+Dai beoni della città;
+
+Quando il rosso vino aveva portato rossa rovina
+
+E la [[motifs/dance|danza]] della [[motifs/death|morte]] dei nostri tempi,
+
+Il cielo ci mandò l'[[motifs/water|Acqua]] di Soda
+
+Come tormento per i nostri delitti.
+
+Chi Va a [[motifs/home|Casa]]?
+
+Nella [[motifs/city|città]] posta su melma e fango
+
+Gridano nel loro parlamento «Chi va a [[motifs/home|casa]]?»
+
+E non giunge risposta né da arco né da cupola,
+
+Poiché nessuno nella [[motifs/city|città]] delle tombe va a [[motifs/home|casa]].
+
+Eppure questi periranno e comprenderanno,
+
+Poiché Dio ha pietà di questa gran terra.
+
+Uomini che sono di nuovo uomini; chi va a [[motifs/home|casa]]?
+
+Campana a martello e trombettiere! Chi va a [[motifs/home|casa]]?
+
+Poiché c'è [[motifs/blood|sangue]] sul campo e [[motifs/blood|sangue]] sulla schiuma
+
+E [[motifs/blood|sangue]] sul [[concepts/body|corpo]] quando l'Uomo torna a [[motifs/home|casa]].
+
+E una voce d'addio.... Chi è per la Vittoria?
+
+Chi è per la Libertà? Chi torna a [[motifs/home|casa]]?
+
+Stampato in Gran Bretagna da
+
+UNWIN BROTHERS, LIMITED, STAMPATORI, WOKING E [[settings/london|LONDRA]]
+
+ALCUNI DELIZIOSI LIBRI DI G. K. CHESTERTON
+
+*CHARLES DICKENS.
+
+Con 2 ritratti in fotoincisione. _Ottava edizione._ [[motifs/crown|Crown]] 8vo, 6s.
+
+Un celebre libro su Dickens, concepito come una giustificazione generale di
+
+quell'autore. Il signor Chesterton confronta le immense conquiste prodotte
+
+dall'ottimismo di Dickens nel campo della [[concepts/reform|riforma]] con gli scarsi risultati
+
+prodotti dal metodo pessimistico dei tempi più recenti. Egli tratta a turno ciascuno dei
+
+romanzi, e dedica l'ultima parte del suo libro a una valutazione generale
+
+dell'influenza di Dickens.
+
+LA LOCANDA VOLANTE. _Terza edizione._ [[motifs/crown|Crown]] 8vo, 6s. Anche [[motifs/crown|Crown]] 8vo, 2s. netto.
+
+LA BALLATA DEL [[motifs/horse|CAVALLO]] BIANCO. _Quinta edizione._ Fcap. 8vo, 5s.
+
+Una ballata sul regno di [[historical-references/king-alfred|re Alfredo]]. Descrive le nobili
+
+imprese di quel monarca, il suo carattere, la sua lotta con i Danesi, la storia del
+
+[[motifs/horse|Cavallo]] Bianco, e la battaglia di Ethandune.
+
+LETTERE A UN VECCHIO GARIBALDINO. [[motifs/crown|Crown]] 8vo, 3d. netto.
+
+SAGGI
+
+Fcap. 8vo. Taglio superiore dorato. 5s. ciascuno.
+
+*TUTTO CONSIDERATO. _Settima edizione._
+
+FORMIDABILI INEZIE. _Quinta edizione._
+
+ALLARMI E DIVAGAZIONI. _Seconda edizione._
+
+UNA MISCELLANEA DI UOMINI. _Seconda edizione._
+
+* _È disponibile anche un'edizione in tela, Fcap. 8vo, 1s. netto._
+
+METHUEN & CO. LTD. [[settings/london|LONDRA]]
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/horse,motif/road,motif/soul,motif/stars,motif/water,setting/london,character/quoodle"></span>

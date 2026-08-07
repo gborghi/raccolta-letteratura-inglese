@@ -13,8 +13,6 @@ tags:
 <span class="atom-split" data-atom="the_waste_land" data-title="The Waste Land" data-chapter="" data-kind="intro"></span>
 
 
-## I. The Burial of the Dead
-
 I. The Burial of the Dead  
     April is the cruellest month, breeding  
 Lilacs out of the dead land, mixing  
@@ -25,7 +23,7 @@ Earth in forgetful [[motifs/snow|snow]], feeding
 A little life with dried tubers.  
 [[motifs/summer|Summer]] surprised us, coming over the Starnbergersee  
 With a shower of rain; we stopped in the colonnade,  
-10 And went on in sunlight, into the Hofgarten,  
+And went on in sunlight, into the Hofgarten,  
 
 
 And drank coffee, and talked for an hour.  
@@ -37,7 +35,7 @@ Marie, hold on tight. And down we went.
 In the [[settings/mountains|mountains]], there you feel free.  
 I read, much of the [[motifs/night|night]], and go south in the [[motifs/winter|winter]].  
     What are the roots that clutch, what branches grow  
-20 Out of this stony rubbish? Son of man,  
+Out of this stony rubbish? Son of man,  
 
 
 You cannot say, or guess, for you know only  
@@ -49,7 +47,7 @@ There is [[archetypes/shadow|shadow]] under this red rock,
 And I will show you something different from either  
 Your [[archetypes/shadow|shadow]] at morning striding behind you  
 Or your [[archetypes/shadow|shadow]] at evening rising to meet you;  
-30 I will show you [[concepts/fear|fear]] in a handful of [[motifs/dust|dust]].  
+I will show you [[concepts/fear|fear]] in a handful of [[motifs/dust|dust]].  
 
 
 Frisch weht der [[motifs/wind|Wind]]  
@@ -61,7 +59,7 @@ Wo weilest du?
 — Yet when we came back, late, from the hyacinth [[motifs/garden|garden]],  
 Your arms full, and your hair wet, I could not  
 Speak, and my eyes failed, I was neither  
-40 Living nor dead, and I knew nothing,  
+Living nor dead, and I knew nothing,  
 
 
 Looking into the heart of light, the [[motifs/silence|silence]].  
@@ -75,7 +73,7 @@ With a wicked pack of cards. Here, said she,
 Is your card, the drowned Phoenician Sailor,  
 (Those are pearls that were his eyes. Look!)  
 Here is Belladonna, the Lady of the Rocks,  
-50 The lady of situations.  
+The lady of situations.  
 
 
 Here is the man with three staves, and here the [[motifs/wheel|Wheel]],  
@@ -87,7 +85,7 @@ I see crowds of people, walking round in a ring.
 Thank you. If you see dear Mrs. Equitone,  
 Tell her I bring the horoscope myself:  
 One must be so careful these days.  
-60    Unreal [[motifs/city|City]],  
+    Unreal [[motifs/city|City]],  
 
 
 Under the brown fog of a [[motifs/winter|winter]] [[motifs/dawn|dawn]],  
@@ -99,7 +97,7 @@ Flowed up the [[motifs/hill|hill]] and down [[archetypes/king|King]] William Str
 To where Saint Mary Woolnoth kept the hours  
 With a dead sound on the final stroke of nine.  
 There I saw one I knew, and stopped him, crying: ‘Stetson!  
-70 ‘You who were with me in the ships at Mylae!  
+‘You who were with me in the ships at Mylae!  
 ‘That corpse you planted last year in your [[motifs/garden|garden]],  
 ‘Has it begun to sprout? Will it bloom this year?  
 ‘Or has the sudden [[motifs/frost|frost]] disturbed its bed?  
@@ -111,7 +109,7 @@ II. A Game of Chess
     The Chair she sat in, like a burnished throne,  
 Glowed on the marble, where the glass  
 Held up by standards wrought with fruited vines  
-80 From which a golden Cupidon peeped out  
+From which a golden Cupidon peeped out  
 
 
 (Another hid his eyes behind his wing)  
@@ -123,7 +121,7 @@ In vials of ivory and coloured glass
 Unstoppered, lurked her strange synthetic perfumes,  
 Unguent, powdered, or liquid — troubled, confused  
 And drowned the sense in odours; stirred by the air  
-90 That freshened from the [[motifs/window|window]], these ascended  
+That freshened from the [[motifs/window|window]], these ascended  
 
 
 In fattening the prolonged candle-flames,  
@@ -135,7 +133,7 @@ In which sad light a carvèd dolphin swam.
 Above the antique mantel was displayed  
 As though a [[motifs/window|window]] gave upon the sylvan scene  
 The change of Philomel, by the barbarous [[archetypes/king|king]]  
-100 So rudely forced; yet there the [[motifs/nightingale|nightingale]]  
+So rudely forced; yet there the [[motifs/nightingale|nightingale]]  
 
 
 Filled all the [[motifs/desert|desert]] with inviolable voice  
@@ -147,7 +145,7 @@ Leaned out, leaning, hushing the room enclosed.
 Footsteps shuffled on the stair.  
 Under the firelight, under the brush, her hair  
 Spread out in fiery points  
-110 Glowed into words, then would be savagely still.  
+Glowed into words, then would be savagely still.  
 
 
     ‘My nerves are bad tonight. Yes, bad. Stay with me.  
@@ -159,7 +157,7 @@ Where the dead men lost their bones.
     ‘What is that noise?’  
                                 The [[motifs/wind|wind]] under the door.  
 ‘What is that noise now? What is the [[motifs/wind|wind]] doing?’  
-120                                Nothing again nothing.  
+                                Nothing again nothing.  
 
 
                                                                                     ‘Do  
@@ -171,7 +169,7 @@ Those are pearls that were his eyes.
                                                                                     But  
 O O O O that Shakespeherian Rag —  
 It’s so elegant  
-130 So intelligent  
+So intelligent  
 
 
 ‘What shall I do now? What shall I do?  
@@ -183,7 +181,7 @@ And if it rains, a closed car at four.
 And we shall play a game of chess,  
 Pressing lidless eyes and waiting for a knock upon the door.  
     When Lil’s husband got demobbed, I said —  
-140 I didn’t mince my words, I said to her myself,  
+I didn’t mince my words, I said to her myself,  
 
 
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
@@ -195,7 +193,7 @@ He said, I swear, I can’t bear to look at you.
 And no more can’t I, I said, and think of poor Albert,  
 He’s been in the army four years, he wants a good [[motifs/time|time]],  
 And if you don’t give it him, there’s others will, I said.  
-150 Oh is there, she said. Something o’ that, I said.  
+Oh is there, she said. Something o’ that, I said.  
 
 
 Then I’ll know who to thank, she said, and give me a straight look.  
@@ -207,7 +205,7 @@ You ought to be ashamed, I said, to look so antique.
 (And her only thirty-one.)  
 I can’t help it, she said, pulling a long face,  
 It’s them pills I took, to bring it off, she said.  
-160 (She’s had five already, and nearly died of young George.)  
+(She’s had five already, and nearly died of young George.)  
 
 
 The chemist said it would be all right, but I’ve never been the same.  
@@ -221,143 +219,21 @@ HURRY UP PLEASE ITS [[motifs/time|TIME]]
 And they asked me in to dinner, to get the [[concepts/beauty|beauty]] of it hot —  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-170 Goonight Bill. Goonight Lou. Goonight May. Goonight.  
-
-
-Ta ta. Goonight. Goonight.  
-Good [[motifs/night|night]], ladies, good [[motifs/night|night]], sweet ladies, good [[motifs/night|night]], good [[motifs/night|night]].  
-
-## II. A Game of Chess
-
-II. A Game of Chess  
-    The Chair she sat in, like a burnished throne,  
-Glowed on the marble, where the glass  
-Held up by standards wrought with fruited vines  
-80 From which a golden Cupidon peeped out  
-
-
-(Another hid his eyes behind his wing)  
-Doubled the flames of sevenbranched candelabra  
-Reflecting light upon the table as  
-The glitter of her jewels [[motifs/rose|rose]] to meet it,  
-From satin cases poured in rich profusion.  
-In vials of ivory and coloured glass  
-Unstoppered, lurked her strange synthetic perfumes,  
-Unguent, powdered, or liquid — troubled, confused  
-And drowned the sense in odours; stirred by the air  
-90 That freshened from the [[motifs/window|window]], these ascended  
-
-
-In fattening the prolonged candle-flames,  
-Flung their smoke into the laquearia,  
-Stirring the pattern on the coffered ceiling.  
-Huge sea-wood fed with copper  
-Burned green and orange, framed by the coloured stone,  
-In which sad light a carvèd dolphin swam.  
-Above the antique mantel was displayed  
-As though a [[motifs/window|window]] gave upon the sylvan scene  
-The change of Philomel, by the barbarous [[archetypes/king|king]]  
-100 So rudely forced; yet there the [[motifs/nightingale|nightingale]]  
-
-
-Filled all the [[motifs/desert|desert]] with inviolable voice  
-And still she cried, and still the world pursues,  
-‘Jug Jug’ to dirty ears.  
-And other withered stumps of [[motifs/time|time]]  
-Were told upon the walls; staring forms  
-Leaned out, leaning, hushing the room enclosed.  
-Footsteps shuffled on the stair.  
-Under the firelight, under the brush, her hair  
-Spread out in fiery points  
-110 Glowed into words, then would be savagely still.  
-
-
-    ‘My nerves are bad tonight. Yes, bad. Stay with me.  
-    Speak to me. Why do you never speak? Speak.  
-        What are you thinking of? What thinking? What?  
-    I never know what you are thinking. Think.’  
-    I think we are in rats’ alley  
-Where the dead men lost their bones.  
-    ‘What is that noise?’  
-                                The [[motifs/wind|wind]] under the door.  
-‘What is that noise now? What is the [[motifs/wind|wind]] doing?’  
-120                                Nothing again nothing.  
-
-
-                                                                                    ‘Do  
-‘You know nothing? Do you see nothing? Do you remember  
-Nothing?’  
-       I remember  
-Those are pearls that were his eyes.  
-‘Are you alive, or not? Is there nothing in your head?’  
-                                                                                    But  
-O O O O that Shakespeherian Rag —  
-It’s so elegant  
-130 So intelligent  
-
-
-‘What shall I do now? What shall I do?  
-I shall rush out as I am, and walk the street  
-With my hair down, so. What shall we do tomorrow?  
-What shall we ever do?’  
-                                                  The hot [[motifs/water|water]] at ten.  
-And if it rains, a closed car at four.  
-And we shall play a game of chess,  
-Pressing lidless eyes and waiting for a knock upon the door.  
-    When Lil’s husband got demobbed, I said —  
-140 I didn’t mince my words, I said to her myself,  
-
-
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-Now Albert’s coming back, make yourself a bit smart.  
-He’ll want to know what you done with that money he gave you  
-To get yourself some teeth. He did, I was there.  
-You have them all out, Lil, and get a nice set,  
-He said, I swear, I can’t bear to look at you.  
-And no more can’t I, I said, and think of poor Albert,  
-He’s been in the army four years, he wants a good [[motifs/time|time]],  
-And if you don’t give it him, there’s others will, I said.  
-150 Oh is there, she said. Something o’ that, I said.  
-
-
-Then I’ll know who to thank, she said, and give me a straight look.  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-If you don’t like it you can get on with it, I said.  
-Others can pick and choose if you can’t.  
-But if Albert makes off, it won’t be for lack of telling.  
-You ought to be ashamed, I said, to look so antique.  
-(And her only thirty-one.)  
-I can’t help it, she said, pulling a long face,  
-It’s them pills I took, to bring it off, she said.  
-160 (She’s had five already, and nearly died of young George.)  
-
-
-The chemist said it would be all right, but I’ve never been the same.  
-You are a proper [[archetypes/fool|fool]], I said.  
-
-
-[[motifs/well|Well]], if Albert won’t leave you alone, there it is, I said,  
-What you get married for if you don’t want children?  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-[[motifs/well|Well]], that [[characters/sunday|Sunday]] Albert was [[motifs/home|home]], they had a hot gammon,  
-And they asked me in to dinner, to get the [[concepts/beauty|beauty]] of it hot —  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-170 Goonight Bill. Goonight Lou. Goonight May. Goonight.  
+Goonight Bill. Goonight Lou. Goonight May. Goonight.  
 
 
 Ta ta. Goonight. Goonight.  
 Good [[motifs/night|night]], ladies, good [[motifs/night|night]], sweet ladies, good [[motifs/night|night]], good [[motifs/night|night]].  
 
 III. The [[motifs/fire|Fire]] Sermon  
-    The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
+    The [[motifs/river|river]]’s tent is broken; the last fingers of leaf  
 Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
 Crosses the brown land, unheard. The nymphs are departed.  
 Sweet Thames, run softly, till I end my song.  
 The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
 Silk handkerchiefs, cardboard boxes, cigarette ends  
 Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
-180 And their friends, the loitering heirs of [[motifs/city|City]] directors;  
+And their friends, the loitering heirs of [[motifs/city|City]] directors;  
 
 
 Departed, have left no addresses.  
@@ -369,7 +245,7 @@ The rattle of the bones, and chuckle spread from ear to ear.
 A rat crept softly through the vegetation  
 Dragging its slimy belly on the bank  
 While I was fishing in the dull canal  
-190 On a [[motifs/winter|winter]] evening round behind the gashouse  
+On a [[motifs/winter|winter]] evening round behind the gashouse  
 
 
 Musing upon the [[archetypes/king|king]] my brother’s wreck  
@@ -381,7 +257,7 @@ But at my back from [[motifs/time|time]] to [[motifs/time|time]] I hear
 The sound of horns and motors, which shall bring  
 [[characters/sweeney|Sweeney]] to Mrs. Porter in the [[motifs/spring|spring]].  
 O the [[motifs/moon|moon]] shone bright on Mrs. Porter  
-200 And on her daughter  
+And on her daughter  
 
 
 They wash their feet in soda [[motifs/water|water]]  
@@ -393,7 +269,7 @@ Tereu
     Unreal [[motifs/city|City]]  
 Under the brown fog of a [[motifs/winter|winter]] [[motifs/noon|noon]]  
 Mr. Eugenides, the Smyrna merchant  
-210 Unshaven, with a pocket full of currants  
+Unshaven, with a pocket full of currants  
 
 
 C.i.f. [[settings/london|London]]: documents at sight,  
@@ -405,7 +281,7 @@ Turn upward from the desk, when the human engine waits
 Like a taxi throbbing waiting,  
 I [[characters/tiresias|Tiresias]], though blind, throbbing between two lives,  
 Old man with wrinkled female breasts, can see  
-220 At the violet hour, the evening hour that strives  
+At the violet hour, the evening hour that strives  
 
 
 Homeward, and brings the sailor [[motifs/home|home]] from sea,  
@@ -417,7 +293,7 @@ On the divan are piled (at [[motifs/night|night]] her bed)
 Stockings, slippers, camisoles, and stays.  
 I [[characters/tiresias|Tiresias]], old man with wrinkled dugs  
 Perceived the scene, and foretold the rest —  
-230 I too awaited the expected guest.  
+I too awaited the expected guest.  
 
 
 He, the young man carbuncular, arrives,  
@@ -429,7 +305,7 @@ The meal is ended, she is bored and tired,
 Endeavours to engage her in caresses  
 Which still are unreproved, if undesired.  
 Flushed and decided, he assaults at once;  
-240 Exploring hands encounter no defence;  
+Exploring hands encounter no defence;  
 
 
 His [[concepts/vanity|vanity]] requires no response,  
@@ -441,7 +317,7 @@ And walked among the lowest of the dead.)
 Bestows one final patronising kiss,  
 And gropes his way, finding the stairs unlit …  
     She turns and looks a moment in the glass,  
-250 Hardly aware of her departed [[archetypes/lover|lover]];  
+Hardly aware of her departed [[archetypes/lover|lover]];  
 
 
 Her brain allows one half-formed thought to pass:  
@@ -453,7 +329,7 @@ And puts a record on the gramophone.
     ‘This music crept by me upon the waters’  
 And along the Strand, up [[characters/queen|Queen]] Victoria Street.  
 O [[motifs/city|City]] [[motifs/city|city]], I can sometimes hear  
-260 Beside a public bar in Lower Thames Street,  
+Beside a public bar in Lower Thames Street,  
 
 
 The pleasant whining of a mandoline  
@@ -465,7 +341,7 @@ Inexplicable splendour of Ionian white and gold.
                     Oil and tar  
                     The barges drift  
                     With the turning tide  
-270                    Red sails  
+                    Red sails  
 
 
                     Wide  
@@ -477,7 +353,7 @@ Inexplicable splendour of Ionian white and gold.
                                          Weialala leia  
                                          Wallala leialala  
                     Elizabeth and Leicester  
-280                    Beating oars  
+                    Beating oars  
 
 
                     The stern was formed  
@@ -489,178 +365,7 @@ Inexplicable splendour of Ionian white and gold.
                     Carried down stream  
                     The peal of [[motifs/bells|bells]]  
                     White towers  
-290                                         Weialala leia  
-
-
-                                         Wallala leialala  
-                    ‘Trams and dusty trees.  
-                    Highbury bore me. Richmond and Kew  
-                    Undid me. By Richmond I raised my knees  
-                    Supine on the floor of a narrow canoe.’  
-                    ‘My feet are at Moorgate, and my heart  
-                    Under my feet. After the event  
-                    He wept. He promised “a new start.”  
-                    I made no comment. What should I resent?’  
-300                    ‘On Margate Sands.  
-
-
-                    I can connect  
-                    Nothing with nothing.  
-                    The broken fingernails of dirty hands.  
-                    My people humble people who expect  
-                    Nothing.’  
-                                la la  
-                    To Carthage then I came  
-                    Burning burning burning burning  
-                    O Lord Thou pluckest me out  
-310                    O Lord Thou pluckest  
-
-
-                    burning  
-
-## III. The [[motifs/fire|Fire]] Sermon
-
-III. The [[motifs/fire|Fire]] Sermon  
-    The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
-Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
-Crosses the brown land, unheard. The nymphs are departed.  
-Sweet Thames, run softly, till I end my song.  
-The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
-Silk handkerchiefs, cardboard boxes, cigarette ends  
-Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
-180 And their friends, the loitering heirs of [[motifs/city|City]] directors;  
-
-
-Departed, have left no addresses.  
-By the waters of Leman I sat down and wept …  
-Sweet Thames, run softly till I end my song,  
-Sweet Thames, run softly, for I speak not loud or long.  
-But at my back in a cold blast I hear  
-The rattle of the bones, and chuckle spread from ear to ear.  
-A rat crept softly through the vegetation  
-Dragging its slimy belly on the bank  
-While I was fishing in the dull canal  
-190 On a [[motifs/winter|winter]] evening round behind the gashouse  
-
-
-Musing upon the [[archetypes/king|king]] my brother’s wreck  
-And on the [[archetypes/king|king]] my father’s [[motifs/death|death]] before him.  
-White bodies naked on the low damp ground  
-And bones cast in a little low dry garret,  
-Rattled by the rat’s foot only, year to year.  
-But at my back from [[motifs/time|time]] to [[motifs/time|time]] I hear  
-The sound of horns and motors, which shall bring  
-[[characters/sweeney|Sweeney]] to Mrs. Porter in the [[motifs/spring|spring]].  
-O the [[motifs/moon|moon]] shone bright on Mrs. Porter  
-200 And on her daughter  
-
-
-They wash their feet in soda [[motifs/water|water]]  
-Et O ces voix d’enfants, chantant dans la coupole!  
-Twit twit twit  
-Jug jug jug jug jug jug  
-So rudely forc’d.  
-Tereu  
-    Unreal [[motifs/city|City]]  
-Under the brown fog of a [[motifs/winter|winter]] [[motifs/noon|noon]]  
-Mr. Eugenides, the Smyrna merchant  
-210 Unshaven, with a pocket full of currants  
-
-
-C.i.f. [[settings/london|London]]: documents at sight,  
-Asked me in demotic French  
-To luncheon at the Cannon Street Hotel  
-Followed by a weekend at the Metropole.  
-    At the violet hour, when the eyes and back  
-Turn upward from the desk, when the human engine waits  
-Like a taxi throbbing waiting,  
-I [[characters/tiresias|Tiresias]], though blind, throbbing between two lives,  
-Old man with wrinkled female breasts, can see  
-220 At the violet hour, the evening hour that strives  
-
-
-Homeward, and brings the sailor [[motifs/home|home]] from sea,  
-The typist [[motifs/home|home]] at teatime, clears her breakfast, lights  
-Her stove, and lays out food in tins.  
-Out of the [[motifs/window|window]] perilously spread  
-Her drying combinations touched by the sun’s last rays,  
-On the divan are piled (at [[motifs/night|night]] her bed)  
-Stockings, slippers, camisoles, and stays.  
-I [[characters/tiresias|Tiresias]], old man with wrinkled dugs  
-Perceived the scene, and foretold the rest —  
-230 I too awaited the expected guest.  
-
-
-He, the young man carbuncular, arrives,  
-A small house agent’s clerk, with one bold stare,  
-One of the low on whom assurance sits  
-As a silk hat on a Bradford millionaire.  
-The [[motifs/time|time]] is now propitious, as he guesses,  
-The meal is ended, she is bored and tired,  
-Endeavours to engage her in caresses  
-Which still are unreproved, if undesired.  
-Flushed and decided, he assaults at once;  
-240 Exploring hands encounter no defence;  
-
-
-His [[concepts/vanity|vanity]] requires no response,  
-And makes a welcome of indifference.  
-(And I [[characters/tiresias|Tiresias]] have foresuffered all  
-Enacted on this same divan or bed;  
-I who have sat by Thebes below the wall  
-And walked among the lowest of the dead.)  
-Bestows one final patronising kiss,  
-And gropes his way, finding the stairs unlit …  
-    She turns and looks a moment in the glass,  
-250 Hardly aware of her departed [[archetypes/lover|lover]];  
-
-
-Her brain allows one half-formed thought to pass:  
-‘[[motifs/well|Well]] now that’s done: and I’m glad it’s over.’  
-When lovely woman stoops to folly and  
-Paces about her room again, alone,  
-She smooths her hair with automatic hand,  
-And puts a record on the gramophone.  
-    ‘This music crept by me upon the waters’  
-And along the Strand, up [[characters/queen|Queen]] Victoria Street.  
-O [[motifs/city|City]] [[motifs/city|city]], I can sometimes hear  
-260 Beside a public bar in Lower Thames Street,  
-
-
-The pleasant whining of a mandoline  
-And a clatter and a chatter from within  
-Where fishmen lounge at [[motifs/noon|noon]]: where the walls  
-Of Magnus Martyr hold  
-Inexplicable splendour of Ionian white and gold.  
-                    The [[motifs/river|river]] sweats  
-                    Oil and tar  
-                    The barges drift  
-                    With the turning tide  
-270                    Red sails  
-
-
-                    Wide  
-                    To leeward, swing on the heavy spar.  
-                    The barges wash  
-                    Drifting logs  
-                    Down Greenwich reach  
-                    Past the Isle of Dogs.  
                                          Weialala leia  
-                                         Wallala leialala  
-                    Elizabeth and Leicester  
-280                    Beating oars  
-
-
-                    The stern was formed  
-                    A gilded shell  
-                    Red and gold  
-                    The brisk swell  
-                    Rippled both shores  
-                    Southwest [[motifs/wind|wind]]  
-                    Carried down stream  
-                    The peal of [[motifs/bells|bells]]  
-                    White towers  
-290                                         Weialala leia  
 
 
                                          Wallala leialala  
@@ -672,7 +377,7 @@ Inexplicable splendour of Ionian white and gold.
                     Under my feet. After the event  
                     He wept. He promised “a new start.”  
                     I made no comment. What should I resent?’  
-300                    ‘On Margate Sands.  
+                    ‘On Margate Sands.  
 
 
                     I can connect  
@@ -684,7 +389,7 @@ Inexplicable splendour of Ionian white and gold.
                     To Carthage then I came  
                     Burning burning burning burning  
                     O Lord Thou pluckest me out  
-310                    O Lord Thou pluckest  
+                    O Lord Thou pluckest  
 
 
                     burning  
@@ -698,23 +403,7 @@ Picked his bones in whispers. As he [[motifs/rose|rose]] and fell
 He passed the stages of his age and youth  
 Entering the whirlpool.  
                                                Gentile or Jew  
-320 O you who turn the [[motifs/wheel|wheel]] and look to windward,  
-
-
-Consider Phlebas, who was once handsome and tall as you.  
-
-## IV. [[motifs/death|Death]] by [[motifs/water|Water]]
-
-IV. [[motifs/death|Death]] by [[motifs/water|Water]]  
-Phlebas the Phoenician, a fortnight dead,  
-Forgot the cry of gulls, and the deep sea swell  
-And the profit and loss.  
-                                               A current under sea  
-Picked his bones in whispers. As he [[motifs/rose|rose]] and fell  
-He passed the stages of his age and youth  
-Entering the whirlpool.  
-                                               Gentile or Jew  
-320 O you who turn the [[motifs/wheel|wheel]] and look to windward,  
+O you who turn the [[motifs/wheel|wheel]] and look to windward,  
 
 
 Consider Phlebas, who was once handsome and tall as you.  
@@ -728,7 +417,7 @@ The shouting and the crying
 Of thunder of [[motifs/spring|spring]] over distant [[settings/mountains|mountains]]  
 He who was living is now dead  
 We who were living are now dying  
-330 With a little patience  
+With a little patience  
 
 
     Here is no [[motifs/water|water]] but only rock  
@@ -740,7 +429,7 @@ Amongst the rock one cannot stop or think
 Sweat is dry and feet are in the sand  
 If there were only [[motifs/water|water]] amongst the rock  
 Dead mountain mouth of carious teeth that cannot spit  
-340 Here one can neither stand nor lie nor sit  
+Here one can neither stand nor lie nor sit  
 
 
 There is not even [[motifs/silence|silence]] in the [[settings/mountains|mountains]]  
@@ -752,7 +441,7 @@ From doors of mudcracked houses
     And no rock  
     If there were rock  
     And also [[motifs/water|water]]  
-350    And [[motifs/water|water]]  
+    And [[motifs/water|water]]  
 
 
     A [[motifs/spring|spring]]  
@@ -764,7 +453,7 @@ From doors of mudcracked houses
     Where the hermit-thrush sings in the pine trees  
     Drip drop drip drop drop drop drop  
     But there is no [[motifs/water|water]]  
-360    Who is the third who walks always beside you?  
+   Who is the third who walks always beside you?  
 
 
 When I count, there are only you and I together  
@@ -776,7 +465,7 @@ I do not know whether a man or a woman
     What is that sound high in the air  
 Murmur of maternal lamentation  
 Who are those hooded hordes swarming  
-370 Over endless plains, stumbling in cracked earth  
+Over endless plains, stumbling in cracked earth  
 
 
 Ringed by the flat horizon only  
@@ -788,7 +477,7 @@ Vienna [[settings/london|London]]
 Unreal  
     A woman drew her long black hair out tight  
 And fiddled whisper music on those strings  
-380 And bats with baby faces in the violet light  
+And bats with baby faces in the violet light  
 
 
 Whistled, and beat their wings  
@@ -800,7 +489,7 @@ And voices singing out of empty cisterns and exhausted wells.
 In the faint moonlight, the grass is singing  
 Over the tumbled graves, about the chapel  
 There is the empty chapel, only the [[motifs/wind|wind]]’s [[motifs/home|home]].  
-390 It has no windows, and the door swings,  
+It has no windows, and the door swings,  
 
 
 Dry bones can harm no one.  
@@ -812,7 +501,7 @@ Bringing rain
 Waited for rain, while the black clouds  
 Gathered far distant, over Himavant.  
 The jungle crouched, humped in [[motifs/silence|silence]].  
-400 Then spoke the thunder  
+Then spoke the thunder  
 
 
 DA  
@@ -826,7 +515,7 @@ By this, and this only, we have existed
 Which is not to be found in our obituaries  
 Or in memories draped by the beneficent spider  
 Or under seals broken by the lean solicitor  
-410 In our empty rooms  
+In our empty rooms  
 
 
 DA  
@@ -842,7 +531,7 @@ DA
 Damyata: The boat responded  
 
 
-420 Gaily, to the hand expert with sail and oar  
+Gaily, to the hand expert with sail and oar  
 
 
 The sea was calm, your heart would have responded  
@@ -856,154 +545,7 @@ Poi s’ascose nel foco che gli affina
 Quando fiam uti chelidon — O [[motifs/swallow|swallow]] [[motifs/swallow|swallow]]  
 
 
-430 Le Prince d’Aquitaine à la tour abolie  
-
-
-These fragments I have shored against my ruins  
-Why then Ile fit you. Hieronymo’s mad againe.  
-Datta. Dayadhvam. Damyata.  
-                    Shantih shantih shantih  
-
-## V. What the Thunder Said
-
-V. What the Thunder said  
-    After the torchlight red on sweaty faces  
-After the frosty [[motifs/silence|silence]] in the gardens  
-After the agony in stony places  
-The shouting and the crying  
-[[motifs/prison|Prison]] and palace and reverberation  
-Of thunder of [[motifs/spring|spring]] over distant [[settings/mountains|mountains]]  
-He who was living is now dead  
-We who were living are now dying  
-330 With a little patience  
-
-
-    Here is no [[motifs/water|water]] but only rock  
-Rock and no [[motifs/water|water]] and the sandy [[motifs/road|road]]  
-The [[motifs/road|road]] winding above among the [[settings/mountains|mountains]]  
-Which are [[settings/mountains|mountains]] of rock without [[motifs/water|water]]  
-If there were [[motifs/water|water]] we should stop and drink  
-Amongst the rock one cannot stop or think  
-Sweat is dry and feet are in the sand  
-If there were only [[motifs/water|water]] amongst the rock  
-Dead mountain mouth of carious teeth that cannot spit  
-340 Here one can neither stand nor lie nor sit  
-
-
-There is not even [[motifs/silence|silence]] in the [[settings/mountains|mountains]]  
-But dry sterile thunder without rain  
-There is not even [[concepts/solitude|solitude]] in the [[settings/mountains|mountains]]  
-But red sullen faces sneer and snarl  
-From doors of mudcracked houses  
-                                                 If there were [[motifs/water|water]]  
-    And no rock  
-    If there were rock  
-    And also [[motifs/water|water]]  
-350    And [[motifs/water|water]]  
-
-
-    A [[motifs/spring|spring]]  
-    A pool among the rock  
-    If there were the sound of [[motifs/water|water]] only  
-    Not the cicada  
-    And dry grass singing  
-    But sound of [[motifs/water|water]] over a rock  
-    Where the hermit-thrush sings in the pine trees  
-    Drip drop drip drop drop drop drop  
-    But there is no [[motifs/water|water]]  
-360    Who is the third who walks always beside you?  
-
-
-When I count, there are only you and I together  
-But when I look ahead up the white [[motifs/road|road]]  
-There is always another one walking beside you  
-Gliding wrapt in a brown mantle, hooded  
-I do not know whether a man or a woman  
-— But who is that on the other side of you?  
-    What is that sound high in the air  
-Murmur of maternal lamentation  
-Who are those hooded hordes swarming  
-370 Over endless plains, stumbling in cracked earth  
-
-
-Ringed by the flat horizon only  
-What is the [[motifs/city|city]] over the [[settings/mountains|mountains]]  
-Cracks and reforms and bursts in the violet air  
-Falling towers  
-Jerusalem Athens Alexandria  
-Vienna [[settings/london|London]]  
-Unreal  
-    A woman drew her long black hair out tight  
-And fiddled whisper music on those strings  
-380 And bats with baby faces in the violet light  
-
-
-Whistled, and beat their wings  
-And crawled head downward down a blackened wall  
-And upside down in air were towers  
-Tolling reminiscent [[motifs/bells|bells]], that kept the hours  
-And voices singing out of empty cisterns and exhausted wells.  
-    In this decayed hole among the [[settings/mountains|mountains]]  
-In the faint moonlight, the grass is singing  
-Over the tumbled graves, about the chapel  
-There is the empty chapel, only the [[motifs/wind|wind]]’s [[motifs/home|home]].  
-390 It has no windows, and the door swings,  
-
-
-Dry bones can harm no one.  
-Only a cock stood on the rooftree  
-Co co rico co co rico  
-In a flash of [[motifs/lightning|lightning]]. Then a damp gust  
-Bringing rain  
-    Ganga was sunken, and the limp [[motifs/leaves|leaves]]  
-Waited for rain, while the black clouds  
-Gathered far distant, over Himavant.  
-The jungle crouched, humped in [[motifs/silence|silence]].  
-400 Then spoke the thunder  
-
-
-DA  
-Datta: what have we given?  
-
-
-My friend, [[motifs/blood|blood]] shaking my heart  
-The awful daring of a moment’s surrender  
-Which an age of prudence can never retract  
-By this, and this only, we have existed  
-Which is not to be found in our obituaries  
-Or in memories draped by the beneficent spider  
-Or under seals broken by the lean solicitor  
-410 In our empty rooms  
-
-
-DA  
-Dayadhvam: I have heard the key  
-
-
-Turn in the door once and turn once only  
-We think of the key, each in his [[motifs/prison|prison]]  
-Thinking of the key, each confirms a [[motifs/prison|prison]]  
-Only at nightfall, aethereal rumours  
-Revive for a moment a broken [[characters/coriolanus|Coriolanus]]  
-DA  
-Damyata: The boat responded  
-
-
-420 Gaily, to the hand expert with sail and oar  
-
-
-The sea was calm, your heart would have responded  
-Gaily, when invited, beating obedient  
-To controlling hands  
-                                               I sat upon the shore  
-Fishing, with the arid plain behind me  
-Shall I at least set my lands in order?  
-[[settings/london|London]] Bridge is falling down falling down falling down  
-Poi s’ascose nel foco che gli affina  
-Quando fiam uti chelidon — O [[motifs/swallow|swallow]] [[motifs/swallow|swallow]]  
-
-
-430 Le Prince d’Aquitaine à la tour abolie  
+Le Prince d’Aquitaine à la tour abolie  
 
 
 These fragments I have shored against my ruins  
@@ -1035,7 +577,7 @@ Line 20. Cf. Ezekiel II, i.
                          non avea pianto ma’ che di sospiri  
                          che l’aura eterna facevan tremare.  
 68. A phenomenon which I have often noticed.
-74. Cf. the [[forms/dirge|Dirge]] in Wesbster’s White Devil.
+74. Cf. the [[forms/dirge|Dirge]] in Webster’s White Devil.
 76. V. Baudelaire, Preface to Fleurs du Mal.
 
 
@@ -1176,9 +718,715 @@ Also F. H. Bradley, Appearance and Reality, p. 306. ‘My external sensations ar
 433. Shantih. Repeated as here, a formal ending to an Upanishad. ‘The Peace which passeth understanding’ is our equivalent to this word.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I. La sepoltura dei morti  
+    Aprile è il più crudele dei mesi, genera  
+Lillà dalla terra morta, mescola  
+[[motifs/memory|Memoria]] e [[motifs/desire|desiderio]], smuove  
+Le radici sopite con pioggia di [[motifs/spring|primavera]].  
+L'[[motifs/winter|inverno]] ci tenne caldi, coprendo  
+La terra d'immemore [[motifs/snow|neve]], nutrendo  
+Un poco di vita con tuberi secchi.  
+L'[[motifs/summer|estate]] ci sorprese, giungendo sullo Starnbergersee  
+Con uno scroscio di pioggia; ci fermammo sotto il colonnato,  
+E proseguimmo nel sole, dentro l'Hofgarten,  
 
 
-<span class="atom-split" data-atom="section_01_i_the_burial_of_the_dead" data-title="I. The Burial of the Dead" data-chapter="i the burial of the dead" data-kind="section" data-tags="archetype/fool,archetype/king,archetype/shadow,motif/city,motif/dawn,motif/death,motif/desert,motif/desire,motif/dust,motif/frost,motif/garden,motif/hill,motif/home,motif/memory,motif/night,motif/nightingale,motif/rose,motif/silence,motif/snow,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/beauty,concept/fear,setting/desert,setting/london,setting/mountains,character/madame_sosostris,character/sunday"></span>
+E bevemmo caffè, e parlammo per un'ora.  
+Bin gar keine Russin, stamm’ aus Litauen, echt deutsch.  
+E quando eravamo bambini, ospiti dall'arciduca,  
+Mio cugino, mi portò fuori su una slitta.  
+E io avevo paura. Disse, Marie,  
+Marie, tieniti forte. E giù andammo.  
+Sulle [[settings/mountains|montagne]], là ci si sente liberi.  
+Leggo, gran parte della [[motifs/night|notte]], e d'[[motifs/winter|inverno]] vado a sud.  
+    Quali radici s'aggrappano, quali rami crescono  
+Da questa petrosa spazzatura? Figlio dell'uomo,  
+
+
+Tu non puoi dire, né indovinare, ché conosci soltanto  
+Un cumulo d'immagini spezzate, dove batte il sole,  
+E l'albero morto non dà riparo, il grillo nessun sollievo,  
+E la pietra secca nessun suono d'[[motifs/water|acqua]]. Soltanto  
+C'è [[archetypes/shadow|ombra]] sotto questa rossa roccia,  
+(Vieni all'[[archetypes/shadow|ombra]] di questa rossa roccia),  
+E io ti mostrerò qualcosa di diverso tanto dalla  
+Tua [[archetypes/shadow|ombra]] che al mattino ti incalza alle spalle  
+Quanto dalla tua [[archetypes/shadow|ombra]] che a sera si leva a incontrarti;  
+Ti mostrerò la [[concepts/fear|paura]] in una manciata di [[motifs/dust|polvere]].  
+
+
+Frisch weht der [[motifs/wind|Wind]]  
+Der Heimat zu  
+Mein Irisch Kind  
+Wo weilest du?  
+‘Mi desti giacinti la prima volta un anno fa;  
+‘Mi chiamavano la ragazza dei giacinti.’  
+— Eppure quando tornammo, tardi, dal [[motifs/garden|giardino]] dei giacinti,  
+Le tue braccia colme, e i capelli bagnati, io non potevo  
+Parlare, e mi vennero meno gli occhi, non ero né  
+Vivo né morto, e non sapevo nulla,  
+
+
+Guardando nel cuore della luce, il [[motifs/silence|silenzio]].  
+Oed’ und leer das Meer.  
+
+
+    [[characters/madame-sosostris|Madame Sosostris]], celebre chiaroveggente,  
+Aveva un brutto raffreddore, ciò nondimeno  
+È nota come la donna più saggia d'Europa,  
+Con un malefico mazzo di carte. Ecco, disse,  
+La tua carta, il Marinaio Fenicio annegato,  
+(Quelle perle furono i suoi occhi. Guarda!)  
+Ecco Belladonna, la Signora delle Rocce,  
+La signora delle situazioni.  
+
+
+Ecco l'uomo con tre bastoni, ed ecco la [[motifs/wheel|Ruota]],  
+Ed ecco il mercante con un occhio solo, e questa carta,  
+Che è bianca, è qualcosa che egli porta sul dorso,  
+Che a me è vietato vedere. Non trovo  
+L'Impiccato. [[concepts/fear|Temi]] la [[motifs/death|morte]] per [[motifs/water|acqua]].  
+Vedo folle di gente, che cammina in cerchio.  
+Grazie. Se vede la cara signora Equitone,  
+Le dica che l'oroscopo lo porto io stessa:  
+Di questi tempi bisogna essere così prudenti.  
+    [[motifs/city|Città]] irreale,  
+
+
+Sotto la bruna nebbia di un'[[motifs/winter|invernale]] [[motifs/dawn|alba]],  
+Una folla fluiva sul ponte di [[settings/london|Londra]], così tanti,  
+Non avrei creduto che la [[motifs/death|morte]] ne avesse disfatti così tanti.  
+Sospiri, brevi e radi, si esalavano,  
+E ciascuno teneva gli occhi fissi davanti ai piedi.  
+Fluivano su per la [[motifs/hill|collina]] e giù per [[archetypes/king|King]] William Street,  
+Fin dove Saint Mary Woolnoth scandiva le ore  
+Con un suono spento all'ultimo rintocco delle nove.  
+Là vidi uno che conoscevo, e lo fermai, gridando: ‘Stetson!  
+‘Tu che eri con me sulle navi a Milazzo!  
+‘Quel cadavere che l'anno scorso piantasti nel tuo [[motifs/garden|giardino]],  
+‘Ha cominciato a germogliare? Fiorirà quest'anno?  
+‘O l'improvviso [[motifs/frost|gelo]] ne ha turbato l'aiuola?  
+‘Oh tieni lontano di qui il Cane, che è amico degli uomini,  
+‘O con le unghie tornerà a dissotterrarlo!  
+‘You! hypocrite lecteur! — mon semblable, — mon frère!’  
+
+II. Una partita a scacchi  
+    La Sedia su cui sedeva, come un trono brunito,  
+Splendeva sul marmo, dove lo specchio  
+Retto da sostegni lavorati a viti fruttate  
+Da cui faceva capolino un Cupido d'oro  
+
+
+(Un altro nascondeva gli occhi dietro l'ala)  
+Raddoppiava le fiamme del candelabro a sette braccia  
+Riflettendo luce sulla tavola mentre  
+Il luccichio dei suoi gioielli [[motifs/rose|saliva]] a incontrarla,  
+Versati da astucci di raso in ricca profusione.  
+In fiale d'avorio e di vetro colorato  
+Stappate, si annidavano i suoi strani profumi sintetici,  
+Unguento, polvere o liquido — turbavano, confondevano  
+E annegavano il senso negli odori; mossi dall'aria  
+Che rinfrescava dalla [[motifs/window|finestra]], questi salivano  
+
+
+A ingrassare le prolungate fiamme delle candele,  
+Gettavano il loro fumo nei laquearia,  
+Agitando il disegno sul soffitto a cassettoni.  
+Enorme legname di mare nutrito di rame  
+Ardeva verde e arancio, incorniciato dalla pietra colorata,  
+In quella triste luce nuotava un delfino scolpito.  
+Sopra l'antica mensola del camino era esposto  
+Come se una [[motifs/window|finestra]] desse sulla scena silvana  
+Il mutamento di Filomela, dal barbaro [[archetypes/king|re]]  
+Così brutalmente violata; eppure là l'[[motifs/nightingale|usignolo]]  
+
+
+Riempiva tutto il [[motifs/desert|deserto]] di voce inviolabile  
+E ancora ella gridava, e ancora il mondo insegue,  
+‘Giug Giug’ a orecchie sporche.  
+E altri aridi monconi di [[motifs/time|tempo]]  
+Erano narrati sulle pareti; forme fisse  
+Si sporgevano, sporgendosi, zittendo la stanza chiusa.  
+Passi strascicarono sulle scale.  
+Alla luce del fuoco, sotto la spazzola, i suoi capelli  
+Si spandevano in punte di fuoco  
+Ardevano in parole, poi sarebbero stati selvaggiamente immobili.  
+
+
+    ‘Ho i nervi a pezzi stanotte. Sì, a pezzi. Resta con me.  
+    Parlami. Perché non parli mai? Parla.  
+        A cosa pensi? Che pensi? Che?  
+    Non so mai cosa pensi. Pensa.’  
+    Penso che siamo nel vicolo dei topi  
+Dove i morti perdettero le ossa.  
+    ‘Cos'è quel rumore?’  
+                                Il [[motifs/wind|vento]] sotto la porta.  
+‘E ora cos'è quel rumore? Cosa fa il [[motifs/wind|vento]]?’  
+                                Nulla ancora nulla.  
+
+
+                                                                                    ‘Non  
+‘Sai nulla? Non vedi nulla? Non ricordi  
+Nulla?’  
+       Ricordo  
+Quelle perle furono i suoi occhi.  
+‘Sei vivo, o no? Non hai nulla in testa?’  
+                                                                                    Ma  
+O O O O quel Rag Shakespeeriano —  
+È così elegante  
+Così intelligente  
+
+
+‘Che farò ora? Che farò?  
+Correrò fuori così come sono, e camminerò per la strada  
+Coi capelli sciolti, così. Che faremo domani?  
+Che faremo mai?’  
+                                                  L'[[motifs/water|acqua]] calda alle dieci.  
+E se piove, un'auto chiusa alle quattro.  
+E giocheremo una partita a scacchi,  
+Premendo occhi senza palpebre e aspettando un bussare alla porta.  
+    Quando il marito di Lil fu congedato, dissi —  
+Non le mandai a dire, gliel'ho detto io stessa,  
+
+
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+Ora Albert torna, fatti un po' carina.  
+Vorrà sapere che ne hai fatto di quei soldi che t'ha dato  
+Per farti i denti. È vero, c'ero io.  
+Fatteli togliere tutti, Lil, e mettitene una bella fila,  
+Disse, giuro, non ti so più guardare.  
+E manco io, dissi, e pensa al povero Albert,  
+È stato nell'esercito quattro anni, vuole godersi un po' di [[motifs/time|tempo]],  
+E se non glielo dai tu, ci sono altre che lo faranno, dissi.  
+Ah sì, disse. Qualcosa del genere, dissi.  
+
+
+Allora saprò chi ringraziare, disse, e mi guardò dritto in faccia.  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+Se non ti va, arrangiati, dissi.  
+Altre possono scegliere, se tu non puoi.  
+Ma se Albert se ne va, non sarà per non essere stata avvertita.  
+Dovresti vergognarti, dissi, a sembrare così anticaglia.  
+(E lei ha solo trentun anni.)  
+Non ci posso far niente, disse, facendo il muso lungo,  
+Son quelle pillole che ho preso, per mandarlo via, disse.  
+(Ne ha già avuti cinque, e per il piccolo George c'è quasi rimasta.)  
+
+
+Il farmacista disse che sarebbe andato tutto bene, ma non sono più stata la stessa.  
+Sei proprio una [[archetypes/fool|sciocca]], dissi.  
+
+
+[[motifs/well|Beh]], se Albert non ti lascia sola, è così, dissi,  
+Per cosa ti sei sposata se non vuoi figli?  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+[[motifs/well|Beh]], quella [[characters/sunday|domenica]] Albert era a [[motifs/home|casa]], avevano un prosciutto caldo,  
+E mi invitarono a cena, per godermene la [[concepts/beauty|bellezza]] calda —  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+Bonanotte Bill. Bonanotte Lou. Bonanotte May. Bonanotte.  
+
+
+Ta ta. Bonanotte. Bonanotte.  
+Buona [[motifs/night|notte]], signore, buona [[motifs/night|notte]], dolci signore, buona [[motifs/night|notte]], buona [[motifs/night|notte]].  
+
+III. Il sermone del [[motifs/fire|fuoco]]  
+    La tenda del [[motifs/river|fiume]] è rotta; le ultime dita di foglia  
+S'aggrappano e affondano nella riva bagnata. Il [[motifs/wind|vento]]  
+Attraversa la terra bruna, inudito. Le ninfe sono partite.  
+Dolce Tamigi, scorri piano, finché non finisca il mio canto.  
+Il [[motifs/river|fiume]] non porta bottiglie vuote, carte da panini,  
+Fazzoletti di seta, scatole di cartone, mozziconi di sigaretta  
+O altra testimonianza di notti d'[[motifs/summer|estate]]. Le ninfe sono partite.  
+E i loro amici, gli oziosi eredi dei direttori della [[motifs/city|City]];  
+
+
+Partiti, non hanno lasciato indirizzi.  
+Presso le acque del Lemano mi sedetti e piansi …  
+Dolce Tamigi, scorri piano finché non finisca il mio canto,  
+Dolce Tamigi, scorri piano, ché non parlo forte né a lungo.  
+Ma alle mie spalle in una fredda raffica odo  
+Lo sferragliare delle ossa, e un ghigno steso da orecchio a orecchio.  
+Un ratto strisciò piano tra la vegetazione  
+Trascinando il ventre viscido sulla riva  
+Mentre pescavo nel canale opaco  
+In una sera d'[[motifs/winter|inverno]] dietro il gasometro  
+
+
+Meditando sul naufragio del [[archetypes/king|re]] mio fratello  
+E sul [[archetypes/king|re]] mio padre, [[motifs/death|morto]] prima di lui.  
+Bianchi corpi nudi sul basso suolo umido  
+E ossa gettate in un piccolo basso solaio asciutto,  
+Scosse solo dalla zampa del ratto, anno dopo anno.  
+Ma alle mie spalle di [[motifs/time|tempo]] in [[motifs/time|tempo]] odo  
+Il suono di clacson e motori, che porteranno  
+[[characters/sweeney|Sweeney]] dalla signora Porter in [[motifs/spring|primavera]].  
+Oh la [[motifs/moon|luna]] splendeva chiara sulla signora Porter  
+E su sua figlia  
+
+
+Si lavano i piedi in [[motifs/water|acqua]] di seltz  
+Et O ces voix d’enfants, chantant dans la coupole!  
+Twit twit twit  
+Giug giug giug giug giug giug  
+Così brutalmente violata.  
+Tereu  
+    [[motifs/city|Città]] irreale  
+Sotto la bruna nebbia di un [[motifs/winter|invernale]] [[motifs/noon|mezzogiorno]]  
+Il signor Eugenides, il mercante di Smirne  
+Non rasato, con una tasca piena d'uva passa  
+
+
+C.i.f. [[settings/london|Londra]]: documenti a vista,  
+Mi invitò in francese demotico  
+A colazione al Cannon Street Hotel  
+Seguita da un fine settimana al Metropole.  
+    All'ora viola, quando gli occhi e la schiena  
+Si levano dalla scrivania, quando il motore umano attende  
+Come un taxi che palpita in attesa,  
+Io [[characters/tiresias|Tiresia]], benché cieco, palpitando fra due vite,  
+Vecchio con grinzose mammelle femminili, posso vedere  
+All'ora viola, l'ora della sera che si sforza  
+
+
+Verso casa, e riporta il marinaio a [[motifs/home|casa]] dal mare,  
+La dattilografa a [[motifs/home|casa]] all'ora del tè, sparecchia la colazione, accende  
+La stufa, e dispone cibo in scatola.  
+Fuori dalla [[motifs/window|finestra]] pericolosamente stese  
+Le sue combinazioni ad asciugare toccate dagli ultimi raggi del sole,  
+Sul divano stanno ammucchiati (di [[motifs/night|notte]] il suo letto)  
+Calze, pantofole, camiciole e busti.  
+Io [[characters/tiresias|Tiresia]], vecchio dalle poppe grinzose  
+Colsi la scena, e predissi il resto —  
+Anch'io attendevo l'ospite atteso.  
+
+
+Egli, il giovanotto foruncoloso, arriva,  
+Impiegato di un piccolo agente di case, con uno sguardo sfrontato,  
+Uno degli infimi su cui la sicurezza sta  
+Come un cilindro di seta su un milionario di Bradford.  
+Il [[motifs/time|momento]] è ora propizio, come indovina,  
+Il pasto è finito, lei è annoiata e stanca,  
+Si adopera a impegnarla in carezze  
+Che pure non sono rimproverate, se non desiderate.  
+Acceso e deciso, assale all'istante;  
+Mani esploranti non incontrano difesa;  
+
+
+La sua [[concepts/vanity|vanità]] non richiede risposta,  
+E fa dell'indifferenza un benvenuto.  
+(E io [[characters/tiresias|Tiresia]] ho presofferto tutto  
+Ciò che si recita su questo stesso divano o letto;  
+Io che sedetti a Tebe sotto le mura  
+E camminai fra i più infimi dei morti.)  
+Elargisce un ultimo bacio condiscendente,  
+E va a tentoni, trovando le scale non illuminate …  
+    Lei si volta e si guarda un momento allo specchio,  
+Appena consapevole dell'[[archetypes/lover|amante]] partito;  
+
+
+Il suo cervello lascia passare un pensiero mezzo formato:  
+‘[[motifs/well|Beh]] ora è fatta: e sono contenta che sia finita.’  
+Quando amabile donna cede alla follia e  
+Torna a misurare la sua stanza, sola,  
+Si liscia i capelli con mano automatica,  
+E mette un disco sul grammofono.  
+    ‘Questa musica mi strisciò accanto sulle acque’  
+E lungo lo Strand, su per [[characters/queen|Queen]] Victoria Street.  
+O [[motifs/city|City]] [[motifs/city|città]], talvolta posso udire  
+Accanto a un bar in Lower Thames Street,  
+
+
+Il gradevole gemito di un mandolino  
+E un acciottolio e un chiacchiericcio da dentro  
+Dove i pescivendoli oziano a [[motifs/noon|mezzogiorno]]: dove le mura  
+Di Magnus Martyr custodiscono  
+Inesplicabile splendore di bianco e oro ionico.  
+                    Il [[motifs/river|fiume]] suda  
+                    Olio e catrame  
+                    Le chiatte vanno alla deriva  
+                    Con la marea che gira  
+                    Vele rosse  
+
+
+                    Ampie  
+                    Sottovento, girano sul pesante pennone.  
+                    Le chiatte lavano  
+                    Tronchi alla deriva  
+                    Giù per il tratto di Greenwich  
+                    Oltre l'Isle of Dogs.  
+                                         Weialala leia  
+                                         Wallala leialala  
+                    Elisabetta e Leicester  
+                    Remi battenti  
+
+
+                    La poppa era formata  
+                    Una conchiglia dorata  
+                    Rossa e oro  
+                    L'onda vivace  
+                    Increspava entrambe le rive  
+                    [[motifs/wind|Vento]] di libeccio  
+                    Portava a valle  
+                    Lo scampanio delle [[motifs/bells|campane]]  
+                    Bianche torri  
+                                         Weialala leia  
+
+
+                                         Wallala leialala  
+                    ‘Tram e alberi polverosi.  
+                    Highbury mi generò. Richmond e Kew  
+                    Mi disfecero. A Richmond alzai le ginocchia  
+                    Supina sul fondo di una stretta canoa.’  
+                    ‘I miei piedi sono a Moorgate, e il mio cuore  
+                    Sotto i miei piedi. Dopo il fatto  
+                    Egli pianse. Promise “un nuovo inizio.”  
+                    Non feci commenti. Di che dovrei risentirmi?’  
+                    ‘Sulle sabbie di Margate.  
+
+
+                    Posso collegare  
+                    Nulla con nulla.  
+                    Le unghie spezzate di mani sporche.  
+                    La mia gente gente umile che non si aspetta  
+                    Nulla.’  
+                                la la  
+                    A Cartagine allora venni  
+                    Bruciando bruciando bruciando bruciando  
+                    O Signore Tu mi strappi fuori  
+                    O Signore Tu strappi  
+
+
+                    bruciando  
+
+IV. [[motifs/death|Morte]] per [[motifs/water|acqua]]  
+Phlebas il Fenicio, morto da quindici giorni,  
+Dimenticò il grido dei gabbiani, e l'onda lunga del mare profondo  
+E il profitto e la perdita.  
+                                               Una corrente sottomarina  
+Ne spolpò le ossa a bisbigli. Mentre [[motifs/rose|saliva]] e ricadeva  
+Ripassò le tappe della sua età e giovinezza  
+Entrando nel gorgo.  
+                                               Gentile o Giudeo  
+O tu che giri la [[motifs/wheel|ruota]] e guardi al vento,  
+
+
+Considera Phlebas, che un tempo fu bello e alto come te.  
+
+V. Ciò che disse il tuono  
+    Dopo la luce rossa delle torce su volti sudati  
+Dopo il gelido [[motifs/silence|silenzio]] nei giardini  
+Dopo l'agonia in luoghi di pietra  
+Le grida e il pianto  
+[[motifs/prison|Prigione]] e palazzo e riverbero  
+Di tuono di [[motifs/spring|primavera]] su [[settings/mountains|montagne]] lontane  
+Colui che era vivo ora è morto  
+Noi che eravamo vivi ora stiamo morendo  
+Con un poco di pazienza  
+
+
+    Qui non c'è [[motifs/water|acqua]] ma soltanto roccia  
+Roccia e niente [[motifs/water|acqua]] e la [[motifs/road|strada]] sabbiosa  
+La [[motifs/road|strada]] che serpeggia lassù fra le [[settings/mountains|montagne]]  
+Che sono [[settings/mountains|montagne]] di roccia senza [[motifs/water|acqua]]  
+Se ci fosse [[motifs/water|acqua]] ci fermeremmo a bere  
+Fra la roccia non ci si può fermare né pensare  
+Il sudore è secco e i piedi sono nella sabbia  
+Se solo ci fosse [[motifs/water|acqua]] fra la roccia  
+Morta bocca di montagna di denti cariati che non sa sputare  
+Qui non ci si può reggere né coricare né sedere  
+
+
+Non c'è nemmeno [[motifs/silence|silenzio]] fra le [[settings/mountains|montagne]]  
+Ma tuono secco sterile senza pioggia  
+Non c'è nemmeno [[concepts/solitude|solitudine]] fra le [[settings/mountains|montagne]]  
+Ma rossi volti imbronciati sogghignano e ringhiano  
+Da porte di case di fango screpolato  
+                                                 Se ci fosse [[motifs/water|acqua]]  
+    E non roccia  
+    Se ci fosse roccia  
+    E anche [[motifs/water|acqua]]  
+    E [[motifs/water|acqua]]  
+
+
+    Una [[motifs/spring|sorgente]]  
+    Una pozza fra la roccia  
+    Se ci fosse soltanto il suono dell'[[motifs/water|acqua]]  
+    Non la cicala  
+    E l'erba secca che canta  
+    Ma suono d'[[motifs/water|acqua]] sopra una roccia  
+    Dove il tordo eremita canta fra i pini  
+    Plic ploc plic ploc ploc ploc ploc  
+    Ma non c'è [[motifs/water|acqua]]  
+   Chi è il terzo che cammina sempre al tuo fianco?  
+
+
+Quando conto, ci siamo solo io e te insieme  
+Ma quando guardo avanti su per la bianca [[motifs/road|strada]]  
+C'è sempre un altro che cammina al tuo fianco  
+Scivolando avvolto in un mantello bruno, incappucciato  
+Non so se sia un uomo o una donna  
+— Ma chi è quello dall'altro tuo lato?  
+    Che suono è quello alto nell'aria  
+Mormorio di materno lamento  
+Chi sono quelle orde incappucciate che brulicano  
+Su pianure infinite, inciampando nella terra screpolata  
+
+
+Cerchiate soltanto dal piatto orizzonte  
+Qual è la [[motifs/city|città]] oltre le [[settings/mountains|montagne]]  
+Si spacca e si riforma e scoppia nell'aria viola  
+Torri che cadono  
+Gerusalemme Atene Alessandria  
+Vienna [[settings/london|Londra]]  
+Irreali  
+    Una donna si tese lunghi i neri capelli  
+E su quelle corde suonò una musica di bisbigli  
+E pipistrelli con facce di bambino nella luce viola  
+
+
+Fischiavano, e battevano le ali  
+E strisciavano a testa in giù giù per un muro annerito  
+E capovolte nell'aria stavano torri  
+Che rintoccavano [[motifs/bells|campane]] memori, e scandivano le ore  
+E voci che cantavano da cisterne vuote e pozzi esausti.  
+    In questo buco decaduto fra le [[settings/mountains|montagne]]  
+Nel fioco chiaro di luna, l'erba canta  
+Sulle tombe rovesciate, intorno alla cappella  
+C'è la cappella vuota, solo del [[motifs/wind|vento]] la [[motifs/home|casa]].  
+Non ha finestre, e la porta sbatte,  
+
+
+Ossa secche non possono nuocere a nessuno.  
+Solo un gallo stava sul colmo del tetto  
+Co co rico co co rico  
+In un lampo di [[motifs/lightning|folgore]]. Poi una raffica umida  
+Che portava pioggia  
+    Ganga era in secca, e le molli [[motifs/leaves|foglie]]  
+Attendevano la pioggia, mentre le nere nubi  
+Si raccoglievano lontane, sopra l'Himavant.  
+La giungla stava acquattata, ingobbita nel [[motifs/silence|silenzio]].  
+Poi parlò il tuono  
+
+
+DA  
+Datta: che cosa abbiamo dato?  
+
+
+Amico mio, [[motifs/blood|sangue]] che scuote il mio cuore  
+L'orribile audacia d'una resa d'un momento  
+Che un'età di prudenza non potrà mai ritrattare  
+Per questo, e solo per questo, siamo esistiti  
+Che non si troverà nei nostri necrologi  
+Né in memorie drappeggiate dal ragno benefico  
+Né sotto sigilli spezzati dal magro notaio  
+Nelle nostre stanze vuote  
+
+
+DA  
+Dayadhvam: ho udito la chiave  
+
+
+Girare nella porta una volta e una volta soltanto  
+Pensiamo alla chiave, ciascuno nella sua [[motifs/prison|prigione]]  
+Pensando alla chiave, ciascuno conferma una [[motifs/prison|prigione]]  
+Solo al calar della notte, eteree dicerie  
+Ravvivano per un momento un [[characters/coriolanus|Coriolano]] infranto  
+DA  
+Damyata: la barca rispose  
+
+
+Lietamente, alla mano esperta di vela e di remo  
+
+
+Il mare era calmo, il tuo cuore avrebbe risposto  
+Lietamente, se invitato, battendo obbediente  
+A mani che governano  
+                                               Sedevo sulla riva  
+A pescare, con l'arida pianura alle spalle  
+Metterò almeno in ordine le mie terre?  
+Il ponte di [[settings/london|Londra]] sta cadendo giù cadendo giù cadendo giù  
+Poi s’ascose nel foco che gli affina  
+Quando fiam uti chelidon — O [[motifs/swallow|rondine]] [[motifs/swallow|rondine]]  
+
+
+Le Prince d’Aquitaine à la tour abolie  
+
+
+Questi frammenti ho puntellato contro le mie rovine  
+Ebbene, allora vi accontenterò. Ieronimo è pazzo di nuovo.  
+Datta. Dayadhvam. Damyata.  
+                    Shantih shantih shantih  
+
+Note alla terra desolata  
+Non solo il titolo, ma anche l'impianto e buona parte del simbolismo incidentale del poema mi furono suggeriti dal libro di Miss Jessie L. Weston sulla [[historical-references/grail-legend|leggenda del Graal]]: From Ritual to [[works/romance-(poe)|Romance]] (Cambridge). Davvero, tanto profondo è il mio debito. Il libro di Miss Weston chiarirà le difficoltà del poema assai meglio di quanto possano fare le mie note; e lo raccomando (a prescindere dal grande interesse del libro in sé) a chiunque ritenga che tale chiarimento del poema valga la pena. A un'altra opera di antropologia sono debitore in generale, opera che ha influenzato profondamente la nostra generazione; intendo The Golden Bough; mi sono servito soprattutto dei due volumi [[characters/adonis|Adonis]], Attis, Osiris. Chiunque conosca queste opere riconoscerà subito nel poema certi riferimenti a cerimonie della vegetazione.  
+
+
+I. LA SEPOLTURA DEI MORTI  
+Verso 20. Cfr. Ezechiele II, i.  
+23. Cfr. Ecclesiaste XII, v.  
+31. V. Tristan und Isolde, I, versi 5–8.  
+42. Id. III, verso 24.  
+46. Non conosco l'esatta composizione del mazzo dei Tarocchi, dalla quale mi sono evidentemente allontanato per mia comodità. L'Impiccato, membro del mazzo tradizionale, fa al caso mio in due modi: perché nella mia mente è associato al Dio Impiccato di Frazer, e perché lo associo alla figura incappucciata nel passo dei discepoli di Emmaus nella Parte V. Il Marinaio Fenicio e il Mercante compaiono più avanti; e così le ‘folle di gente’, e la [[motifs/death|Morte]] per [[motifs/water|acqua]] si compie nella Parte IV. L'Uomo con Tre Bastoni (autentico membro del mazzo dei Tarocchi) lo associo, del tutto arbitrariamente, allo stesso [[archetypes/king|Re]] Pescatore.
+
+
+60. Cfr. Baudelaire:  
+‘Fourmillante cité, cité pleine de rêves,  
+‘Où le spectre en plein jour raccroche le passant.’  
+63. Cfr. Inferno III, 55–57:  
+                                                            si lunga tratta  
+                         di gente, ch’io non avrei mai creduto  
+                         che morte tanta n’avesse disfatta.  
+64. Cfr. Inferno IV, 25–27:  
+                         Quivi, secondo che per ascoltare,  
+                         non avea pianto ma’ che di sospiri  
+                         che l’aura eterna facevan tremare.  
+68. Fenomeno che ho spesso notato.  
+74. Cfr. il [[forms/dirge|Canto funebre]] nel White Devil di Webster.  
+76. V. Baudelaire, Prefazione a Fleurs du Mal.
+
+
+II. UNA PARTITA A SCACCHI  
+77. Cfr. Antonio e [[characters/cleopatra|Cleopatra]], II, ii, v. 190.
+
+
+92. Laquearia. V. Eneide, I, 726:
+
+
+      dependent lychni laquearibus aureis  
+      incensi, et noctem flammis funalia vincunt.  
+98. Scena silvana. V. [[historical-references/milton|Milton]], [[topoi/paradise-lost|Paradiso perduto]], IV, 140.
+
+
+99. V. Ovidio, Metamorfosi, VI, Filomela.
+
+
+100. Cfr. Parte III, v. 204.  
+115. Cfr. Parte III, v. 195.  
+118. Cfr. Webster: ‘Il [[motifs/wind|vento]] è ancora in quella porta?’  
+126. Cfr. Parte I, vv. 37, 48.  
+138. Cfr. la partita a scacchi in Women beware Women di Middleton.  
+III. IL SERMONE DEL [[motifs/fire|FUOCO]]  
+176. V. Spenser, Prothalamion.  
+192. Cfr. La tempesta, I, ii.
+
+
+196. Cfr. Marvell, To His Coy Mistress.  
+197. Cfr. Day, Parliament of [[motifs/bees|Bees]]:  
+               ‘Quando d'un tratto, in ascolto, udrai,  
+               ‘Un rumore di corni e di caccia, che porterà  
+               ‘Atteone da [[characters/diana|Diana]] in [[motifs/spring|primavera]],  
+               ‘Dove tutti vedranno la sua pelle nuda …’  
+199. Non conosco l'origine della ballata da cui questi versi sono tratti: mi fu riferita da Sydney, in Australia.
+
+
+202. V. Verlaine, Parsifal.  
+210. L'uva passa era quotata a un prezzo ‘costo assicurazione e nolo fino a [[settings/london|Londra]]’; e la polizza di carico, ecc., dovevano essere consegnate all'acquirente contro pagamento della tratta a vista.  
+218. [[characters/tiresias|Tiresia]], benché mero spettatore e non propriamente un ‘personaggio’, è tuttavia la figura più importante del poema, poiché unisce tutte le altre. Come il mercante con un occhio solo, venditore d'uva passa, si dissolve nel Marinaio Fenicio, e questi non è del tutto distinto da [[characters/ferdinand|Ferdinando]] Principe di Napoli, così tutte le donne sono una donna sola, e i due sessi s'incontrano in [[characters/tiresias|Tiresia]]. Ciò che [[characters/tiresias|Tiresia]] vede è, in effetti, la sostanza del poema. L'intero passo di Ovidio è di grande interesse antropologico:
+
+
+… Cum Iunone iocos et ‘maior vestra profecto est  
+Quam quae contingit maribus’, dixisse, ‘voluptas.’  
+Illa negat; placuit quae sit sententia docti  
+Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
+Nam duo magnorum viridi coeuntia silva  
+Corpora serpentum baculi violaverat ictu  
+Deque viro factus, mirabile, femina septem  
+Egerat autumnos; octavo rursus eosdem  
+Vidit et ‘est vestrae si tanta potentia plagae’,  
+Dixit ‘ut auctoris sortem in contraria mutet,  
+Nunc quoque vos feriam!’ percussis anguibus isdem  
+Forma prior rediit genetivaque venit imago.  
+Arbiter hic igitur sumptus de lite iocosa  
+Dicta Iovis firmat; gravius Saturnia iusto  
+Nec pro materia fertur doluisse suique  
+Iudicis aeterna damnavit lumina nocte,  
+At pater omnipotens (neque enim licet inrita cuiquam  
+Facta dei fecisse deo) pro lumine adempto  
+Scire futura dedit poenamque levavit honore.  
+221. Questo può non apparire esatto quanto i versi di Saffo, ma avevo in mente il pescatore ‘longshore’ o ‘dory’, che rientra al calar della notte.
+
+
+253. V. Goldsmith, la canzone in The Vicar of Wakefield.  
+257. V. La tempesta, come sopra.
+
+
+264. L'interno di St. Magnus Martyr è a mio giudizio uno dei più belli fra gli interni di Wren. Si veda The Proposed Demolition of Nineteen [[motifs/city|City]] Churches: (P. S. [[archetypes/king|King]] & Son, Ltd.).
+
+
+266. Il Canto delle (tre) figlie del Tamigi comincia qui. Dal verso 292 al 306 incluso esse parlano a turno. V. Götterdämmerung, III, i: le figlie del Reno.
+
+
+279. V. Froude, Elizabeth, Vol. I, cap. iv, lettera di De Quadra a Filippo di Spagna:
+
+
+‘Nel pomeriggio eravamo su una chiatta, a guardare i giochi sul [[motifs/river|fiume]]. (La [[characters/queen|Regina]]) era sola con Lord Robert e con me a poppa, quando cominciarono a dire sciocchezze, e andarono tanto oltre che Lord Robert alla fine disse che, trovandomi io presente, non c'era ragione perché non si sposassero se alla [[characters/queen|regina]] fosse piaciuto.’  
+
+
+293. Cfr. Purgatorio, V. 133:
+
+
+                        ‘Ricorditi di me, che son la Pia;  
+                        ‘Siena mi fé, disfecemi Maremma.’  
+307. V. le Confessioni di sant'Agostino: ‘a Cartagine allora venni, dove un calderone di amori empi cantava tutt'intorno alle mie orecchie.’
+
+
+308. Il testo completo del Sermone del [[motifs/fire|Fuoco]] del Buddha (che per importanza corrisponde al Discorso della Montagna), da cui queste parole sono tratte, si troverà tradotto in Buddhism in [[forms/translation|Translation]] del compianto Henry Clarke Warren (Harvard Oriental Series). Il signor Warren fu uno dei grandi pionieri degli studi buddhisti in Occidente.
+
+
+309. Ancora dalle Confessioni di sant'Agostino. L'accostamento di questi due rappresentanti dell'ascetismo orientale e occidentale, come culmine di questa parte del poema, non è casuale.
+
+
+V. CIÒ CHE DISSE IL TUONO  
+Nella prima parte della Parte V sono impiegati tre temi: il [[motifs/journey|viaggio]] a Emmaus, l'accostarsi alla Cappella Perigliosa (si veda il libro di Miss Weston) e l'attuale [[motifs/decay|decadenza]] dell'Europa orientale.  
+
+
+357. È il Turdus aonalaschkae pallasii, il tordo eremita che ho udito nella Provincia del Quebec. Chapman dice (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) che ‘è più a [[motifs/home|casa]] sua in boschi appartati e in rifugi di macchia…. Le sue note non sono notevoli per varietà o volume, ma per purezza e dolcezza di tono e per squisita modulazione non hanno pari.’ Il suo ‘[[motifs/water|acqua]]-stillante canto’ è giustamente celebre.
+
+
+360. I versi seguenti furono suggeriti dal racconto di una delle spedizioni antartiche (non ricordo quale, ma credo una di Shackleton): si narrava che il gruppo degli esploratori, allo stremo delle forze, avesse la costante illusione che vi fosse un membro in più di quanti se ne potessero effettivamente contare.
+
+
+366–76. Cfr. Hermann Hesse, Blick ins Chaos: ‘Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken im heiligen Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.’  
+401. ‘Datta, dayadhvam, damyata’ (Dai, compatisci, domina). La [[forms/fable|favola]] del significato del Tuono si trova nella Brihadaranyaka — Upanishad, 5, 1. Una [[forms/translation|traduzione]] si trova in Sechzig Upanishads des Veda di Deussen, p. 489.
+
+
+407. Cfr. Webster, The White Devil, V, vi:
+
+
+‘… si risposeranno  
+Prima che il verme trafigga il tuo sudario, prima che il ragno  
+Tenda un sottile velo sui tuoi epitaffi.’  
+411. Cfr. Inferno, XXXIII, 46:
+
+
+                        ‘ed io senti chiavar l’uscio di sotto  
+                        all’ orribile torre.’  
+Inoltre F. H. Bradley, Appearance and Reality, p. 306. ‘Le mie sensazioni esterne non sono meno private al mio [[concepts/self|io]] di quanto lo siano i miei pensieri o i miei sentimenti. In entrambi i casi la mia esperienza cade entro il mio proprio cerchio, un cerchio chiuso all'esterno; e, con tutti i suoi elementi ugualmente, ogni sfera è opaca alle altre che la circondano…. In breve, considerato come un'esistenza che appare in un'[[motifs/soul|anima]], il mondo intero è per ciascuno peculiare e privato a quell'[[motifs/soul|anima]].’  
+
+
+424. V. Weston: From Ritual to [[works/romance-(poe)|Romance]]; capitolo sul [[archetypes/king|Re]] Pescatore.
+
+
+427. V. Purgatorio, XXVI, 148.
+
+
+                          ‘“Ara vos prec per aquella valor  
+                           “que vos guida al som de l’escalina,  
+                           “sovenha vos a temps de ma dolor.”  
+                            Poi s’ascose nel foco che li affina.’  
+428. V. Pervigilium Veneris. Cfr. Filomela nelle Parti II e III.
+
+
+429. V. Gérard de Nerval, [[forms/sonnet|Sonetto]] El Desdichado.  
+431. V. la Spanish [[forms/tragedy|Tragedy]] di Kyd.  
+433. Shantih. Ripetuto come qui, è la chiusa formale di una Upanishad. ‘La Pace che sopravanza ogni intelletto’ è il nostro equivalente di questa parola.
+
+
+
+<span class="atom-split" data-atom="section_01_i_the_burial_of_the_dead" data-title="The Waste Land — I. The Burial of the Dead" data-chapter="i the burial of the dead" data-kind="section" data-tags="archetype/fool,archetype/king,archetype/shadow,motif/city,motif/dawn,motif/death,motif/desert,motif/desire,motif/dust,motif/frost,motif/garden,motif/hill,motif/home,motif/memory,motif/night,motif/nightingale,motif/rose,motif/silence,motif/snow,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/beauty,concept/fear,setting/desert,setting/london,setting/mountains,character/madame_sosostris,character/sunday"></span>
 
 
 I. The Burial of the Dead  
@@ -1191,7 +1439,7 @@ Earth in forgetful [[motifs/snow|snow]], feeding
 A little life with dried tubers.  
 [[motifs/summer|Summer]] surprised us, coming over the Starnbergersee  
 With a shower of rain; we stopped in the colonnade,  
-10 And went on in sunlight, into the Hofgarten,  
+And went on in sunlight, into the Hofgarten,  
 
 
 And drank coffee, and talked for an hour.  
@@ -1203,7 +1451,7 @@ Marie, hold on tight. And down we went.
 In the [[settings/mountains|mountains]], there you feel free.  
 I read, much of the [[motifs/night|night]], and go south in the [[motifs/winter|winter]].  
     What are the roots that clutch, what branches grow  
-20 Out of this stony rubbish? Son of man,  
+Out of this stony rubbish? Son of man,  
 
 
 You cannot say, or guess, for you know only  
@@ -1215,7 +1463,7 @@ There is [[archetypes/shadow|shadow]] under this red rock,
 And I will show you something different from either  
 Your [[archetypes/shadow|shadow]] at morning striding behind you  
 Or your [[archetypes/shadow|shadow]] at evening rising to meet you;  
-30 I will show you [[concepts/fear|fear]] in a handful of [[motifs/dust|dust]].  
+I will show you [[concepts/fear|fear]] in a handful of [[motifs/dust|dust]].  
 
 
 Frisch weht der [[motifs/wind|Wind]]  
@@ -1227,7 +1475,7 @@ Wo weilest du?
 — Yet when we came back, late, from the hyacinth [[motifs/garden|garden]],  
 Your arms full, and your hair wet, I could not  
 Speak, and my eyes failed, I was neither  
-40 Living nor dead, and I knew nothing,  
+Living nor dead, and I knew nothing,  
 
 
 Looking into the heart of light, the [[motifs/silence|silence]].  
@@ -1241,7 +1489,7 @@ With a wicked pack of cards. Here, said she,
 Is your card, the drowned Phoenician Sailor,  
 (Those are pearls that were his eyes. Look!)  
 Here is Belladonna, the Lady of the Rocks,  
-50 The lady of situations.  
+The lady of situations.  
 
 
 Here is the man with three staves, and here the [[motifs/wheel|Wheel]],  
@@ -1253,7 +1501,7 @@ I see crowds of people, walking round in a ring.
 Thank you. If you see dear Mrs. Equitone,  
 Tell her I bring the horoscope myself:  
 One must be so careful these days.  
-60    Unreal [[motifs/city|City]],  
+    Unreal [[motifs/city|City]],  
 
 
 Under the brown fog of a [[motifs/winter|winter]] [[motifs/dawn|dawn]],  
@@ -1265,7 +1513,7 @@ Flowed up the [[motifs/hill|hill]] and down [[archetypes/king|King]] William Str
 To where Saint Mary Woolnoth kept the hours  
 With a dead sound on the final stroke of nine.  
 There I saw one I knew, and stopped him, crying: ‘Stetson!  
-70 ‘You who were with me in the ships at Mylae!  
+‘You who were with me in the ships at Mylae!  
 ‘That corpse you planted last year in your [[motifs/garden|garden]],  
 ‘Has it begun to sprout? Will it bloom this year?  
 ‘Or has the sudden [[motifs/frost|frost]] disturbed its bed?  
@@ -1273,11 +1521,111 @@ There I saw one I knew, and stopped him, crying: ‘Stetson!
 ‘Or with his nails he’ll dig it up again!  
 ‘You! hypocrite lecteur! — mon semblable, — mon frère!’  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I. La sepoltura dei morti  
+    Aprile è il più crudele dei mesi, genera  
+Lillà dalla terra morta, mescola  
+[[motifs/memory|Memoria]] e [[motifs/desire|desiderio]], smuove  
+Le radici sopite con pioggia di [[motifs/spring|primavera]].  
+L'[[motifs/winter|inverno]] ci tenne caldi, coprendo  
+La terra d'immemore [[motifs/snow|neve]], nutrendo  
+Un poco di vita con tuberi secchi.  
+L'[[motifs/summer|estate]] ci sorprese, giungendo sullo Starnbergersee  
+Con uno scroscio di pioggia; ci fermammo sotto il colonnato,  
+E proseguimmo nel sole, dentro l'Hofgarten,  
+
+
+E bevemmo caffè, e parlammo per un'ora.  
+Bin gar keine Russin, stamm’ aus Litauen, echt deutsch.  
+E quando eravamo bambini, ospiti dall'arciduca,  
+Mio cugino, mi portò fuori su una slitta.  
+E io avevo paura. Disse, Marie,  
+Marie, tieniti forte. E giù andammo.  
+Sulle [[settings/mountains|montagne]], là ci si sente liberi.  
+Leggo, gran parte della [[motifs/night|notte]], e d'[[motifs/winter|inverno]] vado a sud.  
+    Quali radici s'aggrappano, quali rami crescono  
+Da questa petrosa spazzatura? Figlio dell'uomo,  
+
+
+Tu non puoi dire, né indovinare, ché conosci soltanto  
+Un cumulo d'immagini spezzate, dove batte il sole,  
+E l'albero morto non dà riparo, il grillo nessun sollievo,  
+E la pietra secca nessun suono d'[[motifs/water|acqua]]. Soltanto  
+C'è [[archetypes/shadow|ombra]] sotto questa rossa roccia,  
+(Vieni all'[[archetypes/shadow|ombra]] di questa rossa roccia),  
+E io ti mostrerò qualcosa di diverso tanto dalla  
+Tua [[archetypes/shadow|ombra]] che al mattino ti incalza alle spalle  
+Quanto dalla tua [[archetypes/shadow|ombra]] che a sera si leva a incontrarti;  
+Ti mostrerò la [[concepts/fear|paura]] in una manciata di [[motifs/dust|polvere]].  
+
+
+Frisch weht der [[motifs/wind|Wind]]  
+Der Heimat zu  
+Mein Irisch Kind  
+Wo weilest du?  
+‘Mi desti giacinti la prima volta un anno fa;  
+‘Mi chiamavano la ragazza dei giacinti.’  
+— Eppure quando tornammo, tardi, dal [[motifs/garden|giardino]] dei giacinti,  
+Le tue braccia colme, e i capelli bagnati, io non potevo  
+Parlare, e mi vennero meno gli occhi, non ero né  
+Vivo né morto, e non sapevo nulla,  
+
+
+Guardando nel cuore della luce, il [[motifs/silence|silenzio]].  
+Oed’ und leer das Meer.  
+
+
+    [[characters/madame-sosostris|Madame Sosostris]], celebre chiaroveggente,  
+Aveva un brutto raffreddore, ciò nondimeno  
+È nota come la donna più saggia d'Europa,  
+Con un malefico mazzo di carte. Ecco, disse,  
+La tua carta, il Marinaio Fenicio annegato,  
+(Quelle perle furono i suoi occhi. Guarda!)  
+Ecco Belladonna, la Signora delle Rocce,  
+La signora delle situazioni.  
+
+
+Ecco l'uomo con tre bastoni, ed ecco la [[motifs/wheel|Ruota]],  
+Ed ecco il mercante con un occhio solo, e questa carta,  
+Che è bianca, è qualcosa che egli porta sul dorso,  
+Che a me è vietato vedere. Non trovo  
+L'Impiccato. [[concepts/fear|Temi]] la [[motifs/death|morte]] per [[motifs/water|acqua]].  
+Vedo folle di gente, che cammina in cerchio.  
+Grazie. Se vede la cara signora Equitone,  
+Le dica che l'oroscopo lo porto io stessa:  
+Di questi tempi bisogna essere così prudenti.  
+    [[motifs/city|Città]] irreale,  
+
+
+Sotto la bruna nebbia di un'[[motifs/winter|invernale]] [[motifs/dawn|alba]],  
+Una folla fluiva sul ponte di [[settings/london|Londra]], così tanti,  
+Non avrei creduto che la [[motifs/death|morte]] ne avesse disfatti così tanti.  
+Sospiri, brevi e radi, si esalavano,  
+E ciascuno teneva gli occhi fissi davanti ai piedi.  
+Fluivano su per la [[motifs/hill|collina]] e giù per [[archetypes/king|King]] William Street,  
+Fin dove Saint Mary Woolnoth scandiva le ore  
+Con un suono spento all'ultimo rintocco delle nove.  
+Là vidi uno che conoscevo, e lo fermai, gridando: ‘Stetson!  
+‘Tu che eri con me sulle navi a Milazzo!  
+‘Quel cadavere che l'anno scorso piantasti nel tuo [[motifs/garden|giardino]],  
+‘Ha cominciato a germogliare? Fiorirà quest'anno?  
+‘O l'improvviso [[motifs/frost|gelo]] ne ha turbato l'aiuola?  
+‘Oh tieni lontano di qui il Cane, che è amico degli uomini,  
+‘O con le unghie tornerà a dissotterrarlo!  
+‘You! hypocrite lecteur! — mon semblable, — mon frère!’
+
+
+
+<span class="atom-split" data-atom="section_02_ii_a_game_of_chess" data-title="The Waste Land — II. A Game of Chess" data-chapter="II a game of chess" data-kind="section" data-tags="archetype/fool,archetype/king,archetype/lover,motif/bells,motif/city,motif/death,motif/desert,motif/fire,motif/home,motif/moon,motif/night,motif/nightingale,motif/noon,motif/river,motif/rose,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/vanity,setting/desert,setting/london,character/queen,character/sunday,character/sweeney,character/tiresias"></span>
+
+
 II. A Game of Chess  
     The Chair she sat in, like a burnished throne,  
 Glowed on the marble, where the glass  
 Held up by standards wrought with fruited vines  
-80 From which a golden Cupidon peeped out  
+From which a golden Cupidon peeped out  
 
 
 (Another hid his eyes behind his wing)  
@@ -1289,7 +1637,7 @@ In vials of ivory and coloured glass
 Unstoppered, lurked her strange synthetic perfumes,  
 Unguent, powdered, or liquid — troubled, confused  
 And drowned the sense in odours; stirred by the air  
-90 That freshened from the [[motifs/window|window]], these ascended  
+That freshened from the [[motifs/window|window]], these ascended  
 
 
 In fattening the prolonged candle-flames,  
@@ -1301,7 +1649,7 @@ In which sad light a carvèd dolphin swam.
 Above the antique mantel was displayed  
 As though a [[motifs/window|window]] gave upon the sylvan scene  
 The change of Philomel, by the barbarous [[archetypes/king|king]]  
-100 So rudely forced; yet there the [[motifs/nightingale|nightingale]]  
+So rudely forced; yet there the [[motifs/nightingale|nightingale]]  
 
 
 Filled all the [[motifs/desert|desert]] with inviolable voice  
@@ -1313,7 +1661,7 @@ Leaned out, leaning, hushing the room enclosed.
 Footsteps shuffled on the stair.  
 Under the firelight, under the brush, her hair  
 Spread out in fiery points  
-110 Glowed into words, then would be savagely still.  
+Glowed into words, then would be savagely still.  
 
 
     ‘My nerves are bad tonight. Yes, bad. Stay with me.  
@@ -1325,7 +1673,7 @@ Where the dead men lost their bones.
     ‘What is that noise?’  
                                 The [[motifs/wind|wind]] under the door.  
 ‘What is that noise now? What is the [[motifs/wind|wind]] doing?’  
-120                                Nothing again nothing.  
+                                Nothing again nothing.  
 
 
                                                                                     ‘Do  
@@ -1337,7 +1685,7 @@ Those are pearls that were his eyes.
                                                                                     But  
 O O O O that Shakespeherian Rag —  
 It’s so elegant  
-130 So intelligent  
+So intelligent  
 
 
 ‘What shall I do now? What shall I do?  
@@ -1349,7 +1697,7 @@ And if it rains, a closed car at four.
 And we shall play a game of chess,  
 Pressing lidless eyes and waiting for a knock upon the door.  
     When Lil’s husband got demobbed, I said —  
-140 I didn’t mince my words, I said to her myself,  
+I didn’t mince my words, I said to her myself,  
 
 
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
@@ -1361,7 +1709,7 @@ He said, I swear, I can’t bear to look at you.
 And no more can’t I, I said, and think of poor Albert,  
 He’s been in the army four years, he wants a good [[motifs/time|time]],  
 And if you don’t give it him, there’s others will, I said.  
-150 Oh is there, she said. Something o’ that, I said.  
+Oh is there, she said. Something o’ that, I said.  
 
 
 Then I’ll know who to thank, she said, and give me a straight look.  
@@ -1373,7 +1721,7 @@ You ought to be ashamed, I said, to look so antique.
 (And her only thirty-one.)  
 I can’t help it, she said, pulling a long face,  
 It’s them pills I took, to bring it off, she said.  
-160 (She’s had five already, and nearly died of young George.)  
+(She’s had five already, and nearly died of young George.)  
 
 
 The chemist said it would be all right, but I’ve never been the same.  
@@ -1387,147 +1735,149 @@ HURRY UP PLEASE ITS [[motifs/time|TIME]]
 And they asked me in to dinner, to get the [[concepts/beauty|beauty]] of it hot —  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
 HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-170 Goonight Bill. Goonight Lou. Goonight May. Goonight.  
+Goonight Bill. Goonight Lou. Goonight May. Goonight.  
 
 
 Ta ta. Goonight. Goonight.  
 Good [[motifs/night|night]], ladies, good [[motifs/night|night]], sweet ladies, good [[motifs/night|night]], good [[motifs/night|night]].  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II. Una partita a scacchi  
+    La Sedia su cui sedeva, come un trono brunito,  
+Splendeva sul marmo, dove lo specchio  
+Retto da sostegni lavorati a viti fruttate  
+Da cui faceva capolino un Cupido d'oro  
 
 
-<span class="atom-split" data-atom="section_02_ii_a_game_of_chess" data-title="II. A Game of Chess" data-chapter="II a game of chess" data-kind="section" data-tags="archetype/fool,archetype/king,archetype/lover,motif/bells,motif/city,motif/death,motif/desert,motif/fire,motif/home,motif/moon,motif/night,motif/nightingale,motif/noon,motif/river,motif/rose,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/vanity,setting/desert,setting/london,character/queen,character/sunday,character/sweeney,character/tiresias"></span>
+(Un altro nascondeva gli occhi dietro l'ala)  
+Raddoppiava le fiamme del candelabro a sette braccia  
+Riflettendo luce sulla tavola mentre  
+Il luccichio dei suoi gioielli [[motifs/rose|saliva]] a incontrarla,  
+Versati da astucci di raso in ricca profusione.  
+In fiale d'avorio e di vetro colorato  
+Stappate, si annidavano i suoi strani profumi sintetici,  
+Unguento, polvere o liquido — turbavano, confondevano  
+E annegavano il senso negli odori; mossi dall'aria  
+Che rinfrescava dalla [[motifs/window|finestra]], questi salivano  
 
 
-II. A Game of Chess  
-    The Chair she sat in, like a burnished throne,  
-Glowed on the marble, where the glass  
-Held up by standards wrought with fruited vines  
-80 From which a golden Cupidon peeped out  
+A ingrassare le prolungate fiamme delle candele,  
+Gettavano il loro fumo nei laquearia,  
+Agitando il disegno sul soffitto a cassettoni.  
+Enorme legname di mare nutrito di rame  
+Ardeva verde e arancio, incorniciato dalla pietra colorata,  
+In quella triste luce nuotava un delfino scolpito.  
+Sopra l'antica mensola del camino era esposto  
+Come se una [[motifs/window|finestra]] desse sulla scena silvana  
+Il mutamento di Filomela, dal barbaro [[archetypes/king|re]]  
+Così brutalmente violata; eppure là l'[[motifs/nightingale|usignolo]]  
 
 
-(Another hid his eyes behind his wing)  
-Doubled the flames of sevenbranched candelabra  
-Reflecting light upon the table as  
-The glitter of her jewels [[motifs/rose|rose]] to meet it,  
-From satin cases poured in rich profusion.  
-In vials of ivory and coloured glass  
-Unstoppered, lurked her strange synthetic perfumes,  
-Unguent, powdered, or liquid — troubled, confused  
-And drowned the sense in odours; stirred by the air  
-90 That freshened from the [[motifs/window|window]], these ascended  
+Riempiva tutto il [[motifs/desert|deserto]] di voce inviolabile  
+E ancora ella gridava, e ancora il mondo insegue,  
+‘Giug Giug’ a orecchie sporche.  
+E altri aridi monconi di [[motifs/time|tempo]]  
+Erano narrati sulle pareti; forme fisse  
+Si sporgevano, sporgendosi, zittendo la stanza chiusa.  
+Passi strascicarono sulle scale.  
+Alla luce del fuoco, sotto la spazzola, i suoi capelli  
+Si spandevano in punte di fuoco  
+Ardevano in parole, poi sarebbero stati selvaggiamente immobili.  
 
 
-In fattening the prolonged candle-flames,  
-Flung their smoke into the laquearia,  
-Stirring the pattern on the coffered ceiling.  
-Huge sea-wood fed with copper  
-Burned green and orange, framed by the coloured stone,  
-In which sad light a carvèd dolphin swam.  
-Above the antique mantel was displayed  
-As though a [[motifs/window|window]] gave upon the sylvan scene  
-The change of Philomel, by the barbarous [[archetypes/king|king]]  
-100 So rudely forced; yet there the [[motifs/nightingale|nightingale]]  
+    ‘Ho i nervi a pezzi stanotte. Sì, a pezzi. Resta con me.  
+    Parlami. Perché non parli mai? Parla.  
+        A cosa pensi? Che pensi? Che?  
+    Non so mai cosa pensi. Pensa.’  
+    Penso che siamo nel vicolo dei topi  
+Dove i morti perdettero le ossa.  
+    ‘Cos'è quel rumore?’  
+                                Il [[motifs/wind|vento]] sotto la porta.  
+‘E ora cos'è quel rumore? Cosa fa il [[motifs/wind|vento]]?’  
+                                Nulla ancora nulla.  
 
 
-Filled all the [[motifs/desert|desert]] with inviolable voice  
-And still she cried, and still the world pursues,  
-‘Jug Jug’ to dirty ears.  
-And other withered stumps of [[motifs/time|time]]  
-Were told upon the walls; staring forms  
-Leaned out, leaning, hushing the room enclosed.  
-Footsteps shuffled on the stair.  
-Under the firelight, under the brush, her hair  
-Spread out in fiery points  
-110 Glowed into words, then would be savagely still.  
+                                                                                    ‘Non  
+‘Sai nulla? Non vedi nulla? Non ricordi  
+Nulla?’  
+       Ricordo  
+Quelle perle furono i suoi occhi.  
+‘Sei vivo, o no? Non hai nulla in testa?’  
+                                                                                    Ma  
+O O O O quel Rag Shakespeeriano —  
+È così elegante  
+Così intelligente  
 
 
-    ‘My nerves are bad tonight. Yes, bad. Stay with me.  
-    Speak to me. Why do you never speak? Speak.  
-        What are you thinking of? What thinking? What?  
-    I never know what you are thinking. Think.’  
-    I think we are in rats’ alley  
-Where the dead men lost their bones.  
-    ‘What is that noise?’  
-                                The [[motifs/wind|wind]] under the door.  
-‘What is that noise now? What is the [[motifs/wind|wind]] doing?’  
-120                                Nothing again nothing.  
+‘Che farò ora? Che farò?  
+Correrò fuori così come sono, e camminerò per la strada  
+Coi capelli sciolti, così. Che faremo domani?  
+Che faremo mai?’  
+                                                  L'[[motifs/water|acqua]] calda alle dieci.  
+E se piove, un'auto chiusa alle quattro.  
+E giocheremo una partita a scacchi,  
+Premendo occhi senza palpebre e aspettando un bussare alla porta.  
+    Quando il marito di Lil fu congedato, dissi —  
+Non le mandai a dire, gliel'ho detto io stessa,  
 
 
-                                                                                    ‘Do  
-‘You know nothing? Do you see nothing? Do you remember  
-Nothing?’  
-       I remember  
-Those are pearls that were his eyes.  
-‘Are you alive, or not? Is there nothing in your head?’  
-                                                                                    But  
-O O O O that Shakespeherian Rag —  
-It’s so elegant  
-130 So intelligent  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+Ora Albert torna, fatti un po' carina.  
+Vorrà sapere che ne hai fatto di quei soldi che t'ha dato  
+Per farti i denti. È vero, c'ero io.  
+Fatteli togliere tutti, Lil, e mettitene una bella fila,  
+Disse, giuro, non ti so più guardare.  
+E manco io, dissi, e pensa al povero Albert,  
+È stato nell'esercito quattro anni, vuole godersi un po' di [[motifs/time|tempo]],  
+E se non glielo dai tu, ci sono altre che lo faranno, dissi.  
+Ah sì, disse. Qualcosa del genere, dissi.  
 
 
-‘What shall I do now? What shall I do?  
-I shall rush out as I am, and walk the street  
-With my hair down, so. What shall we do tomorrow?  
-What shall we ever do?’  
-                                                  The hot [[motifs/water|water]] at ten.  
-And if it rains, a closed car at four.  
-And we shall play a game of chess,  
-Pressing lidless eyes and waiting for a knock upon the door.  
-    When Lil’s husband got demobbed, I said —  
-140 I didn’t mince my words, I said to her myself,  
+Allora saprò chi ringraziare, disse, e mi guardò dritto in faccia.  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+Se non ti va, arrangiati, dissi.  
+Altre possono scegliere, se tu non puoi.  
+Ma se Albert se ne va, non sarà per non essere stata avvertita.  
+Dovresti vergognarti, dissi, a sembrare così anticaglia.  
+(E lei ha solo trentun anni.)  
+Non ci posso far niente, disse, facendo il muso lungo,  
+Son quelle pillole che ho preso, per mandarlo via, disse.  
+(Ne ha già avuti cinque, e per il piccolo George c'è quasi rimasta.)  
 
 
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-Now Albert’s coming back, make yourself a bit smart.  
-He’ll want to know what you done with that money he gave you  
-To get yourself some teeth. He did, I was there.  
-You have them all out, Lil, and get a nice set,  
-He said, I swear, I can’t bear to look at you.  
-And no more can’t I, I said, and think of poor Albert,  
-He’s been in the army four years, he wants a good [[motifs/time|time]],  
-And if you don’t give it him, there’s others will, I said.  
-150 Oh is there, she said. Something o’ that, I said.  
+Il farmacista disse che sarebbe andato tutto bene, ma non sono più stata la stessa.  
+Sei proprio una [[archetypes/fool|sciocca]], dissi.  
 
 
-Then I’ll know who to thank, she said, and give me a straight look.  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-If you don’t like it you can get on with it, I said.  
-Others can pick and choose if you can’t.  
-But if Albert makes off, it won’t be for lack of telling.  
-You ought to be ashamed, I said, to look so antique.  
-(And her only thirty-one.)  
-I can’t help it, she said, pulling a long face,  
-It’s them pills I took, to bring it off, she said.  
-160 (She’s had five already, and nearly died of young George.)  
+[[motifs/well|Beh]], se Albert non ti lascia sola, è così, dissi,  
+Per cosa ti sei sposata se non vuoi figli?  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+[[motifs/well|Beh]], quella [[characters/sunday|domenica]] Albert era a [[motifs/home|casa]], avevano un prosciutto caldo,  
+E mi invitarono a cena, per godermene la [[concepts/beauty|bellezza]] calda —  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+FATE PRESTO PER FAVORE È [[motifs/time|ORA]]  
+Bonanotte Bill. Bonanotte Lou. Bonanotte May. Bonanotte.  
 
 
-The chemist said it would be all right, but I’ve never been the same.  
-You are a proper [[archetypes/fool|fool]], I said.  
+Ta ta. Bonanotte. Bonanotte.  
+Buona [[motifs/night|notte]], signore, buona [[motifs/night|notte]], dolci signore, buona [[motifs/night|notte]], buona [[motifs/night|notte]].
 
 
-[[motifs/well|Well]], if Albert won’t leave you alone, there it is, I said,  
-What you get married for if you don’t want children?  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-[[motifs/well|Well]], that [[characters/sunday|Sunday]] Albert was [[motifs/home|home]], they had a hot gammon,  
-And they asked me in to dinner, to get the [[concepts/beauty|beauty]] of it hot —  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-HURRY UP PLEASE ITS [[motifs/time|TIME]]  
-170 Goonight Bill. Goonight Lou. Goonight May. Goonight.  
 
+<span class="atom-split" data-atom="section_03_iii_the_fire_sermon" data-title="The Waste Land — III. The Fire Sermon" data-chapter="III the fire sermon" data-kind="section" data-tags="archetype/king,archetype/lover,motif/bells,motif/city,motif/death,motif/fire,motif/home,motif/moon,motif/night,motif/noon,motif/river,motif/rose,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/vanity,setting/london,character/queen,character/sweeney,character/tiresias"></span>
 
-Ta ta. Goonight. Goonight.  
-Good [[motifs/night|night]], ladies, good [[motifs/night|night]], sweet ladies, good [[motifs/night|night]], good [[motifs/night|night]].  
 
 III. The [[motifs/fire|Fire]] Sermon  
-    The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
+    The [[motifs/river|river]]’s tent is broken; the last fingers of leaf  
 Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
 Crosses the brown land, unheard. The nymphs are departed.  
 Sweet Thames, run softly, till I end my song.  
 The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
 Silk handkerchiefs, cardboard boxes, cigarette ends  
 Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
-180 And their friends, the loitering heirs of [[motifs/city|City]] directors;  
+And their friends, the loitering heirs of [[motifs/city|City]] directors;  
 
 
 Departed, have left no addresses.  
@@ -1539,7 +1889,7 @@ The rattle of the bones, and chuckle spread from ear to ear.
 A rat crept softly through the vegetation  
 Dragging its slimy belly on the bank  
 While I was fishing in the dull canal  
-190 On a [[motifs/winter|winter]] evening round behind the gashouse  
+On a [[motifs/winter|winter]] evening round behind the gashouse  
 
 
 Musing upon the [[archetypes/king|king]] my brother’s wreck  
@@ -1551,7 +1901,7 @@ But at my back from [[motifs/time|time]] to [[motifs/time|time]] I hear
 The sound of horns and motors, which shall bring  
 [[characters/sweeney|Sweeney]] to Mrs. Porter in the [[motifs/spring|spring]].  
 O the [[motifs/moon|moon]] shone bright on Mrs. Porter  
-200 And on her daughter  
+And on her daughter  
 
 
 They wash their feet in soda [[motifs/water|water]]  
@@ -1563,7 +1913,7 @@ Tereu
     Unreal [[motifs/city|City]]  
 Under the brown fog of a [[motifs/winter|winter]] [[motifs/noon|noon]]  
 Mr. Eugenides, the Smyrna merchant  
-210 Unshaven, with a pocket full of currants  
+Unshaven, with a pocket full of currants  
 
 
 C.i.f. [[settings/london|London]]: documents at sight,  
@@ -1575,7 +1925,7 @@ Turn upward from the desk, when the human engine waits
 Like a taxi throbbing waiting,  
 I [[characters/tiresias|Tiresias]], though blind, throbbing between two lives,  
 Old man with wrinkled female breasts, can see  
-220 At the violet hour, the evening hour that strives  
+At the violet hour, the evening hour that strives  
 
 
 Homeward, and brings the sailor [[motifs/home|home]] from sea,  
@@ -1587,7 +1937,7 @@ On the divan are piled (at [[motifs/night|night]] her bed)
 Stockings, slippers, camisoles, and stays.  
 I [[characters/tiresias|Tiresias]], old man with wrinkled dugs  
 Perceived the scene, and foretold the rest —  
-230 I too awaited the expected guest.  
+I too awaited the expected guest.  
 
 
 He, the young man carbuncular, arrives,  
@@ -1599,7 +1949,7 @@ The meal is ended, she is bored and tired,
 Endeavours to engage her in caresses  
 Which still are unreproved, if undesired.  
 Flushed and decided, he assaults at once;  
-240 Exploring hands encounter no defence;  
+Exploring hands encounter no defence;  
 
 
 His [[concepts/vanity|vanity]] requires no response,  
@@ -1611,7 +1961,7 @@ And walked among the lowest of the dead.)
 Bestows one final patronising kiss,  
 And gropes his way, finding the stairs unlit …  
     She turns and looks a moment in the glass,  
-250 Hardly aware of her departed [[archetypes/lover|lover]];  
+Hardly aware of her departed [[archetypes/lover|lover]];  
 
 
 Her brain allows one half-formed thought to pass:  
@@ -1623,7 +1973,7 @@ And puts a record on the gramophone.
     ‘This music crept by me upon the waters’  
 And along the Strand, up [[characters/queen|Queen]] Victoria Street.  
 O [[motifs/city|City]] [[motifs/city|city]], I can sometimes hear  
-260 Beside a public bar in Lower Thames Street,  
+Beside a public bar in Lower Thames Street,  
 
 
 The pleasant whining of a mandoline  
@@ -1635,7 +1985,7 @@ Inexplicable splendour of Ionian white and gold.
                     Oil and tar  
                     The barges drift  
                     With the turning tide  
-270                    Red sails  
+                    Red sails  
 
 
                     Wide  
@@ -1647,7 +1997,7 @@ Inexplicable splendour of Ionian white and gold.
                                          Weialala leia  
                                          Wallala leialala  
                     Elizabeth and Leicester  
-280                    Beating oars  
+                    Beating oars  
 
 
                     The stern was formed  
@@ -1659,7 +2009,7 @@ Inexplicable splendour of Ionian white and gold.
                     Carried down stream  
                     The peal of [[motifs/bells|bells]]  
                     White towers  
-290                                         Weialala leia  
+                                         Weialala leia  
 
 
                                          Wallala leialala  
@@ -1671,7 +2021,7 @@ Inexplicable splendour of Ionian white and gold.
                     Under my feet. After the event  
                     He wept. He promised “a new start.”  
                     I made no comment. What should I resent?’  
-300                    ‘On Margate Sands.  
+                    ‘On Margate Sands.  
 
 
                     I can connect  
@@ -1683,204 +2033,186 @@ Inexplicable splendour of Ionian white and gold.
                     To Carthage then I came  
                     Burning burning burning burning  
                     O Lord Thou pluckest me out  
-310                    O Lord Thou pluckest  
+                    O Lord Thou pluckest  
 
 
                     burning  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III. Il sermone del [[motifs/fire|fuoco]]  
+    La tenda del [[motifs/river|fiume]] è rotta; le ultime dita di foglia  
+S'aggrappano e affondano nella riva bagnata. Il [[motifs/wind|vento]]  
+Attraversa la terra bruna, inudito. Le ninfe sono partite.  
+Dolce Tamigi, scorri piano, finché non finisca il mio canto.  
+Il [[motifs/river|fiume]] non porta bottiglie vuote, carte da panini,  
+Fazzoletti di seta, scatole di cartone, mozziconi di sigaretta  
+O altra testimonianza di notti d'[[motifs/summer|estate]]. Le ninfe sono partite.  
+E i loro amici, gli oziosi eredi dei direttori della [[motifs/city|City]];  
 
 
-<span class="atom-split" data-atom="section_03_iii_the_fire_sermon" data-title="III. The Fire Sermon" data-chapter="III the fire sermon" data-kind="section" data-tags="archetype/king,archetype/lover,motif/bells,motif/city,motif/death,motif/fire,motif/home,motif/moon,motif/night,motif/noon,motif/river,motif/rose,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/vanity,setting/london,character/queen,character/sweeney,character/tiresias"></span>
+Partiti, non hanno lasciato indirizzi.  
+Presso le acque del Lemano mi sedetti e piansi …  
+Dolce Tamigi, scorri piano finché non finisca il mio canto,  
+Dolce Tamigi, scorri piano, ché non parlo forte né a lungo.  
+Ma alle mie spalle in una fredda raffica odo  
+Lo sferragliare delle ossa, e un ghigno steso da orecchio a orecchio.  
+Un ratto strisciò piano tra la vegetazione  
+Trascinando il ventre viscido sulla riva  
+Mentre pescavo nel canale opaco  
+In una sera d'[[motifs/winter|inverno]] dietro il gasometro  
 
 
-III. The [[motifs/fire|Fire]] Sermon  
-    The [[motifs/river|river]]’s tent is broken; the last ringers of leaf  
-Clutch and sink into the wet bank. The [[motifs/wind|wind]]  
-Crosses the brown land, unheard. The nymphs are departed.  
-Sweet Thames, run softly, till I end my song.  
-The [[motifs/river|river]] bears no empty bottles, sandwich papers,  
-Silk handkerchiefs, cardboard boxes, cigarette ends  
-Or other testimony of [[motifs/summer|summer]] nights. The nymphs are departed.  
-180 And their friends, the loitering heirs of [[motifs/city|City]] directors;  
+Meditando sul naufragio del [[archetypes/king|re]] mio fratello  
+E sul [[archetypes/king|re]] mio padre, [[motifs/death|morto]] prima di lui.  
+Bianchi corpi nudi sul basso suolo umido  
+E ossa gettate in un piccolo basso solaio asciutto,  
+Scosse solo dalla zampa del ratto, anno dopo anno.  
+Ma alle mie spalle di [[motifs/time|tempo]] in [[motifs/time|tempo]] odo  
+Il suono di clacson e motori, che porteranno  
+[[characters/sweeney|Sweeney]] dalla signora Porter in [[motifs/spring|primavera]].  
+Oh la [[motifs/moon|luna]] splendeva chiara sulla signora Porter  
+E su sua figlia  
 
 
-Departed, have left no addresses.  
-By the waters of Leman I sat down and wept …  
-Sweet Thames, run softly till I end my song,  
-Sweet Thames, run softly, for I speak not loud or long.  
-But at my back in a cold blast I hear  
-The rattle of the bones, and chuckle spread from ear to ear.  
-A rat crept softly through the vegetation  
-Dragging its slimy belly on the bank  
-While I was fishing in the dull canal  
-190 On a [[motifs/winter|winter]] evening round behind the gashouse  
-
-
-Musing upon the [[archetypes/king|king]] my brother’s wreck  
-And on the [[archetypes/king|king]] my father’s [[motifs/death|death]] before him.  
-White bodies naked on the low damp ground  
-And bones cast in a little low dry garret,  
-Rattled by the rat’s foot only, year to year.  
-But at my back from [[motifs/time|time]] to [[motifs/time|time]] I hear  
-The sound of horns and motors, which shall bring  
-[[characters/sweeney|Sweeney]] to Mrs. Porter in the [[motifs/spring|spring]].  
-O the [[motifs/moon|moon]] shone bright on Mrs. Porter  
-200 And on her daughter  
-
-
-They wash their feet in soda [[motifs/water|water]]  
+Si lavano i piedi in [[motifs/water|acqua]] di seltz  
 Et O ces voix d’enfants, chantant dans la coupole!  
 Twit twit twit  
-Jug jug jug jug jug jug  
-So rudely forc’d.  
+Giug giug giug giug giug giug  
+Così brutalmente violata.  
 Tereu  
-    Unreal [[motifs/city|City]]  
-Under the brown fog of a [[motifs/winter|winter]] [[motifs/noon|noon]]  
-Mr. Eugenides, the Smyrna merchant  
-210 Unshaven, with a pocket full of currants  
+    [[motifs/city|Città]] irreale  
+Sotto la bruna nebbia di un [[motifs/winter|invernale]] [[motifs/noon|mezzogiorno]]  
+Il signor Eugenides, il mercante di Smirne  
+Non rasato, con una tasca piena d'uva passa  
 
 
-C.i.f. [[settings/london|London]]: documents at sight,  
-Asked me in demotic French  
-To luncheon at the Cannon Street Hotel  
-Followed by a weekend at the Metropole.  
-    At the violet hour, when the eyes and back  
-Turn upward from the desk, when the human engine waits  
-Like a taxi throbbing waiting,  
-I [[characters/tiresias|Tiresias]], though blind, throbbing between two lives,  
-Old man with wrinkled female breasts, can see  
-220 At the violet hour, the evening hour that strives  
+C.i.f. [[settings/london|Londra]]: documenti a vista,  
+Mi invitò in francese demotico  
+A colazione al Cannon Street Hotel  
+Seguita da un fine settimana al Metropole.  
+    All'ora viola, quando gli occhi e la schiena  
+Si levano dalla scrivania, quando il motore umano attende  
+Come un taxi che palpita in attesa,  
+Io [[characters/tiresias|Tiresia]], benché cieco, palpitando fra due vite,  
+Vecchio con grinzose mammelle femminili, posso vedere  
+All'ora viola, l'ora della sera che si sforza  
 
 
-Homeward, and brings the sailor [[motifs/home|home]] from sea,  
-The typist [[motifs/home|home]] at teatime, clears her breakfast, lights  
-Her stove, and lays out food in tins.  
-Out of the [[motifs/window|window]] perilously spread  
-Her drying combinations touched by the sun’s last rays,  
-On the divan are piled (at [[motifs/night|night]] her bed)  
-Stockings, slippers, camisoles, and stays.  
-I [[characters/tiresias|Tiresias]], old man with wrinkled dugs  
-Perceived the scene, and foretold the rest —  
-230 I too awaited the expected guest.  
+Verso casa, e riporta il marinaio a [[motifs/home|casa]] dal mare,  
+La dattilografa a [[motifs/home|casa]] all'ora del tè, sparecchia la colazione, accende  
+La stufa, e dispone cibo in scatola.  
+Fuori dalla [[motifs/window|finestra]] pericolosamente stese  
+Le sue combinazioni ad asciugare toccate dagli ultimi raggi del sole,  
+Sul divano stanno ammucchiati (di [[motifs/night|notte]] il suo letto)  
+Calze, pantofole, camiciole e busti.  
+Io [[characters/tiresias|Tiresia]], vecchio dalle poppe grinzose  
+Colsi la scena, e predissi il resto —  
+Anch'io attendevo l'ospite atteso.  
 
 
-He, the young man carbuncular, arrives,  
-A small house agent’s clerk, with one bold stare,  
-One of the low on whom assurance sits  
-As a silk hat on a Bradford millionaire.  
-The [[motifs/time|time]] is now propitious, as he guesses,  
-The meal is ended, she is bored and tired,  
-Endeavours to engage her in caresses  
-Which still are unreproved, if undesired.  
-Flushed and decided, he assaults at once;  
-240 Exploring hands encounter no defence;  
+Egli, il giovanotto foruncoloso, arriva,  
+Impiegato di un piccolo agente di case, con uno sguardo sfrontato,  
+Uno degli infimi su cui la sicurezza sta  
+Come un cilindro di seta su un milionario di Bradford.  
+Il [[motifs/time|momento]] è ora propizio, come indovina,  
+Il pasto è finito, lei è annoiata e stanca,  
+Si adopera a impegnarla in carezze  
+Che pure non sono rimproverate, se non desiderate.  
+Acceso e deciso, assale all'istante;  
+Mani esploranti non incontrano difesa;  
 
 
-His [[concepts/vanity|vanity]] requires no response,  
-And makes a welcome of indifference.  
-(And I [[characters/tiresias|Tiresias]] have foresuffered all  
-Enacted on this same divan or bed;  
-I who have sat by Thebes below the wall  
-And walked among the lowest of the dead.)  
-Bestows one final patronising kiss,  
-And gropes his way, finding the stairs unlit …  
-    She turns and looks a moment in the glass,  
-250 Hardly aware of her departed [[archetypes/lover|lover]];  
+La sua [[concepts/vanity|vanità]] non richiede risposta,  
+E fa dell'indifferenza un benvenuto.  
+(E io [[characters/tiresias|Tiresia]] ho presofferto tutto  
+Ciò che si recita su questo stesso divano o letto;  
+Io che sedetti a Tebe sotto le mura  
+E camminai fra i più infimi dei morti.)  
+Elargisce un ultimo bacio condiscendente,  
+E va a tentoni, trovando le scale non illuminate …  
+    Lei si volta e si guarda un momento allo specchio,  
+Appena consapevole dell'[[archetypes/lover|amante]] partito;  
 
 
-Her brain allows one half-formed thought to pass:  
-‘[[motifs/well|Well]] now that’s done: and I’m glad it’s over.’  
-When lovely woman stoops to folly and  
-Paces about her room again, alone,  
-She smooths her hair with automatic hand,  
-And puts a record on the gramophone.  
-    ‘This music crept by me upon the waters’  
-And along the Strand, up [[characters/queen|Queen]] Victoria Street.  
-O [[motifs/city|City]] [[motifs/city|city]], I can sometimes hear  
-260 Beside a public bar in Lower Thames Street,  
+Il suo cervello lascia passare un pensiero mezzo formato:  
+‘[[motifs/well|Beh]] ora è fatta: e sono contenta che sia finita.’  
+Quando amabile donna cede alla follia e  
+Torna a misurare la sua stanza, sola,  
+Si liscia i capelli con mano automatica,  
+E mette un disco sul grammofono.  
+    ‘Questa musica mi strisciò accanto sulle acque’  
+E lungo lo Strand, su per [[characters/queen|Queen]] Victoria Street.  
+O [[motifs/city|City]] [[motifs/city|città]], talvolta posso udire  
+Accanto a un bar in Lower Thames Street,  
 
 
-The pleasant whining of a mandoline  
-And a clatter and a chatter from within  
-Where fishmen lounge at [[motifs/noon|noon]]: where the walls  
-Of Magnus Martyr hold  
-Inexplicable splendour of Ionian white and gold.  
-                    The [[motifs/river|river]] sweats  
-                    Oil and tar  
-                    The barges drift  
-                    With the turning tide  
-270                    Red sails  
+Il gradevole gemito di un mandolino  
+E un acciottolio e un chiacchiericcio da dentro  
+Dove i pescivendoli oziano a [[motifs/noon|mezzogiorno]]: dove le mura  
+Di Magnus Martyr custodiscono  
+Inesplicabile splendore di bianco e oro ionico.  
+                    Il [[motifs/river|fiume]] suda  
+                    Olio e catrame  
+                    Le chiatte vanno alla deriva  
+                    Con la marea che gira  
+                    Vele rosse  
 
 
-                    Wide  
-                    To leeward, swing on the heavy spar.  
-                    The barges wash  
-                    Drifting logs  
-                    Down Greenwich reach  
-                    Past the Isle of Dogs.  
+                    Ampie  
+                    Sottovento, girano sul pesante pennone.  
+                    Le chiatte lavano  
+                    Tronchi alla deriva  
+                    Giù per il tratto di Greenwich  
+                    Oltre l'Isle of Dogs.  
                                          Weialala leia  
                                          Wallala leialala  
-                    Elizabeth and Leicester  
-280                    Beating oars  
+                    Elisabetta e Leicester  
+                    Remi battenti  
 
 
-                    The stern was formed  
-                    A gilded shell  
-                    Red and gold  
-                    The brisk swell  
-                    Rippled both shores  
-                    Southwest [[motifs/wind|wind]]  
-                    Carried down stream  
-                    The peal of [[motifs/bells|bells]]  
-                    White towers  
-290                                         Weialala leia  
+                    La poppa era formata  
+                    Una conchiglia dorata  
+                    Rossa e oro  
+                    L'onda vivace  
+                    Increspava entrambe le rive  
+                    [[motifs/wind|Vento]] di libeccio  
+                    Portava a valle  
+                    Lo scampanio delle [[motifs/bells|campane]]  
+                    Bianche torri  
+                                         Weialala leia  
 
 
                                          Wallala leialala  
-                    ‘Trams and dusty trees.  
-                    Highbury bore me. Richmond and Kew  
-                    Undid me. By Richmond I raised my knees  
-                    Supine on the floor of a narrow canoe.’  
-                    ‘My feet are at Moorgate, and my heart  
-                    Under my feet. After the event  
-                    He wept. He promised “a new start.”  
-                    I made no comment. What should I resent?’  
-300                    ‘On Margate Sands.  
+                    ‘Tram e alberi polverosi.  
+                    Highbury mi generò. Richmond e Kew  
+                    Mi disfecero. A Richmond alzai le ginocchia  
+                    Supina sul fondo di una stretta canoa.’  
+                    ‘I miei piedi sono a Moorgate, e il mio cuore  
+                    Sotto i miei piedi. Dopo il fatto  
+                    Egli pianse. Promise “un nuovo inizio.”  
+                    Non feci commenti. Di che dovrei risentirmi?’  
+                    ‘Sulle sabbie di Margate.  
 
 
-                    I can connect  
-                    Nothing with nothing.  
-                    The broken fingernails of dirty hands.  
-                    My people humble people who expect  
-                    Nothing.’  
+                    Posso collegare  
+                    Nulla con nulla.  
+                    Le unghie spezzate di mani sporche.  
+                    La mia gente gente umile che non si aspetta  
+                    Nulla.’  
                                 la la  
-                    To Carthage then I came  
-                    Burning burning burning burning  
-                    O Lord Thou pluckest me out  
-310                    O Lord Thou pluckest  
+                    A Cartagine allora venni  
+                    Bruciando bruciando bruciando bruciando  
+                    O Signore Tu mi strappi fuori  
+                    O Signore Tu strappi  
 
 
-                    burning  
-
-IV. [[motifs/death|Death]] by [[motifs/water|Water]]  
-Phlebas the Phoenician, a fortnight dead,  
-Forgot the cry of gulls, and the deep sea swell  
-And the profit and loss.  
-                                               A current under sea  
-Picked his bones in whispers. As he [[motifs/rose|rose]] and fell  
-He passed the stages of his age and youth  
-Entering the whirlpool.  
-                                               Gentile or Jew  
-320 O you who turn the [[motifs/wheel|wheel]] and look to windward,  
-
-
-Consider Phlebas, who was once handsome and tall as you.  
+                    bruciando
 
 
 
-
-<span class="atom-split" data-atom="section_04_iv_death_by_water" data-title="IV. Death by Water" data-chapter="IV death by water" data-kind="section" data-tags="motif/bells,motif/blood,motif/city,motif/death,motif/home,motif/leaves,motif/lightning,motif/prison,motif/road,motif/rose,motif/silence,motif/spring,motif/swallow,motif/water,motif/wheel,motif/wind,concept/solitude,setting/london,setting/mountains,character/coriolanus"></span>
+<span class="atom-split" data-atom="section_04_iv_death_by_water" data-title="The Waste Land — IV. Death by Water" data-chapter="IV death by water" data-kind="section" data-tags="motif/bells,motif/blood,motif/city,motif/death,motif/home,motif/leaves,motif/lightning,motif/prison,motif/road,motif/rose,motif/silence,motif/spring,motif/swallow,motif/water,motif/wheel,motif/wind,concept/solitude,setting/london,setting/mountains,character/coriolanus"></span>
 
 
 IV. [[motifs/death|Death]] by [[motifs/water|Water]]  
@@ -1892,10 +2224,32 @@ Picked his bones in whispers. As he [[motifs/rose|rose]] and fell
 He passed the stages of his age and youth  
 Entering the whirlpool.  
                                                Gentile or Jew  
-320 O you who turn the [[motifs/wheel|wheel]] and look to windward,  
+O you who turn the [[motifs/wheel|wheel]] and look to windward,  
 
 
 Consider Phlebas, who was once handsome and tall as you.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV. [[motifs/death|Morte]] per [[motifs/water|acqua]]  
+Phlebas il Fenicio, morto da quindici giorni,  
+Dimenticò il grido dei gabbiani, e l'onda lunga del mare profondo  
+E il profitto e la perdita.  
+                                               Una corrente sottomarina  
+Ne spolpò le ossa a bisbigli. Mentre [[motifs/rose|saliva]] e ricadeva  
+Ripassò le tappe della sua età e giovinezza  
+Entrando nel gorgo.  
+                                               Gentile o Giudeo  
+O tu che giri la [[motifs/wheel|ruota]] e guardi al vento,  
+
+
+Considera Phlebas, che un tempo fu bello e alto come te.
+
+
+
+<span class="atom-split" data-atom="section_05_v_what_the_thunder_said" data-title="The Waste Land — V. What the Thunder said" data-chapter="v what the thunder said" data-kind="section" data-tags="topos/paradise_lost,archetype/king,motif/bees,motif/bells,motif/birds,motif/blood,motif/city,motif/death,motif/decay,motif/fire,motif/home,motif/journey,motif/leaves,motif/lightning,motif/prison,motif/river,motif/road,motif/silence,motif/soul,motif/spring,motif/swallow,motif/water,motif/wind,concept/self,concept/solitude,form/dirge,form/fable,form/sonnet,form/tragedy,form/translation,histref/america,histref/grail_legend,histref/milton,setting/america,setting/london,setting/mountains,character/adonis,character/cleopatra,character/coriolanus,character/diana,character/ferdinand,character/milton,character/queen,character/tiresias,character/venus"></span>
+
 
 V. What the Thunder said  
     After the torchlight red on sweaty faces  
@@ -1906,7 +2260,7 @@ The shouting and the crying
 Of thunder of [[motifs/spring|spring]] over distant [[settings/mountains|mountains]]  
 He who was living is now dead  
 We who were living are now dying  
-330 With a little patience  
+With a little patience  
 
 
     Here is no [[motifs/water|water]] but only rock  
@@ -1918,7 +2272,7 @@ Amongst the rock one cannot stop or think
 Sweat is dry and feet are in the sand  
 If there were only [[motifs/water|water]] amongst the rock  
 Dead mountain mouth of carious teeth that cannot spit  
-340 Here one can neither stand nor lie nor sit  
+Here one can neither stand nor lie nor sit  
 
 
 There is not even [[motifs/silence|silence]] in the [[settings/mountains|mountains]]  
@@ -1930,7 +2284,7 @@ From doors of mudcracked houses
     And no rock  
     If there were rock  
     And also [[motifs/water|water]]  
-350    And [[motifs/water|water]]  
+    And [[motifs/water|water]]  
 
 
     A [[motifs/spring|spring]]  
@@ -1942,7 +2296,7 @@ From doors of mudcracked houses
     Where the hermit-thrush sings in the pine trees  
     Drip drop drip drop drop drop drop  
     But there is no [[motifs/water|water]]  
-360    Who is the third who walks always beside you?  
+   Who is the third who walks always beside you?  
 
 
 When I count, there are only you and I together  
@@ -1954,7 +2308,7 @@ I do not know whether a man or a woman
     What is that sound high in the air  
 Murmur of maternal lamentation  
 Who are those hooded hordes swarming  
-370 Over endless plains, stumbling in cracked earth  
+Over endless plains, stumbling in cracked earth  
 
 
 Ringed by the flat horizon only  
@@ -1966,7 +2320,7 @@ Vienna [[settings/london|London]]
 Unreal  
     A woman drew her long black hair out tight  
 And fiddled whisper music on those strings  
-380 And bats with baby faces in the violet light  
+And bats with baby faces in the violet light  
 
 
 Whistled, and beat their wings  
@@ -1978,7 +2332,7 @@ And voices singing out of empty cisterns and exhausted wells.
 In the faint moonlight, the grass is singing  
 Over the tumbled graves, about the chapel  
 There is the empty chapel, only the [[motifs/wind|wind]]’s [[motifs/home|home]].  
-390 It has no windows, and the door swings,  
+It has no windows, and the door swings,  
 
 
 Dry bones can harm no one.  
@@ -1990,7 +2344,7 @@ Bringing rain
 Waited for rain, while the black clouds  
 Gathered far distant, over Himavant.  
 The jungle crouched, humped in [[motifs/silence|silence]].  
-400 Then spoke the thunder  
+Then spoke the thunder  
 
 
 DA  
@@ -2004,7 +2358,7 @@ By this, and this only, we have existed
 Which is not to be found in our obituaries  
 Or in memories draped by the beneficent spider  
 Or under seals broken by the lean solicitor  
-410 In our empty rooms  
+In our empty rooms  
 
 
 DA  
@@ -2020,7 +2374,7 @@ DA
 Damyata: The boat responded  
 
 
-420 Gaily, to the hand expert with sail and oar  
+Gaily, to the hand expert with sail and oar  
 
 
 The sea was calm, your heart would have responded  
@@ -2034,7 +2388,7 @@ Poi s’ascose nel foco che gli affina
 Quando fiam uti chelidon — O [[motifs/swallow|swallow]] [[motifs/swallow|swallow]]  
 
 
-430 Le Prince d’Aquitaine à la tour abolie  
+Le Prince d’Aquitaine à la tour abolie  
 
 
 These fragments I have shored against my ruins  
@@ -2043,155 +2397,157 @@ Datta. Dayadhvam. Damyata.
                     Shantih shantih shantih  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V. Ciò che disse il tuono  
+    Dopo la luce rossa delle torce su volti sudati  
+Dopo il gelido [[motifs/silence|silenzio]] nei giardini  
+Dopo l'agonia in luoghi di pietra  
+Le grida e il pianto  
+[[motifs/prison|Prigione]] e palazzo e riverbero  
+Di tuono di [[motifs/spring|primavera]] su [[settings/mountains|montagne]] lontane  
+Colui che era vivo ora è morto  
+Noi che eravamo vivi ora stiamo morendo  
+Con un poco di pazienza  
 
 
-<span class="atom-split" data-atom="section_05_v_what_the_thunder_said" data-title="V. What the Thunder said" data-chapter="v what the thunder said" data-kind="section" data-tags="topos/paradise_lost,archetype/king,motif/bees,motif/bells,motif/birds,motif/blood,motif/city,motif/death,motif/decay,motif/fire,motif/home,motif/journey,motif/leaves,motif/lightning,motif/prison,motif/river,motif/road,motif/silence,motif/soul,motif/spring,motif/swallow,motif/water,motif/wind,concept/self,concept/solitude,form/dirge,form/fable,form/sonnet,form/tragedy,form/translation,histref/america,histref/grail_legend,histref/milton,setting/america,setting/london,setting/mountains,character/adonis,character/cleopatra,character/coriolanus,character/diana,character/ferdinand,character/milton,character/queen,character/tiresias,character/venus"></span>
+    Qui non c'è [[motifs/water|acqua]] ma soltanto roccia  
+Roccia e niente [[motifs/water|acqua]] e la [[motifs/road|strada]] sabbiosa  
+La [[motifs/road|strada]] che serpeggia lassù fra le [[settings/mountains|montagne]]  
+Che sono [[settings/mountains|montagne]] di roccia senza [[motifs/water|acqua]]  
+Se ci fosse [[motifs/water|acqua]] ci fermeremmo a bere  
+Fra la roccia non ci si può fermare né pensare  
+Il sudore è secco e i piedi sono nella sabbia  
+Se solo ci fosse [[motifs/water|acqua]] fra la roccia  
+Morta bocca di montagna di denti cariati che non sa sputare  
+Qui non ci si può reggere né coricare né sedere  
 
 
-V. What the Thunder said  
-    After the torchlight red on sweaty faces  
-After the frosty [[motifs/silence|silence]] in the gardens  
-After the agony in stony places  
-The shouting and the crying  
-[[motifs/prison|Prison]] and palace and reverberation  
-Of thunder of [[motifs/spring|spring]] over distant [[settings/mountains|mountains]]  
-He who was living is now dead  
-We who were living are now dying  
-330 With a little patience  
+Non c'è nemmeno [[motifs/silence|silenzio]] fra le [[settings/mountains|montagne]]  
+Ma tuono secco sterile senza pioggia  
+Non c'è nemmeno [[concepts/solitude|solitudine]] fra le [[settings/mountains|montagne]]  
+Ma rossi volti imbronciati sogghignano e ringhiano  
+Da porte di case di fango screpolato  
+                                                 Se ci fosse [[motifs/water|acqua]]  
+    E non roccia  
+    Se ci fosse roccia  
+    E anche [[motifs/water|acqua]]  
+    E [[motifs/water|acqua]]  
 
 
-    Here is no [[motifs/water|water]] but only rock  
-Rock and no [[motifs/water|water]] and the sandy [[motifs/road|road]]  
-The [[motifs/road|road]] winding above among the [[settings/mountains|mountains]]  
-Which are [[settings/mountains|mountains]] of rock without [[motifs/water|water]]  
-If there were [[motifs/water|water]] we should stop and drink  
-Amongst the rock one cannot stop or think  
-Sweat is dry and feet are in the sand  
-If there were only [[motifs/water|water]] amongst the rock  
-Dead mountain mouth of carious teeth that cannot spit  
-340 Here one can neither stand nor lie nor sit  
+    Una [[motifs/spring|sorgente]]  
+    Una pozza fra la roccia  
+    Se ci fosse soltanto il suono dell'[[motifs/water|acqua]]  
+    Non la cicala  
+    E l'erba secca che canta  
+    Ma suono d'[[motifs/water|acqua]] sopra una roccia  
+    Dove il tordo eremita canta fra i pini  
+    Plic ploc plic ploc ploc ploc ploc  
+    Ma non c'è [[motifs/water|acqua]]  
+   Chi è il terzo che cammina sempre al tuo fianco?  
 
 
-There is not even [[motifs/silence|silence]] in the [[settings/mountains|mountains]]  
-But dry sterile thunder without rain  
-There is not even [[concepts/solitude|solitude]] in the [[settings/mountains|mountains]]  
-But red sullen faces sneer and snarl  
-From doors of mudcracked houses  
-                                                 If there were [[motifs/water|water]]  
-    And no rock  
-    If there were rock  
-    And also [[motifs/water|water]]  
-350    And [[motifs/water|water]]  
+Quando conto, ci siamo solo io e te insieme  
+Ma quando guardo avanti su per la bianca [[motifs/road|strada]]  
+C'è sempre un altro che cammina al tuo fianco  
+Scivolando avvolto in un mantello bruno, incappucciato  
+Non so se sia un uomo o una donna  
+— Ma chi è quello dall'altro tuo lato?  
+    Che suono è quello alto nell'aria  
+Mormorio di materno lamento  
+Chi sono quelle orde incappucciate che brulicano  
+Su pianure infinite, inciampando nella terra screpolata  
 
 
-    A [[motifs/spring|spring]]  
-    A pool among the rock  
-    If there were the sound of [[motifs/water|water]] only  
-    Not the cicada  
-    And dry grass singing  
-    But sound of [[motifs/water|water]] over a rock  
-    Where the hermit-thrush sings in the pine trees  
-    Drip drop drip drop drop drop drop  
-    But there is no [[motifs/water|water]]  
-360    Who is the third who walks always beside you?  
+Cerchiate soltanto dal piatto orizzonte  
+Qual è la [[motifs/city|città]] oltre le [[settings/mountains|montagne]]  
+Si spacca e si riforma e scoppia nell'aria viola  
+Torri che cadono  
+Gerusalemme Atene Alessandria  
+Vienna [[settings/london|Londra]]  
+Irreali  
+    Una donna si tese lunghi i neri capelli  
+E su quelle corde suonò una musica di bisbigli  
+E pipistrelli con facce di bambino nella luce viola  
 
 
-When I count, there are only you and I together  
-But when I look ahead up the white [[motifs/road|road]]  
-There is always another one walking beside you  
-Gliding wrapt in a brown mantle, hooded  
-I do not know whether a man or a woman  
-— But who is that on the other side of you?  
-    What is that sound high in the air  
-Murmur of maternal lamentation  
-Who are those hooded hordes swarming  
-370 Over endless plains, stumbling in cracked earth  
+Fischiavano, e battevano le ali  
+E strisciavano a testa in giù giù per un muro annerito  
+E capovolte nell'aria stavano torri  
+Che rintoccavano [[motifs/bells|campane]] memori, e scandivano le ore  
+E voci che cantavano da cisterne vuote e pozzi esausti.  
+    In questo buco decaduto fra le [[settings/mountains|montagne]]  
+Nel fioco chiaro di luna, l'erba canta  
+Sulle tombe rovesciate, intorno alla cappella  
+C'è la cappella vuota, solo del [[motifs/wind|vento]] la [[motifs/home|casa]].  
+Non ha finestre, e la porta sbatte,  
 
 
-Ringed by the flat horizon only  
-What is the [[motifs/city|city]] over the [[settings/mountains|mountains]]  
-Cracks and reforms and bursts in the violet air  
-Falling towers  
-Jerusalem Athens Alexandria  
-Vienna [[settings/london|London]]  
-Unreal  
-    A woman drew her long black hair out tight  
-And fiddled whisper music on those strings  
-380 And bats with baby faces in the violet light  
-
-
-Whistled, and beat their wings  
-And crawled head downward down a blackened wall  
-And upside down in air were towers  
-Tolling reminiscent [[motifs/bells|bells]], that kept the hours  
-And voices singing out of empty cisterns and exhausted wells.  
-    In this decayed hole among the [[settings/mountains|mountains]]  
-In the faint moonlight, the grass is singing  
-Over the tumbled graves, about the chapel  
-There is the empty chapel, only the [[motifs/wind|wind]]’s [[motifs/home|home]].  
-390 It has no windows, and the door swings,  
-
-
-Dry bones can harm no one.  
-Only a cock stood on the rooftree  
+Ossa secche non possono nuocere a nessuno.  
+Solo un gallo stava sul colmo del tetto  
 Co co rico co co rico  
-In a flash of [[motifs/lightning|lightning]]. Then a damp gust  
-Bringing rain  
-    Ganga was sunken, and the limp [[motifs/leaves|leaves]]  
-Waited for rain, while the black clouds  
-Gathered far distant, over Himavant.  
-The jungle crouched, humped in [[motifs/silence|silence]].  
-400 Then spoke the thunder  
+In un lampo di [[motifs/lightning|folgore]]. Poi una raffica umida  
+Che portava pioggia  
+    Ganga era in secca, e le molli [[motifs/leaves|foglie]]  
+Attendevano la pioggia, mentre le nere nubi  
+Si raccoglievano lontane, sopra l'Himavant.  
+La giungla stava acquattata, ingobbita nel [[motifs/silence|silenzio]].  
+Poi parlò il tuono  
 
 
 DA  
-Datta: what have we given?  
+Datta: che cosa abbiamo dato?  
 
 
-My friend, [[motifs/blood|blood]] shaking my heart  
-The awful daring of a moment’s surrender  
-Which an age of prudence can never retract  
-By this, and this only, we have existed  
-Which is not to be found in our obituaries  
-Or in memories draped by the beneficent spider  
-Or under seals broken by the lean solicitor  
-410 In our empty rooms  
+Amico mio, [[motifs/blood|sangue]] che scuote il mio cuore  
+L'orribile audacia d'una resa d'un momento  
+Che un'età di prudenza non potrà mai ritrattare  
+Per questo, e solo per questo, siamo esistiti  
+Che non si troverà nei nostri necrologi  
+Né in memorie drappeggiate dal ragno benefico  
+Né sotto sigilli spezzati dal magro notaio  
+Nelle nostre stanze vuote  
 
 
 DA  
-Dayadhvam: I have heard the key  
+Dayadhvam: ho udito la chiave  
 
 
-Turn in the door once and turn once only  
-We think of the key, each in his [[motifs/prison|prison]]  
-Thinking of the key, each confirms a [[motifs/prison|prison]]  
-Only at nightfall, aethereal rumours  
-Revive for a moment a broken [[characters/coriolanus|Coriolanus]]  
+Girare nella porta una volta e una volta soltanto  
+Pensiamo alla chiave, ciascuno nella sua [[motifs/prison|prigione]]  
+Pensando alla chiave, ciascuno conferma una [[motifs/prison|prigione]]  
+Solo al calar della notte, eteree dicerie  
+Ravvivano per un momento un [[characters/coriolanus|Coriolano]] infranto  
 DA  
-Damyata: The boat responded  
+Damyata: la barca rispose  
 
 
-420 Gaily, to the hand expert with sail and oar  
+Lietamente, alla mano esperta di vela e di remo  
 
 
-The sea was calm, your heart would have responded  
-Gaily, when invited, beating obedient  
-To controlling hands  
-                                               I sat upon the shore  
-Fishing, with the arid plain behind me  
-Shall I at least set my lands in order?  
-[[settings/london|London]] Bridge is falling down falling down falling down  
+Il mare era calmo, il tuo cuore avrebbe risposto  
+Lietamente, se invitato, battendo obbediente  
+A mani che governano  
+                                               Sedevo sulla riva  
+A pescare, con l'arida pianura alle spalle  
+Metterò almeno in ordine le mie terre?  
+Il ponte di [[settings/london|Londra]] sta cadendo giù cadendo giù cadendo giù  
 Poi s’ascose nel foco che gli affina  
-Quando fiam uti chelidon — O [[motifs/swallow|swallow]] [[motifs/swallow|swallow]]  
+Quando fiam uti chelidon — O [[motifs/swallow|rondine]] [[motifs/swallow|rondine]]  
 
 
-430 Le Prince d’Aquitaine à la tour abolie  
+Le Prince d’Aquitaine à la tour abolie  
 
 
-These fragments I have shored against my ruins  
-Why then Ile fit you. Hieronymo’s mad againe.  
+Questi frammenti ho puntellato contro le mie rovine  
+Ebbene, allora vi accontenterò. Ieronimo è pazzo di nuovo.  
 Datta. Dayadhvam. Damyata.  
-                    Shantih shantih shantih  
+                    Shantih shantih shantih
+
+
+
+<span class="atom-split" data-atom="section_06_notes_on_the_waste_land" data-title="The Waste Land — Notes on the Waste Land" data-chapter="notes on the waste land" data-kind="section" data-tags="topos/paradise_lost,archetype/king,motif/bees,motif/bells,motif/birds,motif/blood,motif/city,motif/death,motif/decay,motif/fire,motif/home,motif/journey,motif/leaves,motif/lightning,motif/prison,motif/river,motif/road,motif/silence,motif/soul,motif/spring,motif/swallow,motif/water,motif/wind,concept/self,concept/solitude,form/dirge,form/fable,form/sonnet,form/tragedy,form/translation,histref/america,histref/grail_legend,histref/milton,setting/america,setting/london,setting/mountains,character/adonis,character/cleopatra,character/coriolanus,character/diana,character/ferdinand,character/milton,character/queen,character/tiresias,character/venus"></span>
+
 
 Notes on the Waste Land  
 Not only the title, but the plan and a good deal of the incidental symbolism of the poem were suggested by Miss Jessie L. Weston’s book on the [[historical-references/grail-legend|Grail legend]]: From Ritual to [[works/romance-(poe)|Romance]] (Cambridge). Indeed, so deeply am I indebted. Miss Weston’s book will elucidate the difficulties of the poem much better than my notes can do; and I recommend it (apart from the great interest of the book itself) to any who think such elucidation of the poem worth the trouble. To another work of anthropology I am indebted in general, one which has influenced our generation profoundly; I mean The Golden Bough; I have used especially the two volumes [[characters/adonis|Adonis]], Attis, Osiris. Anyone who is acquainted with these works will immediately recognise in the poem certain references to vegetation ceremonies.  
@@ -2217,7 +2573,7 @@ Line 20. Cf. Ezekiel II, i.
                          non avea pianto ma’ che di sospiri  
                          che l’aura eterna facevan tremare.  
 68. A phenomenon which I have often noticed.
-74. Cf. the [[forms/dirge|Dirge]] in Wesbster’s White Devil.
+74. Cf. the [[forms/dirge|Dirge]] in Webster’s White Devil.
 76. V. Baudelaire, Preface to Fleurs du Mal.
 
 
@@ -2356,3 +2712,170 @@ Also F. H. Bradley, Appearance and Reality, p. 306. ‘My external sensations ar
 429. V. Gerard de Nerval, [[forms/sonnet|Sonnet]] El Desdichado.
 431. V. Kyd’s Spanish [[forms/tragedy|Tragedy]].
 433. Shantih. Repeated as here, a formal ending to an Upanishad. ‘The Peace which passeth understanding’ is our equivalent to this word.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Note alla terra desolata  
+Non solo il titolo, ma anche l'impianto e buona parte del simbolismo incidentale del poema mi furono suggeriti dal libro di Miss Jessie L. Weston sulla [[historical-references/grail-legend|leggenda del Graal]]: From Ritual to [[works/romance-(poe)|Romance]] (Cambridge). Davvero, tanto profondo è il mio debito. Il libro di Miss Weston chiarirà le difficoltà del poema assai meglio di quanto possano fare le mie note; e lo raccomando (a prescindere dal grande interesse del libro in sé) a chiunque ritenga che tale chiarimento del poema valga la pena. A un'altra opera di antropologia sono debitore in generale, opera che ha influenzato profondamente la nostra generazione; intendo The Golden Bough; mi sono servito soprattutto dei due volumi [[characters/adonis|Adonis]], Attis, Osiris. Chiunque conosca queste opere riconoscerà subito nel poema certi riferimenti a cerimonie della vegetazione.  
+
+
+I. LA SEPOLTURA DEI MORTI  
+Verso 20. Cfr. Ezechiele II, i.  
+23. Cfr. Ecclesiaste XII, v.  
+31. V. Tristan und Isolde, I, versi 5–8.  
+42. Id. III, verso 24.  
+46. Non conosco l'esatta composizione del mazzo dei Tarocchi, dalla quale mi sono evidentemente allontanato per mia comodità. L'Impiccato, membro del mazzo tradizionale, fa al caso mio in due modi: perché nella mia mente è associato al Dio Impiccato di Frazer, e perché lo associo alla figura incappucciata nel passo dei discepoli di Emmaus nella Parte V. Il Marinaio Fenicio e il Mercante compaiono più avanti; e così le ‘folle di gente’, e la [[motifs/death|Morte]] per [[motifs/water|acqua]] si compie nella Parte IV. L'Uomo con Tre Bastoni (autentico membro del mazzo dei Tarocchi) lo associo, del tutto arbitrariamente, allo stesso [[archetypes/king|Re]] Pescatore.
+
+
+60. Cfr. Baudelaire:  
+‘Fourmillante cité, cité pleine de rêves,  
+‘Où le spectre en plein jour raccroche le passant.’  
+63. Cfr. Inferno III, 55–57:  
+                                                            si lunga tratta  
+                         di gente, ch’io non avrei mai creduto  
+                         che morte tanta n’avesse disfatta.  
+64. Cfr. Inferno IV, 25–27:  
+                         Quivi, secondo che per ascoltare,  
+                         non avea pianto ma’ che di sospiri  
+                         che l’aura eterna facevan tremare.  
+68. Fenomeno che ho spesso notato.  
+74. Cfr. il [[forms/dirge|Canto funebre]] nel White Devil di Webster.  
+76. V. Baudelaire, Prefazione a Fleurs du Mal.
+
+
+II. UNA PARTITA A SCACCHI  
+77. Cfr. Antonio e [[characters/cleopatra|Cleopatra]], II, ii, v. 190.
+
+
+92. Laquearia. V. Eneide, I, 726:
+
+
+      dependent lychni laquearibus aureis  
+      incensi, et noctem flammis funalia vincunt.  
+98. Scena silvana. V. [[historical-references/milton|Milton]], [[topoi/paradise-lost|Paradiso perduto]], IV, 140.
+
+
+99. V. Ovidio, Metamorfosi, VI, Filomela.
+
+
+100. Cfr. Parte III, v. 204.  
+115. Cfr. Parte III, v. 195.  
+118. Cfr. Webster: ‘Il [[motifs/wind|vento]] è ancora in quella porta?’  
+126. Cfr. Parte I, vv. 37, 48.  
+138. Cfr. la partita a scacchi in Women beware Women di Middleton.  
+III. IL SERMONE DEL [[motifs/fire|FUOCO]]  
+176. V. Spenser, Prothalamion.  
+192. Cfr. La tempesta, I, ii.
+
+
+196. Cfr. Marvell, To His Coy Mistress.  
+197. Cfr. Day, Parliament of [[motifs/bees|Bees]]:  
+               ‘Quando d'un tratto, in ascolto, udrai,  
+               ‘Un rumore di corni e di caccia, che porterà  
+               ‘Atteone da [[characters/diana|Diana]] in [[motifs/spring|primavera]],  
+               ‘Dove tutti vedranno la sua pelle nuda …’  
+199. Non conosco l'origine della ballata da cui questi versi sono tratti: mi fu riferita da Sydney, in Australia.
+
+
+202. V. Verlaine, Parsifal.  
+210. L'uva passa era quotata a un prezzo ‘costo assicurazione e nolo fino a [[settings/london|Londra]]’; e la polizza di carico, ecc., dovevano essere consegnate all'acquirente contro pagamento della tratta a vista.  
+218. [[characters/tiresias|Tiresia]], benché mero spettatore e non propriamente un ‘personaggio’, è tuttavia la figura più importante del poema, poiché unisce tutte le altre. Come il mercante con un occhio solo, venditore d'uva passa, si dissolve nel Marinaio Fenicio, e questi non è del tutto distinto da [[characters/ferdinand|Ferdinando]] Principe di Napoli, così tutte le donne sono una donna sola, e i due sessi s'incontrano in [[characters/tiresias|Tiresia]]. Ciò che [[characters/tiresias|Tiresia]] vede è, in effetti, la sostanza del poema. L'intero passo di Ovidio è di grande interesse antropologico:
+
+
+… Cum Iunone iocos et ‘maior vestra profecto est  
+Quam quae contingit maribus’, dixisse, ‘voluptas.’  
+Illa negat; placuit quae sit sententia docti  
+Quaerere Tiresiae; [[characters/venus|Venus]] huic erat utraque nota.  
+Nam duo magnorum viridi coeuntia silva  
+Corpora serpentum baculi violaverat ictu  
+Deque viro factus, mirabile, femina septem  
+Egerat autumnos; octavo rursus eosdem  
+Vidit et ‘est vestrae si tanta potentia plagae’,  
+Dixit ‘ut auctoris sortem in contraria mutet,  
+Nunc quoque vos feriam!’ percussis anguibus isdem  
+Forma prior rediit genetivaque venit imago.  
+Arbiter hic igitur sumptus de lite iocosa  
+Dicta Iovis firmat; gravius Saturnia iusto  
+Nec pro materia fertur doluisse suique  
+Iudicis aeterna damnavit lumina nocte,  
+At pater omnipotens (neque enim licet inrita cuiquam  
+Facta dei fecisse deo) pro lumine adempto  
+Scire futura dedit poenamque levavit honore.  
+221. Questo può non apparire esatto quanto i versi di Saffo, ma avevo in mente il pescatore ‘longshore’ o ‘dory’, che rientra al calar della notte.
+
+
+253. V. Goldsmith, la canzone in The Vicar of Wakefield.  
+257. V. La tempesta, come sopra.
+
+
+264. L'interno di St. Magnus Martyr è a mio giudizio uno dei più belli fra gli interni di Wren. Si veda The Proposed Demolition of Nineteen [[motifs/city|City]] Churches: (P. S. [[archetypes/king|King]] & Son, Ltd.).
+
+
+266. Il Canto delle (tre) figlie del Tamigi comincia qui. Dal verso 292 al 306 incluso esse parlano a turno. V. Götterdämmerung, III, i: le figlie del Reno.
+
+
+279. V. Froude, Elizabeth, Vol. I, cap. iv, lettera di De Quadra a Filippo di Spagna:
+
+
+‘Nel pomeriggio eravamo su una chiatta, a guardare i giochi sul [[motifs/river|fiume]]. (La [[characters/queen|Regina]]) era sola con Lord Robert e con me a poppa, quando cominciarono a dire sciocchezze, e andarono tanto oltre che Lord Robert alla fine disse che, trovandomi io presente, non c'era ragione perché non si sposassero se alla [[characters/queen|regina]] fosse piaciuto.’  
+
+
+293. Cfr. Purgatorio, V. 133:
+
+
+                        ‘Ricorditi di me, che son la Pia;  
+                        ‘Siena mi fé, disfecemi Maremma.’  
+307. V. le Confessioni di sant'Agostino: ‘a Cartagine allora venni, dove un calderone di amori empi cantava tutt'intorno alle mie orecchie.’
+
+
+308. Il testo completo del Sermone del [[motifs/fire|Fuoco]] del Buddha (che per importanza corrisponde al Discorso della Montagna), da cui queste parole sono tratte, si troverà tradotto in Buddhism in [[forms/translation|Translation]] del compianto Henry Clarke Warren (Harvard Oriental Series). Il signor Warren fu uno dei grandi pionieri degli studi buddhisti in Occidente.
+
+
+309. Ancora dalle Confessioni di sant'Agostino. L'accostamento di questi due rappresentanti dell'ascetismo orientale e occidentale, come culmine di questa parte del poema, non è casuale.
+
+
+V. CIÒ CHE DISSE IL TUONO  
+Nella prima parte della Parte V sono impiegati tre temi: il [[motifs/journey|viaggio]] a Emmaus, l'accostarsi alla Cappella Perigliosa (si veda il libro di Miss Weston) e l'attuale [[motifs/decay|decadenza]] dell'Europa orientale.  
+
+
+357. È il Turdus aonalaschkae pallasii, il tordo eremita che ho udito nella Provincia del Quebec. Chapman dice (Handbook of [[motifs/birds|Birds]] of Eastern North [[settings/america|America]]) che ‘è più a [[motifs/home|casa]] sua in boschi appartati e in rifugi di macchia…. Le sue note non sono notevoli per varietà o volume, ma per purezza e dolcezza di tono e per squisita modulazione non hanno pari.’ Il suo ‘[[motifs/water|acqua]]-stillante canto’ è giustamente celebre.
+
+
+360. I versi seguenti furono suggeriti dal racconto di una delle spedizioni antartiche (non ricordo quale, ma credo una di Shackleton): si narrava che il gruppo degli esploratori, allo stremo delle forze, avesse la costante illusione che vi fosse un membro in più di quanti se ne potessero effettivamente contare.
+
+
+366–76. Cfr. Hermann Hesse, Blick ins Chaos: ‘Schon ist halb Europa, schon ist zumindest der halbe Osten Europas auf dem Wege zum Chaos, fährt betrunken im heiligen Wahn am Abgrund entlang und singt dazu, singt betrunken und hymnisch wie Dmitri Karamasoff sang. Ueber diese Lieder lacht der Bürger beleidigt, der Heilige und Seher hört sie mit Tränen.’  
+401. ‘Datta, dayadhvam, damyata’ (Dai, compatisci, domina). La [[forms/fable|favola]] del significato del Tuono si trova nella Brihadaranyaka — Upanishad, 5, 1. Una [[forms/translation|traduzione]] si trova in Sechzig Upanishads des Veda di Deussen, p. 489.
+
+
+407. Cfr. Webster, The White Devil, V, vi:
+
+
+‘… si risposeranno  
+Prima che il verme trafigga il tuo sudario, prima che il ragno  
+Tenda un sottile velo sui tuoi epitaffi.’  
+411. Cfr. Inferno, XXXIII, 46:
+
+
+                        ‘ed io senti chiavar l’uscio di sotto  
+                        all’ orribile torre.’  
+Inoltre F. H. Bradley, Appearance and Reality, p. 306. ‘Le mie sensazioni esterne non sono meno private al mio [[concepts/self|io]] di quanto lo siano i miei pensieri o i miei sentimenti. In entrambi i casi la mia esperienza cade entro il mio proprio cerchio, un cerchio chiuso all'esterno; e, con tutti i suoi elementi ugualmente, ogni sfera è opaca alle altre che la circondano…. In breve, considerato come un'esistenza che appare in un'[[motifs/soul|anima]], il mondo intero è per ciascuno peculiare e privato a quell'[[motifs/soul|anima]].’  
+
+
+424. V. Weston: From Ritual to [[works/romance-(poe)|Romance]]; capitolo sul [[archetypes/king|Re]] Pescatore.
+
+
+427. V. Purgatorio, XXVI, 148.
+
+
+                          ‘“Ara vos prec per aquella valor  
+                           “que vos guida al som de l’escalina,  
+                           “sovenha vos a temps de ma dolor.”  
+                            Poi s’ascose nel foco che li affina.’  
+428. V. Pervigilium Veneris. Cfr. Filomela nelle Parti II e III.
+
+
+429. V. Gérard de Nerval, [[forms/sonnet|Sonetto]] El Desdichado.  
+431. V. la Spanish [[forms/tragedy|Tragedy]] di Kyd.  
+433. Shantih. Ripetuto come qui, è la chiusa formale di una Upanishad. ‘La Pace che sopravanza ogni intelletto’ è il nostro equivalente di questa parola.

@@ -53,3 +53,8 @@ data/translations_pages.jsonl
 data/*_cache.jsonl
 data/*.bak-*
 data/dickens_hy_linkfix.jsonl
+
+# Detriti di esecuzione dei traduttori: log e corpi rifiutati sono per-macchina e non
+# riproducibili. (run_logs/atom_mail_state.json resta tracciato: e' stato, non detrito.)
+scripts/translate/run_logs/*.log
+scripts/translate/run_logs/rejected_bodies/

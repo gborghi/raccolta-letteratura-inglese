@@ -414,6 +414,147 @@ together, they effected their escape to their own country; for neither was
 seen again.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non avevo mai conosciuto nessuno così appassionatamente incline ai scherzi come il [[archetypes/king|re]]. Sembrava che vivesse esclusivamente per scherzare. Raccontare una buona storia divertente, e farlo bene, era il modo più sicuro per guadagnarsi la sua simpatia. Per questo i suoi sette ministri erano tutti noti per le loro capacità nel fare battute. Assomigliavano anche al [[archetypes/king|re]]: uomini robusti, corpulenti e dallo spirito scherzoso, davvero inimitabili nel loro genere. Non so se diventare grassi facendo scherzi sia una conseguenza naturale di questo hobby, o se ci sia qualcosa nella stessa grassezza che favorisca l’attitudine al umorismo. Ma è certo che un umorista magro è davvero una rarità nel mondo.
+
+Per quanto riguardava quei dettagli raffinati, o come li chiamava lui, quelle “[[archetypes/ghost|ombre]]” dell’ingegno, al [[archetypes/king|re]] non importava affatto. Ammirava molto la ricchezza di contenuti nelle battute e spesso era disposto a sopportarne anche la lunghezza, pur di ottenere quell’effetto. Le sottigliezze eccessive lo stancavano; avrebbe preferito “Gargantua” di Rabelais a “Zadig” di Voltaire. In generale, le battute pratiche si adattavano molto meglio al suo gusto rispetto a quelle verbali.
+
+All’epoca della mia narrazione, i buffoni di corte non erano ancora del tutto passati di moda. Diverse delle grandi “potenze” continentali mantenevano ancora i loro “buffoni”, che indossavano abiti variopinti, cappelli e campane, e dovevano essere sempre pronti a fornire battute acute, all’istante, in cambio dei briciole che cadevano dal tavolo reale.
+
+_Nostro_ [[archetypes/king|re]], naturalmente, mantenne la sua “[[archetypes/fool|stupidità”]]. Il fatto è che aveva _bisogno_ di qualcosa di simile alla follia: almeno per bilanciare la grande saggezza dei sette saggi che erano i suoi ministri, per non parlare di lui stesso.
+
+Il suo [[archetypes/fool|buffone]], o giullare professionista, non era però soltanto un buffone. Il suo valore aumentava di tre volte agli occhi del [[archetypes/king|re]], soprattutto perché era anche un [[characters/dwarf|nano]] e un gobbo. A quei tempi, i nani erano altrettanto comuni alla [[settings/court|corte]] quanto i buffoni; molti monarchi avrebbero trovato difficile trascorrere le loro giornate (le giornate alla [[settings/court|corte]] sono infatti piuttosto lunghe rispetto ad altri luoghi) senza un giullare con cui ridere e un nano su cui scherzare. Ma, come ho già detto, i vostri buffoni, nella stragrande maggioranza dei casi, sono grassi, rotondi e goffi. Quindi per il nostro [[archetypes/king|re]] fu davvero una grande soddisfazione scoprire che in [[works/hop-frog-(poe)|Hop-Frog]] (questo era il nome del buffone) si combinavano tre qualità preziose in una sola persona.
+
+Credo che il nome “[[works/hop-frog-(poe)|Hop-Frog]]” non sia stato dato al [[characters/dwarf|nano]] dai suoi genitori durante il battesimo, ma gli è stato conferito, con l’unanimità dei sette ministri presenti, a causa della sua incapacità di camminare come fanno gli altri uomini. Infatti, [[works/hop-frog-(poe)|Hop-Frog]] poteva muoversi solo con un passo che sembrava un balzo mescolato a una contorsione; questo movimento procurava inesauribile divertimento – e naturalmente anche consolazione – al [[archetypes/king|re]], poiché (nonostante la protuberanza dello stomaco e un’innata gonfiorezza della testa) il [[archetypes/king|re]] era considerato, insieme a tutto il suo [[settings/court|corte]], una figura di prim’ordine.
+
+Ma sebbene [[works/hop-frog-(poe)|Hop-Frog]], a causa della deformità delle sue gambe, potesse muoversi solo con grande  dolore e difficoltà lungo una strada o un pavimento, la straordinaria forza muscolare che  la natura sembrava aver donato alle sue braccia, come compensazione per la mancanza delle gambe inferiori, gli permetteva di compiere molte azioni caratterizzate da una notevole agilità, soprattutto quando si trattava di arrampicarsi sugli alberi o sulle corde, o su qualsiasi altro oggetto fosse. In tali occasioni, assomigliava molto di più a un scoiattolo o a un piccolo scimmione che a una rana.
+
+Non sono in grado di dire con precisione da quale paese provenisse originariamente [[works/hop-frog-(poe)|Hop-Frog]]. Tuttavia, proveniva da qualche regione barbara, di cui nessuno aveva mai sentito parlare. Lontana molte miglia dalla [[settings/court|corte]] del nostro [[archetypes/king|re]]. [[works/hop-frog-(poe)|Hop-Frog]] e una giovane ragazza altrettanto nanica di lui (sebbene di proporzioni squisite e danzatrice meravigliosa) furono rapiti con la forza dalle loro rispettive case, in province confinanti, e inviati come doni al [[archetypes/king|re]] da uno dei suoi generali sempre vittoriosi.
+
+In queste circostanze, non sorprende affatto che si sviluppasse una stretta intimità tra i due piccoli prigionieri. Infatti, ben presto divennero amici inseparabili. [[works/hop-frog-(poe)|Hop-Frog]], sebbene si divertisse molto a scherzare, non era affatto popolare; tuttavia, grazie alla sua capacità di rendere molti servizi a Trippetta, quest’ultima godeva dell’ammirazione e delle attenzioni di tutti. Essendo una [[characters/dwarf|nanetta]] ma dotata di grande grazia e straordinaria [[concepts/beauty|bellezza]], aveva notevole influenza; e non esitava mai a utilizzarla, ogni volta che ne aveva l’opportunità, a beneficio di [[works/hop-frog-(poe)|Hop-Frog]].
+
+In occasione di qualche importante cerimonia di stato – ho dimenticato quale esattamente – il [[archetypes/king|re]] decise di organizzare una mascherata. Ogni volta che si teneva una mascherata o qualcosa del genere alla nostra [[settings/court|corte]], i talenti sia di [[works/hop-frog-(poe)|Hop-Frog]] che di Trippetta venivano sicuramente messi in mostra. In particolare, [[works/hop-frog-(poe)|Hop-Frog]] era così creativo nell’organizzare spettacoli, nel proporre personaggi originali e nell’ideare costumi per le feste in maschera, che sembrava impossibile fare nulla senza il suo aiuto.
+
+La[[motifs/night|notte]] fissata per la festa era finalmente arrivata. Un magnifico salone era stato allestito, sotto la supervisione di Trippetta, con ogni tipo di ornamento possibile per rendere ancora più splendida la mascherata. L’intera[[settings/court|corte]] era in preda all’eccitazione. Per quanto riguardava i costumi e i personaggi da interpretare, si poteva senz’altro supporre che tutti avessero già deciso cosa fare; molti avevano scelto il proprio ruolo con una settimana, o addirittura un mese, di anticipo. In realtà, non c’era alcuna incertezza da nessuna parte, tranne nel caso del[[archetypes/king|re]] e dei suoi sette ministri. Non riuscii mai a capire il motivo della loro esitazione, a meno che non lo facessero per scherzo. Più probabilmente, trovavano difficile decidere a causa del loro eccessivo peso. Comunque sia, il[[motifs/time|tempo]] volava; alla fine decisero di chiamare Trippetta e [[works/hop-frog-(poe)|Hop-Frog]].
+
+Quando i due piccoli amici obbedirono all’invito del [[archetypes/king|re]], lo trovarono seduto davanti al suo vino insieme ai sette membri del suo consiglio di gabinetto; ma il monarca sembrava essere di molto cattivo umore. Sapeva che a [[works/hop-frog-(poe)|Hop-Frog]] non piaceva il vino, perché lo eccitava al punto da farlo quasi impazzire. E l’[[concepts/madness|impazzimento]] non è certo una sensazione confortevole. Tuttavia, al [[archetypes/king|re]] piacevano molto questi scherzi pratici, e gli dava piacere costringere [[works/hop-frog-(poe)|Hop-Frog]] a bere, e (come lo chiamava il re) “a divertirsi”.
+
+“Vieni qui, [[works/hop-frog-(poe)|Hop-Frog]],” disse lui quando lo scemo di corte e il suo amico entrarono nella stanza; “[[motifs/swallow|ingoia]] questa medicina in onore dei tuoi amici assenti. [qui [[works/hop-frog-(poe)|Hop-Frog]] sospirò], e poi mostraci la tua invenzione. Vogliamo personaggi, personaggi davvero originali, qualcosa di [[forms/novel|nuovo]]. Ne abbiamo abbastanza di questa monotonia incessante. Vieni, bevi! Il vino ti schiarirà le idee.”
+
+
+[[works/hop-frog-(poe)|Hop-Frog]] cercò, come al solito, di scherzare in risposta a queste proposte del [[archetypes/king|re]]; ma ci provò troppo. Quella notte era il compleanno del povero [[characters/dwarf|nano]], e l’ordine di bere in onore dei suoi “amici assenti” gli fece venire le lacrime agli occhi. Molti grossi, amari goccioli caddero nel calice mentre lo prendeva umilmente dalla mano del [[archetypes/tyrant|tiranno]].
+
+“Ah! ha! ha! ha!” esclamò quest’ultimo, mentre il [[characters/dwarf|nano]] versava riluttante il contenuto del bicchiere. “Vedete cosa può fare un buon bicchiere di vino! Guardate, i vostri occhi già brillano!”
+
+
+Povero ragazzo! I suoi grandi occhi brillavano, piuttosto che splendere; l’effetto del vino sul suo cervello eccitabile non era certo più immediato di così. Posò con nervosismo il calice sul tavolo e guardò intorno alla compagnia con uno sguardo semi-pazzo. Tutti sembravano molto divertiti dal “successo” della “barzelletta” del [[archetypes/king|re]].
+
+“E ora passiamo alle cose serie,” disse il primo ministro, un uomo molto grasso.
+
+“Sì,” disse il [[archetypes/king|Re]]; “Vieni, [[works/hop-frog-(poe)|Hop-Frog]], aiutaci tu. Personaggi, miei cari amici, abbiamo bisogno di personaggi, tutti noi, ahahah!” E poiché lo diceva seriamente per scherzo, le sue risate furono riprese dai sette presenti.
+
+Anche [[works/hop-frog-(poe)|Hop-Frog]] rise, sebbene debolmente e in modo un po' vuoto.
+
+“Come, come,” disse il [[archetypes/king|re]] con impazienza, “non hai nulla da suggerire?”
+
+
+“Sto cercando di pensare a qualcosa di [[forms/novel|nuovo]],” rispose il [[characters/dwarf|nano]], in modo distratto, perché era completamente confuso dal vino.
+
+“Ci provi!”, gridò il [[archetypes/tyrant|tiranno]] con furia; “che cosa intendi dire con questo? Ah, ora capisco. Sei di cattivo umore e vuoi ancora vino. Ecco, bevi!” E versò un altro bicchiere pieno, offrendolo al gobbo, che però lo fissò solo, senza riuscire a parlare.
+
+“Bevi, dico io!”, gridò il [[archetypes/monster|mostro]], “altrimenti, per gli inferni, ”
+
+
+Il [[characters/dwarf|nano]] esitò. Il [[archetypes/king|re]] divenne viola di rabbia. I cortigiani sorrisero compiaciuti. Trippetta, pallida come un cadavere, si avvicinò al trono del monarca e, inginocchiandosi davanti a lui, lo supplicò di risparmiare la sua amica.
+
+Il [[archetypes/tyrant|tiranno]] la fissò per alcuni momenti, con evidente [[concepts/wonder|stupore]] di fronte alla sua audacia. Sembrava completamente imbarazzato nel decidere cosa fare o dire, come esprimere al meglio la propria indignazione. Alla fine, senza pronunciare una parola, la scostò violentemente da sé e versò il contenuto del bicchiere pieno fino all’orlo sul suo viso.
+
+La povera ragazza si alzò nel modo migliore che poté e, senza osare nemmeno sospirare, riprese la sua posizione ai piedi del tavolo.
+
+Regnò un silenzio mortale per circa mezzo minuto; durante quel lasso di tempo si sarebbe potuto sentire il cadere di una foglia o di una piuma. Il silenzio fu interrotto da un suono basso, ma stridulo e prolungato, che sembrava provenire contemporaneamente da ogni angolo della stanza.
+
+“Che, che, perché stai facendo tutto quel rumore?” chiese il [[archetypes/king|re]], voltandosi con rabbia verso il [nano].
+
+Quest'ultimo sembrava essersi ripreso, in gran parte, dall'intossicazione; fissando con calma il volto del [[archetypes/tyrant|tiranno]], esclamò semplicemente:
+
+“Io… io? Come è possibile che sia stato proprio io?”
+
+
+“Quel suono sembrava provenire dall’esterno,” osservò uno dei cortigiani.  
+“Credo fosse il pappagallo alla [[motifs/window|finestra]], che si puliva il becco contro le sbarre della gabbia.”
+
+
+“Vero,” rispose il monarca, come se fosse molto sollevato da quell’osservazione; “ma, per l’onore di un cavaliere, avrei potuto giurare che si trattasse del rumore prodotto dai denti di quel vagabondo.”
+
+
+A questo punto il [[characters/dwarf|nano]] rise (il [[archetypes/king|re]], essendo un vero e proprio buffone, non si sarebbe mai opposto a una risata), e mostrò una serie di denti grandi, robusti e davvero repellenti. Inoltre, dichiarò di essere assolutamente disposto a [[motifs/swallow|ingoiare]] quanta vino desiderassero. Il monarca si tranquillizzò; dopo aver bevuto un altro bicchiere senza alcun effetto negativo evidente, [[works/hop-frog-(poe)|Hop-Frog]] iniziò immediatamente e con entusiasmo a discutere dei piani per la mascherata.
+
+“Non riesco a capire quale fosse il nesso tra quelle idee,” osservò lui con grande tranquillità, come se non avesse mai assaggiato vino in vita sua, “ma appena vostra maestà colpì la ragazza e le gettò il vino in faccia, proprio dopo che vostra maestà aveva fatto questo, e mentre il pappagallo faceva quel suono strano fuori dalla [[motifs/window|finestra]], mi venne in mente un gioco divertente, uno di quei scherzi tipici del mio paese, spesso praticati durante le nostre feste in maschera. Ma qui, probabilmente, sarebbe completamente nuovo. Purtroppo, però, serve un gruppo di otto persone, ”
+
+
+“Eccoci qui!” esclamò il [[archetypes/king|re]],] ridendo della sua acuta scoperta di quella coincidenza; “otto, per l'esattezza: io e i miei sette ministri. Venite! Di cosa si tratta?”
+
+“Lo chiamiamo,” rispose il paralizzato, “Gli Otto Orang-Utan Incatenati, e davvero è uno sport eccellente se eseguito [[motifs/well|benissimo]].”
+
+
+“Lo attueremo,” disse il [[archetypes/king|re]], alzandosi in piedi e abbassando le palpebre.
+
+“La [[concepts/beauty|bellezza]] di questo gioco,” continuò [[works/hop-frog-(poe)|Hop-Frog]], “sta nel terrore che provoca tra le donne.”
+
+
+“Capitale!”, gridarono all’unisono il monarca e il suo gabinetto.
+
+“Vi equipaggerò come nostriang-outangs,” proseguì il [[characters/dwarf|nano]]; “lasciate tutto a me. La somiglianza sarà così evidente che i partecipanti alla mascherata vi scambieranno per vere bestie, e naturalmente saranno sia spaventati che sorpresi.”
+
+
+“Oh, è davvero squisito!” esclamò il [[archetypes/king|re]]. “[[works/hop-frog-(poe)|Hop-Frog]]! Farò di te un uomo.”
+
+
+“Le [[motifs/chains|catene]] servono proprio ad aumentare la confusione con il loro tintinnio. Dovreste essere fuggiti tutti insieme dai vostri custodi. Vostra Maestà non può nemmeno immaginare l’effetto che otterrebbero, durante una mascherata, otto ourang-outangs incatenati, scambiati dalla maggior parte dei presenti per veri; che irrompessero tra la folla di uomini e donne vestiti con eleganza e raffinatezza, emettendo grida selvagge. Il _contrasto_ è davvero inimitabile.”
+
+
+“Deve essere così,” disse il [[archetypes/king|re]]; e il consiglio si alzò in fretta (poiché stava facendo tardi) per mettere in atto il piano di [[works/hop-frog-(poe)|Hop-Frog]].
+
+Il modo in cui equipaggiava il gruppo con questi animali simili agli oranghi-ubriachi era molto semplice, ma sufficientemente efficace per i suoi scopi. Gli [[motifs/animals|animali]] in questione, all’epoca della mia storia, venivano visti molto raramente in qualsiasi parte del mondo civile; e poiché le imitazioni create dal [[characters/dwarf|giovane nano]] erano abbastanza simili alle vere creature e decisamente orribili, si riteneva che fossero fedeli alla realtà naturale.
+
+Il [[archetypes/king|re]] e i suoi ministri furono prima avvolti in camicie e mutande di lana aderente; successivamente vennero immersi nel catrame. A questo stadio del processo, qualcuno suggerì di utilizzare le piume; ma questa proposta fu immediatamente bocciata dal [[characters/dwarf|nano]], il quale convinse rapidamente gli otto partecipanti, con dimostrazioni pratiche, che i peli di una bestia come l’orang-utan potevano essere efficacemente rappresentati utilizzando il _lino_. Fu quindi applicato uno spesso strato di lino sopra lo strato di catrame. Successivamente fu procurata una lunga catena: innanzitutto venne avvolta attorno alla vita del [[archetypes/king|re]] e legata; poi attorno a un altro dei partecipanti, e così via, in modo sequenziale. Una volta completato questo sistema di collegamento, i partecipanti si disposero in cerchio, mantenendo la massima distanza reciproca possibile. Per rendere tutto il processo più naturale, [[works/hop-frog-(poe)|Hop-Frog]] fece passare il resto della catena attraverso il cerchio, formando due diametri perpendicolari tra loro, proprio come fanno oggi coloro che catturano scimmie antropomorfe o altri grandi primati in Borneo.
+
+La grande sala in cui avrebbe avuto luogo la mascherata era una stanza circolare, molto alta, che riceveva luce solare solo attraverso una singola [[motifs/window|finestra]] posta in alto. Di [[motifs/night|notte]] (la stagione per cui l’appartamento era stato progettato appositamente), veniva illuminata principalmente da un grande candelabro sospeso a catena dal centro della finestra, e regolato in altezza tramite un contrappeso, come di consueto; tuttavia (per evitare che risultasse sgradevole all’occhio), questo contrappeso passava all’esterno della cupola e sopra il tetto.
+
+L’arredamento della stanza era stato lasciato all’incarico di Trippetta; tuttavia, in alcuni dettagli, sembra che sia stata guidata dal giudizio più calmo e sagace della sua amica, la [[characters/dwarf|nanetta]]. Su suo suggerimento, in questa occasione il lampadario fu rimosso. Le gocce di cera che ne cadevano (e che, con un tempo così caldo, era del tutto impossibile evitare) avrebbero potuto danneggiare gravemente gli abiti eleganti degli ospiti; inoltre, a causa della folla presente nella sala, non era certo possibile garantire che nessuno si trovasse sotto il lampadario. Furono quindi installati altri bracci luminosi in varie parti del salone, in posizioni poco visibili, e un [[characters/flambeau|fiaccoliere]] che emanava un profumo piacevole fu posto accanto a ciascuna delle [[characters/flambeau|cariatidi]] appoggiate al muro; ce n’erano circa cinquanta o sessanta in totale.
+
+Gli otto oranghi, seguendo il consiglio di [[works/hop-frog-(poe)|Hop-Frog]], attesero pazientemente fino a mezzanotte (quando la stanza era ormai piena di persone mascherate) prima di farsi vedere. Tuttavia, non appena l’[[motifs/clock|orologio]] smise di suonare, si precipitarono tutti insieme all’interno della stanza, anzi, più che precipitarsi, rotolarono dentro, poiché gli ostacoli rappresentati dalle loro [[motifs/chains|catene]] fecero sì che la maggior parte di loro inciampasse e barcollasse mentre entravano.
+
+L'eccitazione tra i partecipanti alla mascherata era enorme, e riempì il cuore del [[archetypes/king|re]] di gioia. Come previsto, molti degli ospiti pensavano che quelle creature dall’aspetto feroce fossero in realtà animali selvaggi, se non proprio oranghi. Molte donne svennero per la paura; e se il [[archetypes/king|re]] non avesse preso la precauzione di vietare l’ingresso di armi nella sala, la loro baldoria sarebbe potuta finire in tragedia. In ogni caso, tutti si precipitarono verso le porte; ma il [[archetypes/king|re]] aveva ordinato che venissero chiuse non appena era entrato, e su suggerimento del [[characters/dwarf|nano]], le chiavi erano state affidate a lui.
+
+Mentre il tumulto raggiungeva il suo apice e ognuno dei partecipanti alla festa pensava soltanto alla propria sicurezza (poiché in effetti esisteva un reale pericolo a causa della pressione della folla eccitata), la catena con cui di solito veniva sospeso il lampadario, che era stata ritirata durante i lavori di rimozione, si vedeva gradualmente scendere, fino a quando l’estremità munita di uncino non fu a meno di tre piedi dal pavimento.
+
+Poco dopo, il [[archetypes/king|re]] e i suoi sette amici, dopo essersi aggirati per la sala in tutte le direzioni, si ritrovarono finalmente al suo centro, e naturalmente a contatto diretto con la catena. Mentre erano in quella posizione, il [[characters/dwarf|goblin]], che li aveva seguiti silenziosamente incoraggiandoli a continuare con quel trambusto, afferrò la loro catena all’incrocio delle due parti che attraversavano il cerchio perpendicolarmente. Con rapidità fulminea inserì lì l’uncino da cui solitamente pendeva il lampadario; e in un istante, per qualche motivo invisibile, la catena del lampadario fu tirata verso l’alto fino a far scomparire l’uncino dalla loro portata. Di conseguenza, gli ourang-outangs furono trascinati uno accanto all’altro, faccia a faccia.
+
+A quel [[motifs/time|momento]], i mascherati si erano in parte ripresi dal loro allarme; e, considerando l'intera situazione come una [[motifs/well|bene congegnata]] gaga, iniziarono a ridere ad alta voce per la situazione imbarazzante delle scimmie.
+
+“Lasciateli a me!” gridò ora [[works/hop-frog-(poe)|Hop-Frog]], la sua voce stridula che si udiva facilmente tra tutto il clamore. “Lasciateli a me. Penso di conoscerli. Se solo riuscissi a guardarli bene, potrei scoprire subito chi sono.”
+
+
+Qui, arrampicandosi sopra le teste della folla, riuscì ad arrivare al muro; poi, afferrando una [[characters/flambeau|torcia]] da una delle cariatidi, tornò verso il centro della stanza, saltò con l’agilità di una scimmia sulla testa del re e da lì iniziò ad arrampicarsi lungo la catena; tenendo bassa la torcia per esaminare quel gruppo di oranghi, continuava a gridare: “Tra poco scoprirò chi sono!”
+
+
+E ora, mentre l'intera assemblea (inclusi gli scimmioni) era scossa dalle risate, lo giullare emise improvvisamente un fischio acuto; la catena si sollevò violentemente per circa trenta piedi, trascinando con sé gli oranghiutan che lottavano disperatamente, lasciandoli sospesi a mezz’aria tra la luce del cielo e il pavimento. [[works/hop-frog-(poe)|Hop-Frog]], aggrappato alla catena che si alzava sempre di più, manteneva la sua posizione rispetto ai nove mascherati e continuava, come se nulla fosse accaduto, a puntare la sua torcia verso di loro, come se cercasse di scoprire chi fossero.
+
+Tutta la compagnia rimase profondamente sbalordita da questa ascensione, al punto che seguì un silenzio mortale durato circa un minuto. Fu interrotto da quel stesso suono basso, stridulo e rauco che in precedenza aveva attirato l’attenzione del [[archetypes/king|re]] e dei suoi consiglieri quando quest’ultimo aveva gettato il vino in faccia a Trippetta. Ma questa volta non c’era alcun dubbio su quale ne fosse la fonte: proveniva dai denti affilati come zanne del [[characters/dwarf|nano]], che li stritolava e digrignava mentre sputava schiuma e fissava con uno sguardo di furia maniacale i volti rivolti verso l’alto del [[archetypes/king|re]] e dei suoi sette compagni.
+
+“Ah, ha!” disse finalmente lo sciamano infuriato. “Ah, ha! Ora inizio a capire chi siano queste persone, ” Fingendo di esaminare più attentamente il [[archetypes/king|re]], avvicinò la fiamma alla veste di lino che lo avvolgeva; immediatamente questa prese fuoco, trasformandosi in una fiammata intensa. In meno di mezzo minuto, tutti e otto gli ourang-outangs erano avvolti dalle fiamme, mentre la folla, sotto di loro, gridava per il terrore, incapace di offrire loro alcun aiuto.
+
+Alla fine, le fiamme, aumentando improvvisamente di intensità, costrinsero lo scemo ad arrampicarsi più in alto sulla catena, per mettersi al di fuori della loro portata; e mentre compiva questo movimento, la folla ricadde nuovamente, per un breve istante, nel [[motifs/silence|silenzio]]. Il [[characters/dwarf|nano]] ne approfittò e parlò ancora una volta:
+
+“Ora vedo chiaramente,” disse, “di che tipo di persone si tratta questi mascherati. Sono un grande [[archetypes/king|re]] e i suoi sette consiglieri privati: un re che non esita a colpire una ragazza indifesa, e i suoi sette consiglieri che lo aiutano in queste azioni turpi. Quanto a me, sono semplicemente [[works/hop-frog-(poe)|Hop-Frog]], il buffone. E questa è la mia ultima battuta.”
+
+
+A causa dell’elevata combustibilità sia del lino che del catrame a cui era attaccato, il [[characters/dwarf|nano]] non aveva appena terminato il suo breve discorso che l’opera di vendetta era già compiuta. I otto cadaveri dondolavano nelle loro [[motifs/chains|catene]], formando una massa fetida, annerita, orribile e indistinguibile. Il gobbo gettò la sua torcia contro di loro, poi salì lentamente verso il soffitto e scomparve attraverso la finestra.
+
+Si presume che Trippetta, che si trovava sul tetto del salone, fosse stata l'accompagnatrice della sua amica nella sua furiosa [[concepts/revenge|vendetta]], e che insieme avessero realizzato la fuga verso il loro paese d’origine; infatti nessuna delle due fu più vista.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Hop-Frog (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/king,motif/bells,motif/nature,motif/night,motif/pain,motif/road,motif/time,motif/well,concept/beauty,concept/nature,concept/self,form/novel,setting/court,character/dwarf"></span>

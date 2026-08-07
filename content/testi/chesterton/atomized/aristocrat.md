@@ -51,7 +51,7 @@ L’aristocratico
 
 (Raccolta del 1915)  
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Il Diavolo è un gentiluomo e vi invita a trascorrere del tempo  
 nella sua piccola dimora, che si trova in quel posto lì, non è lontano.  

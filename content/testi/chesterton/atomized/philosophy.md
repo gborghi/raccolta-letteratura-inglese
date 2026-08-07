@@ -90,6 +90,83 @@ the three or four sanities and certainties of human free thought.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Filosofia per l'aula scolastica
+
+di G.K. Chesterton
+
+----------------------------------------------------------------------------
+
+Ciò che i moderni vogliono venga fatto loro comprendere è semplicemente che ogni
+argomentazione comincia con un assunto; vale a dire, con qualcosa che
+non si mette in [[concepts/doubt|dubbio]].  Si può, s'intende, se si vuole, mettere in [[concepts/doubt|dubbio]] l'assunto
+all'inizio della propria argomentazione, ma in tal caso si sta cominciando
+un'argomentazione diversa con un altro assunto al suo inizio.
+Ogni argomentazione comincia con un dogma infallibile, e quel dogma infallibile
+può essere contestato solo ripiegando su qualche altro dogma infallibile;
+non si può mai provare la propria prima affermazione, altrimenti non sarebbe la prima.
+Tutto questo è l'abbicì del pensare.  E ha questo particolare
+e positivo pregio, che può essere insegnato a scuola,
+come l'altro abbicì.  Non avviare un'argomentazione senza
+enunciare i propri postulati potrebbe essere insegnato nella filosofia come lo
+si insegna in Euclide, in una comune aula scolastica con una lavagna.
+E penso che potrebbe essere insegnato in qualche misura semplice e razionale persino
+ai giovani, prima che escano per le strade e siano consegnati
+interamente alla logica e alla filosofia del Daily Mail.
+
+Gran parte del nostro caos intorno alla religione e al [[concepts/doubt|dubbio]] sorge da questo—che i nostri
+moderni scettici cominciano sempre col dirci ciò in cui non credono.
+Ma persino in uno scettico vogliamo sapere anzitutto ciò in cui egli crede.
+Prima di argomentare, vogliamo sapere su che cosa non abbiamo bisogno di argomentare.
+E questa confusione è infinitamente accresciuta dal fatto che tutti
+gli scettici del nostro [[motifs/time|tempo]] sono scettici a gradi differenti
+della dissoluzione dello scetticismo.
+
+Ora io e voi abbiamo, lo [[concepts/hope|spero]], questo vantaggio su tutti quei brillanti
+nuovi filosofi, che ci troviamo a non essere pazzi.  Tutti noi crediamo
+nella [[settings/cathedral|Cattedrale]] di San Paolo; la maggior parte di noi crede in San Paolo.  Ma rendiamoci
+chiaramente conto di questo fatto, che noi crediamo in un certo numero di cose
+che sono parte della nostra esistenza, ma che non possono essere dimostrate.
+Lasciamo per il momento la religione del tutto fuori dalla questione.
+Tutti gli uomini sani di mente, dico, credono fermamente e immutabilmente in un
+certo numero di cose che sono improvate e improvabili.
+Enunciamole a grandi linee.
+
+1. Ogni uomo sano di mente crede che il mondo attorno a lui e
+le persone in esso siano reali, e non una sua propria illusione o sogno.
+Nessuno si mette a incendiare [[settings/london|Londra]] nella convinzione che il suo servitore
+lo sveglierà presto per la colazione.  Ma che io, in un dato momento,
+non sia in un sogno, è improvato e improvabile.  Che alcunché esista
+all'infuori di me stesso è improvato e improvabile.
+
+2. Tutti gli uomini sani di mente credono che questo mondo non solo esista, ma conti.
+Ogni uomo crede che vi sia una sorta di obbligo per noi di interessarci
+a questa visione o panorama della vita.  Egli riterrebbe nel torto un uomo
+che dicesse: "Non ho chiesto io questa farsa ed essa mi annoia.
+Sono consapevole che una vecchia signora sta per essere assassinata di sotto, ma io
+me ne vado a [[motifs/sleep|dormire]]."  Che vi sia un qualche simile dovere di migliorare le cose
+che non abbiamo fatto noi è cosa improvata e improvabile.
+
+3. Tutti gli uomini sani di mente credono che vi sia una cosa quale un [[concepts/self|sé]],
+o io, che è continuo.  Non c'è un centimetro della materia del mio cervello
+che sia lo stesso di dieci anni fa.  Ma se dieci anni fa ho salvato un uomo in battaglia,
+ne sono fiero; se sono scappato, me ne vergogno.
+Che vi sia un simile sovrano "Io" è improvato e improvabile.
+Ma è più che improvato e improvabile; è decisamente
+contestato da molti metafisici.
+
+4. Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
+di avere un potere di scelta e una responsabilità dell'azione.
+
+Certamente sarebbe possibile stabilire qualche piana, banale enunciazione
+come la precedente, per far vedere alle persone dove si trovano.
+E se alla gioventù del futuro non deve (per ora) essere insegnata
+alcuna religione, le si potrebbe almeno insegnare, chiaramente e fermamente,
+le tre o quattro sanità e certezze del libero pensiero umano.
+
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="philosophy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/sleep,motif/time,concept/doubt,concept/hope,concept/self,setting/cathedral,setting/london"></span>

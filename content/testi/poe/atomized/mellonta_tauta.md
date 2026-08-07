@@ -1133,6 +1133,1153 @@ Yours everlastingly,
 PUNDITA.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ai redattori della Lady’s Book:
+
+
+
+
+
+Ho l’onore di inviarvi, per la vostra rivista, un articolo
+
+che spero riusciate a comprendere meglio.
+
+In modo diverso rispetto a come lo faccio io stesso. È una [[forms/translation|traduzione]] fatta dal mio amico.
+
+Martin Van Buren Mavis, a volte chiamata la “Poughkeepsie”
+
+“Veggente”) di un manoscritto dall’aspetto insolito che ho trovato circa un anno fa.
+
+Chiuso ermeticamente in un vaso che galleggia nel Mare Tenebrarum… un mare oscuro e tenebroso.
+
+Ben descritto dal geografo nubiano, ma raramente visitato.
+
+Oggi giorni, ad eccezione dei trascendentalisti e di alcuni individui particolari…
+
+Capricci.
+
+
+
+Veramente tuo,
+
+
+
+[[characters/edgar|EDGAR]] A. POE
+
+
+
+Non incluso nel volume
+
+
+
+A bordo del pallone “Skylark”
+
+
+
+1 aprile 2848
+
+
+
+Ora, mio caro amico… ora, per i tuoi peccati, dovrai soffrire.
+
+Inflizione di una lunga lettera pettegolesta… Ve lo dico chiaramente!
+
+Ti punirò per tutte le tue insolenze comportandomi allo stesso modo…
+
+Noioso, discorsivo, incoerente e del tutto insoddisfacente quanto…
+
+Possibile… Inoltre, eccomi qui, rinchiuso in un “pallone sporco”.
+
+Circa una o duecentinaia di quella plebaglia, tutti diretti verso qualche divertimento…
+
+Excursione… Che strana idea hanno alcune persone riguardo al divertimento!
+
+Non ho alcuna possibilità di mettere piede su terreno stabile per almeno un mese.
+
+Nessuno con cui parlare. Niente da fare. Quando non c’è nulla da fare…
+
+Allora è il momento giusto per comunicare con i propri amici. Capisci?
+
+Allora, perché scrivo questa lettera a voi… è per questo motivo.
+
+Il mio noia e i tuoi peccati.
+
+
+
+Preparatevi gli occhiali e decidetevi ad essere infastiditi… Io
+
+Ho intenzione di scriverti ogni giorno durante questo odioso viaggio.
+
+
+
+Heigho! Quando arriverà finalmente qualche invenzione che possa aiutare l’uomo nel suo pericranio…?
+
+Per sempre condannati alle mille incomodità…
+
+Balloon… Non riuscirà qualcuno a inventare un modo più veloce per…?
+
+Progresso? A mio parere, il movimento del “jog-trot” è poco meno…
+
+“Più che una tortura vera e propria… Giuro su quanto ho di più caro, non abbiamo fatto nulla di più.”
+
+Cento miglia all’ora da quando ho lasciato [[motifs/home|casa]]. Anche gli [[motifs/birds|uccelli]] sembrano volare più velocemente.
+
+Alcuni di loro, almeno… Vi assicuro che non esagero.
+
+Assolutamente no. Il nostro movimento, senza alcun [[concepts/doubt|dubbio]], sembra più lento di quanto in realtà sia.
+
+A causa del fatto che non abbiamo oggetti con noi per poter…
+
+Stima la nostra velocità, tenendo conto del fatto che viaggiamo con il [[motifs/wind|vento]].
+
+Certamente, ogni volta che incontriamo un pallone, abbiamo la possibilità di…
+
+Percepire il nostro ritmo… e poi, devo ammetterlo, le cose non appaiono più così come sembravano.
+
+Molto brutto. Nonostante sia abituato a questo tipo di viaggio, non riesco proprio…
+
+Superare quella sensazione di vertigine ogni volta che un pallone ci passa accanto…
+
+Direttamente sopra la mia testa… Sempre mi appare come qualcosa di immenso.
+
+Aquila pronta ad attaccarci e portarci via con sé
+
+Artigli… Questa mattina, all’alba, ne è passato uno sopra di noi… Ed è stato davvero per un soffio…
+
+Sopra la testa, la corda di traino sfiorava quasi la rete
+
+Il peso del nostro carro lo fece pendere in modo pericoloso, causandoci grande preoccupazione.
+
+Il capitano disse che se il materiale della borsa fosse stato diverso…
+
+“Trumperia laccata da ‘seta’ vecchia di cinquecento o mille anni”
+
+Allora, inevitabilmente avremmo subito dei danni… Questa seta, come lui…
+
+Titolo:  
+Mi spiegò che si trattava di un tessuto composto dagli intestini di…
+
+Specie di lombrichi terrestri. Il verme veniva nutrito con cura con gelso…
+
+Un tipo di frutto simile a un [[motifs/water|anguria]]; e, quando è sufficientemente maturo.
+
+Grasso, schiacciato in una macina… La pasta ottenuta veniva chiamata…
+
+Papiro nel suo stato originale, e ha subito diverse trasformazioni…
+
+“Processi fino a quando non diventa finalmente ‘seta’.” Un esempio di uso singolare per indicare un processo che porta a un risultato specifico.
+
+Un tempo era molto ammirato come capo d’abbigliamento femminile… Gli elmi gonfiabili
+
+Anche questi erano generalmente costruiti con esso… Un tipo migliore di…
+
+Il materiale, a quanto pare, è stato successivamente trovato nella stoffa del piumone.
+
+Intorno ai vasi seminali di una pianta comunemente chiamata…
+
+Euphorbium, che all’epoca veniva chiamato botanicamente “erba-latte”. Questo.
+
+Questo tipo di seta veniva chiamato “seta Buckingham”, per via.
+
+Per la sua maggiore durabilità, veniva solitamente preparata per l’uso…
+
+Titolo:  
+Verniciato con una soluzione di gomma caucciù… una sostanza.
+
+In alcuni aspetti, doveva assomigliare alla gutta-perca di oggi.
+
+In uso comune… Questo caucho veniva talvolta chiamato “indiano”.
+
+Gomma o gomma intrecciata; non c'era alcun [[concepts/doubt|dubbio]] che fosse una delle tante.
+
+Funghi. Non ditemi mai più che, in fondo, non sono un appassionato di antichità.
+
+
+
+Titolo:  
+A proposito delle corde da traino… sembra che la nostra, in questo momento, sia stata spezzata.
+
+Un uomo caduto in mare da uno dei piccoli propulsori magnetici…
+
+Una nave di circa sei migliaia di tonnellate… che si muove nel mare sottostante.
+
+Da quanto si dice, estremamente affollate… Queste piccole barche…
+
+È vietato portare più di un certo numero
+
+Passeggeri… Ovviamente, a quell’uomo non fu permesso salire a bordo.
+
+Di nuovo, scomparvero presto dalla vista, lui e il suo salvagente.
+
+Rallegrati, mio caro amico: viviamo in un’epoca così illuminata
+
+Che non dovrebbe esistere nulla chiamato individuo. È così.
+
+Di ciò che realmente interessa all’umanità… A proposito…
+
+L’umanità, sai che il nostro immortale Wiggins non è affatto così…
+
+Originale nelle sue opinioni sulla condizione sociale e simili…
+
+“I suoi contemporanei tendono a pensare così… Un esperto mi assicura che sia proprio così.”
+
+Titolo:  
+Le stesse idee sono state esposte quasi nello stesso modo, riguardo a…
+
+Mille anni fa, un filosofo irlandese di nome Furrier scrisse…
+
+Resoconto sulla sua attività di negozio al dettaglio di pelli di gatto e altri prodotti correlati
+
+Pellicce. Il commentatore lo sa, lo sai anche tu; non può esserci alcun errore al riguardo.
+
+Come possiamo constatare ogni giorno, in modo davvero meraviglioso, quanto sia profonda…
+
+Osservazione del Hindoo Aries Tottle (citata da)
+
+Il commentatore—“Dobbiamo dunque dire che non è stato una volta o due, né poche volte…”
+
+Più e più volte, ma con ripetizioni quasi infinite, sempre le stesse opinioni…
+
+“Ritornare in circolo tra gli uomini.”
+
+
+
+2 aprile – Oggi ho parlato con il responsabile del taglio magnetico che si occupa della parte centrale…
+
+Sezione di fili telegrafici galleggianti… Scopro che quando questi…
+
+Questo tipo di telegrafo fu utilizzato per la prima volta da [[motifs/horse|Cavalli]]; esso.
+
+Era considerato del tutto impossibile trasportare i cavi sott’acqua, ma…
+
+Ora non sappiamo proprio dove risieda la difficoltà… Che situazione imbarazzante!
+
+“Chi comanda il mondo… I tempi cambiano… Scusate se cito così.”
+
+Etrusco. Cosa faremmo senza il telegrafo Atlantico?
+
+Il commentatore afferma che “Atlantico” fosse un aggettivo antico… Noi ci mettiamo all’opera.
+
+Minuti per porre alcune domande al tagliatore, e ho scoperto, tra le altre cose…
+
+Altra notizia splendida: la guerra civile imperversa in Africa…
+
+La peste sta compiendo il suo “lavoro” in modo splendido sia in Europa che…
+
+Ayesher. Non è davvero straordinario che, prima di tutto ciò che è magnifico…
+
+La luce gettata sulla filosofia dall’umanità aveva abituato il mondo a questo modo di vedere le cose.
+
+“Ritenere la guerra e la peste delle calamità? Lo sai davvero?”
+
+Preghiere venivano effettivamente offerte nei templi antichi a…
+
+Come porre fine a questi mali, affinché non colpiscano l’umanità?
+
+Non è davvero difficile comprendere su quale principio si basi…
+
+Che motivi spinsero i nostri antenati ad agire in quel modo? Erano davvero così ciechi da non vedere…
+
+Percepire che la distruzione di innumerevoli individui è soltanto…
+
+Tanti vantaggi positivi per le masse!
+
+
+
+3 aprile – È davvero un’ottima distrazione salire…
+
+"#Scalata di corda che conduce alla vetta della sacca gonfiabile, e da lì..."
+
+Esplorare il mondo che ci circonda. Dal veicolo sottostante…
+
+La visuale non è molto ampia; si riesce a vedere poco in orizzontale.
+
+“Ma seduto qui (dove scrivo queste parole), su questi cuscini morbidi e lussuosi…”
+
+Ampia piazza sulla cima: da lì si può vedere tutto ciò che accade
+
+In tutte le direzioni… Proprio adesso c’è una bella folla di palloncini.
+
+In vista, e presentano un aspetto molto vivace…
+
+L’aria risuona del mormorio di milioni e milioni di voci umane.
+
+Ho sentito affermare che quando il Giallo… o (il Pundit dirà…)
+
+Violet, che si dice sia stata la prima aeronauta
+
+Manteneva la praticabilità della traversata dell’atmosfera in ogni condizione.
+
+Indicazioni: semplicemente salendo o scendendo fino a raggiungere una posizione favorevole
+
+Una volta raggiunto questo obiettivo, le sue parole venivano quasi del tutto ignorate da tutti intorno a lui.
+
+Contemporanei che lo consideravano soltanto una persona ingegnosa…
+
+Il pazzo, perché i filosofi dell’epoca lo dichiararono così
+
+“Cosa impossibile… Davvero, ora mi sembra proprio così.”
+
+“Come sia possibile che qualcosa di così ovviamente realizzabile sia rimasto inattuato…”.
+
+Superato la saggezza degli antichi saggi… Ma in tutte le epoche…
+
+Grandi ostacoli al progresso nell’arte sono stati frapposti da…
+
+Cosiddetti scienziati… A dire il vero, i nostri scienziati non sono affatto tali.
+
+Piuttosto bigotto quanto quelli di un tempo… oh, ho qualcosa di davvero strano da raccontare.
+
+Per parlarvi su questo argomento… Sapete che non è altro che…
+
+Mille anni fa, quando i metafisici decisero di alleviare…
+
+Il popolo di coloro che fantasticano che esistano soltanto due…
+
+Possibili strade per raggiungere la [[concepts/truth|Verità]]. Credeteci, se volete.
+
+Può farlo! Sembra che molto, molto tempo fa, nella [[motifs/time|notte]] di [[motifs/night|Tempo]], ci sia stato.
+
+Visse un filosofo turco (o forse indù) di nome Ariete
+
+Tottle: Questa persona introdusse, o comunque diffuse, ciò che…
+
+Fu definito il metodo deduttivo o a priori di indagine. Lui…
+
+Iniziò con ciò che considerava assiomi o “auto-evidenti”.
+
+“Verità”, e da lì ne derivarono “logicamente” delle conclusioni.
+
+I suoi più grandi discepoli erano uno di nome Neclide e uno di nome Cant. Beh, Ariete.
+
+Tottle fiorì in modo supremo fino all’arrivo di un certo Hog…
+
+“Ettrick Shepherd”, che predicava un sistema del tutto diverso.
+
+Il metodo che chiamò “a posteriori” o induttivo… Il suo piano prevedeva…
+
+Interamente per la sensazione. Proseguì osservando e analizzando…
+
+Classificare i fatti e le singole manifestazioni della natura, così come sono influenzate da determinati fattori
+
+Intitolato: “Riassunto nelle leggi generali”. In parole povere, lo stile di Aries Tottle era…
+
+Basato sui noumeni; Hog si concentra sui fenomeni. Beh, era davvero così grande.
+
+Ammirazione suscitata da questo ultimo sistema che, fin dalla sua prima apparizione…
+
+Introduzione: Aries Tottle cadde in discredito; ma alla fine…
+
+Riprese terreno e gli fu permesso di dividere il regno della [[concepts/truth|Verità]].
+
+Con il suo rivale più moderno… Gli scienziati di oggi sostenevano…
+
+Sentieri aristotelici e baconiani: le uniche strade possibili
+
+Titolo:  
+“Conoscenza… ‘Baconiano’, come sicuramente saprete, era un aggettivo inventato…”
+
+equivalente a “Hog-ian” e al contempo più armonioso e dignitoso.
+
+
+
+Ora, mio caro amico, ti assicuro con la massima certezza che…
+
+Rappresentare questa questione in modo equo, sulla base delle autorità più affidabili; e tu…
+
+Si può facilmente comprendere come un concetto così assurdo, a prima vista…
+
+Deve aver ostacolato lo sviluppo di tutto ciò che è veramente significativo
+
+Conoscenza: quella che fa i suoi progressi quasi sempre in modo intuitivo.
+
+Limiti. L’antica concezione confinava le ricerche al movimento lento e graduale; e…
+
+Per centinaia di anni, l’infatuazione per Hog fu davvero enorme.
+
+In particolare, si può dire che ogni forma di pensiero razionale venisse praticamente soppressa.
+
+Cosiddetto. Nessuno osava pronunciare una [[concepts/truth|verità]] di cui si sentisse convinto.
+
+In debito soltanto con la propria [[motifs/soul|Anima]], da solo. Non importava se la [[concepts/truth|.verità]] fosse.
+
+Anche se dimostrabilmente una [[concepts/truth|verità]], per gli sciocchi testardi di.
+
+[[motifs/time|Il tempo]] considerava soltanto la [[motifs/road|strada]] attraverso la quale lo aveva raggiunto. Loro.
+
+“Non avrebbero nemmeno voluto leggere fino alla fine… ‘Diamo un’occhiata ai mezzi utilizzati’, dissero.”
+
+“Gridai: ‘I mezzi!’ Ma se, indagando su quei mezzi, si scoprisse…”
+
+Titolo:  
+Risulta non appartenere né alla categoria Arieti…
+
+Perché mai gli antropologi non hanno considerato…
+
+Andava oltre, ma definiva il “teorico” un [[archetypes/fool|idiota]], e avrebbe.
+
+Niente a che fare con lui o con la sua [[concepts/truth|_verità]].
+
+
+
+Ora, non si può nemmeno sostenere che, attraverso quel sistema lento e inefficiente…
+
+La massima quantità di [[concepts/truth|_verità]] potrebbe essere raggiunta solo attraverso una lunga serie di azioni o processi.
+
+Di tutte le età, poiché la repressione dell’[[concepts/imagination|immaginazione]] era un male che non doveva essere tollerato.
+
+Titolato: compensato da una certezza superiore nei modi antichi…
+
+Indagine… L’errore di questi Jurmains, di questi Vrinch…
+
+“Inglitch… e questi americani” (del resto, questi ultimi erano i nostri).
+
+Titolo:  
+“Un errore del tutto analogo a quello commesso riguardo ai propri antenati immediati…”
+
+Il presuntuoso che crede di dover necessariamente vedere tutto
+
+Più lo avvicina agli occhi, meglio riesce a osservarlo.
+
+“Le persone si accecarono a causa dei dettagli… Quando continuarono…”
+
+In modo grossolano e distorto, i loro “fatti” non erano affatto sempre veritieri… una questione importante da considerare.
+
+Di scarso rilievo se non fosse stato per l’assunto che fossero…
+
+Fatti… e devono essere fatti, perché sembravano esserlo davvero. Quando…
+
+Proseguirono lungo il sentiero del Ram… il loro percorso fu appena percettibile.
+
+“Dritti come le corna di un ariete… perché non avevano mai alcun assioma su cui basarsi.”
+
+“Non era affatto un assioma… Devono essere stati davvero ciechi per non accorgersene.”
+
+Questo, già ai loro tempi; perché anche allora molti di loro…
+
+“I lunghi e ‘riconosciuti’ assiomi erano stati rifiutati. Ad esempio… ‘Es’.”
+
+“Nihil nihil fit”; “Un [[concepts/body|corpo]] non può agire in luoghi dove non si trova”; “Esiste, ”
+
+“Non possono esistere antipodi; l’oscurità non può nascere dalla luce” – tutto ciò…
+
+Queste e una dozzina di altre proposte simili, precedentemente accettate
+
+Senza esitazione, come assiomi… anche nel periodo di cui parlo io.
+
+Parole vane e insostenibili… Quanto assurdo da parte di queste persone, dunque, comportarsi così.
+
+Insisti nel riporre la [[concepts/faith|fede]] negli “assomi” come basi immutabili della [[concepts/truth|Verità]]!
+
+Ma anche dalle bocche dei loro ragionatori più saggi, è facile…
+
+Per dimostrare l’inutilità, l’immaterialità dei loro assiomi…
+
+Chi era il più solido tra i loro logici? Fammi pensare…
+
+Andrò a chiedere al Pundit e tornerò subito... Ah, eccoci qui.
+
+Avanti! Ecco un libro scritto quasi mille anni fa…
+
+Titolo: Recentemente tradotto dall’Inglitch… che, tra l’altro, sembra…
+
+“Sono stati i fondamenti della cultura americana… Secondo un esperto, è così.”
+
+Senza dubbio l'opera più intelligente dell'antichità sull'argomento trattato, la Logica.
+
+Il titolo dell’autore, che all’epoca era molto stimato, era Miller…
+
+Il mulino; e si legge di lui che…
+
+Importanza. Aveva un cavallo da mulino chiamato Bentham. Ma lasciamo perdere.
+
+Dai un’occhiata a quel trattato!
+
+
+
+Ah! — “La capacità o l’incapacità di concepire”, dice il signor Mill…
+
+Titolo:  
+"In nessun caso può essere considerato come criterio di..."
+
+“Verità assiomatica”. Chi, ai giorni nostri, potrebbe mai pensarci?
+
+Discutere di questo luogo comune? L’unico [[concepts/wonder|stupore]] che possiamo provare riguarda il modo in cui.
+
+Si verificò che il signor Mill ritenesse necessario anche solo accennare a qualcosa…
+
+Qualcosa di così ovvio. Finora tutto bene, ma diamo un’occhiata anche ad un altro documento.
+
+Che cosa abbiamo qui? — “Le contraddizioni non possono essere entrambe vere… cioè…”
+
+“Non possono coesistere nella [[concepts/nature|natura]]”. Qui il signor Mill intende, ad esempio.
+
+“Che un albero debba essere o un albero o non essere un albero… che non possa essere altro.”
+
+Nello stesso [[motifs/time|momento]], un albero, eppure non è un albero. Molto [[motifs/well|bene]]; ma glielo chiedo io.
+
+Perché. La sua risposta è proprio questa… e non si finge mai nulla di diverso.
+
+Più di così… “Perché è impossibile immaginare che…”
+
+“Contraddizioni possono entrambe essere vere… Ma questo non è affatto una risposta.”
+
+Per quanto ne dimostri lui stesso, non ha forse appena ammesso che…
+
+“La capacità o l’incapacità di concepire non deve essere assolutamente considerata…”
+
+Un criterio di verità assiomatica.
+
+
+
+Ora non mi lamento più così tanto di questi antichi… perché loro…
+
+La logica, secondo le loro stesse affermazioni, è del tutto priva di fondamento, inutile e.
+
+Assolutamente fantastico… ma solo a causa della loro pompa e stupidità.
+
+La proibizione di ogni altro percorso verso la [[concepts/truth|Verità]], di ogni altro mezzo per raggiungerla.
+
+Titolo:  
+Più che quei due sentieri assurdi… quello dell’ottenimento…
+
+"La strisciaia e colui che osa strisciare..."
+
+Confinare l’[[motifs/soul|Anima]] che non ama nulla con tanta intensità quanto il volo.
+
+
+
+A proposito, mio caro amico… non pensi che ciò avrebbe potuto creare confusione?
+
+Questi antichi dogmatici avevano stabilito con quale dei loro…
+
+Erano due strade, le più importanti e le più [[concepts/sublime|sublimi]] di tutte.
+
+Le loro verità furono, di fatto, raggiunte? Intendo dire la [[concepts/truth|verità]] di.
+
+Gravitazione. Newton la doveva a Kepler. Kepler ammise che la sua…
+
+Si ipotizzarono tre leggi: queste tre leggi, tra tutte le leggi esistenti, erano quelle fondamentali.
+
+Il grande matematico Inglitch e il suo principio fondamentale…
+
+Oltre ogni principio fisico…
+
+Regno della Metafisica: Keplero ipotizzò, cioè immaginò.
+
+Era essenzialmente un “teorico” – una parola ormai così comune…
+
+Santità: un tempo epiteto di disprezzo… Non avrebbe forse potuto significare qualcosa di diverso?
+
+Anche questi vecchi topi di laboratorio rimasero perplessi nel capire con quale dei…
+
+Due “strade”: un crittografo decifra un messaggio cifrato di oltre…
+
+Titolo:  
+La solita segretezza… o quale delle due strade scelse Champollion?
+
+“L’umanità di fronte a quelle verità durature e quasi innumerevoli…”
+
+Nacque dal suo deciframento degli geroglifici.
+
+
+
+Ancora una parola sull’argomento e smetterò di annoiarti… Va bene?
+
+Non sorprende affatto che, con quel loro chiacchiericcio incessante…
+
+Le strade che portano alla [[concepts/truth|Verità]], queste persone prevenute non hanno compreso ciò che ora noi sappiamo così chiaramente.
+
+Percepire chiaramente che si tratta della grande strada principale, quella della Coerenza?
+
+Non sembra strano che non siano riusciti a dedurlo?
+
+Dalle opere di Dio: il fatto vitale di una perfetta coerenza
+
+Deve essere una verità assoluta! Quanto evidente è stato il nostro progresso da allora.
+
+L’annuncio tardivo di questa proposta… Le indagini sono già in corso.
+
+Strappato dalle mani dei talpe e affidato come compito…
+
+Ai veri e unici pensatori, gli uomini di passione e intelligenza
+
+[[concepts/imagination|immaginazione]]. Questi ultimi teorizzano. Non riesci forse a immaginare quel grido?
+
+Con disprezzo le mie parole sarebbero state accolte dai nostri antenati
+
+È possibile che in questo momento stiano guardando oltre la mia spalla?
+
+Questi uomini, dico io, teorizzano; e le loro teorie sono semplicemente…
+
+Corretto, ridotto, sistematizzato: eliminato poco alla volta, pezzo dopo pezzo…
+
+La loro inconsistenza… fino a quando, finalmente, non arriva la perfezione
+
+Coerenza evidente, che anche i più ostinati ammettono
+
+Perché è una coerenza, essere assoluto e…
+
+Una verità incontestabile.
+
+
+
+4 aprile – Il nuovo gas sta facendo miracoli, in combinazione con…
+
+Nuovo miglioramento con la gutta-perca: davvero sicuro e comodo.
+
+“Gestibili e, sotto ogni aspetto, comodi sono i nostri mezzi moderni.”
+
+Balloon! Ecco uno enorme che si avvicina a noi a grande velocità…
+
+Almeno centocinquanta miglia all’ora… Sembra davvero affollato.
+
+Con le persone… forse ce ne sono tre o quattrocento.
+
+Passeggeri… eppure raggiunge un’altitudine di quasi un miglio.
+
+“Guardandoci con disprezzo supremo… ancora una volta.”
+
+Cento… o addirittura duecento miglia all’ora? Questo è considerato viaggiare lentamente.
+
+Dopo tutto… Ricordi il nostro viaggio in treno attraverso…
+
+“Continente del Canada?… A una velocità di ben trecento miglia all’ora… Che incredibile…”
+
+Viaggio… Niente da vedere, in realtà; niente da fare se non…
+
+Flirtare, festeggiare e [[motifs/dance|danzare]] nelle magnifiche sale. Lo fai?
+
+Ricordi quella strana sensazione provata quando, per caso…
+
+Abbiamo intravisto oggetti esterni mentre le auto erano…
+
+“Full Flight”? Tutto sembrava unico, in un’unica massa… Per quanto mi riguarda…
+
+Non posso dire altro se non che preferivo viaggiare lentamente…
+
+Titolo:  
+“Una velocità di cento miglia all’ora… Qui ci era permesso di raggiungere tale velocità.”
+
+Finestre di vetro… anche se aperte… e qualcosa del genere
+
+Si poteva ottenere una visione diversa del paese… Secondo il commentatore…
+
+La rotta per la grande ferrovia di Kanadaw doveva sicuramente passare attraverso qualche…
+
+Titolo:  
+Una misura tracciata circa novecento anni fa… Infatti, lui…
+
+Fino al punto di affermare che tracce effettive di una [[motifs/road|strada]] siano ancora presenti.
+
+Distinti – tracce che risalgono a un periodo altrettanto remoto
+
+Come menzionato, a quanto pare la traccia era disponibile solo in versione [[topoi/double|doppia]]; la nostra, sapete.
+
+Ha dodici percorsi possibili; e tre o quattro nuovi sono attualmente in fase di preparazione.
+
+Le vecchie rotaie erano molto sottili e posizionate una vicina all’altra.
+
+Titolo:  
+Secondo le concezioni moderne, piuttosto frivolo, se non altro…
+
+Pericoloso al massimo… La larghezza attuale dei binari: cinquanta…
+
+Piedi… che, a dire il vero, non sembrano affatto abbastanza sicuri. Per quanto mi riguarda…
+
+Non ho alcun [[concepts/doubt|dubbio]] che debba esserci stata qualche traccia di questo genere.
+
+In tempi molto remoti, come afferma il Pundit; poiché nulla può essere più chiaro di questo.
+
+A mio parere, in un certo momento… non meno di sette volte.
+
+Centinaia di anni fa, senza dubbio: il Nord e il Sud del Canada…
+
+I continenti erano uniti; in quel caso, i Kanawdiani sarebbero stati…
+
+Costretto, per necessità, ad utilizzare un grande ferrovia che attraversava il continente.
+
+
+
+5 aprile – Sono quasi sopraffatto dall’noia… Pundit è l’unica cosa che mi distragga.
+
+Una persona con capacità di cambiare sesso a bordo; e lui, povera [[motifs/soul|'anima]], può solo parlare di questo.
+
+Solo antichità… È stato occupato tutto il giorno a…
+
+Tentativo di convincermi che gli antichi Americani governassero
+
+Mai si è sentita una simile assurdità… che loro stessi…
+
+Titolo:  
+Esisteva in una sorta di confederazione dove ognuno pensava solo a se stesso, dopo…
+
+Lo stile dei “cani delle praterie” di cui leggiamo nelle [[forms/fable|favole]]. Lui dice.
+
+Titolo:  
+Hanno iniziato con l’idea più strana che si possa immaginare, ovvero…
+
+“Tutti gli uomini nascono liberi e uguali: questo è proprio ciò che viene messo in discussione…”
+
+Titolo:  
+Le leggi della gradazione, così evidenti in tutte le cose…
+
+Il cosmo morale e fisico: ognu uomo “ha votato”, così come…
+
+Titolo:  
+Si è immisso negli affari pubblici… fino a quando…
+
+Durante le indagini, si scoprì che ciò che riguarda tutti in realtà…
+
+“Nessuno di nessuno… e quella ‘Repubblica’… beh, era davvero qualcosa di assurdo.”
+
+Quell’area non disponeva affatto di un governo; tuttavia, è comunque correlata.
+
+La prima circostanza che disturbò in modo particolare…
+
+La [[concepts/self|auto-compiacenza]] dei filosofi che hanno costruito tutto ciò.
+
+“Repubblica”: la sorprendente scoperta che il suffragio universale…
+
+Offriva opportunità per schemi fraudolenti, attraverso i quali chiunque poteva…
+
+Il numero desiderato di voti può essere conteggiato in qualsiasi [[motifs/time|momento]], senza alcun problema.
+
+Possibilità di prevenzione o addirittura di rilevamento, da parte di qualsiasi ente
+
+Titolo:  
+Deve essere abbastanza malvagio da non vergognarsene…
+
+Truffa. Un breve riflessione su questa scoperta fu sufficiente per rendersi conto…
+
+Le conseguenze erano evidenti: quella malvagità doveva essere punita.
+
+Prevalgono, in altre parole, le ragioni per cui un governo repubblicano non potrebbe mai.
+
+“Non essere affatto uno scroccone… Mentre i filosofi, invece…”
+
+Erano impegnati a arrossire per la loro stupidità, per non essersi resi conto prima…
+
+Questi mali inevitabili, e l’intento di inventarne di nuovi
+
+Teorie… La questione venne risolta bruscamente da un certo individuo.
+
+Il nome di colui che prese tutto in mano e decise da solo
+
+Sotto un dispotismo, paragonabile a quelli descritti nelle leggende…
+
+“Zeri e Hellofagabaluses erano rispettabili e deliziosi… Questo.”
+
+Si dice che “Mob” – un estraneo, tra l’altro – sia stato il più…
+
+L’odiato tra tutti gli uomini che abbiano mai calpestato la terra… Era un gigante.
+
+In termini di statura… insolente, avido, sporco; aveva addirittura il coraggio di un bue.
+
+Con il cuore di una iena e il cervello di un pavone… È morto.
+
+Alla fine, grazie alle sue stesse forze, che lo esaurirono completamente.
+
+Nonostante ciò, aveva i suoi utilizzi, come tutto ha i suoi, per quanto vile possa essere.
+
+E insegnò all’umanità una lezione che ancora oggi non rischia di essere dimenticata
+
+Dimenticare… senza mai andare contro la natura
+
+Analogie. Per quanto riguarda il repubblicanesimo, non si è riusciti a trovarne alcuna.
+
+Sul volto della terra… a meno che non si consideri il caso di…
+
+“I cani delle praterie”, un'eccezione che sembra dimostrare, se.
+
+Qualsiasi cosa, quella [[concepts/democracy|democrazia]] è davvero una forma molto ammirevole di governo.
+
+Il governo, per i cani.
+
+
+
+6 aprile. — La scorsa [[motifs/night|notte]] si è potuta ammirare chiaramente Alpha Lyrae; il suo disco.
+
+Attraverso il cannocchiale del nostro capitano, si forma un angolo di mezza…
+
+Grado, molto simile al nostro sole quando visto a occhio nudo
+
+Giorno nebbioso… Alfa Lyrae, sebbene molto più grande del nostro Sole…
+
+Il sole, a dire il vero, gli assomiglia molto per quanto riguarda le sue macchie…
+
+Ambiente e in molti altri aspetti… Solo all’interno di questo contesto…
+
+Titolo:  
+“Secolo scorso, mi ha detto un esperto, esisteva una relazione binaria…”
+
+Tra queste due sfere iniziò persino ad essere sospettato… L’evidenza era lì, chiara e lampante.
+
+Il movimento del nostro sistema nel cielo era, (strano da dire, )
+
+Orbita attorno a una stella gigantesca al centro…
+
+Galassia… Riguardo a questa stella, o comunque riguardo a un centro…
+
+Titolo:  
+La gravità comune a tutti i corpi celesti della Via Lattea e presumibilmente…
+
+Vicino ad Alcione nelle Pleiadi… ognuno di questi corpi celesti era…
+
+Ritmo circolare e incessante… il nostro percorso si ripete all’infinito.
+
+“Un periodo di 117.000.000 di anni… Noi, con le nostre conoscenze attuali…”
+
+Titolo:  
+Vaste migliorie tecniche, e naturalmente molto altro ancora…
+
+Difficile comprendere le basi di un’idea del genere…
+
+Il primo diffusore di queste idee fu un certo Mudler. Si deve presumere che sia stato lui ad introdurle…
+
+Questa ipotesi audace nasce innanzitutto da una semplice analogia…
+
+In tal caso, avrebbe dovuto almeno attenersi all’analogia.
+
+Nel suo sviluppo, venne effettivamente proposta l’idea di un grande globo centrale.
+
+Finora Mudler è stato costante… Tuttavia, questo globo centrale…
+
+Dinamicamente, avrebbe dovuto essere superiore a tutto ciò che lo circonda
+
+Oggetti che, considerati insieme, formano un tutto… Allora si potrebbe essere posti questa domanda: “Perché?”
+
+“Non lo vediamo forse tutti?”, soprattutto noi che ci troviamo nella posizione centrale…
+
+Il gruppo – quella località precisa in cui, almeno, deve trovarsi…
+
+Posizionato attorno a questo inimmaginabile sole centrale… Forse, l’astronomo…
+
+A questo punto, si è rifugiati nell’idea della non-luminosità.
+
+E qui l’analogia venne improvvisamente abbandonata… Ma anche ammettendo questo…
+
+Orb centrale non luminoso: come riuscì a spiegarne il funzionamento?
+
+Invisibile agli occhi di una moltitudine innumerevole
+
+Sole gloriosi che brillano in tutte le direzioni intorno ad esso? Nessun [[concepts/doubt|dubbio]] su questo.
+
+Il titolo che alla fine riuscì a mantenere fu semplicemente un “centro di gravità” condiviso da tutti…
+
+Tutti gli orbiti in rotazione… ma ancora una volta, l’analogia deve essersi fatta strada.
+
+Caduta. Il nostro sistema, è vero, ruota attorno a un centro comune…
+
+Gravità, ma lo fa in relazione a… e come conseguenza di ciò
+
+Un sole di materia la cui massa compensa ampiamente il resto
+
+Il cerchio matematico: una curva composta da…
+
+Infinità di linee rette… ma questa idea del cerchio… questa concezione…
+
+Titolo:  
+Di ciò che, in termini di geometria terrena, consideriamo…
+
+Solo il lato matematico, a differenza di quello pratico.
+
+Un’idea, in realtà, è quella concezione pratica che solamente noi possediamo.
+
+Non si ha alcun diritto di nutrire alcuna speranza riguardo a quei circoli legati al Titanic.
+
+Titolo:  
+Con cui dobbiamo confrontarci, almeno nella fantasia, quando supponiamo…
+
+Il nostro sistema, insieme ai suoi simili, ruota attorno a un punto centrale…
+
+Centro della galassia… Lasciate che l’immaginazione umana più fervida si esprima al suo massimo.
+
+Tentare di compiere anche un solo passo verso la comprensione di…
+
+Circolo così inesprimibile… Dire che sia paradossale sarebbe quasi poco…
+
+Che un lampo di [[motifs/lightning|fulmine]], viaggiando per sempre attraverso.
+
+“La circonferenza di questo cerchio inimmaginabile… rimarrebbe per sempre…”
+
+Si muove in linea retta… Il percorso del nostro sole lungo…
+
+Una circonferenza così vasta… che la direzione del nostro sistema, all’interno di essa, appare…
+
+Orbita che, secondo qualsiasi percezione umana, si discosterebbe anche di poco dal suo percorso normale.
+
+“Un angolo di deviazione da una linea retta, anche dopo un milione di anni, rimane immutato…”
+
+Proposizione che non va presa in considerazione; eppure questi antichi…
+
+Gli astronomi sembrano essere stati completamente ingannati, portati a credere…
+
+Una curvatura decisiva è diventata evidente nel breve lasso di tempo…
+
+Un periodo della loro [[concepts/history|storia]] astronomica, durante quel breve lasso di tempo, durante.
+
+La totale nullità di due o tre migliaia di anni… Come!
+
+Incomprensibile… che considerazioni del genere non siano state prese in considerazione.
+
+Una volta rivelato loro lo stato reale delle cose…
+
+Rivoluzione binaria del nostro Sole e di Alpha Lyrae attorno a un punto comune
+
+Punto di gravità!
+
+
+
+7 aprile.—Abbiamo continuato i nostri divertimenti astronomici della scorsa [[motifs/night|notte]]. Abbiamo avuto.
+
+Bella vista dei cinque asteroidi neptuniani… e osservati con grande attenzione.
+
+Interessarsi all’idea di imporre un enorme onere a due persone…
+
+Nel nuovo tempio di Dafni, sotto la luce della [[motifs/moon|luna]]. Era divertente pensarci.
+
+Esseri così minuscoli come i Lunariani… e che possiedono…
+
+Poca somiglianza con l’umanità, ma dimostrò una natura meccanica
+
+Ingegno così nettamente superiore al nostro… È difficile da comprendere.
+
+Nemmeno si può immaginare l’enorme quantità di cose che queste persone gestiscono…
+
+Facilmente… tanto facilmente quanto la nostra stessa ragione ci suggerisce che sia possibile.
+
+sono.
+
+
+
+8 aprile – Eureka! Il “Pundit” è al suo apice… Un pallone da Kanadaw
+
+Oggi ci ha parlato e ci ha fornito alcuni documenti recenti…
+
+Titolo: Contiene alcune informazioni estremamente curiose in merito a…
+
+Antichità canadesi… o meglio, americane. Immagino che lo sappiate già.
+
+Quei lavoratori vengono impiegati da alcuni mesi nella preparazione di…
+
+Un motivo per una nuova fontana a Paradise, la residenza principale dell’Imperatore
+
+Un giardino pieno di piacere. Sembra che il paradiso esista davvero, letteralmente parlando.
+
+Parlando di un'isola che, per un certo periodo, ha perso la ragione, cioè, della sua parte settentrionale.
+
+Confine è sempre stato… (fin dove risalgono le prime testimonianze)
+
+Un ruscello marino, o meglio, un braccio molto stretto del mare… Questo braccio…
+
+Si allargò gradualmente fino a raggiungere la sua larghezza attuale: un miglio.
+
+L’intera lunghezza dell’isola è di nove miglia; la sua larghezza varia.
+
+“Materialmente… L’intera area era, secondo il Pundit, circa otto…”
+
+Cento anni fa, densamente popolato di case… alcune di esse…
+
+Venti storie d’altezza; terra… per qualche motivo inspiegabile
+
+Essendo considerato particolarmente prezioso proprio in questa zona.
+
+Il disastroso terremoto del 2050… così totale.
+
+Sradicato e travolgente per la città… poiché era quasi troppo grande per essere gestita.
+
+Un villaggio chiamato così…) dove i più instancabili tra noi…
+
+Gli antiquari non sono mai riusciti ad ottenere nulla da quel sito
+
+Dati sufficienti (sotto forma di monete, medaglie o iscrizioni)
+
+Con ciò si potrebbe persino costruire un’ipotesi, anche solo rudimentale, riguardo a.
+
+I modi, le usanze, ecc., degli abitanti indigeni.
+
+Quasi tutto ciò che abbiamo conosciuto finora di loro è che…
+
+Una parte della tribù di selvaggi Knickerbocker che infesta…
+
+Il continente alla sua prima scoperta da parte di Recorder Riker, un cavaliere…
+
+Il Vello d’Oro. Tuttavia, non erano affatto incivili.
+
+Coltivava varie arti e persino scienze in un certo modo…
+
+“Il loro stesso… Si dice di loro che fossero molto acuti in molte cose.”
+
+Monomania per la costruzione
+
+“Quello che, nell’antica America, veniva chiamato ‘chiese’… una sorta di…”
+
+Titolo:  
+Di una pagoda eretta per il culto di due idoli…
+
+“I nomi della ricchezza e della moda… Alla fine, si dice,…”
+
+L’isola… nove decimi di essa divennero chiese. Anche le donne…
+
+Titolo:  
+Apparivano stranamente deformate a causa di una protuberanza naturale…
+
+La regione appena sotto la parte bassa della schiena… anche se, per lo più…
+
+In modo inspiegabile, questa deformità veniva considerata nel suo complesso…
+
+La luce di una [[concepts/beauty|bellezza]]. Una o due foto di queste donne uniche.
+
+Sono stati effettivamente conservati per miracolo. Sembrano davvero molto strani.
+
+Molto simile a qualcosa che sia a metà tra un gallo di tacchino e un dromedario.
+
+
+
+Beh, questi pochi dettagli sono quasi tutto ciò che ci è stato tramandato.
+
+Riguardo agli antichi Knickerbockers… Sembra tuttavia che…
+
+Mentre scavava nel centro del [[motifs/garden|giardino]] degli imperatori, (che, come sapete, )
+
+Scoperte sull’intera isola) alcuni operai hanno portato alla luce…
+
+"Blocco di granito cubico e chiaramente scolpito, pesante diverse tonnellate."
+
+Cento sterline… Era in ottimo stato di conservazione, poiché era stata…
+
+A quanto pare, la piccola creatura non riportò gravi danni a causa della convulsione che l’aveva sepolta.
+
+Su una delle sue superfici c'era una lastra di marmo con, (pensateci solo!).
+
+Un’[[forms/inscription|iscrizione]], un’[[forms/inscription|iscrizione]] leggibile. Il commentatore è estasiato.
+
+Alla rimozione della lastra, è apparsa una cavità contenente del piombo…
+
+Scatola piena di monete varie, un lungo rotolo di nomi…
+
+Documenti che sembrano giornali, insieme ad altre cose
+
+Di grande interesse per l’antiquario! Non può esserci alcun [[concepts/doubt|dubbio]].
+
+“Che tutti questi siano autentici reperti americani appartenenti alla tribù”
+
+Intitolato “Knickerbocker”. I giornali gettati a bordo del nostro pallone…
+
+Ricco di facsimili di monete, manoscritti, caratteri tipografici, ecc.
+
+Per vostro divertimento, vi riproduco l’iscrizione del Knickerbocker sulla.
+
+La lastra di marmo:—
+
+
+
+Titolo:  
+Questo fondamento di un monumento alla…
+
+Il ricordo di
+
+George Washington
+
+Fu sepolto con le dovute cerimonie
+
+Sul
+
+19 ottobre 1847
+
+L'anniversario della resa
+
+Lord Cornwallis
+
+A generale Washington a Yorktown
+
+A. D. 1781
+
+Sotto gli auspici di…
+
+Associazione del Monumento a Washington
+
+la città di [[settings/new-york|New York]]
+
+
+
+Questa, così come la presento, è una traduzione letterale fatta da Pundit.
+
+“Lui stesso, quindi non può esserci alcun dubbio al riguardo. Da poche parole…”
+
+Così conservati, possiamo trarre diverse informazioni importanti.
+
+Uno degli aspetti meno interessanti è il fatto che mille…
+
+Molti anni fa, i monumenti reali erano ormai in disuso… tutto era cambiato.
+
+Gli uomini che si accontentano, come facciamo noi ora…
+
+Solo un indizio del progetto di erigere un monumento in futuro…
+
+[[motifs/time|Tempo]]; come se un pilastro fondamentale venisse posato con cautela, da solo, in solitudine.
+
+“e da solo” (scusate se cito il grande poeta americano)
+
+“Benton!”, come garanzia di intenzioni generose… Noi.
+
+Si può anche stabilire, in modo molto chiaro, a partire da questa ammirevole [[forms/inscription|iscrizione]],
+
+Il “come”, il “dove” e il “cosa” della grande resa.
+
+Il luogo in questione… Per quanto riguarda il dove, era Yorktown… ovunque esso si trovi.
+
+Era lui. E per quanto riguarda “chi”, era il generale Cornwallis (nessun [[concepts/doubt|dubbio]] al riguardo).
+
+Un ricco commerciante di mais. Fu consegnato alle autorità. L’[[forms/inscription|iscrizione]].
+
+“Ricorda la resa di… di Lord Cornwallis.”
+
+L’unica domanda è: cosa potrebbero volere che quel selvaggio si arrendesse…
+
+Per… Ma quando ricordiamo che questi “selvaggi” erano senza dubbio…
+
+"Cannibali: si arriva alla conclusione che intendessero farlo..."
+
+Per la salsiccia… Per quanto riguarda i dettagli della resa, nessuna parola può descriverlo.
+
+Più esplicito: Lord Cornwallis fu consegnato… in cambio di salsicce
+
+Sotto gli auspici dell’Associazione del Monumento a Washington—no
+
+[[concepts/doubt|Dubbi]] riguardo all’idoneità di un’istituzione di beneficenza per il deposito.
+
+“Pietre angolari… Ma, per l’amor del cielo, che cosa succede? Ah…”
+
+Il pallone si è sgonfiato… e ora cadremo giù!
+
+Il mare. Pertanto, ho soltanto abbastanza [[motifs/time|tempo]] per aggiungere che, da un certo punto di vista.
+
+Rapida ispezione delle copie di giornali, ecc.
+
+Titolo:  
+Si scoprì che i grandi uomini di quei tempi tra gli americani erano…
+
+C'era un certo John, un artigiano, e un certo Zacchary, un sarto.
+
+
+
+Addio, fino a quando non ci rivedremo… Chissà se riceverete mai questa lettera.
+
+“O sì o no ha poca importanza, poiché scrivo soltanto per…”
+
+Per il mio stesso divertimento… Comunque, sigillerò il manoscritto in una bottiglia.
+
+E gettatelo in mare.
+
+
+
+Per sempre tuo,
+
+PUNDITA.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Mellonta Tauta (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/home,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,form/translation,character/buckingham,character/edgar"></span>

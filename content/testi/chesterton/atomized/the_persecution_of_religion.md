@@ -177,6 +177,111 @@ in being divine.  For some of us it is fixed by a divine humanity,
 and even by a divine [[archetypes/child|child]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La Persecuzione della Religione
+
+La Persecuzione della Religione
+
+di G. K. Chesterton, Illustrated [[settings/london|London]] News, 8 marzo 1924
+
+(Fonte: G. K. Chesterton, Collected Works, Volume xxxiii,
+The Illustrated [[settings/london|London]] News 1923-1925, Ignatius Press, 1990, pp. 286-290)
+
+I più di noi provano qualcosa di piuttosto sconcertante, per non dire allarmante,
+riguardo al caso dell'uomo che fu rinchiuso in un manicomio per
+otto anni per il fatto di essere religioso, o per aver preso un ragionevole interesse
+alla parola "parallelogramma" e all'idea della fine del mondo.
+Della persecuzione della scienza da parte della religione sentiamo parlare
+parecchio, e assai più di quanto sia storicamente esatto.
+Ma, in ogni caso, essa è [[motifs/well|praticamente]] giunta al termine.  La persecuzione
+della religione da parte della scienza è, relativamente, forse solo cominciata;
+ma è già all'opera, in chissà quanti oscuri
+casi di pedanteria e crudeltà.  I mistici saranno assai probabilmente
+i martiri quando gli psicologi diverranno i re.
+Ma vi è implicato un [[concepts/paradox|paradosso]] ancora più singolare.
+Non è soltanto che qualunque cosa religiosa possa essere perseguitata con la scusa
+che non è razionale.  È anche che qualunque cosa irrazionale
+può essere tollerata purché sia anche irreligiosa.  È soltanto
+follia affermare la religione; non è più follia negare la ragione.
+Se lo fosse, tutti i professori di pragmatismo verrebbero rinchiusi.
+Gli stessi episodi di questo caso ne offrono un'illustrazione.
+Un uomo può essere presentato come pazzo e come uno che fa un mistico
+[[forms/riddle|indovinello]] della parola "parallelogramma." Ma un uomo non è considerato
+pazzo perché dice che le rette parallele si incontrano sempre.
+I nostri padri l'avrebbero chiamato un vero e proprio pazzo furioso;
+uno che nega l'evidenza [[concepts/self|di sé stessa]] e pronuncia una contraddizione in termini.
+Noi lo chiamiamo soltanto un matematico della nuova scuola
+della relatività o della quarta dimensione.  L'uomo che disse:
+"Due più due possono fare cinque nelle [[motifs/stars|stelle]] fisse" era un lunatico;
+e non meno lunatico per il fatto di essere un letterato.  Ammetto volentieri
+che gli uomini di scienza non hanno il monopolio di questo cedimento mentale.
+Ma di certo l'uomo che poteva parlare come se le [[motifs/stars|stelle]] fossero fisse,
+e i numeri non fissi, [[concepts/suffering|soffriva]] di un completo cedimento mentale.
+Non è nemmeno lontanamente folle aspettarsi che la fine del mondo giunga
+presto quanto aspettarsi che il Superuomo giunga presto.  Eppure quanti solerti
+evoluzionisti ai nostri [[motifs/time|tempi]] hanno scritto gravemente come se il Superuomo
+fosse da attendersi la settimana prossima!  Le cose giungono a una fine;
+e una cosa progettata viene generalmente riesaminata dal progettista quando
+è giunta alla fine.  Un uomo che pianta un cespuglio di rododendro lo vede
+fiorire e appassire e si pronuncia sull'esperimento; e non
+vi è nulla di irrazionale in un giorno del giudizio, presupposto un disegno.
+Ma non vi è nulla al mondo che mostri che un rododendro,
+tutto da sé, spunterà in un super-rododendro di tutti i colori
+dell'arcobaleno, per il solo fatto che quella sarebbe una pianta superiore.
+Il Superuomo era semplicemente e unicamente un [[characters/phantom|fantasma]] evocato dal vuoto
+dall'[[concepts/imagination|immaginazione]] di un lunatico; un lunatico del tutto letterale di nome Nietzsche.
+Eppure quanto vivida divenne quella visione del tutto irragionevole per molti della nostra
+vacillante e debole generazione!  E la cosa più strana di tutte
+è che furono alcuni tra i migliori cervelli a essere così stregati.
+Anch'essi hanno la loro parola "parallelogramma", come la benedetta parola
+"Mesopotamia"; ma, mentre pochi soldati desiderano tornare in Mesopotamia,
+vi sono evidentemente saggi che desiderano tornare a Matusalemme.
+
+Non ho quasi bisogno di dire che non sto sostenendo che al signor Bernard [[works/shaw-(chesterton)|Shaw]] manchi una tegola; sto soltanto rilevando che vi sono assai più tegole sconnesse sulla Hall of Science che sulla chiesa parrocchiale, o perfino sulla cappella del revivalista. Al contrario, è mio [[motifs/desire|desiderio]], qui, di penetrare oltre le stranezze superficiali dell'esperimento drammatico del signor [[works/shaw-(chesterton)|Shaw]], e di considerare se l'idea in sé sia di fatto tanto sensata quanto è certamente seria. Il signor [[works/shaw-(chesterton)|Shaw]] ha sofferto, come oggetto di critica, per opera di due classi di critici. I primi sono coloro che dicono di non sapere cosa egli intenda, e reputano necessario dedurne che non intende nulla. I secondi sono coloro che credono di sapere cosa egli intenda, e reputano necessario concordarvi. Poche persone sembrano vedere che è del tutto possibile comprenderlo assai pienamente e dissentirne del tutto. Ma, in verità, è solo prendendolo sul serio che si può dissentirne sul serio. L'uomo che dice che la commedia di [[works/shaw-(chesterton)|Shaw]] è tutta un'assurdità presta in realtà prezioso sostegno all'uomo che dice che è tutta sensata. Confessando la propria incapacità di ricavarne alcunché, si preclude la possibilità di discutere con l'uomo che ne ricava tutto. È come uno che difendesse il [[historical-references/christianity|Cristianesimo]] contro la "Vie de Jésus" di Renan dicendo che ringraziava Dio di non saper leggere quel gergo. Oppure è come uno che rispondesse a una dettagliata denuncia politica dicendo che quel tale farfugliava troppo in fretta perché egli potesse seguirlo. Sarebbe impossibile rendere un omaggio più completo alla [[concepts/truth|verità]] di una filosofia che dire che nessuno la comprende salvo le poche persone che l'hanno trovata vera. Sarebbe impossibile rendere al signor [[works/shaw-(chesterton)|Shaw]] un complimento più completo che suggerire ch'egli mistifica gli stupidi e convince i saggi. Eppure è esattamente l'impressione che necessariamente si lascia limitandosi a sogghignare sull'eccentricità o sulla stravaganza o sulla straordinaria lunghezza o su qualunque altro tratto fantastico ma meramente esteriore di una commedia come "Torniamo a Matusalemme". Ho pertanto sempre cercato di fare, nelle mie critiche, ciò che il signor [[works/shaw-(chesterton)|Shaw]] stesso fa nelle prefazioni, e di discutere la dottrina che è la spina dorsale dell'intera faccenda. Poiché il signor Bernard [[works/shaw-(chesterton)|Shaw]], fra tutti gli uomini del mondo, [[motifs/leaves|lascia]] ai critici il minor diritto di dire che non sanno cosa egli intenda; ché lo spiega minuziosamente in anticipo. Solo fra i più fantastici favolisti, egli non solo adorna la [[forms/fable|favola]] con la morale, ma mette addirittura la morale prima della [[forms/fable|favola]].
+
+La prefazione a questa particolare commedia tratta anzitutto un punto più particolare, sul quale il signor [[works/shaw-(chesterton)|Shaw]] mi pare provi completamente la sua tesi. Ossia che la versione darwiniana dell'evoluzione, nel senso più enfatico dell'espressione, non somiglia alla vita. È impossibile credere che la vita sia stata così completamente separata dalla volontà come è implicito nella nozione della selezione naturale che produrrebbe tutte le varietà della [[concepts/nature|natura]]. È fin troppo un fortuito concorso di [[motifs/animals|animali]] come un fortuito concorso di atomi. In tal senso, ogni capitolo dell'"Origine delle specie" può essere descritto con precisione come un capitolo di incidenti. La selezione naturale è la cosa più innaturale che possiamo concepire. È una coincidenza eterna. Ma non è soltanto che la selezione naturale non sia affatto naturale; il punto è tutto qui: che non è affatto selezione. Nessuno seleziona; e il nulla non può selezionare. Mi pare, nel senso più ampio e luminoso, cosa di buon senso dire che, se non vi era un chiaro disegno dall'alto, allora vi era qualche sorta di disegno dal basso; ed è del tutto possibile, s'intende, che vi fossero entrambi. Tutta questa parte preliminare della prefazione e dell'argomentazione è solida e su terreno saldo, perché ha a che fare con una teoria definita e adduce ragioni per differire dalla teoria. In altre parole, tenta di fare nel caso di Darwin ciò che io tento di fare nel caso di [[works/shaw-(chesterton)|Shaw]].
+
+L'idea del signor [[works/shaw-(chesterton)|Shaw]] non vuol essere insensata, ma è insensata;
+non come termine d'insulto, ma nel senso esatto in cui ho
+detto che le persone più assennate avrebbero chiamato insensato il moderno chiacchiericcio
+sul pragmatismo e sul parallelismo. Qualunque persona razionale,
+e specialmente qualunque persona razionale, l'avrebbe chiamato irrazionale.
+Qualunque scettico, da Lucrezio o Luciano fino a Hume e Huxley,
+avrebbe ritenuto assai più razionale dire che il mondo
+sarebbe finito entro cento anni, che dire che la vita
+di un uomo non sarebbe finita per trecento anni.
+La sola scala o portata delle profezie moderne sarebbe parsa
+del tutto squilibrata e sconcertante a tutte le filosofie della
+[[concepts/history|storia]] civile. Credo che avrebbero ragione; ma non semplicemente
+per qualcosa di esteriormente stravagante nella scala o nella portata.
+Ciò che è innaturale in questa filosofia è che non vuole accettare
+l'unica norma che possa mai ottenere: quella che Aristotele chiamava la misura
+di tutte le cose. Un'umanità buona e felice è, umanamente parlando,
+l'idea con cui saggiamo le idee politiche e sociali; è un banco di prova;
+è in tal senso l'ideale. Questa religione futurista non vuole accettarla
+come norma, e va a caccia di una nuova norma che non
+potrà mai trovare. Non potrà mai trovarla perché non potrà mai fissarla.
+È ovvio, s'intende, che un ideale permanente è assolutamente
+necessario a qualcosa come il progresso o la [[concepts/reform|riforma]]. Non si può [[concepts/reform|riformare]]
+ciò che è eternamente informe; e non si può marciare verso ciò che è
+sempre in movimento. A che serve al progressista assicurarsi
+che i figli del futuro avranno stivali migliori,
+quando il [[archetypes/prophet|profeta]] già va dicendo che non avranno piedi?
+Può parere un paragone folle dire che i bambini non avranno piedi.
+Ma non è nemmeno la metà tanto folle quanto dire che la gente non avrà bambini.
+E in effetti è una parte di questo schema futurista che la nuova
+generazione nascerà matura, senza passare attraverso l'[[motifs/childhood|infanzia]].
+Questo è un ottimo modello di lavoro dell'intera questione.
+Per noi un mondo senza bambini non sarebbe un mondo migliore,
+ma un mondo assai peggiore. Non sarebbe un'impossibile Utopia,
+ma semplicemente un intollerabile incubo. E ciò semplicemente perché
+abbiamo tenuto in vista ciò che i lunatici dell'evoluzione hanno perso di vista:
+che non vi può essere nulla di più ideale dell'ideale; e l'unica cosa
+che tocchi l'umanità come ideale è quella che è pienamente umana
+in quanto divina. Per alcuni di noi essa è fissata da una divina umanità,
+e persino da un divino [[archetypes/child|Bambino]].
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The_Persecution_of_Religion (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/stars,motif/time,motif/well,concept/imagination,concept/paradox,concept/self,concept/suffering,form/riddle,setting/london,character/phantom"></span>

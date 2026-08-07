@@ -38,7 +38,7 @@ Ere I have thanked my God for all the grass.
 
 Eternità  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 Non so contare i ciottoli nel ruscello.  
 [[motifs/well|Bene]] Egli ha parlato: "Non giurare sul tuo capo.  

@@ -1492,6 +1492,1484 @@ _Printed in Great Britain by_ THE FIELD & [[characters/queen|QUEEN]] (HORACE COX
 _Bream's Buildings, [[settings/london|London]], E.C. 4_.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prodotto da Irma Spehar e dall'Online Distributed
+
+Proofreading Team all'indirizzo http://www.pgdp.net (Questo file è stato
+
+prodotto da immagini generosamente rese disponibili da The
+
+Internet Archive/Canadian Libraries)
+
+LORD KITCHENER
+
+DI
+
+G. K. CHESTERTON
+
+[[settings/london|LONDRA]]
+
+1917
+
+[Illustrazione: LORD KITCHENER
+
+Di G. K. Chesterton
+
+_Foto di Elliott & Fry, Ltd., [[settings/london|Londra]]._]
+
+LORD KITCHENER
+
+[[characters/horatio|Horatio]] Herbert Kitchener era irlandese di nascita ma inglese di
+
+stirpe, essendo nato nella Contea di Kerry, figlio di un colonnello inglese.
+
+Il fantasioso potrebbe scorgere in questo primo e accidentale fatto la presenza
+
+di quest'uomo semplice e pratico in mezzo ai più mistici problemi occidentali
+
+e ai [[motifs/dreams|sogni]] che erano assai lontani dalla sua mente, un elemento
+
+che si aggrappa a tutta la sua carriera e le conferisce una poesia inconsapevole. Egli
+
+aveva molte qualità dell'[[archetypes/hero|eroe]] [[forms/epic|epico]], e specialmente questa--che era
+
+l'ultimo uomo al mondo a poter essere il poeta [[forms/epic|epico]]. V'è qualcosa
+
+di quasi provocatorio per la superstizione nel modo in cui egli sta
+
+a ogni svolta come il simbolo delle prove particolari e della moderna
+
+trasfigurazione dell'Inghilterra; da questo istante in cui nacque tra
+
+i contadini d'Irlanda all'istante in cui morì sul mare,
+
+cercando all'altro capo del mondo l'altra grande civiltà
+
+contadina della [[settings/russia|Russia]]. Eppure in ciascuno di questi istanti simbolici egli è,
+
+se non inconsapevole come un simbolo, almeno silenzioso come un simbolo; è
+
+muto e supremamente significativo, come un'insegna o una [[motifs/flag|bandiera]]. La
+
+superficiale pittoresca della sua vita, almeno, sta in gran parte in
+
+questo--che egli era come un [[archetypes/hero|eroe]] condannato dal fato a recitare un'[[forms/allegory|allegoria]].
+
+Lo troviamo, per esempio, in uno dei primissimi e forse uno
+
+dei più pittoreschi di tutti i fatti che si raccontano o si riferiscono
+
+di lui. Da giovane, alto, molto timido e quieto, si distingueva solo per
+
+interessi intellettuali del genere più sobrio e metodico,
+
+specialmente per lo studio approfondito della matematica. Anche questo,
+
+per inciso, era abbastanza tipico, poiché il suo lavoro in [[settings/egypt|Egitto]] e nel
+
+Sudan, su cui si fondò la sua fama, si basava interamente su tali
+
+calcoli. Non era meramente matematico ma letteralmente
+
+geometrico. Il suo lavoro stava a quello di Gordon come un rigido
+
+diagramma matematico sta al rozzo [[forms/sketch|schizzo]] a matita su cui esso è
+
+fondato. Eppure lo studente così piegato sul lato più rigoroso della sua
+
+professione, studiandola a Woolwich ed entrando nel Genio come il
+
+ramo più severamente scientifico dell'esercito, ebbe come prima esperienza
+
+di guerra qualcosa di così romantico da essere ritenuto incredibile, eppure
+
+qualcosa di così pertinente alla grande realtà di oggi che avrebbe potuto
+
+essere inventato secoli dopo la sua [[motifs/death|morte]], come si inventa un mito
+
+attorno a un dio. Si trovò per caso in Francia nell'ora più tragica che
+
+la Francia abbia mai conosciuto o, piaccia a Dio, mai conoscerà. Ella portava
+
+da sola il peso di quella tirannia straniera, di quella violenza disperata e quasi
+
+esanime, che le altre nazioni hanno poi scoperto essere il
+
+peggiore di tutti i terrori che Dio tollera in questo mondo. Ella pigiò
+
+quel torchio da sola; e tra i popoli non ve n'era alcuno ad aiutarla.
+
+Nel 1870 il Prussiano aveva già accerchiato [[settings/paris|Parigi]], e il generale Chanzy
+
+combatteva contro enormi disparità per spingersi a nord in suo soccorso,
+
+quando al suo esercito si unì il giovane e silenzioso viaggiatore
+
+d'Inghilterra. Tutto ciò che era nella mente o nei moventi di Kitchener forse
+
+non si saprà mai. La Francia era ancora una sorta di ideale di civiltà
+
+per molti dei più generosi gentiluomini inglesi. La Prussia non fu mai davvero
+
+un ideale per nessuno, nemmeno per i Prussiani, e il mero successo, che
+
+non poteva farne un ideale, non ne aveva ancora calamitosamente fatto un
+
+modello. V'era in ciò anche, senza [[concepts/doubt|dubbio]], un tocco dello scolaro che
+
+scappa per andare in mare--quel tocco dello scolaro senza il senso del
+
+quale il più posato degli Inglesi resterà sempre inspiegabile. Ma
+
+considerato storicamente c'è qualcosa di stranamente commovente in quell'
+
+episodio--il fatto che Kitchener fu un soldato francese quasi prima
+
+di essere inglese. Come Annibale fu consacrato nella fanciullezza alla guerra
+
+contro le aquile di Roma, Kitchener fu consacrato, quasi nella
+
+fanciullezza, alla guerra contro le aquile della [[settings/germany|Germania]]. Il Romanzesco venne a questo
+
+realista, per impulso o per caso, come un [[motifs/wind|vento]] dal di fuori,
+
+come il primo [[motifs/love|amore]] viene al misogino. Egli era già, sia per
+
+fato che per scelta, qualcosa di più di quanto avesse inteso essere. Il
+
+matematico, potremmo quasi dire il ragazzo calcolatore, stava già
+
+giocando d'azzardo nella più alta lotteria che conduceva alla più alta e più
+
+storica perdita. L'ingegnere devoto alla disciplina era già una lancia
+
+libera, perché già un cavaliere errante.
+
+Tornò in Inghilterra a proseguire il suo ordine di avanzamento relativamente
+
+monotono; e il richiamo successivo che gli giunse fu di specie stranamente
+
+diversa eppure anche stranamente significativa. Il Palestine
+
+Exploration Fund lo inviò con un altro ufficiale a condurre
+
+indagini topografiche e antiquarie in un paese dove
+
+gli sforzi pratici si stagliano sempre contro uno sfondo curiosamente
+
+incongruo--come se si piantassero pali del telegrafo
+
+attraverso il [[motifs/garden|Giardino]] dell'Eden o si aprisse una stazione ferroviaria alla Nuova
+
+Gerusalemme. Ma il contrasto tra antichità e modernità non era
+
+il solo; v'era ancora quel genere di contrasto che può farsi
+
+collisione. Kitchener stava quasi subito per venire a contatto con
+
+ciò che sarebbe stato, sotto vari aspetti, il problema della sua vita--i
+
+fanatismi moderni del Vicino Oriente. C'è un proverbio inglese che
+
+chiede se sia la montagna ad andare da Maometto o lui alla montagna, e
+
+può essere una questione se la sua religione sia la causa o l'effetto
+
+di un certo spirito, vivido eppure stranamente negativo, che dimora in
+
+simili deserti. Camminando tra gli olivi di Gaza o guardando la
+
+pianura filistea, tali viaggiatori possono [[motifs/well|ben]] sentire di calpestare
+
+vulcani freddi, vuoti come le [[settings/mountains|montagne]] della [[motifs/moon|luna]]. Ma la
+
+montagna di Maometto non è ancora un vulcano spento.
+
+Kitchener, in questi primi giorni di compiti apparentemente miti e minuti,
+
+ne fu presto consapevole. A Safed, sulle colline della Galilea, il suo piccolo
+
+drappello si trovò circondato da una folla araba, colpita d'improvviso
+
+da una follia di emozioni inintelligibili alle folle politiche dell'Occidente. Egli
+
+fu esso stesso ferito, ma, difendendosi come meglio poteva con un
+
+bastone da passeggio, non solo salvò la propria vita ma quella del suo
+
+collega ufficiale, il tenente Conder, che era stato atterrato
+
+con una clava araba. Continuò in verità il suo lavoro con prosaica
+
+pertinacia, e sviluppò nel rilevamento della Terra Santa tutto quell'
+
+entusiasmo quasi segreto per il dettaglio che gli durò tutta la vita. Della
+
+più famosa guida inglese fece la caratteristica osservazione,
+
+"Dove Murray ha sette nomi io ne ho centosedici." La maggior parte degli uomini,
+
+parlando o scrivendo di una tal cosa, avrebbe certamente detto "un
+
+centinaio." È caratteristico del suo tipo che egli non pensasse nemmeno
+
+in cifre tonde. Ma v'era in lui, parallela a questa quasi
+
+aritmetica passione, un'altra qualità che è, in un [[topoi/double|duplice]] senso, il
+
+segreto della sua vita. Poiché fu la causa di almeno metà del suo successo;
+
+eppure egli la celò con gran successo--specialmente ai suoi
+
+ammiratori.
+
+Il [[concepts/paradox|paradosso]] di tutta questa parte della sua vita sta in questo--che, destinato
+
+com'era a essere il più grande nemico del Maomettanesimo, era del tutto
+
+eccezionalmente un amico dei Maomettani. Era stato dapprima ricevuto in
+
+quella terra, per così dire, con un colpo di clava sulla testa; era
+
+destinato a spezzare la spada dell'ultimo conquistatore arabo, a devastare la sua
+
+sacra [[motifs/city|città]] e a trattare tutte le sue tradizioni religiose con una
+
+deliberata profanazione che è stata spesso giudicata oppressiva e fu
+
+indubbiamente spietata. Eppure con il singolo Musulmano egli aveva una sorta di
+
+naturale fratellanza che non è mai stata spiegata. Fosse stata mostrata
+
+da un soldato delle [[historical-references/crusades|Crociate]], si sarebbe chiamata stregoneria. In
+
+questo, come in molti altri casi, l'avanzata di un più ampio illuminismo
+
+ci impedisce di chiamarla in alcun modo. V'era mescolata a essa, senza
+
+[[concepts/doubt|dubbio]], la profonda ammirazione musulmana per la mera virilità, che ha
+
+probabilmente, con la sua esagerazione, consentito la subordinazione musulmana delle
+
+donne. Ma Kitchener (che era esso stesso accusato, a torto o a ragione, di
+
+un disdegno per le donne) deve aver contribuito di suo qualche altro elemento
+
+alla più strana delle simpatie internazionali. Qualunque cosa fosse, va
+
+costantemente tenuta a mente come parallela alla sua scientifica
+
+industriosità e precisione; poiché furono questi due poteri, usati
+
+sistematicamente per molti anni prima dell'evento, a preparare il
+
+terreno per l'abbattimento di quel selvaggio papato e vagabondo impero
+
+che così a lungo pendette nel [[motifs/desert|deserto]], come un miraggio a sviare e a
+
+distruggere.
+
+Kitchener fu chiamato altrove nel 1878 a simili compiti di rilevamento a
+
+Cipro, e in seguito in Anatolia, dove la medesima facoltà gli ottenne
+
+un _firman_, che lo rendeva sicuro in tutte le Città Sante dell'[[historical-references/islam|Islam]]. Egli
+
+trattò anche molto con i fuggiaschi turchi in fuga dai cannoni russi
+
+verso Erzerum--dove, tanto tempo dopo, i cannoni avrebbero fatto seguito. Ma
+
+è con il suo più tardo richiamo in [[settings/egypt|Egitto]] che sentiamo essere egli tornato al
+
+teatro delle grandi cose della sua vita. Non è necessario in
+
+questo rozzo [[forms/sketch|schizzo]] discutere i torti e le ragioni o la generale
+
+origine internazionale dell'occupazione britannica dell'[[settings/egypt|Egitto]]; il grado di
+
+lode o di biasimo da attribuire al Chedivè, che era il sovrano nominale,
+
+o ad Arabi, il capo Nazionalista, che per un [[motifs/time|tempo]] afferrò il potere
+
+supremo al suo posto. I servigi di Kitchener nelle operazioni con cui
+
+Arabi fu sconfitto si limitarono a qualche lavoro di ricognizione
+
+immediatamente precedente il bombardamento di Alessandria; e il problema
+
+con cui la sua stessa personalità si identificò non fu quello del
+
+Governo dell'[[settings/egypt|Egitto]], ma del potere più barbarico al di là, dal quale
+
+l'[[settings/egypt|Egitto]], e ogni potenza che lo governasse, veniva sempre più minacciato.
+
+E ciò che lo fece rapidamente avanzare a posti di reale responsabilità nella
+
+nuova politica del paese fu la conoscenza che già aveva di uomini più
+
+selvaggi e di forze più misteriose di quante se ne potessero trovare nelle corti egiziane
+
+o persino negli accampamenti egiziani. Era la combinazione, di cui abbiamo
+
+già parlato, di esperienza minuziosa e di simpatia quasi eccentrica.
+
+In pratica era la sua conoscenza dell'arabo, e ancor più la sua
+
+conoscenza degli Arabi.
+
+V'è nell'[[historical-references/islam|Islam]] un [[concepts/paradox|paradosso]] che è forse una minaccia permanente. Il
+
+grande credo nato nel [[motifs/desert|deserto]] crea una sorta di estasi dalla
+
+stessa vacuità della propria terra, e persino, si può dire, dalla
+
+vacuità della propria teologia. Afferma, con non poca sublimità,
+
+qualcosa che non è meramente l'unicità ma piuttosto la [[concepts/solitude|solitudine]] di
+
+Dio. V'è la medesima estrema semplificazione nella figura solitaria
+
+del [[archetypes/prophet|Profeta]]; eppure questo isolamento reagisce perpetuamente nel proprio
+
+opposto. Un vuoto si crea nel cuore dell'[[historical-references/islam|Islam]] che deve essere riempito
+
+di nuovo e ancora da una mera ripetizione della rivoluzione che lo fondò
+
+esso. Non vi sono sacramenti; l'unica cosa che può accadere è una sorta
+
+di [[concepts/apocalypse|apocalisse]], unica come la fine del mondo; e così l'[[concepts/apocalypse|apocalisse]]
+
+può solo ripetersi e il mondo finire di nuovo e ancora. Non vi sono
+
+sacerdoti; eppure questa uguaglianza non può che generare una moltitudine di profeti
+
+senza legge quasi numerosi come sacerdoti. Lo stesso dogma che v'è
+
+un solo Maometto produce un'interminabile processione di Maometti. Di questi
+
+il più possente in tempi moderni fu l'uomo il cui nome era Ahmed, e
+
+il cui titolo più famoso era il Mahdi; e il suo più feroce
+
+successore Abdullahi, che era generalmente noto come il Califfo. Questi
+
+grandi fanatici, o grandi creatori di [[concepts/fanaticism|fanatismo]], riuscirono a fabbricare un
+
+militarismo quasi tanto famoso e formidabile quanto quello dell'Impero
+
+turco, sulle cui frontiere esso aleggiava, e a diffondere un regno di
+
+terrore quale di rado può essere organizzato se non dalla civiltà. Con
+
+napoleonica repentinità e successo le orde mahdiste erano piombate sull'
+
+esercito di Hicks Pascià, quando lasciò il suo campo a Omdurman, sul Nilo
+
+di fronte a Khartum, e lo avevano fatto a pezzi in una maniera incredibile.
+
+Avevano fondato a Omdurman la loro Sacra [[motifs/city|Città]], la Roma del loro
+
+nomade Impero Romano. Verso quel terribile luogo molti uomini
+
+avventurosi, come il povero Hicks, erano andati ed erano destinati ad andare. Le sabbie che
+
+lo cingevano erano come quell'ingresso alla caverna del [[motifs/lion|leone]] nella
+
+[[forms/fable|favola]], verso cui molte orme puntavano, e da cui nessuna
+
+tornava.
+
+L'ultimo di questi fu Gordon, quella figura romantica e persino eccentrica
+
+di cui tanto si potrebbe dire. Forse la cosa più essenziale da dire
+
+di lui qui è che la fortuna giocò ancora una volta all'[[archetypes/artist|Artista]] nell'inviare
+
+un tal uomo, insieme come guida e come araldo di un uomo come
+
+Kitchener; a mostrare la via e a preparare l'occasione; a essere un sacrificio
+
+e un segnale di vendetta. Qualunque altra cosa vi fosse in Gordon,
+
+v'era in lui l'aria non solo di un [[archetypes/hero|eroe]], ma dell'[[archetypes/hero|eroe]] di una
+
+[[forms/tragedy|tragedia]]. Qualcosa di orientale nel suo stesso misticismo, qualcosa che i più tra
+
+i suoi connazionali avrebbero chiamato fantasticheria, qualcosa di perverso nel suo
+
+[[concepts/courage|coraggio]], qualcosa di infantile e bello in quella perversità, lo segnavano
+
+come l'uomo che cammina verso la rovina--l'uomo che in cento poemi
+
+o favole sale a una [[motifs/city|città]] per esservi crocifisso. Era andato a Khartum
+
+a disporre il ritiro delle truppe dal Sudan, avendo il
+
+Governo deciso, se possibile, di vivere in pace con la nuova
+
+dittatura mahdista; e attraversò i deserti quasi tanto
+
+solitario come un uccello, in un [[motifs/journey|viaggio]] solitario come la sua fine. Fu tagliato fuori
+
+e assediato a Khartum dagli eserciti mahdisti, e cadde con la
+
+[[motifs/city|città]] che cadeva. Molto prima della sua fine era stato in contatto con Kitchener,
+
+ora del Dipartimento di Intelligence egiziano, che tesseva con gran
+
+cura una vasta rete di diplomazia e strategia in cui gli uccisori di
+
+Gordon dovevano infine essere presi.
+
+Un [[motifs/well|ben]] noto giornalista inglese, Bennet Burleigh, vagando presso
+
+Dongola, cadde in conversazione con un Arabo che parlava un ottimo
+
+inglese, e che, con un'ospitalità assai impropria in un Musulmano,
+
+produsse due bottiglie di chiaretto per il suo intrattenimento. Il nome di questo
+
+Arabo era Kitchener; e le due bottiglie erano tutto ciò che aveva. Il
+
+giornalista ottenne, insieme al chiaretto, il suo primo scorcio dei
+
+grandi e straordinari disegni con cui Kitchener già stava
+
+operando per vendicare il compagno caduto a Khartum. Questa parte del
+
+lavoro era personale quanto quella di un [[archetypes/detective|investigatore]] privato che trama
+
+contro un assassino privato in un moderno racconto [[archetypes/detective|poliziesco]]. Kitchener aveva
+
+imparato a parlare la lingua araba non solo speditamente ma socievolmente. Indossava
+
+l'abito arabo e assumeva il tipo arabo di cortesia così efficacemente
+
+che persino i suoi azzurri occhi nordici non lo tradivano. Soprattutto, egli
+
+simpatizzava con il carattere arabo; e in mille luoghi
+
+sparsi sulla carta dell'Africa nord-orientale si fece amici
+
+per sé e quindi nemici per il Mahdi. Questo fu il primo e
+
+superficialmente il più individuale dei convergenti piani che dovevano
+
+dare scacco matto all'impero del [[motifs/desert|deserto]]; e i suoi effetti furono di
+
+vastissima portata. Di nuovo e ancora, negli anni successivi, quando i
+
+missionari della religione mahdista spingevano verso nord, si trovavano
+
+impigliati fra tribù che la potenza inglese aveva non tanto
+
+conquistato quanto convertito. La leggenda del grande [[archetypes/prophet|Profeta]]
+
+incontrava qualcosa di più elusivo delle leggi o dei piani militari; essa
+
+incontrava un'altra leggenda--un'influenza che portava anch'essa gli echi
+
+della voce di un uomo. Gli Arabi Ababdeh, si diceva, facevano una catena
+
+attraverso il [[motifs/desert|deserto]], che la nuova e tremenda [[concepts/faith|Fede]] non poteva varcare. Il
+
+Mudir di Dongola era sul punto di unirsi al sempre vittorioso
+
+[[archetypes/prophet|Profeta]] di Omdurman. Kitchener, vestito da Arabo, uscì quasi solo
+
+per parlare con lui. Cosa passò, forse, non potremo mai dirlo; ma
+
+prima ancora che il suo ospite lo avesse lasciato il Mudir volò alle armi, piombò sulle
+
+schiere del [[archetypes/prophet|Profeta]] a Korti, e le cacciò davanti a sé.
+
+Il secondo e superficialmente più solido processo di preparazione è assai
+
+meglio noto. Fu l'[[concepts/education|educazione]] dell'esercito egiziano nativo. Non è
+
+necessario [[motifs/swallow|ingoiare]] tutto il naturale sciovinismo del giornalismo
+
+inglese per vedere qualcosa di veramente storico nell'opera dell'ufficiale
+
+inglese con i Fellahin, o razza nativa d'[[settings/egypt|Egitto]]. Per
+
+secoli essi erano giaciuti piatti come il limo del Nilo, e tutti i
+
+conquistatori nelle cronache degli uomini erano passati su di loro come un
+
+selciato. Pur professando lo sfidante credo dei Musulmani, essi
+
+sembrano aver raggiunto qualcosa come la pessimista pazienza degli
+
+Indù. Aver tramutato di nuovo questo limo in un umano [[motifs/river|fiume]], aver
+
+sollevato di nuovo questo selciato in un umano bastione o barricata,
+
+non è cosa da poco, né cosa che potesse in alcun modo compiersi neppure con
+
+la mera potenza, ancor meno con il mero denaro--e questo Kitchener e i suoi
+
+compagni inglesi certamente fecero. Deve esservi stato qualcosa di ben
+
+più di una mera cinica severità nell'"organizzazione" nell'uomo che lo
+
+fece. Deve esservi qualcosa di più di un mero buon senso commerciale
+
+nella nazione in nome della quale fu fatto. È abbastanza facile, con
+
+sufficiente ottusità e [[concepts/greed|avidità]] di dettaglio, "organizzare" qualsiasi cosa o
+
+chiunque. È abbastanza facile far obbedire la gente a un segnale di tromba (o alla sirena di una
+
+fabbrica) come i soldati prussiani obbediscono a una tromba. Ma non è una tal
+
+tromba a rendere possibile la [[concepts/resurrection|resurrezione]] dei morti.
+
+Il successo di questo secondo dei tre convergenti disegni di
+
+Kitchener, la creazione di un nuovo esercito egiziano, si vide presto nella
+
+spedizione contro Dongola. Era stato preannunciato in una vittoriosa
+
+difesa di Suakin, in cui Kitchener fu ferito; una difesa contro
+
+Osman Digna, forse il primo dei generali mahdisti le cui stesse
+
+roccaforti furono infine espugnate a Gemaizeh; e nella vittoria di
+
+Toski, dove cadde il grande guerriero Wad el Njume, la cui strategia aveva
+
+abbattuto sia Hicks che Gordon. Ma la svolta della marea fu
+
+Dongola. Nel 1892 il generale, ora Lord Grenfell, che era stato Sirdar, ossia
+
+Comandante in Capo dell'Esercito Egiziano, e aveva ordinato l'avanzata a
+
+Toski, si ritirò e lasciò vacante il suo posto. Il grande pubblico servitore
+
+noto più tardi come Lord Cromer aveva da tempo posato l'occhio su Kitchener e
+
+sulla parte che aveva avuto, già da giovane tenente, nella nuova
+
+formazione militare dei Fellahin. Fu ora posto a capo dell'
+
+intero nuovo esercito; e il primo compito che gli toccò fu di guidare la
+
+nuova spedizione. Tre giorni dopo che fu ricevuto l'ordine la forza
+
+partì al calar della sera e marciò verso sud nella [[motifs/night|notte]]. Il dettaglio
+
+è qualcosa di più che pittoresco; poiché su tutti i resoconti di quel
+
+formidabile attacco al potere del Mahdi una qualità d'oscurità posa
+
+come una specie di nube. Fu, per una cosa, un attacco a sorpresa e
+
+molto segreto, sicché la nube fu pratica come un mantello; ma fu
+
+anche il rientro in un territorio che un istinto ha spinto gli
+
+Inglesi a chiamare il Continente Nero persino sotto il suo fiammeggiante [[motifs/noon|Meriggio]]. Là
+
+le vaste distanze da sole facevano un velo come quello dell'oscurità, e là le
+
+vite di Gordon e Hicks e di centinaia d'altri erano state inghiottite in
+
+un antico [[motifs/silence|Silenzio]]. Forse non possiamo indovinare oggi, dopo il più freddo
+
+compimento dell'opera di Kitchener, cosa significasse per quelli che andarono in
+
+quella marcia notturna; che avanzarono furtivi in due linee, una lungo il [[motifs/river|fiume]]
+
+e l'altra lungo un binario ferroviario abbandonato, muovendosi attraverso la
+
+nera [[motifs/night|notte]]; e nella nera [[motifs/night|notte]] si accamparono, e attesero il
+
+sorgere della [[motifs/moon|luna]]. Comunque, il racconto che se ne fa colpisce questa nota,
+
+specialmente in un tocco di ciò che si può chiamare soltanto una terribile
+
+trivialità. Intendo il riferimento al nuovo rumore udito appena prima
+
+dell'alba, che rivelava la vicinanza del nemico: il tremendo tamburo dell'
+
+[[historical-references/islam|Islam]], che chiamava alla [[motifs/prayer|Preghiera]] un Dio tremendo--un Dio da non adorarsi
+
+con le mutevoli e talvolta liete note dell'arpa o dell'organo, ma
+
+solo con il tamburo che fa impazzire per mera ripetizione.
+
+Ma resta da considerare la terza delle linee d'approccio di Kitchener.
+
+L'attacco a sorpresa, che catturò il villaggio rivierasco di Firket,
+
+aveva alla fine condotto, malgrado tempeste che infierirono sull'avanzata come
+
+eserciti, e in un luogo praticamente annientarono una brigata, alla caduta
+
+della stessa Dongola. Ma Dongola non era l'alto luogo del nemico; non
+
+era là che Gordon morì o che Abdullahi era ancora vivo. Lontano
+
+su per l'oscuro [[motifs/river|fiume]] stavano le città gemelle della [[forms/tragedy|tragedia]], la [[motifs/city|città]]
+
+dell'assassinio e la [[motifs/city|città]] dell'assassino. Fu in relazione a questo
+
+fisso punto di fatto che il successivo procedere di Kitchener si vede essere
+
+supremamente caratteristico. Egli era tanto ansioso di fare una cosa che
+
+era cauto nel farla. Gli premeva più ottenere un successo
+
+che sembrare di meritarlo; non voleva una vittoria morale, ma una
+
+certezza matematica. Ben lungi dal far seguire lo slancio nel buio,
+
+su Firket o Dongola, con più romantici rischi, decise di non
+
+avanzare sull'esercito del Mahdi un minuto più veloce di quanto gli uomini potessero seguirlo
+
+costruendo una ferrovia. Creò dietro di sé una colossale via maestra di
+
+comunicazioni, spingendosi solo in lande dove non v'era e non v'era
+
+stata altra traccia o pista mortale. Il genio ingegneristico di
+
+Girouard, un Canadese, la progettò e la sviluppò con quella che fu,
+
+considerata la [[concepts/nature|natura]] del compito, brillante rapidità; ma secondo i
+
+parametri della guerra nel [[motifs/desert|deserto]] dev'essere sembrato che Kitchener e i suoi
+
+Inglesi facessero la guerra tanto lentamente quanto cresce l'erba o i frutteti danno frutto. I
+
+cavalieri d'Arabia, guizzando qua e là come rondini, devono aver sentito come
+
+se fossero minacciati dall'avanzata di una gigantesca lumaca. Ma era una
+
+lumaca che lasciava una scia lucente sconosciuta a quelle sabbie; poiché per la prima
+
+[[motifs/time|volta]] dal decadere di Roma qualcosa vi si stava facendo che poteva
+
+durare. L'effetto di questa crescente [[motifs/road|strada]], si potrebbe quasi dire questa
+
+vivente [[motifs/road|strada]], cominciò a farsi sentire. Mahmoud, il capo militare mahdista,
+
+ripiegò da Berber, e raccolse le sue schiere più strettamente attorno alla
+
+sacra [[motifs/city|città]] sul Nilo. Kitchener, compiendo un'altra marcia notturna [[motifs/night|notturna]] su per l'
+
+Atbara [[motifs/river|fiume]], assalì il campo arabo e prese prigioniero Mahmoud. Poi alla
+
+fine mosse definitivamente su per la sponda occidentale del Nilo e giunse in
+
+vista di Omdurman. È in certo modo una sproporzione soffermarsi sulla
+
+battaglia che seguì e sulla caduta della grande [[motifs/city|città]]. Il combattere era
+
+già stato fatto, e più della metà stava lavorando; combattere una
+
+lunga lotta contro i secoli, contro epoche d'accidia e il grande
+
+[[motifs/sleep|Sonno]] del [[motifs/desert|deserto]], dove non v'era stato altro che visioni, e
+
+contro un declino razziale che gli uomini avevano accettato come una condanna. La
+
+[[characters/sunday|Domenica]] seguente fu tenuto un servizio commemorativo per Charles Gordon nel
+
+luogo dove egli fu ucciso.
+
+Il fatto che Kitchener combattesse con le rotaie non meno che con i cannoni fissò piuttosto
+
+da questo [[motifs/time|tempo]] in avanti la veduta di moda sul suo carattere. Se ne
+
+parlava come se egli stesso fosse fatto di metallo, con una testa colma
+
+non solo di calcoli ma di meccanismi a orologeria. Ciò è simbolicamente
+
+vero, in quanto significa che egli era per temperamento ciò che era per
+
+mestiere, un ingegnere. Aveva conquistato il Mahdi, dove molti avevano fallito
+
+nel farlo. Ma ciò che aveva soprattutto conquistato era il [[motifs/desert|deserto]]--un grande
+
+e avido gigante. Portò il Cairo a Khartum; potremmo dire che egli
+
+portò con sé [[settings/london|Londra]] o Liverpool alle porte della strana [[motifs/city|città]]
+
+di Omdurman. Alcune parti della sua azione avvalorarono, anche deplorevolmente, la
+
+reputazione di rigidità. Ma se un qualche ammiratore avesse, in quest'ora di
+
+trionfo, fissato lo sguardo su di lui come su una sfinge di pietra d'inflessibile fato,
+
+quell'ammiratore sarebbe rimasto assai sconcertato dal successivo passo della
+
+sua vita. Kitchener era qualcosa di ben più di una [[motifs/machine|Macchina]]; poiché nella
+
+mente, non meno che nel [[concepts/body|corpo]], la flessibilità è ben più virile dell'
+
+inflessibilità.
+
+Una situazione si sviluppò quasi all'istante dopo la sua vittoria in cui egli
+
+doveva mostrare di essere un diplomatico [[motifs/well|oltre]] che un soldato. A
+
+Fashoda, un poco più su per il Nilo, egli trovò qualcosa di più
+
+sorprendente, e forse di più romantico, del più selvaggio derviscio delle
+
+solitudini del [[motifs/desert|deserto]]. Un ufficiale francese, e uno dei più valorosi e
+
+distinti ufficiali di Francia, il maggiore Marchand, era penetrato fino a
+
+quel luogo con la pertinacia di un grande esploratore, e sembrava
+
+pronto a tenerlo con tutta l'altruistica arroganza di un patriota. Si
+
+dice che il Francese non solo accolse Kitchener nel nome di
+
+Francia, ma lo invitò, con cortese ironia, a prender parte a
+
+verdure coltivate sul posto, simbolo di stabile occupazione. La
+
+storia, se è vera, è mirabilmente francese; poiché rivela a un tempo lo
+
+spirito e il contadino. Ma lo spirito dell'Inglese fu degnamente
+
+pari all'arguzia del Francese; ed era umore di quel genere sano
+
+che chiamiamo buon umore. Fogli politici nella pacifica Inghilterra e
+
+Francia farneticavano e sbraitavano sulla crisi, giornali responsabili urlavano
+
+di sciovinismo; ma per tutto ciò, fino al momento in cui i Francesi
+
+acconsentirono a ritirarsi, le due figure più conciliabili e persino socievoli erano
+
+i due arcigni viaggiatori e soldati tropicali che si fronteggiavano sulle
+
+roventi sabbie di Fashoda. Vedendoli fronteggiarsi, noi
+
+abbiamo di nuovo il vago senso di un segno o di una [[forms/parable|parabola]] che percorre
+
+questa storia. Poiché essi dovevano incontrarsi ancora molto tempo dopo come alleati,
+
+quando entrambi guidavano i loro connazionali contro il grande nemico nella
+
+Grande Guerra.
+
+Qualcosa della medesima [[archetypes/shadow|ombra]] di profezia è forse la più profonda [[motifs/memory|memoria]]
+
+lasciata dall'ultima guerra di Kitchener prima della più grande. Dopo ulteriori
+
+attività in [[settings/egypt|Egitto]] e nel Sudan, di cui il tentativo di educare
+
+i Fellahin col Gordon Memorial College fu il più notevole,
+
+egli fu bruscamente chiamato in Sudafrica a essere il braccio destro di Lord
+
+Roberts nella guerra allora combattuta contro i Boeri. Egli condusse
+
+l'apertura della determinante battaglia di Paardeberg, e fu tipicamente
+
+sistematico nel coprire il paese semiconquistato con un sistema di
+
+fortini e recinti come un diagramma di geometria. Ma oggi,
+
+e per molte ragioni, gli Inglesi penseranno anzitutto all'ultima scena di
+
+quella guerra. Quando Botha e i Generali boeri si arresero a Kitchener,
+
+vi fu la medesima buona volontà fra i soldati a contrasto con la
+
+malevolenza dei giornalisti. Anche Botha divenne quasi un amico; e
+
+anche Botha doveva essere in un lontano futuro un alleato, colpendo il Tedesco in
+
+Africa come Kitchener lo colpì in Europa. Vi fu il medesimo accenno di
+
+profezia nella guerra che finì a Vereeniging come in quell'altra
+
+guerra che per poco non cominciò a Fashoda. Pareva quasi come se Dio
+
+mettesse i suoi eroi l'uno contro l'altro in torneo, prima che tutti
+
+cavalcassero insieme contro i pagani che si riversavano su di loro dalla [[settings/germany|Germania]].
+
+È con quel nome di [[settings/germany|Germania]] che questo mero scheletro dei fatti
+
+deve finire. Dopo la Guerra sudafricana Kitchener era stato nominato
+
+Comandante in Capo in India, dove operò parecchi mutamenti vitali,
+
+notevolmente l'emancipazione di quella carica dal veto del Membro
+
+Militare del Consiglio del Viceré, e dove mostrò ancora una volta,
+
+nei suoi rapporti con i Sepoy, quell'oscura eppure potente simpatia
+
+col misterioso intelletto dell'Oriente. Di là era stato di nuovo
+
+spostato in [[settings/egypt|Egitto]]; ma il successivo richiamo che gli giunse inghiottì
+
+tutte queste cose. Poco [[motifs/time|tempo]] dopo che scoppiò la guerra con la [[settings/germany|Germania]] egli fu
+
+nominato Ministro della Guerra, e tenne quel posto fino all'oscura stagione in cui
+
+partì per una missione in [[settings/russia|Russia]], che non raggiunse mai la sua meta. Ma quando
+
+la sua [[motifs/ship|nave]] affondò egli aveva già compiuto un'opera e registrato un mutamento
+
+in Inghilterra, con alcune parole con cui questo [[forms/sketch|schizzo]] può [[motifs/well|ben]] concludersi.
+
+Attacchi giornalistici furono davvero mossi contro di lui, ma scrivendo per un
+
+lettore straniero li tralascio. In un tal luogo non dirò nemmeno del
+
+più meschino degli Inglesi ciò che essi non si vergognarono di dire di uno dei
+
+più grandi. Nella sua nuova opera egli non fu solo un uomo grandissimo, ma
+
+uno che trattava cose grandissime; e forse il suo momento più
+
+storico fu quando ruppe il suo consueto [[motifs/silence|Silenzio]] sulle più profonde
+
+emozioni della vita, e si fece portavoce dell'orrore nazionale per
+
+il modo tedesco di combattere, che egli dichiarò aver lasciato una macchia
+
+sull'intera professione delle armi. Poiché, con un moto insolitamente e
+
+inconsciamente drammatico, egli scelse quel momento per salutare attraverso il lungo
+
+tratto degli anni la relativa cavalleria e nobiltà dei suoi morti
+
+nemici del Sudan, e per annunciare che nel cuore d'Europa, in
+
+dotte accademie e ordinati uffici di governo, era apparsa una
+
+follia così crudele e immonda che il più folle derviscio morto nel
+
+[[motifs/desert|deserto]] aveva diritto a disdegnarla là dove giaceva.
+
+Kitchener, come altri Inglesi del suo tipo, si fece un nome fuori d'
+
+Inghilterra e persino fuori d'Europa. Ma fu in Inghilterra, e dopo il suo
+
+ritorno in Inghilterra, che egli fece ciò che forse renderà il suo nome più
+
+duraturo nella [[concepts/history|storia]]. Quel ritorno in Inghilterra fu davvero tanto simbolico quanto
+
+il suo ultimo e tragico [[motifs/journey|viaggio]] in [[settings/russia|Russia]]. Entrambi resteranno come simboli delle
+
+cose più profonde che muovono l'umanità nella Grande Guerra. In [[concepts/truth|verità]]
+
+l'intero di quel grande movimento europeo che chiamiamo la causa degli
+
+Alleati è in se stesso un [[motifs/journey|viaggio]] di ritorno a casa. È un ritorno a nativi
+
+e storici ideali, dopo un [[concepts/exile|esilio]] nell'urlante deserto del
+
+pessimismo e cinismo politico della Prussia. Dopo le sue grandi
+
+avventure in Africa e Asia, l'Inglese ha riscoperto
+
+l'Europa; e nell'atto stesso di scoprire l'Europa, l'Inglese ha
+
+infine scoperto l'Inghilterra. La rivelazione delle forze davvero ancora
+
+reperibili nella stessa Inghilterra, quando si è detto tutto ciò che si possa
+
+o plausibilmente dire contro il commercialismo e l'egoismo inglesi, fu
+
+l'ultima opera di Lord Kitchener. Egli fu l'incarnazione di un'enorme
+
+esperienza che è passata attraverso l'Imperialismo e ha raggiunto il
+
+patriottismo. Era stato la figura suprema di quella strana e
+
+dilagante Inghilterra che giace al di là dell'Inghilterra; che porta le abitudini
+
+dei club e degli alberghi inglesi nelle solitudini del Nilo o su per i
+
+passi dell'Himalaya, ed è infinitamente ignara di cose
+
+infinitamente più vicine a [[motifs/home|casa]]. Per questo tipo di Inglese il Cairo era più vicino
+
+di Calais. Eppure la figura tipica che associavamo a tali
+
+luoghi come il Cairo era destinata, prima di morire, a riaprire l'antica
+
+porta di Calais e a guidare in un modo nuovo e nobile il ritorno dell'
+
+Inghilterra all'Europa. Il grande mutamento per cui i suoi connazionali
+
+probabilmente lo ricorderanno più a lungo fu ciò che chiameremmo in Inghilterra la
+
+rivoluzione delle Nuove Armate.
+
+È quasi impossibile esprimere quanto grande fu quella rivoluzione, così da
+
+trasmetterne le dimensioni ai cittadini di qualsiasi altro grande paese
+
+europeo dove il servizio militare è da lungo la regola e non l'
+
+eccezione, dove il popolo stesso è solo l'esercito in abiti borghesi. Nel suo
+
+mero aspetto all'occhio era qualcosa come un'invasione da parte di una strana
+
+razza. Il soldato professionista inglese della nostra giovinezza era stato
+
+cospicuo non solo per la sua giubba rossa ma per la sua rarità. Quando le cose
+
+rare divengono comuni non divengono banali. La [[motifs/memory|memoria]] della
+
+loro singolarità è ancora abbastanza forte da conferir loro piuttosto l'
+
+aspetto di un prodigio, come chiunque può rendersi conto immaginando un esercito di
+
+gobbi o una [[motifs/city|città]] di uomini con un occhio solo. Il soldato inglese era stato invero
+
+rispettato come simbolo patriottico, ma piuttosto come un sacerdote o un
+
+principe può essere un simbolo, in quanto eccezione e non regola. Un
+
+[[archetypes/child|bambino]] veniva portato a vedere il soldato fuori di [[characters/buckingham|Buckingham]] Palace quasi come
+
+veniva portato a vedere il [[archetypes/king|Re]] uscire in carrozza da [[characters/buckingham|Buckingham]] Palace. Di qui
+
+il primo effetto dell'ampliamento delle armate fu qualcosa quasi
+
+come una fiaba--quasi come se le strade fossero affollate di re,
+
+che passeggiavano portando corone d'oro. Questa visione meramente ottica
+
+della rivoluzione non era che la prima impressione di una realtà egualmente
+
+vasta e nuova. Le prime leve che vennero popolarmente chiamate
+
+l'Armata di Kitchener, per l'energia e l'ispirazione con cui egli
+
+si dedicò alla loro organizzazione, consistevano interamente di volontari.
+
+Non fu che molto tempo dopo che l'intero volto dell'Inghilterra fu stato
+
+trasformato da questa mobilitazione che il Governo ricorse alla
+
+coscrizione per raccogliere un mero margine di uomini. Salvo per la personalità
+
+di Kitchener, il nuovo militarismo dell'Inghilterra venne interamente e liberamente
+
+dagli Inglesi. Pur essendo universale come una tassa, era
+
+spontaneo come una sommossa. Ma è ovvio che produrre un effetto così grande e
+
+[[forms/novel|nuovo]] dalla mera psicologia di una nazione, a prescindere dalla sua
+
+organizzazione, era qualcosa che richiedeva tatto [[motifs/well|oltre]] che decisione:
+
+ed è questo che illustrò un lato del carattere del generale
+
+inglese senza il quale egli può essere, e in verità è stato, del tutto
+
+frainteso.
+
+È proprio della [[concepts/nature|natura]] degli eroi nazionali del tipo di Kitchener che i loro
+
+ammiratori siano ingiusti verso di essi. Sarebbero stati meglio apprezzati
+
+se fossero stati meno lodati. Quando un soldato è tramutato in idolo
+
+sembra esservi una sfortunata tendenza a tramutarlo in un idolo di legno,
+
+come la figura di legno di Hindenburg eretta dalle ridicole
+
+autorità di Berlino. In un senso più moderato e metaforico v'è
+
+stata una sfortunata tendenza a rappresentare Kitchener come forte
+
+meramente rappresentandolo come rigido--a suggerire che fosse fatto di legno
+
+e non d'acciaio. Vi sono due massime, che sono state, credo,
+
+i motti di due famiglie inglesi, entrambe vanti ma ciascuna
+
+il contrario dell'altra. La prima recita: "Puoi spezzarmi, ma non
+
+puoi piegarmi"; e la seconda: "Puoi piegarmi, ma non puoi
+
+spezzarmi." Con tutto il rispetto per chiunque possa averlo portato, il primo è
+
+il vanto del barbaro e quindi del Prussiano; il secondo
+
+è il vanto del Cristiano e dell'uomo civile--che egli è libero
+
+e flessibile, eppure ritorna sempre alla sua vera posizione, come una spada
+
+temprata. Ora troppa parte dell'elogio a un uomo come Kitchener tendeva a
+
+lodarlo non come una spada ma come un attizzatoio. Gli accadde di salire alla sua
+
+prima fama in un [[motifs/time|tempo]] in cui gran parte della Stampa e della classe dirigente
+
+inglese era ancora del tutto ingannata dalla [[settings/germany|Germania]], e in certa misura giudicava
+
+ogni cosa con un test bismarckiano di [[motifs/blood|sangue]] e ferro. Tendeva a
+
+trascurare i ben reali svantaggi, anche nella vita pratica, che gravano
+
+sull'uomo di [[motifs/blood|sangue]] e ferro, rispetto all'uomo di [[motifs/blood|sangue]] e
+
+ossa. È un [[motifs/grave|grave]] svantaggio, per esempio, che se un uomo fatto
+
+di ferro si rompesse le ossa, queste non guarirebbero. In altre parole,
+
+l'Impero prussiano, con tutte le sue perfezioni ed efficienze, ha
+
+un difetto notevole: che è una cosa morta. Non trae la propria vita
+
+da alcuna religione o poesia umana primordiale; non torna a crescere dal
+
+di dentro. Ed essendo una cosa morta, soffre anche di non avere nervi
+
+che diano allarme o reazione; non legge alcun segnale di pericolo; non ha
+
+premonizioni; riguardo alla propria rovina spirituale le sue sentinelle sono sorde e
+
+tutte le sue spie sono cieche. D'altra parte, l'Impero britannico, con
+
+tutti i suoi errori grossolani e le sue pessime anomalie, davanti alle quali sono l'ultimo a
+
+restar cieco, ha un vantaggio evidente: che è una cosa viva. Non
+
+è che non commetta errori, ma sa di averli commessi, come
+
+la mano viva sa quando ha toccato il ferro rovente. È esattamente
+
+ciò che una mano di ferro non saprebbe; ed è esattamente l'errore
+
+dell'ideale tedesco di una mano di ferro. Nessun critico sincero dell'Inghilterra può
+
+leggerne con equità la [[concepts/history|storia]] senza scorgere una certa flessibilità e
+
+[[concepts/self|auto]]-modificazione; politiche illiberali seguite da altre liberali; uomini
+
+che falliscono in una cosa e riescono in un'altra; uomini mandati a fare
+
+una cosa e abbastanza saggi da farne un'altra; l'umano potere della
+
+mano viva di ritrarsi. Guarda caso, Kitchener era straordinariamente
+
+inglese in questa vivace e vitale moderazione. Ed è da temere
+
+che la più tedesca idealizzazione di lui, nell'Inghilterra in gran parte non illuminata
+
+di prima della guerra, abbia già arrecato qualche danno alla sua reputazione,
+
+e, mancando ciò che era particolarmente inglese, abbia mancato ciò che era
+
+particolarmente interessante.
+
+Lord Kitchener era personalmente un uomo piuttosto silenzioso; e le sue
+
+convenzioni sociali erano quelle del comune ufficiale inglese, specialmente
+
+dell'ufficiale che ha vissuto tra gli orientali: convenzioni che in ogni caso
+
+tendono nella direzione del [[motifs/silence|silenzio]]. Aveva inoltre davvero, e in una misura
+
+di cui alcuni si lamentavano, un certo imbarazzo inglese nel
+
+rendere chiari tutti i suoi propositi, specie prima che fossero chiari a
+
+se stesso. Probabilmente amava riflettere su una cosa a modo suo e
+
+quindi nei suoi [[motifs/time|tempi]], che non erano sempre i [[motifs/time|tempi]] in cui
+
+la gente pensava di aver diritto di interrogarlo. In questo senso è
+
+vero di lui, come di un altro uomo forte quale il patriota irlandese
+
+Parnell, che la sua stessa semplicità produceva un effetto di segretezza. Ma è
+
+un errore totale su di lui, come fu un errore totale su Parnell,
+
+supporre che assumesse la posa prussiana di disprezzare e
+
+ignorare chiunque; che risolvesse ogni cosa in un solitario egoismo;
+
+che fosse un Superuomo troppo [[concepts/self|auto]]-sufficiente per ascoltare gli amici e troppo
+
+filosofico per ascoltare la ragione. Si noterà che ogni crisi
+
+della sua vita illuminata dalla [[concepts/history|storia]] contraddice i colori di questo
+
+quadro. Non solo sapeva consigliarsi con gli amici, ma era
+
+straordinariamente abile nel consigliarsi con i nemici. È notevole
+
+che ogniqualvolta venisse a contatto personale con un grande condottiero
+
+in armi contro di lui, di fatto o in potenza, il risultato non fosse un mero
+
+scontro ma una reciproca comprensione. Stabilì i più amichevoli
+
+rapporti con il cavalleresco e avventuroso Marchand, ritto sul
+
+letale suolo conteso di Fashoda. Stabilì rapporti altrettanto amichevoli
+
+con i generali boeri, radunati sotto l'oscura nube della
+
+delusione e della sconfitta nazionale. In tutti questi casi, nella misura in cui
+
+la sua individualità poteva contare, è chiaro che agì da moderato
+
+e, nel senso universale, da liberale. I risultati e le testimonianze
+
+di quanti lo incontrarono in quelle ore bastano a dimostrare che
+
+non lasciò l'impressione di un'arroganza prussiana. Se era
+
+silenzioso, il suo [[motifs/silence|silenzio]] doveva essere più amichevole, avrei quasi detto
+
+più conviviale, della conversazione di molti. Ma sulla più ampia
+
+scena della Guerra europea, questo dono quieto ma unico di
+
+apertura mentale e ospitalità intellettuale era destinato a compiere due
+
+cose assai decisive, che potrebbero influire profondamente sulla [[concepts/history|storia]]. Nella
+
+prima trattò con gli elementi più democratici e perfino rivoluzionari
+
+in Inghilterra; e nella seconda rappresenta un mutamento assai reale
+
+che ha investito le tradizioni inglesi riguardo alla [[settings/russia|Russia]].
+
+Personalmente, come già si è notato, Lord Kitchener non fu mai e
+
+mai finse di essere niente più o meno che il buon uomo
+
+d'armi, e all'[[motifs/time|epoca]] della Grande Guerra era già un anziano
+
+militare. Il tipo ha all'incirca gli stessi criteri e tradizioni in
+
+tutti i paesi europei; ma in Inghilterra è semmai un poco
+
+più tradizionale, proprio perché l'esercito è stato qualcosa di
+
+separato, professionale e relativamente piccolo: una sorta di club. L'
+
+uomo d'armi era tanto più militare perché la nazione non era
+
+militare. Un uomo simile è inevitabilmente conservatore nelle sue opinioni,
+
+convenzionale nei modi, e semplifica il problema del patriottismo
+
+in un'obbedienza monocola. Quando si assunse il compito di levare
+
+le prime leve per la guerra presente, si trovò di fronte al
+
+problema dei sindacati inglesi: l'ultimissimo problema al
+
+mondo che ci si potrebbe ragionevolmente aspettare che un uomo simile comprenda. Eppure
+
+lo comprese; era forse l'unica persona nella
+
+classe dirigente a farlo. Se è difficile spiegarlo alle classi più
+
+ricche d'Inghilterra, è quasi impossibile spiegarlo a qualsiasi classe
+
+di qualunque altro paese, perché la situazione inglese è in gran parte unica.
+
+Vi è la stessa difficoltà che abbiamo già incontrato nel descrivere
+
+quale scena di trasformazione, vasta e persino violenta, apparve la crescita del
+
+grande esercito; è stato quasi impossibile descriverla ai
+
+ai principali paesi di coscrizione, che danno per scontato un grande esercito.
+
+La chiave del parallelo problema dei sindacati è semplicemente
+
+questa: che l'Inghilterra è l'unico paese europeo praticamente
+
+industriale e nient'altro. I sindacati non possono mai avere una parte simile
+
+nei paesi dove le masse vivono della terra; tali masse hanno sempre
+
+qualche condizione e sostegno: sì, anche se sono servi della gleba. La condizione
+
+dell'operaio inglese non sta nella terra; sta, per così dire, nell'
+
+aria: in un'impalcatura di astrazioni artificiali, un'ossatura di regole
+
+e diritti, di patti verbali o delibere di carta. Se perde questo,
+
+non diventa qualcosa di tanto umano e familiare quanto uno schiavo. Diventa piuttosto una
+
+bestia selvatica, una sorta di parassita errante senza posto alcuno nello
+
+Stato. Sarebbe necessario spiegare questo, e molto altro
+
+che qui non è affatto possibile spiegare, prima di poter misurare
+
+l'enormità dell'enigma di fronte al funzionario britannico che doveva proporre
+
+agli inglesi la sospensione pratica dei sindacati. A ciò
+
+si deve aggiungere il fatto che i sindacati, già istituzioni nazionali,
+
+erano da poco in fermento per dottrine nuove e violente:
+
+i sindacalisti li avevano invocati come future sedi del governo;
+
+gli speculatori della storia vi avevano visto il ritorno alle grandi
+
+Corporazioni cristiane del Medioevo; una stampa più rivoluzionaria era
+
+comparsa a difenderli; scioperi giganteschi avevano spaccato il paese in
+
+ogni direzione. Chiunque avrebbe detto che in tali circostanze
+
+le stesse virtù e capacità di Kitchener rendessero almeno
+
+abbastanza certo che avrebbe litigato con i sindacati. Presto
+
+divenne evidente che l'unico uomo che non avrebbe litigato con i
+
+sindacati era Kitchener. I politici e i capi parlamentari,
+
+che si supponeva eletti proprio dalle classi lavoratrici, erano guardati,
+
+a torto o a ragione, con implacabile sospetto. L'anziano e
+
+antiquato militarista anglo-egiziano, con la sua dottrina e
+
+disciplina da camerata e da [[settings/court|corte]] marziale sommaria, non fu
+
+mai guardato dai lavoratori con un'ombra di sospetto. Semplicemente
+
+lo presero in parola, e il capo del più turbolento elemento delle Trades
+
+[[concepts/union|Union]] gli rese dopo la sua [[motifs/death|morte]] il più semplice omaggio nel
+
+linguaggio più piano e popolare: «Era un uomo retto». Sono tanto
+
+antiquato da ritenerlo un epitaffio migliore della frase alla moda
+
+sull'uomo forte. Una silenziosa, indescrivibile cordialità leale
+
+nell'uomo prevalse ancora una volta sulla possibilità di appassionati
+
+malintesi, come aveva prevalso sul nervosismo internazionale
+
+dell'atmosfera di Fashoda o sulla tragica faida di frontiera dei
+
+boeri. Sospetto che ciò risiedesse in gran parte nel fatto che questo grande
+
+inglese era abbastanza inglese da intuire una cosa sfuggita a molti
+
+più sofisticati: che i sindacati inglesi sono molto
+
+inglesi. Nel bene o nel male, sono nazionali; hanno assai poco in
+
+comune con il più internazionale Socialismo del Continente, e
+
+nulla di nulla in comune con il pedante Socialismo della Prussia.
+
+Comprendendo i suoi connazionali per istinto, non fece sfoggio di
+
+efficienza; poiché agli inglesi i simboli della dittatura ripugnano assai
+
+più della dittatura stessa. Odiano la [[motifs/crown|corona]] e lo scettro del [[archetypes/tyrant|tiranno]]
+
+assai più della sua tirannia. Hanno una tradizione nazionale che
+
+consente fin troppa disuguaglianza purché sia stemperata da una
+
+certa camaraderie, e in cui perfino gli snob ricordano il coronetto
+
+di un nobile a condizione che egli stesso paia dimenticarlo.
+
+L'altra questione è assai più importante. Benché fosse tutto il contrario di
+
+vivace, Kitchener era pieno di vita; e aveva un segno unico di
+
+vitalità: che non aveva smesso di crescere. «Una quercia non andrebbe
+
+trapiantata a sessant'anni», disse il grande oratore Grattan quando fu
+
+trasferito dal Parlamento di Dublino al Parlamento di
+
+Westminster. Kitchener aveva sessantaquattro anni quando volse il volto a occidente
+
+verso il problema del proprio paese. Gli si aggrappavano già tutti gli
+
+attributi tradizionali della quercia: la sua durezza, la sua angolosità, la sua
+
+compattezza di venatura e asprezza di contorno, quando fu sradicato
+
+dalle sabbie d'Arabia e ripiantato nella remota isola occidentale. Eppure
+
+la quercia non solo tornò a verdeggiare e mise nuove [[motifs/leaves|foglie]]; fu
+
+quasi come se, come in una leggenda, potesse mettere una nuova specie di [[motifs/leaves|foglie]].
+
+Kitchener, con tutta la sua taciturnità, cominciò davvero a mettere un nuovo
+
+ordine di idee. Se un mutamento di opinioni è insolito in un uomo anziano,
+
+è quasi sconosciuto in un anziano uomo d'armi. Se l'indurimento del
+
+[[motifs/time|tempo]] fu sentito perfino dal poetico ed emotivo Grattan, non
+
+sarebbe stato strano che l'indurimento fosse stato del tutto senza speranza nel
+
+rigido e reticente Kitchener. Eppure non fu senza speranza; e il fatto
+
+divenne la [[motifs/spring|sorgente]] di gran parte della [[concepts/hope|speranza]] nazionale. Il brizzolato disciplinatore
+
+d'India ed [[settings/egypt|Egitto]] mostrò un certo potere che è in quasi tutti
+
+i grandi uomini, ma di cui san Paolo è divenuto il tipo tradizionale: il
+
+potere di essere un grande convertito [[motifs/well|oltre che]] un grande crociato. È il
+
+vero potere di ri-formare un'opinione, che è l'esatto opposto di
+
+quella mera informità che chiamiamo incostanza. Né il paragone
+
+con un esempio quale san Paolo è storicamente del tutto sproporzionato;
+
+poiché il punto su cui questo tipicissimo inglese cambiò idea
+
+era un punto che è ora il perno dell'intero futuro e forse
+
+della stessa esistenza della Cristianità. Per molti di tali inglesi si potrebbe
+
+quasi chiamarlo la scoperta della Cristianità. Lo si può chiamare con
+
+maggiore precisione, e anzi con precisione quasi completa, la
+
+scoperta della [[settings/russia|Russia]].
+
+I sistemi burocratico-militari ovunque hanno troppa tendenza a
+
+lavorare su un'unica idea, e vi fu un [[motifs/time|tempo]] in cui il sistema militare e
+
+burocratico dei britannici in Oriente lavorava sull'idea del
+
+della [[concepts/fear|paura]] della [[settings/russia|Russia]]. È inutile qui spiegare quel sentimento, ed è
+
+vano cercare di dissiparlo. Era in parte una mera tradizione derivata dal
+
+naturale sciovinismo della guerra di Crimea; era in parte, di per sé, un tributo
+
+all'[[forms/epic|epica]] maestà della marcia russa attraverso la misteriosa Asia fino alla
+
+leggendaria Muraglia cinese. Il punto è che esisteva; e dove
+
+esiste una simile idea in simili governanti militari, assai di rado essi
+
+mutano la propria idea. Ma Kitchener mutò la sua idea. Non per mera
+
+obbedienza militare, ma per genuina ragionevolezza umana, giunse tardi
+
+nella vita a vedere il russo come l'amico e il prussiano come il
+
+nemico. Nell'inevitabile divisione dei consigli ministeriali britannici
+
+circa la distribuzione dell'aiuto e dell'attenzione britannici, fu l'unico uomo
+
+che si batté con più entusiasmo, si direbbe con ostinazione, per la
+
+suprema importanza di rifornire di munizioni la magnifica difesa russa. Egli
+
+sconcertò tutti i pessimisti inglesi, in quella che a loro pareva l'
+
+ora più buia del pessimismo, annunciando che la [[settings/germany|Germania]] aveva «scoccato il
+
+suo dardo»; che aveva già perduto la sua occasione, non per alcuno degli attacchi
+
+alleati, ma per la stupenda abilità e il valore di quella
+
+ritirata russa, che fu più trionfale di qualsiasi attacco. È questa
+
+scoperta a segnare un'epoca; poiché quella grande liberazione non fu solo
+
+la vittoria della [[settings/russia|Russia]], ma assai specialmente la vittoria dei russi.
+
+Mai prima vi fu una simile guerra di uomini contro cannoni: tremenda e
+
+ispirante a vedersi quanto una guerra di uomini contro demoni. Forse il duello di
+
+un uomo con un cannone moderno somiglia più a quello tra un uomo e un
+
+enorme drago; né vi è nulla dalla parte più debole salvo l'
+
+ultima e quasi metafisica [[concepts/truth|verità]], che un uomo può fare un cannone e
+
+un cannone non può fare un uomo. È l'uomo—il soldato e contadino russo
+
+in persona—che è emerso come l'[[archetypes/hero|eroe]] di un'[[forms/epic|epopea]], e che è
+
+ora al sicuro per sempre dal sofisticato spettegolare scandalistico e dalla
+
+colta ignoranza dell'Occidente.
+
+Ed è questo che conferisce un [[forms/epic|epico]] e quasi primevo simbolismo alla
+
+[[forms/tragedy|tragedia]] della fine di Kitchener. In qualche modo, il fatto stesso che fosse
+
+incompleta come azione la rende più completa come [[forms/allegory|allegoria]]. Inglese
+
+nei suoi stessi limiti, inglese nella sua tarda emancipazione da essi,
+
+egli si metteva in cammino per un [[motifs/journey|viaggio]] verso oriente ben diverso dai
+
+molti viaggi verso oriente della sua vita. Vi sono molte simili nobili
+
+tragedie di viaggio negli annali del suo paese; fu così, silenziosamente
+
+senza lasciar traccia, che la pista di Franklin svanì nelle nevi polari
+
+o la pista di Gordon nelle sabbie del [[motifs/desert|deserto]]. Ma questa era un'avventura
+
+nuova per uomini tanto avventurosi: il trovare non strani nemici ma
+
+amici ancor più strani. Molti uomini del suo [[motifs/blood|sangue]] e tipo—semplici,
+
+tenaci, alquanto prosaici—si erano fatti strada attraverso qualche oscuro
+
+continente per aggiungere qualche tesoro o territorio al nome inglese. Egli
+
+cercava ciò che per noi suoi connazionali è stato a lungo un oscuro
+
+continente—ma che racchiude un tesoro assai più nobile. La gloria di
+
+un grande popolo, a lungo celata agli inglesi da accidenti e da menzogne,
+
+gli stava dinanzi al termine del suo [[motifs/journey|viaggio]]. Quel [[motifs/journey|viaggio]] non ebbe mai fine. Esso
+
+resta come un possente ponte, tanto più possente perché spezzato, proteso
+
+attraverso un abisso, e promessa di una più possente via tra l'oriente
+
+e l'occidente. In quella distesa di mari oltre gli ultimi isolotti del nord dove
+
+la sua [[motifs/ship|nave]] affondò si potrebbe immaginare il suo spirito ritto, una figura
+
+frustrata eppure profetica, che addita l'Oriente, donde vengono la
+
+luce del mondo e la riunione degli uomini cristiani.
+
+_Stampato in Gran Bretagna da_ THE FIELD & [[characters/queen|QUEEN]] (HORACE COX) LTD.,
+
+_Bream's Buildings, [[settings/london|Londra]], E.C. 4_.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/dreams,motif/flag,motif/garden,motif/love,motif/wind,concept/doubt,form/allegory,form/epic,form/sketch,setting/egypt,setting/germany,setting/london,setting/paris,setting/russia,character/horatio"></span>

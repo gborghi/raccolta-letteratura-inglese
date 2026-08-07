@@ -159,6 +159,75 @@ By these we finally felt our way [[motifs/home|home]], arriving in a cold green
 twilight before [[motifs/dawn|dawn]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I Pali del Telegrafo
+
+Il mio amico e io camminavamo in una di quelle distese di pineta che formano mari interni di [[concepts/solitude|solitudine]] in ogni parte dell'Europa occidentale; che hanno il vero terrore di un [[motifs/desert|deserto]], poiché sono uniformi, e perciò vi si può smarrire la via. Rigidi, dritti e simili, si ergevano tutt'intorno a noi i pini del bosco, come le picche di un ammutinamento silenzioso. C'è una [[concepts/truth|verità]] nel parlare della varietà della [[concepts/nature|Natura]]; ma io penso che la [[concepts/nature|Natura]] mostri spesso la sua più grande stranezza nella sua uniformità. C'è un ritmo arcano in questa stessa ripetizione; è come se la terra fosse decisa a ripetere un'unica forma finché la forma non diventi terribile.
+
+Avete mai provato l'esperimento di dire una parola qualunque, come "cane", trenta volte? Alla trentesima [[motifs/time|volta]] è diventata una parola come "snark" o "pobble". Non diventa mansueta, diventa selvaggia, per ripetizione. Alla fine un cane si aggira sconcertante e indecifrabile come Leviatano o Croquemitaine.
+
+Può darsi che questo spieghi le ripetizioni della [[concepts/nature|Natura]]; può darsi che sia per questa ragione che vi sono tanti milioni di [[motifs/leaves|foglie]] e di ciottoli. Forse non sono ripetuti affinché diventino familiari. Forse sono ripetuti soltanto nella [[concepts/hope|speranza]] che possano infine diventare non familiari. Forse un uomo non si spaventa al primo gatto che vede, ma balza in aria per la sorpresa al settantanovesimo gatto. Forse deve attraversare migliaia di pini prima di trovare quello che è davvero un pino. Comunque sia, c'è qualcosa di singolarmente emozionante, persino qualcosa di urgente e intollerante, in queste infinite ripetizioni della foresta; c'è il sentore di qualcosa come la [[concepts/madness|follia]] in quella monotonia musicale dei pini.
+
+Dissi qualcosa del genere al mio amico; ed egli rispose con sardonica [[concepts/truth|verità]]: "Ah, aspetta che arriviamo a un palo del telegrafo".
+
+* * * *
+
+Il mio amico aveva ragione, come talvolta gli capita nelle nostre discussioni, specialmente sui punti di fatto. Avevamo attraversato la pineta per uno dei suoi sentieri, che per caso seguiva i fili della telegrafia provinciale; e sebbene i pali ricorressero a lunghi intervalli, facevano una differenza quando comparivano. Nell'istante in cui giungemmo al palo diritto, potemmo vedere che i pini non erano affatto diritti. Era come cento linee diritte tracciate con matite da scolaretto tutte d'un tratto messe a giudizio da un'unica linea diritta tracciata con la riga. Tutte le linee dilettantesche parevano barcollare a destra e a sinistra. Un istante prima avrei giurato che stessero dritte come lance; ora potevo vederle curvarsi e vacillare dappertutto, come scimitarre e yatagani. In confronto al palo del telegrafo i pini erano storti... e vivi. Quella solitaria asta verticale insieme deformava e affrancava la foresta. La ingarbugliava tutta e nondimeno la rendeva libera, come un qualunque [[concepts/grotesque|grottesco]] sottobosco di quercia o di agrifoglio.
+
+"Sì", disse il mio cupo amico, rispondendo ai miei pensieri. "Non sai che cosa scellerata e vergognosa sia la rettilineità, se credi che questi alberi siano dritti. Non lo saprai mai finché la tua preziosa civiltà intellettuale non costruirà una foresta di pali del telegrafo lunga sessanta chilometri."
+
+* * * *
+
+Avevamo iniziato a camminare dalla nostra [[motifs/home|casa]] provvisoria più tardi nel giorno di quanto intendessimo; e il lungo pomeriggio si andava già allungando in una sera dorata quando uscimmo dalla foresta sulle colline sopra una strana città o villaggio, le cui luci avevano già cominciato a scintillare nella valle che si oscurava. Era già avvenuto quel mutamento che è la prova e la definizione della sera, voglio dire che, mentre il sole sembrava ancora altrettanto luminoso, la terra si faceva più nera contro di esso, specialmente ai margini, le colline e le cime dei pini. Ciò metteva in risalto ancor più chiaramente la segretezza da civetta delle pinete; e il mio amico gettò loro uno sguardo di rimpianto mentre usciva sotto il cielo. Poi si volse verso il panorama davanti a sé; e, per caso, uno dei pali del telegrafo si ergeva davanti a lui nell'ultima luce del sole. Non era più attraversato e addolcito dalle linee più delicate del pineto; si ergeva brutto, arbitrario e angoloso come una qualunque rozza figura di geometria. Il mio amico si fermò, puntandovi contro il bastone, e tutta la sua anarchica filosofia gli salì alle labbra.
+
+"Demone", mi disse brevemente, "contempla l'opera tua. Quel luogo di alberi superbi dietro di noi è ciò che il mondo era prima che voi uomini civilizzati, cristiani o democratici o quel che siete, veniste a renderlo tetro con le vostre uggiose regole di morale e uguaglianza. Nella lotta silenziosa di quella foresta, albero combatte muto contro albero, ramo contro ramo. E l'esito di quella muta battaglia è disuguaglianza... e [[concepts/beauty|bellezza]]. Ora leva gli occhi e guarda l'uguaglianza e la bruttezza. Guarda con quanta regolarità i bottoni bianchi sono disposti su quel bastone nero, e difendi i tuoi dogmi se ne hai il coraggio."
+
+"È dunque tanto un simbolo di [[concepts/democracy|democrazia]] quel palo del telegrafo?" domandai. "Immagino che, mentre tre uomini hanno fatto il telegrafo per ricavarne dividendi, un migliaio circa di uomini hanno conservato la foresta per tagliar legna. Ma se il palo del telegrafo è orribile (come ammetto) ciò non è dovuto a una dottrina, bensì piuttosto all'anarchia commerciale. Se qualcuno avesse una dottrina su un palo del telegrafo, esso potrebbe essere intagliato nell'avorio e adorno d'oro. Le cose moderne sono brutte perché gli uomini moderni sono trascurati, non perché sono accurati."
+
+"No", rispose il mio amico con l'occhio all'estremità di uno splendido e disteso tramonto, "c'è qualcosa di intrinsecamente mortifero nell'idea stessa di una dottrina. Una linea diritta è sempre brutta. La [[concepts/beauty|Bellezza]] è sempre storta. Questi pali rigidi a intervalli regolari sono brutti perché stanno portando attraverso il mondo il vero messaggio della [[concepts/democracy|democrazia]]."
+
+«In questo momento», risposi, «stanno probabilmente recando per il mondo
+il messaggio: "Comprate Ferrovie Bulgare". Sono probabilmente la pronta
+comunicazione fra due dei più ricchi e più malvagi fra quei Suoi
+figli con cui Dio abbia mai avuto pazienza. No; questi pali
+del telegrafo sono brutti e detestabili, sono disumani e indecenti.
+Ma la loro bassezza sta nella loro segretezza, non nella loro pubblicità.
+Quel bastone nero coi bottoni bianchi non è la creazione dell'[[motifs/soul|anima]]
+di una moltitudine. È la folle creazione delle anime di due milionari.»
+
+«Devi almeno spiegare», rispose il mio amico con gravità,
+«come mai la dura dottrina democratica e il duro profilo
+telegrafico siano comparsi insieme; tu hai... Ma perbacco, [[motifs/soul|anima]] mia,
+dobbiamo tornare a [[motifs/home|casa]]. Non avevo idea che fosse così tardi.
+Vediamo, credo che la nostra via attraverso il bosco sia questa.
+Vieni, malediciamo entrambi il palo del telegrafo per ragioni del tutto
+diverse e torniamo a [[motifs/home|casa]] prima che faccia buio.»
+
+Non tornammo a [[motifs/home|casa]] prima del buio. Per un motivo o per l'altro
+avevamo sottovalutato la rapidità del crepuscolo e l'improvvisa venuta
+della [[motifs/night|notte]], specie nell'inoltrarsi in boschi fitti.
+Quando il mio amico, dopo i primi cinque minuti di cammino, inciampò
+in un tronco, e io, dieci minuti dopo, sprofondai quasi fino alle ginocchia
+nel fango, cominciammo a nutrire qualche sospetto sulla nostra direzione.
+Alla fine il mio amico disse, con voce bassa e roca:
+
+«Temo che abbiamo sbagliato sentiero. È buio pesto.»
+
+«Credevo fossimo andati per la via giusta», dissi, esitante.
+
+«[[motifs/well|Beh]]», disse; e poi, dopo una lunga pausa, «non riesco a vedere
+nessun palo del telegrafo. Li ho cercati.»
+
+«Anch'io», dissi. «Sono così dritti.»
+
+Brancolammo per circa due ore nel buio, in mezzo alla fitta
+frangia di alberi che parevano [[motifs/dance|danzarci]] intorno in derisione.
+Qua e là, tuttavia, era possibile scorgere il profilo
+di qualcosa di troppo eretto e rigido per essere un pino.
+Guidati da questi, ritrovammo infine a tastoni la via di [[motifs/home|casa]], giungendo in un freddo verde
+crepuscolo prima dell'[[motifs/dawn|alba]].
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="telegraph-poles (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/leaves,motif/nature,motif/time,concept/beauty,concept/democracy,concept/grotesque,concept/hope,concept/madness,concept/nature,concept/solitude,concept/truth,setting/desert"></span>

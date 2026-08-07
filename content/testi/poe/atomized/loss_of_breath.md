@@ -1029,6 +1029,1039 @@ shrine and temple “to the proper God.”
 LYTTLETON BARRY.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+O non respirare, ecc.
+
+Melodie di Moore
+
+
+
+Il più noto sfortunio, alla fine, deve cedere…
+
+Il instancabile [[concepts/courage|coraggio]] della filosofia: come la più testarda delle [[motifs/city|città]].
+
+La costante allerta di un nemico… Shalmanezer, così come lo conosciamo noi.
+
+Scritti sacri, posizionati tre anni prima di Samaria, eppure cadde comunque.
+
+Sardanapalo – si veda Diodoro – visse a Ninive per sette anni…
+
+Ma senza alcun risultato. Troy morì alla fine del secondo attimo.
+
+Lustrum; e Azoth, come Aristaeo dichiara per onorare la sua [[concepts/honour|onorabilità]].
+
+“Signore”, finalmente aprì le sue porte a Psammetico… dopo aver…
+
+Li tenne imprigionati per un quinto di secolo.
+
+
+
+“Maledetta! — Strega! — Puttana!” le dissi alla mia moglie in quel momento.
+
+La mattina dopo il nostro matrimonio; “Tu strega!. Tu vecchia megera!, ”
+
+Maledetto arrogante… tu fonte di ingiustizia, tu dal viso infuocato!
+
+La quintessenza di tutto ciò che è abominabile! Tu… tu… qui in piedi.
+
+In punta di piedi, afferrandola per la gola e posizionando la mia bocca…
+
+Sottovoce, mi preparavo a pronunciare qualcosa di nuovo e…
+
+Titolo:  
+Un epiteto deciso e pieno di disprezzo, che certamente non mancherà… se…
+
+Eccitato, per convincerla della sua insignificanza, quando…
+
+Un orrore e una sorpresa estremi… Scoprii di aver perso…
+
+Respiro.
+
+
+
+Senza fiato
+
+Titolo: Espressioni che vengono spesso ripetute nelle conversazioni quotidiane… ma che in realtà…
+
+Non mi è mai venuto in mente che potesse accadere quell’orribile incidente di cui parlo…
+
+Potrebbe davvero accadere, in buona fede… Immaginate solo…
+
+Prova ad immaginare. Immagina, dico, la mia [[concepts/wonder|meraviglia]], la mia.
+
+Costernazione, il mio [[concepts/despair|dispero]]!
+
+
+
+C’è un genio straordinario, tuttavia, che non è mai stato del tutto…
+
+Mi ha abbandonato… Nei momenti in cui sono più irrequieto e incontrollabile, conservo ancora un certo senso…
+
+Di proprietà… e il sentiero delle passioni mi conduce – come Lord…
+
+Edouard e la filosofia nella storia di “Julie”
+
+veritiero_.
+
+
+
+Non riuscii all’inizio a stabilire con precisione in che misura…
+
+L’episodio mi aveva influenzato profondamente; decisi comunque di…
+
+"Nascondere la questione a mia moglie, fino a quando non si avranno ulteriori informazioni..."
+
+Rivelami fino a che punto si estende questa mia inimmaginabile calamità.
+
+Modificando immediatamente il mio volto…
+
+Aspetto gonfio e distorto, con un’espressione arcuata…
+
+“Con un gesto affettuoso e gentile, le diedi una pacca sulla guancia…”
+
+“Un bacio sull’altra guancia… e senza pronunciare una parola” (Furie!).
+
+“Non riusciva a trattenersi dal ridere… rimase davvero stupita dalla mia spiritosaggine mentre eseguivo i miei passi di danza.”
+
+Uscì dalla stanza con un movimento silenzioso, senza fare rumore.
+
+
+
+"#Nel mio intimo boudoir, al sicuro… ma con timore."
+
+Un esempio delle conseguenze negative che ne derivano
+
+Irrascibilità: viva, con le caratteristiche dei morti… morta.
+
+Con le inclinazioni dei viventi… un’anomalia alla luce della realtà.
+
+La terra, molto calma, ma senza respiro.
+
+
+
+“Sì! Senza fiato… Dico sul serio: ero davvero senza fiato.”
+
+Del tutto scomparso. Non avrei potuto muoverlo nemmeno con una piuma.
+
+La vita era in gioco, o addirittura la delicatezza di un [[motifs/mirror|specchio]] veniva compromessa.
+
+Destino crudele… ma c’era comunque un po’ di sollievo nel primo caso.
+
+Un’oppressione travolgente della mia tristezza… Scoprii, nel tentativo di superarla, che…
+
+Poteri dell’espressione che, di fronte alla mia incapacità di proseguire…
+
+Conversazione con mia moglie… e poi ho concluso che ero completamente…
+
+Distrutto… In realtà, fu solo parzialmente ostacolato, e io lo scoprii.
+
+Se solo in quel momento cruciale avessi abbassato la voce…
+
+“Singolarmente profondo e gutturale… Avrei potuto continuare ancora a parlare con lei…”
+
+"#Espressione dei miei sentimenti: questo tono di voce..."
+
+A seconda del flusso dell’aria…
+
+ma a causa di un certo movimento spasmodico dei muscoli della gola.
+
+
+
+Mettendomi su una sedia, rimasi per un po’ immerso nei miei pensieri.
+
+In meditazione… Le mie riflessioni, certamente, non erano di alcun conforto.
+
+Titolo:  
+Bontà… Mille fantasie vaghe e lacrimevoli presero il sopravvento.
+
+Della mia [[motifs/soul|'anima]]. E persino l’idea del [[concepts/suicide|suicidio]] mi attraversò la mente.
+
+Ma è proprio una caratteristica della perversione della natura umana rifiutare ciò.
+
+“Ovvio e pronto per chi è lontano e incerto… Così io.”
+
+Tremava all'idea del [[concepts/self|omicidio di sé stesso]], considerandolo la più orribile delle atrocità.
+
+La gatta tigrata roncava con forza sul tappeto…
+
+Il cane acquatico ansimava incessantemente sotto il tavolo, ognuno per conto proprio.
+
+Merita davvero molto per la forza dei suoi polmoni… e tutto il resto.
+
+Ovviamente fatto a scopo di deridere la mia stessa incapacità polmonare.
+
+
+
+"Sopraffatto da un turbinio di speranze e paure vaghe, alla fine..."
+
+Ho sentito i passi di mia moglie scendere le scale. Essendo…
+
+Ora che ero certo della sua assenza, tornai con il cuore in gola.
+
+al luogo del mio disastro.
+
+
+
+"#Chiudendo attentamente la porta dall’interno, iniziai con energia..."
+
+Cerca… Forse era possibile che fosse nascosto da qualche parte.
+
+Nascosto in un angolo remoto, o riposto in qualche armadio o cassetto…
+
+Ho trovato l’oggetto che cercavo… Forse ha qualcosa di “vaporoso”…
+
+Potrebbe persino assumere una forma concreta. La maggior parte dei filosofi, nel corso dei secoli…
+
+I concetti della filosofia di William sono ancora molto poco filosofici.
+
+Godwin, tuttavia, afferma nel suo “Mandeville” che “le cose invisibili…”
+
+“Sono le uniche realtà”, e questo è tutto ciò che permette di considerare la situazione in questo modo.
+
+“Punto: vorrei che il lettore attento si fermasse un attimo prima di lanciare accuse.”
+
+"Tali estremi esempi di assurdità… Anassagora"
+
+Si ricorderà sempre che la [[motifs/snow|neve]] è nera. E questo lo sostengo io.
+
+Da allora si è scoperto che effettivamente era così.
+
+
+
+Continuai l’indagine a lungo e con impegno… ma
+
+Una ricompensa spregevole per il mio impegno e la mia perseveranza…
+
+Solo un insieme di denti falsi, due paia di fianchi, un occhio… e un mucchietto di cose.
+
+Delle lettere d’amore del signor Windenough a mia moglie. Forse sarebbe meglio.
+
+Nota su questa conferma della preferenza di mia signora…
+
+“Mr. W. non mi causò molta preoccupazione… Quella signora Lackobreath…”
+
+“Ammirare qualcosa di così diverso da me stesso era una reazione naturale…”
+
+Il male necessario. È ben noto che io sia di costituzione robusta e corpulenta.
+
+Aspetto esteriore, e allo stesso [[motifs/time|tempo]] di statura piuttosto minuta.
+
+Quanto [[concepts/wonder|stupore]] allora, di fronte alla fragilità, quasi trasparente, della mia conoscente.
+
+E la sua “altitudine”, che è diventata un proverbio, avrebbe dovuto incontrarsi…
+
+Con tutto il dovuto rispetto agli occhi della signora Lackobreath… Ma purtroppo…
+
+Torna indietro.
+
+
+
+Nessun risultato
+
+Dentro l’armadio… cassetto dopo cassetto… angolo dopo angolo… tutto era lì.
+
+Esaminato invano. A un certo [[motifs/time|momento]], però, pensai a me stesso.
+
+“Certo di aver trovato ciò che cercavo, dopo aver frugato in una valigetta…”
+
+Accidentalmente distrutta una bottiglia di Grandjean’s Oil of…
+
+Arcangeli – che, come un piacevole profumo, io qui assumo…
+
+La libertà di consigliare.
+
+
+
+Con il cuore pesante, tornai nel mio boudoir… per riflettere lì.
+
+Un modo per eludere l’indagine di mia moglie, finché non avessi potuto…
+
+Disposizioni da prendere prima della mia partenza dal paese… per questo avevo…
+
+Ho già preso una decisione. In un ambiente straniero, essendo sconosciuta…
+
+Con una certa probabilità di riuscita, si potrebbe provare a nascondere il mio.
+
+Una calamità infelice… una calamità pianificata, ancora più terribile della povertà stessa.
+
+Per allontanare i sentimenti della folla e attirarne l’attenzione…
+
+Su quel miserabile si abbatté l'indignazione ben meritata dei virtuosi.
+
+La felicità… Non esitai a lungo. Essendo di natura decisa, agii subito.
+
+Dedicato alla [[motifs/memory|memoria]] l’intera [[forms/tragedy|tragedia]] di “Metamora”. Avevo.
+
+“Buona fortuna ricordare che nell’accentuazione di questo dramma…”
+
+o almeno di quella parte che viene riservata all’[[archetypes/hero|eroe]], il.
+
+Toni di voce di cui mi mancava completamente la padronanza
+
+Inutile… e si aspettava che quel suono profondo e gutturale dominasse tutto.
+
+In modo monotono, per tutto il tempo.
+
+
+
+Ho praticato per un po' di tempo ai bordi di un [[motifs/well|pozzo]] frequentato spesso.
+
+Marsh… Tuttavia, in questo contesto, il termine non si riferisce a nulla di simile.
+
+Procedimenti di Demostene… ma con un approccio particolare e originale.
+
+Con la coscienza pulita, completamente mio… Così armato in ogni senso, decisi di…
+
+Far credere a mia moglie che io sia stato improvvisamente colpito da un forte amore
+
+Per il teatro… In questo campo, sono riuscito a compiere un vero miracolo; e per tutti…
+
+Domanda o suggerimento: mi sono sentito libero di rispondere come desideravo
+
+Tonalità simili a quelle di una rana e piene di malinconia, con alcuni passaggi tratti da…
+
+La [[forms/tragedy|tragedia]], qualsiasi sua parte, di cui presto trassi grande piacere nell’ascoltarla.
+
+Osservando attentamente, questo principio si applicherebbe altrettanto bene a qualsiasi argomento specifico.
+
+Non si deve tuttavia pensare che, nell’esecuzione di tale…
+
+Passaggi in cui mi è stato rilevato un evidente difetto nell’abbigliamento…
+
+Mostrando i denti… muovendo le ginocchia… facendo scorrere i piedi… o in qualche altro modo.
+
+Qualsiasi di quelle grazie inesprimibili che oggi vengono giustamente apprezzate…
+
+Le caratteristiche di un artista popolare… Per essere sicuri che parlino davvero.
+
+Titolo:  
+“Confinarmi in una camicia di forza… Ma, mio Dio, mai!”
+
+Sospettava che avessi perso il respiro.
+
+
+
+Finalmente sistemati tutti i miei affari, mi misi a sedere…
+
+“Una mattina presto, presso la stazione di posta di ——, mentre lo consegnavano…”
+
+Compreso… tra i miei conoscenti, quella faccenda dell’ultima volta…
+
+La questione richiedeva la mia immediata presenza personale.
+
+[[motifs/city|città]].
+
+
+
+Il pullman era stracolmo; ma nella penombra incerta…
+
+Non era possibile distinguere le caratteristiche dei miei compagni… Nessuna traccia di loro.
+
+Non opposi alcuna resistenza efficace e mi lasciai portare via.
+
+Tra due gentiluomini di dimensioni colossali… mentre un terzo…
+
+“Di dimensioni maggiori… chiedendo perdono per la libertà che stava per assumere.”
+
+Si gettò a peso morto sul mio [[concepts/body|corpo]], cadendo completamente su di esso.
+
+Addormentato in un istante… tutte le mie grida soffocate svanite nel nulla
+
+Titolo:  
+Un sospiro di sollievo… un russare così forte da far arrossire persino i ruggiti più potenti…
+
+Il toro di Falario… Fortunatamente, lo stato dei miei sistemi respiratori è in ordine.
+
+Facoltà che rendono la soffocazione un incidente del tutto…
+
+domanda.
+
+
+
+Come, tuttavia, il giorno si fece sempre più chiaro man mano che ci avvicinavamo…
+
+Nei dintorni della [[motifs/city|città]], il mio tormentatore si alzava e si sistemava.
+
+Colletto-camicia, mi ringraziò in modo molto cordiale per il mio…
+
+Civiltà… Visto che rimanevo immobile (tutti i miei arti erano…)
+
+Distorto e con la testa piegata da un lato… le sue preoccupazioni
+
+Iniziò ad eccitarsi; e, svegliando anche gli altri passeggeri,…
+
+Espresso con grande fermezza, la sua opinione secondo cui…
+
+Quell’uomo si guadagnava da vivere ingannandoli durante la [[motifs/night|notte]], e.
+
+“Compagno di viaggio responsabile… che mi ha dato una pacca sulla spalla destra.”
+
+Gli occhi, come modo per dimostrare la [[concepts/truth|verità]] della sua proposta.
+
+
+
+In seguito, uno dopo l’altro (erano nove in totale),
+
+“Credevano fosse loro dovere tirarmi per l’orecchio… Un giovane medico alle prime armi…”
+
+Anche il medico, dopo avermi applicato uno specchietto da tasca sulla bocca.
+
+“Mi ha trovato senza fiato… l’affermazione del mio perseguitore…”
+
+“Pronunciato un verdetto definitivo; e l’intero gruppo espresse…”
+
+Determinazione a non subire mai più simili oppressioni
+
+Titolo:  
+Futuro… e non procedere oltre con simili “carni putrefatte”.
+
+presente.
+
+
+
+Ero qui, dunque, scacciato al segnale della “Corvo” (da…)
+
+In quale taverna il calesse capitò ad attraversare… senza incontrare nessuno
+
+“Con un incidente ancora più grave della rottura di entrambe le braccia…”
+
+Sotto la ruota posteriore sinistra del veicolo. Devo inoltre fare anche questo.
+
+Titolo:  
+Affermare con fermezza di non aver dimenticato di gettarlo via…
+
+Il più grande dei miei tronchi… che, purtroppo, mi è caduto addosso
+
+Cranio fratturato… in un modo al tempo stesso interessante e…
+
+Straordinario.
+
+
+
+Il proprietario del “Crow”, un uomo ospitale, si rese conto che…
+
+Il mio baule conteneva abbastanza per risarcirlo per qualsiasi piccola cifra…
+
+Fu immediatamente chiamato un chirurgo per affrontare i problemi che lui avrebbe potuto incorrere a mio favore.
+
+Di una sua conoscente, e mi affidò alle sue cure insieme a un conto…
+
+Ricevuta per dieci dollari.
+
+
+
+Il compratore mi portò nei suoi appartamenti e iniziò le operazioni.
+
+Immediatamente… Tuttavia, dopo avermi tagliato le orecchie, scoprì alcuni segni…
+
+Di animazione. Ora suonò la campanella e chiamò qualcuno del vicinato.
+
+Farmacista da consultare in caso di emergenza. Nel caso in cui…
+
+Sospetti riguardo alla mia esistenza che alla fine si rivelano…
+
+Corretto: nel frattempo, mi fece un’incisione nello stomaco…
+
+Mi sono fatto rimuovere alcune viscere per un'auto-anatomia privata.
+
+
+
+L’apotecario pensava che io fossi effettivamente morto… Questa idea…
+
+Cercò disperatamente di confutarlo, colpendolo e dibattendosi con tutte le mie forze.
+
+E compiendo le contorsioni più furiose… per le operazioni del…
+
+Il chirurgo mi aveva, in qualche modo, restituito la mia…
+
+Facoltà… Tutto, tuttavia, veniva attribuito agli effetti di una nuova…
+
+"Batteria galvanica: strumento utilizzato dal farmacista, che in realtà è un uomo..."
+
+Di informazioni, condusse diversi esperimenti curiosi…
+
+Dalla mia personale partecipazione al loro realizzarsi, non ho potuto fare a meno…
+
+Profondamente interessato… Fu una vera e propria tortura.
+
+Titolo:  
+Comunque sia, nonostante abbia tentato più volte…
+
+Conversazione… le mie capacità di parlare erano completamente assenti.
+
+Non riuscivo nemmeno ad aprire bocca; figuriamoci poi rispondere
+
+A alcune teorie ingegnose ma fantasiose…
+
+Circostanze: la mia breve conoscenza con l’approccio ipocratico
+
+La patologia avrebbe potuto fornirmi una confutazione immediata.
+
+
+
+Non riuscendo a giungere a una conclusione, i praticanti…
+
+Rimandato a ulteriori esami. Fui portato su…
+
+Titolo:  
+Il granaio; e la signora del chirurgo che mi ha ospitato…
+
+“Cassetti e calze… Il chirurgo stesso mi legò le mani.”
+
+“Mi legò la bocca con un fazzoletto da tasca… e poi chiuse a chiave la porta.”
+
+In apparenza, mentre si affrettava a mangiare la cena, mi lasciò solo.
+
+[[motifs/silence|Silenzio]] e meditazione.
+
+
+
+Ora ho scoperto, con grande gioia, che avrei potuto parlare.
+
+Se non fosse stato che la mia bocca era stata legata con un fazzoletto di tasca.
+
+“Consolandomi con questa riflessione, la ripetevo mentalmente…”
+
+Alcuni passaggi dell’“Onnipresenza della Divinità”, come è mia abitudine
+
+Prima di arrendermi al [[motifs/sleep|sonno]], due gatti, avidi e.
+
+Titolo:  
+“Un gesto pieno di vituperi… entrando da un buco nel muro, saltò su…”
+
+Un fiorente svolgimento alla catalana… atterrando l’uno di fronte all’altro
+
+Il mio volto… si imbarcò in una disputa indecorosa
+
+Una considerazione insignificante per il mio naso.
+
+
+
+Ma, poiché la perdita delle orecchie si rivelò essere il mezzo per raggiungere una posizione più elevata…
+
+Il trono di Ciro il Mago, o Mige-Gush della Persia
+
+Tagliandosi il naso, Zopyrus ottenne il controllo di Babilonia
+
+“La perdita di qualche chilo ha rivelato essere la mia salvezza…”
+
+Il mio corpo. Risvegliato dal dolore e bruciante di indignazione, esplosi.
+
+Con un solo movimento, i lacci e la benda… In agguato.
+
+“Con disprezzo, gettai uno sguardo ai litiganti dall’altra parte della stanza…”
+
+E aprendo la tenda con orrore estremo…
+
+Delusione… mi sono precipitato giù, con grande abilità…
+
+[[motifs/window|finestra]].
+
+
+
+Il rapinatore di posta W——, con il quale condividevo una notevole somiglianza, era…
+
+In questo momento, mentre veniva trasferito dalla prigione della città al patibolo eretto.
+
+Per la sua esecuzione nei sobborghi… La sua estrema debolezza e la lunga…
+
+Continuo stato di salute cagionevole gli aveva concesso il privilegio di poter rimanere…
+
+Senza manette; e vestito con l’abito tradizionale del patibolo… molto simile.
+
+Davanti a me, giaceva completamente disteso nella parte inferiore della forca.
+
+Titolo:  
+Il carrello… che si trovava proprio sotto le finestre del chirurgo.
+
+Il momento della mia precipitazione… senza alcuna altra difesa se non quella…
+
+Un conducente addormentato e due reclute del sesto reggimento di fanteria
+
+che erano ubriachi.
+
+
+
+Con sfortuna inevitabile, atterrai in piedi all’interno di…
+
+Veicolo. W——, che era un uomo astuto, colse al volo l’opportunità.
+
+Balzando in piedi immediatamente, lo seguì di corsa, svoltando poi in…
+
+Via laterale… scomparve in un batter d’occhio. I reclute…
+
+Disturbato dal trambusto, non riusciva proprio a comprendere i meriti di…
+
+La transazione… Ma vedendo un uomo, il suo esatto opposto
+
+Il criminale, fermo dritto nel carro davanti ai loro occhi…
+
+Titolo: Erano dell’opinione che quel furfante (si riferiva a W———) stesse cercando di…
+
+Fuggendo via…
+
+Condivisero questo parere tra loro; ognuno di loro prese una dose di liquore.
+
+E poi mi hanno abbattuto con le canne dei loro fucili.
+
+
+
+Non trascorse molto prima che arrivassimo al luogo di destinazione.
+
+Non c’era nulla che potessi dire a mia difesa. L’impiccagione era la mia sorte.
+
+Fato inevitabile… Mi rassegnai ad esso con un senso di… mezzo…
+
+Stupido, quasi acrimonioso… Essendo un po’ cinico, provavo tutto questo…
+
+"I sentimenti di un cane… Ma il boia sistemò la corda del cappio."
+
+Attorno al mio collo. La goccia cadde.
+
+
+
+Non oso descrivere le mie sensazioni sul patibolo; sebbene…
+
+Qui, senza dubbio, potrei esprimermi con chiarezza… ed è un argomento importante.
+
+Su questo non è stato detto nulla di davvero significativo. Anzi, scrivere al riguardo.
+
+Un tema del genere merita davvero di essere “impiccato”… Ogni autore che lo affronti deve farlo con grande impegno.
+
+Dovrebbe limitarsi a questioni legate all’esperienza personale. Così fece [[characters/mark-antony|Marco Antonio]].
+
+Scrisse un trattato sull’ubriacarsi.
+
+
+
+Posso però menzionare che non lo feci. Il mio [[concepts/body|-corpo]] sì, ma io no.
+
+Senza respiro…
+
+Orecchio sinistro… che sembrava proprio un’arma da guerra
+
+Dovrei aver incontrato pochissimi inconvenienti… Per quanto riguarda…
+
+Un colpo improvviso al collo al momento della caduta… semplicemente.
+
+Un rimedio al torto causato da quel gentiluomo grasso
+
+Nell’autobus.
+
+
+
+Per motivi validi, tuttavia, ho fatto del mio meglio per soddisfare le esigenze del pubblico.
+
+“Valeva la pena il disturbo… Si diceva che le mie convulsioni fossero…”
+
+Straordinario. I miei spasmi sarebbero stati difficili da superare.
+
+Il pubblico chiese un bis. Alcuni signori svennero; e una folla…
+
+Diverse signore furono portate a casa in preda all’isteria; Pinxit ne approfittò.
+
+Della possibilità di fare delle correzioni, partendo da un [[forms/sketch|schizzo]] realizzato sul posto.
+
+La sua straordinaria rappresentazione di “Marsia scuoiato vivo”.
+
+
+
+Quando ebbi fornito abbastanza divertimento, si ritenne appropriato…
+
+per salvare il mio [[concepts/body|corpo]] dalla forca; soprattutto perché.
+
+Il vero colpevole è stato ritrovato e riconosciuto nel frattempo.
+
+Un fatto che, sfortunatamente per me, non conoscevo.
+
+
+
+Certo, molta compassione fu manifestata a mio favore, e poiché…
+
+Qualcuno rivendicò il mio cadavere… e fu ordinato che io venissi…
+
+Sepolto in un cimitero pubblico.
+
+
+
+Qui, dopo un certo lasso di tempo, fui lasciato indietro. Il sacrestano se ne andò.
+
+E rimasi solo. Una strofa del poema “Malcontent” di Marston.
+
+
+
+[[motifs/death|Morte]] è un bravo ragazzo e tiene sempre la sua casa aperta.
+
+
+
+In quel momento mi sembrò una palese menzogna.
+
+
+
+Tuttavia, ho sollevato il coperchio della mia bara ed sono uscito.
+
+Il posto era terribilmente desolato e umido; iniziai ad agitarmi.
+
+Con noia… Per passare il tempo, mi aggirai tra le numerose…
+
+Coffini allineati in ordine… Li sollevai uno per uno.
+
+E aprendo i loro coperchi, mi misi a riflettere su…
+
+La [[concepts/mortality|mortalità]] all’interno.
+
+
+
+“Questo…”, mormorai tra me, rotolando sopra un cadavere gonfio e rigonfio.
+
+e rotondo, “Questo è stato, senza alcun [[concepts/doubt|dubbio]], in ogni senso della parola.”
+
+Un uomo sfortunato… È stata davvero una sorte terribile la sua.
+
+Camminare, ma zoppicare… Passare attraverso la vita non come un essere umano.
+
+Come un elefante, non come un uomo…
+
+rinoceronte.
+
+
+
+“I suoi tentativi di farsi apprezzare sono stati tutti fallimenti.”
+
+Procedimenti circolari: un fallimento evidente. Un passo avanti…
+
+Avanti… Sfortunatamente per lui, ne ha presi due verso destra.
+
+E tre a sinistra… I suoi studi si sono limitati a…
+
+La poesia di Crabbe. Non può certo avere idea della meraviglia che racchiude.
+
+“Pirouette… Per lui, un ‘pas de papillon’ è qualcosa di astratto.”
+
+Concezione. Non ha mai raggiunto la cima di una [[motifs/hill|collina]]. Non l’ha mai fatto.
+
+Mai viste da alcuna guglia le glorie di una metropoli… Calore
+
+Il suo eterno nemico. Nei giorni più difficili della sua vita…
+
+Giorni di un cane… In essi, ha sognato fiamme e…
+
+Asfissia, di montagne su montagne, del Pelio sopra le Ossa. Lui.
+
+Non riusciva a respirare normalmente; insomma, era senza fiato.
+
+Gli sembrava eccessivo suonare strumenti a [[motifs/wind|vento]]. Lui era.
+
+L’inventore di ventilatori a movimento autonomo, vele alimentate dall’[[motifs/wind|vento]] e altri dispositivi simili. Lui.
+
+“Patronizzato da Du Pont, il fabbricante di mantici… morì in miseria.”
+
+Tentativo di fumare un sigaro. Nel suo caso, penso…
+
+Un profondo interesse, qualcosa per cui provo sinceramente simpatia.
+
+
+
+“Ma ecco,” dissi io, “ecco…” e lo trascinai via con rabbia.
+
+Un recipiente di forma magra, alta e dall’aspetto particolare…
+
+Un aspetto notevole suscitò in me una sensazione di disagio
+
+Familiarità: “Ecco un miserabile che non merita nulla…”
+
+“Compassione…”, disse, al fine di ottenere una reazione più netta.
+
+Approccio al mio soggetto: ho utilizzato il pollice e l’indice per…
+
+Naso e il modo in cui lo si fa assumere una posizione seduta
+
+A terra, tenendola così, alla distanza del mio braccio, mentre continuavo…
+
+Il mio monologo.
+
+
+
+“Senza alcuna possibilità di compassione”, ripetei, “chi davvero…”
+
+Si potrebbe pensare di provare compassione per un’[[archetypes/shadow|ombra]]. Inoltre, non ne ha già avuta abbastanza?
+
+La sua piena quota delle benedizioni della [[concepts/mortality|mortalità]]? Lui era.
+
+Autore di imponenti monumenti: torri di avvistamento, steli per i fulmini. La Lombardia.
+
+Popolari… Il suo trattato su “Ombre e sfumature” lo ha reso immortale.
+
+Lui. Ha curato con notevole abilità l’ultima edizione di…
+
+“Verso sud, sulle ossa…” Si iscrisse all’università presto e studiò…
+
+Pneumatici. Poi tornò a [[motifs/home|casa]], parlò per ore e continuò a suonare.
+
+Il corno francese… Egli apprezzava molto le cornamuse; il Capitano Barclay, invece…
+
+Camminava contro il [[motifs/time|Tempo]], ma non cercava di sfidarlo. Windham e.
+
+Allbreath era uno dei suoi scrittori preferiti; l’[[archetypes/artist|artista]] che amava di più era Phiz.
+
+Morì gloriosamente inalando gas… levique flatu corrupitur.
+
+Come la fama della pudicizia in Girolamo. {*1} Indubbiamente…
+
+a—”
+
+
+
+“Come puoi farlo?… Come… puoi davvero?” – interruppe la persona a cui mi rivolgevo.
+
+"Rimproveri furiosi, ansimi affannosi e strappi disperati..."
+
+Sforzo estremo… il laccio intorno alle sue mascelle… “Come può farlo, signor Lackobreath?”
+
+“Così crudelmente infernale da pizzicarmi il naso in quel modo? Hai davvero fatto…”
+
+Non capisco come abbiano potuto chiudermi la bocca… E tu devi saperlo, se lo sai davvero.
+
+Qualsiasi cosa… Che enorme quantità di respiro devo liberarmene! Se tu…
+
+Non lo so, ma siediti e vedrai. Nella mia situazione…
+
+“Riuscire finalmente ad aprire bocca… è davvero un grande sollievo.”
+
+Titolo:  
+Espatriare – per poter comunicare con qualcuno che sia come te…
+
+Non credere di dover interrompere il flusso delle cose in ogni momento.
+
+Discorso di un gentiluomo: le interruzioni sono irritanti e dovrebbero essere evitate
+
+Senza dubbio dovrebbe essere abolito… non pensi anche tu? Nessuna risposta, ti prego… uno solo.
+
+Una sola persona è sufficiente per parlare in un determinato momento. Finirò presto.
+
+E poi potrete iniziare… — Ma come diavolo, signore, come avete fatto ad finire in questa situazione?
+
+Luogo?. Nemmeno una parola, vi prego. Anch’io sono stato qui qualche tempo fa. Terribile.
+
+Incidente! – Ne avrete sentito parlare, immagino… Una terribile calamità… Camminare sotto…
+
+Windows, poco tempo fa, più o meno all’ora in cui tu eri.
+
+Paralizzato dal palco… un evento terribile!… Si parla spesso di “trattenere il respiro” in momenti del genere…
+
+“Eh?… Tieni la bocca chiusa, capito?! L’ho preso da qualcun altro… L’avevo sempre…”
+
+Troppo di me stesso… L’ho incontrato all’angolo della strada… Non avrei mai ceduto.
+
+Una possibilità di parlare… ma non riuscivo nemmeno a pronunciare una parola… e sono stato attaccato.
+
+Di conseguenza, a causa dell’epilessia… Blab riuscì a fuggire… Maledetti sciocchi!
+
+Mi hanno dato per morto e mi hanno messo in questo posto… davvero notevoli “imprese”, tutte quante.
+
+Li hanno sentiti tutti… Hanno ascoltato ogni parola che hai detto su di me… Ogni singola parola.
+
+Mai dire una bugia… terribile! meraviglioso! oltraggioso! orribile! incomprensibile! ecc.
+
+Altre cose… e così via…
+
+
+
+La mia sorpresa di fronte a una cosa così inaspettata…
+
+Discorso, o la gioia con cui mi convinsi gradualmente
+
+Il respiro fortunatamente catturato dal gentiluomo…
+
+Il vicino che presto divenne mio amico…
+
+Titolo:  
+“Scadenza identica… persa per errore durante la conversazione…”
+
+Mia moglie. [[motifs/time|Il tempo]], il luogo e le circostanze hanno reso la cosa inevitabile.
+
+Senza dubbio… Tuttavia, non ho immediatamente allentato la presa.
+
+Sul proboscide del signor W.: almeno non durante quel lungo periodo…
+
+Titolo:  
+Quello che l’inventore dei pioppi della Lombardia continuò a concedermi
+
+Le sue spiegazioni.
+
+
+
+In questo senso, sono stato guidato da quella prudenza abituale che…
+
+“La determinazione è sempre stata la mia caratteristica principale… Riflettei su come molte persone…”
+
+Difficoltà potrebbero ancora ostacolare la mia conservazione…
+
+Solo un sforzo estremo da parte mia avrebbe potuto superarlo… Molte cose, in realtà.
+
+Personaggi, ho riflettuto, tendono ad valutare le merci in base…
+
+Possession… per quanto inutile possa essere per il suo possessore di allora…
+
+Problemi o difficoltà… in diretta proporzione con i vantaggi.
+
+Ottenuto dagli altri attraverso i loro sforzi, o conquistato da sé stessi
+
+A causa del loro abbandono. Forse lo stesso vale per il signor.
+
+"Windenough? Manifestando ansia per il respiro che gli mancava..."
+
+Attualmente così desideroso di liberarmene… potrei non correre dei rischi?
+
+Le esazioni della sua avidità… Nel mondo esistono individui spregevoli.
+
+“Me ne ricordai con un sospiro: chi non esiterebbe a compiere atti ingiusti…”
+
+Opportunità anche con il vicino di casa… e questa osservazione…
+
+Da Epitteto: è proprio in quel [[motifs/time|momento]] che gli uomini sono più.
+
+Desiderosi di liberarsi dal peso delle proprie calamità…
+
+Non provo alcun desiderio di alleviarne le sofferenze negli altri.
+
+
+
+Su considerazioni simili a queste, e pur mantenendo la mia…
+
+Afferrare il naso del signor W.: pensai quindi fosse opportuno…
+
+Modella la mia risposta.
+
+
+
+“[[archetypes/monster|Mostro]]!” esclamai con un tono di profonda indignazione — “un vero [[archetypes/monster|mostro]]”.
+
+E quel idiota dal doppio respiro!. Tu, che a causa delle tue ingiustizie.
+
+Ha compiuto la volontà del cielo, essere maledetto con una doppia sfortuna…
+
+“Tu, dico io, osi rivolgerti a me usando quel tono familiare…”
+
+Vecchio conoscente?… “Mento”, senza dubbio! E “taccia”, per favore.
+
+“Certo! Una conversazione davvero piacevole, per un gentiluomo… con una sola…”
+
+Respiro… Anche tutto questo, quando ho il potere di alleviare…
+
+Una calamità sotto la quale soffri così giustamente… per limitarla.
+
+“Le superfluità del tuo sfortunato respiro…”
+
+
+
+Come [[characters/brutus|Bruto]], esitai un attimo prima di rispondere; la mia risposta, però, fu come un tornado, il signor.
+
+Windenough mi sopraffece immediatamente; proteste seguirono una dopo l’altra.
+
+Proteste, scuse e ancora scuse… Non c’erano altre soluzioni.
+
+Titolo:  
+Di cui non era disposto ad adeguarsi, e non ce n’era nessuno che io…
+
+Non riuscì a sfruttarla al massimo.
+
+
+
+Le preliminari sono finalmente state organizzate, e il mio conoscente ha portato a termine il suo compito.
+
+La respirazione… di cui, dopo un’attenta analisi, ho…
+
+Gli diede in seguito un ricevuto.
+
+
+
+Sono consapevole che molti mi riteranno responsabile per aver parlato…
+
+Un modo così superficiale, una transazione così evanescente… Sarà così.
+
+Pensavo che avrei dovuto descrivere i dettagli in modo più preciso…
+
+Dettagli di un evento grazie al quale – e questo è davvero vero – sono emerse molte novità.
+
+Una luce potrebbe essere gettata su un ambito estremamente interessante…
+
+Filosofia fisica.
+
+
+
+“Mi dispiace molto, ma non posso rispondere a tutto questo. Un indizio potrebbe essere l’unica cosa che posso fornire.”
+
+Titolo:  
+La risposta che mi è permesso dare… C’erano delle circostanze, ma…
+
+Meglio dire il meno possibile…
+
+Un affare così delicato… davvero così delicato, ripeto.
+
+In quel momento, che riguardava gli interessi di una terza parte.
+
+Non ho la minima [[motifs/desire|voglia]] di provare quel risentimento sulfureo, in questo momento.
+
+Momento in cui si verifica l’incidenza.
+
+
+
+Non molto dopo che questo accordo necessario fu messo in atto…
+
+Fuga dalle prigioni della tomba. La forza unita di…
+
+Le nostre voci, rianimate, divennero presto abbastanza chiare… forbici.
+
+L’editore whig ristampò un trattato sulla “[[concepts/nature|natura]] e, ”
+
+“L’origine dei rumori sotterranei”. Una risposta – un contraddittorio – una confutazione… e altro ancora.
+
+Giustificazione… presente nelle colonne di un giornale democratico.
+
+Solo con l’apertura della cassaforte si poté risolvere la controversia.
+
+Titolo:  
+Il fatto che la presenza di Mr. Windenough e la mia si rivelasse utile per entrambi…
+
+Le parti coinvolte avevano chiaramente torto.
+
+
+
+Non riesco a concludere questi dettagli di alcune parti particolarmente insolite…
+
+Una vita sempre abbastanza piena di avvenimenti… senza mai ripetitività.
+
+Ricordando all’attenzione del lettore i meriti di ciò…
+
+Una filosofia indiscriminata che rappresenti davvero uno scudo efficace e immediatamente disponibile.
+
+Contro quei flagelli invisibili e insensibili…
+
+Non è stato mai del tutto compreso. Fu nel rispetto di questo spirito di saggezza che…
+
+Tra gli antichi Ebrei si credeva che le porte del Cielo…
+
+Titolo:  
+Sarebbe inevitabilmente aperto a quel peccatore, o a quel santo, che…
+
+Buoni polmoni e una fiducia innata: queste sono le qualità necessarie per pronunciare quelle parole ad alta voce.
+
+“‘Amen!’ Fu nel segno di questa saggezza che, quando un grande…”
+
+A Atene imperversava la peste, e tutti i tentativi fatti risultarono vani.
+
+Tentativo di rimozione, secondo quanto racconta Laerteo…
+
+Il suo secondo libro su quel filosofo consigliava la costruzione di…
+
+Santuario e tempio “al vero Dio”.
+
+
+
+LYTTLETON BARRY.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Loss of Breath (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/mirror,motif/nature,motif/snow,motif/soul,motif/time,motif/water,concept/courage,concept/despair,concept/honour,concept/nature,concept/self,concept/suicide,concept/wonder,character/witch"></span>

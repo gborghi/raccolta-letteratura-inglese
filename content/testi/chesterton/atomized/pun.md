@@ -148,6 +148,141 @@ a landscape as [[motifs/well|well]] as a trap.
 (from The Daily News, 1911 reprinted in Lunacy + Letters.)
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# il bisticcio
+
+IL BISTICCIO
+
+di G.K. Chesterton
+
+UN consiglio particolarmente pessimo viene costantemente dato agli scrittori moderni,
+specialmente ai teologi moderni:  che dovrebbero adattarsi
+allo spirito del tempo.  Se c'è una cosa
+che ha mandato in rovina l'umanità fin dal principio, è stata
+lo spirito del tempo, che significa sempre esagerare
+ancor di più qualcosa che è già grossolanamente esagerato.
+Lo spirito del tempo significa sempre prendere le crinoline che sono
+già scomode e allargarle finché diventino impossibili.
+Ma se qualcuno vuole un buon esempio minore, difficilmente ne potrebbe trovare
+uno migliore di quell'antica e spesso barbara specie di umorismo
+che va sotto il nome di bisticcio.
+
+Poiché il bisticcio ha due funzioni distinte; una funzione rara,
+che è eterna, e una funzione alla moda, che è morta.
+Se prendiamo dapprima l'ultima e minore delle due, dobbiamo calarci
+per un momento in un'atmosfera ancestrale ormai del tutto dimenticata.
+Nella metà bohémienne del mondo dei primi vittoriani l'arguzia regnava
+come una sorta di istituzione.  L'arguzia era per queste persone
+intellettuali qualcosa di simile a ciò che lo sport è per la gente più semplice;
+era una permanente competizione aperta, uno steccato libero eppure formale
+in cui i giovani potevano guadagnarsi gli speroni.
+
+L'arguzia, che è in questo senso guerresca (a paragone dell'umorismo,
+che può essere accidentale o persino in parte inconsapevole), deve
+per necessità tendere a forme fisse e forse persino pedantesche
+di leggerezza.  Il completare versi, il ribattere in distici rimati,
+il fare anagrammi o acrostici su una qualsiasi parola o frase casuale,
+riempiono tutte le cronache mondane di quel [[motifs/time|tempo]].  Due eminenti giuristi
+si scambiano epigrammi rimati all'istante a un tavolo da pranzo;
+[[motifs/lamb|Lamb]] è fiero d'aver scritto d'improvviso una preposterosa arguzia
+sulle calze rosa; Douglas Jerrold va in giro come un
+noto duellante, sempre pronto a trafiggere qualcuno con una punta.
+In quest'atmosfera non sorprende che uno dei più
+popolari intrattenimenti sia stato quello fantastico eppure
+preciso del bisticciare.
+
+Ma benché l'arguzia fosse formale, la cameratesca era franca e chiassosa.
+Molti di questi uomini, da [[motifs/lamb|Lamb]] a Dickens, o da Sydney Smith a Leigh Hunt,
+erano uomini il cui ingegno recava in sé una certa poesia e un elementare umorismo.
+Di qui seguì ciò che deve sempre seguire quando persone di alto spirito
+giocano a un gioco con regole.  Le limitazioni sono godute,
+ma le limitazioni sono spinte al loro estremo, ciascun giocatore è
+fiero di ottenere una preposterosa eccezione appena entro la regola.
+La risata era più alta quando il tiro era più temerario; e in quest'
+atmosfera sorse la massima cardinale di Charles [[motifs/lamb|Lamb]], "che il peggior bisticcio
+è il migliore". Era la mira dell'ideale bisticciatore che la gente
+ammirasse il suo ingegno ma nel medesimo respiro alquanto maledicesse la sua sfrontatezza.
+Questa prima specie di bisticcio in puro alto spirito era in verità una moda,
+come il cantare a tavola.  Ci sia permesso un parziale [[concepts/fear|timore]]
+che nel cessare di cantare a tavola troppa gente abbia
+cessato di cantare del tutto, e possiamo essere inclini a metterci in guardia
+l'un l'altro dal perdere i buoni umori così [[motifs/well|come]] i cattivi
+bisticci dei nostri padri.
+
+In un senso primario i bisticci sono un tipo perfetto di arte letteraria.
+Vale a dire, incarnano in breve l'essenza precipua dell'arte;
+che la completezza della forma confermi la completezza dell'idea.
+Ma mentre tutta l'arte mira a questo, a costringere forma e significato
+a procedere di conserva, vi sono tre forme speciali e acute
+della cosa che lo fanno con maggior chiarezza e sfida.
+Una è la rima; un'altra è ciò che si chiama similitudine e metafora,
+e la terza è il bisticcio.  Prendiamo, per amor di ragionamento,
+la similitudine per prima.
+
+Supponiamo che un uomo, criticando l'attuale sistema giornalistico, scrivesse
+così:  "Quando parliamo della [[concepts/freedom|libertà]] della Stampa dovremmo ricordare
+che il singolo giornalista scrive sotto notevoli restrizioni nella
+forma del suo lavoro, e ancor più nella parzialità che è costretto ad assumere."
+Ciò esprime un fatto assai vivido, ma non lo esprime, forse,
+in modo assai vivido.  Il signor Zangwill ha espresso la stessa cosa così:
+"Una questione pubblica è come un foglio di carta.  Molto può esservi scritto
+su entrambi i lati; ma un giornalista deve scrivere solo su un lato."
+Allora chiunque può sentire come la pungenza della protesta intellettuale
+sia perfezionata e sottolineata da una pungenza nella mera forma verbale.
+Il medesimo senso di colpire nel giusto segno può essere trasmesso
+dalla coincidenza chiamata rima.  Un uomo che scrivesse in prosa in un impeto di
+giusto sdegno potrebbe forse dire: "Ci si può almeno sbarazzare di un simile
+insetto umano, una creatura che è insieme fetida e velenosa."
+Ma ciò non avrebbe la speciale sorta di sonora energia ed enfasi
+di un distico dallo stesso effetto:
+
+Pur lasciate ch'io scacci questo insetto dalle ali dorate,
+questo dipinto [[archetypes/child|figlio]] del fango che fetido punge.
+
+Questo è per un verso un esempio particolarmente buono, perché mostra
+la prossimità dell'assonanza ad altri artifici verbali.  Se «wings» e «stings»
+è soltanto una rima, «stinks» e «stings» è qualcosa di molto simile a un bisticcio.
+E quando veniamo ai grandi bisticci di Hood o di qualsiasi altro scrittore,
+notiamo anzitutto quest'uso del bisticcio nell'aguzzare e inchiodare
+un pensiero.  Supponiamo (adottando il medesimo metodo) che Hood,
+scrivendo un resoconto giornalistico di uno degli ultimi duelli, avesse scritto:
+"Entrambi i contendenti spararono in aria; e non possiamo esprimere con troppa forza
+la nostra [[concepts/hope|speranza]] che coloro i quali ritengano loro dovere ricorrere
+a questa vecchia forma di [[concepts/self|auto]]difesa, possano imitare una così sensata
+e umana interpretazione di essa."  Ciò è abbastanza fondato;
+ma è un po' laborioso, e non esprime né
+il distacco né la decisione di un simile critico del duello.
+Hood, di fatto, scrisse davvero:
+
+Così ciascuno verso l'alto nell'aria
+il suo colpo spese.
+E possano tutti gli altri duelli avere
+quell'esito alla fine.
+
+Qui il gioco di parole, cadendo così ridicolmente a proposito,
+esprime non soltanto l'umanità del critico, ma anche la sua
+umoristica imparzialità e l'imperturbabile prontezza d'ingegno.
+Oppure ancora, sulla proposta di chiudere i Giardini Zoologici
+di [[characters/sunday|domenica]], Hood avrebbe [[motifs/well|ben]] potuto scrivere su qualche giornale:
+"È difficile vedere dove i nostri legislatori puritani traccino il confine
+nei piaceri naturali; vietano la vista delle opere di Dio quando esse
+sono animali, eppure non possono vietarle quando sono vegetali
+o minerali."  Ciò è razionale, ma ha il tono della supplica.
+Ciò che occorre per simili fanatismi è il tono dello scherno;
+e lo si ottiene con il [[topoi/double|doppio]] rintocco d'un vero argomento e
+d'una frecciata verbale:
+
+Una volta che la setta trionfante al proprio testo
+rinchiuda Nerone dal sabato al lunedì;
+e certo come il destino ci negheranno poi
+di vedere i denti di leone di [[characters/sunday|domenica]].
+
+Questo è l'uso letterario del trucco, ed è poetico tanto [[motifs/well|quanto]] acuto:
+un paesaggio non [[motifs/well|meno]] che una trappola.
+
+(da The Daily News, 1911, ristampato in Lunacy + Letters.)
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="pun (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/lamb,motif/time,motif/well,concept/fear,concept/freedom,concept/hope,concept/self"></span>

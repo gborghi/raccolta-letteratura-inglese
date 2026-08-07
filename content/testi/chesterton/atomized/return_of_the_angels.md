@@ -140,6 +140,133 @@ We have returned to it because, by the rejection of rationalism,
 the world becomes suddenly rational.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il ritorno degli angeli
+
+IL RITORNO DEGLI ANGELI
+
+Daily News, 14 marzo 1903
+
+Scrivo queste osservazioni con una grande [[concepts/hope|speranza]], quella di suscitare polemiche.
+È davvero una cosa singolare che, in mezzo a tutto il gran parlare della grande opera
+della scienza fisica e della sua presunta vittoria sul dogmatismo religioso,
+nessuno abbia notato quale sia stato realmente il più grande di tutti i trionfi della scienza.
+Fu una scoperta assai più grande di quella dell'evoluzione.
+Fu la scoperta non di un fatto, ma di un metodo,
+la madre di innumerevoli fatti. Quel metodo è, naturalmente,
+ciò che nella teoria scientifica è noto come il metodo dell'ipotesi.
+Lo si può trasmettere nel modo più chiaro e semplice, in linguaggio comune,
+dicendo che è il principio secondo cui il modo migliore di vedere se una giacca
+va bene a un uomo non è misurare entrambi, ma provarla addosso.
+È la sostituzione del metodo logico, assai lento,
+di accumulare, punto per punto, una prova assoluta con un metodo rapido,
+sperimentale e immaginativo che ci dà, molto prima
+che si possa ottenere la prova assoluta, un'ottima convinzione operativa.
+Sento parlare, poniamo, di una certa teoria sull'universo.
+A titolo di prova, la assumo per vera; poi, se scopro con un sussulto che,
+una volta assunta, essa spiega gli stivali ai miei piedi e il naso sul mio volto,
+che il mio ombrello ha un significato nuovo e radioso, che la mia porta
+d'ingresso all'improvviso si spiega da sé, che verità sul mio gatto e sul mio cane
+e su mia moglie e sul mio cappello e sulla mia credenza mi si affollano addosso tutto il giorno e ogni giorno,
+credo in quella teoria e continuo a crederci sempre di più.
+
+D'altra parte, se la teoria non è vera, posso essere perfettamente
+certo che dieci minuti dopo averla assunta sperimentalmente
+mi romperò gli stinchi contro qualche contraddizione. Abbiamo abbottonato
+la giacca attorno al mondo (quel vecchio signore rotondo e paziente)
+ed essa si è spaccata sulla schiena. È di certo del tutto evidente
+che questo è il metodo su cui basiamo tutte le nostre credenze reali
+e che su questo, soprattutto, basiamo la nostra credenza nell'evoluzione.
+Delle migliaia di persone brillanti ed eleganti come noi
+che credono grosso modo nella dottrina darwiniana, quanti sono
+coloro che sanno quale fossile o quale scheletro, quale coda di pappagallo o quale
+stomaco di seppia sia realmente ritenuto l'esempio conclusivo
+e il dato assoluto della selezione naturale? Non sappiamo quasi nulla
+dei fatti darwiniani che conducono alla [[concepts/conversion|conversione]]. Ciò che sappiamo è molto
+più importante: i fatti darwiniani che vengono dopo la [[concepts/conversion|conversione]].
+Ciò che sappiamo, per usare un linguaggio più alto, sono i frutti dello spirito.
+Sappiamo che, con questa idea una volta entrata nella nostra testa, un milione
+di cose diventano trasparenti come se dietro di esse fosse accesa una lampada:
+vediamo la cosa nel cane per la strada, nella pera sul muro,
+nel libro di [[concepts/history|storia]] che stiamo leggendo, nel bambino nella carrozzina
+e nelle ultime notizie dal Borneo. E gli adempimenti si riversano su
+di noi in una cateratta così naturale e continua che alla fine si raggiunge
+quel [[concepts/paradox|paradosso]] della condizione che è chiamata fede. Abbiamo visto
+tante prove della teoria da averle dimenticate tutte.
+La teoria ci è così chiara che a stento riusciamo persino a difenderla.
+Se ci avvicinassimo al razionalista più vicino che conosciamo e gli chiedessimo
+di dimostrare l'evoluzione, egli resterebbe sbalordito, come un uomo cui si chieda
+di difendere la giustizia.
+
+Ora bisognerebbe affermare chiaramente, a questo stadio dello sviluppo
+filosofico, che è in modo assolutamente enfatico grazie a questo metodo
+dell'ipotesi riuscita, della teoria che giustifica sé stessa,
+che un numero così grande di giovani di questa generazione sono tornati
+a una certa dottrina dello spirituale. Ciò che questa dottrina sia,
+forse è bene enunciarlo nel modo più crudo e più breve possibile;
+è l'idea che il mondo, esaminato da vicino, indichi con
+estrema suggestività l'esistenza di un mondo spirituale,
+di un mondo di agenti non apparentemente prodotti dalla materia,
+capaci in una certa misura di controllare e ispirare, capaci in
+una certa misura di essere conosciuti. Bisognerebbe, dico, affermare chiaramente
+che numerosi di noi sono tornati a questa credenza; e che vi siamo
+tornati non a causa di questo o quell'argomento,
+ma perché la teoria, quando la si adotta, torna dovunque;
+perché la giacca, quando la si prova, va bene in ogni piega.
+Bisognerebbe affermarlo perché i vecchi razionalisti sono giustamente indignati
+con noi, nella misura in cui immaginano che noi fondiamo una dottrina così
+tremenda su qualche disperato cavillo; nella misura in cui immaginano,
+come fanno, che ci aggrappiamo alla religione con fuscelli e pagliuzze...
+Il ritorno alla teoria spirituale non poggia su nessuna di queste cose.
+Poggia, come il movimento verso l'evoluzione, sul fatto
+che la cosa torna. Ci mettiamo la teoria come un cappello magico
+e la [[concepts/history|storia]] diventa translucida come una casa di vetro.
+
+Cominciamo dal principio.  Un evento sorprendente e sensazionale
+è accaduto di recente; alludo alla comparsa della creatura
+chiamata uomo.  È un evento recente, considerato in scala cosmica;
+è, comparativamente parlando, soltanto un poco troppo antico per essere
+finito nei titoli dei giornali della sera.  La novità, la subitaneità e l'assoluta
+unicità dell'ascesa dell'uomo ricordano il Giappone in Oriente;
+solo che qui vale ancor di più.... Vi potranno essere cento spiegazioni di questo.
+Nessun uomo assennato direbbe che ciò comporti una deduzione spirituale.
+Ma vi si accorda, e vi si accorda assai [[motifs/well|bene]], il supporre che
+esista un'altra atmosfera di vita oltre a quella animale, e che questo
+mondo spirituale sia irrotto in qualche modo in quella creatura in quel momento.
+Il fenomeno non prova la Religione, ma la religione spiega
+il Fenomeno.  Il Fenomeno è tanto solitario quanto l'Incarnazione.
+Lo si può spiegare dicendo che in un certo senso esso fu l'Incarnazione.
+Poi proseguiamo.  C'è una cosa che l'intera razza umana,
+senza alcuna eccezione, attesta.  Dalle età e dalle terre più remote,
+ovunque si trovi il seme dell'uomo, esso dichiara questo: che una tale
+irruzione ebbe luogo al principio, che essi o i loro
+padri hanno avuto a che fare con un essere più oscuro o più meraviglioso.
+Se la testimonianza umana significa qualcosa, questa è forse l'unica
+cosa sulla quale abbiamo una prova schiacciante.
+
+Abbiamo una testimonianza umana quasi schiacciante della necessità della moralità;
+abbiamo una testimonianza umana del tutto schiacciante della realtà della
+vita spirituale.  Siamo abbastanza pronti a citare la testimonianza di tutta
+l'umanità a sostegno dei regolamenti di polizia o dei dati dell'etica;
+ma pensiamo che l'umanità debba dire sciocchezze quando, con un
+grido universale, invoca questa cosa che è più antica del peccato.
+Che Marco Aurelio e i Pellerossa, che i saggi indù e i briganti
+italiani e il signor Spurgeon e Sir William Crookes giungano tutti per
+varie strade a questa conclusione, ecco una cosa importante.
+Una cosa ancor più importante è che questa fede nello spirito,
+lungi dall'essere una cosa morbosa, è tenuta da quasi tutte
+le persone fisicamente robuste che vivono all'aria aperta.
+Vigorosi contadini e fittavoli alti sei piedi credono tutti nelle fate.
+Il razionalismo è una malattia delle città, come il problema degli alloggi.
+Tutto questo è, s'intende, solo suggestivo, ma è assai suggestivo.
+Il Fenomeno non prova la Religione; ma la Religione spiega
+il Fenomeno.... Non siamo tornati alla teoria
+spirituale a causa di questa o quella banalità--per via di una
+giustificazione del Quarto Vangelo o d'un colpetto sul tavolo.
+Vi siamo tornati perché, col rigetto del razionalismo,
+il mondo diventa d'un tratto razionale.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Return_of_the_Angels (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/conversion,concept/history,concept/hope,concept/paradox,form/history"></span>

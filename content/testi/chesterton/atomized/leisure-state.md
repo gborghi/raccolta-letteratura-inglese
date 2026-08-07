@@ -165,6 +165,161 @@ They would not be citizens.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'Ideale di uno Stato dell'Ozio
+
+G. K. Chesterton
+
+----------------------------------------------------------------------------
+
+Tra le strane e piuttosto rigide contorsioni della piuttosto antiquata
+arte del giornalismo di partito c'è il dovere imposto al buon uomo di
+partito di cercare di dissentire dai suoi avversari quando essi hanno
+l'impudenza di essere d'accordo con lui. Egli non solo deve insistere
+che hanno torto; deve negare loro il diritto di aver ragione.
+Persino quando devi ammettere che il tuo antagonista parla con senno,
+persino quando ti fai un [[concepts/pride|vanto]] di parlare esattamente con lo
+stesso senno, devi negare che sia sensato da parte sua parlare con senno.
+Oppure neghi che sia senno nel medesimo senso; o senno nel vero senso
+della parola. Più spesso lasci semplicemente intendere che è incoerente
+e irrazionale da parte sua parlare con senno, perché è suo intero dovere
+e alta funzione nello Stato parlare senza senno. È suo compito aver
+torto; è suo compito essere sconfitto; egli è il compagno di giochi
+invisibile, che si schiera col francese e non può mai vincere. Che egli
+si schieri all'improvviso con il proprio paese, o guadagni l'approvazione
+dei propri critici, è considerato una forma di imbroglio. Due volte di
+recente ho notato un capo di partito dire cose che qualsiasi persona
+sensata direbbe, senza che la Stampa d'Opposizione gli permettesse di
+dirle, perché non lo si supponeva persona sensata. Una fu quando il
+signor Baldwin fece notare lo spaventoso pericolo di dichiarare
+direttamente guerra a tutti i Sindacalisti proprio nel momento in cui
+si suppone che li stiamo persuadendo a non essere Bolscevichi. L'altra
+fu quando il signor George Lansbury disse, in sostanza, che il sussidio
+era una deplorevole necessità, perché ogni uomo al mondo dovrebbe
+crescere aspettandosi di lavorare. Ma i giornalisti convenzionali,
+invece di concordare con il signor Lansbury, lo schernirono per aver
+concordato con loro.
+
+[[motifs/well|Ebbene]], quel modo di operare contro il Bolscevismo avrà la sua
+Nemesi; la Nemesi di ogni insensatezza, che è la dimenticanza. Una nuova
+generazione andrà dritta ai problemi e dimenticherà del tutto le
+contese di partito. Se vogliamo sapere come sarà il futuro, per quanto
+chiunque possa saperlo, dobbiamo cominciare alle sorgenti del pensiero
+e della teoria, alle fonti del [[motifs/river|fiume]], e non semplicemente
+gingillarci nelle paludi dove esso si disperde nel suo ultimo
+labirintico delta di manovre di corridoio e d'intrigo. Dobbiamo
+considerare quali idee ci sono nel mondo al presente, e in che modo è
+probabile che plasmino il futuro. Ora il signor George Lansbury,
+consapevolmente o no, toccò davvero uno dei più importanti di questi
+conflitti intellettuali, che così spesso precedono i conflitti politici
+e persino militari. E la posizione che egli assunse su quella materia
+era quella di un conservatore o di un tradizionalista; o come alcuni
+dall'altra parte direbbero, di un Tory.
+
+La controversia che intendo non ha nulla a che fare con il Socialismo
+o con il Capitalismo. È una questione riguardo alla [[concepts/nature|natura]]
+della vita umana, persino della vita umana ideale, che taglia
+trasversalmente tutte queste cose e probabilmente dividerebbe il
+Socialismo in due campi. È qualcosa che alcuni speculatori hanno già
+cominciato a discutere sotto il nome di "Lo Stato dell'Ozio." È qualcosa
+che fu suggerito, forse, nel titolo e nell'opera del signor H. G. Wells
+intitolata "Il Mondo Liberato." Non significa il mondo liberato dallo
+scettro o dalla sciabola; significa il mondo liberato dalla vanga e dal
+vomere. Significa che potrebbe essere possibile organizzare i macchinari
+in modo tale che l'intera vita dell'uomo sulla terra fosse di ozio e non
+di fatica. Non pretenderò di discutere se sarebbe meccanicamente
+possibile. Ma è [[motifs/time|tempo]] che cominciassimo a discutere se sia
+moralmente desiderabile. Sono interamente d'accordo con i Socialisti nel
+desiderare di dare alla maggior parte degli uomini meno lavoro e ad
+alcuni uomini più lavoro. Ma la questione astratta qui proposta non è
+quella questione; è se, potendo, vorremmo non dare a nessuno alcun
+lavoro. Assume, per amor di argomentazione, l'oscuro e dubbio principio
+che i dispositivi salva-fatica risparmieranno fatica. Chiede se, persino
+allora, vogliamo sempre risparmiare fatica. Parliamo di pagare troppo
+per il lavoro; dovremmo o non dovremmo pagare troppo per l'ozio?
+
+Molti degli idealisti riescono a concepire un'umanità oziosa soltanto
+come un'umanità ideale. Parlano come se nessun uomo potesse mai riposare
+finché non abbia raggiunto l'Utopia; o come se una vacanza davvero lunga
+fosse qualcosa come il paradiso, del tutto lontano e divino. La loro
+filosofia sociale è quella del gioviale e umoristico
+epitaffio della donna delle pulizie, che era passata a non far nulla nei
+secoli dei secoli. Ma persino ora non è affatto certo che coloro che non
+sono donne delle pulizie diventino davvero più giovali e umoristici non
+facendo nulla nei secoli dei secoli. Una vasta quantità di stantia e
+sentimentale fandonia è stata pronunciata a favore del Vangelo del
+Lavoro. Come si è detto che Carlyle parlò moltissimo in lode del
+[[motifs/silence|silenzio]], così si può anche rispettosamente affermare che
+egli oziò via moltissimo del suo [[motifs/time|tempo]] meditando sulle virtù
+della fatica. Il lavoro non è necessariamente buono per la gente; il
+troppo lavoro è pessimo per la gente; ed entrambi cominciano spesso con
+un cattivo motivo e giungono a una cattiva fine. Più di un moderno
+industriale si è fatto un vanto d'essere tanto industrioso quanto era
+industriale. E ciò significava poco più che egli era pronto a far
+sudare sé stesso, così [[motifs/well|come]] i suoi vicini, quando voleva
+truffare i suoi vicini. Più di un uomo moderno è vissuto secondo il
+Vangelo del Lavoro, quando esso significava lo spirito che lavorerà
+sempre contro il Vangelo. Molto danno è stato fatto erigendo queste
+untuose macchine a modelli per l'umanità. Io non indicherei questi
+uomini industriosi ideali; distoglierei gli occhi degli uomini dal
+penoso quadro dell'Apprendista Industrioso; velerei i loro volti perché
+non siano turbati dal ripugnante aspetto dell'uomo che Frequentò Questi
+Corsi e Adesso Sta Facendo un Sacco di Soldi. Rimuoverei in fretta
+questo deplorevole personaggio; ma ricorderei gentilmente agli Utopisti
+che egli non è l'unica specie di persona che sia deplorevole.
+
+Ora, lo Stato dell'Ozio esiste già. Può essere rappresentato in
+qualsiasi sorta di funzione come quella che si chiama un Banchetto di
+Stato o un Ballo di Stato. Il Mondo Liberato esiste già. Esiste nel
+mondo che specialmente pretende di chiamare sé stesso il mondo. Esiste
+nel mondo che i Socialisti e gli Utopisti specialmente pretendono di
+chiamare mondano. Siamo in grado persino ora di giudicare abbastanza
+[[motifs/well|bene]], in modo generale, quale sia l'effetto sugli esseri umani
+del non avere nulla di particolare da fare. Il "mondo" è già liberato,
+se quella è [[concepts/freedom|libertà]]; ma è esattamente ciò che gli Utopisti
+vogliono reclamare come [[concepts/freedom|libertà]]? È indubbiamente una società
+oziosa, ma è una società ideale? Si trova forse l'Utopia a Belgravia più
+che a Bohemia? Sono i ricchi tutti buoni o migliori di chiunque altro?
+Sono tutti intelligenti o più intelligenti di chiunque altro? Sono
+persino tutti liberi e felici, o tutti più liberi e più felici di
+chiunque altro? E benché vi siano persone buone e intelligenti e libere
+e felici tra i ricchi oziosi, come ve ne sono tra i poveri oziosi, per
+non parlare dei poveri industriosi, io penso sia largamente vero che la
+maggior parte di noi ha trovato che le persone più sincere e assennate
+erano persone che si guadagnavano da vivere. Concordo perciò con il
+signor Lansbury nel dissentire da coloro che vorrebbero perpetuare
+l'eterna disoccupazione unita a universali sussidi, e che chiamano
+quell'ignominiosa combinazione Il Mondo Liberato.
+
+Ma c'è un'altra forte obiezione che io, uno dei più pigri di tutti i
+figli di Adamo, ho contro lo Stato dell'Ozio. Coloro che pensano che si
+potrebbe fare sostengono che un vasto macchinario che usi elettricità,
+[[motifs/water|forza idraulica]], petrolio, e così via, potrebbe ridurre al
+minimo il lavoro imposto a ciascuno di noi. Potrebbe, ma ridurrebbe
+anche al minimo il nostro controllo. Diventeremmo noi stessi parti di
+una [[motifs/machine|Macchina]], anche se la [[motifs/machine|Macchina]] usasse quelle
+parti solo una volta alla settimana. La [[motifs/machine|Macchina]] sarebbe il
+nostro padrone; poiché la [[motifs/machine|Macchina]] produrrebbe il nostro
+cibo, e la maggior parte di noi non avrebbe alcuna nozione di come esso
+venisse realmente prodotto. Un uomo libero preferirebbe essere un
+contadino che si leva all'[[motifs/dawn|alba]] per mettere altro lavoro sul
+proprio campo. In altre parole, nella formula sociale a cui siamo tutti
+avvezzi, il contadino ha il controllo sui mezzi di produzione.
+L'occasionale aggiunta alla [[motifs/machine|Macchina]] intermittente non
+avrebbe alcun controllo sul proprio ozio, ma ancor meno sulla propria
+vita. Un macchinario organizzato in quel modo dovrebbe essere
+organizzato da un centro ufficiale; e non più controllato dalle sue
+aggiunte di quanto la più minuscola delle piccole ruote possa
+[[motifs/wind|caricare]] un orologio. Le persone oziose potrebbero essere molte
+cose nelle loro lunghe ore d'ozio. Non è impossibile, per il parallelo
+della plutocrazia, che potrebbero essere libertini, pervertiti,
+drogati, beoni, pessimisti e suicidi. Ma potrebbero anche essere tutti
+poeti e artisti e filosofi. Non sarebbero cittadini.
+
+-da The Illustrated [[settings/london|London]] News, 21 marzo 1925
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="leisure-state (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/nature,motif/river,motif/time,motif/well,concept/nature,concept/pride"></span>

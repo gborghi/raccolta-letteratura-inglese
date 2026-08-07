@@ -1009,9 +1009,1005 @@ The [[forms/tragedy|Tragedy]] of [[characters/macbeth|Macbeth]]
 | *(didascalia)* | Flourish |
 | [[characters/malcolm\|MALCOLM]] | We shall not spend a large expense of [[motifs/time\|time]]<br>Before we reckon with your several loves<br>And make us even with you. My thanes and kinsmen,<br>Henceforth be earls, the first that ever Scotland<br>In such an [[concepts/honour\|honour]] named. What’s more to do<br>Which would be planted newly with the [[motifs/time\|time]],<br>As calling [[motifs/home\|home]] our exiled friends abroad,<br>That fled the snares of watchful tyranny,<br>Producing forth the cruel ministers<br>Of this dead butcher and his fiend-like [[characters/queen\|queen]]-<br>Who, as ‘tis thought, by [[concepts/self\|self]] and violent hands<br>Took off her life—this and what needful else<br>That calls upon us, by the grace of grace<br>We will perform in measure, [[motifs/time\|time]], and place.<br>So thanks to all at once, and to each one,<br>Whom we invite to see us crowned at Scone. |
 | *(didascalia)* | Flourish. Exeunt Omnes |
-| FIRST | printed in the 1623 Folio, Antony and [[characters/cleopatra\|Cleopatra]] had been entered on the Stationers’ Register on 20 May 1608. Echoes of it in Barnabe Barnes’s [[forms/tragedy\|tragedy]] The Devil’s Charter, acted by Shakespeare’s company in February 1607, suggest that Shakespeare wrote his play no later than 1606, and stylistic evidence supports that date.<br>The Life of Marcus Antonius in Sir Thomas North’s [[forms/translation\|translation]] of Plutarch’s Lives of the Noble Grecians and Romans (1579) was one of the sources for [[characters/julius-caesar\|Julius Caesar]]; it also provided Shakespeare with most of his material for Antony and [[characters/cleopatra\|Cleopatra]], in which he draws upon its language to a remarkable extent even in some of the play’s most poetic passages. For example, [[characters/enobarbus\|Enobarbus]]’ famous description of [[characters/cleopatra\|Cleopatra]] in her barge (2.2.197-225) incorporates phrase after phrase of North’s prose. And the play’s action stays close to North’s account, though with significant adjustments, particularly compressions of the [[motifs/time\|time]]-scheme. It opens in 40 BC, two years after the end of [[characters/julius-caesar\|Julius Caesar]], and portrays events that took place over a period of ten years. [[characters/mark-antony\|Mark Antony]] has become an older man, though Octavius is still ‘scarce-bearded’. Plutarch, who was a connoisseur of human behaviour, also afforded many hints for the characterization; but some characters, particularly Antony’s comrade Domitius [[characters/enobarbus\|Enobarbus]] and [[characters/cleopatra\|Cleopatra]]’s women, [[characters/charmian\|Charmian]] and Iras, are largely created by Shakespeare.<br>In the earlier play, [[characters/mark-antony\|Mark Antony]] had formed a triumvirate with [[characters/octavius-caesar\|Octavius Caesar]] and [[characters/lepidus\|Lepidus]]. In Antony and [[characters/cleopatra\|Cleopatra]] the triumvirate is in a state of disintegration, partly because [[characters/mark-antony\|Mark Antony]]—married at the play’s opening to Fulvia, who is rebelling against [[characters/octavius-caesar\|Octavius Caesar]]—is infatuated with [[characters/cleopatra\|Cleopatra]], [[characters/queen\|Queen]] of [[settings/egypt\|Egypt]] (and the former mistress of [[characters/julius-caesar\|Julius Caesar]]). The play’s action swings between Rome and Alexandria as Antony is torn between the claims of Rome—strengthened for a while by his [[motifs/marriage\|marriage]], after Fulvia’s [[motifs/death\|death]], to [[characters/octavius-caesar\|Octavius Caesar]]’s sister [[characters/octavia\|Octavia]]—and the temptations of [[settings/egypt\|Egypt]]. Gradually opposition between Antony and Octavius increases, until they engage in a sea-fight near Actium (in Greece), in which Antony follows [[characters/cleopatra\|Cleopatra]]’s navy in ignominious retreat. The closing stages of the [[topoi/double\|double]] [[forms/tragedy\|tragedy]] portray Antony’s shame, humiliation, and [[concepts/suicide\|suicide]] after [[characters/cleopatra\|Cleopatra]] falsely causes him to believe that she has killed herself; faced with the threat that Caesar will take her captive to Rome, [[characters/cleopatra\|Cleopatra]] too commits [[concepts/suicide\|suicide]]. According to Plutarch, she was thirty-eight years old; as for Antony, ‘some say that he lived three-and-fifty years, and others say, six-and-fifty’.<br>In Antony and [[characters/cleopatra\|Cleopatra]] the classical restraint of [[characters/julius-caesar\|Julius Caesar]] gives way to a fine excess of language, of dramatic action, and of individual behaviour. The style is hyperbolical, overflowing the measure of the iambic pentameter. The action is amazingly fluid, shifting with an ease and rapidity that caused bewilderment to ages unfamiliar with the conventions of Shakespeare’s theatre. And the characterization is correspondingly extravagant, delighting in the quirks of individual behaviour, above all in the paradoxes and inconsistencies of the Egyptian [[characters/queen\|queen]] who contains within herself the capacity for every extreme of human behaviour, from [[concepts/vanity\|vanity]], meanness, and frivolity to the [[concepts/sublime\|sublime]] [[concepts/self\|self]]-transcendence with which she faces and embraces [[motifs/death\|death]]. |
-| THE PERSONS OF THE | PLAY |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[characters/macbeth|MACBETH]]
+BY WILLIAM SHAKESPEARE (ADAPTED BY THOMAS MIDDLETON)
+SHORTLY after James VI of Scotland succeeded to the English throne, in 1603, he gave his patronage to Shakespeare’s company; the Lord Chamberlain’s Men became the [[archetypes/king|King]]’s Men, entering into a special relationship with their sovereign. [[characters/macbeth|Macbeth]] is the play of Shakespeare’s that most clearly reflects this relationship. James regarded the virtuous and noble [[characters/banquo|Banquo]], [[characters/macbeth|Macbeth]]’s comrade at the start of the action, as his direct ancestor; eight Stuart kings were said to have preceded James, just as, in the play, [[characters/banquo|Banquo]] points to ‘a show of eight kings’ as his descendants (4.1.127.1-140); and in the play the English [[archetypes/king|king]] (historically Edward the Confessor) is praised for the capacity, on which James also prided himself, to cure ’the [[archetypes/king|king]]’s evil’ (scrofula). [[characters/macbeth|Macbeth]] is obviously a Jacobean play, composed probably in 1606.
+But the first printed text, in the 1623 Folio, shows signs of having been adapted at a later date. It is exceptionally short by comparison with Shakespeare’s other tragedies; and it includes episodes which there is good reason to believe are not by Shakespeare. Most conspicuous are Act 3, Scene 5 and parts of Act 4, Scene I: 38.I-60 and 141-8.1. These episodes feature Hecate, who does not appear elsewhere in the play; they are composed largely in octosyllabic couplets in a style conspicuously different from the rest of the play; and they call for the performance of two songs that are found in The [[characters/witch|Witch]], a play of uncertain date by Thomas Middleton. Probably Middleton himself adapted Shakespeare’s play some years after its first performance, adding these and more localized details, and cutting the play elsewhere. We do not attempt to excise passages most clearly written by Middleton, because the adapter’s hand almost certainly affected the text at other, less determinable points. The Folio text of [[characters/macbeth|Macbeth]] cites only the opening words of the songs; drawing on The [[characters/witch|Witch]], we attempt a reconstruction of their staging in [[characters/macbeth|Macbeth]].
+Shakespeare took materials for his story from the account in Raphael Holinshed’s Chronicle of the reigns of [[characters/duncan|Duncan]] and [[characters/macbeth|Macbeth]] (AD 1034-57). Occasionally (especially in the English episodes of Act 4, Scene 2) he closely followed Holinshed’s wording, but essentially the play’s structure is his own. He invented the framework of the [[characters/three-witches|three witches]] who tempted both [[characters/macbeth|Macbeth]] and [[characters/banquo|Banquo]] with prophecies of [[concepts/greatness|greatness]]. His [[characters/macbeth|Macbeth]] is both more introspective and more intensely evil than the competent warrior-[[archetypes/king|king]] portrayed by Holinshed; conversely, Shakespeare made [[characters/duncan|Duncan]], the [[archetypes/king|king]] whom [[characters/macbeth|Macbeth]] murders, far more venerable and saintly. Some of the play’s features, notably the character of [[characters/lady-macbeth|Lady Macbeth]], originate in Holinshed’s account of the murder of an earlier Scottish [[archetypes/king|king]], Duff; he was killed in his [[settings/castle|castle]] at Forres by Donwald, who had been ‘set on’ by his wife.
+[[characters/macbeth|Macbeth]] is an exciting story of witchcraft, murder, and retribution that can also be seen as a study in the philosophy and psychology of evil. The witches are not easily made credible in modern performances, and Shakespeare seems deliberately to have drained colour away from some parts of his composition in order to concentrate attention on [[characters/macbeth|Macbeth]] and his Lady. It is [[characters/macbeth|Macbeth]]’s neurotic [[concepts/self|self]]-absorption, his [[concepts/fear|fear]], his anger, and his [[concepts/despair|despair]], along with his wife’s steely determination, her invoking of the powers of evil, and her eventual revelation in [[motifs/sleep|sleep]] of her repressed humanity, that have given the play its long-proven power to fascinate readers and to challenge performers.
+THE PERSONS OF THE PLAY
+[[archetypes/king|KING]] [[characters/duncan|DUNCAN]] of Scotland
+A CAPTAIN in [[characters/duncan|Duncan]]’s army
+[[characters/macbeth|MACBETH]], Thane of Glamis, later Thane of Cawdor, then [[archetypes/king|King]] of
+Scotland
+A PORTER at [[characters/macbeth|Macbeth]]’s [[settings/castle|castle]]
+Three MURDERERS attending on [[characters/macbeth|Macbeth]]
+SEYTON, servant of [[characters/macbeth|Macbeth]]
+[[characters/lady-macbeth|LADY MACBETH]], [[characters/macbeth|Macbeth]]’s wife
+[[characters/banquo|BANQUO]], a Scottish thane
+FLEANCE, his son
+[[characters/macduff|MACDUFF]], Thane of Fife
+[[characters/lady-macduff|LADY MACDUFF]], his wife
+[[characters/macduff|MACDUFF]]’S SON
+SIWARD, [[characters/earl-of-northumberland|Earl of Northumberland]]
+YOUNG SIWARD, his son
+An English DOCTOR
+
+HECATE, [[characters/queen|Queen]] of the Witches
+Six WITCHES
+Three APPARITIONS, one an armed head, one a bloody [[archetypes/child|child]], one
+a [[archetypes/child|child]] crowned
+A SPIRIT LIKE A CAT
+Other SPIRITS
+
+An OLD MAN
+A MESSENGER
+MURDERERS
+SERVANTS
+
+A show of eight kings; Lords and Thanes, attendants, soldiers, drummers
+
+The [[forms/tragedy|Tragedy]] of [[characters/macbeth|Macbeth]]
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Tuoni e [[motifs/lightning\|lampi]]. Entrano [[characters/three-witches\|tre Streghe]] |
+| PRIMA [[characters/witch\|STREGA]] | Quando ci rivedremo noi tre?<br>Tra tuoni, [[motifs/lightning\|lampi]], o tra la pioggia? |
+| SECONDA [[characters/witch\|STREGA]] | Quando il tumulto sarà finito,<br>quando la battaglia sarà persa e vinta. |
+| TERZA [[characters/witch\|STREGA]] | Sarà prima del calar del sole. |
+| PRIMA [[characters/witch\|STREGA]] | Dove il luogo? |
+| SECONDA [[characters/witch\|STREGA]] | Sulla brughiera. |
+| TERZA [[characters/witch\|STREGA]] | Là per incontrare [[characters/macbeth\|Macbeth]]. |
+| PRIMA [[characters/witch\|STREGA]] | Vengo, Grimalkin. |
+| SECONDA [[characters/witch\|STREGA]] | Paddock chiama. |
+| TERZA [[characters/witch\|STREGA]] | Subito. |
+| TUTTE | Bello è brutto, e brutto è bello,<br>libriamoci per la nebbia e l’aria immonda. Escono |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme all’interno. Entrano il [[archetypes/king\|re]] [[characters/duncan\|Duncan]], [[characters/malcolm\|Malcolm]], Donalbain, Lennox, con il seguito, incontrando un Capitano sanguinante |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Chi è quell’uomo insanguinato? Egli può riferire,<br>a giudicare dal suo stato, della rivolta<br>le ultime nuove. |
+| [[characters/malcolm\|MALCOLM]] | È il sergente<br>che come buono e prode soldato combatté<br>contro la mia cattura. Salve, valoroso amico.<br>Riferisci al [[archetypes/king\|Re]] quanto sai della mischia<br>come tu l’hai lasciata. |
+| CAPITANO | Incerta stava,<br>come due nuotatori sfiniti che si aggrappano l’uno all’altro<br>e soffocano la loro arte. Lo spietato Macdonald—<br>degno d’essere un [[archetypes/rebel\|ribelle]], ché a tal fine<br>le moltiplicate scelleratezze della [[concepts/nature\|natura]]<br>gli sciamano addosso—dalle Isole Occidentali<br>di kerns e galloglasses è rifornito,<br>e la fortuna, sorridendo alla sua dannata impresa,<br>pareva la puttana d’un [[archetypes/rebel\|ribelle]]. Ma tutto è troppo debole,<br>ché il prode [[characters/macbeth\|Macbeth]]—[[motifs/well\|ben]] merita quel nome!—<br>sprezzando la fortuna, col suo acciaio brandito<br>che fumava di sanguinosa esecuzione,<br>come favorito del valore<br>si scavò il varco finché affrontò lo schiavo,<br>e non gli strinse la mano né gli disse addio<br>finché non lo squarciò dall’ombelico alle mascelle<br>e ne fissò il capo sui nostri spalti. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | O valoroso cugino, degno gentiluomo! |
+| CAPITANO | Come là donde il sole comincia il suo riflesso<br>prorompono tempeste che affondano navi e tuoni tremendi,<br>così da quella [[motifs/spring\|sorgente]] donde pareva venire conforto<br>gonfia lo sconforto. Odi, [[archetypes/king\|Re]] di Scozia, odi.<br>Non appena la giustizia, armata di valore,<br>ebbe costretto quei kerns saltellanti a fidarsi dei calcagni,<br>ecco che il signore norvegese, scorgendo il vantaggio,<br>con armi rilucenti e nuovi rinforzi d’uomini<br>diede inizio a un nuovo assalto. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Non sgomentò questo i nostri capitani, [[characters/macbeth\|Macbeth]] e<br>[[characters/banquo\|Banquo]]? |
+| CAPITANO | Sì, come i passeri le aquile, o la lepre il [[motifs/lion\|leone]]!<br>Se dico il vero devo riferire che furono<br>come cannoni sovraccarichi di [[topoi/double\|doppie]] cariche,<br>così doppiamente raddoppiarono i colpi sul nemico.<br>Se intendessero bagnarsi in ferite fumanti<br>o rendere memorabile un altro Golgota,<br>non so dire—<br>ma vengo meno. Le mie ferite gridano aiuto. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Così [[motifs/well\|bene]] ti si addicono le parole come le ferite:<br>sanno d’[[concepts/honour\|onore]] entrambe.—Andate, portategli chirurghi. |
+| *(didascalia)* | Esce il Capitano col seguito |
+| *(didascalia)* | Entrano Ross e Angus |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Chi viene qui? |
+| [[characters/malcolm\|MALCOLM]] | Il degno Thane di Ross. |
+| LENNOX | Che fretta traspare dai suoi occhi! Così dovrebbe apparire<br>chi sembra voler dire cose strane.<br>Ross<br>Dio salvi il [[archetypes/king\|Re]]. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Donde vieni, degno thane?<br>Ross<br>Da Fife, grande [[archetypes/king\|Re]],<br>dove i vessilli norvegesi sfidano il cielo<br>e agghiacciano la nostra gente.<br>Il Norvegese in persona, con numeri tremendi,<br>assistito da quel traditore slealissimo<br>il Thane di Cawdor, iniziò un tetro conflitto,<br>finché lo sposo di Bellona, chiuso in salda armatura,<br>lo affrontò a paragone di [[concepts/self\|sé]] stesso,<br>punta contro punta, braccio ribelle contro braccio,<br>frenando il suo spirito prodigo; e per concludere,<br>la vittoria cadde a noi— |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Gran felicità.<br>Ross<br>Sì che ora<br>Sweno, il [[archetypes/king\|re]] dei Norvegesi, implora un accordo;<br>né volemmo concedergli la sepoltura dei suoi uomini<br>finché non ebbe sborsato all’isola di San Colombano<br>diecimila dollari per il nostro uso generale. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Mai più quel Thane di Cawdor ingannerà<br>il nostro intimo interesse. Va’, pronuncia la sua immediata [[motifs/death\|morte]],<br>e col suo antico titolo saluta [[characters/macbeth\|Macbeth]].<br>Ross Sarà fatto. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Ciò ch’egli ha perduto, il nobile [[characters/macbeth\|Macbeth]] ha vinto. |
+| *(didascalia)* | Escono separatamente |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Tuoni. Entrano le [[characters/three-witches\|tre Streghe]] |
+| PRIMA [[characters/witch\|STREGA]] | Dove sei stata, sorella? |
+| SECONDA [[characters/witch\|STREGA]] | A uccidere porci. |
+| TERZA [[characters/witch\|STREGA]] | Sorella, e tu dove? |
+| PRIMA [[characters/witch\|STREGA]] | La moglie d’un marinaio aveva castagne in grembo,<br>e sgranocchiava, e sgranocchiava, e sgranocchiava. ‘Dammene’,<br>dissi io.<br>‘Vattene, [[characters/witch\|strega]]’, grida quella pasciuta di rifiuti.<br>Suo marito è andato ad Aleppo, padrone della Tigre.<br>Ma in un vaglio là navigherò,<br>e come un ratto senza coda<br>farò, farò e farò. |
+| SECONDA [[characters/witch\|STREGA]] | Ti darò un [[motifs/wind\|vento]]. |
+| PRIMA [[characters/witch\|STREGA]] | Sei gentile. |
+| TERZA [[characters/witch\|STREGA]] | E io un altro. |
+| PRIMA [[characters/witch\|STREGA]] | Io stessa ho tutti gli altri,<br>e i porti medesimi dove soffiano,<br>tutti i quarti ch’essi conoscono<br>nella carta del marinaio.<br>Lo prosciugherò secco come fieno.<br>Il [[motifs/sleep\|sonno]] né di [[motifs/night\|notte]] né di giorno<br>gli penderà sulla palpebra a tettoia.<br>Vivrà da uomo maledetto.<br>Stanche settimane nove volte nove<br>languirà, deperirà e si consumerà.<br>Benché la sua barca non possa perdersi,<br>pure sarà sbattuta dalla tempesta.<br>Guarda che ho. |
+| SECONDA [[characters/witch\|STREGA]] | Mostrami, mostrami. |
+| PRIMA [[characters/witch\|STREGA]] | Qui ho il pollice d’un pilota,<br>naufragato mentre tornava a casa. |
+| *(didascalia)* | Tamburo all’interno |
+| TERZA [[characters/witch\|STREGA]] | Un tamburo, un tamburo—<br>[[characters/macbeth\|Macbeth]] sta venendo. |
+| TUTTE | (danzando in cerchio)<br>Le sorelle fatali mano nella mano,<br>corriere del mare e della terra,<br>così vanno in giro, in giro,<br>tre volte al tuo, e tre volte al mio,<br>e tre volte ancora per far nove.<br>Silenzio! L’incanto è compiuto. |
+| *(didascalia)* | Entrano [[characters/macbeth\|Macbeth]] e [[characters/banquo\|Banquo]] |
+| [[characters/macbeth\|MACBETH]] | Un giorno così brutto e bello non l’ho mai visto. |
+| [[characters/banquo\|BANQUO]] | Quanto si dice ci sia fino a Forres?—Chi son queste,<br>così avvizzite, e così selvagge nelle vesti,<br>che non paiono abitatrici della terra<br>eppure vi stanno sopra?—Siete vive, o siete cosa<br>cui l’uomo possa rivolger domanda? Sembrate intendermi,<br>ché ognuna a un tempo posa il dito screpolato<br>sulle labbra scarne. Dovreste esser donne,<br>eppure le vostre barbe mi vietano d’interpretare<br>che tali siate. |
+| [[characters/macbeth\|MACBETH]] | (alle Streghe)<br>Parlate, se potete. Che siete? |
+| PRIMA [[characters/witch\|STREGA]] | Salve, [[characters/macbeth\|Macbeth]]! Salve a te, Thane di Glamis. |
+| SECONDA [[characters/witch\|STREGA]] | Salve, [[characters/macbeth\|Macbeth]]! Salve a te, Thane di Cawdor. |
+| TERZA [[characters/witch\|STREGA]] | Salve, [[characters/macbeth\|Macbeth]], che sarai [[archetypes/king\|re]] in avvenire! |
+| [[characters/banquo\|BANQUO]] | Buon signore, perché trasalite e parete [[concepts/fear\|temere]]<br>cose che suonano così belle? (Alle Streghe) In<br>nome della [[concepts/truth\|verità]],<br>siete voi fantasmi o davvero quello<br>che mostrate al di fuori? Il mio nobile compagno<br>salutate con grazia presente e gran predizione<br>di nobile possesso e di regale [[concepts/hope\|speranza]],<br>sì ch’egli ne pare rapito. A me non parlate.<br>Se sapete guardare nei semi del [[motifs/time\|tempo]]<br>e dire quale grano crescerà e quale no,<br>parlate dunque a me, che né imploro né [[concepts/fear\|temo]]<br>i vostri favori né il vostro odio. |
+| PRIMA [[characters/witch\|STREGA]] | Salve! |
+| SECONDA [[characters/witch\|STREGA]] | Salve! |
+| TERZA [[characters/witch\|STREGA]] | Salve! |
+| PRIMA [[characters/witch\|STREGA]] | Minore di [[characters/macbeth\|Macbeth]], e maggiore. |
+| SECONDA [[characters/witch\|STREGA]] | Non così felice, eppure assai più felice. |
+| TERZA [[characters/witch\|STREGA]] | Genererai re, benché tu non lo sia.<br>Dunque salve, [[characters/macbeth\|Macbeth]] e [[characters/banquo\|Banquo]]! |
+| PRIMA [[characters/witch\|STREGA]] | [[characters/banquo\|Banquo]] e [[characters/macbeth\|Macbeth]], salve! |
+| [[characters/macbeth\|MACBETH]] | Fermatevi, imperfette parlatrici, ditemi di più.<br>Per la [[motifs/death\|morte]] di Sinel so d’essere Thane di Glamis,<br>ma come di Cawdor? Il Thane di Cawdor vive,<br>gentiluomo prospero, e l’esser [[archetypes/king\|re]]<br>non sta nell’orizzonte del credibile,<br>non più che l’esser Cawdor. Dite donde<br>vi viene questa strana notizia, o perché<br>su questa brughiera arsa fermate il nostro cammino<br>con tal saluto profetico. Parlate, ve l’ingiungo.<br>Le Streghe svaniscono |
+| [[characters/banquo\|BANQUO]] | La terra ha le sue bolle, come le ha l’[[motifs/water\|acqua]],<br>e queste ne erano. Dove sono svanite? |
+| [[characters/macbeth\|MACBETH]] | Nell’aria, e ciò che pareva corporeo<br>si è sciolto come fiato nel [[motifs/wind\|vento]]. Fossero rimaste. |
+| [[characters/banquo\|BANQUO]] | C’erano davvero qui tali cose di cui parliamo,<br>o abbiamo mangiato di quella radice folle<br>che prende prigioniera la ragione? |
+| [[characters/macbeth\|MACBETH]] | I tuoi figli saranno re. |
+| [[characters/banquo\|BANQUO]] | Tu sarai [[archetypes/king\|re]]. |
+| [[characters/macbeth\|MACBETH]] | E anche Thane di Cawdor. Non andò così? |
+| [[characters/banquo\|BANQUO]] | Sullo [[concepts/self\|stesso]] tono e con le stesse parole. Chi c’è? |
+| *(didascalia)* | Entrano Ross e Angus |
+| ROSS | Il [[archetypes/king\|Re]] ha felicemente ricevuto, [[characters/macbeth\|Macbeth]],<br>la notizia del tuo successo, e quando legge<br>la tua impresa personale al cospetto dei ribelli<br>le sue meraviglie e le sue lodi contendono<br>quale debba esser tua o sua; ammutolito da ciò,<br>passando in rassegna il resto dello [[concepts/self\|stesso]] giorno<br>ti trova tra le salde schiere norvegesi,<br>per nulla atterrito da ciò che tu stesso creavi,<br>strane immagini di [[motifs/death\|morte]]. Fitti come grandine<br>giungevan corriere su corriere, e ognuno recava<br>le tue lodi nella grande difesa del suo regno,<br>e le riversava dinanzi a lui. |
+| ANGUS | (a [[characters/macbeth\|Macbeth]])<br>Siamo mandati<br>a darti i ringraziamenti del nostro regale signore;<br>solo per scortarti al suo cospetto,<br>non per ricompensarti. |
+| ROSS | E, a caparra d’un [[concepts/honour\|onore]] maggiore,<br>mi ordinò da parte sua di chiamarti Thane di Cawdor,<br>col qual titolo, salve, degnissimo thane,<br>ché esso è tuo. |
+| [[characters/banquo\|BANQUO]] | Come, può il diavolo dire il vero? |
+| [[characters/macbeth\|MACBETH]] | Il Thane di Cawdor vive. Perché mi vestite<br>di vesti prese a prestito? |
+| ANGUS | Chi era thane vive ancora,<br>ma sotto grave giudizio porta quella vita<br>che merita di perdere. Se fosse alleato<br>con quei di Norvegia, o rinforzasse il [[archetypes/rebel\|ribelle]]<br>con aiuto e vantaggio occulti, o se con entrambi<br>operasse alla rovina del suo paese, non so;<br>ma tradimenti capitali, confessati e provati<br>l’hanno abbattuto. |
+| [[characters/macbeth\|MACBETH]] | (a parte)<br>Glamis, e Thane di Cawdor.<br>Il massimo resta a venire. (A Ross e Angus) Grazie della<br>vostra fatica.<br>(A [[characters/banquo\|Banquo]]) Non [[concepts/hope\|sperate]] che i vostri figli saranno re,<br>quando quelle che diedero a me il thane di Cawdor<br>non promisero loro di meno? |
+| [[characters/banquo\|BANQUO]] | Ciò, creduto fino in [[motifs/home\|fondo]],<br>potrebbe pure infiammarvi verso la [[motifs/crown\|corona]],<br>oltre il thane di Cawdor. Ma è strano,<br>e spesso, per trarci al nostro danno,<br>gli strumenti delle tenebre ci dicono verità,<br>ci conquistano con oneste inezie per tradirci<br>nelle conseguenze più profonde.<br>(A Ross e Angus) Cugini, una parola, vi prego. |
+| [[characters/macbeth\|MACBETH]] | (a parte) Due verità son dette<br>come felici prologhi all’atto crescente<br>del tema imperiale. (A Ross e Angus) Vi ringrazio,<br>gentiluomini.<br>(A parte) Questa [[motifs/supernatural\|sovrannaturale]] sollecitazione<br>non può esser cattiva, non può esser buona. Se cattiva,<br>perché m’ha dato caparra di successo<br>cominciando con una [[concepts/truth\|verità]]? Sono Thane di Cawdor.<br>Se buona, perché cedo a quel suggerimento<br>la cui orrida immagine mi rizza i capelli<br>e fa che il mio cuore fermo batta alle costole<br>contro l’uso della [[concepts/nature\|natura]]? I timori presenti<br>son minori delle orribili immaginazioni.<br>Il mio pensiero, il cui assassinio è ancora solo fantasia,<br>scuote così il mio singolo stato d’uomo che la funzione<br>è soffocata nella congettura, e nulla è<br>se non ciò che non è. |
+| [[characters/banquo\|BANQUO]] | (a Ross e Angus)<br>Guardate come il nostro compagno è rapito.<br>[[characters/macbeth\|MACBETH]](a parte)<br>Se il caso mi vuole [[archetypes/king\|re]], ebbene, il caso può [[motifs/crown\|incoronare]]<br>me<br>senza ch’io mi muova. |
+| [[characters/banquo\|BANQUO]] | (a Ross e Angus)<br>I nuovi onori che gli piovono addosso,<br>come le nostre vesti insolite, non aderiscono alla forma<br>se non con l’aiuto dell’uso. |
+| [[characters/macbeth\|MACBETH]] | (a parte)<br>Venga ciò che venire deve,<br>il [[motifs/time\|tempo]] e l’ora corrono attraverso il giorno più aspro. |
+| [[characters/banquo\|BANQUO]] | Degno [[characters/macbeth\|Macbeth]], attendiamo il vostro comodo. |
+| [[characters/macbeth\|MACBETH]] | Concedetemi il vostro favore. Il mio ottuso cervello era travagliato<br>da cose dimenticate. (A Ross e Angus) Gentili<br>signori, le vostre fatiche<br>sono registrate là dove ogni giorno volto<br>la pagina per leggerle. Andiamo verso il [[archetypes/king\|Re]].<br>(A parte, a [[characters/banquo\|Banquo]]) Pensate a quel ch’è accaduto, e con più<br>[[motifs/time\|tempo]],<br>avendolo l’intervallo soppesato, parliamoci<br>a cuore aperto l’un l’altro. |
+| [[characters/banquo\|BANQUO]] | Ben volentieri. |
+| [[characters/macbeth\|MACBETH]] | Fino allora, basta. (A Ross e Angus) Venite, amici. |
+| *(didascalia)* | Escono |
+
+### Atto 1, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squilli di trombe. Entrano il [[archetypes/king\|Re]] [[characters/duncan\|Duncan]], Lennox, [[characters/malcolm\|Malcolm]], Donalbain e il seguito |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | È stata eseguita la sentenza su Cawdor? Non sono<br>ancora tornati gli incaricati? |
+| [[characters/malcolm\|MALCOLM]] | Mio sire,<br>non sono ancora tornati. Ma ho parlato<br>con uno che lo vide morire, il quale riferì<br>ch’egli confessò assai francamente i suoi tradimenti,<br>implorò il perdono di vostra altezza, e manifestò<br>un profondo pentimento. Nulla nella sua vita<br>gli si addisse come il lasciarla. Morì<br>come chi si fosse addestrato alla propria [[motifs/death\|morte]]<br>a gettar via la cosa più cara che possedeva<br>come fosse una noncurante inezia. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Non c’è arte<br>per leggere sul volto la costruzione della mente.<br>Era un gentiluomo sul quale avevo edificato<br>una fiducia assoluta. |
+| *(didascalia)* | Entrano [[characters/macbeth\|Macbeth]], [[characters/banquo\|Banquo]], Ross e Angus |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | (A [[characters/macbeth\|Macbeth]]) O degnissimo cugino,<br>il peccato della mia ingratitudine or ora<br>mi pesava addosso! Tu sei tanto avanti<br>che l’ala più rapida della ricompensa è lenta<br>a raggiungerti. Avessi tu meritato meno,<br>sì che la proporzione di grazie e di pagamento<br>potesse esser mia. Solo mi resta da dire:<br>‘Più t’è dovuto di quanto tutto possa pagare’. |
+| [[characters/macbeth\|MACBETH]] | Il servizio e la lealtà ch’io devo,<br>nel compiersi, si ripagano da sé. Parte di vostra altezza<br>è ricevere i nostri doveri, e i nostri doveri<br>sono al vostro trono e stato figli e servitori,<br>che fanno solo quel che devono, facendo ogni cosa<br>a salvaguardia del vostro [[motifs/love\|amore]] e [[concepts/honour\|onore]]. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Benvenuto qui.<br>Ho cominciato a piantarti, e mi adopererò<br>a farti pieno di crescita.—NoHe [[characters/banquo\|Banquo]],<br>tu che non meno hai meritato, né meno dev’esser noto<br>che così hai fatto, lascia ch’io ti stringa<br>e ti tenga al mio cuore. |
+| [[characters/banquo\|BANQUO]] | Se là io cresco,<br>il raccolto è vostro. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Le mie gioie abbondanti,<br>lascive nella pienezza, cercano di celarsi<br>in gocce di dolore. Figli, congiunti, thani,<br>e voi i cui posti sono i più vicini, sappiate<br>che stabiliremo la nostra successione sopra<br>il maggiore, [[characters/malcolm\|Malcolm]], che d’ora innanzi nominiamo<br>Principe di Cumberland; il qual [[concepts/honour\|onore]] non deve<br>investire lui solo, non accompagnato,<br>ma segni di nobiltà, come [[motifs/stars\|stelle]], brilleranno<br>su tutti i meritevoli. (A [[characters/macbeth\|Macbeth]]) Di qui a Inverness,<br>e legateci ancor più a voi. |
+| [[characters/macbeth\|MACBETH]] | È fatica il riposo che non è speso per voi.<br>Sarò io stesso il messaggero, e farò lieto<br>l’udito di mia moglie col vostro avvicinarsi;<br>così umilmente prendo congedo. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Mio degno Cawdor. |
+| [[characters/macbeth\|MACBETH]] | (a parte)<br>Il Principe di Cumberland—ecco un gradino<br>sul quale devo cadere, oppure scavalcarlo,<br>ché sta sul mio cammino. [[motifs/stars\|Stelle]], celate i vostri fuochi,<br>non veda la luce i miei neri e profondi desideri;<br>l’occhio strizzi alla mano; pure si compia ciò<br>che l’occhio teme di vedere, quando è compiuto. Esce |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Vero, degno [[characters/banquo\|Banquo]], egli è del tutto così valoroso,<br>e delle sue lodi io mi nutro.<br>Sono un banchetto per me. Seguiamolo,<br>la cui premura è andata avanti a darci il benvenuto.<br>È un congiunto senza pari. Squilli di trombe. Escono |
+
+### Atto 1, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/lady-macbeth\|Lady Macbeth]], con una lettera |
+| [[characters/lady-macbeth\|LADY MACBETH]] | (leggendo) ‘Mi vennero incontro nel giorno del successo, e ho appreso dalla più sicura testimonianza che v’è in loro più che mortale conoscenza. Quando ardevo dal [[motifs/desire\|desiderio]] d’interrogarle oltre, si fecero aria, nella quale svanirono. Mentre stavo rapito nella [[concepts/wonder\|meraviglia]] di ciò, giunsero messi dal [[archetypes/king\|Re]], che mi salutarono “Thane di Cawdor”, titolo col quale poco prima quelle sorelle fatali mi avevano salutato, rimandandomi all’avvenire del [[motifs/time\|tempo]] con “Salve, [[archetypes/king\|Re]] che sarai!” Questo ho creduto bene di trasmetterti, carissima compagna della mia [[concepts/greatness\|grandezza]], perché tu non perda la tua parte di gioia restando ignara di quale [[concepts/greatness\|grandezza]] ti sia promessa. Serbalo nel cuore, e addio.’<br>Glamis tu sei, e Cawdor, e sarai<br>ciò che t’è promesso. Pure io [[concepts/fear\|temo]] la tua [[concepts/nature\|natura]]:<br>è troppo colma del latte dell’umana dolcezza<br>per prendere la via più breve. Vorresti esser grande,<br>non sei senza [[concepts/ambition\|ambizione]], ma senza<br>la malvagità che dovrebbe accompagnarla. Ciò che vuoi altamente,<br>lo vorresti santamente; non vorresti giocar falso,<br>eppure vorresti vincere ingiustamente. Vorresti avere, grande<br>Glamis,<br>ciò che grida ‘Così devi fare’ se vuoi averlo,<br>e ciò che piuttosto [[concepts/fear\|temi]] di fare<br>che desiderare non sia fatto. Affrettati qui,<br>ch’io possa versare i miei spiriti nel tuo orecchio<br>e flagellare col valore della mia lingua<br>tutto ciò che ti separa dal cerchio d’oro<br>del quale il fato e l’aiuto metafisico sembrano<br>volerti incoronato. |
+| *(didascalia)* | Entra un Servo |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Quali son le tue notizie? |
+| SERVO | Il [[archetypes/king\|Re]] viene qui stanotte. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Sei pazzo a dirlo.<br>Non è con lui il tuo padrone, il quale, se fosse così,<br>avrebbe avvisato per i preparativi? |
+| SERVO | Con vostra licenza, è vero. Il nostro thane sta venendo,<br>uno dei miei compagni ebbe la [[characters/speed\|velocità]] di precederlo,<br>il quale, quasi morto per il fiato, aveva appena tanto<br>da comporre il suo messaggio. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Fa’ che sia servito;<br>reca gran notizie. Esce il Servo<br>Il corvo stesso è rauco<br>che gracchia il fatale ingresso di [[characters/duncan\|Duncan]]<br>sotto i miei spalti. Venite, spiriti<br>che assistete i pensieri di morte, toglietemi qui il sesso,<br>e riempitemi dalla [[motifs/crown\|sommità]] del capo alla punta del piede<br>della più atroce crudeltà. Fate denso il mio [[motifs/blood\|sangue]],<br>sbarrate l’accesso e il passaggio al rimorso,<br>sì che nessuna visita di compunzione della [[concepts/nature\|natura]]<br>scuota il mio truce proposito, né si frapponga<br>fra l’effetto ed esso. Venite alle mie mammelle di donna,<br>e prendete il mio latte per fiele, ministri d’assassinio,<br>ovunque, nelle vostre invisibili sostanze,<br>attendiate al maleficio della [[concepts/nature\|natura]]. Vieni, fitta [[motifs/night\|notte]],<br>e ammantati nel più fosco fumo dell’inferno,<br>sì che il mio coltello affilato non veda la ferita che fa,<br>né il cielo occhieggi attraverso la coltre del buio<br>a gridare ‘Ferma, ferma!’ |
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Gran Glamis, degno Cawdor,<br>più grande d’entrambi per il salve dell’avvenire,<br>le tue lettere m’hanno trasportata oltre<br>questo presente ignaro, e ora sento<br>il futuro nell’istante. |
+| [[characters/macbeth\|MACBETH]] | Mio carissimo [[motifs/love\|amore]],<br>[[characters/duncan\|Duncan]] viene qui stanotte. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | E quando riparte? |
+| [[characters/macbeth\|MACBETH]] | Domani, com’è sua intenzione. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Oh, mai<br>sole vedrà quel domani.<br>Il vostro volto, mio thane, è come un libro dove gli uomini<br>possono leggere strane cose. Per ingannare il [[motifs/time\|tempo]],<br>somigliate al [[motifs/time\|tempo]]; recate il benvenuto negli occhi,<br>nella mano, nella lingua; sembrate il fiore [[archetypes/innocent\|innocente]],<br>ma siate il serpente che vi sta sotto. Chi sta venendo<br>dev’essere provveduto; e voi porrete<br>il grande affare di questa [[motifs/night\|notte]] nelle mie mani,<br>il quale a tutte le nostre notti e i giorni a venire<br>darà sola sovrana potestà e signoria. |
+| [[characters/macbeth\|MACBETH]] | Ne riparleremo. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Solo, mostrate un volto sereno.<br>Mutar sembiante è sempre [[concepts/fear\|temere]].<br>Lasciate a me tutto il resto. Escono |
+| *(didascalia)* | Oboi e torce. Entrano il [[archetypes/king\|Re]] [[characters/duncan\|Duncan]], [[characters/malcolm\|Malcolm]], Donalbain, [[characters/banquo\|Banquo]], Lennox, [[characters/macduff\|Macduff]], Ross, Angus e il seguito |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Questo [[settings/castle\|castello]] ha un sito piacevole. L’aria<br>agile e dolce si raccomanda<br>ai nostri gentili sensi. |
+| [[characters/banquo\|BANQUO]] | Questo ospite dell’[[motifs/summer\|estate]],<br>il balestruccio che frequenta i templi, attesta<br>col suo caro nidificare che il respiro dei cieli<br>qui odora d’amoroso invito. Non v’è sporto, fregio,<br>contrafforte, né angolo propizio dove quest’uccello<br>non abbia fatto il suo letto pensile e culla feconda;<br>dove più figliano e dimorano ho osservato<br>che l’aria è delicata. |
+| *(didascalia)* | Entra [[characters/lady-macbeth\|Lady Macbeth]] |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Vedete, vedete, la nostra onorata ospite!<br>L’[[motifs/love\|amore]] che ci segue talvolta è il nostro disturbo,<br>che pure ringraziamo come [[motifs/love\|amore]]. Con ciò v’insegno<br>come dobbiate pregare Dio di ricompensarci per la vostra fatica,<br>e ringraziarci per il vostro disturbo. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Tutto il nostro servizio,<br>in ogni punto fatto due volte, e poi fatto [[topoi/double\|doppio]],<br>sarebbe povera e singola cosa a contendere<br>con quegli onori profondi e larghi dei quali<br>vostra maestà colma la nostra casa. Per quelli antichi,<br>e per le nuove dignità accumulate su di essi,<br>restiamo vostri eremiti oranti. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Dov’è il Thane di Cawdor?<br>Gli corremmo alle calcagna, e avevamo intenzione<br>d’essergli foriero; ma egli cavalca [[motifs/well\|bene]],<br>e il suo grande [[motifs/love\|amore]], aguzzo come il suo sprone, l’ha aiutato<br>a giungere a [[motifs/home\|casa]] prima di noi. Bella e nobile ospite,<br>siamo vostro ospite stanotte. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | I vostri servi sempre<br>tengono i loro, sé stessi, e ciò ch’è loro in conto<br>per rendervene ragione a piacere di vostra altezza,<br>sempre per restituire il vostro. |
+| [[archetypes/king\|RE]] [[characters/duncan\|DUNCAN]] | Datemi la mano.<br>Conducetemi al mio ospite. L’[[motifs/love\|amiamo]] altamente,<br>e continueremo le nostre grazie verso di lui.<br>Con vostra licenza, ospite. Escono |
+
+### Atto 1, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Oboi. Torce. Entrano uno scalco e diversi servi con vivande e stoviglie attraversando la scena. Poi entra [[characters/macbeth\|Macbeth]] |
+| [[characters/macbeth\|MACBETH]] | Se fosse finita quando è fatta, allora sarebbe [[motifs/well\|bene]]<br>che fosse fatta presto. Se l’assassinio<br>potesse irretire le conseguenze, e cogliere<br>con la sua cessazione il successo: che questo solo colpo<br>potesse essere il tutto e la fine di tutto, qui,<br>ma qui, su questa riva e secca del [[motifs/time\|tempo]],<br>salteremmo la vita a venire. Ma in questi casi<br>abbiamo giudizio già quaggiù, ché non facciamo che insegnare<br>sanguinose lezioni le quali, insegnate, ritornano<br>a tormentare l’inventore. Questa imparziale giustizia<br>porge gli ingredienti del nostro calice avvelenato<br>alle nostre stesse labbra. Egli è qui in [[topoi/double\|doppia]] fiducia:<br>primo, perché sono suo congiunto e suo suddito,<br>l’uno e l’altro forti contro il misfatto; poi, come suo ospite,<br>che dovrebbe chiudere la porta al suo assassino,<br>non portare io stesso il coltello. Inoltre, questo [[characters/duncan\|Duncan]]<br>ha esercitato i suoi poteri con tanta mitezza, è stato<br>così puro nel suo grande ufficio, che le sue virtù<br>peroreranno come angeli, con voce di tromba, contro<br>la profonda dannazione della sua soppressione,<br>e la pietà, come un bimbo nudo appena nato,<br>cavalcando la raffica, o cherubino del cielo, in sella<br>ai corsieri invisibili dell’aria,<br>soffierà l’orrendo atto in ogni occhio<br>sì che le [[motifs/tears\|lacrime]] annegheranno il [[motifs/wind\|vento]]. Non ho sprone<br>per pungere i fianchi del mio proposito, ma solo<br>un’[[concepts/ambition\|ambizione]] che spicca il salto e scavalca sé stessa<br>e cade dall’altra parte. |
+| *(didascalia)* | Entra [[characters/lady-macbeth\|Lady Macbeth]] |
+| [[characters/macbeth\|MACBETH]] | Ebbene? Che notizie? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ha quasi finito di cenare. Perché avete lasciato la<br>sala? |
+| [[characters/macbeth\|MACBETH]] | Ha chiesto di me? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Non sapete che l’ha fatto? |
+| [[characters/macbeth\|MACBETH]] | Non procederemo oltre in questo affare.<br>Egli m’ha onorato di recente, e io ho comprato<br>opinioni d’oro da ogni sorta di gente,<br>che vorrebbero esser portate ora nel loro lustro più nuovo,<br>non gettate via così presto. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Era ubriaca la [[concepts/hope\|speranza]]<br>di cui vi rivestiste? Ha dormito da allora?<br>E si sveglia ora per guardare così verde e pallida<br>ciò che fece con tanta libertà? Da questo [[motifs/time\|momento]]<br>tale reputo il tuo [[motifs/love\|amore]]. Hai paura<br>d’essere nel tuo atto e nel tuo valore lo stesso<br>che sei nel [[motifs/desire\|desiderio]]? Vorresti avere ciò<br>che stimi l’ornamento della vita,<br>e vivere da codardo nella tua stessa stima,<br>lasciando che ‘non oso’ segua ‘vorrei’,<br>come il povero gatto del proverbio? |
+| [[characters/macbeth\|MACBETH]] | Ti prego, taci.<br>Oso fare tutto ciò che s’addice a un uomo;<br>chi osa di più non lo è. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Qual bestia fu dunque<br>che vi fece rivelare a me questa impresa?<br>Quando osavate farlo, allora eravate un uomo;<br>e per essere più di quel che eravate, sareste stato<br>tanto più uomo. Né [[motifs/time\|tempo]] né luogo<br>allora s’accordavano, eppure volevate crearli entrambi.<br>Si sono creati da sé, e ora la loro opportunità<br>vi disfa. Ho allattato, e so<br>quanto sia tenero [[motifs/love\|amare]] il bimbo che mi succhia il latte.<br>Avrei, mentre mi sorrideva in volto,<br>strappato il capezzolo dalle sue gengive senz’ossa<br>e gli avrei fracassato il cervello, se avessi giurato<br>come voi avete giurato a questo. |
+| [[characters/macbeth\|MACBETH]] | E se fallissimo? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Fallire noi!<br>Ma tendete il vostro [[concepts/courage\|coraggio]] fino al punto d’arresto<br>e non falliremo. Quando [[characters/duncan\|Duncan]] dormirà—<br>e a ciò tanto più profondamente l’inviterà<br>il duro [[motifs/journey\|viaggio]] del giorno—i suoi due camerieri<br>li vincerò a tal segno con vino e brindisi<br>che la [[motifs/memory\|memoria]], custode del cervello,<br>sarà un vapore, e il ricettacolo della ragione<br>un puro alambicco. Quando in porcino [[motifs/sleep\|sonno]]<br>le loro nature inzuppate giaceranno come in una [[motifs/death\|morte]],<br>che cosa non potremo compiere, voi e io,<br>sull’incustodito [[characters/duncan\|Duncan]]? Che cosa non addossare<br>ai suoi spugnosi ufficiali, che porteranno la [[concepts/guilt\|colpa]]<br>del nostro grande massacro? |
+| [[characters/macbeth\|MACBETH]] | Partorisci soltanto figli maschi,<br>ché la tua tempra impavida non deve comporre<br>altro che maschi. Non si crederà,<br>quando avremo marcato di [[motifs/blood\|sangue]] quei due addormentati<br>della sua stessa camera e adoperato i loro stessi pugnali,<br>che siano stati loro? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Chi oserà crederlo altrimenti,<br>quando faremo ruggire i nostri lamenti e il nostro clamore<br>sulla sua [[motifs/death\|morte]]? |
+| [[characters/macbeth\|MACBETH]] | Sono deciso, e tendo<br>ogni forza del corpo a questa terribile impresa.<br>Andiamo, e inganniamo il [[motifs/time\|tempo]] con la più bella apparenza.<br>Volto falso deve celare ciò che il cuore falso conosce. |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/banquo\|Banquo]] e Fleance, con una torcia davanti a lui |
+| [[characters/banquo\|BANQUO]] | Come va la [[motifs/night\|notte]], ragazzo? |
+| FLEANCE | La [[motifs/moon\|luna]] è tramontata. Non ho udito l’[[motifs/clock\|orologio]]. |
+| [[characters/banquo\|BANQUO]] | Ed essa tramonta a mezzanotte. |
+| FLEANCE | Credo sia più tardi, signore. |
+| [[characters/banquo\|BANQUO]] | (dando a Fleance la sua spada)<br>Tieni, prendi la mia spada. C’è parsimonia in cielo,<br><br>le loro candele sono tutte spente. Prendi anche questo.<br>Un pesante richiamo mi grava addosso come piombo,<br>eppure non vorrei [[motifs/sleep\|dormire]]. Potenze misericordiose,<br>trattenete in me i pensieri maledetti cui la [[concepts/nature\|natura]]<br>dà via libera nel riposo. |
+| *(didascalia)* | Entrano [[characters/macbeth\|Macbeth]] e un servo con una torcia |
+| [[characters/banquo\|BANQUO]] | Dammi la mia spada. Chi è là? |
+| [[characters/macbeth\|MACBETH]] | Un amico. |
+| [[characters/banquo\|BANQUO]] | Come, signore, non ancora a riposo? Il [[archetypes/king\|Re]] è a letto.<br>È stato d’insolito buon umore, e<br>ha mandato grandi largizioni alla vostra servitù.<br>Con questo diamante saluta vostra moglie<br>col nome di gentilissima ospite, e s’è chiuso<br>in una contentezza smisurata. |
+| [[characters/macbeth\|MACBETH]] | Non essendo preparati,<br>la nostra volontà divenne serva del difetto,<br>che altrimenti avrebbe operato liberamente. |
+| [[characters/banquo\|BANQUO]] | Va tutto [[motifs/well\|bene]].<br>Ho sognato la scorsa [[motifs/night\|notte]] le tre sorelle fatali.<br>A voi hanno mostrato qualche [[concepts/truth\|verità]]. |
+| [[characters/macbeth\|MACBETH]] | Non ci penso;<br>pure, quando potremo ottenere un’ora propizia,<br>la spenderemmo in qualche parola su quella faccenda,<br>se voi concedeste il [[motifs/time\|tempo]]. |
+| [[characters/banquo\|BANQUO]] | Al vostro più gentile comodo. |
+| [[characters/macbeth\|MACBETH]] | Se vi unirete al mio consenso quando sarà,<br>ne verrà [[concepts/honour\|onore]] per voi. |
+| [[characters/banquo\|BANQUO]] | Purché non ne perda<br>cercando d’accrescerlo, ma serbi sempre<br>il petto libero e limpida la fedeltà,<br>mi lascerò consigliare. |
+| [[characters/macbeth\|MACBETH]] | Buon riposo intanto. |
+| [[characters/banquo\|BANQUO]] | Grazie, signore. Altrettanto a voi. |
+| *(didascalia)* | Escono [[characters/banquo\|Banquo]] e Fleance |
+| [[characters/macbeth\|MACBETH]] | (al Servo)<br>Va’, di’ alla tua padrona che, quando la mia bevanda è pronta,<br>batta sulla campana. Vattene a letto. Esce il Servo<br>È un pugnale questo che vedo davanti a me,<br>l’impugnatura verso la mia mano? Vieni, ch’io ti afferri.<br>Non ti ho, eppure ti vedo ancora.<br>Non sei tu, fatale visione, sensibile<br>al tatto come alla vista? O sei soltanto<br>un pugnale della mente, una falsa creazione<br>che procede da un cervello oppresso dalla febbre?<br>Ti vedo ancora, in forma tanto palpabile<br>quanto questo ch’ora sguaino.<br>Tu mi additi la via per la quale andavo,<br>e proprio un tale strumento dovevo usare.<br>I miei occhi sono fatti scherno degli altri sensi,<br>oppure valgono tutti gli altri. Ti vedo ancora,<br>e sulla tua lama e sull’elsa gocce di [[motifs/blood\|sangue]]<br>che prima non c’erano. Non esiste nulla di simile.<br>È la sanguinosa impresa che così<br>si dà forma ai miei occhi. Ora su metà del mondo<br>la [[concepts/nature\|natura]] pare morta, e malvagi [[motifs/dreams\|sogni]] insidiano<br>il [[motifs/sleep\|sonno]] dietro le cortine. La stregoneria celebra<br>le offerte alla pallida Ecate, e l’assassinio avvizzito,<br>destato dalla sua sentinella, il lupo,<br>il cui ululato è il suo grido di guardia, così col suo passo furtivo,<br>coi rapinosi passi di [[characters/tarquin\|Tarquinio]], verso il suo disegno<br>si muove come un [[archetypes/ghost\|fantasma]]. Tu, terra salda e ben ferma,<br>non udire i miei passi, per qual via camminino, per [[concepts/fear\|paura]]<br>che le tue stesse pietre ciarlino di dove mi trovo<br>e tolgano l’orrore presente al [[motifs/time\|tempo]],<br>che ora vi s’accorda. Mentre minaccio, egli vive.<br>Al calore dei fatti le parole danno troppo freddo fiato.<br>Suona una campana<br><br>Vado, ed è fatto. La campana m’invita.<br>Non udirla, [[characters/duncan\|Duncan]]; ché è un rintocco funebre<br>che ti chiama al cielo o all’inferno. Esce |
+
+### Atto 2, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/lady-macbeth\|Lady Macbeth]] |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ciò che ha ubriacato loro ha reso me ardita.<br>Ciò che li ha spenti ha dato a me [[motifs/fire\|fuoco]]. Ascolta,<br>silenzio!—<br>Era il gufo che stridette, il fatale banditore<br>che dà la più severa buona[[motifs/night\|notte]]. Egli è all’opera.<br>Le porte sono aperte, e i camerieri satolli<br>si fan beffe del loro compito russando. Ho drogato<br>le loro bevande<br>sì che [[motifs/death\|morte]] e [[concepts/nature\|natura]] contendono su di loro<br>se vivano o muoiano. |
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] [in alto] |
+| [[characters/macbeth\|MACBETH]] | Chi è là?<br>Ehi, chi va là? Esce |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ahimè, temo che si siano svegliati,<br>e non è compiuto. Il tentativo e non l’atto<br>ci rovina. Ascolta!—Ho preparato i loro pugnali;<br>non poteva non trovarli. Se non avesse somigliato<br>a mio padre mentre dormiva, l’avrei fatto io.<br>[Entra [[characters/macbeth\|Macbeth]] in basso]<br>Marito mio! |
+| [[characters/macbeth\|MACBETH]] | Ho compiuto l’atto. Non hai udito un rumore? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ho udito stridere il gufo e gridare i grilli.<br>Non avete parlato? |
+| [[characters/macbeth\|MACBETH]] | Quando? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ora. |
+| [[characters/macbeth\|MACBETH]] | Mentre scendevo? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Sì. |
+| [[characters/macbeth\|MACBETH]] | Ascolta!—Chi dorme nella seconda camera? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Donalbain. |
+| [[characters/macbeth\|MACBETH]] | (guardandosi le mani) È una misera vista. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Sciocco pensiero, dire una misera vista. |
+| [[characters/macbeth\|MACBETH]] | Uno ha riso nel [[motifs/sleep\|sonno]], e uno ha gridato ‘Assassinio!’<br>sì che si sono svegliati a vicenda. Io stavo e li<br>ascoltavo.<br>Ma dissero le loro preghiere e si disposero<br>di nuovo a [[motifs/sleep\|dormire]]. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Sono due alloggiati insieme. |
+| [[characters/macbeth\|MACBETH]] | Uno gridò ‘Dio ci benedica’ e ‘Amen’ l’altro,<br>come m’avessero visto con queste mani di boia.<br>Ascoltando la loro [[concepts/fear\|paura]] non seppi dire ‘Amen’<br>quando essi dicevano ‘Dio ci benedica.’ |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Non consideratelo così profondamente. |
+| [[characters/macbeth\|MACBETH]] | Ma perché non potei pronunciare ‘Amen’?<br>Avevo il maggior bisogno di benedizione, e ‘Amen’<br>mi restò in gola. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Non si devono pensare tali atti<br>per queste vie. Così, ci farà impazzire. |
+| [[characters/macbeth\|MACBETH]] | Mi parve d’udire una voce gridare ‘Non [[motifs/sleep\|dormire]] più,<br>[[characters/macbeth\|Macbeth]] assassina il [[motifs/sleep\|sonno]]’—l’[[archetypes/innocent\|innocente]] [[motifs/sleep\|sonno]],<br>il [[motifs/sleep\|sonno]] che ricuce la matassa sfilacciata dell’affanno,<br>la [[motifs/death\|morte]] della vita d’ogni giorno, bagno dell’aspra fatica,<br>balsamo delle menti ferite, seconda portata della gran [[concepts/nature\|natura]],<br>nutrimento principale nel banchetto della vita— |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Che volete dire? |
+| [[characters/macbeth\|MACBETH]] | Continuava a gridare ‘Non [[motifs/sleep\|dormire]] più’ a tutta la casa,<br>‘Glamis ha assassinato il [[motifs/sleep\|sonno]], e perciò Cawdor<br>non [[motifs/sleep\|dormirà]] più, [[characters/macbeth\|Macbeth]] non [[motifs/sleep\|dormirà]] più.’ |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Chi era che così gridava? Ebbene, degno thane,<br>voi allentate la vostra nobile forza a pensare<br>le cose in modo così malato. Andate a prendere dell’[[motifs/water\|acqua]]<br>e lavate dalla vostra mano questa sozza testimonianza.<br>Perché avete portato via questi pugnali da quel luogo?<br>Devono restare là. Andate, portateli, e imbrattate<br>di [[motifs/blood\|sangue]] i camerieri addormentati. |
+| [[characters/macbeth\|MACBETH]] | Non ci andrò più.<br>Ho paura di pensare a ciò che ho fatto,<br>guardarlo di nuovo non oso. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Debole di proposito!<br>Datemi i pugnali. I dormienti e i morti<br>non sono che come dipinti. È l’occhio dell’[[motifs/childhood\|infanzia]]<br>che teme un diavolo dipinto. Se egli sanguina,<br>ne indorerò i volti dei camerieri,<br>ché deve sembrare loro [[concepts/guilt\|colpa]]. Esce<br>Si bussa all’interno |
+| [[characters/macbeth\|MACBETH]] | Da dove viene quel bussare?—<br>Come sono ridotto, se ogni rumore mi atterrisce?<br>Che mani son queste! Ah, mi strappano gli occhi.<br>Tutto l’oceano del gran Nettuno laverà via questo [[motifs/blood\|sangue]]<br>dalla mia mano? No, questa mia mano piuttosto<br>farà incarnatini i mari innumerevoli,<br>mutando il verde in un solo rosso. |
+| *(didascalia)* | Entra [[characters/lady-macbeth\|Lady Macbeth]] |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Le mie mani sono del vostro colore, ma mi vergognerei<br>di portare un cuore così bianco.<br>Si bussa all’interno<br><br>Odo bussare<br>all’ingresso meridionale. Ritiriamoci nella nostra camera.<br>Un po’ d’[[motifs/water\|acqua]] ci monda di quest’atto.<br>Com’è facile allora! La vostra fermezza<br>vi ha lasciato senza scorta.<br>Si bussa all’interno<br><br>Ascoltate, altri colpi.<br>Indossate la veste da notte, ché l’occasione non ci chiami<br>e ci mostri desti. Non vi perdete<br>così miseramente nei vostri pensieri. |
+| [[characters/macbeth\|MACBETH]] | A conoscere il mio atto meglio sarebbe non conoscere me stesso.<br>Si bussa all’interno<br><br>Sveglia [[characters/duncan\|Duncan]] col tuo bussare. Vorrei che tu<br>potessi. Escono |
+
+### Atto 2, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra un Portinaio. Si bussa all’interno |
+| PORTINAIO | Ecco un bussare davvero! Se un uomo fosse portinaio<br>della porta dell’inferno, ne avrebbe da girar la chiave.<br>Si bussa all’interno<br><br>Toc, toc, toc. Chi è là, in nome di<br>Belzebù? Ecco un fattore che s’è impiccato per<br>l’attesa dell’abbondanza. Arrivi in [[motifs/time\|tempo]]! Abbi tovaglioli<br>a sufficienza con te; qui ne suderai.<br>Si bussa all’interno<br><br>Toc, toc. Chi è là, in nome dell’altro diavolo?<br>In [[concepts/faith\|fede]], ecco un equivocatore che sapeva giurare su entrambi<br>i piatti della bilancia contro l’uno e l’altro piatto, che commise tradimenti<br>a sufficienza per amor di Dio, e pure non seppe equivocare fino<br>al cielo. Oh, entra, equivocatore.<br>Si bussa all’interno<br><br>Toc, toc, toc. Chi è là? In [[concepts/faith\|fede]] mia, ecco un<br>sarto inglese venuto qui per aver rubato stoffa da un paio di brache<br>alla francese. Entra, sarto. Qui puoi arroventare il tuo ferro.<br>Si bussa all’interno<br><br>Toc, toc. Mai un momento di pace. Chi siete?—Ma questo<br>posto è troppo freddo per l’inferno. Non farò oltre il portinaio del diavolo.<br>Avevo pensato di far entrare qualcuno d’ogni professione<br>che va per la via fiorita all’eterno falò.<br>Si bussa all’interno<br><br>Subito, subito!<br>Apre la porta<br><br>Vi prego, ricordatevi del portinaio. |
+| *(didascalia)* | Entrano [[characters/macduff\|Macduff]] e Lennox |
+| [[characters/macduff\|MACDUFF]] | Fu così tardi, amico, prima che andaste a letto,<br>che ora vi coricate fino a quest’ora? |
+| PORTINAIO | In [[concepts/faith\|fede]], signore, gozzovigliammo fino al secondo canto del gallo, e il bere, signore, è un gran provocatore di tre cose. |
+| [[characters/macduff\|MACDUFF]] | Quali tre cose provoca specialmente il bere? |
+| PORTINAIO | Perbacco, signore, il tingersi il naso, il [[motifs/sleep\|sonno]] e l’orina. La lussuria, signore, la provoca e la disprovoca: provoca il [[motifs/desire\|desiderio]] ma toglie l’esecuzione. Perciò si può dire che il molto bere sia un equivocatore con la lussuria: la fa e la disfa; l’accende e la spegne; la persuade e la scoraggia; la fa stare in piedi e non stare in piedi; in conclusione, l’equivoca in un [[motifs/sleep\|sonno]] e, dandole del bugiardo, l’[[motifs/leaves\|abbandona]]. |
+| [[characters/macduff\|MACDUFF]] | Credo che il bere t’abbia dato del bugiardo la scorsa [[motifs/night\|notte]]. |
+| PORTINAIO | Proprio così, signore, dritto in gola; ma io gliela resi la sua bugia, e, credo, essendo troppo forte per lui, benché mi facesse a volte cedere le gambe, pure trovai il modo di gettarlo a terra. |
+| [[characters/macduff\|MACDUFF]] | È alzato il tuo padrone? |
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] |
+| [[characters/macduff\|MACDUFF]] | Il nostro bussare l’ha svegliato: eccolo che viene. [Esce il Portinaio] |
+| LENNOX | (a [[characters/macbeth\|Macbeth]])<br>Buon giorno, nobile signore. |
+| [[characters/macbeth\|MACBETH]] | Buon giorno a entrambi. |
+| [[characters/macduff\|MACDUFF]] | È alzato il [[archetypes/king\|Re]], degno thane? |
+| [[characters/macbeth\|MACBETH]] | Non ancora. |
+| [[characters/macduff\|MACDUFF]] | Mi comandò di chiamarlo per tempo.<br>Ho quasi lasciato passare l’ora. |
+| [[characters/macbeth\|MACBETH]] | Vi condurrò da lui. |
+| [[characters/macduff\|MACDUFF]] | So che per voi è un disturbo lieto,<br>ma pur sempre un disturbo. |
+| [[characters/macbeth\|MACBETH]] | La fatica in cui ci dilettiamo guarisce la [[motifs/pain\|pena]].<br>Questa è la porta. |
+| [[characters/macduff\|MACDUFF]] | Mi farò ardito di chiamare,<br>ché è l’incarico assegnatomi. Esce [[characters/macduff\|Macduff]] |
+| LENNOX | Parte oggi di qui il [[archetypes/king\|Re]]? |
+| [[characters/macbeth\|MACBETH]] | Sì; così ha stabilito. |
+| LENNOX | La [[motifs/night\|notte]] è stata turbolenta. Dove alloggiavamo<br>i nostri comignoli furono abbattuti, e, come si dice,<br>s’udirono lamenti nell’aria, strane grida di [[motifs/death\|morte]],<br>e profezie con accenti terribili<br>di tremendi incendi e di eventi confusi<br>appena covati per questo [[motifs/time\|tempo]] di sventura. L’uccello oscuro<br>ha clamato per tutta la [[motifs/night\|notte]]. Alcuni dicono che la terra<br>era febbricitante e tremò. |
+| [[characters/macbeth\|MACBETH]] | Fu una [[motifs/night\|notte]] aspra. |
+| LENNOX | La mia giovane memoria non sa trovarle<br>l’eguale. |
+| *(didascalia)* | Entra [[characters/macduff\|Macduff]] |
+| [[characters/macduff\|MACDUFF]] | O orrore, orrore, orrore!<br>Né lingua né cuore ti può concepire o nominare. |
+| [[characters/macbeth\|MACBETH]] | e LENNOX Che accade? |
+| [[characters/macduff\|MACDUFF]] | La confusione ha ora compiuto il suo capolavoro.<br>Sacrilegissimo assassinio ha scardinato<br>il tempio unto del Signore e ne ha rubato<br>la vita dell’edificio. |
+| [[characters/macbeth\|MACBETH]] | Che dite—la vita? |
+| LENNOX | Intendete sua maestà? |
+| [[characters/macduff\|MACDUFF]] | Accostatevi alla camera e distruggete la vista<br>con una nuova Gorgone. Non chiedetemi di parlare.<br>Vedete, e poi parlate voi stessi. |
+| *(didascalia)* | Escono [[characters/macbeth\|Macbeth]] e Lennox |
+| [[characters/macduff\|MACDUFF]] | Svegliatevi, svegliatevi!<br>Suonate la campana d’allarme. Assassinio e tradimento!<br>[[characters/banquo\|Banquo]] e Donalbain, [[characters/malcolm\|Malcolm]], svegliatevi!<br>Scuotete di dosso questo [[motifs/sleep\|sonno]] di piuma, contraffazione della [[motifs/death\|morte]],<br>e guardate la [[motifs/death\|morte]] stessa. Su, su, e vedete<br>l’immagine del gran giudizio. [[characters/malcolm\|Malcolm]], [[characters/banquo\|Banquo]],<br>alzatevi come dalle vostre tombe, e camminate come spettri<br>per far fronte a quest’orrore.<br>Suona la campana. Entra [[characters/lady-macbeth\|Lady Macbeth]] |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Che cosa accade,<br>ché una tromba così orrenda chiama a parlamento<br>i dormienti della casa? Parlate, parlate. |
+| [[characters/macduff\|MACDUFF]] | O gentile signora,<br>non è per voi udire quel che posso dire.<br>La ripetizione in orecchio di donna<br>ucciderebbe nel cadere. |
+| *(didascalia)* | Entra [[characters/banquo\|Banquo]] |
+| [[characters/macduff\|MACDUFF]] | O [[characters/banquo\|Banquo]], [[characters/banquo\|Banquo]],<br>il nostro regale signore è assassinato! |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ahimè,<br>ohimè—<br>Come, nella nostra casa? |
+| [[characters/banquo\|BANQUO]] | Troppo crudele in ogni luogo.<br>Caro Duff, ti prego, contraddici te stesso,<br>e di’ che non è così. |
+| *(didascalia)* | Entrano [[characters/macbeth\|Macbeth]], Lennox, [e Ross] |
+| [[characters/macbeth\|MACBETH]] | Fossi morto solo un’ora prima di questo caso,<br>avrei vissuto un [[motifs/time\|tempo]] benedetto, ché da quest’istante<br>non v’è nulla di serio nella [[concepts/mortality\|mortalità]].<br>Tutto è soltanto balocchi. Fama e grazia sono morte.<br>Il vino della vita è spillato, e la sola feccia<br>resta a questa volta per vantarsene. |
+| *(didascalia)* | Entrano [[characters/malcolm\|Malcolm]] e Donalbain |
+| DONALBAIN | Che c’è che non va? |
+| [[characters/macbeth\|MACBETH]] | Voi, e non lo sapete.<br>La [[motifs/spring\|sorgente]], il capo, la fonte del vostro [[motifs/blood\|sangue]]<br>è arrestata, la sua stessa scaturigine è arrestata. |
+| [[characters/macduff\|MACDUFF]] | Il vostro regale padre è assassinato. |
+| [[characters/malcolm\|MALCOLM]] | Oh, da chi? |
+| LENNOX | Quelli della sua camera, a quanto pareva, l’avevano fatto.<br>Le loro mani e i loro volti erano tutti marchiati di [[motifs/blood\|sangue]],<br>e così i loro pugnali, che, non ripuliti, trovammo<br>sui loro guanciali. Fissavano il vuoto ed erano stravolti.<br>Non si poteva affidar loro la vita di nessuno. |
+| [[characters/macbeth\|MACBETH]] | Oh, eppure mi pento della mia furia<br>per averli uccisi. |
+| [[characters/macduff\|MACDUFF]] | Perché lo faceste? |
+| [[characters/macbeth\|MACBETH]] | Chi può essere saggio e attonito, temperato e furioso,<br>leale e neutrale in un momento? Nessun uomo.<br>La fretta del mio violento [[motifs/love\|amore]]<br>superò chi indugia, la ragione. Qui giaceva [[characters/duncan\|Duncan]],<br>la sua pelle d’argento trapunta del suo [[motifs/blood\|sangue]] d’oro,<br>e le sue ferite squarciate parevano una breccia nella [[concepts/nature\|natura]]<br>per l’ingresso devastante della rovina; là gli assassini,<br>intrisi dei colori del loro mestiere, i loro pugnali<br>sconciamente inguainati di sangue rappreso. Chi poteva trattenersi,<br>avendo un cuore per [[motifs/love\|amare]], e in quel cuore<br>[[concepts/courage\|coraggio]] per far noto il suo [[motifs/love\|amore]]? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Portatemi via di qui, ohimè! |
+| [[characters/macduff\|MACDUFF]] | Badate alla signora. |
+| [[characters/malcolm\|MALCOLM]] | (a parte, a Donalbain)<br>Perché teniamo a freno la lingua,<br>noi che più d’ogni altro possiamo reclamare come nostro questo tema? |
+| DONALBAIN | (a parte, a [[characters/malcolm\|Malcolm]])<br>Che cosa si può dire qui, dove il nostro destino,<br>nascosto in un foro di succhiello, può balzare e ghermirci?<br>Andiamo via. Le nostre [[motifs/tears\|lacrime]] non sono ancora mature. |
+| [[characters/malcolm\|MALCOLM]] | (a parte, a Donalbain)<br>Né il nostro forte dolore<br>è ancora in piedi per muoversi. |
+| [[characters/banquo\|BANQUO]] | Badate alla signora; Esce [[characters/lady-macbeth\|Lady Macbeth]], sorretta<br>e quando avremo coperte le nostre nude fragilità,<br>che patiscono all’aperto, incontriamoci<br>e indaghiamo questa sanguinosissima opera,<br>per conoscerla oltre. Timori e scrupoli ci scuotono.<br>Nella gran mano di Dio io sto, e di là<br>combatto contro il disegno non ancora svelato<br>di malizia traditrice. |
+| [[characters/macduff\|MACDUFF]] | E COSÌ faccio anch’io. |
+| SO | tutti. |
+| [[characters/macbeth\|MACBETH]] | Rivestiamoci in breve d’assetto virile,<br>e ritroviamoci insieme nella sala. |
+| TUTTI | [[motifs/well\|Ben]] contenti. |
+| *(didascalia)* | Escono tutti tranne [[characters/malcolm\|Malcolm]] e Donalbain |
+| [[characters/malcolm\|MALCOLM]] | Che farete? Non associamoci a loro.<br>Mostrare un dolore non sentito è un ufficio<br>che l’uomo falso compie facilmente. Io andrò in Inghilterra. |
+| DONALBAIN | In Irlanda, io. La nostra fortuna separata<br>ci terrà entrambi più sicuri. Dove siamo<br>ci son pugnali nei sorrisi degli uomini. Più vicini di [[motifs/blood\|sangue]],<br>più vicini al sangue. |
+| [[characters/malcolm\|MALCOLM]] | Questo dardo omicida che è stato scoccato<br>non è ancora caduto, e la nostra via più sicura<br>è schivare il bersaglio. Dunque a [[motifs/horse\|cavallo]],<br>e non andiamo per il sottile nel congedarci,<br>ma svigniamocela. C’è giustificazione in quel furto<br>che ruba sé stesso quando non resta più [[concepts/mercy\|pietà]]. Escono |
+
+### Atto 2, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Ross con un Vecchio |
+| VECCHIO | Settant’anni posso ricordare [[motifs/well\|bene]], |
+| *(didascalia)* | Nel volume del qual [[motifs/time\|tempo]] ho veduto |
+| VECCHIO | ore terribili e cose strane, ma questa dolorosa [[motifs/night\|notte]]<br>ha reso inezie le passate esperienze.<br>Ross Ah,<br>buon padre,<br>tu vedi i cieli, come turbati dall’atto dell’uomo,<br>minacciare il suo palcoscenico insanguinato. Secondo l’[[motifs/clock\|orologio]] è giorno,<br>eppure la [[motifs/night\|notte]] oscura strangola la lampada viaggiante.<br>È il predominio della [[motifs/night\|notte]] o la vergogna del giorno<br>che le tenebre seppelliscano il volto della terra<br>quando la luce viva dovrebbe baciarlo? |
+| VECCHIO | È contro natura,<br>proprio come l’atto che è stato compiuto. Martedì scorso<br>un falcone, librato nel suo [[concepts/pride\|orgoglio]] d’altezza,<br>fu assalito e ucciso da un gufo cacciatore di topi. |
+| ROSS | E i cavalli di [[characters/duncan\|Duncan]]—cosa stranissima e<br>certa—<br>belli e veloci, i prediletti della loro razza,<br>si fecero selvaggi di [[concepts/nature\|natura]], ruppero le stalle, si scagliarono fuori,<br>ribellandosi all’obbedienza, come volessero<br>far guerra al genere umano. |
+| VECCHIO | Si dice che si divorarono a vicenda. |
+| ROSS | Così fecero, con stupore dei miei occhi<br>che lo guardarono. |
+| *(didascalia)* | Entra [[characters/macduff\|Macduff]] |
+| ROSS | Ecco venire il buon [[characters/macduff\|Macduff]].<br>Come va il mondo ora, signore? |
+| [[characters/macduff\|MACDUFF]] | Ebbene, non lo vedete? |
+| ROSS | Si sa chi ha compiuto questo atto più che sanguinoso? |
+| [[characters/macduff\|MACDUFF]] | Quelli che [[characters/macbeth\|Macbeth]] ha ucciso.<br>Ross<br>Ahimè, giorno funesto,<br>qual bene potevano attendersi? |
+| [[characters/macduff\|MACDUFF]] | Furono subornati.<br>[[characters/malcolm\|Malcolm]] e Donalbain, i due figli del [[archetypes/king\|Re]],<br>si sono svignati e fuggiti, il che getta su di loro<br>il sospetto dell’atto.<br>Ross<br>Sempre contro [[concepts/nature\|natura]].<br>Prodiga [[concepts/ambition\|ambizione]], che divori<br>i mezzi stessi della tua vita! Allora è assai probabile<br>che la sovranità cada su [[characters/macbeth\|Macbeth]]. |
+| [[characters/macduff\|MACDUFF]] | È già nominato e andato a Scone<br>per esservi investito.<br>Ross Dov’è il [[concepts/body\|corpo]] di [[characters/duncan\|Duncan]]? |
+| [[characters/macduff\|MACDUFF]] | Portato a Colmekill,<br>il sacro deposito dei suoi predecessori<br>e custode delle loro ossa.<br>Ross<br>Andrete a Scone? |
+| [[characters/macduff\|MACDUFF]] | No, cugino, io andrò a Fife. |
+| ROSS | [[motifs/well\|Bene]], io ci andrò. |
+| [[characters/macduff\|MACDUFF]] | [[motifs/well\|Bene]], possiate vedere le cose là [[motifs/well\|ben]] fatte. Addio,<br>ché le nostre vecchie vesti non ci stiano più comode delle nuove.<br>Ross Addio, padre. |
+| VECCHIO | La benedizione di Dio vada con voi, e con quelli<br>che vorrebbero far bene del male, e amici dei nemici. |
+| *(didascalia)* | Escono separatamente |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/banquo\|Banquo]] |
+| [[characters/banquo\|BANQUO]] | Ora l’hai: [[archetypes/king\|Re]], Cawdor, Glamis, tutto<br>come le donne fatali promisero; e [[concepts/fear\|temo]]<br>che tu abbia giocato assai lordamente per averlo. Pure fu detto<br>che non sarebbe rimasto alla tua posterità,<br>ma che io stesso sarei stato la radice e il padre<br>di molti re. Se da loro viene [[concepts/truth\|verità]]—<br>come su di te, [[characters/macbeth\|Macbeth]], i loro detti rifulgono-<br>perché, per le verità su te avverate,<br>non potrebbero essere [[motifs/well\|altrettanto]] oracoli per me,<br>e levarmi in [[concepts/hope\|speranza]]? Ma zitto, non più. |
+| *(didascalia)* | Squillo di trombe. Entrano [[characters/macbeth\|Macbeth]] come [[archetypes/king\|Re]], [[characters/lady-macbeth\|Lady Macbeth]] |
+| [[characters/banquo\|BANQUO]] | come [[characters/queen\|Regina]], Lennox, Ross, signori e seguito |
+| [[characters/macbeth\|MACBETH]] | Ecco il nostro ospite principale. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Se fosse stato dimenticato<br>sarebbe stato come un vuoto nella nostra gran festa,<br>e del tutto sconveniente. |
+| [[characters/macbeth\|MACBETH]] | (a [[characters/banquo\|Banquo]])<br>Stanotte teniamo una cena solenne, signore,<br>e richiederò la vostra presenza. |
+| [[characters/banquo\|BANQUO]] | Comandi vostra altezza<br>su di me, alla quale i miei doveri<br>sono con vincolo indissolubilissimo<br>per sempre legati. |
+| [[characters/macbeth\|MACBETH]] | Cavalcate questo pomeriggio? |
+| [[characters/banquo\|BANQUO]] | Sì, mio buon signore. |
+| [[characters/macbeth\|MACBETH]] | Altrimenti avremmo desiderato il vostro buon consiglio,<br>che è sempre stato [[motifs/grave\|grave]] e fruttuoso,<br>nel consiglio d’oggi; ma parleremo domani.<br>Cavalcate lontano? |
+| [[characters/banquo\|BANQUO]] | Tanto lontano, mio signore, quanto riempirà il [[motifs/time\|tempo]]<br>fra ora e la cena. Se il mio [[motifs/horse\|cavallo]] non andrà meglio,<br>dovrò farmi debitore della [[motifs/night\|notte]]<br>per un’ora buia o due. |
+| [[characters/macbeth\|MACBETH]] | Non mancate al nostro banchetto. |
+| [[characters/banquo\|BANQUO]] | Mio signore, non mancherò. |
+| [[characters/macbeth\|MACBETH]] | Udiamo che i nostri sanguinari cugini sono alloggiati<br>in Inghilterra e in Irlanda, senza confessare<br>il loro crudele parricidio, riempiendo chi li ascolta<br>di strane invenzioni. Ma di ciò domani,<br>quando insieme avremo affari di stato<br>che ci reclamano entrambi. Affrettatevi a [[motifs/horse\|cavallo]]. Addio,<br>fino al vostro ritorno di [[motifs/night\|notte]]. Va Fleance con voi? |
+| [[characters/banquo\|BANQUO]] | Sì, mio buon signore. Il nostro [[motifs/time\|tempo]] ci incalza. |
+| [[characters/macbeth\|MACBETH]] | Auguro ai vostri cavalli d’esser rapidi e sicuri di piede,<br>e così vi affido alle loro groppe.<br>Addio. Esce [[characters/banquo\|Banquo]]<br>Ogni uomo sia padrone del proprio [[motifs/time\|tempo]]<br>fino alle sette di [[motifs/night\|sera]]. Per rendere la compagnia<br>più dolce al ritrovarci, resteremo con noi stessi<br>fino all’[[motifs/time\|ora]] della cena, soli. Fino allora, Dio sia con voi. |
+| *(didascalia)* | Escono tutti tranne [[characters/macbeth\|Macbeth]] e un Servo |
+| [[characters/macbeth\|MACBETH]] | Tu, una parola con te. Attendono quegli uomini<br>il nostro piacere? |
+| SERVO | Sono, mio signore, fuori dalla porta del palazzo. |
+| [[characters/macbeth\|MACBETH]] | Conduceteli davanti a noi. Esce il Servo<br>Essere così non è nulla,<br>ma esserlo in sicurezza. I nostri timori in [[characters/banquo\|Banquo]]<br>affondano profondi, e nella sua regalità di [[concepts/nature\|natura]]<br>regna ciò che è da temere. È molto ciò ch’egli osa,<br>e a quell’impavida tempra della sua mente<br>s’aggiunge una saggezza che guida il suo valore<br>ad agire in sicurezza. Non v’è altri che lui<br>il cui essere io [[concepts/fear\|tema]], e sotto di lui<br>il mio genio è rimproverato come, si dice,<br>lo fu quello di [[characters/mark-antony\|Marco Antonio]] da Cesare. Egli rimproverò le sorelle<br>quando per la prima volta posero su me il nome di [[archetypes/king\|re]],<br>e ordinò loro di parlare a lui. Allora, da [[archetypes/prophet\|profete]],<br>lo salutarono padre d’una stirpe di re.<br>Sul mio capo posero una [[motifs/crown\|corona]] infruttuosa,<br>e misero uno scettro sterile nella mia stretta,<br>per esserne strappato da mano non della mia linea,<br>senza che alcun mio figlio succeda. Se è così,<br>per la progenie di [[characters/banquo\|Banquo]] ho insozzato la mia mente,<br>per loro ho assassinato il benigno [[characters/duncan\|Duncan]],<br>ho versato rancori nel vaso della mia pace<br>solo per loro, e il mio eterno [[motifs/jewel\|gioiello]]<br>ho dato al comune nemico dell’uomo<br>per farli re, per far re i semi di [[characters/banquo\|Banquo]].<br>Piuttosto che così, entri il fato nella lizza<br>e mi sfidi a oltranza. Chi è là? |
+| *(didascalia)* | Entrano il Servo e due Assassini |
+| [[characters/macbeth\|MACBETH]] | (Al Servo) Ora va’ alla porta, e resta là finché<br>non chiamiamo. |
+| *(didascalia)* | Esce il Servo |
+| [[characters/macbeth\|MACBETH]] | Non fu ieri che parlammo insieme? |
+| ASSASSINI | Fu così, piaccia a vostra altezza. |
+| [[characters/macbeth\|MACBETH]] | [[motifs/well\|Bene]] allora, ora<br>avete meditato sui miei discorsi? Sappiate<br>che fu lui, nei tempi passati, a tenervi<br>così sotto la fortuna, cosa che voi credevate fosse<br>il nostro [[archetypes/innocent\|innocente]] [[concepts/self\|io]]. Questo vi dimostrai<br>nel nostro ultimo colloquio, passai in rassegna con voi<br>come foste illusi, come traversati, gli<br>strumenti,<br>chi operò con essi, e ogni altra cosa che<br>potrebbe<br>a mezza [[motifs/soul\|anima]], e a un intelletto stolto,<br>dire ‘Così fece [[characters/banquo\|Banquo]]’. |
+| PRIMO ASSASSINO | Ce lo faceste conoscere. |
+| [[characters/macbeth\|MACBETH]] | Lo feci, e andai oltre, che è ora<br>il punto del nostro secondo incontro. Trovate<br>la vostra pazienza così predominante nella vostra [[concepts/nature\|natura]]<br>da poter lasciar correre? Siete così evangelici<br>da pregare per quest’uomo dabbene e per la sua progenie,<br>la cui pesante mano vi ha piegati verso la [[motifs/grave\|tomba]]<br>e ha ridotto i vostri alla mendicità per sempre? |
+| PRIMO ASSASSINO | Siamo uomini, mio sire. |
+| [[characters/macbeth\|MACBETH]] | Sì, nel catalogo passate per uomini,<br>come segugi e levrieri, bastardi, spaniel, cani da cortile,<br>barboncini, cani d’[[motifs/water\|acqua]] e mezzi lupi son chiamati<br>tutti col nome di cani. La lista di valore<br>distingue il veloce, il lento, il sottile,<br>il guardiano, il cacciatore, ciascuno<br>secondo il dono che la generosa [[concepts/nature\|natura]]<br>ha racchiuso in lui; per cui riceve<br>una particolare designazione oltre l’elenco<br>che li scrive tutti uguali. E così degli uomini.<br>Ora, se avete un posto nella lista,<br>non nel rango peggiore della virilità, ditelo,<br>e io porrò nei vostri petti quell’impresa<br>la cui esecuzione toglie di mezzo il vostro nemico,<br>e vi stringe al cuore e all’[[motifs/love\|amore]] nostro,<br>che portiamo la nostra salute solo infermiccia mentre egli vive,<br>e che nella sua [[motifs/death\|morte]] sarebbe perfetta. |
+| SECONDO ASSASSINO | Io sono uno, mio sire,<br>che i vili colpi e gli schiaffi del mondo<br>hanno tanto esasperato che non m’importa che cosa<br>io faccia per far dispetto al mondo. |
+| PRIMO ASSASSINO | E io un altro,<br>così stanco di disastri, strapazzato dalla fortuna,<br>che punterei la mia vita su qualsiasi azzardo<br>per migliorarla o per liberarmene. |
+| [[characters/macbeth\|MACBETH]] | Entrambi<br>sapete che [[characters/banquo\|Banquo]] era vostro nemico. |
+| ASSASSINI | Vero, mio signore. |
+| [[characters/macbeth\|MACBETH]] | Così è mio, e a tale sanguinosa distanza<br>che ogni minuto del suo esistere colpisce<br>ciò che ho di più vitale; e benché io possa<br>con potere scoperto spazzarlo via dalla mia vista<br>e far che la mia volontà lo giustifichi, pure non devo,<br>per certi amici che sono suoi e miei,<br>il cui affetto non posso perdere, ma dovrò piangere la caduta<br>di colui che io stesso ho abbattuto. E di qui viene<br>che io mi rivolgo con [[motifs/love\|amore]] al vostro aiuto,<br>mascherando la faccenda all’occhio comune<br>per diverse gravi ragioni. |
+| SECONDO ASSASSINO | Compiremo, mio signore,<br>ciò che ci comandate. |
+| PRIMO ASSASSINO | Anche se le nostre vite— |
+| [[characters/macbeth\|MACBETH]] | I vostri spiriti traspaiono da voi. Entro un’ora al più<br>vi indicherò dove appostarvi,<br>vi renderò noto l’esatto momento propizio del [[motifs/time\|tempo]],<br>l’istante preciso; ché dev’esser fatto stanotte,<br>e a qualche distanza dal palazzo; sempre inteso<br>ch’io esigo di restarne netto; e con lui,<br>per non lasciare intoppi né sbavature nell’opera,<br>Fleance, suo figlio, che gli tiene compagnia—<br>la cui assenza non m’è meno essenziale<br>di quella del padre—deve abbracciare il destino<br>di quell’ora buia. Risolvetevi in disparte.<br>Verrò da voi tra poco. |
+| ASSASSINI | Siamo risoluti, mio signore. |
+| [[characters/macbeth\|MACBETH]] | Vi chiamerò subito. Restate dentro. |
+| *(didascalia)* | Escono gli Assassini |
+| [[characters/macbeth\|MACBETH]] | È deciso. [[characters/banquo\|Banquo]], il volo della tua [[motifs/soul\|anima]],<br>se trova il cielo, lo deve trovare stanotte. Esce<br><br>Entrano [[characters/lady-macbeth\|Lady Macbeth]] e un Servo |
+| [[characters/lady-macbeth\|LADY MACBETH]] | È partito [[characters/banquo\|Banquo]] dalla [[settings/court\|corte]]? |
+| SERVO | Sì, signora, ma torna stanotte. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Dite al [[archetypes/king\|Re]] che vorrei attendere il suo comodo<br>per poche parole. |
+| SERVO | Signora, lo farò. |
+| *(didascalia)* | Esce |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Nulla s’ha, tutto è speso,<br>dove il nostro [[motifs/desire\|desiderio]] è ottenuto senza contento.<br>È più sicuro essere ciò che distruggiamo<br>che con la distruzione vivere in dubbiosa gioia. |
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ebbene, mio signore, perché state solo,<br>facendo delle più tristi fantasie i vostri compagni,<br>coltivando quei pensieri che davvero sarebbero dovuti morire<br>con coloro cui pensano? Le cose senza rimedio alcuno<br>dovrebbero restare senza riguardo. Ciò ch’è fatto è fatto. |
+| [[characters/macbeth\|MACBETH]] | Abbiamo ferito il serpente, non ucciso.<br>Si richiuderà e tornerà sé stesso, mentre la nostra povera malizia<br>resta in pericolo del suo dente d’un tempo.<br>Ma si disgiunga pure la compagine delle cose, patiscano entrambi<br>i mondi,<br>prima che mangiamo il nostro cibo nella [[concepts/fear\|paura]], e [[motifs/sleep\|dormiamo]]<br>nell’afflizione di questi terribili [[motifs/dreams\|sogni]]<br>che ci scuotono ogni notte. Meglio stare coi morti,<br>che per guadagnare la nostra pace abbiamo mandato alla pace,<br>che giacere sulla tortura della mente<br>in un’estasi senza riposo. [[characters/duncan\|Duncan]] è nella sua [[motifs/grave\|tomba]].<br>Dopo la febbre convulsa della vita egli dorme [[motifs/well\|bene]].<br>Il tradimento ha fatto il suo peggio. Né acciaio né [[motifs/poison\|veleno]],<br>malizia domestica, leva straniera, nulla<br>può toccarlo oltre. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Suvvia, mio gentile signore,<br>spianate il vostro aspetto arcigno, siate lieto e gioviale<br>tra i vostri ospiti stanotte. |
+| [[characters/macbeth\|MACBETH]] | Così farò, [[motifs/love\|amore]],<br>e così vi prego di fare voi. Rivolgete il vostro ricordo<br>a [[characters/banquo\|Banquo]]. Rendetegli eminenza<br>con l’occhio e con la lingua; insicuri, intanto, noi<br>che dobbiamo lavare i nostri onori in questi ruscelli d’adulazione<br>e fare dei nostri volti visiere ai nostri cuori,<br>travestendo ciò che sono. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Dovete smetterla con questo. |
+| [[characters/macbeth\|MACBETH]] | Oh, piena di scorpioni è la mia mente, cara moglie!<br>Tu sai che [[characters/banquo\|Banquo]] e il suo Fleance vivono. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Ma in loro il contratto della [[concepts/nature\|natura]] non è eterno. |
+| [[characters/macbeth\|MACBETH]] | V’è conforto ancora, sono attaccabili.<br>Sii dunque allegra. Prima che il pipistrello abbia compiuto<br>il suo volo claustrale, prima che al richiamo della nera Ecate<br>lo scarabeo dalle dure elitre col suo ronzio sonnolento<br>abbia suonato il rintocco sbadigliante della [[motifs/night\|notte]], sarà compiuto<br>un atto di terribile fama. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Che si deve fare? |
+| [[characters/macbeth\|MACBETH]] | Resta [[archetypes/innocent\|innocente]] della cosa, carissima,<br>finché non applaudirai l’atto.—Vieni, [[motifs/night\|notte]] accecatrice,<br>benda il tenero occhio del giorno pietoso,<br>e con la tua mano sanguinosa e invisibile<br>cancella e straccia in pezzi quel gran patto<br>che mi tiene pallido. La luce s’addensa, e il corvo<br>vola verso il bosco delle cornacchie.<br>Le cose buone del giorno cominciano a chinarsi e assopirsi,<br>mentre i neri agenti della [[motifs/night\|notte]] si destano alle loro prede.<br>Ti meravigli delle mie parole; ma sta’ quieta.<br>Le cose male incominciate col male si rafforzano.<br>Perciò ti prego, vieni con me. Escono |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano tre Assassini |
+| PRIMO ASSASSINO | (al Terzo Assassino)<br>Ma chi t’ha ordinato d’unirti a noi? |
+| TERZO ASSASSINO | [[characters/macbeth\|Macbeth]]. |
+| SECONDO ASSASSINO | (al Primo Assassino)<br>Non c’è bisogno di diffidarne, poiché egli riferisce<br>i nostri incarichi e quel che dobbiamo fare<br>esattamente secondo le istruzioni. |
+| PRIMO ASSASSINO | (al Terzo Assassino) Allora sta’ con noi.<br>L’occidente luccica ancora di qualche striscia di giorno.<br>Ora il viandante attardato sprona di gran passo<br>per guadagnare in tempo la locanda, e s’avvicina<br>l’oggetto della nostra veglia. |
+| TERZO ASSASSINO | Ascoltate, odo cavalli. |
+| [[characters/banquo\|BANQUO]] | (dall’interno)<br>Un lume qui, olà! |
+| SECONDO ASSASSINO | Allora è lui. Gli altri<br>che sono nella lista degli attesi<br>sono già a [[settings/court\|corte]]. |
+| PRIMO ASSASSINO | I suoi cavalli fanno il giro. |
+| TERZO ASSASSINO | Quasi un miglio; ma egli suole,<br>come fanno tutti, da qui alla porta del palazzo<br>farne il suo cammino a piedi. |
+| *(didascalia)* | Entrano [[characters/banquo\|Banquo]] e Fleance con una torcia |
+| SECONDO ASSASSINO | (a parte) Un lume, un lume. |
+| TERZO ASSASSINO | (a parte)<br>È lui. |
+| PRIMO ASSASSINO | (a parte) Teniamoci pronti. |
+| [[characters/banquo\|BANQUO]] | Stanotte pioverà. |
+| PRIMO ASSASSINO | E che venga giù.<br>Il Primo Assassino spegne la torcia. Gli altri assalgono [[characters/banquo\|Banquo]] |
+| [[characters/banquo\|BANQUO]] | Oh, tradimento! Fuggi, buon Fleance, fuggi, fuggi, fuggi!<br>Tu potrai [[concepts/revenge\|vendicarmi]].—Oh schiavo! Muore. Esce Fleance |
+| TERZO ASSASSINO | Chi ha spento il lume? |
+| PRIMO ASSASSINO | Non era il modo giusto? |
+| TERZO ASSASSINO | Ne è caduto uno solo. Il figlio è fuggito. |
+| SECONDO ASSASSINO | Abbiamo perduto la metà migliore della nostra impresa. |
+| PRIMO ASSASSINO | [[motifs/well\|Bene]], andiamo e diciamo quanto è stato fatto. |
+| *(didascalia)* | Escono col [[concepts/body\|corpo]] di [[characters/banquo\|Banquo]] |
+
+### Atto 3, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Banchetto apparecchiato. Entrano [[characters/macbeth\|Macbeth]] come [[archetypes/king\|Re]], [[characters/lady-macbeth\|Lady Macbeth]] come [[characters/queen\|Regina]], Ross, Lennox, Signori e seguito. Lady |
+| *(didascalia)* | [[characters/macbeth\|Macbeth]] siede |
+| [[characters/macbeth\|MACBETH]] | Conoscete i vostri gradi; sedete. Dal primo all’ultimo<br>il cordiale benvenuto. |
+| SIGNORI | Grazie a vostra maestà.<br>Siedono |
+| [[characters/macbeth\|MACBETH]] | Noi stessi ci mescoleremo alla compagnia<br>e faremo l’umile ospite. La nostra ospite tiene il suo<br>seggio,<br>ma al [[motifs/time\|tempo]] migliore chiederemo il suo benvenuto. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Pronunciatelo per me, signore, a tutti i nostri amici,<br>ché il mio cuore dice che sono benvenuti. |
+| *(didascalia)* | Entra il Primo Assassino [alla porta] |
+| [[characters/macbeth\|MACBETH]] | Vedete, vi incontrano coi ringraziamenti dei loro cuori.<br>I due lati sono pari. Qui siederò, nel mezzo.<br>Siate larghi d’allegria. Tra poco berremo un giro<br>attorno alla tavola. (Al Primo Assassino) C’è del [[motifs/blood\|sangue]]<br>sul tuo volto. |
+| PRIMO ASSASSINO | (a parte a [[characters/macbeth\|Macbeth]]) È di [[characters/banquo\|Banquo]], allora. |
+| [[characters/macbeth\|MACBETH]] | Meglio fuori su di te che dentro in lui.<br>È spacciato? |
+| PRIMO ASSASSINO | Mio signore, ha la gola tagliata. Questo gli feci io. |
+| [[characters/macbeth\|MACBETH]] | Sei il migliore degli sgozzatori. Pure è bravo anche colui<br>che fece altrettanto a Fleance. Se lo facesti tu,<br>non hai pari. |
+| PRIMO ASSASSINO | Regalissimo signore,<br>Fleance è scampato. |
+| [[characters/macbeth\|MACBETH]] | Allora mi torna l’accesso; altrimenti sarei stato perfetto,<br>intero come il marmo, fondato come la roccia,<br>ampio e universale come l’aria che tutto avvolge,<br>ma ora sono ingabbiato, rinchiuso, confinato, legato<br>a insolenti dubbi e paure. Ma [[characters/banquo\|Banquo]] è al sicuro? |
+| PRIMO ASSASSINO | Sì, mio buon signore. Al sicuro in un fosso egli sta,<br>con venti squarci scavati nel capo,<br>il minore dei quali è [[motifs/death\|morte]] per la [[concepts/nature\|natura]]. |
+| [[characters/macbeth\|MACBETH]] | Grazie di questo.<br>Là giace il serpente adulto. Il verme che è fuggito<br>ha [[concepts/nature\|natura]] tale che col [[motifs/time\|tempo]] genererà veleno,<br>ma per ora non ha denti. Vattene. Domani<br>ci parleremo di nuovo. Esce il Primo Assassino |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Mio regale signore,<br>voi non fate gli onori. È venduto il banchetto<br>che non sia spesso garantito, mentre si prepara,<br>ch’è dato di buon grado. Per nutrirsi sarebbe meglio stare a [[motifs/home\|casa]].<br>Fuori di là, la salsa alle vivande è la cerimonia,<br>nudo sarebbe il ritrovarsi senza di essa. |
+| *(didascalia)* | Entra il [[archetypes/ghost\|Fantasma]] di [[characters/banquo\|Banquo]], e siede al posto di |
+| [[characters/lady-macbeth\|LADY MACBETH]] | [[characters/macbeth\|Macbeth]] |
+| [[characters/macbeth\|MACBETH]] | Dolce ammonitrice.<br>Ora la buona digestione accompagni l’appetito,<br>e la salute entrambi. |
+| LENNOX | Piaccia a vostra altezza sedere? |
+| [[characters/macbeth\|MACBETH]] | Qui avremmo ora sotto un tetto l’[[concepts/honour\|onore]] del nostro paese<br>se fosse presente la graziosa persona del nostro [[characters/banquo\|Banquo]],<br>che vorrei piuttosto accusare di scortesia<br>che compiangere per disgrazia. |
+| ROSS | La sua assenza, signore,<br>getta biasimo sulla sua promessa. Piaccia a vostra altezza<br>onorarci della vostra regale compagnia? |
+| [[characters/macbeth\|MACBETH]] | La tavola è piena. |
+| LENNOX | Qui c’è un posto riservato, signore. |
+| [[characters/macbeth\|MACBETH]] | Dove? |
+| LENNOX | Qui, mio buon signore. Che cosa turba vostra<br>altezza? |
+| [[characters/macbeth\|MACBETH]] | Chi di voi ha fatto questo? |
+| SIGNORI | Che cosa, mio buon signore? |
+| [[characters/macbeth\|MACBETH]] | (al [[archetypes/ghost\|Fantasma]])<br>Tu non puoi dire che l’ho fatto io. Non scuotere mai<br>verso di me le tue chiome insanguinate. |
+| ROSS | (alzandosi)<br>Signori, alzatevi. Sua altezza non sta [[motifs/well\|bene]]. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | (alzandosi)<br>Sedete, degni amici. Il mio signore è spesso così,<br>e lo è stato fin dalla giovinezza. Vi prego, restate seduti.<br>L’accesso è momentaneo. In un attimo<br>starà di nuovo [[motifs/well\|bene]]. Se troppo lo osservate<br>lo offenderete, e prolungherete il suo travaglio.<br>Mangiate, e non badate a lui.<br>Parla in disparte con [[characters/macbeth\|Macbeth]]<br>Siete un uomo? |
+| [[characters/macbeth\|MACBETH]] | Sì, e ardito, che oso guardare ciò<br>che potrebbe atterrire il diavolo. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Oh, bella roba!<br>Questa è proprio la pittura della vostra [[concepts/fear\|paura]];<br>questo è il pugnale disegnato nell’aria che diceste<br>vi condusse a [[characters/duncan\|Duncan]]. Oh, questi sussulti e trasalimenti,<br>impostori della vera [[concepts/fear\|paura]], starebbero [[motifs/well\|bene]]<br>a un racconto di donna presso il [[motifs/fire\|fuoco]] d’[[motifs/winter\|inverno]]<br>garantito dalla nonna. Vergogna in persona,<br>perché fate simili smorfie? Quando tutto è detto<br>voi guardate soltanto uno sgabello. |
+| [[characters/macbeth\|MACBETH]] | Ti prego, guarda là. Ecco, guarda, vedi-che dici?<br>Ma che m’importa? Se puoi annuire, parla anche!<br>Se gli ossari e le nostre tombe devono rimandare<br>quelli che seppelliamo, i nostri monumenti<br>saranno i ventri dei nibbi. |
+| *(didascalia)* | Esce il [[archetypes/ghost\|Fantasma]] |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Come, tutto svirilito dalla follia? |
+| [[characters/macbeth\|MACBETH]] | Com’è vero che sto qui, l’ho visto. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Vergogna, vergogna! |
+| [[characters/macbeth\|MACBETH]] | [[motifs/blood\|Sangue]] è stato versato anche prima d’ora, nell’antico [[motifs/time\|tempo]],<br>prima che la legge umana purgasse il mite consorzio;<br>sì, e anche dopo, si sono compiuti assassinii<br>troppo terribili per l’orecchio. Ci fu un [[motifs/time\|tempo]]<br>in cui, quando le cervella erano fuori, l’uomo moriva,<br>e lì finiva. Ma ora essi risorgono<br>con venti mortali ferite sul capo,<br>e ci spingono via dai nostri sgabelli. Questo è più strano<br>di quanto lo sia un tale assassinio. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | (ad alta voce)<br>Mio degno signore,<br>i vostri nobili amici sentono la vostra mancanza. |
+| [[characters/macbeth\|MACBETH]] | Dimentico.<br>Non stupitevi di me, miei degnissimi amici.<br>Ho una strana infermità che è nulla<br>per quelli che mi conoscono. Suvvia, [[motifs/love\|amore]] e salute a tutti,<br>poi mi siederò.<br>(A un servo) Datemi del vino. Riempite fino all’orlo. |
+| *(didascalia)* | Entra il [[archetypes/ghost\|Fantasma]] |
+| [[characters/macbeth\|MACBETH]] | Bevo alla gioia comune di tutta la tavola,<br>e al nostro caro amico [[characters/banquo\|Banquo]], che ci manca.<br>Fosse qui. Di tutti e di lui abbiamo sete,<br>e tutti a tutti. |
+| SIGNORI | I nostri omaggi, e il brindisi.<br>Bevono |
+| [[characters/macbeth\|MACBETH]] | (vedendo il [[archetypes/ghost\|Fantasma]])<br>Via, e sgombra dalla mia vista! Ti nasconda la terra.<br>Le tue ossa sono senza midollo, il tuo [[motifs/blood\|sangue]] è freddo.<br>Non v’è vista in quegli occhi<br>coi quali sbarri lo sguardo. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Considerate questo, buoni pari,<br>solo come cosa consueta. Non è altro;<br>soltanto guasta il piacere del [[motifs/time\|momento]]. |
+| [[characters/macbeth\|MACBETH]] | Ciò che un uomo osa, io oso.<br>Avvicinati come il ruvido orso russo,<br>il rinoceronte corazzato, o la tigre ircana;<br>prendi qualunque forma tranne quella, e i miei saldi nervi<br>non tremeranno mai. Oppure torna vivo,<br>e sfidami nel [[motifs/desert\|deserto]] con la tua spada.<br>Se allora tremando mi rintano, proclamami<br>il bimbo d’una bambina. Via, orribile [[archetypes/shadow\|ombra]],<br>irreale scherno, via! |
+| *(didascalia)* | Esce il [[archetypes/ghost\|Fantasma]] |
+| [[characters/macbeth\|MACBETH]] | Ecco, essendo andato,<br>sono di nuovo un uomo. Vi prego, restate seduti. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Avete scacciato l’allegria, rotto il buon ritrovo<br>con un disordine da far stupore. |
+| [[characters/macbeth\|MACBETH]] | Possono simili cose accadere<br>e sopraffarci come una nuvola d’[[motifs/summer\|estate]],<br>senza il nostro speciale [[concepts/wonder\|stupore]]? Mi rendete estraneo<br>perfino all’indole che mi appartiene,<br>quando ora penso che voi potete contemplare tali visioni<br>e conservare il rubino naturale delle vostre guance<br>mentre il mio è sbiancato dalla [[concepts/fear\|paura]].<br>Ross<br>Quali visioni, mio signore? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Vi prego, non parlate. Peggiora sempre più. 116<br>Le domande lo infuriano. Subito, buona [[motifs/night\|notte]].<br>Non state a badare all’ordine dell’uscire,<br>ma andate all’istante. |
+| LENNOX | Buona [[motifs/night\|notte]], e miglior salute<br>assista sua maestà. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Una cortese buona[[motifs/night\|notte]] a tutti. |
+| *(didascalia)* | Escono i Signori |
+| [[characters/macbeth\|MACBETH]] | Vorrà [[motifs/blood\|sangue]], dicono. Il [[motifs/blood\|sangue]] vuole [[motifs/blood\|sangue]].<br>S’è saputo di pietre che si muovono, e d’alberi che parlano,<br>àuguri e nessi intesi hanno<br>per mezzo di gazze, gracchi e corvi svelato<br>l’uomo di [[motifs/blood\|sangue]] più segreto. A che punto è la [[motifs/night\|notte]]? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Quasi in lite col mattino, su quale sia quale. |
+| [[characters/macbeth\|MACBETH]] | Che ne dici che [[characters/macduff\|Macduff]] nega la sua persona<br>al nostro grande invito? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Avete mandato a chiamarlo, signore? |
+| [[characters/macbeth\|MACBETH]] | Lo sento per via indiretta, ma manderò.<br>Non ce n’è uno solo nella cui casa<br>io non tenga un servo prezzolato. Domani andrò,<br>e per tempo andrò, dalle sorelle fatali.<br>Di più dovranno parlare, ché ora son deciso a sapere<br>coi mezzi peggiori il peggio. Per il mio proprio bene<br>ogni causa cederà il passo. Sono nel [[motifs/blood\|sangue]]<br>immerso tanto avanti che, se non guadassi oltre,<br>tornare indietro sarebbe faticoso quanto passare.<br>Ho in capo strane cose che vogliono venire alle mani,<br>e devono essere agite prima d’esser scrutate. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Vi manca il condimento di tutte le nature, il [[motifs/sleep\|sonno]]. |
+| [[characters/macbeth\|MACBETH]] | Vieni, andremo a [[motifs/sleep\|dormire]]. Il mio strano inganno di [[concepts/self\|me stesso]]<br>è la [[concepts/fear\|paura]] del novizio cui manca il duro esercizio.<br>Siamo ancora giovani nell’azione. Escono |
+
+### Atto 3, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Tuono. Entrano le [[characters/three-witches\|tre Streghe]] incontrando Ecate |
+| PRIMA [[characters/witch\|STREGA]] | Ebbene, che c’è, Ecate? Hai l’aria adirata. |
+| ECATE | Non ne ho ragione, megere quali siete?<br>Insolenti e troppo ardite, come avete osato<br>trafficare e mercanteggiare con [[characters/macbeth\|Macbeth]]<br>in enigmi e faccende di [[motifs/death\|morte]],<br>e io, padrona dei vostri incanti,<br>segreta ordinatrice d’ogni male,<br>non fui mai chiamata a fare la mia parte<br>o a mostrare la gloria dell’arte nostra?—<br>E, ciò ch’è peggio, tutto quel che avete fatto 10<br>è stato solo per un figlio capriccioso,<br>dispettoso e iracondo, che, come fanno gli altri,<br>ama per i propri fini, non per voi.<br>Ma rimediate ora. Andatevene,<br>e al pozzo dell’Acheronte<br>trovatevi con me al mattino. Là egli<br>verrà a conoscere il suo destino.<br>Preparate i vostri vasi e i vostri sortilegi,<br>i vostri incanti e ogni altra cosa.<br>Io vado per l’aria. Questa [[motifs/night\|notte]] la spenderò<br>per un fine tetro e fatale.<br>Grandi cose devono compiersi prima del [[motifs/noon\|mezzogiorno]].<br>Sul corno della [[motifs/moon\|luna]]<br>pende una goccia vaporosa e profonda.<br>La coglierò prima che tocchi terra,<br>e quella, distillata con astuzie di magia,<br>farà sorgere tali spiriti artificiali<br>che con la forza della loro illusione<br>lo trascineranno alla sua rovina.<br>Egli sprezzerà il fato, schernirà la [[motifs/death\|morte]], e porterà<br>le sue speranze sopra saggezza, grazia e [[concepts/fear\|paura]];<br>e tutti sapete che la sicurezza<br>è il nemico principale dei mortali. |
+| SPIRITI | (cantando sparsi all’interno)<br>Vieni via, vieni via.<br>Ecate, Ecate, vieni via. |
+| ECATE | Ascoltate, sono chiamata! Il mio piccolo spirito, vedete,<br>siede in una nuvola di nebbia e m’aspetta.<br>Il Canto |
+| *(didascalia)* | SPIRITI all’interno |
+| ECATE | Vieni via, vieni via,<br>Ecate, Ecate, vieni via. |
+| ECATE | Vengo, vengo, vengo, vengo,<br>con tutta la [[characters/speed\|rapidità]] che posso,<br>con tutta la [[characters/speed\|rapidità]] che posso.<br>Dov’è Stadlin? |
+| *(didascalia)* | SPIRITO all’interno |
+| ECATE | Qui. |
+| ECATE | Dov’è Puckle? |
+| *(didascalia)* | UN ALTRO SPIRITO all’interno |
+| ECATE | Qui. |
+| *(didascalia)* | ALTRI SPIRITI all’interno |
+| ECATE | E anche Hoppo, e anche Hellwain,<br>manchi solo tu, manchi solo tu.<br>Vieni via, completa il conto. |
+| ECATE | M’ungerò soltanto, e poi salgo. |
+| *(didascalia)* | Gli spiriti appaiono in alto. Uno Spirito in forma di Gatto discende |
+| *(didascalia)* | SPIRITI in alto |
+| ECATE | Ecco uno che scende a prendersi il suo dovuto,<br>un bacio, un abbraccio, un sorso di [[motifs/blood\|sangue]],<br>e perché tanto indugi mi domando, mi domando,<br>ché l’aria è così dolce e buona. |
+| ECATE | Oh, sei venuto? Che nuove, che nuove? |
+| SPIRITO IN FORMA | DI GATTO<br>Tutto va tranquillo a nostro diletto. O vieni, oppure rifiuta, rifiuta. |
+| ECATE | Ora son fornita per il volo.<br>Ascende con lo spirito e canta<br><br>Ora vado, ora volo,<br>Malkin mio dolce spirito ed io. |
+| *(didascalia)* | SPIRITI ed ECATE |
+| ECATE | Oh che delizioso piacere è<br>cavalcare per l’aria<br>quando la [[motifs/moon\|luna]] splende chiara,<br>e cantare, e [[motifs/dance\|danzare]], e scherzare, e baciare.<br>Sopra boschi, alte rupi e [[settings/mountains\|montagne]],<br>sopra mari e fonti nebbiose,<br>sopra campanili, torri e torrette,<br>voliamo di [[motifs/night\|notte]] tra schiere di spiriti.<br>Nessun suono di [[motifs/bells\|campane]] giunge ai nostri orecchi,<br>nessun ululato di lupi, nessun latrato di cani.<br>No, né il fragore delle acque che rompono<br>né la gola dei cannoni può raggiungere la nostra altezza. |
+| *(didascalia)* | SPIRITI in alto |
+| ECATE | Nessun suono di [[motifs/bells\|campane]] giunge ai nostri orecchi,<br>nessun ululato di lupi, nessun latrato di cani.<br>No, né il fragore delle acque che rompono<br>né la gola dei cannoni può raggiungere la nostra altezza. |
+| *(didascalia)* | Escono verso i cieli lo |
+| ECATE | Spirito in forma di Gatto ed Ecate |
+| PRIMA [[characters/witch\|STREGA]] | Venite, affrettiamoci. Tornerà presto. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Lennox e un altro Signore |
+| LENNOX | I miei discorsi di prima non hanno che incontrato i vostri pensieri,<br>che possono interpretare più oltre. Dico soltanto<br>che le cose sono andate stranamente. Il benigno<br>[[characters/duncan\|Duncan]]<br>fu compianto da [[characters/macbeth\|Macbeth]]: già, era morto;<br>e il valorosissimo [[characters/banquo\|Banquo]] camminò troppo tardi,<br>e potete dire, se vi piace, che Fleance lo uccise,<br>ché Fleance fuggì: non si deve camminare troppo tardi.<br>Chi può non pensare quanto mostruoso<br>fosse per [[characters/malcolm\|Malcolm]] e per Donalbain<br>uccidere il loro benigno padre? Atto dannato,<br>come addolorò [[characters/macbeth\|Macbeth]]! Non fece egli subito<br>a pezzi, in pia collera, i due colpevoli,<br>che erano schiavi del bere e servi del [[motifs/sleep\|sonno]]?<br>Non fu nobilmente fatto? Sì, e anche saggiamente,<br>ché avrebbe irritato ogni cuore vivente<br>udire quegli uomini negarlo. Sicché io dico<br>ch’egli ha condotto ogni cosa [[motifs/well\|bene]], e penso<br>che se avesse i figli di [[characters/duncan\|Duncan]] sotto chiave—<br>come, piaccia al cielo, non avrà—troverebbero<br>che cosa sia uccidere un padre. Così pure Fleance.<br>Ma taciamo, ché per parole troppo aperte, e perché mancò<br>di presenza al banchetto del [[archetypes/tyrant\|tiranno]], odo<br>che [[characters/macduff\|Macduff]] vive in disgrazia. Signore, sapete dirmi<br>dove si è rifugiato? |
+| SIGNORE | Il figlio di [[characters/duncan\|Duncan]]<br>al quale questo [[archetypes/tyrant\|tiranno]] tiene il dovuto della nascita<br>vive alla [[settings/court\|corte]] inglese, ed è accolto<br>dal piissimo Edoardo con tal grazia<br>che la malevolenza della fortuna nulla<br>toglie all’alta stima che ne ha. Là [[characters/macduff\|Macduff]]<br>è andato a pregare il santo [[archetypes/king\|Re]] del suo aiuto<br>per destare il Northumberland e il bellicoso Siward,<br>affinché col soccorso di questi—con Colui lassù<br>a ratificare l’opera—possiamo di nuovo<br>dare alle nostre mense il cibo, il [[motifs/sleep\|sonno]] alle nostre notti,<br>liberare dalle nostre feste e banchetti i coltelli insanguinati,<br>rendere fedele omaggio, e ricevere liberi onori,<br>tutte cose per le quali ora ci struggiamo. E questo rapporto<br>ha talmente esasperato il loro [[archetypes/king\|re]] ch’egli<br>si prepara a qualche impresa di guerra. |
+| LENNOX | Mandò a [[characters/macduff\|Macduff]]? |
+| SIGNORE | Sì, e a un assoluto ‘Signore, io no,’<br>il fosco messaggero mi volta la schiena<br>e borbotta, come a dire ‘Rimpiangerai il [[motifs/time\|tempo]]<br>che m’intralcia con questa risposta.’ |
+| LENNOX | E ciò [[motifs/well\|ben]] potrebbe<br>consigliarlo alla cautela di tenere quella,distanza<br>che la sua saggezza sappia procurargli. Qualche santo angelo<br>voli alla [[settings/court\|corte]] d’Inghilterra e riveli<br>il suo messaggio prima ch’egli giunga, sì che una rapida benedizione<br>possa presto tornare a questo nostro paese [[concepts/suffering\|sofferente]]<br>sotto una mano maledetta. |
+| SIGNORE | Manderò con lui le mie preghiere. Escono |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Un Calderone. Tuono. Entrano le [[characters/three-witches\|tre Streghe]] |
+| PRIMA [[characters/witch\|STREGA]] | Tre volte ha miagolato il gatto striato. |
+| SECONDA [[characters/witch\|STREGA]] | Tre volte, e una il porcospino ha guaito. |
+| TERZA [[characters/witch\|STREGA]] | Harpier grida “È [[motifs/time\|tempo]], è [[motifs/time\|tempo]].’ |
+| PRIMA [[characters/witch\|STREGA]] | Attorno al calderone girate,<br>nelle viscere avvelenate gettate.<br>Rospo che sotto fredda pietra<br>giorni e notti trentuno<br>dormendo ha sudato veleno,<br>bolli tu primo nella pentola incantata. |
+| TUTTE | [[topoi/double\|Doppia]], [[topoi/double\|doppia]], fatica e travaglio,<br>[[motifs/fire\|Fuoco]] brucia, e calderone gorgoglia. |
+| SECONDA [[characters/witch\|STREGA]] | Filetto di serpe palustre,<br>nel calderone bolli e cuoci.<br>Occhio di tritone e dito di rana,<br>lana di pipistrello e lingua di cane,<br>forca di vipera e pungiglione d’orbettino,<br>zampa di lucertola e ala di gufetto,<br>per un incanto di potente travaglio,<br>come brodo d’inferno bolli e gorgoglia. |
+| TUTTE | [[topoi/double\|Doppia]], [[topoi/double\|doppia]], fatica e travaglio,<br>[[motifs/fire\|Fuoco]] brucia, e calderone gorgoglia. |
+| TERZA [[characters/witch\|STREGA]] | Squama di drago, dente di lupo,<br>mummia di streghe, gola e ventre<br>del pescecane ingordo del mare salso,<br>radice di cicuta scavata nel buio,<br>fegato di giudeo bestemmiatore,<br>fiele di capra, e rametti di tasso<br>staccati nell’eclissi della [[motifs/moon\|luna]],<br>naso di turco, e labbra di tartaro,<br>dito di bimbo strangolato alla nascita<br>partorito in un fosso da una sgualdrina,<br>rendano la broda densa e vischiosa.<br>Aggiungi a ciò le interiora d’una tigre<br>per l’ingrediente del nostro calderone. |
+| TUTTE | [[topoi/double\|Doppia]], [[topoi/double\|doppia]], fatica e travaglio,<br>[[motifs/fire\|Fuoco]] brucia, e calderone gorgoglia. |
+| SECONDA [[characters/witch\|STREGA]] | Raffreddalo col [[motifs/blood\|sangue]] d’un babbuino,<br>e allora l’incanto è fermo e buono. |
+| *(didascalia)* | Entrano Ecate e le altre [[characters/three-witches\|tre Streghe]] |
+| ECATE | Oh, [[motifs/well\|ben]] fatto! Lodo le vostre pene,<br>e ciascuna avrà la sua parte nei guadagni.<br>E ora attorno al calderone cantate<br>come elfi e fate in cerchio,<br>incantando tutto ciò che vi mettete dentro. |
+| *(didascalia)* | Musica e un canto |
+| ECATE | Spiriti neri e bianchi, spiriti rossi e grigi,<br>mescolate, mescolate, mescolate, voi che mescolar potete. |
+| QUARTA [[characters/witch\|STREGA]] | Titty, Tiffin, tenetelo saldo;<br>Firedrake, Puckey, rendetelo propizio;<br>Liard, Robin, dovete tuffarvi dentro. |
+| TUTTE | In giro, attorno, attorno, intorno, intorno,<br>ogni male venga correndo dentro, ogni bene resti fuori. |
+| QUARTA [[characters/witch\|STREGA]] | Ecco il [[motifs/blood\|sangue]] d’un pipistrello. |
+| ECATE | Mettete quello, oh mettete quello! |
+| QUINTA [[characters/witch\|STREGA]] | Ecco l’aconito del leopardo. |
+| ECATE | Mettetene un grano. |
+| QUARTA [[characters/witch\|STREGA]] | Il succo del rospo, l’olio della vipera. |
+| QUINTA [[characters/witch\|STREGA]] | Quelli faranno il giovinetto più folle. |
+| ECATE | Mettete dentro, c’è tutto, e togliete il fetore.<br>Una [[characters/witch\|STREGA]]<br>Anzi, ecco tre once d’una ragazza dai capelli rossi. |
+| TUTTE | In giro, attorno, attorno, intorno, intorno,<br>ogni male venga correndo dentro, ogni bene resti fuori. |
+| SECONDA [[characters/witch\|STREGA]] | Per il pizzicore dei miei pollici,<br>qualcosa di malvagio viene per di qua. |
+| *(didascalia)* | Si bussa all’interno |
+| SECONDA [[characters/witch\|STREGA]] | Apritevi, serrature, chiunque bussi. |
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] |
+| [[characters/macbeth\|MACBETH]] | Ebbene, voi segrete, nere e mezzanotturne megere,<br>che cosa fate? |
+| TUTTE LE STREGHE | Un atto senza nome. |
+| [[characters/macbeth\|MACBETH]] | Vi scongiuro per ciò che professate,<br>comunque giungiate a saperlo, rispondetemi.<br>Anche se scioglieste i venti e li lasciaste combattere<br>contro le chiese, anche se le onde spumose<br>confondessero e [[motifs/swallow\|inghiottissero]] la navigazione,<br>anche se il grano in spiga fosse abbattuto e gli alberi atterrati,<br>anche se i castelli rovinassero sul capo dei loro guardiani,<br>anche se palazzi e piramidi chinassero<br>le loro cime alle loro fondamenta, anche se il tesoro<br>dei germi della [[concepts/nature\|natura]] precipitasse tutto insieme<br>fino a che la distruzione stessa ne avesse nausea, rispondetemi<br>a ciò che vi domando. |
+| PRIMA [[characters/witch\|STREGA]] | Parla. |
+| SECONDA [[characters/witch\|STREGA]] | Domanda. |
+| TERZA [[characters/witch\|STREGA]] | Risponderemo. |
+| PRIMA [[characters/witch\|STREGA]] | Di’ se preferisci udirlo dalle nostre bocche<br>o dai nostri padroni. |
+| [[characters/macbeth\|MACBETH]] | Chiamateli, fatemeli vedere. |
+| PRIMA [[characters/witch\|STREGA]] | Versa [[motifs/blood\|sangue]] di scrofa che ha divorato 80<br>i suoi nove porcellini; grasso sudato<br>dalla forca dell’assassino getta<br>nella fiamma. |
+| TUTTE LE STREGHE | Vieni da alto o da basso,<br>mostra con destrezza te stesso e il tuo ufficio. |
+| *(didascalia)* | Tuono. Prima Apparizione: una testa armata |
+| [[characters/macbeth\|MACBETH]] | Dimmi, tu potenza sconosciuta— |
+| PRIMA [[characters/witch\|STREGA]] | Egli conosce il tuo pensiero.<br>Odi il suo discorso, ma tu non dir nulla. |
+| PRIMA APPARIZIONE | [[characters/macbeth\|Macbeth]], [[characters/macbeth\|Macbeth]], [[characters/macbeth\|Macbeth]], guardati da [[characters/macduff\|Macduff]],<br>guardati dal Thane di Fife. Congedami. Basta.<br>L’Apparizione discende |
+| [[characters/macbeth\|MACBETH]] | Qualunque cosa tu sia, grazie del tuo buon avvertimento.<br>Hai toccato giusto la corda della mia [[concepts/fear\|paura]]. Ma un’altra parola<br>ancora— |
+| PRIMA [[characters/witch\|STREGA]] | Non vuole essere comandato. Eccone un altro,<br>più potente del primo. |
+| *(didascalia)* | Tuono. Seconda Apparizione: un [[archetypes/child\|bambino]] insanguinato |
+| SECONDA APPARIZIONE | [[characters/macbeth\|Macbeth]], [[characters/macbeth\|Macbeth]], [[characters/macbeth\|Macbeth]]. |
+| [[characters/macbeth\|MACBETH]] | Avessi tre orecchi ti udirei. |
+| SECONDA APPARIZIONE | Sii sanguinario, ardito e risoluto. Ridi con scherno<br>del potere dell’uomo, ché nessuno nato di donna<br>potrà nuocere a [[characters/macbeth\|Macbeth]].<br>L’Apparizione discende |
+| [[characters/macbeth\|MACBETH]] | Allora vivi, [[characters/macduff\|Macduff]]—che bisogno ho di [[concepts/fear\|temerti]]?<br>Eppure voglio rendere [[topoi/double\|doppiamente]] sicura la sicurezza,<br>e prendere dal fato un pegno che tu non vivrai,<br>sì ch’io possa dire alla [[concepts/fear\|paura]] dal pallido cuore che mente,<br>e [[motifs/sleep\|dormire]] a dispetto del tuono. |
+| *(didascalia)* | Tuono. Terza Apparizione: un [[archetypes/child\|bambino]] incoronato, con un |
+| [[characters/macbeth\|MACBETH]] | albero in mano<br>Che cos’è questo<br>che sorge come il rampollo d’un [[archetypes/king\|re]],<br>e porta sulla sua fronte di bimbo il cerchio<br>e la sommità della sovranità? |
+| TUTTE LE STREGHE | Ascolta, ma non parlargli. |
+| TERZA APPARIZIONE | Sii di tempra di [[motifs/lion\|leone]], superbo, e non curarti<br>di chi s’adira, chi si rode, o dove siano i congiurati.<br>[[characters/macbeth\|Macbeth]] non sarà mai vinto finché<br>la gran selva di Birnam all’alto [[motifs/hill\|Colle]] di Dunsinane<br>non venga contro di lui.<br>L’Apparizione discende |
+| [[characters/macbeth\|MACBETH]] | Questo non sarà mai.<br>Chi può arruolare la foresta, ordinare all’albero<br>di sciogliere la sua radice legata alla terra? Dolci presagi, bene!<br>Morti ribelli, non risorgete mai finché il bosco<br>di Birnam non sorga, e sul suo alto seggio [[characters/macbeth\|Macbeth]]<br>vivrà il termine concesso dalla [[concepts/nature\|natura]], pagherà il suo respiro<br>al [[motifs/time\|tempo]] e all’usanza mortale. Pure il mio cuore<br>palpita di sapere una cosa. Ditemi, se la vostra arte<br>può dire tanto, la progenie di [[characters/banquo\|Banquo]] regnerà mai<br>in questo regno? |
+| TUTTE LE STREGHE | Non cercare di saper altro. |
+| [[characters/macbeth\|MACBETH]] | Voglio essere soddisfatto. Negatemi questo,<br>e un’eterna maledizione cada su voi! Fatemi sapere.<br>Il calderone sprofonda. Oboi<br>Perché sprofonda quel calderone? E che rumore è questo? |
+| PRIMA [[characters/witch\|STREGA]] | Mostra. |
+| SECONDA [[characters/witch\|STREGA]] | Mostra. |
+| TERZA [[characters/witch\|STREGA]] | Mostra. |
+| TUTTE LE STREGHE | Mostrate ai suoi occhi e affliggete il suo cuore,<br>venite come ombre, così partite.<br>Una sfilata di otto re, l’ultimo con uno specchio in<br><br>mano; e [[characters/banquo\|Banquo]] |
+| [[characters/macbeth\|MACBETH]] | Sei troppo simile allo spirito di [[characters/banquo\|Banquo]]. Giù!<br>La tua [[motifs/crown\|corona]] mi brucia le pupille. E i tuoi capelli,<br>tu altra fronte cinta d’oro, sono come i primi.<br>Un terzo è come il precedente. Sozze megere,<br>perché mi mostrate questo?—Un quarto? Sbalzate, occhi!<br>Come, la linea si stenderà fino allo schianto del giudizio?<br>Un altro ancora? Un settimo? Non voglio veder più—<br>eppure appare l’ottavo, che porta uno specchio<br>che me ne mostra molti altri; e alcuni ne vedo<br>che portano duplici globi e triplici scettri.<br>Vista orribile! Ora vedo ch’è vero,<br>ché [[characters/banquo\|Banquo]] impastato di [[motifs/blood\|sangue]] mi sorride,<br>e li addita per suoi. |
+| *(didascalia)* | Escono i re e [[characters/banquo\|Banquo]] |
+| [[characters/macbeth\|MACBETH]] | Come, è dunque così? |
+| *(didascalia)* | ECATE |
+| [[characters/macbeth\|MACBETH]] | Sì, signore, tutto questo è così. Ma perché<br>sta [[characters/macbeth\|Macbeth]] così sbalordito?<br>Venite, sorelle, rallegriamogli gli spiriti,<br>e mostriamo il meglio dei nostri diletti.<br>Incanterò l’aria a dare un suono<br>mentre voi compite la vostra bizzarra ridda,<br>sì che questo gran [[archetypes/king\|re]] possa cortesemente dire<br>che i nostri omaggi hanno pagato il suo benvenuto. |
+| *(didascalia)* | Musica. Le Streghe [[motifs/dance\|danzano]], e svaniscono |
+| [[characters/macbeth\|MACBETH]] | Dove sono? Sparite? Quest’ora perniciosa<br>resti per sempre maledetta nel calendario.<br>Entrate, olà, voi là fuori. |
+| *(didascalia)* | Entra Lennox |
+| LENNOX | Qual è il volere di vostra grazia? |
+| [[characters/macbeth\|MACBETH]] | Avete visto le sorelle fatali? |
+| LENNOX | No, mio signore. |
+| [[characters/macbeth\|MACBETH]] | Non vi sono passate accanto? |
+| LENNOX | No, davvero, mio signore. |
+| [[characters/macbeth\|MACBETH]] | Infetta sia l’aria su cui cavalcano,<br>e dannati tutti quelli che si fidano di loro. Ho udito<br>il galoppo d’un [[motifs/horse\|cavallo]]. Chi è passato? |
+| LENNOX | Sono due o tre, mio signore, che vi portano notizia<br>che [[characters/macduff\|Macduff]] è fuggito in Inghilterra. |
+| [[characters/macbeth\|MACBETH]] | Fuggito in Inghilterra? |
+| LENNOX | Sì, mio buon signore. |
+| [[characters/macbeth\|MACBETH]] | (a parte)<br>[[motifs/time\|Tempo]], tu previeni le mie tremende imprese.<br>Il proposito volatile non è mai raggiunto<br>se l’atto non l’accompagna. Da questo momento<br>i primi nati del mio cuore saranno<br>i primi nati della mia mano. E anche adesso,<br>per [[motifs/crown\|coronare]] i miei pensieri con atti, sia pensato e<br>fatto: 165<br>il [[settings/castle\|castello]] di [[characters/macduff\|Macduff]] sorprenderò,<br>m’impadronirò di Fife, darò al filo della spada<br>sua moglie, i suoi bimbi, e tutte le anime sventurate<br>che lo seguono nella sua linea. Nessun vanto da [[archetypes/fool\|folle]];<br>quest’atto lo farò prima che questo proposito si raffreddi.<br>Ma non più visioni! (A Lennox) Dove sono questi<br>signori?<br>Venite, conducetemi dove sono. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano la Moglie di [[characters/macduff\|Macduff]], suo Figlio e Ross |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Che aveva fatto per doversene fuggire dal paese? |
+| ROSS | Dovete aver pazienza, signora. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Lui non ne ebbe.<br>La sua fuga fu [[concepts/madness\|follia]]. Quando non lo fanno le nostre azioni,<br>le nostre paure ci fanno traditori.<br>Ross<br>Voi non sapete<br>se fu la sua saggezza o la sua [[concepts/fear\|paura]]. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Saggezza—lasciare la moglie, lasciare i figlioletti,<br>la sua dimora e i suoi titoli in un luogo<br>dal quale egli stesso fugge? Non ci ama,<br>gli manca l’istinto naturale, ché il povero scricciolo,<br>il più minuto degli [[motifs/birds\|uccelli]], combatterà,<br>coi piccoli nel nido, contro il gufo.<br>Tutto è [[concepts/fear\|paura]] e nulla è [[motifs/love\|amore]];<br>e altrettanto poca è la saggezza, quando la fuga<br>corre così contro ogni ragione.<br>Ross<br>Carissima cugina,<br>vi prego, fatevi forza. Quanto a vostro marito,<br>egli è nobile, saggio, giudizioso, e meglio conosce<br>gli accessi del tempo. Non oso dire molto di più,<br>ma crudeli sono i tempi quando siamo traditori<br>e non lo sappiamo noi stessi; quando prendiamo per verità la diceria<br>di ciò che [[concepts/fear\|temiamo]], e pure non sappiamo che cosa [[concepts/fear\|temiamo]],<br>ma galleggiamo su un mare selvaggio e violento<br>in ogni direzione e in nessuna. Prendo congedo da voi;<br>non passerà molto ch’io sarò di nuovo qui.<br>Le cose al peggio cesseranno, oppure risaliranno<br>a ciò che furono prima. Mio grazioso cuginetto,<br>benedizione su di te! |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Un padre ce l’ha, e pure è senza padre. |
+| ROSS | Sono tanto [[archetypes/fool\|sciocco]] che, se restassi più a lungo,<br>sarebbe mia vergogna e vostro sconforto.<br>Prendo congedo all’istante. |
+| *(didascalia)* | Esce |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ragazzo, tuo padre è morto,<br>e che farai ora? Come vivrai? |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Come fanno gli [[motifs/birds\|uccelli]], madre. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Come, di vermi e di mosche? |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Di quel che trovo, voglio dire, e così fanno loro. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Povero uccellino, tu non [[concepts/fear\|temeresti]] mai la rete né il vischio,<br>né la trappola né il laccio. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Perché dovrei, madre? Non si tendono per gli [[motifs/birds\|uccelli]] poveri.<br>Mio padre non è morto, per quanto voi lo diciate. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Sì, è morto. Come farai per avere un padre? |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Anzi, come farete voi per avere un marito? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ma via, posso comprarmene venti in qualsiasi mercato. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Allora li comprerete per rivenderli. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Parli con tutto il tuo ingegno, e pure, in [[concepts/faith\|fede]] mia, con ingegno abbastanza per te. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Mio padre era un traditore, madre? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Sì, lo era. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Che cos’è un traditore? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ma uno che giura e mente. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | E sono tutti traditori quelli che fanno così? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ognuno che fa così è un traditore, e dev’essere impiccato. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | E devono essere impiccati tutti quelli che giurano e mentono? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ognuno. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Chi deve impiccarli? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ma gli uomini onesti. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Allora i bugiardi e gli spergiuri sono sciocchi, ché ci sono abbastanza bugiardi e spergiuri da battere gli uomini onesti e impiccarli. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Ora Dio t’aiuti, povera scimmietta! Ma come farai per avere un padre? |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Se fosse morto voi lo piangereste. Se non lo faceste, sarebbe buon segno che presto avrei un nuovo padre. |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Povero chiacchierino, come parli! |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | Dio vi benedica, bella dama. Non vi sono noto,<br>benché io conosca perfettamente il vostro grado d’[[concepts/honour\|onore]].<br>[[concepts/doubt\|Temo]] che qualche pericolo vi si avvicini da presso.<br>Se volete accogliere il consiglio d’un uomo semplice,<br>non fatevi trovare qui. Via, coi vostri piccoli!<br>Spaventarvi così mi pare troppo selvaggio,<br>farvi di peggio sarebbe crudeltà feroce,<br>che è troppo vicina alla vostra persona. Il cielo vi protegga.<br>Non oso restare più a lungo. |
+| *(didascalia)* | Esce il Messaggero |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Dove dovrei fuggire?<br>Non ho fatto alcun male. Ma ora ricordo<br>che sono in questo mondo terreno, dove far male<br>è spesso lodevole, e far bene talvolta<br>è ritenuto pericolosa follia. E allora, ahimè,<br>perché opporre quella difesa donnesca<br>di dire che non ho fatto alcun male? |
+| *(didascalia)* | Entrano gli Assassini |
+| [[characters/lady-macduff\|LADY MACDUFF]] | Che facce son queste?<br>UN ASSASSINO Dov’è vostro marito? |
+| [[characters/lady-macduff\|LADY MACDUFF]] | [[concepts/hope\|Spero]] in nessun luogo così poco sacro<br>dove uno come te possa trovarlo.<br>UN ASSASSINO<br>È un traditore. |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | Tu menti, [[archetypes/villain\|furfante]] dal pelo ispido.<br>UN ASSASSINO (pugnalandolo)<br>Come, tu, uovo!<br>Avannotto di tradimento! |
+| IL FIGLIO DI [[characters/macduff\|MACDUFF]] | M’ha ucciso, madre.<br>Scappate via, vi prego. |
+| *(didascalia)* | Muore. Esce la Moglie di [[characters/macduff\|Macduff]] gridando ‘Assassinio!’ |
+| *(didascalia)* | seguita dagli Assassini col [[concepts/body\|corpo]] del Figlio |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/malcolm\|Malcolm]] e [[characters/macduff\|Macduff]] |
+| [[characters/malcolm\|MALCOLM]] | Cerchiamo qualche ombra desolata, e là<br>piangiamo fino a vuotare i nostri tristi petti. |
+| [[characters/macduff\|MACDUFF]] | Piuttosto<br>teniamo stretta la spada mortale, e da uomini valenti<br>stiamo a cavaliere della nostra terra natale caduta. Ogni nuovo mattino<br>nuove vedove urlano, nuovi orfani piangono, nuovi dolori<br>colpiscono il cielo in volto sì che risuona<br>come se sentisse con la Scozia e gridasse<br>una simile sillaba di duolo. |
+| [[characters/malcolm\|MALCOLM]] | Ciò che credo lo piangerò,<br>ciò che so lo crederò; e ciò cui posso rimediare,<br>appena troverò il [[motifs/time\|tempo]] amico, lo farò.<br>Ciò che avete detto può darsi sia così, forse.<br>Questo [[archetypes/tyrant\|tiranno]], il cui solo nome ci ulcera la lingua,<br>fu un tempo ritenuto onesto. Voi l’avete amato [[motifs/well\|molto]].<br>Egli non v’ha ancora toccato. Io son giovane, ma<br>qualcosa<br>potreste guadagnare da lui per mezzo mio: ed è saggezza<br>offrire un debole povero [[motifs/lamb\|agnello]] [[archetypes/innocent\|innocente]]<br>per placare un dio adirato. |
+| [[characters/macduff\|MACDUFF]] | Io non sono un traditore. |
+| [[characters/malcolm\|MALCOLM]] | Ma [[characters/macbeth\|Macbeth]] lo è.<br>Una [[concepts/nature\|natura]] buona e virtuosa può cedere<br>a un mandato imperiale. Ma dovrò chiedervi perdono.<br>Ciò che voi siete i miei pensieri non lo possono mutare.<br>Gli angeli sono luminosi ancora, benché il più luminoso cadde.<br>Anche se tutte le cose immonde volessero portare la fronte della grazia,<br>pure la grazia deve avere sempre quel volto. |
+| [[characters/macduff\|MACDUFF]] | Ho perduto le mie speranze. |
+| [[characters/malcolm\|MALCOLM]] | Forse proprio là dove io trovai i miei dubbi.<br>Perché in quel modo così crudo lasciaste moglie e [[archetypes/child\|figlio]],<br>quei preziosi motivi, quei forti nodi d’[[motifs/love\|amore]],<br>senza prender congedo? Vi prego,<br>non siano i miei sospetti vostro disonore,<br>ma la mia sola difesa. Voi potete essere giustamente giusto,<br>qualunque cosa io pensi. |
+| [[characters/macduff\|MACDUFF]] | Sanguina, sanguina, povero paese!<br>Gran tirannide, poni pure sicura la tua base,<br>ché la bontà non osa fermarti. Porta pure i tuoi<br>torti;<br>il titolo è confermato. Sta’ [[motifs/well\|bene]], signore.<br>Non vorrei essere il [[archetypes/villain\|furfante]] che tu pensi<br>per tutto lo spazio ch’è nella stretta del [[archetypes/tyrant\|tiranno]],<br>e in più il ricco oriente. |
+| [[characters/malcolm\|MALCOLM]] | Non offendetevi.<br>Non parlo per assoluta [[concepts/fear\|paura]] di voi.<br>Penso che il nostro paese affondi sotto il giogo.<br>Piange, sanguina, e ogni nuovo giorno uno squarcio<br>s’aggiunge alle sue ferite. Penso inoltre<br>che vi sarebbero mani levate per il mio diritto,<br>e qui dalla benigna Inghilterra ho l’offerta<br>di parecchie migliaia. Ma con tutto questo,<br>quando calpesterò il capo del [[archetypes/tyrant\|tiranno]],<br>o lo porterò sulla mia spada, pure il mio povero paese<br>avrà più vizi di quanti ne avesse prima,<br>soffrirà di più, e in più svariati modi, che mai,<br>per opera di colui che succederà. |
+| [[characters/macduff\|MACDUFF]] | Chi dovrebbe essere? |
+| [[characters/malcolm\|MALCOLM]] | È me stesso ch’io intendo, in cui so<br>tutte le particolarità del vizio così innestate<br>che quando saranno svelate il nero [[characters/macbeth\|Macbeth]]<br>sembrerà puro come la [[motifs/snow\|neve]], e il povero stato<br>lo stimerà un [[motifs/lamb\|agnello]], paragonato<br>ai miei mali sconfinati. |
+| [[characters/macduff\|MACDUFF]] | Non dalle legioni<br>dell’orrido inferno può venire un diavolo più dannato<br>nei mali, da superare [[characters/macbeth\|Macbeth]]. |
+| [[characters/malcolm\|MALCOLM]] | Lo concedo sanguinario,<br>lussurioso, avaro, falso, ingannevole,<br>violento, malizioso, saporoso d’ogni peccato<br>che abbia un nome. Ma non v’è [[characters/bottom\|fondo]], nessuno,<br>nella mia voluttà. Le vostre mogli, le vostre figlie,<br>le vostre matrone e le vostre fanciulle non potrebbero riempire<br>la cisterna della mia libidine, e il mio [[motifs/desire\|desiderio]]<br>travolgerebbe ogni argine di contegno<br>che s’opponesse alla mia volontà. Meglio [[characters/macbeth\|Macbeth]]<br>che un tale a regnare. |
+| [[characters/macduff\|MACDUFF]] | L’intemperanza senza limiti<br>nella [[concepts/nature\|natura]] è una tirannide. È stata<br>l’intempestivo vuotarsi del trono felice,<br>e la caduta di molti re. Ma non [[concepts/fear\|temete]] ancora<br>di prendervi ciò ch’è vostro. Potete<br>procurarvi i vostri piaceri in spaziosa abbondanza<br>e pur sembrare freddo. Il [[motifs/time\|tempo]] potete così bendarlo.<br>Abbiamo abbastanza dame consenzienti. Non può esservi<br>in voi quell’avvoltoio da divorarne tante<br>quante si dedicheranno alla [[concepts/greatness\|grandezza]],<br>trovandola così incline. |
+| [[characters/malcolm\|MALCOLM]] | Con questo cresce<br>nel mio animo malissimo composto una tale<br>inarrestabile avarizia che se fossi [[archetypes/king\|re]]<br>farei fuori i nobili per le loro terre,<br>[[motifs/desire\|desidererei]] i gioielli dell’uno e la casa dell’altro,<br>e il mio aver di più sarebbe come una salsa<br>a farmi aver più fame, sì ch’io fabbricherei<br>ingiuste liti contro i buoni e i leali,<br>distruggendoli per ricchezza. |
+| [[characters/macduff\|MACDUFF]] | Questa avarizia<br>affonda più a fondo, cresce con radice più perniciosa<br>della libidine effimera d’[[motifs/summer\|estate]], ed è stata<br>la spada dei nostri re uccisi. Pure non [[concepts/fear\|temete]].<br>La Scozia ha dovizie da colmare la vostra voglia<br>col solo vostro. Tutto questo è sopportabile,<br>pesato con altre grazie. |
+| [[characters/malcolm\|MALCOLM]] | Ma io non ne ho alcuna. Le grazie che s’addicono a un [[archetypes/king\|re]],<br>come giustizia, verità, temperanza, stabilità,<br>generosità, perseveranza, [[concepts/mercy\|misericordia]], umiltà,<br>devozione, pazienza, [[concepts/courage\|coraggio]], fortezza,<br>di queste non ho sapore alcuno, ma abbondo<br>in ogni suddivisione d’ogni singolo delitto,<br>compiendolo in molti modi. Anzi, se avessi il potere<br>verserei il dolce latte della concordia nell’inferno,<br>sconvolgerei la pace universale, confonderei<br>ogni unità sulla terra. |
+| [[characters/macduff\|MACDUFF]] | Oh Scozia, Scozia! |
+| [[characters/malcolm\|MALCOLM]] | Se un tale è adatto a governare, parlate.<br>Io sono come ho detto. |
+| [[characters/macduff\|MACDUFF]] | Adatto a governare?<br>No, e nemmeno a vivere. Oh nazione miserabile,<br>con un [[archetypes/tyrant\|tiranno]] senza titolo dallo scettro insanguinato,<br>quando rivedrai i tuoi giorni sani,<br>se il più vero erede del tuo trono<br>per sua stessa interdizione sta maledetto<br>e bestemmia la sua stirpe? Il tuo regale padre<br>fu un [[archetypes/king\|re]] santissimo. La [[characters/queen\|Regina]] che ti generò,<br>più spesso in ginocchio che in piedi,<br>morì ogni giorno che visse. Sta’ [[motifs/well\|bene]].<br>Questi mali che ripeti su te stesso<br>m’hanno bandito dalla Scozia. Oh, mio petto—<br>la tua [[concepts/hope\|speranza]] finisce qui! |
+| [[characters/malcolm\|MALCOLM]] | [[characters/macduff\|Macduff]], questa nobile passione,<br>[[archetypes/child\|figlia]] d’integrità, ha dalla mia [[motifs/soul\|anima]]<br>cancellato i neri scrupoli, riconciliato i miei pensieri<br>con la tua buona [[concepts/truth\|verità]] e il tuo [[concepts/honour\|onore]]. Il diabolico [[characters/macbeth\|Macbeth]]<br>con molte di queste insidie ha cercato di trarmi<br>in suo potere, e una modesta saggezza mi trattiene<br>da una fretta troppo credula; ma Dio lassù<br>giudichi fra te e me, ché fin d’ora<br>mi metto sotto la tua guida e<br>ritratto la mia stessa denigrazione, qui abiuro<br>le macchie e le colpe che m’attribuii<br>come estranee alla mia [[concepts/nature\|natura]]. Non ho ancora<br>conosciuto donna, non fui mai spergiuro,<br>appena ho bramato ciò ch’era mio,<br>in nessun [[motifs/time\|tempo]] ruppi la mia [[concepts/faith\|fede]], non tradirei<br>il diavolo al suo compagno, e non mi diletto<br>meno della [[concepts/truth\|verità]] che della vita. Il mio primo parlar falso<br>fu questo contro me stesso. Ciò che veramente sono<br>è tuo e del mio povero paese da comandare,<br>verso il quale, in verità, prima del tuo arrivo qui,<br>il vecchio Siward con diecimila uomini di guerra,<br>già in ordine, stava per muovere.<br>Ora andremo insieme; e la sorte del bene<br>sia pari alla giustezza della nostra causa!—Perché tacete? |
+| [[characters/macduff\|MACDUFF]] | Cose tanto liete e tanto spiacevoli tutte insieme<br>è difficile riconciliare. |
+| *(didascalia)* | Entra un Dottore |
+| [[characters/malcolm\|MALCOLM]] | [[motifs/well\|Bene]], più tardi. (Al Dottore) Viene fuori il [[archetypes/king\|Re]],<br>di grazia? |
+| DOTTORE | Sì, signore. C’è una schiera d’anime infelici<br>che attende la sua cura. Il loro male vince<br>il gran [[forms/essay\|tentativo]] dell’arte, ma al suo tocco,<br>tanta santità il Cielo ha dato alla sua mano,<br>subito guariscono. |
+| [[characters/malcolm\|MALCOLM]] | Vi ringrazio, dottore. Esce il Dottore |
+| [[characters/macduff\|MACDUFF]] | Qual è il male ch’egli intende? |
+| [[characters/malcolm\|MALCOLM]] | È chiamato il male del re—<br>opera miracolosissima in questo buon [[archetypes/king\|Re]],<br>che spesso, da quando mi trattengo qui in Inghilterra,<br>gli ho visto compiere. Come solleciti il cielo<br>lo sa lui meglio d’ogni altro, ma gente stranamente colpita,<br>tutta gonfia e ulcerosa, pietosa a vedersi,<br>vera [[concepts/despair\|disperazione]] della chirurgia, egli guarisce,<br>appendendo un conio d’oro al loro collo,<br>posto con sante preghiere; e si dice<br>che alla regalità successiva egli [[motifs/leaves\|lascia]]<br>la benedizione che risana. Con questa strana virtù<br>egli ha un celeste dono di profezia,<br>e svariate benedizioni pendono intorno al suo trono<br>che lo dicono pieno di grazia. |
+| *(didascalia)* | Entra Ross |
+| [[characters/macduff\|MACDUFF]] | Vedete chi viene qui. |
+| [[characters/malcolm\|MALCOLM]] | Un mio compatriota, ma ancora non lo riconosco. |
+| [[characters/macduff\|MACDUFF]] | Mio sempre gentile cugino, benvenuto qui. |
+| [[characters/malcolm\|MALCOLM]] | Ora lo riconosco. Buon Dio, rimuovi presto<br>i mezzi che ci fanno stranieri!<br>Ross<br>Signore, amen. |
+| [[characters/macduff\|MACDUFF]] | Sta la Scozia dove stava?<br>Ross<br>Ahimè, povero paese,<br>quasi ha paura di conoscere sé stesso. Non può<br>chiamarsi nostra madre, ma nostra [[motifs/grave\|tomba]], dove nulla<br>se non chi nulla sa si vede mai sorridere;<br>dove sospiri e gemiti e strida che lacerano l’aria<br>si fanno, e non si notano; dove il violento dolore sembra<br>un’estasi comune. Alla campana a morto<br>là appena si chiede per chi, e le vite dei buoni<br>spirano prima dei [[motifs/flowers\|fiori]] sui loro berretti,<br>morendo ancor prima d’ammalarsi. |
+| [[characters/macduff\|MACDUFF]] | Oh racconto<br>troppo minuzioso e pure troppo vero! |
+| [[characters/malcolm\|MALCOLM]] | Qual è il dolore più nuovo? |
+| ROSS | Quello vecchio d’un’ora fa fischiare chi lo narra;<br>ogni minuto ne partorisce uno nuovo. |
+| [[characters/macduff\|MACDUFF]] | Come sta mia moglie? |
+| ROSS | Ma [[motifs/well\|bene]]. |
+| [[characters/macduff\|MACDUFF]] | E tutti i miei figli?<br>Ross<br>[[motifs/well\|Bene]], anche loro. |
+| [[characters/macduff\|MACDUFF]] | Il [[archetypes/tyrant\|tiranno]] non ha assalito la loro pace? |
+| ROSS | No, erano [[motifs/well\|ben]] in pace quando li lasciai. |
+| [[characters/macduff\|MACDUFF]] | Non siate avaro del vostro parlare. Come va? |
+| ROSS | Quando venni qui a portare le notizie<br>che ho recato con tanto peso, correva voce<br>di molti degni compagni ch’erano in campo,<br>il che a mio credere fu tanto più confermato<br>in quanto vidi in armi le forze del [[archetypes/tyrant\|tiranno]].<br>Ora è il [[motifs/time\|tempo]] del soccorso. (A [[characters/malcolm\|Malcolm]]) Il vostro occhio in<br>Scozia<br>creerebbe soldati, farebbe combattere le nostre donne<br>per scrollarsi le loro tremende angosce. |
+| [[characters/malcolm\|MALCOLM]] | Sia loro conforto<br>che veniamo laggiù. La benigna Inghilterra ci ha<br>prestato il buon Siward e diecimila uomini;<br>un soldato più anziano e migliore non ce n’è<br>che la cristianità sappia offrire.<br>Ross<br>Vorrei poter rispondere<br>a questo conforto con altrettanto. Ma ho parole<br>che dovrebbero essere ululate nell’aria del [[motifs/desert\|deserto]]<br>dove nessun udito le cogliesse. |
+| [[characters/macduff\|MACDUFF]] | Che cosa riguardano—<br>la causa generale, o è un dolore privato<br>dovuto a un solo petto?<br>Ross<br>Non v’è mente onesta<br>che non ne condivida qualche pena, benché la parte principale<br>spetti a voi solo. |
+| [[characters/macduff\|MACDUFF]] | Se è mio,<br>non tenetemelo nascosto; datemelo presto. |
+| ROSS | Non disprezzino i vostri orecchi la mia lingua per sempre,<br>che li riempirà del suono più grave<br>ch’essi abbiano mai udito. |
+| [[characters/macduff\|MACDUFF]] | Uhm, l’indovino. |
+| ROSS | Il vostro [[settings/castle\|castello]] è stato sorpreso, vostra moglie e i vostri bimbi<br>selvaggiamente scannati. Raccontarne il modo<br>sarebbe, sul mucchio di questi cervi trucidati,<br>aggiungere la [[motifs/death\|morte]] vostra. |
+| [[characters/malcolm\|MALCOLM]] | Cielo misericordioso!<br>(A [[characters/macduff\|Macduff]]) Come, uomo, non tirate mai il cappello sulle<br>vostre ciglia.<br>Date parole al dolore. La pena che non parla<br>sussurra al cuore troppo carico e gli ordina di spezzarsi. |
+| [[characters/macduff\|MACDUFF]] | Anche i miei figli?<br>Ross<br>Moglie, figli, servi, tutti<br>quelli che si poterono trovare. |
+| [[characters/macduff\|MACDUFF]] | E io dovevo essere lontano di là!<br>Anche mia moglie uccisa? |
+| ROSS | L’ho detto. |
+| [[characters/malcolm\|MALCOLM]] | Confortatevi.<br>Facciamoci medicine della nostra grande [[concepts/revenge\|vendetta]]<br>per curare questa pena mortale. |
+| [[characters/macduff\|MACDUFF]] | Egli non ha figli. Tutti i miei piccini?<br>Avete detto tutti? Oh nibbio infernale! Tutti?<br>Come, tutti i miei bei pulcini e la loro chioccia<br>in un solo feroce assalto? |
+| [[characters/malcolm\|MALCOLM]] | Combattetelo da uomo. |
+| [[characters/macduff\|MACDUFF]] | Così farò,<br>ma devo anche sentirlo da uomo.<br>Non posso non ricordare che tali cose esistevano<br>ed erano preziosissime per me. Il cielo stava a guardare<br>e non volle prender le loro parti? Peccatore [[characters/macduff\|Macduff]],<br>furono tutti colpiti per te. Nulla ch’io sia,<br>non per i loro demeriti ma per i miei<br>cadde la strage sulle loro anime. Il cielo ora dia loro riposo. |
+| [[characters/malcolm\|MALCOLM]] | Sia questa la cote della vostra spada. Il dolore si<br>converta in collera: non smussate il cuore, infuriatelo. |
+| [[characters/macduff\|MACDUFF]] | Oh, potrei fare la donna coi miei occhi<br>e lo smargiasso con la mia lingua! Ma cieli benigni,<br>troncate ogni indugio. Fronte a fronte<br>ponete questo demonio di Scozia e me stesso. |
+| *(didascalia)* | Ponetelo a portata della mia spada. Se scampa, |
+| [[characters/macduff\|MACDUFF]] | il cielo perdoni anche lui. |
+| [[characters/malcolm\|MALCOLM]] | Questo tono suona virile.<br>Venite, andiamo dal [[archetypes/king\|Re]]. La nostra forza è pronta;<br>non ci manca che il congedo. [[characters/macbeth\|Macbeth]]<br>è maturo per essere scosso, e le potenze lassù<br>preparano i loro strumenti. Accogliete quel conforto che potete:<br>lunga è la [[motifs/night\|notte]] che non trova mai il giorno. Escono |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano un Dottore in Medicina e una Dama di compagnia |
+| DOTTORE | Ho vegliato due notti con voi, ma non riesco a scorgere alcuna [[concepts/truth\|verità]] nel vostro racconto. Quando fu l’ultima volta che camminò? |
+| DAMA | Da quando sua maestà è andato in campo, l’ho vista alzarsi dal letto, gettarsi addosso la veste da notte, aprire il suo scrittoio, prendere della carta, piegarla, scrivervi sopra, leggerla, poi sigillarla, e di nuovo tornare a letto, e tutto questo in un profondissimo [[motifs/sleep\|sonno]]. |
+| DOTTORE | Una grande perturbazione della [[concepts/nature\|natura]], ricevere insieme il beneficio del [[motifs/sleep\|sonno]] e compiere gli atti della veglia. In questa agitazione sonnambula, oltre al camminare e alle altre azioni effettive, che cosa le avete mai udito dire in qualche [[motifs/time\|momento]]? |
+| DAMA | Quello, signore, che non riferirò dopo di lei. |
+| DOTTORE | A me potete; ed è convenientissimo che lo facciate. |
+| DAMA | Né a voi né a nessuno, non avendo testimone che confermi le mie parole. |
+| *(didascalia)* | Entra [[characters/lady-macbeth\|Lady Macbeth]] con un candeliere |
+| DAMA | Ecco, guardate, eccola che viene. Questo è proprio il suo modo, e,<br>sulla mia vita, profondamente addormentata. Osservatela. State nascosto. |
+| DOTTORE | Come s’è procurata quel lume? |
+| DAMA | Ma le stava accanto. Ha un lume accanto di continuo. È suo ordine. |
+| DOTTORE | Vedete, i suoi occhi sono aperti. |
+| DAMA | Sì, ma il loro senso è chiuso. |
+| DOTTORE | Che cosa fa ora? Guardate come si sfrega le mani. |
+| DAMA | È un gesto abituale in lei, sembrare così di lavarsi le mani. L’ho vista continuare così per un quarto d’ora. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Eppure qui c’è una macchia. |
+| DOTTORE | Ascoltate, parla. Metterò per iscritto ciò che esce da lei per fissarlo più saldamente nella mia memoria. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Via, macchia dannata; via, dico. Uno, due,—ebbene, allora è [[motifs/time\|tempo]] di farlo. L’inferno è tenebroso. Vergogna, mio signore, vergogna, un soldato e aver paura? Che bisogno abbiamo di [[concepts/fear\|temere]] chi lo sappia, quando nessuno può chiamare a conto il nostro potere? Eppure chi avrebbe pensato che il vecchio avesse tanto [[motifs/blood\|sangue]] in corpo? |
+| DOTTORE | Lo notate? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Il Thane di Fife aveva una moglie. Dov’è ora? Come, queste mani non saranno mai pulite? Basta con questo, mio signore, basta con questo. Rovinate tutto con questi sussulti. |
+| DOTTORE | Via, via. Avete saputo ciò che non dovevate. |
+| DAMA | Ha detto ciò che non doveva, di questo sono certa. Il cielo sa che cosa abbia saputo. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Qui c’è ancora l’odore del [[motifs/blood\|sangue]]. Tutti i profumi d’Arabia non addolciranno questa piccola mano. Oh, oh, oh! |
+| DOTTORE | Che sospiro è quello! Il cuore è gravemente carico. |
+| DAMA | Non vorrei avere un tal cuore in petto per la dignità di tutto il [[concepts/body\|corpo]]. |
+| DOTTORE | [[motifs/well\|Bene]], [[motifs/well\|bene]], [[motifs/well\|bene]]. |
+| DAMA | Voglia Dio che sia così, signore. |
+| DOTTORE | Questo male va oltre la mia pratica. Pure ho conosciuto di quelli che hanno camminato nel [[motifs/sleep\|sonno]] e sono morti santamente nel loro letto. |
+| [[characters/lady-macbeth\|LADY MACBETH]] | Lavatevi le mani, mettetevi la veste da notte, non siate così pallido. Ve lo dico ancora una volta, [[characters/banquo\|Banquo]] è sepolto. Non può uscire dalla sua [[motifs/grave\|tomba]]. |
+| DOTTORE | Proprio così? |
+| [[characters/lady-macbeth\|LADY MACBETH]] | A letto, a letto. Bussano alla porta. Venite, venite, venite, venite, datemi la vostra mano. Ciò ch’è fatto non può essere disfatto. A letto, a letto, a letto. |
+| *(didascalia)* | Esce |
+| DOTTORE | Andrà ora a letto? |
+| DAMA | Subito. |
+| DOTTORE | Immondi bisbigli vanno attorno. Atti contro natura<br>generano turbamenti contro natura; le menti infette<br>ai loro sordi guanciali scaricano i loro [[motifs/secrets\|segreti]].<br>Ha più bisogno del sacerdote che del medico.<br>Dio, Dio ci perdoni tutti! Vegliate su di lei.<br>Toglietele i mezzi d’ogni danno,<br>e tenete sempre gli occhi su di lei. Così, buona [[motifs/night\|notte]].<br>Ha sconvolto la mia mente, e sbalordito la mia vista.<br>Penso, ma non oso parlare. |
+| DAMA | Buona [[motifs/night\|notte]], buon dottore. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Menteith, Caithness, Angus, Lennox, soldati, con un tamburino e insegne |
+| MENTEITH | La forza inglese è vicina, guidata da [[characters/malcolm\|Malcolm]],<br>da suo zio Siward e dal buon [[characters/macduff\|Macduff]].<br>Le vendette ardono in loro, ché le loro care ragioni<br>chiamerebbero al sanguinoso e truce allarme<br>anche l’uomo mortificato. |
+| ANGUS | Presso il bosco di Birnam<br>[[motifs/well\|ben]] li incontreremo. Vengono per quella via. |
+| CAITHNESS | Chi sa se Donalbain sia col fratello? |
+| LENNOX | Di certo, signore, non c’è. Ho l’elenco<br>di tutta la nobiltà. C’è il figlio di Siward,<br>e molti giovinetti imberbi che proprio ora 10<br>affermano la loro prima virilità. |
+| MENTEITH | Che fa il [[archetypes/tyrant\|tiranno]]? |
+| CAITHNESS | La grande Dunsinane fortifica saldamente.<br>Alcuni dicono ch’è pazzo, altri che meno l’odiano<br>lo chiamano furore valoroso; ma di certo<br>egli non può stringere la sua causa malata |
+| *(didascalia)* | dentro la cintura del governo. |
+| ANGUS | Ora sente<br>i suoi assassinii segreti appiccicati alle sue mani.<br>Ora rivolte d’ogni minuto rinfacciano la sua [[concepts/faith\|fede]] infranta.<br>Quelli che comanda si muovono solo per comando,<br>in nulla per [[motifs/love\|amore]]. Ora sente il suo titolo<br>pendergli attorno sciolto, come la veste d’un gigante<br>addosso a un ladro nano. |
+| MENTEITH | Chi allora biasimerà<br>i suoi sensi tormentati se retrocedono e trasaliscono<br>quando tutto ciò ch’è dentro di lui condanna<br>sé stesso per esservi? |
+| CAITHNESS | [[motifs/well\|Bene]], marciamo avanti<br>a dare obbedienza dov’è veramente dovuta.<br>Incontriamo il medico del malato stato,<br>e con lui versiamo, per la purga del nostro paese,<br>ogni goccia di noi. |
+| LENNOX | O quanto ne occorra<br>per irrorare il fiore sovrano e affogare le erbacce.<br>Facciamo la nostra marcia verso Birnam. |
+| *(didascalia)* | Escono, marciando |
+
+### Atto 5, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/macbeth\|Macbeth]], il Dottore in Medicina e il seguito |
+| [[characters/macbeth\|MACBETH]] | Non portatemi più rapporti. Fuggano pure tutti.<br>Finché il bosco di Birnam non si muova verso Dunsinane<br>non posso contaminarmi di [[concepts/fear\|paura]]. Che cos’è il ragazzo [[characters/malcolm\|Malcolm]]?<br>Non è nato di donna? Gli spiriti che conoscono<br>tutte le sorti mortali m’hanno pronunciato così:<br>‘Non [[concepts/fear\|temere]], [[characters/macbeth\|Macbeth]]. Nessun uomo nato di donna<br>avrà mai potere su di te.’ Fuggite dunque, falsi thani,<br>e mescolatevi con gli epicurei inglesi.<br>La mente che mi governa e il cuore che porto<br>non cederanno mai al [[concepts/doubt\|dubbio]] né tremeranno di [[concepts/fear\|paura]]. |
+| *(didascalia)* | Entra il Servo |
+| [[characters/macbeth\|MACBETH]] | Il diavolo t’annerisca di dannazione, sciocco dalla faccia di panna!<br>Dove hai preso quell’aria d’oca? |
+| SERVO | Ci sono diecimila- |
+| [[characters/macbeth\|MACBETH]] | Oche, [[archetypes/villain\|furfante]]? |
+| SERVO | Soldati, signore. 15 |
+| [[characters/macbeth\|MACBETH]] | Va’ a pungerti la faccia e a farla rossa sopra la tua [[concepts/fear\|paura]],<br>ragazzo dal fegato di giglio. Che soldati, straccione?<br>[[motifs/death\|Morte]] della tua [[motifs/soul\|anima]], quelle tue guance di lino<br>son consigliere di [[concepts/fear\|paura]]. Che soldati, faccia di siero? |
+| SERVO | La forza inglese, con vostra licenza. |
+| [[characters/macbeth\|MACBETH]] | Porta via di qui la tua faccia. |
+| *(didascalia)* | Esce il Servo |
+| [[characters/macbeth\|MACBETH]] | Seyton!-Ho il cuore malato<br>quando vedo-Seyton, dico!—Questa spinta<br>o mi rallegrerà per sempre o mi scavallerà ora.<br>Ho vissuto abbastanza a lungo. Il mio cammino di vita<br>è caduto nell’arido, nella foglia gialla,<br>e ciò che dovrebbe accompagnare la vecchiaia,<br>come [[concepts/honour\|onore]], [[motifs/love\|amore]], obbedienza, schiere d’amici,<br>non devo sperare d’averlo, ma in loro vece<br>maledizioni, non forti ma profonde, [[concepts/honour\|onore]] di bocca, fiato<br>che il povero cuore vorrebbe negare e non osa.<br>Seyton! |
+| *(didascalia)* | Entra Seyton |
+| SEYTON | Qual è il vostro grazioso piacere? |
+| [[characters/macbeth\|MACBETH]] | Che altre notizie? |
+| SEYTON | Tutto è confermato, mio signore, quel che fu riferito. |
+| [[characters/macbeth\|MACBETH]] | Combatterò finché dalle mie ossa la carne sia recisa.<br>Datemi la mia armatura. |
+| SEYTON | Non occorre ancora. |
+| [[characters/macbeth\|MACBETH]] | Voglio indossarla.<br>Mandate fuori altri cavalli. Battete il paese all’intorno.<br>Impiccate quelli che parlano di [[concepts/fear\|paura]]. Datemi la mia armatura.<br>Come sta la vostra paziente, dottore? |
+| DOTTORE | Non tanto malata, mio signore,<br>quanto turbata da fantasie che le s’affollano<br>e le tolgono il riposo. |
+| [[characters/macbeth\|MACBETH]] | Curatela di questo.<br>Non sai tu curare una mente ammalata,<br>strappare dalla [[motifs/memory\|memoria]] un dolore radicato,<br>cancellare i turbamenti scritti nel cervello,<br>e con qualche dolce antidoto d’oblio<br>mondare il petto carico di quella materia pericolosa<br>che pesa sul cuore? |
+| DOTTORE | In questo il paziente<br>deve curarsi da sé. |
+| [[characters/macbeth\|MACBETH]] | Getta la medicina ai cani; io non ne voglio.<br>(A un servo) Vieni, mettimi l’armatura. Dammi<br>il mio bastone.<br>Seyton, manda fuori. Dottore, i thani fuggono da me.<br>(A un servo) Suvvia, signore, sbrigati.—Se tu potessi,<br>dottore, esaminare<br>l’[[motifs/water\|acqua]] del mio paese, trovare il suo male,<br>e purgarlo fino a una salute sana e pristina,<br>io t’applaudirei fino all’eco stessa,<br>che dovrebbe applaudire di nuovo. (A un servo) Toglila,<br>dico.<br>(Al Dottore) Quale rabarbaro, sena, o qual<br>droga purgativa<br>spazzerebbe via di qui questi inglesi? Ne hai<br>sentito parlare? |
+| DOTTORE | Sì, mio buon signore. I vostri regali preparativi<br>ce ne fanno sentire qualcosa. |
+| [[characters/macbeth\|MACBETH]] | (A un servo) Portamela dietro.<br>Non avrò paura della [[motifs/death\|morte]] e della rovina<br>finché la foresta di Birnam non venga a Dunsinane. |
+| DOTTORE | (a parte)<br>Fossi io lontano e libero da Dunsinane,<br>a stento un guadagno mi ritrarrebbe qui. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/malcolm\|Malcolm]], Siward, [[characters/macduff\|Macduff]], il Figlio di Siward, Menteith, Caithness, Angus e soldati, marciando, con un tamburino e insegne |
+| [[characters/malcolm\|MALCOLM]] | Cugini, [[concepts/hope\|spero]] che siano vicini i giorni<br>in cui le camere saranno sicure. |
+| MENTEITH | Non ne [[concepts/doubt\|dubitiamo]] affatto. |
+| SIWARD | Che bosco è questo davanti a noi? |
+| MENTEITH | Il bosco di Birnam. |
+| [[characters/malcolm\|MALCOLM]] | Ogni soldato si tagli un ramo<br>e lo porti davanti a sé. Così faremo [[archetypes/shadow\|ombra]]<br>al numero della nostra schiera, e faremo errare<br>la ricognizione nel riferire di noi.<br>UN SOLDATO<br>Sarà fatto. |
+| SIWARD | Non apprendiamo altro se non che il fiducioso [[archetypes/tyrant\|tiranno]]<br>si tiene ancora in Dunsinane, e sopporterà<br>che ci accampiamo sotto le sue mura. |
+| [[characters/malcolm\|MALCOLM]] | È la sua [[concepts/hope\|speranza]] principale,<br>ché dove c’è il vantaggio d’andarsene,<br>tanto i maggiori quanto i minori gli si sono rivoltati,<br>e nessuno serve con lui se non gente costretta,<br>i cui cuori sono anch’essi altrove. |
+| [[characters/macduff\|MACDUFF]] | I nostri giusti giudizi<br>attendano il vero esito, e mettiamoci<br>a un’operosa milizia. |
+| SIWARD | Il [[motifs/time\|tempo]] s’avvicina<br>che con debita decisione ci farà sapere<br>che cosa diremo d’avere, e che cosa dobbiamo.<br>I pensieri speculativi raccontano le loro incerte speranze,<br>ma l’esito certo lo devono arbitrare i colpi;<br>e verso quello, avanzi la guerra. Escono, marciando |
+
+### Atto 5, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/macbeth\|Macbeth]], Seyton e soldati, con un tamburino e insegne |
+| [[characters/macbeth\|MACBETH]] | Issate i nostri stendardi sulle mura esterne.<br>Il grido è sempre ‘Vengono.’ La forza del nostro [[settings/castle\|castello]]<br>riderà con scherno d’un assedio. Qui restino accampati<br>finché la fame e la febbre li divorino.<br>Se non fossero rinforzati da quelli che dovrebbero essere nostri,<br>li avremmo potuti affrontare arditamente, barba contro barba,<br>e ricacciarli a [[motifs/home\|casa]].<br>Un grido di donne all’interno<br>Che rumore è questo? |
+| SEYTON | È il grido di donne, mio buon signore.<br>[Esce] |
+| [[characters/macbeth\|MACBETH]] | Ho quasi dimenticato il sapore delle paure.<br>Ci fu un [[motifs/time\|tempo]] in cui i miei sensi si sarebbero agghiacciati<br>a udire uno strido di [[motifs/night\|notte]], e il mio pelo di capelli<br>a un racconto lugubre si sarebbe destato e mosso<br>come se avesse vita. Mi sono saziato d’orrori.<br>L’atrocità, familiare ai miei pensieri di strage,<br>non riesce più a farmi trasalire. |
+| *(didascalia)* | Entra Seyton |
+| [[characters/macbeth\|MACBETH]] | Perché fu quel grido? |
+| SEYTON | La [[characters/queen\|Regina]], mio signore, è morta. |
+| [[characters/macbeth\|MACBETH]] | Sarebbe dovuta morire più tardi.<br>Ci sarebbe stato un [[motifs/time\|tempo]] per una tale parola.<br>Domani, e domani, e domani<br>striscia con questo passo meschino di giorno in giorno<br>fino all’ultima sillaba del [[motifs/time\|tempo]] registrato,<br>e tutti i nostri ieri hanno illuminato ai folli<br>la via verso la polverosa [[motifs/death\|morte]]. Spegniti, spegniti, breve candela.<br>La vita non è che un’[[archetypes/shadow\|ombra]] che cammina, un povero attore<br>che si pavoneggia e s’agita per la sua ora sulla scena,<br>e poi non se ne sente più nulla. È un racconto<br>narrato da un idiota, pieno di suono e furore,<br>che non significa nulla. |
+| *(didascalia)* | Entra un Messaggero |
+| [[characters/macbeth\|MACBETH]] | Vieni per usare<br>la tua lingua: presto, la tua storia. |
+| MESSAGGERO | Mio grazioso signore,<br>dovrei riferire ciò che dico d’aver visto,<br>ma non so come farlo. |
+| [[characters/macbeth\|MACBETH]] | [[motifs/well\|Bene]], di’, signore. |
+| MESSAGGERO | Mentre stavo di guardia sul [[motifs/hill\|colle]]<br>guardai verso Birnam, e a un tratto mi parve<br>che il bosco cominciasse a muoversi. |
+| [[characters/macbeth\|MACBETH]] | Bugiardo e schiavo! |
+| MESSAGGERO | Ch’io sopporti la vostra ira se non è così. |
+| *(didascalia)* | Entro queste tre miglia potete vederlo venire. |
+| MESSAGGERO | Dico, un boschetto che si muove. |
+| [[characters/macbeth\|MACBETH]] | Se dici il falso<br>al primo albero sarai appeso vivo<br>finché la fame ti raggrinzi. Se il tuo dire è vero,<br>non m’importa se tu fai altrettanto di me.<br>Vien meno la mia risoluzione, e comincio<br>a [[concepts/doubt\|dubitare]] dell’equivoco del demonio,<br>che mente come la [[concepts/truth\|verità]]. ‘Non [[concepts/fear\|temere]] finché il bosco di Birnam<br>non venga a Dunsinane’—e ora un bosco<br>viene verso Dunsinane. All’armi, all’armi, e fuori.<br>Se ciò ch’egli afferma si mostra vero,<br>non c’è né fuggire di qui né restare qui.<br>Comincio a stancarmi del sole,<br>e vorrei che l’ordine del mondo fosse ora disfatto.<br>Suonate la campana a stormo. Allarmi Soffia [[motifs/wind\|vento]], vieni rovina,<br>almeno moriremo con l’armatura in dosso. Escono |
+
+### Atto 5, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/malcolm\|Malcolm]], Siward, [[characters/macduff\|Macduff]] e il loro esercito con rami, con un tamburino e insegne |
+| [[characters/malcolm\|MALCOLM]] | Ora siamo abbastanza vicini. Gettate giù i vostri schermi di fronde,<br>e mostratevi quali siete.<br>Gettano giù i rami<br>Voi, degno zio,<br>guiderete col mio cugino, il vostro nobilissimo figlio,<br>la nostra prima schiera. Il degno [[characters/macduff\|Macduff]] e noi<br>ci assumeremo quanto altro resta da fare<br>secondo il nostro ordine. |
+| SIWARD | State [[motifs/well\|bene]].<br>Purché stanotte troviamo le forze del [[archetypes/tyrant\|tiranno]],<br>siamo pure battuti se non sappiamo combattere. |
+| [[characters/macduff\|MACDUFF]] | Fate parlare tutte le nostre trombe, date loro tutto il fiato,<br>quei clamorosi araldi di [[motifs/blood\|sangue]] e di [[motifs/death\|morte]]. |
+| *(didascalia)* | Escono. Gli allarmi continuano |
+
+### Atto 5, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] |
+| [[characters/macbeth\|MACBETH]] | Mi hanno legato a un palo. Non posso fuggire,<br>ma come l’orso devo sostenere la lotta. Chi è colui<br>che non nacque di donna? Un tale<br>devo [[concepts/fear\|temere]], o nessuno. |
+| *(didascalia)* | Entra il giovane Siward |
+| GIOVANE SIWARD | Qual è il tuo nome? |
+| [[characters/macbeth\|MACBETH]] | Avrai paura a udirlo. |
+| GIOVANE SIWARD | No, anche se ti chiamassi con un nome più rovente<br>di qualunque ce ne sia all’inferno. |
+| [[characters/macbeth\|MACBETH]] | Il mio nome è [[characters/macbeth\|Macbeth]]. |
+| GIOVANE SIWARD | Il diavolo stesso non potrebbe pronunciare un titolo<br>più odioso al mio orecchio. |
+| [[characters/macbeth\|MACBETH]] | No, né più pauroso. |
+| GIOVANE SIWARD | Tu menti, aborrito [[archetypes/tyrant\|tiranno]]. Con la mia spada<br>proverò la menzogna che dici.<br>Combattono, e il giovane Siward è ucciso |
+| [[characters/macbeth\|MACBETH]] | Tu nascesti di donna,<br>ma delle spade io sorrido, delle armi rido con scherno,<br>brandite da uomo che sia nato di donna. |
+| *(didascalia)* | Esce col [[concepts/body\|corpo]] |
+
+### Atto 5, Scena 8
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarmi. Entra [[characters/macduff\|Macduff]] |
+| [[characters/macduff\|MACDUFF]] | Di là viene il fragore. [[archetypes/tyrant\|Tiranno]], mostra la tua faccia!<br>Se tu sei ucciso e non da un colpo mio,<br>gli [[motifs/ghosts\|spettri]] di mia moglie e dei miei figli mi perseguiteranno sempre.<br>Non posso colpire miseri fanti, le cui braccia<br>sono prezzolate per portare le loro aste. O tu, [[characters/macbeth\|Macbeth]], 5<br>oppure la mia spada col filo intatto<br>rinfodero senza averla usata. Là tu dovresti essere;<br>da questo gran clangore par si annunci<br>uno del massimo rilievo. Fammelo trovare, fortuna,<br>e altro non chiedo. |
+| *(didascalia)* | Esce. Allarmi |
+
+### Atto 5, Scena 9
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/malcolm\|Malcolm]] e Siward |
+| SIWARD | Di qua, mio signore. Il [[settings/castle\|castello]] s’è arreso senza resistenza.<br>La gente del [[archetypes/tyrant\|tiranno]] combatte su entrambi i fronti.<br>I nobili thani si comportano da valorosi nella guerra.<br>La giornata quasi da sé si dichiara vostra,<br>e poco resta da fare. |
+| [[characters/malcolm\|MALCOLM]] | Abbiamo incontrato nemici<br>che colpiscono al nostro fianco. |
+| *(didascalia)* | Entrate, signore, nel [[settings/castle\|castello]]. |
+| *(didascalia)* | Escono. Allarme |
+
+### Atto 5, Scena 10
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/macbeth\|Macbeth]] |
+| [[characters/macbeth\|MACBETH]] | Perché dovrei fare il [[archetypes/fool\|folle]] romano, e morire<br>sulla mia stessa spada? Finché vedo dei viventi, gli squarci<br>stanno meglio su di loro. |
+| *(didascalia)* | Entra [[characters/macduff\|Macduff]] |
+| [[characters/macduff\|MACDUFF]] | Voltati, mastino d’inferno, voltati. |
+| [[characters/macbeth\|MACBETH]] | Fra tutti gli uomini ho evitato te.<br>Ma torna indietro. La mia [[motifs/soul\|anima]] è già troppo carica<br>del [[motifs/blood\|sangue]] dei tuoi. |
+| [[characters/macduff\|MACDUFF]] | Io non ho parole;<br>la mia voce è nella mia spada, tu [[archetypes/villain\|scellerato]] più sanguinario<br>di quanto i termini possano dirti.<br>Combattono; allarme |
+| [[characters/macbeth\|MACBETH]] | Perdi la fatica.<br>Con la stessa facilità potresti incidere l’aria impenetrabile<br>con la tua tagliente spada quanto farmi sanguinare.<br>Cali la tua lama su cimieri vulnerabili;<br>io porto una vita incantata, che non deve cedere<br>a uno nato di donna. |
+| [[characters/macduff\|MACDUFF]] | [[concepts/despair\|Dispera]] del tuo incanto,<br>e l’angelo che hai sempre servito<br>ti dica che [[characters/macduff\|Macduff]] dal ventre di sua madre 15<br>fu strappato anzitempo. |
+| [[characters/macbeth\|MACBETH]] | Maledetta sia quella lingua che me lo dice,<br>ché ha avvilito la parte migliore d’uomo in me;<br>e non si credano più questi demoni ciurmatori,<br>che giocano con noi in un [[topoi/double\|doppio]] senso,<br>che mantengono la parola della promessa al nostro orecchio<br>e la rompono alla nostra [[concepts/hope\|speranza]]. Non combatterò con te. |
+| [[characters/macduff\|MACDUFF]] | Allora arrenditi, vigliacco,<br>e vivi per essere lo spettacolo e lo stupore del [[motifs/time\|tempo]].<br>Ti avremo come si fa dei nostri mostri più rari,<br>dipinto su un’insegna, e sotto scritto<br>‘Qui potete vedere il [[archetypes/tyrant\|tiranno]].’ |
+| [[characters/macbeth\|MACBETH]] | Non mi arrenderò<br>a baciare la terra davanti ai piedi del giovane [[characters/malcolm\|Malcolm]],<br>e a essere aizzato dalle maledizioni della plebaglia.<br>Benché il bosco di Birnam sia venuto a Dunsinane,<br>e tu che mi affronti non sia nato di donna,<br>pure tenterò l’ultima prova. Davanti al mio [[concepts/body\|corpo]]<br>getto il mio bellicoso scudo. Dàlli, [[characters/macduff\|Macduff]],<br>e sia dannato chi per primo grida ‘Ferma, basta!’ |
+| *(didascalia)* | Escono combattendo. Allarmi |
+| [[characters/macbeth\|MACBETH]] | Entrano combattendo, e [[characters/macbeth\|Macbeth]] è ucciso. Esce<br><br>[[characters/macduff\|Macduff]] col [[concepts/body\|corpo]] di [[characters/macbeth\|Macbeth]] |
+
+### Atto 5, Scena 11
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Ritirata e squillo di trombe. Entrano con un tamburino e insegne [[characters/malcolm\|Malcolm]], Siward, Ross, thani e soldati |
+| [[characters/malcolm\|MALCOLM]] | Vorrei che gli amici che ci mancano fossero giunti salvi. |
+| SIWARD | Alcuni devono cadere; eppure, da quelli che vedo,<br>una giornata grande come questa è comprata a buon mercato. |
+| [[characters/malcolm\|MALCOLM]] | Manca [[characters/macduff\|Macduff]], e il vostro nobile figlio. |
+| ROSS | (a Siward)<br>Vostro figlio, mio signore, ha pagato il debito d’un soldato.<br>Visse soltanto finché fu un uomo,<br>e non appena il suo valore ebbe confermato ciò<br>nella posizione irremovibile dove combatté,<br>da uomo morì. |
+| SIWARD | Dunque è morto? |
+| ROSS | Sì, ed è stato portato via dal campo. La vostra ragione di dolore<br>non dev’essere misurata sul suo valore, ché allora<br>non avrebbe fine. |
+| SIWARD | Aveva le ferite davanti? |
+| ROSS | Sì, sulla fronte. |
+| SIWARD | Ebbene, sia soldato di Dio.<br>Avessi tanti figli quanti ho capelli<br>non li vorrei per una [[motifs/death\|morte]] più bella;<br>e così è suonata la sua campana. |
+| [[characters/malcolm\|MALCOLM]] | Merita più dolore,<br>e quello io spenderò per lui. |
+| SIWARD | Non ne merita di più.<br>Dicono che se n’è andato [[motifs/well\|bene]] e ha pagato il suo conto,<br>e così Dio sia con lui. Ecco venire un conforto più nuovo. |
+| *(didascalia)* | Entra [[characters/macduff\|Macduff]] con la testa di [[characters/macbeth\|Macbeth]] |
+| [[characters/macduff\|MACDUFF]] | (a [[characters/malcolm\|Malcolm]])<br>Salve, [[archetypes/king\|Re]], ché tale tu sei. Ecco dove sta<br>la maledetta testa dell’[[archetypes/usurper\|usurpatore]]. Il [[motifs/time\|tempo]] è libero.<br>Ti vedo circondato dalle perle del tuo regno,<br>che pronunciano il mio saluto nelle loro menti,<br>le cui voci [[motifs/desire\|desidero]] alte insieme alla mia:<br>Salve, [[archetypes/king\|Re]] di Scozia! |
+| TUTTI TRANNE [[characters/malcolm\|MALCOLM]] | Salve, [[archetypes/king\|Re]] di Scozia! |
+| *(didascalia)* | Squillo di trombe |
+| [[characters/malcolm\|MALCOLM]] | Non spenderemo una larga spesa di [[motifs/time\|tempo]]<br>prima di fare i conti coi vostri singoli affetti<br>e metterci in pari con voi. Miei thani e congiunti,<br>d’ora innanzi siate conti, i primi che mai la Scozia<br>abbia nominato a tale [[concepts/honour\|onore]]. Quel che resta da fare,<br>che vorrebbe esser piantato di nuovo col [[motifs/time\|tempo]],<br>come richiamare a [[motifs/home\|casa]] i nostri amici esiliati all’estero,<br>che fuggirono i lacci d’una vigile tirannide,<br>e trarre alla luce i crudeli ministri<br>di questo macellaio morto e della sua [[characters/queen\|regina]] simile a un demonio—<br>la quale, come si pensa, con mani [[concepts/self\|proprie]] e violente<br>si tolse la vita—questo e quant’altro occorra<br>e ci reclami, per la grazia della grazia<br>compiremo nella giusta misura, nel [[motifs/time\|tempo]] e nel luogo dovuti.<br>Così grazie a tutti insieme, e a ciascuno,<br>che invitiamo a vederci incoronare a Scone. |
+| *(didascalia)* | Squillo di trombe. Escono tutti |
 
 
 
@@ -1290,15 +2286,6 @@ The [[forms/tragedy|Tragedy]] of [[characters/macbeth|Macbeth]]
 | [[characters/lady-macbeth\|LADY MACBETH]] | O never<br>Shall sun that morrow see.<br>Your face, my thane, is as a book where men<br>May read strange matters. To beguile the [[motifs/time\|time]],<br>Look like the [[motifs/time\|time]]; bear welcome in your eye,<br>Your hand, your tongue; look like the [[archetypes/innocent\|innocent]] flower,<br>But be the serpent under’t. He that’s coming<br>Must be provided for; and you shall put<br>This [[motifs/night\|night]]’s great business into my dispatch,<br>Which shall to all our nights and days to come<br>Give solely sovereign sway and masterdom. |
 | [[characters/macbeth\|MACBETH]] | We will speak further. |
 | [[characters/lady-macbeth\|LADY MACBETH]] | Only look up clear.<br>To alter favour ever is to [[concepts/fear\|fear]].<br>Leave all the rest to me. Exeunt |
-| *(didascalia)* | 1.6 Hautboys and torches. Enter [[archetypes/king\|King]] [[characters/duncan\|Duncan]], [[characters/malcolm\|Malcolm]], Donalbain, [[characters/banquo\|Banquo]], Lennox, [[characters/macduff\|Macduff]], Ross, Angus, and attendants |
-| [[archetypes/king\|KING]] [[characters/duncan\|DUNCAN]] | This [[settings/castle\|castle]] hath a pleasant seat. The air<br>Nimbly and sweetly recommends itself<br>Unto our gentle senses. |
-| [[characters/banquo\|BANQUO]] | This guest of [[motifs/summer\|summer]],<br>The temple-haunting martlet, does approve<br>By his loved mansionry that the heavens’ breath<br>Smells wooingly here. No jutty, frieze,<br>Buttress, nor coign of vantage but this bird<br>Hath made his pendant bed and procreant cradle;<br>Where they most breed and haunt I have observed<br>The air is delicate. |
-| *(didascalia)* | Enter [[characters/lady-macbeth\|Lady Macbeth]] |
-| [[archetypes/king\|KING]] [[characters/duncan\|DUNCAN]] | See, see, our honoured hostess!<br>The [[motifs/love\|love]] that follows us sometime is our trouble,<br>Which still we thank as [[motifs/love\|love]]. Herein I teach you<br>How you shall bid God ’ield us for your pains,<br>And thank us for your trouble. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | All our service<br>In every point twice done, and then done [[topoi/double\|double]],<br>Were poor and single business to contend<br>Against those honours deep and broad wherewith<br>Your majesty loads our house. For those of old,<br>And the late dignities heaped up to them,<br>We rest your hermits. |
-| [[archetypes/king\|KING]] [[characters/duncan\|DUNCAN]] | Where’s the Thane of Cawdor?<br>We coursed him at the heels, and had a purpose<br>To be his purveyor; but he rides [[motifs/well\|well]],<br>And his great [[motifs/love\|love]], sharp as his spur, hath holp him<br>To his [[motifs/home\|home]] before us. Fair and noble hostess,<br>We are your guest tonight. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | Your servants ever<br>Have theirs, themselves, and what is theirs in count<br>To make their audit at your highness’ pleasure,<br>Still to return your own. |
-| [[archetypes/king\|KING]] [[characters/duncan\|DUNCAN]] | Give me your hand.<br>Conduct me to mine host. We [[motifs/love\|love]] him highly,<br>And shall continue our graces towards him.<br>By your leave, hostess. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1783,24 +2770,7 @@ The [[forms/tragedy|Tragedy]] of [[characters/macbeth|Macbeth]]
 | MURDERERS | We are resolved, my lord. |
 | [[characters/macbeth\|MACBETH]] | I’ll call upon you straight. Abide within. |
 | *(didascalia)* | Exeunt Murderers |
-| [[characters/macbeth\|MACBETH]] | It is concluded. [[characters/banquo\|Banquo]], thy [[motifs/soul\|soul]]’s flight,<br>If it find heaven, must find it out tonight. Exit<br><br>3.2 Enter [[characters/lady-macbeth\|Lady Macbeth]] and a Servant |
-| [[characters/lady-macbeth\|LADY MACBETH]] | Is [[characters/banquo\|Banquo]] gone from [[settings/court\|court]]? |
-| SERVANT | Ay, madam, but returns again tonight. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | Say to the [[archetypes/king\|King]] I would attend his leisure<br>For a few words. |
-| SERVANT | Madam, I will. |
-| *(didascalia)* | Exit |
-| [[characters/lady-macbeth\|LADY MACBETH]] | Naught’s had, all’s spent,<br>Where our [[motifs/desire\|desire]] is got without content.<br>’Tis safer to be that which we destroy<br>Than by destruction dwell in doubtful joy. |
-| *(didascalia)* | Enter [[characters/macbeth\|Macbeth]] |
-| [[characters/lady-macbeth\|LADY MACBETH]] | How now, my lord, why do you keep alone,<br>Of sorriest fancies your companions making,<br>Using those thoughts which should indeed have died<br>With them they think on? Things without all remedy<br>Should be without regard. What’s done is done. |
-| [[characters/macbeth\|MACBETH]] | We have scorched the snake, not killed it.<br>She’ll close and be herself, whilst our poor malice<br>Remains in danger of her former tooth.<br>But let the frame of things disjoint, both the worlds<br>suffer,<br>Ere we will eat our meal in [[concepts/fear\|fear]], and [[motifs/sleep\|sleep]]<br>In the affliction of these terrible [[motifs/dreams\|dreams]]<br>That shake us nightly. Better be with the dead,<br>Whom we to gain our peace have sent to peace,<br>Than on the torture of the mind to lie<br>In restless ecstasy. [[characters/duncan\|Duncan]] is in his [[motifs/grave\|grave]].<br>After life’s fitful fever he sleeps [[motifs/well\|well]].<br>Treason has done his worst. Nor steel nor [[motifs/poison\|poison]],<br>Malice domestic, foreign levy, nothing<br>Can touch him further. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | Come on, gentle my lord,<br>Sleek o’er your rugged looks, be bright and jovial<br>Among your guests tonight. |
-| [[characters/macbeth\|MACBETH]] | So shall I, [[motifs/love\|love]],<br>And so I pray be you. Let your remembrance<br>Apply to [[characters/banquo\|Banquo]]. Present him eminence<br>Both with eye and tongue; unsafe the while that we<br>Must lave our honours in these flattering streams<br>And make our faces visors to our hearts,<br>Disguising what they are. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | You must leave this. |
-| [[characters/macbeth\|MACBETH]] | O, full of scorpions is my mind, dear wife!<br>Thou know’st that [[characters/banquo\|Banquo]] and his Fleance lives. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | But in them [[concepts/nature\|nature]]’s copy’s not eterne. |
-| [[characters/macbeth\|MACBETH]] | There’s comfort yet, they are assailable.<br>Then be thou jocund. Ere the bat hath flown<br>His cloistered flight, ere to black Hecate’s summons<br>The shard-borne beetle with his drowsy hums<br>Hath rung [[motifs/night\|night]]’s yawning peal, there shall be done<br>A deed of dreadful note. |
-| [[characters/lady-macbeth\|LADY MACBETH]] | What’s to be done? |
-| [[characters/macbeth\|MACBETH]] | Be [[archetypes/innocent\|innocent]] of the knowledge, dearest chuck,<br>Till thou applaud the deed.—Come, seeling [[motifs/night\|night]],<br>Scarf up the tender eye of pitiful day,<br>And with thy bloody and invisible hand<br>Cancel and tear to pieces that great bond<br>Which keeps me pale. Light thickens, and the crow<br>Makes wing to th’ rooky wood.<br>Good things of day begin to droop and drowse,<br>Whiles [[motifs/night\|night]]’s black agents to their preys do rouse.<br>Thou marvell’st at my words; but hold thee still.<br>Things bad begun make strong themselves by ill.<br>So prithee go with me. Exeunt |
+| [[characters/macbeth\|MACBETH]] | It is concluded. [[characters/banquo\|Banquo]], thy [[motifs/soul\|soul]]’s flight,<br>If it find heaven, must find it out tonight. Exit|
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1849,7 +2819,7 @@ The [[forms/tragedy|Tragedy]] of [[characters/macbeth|Macbeth]]
 | ASSASSINI | Siamo risoluti, mio signore. |
 | [[characters/macbeth\|MACBETH]] | Vi chiamerò subito. Restate dentro. |
 | *(didascalia)* | Escono gli Assassini |
-| [[characters/macbeth\|MACBETH]] | È deciso. [[characters/banquo\|Banquo]], il volo della tua [[motifs/soul\|anima]],<br>se trova il cielo, lo deve trovare stanotte. Esce<br> |
+| [[characters/macbeth\|MACBETH]] | È deciso. [[characters/banquo\|Banquo]], il volo della tua [[motifs/soul\|anima]],<br>se trova il cielo, lo deve trovare stanotte. Esce|
 
 
 
@@ -3072,8 +4042,6 @@ The [[forms/tragedy|Tragedy]] of [[characters/macbeth|Macbeth]]
 | *(didascalia)* | Flourish |
 | [[characters/malcolm\|MALCOLM]] | We shall not spend a large expense of [[motifs/time\|time]]<br>Before we reckon with your several loves<br>And make us even with you. My thanes and kinsmen,<br>Henceforth be earls, the first that ever Scotland<br>In such an [[concepts/honour\|honour]] named. What’s more to do<br>Which would be planted newly with the [[motifs/time\|time]],<br>As calling [[motifs/home\|home]] our exiled friends abroad,<br>That fled the snares of watchful tyranny,<br>Producing forth the cruel ministers<br>Of this dead butcher and his fiend-like [[characters/queen\|queen]]-<br>Who, as ‘tis thought, by [[concepts/self\|self]] and violent hands<br>Took off her life—this and what needful else<br>That calls upon us, by the grace of grace<br>We will perform in measure, [[motifs/time\|time]], and place.<br>So thanks to all at once, and to each one,<br>Whom we invite to see us crowned at Scone. |
 | *(didascalia)* | Flourish. Exeunt Omnes |
-| FIRST | printed in the 1623 Folio, Antony and [[characters/cleopatra\|Cleopatra]] had been entered on the Stationers’ Register on 20 May 1608. Echoes of it in Barnabe Barnes’s [[forms/tragedy\|tragedy]] The Devil’s Charter, acted by Shakespeare’s company in February 1607, suggest that Shakespeare wrote his play no later than 1606, and stylistic evidence supports that date.<br>The Life of Marcus Antonius in Sir Thomas North’s [[forms/translation\|translation]] of Plutarch’s Lives of the Noble Grecians and Romans (1579) was one of the sources for [[characters/julius-caesar\|Julius Caesar]]; it also provided Shakespeare with most of his material for Antony and [[characters/cleopatra\|Cleopatra]], in which he draws upon its language to a remarkable extent even in some of the play’s most poetic passages. For example, [[characters/enobarbus\|Enobarbus]]’ famous description of [[characters/cleopatra\|Cleopatra]] in her barge (2.2.197-225) incorporates phrase after phrase of North’s prose. And the play’s action stays close to North’s account, though with significant adjustments, particularly compressions of the [[motifs/time\|time]]-scheme. It opens in 40 BC, two years after the end of [[characters/julius-caesar\|Julius Caesar]], and portrays events that took place over a period of ten years. [[characters/mark-antony\|Mark Antony]] has become an older man, though Octavius is still ‘scarce-bearded’. Plutarch, who was a connoisseur of human behaviour, also afforded many hints for the characterization; but some characters, particularly Antony’s comrade Domitius [[characters/enobarbus\|Enobarbus]] and [[characters/cleopatra\|Cleopatra]]’s women, [[characters/charmian\|Charmian]] and Iras, are largely created by Shakespeare.<br>In the earlier play, [[characters/mark-antony\|Mark Antony]] had formed a triumvirate with [[characters/octavius-caesar\|Octavius Caesar]] and [[characters/lepidus\|Lepidus]]. In Antony and [[characters/cleopatra\|Cleopatra]] the triumvirate is in a state of disintegration, partly because [[characters/mark-antony\|Mark Antony]]—married at the play’s opening to Fulvia, who is rebelling against [[characters/octavius-caesar\|Octavius Caesar]]—is infatuated with [[characters/cleopatra\|Cleopatra]], [[characters/queen\|Queen]] of [[settings/egypt\|Egypt]] (and the former mistress of [[characters/julius-caesar\|Julius Caesar]]). The play’s action swings between Rome and Alexandria as Antony is torn between the claims of Rome—strengthened for a while by his [[motifs/marriage\|marriage]], after Fulvia’s [[motifs/death\|death]], to [[characters/octavius-caesar\|Octavius Caesar]]’s sister [[characters/octavia\|Octavia]]—and the temptations of [[settings/egypt\|Egypt]]. Gradually opposition between Antony and Octavius increases, until they engage in a sea-fight near Actium (in Greece), in which Antony follows [[characters/cleopatra\|Cleopatra]]’s navy in ignominious retreat. The closing stages of the [[topoi/double\|double]] [[forms/tragedy\|tragedy]] portray Antony’s shame, humiliation, and [[concepts/suicide\|suicide]] after [[characters/cleopatra\|Cleopatra]] falsely causes him to believe that she has killed herself; faced with the threat that Caesar will take her captive to Rome, [[characters/cleopatra\|Cleopatra]] too commits [[concepts/suicide\|suicide]]. According to Plutarch, she was thirty-eight years old; as for Antony, ‘some say that he lived three-and-fifty years, and others say, six-and-fifty’.<br>In Antony and [[characters/cleopatra\|Cleopatra]] the classical restraint of [[characters/julius-caesar\|Julius Caesar]] gives way to a fine excess of language, of dramatic action, and of individual behaviour. The style is hyperbolical, overflowing the measure of the iambic pentameter. The action is amazingly fluid, shifting with an ease and rapidity that caused bewilderment to ages unfamiliar with the conventions of Shakespeare’s theatre. And the characterization is correspondingly extravagant, delighting in the quirks of individual behaviour, above all in the paradoxes and inconsistencies of the Egyptian [[characters/queen\|queen]] who contains within herself the capacity for every extreme of human behaviour, from [[concepts/vanity\|vanity]], meanness, and frivolity to the [[concepts/sublime\|sublime]] [[concepts/self\|self]]-transcendence with which she faces and embraces [[motifs/death\|death]]. |
-| THE PERSONS OF THE | PLAY |
 
 
 <span class="qlang-split" data-lang="it"></span>

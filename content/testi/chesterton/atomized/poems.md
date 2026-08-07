@@ -4566,15 +4566,15 @@ Prodotto da Marc D'Hooghe
 
 POESIE  
 
-by  
+di  
 
-# G.K. Chesterton
+G.K. CHESTERTON  
 
 [[settings/new-york|NEW YORK]]  
 
 1916  
 
-Lo stesso autore
+DELLO STESSO AUTORE  
 
 Il Napoleone di Notting [[motifs/hill|Hill]]: Un romanzo. Con illustrazioni di Graham  
 
@@ -4602,7 +4602,7 @@ La locanda volante.
 
 JOHN LANE COMPANY PUBLISHERS [[settings/new-york|NEW YORK]]  
 
-INDICE
+INDICE  
 
 TRE DEDICHE  
 
@@ -4610,7 +4610,7 @@ A [[characters/edmund|EDMUND]] CLERIHEW BENTLEY
 
 A HILAIRE BELLOC  
 
-TO M. E. W.  
+A M. E. W.  
 
 POESIE DI GUERRA  
 
@@ -4622,9 +4622,9 @@ BEATI GLI OPERATORI DI PACE
 
 LA MOGLIE DELLE FIANDRE  
 
-IL CROCIATO TORNA DALLA PRIGIONIA  
+IL CROCIATO RITORNA DALLA PRIGIONIA  
 
-[[motifs/love|AMORE]] POESIE  
+POESIE D'[[motifs/love|AMORE]]  
 
 GLENCOE  
 
@@ -4642,13 +4642,13 @@ IL GRANDE MINIMO
 
 IL MORTALE RISPONDE  
 
-UN [[motifs/marriage|NUZIALE]] CANTO  
+UN CANTO DI [[motifs/marriage|NOZZE]]  
 
 BAY COMBE  
 
 POESIE RELIGIOSE  
 
-I MAGI  
+I RE MAGI  
 
 LA CASA DEL NATALE  
 
@@ -4668,17 +4668,17 @@ UN CANTO DI NATALE PER TRE CORPORAZIONI
 
 LA NATIVITÀ  
 
-UN [[archetypes/child|BAMBINO]] DELLE NEVI  
+UN [[archetypes/child|FANCIULLO]] DELLE NEVI  
 
 UNA PAROLA  
 
 RIME PER I TEMPI  
 
-ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
 
-IL MEMORIALE DI SHAKESPEARE  
+IL MONUMENTO A SHAKESPEARE  
 
 L'ORRIBILE [[concepts/history|STORIA]] DI [[characters/jones|JONES]]  
 
@@ -4688,7 +4688,7 @@ IN MEMORIAM P.D.
 
 [[forms/sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-UN CANTO DI SPADE
+UN CANTO DI SPADE  
 
 UN CANTO DI SCONFITTA  
 
@@ -4696,7 +4696,7 @@ UN CANTO DI SCONFITTA
 
 AFRICA  
 
-Il MORTO [[archetypes/hero|EROE]]  
+L'[[archetypes/hero|EROE]] MORTO  
 
 UN'ECO ELETTORALE  
 
@@ -4712,13 +4712,13 @@ BALLATA DEL SOLE
 
 [[forms/translation|TRADUZIONE]] DA DU BELLAY  
 
-LA PIÙ ALTA UNITÀ  
+L'UNITÀ SUPERIORE  
 
 LA VEGLIA DELLA TERRA  
 
 SULLA GIUSTA INDIGNAZIONE  
 
-QUANDO TORNAI IN FLEET STREET  
+QUANDO TORNAI A FLEET STREET  
 
 UN CANTO DEL SIDRO  
 
@@ -4916,7 +4916,7 @@ Sotto la grande grigia torre dell'[[motifs/water|acqua]]
 
 Che colpisce le [[motifs/stars|stelle]] su Campden [[motifs/hill|Hill]]  
 
-TO _M. E. W_.  
+A _M. E. W_.  
 
 Parole, ché ahimè il mio mestiere è parole, un arido sprazzo di rima,  
 
@@ -5530,7 +5530,7 @@ ma la Vita mi terrà vivo, e la [[motifs/death|Morte]] non m'ingannerà mai
 
 finché camminerò in Inghilterra nei viottoli che mi lasciano passare.  
 
-III
+III  
 
 [[motifs/love|AMORE]] POESIE  
 
@@ -7586,15 +7586,15 @@ Uccisi a fucilate su nevi scarlatte per la libertà,
 
 Morti nella luce del giorno di Natale.  
 
-UN CANTO DI SPADE
+UN CANTO DI SWORDS  
 
 "UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
 SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
-Nel luogo chiamato Swords, sulla [[motifs/road|strada]] d'Irlanda,
+Nel luogo detto Swords sulla [[motifs/road|strada]] irlandese  
 
-si narra, per una nuova rinomanza,
+Si racconta per nuova fama  
 
 Come tenemmo le corna del bestiame, e come  
 
@@ -7604,77 +7604,77 @@ Prima che il signore dell'inferno, col corno in fronte,
 
 Sia incoronato nella città di Dublin  
 
-Luce a Oriente e luce a Occidente,
+Luce a Oriente e luce a Occidente,  
 
-e luce sui signori crudeli,
+E luce sui signori crudeli,  
 
-sulle anime che a un tratto ogni uomo conobbe,
+Sulle anime che d'un tratto tutti conobbero,  
 
-e sventolò la [[motifs/flag|bandiera]] verde e sventolò la [[motifs/flag|bandiera]] rossa,
+E la verde [[motifs/flag|bandiera]] volò e la rossa [[motifs/flag|bandiera]] volò,  
 
-e più d'una [[motifs/wheel|ruota]] del mondo si fermò anch'essa,
+E più d'una [[motifs/wheel|ruota]] del mondo si fermò, anch'essa,  
 
-quando il bestiame fu fermato a Swords.
+Quando il bestiame fu fermato a Swords.  
 
-Siano pure peccatori o meno che santi
+Siano peccatori o meno che santi  
 
-coloro che percuotono in strada per rabbia,
+Quelli che colpiscono in strada per rabbia,  
 
-noi sappiamo dove splende viva la vergogna; sappiamo
+Sappiamo dove la vergogna brilla chiara; conosciamo  
 
-voi, che essi colpiscono, voi loro nemico,
+Voi che essi colpiscono, voi loro nemici,  
 
 Signori del salario iniquo e vile.  
 
-questa è la vostra paga legittima.
+Questo è il vostro legittimo salario.  
 
-Spremeste un [[archetypes/child|bambino]] a un prezzo di tortura
+Avete stretto un [[archetypes/child|bimbo]] a un prezzo di tortura  
 
-che non osaste nominare a parole;
+Che non osaste nominare a parole;  
 
-tanto nera beffa era la moneta d'argento
+Sì nero scherzo era la moneta d'argento  
 
 Che la vostra stessa voce tremò per la vergogna  
 
-e il codardo era palese come una vacca percossa
+E il codardo fu palese come una vacca colpita  
 
-quando il bestiame si smarrì a Swords.
+Quando il bestiame si è sbandato a Swords.  
 
 La [[motifs/wheel|ruota]] del tormento delle mogli girò  
 
-per spezzare la fratellanza degli uomini;
+Per spezzare la fratellanza degli uomini;  
 
-deste il buon [[motifs/blood|sangue]] irlandese a ungere
+Deste il buon [[motifs/blood|sangue]] irlandese a ungere  
 
-i randelli dei nemici della vostra patria;
+I randelli dei nemici del vostro paese;  
 
 Vedeste l'uomo prode battuto in ginocchio:  
 
-e vedeste che era cosa buona.
+E vedeste che era cosa buona.  
 
-La fune dei ricchi è lunga, lunga--
+La corda dei ricchi è lunga e lunga--  
 
-la più lunga fra le corde del boia;
+La più lunga delle corde di boia;  
 
 Ma i re e le folle trattengono il respiro,  
 
-in un'[[archetypes/shadow|ombra]] gigante su tutto ciò che sta sotto,
+In una gigantesca [[archetypes/shadow|ombra]] su tutto ciò che sta sotto  
 
-là dove Dio sta reggendo le bilance della [[motifs/death|Morte]]
+Dove Dio sta reggendo le bilance della [[motifs/death|Death]]  
 
-tra il bestiame e Swords.
+Tra il bestiame e Swords.  
 
 Forse i signori che assoldano e prestano,  
 
-i più vili fra tutti i signori degli uomini,
+I più bassi fra i signori degli uomini,  
 
 Che vendono i propri simili come vacche a una fiera.  
 
-non troveranno là un solo capo del loro bestiame;
+Non vi troveranno capo del loro bestiame;  
 
-ma volti di uomini dove c'era bestiame:
+Ma volti d'uomini dove era il bestiame:  
 
-volti di uomini--e Spade.
+Volti d'uomini--e Swords.  
 
 E il nome splendente e terribile,  
 
@@ -8350,7 +8350,7 @@ e più di tutti i venti di tutto il mare
 
 la quieta dolcezza dell'aria angioina.  
 
-LA PIÙ ALTA UNITÀ  
+L'UNITÀ SUPERIORE  
 
 «Il Rev. Isaiah Bunter è scomparso nell'interno  
 
@@ -8664,9 +8664,9 @@ E gridiamo a quelli che si rannicchiano dentro,
 
 I Prigionieri della Fleet.  
 
-UN CANTO DEL SIDRO  
+UNA CANZONE DEL SIDRO  
 
-_To J.S.M._  
+_A J.S.M._  
 
 ESTRATTO DA UN ROMANZO CHE NON È ANCORA  
 
@@ -8802,7 +8802,7 @@ Un solo suono fenderà tutte le lance e spezzerà il fiato della tromba:
 
 Mai rideste in tutta la vita come io riderò nella [[motifs/death|morte]].  
 
-VII
+VII  
 
 BALLATE  
 
@@ -8958,7 +8958,7 @@ La campana di Rabelais oscilla senza suono;
 
 E i venti vengono dall'ovest  
 
-E nutrirò il mio cervello di cose migliori.  
+E nutrono il mio cervello di cose migliori.  
 
 Signore del nostro riso e della nostra rabbia.  
 
@@ -8974,7 +8974,7 @@ L'accidia, e la codardia che s'aggrappa,
 
 E la rigidezza e l'arresto dell'[[motifs/soul|anima]]:  
 
-E nutrirò il mio cervello di cose migliori.  
+E nutri il mio cervello di cose migliori.  
 
 ENVOI  
 
@@ -8984,7 +8984,7 @@ Perciò rifuggo dai cavilli....
 
 Ma farei sopprimere quello spumante  
 
-E nutrirò il mio cervello di cose migliori.  
+E nutrirei il mio cervello di cose migliori.  
 
 UNA BALLATA DEL [[concepts/suicide|SUICIDIO]]  
 

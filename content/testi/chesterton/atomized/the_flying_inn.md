@@ -8632,6 +8632,8445 @@ Joan, with the glow on her dark face, could not prevent herself from replying, �
 “I understand,” said Joan, and kissed her cousin, not without [[motifs/tears|tears]] of her own.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I: UNA PREDICA SULLE OSTERIE
+
+
+Il mare era di un verde pallido e fatato, e il pomeriggio aveva già sentito il tocco fatato della sera quando una giovane donna dai capelli scuri, vestita con un abito artistico di colore rame e dall'aspetto frusciante, camminava piuttosto svogliatamente lungo la passeggiata di Pebblewick-on-Sea, trascinando un ombrello e guardando verso l'orizzonte del mare. Aveva una ragione per guardare istintivamente verso la linea del mare; una ragione che molte giovani donne hanno avuto nella [[concepts/history|storia]] del mondo. Ma non c'era alcuna vela in vista.
+
+
+
+
+Sulla spiaggia sotto il lungomare si susseguivano piccoli gruppi di persone che circondavano gli oratori abituali della località balneare: fossero negri o socialisti, pagliacci o uomini di chiesa. Qui c'era un uomo che faceva qualcosa con delle scatole di cartone; e i turisti lo osservavano per ore nella [[concepts/hope|speranza]] che prima o poi capissero cosa stesse facendo con quelle. Accanto a lui c'era un uomo in cilindro con una [[historical-references/bible|Bibbia]] molto grande e una moglie molto piccola, che stava in silenzio accanto a lui mentre combatteva con il pugno chiuso contro l'eresia del sublapsarianesimo milniano così diffuso nei locali di moda. Non era facile seguirlo, tanto era agitato; ma ogni tanto le parole “i nostri amici sublapsariani” tornavano con una specie di ghigno lamentoso. Poi c'era un giovane che parlava di chissà cosa (lui per primo non lo sapeva), ma apparentemente si affidava principalmente al favore del pubblico grazie a un cerchio di carote attorno al suo cappello. Aveva più soldi davanti a sé degli altri. Poi venivano i negri. Poi un servizio per bambini condotto da un uomo con il collo lungo che batteva il [[motifs/time|ritmo]] con una piccola paletta di legno. Più avanti c'era un ateo, in preda a una rabbia furiosa, che ogni tanto indicava il servizio per bambini e parlava dei più bei fiori della [[concepts/nature|Natura]] corrotti dai [[motifs/secrets|segreti]] dell'[[]L07|Inquisizione spagnola]] - ovviamente da parte dell'uomo con la paletta. L'ateo (che portava una coccarda rossa) era molto sprezzante anche verso il proprio pubblico. “Ipocriti!” diceva; e allora gli lanciavano dei soldi. “Imbroglioni e codardi!” e allora gli lanciavano ancora più soldi. Ma tra l'ateo e il servizio per bambini c'era un ometto con un fez rosso, che agitava debolmente un ombrello verde. Il suo viso era bruno e rugoso come una noce, il naso era di quel tipo che associamo alla Giudea, la barba era quella specie di cuneo nero che piuttosto associamo alla Persia. La giovane donna non l'aveva mai visto prima; era una nuova attrazione nel museo ormai familiare dei pazzi e degli imbroglioni. La giovane donna era una di quelle persone in cui un vero senso dell'[[]L09|umorismo]] è sempre in conflitto con una certa tendenza temperamentale alla noia o alla malinconia; e rimase lì un momento, appoggiata al corrimano ad ascoltare.
+
+
+
+
+Ci vollero ben quattro minuti prima che riuscisse a capire una sola parola di quello che l'uomo stava dicendo; parlava inglese con un accento così straordinario che all'inizio pensò che stesse parlando nella sua lingua orientale. Tutti i suoni di quell'articolazione erano insoliti; il più evidente era una prolungata trasformazione della breve “u” in “oo”; come in “poo-oot” per “put”. Gradualmente la ragazza si abituò al dialetto e cominciò a capire le parole, sebbene trascorresse ancora qualche [[motifs/time|tempo]] prima che potesse farsi un'idea del loro contenuto. Alla fine le sembrò di capire che aveva una fissazione sull'idea che la civiltà inglese fosse stata fondata dai Turchi; o forse dai Saraceni dopo la loro vittoria nelle [[historical-references/crusades|Crociate]]. Sembrava anche pensare che gli inglesi sarebbero presto tornati a questo modo di pensare e sembrava insistere sulla diffusione del teetotalismo come prova di ciò. La ragazza era l'unica persona ad ascoltarlo.
+
+
+
+
+“G-guardi”, disse, agitando un dito bruno ricurvo, “g-guardi le sue stesse osterie” (che pronunciava come “ince”). “Le sue osterie di cui scrive nei suoi l-libri! Queste osterie non furono m-messe su all'inizio per vendere la bevanda cristiana alcolica. Furono messe su per vendere le bevande islamiche non alcoliche. Può vederlo dai nomi delle sue osterie. Sono nomi orientali, asiatici. Ha una famosa taverna pubblica a cui i suoi autobus fanno pellegrinaggio. Si chiama l'Elefante e la [[settings/castle|rocca]]. Non è un nome inglese. È un nome asiatico. Dirà che ci sono rocche in Inghilterra, e sarò d'accordo con lei. C'è la [[settings/castle|rocca]] di Windsor. Ma dove”, gridò severamente, agitando il suo ombrello verde contro la ragazza in un trionfo oratorio arrabbiato, “dove è l'Elefante di Windsor? Ho cercato tutto il parco di Windsor. Nessun elefante.”
+
+
+
+
+La ragazza dai capelli scuri sorrise e cominciò a pensare che quell'uomo fosse migliore di tutti gli altri. In conformità al singolare sistema di sovvenzioni religiose concorrenti che prevale nei luoghi di villeggiatura, lasciò una moneta da due scellini nel vassoio rotondo di rame accanto a lui. Con onorevole e disinteressata sollecitudine, il vecchio signore col fez rosso non diede alcuna importanza a ciò, ma continuò con calore, sebbene in modo oscuro, la sua argomentazione.
+
+
+
+
+"Quindi avete un posto dove bere in questa città che chiamate The Bool!"
+
+
+
+
+«In genere lo chiamiamo il Toro», disse la giovane interessata con una voce molto melodiosa.
+
+
+
+
+«Avete un posto dove bere che chiamate The Bool», ripeté con una specie di furia astratta «e certamente vedete quanto tutto ciò sia davvero ridicolo!»
+
+
+
+
+«No, no!», disse la ragazza dolcemente e con tono di rimprovero.
+
+
+
+
+“Perché dovrebbe esserci un Bue?” esclamò, prolungando la parola alla sua maniera. “Perché dovrebbe esserci un Bue in relazione con un luogo festoso? Chi pensa a un Bue nei giardini del piacere? Che bisogno c'è di un Bue quando guardiamo le fanciulle dai colori dei tulipani [[motifs/dance|danzare]] o versiamo lo sciroppo frizzante? Voi stessi, amici miei?” E guardò intorno raggiante, come se si rivolgesse a una folla enorme. “Voi stessi avete un proverbio: ‘Non è calcolato per promuovere la prosperità avere un Bue in una bottega di porcellane.’ Allo stesso modo, amici miei, non sarebbe calcolato per promuovere la prosperità avere un Bue in un'osteria. Tutto questo è chiaro.”
+
+Piantò l'ombrello dritto nella sabbia e batté un dito contro l'altro, come un uomo che finalmente si mette all'opera.
+
+
+
+
+«È chiaaro come il sole a [[motifs/noon|mezzogiorno]]», disse solennemente. «È chiaaro come il sole a [[motifs/noon|mezzogiorno]] che questa parola Bull, la quale è priva di associazioni riposanti e piacevoli, non è se non la corruzione di un'altra parola, che possiede associazioni riposanti e piacevoli. La parola non è Bull; è il Bul-Bul!» La sua voce [[motifs/rose|si levò]] d'un tratto come una tromba, ed egli allargò le mani come i ventagli di una palma tropicale.
+
+
+
+
+Dopo questo grande effetto si fece un poco più sommesso e si appoggiò gravemente all'ombrello. «Troverete la stessa traccia di nomenclatura asiatica nei nomi di tutte le vostre locande inglesi», proseguì. «Anzi, la troverete, ne sono quasi certo, in tutti i vostri termini in qualche modo connessi con i vostri bagordi e i vostri riposi. Ma come, miei buoni amici, il nome stesso di quello spirito insidioso con cui rendete forti le vostre bevande è una parola araba: alcool. È evidente, non è vero, che questo è l'articolo arabo «Al», come in Alhambra, come in Algebra; e non occorre soffermarci qui a inseguirne le molte apparizioni in connessione con le vostre istituzioni festive, come nella vostra birra Alsop, nel vostro Ally Sloper, e nella vostra istituzione in parte gioiosa dell'Albert Memorial. Soprattutto, nel vostro più grande giorno di festa – il vostro giorno di Natale – che così erroneamente supponete essere connesso con la vostra religione, che cosa dite allora? Dite i nomi delle Nazioni cristiane? Dite: «Prenderò un po' di Francia. Prenderò un po' d'Irlanda. Prenderò un po' di Scozia. Prenderò un po' di Spagna»? No-o.» E il rumore della negazione pareva tentennare come fa il belato di una pecora. «Voi dite: «Prenderò un po' di Turchia», che è il vostro nome per il Paese del Servo del [[archetypes/prophet|Profeta]]!»
+
+
+
+
+E ancora una volta tese sublimemente le braccia a oriente e a occidente e si appellò alla terra e al cielo. La giovane donna, guardando con un sorriso l'orizzonte verde-mare, batté piano le mani inguantate di grigio come a una perorazione. Ma il vecchietto col fez era ancora ben lungi dall'essere esausto.
+
+
+
+
+«In risposta a ciò voi obietterete–» cominciò.
+
+
+
+
+«Oh no, no», sussurrò la giovane donna in una sorta di sognante rapimento. «Non obietto. Non obietto nemmeno un pochino!»
+
+
+
+
+«In risposta a ciò voi obietterete–» proseguì il suo precettore, «che alcune locande sono in effetti chiamate col nome dei simboli delle vostre superstizioni nazionali. Vi affretterete a farmi notare che la Golden [[motifs/cross|Cross]] sorge di fronte a Charing [[motifs/cross|Cross]], e vi dilungherete a lungo su [[archetypes/king|King]]’s [[motifs/cross|Cross]], Gerrard’s [[motifs/cross|Cross]] e le molte croci che si trovano a [[settings/london|Londra]] o presso di essa. Ma non dovete dimenticare», e qui agitò con malizia l'ombrello verde verso la ragazza, come se stesse per punzecchiarla, «nessuno di voi, amici miei, deve dimenticare quanto gran numero di Crescents vi siano a [[settings/london|Londra]]! [[settings/denmark|Denmark]] Crescent; Mornington Crescent! St. Mark's Crescent! St. George's Crescent! Grosvenor Crescent! Regent's Park Crescent! Anzi, Royal Crescent! E perché dovremmo dimenticare Pelham Crescent? Perché mai? Ovunque, io dico, si rende omaggio al sacro simbolo della religione del [[archetypes/prophet|Profeta]]! Comparate con questa rete e questo intreccio di mezzelune, questa [[motifs/city|città]] quasi tutta composta di mezzelune, la scarna schiera di croci, che restano ad attestare la effimera superstizione verso la quale foste, per un debole istante, inclini.»
+
+
+
+
+Le folle sulla spiaggia si diradavano rapidamente man mano che si avvicinava l'ora del [[motifs/time|tè]]. L'occidente si faceva sempre più limpido con la sera, finché la luce del sole parve essersi collocata dietro il pallido mare verde e brillare attraverso di esso, come attraverso una parete di sottile vetro verde. La trasparenza stessa del cielo e del mare poteva forse offrire a questa fanciulla, per la quale il mare era il romanzo e la [[forms/tragedy|tragedia]], il presagio di una sorta di raggiante disperazione. La marea fatta di un milione di smeraldi rifluiva lenta come il sole calava: ma il [[motifs/river|fiume]] dell'umana insensatezza scorreva senza fine.
+
+
+
+
+«Non sosterrò neppure per un istante», disse il vecchio signore, «che non vi siano difficoltà nella mia tesi; o che tutti gli esempi siano tanto ovviamente veri quanto quelli che ho or ora dimostrato. No-o. È evidente, diciamo, che il «Saracen's Head», la «Testa del Saraceno», è una corruzione della storica [[concepts/truth|verità]] «il Saraceno è in Testa» – sono ben lontano dal dire che sia ugualmente evidente che il «Green Dragon», il «Drago Verde», fosse in origine «l'Accordante Dragomanno»; per quanto io [[concepts/hope|speri]] di dimostrarlo nel mio libro. Dirò soltanto qui che è si-icuramente più probabile che colui il quale si spii-inge avanti per attrarre il viandante nel [[motifs/desert|deserto]], si paragoni a una guida o a un corriere amichevole e persuasibile, piuttosto che a un vorace [[archetypes/monster|mostro]]. Talvolta la vera origine è assai difficile da rintracciare; come nella locanda che commemora il nostro grande Guerriero Musulmano, Amir Ali Ben Bhoze, che voi avete così bizzarramente abbreviato in Admiral Benbow. Talvolta è persino più difficile per chi cerca la [[concepts/truth|verità]]. Vi è un luogo di mescita qui vicino chiamato «La Vecchia [[motifs/ship|Nave]]»–»
+
+
+
+
+Gli occhi della fanciulla rimanevano fissi sull'anello dell'orizzonte, rigidi quanto l'anello stesso; ma tutto il suo volto si era acceso e trasformato. Le sabbie erano ormai quasi deserte: l'ateo era tanto inesistente quanto il suo Dio; e quanti avevano sperato di sapere che cosa si stesse facendo alle scatole di cartone se n'erano andati a prendere il tè senza saperlo. Ma la giovane donna era ancora appoggiata alla ringhiera. Il suo volto era d'un tratto vivo; e pareva che il suo [[concepts/body|corpo]] non potesse muoversi.
+
+
+
+
+«Bisoogna ammettere–» belò il vecchio con l'ombrello verde, «che non vi è alcuna traccia letteralmente [[concepts/self|auto]]-evidente della nomenclatura asiatica nelle parole «la vecchia [[motifs/ship|nave]]». Ma anche qui il cerca-atore della [[concepts/truth|Verità]] può meettersi in contatto coi fatti. Ho interrogato il proprietario della «Vecchia [[motifs/ship|Nave]]» che è, secondo gli appunti che ho conservato, un certo signor Pumph.»
+
+
+
+
+Il labbro della fanciulla tremò.
+
+«Povero vecchio Hump!» disse. «Ma guarda, me n'ero dimenticata. Dev'essere quasi tanto in pena quanto me! [[concepts/hope|Spero]] che quest'uomo non voglia essere troppo sciocco a proposito di questo! Preferirei che non riguardasse proprio questo!»
+
+
+
+
+«E il signor Pumph mi diss-e che la locanda fu battezzata da un suo amico assai in-timo, un irlandese che era stato Capitano nella Marina Reale britannica, ma aveva rassegnato il suo in-carico per sdegno del trattamento riservato all'Irlanda. Pur lasciando il servizio, conservò appena a suf-ficienza della superstizione dei vostri marinai d'occidente da desiderare che la locanda dell'amico portasse il nome della sua vecchia [[motifs/ship|nave]]. Ma poiché il nome della [[motifs/ship|nave]] era 'Il Regno Unito—'»
+
+
+
+
+La sua allieva, se non si poteva dire esattamente che sedesse ai suoi piedi, senza dubbio si sporgeva assai avidamente sopra il suo capo. In mezzo alla [[concepts/solitude|solitudine]] delle sabbie ella gridò con voce alta e chiara: «Sapete dirmi il nome del Capitano?»
+
+
+
+
+Il vecchio signore sobbalzò, sbatté le palpebre e fissò come una civetta spaventata. Avendo parlato per ore come se avesse un uditorio di migliaia, parve d'un tratto assai imbarazzato di scoprire che aveva persino un uditorio di uno solo. A questo [[motifs/time|momento]] sembravano ormai le uniche creature umane lungo la riva; quasi le uniche creature viventi, salvo i gabbiani. Il sole, calando finalmente, pareva essersi spaccato come potrebbe spaccarsi un'arancia [[motifs/blood|sanguigna]]; e linee di luce rosso-[[motifs/blood|sangue]] si erano sparse lungo i cieli fessi, bassi e piatti. Questo brusco e tardivo splendore tolse ogni colore al berretto rosso e all'ombrello verde dell'uomo; ma la sua scura figura, netta contro il mare e il tramonto, restava la stessa, salvo che era più agitata di prima.
+
+
+
+
+«Il nome», disse, «il nome del Capitano. Io... io ho inteso che fosse Dalroy. Ma ciò che desidero indicare, ciò che desidero esporre, è che anche qui il cercatore della [[concepts/truth|verità]] può trovare la connessione delle sue idee. Mi fu spiegato dal signor Pumph ch'egli stava riordinando il luogo di festa, in proporzione non trascurabile a causa del previsto ritorno del Capitano in questione, il quale, a quanto pareva, aveva preso servizio in una Marina non molto grande, ma l'aveva lasciata e stava tornando a [[motifs/home|casa]]. Ora, notate bene, tutti voi, amici miei», disse ai gabbiani, «che anche qui la catena della logica tiene.»
+
+
+
+
+Lo disse ai gabbiani perché la giovane dama, dopo averlo fissato un istante con occhi trasognati ed essersi appoggiata pesantemente alla ringhiera, gli aveva voltato le spalle ed era rapidamente scomparsa nel crepuscolo. Dopo che i suoi passi frettolosi si furono spenti, non vi fu altro rumore che il fievole ma possente fusciare del mare ormai lontano, l'occasionale strido di un uccello marino e il suono ininterrotto di un soliloquio.
+
+
+
+
+«Notate, tutti voi», proseguì l'uomo agitando il suo ombrello verde così furiosamente che quasi si spalancò come una verde [[motifs/flag|bandiera]] spiegata, e poi piantandolo a fondo nella sabbia, nella sabbia in cui i suoi padri guerrieri avevano così spesso piantato le loro tende, «notate tutti voi questo fatto meraviglioso! Che quando, essendo per un [[motifs/time|tempo]], per un [[motifs/time|tempo]], stupito-imbarazzato—colto, come direste voi, alla sprovvista—dall'assenza di qualsiasi prova assoluta di influenza orientale nella frase 'la vecchia [[motifs/ship|nave]]', domandai da quale paese il Capitano stesse tornando, il signor Pumph mi disse con solennità: 'Dalla Turchia.' Dalla Turchia! Dal più vicino paese della Religione! So che gli uomini dicono che non è il nostro paese; che nessuno sa da dove veniamo, quale sia il nostro paese. Che importa da dove veniamo, se rechiamo un messaggio dal Paradiso? Con un gran galoppare di cavalli lo rechiamo, e non abbiamo [[motifs/time|tempo]] di fermarci nei luoghi. Ma ciò che portiamo è l'unico credo che abbia riguardato quella che voi chiamereste, con le vostre grandi parole, la verginità della ragione di un uomo, che non ha posto nessun uomo più in alto di un [[archetypes/prophet|profeta]], e ha rispettato la [[concepts/solitude|solitudine]] di Dio.»
+
+
+
+
+E di nuovo spalancò le braccia, come rivolgendosi a un'adunata di milioni, tutto solo sull'oscura riva del mare.
+
+CAPITOLO II: LA FINE DELL'ISOLA DEGLI ULIVI
+
+
+Il grande drago marino dai colori cangianti che si contorce attorno al mondo come un camaleonte era di un verde pallido là dove lambiva Pebblewick, ma di un azzurro intenso là dove si frangeva sulle Isole Ionie. Uno degli innumerevoli isolotti, poco più di una piatta roccia bianca nella distesa cerulea, era celebre come l'Isola degli Ulivi; non perché fosse ricca di simile vegetazione, ma perché, per qualche capriccio del suolo o del clima, due o tre piccoli ulivi vi crescevano a un'altezza senza pari. Persino nel pieno calore del Sud è assai raro che un ulivo cresca più alto di un piccolo pero; ma i tre ulivi che si ergevano come segnali su quel luogo sterile avrebbero [[motifs/well|ben]] potuto essere scambiati, se non fosse per la forma, per pini o larici del nord di media grandezza. Era inoltre legata a qualche antica leggenda greca su Pallade, patrona dell'ulivo; poiché tutto quel mare era vivo del primo paese fatato dell'Ellade; e dalla piattaforma di marmo sotto gli ulivi si poteva scorgere il grigio profilo di Itaca.
+
+
+
+
+Sull'isola e sotto gli alberi era disposto un tavolo all'aperto, coperto di carte e di calamai. Al tavolo sedevano quattro uomini, due in uniforme e due in semplici abiti neri. Aiutanti di campo, scudieri e persone simili stavano riuniti in gruppo sullo sfondo; e dietro di loro una fila di due o tre silenziose navi da guerra giaceva lungo il mare. Poiché si stava dando la pace all'Europa.
+
+
+
+
+Era appena giunta al termine la lunga agonia di uno dei molti sforzi infruttuosi di spezzare la potenza della Turchia e salvare le piccole tribù cristiane. Vi erano stati molti altri incontri di questo genere nelle fasi più tarde della vicenda, man mano che, l'una dopo l'altra, le nazioni minori rinunciavano alla lotta, o le nazioni maggiori intervenivano per costringerle. Ma le parti interessate si erano ormai ridotte a queste quattro. Poiché le Potenze d'Europa, essendo interamente concordi sulla necessità di una pace su basi turche, si accontentavano di lasciare le ultime trattative all'Inghilterra e alla [[settings/germany|Germania]], alle quali si poteva affidare il compito di imporla; c'era un rappresentante del Sultano, naturalmente; e c'era un rappresentante del solo nemico del Sultano che non fosse ancora venuto a patti.
+
+
+
+
+Poiché una sola minuscola potenza aveva da sola condotto la guerra mese dopo mese, con una tenacia e un successo temporaneo che ogni mattina erano un nuovo prodigio di breve durata. Un oscuro e appena riconosciuto principe che si faceva chiamare il [[archetypes/king|Re]] di Itaca aveva riempito il Mediterraneo orientale di imprese non indegne dell'audace parallelo suggerito dal nome della sua isola. I poeti non potevano fare a meno di chiedersi se non fosse Odisseo tornato di nuovo; i greci patrioti, anche se essi stessi erano stati costretti a deporre le armi, non potevano fare a meno di sentirsi curiosi di sapere quale stirpe o nome greco vantasse la nuova ed eroica casa reale. Fu dunque con un certo divertimento che il mondo scoprì infine che il discendente di [[characters/ulysses|Ulisse]] era uno sfacciato avventuriero irlandese di nome Patrick Dalroy; il quale era stato un tempo nella Marina inglese, si era cacciato in una lite a causa delle sue simpatie feniane e aveva rassegnato il proprio grado. Da allora aveva conosciuto molte avventure sotto molte uniformi; e sempre aveva cacciato sé stesso o qualcun altro in una brutta [[motifs/water|situazione]] con una straordinaria mescolanza di cinismo e donchisciottismo. Nel suo fantastico piccolo regno, naturalmente, era stato Generale di sé stesso, Ammiraglio di sé stesso, Ministro degli Esteri di sé stesso e Ambasciatore di sé stesso; ma aveva sempre cura di seguire i desideri del suo popolo negli aspetti essenziali della pace e della guerra; e fu per loro incarico che era venuto a deporre infine la sua spada. Oltre alla sua abilità professionale, era celebre soprattutto per la sua enorme forza fisica e statura. È usanza dei giornali oggigiorno affermare che la mera potenza muscolare barbarica sia priva di valore nelle azioni militari moderne, ma questa opinione può essere tanto esagerata quanto la sua opposta. In guerre come queste del Vicino Oriente, dove intere popolazioni sono armate alla leggera e l'assalto personale è comune, un capo che sappia difendere la propria testa ha spesso un vantaggio reale; e non è vero, nemmeno in senso generale, che la forza non serva a nulla. Ciò fu ammesso da Lord Ivywood, il Ministro inglese, il quale stava illustrando in dettaglio a [[archetypes/king|Re]] Patrick la disperata superiorità del leggero modello di cannone da campo turco; e il [[archetypes/king|Re]] di Itaca, osservando di esserne del tutto convinto, disse che se lo sarebbe portato via con sé, e fuggì tenendolo sotto il braccio. Ciò sarebbe stato riconosciuto dal più grande dei guerrieri turchi, il terrificante Oman Pascià, ugualmente famoso per il suo [[concepts/courage|coraggio]] in guerra e per la sua crudeltà in pace; ma che portava sulla fronte una cicatrice inferta dalla spada di Patrick, avuta dopo tre ore di combattimento mortale — e avuta senza rancore né vergogna, sia detto, poiché il turco dà sempre il meglio di sé in quel gioco. Né la qualità sarebbe messa in dubbio dal signor Hart, un amico finanziere del Ministro tedesco, che Patrick Dalroy, dopo avergli chiesto in quale delle sue finestre anteriori preferisse essere scagliato, gettò nella [[motifs/window|finestra]] della sua camera da letto al primo piano con un'esattezza così premurosa che egli atterrò sul letto, dove si trovava in posizione di ricevere ogni cura medica. Ma, a conti fatti, un solo muscoloso gentiluomo irlandese su un'isola non può combattere tutta l'Europa in eterno, ed egli venne, con una sorta di cupo buon umore, a offrire i termini ora dettatigli dal suo paese d'adozione. Non poteva nemmeno atterrare tutti i diplomatici (cosa per cui possedeva sia il potere sia l'inclinazione), poiché comprendeva, con la parte più equa della sua mente, che essi non facevano che obbedire agli ordini, come lui. Così sedeva pesantemente e sonnolentemente al piccolo tavolo, nell'uniforme verde e bianca della Marina di Itaca (inventata da lui stesso); un uomo grosso come un toro, mostruosamente giovane per la sua mole, con un collo taurino e due occhi azzurri da toro per occhi, e capelli rossi che si drizzavano dal suo cranio con tale fermezza da sembrare che la sua testa avesse preso [[motifs/fire|fuoco]]: come qualcuno diceva fosse accaduto.
+
+
+
+
+La persona più imponente presente era il grande Oman Pascià in persona, con il suo volto forte scarnificato dall'ascetismo della guerra, i capelli e i baffi che parevano più folgorati dal [[motifs/lightning|fulmine]] che imbiancati dall'età; un fez rosso in capo, e tra il fez rosso e i baffi, una cicatrice che il [[archetypes/king|Re]] di Itaca non guardava. I suoi occhi avevano una spaventosa mancanza di espressione.
+
+Lord Ivywood, il ministro inglese, era probabilmente l'uomo più bello d'Inghilterra, se non fosse che era quasi privo di colore sia nei capelli sia nella carnagione. Contro quel mare di marmo azzurro avrebbe potuto quasi essere una di quelle antiche statue marmoree che sono impeccabili nella linea ma non mostrano se non sfumature di grigio o di bianco. Sembrava mera questione di fortuna della luce se i suoi capelli apparissero argento spento o bruno pallido; e la sua splendida maschera non mutava mai né di colore né d'espressione. Era uno degli ultimi tra i vecchi oratori parlamentari; eppure era probabilmente un uomo relativamente giovane; sapeva far sbocciare in [[concepts/beauty|bellezza]] verbale qualunque cosa avesse da menzionare; eppure il suo volto restava morto mentre le sue labbra erano vive. Aveva certe piccole maniere all'antica, come uscite dai vecchi Parlamenti; per esempio, si alzava sempre in piedi, come in un Senato, per parlare a quegli altri tre uomini, soli su uno scoglio in mezzo all'oceano.
+
+
+
+
+In tutto questo egli appariva forse più personale in contrasto con l'uomo che gli sedeva accanto, il quale non parlava mai ma il cui volto pareva parlare per lui. Era il dottor Gluck, il ministro tedesco, il cui volto non aveva nulla di tedesco; né la visione tedesca né il [[motifs/sleep|sonno]] tedesco. Il suo volto era vivido come una fotografia dai colori accesi e mutava come un cinematografo: ma le sue labbra scarlatte non si muovevano mai a parlare. I suoi occhi a mandorla parevano brillare di tutti i fuochi cangianti dell'opale; i suoi piccoli baffi neri e arricciati parevano talvolta quasi rizzarsi di nuovo, come una nera serpe viva; ma da lui non veniva alcun suono. Pose un foglio davanti a Lord Ivywood. Lord Ivywood prese un paio di occhiali per leggerlo, e per quell'atto parve invecchiato di dieci anni.
+
+
+
+
+Era semplicemente un elenco dell'ordine del giorno; delle poche ultime cose da definire in quest'ultima conferenza. Il primo punto recitava:
+
+
+
+
+«L'ambasciatore itacese chiede che le fanciulle condotte negli harem dopo la presa di Pilo siano restituite alle loro famiglie. Ciò non può essere concesso.» Lord Ivywood si [[motifs/rose|alzò]]. La sola [[concepts/beauty|bellezza]] della sua voce sorprese chiunque non l'avesse mai udita prima.
+
+
+
+
+«Eccellenze e signori,» disse, «una dichiarazione alla cui politica in nessun modo aderisco, ma al cui rango storico non potrei concepibilmente aspirare, vi ha reso familiare una formula sulla pace con [[concepts/honour|onore]]. Ma quando dobbiamo celebrare una pace tra soldati così storici come Oman Pascià e Sua Maestà il [[archetypes/king|Re]] d'Itaca, penso che possiamo dire che si tratta di pace con gloria.»
+
+
+
+
+Si arrestò per mezzo istante; eppure persino il [[motifs/silence|silenzio]] del mare e della roccia pareva colmo d'un applauso moltitudinario, tanto perfettamente erano state pronunciate le parole.
+
+
+
+
+«Penso che tra noi vi sia un solo pensiero, quali che siano state le nostre molte giuste obiezioni durante questi lunghi ed estenuanti mesi di trattative–penso che vi sia un solo pensiero ora. Che la pace possa essere piena quanto la guerra–che la pace possa essere intrepida quanto la guerra.»
+
+
+
+
+Ancora una volta si arrestò un istante; e sentì un [[characters/phantom|fantasma]] d'applauso, per così dire, non dalle mani ma dalle teste degli uomini. Proseguì.
+
+
+
+
+«Se dobbiamo cessare di combattere, possiamo certo cessare di mercanteggiare. Una prescrizione o, se volete, un'amnistia è di certo cosa opportuna quando una pace tanto [[concepts/sublime|sublime]] suggella una lotta tanto [[concepts/sublime|sublime]]. E se vi è qualcosa in cui un vecchio diplomatico possa consigliarvi, direi con la massima fermezza questo: che non vi sia alcun nuovo turbamento di qualunque vincolo amichevole o domestico si sia formato durante questo [[motifs/time|tempo]] travagliato. Ammetto d'essere abbastanza all'antica da ritenere ogni ingerenza nella vita interiore della famiglia un precedente di non piccolo pericolo. Né sarò così illiberale da non estendere alle antiche usanze dell'[[historical-references/islam|Islam]] ciò che estenderei alle antiche usanze del [[historical-references/christianity|Cristianesimo]]. Ci è stata sottoposta la proposta d'intraprendere una rinnovata guerra di recriminazioni sul fatto che certe donne abbiano lasciato le loro case con o senza il proprio consenso. Non concepisco controversia più pericolosa da avviare o più impossibile da concludere. Oserò dire che esprimo il pensiero di tutti voi, quando dico che, quali che siano i torti commessi dall'una o dall'altra parte, le case, i matrimoni, gli assetti familiari di questo grande Impero Ottomano rimarranno quali sono oggi.»
+
+
+
+
+Nessuno si mosse tranne Patrick Dalroy, che per un momento posò la mano sull'elsa della sua spada e li guardò tutti con occhi sbarrati; poi la mano gli ricadde ed egli rise forte e all'improvviso.
+
+
+
+
+Lord Ivywood non se ne diede per inteso, ma riprese il foglio dell'ordine del giorno, e di nuovo inforcò gli occhiali che lo facevano parere più vecchio. Lesse il secondo punto–inutile dirlo, non ad alta voce. Il ministro tedesco dal volto tutt'altro che tedesco aveva scritto per lui questa nota:
+
+
+
+
+«Sia Coote sia i Bernstein insistono che ci vogliono dei Cinesi per il marmo. Dei Greci non ci si può fidare nelle cave, per ora.»
+
+
+
+
+«Ma per quanto,» proseguì Lord Ivywood, «noi [[motifs/desire|desideriamo]] che queste istituzioni fondamentali, come la famiglia musulmana, rimangano quali sono anche in questo momento, non acconsentiamo alla stagnazione sociale. Né diciamo neppure per un istante che la grande tradizione dell'[[historical-references/islam|Islam]] sia capace da sola di sostenere le necessità del Vicino Oriente. Ma domanderei seriamente alle vostre Eccellenze: perché dovremmo essere così presuntuosi da supporre che l'unico rimedio per il Vicino Oriente sia di necessità il Vicino Occidente? Se occorrono idee nuove, se occorre [[motifs/blood|sangue]] nuovo, non sarebbe più naturale appellarsi a quelle civiltà più vive, più laboriose, che formano la vasta riserva dell'[[settings/orient|Oriente]]? L'Asia in Europa, se il mio amico Oman Pascià mi permette la critica, è stata finora Asia in armi. Non potremmo forse vedere l'Asia in Europa e nondimeno l'Asia in pace? Queste, almeno, sono le ragioni che mi inducono ad acconsentire a un piano di colonizzazione.»
+
+
+
+
+Patrick Dalroy balzò in piedi, tirandosi su dal suo posto aggrappandosi a un ramo d'olivo sopra il capo. Si sostenne posando una mano sul tronco dell'albero, e semplicemente li fissò tutti. Cadde su di lui l'enorme impotenza della mera forza fisica. Poteva gettarli in mare; ma a che sarebbe servito? Altri uomini della parte sbagliata sarebbero stati accreditati alla campagna diplomatica; e l'unico uomo della parte giusta sarebbe stato screditato per qualsiasi cosa. Scosse l'olivo ramoso sopra di sé nella sua furia. Ma non turbò neppure per un istante Lord Ivywood, che aveva appena letto il terzo punto del suo ordine del giorno privato («Oman Pascià insiste sulla distruzione dei vigneti») ed era a questo [[motifs/time|tempo]] impegnato in una perorazione che in seguito divenne famosa e si può trovare in molti manuali e prontuari di retorica. Ne era [[motifs/well|ben]] addentro prima che la rabbia e lo [[concepts/wonder|stupore]] di Dalroy gli permettessero di seguire le parole.
+
+«… non dobbiamo forse nulla,» stava dicendo il diplomatico «a quel gesto di sublime rifiuto con cui, tanti secoli fa, il grande mistico arabo allontanò dalle proprie labbra la coppa del vino? Non dobbiamo forse nulla alla lunga veglia di una razza valorosa, al lungo digiuno con cui essa ha testimoniato contro la velenosa [[concepts/beauty|bellezza]] della Vite? La nostra è un'epoca in cui gli uomini giungono sempre più a comprendere che i credi custodiscono tesori gli uni per gli altri, che ogni religione ha un segreto per la sua vicina, che [[concepts/faith|fede]] a [[concepts/faith|fede]] tramanda parola, e chiesa a chiesa rivela conoscenza. Se è vero, e invoco ancora l'indulgenza di Oman Pascià quando dico che credo sia vero, che noi dell'Occidente abbiamo recato qualche luce all'[[historical-references/islam|Islam]] riguardo alla preziosità della pace e dell'ordine civile, non possiamo forse dire che l'[[historical-references/islam|Islam]] in cambio ci darà pace in mille case, e ci incoraggerà ad abbattere quella maledizione che tanto ha fatto per ostacolare e render folli le virtù della Cristianità occidentale? Già nel mio stesso paese le orge che rendevano orribili le notti delle più nobili famiglie non esistono più. Già il legislatore prende misure sempre più radicali per liberare il popolo dalla schiavitù della droga che tutto distrugge. Di certo il [[archetypes/prophet|profeta]] della Mecca sta mietendo la sua messe; la cessione dei vigneti contesi al più grande dei suoi campioni è, fra tutti gli atti, il più appropriato a questo giorno; a questo felice giorno che potrà ancora liberare l'Oriente dalla maledizione della guerra e l'Occidente dalla maledizione del vino. Il valoroso principe che qui finalmente ci incontra, per offrire un ramo d'ulivo ancor più glorioso della sua spada, [[motifs/well|ben]] può avere la nostra simpatia se egli stesso guarda alla cessione con qualche rammarico sentimentale; ma ho pochi [[concepts/doubt|dubbi]] che anch'egli vivrà per rallegrarsene alla fine. E vorrei ricordarvi che non è la vite soltanto a essere stata il segno della gloria del Sud. Vi è un altro albero sacro, non macchiato da memorie licenziose e violente, innocente del [[motifs/blood|sangue]] di Penteo o di Orfeo e della lira spezzata. Fra breve ce ne andremo da questo luogo, come tutte le cose passano e periscono:
+
+
+
+
+Lontano chiamate, le nostre flotte si dissolvono.
+
+
+
+
+Su duna e promontorio si spegne il [[motifs/fire|fuoco]],
+
+
+
+
+E tutta la nostra pompa di ieri
+
+
+
+
+È tutt'uno con Ninive e Tiro.
+
+
+«Ma finché il sole potrà splendere e il suolo nutrire, uomini e donne più felici di noi guarderanno questo grazioso isolotto ed esso racconterà la propria storia; poiché vedranno questi tre sacri ulivi levati in eterna benedizione, sopra l'umile luogo da cui venne la pace del mondo.»
+
+
+
+
+Gli altri due uomini fissavano Patrick Dalroy; la sua mano si era stretta sull'albero, e un gigantesco flutto di sforzo percorse il suo ampio petto. Una piccola pietra schizzò fuori dal terreno ai piedi dell'albero come una cavalletta che salta; e allora le radici avvolte dell'ulivo [[motifs/rose|si sollevarono]] assai lentamente dalla terra come le membra di un drago che si leva dal [[motifs/sleep|sonno]].
+
+
+
+
+«Offro un ramo d'ulivo,» disse il [[archetypes/king|Re]] di Itaca, reggendo con passo malfermo l'albero sradicato così che la sua vasta [[archetypes/shadow|ombra]], assai più grande di esso, cadde sull'intero consiglio. «Un ramo d'ulivo,» ansimò, «più glorioso della mia spada. E anche più pesante.»
+
+
+
+
+Poi fece un altro sforzo e lo gettò nel mare sottostante.
+
+
+
+
+Il tedesco, che tedesco non era, aveva alzato il braccio in apprensione quando l'[[archetypes/shadow|ombra]] gli era caduta addosso. Ora si alzò e si scostò dal tavolo; vedendo che il selvaggio irlandese stava sradicando il secondo albero. Questo venne via più facilmente; e prima di scagliarlo dietro al primo, rimase un momento a reggerlo; simile a un uomo che giocoli con una torre.
+
+
+
+
+Lord Ivywood mostrò maggiore fermezza; ma si [[motifs/rose|levò]] in tremenda protesta. Solo il pascià turco sedeva ancora con occhi vacui, immobile. Dalroy strappò l'ultimo albero e lo scagliò, lasciando l'isola spoglia.
+
+
+
+
+«Ecco!» disse Dalroy, quando il terzo e ultimo ulivo fu piombato con un tonfo nella marea. «Ora me ne andrò. Ho visto oggi qualcosa che è peggiore della [[motifs/death|morte]]: e il suo nome è Pace.»
+
+
+
+
+Oman Pascià si [[motifs/rose|alzò]] e tese la mano.
+
+
+
+
+«Avete ragione,» disse in francese, «e [[concepts/hope|spero]] che ci incontreremo di nuovo nell'unica vita che sia una vita buona. Dove andate ora?»
+
+
+
+
+«Vado,» disse Dalroy, sognante, «alla "Vecchia [[motifs/ship|Nave]]".»
+
+
+
+
+«Volete dire,» chiese il turco, «che ritornate alle navi da guerra del [[archetypes/king|Re]] d'Inghilterra?»
+
+
+
+
+«No,» rispose l'altro, «ritorno alla "Vecchia [[motifs/ship|Nave]]" che sta dietro i meli presso Pebblewick; dove l'Ule scorre tra gli alberi. [[concepts/fear|Temo]] che non vi vedrò mai laggiù.»
+
+
+
+
+Dopo un istante d'esitazione strinse la rossa mano del grande [[archetypes/tyrant|tiranno]] e si avviò alla sua barca senza uno sguardo ai diplomatici.
+
+CAPITOLO III: L'INSEGNA DELLA «VECCHIA [[motifs/ship|NAVE]]»
+
+
+A pochi tra i figli degli uomini è toccato in sorte il cognome di Pump, e di questi pochi taluni sono stati spinti fino alla follia di aggiungervi, battezzando un [[archetypes/child|bambino]], anche il nome di Humphrey. A tale estremità, tuttavia, erano giunti i genitori dell'oste della «Vecchia [[motifs/ship|Nave]]», sicché il loro figlio poté infine essere chiamato «Hump» dai suoi amici più cari, e «Pumph» da un vecchio turco con un ombrello verde. Tutto questo, o quanto ne sapeva, lo sopportava con un sorriso acido; poiché era di temperamento stoico.
+
+
+
+
+Il signor Humphrey Pump se ne stava davanti alla sua taverna, che sorgeva quasi in riva al mare, riparata soltanto da un filare di meli, nani, contorti e salati dall'aria marina; ma dinanzi a essa si stendeva un campo da bocce dagli argini rialzati, e dietro il terreno precipitava di colpo; sicché una [[motifs/road|strada]] ripidissima e sinuosa spariva nella profondità e nel mistero di alberi più alti. Il signor Pump stava immediatamente sotto la sua linda insegna, che si ergeva diritta nel tappeto erboso; un palo di legno dipinto di bianco che reggeva una tavola quadrata anch'essa bianca, ma per giunta ornata di una [[motifs/ship|nave]] azzurra assai [[concepts/grotesque|grottesca]], quale un [[archetypes/child|bambino]] potrebbe disegnare, ma nella quale il patriottismo del signor Pump aveva insinuato una [[motifs/cross|croce]] di San Giorgio rossa e sproporzionatamente grande.
+
+
+
+
+Il signor Humphrey Pump era un uomo di statura media, dalle spalle assai larghe, che indossava una sorta di completo da caccia con le ghette. Anzi, in quel momento era intento a pulire e ricaricare un fucile a [[topoi/double|doppia]] canna, un'arma corta ma potente che aveva inventato, o almeno perfezionato, da sé; e che, per quanto abbastanza eccentrica rispetto alle più recenti armi scientifiche, non era né goffa né necessariamente fuori moda. Poiché Pump era uno di quegli uomini pratici che paiono avere cento mani come Briareo; si faceva da sé quasi ogni cosa, e ogni cosa nella sua casa era lievemente diversa dalla stessa cosa nella casa di chiunque altro. Era inoltre astuto come Pan o come un bracconiere in tutto ciò che riguardava ogni uccello o pietanza, ogni foglia o bacca dei boschi. La sua mente era un suolo fertile di ricordi e tradizioni subconsci; e aveva una curiosa forma di chiacchiera tanto allusiva da rasentare quasi la reticenza; poiché dava sempre per scontato che tutti conoscessero la sua contea e le sue storie intimamente come lui; sicché menzionava le cose più misteriose e sorprendenti senza muovere un muscolo del volto, che pareva fatto di legno nodoso. I suoi capelli castano scuro terminavano in due rudimentali basette, che gli davano un'aria un po' cavallina, ma nello stile del vecchio sportivo all'antica. Il suo sorriso era piuttosto storto e arcigno; ma i suoi occhi bruni erano gentili e miti. Era molto inglese.
+
+
+
+
+Di regola i suoi movimenti, per quanto rapidi, erano posati; ma in quell'occasione posò il fucile sul tavolo fuori della taverna in modo piuttosto affrettato e si fece avanti spolverandosi le mani con un grado insolito di animazione e persino di sfida. Oltre i meli verdi come folletti e contro il mare era apparsa l'alta, esile figura di una fanciulla, in un abito press'a poco del colore del rame e con un ampio cappello ombroso. Sotto il cappello il suo volto era [[motifs/grave|grave]] e bello, sebbene piuttosto olivastro. Ella strinse la mano al signor Pump; poi egli, con gran cerimonia, le accostò una sedia e la chiamò «Lady Joan».
+
+
+
+
+«Ho pensato che mi sarebbe piaciuto dare un'occhiata al vecchio luogo», disse. «Abbiamo passato dei bei momenti qui, quand'eravamo ragazzi e ragazze. Immagino che ormai tu veda ben poco dei tuoi vecchi amici».
+
+
+
+
+«Ben poco», rispose Pump, sfregandosi pensosamente la corta basetta. «Lord Ivywood è diventato una specie di predicatore metodista, sa, da quando ha preso possesso della tenuta; abbatte le birrerie a destra e a manca. E il signor Charles è stato spedito in Australia per essersi sdraiato lungo disteso al funerale. Una cosa piuttosto dura, dico io; ma la vecchia signora era un terrore».
+
+
+
+
+«Le capita mai di aver notizie», chiese con noncuranza Lady Joan Brett, «di quell'irlandese, il capitano Dalroy?»
+
+
+
+
+«Sì, più spesso che dagli altri», rispose l'oste. «Pare abbia fatto meraviglie in questa faccenda greca. Ah! Fu una triste perdita per la Marina!»
+
+
+
+
+«Insultarono il suo paese», disse la fanciulla, guardando il mare con un colorito acceso. «Dopotutto, l'Irlanda era il suo paese; e aveva il diritto di risentirsi nel sentirne parlare in quel modo».
+
+
+
+
+«E quando scoprirono che l'aveva dipinto di verde», proseguì il signor Pump.
+
+
+
+
+«Dipinto di che?» chiese Lady Joan.
+
+
+
+
+«Dipinse di verde il capitano Dawson», continuò il signor Pump con tono incolore. «Il capitano Dawson disse che il verde era il colore dei traditori irlandesi, e così Dalroy lo dipinse di verde. Fu una gran [[concepts/temptation|tentazione]], senza [[concepts/doubt|dubbio]], con questa staccionata che veniva dipinta proprio in quel [[motifs/time|momento]] e il secchio della roba lì a portata di mano; ma, naturalmente, ebbe un effetto assai pregiudizievole sulla sua carriera professionale».
+
+
+
+
+«Che storia straordinaria!» disse Lady Joan sgranando gli occhi, scoppiando in una risata piuttosto priva di allegria. «Merita di entrare tra le leggende della vostra contea. Non avevo mai udito prima questa versione. Ma sì, potrebbe essere l'origine dell'"Uomo Verde" laggiù presso il paese».
+
+
+
+
+«Oh, no», disse Pump con semplicità, «quello è lì da prima dei tempi di Waterloo. Il povero vecchio Noyle lo tenne finché non lo rinchiusero. Si ricorda del vecchio Noyle, Lady Joan. Ancora vivo, a quanto sento, e sempre a scrivere lettere d'[[motifs/love|amore]] alla [[characters/queen|Regina]] Vittoria. Solo che, naturalmente, ora non vengono più imbucate».
+
+
+
+
+«Ha avuto notizie del suo amico irlandese di recente?» chiese la fanciulla, tenendo lo sguardo fisso sulla linea dell'orizzonte.
+
+
+
+
+«Sì, ho ricevuto una lettera la settimana scorsa», rispose l'oste. «Pare non impossibile che ritorni in Inghilterra. Ha fatto da agente per uno di questi luoghi greci, e le trattative sembrano concluse. È cosa curiosa che proprio sua signoria fosse il ministro inglese incaricato di esse».
+
+
+
+
+«Intende Lord Ivywood», disse Lady Joan piuttosto freddamente. «Sì, ha evidentemente una grande carriera davanti a sé».
+
+
+
+
+«Vorrei che non ce l'avesse tanto con noi», ridacchiò Pump. «Non credo che rimarrà una sola taverna in Inghilterra. Ma gli Ivywood furono sempre gente stramba. È giusto, per rendergli merito, ricordare suo nonno».
+
+
+
+
+«Trovo assai poco galante da parte tua», disse Lady Joan con un sorriso mesto, «chiedere a una signora di ricordare suo nonno».
+
+«Sapete cosa intendo, Lady Joan», disse il suo ospite, di buon umore. «E io stesso non sono mai stato severo in proposito; ognuno ha le proprie piccole abitudini. Non vorrei che lo si facesse al mio maiale; ma non vedo perché un uomo non debba tenersi il proprio maiale nel proprio banco di chiesa, se così gli aggrada. Non era un posto libero. Era il banco di famiglia.»
+
+
+
+
+Lady Joan tornò a scoppiare a ridere. «Che cose orribili sembra abbiate udito», disse. «[[motifs/well|Ebbene]], devo andare, signor Hump… voglio dire signor Pump… vi chiamavo Hump… oh, Hump, credete che qualcuno di noi tornerà mai a essere felice?»
+
+
+
+
+«Suppongo che ciò dipenda dalla [[concepts/providence|Provvidenza]]», disse, guardando il mare.
+
+
+
+
+«Oh, dite ancora [[concepts/providence|Provvidenza]]!» esclamò la fanciulla. «È bello come “Masterman Ready”.»
+
+
+
+
+Con queste parole sconclusionate si avviò di nuovo lungo il sentiero fra i meli e tornò a piedi lungo il lungomare fino a Pebblewick.
+
+
+
+
+La locanda della “Vecchia [[motifs/ship|Nave]]” sorgeva un poco oltre il vecchio villaggio di pescatori di Pebblewick; e questo, a sua volta, era separato da un vuoto mezzo miglio circa dalla nuova stazione balneare di Pebblewick-on-Sea. Ma la dama dai capelli scuri camminava con passo fermo lungo il lungomare, su una sorta di passeggiata che era stata protesa a oriente e a occidente nell’insano ottimismo delle stazioni balneari, e, man mano che si avvicinava alla parte più affollata, osservava con crescente attenzione i gruppi sulla spiaggia. La maggior parte di essi era pressoché identica a come li aveva veduti più di un mese prima. I cercatori della [[concepts/truth|verità]] (come avrebbe detto l’uomo dal fez) che si radunavano ogni giorno per scoprire cosa facesse quell’uomo con le scatole di cartone, non l’avevano ancora scoperto; né si erano stancati del loro pellegrinaggio intellettuale. Ancora si gettavano monetine all’ateo tonante in riconoscimento delle sue incessanti ingiurie; e ciò era tanto più misterioso in quanto la folla era palesemente indifferente, e l’ateo era palesemente sincero. L’uomo dal lungo collo che dirigeva gli inni della Bassa Chiesa con una piccola vanga di legno era in verità scomparso; poiché le funzioni per bambini di questo genere sono generalmente una festa mobile; ma l’uomo il cui unico titolo consisteva in carote intorno al cappello era ancora là; e pareva avere perfino più denaro di prima. Ma Lady Joan non riusciva a scorgere traccia del piccolo vecchio dal fez. Poteva solo supporre che avesse fallito del tutto; e, trovandosi in un umore amaro, si disse con amarezza che egli era sprofondato fuori dalla vista proprio perché nelle sue fandonie v’era un tocco di ultraterrena e folle lucidità di cui tutti quei volgari idioti erano incapaci. Non si confessava consapevolmente che ciò che aveva reso interessanti sia l’uomo dal fez sia l’uomo alla locanda era l’argomento di cui avevano parlato.
+
+
+
+
+Mentre proseguiva piuttosto stancamente lungo la passeggiata, scorse una fanciulla vestita di nero, dai tenui capelli biondi e da un volto tremulo e intelligente che era certa di aver già veduto. Raccogliendo tutto il suo addestramento aristocratico nel rammentare le persone del ceto medio, riuscì a ricordare che si trattava di una certa signorina Browning che aveva svolto per lei lavori di dattilografia un anno o due prima; e si fece subito avanti per salutarla, in parte per genuina bontà di [[concepts/nature|natura]] e in parte come sollievo dai propri pensieri piuttosto tetri. Il suo tono era così seriamente franco e cordiale che la dama in nero radunò il [[concepts/courage|coraggio]] sociale per dire:
+
+
+
+
+«Ho tanto spesso desiderato presentarvi mia sorella, che è assai più intelligente di me, benché viva a [[motifs/home|casa]]; il che suppongo sia molto all’antica. Conosce ogni sorta di persone intellettuali. In questo momento sta parlando con una di esse; questo [[archetypes/prophet|Profeta]] della [[motifs/moon|Luna]] di cui tutti parlano. Permettetemi di presentarvela.»
+
+
+
+
+Lady Joan Brett aveva incontrato molti profeti della [[motifs/moon|luna]] e di altre cose. Ma possedeva quella spontanea cortesia che riscatta i vizi della sua classe, e seguì la signorina Browning fino a un sedile sulla passeggiata. Salutò la sorella della signorina Browning con smagliante affabilità; e ciò le può davvero essere ascritto a merito; poiché ebbe grande difficoltà anche solo a guardare la sorella della signorina Browning. Perché sul sedile accanto a lei, ancora con un fez rosso ma in una redingote nera sfolgorante di nuovo e con ogni apparenza di prosperità, sedeva il vecchio signore che aveva tenuto una conferenza sulla sabbia a proposito delle locande d’Inghilterra.
+
+
+
+
+«Ha tenuto una conferenza alla nostra Società Etica», sussurrò la signorina Browning, «sulla parola Alcol. Soltanto sulla parola Alcol. Era perfettamente elettrizzante. Tutto sull’Arabia e sull’Algebra, sapete, e su come ogni cosa provenga dall’Oriente. Ne sareste davvero interessata.»
+
+
+
+
+«Sono interessata», disse Lady Joan.
+
+
+
+
+«Ponéteveelo voi stéssi», l’uomo dal fez stava dicendo alla sorella della signorina Browning, «qual è mai il significato che i nomi delle vostre locande possono avere se non commemorano l’illimitabile influsso dell’[[historical-references/islam|Islam]]. Vi è una Locanda assaai popolosa a [[settings/london|Londra]], una delle più distinte, una delle più del Centro, e si chiama il Ferro di Cavallo? Orbene, amici mieei, perché mai qualcuno dovrebbe commemorare un ferro di [[motifs/horse|cavallo]]? Non è che un’appendice di una creatura più interessante di esso. Vi ho già dimostrato che il fatto stesso che voi abbiate nella vostra città un luogo di bevute chiamato il Tooro…»
+
+
+
+
+«Vorrei chiedere…» cominciò Lady Joan, all’improvviso.
+
+
+
+
+«Un luogo di bevute chiamato il Tooro», proseguì l’uomo dal fez, sordo a ogni distrazione, «e io ho sostenuto che il Tooro è un pensiero inquietante, mentre il Bul-Bul è un pensiero rassicurante. Ma persino voi, amici mieei, non intitolereste un luogo a un anello nel naso di un Tooro anziché al Tooro stesso? Perché dunque intitolare un luogo equivalente al ferro, al mero ferro, sotto lo zoccolo di un [[motifs/horse|cavallo]], e non al nobile [[motifs/horse|cavallo]]? Certo è chiaro, certo è evidente che il termine “ferro di [[motifs/horse|cavallo]]” è un termine criptico, un termine esoterico, un termine coniato nei giorni in cui l’antica [[concepts/faith|fede]] musulmana di questo paese inglese era oppressa dalla superstizione passeggera dei Galilei. Quella forma piegata, quella duplice forma ricurva, che voi chiamate ferro di [[motifs/horse|cavallo]], non è forse chiaramente la Mezzaluna?» e spalancò le braccia come aveva fatto sulla sabbia, «la Mezzaluna del [[archetypes/prophet|Profeta]] dell’unico Dio?»
+
+
+
+
+«Vorrei chiedere», cominciò di nuovo Lady Joan, «come spieghereste il nome della locanda chiamata “L’Uomo Verde”, proprio dietro quella fila di case.»
+
+
+
+
+«Esatto! esatto!» esclamò il [[archetypes/prophet|Profeta]] della [[motifs/moon|Luna]], con eccitazione quasi folle. «Il cercatore della [[concepts/truth|verità]] non potrebbe con ogni probabilità trovare un esempio più perfetto di questi princìpi. Amici mieei, come potrebbe esservi un uomo verde? Voi conoscete l’erba verde, le [[motifs/leaves|foglie]] verdi, il formaggio verde, la chartreuse verde. Vi domando se qualcuno di voi, per quanto ampia sia la sua cerchia sociale, abbia mai conosciuto un uomo verde. Certo, certo, è evidente, amici mieei, che questa è una versione imperfetta, una versione abbreviata, delle parole originali. Cosa può esservi di più chiaro del fatto che l’espressione originaria fosse “l’uomo dal turbante verde”, in allusione alla ben [[motifs/well|nota]] uniforme dei discendenti del [[archetypes/prophet|Profeta]]? “Dal turbante” è certo proprio il genere di parola, esattamente il genere di parola straniera e inconsueta, che potrebbe facilmente essere biascicata e alla fine soppressa.»
+
+
+
+
+«C’è una leggenda da queste parti», disse Lady Joan, con fermezza, «secondo cui un grande [[archetypes/hero|eroe]], udendo insultare il colore che era sacro alla sua santa isola, lo versò davvero sul proprio nemico in risposta.»
+
+
+
+
+«Una leggenda! una [[forms/fable|favola]]!» esclamò l’uomo dal fez, con un altro raggiante e razionale allargarsi delle mani. «Non è forse evidente che una cosa simile non può essere realmente accaduta?»
+
+
+
+
+«Oh, sì… è davvero accaduto», disse la giovane dama, dolcemente. «Non v’è molto che consoli in questo mondo; ma vi sono alcune cose. Oh, è davvero accaduto.»
+
+
+
+
+E, prendendo un grazioso congedo dal gruppo, riprese la sua passeggiata piuttosto svogliata lungo la passeggiata.
+
+CAPITOLO IV: LA LOCANDA METTE LE ALI
+
+
+IL SIGNOR HUMPHREY PUMP se ne stava di nuovo davanti alla sua locanda, il fucile pulito e carico giaceva ancora sul tavolo, e la bianca insegna della [[motifs/ship|Nave]] dondolava ancora nella lieve brezza marina sopra il suo capo; ma i suoi lineamenti coriacei erano aggrottati sopra un nuovo problema. Teneva due lettere in mano, lettere di natura assai diversa, ma lettere che additavano il medesimo, difficile problema. La prima diceva:
+
+CAPITOLO V: LO STUPORE DELL’AGENTE
+
+
+LORD IVYWOOD condivideva la debolezza mentale della maggior parte degli uomini che si sono nutriti di libri; ignorava non il valore, ma la stessa esistenza di altre forme di informazione. Così Humphrey Pump era perfettamente consapevole che Lord Ivywood lo considerava un uomo ignorante che portava con sé un volume del [[works/pickwick-(chesterton)|Pickwick]] e non lo si poteva indurre a leggere alcun altro libro. Ma Lord Ivywood ignorava del tutto che Humphrey non lo guardava mai senza pensare che lo si sarebbe potuto nascondere con pieno successo in un bosco di piccoli faggi, giacché i suoi capelli grigio-bruni e il volto giallastro e cinereo riproducevano esattamente le tre tinte predominanti di un simile crepuscolo silvestre. Il signor Pump, [[concepts/fear|temo]], aveva talvolta gustato pernice o fagiano, nella prima giovinezza, in circostanze in cui Lord Ivywood non solo era inconsapevole dell’ospitalità che dispensava, ma avrebbe giurato che fosse fisicamente impossibile a chiunque eludere la vigilanza del suo efficiente sistema di guardiacaccia. Ma è assai imprudente, per chi si reputa superiore alle cose fisiche, parlare di impossibilità fisica.
+
+
+
+
+Lord Ivywood era dunque in errore quando affermava che i fuggitivi non potevano in alcun modo dileguarsi nell’Inghilterra moderna. Si possono fare moltissime cose nell’Inghilterra moderna, se si è saputo osservare; alcune, in verità, che altri conoscono solo per figure o per sentito dire; se si sa, per esempio, che la maggior parte delle siepi lungo le strade è più alta e più fitta di quanto sembri, e che anche l’uomo più grosso, disteso proprio dietro di esse, occupa assai meno spazio di quanto si supporrebbe; se si sa che molti suoni naturali si assomigliano tra loro assai più di quanto l’orecchio illuminato possa credere, come nel caso del [[motifs/wind|vento]] tra le [[motifs/leaves|foglie]] e del mare; se si sa che è più facile camminare in calze che in stivali, se si sa come far presa sul terreno; se si sa che la proporzione dei cani che morderanno un uomo in qualsiasi circostanza è piuttosto minore della proporzione degli uomini che vi assassinerebbero in uno scompartimento ferroviario; se si sa che non si è costretti ad annegare nemmeno in un [[motifs/river|fiume]], a meno che la corrente non sia fortissima, e a meno che non ci si eserciti ad assumere le posizioni particolari del [[concepts/suicide|suicida]]; se si sa che le stazioni di campagna hanno sale d’aspetto supplementari e prive di scopo in cui nessuno entra mai; e se si sa che la gente di contea vi dimenticherà se le rivolgete la parola, ma parlerà di voi tutto il giorno se non lo fate.
+
+
+
+
+Mediante l’esercizio di queste e di altre arti e scienze Humphrey Pump poté guidare l’amico attraverso la campagna, per lo più nella veste di sconfinatore e talvolta in quella di qualcosa di simile a uno scassinatore, e infine, con insegna, barile, formaggio e ogni cosa, uscire da una nera pineta su una bianca [[motifs/road|strada]] in una parte della contea dove per il momento non sarebbero stati cercati.
+
+
+
+
+Di fronte a loro si stendeva un campo di grano e alla loro destra, nell’ombra dei pini, un casolare, un casolare assai cadente che pareva essere crollato sotto il proprio tetto di paglia. Il volto dell’irlandese dai capelli rossi recava uno strano sorriso. Piantò ritta l’insegna della locanda nella [[motifs/road|strada]] e andò a battere alla porta.
+
+
+
+
+Fu aperta tremolante da un vecchio dal volto così rugoso che le rughe parevano incise più nettamente dei lineamenti stessi, i quali sembravano smarriti nel loro labirinto. Avrebbe potuto uscire strisciando dal cavo di un albero nodoso e avrebbe potuto avere mille anni.
+
+
+
+
+Non parve accorgersi dell’insegna, che stava piuttosto alla sinistra della porta; e quel poco di vita che restava nei suoi occhi parve destarsi nello [[concepts/wonder|stupore]] dinanzi alla statura e alla strana uniforme di Dalroy e alla spada al suo fianco. «Vi chiedo scusa», disse il Capitano, cortesemente. «[[concepts/fear|Temo]] che la mia uniforme vi spaventi. È la livrea di Lord Ivywood. Tutti i suoi servi devono vestire così. Anzi, mi risulta che anche i fittavoli e perfino voi stesso, forse… scusate la mia spada. Lord Ivywood tiene moltissimo a che ogni uomo abbia una spada. Conoscete il suo bel modo eloquente di esporre le sue vedute. “Come possiamo professare”, mi diceva ieri, mentre gli spazzolavo i calzoni, “come possiamo professare che tutti gli uomini sono fratelli mentre rifiutiamo loro il simbolo della virilità; o con quale sicurezza possiamo rivendicare come moto di moderna emancipazione il negare al cittadino ciò che in tutte le epoche ha segnato la differenza fra l’uomo libero e lo schiavo. Né dobbiamo temere abusi barbarici come quelli profetizzati dal mio onorevole amico che sta pulendo i coltelli, poiché questo dono è un [[concepts/sublime|sublime]] atto di fiducia nella vostra universale passione per i severi splendori della Pace; e colui che ha il diritto di colpire è colui che ha imparato a risparmiare.”»
+
+
+
+
+Snocciolando tutte queste sciocchezze con estrema rapidità e vasti svolazzi oratorii della mano, il Capitano Dalroy si mise a far rotolare tanto il grosso formaggio quanto la botte di rum dentro la casa dello sbalordito casolano: il signor Pump lo seguiva con una torva placidità e il fucile sotto il braccio.
+
+
+
+
+«Lord Ivywood», disse Dalroy, posando con un tonfo la botte di rum sul tavolo di legno grezzo, «desidera prendere del vino con voi. O, per essere più precisi, del rum. Non lasciatevi ingannare, amico mio, da tutte quelle storie secondo cui Lord Ivywood sarebbe contrario al bere. Ivywood-tre-bottiglie, lo chiamiamo in cucina. Ma dev’essere rum; nient’altro che rum per gli Ivywood. “Il vino può essere schernitore”, diceva l’altro giorno (e notai in particolare la formulazione, che mi parve assai felice perfino per sua signoria; se ne stava in cima ai gradini, e io smisi di pulirli per prenderne nota), “il vino può essere schernitore; la bevanda forte può infuriare, ma in nessun punto delle sacre pagine troverete una sola parola di biasimo verso lo spirito più dolce sacro a coloro che scendono al mare sulle navi; nessuna lingua di sacerdote o di [[archetypes/prophet|profeta]] si è mai levata a rompere il sacro [[motifs/silence|silenzio]] della Sacra Scrittura riguardo al Rum.” Egli mi spiegò poi», proseguì Dalroy, facendo cenno a Pump di spillare la botte secondo il suo segreto tecnico, «che il grande accorgimento per evitare qualsiasi cattivo effetto che una bottiglia o due di rum potessero avere su persone giovani e inesperte era mangiarvi insieme del formaggio, in particolare questo tipo di formaggio che ho qui. Ne ho dimenticato il nome.»
+
+“Cheddar,” disse Pump, con grande serietà.
+
+
+
+
+“Ma stai attento!” continuò il Capitano quasi con ferocia, agitando il dito indice in segno di avvertimento verso l’uomo anziano. “Stai attento a quel ‘pane con il formaggio’. Tutta la devastazione causata dal formaggio e dalle un tempo felici case di questo paese sono dovute all’esperimento sconsiderato e pazzo di mangiare pane insieme al formaggio. Non avrai pane da me, amico mio. Anzi, Lord Ivywood ha ordinato che ogni riferimento a questa abitudine ignorante e depravata venga eliminato dalla preghiera del Signore. Bevi qualcosa.”
+
+
+
+
+Aveva già versato un po’ di quel liquido in due bicchieri spessi e in una tazza da tè rotta, che aveva fatto procurare all’uomo anziano; ora lo giurò solennemente.
+
+
+
+
+“Grazie mille, signore,” disse l’uomo anziano, usando per la prima volta la sua voce roca. Poi bevve; il suo vecchio volto cambiò espressione, come se fosse una vecchia lanterna a olio nella quale la fiamma iniziasse ad ardere.
+
+
+
+
+“Ah,” disse. “Mio figlio diventerà un marinaio.”
+
+
+
+
+“Gli auguro un viaggio felice,” disse il Capitano. “E vi canterò una -canzone sul primo marinaio che sia mai esistito al mondo; quel marinaio che (come osserva acutamente Lord Ivywood) visse prima dell’epoca del rum.”
+
+
+
+
+Si sedette su una sedia di legno e alzò di nuovo la voce, battendo sul tavolo con la tazza da tè rotta.
+
+
+
+
+“Vecchio Noè… aveva una fattoria di struzzi e allevava un gran numero di polli.”
+
+
+
+Mangiò l’uovo con un cucchiaio in una ciotola grande quanto un secchio
+
+
+
+Zuppa d’elefante e pesce balena
+
+
+
+
+Ma tutti erano troppo piccoli rispetto alla cantina che aveva preparato prima di partire per il viaggio in mare.
+
+
+
+
+“E Noè, spesso diceva alla moglie quando si sedevano a mangiare…”
+
+
+
+
+“Non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.”
+
+
+
+
+
+“La cascata della scogliera del cielo si riversò accecante giù dal bordo…”
+
+
+
+
+Come se potesse lavare via le [[motifs/stars|stelle]], proprio come il sapone scivola nello scarico.
+
+
+
+I sette cieli si abbatterono con fragore sulla gola dell’inferno per bere…
+
+
+
+
+“E Noè, guardando con un occhio solo, disse: ‘Sembra che stia per piovere…’”
+
+
+
+
+L’[[motifs/water|acqua]] ha sommerso il Monte Bianco fino a raggiungere la profondità di una miniera del Mendip.
+
+
+
+
+Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
+
+
+
+
+
+“Ma Noè ha peccato, e anche noi abbiamo peccato; barcollando sulle gambe instabili…”
+
+
+
+Finché non ci fu inviato un enorme ubriacone nero per una canna…
+
+
+
+Non si può trovare vino in una P.S.A., in una cappella o durante un Eisteddfod…
+
+
+
+
+Perché la Maledizione dell’[[motifs/water|Acqua]] è tornata a causa della collera di Dio.
+
+
+
+
+E l’[[motifs/water|acqua]] si trova sulla scacchiera del Vescovo e nel santuario del Pensatore Superiore.
+
+
+
+
+Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
+
+
+
+“La canzone preferita di Lord Ivywood,” concluse il signor Patrick Dalroy mentre beveva. “Canta tu stessa una canzone per noi.”
+
+
+
+
+Per la sorpresa dei due umoristi, il vecchio signore iniziò davvero a recitare con voce tremante.
+
+
+
+
+“Il [[archetypes/king|Re]] Giorgio che vive nella città di [[settings/london|Londra]],”
+
+
+
+
+Spero che difendano la sua [[motifs/crown|corona]].
+
+
+
+E Bonaparte venga completamente sconfitto
+
+
+
+
+La mattina di Natale.
+
+
+
+
+
+"#Vecchio Squire è andato alla riunione oggi"
+
+
+
+
+“Tutto nel suo…”
+
+
+
+Forse è stato fortunato, per la rapidità con cui si svolge questa narrazione, che la preferita canzone del vecchio signore, composta da quarantasette versi, venisse interrotta da un incidente curioso. La porta della capanna si aprì e un uomo dall’aspetto timido, vestito di velluto a coste, rimase in silenzio nella stanza per alcuni secondi, poi disse, senza preamboli né ulteriori spiegazioni.
+
+
+
+
+“Quattro birre.”
+
+
+
+
+“Scusi?” chiese cortesemente il capitano.
+
+
+
+
+“Quattro birre,” disse l’uomo con decisione; poi, vedendo Humphrey, sembrò trovare altre parole nel suo vocabolario.
+
+
+
+
+“Buongiorno, signor Pump. Non sapevo proprio come fosse riuscito a spostare ‘Quel vecchio [[motifs/ship|Nave]]’.”
+
+
+
+
+Il signor Pump, con un sorriso malizioso, indicò l’uomo anziano il cui canto era stato interrotto.
+
+
+
+
+“Ora se ne occupa il signor Marne, signor Gowl,” disse Pump con la rigida educazione tipica della campagna. “Ma per il momento non ha altro che questo rum a disposizione.”
+
+
+
+
+“Niente di meglio,” disse il laconico signor Gowl; poi posò del denaro davanti all’anziano Marne, che lo guardò con sorpresa. Mentre si girava per andarsene e si asciugava la bocca con il dorso della mano, la porta si aprì di nuovo, lasciando entrare la luce bianca del sole e un uomo con un fazzoletto rosso al collo.
+
+
+
+
+“Buongiorno, signor Marne; buongiorno, signor Pump; buongiorno, signor Gowl,” disse l’uomo con il fazzoletto rosso al collo.
+
+
+
+
+“Buongiorno, signor Coote,” dissero gli altri tre, uno dopo l’altro.
+
+
+
+
+“Vuole un po’ di rum, signor Coote?”, chiese gentilmente Humphrey Pump. “È tutto quello che il signor Marne ha al momento.”
+
+
+
+
+Anche il signor Coote aveva un po’ di rum; e, sotto lo sguardo piuttosto vago del rispettabile contadino, lasciò anche un po’ di denaro. Il signor Coote stava appunto per spiegare che quei tempi erano difficili, ma che se si vedeva un segno positivo, allora tutto sarebbe andato bene; un avvocato di Grunton Abbot gli aveva detto proprio questo. Quando poi arrivò un rumoroso e popolare fabbro che ordinò da bere per tutti e disse di avere il suo asino e il suo carretto fuori, iniziò una lunga, confusa e ricca conversazione riguardo all’asino e al carretto; durante questa conversazione furono espresse le opinioni più varie sui loro meriti. E gradualmente a Dalroy divenne chiaro che quel fabbro stava cercando di venderglieli.
+
+
+
+
+Un'idea, adatta all'opportunismo romantico della sua attuale carriera assurda, gli balenò improvvisamente nella mente; così uscì di corsa per controllare il carro e l’asino. Un attimo dopo era già tornato indietro, chiedendo al fabbro quale fosse la sua richiesta di prezzo e, quasi contemporaneamente, gli offrì una somma molto più alta di quanto il fabbro avrebbe mai potuto immaginare di chiedere. Questo comportamento, tuttavia, veniva considerato un atto di follia, ma una follia particolarmente tollerata dai gentiluomini. Il fabbro, grazie a quella somma, si concesse ancora un po’ di rum; poi Dalroy, scusandosi, sigillò il barile e lo portò insieme al formaggio per caricarli nel fondo del carro. Quanto all’oro e alla moneta, li lasciò comunque davanti alla barba d’argento di vecchio Marne.
+
+Nessuno che conosca la bizzarra e spesso muta cameratismo dei poveri inglesi avrà bisogno che gli si dica che uscirono tutti a fissarlo mentre caricava il carretto e badava ai finimenti dell’asino – tutti tranne il vecchio casolano, che sedeva come ipnotizzato dalla vista del denaro. Mentre se ne stavano là, videro venire giù per la bianca, rovente [[motifs/road|strada]], là dove si arricciava sopra la [[motifs/hill|collina]], una figura che non procurava loro alcun piacere, anche quando non era che una nera macchia in marcia in lontananza. Era un certo signor Bullrose, l’agente delle tenute di Lord Ivywood.
+
+
+
+
+Il signor Bullrose era un uomo basso e tarchiato, dalla larga testa quadrata su cui si stendevano creste di riccioli neri e fitti, dal volto pesante e ranocchiesco e dagli occhi sporgenti e sospettosi; un uomo con un bel cilindro di seta ma con una quadrata giacca da lavoro. Il signor Bullrose non era un uomo simpatico. L’agente di quel genere di tenute non lo è quasi mai. Il padrone spesso lo è; e perfino Lord Ivywood possedeva una sua artica magnanimità, che induceva la maggior parte della gente a desiderare, se possibile, di vederlo di persona. Ma il signor Bullrose era meschino. Ogni [[archetypes/tyrant|tiranno]] davvero pratico dev’essere meschino.
+
+
+
+
+Egli evidentemente non riusciva a comprendere il trambusto dinanzi al casolare in parte crollato del signor Marne, ma sentiva che doveva esservi qualcosa di storto. Voleva sbarazzarsi del tutto del casolare, e non aveva, s’intende, la benché minima intenzione di dare al casolano alcun compenso per esso. Sperava che il vecchio morisse; ma in ogni caso poteva facilmente cacciarlo via qualora fosse divenuto improvvisamente necessario, poiché costui non poteva in alcun modo pagare l’affitto di quella settimana. L’affitto non era molto; ma era incommensurabilmente troppo per il vecchio, che non aveva alcun modo concepibile di prenderlo a prestito o di guadagnarlo. È qui che entra in scena la cavalleria del nostro aristocratico sistema fondiario.
+
+
+
+
+«Addio, amici miei», stava dicendo l’enorme uomo dalla fantastica uniforme, «tutte le strade portano al rum, come disse Lord Ivywood in uno dei suoi momenti più allegri, e [[concepts/hope|speriamo]] di tornare presto, per fondare qui un albergo di prima categoria, del quale saranno tra breve diramati i prospetti.»
+
+
+
+
+Il pesante volto ranocchiesco del signor Bullrose, l’agente, si fece più brutto per lo stupore; e gli occhi gli sporsero più come quelli di una lumaca che di una rana. L’indifendibile allusione a Lord Ivywood avrebbe in ogni caso provocato un collerico intervento, se non fosse stata inghiottita dalla tellurica insinuazione di un albergo senza licenza sulla tenuta. Anche questo avrebbe prodotto l’esplosione, se quello e ogni altra cosa non fossero stati impietriti e resi rigidi dalla vista di un solido palo di legno con l’insegna, già eretto fuori dal misero casolare del vecchio Marne.
+
+
+
+
+«Ora lo tengo in pugno», mormorò il signor Bullrose. «Non può in alcun modo pagare; e fuori se ne andrà.» E si diresse rapidamente verso la porta del casolare, quasi nello stesso istante in cui Dalroy si portava alla testa dell’asino, come per condurlo via lungo la [[motifs/road|strada]].
+
+
+
+
+«Sentite un po’, brav’uomo», sbottò Bullrose, non appena fu dentro il casolare. «Ve la siete cotta da solo questa [[motifs/time|volta]]. Sua signoria è stata fin troppo indulgente con voi; ma questa sarà la fine. L’insolenza di ciò che avete fatto là fuori, specie sapendo i desideri di sua signoria in simili faccende, ha proprio colmato la misura.» Si fermò un momento e sogghignò. «Perciò, a meno che per caso non abbiate addosso l’affitto esatto fino all’ultimo quattrino, fuori ve ne andate. Siamo stufi di gente della vostra risma.»
+
+
+
+
+In modo assai goffo e maldestro, il vecchio spinse un mucchio di monete attraverso il tavolo. Il signor Bullrose si lasciò cadere di colpo sulla sedia di legno, col cilindro di seta in testa, e cominciò a contarle furiosamente. Le contò una volta; le contò due volte; e le contò ancora. Poi le fissò più fissamente di quanto avesse fatto il casolano.
+
+
+
+
+«Dove avete preso questo denaro?» chiese con voce spessa e grossolana. «L’avete rubato?»
+
+
+
+
+«Non sono tanto lesto per rubare», disse il vecchio in tremula [[forms/comedy|comicità]].
+
+
+
+
+Bullrose guardò lui e poi il denaro; e ricordò con furia che Ivywood era un magistrato giusto, benché freddo, quando sedeva in tribunale.
+
+
+
+
+«[[motifs/well|Comunque]] sia», gridò, in modo caldo e avventato, «abbiamo abbastanza contro di voi per cacciarvi da qui. Non avete forse infranto la legge, brav’uomo, per non parlare dei regolamenti per i fittavoli, piantando fuori dal casolare quella vostra bella insegna? Eh?»
+
+
+
+
+Il fittavolo taceva.
+
+
+
+
+«Eh?» ribadì l’agente.
+
+
+
+
+«Ar», rispose il fittavolo.
+
+
+
+
+«Avete o non avete un’insegna fuori da questa casa?» gridò Bullrose, martellando il tavolo.
+
+
+
+
+Il fittavolo lo guardò a lungo [[motifs/time|tempo]] con volto paziente e venerabile, e poi disse: «Fórse sì. Fórse no.»
+
+
+
+
+«Adesso vi faccio vedere io il “forse”», gridò il signor Bullrose, balzando in piedi e cacciandosi il cilindro di seta sulla nuca. «Non so se voialtri siate troppo ubriachi per vedere alcunché, ma io la cosa l’ho vista coi miei stessi occhi là fuori sulla [[motifs/road|strada]]. Uscite, e negatelo se ne avete il coraggio!»
+
+
+
+
+«Ar», disse il signor Marne, dubbioso.
+
+
+
+
+Barcollò dietro l’agente, che spalancò la porta con sbrigativa furia e si fermò fuori sulla soglia. Rimase là un lungo [[motifs/time|tempo]], e non parlò. Nel profondo del fango indurito della sua mente materialistica si erano agitate due cose che ne erano le antiche nemiche; la vecchia fiaba in cui tutto può essere creduto; il nuovo scetticismo in cui nulla può essere creduto – nemmeno i propri occhi. Non c’era insegna, né segno di insegna, nel paesaggio.
+
+
+
+
+Sul volto avvizzito del vecchio Marne v’era un tenue rinnovarsi di quella risata che dorme sin dal Medioevo.
+
+CAPITOLO VI: IL BUCO NEL CIELO
+
+
+QUELLA delicata luce di rubino, che è uno dei più rari ma insieme uno dei più squisiti effetti serali, riscaldava la terra, il cielo e i mari come se il mondo intero fosse lavato nel vino; e tingeva quasi di scarlatto la forte testa rossa di Patrick Dalroy mentre stava ritto sulla landa di ginestra spinosa e felci, dove egli e i suoi amici si erano fermati. Uno dei suoi amici stava riesaminando un fucile corto, piuttosto simile a una carabina a [[topoi/double|doppia]] canna, l’altro mangiava cardi.
+
+
+
+
+Dalroy stesso se ne stava ozioso e meditabondo, con le mani in tasca e l’occhio all’orizzonte. Verso terra le colline, le pianure e i boschi giacevano immersi nella luce rossa di [[motifs/rose|rosa]]; ma essa mutava alquanto in porpora, in nuvola e in qualcosa di simile a [[motifs/storm|tempesta]] sopra la lontana striscia violetta del mare. Era verso il mare che egli fissava lo sguardo.
+
+
+
+
+D’un tratto si riscosse; e parve quasi stropicciarsi gli occhi, o comunque stropicciarsi il rosso sopracciglio.
+
+
+
+
+«Ma guarda, siamo sulla [[motifs/road|strada]] dietro Pebblewick», disse. «Quella è la maledetta cappelletta di latta presso la spiaggia.»
+
+
+
+
+«Lo so», rispose il suo amico e guida. «Abbiamo fatto il vecchio trucco della lepre; siamo tornati sui nostri passi, sapete. Nove volte su dieci è la mossa migliore. Il parroco Whitelady lo faceva quando gli davano la caccia per furto di cani. Ho seguito quasi in tutto la sua traccia; non si può fare di meglio che attenersi ai migliori esempi. A [[settings/london|Londra]] vi raccontano che Dick Turpin cavalcò fino a York. [[motifs/well|Ebbene]], io so che non lo fece; poiché il mio vecchio nonno lassù a Cobble’s End conosceva intimamente i Turpin – ne gettò uno nel [[motifs/river|fiume]] il giorno di Natale; ma credo di poter indovinare cosa fece davvero e come nacque la storia. Se Dick era accorto, se ne andò a spron battuto su per la vecchia [[motifs/road|Strada]] del Nord, gridando “York! York!” o che so io, prima che la gente lo riconoscesse; poi, se fece la cosa a dovere, poteva mezz’ora dopo passeggiare giù per lo Strand con la pipa in bocca. Dicono che il vecchio Boney dicesse: “Va’ dove non ti aspettano”, e suppongo che come soldato avesse ragione. Ma per un gentiluomo che schiva la polizia come voi, non è esattamente il modo giusto di metterla. Io direi: “Va’ dove dovresti essere aspettato” – e generalmente troverai che i tuoi simili non fanno ciò che dovrebbero quanto ad aspettarti, non più che in qualsiasi altra cosa.»
+
+
+
+
+«[[motifs/well|Ebbene]], questo tratto fra qui e il mare», disse il Capitano, immerso in cupa meditazione, «lo conosco così [[motifs/well|bene]] – così [[motifs/well|bene]] che… che quasi vorrei non averlo mai più riveduto. Sapete», chiese, indicando d’un tratto una chiazza e una fossa di sabbia che biancheggiava nella brughiera crepuscolare a un centinaio di iarde di distanza, «sapete cosa rende quel luogo così famoso nella [[concepts/history|storia]]?»
+
+
+
+
+«Sì», rispose il signor Pump, «è là che la vecchia Madre Grouch sparò al metodista.»
+
+
+
+
+«Siete in errore», disse il Capitano. «Un incidente quale voi descrivete non richiederebbe in nessun caso particolare commento o rimpianto. No, quel luogo è famoso perché una fanciulla assai mal educata vi perse una volta un nastro da una treccia di capelli neri e qualcuno l’aiutò a ritrovarlo.»
+
+
+
+
+«E l’altra persona è stata [[motifs/well|bene]] educata?» chiese Pump, con un tenue sorriso.
+
+
+
+
+«No», disse Dalroy, fissando il mare. «È stato tirato giù.» Poi, riscuotendosi di nuovo, fece un gesto verso una parte più lontana della brughiera. «Conoscete la notevole [[concepts/history|storia]] di quel vecchio muro, quello là oltre l’ultima gola?»
+
+
+
+
+«No», replicò l’altro, «a meno che non intendiate il Circo del Morto, e quello accadde più in là.»
+
+
+
+
+«Non intendo il Circo del Morto», disse il Capitano. «La notevole [[concepts/history|storia]] di quel muro è che l’[[archetypes/shadow|ombra]] di qualcuno vi cadde sopra una volta; e quell’[[archetypes/shadow|ombra]] era più desiderabile della sostanza di tutte le altre cose viventi. È questa», gridò, quasi con violenza, riprendendo il suo tono frivolo, «è questa circostanza, Hump, e non il banale e quotidiano episodio di un morto che va al circo, cui hai osato paragonarla, è questo evento storico che Lord Ivywood sta per commemorare ricostruendo il muro con oro massiccio e marmi greci rubati dai Turchi dalla [[motifs/grave|tomba]] di Socrate, racchiudendo una colonna d’oro massiccio alta quattrocento piedi e sormontata da una colossale statua equestre di un irlandese in bancarotta che cavalca all’indietro su un asino.»
+
+
+
+
+Sollevò una delle sue lunghe gambe sopra l’animale, come per mettersi in posa per il gruppo scultoreo; poi si rimise in equilibrio su entrambi i piedi, e di nuovo guardò il purpureo limite del mare.
+
+
+
+
+«Sai, Hump», disse, «credo che i moderni si siano in qualche modo confusi del tutto le idee sulla vita umana. Sembrano attendersi ciò che la [[concepts/nature|Natura]] non ha mai promesso; e poi cercano di rovinare tutto ciò che la [[concepts/nature|Natura]] ha realmente dato. In tutte quelle cappelle atee di Ivywood non fanno che parlare di Pace, Pace Perfetta, e Pace Assoluta, e Gioia Universale e anime che battono all’unisono. Ma non hanno l’aria più lieta di chiunque altro; e la cosa seguente che fanno è mettersi a fracassare un migliaio di buone facezie e buone storie e buone canzoni e buone amicizie tirando giù “La Vecchia [[motifs/ship|Nave]]”.» Diede un’occhiata al palo dell’insegna che giaceva sciolto sulla brughiera accanto a lui, quasi a rassicurarsi che non fosse stato rubato. «Ora mi pare», proseguì, «che questo sia chiedere troppo e ottenere troppo poco. Non so se Dio intenda che un uomo abbia la felicità in quel senso di Tutto in Tutto e di Assolutamente Assoluto della felicità. Ma Dio intende bene che un uomo abbia un po’ di Spasso; e io intendo continuare ad averlo. Se non posso appagare il cuore, posso soddisfare il mio Umorismo. Quei tipi cinici che si credono così maledettamente arguti hanno una specie di detto: “Sii buono e sarai felice; ma non passerai un [[motifs/time|tempo]] gaio”. I tipi cinici hanno del tutto torto, come accade loro di solito. Hanno afferrato l’esatto contrario della [[concepts/truth|verità]]. Dio sa che io non pretendo di essere buono; ma anche un mascalzone talvolta deve combattere il mondo allo stesso modo di un santo. Credo di aver combattuto il mondo; et militavi non sine… come si dice in latino “essersi spassati”? Non posso pretendere alla Pace e alla Gioia, e a tutto il resto, specialmente in questo originario roveto. Non sono stato felice, Hump, ma ho passato un [[motifs/time|tempo]] gaio.»
+
+La quiete del tramonto tornò a posarsi, salvo per il brucare dell’asino nel sottobosco; e Pump non disse nulla per solidarietà; e fu ancora una volta Dalroy a riprendere la sua [[forms/parable|parabola]].
+
+
+
+
+«Perciò penso che si giochi troppo sulle nostre emozioni, Hump; come questo luogo sta di certo scombussolando le mie. Diavolo, ci sono altre cose da fare col resto della propria vita! Non mi piace tutto questo baccano attorno al sentire le cose – non fa che rendere infelice la gente. Nel mio presente stato d’animo sono per il fare le cose. Tutto ciò, Hump», disse con un’improvvisa alzata di voce che in lui si accompagnava sempre a un impetuoso, irrazionale ritorno di spiriti meramente animali – «tutto ciò l’ho messo in una Canzone Contro le Canzoni, che ora ti canterò.»
+
+
+
+
+«Non la canterei qui», disse Humphrey Pump, raccogliendo il fucile e mettendoselo sotto il braccio. «In questo luogo aperto sembrate grande; e suonate grande. Ma vi porterò al Buco nel Cielo di cui avete tanto parlato, e vi nasconderò come solevo nascondervi da quel precettore – non riuscii mai ad afferrarne il nome – quell’uomo che riusciva a ubriacarsi solo col vino greco dallo Squire Wimpole.»
+
+
+
+
+«Hump!» gridò il Capitano, «abdico al trono di Itaca. Sei assai più saggio di [[characters/ulysses|Ulisse]]. Qui ho avuto il cuore straziato da tentazioni verso diecimila cose, tra il [[concepts/suicide|suicidio]] e il rapimento, e tutto per la semplice vista di quel buco nella brughiera, dove solevamo fare i picnic. E per tutto quel [[motifs/time|tempo]] avevo dimenticato che lo chiamavamo il Buco nel Cielo. E, per Dio, che bel nome – in entrambi i sensi.»
+
+
+
+
+«Pensavo l’avreste ricordato, Capitano», disse il locandiere, «per via della facezia che fece il giovane signor Matthews.»
+
+
+
+
+«Nel calore di qualche selvaggia lotta corpo a corpo in Albania», disse il signor Dalroy, mestamente, passandosi il palmo sulla fronte, «devo aver dimenticato per un fatale istante la facezia che fece il giovane signor Matthews.»
+
+
+
+
+«Non era granché», disse il signor Pump, semplicemente. «Ah, sua zia sì che era brava per cose del genere. Andò troppo oltre col vecchio Gudgeon, però.»
+
+
+
+
+A queste parole balzò e parve inghiottito dalla terra. Ma avevano soltanto percorso le poche iarde necessarie a portarli sull’orlo della cava di sabbia nella brughiera di cui avevano parlato. Ed è una delle verità celate dal Cielo a Lord Ivywood, e rivelate dal Cielo al signor Pump, che un nascondiglio può essere coperto quando gli si è vicini; e tuttavia essere aperto e visibile da qualche punto d’osservazione lontano. Dal lato per cui vi si accostarono, l’improvviso incavo di sabbia, una specie di camera crollata nella brughiera, pareva coperto da una naturale curva di felce e di ginestra spinosa, e guizzava fuori dalla vista come una fata.
+
+
+
+
+«Va tutto bene», gridò da sotto un pavimento o un tetto di [[motifs/leaves|foglie]]. «Ricorderai tutto quando sarai qui. Questo è il posto per cantare la tua canzone, Capitano. Dio mi benedica, Capitano, se non ricordo che cantavi quella canzone irlandese che componesti al collegio – muggendola come un toro di Basan – tutta su cuori e maniche o robe del genere – e sua signoria e il precettore non ne udirono un fiato, perché quel banco di sabbia spezza ogni cosa. Vale la pena saperle, queste cose, sai. È un peccato che non facciano parte dell’[[concepts/education|educazione]] di un giovane gentiluomo. Ora mi canterai la canzone in favore del non aver sentimenti, o come diavolo la chiami.»
+
+
+
+
+Dalroy stava guardandosi attorno nella caverna dei suoi vecchi picnic, così dimenticata e così sorprendentemente familiare. Sembrava aver perduto ogni pensiero di cantare alcunché, e semplicemente brancolare nella buia casa della propria fanciullezza. C’era un lieve stillicidio da una naturale [[motifs/spring|sorgente]] nell’arenaria proprio sotto le felci, ed egli ricordò che solevano provare a far bollire l’[[motifs/water|acqua]] in un bollitore. Ricordò un litigio su chi avesse rovesciato il bollitore che, nella morbosità del primo [[motifs/love|amore]], gli aveva dato per giorni le torture dei dannati. Quando l’energico Pump irruppe ancora una volta attraverso il tetto piuttosto spinoso, per l’impulso di radunare gli altri loro eccentrici averi, Patrick ricordò una spina in un dito, che gli fece fermare il cuore con qualcosa che era [[motifs/pain|dolore]] e perfetta musica. Quando Pump tornò con la botticella di rum e il formaggio e li fece rotolare con un calcio giù per il declivio sabbioso del buco, egli ricordò, con risa quasi iraconde, che ai vecchi tempi era rotolato giù per quel pendio lui stesso, e l’aveva creduta un’impresa piuttosto notevole. Si sentì allora come se stesse rotolando giù per un liscio fianco del Cervino. Osservò adesso che l’altezza era piuttosto minore di quella del secondo piano di uno di quei casolari striminziti che aveva notato al ritorno. Comprese d’un tratto di essere cresciuto; cresciuto in senso corporeo. Nutriva dubbi su ogni altro senso.
+
+
+
+
+«Il Buco nel Cielo!» disse. «Che bel nome! Che buon poeta ero a quei tempi! Il Buco nel Cielo. Ma fa entrare, o fa uscire?»
+
+
+
+
+Negli ultimi raggi orizzontali del sole calato la fantastica [[archetypes/shadow|ombra]] del quadrupede dalle lunghe orecchie, che Pump aveva ora legato a un nuovo e più vicino pascolo, cadeva sull’ultimo lembo di sabbia illuminato dal sole. Dalroy guardò la lunga, esagerata [[archetypes/shadow|ombra]] dell’asino; e rise di quella breve risata esplosiva che aveva emesso quando le porte degli harem erano state chiuse dopo la guerra turca. Era di norma un uomo fin troppo loquace; ma non spiegava mai quelle risate.
+
+
+
+
+Humphrey Pump si tuffò di nuovo nel nido incassato, e cominciò a spillare la botte di rum secondo il suo segreto stile, dicendo: «Domani in qualche modo ci procureremo qualcos’altro. Per stanotte possiamo mangiare formaggio e bere rum, tanto più che c’è [[motifs/water|acqua]] alla spina, per così dire. E ora, Capitano, cantaci la Canzone Contro le Canzoni.»
+
+
+
+
+Patrick Dalroy bevve un po’ di rum da un bicchierino da medicina che il generalmente imprevedibile signor Pump imprevedibilmente estrasse dal taschino del panciotto; ma il colorito di Patrick era salito, la fronte gli era quasi rossa come i capelli; ed era palesemente riluttante.
+
+“Non capisco perché dovrei cantare tutte queste canzoni,” disse. “Perché diavolo non la canti tu stesso una canzone? E ora che ci penso, ” esclamò, con un accento sempre più marcato, forse non del tutto indipendente dall’effetto del rum, che in realtà non beveva da anni, “ora che ci penso, e quella tua canzone? Tutta la mia giovinezza ritorna in questo posto maledetto. E ricordo quella tua canzone, che non è mai esistita e probabilmente non esisterà mai. Non te ne ricordi più, Humphrey Pump? Quella notte in cui ti cantai ben diciassette canzoni di mia composizione, ”
+
+
+
+
+“Me lo ricordo molto bene,” rispose l’inglese, con moderazione.
+
+
+
+
+“E non vi ricordate,” continuò l’irlandese eccitato, con solennità, “che se non riuscivate a comporre una poesia lirica vostra, scritta e cantata da voi stessi, minacciavo di, ”
+
+
+
+
+“Per cantare di nuovo…”, disse la indecifrabile Pump. “Sì, lo so.”
+
+
+
+
+Con calma, tirò fuori dalle sue tasche – che, purtroppo, assomigliavano di più a quelle di un bracconiere che a quelle di un locandiere – un pezzo di carta piegato e ingiallito.
+
+
+
+
+“L’ho scritto quando me l’hai chiesto,” disse semplicemente. “Non ho mai provato a cantarlo. Ma lo canterò io stesso, dopo che avrai cantato la tua -canzone, contro chiunque voglia cantare.”
+
+
+
+
+“Bene,” esclamò il Capitano, un po’ eccitato, “sentire una -canzone cantata da te, beh, canterei qualsiasi cosa. Questa è la -canzone contro le altre canzoni, Hump.”
+
+
+
+
+E ancora una volta, fece risuonare la sua voce come un ruggito contro il silenzio della sera.
+
+
+
+
+“La canzone del dolore di Melisande è una canzone triste e desolata.”
+
+
+
+
+La gloria della tenuta di [[characters/mariana|Mariana]] era ormai in grave declino.
+
+
+
+
+La canzone  del Corvo, “Never More”, non è mai stata definita una canzone allegra.
+
+
+
+
+E le cose più brillanti nelle opere di Baudelaire sono tutt'altro che “gay”.
+
+
+
+
+Ma chi scriverà per noi una canzone da cavalcare?
+
+
+
+
+O una canzone di caccia, o una canzone di bevute.
+
+
+
+
+Adatti a coloro che si alzarono e montarono in sella…
+
+
+
+
+Quando il giorno e il vino erano rossi?
+
+
+
+"Portami una quarta di vino rosso."
+
+
+
+
+E vi scriverò una canzone che suonerà allegramente.
+
+
+
+
+Una -canzone di guerra e una -canzone di vino.
+
+
+
+
+E una canzone in grado di risvegliare i morti.
+
+
+
+
+
+“La canzone della furia di Fragolette è una canzone ricca di colori e intensa, appassionata.”
+
+
+
+
+La -canzone del dolore di Tara viene cantata su un arpa senza corde.
+
+
+
+
+La canzone del gioioso ragazzo dello Shropshire la considero una canzone davvero orribile.
+
+
+
+
+E la -canzone del felice Futurista è una -canzone che non può essere cantata.
+
+
+
+
+Ma chi scriverà per noi una canzone da cavalcare?
+
+
+
+
+O una canzone di lotta, o una canzone di bevute.
+
+
+
+Adatto ai padri di voi e di me
+
+
+
+
+Che sapeva come pensare e come prosperare?
+
+
+
+
+Ma la -canzone di [[concepts/beauty|Bellezza]], Arte e [[motifs/love|Amore]].
+
+
+
+
+È semplicemente una canzone terribilmente brutta.
+
+
+
+
+Per [[topoi/double|raddoppiarti]], basta unire le tue parti e poi trascinarti giù.
+
+
+
+
+E maledica la tua [[motifs/soul|'anima]] per l'eternità.
+
+
+
+“Prendi ancora un po’ di rum,” concluse l’ufficiale irlandese in tono amichevole, “e finalmente ascolteremo la tua canzone.”
+
+
+
+
+Con quella gravità inscindibile dalla profonda convenzionalità delle persone di campagna, il signor Pump aprì il foglio su cui aveva annotato l’unica emozione antagonistica abbastanza forte da spingere la sua infinita tolleranza inglese fino al punto di trasformarla in una sorta di canto. Lesse il titolo con molta attenzione e per intero.
+
+
+
+
+“Canzone contro i negozi di alimentari, scritta da Humphrey Pump, proprietario unico di ‘The Old Ship’ a Pebblewick. Ottimo alloggio per uomini e animali. Conosciuta come la locanda in cui sia la [[characters/queen|Regina]] Charlotte che Jonathan Wilde soggiornarono in diverse occasioni; e dove il venditore di gelati fu scambiato per Napoleone. Questa canzone è quindi indirizzata contro i negozi di alimentari.”
+
+
+
+
+“Dio ha creato il malvagio Rivenditore, ”
+
+
+
+
+Per un mistero e un segno
+
+
+
+Per che gli uomini possano evitare quei terribili luoghi…
+
+
+
+Andare nelle taverne per mangiare…
+
+
+
+Dove si trova il bacon sul tetto
+
+
+
+Il vino è nel legno
+
+
+
+E Dio che ha creato la buona risata
+
+
+
+
+Ha visto che sono buoni.
+
+
+
+
+
+Il malvagio Rivenditore.
+
+
+
+
+Chiamerebbe sua madre “Signora”.
+
+
+
+E inchinandosi davanti a lei…
+
+
+
+
+La sua anziana [[motifs/soul|'anima]] era destinata all'inferno;
+
+
+
+
+“E si strofina quelle mani orribili, chiedendo…”
+
+
+
+Qual era l’articolo successivo?
+
+
+
+Morte nell’atto
+
+
+
+
+Dovrebbe essere il testo originale suo.
+
+
+
+
+
+“I suoi oggetti personali non sono i suoi figli”
+
+
+
+
+Ma i ragazzi vivaci vengono pagati troppo poco.
+
+
+
+
+Chi grida “Denaro!” e fa tutto un trambusto…
+
+
+
+
+Per esercitare la sua malvagia attività…
+
+
+
+Una signora in gabbia
+
+
+
+
+“La parte più crudele di tutta la giornata…”
+
+
+
+
+“E la fa contare, chiamandola ‘Signorina’.”
+
+
+
+
+Fino a quando non svanirà.
+
+
+
+
+
+“I menti rette degli ostieri”
+
+
+
+Inducili di tanto in tanto
+
+
+
+Rompere una bottiglia con un amico
+
+
+
+
+O trattate gli uomini senza denaro…
+
+
+
+
+Ma chi ha mai visto il Rivenditore di alimentari?
+
+
+
+"Offre alle domestiche il suo tè"...
+
+
+
+Apri una bottiglia di salsa di pesce…
+
+
+
+
+O forse un uomo preferisce il formaggio?
+
+
+
+
+
+"Ci vende le sabbie dell’Arabia"
+
+
+
+Zucchero in cambio di contanti
+
+
+
+
+Lui pulisce il suo negozio e vende la [[motifs/dust|polvere]] che si accumula.
+
+
+
+
+La salvia più pura della città;
+
+
+
+Riempie di lattine di carne avvelenata
+
+
+
+
+Poveri sudditi del [[archetypes/king|Re]],
+
+
+
+
+E quando muoiono a migliaia
+
+
+
+
+Oh, ride di tutto.
+
+
+
+
+
+“Il malvagio macellaio vende carne di cattiva qualità, ”
+
+
+
+
+Nell’allegria e nel vino…
+
+
+
+Non francamente e in compagnia…
+
+
+
+
+Come fanno gli uomini nelle taverne a mangiare…
+
+
+
+
+Ma pieno di sapone e sardine
+
+
+
+
+E portato via dai groom…
+
+
+
+Rapito dalle duchesse
+
+
+
+
+E ubriachi nei bagni.
+
+
+
+
+
+Il macellaio maldestro.
+
+
+
+Ha un tempio fatto di latta
+
+
+
+
+E la rovina dei buoni gestori di ostelli
+
+
+
+
+Viene fortemente raccomandato in quel testo.
+
+
+
+
+Ora però le sabbie stanno finendo…
+
+
+
+Zucchero di un certo tipo
+
+
+
+
+Il macellaio trema, perché è giunto il suo momento.
+
+
+
+
+“Proprio come il suo peso è scarso…”
+
+
+
+Il Capitano Dalroy si stava innervosendo sempre di più a causa del liquore marittimo che beveva, e la sua apprezzazione per la canzone di Pump non era affatto silenziosa, anzi, molto vivace! Si alzò in piedi e agitò il suo bicchiere. “Dovresti essere nominato Poeta Laureate, Hump, hai ragione, davvero; non possiamo continuare così!”
+
+
+
+
+Corse disperatamente su per il pendio sabbioso e indicò con il cartello verso la riva che si stava oscurando, dove il basso capanno di ferro ondulato si ergeva quasi isolato.
+
+
+
+
+“Ecco il vostro tempio di latta! Bruciamolo!” disse.
+
+
+
+
+Si trovavano a una certa distanza lungo la costa, lontani dalla grande località balneare di Pebblewick; tra il crepuscolo che si addensava e il paesaggio ondulato, non era possibile vedere nulla con chiarezza. Non si scorgeva più nulla se non il padiglione in ferro ondulato vicino alla spiaggia e tre villette a metà costruite in mattoni rossi.
+
+
+
+
+Sembrava che Dalroy guardasse il salone e le case vuote con grande malvagità.
+
+
+
+
+“Guardate!” disse. “Babilonia!”
+
+
+
+
+Sventolò il cartello del locale in aria come una bandiera, poi iniziò a camminare verso quel posto, lanciando maledizioni.
+
+
+
+
+“In quaranta giorni,” gridò, “Pebblewick sarà distrutta. I cani berranno il [[motifs/blood|sangue]] di J. Leveson, Segretario, ”
+
+
+
+
+“Torna indietro, Pat!”, gridò Humphrey, “hai bevuto troppo rum”.
+
+
+
+
+“I leoni urleranno sulle sue alture”, gridò il Capitano.
+
+
+
+
+“Comunque sia, i muli urleranno,” disse Pump. “Ma immagino che l’altro mulo debba seguirli.”
+
+
+
+
+E dopo aver caricato il quadrupede e sciolto i legami che lo tenevano fermo, iniziò a guidarlo lungo la strada.
+
+CAPITOLO VII: LA SOCIETÀ DELLE ANIME SEMPLICI
+
+
+Sotto un tramonto insieme più tenue e più cupo, sotto il quale il mare plumbeo assumeva un purpureo quaresimale, tinta consona alla [[forms/tragedy|tragedia]], Lady Joan Brett vagava di nuovo tetra lungo il lungomare. La serata era stata piovosa e minacciosa; la stagione balneare era quasi finita; ed ella era quasi sola sulla riva; ma aveva preso l'abitudine di percorrere il luogo con passo inquieto, e ciò pareva saziare una qualche fame subconscia nella sua psicologia piuttosto composita. Attraverso tutto il suo rimuginare i suoi sensi animali restavano sempre anormalmente vigili: fiutava il mare anche quando si era ritirato quasi all'orizzonte, e allo stesso modo udiva, attraverso ogni sussurro di onde o di [[motifs/wind|vento]], il fruscìo o lo svolazzo della gonna di un'altra donna dietro di lei. C'è, sentiva, qualcosa di inconfondibile nei movimenti di una signora generalmente molto dignitosa e piuttosto lenta, che si trovi ad avere fretta.
+
+
+
+
+Si voltò a guardare la signora che così s'affrettava a raggiungerla; inarcò un poco le sopracciglia e le porse la mano. L'importuna le era nota come Lady Enid Wimpole, cugina di Lord Ivywood; una signora alta e aggraziata che squilibrava la propria eleganza con un abbigliamento alla moda insieme funereo e stravagante; i suoi capelli biondi erano pallidi ma folti; il volto non solo era bello e delicato nello stile aquilino, ma, considerato seriamente, era sensibile, modesto e persino patetico; tuttavia i suoi smorti occhi azzurri parevano lievemente sporgenti, con quell'espressione di fredda avidità che si vede negli occhi delle signore che pongono domande alle assemblee pubbliche.
+
+
+
+
+Joan Brett era ella stessa, come aveva detto, imparentata con la famiglia Ivywood; ma Lady Enid era cugina di primo grado di Ivywood, e a tutti gli effetti pratici sua sorella. Poiché teneva la casa per lui e per sua madre, ormai così incredibilmente vecchia che sopravviveva solo per soddisfare l'opinione convenzionale nel ruolo di muta e inutile dama di compagnia. E Ivywood non era il tipo capace di suscitare qualche attività in una vecchia signora che esercitasse quell'ufficio. Né, se è per questo, lo era Lady Enid Wimpole; pareva risplendere sul suo volto la stessa specie di buon senso inumano e distratto che risplendeva su quello del cugino.
+
+
+
+
+«Oh, sono così contenta d'averti raggiunta,» disse a Joan. «Lady Ivywood desidera tanto che tu venga da noi per il fine settimana o giù di lì, finché Philip è ancora qui. Ha sempre ammirato moltissimo il tuo [[forms/sonnet|sonetto]] su Cipro, e vuole parlarti di questa sua politica in Turchia. Naturalmente è terribilmente occupato, ma lo vedrò stasera dopo l'adunanza.»
+
+
+
+
+«Nessuna creatura vivente,» disse Lady Joan, con un sorriso, «lo ha mai visto se non prima o dopo un'adunanza.»
+
+
+
+
+«Sei un'[[motifs/soul|Anima]] Semplice?» chiese Lady Enid, con noncuranza.
+
+
+
+
+«Se sono un'[[motifs/soul|anima]] semplice?» chiese Joan, aggrottando le nere sopracciglia. «Cielo misericordioso, no! Che cosa vuoi dire?»
+
+
+
+
+«La loro adunanza è stasera al piccolo Universal Hall, e Philip la presiede,» spiegò l'altra signora. «È molto seccato di doversene andare presto per correre alla Camera, ma il signor Leveson può presiedere l'ultima parte. Hanno con loro Misysra Ammon.»
+
+
+
+
+«Hanno la signora chi?» chiese Joan, in onesto [[concepts/doubt|dubbio]].
+
+
+
+
+«Fai la beffa di tutto,» disse Lady Enid, con squallida amabilità. «È l'uomo di cui tutti parlano—lo sai [[motifs/well|bene]] quanto me. È davvero la sua influenza ad aver creato le Anime Semplici.»
+
+
+
+
+«Oh!» disse Lady Joan Brett.
+
+
+
+
+Poi, dopo un lungo [[motifs/silence|silenzio]], aggiunse: «Chi sono le Anime Semplici? M'interesserebbero, se solo potessi incontrarne qualcuna.» E volse il volto scuro e pensoso verso il mare purpureo che si oscurava.
+
+
+
+
+«Vuoi forse dire, mia cara,» chiese Lady Enid Wimpole, «che non ne hai ancora incontrata nessuna?»
+
+
+
+
+«No,» disse Joan, guardando l'ultima scura linea del mare. «In vita mia non ho mai incontrato che una sola [[motifs/soul|anima]] semplice.»
+
+
+
+
+«Ma devi venire all'adunanza!» esclamò Lady Enid, con gelida e scintillante allegria. «Devi venire subito! Philip sarà certo eloquente su un argomento simile, e naturalmente Misysra Ammon è sempre così meraviglioso.»
+
+
+
+
+Senza un'idea molto chiara di dove andasse o perché vi andasse, Joan si lasciò condurre a un basso capannone di piombo o di latta, oltre gli ultimi alberghi sparpagliati, dal cui guscio riecheggiante poté udire in anticipo una voce che le parve di riconoscere. Quando entrò, Lord Ivywood era in piedi, in squisito abito da sera, ma con un leggero soprabito gettato sul sedile dietro di lui. Accanto a lui, in un abito da sera meno raffinato ma più vistoso, c'era il piccolo vecchio che aveva udito sulla spiaggia.
+
+
+
+
+Nessun altro era sul palco, ma proprio sotto di esso, con una certa sorpresa di Joan, sedeva Miss Browning, la sua vecchia amica dattilografa nel suo vecchio abito nero, che trascriveva industriosamente in stenografia le parole di Lord Ivywood. A un metro o due di distanza, con sua ancor maggiore sorpresa, sedeva la sorella più casalinga di Miss Browning, che pure trascriveva in stenografia le medesime parole.
+
+
+
+
+«Quello è Misysra Ammon,» sussurrò Lady Enid, con fervore, puntando un dito delicato verso il piccolo vecchio accanto al presidente.
+
+
+
+
+«Lo conosco,» disse Joan. «Dov'è l'ombrello?»
+
+
+
+
+«…almeno evidente,» stava dicendo Lord Ivywood, «che una di quelle impossibilità ancestrali non è più impossibile. L'Oriente e l'Occidente sono una cosa sola. L'Oriente non è più Oriente né l'Occidente Occidente; poiché un piccolo istmo è stato spezzato, e l'Atlantico e il Pacifico sono un unico mare. Nessuno di certo ha fatto più di questa possente opera di unità del brillante e illustre filosofo che avrete il piacere di ascoltare stasera; e desidero profondamente che affari più pratici, per non dirli più importanti, non m'impedissero di restare a godere della sua eloquenza, come tante volte ne ho goduto in passato. Il signor Leveson ha cortesemente acconsentito a prendere il mio posto, e io non posso far altro che esprimere la mia profonda simpatia per gli scopi e gli ideali che stasera saranno svolti dinanzi a voi. Da lungo tempo sono sempre più convinto che, sotto una certa maschera di rigidità che la religione maomettana ha indossato attraverso certi secoli, come una maschera in qualche modo simile è stata indossata dalla religione degli ebrei, l'[[historical-references/islam|Islam]] racchiuda in sé le potenzialità di essere la più progressista di tutte le religioni; sicché tra un secolo o due potremo vedere la causa della pace, della scienza e della [[concepts/reform|riforma]] ovunque sostenuta dall'[[historical-references/islam|Islam]] come è ovunque sostenuta da Israele. Non invano, credo, il simbolo di quella [[concepts/faith|fede]] è la Mezzaluna, la cosa che cresce. Mentre altri credi recano emblemi che implicano più o meno una finalità, per questo grande credo della [[concepts/hope|speranza]] la sua stessa imperfezione è il suo [[concepts/pride|orgoglio]], e gli uomini cammineranno senza timore per sentieri nuovi e meravigliosi, seguendo la curva crescente che contiene e regge dinanzi a loro le eterne promesse dell'astro.»
+La società delle anime semplici (parte 2)
+
+Era caratteristico di Lord Ivywood che, sebbene fosse davvero di fretta, si sedette lentamente e con gravità in mezzo all'esplosione di applausi. La tranquilla ripresa del posto dell'oratore, come l'applauso stesso, era una parte artistica della perorazione. Quando l'ultimo battito di mani o colpo di tosse si fu placato, saltò su con prontezza, il suo leggero pastrano sul braccio, strinse la mano al conferenziere, fece un inchino al pubblico e scivolò rapidamente fuori dalla sala. Il signor Leveson, il giovane uomo scuro con gli occhiali a [[topoi/double|doppia]] montatura che pendeva piuttosto timidamente in avanti, prese il posto vuoto sul palco e in poche parole presentò l'eminente mistico turco Misysra Ammon, talvolta chiamato il [[archetypes/prophet|Profeta]] della [[motifs/moon|Luna]].
+
+
+
+
+La signora Joan trovò l'accento inglese del [[archetypes/prophet|Profeta]] un po' migliorato dalla buona società, ma egli continuava a prolungare la lettera “u” nello stesso modo belante e le sue osservazioni avevano esattamente la stessa ingegnosità ostinatamente sbagliata della sua conferenza sugli alberghi inglesi. Sembrava che stesse parlando di poligamia superiore; ma iniziò con una sorta di difesa generale della civiltà musulmana, specialmente contro l'accusa di sterilità e inefficacia mondana.
+
+
+
+
+“È proprio nelle cose pratiche”, diceva lui, “è proprio nelle cose pratiche che se le si potesse considerare in modo del tutto uguale, i nostri metodi sono migliori dei vostri. I miei antenati inventarono le spade curve perché con una spada curva si taglia meglio. Voi avete ereditato le spade dritte per qualche romantica fantasia di essere quello che voi chiamate diritti; oppure, prendiamo un esempio più semplice, su cui ho esperienza personale. Quando ebbi l'[[concepts/honour|onore]] di incontrare Lord Ivywood, non ero abituato alle vostre varie cerimonie e trovai una certa difficoltà, solo una piccola difficoltà, a entrare nell'albergo Claridge dove sua signoria mi aveva invitato. Un servitore dell'albergo stava proprio accanto a me sulla soglia. Mi chinai per togliermi gli stivali e lui mi chiese cosa stessi facendo. Gli risposi: ‘Amico mio, sto togliendomi gli stivali.’”
+
+
+
+
+Un suono soffocato provenne da lady Joan Brett, ma il conferenziere non lo notò e continuò con una bella semplicità.
+
+
+
+
+«Gli ho detto che nel mio paese, quando si vuole dimostrare rispetto per un luogo, non ci togliamo il cappello; ci togliamo gli sti-vali. E poiché io avrei continuato a tenere il cappello e a togliermi gli sti-vali, lui mi ha suggerito che Allah mi aveva colpito alla testa. Non era divertente?»
+
+
+
+
+«Molto», disse Lady Joan dietro il fazzoletto, perché stava soffocando dalle risate. Qualcosa come un pallido sorriso attraversò i volti seri dei due o tre più intelligenti tra le Anime Semplici, ma per lo più le Anime sembravano davvero molto semplici, persone dall'aria indifesa con capelli lisci e vestiti simili a tende verdi, e i loro volti secchi erano ancora più secchi di prima.
+
+
+
+
+“Ma glielo ho spiegato. Gliel'ho spiegato per un lungo [[motifs/time|periodo]], per un periodo attentamente occupato, che era più pratico, più commerciale, più utile in assoluto togliersi gli stivali piuttosto che il cappello. ‘Pensiamo’, gli ho detto, ‘a quante lamentele ci sono contro le calzature e a quante poche ce ne sono contro i copricapo. Ti lamenti se nei tuoi salotti si cammina con gli stivali pieni di fango. Ma c'è forse qualcuno dei tuoi salotti che è segnato dal fatto che ci si cammina con i cappelli pieni di fango? Quanti mariti ti calpestano con gli stivali! Eppure, quanti pochi mariti in qualche occasione ti danno una botta in testa col cappello?’”
+
+
+
+
+Si guardò intorno con un'aria di serietà radiosa che rese Lady Joan quasi muta per la simpatia, come lo era per il divertimento. Con tutto ciò che c'era di più sano nella sua troppo complicata [[motifs/soul|anima]], si rese conto della presenza di un uomo veramente convinto.
+
+
+
+
+“L'uomo sulla porta non mi ha voluto ascoltare”, continuò Misysra Ammon con voce patetica, “ha detto che ci sarebbe stata una folla se fossi rimasto sulla porta tenendo in mano i miei stivali. [[motifs/well|Beh]], non so perché nel vostro paese mandate sempre i giovani maschi a fare da apripista alle vostre folle. Di certo facevano un sacco di rumore, quei giovani maschi.”
+
+
+
+
+Lady Joan Brett si alzò improvvisamente e mostrò un enorme interesse per il resto del pubblico nelle parti posteriori della sala. Sentiva che se avesse guardato ancora per un momento quel volto serio con il naso ebraico e la barba persiana, si sarebbe umiliata pubblicamente; o, cosa altrettanto grave (perché era il tipo di aristocratica generosa), avrebbe insultato pubblicamente il conferenziere. Pensò che la vista di tutte quelle Anime Semplici in massa potesse avere un effetto calmante. Lo ebbe. Ebbe quello che si sarebbe potuto scambiare per un effetto deprimente. Lady Joan riprese posto con un'espressione controllata.
+
+
+
+
+“Ora, perché”, chiese il filosofo orientale, “racconto una storia così semplice delle vostre strade di [[settings/london|Londra]] - qualcosa che succede tutti i giorni? L'errore non ebbe alcun effetto pregiudizievole. Lord Ivywood alla fine uscì. Non fece nessun tentativo di spiegare la vera opinione su questioni così importanti al servo del signor Claridge, anche se il servo del signor Claridge rimase sulla soglia della porta. Ma ordinò al servo del signor Claridge di restituirmi uno dei miei stivali, che era caduto giù per i gradini d'ingresso mentre spiegavo questa innocuità del cappello nella [[motifs/home|casa]]. Così tutto andò, per me, molto [[motifs/well|bene]]. Ma perché racconto queste piccole storie?”
+
+
+
+
+Di nuovo spalancò le mani in quel suo gesto orientale a ventaglio. Poi si batté le palme insieme così all'improvviso che Giovanna sobbalzò e istintivamente cercò con gli occhi l'ingresso di cinquecento schiavi neri carichi di gioielli. Ma era solo il suo enfatico gesto oratorio. Continuò con un ispessirsi dell'accento, eccitato.
+
+
+
+
+«Perché, miei amici, questo è il miglior esempio che potrei dare del carattere errato e calunnioso dell'accusa di fallire nelle nostre faccende domestiche. Che falliamo specialmente nel nostro trattamento delle donne. Mi appello a qualsiasi signora, a qualsiasi signora cristiana. Non è forse lo sti-ivale più devastante, più temuto in [[motifs/home|casa]] rispetto al cappello? Lo stivale salta, si agita, corre in giro, rompe le cose, lascia sul tappeto la terra del [[motifs/garden|giardino]]. Il cappello rimane tranquillo sul suo appendiabiti. Guardatelo sul suo appendiabiti; quanto è tranquillo e buono! Perché non lasciarlo tranquillo anche sulla sua testa?»
+
+Lady Joan applaudì calorosamente, come fecero diverse altre dame, e il saggio proseguì, incoraggiato.
+
+
+
+
+«Non potete dunque fidarvi, care dame, che questa grande religione vi comprenda riguardo ad altre cose, così come vi comprende riguardo agli sti-ivali? Qual è la comune obiezione che i nostri degni nemici muovono contro la nostra poligamia? Che essa disprezza la femminilità. Ma come può essere così, amici miei, quando essa permette alla femminilità di essere presente in così gran numero? Quando nella vostra Camera dei Comuni mettete cento membri inglesi e sohltanto un piccolo membro gallese, non dite “Il gallese sta in cima; è il nostro Sultano; possa vivere in eterno!” Se la vostra giuria contenesse undici grandi e grosse dame e un ometto piccino, non direste “questo è ingiusto verso le grandi e grosse dame.” Perché dovreste allora ritrarvi, dame, da questo grande esperimento poligamico che Lord Ivywood stesso—»
+
+
+
+
+Gli occhi scuri di Joan erano ancora fissi sul volto rugoso e paziente del conferenziere, ma ogni parola del resto della conferenza andò perduta per lei. Sotto il suo acceso incarnato spagnolo era impallidita per emozioni straordinarie, ma non mosse un capello.
+
+
+
+
+La porta della sala era aperta, e suoni occasionali giungevano perfino da quell'estremità deserta della città. Due uomini sembravano passare lungo il lontano lungomare; uno di loro cantava. Era cosa abbastanza comune che gli operai cantassero tornando a [[motifs/home|casa]] di [[motifs/night|notte]], e la voce, per quanto forte, sarebbe stata troppo lontana perché Joan potesse udire le parole. Solo che Joan per caso conosceva quelle parole. Poteva quasi vederle davanti a sé, scritte in una tonda grafia spavalda sulla pagina rosa di un vecchio album di collegiale a [[motifs/home|casa]]. Conosceva le parole e la voce.
+
+
+
+
+«Vengo da Castlepatrick e il mio cuore è sulla manica,
+
+
+
+
+E qualunque ragazzo con spada o [[characters/pistol|pistola]] può colpirlo col mio consenso,
+
+
+
+
+Vi brilla come una spallina, dorato come una fiamma,
+
+
+
+
+Nudo come i miei antenati, nobile come il mio nome.
+
+
+
+
+Ché vengo da Castlepatrick e il mio cuore è sulla manica,
+
+
+
+
+Ma una dama me lo rubò la vigilia di San Gallowglass.»
+
+
+
+Di soprassalto e con acuto [[motifs/pain|dolore]] sorse davanti agli occhi di Joan un lembo di brughiera scoscesa con un incavo profondissimo di sabbia bianca, accecante al sole. Nessuna parola, nessun nome, solo il luogo.
+
+
+
+
+«La gente che vive a Liverpool ha il cuore negli stivali;
+
+
+
+
+Vanno all'Inferno come agnelli, sì, perché la sirena fischia.
+
+
+
+
+Dove agli uomini non è concesso ballare, benché le ruote possano [[motifs/dance|danzare]] tutto il giorno;
+
+
+
+
+E agli uomini non è concesso fumare, ma solo ai camini.
+
+
+
+
+Ma io vengo da Castlepatrick e il mio cuore è sulla manica,
+
+
+
+
+Ma una dama me lo rubò la vigilia di San Poleyander.
+
+
+
+
+
+«La gente che vive nella nera Belfast ha il cuore in gola;
+
+
+
+
+Ci vedono commettere omicidi nei prati del Sud;
+
+
+
+
+Credono che un aratro sia una ruota di tortura, e i richiami del bestiame dei credi,
+
+
+
+
+E credono che bruciamo streghe quando bruciamo solo erbacce.
+
+
+
+
+Ma io vengo da Castlepatrick, e il mio cuore è sulla manica;
+
+
+
+
+Ma una dama me lo rubò la vigilia di San Barnaba.»
+
+
+
+La voce si era interrotta di colpo, ma gli ultimi versi erano tanto più distinti che era certo che il cantore si fosse avvicinato, e non stesse andando via.
+
+
+
+
+Fu solo dopo tutto questo, e come attraverso una sorta di nube, che Lady Joan udì l'indomito Orientale condurre a conclusione tutto il suo eloquente discorso.
+
+
+
+
+«… E se non rifiu-utate il sole che ritorna e sorge a Oriente ogni mattina, non rifiu-uterete nemmeno questo grande esperimento sociale, questo grande metodo poligamico che pure sorse dall'Oriente, e sempre ritorna. Poiché questa è quella Poligamia Superiore che sempre viene, come il sole stesso, dall'[[settings/orient|oriente]], ma è nel suo splendore meridiano soltanto quando il sole è alto nel cielo.»
+
+
+
+
+Ella era solo vagamente consapevole del signor Leveson, l'uomo dal volto scuro e dagli occhiali, che ringraziava dell'incantevole conferenza in termini appropriati, e invitava chiunque tra le Anime Semplici avesse domande da porre a porle. Fu solo quando le Anime Semplici ebbero esibito la loro semplicità con la consueta sfilata di [[motifs/well|ben]] educata riluttanza e di premurosa [[concepts/self|auto]]-cancellazione, che qualcuno si rivolse al presidente. E fu solo dopo che qualcuno si era rivolto al presidente per qualche [[motifs/time|tempo]] che Joan si accorse a poco a poco che l'intervento era alquanto insolito.
+
+CAPITOLO VIII: VOX POPULI VOX DEI
+
+
+«Sono certo,» aveva detto il signor Leveson, il Segretario, con un sorriso alquanto forzato, «che dopo l'eloquente discorso epocale che abbiamo ascoltato verranno poste alcune domande, e [[concepts/hope|speriamo]] di avere poi un dibattito. Sono certo che qualcuno porrà una domanda.» Poi guardò interrogativamente un signore dall'aria stanca nella quarta fila e disse: «Signor Hinch?»
+
+
+
+
+Il signor Hinch scosse il capo con una pallida passione di rifiuto, mirabile a vedersi, e disse: «Non potrei! Davvero non potrei!»
+
+
+
+
+«Saremmo assai lieti,» disse il signor Leveson, «se qualche dama volesse porre una domanda.»
+
+
+
+
+Nel [[motifs/silence|silenzio]] che seguì si impresse in qualche modo, psicologicamente, in tutto l'uditorio la sensazione che una certa grande e grossa dama (come avrebbe detto il conferenziere) seduta in fondo alla seconda fila fosse attesa a porre una domanda. La sua stessa immobilità da figura di cera testimoniava sia l'attesa sia la sua delusione. «Ci sono altre domande?» chiese il signor Leveson—come se ve ne fosse stata alcuna finora. Sembrava parlare con una lieve aria di sollievo.
+
+
+
+
+Vi fu una sorta di agitazione in fondo alla sala e a metà di uno dei suoi lati. Si udivano bisbigli soffocati: «Su, Garge!»—«Dài, Garge! C'è qualche domanda! Gor!»
+
+
+
+
+Il signor Leveson alzò lo sguardo con una prontezza affine all'allarme. Si rese conto per la prima [[motifs/time|volta]] che alcuni uomini assai comuni, in abiti rozzi e sudici, erano in qualche modo entrati passeggiando dalla porta aperta. Non erano veri campagnoli, ma quei braccianti semi-campagnoli che gironzolano ai margini delle grandi stazioni balneari. Fra loro non c'era alcun «signore». Vi era una generale tendenza a chiamare chiunque George.
+
+
+
+
+Il signor Leveson colse la situazione e vi cedette. Si modellò su Lord Ivywood e fece press'a poco ciò che questi avrebbe fatto in ogni caso, ma con una timidezza che Lord Ivywood non avrebbe mostrato. E la medesima educazione sociale che lo faceva vergognare di trovarsi con simili uomini, lo faceva vergognare di ammettere la propria vergogna. Il medesimo spirito moderno che gli insegnava a detestare simili stracci, gli insegnava anche a mentire sulla propria repulsione.
+
+
+
+
+«Sono certo che saremmo assai lieti,» disse, nervosamente, «se qualche amico venuto da fuori desiderasse unirsi alla nostra indagine. Naturalmente siamo tutti Democratici,» e si guardò attorno verso le nobili dame con un sorriso spettrale, «e crediamo nella Voce del Popolo e così via. Se il nostro amico in fondo alla sala vorrà porre la sua domanda brevemente, non occorre, credo, insistere perché la metta per iscritto?»
+
+
+
+
+Vi furono rinnovati rauchi incoraggiamenti a George (quel campione ben battezzato) ed egli avanzò barcollando su gambe legate nel mezzo con lo spago. Non pareva aver avuto alcun posto a sedere dal suo arrivo, e fece le sue osservazioni in piedi, a metà di quello che possiamo chiamare il corridoio centrale.
+
+
+
+
+«[[motifs/well|Beh]], voglio chiedere al proprietario,» esordì.
+
+
+
+
+«Le domande,» disse il signor Leveson, cogliendo prontamente l'occasione per quella costruzione del dibattito che è la principale mansione di un presidente moderno, «devono essere rivolte alla presidenza, se sono questioni di procedura. Se riguardano il discorso, vanno rivolte al conferenziere.»
+
+
+
+
+«[[motifs/well|Beh]], allora chiedo al conferenziere,» disse il paziente Garge, «se non è giusto che quando c'hai la cosa fuori tu debba avere la cosa dentro.» (Rauchi applausi in fondo.)
+
+
+
+
+Il signor Leveson era palesemente perplesso e già sospettava che qualcosa fosse del tutto sbagliato. Ma l'entusiasmo del [[archetypes/prophet|Profeta]] della [[motifs/moon|Luna]] balzava su all'istante a qualsiasi sorta di domanda e trascinava con sé il Presidente.
+
+
+
+
+«Ma è l'ee-ssenza di tutto il nostro inte-ero messaggio,» gridò, aprendo le braccia per abbracciare il mondo, «che la manifestazione esteriore sia una cosa sola con la manifestazione interiore. Amici mie-ei, è proprio questa veri-ità enunciata dal nostro amico che è responsabile della nostra apparente mancanza di simbolismo nell'[[historical-references/islam|Islam]]! Sembriamo trascurare il simbolo perché insistiamo sul simbolo soddisfacente. Il mio amico nel mezzo girerà intorno a tutte le nostre moschee e dirà ad alta voce: “Dov'è la statua di Allah?” Ma può davvero il mio amico nel mezzo eseguire una completa e generalmente approvata statua di Allah?»
+
+
+
+
+Misysra Ammon si sedette assai soddisfatto della propria risposta, ma molti dubitarono che ne avesse trasmesso la soddisfazione al suo amico nel mezzo. Quel cercatore di [[concepts/truth|verità]] si asciugò la bocca col dorso della mano con aria insoddisfatta e disse:
+
+
+
+
+«Senza offesa, signore. Ma non è la Legge, signore, che se c'hai quella roba fuori noi siamo a posto? So' entrato qua dentro come niente fosse. Ma perdinci, mai visto un posto come questo prima d'ora.» (Rauche risate dietro.)
+
+
+
+
+«Nessuna scusa è necessaria, amico mio,» gridò il saggio orientale, con ardore, «posso immaginare che voi non siate forse deb-bitamente pratico di simili scuole di [[concepts/truth|verità]]. Ma la Legge è Tutto. La Legge è Allah. L'intima u-unità di—»
+
+
+
+
+«[[motifs/well|Beh]], non è la Legge?» ripeté l'ostinato George, e ogni [[motifs/time|volta]] che nominava la Legge i poveri uomini che ne sono le principali vittime applaudivano forte. «Non sono tipo da far storie. Non sono mai stato tipo da far storie. Sono un uomo rispettoso della legge, io. (Altri applausi.) Non è la Legge che, se questa è la vostra insegna e questo è il vostro mestiere, dovete servirci?»
+
+
+
+
+«[[concepts/fear|Temo]] di non seguire bene,» gridò l'ardente Turco. «Io dovrei?»
+
+
+
+
+«Servirci,» gridò una folla di voci rauche dal fondo della sala, che era già assai più affollata di prima.
+
+
+
+
+«Servirvi!» gridò Misysra, balzando su come una [[motifs/spring|molla]] scattata, «Il Santo [[archetypes/prophet|Profeta]] venne dal Cielo per servirvi! La virtù e il valore di mille anni, amici miei, non hanno avuto altra fame che servirvi! Noi siamo, fra tutte le fedi, la più [[concepts/faith|fede]] del servizio. Il nostro più alto [[archetypes/prophet|profeta]] non è altro che il servo di Dio, come lo sono io, come lo siete tutti voi. Perfino come simbolo scegliamo un satellite, e [[concepts/honour|onoriamo]] la [[motifs/moon|Luna]] perché essa serve soltanto la Terra, e non pretende di essere il Sole.»
+
+
+
+
+«Sono certo,» gridò il signor Leveson, balzando su con un sorriso diplomatico, «che il conferenziere ha risposto a quest'ultimo punto in modo eloquentissimo ed efficacissimo, e le automobili attendono alcune delle dame venute da lontano, e credo davvero che i lavori—»
+
+Tutte le dame artistiche si stavano già infilando gli scialli, con volti che andavano dallo sconcerto al terrore assoluto. Solo Lady Joan indugiava, tremante per un'inspiegabile eccitazione. Hinch, fino ad allora ammutolito, era scivolato fino al seggio del Presidente e gli sussurrò:
+
+
+
+
+«Dovete portar via tutte le dame. Non riesco a immaginare cosa succeda, ma qualcosa succede.»
+
+
+
+
+«[[motifs/well|Allora]]?» ripeté il paziente George. «Se è la Legge, dov'è?»
+
+
+
+
+«Signore e Signori,» disse il signor Leveson, col suo fare più accattivante, «credo che abbiamo trascorso una serata deliziosissima, e—»
+
+
+
+
+«No, per niente,» gridò una voce nuova e più sgradevole da un angolo della stanza. «Dov'è?»
+
+
+
+
+«Questo è ciò che abbiamo il diritto di sapere,» disse George rispettoso della legge. «Dov'è?»
+
+
+
+
+«Dov'è cosa?» gridò il segretario quasi impazzito alla presidenza. «Cosa volete?»
+
+
+
+
+Il signor George, rispettoso della legge, fece un mezzo giro e un gesto verso l'uomo nell'angolo e disse:
+
+
+
+
+«Cosa prendi, Jim?»
+
+
+
+
+«Me piglio un goccio di whisky scozzese,» disse l'uomo nell'angolo.
+
+
+
+
+Lady Enid Wimpole, che aveva indugiato un poco per lealtà verso Joan, l'unica altra dama ancora rimasta, le afferrò entrambi i polsi e gridò in un sussurro concitato:
+
+
+
+
+«Oh, dobbiamo andare all'automobile, cara! Stanno usando un linguaggio spaventoso!»
+
+
+
+
+Laggiù, sul lembo più bagnato della sabbia in riva al mare, le impronte di due ruote e quattro zoccoli venivano lentamente cancellate da una marea che saliva lenta; il che era, invero, l'unico motivo per cui l'uomo Humphrey Pump, conducendo il carretto dell'asino, lo conduceva quasi a caviglia nell'[[motifs/water|acqua]].
+
+
+
+
+«[[concepts/hope|Spero]] che ora tu sia di nuovo sobrio,» disse con una certa serietà al suo compagno, un uomo enorme che camminava pesantemente e persino umilmente con una spada diritta che gli dondolava avanti e indietro al fianco—«perché, sinceramente, è stata una mossa da sciocchi andare a piantare la vecchia insegna davanti a quel baraccone di latta. Non ti ho parlato spesso così, Capitano, ma non credo che alcun altro uomo della contea potrebbe tirarti fuori dai guai come posso io. Ma scendere laggiù e spaventare le dame—diamine, non s'era vista una cosa tanto sciocca da queste parti dai tempi della Follia del Vescovo. Si sentivano le dame strillare prima che ce ne andassimo.»
+
+
+
+
+«Ho udito di peggio molto prima che ce ne andassimo,» disse l'uomo grande, senza alzare il capo. «Ho udito una di loro ridere… [[characters/christ|Cristo]], credi che non riconoscerei la sua risata?»
+
+
+
+
+Vi fu un [[motifs/silence|silenzio]]. «Non intendevo parlare bruscamente,» disse Humphrey Pump con quell'incorruttibile bonarietà che era la radice della sua indole inglese, e che potrà ancora salvare l'[[motifs/soul|anima]] degli inglesi. «Ma è la [[concepts/truth|verità]] che ero parecchio [[motifs/well|bene]] tormentato su come uscire da questa faccenda. Tu sei più coraggioso di me, vedi, e ammetto che avevo paura per entrambi. Se non avessi conosciuto la via per il tunnel perduto, sarei ancora piuttosto spaventato.»
+
+
+
+
+«Conoscevi la via per cosa?» chiese il Capitano, alzando la sua rossa testa per la prima [[motifs/time|volta]].
+
+
+
+
+«Oh, sai tutto del tunnel perduto di No More Ivywood,» disse Pump, con noncuranza. «Diamine, da ragazzi lo cercavamo tutti. Solo che a me capitò di trovarlo.»
+
+
+
+
+«Abbi [[concepts/mercy|pietà]] di un [[concepts/exile|esule]],» disse Dalroy, umilmente. «Non so cosa lo ferisca di più, le cose che dimentica o quelle che ricorda.»
+
+
+
+
+Il signor Pump tacque per un poco e poi disse, più seriamente del solito: «[[motifs/well|Beh]], la gente di [[settings/london|Londra]] dice che si devono erigere manifesti e statue e sottoscrizioni ed epitaffi e il Signore sa cos'altro alle persone che hanno trovato qualche trucco nuovo e sono riuscite a farlo funzionare. Ma solo un uomo che conosce la propria terra per quaranta miglia all'intorno sa quanta gente, e gente in gamba per giunta, ci fu che trovò trucchi nuovi, e dovette nasconderli perché non funzionarono. C'era il dottor Boone, su verso Gill-in-Hugby, che tenne testa al dottor Collison e alla vaccinazione. Il suo trattamento salvò sessanta pazienti che avevano preso il vaiolo; e quello del dottor Collison ne uccise novantadue che non avevano nulla. Ma Boone dovette tenerlo nascosto; naturalmente, perché a tutte le sue pazienti donne crebbero i baffi. Era un effetto del trattamento. Ma non era un effetto su cui gli piacesse soffermarsi. Poi c'era il vecchio Decano [[characters/arthur|Arthur]], che scoprì i palloni aerostatici se mai un uomo lo fece. Li scoprì molto prima che venissero scoperti. Ma la gente era sospettosa verso simili cose a quei tempi—c'era un ritorno della faccenda delle [[characters/witch|streghe]] a dispetto di tutti i pastori—ed egli dovette firmare una carta in cui diceva dove avesse preso l'idea. [[motifs/well|Beh]], è logico, non ti piacerebbe firmare una carta in cui dici di averla avuta dallo scemo del villaggio mentre facevate entrambi le bolle di sapone; e questo è tutto ciò che avrebbe potuto firmare, perché era un onesto gentiluomo, il povero vecchio Decano. Poi c'era Jack Arlingham e la campana da palombaro—ma ti ricordi tutto di quello. [[motifs/well|Beh]], fu proprio lo stesso con l'uomo che costruì questo tunnel—uno dei folli Ivywood. C'è più d'un uomo, Capitano, che ha una statua nelle grandi piazze di [[settings/london|Londra]] per aver contribuito a fare i treni ferroviari. C'è più d'un uomo che ha il proprio nome nell'Abbazia di Westminster per aver fatto qualcosa nella scoperta dei battelli a vapore. Il povero vecchio Ivywood scoprì entrambe le cose in una volta sola; e dovette essere messo sotto tutela. Aveva l'idea che un treno ferroviario potesse essere fatto precipitare dritto in mare e trasformarsi in un battello a vapore; e sembrava tutto giusto, per come lo elaborava. Ma la sua famiglia si vergognava tanto della cosa che non gradiva nemmeno che il tunnel venisse menzionato. Non credo che nessuno sappia dove sia tranne me e Bunchy Robinson. Ci saremo tra un minuto o due. Hanno sparso le rocce a quest'estremità; e lasciato crescere la fitta piantagione all'altra, ma ci ho fatto passare un [[motifs/horse|cavallo]] da corsa in passato, per salvarlo dai giochetti del Colonnello Chepstow, e credo di poter far passare questo asino. Sinceramente, credo sia l'unico posto in cui saremo al sicuro dopo ciò che ci siamo lasciati alle spalle a Pebblewick. Ma è il posto migliore del mondo, non c'è [[concepts/doubt|dubbio]], per starsene nascosti e ricominciare da capo. Eccoci qua. Credi di non poter passare dietro quella roccia, ma puoi. Anzi, l'hai già fatto.»
+
+Dalroy si ritrovò, con un certo sconcerto, dietro l'angolo di una roccia e dentro un lungo condotto o canna di tenebra che terminava in un fioco punto di verde. Udendo dietro di sé gli zoccoli dell'asino e i piedi del suo amico, voltò il capo, ma non riuscì a vedere altro che il buio pesto di una carbonaia chiusa. Si volse di nuovo al fioco punto verde, e avanzando fu lieto di vederlo farsi più ampio e luminoso, come un grande smeraldo, finché non sbucò tra una folla di alberi, per lo più esili, ma cresciuti così fitti e così vicini all'ingresso cavernoso del tunnel che era del tutto evidente che quel luogo era destinato a essere soffocato dalle foreste e dimenticato. La luce che filtrava tremolante tra gli alberi era così frammentata e tremula che era difficile dire se fosse l'alba o il sorgere della luna.
+
+
+
+
+«So che qui c'è [[motifs/water|acqua]],» disse Pump. «Non riuscirono a tenerla fuori dalla muratura quando costruirono il tunnel, e il vecchio Ivywood colpì l'ingegnere idraulico con una livella a bolla. Con questo po' di boscaglia qui e il mare alle spalle dovremmo riuscire a procurarci cibo dell'uno o dell'altro genere, quando il formaggio sarà finito, e gli asini possono mangiare qualsiasi cosa. A proposito,» aggiunse con un certo imbarazzo, «non ti dispiaccia che lo dica, Capitano, ma credo che faremmo meglio a tenere quel rum per le occasioni rare. È il miglior rum d'Inghilterra, e potrebbe essere l'ultimo, se questi folli giochi continuano. Ci farà bene sentire che è lì, così potremo berlo quando ne avremo voglia. La botte è ancora quasi piena.»
+
+
+
+
+Dalroy tese la mano e strinse quella dell'altro. «Hump,» disse, seriamente, «hai ragione. È un sacro deposito per l'Umanità; e lo berremo noi stessi soltanto per festeggiare grandi vittorie. In pegno di ciò prenderò un bicchiere ora, per festeggiare la nostra gloriosa vittoria su Leveson e il suo tabernacolo di latta.»
+
+
+
+
+Vuotò un bicchiere e poi si sedette sulla botte, come per mettersi la [[concepts/temptation|tentazione]] alle spalle. Il suo azzurro occhio bovino e ruminante pareva sprofondare sempre più nel crepuscolo di smeraldo degli alberi davanti a lui, e passò molto tempo prima che riparlasse.
+
+
+
+
+Alla fine osservò: «Credo tu abbia detto, Hump, che un tuo amico—un gentiluomo di nome Bunchy Robinson, mi pare—era anch'egli un habitué di questo luogo.»
+
+
+
+
+«Sì, conosceva la via,» rispose Pump, conducendo l'asino al lembo di pascolo più adatto.
+
+
+
+
+«Potremo, credi, avere il piacere di una visita del signor Robinson?» s'informò il Capitano.
+
+
+
+
+«Non a meno che non siano parecchio distratti su a Blackstone Gaol,» replicò Pump. E spinse il formaggio [[motifs/well|bene]] dentro l'arco del tunnel. Dalroy sedeva ancora col mento squadrato sulla mano, fissando il mistero del boschetto.
+
+
+
+
+«Sembri distratto, Capitano,» osservò Humphrey.
+
+
+
+
+«I pensieri più profondi sono tutti luoghi comuni,» disse Dalroy. «È per questo che credo nella [[concepts/democracy|Democrazia]], più di quanto vi creda tu, sudicio vecchio Tory britannico dalle mani macchiate di [[motifs/blood|sangue]]. E il più profondo luogo comune di tutti è quel [[topoi/vanitas|Vanitas]] Vanitatem, che non è pessimismo ma è in verità l'opposto del pessimismo. È la futilità dell'uomo che ci fa sentire ch'egli deve essere un dio. E penso a questo tunnel, e a come il povero vecchio pazzo passeggiasse su quest'erba, guardandolo costruire, con l'[[motifs/soul|anima]] in [[motifs/fire|fiamme]] per il futuro. E vide il mondo intero mutato e i mari gremiti dalle sue nuove navi; e ora,» e la voce di Dalroy mutò e si spezzò, «ora c'è buon pascolo per l'asino ed è molto quieto qui.»
+
+
+
+
+«Sì,» disse Pump, in un modo che lasciava intendere la sua consapevolezza che il Capitano stesse pensando anche ad altre cose. Il Capitano proseguì sognante:
+
+
+
+
+«E penso a un altro Lord Ivywood registrato nella [[concepts/history|storia]] che ebbe anch'egli una grande visione. Perché in fondo è una grande visione, e per quanto l'uomo sia un pedante, è coraggioso. Anche lui vuole scavare un tunnel—tra Oriente e Occidente—per rendere l'Impero Indiano più britannico; per compiere ciò che egli chiama l'orientamento dell'Inghilterra, e io chiamo la rovina della Cristianità. E in questo momento mi domando se il lucido intelletto e la volontà coraggiosa di un pazzo saranno abbastanza forti da far esplodere e scavare quel tunnel, come tutto sembra mostrare in questo istante che sarà. Oppure se vi sia davvero abbastanza vita e crescita nella tua Inghilterra da lasciarlo alla fine come questo è lasciato, sepolto in foreste inglesi e disperso da un mare inglese.»
+
+
+
+
+Il [[motifs/silence|silenzio]] calò di nuovo tra loro, e di nuovo non vi fu che il lieve suono che l'animale faceva mangiando. Come aveva detto Dalroy, era molto quieto lì.
+
+
+
+
+Ma non era quieto a Pebblewick quella [[motifs/night|notte]]; quando fu letto il Riot Act, e tutta la gente che aveva visto l'insegna fuori si azzuffò con tutta la gente che non aveva visto l'insegna fuori; o quando lattanti e scienziati, il mattino seguente, cercando conchiglie e altri comuni oggetti della battigia, scoprirono che il loro studio comprendeva frammenti degli indumenti esteriori di Leveson e brandelli di lamiera ondulata.
+
+CAPITOLO IX: L'ALTA CRITICA E IL SIGNOR HIBBS
+
+
+PEBBLEWICK vantava un suo intraprendente giornale della sera, chiamato «The Pebblewick Globe», ed era il grande vanto della vita del direttore l'aver mandato in stampa un'edizione che annunciava il mistero dell'insegna scomparsa quasi simultaneamente alla sua scomparsa. Nei tafferugli che ne seguirono gli uomini-sandwich trovarono non poca protezione dai colpi loro inferti indiscriminatamente di dietro e davanti, nei grandi cartelloni di legno che portavano, su cui stava scritto:
+
+CAPITOLO X: IL CARATTERE DI [[characters/quoodle|QUOODLE]]
+
+
+Se ne stava sdraiato tra i numerosi giardini, le terrazze, le rimesse, i cortili delle scuderie e simili luoghi di Lord Ivywood, un cane che finì per essere chiamato col nome di [[characters/quoodle|Quoodle]]. Lord Ivywood non lo chiamava [[characters/quoodle|Quoodle]]. Lord Ivywood era quasi fisicamente incapace di articolare simili suoni. Lord Ivywood non amava i cani. Amava la Causa dei cani, si capisce; e amava ancora di più il proprio intellettuale [[concepts/self|amor]] proprio e la propria coerenza. Non avrebbe mai permesso che un cane in casa sua fosse maltrattato fisicamente; né, del resto, un topo; né, del resto, nemmeno un uomo. Ma se [[characters/quoodle|Quoodle]] non era maltrattato fisicamente, era però socialmente trascurato, e a [[characters/quoodle|Quoodle]] questo non piaceva. Poiché i cani tengono alla compagnia più che alla bontà stessa.
+
+
+
+
+Lord Ivywood avrebbe probabilmente venduto il cane, ma consultò degli esperti (come faceva su tutto ciò che non capiva e su molte cose che capiva), e l'impressione che ne ricavò fu che il cane, tecnicamente considerato, avrebbe reso pochissimo; soprattutto, pareva, a causa della mescolanza di qualità che possedeva. Era una specie di bull-terrier bastardo, ma con un po' troppo del bull-dog; e questo fatto sembrava indebolirne il prezzo tanto quanto ne rafforzava la mascella. Sua Signoria ricavò inoltre la vaga impressione che il cane sarebbe potuto essere prezioso come cane da guardia se non fosse stato capace di seguire la selvaggina come un pointer; e che perfino in quest'ultimo mestiere sarebbe stato sempre screditato da uno sfortunato talento nel nuotare [[motifs/well|bene]] quanto un retriever. Ma le impressioni di Lord Ivywood potevano [[motifs/well|ben]]issimo essere leggermente confuse, giacché egli stava probabilmente pensando alla Pietra Nera della Mecca, o a qualche simile argomento in quel momento. La vittima di questo groviglio di virtù, dunque, se ne stava ancora sdraiata al sole di Ivywood, senza esibire alcun risultato generale di quel groviglio se non la più spaventosa bruttezza.
+
+
+
+
+Ora, Lady Joan Brett i cani li apprezzava davvero. Era tutta la sua indole e gran parte della sua [[forms/tragedy|tragedia]] che tutto ciò che in lei era naturale fosse ancora vivo sotto tutto ciò che era artificiale; e sapeva fiutare il biancospino o il mare da lontano quanto un cane sa fiutare il proprio pasto. Come la maggior parte degli aristocratici, ella spingeva il cinismo quasi fino ai sobborghi della [[motifs/city|Città]] di [[characters/satan|Satana]]; era irreligiosa tanto quanto Lord Ivywood, anzi di più. Sapeva essere altrettanto glaciale o altezzosa quando ne aveva voglia. E nel grande talento sociale dell'essere annoiata, poteva batterlo qualunque giorno della settimana. Ma la differenza rimaneva a dispetto dei suoi sofismi e delle sue ambizioni; e cioè che le sue comunicazioni elementari non erano recise, mentre le sue lo erano. Per lei l'alba era ancora il sorgere di un sole, e non l'accensione di una luce da parte di un comodo servitore cosmico. Per lei la [[motifs/spring|Primavera]] era davvero la Stagione in campagna, e non semplicemente la Stagione in città. Per lei galli e galline erano appendici naturali di una casa inglese; e non (come Lord Ivywood le aveva dimostrato da un'enciclopedia) [[motifs/animals|animali]] di origine indiana, importati di recente da Alessandro Magno. E così per lei un cane era un cane, e non uno degli [[motifs/animals|animali]] superiori, né uno degli [[motifs/animals|animali]] inferiori, né qualcosa che avesse la sacralità della vita, né qualcosa che dovesse essere museruolato, né qualcosa che non dovesse essere vivisezionato. Sapeva che, in ogni senso pratico, si sarebbe provveduto opportunamente al cane; come, invero, si provvide ai cani gialli di Costantinopoli da parte di Abdul Hamid, la cui vita Lord Ivywood stava scrivendo per la collana Progressive Potentates. Né era minimamente sentimentale riguardo al cane, o ansiosa di trasformarlo in un animale da compagnia. Le veniva semplicemente naturale, passando, arruffargli tutto il pelo al contrario e chiamarlo con un nome che dimenticava all'istante.
+
+
+
+
+L'uomo che stava falciando il prato del [[motifs/garden|giardino]] alzò lo sguardo per un istante, poiché non aveva mai visto il cane comportarsi esattamente a quel modo. [[characters/quoodle|Quoodle]] si alzò, si scrollò, e trotterellò davanti alla dama, conducendola su per una scala laterale di ferro, della quale, guarda caso, ella non si era mai servita prima. Fu allora, con ogni probabilità, che per la prima volta gli prestò particolare attenzione; e il suo diletto, come quello che traeva dal [[concepts/sublime|sublime]] [[archetypes/prophet|profeta]] venuto dalla Turchia, era di natura umoristica. Poiché il complesso quadrupede aveva conservato le gambe arcuate del bull-dog; e, visto da dietro, le ricordava ridicolmente un tronfio piccolo Maggiore che se ne va ciondolando verso il suo Club.
+
+
+
+
+Il cane e la scala di ferro insieme la condussero in una serie di lunghe stanze, l'una che si apriva nell'altra. Facevano parte di ciò che ella aveva conosciuto un tempo come l'Ala in disuso di Casa Ivywood, che era stata trascurata o chiusa, probabilmente perché recava alcuni sfregi dovuti ai capricci dell'antenato pazzo, la cui [[motifs/memory|memoria]] l'attuale Lord Ivywood non riteneva giovevole alla propria carriera politica. Ma parve a Joan che vi fossero indizi di un recente tentativo di riabilitare il luogo. C'era un secchio di calce in una delle stanze vuote, una scala a pioli in un'altra, qua e là un'asta per tende, e infine, nella quarta stanza, una tenda. Pendeva tutta sola sull'antico legname, ma era una tenda sfarzosissima, di una sorta di oro-arancio ravvivato da ondulate strisce cremisi, che in qualche modo pareva suggerire lo spirito stesso e la presenza di serpenti, benché tra esse non vi fossero né occhi né bocche.
+
+
+
+
+Nella successiva dell'infinita serie di stanze s'imbatté in una sorta di ottomana, a righe verdi e argento, che se ne stava sola sul pavimento nudo. Vi si sedette per un motivo misto di stanchezza e di impertinenza, poiché ricordava vagamente una storia che aveva sempre giudicato una delle più buffe del mondo, su una dama solo in parte iniziata alla Teosofia che aveva l'abitudine di riposare su un oggetto simile, salvo scoprire in seguito che si trattava di un Mahatma, coperto della sua veste orientale e prostrato e rigido in estasi. Non aveva alcuna speranza di sedersi lei stessa su un Mahatma, ma il solo pensarci la faceva ridere, perché avrebbe fatto apparire Lord Ivywood un tale [[archetypes/fool|sciocco]]. Non era certa se Lord Ivywood le piacesse o le dispiacesse, ma si sentiva del tutto sicura che le avrebbe fatto piacere farlo apparire uno [[archetypes/fool|sciocco]]. Nell'istante in cui si fu seduta sull'ottomana, il cane, che le aveva trotterellato accanto, si sedette anch'esso, e sull'orlo della sua gonna.
+
+Dopo un minuto o due ella si [[motifs/rose|alzò]] (e il cane si [[motifs/rose|alzò]]), e guardò ancora più in fondo a quella lunga prospettiva di ampie stanze, nelle quali uomini come Philip Ivywood dimenticano di essere soltanto uomini. La successiva era più ornata e quella dopo ancora di più; era evidente che lo schema decorativo in corso era stato iniziato dall'altra estremità. Poteva ora vedere che il lungo corridoio terminava in stanze che da lontano parevano l'estremità di un caleidoscopio, stanze come nidi fatti soltanto di [[motifs/birds|uccelli]] canterini o palazzi costruiti di fuochi d'artificio immobili. Da questa fornace di colori frammentari vide Ivywood avanzare verso di lei, col suo abito nero e il suo volto bianco accentuato dal contrasto. Le sue labbra si muovevano, poiché parlava a se stesso, come fanno molti oratori. Non pareva vederla, ed ella dovette soffocare un grido subconscio e del tutto insensato: «È cieco!»
+
+
+
+
+L'istante seguente accoglieva la sua intrusione con la [[motifs/well|beneducata]] sorpresa e la piuttosto mondana semplicità adatte a un caso simile, e Joan si figurò di capire perché il suo volto fosse parso un po' più tetro e più cieco del solito. Era per contrasto. Portava stretto all'indice, come i suoi antenati avrebbero potuto portare un falcone stretto al polso, un piccolo uccello semitropicale dai colori vivaci, l'espressione della cui testa, collo e occhio era l'esatto contrario della propria. Joan pensò di non aver mai visto una creatura vivente con una testa tanto vivace e insolente. Il suo occhio provocatorio e la sua cresta appuntita parevano offrirsi di combattere cinquanta galli da combattimento. Non c'era da [[concepts/wonder|stupirsi]] (si disse) che, accanto a questo vistoso monello impiumato, i capelli dai colori smorti e il volto glaciale di Ivywood paressero i capelli e il volto di un cadavere che cammina.
+
+
+
+
+«Non indovinerai mai cos'è,» disse Ivywood, col suo fare più affascinante. «Ne hai sentito parlare cento volte senza avere la minima idea di cosa fosse. Questo è il Bulbul.»
+
+
+
+
+«Non l'ho mai saputo,» rispose Joan. «Temo di non essermene mai curata. Ho sempre creduto che fosse qualcosa come un [[motifs/nightingale|usignolo]].»
+
+
+
+
+«Ah, sì,» rispose Ivywood, «ma questo è il vero Bulbul proprio dell'Oriente, Pycnonotus Haemorrhous. Tu stai pensando al Daulias Golzii.»
+
+
+
+
+«Suppongo di sì,» replicò Lady Joan con un debole sorriso. «È un'ossessione. Quando smetterò di pensare al Daulias Galsworthy? Era Galsworthy?» Poi, sentendosi assai commossa dalla dolce austerità del volto del suo compagno, accarezzò il vistoso e battagliero uccello con un dito e disse: «È una cara piccola cosa.»
+
+
+
+
+Il quadrupede intimamente chiamato [[characters/quoodle|Quoodle]] non approvava affatto tutto ciò. Come la maggior parte dei cani, amava stare con gli esseri umani quando erano silenziosi, ed estendeva loro una magnifica tolleranza finché parlavano tra loro. Ma l'attenzione conversativa rivolta a qualunque altro animale anche solo remotamente diverso da un bull-terrier bastardo feriva il signor [[characters/quoodle|Quoodle]] nei suoi sentimenti più sensibili e signorili. Emise un debole ringhio. Joan, con tutti gli istinti che erano in lei, si chinò e gli arruffò ancora una volta il pelo, e sentì l'immediata necessità di distogliere l'ammirazione generale da Pycnonotus Haemorrhous. La rivolse alla decorazione in fondo all'ala riarredata; poiché erano già giunte all'ultima della lunga infilata di stanze, che terminava in un pannello incompiuto ma squisito di legni bianchi e colorati, intarsiati alla maniera orientale. A un angolo l'intero corridoio terminava curvandosi in una tonda camera a torretta che dominava il paesaggio; e che Joan, la quale aveva conosciuto la casa nell'[[motifs/childhood|infanzia]], era certa fosse un'innovazione. D'altra parte un varco nero, ancora lasciato nell'angolo inferiore sinistro del legname orientale, le ricordò d'un tratto qualcosa che aveva dimenticato.
+
+
+
+
+«Di sicuro,» disse (dopo molta pura estasi estetica), «là c'era una scala, che conduceva al vecchio [[motifs/garden|orto]], o alla vecchia cappella o qualcosa del genere.»
+
+
+
+
+Ivywood annuì gravemente. «Sì,» disse, «conduceva alle rovine di una Cappella Medievale, come dici. La [[concepts/truth|verità]] è che conduceva a diverse cose che di questi tempi non posso del tutto considerare un vanto per la famiglia. Tutto quello scandalo e quelle facezie sul tunnel fallito (tua madre potrebbe avertene parlato), [[motifs/well|beh]], non ci giovarono nella Contea, temo; sicché, trattandosi di un mero lembo di terra confinante col mare, l'ho recintato e lasciato inselvatichire. Ma sto tamponando con assi l'estremità della stanza qui per tutt'altra ragione. Voglio che tu venga a vederla.»
+
+
+
+
+La condusse nella tonda torretta d'angolo in cui la nuova architettura terminava, e Joan, con la sua sete del bello, non poté soffocare un certo fremito di beatitudine dinanzi al panorama. Cinque finestre aperte, di leggiadro e squisito profilo saraceno, guardavano oltre il bronzo, il rame e il porpora dei parchi e delle foreste d'[[motifs/autumn|autunno]] verso i colori di pavone del mare. Non v'era in vista né casa né essere vivente, e, per quanto ella conoscesse bene quella costa, sapeva di affacciarsi da un nuovo angolo di visuale su un nuovo paesaggio di Ivywood.
+
+
+
+
+«Tu sai comporre sonetti?» disse Ivywood con qualcosa di più simile all'emozione nella voce di quanto ella vi avesse mai udito. «Cosa ti viene per prima in mente dinanzi a queste finestre aperte?»
+
+
+
+
+«So cosa intendi,» disse Joan dopo un [[motifs/silence|silenzio]]. «Quella stessa che spesso …»
+
+
+
+
+«Sì,» disse. «È così che mi sono sentito … di mari perigliosi in fatate terre desolate.»
+
+
+
+
+Vi fu un altro [[motifs/silence|silenzio]] e il cane annusava girando e rigirando per la circolare camera a torretta.
+
+
+
+
+«Voglio che sia così,» disse Ivywood con un'intonazione bassa e singolarmente commossa. «Voglio che questa sia la fine della casa. Voglio che questa sia la fine del mondo. Non senti che è questa la vera [[concepts/beauty|bellezza]] di tutta quest'arte orientale; che è colorata come gli orli delle cose, come le piccole nubi del mattino e le isole dei beati? Sai,» e abbassò ancora di più la voce, «essa ha su di me il potere di farmi sentire come se io stesso fossi assente e lontano; un qualche viaggiatore orientale che si era perduto e che gli uomini cercavano. Quando vedo quello smalto giallo-limone verdastro incastonato là nel bianco, sento di trovarmi a migliaia di leghe da dove mi trovo.»
+
+“Avete ragione,” disse Joan, guardandolo con un certo [[concepts/wonder|stupore]], “l'ho sentito anch'io.”
+
+
+
+
+“Quest'arte,” proseguì Ivywood come in un sogno, “prende davvero le ali dell'aurora e dimora alle estremità del mare. Dicono che non contenga alcuna forma di vita, ma di certo possiamo leggerne l'alfabeto con la stessa facilità dei rossi geroglifici dell'alba e del tramonto che stanno sulle frange del manto di Dio.”
+
+
+
+
+“Non vi ho mai sentito parlare così prima d'ora,” disse la dama, e accarezzò di nuovo le vivide piume violette del piccolo uccello orientale.
+
+
+
+
+Il signor [[characters/quoodle|Quoodle]] non ne poteva più. Si era evidentemente fatto un'opinione pessima della stanza nella torretta e dell'arte orientale in generale, ma vedendo l'attenzione di Joan trasferirsi ancora una volta sul suo rivale, trotterellò fuori nella sala più lunga e, trovato il varco nel rivestimento di legno che presto sarebbe stato tappato con delle assi, ma che ancora si apriva su una vecchia scala buia, scese i gradini “galumphando”.
+
+
+
+
+Lord Ivywood posò delicatamente l'uccello sul dito della ragazza e andò a una delle finestre aperte, sporgendosi un poco.
+
+
+
+
+“Guardate qui,” disse, “non esprime forse ciò che sentiamo entrambi? Non è questa la casa da fiaba che dovrebbe stare appesa all'ultima parete del mondo?”
+
+
+
+
+E le fece cenno di avvicinarsi al davanzale della [[motifs/window|finestra]], appena fuori dal quale pendeva la gabbia vuota dell'uccello, splendidamente lavorata in ottone o in qualche altro metallo giallo.
+
+
+
+
+“Ma questa è la cosa più bella di tutte!” esclamò Lady Joan. “Fa sentire come se fossimo davvero nelle Mille e una notte. Come se questa fosse la torre dei Genii giganteschi con le torrette fino alla [[motifs/moon|luna]]; e questo un Principe incantato ingabbiato in un palazzo d'oro sospeso alla stella della sera.”
+
+
+
+
+Qualcosa si mosse nel suo subconscio oscuro ma brulicante, qualcosa come un brivido o un mutamento simile a quello per cui intuiamo a metà che il tempo è cambiato, o che una musica lontana e inavvertita è cessata d'improvviso.
+
+
+
+
+“Dov'è il cane?” chiese all'improvviso.
+
+
+
+
+Ivywood si voltò con un mite occhio grigio.
+
+
+
+
+“C'era un cane qui?” domandò.
+
+
+
+
+“Sì,” disse Lady Joan Brett, e gli restituì l'uccello, che egli ripose con cura nella gabbia.
+
+
+
+
+Il cane di cui aveva chiesto notizie era in [[concepts/truth|verità]] ruzzolato giù per una scala buia e tortuosa ed era sbucato alla luce del giorno, in una parte del [[motifs/garden|giardino]] che non aveva mai visto prima; né, del resto, l'aveva vista nessun altro da qualche [[motifs/time|tempo]] a quella parte. Era tutta aggrovigliata e invasa dalle erbacce, e l'unica traccia di opera umana, il rudere di un'antica cappella gotica, stava immersa fino alla cintola in innumerevoli ortiche e imbrattata di funghi striscianti. La maggior parte di essi si limitava a scolorire la pietra grigia e sgretolata con sfumature di bronzo o di bruno; ma alcuni, soprattutto sul lato più lontano dalla casa, avevano tinte arancioni o purpuree quasi abbastanza vivide per la decorazione orientale di Lord Ivywood. Certi occhi fantasiosi che in seguito si posarono su quel luogo vi trovarono qualcosa di simile a un'[[forms/allegory|allegoria]], in quei santi o arcangeli scolpiti e spezzati che nutrivano parassiti tanto ardenti ed effimeri quanto quei funghi color [[motifs/blood|sangue]] o oro. Ma il signor [[characters/quoodle|Quoodle]] non si era mai atteggiato ad allegorista, e si limitò a trotterellare sempre più a fondo nella giungla inglese grigioverde. Brontolò parecchio contro i cardi e le ortiche, proprio come un uomo di [[motifs/city|città]] brontola per gli spintoni della folla. Ma continuò a farsi strada in avanti, col naso rasente il suolo, come se avesse già fiutato qualcosa che lo interessava. E in effetti aveva fiutato qualcosa che a un cane, salvo in occasioni speciali, interessa molto più dei cani. Sfondando un'ultima barriera di alti e canuti cardi purpurei, sbucò su un semicerchio di terreno un po' più sgombro, punteggiato di alberi snelli, che aveva come fondale l'arco di mattoni bruni di un vecchio tunnel. Il tunnel era sbarrato da una staccionata, o maschera, assai irregolare fatta di listelli di legno variopinti, e somigliava, chissà come, a un casolare da pantomima. Davanti a essa un uomo robusto, in abiti da caccia molto malandati, stava badando a una vecchia padella ammaccata che teneva sopra una fiamma piuttosto irregolare la quale, per quanto piccola, odorava forte di rum bruciato. Nella padella, e anche sul fondo di una botte o barile che lì accanto fungeva da tavolo, c'erano parecchi di quei funghi grigi, bruni e persino arancioni che ricoprivano gli angeli e i draghi di pietra della cappella diroccata.
+
+
+
+
+“Ehilà, vecchio mio,” disse con tranquillità la persona in giacca da caccia, senza alzare lo sguardo dalla sua cucina. “Sei venuto a farci visita? E allora vieni pure.” Lanciò un'occhiata al cane e tornò alla padella. “Se la tua coda fosse più corta di due pollici, varresti cento sterline. Hai fatto colazione?”
+
+
+
+
+Il cane gli trotterellò incontro e cominciò ad annusare e a fiutare intorno alle sue ghette di cuoio sfondate. L'uomo non interruppe la cottura, su cui teneva fissi gli occhi e occupate entrambe le mani; ma piegò il ginocchio e il piede in modo da accarezzare il quadrupede su un nervo sotto l'angolo della mascella, la cui stimolazione (come hanno sostenuto certi uomini di scienza) è per un cane ciò che un buon sigaro è per un uomo. Nello stesso istante una voce enorme, da orco, giunse dall'interno del tunnel mascherato, gridando: “E con chi stai parlando?”
+
+
+
+
+Una finestra molto storta nella parte alta del casolare da pantomima si spalancò di colpo e un'enorme testa, con capelli ritti, sorprendenti e quasi scarlatti e occhi azzurri grandi come quelli di una rana toro, si sporse sopra la scena.
+
+
+
+
+“Uff,” gridò l'orco. “I miei consigli morali sono andati sprecati. Nell'ultima settimana ti ho cantato quattordici canzoni e mezza di mia composizione; e invece tu te ne vai in giro a rubare cani. Temo che tu stia seguendo in tutto e per tutto la strada del Reverendo Comesichiama.”
+
+
+
+
+“No,” disse imparzialmente l'uomo con la padella, “il parroco Whitelady aveva imboccato un'ottima pista per far perdere le proprie tracce a Pebblewick, e sono stato ben contento di seguirlo. Ma penso che sia stato proprio sciocco a rubare cani. Era giovane e cresciuto nella devozione. Io ne so troppo sui cani per rubarne uno.”
+
+
+
+
+“[[motifs/well|Bene]],” chiese il grosso uomo dai capelli rossi, “e come si fa a procurarsi un cane come quello?”
+
+
+
+
+“Lascio che sia lui a rubare me,” disse la persona che rimestava nella padella. E in effetti il cane sedeva eretto e perfino arrogante ai suoi piedi, come se fosse un cane da guardia con un lauto stipendio, e stesse lì già da prima che il tunnel fosse costruito.
+
+CAPITOLO XI: IL VEGETARIANISMO IN SALOTTO
+
+
+LA compagnia che si radunò per ascoltare il [[archetypes/prophet|Profeta]] della [[motifs/moon|Luna]], nella successiva occasione in cui egli tenne un discorso formale, era assai più scelta della società relativamente eterogenea e borghese delle Anime Semplici. La signorina Browning e sua sorella, la signora Mackintosh, erano in effetti presenti; poiché Lord Ivywood aveva praticamente ingaggiato entrambe come segretarie private, e le teneva anche assai occupate. Vi era pure il signor Leveson, perché Lord Ivywood credeva nella sua capacità organizzativa; e anche il signor Hibbs, perché il signor Leveson credeva nel suo giudizio politico, ogni volta che riusciva a scoprire in che cosa consistesse. Il signor Leveson aveva capelli lisci e scuri, e pareva nervoso. Il signor Hibbs aveva capelli lisci e biondi, e pareva anch'egli nervoso. Ma il resto della compagnia apparteneva piuttosto al mondo di Ivywood, o a quel mondo dell'alta finanza con cui esso si mescola tanto qui quanto sul continente. Lord Ivywood accolse, con qualcosa che rasentava il calore, un illustre diplomatico straniero, il quale non era in verità altri se non quel silenzioso rappresentante tedesco che gli era stato seduto accanto in quell'ultima conferenza sull'Isola degli Ulivi. Il dottor Gluck non indossava più il suo tranquillo abito nero, ma portava una sontuosa uniforme diplomatica con una spada e Ordini prussiani, austriaci o turchi; poiché da Ivywood proseguiva verso una funzione a [[settings/court|Corte]]. Ma la piega delle sue labbra rosse, l'attorcigliarsi dei suoi baffi neri, e i suoi occhi a mandorla che nulla rispondevano non erano mutati più del volto d'una figura di cera nella [[motifs/window|vetrina]] d'un barbiere.
+
+
+
+
+Anche il [[archetypes/prophet|Profeta]] aveva apportato un miglioramento nel proprio abbigliamento. Quando aveva perorato sulla sabbia, il suo costume, eccetto il fez, era il costume trasandato ma rispettabile di un qualsiasi impiegato inglese piuttosto poco fortunato. Ma ora che era giunto tra aristocratici che vezzeggiavano la propria anima come i propri sensi, non doveva esservi tale incongruenza. Egli doveva essere un vero tulipano o loto orientale, appena colto. Così – indossava lunghe vesti fluenti di bianco, ravvivate qua e là da fili color fiamma disposti a trama, e attorno al capo aveva un turbante d'una sorta di verde dorato pallido. Doveva apparire come se fosse giunto volando attraverso l'Europa sul tappeto magico, o caduto un istante prima dal suo paradiso nella [[motifs/moon|luna]].
+
+
+
+
+Le dame del mondo di Lord Ivywood erano più o meno quali già le abbiamo trovate. Lady Enid Wimpole soverchiava ancora il suo volto serio e timido con un costume tremendo, che somigliava più a una processione che a un abito. Pareva piuttosto il corteo funebre di Aubrey Beardsley. Lady Joan Brett somigliava ancora a una bellissima spagnola senza più illusioni sul proprio [[settings/castle|castello]] in Spagna. La grande e risoluta dama che aveva rifiutato di porre domande alla precedente conferenza di Misysra, e che era nota come Lady Crump, l'insigne femminista, aveva ancora l'aria d'essere tanto colma e gonfia di domande fatali all'Uomo da aver oltrepassato lo stadio della parola e raggiunto quello muto dell'ostilità. Per tutto lo svolgimento non contribuì con nulla se non con un [[motifs/silence|silenzio]] esplosivo e uno sguardo malevolo. E la vecchia Lady Ivywood, sotto il più antico e fine merletto e le più antiche e fini maniere, aveva su di sé un che di simile alla [[motifs/death|morte]], quale spesso si può scorgere nei genitori dei puri intellettuali. Aveva quel volto di madre perduta che è più patetico del volto di un [[archetypes/child|figlio]] perduto.
+
+
+
+
+«E con che cosa ci delizierete oggi?» stava chiedendo Lady Enid al [[archetypes/prophet|Profeta]].
+
+
+
+
+«La mia conferenza,» rispose Misysra, gravemente, «verte sul Maiale.»
+
+
+
+
+Faceva parte di una semplicità in lui davvero rispettabile il fatto che egli non vedesse mai alcuna incongruità nei testi o simboli arbitrari e isolati da cui filava le sue mille folli teorie. Lady Enid sopportò l'urto di questo singolare argomento di dibattito senza perdere quell'espressione di malinconica dolcezza che portava per principio quando parlava con simili persone.
+
+
+
+
+«Il Maiale, esso è un vasto argomento,» proseguì il [[archetypes/prophet|Profeta]], tracciando curve nell'aria, come abbracciando qualche esemplare particolarmente pregiato. «Esso include molti argomenti. Mi è assai strano che i cristiani ridano tanto e si stupiscano perché noi ci riteniamo contaminati dal maiale; noi e anche un altro dei Popoli del Libro. Ma, di certo, voi cristiani stessi considerate il maiale come una sorta di contaminazione; poiché è la vostra più consueta espressione del vostro disprezzo, della vostra grandissima avversione. Voi dite "porco", mia cara signora; non dite [[motifs/animals|animali]] assai più impopolari, come l'alligatore.»
+
+
+
+
+«Capisco,» disse la dama, «che meraviglia!»
+
+
+
+
+«Se vi irritate,» continuò il gentiluomo incoraggiato ed eccitato, «se vi irritate con qualcuno, con una – come dite? – una cameriera, non le dite "[[motifs/horse|Cavallo]]". Non le dite "Cammello".»
+
+
+
+
+«Ah, no,» disse Lady Enid, con serietà.
+
+
+
+
+«"Porca d'una cameriera", dite nel vostro inglese colloquiale,» continuò il [[archetypes/prophet|Profeta]], trionfante. «Eppure questo grande e terribile Maiale, questo [[archetypes/monster|mostro]] il cui solo nome, quando lo si sussurra, credete appassirà tutti i vostri nemici, voi permettete, mia cara signora, che si avvicini ancor più a voi. Voi incorporate questo grande Maiale nella sostanza della vostra stessa persona.»
+
+
+
+
+Lady Enid Wimpole appariva finalmente un poco stordita, a questa descrizione delle sue abitudini, e Joan diede a Lord Ivywood un cenno che sarebbe stato meglio trasferire il conferenziere nella sua legittima sfera di conferenziere. Ivywood aprì la via in una sala più ampia, gremita di file di sedie, con una sorta di leggìo all'estremità opposta, e fiancheggiata su tutti e quattro i lati da tavoli carichi di ogni sorta di rinfreschi. Era tipico del bizzarro, semi-fittizio entusiasmo e curiosità di quel mondo che un lungo tavolo fosse imbandito interamente di cibi vegetariani, specialmente di tipo orientale (come una mensa apparecchiata nel [[motifs/desert|deserto]] per un eremita indiano piuttosto schizzinoso); ma che tavoli coperti di pasticci di selvaggina, aragosta e champagne fossero altrettanto forniti, e assai più frequentati. Persino il signor Hibbs, che avrebbe onestamente reputato più disonorevole entrare in una taverna che in un bordello, non poteva collegare alcun concetto di disonore allo champagne di Lord Ivywood.
+
+Poiché lo scopo della conferenza non era interamente dedicato al grande e terribile Maiale, e quello della riunione ancor meno. Lord Ivywood, la cui bianca fornace mentale era sempre colma di nuove fantasie che si indurivano in ambizioni, voleva tenere un dibattito sulla dieta d'Oriente e d'Occidente, e sentiva che Misysra avrebbe potuto assai opportunamente aprire con un resoconto del veto musulmano sul maiale o su altre forme grossolane di cibo carneo. Si riservava di parlare per secondo.
+
+
+
+
+Il [[archetypes/prophet|Profeta]] cominciò, in verità, con alcuni dei suoi voli più vertiginosi. Informò la compagnia che essi, gli inglesi, avevano sempre nutrito un nascosto terrore e ribrezzo del Maiale, quale sacro simbolo del male. Lo provò con la comune usanza inglese di disegnare un maiale a occhi chiusi. Lady Joan sorrise, eppure si chiese (in un [[concepts/doubt|dubbio]] che negli ultimi tempi le andava oscurando la mente intorno a molte cose moderne) se ciò fosse davvero molto più fantasioso di molte cose che gli scienziati le raccontavano: come le tracce del [[motifs/marriage|Matrimonio]] per Ratto che essi rinvenivano in quell'essere ornamentale e persino frivolo, il Testimone dello sposo.
+
+
+
+
+Disse che l'[[motifs/dawn|alba]] di un più grande illuminismo si manifesta nell'uso della parola «gammon», che esprime ancora disgusto per «l'immagine porcina», ma non più [[concepts/fear|paura]] di essa, bensì piuttosto un razionale disdegno e incredulità. «Rowley,» disse il [[archetypes/prophet|Profeta]], solennemente, e poi dopo una lunga pausa, «Powley, Gammon and Spinach.»
+
+
+
+
+Lady Joan sorrise di nuovo, ma di nuovo si chiese se ciò fosse molto più tirato per i capelli di un libro di [[concepts/history|storia]] che aveva letto, il quale dimostrava l'impopolarità del cattolicesimo in epoca Tudor a partire dalla parola «hocus pocus».
+
+
+
+
+Egli si smarrì in un sorprendentissimo labirinto di filologia tra i rossi peccati primordiali delle prime pagine della Genesi e la comune parola inglese «ham». Ma, ancora una volta, Joan si domandò se ciò fosse molto più stravagante delle altre cose che aveva udito dire sull'Uomo Primitivo da persone che non l'avevano mai visto.
+
+
+
+
+Egli suggerì che agli irlandesi fosse toccato l'allevamento dei maiali perché costituivano una casta bassa e contaminata, e i servi della gleba del sassone sprezzatore del maiale; e Joan pensò che ciò fosse press'a poco sensato quanto ciò che il caro vecchio Arcidiacono aveva detto sull'Irlanda anni addietro; il che aveva indotto un irlandese di sua conoscenza a suonare «the Shan Van Voght» e poi a fracassare il pianoforte.
+
+
+
+
+Joan Brett era stata pensierosa negli ultimi giorni. Ciò era dovuto in parte alla scena nella torretta, dove aveva toccato un lato sensibile e artistico di Philip Ivywood che non aveva mai visto prima, e in parte a notizie inquietanti sulla salute di sua madre, le quali, benché non minacciose, le facevano sentire in via ipotetica quanto fosse isolata al mondo. In tutte le precedenti occasioni si era limitata a divertirsi con il folle conferenziere ora al leggìo. Oggi provava uno strano [[motifs/desire|desiderio]] di analizzarlo, e di immaginare come un uomo potesse essere tanto coerente e tanto convinto e tuttavia tanto follemente lontano dal segno. Mentre ascoltava attentamente, guardando le mani in grembo, cominciò a pensare di aver capito.
+
+
+
+
+Il conferenziere cercava davvero di provare che «l'immagine porcina» non era mai stata usata nella [[concepts/history|storia]] o nella letteratura inglese, se non con disprezzo. E il conferenziere sapeva davvero moltissimo sulla [[concepts/history|storia]] e sulla letteratura inglese: molto più di lei; molto più degli aristocratici intorno a lei. Ma ella notò che in ogni caso ciò che egli sapeva era un fatto frammentario. In ogni caso ciò che non sapeva era la [[concepts/truth|verità]] dietro il fatto. Ciò che non sapeva era l'atmosfera. Ciò che non sapeva era la tradizione. Si ritrovò a spuntare i casi come capi d'accusa in un atto d'imputazione.
+
+
+
+
+Misysra Ammon sapeva ciò che quasi nessuno degli inglesi presenti sapeva, ossia che [[characters/richard-iii|Riccardo III]] fu chiamato «cinghiale» da un poeta del Settecento e «porco» da un poeta del Quattrocento. Ciò che non sapeva era l'usanza della caccia e dell'araldica. Non sapeva (ciò che Joan sapeva all'istante, benché non ci avesse mai pensato prima in vita sua) che le bestie coraggiose e difficili da uccidere sono bestie nobili, per la legge della cavalleria. Perciò il cinghiale era una bestia nobile, e un comune cimiero per i grandi capitani. Misysra cercò di dimostrare che [[characters/richard|Riccardo]] era stato chiamato maiale solo dopo essere divenuto carne di porco fredda a Bosworth.
+
+
+
+
+Misysra Ammon sapeva ciò che quasi nessuno degli inglesi presenti sapeva, ossia che non esistette mai una persona chiamata Lord Bacon. La locuzione è una falsificazione di ciò che dovrebbe essere Lord Verulam o Lord St. Albans. Ciò che non sapeva era esattamente ciò che Joan sapeva (benché non le fosse mai passato per la mente fino a quel momento): che, in fin dei conti, un titolo è una sorta di scherzo, mentre un cognome è cosa seria. Bacon era un gentiluomo, e il suo nome era Bacon; quali che fossero i titoli che assumeva. Ma Misysra cercò seriamente di provare che «Bacon» fosse un termine d'ingiuria rivoltogli durante la sua impopolarità o dopo la sua caduta.
+
+
+
+
+Misysra Ammon sapeva ciò che quasi nessuno degli inglesi presenti sapeva, ossia che il poeta Shelley aveva un amico di nome Hogg, il quale in una certa occasione lo trattò con [[motifs/grave|grave]] slealtà. Cercò immediatamente di provare che l'uomo era chiamato «Hogg» solo perché aveva trattato Shelley con [[motifs/grave|grave]] slealtà. E addusse effettivamente il fatto che un altro poeta, praticamente contemporaneo, si chiamava «Hogg», quasi a completare il legame con Shelley. Ciò che non sapeva era proprio ciò che Joan aveva sempre saputo senza saperlo: il genere di persone in questione, le tradizioni di aristocratici come gli Shelley o di uomini di frontiera come il Pastore di Ettrick.
+
+
+
+
+Il conferenziere concluse con un passaggio di impenetrabile oscurità sulla ghisa e sui pani di piombo, che Joan non osò neppure tentare di comprendere. Poté solo dire che, se ciò non significava che un giorno la nostra dieta sarebbe potuta divenire tanto raffinata da farci mangiare piombo e ferro, non riusciva a farsi alcuna idea di che cosa significasse.
+
+
+
+
+«Può Philip Ivywood credere a cose di questo genere?» si chiese; e proprio mentre lo faceva, Philip Ivywood si [[motifs/rose|alzò]].
+
+
+
+
+Egli aveva, come Pitt e Gladstone, un classicismo estemporaneo di dizione, con le parole che roteavano e si schieravano ai loro posti come un esercito [[motifs/well|ben]] disciplinato nella sua più rapida avanzata. E non passò molto prima che Joan si accorgesse che l'ultima fase del quadro, per quanto oscura e mostruosa apparisse, dava a Ivywood esattamente l'appiglio che desiderava. In verità, ella sentiva, senza [[concepts/doubt|dubbio]], che egli l'aveva predisposta in anticipo.
+
+«È nella mia [[motifs/memory|memoria]],» disse Lord Ivywood, «benché non abbia dovuto in alcun caso ingombrare la vostra, che, quando fu mio dovere precedere l'ammirato conferenziere che ora sento come un privilegio persino seguire, io sottoposi un'ipotesi la quale, per quanto semplice, potrebbe apparire a molti paradossale. Affermai o lasciai intendere l'idea che la religione di Maometto fosse, in un senso peculiare, una religione di progresso. Ciò è tanto contrario, non solo alla convenzione storica ma al comune luogo comune, che non troverò motivo né di sorpresa né di biasimo se occorrerà un [[motifs/time|tempo]] apprezzabile prima che penetri nella mente del pubblico inglese. Ma io penso, signore e signori, che tale periodo sia notevolmente abbreviato dalla notevole esposizione che oggi abbiamo udito. Poiché questa questione dell'atteggiamento dell'[[historical-references/islam|Islam]] verso il cibo offre un esempio tanto eccellente del suo speciale modo di [[concepts/purification|purificazione]] progressiva quanto il più popolare esempio del suo atteggiamento verso il bere. Poiché esso illustra quel principio che mi sono azzardato a chiamare il principio della Mezzaluna: il principio della perpetua crescita verso una perfezione implicita e infinita.
+
+
+
+
+«La grande religione dell'[[historical-references/islam|Islam]] non proibisce di per sé il consumo di cibi carnei. Ma, in conformità a quel principio di crescita che è la sua vita, essa ha indicato la via verso una perfezione forse non ancora pienamente conseguibile dalla nostra [[concepts/nature|natura]]; ha preso un esempio semplice e forte dei pericoli del mangiar carne; e ha appeso in alto la carcassa repellente come monito e come segno. Nel graduale emergere dell'umanità da un modo di sostentamento grossolano e sanguinario, il Semita ha aperto la via. Egli ha posto, per così dire, un embargo simbolico sulla bestia per eccellenza, la bestia delle bestie. Con l'istinto del vero mistico, egli ha scelto, per esentarla da tali banchetti cannibaleschi, la creatura che fa appello a entrambi i lati della più elevata etica vegetariana. Il maiale è al tempo stesso la creatura la cui impotenza più commuove la nostra pietà e la cui bruttezza più respinge il nostro gusto.
+
+
+
+
+«Sarebbe sciocco affermare che nessuna difficoltà sorga dai diversi stadi di evoluzione morale in cui le diverse razze si trovano. Così si dice di continuo, e simili cose non si dicono senza qualche giustificazione in documento o episodio, che i seguaci del [[archetypes/prophet|Profeta]] si sono specializzati nelle arti della guerra e sono venuti a contatto, non sempre amichevole, con quegli indù dell'India che si sono specializzati nelle arti della Pace. Allo stesso modo gli indù, bisogna confessarlo, sono stati quasi tanto più avanti dell'[[historical-references/islam|Islam]] nella questione della carne quanto l'[[historical-references/islam|Islam]] è più avanti del [[historical-references/christianity|Cristianesimo]] nella questione del bere. Bisogna ricordare più e più volte, signore e signori, che ogni accusa che abbiamo di una qualsiasi differenza tra indù e musulmano ci giunge attraverso un canale cristiano, ed è perciò testimonianza inquinata. Ma anche in questa faccenda, non riusciamo forse a scorgere i pericoli del trascurare segnali di pericolo tanto evidenti quanto il veto sul maiale? Non fu forse un Impero sul punto di sfuggirci di mano perché le nostre mani erano unte di grasso di vacca? E il [[motifs/well|pozzo]] di Cawnpore non traboccò forse di [[motifs/blood|sangue]] invece che d'[[motifs/water|acqua]], perché non volemmo ascoltare l'istinto dell'Orientale circa lo spargimento di [[motifs/blood|sangue]] sacro?
+
+
+
+
+«Ma se ci si propone, con qualsivoglia gradazione, di accostarsi a quel ripudio del cibo carneo che il Buddhismo principalmente e l'[[historical-references/islam|Islam]] in parte raccomandano, sarà sempre chiesto da coloro che odiano la sola visione del Progresso: "Dove tracciate il limite? Posso mangiare ostriche? Posso mangiare uova? Posso bere latte?". Potete. Potete mangiare o bere qualunque cosa essenziale al vostro stadio di evoluzione, purché stiate evolvendo verso un ideale più chiaro e più puro della vita corporea. Se,» disse gravemente, «mi è concesso impiegare una frase di leggerezza, direi che oggi potete mangiare sei dozzine di ostriche, ma domani vi consiglierei vivamente cinque dozzine di ostriche. Poiché in quale altro modo si è mai conseguito ogni progresso nelle maniere pubbliche o private? Non sarebbero forse i cannibali primitivi sorpresi della strana distinzione che noi tracciamo tra uomini e bestie? Tutti gli storici rendono alto [[concepts/honour|onore]] agli Ugonotti, e al grande principe ugonotto, Enrico Quarto. Nessuno può negare che la sua [[concepts/aspiration|aspirazione]] che ogni francese avesse un pollo nella pentola fosse, per la sua epoca, un'alta [[concepts/aspiration|aspirazione]]. Non gli è alcuna mancanza di rispetto se noi, salendo a livelli più alti, e guardando prospettive più lunghe, prendiamo in considerazione il pollo. E questa augusta marcia della scoperta oltrepassa figure più alte di quella di Enrico di Navarra. Darò sempre un alto posto, come l'[[historical-references/islam|Islam]] ha sempre dato un alto posto, a quella figura, mitica o no, che troviamo a presiedere alle fondamenta del [[historical-references/christianity|Cristianesimo]]. Non posso [[concepts/doubt|dubitare]] che la [[forms/fable|favola]], per altro incredibile e ripugnante, che registra la corsa dei porci nel mare, fosse un'[[forms/allegory|allegoria]] della sua precoce comprensione che uno spirito, invero maligno, risiede in tutti gli [[motifs/animals|animali]] nella misura in cui essi ci tentano a divorarli. Non posso [[concepts/doubt|dubitare]] che il Figliol Prodigo, lasciando i suoi peccati tra i porci, sia un'altra illustrazione della grande tesi del [[archetypes/prophet|Profeta]] della [[motifs/moon|Luna]]. Ma anche qui il progresso e la relatività sono implacabili nella loro avanzata; e non pochi di noi possono essere saliti oggi al punto di rammaricarsi che i suoni gioiosi intorno al ritorno del Prodigo debbano essere guastati dal muggito di un vitello.
+
+
+
+
+«Del resto, chi ci chiede dove andiamo non conosce il significato del Progresso. Se giungeremo infine a vivere di luce, come si diceva del camaleonte, se qualche cosmica magia a noi ora preclusa, come il radio fu precluso fino a poco fa, ci permetterà di trasmutare i metalli stessi in carne senza irrompere nella sanguinosa casa della vita, conosceremo queste cose quando le avremo conseguite. Ci basta ora l'aver raggiunto una stazione spirituale in cui almeno il capo vivente che recidiamo non abbia occhi per rimproverarci; e le erbe che cogliamo non possano gridare contro la nostra crudeltà come la mandragora.»
+
+Lord Ivywood riprese posto, le sue labbra incolori ancora in movimento. Per un accordo precedente, probabilmente, il signor Leveson [[motifs/rose|si alzò]] per proporre una mozione sul vegetarianesimo. Il signor Leveson era dell'opinione che il divieto ebraico e mussulmano sulla carne di maiale fosse stato l'origine del vegetarianesimo. Pensava che fosse un grande passo avanti, e dimostrasse quanto la dottrina potesse essere progressista. Riteneva che la persecuzione degli indù da parte dei mussulmani fosse stata probabilmente molto esagerata; pensava che la nostra esperienza nella rivolta indiana mostrasse che consideravamo troppo poco il sentimento degli orientali in tali questioni. Pensava che il vegetarianesimo, in qualche modo, rappresentasse un progresso rispetto al [[historical-references/christianity|cristianesimo]] ortodosso. Riteneva che dovessimo essere pronti per ulteriori passi avanti; e si sedette. E dato che aveva detto esattamente, punto per punto, tutto ciò che Lord Ivywood aveva affermato, non c'è bisogno di dire che quel nobile in seguito lo congratulò per l'audacia e l'originalità del suo brillante discorso.
+
+
+
+
+A un segnale simile, preordinato, Hibbs si [[motifs/rose|alzò]] piuttosto vagamente in piedi per sostenere la mozione. Si vantava di essere un uomo di poche parole, nel senso vocale; non era un oratore, come [[characters/brutus|Bruto]]. Solo con una penna in mano, in uno studio pieno di opere di consultazione, poteva provare quel senso di responsabilità confusa che era l'unica gioia della sua vita. Ma in questa occasione era più brillante del solito; in parte perché gli piaceva trovarsi nella casa di un lord; in parte perché non aveva mai assaggiato lo champagne prima, e sentiva che gli faceva bene; in parte perché vedeva nell'argomento del Progresso un'infinita opportunità di spaccare il capello in quattro.
+
+
+
+
+«Qualunque cosa» disse Hibbs con una tosse solenne «qualunque cosa possiamo pensare del vecchio credo che i musulmani si siano discostati dal buddismo in modo deplorevole, non ci può essere alcun [[concepts/doubt|dubbio]] che la responsabilità ricada sulle Chiese cristiane. Se le Chiese libere avessero fatto valere il loro diritto e risposto alla richiesta dei signori Opalstein, non avremmo mai sentito parlare di queste vecchie divergenze tra una credenza e l'altra». Com'era, gli ricordava Napoleone. Diede la sua opinione per quel che valeva, ma non aveva paura di dire a ogni costo, anche lì e in quella compagnia, che questa faccenda della vegetazione asiatica aveva occupato meno del [[motifs/time|tempo]] della Conferenza metodista di quanto avrebbe dovuto. Sarebbe stato l'ultimo a dire, ovviamente, che qualcuno fosse in qualche modo responsabile. Tutti conoscevano le qualifiche del dottor Coon. Tutti sapevano [[motifs/well|bene]] come lui che un lavoratore sociale più strenuo di Charles Chadder non aveva mai radunato le forze del progresso. Ma ciò che in realtà non era una indiscrezione poteva essere rappresentata come tale, e forse ne avevamo avuto abbastanza ultimamente. Era tutto molto [[motifs/well|bene]] parlare di Coffe ma si doveva ricordare, senza mancare di rispetto a coloro in Canada ai quali dobbiamo tanto, che tutto ciò è accaduto prima del 1891. Nessuno aveva meno [[motifs/desire|desiderio]] di offendere i nostri amici ritualisti di lui, ma non ebbe esitazioni nel dire che la questione era una questione che poteva essere posta, e sebbene senza alcun [[concepts/doubt|dubbio]], da un punto di vista il capro...
+
+
+
+
+Lady Joan si mosse bruscamente sulla sedia, come se fosse stata presa da un improvviso [[motifs/pain|dolore]]. E infatti aveva sentito all'improvviso il [[motifs/pain|dolore]] cronico e ricorrente della sua vita. Era coraggiosa riguardo al [[motifs/pain|dolore]] fisico, come la maggior parte delle donne, anche quelle più lussuose: ma il tormento che di [[motifs/time|tanto]] in [[motifs/time|tanto]] tornava a straziarla era uno a cui erano stati dati molti nomi filosofici, ma nessuno così filosofico come la Noia.
+
+
+
+
+Sentiva di non poter sopportare un minuto di più il signor Hibbs. Sentiva che sarebbe morta se avesse sentito parlare delle capre, da uno o qualsiasi altro punto di vista. Scivolò via dalla sua sedia e in qualche modo girò l'angolo, fingendo di cercare uno dei tavoli con le rinfresche nell'ala nuova. Ben presto si trovò tra gli appartamenti orientali nuovi, ormai quasi completati; ma non prese alcun rinfresco, anche se qua e là si potevano ancora trovare tavoli spogli. Si gettò su un divanetto e fissò le vuote e fatate camere della torretta in cui Ivywood l'aveva fatta capire che lui pure poteva anelare alla [[concepts/beauty|bellezza]] e desiderare di essere in pace. Dopotutto, aveva certamente una sua poesia; una poesia che non toccava mai terra; la poesia di Shelley piuttosto che di Shakespeare. La sua frase sulla torretta fatata era vera: sembrava davvero il confine del mondo. Le sembrò di capire che alla fine c'è sempre un limite sereno.
+
+
+
+
+Sussultò e si sollevò a metà sul gomito con una risatina. Un cane dall'aspetto ridicolo ma familiare venne barcollando verso di lei e lei si [[motifs/rose|alzò]] nel gesto di prenderlo in braccio. Alzò anche la testa, e vide qualcosa che le sembrò, in un senso più cristiano e catastrofico, molto simile alla fine del mondo.
+
+CAPITOLO XII: IL VEGETARIANISMO NELLA FORESTA
+
+
+IL modo in cui HUMPHREY PUMP cucinava un fungo in una vecchia padella (che aveva trovato sulla spiaggia) era estremamente tipico di lui. Egli era, in verità, senza alcuna pretesa di erudizione libresca, una certa specie di uomo di scienza che la scienza è stata davvero sfortunata a perdere. Era il naturalista inglese all'antica, come Gilbert White o addirittura Isaac Walton, che imparava le cose non accademicamente come un professore americano, ma effettivamente, come un pellerossa americano. E ogni [[concepts/truth|verità]] che un uomo ha scoperto come uomo di scienza è sempre sottilmente diversa da qualsiasi [[concepts/truth|verità]] egli abbia scoperto come uomo, perché la famiglia, gli amici, le abitudini e il tipo sociale di un uomo hanno sempre preso [[motifs/well|ben]] l'avvio prima che egli abbia appreso a fondo la teoria di alcunché. Per esempio, qualsiasi eminente botanico a un ricevimento della Royal Society potrebbe dirvi, naturalmente, che esistono altri funghi commestibili, [[motifs/well|oltre]] ai prataioli e ai tartufi. Ma molto prima di essere botanico, e ancor meno eminente botanico, egli aveva cominciato, per così dire, su una base di prataioli e tartufi. Sentiva, in modo vago, che questi erano davvero commestibili, che i prataioli erano un lusso moderato, adatto alle classi medie, mentre i tartufi erano un lusso assai più costoso, più conveniente allo Smart Set. Ma i vecchi naturalisti inglesi, dei quali Isaac Walton fu forse il primo, e Humphrey Pump forse l'ultimo, in molti casi avevano davvero cominciato dall'altro capo, e avevano scoperto per esperienza (spesso esperienza disastrosissima) che alcuni funghi sono salubri e alcuni no; ma quelli salubri sono, nel complesso, la maggioranza. Sicché un uomo come Pump non aveva più paura di un fungo in quanto tale di quanta ne avesse di un animale in quanto tale. Non partiva più dal presupposto che una crescita grigia o purpurea su una pietra dovesse essere una crescita velenosa di quanto partisse dal presupposto che il cane che gli veniva incontro dal bosco dovesse essere un cane rabbioso. La maggior parte di essi li conosceva; quelli che non conosceva li trattava con razionale cautela, ma per lui, come intera stirpe, questi folletti dai colori strani e monopodi delle foreste erano creature amiche dell'uomo.
+
+
+
+
+«Vedete,» disse al suo amico il Capitano, «mangiare verdura non è affatto male, purché sappiate quali verdure ci sono e ne mangiate tutte quante potete. Ma ci sono due punti in cui la cosa va storta tra i signori. Primo, non hanno mai dovuto mangiare una carota o una patata perché era tutto ciò che c'era in casa; sicché non hanno mai imparato ad aver davvero fame di carote, come potrebbe averne quell'asino. Conoscono solo le verdure che servono ad accompagnare la carne. Sanno che si prende l'anatra con i piselli; e quando si fanno vegetariani riescono a pensare solo ai piselli senza l'anatra. Sanno che si prende l'aragosta in insalata; e quando si fanno vegetariani riescono a pensare solo all'insalata senza l'aragosta. Ma l'altra ragione è peggiore. C'è un mucchio di brava gente anche qui intorno, e ancor più al nord, che ottiene carne assai di rado. Ma poi, quando ne ottengono, se la ingozzano da bravi. Il guaio dei signori, però, è diverso. Il guaio è che quella stessa specie di signori che non vuole mangiare carne non vuole in realtà mangiare nulla. L'uomo chiamato Vegetariano che va a Villa Ivywood è generalmente come una vacca che cerca di vivere con un filo d'erba al giorno. Voi e io, Capitano, siamo stati vegetariani [[motifs/well|abbastanza]] a lungo, da un certo [[motifs/time|tempo]] a questa parte, per non intaccare il formaggio, e non l'abbiamo trovato così difficile, perché mangiamo quanto più possiamo.»
+
+
+
+
+«Non è così difficile come essere astemi,» rispose Dalroy, «per non intaccare la botte. Ma non negherò mai che anche di questo mi sento meglio, nel complesso. Ma solo perché potrei smettere di esserlo ogni volta che scegliessi. E, ora che ci penso,» esclamò, con uno dei suoi bizzarri ritorni di energia animale, «se devo essere vegetariano, perché non dovrei bere? Perché non dovrei avere una bevanda puramente vegetariana? Perché non dovrei prendere le verdure nella loro forma più alta, per così dire? I modesti vegetariani dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande vegetariane, invece di riempire i loro calici con il [[motifs/blood|sangue]] di tori ed elefanti, come fanno tutti i convenzionali mangiatori di carne, suppongo. Che cosa c'è?»
+
+
+
+
+«Niente,» rispose Pump. «Stavo cercando qualcuno che di solito si fa vivo verso quest'[[motifs/time|ora]]. Ma credo di essere in anticipo.»
+
+
+
+
+«Non l'avrei mai detto, a vedervi,» rispose il Capitano, «ma quel che dico è che il bere un decoroso liquore fermentato è semplicemente il trionfo del vegetarianismo. Diamine, è un'idea entusiasmante! Potrei scriverci sopra una specie di canzone. Come, per esempio –
+
+
+
+
+«Mi troverai a bere rum
+
+
+
+
+Come un marinaio in un tugurio,
+
+
+
+
+Mi troverai a bere birra come un bavarese;
+
+
+
+
+Mi troverai a bere gin
+
+
+
+
+Nella più infima delle locande,
+
+
+
+
+Perché sono un rigido Vegetariano.»
+
+
+
+Diamine, è una prospettiva di felicità verbale e di edificazione spirituale! Ha non so quante centinaia di aspetti! Vediamo; come potrebbe andare la seconda strofa? Qualcosa come –
+
+
+
+
+«Così ripulii la locanda dal vino,
+
+
+
+
+E cercai di arrampicarmi sull'Insegna;
+
+
+
+
+E cercai di salutare il poliziotto chiamandolo "Marion";
+
+
+
+
+Ma egli disse che non sapevo parlare,
+
+
+
+
+E mi spedì rotolando dal Giudice,
+
+
+
+
+Perché ero un Felice Vegetariano.»
+
+
+
+«Penso davvero che qualcosa di istruttivo per il genere umano possa venir fuori da tutto ciò… Ehilà! È questo che stavi cercando?»
+
+
+
+
+Il quadrupede [[characters/quoodle|Quoodle]] uscì dai boschi un minuto intero più tardi dell'[[motifs/time|ora]] consueta e prese posto accanto al piede sinistro di Humphrey con aria preoccupata.
+
+
+
+
+«Bravo, vecchio mio,» disse il Capitano. «Pare che tu abbia preso una bella simpatia per noi. [[concepts/doubt|Dubito]], Hump, che sia accudito come si deve lassù alla villa. Non voglio in particolare parlar male di Ivywood, Hump. Non voglio che la sua [[motifs/soul|anima]] possa in tutta l'[[concepts/eternity|eternità]] accusare la mia [[motifs/soul|anima]] di una meschina calunnia. Voglio essere giusto con lui, perché lo odio come l'inferno, e mi ha tolto tutto ciò per cui vivevo. Ma non credo, con tutto questo in mente, non credo di dire nulla che vada oltre ciò che egli stesso ammetterebbe (poiché il suo cervello è lucido) quando dico che non potrebbe mai capire un animale. E dunque non potrebbe mai capire il lato animale di un uomo. Non sa, a tutt'oggi, Hump, che la tua vista e il tuo udito sono sessanta volte più rapidi dei suoi. Non sa che io ho una circolazione migliore. Ciò spiega la gente straordinaria che si sceglie e con cui agisce; non li guarda mai come tu e io guardiamo quel cane. C'era un tale che si faceva chiamare Gluck, il quale era (principalmente per influenza di Ivywood, credo) suo collega nelle Conferenze Turche, essendo supposto rappresentare la [[settings/germany|Germania]]. Mio caro Hump, era un uomo che un gran gentiluomo come Ivywood non avrebbe dovuto toccare nemmeno con un palo da barcaiolo. Non è la razza che era – se era una razza – è la Specie che era. Una spia e un origliatore levantino, grossolano e volgare – ma non devi perdere la calma, Hump. Ti scongiuro, Hump, di controllare questa tendenza a perdere la calma quando parli a lungo di simili persone. Ricorri, Hump, a quel consolante sistema di versificazione che ti ho già spiegato.
+
+“Ah! Conoscevo un dottor Gluck,
+
+
+
+
+E il suo naso aveva un uncino,
+
+
+
+
+E i suoi atteggiamenti erano tutt'altro che ariani;
+
+
+
+
+Così gli ho dato tutto il prosciutto
+
+
+
+
+Che avevo, su una forchetta;
+
+
+
+
+Perché anch'io sono un vegetariano.»
+
+
+
+«Se lo sei», disse Humphrey Pump, «è meglio che venga a mangiare un po' di verdure. Il Cappello Bianco può essere mangiato freddo - o crudo, del resto. Ma il Macchiabianca vuole una cottura.»
+
+
+
+
+«Avete ragione, Hump», disse Dalroy, sedendosi con ogni apparenza di silenziosa [[concepts/greed|avidità]]. «Resterò in silenzio. Come dice il poeta:
+
+
+
+
+"Sono silenzioso al Circolo,"
+
+
+
+
+Sono silenzioso al pub,
+
+
+
+
+Sono silenzioso su una dannata vetta nel Darien;
+
+
+
+
+Perché mi riempio la vita di cose,
+
+
+
+
+Infilare i piselli con un coltello,
+
+
+
+
+Perché, in fondo al cuore, sono un vegetariano.»
+
+
+
+Si avventò sul cibo con grande gusto, ne consumò una buona quantità in un [[motifs/time|tempo]] brevissimo, lanciò uno sguardo di cupa invidia alla botte e poi si rialzò di scatto. Afferrò il cartello dell'osteria da dove era appoggiato contro la Pantomime Cottage e lo piantò come una picca nel terreno accanto a lui. Poi ricominciò a cantare, con una voce ancora più forte di prima.
+
+
+
+
+"O, Lord Ivywood può tagliare,"
+
+
+
+
+E il suo privilegio è boschivo e fluviale;
+
+
+
+
+E inoltre è libero di completare,
+
+
+
+
+Però...»
+
+
+
+«Sapete», disse Hump, finendo anche lui il suo pranzo, «che mi sto un po' stancando di quella particolare melodia?»
+
+
+
+
+“Stanco, eh?” disse l’indignato irlandese “allora ti canterò una canzone più lunga, su un motivo ancora peggiore, di vegetariani sempre più numerosi e tu mi vedrai [[motifs/dance|danzare]] altrettanto [[motifs/well|bene]]; danzerò finché non scoppi in [[motifs/dance|lacrime]] e non mi offrirai metà del tuo regno; io chiederò la testa di Mr. Leveson su una padella. Perché, sappi che questa è una [[motifs/tears|canzone]] di origine orientale, che celebra i capricci di un antico Sultano babilonese e dovrebbe essere eseguita in palazzi d’avorio con palme e accompagnamento di bulbul.”
+
+
+
+
+E cominciò a ruggire un'altra e più antica [[forms/lyric|canzone]] di sua composizione sull'argomento del vegetarianesimo.
+
+
+
+
+«Nabucodonosor, il [[archetypes/king|Re]] degli Ebrei,
+
+
+
+
+Ha sofferto per idee nuove e originali,
+
+
+
+
+Si dice che strisciò sulle mani e sulle ginocchia
+
+
+
+
+Con l'erba in bocca e una [[motifs/crown|corona]] sulla testa,
+
+
+
+
+Con un wowtyiddly eccetera,
+
+
+
+
+
+"Coloro che percorrono i sentieri tradizionali,"
+
+
+
+
+Pensava che fosse una maledizione di Dio;
+
+
+
+
+Ma i pionieri vengono sempre maltrattati,
+
+
+
+
+Come Nabucodonosor, il [[archetypes/king|Re]] degli Ebrei».
+
+
+
+Dalroy, mentre cantava questo, iniziò effettivamente ad [[motifs/dance|ballare]] come una ballerina di balletto, un'enorme e ridicola figura alla luce del sole, agitando il cartello di legno sopra la sua testa. [[characters/quoodle|Quoodle]] aprì gli occhi e drizzò le orecchie e sembrò molto interessato a queste straordinarie evoluzioni. Improvvisamente, con uno di quei cambiamenti sorprendenti che possono trasfigurare i cani più sedentari, [[characters/quoodle|Quoodle]] decise che la [[motifs/dance|danza]] era un gioco e iniziò ad abbaiare e a saltellare intorno all'artista, talvolta balzando così in alto da minacciare quasi la gola dell'uomo. Ma, sebbene il marinaio naturalmente sapesse meno dei contadini riguardo ai cani, ne sapeva abbastanza (come su molte altre cose) per non aver paura, e la voce con cui cantava avrebbe potuto sovrastare l'abbaiare di una muta.
+
+
+
+
+“I Francesi uccisero il nero Lord Foulon,
+
+
+
+
+Pensò che fosse una cosa da futurista fare;
+
+
+
+
+Egli offrì loro erba invece di pane,
+
+
+
+
+Così lo imbottirono d'erba quando gli tagliarono la testa.
+
+
+
+
+Con un wowtyiddly eccetera,
+
+
+
+
+
+“Per l'[[concepts/pride|orgoglio]] della sua [[motifs/soul|anima]] egli morì allora,
+
+
+
+
+Ma naturalmente si tratta sempre di [[concepts/pride|orgoglio]] che gli uomini
+
+
+
+
+Un uomo avanti rispetto al suo tempo
+
+
+
+
+Come Nabucodonosor, il [[archetypes/king|Re]] degli Ebrei.
+
+
+
+
+
+"Simeon Scudder di Styx nel Maine,"
+
+
+
+
+Pensò alla cosa e ci riprovò;
+
+
+
+
+Dava buon fieno e [[motifs/water|acqua]] nei secchi
+
+
+
+
+A mille irlandesi che martellano i binari,
+
+
+
+
+Con un wowtyiddly eccetera,
+
+
+
+
+
+"Gusti diversi e legati a un palo,"
+
+
+
+
+Fu cosparso di pece e piume per amore della [[concepts/conscience|coscienza]];
+
+
+
+
+Ma lapidare i profeti è storia antica,
+
+
+
+
+Come Nabucodonosor, il [[archetypes/king|Re]] degli Ebrei».
+
+
+
+In un abbandono insolito anche per lui, aveva danzato tra i cardi fino alla giungla di erbacce cresciuta intorno alla cappella affondata. E il cane, ormai pienamente convinto che non si trattasse solo di un gioco ma di una spedizione, forse addirittura di caccia, correva abbaiando davanti a lui lungo il sentiero che le zampe del suo stesso cane avevano già aperto nel groviglio. Prima che Patrick Dalroy [[motifs/well|bene]] sapesse cosa stava facendo o anche solo ricordasse di avere ancora in mano quella ridicola targa, si ritrovò fuori dal portico aperto di una sorta di torre stretta all'angolo di un edificio che, per quanto ne sapeva, non aveva mai visto prima. [[characters/quoodle|Quoodle]] salì immediatamente quattro o cinque gradini della scala buia all'interno e poi, rialzando le orecchie, si guardò indietro in attesa del suo compagno.
+
+
+
+
+C'è forse qualcosa che si chiede troppo a un uomo. Se c'è, era chiedere troppo a Patrick Dalroy di non accettare un invito così eccentrico. Immergendo frettolosamente il suo ingombrante vessillo di legno in mezzo ai cardi e all'erba, si piegò con il collo e le spalle gigantesche per entrare nel portico e proseguì a salire le scale. Era completamente buio, e fu solo dopo almeno due giri della scala a chiocciola che vide una luce davanti a sé, e poi sembrava un tipo di squarcio nella parete che gli apparve strappato come la bocca di una [[motifs/cave|grotta]] del Cornovaglia. Era anche così basso che ebbe qualche difficoltà a passarci attraverso con il suo enorme corpo, ma il cane era saltato dentro con un'aria di familiarità e ancora una volta si guardò indietro per vederlo seguire.
+
+
+
+
+Se si fosse trovato all'interno di un qualsiasi ambiente domestico ordinario, si sarebbe subito pentito della sua evasione e sarebbe tornato indietro. Ma si ritrovò in un contesto che non aveva mai visto prima, o addirittura, in un certo senso, creduto possibile.
+
+
+
+
+La sua prima sensazione fu di camminare nella suite più sigillata e segreta degli appartamenti nel [[settings/castle|castello]] del sogno. Tutte le stanze avevano quell'aria di aprirsi continuamente verso l'interno che è la [[motifs/soul|anima]] delle Mille e una notte. E gli ornamenti erano della stessa tradizione; sontuosi e vistosi, ma privi di caratteristiche e rigidi. Una dimora viola sembrava essere costruita all'interno di una dimora verde e una dimora dorata dentro quella. E le porte stranamente intagliate o i reticoli lavorati a giorno avevano tutti linee ondulate come un mare danzante, e per qualche motivo (forse il mal di mare) questo gli dava la sensazione che il luogo fosse bello ma vagamente maligno: come se fosse annoiato e contorto per essere il palazzo caduto del Verme.
+
+Ma provava anche un'altra sensazione che non riusciva ad analizzare; perché gli ricordava di essere una mosca sul soffitto o sulla parete. Erano i Giardini Sospesi di Babilonia a tornare alla sua [[concepts/imagination|immaginazione]]; oppure il [[settings/castle|Castello]] a est del Sole e a ovest della [[motifs/moon|Luna]]? Poi si ricordò che durante una malattia infantile aveva fissato un tipo di carta da parati piuttosto moresco, che sembrava avere file su file di corridoi vivacemente colorati, vuoti e interminabili. E si ricordò che una mosca camminava lungo una delle linee parallele; e gli sembrava nella sua fantasia infantile che i corridoi fossero tutti morti davanti alla mosca, ma prendessero vita al suo passaggio.
+
+
+
+
+«Per Giorgio!» esclamò «mi [[concepts/wonder|domando]] se questa sia la vera [[concepts/truth|verità]] su Oriente e Occidente! Che l'opulento Oriente offra tutto ciò che serve per le avventure, tranne l'uomo capace di godersele. Spiegherebbe alla perfezione la tradizione delle [[historical-references/crusades|crociate]]. Forse è questo che Dio intendeva con Europa e Asia. Noi vestiamo i personaggi ed essi dipingono il paesaggio. [[motifs/well|Bene]], comunque, tre delle cose meno asiatiche al mondo sono perse in questo infinito palazzo asiatico: un buon cane, una spada diritta e un irlandese.»
+
+
+
+
+Ma mentre scendeva lungo questo telescopio di colori tropicali provava davvero qualcosa di quella dura [[concepts/freedom|libertà]] fatalistica degli eroi (o dovremmo dire dei malvagi?) nelle Mille e una notte. Era preparato a qualsiasi impossibilità. Non si sarebbe quasi sorpreso se da sotto il coperchio di uno dei vasi di porcellana in un angolo fosse uscito un serpente filo di fumo blu o giallo, come se all'interno ci fosse l'olio di qualche mago. Non si sarebbe quasi sorpreso se da sotto le tende o dalle porte chiuse fosse strisciata fuori una scia sinuosa di [[motifs/blood|sangue]], o se un negro muto vestito di bianco fosse uscito con una corda per l'arco, avendo compiuto il suo lavoro. Non si sarebbe sorpreso se fosse entrato all'improvviso nella camera silenziosa di qualche sultano addormentato, che svegliare era una [[motifs/death|morte]] in tormenti. Eppure fu molto più sorpreso da ciò che vide davvero, e quando lo vide fu certo infine che stava solo vagando nel labirinto del suo cervello. Perché quello che vide era proprio il cuore di tutti i suoi [[motifs/dreams|sogni]].
+
+
+
+
+Ciò che vide era davvero più adatto a quella camera orientale più interna di quanto avesse mai immaginato. Su un divano con cuscini color rosso [[motifs/blood|sangue]] e arancione giaceva una donna straordinariamente bella, con una pelle quasi abbastanza scura da essere quella di un'araba, che ben si sarebbe potuta rivelare la Principessa adatta a una fiaba del genere. Ma in [[concepts/truth|verità]] non fu l'adeguatezza della donna alla scena a far battere più forte il suo cuore, bensì piuttosto la sua inadeguatezza. Non fu la sua stranezza ma la sua familiarità che fece fermare di colpo i suoi grandi piedi.
+
+
+
+
+Il cane continuò a correre ancora più velocemente e la principessa sul divano lo accolse calorosamente, sollevandolo sulle sue corte zampe posteriori. Poi alzò gli occhi e sembrò trasformarsi in pietra.
+
+
+
+
+«Bismillah», disse il viaggiatore orientale, con affabilità, «che la tua [[archetypes/shadow|ombra]] non si accorci mai – o non si allunghi, come direbbero le signore. Il Comandante dei Fedeli ha incaricato il suo schiavo meno competente di riportarti un cane. A causa del ritardo temporaneo nel raccogliere i quindici diamanti più grandi della [[motifs/moon|luna]], è stato costretto a inviare l'animale senza alcun collare. Chi è responsabile del ritardo sarà immediatamente battuto fino alla [[motifs/death|morte]], con le code dei draghi –»
+
+
+
+
+Lo spaventoso choc che ancora non aveva abbandonato il volto della signora lo riportò a un linguaggio responsabile.
+
+
+
+
+“Insomma”, disse, “in nome del [[archetypes/prophet|Profeta]], cane. Dico, Giovanna, vorrei che questo non fosse un sogno.”
+
+
+
+
+“Non lo è”, disse la ragazza, parlando per la prima [[motifs/time|volta]], “e non so ancora se desidero che lo sia”.
+
+
+
+
+«[[motifs/well|Bene]],» argomentò il sognatore, in modo razionale, «cosa sei tu, in qualsiasi momento, se non un sogno - o una visione? E cosa sono tutte queste stanze, se non un sogno - o piuttosto un incubo?»
+
+
+
+
+«Questo è il nuovo ala di Ivywood House», disse la signora chiamata Joan, parlando con grande difficoltà. «Lord Ivywood li ha arredati in stile orientale; è dentro che sta conducendo un dibattito molto interessante in difesa del vegetarianismo orientale. Sono uscita solo perché la stanza era piuttosto calda».
+
+
+
+
+“Vegetariano!” esclamò Dalroy con un'irritazione improvvisa e piuttosto irragionevole. “Quel tavolo sembra essere un po' al di sotto del Vegetarismo.” E indicò uno dei lunghi, stretti tavoli apparecchiati in quasi tutte le stanze centrali, carichi di elaborati salumi freddi e vini costosi.
+
+
+
+
+«Deve essere di mentalità aperta», esclamò Giovanna, che sembrava sul punto di qualcosa, forse di perdere la pazienza. «Non può pretendere che le persone comincino improvvisamente a diventare vegetariane quando non lo sono mai state prima».
+
+
+
+
+«È fatto», disse Dalroy con tranquillità, avvicinandosi per guardare il tavolo. «Dico, i tuoi amici ascetici sembrano aver fatto un buon buco nello champagne. Potresti non crederci, Joan, ma non ho toccato quello che chiami alcol da un mese».
+
+
+
+
+Con queste parole riempì di champagne un grande bicchiere destinato al claret cup e lo inghiottì in un sorso solo.
+
+
+
+
+La signora Joan Brett si alzò dritta ma tremante.
+
+
+
+
+«Adesso questo è davvero sbagliato, Pat», esclamò lei. «Oh, non fare la sciocca: sai che non mi interessa l'alcol o tutte quelle cose. Ma sei nella casa dell'uomo senza essere stata invitata e lui non lo sa. Non è da te».
+
+
+
+
+«Lo saprà, certo», disse l'uomo robusto, tranquillamente. «Conosco il prezzo esatto di un bicchiere di quel champagne».
+
+
+
+
+E scarabocchiò alcune parole con una matita sul retro di un menu sul tavolo e poi vi depose sopra con cura tre scellini.
+
+
+
+
+"E lì fai a Philip il peggior torto di tutti", gridò Lady Joan, pallidissima. "Comunque tu lo sai [[motifs/well|bene]] quanto me che non accetterebbe i tuoi soldi." Patrick Dalroy la guardò per alcuni secondi con un'espressione sul suo largo e insolitamente aperto volto che lei trovò del tutto sconcertante.
+
+«Curiosamente,» osservò infine, e con umore del tutto pacato, «curiosamente, sei tu che stai facendo un torto a Philip Ivywood. Lo credo ben capace di mandare in rovina l'Inghilterra o il Creato. Ma credo onestamente che non verrebbe mai meno alla parola data. E per di più, penso che quanto più arbitraria e letterale fosse stata la sua parola, tanto più la manterrebbe. Non capirai mai un uomo simile, finché non capirai che egli può nutrire devozione per una definizione; anche per una definizione nuova. Può davvero provare, per un emendamento a una legge del Parlamento inserito all'ultimo momento, ciò che tu provi per l'Inghilterra o per tua madre.»
+
+
+
+
+«Oh, non filosofeggiare,» gridò Joan all'improvviso. «Non vedi che è stato un colpo?»
+
+
+
+
+«Voglio solo che tu colga il punto,» rispose. «Lord Ivywood mi ha detto chiaramente, con le sue labbra scrupolose, che potevo entrare e pagare per liquore fermentato in qualsiasi luogo esponesse un'insegna pubblica all'esterno. E non rinnegherà quella definizione né alcun'altra definizione. Se mi trova qui, può benissimo mettermi in [[motifs/prison|prigione]] con qualche altra accusa, come ladro o vagabondo, o che so io. Ma non mi lesinerà lo champagne. E accetterà i tre scellini. E lo [[concepts/honour|onorerò]] per la sua gloriosa coerenza.»
+
+
+
+
+«Non capisco,» disse Joan, «una sola parola di ciò che stai dicendo. Da che parte sei venuto? Come posso portarti via? Non sembri renderti conto che sei in Casa Ivywood.»
+
+
+
+
+«Vedi, c'è un nome nuovo fuori del cancello,» osservò Patrick, con tono da conversazione, e condusse la dama in fondo al corridoio da cui era entrato e nella sua ultima stanza a torretta.
+
+
+
+
+Seguendo le sue indicazioni, Lady Joan sbirciò un poco oltre l'orlo della [[motifs/window|finestra]] dove pendeva il brillante uccello purpureo nella sua brillante gabbia dorata. Quasi immediatamente sotto, fuori dall'ingresso della scala semichiusa, stava un'insegna di taverna in legno, solida e immobile come se fosse stata lì da secoli.
+
+
+
+
+«Tutti di ritorno all'insegna della "Vecchia [[motifs/ship|Nave]]", vedi,» disse il Capitano. «Posso offrirti qualcosa, alla maniera d'una dama?»
+
+
+
+
+C'era una vasta impudenza nel gesto lieve e ospitale della sua mano, che turbò i lineamenti di Lady Joan con un'emozione diversa da qualunque ella desiderasse mostrare.
+
+
+
+
+«[[motifs/well|Ebbene]]!» gridò Patrick, con selvaggia cordialità, «ti ho fatto ridere di nuovo, mia cara.»
+
+
+
+
+La strinse a sé come in un turbine, e poi svanì dalla fatata torretta come una raffica, lasciandola in piedi con la mano levata verso i suoi selvaggi capelli neri.
+
+CAPITOLO XIII: LA BATTAGLIA DEL TUNNEL
+
+
+CHE cosa Joan Brett provasse davvero, mentre tornava dal secondo tête-à-tête che aveva vissuto nella torretta, è dubbio che qualcuno lo saprà mai. Ma era colma del pungente istinto femminile di «puntare alla pratica», e ciò che comprese chiaramente fu la scritta a matita che Dalroy aveva lasciato sul retro del menù di Lord Ivywood. Il Cielo solo sapeva che cosa fosse, e (come piaceva al suo temperamento profano dirsi) ella non si accontentava che il Cielo solo lo sapesse. Tornò rapidamente indietro, con le gonne fruscianti, al tavolo dove era stata lasciata. Ma le sue gonne ricaddero più morbide e i suoi piedi si trascinarono più lenti e più nel suo modo consueto man mano che si avvicinava al tavolo. Poiché in piedi accanto ad esso stava Lord Ivywood, che leggeva il cartoncino con le palpebre tranquillamente abbassate, le quali mettevano perfettamente in risalto il lungo e perfetto ovale del suo viso. Posò il cartoncino con un gesto del tutto naturale; e, vedendo Joan, le sorrise nel suo modo più affabile.
+
+
+
+
+«Così anche voi siete uscita,» disse. «Anch'io; fa davvero troppo caldo per qualsiasi cosa. Il dottor Gluck sta facendo un discorso straordinariamente buono, ma non ho potuto trattenermi neppure per quello. Non trovate che le mie decorazioni orientali siano dopo tutto un discreto successo? Una sorta di Vegetarianismo nel disegno, non vi pare?»
+
+
+
+
+La condusse su e giù per i corridoi, additando mezzelune color limone o melagrane cremisi nello schema dell'ornamento, con tale totale distacco che passarono due volte davanti alla bocca aperta della sala del dibattito, e Joan poté distintamente udire la voce del diplomatico Gluck che diceva:
+
+
+
+
+«In verità, dobbiamo la nothtra conothenza della contaminathione del maiale primariamente agli Ebrei e non ai Muthulmani. Io non condivido quel pregiudithio contro gli Ebrei, che è troppo comune nella mia famiglia e in tutte le famiglie arithtocratiche e militari prutthiane. Pentho che noi arithtocratici prutthiani dobbiamo tutto agli Ebrei. Gli Ebrei hanno dato alle nothtre vecchie rudi virtù teutoniche proprio quel tocco di raffinatetha, proprio quella thuperiorità intellettuale che –.»
+
+
+
+
+E poi la voce moriva dietro di loro, mentre Lord Ivywood teneva lezione lussureggiante, e assai [[motifs/well|bene]], sulla coda di pavone nella decorazione, o su qualche più stravagante versione orientale del meandro greco. Ma la terza [[motifs/time|volta]] che si voltarono, udirono il rumore di un applauso sommesso e lo sciogliersi della riunione; e la gente venne riversandosi fuori.
+
+
+
+
+Con immobilità e prontezza, Ivywood piombò sulle persone che voleva e le trattenne. Prese da parte Leveson e gli stava evidentemente chiedendo di fare qualcosa che nessuno dei due gradiva fare.
+
+
+
+
+«Se vostra signoria insiste,» ella udì Leveson sussurrare, «andrò io stesso, naturalmente; ma c'è moltissimo da fare qui con le questioni immediate di vostra signoria. E se ci fosse qualcun altro –.»
+
+
+
+
+Se Philip, Lord Ivywood, avesse mai in vita sua guardato un essere umano, avrebbe visto che J. Leveson, segretario, [[concepts/suffering|soffriva]] di un antichissimo malanno umano, scusabile in tutti gli uomini e piuttosto più scusabile in uno a cui hanno schiacciato il cilindro sugli occhi e che ha corso per salvarsi la vita. Così com'era, egli non vide nulla, ma disse semplicemente: «Oh, [[motifs/well|be']], trovate qualcun altro. Che ne dite del vostro amico Hibbs?»
+
+
+
+
+Leveson corse da Hibbs, il quale stava bevendo un altro bicchiere di champagne a uno degli innumerevoli buffet.
+
+
+
+
+«Hibbs,» disse Leveson, piuttosto nervosamente, «vuoi fare un favore a Lord Ivywood? Dice che hai tanto tatto. Pare possibile che un uomo si aggiri per il parco proprio sotto quella torretta laggiù. È un uomo che sarebbe certamente dovere pubblico di Lord Ivywood consegnare nelle mani della polizia, se è là. Ma poi, ancora, è pienamente capace di non esservi affatto – voglio dire di aver mandato il suo messaggio da qualche altro luogo e in qualche altro modo. Naturalmente, Lord Ivywood non vuole allarmare le signore e magari attirarsi le risa addosso, mettendo in piedi una sorta di retata di polizia per niente. Vuole che qualche suo amico assennato e pieno di tatto scenda a dare un'occhiata al posto – è una specie di [[motifs/garden|giardino]] abbandonato – e riferisca se c'è qualcuno in giro. Andrei io stesso, ma mi vogliono qui.»
+
+
+
+
+Hibbs annuì, e riempì un altro bicchiere.
+
+
+
+
+«Ma c'è un'ulteriore difficoltà,» proseguì Leveson. «È un bruto astuto, a quanto pare, un "uomo notevole e pericoloso", furono le parole di sua signoria; e sembra che abbia individuato un ottimo nascondiglio, un tunnel in disuso che conduce alla sabbia, appena oltre il [[motifs/garden|giardino]] e la cappella abbandonati. È una scelta scaltra, vedi, perché può sgusciare nei boschi se qualcuno arriva dalla riva, o sulla riva se qualcuno arriva dai boschi. Ma ci vorrebbe un bel po' di [[motifs/time|tempo]] anche solo per far arrivare qui la polizia, e ci vorrebbe dieci volte tanto per farla girare fino all'estremità marina del tunnel, tanto più che il mare arriva fino alle scogliere una o due volte tra qui e Pebblewick. Perciò non dobbiamo spaventarlo e farlo fuggire, o prenderà il largo. Se incontri qualcuno laggiù, parlagli in modo del tutto naturale, e torna con la notizia. Non manderemo a chiamare la polizia finché non torni. Parla come se stessi solo vagabondando come lui. Sua signoria desidera che la tua presenza appaia del tutto casuale.»
+
+
+
+
+«Desidera che la mia presenza appaia del tutto casuale,» ripeté Hibbs, gravemente.
+
+
+
+
+Quando il febbrile Leveson fu sfrecciato via soddisfatto, Hibbs prese uno o due altri bicchieri di vino; sentendo che stava partendo per una grande missione diplomatica per compiacere un lord. Poi passò attraverso l'apertura, si fece strada giù per la scala, e in qualche modo trovò l'uscita nel [[motifs/garden|giardino]] e nell'arbusteto trascurati.
+
+
+
+
+Era già sera, e una precoce [[motifs/moon|luna]] rischiarava la cappella sprofondata con le sue squame di fungo color drago. La brezza della [[motifs/night|notte]] era assai fresca ed ebbe un marcato effetto sul signor Hibbs. Si ritrovò a provare un piacere insensato per la scena; specialmente per un fungo che era bianco a macchie brune. Rise brevemente, al pensiero che dovesse essere bianco a macchie brune. Poi disse, con articolazione accuratamente precisa: «Sua signoria desidera che la mia presenza appaia del tutto casuale.» Poi cercò di ricordare qualcos'altro che Leveson aveva detto.
+
+Cominciò a farsi strada attraverso le onde di erbacce e spine oltre la Cappella, ma trovò il terreno assai più accidentato e ostruttivo di quanto avesse supposto.
+
+
+
+
+Scivolò, e cercò di salvarsi gettando un braccio attorno a un angelo di pietra spezzato a un angolo del cumulo di frammenti gotici; ma esso era malfermo e oscillò nel suo alloggiamento.
+
+
+
+
+Il signor Hibbs presentò per un momento l'aspetto di uno che valzeggiava con l'Angelo al chiaro di luna, in modo assai amoroso e irriverente. Poi la statua rotolò da una parte ed egli rotolò dall'altra, e giacque bocconi nell'erba, facendo osservazioni inudibili. Sarebbe potuto restare lì disteso per un certo [[motifs/time|tempo]], o almeno avrebbe trovato qualche difficoltà a rialzarsi, se non fosse stato per un'altra circostanza. Il cane [[characters/quoodle|Quoodle]], con caratteristica invadenza, lo aveva seguito giù per le scale buie e fuori dalla soglia, e, trovandolo in quella posa insolita, cominciò ad abbaiare come se la casa fosse in [[motifs/fire|fiamme]].
+
+
+
+
+Ciò fece giungere un pesante passo umano dalle parti più nascoste del boschetto; e in un minuto o due il grosso uomo dai capelli rossi lo guardava dall'alto con non dissimulata [[concepts/wonder|meraviglia]]. Hibbs disse, con voce soffocata che veniva oscuramente da sotto il suo volto nascosto: «Voglio che la mia presenza appaia del tutto casuale.»
+
+
+
+
+«E lo è,» disse il Capitano, «posso aiutarvi a rialzarvi? Vi siete fatto male?»
+
+
+
+
+Rimise gentilmente in piedi il gentiluomo prostrato, e appariva sinceramente preoccupato. La caduta aveva alquanto rinsavito il rappresentante di Lord Ivywood; ed egli aveva davvero un'escoriazione rossa sulla guancia sinistra che pareva più brutta di quanto fosse.
+
+
+
+
+«Sono davvero spiacente,» disse Patrick Dalroy, cordialmente, «venite a sedervi nel nostro accampamento. Il mio amico Pump sarà di ritorno tra poco, ed è un dottore coi fiocchi.»
+
+
+
+
+Il suo amico Pump poteva essere o non essere un dottore coi fiocchi, ma il Capitano stesso era certamente il più inefficiente dei dottori. Tanto scarso era il suo talento nel diagnosticare a vista la [[concepts/nature|natura]] di un male, che, avendo dato al signor Hibbs un posto a sedere su un albero abbattuto presso il tunnel, procedette a dargli (per mera automatica ospitalità) un bicchiere di rum.
+
+
+
+
+Gli occhi del signor Hibbs si ridestarono, quando lo ebbe sorseggiato, ma si ridestarono a un mondo nuovo.
+
+
+
+
+«Qualunqe possan esse' le nostre opignoni indivduali,» disse, e guardò nello spazio con un'espressione di umoristica saggezza.
+
+
+
+
+Poi mise vagamente la mano in tasca, come per trovare qualche lettera che doveva consegnare. Non trovò nulla se non il suo vecchio taccuino giornalistico, che spesso portava con sé quando c'era la possibilità di intervistare qualcuno. Il sentirlo sotto le dita mutò l'intero atteggiamento della sua mente. Lo tirò fuori e disse:
+
+
+
+
+«E che direbbe del Vegetarianismo, colonnello Pump?»
+
+
+
+
+«Penso che venga a noia,» rispose il destinatario di questo complesso titolo, sbarrando gli occhi.
+
+
+
+
+«Diciam',» chiese Hibbs allegramente, voltando una pagina del suo taccuino, «diciam' da lungo tempo strenuo vegetariano per convinzione?»
+
+
+
+
+«No; sono stato incriminato una volta sola,» rispose Dalroy, con moderazione, «e [[concepts/hope|spero]] di condurre una vita migliore quando ne uscirò.»
+
+
+
+
+«Spera condurre vita migliore,» mormorò Hibbs, scrivendo con foga, con la punta sbagliata della matita. «E qual sarebb' il miglior cibo veg'tale per un davvero strenuo vegetariano per convinzione?»
+
+
+
+
+«Cardi,» disse il Capitano, stancamente. «Ma non ne so molto, sapete.»
+
+
+
+
+«Lord Ivywoo' strenuo veg'tariano per convinzione,» disse il signor Hibbs, scuotendo il capo con unzione. «Lord Ivywoo' dice tatto. Parlagli con naturalezza. E così faccio. È quel che faccio. Parlargli con naturalezza.»
+
+
+
+
+Humphrey Pump giunse attraverso la parte più sgombra del bosco, conducendo l'asino, che aveva appena consumato la dieta raccomandata a un vegetariano per convinzione; il cane balzò su e corse verso di loro. Pump era, forse, l'uomo più naturalmente educato del mondo, e non disse nulla. Ma i suoi occhi avevano accolto, con un solo scatto di sorpresa, l'altro fatto, anch'esso non slegato dalla dieta, che era sfuggito all'attenzione di Dalroy quando aveva somministrato il rum come ricostituente.
+
+
+
+
+«Lord Ivywoo' dice,» mormorò il diplomatico giornalistico. «Lord Ivywoo' dice: 'parla come se stessi solo vagabondando'. Ecco. Questo è tatto. Questo è quel che devo fare – parlare come se stessi solo vagabondando. Lunga strada per l'altro capo del tunnel; mare e scogliere. 'N credo sappiano nuotare.» Afferrò di nuovo il taccuino e cercò invano la matita. «Buon soggetto corrispondenza. Sanno nuotare i poliziò?»
+
+
+
+
+«I poliziotti?» disse Dalroy, in un [[motifs/silence|silenzio]] di morte. Il cane alzò lo sguardo, e il locandiere no.
+
+
+
+
+«Arrivare da Ivywoo' una cosa,» ragionava il diplomatico. «Mettere poliziotti spiaggia altro capo altra cosa. Non serve fare una cosa non fa' l'altra cosa, 'n serve fa' altra cosa non fa' altra cosa. Voglio mia presenza appaia del tutto casuale. Ah!»
+
+
+
+
+«Attaccherò l'asino,» disse Pump.
+
+
+
+
+«Passerà attraverso quella porta?» chiese Dalroy, con un gesto verso l'ingresso del rozzo assito con cui avevano chiuso il tunnel, «o la sfascio tutta in un colpo?»
+
+
+
+
+«Passerà senza problemi,» rispose Pump. «Ci ho badato quando l'ho fatta. E penso che lo porterò all'estremità sicura del tunnel prima di caricarlo. La cosa migliore che puoi fare è divellere uno di quegli alberelli per sbarrare la porta. Questo li ritarderà di un minuto o due; anche se penso che abbiamo ricevuto l'avviso con un discreto [[motifs/time|anticipo]].»
+
+
+
+
+Condusse il suo asino al carro, e bardò con cura l'asino; come tutti gli uomini accorti nel vecchio senso sano, sapeva che l'ultima occasione di agio dovrebbe essere presa con agio, affinché sia lucida. Poi condusse l'intero equipaggiamento attraverso la porta di legno provvisoria del tunnel, l'inquisitivo [[characters/quoodle|Quoodle]], naturalmente, seguendolo alle calcagna.
+
+
+
+
+«Scusatemi se prendo un albero,» disse Dalroy, cortesemente, al suo ospite, come un uomo che si allunga oltre un altro per prendere un fiammifero. E con ciò divelse dalle radici un giovane albero, come aveva fatto nell'Isola degli Ulivi, e se lo portò sulla spalla, come la clava di Ercole.
+
+CAPITOLO XIV: LA CREATURA CHE L'UOMO DIMENTICA
+
+
+NONOSTANTE il naturale trambusto attorno alla ferita di Lord Ivywood e le difficoltà della polizia nel trovare la via verso la riva, i fuggitivi della Locanda Volante sarebbero stati quasi certamente catturati se non fosse stato per un curioso incidente, il quale scaturì anch'esso, per come andarono le cose, dal grande dibattito di Ivywood sul Vegetarianismo.
+
+
+
+
+L'ora relativamente tarda alla quale Lord Ivywood aveva fatto la sua scoperta era stata in gran parte dovuta a un lunghissimo discorso che Joan non aveva udito, e che fu pronunciato immediatamente prima delle poche osservazioni conclusive che ella aveva udito dal dottor Gluck. Il discorso fu tenuto da un eccentrico, naturalmente. La maggior parte di coloro che vi assistevano, e quasi tutti coloro che parlavano, erano eccentrici in un modo o nell'altro. Ma egli era un eccentrico di grande ricchezza e di buona famiglia, un membro del Parlamento, un giudice di pace, un parente di Lady Enid, un uomo [[motifs/well|ben]] noto nell'arte e nelle lettere; in breve, una personalità a cui non si poteva impedire di essere qualunque cosa scegliesse, da rivoluzionario a seccatore. Dorian Wimpole era divenuto per la prima volta famoso fuori dalla propria classe sotto il fantasioso titolo di Poeta degli [[motifs/birds|Uccelli]]. Un volume di versi, che ampliava le varie note o grida di singoli canori [[motifs/birds|uccelli]] in fantastici soliloqui di questi filosofi pennuti, aveva davvero contenuto una grande dose di ingegno ed eleganza. Sfortunatamente, egli era uno di quelli che tendono sempre a prendere sul serio le proprie fantasie, e nella cui altrimenti legittima stravaganza c'è troppo poco del succo dello scherzo. Sicché, nelle sue opere successive, quando spiegò «La [[forms/fable|Favola]] dell'Angelo», cercando di provare che i volatili dell'aria fossero creature superiori all'uomo o agli antropoidi, la sua maniera fu giudicata troppo austera; e quando presentò un emendamento allo schema di Lord Ivywood per il villaggio modello chiamato Peaceways, sostenendo che le sue case dovessero tutte seguire la più igienica architettura dei nidi appesi agli alberi, molti rimpiansero che egli avesse perduto il suo tocco leggero. Ma, quando andò oltre gli [[motifs/birds|uccelli]] e riempì i suoi poemi di congetturale psicologia su tutti i Giardini Zoologici, il suo significato divenne oscuro; e [[works/lady-susan-(austen)|Lady Susan]] lo aveva persino descritto come il suo cattivo periodo. Era una lettura tanto più imbarazzante perché egli riversava gli immaginari inni, [[motifs/love|amorosi]] canti e canti di guerra dei più bassi [[motifs/animals|animali]], senza una parola di previa spiegazione. Così, se qualcuno in cerca di un'ordinaria canzone da salotto si imbatteva in versi intitolati «[[motifs/desert|Del Deserto]] un [[motifs/love|Canto]] d'Amore», e che cominciavano –
+
+
+
+
+«La sua testa è alta contro le [[motifs/stars|stelle]],
+
+
+
+
+La sua gobba si erge d'[[concepts/pride|orgoglio]],»
+
+
+
+il complimento alla dama parrebbe dapprima sorprendente, finché il lettore non si rendesse conto che tutti i personaggi dell'idillio erano cammelli. Oppure, se cominciava un poema intitolato semplicemente «La Marcia della [[concepts/democracy|Democrazia]]», e trovava nei primi versi –
+
+
+
+
+«Compagni, in marcia per sempre,
+
+
+
+
+Conficcate i denti nel pavimento e nella porta,»
+
+
+
+egli avrebbe potuto nutrire dubbi su una simile politica per le masse; finché non scoprisse che essa era supposta essere rivolta da un eloquente e aspirante topo alla solidarietà sociale della sua razza. Lord Ivywood aveva quasi litigato col suo poetico parente per il tumultuoso realismo dei versi chiamati «Un Canto Conviviale», finché non gli fu accuratamente spiegato che la bevanda era [[motifs/water|acqua]], e che la festosa compagnia era composta di bisonti. La sua visione del marito perfetto, quale esiste nei sentimenti della giovane femmina di tricheco, è meditata e suggestiva; ma riceverebbe senza dubbio molte emendazioni da chiunque avesse sperimentato quei sentimenti. E nel suo [[forms/sonnet|sonetto]] intitolato «Maternità» egli ha reso il giovane scorpione coerente e convincente, eppure in qualche modo non del tutto amabile. A sua difesa, tuttavia, va ricordato che egli affrontava per principio i casi più difficili, dichiarando che non c'era creatura terrena che un poeta dovesse dimenticare.
+
+
+
+
+Era del tipo biondo di sua cugina, con fluenti capelli e baffi chiari, e un occhio azzurro brillante e distratto; era assai [[motifs/well|ben]] vestito nella maniera studiatamente trascurata, con una giacca di velluto marrone e, sull'anello, l'effigie di una di quelle bestie che gli uomini adoravano in [[settings/egypt|Egitto]].
+
+
+
+
+Il suo discorso fu grazioso e [[motifs/well|ben]] formulato ed enormemente lungo, e verteva tutto su un'ostrica. Egli protestò appassionatamente contro il suggerimento di alcuni umanitari che erano vegetariani sotto altri aspetti, ma sostenevano che organismi tanto semplici potessero equamente essere considerati eccezioni. L'uomo, disse, persino nel suo miserabile meglio, cercava sempre di scomunicare qualche cittadino del cosmo, di dimenticare qualche creatura che dovrebbe ricordare. Ora, pareva che quella creatura fosse l'ostrica. Diede un lungo resoconto della [[forms/tragedy|tragedia]] dell'ostrica, un resoconto davvero immaginoso e pittoresco; pieno di fantastici pesci, e di rupi coralline che strisciavano e si arrampicavano, e di creature barbute che striavano la riva del mare e la verde oscurità nelle cantine del mare.
+
+
+
+
+«Che orribile ironia,» esclamò, «che questa sia l'unica fra le creature inferiori che noi chiamiamo Nativa! Parliamo di essa, e di essa sola come se fosse una nativa del paese. Mentre, in verità, essa è un'[[concepts/exile|esule]] nell'universo. Che cosa si può concepire di più pietoso dell'eterna frenesia dell'impotente anfibio? Che cosa è più terribile della lacrima di un'ostrica? La [[concepts/nature|Natura]] stessa l'ha sigillata con il duro sigillo dell'[[concepts/eternity|eternità]]. La creatura che l'uomo dimentica reca contro di lui una testimonianza che non può essere dimenticata. Poiché le [[motifs/tears|lacrime]] delle vedove e dei prigionieri vengono infine asciugate come le [[motifs/tears|lacrime]] dei bambini. Svaniscono come le brume del mattino o le piccole pozze dopo un'inondazione. Ma la lacrima dell'ostrica è una perla.»
+
+
+
+
+Il Poeta degli [[motifs/birds|Uccelli]] era così eccitato dal proprio discorso che, dopo la riunione, uscì con occhio selvaggio verso l'automobile, che lo attendeva da lungo tempo, mentre l'autista dava qualche debole segno di sollievo.
+
+«Verso [[motifs/home|casa]], per ora», disse il poeta, e fissò la [[motifs/moon|luna]] con volto ispirato.
+
+
+
+
+Amava molto andare in automobile, trovando che ciò lo nutriva di ispirazioni; e lo faceva fin dalle prime ore di quel mattino, avendo goduto di un [[motifs/sleep|sonno]] leggermente ridotto. Non aveva quasi rivolto parola ad alcuno finché non aveva parlato con la colta folla di Ivywood. Non desiderava parlare con nessuno ancora per molte ore. Le sue idee correvano. Aveva gettato una pelliccia sopra la giacca di velluto, ma la lasciava svolazzare aperta, avendo da tempo dimenticato il freddo nello splendore della [[motifs/night|notte]] lunatica. Percepiva soltanto due cose: la rapidità della sua vettura e la rapidità dei suoi pensieri. Sentiva, per così dire, una furia di onniscienza; gli pareva di volare con ogni uccello che sfrecciava o roteava sopra i boschi, con ogni scoiattolo che vi aveva saltato e capitombolato dentro, con ogni albero che si era piegato sotto la raffica e l'aveva sostenuta.
+
+
+
+
+Eppure in pochi istanti si sporse in avanti e batté sul vetro anteriore della vettura, e l'autista, raddrizzando di colpo le spalle, arrestò con un sobbalzo le ruote. Dorian Wimpole aveva appena scorto qualcosa nel chiaro di luna sul ciglio della strada, che faceva appello tanto a questa quanto all'altra parte della sua tradizione; qualcosa che faceva appello a Wimpole [[motifs/well|non meno]] che a Dorian.
+
+
+
+
+Due uomini dall'aspetto malandato, uno con ghette lacere e l'altro in quel che pareva il resto di un costume da carnevale con l'aggiunta di capelli, di un rosso tanto selvaggio da sembrare una parrucca, se ne stavano fermi sotto la siepe, apparentemente intenti a caricare un carretto tirato da un asino. Almeno due oggetti tondeggianti, rozzamente cilindrici, simili più o meno a tinozze, spiccavano sulla [[motifs/road|strada]] accanto alle ruote, insieme a una specie di palo di legno sciolto che giaceva lungo la [[motifs/road|strada]] accanto ad essi. A dire il vero, l'uomo dalle vecchie ghette aveva appena finito di dar da mangiare e da bere all'asino, e ora ne aggiustava più comodamente i finimenti. Ma Dorian Wimpole naturalmente non si aspettava quel genere di cosa da quel genere di uomo. Gli si gonfiò dentro il senso che la sua onnipotenza andasse oltre il poetico; che egli fosse un gentiluomo, un magistrato, un membro del Parlamento e giudice di pace, e così via. Questa insensibilità o ignoranza verso gli [[motifs/animals|animali]] non doveva continuare finché egli era giudice di pace; specialmente dopo l'ultima Legge di Ivywood. Attraversò senz'altro fino al carretto fermo e disse:
+
+
+
+
+«State sovraccaricando quell'animale, ed esso è confiscato. E dovrete venire con me alla stazione di polizia.»
+
+
+
+
+Humphrey Pump, che era molto premuroso verso gli [[motifs/animals|animali]], e aveva sempre cercato di essere premuroso verso i gentiluomini, malgrado avesse piantato una pallottola nella gamba di uno di loro, era semplicemente troppo sbalordito e afflitto per dare una qualsiasi risposta. Fece un passo o due indietro e fissò con occhi bruni e ammiccanti il poeta, l'asino, il barile, il formaggio e l'insegna che giaceva sulla [[motifs/road|strada]].
+
+
+
+
+Ma il capitano Dalroy, con la più rapida ripresa del suo temperamento nazionale, fece al poeta e magistrato un vasto e fantastico inchino e disse con gradevole impudenza: «Interessato agli asini, senza [[concepts/doubt|dubbio]]?»
+
+
+
+
+«Mi interesso a tutte le cose che gli uomini dimenticano», rispose il poeta, con un bel tocco di [[concepts/pride|orgoglio]], «ma soprattutto a quelle come questa, che sono le più facilmente dimenticate.»
+
+
+
+
+In qualche modo, da quelle due prime frasi Pump comprese che questi due eccentrici aristocratici si erano inconsciamente riconosciuti l'un l'altro. Il fatto che fosse inconscio pareva, in qualche modo, escluderlo ancor di più. Smosse un poco la [[motifs/dust|polvere]] illuminata dalla luna della [[motifs/road|strada]] con i suoi stivali piuttosto malandati e infine si allontanò per andare a parlare con l'autista.
+
+
+
+
+«È lontana da qui la prossima stazione di polizia?» chiese.
+
+
+
+
+L'autista rispose con una sillaba di cui la resa letterale più vicina è «nzò». Sono state tentate altre grafie, ma il sentimento espresso è quello dell'agnosticismo.
+
+
+
+
+Ma qualcosa di particolarmente brutale in quell'abbreviazione fece guardare in faccia l'uomo all'accorto, e perciò sensibile, signor Pump. E vide che non era soltanto il chiaro di luna a renderlo bianco.
+
+
+
+
+Con quella muta delicatezza che era in lui tanto inglese, Pump guardò di nuovo l'uomo, e vide che si appoggiava pesantemente alla vettura con un braccio, e vide che il braccio tremava. Conosceva abbastanza i suoi compatrioti da sapere che qualunque cosa dicesse doveva dirla con noncuranza.
+
+
+
+
+«[[concepts/hope|Spero]] che sia più vicina a casa vostra. Dovete essere un po' distrutto.»
+
+
+
+
+«Oh, all'inferno!» disse l'autista e sputò sulla [[motifs/road|strada]].
+
+
+
+
+Pump tacque comprensivo, e l'autista del signor Wimpole proruppe in modo sconnesso, come se fosse altrove.
+
+
+
+
+«Maledette bellezze dell'alba e niente colazione. Maledetto pranzo a Ivywood e niente pranzo. Maledette ore nere ed eterne là fuori mentre lui si prende la sua torta e lo champagne. E poi è un asino.»
+
+
+
+
+«Non vorrete dirmi», disse Pump con voce molto grave, «che oggi non avete mangiato niente?»
+
+
+
+
+«Oh no!» rispose il cockney, con l'ironia del letto di morte. «Oh, certo che no.»
+
+
+
+
+Pump tornò a passeggiare sulla [[motifs/road|strada]], raccolse il formaggio con la mano sinistra, e lo posò sul sedile accanto all'autista. Poi la sua mano destra andò a una delle sue grandi tasche larghe ed equivoche, e la lama di un grosso coltello a serramanico colse e ricolse i costanti splendori della [[motifs/moon|luna]].
+
+
+
+
+L'autista fissò per parecchi istanti il formaggio, con il coltello che gli tremava in mano. Poi cominciò a tagliuzzarlo, e in quella luce bianca e stregata la felicità del suo volto era quasi orribile.
+
+
+
+
+Pump era saggio in tutte queste faccende, e sapeva che, così come un poco di cibo talvolta previene la pura ebbrezza, così un poco di stimolante talvolta previene un'improvvisa e pericolosa indigestione. Era praticamente impossibile far smettere all'uomo di mangiare formaggio. Era assai meglio dargli pochissimo del rum, tanto più che era ottimo rum, e migliore di qualunque cosa egli potesse trovare in una qualsiasi delle osterie ancora permesse. Attraversò di nuovo la [[motifs/road|strada]] e raccolse il piccolo barile, che pose dall'altro lato del formaggio e da cui riempì, a modo suo, la coppetta che portava in tasca.
+
+Ma alla vista di ciò gli occhi del cockney si accesero d'un tratto di terrore e [[motifs/desire|desiderio]].
+
+
+
+
+«Ma non potete farlo», sussurrò rauco, «è la polizia. C'è la galera per questo, senza lettera del dottore né insegna né niente.»
+
+
+
+
+Il signor Humphrey Pump compì un'altra marcia di ritorno sulla [[motifs/road|strada]]. Giuntovi, esitò per la prima [[motifs/time|volta]], ma dall'atteggiamento dei due aristocratici insensati che discutevano e si atteggiavano sulla [[motifs/road|strada]] era del tutto chiaro che non avrebbero notato nulla se non l'un l'altro. Raccolse il palo sciolto dalla [[motifs/road|strada]] e lo portò alla vettura, piantandolo con umorismo dritto nell'apertura tra il barilotto e il formaggio.
+
+
+
+
+Il bicchierino di rum vacillava nella mano del povero autista esattamente come aveva fatto il grosso coltello, ma quando alzò lo sguardo e vide davvero l'insegna di legno sopra di sé, parve non tanto farsi [[concepts/courage|coraggio]], quanto piuttosto trascinar su un qualche [[concepts/courage|coraggio]] dimenticato dalle fondamenta di un mare insondabile. Era in verità il [[concepts/courage|coraggio]] dimenticato del popolo.
+
+
+
+
+Guardò una volta i cupi e neri pineti attorno a sé e trangugiò d'un fiato la sorsata di liquido dorato, come fosse una pozione fatata. Rimase seduto in silenzio; e poi, molto lentamente, una specie di petreo bagliore cominciò ad affiorargli negli occhi. Gli occhi bruni e vigili di Humphrey Pump lo studiavano con una certa ansia o persino [[concepts/fear|paura]]. Aveva davvero l'aria di un uomo incantato o mutato in pietra. Ma parlò all'improvviso.
+
+
+
+
+«Quel farabutto!» disse. «Gli farò passare le pene dell'inferno. Gli farò vedere l'inferno maledetto. Gli darò qualcosa che non si aspetta.»
+
+
+
+
+«Che cosa intendete?» chiese il locandiere.
+
+
+
+
+«Ma sì», rispose l'autista, con brusca compostezza, «gli darò un piccolo asino.»
+
+
+
+
+Il signor Pump parve turbato. «Credete», osservò, fingendo di parlare con leggerezza, «che gli si possa affidare anche solo un piccolo asino?»
+
+
+
+
+«Oh, sì», disse l'uomo. «È molto amabile con gli asini, e con gli asini noi dobbiamo essere amabili con lui.»
+
+
+
+
+Pump continuava a guardarlo dubbioso, mostrando o fingendo di non seguirne il senso. Poi guardò con eguale ansia gli altri due uomini; ma stavano ancora parlando. Per quanto diversi in ogni altra cosa, erano di quella specie che dimentica tutto, classe, contesa, [[motifs/time|tempo]], luogo e i fatti fisici davanti a sé, nella brama di lucida spiegazione e di dibattito paritario.
+
+
+
+
+Così, quando il capitano cominciò accennando con leggerezza al fatto che dopotutto l'asino era suo, poiché lo aveva comprato da uno stagnino a giusto prezzo, la stazione di polizia praticamente svanì dalla mente di Wimpole — e [[concepts/fear|temo]] anche il carretto dell'asino. Nulla rimase se non la necessità di dissipare la superstizione della proprietà personale.
+
+
+
+
+«Io non possiedo nulla», disse il poeta, agitando le mani all'infuori, «non possiedo nulla, se non nel senso che possiedo tutto. Tutto dipende dal fatto che la ricchezza o il potere siano usati a favore o contro i fini superiori del cosmo.»
+
+
+
+
+«Davvero», replicò Dalroy, «e in che modo la vostra automobile serve i fini superiori del cosmo?»
+
+
+
+
+«Mi aiuta», disse il signor Wimpole, con onorevole semplicità, «a produrre le mie poesie.»
+
+
+
+
+«E se potesse essere usata per qualche fine più alto (se una tal cosa esistesse), se un nuovo scopo fosse per caso venuto in mente al cosmo», domandò l'altro, «immagino che cesserebbe di essere vostra proprietà.»
+
+
+
+
+«Certamente», replicò il dignitoso Dorian. «Non mi lamenterei. Né voi avete alcun titolo per lamentarvi quando l'asino cessa di essere vostro perché lo abbassate nella scala cosmica.»
+
+
+
+
+«Che cosa vi fa pensare», chiese Dalroy, «che io volessi abbassarlo?»
+
+
+
+
+«È mia ferma convinzione», replicò Dorian Wimpole, severamente, «che voi voleste cavalcarlo» (poiché in effetti il capitano aveva una volta ripetuto il suo scherzoso gesto di gettare la grande gamba sopra il basto). «Non è così?»
+
+
+
+
+«No», rispose il capitano, con innocenza, «io non cavalco mai un asino. Ne ho paura.»
+
+
+
+
+«Paura di un asino!» esclamò Wimpole, incredulo.
+
+
+
+
+«Paura di un paragone storico», disse Dalroy.
+
+
+
+
+Vi fu una breve pausa, e Wimpole disse abbastanza freddamente: «Oh, [[motifs/well|be']], siamo sopravvissuti a quei paragoni.»
+
+
+
+
+«Con facilità», rispose il capitano irlandese. «È meraviglioso con quanta facilità si sopravviva alla crocifissione di qualcun altro.»
+
+
+
+
+«In questo caso», disse l'altro cupamente, «penso che sia la crocifissione dell'asino.»
+
+
+
+
+«Diamine, dovete aver disegnato voi quella vecchia caricatura romana dell'asino crocifisso», disse Patrick Dalroy, con un'aria di una certa [[concepts/wonder|meraviglia]]. «Come [[motifs/well|bene]] vi siete conservato; ma sì, sembrate ancora giovane! [[motifs/well|Beh]], naturalmente, se questo asino è crocifisso, dev'essere scrocifisso. Ma siete proprio sicuro», aggiunse, molto gravemente, «di saper scrocifiggere un asino? Vi assicuro che è una delle più rare arti umane. Tutta questione di destrezza. È come i medici con le malattie rare, sapete; la necessità sorge tanto di rado. Ammesso che, per i fini superiori del cosmo, io sia inadatto a occuparmi di questo asino, devo pur sentire un debole brivido di responsabilità nel consegnarlo a voi. Lo capirete, questo asino? È un asino di animo delicato. È un asino complesso. Come posso essere certo che, dopo una conoscenza tanto breve, coglierete ogni sfumatura delle sue piccole simpatie e antipatie?»
+
+
+
+
+Il cane [[characters/quoodle|Quoodle]], che era rimasto immobile come la sfinge all'[[archetypes/shadow|ombra]] dei pini, si trascinò per un istante fin nel mezzo della [[motifs/road|strada]] e poi tornò indietro. Correva fuori quando si udiva un lieve rumore come di macinatura rotatoria; e correva indietro quando esso cessava. Ma Dorian Wimpole era troppo preso dalla sua scoperta filosofica per notare né il cane né la [[motifs/wheel|ruota]].
+
+
+
+
+«Non gli sederò sulla schiena, in ogni caso», disse con fierezza, «ma se fosse solo quello sarebbe una piccola cosa. Vi basti che l'avete lasciato nelle mani dell'unica persona che potesse davvero comprenderlo; uno che scruta i cieli e i mari per non trascurare la più piccola creatura.»
+
+«È una creatura molto curiosa,» disse il Capitano, con ansia, «ha ogni sorta di strane antipatie. Non sopporta un'automobile, per esempio, soprattutto una che rombi a quel modo mentre sta ferma. Non gli dispiace troppo una pelliccia, ma se sotto ci porti una giacca di velluto marrone, ti morde. E dovete tenerlo lontano da una certa specie di gente. Non credo che l'abbiate incontrata; ma costoro pensano sempre che chiunque abbia meno di duecento sterline l'anno sia ubriaco e assai crudele, e che chiunque ne abbia più di duemila stia amministrando il Giorno del Giudizio. Se terrete il nostro caro asino lontano dalla compagnia di simili persone... Ehilà! Ehilà! Ehilà!»
+
+
+
+
+Si voltò in preda a un turbamento vero, e si lanciò dietro al cane, che s'era lanciato dietro l'automobile ed era saltato dentro. Il Capitano vi saltò dentro a sua volta, dietro al cane, per tirarlo fuori. Ma prima che potesse farlo, si accorse che l'auto volava troppo veloce per un simile balzo. Alzò lo sguardo e vide l'insegna della «Vecchia [[motifs/ship|Nave]]» ritta sul davanti come uno stendardo rigido; e Pump, con la sua botte e il suo formaggio, seduto saldamente accanto al guidatore.
+
+
+
+
+La cosa fu per lui, ancor più che per gli altri, un terremoto e una trasfigurazione; ma egli si [[motifs/rose|levò]] malfermo in piedi e gridò a Wimpole.
+
+
+
+
+«L'hai lasciata in buone mani. Io non sono mai stato crudele con un motore.»
+
+
+
+
+Nel chiaro di luna del bosco di pini magico, lontano alle spalle, Dorian e l'asino rimasero a guardarsi l'un l'altro.
+
+
+
+
+Per la mente mistica, quando è davvero una mente (il che non è affatto sempre il caso), non vi sono due cose più suggestive e simboliche di un poeta e di un asino. E l'asino era un asino verissimo, e il poeta era un poeta verissimo; per quanto legittimamente lo si potesse a volte scambiare per l'altro animale. L'interesse dell'asino per il poeta non si conoscerà mai. L'interesse del poeta per l'asino era perfettamente genuino; e sopravvisse persino a quel tremendo colloquio privato nel gufesco segreto dei boschi.
+
+
+
+
+Ma credo che persino il poeta sarebbe stato illuminato se avesse visto il volto bianco, teso, frenetico dell'uomo al posto di guida del suo motore che svaniva. Se l'avesse visto, forse avrebbe ricordato il nome, o forse persino cominciato a comprendere la [[concepts/nature|natura]] di un certo animale che non è né l'asino né l'ostrica; ma la creatura che all'uomo è sempre riuscito più facile dimenticare, dall'ora in cui dimenticò Dio in un [[motifs/garden|Giardino]].
+
+CAPITOLO XV: I CANTI DEL CAR CLUB
+
+
+PIÙ d'una volta, mentre la vettura volava attraverso neri e argentei paesi fatati di abeti e di pini, Dalroy sporgeva la testa dal [[motifs/window|finestrino]] laterale e rimostrava con l'autista, senza effetto. Alla fine si ridusse a chiedergli dove stesse andando.
+
+
+
+
+«Vado a casa», disse l'autista con voce indecifrabile. «Vado a casa da mia madre.»
+
+
+
+
+«E dove abita?» chiese Dalroy, con qualcosa di più simile alla timidezza di quanto avesse mai mostrato in vita sua.
+
+
+
+
+«Nel Galles», disse l'uomo, «ma non la vedo da quando sono nato. Ma andrà bene.»
+
+
+
+
+«Dovete rendervi conto», disse Dalroy, con difficoltà, «che potreste essere arrestato — la vettura è del padrone; e lui è rimasto indietro senza nulla da mangiare, per così dire.»
+
+
+
+
+«Ha il suo asino», borbottò l'uomo. «Che il tanghero si mangi il suo asino, con salsa di cardi. Lo farebbe, se fosse vuoto come lo ero io.»
+
+
+
+
+Humphrey Pump aprì il [[motifs/window|finestrino]] di vetro che lo separava dalla parte posteriore della vettura, e si girò per parlare all'amico al di sopra del gomito e della spalla squadrata.
+
+
+
+
+«Temo», disse, «che per ora non si fermerà per nessuna ragione. È matto come la zia di Moody, come si suol dire.»
+
+
+
+
+«Lo dicono?» chiese il capitano, con una sorta di ansia. «Non lo dicevano mai a Itaca.»
+
+
+
+
+«Sinceramente, credo che fareste meglio a lasciarlo in pace», rispose Pump, con la sua faccia sagace. «Ci scaraventerebbe contro uno Scotch Express come fece Dandy Mutton, quando dissero che guidava con imprudenza. Potremo rimandare la vettura a Ivywood in qualche modo più tardi e, davvero, non credo che faccia alcun male al gentiluomo passare una [[motifs/night|notte]] con un asino. L'asino potrebbe insegnargli qualcosa, ve lo dico io.»
+
+
+
+
+«È vero che ha negato il Principio della Proprietà Privata», disse Dalroy, riflessivo, «ma immagino che stesse pensando a una semplice casa fissata al suolo. Una casa su ruote, come questa, forse potrebbe considerarla un possesso più permanente. Ma io non lo capisco mai;» e di nuovo si passò una palma stanca sulla fronte scoperta. «Hai mai notato, Hump, che cosa c'è di davvero strano in quella gente?»
+
+
+
+
+La vettura sfrecciava innanzi nel comodo [[motifs/silence|silenzio]] di Pump, e poi l'irlandese riprese:
+
+
+
+
+«Quel poeta vestito da gattino non era niente male. Lord Ivywood non è crudele; ma è disumano. Quell'uomo invece non era disumano. Era ignorante, come la maggior parte degli uomini colti. Ma ciò che c'è di strano in loro è che cercano di essere semplici e non sgombrano mai una sola cosa che sia complicata. Se devono scegliere fra il manzo e i sottaceti, aboliscono sempre il manzo. Se devono scegliere fra un prato e un motore, vietano il prato. Vuoi che ti dica il segreto? Questi uomini rinunciano soltanto alle cose che li legano agli altri uomini. Va' a pranzo da un milionario astemio e non troverai che abbia abolito gli antipasti o le cinque portate o nemmeno il caffè. Ciò che ha abolito è il porto e lo sherry, perché i poveri li amano [[motifs/well|tanto]] quanto i ricchi. Fa' un passo avanti, e non troverai che abbia abolito le raffinate forchette e i cucchiai d'argento, ma ha abolito la carne, perché i poveri amano la carne — quando riescono ad averla. Fa' un altro passo, e non troverai che rinunci ai giardini o alle stanze sfarzose, delle quali i poveri non possono affatto godere. Ma troverai che si vanta di alzarsi presto, perché il [[motifs/sleep|sonno]] è una cosa di cui i poveri possono ancora godere. Circa l'unica cosa di cui possano ancora godere. Nessuno ha mai sentito di un moderno filantropo che rinunci alla benzina o alla dattilografia o a schiere di servitori. No, no! Ciò a cui rinuncia dev'essere qualcosa di semplice e universale. Rinuncerà al manzo o alla birra o al [[motifs/sleep|sonno]] — perché questi piaceri gli ricordano che è soltanto un uomo.»
+
+
+
+
+Humphrey Pump annuì, ma continuò a non rispondere nulla; e la voce dello sdraiato Dalroy prese una delle sue impennate ascendenti verso una sorta di svolazzante leggerezza; la quale comunemente si incarnava nel ricordo di qualche canzone da lui composta.
+
+
+
+
+«Tale», disse, «fu il caso del defunto signor Mandragon, così a lungo popolare nell'aristocratica società inglese come franco e semplice democratico venuto dall'Ovest, finché non fu purtroppo accoppato a colpi di sacchetto di sabbia da sei uomini le cui mogli egli aveva fatto assassinare da detective privati, avendo egli imprudentemente messo piede sul suolo americano.
+
+
+
+
+«Il signor Mandragon il Milionario non voleva né vino né moglie,
+
+
+
+
+Non sopportava la complessità; viveva la vita semplice;
+
+
+
+
+Ordinava il pranzo col megafono, in toni virili e semplici,
+
+
+
+
+E usava tutte le sue automobili per far campagna fra gli elettori, e venti telefoni;
+
+
+
+
+Oltre a una graziosa [[motifs/machine|macchinetta]],
+
+
+
+
+Ingegnosa e linda come mai se ne vide,
+
+
+
+
+Con cento pulegge e manovelle in mezzo,
+
+
+
+
+Fatta di ferro e tenuta ben pulita,
+
+
+
+
+Per issarlo fuori dal suo salubre letto ogni giorno della sua vita,
+
+
+
+
+E lavarlo e spazzolarlo e raderlo e vestirlo per vivere la Vita Semplice.
+
+
+
+
+
+«Il signor Mandragon era raffinatissimo e vestito quieto, ordinato,
+
+
+
+
+Lo dicono tutti i giornali americani che meglio conoscono la raffinatezza;
+
+
+
+
+Quieti e ordinati i capelli e il cappello, e la giacca quieta e ordinata,
+
+
+
+
+Un pantalone indossato su ciascuna gamba, mentre gli stivali adornavano i piedi;
+
+
+
+
+E non, come qualcuno potrebbe aspettarsi,
+
+
+
+
+Una Pelle di Tigre, tutta striata e picchiettata,
+
+
+
+
+E un Cappello a Pavone con la coda eretta,
+
+
+
+
+Una tunica scarlatta adorna di girasoli —
+
+
+
+
+Che avrebbe potuto avere un effetto più marcato,
+
+
+
+
+E allietare l'[[concepts/pride|orgoglio]] di un uomo più debole, bramoso di vino o di moglie;
+
+
+
+
+Ma la fama e la fiasca per il signor Mandragon oscurarono la Vita Semplice.
+
+
+
+
+
+«Il signor Mandragon il Milionario, sono lieto di dirlo, è morto.
+
+
+
+
+Godette di un quieto funerale in un capannone crematorio,
+
+
+
+
+E là giace soffice e molle e grigio e certo assai raffinato,
+
+
+
+
+Quando avrebbe potuto marcire in [[motifs/flowers|fiori]] e frutti con Adamo e tutta l'umanità.
+
+
+
+
+O essere divorato dagli orsi che amano il [[motifs/blood|sangue]],
+
+
+
+
+O arso su un'alta grande torre di legno,
+
+
+
+
+In una fiamma torreggiante come un pagano dovrebbe,
+
+
+
+
+O persino sedere con noi qui a mensa,
+
+
+
+
+Prendendo allegramente rum da due soldi e formaggio con un temperino,
+
+
+
+
+Ma questi erano lussi perduti per lui, che visse per la Vita Semplice.»
+
+Il signor Pump aveva fatto molti tentativi per fermare questa canzone, ma erano stati vani come tutti i tentativi di fermare l'auto. Il furioso autista sembrava, anzi, piuttosto ispirato a ulteriori energie dai violenti rumori vocali alle spalle; e Pump trovò ancora una volta meglio rifugiarsi nella conversazione.
+
+
+
+
+«[[motifs/well|Beh]], Capitano», disse amichevolmente, «non posso proprio essere d'accordo con lei su queste cose. Certo, si può fidare troppo degli stranieri come ha fatto il povero Thompson; ma poi si può esagerare anche dall'altra parte. La zia Sarah perse mille sterline in quel modo. Glielo dissi più e più volte che non era un negro, ma lei non volle credermi. E, naturalmente, quello era proprio il tipo di cosa da offendere un ambasciatore se fosse stato austriaco. Mi sembra, Capitano, che lei non sia del tutto giusto con questi stranieri. Prendiamo gli americani, ad esempio! Passarono molti americani per Pebblewick, può immaginare. Ma in tutto il gruppo non ce n'era mai uno cattivo; né un americano sgradevole, né un americano stupido – né, [[motifs/well|beh]], mai un americano che non mi piacesse particolarmente».
+
+
+
+
+“Lo so”, disse Dalroy, “volete dire che non c'è mai stato un americano che non apprezzasse 'La vecchia [[motifs/ship|nave]]'.”
+
+
+
+
+«Suppongo che sia proprio questo il mio pensiero», rispose l'oste «e in qualche modo ho la sensazione che anche "La Vecchia [[motifs/ship|Nave]]" potrebbe apprezzare l'americano.»
+
+
+
+
+«Voi inglesi siete un popolo straordinario», disse l'irlandese con una tranquillità improvvisa e cupa. «A volte ho la sensazione che forse ce la farete, dopotutto».
+
+
+
+
+Dopo un altro [[motifs/silence|silenzio]], disse: «Hai sempre ragione, Hump, e non si dovrebbe pensare così dei yankee. I ricchi sono la feccia della terra in ogni paese. E una vasta proporzione di veri americani è tra le persone più cortesi, intelligenti, [[concepts/self|autoreggenti]] del mondo. Alcuni attribuiscono questo al fatto che una vasta proporzione dei veri americani sono irlandesi».
+
+
+
+
+Pump era ancora silenzioso e il Capitano riprese un attimo dopo.
+
+
+
+
+“Tuttavia”, disse, “è molto difficile per un uomo, specialmente uno di un piccolo paese come il mio, capire com’è sentirsi americani; soprattutto in materia di nazionalità. Non mi piacerebbe dover scrivere l’inno nazionale degli Stati Uniti, ma fortunatamente non c’è molta probabilità che mi venga affidato questo incarico. Il vergognoso segreto della mia incapacità di comporre un canto patriottico americano morirà con me.”
+
+
+
+
+«[[motifs/well|Beh]], e che dire di una inglese», disse Pump con decisione. «Potrebbe andarle peggio, Capitano».
+
+
+
+
+«Inglese, tu maledetto [[archetypes/tyrant|tiranno]]», disse Patrick, indignato. «Non potrei mai immaginare una canzone di un inglese più di quanto tu possa immaginarne una di quel cane».
+
+
+
+
+Il signor Humphrey Pump estrasse con solennità di tasca il foglio su cui aveva precedentemente annotato i peccati e la desolazione dei droghieri, e frugò in un'altra delle sue innumerevoli tasche per cercare una matita.
+
+
+
+
+«Ehi!», esclamò Dalroy. «Avete intenzione di fare un tentativo con la Ballata di [[characters/quoodle|Quoodle]]?»
+
+
+
+
+[[characters/quoodle|Quoodle]] drizzò le orecchie al suo nome. Il signor Pump sorrise con un sorriso lieve e imbarazzato. Era segretamente orgoglioso dell'ammirazione di Dalroy per i suoi precedenti tentativi letterari e aveva una certa attitudine naturale verso la poesia come gioco, così come ne aveva per tutti i giochi; e le sue letture, sebbene discontinue, non erano state semplicemente rustiche o volgari.
+
+
+
+
+«Con la condizione», disse in tono modesto, «che tu scriva una canzone per gli inglesi.»
+
+
+
+
+“Oh, benissimo,” disse Patrick con un enorme sospiro che in realtà indicava l'esatto opposto della riluttanza. “Dobbiamo fare qualcosa finché la cosa non si ferma, immagino, e questo sembra un gioco da salotto innocuo. ‘Canzoni del Car Club.’ Sembra proprio aristocratico.”
+
+
+
+
+E cominciò a fare dei segni con una matita sulla carta di guardia di un piccolo libro che aveva in tasca: le Noctes Ambrosianae di Wilson. Di tanto in tanto, però, alzava lo sguardo e ritardava la propria composizione osservando Pump e il cane, i cui comportamenti lo divertivano molto. Infatti il proprietario dell'“Old [[motifs/ship|Ship]]” stava seduto a succhiare la matita e guardava Mr. [[characters/quoodle|Quoodle]] con occhi di insondabile attenzione. Di tanto in tanto si grattava leggermente i capelli castani con la matita, e scriveva una parola. E il cane [[characters/quoodle|Quoodle]], con quel curioso potere canino di comprendere o fingere spudoratamente di comprendere ciò che sta succedendo, stava seduto eretto con la testa inclinata, come se si stesse facendo ritrarre.
+
+
+
+
+Perciò accadde che sebbene la poesia di Pump fosse un po' lunga, come spesso sono le poesie dei poeti inesperti, e sebbene la poesia di Dalroy fosse molto breve (essendo stata scritta con molta fretta verso la fine), la poesia lunga fu finita qualche [[motifs/time|tempo]] prima della breve.
+
+
+
+
+Fu così che per il mondo venne prodotta la prima canzone, più comunemente conosciuta come "Niente Nasi", o, più correttamente chiamata "La Canzone di [[characters/quoodle|Quoodle]]." Parte di essa alla fine andò così:
+
+
+
+
+"Non hanno nessun naso"
+
+
+
+
+I figli caduti di Eva
+
+
+
+
+Anche il profumo delle rose
+
+
+
+
+Non è come pensano loro,
+
+
+
+
+Ma più della mente si rivela,
+
+
+
+
+E più di quanto gli uomini credano.
+
+
+
+
+
+“Non hanno naso,”
+
+
+
+
+Non riescono nemmeno a dire
+
+
+
+
+Quando la porta si chiude e cala l'oscurità
+
+
+
+
+Il parco che un ebreo recinì,
+
+
+
+
+Dove anche la Legge di Mosè
+
+
+
+
+Vi lascerò rubare un odore;
+
+
+
+
+
+“L'odore brillante dell'[[motifs/water|acqua]],
+
+
+
+
+L'audace profumo di una pietra,
+
+
+
+
+L'odore di rugiada e tuono
+
+
+
+
+E vecchie ossa sepolte sotto,
+
+
+
+Le cose in cui sbagliano
+
+
+
+
+E sbagliare, se lasciati soli.
+
+
+
+
+
+“La [[motifs/wind|brezza]] dalle foreste di [[motifs/winter|inverno]],
+
+
+
+
+Il profumo dei fiori senza odore [[motifs/flowers|fiori]],
+
+
+
+
+Il respiro dell'ornamento della sposa,
+
+
+
+
+L'odore di trappola e avvertimento,
+
+
+
+
+Il profumo della mattina di [[characters/sunday|domenica]],
+
+
+
+
+Dio ci ha dato per noi."
+
+
+
+
+
+* * * * * *
+
+
+
+
+
+“E [[characters/quoodle|Quoodle]] qui rivela
+
+
+
+
+Tutte le cose che può fare [[characters/quoodle|Quoodle]];
+
+
+
+
+Non hanno naso,
+
+
+
+
+Non hanno naso,
+
+
+
+
+E solo Dio sa
+
+
+
+
+L'assenza di naso dell'uomo.
+
+
+
+Questa poesia mostra anche tracce di fretta nella sua conclusione, e l'attuale curatore (che non ha altro scopo se non la [[concepts/truth|verità]]) è tenuto a confessare che parti di essa furono fornite nelle critiche del Capitano, ed addirittura arricchite (in circostanze successive e più vivaci) dal Poeta degli [[motifs/birds|uccelli]] stesso. In quel momento preciso le caratteristiche principali di questa realistica canzone sui cane era un fragoroso [[characters/chorus|coro]] di “Bau-bau, bau”, iniziato dal signor Patrick Dalroy; ma immediatamente imitato (con molto più successo) dal signor [[characters/quoodle|Quoodle]]. Di fronte a tutto ciò, Dalroy ebbe qualche reale difficoltà a mantenere la promessa leggendo ad alta voce la sua poesia molto più breve su quello che immaginava un inglese potesse provare. Infatti c'era qualcosa di molto grezzo e vago nella sua stessa voce mentre la leggeva; come se non avesse trovato la chiave del suo problema. L'attuale compilatore (che non ha altro scopo se non la [[concepts/truth|verità]]) deve confessare che i versi erano i seguenti:
+
+«San Giorgio era per l'Inghilterra,
+
+
+
+
+E prima di uccidere il drago
+
+
+
+
+Bevve una pinta di birra inglese
+
+
+
+
+Da un boccale inglese.
+
+
+
+
+Perché, per quanto digiuni di buon grado
+
+
+
+
+In cilicio o in cotta di maglia,
+
+
+
+
+Non è prudente dargli dolci
+
+
+
+
+Se non gli dai anche birra.
+
+
+
+
+
+«San Giorgio era per l'Inghilterra,
+
+
+
+
+E con gran valore liberò
+
+
+
+
+La dama lasciata in pasto al drago
+
+
+
+
+E legata a un albero;
+
+
+
+
+Ma poiché stava per l'Inghilterra
+
+
+
+
+E sapeva che cosa l'Inghilterra significhi,
+
+
+
+
+Se non gli dai pancetta,
+
+
+
+
+Non devi dargli fagioli.
+
+
+
+
+
+«San Giorgio era per l'Inghilterra,
+
+
+
+
+E porterà lo scudo che portava
+
+
+
+
+Quando usciremo in armi,
+
+
+
+
+Con la [[motifs/cross|croce]] di battaglia innanzi;
+
+
+
+
+Ma per quanto sia allegra compagnia
+
+
+
+
+E ben lieto di pranzare,
+
+
+
+
+Non è prudente dargli noci
+
+
+
+
+Se non gli dai vino.
+
+
+
+
+«Canzone molto filosofica, questa», disse Dalroy, scuotendo il capo con solennità, «piena di profondo pensiero. Credo davvero che questa sia press'a poco la [[concepts/truth|verità]] della faccenda, nel caso dell'inglese. I tuoi nemici dicono che sei stupido, e tu ti vanti di essere illogico — che è circa l'unica cosa che fai a essere davvero stupida. Come se qualcuno avesse mai fatto un Impero o qualsiasi altra cosa dicendo che due e due fanno cinque. O come se qualcuno fosse mai divenuto più forte per non capire nulla — fosse anche solo la lippa o la chimica. Ma questo è vero riguardo a te, Hump. Voi inglesi siete un popolo supremamente artistico, e perciò procedete per associazioni, come ho detto nella mia canzone. Non volete una cosa senza l'altra che le va insieme. E poiché non riuscite a immaginare un villaggio senza uno squire e un parroco, o un collegio senza porto e vecchia quercia, vi guadagnate la fama di popolo conservatore. Ma è perché siete sensibili, Hump, non perché siete stupidi, che non volete separarvi dalle cose. Sono menzogne, menzogne e lusinghe quelle che ti raccontano, Hump, quando ti dicono che ami il compromesso. Ti dico, Hump, che ogni vera rivoluzione è un compromesso. Credi che Wolfe Tone o Charles Stuart Parnell non abbiano mai sceso a compromessi? Ma è proprio perché hai paura di un compromesso che non vuoi una rivoluzione. Se davvero mettessi mano a 'La Vecchia [[motifs/ship|Nave]]' — o a [[settings/oxford|Oxford]] — dovresti decidere che cosa prendere e che cosa lasciare, e ti spezzerebbe il cuore, Humphrey Pump.»
+
+
+
+
+Fissava davanti a sé con volto rosso e ruminante, e infine aggiunse, in tono alquanto più cupo:
+
+
+
+
+«Questo nostro modo estetico, Hump, ha solo due piccoli svantaggi che ora ti spiegherò. Il primo è esattamente ciò che ci ha spediti a volare in questo trabiccolo. Quando la bella cosa liscia e armoniosa che avete creato viene fatta funzionare da un tipo nuovo, in uno spirito nuovo, allora ti dico che sarebbe meglio per voi mille volte vivere sotto le mille costituzioni di carta di Condorcet e Sieyès. Quando l'oligarchia inglese è retta da un inglese che non ha una mente inglese — allora hai Lord Ivywood e tutto questo incubo, di cui solo Dio potrebbe indovinare la fine.»
+
+
+
+
+La vettura si era lasciata dietro qualche pertica di [[motifs/dust|polvere]], ed egli concluse ancor più oscuramente:
+
+
+
+
+«E l'altro svantaggio, mio amabile esteta, è questo. Se mai, brancolando per il pianeta, ti imbatterai in un'isola dell'Atlantico — Atlantide, diciamo — che non accetterà tutto il tuo bel quadretto — cui non potrai dare ogni cosa — ebbene, probabilmente deciderai di non darle nulla. Direte in cuor vostro: 'Forse presto moriranno di fame'; e diverrete, per quell'isola, il più sordo e il più malvagio di tutti i principi della terra.»
+
+
+
+
+Era già l'alba, e Pump, che conosceva i confini inglesi quasi per intuito, poteva capire anche attraverso il crepuscolo che la coda della cittadina che si lasciavano dietro era di una nuova specie, quella che si vede lungo il confine occidentale. La frase dell'autista sulla madre poteva essere stata soltanto una battuta da caffè-concerto; ma di certo egli aveva guidato oscuramente in quella direzione.
+
+
+
+
+Il bianco mattino giaceva sulle grigie strade di pietra come latte versato. Alcuni proletari mattinieri, più stanchi al mattino di quanto la maggior parte degli uomini lo sia di [[motifs/night|notte]], sembravano semplicemente dell'avviso che non valesse la pena piangerci sopra. Le due o tre ultime case, che parevano troppo stanche per reggersi in piedi, sembravano aver spinto il capitano in un altro sonnacchioso scoppio.
+
+
+
+
+«Ci sono due specie di idealisti, come tutti sanno — o devono aver pensato. Ci sono quelli che idealizzano il reale e quelli che (assai di rado) realizzano l'ideale. Le persone artistiche e poetiche come gli inglesi in genere idealizzano il reale. Questo l'ho espresso in una canzone, che —»
+
+
+
+
+«No, davvero», protestò il locandiere, «davvero ora, capitano —»
+
+
+
+
+«Questo l'ho espresso in una canzone», ripeté Dalroy, in modo adamantino, «che ora canterò con ogni circostanza di lentezza, di fragore, o di qualsiasi altra —»
+
+
+
+
+Si fermò perché l'universo volante parve fermarsi. Le siepi lanciate al galoppo si arrestarono, come sfidate dalla tromba. Le foreste in corsa rimasero rigide. Le ultime case traballanti stettero improvvisamente sull'attenti. Poiché un rumore come un colpo di [[characters/pistol|pistola]] proveniente dalla vettura stessa aveva arrestato tutta quella corsa, come un colpo di [[characters/pistol|pistola]] potrebbe avviarne un'altra.
+
+
+
+
+L'autista si arrampicò fuori assai lentamente, e si aggirò in varie tragiche pose attorno alla vettura. Aprì un insospettato numero di portiere e finestrini della vettura, e toccò cose e girò cose e tastò cose.
+
+
+
+
+«Devo tornare indietro come meglio posso fino a quel garage là, signore», disse, con un tono pesante e rauco che non gli avevano mai udito prima.
+
+
+
+
+Poi si volse a guardare i lunghi boschi e le ultime case, e parve mordersi il labbro, come un grande generale che ha commesso un grande errore. La fronte gli pareva nera come sempre, eppure la sua voce, quando parlò di nuovo, era scesa di molti gradi ancora verso il suo tono spento e quotidiano.
+
+
+
+
+«Vedete, la faccenda è un po' brutta», disse. «Sarà un lavoraccio persino nei posti migliori, ammesso che ci torni.»
+
+
+
+
+«Tornare», ripeté Dalroy, spalancando gli occhi azzurri di un toro. «Tornare dove?»
+
+
+
+
+«[[motifs/well|Beh]], vedete», disse l'autista, ragionevolmente, «avevo una maledetta voglia di mostrargli che ero io a guidare la vettura e non lui. Per un po' di malasorte, ho fatto un danno alla sua vettura. [[motifs/well|Beh]] — se voi potete restare nella sua vettura —»
+
+Il capitano Patrick Dalroy balzò fuori dall'automobile così di scatto che quasi barcollò e scivolò sulla [[motifs/road|strada]]. Il cane balzò dietro di lui, abbaiando furiosamente.
+
+
+
+
+«Hump», disse Patrick, con calma. «Ho scoperto tutto di te. So che cosa mi ha sempre lasciato perplesso a proposito dell'inglese».
+
+
+
+
+Poi, dopo un istante di [[motifs/silence|silenzio]], disse: «Aveva ragione quel francese che disse (dimentico come lo formulò) che tu marci a Trafalgar Square per liberarti del tuo malumore; non per liberarti del tuo [[archetypes/tyrant|tiranno]]. Il nostro amico era prontissimo a [[archetypes/rebel|ribellarsi]] correndo via. [[archetypes/rebel|Ribellarsi]] restando seduto immobile era troppo per lui. Leggi il Punch? Sono certo che sì. Il Pump e il Punch devono essere quasi gli unici superstiti dell'Età Vittoriana. Ricordi una vecchia battuta in una vignetta eccellente, che rappresentava due irlandesi cenciosi col fucile, in attesa dietro un muro di pietra di sparare a un latifondista? Uno degli irlandesi dice che il latifondista è in ritardo, e aggiunge: "[[concepts/hope|Spero]] che non sia capitato qualche incidente al povero signore". [[motifs/well|Ebbene]], è tutto perfettamente vero; conoscevo intimamente quell'irlandese, ma voglio dirti un segreto sul suo conto. Era un inglese».
+
+
+
+
+L'autista aveva fatto retromarcia con trepida cautela fino all'ingresso del garage, che era adiacente a una latteria, o soltanto separato da essa da un vicolo nero e smilzo, non più largo, all'apparenza, della fessura d'una porta. Doveva però essere più largo di quanto sembrasse, perché il capitano Dalroy vi scomparve dentro.
+
+
+
+
+Pareva avesse fatto cenno all'autista di seguirlo; comunque quel funzionario lo seguì all'istante. Il funzionario ne uscì di nuovo con una fretta quasi colpevole, toccandosi il berretto e ficcandosi in tasca fogli sciolti. Poi il funzionario tornò ancora una volta da quella che egli chiamava la "garrige", portando cose più grandi e più sciolte sul braccio.
+
+
+
+
+Tutto ciò osservò il signor Humphrey Pump, non senza interesse. Il luogo, per remoto che fosse, era evidentemente un rendez-vous per automobilisti. Altrimenti un automobilista altissimo, imbacuccato e mascherato al grado più impenetrabile, difficilmente si sarebbe avvicinato per parlargli. Ancor meno l'alto automobilista gli avrebbe porto un simile orribile travestimento di panni e occhialoni, in un fagotto sul braccio. Meno che mai un automobilista, per alto che fosse, gli avrebbe detto da dietro il berretto e gli occhialoni: «Metti su questa roba, Hump, e poi entreremo nella latteria. Aspetto l'automobile. Quale automobile, mio cercatore di [[concepts/truth|verità]]? Ma l'automobile che sto per comprare perché tu la guidi».
+
+
+
+
+L'autista pieno di rimorso, dopo molte avventure, ritrovò davvero la via del boschetto rischiarato dalla luna dove aveva lasciato il suo padrone e l'asino. Ma il suo padrone e l'asino erano svaniti.
+
+CAPITOLO XVI: I SETTE UMORI DI DORIAN
+
+
+QUELL'atemporale [[motifs/clock|orologio]] di tutti i lunatici, che era così luminoso in cielo quella [[motifs/night|notte]], può davvero aver avuto in sé una certa fortuna elfica, come un soldo d'argento. Non solo aveva iniziato il signor Hibbs ai misteri di Dioniso, e il signor Bullrose alle abitudini arboree dei suoi antenati, ma una sua [[motifs/night|notte]] operò un mutamento assai considerevole e piuttosto prezioso nel signor Dorian Wimpole, il Poeta degli [[motifs/birds|Uccelli]]. Era un uomo né sciocco né malvagio, non più di quanto lo fosse Shelley; solo un uomo reso sterile dal vivere in un mondo di indirettezza e insincerità, con le parole piuttosto che con le cose. Non aveva avuto la minima intenzione di far morire di fame il suo autista; non si rendeva conto che vi era un assassinio spirituale peggiore nel semplice dimenticarlo. Ma via via che le ore gli passavano sopra, solo con l'asino e la [[motifs/moon|luna]], attraversò una furente e cangiante serie di stati d'animo, quali i suoi colti amici avrebbero definito umori.
+
+
+
+
+Il Primo Umore, mi dispiace dirlo, fu di nero e macinante odio. Non aveva alcuna nozione del torto subito dall'autista, e poteva soltanto supporre che fosse stato corrotto o intimidito dai demoniaci torturatori di asini. Ma il signor Wimpole era in quel momento assai più capace di torturare un autista di quanto il signor Pump fosse mai stato di torturare un asino; poiché nessun uomo sano di mente può odiare un animale. Prendeva a calci le pietre sulla [[motifs/road|strada]], scagliandole nella foresta, e desiderava che ciascuna di esse fosse un autista. La felce sul ciglio della strada la sradicò, come rappresentante i capelli dell'autista, ai quali non aveva alcuna somiglianza. Colpiva con il pugno quegli alberi che, suppongo, gli parevano nella forma e nell'espressione più rammentanti l'autista; ma desistette da ciò, trovando che in quel contesa apparentemente unilaterale l'albero aveva piuttosto la meglio. Ma l'intero bosco e l'intero mondo erano divenuti una specie di autista onnipresente e panteistico, ed egli lo colpiva dappertutto.
+
+
+
+
+Il lettore riflessivo capirà che il signor Wimpole aveva già compiuto un notevole balzo verso l'alto in ciò che egli avrebbe chiamato la scala cosmica. La cosa migliore, dopo l'amare davvero un proprio simile, è l'odiarlo davvero: specialmente quando è un uomo più povero, separato da te per null'altro che per la rigidezza sociale. Il [[motifs/desire|desiderio]] di ucciderlo è per lo meno un riconoscimento che egli è vivo. Più d'un uomo ha dovuto i primi bianchi barlumi dell'[[motifs/dawn|alba]] della [[concepts/democracy|Democrazia]] nella sua [[motifs/soul|anima]] al [[motifs/desire|desiderio]] di trovare un bastone e bastonare il maggiordomo. E lo apprendiamo dall'inoppugnabile autorità locale del signor Humphrey Pump che lo Squire Merriman inseguì il suo bibliotecario per tre villaggi con una [[motifs/horse|pistola]] da [[characters/pistol|arcione]]; e fu Radicale per sempre dopo di ciò.
+
+
+
+
+Anche la sua ira gli fece bene semplicemente come sollievo, ed egli passò presto a un secondo e più positivo umore di meditazione.
+
+
+
+
+«Le maledette scimmie vanno avanti così», mormorò, «e poi chiamano l'asino uno degli [[motifs/animals|Animali]] Inferiori. Lo cavalcherebbe, l'asino? Mi piacerebbe veder l'asino cavalcare lui per un po'. Bravo vecchio.»
+
+
+
+
+Il paziente somaro volse su di lui occhi miti quando lo accarezzò, e Dorian Wimpole scoprì, con una sorta di subconscia sorpresa, che gli era davvero affezionato, all'asino. Più a fondo ancora nel suo [[concepts/self|io]] subliminale sapeva di non essere mai stato affezionato a un animale prima d'allora. Le sue poesie su creature fantastiche erano state del tutto sincere, e del tutto fredde. Quando diceva di amare uno squalo, intendeva che non vedeva ragione per odiare uno squalo, il che era abbastanza giusto. Non c'è ragione per odiare uno squalo, per quanta ragione possa esservi per evitarne uno. Non c'è alcun male in un kraken, se lo tieni in una vasca — o in un [[forms/sonnet|sonetto]].
+
+
+
+
+Ma si rese conto anche che il suo [[motifs/love|amore]] per le creature si era rovesciato e operava dall'altra estremità. L'asino era un compagno, e non una mostruosità. Era caro perché era vicino, non perché era lontano. L'ostrica lo aveva attratto perché era del tutto dissimile da un uomo; a meno che non si voglia contare un tocco di [[concepts/vanity|vanità]] maschile il farsi crescere la barba. La fantasia non è più oziosa di quella che egli stesso aveva usato, suggerendo una sorta di [[concepts/vanity|vanità]] femminile nella permanenza di una perla. Ma in quella folle veglia fra i mistici pini, si trovava sempre più attratto verso l'asino, perché somigliava a un uomo più di qualunque altra cosa intorno a lui; perché aveva occhi per vedere, e orecchie per udire — e queste ultime persino indebitamente sviluppate.
+
+
+
+
+«Chi ha orecchi per intendere, intenda», disse, grattando con affetto quei grigi pelosi orecchioni. «Non hai forse levato le orecchie verso il Cielo? E sarai tu il primo a udire l'Ultima Tromba?»
+
+
+
+
+Il somaro gli strofinò il naso addosso con quella che pareva quasi una carezza umana. E Dorian si sorprese a chiedersi come potesse gestirsi una carezza da parte di un'ostrica. Tutto il resto attorno a lui era bello, ma disumano. Solo nel primo fulgore dell'ira poteva davvero rintracciare in un alto pino i lineamenti di un ex-tassista di Kennington. Alberi e felci non avevano orecchie vive che potessero dimenare né miti occhi che potessero muovere. Accarezzò di nuovo l'asino.
+
+
+
+
+Ma l'asino lo aveva riconciliato col paesaggio, e nel suo terzo umore cominciò a rendersi conto di quanto fosse bello. A un secondo esame, non era sicuro che fosse così disumano. Sentiva piuttosto che la sua [[concepts/beauty|bellezza]], almeno, era per metà umana; che l'aureola della [[motifs/moon|luna]] calante dietro i boschi era incantevole soprattutto perché somigliava alla tenue aureola colorata di un santo dei primi tempi; e che i giovani alberi erano, dopotutto, nobili perché reggevano alta la testa come vergini. Nebulosamente si affollavano nella sua mente idee con cui aveva imperfetta dimestichezza, specialmente un'idea che aveva sentito chiamare «L'Immagine di Dio». Gli pareva sempre più che tutte queste cose, dall'asino fino ai romici e alle felci sul ciglio della strada, fossero dignificate e santificate dalla loro parziale somiglianza con qualcos'altro. Era come se fossero disegni infantili: gli schizzi selvaggi e grezzi della [[concepts/nature|Natura]] nei suoi primi [[forms/sketch|album]] di schizzi di pietra.
+
+Si era gettato su un mucchio di aghi di pino per godersi l'addensarsi delle tenebre dei pineti mentre la [[motifs/moon|luna]] calava dietro di essi. Non c'è nulla di più profondo e meraviglioso di pineti davvero impenetrabili, dove gli alberi più vicini si stagliano contro quelli più ombrosi; un merletto d'argento su grigio e di grigio su nero.
+
+
+
+
+Fu a questo [[motifs/time|punto]], per puro piacere e ozio, che raccolse un ago di pino per filosofarci sopra.
+
+
+
+
+«Pensa a stare seduti sugli aghi!» disse. «Eppure, suppongo che questo sia il genere di ago che Eva, nella vecchia leggenda, usava in Eden. Sì, e la vecchia leggenda aveva ragione, anche! Pensa a stare seduti su tutti gli aghi di [[settings/london|Londra]]! Pensa a stare seduti su tutti gli aghi di Sheffield! Pensa a stare seduti su aghi qualsiasi, tranne che su tutti gli aghi del Paradiso! Oh, sì, la vecchia leggenda aveva proprio ragione. Gli stessi aghi di Dio sono più morbidi dei tappeti degli uomini.»
+
+
+
+
+Provava piacere nell'osservare i bizzarri [[motifs/animals|animaletti]] della foresta che sbucavano da sotto le verdi cortine del bosco. Si rammentò che nella vecchia leggenda erano stati mansueti come il somaro, non [[motifs/well|meno]] che comici. Pensò ad Adamo che dava il nome agli [[motifs/animals|animali]], e disse a un coleottero: «Ti chiamerò Budger.»
+
+
+
+
+Le lumache gli davano grande divertimento, e così i vermi. Provava per essi un interesse nuovo e realistico che non aveva conosciuto prima; era, in verità, l'interesse che un uomo prova per un topo in una segreta; l'interesse di chiunque sia legato per una gamba e costretto a vedere il fascino delle piccole cose. Le creature di specie vermiforme, specialmente, strisciavano fuori a intervalli assai lunghi; eppure egli si trovava ad attendere pazientemente per ore il piacere della loro conoscenza. Una di esse gli attirò in modo particolare lo sguardo, perché era un po' più lunga della maggior parte dei vermi e pareva volgere la testa in direzione della zampa anteriore sinistra dell'asino. Inoltre, aveva una testa da volgere, cosa che la maggior parte dei vermi non ha.
+
+
+
+
+Dorian Wimpole non sapeva molto di esatta Storia [[concepts/history|Naturale]], salvo ciò che una volta aveva assai accuratamente ricavato da un'enciclopedia ai fini di una villanella compassionevole. Ma poiché quell'informazione riguardava interamente le cause congetturali del riso nella Iena, non era direttamente utile in questo caso. Ma per quanto non sapesse molta Storia [[concepts/history|Naturale]], ne sapeva un poco. Ne sapeva abbastanza da sapere che un verme non dovrebbe avere una testa, e specialmente non una testa squadrata e appiattita, foggiata come una vanga o uno scalpello. Ne sapeva abbastanza da sapere che una cosa strisciante con una testa di quel modello sopravvive nelle campagne inglesi, benché non sia comune. In breve, ne sapeva abbastanza da attraversare la [[motifs/road|strada]] e posare un aguzzo e feroce tacco di stivale sul collo e sulla spina della creatura, spezzandola in tre neri pezzetti che si contorsero ancora una volta prima di irrigidirsi.
+
+
+
+
+Poi emise un grande sospiro esplosivo. L'asino, la cui zampa era stata in tale pericolo, guardò la vipera morta con occhi che non avevano mai perduto la loro lunare mitezza. Persino Dorian stesso la guardò per lungo [[motifs/time|tempo]], e con sentimenti che non riusciva né ad arrestare né a comprendere, prima di ricordare che aveva paragonato quel piccolo bosco all'Eden.
+
+
+
+
+«E perfino in Eden», disse infine; e poi le parole di Fitzgerald gli vennero meno sulle labbra.
+
+
+
+
+E mentre si dibatteva con tali parole e pensieri, qualcosa accadde intorno a lui e dietro di lui; qualcosa su cui aveva scritto un centinaio di volte e letto un migliaio; qualcosa che non aveva mai visto in vita sua. Scagliò debolmente attraverso l'ampio fogliame una luce smorta e perlacea assai più misteriosa del perduto chiaro di luna. Pareva entrare attraverso tutte le porte e le finestre del bosco, pallida e silenziosa ma sicura, come uomini che rispettano un convegno; presto le sue bianche vesti ebbero fili d'oro e di scarlatto: e il suo nome era mattino.
+
+
+
+
+Da qualche [[motifs/time|tempo]], forte e invano, tutti gli [[motifs/birds|uccelli]] avevano cantato per il Poeta degli [[motifs/birds|Uccelli]]. Ma quando quel menestrello vide effettivamente la piena luce del giorno rompere su bosco e [[motifs/road|strada]], l'effetto su di lui fu alquanto curioso. Rimase a fissarla a bocca aperta per lo stupore, finché essa non ebbe compiuto la pienezza del suo splendente destino; e le pigne e le felci ricurve e l'asino vivo e la vipera morta erano quasi altrettanto distinti di quanto potessero esserlo a [[motifs/noon|mezzogiorno]], o in un quadro preraffaellita. E allora il Quarto Umore si abbatté su di lui come un fulmine a ciel sereno, ed egli attraversò a grandi passi e afferrò la briglia dell'asino, come per condurlo con sé.
+
+
+
+
+«Diamine», gridò, con una voce allegra come il canto del gallo che di recente aveva risuonato dal remoto villaggio, «non è da tutti aver ucciso un serpente.» Poi aggiunse, riflessivo: «Scommetto che il dottor Gluck non l'ha mai fatto. Vieni, asino, andiamo in cerca di avventure.»
+
+
+
+
+Il trovare e combattere il male positivo è il principio d'ogni divertimento — e persino d'ogni farsa. Tutto il bosco selvaggio pareva ora allegro, ora che il serpente era ucciso. Era una delle fallacie della sua cricca letteraria riferire tutte le emozioni naturali a nomi letterari, ma non si direbbe falsamente ch'egli era passato dall'umore di Maeterlinck all'umore di Whitman, e dall'umore di Whitman all'umore di Stevenson. Non era stato un ipocrita quando chiedeva dorati [[motifs/birds|uccelli]] d'Asia o purpurei polipi dei Mari del Sud; non era un ipocrita ora, quando chiedeva mere comiche avventure lungo una comune [[motifs/road|strada]] inglese. Fu sua sventura e non sua colpa se la sua prima avventura fu l'ultima; ed era troppo comica perché vi si potesse ridere.
+
+
+
+
+Già il pallido mattino si era scaldato in un azzurro tenue ed era macchiato di quelle piccole paffute nuvolette rosa che devono senz'altro aver dato origine alla favola che i maiali possano volare. Gli [[motifs/insects|insetti]] dell'erba chiacchieravano tanto allegramente che ogni verde lingua pareva parlare. La linea dell'orizzonte da ogni lato era rotta solo da oggetti che incoraggiavano una tale spaccona [[forms/comedy|commedia]]. C'era un mulino a vento che il Mugnaio di Chaucer avrebbe potuto abitare o il campione di Cervantes caricare. C'era un vecchio campanile di piombo che Robert Clive avrebbe potuto scalare. Verso Pebblewick e il mare, c'erano i due monconi spezzati di legno che Humphrey Pump dichiara ancor oggi essere stati i sostegni di un'altalena per bambini mal riuscita; ma che i turisti accettano sempre come i resti dell'antica forca. Nella gaiezza di tali dintorni, poca [[concepts/wonder|meraviglia]] se Dorian e l'asino procedevano di buon passo lungo la [[motifs/road|strada]]. Lo stesso asino gli rammentava Sancho Panza.
+
+Non si destò da questa turbolenta fantasticheria della bianca [[motifs/road|strada]] e del [[motifs/wind|vento]] finché un clacson non ebbe prima strombazzato e poi ululato, finché il terreno non ebbe tremato per l'urto di un arresto, e finché una mano umana non gli cadde pesante e stretta sulla spalla. Alzò lo sguardo e vide la completa uniforme di un Ispettore di Polizia. Non si curò del volto. E su di lui cadde il Quinto, o Inatteso Umore, che il volgo chiama Stupore.
+
+
+
+
+Nella [[concepts/despair|disperazione]] guardò l'automobile stessa che si era ancorata così bruscamente sotto la siepe di fronte. L'uomo al [[motifs/wheel|volante]] era così eretto e inespressivo che Dorian si sentì certo che stesse pascendo gli occhi su un altro poliziotto ancora. Ma sul sedile posteriore c'era una figura assai diversa, una figura che lo sconcertava tanto più in quanto si sentiva certo di averla vista da qualche parte. La figura era lunga e sottile, con spalle spioventi, e l'abito, che era sciatto, riusciva tuttavia a dare l'impressione di essere in ordine in altre occasioni. L'individuo aveva capelli di un giallo brillante, una ciocca dei quali si drizzava dritta in su ed era esaltata, come il piccolo corno nelle sue Scritture predilette. Un altro ciuffo di essi, in modo brillante ma accecante, ricadeva e oscurava l'occhio sinistro, come in letterale adempimento della [[forms/parable|parabola]] della trave nell'occhio. Gli occhi, con o senza travi dentro, avevano un'aria un po' smarrita, e l'individuo si riaggiustava di continuo, nervosamente, la cravatta. Poiché l'individuo rispondeva al nome di Hibbs, e si era solo di recente ripreso da esperienze del tutto nuove per lui.
+
+
+
+
+«Che diavolo volete?» chiese Wimpole al poliziotto.
+
+
+
+
+Il suo volto [[archetypes/innocent|innocente]] e trasecolato, e forse altre cose del suo aspetto, indussero evidentemente l'Ispettore a esitare.
+
+
+
+
+«[[motifs/well|Beh]], si tratta di quest'asino qui, signore», disse.
+
+
+
+
+«Credete che l'abbia rubato io?» gridò l'indignato aristocratico. «[[motifs/well|Beh]], di tutti i mondi impazziti! Una masnada di ladri mi ruba la Limousine, io salvo la vita al loro maledetto asino a rischio della mia — e vengo arrestato per furto.»
+
+
+
+
+Gli abiti dell'indignato aristocratico parlarono probabilmente più forte della sua lingua; l'ufficiale abbassò la mano e, dopo aver consultato alcune carte che teneva in mano, attraversò per consultarsi con lo scarmigliato gentiluomo nella vettura.
+
+
+
+
+«Quello sembra un carretto e un asino simili», udì Dorian che diceva, «ma gli abiti non paiono corrispondere alla vostra descrizione degli uomini che avete visto.»
+
+
+
+
+Ora, il signor Hibbs aveva ricordi estremamente vaghi e confusi degli uomini che aveva visto; non sapeva nemmeno distinguere ciò che aveva fatto da ciò che aveva soltanto sognato. Se avesse parlato sinceramente, avrebbe descritto una specie di verde incubo di foreste, nel quale si era trovato in potere di un orco alto circa quattro metri, con fiamme scarlatte al posto dei capelli e vestito piuttosto come [[characters/robin-hood|Robin Hood]]. Ma un lungo tirocinio in ciò che è noto come «tenere unito il partito» aveva reso per lui tanto innaturale dire a chicchessia (anche a se stesso) ciò che realmente pensava di una cosa qualsiasi, quanto lo sarebbe stato sputare — o cantare. Al momento aveva soltanto tre moventi e ferme risoluzioni: (1) non ammettere di essere stato ubriaco; (2) non lasciar sfuggire nessuno che Lord Ivywood potesse eventualmente voler interrogare; e (3) non perdere la sua reputazione di sagacia e tatto.
+
+
+
+
+«Questo tale ha un abito di velluto bruno, vedete, e un soprabito di pelliccia», continuò l'Ispettore, «e negli appunti che ho da voi, dite che l'uomo indossava un'uniforme.»
+
+
+
+
+«Quando diciamo uniforme», disse il signor Hibbs, aggrottando la fronte intellettualmente, «quando diciamo uniforme, naturalmente — dobbiamo distinguere alcuni dei nostri amici che non la vedono proprio come noi, sapete», e sorrise con tenera indulgenza, «ad alcuni dei nostri amici forse non piacerebbe chiamarla un'uniforme. Ma — naturalmente — [[motifs/well|be']], non era un'uniforme di polizia, per esempio. Ah! Ah!»
+
+
+
+
+«[[concepts/hope|Spererei]] di no», disse l'ufficiale, seccamente.
+
+
+
+
+«Cosicché — in un certo senso — comunque», disse Hibbs, afferrando infine il suo talismano verbale, «al buio poteva sembrare velluto bruno.»
+
+
+
+
+L'Ispettore replicò a questo utile suggerimento con una certa [[concepts/wonder|meraviglia]]. «Ma c'era la [[motifs/moon|luna]], come una luce di ribalta», protestò.
+
+
+
+
+«Sìì, sìì», gridò Hibbs, in un tono acuto che si può solo descrivere come uno strascico frettoloso. «Sìì — scolora ogni cosa, naturalmente. I [[motifs/flowers|fiori]] e le cose —»
+
+
+
+
+«Ma sentite», disse l'Ispettore, «avete detto che i capelli dell'uomo principale erano rossi.»
+
+
+
+
+«Un tipo biondo! Un tipo biondo!» disse Hibbs, agitando la mano con solenne leggerezza. «Capelli rossicci, giallastri, brunastri, sapete.» Poi scosse il capo e disse con la più pesante solennità di cui la parola fosse capace: «Teutonico, puramente teutonico.»
+
+
+
+
+L'Ispettore cominciò a provare una certa [[concepts/wonder|meraviglia]] che, persino nella confusione seguita alla caduta di Lord Ivywood, egli fosse stato posto sotto la guida di questa particolare guida. La [[concepts/truth|verità]] era che Leveson, mascherando ancora una volta i propri timori sotto la sua consueta ostentazione di fretta, aveva trovato Hibbs a un tavolo presso una [[motifs/window|finestra]] aperta, con i capelli arruffati e gli occhi assonnati, che si rimetteva in sesto con una specie di medicina. Trovandolo già abbastanza lucido, in modo tetro, non aveva esitato a servirsi dei resti del suo smarrimento per spedirlo con la polizia al primo inseguimento. Persino la mente di un ubriaco semi-ripresosi, pensava, poteva essere fidata a riconoscere qualcuno tanto inconfondibile quanto il Capitano.
+
+
+
+
+Ma, benché la sbornia del diplomatico fosse appena finita, la sua strana, molle [[concepts/fear|paura]] e la sua astuzia erano sveglie. Era abbastanza certo che l'uomo dalla pelliccia avesse qualcosa a che fare col mistero, giacché gli uomini con la pelliccia non se ne vanno comunemente in giro con degli asini. Temeva di offendere Lord Ivywood e, allo stesso [[motifs/time|tempo]], temeva di esporsi a un poliziotto.
+
+
+
+
+«Avete ampia discrezionalità», disse, gravemente. «È giustissimo che abbiate ampia discrezionalità nell'interesse del pubblico. Credo che sareste pienamente autorizzato, per ora, a impedire la fuga dell'uomo.»
+
+
+
+
+«E l'altro uomo?» domandò l'ufficiale, con la fronte aggrottata. «Supponete che sia fuggito?»
+
+«L'altro uomo», ripeté Hibbs, comunque, osservando il lontano mulino a vento attraverso le palpebre socchiuse, come se si trattasse di una nuova, sottile sfumatura introdotta in una questione già delicata.
+
+
+
+
+«[[motifs/well|Be']], che diamine», disse l'agente di polizia, «dovete pur sapere se gli uomini erano due o uno solo.»
+
+
+
+
+A poco a poco si fece strada, in una grigia [[motifs/dawn|alba]] d'orrore, nel cervello di Hibbs, che proprio questo era ciò che egli non poteva sapere. Aveva sempre sentito dire, e letto sui giornali umoristici, che un ubriaco «vede [[topoi/double|doppio]]» e scorge due lampioni, uno dei quali è (come avrebbe detto l'Alto Critico) puramente soggettivo. Per quanto ne sapeva (essendo un semplice novizio), l'ebbrezza poteva produrre l'impressione dei due uomini della sua avventura onirica, quando in [[concepts/truth|verità]] ce n'era stato uno solo.
+
+
+
+
+«Due uomini, sapete... un uomo», disse con una sorta di svogliata noncuranza. «[[motifs/well|Be']], possiamo occuparci del loro numero più tardi; non possono avere un séguito molto numeroso.» Qui scosse il capo con grande fermezza. «Del tutto impossibile. E come soleva dire il defunto Lord Goschen, "Con le statistiche si può dimostrare qualsiasi cosa".»
+
+
+
+
+E qui giunse un'interruzione dall'altro lato della [[motifs/road|strada]].
+
+
+
+
+«E quanto ancora devo aspettarvi qui, voi e i vostri Goschen, sciocca capra», furono le intemperanti note silvestri che uscivano dal Poeta degli [[motifs/birds|Uccelli]]. «Che mi venga un colpo se sopporto questo! Vieni, asino, e preghiamo per un'avventura migliore la prossima [[motifs/time|volta]]. Questi sono esemplari assai inferiori della tua stessa razza.»
+
+
+
+
+E afferrando di nuovo le briglie dell'asino, li oltrepassò a grandi passi, quasi spronando la bestia al galoppo.
+
+
+
+
+Purtroppo questo sdegnoso slancio verso la libertà era proprio ciò che mancava per far pendere dalla parte sbagliata l'oscillante intelligenza dell'Ispettore. Se Wimpole fosse rimasto immobile ancora un minuto o due, il funzionario, che non era uno [[archetypes/fool|sciocco]], avrebbe forse finito col non credere affatto alla storia di Hibbs. Così com'era, ci fu una zuffa, non senza colpi da entrambe le parti, e alla fine l'Onorevole Dorian Wimpole, asino compreso, fu condotto al villaggio, nel quale c'era una Stazione di Polizia; nella quale c'era una cella provvisoria; nella quale fu sperimentato un Sesto Umore.
+
+
+
+
+Le sue proteste, tuttavia, erano insieme così clamorose e così convincenti, e il suo cappotto era così indubitabilmente coperto di pelliccia, che dopo qualche interrogatorio e qualche [[motifs/cross|equivoco]] acconsentirono a condurlo nel pomeriggio a Ivywood House, dove c'era un magistrato reso inabile da una pallottola estratta solo di recente dalla sua gamba.
+
+
+
+
+Trovarono Lord Ivywood disteso su un'ottomana purpurea, in mezzo al suo rompicapo cinese di appartamenti orientali. Continuò a guardare altrove mentre entravano, come se attendesse, con romana calma, l'ingresso di un nemico riconosciuto. Ma Lady Enid Wimpole, che si prendeva cura dei bisogni dell'invalido, emise un acuto grido di stupore; e un attimo dopo i tre cugini si guardavano l'un l'altro. Si sarebbe quasi potuto indovinare che erano cugini, essendo tutti (come sottilmente osservò il signor Hibbs) di un tipo biondo. Ma due dei tipi biondi esprimevano stupore, e un tipo biondo soltanto furore.
+
+
+
+
+«Mi dispiace, Dorian», disse Ivywood, quando ebbe udito tutta la storia. «Questi fanatici sono capaci di tutto, [[concepts/fear|temo]], e tu ben a ragione ti risenti che ti abbiano rubato l'automobile...»
+
+
+
+
+«Ti sbagli, Philip», rispose il poeta, con enfasi. «Non mi risento nemmeno lontanamente che mi abbiano rubato l'automobile. Ciò di cui mi risento è la continua esistenza sulla terra di Dio di questo [[archetypes/fool|Sciocco]]» (indicando il grave Hibbs) «e di quello [[archetypes/fool|Sciocco]]» (indicando l'Ispettore) «e... sì, per tutti i fulmini, anche di quello [[archetypes/fool|Sciocco]]» (e puntò il dito dritto su Lord Ivywood). «E ti dico francamente, Philip, se davvero ci sono, come dici, due uomini decisi a mandare in frantumi i tuoi piani e a farti della vita un inferno... sono ben felice di mettere la mia automobile a loro disposizione. E ora me ne vado.»
+
+
+
+
+«Ti fermi a cena?» chiese Ivywood, con gelido [[concepts/forgiveness|perdono]].
+
+
+
+
+«No, grazie», disse il bardo mentre scompariva, «vado in città.»
+
+
+
+
+Il Settimo Umore di Dorian Wimpole ebbe un grandioso finale al Café Royal, e consisté in gran parte di ostriche.
+
+CAPITOLO XVII: IL POETA IN PARLAMENTO
+
+
+DURANTE il singolare ingresso e uscita di Dorian Wimpole, M.P., J.P., ecc., Lady Joan guardava fuori dalle magiche invetriate di quella stanza nella torretta che era ormai letteralmente, e non soltanto poeticamente, l'ultimo limite di Ivywood House. Il vecchio buco sfondato e la nera scala per cui il cane smarrito [[characters/quoodle|Quoodle]] soleva andare e venire erano stati da tempo sigillati e cementati con un muro di squisita fattura orientale. In tutti i decori Lord Ivywood aveva conservato e ripetuto il principio che nessuna forma animale dovesse apparire. Ma, come tutti i lucidi dogmatici, egli scorgeva tutte le libertà che il suo dogma gli concedeva. E aveva irradiato questa remota estremità di Ivywood di sole e di [[motifs/moon|luna]] e di sistemi solari e stellari, con la Via Lattea per zoccolatura e qualche cometa come sollievo comico. La cosa era ben [[motifs/well|fatta]] nel suo genere (come lo erano tutte le cose che Philip Ivywood si faceva fare); e se tutte le finestre della torretta erano chiuse con le loro tende di pavone, un poeta dotato di qualcosa come un hibbsiano apprezzamento dello champagne di famiglia avrebbe quasi potuto immaginare di guardare oltre il mare in una [[motifs/night|notte]] gremita di [[motifs/stars|stelle]]. E (ciò che era ancor più importante) perfino Misysra (quell'esatto pensatore) non poteva chiamare la [[motifs/moon|luna]] un animale vivo senza cadere nell'idolatria.
+
+
+
+
+Ma Joan, guardando da finestre reali un cielo e un mare reali, non pensava alla carta da parati astronomica più che a qualsiasi altra carta da parati. Si domandava, in un cupo turbamento, e per la millesima [[motifs/time|volta]], una domanda che non era mai stata capace di risolvere. Era la scelta definitiva tra un'[[concepts/ambition|ambizione]] e un [[motifs/memory|ricordo]]. E c'era questo grave peso sul piatto della bilancia: che l'[[concepts/ambition|ambizione]] si sarebbe probabilmente concretata, e il [[motifs/memory|ricordo]] probabilmente no. È stato lo stesso peso sullo stesso piatto un milione di volte da quando [[characters/satan|Satana]] divenne il principe di questo mondo. Ma le [[motifs/stars|stelle]] della sera si facevano più intense sopra la vecchia riva del mare, ed esse pure chiedevano d'essere pesate come diamanti.
+
+
+
+
+Come già una volta allo stesso punto delle sue cupe riflessioni, udì dietro di sé il fruscìo delle gonne di Lady Enid, che non giungeva mai così rapido se non per grave motivo.
+
+
+
+
+«Joan! Vieni, ti prego! Nessuno tranne te, ne sono convinta, potrebbe smuoverlo.» Joan guardò Lady Enid e comprese che la dama era sul punto di piangere. Si fece un poco pallida e chiese con calma di che si trattasse. «Philip dice che va a [[settings/london|Londra]] adesso, con quella gamba e tutto», gridò Enid, «e non ci lascia dire una parola.»
+
+
+
+
+«Ma com'è successo tutto quanto?» chiese Joan.
+
+
+
+
+Lady Enid Wimpole era del tutto incapace di spiegare come fosse successo tutto quanto, sicché il compito deve per il momento ricadere sull'autore. Il semplice fatto era che Ivywood, mentre sfogliava le riviste sul suo divano, gli capitò di posare lo sguardo su un giornale delle Midlands.
+
+
+
+
+«Le notizie dalla Turchia», disse il signor Leveson, piuttosto nervosamente, «sono sull'altra facciata della pagina.»
+
+
+
+
+Ma Lord Ivywood continuò a guardare la facciata del giornale che non conteneva le notizie dalla Turchia, con la stessa dignità di palpebre abbassate e di fronte inconsapevole con cui aveva guardato il messaggio del Capitano quando Joan lo aveva trovato presso la torretta.
+
+
+
+
+Sulla pagina coperta soltanto di casuali avvenimenti provinciali c'era un trafiletto: «Eco del Mistero di Pebblewick. Segnalata la Ricomparsa della Locanda che Scompare.» Sotto era stampato, in caratteri più piccoli:
+
+
+
+
+«Una notizia quasi incredibile da Wyddington annuncia che la misteriosa "Insegna della Vecchia [[motifs/ship|Nave]]" è stata ancora una volta avvistata in questo paese; sebbene sia stata da tempo relegata dagli investigatori scientifici nel limbo delle vecchie superstizioni rustiche. Secondo la versione locale, il signor Simmons, lattaio di Wyddington, serviva nella sua bottega quando entrarono due automobilisti, uno dei quali chiese un bicchiere di latte. Erano nella più impenetrabile bardatura da automobilisti, con occhialoni scuriti e colletti impermeabili rialzati, sicché nulla si può ricordare di loro personalmente, se non che uno era persona di statura inconsueta. In pochi istanti, quest'ultimo individuo uscì di nuovo dalla bottega e tornò con un misero esemplare raccolto dalla strada, uno di quei laceri sfaccendati che si aggirano intorno alle nostre città più prospere, battendo le vie tutta la [[motifs/night|notte]] e persino mendicando a dispetto della polizia. La sudiciura e la malattia della creatura erano così squallide che il signor Simmons dapprima rifiutò di servirgli il bicchiere di latte che l'automobilista più alto desiderava procurargli. Alla fine, tuttavia, il signor Simmons acconsentì, e fu immediatamente sbalordito da un fatto contro il quale aveva certo un più fondato diritto di protestare.
+
+
+
+
+«L'automobilista più alto, dicendo allo sfaccendato "ma, amico, hai la faccia livida", fece una specie di cenni all'automobilista più piccolo, il quale a quel punto pare abbia forato una sorta di baule o cassa cilindrica che sembrava essere il suo unico bagaglio, e ne abbia tratto qualche goccia di un liquido giallo che deliberatamente lasciò cadere nel latte della cenciosa creatura. Si scoprì in séguito che era rum, e le proteste del signor Simmons si possono immaginare. L'alto automobilista, tuttavia, difese calorosamente il suo operato, avendo evidentemente qualche bizzarra idea di compiere un atto di gentilezza. "Ma se ho trovato quest'uomo quasi svenuto", disse. "Se l'aveste raccolto da una zattera, non potrebbe essere più prostrato dal freddo e dal malessere; e se l'aveste raccolto da una zattera gli avreste dato del rum... sì, per San Patrizio, anche foste stati un sanguinario pirata e gli aveste poi fatto camminare sull'asse." Il signor Simmons replicò con dignità che non sapeva come stessero le cose con le zattere, e che non poteva permettere simile linguaggio nella sua bottega. Aggiunse che si sarebbe esposto a un'azione giudiziaria se avesse permesso il consumo di alcol nella sua bottega, giacché non esponeva alcuna insegna. L'automobilista fece allora la sbalorditiva risposta: "Ma voi un'insegna la esponete, mio allegro vecchietto. Credevate che non avrei saputo trovare la via fino all'insegna della Vecchia [[motifs/ship|Nave]], furbacchione?" Il signor Simmons era ormai pienamente convinto dell'ubriachezza dei suoi visitatori e, rifiutando un bicchiere di rum offertogli piuttosto rumorosamente, uscì dalla bottega a cercarsi intorno un poliziotto. Con sua sorpresa trovò l'agente intento a disperdere una considerevole folla, che fissava in alto un qualche oggetto dietro di lui. Voltandosi a guardare (dichiara nella sua deposizione) egli "vide quella che era indubbiamente una di quelle basse insegne da taverna un [[motifs/time|tempo]] comuni in Inghilterra." Era del tutto incapace di spiegarne la presenza fuori dai suoi locali, e poiché essa indubbiamente legalizzava l'operato dell'automobilista, la polizia si rifiutò di muoversi nella faccenda.
+
+«Più tardi. I due automobilisti hanno a quanto pare lasciato la città, indisturbati, su una piccola due posti di seconda mano. Non v'è indizio sulla loro destinazione, se non quello indicato da un unico episodio. Pare che, mentre aspettavano il secondo bicchiere di latte, uno di loro abbia richiamato l'attenzione su un bidone del latte di forma a lui apparentemente sconosciuta, che era, naturalmente, il Latte di Montagna ora tanto raccomandato dai medici. L'automobilista più alto (che sembrava in ogni modo stranamente ignaro della scienza e della vita sociale moderne) domandò al compagno da dove venisse, ricevendo, naturalmente, la risposta che è prodotto nel villaggio modello di Peaceways, sotto la personale sovrintendenza del suo illustre e filantropico inventore, il dottor Meadows. A questo il più alto dei due, che appariva altamente irresponsabile, comprò addirittura l'intero bidone; osservando, mentre se lo ficcava sotto il braccio, che l'avrebbe aiutato a ricordare l'indirizzo.
+
+
+
+
+«Più tardi. I nostri lettori saranno lieti di apprendere che la leggenda dell'insegna della "Vecchia [[motifs/ship|Nave]]" ha ancora una volta ceduto al salutare scetticismo della scienza. Il nostro inviato ha raggiunto Wyddington dopo che i burloni, o qualunque cosa fossero, se n'erano andati; ma ha esaminato l'intera facciata della bottega del signor Simmons, e siamo in grado di assicurare al pubblico che non v'è traccia della presunta insegna.»
+
+
+
+
+Lord Ivywood posò il giornale e guardò i ricchi e serpentini ricami sulla parete con l'espressione che potrebbe avere un grande generale se scorgesse la possibilità di rovinare davvero il nemico, a patto di rovinare anche tutto il proprio piano di campagna precedente. Il suo pallido e classico profilo era immobile come un cammeo; ma chiunque lo avesse conosciuto anche solo un poco avrebbe capito che il suo cervello andava come un'automobile che ha superato da un pezzo il limite di [[characters/speed|velocità]].
+
+
+
+
+Poi voltò il capo e disse: «Vi prego di dire a Hicks di portar fuori la lunga automobile blu tra mezz'ora; la si può allestire a mo' di divano. E chiedete al giardiniere di tagliare un palo di circa quattro piedi e nove pollici, e di mettervi una traversa a [[motifs/cross|croce]] per una gruccia. Vado a [[settings/london|Londra]] questa [[motifs/night|notte]].»
+
+
+
+
+La mascella inferiore del signor Leveson cadde letteralmente per lo stupore.
+
+
+
+
+«Il Dottore ha detto tre settimane», disse. «Se posso chiederlo, dove andate?»
+
+
+
+
+«St. Stephen's, Westminster», rispose Ivywood.
+
+
+
+
+«Di certo», disse il signor Leveson, «potrei portare io un messaggio.»
+
+
+
+
+«Potreste portare un messaggio», convenne Ivywood, «ma temo che non vi permetterebbero di tenere un discorso.»
+
+
+
+
+Fu un momento o due dopo che Enid Wimpole entrò nella stanza, e si sforzò invano di scuotere la sua decisione. Fu allora che Joan venne condotta fuori dalla torretta e vide Philip in piedi, sostenuto da una gruccia di legname da [[motifs/garden|giardino]]; e lo ammirò come non lo aveva mai ammirato prima. Mentre lo aiutavano a scendere le scale, mentre lo puntellavano nell'automobile con quel poco di conforto che era possibile, ella sentì davvero in lui qualcosa di degno delle sue antiche radici, degno di quelle colline e di quel mare. Poiché sentì il [[motifs/wind|vento]] di Dio venuto dal nulla che si chiama la Volontà; ed è l'unica scusa dell'uomo su questa terra. Nel piccolo squillo del motore che si avviava poteva udire cento trombe, quali avrebbero potuto chiamare i suoi antenati e quelli di lui alle glorie della Terza Crociata.
+
+
+
+
+Simili immaginari onori militari non erano, almeno in senso strategico, immeritati. Lord Ivywood aveva davvero visto dinanzi a sé l'intera mappa della situazione, e rapidamente formato un piano per farvi fronte, in un modo non indegno di Napoleone. Le realtà della situazione si dispiegavano davanti a lui, e la sua mente le segnava a una a una come con una matita.
+
+
+
+
+Primo, sapeva che Dalroy sarebbe probabilmente andato al Villaggio Modello. Era proprio il genere di luogo dove sarebbe andato. Sapeva che Dalroy era quasi costituzionalmente incapace di non sollevare qualche sorta di baccano in un luogo di quel genere.
+
+
+
+
+Secondo, sapeva che se avesse mancato Dalroy a quell'indirizzo, era assai probabile che fosse il suo ultimo indirizzo; lui e il signor Pump erano abbastanza scaltri da non lasciarsi dietro altri indizi.
+
+
+
+
+Terzo, indovinò, con attenta considerazione della mappa e dell'[[motifs/clock|orologio]], che non potevano raggiungere una regione tanto remota con un'automobile tanto scadente in meno di qualcosa come due giorni, né fare alcunché di molto conclusivo in meno di tre. Così, aveva appena il [[motifs/time|tempo]] di volgersi attorno.
+
+
+
+
+Quarto, si rese conto che fin da quel giorno in cui Dalroy fece roteare l'insegna e scaraventò il poliziotto nel fossato, Dalroy aveva rivolto la Legge Ivywood contro Lord Ivywood. Egli (Lord Ivywood) aveva pensato, e poteva [[motifs/well|ben]] aver pensato a ragione, che, restringendo le vecchie insegne a pochi luoghi tanto scelti da potersi permettere d'essere eccentrici, e vietando simili simboli artistici a tutti gli altri luoghi, avrebbe potuto spazzar via a ogni effetto pratico i liquori fermentati dal paese. La disposizione era esattamente quella cui ogni legislazione del genere mira consciamente o inconsciamente. Un'insegna poteva essere un favore che la classe dirigente concedeva a se stessa. Se un gentiluomo desiderava rivendicare le libertà di un bohémien, la via sarebbe stata aperta. Se un bohémien desiderava rivendicare le libertà di un gentiluomo, la via sarebbe stata chiusa. Così, a poco a poco, aveva pensato Lord Ivywood, le vecchie insegne che sole possono vendere alcol si sarebbero ridotte a mere curiosità, come l'Audit Ale o l'idromele che si può ancora trovare nella New Forest. Il calcolo non era affatto privo di senso di Stato. Ma, come molti altri calcoli da uomo di Stato, non teneva conto dell'idea di legno morto che va in giro. Fintanto che i suoi nemici volanti potevano piantare la loro insegna dovunque, poco importava se il risultato fosse godimento o delusione per la popolazione. In entrambi i casi doveva significare costante scandalo o tumulto. Se c'era una cosa peggiore della comparsa della "Vecchia [[motifs/ship|Nave]]", era la sua scomparsa.
+
+
+
+
+Si rese conto che la sua stessa legge li lasciava liberi ogni [[motifs/time|volta]]; poiché le autorità locali esitavano ad agire sul posto, a dispetto di un simbolo ora così esclusivo e perciò imponente. Si rese conto che la legge doveva essere modificata. Doveva essere modificata subito. Doveva essere modificata, se possibile, prima che i fuggitivi si allontanassero dal Villaggio Modello di Peaceways.
+
+Si rese conto che era Giovedì. Era il giorno in cui qualsiasi membro privato del Parlamento poteva presentare qualsiasi progetto di legge privato del tipo detto «non contenzioso», e farlo passare senza una votazione, purché nessun particolare membro sollevasse alcuna particolare protesta. Si rese conto che era improbabile che alcun particolare membro sollevasse alcuna particolare protesta contro il miglioramento apportato da Lord Ivywood alla Legge stessa di Lord Ivywood.
+
+
+
+
+Infine, si rese conto che l'intero caso poteva essere risolto con un miglioramento tanto lieve quanto questo. Cambiare le parole della Legge (che sapeva a memoria, come uomini più felici potrebbero sapere una canzone): «Se tale insegna è presente, i liquidi contenenti alcol possono essere venduti sul posto», in queste altre parole: «I liquidi contenenti alcol possono essere venduti, se previamente conservati per tre giorni sul posto»; era matto in poche mosse. Il Parlamento non avrebbe mai potuto respingere e nemmeno esaminare un emendamento tanto lieve. E la rivoluzione della «Vecchia [[motifs/ship|Nave]]» e del defunto [[archetypes/king|Re]] di Itaca sarebbe stata schiacciata per sempre.
+
+
+
+
+Mostra indubbiamente, come abbiamo detto, qualcosa di napoleonico nella mente dell'uomo il fatto che l'intero di questo eccellente e persino riuscito piano fosse completo assai prima ch'egli scorgesse il grande [[motifs/clock|orologio]] rosseggiante sulle torri di Westminster; e sapesse d'essere in [[motifs/time|tempo]].
+
+
+
+
+Fu forse sfortunato che all'incirca nello stesso [[motifs/time|tempo]], o non molto dopo, un altro gentiluomo dello stesso rango, e indirettamente della stessa famiglia, avendo lasciato il ristorante di Regent Street e il groviglio di Piccadilly, fosse disceso serenamente lungo Whitehall, e avesse veduto lo stesso grande occhio di folletto dorato sull'alta torre di St. Stephen.
+
+
+
+
+Il Poeta degli [[motifs/birds|Uccelli]], come la maggior parte degli esteti, conosceva altrettanto poco la città reale quanto la campagna reale. Ma si era ricordato di un buon posto per la cena; e mentre passava accanto a certi grandi e freddi circoli, costruiti di pietra e simili a Sarcofagi Assiri, si ricordò di appartenere a molti di essi. E così quando scorse in lontananza, seduto al di sopra del [[motifs/river|fiume]], ciò che è stato assai erroneamente descritto come il miglior circolo di [[settings/london|Londra]], si ricordò improvvisamente di appartenere anche a quello. Non riusciva in quel momento a rammentare quale collegio elettorale dell'Inghilterra meridionale rappresentasse; ma sapeva di poter entrare in quel luogo se lo avesse voluto. Non avrebbe forse espresso così la cosa, ma sapeva che in un'oligarchia le cose vanno per rispetto delle persone e non delle rivendicazioni; per biglietti da visita e non per schede di voto. Non si era avvicinato a quel luogo da anni, essendo permanentemente accoppiato in astensione con un celebre Patriota che aveva accettato un importante incarico di governo in un manicomio privato. Persino nei suoi giorni più sciocchi, non aveva mai preteso di sentire alcun rispetto per la politica moderna, e s'affrettò a mettere i suoi «leader» e i «leader» del folle patriota sulla ben [[motifs/well|scelta]] lista delle creature che l'uomo dimentica. Aveva pronunciato un discorso davvero eloquente alla Camera (sul tema dei gorilla), e poi aveva scoperto di star parlando contro il proprio partito. Era comunque un luogo indescrivibile. Perfino Lord Ivywood non vi si recava se non per sbrigare qualche affare che non poteva sbrigarsi altrove; com'era il caso quella [[motifs/night|notte]].
+
+
+
+
+Ivywood era ciò che si chiama un pari per cortesia; il suo posto era ai Comuni, e per il [[motifs/time|momento]] dal lato dell'Opposizione. Ma, benché visitasse la Camera di rado, ne sapeva fin troppo per entrare nell'Aula stessa. Zoppicò fino alla Sala Fumatori (benché non fumasse), si procurò una superflua sigaretta e un assai necessario foglio di carta da lettere, e compose una nota brusca ma accurata all'unico membro del governo che sapeva dover essere alla Camera. Avendogliela fatta recapitare, attese.
+
+
+
+
+Fuori, anche il signor Dorian Wimpole attendeva, appoggiato al parapetto del Ponte di Westminster e guardando giù lungo il [[motifs/river|fiume]]. Stava diventando tutt'uno con le ostriche in un senso più solenne e solido di quanto avesse finora concepito possibile, e anche con una bevanda strettamente Vegetariana che porta il nobile e stellato nome di Nuits. Si sentiva in pace con tutte le cose, persino in un certo modo con la politica. Era una di quelle magiche ore della sera in cui le luci rosse e dorate degli uomini sono già accese lungo il [[motifs/river|fiume]], e paiono le luci dei folletti, ma la luce del giorno ancora indugia in un verde freddo e delicato. Provava per il [[motifs/river|fiume]] qualcosa di quella sorridente e gloriosa tristezza che due Inglesi hanno espresso sotto la figura del bianco legno di una vecchia [[motifs/ship|nave]] che svanisce come un [[characters/phantom|fantasma]]; Turner, nella pittura, e Henry Newbolt, nella poesia. Era tornato sulla terra come un uomo caduto dalla [[motifs/moon|luna]]; era in [[characters/bottom|fondo]] non solo un poeta ma un patriota, e un patriota è sempre un poco triste. Eppure la sua [[concepts/melancholy|malinconia]] era mescolata a quella immutabile eppure priva di significato [[concepts/faith|Fede]] che pochi Inglesi, persino in tempi moderni, mancano di provare all'inatteso spettacolo o di Westminster o di quell'altura su cui sorge il tempio di San Paolo.
+
+
+
+
+«Mentre scorre il sacro [[motifs/river|fiume]],
+
+
+
+
+Mentre s'erge il sacro [[motifs/hill|colle]],»
+
+
+
+
+mormorò in qualche eco scolastica della ballata del Lago Regillo,
+
+
+
+
+«Mentre scorre il sacro [[motifs/river|fiume]],
+
+
+
+
+Mentre s'erge il sacro [[motifs/hill|colle]],
+
+
+
+
+I fieri vecchi pantaloni e stupidi babbei,
+
+
+
+
+Che sbadigliano alla lunghezza stessa delle proprie menzogne
+
+
+
+
+in quel maledetto sinedrio dove
+
+
+
+
+la gente si mette in testa a vicenda i cappelli in una velenosa
+
+
+
+
+stanza con non più finestre dell'inferno
+
+
+
+
+Avranno ancora tale [[concepts/honour|onore]].»
+
+
+
+
+Sollevato da questa resa di Macaulay nello stile noto tra i suoi colti amici come vers libre, ossia poesia liberata dalle catene del metro formale, si diresse verso l'ingresso dei membri ed entrò.
+
+
+
+
+Privo dell'esperienza di Lord Ivywood, entrò nell'Aula stessa dei Comuni e sedette su una panca verde, sotto l'impressione che la Camera non fosse in seduta. Riuscì tuttavia, a poco a poco, a distinguere una sei o otto sonnolente forme umane dai seggi su cui sedevano; e a udire una voce senile con accento dell'Essex che diceva, tutta su una sola nota, e senza principio né fine, in un modo assolutamente impossibile da punteggiare,
+
+«… nessun desiderio affatto che questa proposta sia considerata se non nel modo giusto e ho cercato di presentarla nel modo giusto e non posso pensare che l'onorevole membro accrescesse del tutto la propria reputazione presentandola in quello che coloro che la pensano come me devono naturalmente considerare il modo sbagliato e io per parte mia son libero di dire che se nel suo [[motifs/desire|desiderio]] di risolvere questa grande questione egli intraprende questo corso avventato e questo corso rivoluzionario riguardo alle matite di ardesia potrebbe non essere in grado di impedire agli estremisti che gli stanno dietro di applicarlo alle matite di piombo e per quanto io sarei l'ultimo ad accrescere il calore e l'eccitazione e le personalità di questo dibattito se solo potessi evitarlo devo confessare che a mio parere l'onorevole gentiluomo ha egli stesso incoraggiato quel calore e quella personalità in un modo che ora senza dubbio rimpiange non ho alcun [[motifs/desire|desiderio]] di usare termini offensivi anzi voi signor Presidente non mi permettereste naturalmente di usare termini offensivi ma devo dire all'onorevole membro faccia a faccia che le carrozzine con cui mi ha punzecchiato non possono essere pertinenti a questa discussione io sarei l'ultima persona…»
+
+
+
+
+Dorian Wimpole si era alzato pian piano per andarsene, quando fu trattenuto dalla vista di qualcuno che scivolava nella Camera e porgeva un biglietto al solitario giovane dalle palpebre pesanti che in quel momento governava tutta l'Inghilterra dal Banco del Tesoro. Vedendolo uscire, Dorian provò una nauseante dolcezza di [[concepts/hope|speranza]] (come avrebbe detto nei suoi primi versi) che qualcosa d'intelligibile potesse dopotutto accadere, e lo seguì fuori quasi con alacrità.
+
+
+
+
+Il solitario e assonnato governatore della Gran Bretagna discese nelle cripte inferiori del suo tempio della [[concepts/freedom|libertà]] e svoltò in una stanza dove Wimpole fu stupito di vedere suo cugino Ivywood seduto a un tavolinetto con una grande gruccia appoggiata accanto a lui, sereno come Long John Silver. Il giovane dalle palpebre pesanti sedette di fronte a lui ed ebbero una conversazione che Wimpole, naturalmente, non udì. Egli si ritirò in una stanza attigua dove riuscì a procurarsi caffè e un liquore; un eccellente liquore che aveva dimenticato e di cui bevve più di un bicchiere.
+
+
+
+
+Ma si era appostato in modo tale che Ivywood non poteva uscire senza passargli accanto, e attese ciò che poteva accadere con squisita pazienza. L'unica cosa che gli parve strana era che di tanto in tanto una campanella suonava in più stanze contemporaneamente. E ogni volta che la campanella suonava, Lord Ivywood annuiva, come se fosse parte del macchinario elettrico. E ogni volta che Lord Ivywood annuiva, il giovane si voltava e schizzava di sopra come un alpinista, tornando in breve [[motifs/time|tempo]] a riprendere la conversazione. Alla terza occasione il poeta cominciò a osservare che molti altri, dalle altre stanze, si udivano correre di sopra al suono di questa campanella, e tornare con il passo un poco meno rapido che esprime il sollievo dopo un dovere compiuto. Eppure egli non sapeva che questo dovere era il Governo Rappresentativo; e che è così che il grido del Cumberland o della Cornovaglia può giungere alle orecchie di un [[archetypes/king|Re]] inglese.
+
+
+
+
+Improvvisamente l'assonnato giovane balzò in piedi, non ispirato da alcuna campanella, e uscì di nuovo a grandi passi. Il poeta non poté fare a meno di udirlo dire mentre lasciava il tavolo, annotando qualcosa con una matita: «L'alcol può essere venduto se previamente conservato per tre giorni sul posto. Credo che possiamo farcela, ma tu non puoi intervenire prima di mezz'ora.»
+
+
+
+
+Detto questo, guizzò di nuovo di sopra, e quando Dorian vide Ivywood uscire faticosamente, poco dopo, sulla sua grande gruccia di campagna, provò esattamente lo stesso moto di simpatia in suo favore che aveva provato Joan. Balzando dal suo tavolo, che era in una delle salette da pranzo private, toccò l'altro al gomito e disse:
+
+
+
+
+«Voglio scusarmi con te, Philip, per la mia scortesia di questo pomeriggio. Sinceramente, mi dispiace. Le pinete e le celle di [[motifs/prison|prigione]] mettono a dura prova il carattere di un uomo, ma non avevo il minimo straccio di scusa per non vedere che di nessuna delle due eri tu il colpevole. Non avevo idea che venissi in città stasera; con la tua gamba e tutto. Non devi sfiancarti così. Siediti un minuto.»
+
+
+
+
+Gli parve che il volto arcigno di Philip si addolcisse un poco; quanto davvero si addolcì non si saprà mai finché uomini come lui non saranno compresi dai loro simili. È certo che si sganciò con cura dalla sua gruccia e sedette di fronte al cugino. Al che il cugino batté sul tavolo tanto che risuonò come un campanello da pranzo e gridò: «Cameriere!» come se fosse in un ristorante affollato. Poi, prima che Lord Ivywood potesse protestare, disse:
+
+
+
+
+«È terribilmente bello che ci siamo incontrati. Suppongo tu sia venuto a tenere un discorso. Mi piacerebbe udirlo. Non siamo sempre stati d'accordo; ma, per Dio, se è rimasto qualcosa di buono nella letteratura sono i tuoi discorsi riportati sui giornali. Quella tua cosa che finiva con "la [[motifs/death|morte]] e l'ultimo serrarsi delle ferree porte della sconfitta"... Perché bisogna risalire all'ultimo discorso di Strafford per un simile inglese. Lascia che io oda il tuo discorso! Ho un posto di sopra, sai.»
+
+
+
+
+«Se lo desideri», disse Ivywood in fretta, «ma non farò gran che di un discorso questa [[motifs/night|notte]].» E guardò la parete dietro la testa di Wimpole con tempestose rughe che gli si addensavano sulla fronte. Era essenziale al suo brillante e rapido stratagemma, s'intende, che i Comuni non facessero alcun commento sulla sua piccola modifica alla legge.
+
+
+
+
+Un inserviente indugiò lì presso in risposta alla richiesta di un cameriere, e fu assai colpito dalla presenza e dalle condizioni di Lord Ivywood. Ma poiché quell'illustre storpio rifiutò risolutamente qualsiasi cosa in fatto di liquori, il cugino fu così gentile da prenderne ancora un poco per sé, e riprese le sue osservazioni.
+
+
+
+
+«Si tratta di questa tua faccenda dell'osteria, suppongo. Mi piacerebbe sentirti parlare di questo. Forse parlerò io stesso. Ci ho pensato parecchio tutto il giorno, e parecchio anche la [[motifs/night|notte]] scorsa. Ora, ecco cosa direi alla Camera, se fossi in te. Tanto per cominciare, puoi abolire l'osteria? Sei abbastanza importante, ora, da abolire l'osteria? Che sia giusto o sbagliato, puoi alla lunga impedire ai falciatori di avere la birra più di quanto tu possa impedire a me di avere questo bicchiere di Chartreuse?»
+
+L'inserviente, udita la parola, si fece di nuovo vicino; ma non udì altro ordine; o, piuttosto, gli ordini che udì furono tali che seppe fronteggiare ancor meno.
+
+
+
+
+«Ricòrdati del curato!» disse Dorian, scuotendo distrattamente il capo verso il funzionario, «ricòrdati di quel giudizioso, piccolo curato d'Alta Chiesa che, richiesto d'un Sermone sulla Temperanza, predicò sul versetto: "Non lasciarci travolgere dalle piene delle [[motifs/water|acque]]". Davvero, davvero, Philip, sei in acque più profonde di quanto tu sappia. Abolirai la birra! Farai dimenticare al [[characters/kent|Kent]] i pali del luppolo, e al Devonshire il sidro! Il destino della Taverna si decide in quella stanzetta bollente di sopra! Bada che il destino suo e il tuo non si decidano nella Taverna. Bada che gli inglesi non ti siedano a giudicare come fanno con più d'un cadavere all'inchiesta del coroner: in una comune bettola, in una osteria! Bada che l'unica taverna davvero trascurata e sprangata e schivata come una casa appestata non sia proprio quella in cui io bevo sta[[motifs/night|notte]], e questo solo perché è la peggiore taverna sulla strada maestra del [[archetypes/king|Re]]. Bada che questo luogo dove sediamo non si guadagni un nome pari a quello di qualunque bettola dove i marinai vengano drogati o le ragazze sedotte. Ecco ciò che dirò loro», disse, alzandosi allegramente, «ecco ciò che dirò. Bada tu a questo», gridò con improvvisa passione e a quanto pareva rivolto al cameriere, «bada tu a questo: che l'insegna distrutta non sia quella della 'Vecchia [[motifs/ship|Nave]]' ma quella della Mazza e del Bubbolo, e, per dirla con le parole di un birraio assai storico, bada se vedremo un cane abbaiare al tuo andartene.»
+
+
+
+
+Lord Ivywood lo osservava con una quiete mortale; un'altra idea gli era venuta nella mente feconda. Sapeva che il cugino, per quanto eccitato, non era affatto ubriaco; sapeva che era perfettamente capace di fare un discorso, e persino uno buono. Sapeva che un discorso qualunque, buono o cattivo, avrebbe mandato in rovina tutto il suo piano e rimesso in fuga la taverna ribelle. Ma l'oratore aveva ripreso il suo posto e vuotato il bicchiere, passandosi una mano sulla fronte. E si ricordò che un uomo il quale veglia in un bosco per tutta la [[motifs/night|notte]] e beve vino la sera seguente è soggetto a un accidente che non è ubriachezza, ma qualcosa di assai più salubre.
+
+
+
+
+«Immagino che il tuo discorso verrà presto», disse Dorian, guardando il tavolo. «Me lo farai sapere, naturalmente. Sul serio, non voglio perdermelo. E ho scordato tutte le vie di qui, e mi sento piuttosto stanco. Me lo farai sapere?»
+
+
+
+
+«Sì», disse Lord Ivywood.
+
+
+
+
+Un silenzio calò per tutte le sale, finché Lord Ivywood non lo ruppe dicendo:
+
+
+
+
+«Il dibattito è cosa quanto mai necessaria; ma vi sono momenti in cui più intralcia che assecondare il governo parlamentare.»
+
+
+
+
+Non ricevette risposta. Dorian sedeva ancora come se guardasse il tavolo, ma le palpebre gli erano dolcemente calate; dormiva. Quasi nello stesso istante il Membro del Governo, che era quasi addormentato, comparve all'ingresso della lunga sala e fece una specie di stanco segnale.
+
+
+
+
+Philip Ivywood si sollevò sulla stampella e rimase un momento a guardare l'uomo addormentato. Poi lui e la sua stampella si trascinarono fuori dalla lunga sala, lasciandosi alle spalle l'uomo addormentato. Né fu quella l'unica cosa che si lasciò alle spalle. Si lasciò alle spalle anche una sigaretta non accesa e il suo [[concepts/honour|onore]] e tutta l'Inghilterra di suo padre; tutto ciò che poteva davvero distinguere quell'alta dimora in riva al [[motifs/river|fiume]] da una qualsiasi taverna in cui si drogano i marinai. Salì di sopra e sbrigò la sua faccenda in venti minuti, nell'unico discorso che avesse mai pronunciato senza traccia di eloquenza. E da quell'ora in poi fu il fanatico nudo e crudo; e non poté più nutrirsi d'altro che del futuro.
+
+CAPITOLO XVIII: LA REPUBBLICA DI PEACEWAYS
+
+
+IN un [[characters/hamlet|villaggio]] nei dintorni di Windermere, poniamo, o in qualche luogo nella terra di Wordsworth, si sarebbe potuto trovare un cottage, nel quale si sarebbe potuto trovare un contadino. Fin qui tutto è come dev'essere; e il visitatore avvertirebbe dapprima la presenza di un cordiale e persino rumoroso uomo anziano, dal viso di mela e dalla corta barba bianca. Costui offrirebbe poi ad alta voce al visitatore l'opportunità di vedere suo padre, un uomo un po' più anziano, con una barba bianca un po' più lunga, ma ancora «in piedi e in giro». E questi due insieme inizierebbero poi il neofita alle gioie della compagnia di un nonno, che aveva più di cent'anni, ed era ancora molto fiero del fatto.
+
+
+
+
+Questo miracolo, a quanto pareva, era stato operato interamente col latte. L'argomento di questa dieta il più vecchio dei tre uomini continuava a discutere con enorme dovizia di particolari. Per il resto, si potrebbe dire che i suoi piaceri erano puramente aritmetici. Certi uomini contano i propri anni con sgomento, ed egli contava i suoi con una giovanile [[concepts/vanity|vanità]]. Certi uomini collezionano francobolli o monete, ed egli collezionava giorni. I giornalisti lo intervistavano sui tempi storici che aveva attraversato, senza cavarne alcunché; se non che egli si era, a quanto pare, dato a una dieta esclusivamente lattea all'incirca all'età in cui la maggior parte di noi la abbandona. Interrogato se fosse vivo nel 1815, disse che fu proprio l'anno in cui scoprì che non era latte qualunque, ma doveva essere Latte di Montagna, come dice il dottor Meadows. Né il suo calcolatore credo di vita gli avrebbe permesso di capirvi se gli aveste detto che in una prateria d'oltremare che si stende dinanzi alla [[motifs/city|città]] di Bruxelles, i ragazzi della sua vecchia scuola in quell'anno conquistarono l'[[motifs/love|amore]] degli dèi e morirono giovani.
+
+
+
+
+Fu il filantropico dottor Meadows, naturalmente, a scoprire questa tribù immortale, e a erigervi sopra l'intera sua grande filosofia dietetica, per non dire delle case e delle latterie di Peaceways. Attirò molti allievi e sostenitori tra i ricchi e gli influenti; giovani che si allenavano, per così dire, alla estrema vecchiaia, bambini vegliardi, novantenni in embrione. Sarebbe un'esagerazione dire che spiavano gioiosamente il primo capello bianco come Fascination Fledgeby spiava il suo primo pelo di barba; ma è del tutto vero dire che sembravano aver disprezzato la [[concepts/beauty|bellezza]] della donna e il banchettare con gli amici e, soprattutto, la vecchia idea della [[motifs/death|morte]] con gloria; in confronto a questa visione dei sollazzi di una seconda [[motifs/childhood|fanciullezza]].
+
+
+
+
+Peaceways era nel suo piano essenziale molto simile a ciò che chiamiamo una [[motifs/garden|Giardino]] [[motifs/city|Città]]; un anello di edifici dove i lavoranti svolgevano il loro lavoro, con una graziosa e ornata cittadina al centro, mentre essi vivevano nella campagna aperta all'esterno. Ciò era senza [[concepts/doubt|dubbio]] assai più salubre del sistema delle fabbriche nelle grandi città e può in parte spiegare la serena espressione del dottor Meadows e dei suoi amici, se parte del merito può essere sottratta agli splendori del Latte di Montagna. Il luogo giaceva lontano dalle comuni strade maestre d'Inghilterra, e i suoi abitanti erano posti in grado di godere dei loro cieli quieti e dei loro boschi pianeggianti quasi indisturbati, e di assorbire pienamente quanto vi possa essere di prezioso nel metodo e nella visione di Meadows; finché un giorno una piccola e assai sporca automobile penetrò nel bel mezzo della loro città. Si fermò accanto a una di quelle isolette triangolari d'erba che sono comuni ai bivi, e due uomini con gli occhialoni, uno alto e l'altro basso, ne scesero e stettero sullo spazio centrale d'erba, come buffoni sul punto di fare i loro giochi. Come, in effetti, erano.
+
+
+
+
+Prima di entrare in città si erano fermati presso uno splendido torrente di montagna che rapidamente s'affrettava e s'ingrossava in un [[motifs/river|fiume]]; si erano tolti gli elmi e altrimenti sollevati, avevano mangiato un po' di pane comprato a Wyddington e bevuto l'[[motifs/water|acqua]] della corrente che s'allargava aprendosi sulla valle di Peaceways.
+
+
+
+
+«Comincio quasi a farmi piacere l'[[motifs/water|acqua]]», disse il più alto dei due cavalieri. «Un tempo la ritenevo una bevanda pericolosissima. In teoria, si capisce, dovrebbe essere data soltanto a chi sviene. È davvero un bene per loro, assai meglio del brandy. Del resto, pensa a sprecare del buon brandy su gente che sviene! Ma non mi spingo tanto oltre quanto facevo; non insisterei per una ricetta del medico prima di concedere alla gente l'[[motifs/water|acqua]]. Quella era la troppo severa moralità della giovinezza; quella era la mia innocenza e bontà. Pensavo che se fossi caduto una volta, il bere [[motifs/water|acqua]] sarebbe potuto diventare un'abitudine. Ma ora vedo il lato buono dell'[[motifs/water|acqua]]. Com'è buona quando si ha davvero sete, come scintilla e gorgoglia! Com'è viva! Dopotutto, è la migliore delle bevande, dopo l'altra. Come dice la canzone:
+
+
+
+
+«Banchetta col vino o digiuna con l'[[motifs/water|acqua]],
+
+
+
+
+E il tuo [[concepts/honour|onore]] resterà saldo;
+
+
+
+
+Figlio e figlia dell'Onnipotente Iddio,
+
+
+
+
+Egli il valoroso, ella la pura.
+
+
+
+
+Se un angelo giù dal cielo
+
+
+
+
+Ti porta altre cose da bere,
+
+
+
+
+Ringrazialo per le sue gentili intenzioni,
+
+
+
+
+E va' a versarle giù nel lavandino.
+
+
+
+
+
+«Il tè è come l'Oriente in cui cresce,
+
+
+
+
+Un grande Mandarino giallo,
+
+
+
+
+Con urbanità di modi,
+
+
+
+
+E incoscienza del peccato;
+
+
+
+
+Tutte le donne, come un harem,
+
+
+
+
+Al suo codino sfilano in schiera,
+
+
+
+
+E, come tutto l'Oriente in cui cresce,
+
+
+
+
+È [[motifs/poison|Veleno]] quando è forte.
+
+
+
+
+
+«Il tè, per quanto Orientale,
+
+
+
+
+È almeno un gentiluomo;
+
+
+
+
+Il cacao è un mascalzone e un vigliacco,
+
+
+
+
+Il cacao è una bestia volgare;
+
+
+
+
+Il cacao è uno scialbo, sleale,
+
+
+
+
+Mendace, strisciante mascalzone e buffone,
+
+
+
+
+E può [[motifs/well|ben]] essere grato
+
+
+
+
+Allo [[archetypes/fool|sciocco]] che lo trangugia.
+
+
+
+
+
+«Quanto a tutte le ventose acque,
+
+
+
+
+Furono piovute giù come trombe,
+
+
+
+
+Quando la buona bevanda era stata disonorata
+
+
+
+
+Dai beoni della città.
+
+
+
+
+Quando il vino rosso ebbe recato rossa rovina,
+
+
+
+
+E la [[motifs/death|morte]]-[[motifs/dance|danza]] dei nostri tempi,
+
+
+
+
+il Cielo ci mandò l'[[motifs/water|Acqua]] di Soda
+
+
+
+
+Come tormento per i nostri delitti.»
+
+
+
+
+«Sull'[[motifs/soul|anima]] mia, quest'[[motifs/water|acqua]] ha un sapore piuttosto gradevole. Mi [[concepts/wonder|domando]] di che annata sarà?» e schioccò le labbra con solennità. «Sa esattamente di come sapeva l'anno 1881.»
+
+«In fatto di sapore ci si può immaginare qualsiasi cosa», ribatté il compagno più basso. «Il signor Jack, che era sempre pronto ai suoi scherzi, serviva pura [[motifs/water|acqua]] in quei bicchierini con cui si bevono i liquori, e tutti giuravano che era un delizioso liquore, e volevano sapere dove poterlo procurare... tutti tranne il vecchio Ammiraglio Guffin, che disse che sapeva troppo di olive. Ma l'[[motifs/water|acqua]] è di gran lunga la migliore per il nostro gioco, di certo.»
+
+
+
+
+Patrick annuì, e poi disse:
+
+
+
+
+«[[concepts/doubt|Dubito]] che ci riuscirei, se non fosse per il conforto di guardare quello», e diede un calcio al barilotto di rum, «e di sentire che un giorno o l'altro ce ne faremo una bella sorsata. Sembra una fiaba, portarselo appresso... come se il rum fosse il tesoro di un pirata, come se fosse oro fuso. Inoltre, ci possiamo divertire un mondo con esso alle spalle degli altri... qual era quello scherzo che mi è venuto in mente stamattina? Oh, ricordo! Dov'è quel mio bidone del latte?»
+
+
+
+
+Per i venti minuti successivi fu industriosamente occupato col suo bidone del latte e la botticella; Pump lo osservava con un interesse che rasentava l'ansia. Alzando il capo, tuttavia, al termine di quel [[motifs/time|tempo]], aggrottò le rosse sopracciglia e disse: «Cos'è quello?»
+
+
+
+
+«Cos'è cosa?» chiese l'altro viaggiatore.
+
+
+
+
+«Quello!» disse il Capitano Patrick Dalroy, indicando una figura che si avvicinava sulla [[motifs/road|strada]] parallela al [[motifs/river|fiume]], «voglio dire, a che serve?»
+
+
+
+
+La figura aveva una barba piuttosto lunga e capelli lunghissimi che le ricadevano assai al di sotto delle spalle. Aveva un'espressione seria e ferma. Era vestita di quella che l'inesperto signor Pump prese dapprima per la sua camicia da notte; ma che apprese poi essere la sua completa tunica di pelo di capra, non contaminata neppure da un filo della distruttiva e mortale lana della pecora. Non aveva stivali ai piedi. Camminò assai rapidamente fino a una certa ansa del ruscello e poi si voltò di scatto (avendo compiuto la sua passeggiata igienica), e tornò indietro verso la perfetta città di Peaceways.
+
+
+
+
+«Suppongo sia qualcuno di quel posto del latte», disse Humphrey Pump, con indulgenza. «Sembrano piuttosto matti.»
+
+
+
+
+«Non m'importa poi tanto di quello», disse Dalroy, «anch'io sono matto a volte. Ma un pazzo ha un solo merito e un ultimo legame con Dio. Un pazzo è sempre logico. Ora, qual è la connessione logica tra il vivere di latte e il portare i capelli lunghi? La maggior parte di noi visse di latte quando non aveva capelli affatto. Come mettono insieme la cosa? Ci sono almeno dei titoli per una sinossi? È, poniamo, "latte–[[motifs/water|acqua]]–[[motifs/water|acqua]] da barba–rasatura–capelli"? È "latte–gentilezza–sgarbo–galeotti–capelli"? Qual è la connessione logica tra l'avere troppi capelli e l'avere troppo pochi stivali? Cosa mai può essere? È "capelli–baule di capelli–baule di cuoio–stivali di cuoio"? È "capelli–barba–ostriche–spiaggia–sguazzare–niente stivali"? L'uomo è incline all'errore... specie quando ogni errore che commette vien chiamato un movimento... ma perché tutte le follie dovrebbero vivere insieme?»
+
+
+
+
+«Perché tutti i lunatici dovrebbero vivere insieme», disse Humphrey, «e se aveste visto cos'è successo lassù a Crampton, con quell'idea dell'appalto, lo sapreste. Va tutto molto [[motifs/well|bene]], Capitano; ma se la gente può impedire che un ospite di grande importanza venga sepolto fino al collo nel letame di fattoria, lo farà. Lo farà, davvero.» Tossì quasi in tono di scusa. Stava per tentare di riprendere la conversazione, quando vide il compagno ricacciare il bidone del latte e il barilotto nell'automobile, e salirvi lui stesso. «Guida tu», disse, «portami dove vivono quelle cose; lo sai, Hump.»
+
+
+
+
+Non giunsero, tuttavia, nel centro civico di tali cose senza ancora un altro indugio. Lasciarono il [[motifs/river|fiume]] e seguirono l'uomo dai lunghi capelli e dal saio di pelle di capra; ed egli si fermò, guarda caso, presso una casa ai margini del villaggio. Anche gli avventurieri si fermarono, per curiosità, e furono dapprima sollevati nel vedere l'uomo riapparire quasi all'istante, avendo sbrigato i suoi affari con una prontezza che pareva incredibile. Una seconda occhiata mostrò loro che non era l'uomo, ma un altro uomo vestito esattamente come lui. Ancora qualche minuto di curioso indugio mostrò loro molti membri della setta gonnellata e caprina entrare e uscire da questo particolare luogo, ciascuno vestito della sua [[archetypes/innocent|innocente]] uniforme.
+
+
+
+
+«Questo dev'essere il tempio e la cappella», mormorò Patrick, «dev'essere qui che sacrificano un bicchiere di latte a una mucca, o qualunque cosa sia che fanno. [[motifs/well|Be']], lo scherzo è piuttosto ovvio, ma dobbiamo aspettare una tregua nell'affollarsi della congregazione.»
+
+
+
+
+Quando l'ultimo [[characters/phantom|fantasma]] dai lunghi capelli si fu dileguato su per la [[motifs/road|strada]], Dalroy balzò dall'automobile e conficcò l'insegna in profondità nella terra con selvaggia violenza, e poi bussò molto tranquillamente alla porta.
+
+
+
+
+L'apparente padrone del luogo, dal quale gli ultimi due degli idealisti dai lunghi capelli e dai piedi nudi stavano prendendo un congedo piuttosto affrettato, era un uomo curiosamente inadatto alla parte per cui pareva scritturato nell'unica trama possibile.
+
+
+
+
+Sia Pump sia Dalroy pensarono di non aver mai visto un uomo dall'aria così tetra. Il suo viso era di quel tipo rubicondo che non suggerisce allegria, ma soltanto una stagnante indigestione nella testa. I suoi baffi pendevano pesanti e scuri, le sue sopracciglia ancora più pesanti e scure. Dalroy aveva visto qualcosa del genere sui volti di gente sconfitta e vergognosamente costretta alla sottomissione, ma non riusciva a raccapezzarcisi in rapporto alle pedantesche perfezioni di Peaceways. Era tanto più strano in quanto egli era manifestamente prospero; i suoi abiti erano tagliati con eleganza in un certo stile sportivo, e l'interno della sua casa era almeno quattro volte più grandioso dell'esterno.
+
+
+
+
+Ma ciò che più li lasciava perplessi era questo, che egli non tanto esibiva la naturale curiosità di un gentiluomo nella cui casa privata entrano degli estranei, quanto piuttosto un'attesa imbarazzata e inquieta. Durante le premurose scuse di Dalroy e le cortesi domande sulla direzione e le sistemazioni di Peaceways, il suo occhio (che era del genere uva spina bollita) vagava perpetuamente da loro alla credenza e poi di nuovo alla [[motifs/window|finestra]], e alla fine si alzò e andò a guardare fuori nella [[motifs/road|strada]].
+
+«Oh, sì, signore; luogo assai salubre, Peaceways» disse, sbirciando attraverso la grata. «Assai… accidenti, che intendono?… Assai salubre. Certo, hanno le loro piccole usanze.»
+
+
+
+
+«Bevono soltanto latte puro, non è vero?» chiese Dalroy.
+
+
+
+
+Il padrone di casa lo guardò con occhio piuttosto stralunato e grugnì.
+
+
+
+
+«Sì; così dicono» e tornò di nuovo alla [[motifs/window|finestra]].
+
+
+
+
+«Ne ho comprato un po'» disse Patrick, dando un colpetto al suo caro bidone del latte, che portava sotto il braccio, come se non riuscisse a separarsi dalla scoperta del dottor Meadows. «Prenda un bicchiere di latte, signore.»
+
+
+
+
+L'occhio bollito dell'uomo cominciò a sporgere per l'ira – o qualche altra emozione.
+
+
+
+
+«Che cosa volete?» borbottò, «siete sbirri o cosa?»
+
+
+
+
+«Agenti e distributori del Latte di Montagna di Meadows» disse il capitano, con semplice [[concepts/pride|orgoglio]], «lo assaggia?»
+
+
+
+
+Il padrone di casa, stordito, prese un bicchiere dell'incolpevole liquido e ne sorseggiò; e il mutamento sul suo volto fu straordinario.
+
+
+
+
+«[[motifs/well|Beh]], che io sia dannato» disse, con un largo e piuttosto grossolano ghigno. «È un bello scherzo. Siete in combutta, lo vedo.» Poi tornò di nuovo irrequieto alla [[motifs/window|finestra]]; e aggiunse: «ma se siamo tutti amici, perché diavolo gli altri non entrano? Non ho mai visto il commercio così fiacco prima d'ora.»
+
+
+
+
+«Chi sono gli altri?» chiese il signor Pump.
+
+
+
+
+«Oh, la solita gente di Peaceways» disse l'altro. «Di solito vengono qui prima del lavoro. Il dottor Meadows non li fa lavorare per orari molto lunghi, non sarebbe salubre o come diavolo lo chiama lui; ma è puntiglioso sulla loro puntualità. Li ho visti correre, con tutti i loro abiti dall'animo puro addosso, quando la sirena dava l'ultimo richiamo.»
+
+
+
+
+Poi aprì bruscamente la porta d'ingresso e chiamò con impazienza, ma non a voce alta:
+
+
+
+
+«Venite dentro, se dovete venire. Rovinerete tutta la messinscena se fate lo [[archetypes/fool|scemo]] là fuori.»
+
+
+
+
+Anche Patrick guardò fuori, e la vista della [[motifs/road|strada]] all'esterno era certamente piuttosto singolare. Era abituato alle folle, grandi e piccole, che si radunavano davanti alle case da lui onorate con l'insegna della «Vecchia [[motifs/ship|Nave]]», ma di solito la fissavano con schietta [[concepts/wonder|meraviglia]] e divertimento. Ma fuori da quella porta aperta, una ventina o trentina di persone in quelle che Pump aveva chiamato le loro camicie da [[motifs/night|notte]] si muovevano avanti e indietro come sonnambuli, apparentemente ciechi alla presenza dell'insegna; guardando l'altro lato della [[motifs/road|strada]], guardando l'orizzonte, guardando le nubi del mattino; e solo di tanto in tanto fermandosi a bisbigliare l'uno con l'altro. Ma quando il proprietario della casa chiamò uno di questi esseri ostentatamente distratti e gli domandò con voce rauca che diavolo avesse, fu naturale che il nutrito a latte volgesse il suo occhio fiacco verso l'insegna. Gli occhi da uva spina seguirono i suoi, e il volto cui appartenevano fu uno studio di apoplettico stupore.
+
+
+
+
+«Che diavolo avete fatto alla mia casa?» domandò. «Di certo non possono entrare se c'è questa cosa qui.»
+
+
+
+
+«La toglierò, se vuole» disse Dalroy, uscendo e raccogliendola come un fiore dal [[motifs/garden|giardino]] antistante (con lo stupore degli uomini nella [[motifs/road|strada]], che si credettero capitati in una fiaba da vivaio), «ma vorrei, in cambio, che mi deste un'idea di che diavolo significhi tutto questo.»
+
+
+
+
+«Aspetti che abbia servito questi uomini» rispose il suo ospite.
+
+
+
+
+Le persone vestite da capra entrarono molto pecorescamente (o caprescamente) nell'edificio ormai privo d'insegna, e furono rapidamente servite di acquaviti grezze, che il signor Pump sospettò essere di qualità nient'affatto superiore. Quando l'ultima capra se ne fu andata, il capitano Dalroy disse:
+
+
+
+
+«Voglio dire che tutto questo mi pare a rovescio. Avevo capito che, per come sta la legge adesso, se c'è un'insegna è loro permesso bere, e se non c'è non lo è.»
+
+
+
+
+«La Legge!» disse l'uomo, con voce densa di disprezzo. «Crede che questi poveri bruti abbiano paura della Legge quanto ne hanno del Dottore?»
+
+
+
+
+«Perché mai dovrebbero avere paura del Dottore?» chiese Dalroy, ingenuamente. «Ho sempre sentito dire che Peaceways era una repubblica che si governa da [[concepts/self|sé]].»
+
+
+
+
+«Che si governi da [[concepts/self|sé]] col diavolo» fu l'illiberale replica. «Non possiede lui tutte le case e non potrebbe cacciarli fuori in una [[motifs/storm|tormenta]] di [[motifs/snow|neve]]? Non paga lui tutti i salari e non potrebbe ridurli alla fame in un mese? La Legge!» E sbuffò. Un momento dopo puntò i gomiti sul tavolo e cominciò a spiegare più a fondo.
+
+
+
+
+«Ero un birraio da queste parti e avevo la birreria più grande di questa zona. C'erano solo due locali che non mi appartenevano, e dopo un po' di [[motifs/time|tempo]] i magistrati tolsero loro la licenza. Dieci anni fa si poteva vedere "Birre Hugby" scritto accanto a ogni insegna della contea. Poi vennero questi maledetti Radicali, e il nostro capo, Lord Ivywood, dovette passare dalla loro parte in proposito, e lasciar comprare a questo Dottore tutta la terra sotto qualche nuova legge secondo cui non ci sarebbero più stati pub. E così i miei affari sono rovinati perché lui possa vendere il suo latte. Per fortuna me l'ero cavata piuttosto [[motifs/well|bene]] prima e ho avuto un qualche indennizzo, naturalmente; e faccio ancora un discreto commercio sotto banco, come vede. Ma naturalmente non ammonta neppure alla metà di quello di prima, perché hanno paura che il vecchio Meadows lo scopra. Vecchio farabutto piagnucoloso!»
+
+
+
+
+E il signore dai bei vestiti sputò sul tappeto.
+
+
+
+
+«Io stesso sono un Radicale» disse l'irlandese, piuttosto freddamente, «per ogni informazione sul partito Conservatore devo rimandarvi al mio amico, il signor Pump, il quale è, naturalmente, nei più intimi [[motifs/secrets|segreti]] dei suoi capi. Ma mi pare una ben strana specie di Radicalismo mangiare e bere agli ordini di un padrone che è un pazzo, solo perché è anche milionario. O Libertà, quali sviluppi sociali assai complicati e persino insoddisfacenti si commettono nel tuo nome! Perché non prendono a calci il vecchio asino per il paese un po'? Niente stivali? È per questo che non gli sono concessi stivali? Oh, fatelo rotolare giù per la [[motifs/hill|collina]] in un bidone del latte: a quello non può obiettare.»
+
+
+
+
+«Non saprei» disse Pump, nella sua maniera ruminante, «la zia del signorino Christian sì che obiettò, ma le signore sono più schizzinose, naturalmente.»
+
+
+
+
+«Senta un po'!» esclamò Dalroy, con una certa concitazione, «se pianto quell'insegna là fuori, e resto qui a dare una mano, li sfiderà? Sareste rigorosamente nei limiti della legge, e qualunque coercizione privata le prometto che se ne pentiranno. Pianti l'insegna e venda la roba apertamente come un uomo, e potrà stare nella [[concepts/history|storia]] inglese come un liberatore.»
+
+Il signor Hugby, delle Birre Hugby, si limitò a fissare cupamente il tavolo. Il suo non era il genere di bevute né il genere di vendita di bevande su cui prospera il sentimento rivoluzionario.
+
+
+
+
+«[[motifs/well|Ebbene]]» disse il capitano, «verrà con me a dire "Bravo, bravo!" e "Come è vero!" – "Quale ineguagliabile eloquenza!" se tengo un discorso nella piazza del mercato? Andiamo! C'è posto nella nostra automobile.»
+
+
+
+
+«[[motifs/well|Beh]], verrò con lei, se vuole» rispose il signor Hugby, pesantemente. «È vero che se la sua è permessa potremmo riavere anche il nostro commercio.» E, calcandosi in testa un cilindro di seta, seguì il capitano e il locandiere fino alla loro piccola automobile. Il villaggio modello non era uno sfondo appropriato per il cilindro di seta del signor Hugby. Anzi, il cappello pareva in qualche modo far risaltare per contrasto tutto ciò che di fantastico c'era in quel luogo.
+
+
+
+
+Era una mattina superba, alcune ore dopo l'alba. I margini del cielo che toccavano l'anello di boschi indistinti e di colline lontane erano ancora ingioiellati dalle minuscole nuvole trasparenti dell'aurora, delicato rosso e verde o giallo. Ma in alto la volta del Cielo si levava [[motifs/rose|rosata]] attraverso il turchese fino a un blu torrido e compatto in cui le altre nuvole, i colossali cumuli, si accapigliavano come in una celestiale battaglia di guanciali. Il grosso delle case era bianco come le nuvole, sicché pareva (per usare un'altra similitudine) che alcuni dei cottage imbiancati a calce volassero e cadessero per il cielo. Ma la maggior parte delle case bianche era punteggiata qua e là di colori vivaci, qui un ornamento in arancione o là una striscia di giallo limone, come dal pennello di un gigante bambino. Le case non avevano tetti di paglia (la paglia non è igienica) ma erano per lo più coperte da una sorta di tegole verde pavone comprate a poco prezzo a un Bazar Preraffaellita; o, meno di frequente, da qualche specie ancora più esoterica di mattoni in terracotta. Le case non erano inglesi, né accoglienti, né adatte al paesaggio; poiché le case non erano state costruite da uomini liberi per sé, ma a capriccio di un lord bizzarro. Ma, considerato come una sorta di [[motifs/city|città]] fatata in una pantomima, era davvero uno sfondo pittoresco per procedimenti pantomimici.
+
+
+
+
+[[concepts/fear|Temo]] che i procedimenti del signor Dalroy meritassero, fin da principio, piuttosto quel nome. Tanto per cominciare, lasciò l'insegna, il barile e il barilotto tutti avvolti e nascosti nell'automobile, ma si tolse tutti gli involti del proprio travestimento, e rimase sul lembo centrale d'erba in quella divisa verde che pareva tanto più insolente per essere cenciosa quanto l'erba. Persino quella era meno cenciosa dei suoi capelli rossi, che nessuna giungla rossa d'Oriente avrebbe potuto imitare. Poi tirò fuori, quasi teneramente, il grande bidone del latte, e lo depose, quasi con riverenza, sull'isola di zolla erbosa. Poi vi stette accanto, come Napoleone accanto a un cannone, con un'espressione di tremenda serietà e persino severità. Poi sguainò la spada, e con quella lampeggiante arma, come con un correggiato, sferzò e batté il risonante bidone di metallo finché il fracasso fu assordante, e il signor Hugby uscì in fretta dall'automobile e si ritirò a una certa distanza, tappandosi le orecchie. Il signor Pump sedeva saldamente al [[motifs/wheel|volante]], sapendo [[motifs/well|bene]] che poteva rendersi necessario partire in gran fretta.
+
+
+
+
+«Radunatevi, radunatevi, radunatevi, Peaceways» gridava Patrick, sempre battendo sul bidone e lamentando le difficoltà di adattare "Macgregor's Gathering" al nome e all'occasione, «Siamo senza terra, senza terra, senza terra, Peaceways!»
+
+
+
+
+Due o tre di quelli vestiti da capra, riconoscendo il signor Hugby con aria colpevole, si avvicinarono con gran cautela, e il capitano gridò loro come se fossero un'armata schierata sulla piana di Salisbury.
+
+
+
+
+«Cittadini» ruggì, dicendo qualunque cosa gli passasse per la testa, «provate l'unico originale e non adulterato Latte di Montagna, per il quale soltanto Maometto venne alla montagna. Il latte originale della terra che scorre latte e miele; la cui alta qualità soltanto poteva aver reso popolare un accostamento così poco appetitoso. Provate il nostro latte! Nessun altro è genuino! Chi può fare a meno del latte. Neppure le balene possono fare a meno del latte. Se una qualche dama o gentiluomo tiene una balena prediletta a [[motifs/home|casa]], ecco la loro occasione! La balena mattiniera acchiappa il latte. Guardate soltanto il nostro latte! Se dite che non potete guardare il latte, perché è nel bidone – [[motifs/well|beh]], guardate il bidone! Dovete guardare il bidone! Semplicemente dovete! Quando il Dovere sussurra piano "Tu Devi!"» tuonò a squarciagola in una peroraziona altamente improvvisata, «Quando il Dovere sussurra piano "Tu Devi", il Giovane risponde: "Io Posso!"» E con la parola "Posso" colpì il bidone con un fragore terribile e frantumante, come uno scampanio di demoniache [[motifs/bells|campane]] d'acciaio.
+
+
+
+
+Questo discorso introduttivo è passibile di critica da parte di chi lo consideri destinato allo studio piuttosto che al palcoscenico. Il presente cronista (che non ha altro scopo che la [[concepts/truth|verità]]) è tenuto a registrare che, per il suo proprio scopo senza scrupoli, ebbe estremo successo: una gran massa dei cittadini di Peaceways era stata attirata dal fracasso di un solo uomo che gridava come una folla. Vi sono folle che non hanno voglia di rivoltarsi; ma non vi sono folle cui non piaccia che qualcun altro lo faccia per loro; fatto che gli oligarchi più prudenti farebbero bene ad apprendere.
+
+
+
+
+Ma il trionfo ultimo di Dalroy (mi duole dirlo) consistette nel consegnare effettivamente ad alcuni tra i più avanzati del suo uditorio qualche campione della sua incolpevole bevanda. Il fatto fu certamente sorprendente. Alcuni furono paralizzati dalla sorpresa. Alcuni si piegarono di colpo in [[topoi/double|due]] dalle risa. Molti ridacchiarono. Alcuni acclamarono. Tutti guardarono raggianti verso l'eccentrico oratore.
+
+
+
+
+Eppure il fulgore si spense quieto e improvviso dai loro volti. E solo perché un piccolo vecchio si era unito al gruppo; un piccolo vecchio in lino bianco con una bianca barba a punta e un bianco piumino di capelli come lanugine di cardo: un uomo che quasi ogni uomo presente avrebbe potuto uccidere col braccio sinistro.
+
+CAPITOLO XIX: L'OSPITALITÀ DEL CAPITANO
+
+
+IL DOTTOR MOSES MEADOWS, che fosse questo il suo nome o una sua versione anglicizzata, era certamente giunto in prima istanza da una cittadina della [[settings/germany|Germania]], e i suoi primi due libri furono scritti in tedesco. I suoi primi due libri furono i migliori, poiché egli cominciò con un genuino entusiasmo per la scienza fisica, e questo non era adulterato da nulla di peggio di un odio per ciò che egli riteneva superstizione, e che molti di noi ritengono l'[[motifs/soul|anima]] dello Stato. Il primo entusiasmo era più cospicuo nel primo libro, che si proponeva di dimostrare che «nella femmina il non-germogliare dei baffi era dalla con-ciò-crescente arrestata mentalità derivato». Nel suo secondo libro venne più alle prese con le illusioni, e per qualche [[motifs/time|tempo]] fu ritenuto aver provato (a chiunque già concordasse con lui) che il [[motifs/time|Tempo]]-[[archetypes/ghost|Fantasma]] aveva camminato particolarmente «rapidamente, di recente; e che il Christus Mythus era dal turbamento della mente alcolica spiegato». Poi, sfortunatamente, s'imbatté nell'istituzione chiamata [[motifs/death|Morte]], e cominciò a discutere con essa. Non vedendo alcuna spiegazione razionale di questa consuetudine del morire, così prevalente tra i suoi concittadini, concluse che era meramente tradizionale (il che, secondo lui, significava «infiacchito»), e cominciò a non pensare ad altro che a modi di eluderla o di ritardarla. Ciò ebbe su di lui un effetto piuttosto restringente, e perdette molto di quell'acre ardore che aveva reso umano l'ateismo della sua gioventù, quando avrebbe quasi commesso [[concepts/suicide|suicidio]] per il piacere di beffare Dio del non esserci. Il suo idealismo più tardo si mutò sempre più in materialismo e consistette nei suoi cangianti ipotesi e scoperte intorno ai cibi più salubri. Non occorre trattenere il lettore su quello che è stato chiamato il suo Periodo dell'Olio; il suo Periodo delle Alghe è stato autorevolmente esposto nella pregevole operetta del professor Nym; e sugli eventi del suo Periodo della Colla non è, forse, molto generoso soffermarsi. Fu durante il suo prolungato soggiorno in Inghilterra che s'imbatté nel caso della longevità dei consumatori di latte, e vi costruì sopra una teoria che era, almeno al principio, sincera. Sfortunatamente era anche di successo: la ricchezza affluì all'inventore e proprietario del Latte di Montagna, ed egli cominciò a sentire un quarto e ultimo entusiasmo, il quale, anch'esso, può venire tardi nella vita e avere un effetto restringente sulla mente.
+
+
+
+
+Nell'alterco che seguì naturalmente alla scoperta delle stravaganze del signor Patrick Dalroy, egli fu molto dignitoso, ma naturalmente non molto tollerante; poiché era del tutto disabituato a che accadesse alcunché a suo dispetto, o che alcunché d'importante accadesse persino senza di lui, nella terra che gli giaceva intorno. Dapprima insinuò severamente che il capitano avesse rubato il bidone del latte dai locali di produzione del latte, e mandò diversi operai a contare i bidoni in ogni capanno; ma Dalroy lo mise presto in chiaro su ciò.
+
+
+
+
+«L'ho comprato in un negozio a Wyddington» disse, «e da allora non ne ho usato altro. Stenterà a credermi» disse, con una certa [[concepts/truth|verità]], «ma quando entrai in quel negozio ero un ometto ben piccolo. Bevvi un bicchiere del suo Latte di Montagna; e mi guardi adesso.»
+
+
+
+
+«Non ha alcun diritto di vendere il latte qui» disse il dottor Meadows, con la più tenue traccia di un accento tedesco. «Non è alle mie dipendenze; non sono responsabile dei suoi metodi. Non è un rappresentante dell'azienda.»
+
+
+
+
+«Sono una Réclame» disse il capitano. «La pubblicizziamo per tutta l'Inghilterra. Vede quell'omino magro e striminzito laggiù» indicando l'indignato signor Pump, «lui è il "Prima di prendere il Latte di Montagna di Meadows". Io sono il "Dopo"» aggiunse il signor Dalroy, con soddisfazione.
+
+
+
+
+«Riderà davanti al magistrato» disse l'altro, con accento che s'ispessiva.
+
+
+
+
+«Riderò» convenne Patrick. «[[motifs/well|Ebbene]], le vuoto il sacco, signore. La [[concepts/truth|verità]] è che non è affatto il suo latte. Ha un sapore del tutto diverso. Questi signori glielo diranno.»
+
+
+
+
+Una risatina soffocata mandò tutto il [[motifs/blood|sangue]] al volto dell'eminente capitalista.
+
+
+
+
+«Allora, o avete rubato il mio bidone e siete un ladro» disse, pestando i piedi, «o avete introdotto sostanze inferiori nella mia scoperta e siete un adultero – er –»
+
+
+
+
+«Provi adulteratista» disse Dalroy, gentilmente. «Il principe Alberto diceva sempre "adulteratariano". Caro vecchio Alberto! Pare ieri! Ma è, naturalmente, oggi. Ed è vero come la luce del giorno che questa roba ha un sapore diverso. Non saprei dirle quale sia il sapore» (risate soffocate dai margini della folla). «È qualcosa tra il sapore del vostro primo bastoncino di zucchero e il mozzicone del sigaro di vostro padre. È [[archetypes/innocent|innocente]] come il Cielo e caldo come l'inferno. Ha il sapore di un [[concepts/paradox|paradosso]]. Ha il sapore di un'incoerenza preistorica – confido di rendermi chiaro. Gli uomini che ne colgono di più il sapore sono gli uomini più semplici che Dio abbia fatto, ed esso rammenta loro sempre il sale, perché è fatto di zucchero. Ne prenda un po'!»
+
+
+
+
+E con un gesto di sbalorditiva ospitalità, sparò il lungo braccio col piccolo bicchiere all'estremità. La dispotica curiosità nel prussiano ebbe la meglio persino sulla sua dispotica dignità. Prese un sorso del liquido, e gli occhi gli schizzarono fuori dal volto.
+
+
+
+
+«Avete mescolato qualcosa col latte» furono le prime parole che gli vennero.
+
+
+
+
+«Sì» rispose Dalroy, «e anche voi, a meno che non siate un imbroglione. Perché il vostro latte è reclamizzato come diverso dal latte di tutti gli altri, se non avete fatto la differenza? Perché un bicchiere del vostro latte costa tre pence, e un bicchiere di latte ordinario un penny, se non ci avete messo due pence di qualcosa? Ora, senta un po', dottor Meadows. L'Analista Pubblico che dovrebbe giudicare questo si dà il caso che sia un uomo onesto. Ho una lista dei ventun uomini e mezzo onesti ancora impiegati in tali posti. Le faccio un'offerta leale. Egli deciderà che cosa aggiungo io al latte, se lei lascia che decida che cosa aggiunge lei al latte. Qualcosa deve pur aggiungere al latte, altrimenti a che possono servire tutte queste ruote e pompe e pulegge? Vuol dirmi, qui e ora, che cosa aggiunge al latte che lo rende così straordinariamente di Montagna?»
+
+Vi fu un lungo [[motifs/silence|silenzio]], colmo dello stesso senso di ilarità sommersa nella calca. Ma il filantropo era caduto in una nuda frenesia alla luce del sole, e scuotendo i pugni in alto in un modo ignoto a tutti gli inglesi intorno a lui, gridò:
+
+
+
+
+«Ach! ma io so che cosa aggiungete! So che cosa aggiungete! È l'Alcol! E non avete alcuna insegna e riderete davanti a un magistrato.»
+
+
+
+
+Dalroy, con un inchino, si ritirò all'automobile, tolse un certo numero di involti e produsse il prodigioso palo dell'insegna in legno della «Vecchia [[motifs/ship|Nave]]», col suo vascello a tre ponti azzurro e la rossa [[motifs/cross|Croce]] di San Giorgio cospicuamente esibiti. Lo piantò sul suo angusto territorio di zolla erbosa e si guardò intorno serenamente.
+
+
+
+
+«In questa mia vecchia locanda dai pannelli di quercia» disse, «riderò di un milione di magistrati. Non che ci sia alcunché di antigienico in questa locanda. Niente soffitti bassi né aria viziata qui. Finestre aperte dappertutto, tranne che nel pavimento. E poiché sento dire da alcuni che dovrebbe sempre vendersi del cibo insieme al liquore fermentato, ebbene, mio caro dottor Meadows, ho qui un formaggio che farà di lei un altro uomo. Almeno, lo [[concepts/hope|speriamo]]. Non possiamo che provare.»
+
+
+
+
+Ma il dottor Meadows era da tempo oltre il semplice essere arrabbiato. L'esibizione dell'insegna lo aveva posto in una seria difficoltà. Come la maggior parte degli scettici, come persino i più genuini scettici quale Bradlaugh, egli era tanto legalista quanto scettico. Aveva un profondo [[concepts/fear|timore]], che in sé aveva anche qualcosa di meglio del [[concepts/fear|timore]], di essere infine trovato dalla parte del torto in un [[settings/court|tribunale]] di polizia o in un'inchiesta pubblica. E soffriva anche la [[forms/tragedy|tragedia]] di tutti gli uomini simili che vivono nell'Inghilterra moderna: che dev'essere sempre certo di rispettare la legge, senza mai essere certo di che cosa essa fosse. Poteva solo ricordare in generale che Lord Ivywood, nell'introdurre o nel difendere la grande Legge Ivywood in questa materia, aveva insistito molto fortemente sulla singolare e significativa [[concepts/nature|natura]] dell'insegna. E non poteva essere certo che, se l'avesse ignorata del tutto, non potesse alla fine essere condannato a pesanti danni – o persino andare in [[motifs/prison|prigione]], a dispetto del suo successo negli affari. Naturalmente sapeva assai [[motifs/well|bene]] di avere mille risposte a simili sciocchezze: che un lembo d'erba nella [[motifs/road|strada]] non poteva essere una locanda; che l'insegna non era stata neppure esibita quando il capitano aveva cominciato a distribuire il rum. Ma sapeva anche assai [[motifs/well|bene]] che nel nero pericolo che noi chiamiamo legge britannica non è quello il punto. Aveva sentito addurre a un giudice, e addurre invano, punti altrettanto ovvi. In [[characters/bottom|fondo]] alla sua mente trovava questo fatto: per quanto ricco fosse, era stato Lord Ivywood a farlo tale – e da quale parte sarebbe stato Lord Ivywood?
+
+
+
+
+«Capitano» disse Humphrey Pump, parlando per la prima [[motifs/time|volta]], «faremmo meglio a filarcela. Lo sento nelle ossa.»
+
+
+
+
+«Locandiere inospitale!» esclamò il capitano, indignato. «E dopo che mi sono fatto in quattro per licenziarle i locali! Ma questa è l'[[motifs/dawn|alba]] della pace nella grande [[motifs/city|città]] di Peaceways. Non [[concepts/despair|dispero]] che il dottor Meadows tracanni un altro bicchiere prima che abbiamo finito. Per il momento, il fratello Hugby prenderà la parola.»
+
+
+
+
+Mentre parlava, distribuiva latte e rum a casaccio; e ancora il Dottore aveva troppo terrore dei nostri cavilli legali per fare un'interferenza definitiva. Ma quando il signor Hugby, delle Birre Hugby, sentì chiamare il proprio nome, dapprima sobbalzò così da quasi far cadere il cilindro di seta, poi rimase del tutto immobile. Poi accettò un bicchiere del nuovo Latte di Montagna; e poi il suo stesso volto si fece pieno di parole, prima ancora che avesse proferito parola.
+
+
+
+
+«C'è un'automobile che arriva lungo la [[motifs/road|strada]] dalle colline lontane» disse Humphrey, tranquillamente. «Attraverserà l'ultimo ponte più a valle tra dieci minuti e risalirà da questo lato.»
+
+
+
+
+«[[motifs/well|Ebbene]]» disse il capitano, con impazienza, «suppongo che tu abbia già visto un'automobile prima d'ora.»
+
+
+
+
+«Non in questa vallata per tutta la mattinata» rispose Pump.
+
+
+
+
+«Signor Presidente» disse il signor Hugby, provando una vaga disposizione a dire «Signor Vice», in [[motifs/memory|memoria]] di vecchi banchetti commerciali, «sono certo che siamo tutti gente rispettosa della legge, qui, e desideriamo rimanere amici, specialmente col nostro buon amico il Dottore; possa egli non aver mai bisogno d'un amico o d'una bottiglia – vale a dire, insomma, di qualunque cosa desideri, mentre saliamo la [[motifs/hill|collina]] della prosperità, e così via. Ma, poiché il nostro amico qui con l'insegna pare essere nei suoi diritti, [[motifs/well|beh]], penso che sia venuto il [[motifs/time|momento]] in cui possiamo guardare a queste cose più ampiamente, per così dire. Ora, so bene che è verissimo che quei sudici piccoli pub fanno molto danno a una proprietà, e ci si trova un mucchio di gente ignorante che è proprio come i porci; e non dico che il nostro amico il Dottore non abbia fatto del bene sbarazzandosene. Ma un grande affare [[motifs/well|ben]] gestito con parecchio capitale alle spalle è tutt'altra cosa. [[motifs/well|Ebbene]], amici, sapete tutti che ero originariamente nel Commercio; sebbene abbia, naturalmente, smesso di vendere sotto le nuove disposizioni.» Qui le capre guardarono piuttosto colpevolmente i loro zoccoli fessi. «Ma ho il mio gruzzoletto e non mi dispiacerebbe metterlo in questa "Vecchia [[motifs/ship|Nave]]" qui, se il nostro amico permettesse che fosse condotta secondo criteri d'affari. E specialmente se ampliasse un poco i locali. Ah! ah! E se il nostro buon amico, il Dottore –»
+
+
+
+
+«Farabutto d'un tipo!» sbottò Meadows, «il vostro buon amico il dottore vi farà [[motifs/dance|ballare]] davanti a un magistrato.»
+
+
+
+
+«Suvvia, non sia poco pratico degli affari» ragionò il birraio. «Non danneggerà le sue vendite. È tutt'altro pubblico, non vede? Parli pure da uomo d'affari.»
+
+
+
+
+«Io non sono un uomo d'affari» disse lo scienziato, con occhi di fuoco, «sono un servitore dell'umanità.»
+
+
+
+
+«Allora» disse Dalroy, «perché non fa mai ciò che il suo padrone le ordina?»
+
+
+
+
+«L'automobile ha attraversato il [[motifs/river|fiume]]» disse Humphrey Pump.
+
+
+
+
+«Voi disfareste tutte le mie opere» gridò il Dottore, con sincera passione. «Quando ho costruito questa città io stesso, quando l'ho resa sobria e salubre io stesso, quando sono desto e in piedi prima di chiunque in città io stesso, vegliando sui suoi interessi – voi rovinereste tutto per vendere la vostra birra barbara e fondamentalmente bestiale. E poi mi chiamate un buon amico. Io non sono un buon amico!»
+
+«Questo non saprei dirlo» ringhiò Hugby, «ma se è per quello – non state cercando anche voi di vendere –»
+
+
+
+
+Un'automobile si accostò con una bianca esplosione di [[motifs/dust|polvere]], e ne scesero sei persone assai impolverate. Persino attraverso il più fitto travestimento dell'automobilista veloce, Pump ravvisò in molti di loro il caratteristico stile e portamento del corpo della polizia. L'eccezione più evidente era una figura lunga e più slanciata, la quale, togliendosi berretto e occhialoni, rivelò i tratti scuri e cascanti di J. Leveson, Segretario. Attraversò fino al piccolo, vecchio milionario, che lo riconobbe all'istante e gli strinse la mano. Confabularono per un po' di [[motifs/time|tempo]], sfogliando alcuni documenti ufficiali. Il dottor Meadows si schiarì la gola e disse a tutta la folla.
+
+
+
+
+«Sono lietissimo di potervi annunciare a tutti che questo straordinario oltraggio è stato tentato troppo tardi. Lord Ivywood, con la prontezza che egli mostra così invariabilmente, ha immediatamente comunicato a luoghi d'importanza come questo una giustissima e correttissima modifica della legge, che risponde esattamente al presente caso.
+
+
+
+
+«[[motifs/sleep|Dormiremo]] in gattabuia stanotte» disse Humphrey Pump. «Lo so nelle ossa.»
+
+
+
+
+«Basti dire» proseguì il milionario, «che per la legge così com'è ora, qualunque locandiere, anche se esibisca un'insegna, è passibile di [[concepts/imprisonment|carcerazione]] se vende alcol in locali dove esso non sia stato precedentemente tenuto per tre giorni.»
+
+
+
+
+«Pensavo sarebbe stato qualcosa del genere» borbottò Pump. «Ci arrendiamo, capitano, o tentiamo una fuga?»
+
+
+
+
+Persino la sfrontatezza di Dalroy parve per un istante sbigottita e ammutolita. Fissava sconsolato l'abisso di cielo sopra di sé, come se, al pari di Shelley, potesse trarre ispirazione dalle ultime e più pure nuvole e dalle perfette tinte dei confini del Cielo.
+
+
+
+
+Alla fine disse, con voce soave e meditativa, la sola sillaba:
+
+
+
+
+«Vende!»
+
+
+
+
+Pump lo guardò acutamente con una notevole espressione che gli cresceva sul volto arcigno. Ma il Dottore era troppo rabbiosamente rallegrato dal proprio trionfo per comprendere il senso del capitano.
+
+
+
+
+«Vende alcol, sono le parole esatte» insistette, brandendo il rettangolo azzurro della nuova Legge del Parlamento.
+
+
+
+
+«Per quanto mi riguarda sono parole inesatte» disse il capitano Dalroy, con cortese indifferenza. «Non ho venduto alcol, l'ho regalato. Qualcuno qui mi ha pagato del denaro? Qualcuno qui ha visto qualcun altro pagarmi del denaro? Sono un filantropo proprio come il dottor Meadows. Sono la sua immagine vivente!»
+
+
+
+
+Il signor Leveson e il dottor Meadows si guardarono a vicenda, e sul volto del primo c'era la costernazione, e sul secondo un pieno ritorno di tutti i suoi terrori della complicata legge.
+
+
+
+
+«Rimarrò qui per diverse settimane» continuò il capitano, appoggiandosi elegantemente al bidone, «e distribuirò, gratis, tali scorte di questa eccellente bevanda quali possano essere richieste dai cittadini. Pare che al momento non vi sia simile scorta in questo distretto, e sono ben certo che nessuna persona presente possa obiettare a un accordo così rigorosamente legale e altamente caritatevole.»
+
+
+
+
+In ciò era apparentemente in errore; poiché diverse persone presenti parvero obiettarvi. Ma, curiosamente, non fu l'avvizzito e fanatico volto del filantropo Meadows, né il volto scuro ed equino del funzionario Leveson, a spiccare più vividamente come quadro di protesta. Il volto più stranamente poco solidale con questa forma di [[concepts/charity|Carità]] fu quello dell'ex proprietario delle Birre Hugby. I suoi occhi da uva spina quasi gli cascavano dalla testa e le parole gli balzarono dalle labbra prima che potesse trattenerle.
+
+
+
+
+«E vi mettete [[motifs/well|maledettamente]] in testa di poter venire qui come un grosso buffone, bestia che siete, e portarmi via tutto il mio commercio –»
+
+
+
+
+Il vecchio Meadows si voltò verso di lui con la rapidità di una vipera.
+
+
+
+
+«E qual è il vostro commercio, signor Hugby?» chiese.
+
+
+
+
+Il birraio ribollì con una sorta di scoppiante ira. Le capre guardarono tutte a terra, come è, secondo un poeta romano, l'abitudine degli [[motifs/animals|animali]] inferiori. L'Uomo (nella persona del signor Patrick Dalroy) approfittando di una libera ma bella [[forms/translation|traduzione]] del passo latino, «guardò in alto, e con occhi levati contemplò i propri cieli aviti».
+
+
+
+
+«[[motifs/well|Ebbene]], tutto quello che posso dire è» ruggì il signor Hugby, «che se la polizia fa tutta questa strada e non riesce a mettere dentro un lurido fannullone che ha il cappotto tutto a brandelli, ho finito di pagare queste grasse maledette tasse e –»
+
+
+
+
+«Sì» disse Dalroy, con una voce che calò come una scure, «hai finito, per grazia di Dio. Sono birrai come te che hanno fatto puzzare le locande di [[motifs/poison|veleno]], finché persino gli uomini onesti hanno chiesto che non vi fossero locande affatto. E sei peggio degli astemi, perché tu hai impedito ciò che essi non hanno mai conosciuto. E in quanto a te, eminente uomo di scienza, grande filantropo, idealista e distruttore di locande, lascia che ti dia un freddo fatto per tua informazione. Tu non sei rispettato. Tu sei obbedito. Perché mai io o chiunque dovremmo rispettarti in particolare? Dici di aver costruito questa città e di alzarti all'alba a vegliare su questa città. L'hai costruita per denaro e la vegli per altro denaro. Perché dovrei rispettarti perché sei schizzinoso sul cibo, affinché la tua povera vecchia digestione possa sopravvivere ai cuori di uomini migliori? Perché dovresti essere il dio di questa vallata, il cui dio è il tuo ventre, solo perché non [[motifs/love|ami]] nemmeno il tuo dio, ma soltanto lo [[concepts/fear|temi]]? Torna a [[motifs/home|casa]] alle tue preghiere, vecchio; poiché tutti gli uomini moriranno. Leggi la [[historical-references/bible|Bibbia]], se ti pare, come fanno nella tua [[motifs/home|casa]] tedesca; e suppongo che una volta la leggessi per scegliere i versetti come ora la leggi per cercare il pelo nell'uovo. Io non la leggo, temo, ma ricordo alcune parole nella [[forms/translation|traduzione]] del vecchio Mulligan; e te le lascio. "Se non è Dio,"» e fece un movimento col braccio, così naturale eppure così vasto che per un istante la città parve davvero un giocattolo di cartone dai colori vivaci ai piedi del gigante; «"se non è Dio a costruire la [[motifs/city|città]], vana è la fatica di chi la costruisce; se non è Dio a custodire la [[motifs/city|città]], invano veglia il guardiano. È fatica sprecata che vi leviate di buon mattino e mangiate il pane degli affanni; mentre Egli dà il [[motifs/sleep|sonno]] ai suoi diletti." Cerca di capire che cosa significhi, e non t'importi se sia Elohista. E ora, Hump, via, e via ce ne andiamo. Sono stanco delle tegole verdi laggiù. Suvvia, riempimi la coppa» e sbatté giù il barile nell'automobile, «suvvia, sellate i miei cavalli e chiamate i miei uomini. E tremate, allegre capre, in mezzo alla vostra baldoria; ché non avete visto l'ultima del mio bidone del latte e di me.»
+
+
+
+
+Questa canzone fu gioiosamente portata via con il signor Dalroy nell'automobile che spariva; e gli automobilisti erano miglia oltre ogni inseguimento da Peaceways prima di pensare a fermarsi di nuovo. Ma erano ancora accanto alla sponda di quel nobile e ampliantesi [[motifs/river|fiume]]; e in un luogo di felci profonde e di betulle fasciate di nastri fatati con l'[[motifs/water|acqua]] ardente e scintillante alle loro spalle, Patrick chiese all'amico di fermare l'automobile.
+
+
+
+
+«A proposito» disse Humphrey, all'improvviso, «c'era una cosa che non ho capito. Perché aveva tanta paura dell'Analista Pubblico? Che [[motifs/poison|veleno]] e sostanze chimiche mette nel latte?»
+
+
+
+
+«H2O» rispose il capitano, «io lo prendo senza latte.»
+
+
+
+
+E si chinò come per bere dal ruscello, come aveva fatto all'alba.
+
+CAPITOLO XX: IL TURCO E I FUTURISTI
+
+
+IL SIGNOR ADRIAN CROOKE era un farmacista di successo la cui bottega si trovava nei pressi di Victoria, ma il suo volto esprimeva più di quanto in genere si richiede a un farmacista di successo. Era un volto curioso, prematuramente vecchio e simile a pergamena, ma acuto e deciso, con vero lavorio mentale in ogni sua linea. Né la sua conversazione, quando conversava, era in disaccordo con ciò: aveva vissuto in molti paesi, e possedeva un ricco tesoro di aneddoti sul lato più bizzarro e talvolta più sinistro del suo lavoro, visioni del vapore di droghe orientali o congetture sugli ingredienti dei veleni del Rinascimento. Egli stesso, non occorre dirlo, era uno speziale assai rispettabile e affidabile, altrimenti non avrebbe avuto la clientela delle famiglie, specialmente tra le classi superiori; ma godeva, come passatempo, dello studio dei giorni e delle terre oscure dove la sua scienza era giaciuta talora ai confini della Magia e talora ai confini dell'omicidio. Perciò accadeva spesso che persone, le quali nei loro sensi seri erano [[motifs/well|ben]] consapevoli delle sue innocue e utili abitudini, lasciassero la sua bottega in qualche fosca e nebbiosa [[motifs/night|notte]], con la testa così piena di storie selvagge del mangiare la canapa o dell'avvelenare le rose, che a stento potevano trattenersi dall'immaginare che la bottega, con la sua raggiante [[motifs/moon|luna]] cremisi o zafferano, come coppe di [[motifs/blood|sangue]] e zolfo, fosse davvero una casa dell'Arte Nera.
+
+
+
+
+Fu senza dubbio, in parte, per tali piaceri conversativi che Hibbs, comunque, entrò nella bottega; [[motifs/well|oltre]] che per un piccolo bicchiere della stessa medicina ricostituente che stava prendendo quando Leveson lo trovò presso la [[motifs/window|finestra]] aperta. Ma ciò non impedì a Hibbs di esprimere considerevole sorpresa e un certo imbarazzo quando Leveson entrò dallo stesso farmacista e chiese lo stesso preparato chimico. Invero, Leveson pareva abbastanza tormentato e stanco da averne bisogno.
+
+
+
+
+«Sei stato fuori città, non è vero?» disse Leveson. «Niente da fare. Ci sono scappati di nuovo per qualche cavillo. La polizia non ha voluto fare l'arresto; e persino il vecchio Meadows pensava che potesse essere illegale. Ne ho abbastanza. Dove vai?»
+
+
+
+
+«Pensavo» disse il signor Hibbs, «di fare un salto a questa mostra Post-Futurista. Credo che Lord Ivywood sarà là; la sta mostrando al [[archetypes/prophet|Profeta]]. Non pretendo di saperne molto d'arte, ma sento dire che è molto bella.»
+
+
+
+
+Vi fu un lungo [[motifs/silence|silenzio]] e il signor Leveson disse: «La gente sempre prevenuta contro le idee nuove.»
+
+
+
+
+Poi vi fu un altro lungo [[motifs/silence|silenzio]] e il signor Hibbs disse: «In fondo, dissero lo stesso di Whistler.»
+
+
+
+
+Ristorato da questo rituale, il signor Leveson divenne consapevole dell'esistenza di Crooke, e gli disse, allegramente: «È così anche nel tuo campo, non è vero? Suppongo che i più grandi pionieri della chimica fossero impopolari ai loro [[motifs/time|tempi]].»
+
+
+
+
+«Guardi i Borgia» disse il signor Crooke. «Si fecero parecchio detestare.»
+
+
+
+
+«Lei è molto irriverente, sa» disse Leveson, in modo affaticato. «[[motifs/well|Beh]], arrivederci. Vieni, Hibbs?»
+
+
+
+
+E i due gentiluomini, entrambi abbigliati in alti cilindri e cappotti da visita pomeridiana, s'incamminarono giù per la strada. Era una bella giornata di sole, gemella di quella dell'altro ieri che aveva brillato così luminosa sulla bianca città di Peaceways; e la loro passeggiata fu piacevole, lungo un bel viale con alte case e piccoli alberi che dominavano il [[motifs/river|fiume]] per tutto il percorso. Poiché i quadri erano esposti in una galleria piccola ma famosa, un edificio piuttosto rococò i cui gradini d'ingresso quasi scendevano sul Tamigi. L'edificio era cinto su entrambi i lati e sul retro da sgargianti aiuole fiorite, e in cima ai gradini, davanti al portale bizantino, stava il loro vecchio amico, Misysra Ammon, sorridendo largamente, e in un costume insolitamente sontuoso. Ma persino la vista di quel fragrante fiore d'Oriente non parve rianimare del tutto lo spirito dell'abbattuto Segretario.
+
+
+
+
+«Siete venu-uti» disse il raggiante [[archetypes/prophet|Profeta]], «a vedere la decorazione? È appro-o-ovata. L'ho appro-o-ovata io.»
+
+
+
+
+«Siamo venuti a vedere i quadri Post-Futuristi» cominciò Hibbs; ma Leveson taceva.
+
+
+
+
+«Non ci sono quadri» disse il turco, semplicemente, «se ci fossero stati non avrei potuto appro-o-ovare. Per quelli della nostra Religione i quadri non sono buo-oni; sono Idoli, amici miei. Guarda-ate là dentro» e si voltò e scagliò un solenne indice appena sotto il naso verso i cancelli della galleria; «Guarda-ate là dentro e non troverete alcun Idolo. Nessun Idolo affatto. Ho guarda-ato con la massima cura in ognuna delle cornici. Ognuna l'ho appro-o-ovata. Nessuna traccia della forma dell'Uomo. Nessuna traccia della forma dell'Animale. Tutta decorazione buo-ona come il più buo-ono dei tappeti; non nuoce. Lord Ivywood sorride di felicità; poiché gli dico che l'[[historical-references/islam|Islam]] invero progredisce. I vecchi Musulmani permettevano di disegnare il quadro della verdura. Qui io cerco persino la verdura. E non c'è verdura.»
+
+
+
+
+Hibbs, il cui mestiere era il tatto, naturalmente non ritenne saggio che l'eminente Misysra continuasse a tenere conferenza da un'alta rampa di gradini all'intera strada e al [[motifs/river|fiume]], sicché scivolò oltre con una generica proposta di entrare a vedere. Il [[archetypes/prophet|Profeta]] e il Segretario seguirono; ed entrarono tutti nell'atrio esterno dove Lord Ivywood stava col volto bianco di una statua. Era la sola statua che ai Nuovi Musulmani fosse concesso adorare.
+
+
+
+
+Su un sofà come un'isola purpurea in mezzo al mare del pavimento sedeva Enid Wimpole, parlando animatamente al cugino, Dorian; facendo, in effetti, del suo meglio per prevenire la lite familiare, che minacciava di seguire da presso l'incidente di Westminster. Nella prospettiva più profonda delle sale Lady Joan Brett fluttuava qua e là. E se il suo atteggiamento davanti ai quadri Post-Futuristi non poteva dirsi umile, né tantomeno indagatore, è giusto verso quella scuola dire che pareva altrettanto annoiata dal pavimento su cui camminava, e dal parasole che teneva. A poco a poco altre figure o gruppi di quel mondo passarono alla deriva per l'Esposizione dei Post-Futuristi. È un mondo assai piccolo, ma è appena abbastanza grande e appena abbastanza piccolo da governare un paese – vale a dire, un paese senza religione. E ha tutta la [[concepts/vanity|vanità]] di una folla; e tutta la reticenza di una società segreta.
+
+Leveson andò all'istante da Lord Ivywood, estrasse dei fogli dalla tasca e chiaramente gli stava riferendo della fuga da Peaceways. Il volto di Ivywood non mutò quasi; egli era, o si sentiva, al di sopra di certe cose; e una di esse era il rimproverare un servitore davanti ai superiori sociali del servitore. Ma nessuno avrebbe potuto dire che apparisse meno simile a freddo marmo di prima.
+
+
+
+
+«Ho fatto tutte le indagini possibili sul loro percorso successivo» si udì dire il Segretario, «e l'aspetto più grave è che paiono aver preso la [[motifs/road|strada]] per [[settings/london|Londra]].»
+
+
+
+
+«Proprio così» replicò la statua, «saranno più facili da catturare qui.»
+
+
+
+
+Lady Enid, con una serie di rassicurazioni (la maggior parte delle quali erano, mi duole dirlo, menzogne) era riuscita a impedire lo scandalo che suo cugino Dorian tagliasse effettivamente i ponti con suo cugino Philip. Ma conosceva assai poco il temperamento maschile se davvero pensava di aver impedito la profonda rivolta intellettuale del poeta contro il politico. Fin da quando aveva sentito il signor Hibbs dire «Ya! Ya!», e ordinarne l'arresto a un comune poliziotto, i sentimenti di Dorian Wimpole erano fluiti per quattro giorni e quattro notti in una direzione altamente contraria agli ideali del signor Hibbs, e l'improvvisa comparsa di quel candido diplomatico affrettò la corrente mentale a una cateratta. Ma poiché non poteva insultare Hibbs, che socialmente non conosceva nemmeno; e non poteva insultare Ivywood, col quale aveva appena avuto una formale [[concepts/reconciliation|riconciliazione]], era assolutamente necessario che insultasse invece qualcos'altro. Tutti coloro che vegliano l'[[motifs/dawn|Alba]] saranno profondamente addolorati di sapere che la Scuola di Pittura Post-Futurista ricevette tutti gli effetti di questa pervertita collera. Invano il signor Leveson affermò di [[motifs/time|tanto]] in [[motifs/time|tanto]]: «La gente sempre prevenuta contro le idee nuove.» Invano il signor Hibbs disse agli intervalli opportuni: «In fondo, dissero lo stesso di Whistler.» Non con tali decorose formalità doveva essere placata la frenesia di Dorian.
+
+
+
+
+«Quel piccolo turco ha più buonsenso di lei» disse, «lo fa passare per una buona carta da parati. Io direi che è una cattiva carta da parati; il tipo di carta da parati che dà la febbre a un malato quando non ce l'ha. Ma chiamarli quadri – tanto varrebbe [[motifs/well|altrettanto]] chiamarli seggi per la Sfilata del [[characters/lord-mayor|Lord Mayor]]. Un seggio non è un seggio se non si può vedere la Sfilata del [[characters/lord-mayor|Lord Mayor]]. Un quadro non è un quadro se non si può vedere alcun quadro. Ci si può sedere a [[motifs/home|casa]] più comodamente che a una processione. E ci si può passeggiare a [[motifs/home|casa]] più comodamente che a una galleria di quadri. C'è una sola cosa da dirsi a favore di uno spettacolo di strada o di uno spettacolo di quadri – ed è se ci sia qualcosa da mostrare. Ora, dunque! Mi mostri qualcosa!»
+
+
+
+
+«[[motifs/well|Ebbene]]» disse Lord Ivywood, di buon umore, accennando alla parete di fronte a sé, «mi lasci mostrarle il "Ritratto di una Vecchia Signora".»
+
+
+
+
+«[[motifs/well|Ebbene]]» disse Dorian, imperturbabile, «quale sarebbe?»
+
+
+
+
+Il signor Hibbs fece un frettoloso gesto d'identificazione, ma fu così sfortunato da indicare il quadro «Pioggia sugli Appennini» invece del «Ritratto di una Vecchia Signora», e il suo intervento accrebbe l'irritazione di Dorian Wimpole. Con ogni probabilità, come il signor Hibbs spiegò in seguito, fu perché un vivace movimento del gomito del signor Wimpole interferì con l'esatta indicazione dell'indice del signor Hibbs. In ogni caso, il signor Hibbs fu bruscamente e orribilmente inchiodato dall'imbarazzo; sicché dovette recarsi al banco dei rinfreschi e mangiare tre pasticcini di aragosta, e persino bere un bicchiere di quello champagne che una volta era stato la sua rovina. Ma in questa occasione si fermò a un bicchiere, e tornò con piena responsabilità diplomatica.
+
+
+
+
+Tornò per scoprire che Dorian Wimpole aveva dimenticato tutti i fatti di [[motifs/time|tempo]], luogo e [[concepts/pride|orgoglio]] personale, in una discussione con Lord Ivywood, esattamente come aveva dimenticato tali fatti in una discussione con Patrick Dalroy, in un bosco buio con un carretto tirato da un asino. E anche Philip Ivywood era interessato; i suoi freddi occhi persino brillavano; poiché sebbene il suo piacere fosse quasi puramente intellettuale, era del tutto sincero.
+
+
+
+
+«E io mi fido dell'inesperimentato; io seguo l'inesperto» stava dicendo tranquillamente, con le sue fini inflessioni di voce. «Lei dice che questo muta la [[concepts/nature|natura]] stessa dell'Arte. Io voglio mutare la [[concepts/nature|natura]] stessa dell'Arte. Tutto vive trasformandosi in qualcos'altro. L'esagerazione è crescita.»
+
+
+
+
+«Ma esagerazione di che cosa?» incalzò Dorian. «Non riesco a scorgere una traccia di esagerazione in questi quadri; perché non riesco a trovare un accenno di che cosa sia ciò che vogliono esagerare. Non si possono esagerare le piume di una mucca o le zampe di una balena. Si può disegnare una mucca con le piume o una balena con le zampe per scherzo – benché io stenti a credere che simili scherzi siano nel suo genere. Ma non vede, mio buon Philip, che anche allora lo scherzo dipende dal suo apparire come una mucca e non soltanto come una cosa con le piume. Anche allora lo scherzo dipende dalla balena [[motifs/well|tanto]] quanto dalle zampe. Si può combinare fino a un certo punto; si può distorcere fino a un certo punto; oltre quello si perde l'[[concepts/identity|identità]]; e con ciò si perde tutto. Un Centauro è tanto d'uomo e tanto di [[motifs/horse|cavallo]]. Il Centauro non va frettolosamente identificato con l'Uomo Cavallino. E la [[characters/mermaid|Sirena]] dev'essere fanciullesca; anche se c'è qualcosa di pesciforme nella sua condotta sociale.»
+
+
+
+
+«No» disse Lord Ivywood, nello stesso modo tranquillo, «capisco che cosa intende, e non sono d'accordo. Mi piacerebbe che il Centauro si trasformasse in qualcos'altro, che non fosse né uomo né [[motifs/horse|cavallo]].»
+
+
+
+
+«Ma non in qualcosa che non abbia nulla dell'uno né dell'altro?» chiese il poeta.
+
+
+
+
+«Sì» rispose Ivywood, con lo stesso bizzarro, tranquillo bagliore nei suoi occhi scoloriti, «qualcosa che non abbia nulla né dell'uno né dell'altro.»
+
+
+
+
+«Ma a che pro?» argomentò Dorian. «Una cosa che è mutata interamente non è mutata affatto. Non ha ponte di crisi. Non può ricordare alcun mutamento. Se lei si sveglia domani ed è semplicemente la signora Dope, una vecchia che affitta stanze a Broadstairs – [[motifs/well|beh]], non [[concepts/doubt|dubito]] che la signora Dope sia una persona più sana e più felice di lei. Ma in che modo lei ha progredito? Quale parte di lei è migliore? Non vede che questo fatto primario dell'[[concepts/identity|identità]] è il limite posto a tutte le cose viventi?»
+
+«No», disse Philip, con violenza repressa ma improvvisa, «nego che alcun limite sia posto agli esseri viventi».
+
+
+
+
+«Ecco, allora capisco», disse Dorian, «perché, pur facendo discorsi così belli, non hai mai scritto un verso di poesia».
+
+
+
+
+Lady Joan, che osservava con noia un ricco intreccio di viola e verde al quale Misysra cercava di interessarla (implorandola di non badare al mero titolo, che idolatricamente lo dichiarava «Prima Comunione nella [[motifs/snow|Neve]]»), volse di colpo il viso pieno verso Dorian. Era un volto al quale pochi uomini potevano restare indifferenti, specie quando veniva loro mostrato così all'improvviso.
+
+
+
+
+«Perché non può scrivere poesia?» chiese. «Vuoi dire che mal sopporterebbe i limiti del metro e della rima e così via?»
+
+
+
+
+Il poeta rifletté un momento e poi disse: «[[motifs/well|Ebbene]], in parte; ma intendo anche qualcosa di più. Poiché in famiglia si può essere sinceri, posso dire che ciò che tutti dicono di lui è che non ha umorismo. Ma non è affatto questa la mia lagnanza. Credo che la mia lagnanza sia che non ha pathos. Cioè, non sente i limiti umani. Cioè, non vuole scrivere poesia».
+
+
+
+
+Lord Ivywood contemplava, col suo profilo freddo e inconsapevole, un quadretto nero e giallo intitolato «Entusiasmo»; ma Joan Brett si protese verso di lui con bruna impazienza e gridò in tono assai provocatorio:
+
+
+
+
+«Dorian dice che non hai pathos. Ne hai un po' di pathos? Dice che è il senso dei limiti umani».
+
+
+
+
+Ivywood non distolse lo sguardo dal quadro dell'«Entusiasmo», ma disse semplicemente: «No; non ho alcun senso dei limiti umani». Poi sollevò il suo occhialino da vecchio per esaminare meglio il quadro. Poi lo lasciò ricadere e affrontò Joan con un volto più pallido del solito.
+
+
+
+
+«Joan», disse, «io camminerei dove nessun uomo ha camminato; e troverei qualcosa al di là delle [[motifs/tears|lacrime]] e del riso. La mia [[motifs/road|strada]] sarà davvero la mia [[motifs/road|strada]]; poiché la farò io, come i Romani. E le mie avventure non saranno nelle siepi e nei fossi, ma ai confini del cervello sempre in avanzamento. Penserò ciò che era impensabile finché non l'ho pensato; [[motifs/love|amerò]] ciò che non è mai vissuto finché non l'ho amato... sarò solo come il Primo Uomo».
+
+
+
+
+«Dicono», disse lei, dopo un [[motifs/silence|silenzio]], «che il primo uomo cadde».
+
+
+
+
+«Intendi i preti?» rispose lui. «Sì, ma perfino loro ammettono che scoprì il bene e il male. Così questi artisti cercano di scoprire qualche distinzione che a noi è ancora oscura».
+
+
+
+
+«Oh», disse Joan, guardandolo con un interesse reale e insolito, «allora tu stesso non vedi nulla nei quadri?»
+
+
+
+
+«Vedo l'infrangersi delle barriere», rispose, «al di là di ciò non vedo nulla».
+
+
+
+
+Guardò il pavimento per un po' di [[motifs/time|tempo]] e tracciò disegni col parasole, come chi ha davvero ricevuto materia di riflessione. Poi disse, all'improvviso:
+
+
+
+
+«Ma forse l'infrangersi delle barriere potrebbe essere l'infrangersi di ogni cosa».
+
+
+
+
+Gli occhi chiari e incolori la guardarono con assoluta fermezza.
+
+
+
+
+«Forse», disse Lord Ivywood.
+
+
+
+
+Dorian Wimpole fece un movimento improvviso a pochi metri di distanza, dove stava osservando un quadro, e disse: «Ehilà! Che c'è?» Il signor Hibbs stava letteralmente a bocca aperta in direzione dell'ingresso.
+
+
+
+
+Incorniciato in quel bell'arco bizantino stava un uomo grande e grosso, ossuto, in abiti logori ma tenuti con cura, dal volto duro, dai lineamenti marcati e intelligente, al quale una barba scura sotto il mento dava qualcosa del taglio puritano. In qualche modo tutta la sua personalità pareva ricomporsi e spiegarsi quando parlava con l'accento delle contee del Nord.
+
+
+
+
+«Beh, siùri», disse, con cordialità, «la ca' l'è propri gran bela de quadri. Ma mi son vegnù per quaicoss in d'un bocàl. Ah! Ah!»
+
+
+
+
+Leveson e Hibbs si guardarono. Poi Leveson si precipitò fuori dalla sala. Lord Ivywood non mosse un dito; ma il signor Wimpole, con una sorta di curiosità poetica, si avvicinò allo straniero e lo studiò.
+
+
+
+
+«È assolutamente terribile», esclamò Enid Wimpole, in un sussurro sonoro, «quell'uomo dev'essere ubriaco».
+
+
+
+
+«Na, tosa», disse l'uomo con galanteria, «mi son minga staa imbriàg, se non a la Fiera de Hurley, in tuti sti ann; son un brav fiö e me ne torni a pè fin a Wharfdale. Nissun mal in d'un bocàl de bira, tosa».
+
+
+
+
+«Sei proprio sicuro», chiese Dorian Wimpole, con una singolare specie di delicata curiosità, «sei proprio sicuro di non essere ubriaco?»
+
+
+
+
+«Son minga imbriàg», disse l'uomo, gioviale.
+
+
+
+
+«Anche se questo fosse un locale con licenza», cominciò Dorian, nella stessa maniera diplomatica.
+
+
+
+
+«Gh'è l'insegna su la ca'», disse lo straniero.
+
+
+
+
+Lo sguardo cupo e smarrito sul volto di Joan Brett d'improvviso mutò. Fece quattro passi verso la soglia, poi tornò indietro e si sedette sull'ottomana viola. Ma Dorian pareva affascinato dalla sua indagine sulla presunta rispettabilità del giovanotto che se ne tornava a piedi verso Wharfdale.
+
+
+
+
+«Anche se questo fosse un locale con licenza», ripeté, «da bere te lo potrebbero rifiutare se fossi ubriaco. Ora, sei davvero sicuro di non essere ubriaco? Sapresti dire, poniamo, se sta piovendo?»
+
+
+
+
+«Aye», disse l'uomo, con convinzione.
+
+
+
+
+«Sapresti riconoscere un qualunque oggetto comune della tua campagna», indagò Dorian, scientificamente, «una donna... diciamo una vecchia».
+
+
+
+
+«Aye», disse l'uomo, di buon umore.
+
+
+
+
+«Ma che diamine stai facendo con quella creatura?» sussurrò Enid, febbrilmente.
+
+
+
+
+«Sto cercando», rispose il poeta, «di impedire a un uomo pieno di buonsenso di fracassare una bottega piena di sciocchezze. Vi chiedo scusa, signore. Come dicevo, sapreste riconoscere queste cose in un quadro, ora? Sapete che cos'è un paesaggio e che cos'è un ritratto? Perdonate la domanda; vedete, siamo responsabili finché teniamo aperto il locale».
+
+
+
+
+Si levò verso il cielo come uno stormo di corvi l'ansiosa [[concepts/vanity|vanità]] del Nord.
+
+
+
+
+«Nun altri fiö minatori sèm minga così mal istruii, fiö», disse. «In del paes indove son nassuu gh'era una galleria de quadri bela come quela de Londra. Aye, e mi je conossevi, anca».
+
+
+
+
+«Grazie», disse Wimpole, indicando d'un tratto la parete. «Sareste così gentile, per esempio, da guardare quei due quadri. Uno raffigura una vecchia e l'altro la pioggia sulle colline. È una mera formalità. Avrete da bere quando avrete detto qual è l'uno e qual è l'altro».
+
+
+
+
+Il settentrionale chinò l'enorme [[concepts/body|corpo]] davanti alle due cornici e vi scrutò dentro con pazienza. La lunga immobilità che seguì parve mettere Joan a una certa prova; ella si [[motifs/rose|alzò]] con fare inquieto, prima andò a guardare fuori da una [[motifs/window|finestra]] e poi uscì dalla porta d'ingresso.
+
+
+
+
+Alla fine il critico d'arte sollevò un volto grande, perplesso ma ancora filosofico.
+
+
+
+
+«In d'una manera o in l'altra», disse, «devi propri vess imbriàg, dopotutt».
+
+
+
+
+«Avete testimoniato», gridò Dorian con animazione. «Avete quasi salvato la civiltà. E, per Dio, avrete da bere».
+
+
+
+
+E portò dal tavolo dei rinfreschi un colossale calice colmo dello champagne hibbsiano, e declinò il pagamento col rapido metodo di correre fuori dalla galleria sui gradini all'esterno.
+
+
+
+
+Joan era già lì in piedi. Dalla piccola [[motifs/window|finestra]] laterale aveva visto la cosa incredibile che si aspettava di vedere; ciò che spiegava la scena ridicola all'interno. Aveva visto l'[[motifs/flag|insegna]] di legno rossa e azzurra del signor Pump ergersi tra le aiuole al sole, serena come se fosse un fiore alto e tropicale; eppure, nel breve intervallo tra la [[motifs/window|finestra]] e la porta, era svanita, come per ricordarle che era un sogno volante. Ma due uomini erano in una piccola automobile là fuori, che era proprio in procinto di partire. Erano travestiti da automobilisti, ma lei sapeva chi erano. Tutto ciò che vi era di profondo in lei, tutto ciò che vi era di scettico, tutto ciò che vi era di stoico, tutto ciò che vi era di nobile, la fece restare immobile come uno dei pilastri del portico; ma un cane, che portava il nome di [[characters/quoodle|Quoodle]], balzò su nell'auto in movimento, e abbaiò di gioia alla sola vista di lei, e sebbene ella avesse sopportato tutto il resto, qualcosa in quella bestiale innocenza di un animale d'un tratto la accecò di [[motifs/tears|lacrime]].
+
+
+
+
+Non poté tuttavia accecarla al fatto straordinario che seguì. Il signor Dorian Wimpole, abbigliato in tutt'altro che una tenuta da automobilista, vestito in quel compromesso tra moda e arte che pare appropriato alla visita delle gallerie di quadri, non rimase affatto immobile come uno dei pilastri del portico. Si precipitò giù per i gradini, corse dietro all'auto e vi balzò dentro davvero, senza scomporre il suo cilindro di seta alla Whistler.
+
+
+
+
+«Buon pomeriggio», disse a Dalroy, amabilmente. «Mi dovete un giro in automobile, sapete».
+
+CAPITOLO XXI: LA [[motifs/road|STRADA]] PER ROUNDABOUT
+
+
+PATRICK DALROY guardò l'invasore con un'espressione greve eppure spiritosa, e disse soltanto: «Non vi ho rubato l'automobile; davvero, non l'ho fatto».
+
+
+
+
+«Oh, no», rispose Dorian, «da allora ho saputo ogni cosa, e poiché voi siete piuttosto la parte perseguitata, per così dire, non sarebbe leale non dirvi che non concordo granché con Ivywood su tutta questa faccenda. Non sono d'accordo con lui; o meglio, per dirla in termini medici, lui non è d'accordo con me. Lo è, fin da quando mi risvegliai dopo una cena a base di ostriche e mi ritrovai alla Camera dei Comuni con i poliziotti che gridavano: "Chi va a [[motifs/home|casa]]?"»
+
+
+
+
+«Davvero», domandò Dalroy, aggrottando le sue folte sopracciglia rosse. «I funzionari in Parlamento dicono: "Chi va a [[motifs/home|casa]]?"»
+
+
+
+
+«Sì», rispose Wimpole, con indifferenza, «fa parte di qualche antica usanza dei tempi in cui i membri del Parlamento potevano essere aggrediti per strada».
+
+
+
+
+«[[motifs/well|Ebbene]]», domandò Patrick, in tono ragionevole, «perché non vengono aggrediti per strada?»
+
+
+
+
+Ci fu un [[motifs/silence|silenzio]]. «È un sacro mistero», disse infine il Capitano. «Ma "Chi va a [[motifs/home|casa]]?"... è straordinariamente bello».
+
+
+
+
+Il Capitano aveva accolto il poeta nell'automobile con ogni possibile espressione di affabilità e soddisfazione, ma il poeta, che era abbastanza perspicace riguardo alla gente della propria specie, non poté fare a meno di pensare che il Capitano fosse un poco distratto. Mentre volavano rombando attraverso i labirinti della [[settings/london|Londra]] meridionale (poiché Pump aveva attraversato il ponte di Westminster e puntava verso le colline del Surrey), i grandi occhi azzurri del grosso uomo dai capelli rossi rotolavano di continuo su e giù per le vie; e, dopo silenzi sempre più lunghi, trovò espressione ai suoi pensieri.
+
+
+
+
+«Non vi colpisce che vi sia un numero grandissimo di farmacisti a [[settings/london|Londra]] al giorno d'oggi?»
+
+
+
+
+«Ce ne sono?» chiese Wimpole, con noncuranza. «[[motifs/well|Beh]], di certo ce ne sono due assai vicini l'uno all'altro proprio là».
+
+
+
+
+«Sì, ed entrambi con lo stesso nome», replicò Dalroy, «Crooke. E ho visto lo stesso signor Crooke armeggiare con le sue chimiche dietro l'angolo. Pare essere una divinità sommamente onnipresente».
+
+
+
+
+«Un grande giro d'affari, suppongo», osservò Dorian Wimpole.
+
+
+
+
+«Troppo grande per i suoi profitti, direi», disse Dalroy. «Che se ne fa la gente di due farmacisti dello stesso genere a pochi metri l'uno dall'altro? Mettono una gamba in una bottega e una nell'altra e si fanno curare i calli in entrambe nello stesso momento? Oppure prendono un acido in una bottega e un alcali in quella accanto, e aspettano l'effervescenza? Oppure prendono il [[motifs/poison|veleno]] nella prima bottega e l'emetico nella seconda? Pare portare la delicatezza troppo oltre. Equivale quasi a vivere una [[topoi/double|doppia]] vita».
+
+
+
+
+«Ma forse», disse Dorian, «egli è un farmacista clamorosamente popolare, questo signor Crooke. Forse c'è la ressa per qualche sua specialità».
+
+
+
+
+«Mi pare», disse il Capitano, «che vi siano certi limiti a una simile popolarità nel caso di un farmacista. Se un uomo vende ottimo tabacco, la gente può fumarne sempre di più per pura [[concepts/self|auto]]-indulgenza. Ma non ho mai sentito di nessuno che eccedesse in olio di fegato di merluzzo. Perfino l'olio di ricino, direi, è considerato con rispetto più che con vero affetto».
+
+
+
+
+Dopo alcuni minuti di [[motifs/silence|silenzio]], disse: «È prudente fermarsi qui per un istante, Pump?»
+
+
+
+
+«Credo di sì», replicò Humphrey, «se mi promettete di non avere avventure nella bottega».
+
+
+
+
+L'automobile si fermò davanti a un ulteriore, quarto arsenale del signor Crooke e della sua farmacia, e Dalroy entrò. Prima che Pump e il suo compagno potessero scambiarsi una parola, il Capitano uscì di nuovo, con una curiosa espressione sul volto, specie intorno alla bocca.
+
+
+
+
+«Signor Wimpole», disse Dalroy, «volete farci il piacere di cenare con noi questa sera? Molti la considererebbero un invito senza cerimonie a un pasto non convenzionale; e potrebbe essere necessario consumarlo sotto una siepe o addirittura su un albero; ma voi siete un uomo di gusto, e non ci si scusa del rum di Hump o del formaggio di Hump con le persone di gusto. Mangeremo e berremo del nostro meglio stanotte. È un banchetto. Non sono affatto certo se voi ed io siamo amici o nemici, ma almeno stanotte vi sarà pace».
+
+
+
+
+«Amici, lo [[concepts/hope|spero]]», disse il poeta, sorridendo, «ma perché pace proprio stanotte?»
+
+
+
+
+«Perché domani vi sarà guerra», rispose Patrick Dalroy, «da qualunque lato di essa voi possiate stare. Ho appena fatto una singolare scoperta».
+
+
+
+
+E ricadde nel suo [[motifs/silence|silenzio]] mentre volavano fuori dai margini di [[settings/london|Londra]] verso i boschi e le colline oltre Croydon. Dalroy rimase nella medesima disposizione meditabonda, Dorian venne sfiorato dall'ala di farfalla di quel fuggevole sonno che coglie l'uomo trasportato in fretta, attraverso l'aria, dopo un lungo poltrire in caldi salotti; perfino il cane [[characters/quoodle|Quoodle]] dormiva sul [[characters/bottom|fondo]] dell'auto. Quanto a Humphrey Pump, assai di rado parlava quando aveva qualcos'altro da fare. Così accadde che lunghi paesaggi e prospettive sfrecciassero accanto a loro come diapositive cambiate all'improvviso, e lunghi tratti di [[motifs/time|tempo]] trascorsero prima che alcuno di loro parlasse di nuovo. Il cielo mutava dai pallidi ori e verdi della sera all'azzurro ardente di una possente [[motifs/summer|estiva]] [[motifs/night|notte]], una [[motifs/night|notte]] di [[motifs/stars|stelle]] intense. Le muraglie di bosco che sfilavano accanto a loro come lunghe zagaglie erano, dapprima, per lo più del tipo recintato e simile a un parco; interminabili blocchi oblunghi di nero pineto rinchiusi da casse di sottile legno grigio. Ma presto le recinzioni cominciarono ad abbassarsi, i pineti a disperdersi, e le strade a biforcarsi e persino a divagare disordinate. Mezz'ora dopo Dalroy aveva cominciato a percepire qualcosa di romantico e persino vagamente familiare nell'ondeggiare della campagna, e Humphrey Pump sapeva ormai da tempo di trovarsi ai confini della sua terra natia.
+
+
+
+
+Per quanto la differenza potesse essere definita da un dettaglio, essa pareva consistere non tanto nella [[motifs/road|strada]] che saliva quanto nella [[motifs/road|strada]] che serpeggiava perpetuamente. Somigliava piuttosto a un sentiero; e persino là dove era brusca o senza meta, pareva tanto più viva. Sembrava che stessero salendo una grande, fosca [[motifs/hill|collina]] fatta di una folla di piccole colline dalle cime arrotondate; era come un grappolo di cupole. Tra queste cupole la [[motifs/road|strada]] si arrampicava e si arricciava in moltitudini di curve e angoli. Era quasi impossibile credere che potesse voltarsi e ripiegarsi su se stessa così spesso senza annodarsi e strozzarsi.
+
+«Dico», disse Dalroy, rompendo d'improvviso il [[motifs/silence|silenzio]], «quest'auto avrà le vertigini e cadrà giù».
+
+
+
+
+«Forse», disse Dorian, rivolgendogli un sorriso raggiante, «la mia auto, come forse avrete notato, era assai più stabile».
+
+
+
+
+Patrick rise, ma non senza un'ombra d'imbarazzo. «[[concepts/hope|Spero]] abbiate riavuto la vostra auto sana e salva», disse. «Questa non vale davvero nulla quanto a [[characters/speed|velocità]]; ma è una piccola arrampicatrice straordinariamente brava, e pare avere un po' da arrampicare proprio adesso. E ancor più da vagabondare».
+
+
+
+
+«Le strade paiono di certo molto irregolari», disse Dorian, pensosamente.
+
+
+
+
+«[[motifs/well|Ebbene]]», esclamò Patrick, con una strana specie d'impazienza, «voi siete inglese e io no. Dovreste sapere perché la [[motifs/road|strada]] serpeggia così. Ma, che i Santi ci liberino!» gridò, «è uno dei torti dell'Irlanda che essa non riesca a comprendere l'Inghilterra. L'Inghilterra non vuole comprendere se stessa, l'Inghilterra non vuole dirci perché queste strade se ne vanno contorcendosi. Gli inglesi non vogliono dircelo! Voi non volete dircelo!»
+
+
+
+
+«Non siatene troppo sicuro», disse Dorian, con una tranquilla ironia.
+
+
+
+
+Dalroy, con un'ironia tutt'altro che tranquilla, emise un sonoro urlo di vittoria.
+
+
+
+
+«Giusto», gridò. «Altre canzoni del club dell'automobile! Siamo tutti poeti qui, [[concepts/hope|spero]]. Ciascuno scriva qualcosa sul perché la [[motifs/road|strada]] sobbalza così tanto. Tanto quanto questo, per esempio», aggiunse, mentre l'intero veicolo per poco non si rovesciava in un fosso.
+
+
+
+
+Poiché, in effetti, Pump pareva affrontare pendii più adatti a una capra che a una piccola automobile. Ciò può essere stato esagerato nelle emozioni dei suoi compagni, i quali entrambi, per ragioni diverse, avevano di recente veduto molta pura campagna piatta. La sensazione era come una combinazione tra il tentare di raggiungere il centro del labirinto di Hampton [[settings/court|Court]] e il salire la scala a chiocciola del Campanile di Bruges.
+
+
+
+
+«Questa è la strada giusta per Roundabout», disse Dalroy, allegramente, «luogo incantevole; sito salubre. Non potete sbagliarla. Prima a sinistra e a destra e sempre dritto oltre l'angolo e di nuovo indietro. Andrà bene per la mia poesia. Datevi da fare, fannulloni; perché non state scrivendo le vostre poesie?»
+
+
+
+
+«Ne tenterò una, se volete», disse Dorian, trattando con leggerezza il suo egotismo lusingato. «Ma è troppo buio per scrivere; e si fa sempre più buio».
+
+
+
+
+In effetti erano giunti sotto un'[[archetypes/shadow|ombra]] tra loro e le [[motifs/stars|stelle]], come la tesa del cappello di un gigante; solo attraverso i fori e gli squarci di essa le [[motifs/summer|estive]] [[motifs/stars|stelle]] potevano ora guardarli dall'alto. La [[motifs/hill|collina]], simile a un grappolo di cupole, benché liscia e persino spoglia nei suoi contorni inferiori, era sormontata da un groviglio di alberi arcuati che vi si posava sopra come un uccello che cova il proprio nido. Il bosco era più vasto e più indistinto del ciuffo che è la [[motifs/crown|corona]] della [[motifs/hill|collina]] di Chanctonbury, ma vi assomigliava piuttosto e occupava all'incirca la stessa posizione alta e romantica. Un istante dopo erano nel bosco stesso, e s'insinuavano dentro e fuori tra gli alberi lungo un nastro di sentieri. Il crepuscolo di smeraldo tra i fusti, unito alle contorsioni draconiche delle grandi radici grigie dei faggi, aveva un che di mostri e di mare profondo; tanto più che una lunga distesa di funghi cremisi e color rame, che [[motifs/well|ben]] avrebbero potuto essere i più splendidi tipi di anemoni o meduse, arrossava il suolo come un tramonto caduto dal cielo. Eppure, in modo abbastanza contraddittorio, avevano anche un forte senso di trovarsi in alto; e persino vicino al cielo; e le brillanti [[motifs/summer|estive]] [[motifs/stars|stelle]] che fissavano attraverso le fessure del tetto frondoso avrebbero potuto quasi essere bianchi fiori stellati sugli alberi del bosco.
+
+
+
+
+Ma sebbene fossero entrati nel bosco come se fosse una casa, la loro sensazione più forte restava quella rotatoria; pareva che quell'alta casa verde girasse e rigirasse come un faro rotante o come il tempio giravolta delle vecchie pantomime. Le [[motifs/stars|stelle]] parevano ruotare sopra le loro teste; e Dorian si sentiva quasi certo di aver visto due volte lo stesso faggio.
+
+
+
+
+Alla fine giunsero a un luogo centrale dove la [[motifs/hill|collina]] si [[motifs/rose|levava]] in una sorta di cono nel folto dei suoi alberi, sollevando i suoi alberi con sé. Qui Pump fermò l'auto e, inerpicandosi su per il pendio, giunse alle striscianti, colossali radici di un faggio grandissimo ma bassissimo. Si estendeva ai quattro angoli del cielo più alla maniera di una piovra che di un albero, e dentro la sua bassa [[motifs/crown|corona]] di rami vi era una sorta di cavità, come una coppa, nella quale il signor Humphrey Pump, della «Vecchia [[motifs/ship|Nave]]», Pebblewick, d'improvviso e interamente scomparve.
+
+
+
+
+Quando riapparve fu con una sorta di scala di corda, che appese cortesemente al bordo perché i suoi compagni vi salissero, ma il Capitano preferì slanciarsi su uno dei rami polipeschi con un turbinio di grandi gambe selvagge degno di uno scimpanzé. Quando si furono sistemati lassù, ciascuno appoggiato nella cavità contro un ramo, quasi comodo come in una poltrona, Humphrey stesso discese ancora una volta e cominciò a estrarre le loro semplici provviste. Il cane dormiva ancora nell'auto.
+
+
+
+
+«Un tuo vecchio ritrovo, Hump, suppongo», disse il Capitano. «Sembri proprio a [[motifs/home|casa]] tua».
+
+
+
+
+«Sono a [[motifs/home|casa]]», rispose Pump, con gravità, «all'insegna della "Vecchia [[motifs/ship|Nave]]"». E piantò la vecchia insegna azzurra e rossa ritta tra i funghi velenosi, come a invitare il passante ad arrampicarsi sugli alberi per bere qualcosa.
+
+
+
+
+L'albero sovrastava di poco il poggio o ciuffo di alberi, e da esso potevano vedere l'intera pianura della contrada che avevano attraversato, con le strade d'argento che vi vagavano dentro come fiumi. Erano tanto in alto da poter quasi immaginare che le [[motifs/stars|stelle]] li bruciassero.
+
+
+
+
+«Quelle strade mi ricordano le canzoni che avete tutti promesso», disse Dalroy alla fine. «Ceniamo un po', Hump, e poi recitiamo».
+
+
+
+
+Humphrey aveva appeso una delle lanterne dell'auto a un ramo sopra di sé, e procedette alla sua luce a spillare il barilotto di rum e a distribuire il formaggio.
+
+
+
+
+«Che cosa straordinaria», esclamò d'improvviso Dorian Wimpole. «Diamine, sto proprio comodo! Una cosa simile non è mai accaduta prima, immagino. E che sapore santo ha questo formaggio».
+
+«È andato in pellegrinaggio», rispose Dalroy, «o meglio in Crociata. È un formaggio eroico, combattente. "Formaggio di tutti i Formaggi, Formaggi di tutto il mondo", come dice il mio compatriota, il signor Yeats, al Non-so-che di Battaglia. È quasi impossibile che questo formaggio sia potuto uscire da una tale codarda quale una vacca. Suppongo», aggiunse, malinconicamente, «suppongo che non converrebbe spiegare che in questo caso Hump aveva munto il toro. Ciò verrebbe classificato dagli scienziati tra le leggende irlandesi... quelle che hanno l'incanto celtico e tutto il resto. No, credo che questo formaggio debba provenire da quella Vacca Bruna di Dunsmore Heath, che aveva corna più grandi delle zanne d'elefante, ed era tanto feroce che uno dei più grandi tra gli antichi eroi della cavalleria fu chiamato a darle battaglia. Anche il rum è buono. Mi sono guadagnato questo bicchiere di rum... me lo sono guadagnato con cristiana [[concepts/humility|umiltà]]. Per quasi un mese mi sono abbassato alle bestie dei campi, e sono andato a quattro zampe come un astemio. Hump, fa' circolare la bottiglia... voglio dire il barile... e concedici un po' di questa poesia di cui sei così entusiasta. Ogni poesia deve avere lo stesso titolo, sai; è un titolo formidabile. Si intitola "Un'Indagine sulle Cause geologiche, storiche, agricole, psicologiche, psichiche, morali, spirituali e teologiche dei presunti casi di [[topoi/double|doppia]], tripla, quadrupla e altra curvatura nella [[motifs/road|Strada]] inglese, condotta da una commissione segreta appositamente nominata dentro un buco in un albero, da autorità dichiaratamente giudiziose e accademiche appositamente nominate da se stesse per riferire al Cane [[characters/quoodle|Quoodle]], con facoltà di aggiungere al proprio numero e anche di togliere il numero che avevano pensato dapprima; Dio salvi il [[archetypes/king|Re]]"». Pronunciata questa formula con accecante rapidità, aggiunse piuttosto ansante: «ecco la nota da toccare, la nota [[forms/lyric|lirica]]».
+
+
+
+
+Con tutta la sua ilarità piuttosto informe, Dalroy continuava a colpire il poeta come più distratto degli altri, quasi la sua mente fosse alle prese con qualcosa di più grande sullo sfondo. Era in una sorta di trance creativa; e Humphrey Pump, che lo conosceva come la propria [[motifs/soul|anima]], sapeva [[motifs/well|bene]] che non era mera creazione letteraria. Era piuttosto una specie di creazione che molti moralisti moderni chiamerebbero distruzione. Poiché Patrick Dalroy era, non poco a sua sventura, ciò che si chiama un uomo d'azione; come il capitano Dawson comprese quando si ritrovò l'intera persona di un vivido verde pisello. Per quanto amasse gli scherzi e le rime, nulla che potesse scrivere o persino cantare lo appagava mai quanto qualcosa che potesse fare.
+
+
+
+
+Così accadde che il suo contributo all'indagine metrica sulle strade storte fosse dichiaratamente frettoloso e sbrigativo. Mentre Dorian, che era del temperamento opposto, il temperamento che riceve impressioni invece di spingersi a crearle, trovò il suo [[archetypes/artist|artistico]] [[motifs/love|amore]] per la [[concepts/beauty|bellezza]] appagato come mai prima in quel nobile nido; e fu assai più serio e umano del solito. I versi di Patrick recitavano:
+
+
+
+
+C'è chi dice che Guy di Warwick,
+
+
+
+
+l'uomo che uccise la Vacca,
+
+
+
+
+e domò vivo il possente Cinghiale,
+
+
+
+
+oltre il Ponte di Slough,
+
+
+
+
+mosse contro un Verme ripugnante
+
+
+
+
+che devastava tutte le Downs,
+
+
+
+
+e così le strade si torcono e si contorcono
+
+
+
+
+(se mi è concesso il termine)
+
+
+
+
+per il dimenarsi del Verme colpito
+
+
+
+
+che morì in sette borghi.
+
+
+
+
+Non vedo prova scientifica
+
+
+
+
+che questa idea sia fondata,
+
+
+
+
+e direi che serpeggiavano attorno
+
+
+
+
+per trovare il borgo di Roundabout,
+
+
+
+
+l'allegro borgo di Roundabout
+
+
+
+
+che fa girare il mondo.
+
+
+
+
+
+C'è chi dice che Robin Goodfellow,
+
+
+
+
+la cui lanterna illumina i prati,
+
+
+
+
+(per rubare una frase che Sir Walter Scott
+
+
+
+
+in cielo più non gli serve)
+
+
+
+
+guidi tale [[motifs/dance|danza]] attorno al luogo dell'incontro
+
+
+
+
+che l'[[archetypes/lover|amante]] rapito dalla luna conduce;
+
+
+
+
+superstizione che io respingerei;
+
+
+
+
+c'è più [[concepts/faith|fede]] in un onesto [[concepts/doubt|dubbio]],
+
+
+
+
+(come Tennyson ha fatto notare)
+
+
+
+
+che in quei laidi credi.
+
+
+
+
+Ma pace e giustizia (san Giovanni)
+
+
+
+
+a Roundabout possono baciarsi,
+
+
+
+
+e poiché è tutto ciò che si trova intorno
+
+
+
+
+al piacevole borgo di Roundabout,
+
+
+
+
+le strade semplicemente rimbalzano attorno
+
+
+
+
+per scoprire dove esso sia.
+
+
+
+
+
+C'è chi dice che quando Sir Lancillotto
+
+
+
+
+partì in cerca del Graal,
+
+
+
+
+il grigio Merlino corrugò le strade
+
+
+
+
+nella [[concepts/hope|speranza]] ch'egli fallisse;
+
+
+
+
+tutte le strade riconducevano a Lyonesse
+
+
+
+
+e a Camelot nella Valle;
+
+
+
+
+Non posso dare assenso a questa
+
+
+
+
+stravagante ipotesi,
+
+
+
+
+il semplice, accorto Britanno respingerà
+
+
+
+
+simili dicerie (Daily Mail).
+
+
+
+
+Ma nelle vie di Roundabout
+
+
+
+
+non si trovano fazioni siffatte,
+
+
+
+
+né teorie da esporre intorno
+
+
+
+
+né su cui rotolarsi al suolo intorno,
+
+
+
+
+nel felice borgo di Roundabout
+
+
+
+
+che fa girare il mondo».
+
+
+
+Patrick Dalroy sfogò i propri sentimenti concludendo con un grido, vuotando un bicchiere carico del suo vino da marinaio, rigirandosi inquieto sul gomito e guardando attraverso il paesaggio verso [[settings/london|Londra]].
+
+
+
+
+Dorian Wimpole aveva bevuto rum dorato e forte luce di stelle e la fragranza delle foreste; e, benché anche i suoi versi fossero burleschi, li lesse con più emozione di quanto gli fosse consueto.
+
+
+
+
+Prima che il Romano giungesse a Rye o marciasse fino al Severn,
+
+
+
+
+l'ondeggiante ubriacone inglese fece l'ondeggiante [[motifs/road|strada]] inglese.
+
+
+
+
+Una [[motifs/road|strada]] barcollante, una ondeggiante [[motifs/road|strada]], che vaga per la contea,
+
+
+
+
+e dietro a lui corsero il parroco, il sagrestano e lo squire.
+
+
+
+
+Una [[motifs/road|strada]] allegra, una [[motifs/road|strada]] labirintica, e tale quale calpestammo
+
+
+
+
+la [[motifs/night|notte]] che andammo a Birmingham passando per Beachy Head.
+
+
+
+
+
+Non sapevo alcun male di Bonaparte e molto dello Squire,
+
+
+
+
+e a combattere i Francesi non molto [[motifs/desire|desideravo]];
+
+
+
+
+ma sfondai le loro baionette perché vennero schierati
+
+
+
+
+a raddrizzare la storta [[motifs/road|strada]] che un ubriacone inglese fece,
+
+
+
+
+là dove tu ed io scendemmo il viottolo con i boccali di birra in mano
+
+
+
+
+la [[motifs/night|notte]] che andammo a Glastonbury passando per le Goodwin Sands.
+
+
+
+
+
+I suoi peccati gli furono perdonati; o perché corrono i [[motifs/flowers|fiori]]
+
+dietro a lui; e le siepi tutte rinvigorite al sole?
+
+
+
+
+La cosa selvaggia andò da sinistra a destra e non sapeva qual era quale,
+
+
+
+
+ma la [[motifs/rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
+
+
+
+
+Dio ci perdoni, né ci induri; non vedemmo così chiaro
+
+
+
+
+la [[motifs/night|notte]] che andammo a Bannockburn passando per il Molo di Brighton.
+
+
+
+
+
+Amici miei, non torneremo a andare né a scimmiottare un'antica ira,
+
+
+
+
+né a protrarre la follia della gioventù fino a farne la vergogna dell'età,
+
+
+
+
+ma percorreremo con occhi e orecchi più limpidi questo sentiero che vagabonda,
+
+
+
+
+e vedremo, non drogati, nella luce della sera, la decorosa locanda della [[motifs/death|Morte]];
+
+
+
+
+poiché vi sono ancora buone novelle da udire e belle cose da vedere
+
+
+
+
+prima di andare in Paradiso passando per Kensal Green».
+
+
+
+«Ne hai scritta una, Hump?» chiese Dalroy. Humphrey, che aveva scarabocchiato di gran lena sotto la lampada, alzò lo sguardo con un volto lugubre.
+
+
+
+
+«Sì», disse. «Ma scrivo con un grande svantaggio. Vedete, io so perché la [[motifs/road|strada]] fa le sue curve». E lesse assai rapidamente, tutto su una sola nota:
+
+
+
+
+La [[motifs/road|strada]] voltò dapprima verso sinistra
+
+
+
+
+dove la cava di Pinker fece la fenditura;
+
+
+
+
+il sentiero voltò poi verso destra
+
+
+
+
+perché il mastino soleva mordere;
+
+
+
+
+poi a sinistra, per via di Slippery Height,
+
+
+
+
+e poi di nuovo verso destra.
+
+
+
+
+Non potevamo prendere a sinistra perché
+
+
+
+
+sarebbe stato contro le leggi;
+
+
+
+
+lo Squire la chiuse ai tempi di [[archetypes/king|re]] Guglielmo
+
+
+
+
+perché era un Diritto di Passaggio.
+
+
+
+
+ancora a destra; per schivare il crinale di [[motifs/chalk|gesso]]
+
+
+
+
+dove il [[archetypes/ghost|Fantasma]] del Parroco soleva aggirarsi,
+
+
+
+
+finché qualcuno che il Parroco conosceva
+
+
+
+
+lo incontrò ubriaco fradicio a Callao.
+
+
+
+
+poi a sinistra, un lungo giro, per costeggiare
+
+
+
+
+la buona terra dove il vecchio Doggy Burt
+
+
+
+
+era padrone della [[motifs/crown|Corona]] e Coppa,
+
+
+
+
+e non volle cedere il suo possedimento;
+
+
+
+
+a destra, evitando il vecchio letto del [[motifs/river|fiume]],
+
+
+
+
+che cercarono di fargli prendere invece
+
+
+
+
+a destra, poiché dicono che Sir Gregory
+
+
+
+
+impazzì e lasciò in pace gli Zingari,
+
+
+
+
+e così hanno il loro accampamento al sicuro.
+
+
+
+
+E, benché non onesti, sono poveri,
+
+
+
+
+e questo è qualcosa; poi avanti
+
+
+
+
+e prima a destra... no, mi sbaglio!
+
+
+
+
+La seconda a destra, s'intende; la prima
+
+
+
+
+è quella che le sante sorelle maledirono,
+
+
+
+
+e nessuno sfida i loro tremendi giuramenti
+
+
+
+
+da quando il poliziotto perse i suoi abiti
+
+
+
+
+per colpa delle fate; di nuovo a destra,
+
+
+
+
+quella che era High Toby Lane,
+
+
+
+
+a sinistra presso il [[topoi/double|doppio]] larice e a destra
+
+
+
+
+finché la pietra miliare è in vista,
+
+
+
+
+perché la [[motifs/road|strada]] è solida e buona
+
+
+
+
+dalla pietra miliare in poi fino al bosco;
+
+
+
+
+e me lo disse il dottor Lowe
+
+
+
+
+che la zia del signor Wimpole conoscerebbe,
+
+
+
+
+il quale vive a [[settings/oxford|Oxford]] scrivendo libri,
+
+
+
+
+e non è così sciocco come sembra;
+
+
+
+
+I Romani fecero quel pezzetto
+
+
+
+
+e noi abbiamo fatto tutto il resto;
+
+
+
+
+dal che non pare si guadagni granché;
+
+
+
+
+a sinistra, e poi avanti come prima
+
+
+
+
+fin dove per poco non impiccarono Miss Browne,
+
+
+
+
+che disse loro di non tirarla giù,
+
+
+
+
+ma di allentare la fune o di lasciarla penzolare,
+
+
+
+
+perché era uno spreco di corda;
+
+
+
+
+ancora una volta a sinistra presso Hunker's Cleft,
+
+
+
+
+e a destra oltre l'olmo, e a sinistra,
+
+
+
+
+presso Pill's a destra presso Nineteen Nicks
+
+
+
+
+e a sinistra...»
+
+
+
+«No! No! No'! Hump! Hump! Hump!» gridò Dalroy in una sorta di terrore. «Non essere esauriente! Non fare lo scienziato, Hump, e non devastare il paese delle fate! Quanto va avanti? Ce n'è ancora molto?»
+
+
+
+
+«Sì», disse Pump, in modo impassibile. «Ce n'è ancora molto».
+
+
+
+
+«Ed è tutto vero?» domandò Dorian Wimpole, con interesse.
+
+
+
+
+«Sì», replicò Pump con un sorriso, «è tutto vero».
+
+
+
+
+«È esattamente la mia lagnanza», disse il Capitano. «Ciò che ti serve sono leggende. Ciò che ti serve sono menzogne, specie a quest'[[motifs/time|ora]] di [[motifs/night|notte]], e su un rum come questo, e nella nostra prima e ultima vacanza. Che ne pensi del rum?» chiese a Wimpole.
+
+
+
+
+«Riguardo a questo particolare rum, su questo particolare albero, in questo particolare momento», rispose Wimpole, «penso che sia il nettare degli dèi più giovani. Se mi chiedi in senso generale e sintetico cosa penso del rum... [[motifs/well|beh]], penso che sia piuttosto bizzarro».
+
+
+
+
+«Lo trovi un tantino dolce, suppongo», disse Dalroy, con una certa amarezza. «Sibarita! A proposito», disse bruscamente, «che parola sciocca è quella parola "Edonista"! Le persone davvero dedite all'[[concepts/self|auto]]-indulgenza in genere amano le cose aspre e non le dolci; cose amare come il caviale e i curry o che so io. Sono i Santi ad amare i dolci. Almeno ho conosciuto almeno cinque donne che erano praticamente sante, e tutte preferivano lo champagne dolce. Senti qua, Wimpole! Vuoi che ti racconti l'antica leggenda orale sull'origine del rum? Ti ho detto che ciò che volevi erano leggende. Bada di conservare questa, e di tramandarla ai tuoi figli; poiché, purtroppo, i miei genitori trascurarono con noncuranza il dovere di tramandarla a me. Dopo le parole "Un Contadino aveva tre figli…" tutto ciò che devo alla tradizione cessa. Ma quando gli ultimi tre ragazzi si incontrarono nella piazza del mercato del villaggio, succhiavano tutti bastoncini di zucchero. Nondimeno erano tutti scontenti, e, quel giorno, si separarono per sempre. Uno rimase nella fattoria del padre, bramando la propria eredità. Uno salì a [[settings/london|Londra]] a cercar fortuna, come le fortune si trovano oggi in quella città dimenticata da Dio. Il terzo fuggì per mare. E i primi due gettarono via i loro bastoncini di zucchero per la vergogna; e quello nella fattoria beveva sempre birra più scarsa e più aspra per l'[[motifs/love|amore]] del denaro; e quello che era in città beveva vini sempre più pregiati, affinché gli uomini vedessero ch'era ricco. Ma colui che fuggì per mare corse davvero a bordo col bastoncino di zucchero in bocca; e san Pietro o sant'Andrea, o chiunque sia il patrono degli uomini sulle barche, lo toccò e lo mutò in una fontana per il conforto degli uomini sul mare. Questa è la teoria del marinaio sull'origine del rum. Un'indagine rivolta a qualunque Capitano indaffarato con un nuovo equipaggio nell'atto di imbarcare un carico senza precedenti, ne trarrà un solidale assenso».
+
+
+
+
+«Il tuo rum, almeno», disse Dorian, di buon umore, «[[motifs/well|ben]] può produrre una fiaba. Ma, in verità, credo che tutto questo sarebbe stato una fiaba anche senza di esso».
+
+
+
+
+Patrick si sollevò dal suo trono arboreo, e si appoggiò al ramo con una curiosa e sincera sensazione di essere stato rimproverato.
+
+
+
+
+«La tua era una buona poesia», disse, con apparente noncuranza, «e la mia era pessima. La mia era pessima, in parte perché non sono un poeta come lo sei tu; ma quasi altrettanto perché stavo cercando di comporre un'altra canzone nello stesso [[motifs/time|tempo]]. E andava su un'altra melodia, vedi».
+
+
+
+
+Guardò fuori sulle ondeggianti strade e disse quasi tra sé:
+
+
+
+
+Nella [[motifs/city|città]] posata su melma e limo
+
+
+
+
+gridano nel loro parlamento «Chi va a [[motifs/home|casa]]?»
+
+
+
+
+E non v'è risposta in arco o cupola,
+
+
+
+
+poiché nessuno nella [[motifs/city|città]] delle tombe va a [[motifs/home|casa]].
+
+
+
+
+Eppure costoro periranno e comprenderanno,
+
+
+
+
+poiché Dio ha pietà di questa grande terra.
+
+
+
+
+Uomini che sono di nuovo uomini; chi va a [[motifs/home|casa]]?
+
+
+
+
+Campana a stormo e trombettiere! Chi va a [[motifs/home|casa]]?
+
+
+
+
+Poiché c'è [[motifs/blood|sangue]] sul campo e [[motifs/blood|sangue]] sulla schiuma,
+
+
+
+
+e [[motifs/blood|sangue]] sul [[concepts/body|corpo]] quando l'uomo va a [[motifs/home|casa]].
+
+
+
+
+E una voce d'addio... Chi è per la Vittoria?
+
+
+
+
+Chi è per la Libertà? Chi va a [[motifs/home|casa]]?»
+
+
+
+Per quanto sommessamente e con noncuranza avesse recitato questa seconda rima, vi erano circostanze nel suo atteggiamento che avrebbero turbato o interessato chiunque non lo conoscesse [[motifs/well|bene]].
+
+
+
+
+«Posso chiedere», domandò Dorian, ridendo, «perché sia necessario sguainare la tua spada a questo punto della faccenda?»
+
+
+
+
+«Perché abbiamo lasciato il luogo chiamato Roundabout», rispose Patrick, «e siamo giunti a un luogo chiamato Rightabout».
+
+
+
+
+E levò la sua spada verso [[settings/london|Londra]], e il grigio bagliore su di essa veniva da una bassa, grigia luce a oriente.
+
+CAPITOLO XXII: LA CHIMICA DEL SIGNOR CROOKE
+
+
+QUANDO il celebre Hibbs visitò la volta seguente la bottega di Crooke, quel farmacista mistico e criminologo, trovò i locali impressionantemente e persino stupefacentemente ampliati con decorazioni in stile orientale. In effetti, non sarebbe stato troppo dire che la bottega del signor Crooke occupava un intero lato di una sfarzosa via del West End; l'altro lato essendo una nuda facciata di edifici pubblici. Non sarebbe un'esagerazione dire che il signor Crooke era l'unico bottegaio per un certo tratto all'intorno. Il signor Crooke serviva tuttavia ancora nella sua bottega; e si affrettò cortesemente a servire il suo cliente con la medicina consueta. Purtroppo, per qualche ragione o l'altra, la [[concepts/history|storia]], in rapporto a questa bottega, era fin troppo incline a ripetersi. E dopo una conversazione vaga ma rassicurante col farmacista (sul tema del vetriolo e dei suoi effetti sulla felicità umana), il signor Hibbs provò l'acuto fastidio di scorgere ancora una volta il suo più intimo amico, il signor Joseph Leveson, entrare nel medesimo elegante emporio. Ma, in verità, il fastidio dello stesso Leveson era troppo acuto perché egli notasse quello da parte di Hibbs.
+
+
+
+
+«[[motifs/well|Ebbene]]», disse, arrestandosi di colpo in mezzo alla bottega, «ecco un bel pasticcio maledetto!»
+
+
+
+
+È una delle tragedie dei diplomatici che non è loro concesso di ammettere né conoscenza né ignoranza; così Hibbs assunse un'aria cupamente saggia; e disse, increspando le labbra: «intendi la situazione generale».
+
+
+
+
+«Intendo la situazione riguardo a questa eterna faccenda delle insegne di taverna», disse Leveson, con impazienza. «Lord Ivywood si recò apposta, quando la sua gamba stava davvero male, a farla sistemare alla Camera con un piccolo disegno di legge non contenzioso, che stabiliva che l'insegna non sarebbe bastata se il liquore non fosse stato sul posto da tre giorni».
+
+
+
+
+«Oh, ma», disse Hibbs, abbassando la voce a una morbida solennità, quale uno degli iniziati, «una cosa del genere si può gestire, non lo sai».
+
+
+
+
+«Certo che si può», disse l'altro, sempre con la stessa aria lievemente irritabile. «Lo è stata. Ma non pare venirti in mente, non più di quanto venisse a sua signoria, che c'è dopotutto un punto piuttosto debole in questa faccenda di far passare leggi in sordina perché sono impopolari. Ti è mai venuto in mente che se una legge è davvero tenuta troppo in sordina per essere osteggiata, può anche essere tenuta troppo in sordina per essere obbedita? Non è così facile tenerla nascosta a un grosso politico senza correre il rischio di tenerla nascosta perfino a un comune poliziotto».
+
+
+
+
+«Ma di certo ciò non può accadere, per la [[concepts/nature|natura]] delle cose?»
+
+
+
+
+«Non può, per Dio», disse J. Leveson, appellandosi a un'autorità meno panteistica.
+
+
+
+
+Estrasse dispiegandoli una quantità di fogli dalla tasca, per lo più giornali locali da poco prezzo, ma alcuni erano lettere e telegrammi.
+
+
+
+
+«Ascolta questo!» disse. «Un curioso incidente è accaduto ieri mattina nel villaggio di Poltwell nel Surrey. La bottega del fornaio, il signor Whiteman, è stata d'improvviso assediata da un capannello dei tipi più sregolati della località, i quali pare abbiano preteso birra invece di pane; fondando la loro pretesa su un certo oggetto ornamentale eretto fuori dalla bottega; oggetto che essi asserivano essere un'insegna ai sensi della legge. Ecco, vedi, non hanno nemmeno sentito parlare della nuova legge! Che ne pensi di questo, dal Clapton Conservator. "Il disprezzo dei Socialisti per la legge è stato [[motifs/well|ben]] illustrato ieri, quando una folla, radunatasi attorno a un certo vessillo di legno del Socialismo innalzato davanti ai Magazzini di Tessuti del signor Dugdale, si è rifiutata di disperdersi, benché le fosse stato detto che la sua azione era contraria alla legge. Alla fine i malcontenti si sono uniti alla processione che seguiva l'emblema di legno." E che dici di questo? "Ultimissime. Un farmacista di Pimlico è stato invaso da una folla enorme, che pretendeva birra; e asseriva che il fornirla rientrasse tra i suoi doveri. Il farmacista è, naturalmente, [[motifs/well|ben]] al corrente delle sue immunità in materia, specie sotto la nuova legge; ma la vecchia nozione dell'importanza dell'insegna pare possedere ancora il popolino e persino, in una certa misura, paralizzare la polizia." Che ne dici? Non è chiaro come il lunedì mattina che questa Taverna Volante è volata un giorno davanti a noi, come fanno tutte le menzogne di tal fatta?» Vi fu un diplomatico [[motifs/silence|silenzio]].
+
+
+
+
+«[[motifs/well|Allora]]», chiese l'ancora adirato Leveson all'ancora dubbioso Hibbs, «che cosa ne ricavi di tutto ciò?»
+
+
+
+
+Chi fosse poco pratico di quella relatività essenziale a tutte le menti moderne, avrebbe forse potuto immaginare che il signor Hibbs non ne ricavasse granché. Comunque sia, le sue spiegazioni, o incapacità di spiegazioni, furono presto messe alla prova con una prova alquanto concreta. Poiché Lord Ivywood entrò davvero nella bottega del signor Crooke.
+
+
+
+
+«Buon giorno, signori», disse, guardandoli con un'espressione che a entrambi parve sconcertante e persino un poco imbarazzante. «Buon giorno, signor Crooke. Ho un visitatore celebre per voi». E presentò il sorridente Misysra. Il [[archetypes/prophet|Profeta]] era ripiegato quella mattina su un costume relativamente sobrio, mera questione di viola e arancione o che so io; ma il suo volto attempato era ormai perennemente festoso.
+
+
+
+
+«La Causa progredisce», disse. «Ovunque la Causa progredisce. Avete udito il bel-lis-simo discorso di sua signoria?»
+
+
+
+
+«Ne ho uditi molti», disse Hibbs, con grazia, «che si possono descrivere così».
+
+
+
+
+«Il [[archetypes/prophet|Profeta]] intende ciò che dicevo a proposito della Legge di Emendamento sulla Scheda Elettorale», disse Ivywood, con noncuranza. «Pare essere l'abbicì dell'arte di governo riconoscere ormai che il grande Impero Britannico orientale è divenuto un tutt'uno corporativo con quello occidentale. Guardate le nostre università, coi loro studenti maomettani; presto potrebbero essere la maggioranza. Ora, dobbiamo noi», proseguì, ancor più pacatamente, «dobbiamo governare questo paese sotto le forme del governo rappresentativo? Non pretendo di credere nella [[concepts/democracy|democrazia]], come sapete, ma penso che sarebbe estremamente destabilizzante e incalcolabile distruggere il governo rappresentativo. Se dobbiamo dare alla Britannia musulmana un governo rappresentativo, non dobbiamo commettere l'errore che commettemmo con gli Indù e l'organizzazione militare... che condusse all'Ammutinamento. Non dobbiamo chiedere loro di fare una [[motifs/cross|croce]] sulle loro schede elettorali; poiché, benché paia cosa da poco, potrebbe offenderli. Così ho presentato una piccola legge per rendere facoltativa la scelta tra l'antiquata [[motifs/cross|croce]] e un segno curvo verso l'alto che potrebbe stare per una mezzaluna... e poiché è piuttosto più facile da tracciare, credo che sarà generalmente adottato».
+
+«E così», disse il raggiante vecchio Turco, «il piccolo, lieve, facile segno ricciuto viene sostituito al duro, difficile segno dal [[topoi/double|doppio]] tratto, che taglia in entrambi i sensi. È più buono per l'i-gi-ene. Poiché dovete sapere, e in verità il nostro buono e saggio Chimico ve lo dirà, che i medici saraceni e arabi e turchi furono i primi di tutti i medici; e insegnarono ogni scienza medica ai barbari dei territori franchi. E molti dei più moderni, dei più alla moda rimedi, sono così di origine orientale».
+
+
+
+
+«Sì, è del tutto vero», disse Crooke, nel suo modo piuttosto criptico e scostante, «la polvere chiamata Arenina, resa popolare di recente dal signor Boze, ora Lord Helvellyn, che la provò dapprima sugli [[motifs/birds|uccelli]], è fatta di semplice sabbia del [[motifs/desert|deserto]]. E ciò che vedete nelle ricette come Cannabis Indiensis è quello che i nostri vivaci vicini d'Asia descrivono più energicamente come bhang».
+
+
+
+
+«E co-osì... allo ste-esso modo», disse Misysra, compiendo gesti rasserenanti con la mano bruna come un mesmerista, «allo ste-esso modo il tracciare la mezzaluna è i-gie-nico; il tracciare la [[motifs/cross|croce]] è non-i-gie-nico. La mezzaluna era una piccola onda, come una foglia, come una piccola piuma arricciata», e agitò la mano con vero entusiasmo artistico verso le saltellanti volute della nuova decorazione turca che Ivywood aveva reso di moda in molte delle botteghe alla moda. «Ma quando fate la [[motifs/cross|croce]] dovete fare la prima linea co-osì», e spazzò l'orizzonte con la mano bruna, «e poi dovete tornare indietro e fare l'altra linea co-osì», e fece un gesto verso l'alto, come di chi è costretto a sollevare un pino. «E allora divenite molto malati».
+
+
+
+
+«A dire il vero, signor Crooke», disse Ivywood, nella sua maniera cortese, «ho condotto qui il [[archetypes/prophet|Profeta]] per consultarvi quale migliore autorità sul punto stesso che avete or ora menzionato... l'uso dell'hashish o della pianta della canapa. Ho sulla [[concepts/conscience|coscienza]] il decidere se questi stimolanti o sedativi orientali debbano ricadere sotto il veto generale che stiamo tentando di imporre ai volgari inebrianti. Certo si è sentito parlare delle visioni orribili e voluttuose, e di una sorta di follia attribuita agli Assassini e al Vecchio della Montagna. Ma, da un lato, dobbiamo chiaramente scontare molto per lo sterminato pregiudizio pro-cristiano con cui la [[concepts/history|storia]] di queste tribù orientali è raccontata in questo paese. Direste che l'effetto dell'hashish è estremamente cattivo?» E si volse dapprima al [[archetypes/prophet|Profeta]].
+
+
+
+
+«Vedrete moschee», disse quel veggente con candore, «molte moschee... altre moschee... moschee sempre più alte finché toccano la [[motifs/moon|Luna]] e voi udite una voce tremenda nell'altissima moschea che chiama il muezzin; e penserete che sia Allah. Poi vedrete mogli... molte, molte mogli... più mogli di quante ne abbiate ancora. Poi sarete rotolato più e più volte in un grande mare rosa e viola... che è ancora mogli. Poi andrete a [[motifs/sleep|dormire]]. L'ho fatto una volta soltanto», concluse mitemente.
+
+
+
+
+«E voi cosa pensate dell'hashish, signor Crooke?» chiese Ivywood, pensosamente.
+
+
+
+
+«Penso che sia canapa a entrambe le estremità», disse il Chimico.
+
+
+
+
+«[[concepts/fear|Temo]]», disse Lord Ivywood, «di non comprendervi del tutto».
+
+
+
+
+«Una bevanda di canapa, un omicidio, e una corda di canapa. Ecco la mia esperienza in India», disse il signor Crooke.
+
+
+
+
+«È vero», disse Ivywood, ancor più riflessivamente, «che la cosa non è musulmana in alcun senso nella sua origine. C'è sempre questo contro gli Assassini. E, naturalmente», aggiunse, con una semplicità che aveva in sé qualcosa di nobile, «il loro legame con san Luigi li scredita piuttosto».
+
+
+
+
+Dopo un intervallo di [[motifs/silence|silenzio]], disse d'improvviso, guardando Crooke: «Dunque non è il genere di cosa che vendete principalmente?»
+
+
+
+
+«No, mio signore, non è ciò che vendo principalmente», disse il Chimico. Anch'egli guardava con fermezza, e le rughe del suo volto giovane-vecchio erano come geroglifici.
+
+
+
+
+«La Causa progredire! Ovunque essa progredire!» gridò Misysra, allargando le braccia e allentando una momentanea tensione della quale era del tutto inconsapevole. «La curva igienica della mezzaluna presto si sovrapporrà al vostro segno più. Già lo usate per le sillabe brevi nel vostro dattilo; il quale è senza dubbio di origine orientale. Vedete il nuovo gioco?»
+
+
+
+
+Disse ciò così all'improvviso che tutti si voltarono, per vederlo estrarre dai suoi indumenti viola un apparecchio dai vivaci colori e altamente lucidato, proveniente da uno dei grandi negozi di giocattoli; il quale, a un esame, pareva consistere in una sorta di lavagna azzurra in una cornice rossa e gialla; con un certo numero di divisioni già segnate sulla lavagna, una diciassettina di matite di ardesia con cappucci di colori diversi, e una vasta quantità di istruzioni stampate, che affermavano essere stato introdotto solo di recente dal remoto Oriente, e chiamarsi Zeri e Mezzelune.
+
+
+
+
+Stranamente, Lord Ivywood, con tutto il suo entusiasmo, parve quasi seccato dall'emergere di questa scoperta asiatica; tanto più che desiderava davvero guardare il signor Crooke, con la stessa intensità con cui il signor Crooke guardava lui.
+
+
+
+
+Hibbs tossì con riguardo e disse: «Naturalmente tutte le nostre cose vennero dall'Oriente, e»... e si arrestò, incapace d'un tratto di ricordare alcunché tranne il curry; al quale era assai giustamente affezionato. Poi si ricordò del [[historical-references/christianity|Cristianesimo]], e menzionò anche quello. «Tutto ciò che viene dall'Oriente è buono, naturalmente», concluse, con un'aria di lieve onniscienza.
+
+
+
+
+Coloro che in epoche successive e altre mode non riuscirono a capire come Misysra avesse mai preso un ascendente mentale su uomini come Lord Ivywood, tralasciarono due elementi nell'uomo, che sono molto attraenti, specie per altri uomini. Uno era che non v'era argomento sul quale il piccolo Turco non potesse all'istante produrre una teoria. L'altro era che, per quanto affollate, le teorie erano coerenti. Non lo si vide mai accettare un complimento illogico.
+
+
+
+
+«Siete in errore», disse, solennemente, a Hibbs, «perché dite che tutte le cose dall'Oriente sono buone. C'è il [[motifs/wind|vento]] d'oriente. Non mi piace. Non è buono. E penso proprio che tutto il calore e tutta la ricchezza e i colori e i poemi e la religiosità che l'Oriente doveva darvi siano stati molto avvelenati da questo accidente, questo [[motifs/wind|vento]] d'oriente. Quando vedete la verde [[motifs/flag|bandiera]] del [[archetypes/prophet|Profeta]], non pensate a un verde campo d'[[motifs/summer|estate]], pensate a un'onda verde nei vostri mari d'[[motifs/winter|inverno]]; poiché la credete soffiata dal [[motifs/wind|vento]] d'oriente. Quando leggete delle uri dal volto di [[motifs/moon|luna]] non pensate alle nostre lune come arance ma alle vostre lune come palle di neve...»
+
+Qui una nuova voce si aggiunse alla conversazione. Il suo contributo, benché imperfettamente compreso, pareva essere: «Nar! Perché dovrei aspettà un ometto ebreo in vestaglia? Gli ometti ebrei in vestaglia si bevono le loro bevute, e noialtri ci beviamo le nostre. Una bitter, signorina.»
+
+
+
+
+Chi aveva parlato, che sembrava un individuo robusto di professione stuccatore, si guardò intorno cercando la femmina nubile a cui si era cerimoniosamente rivolto; e parve onestamente confuso di non trovarla presente.
+
+
+
+
+Ivywood guardò l'uomo con quell'espressione di chi è tramutato in pietra, che la sua costituzione fisica rendeva in lui così efficace. Ma J. Leveson, segretario, non poteva evocare simili poteri di [[concepts/self|auto]]pietrificazione. Sulla sua [[motifs/soul|anima]] si levava il rosso massacro di quella vigilia empia in cui per la prima volta la [[motifs/ship|Nave]] e lui erano stati nemici; quando scoprì che i poveri sono esseri umani, e perciò sono cortesi e brutali in un lasso di [[motifs/time|tempo]] relativamente breve. Vide che altri due uomini stavano dietro allo stuccatore, e uno di loro pareva esortarlo a consigli di moderazione; il che era un segno di malaugurio. Poi alzò gli occhi e vide qualcosa di peggiore di qualunque presagio.
+
+
+
+
+Tutta la vetrata della bottega era una nube di volti accalcati. Non si potevano vedere distintamente, poiché la [[motifs/night|notte]] calava sulla strada; e i fuochi abbaglianti di rubino e ametista che la bottega illuminata donava ai suoi grandi globi di liquido li velavano più che rivelarli. Ma i primi schiacciavano e sbiancavano davvero il naso contro il vetro, e i più lontani erano più vicini di quanto il signor Leveson desiderasse. Vide anche una forma eretta fuori della bottega; la forma di un'asta diritta e di una tavola quadrata. Non riusciva a vedere che cosa vi fosse scritto. Non aveva bisogno di vederlo.
+
+
+
+
+Chi vedeva Lord Ivywood in simili momenti comprendeva perché egli spiccasse così fortemente nella [[concepts/history|storia]] del suo [[motifs/time|tempo]], a dispetto del volto gelido e dei suoi dogmi bizzarri. Possedeva tutta la nobiltà negativa che è concessa all'uomo. A differenza di Nelson e della maggior parte dei grandi eroi, egli non conosceva la [[concepts/fear|paura]]. Così non fu mai vinto da una sorpresa, ma restava freddo e padrone di sé quando altri avevano perso la testa, anche se non avevano perso il sangue freddo.
+
+
+
+
+«Non vi nasconderò, signori,» disse Lord Ivywood, «che me lo aspettavo. Non vi nasconderò nemmeno che ho occupato il [[motifs/time|tempo]] del signor Crooke fino a quando ciò è accaduto. Lungi dall'escludere la folla, suggerisco che sarebbe cosa eccellente se il signor Crooke potesse accoglierli tutti in questa bottega. Voglio dire al più presto, alla folla più numerosa possibile, che la legge è mutata e che questa follia della Locanda Volante è finita. Entrate, tutti quanti! Entrate e ascoltate!»
+
+
+
+
+«Grazie a lei,» disse un uomo in qualche modo legato agli autobus, che entrò barcollando dietro lo stuccatore.
+
+
+
+
+«Grazie, signore,» disse un piccolo e vispo riparatore di [[motifs/clock|orologi]] di Croydon, che lo seguì subito.
+
+
+
+
+«Grazie,» disse un impiegato alquanto smarrito di Camberwell, che venne appresso nella processione alquanto smarrita.
+
+
+
+
+«Grazie,» disse il signor Dorian Wimpole, che entrò portando un grande formaggio rotondo.
+
+
+
+
+«Grazie,» disse il capitano Dalroy, che entrò portando una grande botte di rum.
+
+
+
+
+«Grazie infinite,» disse il signor Humphrey Pump, che entrò nella bottega portando l'insegna della «Vecchia [[motifs/ship|Nave]]».
+
+
+
+
+[[concepts/fear|Temo]] si debba registrare che la folla che li seguiva rinunciò a ogni espressione di gratitudine. Ma benché la folla riempisse la bottega al punto che non restava spazio per stare in piedi, Leveson tornò a levare gli occhi cupi e contemplò il suo cupo presagio. Poiché, sebbene vi fossero molte più persone in piedi nella bottega, non parevano essercene di meno a guardare dalla [[motifs/window|vetrina]].
+
+
+
+
+«Signori,» disse Ivywood, «ogni scherzo giunge alla fine. Questo si è spinto tanto oltre da diventare cosa seria; e sarebbe potuto divenire impossibile correggere l'opinione pubblica ed esporre ai cittadini rispettosi della legge il vero stato del diritto, se non avessi potuto incontrare un'assemblea tanto rappresentativa in un luogo tanto centrale. Non è pertinente al mio scopo indicare che cosa penso della beffa che il capitano Dalroy e i suoi amici vi hanno giocato nelle ultime settimane. Ma credo che il capitano Dalroy stesso ammetterà che io non sto scherzando.»
+
+
+
+
+«Con tutto il cuore,» disse Dalroy, in un modo insolitamente serio e persino triste. Poi aggiunse con un sospiro: «E come dite giustamente, la mia beffa è giunta alla fine.»
+
+
+
+
+«Quell'insegna di legno,» disse Ivywood, indicando la strana [[motifs/ship|nave]] azzurra, «può essere spaccata per farne legna da ardere. Non guiderà più i cittadini perbene in una [[motifs/dance|danza]] indiavolata. Capitelo una volta per tutte, prima di apprenderlo dai poliziotti o dai secondini della [[motifs/prison|prigione]]. Siete sottoposti a una nuova legge. Quell'insegna non è insegna di nulla. Non potete comprare e vendere alcol tenendo quella cosa fuori della vostra casa, più di quanto potreste se fosse un lampione.»
+
+
+
+
+«Vuol dì, capo,» disse lo stuccatore, con un [[motifs/dawn|albore]] d'intelligenza sul faccione che faceva quasi paura a vedersi, «che nun me devo beve un boccale de bitter?»
+
+
+
+
+«Provi un bicchiere di rum,» disse Patrick.
+
+
+
+
+«Capitano Dalroy,» disse Lord Ivywood, «se date una sola goccia di quella botte a quell'uomo, violate la legge e [[motifs/sleep|dormirete]] in prigione.»
+
+
+
+
+«Ne siete proprio certo?» chiese Dalroy, con una strana sorta d'ansia. «Potrei fuggire.»
+
+
+
+
+«Ne sono certissimo,» disse Ivywood. «Ho disposto la polizia con pieni poteri a tale scopo, come constaterete. Intendo che questa faccenda finisca qui stanotte.»
+
+
+
+
+«Se trovo quer piedipiatti che m'ha detto che potevo beve un attimo fa, je pijo l'elmo e je lo riduco a 'na bella cravatta, io,» disse lo stuccatore. «Perché nun se pò fà sapé la legge a la gente?»
+
+
+
+
+«Nun c'hanno diritto de cambià la legge così ar buio,» disse il riparatore di [[motifs/clock|orologi]]. «Ar diavolo la legge nova.»
+
+
+
+
+«Qual è la nuova legge?» chiese l'impiegato.
+
+
+
+
+«Le parole inserite dalla recente legge,» disse Lord Ivywood, con la fredda cortesia del Conquistatore, «stabiliscono che l'alcol non può essere venduto, neppure sotto un'insegna legittima, a meno che i liquori alcolici non siano stati custoditi per tre giorni sul luogo. Capitano Dalroy, quella vostra botte non è stata, credo, tre giorni in questi locali. Vi ordino di sigillarla e di portarla via.»
+
+“Certo,” disse Patrick con un’aria [[archetypes/innocent|innocente]], “il miglior rimedio sarebbe aspettare che siano trascorsi tre giorni. Così potremmo conoscerci meglio tutti quanti.” E guardò intorno alla folla sempre più numerosa, con uno sguardo vago e benevolo.
+
+
+
+
+“Non dovrai fare nulla del genere,” disse il suo signore, con improvvisa ferocia.
+
+
+
+
+“Beh,” rispose Patrick, con stanchezza, “adesso che ci penso, forse non lo farò. Beverò qualcosa qui e poi andrò a [[motifs/home|casa]] a dormire come un bravo bambino.”
+
+
+
+
+“E gli agenti di polizia vi arresteranno,” tuonò Ivywood.
+
+
+
+
+“Ma niente sembra soddisfarti,” disse sorpreso Dalroy. “Comunque, grazie per aver spiegato la nuova legge in modo così chiaro, ‘A meno che i liquori alcolici non siano stati presenti nel locale per tre giorni’. Ora me lo ricorderò. Tu spieghi sempre queste cose con grande chiarezza. Hai commesso soltanto un errore legale. Gli agenti di polizia non mi arresteranno.”
+
+
+
+
+“E perché no?”, chiese il nobile, pallido per la passione.
+
+
+
+
+“Perché,” gridò Patrick Dalroy; la sua voce si alzò come una tromba solitaria prima di un assalto, “perché non ho infranto la legge. Perché alcolici sono stati in questo negozio per tre giorni. E probabilmente per altri tre mesi ancora. Perché questo è un semplice negozio di alcolici, Philip Ivywood. Perché quell’uomo dietro il bancone vive vendendo alcolici a tutti quei codardi e ipocriti che hanno abbastanza soldi da corrompere un cattivo medico.”
+
+
+
+
+E all'improvviso indicò il piccolo bicchiere di vetro per medicinali posato sul bancone vicino a Hibbs e Leveson.
+
+
+
+
+“Che cosa sta bevendo quell’uomo?” chiese.
+
+
+
+
+Hibbs allungò rapidamente la mano per prendere il suo bicchiere, ma il furioso riparatore di orologi lo aveva già afferrato e lo svuotato in un sorso.
+
+
+
+
+“Scortch,” disse, e mandò il bicchiere in mille pezzi sul pavimento. “Anche tu, proprio tu,” ruggì il muratore, afferrando una grande bottiglia di medicina in ogni mano. “Ora ci divertiremo un po’, sì. Cosa c’è in quella grande ciotola rossa lassù? Penso sia vino. Portamela giù, Bill.”
+
+
+
+
+“È una bugia,” disse Ivywood rivolgendosi a Crooke, con le labbra quasi immobili come marmo.
+
+
+
+
+“È la [[concepts/truth|verità]]”, rispose Crooke, guardandolo con lo stesso fermezza. “Pensi davvero di essere stato tu a creare il mondo, per poterlo ricostruire così facilmente?”
+
+
+
+
+“Il mondo è stato creato male,” disse Philip, con un tono terribile nella voce, “e io lo creerò di nuovo.”
+
+
+
+
+Appena ebbe finito di parlare, il vetro frontale del negozio crollò all’interno, frantumandosi; tra le ciotole colorate, simili alla luna, rimasero solo rottami. Era come se sfere di cristallo celestiale si fossero spezzate a causa della sua blasfemia. Attraverso le finestre rotte giunse il ruggito di quella lingua confusa e terribile. Il grido che i re sordi avevano finalmente udito: la voce spaventosa dell’umanità. Lungo tutta la strada elegante, fiancheggiata da vetrine di cristallo, il vetro andava in frantumi tra le urla della folla; fiumi di vini dorati e viola si riversavano sul marciapiede.
+
+
+
+
+“Fuori, all’aperto!” gridò Dalroy, uscendo di corsa dal negozio con il cartello in mano; il cane [[characters/quoodle|Quoodle]] abbaiava furiosamente alle sue calcagna, mentre Dorian con il formaggio e Humphrey con la botte lo seguivano il più velocemente possibile. “Buonanotte, mio signore.”
+
+
+
+
+“Forse il nostro prossimo incontro non avrà luogo…”
+
+
+
+
+Nella sala del castello di Tomworth.
+
+
+
+“Venite con me, amici, e mettetevi in fila. Non sprecate [[motifs/time|tempo]] distruggendo cose. Dobbiamo iniziare tutti subito.”
+
+
+
+
+“Dove andremo tutti?” chiese il muratore.
+
+
+
+
+“Tutti andremo in Parlamento,” rispose il Capitano, avvicinandosi alla testa della folla.
+
+
+
+
+La folla in marcia svoltò due o tre angoli, e alla fine della strada successiva, Dorian Wimpole, che si trovava verso la fine della processione, vide di nuovo la torre grigia del Ciclope di St. Stephens, con quel suo grande occhio dorato, esattamente come l’aveva vista contro quel tramonto verde pallido che sembrava al tempo stesso tranquillo e “volcanico” nella [[motifs/night|notte]] in cui fu tradito dal [[motifs/sleep|)sogno]] e da un amico. Più lontano, alla testa della processione, riusciva a vedere il cartello con la [[motifs/ship|nave]] e la [[motifs/cross|croce]] che li precedevano come una bandiera, e sentiva una voce potente cantare.
+
+
+
+
+“Uomini che sono di nuovo uomini. Chi torna a [[motifs/home|casa]]?”
+
+
+
+
+Tocchino e trombettista! Chi va a [[motifs/home|casa]]?
+
+
+
+
+La voce che si congedava, chi è a favore della Vittoria?
+
+
+
+
+Chi è a favore della Libertà? Chi torna a [[motifs/home|casa]]?
+
+CAPITOLO XXIII: LA MARCIA SU IVYWOOD
+
+
+QUELLO spirito della [[motifs/storm|tempesta]], o aquila della libertà, che è l'improvvisa [[motifs/soul|anima]] di una folla, era disceso su [[settings/london|Londra]] dopo una tournée straniera di alcuni secoli, durante la quale si era comunemente posato su altre capitali. È sempre impossibile definire l'istante e la svolta d'umore che fanno tutta la differenza tra il pericolo che diventa peggiore della [[concepts/endurance|sopportazione]] e la [[concepts/endurance|sopportazione]] che diventa peggiore del pericolo. Lo scoppio vero e proprio ha in genere una causa simbolica o artistica, o, come alcuni direbbero, capricciosa. Qualcuno spara con una [[characters/pistol|pistola]], o compare in un'uniforme impopolare, o allude a voce alta a uno scandalo che non è mai menzionato sui giornali; qualcuno si toglie il cappello, o qualcuno non si toglie il cappello; e una [[motifs/city|città]] viene messa a sacco prima di mezzanotte. Quando l'esercito della rivolta, che si gonfiava di continuo, mandò in frantumi un'intera via piena di negozi del signor Crooke, il chimico, e poi proseguì verso il Parlamento, la Torre di [[settings/london|Londra]] e la [[motifs/road|strada]] verso il mare, i sociologi nascosti nelle loro carbonaie potevano pensare (in quell'oscurità chiarificatrice) a molte spiegazioni materiali e spirituali di una simile [[motifs/storm|tempesta]] negli animi umani; ma a nessuna che la spiegasse del tutto. Senza dubbio vi fu un bel po' di pura ubriachezza quando le urne e i calici di Esculapio furono reclamati come appartenenti a Bacco: e molti che andavano ruggendo giù per quella [[motifs/road|strada]] erano semplicemente colmi di vini pregiati e liquori che si digeriscono più comodamente e più tranquillamente a un banchetto di [[motifs/city|città]] o in un ristorante del West End. Ma molti di costoro si erano ubriacati fino a perdere i sensi venti volte senza il minimo pensiero di ribellione; non si poteva stiracchiare la spiegazione materiale fino a coprire un angolo del caso. Assai più diffuso era un feroce senso della meschinità dei facoltosi clienti di Crooke, nel tenere aperta per sé una porta che avevano sconsideratamente chiuso a gente meno fortunata. Ma nessuna spiegazione può spiegarlo; e nessuno può dire quando verrà.
+
+
+
+
+Dorian Wimpole si trovava in coda al corteo, che a ogni istante si faceva sempre più affollato. Per un tratto della marcia ebbe persino la sventura di perderlo del tutto; a causa della sorprendente attività che il rotondo formaggio, sfuggitogli di mano, dimostrò nel discendere una [[motifs/road|strada]] piuttosto ripida verso il [[motifs/river|fiume]]. Ma nei giorni recenti egli aveva acquistato un piacere per gli eventi pratici che era come una seconda giovinezza. Riuscì a trovare un taxi vagante; e non ebbe grande difficoltà a ritrovare la traccia dello straordinario corteo. Le domande rivolte a un poliziotto con un occhio nero fuori dalla Camera dei Comuni lo informarono a sufficienza sulla linea di ritirata o di avanzata dei ribelli, o qualunque cosa fosse; e in pochissimo [[motifs/time|tempo]] scorse di nuovo l'inconfondibile legione. Era inconfondibile, perché davanti a essa camminava un gigante dai capelli rossi, che apparentemente portava con sé una porzione lignea di qualche edificio pubblico; e anche perché una folla così grande non aveva più seguito alcun uomo in Inghilterra da lungo [[motifs/time|tempo]]. Ma, se non fosse per cose simili, l'inconfondibile folla avrebbe [[motifs/well|bene]] potuto essere scambiata per un'altra. Il suo aspetto era mutato quasi quanto se le fossero spuntate corna o zanne; poiché molti della compagnia camminavano con armi bizzarre come denti o corni di ferro, roncole e alabarde, e lance dalle punte stranamente foggiate. Cosa ancora più strana, intere file e file di essi avevano fucili, e marciavano persino con una certa disciplina; e altri ancora sembravano aver arraffato utensili domestici o da bottega, mannaie, picconi, martelli e persino coltelli da trinciare. Simili oggetti non sono meno letali per il fatto d'essere domestici. Hanno figurato in milioni di omicidi privati prima di comparire in una qualsiasi guerra pubblica.
+
+
+
+
+Dorian ebbe la fortuna d'incontrare il Capitano dalla chioma di fiamma quasi faccia a faccia, e con facilità si mise al passo con lui in testa alla marcia. Humphrey Pump camminava sull'altro lato, con la celebre botticella sospesa al collo per mezzo di qualcosa che somigliava a bretelle, come se fosse un tamburo. Il signor Wimpole aveva egli stesso approfittato del suo breve smarrimento per portare il formaggio un po' più agevolmente in un grandissimo e ampio zaino impermeabile sulle spalle. L'effetto, in entrambi i casi, era di suggerire deformità spaventose in due persone che si dava il caso fossero eccezionalmente ben fatte. Il Capitano, che pareva essere di spiriti sfrenati e traboccanti, ne traeva gran piacere. Ma anche Dorian aveva le sue fonti di divertimento.
+
+
+
+
+«Cosa avete combinato da quando avete perduto la mia giudiziosa guida?» chiese ridendo, «e perché in parte sembrate una cupa rassegna militare e in parte un ballo in maschera? Cosa avete fatto?»
+
+
+
+
+«Siamo stati a far compere,» disse il signor Patrick Dalroy, con un certo [[concepts/pride|orgoglio]]. «Siamo cugini di campagna. So tutto sul far compere; vediamo, quali sono le frasi al riguardo? Guardate quei fucili, ora! Li abbiamo avuti proprio a buon prezzo. Siamo andati da tutti i migliori armaioli di [[settings/london|Londra]], e non abbiamo pagato molto. In effetti, non abbiamo pagato nulla. Questo è ciò che si chiama un affare, non è vero? Di certo ho visto, in quei foglietti che mandano alle signore, qualcosa sul "regalarle". Poi siamo andati a una svendita di rimanenze. O almeno, era una svendita di rimanenze quando siamo usciti. E abbiamo comprato quel pezzo di stoffa che abbiamo legato intorno all'insegna. Di certo dev'essere ciò che le signore chiamano chiffon?»
+
+
+
+
+Dorian alzò gli occhi e si accorse che una striscia di rozzissimo cencio rosso, forse raccolta da un bidone della [[motifs/dust|spazzatura]], era stata legata intorno all'asta lignea dell'insegna a mo' di rossa [[motifs/flag|bandiera]] della rivoluzione.
+
+
+
+
+«Non ciò che le signore chiamano chiffon?» s'informò il Capitano con ansia. «[[motifs/well|Ebbene]], comunque sia, è ciò che gli straccivendoli chiamano così. Ma poiché tra poco farò visita a una signora, cercherò di ricordare la distinzione.»
+
+
+
+
+«Le vostre compere sono finite, posso chiedere?» domandò il signor Wimpole.
+
+
+
+
+«Tutte tranne una cosa,» rispose l'altro. «Devo trovare un negozio di musica – sapete cosa intendo. Un posto dove vendono pianoforti e cose del genere.»
+
+«Senti un po',» disse Dorian, «questo formaggio è già abbastanza pesante così com'è. Devo forse portare anche un pianoforte?»
+
+
+
+
+«Mi fraintendete,» disse il Capitano, con calma. E poiché non aveva mai pensato ai negozi di musica finché il suo occhio non ne aveva colto uno un istante prima, si precipitò nell'ingresso. Tornando quasi subito con un lungo pacco sotto il braccio, riprese la conversazione.
+
+
+
+
+«Siete andati altrove,» chiese Dorian, «oltre che nei negozi?»
+
+
+
+
+«Altrove!» gridò Patrick, indignato, «non avete dei cugini di campagna, voi? Naturalmente siamo andati in tutti i posti giusti. Siamo andati alle Camere del Parlamento. Ma il Parlamento non è in seduta; sicché non ci sono uova della qualità adatta alle elezioni. Siamo andati alla Torre di [[settings/london|Londra]] – non si stancano cugini di campagna come noi. Ci siamo portati via qualche curiosità d'acciaio e di ferro. Abbiamo persino portato via le alabarde ai Beefeater. Facemmo notare che, allo scopo di mangiar manzo (il loro unico dichiarato ufficio pubblico), coltelli e forchette si erano sempre rivelati più comodi. A dire la [[concepts/truth|verità]], parvero piuttosto sollevati d'esserne sollevati.»
+
+
+
+
+«E posso chiedere,» disse l'altro con un sorriso, «dove siete diretti adesso?»
+
+
+
+
+«A un altro luogo di [[concepts/beauty|bellezza]]!» gridò il Capitano, chiassosamente, «niente stanca il cugino di campagna! Sto per mostrare ai miei giovani amici delle province quella che è forse la più bella antica dimora di campagna d'Inghilterra. Andiamo a Ivywood, non lontano da quella grande località balneare che chiamano Pebblewick.»
+
+
+
+
+«Capisco,» disse Dorian; e per la prima [[motifs/time|volta]] si voltò a guardare, con un turbamento intelligente sul volto, le file in marcia dietro di sé.
+
+
+
+
+«Capitano Dalroy,» disse Dorian Wimpole, con tono leggermente mutato, «c'è una cosa che mi lascia perplesso. Ivywood parlava d'aver messo la polizia sulle nostre tracce; e benché questa sia una folla piuttosto grande, semplicemente non riesco a credere che la polizia, com'io la conoscevo in gioventù, non potesse acciuffarci. Ma dov'è la polizia? Pare che abbiate marciato attraverso mezza [[settings/london|Londra]] con molta (se mi permettete) apparenza di portare armi micidiali. Lord Ivywood minacciò che la polizia ci avrebbe fermati. [[motifs/well|Ebbene]], perché non ci ha fermati?»
+
+
+
+
+«Il vostro argomento,» disse Patrick, allegramente, «si suddivide in tre capi.»
+
+
+
+
+«[[concepts/hope|Spero]] di no,» disse Dorian.
+
+
+
+
+«Ci sono davvero tre ragioni per cui la polizia non dovrebbe farsi notare in questa faccenda; giacché il suo peggior nemico non può dire che l'abbia fatto.»
+
+
+
+
+Cominciò a spuntarne tre sulle proprie enormi dita; e pareva prenderla del tutto sul serio.
+
+
+
+
+«In primo luogo,» disse, «siete stato lontano dalla città per lungo [[motifs/time|tempo]]. Probabilmente non riconoscete un poliziotto quando ne vedete uno. Non portano elmi, come i nostri reggimenti di linea dopo che i prussiani ebbero vinto. Portano il fez, perché i turchi hanno vinto. Tra breve, ho pochi [[concepts/doubt|dubbi]], porteranno il codino, perché i cinesi hanno vinto. È un ramo assai interessante della scienza morale. Si chiama Efficienza.
+
+
+
+
+«In secondo luogo,» spiegò il Capitano, «avete forse omesso di notare che un buon numero di coloro che portano tali fez cammina proprio dietro di noi. Oh, sì, è verissimo. Non ricordate che l'intera [[historical-references/french-revolution|Rivoluzione francese]] cominciò in realtà perché una specie di Milizia [[motifs/city|Cittadina]] rifiutò di far [[motifs/fire|fuoco]] sui propri padri e sulle proprie mogli; e mostrò persino qualche lieve traccia di gusto nel far fuoco sull'altro fronte? Ne vedrete parecchi dietro; e potete riconoscerli dalle loro cinture da revolver e dal loro camminare al passo; ma non voltatevi a guardarli troppo. Li rende nervosi.»
+
+
+
+
+«E la terza ragione?» chiese Dorian.
+
+
+
+
+«Quanto alla vera ragione,» rispose Patrick, «non sto combattendo una battaglia disperata. La gente che ha combattuto in vere battaglie di norma non lo fa. Ma ho notato qualcosa di singolare proprio sul punto che menzionate. Perché non c'è più polizia? Perché non ci sono più soldati? Ve lo dirò. Restano davvero pochissimi poliziotti o soldati in Inghilterra, oggi.»
+
+
+
+
+«Di certo questa,» disse Wimpole, «è una lagnanza insolita.»
+
+
+
+
+«Ma assai chiara,» disse il Capitano, gravemente, «a chiunque abbia mai visto marinai o soldati. Vi dirò la [[concepts/truth|verità]]. I nostri governanti sono giunti a contare sulla nuda vigliaccheria corporea di una massa d'inglesi, come un cane pastore conta sulla vigliaccheria di un gregge di pecore. Ora, guardate un po', signor Wimpole, non sarebbe saggio un pastore a limitare il numero dei suoi cani se potesse farsi ripagare dalle sue pecore? Alla fine potreste trovare milioni di pecore governate da un solo cane. Ma questo perché sono pecore. Supponete che le pecore fossero mutate per miracolo in lupi. Sono ben pochi i cani che non potrebbero sbranare. Ma, ed ecco il mio punto pratico, ci sono davvero ben pochi cani da sbranare.»
+
+
+
+
+«Non vorrete dire,» disse Dorian, «che l'Esercito britannico è praticamente sciolto?»
+
+
+
+
+«Ci sono le sentinelle fuori da Whitehall,» rispose Patrick, a voce bassa. «Ma, in verità, la vostra domanda mi mette in difficoltà. No; l'esercito non è del tutto sciolto, naturalmente. Ma l'esercito britannico –. Avete mai sentito, Wimpole, del grande destino dell'Impero?»
+
+
+
+
+«Mi pare d'aver udito la frase,» rispose il suo compagno.
+
+
+
+
+«È in quattro atti,» disse Dalroy. «Vittoria sui barbari. Impiego dei barbari. Alleanza coi barbari. Conquista da parte dei barbari. Questo è il grande destino dell'Impero.»
+
+
+
+
+«Credo di cominciare a capire cosa intendete,» ribatté Dorian Wimpole. «Certo Ivywood e le autorità sembrano molto inclini a fare affidamento sulle truppe sepoy.»
+
+
+
+
+«E altre truppe [[motifs/well|pure]],» disse Patrick. «Credo che resterete sorpreso quando le vedrete.»
+
+
+
+
+Marciò per un po' in [[motifs/silence|silenzio]] e poi disse, con una certa aria di bruschezza, che tuttavia non pareva del tutto un cambiar discorso,
+
+
+
+
+«Conoscete l'uomo che vive ora nella tenuta accanto a quella di Ivywood?»
+
+
+
+
+«No,» rispose Dorian, «mi dicono che se ne sta molto per conto suo.»
+
+
+
+
+«E anche la sua tenuta,» disse Patrick, piuttosto cupamente. «Se scavalcaste il muro del suo [[motifs/garden|giardino]], Wimpole, credo che trovereste una risposta a parecchie delle vostre domande. Oh, sì, gli onorevoli signori stanno provvedendo pienamente all'ordine pubblico e alla difesa nazionale – a modo loro.»
+
+Ricadde di nuovo in un [[motifs/silence|silenzio]] quasi imbronciato; e furono attraversati parecchi villaggi prima che parlasse ancora.
+
+
+
+
+Marciarono attraverso l'oscurità; e l'[[motifs/dawn|alba]] li sorprese in qualche luogo tra le parti più selvagge e boscose, dove le strade cominciavano a salire e a vagare. Dalroy diede un'esclamazione di piacere e indicò avanti a sé, richiamando l'attenzione di Dorian sulla lontananza. Contro le sbarre d'argento e scarlatte del far del giorno si vedeva lontano una scura cupola purpurea, con una [[motifs/crown|corona]] di scure [[motifs/leaves|foglie]] verdi; il luogo che avevano chiamato Roundabout.
+
+
+
+
+Lo spirito di Dalroy parve rianimarsi a quella vista, col consueto accompagnamento della minaccia del canto.
+
+
+
+
+«Composto qualche poesia ultimamente?» chiese a Wimpole.
+
+
+
+
+«Niente di particolare,» rispose il poeta.
+
+
+
+
+«Allora,» disse il Capitano, con aria portentosa, schiarendosi la gola, «ascolterete una delle mie, che vi piaccia o no – anzi, più vi dispiace e più lunga e lunga sarà. Comincio a capire perché i soldati vogliano cantare quando sono in marcia; e anche perché sopportino canzoni così scadenti.
+
+
+
+
+«I Druidi agitavano i loro coltelli d'oro
+
+
+
+
+E danzavano intorno alla Quercia,
+
+
+
+
+quand'avevano sacrificato un uomo;
+
+
+
+
+ma per quanto i dotti scrutino e frughino
+
+
+
+
+nessuna singola persona moderna può
+
+
+
+
+cogliere del tutto la facezia;
+
+
+
+
+ma benché tagliassero la gola agli uomini
+
+
+
+
+non abbatterono l'albero,
+
+
+
+
+e dal [[motifs/blood|sangue]] spuntarono i virgulti
+
+
+
+
+dei boschi di quercia ancora a venire.
+
+
+
+
+Ma Ivywood, Lord Ivywood,
+
+
+
+
+marcisce l'albero come farebbe l'edera,
+
+
+
+
+s'aggrappa e striscia come farebbe l'edera
+
+
+
+
+attorno al sacro albero.
+
+
+
+
+
+«[[archetypes/king|Re]] Carlo fuggì dalla battaglia di Worcester
+
+
+
+
+e si nascose in una Quercia;
+
+
+
+
+nelle scuole conventuali nessun uomo di tatto
+
+
+
+
+vorrebbe ripercorrere e lodare ogni suo atto,
+
+
+
+
+o sostenere che fosse in realtà
+
+
+
+
+un tipo austero e santificato;
+
+
+
+
+ma non per opera sua i sacri boschi
+
+
+
+
+hanno perduto le loro libere fantasie,
+
+
+
+
+e benché fosse straordinariamente grosso,
+
+
+
+
+non spezzò l'albero.
+
+
+
+
+Ma Ivywood, Lord Ivywood,
+
+
+
+
+spezza l'albero come farebbe l'edera
+
+
+
+
+e divora i boschi come farebbe l'edera
+
+
+
+
+tra noi e il mare.
+
+
+
+
+
+«Il grande Collingwood scese per la radura
+
+
+
+
+e sparse liberamente le ghiande,
+
+
+
+
+perché querce fossero ancora nel bosco
+
+
+
+
+quercine come le travi lassù
+
+
+
+
+quando il grande [[archetypes/lover|Amato]] che i marinai [[motifs/love|amano]]
+
+
+
+
+fu baciato dalla [[motifs/death|Morte]] in mare.
+
+
+
+
+Ma benché per lui cadessero le querce
+
+
+
+
+a costruire le navi di quercia,
+
+
+
+
+il boscaiolo venerava ciò che colpiva
+
+
+
+
+e onorava persino le schegge.
+
+
+
+
+Ma Ivywood, Lord Ivywood,
+
+
+
+
+odia l'albero come farebbe l'edera,
+
+
+
+
+come il drago dell'edera farebbe,
+
+
+
+
+che ci tiene nella sua stretta.»
+
+
+
+Stavano salendo per una [[motifs/road|strada]] in pendio, murata su entrambi i lati da boschi solenni, che in qualche modo parevano vigili come gufi svegli. Benché il far del giorno passasse sopra di loro con vessilli, rotoli di scarlatto e d'oro, e con un [[motifs/wind|vento]] come trombe di trionfo, i boschi scuri parevano custodire il loro segreto come cantine buie e fresche; né vi si scorgeva il forte sole, salvo in uno o due fulgidi fasci, che parevano smeraldi scheggiati.
+
+
+
+
+«Non mi [[concepts/wonder|meraviglierei]],» disse Dorian, «se l'edera non scoprisse che anche l'albero sa una cosa o due.»
+
+
+
+
+«L'albero lo sa,» convenne il Capitano. «Il guaio era che fino a poco tempo fa l'albero non sapeva di saperlo.»
+
+
+
+
+Vi fu un [[motifs/silence|silenzio]]; e mentre salivano, l'erta si fece sempre più ripida, e gli alti alberi parevano sempre più custodire qualcosa alla vista, come coi grigi scudi di giganti.
+
+
+
+
+«Ti ricordi questa [[motifs/road|strada]], Hump?» chiese Dalroy al locandiere.
+
+
+
+
+«Sì,» rispose Humphrey Pump, e non disse altro; ma pochi hanno mai udito tanta pienezza in un'affermazione.
+
+
+
+
+Marciarono in [[motifs/silence|silenzio]] e circa due ore dopo, verso le undici in [[motifs/clock|punto]], Dalroy comandò l'alt nella foresta, e disse che tutti avrebbero fatto meglio a concedersi qualche ora di [[motifs/sleep|sonno]]. La qualità impenetrabile dei boschi e la relativa morbidezza del tappeto di faggiòla rendevano il luogo tanto appropriato quanto l'[[motifs/time|ora]] era inopportuna. E se qualcuno pensa che gente comune, raccolta a caso per strada, non potesse seguire un capo casuale in un simile [[motifs/journey|viaggio]] o [[motifs/sleep|dormire]] al suo comando in un simile luogo, dato lo stato dell'[[motifs/soul|anima]], allora costui non conosce la [[concepts/history|storia]].
+
+
+
+
+«Temo,» disse Dalroy, «che dovrete fare colazione con la vostra cena. Conosco un posto eccellente per far colazione, ma è troppo esposto per il [[motifs/sleep|sonno]]. E di [[motifs/sleep|sonno]] dovete averne; sicché non disfaremo le provviste proprio ora. Ci coricheremo come i Bimbi nel Bosco, e qualunque uccello di disposizione operosa è libero di cominciare a coprirmi di [[motifs/leaves|foglie]]. Davvero, stanno per venire cose, prima delle quali vorrete [[motifs/sleep|dormire]].»
+
+
+
+
+Quando ripresero la marcia era quasi metà pomeriggio; e il pasto che Dalroy insisteva baldanzosamente nel definire colazione fu consumato verso quell'ora misteriosa in cui le signore muoiono senza il tè. La ripida [[motifs/road|strada]] s'era fatta costantemente più ripida e più ripida; e più ripida; e infine Dalroy disse a Dorian Wimpole,
+
+
+
+
+«Non far cadere di nuovo quel formaggio proprio qui, o rotolerà giù fino in fondo, nei boschi. Lo so che lo farà. Non occorrono calcoli scientifici di pendenze e angoli; perché l'ho visto farlo io stesso. Anzi, gli sono corso dietro.»
+
+
+
+
+Wimpole si rese conto che stavano salendo verso il filo tagliente di un crinale, e in pochi istanti capì, dalla stranezza nella forma degli alberi, cosa fosse ciò che gli alberi nascondevano.
+
+
+
+
+Avevano camminato lungo un sentiero boschivo ondulato in riva al mare. Su un particolare alto pianoro, sporgente sopra la spiaggia, stavano alcuni meli nani e storpi, delle cui mele nessun vivente avrebbe mangiato, tanto dovevano essere aspre e salse. Tutto il resto del pianoro era brullo e privo di tratti distintivi, ma Pump ne osservava ogni pollice, come se fosse un luogo abitato.
+
+
+
+
+«È qui che faremo colazione,» disse, indicando la nuda distesa erbosa. «È la migliore locanda d'Inghilterra.»
+
+
+
+
+Parte del suo pubblico cominciò a ridere, ma d'un tratto cessò di farlo, mentre Dalroy avanzava a grandi passi e piantava l'insegna de «La Vecchia [[motifs/ship|Nave]]» sulla desolata riva del mare.
+
+
+
+
+«E ora,» disse, «tu hai la custodia delle provviste che abbiamo portato, Hump, e faremo un picnic. Come diceva una canzone che cantai un tempo,
+
+
+
+
+«La Testa del Saraceno giunse dall'Arabia,
+
+
+
+
+[[archetypes/king|Re]] [[characters/richard|Richard]] cavalcando in armi come fiamma,
+
+
+
+
+e dove stabilì che la sua gente fosse nutrita
+
+
+
+
+piantò la sua lancia, e la Testa del Saraceno.»
+
+
+
+Era quasi il crepuscolo prima che la folla, molto ingrossata dai numerosi scontenti delle tenute di Ivywood, raggiungesse i cancelli di Ivywood House. Strategicamente, e ai fini di una sorpresa [[motifs/night|notturna]], ciò avrebbe potuto far onore alla capacità militare del Capitano. Ma l'uso che effettivamente ne fece fu quel che alcuni definirebbero eccentrico. Quando ebbe disposto le sue forze, con severe ingiunzioni di [[motifs/silence|silenzio]] per i primi minuti, si volse a Pump, e disse,
+
+
+
+
+«E ora, prima di fare qualsiasi altra cosa, farò rumore.»
+
+
+
+
+E tirò fuori da sotto della carta marrone quello che pareva uno strumento musicale.
+
+
+
+
+«Un invito a parlamentare?» s'informò Dorian, con interesse, «una tromba di sfida, o qualcosa del genere?»
+
+
+
+
+«No,» disse Patrick, «una serenata.»
+
+CAPITOLO XXIV: GLI ENIGMI DI LADY JOAN
+
+
+IN una sera in cui il cielo era limpido e solo i suoi orli erano ricamati con gli arabeschi purpurei del tramonto, Joan Brett passeggiava sul prato superiore del [[motifs/garden|giardino]] a terrazze di Ivywood, dove i pavoni si trascinano attorno. Ella stessa non era dissimile da uno dei pavoni in [[concepts/beauty|bellezza]], e alcuni avrebbero detto in inutilità; aveva il capo altero e la coda strascicante; né era, in quei giorni, priva dell'occasionale disposizione a strillare. Poiché, in verità, da qualche [[motifs/time|tempo]] sentiva la propria esistenza chiudersi intorno a lei con un'incomprensibile quietudine; e ciò è più duro per la pazienza di un incomprensibile rumore. Ogni volta che guardava le vecchie siepi di tasso del [[motifs/garden|giardino]] le parevano più alte di quando le aveva viste l'ultima volta; come se quelle mura viventi potessero ancora crescere per rinchiuderla. Ogni volta che dalle finestre della torretta aveva una visione del mare, esso sembrava più lontano. Anzi, l'intera chiusura dell'estremità dell'ala della torretta con la nuova parete di legname orientale pareva simboleggiare tutte le sue informi sensazioni. Nella sua [[motifs/childhood|fanciullezza]] l'ala terminava con una porta sconquassata e una scala in disuso. Conducevano a un bosco ceduo incolto e a una galleria ferroviaria abbandonata, dove né lei né alcun altro ebbero mai voglia di andare. Eppure sapeva a cosa conducevano. Ora sembrava che quel lembo di terra fosse stato venduto e aggiunto alla tenuta confinante; e della tenuta confinante nessuno pareva sapere alcunché di preciso. Il senso delle cose che si chiudevano intorno cresceva in lei. Ogni sorta di sciocchi piccoli dettagli ingigantiva la sensazione. Non riusciva a scoprire nulla su questo nuovo padrone della porta accanto, per così dire, giacché egli era, a quanto pareva, un uomo attempato che preferiva vivere nella più grande riservatezza. La signorina Browning, segretaria di Lord Ivywood, non seppe darle altra informazione se non che era un gentiluomo della costa mediterranea; singolare giro di parole che pareva esserle stato messo in bocca. Poiché un gentiluomo mediterraneo poteva significare qualunque cosa, da un gentiluomo americano che vive a [[settings/venice|Venezia]] a un nero africano ai margini dell'Atlante, la descrizione non illuminava; e probabilmente non era intesa a farlo. Ella scorgeva di quando in quando i suoi servi in livrea che andavano attorno; e le loro livree non erano come le livree inglesi. Era inoltre, nel suo stato alquanto morboso, infastidita dal fatto che le uniformi della vecchia milizia di Pebblewick fossero state cambiate, sotto l'influenza del prestigio turco nella recente guerra. Portavano il fez come gli Zuavi francesi, che erano certamente assai più pratici dei pesanti elmi che solevano portare. Era una faccenda da poco, ma infastidiva Lady Joan, che era, come tante donne intelligenti, insieme sottile e conservatrice. Le faceva sentire come se il mondo intero venisse mutato là fuori, e a lei non fosse concesso di saperne nulla.
+
+
+
+
+Ma ella aveva anche più profondi turbamenti spirituali, mentre, dietro le patetiche suppliche della vecchia Lady Ivywood e della sua stessa madre malata, restava settimana dopo settimana a Ivywood House. Se la si vuole enunciare cinicamente (come lei stessa era ben capace di enunciarla), era impegnata nella consueta occupazione femminile di cercare di provar simpatia per un uomo. Ma il cinismo sarebbe stato falso; come il cinismo quasi sempre è; poiché durante i giorni più cruciali di quel periodo, l'uomo le era davvero piaciuto.
+
+
+
+
+Le era piaciuto quando fu portato dentro con la pallottola di Pump nella gamba; ed era ancora l'uomo più forte e più calmo della stanza. Le era piaciuto quando la ferita prese una piega pericolosa, e quando egli sopportò il [[motifs/pain|dolore]] in modo ammirevole. Le era piaciuto quando non mostrò rancore verso l'adirato Dorian; le era piaciuto con qualcosa come entusiasmo nella [[motifs/night|notte]] in cui si [[motifs/rose|levò]] rigido sulla sua rozza gruccia, e, schiacciando ogni rimostranza, compì la sua avventata e rapida corsa a [[settings/london|Londra]]. Ma, malgrado le curiose sensazioni di chiusura di cui abbiamo parlato, non le piacque mai tanto quanto in quella sera in cui si sollevò faticosamente sulla gruccia su per le terrazze del vecchio [[motifs/garden|giardino]] e venne a parlarle mentre lei stava tra i pavoni. Cercò persino di accarezzare un pavone in modo distratto, come se fosse un cane. Le disse che questi bei [[motifs/birds|uccelli]] erano, naturalmente, importati dall'Oriente – dal semi-orientale impero di Macedonia. Ma, ciò nondimeno, Joan ebbe il vago sospetto che egli non avesse mai notato prima che a Ivywood ci fossero pavoni. La sua colpa più grande era un [[concepts/pride|orgoglio]] nell'impeccabilità della sua forza mentale e morale; ma, se solo l'avesse saputo, qualcosa di lievemente comico nel lato inconsapevole di sé gli faceva più bene, presso la donna, di tutto il resto.
+
+
+
+
+«Si diceva fossero gli [[motifs/birds|uccelli]] di Giunone,» disse, «ma ho pochi [[concepts/doubt|dubbi]] che Giunone, come tanta parte della mitologia omerica, abbia anch'essa un'origine asiatica.»
+
+
+
+
+«Ho sempre pensato,» disse Joan, «che Giunone fosse un po' troppo maestosa per il serraglio.»
+
+
+
+
+«Dovreste ben saperlo,» rispose Ivywood, con un gesto cortese, «giacché non ho mai visto alcuno che somigliasse a Giunone quanto voi. Ma, in verità, c'è un gran malinteso circa la visione araba o indiana della donna. È, in qualche modo, troppo semplice e solida perché la nostra paradossale cristianità la comprenda. Persino la volgare beffa contro i turchi, che amano grasse le loro spose, contiene una specie di distorta [[archetypes/shadow|ombra]] di ciò che intendo. Non guardano tanto all'individuo, quanto alla Femminilità e alla potenza della [[concepts/nature|Natura]].»
+
+
+
+
+«Talvolta penso,» disse Joan, «che queste affascinanti teorie siano un po' forzate. Il vostro amico Misysra mi diceva l'altro giorno che le donne godevano della più alta [[concepts/freedom|libertà]] in Turchia; poiché era loro concesso di portare i pantaloni.»
+
+
+
+
+Ivywood sorrise del suo raro e arido sorriso. «Il [[archetypes/prophet|Profeta]] ha qualcosa di quella semplicità che spesso si accompagna al genio,» rispose. «Non negherò che alcuni degli argomenti da lui impiegati mi siano parsi rozzi e perfino fantasiosi. Ma ha ragione alla radice. Esiste una specie di [[concepts/freedom|libertà]] che consiste nel non ribellarsi mai alla [[concepts/nature|Natura]]; e credo che in [[settings/orient|Oriente]] la comprendano meglio di noi in Occidente. Vedete, Joan, va tutto molto [[motifs/well|bene]] parlare d'[[motifs/love|amore]] nel nostro modo angusto, personale, romantico; ma c'è qualcosa di più alto dell'[[motifs/love|amore]] di un [[archetypes/lover|amante]] o dell'[[motifs/love|amore]] dell'[[motifs/love|amore]].»
+
+«Cosa sarebbe?» chiese Joan, abbassando lo sguardo.
+
+
+
+
+«L'[[motifs/love|amore]] del Fato,» disse Lord Ivywood, con qualcosa come una passione spirituale negli occhi. «Non dice Nietzsche da qualche parte che la delizia nel destino è il segno dell'[[archetypes/hero|eroe]]? Ci inganniamo se pensiamo che gli eroi e i santi dell'[[historical-references/islam|Islam]] dicano "Kismet" a capo chino e nel dolore. Dicono "Kismet" con un grido di gioia. Ciò che è conveniente – ecco cosa intendono davvero. Nelle novelle arabe, il principe più perfetto è congiunto in nozze alla principessa più perfetta – perché è conveniente. I giganti spirituali, i Geni, lo compiono – cioè i fini della [[concepts/nature|Natura]]. Nei romanzi europei egoisti e sentimentali, la più leggiadra principessa della terra potrebbe essere fuggita col suo maestro di disegno di mezz'età. Queste cose non sono nella Via. Il turco cavalca fuori a sposare la più bella [[characters/queen|regina]] della terra; conquista imperi per farlo; e non si vergogna dei suoi allori.»
+
+
+
+
+Le nubi violette e spiegazzate intorno all'orlo della sera d'argento parvero a Lady Joan sempre più simili a vividi ricami violetti che orlavano una tenda d'argento nel corridoio chiuso di Ivywood. I pavoni parevano più lucenti e belli di quanto fossero mai stati prima; ma per la prima [[motifs/time|volta]] ella sentì davvero che venivano dalla terra delle Mille e una notte.
+
+
+
+
+«Joan,» disse Philip Ivywood, molto sommessamente, nel crepuscolo, «non mi vergogno dei miei allori, non vedo alcun senso in ciò che questi cristiani chiamano [[concepts/humility|umiltà]]. Sarò il più grande uomo del mondo se potrò; e credo di poterlo. Perciò, qualcosa che è più alto dell'[[motifs/love|amore]] stesso, il Fato e ciò che è conveniente, rendono giusto ch'io sposi la più bella donna del mondo. Ed ella sta tra i pavoni ed è più bella e più altera di loro.»
+
+
+
+
+Gli occhi turbati di Joan erano sull'orizzonte violetto e le sue labbra turbate non seppero proferire altro che qualcosa come «non fatelo.»
+
+
+
+
+«Joan,» disse Philip, di nuovo, «vi ho detto che siete la donna che uno dei grandi eroi avrebbe potuto desiderare. Lasciate che ora vi dica qualcosa che non avrei potuto dire a nessuno cui non avessi così parlato d'[[motifs/love|amore]] e di fidanzamento. Quando avevo vent'anni, in una città di [[settings/germany|Germania]], mentre attendevo alla mia [[concepts/education|educazione]], feci ciò che l'Occidente chiama cadere in [[motifs/love|amore]]. Era una pescatrice della costa; poiché questa città era vicina al mare. La mia storia sarebbe potuta finire lì. Non avrei potuto entrare nella diplomazia con una simile moglie, ma allora non me ne sarei curato. Ma poco tempo dopo, vagai fino ai margini delle Fiandre, e mi trovai in piedi sopra alcune delle ultime grandi anse del Reno. E mi vennero pensieri, senza i quali potrei ancor oggi andar gridando pesce puzzolente. Pensai a quanti sacri o incantevoli anfratti quel [[motifs/river|fiume]] si fosse lasciato alle spalle, per proseguire. Avrebbe potuto in un luogo qualsiasi della Svizzera spendere la sua debole giovinezza in uno spruzzo sopra un'alta rupe, o in un luogo qualsiasi delle Renanie perdersi in una palude coperta di [[motifs/flowers|fiori]]. Ma proseguì verso il mare perfetto, che è il compimento di un [[motifs/river|fiume]].»
+
+
+
+
+Di nuovo, Joan non seppe parlare; e di nuovo fu Philip a proseguire.
+
+
+
+
+«Ecco ancora un'altra cosa che non si sarebbe potuta dire, finché la mano del principe non fosse stata offerta alla principessa. Può darsi che in Oriente spingano troppo oltre questa faccenda dei matrimoni infantili. Ma volgete lo sguardo ai folli matrimoni giovanili che vanno in pezzi dappertutto! E chiedetevi se non desideriate che fossero stati matrimoni infantili! La gente parla sui giornali della spietatezza dei matrimoni regali. Ma voi e io non crediamo ai giornali, suppongo. Sappiamo che non c'è alcun [[archetypes/king|Re]] in Inghilterra; né v'è stato da quando la sua testa cadde dinanzi a Whitehall. Voi sapete che voi e io e le famiglie siamo i Re d'Inghilterra; e i nostri matrimoni sono matrimoni regali. Che i sobborghi li chiamino spietati. Diciamo che essi richiedono il cuore coraggioso che è l'unico blasone dell'aristocrazia. Joan,» disse, molto dolcemente, «forse siete stata presso una rupe in Svizzera, o una palude coperta di [[motifs/flowers|fiori]]. Forse avete conosciuto – una pescatrice. Ma c'è qualcosa di più grande e più semplice di tutto ciò; qualcosa che si trova nei grandi poemi epici dell'Oriente – la bella donna, e il grand'uomo, e il Fato.»
+
+
+
+
+«Mio signore,» disse Joan, usando la frase formale per un imperscrutabile istinto, «vorrete concedermi un po' più di [[motifs/time|tempo]] per riflettere su questo? E che non vi sia alcuna idea di slealtà, se la mia decisione sarà nell'uno o nell'altro senso?»
+
+
+
+
+«Ma certamente,» disse Ivywood, inchinandosi sulla gruccia; e si allontanò zoppicando, scegliendo la via tra i pavoni.
+
+
+
+
+Per giorni dopo Joan cercò di gettare le fondamenta del suo destino terreno. Era ancora assai giovane, ma si sentiva come se avesse vissuto migliaia d'anni, arrovellandosi sulla stessa questione. Si ripeté più e più volte, e con verità, che molte donne migliori di lei avevano preso un ripiego che non era un ripiego di così prima qualità. Ma c'era qualcosa di complicato nell'atmosfera stessa. Le piaceva ascoltare Philip Ivywood al suo meglio, come a chiunque piace ascoltare un uomo che sa davvero suonare il violino; ma il gran guaio è sempre che, in certi terribili momenti, non si può essere certi se sia il violino o l'uomo.
+
+
+
+
+Inoltre, c'era un curioso tono e spirito nella casa Ivywood, specialmente dopo la ferita e la convalescenza di Ivywood, del quale non sapeva dir nulla se non che in qualche modo la infastidiva. C'era in esso qualcosa di glorioso – ma anche di languoroso. Per un impulso tutt'altro che raro tra le persone intelligenti e alla moda, ella sentì il [[motifs/desire|desiderio]] di parlare con una donna assennata del ceto medio o inferiore; e quasi si gettò sul seno della signorina Browning in cerca di solidarietà.
+
+
+
+
+Ma la signorina Browning, coi suoi capelli ricci rossicci e il volto bianco e molto intelligente, colpiva la stessa indescrivibile nota. Lord Ivywood era assunto come un primo principio; come se fosse Padre [[motifs/time|Tempo]], o il Cancelliere del Meteo. Lo si chiamava «Lui». La quinta [[motifs/time|volta]] che lo si chiamò «Lui», Joan non riuscì a capire perché le parve di odorare le piante nella calda serra.
+
+«Vedete», disse Miss Browning, «non dobbiamo interferire con la sua carriera; questa è la cosa importante. E, davvero, penso che sia meglio non parlare di nulla. Sono sicura che sta maturando piani molto grandi. Avete sentito quello che ha detto il [[archetypes/prophet|Profeta]] l'altra [[motifs/night|sera]]?»
+
+
+
+
+“L'ultima cosa che il [[archetypes/prophet|profeta]] mi ha detto”, disse la signora più scura in tono ostinato, “è stata che quando noi inglesi vediamo un giovane inglese esclamiamo ‘È in ascesa!’, ma quando vediamo un vecchio inglese esclamiamo ‘È [[motifs/cross|crociato]]!’”
+
+
+
+
+Una signora con un volto così intelligente non poté fare a meno di ridere debolmente; ma continuò su un tema determinato: “Il [[archetypes/prophet|Profeta]] disse, sapete, che tutto l'[[motifs/love|amore]] reale aveva in sé un elemento del destino. E sono sicura che questa è anche la sua opinione. Le persone si raggruppano attorno a un centro come le piccole [[motifs/stars|stelle]] fanno attorno a una stella; perché una stella è un magnete. Non sbagliate mai quando il destino soffia dietro di voi come un grande, grosso [[motifs/wind|vento]]; e penso che molte cose siano state giudicate ingiustamente in questo modo. È tutto molto [[motifs/well|bene]] parlare dei matrimoni infantili in India.”
+
+
+
+
+"Signorina Browning," disse Giovanna, "si interessa dei matrimoni infantili in India?"
+
+
+
+
+«[[motifs/well|Beh]]» disse la signorina Browning.
+
+
+
+
+«La tua sorella è interessata a loro? Corro a chiederglielo», esclamò Giovanna, attraversando la stanza fino al punto in cui la signora MacKintosh era seduta a un tavolo scrivendo appunti da segretaria.
+
+
+
+
+“[[motifs/well|Beh]],” disse la signora Mackintosh, sollevando una testa dai capelli ricchi e risoluta, più bella di quella della sorella, “credo che il modo indiano sia il migliore. Quando le persone sono lasciate a se stesse nella prima giovinezza, chiunque potrebbe sposare chiunque. Potremmo aver sposato un negro o una pescivendola o... un criminale.”
+
+
+
+
+«Ora, signora Mackintosh», disse Giovanna con severità e aggrottando le sopracciglia scure, «lei sa [[motifs/well|benissimo]] che non avrebbe mai sposato una venditrice di pesce. Dov'è Enid?» concluse improvvisamente.
+
+
+
+
+"La signorina Enid," disse la signorina Browning, "sta cercando della musica nella sala da musica, credo."
+
+
+
+
+Giovanna camminò rapidamente attraverso diversi lunghi saloni e trovò il suo parente biondo e pallido effettivamente al pianoforte.
+
+
+
+
+«Enid», esclamò Joan, «sai che sono sempre stata affezionata a te. Per l'amor di Dio dimmi cos'è che non va in questa casa? Ammiro Philip come tutti lo ammirano. Ma qual è il problema con la casa? Perché tutte queste stanze e giardini sembrano chiudermi dentro, sempre più dentro? Perché tutto appare sempre più uguale? Perché tutti dicono le stesse cose? Oh, non parlo spesso di metafisica; ma in questo c'è uno scopo. Questa è l'unica maniera per dirlo; c'è uno scopo. E io non so quale sia».
+
+
+
+
+La signora Enid Wimpole suonò un paio di battute preliminari al pianoforte. Poi disse:
+
+
+
+
+“Nemmeno io, Giovanna. Proprio così. So esattamente cosa intendi. Ma è proprio perché c'è uno scopo che ho [[concepts/faith|fede]] in lui e mi fido di lui.” Cominciò dolcemente a suonare una melodia di ballata della Renania; e forse la musica suggerì il suo prossimo commento. “Supponiamo che tu stia guardando alcune delle ultime svolte del Reno, dove scorre...”
+
+
+
+
+«Enid!» gridò Joan «se dici "nel Mare del Nord", strillerò. Strillerò, mi senti, più forte di tutti i pavoni messi insieme».
+
+
+
+
+«[[motifs/well|Beh]]», esclamò Lady Enid alzando gli occhi con aria piuttosto smarrita, «il Reno sfocia nel Mare del Nord, no?»
+
+
+
+
+«Oserei dire», disse Giovanna in modo sconsiderato, «che il Reno avrebbe potuto sfociare nel Serpentine prima che tu lo sapessi o ti importasse, fino a quando...»
+
+
+
+
+«Fino a quando?» chiese Enid e la sua musica cessò improvvisamente. «Fino a che non accadde qualcosa che non riesco a capire», disse Giovanna allontanandosi.
+
+
+
+
+«Sei qualcosa che non riesco a capire», disse Enid Wimpole. «Ma suonerò qualcos'altro se questo ti dà fastidio». E di nuovo sfiorò la tastiera con cura, cercando di scegliere il brano adatto.
+
+
+
+
+Giovanna tornò indietro attraverso il corridoio della sala da musica e riprese irrequieta posto nella stanza con le due segretarie donne.
+
+
+
+
+«[[motifs/well|Bene]]», chiese la rossa e di buon umore signora Mackintosh senza alzare lo sguardo dal suo lavoro di scarabocchiatura, «avete scoperto qualcosa?»
+
+
+
+
+Per alcuni istanti Giovanna sembrò in uno stato di meditazione più cupo del solito; poi disse, con un tono schietto e amichevole che contrastava in qualche modo con le sue sopracciglia aggrottate e scure: “No, davvero. Almeno credo di aver scoperto solo due cose; e sono solo cose su me stessa. Ho scoperto che mi piace l'[[concepts/heroism|eroismo]], ma non mi piace il culto dell'[[archetypes/hero|eroe]].”
+
+
+
+
+"Certo," disse la signorina Browning, nel modo di Girton, "l'uno deriva sempre dall'altro."
+
+
+
+
+“[[concepts/hope|Spero]] di no”, disse Giovanna.
+
+
+
+
+“Ma che altro si può fare con l'[[archetypes/hero|eroe]]?”, chiese la signora Mackintosh senza ancora alzare lo sguardo dalla scrittura, “se non adorarlo?”
+
+
+
+
+“Potreste crocifiggerlo”, disse Giovanna con un improvviso ritorno di selvaggia irrequietezza mentre si [[motifs/rose|alzava]] dalla sedia, “allora sembra che le cose accadano”.
+
+
+
+
+“Non è stanca?”, chiese la signorina Browning dal viso intelligente.
+
+
+
+
+"Sì", disse Giovanna, "e il peggior tipo di stanchezza: quando non sai nemmeno di cosa sei stanca. Per dire la [[concepts/truth|verità]] onesta, credo di essere stanca di questa casa."
+
+
+
+
+“È molto vecchia, naturalmente, e alcune parti sono ancora squallide”, disse Miss Browning, “ma lui l’ha migliorata enormemente. La decorazione con la [[motifs/moon|luna]] e le [[motifs/stars|stelle]], giù nell'ala con il torrione è davvero–”
+
+
+
+
+Nella lontana sala da musica, lady Enid, avendo trovato la musica che preferiva, stava suonando il suo preludio al pianoforte. Alle prime note, Joan Brett si alzò in piedi come una tigre.
+
+
+
+
+«Grazie» disse con una voce rauca e soffice «è proprio questo, naturalmente! ed è esattamente quello che siamo tutti noi! Ha trovato la melodia giusta adesso.»
+
+
+
+
+“Che melodia è questa?”, chiese il segretario meravigliato.
+
+
+
+
+«La melodia dell'arpa, del salterio, della cetra, del liuto e di tutti i tipi di musica», disse Giovanna dolcemente ma con fermezza, «quando ci inchineremo e adoreremo l'Immagine Dorata che Nabucodonosor il [[archetypes/king|Re]] ha eretto. Ragazze! Donne! Sapete cos'è questo luogo? Sapete perché è tutto porte dentro porte e grate dietro grate; e tutto è drappeggiato e imbottito; e perché i [[motifs/flowers|fiori]] che qui sono così profumati non sono i [[motifs/flowers|fiori]] delle nostre colline?»
+
+Dalla lontana e lentamente oscurantesi sala della musica, la canzone di Enid Wimpole giungeva tenue e chiara:
+
+
+
+
+«Meno della [[motifs/dust|polvere]] sotto la [[motifs/wheel|ruota]] del tuo carro,
+
+
+
+
+Meno della ruggine che mai macchiò la tua spada–»
+
+
+
+
+«Sai cosa siamo?» domandò Joan Brett, di nuovo. «Siamo un Harem.»
+
+
+
+
+«Diamine, cosa vuoi dire?» esclamò la fanciulla più giovane, in grande agitazione. «Ma se Lord Ivywood non ha mai–»
+
+
+
+
+«So che non l'ha mai fatto. Non sono nemmeno sicura,» disse Joan, «che lo farebbe mai. Non capirò mai quell'uomo, né lo capirà nessun altro. Ma ti dico che quello è lo spirito. Ecco cosa siamo. E questa stanza puzza di poligamia con la stessa certezza con cui odora di tuberose.»
+
+
+
+
+«Ma, Joan,» esclamò Lady Enid, entrando nella stanza come un [[archetypes/ghost|fantasma]] [[motifs/well|ben]] educato, «cosa diamine ti prende. Siete tutte bianche come lenzuola.»
+
+
+
+
+Joan non le badò affatto ma proseguì col proprio ostinato ragionamento.
+
+
+
+
+«E, per giunta,» disse, «se c'è una cosa che sappiamo di lui, è che crede per principio nel fare le cose lentamente. La chiama evoluzione e relatività e l'espansione di un'idea in idee più vaste. Come facciamo a sapere che non lo stia facendo lentamente; abituandoci a vivere così, sicché lo shock sia minore quando andrà oltre – impregnandoci dell'atmosfera prima di introdurre davvero,» e rabbrividì, «l'istituzione. È forse un disegno più pacatamente scandaloso di qualsiasi altro dei disegni di Ivywood; di un comandante in capo sepoy, o di Misysra che predica nell'Abbazia di Westminster, o della distruzione di tutte le locande d'Inghilterra? Non aspetterò e non mi espanderò. Non mi lascerò evolvere. Non mi svilupperò in qualcosa che non sono io. I miei piedi saranno fuori da queste mura anche se poi dovrò battere le strade; o strillerò come strillerei intrappolata in una qualsiasi tana giù ai Docks.»
+
+
+
+
+Attraversò a grandi passi le stanze verso la torretta, con un'improvvisa passione per la [[concepts/solitude|solitudine]]; ma mentre passava accanto all'intaglio astronomico che aveva chiuso l'estremità della vecchia ala, Enid la vide colpirlo con la mano serrata a pugno.
+
+
+
+
+Fu nella torretta che ella ebbe una strana esperienza. Stava di nuovo, più tardi, sfruttando quell'isolamento per arrovellarsi sul modo migliore di chiarire la faccenda con Philip, quando fosse tornato dalla sua visita a [[settings/london|Londra]]; poiché confidare alla vecchia Lady Ivywood ciò che aveva in mente sarebbe stato press'a poco tanto gentile e utile quanto descrivere le torture cinesi a un neonato. La sera era assai quieta, di quella specie grigio pallida, e tutto quel lato di Ivywood le giaceva davanti agli occhi, indisturbato. Fu tanto più sorpresa quando il suo fantasticare colse una sorta di brulichio nel grigio-purpureo crepuscolo dei cespugli; di bisbigli; e di molti passi. Poi il [[motifs/silence|silenzio]] tornò a posarsi; e poi fu trasalentemente rotto da una gran voce che cantava nella buia lontananza. Era accompagnata da deboli suoni che potevano venire dal pizzicare di un liuto o di una viola:
+
+
+
+
+«Signora, la luce sta morendo nei cieli,
+
+
+
+
+Signora, e lasciateci morire quando muore l'[[concepts/honour|Onore]],
+
+
+
+
+Il vostro caro guanto caduto era come un guanto di sfida gettato,
+
+
+
+
+quando voi e io eravamo giovani.
+
+
+
+
+Poiché qualcosa più dello splendore resse; e l'agio non era l'unico bene
+
+
+
+
+attorno ai boschi di Ivywood quando voi e io eravamo giovani.
+
+
+
+
+
+«Signora, le [[motifs/stars|stelle]] cadono pallide e piccole,
+
+
+
+
+Signora, non vivremo se la vita è tutto qui,
+
+
+
+
+dimenticando quelle buone [[motifs/stars|stelle]] appese in cielo
+
+
+
+
+quando tutto il mondo era giovane,
+
+
+
+
+poiché più dell'oro c'era in un anello, e l'[[motifs/love|amore]] non era cosa da poco
+
+
+
+
+tra gli alberi di Ivywood quando tutto il mondo era giovane.»
+
+
+
+Il canto cessò; e il trambusto nei cespugli non poteva dirsi più che un sussurro. Ma suoni della stessa specie e un po' più forti parevano sospinti dietro gli angoli da altri lati della casa; e l'intera [[motifs/night|notte]] pareva colma di qualcosa che era vivo, ma era più di un singolo uomo.
+
+
+
+
+Udì un grido dietro di sé, ed Enid si precipitò nella stanza bianca come uno dei gigli.
+
+
+
+
+«Che cosa terribile sta accadendo?» gridò. «Il cortile è pieno di uomini che urlano, e ci sono torce dappertutto e–»
+
+
+
+
+Joan udì un calpestio di uomini in marcia e udì, lontano, un'altra canzone, cantata su una nota più beffarda, qualcosa come–
+
+
+
+
+«Ma Ivywood, Lord Ivywood,
+
+
+
+
+marcisce l'albero come farebbe l'edera.»
+
+
+
+«Credo,» disse Joan, pensosamente, «che sia la Fine del Mondo.»
+
+
+
+
+«Ma dov'è la polizia?» si lamentò la cugina. «Non pare che siano più da nessuna parte da quando portano quei fez. Saremo assassinate o–»
+
+
+
+
+Tre colpi tonanti e cadenzati scossero la decorativa boiserie all'estremità dell'ala; come se si esigesse d'entrare con la clava di un gigante. Enid ricordò d'aver giudicato energico il piccolo colpo di Joan, e rabbrividì. Entrambe le fanciulle fissarono le [[motifs/stars|stelle]] e le lune e i soli blasonati su quella sacra parete che sobbalzava e rabbrividiva sotto i colpi del destino.
+
+
+
+
+Poi il sole cadde dal Cielo, e la [[motifs/moon|Luna]] e le [[motifs/stars|stelle]] precipitarono giù e si sparsero sul tappeto persiano; e per l'apertura della fine del mondo, Patrick Dalroy entrò, portando un mandolino.
+
+CAPITOLO XXV: IL RITROVAMENTO DEL SUPERUOMO
+
+
+«Vi ho portato un cagnolino», disse il signor Dalroy, presentando lo scalpitante [[characters/quoodle|Quoodle]]. «L'ho fatto trasportare fin qui dentro un grosso cesto con l'etichetta "Esplosivi", titolo che pare essere stato [[motifs/well|ben]] scelto.»
+
+
+
+
+Entrando aveva fatto un inchino a Lady Enid e aveva preso la mano di Joan con il minimo accenno di voler farne qualcos'altro; ma riprese risolutamente la sua conversazione, che verteva sul tema dei cani.
+
+
+
+
+«Le persone che riportano indietro i cani», disse, «sono sempre avvolte da una nube di sospetto. Talvolta si insinua orribilmente che il cittadino che riporta il cane sia identico al cittadino che il cane l'ha portato via. Nel mio caso, naturalmente, una condotta simile è inconcepibile. Ma coloro che restituiscono i cani, quella classe prospera e crescente, sono anche accusati», proseguì, guardando dritto Joan, con vacui occhi azzurri, «di tornare per una Ricompensa. In questa accusa c'è più [[concepts/truth|verità]].»
+
+
+
+
+Poi, con un mutamento di modi più straordinario di qualsiasi rivoluzione, perfino della rivoluzione che ruggiva intorno alla casa, le riprese la mano e la baciò, dicendo, con sconcertante serietà:
+
+
+
+
+«So almeno che pregherete per la mia [[motifs/soul|anima]].»
+
+
+
+
+«Fareste meglio a pregare per la mia, se ne ho una», rispose Joan, «ma perché ora?»
+
+
+
+
+«Perché», disse Patrick, «udrete dall'esterno, potrete perfino vedere da quella [[motifs/window|finestra]] della torretta qualcosa che, nella brutale realtà dei fatti, non si è mai visto in Inghilterra dai tempi in cui l'esercito del Povero Monmouth cadde. In spirito e in [[concepts/truth|verità]] non accade dai tempi in cui Saladino e Cuor di [[motifs/lion|Leone]] si scontrarono. Aggiungo solo una cosa, e quella già la sapete. Ho vissuto amandovi e morirò amandovi. È l'unica dimensione dell'Universo in cui non ho vagato smarrendomi. Vi lascio il cane a guardia;» e scomparve giù per la vecchia scala sconnessa.
+
+
+
+
+Lady Enid era assai sconcertata che nessun inseguimento popolare assalisse quella scala o invadesse la casa. Ma Lady Joan la sapeva più lunga. Era andata, seguendo il suggerimento che più le stava a cuore, nella stanza della torretta e aveva guardato dalle sue molte finestre sul boschetto e sul tunnel abbandonati, ora recintati da alte mura, il confine della misteriosa proprietà accanto. Al di là di quell'alta barriera non riusciva nemmeno a vedere il tunnel, e a malapena le cime degli alberi più alti che ne nascondevano l'ingresso alla vista. Ma in un istante comprese che Dalroy non stava affatto scagliando le sue forze su Ivywood, bensì sulla casa e sulla tenuta al di là di essa.
+
+
+
+
+E poi seguì uno spettacolo che non fu un'esperienza ma piuttosto una visione roteante. Non riuscì mai a descriverlo in seguito, né poté farlo alcuno di coloro che furono coinvolti in una [[motifs/wheel|ruota]] tanto violenta e mistica. Aveva visto un'enorme muraglia di frangente inondare tutto il lungomare di Pebblewick; e si era stupita che un martello così immane potesse essere fatto di sola [[motifs/water|acqua]]. Non aveva mai avuto idea di cosa sia quando è fatto di uomini.
+
+
+
+
+La palizzata, eretta dal nuovo proprietario davanti al vecchio terreno ingarbugliato presso il tunnel, l'aveva a lungo considerata qualcosa di stabile e ordinario come una delle pareti del salotto. Oscillò, si spaccò e balzò in mille pezzi sotto il semplice urto di corpi umani scoppianti di rabbia; e la grande onda superò l'ostacolo con più nettezza di quanto avesse mai visto alcuna grande onda superare il lungomare. Solo che, quando lo steccato fu infranto, vide dietro di esso qualcosa che le tolse la ragione; sicché le parve di vivere in tutte le epoche e in tutte le terre insieme. Non riuscì mai a descrivere la visione in seguito; ma negò sempre che fosse un sogno. Disse che era peggio; era qualcosa di più reale della realtà. Era una fila di veri soldati, che è sempre uno spettacolo magnifico. Ma avrebbero potuto essere i soldati di Annibale o di Attila, avrebbero potuto essere dissepolti dai cimiteri di Sidone e di Babilonia, per quanto riguardava Joan. Là, accampato nei prati inglesi, con un biancospino davanti e tre faggi dietro, c'era qualcosa che non si era mai accampato più vicino di qualche lega a sud di [[settings/paris|Parigi]], da quando quel Carolus detto Il Martello lo respinse indietro a Tours.
+
+
+
+
+Là sventolava il verde stendardo di quella grande [[concepts/faith|fede]] e forte civiltà che tante volte è quasi entrata nelle grandi città d'Occidente; che a lungo cinse Vienna, che a stento fu sbarrata da [[settings/paris|Parigi]]; ma che mai prima era stata vista in armi sul suolo d'Inghilterra. A un capo della fila stava Philip Ivywood, in un'uniforme di sua speciale invenzione, un compromesso tra la divisa del Sepoy e quella turca. Il compromesso operava sempre più follemente nella mente di Joan. Se un'impressione rimaneva, era semplicemente che l'Inghilterra aveva conquistato l'India e la Turchia aveva conquistato l'Inghilterra. Poi vide che Ivywood, malgrado la sua uniforme, non era il Comandante di quelle forze, poiché un vecchio, con una grande cicatrice sul volto, che non era un volto europeo, si pose in prima fila nella battaglia, come se fosse stata una battaglia delle antiche epopee, e incrociò le spade con Patrick Dalroy. Era venuto a restituire la cicatrice sulla sua fronte; e la restituì con molte ferite, benché alla fine fosse lui a soccombere sotto il colpo di spada. Cadde bocconi; e Dalroy lo guardò con qualcosa di assai più grande della pietà. Il [[motifs/blood|sangue]] sgorgava dal polso e dalla fronte di Patrick, ma egli fece un saluto con la sua spada. Mentre lo faceva, il cadavere, come pareva, sollevò faticosamente un volto, con palpebre deboli. E, sembrando comprendere i punti cardinali per istinto, Oman Pasha si trascinò di un piede circa verso sinistra; e cadde con il volto rivolto verso La Mecca.
+
+
+
+
+Dopo di ciò la torretta girò e rigirò intorno a Joan, ed ella non sapeva se le cose che vedeva fossero [[concepts/history|storia]] o profezia. Qualcosa in quell'ultimo fatto di essere schiacciati dalle armi di uomini bruni e gialli, segretamente trincerati nei prati inglesi, aveva reso gli Inglesi ciò che non erano stati per secoli. Il biancospino era contorto e spezzato, come lo fu alla Battaglia di Ashdown, quando Alfredo guidò la sua prima carica contro i Danesi. I faggi erano schizzati fino ai rami più bassi con il mescolarsi del [[motifs/blood|sangue]] prode pagano e prode cristiano. Non seppe più nulla, salvo che, quando una colonna dei ribelli cristiani, guidata da Humphrey dell'Insegna della [[motifs/ship|Nave]], irruppe attraverso il tunnel ostruito e dimenticato e prese alle spalle il reggimento turco, fu la fine.
+
+
+
+
+Quella visione violenta e roteante divenne qualcosa al di là della voce umana o dell'orecchio umano. Non riusciva a udire distintamente nemmeno gli spari e le grida attorno all'ultima magnifica riscossa dei Turchi. Era naturale, dunque, che non udisse le parole che Lord Ivywood rivolse al suo vicino, un ufficiale turco, o piuttosto a se stesso. Ma le sue parole furono:
+
+
+
+
+«Sono andato dove Dio non ha mai osato andare. Sono al di sopra degli sciocchi superuomini come essi sono al di sopra dei semplici uomini. Là dove cammino nei Cieli, nessun uomo ha camminato prima di me; e sono solo in un [[motifs/garden|giardino]]. Tutto questo che mi passa accanto è come cogliere solitario, in un [[motifs/garden|giardino]], i [[motifs/flowers|fiori]] a uno a uno. Avrò questo fiore, avrò quello.»
+
+
+
+
+La frase si concluse così bruscamente che l'ufficiale lo guardò, come aspettando che parlasse. Ma egli non parlò.
+
+
+
+
+Ma Patrick e Joan, vagando insieme in un mondo reso di nuovo caldo e fresco, come può esserlo per pochi in un mondo che chiama frenesia il [[concepts/courage|coraggio]] e superstizione l'[[motifs/love|amore]], sentendo ogni albero ramificato come un amico con le braccia aperte per l'uomo, e ogni pendio digradante come un gran strascico che si trascina dietro la donna, salirono un giorno fino al piccolo cottage bianco che era ora la [[motifs/home|dimora]] del Superuomo.
+
+
+
+
+Sedeva giocando, con un volto pallido e riposato, con frammenti di fiori ed erba posti davanti a lui su un tavolo di legno. Non li notava, né alcun'altra cosa intorno a sé; a stento perfino Enid Wimpole, che badava a ogni suo bisogno.
+
+
+
+
+«È perfettamente felice», disse ella con calma.
+
+
+
+
+Joan, con l'ardore sul suo volto scuro, non poté trattenersi dal replicare: «E noi siamo così felici.»
+
+
+
+
+«Sì», disse Enid, «ma la sua felicità durerà», e pianse.
+
+
+
+
+«Capisco», disse Joan, e baciò la cugina, non senza [[motifs/tears|lacrime]] sue proprie.
+
 
 
 <span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_01" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 1)" data-chapter="A SERMON ON INNS" data-kind="excerpt" data-tags="motif/dance,motif/nature,motif/secrets,motif/time,motif/well,concept/history,concept/hope,concept/nature,form/history,histref/bible,histref/crusades,histref/spanish_inquisition,setting/castle"></span>

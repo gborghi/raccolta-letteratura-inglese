@@ -669,6 +669,662 @@ I shall do so, and the others who continue in like service will do so, first, be
 We have also this last consolation, that those who leave us and attach themselves from fear or greed to the stronger party of dissemblers gradually lose thereby their chance of fame in letters. Sound writing cannot survive in the air of mechanical hypocrisy. They with their enormous modern audiences are the hacks doomed to oblivion. We, under the modern silence, are the inheritors of those who built up the political greatness of England upon a foundation of free speech, and of the prose which it begets. Those who prefer to sell themselves or to be cowed gain, as a rule, not even that ephemeral security for which they betrayed their fellows; meanwhile, they leave to us the only solid and permanent form of political power, which is the gift of mastery through persuasion.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dedica
+
+Terra dei Re
+
+Shipley, Horsham.
+
+14 ottobre 1917.
+
+Il mio caro Orage
+
+Dedico questo breve saggio a voi non solo perché “The New Age” (il vostro giornale) lo ha pubblicato nella sua forma originale, ma soprattutto perché credo che siate stati, almeno nella sua forma moderna, i pionieri della stampa libera in questo paese. Ricordo bene quei tempi in cui si scriveva a “The New Age” semplicemente perché si sapeva che era l’unico giornale in cui si poteva raccontare la [[concepts/truth|verità]] riguardo alla nostra corrotta politica, o più in generale riguardo a qualsiasi forma di male potente. Quello fu alcuni anni fa; ma anche oggi, a [[settings/london|)Londra]], esiste solo un altro giornale che possa essere considerato tale, ed è “The New Witness”. Il vostro giornale e quello attualmente curato dal signor Gilbert Chesterton rappresentano i più completi esempi di stampa libera che abbiamo.
+
+Penso sia significativo che questi due articoli differiscano completamente per le filosofie su cui si basa la loro attività e per gli obiettivi sociali che perseguono. In altre parole, differiscono totalmente anche in termini di religione, che rappresenta la fonte ultima di ogni azione politica. Forse non esiste alcun problema importante, né nella morale privata né in quella pubblica, che uno di questi articoli non tenterebbe di risolvere in modo diverso – e spesso antagonistico – rispetto all’altro. Eppure, nonostante la loro limitata diffusione, la mancanza di sostegno pubblicitario e il raggio d’azione relativamente ristretto, questi articoli possiedono un’influenza che non solo è in aumento, ma che da tempo è decisamente sproporzionata rispetto alle loro dimensioni numeriche.
+
+Le cose accadono a causa delle parole pubblicate su “The New Age” e “New Witness”. Questo vale sempre meno per quella che ho definito la stampa ufficiale. Il fenomeno merita di essere analizzato: il suo interesse intellettuale, da solo, attirerà l’attenzione di qualsiasi storico del futuro. Si tratta di una forza numericamente molto piccola, priva di quella grande e ovvia potenza tipica dei nostri tempi (che è la capacità di corrompere), rigidamente boicottata al punto da essere quasi sconosciuta al di fuori del suo ristretto cerchio di seguaci e del tutto ignorata all’estero. Eppure questa forza sta operando, sta creando qualcosa in un momento in cui quasi tutto il resto sembra semplicemente aspettare il proprio turno; e l’effetto delle sue azioni diventa sempre più evidente.
+
+Il motivo è, naturalmente, quel principio che era comune nell’antichità, anche se quasi dimenticato dalla generazione moderna più recente: il fatto che la [[concepts/truth|verità]] possieda un potere proprio. Una semplice indignazione verso la falsità organizzata, una semplice ribellione contro di essa, sono già fonti di creatività.
+
+La tesi di questo breve saggio è, come vedrete, che la stampa libera riuscirà nel suo obiettivo principale, ovvero far conoscere la [[concepts/truth|_verità]].
+
+Devo ammettere che ci è stato un momento in cui non avrei scritto in modo così ottimistico.
+
+Alcuni anni fa, soprattutto dopo aver fondato “Eye-Witness”, nel tedio di quel lavoro, ero quasi convinto che il successo non fosse possibile da ottenere. È uno stato d’animo che accompagna l’esilio. Creare proprio questo stato d’animo è lo scopo stesso del boicottaggio a cui è sottoposta la stampa libera.
+
+Ma negli ultimi cinque anni ho avuto la possibilità di constatare che questo atteggiamento era falso. Ora è chiaro che un lavoro costante nel denunciare ciò che è male, nonostante le forze che vengono utilizzate per ostacolare tale denuncia, porta a dei risultati concreti. Ecco il motivo per cui ho scritto queste poche pagine: per convincere le persone che anche oggi si può fare qualcosa per promuovere riforme politiche, e che ancora oggi esiste spazio per la libertà di espressione.
+
+Alla fine di queste pagine dichiaro che non credo che lo spirito nuovo che abbiamo creato possa portare a qualche sistema di autogoverno, sia economico che politico. Penso che il decadimento sia ormai troppo avanzato per questo. In questa questione potrei sbagliarmi; si tratta soltanto di un’opinione riguardo al futuro. Per quanto riguarda l’altro aspetto, ho esperienza e esempi concreti davanti ai miei occhi, e sono certo che la battaglia per la libera discussione politica sia ormai vinta. La semplice conoscenza dei nostri mali pubblici, economici e politici, si diffonderà da ora in poi; e sebbene dobbiamo subire le conseguenze esterne di un regime così prolungato di menzogne, è ormai chiaro che quelle menzogne sono tali. L’espressione libera, anche se non porterà immediatamente a risultati concreti, almeno ora gode di una certa libertà; e i mali futuri che lo Stato dovrà ancora sopportare non verranno più tollerati in silenzio. Pertanto, valeva la pena lottare.
+
+Con sincera cordialità,
+
+H. Belloc.
+
+La stampa libera
+
+Propongo di discutere nel seguito del male rappresentato dalla grande stampa capitalista moderna, della sua funzione nel corrompere e informare erroneamente l’opinione pubblica, nonché nel mettere il potere in mani ignobili; inoltre, considereremo come possano essere corretti questi problemi attraverso la creazione di piccoli organi di stampa indipendenti, e analizzeremo anche l’efficacia probabilmente crescente di tali mezzi.
+
+I
+
+Circa duecento anni fa, in Europa iniziarono ad apparire molte cose che erano il frutto della combinazione tra la [[historical-references/renaissance|>Rinascita]] e la [[historical-references/reformation|>Riforma]]: due fenomeni gemelli e conflittuali.
+
+Queste cose apparvero innanzitutto in Inghilterra, perché l’Inghilterra era l’unica provincia d’Europa in cui la vecchia tradizione latina coesisteva accanto ai nuovi effetti del protestantesimo. Ma se non fosse stato per il grande scisma e l’eresia del XVI secolo, che oggi stanno già cominciando a dissolversi, tutto ciò sarebbe scomparso molto tempo fa. Si sarebbe limitato, per alcune generazioni, a quelle parti settentrionali del continente che non avevano mai veramente assimilato i principi fondamentali della cultura romana, ma li avevano accettati in modo meccanico. Sarebbe finito con la Guerra dei Trent’anni, o poco dopo.
+
+Fu la defezione della Corona inglese, il enorme bottino rapidamente ottenuto da pochi avventurieri, come i Cecil e i Russell, e un numero ancora più ristretto di antiche famiglie, come gli Howard, a far sì che l’Inghilterra, con tutte le sue profonde tradizioni e tutto il suo patrimonio culturale ereditato dalle grandi nazioni europee, si schierasse al fianco delle regioni settentrionali della Germania. Fu quindi inevitabile che in Inghilterra questi cambiamenti si manifestassero per primi, poiché solo qui esistevano le condizioni ideali per il loro sviluppo.
+
+Quel fenomeno su cui le nostre osservazioni moderne si sono concentrate maggiormente è stato il [[concepts/capitalism|capitalismo]].
+
+Il [[concepts/capitalism|capitalismo]] nacque in Inghilterra e a seguito della [[historical-references/reformation|Riforma]] inglese; tuttavia, non raggiunse la sua piena forma fino all’inizio del XVIII secolo. Nel XIX secolo maturò definitivamente.
+
+Un altro frutto affine a questi fenomeni è ciò che oggi chiamiamo Finanza, ovvero il dominio dello Stato da parte di capitalisti privati che, approfittando delle esigenze dello Stato, impongono su di esso un onere finanziario sempre maggiore e lavorano costantemente per garantire fluidità, anonimato e irresponsabilità nelle loro operazioni. Fu ancora in Inghilterra che tutto ciò ebbe inizio, con quella che ritengo sia stata la prima vera “Debita Pubblica”: un fenomeno nato contemporaneamente allo sviluppo del capitalismo industriale.
+
+Un altro esempio è quella curiosa e certamente effimera deviazione della mente umana che si è già verificata nella storia dell’umanità: si tratta di ciò che viene chiamato “sofistica”, ovvero la creazione di “sistemi” al fine di spiegare il mondo. A differenza della Filosofia, che mira a rispondere alle domande, a risolvere i problemi e a stabilire definitivamente la [[concepts/truth|verità]], la sofistica si limita a costruire teorie apparentemente logiche ma prive di fondamento reale.
+
+Ma quello che è davvero più interessante, anche se rappresenta soltanto un frutto secondario, è quella cosa chiamata “La Stampa”. Anche essa iniziò a emergere contemporaneamente al [[concepts/capitalism|capitalismo]] e alle finanze: è cresciuta insieme a loro e le ha servite. Ha raggiunto l’apice del suo potere nello stesso momento moderno in cui lo hanno fatto anche essi.
+
+Consideriamo esattamente cosa significhi; così comprenderemo meglio come si sia sviluppato.
+
+II
+
+“La stampa”, per lo scopo di tale esame, si riferisce alla diffusione, attraverso fogli pubblicati con frequenza e regolarità (solitamente quotidiani), di (1) notizie e (2) idee proposte al pubblico.
+
+Queste due cose sono molto diverse per natura e dovrebbero essere considerate separatamente, anche se si sovrappongono in un certo senso: le idee errate vengono infatti suggerite da notizie false, soprattutto da quelle che risultano false a causa di censure o omissioni.
+
+Prima di tutto, le notizie…
+
+Le notizie, ovvero le informazioni riguardanti quelle cose che ci influenzano ma che non sono immediatamente visibili ai nostri occhi, sono necessarie per la vita dello Stato.
+
+Quello che è ovvio, estremamente economico e universale come mezzo di diffusione, è la parola di bocca.
+
+Un uomo ha visto qualcosa; molti uomini hanno visto la stessa cosa. Essi ne fanno testimonianza, e altri che li hanno ascoltati ripetono questa testimonianza. La stampa ha introdotto in questo sistema naturale (che è ancora quello su cui tutti gli uomini razionali agiscono, ogni volta che possono, nelle questioni che li riguardano più da vicino) due elementi nuovi, entrambi estremamente corrottori. In primo luogo, ha conferito alle parole stampate una capacità di diffusione tale che le parole pronunciate ripetutamente non potevano competere con esse. In secondo luogo, ha dato loro una somiglianza meccanica che era esattamente l’opposto dei caratteri distintivi delle notizie autentiche e sane.
+
+Insisterei particolarmente su questo ultimo punto. È poco conosciuto, ma è di vitale importanza.
+
+Se vogliamo capire cosa pensare di un incendio che si è verificato a molte miglia di distanza, ma che colpisce anche i nostri beni, ascoltiamo le descrizioni fornite da decine di persone. In modo rapido e istintivo, differenziamo queste descrizioni in base alle caratteristiche dei testimoni. Altrettanto istintivamente, verifichiamo tali descrizioni in base alle probabilità intrinseche della situazione.
+
+Un uomo onesto e sobrio ci racconta che il tetto della casa è crollato; un individuo immaginario, che inoltre è anche un truffatore, ci assicura invece che in seguito abbia visto il tetto ancora intatto. Ricordiamo che il tetto era formato da travi di ferro ricoperte di legno, e ne deduciamo quindi che la struttura principale sia ancora in piedi, ma che il tetto stesso sia crollato trasformandosi in un mucchio di macerie fiammeggianti. Il nostro buon senso e la nostra conoscenza della situazione ci portano piuttosto a credere alla versione negativa, e abbiamo ragione. Tuttavia, per natura, i media non possono raccogliere un gran numero di testimonianze separate: richiederebbe troppo tempo e sarebbe troppo costoso farlo. Inoltre, non sono nemmeno in grado di fornire la credibilità di ciascuna di queste testimonianze. Pertanto, anche quando le informazioni fornite dai media sono attendibili, ci presentano soltanto un’affermazione semplice e superficiale. Questa singola notizia viene poi diffusa in modo uniforme e con estrema rapidità; al posto di un’impressione formata attraverso il confronto di molteplici fonti umane, il lettore riceve soltanto una versione “meccanica” della notizia. Nello stesso istante, milioni di altre persone ricevono la stessa informazione; la loro adesione a essa rafforza ulteriormente quella del lettore stesso. Anche quando chi diffonde la notizia non ha motivi particolari per mentire, il messaggio viene comunque trasmesso in una forma distorta e disumana. Quando invece ha motivi per mentire (il che di solito accade), la sua menzogna può risultare più efficace di qualsiasi verità detta o scritta.
+
+Se ciò vale per le notizie e per il loro deterioramento a causa della stampa, allora è ancora più vero per le opinioni e le idee suggerite.
+
+Le opinioni, soprattutto, le giudichiamo in base alle personalità di coloro che le esprimono: dalla voce, dal tono, dall’espressione e dal carattere conosciuto di quelle persone. La stampa elimina tre quarti di tutti quegli elementi attraverso cui si potrebbero giudicare le opinioni; eppure le presenta con maggiore forza. L’idea viene presentata in modo quasi impersonale, ma con una forza particolare, perché sembra provenire da un’autorità troppo sicura e superiore per essere messa in discussione. Viene improvvisamente comunicata a migliaia di persone; non incontra alcuna opposizione, a meno che per caso un altro “controllore” di queste strutture mediatiche non la contraddica, e che questa contraddizione venga letta dagli stessi individui che hanno letto la prima dichiarazione.
+
+Questi caratteri generali erano già presenti nella stampa fin dalle sue origini, quando ogni giornale riguardava soltanto un cerchio relativamente ristretto di lettori; quando la distribuzione era difficile e il pubblico a cui si rivolgeva era selezionato e in grado, in qualche misura, di criticare ciò che gli veniva presentato. Tuttavia, non avevano una grande influenza, poiché le possibilità di un giornale erano ancora limitate. Il vecchio metodo per ottenere notizie veniva ancora ricordato e utilizzato. I lettori abituali di qualsiasi tipo di pubblicazione, sia cartacea che libraria, erano pochi, e questi pochi davano molto più importanza alla qualità di ciò che leggevano che alla quantità. Inoltre, disponevano di alcuni mezzi per giudicare la [[concepts/truth|veridicità]] e il valore di quanto veniva loro presentato.
+
+In questa fase iniziale, inoltre, la stampa era necessariamente molto eterogenea. Un uomo poteva stampare e vendere con profitto mille copie della propria versione di una notizia, delle proprie opinioni o quelle del proprio gruppo. C'erano centinaia di altre persone che, se si prendevano la briga di farlo, avevano i mezzi per pubblicare una versione alternativa e un punto di vista diverso. Vedremo come, con lo sviluppo del [[concepts/capitalism|capitalismo]], queste garanzie scomparissero e i comportamenti negativi descritti aumentassero fino alle loro attuali dimensioni.
+
+III
+
+Accanto allo sviluppo del [[concepts/capitalism|Capitalismo]], si verificò un cambiamento nella stampa, che passò da uno stato primitivo a uno ancora peggiore. Lo sviluppo del [[concepts/capitalism|Capitalismo]] significava che un numero sempre più ristretto di persone controllava i mezzi di produzione e distribuzione, permettendo così di stampare giornali più dettagliati rispetto ai modelli precedenti. Quando la distribuzione dei giornali iniziò a cambiare con l’avvento delle ferrovie, la differenza rispetto alle condizioni precedenti divenne ancora più evidente: nacquero forse cento o duecento “organi di stampa”, come venivano chiamati all’epoca; in questo paese e nelle Lowlands della Scozia, questi giornali comunicavano agli uomini ciò che i loro proprietari decidevano di far loro sapere, sia riguardo alle notizie che alle opinioni. La popolazione era ancora abbastanza distribuita geograficamente; esistevano diverse capitali locali; la distribuzione dei giornali non era ancora così organizzata da permettere a un quotidiano stampato anche a Birmingham di competere con uno stampato a [[settings/london|Londra]], situata soltanto a 100 miglia di distanza. I giornali stampati in luoghi più lontani da [[settings/london|Londra]], come York, Liverpool o Exeter, erano invece più indipendenti.
+
+Inoltre, la maggior parte delle persone, sebbene all’epoca si leggesse e si scrivesse di più rispetto a oggi, non aveva ancora acquisito l’abitudine di leggere quotidianamente.
+
+Si può dubitare che anche oggi la maggior parte delle persone (nel senso della stragrande maggioranza dei cittadini adulti) faccia ancora ciò. Ma quello che intendo dire è che nel periodo di cui parlo (la prima metà e una parte della seconda metà del XIX secolo), non era abitudine regolare per coloro che lavoravano con le mani leggere i giornali. I giornali erano ancora scritti principalmente per coloro che avevano tempo libero; per coloro che, nella maggior parte dei casi, viaggiavano, e per coloro che possedevano almeno una conoscenza di base delle discipline umanistiche.
+
+Gli articoli che appaiono sui giornali sono spesso scritti da persone meno colte. Ma coloro che li scrivono lo fanno consapevoli del fatto che il loro pubblico è proprio quello che ho descritto. Ancora oggi, nelle zone rurali della nostra vecchia nazione, gran parte di questa tradizione sopravvive. La gente di campagna nel mio quartiere sa leggere altrettanto bene quanto me; ma preferisce conversare tra loro quando hanno tempo libero, o al massimo assorbire in pochi momenti le notizie principali sulla guerra. Preferiscono questo, dico, come abitudine mentale, piuttosto che immergersi in pagine e pagine di testo stampato – soprattutto nei giornali domenicali – che oggi costituiscono l’unico “nutrimento” per le persone della città. Questo perché in campagna un uomo ha veri vicini, mentre nelle città tutti sono isolati, mentalmente (e spesso anche fisicamente) affamati.
+
+IV
+
+Nel frattempo, in relazione a questa nuova istituzione, la “Stampa”, era emerso un fattore di estrema importanza: anch'esso di origine capitalista e, pertanto, inevitabilmente caratterizzato da tutti i vizi nocivi del [[concepts/capitalism|capitalismo]], man mano che il suo impatto si ampliava. Questo fattore era rappresentato dai sussidi derivanti dalle pubblicità.
+
+All’inizio, la pubblicità non costituiva una forma di sussidio. Un uomo che desiderava far conoscere qualcosa poteva farlo in modo molto più ampio e immediato attraverso un giornale rispetto a qualsiasi altro mezzo. Pagava il giornale affinché pubblicasse l’informazione che voleva diffondere, ad esempio perché aveva una casa da affittare o del vino da vendere.
+
+Ma era chiaro che ciò avrebbe inevitabilmente portato allo stato di cose paradossale da cui abbiamo iniziato a soffrire alla fine del XIX secolo. Un giornale otteneva i propri introiti non solo dalle somme pagate dalle persone per acquistarlo, ma anche da quelle che spendevano per far conoscere i propri prodotti o le proprie esigenze attraverso di esso. Pertanto, era possibile produrlo in modo redditizio anche a un costo superiore al suo prezzo di vendita. I ricavi derivanti dalla pubblicità permettevano a qualcuno di stampare un giornale spendendo 2 penny e di venderlo a 1 penny.
+
+Nella semplice e più antica forma di pubblicità, l’unica cosa presa in considerazione dall’annunciatore era l’entità e la natura della diffusione del suo messaggio; colui che stampava il giornale otteneva sempre maggiori profitti aumentando quella diffusione, offrendo contenuti più interessanti e un formato più attraente, pur vendendo il prodotto a un prezzo sempre inferiore al costo di produzione.
+
+Quando si scoprì quanto potente potesse essere l’effetto della suggestione sui lettori delle pubblicità, soprattutto su un pubblico come quello delle nostre grandi città moderne – un caos, ripeto, di menti isolate, con una diminuzione dell’esperienza personale e di una tradizione comunitaria sempre più debole – il valore dello spazio pubblicitario aumentò rapidamente. Diventò sempre più allettante “fondare un giornale”, ma allo stesso tempo lo sviluppo del capitalismo rendeva questa iniziativa sempre più rischiosa. Era sempre più difficile avviare un nuovo giornale, anche di tipo locale: le spese aumentavano costantemente e le perdite, in caso di fallimento, diventavano sempre più gravi e rapide. La pubblicità divenne quindi la principale fonte di profitto, e l’offrire sempre di più, a vari livelli, per un penny o mezzo penny, divenne l’obiettivo principale dei proprietari di giornali ormai ricchi e interamente orientati al capitalismo.
+
+Molto prima dell’ultimo terzo del XIX secolo, un giornale, se aveva una grande diffusione, era in ogni caso un’impresa o un’attività che dipendeva interamente dai suoi inserzionisti. Aveva smesso di considerare il proprio pubblico altro che come esca per attirare gli inserzionisti; in questa fase, sopravviveva interamente grazie alle sue colonne pubblicitarie.
+
+V
+
+Fermiamoci a questa fase dello sviluppo della cosa in esame per analizzare alcune altre modifiche che stavano per verificarsi e il motivo per cui stavano per accadere.
+
+In primo luogo, se la pubblicità diventasse l’elemento principale di un giornale, il capitalista che ne fosse proprietario considererebbe necessariamente i propri introiti derivanti dalla pubblicità prima di qualsiasi altra cosa. Infatti, sarebbe costretto a farlo, a meno che non avesse enormi entrate da altre fonti e gestisse il proprio giornale come un lusso che richiedesse una notevole spesa annua. In questo settore, infatti, la regola è: o profitti molto elevati, oppure perdite molto grandi e rapide – perdite dell’ordine di almeno 100.000 sterline all’anno, nel caso di un grande quotidiano.
+
+Fu quindi costretto a rispettare i suoi inserzionisti come i suoi finanziatori. In questa misura, dunque, il suo potere di fornire notizie vere e di pubblicare opinioni valide era limitato, anche se le sue inclinazioni personali tendessero verso tali notizie e opinioni.
+
+Ad esempio, un proprietario di un giornale potrebbe provare un profondo disprezzo per il commercio dei farmaci brevettati. Potrebbe opporsi alle truffe ai danni dei poveri, che rappresentano l’essenza stessa di quel settore. Potrebbe anche aver personalmente sofferto gravi dolori fisici a causa dell’uso imprudente di uno di quei farmaci fraudolenti. Tuttavia, non potrebbe assolutamente pubblicare un articolo contro di loro, né tantomeno uno che descrivesse il modo in cui vengono prodotti, senza rischiare di perdere una gran parte dei propri introiti; forse addirittura tutti, a causa delle molestie causate ad altri inserzionisti, i quali, notando la sua indipendenza, temerebbero di incorrere in problemi. Preferirebbe quindi mantenere i propri guadagni, convincere i suoi lettori ad acquistare prodotti dannosi, e rimanere personalmente libero dal toccare quelle sostanze che consiglia in cambio di denaro.
+
+Proprio come per i farmaci brevettati, lo stesso valeva per qualsiasi altra cosa venisse pubblicizzata. Per quanto quella cosa potesse essere cattiva, scadente, dannosa o persino traditoria, il proprietario aveva sempre la possibilità di scegliere: pubblicare qualcosa che non lo riguardasse e così salvare la propria fortuna, oppure rifiutarsi e correre il rischio di perderla. Lui scelse la prima opzione.
+
+In secondo luogo, ci fu uno sviluppo ancora più grave. Poiché la pubblicità era diventata l’elemento fondamentale per il funzionamento del giornale, i grandi inserzionisti (con lo sviluppo del [[concepts/capitalism|capitalismo]] e con una riduzione dei controlli e un aumento della loro interconnessione) non potevano fare a meno di considerare la pubblicazione delle proprie inserzioni come una sorta di favore.
+
+C’è sempre questo elemento psicologico, o, per così dire, artistico, nell’equazione.
+
+Nell’economia pura, lo scambio è esattamente bilanciato dai rispettivi vantaggi delle parti coinvolte; proprio come nella dinamica pura esiste il parallelogramma delle forze. Nella vasta complessità del mondo reale, però, attrito e un milione di altri fattori influenzano questo ideale modello di equilibrio; nell’economia, inoltre, a determinare gli scambi agiscono anche altre motivazioni, oltre alla semplice avidità: sono all’opera milioni di motivi semi-consci e subconsci.
+
+Il grande inserzionista continuava principalmente a pagare per gli annunci in base alla circolazione del giornale, ma iniziò anche ad essere influenzato da considerazioni meno dirette. Non avrebbe pubblicizzato nei giornali che riteneva potessero, con la diffusione delle loro opinioni, danneggiare l’[[concepts/capitalism|capitalismo]] nel suo complesso; tanto meno in quelli le cui posizioni potessero avere un impatto negativo sulla sua stessa fortuna personale. Stupido (come tutti coloro che sono ossessionati dal desiderio di guadagnare), non riusciva a comprendere chiaramente la differenza tra un giornale a grande circolazione e uno a piccola circolazione ma destinato ai ricchi. Avrebbe rifiutato di pubblicizzare annunci relativi a beni di lusso su un giornale letto dalla metà della classe più agiata, se avesse sentito nel National Liberal Club o in qualche altro luogo simile che quel giornale aveva “cattivo gusto”.
+
+Non solo esisteva questo potere negativo nelle mani dell’annunciatore: il potere di rifiutare di concedere favori o patrocinio alle proprie pubblicità; c’era anche un potere positivo, sebbene quest’ultimo si sviluppasse solo in seguito.
+
+L’annunciatore si rese conto di poter effettivamente imporre le proprie politiche e opinioni; inoltre, aveva a disposizione un altro strumento estremamente potente e innovativo: la censura delle notizie.
+
+Non dobbiamo esagerare riguardo a questo aspetto. Da un lato, il potere rappresentato dalla grande stampa capitalista era paragonabile a quello dei grandi inserzionisti pubblicitari; dall’altro, non esisteva una distinzione netta tra il [[concepts/capitalism|capitalismo]] che possedeva i giornali e il capitalismo che si occupava di pubblicità. Lo stesso uomo che possedeva “The Daily Times” era anche azionista di aziende produttrici di sapone o pillole. Chi perdeva soldi scommettendo su un’opera teatrale pubblicizzata nello stesso giornale poteva allo stesso tempo guadagnare facendo investimenti simili in altre pubblicità. Non esisteva alcun antagonismo tra interessi di classe; anzi, questi interessi appartenevano alla stessa categoria e provenivano dalla stessa origine sociale. L’uomo che arricchiva rapidamente speculando sui giornali – o finiva in prigione a causa di ciò – era esattamente lo stesso tipo di persona dell’uomo che acquistava titoli nobiliari attraverso accordi commerciali nei teatri o che rischiava la vita giocando d’azzardo con l’argento indiano. Questo è il tipico rappresentante della società moderna: i parlamenti ne sono pieni, e molti di loro gestiscono giornali soltanto come una delle loro attività commerciali – tutte queste attività, in ogni caso, necessitano della pubblicità per funzionare.
+
+Il proprietario del giornale e l’annunciatore, quindi, si mescolavano tra loro. Ma nel complesso, l’influenza dell’industria pubblicitaria, essendo più diffusa, risultava più potente; di conseguenza si verificava una sorta di imposizione, spesso piuttosto consapevole e diretta, del potere pubblicitario sulla stampa. E questo, come ho detto, non era solo negativo (il che era già da tempo evidente), ma anche, in definitiva, positivo.
+
+A volte si svolge una battaglia aperta tra l’annunciatore e il proprietario del mezzo di comunicazione, soprattutto quando, come nel caso dei creatori di monopoli artificiali, entrambi i contendenti sono di tipo meschino, astuto e poco intelligente. Continuamente si verificano piccoli scontri dovuti alla stessa causa. A volte la vittoria va al proprietario del giornale, più spesso all’annunciatore – mai al pubblico.
+
+Finora, abbiamo visto che lo sviluppo della stampa è caratterizzato da queste peculiarità: (1) Finisce nelle mani di pochissimi uomini ricchi, e quasi sempre di individui di origine e capacità modeste; (2) Nelle loro mani, la stampa diventa semplicemente un’impresa commerciale; (3) È sostenuta economicamente dagli inserzionisti, i quali possono in parte controllarla. Tuttavia, questi inserzionisti condividono con i proprietari dei giornali gli stessi interessi capitalistici, sia per motivi che per metodi di operazione. Pertanto, il loro potere non entra in conflitto diretto con quello dei proprietari dei giornali; tuttavia, il fatto che la pubblicità sia fondamentale per il funzionamento della stampa ha determinato lo sviluppo di standard qualitativi nella stampa e nella carta utilizzata, tali da impedire a chiunque – tranne che a costo di perdite disastrose – di pubblicare regolarmente notizie e opinioni che non siano approvate dagli inserzionisti capitalisti.
+
+Sembra che per qualsiasi stampa indipendente non esista alcuna base economica possibile, poiché al pubblico è stato insegnato ad aspettarsi qualcosa che costa tre volte di più di quanto ne costi effettivamente produrlo; la differenza viene coperta dai sussidi pubblicitari.
+
+Ma ora c'è una corruzione ancora più grave all'opera, rispetto a questo potere sempre negativo e a volte positivo degli inserzionisti.
+
+È l’avvento del grande proprietario di giornali come vera forza dominante nel meccanismo politico dello Stato, superiore agli stessi funzionari statali: nomina i ministri e li destituisce, impone le politiche da seguire e, in generale, usurpa la sovranità – tutto questo in modo segreto e senza alcuna responsabilità.
+
+È l’evento politico principale del nostro tempo e rappresenta la caratteristica distintiva di questo paese oggi. Il suo pieno sviluppo ci è arrivato improvvisamente, cogliendoci di sorpresa nel mezzo di una terribile guerra. Solo pochi anni fa era qualcosa di inimmaginabile; oggi, invece, rappresenta il fattore fondamentale del nostro intero sistema politico. Un Primo Ministro viene nominato o destituito dal proprietario di un gruppo di giornali, e non tramite votazione popolare né alcuna altra forma di autorità aperta.
+
+Nessuna politica viene proposta prima di verificare che il proprietario del giornale la sostenga. Poche iniziative vengono presentate senza consultare prima i suoi desideri; molte, invece, sono direttamente ordinate da lui. Oggi, se parliamo di cose concrete (come fanno gli uomini nei loro consigli privati a Westminster), il governo non è più guidato né dai politici professionisti, né da coloro che li pagano, ma da chiunque sia, in quel momento, il proprietario di un giornale più spregiudicato e ambizioso.
+
+Come è potuta verificarsi una tale catastrofe? È questo che dobbiamo indagare prima di proseguire nell’esaminare le sue cause e i possibili rimedi.
+
+VI
+
+Durante tutto questo sviluppo della stampa, è sempre esistita una certa definizione delle sue funzioni: innanzitutto come dottrina plausibile e discutibile; in seguito come tradizione ormai lontana dalla realtà; infine come ipocrisia che continuava a fingere di rappresentare la [[concepts/truth|verità]]. È necessario comprendere appieno questa dottrina prima di analizzare la natura della stampa nei tempi attuali.
+
+Questa dottrina sosteneva che la stampa fosse un organo di opinione, cioè un’espressione del pensiero e della volontà pubblica.
+
+Perché questa dottrina è stata inizialmente quella che ho definito “plausibile e discutibile”? A prima vista sembrerebbe non essere né l’una né l’altra.
+
+Un uomo che controlla un giornale può stampare qualsiasi sciocchezza o menzogna desideri. Lui è il dittatore, non il suo pubblico; quest’ultimo riceve soltanto ciò che viene pubblicato.
+
+Sì: ma è limitato dal suo pubblico.
+
+Se fossi abbastanza ricco da acquistare una grande stampa rotativa e stampare un milione di copie di un giornale quotidiano con notizie del tipo “Il Papa è diventato metodista” o opinioni del genere (“I chiodini di latta costituiscono un ottimo cibo per la colazione”), ovviamente tale giornale non avrebbe alcun impatto sul pensiero comune. Nessuno, al di fuori della piccola minoranza cattolica, vorrebbe leggere notizie del Papa; e nessuno, né cattolico né musulmano, crederebbe che sia diventato metodista. Inoltre, nessuno accetterebbe mai di mangiare chiodini di latta. Un giornale che pubblicasse cose del genere potrebbe farlo liberamente; il proprietario potrebbe sicuramente convincere i suoi dipendenti, o la maggior parte di loro, a scrivere ciò che gli viene detto. Ma i suoi giornali non venderebbero mai.
+
+È perfettamente chiaro che la stampa, in sé, rappresenti semplicemente le notizie che i suoi proprietari desiderano pubblicare e le opinioni che vogliono diffondere; ed questo argomento contro la stampa è sempre stato utilizzato da coloro che si oppongono alla sua influenza in qualsiasi momento.
+
+Ma non c’è fumo senza fuoco, e l’elemento di [[concepts/truth|_verità]] nella leggenda secondo cui la stampa “rappresenta” l’opinione pubblica risiede nel fatto che esiste un limite alle contraddizioni assurde rispetto alle verità conosciute; al di là di questo limite, la stampa non può andare avanti senza subire gravi perdite finanziarie a causa della diminuzione delle vendite, il che equivale a una perdita di potere. Quando le persone parlavano dei proprietari dei giornali come di coloro che “rappresentavano l’opinione pubblica”, in tali affermazioni c’era un barlume di realtà, per quanto assurde possano sembrarci oggi. Anche se la dottrina secondo cui i giornali sono “organi dell’opinione pubblica” era (come la maggior parte delle cosiddette dottrine “liberali” del XIX secolo) falsamente enunciata e ipocrita, conteneva comunque quell’elemento di [[concepts/truth|_verità]] – almeno nella fase iniziale dello sviluppo dei giornali. Ancora oggi, in essa persiste una certa veridicità.
+
+I giornali vengono offerti in vendita soltanto; la loro acquisto non è (almeno per ora) obbligatorio. Pertanto, un giornale non può avere successo se non pubblica notizie che interessino le persone e che queste possano comprendere facilmente. Un giornale può creare interesse attorno a determinati argomenti, ma ci sono alcune tendenze fondamentali negli affari umani che né il proprietario di un giornale né alcun altro individuo possono controllare. Se l’Inghilterra fosse in guerra, nessun giornale potrebbe boicottare le notizie relative alla guerra e sopravvivere. Se [[settings/london|Londra]] venisse distrutta da un terremoto, nessuna forza pubblicitaria delle compagnie assicurative né alcun interesse privato dei proprietari di giornali nel settore immobiliare potrebbero impedire che la notizia venisse pubblicata.
+
+Infatti, fino a tempi piuttosto recenti – diciamo, fino agli anni ’80 circa – la maggior parte delle notizie pubblicate riguardava davvero argomenti che le persone volevano conoscere. Per quanto distorte, troncate o falsificate, trattavano comunque di questioni interessanti; tali argomenti non erano stati scelti dai proprietari dei giornali per motivi personali, e l’opinione pubblica, nel suo complesso, era interessata ad apprenderne di più. Anche oggi, a parte la situazione bellica, questo aspetto è ancora molto presente.
+
+Esisteva (e esiste ancora) un ulteriore modo per verificare l’artificialità del lato notizieristico della stampa: la Realtà, infatti, alla fine si fa sempre strada.
+
+Non si può, oltre un certo limite di tempo, nascondere la realtà.
+
+In breve, la stampa deve sempre occuparsi principalmente di ciò che viene definito “temi attuali”. Può boicottare con grande efficacia, e lo fa effettivamente, esercitando un potere totale in questo senso. Tuttavia, non può creare artificialmente, in modo illimitato, gli oggetti di cui parlare nei notiziari.
+
+Quindi, c’è davvero del vero nell’antica definizione secondo cui la stampa è “un organo di opinione”: in qualche misura (e anzi, in una misura considerevole), deve presentare argomenti concreti su cui osservare e dibattere. Può scegliere ciò che pubblica, ma anche distorcerne il significato. Tuttavia, deve sempre farlo entro determinati limiti.
+
+Penso che queste limitazioni siano già state raggiunte; ma è un argomento su cui discuterò più approfonditamente in seguito.
+
+VII
+
+Per quanto riguarda le opinioni, si hanno gli stessi limiti.
+
+Se un'opinione può essere diffusa nonostante, o addirittura durante, l'indifferenza della stampa (e questo è un “se” molto importante); se non esiste alcun meccanismo per reprimere effettivamente la semplice enunciazione di una dottrina chiaramente importante per i suoi lettori, allora la stampa sarà costretta, prima o poi, a occuparsi di tale dottrina: proprio come è costretta a trattare notizie davvero vitali.
+
+Anche qui abbiamo a che fare con qualcosa di ben diverso da quel titolo di “organo dell’opinione” che il grande giornale ha in passato preteso. Ma io sostengo la [[concepts/truth|verità]] che la Stampa — nel senso dei grandi giornali capitalisti — non può essere del tutto separata dall’opinione.
+
+Ne abbiamo avuti tre grandi esempi ai nostri tempi in Inghilterra. Due provenivano dalla piccola classe dei ricchi, uno dalla massa del popolo.
+
+I due che provenivano dalle piccole classi abbienti furono il movimento fabiano e il movimento per il suffragio femminile. Quello che proveniva dal popolo fu l’improvvisa, breve (e rapidamente soffocata) insurrezione delle classi lavoratrici contro i loro padroni nella questione del lavoro cinese in Sudafrica.
+
+Il movimento fabiano, che era un movimento da salotto, costrinse la Stampa a discutere il socialismo, pro e contro. Benché si facesse ogni sforzo per boicottare la tesi socialista sulla Stampa, i fabiani furono alla fine abbastanza forti da imporne la discussione, e ormai hanno incanalato tutta la faccenda nella direzione del loro “Stato servile”. Io stesso non sono più che di mezza età, ma ricordo il tempo in cui giornali popolari come “The Star” stampavano apertamente argomenti in favore del collettivismo; e sebbene oggi quegli argomenti non si sentano mai sulla Stampa — in gran parte perché la stessa Società Fabiana ha abbandonato il collettivismo in favore del lavoro forzato — possiamo tuttavia essere certi che un giornale capitalista non li avrebbe discussi affatto, e tanto meno sostenuti, se non vi fosse stato costretto. I giornali semplicemente non potevano ignorare il socialismo in un tempo in cui il socialismo raccoglieva ancora un corpo di opinione davvero forte fra i ricchi.
+
+Lo stesso accadde col suffragio alle donne, grido che una cricca di ricche signore sollevò a [[settings/london|Londra]]. Io non ho mai capito bene perché queste ricche signore desiderassero un’assurdità come il moderno diritto di voto, né perché odiassero così ciecamente l’istituzione cristiana della Famiglia. Suppongo fosse una qualche perversione. Ma, comunque sia, esse mostrarono grande sincerità, entusiasmo e devozione, soffrendo molte cose per la loro causa e agendo nell’unico modo che sia davvero pratico nella nostra plutocrazia: vale a dire rendendo estremamente scomoda la vita ai loro pari ricchi. Si può dire che nessun giornale abbracciò la causa, ma almeno essa non fu boicottata. Fu attivamente discussa.
+
+Il piccolo fuoco di paglia del lavoro cinese fu, credo, ancora più notevole. La Stampa non solo ricevette ordine dalle gemelle Macchine di Partito (con cui era allora alleata a scopo di potere) di boicottare rigidamente l’agitazione sul lavoro cinese, ma era manifestamente nell’interesse di tutti i proprietari capitalisti di giornali boicottarla, e la boicottarono — finché poterono. Ma fu troppo per loro. Furono travolti. Vi furono grandi assemblee nelle contee del Nord che quasi raggiunsero la dignità di un’azione popolare, e la Stampa alla fine non solo prese la questione in discussione, ma a quanto pare si permise un certo timido sostegno.
+
+Il mio punto è dunque questo: che l’idea della Stampa come “organo della pubblica opinione”, cioè come “espressione del pensiero e della volontà generali”, non è soltanto ipocrita, per quanto lo sia soprattutto. C’è ancora qualcosa in quella pretesa. Una generazione fa ce n’era di più, e un paio di generazioni fa ce n’era ancora di più.
+
+Anche oggi, se un grande giornale andasse decisamente contro la volontà nazionale nella questione della guerra presente, sarebbe rovinato; e i giornali che nel 1914 appoggiarono l’intrigo di Gabinetto per abbandonare i nostri Alleati all’inizio della guerra sono stati da tempo costretti a rimangiarsi le proprie parole.
+
+Poiché la forza di un proprietario di giornale sta nel suo potere di ingannare il pubblico e di tacere o pubblicare a piacimento le cose nascoste: questo suo potere atterrisce i politici di professione che detengono l’autorità nominale: in una parola, il proprietario del giornale controlla il politico di professione perché può ricattarlo, e lo ricatta, specialmente sulla sua vita privata. Ma se non dispone di un vasto pubblico questo potere di ricatto non esiste; e può disporre di un vasto pubblico — cioè di una vasta tiratura — solo interessando quel pubblico e perfino lusingandolo, facendogli credere che le sue opinioni gli siano rispecchiate — non create — da altri.
+
+Il potere della Stampa non è un potere diretto e aperto. Dipende da un gioco d’[[concepts/deception|inganno]]; e nessun gioco d’[[concepts/deception|inganno]] riesce se l’imbroglione oltrepassa un certo grado di cinismo.
+
+Dobbiamo dunque guardarci dalla concezione che la grande Stampa capitalista moderna sia semplicemente un canale per la propagazione delle notizie che convengono ai suoi proprietari, o delle opinioni che essi professano o desiderano veder professate. Un tale giudizio sarebbe fanatico, e perciò senza valore.
+
+Il nostro interesse sta nella misura in cui le notizie possono essere soppresse o alterate, in cui una data discussione d’interesse per il bene comune può essere soffocata, l’opinione spontanea boicottata e l’opinione artificiale prodotta.
+
+VIII
+
+Dico che il nostro interesse sta nella questione della misura. È sempre così. Il filosofo disse: “Tutte le cose sono questione di misura; e chi stabilirà la misura?” Ma credo che siamo d’accordo — e con “noi” intendo tutti gli uomini colti che abbiano qualche conoscenza del mondo intorno a noi — che il grado a cui sono giunti, da qualche tempo in Inghilterra, nella grande Stampa capitalista, la soppressione della [[concepts/truth|verità]], la propagazione della menzogna, la creazione artificiale dell’opinione e il boicottaggio della dottrina scomoda è quanto meno pericolosamente alto.
+
+Non c’è nessuno nella vita pubblica che non potrebbe dare, dalla propria esperienza, decine di esempi di lettere perfettamente sensate alla Stampa, che citavano testimonianze inconfutabili su questioni della massima importanza, alle quali fu negata la pubblicazione. Dentro la corporazione dei giornalisti non c’è uomo che non potrebbe darvi cento esempi di deliberata soppressione e deliberata falsità da parte dei suoi datori di lavoro, tanto riguardo a notizie importanti per la nazione quanto riguardo a grandi corpi di opinione.
+
+Altrettanto importante della semplice accumulazione numerica di tali casi è la loro qualità.
+
+Lasciate che vi dia alcuni esempi. Oggi, nei grandi giornali, non si trova mai alcuna descrizione diretta, basata sul buon senso e reale di qualsiasi politico professionista: i suoi modi, le sue capacità, il suo modo di parlare, la sua intelligenza. Non abbiamo mai nulla che si avvicini anche solo lontanamente a ciò che dicono le persone che lo incontrano.
+
+Siamo davvero ormai molto oltre l’epoca in cui i politici professionisti venivano considerati esseri venerabili di cui era necessario fornire una descrizione rituale inadeguata. Tuttavia, ciò che ne è stato il sostituto non è altro che un metterli al centro dell’attenzione in modo ancora più grottesco e meno dignitoso, senza per questo risultare meno falso.
+
+Non possiamo nemmeno dire che i politici professionisti siano ancora destinati a “occupare il palco”. Quella metafora è falsa, perché sul palco il pubblico sa che tutto è solo recitazione e vede effettivamente le persone che vi si trovano sopra.
+
+Che qualsiasi persona con una certa competenza descriva, in modo sobrio e semplice, la scena che si svolge nella Camera dei Comuni quando uno di quei politici professionisti parla.
+
+Non sarebbe una descrizione avvincente. La [[concepts/truth|_verità]] qui non è certo una verità violenta o pericolosa. Lasciate che scriva con sobrietà e onestà. Che lo faccia come si fanno ogni giorno decine di lettere private su queste persone, o come si svolgono le conversazioni private tra coloro che le conoscono e che non hanno motivo di esagerarne l’importanza, ma le vedono per quello che sono. Una descrizione del genere non verrebbe mai pubblicata! I pochi proprietari delle case editrici non si allontaneranno dal centro dell’attenzione per fare una dichiarazione breve e accurata su queste mediocrità, perché il loro potere di governare dipende dal mantenere sotto i riflettori le persone che controllano.
+
+Non appena il pubblico scoprirà di che tipo di mediocrità sono fatti i politici, questi perderanno il potere. Non appena perderanno il potere, anche i loro padroni nascosti perderanno il potere.
+
+Prendiamo un esempio più ampio: le classi medie e superiori non hanno mai la possibilità di venire a conoscenza, in tempo, delle controversie che portano a uno sciopero o a un lock-out.
+
+Ecco un esempio di notizia che rappresenta la massima importanza per il Commonwealth, e per ciascuno di noi individualmente. Capire le cause di una vasta disputa interna è la prima condizione necessaria per formulare giudizi civici corretti. Ma noi non riusciamo mai a comprenderle. Gli eventi ci colpiscono sempre con violenza e vengono sempre completamente fraintesi, perché i media hanno boicottato le dichiarazioni delle parti coinvolte.
+
+Ho parlato con decine di persone appartenenti alla mia stessa classe sociale, cioè alla media borghesia professionale, riguardo al grande sciopero dei lavoratori delle imprese edili che coincise con l’inizio della guerra. Non ho trovato nemmeno una persona che sapesse davvero di cosa si trattasse! Quelli pochi che almeno conoscevano la differenza tra uno sciopero e uno sciopero di fabbrica pensavano tutti che si trattasse di uno sciopero normale.
+
+Che nessuno dica che le disgustose menzogne diffuse dalla stampa in questo senso siano state prive di effetto: gli stessi lavoratori si sono arresi, e le loro richieste assolutamente giuste sono state respinte, soprattutto perché l’opinione pubblica della classe media, così come quella di una grande parte dei proletari, era stata indotta a credere che la cessazione del lavoro da parte dei lavoratori fosse uno sciopero scatenato dalla loro stessa iniziativa contro le condizioni esistenti, e considerava immorale un simile comportamento in tempo di guerra. Non conoscevano la verità: la provocazione proveniva dai padroni, e i lavoratori venivano privati del lavoro, cioè del accesso ai negozi capitalistici dove si trovavano cibo e tutte le altre necessità della vita, in modo arbitrario e avaro da parte dei padroni. La stampa non avrebbe mai pubblicato una verità così evidente.
+
+Vi darò un altro esempio generale.
+
+L'intera Inghilterra era preoccupata durante il secondo anno di guerra, a causa del primo aumento dei prezzi degli alimenti. Non esisteva nessun uomo ricco che non se ne fosse accorto nei suoi registri contabili; per nove famiglie su dieci, questa era l’unica questione importante dell’epoca. Non dico che i grandi giornali non ne parlassero, ma come lo facevano? Con campagne di propaganda a favore di questo o quel politico professionista, con consigli disordinati e, soprattutto, con un mucchio di sciocchezze riguardo ai “enormi guadagni” del proletariato. L’intera questione venne deliberatamente deviata per mesi, fino a quando, per forza delle circostanze, non costrinse i media ad occuparsene seriamente. Ognuno di noi ne è testimone: tutti abbiamo visto questo fenomeno. Chiunque legga queste righe sa che le mie accuse sono vere. Nessun giornalista, tra i centinaia che scrivevano menzogne o sciocchezze su ordine dei loro datori di lavoro, non avvertiva l’impatto negativo di questa situazione sul proprio stipendio settimanale. Eppure, questa questione fondamentale per la nazione non venne affatto trattata dai media all’inizio; e quando lo fu, i fatti vennero distorti fino a diventare irriconoscibili.
+
+Potrei citare molti altri esempi, forse meno significativi rispetto a quelli che si sono verificati in passato (ma comunque estremamente rilevanti se si considerano le morali del passato), che dimostrano la stessa cosa: l’incapacità e la falsità dei grandi giornali capitalisti durante questi pochi mesi di crisi acuta per il destino dell’Inghilterra.
+
+Questa non è una lamentela vana contro i mali umani e inevitabili, che quindi sono sempre presenti. Detesto tale spreco di energie, e concordo pienamente con quanto recentemente dichiarato dall’editore di “The New Age”: in momenti come questi, in cui qualsiasi spreco è inaccettabile, le lamentele sterili rappresentano il peggior tipo di spreco. Ma la mia lamentela non è sterile. È fruttuosa. Questa stampa capitalista ha finalmente distorto ogni giudizio: l’oligarchia che la controlla è irresponsabile e si ritiene immune a qualsiasi conseguenza delle sue azioni. Crede di poter soffocare qualsiasi verità e diffondere qualsiasi menzogna. Governa, e lo fa in modo abominabile, proprio nel bel mezzo di una guerra per la vita.
+
+IX
+
+Dico che quei pochi controllori dei giornali governano; e lo fanno in modo orribile. Ho ragione. Ma lo fanno, come tutte le nuove poteri, unendo al contempo se stessi all’antica classe dominante e tradendola allo stesso tempo: basta pensare a Harmsworth e ai politici. La nuova stampa dirigente è un’oligarchia che continua a collaborare con l’oligarchia parlamentare, anche se meno nuova di essa.
+
+Questo tipo di collegamento ha assunto, nei grandi giornali capitalisti, una certa caratteristica che può essere descritta al meglio con il termine “ufficiale”.
+
+In alcune forme di governo arbitrario nell’Europa continentale, i ministri utilizzavano giornali selezionati e rari per esprimere le loro opinioni; questi giornali venivano chiamati “Presa Stampa Ufficiale”. Era un metodo primitivo, ormai da tempo abbandonato anche dalle forme più semplici di governo dispotico. Oggi, naturalmente, nulla del genere esiste più nella corruzione profonda dell’Europa moderna – tanto meno in Inghilterra.
+
+Quello che è cresciuto qui è un’organizzazione stampa che sostiene e favorisce il sistema della politica professionale; tale sistema influenzia oggi tutti i principali giornali capitalisti d’Inghilterra. Questo conferisce loro un carattere distintivo, quello della falsità parlamentare, e questa falsità è così chiaramente determinata dalla loro connessione con il potere esecutivo che tali giornali meritano davvero il titolo di “ufficiali”.
+
+Il regime sotto cui viviamo oggi è quello di una plutocrazia che ha gradualmente sostituito l’antica tradizione aristocratica dell’Inghilterra. Questa plutocrazia – costituita da pochi interessi finanziari – controlla in parte, si esprime attraverso i politici professionisti e, in parte, è identica a loro; inoltre, dispone di un alleato nella stampa capitalista esistente, simile a quella “stampa ufficiale” che le nazioni continentali conoscevano in passato. Tuttavia c’è una grande differenza: la “stampa ufficiale” dei paesi continentali consisteva soltanto in pochi organi di stampa selezionati, il cui carattere era ben noto e il cui atteggiamento contrastava nettamente con quello degli altri media. La nostra “stampa ufficiale”, invece, copre l’intero settore dell’informazione; nel campo dei grandi giornali non ha concorrenti, anzi, non ne ha affatto, se non quella piccola stampa libera di cui parlerò tra un momento, che rappresenta il suo unico antagonista.
+
+Se qualcuno dubita che l’aggettivo “ufficiale” possa essere correttamente applicato alla nostra stampa capitalista di oggi, si chieda prima quali siano le forze che governano il paese, e poi se queste forze – quel governo o regime – potrebbero essere meglio servite anche sotto un sistema di censura permanente rispetto a quanto avvenga nei grandi quotidiani di [[settings/london|Londra]] e nelle principali capitali provinciali.
+
+Non viene forse represso tutto ciò che il regime desidera venga represso? Non viene forse suggerito tutto ciò che il regime desidera venga suggerito? E esiste qualche questione pubblica che possa indebolire il regime, la cui discussione sia mai permessa di apparire nei grandi giornali capitalisti?
+
+Non si è verificato un caso del genere da almeno vent’anni. L’attuale simulacro di critica che apparentemente attacca alcune parti del regime non affronta mai questioni vitali per il suo prestigio. Al contrario, devia deliberatamente qualsiasi discussione importante che una sincera convinzione potrebbe aver spinto il pubblico a portare avanti, rovinando così l’attenzione su tali temi con questioni false e irrilevanti.
+
+Un articolo, pubblicato non molto tempo fa, denunciava l’eccesso di avvocati nel governo. La soluzione proposta era un’opposizione guidata da un avvocato stesso.
+
+Un altro caso fu molto grave: si trattava di attività di trading segreto con il nemico. Per mesi vennero soppressi tutti i riferimenti a quell’incredibile episodio di condotta illegale da parte di persone legate a un politico professionista molto influente all’inizio della guerra, e si rifiutò addirittura di commentare l’unica menzione fatta in merito a questo reato alla Camera dei Comuni!
+
+Altre voci chiedono l’eliminazione del potere finanziario nemico nelle questioni di questo paese, eppure non si dice una parola sull’audizione dei fondi segreti del Partito!
+
+Dico che i grandi quotidiani di oggi non possiedono soltanto quelle altre qualità pericolose per lo Stato che ho descritto, ma sono diventati essenzialmente “ufficiali”, cioè insinceri e corrotti nel loro interessato sostegno a quel complesso plutocratico che, con il declino dell’aristocrazia, governa l’Inghilterra. Sono ufficiali in questo senso tanto quanto lo furono mai gli organi di stampa legati ai corti degli effimeri esperimenti continentali. Tutti i vizi, tutta la irrealtà e tutto il pericolo connessi all’esistenza di una stampa “ufficiale” sono evidenti nei grandi quotidiani del nostro tempo. Non sono indipendenti quando si tratta del potere; non criticano davvero. Servono un gruppo di interessi particolari che dovrebbero invece denunciare e tradire l’interesse generale, cioè lo Stato, per il quale i funzionari pubblici retribuiti dovrebbero essere costantemente tenuti sotto sorveglianza e controllati con rigore.
+
+Il risultato è che la maggior parte degli inglesi ha smesso di ottenere, o anche solo di aspettarsi, informazioni su come vengono governati.
+
+Stanno iniziando a provare una certa inquietudine. Sanno che il loro vecchio potere di osservazione sui funzionari pubblici è svanito. Sospettano che la corruzione diffusa nella vita pubblica, e in particolare nella Camera dei Comuni, sia radicata dietro una cospirazione del silenzio da parte di quei pochi che hanno il potere di informarli. Ma, per ora, non sono ancora arrivati a quel livello di sospetto. Non sono nemmeno vicini alla scoperta dei grandi proprietari di giornali e del loro sistema. Per la maggior parte, sono ancora ingannati.
+
+Questo stato di transizione (poiché spero di dimostrare che sia soltanto temporaneo) rappresenta un grave pericolo: distorce e impoverisce l’informazione pubblica, impedisce una critica equa dei funzionari pubblici e, soprattutto, conferisce poteri immensi e irresponsabili a pochi uomini ricchi – in particolare a quello tra loro più danaroso e senza scrupoli. Il loro patrimonio deriva da speculazioni, le loro origini sono disgustose e il loro carattere, di solito, è segnato dalla debolezza e dalla bassezza tipiche di individui che hanno intrapreso questo tipo di avventure. Tra questi individui ci sono migliaia la cui fortuna finisce nelle fogne, una cinquantina che riescono a accumulare milioni, e al massimo uno o due che, raggiunto il vertice, diventano pazzi di ambizione e cercano di dirigere lo Stato. Anche quando questi individui sono conosciuti e responsabili (come avviene nella politica professionale), il loro potere rappresenta un grave pericolo. Possedendo tutti i mezzi per nascondere le proprie azioni e, allo stesso tempo, nessuna responsabilità nei confronti degli organi dello Stato, costituiscono una minaccia mortale. Oggi questi individui sono più potenti di qualsiasi ministro; anzi, come ho detto, hanno il potere di nominare e destituire i ministri, e possono addirittura decidere del destino della nazione nei momenti più difficili.
+
+Ora, per ogni male umano di natura politica che sia apparso nella storia (cioè per ogni male che riguardi lo Stato e derivi dalla volontà dell’uomo, e non da forze naturali incontrollabili al di fuori dell’uomo), esiste sempre un termine specifico con cui viene definito e una reazione che ne consegue.
+
+Ecco dove tocco il cuore della questione. Accanto a ciò che ho definito “la stampa ufficiale” nella nostra plutocrazia dominata dai potenti, è emersa una certa forza per la quale fatico a trovare un nome appropriato; ma, in mancanza di uno migliore, la chiamerò “la stampa libera”.
+
+Potrei chiamarla la stampa “indipendente”, se non fosse che questa parola implicasse ancora un po’ troppo potere; tuttavia credo davvero che il suo potere stia crescendo, e sono sicuro che in futuro prossimo cambierà radicalmente le nostre realtà.
+
+Non conosco alcuna altra lingua moderna oltre al francese e all’inglese, ma leggo regolarmente questo giornale “Free Press” in francese e inglese, dedicato alle questioni coloniali e americane; a mio parere, rappresenta il principale fenomeno intellettuale del nostro tempo.
+
+In Francia e in Inghilterra, e forse anche altrove, per protestare contro la totale corruzione e falsità dei grandi giornali capitalisti, sono emersi nuovi organi di stampa che, nel senso più stretto del termine, possono essere considerati “organi di opinione”. Non è necessario soffermarsi sulle conseguenze di questo fenomeno per i lettori inglesi in Europa continentale; già in Inghilterra tale situazione merita attenzione, e sarebbe opportuno osservarla con attenzione.
+
+“La Nuova Era”, credo, fu pioniera in questo campo; mantiene ancora una posizione di rilievo. Anch'io ho fondato “Eye-Witness” seguendo gli stessi principi ideologici (e non intendo affatto che si tratti di strumenti di propaganda simili). L'Irlanda ne ha prodotti più di uno, la Scozia uno o due; il loro numero aumenterà.
+
+Con questo passo, abbandono la semplice denuncia del male per esporre ciò che è buono.
+
+Propongo di esaminare la natura di quel movimento che chiamo “La stampa libera”, di analizzare le difficoltà che incontra e di concludere con la mia convinzione che, nonostante queste difficoltà, esso rappresenti non solo una forza in crescita, ma anche una forza benefica e, in certa misura, vincente. È su questo argomento che ora chiedo ai miei lettori di concentrarsi.
+
+X
+
+L’ascesa di ciò che ho definito “La stampa libera” fu dovuta a una reazione contro ciò che ho chiamato “La stampa ufficiale”. Tuttavia, questa reazione non aveva un unico movente.
+
+Alla base di questo fenomeno vi sono tre motivi morali distinti che si sono intrecciati tra loro. È opportuno separarli e riconoscerli uno per uno, poiché ciascuno di essi ha avuto un impatto sulla stampa libera nel suo complesso, e oggi la stampa libera presenta in modo particolarmente evidente le caratteristiche derivanti da tutti e tre questi motivi.
+
+Il primo motivo evidente, che emerse molto prima degli altri due, era quello legato alla ((A)) propaganda. Il secondo motivo era la ((B)) indignazione per il nascondimento della [[concepts/truth|verità]], mentre il terzo motivo era la ((C)) indignazione verso un potere irresponsabile: quel senso di oppressione che una condotta immorale e irresponsabile al potere genera tra coloro che ne sono sfortunatamente soggetti.
+
+Esaminiamo ciascuno di questi nell’ordine in cui sono stati menzionati.
+
+XI
+
+A
+
+Il motivo della Propaganda (che iniziò ad agire molto prima delle altre due) riguardava le religioni, nonché certi entusiasmi razziali o dottrine politiche che, per la loro sincerità e disponibilità al sacrificio, possedevano quasi la stessa forza delle religioni.
+
+Gli uomini scoprirono che i grandi giornali, nella loro fase finale, rifiutavano di parlare di qualsiasi cosa veramente importante in ambito religioso. Non osavano fare altro che ripetere, in modo molto discreto, le più vaghe banalità etiche. A malapena si permettevano nemmeno questo. Accettavano come scontato un genere di opinione comune priva di profondità. Si lasciavano influenzare leggermente dalla religione dominante nel paese in cui venivano pubblicati. E basta.
+
+Grandi gruppi di persone che provavano un profondo attaccamento a una determinata credenza si resero conto che mancava un modo efficace per esprimerla, anche quando tale credenza rappresentasse l’opinione della stragrande maggioranza della popolazione (come in Francia). Gli “organi di opinione” ostentavano una sorta di ignoranza “gentile” riguardo a quell’idea che invece era la più diffusa, la più intensa e la più influente nella società. Non poteva essere altrimenti nemmeno per un’impresa capitalista il cui unico scopo non era la conversione delle persone o l’espressione di ideali, ma soltanto il guadagno. Non c’era alcuna differenza, dal punto di vista pratico, tra un grande quotidiano di proprietà di un ebreo e uno di proprietà di un agnostico o di un cattolico. La necessità stessa di esprimere opinioni spinse alla creazione di una stampa libera, proprio in relazione a questo scopo legato alla religione.
+
+In Inghilterra si trovava molto poco di tutto ciò, perché per lungo tempo l’Inghilterra era praticamente omogenea dal punto di vista religioso, e quella religione non mostrava alcun entusiasmo negli anni in cui nacque la stampa libera. Ma una tale stampa libera a difesa della religione (la pioniera di tutta la stampa libera) sorse in Irlanda, in Francia e altrove. All’inizio non aveva alcun conflitto con le grandi case editrici capitaliste ufficiali; accettava senza problemi i commenti banali e privi di significato sulla religione che apparivano nella stampa ufficiale, ma sosteneva la necessità di sottolineare in modo particolare il proprio punto di vista nelle proprie colonne: perché la religione influisce su tutta la vita.
+
+Lo stesso motivo legato alla propaganda portò in seguito alla pubblicazione di altri giornali a difesa di entusiasmi diversi da quelli strettamente religiosi; il più importante tra questi era l’entusiasmo per il Collettivismo, cioè per il Socialismo.
+
+Un secolo fa o più, un gran numero di persone fu convinto che la soluzione a tutto il complesso problema delle ingiustizie sociali risiedesse nel cosiddetto “nazionalizzare i mezzi di produzione, distribuzione e scambio”. In altre parole, in termini semplici, significava mettere terra, case, macchinari, nonché scorte di cibo e vestiti sotto il controllo dei politici, affinché questi potessero decidere come utilizzarli e distribuirli.
+
+Questo credo era condiviso con passione e convinzione da uomini di altissima capacità in ogni paese d’Europa; iniziò così ad emergere una stampa socialista, libera ovunque, che presto si pose in netto contrasto con la stampa ufficiale. Ancora una volta (in un contesto religioso, per quanto riguardava le loro convinzioni ed entusiasmi), quando l’oppressore mostrava moderazione, cominciarono ad apparire piccoli giornali che difendevano i diritti delle nazionalità oppresse.
+
+La religione, dunque, e gli entusiasmi affini furono i primi generatori della Stampa Libera.
+
+È estremamente importante riconoscerlo, perché ciò ha impresso all'intero movimento un carattere particolare al quale mi riferirò più avanti, quando verrò a parlare dei suoi limiti.
+
+Il movente della Propaganda, lo ripeto, non era dapprima consapevole di alcunché di iniquo nella grande Stampa, ossia nella Stampa Ufficiale, accanto alla quale essa esisteva. Veuillot, nel fondare il suo giornale splendidamente battagliero, che ebbe un effetto tanto prodigioso in Francia, non provava alcuna particolare animosità contro i «Débats», per esempio; il suo peculiare entusiasmo cattolico si riconosceva come eccezionale, e si accontentava di accettare la posizione umile o, in ogni caso, inferiore che l'eccentricità dichiarata comporta. «Più tardi», sembravano dire questi fondatori della Stampa Libera, «potremo convertire la massa alle nostre vedute, ma, per il momento, siamo dichiaratamente una cerchia: un corpo eccezionale, con le penalità che a ciò si accompagnano». Dicevano questo benché l'intera vita della Francia sia cattolica almeno quanto la vita della Gran Bretagna è plutocratica, o la vita della Svizzera democratica. E lo dicevano perché sorsero dopo che la stampa capitalista (neutrale in religione come in ogni cosa vitale) aveva conquistato l'intero campo.
+
+I primi propagandisti, dunque, non si posero di fronte alla Stampa Ufficiale da pari a pari. Vi si insinuarono come inferiori, o piuttosto come eccentrici dichiarati. Perché l'Inghilterra vittoriana e la Francia del Terzo Impero proclamavano falsamente la qualità «rappresentativa» della Stampa Ufficiale.
+
+A onore del movimento socialista, la Stampa Libera socialista fu la prima a ergersi da pari contro i giganti.
+
+Ricordo come, nella mia fanciullezza, rimanessi scandalizzato e un poco sconcertato nel vedere in fogli socialisti come «Justice» riferimenti a giornali quali il «Daily Telegraph» o il «Times», con l'epiteto «capitalista» posto dopo di essi tra parentesi. Allora pensai che fosse l'attribuzione di un epiteto anormale a una cosa normale; ma ora so che quei piccoli giornali liberi socialisti dicevano il più schietto buon senso quando sottolineavano specificamente come capitaliste le menzogne e le reticenze dei loro grandi contemporanei. Dal punto di vista socialista, il fatto principale riguardo all'insincerità dei grandi giornali ufficiali è che tale insincerità è capitalista; proprio come dal punto di vista cattolico il fatto principale al riguardo era, ed è, che essa è anticattolica.
+
+Tuttavia, benché alcuni dei Giornali Liberi socialisti assumessero così arditamente una posizione di parità morale con gli altri, il loro atteggiamento era eccezionale. La maggior parte dei direttori o dei proprietari della Stampa Libera, e la maggior parte di coloro che vi scrivevano, ai suoi primi inizi, adottava il punto di vista allora quasi universale che i grandi giornali fossero abbastanza innocui e rappresentassero discretamente l'opinione generale, e non fossero, perciò, cose da combattere in modo specifico.
+
+I grandi quotidiani erano ritenuti grigi; non malvagi — soltanto generici e vaghi. La Stampa Libera, ai suoi inizi, non attaccava come un nemico. Chiedeva solo timidamente di essere ascoltata. Si considerava una «specialità». Era umile. E con essa andava una massa di materiale eccentrico.
+
+Se si passano in rassegna tutti i periodici della Stampa Libera che nella sola Inghilterra e nella sola Francia dovettero la loro esistenza a questo movente della Propaganda, si trovano molti «spettacoli secondari», per così dire, accanto ai motivi principali del patriottismo locale o di razza, della Religione o della convinzione socialista. Si hanno, per esempio, qua e là per l'Europa, i giornali antisemiti, assai potenti e straordinariamente ben scritti, dei quali la «Libre Parole» di Drumont fu a lungo il principale. Si hanno i giornali dell'imposta unica. Si hanno i giornali astemi — e, davvero, c'è da stupirsi che non si siano ancora visti anche gli iconoclasti e i diabolisti produrre giornali. La propaganda razionalista e quella atea le annovero tra le religiose.
+
+Possiamo dunque ritenere che la Propaganda fu, in ordine di tempo, il primo movente della Stampa Libera e la prima causa della sua nascita.
+
+Ora, da questo fatto sorge una considerazione di grande importanza per il nostro tema. Questa origine propagandistica della Stampa Libera le ha impresso fin dal principio un carattere che essa porta ancora, e continuerà a portare, finché non avrà avuto quell'effetto di correggere, e forse distruggere, la Stampa Ufficiale, del quale tratterò più avanti.
+
+Voglio dire che alla Stampa Libera è stato impresso il carattere di un particolarismo disparato.
+
+Ovunque io vada, il mio primo obiettivo, se desidero scoprire la [[concepts/truth|verità]], è procurarmi la Stampa Libera, in Francia come in Inghilterra, e perfino in America. Ma so che, ovunque mi procuri un tale organo, esso sarà fortemente colorato dall'opinione, o perfino dal fanatismo, di qualche minoranza. La Stampa Libera, nel suo insieme, se la si somma tutta e si annullano le affermazioni esagerate le une con le altre, dà davvero una visione veritiera dello stato della società in cui si vive. La Stampa Ufficiale oggi ne dà ovunque una assurdamente falsa. Che caricatura — e che vile, vuota caricatura — dell'Inghilterra, della Francia o dell'Italia si ricava dal «Times», o dal «Manchester Guardian», dal «Matin» o dalla «Tribune»! Nessuno di essi è in alcun senso generale — o davvero nazionale.
+
+La Stampa Libera vi dà la [[concepts/truth|verità]]; ma soltanto in sezioni sconnesse, perché è disparata ed è particolarista: è segnata dall'isolamento — ed è così segnata perché la sua origine stava in propagande varie e quanto mai diverse: perché venne dopo la stampa ufficiale del [[concepts/capitalism|Capitalismo]], e non fu, nelle sue origini, che una reazione contro di essa.
+
+B
+
+Il secondo movente, quello dell'indignazione contro la menzogna, entrò in azione molto più tardi del movente della propaganda.
+
+Gli uomini vennero gradualmente ad accorgersi che una cosa dopo l'altra di grande interesse pubblico, talvolta di vitale interesse pubblico, veniva deliberatamente soppressa nei principali grandi giornali ufficiali, e che vere e proprie falsità venivano sempre più insinuate, o affermate.
+
+C'era di più. A lungo il proprietario di un giornale si era per lo più accontentato di considerarlo una cosa produttrice di reddito. Il direttore era sovrano in materia di cultura e di opinione. È vero, il direttore, essendo revocabile e povero, non poteva pretendere al pieno potere politico. Ma era una sorta di assetto duale che pur tuttavia temperava il potere del volgare proprietario.
+
+Ricordo personalmente quella situazione: l’editore, che era un gentiluomo e pranzava fuori; il proprietario, che era un signore e si innervosiva quando incontrava un altro gentiluomo. Tutto cambiò negli anni ’90 del secolo scorso o alla fine degli anni ’80; entro il 1900 quella situazione era ormai scomparsa.
+
+L’editore divenne (e ora è) soltanto un portavoce del proprietario. Gli editori vengono sostituiti uno dopo l’altro con grande frequenza. Nei grandi giornali di oggi, il nome dell’editore del momento è quasi sconosciuto; tuttavia, non esiste nessun Ministro che non sia in grado di conoscere a fondo la vita privata, i difetti, le debolezze, la fortuna, gli investimenti e i favori del proprietario. Questo cambiamento si è verificato rapidamente ed in modo completo. Alla fine – come nella maggior parte dei processi evolutivi veloci – ha persino superato se stesso.
+
+Si poteva sentire gli uomini che possedevano i principali giornali vantarsi pubblicamente del loro potere, come di qualcosa di ovvio e riconosciuto; e poiché questo potere veniva effettivamente riconosciuto e cresceva con il tempo e attraverso le esperienze accumulate, ne derivò una reazione contraria.
+
+Perché mai questo o quell’uomo volgare dovrebbe avere il potere di mantenere la gente ignorante su questioni vitali per tutti noi? Di distorcere la verità, di mentire. La pura necessità di far conoscere certe verità, che questi individui potenti ma nascosti si rifiutavano di diffondere, rappresentava una forza potentissima che quasi costringeva alla pubblicazione di giornali liberi, accanto a quelli ufficiali. Ecco perché la stampa libera è quasi sempre guidata da persone intelligenti e colte, di un’intelligenza e di una cultura eccezionali. Ed è proprio in questo che si contrappone maggiormente ai suoi oppositori.
+
+C
+
+Ma solo poco dopo questo secondo motivo di indignazione contro la falsità e l’agire con uguale forza (sebbene su un numero minore di persone), emerse il terzo motivo della libertà: l’indignazione contro il Potere arbitrario.
+
+Per coloro che conoscevano il modo in cui venivamo governati e che avevano riconosciuto, soprattutto negli ultimi vent’anni, che i grandi giornali stavano diventando più potenti dell’esecutivo del paese, aperto e responsabile (sebbene corrotto), quella situazione era intollerabile.
+
+È già abbastanza grave essere governati da un’aristocrazia o da un monarca il cui potere esecutivo si basa su leggende per la maggior parte della popolazione; è altrettanto umiliante essere governati in questo modo, attraverso una sorta di recitazione teatrale, invece di godere del governo autonomo degli uomini liberi.
+
+È ancora peggio essere governati da un gruppo di politici professionisti che ingannano la gente sotto il pretesto della “democrazia”.
+
+Ma è intollerabile che un potere simile possa trovarsi nelle mani di individui oscuri e senza nome, su cui non può esistere alcuna illusione, la cui tirannia non viene nemmeno ammessa o resa pubblica, che non si prendono nemmeno il rischio di far vedere in faccia a nessuno, e ai quali non è attribuita alcuna responsabilità.
+
+Il fatto che ciò fosse così predisposto costituì il terzo, e forse il più potente, motivo per la creazione di una stampa libera.
+
+Purtroppo, questo effetto poteva riguardare soltanto pochissimi uomini. Anche tra persone ben istruite e attente, la sensazione suscitata dal potere enorme dei grandi giornali non era altro che una vaga inquietudine. Esisteva l’idea comune che il proprietario di un quotidiano popolare a larga diffusione potesse, e di fatto facesse, ricatto sui politici professionisti: determinare la loro ascesa o caduta concedendo o negando loro l’attenzione dei media; decidere le sorti dei gabinetti governativi; nominare ministri assurdi.
+
+Ma quegli esempi concreti, vividi e particolari che spingevano le persone ad agire erano nascosti da loro. Solo un piccolo numero di persone conosceva tali verità specifiche. Ma quel piccolo gruppo sapeva molto bene che in realtà eravamo governati da individui responsabili verso nessuno e al riparo dalle critiche pubbliche. La determinazione a liberarsi di tale monopolio segreto del potere spinse a una reazione. E quella reazione fu la stampa libera.
+
+* * *
+
+XII
+
+Essendo questi i motivi che spingono la stampa libera in tutti i paesi, ma in particolare in Francia e Inghilterra, dove i mali della stampa capitalistica (o ufficiale) raggiungevano il loro apice, consideriamo ora gli ostacoli che impedivano lo sviluppo di questa libertà di espressione.
+
+Penso che queste disabilità possano essere raggruppate in quattro categorie principali.
+
+Innanzitutto, le riviste libere affrontavano la difficoltà che tutti i veri riformatori incontrano: dovevano iniziare andando controcorrente.
+
+In secondo luogo, soffrivano di quel carattere di particolarismo o “capricciosità”, che era un risultato inevitabile del loro ruolo di propagandisti.
+
+In terzo luogo – e questo è il più importante – soffrirono in termini economici. Non riuscivano a offrire ai loro lettori tutto ciò che questi si aspettavano, considerando il prezzo pagato. Il motivo era che veniva loro negata la sussidiazione pubblicitaria e subivano boicottaggi.
+
+In quarto luogo, per ragioni che diventeranno evidenti tra un attimo, soffrivano di una carenza di informazioni.
+
+A queste quattro principali disabilità, i documenti ufficiali di questo paese ne aggiunsero una quinta, particolarmente tipica della nostra realtà: i cittadini erano esposti al pericolo rappresentato dall’arbitrio dei giuristi politici.
+
+Consideriamo innanzitutto i quattro punti principali. Dopo averli esaminati tutti, vedremo contro quali forze, e nonostante quali fattori negativi, la stampa libera si sia affermata oggi.
+
+1
+
+Dico che, innanzitutto, la stampa libera, essendo un fattore di riforma, soffre di ciò che tutti i riformatori soffrono, ovvero che, per definizione, nelle loro origini devono andare controcorrente.
+
+La stampa capitalista ufficiale che li circondava era ormai diventata una abitudine per la gente quando apparvero i giornali indipendenti. Da tempo, leggere il proprio quotidiano, credere alle informazioni contenute in esso come a fatti reali e, in larga misura, accettarne le opinioni era diventato qualcosa di normale per gli uomini. Quindi, una nuova voce che criticasse implicitamente o accusasse direttamente, o addirittura deridesse un'abitudine così radicata, era inevitabilmente poco popolare tra i lettori comuni; oppure, se non lo era, ciò avveniva soltanto perché tale voce veniva considerata trascurabile.
+
+Tuttavia, questa prima difficoltà che la stampa libera ha incontrato, e che incontra ancora oggi, non avrebbe naturalmente dovuto durare a lungo. Le altre tre difficoltà erano molto più gravi. L’inerzia o le resistenze contro cui si scontra qualsiasi riformatore vengono infatti rapidamente superate se tale riformatore rappresenta davvero una reazione concreta e dice o fa cose con cui la gente, se fosse altrettanto informata, sarebbe d’accordo. Ma con le altre difficoltà legate al particolarismo, alla povertà, all’insufficienza – e in questo paese anche alle restrizioni imposte dagli avvocati politici – la situazione era diversa.
+
+2
+
+Il particolarismo dei giornali liberi rappresentava una grave e permanente debolezza che persiste ancora oggi. Chiunque oggi desideri davvero conoscere ciò che sta accadendo legge i giornali liberi; tuttavia, come ho detto, è costretto a leggerli tutti e a collegare le varie informazioni tra loro se vuole comprendere la realtà. Ogni organo di stampa fornisce un'impressione particolare, spesso molto distante dall’immagine generale che si può avere della situazione.
+
+Quando voglio sapere, ad esempio, cosa sta succedendo in Francia, leggo il giornale socialista ebreo “Humanité”; i giornali rivoluzionari francesi più violenti che riesco a trovare, come “La Guerre Sociale”; il giornale realista “Action Française”; l’antisemita “Libre Parole”, e così via.
+
+Se voglio scoprire cosa sta realmente accadendo in Irlanda, non mi limito ad acquistare i vari giornali irlandesi gratuiti (e ne esistono molti), ma leggo anche “The New Age” e “New Witness”, concentrandomi soprattutto sulle domande che presentano un reale e vitale interesse. Tuttavia, l’immagine che ne risulta è soltanto complessiva: la stessa [[concepts/truth|_verità]] viene enfatizzata da questi giornali per motivi completamente diversi.
+
+Prendiamo il caso Marconi. I grandi giornali ufficiali lo boicottarono per mesi, e poi raccontarono un mucchio di bugie stupide a sostegno dei politici. La stampa libera disse la [[concepts/truth|verità]], ma i suoi vari organi la presentarono per motivi molto diversi e con impressioni completamente diverse. Per alcuni giornali irlandesi, Marconi era solo un episodio comico, “esattamente ciò che ci si aspetta da Westminster”; altri ne avevano paura, temendo che potesse ridurre il valore delle azioni Marconi di proprietà irlandese. “The New Age” lo considerava da un punto di vista completamente diverso da quello di “New Witness”, mentre la stampa libera, di orientamento socialista, lo vedeva semplicemente come un esempio di ciò che accade sotto un governo capitalista.
+
+Un giornale mahometano senza dubbio l'avrebbe definito un risultato della religione dei Nazareni, mentre un giornale thug lo avrebbe considerato un orribile esempio di ciò che accade quando i propri politici non sono dei thug.
+
+Quello che voglio dire, dunque, è che la stampa libera, partendo da così tanti punti di vista diversi, non ha ancora prodotto un organo di informazione capace di ottenere l’approvazione di un gran numero di persone; intendo dire, non ha creato un organo in grado di convincere un vasto pubblico riguardo al vero modo in cui veniamo governati.
+
+Drumont fu molto utile nel rivelare innumerevoli dettagli veritieri che la stampa ufficiale si rifiutava di menzionare – ad esempio il modo in cui i Rothschild avevano truffato il governo francese riguardo alle tasse sulla morte a Parigi alcuni anni prima. Infatti, fu solo lui a costringere quegli uomini ricchi a confessare la verità; un ottimo risultato. Ma quando iniziò a sostenere che truffare lo Stato fosse una caratteristica tipicamente ebraica, non riuscì mai a far concordare le masse con lui: era pura assurdità.
+
+Charles Maurras è uno dei scrittori più influenti viventi; quando afferma su “Action Française” che la Corte Suprema francese abbia compiuto un atto illegale alla fine del caso Dreyfus, sta svolgendo un lavoro utile, poiché dice la verità su una questione di vitale importanza pubblica. Tuttavia, quando aggiunge che una cosa del genere non sarebbe accaduta sotto una monarchia nominale, sta dicendo sciocchezze. Chiunque abbia anche solo una minima esperienza di ciò che possono diventare i tribunali sotto una monarchia nominale scuote le spalle e ritiene che le idee di Maurras possano avere risultati positivi, ma che la soluzione proposta – ovvero istituire in Francia un “re moderno” al posto del Parlamento corrotto – non sia convincente.
+
+La “New Republic” di New York difende con vigore Brandeis perché Brandeis è ebreo; inoltre, la “New Republic” (che leggo regolarmente e che oggi rappresenta una fonte inestimabile per comprendere le opinioni di una piccola ma influente minoranza americana) ha un tono tipicamente ebraico. La difesa di Brandeis mi interessa e mi è utile. Tuttavia, quando la “New Republic” pubblica propaganda pacifista scritta da Brailsford o elogia Lane sotto lo pseudonimo di “Norman Angell”, a mio parere si comporta in modo eccentrico, persino spregevole. La “New Ireland” mi aiuta a comprendere i conflitti tra i giovani irlandesi e il partito parlamentare irlandese; ma devo anche leggere la “Freeman”.
+
+In breve, la stampa libera in tutto il mondo, per quanto ne posso capire, soffre di questa caratteristica particolare e, di conseguenza, di isolamento e tensioni. Non ha un appeal generale.
+
+In relazione a questa caratteristica, si verifica che la stampa libera sia diventata dipendente da singoli individui, e quindi non riesce ancora a costituire un’istituzione vera e propria. È difficile immaginare come alcuno dei giornali menzionati possa sopravvivere a lungo alla perdita del proprio attuale direttore editoriale. Potrebbe esserci un successore; di certo non ne ci sarebbero due; e il risultato è che l’efficacia di questi organi di stampa risulta sporadica e irregolare.
+
+Nello stesso contesto, c’è anche la limitazione legata al pubblico a cui si rivolge l’opera.
+
+Ci sono alcuni uomini (e mi considero uno di loro) che leggono qualsiasi cosa, per quanto possa differire dal loro tono e punto di vista, al fine di acquisire più conoscenze. Non sono sicuro che sia un’abitudine salutare. Comunque sia, è senz’altro insolita. La maggior parte delle persone legge soltanto ciò che, pur fornendo informazioni utili, presuppone una filosofia più o meno in linea con le proprie convinzioni personali. Pertanto, la stampa libera, finché deriva da molteplici e varie minoranze, non solo incontra difficoltà nell’attrarre un pubblico sufficientemente ampio per ogni singolo organo di stampa, ma si rivolge anche a persone che già condividono le sue idee. Riesce comunque ad attirare un certo pubblico esterno, che aumenta lentamente. Ma non riesce mai a catturare l’attenzione del grande pubblico in un determinato momento.
+
+3
+
+Il terzo gruppo di difficoltà, come ho detto, è legato alla debolezza economica della stampa libera.
+
+La stampa libera viene rigorosamente boicottata dai grandi inserzionisti; in parte, forse, perché la sua piccola diffusione li rende sprezzanti (poiché quasi tutti appartengono a quel tipo di persone “dure di testa” tipiche del mondo degli affari, che agiscono sempre in gruppo senza mai considerare da sole dove i loro prodotti possano trovare il mercato migliore); ma soprattutto a causa di un’ostilità profonda verso l’esistenza stessa della stampa libera.
+
+Ad esempio, la stupidità potrebbe spiegare perché i grandi inserzionisti non pubblicizzino articoli di lusso su un giornale con una circolazione di soli tremila copie a settimana, anche se quel giornale venisse letto dalla prima all’ultima pagina da tutti i ricchi d’Inghilterra; ma non spiegherebbe perché, esclusivamente nei giornali della stampa libera, manchino inserzioni presenti in ogni altro tipo di pubblicazione, e in molti organi con una circolazione molto inferiore a quella dei giornali della stampa libera.
+
+Il boicottaggio è deliberato e viene mantenuto costantemente. Di conseguenza, la stampa libera non può offrire lo stesso spazio editoriale, la stessa qualità della carta utilizzata, la stessa efficacia nella distribuzione, né altro di ciò che può fornire la stampa ufficiale; le mancano infatti i finanziamenti derivanti dalle pubblicità. Si tratta davvero di un grave svantaggio economico.
+
+In parte, la stampa libera riceve un sostegno indiretto grazie ai contributi dei suoi stessi autori. Uomini i cui scritti comportano un alto compenso contribuiscono talvolta alla stampa libera, a volte per piccole somme, spesso gratuitamente; comunque sempre a un prezzo ben inferiore al loro valore di mercato. Tuttavia, questo tipo di contributo è sempre incerto e discontinuo. Inoltre, non è sufficiente a far funzionare una testata giornalistica. È vero che il livello degli scritti pubblicati dalla stampa libera è molto più elevato rispetto a quello della stampa ufficiale; confrontare, ad esempio, i contributi presenti su “The New Age” con quelli di “Spectator”, significa notare una differenza simile tra una conversazione scelta liberamente con persone uguali e una conversazione forzata con viaggiatori commerciali in un vagone ferroviario. Leggere autori come Shaw, Wells, Gilbert, Cecil Chesterton o Quiller Couch su “The New Witness” significa trovarsi in un mondo completamente diverso dal fango e dalla monotonia della stampa ufficiale settimanale. Tuttavia, il boicottaggio è rigido e quindi l’approvvigionamento di contenuti è intermittente. Non si tratta soltanto di boicottare la pubblicità, ma anche di evitare qualsiasi tipo di citazione da parte della stampa ufficiale. La maggior parte della classe dirigente conosce esistenza della stampa libera; la vasta fascia della media borghesia, invece, ancora non ne è a conoscenza.
+
+Gli articoli occasionali pubblicati su Free Press presentano lo stesso livello di qualità elevata, ma non vengono pubblicati regolarmente; inoltre, quasi nessuno dei giornali pubblicati da Free Press riesce a coprire le proprie spese.
+
+La difficoltà di distribuzione, di cui ho parlato, rientra nella stessa categoria ed è un altro grave ostacolo.
+
+Se un uomo incontra difficoltà nell’ottenere un giornale di cui non è abbonato regolarmente, ma che desidera acquistare con una certa frequenza, allora smette di leggerlo. Anch’io, che sono un lettore assiduo di questo tipo di pubblicazioni, a volte perdo contatto con qualche giornale gratuito per mesi, a causa di alcune settimane in cui non riesco ad ottenerne una copia. Credo che questo tipo di difficoltà legate alle abitudini si verifichi anche nella maggior parte dei giornali gratuiti.
+
+4
+
+In quarto luogo, e anche per motivi economici, c’è l’ostacolo rappresentato dall’informazione imperfetta che affligge la stampa libera. Questa pubblicherà verità che i grandi giornali nascondono intenzionalmente, ma ha grandi difficoltà ad ottenere informazioni quotidiane e diffuse su questioni generali.
+
+Le informazioni vengono ottenute o a grande costo tramite agenti privati, oppure grazie ai favori di canali ufficiali, cioè da parte dei politici professionisti. La stampa ufficiale ha il potere di esaltare o denigrare i politici. Pertanto, un politico fa attenzione a tenere la stampa informata su verità che gli siano utili, e allo stesso tempo a farne uno strumento per diffondere menzogne altrettanto preziose per i suoi interessi.
+
+La maggior parte dei documenti ufficiali, ad esempio, venne informata dello scandalo legato all’argento indiano dai stessi colpevoli, in modo da prevenire qualsiasi attacco potesse essere lanciato contro di loro. Coloro che cercarono di portare avanti un’azione contro di loro operarono quindi nel buio totale.
+
+Dobbiamo ricordare che tutti i politici professionisti si alleano tra loro quando viene compiuto un truffa finanziaria. In queste situazioni non esiste alcuna “opposizione”. Poiché il compito stesso della stampa libera è quello di smascherare le falsità o l’assurdità della stampa ufficiale capitalista, si può davvero dire che una grande parte delle energie della stampa libera venga sprecata in questo “tastare nel buio” a cui è condannata. Allo stesso tempo, le difficoltà economiche impediscono alla stampa libera di pagare per informazioni difficili da reperire; e sotto queste due limitazioni, rimane gravemente svantaggiata.
+
+I avvocati politici
+
+Dobbiamo considerare separatamente questo aspetto, poiché non è universale ma caratteristico esclusivamente della nostra società: la grave restrizione alla libertà di stampa che in questo paese subisce a causa del potere ormai incontrollato degli avvocati politici.
+
+Non c’è bisogno di sottolineare il potere di un gilda una volta che è stata costituita e dispone di solide tradizioni aziendali. È proprio questa la tesi principale de “The New Age”, in cui questo saggio apparve per la prima volta: che i gildi nazionali, applicati a tutto il campo sociale, potrebbero rappresentare la salvezza della società grazie alla loro forza intrinseca e vitalità.
+
+Gilde come quelle che ancora esistono tra di noi – dotate di un atto costitutivo che loro conferisce il monopolio e, pertanto, le rende, per usare l’espressione dell’“Epoca Nuova”, “al riparo da qualsiasi concorrenza illegittima” – sono ovviamente limitate alle classi sociali più abbienti e privilegiate. Le due principali di queste gilde, conosciute da tutti noi, sono quelle dei medici e degli avvocati.
+
+Di quale potere disponessero, lo abbiamo visto nella sentenza che ha comportato una delle punizioni più terribili conosciute in tutta l’Europa civile: dodici mesi di lavori forzati, per un uomo che aveva esercitato il suo presunto diritto di dare consigli medici a una paziente che lo aveva consultato liberamente. La paziente è morta, come avrebbe potuto morire anche nelle mani di un normale medico della Gilda. È noto che le pazienti muoiono spesso anche sotto la cura dei medici della Gilda. Ma in questo caso, l’incidente è accaduto nelle mani di qualcuno che non apparteneva alla Gilda; nonostante i consigli fossero stati richiesti liberamente e dati onestamente, colui che aveva violato il monopolio della Gilda ha subito questa spietata vendetta.
+
+Ma nemmeno la Gilda dei Medici è così potente quanto quella degli Avvocati, considerata solo come gilda. Il suo potere amministrativo la rende molto più influente. Le persone benestanti non sono obbligate ad assumere un medico, ma tutti sono costretti a ricorrere agli avvocati in ogni situazione, e questo a un costo assai elevato rispetto ad altre parti d’Europa. Tuttavia, questo potere della gilda legale, considerata solo come tale, nella moderna Inghilterra viene ulteriormente rafforzato da altri poteri amministrativi e arbitrari attribuiti a un numero selezionato dei suoi membri.
+
+Ora la Corporazione dei Giuristi è divenuta di recente (a proprio danno, come scoprirà) a malapena distinguibile dal complesso della politica professionale.
+
+Non occorre stare in Parlamento molti giorni per scoprire che la maggior parte delle leggi è fatta, e tutte sono riviste, da membri di questa Corporazione. Il Parlamento è, come organo redigente, praticamente un Comitato di Giuristi indifferenti a quella finzione di rappresentanza che ancora aderisce alla Camera dei Comuni.
+
+Va aggiunto che questa parte del loro lavoro è svolta onestamente, che vi si dedica la massima fatica, e che essa è consapevolmente tirannica o fraudolenta soltanto quando la Corporazione Legale si sente in pericolo.
+
+Ma assai più importante del potere legislativo della Corporazione Legale (che oggi è la principale artefice del diritto statutario, come è stata a lungo la fonte salutare della common law) è il suo potere esecutivo, ossia di governo.
+
+Se, dopo aver denunciato uno scandalo politico, sarete o non sarete esposti al rischio della rovina o della perdita della libertà, e a tutto l'ordinamento eccezionalmente crudele della carcerazione moderna, dipende in senso negativo dalla Corporazione Legale. Vale a dire: finché i giuristi sostengono i politici non avete alcun rimedio, e soltanto in caso di un'azione indipendente dei giuristi contro i politici, con i quali sono giunti a identificarsi tanto strettamente, avete qualche possibilità di discussione e di libero processo. La vecchia idea del giurista in magistratura che protegge il suddito contro il potere arbitrario dell'esecutivo, del giudice indipendente dal governo, è quasi scomparsa.
+
+Potete naturalmente commettere qualsiasi reato impunemente, se i politici di professione tra i giuristi rifiutano di perseguirvi. Ma questo è soltanto un male negativo. Più grave è il lato positivo della faccenda: che, viceversa, potete essere esposti al rischio di qualunque pena se essi desiderano esporvi a tale rischio; giacché, essendo la polizia segreta moderna onnipresente e privilegiata, il suo avversario può essere attirato nel pericolo a piacimento di chi governa, perfino là dove i politici non osano perseguirlo per aver denunciato la corruzione.
+
+Una volta che il cittadino è stato esposto a questo pericolo — cioè portato in tribunale davanti ai giuristi — se ciò debba condurre o no alla sua effettiva rovina è ancora una volta nelle mani dei membri della corporazione legale; il giudice può (è accaduto) opporsi ai politici (dai quali è stato nominato, ai quali spesso appartiene, e dai quali dipende oggi la sua posizione complessiva). Può tener duro, oppure — come ormai avviene quasi sempre — si identificherà con il sistema politico e ne farà da portavoce.
+
+È il prevalere di quest'ultimo atteggiamento che influisce così potentemente sulla posizione della Stampa Libera in questo paese.
+
+Quando il giudice si presta ai politici, sappiamo tutti che cosa segue.
+
+Lo strumento usato è quello di un'accusa di diffamazione e, nei casi in cui si vuole instaurare il terrore, di diffamazione penale.
+
+La difesa dell'uomo così accusato dev'essere assunta o da un Membro della Corporazione Legale — nel qual caso l'avvenire dell'avvocato stesso dipende dal suo sostenere gli interessi dei politici e dunque dal tradire il proprio cliente — oppure, se qualche eccentrico assume la propria difesa, l'intero potere della Corporazione gli si rivolgerà contro sotto forme di libertà che non sono più nemmeno ipocrite. Un giurato speciale, per esempio, che si opponesse al verdetto politico desiderato sarebbe un uomo segnato. Ma non vale la pena di insistere su questo punto perché, di fatto, negli ultimi tempi nessun giurato si è mai opposto quando è stato ordinato un verdetto politico.
+
+Anche nel caso di un abuso così lampante, con cui tutto il paese ha ormai familiarità, non dobbiamo esagerare. Sarebbe ancora impossibile ai politici, per esempio, ottenere in tempo di guerra un verdetto favorevole a un atto manifesto di tradimento. Ma in fondo un ragionamento del genere vale per qualunque tirannia, e il potere che i politici hanno ed esercitano di rifiutare di perseguire, per quanto evidente possa essere un atto di tradimento o altro atto grossolanamente impopolare, equivale a un potere di assoluzione.
+
+I giuristi decidono in ultima istanza sulla libertà di parola e di scrittura dei loro concittadini, e poiché la loro Corporazione è oggi purtroppo intrecciata con l'intero meccanismo del Governo esecutivo, abbiamo nell'Inghilterra moderna un esecutivo che controlla l'espressione delle opinioni. È assoluto in un grado, credo, sconosciuto nelle società del passato.
+
+Ora, è evidente che, fra tutte le forme di attività civica, scrivere sulla Stampa Libera è quella che più direttamente sfida questo potere arbitrario. Non c'è un direttore responsabile della conduzione di un qualsiasi Giornale Libero che non vi dica di aver dovuto mille volte considerare se fosse possibile dire una determinata [[concepts/truth|verità]], per quanto importante quella [[concepts/truth|verità]] potesse essere per la comunità. E il timore che lo trattiene è il timore della distruzione che la combinazione del politico di professione e del giurista tiene in mano. Non c'è un direttore simile che non possa testimoniare le numerose occasioni in cui ha dovuto, per quanto coraggioso potesse essere, rinunciare a dire una [[concepts/truth|verità]] di valore vitale, perché la sua pubblicazione avrebbe comportato la distruzione del giornale che egli reggeva precariamente.
+
+Non occorre insistere su tutto ciò. La perdita di libertà che abbiamo gradualmente subìto è ben nota a tutti noi, ed è tra i peggiori di tutti i sintomi mortali da cui la nostra società è affetta.
+
+* * *
+
+XIII
+
+Perché dico, dunque, che malgrado ostacoli tanto formidabili, sia nel suo stesso carattere sia nella resistenza che deve superare, la Stampa Libera crescerà probabilmente di potenza e potrà, alla lunga, trasformare l'opinione pubblica?
+
+È con l'argomento a favore di questo giudizio che concluderò.
+
+Le mie ragioni per formulare questo giudizio si fondano non soltanto sull'osservazione di altri, ma sulla mia stessa esperienza.
+
+Fondai l'«Eye-Witness» (cui succedette il «New Witness» sotto la direzione del signor Cecil Chesterton, che lo rilevò da me alcuni anni fa, e ora sotto la direzione di suo fratello, il signor Gilbert Chesterton) con lo scopo particolare di fornire un nuovo organo di libera espressione.
+
+Conoscevo, grazie a un'esperienza personale diretta, quanto fossero formidabili tutti questi ostacoli.
+
+Sapevo che il mio stesso giornale non poteva fare a meno di apparire particolare e personale, e che inevitabilmente soffriva di quell’eccentricità rispetto all’opinione pubblica di cui avevo parlato. Ho vissuto un’esperienza sia tragica che comica legata alle difficoltà economiche, alla difficoltà di reperire informazioni, ai problemi nella distribuzione del giornale, e a tutto il resto. Anche l’editore di “The New Age” potrebbe fornire testimonianze esattamente simili. Io stesso, e dopo di me anche il signor Cecil Chesterton, abbiamo sperimentato le minacce lanciate dai politici professionisti e dai loro avvocati moderni contro la libera espressione della [[concepts/truth|verità]]; non ho dubbi che anche l’editore di “The New Age” possa fornire testimonianze analoghe. Per quanto riguarda la libertà di stampa in Irlanda, tutti sappiamo come venga trattata: viene semplicemente soppressa a piacimento della polizia.
+
+Di fronte a un'esperienza del genere, e nonostante essa, sono ancora fermamente convinto che la stampa libera avrà successo.
+
+Ora lasciate che vi spieghi le ragioni di questa audace conclusione.
+
+* * *
+
+XIV
+
+La prima cosa da notare è che la stampa libera non viene letta in modo superficiale, ma con attenzione approfondita. Il suo pubblico, anche se piccolo, non perde mai di vista le sue dichiarazioni, sia che le concordi o meno, e si immerge completamente nelle sue opinioni, nei suoi fatti e nelle sue argomentazioni. Se osserviamo attentamente la storia, scopriremo che tutte le grandi riforme sono iniziate in questo modo: non attraverso un controllo diffuso che agisce verso il basso, ma attraverso energia spontanea, locale e intensiva, che agisce verso l’alto.
+
+Non si può dire lo stesso della stampa ufficiale, per la semplice ragione che essa rappresenta un vero interesse politico solo in rari e brevi momenti. Naturalmente viene letta da migliaia di persone in più rispetto alla stampa libera, ma i suoi lettori non ne vengono realmente influenzati. A meno che non si tratti di occasioni particolari, come una notizia eccezionale o un grande successo, essa non li informa nel vero senso di questa parola: non li possiede, non li riempie di idee, non li spinge ad agire in modo diverso.
+
+Una delle prove di ciò – una prova curiosa, comica, ma assolutamente convincente – è la dipendenza dei grandi giornali quotidiani dai titoli in prima pagina. Novantanove persone su cento ricordano soltanto il titolo e nient’altro, perché il contenuto che segue non è altro che un’estensione banale di quel titolo.
+
+Ora, il titolo in prima pagina suggerisce, naturalmente, un fatto (o una falsità) che possiede un potere temporaneo. Lo stesso vale per l’affisso pubblicitario. Ma il semplice fatto di dover ricorrere a tali metodi rappresenta già una prova della debolezza intrinseca che li caratterizza.
+
+Quindi, fin dall’inizio, esiste una differenza di qualità nella lettura e negli effetti che essa produce; è di fondamentale importanza per il mio argomento che il lettore presti attenzione a questo aspetto. La stampa libera viene davvero letta e assimilata; la stampa ufficiale, invece, no. Il suo “grido” viene sentito, ma non fornisce nulla di sostanziale per l’intelletto. Non si può paragonare la scarsità di una pinta di acido nitrico nello studio di un incisore alle centinaia di galloni d’acqua presenti nelle cisterne della sua casa: nessuna quantità d’acqua potrebbe danneggiare il rame; solo l’acido lo può fare. E basta una piccola quantità.
+
+* * *
+
+XV
+
+Si debba inoltre notare che la stampa libera influisce potentemente, anche quando le persone non sono d’accordo con essa, e soprattutto quando la odiano, su quella piccola classe attraverso cui, nel mondo moderno, si diffondono le idee.
+
+Nella storia europea non è mai esistito un periodo in cui la massa delle persone pensasse così poco a se stessa e dipendesse così tanto – per quanto riguarda la forma finale della propria società – dalle conclusioni e dal lessico di un ristretto gruppo di persone privilegiate.
+
+Si tratta di uno stato di cose patologico: conferisce tutto il proprio potere a piccoli gruppi di persone benestanti. Tuttavia, per coincidenza, ciò aiuta anche la stampa libera.
+
+Si tratta di un organo di informazione controllato e restrittivo al quale fa appello la stampa libera. Il boicottaggio è stato così rigoroso – ed è ancora tale, sebbene in misura minore – che i redattori e gli autori delle pubblicazioni della stampa libera probabilmente sottovalutano l’effetto reale del loro operato anche oggi. Non vengono mai menzionati nelle principali testate quotidiane. Per la stampa ufficiale, rappresenta un vero punto d’onore alterare il significato delle parole o, se proprio devono citarli, farlo in modo estremamente tortuoso, piuttosto che pubblicare chiaramente e senza ambiguità le parole “The New Age” o “The New Witness”.
+
+Ma ci sono diversi test che dimostrano quanto profondo sia l’impatto di una pubblicazione gratuita a circolazione limitata. Ecco uno che sembra apparentemente superficiale, ma al quale attribuisco grande importanza perché rivela il modo in cui funzionano le menti umane. Alcune frasi tipiche delle pubblicazioni gratuite finiscono per essere utilizzate anche nella scrittura di tutti gli altri media. Potrei fornire molti esempi; ne darò uno: la parola “profittatore”. Fu usata per la prima volta nelle colonne de “The New Age”, se non sbaglio. Da allora ha preso piede ovunque. Questo non significa che la maggior parte delle persone che leggono i giornali quotidiani capisca davvero cosa significhi utilizzare questa parola, proprio come non capiscono cosa significano espressioni come “stato servile”. Di solito, usano queste parole in modo distorto, intendendo con esse semplicemente qualcuno che ottiene un profitto eccessivo; allo stesso modo, utilizzano anche la mia espressione “Lo Stato Servile” per indicare una rigida regolamentazione di tutta la vita civile, un’idea completamente lontana dal vero significato del termine. Ma il punto è che la stampa gratuita deve aver già avuto un impatto profondo, se solo il suo vocabolario è riuscito a diffondersi così ampiamente nonostante il rigido boicottaggio a cui è sottoposta.
+
+* * *
+
+XVI
+
+Molto più importante di questo test pratico e applicabile del vocabolario è il test più generale e meno misurabile riguardante i programmi televisivi e i notiziari. Ad esempio, il programma dei National Guilds – che nel nostro paese viene definito “Socialismo Gilda” o “The New Age” dal suo sostenitore – viene seguito ovunque ed è considerato con grande attenzione. I giornalisti impiegati da Harmsworth, ad esempio, ne fanno ampio uso, anche se finora menzionare “The New Age” in relazione a questo programma è quasi inesistente. Lo stesso vale, credo, per tutti gli sforzi fatti dalla stampa libera in passato. La propaganda del Socialismo – che come idea ha avuto un enorme successo fino a pochi anni fa – è stata, dal punto di vista giornalistico, quasi interamente condotta da testate indipendenti, la maggior parte delle quali a piccola diffusione; tutte queste testate sono state boicottate, persino nei loro nomi, dalla stampa ufficiale. Lo stesso vale per i miei sforzi e quelli di Mr. Chesterton con il “New Witness”: quel giornale è stato rigorosamente boicottato e mai citato. Ma oggi tutti parlano, come ho appena detto, dello “Stato Servile”, del “Politico Professionista”, dei fondi segreti dei partiti, degli pseudonimi sotto cui le persone si nascondono, dell’acquisto di onori, posizioni politiche e incarichi governativi, ecc.
+
+Ancora di più: si vengono a conoscenza di manovre significative, condotte naturalmente in segreto, ma che mostrano chiaramente l’importanza e l’influenza della stampa libera. Si sentono parlare di ordini dati da politici che rivelano la loro paura della stampa libera; di tentativi da parte di questo o quel capitalista per assumere il controllo di un giornale indipendente; a volte si parla anche di politiche avviate, di documenti ufficiali redatti o di memorandum presentati, che derivano direttamente dai consigli, dalle proposte o dagli argomenti di un giornale libero di cui solo i suoi lettori hanno conoscenza, e della cui stessa esistenza i cittadini comuni potrebbero dubitare.
+
+Di recente ho notato qualcosa di ancora più significativo: l’azione della stampa libera a volte ha effetti immediati. È stato evidente nel caso dello ebreo spagnolo Vigo, l’agente tedesco; a causa delle sue connessioni finanziarie, tutta la stampa ufficiale ricevette l’ordine di definirlo francese usando un nome falso. Un solo paragrafo pubblicato su “New Witness” smascherò quella menzogna prima ancora che finisse la settimana.
+
+* * *
+
+XVII
+
+Ora consideriamo questo fattore importante nel mondo degli affari. La [[concepts/truth|_verità]] si conferma da sola.
+
+Mezzo milione di persone leggono di un politico professionista che, ad esempio, ha un’oratoria dal “potere magnetico”, o che è “carico di carisma personale”, o che “riesce a far commuovere o ridere il pubblico a piacimento”. Un articolo onesto che racconta la [[concepts/truth|verità]] su di lui lo descrive invece come un oratore noioso, pieno di luoghi comuni, anziano, con un forte odore caratteristico, e che dà l’impressione di essere stanco; si limita a esaltare un entusiasmo fasullo utilizzando frasi banali che i giornalisti hanno già imparato a riassumere in poche parole anni fa.
+
+Beh, quell’immagine falsa, ridicolmente falsa, creata apposta per mettere questo politico sotto i riflettori (in cambio di favori da ottenere), senza dubbio rimane l’impressione generale nella maggior parte di quelle 500.000 persone. La semplice e piuttosto volgare [[concepts/truth|verità]] probabilmente verrà accettata soltanto da poche centinaia di persone.
+
+Ma prima o poi, una certa percentuale di quei 500.000 persone ascolta davvero il politico in questione. Lo sentono parlare e ne ricevono un'impressione diretta e autentica.
+
+Se non avessero letto nulla che potesse far loro intuire la verità, è molto probabile che quelle false informazioni avrebbero continuato ad avere effetto su di loro, nonostante le prove fornite dai loro sensi. Gli esseri umani sono fatti in modo tale che una menzogna, ripetuta abbastanza spesso senza essere contraddetta, possiede davvero quel curioso potere illusorio. Un uomo che ha ascoltato il discorso di quell’anziano signore, se non avesse avuto accesso ad altre fonti di informazione oltre alla stampa ufficiale, potrebbe essere uscito pensando: “Non sono rimasto molto colpito, ma probabilmente è dovuto al mio stesso stanchezza. Devo credere che la buona reputazione che ha sia ben fondata. Dev’essere un grande oratore, visto che tutti lo definiscono tale”.
+
+Ma un uomo che abbia anche solo una volta letto o sentito dire che questo politico era davvero ciò che descrivevano, se ne ricorderà vividamente (anche se all’inizio probabilmente l’aveva ritenuto falso); un’esperienza personale ha confermato la veridicità di quelle affermazioni e le ha rese “vive”. Queste dichiarazioni di verità, anche quando sono piuttosto insignificanti, hanno sicuramente un effetto cumulativo, soprattutto quando riguardano questioni di grande rilevanza civica.
+
+Sono convinto, ad esempio, che al momento attuale la maggior parte delle persone della classe media non solo sia a conoscenza di questa verità, ma ne sia anche convinta: ovvero che molto prima della guerra la Camera dei Comuni fosse diventata una frode; che i suoi dibattiti non riguardassero questioni realmente divisive, e che persino gli scarsi argomenti su cui si svolgevano tali dibattiti, insieme alla pretesa di rappresentare un vero antagonismo, fossero in realtà menzogne.
+
+Questa verità salutare fu, naturalmente, raggiunta anche attraverso molti altri canali. L’accordo scandaloso tra i gruppi politici che costrinsero il Parlamento ad approvare la legge sull’assicurazione rappresentò una vera lezione per le grandi masse del popolo, così come l’atteggiamento cinico dei politici riguardo alla questione dei lavoratori cinesi dopo le elezioni del 1906. Lo stesso vale per le ridicole scenate che si verificarono in merito al disegno di legge sulla soppressione delle chiese gallesi e ai vari progetti di legge sull’istruzione.
+
+Ma tra le forze che aprirono gli occhi delle persone sulla Camera dei Comuni, la stampa libera svolse un ruolo molto importante, anche se non fu mai menzionata nei grandi documenti ufficiali, e anche se nessuno, tra le centinaia di persone comuni, ne aveva mai sentito parlare. Coloro che la lessero rimasero sorpresi e finirono per accettarne il contenuto, data la perfetta corrispondenza tra quanto vi era scritto e i fatti osservati nella realtà.
+
+L’uomo che dice la verità quando i suoi colleghi intorno a lui mentono, gode sempre di una sorta di potere profetico, sebbene limitato. Se esistesse una cospirazione generale per mantenere l’illusione che tutti i suoi pari siano alti più di sei piedi, un uomo desideroso di correggere questa falsità sarebbe del tutto al sicuro se dicesse: “Non so se il prossimo individuo che incontrerete sia alto più di sei piedi o meno, ma posso predire con certezza che tra i prossimi dodici individui troverete tre o quattro che sono alti meno di sei piedi.”
+
+Se esistesse una cospirazione generale per fingere che le persone con un reddito superiore al limite soggetto all’imposta sul reddito non mai truffino nessuno in una transazione commerciale, non si potrebbe dire: “In tale giorno sarai truffato da una persona il cui reddito sarà superiore al limite soggetto all’imposta sul reddito”, ma si potrebbe dire: “Fai attenzione alle persone che ti trufferanno nei prossimi cinque anni. E predirò che tra di loro ci saranno anche persone che pagano l’imposta sul reddito”.
+
+Questo potere di profezia, che è un complemento del dire la verità, ho notato che influisce profondamente sulle persone.
+
+Dieci anni fa, un rispettabile funzionario provinciale sarebbe stato scioccato nell'apprendere che posti all’Alta Camera del Parlamento venivano regolarmente comprati e venduti. Avrebbe probabilmente negato indignato una tale possibilità. Il “Free Press” scriveva: “In breve tempo vedremo un esempio evidente di un uomo incompetente, sconosciuto ma molto ricco che diventa legislatore con poteri ereditari permanenti, trasferibili a suo figlio dopo la sua morte. Non so chi sarà il prossimo caso, ma sicuramente ne verificherà uno molto presto, visto che questa pratica continua senza sosta. Sarà difficile spiegarlo. La spiegazione è semplice: quel ricco ha dato una grande somma di denaro al politico professionista e bisognoso, Selah.”
+
+Il nostro stimato governatore provinciale potrebbe aver sentito soltanto un eco di questa [[concepts/truth|_verità]], perché dieci anni fa avrebbe avuto pochi lettori. Forse non ha mai letto nemmeno una parola al riguardo sui suoi giornali quotidiani. Ma le cose accadono. Prima vede un grande soldato, poi un politico molto pubblicizzato; non un uomo ricco, ma di cui si parla molto e che viene nominato pari del regno. In entrambi i casi, gli eventi sembrano normali e lui non ne rimane colpito. Ma prima o poi arriva un caso in cui ha informazioni locali. Allora si chiede: “Ma perché mai questo tale è stato nominato pari (o membro del governo, o qualcos’altro)? Perché, per l’amor del cielo, quest’uomo così ricco ma sconosciuto, e a mio parere incompetente, viene improvvisamente messo in una posizione del genere?” Allora si ricorda di ciò che gli è stato detto, inizia a fare domande. E scopre, naturalmente, che sono stati spesi dei soldi; forse, se ha fortuna, riesce anche a capire quale politico professionista li ha presi. E persino quanto ne ha intascato!
+
+* * *
+
+XVIII
+
+L’effetto della stampa libera, dovuto a tutte queste cause, può essere paragonato all’effetto cumulativo di una delle grandi offensive di questa guerra. Ogni singola azione non è né drammatica né di vasta portata; ci sono pochi o nessun cambiamento evidente. La situazione sembra deludente. Ma ogni singola azione ha il suo peso, e quando arriverà la fine, tutti vedranno improvvisamente quale sia stato l’effetto cumulativo.
+
+Non c’è una singola cosa che i documenti pubblici abbiano seriamente affermato negli ultimi anni che non sia stata confermata dagli eventi – e a volte, con una sorprendente rapidità e precisione nei dettagli.
+
+Forse sarebbe superstizioso credere che la forte e coraggiosa denuncia della [[concepts/truth|verità]] attiri dal Cielo nuovi, inaspettati ed evidenti esempi a sostenerla. Ma, in realtà, gli eventi degli ultimi anni quasi spingono a questa credenza. La stampa libera non ha nemmeno bisogno di sottolineare alcune verità politiche che la stampa ufficiale si è rifiutata di pubblicare, quando le stelle sembrano combattere per quelle stesse verità. Queste vengono immediatamente portate alla luce del pubblico da qualche evento insolito! Appena io e il signor Chesterton avevamo iniziato a pubblicare articoli sulla situazione a Westminster, gli uomini di Marconi ci hanno gentilmente aiutati in questo compito.
+
+* * *
+
+XIX.
+
+Ma c’è un ultimo fattore in questo progressivo avanzamento della stampa libera verso il successo, che ritengo sia il più importante di tutti. È il fattore del tempo nel corso delle generazioni umane.
+
+È un vecchio concetto secondo cui il paradosso di un'epoca diventa la normalità della successiva, e questo concetto è vero. È vero perché i giovani vengono plasmati in due modi: innanzitutto dalla realtà e dalla freschezza delle loro esperienze personali, e in secondo luogo dall’autorità degli anziani.
+
+Vedete, c'è qualcosa che riguarda la reputazione dei poeti. Ad esempio, quando A ha 20 anni, B 40 e C 60, appare un nuovo poeta che, forse, viene considerato eccentrico. “A” non può fare a meno di riconoscere il valore di questa nuova voce poetica e di ammirarla, ma si sente un po’ imbarazzato all’idea che la sua opinione possa risultare immatura, quindi tace. “B”, essendo troppo impegnato nella vita adulta e ormai troppo indurito, non riesce a percepire l’efficacia di questa nuova voce poetica; inoltre, il suo ascendente su “A” lo spinge ad avere ancora maggiori dubbi sul proprio giudizio. “C”, invece, disprezza apertamente questa novità: ormai immerso nella routine della vecchiaia, non è più disponibile ad accettare nuovi stimoli creativi.
+
+Ora lasciate che passino vent’anni: le cose saranno cambiate in questo modo. “C” è morto. “B” è invecchiato e ha perso parte del suo potere come autorità. “A”, essendo di mezza età, è sicuro dei propri gusti e non è disposto ad accettare quelli degli anziani. Ha già espresso da tempo la sua ammirazione per il nuovo poeta, che, in realtà, ormai non è più un “nuovo poeta”, ma probabilmente è già considerato un classico affermato.
+
+Siamo tutti testimoni di questo fenomeno nel campo della letteratura. Credo che lo stesso accada, con ancora maggiore intensità, anche nel campo delle idee politiche.
+
+Riesce qualcuno a immaginare quegli uomini che, appena cinque o sei anni fa avevano lasciato l’università, tornare dal guerra e continuare comunque a prendere sul serio la Camera dei Comuni? Non ci riesco proprio. Come studenti universitari dovevano già aver sentito parlare delle sue problematiche; da giovani sapevano che esprimere queste verità infastidiva i loro anziani, e provavano sempre – forse addirittura ne godevano – che il loro atteggiamento fosse in qualche modo irrispettoso o strano, persino eccessivo. Ma quando diventano uomini tra i 30 e i 40 anni, considerano una verità così semplice come scontata. Non avranno più anziani da temere, e le loro opinioni saranno basate su giudizi maturamente formati. A meno che non si verifichi qualcosa di simile a una rivoluzione nei comportamenti e nella struttura della Camera dei Comuni, a quel punto essa diventerà soltanto uno scherzo, e speriamo, ormai, uno scherzo in parte innocuo.
+
+Con questo effetto crescente e cumulativo del dire la verità, anche quando tale verità viene offuscata o distorta dall’entusiasmo, tutte le barriere che ne ostacolano la diffusione si indeboliranno inevitabilmente. La forza più potente che impedisce alle persone di ascoltare la verità – il potere arbitrario ancora utilizzato dagli avvocati politici per soffocare la libertà di espressione –, credo, diminuirà.
+
+Dopotutto, i tribunali dipendono in gran parte dall’opinione pubblica. Venti anni fa, ad esempio, un’accusa di corruzione rivolta contro un politico professionista sarebbe stata considerata una cosa assurda; anche se vera, avrebbe quasi sempre fornito ai suoi colleghi avvocati l’occasione per reagire con forza. Oggi, invece, questa pratica è diventata così comune che qualsiasi tentativo di ripristinare l’illusione precedente fallirebbe completamente. L’avvocato presidente non potrebbe più fingere di essere scioccato e incredulo nell’apprendere che un certo ministro sia coinvolto in uno scandalo finanziario. Oggi, queste cose le diamo per scontate.
+
+* * *
+
+XX
+
+Quello di cui dubito riguardo al successo imminente e ormai evidente della stampa libera è la sua capacità di portare a termine riforme democratiche.
+
+Riuscirà infine a far sì che la verità venga detta apertamente e in modo completo. Supererà quella barriera che esiste tra il piccolo gruppo al potere, nel quale la verità viene ammessa in modo cinico, e la maggior parte degli uomini e donne istruiti, i quali non possono conoscere la verità attraverso le parole orali ma dipendono dalla stampa. Credo che, già entro la vita di coloro che hanno partecipato a questa lotta, tutti i grandi problemi del nostro tempo, in particolare quelli economici, verranno discussi onestamente. Tuttavia, non vedo ancora quale possa essere il percorso attraverso cui la grande maggioranza della gente possa riacquistare interesse per il modo in cui viene governata, o addirittura per il ripristino della propria indipendenza economica.
+
+Da quanto posso osservare nella vita che mi circonda, l’ampio desiderio della gente per la libertà e persino per la critica è scomparso. Il lavoratore chiede un sostentamento sufficiente e regolare, compreso un sistema di pensioni, e, come parte di questa concezione di sostentamento e sufficienza, anche una giusta quantità di tempo libero. Non vi sono alcun segno che desideri possedere i mezzi di produzione; forse ciò potrebbe accadere in futuro, ma tutte le evidenze indicano il contrario. Per quanto riguarda un’indignazione generale del pubblico contro governi corrotti, non esistono segni che essa possa essere abbastanza forte da avere qualche effetto concreto (al di fuori dei pochi che ne sono a conoscenza e che o partecipano ai benefici derivanti da tali governi o semplicemente alzano le spalle).
+
+Tutto ciò che possiamo sperare di fare, per il momento, è agire in modo negativo: almeno secondo me. Possiamo minare il potere della stampa capitalista, possiamo smascherarla proprio come abbiamo fatto con i politici. È molto potente, ma anche molto vulnerabile – come tutte le cose umane che si basano sulla menzogna. Potremmo aspettarci, forse in un lasso di tempo breve quanto quello necessario per esporre e indebolire quella miserabile falsità e incompetenza chiamata Sistema Partitico (cioè, in circa dieci anni o meno), di ridurre la stampa ufficiale allo stesso stato. In alcuni modi, il rischio di fallimento è minore, poiché il nostro avversario è sicuramente meno ben organizzato. Ma al di là di questo, al di là di questi limiti, non riusciremo a ottenere nulla. Illumineremo la gente, e attraverso l’illuminazione distruggeremo quelle false credenze. Non provocheremo azioni pubbliche, perché i metodi e gli istinti legati all’azione civica collettiva sono ormai scomparsi.
+
+Una tale conclusione potrebbe far pensare che il lavoro deliberato e continuo di chi dice la [[concepts/truth|verità]] senza ricompensa, e sempre esponendosi a dei rischi, sia inutile; e che coloro che per molti anni hanno dedicato gratuitamente le loro migliori energie al consolidamento della libertà di stampa abbiano lavorato invano. Non intendo affatto suggerire nulla del genere: intendo proprio il contrario.
+
+In futuro continuerò personalmente, come ho fatto in passato, a scrivere e pubblicare su quella casa editrice, senza curarmi del boicottaggio nella promozione e nei finanziamenti pubblicitari che hanno lo scopo di distruggerla e rendere vani tutti i nostri sforzi. Continuerò a farlo, anche se so che su “The New Age” o “New Witness” ho soltanto un lettore, mentre su “Weekly Dispatch” o “Times” ne avrei mille.
+
+Lo farò io, e lo faranno anche gli altri che continuano a svolgere un compito simile. Primo perché, sebbene questo lavoro sia per ora soltanto negativo, esiste (e tutti noi lo sentiamo istintivamente) una “Forza Curativa della Natura”: indebolendo un male, si può molto presto – e sicuramente alla fine – creare del bene. Secondo perché il rispetto di sé e l’onore lo richiedono. Nessun uomo che possiede la [[concepts/truth|verità]] da comunicare e il potere di farlo può a lungo nasconderla per paura o disperazione, senza subire umiliazioni. Rivelare la [[concepts/truth|verità]] a qualunque costo, anche se questo non possa più essere d’aiuto alla Comunità, è una necessità per l’anima stessa.
+
+Abbiamo anche quest’ultima consolazione: coloro che ci lasciano e si uniscono, per paura o avidità, al partito più forte di coloro che mentono, perdono gradualmente la possibilità di ottenere fama nel campo letterario. Una scrittura sincera non può sopravvivere in un ambiente dominato dall’ipocrisia meccanica. Coloro che si avvalgono dei loro enormi pubblici moderni sono degli scribacchini destinati all’oblio; noi, nel silenzio contemporaneo, siamo gli eredi di coloro che hanno costruito la grandezza politica dell’Inghilterra su basi di libertà di espressione e della prosa che ne deriva. Coloro che preferiscono vendere se stessi o essere intimiditi di solito non ottengono nemmeno quella sicurezza effimera per cui tradiscono i loro simili; nel frattempo, ci lasciano l’unica forma solida e permanente di potere politico: il dono del dominio attraverso la persuasione.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Free Press (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/capitalism,concept/truth,histref/reformation,histref/renaissance,setting/london"></span>

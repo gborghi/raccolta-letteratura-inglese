@@ -167,6 +167,81 @@ John Bull's Other Island (1904).
 4.  Dégagé means casual, relaxed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# L'Ideale Polacco
+
+The Illustrated [[settings/london|London]] News, 2 luglio 1927.
+
+"L'Ideale Polacco"
+
+Vi sono certe cose a questo mondo che sono a un tempo intensamente amate e intensamente odiate. Sono per natura cose di forte carattere, o molto buone o molto cattive. In genere danno un gran daffare a tutti, e una sorta particolare di daffare a coloro che tentano di distruggerle. Ma danno più daffare di ogni altra cosa a coloro che tentano di ignorarle. Alcuni le odiano in modo così folle da negarne la stessa esistenza; ma il vuoto prodotto da quella negazione continua a esasperare coloro che l'hanno fatto, finché non sono come uomini soffocati da un vuoto pneumatico. Dichiarano che essa dev'essere senza nome, e poi non cessano mai di maledirne il nome. Questo caso curioso è forse illustrato al meglio con un esempio. Un esempio è l'Irlanda. Un altro esempio è la Polonia.
+
+Entro dieci minuti dallo scendere dal treno sul territorio polacco avevo udito due frasi... frasi che colpirono la nota precisa che così ispira una metà del mondo e infuria l'altra metà. Fummo ricevuti da una sorta di scorta di cavalleria polacca, e uno degli ufficiali tenne un discorso in francese... un discorso assai bello in un francese assai buono. Nel corso di esso usò la prima di queste due espressioni tipiche: "Non dirò il principale amico della Polonia. Dio è il principale amico della Polonia." E in seguito disse, in un momento più giocoso e conversevole: "In fondo, non ci sono che due mestieri per un uomo: il poeta e il soldato di cavalleria." Lo disse con umorismo, e con la delicata implicazione: "Voi siete un poeta e io sono un soldato di cavalleria. E dunque, eccoci qui!" Io dissi che, tenuto conto della difficoltà per chiunque di avere qualcosa da mangiare se ciò fosse letteralmente vero, accettavo interamente il sentimento, e vi concordavo di tutto cuore. Ma so che vi sono alcune persone che non lo comprenderebbero nemmeno abbastanza da dissentirne. So che alcune persone si rifiuterebbero furiosamente persino di coglierne lo scherzo. C'è qualcosa in quel particolare genere di romanticismo, o (se volete) in quel particolare genere di spavalderia, che le muove del tutto sinceramente a una violenta irritazione. È un'irritazione comune tra i razionalisti, tra la specie più arida dei professori e tra la specie più ottusa dei pubblici funzionari.
+
+Ora, se tutti quegli ufficiali polacchi fossero stati ufficiali prussiani, se la loro spavalderia fosse consistita nello spingere silenziosamente la gente giù dal marciapiede, se il loro cerimoniale fosse consistito non nel fare buoni discorsi ma nello stare in fila del tutto muti, se i loro volti fossero stati come legno dipinto e le loro teste e i loro corpi gonfiati di null'altro che un [[motifs/wind|vento]] d'oriente d'[[concepts/pride|orgoglio]], non avrebbero irritato questo genere di critico in questo modo. Lo avrebbero rasserenato, con la vaga sensazione che questo è ciò che i soldati devono essere. Non dico che approverebbe tutto ciò che facevano, ma accetterebbe ciò che erano. Non lo adirerebbe né gli parrebbe assurdo, come pare a me, che appartengo all'altra metà del genere umano. Ma ciò che lo adira, ciò che gli pare assurdo, è l'idea di un soldato civilizzato; l'uomo che non si vergogna dell'arte militare più di quanto si vergogni di qualunque altra arte, ma che si interessa di altre arti... e si interessa di tutte come un [[archetypes/artist|artista]]. Che l'uomo in uniforme faccia un discorso, e, peggio di tutto, un buon discorso, pare comico... come un poliziotto che compone un [[forms/sonnet|sonetto]]. Che egli colleghi un soldato a [[motifs/horse|cavallo]] con un poeta appare privo di senso, come collegare un macellaio con un monaco buddista. In una storica parola, questa gente odia e ha sempre odiato il Cavaliere. Odiano il Cavaliere specialmente quando scrive canzoni da Cavaliere. Odiano il cavaliere quando è anche un trovatore. Possono comprendere i Fianchi di Ferro[1] che uccidono la gente solennemente nel [[concepts/fear|timore]] del Signore, così come possono comprendere i soldati prussiani che uccidono la gente solennemente nel [[concepts/fear|timore]] del Signore della Guerra. Ma non possono tollerare la combinazione di arguzia, cultura e cortesia con questo mestiere di uccidere. Pare loro particolarmente assurdo quando il Cavaliere aggiunge a tutte le sue altre abbaglianti incoerenze l'essere religioso quanto il Fianco di Ferro. L'ultimo tocco è dato al loro adirato sconcerto quando l'uomo che ha parlato allegramente come se nessuno contasse tranne i lancieri e i poeti [[forms/lyric|lirici]] dice, con la stessa semplicità e allegria: "il solo amico del nostro paese è Dio."
+
+Questi critici comunemente dicono di essere irritati da questo tipo romantico perché fallisce sempre; e così sono naturalmente ancor più irritati quando esso assai di frequente riesce. Le persone pronte a versare [[motifs/tears|lacrime]] di compassione quando i mulini a vento rovesciano [[characters/don-quixote|Don Quixote]] sono davvero furiose quando [[characters/don-quixote|Don Quixote]] rovescia realmente i mulini a vento. Le persone disposte a dare una vana benedizione a una [[concepts/hope|speranza]] disperata non sono innaturalmente seccate di scoprire che la [[concepts/hope|speranza]] disperata è relativamente promettente e non del tutto disperata. Anche il più geniale di questi realisti, il signor Bernard [[works/shaw-(chesterton)|Shaw]], sarebbe un po' contrariato se dovesse capovolgere l'intera morale di "Arms and the Man" e ammettere che le Armi contavano un po' meno e l'Uomo un po' di più. Sarebbe leggermente sconcertato, forse, se il celebre duello d'artiglieria avesse davvero luogo, e il sentimentale Sergius facesse a pezzi il realistico Bluntzschli. Ma questo è quasi esattamente ciò che è realmente accaduto oggi nell'Europa moderna. È ciò che è accaduto, per esempio, quando il pratico signor Broadbent[2] fece bancarotta nella sua Altra Isola.
+
+Quando i Polacchi sconfissero i bolscevichi sul campo di battaglia,
+fu precisamente quello.  Fu l'antica tradizione cavalleresca che sconfiggeva
+tutto ciò che è moderno, tutto ciò che è necessitarista,
+tutto ciò che è meccanico nel metodo e materialistico nella filosofia.
+Fu la nozione marxiana che tutto è inevitabile, sconfitta
+dalla nozione cristiana che nulla è inevitabile--no, nemmeno
+ciò che è già accaduto.  Il signor Belloc ha trasfuso l'ideale polacco
+in versi dedicati a un grande santuario polacco--
+
+[[concepts/hope|Speranza]] dei Mezzo-Sconfitti; casa d'oro;
+Santuario della spada e torre d'avorio.[3]
+
+Prima di lasciare questi cavalieri polacchi posso osservare che ebbi
+un'altra occasione di vederli alle gare di salto nel
+Concours Hippique, e mi limiterò a menzionare un episodio e a lasciarlo lì,
+poiché ha qualcosa di una [[forms/parable|parabola]].  Il percorso comprendeva il consueto
+ostacolo alto, ma ce n'era uno che appariva di foggia [[forms/novel|nuova]]
+e praticamente insuperabile.  Comunque, uno dopo l'altro in
+quella lunga processione di cavalieri ammirevoli, francesi, polacchi e italiani,
+falliva a questa prova finale, finché il fallimento non venne trattato come cosa
+scontata; anche gli esperti in simili occasioni divergono sui gradi
+di merito e di sventura, e io non sono un esperto di [[motifs/horse|cavalli]].
+Uno dei Lancieri mi chiese scherzosamente se avessi intenzione di gareggiare.
+Diedi l'ovvia risposta che, in groppa al mio elefante prediletto,
+mi sarei impegnato a scavalcare molte delle barriere, benché di certo
+non l'ultima di tutte, che [[concepts/doubt|dubito]] una giraffa potrebbe cavalcare.
+Ma il sentimento generale sembrava essere che sarei stato più utile
+come ostacolo che come superatore di ostacoli, e che, se mi fossi disteso
+sul percorso, avrei potuto essere peggio del peggiore degli ostacoli.
+
+Vi fu un po' di divertimento e un po' di compassione per un giovane polacco--che era,
+credo, un principiante o persona relativamente inesperta--la cui cavalcatura in qualche
+modo inciampò così che il cavaliere fu scagliato oltre la testa del [[motifs/horse|cavallo]].
+Almeno, pensai che fosse scagliato oltre la testa del [[motifs/horse|cavallo]],
+e poi scoprii, tra alcune stupefacenti e sussultanti evoluzioni,
+che stava facendo ciò che si può solo definire aggrapparsi alle orecchie del [[motifs/horse|cavallo]].
+Mentre il [[motifs/horse|cavallo]] danzava per il percorso in maniera dégagé[4],
+il cavaliere sembrava strisciargli giù per il collo in qualche modo incredibile e
+rotolò di nuovo in sella.  Trovò una staffa e cercò invano
+di trovare l'altra.  Poi vi rinunciò--alla staffa, non alla gara.
+Superò un ostacolo abbastanza basso davanti a sé, e poi, sembrando
+raccogliere un impeto selvaggio dal nulla, con una staffa che volava libera
+e oscillando in sella, caricò l'ultima impossibile barriera,
+e, primo di tutta quella compagnia, la valicò come un uccello.
+E qualcuno disse al mio fianco con una brusca esclamazione,
+in inglese:  "Ecco, questi sono i Polacchi!"
+
+[[concepts/hope|Speranza]] dei Mezzo-Sconfitti; casa d'oro...
+
+1.  Gli Ironsides erano i soldati puritani che combatterono sotto Cromwell
+nelle guerre civili inglesi.
+
+2.  Tom Broadbent è un personaggio della commedia di George Bernard [[works/shaw-(chesterton)|Shaw]]
+John Bull's Other Island (1904).
+
+3.  Vedi "Ballade to Our Lady of Czestochowa" di Belloc.
+
+4.  Dégagé significa disinvolto, rilassato.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The_Polish_Ideal (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,motif/horse,motif/tears,motif/wind,concept/fear,concept/hope,concept/pride,form/lyric,form/sonnet,setting/london,character/don_quixote"></span>

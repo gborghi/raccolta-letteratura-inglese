@@ -713,6 +713,730 @@ positive happiness than ever glowed in the rapt day-[[motifs/dreams|dreams]] of 
 Staël.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[motifs/garden|giardino]], come se fosse curato da una gentile signora, era stato tagliato con cura.
+
+Come se dormisse beata…
+
+E verso il cielo aperto chiuse i suoi occhi;
+
+I cieli azzurri si univano perfettamente
+
+“In un grande cerchio luminoso, pieno di fiori di luce…”
+
+I fiori di luce e le scintille rotonde del rugiada.
+
+Quello che pendeva dalle loro ali azzurre, lo si poteva davvero vedere.
+
+Come scintillanti [[motifs/stars|stelle]] che brillano nel cielo blu della sera.
+
+Giles Fletcher
+
+
+
+Il giovane uomo più straordinario che abbia mai vissuto
+
+Ellison. Un uomo straordinario per la sua costante e abbondante generosità.
+
+Titolo:  
+Dei doni preziosi che la fortuna gli ha sempre concesso… Dalla sua culla in poi.
+
+Verso la sua [[motifs/grave|morte]], un vento di prosperità senza sapore lo portò via con sé.
+
+Nemmeno io uso la parola “Prosperità” nel suo significato puramente letterale o esteriore
+
+Titolo:  
+“Senso… Intendo usarlo come sinonimo di felicità. La persona di cui…”
+
+Parlo… sembro nato apposta per preannunciare la follia.
+
+Titolo:  
+Le dottrine di Turgot, Price, Priestley e Condorcet – di
+
+Esempi concreti che dimostrano ciò che è stato ritenuto valido…
+
+"Mera chimera dei perfezionisti. Nell’esistenza breve di..."
+
+Ellison, credo di aver visto confutato il dogma secondo cui…
+
+Nella natura fisica e spirituale dell’uomo esiste qualche principio nascosto.
+
+L’antagonista di Bliss. Un’esame intimo e ansioso…
+
+Il suo percorso professionale mi ha insegnato a comprendere che, in generale…
+
+La violazione di poche semplici leggi dell’umanità genera…
+
+La miseria dell’umanità; il fatto che, come specie, noi possediamo…
+
+Possedere gli elementi ancora inesplorati del contenuto… e questo.
+
+Ancora ora, nella cecità e nell’oscurità attuali di ogni concezione…
+
+La grande questione della condizione sociale… non è impossibile risolverla.
+
+Quell’uomo, l’individuo, in determinate circostanze insolite e particolari…
+
+In condizioni fortuite, si può essere felici.
+
+
+
+Con opinioni del genere, il mio giovane amico era completamente pervaso…
+
+Così è particolarmente degno di osservazione che…
+
+Un piacere incessante e continuo caratterizzava la sua vita…
+
+Il risultato è frutto di un accordo premeditato. È evidente, infatti, che…
+
+Meno di quella filosofia istintiva che, di tanto in tanto, si manifesta così chiaramente.
+
+Invece di esperienza, il signor Ellison avrebbe trovato.
+
+Si è auto-inflitto questa situazione a causa dei suoi straordinari successi…
+
+Vita, trascinata nel vortice comune dell’Infelicità che attende tutti noi…
+
+Titolo:  
+Di doti eccezionali… Ma questo non è affatto l’obiettivo principale del mio discorso attuale.
+
+Scrivere un [[forms/essay|saggio]] sulla Felicità. Le idee di mio amico potrebbero essere molto utili.
+
+Riassunto in poche parole: ammise l’esistenza di soltanto quattro leggi immutabili.
+
+Principi piuttosto elementari di Bliss… Quello che lui considerava essenziale.
+
+Il capo… era, stranamente a dirsi, qualcuno semplice e puramente fisico.
+
+“Della libera attività all’aperto… La salute”, disse.
+
+“Qualcosa che può essere ottenuto con altri mezzi, invece di questo, difficilmente merita davvero quel nome.”
+
+Indicò i contadini che lavoravano la terra… gli unici esseri umani che, in quel contesto, rappresentavano qualcosa di significativo.
+
+I membri di una determinata classe sociale sono, per definizione, più felici degli altri… e poi lui.
+
+Descrisse appieno le intense emozioni provate dal cacciatore di volpi… La sua seconda esperienza in tal senso.
+
+Il principio fondamentale era l’[[motifs/love|amore]] per la donna; il suo terzo principio era il disprezzo.
+
+[[concepts/ambition|ambizione]]. La sua quarta ambizione era un obiettivo di inseguimento incessante; e lui.
+
+Si sosteneva che, a parità di altre condizioni, l’entità della felicità dipendesse…
+
+In proporzione allo spirito che caratterizza questo oggetto.
+
+
+
+Ellison fu davvero eccezionale nella sua costante…
+
+Una profusione di doni preziosi concessigli dalla Fortuna… Nel suo aspetto personale.
+
+Grazia e [[concepts/beauty|bellezza]] lo rendevano superiore a tutti gli uomini; il suo intelletto era di quel tipo.
+
+Un ordine in cui la conquista della conoscenza rappresenta meno uno sforzo che…
+
+"Necessità e intuizione: la sua famiglia era tra le più..."
+
+Il più illustre dell’impero… Sua moglie era la più bella e la più…
+
+Donne devote… Le sue ricchezze erano sempre state abbondanti; ma…
+
+Al compimento del suo ventunesimo anno…
+
+Scoprì che uno di quei straordinari casi fortunati del destino…
+
+Azioni intraprese a suo favore che sorprendono l’intero mondo sociale
+
+Tra queste situazioni, spesso avvengono cambiamenti radicali…
+
+La completa costituzione morale di coloro che ne sono gli oggetti.
+
+Titolo:  
+Sembra che circa cento anni prima del signor Ellison…
+
+Al raggiungimento della maggiore età, era già morto, in una remota provincia…
+
+Un certo signor Seabright Ellison… Questo gentiluomo aveva accumulato una fortuna considerevole.
+
+Titolo:  
+Fortuna… e, non avendo legami immediati con essa, concepì…
+
+Per un capriccio del [[concepts/suffering|soffrire]], accumulò quella ricchezza per un secolo intero.
+
+La sua scomparsa. Guidando con precisione e intelligenza i vari aspetti…
+
+Per quanto riguarda gli investimenti, lasciò l’intera somma in eredità alla persona più vicina a lui.
+
+Di [[motifs/blood|sangue]] Ellison, il cui nome indica che dovrebbe essere ancora vivo.
+
+Fine dei cento anni… Molti tentativi inutili erano stati fatti per…
+
+“Mettere da parte questo lascito singolare: il suo carattere retroattivo…”
+
+Le fece fallire; ma l’attenzione di un governo geloso.
+
+Fu finalmente emesso un decreto che vietava tutto ciò.
+
+Simili accumuli… Questo atto non impedì al giovane Ellison di procedere.
+
+Il ventunesimo compleanno: dal momento in cui ne entra in possesso…
+
+Come erede di suo antenato Seabright, possiede un patrimonio di quattro…
+
+Cento cinquanta milioni di dollari. {*1}
+
+
+
+Quando divenne definitivamente noto che era davvero così enorme…
+
+Titolo:  
+Con una ricchezza ereditata, naturalmente furono molte le congetture al riguardo…
+
+Il modo in cui viene disposto… La sua enorme entità e…
+
+La natura immediatamente disponibile di quella somma lasciò tutti sbalorditi e confusi.
+
+Tutti coloro che hanno riflettuto su questo argomento… Il possessore di qualcosa di significativo…
+
+Una certa somma di denaro potrebbe essere stata immaginata come sufficiente per realizzare qualsiasi uno di questi scopi…
+
+Mille cose… Con ricchezze che superano di gran lunga quelle di chiunque altro.
+
+Citoyen, si sarebbe potuto facilmente pensare che fosse impegnato in…
+
+Un eccesso estremo nelle stravaganze alla moda del suo [[motifs/time|epoca]]; o
+
+Occuparsi di intrighi politici; o mirare a questo scopo
+
+Potere ministeriale; ovvero l’acquisizione di titoli nobiliari attraverso il denaro.
+
+Progettare imponenti strutture architettoniche; o raccogliere cose di grandi dimensioni
+
+Esempi di virtù; ovvero il ruolo del mecenate generoso per le lettere
+
+Arte e nome; o l’attribuzione del proprio nome a qualcosa di vasto e significativo
+
+Istituzioni di [[concepts/charity|carità]]. Ma, a causa della ricchezza inimmaginabile che vi era.
+
+Possesso effettivo dell’erede giovane: questi oggetti e tutto il resto
+
+Oggetti ordinari risultavano inadeguati… Si ricorse quindi a…
+
+Numeri… e solo numeri, sufficienti per creare confusione. Si poteva vedere che…
+
+Anche al tre percento, il reddito annuo dell’eredità…
+
+Tredici milioni e cinquecento
+
+Mille dollari… che equivalevano a un milione e cento…
+
+Venticinque mila al mese… o trentaseimila nove
+
+Centoottantasei al giorno, o millecinquecento…
+
+Quarantuno all’ora, ovvero sessantadue dollari per ogni minuto
+
+Quello che volò… Così il solito percorso delle congetture fu completamente alterato.
+
+Rotti in mille pezzi… Gli uomini non sapevano cosa immaginare. Alcuni, addirittura…
+
+Si riteneva che il signor Ellison si sarebbe immediatamente disfatto di ciò…
+
+Almeno due terzi della sua fortuna risultano assolutamente superflui.
+
+Opulenza: arricchire intere schiere di parenti attraverso la divisione…
+
+La sua sovrabbondanza.
+
+
+
+Non fui sorpreso, tuttavia, nel constatare che lui lo aveva già fatto da tempo.
+
+Concentrato su un argomento che aveva causato così tante discussioni…
+
+Discussione con i suoi amici… E nemmeno io fui particolarmente sorpreso…
+
+La [[concepts/nature|natura]] della sua decisione. Nel senso più ampio e nobile, lui era un.
+
+Poeta. Comprese inoltre la vera natura, l’imponente essenza di…
+
+Gli obiettivi principali sono la massima maestosità e dignità del sentimento poetico.
+
+La giusta soddisfazione di quel sentimento che provava istintivamente
+
+Per creare nuove forme di [[concepts/beauty|bellezza]] nell’ambito della letteratura. Alcuni.
+
+Particolarità, sia nella sua prima [[concepts/education|educazione]], che nella natura stessa di.
+
+Il suo intelletto era influenzato da ciò che viene definito materialismo…
+
+L’intera gamma delle sue speculazioni etiche; ed era proprio questo pregiudizio…
+
+Forse… il che, in modo impercettibile, lo portò a rendersi conto che…
+
+Un campo vantaggioso, se non l’unico legittimo per tale attività
+
+Il sentimento poetico si trovava nella creazione dei [[forms/novel|romanzi]].
+
+Stati d’animo di pura bellezza fisica. Ed è così che accadde…
+
+Non divenne né musicista né poeta; se utilizziamo quest’ultimo termine…
+
+La sua accettazione quotidiana… O forse è stato proprio questo ad averlo cambiato.
+
+Né l’uno né l’altro, in seguito ad un’idea sua.
+
+Titolo:  
+Quello di cui ho già parlato… l’idea che, nel disprezzo per…
+
+L’[[concepts/ambition|ambizione]] pone uno dei principi essenziali della felicità su.
+
+Titolo:  
+“La Terra… Non è forse possibile che, mentre esiste un ordine elevato…”
+
+Genio è necessariamente ambizioso; il più grande è sempre al di sopra degli altri
+
+Quello che viene chiamato [[concepts/ambition|ambizione]]? E non potrebbe forse accadere che.
+
+Molti, molto più grandi di [[historical-references/milton|Milton]], sono rimasti felicemente “in silenzio e, ”
+
+“Immondo…? Credo che il mondo non abbia mai visto nulla del genere prima d’ora.”
+
+A meno che non si verifichino una serie di incidenti che scatenino il corso più nobile…
+
+“Trasformare l’attenzione e le energie mentali in sforzi spiacevoli… Il mondo non lo vedrà mai.”
+
+Quell’intero spettacolo di realizzazione trionfale, nella sua forma più completa…
+
+Opere d’arte, le quali rappresentano l’espressione più completa della natura umana.
+
+Capace.
+
+
+
+Mr. Ellison non divenne né musicista né poeta; sebbene nessun altro…
+
+Viveva con un amore ancora più profondo sia per la musica che per la Musa.
+
+In altre circostanze, diversamente da quelle che lo caratterizzavano…
+
+“Impossibile che fosse diventato un pittore… Il campo della…”
+
+Le sculture, sebbene nella loro [[concepts/nature|natura]] fossero rigorosamente poetiche, erano comunque.
+
+Con i suoi limiti sia nell’ambito che nelle conseguenze, si è occupato di…
+
+In qualsiasi momento, gran parte della sua attenzione era rivolta a questo. E ora ho menzionato tutto ciò.
+
+Le province in cui anche la comprensione più liberale…
+
+Titolo:  
+Il sentimento poetico ha dichiarato tale sentimento capace di…
+
+Espandendosi… Intendo dire, al modo più liberale e condiviso da tutti.
+
+Concezione dell’idea alla base del termine “sentimento poetico”.
+
+Ma il signor Ellison immaginava che i più ricchi, e in generale…
+
+La provincia più naturale e più adatta… era stata scelta in modo cieco.
+
+Negli studi precedenti non era mai stata fatta menzione del Giardiniere Paesaggista…
+
+Titolo del poeta; tuttavia il mio amico non poté fare a meno di notare che…
+
+La creazione del paesaggio-giardino offrì alla vera musa.
+
+“La più magnifica delle opportunità… Questa era davvero la migliore di tutte.”
+
+Un campo per la manifestazione dell’invenzione o dell’[[concepts/imagination|immaginazione]], nel.
+
+Un'infinita combinazione di forme di [[forms/novel|nuova]] [[concepts/beauty|bellezza]]; gli elementi che.
+
+Deve entrare in combinazione, in ogni momento e in modo estensivo…
+
+Superiorità: quella più gloriosa che la terra possa offrire.
+
+La molteplicità dell’albero e i mille colori del fiore
+
+Riconobbe gli sforzi più diretti e più energici di…
+
+La [[concepts/nature|Natura]], nella sua bellezza fisica. E in quella direzione.
+
+Concentrazione di questo sforzo, o, per essere più precisi, nel suo…
+
+Adattamento per gli occhi che avrebbero dovuto vederlo sulla terra…
+
+Si rese conto che doveva utilizzare i migliori metodi possibili… impegnandosi al massimo per farlo.
+
+Il più grande vantaggio, nel realizzare il suo destino di Poeta.
+
+
+
+“La sua adattazione agli occhi che avrebbero dovuto vederla sulla terra.”
+
+Nella sua spiegazione di questa fraseologia, il signor Ellison ha fatto molto…
+
+Nella ricerca di una soluzione a ciò che per me è sempre stato un enigma, intendo dire.
+
+Il fatto (che solo gli ignoranti contestano) che non esista nulla del genere
+
+Nella [[concepts/nature|Natura]] esistono infinite combinazioni di paesaggi, proprio come avviene nel lavoro di un geniale pittore.
+
+Non esistono paradisi del genere nel mondo reale.
+
+“Realtà come sono apparse sulla tela di Claude… Nella maniera più…”
+
+Incanto dei paesaggi naturali… ci sarà sempre qualcosa da scoprire.
+
+"Molti eccessi e difetti… Ma quale sia il vero difetto?"
+
+Titolo:  
+Le singole parti componenti possono superare, ciascuna per sé, il livello di abilità più elevato…
+
+L’[[archetypes/artist|artista]], nell’organizzazione delle parti musicali, seguirà sempre questa procedura.
+
+Suscettibile di miglioramento. In breve, nessuna posizione è immutabile.
+
+Titolo:  
+Raggiunto… da un occhio artistico che osserva con attenzione.
+
+Non trovo nulla di offensivo in ciò che tecnicamente viene definito…
+
+Composizione di un paesaggio naturale… Eppure quanto difficile da comprendere.
+
+Questo! Per tutte le altre questioni, ci viene giustamente detto di considerare…
+
+La [[concepts/nature|Natura]] come entità suprema: di fronte ai suoi dettagli, ci ritiriamo dalla competizione.
+
+Chi oserebbe imitare i colori del tulipano, o tentare di…
+
+Migliorare le proporzioni del giglio di valle? La critica
+
+Ciò che si dice, sia della scultura che del ritratto, è che “la [[concepts/nature|Natura]] deve essere, ”.
+
+“Esaltare piuttosto che imitare” è un errore… Nessuna rappresentazione visiva o illustrazione può sostituire il significato reale delle parole.
+
+Combinazioni scultoree dei punti di bellezza umana… fanno di più.
+
+Piuttosto che avvicinarsi alla bellezza umana, viva e reale, così com'è.
+
+“Ci rende felici nel nostro quotidiano cammino… Byron, che spesso commetteva errori, non sbagliò in questo.”
+
+dicendo: “Ho visto più bellezze viventi, mature e reali, di quante ne abbia viste in tutto, ”
+
+Il nonsenso del loro ideale di pietra. Nel paesaggio, solo, c’è.
+
+Il principio del critico è vero; e, avendone percepita la [[concepts/truth|verità]] in questo caso, esso.
+
+Lo spirito avventato della generalizzazione è ciò che ha indotto…
+
+affinché lo proclamasse vero in tutti i domini dell’Arte.
+
+Avendo, dico, percepito la sua [[concepts/truth|verità]] qui. Perché quel sentimento non è altro che.
+
+Affermazione o chimera? La matematica non offre nulla di assoluto in questo senso.
+
+"Dimostrazioni: quando il sentimento dell’Arte cede..."
+
+[[archetypes/artist|artista]]. Non solo crede, ma sa con certezza che qualcosa del genere è possibile.
+
+Tali apparentemente arbitrarie disposizioni di materia o forma…
+
+Costituiscono, ed è proprio unicamente questo che costituisce, la vera [[concepts/beauty|bellezza]]. Eppure lui.
+
+Le ragioni non sono ancora state messe in parole… Resta da farlo.
+
+Un’analisi più profonda di qualsiasi altra mai vista prima…
+
+Indagare e esprimerle. Eppure rimane confermato nella sua posizione.
+
+Opinioni istintive, con l’unanimità di tutti i suoi colleghi.
+
+Una composizione può essere difettosa: è necessario apportare delle correzioni.
+
+Titolo:  
+Mero accordo di forma; si invii questa modifica…
+
+Ogni [[archetypes/artist|artista]] al mondo; per volontà di ciascuno, la sua necessità verrà riconosciuta.
+
+Ammesso… E persino molto di più: come rimedio a quella carenza.
+
+Titolo:  
+Composizione: ciascun membro della fraternità proporrà…
+
+La stessa modifica.
+
+
+
+Ripeto che, nelle composizioni paesaggistiche o in combinazioni isolate,
+
+La natura fisica è suscettibile di “esaltazione”, e.
+
+Pertanto, la sua capacità di miglioramento in questo specifico ambito
+
+Era un mistero che, fino ad allora, non ero riuscito a risolvere. Era…
+
+Il signor Ellison, che per primo suggerì l’idea che ciò che consideravamo…
+
+Il miglioramento o l’esaltazione della bellezza naturale era davvero qualcosa del genere.
+
+Solo dal punto di vista mortale o umano; ogni…
+
+Modifiche o alterazioni del paesaggio primitivo potrebbero...
+
+“Un difetto nell’immagine… se solo potessimo immaginare tale immagine.”
+
+Visto nel suo insieme da qualche punto lontano nei cieli… “È”
+
+“È facile da capire”, dice il signor Ellison, “che ciò che potrebbe migliorare una situazione…”
+
+Un'attenta analisi dei dettagli potrebbe, allo stesso tempo, causare danno.
+
+“Un effetto generale e, per così dire, più osservabile a distanza”, disse riguardo a questo argomento.
+
+Un argomento caldo e profondo: che riguarda non tanto aspetti immediati o ovvi…
+
+Importanza (che è scarsa), come il carattere delle conclusioni
+
+Titolo:  
+A cosa potrebbe portare, o delle proposizioni collaterali che ne derivano…
+
+“Potrebbe servire a confermare o supportare una certa tesi… Potrebbe esistere una categoria specifica…”
+
+Titolo:  
+Di esseri un tempo umani, ma ora invisibili all’umanità… per chi?
+
+“Scrutini e per chi apprezza la bellezza con raffinatezza…”
+
+Soprattutto per gli altri, e non per noi stessi, tutto era stato sistemato da Dio.
+
+Il grande paesaggio-giardino di tutta la terra.
+
+
+
+Durante la nostra discussione, il mio giovane amico ha avuto l’occasione di…
+
+Citare alcuni passaggi di uno scrittore che si ritiene abbia…
+
+[[motifs/well|Well]] ha trattato questo argomento in modo eccellente.
+
+
+
+“Esistono, in realtà”, scrive, “solo due stili di…”
+
+Giardinaggio paesaggistico: il naturale e l’artificiale. Si cerca di…
+
+Ricordare la bellezza originale di quel paese, adattandone i mezzi per preservarla.
+
+Armonia con il paesaggio circostante: coltivare gli alberi in armonia con l’ambiente naturale
+
+Colline o pianure delle terre vicine: individuare e portare…
+
+Mettere in pratica quelle belle relazioni di dimensione, proporzione e colore
+
+Che, nascosti dall’osservatore comune, si rivelano ovunque
+
+Lo studente esperto della [[concepts/nature|natura]]. Il risultato di un processo naturale.
+
+Stile di giardinaggio che si manifesta soprattutto nell’assenza di qualsiasi difetto.
+
+E le incongruenze… nella prevalenza di una bellissima armonia.
+
+L’ordine, piuttosto che la creazione di meraviglie o miracoli straordinari.
+
+Stili artificiali: tantissime varianti, quante ne esistono diverse…
+
+Gusti per soddisfare i desideri… Ha una certa relazione generale con…
+
+Vari stili di costruzione: ci sono le maestose allee…
+
+Ritiri di Versailles; terrazze italiane; e una varietà mista
+
+Titolo:  
+In stile inglese antico, che presenta qualche legame con la vita domestica…
+
+Architettura gotica o elisabettiana inglese… Qualunque cosa si possa dire al riguardo.
+
+Contro gli abusi del giardinaggio paesaggistico artificiale, un…
+
+Un misto di pura arte in una scena di [[motifs/garden|giardino]], che ne aumenta notevolmente la [[concepts/beauty|bellezza]].
+
+Questo aspetto è piacevole all’occhio, grazie alla presenza di ordine e…
+
+Design… e in parte anche morale: una terrazza, coperta di muschio antico
+
+Titolo:  
+La balaustrata richiama immediatamente l’attenzione sugli eleganti contorni che vi si trovano…
+
+Attraversato lì in tempi passati… Qualsiasi piccola mostra d’arte è un…
+
+“Prova di cura e interesse umano”.
+
+
+
+“Da quanto ho già osservato”, disse il signor Ellison, “voi…”
+
+Rifiuto categoricamente l’idea proposta di “riportare in discussione”…
+
+La vera [[concepts/beauty|bellezza]] di quel paese. La vera bellezza non si perde mai.
+
+Così grande quanto ciò che può essere introdotto… Ovviamente, molto dipende.
+
+Sulla scelta di un luogo dotato di particolari capacità… Si dice che…
+
+"#Rispetto alla 'rilevazione e attuazione di quelle buone pratiche'"
+
+“Relazioni di dimensione, proporzione e colore” è soltanto una vaga espressione…
+
+Parola che può significare molto, poco o nulla… e che…
+
+Non fornisce alcuna guida; il vero “risultato dello stile naturale”…
+
+Il concetto di giardinaggio viene visto soprattutto nell’assenza di qualsiasi difetto…
+
+“Incongruenze, piuttosto che nella creazione di meraviglie straordinarie…”
+
+“Miracoli…”, una proposizione più adatta ai comportamenti servili e umilianti.
+
+Più che all'apprensione del branco, ai fervidi [[motifs/dreams|sogni]] dell'uomo.
+
+Genio… Il merito suggerito, nel migliore dei casi, è negativo, e appartiene…
+
+Titolo:  
+A quella critica zoppicante che, nelle lettere, cercava di elevare…
+
+Addison raggiunse l’apoteosi. Nella [[concepts/truth|verità]], quel merito che.
+
+Titolo:  
+Consiste semplicemente nell’evitare i difetti; si rivolge direttamente al…
+
+Comprendere, e quindi può essere preannunciato nella Regola… più nobile.
+
+Merito: quella forza che si esprime attraverso l’invenzione e la creazione
+
+Compreso esclusivamente nei suoi risultati. La regola vale, ma solo…
+
+Le virtù dell’evitamento: quelle che negano o si astengono da qualcosa.
+
+Oltre a ciò, l’arte critica può soltanto suggerire… Possiamo essere…
+
+Ordinati di costruire un’Odissea… ma è vano il nostro sforzo.
+
+Fu spiegato come creare un “Tempio”, un “Inferno”, un “[[characters/prometheus|Prometeo]]”.
+
+“Legato”, come quello di un “[[motifs/nightingale|Usignolo]]”, come nel caso di Keats, o il “Sensibile”.
+
+La poesia di Shelley. Ma una volta compiuto l’atto, una volta realizzato lo [[concepts/wonder|stupore]] desiderato.
+
+E la capacità di comprensione diventa universale… I sofisti
+
+Titolo:  
+Della scuola negativa, coloro che, per incapacità di creare, hanno…
+
+Quei che un tempo derisero la creazione, ora sono i primi ad applaudirla con più forza… Che strano.
+
+Titolo:  
+Nella loro condizione di “ crisalide dei principi”, vennero messe alla prova dalla loro riservatezza…
+
+Ragione, nella sua maturità e nel raggiungimento degli obiettivi, non fallisce mai nel costringere…
+
+Ammirazione nata dall’istinto per il bello
+
+[[concepts/sublime|sublime]].
+
+
+
+“Le osservazioni del nostro autore sullo stile artificiale di giardinaggio”
+
+“Continuò il signor Ellison: ‘Sono meno sgradevoli… Una miscela di…”
+
+Arte pura in una scena di [[motifs/garden|giardino]], che le conferisce una grande [[concepts/beauty|bellezza]]. Questo è.
+
+"Just… e anche la menzione del senso dell’interesse umano sono ugualmente importanti."
+
+“Quindi… Ripeto che il principio qui espresso è…”
+
+Indiscutibile; ma potrebbe esserci qualcosa anche al di là di questo.
+
+Un oggetto che rispetti appieno questo principio
+
+Fu suggerito un oggetto [[concepts/unattainable|inaccessibile]] con i metodi solitamente utilizzati.
+
+La possessione dell’umanità… ma che, se raggiunta, conferirebbe un fascino particolare.
+
+Il paesaggio del giardino superava di gran lunga tutto ciò che un.
+
+Titolo:  
+L’unico interesse umano in grado di donare qualcosa… Il vero poeta, colui che ne è dotato.
+
+Risorse finanziarie molto insolite… potrebbero forse, pur mantenendo…
+
+L'idea necessaria di arte, interesse o cultura… per infondere tutto ciò in lui
+
+Progetta immediatamente elementi caratterizzati da ampiezza e novità, in linea con i canoni della [[concepts/beauty|bellezza]], al fine di trasmettere un certo messaggio.
+
+Il sentimento di interferenza spirituale. Si vedrà che…
+
+Portando a tale risultato, ottiene tutti i vantaggi connessi
+
+Interesse o disegno… mentre al contempo elimina ogni aspetto duro del suo lavoro
+
+Tecnicità e arte nell’ambiente più inospitale…
+
+Le scene più selvagge della pura [[concepts/nature|Natura]], sono davvero impressionanti.
+
+L'arte di un Creatore; tuttavia, questa arte è evidente soltanto a…
+
+Riflessione: in nessun modo possiede la forza evidente di un sentimento.
+
+Ora, se immaginiamo che questo senso di Disegno Onnipotente esista davvero…
+
+Harmonizzato in un grado misurabile, se supponiamo un paesaggio…
+
+La stranezza congiunta, la vastità, la certezza…
+
+Maestosità… che ispiri l’idea di cultura, o di cura…
+
+Superintendenza da parte di intelligenze superiori ma affini
+
+Per l’umanità… allora il sentimento di interesse rimane intatto.
+
+L'arte è fatta per sembrare qualcosa di intermedio o secondario.
+
+La [[concepts/nature|Natura]], una [[concepts/nature|Natura]] che non è Dio, né un’emanazione di Dio, ma.
+
+Che rimane comunque la [[concepts/nature|Natura]], nel senso che è il risultato delle sue azioni.
+
+“Gli angeli che fluttuano tra l’uomo e Dio”.
+
+
+
+Donò la sua immensa ricchezza a scopi pratici
+
+Incarnazione di una visione del genere: nell’espressione libera…
+
+All'aperto, frutto della direzione personale dei suoi piani…
+
+L’oggetto continuo e incessante che questi piani offrivano…
+
+L’alta spiritualità dell’oggetto stesso… nel disprezzo per…
+
+[[concepts/ambition|ambizione]] che gli permetteva più di sentire che di agire, e,
+
+Infine, fu nella compagnia e nel sostegno di una persona devota…
+
+Titolo:  
+La moglie che Ellison pensava di trovare… e trovò davvero. Un’eccezione alla regola comune.
+
+Le solite preoccupazioni dell’umanità… e molto di più
+
+Una felicità più intensa che mai brillava nei sogni estasiati di De.
+
+Staël.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Landscape Garden (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/love,motif/nature,motif/stars,motif/well,concept/ambition,concept/beauty,concept/nature,concept/suffering,form/essay"></span>

@@ -1455,6 +1455,1448 @@ The [[forms/tragedy|Tragedy]] of [[characters/hamlet|Hamlet]], Prince of [[setti
 | [[characters/feste\|FESTE]] | the Clown, her jester<br>A PRIEST<br>A SERVANT of [[characters/olivia\|Olivia]]<br>Musicians, sailors, lords, attendants |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[characters/hamlet|HAMLET]]
+SEVERAL references from 1589 onwards witness the existence of a play about [[characters/hamlet|Hamlet]], but Francis Meres did not attribute a play with this title to Shakespeare in 1598. The first clear reference to Shakespeare’s play is its entry in the Stationers’ Register on 26 July 1602 as The [[concepts/revenge|Revenge]] of [[characters/hamlet|Hamlet]] Prince [of] [[settings/denmark|Denmark]], when it was said to have been ‘lately acted by the Lord Chamberlain his servants’. It survives in three versions; their relationship is a matter of dispute on which views about when Shakespeare wrote his play, and in what form, depend. In 1603 appeared an inferior text apparently assembled from actors’ memories; it has only about 2,200 lines. In the following year, as if to put the record straight, James Roberts (to whom the play had been entered in 1602) published it as ‘newly imprinted and enlarged to almost as much again as it was, according to the true and perfect copy’. At about 3,800 lines, this is the longest version. The 1623 Folio offers a still different text, some 230 lines shorter than the 1604 version, differing verbally from that at many points, and including about 70 additional lines. It is our belief that Shakespeare wrote [[characters/hamlet|Hamlet]] about 1600, and revised it later; that the 1604 edition was printed from his original papers; that the Folio represents the revised version; and that the 1603 edition represents a very imperfect report of an abridged version of the revision. So our text is based on the Folio; passages present in the 1604 quarto but absent from the Folio are printed as Additional Passages because we believe that, however fine they may be in themselves, Shakespeare decided that the play as a whole would be better without them.
+The plot of [[characters/hamlet|Hamlet]] originates in a Scandinavian folk-tale told in the twelfth-century Danish [[concepts/history|History]] written in Latin by the Danish Saxo Grammaticus. François de Belleforest retold it in the fifth volume (1570) of his Histoires Tragiques, not translated into English until 1608. Saxo, through Belleforest, provided the basic story of a Prince of [[settings/denmark|Denmark]] committed to [[concepts/revenge|revenge]] his father’s murder by his own brother ([[characters/claudius|Claudius]]) who has married the dead man’s widow ([[characters/gertrude|Gertrude]]). As in Shakespeare, [[characters/hamlet|Hamlet]] pretends to be mad, kills his uncle’s counsellor ([[characters/polonius|Polonius]]) while he is eavesdropping, rebukes his mother, is sent to England under the escort of two retainers ([[characters/rosencrantz|Rosencrantz]] and [[characters/guildenstern|Guildenstern]]) who bear orders that he be put to [[motifs/death|death]] on arrival, finds the letter containing the orders and alters it so that it is the retainers who are executed, returns to [[settings/denmark|Denmark]], and kills the [[archetypes/king|King]].
+Belleforest’s story differs at some points from Shakespeare’s, and Shakespeare elaborates it, adding, for example, the [[archetypes/ghost|Ghost]] of [[characters/hamlet|Hamlet]]’s father, the coming of the actors to Elsinore, the performance of the play through which [[characters/hamlet|Hamlet]] tests his uncle’s [[concepts/guilt|guilt]], [[characters/ophelia|Ophelia]]’s [[concepts/madness|madness]] and [[motifs/death|death]], [[characters/laertes|Laertes]]’ plot to [[concepts/revenge|revenge]] his father’s [[motifs/death|death]], the [[motifs/grave|grave]]-digger, [[characters/ophelia|Ophelia]]’s funeral, and the characters of Osric and Fortinbras. How much he owed to the lost [[characters/hamlet|Hamlet]] play we cannot tell; what is certain is that Shakespeare used his mastery of a wide range of diverse styles in both verse and prose, and his genius for dramatic effect, to create from these and other sources the most complex, varied, and exciting drama that had ever been seen on the English stage. Its popularity was instant and enduring. The play has had a profound influence on Western culture, and Shakespeare’s [[characters/hamlet|Hamlet]] has himself entered the world of myth.
+
+THE PERSONS OF THE PLAY
+
+The [[forms/tragedy|Tragedy]] of [[characters/hamlet|Hamlet]], Prince of [[settings/denmark|Denmark]]
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Barnardo e Francisco, due sentinelle, da porte diverse |
+| BARNARDO | Chi va là? |
+| FRANCISCO | No, rispondi tu a me. Fermati e dichiara chi sei. |
+| BARNARDO | Lunga vita al [[archetypes/king\|Re]]! |
+| FRANCISCO | Barnardo? |
+| BARNARDO | Lui. |
+| FRANCISCO | Venite puntualissimo alla vostra ora. |
+| BARNARDO | È ora battuta la mezzanotte. Vattene a letto, Francisco. |
+| FRANCISCO | Grazie assai di questo cambio. Fa un freddo pungente,<br>e ho il cuore malato. |
+| BARNARDO | Avete avuto una guardia tranquilla? |
+| FRANCISCO | Non un topo che si muovesse. |
+| BARNARDO | [[motifs/well\|Bene]], buona [[motifs/night\|notte]].<br>Se incontrate [[characters/horatio\|Horatio]] e Marcellus,<br>i compagni del mio turno, dite loro di far presto. |
+| *(didascalia)* | Entrano [[characters/horatio\|Horatio]] e Marcellus |
+| FRANCISCO | Mi pare di udirli.—Alt! Chi va là? |
+| [[characters/horatio\|HORATIO]] | Amici di questa terra. |
+| MARCELLUS | E sudditi del Danese. |
+| FRANCISCO | Vi dia Dio la buona [[motifs/night\|notte]]. |
+| MARCELLUS | Oh addio, onesto soldato. Chi vi ha dato il cambio? |
+| FRANCISCO | Barnardo ha il mio posto. Vi dia Dio la buona [[motifs/night\|notte]]. Esce |
+| MARCELLUS | Ehilà, Barnardo! |
+| BARNARDO | Di’—come, c’è [[characters/horatio\|Horatio]] lì? |
+| [[characters/horatio\|HORATIO]] | Un pezzo di lui. |
+| BARNARDO | Benvenuto, [[characters/horatio\|Horatio]]. Benvenuto, buon Marcellus. |
+| MARCELLUS | Ebbene, è riapparsa stanotte quella cosa? |
+| BARNARDO | Io non ho visto nulla. |
+| MARCELLUS | [[characters/horatio\|Horatio]] dice che è solo una nostra fantasia,<br>e non lascia che la credenza lo prenda<br>quanto a questa vista terribile da noi due volte veduta.<br>Perciò l’ho pregato di venire<br>con noi a vegliare i minuti di questa [[motifs/night\|notte]],<br>perché, se di nuovo viene quest’apparizione,<br>egli confermi i nostri occhi e le parli. |
+| [[characters/horatio\|HORATIO]] | Via, via, non apparirà. |
+| BARNARDO | Sedete un poco,<br>e lasciate che ancora una volta assaliamo i vostri orecchi,<br>così fortificati contro il nostro racconto,<br>con ciò che due notti abbiamo veduto. |
+| [[characters/horatio\|HORATIO]] | [[motifs/well\|Bene]], sediamoci,<br>e udiamo Barnardo parlare di questo. |
+| BARNARDO | Proprio la scorsa [[motifs/night\|notte]],<br>quando quella stessa stella a occidente del polo<br>aveva compiuto il suo corso a illuminare quella parte di cielo<br>dove ora arde, Marcellus e io,<br>battendo allora la campana l’una–– |
+| *(didascalia)* | Entra lo [[archetypes/ghost\|Spettro]] in armatura completa, con in mano un bastone di comando, la visiera alzata |
+| MARCELLUS | Taci, interrompiti. Guarda dove torna di nuovo. |
+| BARNARDO | Nella stessa figura, simile al [[archetypes/king\|Re]] che è morto. |
+| MARCELLUS | (a [[characters/horatio\|Horatio]])<br>Tu sei dotto—parlagli, [[characters/horatio\|Horatio]]. |
+| BARNARDO | Non somiglia al [[archetypes/king\|Re]]?—Osservalo, [[characters/horatio\|Horatio]]. |
+| [[characters/horatio\|HORATIO]] | Somigliantissimo. Mi strazia di [[concepts/fear\|paura]] e di [[concepts/wonder\|stupore]]. |
+| BARNARDO | Vorrebbe che gli si parlasse. |
+| MARCELLUS | Interrogalo, [[characters/horatio\|Horatio]]. |
+| [[characters/horatio\|HORATIO]] | (allo [[archetypes/ghost\|Spettro]])<br>Chi sei tu che usurpi quest’[[motifs/time\|ora]] della [[motifs/night\|notte]],<br>insieme a quella bella e guerriera forma<br>in cui la maestà della sepolta [[settings/denmark\|Danimarca]]<br>marciava un tempo? In nome del cielo, ti ordino di parlare. |
+| MARCELLUS | È offeso. |
+| BARNARDO | Guarda, se ne va a gran passi. |
+| [[characters/horatio\|HORATIO]] | (allo [[archetypes/ghost\|Spettro]])<br>Fermati, parla, parla, ti ordino di parlare. Esce lo [[archetypes/ghost\|Spettro]] |
+| MARCELLUS | È sparito, e non vuole rispondere. |
+| BARNARDO | Ebbene, [[characters/horatio\|Horatio]]? Tremate e siete pallido.<br>Non è questo qualcosa di più che fantasia?<br>Che ne pensate? |
+| [[characters/horatio\|HORATIO]] | Davanti al mio Dio, non potrei crederlo<br>senza la sensibile e verace testimonianza<br>dei miei stessi occhi. |
+| MARCELLUS | Non somiglia al [[archetypes/king\|Re]]? |
+| [[characters/horatio\|HORATIO]] | Come tu a te stesso.<br>Tale era proprio l’armatura che indossava<br>quando combatté l’ambizioso Norvegese.<br>Così aggrottò la fronte una volta, quando in un adirato colloquio<br>percosse sul ghiaccio i Polacchi in slitta.<br>È strano. |
+| MARCELLUS | Così due volte prima d’ora, e proprio a quest’ora morta,<br>con marziale incedere è passato davanti alla nostra guardia. |
+| [[characters/horatio\|HORATIO]] | In quale particolare pensiero muovermi non so,<br>ma nel complesso e nella portata della mia opinione<br>questo presagisce qualche strana convulsione al nostro stato. |
+| MARCELLUS | Ebbene, sedete, e ditemi, chi lo sa,<br>perché questa severa e vigilantissima guardia<br>affatica così ogni notte i sudditi del paese,<br>e perché ogni giorno tanta fusione di cannoni di bronzo,<br>e tanto mercato all’estero d’attrezzi di guerra,<br>perché tanta leva di maestri d’ascia, la cui dura fatica<br>non distingue la [[characters/sunday\|domenica]] dal resto della settimana:<br>che cosa può prepararsi, se questa sudata fretta<br>fa della [[motifs/night\|notte]] la compagna di lavoro del giorno,<br>chi è che può informarmene? |
+| [[characters/horatio\|HORATIO]] | Posso io—<br>almeno così corre il sussurro: il nostro ultimo [[archetypes/king\|re]],<br>la cui immagine or ora ci è apparsa,<br>fu, come sapete, da Fortinbras di Norvegia,<br>spronato a ciò da un’emula [[concepts/pride\|superbia]],<br>sfidato a battaglia; nella quale il nostro valoroso [[characters/hamlet\|Hamlet]]—<br>ché tale lo stimava questa parte del mondo a noi noto—<br>uccise questo Fortinbras, il quale, per un patto sigillato,<br>[[motifs/well\|ben]] ratificato da legge e da araldica,<br>perdette con la vita tutte quelle sue terre<br>di cui era in possesso, a favore del vincitore;<br>contro le quali una porzione competente<br>fu impegnata dal nostro [[archetypes/king\|Re]], e sarebbe passata<br>all’eredità di Fortinbras<br>se fosse stato lui il vincitore, come per il medesimo patto<br>e per il tenore dell’articolo stabilito<br>la sua toccò a [[characters/hamlet\|Hamlet]]. Ora, signore, il giovane Fortinbras,<br>di tempra non domata, caldo e pieno,<br>ha ai margini della Norvegia, qua e là,<br>arruolato alla ventura uno stuolo di risoluti senza terra<br>per vitto e alimento a qualche impresa<br>che ha del fegato: la quale non è altro—<br>e ciò appare [[motifs/well\|bene]] al nostro stato—<br>che riprendersi da noi con mano forte<br>e con patti coattivi quelle terre predette<br>così perdute dal padre. E questo, io credo,<br>è il motivo principale dei nostri preparativi,<br>la fonte di questa nostra guardia, e il capo primo<br>di questa fretta furiosa e di questo trambusto nel paese. |
+| *(didascalia)* | Entra lo [[archetypes/ghost\|Spettro]], come prima |
+| [[characters/horatio\|HORATIO]] | Ma piano, ecco—guarda dove viene di nuovo!<br>Gli [[motifs/cross\|taglierò]] la strada, dovesse fulminarmi.—Fermati, illusione.<br>Lo [[archetypes/ghost\|Spettro]] allarga le braccia<br>Se hai suono o uso di voce,<br>parlami.<br>Se v’è qualche opera buona da compiere<br>che possa dare a te sollievo e a me grazia,<br>parlami.<br>Se sei a parte del destino del tuo paese,<br>che, felicemente presaputo, si può evitare,<br>oh parla!<br>O se hai accumulato in vita<br>un tesoro estorto nel grembo della terra—<br>per il quale, dicono, voi spiriti spesso camminate nella [[motifs/death\|morte]]—<br>Il gallo canta<br>parlane, fermati e parla.—Fermalo, Marcellus. |
+| MARCELLUS | Devo colpirlo con la mia partigiana? |
+| [[characters/horatio\|HORATIO]] | Fallo, se non vuole fermarsi. |
+| BARNARDO | È qui. |
+| [[characters/horatio\|HORATIO]] | È qui. |
+| *(didascalia)* | Esce lo [[archetypes/ghost\|Spettro]] |
+| MARCELLUS | È sparito.<br>Gli facciamo torto, essendo così maestoso,<br>a offrirgli la mostra della violenza,<br>ché è invulnerabile come l’aria,<br>e i nostri vani colpi sono maligna derisione. |
+| BARNARDO | Stava per parlare quando il gallo cantò. |
+| [[characters/horatio\|HORATIO]] | E allora trasalì come una cosa colpevole<br>a una spaventosa citazione. Ho udito dire<br>che il gallo, che è la tromba del mattino,<br>con la sua alta e squillante gola<br>desta il dio del giorno, e al suo avvertimento,<br>sia in mare o nel [[motifs/fire\|fuoco]], in terra o nell’aria,<br>lo spirito vagante ed errabondo s’affretta<br>al suo confine; e della [[concepts/truth\|verità]] di ciò<br>questo presente oggetto ha dato prova. |
+| MARCELLUS | Svanì al canto del gallo.<br>Alcuni dicono che sempre, all’appressarsi della stagione<br>in cui si celebra la nascita del nostro Salvatore,<br>l’uccello dell’alba canta tutta la [[motifs/night\|notte]];<br>e allora, dicono, nessuno spirito può andare attorno,<br>le notti sono salubri; allora nessun pianeta colpisce,<br>nessuna fata rapisce, né [[characters/witch\|strega]] ha potere d’incantare,<br>tanto santo e tanto benigno è quel [[motifs/time\|tempo]]. |
+| [[characters/horatio\|HORATIO]] | Così ho udito, e in parte lo credo.<br>Ma guardate, il mattino vestito di rosso mantello<br>cammina sulla rugiada di quell’alto [[motifs/hill\|colle]] a oriente.<br>Sciogliamo la nostra guardia, e, se seguite il mio consiglio,<br>comunichiamo ciò che abbiamo visto stanotte<br>al giovane [[characters/hamlet\|Hamlet]]; ché sulla mia vita,<br>questo spirito, muto con noi, parlerà a lui.<br>Consentite che gliene diamo notizia,<br>come richiede il nostro affetto e conviene al nostro dovere? |
+| MARCELLUS | Facciamolo, vi prego; e io so dove stamane<br>lo troveremo più agevolmente. Escono |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squillo di trombe. Entrano [[characters/claudius\|Claudius]], [[archetypes/king\|re]] di [[settings/denmark\|Danimarca]], [[characters/gertrude\|Gertrude]] la [[characters/queen\|regina]], membri del Consiglio, come [[characters/polonius\|Polonius]], suo figlio [[characters/laertes\|Laertes]] e la figlia [[characters/ophelia\|Ophelia]], il principe [[characters/hamlet\|Hamlet]] vestito di nero, e altri |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Sebbene della [[motifs/death\|morte]] di [[characters/hamlet\|Hamlet]], nostro caro fratello,<br>la [[motifs/memory\|memoria]] sia ancor verde, e a noi convenisse<br>portare i cuori nel dolore e tutto il nostro regno<br>contrarsi in un’unica fronte di lutto,<br>pure tanto ha la discrezione lottato con la [[concepts/nature\|natura]]<br>che con più saggia mestizia pensiamo a lui<br>insieme con la memoria di noi stessi.<br>Perciò colei che fu nostra sorella, ora nostra [[characters/queen\|regina]],<br>imperiale consorte di questo stato guerriero,<br>abbiamo, quasi con una gioia sconfitta,<br>con un occhio propizio e l’altro lacrimoso,<br>con letizia al funerale e con [[forms/dirge\|nenia funebre]] alle [[motifs/marriage\|nozze]],<br>pesando in eguale bilancia il gaudio e il duolo,<br>presa in moglie. Né in ciò abbiamo escluso<br>le vostre migliori saggezze, che liberamente hanno assecondato<br>questo affare. Di tutto, i nostri ringraziamenti.<br>Ora segue che voi sappiate: il giovane Fortinbras,<br>avendo una fiacca stima del nostro valore,<br>o pensando che per la [[motifs/death\|morte]] del nostro caro fratello defunto<br>il nostro stato sia disgiunto e fuori d’assetto,<br>alleato col sogno del proprio vantaggio,<br>non ha mancato d’assillarci con messaggi<br>che pretendono la resa di quelle terre<br>perdute da suo padre, con ogni vincolo di legge,<br>al nostro valorosissimo fratello. Basta di lui. |
+| *(didascalia)* | Entrano Valtemand e Cornelius |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ora quanto a noi, e a questo [[motifs/time\|tempo]] d’adunanza,<br>la faccenda è questa: abbiamo qui scritto<br>al re di Norvegia, zio del giovane Fortinbras—<br>il quale, impotente e costretto a letto, appena sa<br>del disegno di questo suo nipote—perché reprima<br>il suo ulteriore procedere in ciò, giacché le leve,<br>gli arruolamenti e le intere provviste son tutti tratti<br>dai suoi sudditi; e noi qui spediamo<br>voi, buon Cornelius, e voi, Valtemand,<br>come latori di questo saluto al vecchio Norvegia,<br>non concedendovi altro potere personale<br>di trattare col [[archetypes/king\|re]] oltre l’ambito<br>che questi articoli distesi consentono.<br>Addio, e la vostra fretta raccomandi il vostro dovere. |
+| VALTEMAND | In quello e in ogni cosa mostreremo il nostro dovere. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non ne [[concepts/doubt\|dubitiamo]] affatto; di cuore, addio. |
+| *(didascalia)* | Escono Valtemand e Cornelius |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | E ora, [[characters/laertes\|Laertes]], che novità ci recate?<br>Ci parlaste d’una richiesta. Qual è, [[characters/laertes\|Laertes]]?<br>Non potete parlare di cosa ragionevole al Danese<br>e perdere la voce. Che cosa chiederesti, [[characters/laertes\|Laertes]],<br>che non sia mia offerta prima che tua domanda?<br>Non è più connaturato il capo al cuore,<br>né la mano più strumento della bocca,<br>di quanto il trono di [[settings/denmark\|Danimarca]] lo sia a tuo padre.<br>Che cosa vorresti, [[characters/laertes\|Laertes]]? |
+| [[characters/laertes\|LAERTES]] | Temuto mio signore,<br>il vostro permesso e favore di tornare in Francia,<br>donde, se pur volentieri venni in [[settings/denmark\|Danimarca]]<br>per rendere il mio dovere alla vostra incoronazione,<br>pure ora devo confessare, compiuto quel dovere,<br>che i miei pensieri e desideri volgono di nuovo alla Francia<br>e si piegano al vostro grazioso permesso e perdono. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Avete il permesso di vostro padre? Che dice [[characters/polonius\|Polonius]]? |
+| [[characters/polonius\|POLONIUS]] | L’ha ottenuto, mio signore: m’ha strappato il mio tardo permesso<br>con laboriosa istanza, e alla fine<br>sulla sua volontà ho suggellato il mio duro consenso.<br>Vi supplico, dategli licenza d’andare. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Cogli la tua bella ora, [[characters/laertes\|Laertes]]. Il [[motifs/time\|tempo]] sia tuo,<br>e le tue migliori grazie lo spendano a tuo piacere.<br>Ma ora, mio cugino [[characters/hamlet\|Hamlet]], e mio figlio— |
+| [[characters/hamlet\|HAMLET]] | Un po’ più che parente, e meno che affine. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Come mai le nubi incombono ancora su di voi? |
+| [[characters/hamlet\|HAMLET]] | Non è così, mio signore: sono troppo al sole. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Buon [[characters/hamlet\|Hamlet]], getta via il tuo colore notturno,<br>e il tuo occhio guardi da amico la [[settings/denmark\|Danimarca]].<br>Non cercare per sempre, con le palpebre abbassate,<br>il tuo nobile padre nella [[motifs/dust\|polvere]].<br>Sai che è cosa comune—tutto ciò che vive deve morire,<br>passando per la [[concepts/nature\|natura]] all’[[concepts/eternity\|eternità]]. |
+| [[characters/hamlet\|HAMLET]] | Sì, signora, è cosa comune. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Se lo è,<br>perché ti sembra così particolare? |
+| [[characters/hamlet\|HAMLET]] | Sembra, signora? No, è. Io non conosco il ‘sembra’.<br>Non è soltanto il mio mantello d’inchiostro, buona madre,<br>né le consuete vesti di solenne nero,<br>né il ventoso sospirare d’un respiro forzato,<br>no, né il [[motifs/river\|fiume]] fecondo nell’occhio,<br>né l’aspetto abbattuto del volto,<br>insieme con tutte le forme, i modi, le apparenze del dolore<br>che possano davvero definirmi. Queste in verità ‘sembrano’,<br>poiché sono azioni che un uomo può recitare;<br>ma io ho dentro ciò che oltrepassa ogni apparenza—<br>queste non sono che i fregi e le vesti del lutto. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | È dolce e lodevole nella vostra [[concepts/nature\|natura]], [[characters/hamlet\|Hamlet]],<br>rendere questi doveri di lutto a vostro padre;<br>ma dovete sapere che vostro padre perdette un padre;<br>quel padre perduto perdette il suo; e il superstite è tenuto<br>per obbligo filiale, e per un certo tempo,<br>a un dolore ossequioso. Ma perseverare<br>in ostinato cordoglio è un procedere<br>d’empia caparbietà, è pena non virile,<br>mostra una volontà assai ribelle al cielo,<br>un cuore non fortificato, una mente impaziente,<br>un intelletto semplice e non ammaestrato;<br>giacché ciò che sappiamo dover essere, ed è tanto comune<br>quanto la più volgare cosa che il senso percepisca,<br>perché dovremmo, in petulante opposizione,<br>prendercelo a cuore? Vergogna, è una colpa verso il cielo,<br>una colpa verso i morti, una colpa verso la [[concepts/nature\|natura]],<br>alla ragione assurdissima, il cui tema costante<br>è la [[motifs/death\|morte]] dei padri, e che sempre ha gridato,<br>dal primo cadavere fino a colui che è morto oggi,<br>’Così dev’essere’. Vi preghiamo, gettate a terra<br>questo inutile affanno, e pensate a noi<br>come a un padre; ché il mondo prenda nota:<br>voi siete il più prossimo al nostro trono,<br>e con non minore nobiltà d’[[motifs/love\|amore]]<br>di quella che il più caro padre porta al figlio<br>io mi effondo verso di voi. Quanto al vostro intento<br>di tornare agli studi a Wittenberg,<br>esso è quanto mai contrario al nostro [[motifs/desire\|desiderio]],<br>e vi supplichiamo di piegarvi a rimanere<br>qui, nella letizia e nel conforto del nostro sguardo,<br>nostro primo cortigiano, cugino, e nostro figlio. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Non far che tua madre perda le sue preghiere, [[characters/hamlet\|Hamlet]].<br>Ti prego, resta con noi, non andare a Wittenberg. |
+| [[characters/hamlet\|HAMLET]] | Vi obbedirò in tutto come meglio potrò, signora. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ecco, è una risposta amorevole e bella.<br>Siate come noi stessi in [[settings/denmark\|Danimarca]]. (A [[characters/gertrude\|Gertrude]]) Signora, venite.<br>Questo gentile e spontaneo assenso di [[characters/hamlet\|Hamlet]]<br>sta sorridendo al mio cuore; in grazia di ciò,<br>non un gioioso brindisi che la [[settings/denmark\|Danimarca]] beva oggi<br>senza che il gran cannone lo annunci alle nubi,<br>e i cieli ripeteranno il brindisi del [[archetypes/king\|re]],<br>riecheggiando il tuono terreno. Venite, andiamo. |
+| *(didascalia)* | Squillo di trombe. pmlmmmEscono tutti tranne [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Oh, che questa carne troppo troppo solida si sciogliesse,<br>si struggesse e si risolvesse in rugiada,<br>o che l’Eterno non avesse fissato<br>il suo canone contro il [[concepts/self\|suicidio]]! O Dio, o Dio,<br>come stanchi, stantii, piatti e inutili<br>mi paiono tutti gli usi di questo mondo!<br>Vergogna, ah vergogna, vergogna! È un [[motifs/garden\|giardino]] non sarchiato<br>che va in seme; cose fetide e grossolane per [[concepts/nature\|natura]]<br>lo posseggono interamente. Che si dovesse giungere a questo—<br>morto da due mesi appena—no, neppure tanto, non due—<br>un [[archetypes/king\|re]] così eccellente, che era rispetto a costui<br>[[characters/hyperion\|Iperione]] a un satiro, così amoroso verso mia madre<br>da non tollerare che i venti del cielo<br>le visitassero il volto troppo rudemente! Cielo e terra,<br>devo ricordare? Ma se lei si stringeva a lui<br>come se l’avidità le crescesse<br>di ciò che la nutriva, e pure in un mese—<br>ch’io non ci pensi; fragilità, il tuo nome è donna—<br>un breve mese, prima che fossero vecchie quelle scarpe<br>con cui seguì il [[concepts/body\|corpo]] del mio povero padre,<br>come Niobe, tutta [[motifs/tears\|lacrime]], ebbene lei, proprio lei—<br>o Dio, una bestia priva di discorso ragionevole<br>avrebbe pianto più a lungo!—sposata con mio<br>zio,<br>il fratello di mio padre, ma simile a mio padre<br>non più di quanto io lo sia a Ercole; entro un mese,<br>prima ancora che il sale di [[motifs/tears\|lacrime]] iniquissime<br>avesse lasciato l’arrossamento dei suoi occhi irritati,<br>si è sposata. Oh, scelleratissima [[characters/speed\|fretta]], correre<br>con tale destrezza a lenzuola incestuose!<br>Non è bene, né può volgere a bene.<br>Ma spezzati, cuore mio, ché devo tacere. |
+| *(didascalia)* | Entrano [[characters/horatio\|Horatio]], Marcellus e Barnardo |
+| [[characters/horatio\|HORATIO]] | Salute a vostra signoria. |
+| [[characters/hamlet\|HAMLET]] | Sono lieto di vedervi [[motifs/well\|bene]].<br>[[characters/horatio\|Horatio]]—o io dimentico me stesso. |
+| [[characters/horatio\|HORATIO]] | Lui stesso, mio signore, e vostro povero servitore per sempre. |
+| [[characters/hamlet\|HAMLET]] | Signore, mio buon amico; scambierò con voi quel nome.<br>E che fate lontano da Wittenberg, [[characters/horatio\|Horatio]]?—<br>Marcellus. |
+| MARCELLUS | Mio buon signore. |
+| [[characters/hamlet\|HAMLET]] | Sono molto lieto di vedervi. (A Barnardo) Buona sera,<br>signore.—<br>Ma che fate, in [[concepts/faith\|fede]] mia, lontano da Wittenberg? |
+| [[characters/horatio\|HORATIO]] | Un’indole vagabonda, mio buon signore. |
+| [[characters/hamlet\|HAMLET]] | Non vorrei che il vostro nemico lo dicesse,<br>né farete al mio orecchio tale violenza<br>da renderlo credulo del vostro stesso rapporto<br>contro voi stesso. So che non siete un vagabondo.<br>Ma qual è il vostro affare a Elsinore?<br>V’insegneremo a bere profondo prima che partiate. |
+| [[characters/horatio\|HORATIO]] | Mio signore, venni per vedere il funerale di vostro padre. |
+| [[characters/hamlet\|HAMLET]] | Ti prego, non beffarti di me, compagno di studi;<br>credo fosse per vedere le nozze di mia madre. |
+| [[characters/horatio\|HORATIO]] | Davvero, mio signore, seguirono a breve distanza. |
+| [[characters/hamlet\|HAMLET]] | Economia, economia, [[characters/horatio\|Horatio]]. Le carni arrostite del funerale<br>imbandirono fredde le tavole delle [[motifs/marriage\|nozze]].<br>Avessi incontrato in cielo il mio peggior nemico<br>prima d’aver mai veduto quel giorno, [[characters/horatio\|Horatio]].<br>Mio padre—mi pare di vedere mio padre. |
+| [[characters/horatio\|HORATIO]] | Oh dove, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Nell’occhio della mente, [[characters/horatio\|Horatio]]. |
+| [[characters/horatio\|HORATIO]] | Lo vidi una volta. Era un bel [[archetypes/king\|re]]. |
+| [[characters/hamlet\|HAMLET]] | Era un uomo. Prendetelo tutto in tutto,<br>non vedrò mai più il suo pari. |
+| [[characters/horatio\|HORATIO]] | Mio signore, credo d’averlo visto la notte scorsa. |
+| [[characters/hamlet\|HAMLET]] | Visto? Chi? |
+| [[characters/horatio\|HORATIO]] | Mio signore, il [[archetypes/king\|re]] vostro padre. |
+| [[characters/hamlet\|HAMLET]] | Il [[archetypes/king\|re]] mio padre? |
+| [[characters/horatio\|HORATIO]] | Temperate per un poco il vostro stupore<br>con orecchio attento, finché io possa recarvi,<br>sulla testimonianza di questi gentiluomini,<br>questa meraviglia. |
+| [[characters/hamlet\|HAMLET]] | Per l’[[motifs/love\|amore]] di Dio, lasciate che l’oda! |
+| [[characters/horatio\|HORATIO]] | Per due notti di seguito questi gentiluomini,<br>Marcellus e Barnardo, nella loro guardia,<br>nel morto deserto e nel mezzo della [[motifs/night\|notte]],<br>hanno avuto tale incontro. Una figura simile a vostro padre,<br>armata in ogni punto esattamente, da capo a piedi,<br>appare loro dinanzi, e con solenne marcia<br>passa lenta e maestosa accanto a loro. Tre volte camminò<br>dinanzi ai loro occhi oppressi e sorpresi dalla [[concepts/fear\|paura]] |
+| *(didascalia)* | alla distanza del suo bastone di comando, mentre essi, distillati |
+| [[characters/horatio\|HORATIO]] | quasi in gelatina dall’atto della [[concepts/fear\|paura]],<br>stanno muti e non gli parlano. Questo a me<br>in tremendo segreto essi confidarono,<br>e io con loro la terza [[motifs/night\|notte]] tenni la guardia,<br>dove, come avevano riferito, e nel [[motifs/time\|tempo]]<br>e nella forma della cosa, ogni parola confermata,<br>l’apparizione viene. Io conobbi vostro padre;<br>queste mani non si somigliano di più. |
+| [[characters/hamlet\|HAMLET]] | Ma dove fu questo? |
+| MARCELLUS | Mio signore, sulla spianata dove montavamo la guardia. |
+| [[characters/hamlet\|HAMLET]] | Non gli parlaste? |
+| [[characters/horatio\|HORATIO]] | Mio signore, sì,<br>ma non diede alcuna risposta; pure una volta mi parve<br>che alzasse il capo e si disponesse<br>al moto come se volesse parlare,<br>ma proprio allora il gallo del mattino cantò forte,<br>e a quel suono si ritrasse in fretta<br>e svanì dalla nostra vista. |
+| [[characters/hamlet\|HAMLET]] | È cosa assai strana. |
+| [[characters/horatio\|HORATIO]] | Com’è vero che vivo, mio onorato signore, è vero,<br>e abbiamo ritenuto fosse scritto nel nostro dovere<br>farvelo sapere. |
+| [[characters/hamlet\|HAMLET]] | Davvero, davvero, signori; ma questo mi turba.—<br>Montate la guardia stanotte? |
+| BARNARDO | e MARCELLUS<br>Sì, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Armato, dite? |
+| BARNARDO | e MARCELLUS Armato, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Da capo a piedi? |
+| BARNARDO | e MARCELLUS<br>Mio signore, dalla testa ai piedi. |
+| [[characters/hamlet\|HAMLET]] | Allora non gli vedeste il viso. |
+| [[characters/horatio\|HORATIO]] | Oh sì, mio signore, portava la visiera alzata. |
+| [[characters/hamlet\|HAMLET]] | Che aspetto aveva? Accigliato? |
+| [[characters/horatio\|HORATIO]] | Un volto più<br>nel dolore che nell’ira. |
+| [[characters/hamlet\|HAMLET]] | Pallido o rosso? |
+| [[characters/horatio\|HORATIO]] | No, pallidissimo. |
+| [[characters/hamlet\|HAMLET]] | E fissò gli occhi su di voi? |
+| [[characters/horatio\|HORATIO]] | Costantemente. |
+| [[characters/hamlet\|HAMLET]] | Vorrei esserci stato. |
+| [[characters/horatio\|HORATIO]] | Vi avrebbe molto stupito. |
+| [[characters/hamlet\|HAMLET]] | Assai probabile, assai probabile. Rimase a lungo? |
+| [[characters/horatio\|HORATIO]] | Quanto uno con moderata fretta potrebbe contare fino a cento. |
+| BARNARDO | e MARCELLUS Di più, di più. |
+| [[characters/horatio\|HORATIO]] | Non quando io lo vidi. |
+| [[characters/hamlet\|HAMLET]] | Aveva la barba brizzolata, no? |
+| [[characters/horatio\|HORATIO]] | Era come l’ho veduta in vita sua,<br>nera argentata. |
+| [[characters/hamlet\|HAMLET]] | Veglierò stanotte. Forse<br>tornerà a camminare. |
+| [[characters/horatio\|HORATIO]] | Vi assicuro che lo farà. |
+| [[characters/hamlet\|HAMLET]] | Se assume la persona del mio nobile padre<br>gli parlerò, dovesse l’inferno stesso spalancarsi<br>e ordinarmi di tacere. Vi prego tutti,<br>se finora avete celato questa visione,<br>restatene ancora triplicemente in [[motifs/silence\|silenzio]],<br>e qualunque altra cosa accada stanotte,<br>dàtele intelletto ma non lingua.<br>Ricompenserò il vostro affetto. E così state [[motifs/well\|bene]].<br>Sulla spianata, fra le undici e le dodici,<br>verrò a trovarvi. |
+| TUTTI E TRE | Il nostro dovere al vostro [[concepts/honour\|onore]]. |
+| [[characters/hamlet\|HAMLET]] | Il vostro [[motifs/love\|affetto]], come il mio a voi. Addio. |
+| *(didascalia)* | Escono tutti tranne [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Lo spirito di mio padre in armi! Non tutto va [[motifs/well\|bene]].<br>[[concepts/doubt\|Sospetto]] qualche turpe delitto. Fosse già venuta la [[motifs/night\|notte]].<br>Fino ad allora, sta’ quieta, [[motifs/soul\|anima]] mia. Le turpi azioni sorgeranno,<br>quand’anche tutta la terra le ricopra, agli occhi degli uomini. |
+| *(didascalia)* | Esce |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/laertes\|Laertes]] e [[characters/ophelia\|Ophelia]], sua sorella |
+| [[characters/laertes\|LAERTES]] | Le mie cose sono imbarcate. Addio.<br>E, sorella, quando i venti diano il loro favore<br>E la scorta sia pronta, non [[motifs/sleep\|dormire]]<br>Ma fammi aver tue notizie. |
+| [[characters/ophelia\|OPHELIA]] | Ne [[concepts/doubt\|dubiti]]? |
+| [[characters/laertes\|LAERTES]] | Quanto a [[characters/hamlet\|Hamlet]] e al frivolo suo favore,<br>Tienilo per una moda e un capriccio del [[motifs/blood\|sangue]],<br>Una viola nella giovinezza della [[concepts/nature\|natura]] in fiore,<br>Precoce non permanente, dolce non duratura,<br>Il profumo e il diletto d’un minuto,<br>Nulla più. |
+| [[characters/ophelia\|OPHELIA]] | Nulla più che questo? |
+| [[characters/laertes\|LAERTES]] | Non tenerlo per più di questo.<br>Ché la [[concepts/nature\|natura]] crescente non cresce sola<br>In muscoli e mole, ma come il suo tempio s’ingrandisce<br>Il servizio interiore della mente e dell’[[motifs/soul\|anima]]<br>Si dilata con esso. Forse ora egli t’ama,<br>E ora nessuna macchia né inganno insozza<br>La virtù del suo volere; ma tu devi [[concepts/fear\|temere]],<br>Pesata la sua [[concepts/greatness\|grandezza]], che il suo volere non è suo,<br>Poiché egli stesso è soggetto alla propria nascita.<br>Non gli è dato, come alle persone senza pregio,<br>Tagliarsi da sé la parte, ché dalla sua scelta dipende<br>La salvezza e la salute di tutto lo stato;<br>E perciò la sua scelta dev’essere circoscritta<br>Alla voce e al consenso di quel [[concepts/body\|corpo]]<br>Di cui egli è il capo. Se dunque dice d’amarti,<br>S’addice alla tua saggezza crederlo fin dove<br>Egli, nel suo particolare grado e potere,<br>Possa dar atto al suo dire, che non va oltre<br>Quanto la voce sovrana di [[settings/denmark\|Danimarca]] consenta.<br>Pesa allora quale perdita il tuo [[concepts/honour\|onore]] può patire<br>Se con orecchio troppo credulo ascolti le sue canzoni,<br>O perdi il cuore, o apri il tuo casto tesoro<br>Alla sua sfrenata importunità.<br>[[concepts/fear\|Temilo]], [[characters/ophelia\|Ophelia]], [[concepts/fear\|temilo]], mia cara sorella,<br>E tienti nella retroguardia del tuo affetto,<br>Fuori dal tiro e dal pericolo del [[motifs/desire\|desiderio]].<br>La più guardinga fanciulla è già prodiga abbastanza<br>Se svela la sua [[concepts/beauty\|bellezza]] alla [[motifs/moon\|luna]].<br>La virtù stessa non sfugge ai colpi della calunnia.<br>Il verme rode i nati della [[motifs/spring\|primavera]]<br>Troppo spesso prima che i loro bocci si schiudano,<br>E nel mattino e nella liquida rugiada della giovinezza<br>I contagiosi malanni sono i più imminenti.<br>Sii dunque cauta; la miglior sicurezza sta nel [[concepts/fear\|timore]];<br>La giovinezza a se stessa si ribella, quand’anche nessun altro sia presso. |
+| [[characters/ophelia\|OPHELIA]] | Serberò l’effetto di questa buona lezione<br>Come guardiano al mio cuore; ma, mio buon fratello,<br>Non fare come certi pastori scortesi,<br>Che m’additano l’erta e spinosa via del cielo<br>Mentre, come gonfio e temerario libertino,<br>Egli stesso calca il fiorito sentiero del piacere<br>E non cura il proprio consiglio. |
+| [[characters/laertes\|LAERTES]] | Oh, non [[concepts/fear\|temere]] di me. |
+| *(didascalia)* | Entra [[characters/polonius\|Polonius]] |
+| [[characters/laertes\|LAERTES]] | Indugio troppo—ma ecco venire mio padre.<br>Una [[topoi/double\|doppia]] benedizione è una [[topoi/double\|doppia]] grazia;<br>L’occasione sorride a un secondo commiato. |
+| [[characters/polonius\|POLONIUS]] | Ancora qui, [[characters/laertes\|Laertes]]? A bordo, a bordo, vergogna!<br>Il [[motifs/wind\|vento]] siede sulla spalla della tua vela,<br>E ti si attende. Ecco—la mia benedizione con te,<br>E questi pochi precetti nella tua [[motifs/memory\|memoria]]<br>Bada d’imprimerli. Non dar lingua ai tuoi pensieri,<br>Né atto ad alcun pensiero smodato.<br>Sii familiare ma in nessun modo volgare.<br>Gli amici che hai, e la cui adozione è provata,<br>Legali alla tua [[motifs/soul\|anima]] con cerchi d’acciaio,<br>Ma non intorpidire la tua palma nell’accogliere<br>Ogni compagno appena schiuso e implume. Guàrdati<br>Dall’entrare in una lite, ma, una volta dentro,<br>Comportati sì che l’avversario si guardi da te.<br>Dà a ogni uomo il tuo orecchio ma a pochi la tua voce.<br>Accogli il giudizio d’ognuno, ma riserba il tuo.<br>Costoso il tuo vestire quanto la borsa può comprare,<br>Ma non espresso in stravaganza; ricco non vistoso;<br>Ché l’abito spesso proclama l’uomo,<br>E in Francia quelli del miglior rango e stato<br>Sono in ciò i più scelti e generosamente eminenti.<br>Non essere né prenditore né prestatore a prestito,<br>Ché il prestito spesso perde se stesso e l’amico,<br>E il prender a prestito smussa il taglio dell’economia.<br>Questo sopra tutto—a te [[concepts/self\|stesso]] sii fedele,<br>E ne dovrà seguire, come la [[motifs/night\|notte]] al giorno,<br>Che non potrai allora essere falso con nessuno.<br>Addio—la mia benedizione maturi questo in te. |
+| [[characters/laertes\|LAERTES]] | Umilissimamente prendo congedo, mio signore. |
+| [[characters/polonius\|POLONIUS]] | Il [[motifs/time\|tempo]] t’invita. Va’; i tuoi servi attendono. |
+| [[characters/laertes\|LAERTES]] | Addio, [[characters/ophelia\|Ophelia]], e ricorda [[motifs/well\|bene]]<br>Quel che ti ho detto. |
+| [[characters/ophelia\|OPHELIA]] | È chiuso nella mia [[motifs/memory\|memoria]],<br>E tu stesso ne serberai la chiave. |
+| [[characters/laertes\|LAERTES]] | Addio. |
+| *(didascalia)* | Esce |
+| [[characters/polonius\|POLONIUS]] | Che cosa è, [[characters/ophelia\|Ophelia]], ch’egli t’ha detto? |
+| [[characters/ophelia\|OPHELIA]] | Con vostra licenza, qualcosa che tocca il signor [[characters/hamlet\|Hamlet]]. |
+| [[characters/polonius\|POLONIUS]] | Perbacco, [[motifs/well\|ben]] pensato.<br>Mi si dice ch’egli assai spesso di recente<br>T’ha dato [[motifs/time\|tempo]] in privato, e che tu stessa<br>Sei stata assai libera e larga della tua udienza.<br>Se è così—come così mi vien riferito,<br>E in via d’avvertimento—devo dirti<br>Che non comprendi te stessa così chiaramente<br>Come s’addice a mia figlia e al tuo [[concepts/honour\|onore]].<br>Che c’è fra voi? Dammi la [[concepts/truth\|verità]]. |
+| [[characters/ophelia\|OPHELIA]] | Egli ha, mio signore, di recente fatto molte offerte<br>Del suo affetto verso di me. |
+| [[characters/polonius\|POLONIUS]] | Affetto, puah! Parli come una ragazza acerba,<br>Non vagliata in circostanza così pericolosa.<br>Credi tu alle sue ‘offerte’, come le chiami? |
+| [[characters/ophelia\|OPHELIA]] | Non so, mio signore, che cosa dovrei pensare. |
+| [[characters/polonius\|POLONIUS]] | Perbacco, te l’insegnerò io: pensa d’essere una bambina<br>Ad aver preso le sue offerte per moneta buona,<br>Che non è di buona lega. Offri te stessa a più caro prezzo,<br>O—per non spezzare il [[motifs/wind\|fiato]] alla povera frase,<br>Correndola così—mi offrirai uno [[archetypes/fool\|sciocco]]. |
+| [[characters/ophelia\|OPHELIA]] | Mio signore, egli m’ha importunata col suo [[motifs/love\|amore]]<br>In modo onorevole— |
+| [[characters/polonius\|POLONIUS]] | Sì, modo puoi ben chiamarlo. Andiamo, andiamo. |
+| [[characters/ophelia\|OPHELIA]] | E ha dato credito al suo discorso, mio signore,<br>Con tutti i voti del cielo. |
+| [[characters/polonius\|POLONIUS]] | Sì, lacci per prender beccacce. Io so bene<br>Come, quando il [[motifs/blood\|sangue]] arde, l’[[motifs/soul\|anima]] prodiga<br>Presti voti alla lingua. Queste vampe, figlia,<br>Che danno più luce che calore, spente in entrambe<br>Già nella loro promessa mentre si fa,<br>Non devi prenderle per [[motifs/fire\|fuoco]]. Da questo [[motifs/time\|tempo]], figlia,<br>Sii alquanto più avara della tua presenza di fanciulla.<br>Poni le tue udienze a più alto prezzo<br>D’un ordine di parlamentare. Quanto al signor [[characters/hamlet\|Hamlet]],<br>Credi in lui questo, ch’egli è giovane,<br>E che con più lunga fune gli è dato andare<br>Di quanta possa esser data a te. In breve, [[characters/ophelia\|Ophelia]],<br>Non credere ai suoi voti, ché sono mezzani,<br>Non della tinta che le loro vesti mostrano,<br>Ma meri perorátori di richieste empie,<br>Spiranti come santificate e pie ruffiane<br>Tanto meglio per ingannare. Questo vale per tutto—<br>Non vorrei, in chiari termini, che da questo [[motifs/time\|tempo]] in avanti<br>Tu disonorassi un solo momento d’ozio<br>Fino a dar parole o parlare col signor [[characters/hamlet\|Hamlet]].<br>Bada a ciò, te l’impongo. Vieni, andiamo. |
+| [[characters/ophelia\|OPHELIA]] | Obbedirò, mio signore. |
+| *(didascalia)* | Escono |
+
+### Atto 1, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il principe [[characters/hamlet\|Hamlet]], [[characters/horatio\|Horatio]] e Marcellus |
+| [[characters/hamlet\|HAMLET]] | L’aria morde aspramente, fa molto freddo. |
+| [[characters/horatio\|HORATIO]] | È un’aria pungente e tagliente. |
+| [[characters/hamlet\|HAMLET]] | Che ora è adesso? |
+| [[characters/horatio\|HORATIO]] | Credo che manchi alle dodici. |
+| MARCELLUS | No, sono suonate. |
+| [[characters/horatio\|HORATIO]] | Davvero? Non le ho udite. Allora s’avvicina l’ora<br>in cui lo spirito suole andare attorno. |
+| *(didascalia)* | Squillo di trombe, e due colpi d’artiglieria |
+| [[characters/horatio\|HORATIO]] | Che significa questo, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Il [[archetypes/king\|re]] veglia stanotte e fa baldoria,<br>tracanna, e barcolla nella tracotante danza tedesca,<br>e mentre manda giù i suoi sorsi di vino del Reno<br>il timpano e la tromba strepitano così<br>il trionfo del suo brindisi. |
+| [[characters/horatio\|HORATIO]] | È un’usanza? |
+| [[characters/hamlet\|HAMLET]] | Sì, per la messa, lo è;<br>e a mio giudizio, benché io sia qui nativo<br>e a tale costume nato, è un’usanza<br>più onorata quando la si rompe che quando la si osserva. |
+| *(didascalia)* | Entra lo [[archetypes/ghost\|Spettro]], come prima |
+| [[characters/horatio\|HORATIO]] | Guardate, mio signore, viene. |
+| [[characters/hamlet\|HAMLET]] | Angeli e ministri di grazia, difendeteci!<br>Che tu sia spirito di salute o demonio dannato,<br>che porti con te aure del cielo o vampe d’inferno,<br>che i tuoi intenti siano malvagi o pietosi,<br>tu vieni in forma tanto interrogabile<br>che io ti parlerò. Ti chiamerò [[characters/hamlet\|Hamlet]],<br>[[archetypes/king\|re]], padre, regale danese. Oh, rispondimi!<br>Non lasciarmi scoppiare nell’ignoranza, ma dimmi<br>perché le tue ossa consacrate, composte nella [[motifs/death\|morte]],<br>hanno lacerato il loro sudario, perché il sepolcro<br>in cui ti vedemmo quietamente deposto<br>ha schiuso le sue ponderose fauci di marmo<br>per rigettarti fuori. Che può significare<br>che tu, cadavere morto, di nuovo in acciaio completo,<br>torni a visitare i barlumi della [[motifs/moon\|luna]],<br>facendo orrenda la [[motifs/night\|notte]], e noi, zimbelli della [[concepts/nature\|natura]],<br>a scuotere così spaventosamente il nostro animo<br>con pensieri che eccedono la portata delle nostre anime?<br>Di’, perché questo? A quale scopo? Che dobbiamo fare?<br>Lo [[archetypes/ghost\|Spettro]] fa cenno ad [[characters/hamlet\|Hamlet]] |
+| [[characters/horatio\|HORATIO]] | Vi fa cenno d’andar via con lui,<br>come se qualche comunicazione [[motifs/desire\|desiderasse]] fare<br>a voi solo. |
+| MARCELLUS | (a [[characters/hamlet\|Hamlet]]) Guardate con quale cortese gesto<br>vi sospinge verso un luogo più appartato.<br>Ma non andate con lui. |
+| [[characters/horatio\|HORATIO]] | (a [[characters/hamlet\|Hamlet]])<br>No, in nessun modo. |
+| [[characters/hamlet\|HAMLET]] | Non vuol parlare. Allora lo seguirò. |
+| [[characters/horatio\|HORATIO]] | Non fatelo, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Perché, che cosa dovrei [[concepts/fear\|temere]]?<br>Non stimo la mia vita quanto uno spillo,<br>e quanto alla mia [[motifs/soul\|anima]], che può farle,<br>essendo essa cosa immortale al pari di lui?<br>Lo [[archetypes/ghost\|Spettro]] fa cenno ad [[characters/hamlet\|Hamlet]]<br>Mi chiama di nuovo. Lo seguirò. |
+| [[characters/horatio\|HORATIO]] | E se vi attirasse verso il flutto, mio signore,<br>o alla spaventosa cima della rupe<br>che strapiomba sulla sua base dentro il mare,<br>e là assumesse qualche altra forma orribile<br>che potesse spogliare la vostra ragione del suo dominio<br>e trascinarvi nella [[concepts/madness\|follia]]? Pensateci.<br>Lo [[archetypes/ghost\|Spettro]] fa cenno ad [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Ancora mi sospinge. (Allo [[archetypes/ghost\|Spettro]]) Va’ avanti, ti seguirò. |
+| MARCELLUS | Non andrete, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Togliete la mano. |
+| [[characters/horatio\|HORATIO]] | Lasciatevi guidare. Non andrete. |
+| [[characters/hamlet\|HAMLET]] | Il mio destino grida,<br>e rende ogni minima arteria di questo [[concepts/body\|corpo]]<br>salda come il nervo del [[motifs/lion\|leone]] di Nemea.<br>Lo [[archetypes/ghost\|Spettro]] fa cenno ad [[characters/hamlet\|Hamlet]]<br>Ancora sono chiamato. Lasciatemi, signori.<br>Per il cielo, farò uno [[archetypes/ghost\|spettro]] di chi mi trattiene.<br>Via, vi dico! (Allo [[archetypes/ghost\|Spettro]]) Va’ avanti, ti seguirò. |
+| *(didascalia)* | Escono lo [[archetypes/ghost\|Spettro]] e [[characters/hamlet\|Hamlet]] |
+| [[characters/horatio\|HORATIO]] | Si fa disperato per l’[[concepts/imagination\|immaginazione]]. |
+| MARCELLUS | Seguiamolo. Non è giusto obbedirgli così. |
+| [[characters/horatio\|HORATIO]] | Andiamo dietro. A quale esito verrà tutto questo? |
+| MARCELLUS | C’è del marcio nello stato di [[settings/denmark\|Danimarca]]. |
+| [[characters/horatio\|HORATIO]] | Il cielo lo guiderà. |
+| MARCELLUS | No, seguiamolo. |
+| *(didascalia)* | Escono |
+
+### Atto 1, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra lo [[archetypes/ghost\|Spettro]], e il Principe [[characters/hamlet\|Hamlet]] che lo segue |
+| [[characters/hamlet\|HAMLET]] | Dove vuoi condurmi? Parla. Non andrò oltre. |
+| [[archetypes/ghost\|SPETTRO]] | Ascoltami. |
+| [[characters/hamlet\|HAMLET]] | Ascolterò. |
+| [[archetypes/ghost\|SPETTRO]] | La mia ora è quasi giunta,<br>quando alle fiamme sulfuree e tormentose<br>dovrò rendere me stesso. |
+| [[characters/hamlet\|HAMLET]] | Ahimè, povero [[archetypes/ghost\|spettro]]! |
+| [[archetypes/ghost\|SPETTRO]] | Non compiangermi, ma presta serio ascolto<br>a ciò che ti rivelerò. |
+| [[archetypes/ghost\|SPETTRO]] | Così sarai tenuto a [[concepts/revenge\|vendicare]] quando avrai udito. |
+| [[characters/hamlet\|HAMLET]] | Che cosa? |
+| [[archetypes/ghost\|SPETTRO]] | Io sono lo spirito di tuo padre,<br>condannato per un certo tempo a errare la [[motifs/night\|notte]],<br>e di giorno costretto a digiunare nel fuoco<br>finché le turpi colpe commesse nei miei giorni di [[concepts/nature\|natura]]<br>siano arse e purgate via. Se non mi fosse vietato<br>dire i [[motifs/secrets\|segreti]] della mia casa di [[motifs/prison\|prigione]]<br>potrei svolgere un racconto la cui parola più lieve<br>ti dilanierebbe l’[[motifs/soul\|anima]], gelerebbe il tuo giovane [[motifs/blood\|sangue]],<br>farebbe balzare i tuoi occhi come [[motifs/stars\|stelle]] dalle loro sfere,<br>dividerebbe i tuoi capelli annodati e composti,<br>e ogni singolo capello si drizzerebbe<br>come gli aculei dell’irritabile porcospino.<br>Ma questo blasone dell’eterno non deve giungere<br>a orecchie di carne e [[motifs/blood\|sangue]]. Odi, [[characters/hamlet\|Hamlet]], odi, oh odi!<br>Se mai hai [[motifs/love\|amato]] il tuo caro padre— |
+| [[characters/hamlet\|HAMLET]] | O Dio! |
+| [[archetypes/ghost\|SPETTRO]] | [[concepts/revenge\|Vendica]] il suo turpe e innaturalissimo assassinio. |
+| [[characters/hamlet\|HAMLET]] | Assassinio? |
+| [[archetypes/ghost\|SPETTRO]] | Assassinio turpissimo, come nel migliore dei casi esso è,<br>ma questo turpissimo, strano e innaturale. |
+| [[characters/hamlet\|HAMLET]] | Presto, presto, fammelo sapere, ch’io con ali veloci<br>come la meditazione o i pensieri d’[[motifs/love\|amore]]<br>possa volare alla mia [[concepts/revenge\|vendetta]]. |
+| [[archetypes/ghost\|SPETTRO]] | Ti trovo pronto,<br>e più ottuso saresti della grassa erbaccia<br>che marcisce in ozio sulla riva del Lete<br>se non ti scuotessi a questo. Ora, [[characters/hamlet\|Hamlet]], ascolta.<br>Si va dicendo che, mentre dormivo nel mio frutteto,<br>un serpente mi punse. Così l’orecchio intero di [[settings/denmark\|Danimarca]]<br>è da un falso racconto della mia [[motifs/death\|morte]]<br>grossolanamente ingannato. Ma sappi, nobile giovane,<br>il serpente che punse a morte la vita di tuo padre<br>ne porta ora la [[motifs/crown\|corona]]. |
+| [[characters/hamlet\|HAMLET]] | O [[motifs/soul\|anima]] mia profetica! Mio zio? |
+| [[archetypes/ghost\|SPETTRO]] | Sì, quella bestia incestuosa, quella bestia adultera,<br>con la stregoneria del suo ingegno, con doni traditori—<br>o malvagio ingegno e doni, che hanno il potere<br>di sedurre così!—conquistò alla sua vergognosa libidine<br>la volontà della mia [[characters/queen\|regina]], così virtuosa in apparenza.<br>O [[characters/hamlet\|Hamlet]], che caduta fu quella!—<br>Da me, il cui [[motifs/love\|amore]] era di tale dignità<br>che andava di pari passo col voto stesso<br>che le feci nel [[motifs/marriage\|matrimonio]], e discendere<br>a un miserabile i cui doni naturali erano poveri<br>a paragone dei miei.<br>Ma come la virtù non si lascia mai smuovere,<br>anche se la lascivia la [[settings/court\|corteggi]] in forma celeste,<br>così la libidine, pur legata a un angelo radioso,<br>si sazierà in un letto celeste,<br>e andrà a pascersi di rifiuti.<br>Ma piano, mi par di fiutare l’aria del mattino.<br>Sarò breve. Mentre dormivo nel mio frutteto,<br>come sempre usavo nel pomeriggio,<br>nella mia ora sicura tuo zio s’insinuò<br>con succo di maledetto ebeno in un’ampolla,<br>e nei vestiboli dei miei orecchi versò<br>quel distillato lebbroso, il cui effetto<br>ha tale inimicizia col [[motifs/blood\|sangue]] dell’uomo<br>che veloce come l’argento vivo corre per<br>le porte e i vicoli naturali del [[concepts/body\|corpo]],<br>e con subitaneo vigore rapprende<br>e caglia, come gocce acide nel latte,<br>il [[motifs/blood\|sangue]] fluido e sano. Così fece del mio;<br>e in un istante una scabbia incrostò,<br>come di lebbroso, con vile e ripugnante crosta,<br>tutto il mio liscio [[concepts/body\|corpo]].<br>Così fui, dormendo, per mano d’un fratello<br>della vita, della [[motifs/crown\|corona]], della [[characters/queen\|regina]] a un tratto spogliato,<br>reciso proprio nel fiore del mio peccato,<br>senza eucaristia, impreparato, senza estrema unzione,<br>senza aver reso conto, ma mandato al mio giudizio<br>con tutte le mie imperfezioni sul capo.<br>Oh orribile, oh orribile, orribilissimo!<br>Se hai [[concepts/nature\|natura]] in te, non lo sopportare.<br>Non sia il letto regale di [[settings/denmark\|Danimarca]]<br>giaciglio di lussuria e di dannato incesto.<br>Ma in qualunque modo tu persegua quest’atto,<br>non contaminare la tua mente, né la tua [[motifs/soul\|anima]] macchini<br>nulla contro tua madre. Lasciala al cielo,<br>e a quelle spine che le albergano in seno<br>per pungerla e trafiggerla. Sta’ [[motifs/well\|bene]], e addio, ormai.<br>La lucciola mostra che il mattino è vicino,<br>e comincia a impallidire il suo [[motifs/fire\|fuoco]] senza efficacia.<br>Addio, addio, [[characters/hamlet\|Hamlet]]. Ricordati di me. Esce |
+| [[characters/hamlet\|HAMLET]] | O voi tutte schiere del cielo! O terra! Che altro?<br>E vi accoppierò l’inferno? Oh vergogna! Reggi, reggi, cuore mio,<br>e voi, miei nervi, non invecchiate d’un tratto,<br>ma sostenetemi saldo. Ricordarmi di te?<br>Sì, povero [[archetypes/ghost\|spettro]], finché la [[motifs/memory\|memoria]] avrà un seggio<br>in questo globo sconvolto. Ricordarmi di te?<br>Sì, dalla tavola della mia [[motifs/memory\|memoria]]<br>cancellerò tutti i futili e vani ricordi,<br>tutte le massime dei libri, tutte le forme, tutte le impronte passate,<br>che la giovinezza e l’osservazione vi trascrissero,<br>e il tuo comando vivrà tutto solo |
+| *(didascalia)* | nel libro e nel volume del mio cervello |
+| [[characters/hamlet\|HAMLET]] | non mescolato a materia più vile. Sì, sì, per il cielo.<br>O donna perniciosissima!<br>O [[archetypes/villain\|scellerato]], [[archetypes/villain\|scellerato]], sorridente, dannato [[archetypes/villain\|scellerato]]!<br>Le mie tavolette,<br>le mie tavolette—conviene ch’io ne prenda nota,<br>che si può sorridere e sorridere ed essere uno [[archetypes/villain\|scellerato]].<br>Almeno son certo che così può essere in [[settings/denmark\|Danimarca]].<br>Scrive<br>Ecco, zio, ci siete. Ora alla mia parola d’ordine:<br>è ‘Addio, addio, ricordati di me’.<br>L’ho giurato. |
+| [[characters/horatio\|HORATIO]] | e MARCELLUS (da dentro) Mio signore, mio signore. |
+| *(didascalia)* | Entrano [[characters/horatio\|Horatio]] e Marcellus |
+| MARCELLUS | (chiamando) Signor [[characters/hamlet\|Hamlet]]! 115 |
+| [[characters/horatio\|HORATIO]] | Il cielo lo protegga. |
+| [[characters/hamlet\|HAMLET]] | Così sia. |
+| [[characters/horatio\|HORATIO]] | (chiamando) Illo, ho, ho, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Hillo, ho, ho, ragazzo; vieni, uccello, vieni. |
+| MARCELLUS | Come va, mio nobile signore? |
+| [[characters/horatio\|HORATIO]] | (a [[characters/hamlet\|Hamlet]]) Quali notizie, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Oh, meraviglioso! |
+| [[characters/horatio\|HORATIO]] | Mio buon signore, ditelo. |
+| [[characters/hamlet\|HAMLET]] | No, lo rivelereste. |
+| [[characters/horatio\|HORATIO]] | Io no, mio signore, per il cielo. |
+| MARCELLUS | Né io, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Che dite dunque, cuore d’uomo l’avrebbe mai pensato?<br>Ma saprete tacere? |
+| [[characters/horatio\|HORATIO]] | e MARCELLUS Sì, per il cielo, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Non c’è [[archetypes/villain\|scellerato]] che viva in tutta [[settings/denmark\|Danimarca]]<br>che non sia un furfante matricolato. |
+| [[characters/horatio\|HORATIO]] | Non c’era bisogno d’uno [[archetypes/ghost\|spettro]], mio signore, uscito dalla [[motifs/grave\|tomba]]<br>per dirci questo. |
+| [[characters/hamlet\|HAMLET]] | Ma sì, giusto, avete ragione,<br>e dunque, senza altre cerimonie,<br>stimo bene che ci stringiamo la mano e ci separiamo,<br>voi dove i vostri affari e desideri v’indicheranno—<br>ché ogni uomo ha affari e [[motifs/desire\|desiderio]],<br>tali quali sono—e per la mia povera parte,<br>vedete, io andrò a pregare. |
+| [[characters/horatio\|HORATIO]] | Queste sono solo parole sconnesse e vorticose, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Mi spiace che v’offendano, di cuore,<br>sì, in [[concepts/faith\|fede]] mia, di cuore. |
+| [[characters/horatio\|HORATIO]] | Non c’è offesa, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Sì, per San Patrizio, offesa c’è, [[characters/horatio\|Horatio]],<br>e molta offesa, per giunta. Quanto a questa visione,<br>è uno [[archetypes/ghost\|spettro]] onesto, questo ve lo posso dire.<br>Quanto al vostro [[motifs/desire\|desiderio]] di sapere che cosa vi sia fra noi,<br>dominatelo come potete. E ora, buoni amici,<br>poiché siete amici, studiosi e soldati,<br>concedetemi una povera richiesta. |
+| [[characters/horatio\|HORATIO]] | Quale, mio signore? Lo faremo. |
+| [[characters/hamlet\|HAMLET]] | Non fate mai sapere ciò che avete visto stanotte. |
+| [[characters/horatio\|HORATIO]] | e MARCELLUS<br>Mio signore, non lo faremo. |
+| [[characters/hamlet\|HAMLET]] | No, ma giuratelo. |
+| [[characters/horatio\|HORATIO]] | In [[concepts/faith\|fede]] mia, mio signore, io no. |
+| MARCELLUS | Né io, mio signore, in [[concepts/faith\|fede]] mia. |
+| [[characters/hamlet\|HAMLET]] | Sulla mia spada. |
+| MARCELLUS | Abbiamo già giurato, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Davvero, sulla mia spada, davvero.<br>Lo [[archetypes/ghost\|Spettro]] grida sotto il palco |
+| [[archetypes/ghost\|SPETTRO]] | Giurate. |
+| [[characters/hamlet\|HAMLET]] | Ah ah, ragazzo, dici così? Sei là, buon compagno?—<br>Avanti. Udite quel tale nella cantina.<br>Acconsentite a giurare. |
+| [[characters/horatio\|HORATIO]] | Formulate il giuramento, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Di non parlar mai di ciò che avete visto,<br>giurate sulla mia spada. |
+| [[archetypes/ghost\|SPETTRO]] | (sotto il palco) Giurate. |
+| *(didascalia)* | Giurano |
+| [[characters/hamlet\|HAMLET]] | Hic et ubique? Allora cambieremo posto.—<br>Venite qua, signori,<br>e ponete di nuovo le mani sulla mia spada.<br>Di non parlar mai di ciò che avete udito,<br>giurate sulla mia spada. |
+| [[archetypes/ghost\|SPETTRO]] | (sotto il palco) Giurate. |
+| *(didascalia)* | Giurano |
+| [[characters/hamlet\|HAMLET]] | [[motifs/well\|Ben]] detto, vecchia talpa. Sai lavorare così presto sotto terra?<br>Un degno zappatore.—Ancora una volta spostiamoci, buoni amici. |
+| [[characters/horatio\|HORATIO]] | O giorno e [[motifs/night\|notte]], ma questo è meravigliosamente strano! |
+| [[characters/hamlet\|HAMLET]] | E perciò dategli il benvenuto come a uno straniero.<br>Vi sono più cose in cielo e in terra, [[characters/horatio\|Horatio]],<br>di quante ne sogni la nostra filosofia. Ma venite,<br>qui come prima, mai, così vi assista la [[concepts/mercy\|misericordia]],<br>per quanto strano o bizzarro io mi comporti—<br>poiché forse d’ora innanzi stimerò opportuno<br>assumere un contegno da buffone—<br>che voi, vedendomi in tal [[motifs/time\|tempo]], non dobbiate mai,<br>con le braccia incrociate così, o con questo scuoter del capo,<br>o pronunciando qualche frase ambigua<br>come ‘[[motifs/well\|Bene]], noi sappiamo’ o ‘Potremmo, se volessimo’,<br>o ‘Se ci piacesse parlare’, o ‘C’è chi, se potesse’,<br>o con simili ambigue insinuazioni, far intendere<br>che sapete qualcosa di me—di non far questo,<br>così la grazia e la [[concepts/mercy\|misericordia]] vi soccorrano nel maggior bisogno, giurate. |
+| [[archetypes/ghost\|SPETTRO]] | (sotto il palco) Giurate. |
+| *(didascalia)* | Giurano |
+| [[characters/hamlet\|HAMLET]] | Riposa, riposa, spirito turbato.—Così, signori,<br>con tutto il mio [[motifs/love\|amore]] mi raccomando a voi,<br>e ciò che un uomo così povero qual è [[characters/hamlet\|Hamlet]]<br>può fare per esprimervi il suo [[motifs/love\|amore]] e la sua amicizia,<br>a Dio piacendo, non mancherà. Entriamo insieme,<br>e sempre le dita sulle labbra, vi prego.<br>Il [[motifs/time\|tempo]] è uscito dai cardini. O maledetta sorte<br>che io sia mai nato per rimetterlo a posto!<br>Su, venite, andiamo insieme. Escono |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il vecchio [[characters/polonius\|Polonius]] con il suo uomo Reynaldo |
+| [[characters/polonius\|POLONIUS]] | Dategli questo denaro e queste note, Reynaldo. |
+| REYNALDO | Lo farò, mio signore. |
+| [[characters/polonius\|POLONIUS]] | Farete cosa mirabilmente saggia, buon Reynaldo,<br>prima di visitarlo, d’informarvi<br>della sua condotta. |
+| REYNALDO | Mio signore, era mia intenzione. |
+| [[characters/polonius\|POLONIUS]] | Perbacco, [[motifs/well\|ben]] detto, molto [[motifs/well\|ben]] detto. Vedete, signore,<br>informatevi anzitutto quali danesi siano a [[settings/paris\|Parigi]],<br>e come, e chi, con quali mezzi, e dove alloggino,<br>con quale compagnia, con quale spesa; e trovando,<br>per questo giro e deriva di domande,<br>che conoscono mio figlio, accostatevi più da presso<br>di quanto le vostre domande precise farebbero.<br>Fingete, per così dire, una conoscenza lontana di lui,<br>così: ‘Conosco suo padre e i suoi amici,<br>e in parte lui’—seguite, Reynaldo? |
+| REYNALDO | Sì, molto [[motifs/well\|bene]], mio signore. |
+| [[characters/polonius\|POLONIUS]] | ‘E in parte lui, ma’, potete dire, ‘non [[motifs/well\|bene]],<br>però, se è quello ch’io intendo, è assai sfrenato,<br>dedito a questo e a quello’; e appioppategli<br>quali invenzioni vi piaccia—badate, nessuna così grossa<br>da disonorarlo, guardatevene—<br>ma, signore, quegli scarti lascivi, sfrenati e consueti<br>che son compagni noti e notissimi<br>alla giovinezza e alla libertà. |
+| REYNALDO | Come il giuoco, mio signore? |
+| [[characters/polonius\|POLONIUS]] | Sì, o il bere, la scherma, il bestemmiare,<br>l’attaccar brighe, il puttaneggiare—fin lì potete spingervi. |
+| REYNALDO | Mio signore, questo lo disonorerebbe. |
+| [[characters/polonius\|POLONIUS]] | [[concepts/faith\|In fede]], no, se saprete condirlo nell’accusa.<br>Non dovete addossargli un altro scandalo,<br>che sia aperto all’incontinenza.<br>Non è questo il mio intento—ma spirate le sue colpe così<br>garbatamente<br>che paiano le macchie della libertà,<br>il lampo e lo scoppio d’una mente focosa,<br>una selvatichezza in [[motifs/blood\|sangue]] non domato,<br>d’assalto universale. |
+| REYNALDO | Ma, mio buon signore— |
+| [[characters/polonius\|POLONIUS]] | Perché dovreste far ciò? |
+| REYNALDO | Sì, mio signore.<br>Vorrei saperlo. |
+| [[characters/polonius\|POLONIUS]] | Perbacco, signore, ecco il mio disegno,<br>e credo sia uno stratagemma di sicura riuscita:<br>voi, ponendo queste lievi macchie su mio figlio,<br>come cosa un poco insudiciata nel lavorarla,<br>badate, il vostro interlocutore, colui che volete<br>sondare,<br>se mai ha visto nei sopraddetti vizi<br>colpevole il giovane di cui parlate, siate certo<br>che si accorderà con voi in questo modo:<br>‘Buon signore’, o simile, o ‘amico’, o ‘gentiluomo’,<br>secondo la frase e l’appellativo<br>dell’uomo e del paese. |
+| REYNALDO | Benissimo, mio signore. |
+| [[characters/polonius\|POLONIUS]] | E allora, signore, egli fa questo—egli fa—<br>che stavo per dire? Per la messa, stavo per<br>dire qualcosa. Dove m’ero fermato? |
+| REYNALDO | A ‘si accorda in questo modo’, a ‘amico,<br>o simile’, e ‘gentiluomo’. |
+| [[characters/polonius\|POLONIUS]] | A ‘si accorda in questo modo’—sì, perbacco,<br>egli si accorda con voi così: ‘Conosco quel gentiluomo,<br>l’ho visto ieri’—o l’altro giorno,<br>o allora, o allora—‘con questo e con quello, e, come<br>dite,<br>là c’era il giuoco, là sopraffatto dal bere,<br>là a litigare alla pallacorda’, o forse<br>‘l’ho visto entrare in una tal casa di piacere’,<br>cioè a dire un bordello, o simili. Vedete ora,<br>la vostra esca di menzogna prende questa carpa di [[concepts/truth\|verità]];<br>e così noi, uomini di senno e di portata,<br>con giri di corda e con tiri di sbieco<br>per vie indirette troviamo la via diritta.<br>Così, per la mia lezione e il mio consiglio,<br>farete con mio figlio. M’avete inteso, non è vero? |
+| REYNALDO | Sì, mio signore. |
+| [[characters/polonius\|POLONIUS]] | Dio sia con voi. State [[motifs/well\|bene]]. |
+| REYNALDO | Buon signore mio. |
+| [[characters/polonius\|POLONIUS]] | Osservate voi stesso la sua inclinazione. |
+| REYNALDO | Lo farò, mio signore. |
+| [[characters/polonius\|POLONIUS]] | E lasciate che coltivi la sua musica. |
+| REYNALDO | [[motifs/well\|Bene]], mio signore. |
+| *(didascalia)* | Entra [[characters/ophelia\|Ophelia]] |
+| [[characters/polonius\|POLONIUS]] | Addio. |
+| *(didascalia)* | Esce Reynaldo |
+| [[characters/polonius\|POLONIUS]] | Ebbene, [[characters/ophelia\|Ophelia]], che c’è? |
+| [[characters/ophelia\|OPHELIA]] | Ahimè, mio signore, ho avuto tanto spavento. |
+| [[characters/polonius\|POLONIUS]] | Di che, in nome di Dio? |
+| [[characters/ophelia\|OPHELIA]] | Mio signore, mentre cucivo nella mia camera,<br>il signor [[characters/hamlet\|Hamlet]], col farsetto tutto slacciato,<br>senza cappello in capo, le calze imbrattate,<br>senza giarrettiere, e cascanti fino alla caviglia,<br>pallido come la sua camicia, le ginocchia che si battevano,<br>e con uno sguardo così pietoso nel suo senso<br>come se fosse stato sciolto dall’inferno<br>per narrare orrori, mi si fa innanzi. |
+| [[characters/polonius\|POLONIUS]] | Pazzo per il tuo [[motifs/love\|amore]]? |
+| [[characters/ophelia\|OPHELIA]] | Mio signore, non lo so,<br>ma in verità lo [[concepts/fear\|temo]]. |
+| [[characters/polonius\|POLONIUS]] | Che ha detto? |
+| [[characters/ophelia\|OPHELIA]] | Mi prese per il polso e mi strinse forte,<br>poi s’allontanò per tutta la lunghezza del braccio,<br>e con l’altra mano così sopra la fronte<br>si mise a scrutare il mio volto<br>come se volesse ritrarlo. Restò a lungo così.<br>Alla fine, scuotendomi un poco il braccio,<br>e tre volte crollando il capo su e giù,<br>emise un sospiro così pietoso e profondo<br>che parve infrangergli tutta la persona<br>e finire il suo essere. Fatto ciò, mi lascia andare,<br>e, col capo volto sopra la spalla,<br>parve trovare la strada senza gli occhi,<br>ché uscì dalla porta senza il loro aiuto,<br>e fino all’ultimo ne piegò la luce su di me. |
+| [[characters/polonius\|POLONIUS]] | Vieni, vieni con me. Andrò a cercare il [[archetypes/king\|Re]].<br>Questa è la vera estasi dell’[[motifs/love\|amore]],<br>la cui violenta natura distrugge se stessa<br>e spinge la volontà a disperate imprese<br>quanto qualsiasi passione sotto il cielo<br>che affligga la nostra natura. Mi dispiace—<br>che, gli hai detto parole dure di recente? |
+| [[characters/ophelia\|OPHELIA]] | No, mio buon signore, ma come mi ordinaste<br>ho respinto le sue lettere e gli ho negato<br>l’accesso a me. |
+| [[characters/polonius\|POLONIUS]] | Questo l’ha fatto impazzire.<br>Mi duole che con maggiore [[characters/speed\|prontezza]] e giudizio<br>non l’abbia scrutato. Temevo che scherzasse soltanto<br>e volesse rovinarti. Ma maledetta la mia [[concepts/jealousy\|diffidenza]]!<br>Per il cielo, è proprio della nostra età<br>spingere le opinioni oltre il segno<br>quanto è comune ai più giovani<br>mancare di discrezione. Vieni, andiamo dal [[archetypes/king\|Re]].<br>Questo si deve sapere: tenuto celato, potrebbe<br>recare<br>più dolore a nascondere che odio a svelare l’[[motifs/love\|amore]]. Escono |
+| *(didascalia)* | Squillo di trombe. Entrano il [[archetypes/king\|Re]] [[characters/claudius\|Claudius]] e la [[characters/queen\|Regina]] [[characters/gertrude\|Gertrude]], [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]], con altri |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Benvenuti, cari [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]].<br>Oltre al gran desiderio che avevamo di vedervi,<br>il bisogno che abbiamo di voi ha affrettato<br>il nostro invio. Qualcosa avrete udito<br>della trasformazione di [[characters/hamlet\|Hamlet]]—così la chiamo,<br>poiché né l’uomo esteriore né l’interiore<br>somiglia a quel che era. Che cosa possa essere,<br>più della [[motifs/death\|morte]] del padre, ad averlo così staccato<br>dall’intendimento di se stesso,<br>non so immaginare. Prego entrambi voi<br>che, essendo cresciuti con lui fin dai più teneri giorni,<br>e da allora così vicini alla sua gioventù e al suo umore,<br>vi degniate di trattenervi qui nella nostra [[settings/court\|corte]]<br>per qualche [[motifs/time\|tempo]], sì che con la vostra compagnia<br>lo traiate a qualche svago, e raccogliate,<br>per quanto dalle occasioni possiate spigolare,<br>se qualcosa a noi ignoto lo affligga a tal punto<br>che, scoperto, giaccia entro il nostro rimedio. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Buoni gentiluomini, egli ha molto parlato di voi,<br>e son certa che non vivono due uomini<br>ai quali più s’affezioni. Se vi piacerà<br>mostrarci tanta cortesia e buona volontà<br>da spendere il vostro [[motifs/time\|tempo]] con noi per un poco<br>a sostegno e profitto della nostra [[concepts/hope\|speranza]],<br>la vostra visita riceverà quei ringraziamenti<br>che si convengono alla memoria d’un [[archetypes/king\|re]]. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Le vostre due maestà<br>potrebbero, per il sovrano potere che hanno su noi,<br>porre i loro temuti voleri piuttosto in comando<br>che in preghiera. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Ma noi entrambi obbediamo,<br>e qui ci consegniamo con ogni slancio,<br>per deporre liberamente il nostro servigio ai vostri piedi,<br>pronti al comando. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Grazie, [[characters/rosencrantz\|Rosencrantz]] e gentile [[characters/guildenstern\|Guildenstern]]. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Grazie, [[characters/guildenstern\|Guildenstern]] e gentile [[characters/rosencrantz\|Rosencrantz]].<br>E vi supplico di visitare all’istante<br>il mio troppo mutato figlio.—Andate, alcuni di voi,<br>e conducete i gentiluomini dov’è [[characters/hamlet\|Hamlet]]. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Faccia il cielo che la nostra presenza e le nostre cure<br>gli siano gradite e giovevoli. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Sì, amen! |
+| *(didascalia)* | Escono [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] con altri Entra [[characters/polonius\|Polonius]] |
+| [[characters/polonius\|POLONIUS]] | Gli ambasciatori di Norvegia, mio buon signore,<br>sono lietamente tornati. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Tu sei sempre stato il padre delle buone notizie. |
+| [[characters/polonius\|POLONIUS]] | Davvero, mio signore? Vi assicuro, mio buon sovrano,<br>che tengo il mio dovere, come tengo la mia [[motifs/soul\|anima]],<br>e al mio Dio e al mio grazioso [[archetypes/king\|Re]].<br>E io penso—o altrimenti questo mio cervello<br>non fiuta la pista della politica così sicuro<br>come era solito fare—che ho trovato<br>la vera causa della follia di [[characters/hamlet\|Hamlet]]. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, parla di ciò, ché anelo d’udirlo! |
+| [[characters/polonius\|POLONIUS]] | Date prima udienza agli ambasciatori.<br>La mia notizia sarà la frutta di quel gran banchetto. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Fa’ tu stesso loro onore, e introducili. |
+| *(didascalia)* | Esce [[characters/polonius\|Polonius]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Egli mi dice, mia dolce [[characters/queen\|regina]], d’aver trovato<br>il capo e la fonte di tutto il male di vostro figlio. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | [[concepts/doubt\|Temo]] che non sia altro che il principale—<br>la [[motifs/death\|morte]] di suo padre e il nostro troppo affrettato [[motifs/marriage\|matrimonio]]. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[motifs/well\|Bene]], lo passeremo al setaccio. |
+| *(didascalia)* | Entrano [[characters/polonius\|Polonius]], Valtemand e Cornelius Benvenuti, miei buoni amici. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Dite, Valtemand, che ci reca il nostro fratello di Norvegia? |
+| VALTEMAND | Amplissima risposta di saluti e di voti.<br>Alla nostra prima parola egli mandò a sospendere<br>le leve del nipote, che a lui erano parse<br>preparativi contro il Polacco;<br>ma, guardandovi meglio, trovò in verità<br>ch’erano contro la vostra altezza; onde, addolorato<br>che la sua infermità, l’età e l’impotenza<br>fossero state così ingannate, spedisce ordini d’arresto<br>contro Fortinbras, cui questi, in breve, obbedisce,<br>riceve il rimprovero di Norvegia e, infine,<br>fa voto innanzi allo zio di non dare mai più<br>il [[forms/essay\|cimento]] dell’armi contro vostra maestà;<br>al che il vecchio Norvegia, vinto dalla gioia,<br>gli assegna tremila corone di rendita annua<br>e l’incarico d’impiegare quei soldati<br>così levati, come prima, contro il Polacco,<br>con una preghiera qui più oltre esposta,<br>Consegna una lettera a [[characters/claudius\|Claudius]]<br><br>che vi piaccia concedere tranquillo passaggio<br>per i vostri domini a questa sua impresa,<br>con quelle garanzie di sicurezza e di permesso<br>che vi sono stabilite. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ci piace [[motifs/well\|bene]],<br>e in un [[motifs/time\|tempo]] più meditato leggeremo,<br>risponderemo e penseremo a quest’affare.<br>Intanto vi ringraziamo della fatica [[motifs/well\|ben]] spesa.<br>Andate a riposare; a [[motifs/night\|notte]] banchetteremo insieme.<br>Siate i benvenuti a [[motifs/home\|casa]]. |
+| *(didascalia)* | Escono Valtemand e Cornelius |
+| [[characters/polonius\|POLONIUS]] | Quest’affare è finito molto [[motifs/well\|bene]].<br>Mio sovrano, e madama, discutere<br>che cosa debba essere la maestà, che cosa sia il dovere,<br>perché il giorno sia giorno, la [[motifs/night\|notte]] [[motifs/night\|notte]], e il [[motifs/time\|tempo]] [[motifs/time\|tempo]],<br>non sarebbe che sprecare [[motifs/night\|notte]], giorno e [[motifs/time\|tempo]].<br>Perciò, poiché la brevità è l’[[motifs/soul\|anima]] dell’ingegno,<br>e la prolissità le membra e i fronzoli esteriori,<br>sarò breve. Il vostro nobile figlio è pazzo—<br>‘pazzo’ lo chiamo io, ché a definire la vera [[concepts/madness\|follia]],<br>che è mai se non l’essere nient’altro che pazzo?<br>Ma lasciamo andare. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Più sostanza e meno arte. |
+| [[characters/polonius\|POLONIUS]] | Madama, giuro che non uso arte alcuna.<br>Che egli sia pazzo, è vero; è vero ch’è un peccato,<br>e peccato è che sia vero—sciocca figura,<br>ma addio a essa, ché non userò arte.<br>Concediamo dunque ch’è pazzo; e ora resta<br>che troviamo la causa di questo effetto—<br>o piuttosto diciamo ‘la causa di questo difetto’,<br>ché questo effetto difettivo viene da causa.<br>Così resta, e il resto è questo.<br>Ponderate.<br>Ho una figlia—l’ho finché è mia—<br>la quale, per dovere e obbedienza, badate,<br>m’ha dato questo. Ora raccogliete e congetturate.<br>Legge una lettera<br><br>‘Alla celeste e idolo della mia [[motifs/soul\|anima]], la bellificata<br>[[characters/ophelia\|Ophelia]]’—è una cattiva frase, una frase vile, ‘bellificata’<br>è una frase vile. Ma udrete—‘queste nel suo<br>eccellente candido seno, queste’. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Le è venuto questo da [[characters/hamlet\|Hamlet]]? |
+| [[characters/polonius\|POLONIUS]] | Buona madama, attendete un poco. Sarò fedele.<br>‘[[concepts/doubt\|Dubita]] che le [[motifs/stars\|stelle]] sian [[motifs/fire\|fuoco]],<br>[[concepts/doubt\|dubita]] che il sole si muova,<br>[[concepts/doubt\|dubita]] che il [[concepts/truth\|vero]] sia bugiardo,<br>ma non [[concepts/doubt\|dubitare]] mai ch’io [[motifs/love\|ami]].<br>O cara [[characters/ophelia\|Ophelia]], sono maldestro in questi versi. Non ho<br>arte per contare i miei gemiti. Ma che t’[[motifs/love\|amo]] sopra ogni cosa, o<br>sopra ogni altra, credilo. Addio.<br>Tuo per sempre, carissima signora, finché questa<br>[[motifs/machine\|macchina]] gli appartiene,<br>[[characters/hamlet\|Hamlet]].’<br>Questo per obbedienza m’ha mostrato mia figlia,<br>e per di più le sue insistenze,<br>come caddero per [[motifs/time\|tempo]], per mezzi e per luogo,<br>tutte le ha date al mio orecchio. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ma come ha ella<br>accolto il suo [[motifs/love\|amore]]? |
+| [[characters/polonius\|POLONIUS]] | Che pensate di me? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Come d’un uomo fedele e onorevole. |
+| [[characters/polonius\|POLONIUS]] | Vorrei ben mostrarmi tale. Ma che potreste pensare,<br>quando ebbi visto questo ardente [[motifs/love\|amore]] a volo,<br>come m’avvidi—devo dirvelo—<br>prima che mia figlia me ne parlasse, che potreste<br>voi, o la mia cara maestà la vostra [[characters/queen\|regina]] qui, pensare,<br>se avessi fatto da scrittoio o da taccuino,<br>o dato al mio cuore un ammicco muto e sordo,<br>o guardato questo [[motifs/love\|amore]] con occhio ozioso—<br>che potreste pensare? No, andai diritto all’opera,<br>e alla mia giovane signora parlai così:<br>‘Il signor [[characters/hamlet\|Hamlet]] è un principe fuori della tua stella.<br>Ciò non deve essere’. E poi le diedi precetti<br>che si chiudesse al suo accesso,<br>non ammettesse messaggeri, non ricevesse pegni;<br>fatto questo, ella colse i frutti del mio consiglio,<br>ed egli, respinto—per farla breve—<br>cadde in tristezza, poi in digiuno,<br>quindi in veglia, quindi in debolezza,<br>quindi in leggerezza, e, per questa discesa,<br>nella [[concepts/madness\|follia]] in cui ora delira,<br>e che tutti noi piangiamo. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a [[characters/gertrude\|Gertrude]]) Credete sia questo? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Può essere; molto probabile. |
+| [[characters/polonius\|POLONIUS]] | C’è mai stato un [[motifs/time\|tempo]]—vorrei ben saperlo—<br>in cui io abbia detto recisamente ‘È così’<br>e poi si sia rivelato altrimenti? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non che io sappia. |
+| [[characters/polonius\|POLONIUS]] | (toccandosi la testa, poi la spalla)<br>Toglietemi questa da questa, se è altrimenti.<br>Se le circostanze mi guidano, troverò<br>dove la [[concepts/truth\|verità]] è nascosta, foss’anche nascosta |
+| *(didascalia)* | Dentro il centro. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Come possiamo saggiarlo oltre? |
+| [[characters/polonius\|POLONIUS]] | Sapete che talvolta passeggia quattro ore di seguito<br>qui nella galleria. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Lo fa davvero. |
+| [[characters/polonius\|POLONIUS]] | In un tal [[motifs/time\|momento]] gli scioglierò addosso mia figlia.<br>(A [[characters/claudius\|Claudius]]) Stiamo voi e io dietro un arazzo allora.<br>Osservate l’incontro. Se non l’[[motifs/love\|ama]],<br>e non è per questo caduto dalla ragione,<br>ch’io non sia più consigliere di stato,<br>ma tenga una fattoria e dei carrettieri. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Lo proveremo. |
+| *(didascalia)* | Entra il principe [[characters/hamlet\|Hamlet]], vestito da folle, leggendo in un libro |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ma guardate dove mestamente viene leggendo il povero infelice. |
+| [[characters/polonius\|POLONIUS]] | Via, vi supplico entrambi, via.<br>L’abborderò subito. Oh, concedetemelo. |
+| *(didascalia)* | Escono [[characters/claudius\|Claudius]] e [[characters/gertrude\|Gertrude]] |
+| [[characters/polonius\|POLONIUS]] | Come sta il mio buon signor [[characters/hamlet\|Hamlet]]? |
+| [[characters/hamlet\|HAMLET]] | [[motifs/well\|Bene]], la Dio [[concepts/mercy\|mercé]]. |
+| [[characters/polonius\|POLONIUS]] | Mi conoscete, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Ottimamente, ottimamente [[motifs/well\|bene]]. Voi siete un pescivendolo. |
+| [[characters/polonius\|POLONIUS]] | Non io, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Allora vorrei che foste un uomo altrettanto onesto. |
+| [[characters/polonius\|POLONIUS]] | Onesto, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Sì, signore. Essere onesto, come va questo mondo, è essere un uomo scelto fra diecimila. |
+| [[characters/polonius\|POLONIUS]] | È verissimo, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Ché se il sole genera vermi in un cane morto, essendo una carogna buona da baciare—avete una figlia? |
+| [[characters/polonius\|POLONIUS]] | L’ho, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Non lasciatela passeggiare al sole. Il concepire è una benedizione, ma non come vostra figlia potrebbe concepire. Amico, badateci. |
+| [[characters/polonius\|POLONIUS]] | (a parte) Che ne dite? Sempre a battere su mia figlia. Eppure non mi riconobbe da principio—disse ch’ero un pescivendolo. È molto andato, molto andato, e in verità, nella mia giovinezza soffrii grandi estremi per [[motifs/love\|amore]], quasi a questo segno. Gli parlerò di nuovo.—Che leggete, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Parole, parole, parole. |
+| [[characters/polonius\|POLONIUS]] | Qual è la materia, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Fra chi? |
+| [[characters/polonius\|POLONIUS]] | Intendo la materia che leggete, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Calunnie, signore; ché il briccone satirico dice qui che i vecchi hanno la barba grigia, che le loro facce sono rugose, che i loro occhi stillano una densa ambra, o gomma di susino, e che hanno una copiosa mancanza d’ingegno, insieme a fiacchissime cosce. Tutto ciò, signore, benché io lo creda con la massima forza e potenza, non lo ritengo tuttavia onesto metterlo così per iscritto; poiché voi stesso, signore, sareste vecchio quanto me—se, come un gambero, poteste andare all’indietro. |
+| [[characters/polonius\|POLONIUS]] | (a parte) Benché questa sia [[concepts/madness\|follia]], pure c’è metodo in essa.—Volete uscire dall’aria, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Nella mia [[motifs/grave\|tomba]]. |
+| [[characters/polonius\|POLONIUS]] | Davvero, quello è fuori dall’aria. (A parte) Quanto sono pregnanti talvolta le sue risposte! Una felicità che spesso la [[concepts/madness\|follia]] coglie, e di cui la ragione e la sanità di mente non saprebbero sgravarsi così felicemente. Lo lascerò, e all’istante escogiterò il modo d’un incontro tra lui e mia figlia.—Mio signore, prendo congedo da voi. |
+| [[characters/hamlet\|HAMLET]] | Non potete, signore, togliermi cosa alcuna di cui io mi separi più volentieri—salvo la mia vita, la mia vita, la mia vita. |
+| [[characters/polonius\|POLONIUS]] | (andandosene) State [[motifs/well\|bene]], mio signore. |
+| *(didascalia)* | [[characters/hamlet\|HAMLET]] Questi tediosi vecchi sciocchi! Entrano [[characters/guildenstern\|Guildenstern]] e [[characters/rosencrantz\|Rosencrantz]] |
+| [[characters/polonius\|POLONIUS]] | Andate a cercare il signor [[characters/hamlet\|Hamlet]]. Eccolo là. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Dio vi salvi, signore. |
+| *(didascalia)* | [[characters/guildenstern\|GUILDENSTERN]] a [[characters/polonius\|Polonius]] Mio onorato signore. Esce [[characters/polonius\|Polonius]] |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | (a [[characters/hamlet\|Hamlet]]) Mio carissimo signore. |
+| [[characters/hamlet\|HAMLET]] | Miei eccellenti buoni amici. Come stai, [[characters/guildenstern\|Guildenstern]]? Ah, [[characters/rosencrantz\|Rosencrantz]]—bravi ragazzi, come state entrambi? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Come gl’indifferenti figli della terra. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Felici in quanto non siamo troppo felici,<br>sul berretto della Fortuna non siamo proprio il bottone. |
+| [[characters/hamlet\|HAMLET]] | Né le suole della sua scarpa? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Nemmeno, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Allora vivete intorno alla sua cintola, o nel mezzo dei suoi favori? |
+| [[characters/guildenstern\|GUILDENSTERN]] | [[concepts/faith\|In fede]], noi siamo le sue parti intime. |
+| [[characters/hamlet\|HAMLET]] | Nelle parti segrete della Fortuna? Oh, verissimo, è una sgualdrina. Che notizie? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Nessuna, mio signore, se non che il mondo è divenuto onesto. |
+| [[characters/hamlet\|HAMLET]] | Allora il giorno del giudizio è vicino. Ma la vostra notizia non è vera. Lasciate ch’io interroghi più da vicino. Che avete meritato, miei buoni amici, dalle mani della Fortuna, perché essa vi mandi qui in [[motifs/prison\|prigione]]? |
+| [[characters/guildenstern\|GUILDENSTERN]] | [[motifs/prison\|Prigione]], mio signore? |
+| [[characters/hamlet\|HAMLET]] | La [[settings/denmark\|Danimarca]] è una [[motifs/prison\|prigione]]. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Allora il mondo lo è. |
+| [[characters/hamlet\|HAMLET]] | Una bella, in cui vi sono molte celle, reparti e segrete, e la [[settings/denmark\|Danimarca]] è delle peggiori. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Non lo pensiamo, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Ebbene, allora non lo è per voi, ché non v’è nulla di buono o di cattivo, ma è il pensarlo che lo fa tale. Per me è una [[motifs/prison\|prigione]]. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Ebbene, allora è la vostra [[concepts/ambition\|ambizione]] a farla tale; è troppo angusta per la vostra mente. |
+| [[characters/hamlet\|HAMLET]] | O Dio, potrei essere rinchiuso in un guscio di noce e stimarmi [[archetypes/king\|re]] d’uno spazio infinito, se non fosse che ho brutti [[motifs/dreams\|sogni]]. |
+| [[characters/guildenstern\|GUILDENSTERN]] | E quei [[motifs/dreams\|sogni]] appunto sono [[concepts/ambition\|ambizione]]; ché la sostanza stessa dell’ambizioso non è che l’[[archetypes/shadow\|ombra]] d’un sogno. |
+| [[characters/hamlet\|HAMLET]] | Un sogno stesso non è che un’[[archetypes/shadow\|ombra]]. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | In verità, e io ritengo l’[[concepts/ambition\|ambizione]] di qualità così aerea e leggera che non è se non l’[[archetypes/shadow\|ombra]] d’un’[[archetypes/shadow\|ombra]]. |
+| [[characters/hamlet\|HAMLET]] | Allora i nostri mendicanti sono corpi, e i nostri monarchi ed eroi distesi sono le ombre dei mendicanti. Andiamo a [[settings/court\|corte]]? Ché, in fede mia, non so ragionare. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | e [[characters/guildenstern\|GUILDENSTERN]] Vi accompagneremo. |
+| [[characters/hamlet\|HAMLET]] | Niente affatto. Non vi metterò in fila col resto dei miei servitori, ché, a parlarvi da uomo onesto, sono spaventosamente servito. Ma per la via battuta dell’[[concepts/friendship\|amicizia]], che fate a Elsinore? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Per visitarvi, mio signore, nessun’altra ragione. |
+| [[characters/hamlet\|HAMLET]] | Mendicante come sono, sono povero anche di ringraziamenti, ma vi ringrazio; e certo, cari amici, i miei ringraziamenti valgono meno di mezzo penny. Non siete stati mandati a chiamare? È vostra propria inclinazione? È una visita libera? Su, agite lealmente con me. Su, su. Suvvia, parlate. 278 |
+| [[characters/guildenstern\|GUILDENSTERN]] | Che dovremmo dire, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Ebbene, qualunque cosa—ma a proposito. Siete stati mandati a chiamare, e c’è una specie di confessione nei vostri sguardi che il vostro pudore non ha arte bastante a colorire. So che il buon [[archetypes/king\|Re]] e la [[characters/queen\|Regina]] vi hanno mandato a chiamare. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | A quale scopo, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Questo dovete insegnarmelo voi. Ma lasciate che vi scongiuri per i diritti del nostro sodalizio, per la consonanza della nostra giovinezza, per l’obbligo del nostro [[motifs/love\|affetto]] sempre serbato, e per quanto di più caro un migliore oratore potrebbe addurvi, siate schietti e diretti con me: foste mandati a chiamare o no? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | (a [[characters/guildenstern\|Guildenstern]]) Che ne dite? |
+| [[characters/hamlet\|HAMLET]] | Ah, dunque, vi tengo d’occhio—se mi [[motifs/love\|amate]], non vi trattenete. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Mio signore, fummo mandati a chiamare. |
+| [[characters/hamlet\|HAMLET]] | Ve lo dirò io perché. Così la mia anticipazione preverrà la vostra rivelazione, e il vostro segreto verso il [[archetypes/king\|Re]] e la [[characters/queen\|Regina]] non perderà una piuma. Da qualche tempo—ma perché, non so—ho perduto tutta la mia allegria, tralasciato ogni consuetudine d’esercizio; e in verità va così pesantemente con la mia disposizione che questa bella macchina, la terra, mi sembra un promontorio sterile. Questo eccellentissimo baldacchino, l’aria, vedete, questa splendida volta sospesa, questo maestoso tetto trapunto di [[motifs/fire\|fuoco]] d’oro—ebbene, non mi appare altro che un fetido e pestilenziale ammasso di vapori. Che capolavoro è l’uomo! Come nobile nella ragione, come infinito nelle facoltà, nella forma e nel moto come espressivo e mirabile, nell’azione come simile a un angelo, nell’intelletto come simile a un dio—la [[concepts/beauty\|bellezza]] del mondo, il paragone degli [[motifs/animals\|animali]]! Eppure, per me, che cos’è questa quintessenza di [[motifs/dust\|polvere]]? L’uomo non mi diletta—no, né la donna, benché col vostro sorriso sembriate dire di sì. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Mio signore, non c’era nulla di simile nei miei pensieri. |
+| [[characters/hamlet\|HAMLET]] | Perché avete riso, allora, quando ho detto ‘L’uomo non mi diletta’? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Al pensiero, mio signore, che se non vi dilettate dell’uomo, che magra accoglienza riceveranno da voi gli attori. Li abbiamo sorpassati per via, e vengono qui a offrirvi i loro servigi. |
+| [[characters/hamlet\|HAMLET]] | Chi fa il [[archetypes/king\|Re]] sarà il benvenuto; la sua maestà avrà da me il suo tributo. Il Cavaliere avventuroso userà il fioretto e il brocchiere, l’[[archetypes/lover\|Innamorato]] non sospirerà gratis, l’Uomo Bizzarro finirà in pace la sua parte, il Buffone farà ridere quelli che hanno i polmoni facili al solletico, e la Dama dirà liberamente il suo pensiero, o il [[forms/blank-verse\|verso sciolto]] ne zoppicherà. Che attori sono? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Proprio quelli di cui solevate dilettarvi, i tragici della [[motifs/city\|città]]. |
+| [[characters/hamlet\|HAMLET]] | Come mai viaggiano? La loro stanza fissa era migliore in entrambi i sensi, per fama e per guadagno. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Credo che il loro divieto venga per via della recente innovazione. |
+| [[characters/hamlet\|HAMLET]] | Godono della stessa stima di quando io ero in [[motifs/city\|città]]? Sono così seguiti? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | No, davvero, non lo sono. |
+| [[characters/hamlet\|HAMLET]] | Come mai? Si arrugginiscono? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | No, il loro sforzo tiene il passo consueto. Ma c’è, signore, una nidiata di fanciulli, piccoli falchetti, che stridono al sommo della voce e ne sono applauditi tirannicamente. Costoro sono ora la moda, e strapazzano tanto i palchi comuni—così li chiamano—che molti portatori di spada temono le penne d’oca e osano appena andarvi. |
+| [[characters/hamlet\|HAMLET]] | Come, sono fanciulli? Chi li mantiene? Come sono stipendiati? Seguiranno il mestiere non più a lungo di quanto sappiano cantare? Non diranno poi, se dovessero crescere fino a divenire attori comuni—com’è probabile che i più diverranno, se i loro mezzi non sono migliori—che i loro autori fanno loro torto a farli gridare contro la loro stessa successione? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | [[concepts/faith\|In fede]], c’è stato gran chiasso da entrambe le parti, e la nazione non tiene a peccato aizzarli alla contesa. Per un pezzo non si offrì denaro per un soggetto se il poeta e l’attore non venivano alle mani sulla questione. |
+| [[characters/hamlet\|HAMLET]] | È possibile? |
+| [[characters/guildenstern\|GUILDENSTERN]] | Oh, c’è stato un gran lanciarsi di cervelli. |
+| [[characters/hamlet\|HAMLET]] | La spuntano i ragazzi? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Sì che la spuntano, mio signore, ed Ercole col suo carico per giunta. |
+| [[characters/hamlet\|HAMLET]] | Non è strano; ché mio zio è [[archetypes/king\|Re]] di [[settings/denmark\|Danimarca]], e quelli che gli facevano smorfie mentre mio padre viveva danno venti, quaranta, cento ducati l’uno per il suo ritratto in miniatura. Per il sangue di Dio, c’è in questo qualcosa di più che naturale, se la filosofia potesse scoprirlo. |
+| *(didascalia)* | Squillo di trombe per gli Attori |
+| [[characters/guildenstern\|GUILDENSTERN]] | Ecco gli attori. |
+| [[characters/hamlet\|HAMLET]] | Signori, benvenuti a Elsinore. Le vostre mani, su. L’accessorio del benvenuto è la forma e la cerimonia. Lasciate che m’adegui con voi in quest’uso, perché il mio slancio verso gli attori—che, ve lo dico, dovrà mostrarsi bello di fuori—non paia più cordiale del vostro. |
+| *(didascalia)* | Stringe loro la mano |
+| [[characters/hamlet\|HAMLET]] | Siate i benvenuti. Ma mio zio-padre e mia zia-madre sono ingannati. |
+| [[characters/guildenstern\|GUILDENSTERN]] | In che, mio caro signore? |
+| [[characters/hamlet\|HAMLET]] | Sono pazzo soltanto a nord-nord-ovest; quando il [[motifs/wind\|vento]] è di mezzogiorno, so distinguere un falco da una sega. |
+| *(didascalia)* | Entra [[characters/polonius\|Polonius]] |
+| [[characters/polonius\|POLONIUS]] | [[motifs/well\|Bene]] sia con voi, signori. |
+| [[characters/hamlet\|HAMLET]] | (a parte) Udite, [[characters/guildenstern\|Guildenstern]], e anche voi—a ciascun orecchio un ascoltatore—quel gran bambinone che vedete là non è ancora uscito dalle fasce. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | (a parte) Forse ci è tornato per la seconda [[motifs/time\|volta]], ché si dice che un vecchio è due volte [[archetypes/child\|bambino]]. |
+| [[characters/hamlet\|HAMLET]] | (a parte) Profetizzo che viene a parlarmi degli attori. Notatelo.—Dite bene, signore, ché lunedì mattina fu proprio così. |
+| [[characters/polonius\|POLONIUS]] | Mio signore, ho notizie da darvi. |
+| [[characters/hamlet\|HAMLET]] | Mio signore, ho notizie da darvi. Quando Roscio era attore a Roma— |
+| [[characters/polonius\|POLONIUS]] | Gli attori sono giunti qui, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Bah, bah. |
+| [[characters/polonius\|POLONIUS]] | Sul mio [[concepts/honour\|onore]]— |
+| [[characters/hamlet\|HAMLET]] | Allora venne ogni attore sul suo asino. |
+| [[characters/polonius\|POLONIUS]] | I migliori attori del mondo, sia per la [[forms/tragedy\|tragedia]], la [[forms/comedy\|commedia]], la [[concepts/history\|storia]], la pastorale, la pastoral-comica, la storico-pastorale, la tragico-storica, la tragico-comico-storico-pastorale, scena indivisibile o poema illimitato. Seneca non può essere troppo grave, né Plauto troppo leggero. Per la legge dello scritto e per la libertà, questi sono gli unici. |
+| [[characters/hamlet\|HAMLET]] | O Jefte, giudice d’Israele, che tesoro avevi! |
+| [[characters/polonius\|POLONIUS]] | Che tesoro aveva, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Ebbene,<br>‘Una bella figlia e non più,<br>la quale egli amava oltremodo [[motifs/well\|bene]]’. |
+| [[characters/polonius\|POLONIUS]] | (a parte) Sempre su mia figlia. |
+| [[characters/hamlet\|HAMLET]] | Non ho ragione, vecchio Jefte? |
+| [[characters/polonius\|POLONIUS]] | Se mi chiamate Jefte, mio signore, ho una figlia che [[motifs/love\|amo]] oltremodo [[motifs/well\|bene]]. |
+| [[characters/hamlet\|HAMLET]] | No, non è questo che segue. |
+| [[characters/polonius\|POLONIUS]] | Che segue allora, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Ebbene<br>‘Come per sorte<br>Dio lo sa’,<br>e poi sapete<br>‘Avvenne poi<br>com’era più probabile’—<br>la prima strofa della pia canzone vi dirà di più, ché ecco venire i miei diversivi. |
+| *(didascalia)* | Entrano quattro o cinque Attori |
+| [[characters/hamlet\|HAMLET]] | Benvenuti, maestri, benvenuti tutti.—Son lieto di vederti [[motifs/well\|bene]].—Benvenuti, buoni amici.—Oh, mio vecchio amico! Il tuo viso s’è ornato di frange da quando ti vidi l’ultima volta. Vieni a farmi la barba in [[settings/denmark\|Danimarca]]?—Come, la mia giovane dama e signora. Per la Madonna, vossignoria è più vicina al cielo di quando vi vidi l’ultima volta per l’altezza d’uno zoccolo. Voglia Dio che la vostra voce, come un pezzo d’oro fuori corso, non sia incrinata dentro il cerchio.—Maestri, siate tutti i benvenuti. Ci butteremo come falconieri francesi, a volare su tutto quel che vediamo. Vogliamo subito un brano. Su, dateci un saggio della vostra qualità. Su, un brano appassionato. |
+| PRIMO ATTORE | Quale brano, mio buon signore? |
+| [[characters/hamlet\|HAMLET]] | Ti udii recitarmi un brano una volta, ma non fu mai rappresentato, o, se lo fu, non più d’una volta; poiché il dramma, ricordo, non piacque ai più. Era caviale al volgo. Ma era—per come lo ricevetti io, e altri il cui giudizio in tali materie gridava più alto del mio—un dramma eccellente, [[motifs/well\|ben]] distribuito nelle scene, composto con tanta sobrietà quanta maestria. Ricordo che uno disse che non c’erano spezie nei versi a render saporita la materia, né materia nella frase che potesse accusare l’autore d’affettazione, ma lo chiamò un metodo onesto, salubre quanto dolce, e assai più bello che leccato. Un brano vi amai sopra gli altri: era il racconto d’Enea a Didone, e in esso soprattutto là dove parla della strage di Priamo. Se vive nella tua [[motifs/memory\|memoria]], comincia da questo verso—vediamo, vediamo: ‘Il ruvido Pirro, come la belva d’Ircania’—non è così. Comincia con Pirro—‘Il ruvido Pirro, colui le cui armi corvine, nere come il suo proposito, somigliavano alla [[motifs/night\|notte]] quando giaceva rannicchiato nel [[motifs/horse\|cavallo]] fatale, ha ora questa terribile e nera sembianza imbrattata d’un’araldica più sinistra. Da capo a piedi ora è tutto rosso, orridamente adorno del [[motifs/blood\|sangue]] di padri, madri, figlie, figli, cotto e impastato dalle strade riarse, che prestano una luce tirannica e dannata ai loro vili assassinii. Arrostito d’ira e di [[motifs/fire\|fuoco]], e così incrostato di grumi di sangue, con occhi come carbonchi l’infernale Pirro cerca il vecchio avo Priamo.’ Così, prosegui tu. |
+| [[characters/polonius\|POLONIUS]] | Per Dio, mio signore, [[motifs/well\|ben]] detto, con buon accento e buona misura. |
+| PRIMO ATTORE | ‘Poco dopo lo trova,<br>che mena colpi troppo corti sui Greci. La sua antica spada,<br>ribelle al braccio, giace dove cade,<br>sorda al comando. Duello impari,<br>Pirro si avventa su Priamo, e nell’ira colpisce a vuoto;<br>ma al soffio e al [[motifs/wind\|vento]] della sua crudele spada<br>il padre snervato cade. Allora Ilio insensibile,<br>che par sentire quel colpo, con la cima in fiamme<br>si piega alla sua base, e con orrendo schianto<br>prende prigioniero l’orecchio di Pirro. Ché ecco, la sua spada,<br>che stava calando sul lattèo capo<br>del venerando Priamo, parve fermarsi nell’aria.<br>Così, come un [[archetypes/tyrant\|tiranno]] dipinto, Pirro stette,<br>e, come neutrale fra il suo volere e l’atto,<br>nulla fece.<br>Ma come spesso vediamo, innanzi a qualche [[motifs/storm\|tempesta]],<br>un [[motifs/silence\|silenzio]] nei cieli, ferme le nubi,<br>muti i venti arditi, e il globo di sotto<br>tacito come la [[motifs/death\|morte]], e a un tratto il tuono tremendo<br>squarcia la regione: così, dopo la pausa di Pirro,<br>una vendetta ridesta lo rimette all’opera;<br>e mai i martelli dei Ciclopi caddero<br>sull’armatura di Marte, forgiata a prova eterna,<br>con minor rimorso della sanguinante spada di Pirro<br>che ora cade su Priamo.<br>Via, via, sgualdrina Fortuna! Voi tutti, dèi,<br>in generale sinodo, toglietele il potere,<br>spezzate tutti i raggi e i cerchi della sua [[motifs/wheel\|ruota]],<br>e fate rotolare il mozzo rotondo giù per il [[motifs/hill\|colle]] del cielo,<br>fino in fondo ai demòni!’ |
+| [[characters/polonius\|POLONIUS]] | Questo è troppo lungo. |
+| [[characters/hamlet\|HAMLET]] | Andrà dal barbiere, con la vostra barba. (Al Primo Attore) Ti prego, continua. A lui ci vuole una giga o una storiella sconcia, o dorme. Continua, vieni a Ecuba. |
+| PRIMO ATTORE | ‘Ma chi, oh chi avesse visto la [[characters/queen\|regina]] imbacuccata’— |
+| [[characters/hamlet\|HAMLET]] | ‘La [[characters/queen\|regina]] imbacuccata’? |
+| [[characters/polonius\|POLONIUS]] | Bello; ‘[[characters/queen\|regina]] imbacuccata’ è bello. |
+| PRIMO ATTORE | ‘Correre scalza su e giù, minacciando le fiamme<br>con lacrime accecanti; uno straccio su quel capo<br>dove poco prima stava il diadema, e per manto,<br>intorno ai fianchi smagriti e sfiniti dai troppi parti,<br>una coperta afferrata nell’allarme della [[concepts/fear\|paura]]—<br>chi ciò avesse visto, con lingua intinta nel veleno,<br>avrebbe proclamato tradimento contro il regno della Fortuna.<br>Ma se gli dèi stessi la videro allora,<br>quando ella vide Pirro fare maligno giuoco<br>tritando con la sua spada le membra del marito,<br>l’immediato scoppio di clamore ch’ella fece—<br>se pure le cose mortali punto non li muovono—<br>avrebbe fatto lacrimare gli occhi ardenti del cielo,<br>e passione negli dèi.’ |
+| [[characters/polonius\|POLONIUS]] | Guardate se non ha cambiato colore, e ha le [[motifs/tears\|lacrime]] agli occhi. (Al Primo Attore) Ti prego, basta. |
+| [[characters/hamlet\|HAMLET]] | (al Primo Attore) Sta [[motifs/well\|bene]]. Ti farò dire il resto fra poco. (A [[characters/polonius\|Polonius]]) Mio buon signore, vorrete far alloggiare [[motifs/well\|bene]] gli attori? Udite?—siano trattati [[motifs/well\|bene]], ché sono il compendio e la breve cronaca del [[motifs/time\|tempo]]. Dopo la vostra [[motifs/death\|morte]] vi converrebbe meglio un cattivo epitaffio che la loro cattiva relazione mentre vivete. |
+| [[characters/polonius\|POLONIUS]] | Mio signore, li tratterò secondo il loro [[motifs/desert\|merito]]. |
+| [[characters/hamlet\|HAMLET]] | Per il corpicino di Dio, uomo, molto meglio. Trattate ognuno secondo il suo [[motifs/desert\|merito]], e chi sfuggirebbe alla frusta? Trattateli secondo il vostro [[concepts/honour\|onore]] e la vostra dignità—meno meritano, più merito è nella vostra generosità. Conduceteli dentro. |
+| [[characters/polonius\|POLONIUS]] | (agli Attori) Venite, signori. Esce |
+| [[characters/hamlet\|HAMLET]] | (agli Attori) Seguitelo, amici. Domani udremo un dramma. Mi senti, vecchio amico? Sapete recitare l’assassinio di Gonzago? |
+| *(didascalia)* | ATTORI Sì, mio signore. |
+| [[characters/hamlet\|HAMLET]] | L’avremo domani a [[motifs/night\|notte]]. Potreste al bisogno studiare un brano d’una dozzina o sedici versi che io scriverei e v’inserirei, non è vero? |
+| *(didascalia)* | ATTORI Sì, mio signore. |
+| *(didascalia)* | [[characters/hamlet\|HAMLET]] Molto [[motifs/well\|bene]]. Seguite quel signore, e badate di non burlarvi di lui. Escono gli Attori Miei buoni amici, vi lascio fino a [[motifs/night\|notte]]. Benvenuti a Elsinore. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Buon signore mio. |
+| [[characters/hamlet\|HAMLET]] | Sì, così. Dio sia con voi. Escono tutti tranne [[characters/hamlet\|Hamlet]]<br>Ora sono solo.<br>Oh, che furfante e schiavo villano sono io!<br>Non è mostruoso che questo attore qui,<br>in una pura finzione, in un sogno di passione,<br>abbia potuto forzare così l’[[motifs/soul\|anima]] al suo concetto<br>che per il suo operare tutto il volto gli impallidì,<br>[[motifs/tears\|lacrime]] negli occhi, sconvolgimento nell’aspetto,<br>voce rotta, e tutto il suo essere conforme<br>nelle forme al suo concetto? E tutto per nulla.<br>Per Ecuba!<br>Che cos’è Ecuba per lui, o lui per Ecuba,<br>perché debba piangere per lei? Che farebbe<br>se avesse il motivo e l’imbeccata alla passione<br>che ho io? Annegherebbe la scena di [[motifs/tears\|lacrime]],<br>e fenderebbe l’orecchio di tutti con orrido discorso,<br>farebbe impazzire i colpevoli e atterrire gl’innocenti,<br>confonderebbe gl’ignari, e sbalordirebbe davvero<br>la facoltà stessa degli occhi e degli orecchi. Eppure io,<br>ottuso furfante di fango impastato, languisco<br>come Giovanni-dei-[[motifs/dreams\|sogni]], non gravido della mia causa,<br>e nulla so dire—no, neppure per un [[archetypes/king\|re]]<br>sui cui beni e sulla cui carissima vita<br>fu compiuta una dannata rapina. Sono un vile?<br>Chi mi chiama [[archetypes/villain\|furfante]], mi spacca il cranio,<br>mi strappa la barba e me la soffia in faccia,<br>mi torce il naso, mi caccia la menzogna in gola<br>fino ai polmoni? Chi mi fa questo?<br>Ah? Per le piaghe di Cristo, dovrei subirlo; ché non può essere<br>se non ch’io ho fegato di colomba e mi manca il fiele<br>per far amaro l’oltraggio, o già prima d’ora<br>avrei ingrassato tutti i nibbi della contrada<br>con le viscere di quello schiavo. Sanguinario, osceno [[archetypes/villain\|scellerato]]!<br>Spietato, traditore, lussurioso, snaturato [[archetypes/villain\|scellerato]]!<br>Oh, vendetta!—<br>Ma che asino sono? Sì, certo, è ben da prode,<br>che io, figlio d’un caro assassinato,<br>spinto alla mia [[concepts/revenge\|vendetta]] dal cielo e dall’inferno,<br>debba, come una puttana, sfogare il cuore a parole<br>e mettermi a bestemmiare come una sgualdrina,<br>una sguattera! Vergogna, puah!—All’opera, cervello mio.<br>Ho udito che creature colpevoli, sedute a uno spettacolo,<br>sono state, per la stessa astuzia della scena,<br>colpite così nell’[[motifs/soul\|anima]] che all’istante<br>hanno proclamato i loro misfatti;<br>ché l’assassinio, pur non avendo lingua, parlerà<br>con miracolosissimo organo. Farò che questi attori<br>recitino qualcosa di simile all’assassinio di mio padre<br>davanti a mio zio. Ne osserverò gli sguardi,<br>lo sonderò fino al vivo. Se solo trasalisce,<br>so la mia via. Lo spirito che ho veduto<br>può essere il diavolo, e il diavolo ha il potere<br>d’assumere una forma piacevole; sì, e forse,<br>traendo dalla mia debolezza e dalla mia [[concepts/melancholy\|malinconia]]—<br>ché è potentissimo su tali umori—<br>m’inganna per dannarmi. Voglio fondamenti<br>più concreti di questo. Il dramma è la cosa<br>in cui coglierò la [[concepts/conscience\|coscienza]] del [[archetypes/king\|Re]]. |
+| *(didascalia)* | Esce |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|il Re]] [[characters/claudius\|Claudius]], [[characters/queen\|la Regina]] [[characters/gertrude\|Gertrude]], [[characters/polonius\|Polonius]], [[characters/ophelia\|Ophelia]], [[characters/rosencrantz\|Rosencrantz]], [[characters/guildenstern\|Guildenstern]] e alcuni signori |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]])<br>E non potete con nessun giro di discorso<br>Cavargli perché ostenti questo turbamento,<br>Straziando così aspramente i suoi giorni di quiete<br>Con torbida e pericolosa demenza? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Confessa bensì di sentirsi la mente sconvolta,<br>Ma da quale cagione non vuole in alcun modo dire. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Né lo troviamo disposto a farsi sondare,<br>Ma con astuta [[concepts/madness\|follia]] si tiene in disparte<br>Quando vorremmo indurlo a qualche confessione<br>Del suo vero stato. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Vi accolse [[motifs/well\|bene]]? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Del tutto da gentiluomo. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Ma con molta forzatura del suo umore. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Avaro di domande, ma alle nostre richieste<br>Assai libero nel rispondere. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Lo tentaste<br>Con qualche passatempo? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Signora, avvenne che certi attori<br>Sopravanzammo per via. Di questi gli parlammo,<br>E parve destarsi in lui una specie di gioia<br>Nell’udirne. Sono qui presso la [[settings/court\|corte]],<br>E, come io credo, hanno già l’ordine<br>Di recitare questa [[motifs/night\|notte]] davanti a lui. |
+| [[characters/polonius\|POLONIUS]] | È verissimo, E mi ha supplicato di pregare le vostre maestà<br>Di udire e vedere la cosa. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Con tutto il cuore; e molto mi contenta<br>Udirlo così disposto.—Buoni gentiluomini,<br>Aguzzategli ancora il desiderio, e spingete il suo intento<br>Verso questi diletti. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Lo faremo, mio signore. |
+| *(didascalia)* | Escono [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Dolce [[characters/gertrude\|Gertrude]], lasciateci anche voi,<br>Ché segretamente abbiamo mandato a chiamar qui [[characters/hamlet\|Hamlet]],<br>Affinché egli, come per caso, possa qui<br>Incontrare [[characters/ophelia\|Ophelia]].<br>Suo padre ed io, spie legittime,<br>Ci porremo in modo che, vedendo non visti,<br>Possiamo giudicare apertamente del loro incontro,<br>E arguire da lui, dal suo contegno,<br>Se sia o no il tormento del suo [[motifs/love\|amore]]<br>Quello per cui così soffre. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Vi obbedirò.<br>E quanto a voi, [[characters/ophelia\|Ophelia]], io desidero<br>Che le vostre belle grazie siano la felice cagione<br>Della stranezza di [[characters/hamlet\|Hamlet]]; così [[concepts/hope\|spererò]] che le vostre virtù<br>Lo riconducano al suo consueto cammino,<br>A onore d’entrambi. |
+| [[characters/ophelia\|OPHELIA]] | Signora, lo desidero anch’io. |
+| *(didascalia)* | Esce [[characters/gertrude\|Gertrude]] |
+| [[characters/polonius\|POLONIUS]] | [[characters/ophelia\|Ophelia]], passeggiate qui.—Grazioso signore, se vi piace,<br>Noi ci apposteremo.—Leggete in questo libro,<br>Che l’apparenza di tale esercizio dia colore<br>Alla vostra [[concepts/loneliness\|solitudine]]. Spesso in questo siamo da biasimare:<br>È troppo provato che con volto di devozione<br>E pia azione inzuccheriamo<br>Il diavolo stesso. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, è troppo vero.<br>(A parte) Che aspra sferzata dà quel discorso alla mia<br>[[concepts/conscience\|coscienza]].<br>La guancia della meretrice, imbellita d’arte stuccatrice,<br>Non è più brutta rispetto a ciò che la aiuta<br>Di quanto lo sia il mio atto alla mia parola dipinta.<br>Oh grave fardello! |
+| [[characters/polonius\|POLONIUS]] | Lo sento venire. Ritiriamoci, mio signore. |
+| *(didascalia)* | Escono [[characters/claudius\|Claudius]] e [[characters/polonius\|Polonius]] |
+| *(didascalia)* | Entra il principe [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Essere, o non essere; questo è il problema:<br>Se sia più nobile all’animo soffrire<br>I colpi di fionda e i dardi dell’oltraggiosa fortuna,<br>O prender l’armi contro un mare d’affanni,<br>E, opponendosi, finirli. Morire, [[motifs/sleep\|dormire]]—<br>Nulla più, e con un [[motifs/sleep\|sonno]] dire che poniamo fine<br>Al dolore del cuore e ai mille colpi naturali<br>Di cui la carne è erede—è una consumazione<br>Da desiderarsi devotamente. Morire, [[motifs/sleep\|dormire]].<br>[[motifs/sleep\|Dormire]], forse sognare. Ah, qui è l’intoppo,<br>Ché in quel [[motifs/sleep\|sonno]] di [[motifs/death\|morte]] quali [[motifs/dreams\|sogni]] possano venire<br>Quando ci saremo spogliati di questa spoglia mortale<br>Deve farci esitare. È questo il riguardo<br>Che dà alla sventura una vita così lunga,<br>Ché chi sopporterebbe le sferze e gli scherni del [[motifs/time\|tempo]],<br>Il torto dell’oppressore, la contumelia del superbo,<br>Le fitte dell’[[motifs/love\|amore]] disprezzato, l’indugio della legge,<br>L’insolenza delle cariche, e i dispregi<br>Che il paziente merito riceve dagl’indegni,<br>Quando egli stesso potrebbe farsi quietanza<br>Con un semplice stiletto? Chi porterebbe questi fardelli,<br>A grugnire e sudare sotto una vita spossata,<br>Se non fosse che il terrore di qualcosa dopo la [[motifs/death\|morte]],<br>Il paese inesplorato dai cui confini<br>Nessun viaggiatore ritorna, sconcerta la volontà,<br>E ci fa piuttosto sopportare i mali che abbiamo<br>Che volare verso altri che non conosciamo?<br>Così la [[concepts/conscience\|coscienza]] fa di noi tutti dei codardi,<br>E così il nativo colore della risoluzione<br>S’illividisce sotto la pallida tinta del pensiero,<br>E imprese di gran nerbo e momento<br>Per questo riguardo torcono il loro corso<br>E perdono il nome d’azione. Piano, ora,<br>La bella [[characters/ophelia\|Ophelia]]!—Ninfa, nelle tue orazioni<br>Siano ricordati tutti i miei peccati. |
+| [[characters/ophelia\|OPHELIA]] | Mio buon signore,<br>Come sta il vostro [[concepts/honour\|onore]] da tanti giorni in qua? |
+| [[characters/hamlet\|HAMLET]] | Vi ringrazio umilmente, [[motifs/well\|bene]], [[motifs/well\|bene]], [[motifs/well\|bene]]. |
+| [[characters/ophelia\|OPHELIA]] | Mio signore, ho vostri ricordi<br>Che da lungo tempo desideravo restituirvi.<br>Vi prego, ora, riprendeteli. |
+| [[characters/hamlet\|HAMLET]] | No, no, io non vi diedi mai nulla. |
+| [[characters/ophelia\|OPHELIA]] | Mio onorato signore, sapete assai [[motifs/well\|bene]] che lo faceste,<br>E con essi parole composte d’un sì dolce fiato<br>Che rendevano più ricche quelle cose. Perduto il loro profumo,<br>Riprendetevele; ché all’animo nobile<br>I ricchi doni impoveriscono quando chi dona si mostra scortese.<br>Ecco, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Ah, ah? Siete onesta? |
+| [[characters/ophelia\|OPHELIA]] | Mio signore. |
+| [[characters/hamlet\|HAMLET]] | Siete bella? |
+| [[characters/ophelia\|OPHELIA]] | Che intende vostra signoria? |
+| [[characters/hamlet\|HAMLET]] | Che se siete onesta e bella, la vostra onestà non dovrebbe ammettere colloquio con la vostra [[concepts/beauty\|bellezza]]. |
+| [[characters/ophelia\|OPHELIA]] | Potrebbe la [[concepts/beauty\|bellezza]], mio signore, avere miglior commercio che con l’onestà? |
+| [[characters/hamlet\|HAMLET]] | Sì, davvero, ché il potere della [[concepts/beauty\|bellezza]] trasformerà l’onestà da ciò che è in una ruffiana più presto di quanto la forza dell’onestà possa tradurre la [[concepts/beauty\|bellezza]] a sua somiglianza. Questo un tempo era un [[concepts/paradox\|paradosso]], ma ora il [[motifs/time\|tempo]] ne dà la prova. Io vi [[motifs/love\|amai]] un tempo. |
+| [[characters/ophelia\|OPHELIA]] | Davvero, mio signore, me lo faceste credere. |
+| [[characters/hamlet\|HAMLET]] | Non avreste dovuto credermi, ché la virtù non può innestarsi al nostro vecchio ceppo senza che noi ne serbiamo il sapore. Io non vi amai. |
+| [[characters/ophelia\|OPHELIA]] | Tanto più fui ingannata. |
+| [[characters/hamlet\|HAMLET]] | Vattene in un convento. Perché vorresti generare peccatori? Io stesso sono passabilmente onesto, eppure potrei accusarmi di tali cose che sarebbe stato meglio che mia madre non m’avesse partorito. Sono molto superbo, vendicativo, ambizioso, con più colpe al mio cenno di quanti pensieri abbia per contenerle, [[concepts/imagination\|immaginazione]] per dar loro forma, o [[motifs/time\|tempo]] per compierle. Che devono fare individui come me, striscianti fra il cielo e la terra? Siamo tutti bricconi matricolati. Non credete a nessuno di noi. Va’ per la tua via, in un convento. Dov’è vostro padre? |
+| [[characters/ophelia\|OPHELIA]] | A [[motifs/home\|casa]], mio signore. |
+| [[characters/hamlet\|HAMLET]] | Che gli si chiudano addosso le porte, così che possa fare il [[archetypes/fool\|buffone]] in nessun luogo se non in casa sua. Addio. |
+| [[characters/ophelia\|OPHELIA]] | Oh soccorretelo, voi dolci cieli! |
+| [[characters/hamlet\|HAMLET]] | Se ti sposerai, ti darò questa piaga per dote: fossi tu casta come il ghiaccio, pura come la [[motifs/snow\|neve]], non sfuggirai alla calunnia. Vattene in un convento, va’, addio. O se proprio devi sposarti, sposa uno [[archetypes/fool\|sciocco]]; ché gli uomini saggi sanno assai [[motifs/well\|bene]] quali mostri fate di loro. In un convento, va’, e presto, anche. Addio. |
+| [[characters/ophelia\|OPHELIA]] | Oh potenze celesti, risanatelo! |
+| [[characters/hamlet\|HAMLET]] | Ho sentito parlare anche dei vostri belletti, assai [[motifs/well\|bene]]. Dio v’ha dato un volto, e voi ve ne fate un altro. Voi saltellate, voi ancheggiate, e voi bleserate, e storpiate i nomi delle creature di Dio, e fate della vostra lascivia ignoranza. Andiamo, non ne voglio più. M’ha fatto impazzire. Dico che non avremo più matrimoni. Quelli che sono già sposati—tutti tranne uno—vivranno. Gli altri resteranno come sono. In un convento, va’. Esce |
+| [[characters/ophelia\|OPHELIA]] | Oh, che nobile mente è qui rovinata!<br>Del cortigiano, del soldato, del dotto l’occhio, la lingua, la spada,<br>La speranza e la [[motifs/rose\|rosa]] del bello stato,<br>Lo specchio della moda e lo stampo del contegno,<br>L’osservato da tutti gli osservatori, del tutto, del tutto abbattuto!<br>Ed io, fra le dame la più abbattuta e misera,<br>Che suggevo il miele dei suoi voti di musica,<br>Ora vedo quella nobile e sovrana ragione<br>Come dolci [[motifs/bells\|campane]] stonate e stridule;<br>Quella impareggiabile forma e figura di giovinezza in fiore<br>Devastata dal delirio. Oh, me infelice,<br>D’aver veduto quel che vidi, di veder quel che vedo! |
+| *(didascalia)* | Entrano [[archetypes/king\|il Re]] [[characters/claudius\|Claudius]] e [[characters/polonius\|Polonius]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[motifs/love\|Amore]]? I suoi affetti non tendono da quella parte,<br>Né quanto disse, benché mancasse un poco di forma,<br>Era simile a [[concepts/madness\|follia]]. C’è qualcosa nella sua [[motifs/soul\|anima]]<br>Su cui la sua [[concepts/melancholy\|malinconia]] sta covando,<br>E io [[concepts/doubt\|temo]] che la covata e lo schiudersi<br>Saranno qualche pericolo; per prevenirlo<br>Ho in rapida deliberazione<br>Così stabilito: egli andrà con [[characters/speed\|prestezza]] in Inghilterra<br>A domandare il nostro trascurato tributo.<br>Forse i mari e paesi diversi,<br>Con oggetti mutevoli, scacceranno<br>Questa cosa in qualche modo radicata nel suo cuore,<br>Su cui il suo cervello, battendo di continuo, lo trae così<br>Fuori dalla foggia di se stesso. Che ne pensate? |
+| [[characters/polonius\|POLONIUS]] | Andrà [[motifs/well\|bene]]. Eppure io credo<br>Che l’origine e il principio di questo dolore<br>Sian nati da [[motifs/love\|amore]] negletto.—Ebbene, [[characters/ophelia\|Ophelia]]?<br>Non occorre che ci diciate ciò che disse il signor [[characters/hamlet\|Hamlet]];<br>Abbiamo udito tutto.—Mio signore, fate come vi piace,<br>Ma, se lo giudicate opportuno, dopo la recita<br>Lasciate che sua madre la [[characters/queen\|regina]], tutta sola, lo preghi<br>Di mostrare i suoi dolori. Ch’ella sia schietta con lui,<br>E io mi porrò, se vi piace, all’orecchio<br>Di tutto il loro colloquio. Se ella non lo scopre,<br>Mandatelo in Inghilterra, o confinatelo dove<br>La vostra saggezza meglio penserà. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Così sarà.<br>La [[concepts/madness\|follia]] nei grandi non deve andare senza vigilanza. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il principe [[characters/hamlet\|Hamlet]] e due o tre degli Attori |
+| [[characters/hamlet\|HAMLET]] | Recitate la battuta, ve ne prego, come ve l’ho declamata io—scorrevole sulla lingua; ma se la masticate, come fanno tanti dei vostri attori, tanto varrebbe che i miei versi li avesse detti il banditore comunale. E non segate troppo l’aria con la mano, così, ma usate di tutto con garbo; ché nel torrente stesso, nella tempesta, e per così dire nel turbine della vostra passione, dovete acquistare e generare una temperanza che le dia levigatezza. Oh, mi offende fino all’[[motifs/soul\|anima]] udire un pezzo d’uomo robusto e imparruccato stracciare una passione a brandelli, a veri cenci, per spaccare gli orecchi della platea in piedi, che per la più parte non è capace di nulla se non di inspiegabili pantomime e di frastuono. Vorrei che un tale individuo fosse frustato per aver strafatto il Termagante. Supera Erode in erodismo. Vi prego, evitatelo.<br>UN ATTORE Ne rispondo io, [[concepts/honour\|vostro onore]]. |
+| [[characters/hamlet\|HAMLET]] | Né siate troppo blandi, però; ma la vostra propria discrezione vi sia maestra. Adattate l’azione alla parola, la parola all’azione, con questa avvertenza particolare: di non oltrepassare la modestia della [[concepts/nature\|natura]]. Poiché ogni cosa a tal segno esagerata è fuori dallo scopo del recitare, il cui fine, da principio e ora, fu ed è di tenere per così dire lo [[motifs/mirror\|specchio]] davanti alla [[concepts/nature\|natura]], di mostrare alla virtù il suo proprio volto, allo scherno la sua propria immagine, e all’età stessa e al [[concepts/body\|corpo]] del [[motifs/time\|tempo]] la sua forma e la sua impronta. Ora, questo esagerato, o reso fiaccamente, benché faccia ridere gl’inesperti, non può che far dolere i giudiziosi; e la censura di uno solo di costoro deve, nella vostra stima, pesare più di un intero teatro degli altri. Oh, vi sono attori che ho visto recitare, e che ho udito lodare da altri, e altamente, per non dirlo profanamente, i quali, non avendo né l’accento dei cristiani né l’andatura di cristiano, di pagano, né d’uomo alcuno, si sono così impettiti e hanno così muggito che ho pensato che certi garzoni della [[concepts/nature\|natura]] avessero fatto degli uomini, e non li avessero fatti [[motifs/well\|bene]], tanto abominevolmente imitavano l’umanità.<br>UN ATTORE [[concepts/hope\|Spero]] che presso di noi ciò sia stato corretto abbastanza, signore. |
+| [[characters/hamlet\|HAMLET]] | Oh, [[concepts/reform\|correggetelo]] del tutto. E quelli che fanno i vostri buffoni non dicano più di quanto è scritto per loro; ché ve n’è di quelli che si mettono a ridere essi stessi per far ridere anche una certa quantità di sterili spettatori, mentre in quel medesimo [[motifs/time\|tempo]] qualche punto necessario del dramma dovrebbe essere considerato. È cosa infame, e mostra una pietosissima [[concepts/ambition\|ambizione]] nel [[archetypes/fool\|buffone]] che se ne serve. Andate a prepararvi. Escono gli Attori |
+| *(didascalia)* | Entrano [[characters/polonius\|Polonius]], [[characters/guildenstern\|Guildenstern]] e [[characters/rosencrantz\|Rosencrantz]] |
+| [[characters/hamlet\|HAMLET]] | (A [[characters/polonius\|Polonius]]) Ebbene, mio signore? Il [[archetypes/king\|Re]] ascolterà questo lavoro? |
+| [[characters/polonius\|POLONIUS]] | E anche la [[characters/queen\|Regina]], e subito. [[characters/hamlet\|HAMLET]] Dite agli attori di far presto. Esce [[characters/polonius\|Polonius]]<br>Volete voi due aiutare a sollecitarli? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | e [[characters/guildenstern\|GUILDENSTERN]] Lo faremo, mio signore. |
+| *(didascalia)* | Escono |
+| [[characters/hamlet\|HAMLET]] | Ehilà, [[characters/horatio\|Horatio]]! |
+| *(didascalia)* | Entra [[characters/horatio\|Horatio]] |
+| [[characters/horatio\|HORATIO]] | Eccomi, dolce signore, al vostro servizio. |
+| [[characters/hamlet\|HAMLET]] | [[characters/horatio\|Horatio]], tu sei un uomo giusto quanto mai<br>ne incontrò il mio commercio con gli uomini. |
+| [[characters/horatio\|HORATIO]] | Oh mio caro signore— |
+| [[characters/hamlet\|HAMLET]] | No, non credere ch’io ti aduli;<br>ché quale avanzamento potrei [[concepts/hope\|sperare]] da te,<br>che non hai altra rendita che il tuo buon animo<br>per nutrirti e vestirti? Perché adulare<br>il povero?<br>No, lecchi la lingua zuccherata l’assurdo fasto,<br>e pieghi i docili cardini del ginocchio<br>dove il guadagno segua la finzione. Mi ascolti?—<br>Da quando la mia cara [[motifs/soul\|anima]] fu padrona di scegliere<br>e seppe distinguere fra gli uomini, la sua elezione<br>ti ha segnato per sé; poiché tu sei stato<br>come uno che, patendo tutto, nulla patisce,<br>un uomo che i colpi e i doni della Fortuna<br>ha preso con pari gratitudine; e beati coloro<br>il cui [[motifs/blood\|sangue]] e il cui giudizio sono così [[motifs/well\|bene]] mescolati<br>da non essere un flauto per il dito della Fortuna<br>che vi suoni il tasto che le piace. Dammi quell’uomo<br>che non sia schiavo della passione, e io lo porterò<br>nel nocciolo del cuore, sì, nel cuore del mio cuore,<br>come porto te. Ma di ciò fin troppo.<br>C’è stasera una recita davanti al [[archetypes/king\|Re]].<br>Una scena di essa s’accosta alla circostanza<br>che t’ho narrato della [[motifs/death\|morte]] di mio padre.<br>Ti prego, quando vedrai quell’atto in corso,<br>con tutta quanta l’attenzione della tua [[motifs/soul\|anima]]<br>osserva mio zio. Se la sua occulta [[concepts/guilt\|colpa]]<br>non si stana da sé a un certo discorso,<br>è uno [[archetypes/ghost\|spettro]] dannato quello che abbiamo visto,<br>e le mie fantasie sono immonde<br>come l’incudine di Vulcano. Osservalo con cura,<br>ché io inchioderò i miei occhi al suo volto,<br>e dopo uniremo entrambi i nostri giudizi<br>nel sentenziare sul suo apparire. |
+| [[characters/horatio\|HORATIO]] | [[motifs/well\|Bene]], mio signore.<br>Se mi ruberà qualcosa mentre si recita il dramma<br>e sfuggirà all’occhio, pagherò io il furto. |
+| *(didascalia)* | Squillo di trombe |
+| [[characters/hamlet\|HAMLET]] | Vengono alla recita. Devo fare l’ozioso.<br>Prendetevi un posto. |
+| *(didascalia)* | Marcia danese. Entrano il [[archetypes/king\|Re]] [[characters/claudius\|Claudius]], la [[characters/queen\|Regina]] |
+| [[characters/hamlet\|HAMLET]] | [[characters/gertrude\|Gertrude]], [[characters/polonius\|Polonius]], [[characters/ophelia\|Ophelia]], [[characters/rosencrantz\|Rosencrantz]],<br><br>[[characters/guildenstern\|Guildenstern]], e altri signori del seguito, con la |
+| *(didascalia)* | guardia del [[archetypes/king\|Re]] che porta le torce |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Come sta nostro cugino [[characters/hamlet\|Hamlet]]? |
+| [[characters/hamlet\|HAMLET]] | Eccellentemente, in [[concepts/faith\|fede]] mia, del piatto del camaleonte. Mangio aria, rimpinzato di promesse. Non si ingrassano così i capponi. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non so che farmene di questa risposta, [[characters/hamlet\|Hamlet]].<br>Queste parole non sono mie. |
+| [[characters/hamlet\|HAMLET]] | No, e ora neppure mie. (A [[characters/polonius\|Polonius]]) Mio signore, voi recitaste una volta all’università, dite. |
+| [[characters/polonius\|POLONIUS]] | Sì, mio signore, ed ero reputato un buon attore. |
+| [[characters/hamlet\|HAMLET]] | E che cosa rappresentaste? |
+| [[characters/polonius\|POLONIUS]] | Rappresentai [[characters/julius-caesar\|Giulio Cesare]]. Fui ucciso in Campidoglio. [[characters/brutus\|Bruto]] mi uccise. |
+| [[characters/hamlet\|HAMLET]] | Fu da bruto, da parte sua, uccidere lì un vitello così capitale.—Sono pronti gli attori? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Sì, mio signore, attendono il vostro comodo. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Vieni qua, mio buon [[characters/hamlet\|Hamlet]]. Siediti accanto a me. |
+| [[characters/hamlet\|HAMLET]] | No, buona madre, qui c’è un metallo più attraente.<br>Si siede accanto a [[characters/ophelia\|Ophelia]] |
+| POLONTUS | (a parte) Oh oh, notate questo? |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/ophelia\|Ophelia]]) Signora, posso coricarmi nel vostro grembo? |
+| [[characters/ophelia\|OPHELIA]] | No, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Voglio dire, il mio capo sul vostro grembo? |
+| [[characters/ophelia\|OPHELIA]] | Sì, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Credete che intendessi cose contadine? |
+| [[characters/ophelia\|OPHELIA]] | Non penso nulla, mio signore. |
+| [[characters/hamlet\|HAMLET]] | È un bel pensiero, da giacere fra le gambe di una fanciulla. |
+| [[characters/ophelia\|OPHELIA]] | Che cosa, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Nessuna cosa. |
+| [[characters/ophelia\|OPHELIA]] | Siete allegro, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Chi, io? |
+| [[characters/ophelia\|OPHELIA]] | Sì, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Oh Dio, il vostro unico compositore di giighe! Che dovrebbe fare un uomo se non stare allegro? Ché guardate come appare lieta mia madre, e mio padre è morto da due ore. |
+| [[characters/ophelia\|OPHELIA]] | No, sono due volte due mesi, mio signore. 122 |
+| [[characters/hamlet\|HAMLET]] | Tanto tempo? E allora porti il diavolo il nero, ché io vestirò di zibellino. Oh cieli, morto due mesi fa e non ancora dimenticato! Allora c’è [[concepts/hope\|speranza]] che la [[motifs/memory\|memoria]] d’un grand’uomo sopravviva alla sua vita di mezz’anno. Ma, per la Madonna, deve allora edificare chiese, o altrimenti patirà d’essere dimenticato, come il [[motifs/horse\|cavallo]] di legno, il cui epitaffio è ‘Ché oh, ché oh, il [[motifs/horse\|cavallo]] di legno è dimenticato.’ |
+| *(didascalia)* | Suonano gli oboi. Entra la pantomima. Entrano un [[archetypes/king\|Re]] |
+| [[characters/hamlet\|HAMLET]] | e una [[characters/queen\|Regina]] molto amorosi, la [[characters/queen\|Regina]] lo abbraccia.<br>Ella s’inginocchia e gli fa mostra di giuramenti.<br>Egli la rialza e reclina il capo sul suo collo.<br>Si corica su un letto di [[motifs/flowers\|fiori]]. Ella, vedendolo<br>addormentato, lo [[motifs/leaves\|lascia]]. Poco dopo entra un tale, gli toglie<br>la [[motifs/crown\|corona]], la bacia, e versa [[motifs/poison\|veleno]] negli orecchi del<br>[[archetypes/king\|Re]], ed esce. La [[characters/queen\|Regina]] ritorna, trova<br>il [[archetypes/king\|Re]] morto, e fa gesti appassionati. L’avvelenatore,<br>con due o tre comparse mute, rientra<br>di nuovo, fingendo di dolersi con lei. Il [[concepts/body\|corpo]] morto è<br>portato via. L’avvelenatore corteggia la [[characters/queen\|Regina]] con<br>doni. Ella pare riluttante e restia per un poco, ma alla<br>fine accetta il suo [[motifs/love\|amore]]. Escono gli Attori |
+| [[characters/ophelia\|OPHELIA]] | Che significa questo, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Perbacco, questo è miching malhecho. Vuol dire misfatto. |
+| [[characters/ophelia\|OPHELIA]] | Forse questa pantomima reca l’argomento del dramma. Entra il Prologo |
+| [[characters/hamlet\|HAMLET]] | Lo sapremo da costui. Gli attori non sanno tenere un segreto: diranno tutto. |
+| [[characters/ophelia\|OPHELIA]] | Ci dirà che cosa significava questa pantomima? |
+| [[characters/hamlet\|HAMLET]] | Sì, o qualunque cosa voi vogliate mostrargli. Non vergognatevi voi di mostrare, e lui non si vergognerà di dirvi che cosa significa. |
+| [[characters/ophelia\|OPHELIA]] | Siete cattivo, siete cattivo. Starò attenta al dramma. |
+| PROLOGO | Per noi e per la nostra [[forms/tragedy\|tragedia]],<br>qui inchinandoci alla vostra clemenza,<br>vi chiediamo un ascolto paziente. Esce |
+| [[characters/hamlet\|HAMLET]] | È questo un prologo, o il motto inciso in un anello? |
+| [[characters/ophelia\|OPHELIA]] | È breve, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Come l’[[motifs/love\|amore]] di donna. |
+| *(didascalia)* | Entrano il [[archetypes/king\|Re]] attore e la sua [[characters/queen\|Regina]] |
+| [[archetypes/king\|RE]] ATTORE | Ben trenta volte il carro di Febo ha girato<br>il salso lavacro di Nettuno e il tondo suolo di Tellure,<br>e trenta dozzine di lune di splendore preso in prestito<br>hanno fatto attorno al mondo dodici volte trenta giri<br>da che l’[[motifs/love\|amore]] i nostri cuori e Imeneo le nostre mani<br>unirono scambievoli in vincoli sacratissimi. |
+| [[characters/queen\|REGINA]] ATTRICE | Altrettanti viaggi il sole e la [[motifs/moon\|luna]]<br>ci facciano ancora contare prima che l’[[motifs/love\|amore]] finisca.<br>Ma ahimè, siete da poco così malato,<br>così lontano dalla letizia e dal vostro stato di prima,<br>che io temo per voi. Pure, se anche temo,<br>ciò non deve, mio signore, darvi sgomento.<br>Ché nella donna [[concepts/fear\|timore]] e [[motifs/love\|amore]] tengono misura:<br>o in nessuno dei due, o all’estremo.<br>Ora quale sia il mio [[motifs/love\|amore]], la prova ve l’ha fatto sapere,<br>e quanto è grande il mio [[motifs/love\|amore]], tanto è il mio [[concepts/fear\|timore]]. |
+| [[archetypes/king\|RE]] ATTORE | In [[concepts/faith\|fede]], devo lasciarti, [[motifs/love\|amore]], e presto anche.<br>Le mie facoltà operanti cessano le loro funzioni,<br>e tu vivrai in questo bel mondo dopo di me,<br>onorata, amata; e forse uno altrettanto gentile<br>per marito tu— |
+| [[characters/queen\|REGINA]] ATTRICE | Oh, taci il resto!<br>Un tale [[motifs/love\|amore]] sarebbe tradimento nel mio petto.<br>Sia maledetta se prendo un secondo marito;<br>nessuna sposi il secondo, se non chi uccise il primo. |
+| [[characters/hamlet\|HAMLET]] | Assenzio, assenzio. |
+| [[characters/queen\|REGINA]] ATTRICE | I motivi che muovono a seconde [[motifs/marriage\|nozze]]<br>sono vili riguardi di lucro, non già d’[[motifs/love\|amore]].<br>Una seconda [[motifs/time\|volta]] uccido il mio sposo morto<br>quando un secondo sposo mi bacia nel letto. |
+| [[archetypes/king\|RE]] ATTORE | Io credo che pensiate ciò che ora dite;<br>ma quanto decidiamo, spesso lo rompiamo.<br>Il proposito non è che schiavo della [[motifs/memory\|memoria]],<br>di nascita violenta ma di povera durata:<br>ora, come frutto acerbo, sta stretto all’albero,<br>ma cade senza scossa quando è maturo.<br>È necessarissimo che dimentichiamo<br>di pagare a noi stessi ciò che a noi stessi è debito.<br>Ciò che nella passione a noi stessi proponiamo,<br>finita la passione, perde il suo proposito.<br>La violenza o del dolore o della gioia<br>distrugge con sé i propri stessi atti.<br>Dove più esulta la gioia, più il dolore si lagna;<br>il dolore gioisce, la gioia duole, per lieve accidente.<br>Questo mondo non è per sempre, né è strano<br>che anche i nostri amori mutino con le nostre fortune;<br>ché è questione ancora da provare per noi<br>se l’[[motifs/love\|amore]] guidi la fortuna o la fortuna l’[[motifs/love\|amore]].<br>Caduto il grande, vedi fuggire il suo favorito;<br>il povero innalzato fa amici dei nemici.<br>E fin qui l’[[motifs/love\|amore]] tiene dietro alla fortuna,<br>ché chi non ha bisogno non mancherà mai d’amico,<br>e chi nel bisogno mette alla prova un amico vuoto<br>senz’altro lo [[motifs/seasons\|matura]] a proprio nemico.<br>Ma per finire ordinatamente dove ho cominciato,<br>i nostri voleri e i nostri fati corrono così contrari<br>che i nostri disegni sono sempre rovesciati:<br>nostri sono i pensieri, ma i loro fini non sono nostri.<br>Così tu pensi di non sposare un secondo marito;<br>ma muoiano i tuoi pensieri quando il tuo primo signore è morto. |
+| [[characters/queen\|REGINA]] ATTRICE | Né la terra mi dia cibo, né il cielo luce,<br>mi siano chiusi svago e riposo giorno e [[motifs/night\|notte]],<br>ogni avversità che spegne il volto della gioia<br>incontri quanto vorrei che andasse [[motifs/well\|bene]] e lo distrugga,<br>e qui e nell’aldilà mi perseguiti eterno travaglio<br>se, una volta vedova, sarò mai sposa. |
+| [[characters/hamlet\|HAMLET]] | E se ora lo rompesse! |
+| [[archetypes/king\|RE]] ATTORE | (alla [[characters/queen\|Regina]] attrice)<br>È giurato profondamente. Dolce, lasciami qui un poco.<br>I miei spiriti si fanno torpidi, e volentieri ingannerei<br>il tedioso giorno col [[motifs/sleep\|sonno]]. |
+| [[characters/queen\|REGINA]] ATTRICE | Il [[motifs/sleep\|sonno]] culli il tuo cervello,<br>e mai sventura venga fra noi due.<br>Il [[archetypes/king\|Re]] attore dorme. La [[characters/queen\|Regina]] attrice esce |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/gertrude\|Gertrude]]) Signora, come vi piace questo dramma? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | La dama protesta troppo, mi pare. |
+| [[characters/hamlet\|HAMLET]] | Oh, ma manterrà la parola. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Avete udito l’argomento? Non c’è offesa in esso? |
+| [[characters/hamlet\|HAMLET]] | No, no, non fanno che scherzare, [[motifs/poison\|veleno]] per scherzo. Nessuna offesa al mondo. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Come chiamate il dramma? |
+| [[characters/hamlet\|HAMLET]] | La trappola per topi. Perbacco, e come mai? Tropicamente. Questo dramma è l’immagine di un assassinio compiuto a Vienna. Gonzago è il nome del Duca, sua moglie [[characters/baptista\|Battista]]. Vedrete fra poco. È un lavoro da furfanti; ma che importa? Vostra maestà, e noi che abbiamo l’anima libera, non ci tocca. S’imbizzarrisca pure la rozza scorticata: il nostro garrese è illeso. |
+| *(didascalia)* | Entra l’attore Lucianus |
+| [[characters/hamlet\|HAMLET]] | Costui è un tal Lucianus, nipote del [[archetypes/king\|Re]]. |
+| [[characters/ophelia\|OPHELIA]] | Valete quanto un [[characters/chorus\|coro]], mio signore. |
+| [[characters/hamlet\|HAMLET]] | Potrei fare da interprete fra voi e il vostro [[motifs/love\|amore]], se vedessi le marionette folleggiare. |
+| [[characters/ophelia\|OPHELIA]] | Siete tagliente, mio signore, siete tagliente. |
+| [[characters/hamlet\|HAMLET]] | Vi costerebbe un gemito smussare il mio filo. |
+| [[characters/ophelia\|OPHELIA]] | Sempre meglio, e peggio. |
+| [[characters/hamlet\|HAMLET]] | Così voi pigliate a torto i mariti. (A Lucianus) Comincia, assassino. Peste, lascia quelle tue facce dannate e comincia. Su: ‘il corvo gracchiante mugge [[concepts/revenge\|vendetta]]’. |
+| ATTORE LUCIANUS | Pensieri neri, mani pronte, droghe adatte, e il [[motifs/time\|tempo]]<br>consenziente,<br>l’ora complice, e nessuna creatura che veda;<br>tu, mistura fetida d’erbe colte a mezzanotte,<br>tre volte appestata, tre volte infetta dalla maledizione d’Ecate,<br>la tua naturale magia e la tua tremenda virtù<br>usurpino all’istante la vita sana.<br>Versa il [[motifs/poison\|veleno]] nell’orecchio del [[archetypes/king\|Re]] attore |
+| [[characters/hamlet\|HAMLET]] | Lo avvelena nel [[motifs/garden\|giardino]] per averne i beni. Il suo nome è Gonzago. La storia esiste, ed è scritta in eletto italiano. Vedrete fra poco come l’assassino conquisti l’[[motifs/love\|amore]] della moglie di Gonzago. |
+| [[characters/ophelia\|OPHELIA]] | Il [[archetypes/king\|Re]] si alza. |
+| [[characters/hamlet\|HAMLET]] | Come, spaventato da un falso [[motifs/fire\|fuoco]]? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | (a [[characters/claudius\|Claudius]]) Come sta il mio signore?<br>POLONIUSInterrompete la recita. |
+| *(didascalia)* | [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] Datemi un lume. Via. CORTIGIANI Lumi, lumi, lumi! |
+| *(didascalia)* | Escono tutti tranne [[characters/hamlet\|Hamlet]] e [[characters/horatio\|Horatio]] |
+| [[characters/hamlet\|HAMLET]] | Su, vada a piangere il cervo ferito,<br>giochi il cervo illeso,<br>ché alcuni devono vegliare, altri [[motifs/sleep\|dormire]],<br>così se ne va il mondo.<br>Non basterebbe questo, signore, e una selva di piume, se il resto<br>delle mie fortune mi si facesse turco, con due rose<br>provenzali sulle scarpe tagliate, a procurarmi una parte in una banda<br>di attori, signore? |
+| [[characters/horatio\|HORATIO]] | Mezza parte. |
+| [[characters/hamlet\|HAMLET]] | Una intera, io.<br>Ché tu ben sai, o caro Damone,<br>questo regno fu spogliato<br>di Giove stesso, e ora vi regna<br>un vero, vero—pavone. |
+| [[characters/horatio\|HORATIO]] | Avreste potuto far rima. |
+| [[characters/hamlet\|HAMLET]] | Oh buon [[characters/horatio\|Horatio]], prenderei la parola dello [[archetypes/ghost\|Spettro]] per mille sterline. Hai notato? |
+| [[characters/horatio\|HORATIO]] | Molto [[motifs/well\|bene]], mio signore. |
+| [[characters/hamlet\|HAMLET]] | Al discorso dell’avvelenamento? |
+| [[characters/horatio\|HORATIO]] | L’ho notato molto [[motifs/well\|bene]]. |
+| *(didascalia)* | Entrano [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[characters/hamlet\|HAMLET]] | Ah ah! Su, un po’ di musica, su, i flauti,<br>ché se al [[archetypes/king\|Re]] non piace la [[forms/comedy\|commedia]],<br>ebbene, forse non gli piace, perbacco.<br>Su, un po’ di musica. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Mio buon signore, degnatevi d’una parola con me. |
+| [[characters/hamlet\|HAMLET]] | Signore, d’un’intera [[concepts/history\|storia]]. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Il [[archetypes/king\|Re]], signore— |
+| [[characters/hamlet\|HAMLET]] | Sì, signore, che c’è di lui? |
+| [[characters/guildenstern\|GUILDENSTERN]] | Si è ritirato ed è mirabilmente sconvolto. |
+| [[characters/hamlet\|HAMLET]] | Dal bere, signore? |
+| [[characters/guildenstern\|GUILDENSTERN]] | No, mio signore, piuttosto dalla collera. |
+| [[characters/hamlet\|HAMLET]] | La vostra saggezza si mostrerebbe assai più ricca se lo significasse al suo medico, ché s’io lo mettessi alla purga, forse lo sprofonderei in assai maggiore collera. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Mio buon signore, date qualche ordine al vostro discorso, e non balzate così selvaggiamente fuori dal mio affare. |
+| [[characters/hamlet\|HAMLET]] | Sono docile, signore. Parlate. |
+| [[characters/guildenstern\|GUILDENSTERN]] | La [[characters/queen\|Regina]] vostra madre, in grandissima afflizione di spirito, mi ha mandato da voi. |
+| [[characters/hamlet\|HAMLET]] | Siate il benvenuto. |
+| [[characters/guildenstern\|GUILDENSTERN]] | No, mio buon signore, questa cortesia non è di buona razza. Se vi piacerà darmi una risposta sana, eseguirò il comando di vostra madre; se no, il vostro perdono e il mio ritorno saranno la fine della mia incombenza. |
+| [[characters/hamlet\|HAMLET]] | Signore, non posso. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Che cosa, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Darvi una risposta sana. Il mio ingegno è malato. Ma, signore, di quelle risposte che posso dare, disponete voi; o piuttosto, come dite, mia madre. Dunque basta, veniamo al fatto. Mia madre, dite? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Ecco dunque che cosa dice: il vostro contegno l’ha gettata in stupore e in meraviglia. |
+| [[characters/hamlet\|HAMLET]] | Oh figlio mirabile, che sa stupire così una madre! Ma non c’è nessun seguito alle calcagna di questa meraviglia materna? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Ella desidera parlarvi nel suo gabinetto prima che andiate a letto. 319 |
+| [[characters/hamlet\|HAMLET]] | Obbediremo, fosse anche dieci volte nostra madre. Avete altri traffici con noi? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Mio signore, un tempo mi [[motifs/love\|amavate]]. |
+| [[characters/hamlet\|HAMLET]] | E ancora vi amo, per queste mani ladre e rapaci. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Mio buon signore, qual è la causa del vostro turbamento? Voi sbarrate di vostra volontà la porta della vostra stessa libertà, se negate i vostri dolori all’amico. |
+| [[characters/hamlet\|HAMLET]] | Signore, mi manca l’avanzamento. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Come può essere, se avete la voce del [[archetypes/king\|Re]] stesso per la vostra successione in [[settings/denmark\|Danimarca]]? |
+| [[characters/hamlet\|HAMLET]] | Sì, ma ‘mentre l’erba cresce...’—il proverbio è alquanto ammuffito. |
+| *(didascalia)* | Entra uno con un flauto |
+| [[characters/hamlet\|HAMLET]] | Oh, il flauto. Fatemi vedere. (A [[characters/rosencrantz\|Rosencrantz]] e<br><br>[[characters/guildenstern\|Guildenstern]], traendoli in disparte) Per parlarvi in disparte,<br>perché andate cercando di prendermi sopra [[motifs/wind\|vento]], come se<br>voleste spingermi in una rete? |
+| [[characters/guildenstern\|GUILDENSTERN]] | Oh mio signore, se il mio dovere è troppo ardito, il mio [[motifs/love\|affetto]] è troppo scortese. |
+| [[characters/hamlet\|HAMLET]] | Non capisco [[motifs/well\|bene]] questo. Volete suonare su questo flauto? |
+| [[characters/guildenstern\|GUILDENSTERN]] | Mio signore, non so. |
+| [[characters/hamlet\|HAMLET]] | Ve ne prego. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Credetemi, non so. |
+| [[characters/hamlet\|HAMLET]] | Ve ne supplico. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Non ne conosco alcun tocco, mio signore. |
+| [[characters/hamlet\|HAMLET]] | È facile come mentire. Governate questi fori con le dita e col pollice, dategli fiato con la bocca, ed esso discorrerà musica eccellentissima. Guardate, questi sono i tasti. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Ma io non so comandarli a esprimere alcuna armonia. Non ne ho l’abilità. |
+| [[characters/hamlet\|HAMLET]] | Ebbene, guardate ora che cosa indegna fate di me! Vorreste suonare su di me, vorreste mostrare di conoscere i miei tasti, vorreste strapparmi il cuore del mio mistero, vorreste sondarmi dalla mia nota più bassa alla cima della mia estensione; e c’è molta musica, voce eccellente in questo piccolo strumento, eppure non sapete farlo parlare. Sangue di Dio, credete che io sia più facile da suonare di un flauto? Chiamatemi pure qual istrumento volete: potrete anche irritarmi, ma non suonarmi. |
+| *(didascalia)* | Entra [[characters/polonius\|Polonius]] |
+| [[characters/hamlet\|HAMLET]] | Dio vi benedica, signore. |
+| [[characters/polonius\|POLONIUS]] | Mio signore, la [[characters/queen\|Regina]] vorrebbe parlarvi, e subito. |
+| [[characters/hamlet\|HAMLET]] | Vedete laggiù quella nuvola che ha quasi forma di cammello? |
+| [[characters/polonius\|POLONIUS]] | Per la messa, ed è così: proprio come un cammello. |
+| [[characters/hamlet\|HAMLET]] | Mi pare che somigli a una donnola. |
+| [[characters/polonius\|POLONIUS]] | Ha il dorso di una donnola. |
+| [[characters/hamlet\|HAMLET]] | Oppure a una balena. |
+| [[characters/polonius\|POLONIUS]] | Proprio come una balena. |
+| [[characters/hamlet\|HAMLET]] | Allora andrò da mia madre fra poco. (A parte) Mi [[archetypes/fool\|burlano]] fin dove giunge la mia pazienza. (A [[characters/polonius\|Polonius]]) Verrò fra poco. |
+| [[characters/polonius\|POLONIUS]] | Così dirò. |
+| [[characters/hamlet\|HAMLET]] | ‘Fra poco’ è presto detto. Esce [[characters/polonius\|Polonius]]<br>Lasciatemi, amici. |
+| *(didascalia)* | Escono [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[characters/hamlet\|HAMLET]] | È ora la vera [[motifs/time\|ora]] stregata della [[motifs/night\|notte]],<br>quando i cimiteri sbadigliano e l’inferno stesso esala<br>contagio a questo mondo. Ora potrei bere [[motifs/blood\|sangue]] caldo<br>e compiere azioni così amare che il giorno<br>tremerebbe a guardarle. Piano, ora da mia madre.<br>O cuore, non perdere la tua [[concepts/nature\|natura]]! Mai l’[[motifs/soul\|anima]]<br>di Nerone entri in questo saldo petto.<br>Ch’io sia crudele, non snaturato.<br>Le parlerò con pugnali, ma non ne userò alcuno.<br>La mia lingua e la mia [[motifs/soul\|anima]] siano in ciò ipocrite:<br>per quanto ella sia dalle mie parole svergognata,<br>a suggellarle mai la mia [[motifs/soul\|anima]] consenta. Esce |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il [[archetypes/king\|re]] [[characters/claudius\|Claudius]], [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non mi piace, né è sicuro per noi<br>lasciar vagare la sua [[concepts/madness\|follia]]. Perciò preparatevi.<br>Farò subito spedire il vostro mandato,<br>ed egli partirà per l’Inghilterra con voi.<br>Le condizioni del nostro stato non possono tollerare<br>un rischio così pericoloso come quello che d’ora in ora cresce<br>dalle sue lunatiche stranezze. |
+| [[characters/guildenstern\|GUILDENSTERN]] | Ci prepareremo noi stessi.<br>È santissimo e religioso [[concepts/fear\|timore]]<br>tenere al sicuro quei molti, molti corpi<br>che vivono e si nutrono della vostra maestà. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | La vita singola e privata è tenuta<br>con tutta la forza e l’armatura della mente<br>a difendersi dal danno; ma assai più<br>quello spirito dal cui bene dipende e riposa<br>la vita di molti. Il cessare della maestà |
+| *(didascalia)* | Non muore sola, ma come un gorgo trascina |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | con sé quanto le è vicino. È una massiccia [[motifs/wheel\|ruota]]<br>fissata sulla cima del monte più alto,<br>ai cui enormi raggi diecimila cose minori<br>sono incastrate e congiunte; e quando essa cade,<br>ogni piccolo annesso, ogni minima conseguenza<br>accompagna la fragorosa rovina. Mai solo<br>il [[archetypes/king\|re]] sospirò, ma con un gemito universale. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Armatevi, vi prego, per questo rapido viaggio,<br>ché noi porremo i ceppi a questo [[concepts/fear\|timore]]<br>che ora va con piede troppo libero. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | e [[characters/guildenstern\|GUILDENSTERN]]<br>Ci affretteremo. |
+| *(didascalia)* | Escono entrambi |
+| *(didascalia)* | Entra [[characters/polonius\|Polonius]] |
+| [[characters/polonius\|POLONIUS]] | Mio signore, sta andando nel gabinetto di sua madre.<br>Dietro l’arazzo mi nasconderò<br>per udire il colloquio. Vi garantisco che lo rimprovererà a [[motifs/home\|fondo]].<br>E, come diceste—e saggiamente fu detto—<br>è opportuno che qualche altro uditore oltre una madre,<br>giacché la [[concepts/nature\|natura]] le rende parziali, ascolti di nascosto<br>il discorso, per averne vantaggio. State [[motifs/well\|bene]], mio sovrano.<br>Verrò da voi prima che andiate a letto,<br>e vi dirò quel che so. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Grazie, mio caro signore. |
+| *(didascalia)* | Esce [[characters/polonius\|Polonius]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, la mia colpa è fetida! Puzza fino al cielo.<br>Porta su di sé la prima, la più antica maledizione,<br>l’assassinio d’un fratello. Pregare non posso.<br>Benché l’inclinazione sia acuta quanto la volontà,<br>la mia più forte [[concepts/guilt\|colpa]] sconfigge il mio forte intento,<br>e come un uomo obbligato a [[topoi/double\|duplice]] impresa<br>resto sospeso su quale cominciare per primo,<br>e trascuro entrambe. E se questa mano maledetta<br>fosse più spessa di sé del [[motifs/blood\|sangue]] fraterno,<br>non c’è pioggia bastante nei dolci cieli<br>a lavarla bianca come [[motifs/snow\|neve]]? A che serve la [[concepts/mercy\|misericordia]]<br>se non ad affrontare il volto dell’offesa?<br>E che c’è nella [[motifs/prayer\|preghiera]] se non questa duplice forza,<br>d’esser prevenuti prima di cadere,<br>o perdonati una volta caduti? Dunque leverò lo sguardo.<br>La mia colpa è passata—ma oh, quale forma di [[motifs/prayer\|preghiera]]<br>può giovare al mio caso? ‘Perdonami il mio turpe assassinio’?<br>Non può essere, poiché ancora possiedo<br>quegli effetti per cui commisi l’assassinio—<br>la mia [[motifs/crown\|corona]], la mia stessa [[concepts/ambition\|ambizione]], e la mia [[characters/queen\|regina]].<br>Si può essere perdonati e ritenere l’offesa?<br>Nelle correnti corrotte di questo mondo<br>la mano indorata dell’offesa può spingere via la giustizia,<br>e spesso si vede che il malvagio premio medesimo<br>compra la legge. Ma non è così lassù.<br>Là non c’è imbroglio, là l’azione appare<br>nella sua vera [[concepts/nature\|natura]], e noi stessi siamo costretti,<br>fin contro i denti e la fronte delle nostre colpe,<br>a deporre. Che dunque? Che resta?<br>Prova quel che può il pentimento. Che cosa non può?<br>Eppure che può, quando non ci si può pentire?<br>Oh misero stato, oh petto nero come la [[motifs/death\|morte]],<br>oh [[motifs/soul\|anima]] invischiata che, lottando per liberarsi,<br>più s’impania! Aiuto, angeli! Fate una prova.<br>Piegatevi, ginocchia ostinate; e tu, cuore dalle corde d’acciaio,<br>fatti tenero come i nervi d’un bimbo appena nato.<br>Tutto può andar [[motifs/well\|bene]].<br>S’inginocchia. |
+| *(didascalia)* | Entra il principe [[characters/hamlet\|Hamlet]] dietro di lui |
+| [[characters/hamlet\|HAMLET]] | Ora potrei farlo comodamente, ora che sta pregando,<br>e ora lo farò, |
+| *(didascalia)* | Sguaina la spada |
+| [[characters/hamlet\|HAMLET]] | e così egli va in cielo,<br>e così io sono vendicato. Questo andrebbe esaminato.<br>Un [[archetypes/villain\|malvagio]] uccide mio padre, e per questo<br>io, suo unico figlio, mando questo stesso [[archetypes/villain\|malvagio]]<br>in cielo.<br>Oh, questa è mercede e salario, non [[concepts/revenge\|vendetta]]!<br>Egli colse mio padre grossolanamente, sazio di pane,<br>con tutte le sue colpe in pieno rigoglio, floride come maggio;<br>e come stia il suo rendiconto, chi lo sa se non il cielo?<br>Ma secondo la nostra condizione e il corso del nostro pensiero<br>è greve per lui. E sarei dunque vendicato<br>cogliendolo nella purgazione della sua [[motifs/soul\|anima]],<br>quando è pronto e stagionato per il suo passaggio?<br>No.<br>Rinfodera la spada<br>Su, spada, e conosci tu un’occasione più orrenda.<br>Quando dorme ubriaco, o è in preda all’ira,<br>o nell’incestuoso piacere del suo letto,<br>al gioco, alla bestemmia, o intento a qualche atto<br>che non abbia in sé sapore di salvezza,<br>allora fallo inciampare, sì che i suoi calcagni scalcino verso il cielo,<br>e la sua [[motifs/soul\|anima]] sia dannata e nera<br>come l’inferno dove va. Mia madre attende.<br>Questa medicina non fa che prolungare i tuoi giorni malati. |
+| *(didascalia)* | Esce |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Le mie parole volano in alto, i miei pensieri restano quaggiù.<br>Parole senza pensieri non giungono mai al cielo. |
+| *(didascalia)* | Esce |
+
+### Atto 3, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano la [[characters/queen\|Regina]] [[characters/gertrude\|Gertrude]] e [[characters/polonius\|Polonius]] |
+| [[characters/polonius\|POLONIUS]] | Verrà subito. Badate di colpirlo a [[motifs/home\|fondo]].<br>Ditegli che le sue stravaganze sono state troppo grosse da sopportare,<br>e che vostra grazia ha fatto schermo e s’è frapposta<br>fra molta collera e lui. Io mi farò [[motifs/silence\|silenzio]] qui stesso.<br>Vi prego, siate schietta con lui. |
+| [[characters/hamlet\|HAMLET]] | (da dentro) Madre, madre, madre! |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ve ne rispondo. Non abbiate [[concepts/fear\|timore]] di me. Ritiratevi; lo sento<br>venire.<br>[[characters/polonius\|Polonius]] si nasconde dietro l’arazzo. |
+| *(didascalia)* | Entra il Principe [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Ebbene, madre, di che si tratta? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | [[characters/hamlet\|Hamlet]], tu hai molto offeso tuo padre. |
+| [[characters/hamlet\|HAMLET]] | Madre, voi avete molto offeso mio padre. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Suvvia, suvvia, tu rispondi con lingua oziosa. |
+| [[characters/hamlet\|HAMLET]] | Andiamo, andiamo, voi interrogate con lingua malvagia. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ma come, [[characters/hamlet\|Hamlet]]? |
+| [[characters/hamlet\|HAMLET]] | Che c’è ora? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ti sei scordato di me? |
+| [[characters/hamlet\|HAMLET]] | No, per la santa croce, non è così.<br>Voi siete la [[characters/queen\|Regina]], moglie del fratello di vostro marito. E—così non foste—siete mia madre. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | E allora ti manderò contro chi sappia parlare. |
+| [[characters/hamlet\|HAMLET]] | Venite, venite, e sedetevi. Non vi moverete.<br>Non andrete via finché non v’avrò posto uno specchio<br>dove possiate vedere la parte più intima di voi. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Che vuoi fare? Non vorrai assassinarmi?<br>Aiuto, aiuto, olà! |
+| [[characters/polonius\|POLONIUS]] | (dietro l’arazzo) Olà! Aiuto, aiuto, aiuto! |
+| [[characters/hamlet\|HAMLET]] | Come, un topo? Morto per un ducato, morto.<br>Trafigge l’arazzo con la spada |
+| [[characters/polonius\|POLONIUS]] | Oh, sono ucciso! |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | (a [[characters/hamlet\|Hamlet]]) Oh me, che cosa hai fatto? |
+| [[characters/hamlet\|HAMLET]] | Non so. È il [[archetypes/king\|Re]]? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Oh, che atto avventato e sanguinoso è questo! |
+| [[characters/hamlet\|HAMLET]] | Un atto sanguinoso—quasi tanto malvagio, buona madre,<br>quanto uccidere un [[archetypes/king\|re]] e sposarne il fratello. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Uccidere un [[archetypes/king\|re]]? |
+| [[characters/hamlet\|HAMLET]] | Sì, signora, questa fu la mia parola.<br>(A [[characters/polonius\|Polonius]]) Tu, misero, avventato, intrigante [[archetypes/fool\|sciocco]],<br>addio.<br>Ti presi per uno da più di te. Prenditi la tua sorte.<br>Vedi che l’esser troppo faccendiere ha i suoi pericoli.—<br>Smettete di torcervi le mani. Calma, sedetevi,<br>e lasciate ch’io vi torca il cuore; e lo farò<br>se è fatto di materia penetrabile,<br>se la dannata abitudine non l’ha così corazzato di bronzo<br>da renderlo scudo e bastione contro il sentire. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Che cosa ho fatto, che tu osi agitar la lingua<br>in così rozzo strepito contro di me? |
+| [[characters/hamlet\|HAMLET]] | Un atto tale<br>che offusca la grazia e il rossore del pudore,<br>chiama ipocrita la virtù, toglie la [[motifs/rose\|rosa]]<br>dalla bella fronte d’un [[motifs/love\|amore]] [[archetypes/innocent\|innocente]]<br>e vi pone un marchio, fa dei voti di [[motifs/marriage\|nozze]]<br>cosa falsa come i giuramenti dei giocatori—oh, un atto tale<br>che dal [[concepts/body\|corpo]] del patto nuziale strappa<br>l’[[motifs/soul\|anima]] stessa, e della dolce religione fa<br>una rapsodia di parole. Il volto del cielo avvampa,<br>sì, questa solida e composita mole<br>con viso mesto, come innanzi al giudizio,<br>è malata di pensiero per quell’atto. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, quale atto,<br>che ruggisce sì forte e tuona già nell’indice? |
+| [[characters/hamlet\|HAMLET]] | Guardate qui questo ritratto, e quest’altro,<br>l’effigie dipinta di due fratelli.<br>Vedete che grazia sedeva su questa fronte—<br>i riccioli d’[[characters/hyperion\|Hyperion]], la fronte di Giove stesso,<br>un occhio come Marte, per minacciare o comandare,<br>un portamento come l’araldo Mercurio<br>appena posato su un [[motifs/hill\|colle]] che bacia il cielo;<br>un insieme e una forma, in verità,<br>in cui ogni dio pareva aver posto il suo sigillo<br>per dare al mondo la garanzia d’un uomo.<br>Questo era vostro marito. Guardate ora ciò che segue.<br>Ecco vostro marito, come una spiga ammuffita<br>che infetta il fratello sano. Avete occhi?<br>Poteste cessare di pascere su questa bella montagna,<br>e ingrassare su questa brughiera? Ah, avete occhi?<br>Non potete chiamarlo [[motifs/love\|amore]], ché alla vostra età<br>il rigoglio del [[motifs/blood\|sangue]] è domo, è umile,<br>e serve il giudizio; e quale giudizio<br>passerebbe da questo a questo? Qual diavolo fu<br>che così vi gabbò a mosca cieca?<br>O vergogna, dov’è il tuo rossore? Inferno ribelle,<br>se puoi ammutinarti nelle ossa d’una matrona,<br>sia per l’ardente giovinezza la virtù come cera<br>e si sciolga nel proprio [[motifs/fire\|fuoco]]. Non si gridi vergogna<br>quando l’ardore che costringe dà l’assalto,<br>poiché il [[motifs/frost\|gelo]] stesso brucia con pari vigore,<br>e la ragione fa da ruffiana al volere. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | O [[characters/hamlet\|Hamlet]], non dire di più!<br>Tu volgi i miei occhi dentro l’[[motifs/soul\|anima]] mia,<br>e là vedo macchie così nere e incarnate<br>che non lasceranno il loro colore. |
+| [[characters/hamlet\|HAMLET]] | Sì, ma vivere<br>nel sudore fetido d’un letto ingrassato,<br>stufati nella corruzione, a mieleggiare e far l’[[motifs/love\|amore]]<br>sopra quel lercio porcile— |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Oh, non parlarmi più!<br>Queste parole entrano come pugnali nelle mie orecchie.<br>Basta, dolce [[characters/hamlet\|Hamlet]]. |
+| [[characters/hamlet\|HAMLET]] | Un assassino e uno [[archetypes/villain\|scellerato]],<br>uno schiavo che non è la ventesima parte della decima<br>del vostro signore precedente, un buffone di re,<br>un tagliaborse dell’impero e del potere,<br>che da una mensola rubò il prezioso diadema<br>e se lo mise in tasca— |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Basta. |
+| [[characters/hamlet\|HAMLET]] | Un [[archetypes/king\|re]] di cenci e di toppe— |
+| *(didascalia)* | Entra lo [[archetypes/ghost\|Spettro]] in veste da notte |
+| [[characters/hamlet\|HAMLET]] | Salvatemi e libratevi su di me con le vostre ali,<br>o guardie celesti! (Allo [[archetypes/ghost\|Spettro]]) Che volete,<br>graziosa figura? 95 |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, è pazzo. |
+| [[characters/hamlet\|HAMLET]] | (allo [[archetypes/ghost\|Spettro]])<br>Non venite a rimproverare il vostro tardo figlio,<br>che, mancando di [[motifs/time\|tempo]] e di passione, lascia passare<br>l’importante esecuzione del vostro terribile comando?<br>Oh, parlate! |
+| [[archetypes/ghost\|SPETTRO]] | Non dimenticare. Questa visita<br>non è che per affilare il tuo proposito quasi spuntato.<br>Ma guarda, lo sgomento siede su tua madre.<br>Oh, frapponiti fra lei e la sua [[motifs/soul\|anima]] in lotta.<br>L’immaginazione opera più forte nei corpi più deboli.<br>Parlale, [[characters/hamlet\|Hamlet]]. |
+| [[characters/hamlet\|HAMLET]] | Come state, signora? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, come stai tu,<br>che pieghi lo sguardo sul vuoto,<br>e con l’aria incorporea tieni discorso?<br>Fuori dai tuoi occhi i tuoi spiriti guardano selvaggi,<br>e, come i soldati addormentati all’allarme,<br>i tuoi capelli distesi, come vita in ciò che vita non ha,<br>balzano su e si rizzano. O gentile figlio,<br>sul calore e sulla fiamma del tuo turbamento<br>spargi la fresca pazienza! Che cosa guardi? |
+| [[characters/hamlet\|HAMLET]] | Lui, lui. Guardate come fissa, pallido.<br>La sua forma e la sua causa unite, predicando alle pietre,<br>le renderebbero capaci di sentire. (Allo [[archetypes/ghost\|Spettro]]) Non guardare<br>verso di me,<br>ché con quest’atto pietoso potresti mutare<br>i miei severi propositi. Allora ciò che devo fare<br>mancherà del vero colore—[[motifs/tears\|lacrime]] forse invece di [[motifs/blood\|sangue]]. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | A chi lo dici questo? |
+| [[characters/hamlet\|HAMLET]] | Non vedete nulla là? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Nulla affatto, eppure vedo tutto quello che c’è. |
+| [[characters/hamlet\|HAMLET]] | E non avete udito nulla? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | No, nulla se non noi stessi. |
+| [[characters/hamlet\|HAMLET]] | Ma guardate là. Guardate come se ne va furtivo.<br>Mio padre, nella veste che portava in vita.<br>Guardate, proprio ora esce dal portale. |
+| *(didascalia)* | Esce lo [[archetypes/ghost\|Spettro]] |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Questa è pura moneta coniata dal tuo cervello.<br>Di queste creazioni senza corpo il delirio<br>è assai maestro. |
+| [[characters/hamlet\|HAMLET]] | Delirio?<br>Il mio polso come il vostro batte temperato il [[motifs/time\|tempo]],<br>e fa musica altrettanto sana. Non è [[concepts/madness\|follia]]<br>ciò che ho detto. Mettetemi alla prova,<br>e ripeterò la cosa parola per parola, dal che la [[concepts/madness\|follia]]<br>salterebbe via. Madre, per [[motifs/love\|amor]] della grazia<br>non stendete un lusinghiero unguento sulla vostra [[motifs/soul\|anima]]<br>che non sia la vostra colpa ma la mia [[concepts/madness\|follia]] a parlare.<br>Non farà che coprire d’una pelle il luogo ulceroso<br>mentre la fetida corruzione, scavando tutto di dentro,<br>infetta invisibile. Confessatevi al cielo;<br>pentitevi del passato, evitate ciò che deve venire,<br>e non spargete il concime sulle erbacce<br>per farle crescere più rigogliose. Perdonatemi questa mia virtù,<br>ché nella pinguedine di questi tempi ansimanti<br>la virtù stessa deve chiedere perdono al vizio,<br>sì, inchinarsi e supplicare il permesso di fargli del bene. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | O [[characters/hamlet\|Hamlet]], mi hai spaccato il cuore in due! |
+| [[characters/hamlet\|HAMLET]] | Oh, gettatene via la parte peggiore,<br>e vivete più pura con l’altra metà!<br>Buona [[motifs/night\|notte]]—ma non andate al letto di mio zio.<br>Assumete una virtù se non l’avete.<br>Astenetevi stanotte,<br>e ciò darà una certa facilità<br>alla prossima astinenza. Ancora una volta, buona [[motifs/night\|notte]];<br>e quando desidererete d’essere benedetta,<br>vi chiederò io la benedizione. Quanto a questo signore,<br>me ne pento. Ma al cielo è piaciuto così,<br>punire me con lui, e lui con me,<br>ch’io debba essere il suo flagello e il suo ministro.<br>Lo porterò via, e risponderò [[motifs/well\|bene]]<br>della [[motifs/death\|morte]] che gli ho dato. E dunque, ancora, buona [[motifs/night\|notte]].<br>Devo essere crudele solo per essere pietoso.<br>Così il male comincia, e il peggio resta ancora dietro. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Che devo fare? |
+| [[characters/hamlet\|HAMLET]] | Non questo, in nessun modo, che ora vi dico di fare:<br>lasciare che il [[archetypes/king\|Re]] gonfio vi tenti di nuovo a letto,<br>vi pizzichi lascivo la guancia, vi chiami il suo topolino,<br>e lasciare che, per un paio di baci untuosi,<br>o palpandovi il collo con le sue dannate dita,<br>vi faccia sbrogliare tutta questa faccenda,<br>e cioè che io in sostanza non sono in [[concepts/madness\|follia]],<br>ma pazzo per astuzia. Sarebbe bene che glielo faceste sapere,<br>ché chi, essendo solo una [[characters/queen\|regina]], bella, sobria, saggia,<br>vorrebbe a un rospo, a un pipistrello, a un gattaccio,<br>nascondere cose sì care? Chi lo farebbe?<br>No, a dispetto del senno e del segreto,<br>aprite la cesta in cima alla casa,<br>lasciate volare gli [[motifs/birds\|uccelli]], e, come la famosa scimmia,<br>per provar l’esperimento entrate nella cesta,<br>e cadendo rompetevi il collo. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Sii certo che, se le parole son fatte di fiato,<br>e il fiato di vita, io non ho vita per respirare<br>ciò che tu m’hai detto. |
+| [[characters/hamlet\|HAMLET]] | Devo andare in Inghilterra.<br>Lo sapete? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, l’avevo scordato.<br>Così è stato deciso. |
+| [[characters/hamlet\|HAMLET]] | Quest’uomo mi farà far fagotto.<br>Trascinerò queste budella nella stanza accanto.<br>Madre, buona [[motifs/night\|notte]] davvero. Questo consigliere<br>è ora quanto mai quieto, quanto mai segreto e quanto mai [[motifs/grave\|grave]],<br>lui che in vita fu uno sciocco furfante chiacchierone.—<br>Venite, signore, per farla finita con voi.—<br>Buona [[motifs/night\|notte]], madre. Esce, trascinando [[characters/polonius\|Polonius]] |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il [[archetypes/king\|re]] [[characters/claudius\|Claudius]] presso la [[characters/queen\|regina]] [[characters/gertrude\|Gertrude]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | C’è sostanza in questi sospiri, in questi profondi singulti;<br>dovete tradurli. È giusto che li comprendiamo.<br>Dov’è vostro figlio? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ah, mio buon signore, che cosa ho veduto questa notte! |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Che c’è, [[characters/gertrude\|Gertrude]]? Come sta [[characters/hamlet\|Hamlet]]? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Folle come il mare e il [[motifs/wind\|vento]] quando entrambi contendono<br>chi sia il più forte. Nel suo accesso sfrenato,<br>udendo qualcosa muoversi dietro l’arazzo,<br>sguaina lo stocco e grida ‘Un topo, un topo!’,<br>e nella sua stravolta immaginazione uccide<br>l’invisibile, buon vecchio. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, atto grave!<br>Così sarebbe stato di noi, se ci fossimo trovati là.<br>La sua libertà è piena di minacce per tutti—<br>per voi stessa, per noi, per ognuno.<br>Ahimè, come si risponderà di questo atto sanguinoso?<br>Sarà addossato a noi, la cui [[concepts/providence\|provvidenza]]<br>avrebbe dovuto tener corto, frenato e fuori dal consorzio<br>questo giovane folle. Ma tanto fu il nostro [[motifs/love\|amore]],<br>che non volemmo intendere ciò che più conveniva,<br>ma, come chi è colpito da un morbo immondo,<br>per impedirne la divulgazione, lo lasciammo pascersi<br>perfino del midollo della vita. Dov’è andato? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | A trarre in disparte il [[concepts/body\|corpo]] che ha ucciso,<br>sul quale—la sua stessa [[concepts/madness\|follia]], come una vena d’oro<br>in un filone di metalli vili,<br>si mostra pura—egli piange per ciò che è compiuto. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh [[characters/gertrude\|Gertrude]], vieni via!<br>Non appena il sole avrà toccato le [[settings/mountains\|montagne]]<br>lo [[motifs/ship\|imbarcheremo]] via di qui; e questo vile atto<br>dobbiamo con tutta la nostra maestà e destrezza<br>insieme avallare e scusare.—Olà, Guildenstern! |
+| *(didascalia)* | Entrano [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Amici entrambi, andate e unitevi a qualche altro aiuto.<br>[[characters/hamlet\|Hamlet]] nella [[concepts/madness\|follia]] ha ucciso [[characters/polonius\|Polonius]],<br>e l’ha trascinato fuori dal gabinetto di sua madre.<br>Andate a cercarlo, parlategli con garbo, e portate il [[concepts/body\|corpo]]<br>nella cappella. Vi prego, fate presto in questo. |
+| *(didascalia)* | Escono [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Venite, [[characters/gertrude\|Gertrude]], chiameremo i nostri amici più saggi<br>per far loro sapere sia ciò che intendiamo fare<br>sia ciò che è stato compiuto intempestivamente. Oh, andiamo via!<br>La mia [[motifs/soul\|anima]] è piena di discordia e sgomento. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il principe [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Al sicuro, riposto. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | e [[characters/guildenstern\|GUILDENSTERN]] (da dentro)<br>[[characters/hamlet\|Hamlet]], messer [[characters/hamlet\|Hamlet]]! |
+| [[characters/hamlet\|HAMLET]] | Che fracasso? Chi chiama [[characters/hamlet\|Hamlet]]? |
+| *(didascalia)* | Entrano [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] |
+| [[characters/hamlet\|HAMLET]] | Oh, eccoli che vengono. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Che ne avete fatto, mio signore, del [[concepts/body\|corpo]] morto? |
+| [[characters/hamlet\|HAMLET]] | L’ho mescolato con la [[motifs/dust\|polvere]], cui è congiunto per parentela. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Diteci dov’è, che possiamo toglierlo di là<br>e portarlo alla cappella. |
+| [[characters/hamlet\|HAMLET]] | Non crederci. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Non credere a che cosa? |
+| [[characters/hamlet\|HAMLET]] | Che io sappia custodire i vostri segreti e non i miei. Del resto, essere interrogato da una spugna—quale replica dovrebbe darle il figlio d’un [[archetypes/king\|re]]? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Mi prendete per una spugna, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Sì, signore, una che succhia il favore del [[archetypes/king\|re]], le sue ricompense, le sue autorità. Ma tali funzionari rendono al [[archetypes/king\|re]] il miglior servizio alla fine. Li tiene, come una scimmia tiene una mela nell’angolo della guancia: masticata per prima, inghiottita per ultima. Quando gli occorrerà ciò che avete spigolato, gli basterà spremervi, e voi, spugna, tornerete a esser secchi. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Non vi comprendo, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Me ne rallegro. Un discorso furbo dorme in un orecchio sciocco. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Mio signore, dovete dirci dov’è il [[concepts/body\|corpo]], e venire con noi dal [[archetypes/king\|re]]. |
+| [[characters/hamlet\|HAMLET]] | Il [[concepts/body\|corpo]] è con il [[archetypes/king\|re]], ma il [[archetypes/king\|re]] non è con il [[concepts/body\|corpo]]. Il [[archetypes/king\|re]] è una cosa— |
+| [[characters/guildenstern\|GUILDENSTERN]] | Una cosa, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Da nulla. Portatemi da lui. Nasconditi, volpe, e tutti dietro. |
+| *(didascalia)* | Esce correndo, inseguito dagli altri |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il [[archetypes/king\|re]] [[characters/claudius\|Claudius]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ho mandato a cercarlo, e a trovare il [[concepts/body\|corpo]].<br>Quanto è pericoloso che quest’uomo vada libero!<br>Eppure non dobbiamo applicargli il rigore della legge.<br>È amato dalla moltitudine stravolta,<br>che ama non col giudizio ma con gli occhi,<br>e dove è così, si pesa il castigo dell’offensore,<br>mai l’offesa. Perché tutto proceda liscio e pari,<br>questo improvviso allontanarlo dovrà sembrare<br>una decisione ponderata. I mali fattisi disperati<br>si alleviano con rimedi disperati,<br>o non si alleviano affatto. |
+| *(didascalia)* | Entra [[characters/rosencrantz\|Rosencrantz]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ebbene, che è accaduto? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Dove sia riposto il [[concepts/body\|corpo]] morto, mio signore,<br>non riusciamo a cavarglielo di bocca. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ma dov’è lui? |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Fuori, mio signore, sorvegliato, in attesa del vostro volere. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Conducetelo al nostro cospetto. |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Olà, [[characters/guildenstern\|Guildenstern]]! Fate entrare il mio signore. |
+| *(didascalia)* | Entrano il principe [[characters/hamlet\|Hamlet]] e [[characters/guildenstern\|Guildenstern]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Dunque, [[characters/hamlet\|Hamlet]], dov’è [[characters/polonius\|Polonius]]? |
+| [[characters/hamlet\|HAMLET]] | A cena. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | A cena? Dove? |
+| [[characters/hamlet\|HAMLET]] | Non dove mangia lui, ma dove è mangiato. Una certa assemblea di vermi politici è proprio addosso a lui. Il verme è il solo imperatore in fatto di dieta. Noi ingrassiamo tutte le altre creature per ingrassare noi, e ingrassiamo noi stessi per i vermi. Il vostro grasso [[archetypes/king\|re]] e il vostro magro pezzente non sono che portate diverse—due piatti, ma per una sola tavola. Questa è la fine. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ahimè, ahimè! |
+| [[characters/hamlet\|HAMLET]] | Si può pescare col verme che ha mangiato d’un [[archetypes/king\|re]], e mangiare il pesce che si è nutrito di quel verme. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Che intendi dire con questo? |
+| [[characters/hamlet\|HAMLET]] | Nulla, se non mostrarvi come un [[archetypes/king\|re]] possa fare un viaggio regale attraverso le budella d’un pezzente. 31 |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Dov’è [[characters/polonius\|Polonius]]? |
+| [[characters/hamlet\|HAMLET]] | In cielo. Mandate lassù a vedere. Se il vostro messaggero non lo trova là, cercatelo voi stesso nell’altro luogo. Ma in verità, se non lo trovate entro questo mese, lo fiuterete salendo le scale verso la loggia. 36 |
+| *(didascalia)* | [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] a [[characters/rosencrantz\|Rosencrantz]] Andate a cercarlo là. |
+| *(didascalia)* | [[characters/hamlet\|HAMLET]] a [[characters/rosencrantz\|Rosencrantz]] Aspetterà finché tornate. |
+| *(didascalia)* | Esce [[characters/rosencrantz\|Rosencrantz]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[characters/hamlet\|Hamlet]], questo tuo atto, per la tua speciale sicurezza—<br>che ci sta a cuore quanto amaramente ci duole<br>ciò che hai compiuto—deve mandarti via di qui<br>con ignea prestezza. Perciò preparati.<br>La nave è pronta, e il [[motifs/wind\|vento]] favorevole,<br>i compagni t’attendono, e tutto è disposto<br>per l’Inghilterra. |
+| [[characters/hamlet\|HAMLET]] | Per l’Inghilterra? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Sì, [[characters/hamlet\|Hamlet]]. |
+| [[characters/hamlet\|HAMLET]] | Bene. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Lo è, se tu conoscessi i nostri propositi. |
+| [[characters/hamlet\|HAMLET]] | Vedo un cherubino che li vede. Ma andiamo, per<br>l’Inghilterra. Addio, cara madre. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Il tuo amoroso padre, [[characters/hamlet\|Hamlet]]. |
+| [[characters/hamlet\|HAMLET]] | Mia madre. Padre e madre sono marito e moglie, marito e moglie sono una sola carne, e dunque mia madre. Andiamo, per l’Inghilterra. Esce |
+| *(didascalia)* | [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] a [[characters/guildenstern\|Guildenstern]] |
+| [[characters/hamlet\|HAMLET]] | Seguitelo passo passo. Sospingetelo con [[characters/speed\|prestezza]] a bordo. 56<br>Non indugiate. Voglio che parta stanotte.<br>Via, ché tutto è sigillato e compiuto<br>quanto altro attiene all’affare. Vi prego, fate presto. |
+| *(didascalia)* | Esce [[characters/guildenstern\|Guildenstern]] |
+| [[characters/hamlet\|HAMLET]] | E tu, Inghilterra, se il mio [[motifs/love\|amore]] tieni in qualche conto—<br>come la mia grande potenza può fartene accorta,<br>giacché la tua cicatrice appare ancora viva e rossa<br>dopo la spada danese, e il tuo libero timore<br>ci rende omaggio—non porrai in freddo<br>il nostro sovrano decreto, che pienamente comporta,<br>con lettere che a tale effetto scongiurano,<br>l’immediata [[motifs/death\|morte]] di [[characters/hamlet\|Hamlet]]. Fallo, Inghilterra,<br>ché come la febbre etica nel mio [[motifs/blood\|sangue]] egli infuria,<br>e tu devi guarirmi. Finché non so che è compiuto,<br>qualunque sia la mia sorte, le mie gioie non son mai cominciate. |
+| *(didascalia)* | Esce |
+
+### Atto 4, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Fortinbras con un esercito attraversando la scena |
+| FORTINBRAS | Andate, capitano, e salutate da parte mia il [[archetypes/king\|re]] di Danimarca.<br>Ditegli che, col suo permesso, Fortinbras<br>reclama il transito d’una marcia promessa<br>attraverso il suo regno. Conoscete il luogo del convegno.<br>Se sua maestà volesse alcunché da noi,<br>gli esprimeremo il nostro dovere al suo cospetto,<br>e così glielo faremo sapere. |
+| CAPITANO | Lo farò, mio signore. |
+| *(didascalia)* | Esce |
+| FORTINBRAS | Procedete sicuri. |
+| *(didascalia)* | Escono marciando |
+
+### Atto 4, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano la [[characters/queen\|Regina]] [[characters/gertrude\|Gertrude]] e [[characters/horatio\|Horatio]] |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Non voglio parlarle. |
+| [[characters/horatio\|HORATIO]] | È importuna,<br>e invero stravolta. Il suo stato muove a pietà. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Che cosa vuole? |
+| [[characters/horatio\|HORATIO]] | Molto parla di suo padre, dice d’aver sentito<br>che vi son inganni al mondo, e fa hm, e si batte<br>il petto,<br>s’adira per un fuscello, dice cose in [[concepts/doubt\|dubbio]]<br>che han solo mezzo senso. Il suo dire è nulla,<br>eppure quell’uso informe di esso muove<br>chi ascolta a raccoglierne un senso. Vi mirano,<br>e rattoppano le parole a misura dei propri pensieri,<br>le quali, come i suoi cenni e i suoi gesti le porgono,<br>farebbero in verità pensare che vi sia da pensare,<br>nulla di certo, eppur molto, e assai infelicemente. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Sarebbe bene parlarle, ché può spargere<br>pericolose congetture in menti malnate.<br>Fatela entrare. |
+| *(didascalia)* | [[characters/horatio\|Horatio]] si ritira per far entrare [[characters/ophelia\|Ophelia]] |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Alla mia [[motifs/soul\|anima]] inferma, com’è vera [[concepts/nature\|natura]] del peccato,<br>ogni inezia par prologo a qualche gran sciagura.<br>Tanto è piena d’inetto [[concepts/jealousy\|sospetto]] la [[concepts/guilt\|colpa]],<br>che si versa da sé nel temere d’esser versata. |
+| *(didascalia)* | Entra [[characters/ophelia\|Ophelia]] pazza, coi capelli sciolti, con un liuto |
+| [[characters/ophelia\|OPHELIA]] | Dov’è la bella maestà di [[settings/denmark\|Danimarca]]? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ebbene, [[characters/ophelia\|Ophelia]]? |
+| [[characters/ophelia\|OPHELIA]] | (canta)<br>Come dal vostro vero [[motifs/love\|amore]]<br>saprò distinguere un altro?—<br>Dal cappello a conchiglie e dal bordone,<br>e dai sandali ai piedi. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, dolce signora, che significa questo canto? |
+| [[characters/ophelia\|OPHELIA]] | Dite? No, vi prego, ascoltate. (Canta)<br>È morto e andato, signora,<br>è morto e andato.<br>Al capo una zolla verde d’erba,<br>ai piedi una pietra. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ma no, [[characters/ophelia\|Ophelia]]— |
+| [[characters/ophelia\|OPHELIA]] | Vi prego, ascoltate.<br>(Canta)<br>Bianco il suo sudario come la [[motifs/snow\|neve]] dei monti— |
+| *(didascalia)* | Entra il [[archetypes/king\|Re]] [[characters/claudius\|Claudius]] |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, guardate qui, mio signore. |
+| [[characters/ophelia\|OPHELIA]] | (canta)<br>Cosparso di dolci [[motifs/flowers\|fiori]],<br>che alla [[motifs/grave\|tomba]] non—andò—pianto<br>da piogge di vero [[motifs/love\|amore]]. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Come state, graziosa signora? |
+| [[characters/ophelia\|OPHELIA]] | [[motifs/well\|Bene]], Dio vi ricompensi. Dicono che la civetta era la figlia d’un fornaio. Signore, sappiamo ciò che siamo, ma non sappiamo ciò che potremmo essere. Dio sia alla vostra mensa! |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a [[characters/gertrude\|Gertrude]]) Fantastica sul padre. |
+| [[characters/ophelia\|OPHELIA]] | Vi prego, non facciamone parola, ma quando vi chiedano che voglia dire, rispondete così. (Canta)<br>Domani è il giorno di San [[characters/valentine\|Valentino]],<br>di buon mattino per tempo,<br>e io fanciulla alla vostra [[motifs/window\|finestra]]<br>per essere la vostra [[characters/valentine\|Valentina]].<br>Allora egli si [[motifs/rose\|levò]], e indossò le vesti,<br>e schiuse la porta della camera;<br>fece entrar la fanciulla, che fanciulla<br>non ne uscì mai più. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Graziosa [[characters/ophelia\|Ophelia]]— |
+| [[characters/ophelia\|OPHELIA]] | Davvero, eh? Senza giuramento, la finirò.<br>(Canta) Per Gesù, e per Santa [[concepts/charity\|Carità]],<br>ahimè, e vergogna, che vergogna!<br>I giovani lo fanno se ci arrivano,<br>per Dio, la colpa è loro.<br>Diss’ella: ‘Prima che mi rovesciassi,<br>promettesti di sposarmi.’<br>L’avrei ben fatto, per quel sole lassù,<br>se al mio letto tu non venivi. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a [[characters/gertrude\|Gertrude]]) Da quanto tempo è così? |
+| [[characters/ophelia\|OPHELIA]] | [[concepts/hope\|Spero]] che tutto andrà [[motifs/well\|bene]]. Bisogna aver pazienza. Ma non posso non piangere al pensiero che lo deporranno nella fredda terra. Mio fratello lo saprà. E dunque vi ringrazio del vostro buon consiglio. Venga la mia carrozza! Buona [[motifs/night\|notte]], signore, buona [[motifs/night\|notte]], dolci signore, buona [[motifs/night\|notte]], buona [[motifs/night\|notte]]. Esce |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a [[characters/horatio\|Horatio]])<br>Seguitela da presso. Vegliate bene su di lei, vi prego. |
+| *(didascalia)* | Esce [[characters/horatio\|Horatio]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, questo è il [[motifs/poison\|veleno]] d’un dolore profondo! Nasce<br>tutto dalla [[motifs/death\|morte]] del padre. O [[characters/gertrude\|Gertrude]], [[characters/gertrude\|Gertrude]],<br>quando vengono i dolori non vengono come spie isolate,<br>ma in battaglioni. Prima, il padre ucciso;<br>poi, vostro figlio partito, e lui violentissimo autore<br>del proprio giusto allontanamento; il popolo torbido,<br>denso e malsano nei pensieri e nei bisbigli<br>per la [[motifs/death\|morte]] del buon [[characters/polonius\|Polonius]]; e noi abbiamo agito da<br>sprovveduti<br>a seppellirlo di soppiatto; la povera [[characters/ophelia\|Ophelia]]<br>divisa da se stessa e dal suo bel giudizio,<br>senza il quale siamo immagini o mere bestie;<br>infine, e grave quanto tutto questo insieme,<br>suo fratello è tornato in segreto dalla Francia,<br>si nutre di questo [[concepts/wonder\|stupore]], si tiene fra le nubi,<br>e non gli mancano ronzii che gl’infettino l’orecchio<br>con discorsi pestilenziali sulla [[motifs/death\|morte]] del padre;<br>nei quali la necessità, mendica di materia,<br>non esiterà punto ad accusare la nostra persona<br>d’orecchio in orecchio. O mia cara [[characters/gertrude\|Gertrude]], questo,<br>come una bocca da fuoco a mitraglia, in molti punti<br>mi dà una [[motifs/death\|morte]] superflua. |
+| *(didascalia)* | Rumore da dentro |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Ahimè, che rumore è questo? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Dove sono i miei Svizzeri? Guardino la porta. |
+| *(didascalia)* | Entra un Messaggero |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Che cosa succede? |
+| MESSAGGERO | Salvatevi, mio signore.<br>L’oceano, traboccando oltre il suo confine,<br>non divora le piane con più impetuosa furia<br>di quanto il giovane [[characters/laertes\|Laertes]], a capo d’una rivolta,<br>travolga i vostri ufficiali. La plebaglia lo chiama signore,<br>e, come se il mondo cominciasse solo adesso,<br>dimenticata l’antichità, ignota l’usanza,<br>che ratificano e sorreggono ogni parola,<br>gridano ‘Scegliamo noi! [[characters/laertes\|Laertes]] sia [[archetypes/king\|re]].’<br>Berretti, mani e lingue lo acclamano fino alle nubi,<br>‘[[characters/laertes\|Laertes]] sia [[archetypes/king\|re]], [[characters/laertes\|Laertes]] [[archetypes/king\|re]].’ |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Con che allegria latrano sulla falsa traccia! |
+| *(didascalia)* | Rumore da dentro |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Oh, seguite a ritroso, falsi cani danesi! |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Le porte sono sfondate. |
+| *(didascalia)* | Entra [[characters/laertes\|Laertes]] coi suoi seguaci alla porta |
+| [[characters/laertes\|LAERTES]] | Dov’è il [[archetypes/king\|Re]]?—Signori, restate tutti fuori. |
+| TUTTI I SUOI SEGUACI | No, entriamo anche noi. |
+| [[characters/laertes\|LAERTES]] | Vi prego, lasciatemi solo. |
+| TUTTI I SUOI SEGUACI | Sta bene, sta bene. |
+| [[characters/laertes\|LAERTES]] | Vi ringrazio. Sorvegliate la porta. |
+| *(didascalia)* | escono i seguaci |
+| [[characters/laertes\|LAERTES]] | O tu, vile [[archetypes/king\|re]],<br>rendimi mio padre. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Con calma, buon [[characters/laertes\|Laertes]]. |
+| [[characters/laertes\|LAERTES]] | Quella goccia di [[motifs/blood\|sangue]] che stia calma mi proclama bastardo,<br>grida cornuto a mio padre, marchia meretrice<br>proprio qui, sulla casta fronte immacolata<br>della mia vera madre. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Qual è la causa, [[characters/laertes\|Laertes]],<br>che la tua ribellione ha aspetto di gigante?—<br>Lascialo andare, [[characters/gertrude\|Gertrude]]. Non [[concepts/fear\|temere]] per la nostra persona.<br>Tale divinità fa siepe attorno a un [[archetypes/king\|re]]<br>che il tradimento può appena adocchiare ciò che vorrebbe,<br>e poco compie del suo volere.—Dimmi, [[characters/laertes\|Laertes]],<br>perché sei tanto infiammato.—Lascialo andare, [[characters/gertrude\|Gertrude]].—<br>Parla, uomo. |
+| [[characters/laertes\|LAERTES]] | Dov’è mio padre? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Morto. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | (a [[characters/laertes\|Laertes]])<br>Ma non per mano sua. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Lo si lasci domandare a sazietà. |
+| [[characters/laertes\|LAERTES]] | Come è morto? Non voglio esser giocato.<br>All’inferno, fedeltà! I voti al più nero demonio!<br>[[concepts/conscience\|Coscienza]] e grazia nell’abisso più profondo!<br>Sfido la dannazione. A questo punto sto fermo:<br>che entrambi i mondi abbandono alla noncuranza,<br>venga ciò che verrà. Solo, sarò vendicato<br>fino in fondo per mio padre. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Chi vi tratterrà? |
+| [[characters/laertes\|LAERTES]] | La mia volontà, non il mondo intero;<br>e quanto ai miei mezzi, li amministrerò così [[motifs/well\|bene]]<br>che andranno lontano con poco. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Buon [[characters/laertes\|Laertes]],<br>se [[motifs/desire\|desiderate]] conoscere la certezza<br>della [[motifs/death\|morte]] del vostro caro padre, è scritto nella vostra [[concepts/revenge\|vendetta]]<br>che, facendo piazza pulita, trascinerete amico e nemico,<br>vincitore e perdente? |
+| [[characters/laertes\|LAERTES]] | Nessuno se non i suoi nemici. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Saprete allora riconoscerli? |
+| [[characters/laertes\|LAERTES]] | Ai suoi buoni amici aprirò così larghe le braccia,<br>e, come il pio pellicano che dona la vita,<br>li nutrirò col mio [[motifs/blood\|sangue]]. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ecco, ora parlate<br>da buon [[archetypes/child\|figlio]] e da vero gentiluomo.<br>Che io sia innocente della [[motifs/death\|morte]] di vostro padre,<br>e ne provi il più sensibile dolore,<br>penetrerà nel vostro giudizio così diritto<br>come il giorno nel vostro occhio. |
+| *(didascalia)* | Rumore da dentro |
+| VOCI | (da dentro) Fatela entrare. |
+| [[characters/laertes\|LAERTES]] | Ebbene, che rumore è quello? |
+| *(didascalia)* | Entra [[characters/ophelia\|Ophelia]] come prima |
+| [[characters/laertes\|LAERTES]] | O calore, disseccami il cervello! [[motifs/tears\|Lacrime]] sette volte salate<br>bruciate il senso e la virtù del mio occhio!<br>Per il cielo, la tua [[concepts/madness\|follia]] sarà pagata a peso<br>finché il nostro piatto non pieghi la stadera. O [[motifs/rose\|rosa]] di maggio,<br>cara fanciulla, buona sorella, dolce [[characters/ophelia\|Ophelia]]!<br>O cieli, è possibile che il senno d’una giovane<br>sia mortale come la vita d’un vecchio?<br>La [[concepts/nature\|natura]] è sottile nell’[[motifs/love\|amore]], e dov’è sottile<br>manda qualche prezioso pegno di sé<br>dietro la cosa che ama. |
+| [[characters/ophelia\|OPHELIA]] | (canta)<br>Lo portarono a viso scoperto sulla bara,<br>ehi non nonny, nonny, ehi nonny,<br>e sulla sua [[motifs/grave\|tomba]] piovve più d’una lacrima—<br>Sta’ [[motifs/well\|bene]], colomba mia. |
+| [[characters/laertes\|LAERTES]] | Avessi il tuo senno e mi spingessi alla [[concepts/revenge\|vendetta]],<br>non potresti commuovermi così. |
+| [[characters/ophelia\|OPHELIA]] | Voi dovete cantare ‘Giù, a-giù’, e voi, ‘Chiamatelo a-giù-a’. Oh, come le sta bene la [[motifs/wheel\|ruota]]! È il falso castaldo che rubò la figlia del padrone. [[characters/laertes\|LAERTES]] Questo nulla è più che sostanza. |
+| [[characters/ophelia\|OPHELIA]] | Ecco il rosmarino, è per il ricordo. Ti prego, [[motifs/love\|amore]], ricorda. E ci sono le viole del pensiero; sono per i pensieri. |
+| [[characters/laertes\|LAERTES]] | Un insegnamento nella [[concepts/madness\|follia]]—pensieri e ricordo bene appaiati. |
+| [[characters/ophelia\|OPHELIA]] | Ecco il finocchio per voi, e le aquilegie. Ecco la ruta per voi, e un poco ne serbo per me. La possiamo chiamare erba della grazia della domenica. Oh, voi dovete portare la vostra ruta in altra maniera. Ecco una margherita. Vi darei delle violette, ma appassirono tutte quando mio padre morì. Dicono che fece una buona fine.<br>(Canta) Ché il bel dolce Robin è tutta la mia gioia. |
+| [[characters/laertes\|LAERTES]] | Pensiero e afflizione, passione, l’inferno stesso<br>ella muta in grazia e in leggiadria. |
+| [[characters/ophelia\|OPHELIA]] | (canta)<br>E non tornerà più,<br>e non tornerà più?<br>No, no, egli è morto,<br>va’ al tuo letto di [[motifs/death\|morte]],<br>egli non tornerà mai più.<br>La sua barba bianca come [[motifs/snow\|neve]],<br>tutto di lino il suo capo.<br>È andato, è andato,<br>e noi gettiamo via il lamento.<br>Dio abbia [[concepts/mercy\|pietà]] della sua [[motifs/soul\|anima]].<br>E di tutte le anime cristiane, ne prego Dio. Dio sia con voi. |
+| *(didascalia)* | Escono [[characters/ophelia\|Ophelia]] e [[characters/gertrude\|Gertrude]] |
+| [[characters/laertes\|LAERTES]] | Vedi questo, o Dio? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[characters/laertes\|Laertes]], devo aver parte al vostro dolore,<br>o mi negate un diritto. Ritiratevi in disparte,<br>scegliete quelli che volete fra i vostri amici più saggi,<br>ed essi udranno e giudicheranno fra voi e me.<br>Se per mano diretta o indiretta<br>ci trovino implicati, daremo il nostro regno,<br>la nostra [[motifs/crown\|corona]], la nostra vita, e tutto ciò che diciamo nostro,<br>a voi in riparazione. Ma se no,<br>contentatevi di prestarci la vostra pazienza,<br>e insieme opereremo con la vostra [[motifs/soul\|anima]]<br>per darle la giusta soddisfazione. |
+| [[characters/laertes\|LAERTES]] | Sia dunque così.<br>Il modo della sua [[motifs/death\|morte]], l’oscura sepoltura—<br>né trofeo, né spada, né stemma sulle sue ossa,<br>né nobile rito né solenne pompa—<br>gridano d’esser uditi, come dal cielo alla terra,<br>sì ch’io debba chiederne conto. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | E così sarà;<br>e dov’è il delitto, cada la grande scure.<br>Vi prego, venite con me. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/horatio\|Horatio]] con un servo |
+| [[characters/horatio\|HORATIO]] | Chi sono costoro che vogliono parlarmi? |
+| SERVO | Marinai, signore. Dicono d’aver lettere per voi. |
+| [[characters/horatio\|HORATIO]] | Falli entrare. |
+| *(didascalia)* | Esce il servo |
+| [[characters/horatio\|HORATIO]] | Non so da quale parte del mondo<br>mi debba venire un saluto, se non da messer [[characters/hamlet\|Hamlet]]. |
+| *(didascalia)* | Entrano i marinai |
+| [[characters/horatio\|HORATIO]] | UN MARINAIO Dio vi benedica, signore. |
+| [[characters/horatio\|HORATIO]] | Che benedica anche te.<br>UN MARINAIO Lo farà, signore, se così gli piace. C’è una lettera per voi, signore. Viene dall’ambasciatore che era diretto in Inghilterra—se il vostro nome è [[characters/horatio\|Horatio]], come mi si dà a intendere che sia. |
+| [[characters/horatio\|HORATIO]] | (legge) ‘[[characters/horatio\|Horatio]], quando avrai scorso questa, procura a costoro qualche modo d’accedere al [[archetypes/king\|re]]. Hanno lettere per lui. Prima che fossimo due giorni in mare, un pirata d’armamento assai bellicoso ci diede la caccia. Trovandoci troppo lenti di vela, ci vestimmo d’un valore forzato, e nell’arrembaggio io saltai a bordo loro. Sull’istante si liberarono della nostra [[motifs/ship\|nave]], sicché io solo rimasi loro prigioniero. Si sono comportati con me da ladroni di [[concepts/mercy\|misericordia]]; ma sapevano quel che facevano: dovrò render loro un buon servigio. Fa’ che il [[archetypes/king\|re]] abbia le lettere che ho mandato, e vieni da me con la stessa fretta con cui fuggiresti la [[motifs/death\|morte]]. Ho parole da dirti all’orecchio che ti faranno ammutolire, eppure sono troppo leggere per il calibro della faccenda. Questi bravi uomini ti condurranno dove mi trovo. [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] tengono la rotta per l’Inghilterra. Di loro ho molto da raccontarti. Addio.<br>Colui che sai esser tuo,<br>[[characters/hamlet\|Hamlet]].’<br>Venite, vi darò modo di recapitare queste vostre lettere,<br>e tanto più in fretta perché possiate guidarmi<br>a colui dal quale le portaste. Escono |
+
+### Atto 4, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|il Re]] [[characters/claudius\|Claudius]] e [[characters/laertes\|Laertes]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ora la vostra [[concepts/conscience\|coscienza]] deve sigillare il mio proscioglimento,<br>E dovete accogliermi nel cuore come amico,<br>Poiché avete udito, e con orecchio consapevole,<br>Che colui che ha ucciso il vostro nobile padre<br>Attentava alla mia vita. |
+| [[characters/laertes\|LAERTES]] | [[motifs/well\|Bene]] appare. Ma ditemi<br>Perché non procedeste contro tali atti,<br>Così criminosi e capitali per [[concepts/nature\|natura]],<br>Come dalla vostra sicurezza, saggezza e ogni altra cosa<br>Eravate potentemente spinto. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, per due ragioni particolari,<br>Che a voi forse parranno assai senza nerbo,<br>E che pure a me son forti. La [[characters/queen\|Regina]] sua madre<br>Vive quasi dei suoi sguardi; e quanto a me—<br>Mia virtù o mia piaga, sia l’una o l’altra—<br>Ella è così congiunta alla mia vita e alla mia [[motifs/soul\|anima]]<br>Che, come l’astro non si muove se non nella sua sfera,<br>Io non potrei muovermi se non per lei. L’altro motivo<br>Per cui non potei venire a un pubblico processo<br>È il grande [[motifs/love\|amore]] che il volgo gli porta,<br>Il quale, immergendo tutte le sue colpe nel proprio affetto,<br>Come la [[motifs/spring\|sorgente]] che muta il legno in pietra,<br>Convertirebbe le sue colpe in grazie; sicché le mie frecce,<br>Troppo leggere d’asta per un [[motifs/wind\|vento]] così forte,<br>Sarebbero tornate al mio stesso arco,<br>E non dove le avevo mirate. |
+| [[characters/laertes\|LAERTES]] | E così ho perduto un nobile padre,<br>Una sorella sospinta a disperate condizioni,<br>Che aveva, se le lodi possono tornare indietro,<br>Sfidato dall’alto tutta l’età presente<br>Per le sue perfezioni. Ma la mia [[concepts/revenge\|vendetta]] verrà. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non perdete il sonno per questo. Non dovete credere<br>Che siamo fatti di stoffa così fiacca e ottusa<br>Da lasciarci scuotere la barba dal pericolo<br>E stimarlo un passatempo. Presto udrete di più.<br>Amavo vostro padre, e [[motifs/love\|amiamo]] noi stessi.<br>E ciò, [[concepts/hope\|spero]], v’insegnerà a immaginare— |
+| *(didascalia)* | Entra un Messaggero con lettere |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ebbene? Che notizie? |
+| MESSAGGERO | Lettere, mio signore, da [[characters/hamlet\|Hamlet]].<br>Questa a vostra maestà; questa alla [[characters/queen\|Regina]]. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Da [[characters/hamlet\|Hamlet]]? Chi le ha portate? |
+| MESSAGGERO | Marinai, mio signore, così dicono. Io non li ho veduti.<br>Mi furono date da [[characters/claudio\|Claudio]]. Egli le ricevette. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[characters/laertes\|Laertes]], le udrete.—Lasciateci. |
+| *(didascalia)* | Esce il Messaggero |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (Legge) ‘Alto e potente, saprete che sono stato posto nudo nel vostro regno. Domani chiederò licenza di vedere i vostri occhi regali, quando, chiedendo dapprima il vostro perdono, esporrò le occasioni del mio subitaneo e più che strano ritorno.<br>[[characters/hamlet\|Hamlet]].’<br>Che vorrà dir questo? Sono tornati tutti gli altri? O è qualche inganno, e nulla di simile? |
+| [[characters/laertes\|LAERTES]] | Conoscete la scrittura? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | È il carattere di [[characters/hamlet\|Hamlet]].<br>‘Nudo’—e in un poscritto qui dice<br>‘Solo’. Potete consigliarmi? |
+| [[characters/laertes\|LAERTES]] | Mi ci perdo, mio signore. Ma che venga.<br>Riscalda proprio il male del mio cuore<br>Il pensiero che vivrò per dirgli in faccia<br>‘Così tu facesti’. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Se è così, [[characters/laertes\|Laertes]]—<br>E come potrebbe esser così, come altrimenti?—<br>Vi lascerete guidare da me? |
+| [[characters/laertes\|LAERTES]] | Purché non mi guidiate a una pace. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Alla vostra propria pace. Se ora è tornato,<br>Rifiutando il suo viaggio, e se intende<br>Non intraprenderlo più, io lo indurrò<br>A un’impresa, ora matura nel mio disegno,<br>Sotto la quale non potrà che cadere;<br>E per la sua [[motifs/death\|morte]] nessun [[motifs/wind\|vento]] di biasimo spirerà;<br>Ma perfino sua madre assolverà la trama<br>E la chiamerà accidente. Or son due mesi<br>Era qui un gentiluomo di Normandia.<br>Io stesso ho veduto, e ho combattuto contro, i Francesi,<br>E sanno [[motifs/well\|bene]] stare a cavallo; ma quel galante<br>Aveva in ciò della stregoneria. Cresceva tutt’uno con la sella,<br>E a tali prodigiose prove conduceva il suo [[motifs/horse\|cavallo]]<br>Come s’ei fosse incorporato e mezzo naturato<br>Con la brava bestia. Tanto superò il mio pensiero<br>Che io, nel foggiare figure e destrezze,<br>Resto al di sotto di quel ch’egli fece. |
+| [[characters/laertes\|LAERTES]] | Era un Normanno? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Un Normanno. |
+| [[characters/laertes\|LAERTES]] | Sulla mia vita, Lamord. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Proprio lui. |
+| [[characters/laertes\|LAERTES]] | Lo conosco [[motifs/well\|bene]]. È davvero il fermaglio,<br>E la gemma, di tutta la nazione. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Egli fece di voi confessione,<br>E vi diede un elogio così magistrale<br>Per l’arte e l’esercizio nella vostra difesa,<br>E per lo stocco vostro specialmente,<br>Che gridò che sarebbe uno spettacolo davvero<br>Se alcuno potesse misurarsi con voi. Signore, questo suo elogio<br>Avvelenò [[characters/hamlet\|Hamlet]] a tal punto d’invidia<br>Che altro non poté fare che desiderare e implorare<br>Il vostro subitaneo ritorno per gareggiare con lui.<br>Ora, da questo— |
+| [[characters/laertes\|LAERTES]] | Che cosa, da questo, mio signore? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[characters/laertes\|Laertes]], vi era caro vostro padre?<br>O siete voi come la pittura d’un dolore,<br>Un volto senza cuore? |
+| [[characters/laertes\|LAERTES]] | Perché chiedete questo? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non ch’io pensi che non [[motifs/love\|amaste]] vostro padre,<br>Ma perché so che l’[[motifs/love\|amore]] è generato dal [[motifs/time\|tempo]],<br>E perché vedo, in prove d’esperienza,<br>Che il [[motifs/time\|tempo]] ne attenua la scintilla e il [[motifs/fire\|fuoco]].<br>[[characters/hamlet\|Hamlet]] ritorna. Che cosa intraprendereste<br>Per mostrarvi figlio di vostro padre in atto<br>Più che in parole? |
+| [[characters/laertes\|LAERTES]] | Tagliargli la gola in chiesa. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Nessun luogo davvero dovrebbe far santuario all’omicidio.<br>La [[concepts/revenge\|vendetta]] non dovrebbe aver confini. Ma, buon [[characters/laertes\|Laertes]],<br>Volete far questo?—tenetevi chiuso nella vostra camera.<br>[[characters/hamlet\|Hamlet]], tornato, saprà che siete giunto a [[motifs/home\|casa]].<br>Metteremo su gente che lodi la vostra eccellenza,<br>E porremo una [[topoi/double\|doppia]] vernice sulla fama<br>Che il Francese vi diede; vi metteremo, infine, a fronte,<br>E scommetteremo sulle vostre teste. Egli, essendo negligente,<br>Generosissimo, e alieno da ogni macchinazione,<br>Non esaminerà i fioretti; sicché con facilità,<br>O con un piccolo scambio, potrete scegliere<br>Una spada non spuntata, e, in una botta d’esercizio,<br>Ripagarlo per vostro padre. |
+| [[characters/laertes\|LAERTES]] | Lo farò,<br>E a tal fine ungerò la mia spada.<br>Comprai un unguento da un ciarlatano<br>Così mortale che, basta immergervi un coltello,<br>E dove esso trae [[motifs/blood\|sangue]] nessun cataplasma, per raro che sia,<br>Raccolto da tutti i semplici che hanno virtù<br>Sotto la [[motifs/moon\|luna]], può salvare dalla [[motifs/death\|morte]] la creatura<br>Che ne sia appena graffiata. Toccherò la mia punta<br>Con questo contagio, sì che, se lo scalfisco appena,<br>Possa esser [[motifs/death\|morte]]. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Pensiamoci ancora;<br>Pesiamo quale convenienza di [[motifs/time\|tempo]] e di mezzi<br>Possa adattarci al nostro disegno. Se questo fallisse,<br>E il nostro intento trasparisse dalla cattiva esecuzione,<br>Meglio non averlo tentato. Perciò questo progetto<br>Dovrebbe avere un sostegno o un secondo che tenga<br>Se il primo scoppiasse alla prova. Piano, lasciate ch’io veda.<br>Faremo una solenne scommessa sulle vostre destrezze ...<br>L’ho trovato! Quando nel moto sarete caldo e assetato—<br>E rendete a tal fine più violenti i vostri assalti—<br>Ed egli chiederà da bere, io gli avrò preparato<br>Un calice per l’occasione, che, appena sorseggiato,<br>Se per caso sfuggisse alla vostra stoccata avvelenata,<br>Il nostro scopo potrà reggersi là.— |
+| *(didascalia)* | Entra [[characters/queen\|la Regina]] [[characters/gertrude\|Gertrude]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Ebbene, dolce [[characters/queen\|Regina]]? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Una sciagura calca il calcagno di un’altra,<br>Tanto in fretta si seguono. Vostra sorella è annegata, [[characters/laertes\|Laertes]]. |
+| [[characters/laertes\|LAERTES]] | Annegata? Oh, dove? |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | C’è un salice che cresce obliquo sopra un ruscello<br>E mostra le sue canute [[motifs/leaves\|foglie]] nella corrente vitrea.<br>Con esse ella intrecciava fantastiche ghirlande<br>Di [[motifs/flowers\|fiori]] di ranuncolo, ortiche, margherite e lunghi orchidei,<br>Cui i licenziosi pastori danno un nome più grossolano,<br>Ma che le nostre caste fanciulle chiaman dita di morto.<br>Là, sui rami pendenti, mentre s’arrampicava<br>Per appendervi le sue corone d’erbe, un ramo invidioso si ruppe,<br>E giù i trofei d’erbe ed ella stessa<br>Caddero nel ruscello piangente. Le vesti si distesero ampie,<br>E come [[characters/mermaid\|sirena]] per un poco la sostennero;<br>Nel qual [[motifs/time\|tempo]] ella cantava brani d’antiche arie,<br>Come chi non sente la propria sciagura,<br>O come creatura nata e adatta<br>A quell’elemento. Ma lungo non poté durare<br>Finché le sue vesti, pesanti dell’acqua bevuta,<br>Trassero la povera infelice dal suo melodioso canto<br>A una fangosa [[motifs/death\|morte]]. |
+| [[characters/laertes\|LAERTES]] | Ahimè, dunque è annegata. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Annegata, annegata. |
+| [[characters/laertes\|LAERTES]] | Troppa [[motifs/water\|acqua]] hai avuto, povera [[characters/ophelia\|Ophelia]],<br>E perciò vieto le mie [[motifs/tears\|lacrime]]. Eppure<br>È il nostro vezzo; la [[concepts/nature\|natura]] tiene la sua usanza,<br>Dica la vergogna ciò che vuole.<br>Piange<br>Quando queste saran finite,<br>La donna sarà fuori di me. Addio, mio signore.<br>Ho un discorso di [[motifs/fire\|fuoco]] che vorrebbe divampare,<br>Se non che questa follia lo spegne. |
+| *(didascalia)* | Esce |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Seguiamolo, [[characters/gertrude\|Gertrude]].<br>Quanto ho dovuto fare per calmare la sua furia!<br>Ora [[concepts/fear\|temo]] che questo la faccia ripartire;<br>Perciò seguiamolo. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano due Becchini con una vanga e un piccone |
+| PRIMO BECCHINO | Deve avere sepoltura cristiana costei che di sua volontà cerca la propria salvezza? |
+| SECONDO BECCHINO | Ti dico di sì, e perciò scavale la [[motifs/grave\|fossa]] senza indugio. Il magistrato ha tenuto inchiesta su di lei, e la giudica degna di sepoltura cristiana. |
+| PRIMO BECCHINO | Come può essere, a meno che non si sia annegata per propria difesa? |
+| SECONDO BECCHINO | Ma sì, così è stato accertato. |
+| PRIMO BECCHINO | Dev’essere se offendendo, non può essere altrimenti; ché qui sta il punto: se io mi annego consapevolmente, ciò implica un atto; e un atto ha tre rami: cioè agire, fare ed eseguire. Argal, ella si è annegata consapevolmente. |
+| SECONDO BECCHINO | No, ma stammi a sentire, compar Zappaterra. |
+| PRIMO BECCHINO | Lascia fare a me. Qui giace l’[[motifs/water\|acqua]]—bene. Qui sta l’uomo—bene. Se l’uomo va a quest’[[motifs/water\|acqua]] e vi si annega, è, voglia o non voglia, lui che ci va. Nota bene. Ma se l’[[motifs/water\|acqua]] viene a lui e lo annega, non è lui che si annega; argal, chi non è colpevole della propria [[motifs/death\|morte]] non abbrevia la propria vita. |
+| SECONDO BECCHINO | Ma è legge, questa? |
+| PRIMO BECCHINO | Sì, perbacco, lo è: legge dell’[[topoi/quest\|inchiesta]] del magistrato. |
+| SECONDO BECCHINO | Volete sapere la [[concepts/truth\|verità]] su questo? Se costei non fosse stata una gentildonna, l’avrebbero sepolta fuori dalla sepoltura cristiana. |
+| PRIMO BECCHINO | Ecco, l’hai detto; e tanto più è un peccato che i gran signori abbiano in questo mondo licenza d’annegarsi o d’impiccarsi più dei loro pari cristiani. Qua la vanga. Non ci sono gentiluomini più antichi dei giardinieri, degli sterratori e dei becchini: essi tengono viva la professione d’Adamo. |
+| *(didascalia)* | Il Primo Becchino scava |
+| SECONDO BECCHINO | Era un gentiluomo, lui? |
+| PRIMO BECCHINO | Fu il primo che mai portasse armi. |
+| SECONDO BECCHINO | Ma va’, non ne aveva. |
+| PRIMO BECCHINO | Come, sei un pagano? Come la intendi tu la Scrittura? La Scrittura dice che Adamo zappò. Poteva zappare senza braccia? Ti farò un’altra domanda. Se non mi rispondi a proposito, confessati— |
+| SECONDO BECCHINO | Avanti. |
+| PRIMO BECCHINO | Chi è colui che costruisce più solido del muratore, del maestro d’ascia o del falegname? |
+| SECONDO BECCHINO | Il costruttore di forche; ché quell’intelaiatura sopravvive a mille inquilini. |
+| PRIMO BECCHINO | Mi piace il tuo spirito, [[motifs/well\|bene]], in buona [[concepts/faith\|fede]]. La forca fa [[motifs/well\|bene]]. Ma come fa [[motifs/well\|bene]]? Fa [[motifs/well\|bene]] a quelli che fanno male. Ora tu fai male a dire che la forca è costruita più solida della chiesa, argal la forca potrebbe far [[motifs/well\|bene]] a te. Riprova, su. |
+| SECONDO BECCHINO | ‘Chi costruisce più solido d’un muratore, d’un maestro d’ascia o d’un falegname?’ |
+| PRIMO BECCHINO | Sì, dimmi questo, e poi stacca i buoi. |
+| SECONDO BECCHINO | Perbacco, ora te lo so dire. |
+| PRIMO BECCHINO | Avanti. |
+| SECONDO BECCHINO | Per la messa, non te lo so dire. |
+| *(didascalia)* | Entrano il principe [[characters/hamlet\|Hamlet]] e [[characters/horatio\|Horatio]], in lontananza |
+| PRIMO BECCHINO | Non spremerti più il cervello su questo, ché il tuo asino ottuso non affretterà il passo per le bastonate; e quando ti sarà rifatta questa domanda, di’ ‘uno scavatore di [[motifs/grave\|fosse]]’: le case che fa lui durano fino al giorno del giudizio. Va’, corri da Johan. Portami un boccale di liquore. |
+| *(didascalia)* | Esce il Secondo Becchino |
+| PRIMO BECCHINO | (Canta)<br>In gioventù, quand’io [[motifs/love\|amavo]], [[motifs/love\|amavo]],<br>mi pareva cosa assai dolce<br>stringere—oh—il [[motifs/time\|tempo]] a mio profitto,<br>oh, mi pareva che nulla-a-fosse-a-meglio. |
+| [[characters/hamlet\|HAMLET]] | Non ha alcun sentimento del suo mestiere costui, che canta mentre scava una [[motifs/grave\|fossa]]? |
+| [[characters/horatio\|HORATIO]] | L’abitudine ne ha fatto in lui una cosa d’agevole indifferenza. |
+| [[characters/hamlet\|HAMLET]] | È proprio così; la mano che poco s’adopra ha il senso più delicato. |
+| PRIMO BECCHINO | (canta)<br>Ma l’età coi suoi passi furtivi<br>m’ha ghermito nel suo artiglio,<br>e m’ha spedito dentro la terra,<br>come se mai fossi stato tale. |
+| *(didascalia)* | Getta fuori un teschio |
+| [[characters/hamlet\|HAMLET]] | Quel teschio aveva una lingua dentro, e un tempo sapeva cantare. Come lo sbatte a terra il furfante, quasi fosse la mascella di [[characters/cain\|Cain]], che commise il primo omicidio! Questa potrebbe essere la zucca d’un politico, che quest’asino ora soverchia, uno che avrebbe voluto raggirare Dio, non è vero? [[characters/horatio\|HORATIO]] Potrebbe, mio signore. |
+| [[characters/hamlet\|HAMLET]] | O d’un cortigiano, che sapeva dire ‘Buon giorno, dolce signore. Come state, buon signore?’ Questo potrebbe essere il tal signore, che lodava il [[motifs/horse\|cavallo]] del tal altro signore quando intendeva mendicarglielo, non è vero? |
+| [[characters/horatio\|HORATIO]] | Sì, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Ebbene, proprio così, e ora è di madonna Verme, senza mascella, e picchiato sul cranio con la vanga d’un sagrestano. Bella rivoluzione, questa, se avessimo l’arte di vederla. Costò così poco allevare queste ossa, che non servano ad altro che a giocarci alle piastrelle? Le mie dolgono al pensarci. |
+| PRIMO BECCHINO | (canta)<br>Un piccone e una vanga, una vanga,<br>e insieme un lenzuolo funebre;<br>oh, una fossa d’argilla da scavare<br>per un tale ospite conviene. |
+| *(didascalia)* | Getta fuori un altro teschio |
+| [[characters/hamlet\|HAMLET]] | Eccone un altro. Perché non potrebbe essere il teschio d’un legulèio? Dove sono ora i suoi cavilli, i suoi sofismi, le sue cause, i suoi titoli e i suoi raggiri? Perché sopporta che questo rozzo villano ora lo percuota sulla zucca con una sudicia pala, e non gli intenta causa per percosse? Hm! Costui poteva essere ai suoi [[motifs/time\|tempi]] un gran compratore di terre, coi suoi statuti, i suoi riconoscimenti, le sue multe, le sue [[topoi/double\|doppie]] garanzie, le sue rivendicazioni. È questo il fine delle sue multe e la rivendicazione delle sue rivendicazioni, avere la sua fine zucca piena di fine terriccio? I suoi garanti non gli garantiranno dei suoi acquisti, e [[topoi/double\|doppi]] per giunta, più della lunghezza e della larghezza d’un paio di contratti? Gli atti stessi delle sue terre a stento staranno in questa cassa; e l’erede in persona non deve avere più spazio, eh? |
+| [[characters/horatio\|HORATIO]] | Non un briciolo di più, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Non si fa la pergamena con pelli di pecora? |
+| [[characters/horatio\|HORATIO]] | Sì, mio signore, e anche con pelli di vitello. |
+| [[characters/hamlet\|HAMLET]] | Sono pecore e vitelli quelli che cercano garanzia in ciò. Voglio parlare a costui. (Al Primo Becchino) Di chi è questa [[motifs/grave\|fossa]], messere? |
+| PRIMO BECCHINO | Mia, signore.<br>(Canta)<br>oh, una fossa d’argilla da scavare<br>per un tale ospite conviene. |
+| [[characters/hamlet\|HAMLET]] | Credo davvero che sia tua, perché tu ci menti dentro. |
+| PRIMO BECCHINO | Voi mentite di fuori, signore, e perciò non è vostra. Quanto a me, io non ci mento dentro, eppure è mia. |
+| [[characters/hamlet\|HAMLET]] | Tu ci menti dentro, a starci dentro e dire che è tua. È per i morti, non per i vivi; perciò tu menti. |
+| PRIMO BECCHINO | È una menzogna viva, signore, se ne tornerà via da me a voi. |
+| [[characters/hamlet\|HAMLET]] | Per quale uomo la scavi? |
+| PRIMO BECCHINO | Per nessun uomo, signore. |
+| [[characters/hamlet\|HAMLET]] | Per quale donna, allora? |
+| PRIMO BECCHINO | Per nessuna, neppure. |
+| [[characters/hamlet\|HAMLET]] | Chi dev’essere sepolto lì dentro? |
+| PRIMO BECCHINO | Una che era donna, signore; ma, pace all’[[motifs/soul\|anima]] sua, è morta. |
+| [[characters/hamlet\|HAMLET]] | Com’è preciso il furfante! Dobbiamo parlare con la bussola, o l’equivoco ci rovinerà. Per il Signore, [[characters/horatio\|Horatio]], da tre anni ne prendo nota. L’epoca s’è fatta così affilata che la punta del piede del contadino sfiora il calcagno del cortigiano e gli irrita il gelone. (Al Primo Becchino) Da quanto tempo sei scavatore di [[motifs/grave\|fosse]]? |
+| PRIMO BECCHINO | Di tutti i giorni dell’anno, venni a questo mestiere quel giorno in cui il nostro ultimo [[archetypes/king\|re]] [[characters/hamlet\|Hamlet]] vinse Fortinbras. |
+| [[characters/hamlet\|HAMLET]] | Quanto tempo è da allora? |
+| PRIMO BECCHINO | Non lo sapete dire? Ogni [[archetypes/fool\|sciocco]] lo sa dire. Fu proprio il giorno in cui nacque il giovane [[characters/hamlet\|Hamlet]]—quello che impazzì e fu mandato in Inghilterra. |
+| [[characters/hamlet\|HAMLET]] | Sì, davvero, e perché fu mandato in Inghilterra? |
+| PRIMO BECCHINO | Ma perché era pazzo. Là ricupererà il senno; o se non lo ricupera, laggiù non importa granché. |
+| [[characters/hamlet\|HAMLET]] | Perché? |
+| PRIMO BECCHINO | Là non si noterà in lui. Laggiù gli uomini sono pazzi quanto lui. |
+| [[characters/hamlet\|HAMLET]] | Come impazzì? |
+| PRIMO BECCHINO | Molto stranamente, dicono. |
+| [[characters/hamlet\|HAMLET]] | Come stranamente? |
+| PRIMO BECCHINO | [[concepts/faith\|In fede mia]], proprio perdendo il senno. |
+| [[characters/hamlet\|HAMLET]] | Su quale terreno? |
+| PRIMO BECCHINO | Ma qui, in [[settings/denmark\|Danimarca]]. Sono stato sagrestano qui, da ragazzo e da uomo, per trent’anni. |
+| [[characters/hamlet\|HAMLET]] | Quanto tempo giace un uomo nella terra prima di marcire? |
+| PRIMO BECCHINO | In [[concepts/faith\|fede]] mia, se non è marcio prima di morire—come abbiamo oggigiorno molti cadaveri incancreniti, che a stento reggono la deposizione—vi durerà otto o nove anni. Un conciatore vi durerà nove anni. |
+| [[characters/hamlet\|HAMLET]] | Perché lui più d’un altro? |
+| PRIMO BECCHINO | Ma perché, signore, la sua pelle è così conciata dal suo mestiere che terrà fuori l’[[motifs/water\|acqua]] per un bel pezzo, e la vostra [[motifs/water\|acqua]] è una gran guastatrice del vostro maledetto [[concepts/body\|corpo]] morto. Ecco qua un teschio, ora. Questo teschio è stato nella terra ventitré anni. |
+| [[characters/hamlet\|HAMLET]] | Di chi era? |
+| PRIMO BECCHINO | Era d’un maledetto pazzo. Di chi credete che fosse? |
+| [[characters/hamlet\|HAMLET]] | No, non lo so. |
+| PRIMO BECCHINO | La peste lo colga, che fu un pazzo furfante—una volta mi versò in capo un fiasco di vino del Reno! Questo stesso teschio, signore, era il teschio di Yorick, il buffone del [[archetypes/king\|re]]. |
+| [[characters/hamlet\|HAMLET]] | Questo? |
+| PRIMO BECCHINO | Proprio quello. |
+| [[characters/hamlet\|HAMLET]] | Fammi vedere.<br>Prende il teschio<br>Ahimè, povero Yorick. Io lo conobbi, [[characters/horatio\|Horatio]]—un uomo di spirito infinito, di eccellentissima fantasia. Mi ha portato sulla schiena mille volte; e ora, come mi ripugna la mia [[concepts/imagination\|immaginazione]]! Mi si rivolta lo stomaco. Qui pendevano quelle labbra che ho baciato non so quante volte. Dove sono ora i tuoi frizzi, le tue capriole, le tue canzoni, i tuoi lampi d’allegria che solevano far scoppiare in risate tutta la tavola? Non ne resta uno per farsi beffe del tuo stesso ghigno? Del tutto a mascella cascante? Ora va’ nella camera della mia signora e dille che, per quanto s’imbelletti d’un dito di spessore, a questo aspetto dovrà venire. Fàlla ridere di questo. Ti prego, [[characters/horatio\|Horatio]], dimmi una cosa. |
+| [[characters/horatio\|HORATIO]] | Che cos’è, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Credi tu che Alessandro avesse quest’aspetto sotto terra? |
+| [[characters/horatio\|HORATIO]] | Proprio così. |
+| [[characters/hamlet\|HAMLET]] | E puzzasse così? Puah! |
+| *(didascalia)* | Getta giù il teschio |
+| [[characters/horatio\|HORATIO]] | Proprio così, mio signore. |
+| [[characters/hamlet\|HAMLET]] | A quali vili usi possiamo tornare, [[characters/horatio\|Horatio]]! Perché l’[[concepts/imagination\|immaginazione]] non potrebbe seguire la nobile [[motifs/dust\|polvere]] d’Alessandro fino a trovarla a turare il foro d’una botte? |
+| [[characters/horatio\|HORATIO]] | Sarebbe considerare con troppa curiosità, considerare così. |
+| [[characters/hamlet\|HAMLET]] | No, in [[concepts/faith\|fede]] mia, non d’un briciolo; ma seguirlo fin là con sufficiente modestia, e con la verosimiglianza per guida, in questo modo: Alessandro morì, Alessandro fu sepolto, Alessandro ritorna in [[motifs/dust\|polvere]], la [[motifs/dust\|polvere]] è terra, di terra facciamo argilla, e perché con quell’argilla in cui fu convertito non potrebbero turare una botte di birra?<br>Cesare imperatore, morto e mutato in creta,<br>potrebbe turare un buco per tener fuori il [[motifs/wind\|vento]].<br>Oh, che quella terra che teneva il mondo in soggezione<br>debba rappezzare un muro per scacciare la raffica d’[[motifs/winter\|inverno]]!<br>Ma piano, piano; in disparte.<br>[[characters/hamlet\|Hamlet]] e [[characters/horatio\|Horatio]] si tirano in disparte. Entra il [[archetypes/king\|re]]<br><br>[[characters/claudius\|Claudius]], la [[characters/queen\|regina]] [[characters/gertrude\|Gertrude]], [[characters/laertes\|Laertes]], e una bara,<br><br>con un Prete e signori del seguito<br>Ecco viene il [[archetypes/king\|re]],<br>la [[characters/queen\|regina]], i cortigiani—chi è colui che seguono,<br>e con riti così mutilati? Questo indica<br>che il cadavere che seguono con mano disperata<br>distrusse la propria vita. Era di qualche rango.<br>Nascondiamoci un poco, e osserviamo. |
+| [[characters/laertes\|LAERTES]] | Quale altra cerimonia? |
+| [[characters/hamlet\|HAMLET]] | (a parte a [[characters/horatio\|Horatio]])<br>Quello è [[characters/laertes\|Laertes]], un giovane assai nobile. Osserva. |
+| [[characters/laertes\|LAERTES]] | Quale altra cerimonia? |
+| PRETE | Le sue esequie sono state ampliate quanto<br>ci è consentito. La sua [[motifs/death\|morte]] fu dubbia,<br>e se un comando supremo non prevalesse sull’ordine<br>ella avrebbe dovuto giacere in terra sconsacrata<br>fino all’ultima tromba. In luogo di preghiere pietose,<br>cocci, selci e sassi le sarebbero stati gettati addosso;<br>eppure qui le si concedono i riti verginali,<br>i suoi fiori di fanciulla, e l’accompagnamento a [[motifs/home\|casa]]<br>di campana e sepoltura. |
+| [[characters/laertes\|LAERTES]] | Non si deve fare altro? |
+| PRETE | Altro non si deve fare.<br>Profaneremmo il servizio dei morti<br>cantando solenne requiem e tale riposo per lei<br>come per le anime dipartite in pace. |
+| [[characters/laertes\|LAERTES]] | Ponetela nella terra,<br>e dalla sua carne bella e incontaminata<br>possano [[motifs/spring\|sbocciare]] violette. Ti dico, prete villano,<br>un angelo ministrante sarà mia sorella<br>quando tu giacerai urlando. |
+| [[characters/hamlet\|HAMLET]] | (a parte) Che! La bella [[characters/ophelia\|Ophelia]]! |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | (spargendo [[motifs/flowers\|fiori]])<br>Dolcezze alla dolce. Addio.<br>Speravo che saresti stata la sposa del mio [[characters/hamlet\|Hamlet]].<br>Pensavo d’ornare il tuo letto nuziale, dolce fanciulla,<br>e non di cospargere la tua [[motifs/grave\|fossa]]. |
+| [[characters/laertes\|LAERTES]] | Oh, triplice sciagura<br>cada dieci volte triplicata su quel capo maledetto<br>la cui azione scellerata ti privò<br>del tuo ingegnosissimo senno!—Trattenete la terra un poco,<br>finché non l’abbia stretta ancora una volta fra le mie braccia.<br>Salta nella [[motifs/grave\|fossa]]<br>Ora ammucchiate la vostra [[motifs/dust\|polvere]] sul vivo e sulla morta<br>finché di questa pianura non abbiate fatto un monte<br>da sovrastare il vecchio Pelio, o la vetta celeste<br>dell’azzurro Olimpo. |
+| [[characters/hamlet\|HAMLET]] | (facendosi avanti) Chi è colui il cui dolore<br>porta tale enfasi, la cui frase di sofferenza<br>incanta le [[motifs/stars\|stelle]] erranti e le fa sostare<br>come ascoltatrici ferite di [[concepts/wonder\|stupore]]? Questo sono io,<br>[[characters/hamlet\|Hamlet]] il Danese. |
+| *(didascalia)* | [[characters/hamlet\|Hamlet]] salta dentro dietro a [[characters/laertes\|Laertes]] |
+| [[characters/laertes\|LAERTES]] | Il diavolo si prenda la tua [[motifs/soul\|anima]]. |
+| [[characters/hamlet\|HAMLET]] | Non preghi [[motifs/well\|bene]].<br>Ti prego, togli le dita dalla mia gola,<br>ché sebbene io non sia collerico e avventato,<br>pure ho in me qualcosa di pericoloso<br>che la tua saggezza faccia bene a [[concepts/fear\|temere]]. Via la mano. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (ai Signori)<br>Separateli. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | [[characters/hamlet\|Hamlet]], [[characters/hamlet\|Hamlet]]! |
+| *(didascalia)* | TUTTI I SIGNORI |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Signori! |
+| [[characters/horatio\|HORATIO]] | (a [[characters/hamlet\|Hamlet]]) Mio buon signore, state calmo. |
+| [[characters/hamlet\|HAMLET]] | Ebbene, mi batterò con lui su questo tema<br>finché le mie palpebre non si muoveranno più. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | O figlio mio, quale tema? |
+| [[characters/hamlet\|HAMLET]] | Io amavo [[characters/ophelia\|Ophelia]]. Quarantamila fratelli<br>non potrebbero, con tutta la quantità del loro [[motifs/love\|amore]],<br>eguagliare la mia somma.—Che cosa vuoi fare per lei? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, è pazzo, [[characters/laertes\|Laertes]]. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | (a [[characters/laertes\|Laertes]]) Per l’[[motifs/love\|amore]] di Dio, abbiate pazienza con lui. |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/laertes\|Laertes]]) Per le piaghe di Cristo, mostrami che cosa farai.<br>Vuoi piangere, vuoi batterti, vuoi digiunare, vuoi lacerarti,<br>vuoi bere aceto, mangiare un coccodrillo?<br>Lo farò io. Vieni qui a piagnucolare,<br>a sfidarmi saltando nella sua [[motifs/grave\|fossa]]?<br>Fatti seppellire vivo con lei, e lo farò anch’io.<br>E se tu ciarli di [[settings/mountains\|montagne]], che ne gettino<br>milioni d’acri su di noi, finché il nostro suolo,<br>bruciandosi la cima contro la zona infuocata,<br>faccia dell’Ossa una verruca. Anzi, se tu vuoi declamare,<br>declamerò [[motifs/well\|bene]] quanto te. |
+| *(didascalia)* | [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] a [[characters/laertes\|Laertes]] Questa è pura [[concepts/madness\|follia]], |
+| [[characters/hamlet\|HAMLET]] | E così per un poco l’accesso lavorerà in lui.<br>Fra poco, paziente come la colomba<br>quando la sua coppia dorata è schiusa,<br>il suo [[motifs/silence\|silenzio]] siederà abbattuto. |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/laertes\|Laertes]])<br>Udite, signore,<br>qual è la ragione per cui mi trattate così?<br>Vi ho sempre amato. Ma non importa.<br>Faccia pure Ercole quel che può,<br>il gatto miagolerà, e il cane avrà il suo giorno. Esce |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Vi prego, buon [[characters/horatio\|Horatio]], vegliate su di lui. Esce [[characters/horatio\|Horatio]]<br><br>(A [[characters/laertes\|Laertes]]).Rafforzate la vostra pazienza col discorso<br>della scorsa [[motifs/night\|notte]].<br>Porteremo la cosa a immediata prova.—<br>Buona [[characters/gertrude\|Gertrude]], mettete qualche guardia su vostro figlio.—<br>Questa [[motifs/grave\|fossa]] avrà un monumento vivente.<br>Un’ora di quiete presto vedremo;<br>fino ad allora, in pazienza sia il nostro procedere. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il principe [[characters/hamlet\|Hamlet]] e [[characters/horatio\|Horatio]] |
+| [[characters/hamlet\|HAMLET]] | Tanto basti per questo, signore. Ora, vediamo, l’altro.<br>Ricordi tutta la circostanza? |
+| [[characters/horatio\|HORATIO]] | Se la ricordo, mio signore! |
+| [[characters/hamlet\|HAMLET]] | Signore, nel mio cuore c’era una sorta di battaglia<br>che non mi lasciava [[motifs/sleep\|dormire]]. Mi pareva di giacere<br>peggio degli ammutinati nei ceppi. D’impeto—<br>e sia lodata l’avventatezza per questo: sappiamo<br>che la nostra sconsideratezza talvolta ci serve [[motifs/well\|bene]]<br>quando i disegni più cari falliscono, e ciò deve insegnarci<br>che c’è una divinità che dà forma ai nostri fini,<br>per quanto rozzamente noi li sgrossiamo— |
+| [[characters/horatio\|HORATIO]] | Questo è certissimo. |
+| [[characters/hamlet\|HAMLET]] | Su dalla mia cabina,<br>la casacca da mare gettata addosso nel buio,<br>a tentoni li cercai, ebbi il mio [[motifs/desire\|desiderio]],<br>ghermii il loro plico, e infine mi ritrassi<br>di nuovo nella mia stanza, osando tanto,<br>le mie paure dimentiche del garbo, da dissigillare<br>la loro grande commissione; dove trovai, [[characters/horatio\|Horatio]]—<br>oh, regia furfanteria!—un ordine preciso,<br>infarcito di ragioni d’ogni sorta<br>che toccavano la salute di [[settings/denmark\|Danimarca]], e d’Inghilterra anche,<br>con—oh!—tali spauracchi e demoni nella mia vita,<br>che alla sola lettura, senza indugio concesso,<br>no, neppure il tempo d’affilare la scure,<br>mi fosse mozzata la testa. |
+| [[characters/horatio\|HORATIO]] | È possibile? |
+| [[characters/hamlet\|HAMLET]] | (dandogliela)<br>Ecco la commissione. Leggila con più comodo.<br>Ma vuoi udire come io procedetti? |
+| [[characters/horatio\|HORATIO]] | Ve ne supplico. |
+| [[characters/hamlet\|HAMLET]] | Così irretito tutt’intorno da scelleratezze—<br>prima ch’io potessi fare un prologo al mio cervello,<br>esso aveva già cominciato il dramma—mi sedetti,<br>ideai una nuova commissione, la scrissi in bella grafia.<br>Un tempo ritenevo, come fanno i nostri uomini di stato,<br>bassezza lo scrivere in bella grafia, e molto m’affaticai<br>per dimenticare quell’arte; ma, signore, ora<br>mi rese un servigio da fidato scudiero. Vuoi conoscere<br>la sostanza di ciò che scrissi? |
+| [[characters/horatio\|HORATIO]] | Sì, mio buon signore. |
+| [[characters/hamlet\|HAMLET]] | Una fervida scongiura da parte del [[archetypes/king\|Re]],<br>che, essendo l’Inghilterra suo fedele tributaria,<br>che, dovendo l’[[motifs/love\|amore]] fra loro fiorire come la palma,<br>che, dovendo la pace portare ancora la sua ghirlanda di spighe<br>e stare come virgola fra le loro amicizie,<br>e molti altri simili «che» di gran peso,<br>appena visto e conosciuto tale contenuto,<br>senza ulteriore dibattito, né più né meno,<br>egli mettesse i latori a subitanea [[motifs/death\|morte]],<br>senza concedere il [[motifs/time\|tempo]] della confessione. |
+| [[characters/horatio\|HORATIO]] | Come fu sigillata? |
+| [[characters/hamlet\|HAMLET]] | Ebbene, anche in questo il cielo dispose.<br>Avevo nella borsa il sigillo di mio padre,<br>che era il modello di quel sigillo danese;<br>piegai lo scritto nella forma dell’altro,<br>lo sottoscrissi, v’impressi il suggello, lo riposi al sicuro,<br>e il baratto non fu mai scoperto. Il giorno seguente<br>fu quello della battaglia navale; e ciò che ne seguì<br>tu già lo sai. |
+| [[characters/horatio\|HORATIO]] | Così [[characters/guildenstern\|Guildenstern]] e [[characters/rosencrantz\|Rosencrantz]] vanno incontro alla loro fine. |
+| [[characters/hamlet\|HAMLET]] | Ma via, uomo, essi fecero l’[[motifs/love\|amore]] a quest’incarico.<br>Non toccano la mia [[concepts/conscience\|coscienza]]. La loro rovina<br>nasce dal loro stesso insinuarsi.<br>È pericoloso quando una [[concepts/nature\|natura]] più bassa si caccia<br>fra l’affondo e le punte crudeli e infuocate<br>di potenti avversari. |
+| [[characters/horatio\|HORATIO]] | Ma che [[archetypes/king\|re]] è mai questo! |
+| [[characters/hamlet\|HAMLET]] | Non è forse, non credi, mio stretto dovere ormai—<br>lui che ha ucciso il mio [[archetypes/king\|re]] e prostituito mia madre,<br>si è intruso fra l’elezione e le mie speranze,<br>ha gettato l’amo per la mia stessa vita,<br>e con simile inganno—non è perfetta [[concepts/conscience\|coscienza]]<br>ripagarlo con questo braccio? E non è dannazione<br>lasciare che questo cancro della nostra [[concepts/nature\|natura]] avanzi<br>in ulteriore male? |
+| [[characters/horatio\|HORATIO]] | Presto gli si dovrà sapere dall’Inghilterra<br>quale sia l’esito di quell’affare. |
+| [[characters/hamlet\|HAMLET]] | Sarà breve. L’intervallo è mio,<br>e la vita d’un uomo non è più che dire «uno».<br>Ma molto mi duole, buon [[characters/horatio\|Horatio]],<br>d’aver perduto me stesso con [[characters/laertes\|Laertes]];<br>ché nell’immagine della mia causa vedo<br>il ritratto della sua. Ne [[settings/court\|corteggerò]] il favore.<br>Ma certo, l’ostentazione del suo dolore mi gettò<br>in una collera altissima. |
+| [[characters/horatio\|HORATIO]] | Silenzio, chi viene qui? |
+| *(didascalia)* | Entra il giovane Osric, un cortigiano, togliendosi il cappello |
+| OSRIC | Vostra signoria è davvero il benvenuto di ritorno in [[settings/denmark\|Danimarca]]. |
+| [[characters/hamlet\|HAMLET]] | Vi ringrazio umilmente, signore. (A [[characters/horatio\|Horatio]]) Conosci questo moscerino d’[[motifs/water\|acqua]]? |
+| [[characters/horatio\|HORATIO]] | No, mio buon signore. |
+| [[characters/hamlet\|HAMLET]] | La tua condizione è tanto più felice, ché conoscerlo è un vizio. Possiede molte terre, e fertili. Sia pure una bestia signore di bestie, e la sua greppia starà alla mensa del [[archetypes/king\|re]]. È un villano rifatto, ma, come dico, ampio nel possesso di terra. |
+| OSRIC | Dolce signore, se la vostra [[concepts/friendship\|amicizia]] avesse agio, dovrei comunicarvi qualcosa da parte di sua maestà. |
+| [[characters/hamlet\|HAMLET]] | Lo riceverò, signore, con ogni diligenza di spirito.<br>Mettete il vostro berretto al suo giusto uso; è per la testa. |
+| OSRIC | Ringrazio vostra signoria, fa molto caldo. |
+| [[characters/hamlet\|HAMLET]] | No, credetemi, fa molto freddo. Il [[motifs/wind\|vento]] è di tramontana. |
+| OSRIC | Fa mediocremente freddo, mio signore, in verità. |
+| [[characters/hamlet\|HAMLET]] | A me pare molto afoso e caldo per la mia complessione. |
+| OSRIC | Estremamente, mio signore. È molto afoso, come se—non saprei dire. Ma, mio signore, sua maestà mi ha ordinato di significarvi che ha posto una grande scommessa sul vostro capo. Signore, la faccenda è questa. |
+| [[characters/hamlet\|HAMLET]] | Vi supplico, ricordatevi. |
+| OSRIC | No, mio buon signore, per mio agio, in buona [[concepts/faith\|fede]]. Signore, non vi è ignoto in quale eccellenza sia [[characters/laertes\|Laertes]] con la sua arma. |
+| [[characters/hamlet\|HAMLET]] | Qual è la sua arma? |
+| OSRIC | Spada e pugnale. |
+| [[characters/hamlet\|HAMLET]] | Sono due sue armi. Ma sta [[motifs/well\|bene]]. |
+| OSRIC | Il [[archetypes/king\|Re]], signore, ha scommesso con lui sei cavalli di Barberia, contro i quali egli ha impegnato, a quanto intendo, sei spade francesi e pugnali, con le loro guarnizioni, come cinture, pendagli e simili. Tre degli affusti, in [[concepts/faith\|fede]] mia, sono assai cari alla fantasia, molto rispondenti alle else, affusti delicatissimi, e di concezione assai liberale. |
+| [[characters/hamlet\|HAMLET]] | Che cosa chiamate gli affusti? |
+| OSRIC | Gli affusti, signore, sono i pendagli. |
+| [[characters/hamlet\|HAMLET]] | L’espressione sarebbe più pertinente alla materia se potessimo portare cannoni al fianco. Fino allora vorrei che fossero pendagli. Ma andiamo: sei cavalli di Barberia contro sei spade francesi, le loro guarnizioni e tre affusti di liberale concezione—ecco la puntata francese contro la danese. Perché è stato «impegnato», come voi dite? |
+| OSRIC | Il [[archetypes/king\|Re]], signore, ha puntato, signore, che in una dozzina d’assalti fra voi e lui egli non vi supererà di tre colpi. Egli ha puntato dodici contro nove, e si verrebbe a immediata prova se vostra signoria si degnasse di rispondere. |
+| [[characters/hamlet\|HAMLET]] | E se rispondessi di no? |
+| OSRIC | Intendo, mio signore, l’opposizione della vostra persona alla prova. |
+| [[characters/hamlet\|HAMLET]] | Signore, passeggerò qui nella sala. Se piace a sua maestà, è per me il [[motifs/time\|momento]] del giorno in cui prendo aria. Si portino i fioretti; se il gentiluomo è disposto, e il [[archetypes/king\|Re]] mantiene il suo proposito, vincerò per lui se potrò. Se no, non guadagnerò altro che la mia vergogna e i colpi di troppo. OSRIC Devo riferire proprio così? |
+| [[characters/hamlet\|HAMLET]] | In questo senso, signore; con quali fioriture vorrà la vostra [[concepts/nature\|natura]]. |
+| OSRIC | Raccomando il mio dovere a vostra signoria. |
+| [[characters/hamlet\|HAMLET]] | Vostro, vostro. |
+| *(didascalia)* | Esce Osric |
+| [[characters/hamlet\|HAMLET]] | Fa [[motifs/well\|bene]] a raccomandarlo da sé; non ci sono altre lingue disposte a farlo. |
+| [[characters/horatio\|HORATIO]] | Questa pavoncella corre via col guscio in testa. |
+| [[characters/hamlet\|HAMLET]] | Faceva complimenti alla poppa prima di succhiarla. Così costui—e molti altri della stessa nidiata che io so essere gli idoli di quest’età scoriosa—hanno colto soltanto l’aria del [[motifs/time\|tempo]] e l’abito esteriore del conversare, una sorta di schiuma lievitata che li porta attraverso e attraverso le opinioni più vagliate e ventilate; ma soffiate soltanto su di loro per metterli alla prova, e le bolle scoppiano. |
+| [[characters/horatio\|HORATIO]] | Perderete questa scommessa, mio signore. |
+| [[characters/hamlet\|HAMLET]] | Non credo. Da quando egli è andato in Francia, io mi sono esercitato di continuo. Vincerò col vantaggio. Ma tu non immagineresti quanto mi si addensa qui intorno al cuore—ma non importa. |
+| [[characters/horatio\|HORATIO]] | No, mio buon signore— |
+| [[characters/hamlet\|HAMLET]] | È solo una sciocchezza, ma è una specie di presentimento che turberebbe forse una donna. |
+| [[characters/horatio\|HORATIO]] | Se il vostro animo aborre qualcosa, obbeditegli. Preverrò il loro venire qui, e dirò che non siete disposto. |
+| [[characters/hamlet\|HAMLET]] | Neppure un briciolo. Sfidiamo gli auguri. C’è una speciale [[concepts/providence\|provvidenza]] nella caduta d’un passero. Se è ora, non è a venire. Se non è a venire, sarà ora. Se non è ora, verrà comunque. Essere pronti è tutto. Poiché nessuno possiede nulla di ciò che [[motifs/leaves\|lascia]], che importa lasciare per tempo? |
+| *(didascalia)* | Entrano [[archetypes/king\|Re]] [[characters/claudius\|Claudius]], la [[characters/queen\|Regina]] [[characters/gertrude\|Gertrude]], [[characters/laertes\|Laertes]], e |
+| [[characters/hamlet\|HAMLET]] | signori, con Osric e altri servitori con |
+| *(didascalia)* | trombe, tamburi, cuscini, fioretti e guanti; una |
+| [[characters/hamlet\|HAMLET]] | tavola, e boccali di vino sopra |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Vieni, [[characters/hamlet\|Hamlet]], vieni, e prendi da me questa mano. |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/laertes\|Laertes]])<br>Datemi il vostro perdono, signore. Vi ho fatto torto;<br>ma perdonatelo, da gentiluomo qual siete.<br>Questa assemblea sa,<br>e voi certo avrete udito, come io sia punito<br>da grave alienazione. Ciò che ho fatto<br>e che possa la vostra [[concepts/nature\|natura]], il vostro [[concepts/honour\|onore]] e il vostro risentimento<br>rudemente destare, qui proclamo che fu [[concepts/madness\|follia]].<br>Fu [[characters/hamlet\|Hamlet]] a far torto a [[characters/laertes\|Laertes]]? Mai [[characters/hamlet\|Hamlet]].<br>Se [[characters/hamlet\|Hamlet]] è tolto via da se stesso,<br>e, non essendo se stesso, fa torto a [[characters/laertes\|Laertes]],<br>allora non è [[characters/hamlet\|Hamlet]] a farlo, [[characters/hamlet\|Hamlet]] lo nega.<br>Chi lo fa allora? La sua [[concepts/madness\|follia]]. Se è così,<br>[[characters/hamlet\|Hamlet]] è dalla parte di chi ha ricevuto il torto.<br>La sua [[concepts/madness\|follia]] è nemica del povero [[characters/hamlet\|Hamlet]].<br>Signore, dinanzi a questa udienza<br>il mio ripudio d’ogni male premeditato<br>mi assolva tanto nei vostri generosissimi pensieri<br>ch’io sia come chi ha scagliato la freccia oltre la casa<br>e ferito il proprio fratello. |
+| [[characters/laertes\|LAERTES]] | Sono soddisfatto quanto alla [[concepts/nature\|natura]],<br>il cui movente in questo caso più d’ogni altro dovrebbe spingermi<br>alla [[concepts/revenge\|vendetta]]. Ma nelle ragioni del mio [[concepts/honour\|onore]]<br>resto in disparte, e non voglio riconciliazione<br>finché da anziani maestri di riconosciuto [[concepts/honour\|onore]]<br>non abbia un parere e un precedente di pace<br>che tenga illeso il mio nome; ma fino a quel [[motifs/time\|tempo]]<br>ricevo l’[[motifs/love\|amore]] che m’offrite come [[motifs/love\|amore]],<br>e non gli farò torto. |
+| [[characters/hamlet\|HAMLET]] | Lo abbraccio liberamente,<br>e giocherò lealmente questa scommessa fra fratelli.—<br>(Ai servitori) Dateci i fioretti. Avanti. |
+| [[characters/laertes\|LAERTES]] | (ai servitori)<br>Venite, uno per me. |
+| [[characters/hamlet\|HAMLET]] | Sarò io il vostro fioretto, [[characters/laertes\|Laertes]]. Nella mia ignoranza<br>la vostra maestria, come astro nella [[motifs/night\|notte]] più oscura,<br>risalterà davvero fiammeggiante. |
+| [[characters/laertes\|LAERTES]] | Mi schernite, signore. |
+| [[characters/hamlet\|HAMLET]] | No, per questa mano. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Dà loro i fioretti, giovane Osric. Cugino [[characters/hamlet\|Hamlet]],<br>conosci la scommessa? |
+| [[characters/hamlet\|HAMLET]] | Molto [[motifs/well\|bene]], mio signore.<br>Vostra grazia ha dato il vantaggio alla parte più debole. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Non lo [[concepts/fear\|temo]]; vi ho visti entrambi.<br>Ma poiché egli è migliorato, abbiamo perciò il vantaggio. |
+| [[characters/laertes\|LAERTES]] | (prendendo un fioretto)<br>Questo è troppo pesante; fatemene vedere un altro. |
+| [[characters/hamlet\|HAMLET]] | (prendendo un fioretto)<br>Questo mi piace [[motifs/well\|bene]]. Hanno tutti la stessa lunghezza questi fioretti? |
+| OSRIC | Sì, mio buon signore.<br>[[characters/hamlet\|Hamlet]] e [[characters/laertes\|Laertes]] si preparano a battersi |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (ai servitori)<br>Ponetemi i boccali di vino su quella tavola.<br>Se [[characters/hamlet\|Hamlet]] mette a segno il primo o il secondo colpo,<br>o pareggia in risposta al terzo scambio,<br>tutti i bastioni facciano [[motifs/fire\|fuoco]] con le artiglierie.<br>Il [[archetypes/king\|Re]] berrà al miglior fiato di [[characters/hamlet\|Hamlet]],<br>e nella coppa getterà una [[concepts/union\|perla]]<br>più ricca di quella che quattro re successivi<br>portarono nella [[motifs/crown\|corona]] di [[settings/denmark\|Danimarca]]. Datemi le coppe,<br>e il timpano parli alla tromba,<br>la tromba al cannoniere là fuori,<br>i cannoni ai cieli, il cielo alla terra,<br><br>«Ora il [[archetypes/king\|Re]] beve ad [[characters/hamlet\|Hamlet]]». |
+| *(didascalia)* | Trombe mentre egli beve |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Su, cominciate.<br>E voi, giudici, tenete l’occhio attento. |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/laertes\|Laertes]]) Avanti, signore. |
+| [[characters/laertes\|LAERTES]] | Venite, mio signore.<br>Si battono |
+| [[characters/hamlet\|HAMLET]] | Uno. |
+| [[characters/laertes\|LAERTES]] | No. |
+| [[characters/hamlet\|HAMLET]] | (a Osric) Giudizio. |
+| OSRIC | Un colpo, un colpo palpabilissimo. |
+| [[characters/laertes\|LAERTES]] | [[motifs/well\|Bene]], ancora. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Fermi. Datemi da bere. [[characters/hamlet\|Hamlet]], questa perla è tua.<br>Alla tua salute.— |
+| *(didascalia)* | Tamburo e trombe suonano, e parte una salva Dategli la coppa. |
+| [[characters/hamlet\|HAMLET]] | Prima giocherò questo assalto. Mettetela da parte un poco.—<br>Avanti.<br>Si battono di nuovo<br>Un altro colpo. Che dite? |
+| [[characters/laertes\|LAERTES]] | Un tocco, un tocco, lo confesso. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Nostro figlio vincerà. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | È grasso e corto di fiato.—<br>Qua, [[characters/hamlet\|Hamlet]], prendi il mio fazzoletto. Asciugati la fronte.<br>La [[characters/queen\|Regina]] brinda alla tua fortuna, [[characters/hamlet\|Hamlet]]. |
+| [[characters/hamlet\|HAMLET]] | Buona signora. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | [[characters/gertrude\|Gertrude]], non bere. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | Berrò, mio signore, vi prego di perdonarmi.<br>Beve, poi offre la coppa ad [[characters/hamlet\|Hamlet]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a parte)<br>È la coppa avvelenata; è troppo tardi. |
+| [[characters/hamlet\|HAMLET]] | Non oso ancora bere, signora; fra poco. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | (ad [[characters/hamlet\|Hamlet]]) Vieni, lascia che t’asciughi il viso. |
+| [[characters/laertes\|LAERTES]] | (a parte a [[characters/claudius\|Claudius]]) Mio signore, ora lo colpisco. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (a parte a [[characters/laertes\|Laertes]]) Non lo credo. |
+| [[characters/laertes\|LAERTES]] | (a parte)<br>Eppure è quasi contro la mia [[concepts/conscience\|coscienza]]. |
+| [[characters/hamlet\|HAMLET]] | Venite per il terzo, [[characters/laertes\|Laertes]], voi non fate che scherzare.<br>Vi prego, affondate con la vostra maggior violenza.<br>Temo che facciate di me un bambino viziato. |
+| [[characters/laertes\|LAERTES]] | Dite così? Avanti.<br>Si battono |
+| OSRIC | Nulla né da una parte né dall’altra. |
+| [[characters/laertes\|LAERTES]] | (a [[characters/hamlet\|Hamlet]])<br>A voi, ora! |
+| *(didascalia)* | [[characters/laertes\|Laertes]] ferisce [[characters/hamlet\|Hamlet]]. Nella colluttazione si scambiano |
+| *(didascalia)* | le spade, e [[characters/hamlet\|Hamlet]] ferisce [[characters/laertes\|Laertes]] |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | (ai servitori)<br>Separateli, sono infuriati. |
+| [[characters/hamlet\|HAMLET]] | (a [[characters/laertes\|Laertes]])<br>No, venite ancora. |
+| *(didascalia)* | La [[characters/queen\|Regina]] cade a terra |
+| OSRIC | Badate alla [[characters/queen\|Regina]], ehi! |
+| [[characters/horatio\|HORATIO]] | Sanguinano da entrambe le parti. (Ad [[characters/hamlet\|Hamlet]]) Come state, mio signore? |
+| OSRIC | Come state, [[characters/laertes\|Laertes]]? |
+| [[characters/laertes\|LAERTES]] | Ma come una beccaccia al mio stesso laccio, Osric.<br><br>Sono giustamente ucciso dal mio stesso tradimento. |
+| [[characters/hamlet\|HAMLET]] | Come sta la [[characters/queen\|Regina]]? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Sviene al vederli sanguinare. |
+| [[characters/queen\|REGINA]] [[characters/gertrude\|GERTRUDE]] | No, no, la bevanda, la bevanda! Oh, mio caro [[characters/hamlet\|Hamlet]], |
+| *(didascalia)* | La bevanda, la bevanda—sono avvelenata. Muore |
+| *(didascalia)* | Oh scelleratezza! Ehi! Si serri la porta! Esce Osric |
+| [[characters/hamlet\|HAMLET]] | Tradimento: si cerchi. |
+| [[characters/laertes\|LAERTES]] | È qui, [[characters/hamlet\|Hamlet]]. [[characters/hamlet\|Hamlet]], tu sei ucciso.<br>Nessuna medicina al mondo può giovarti.<br>In te non c’è mezz’ora di vita.<br>Lo strumento proditorio è nella tua mano,<br>senza bottone e avvelenato. La turpe macchinazione<br>s’è rivolta contro di me. Ecco, qui giaccio,<br>per non rialzarmi mai più. Tua madre è avvelenata.<br>Non posso più. Il [[archetypes/king\|Re]], il [[archetypes/king\|Re]] è il colpevole. |
+| [[characters/hamlet\|HAMLET]] | Anche la punta avvelenata? Allora, veleno, al tuo lavoro.<br>Ferisce [[archetypes/king\|Re]] [[characters/claudius\|Claudius]] |
+| TUTTI I CORTIGIANI | Tradimento, tradimento! |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Oh, difendetemi ancora, amici! Sono solo ferito. |
+| [[characters/hamlet\|HAMLET]] | Qua, incestuoso, assassino, dannato danese,<br>tracanna questa pozione. È qui la tua [[concepts/union\|perla]]?<br>Segui mia madre. [[archetypes/king\|Re]] [[characters/claudius\|Claudius]] muore |
+| [[characters/laertes\|LAERTES]] | È giustamente servito.<br>È un [[motifs/poison\|veleno]] temperato da lui stesso.<br>Scambia il [[concepts/forgiveness\|perdono]] con me, nobile [[characters/hamlet\|Hamlet]].<br>La mia [[motifs/death\|morte]] e quella di mio padre non ricadano su di te,<br>né la tua su di me. Muore |
+| [[characters/hamlet\|HAMLET]] | Il cielo te ne assolva! Io ti seguo.<br>Sono morto, [[characters/horatio\|Horatio]]. Misera [[characters/queen\|Regina]], addio!<br>Voi che impallidite e tremate a questo caso,<br>che siete solo comparse mute o pubblico di quest’atto,<br>se avessi [[motifs/time\|tempo]]—ma questo crudele sbirro, la [[motifs/death\|Morte]],<br>è rigoroso nel suo arresto—oh, potrei dirvi—<br>ma sia. [[characters/horatio\|Horatio]], io sono morto,<br>tu vivi. Riferisci giustamente di me e della mia causa<br>a chi non è appagato. |
+| [[characters/horatio\|HORATIO]] | Non crederlo mai.<br>Sono più romano antico che danese.<br>Qui resta ancora del liquore. |
+| [[characters/hamlet\|HAMLET]] | Come sei uomo,<br>dammi la coppa. Lascia. Per il cielo, l’avrò.<br>Oh Dio, [[characters/horatio\|Horatio]], che nome ferito,<br>restando le cose così ignorate, vivrà dopo di me!<br>Se mai m’hai tenuto nel tuo cuore,<br>tienti lontano dalla felicità ancora un poco,<br>e in questo aspro mondo trai il tuo respiro nel [[motifs/pain\|dolore]]<br>per raccontare la mia storia.<br>Marcia in lontananza, e grida da dentro<br>Che rumore di guerra è questo? |
+| *(didascalia)* | Entra Osric |
+| OSRIC | Il giovane Fortinbras, tornato vittorioso dalla Polonia,<br>agli ambasciatori d’Inghilterra rende<br>questa salva guerriera. |
+| [[characters/hamlet\|HAMLET]] | Oh, io muoio, [[characters/horatio\|Horatio]]!<br>Il potente [[motifs/poison\|veleno]] soverchia del tutto il mio spirito.<br>Non posso vivere per udire le notizie d’Inghilterra,<br>ma profetizzo che l’elezione cadrà<br>su Fortinbras. Egli ha il mio voto di morente.<br>Diglielo, con gli avvenimenti, grandi e piccoli,<br>che l’hanno sollecitata. Il resto è [[motifs/silence\|silenzio]].<br>Oh, oh, oh, oh!<br>Muore |
+| [[characters/horatio\|HORATIO]] | Ora s’infrange un nobile cuore. Buona [[motifs/night\|notte]], dolce principe,<br>e voli d’angeli ti cantino il tuo riposo.—<br>Perché viene qui il tamburo? |
+| *(didascalia)* | Entra Fortinbras con gli Ambasciatori inglesi, con un tamburino, insegne e servitori |
+| FORTINBRAS | Dov’è questo spettacolo? |
+| [[characters/horatio\|HORATIO]] | Che cosa vorreste vedere?<br>Se cosa di dolore o di [[concepts/wonder\|meraviglia]], cessate la ricerca. |
+| FORTINBRAS | Questa preda grida strage. Oh superba [[motifs/death\|Morte]],<br>qual banchetto s’appresta nella tua cella eterna,<br>che tanti principi in un sol colpo<br>hai abbattuto così sanguinosamente! |
+| AMBASCIATORE | Lo spettacolo è funesto,<br>e le nostre notizie d’Inghilterra giungono troppo tardi.<br>Sono insensibili gli orecchi che dovrebbero ascoltarci<br>per dirgli che il suo comando è compiuto,<br>che [[characters/rosencrantz\|Rosencrantz]] e [[characters/guildenstern\|Guildenstern]] sono morti.<br>Da chi avremo il nostro ringraziamento? |
+| [[characters/horatio\|HORATIO]] | Non dalla sua bocca,<br>quand’anche avesse vita per ringraziarvi.<br>Egli non diede mai ordine per la loro [[motifs/death\|morte]].<br>Ma poiché così a ridosso di questa sanguinosa vicenda<br>voi dalle guerre di Polonia, e voi d’Inghilterra,<br>siete qui giunti, date ordine che questi corpi<br>siano posti in alto su un palco alla vista di tutti;<br>e lasciate ch’io dica al mondo ancora ignaro<br>come queste cose siano accadute. Così udrete<br>di atti carnali, sanguinari e contro natura,<br>di giudizi fortuiti, di stragi casuali,<br>di morti operate con astuzia e per causa forzata;<br>e, in questo esito, di disegni sviati<br>ricaduti sul capo dei loro inventori. Tutto questo io posso<br>fedelmente riferire. |
+| FORTINBRAS | Affrettiamoci a udirlo,<br>e si chiamino i più nobili all’ascolto.<br>Quanto a me, con dolore abbraccio la mia fortuna.<br>Ho in questo regno alcuni diritti di [[motifs/memory\|memoria]],<br>che ora l’occasione m’invita a rivendicare. |
+| [[characters/horatio\|HORATIO]] | Anche di ciò avrò motivo di parlare,<br>e per bocca di colui la cui voce ne trarrà altre.<br>Ma si compia subito quest’altra cosa,<br>mentre gli animi degli uomini sono ancora selvaggi, perché altra<br>sventura<br>non nasca da trame ed errori. |
+| FORTINBRAS | Quattro capitani<br>portino [[characters/hamlet\|Hamlet]] come un soldato sul palco,<br>ché era probabile, se fosse stato messo alla prova,<br>che si mostrasse regalmente; e per il suo transito<br>la musica dei soldati e i riti di guerra<br>parlino forte per lui.<br>Sollevate il [[concepts/body\|corpo]]. Uno spettacolo come questo<br>s’addice al campo, ma qui appare assai fuori luogo.<br>Andate, dite ai soldati di sparare. |
+| *(didascalia)* | Escono, marciando, con i corpi; dopo di che parte una salva d’artiglieria |
+| PASSI AGGIUNTIVI | A. Poco prima della seconda entrata dello [[archetypes/ghost\|Spettro]] in 1.1 (v. 106.1), Q2 ha questi versi aggiuntivi: |
+| BARNARDO | Credo che non sia altro che proprio così.<br>[[motifs/well\|Bene]] può convenire che questa figura portentosa<br>venga armata attraverso la nostra guardia, così simile al [[archetypes/king\|re]]<br>che fu ed è il motivo di queste guerre. |
+| [[characters/horatio\|HORATIO]] | È un granello che turba l’occhio della mente.<br>Nello stato più alto e rigoglioso di Roma,<br>poco prima che cadesse il potentissimo Giulio,<br>le tombe restarono senza inquilini, e i morti nei sudari<br>squittivano e farfugliavano per le vie romane<br>fra [[motifs/stars\|astri]] con code di [[motifs/fire\|fuoco]], e rugiade di [[motifs/blood\|sangue]],<br>funesti segni nel sole; e l’astro umido,<br>sul cui influsso si regge l’impero di Nettuno,<br>era malato d’eclissi quasi fino al giorno del giudizio.<br>E proprio simili presagi di eventi temuti,<br>quali araldi che sempre precedono i destini,<br>e prologo al presagio che s’avvicina,<br>cielo e terra insieme hanno mostrato<br>al nostro clima e ai nostri compatrioti.<br><br>B. Poco prima dell’entrata dello [[archetypes/ghost\|Spettro]] in 1.4 (v. 18.1),<br>Q2 ha questi versi aggiuntivi che continuano il discorso di [[characters/hamlet\|Hamlet]]:<br>Questa gozzoviglia dal capo pesante, a oriente e a occidente,<br>ci fa diffamare e biasimare dalle altre nazioni.<br>Ci chiamano ubriaconi, e con parole porcine<br>insozzano il nostro titolo; e in verità ciò toglie<br>alle nostre imprese, benché compiute al sommo grado,<br>Così accade spesso in uomini particolari<br>che, per qualche vizioso neo di [[concepts/nature\|natura]] in loro—<br>come nella nascita, di cui non sono colpevoli,<br>poiché la [[concepts/nature\|natura]] non può scegliere la propria origine,<br>per il soverchiare di qualche umore,<br>che spesso abbatte gli steccati e i forti della ragione,<br>o per qualche abitudine che troppo lievita<br>la forma dei modi piacevoli—che questi uomini,<br>portando, dico, l’impronta d’un solo difetto,<br>sia livrea della [[concepts/nature\|natura]] o stella della fortuna,<br>per quanto le altre loro virtù siano pure come la grazia<br>e infinite quanto un uomo ne possa sostenere,<br>nel giudizio generale prenderanno corruzione<br>da quel particolare difetto. La dramma di male<br>imbratta tutta la nobile sostanza<br>a proprio scandalo.<br><br>C. Dopo 1.4.55, Q2 ha questi versi aggiuntivi che continuano il discorso di [[characters/horatio\|Horatio]]:<br>Il luogo stesso mette capricci di disperazione,<br>senza altro motivo, in ogni cervello<br>che guardi tante braccia giù verso il mare<br>e lo oda ruggire là sotto.<br><br>D. Dopo 3.2.163, Q2 ha questo distico aggiuntivo che conclude il discorso della [[characters/queen\|Regina]] Attrice:<br>Dov’è grande l’[[motifs/love\|amore]], i minimi dubbi sono [[concepts/fear\|timore]];<br>dove i piccoli timori si fanno grandi, ivi cresce grande l’[[motifs/love\|amore]].<br><br>E. Dopo 3.2.208, Q2 ha questo distico aggiuntivo nel mezzo del discorso della [[characters/queen\|Regina]] Attrice:<br>In disperazione si mutino la mia fiducia e la mia [[concepts/hope\|speranza]];<br>il magro vitto d’un romito in [[motifs/prison\|prigione]] sia il mio scopo.<br><br>F. Dopo «this?» in 3.4.70, Q2 ha questa versione più ampia dei versi di [[characters/hamlet\|Hamlet]] di cui F conserva solo «what devil . . . blind»:<br><br>Sensi di certo ne avete,<br>altrimenti non potreste muovervi; ma certo quel senso<br>è apoplettico, ché la [[concepts/madness\|follia]] non errerebbe,<br>né mai il senso fu così asservito al delirio<br>da non riservare qualche misura di scelta<br>per servire in una differenza simile. Quale diavolo fu<br>che così v’ha ingannata a mosca cieca?<br>Occhi senza tatto, tatto senza vista,<br>orecchi senza mani né occhi, odorato senza tutto,<br>o anche solo una parte malata d’un vero senso<br>non potrebbe smarrirsi tanto.<br><br>G. Dopo 3.4.151, Q2 ha questa versione più ampia dei versi di [[characters/hamlet\|Hamlet]] di cui F conserva solo «refrain . . . abstinence»:<br>Quel [[archetypes/monster\|mostro]] dell’abitudine, che divora ogni sentire,<br>d’usanze diaboliche, è tuttavia angelo in questo:<br>che all’esercizio di azioni belle e buone<br>dà del pari una veste o una livrea<br>che si indossa acconciamente. Astenetevi stanotte,<br>e ciò darà una sorta di facilità<br>alla prossima astinenza, e la seguente sarà più facile—<br>ché l’uso può quasi mutare l’impronta della [[concepts/nature\|natura]]—<br>e o alloggiare il diavolo, o cacciarlo fuori<br>con mirabile potenza.<br><br>H. In 3.4.185, Q2 ha questi versi aggiuntivi prima di «This man . . .»: |
+| [[characters/hamlet\|HAMLET]] | Ci sono lettere sigillate, e i miei due compagni di scuola—<br>di cui mi fiderò come di vipere con le zanne—<br>essi recano il mandato, devono spazzarmi la via<br>e condurmi alla furfanteria. Che agisca pure,<br>ché è bello spasso vedere l’artificiere<br>sbalzato in aria dalla sua stessa mina; e sarà ben duro<br>se non scaverò una iarda sotto le loro mine<br>e non li farò saltare fino alla [[motifs/moon\|luna]]. Oh, è dolcissimo<br>quando su una sola linea due astuzie s’incontrano dritte.<br><br>1. Dopo «done» in 4.1.39, Q2 ha questi versi aggiuntivi che continuano il discorso del [[archetypes/king\|Re]] (le prime tre parole sono congettura editoriale):<br>Così l’invidiosa calunnia,<br>il cui sussurro per il diametro del mondo,<br><br>diritto come il cannone al suo bersaglio,<br>porta il colpo avvelenato, può mancare il nostro nome<br>e colpire l’aria invulnerabile.<br>J. Q2 ha questa versione più ampia della fine di 4.4: |
+| CAPITANO | Lo farò, mio signore. |
+| FORTINBRAS | Procedete lentamente. |
+| *(didascalia)* | Esce col suo esercito |
+| *(didascalia)* | Entrano il principe [[characters/hamlet\|Hamlet]], [[characters/rosencrantz\|Rosencrantz]], [[characters/guildenstern\|Guildenstern]], ecc. |
+| [[characters/hamlet\|HAMLET]] | (al Capitano) Buon signore, di chi sono queste truppe? |
+| CAPITANO | Sono di Norvegia, signore. |
+| [[characters/hamlet\|HAMLET]] | Con quale scopo, signore, vi prego? |
+| CAPITANO | Contro qualche parte della Polonia. |
+| [[characters/hamlet\|HAMLET]] | Chi le comanda, signore? |
+| CAPITANO | Il nipote del vecchio re di Norvegia, Fortinbras. |
+| [[characters/hamlet\|HAMLET]] | Muove contro il cuore della Polonia, signore, o contro qualche frontiera? |
+| CAPITANO | A dire il vero, e senza aggiungere nulla,<br>andiamo a conquistare un piccolo lembo di terra<br>che in sé non ha altro profitto che il nome.<br>Per cinque ducati, cinque, non lo prenderei in affitto,<br>né renderebbe alla Norvegia o al Polacco<br>una rendita maggiore, se fosse venduto in perpetuo. |
+| [[characters/hamlet\|HAMLET]] | Allora il Polacco non lo difenderà mai. |
+| CAPITANO | Sì, è già presidiato. |
+| [[characters/hamlet\|HAMLET]] | Duemila anime e ventimila ducati<br>ora dibatteranno la questione di questa pagliuzza.<br>Questo è l’ascesso di troppa ricchezza e pace,<br>che scoppia dentro e non mostra fuori la causa<br>per cui l’uomo muore. Vi ringrazio umilmente, signore. |
+| CAPITANO | Dio sia con voi, signore. Esce |
+| [[characters/rosencrantz\|ROSENCRANTZ]] | Vi piace andare, mio signore? |
+| [[characters/hamlet\|HAMLET]] | Sarò con voi subito. Andate un poco avanti. |
+| *(didascalia)* | Escono tutti tranne [[characters/hamlet\|Hamlet]] |
+| [[characters/hamlet\|HAMLET]] | Come ogni occasione depone contro di me<br>e sprona la mia ottusa [[concepts/revenge\|vendetta]]! Che cos’è un uomo<br>se il suo bene supremo e il commercio del suo [[motifs/time\|tempo]]<br>sono solo [[motifs/sleep\|dormire]] e nutrirsi?—una bestia, nulla più.<br>Certo, colui che ci fece con sì ampio discernimento,<br>capace di guardare avanti e indietro, non ci diede<br>quella facoltà e quella ragione simile a Dio<br>perché ammuffisse in noi inusata. Ora, sia essa<br>bestiale oblio, o qualche vile scrupolo<br>di pensare troppo minutamente all’esito—<br>un pensiero che, diviso in quattro, ha una parte sola di saggezza<br>e sempre tre parti di viltà—io non so<br>perché ancora io viva a dire «questa cosa è da fare»,<br>giacché ho causa, e volontà, e forza, e mezzi<br>per farla. Esempi grossi come la terra m’esortano:<br>testimone quest’esercito di tanta mole e tanta spesa,<br>guidato da un principe delicato e tenero,<br>il cui spirito, gonfio di divina [[concepts/ambition\|ambizione]],<br>fa smorfie all’esito invisibile,<br>esponendo ciò che è mortale e incerto<br>a tutto quanto osano la fortuna, la [[motifs/death\|morte]] e il pericolo,<br>e ciò per un guscio d’uovo. Essere grandi davvero<br>non è muoversi senza grande ragione,<br>ma trovare grandemente motivo di lite in una pagliuzza<br>quando è in gioco l’[[concepts/honour\|onore]]. E io come sto, allora,<br>che ho un padre ucciso, una madre contaminata,<br>eccitamenti della mia ragione e del mio [[motifs/blood\|sangue]],<br>e lascio tutto [[motifs/sleep\|dormire]], mentre, a mia vergogna, vedo<br>l’imminente [[motifs/death\|morte]] di ventimila uomini<br>che, per una fantasia e un inganno di gloria,<br>vanno alle loro tombe come a letti, combattono per un lembo<br>sul quale il loro numero non può contendere la causa,<br>e che non è tomba abbastanza capace<br>da nascondere gli uccisi. Oh, da questo [[motifs/time\|tempo]] in poi<br>i miei pensieri siano sanguinosi, o non valgano nulla! |
+| *(didascalia)* | Esce |
+| [[characters/hamlet\|HAMLET]] | K. Dopo «accident» in 4.7.67, Q2 ha questi versi aggiuntivi: |
+| [[characters/laertes\|LAERTES]] | Mio signore, mi lascerò guidare,<br>tanto più se poteste disporre le cose<br>in modo ch’io ne fossi lo strumento. |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Cade a proposito.<br>Da quando siete in viaggio, molto s’è parlato di voi,<br>e ciò all’udito di [[characters/hamlet\|Hamlet]], per una qualità<br>nella quale dicono che eccelliate. La somma delle vostre doti<br>non gli strappò tutta insieme tanta invidia<br>quanta quell’unica, che, a mio giudizio,<br>è del rango più indegno. |
+| [[characters/laertes\|LAERTES]] | Quale dote è, mio signore? |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | Un semplice nastro sul berretto della giovinezza,<br>eppure necessario, ché alla giovinezza non meno s’addice<br>la livrea leggera e spensierata che indossa<br>di quanto all’età matura le sue zibelline e le sue vesti<br>che significano salute e gravità.<br><br>L. Dopo «match you» in 4.7.85, Q2 ha questi versi aggiuntivi che continuano il discorso del [[archetypes/king\|Re]]:<br>Gli schermidori della loro nazione<br>giurò che non avevano né movimento, né guardia, né occhio<br>se voi li affrontavate.<br>M. Dopo 4.7.96, Q2 ha questi versi aggiuntivi che continuano il discorso del [[archetypes/king\|Re]]:<br>Vive dentro la fiamma stessa dell’[[motifs/love\|amore]]<br>una sorta di lucignolo o moccolo che la smorzerà,<br>e nulla si mantiene sempre in ugual bontà,<br>ché la bontà, crescendo fino alla pletora, |
+| *(didascalia)* | Muore nel proprio eccesso. Ciò che vorremmo fare |
+| [[archetypes/king\|RE]] [[characters/claudius\|CLAUDIUS]] | dovremmo farlo quando lo vogliamo, ché questo «vorremmo» muta,<br>e ha altrettante diminuzioni e ritardi<br>quante sono le lingue, le mani, gli accidenti;<br>e allora questo «dovremmo» è come il sospiro d’un prodigo,<br>che nuoce sollevando. Ma al vivo dell’ulcera—<br><br>N. Dopo «Sir» in 5.2.107, Q2 ha questi versi (in luogo di «you are not ignorant of what excellence [[characters/laertes\|Laertes]] is at his weapon» di F):<br>è giunto or ora a [[settings/court\|corte]] [[characters/laertes\|Laertes]], credetemi, un gentiluomo assoluto, pieno di eccellentissime distinzioni, di soavissima compagnia e di gran presenza. Invero, a parlarne con sentimento, egli è la carta o il calendario della gentilezza, ché in lui troverete il continente di quanto un gentiluomo desideri vedere. |
+| [[characters/hamlet\|HAMLET]] | Signore, la sua definizione non subisce alcuna perdita in voi, benché io sappia che dividerlo per inventario darebbe le vertigini all’aritmetica della [[motifs/memory\|memoria]], e tuttavia non farebbe che sbandare rispetto alla sua rapida corsa. Ma nella verità dell’elogio, lo ritengo un’[[motifs/soul\|anima]] di grande portata, e la sua essenza di tale rarità e preziosità che, a dirne il vero, il suo simile è il suo [[motifs/mirror\|specchio]], e chiunque altro voglia seguirne le orme non ne è che l’ombra, nulla di più. |
+| OSRIC | Vostra signoria parla di lui infallibilmente. |
+| [[characters/hamlet\|HAMLET]] | E il proposito, signore? Perché avvolgiamo il gentiluomo nel nostro fiato più rozzo? |
+| OSRIC | Signore? |
+| [[characters/horatio\|HORATIO]] | Non è possibile intendersi in un’altra lingua? Ci riuscirete, signore, e magnificamente. |
+| [[characters/hamlet\|HAMLET]] | Che importa la nominazione di questo gentiluomo? OSRIC Di [[characters/laertes\|Laertes]]? |
+| [[characters/horatio\|HORATIO]] | (a parte ad [[characters/hamlet\|Hamlet]]) La sua borsa è già vuota; tutte le sue parole d’oro sono spese. |
+| [[characters/hamlet\|HAMLET]] | (a Osric) Di lui, signore. |
+| OSRIC | So che non vi è ignoto— |
+| [[characters/hamlet\|HAMLET]] | Vorrei che lo fosse a voi, signore; e tuttavia, in [[concepts/faith\|fede]] mia, se anche lo sapeste non tornerebbe molto a mio credito. [[motifs/well\|Ebbene]], signore? |
+| OSRIC | Non vi è ignoto in quale eccellenza sia [[characters/laertes\|Laertes]]. |
+| [[characters/hamlet\|HAMLET]] | Non oso confessarlo, per non paragonarmi a lui in eccellenza. Ma conoscere [[motifs/well\|bene]] un uomo sarebbe conoscere se stessi. |
+| OSRIC | Intendo, signore, quanto alla sua arma. Ma per la fama che gliene attribuiscono, nel suo merito egli è senza pari.<br><br>O. Dopo 5.2.118, Q2 ha il seguente discorso aggiuntivo: |
+| [[characters/horatio\|HORATIO]] | (a parte ad [[characters/hamlet\|Hamlet]]) Sapevo che avreste avuto bisogno delle note in margine prima di finire.<br><br>P. Dopo 5.2.154, Q2 ha quanto segue (in luogo di «[[characters/horatio\|HORATIO]] You will lose this wager, my lord» di F): |
+| *(didascalia)* | Entra un Signore |
+| SIGNORE | (ad [[characters/hamlet\|Hamlet]]) Mio signore, sua maestà si è raccomandato a voi per mezzo del giovane Osric, il quale gli riporta che voi lo attendete nella sala. Manda a sapere se il vostro proposito di battervi con [[characters/laertes\|Laertes]] regga ancora, o se preferiate prendere più [[motifs/time\|tempo]]. |
+| [[characters/hamlet\|HAMLET]] | Sono costante nei miei propositi; essi seguono il piacere del [[archetypes/king\|Re]]. Se la sua disposizione parla, la mia è pronta, ora o in qualunque momento, purché io sia in grado come adesso. |
+| SIGNORE | Il [[archetypes/king\|Re]] e la [[characters/queen\|Regina]] e tutti stanno scendendo. |
+| [[characters/hamlet\|HAMLET]] | In buon [[motifs/time\|punto]]. |
+| SIGNORE | La [[characters/queen\|Regina]] desidera che usiate qualche gentile cortesia a [[characters/laertes\|Laertes]] prima di mettervi a giocare. |
+| [[characters/hamlet\|HAMLET]] | Ella mi consiglia [[motifs/well\|bene]]. Esce il Signore |
+| [[characters/horatio\|HORATIO]] | Perderete, mio signore. |
+| TWELFTH | [[motifs/night\|NIGHT]], the end of the Christmas season, was traditionally a [[motifs/time\|time]] of revelry and topsy-turvydom; Shakespeare’s title for a play in which a servant aspires to his mistress’s hand has no more specific reference. It was thought appropriate to the festive occasion of Candlemas (2 February) 1602 when, in the first known allusion to it, John Manningham, a law student of the Middle Temple in [[settings/london\|London]], noted ‘at our feast we had a play called [[clusters/twelfth-night\|Twelfth Night]], or What You Will’. References to ‘the Sophy’—the Shah of Persia (2.5.174; 3.4.271)—probably post-date Sir Robert [[works/shirley-(bronte)\|Shirley]]’s return from Persia, in a [[motifs/ship\|ship]] named The Sophy, in 1599; and ‘the new map with the augmentation of the Indies’ (3.2.75) appears to be one published in 1599 and reissued in 1600. Shakespeare may have picked up the name [[characters/orsino\|Orsino]] for his young duke from a Tuscan nobleman whom [[characters/queen-elizabeth\|Queen Elizabeth]] entertained at Whitehall with a play performed by Shakespeare’s company on [[clusters/twelfth-night\|Twelfth Night]] 1601. Probably he wrote [[clusters/twelfth-night\|Twelfth Night]] during that year.<br>[[clusters/twelfth-night\|Twelfth Night]]’s romantic setting is Illyria, the Greek and Roman name for Adriatic territory roughly corresponding to the former Yugoslavia. Manningham had noted that the play was ‘much like The [[forms/comedy\|Comedy]] of Errors or Menaechmi in Plautus’, thinking no [[concepts/doubt\|doubt]] of the confusions created by identical twins. Shakespeare may also have known an anonymous Italian [[forms/comedy\|comedy]], GI’Ingannati (The Deceived Ones), acted in 1531 and first printed in 1537, which influenced a number of other plays and prose tales including Barnaby Riche’s story of Apolonius and Silla printed as part of Riche’s Farewell to Military Profession (1581). Riche gave Shakespeare his main plot of a shipwrecked girl ([[characters/viola\|Viola]]) who, disguised as a boy (Cesario), serves a young Duke ([[characters/orsino\|Orsino]]) and undertakes [[motifs/love\|love]]-errands on his behalf to a noble lady ([[characters/olivia\|Olivia]]) who falls in [[motifs/love\|love]] with her but mistakenly marries her twin brother ([[characters/sebastian\|Sebastian]]). Shakespeare idealizes Riche’s characters and purges the story of some of its explicit [[concepts/sexuality\|sexuality]]: Riche’s [[characters/olivia\|Olivia]], for example, is pregnant before [[motifs/marriage\|marriage]], and his [[characters/viola\|Viola]] reveals her [[concepts/identity\|identity]], in a manner impractical for a boy actor, by stripping to the waist. Shakespeare complicates the plot by giving [[characters/olivia\|Olivia]] a reprobate uncle, [[characters/sir-toby-belch\|Sir Toby Belch]], and two additional suitors, the asinine [[characters/sir-andrew-aguecheek\|Sir Andrew Aguecheek]] and her steward, [[characters/malvolio\|Malvolio]], tricked by members of her household into believing that she loves him. More important to the play than to the plot is the entirely Shakespearian clown, [[characters/feste\|Feste]], a wry and oblique commentator whose wit in folly is opposed to [[characters/malvolio\|Malvolio]]’s folly in wit.<br>[[clusters/twelfth-night\|Twelfth Night]] is the consummation of Shakespeare’s romantic [[forms/comedy\|comedy]], a play of wide emotional range, extending from the robust, brilliantly orchestrated humour of the scene of midnight revelry (2.2) to the rapt [[concepts/wonder\|wonder]] of the antiphon of recognition (5.1.224-56) between the reunited twins. In performance the balance shifts, favouring sometimes the exposure and celebration of folly, at other times the poignancy of unattained [[motifs/love\|love]] and of unheeded wisdom; but few other plays have so consistently provided theatrical pleasure of so high an order. |
+| THE PERSONS OF THE | PLAY<br>[[characters/orsino\|ORSINO]], Duke of Illyria |
+| SECOND OFFICER | [[characters/viola\|VIOLA]], a lady, later disguised as Cesario<br>A CAPTAIN<br>[[characters/sebastian\|SEBASTIAN]], her twin brother<br>[[characters/antonio\|ANTONIO]], another sea-captain<br>[[characters/olivia\|OLIVIA]], a Countess<br>[[characters/maria\|MARIA]], her waiting-gentlewoman |
+| SIR TOBY | Belch, [[characters/olivia\|Olivia]]’s kinsman |
+| SIR ANDREW | Aguecheek, companion of Sir Toby<br>[[characters/malvolio\|MALVOLIO]], [[characters/olivia\|Olivia]]’s steward<br>FABIAN, a member of [[characters/olivia\|Olivia]]’s household |
+| [[characters/feste\|FESTE]] | the Clown, her jester<br>A PRIEST<br>A SERVANT of [[characters/olivia\|Olivia]]<br>Musicians, sailors, lords, attendants |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1" data-title="Hamlet — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/cross,motif/death,motif/fire,motif/hill,motif/night,motif/time,motif/well,concept/fear,concept/pride,concept/truth,concept/wonder,setting/denmark,character/hamlet,character/horatio,character/sunday,character/witch"></span>
@@ -2141,188 +3583,6 @@ The [[forms/tragedy|Tragedy]] of [[characters/hamlet|Hamlet]], Prince of [[setti
 | [[characters/polonius\|POLONIUS]] | Come, go with me. I will go seek the [[archetypes/king\|King]].<br>This is the very ecstasy of [[motifs/love\|love]],<br>Whose violent property fordoes itself<br>And leads the will to desperate undertakings<br>As oft as any passion under heaven<br>That does afflict our natures. I am sorry—<br>What, have you given him any hard words of late? |
 | [[characters/ophelia\|OPHELIA]] | No, my good lord, but as you did command<br>I did repel his letters and denied<br>His access to me. |
 | [[characters/polonius\|POLONIUS]] | That hath made him mad.<br>I am sorry that with better [[characters/speed\|speed]] and judgement<br>I had not quoted him. I feared he did but trifle<br>And meant to wreck thee. But beshrew my [[concepts/jealousy\|jealousy]]!<br>By heaven, it is as proper to our age<br>To cast beyond ourselves in our opinions<br>As it is common for the younger sort<br>To lack discretion. Come, go we to the [[archetypes/king\|King]].<br>This must be known, which, being kept close, might<br>move<br>More grief to hide than hate to utter [[motifs/love\|love]]. Exeunt |
-| *(didascalia)* | 2.2 Flourish. Enter [[archetypes/king\|King]] [[characters/claudius\|Claudius]] and [[characters/queen\|Queen]] [[characters/gertrude\|Gertrude]], [[characters/rosencrantz\|Rosencrantz]] and [[characters/guildenstern\|Guildenstern]], with others |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | Welcome, dear [[characters/rosencrantz\|Rosencrantz]] and [[characters/guildenstern\|Guildenstern]].<br>Moreover that we much did long to see you,<br>The need we have to use you did provoke<br>Our hasty sending. Something have you heard<br>Of [[characters/hamlet\|Hamlet]]’s transformation—so I call it,<br>Since not th‘exterior nor the inward man<br>Resembles that it was. What it should be,<br>More than his father’s [[motifs/death\|death]], that thus hath put him<br>So much from th’understanding of himself,<br>I cannot deem of. I entreat you both<br>That, being of so young days brought up with him,<br>And since so neighboured to his youth and humour,<br>That you vouchsafe your rest here in our [[settings/court\|court]]<br>Some little [[motifs/time\|time]], so by your companies<br>To draw him on to pleasures, and to gather,<br>So much as from occasions you may glean,<br>Whether aught to us unknown afflicts him thus<br>That, opened, lies within our remedy. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | Good gentlemen, he hath much talked of you,<br>And sure I am two men there is not living<br>To whom he more adheres. If it will please you<br>To show us so much gentry and good will<br>As to expend your [[motifs/time\|time]] with us a while<br>For the supply and profit of our [[concepts/hope\|hope]],<br>Your visitation shall receive such thanks<br>As fits a [[archetypes/king\|king]]’s remembrance. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Both your majesties<br>Might, by the sovereign power you have of us,<br>Put your dread pleasures more into command<br>Than to entreaty. |
-| [[characters/guildenstern\|GUILDENSTERN]] | But we both obey,<br>And here give up ourselves in the full bent<br>To lay our service freely at your feet<br>To be commanded. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | Thanks, [[characters/rosencrantz\|Rosencrantz]] and gentle [[characters/guildenstern\|Guildenstern]]. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | Thanks, [[characters/guildenstern\|Guildenstern]] and gentle [[characters/rosencrantz\|Rosencrantz]].<br>And I beseech you instantly to visit<br>My too-much changed son.—Go, some of ye,<br>And bring the gentlemen where [[characters/hamlet\|Hamlet]] is. |
-| [[characters/guildenstern\|GUILDENSTERN]] | Heavens make our presence and our practices<br>Pleasant and helpful to him. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | Ay, amen! |
-| *(didascalia)* | Exeunt [[characters/rosencrantz\|Rosencrantz]] and [[characters/guildenstern\|Guildenstern]] with others Enter [[characters/polonius\|Polonius]] |
-| [[characters/polonius\|POLONIUS]] | Th’ambassadors from Norway, my good lord,<br>Are joyfully returned. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | Thou still hast been the father of good news. |
-| [[characters/polonius\|POLONIUS]] | Have I, my lord? Assure you, my good liege,<br>I hold my duty, as I hold my [[motifs/soul\|soul]],<br>Both to my God and to my gracious [[archetypes/king\|King]].<br>And I do think—or else this brain of mine<br>Hunts not the trail of policy so sure<br>As it hath used to do—that I have found<br>The very cause of [[characters/hamlet\|Hamlet]]’s lunacy. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | O speak of that, that I do long to hear! |
-| [[characters/polonius\|POLONIUS]] | Give first admittance to th’ambassadors.<br>My news shall be the fruit to that great feast. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | Thyself do grace to them, and bring them in. |
-| *(didascalia)* | Exit [[characters/polonius\|Polonius]] |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | He tells me, my sweet [[characters/queen\|queen]], that he hath found<br>The head and source of all your son’s distemper. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | I [[concepts/doubt\|doubt]] it is no other but the main—<br>His father’s [[motifs/death\|death]] and our o’er-hasty [[motifs/marriage\|marriage]]. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | [[motifs/well\|Well]], we shall sift him. |
-| *(didascalia)* | Enter [[characters/polonius\|Polonius]], Valtemand, and Cornelius Welcome, my good friends. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | Say, Valtemand, what from our brother Norway? |
-| VALTEMAND | Most fair return of greetings and desires.<br>Upon our first he sent out to suppress<br>His nephew’s levies, which to him appeared<br>To be a preparation ‘gainst the Polack;<br>But better looked into, he truly found<br>It was against your highness; whereat grieved<br>That so his sickness, age, and impotence<br>Was falsely borne in hand, sends out arrests<br>On Fortinbras, which he, in brief, obeys,<br>Receives rebuke from Norway, and, in fine,<br>Makes vow before his uncle never more<br>To give th’[[forms/essay\|essay]] of arms against your majesty;<br>Whereon old Norway, overcome with joy,<br>Gives him three thousand crowns in annual fee<br>And his commission to employ those soldiers<br>So levied as before, against the Polack,<br>With an entreaty herein further shown,<br>He gives a letter to [[characters/claudius\|Claudius]]<br><br>That it might please you to give quiet pass<br>Through your dominions for his enterprise<br>On such regards of safety and allowance<br>As therein are set down. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | It likes us [[motifs/well\|well]],<br>And at our more considered [[motifs/time\|time]] we’ll read,<br>Answer, and think upon this business.<br>Meantime we thank you for your [[motifs/well\|well]]-took labour.<br>Go to your rest; at [[motifs/night\|night]] we’ll feast together.<br>Most welcome [[motifs/home\|home]]. |
-| *(didascalia)* | Exeunt Valtemand and Cornelius |
-| [[characters/polonius\|POLONIUS]] | This business is very [[motifs/well\|well]] ended.<br>My liege, and madam, to expostulate<br>What majesty should be, what duty is,<br>Why day is day, [[motifs/night\|night]] [[motifs/night\|night]], and [[motifs/time\|time]] is [[motifs/time\|time]],<br>Were nothing but to waste [[motifs/night\|night]], day, and [[motifs/time\|time]].<br>Therefore, since brevity is the [[motifs/soul\|soul]] of wit,<br>And tediousness the limbs and outward flourishes,<br>I will be brief. Your noble son is mad—<br>‘Mad’ call I it, for to define true [[concepts/madness\|madness]],<br>What is’t but to be nothing else but mad?<br>But let that go. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | More matter with less art. |
-| [[characters/polonius\|POLONIUS]] | Madam, I swear I use no art at all.<br>That he is mad, ‘tis true; ’tis true ‘tis pity,<br>And pity ’tis ‘tis true—a foolish figure,<br>But farewell it, for I will use no art.<br>Mad let us grant him, then; and now remains<br>That we find out the cause of this effect—<br>Or rather say ’the cause of this defect‘,<br>For this effect defective comes by cause.<br>Thus it remains, and the remainder thus.<br>Perpend.<br>I have a daughter—have whilst she is mine—<br>Who in her duty and obedience, mark,<br>Hath given me this. Now gather and surmise.<br>He reads a letter<br><br>’To the celestial and my [[motifs/soul\|soul]]’s idol, the most beautified<br>[[characters/ophelia\|Ophelia]]‘—that’s an ill phrase, a vile phrase, ‘beautified’<br>is a vile phrase. But you shall hear—‘these in her<br>excellent white bosom, these’. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | Came this from [[characters/hamlet\|Hamlet]] to her? |
-| [[characters/polonius\|POLONIUS]] | Good madam, stay a while. I will be faithful.<br>‘[[concepts/doubt\|Doubt]] thou the [[motifs/stars\|stars]] are [[motifs/fire\|fire]],<br>[[concepts/doubt\|Doubt]] that the sun doth move,<br>[[concepts/doubt\|Doubt]] [[concepts/truth\|truth]] to be a liar,<br>But never [[concepts/doubt\|doubt]] I [[motifs/love\|love]].<br>O dear [[characters/ophelia\|Ophelia]], I am ill at these numbers. I have not<br>art to reckon my groans. But that I [[motifs/love\|love]] thee best, O<br>most best, believe it. Adieu.<br>Thine evermore, most dear lady, whilst this<br>[[motifs/machine\|machine]] is to him,<br>[[characters/hamlet\|Hamlet]].’<br>This in obedience hath my daughter showed me,<br>And more above hath his solicitings,<br>As they fell out by [[motifs/time\|time]], by means, and place,<br>All given to mine ear. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | But how hath she<br>Received his [[motifs/love\|love]]? |
-| [[characters/polonius\|POLONIUS]] | What do you think of me? |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | As of a man faithful and honourable. |
-| [[characters/polonius\|POLONIUS]] | I would fain prove so. But what might you think,<br>When I had seen this hot [[motifs/love\|love]] on the wing,<br>As I perceived it—I must tell you that—<br>Before my daughter told me, what might you,<br>Or my dear majesty your [[characters/queen\|queen]] here, think,<br>If I had played the desk or table-book,<br>Or given my heart a winking mute and dumb,<br>Or looked upon this [[motifs/love\|love]] with idle sight—<br>What might you think? No, I went round to work,<br>And my young mistress thus I did bespeak:<br>‘Lord [[characters/hamlet\|Hamlet]] is a prince out of thy star.<br>This must not be’. And then I precepts gave her,<br>That she should lock herself from his resort,<br>Admit no messengers, receive no tokens;<br>Which done, she took the fruits of my advice,<br>And he, repulsèd-a short tale to make—<br>Fell into a sadness, then into a fast,<br>Thence to a watch, thence into a weakness,<br>Thence to a lightness, and, by this declension,<br>Into the [[concepts/madness\|madness]] wherein now he raves,<br>And all we wail for. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | (to [[characters/gertrude\|Gertrude]]) Do you think ’tis this? |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | It may be; very likely. |
-| [[characters/polonius\|POLONIUS]] | Hath there been such a [[motifs/time\|time]]—I’d fain know that—<br>That I have positively said ‘ ’Tis so’<br>When it proved otherwise? |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | Not that I know. |
-| [[characters/polonius\|POLONIUS]] | (touching his head, then his shoulder)<br>Take this from this if this be otherwise.<br>If circumstances lead me I will find<br>Where [[concepts/truth\|truth]] is hid, though it were hid indeed |
-| *(didascalia)* | Within the centre. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | How may we try it further? |
-| [[characters/polonius\|POLONIUS]] | You know sometimes he walks four hours together<br>Here in the lobby. |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | So he does indeed. |
-| [[characters/polonius\|POLONIUS]] | At such a [[motifs/time\|time]] I’ll loose my daughter to him.<br>(To [[characters/claudius\|Claudius]]) Be you and I behind an arras then.<br>Mark the encounter. If he [[motifs/love\|love]] her not,<br>And be not from his reason fall’n thereon,<br>Let me be no assistant for a state,<br>But keep a farm and carters. |
-| [[archetypes/king\|KING]] [[characters/claudius\|CLAUDIUS]] | We will try it. |
-| *(didascalia)* | Enter Prince [[characters/hamlet\|Hamlet]], madly attired, reading on a book |
-| [[characters/queen\|QUEEN]] [[characters/gertrude\|GERTRUDE]] | But look where sadly the poor wretch comes reading. |
-| [[characters/polonius\|POLONIUS]] | Away, I do beseech you both, away.<br>I’ll board him presently. O give me leave. |
-| *(didascalia)* | Exeunt [[characters/claudius\|Claudius]] and [[characters/gertrude\|Gertrude]] |
-| [[characters/polonius\|POLONIUS]] | How does my good Lord [[characters/hamlet\|Hamlet]]? |
-| [[characters/hamlet\|HAMLET]] | [[motifs/well\|Well]], God-‘a’-[[concepts/mercy\|mercy]]. |
-| [[characters/polonius\|POLONIUS]] | Do you know me, my lord? |
-| [[characters/hamlet\|HAMLET]] | Excellent, excellent [[motifs/well\|well]]. You’re a fishmonger. |
-| [[characters/polonius\|POLONIUS]] | Not I, my lord. |
-| [[characters/hamlet\|HAMLET]] | Then I would you were so honest a man. |
-| [[characters/polonius\|POLONIUS]] | Honest, my lord? |
-| [[characters/hamlet\|HAMLET]] | Ay, sir. To be honest, as this world goes, is to be one man picked out of ten thousand. |
-| [[characters/polonius\|POLONIUS]] | That’s very true, my lord. |
-| [[characters/hamlet\|HAMLET]] | For if the sun breed maggots in a dead dog, being a good kissing carrion—have you a daughter? |
-| [[characters/polonius\|POLONIUS]] | I have, my lord. |
-| [[characters/hamlet\|HAMLET]] | Let her not walk i’th’ sun. Conception is a blessing, but not as your daughter may conceive. Friend, look to’t. |
-| [[characters/polonius\|POLONIUS]] | (aside) How say you by that? Still harping on my daughter. Yet he knew me not at first—a said I was a fishmonger. A is far gone, far gone, and truly, in my youth I suffered much extremity for [[motifs/love\|love]], very near this. I’ll speak to him again.—What do you read, my lord? |
-| [[characters/hamlet\|HAMLET]] | Words, words, words. |
-| [[characters/polonius\|POLONIUS]] | What is the matter, my lord? |
-| [[characters/hamlet\|HAMLET]] | Between who? |
-| [[characters/polonius\|POLONIUS]] | I mean the matter you read, my lord. |
-| [[characters/hamlet\|HAMLET]] | Slanders, sir; for the satirical slave says here that old men have grey beards, that their faces are wrinkled, their eyes purging thick amber, or plum-tree gum, and that they have a plentiful lack of wit, together with most weak hams. All which, sir, though I most powerfully and potently believe, yet I hold it not honesty to have it thus set down; for you yourself, sir, should be old as I am—if, like a crab, you could go backward. |
-| [[characters/polonius\|POLONIUS]] | (aside) Though this be [[concepts/madness\|madness]], yet there is method in’t.—Will you walk out of the air, my lord? |
-| [[characters/hamlet\|HAMLET]] | Into my [[motifs/grave\|grave]]. |
-| [[characters/polonius\|POLONIUS]] | Indeed, that is out o’th’ air. (Aside) How pregnant sometimes his replies are! A happiness that often [[concepts/madness\|madness]] hits on, which reason and sanity could not so prosperously be delivered of. I will leave him, and suddenly contrive the means of meeting between him and my daughter.—My lord, I will take my leave of you. |
-| [[characters/hamlet\|HAMLET]] | You cannot, sir, take from me anything that I will more willingly part withal—except my life, my life, my life. |
-| [[characters/polonius\|POLONIUS]] | (going) Fare you [[motifs/well\|well]], my lord. |
-| *(didascalia)* | [[characters/hamlet\|HAMLET]] These tedious old fools! Enter [[characters/guildenstern\|Guildenstern]] and [[characters/rosencrantz\|Rosencrantz]] |
-| [[characters/polonius\|POLONIUS]] | You go to seek the Lord [[characters/hamlet\|Hamlet]]. There he is. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | God save you, sir. |
-| *(didascalia)* | [[characters/guildenstern\|GUILDENSTERN]] to [[characters/polonius\|Polonius]] Mine honoured lord. Exit [[characters/polonius\|Polonius]] |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | (to [[characters/hamlet\|Hamlet]]) My most dear lord. |
-| [[characters/hamlet\|HAMLET]] | My ex’llent good friends. How dost thou, [[characters/guildenstern\|Guildenstern]]? Ah, [[characters/rosencrantz\|Rosencrantz]]—good lads, how do ye both? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | As the indifferent children of the earth. |
-| [[characters/guildenstern\|GUILDENSTERN]] | Happy in that we are not over-happy,<br>On Fortune’s cap we are not the very button. |
-| [[characters/hamlet\|HAMLET]] | Nor the soles of her shoe? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Neither, my lord. |
-| [[characters/hamlet\|HAMLET]] | Then you live about her waist, or in the middle of her favour? |
-| [[characters/guildenstern\|GUILDENSTERN]] | [[concepts/faith\|Faith]], her privates we. |
-| [[characters/hamlet\|HAMLET]] | In the secret parts of Fortune? O, most true, she is a strumpet. What’s the news? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | None, my lord, but that the world’s grown honest. |
-| [[characters/hamlet\|HAMLET]] | Then is doomsday near. But your news is not true. Let me question more in particular. What have you, my good friends, deserved at the hands of Fortune that she sends you to [[motifs/prison\|prison]] hither? |
-| [[characters/guildenstern\|GUILDENSTERN]] | [[motifs/prison\|Prison]], my lord? |
-| [[characters/hamlet\|HAMLET]] | [[settings/denmark\|Denmark]]’s a [[motifs/prison\|prison]]. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Then is the world one. |
-| [[characters/hamlet\|HAMLET]] | A goodly one, in which there are many confines, wards, and dungeons, [[settings/denmark\|Denmark]] being one o’th’ worst. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | We think not so, my lord. |
-| [[characters/hamlet\|HAMLET]] | Why, then ’tis none to you, for there is nothing either good or bad but thinking makes it so. To me it is a [[motifs/prison\|prison]]. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Why, then your [[concepts/ambition\|ambition]] makes it one; ’tis too narrow for your mind. |
-| [[characters/hamlet\|HAMLET]] | O God, I could be bounded in a nutshell and count myself a [[archetypes/king\|king]] of infinite space, were it not that I have bad [[motifs/dreams\|dreams]]. |
-| [[characters/guildenstern\|GUILDENSTERN]] | Which [[motifs/dreams\|dreams]] indeed are [[concepts/ambition\|ambition]]; for the very substance of the ambitious is merely the [[archetypes/shadow\|shadow]] of a dream. |
-| [[characters/hamlet\|HAMLET]] | A dream itself is but a [[archetypes/shadow\|shadow]]. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Truly, and I hold [[concepts/ambition\|ambition]] of so airy and light a quality that it is but a [[archetypes/shadow\|shadow]]’s [[archetypes/shadow\|shadow]]. |
-| [[characters/hamlet\|HAMLET]] | Then are our beggars bodies, and our monarchs and outstretched heroes the beggars’ shadows. Shall we to th’ [[settings/court\|court]]? For, by my fay, I cannot reason. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | and [[characters/guildenstern\|GUILDENSTERN]] We’ll wait upon you. |
-| [[characters/hamlet\|HAMLET]] | No such matter. I will not sort you with the rest of my servants, for, to speak to you like an honest man, I am most dreadfully attended. But in the beaten way of [[concepts/friendship\|friendship]], what make you at Elsinore? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | To visit you, my lord, no other occasion. |
-| [[characters/hamlet\|HAMLET]] | Beggar that I am, I am even poor in thanks, but I thank you; and sure, dear friends, my thanks are too dear a halfpenny. Were you not sent for? Is it your own inclining? Is it a free visitation? Come, deal justly with me. Come, come. Nay, speak. 278 |
-| [[characters/guildenstern\|GUILDENSTERN]] | What should we say, my lord? |
-| [[characters/hamlet\|HAMLET]] | Why, anything—but to th’ purpose. You were sent for, and there is a kind of confession in your looks which your modesties have not craft enough to colour. I know the good [[archetypes/king\|King]] and [[characters/queen\|Queen]] have sent for you. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | To what end, my lord? |
-| [[characters/hamlet\|HAMLET]] | That you must teach me. But let me conjure you by the rights of our fellowship, by the consonancy of our youth, by the obligation of our ever-preserved [[motifs/love\|love]], and by what more dear a better proposer could charge you withal, be even and direct with me whether you were sent for or no. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | (to [[characters/guildenstern\|Guildenstern]]) What say you? |
-| [[characters/hamlet\|HAMLET]] | Nay then, I have an eye of you—if you [[motifs/love\|love]] me, hold not off. |
-| [[characters/guildenstern\|GUILDENSTERN]] | My lord, we were sent for. |
-| [[characters/hamlet\|HAMLET]] | I will tell you why. So shall my anticipation prevent your discovery, and your secrecy to the [[archetypes/king\|King]] and [[characters/queen\|Queen]] moult no feather. I have of late—but wherefore I know not—tost all my mirth, forgone all custom of exercise; and indeed it goes so heavily with my disposition that this goodly frame, the earth, seems to me a sterile promontory. This most excellent canopy the air, look you, this brave o’erhanging, this majestical roof fretted with golden [[motifs/fire\|fire]]—why, it appears no other thing to me than a foul and pestilent congregation of vapours. What a piece of work is a man! How noble in reason, how infinite in faculty, in form and moving how express and admirable, in action how like an angel, in apprehension how like a god—the [[concepts/beauty\|beauty]] of the world, the paragon of [[motifs/animals\|animals]]! And yet to me what is this quintessence of [[motifs/dust\|dust]]? Man delights not me—no, nor woman neither, though by your smiling you seem to say so. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | My lord, there was no such stuff in my thoughts. |
-| [[characters/hamlet\|HAMLET]] | Why did you laugh, then, when I said ‘Man delights not me’? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | To think, my lord, if you delight not in man what lenten entertainment the players shall receive from you. We coted them on the way, and hither are they coming to offer you service. |
-| [[characters/hamlet\|HAMLET]] | He that plays the [[archetypes/king\|King]] shall be welcome; his majesty shall have tribute of me. The adventurous Knight shall use his foil and target, the [[archetypes/lover\|Lover]] shall not sigh gratis, the Humorous Man shall end his part in peace, the Clown shall make those laugh whose lungs are tickled o’th’ sear, and the Lady shall say her mind freely, or the [[forms/blank-verse\|blank verse]] shall halt for’t. What players are they? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Even those you were wont to take delight in, the tragedians of the [[motifs/city\|city]]. |
-| [[characters/hamlet\|HAMLET]] | How chances it they travel? Their residence both in reputation and profit was better both ways. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | I think their inhibition comes by the means of the late innovation. |
-| [[characters/hamlet\|HAMLET]] | Do they hold the same estimation they did when I was in the [[motifs/city\|city]]? Are they so followed? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | No, indeed, they are not. |
-| [[characters/hamlet\|HAMLET]] | How comes it? Do they grow rusty? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Nay, their endeavour keeps in the wonted pace. But there is, sir, an eyrie of children, little eyases, that cry out on the top of question and are most tyrannically clapped for’t. These are now the fashion, and so berattle the common stages—so they call them—that many wearing rapiers are afraid of goose-quills, and dare scarce come thither. |
-| [[characters/hamlet\|HAMLET]] | What, are they children? Who maintains ’em? How are they escoted? Will they pursue the quality no longer than they can sing? Will they not say afterwards, if they should grow themselves to common players—as it is like most will, if their means are not better—their writers do them wrong to make them exclaim against their own succession? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | [[concepts/faith\|Faith]], there has been much to-do on both sides, and the nation holds it no sin to tarre them to controversy. There was for a while no money bid for argument unless the poet and the player went to cuffs in the question. |
-| [[characters/hamlet\|HAMLET]] | Is’t possible? |
-| [[characters/guildenstern\|GUILDENSTERN]] | O, there has been much throwing about of brains. |
-| [[characters/hamlet\|HAMLET]] | Do the boys carry it away? |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Ay, that they do, my lord, Hercules and his load too. |
-| [[characters/hamlet\|HAMLET]] | It is not strange; for mine uncle is [[archetypes/king\|King]] of [[settings/denmark\|Denmark]], and those that would make mows at him while my father lived give twenty, forty, an hundred ducats apiece for his picture in little. ’Sblood, there is something in this more than natural, if philosophy could find it out. |
-| *(didascalia)* | A flourish for the Players |
-| [[characters/guildenstern\|GUILDENSTERN]] | There are the players. |
-| [[characters/hamlet\|HAMLET]] | Gentlemen, you are welcome to Elsinore. Your hands, come. Th’appurtenance of welcome is fashion and ceremony. Let me comply with you in the garb, lest my extent to the players—which, I tell you, must show fairly outward—shoutd more appear like entertainment than yours. |
-| *(didascalia)* | He shakes hands with them |
-| [[characters/hamlet\|HAMLET]] | You are welcome. But my uncle-father and aunt-mother are deceived. |
-| [[characters/guildenstern\|GUILDENSTERN]] | In what, my dear lord? |
-| [[characters/hamlet\|HAMLET]] | I am but mad north-north-west; when the [[motifs/wind\|wind]] is southerly, I know a hawk from a handsaw. |
-| *(didascalia)* | Enter [[characters/polonius\|Polonius]] |
-| [[characters/polonius\|POLONIUS]] | [[motifs/well\|Well]] be with you, gentlemen. |
-| [[characters/hamlet\|HAMLET]] | (aside) Hark you, [[characters/guildenstern\|Guildenstern]], and you too—at each ear a hearer—that great baby you see there is not yet out of his swathing-clouts. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | (aside) Haply he’s the second [[motifs/time\|time]] come to them, for they say an old man is twice a [[archetypes/child\|child]]. |
-| [[characters/hamlet\|HAMLET]] | (aside) I will prophesy he comes to tell me of the players. Mark it.—You say right, sir, for o’ Monday morning, ’twas so indeed. |
-| [[characters/polonius\|POLONIUS]] | My lord, I have news to tell you. |
-| [[characters/hamlet\|HAMLET]] | My lord, I have news to tell you. When Roscius was an actor in Rome— |
-| [[characters/polonius\|POLONIUS]] | The actors are come hither, my lord. |
-| [[characters/hamlet\|HAMLET]] | BUZZ, buzz. |
-| [[characters/polonius\|POLONIUS]] | Upon mine [[concepts/honour\|honour]]— |
-| [[characters/hamlet\|HAMLET]] | Then came each actor on his ass. |
-| [[characters/polonius\|POLONIUS]] | The best actors in the world, either for [[forms/tragedy\|tragedy]], [[forms/comedy\|comedy]], [[concepts/history\|history]], pastoral, pastorical-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable or poem unlimited. Seneca cannot be too heavy, nor Plautus too light. For the law of writ and the liberty, these are the only men. |
-| [[characters/hamlet\|HAMLET]] | O Jephthah, judge of Israel, what a treasure hadst thou! |
-| [[characters/polonius\|POLONIUS]] | What a treasure had he, my lord? |
-| [[characters/hamlet\|HAMLET]] | Why,<br>‘One fair daughter and no more,<br>The which he loved passing [[motifs/well\|well]]’. |
-| [[characters/polonius\|POLONIUS]] | (aside) Still on my daughter. |
-| [[characters/hamlet\|HAMLET]] | Am I not i’th’ right, old Jephthah? |
-| [[characters/polonius\|POLONIUS]] | If you call me Jephthah, my lord, I have a daughter that I [[motifs/love\|love]] passing [[motifs/well\|well]]. |
-| [[characters/hamlet\|HAMLET]] | Nay, that follows not. |
-| [[characters/polonius\|POLONIUS]] | What follows then, my lord? |
-| [[characters/hamlet\|HAMLET]] | Why<br>‘As by lot<br>God wot’,<br>and then you know<br>‘It came to pass<br>As most like it was’—<br>the first row of the pious chanson will show you more, for look where my abridgements come. |
-| *(didascalia)* | Enter four or five Players |
-| [[characters/hamlet\|HAMLET]] | You’re welcome, masters, welcome all.—Iam glad to see thee [[motifs/well\|well]].—Welcome, good friends.—O, my old friend! Thy face is valanced since I saw thee last. Com‘st thou to beard me in [[settings/denmark\|Denmark]]?—What, my young lady and mistress. By’r Lady, your ladyship is nearer heaven than when I saw you last by the altitude of a chopine. Pray God your voice, like a piece of uncurrent gold, be not cracked within the ring.—Masters, you are all welcome. We’ll e‘en to’t like French falc’ners, fly at anything we see. We’ll have a speech straight. Come, give us a taste of your quality. Come, a passionate speech. |
-| FIRST PLAYER | What speech, my good lord? |
-| [[characters/hamlet\|HAMLET]] | I heard thee speak me a speech once, but it was never acted, or, if it was, not above once; for the play, I remember, pleased not the million. ‘Twas caviare to the general. But it was—as I received it, and others whose judgements in such matters cried in the top of mine—an excellent play, [[motifs/well\|well]] digested in the scenes, set down with as much modesty as cunning. I remember one said there was no sallets in the lines to make the matter savoury, nor no matter in the phrase that might indict the author of affectation, but called it an honest method, as wholesome as sweet, and by very much more handsome than fine. One speech in it I chiefly loved, ’twas Aeneas’ tale to Dido, and thereabout of it especially where he speaks of Priam’s slaughter. If it live in your [[motifs/memory\|memory]], begin at this line—let me see, let me see: ‘The rugged Pyrrhus, like th’Hyrcanian beast‘—’tis not so. It begins with Pyrrhus—‘The rugged Pyrrhus, he whose sable arms, Black as his purpose, did the [[motifs/night\|night]] resemble When he lay couched in the ominous [[motifs/horse\|horse]], Hath now this dread and black complexion smeared With heraldry more dismal. Head to foot Now is he total gules, horridly tricked With [[motifs/blood\|blood]] of fathers, mothers, daughters, sons, Baked and impasted with the parching streets, That lend a tyrranous and damned light To their vile murders. Roasted in wrath and [[motifs/fire\|fire]], And thus o’er-sizèd with coagulate gore, With eyes like carbuncles the hellish Pyrrhus Old grandsire Priam seeks’ So, proceed you. |
-| [[characters/polonius\|POLONIUS]] | Fore God, my lord, [[motifs/well\|well]] spoken, with good accent and good discretion. |
-| FIRST PLAYER | ‘Anon he finds him,<br>Striking too short at Greeks. His antique sword,<br>Rebellious to his arm, lies where it falls,<br>Repugnant to command. Unequal match,<br>Pyrrhus at Priam drives, in rage strikes wide;<br>But with the whiff and [[motifs/wind\|wind]] of his fell sword<br>Th‘unnervèd father falls. Then senseless Ilium,<br>Seeming to feel his blow, with flaming top<br>Stoops to his base, and with a hideous crash<br>Takes prisoner Pyrrhus’ ear. For lo, his sword,<br>Which was declining on the milky head<br>Of reverend Priam, seemed i’th’ air to stick.<br>So, as a painted [[archetypes/tyrant\|tyrant]], Pyrrhus stood,<br>And, like a neutral to his will and matter,<br>Did nothing.<br>But as we often see against some [[motifs/storm\|storm]]<br>A [[motifs/silence\|silence]] in the heavens, the rack stand still,<br>The bold winds speechless, and the orb below<br>As hush as [[motifs/death\|death]], anon the dreadful thunder<br>Doth rend the region: so, after Pyrrhus’ pause,<br>A rousèd vengeance sets him new a-work;<br>And never did the Cyclops’ hammers fall<br>On Mars his armour, forged for proof eterne,<br>With less remorse than Pyrrhus’ bleeding sword<br>Now falls on Priam.<br>Out, out, thou strumpet Fortune! All you gods,<br>In general synod, take away her power,<br>Break all the spokes and fellies from her [[motifs/wheel\|wheel]],<br>And bowl the round nave down the [[motifs/hill\|hill]] of heaven,<br>As low as to the fiends!’ |
-| [[characters/polonius\|POLONIUS]] | This is too long. |
-| [[characters/hamlet\|HAMLET]] | It shall to the barber’s, with your beard. (To First Player) Prithee, say on. He’s for a jig or a tale of bawdry, or he sleeps. Say on, come to Hecuba. |
-| FIRST PLAYER | ‘But who, O who had seen the mobbled [[characters/queen\|queen]]’— |
-| [[characters/hamlet\|HAMLET]] | ‘The mobbled [[characters/queen\|queen]]’? |
-| [[characters/polonius\|POLONIUS]] | That’s good; ‘mobbled [[characters/queen\|queen]]’ is good. |
-| FIRST PLAYER | ‘Run barefoot up and down, threat’ning the flames<br>With bisson rheum; a clout upon that head<br>Where late the diadem stood, and for a robe,<br>About her lank and all o‘er-teemèd loins,<br>A blanket in th’alarm of [[concepts/fear\|fear]] caught up—<br>Who this had seen, with tongue in venom steeped,<br>‘Gainst Fortune’s state would treason have pronounced.<br>But if the gods themselves did see her then,<br>When she saw Pyrrhus make malicious sport<br>In mincing with his sword her husband’s limbs,<br>The instant burst of clamour that she made—<br>Unless things mortal move them not at all—<br>Would have made milch the burning eyes of heaven,<br>And passion in the gods.’ |
-| [[characters/polonius\|POLONIUS]] | Look whe’er he has not turned his colour, and has [[motifs/tears\|tears]] in ’s eyes. (To First Player) Prithee, no more. |
-| [[characters/hamlet\|HAMLET]] | (to First Player) ’Tis [[motifs/well\|well]]. I’ll have thee speak out the rest soon. (To [[characters/polonius\|Polonius]]) Good my lord, will you see the players [[motifs/well\|well]] bestowed? Do ye hear?—let them be [[motifs/well\|well]] used, for they are the abstracts and brief chronicles of the [[motifs/time\|time]]. After your [[motifs/death\|death]] you were better have a bad epitaph than their ill report while you live. |
-| [[characters/polonius\|POLONIUS]] | My lord, I will use them according to their [[motifs/desert\|desert]]. |
-| [[characters/hamlet\|HAMLET]] | God’s bodykins, man, much better. Use every man after his [[motifs/desert\|desert]], and who should scape whipping? Use them after your own [[concepts/honour\|honour]] and dignity—the less they deserve, the more merit is in your bounty. Take them in. |
-| [[characters/polonius\|POLONIUS]] | (to Players) Come, sirs. Exit |
-| [[characters/hamlet\|HAMLET]] | (to Players) Follow him, friends. We’ll hear a play tomorrow. Dost thou hear me, old friend? Can you play the murder of Gonzago? |
-| *(didascalia)* | PLAYERS Ay, my lord. |
-| [[characters/hamlet\|HAMLET]] | We’ll ha’t tomorrow [[motifs/night\|night]]. You could for a need study a speech of some dozen or sixteen lines which I would set down and insert in’t, could ye not? |
-| *(didascalia)* | PLAYERS Ay, my lord. |
-| *(didascalia)* | [[characters/hamlet\|HAMLET]] Very [[motifs/well\|well]]. Follow that lord, and look you mock him not. Exeunt Players My good friends, I’ll leave you till [[motifs/night\|night]]. You are welcome to Elsinore. |
-| [[characters/rosencrantz\|ROSENCRANTZ]] | Good my lord. |
-| [[characters/hamlet\|HAMLET]] | Ay, so. God b‘wi’ ye. Exeunt all but [[characters/hamlet\|Hamlet]]<br>Now I am alone.<br>O, what a rogue and peasant slave am Il<br>Is it not monstrous that this player here,<br>But in a fiction, in a dream of passion,<br>Could force his [[motifs/soul\|soul]] so to his whole conceit<br>That from her working all his visage wanned,<br>[[motifs/tears\|Tears]] in his eyes, distraction in ’s aspect,<br>A broken voice, and his whole function suiting<br>With forms to his conceit? And all for nothing.<br>For Hecuba!<br>What’s Hecuba to him, or he to Hecuba,<br>That he should weep for her? What would he do<br>Had he the motive and the cue for passion<br>That I have? He would drown the stage with [[motifs/tears\|tears]],<br>And cleave the general ear with horrid speech,<br>Make mad the guilty and appal the free,<br>Confound the ignorant, and amaze indeed<br>The very faculty of eyes and ears. Yet I,<br>A dull and muddy-mettled rascal, peak<br>Like John-a-[[motifs/dreams\|dreams]], unpregnant of my cause,<br>And can say nothing—no, not for a [[archetypes/king\|king]]<br>Upon whose property and most dear life<br>A damned defeat was made. Am I a coward?<br>Who calls me [[archetypes/villain\|villain]], breaks my pate across,<br>Plucks off my beard and blows it in my face,<br>Tweaks me by th’ nose, gives me the lie i’th’ throat<br>As deep as to the lungs? Who does me this?<br>Ha? ‘Swounds, I should take it; for it cannot be<br>But I am pigeon-livered and lack gall<br>To make oppression bitter, or ere this<br>I should ’a’ fatted all the region kites<br>With this slave’s offal. Bloody, bawdy [[archetypes/villain\|villain]]!<br>Remorseless, treacherous, lecherous, kindless [[archetypes/villain\|villain]]!<br>O, vengeance!—<br>Why, what an ass am I? Ay, sure, this is most brave,<br>That I, the son of the dear murdered,<br>Prompted to my [[concepts/revenge\|revenge]] by heaven and hell,<br>Must, like a whore, unpack my heart with words<br>And fall a-cursing like a very drab,<br>A scullion! Fie upon‘t, foh!—About, my brain.<br>I have heard that guilty creatures sitting at a play<br>Have by the very cunning of the scene<br>Been struck so to the [[motifs/soul\|soul]] that presently<br>They have proclaimed their malefactions;<br>For murder, though it have no tongue, will speak<br>With most miraculous organ. I’ll have these players<br>Play something like the murder of my father<br>Before mine uncle. I’ll observe his looks,<br>I’ll tent him to the quick. If a but blench,<br>I know my course. The spirit that I have seen<br>May be the devil, and the devil hath power<br>T’assume a pleasing shape; yea, and perhaps,<br>Out of my weakness and my [[concepts/melancholy\|melancholy]]—<br>As he is very potent with such spirits—<br>Abuses me to damn me. I’ll have grounds<br>More relative than this. The play’s the thing<br>Wherein I’ll catch the [[concepts/conscience\|conscience]] of the [[archetypes/king\|King]]. |
-| *(didascalia)* | Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4372,12 +5632,6 @@ The [[forms/tragedy|Tragedy]] of [[characters/hamlet|Hamlet]], Prince of [[setti
 | LORD | The [[characters/queen\|Queen]] desires you to use some gentle entertainment to [[characters/laertes\|Laertes]] before you fall to play. |
 | [[characters/hamlet\|HAMLET]] | She [[motifs/well\|well]] instructs me. Exit Lord |
 | [[characters/horatio\|HORATIO]] | You will lose, my lord. |
-| TWELFTH | [[motifs/night\|NIGHT]], the end of the Christmas season, was traditionally a [[motifs/time\|time]] of revelry and topsy-turvydom; Shakespeare’s title for a play in which a servant aspires to his mistress’s hand has no more specific reference. It was thought appropriate to the festive occasion of Candlemas (2 February) 1602 when, in the first known allusion to it, John Manningham, a law student of the Middle Temple in [[settings/london\|London]], noted ‘at our feast we had a play called [[clusters/twelfth-night\|Twelfth Night]], or What You Will’. References to ‘the Sophy’—the Shah of Persia (2.5.174; 3.4.271)—probably post-date Sir Robert [[works/shirley-(bronte)\|Shirley]]’s return from Persia, in a [[motifs/ship\|ship]] named The Sophy, in 1599; and ‘the new map with the augmentation of the Indies’ (3.2.75) appears to be one published in 1599 and reissued in 1600. Shakespeare may have picked up the name [[characters/orsino\|Orsino]] for his young duke from a Tuscan nobleman whom [[characters/queen-elizabeth\|Queen Elizabeth]] entertained at Whitehall with a play performed by Shakespeare’s company on [[clusters/twelfth-night\|Twelfth Night]] 1601. Probably he wrote [[clusters/twelfth-night\|Twelfth Night]] during that year.<br>[[clusters/twelfth-night\|Twelfth Night]]’s romantic setting is Illyria, the Greek and Roman name for Adriatic territory roughly corresponding to the former Yugoslavia. Manningham had noted that the play was ‘much like The [[forms/comedy\|Comedy]] of Errors or Menaechmi in Plautus’, thinking no [[concepts/doubt\|doubt]] of the confusions created by identical twins. Shakespeare may also have known an anonymous Italian [[forms/comedy\|comedy]], GI’Ingannati (The Deceived Ones), acted in 1531 and first printed in 1537, which influenced a number of other plays and prose tales including Barnaby Riche’s story of Apolonius and Silla printed as part of Riche’s Farewell to Military Profession (1581). Riche gave Shakespeare his main plot of a shipwrecked girl ([[characters/viola\|Viola]]) who, disguised as a boy (Cesario), serves a young Duke ([[characters/orsino\|Orsino]]) and undertakes [[motifs/love\|love]]-errands on his behalf to a noble lady ([[characters/olivia\|Olivia]]) who falls in [[motifs/love\|love]] with her but mistakenly marries her twin brother ([[characters/sebastian\|Sebastian]]). Shakespeare idealizes Riche’s characters and purges the story of some of its explicit [[concepts/sexuality\|sexuality]]: Riche’s [[characters/olivia\|Olivia]], for example, is pregnant before [[motifs/marriage\|marriage]], and his [[characters/viola\|Viola]] reveals her [[concepts/identity\|identity]], in a manner impractical for a boy actor, by stripping to the waist. Shakespeare complicates the plot by giving [[characters/olivia\|Olivia]] a reprobate uncle, [[characters/sir-toby-belch\|Sir Toby Belch]], and two additional suitors, the asinine [[characters/sir-andrew-aguecheek\|Sir Andrew Aguecheek]] and her steward, [[characters/malvolio\|Malvolio]], tricked by members of her household into believing that she loves him. More important to the play than to the plot is the entirely Shakespearian clown, [[characters/feste\|Feste]], a wry and oblique commentator whose wit in folly is opposed to [[characters/malvolio\|Malvolio]]’s folly in wit.<br>[[clusters/twelfth-night\|Twelfth Night]] is the consummation of Shakespeare’s romantic [[forms/comedy\|comedy]], a play of wide emotional range, extending from the robust, brilliantly orchestrated humour of the scene of midnight revelry (2.2) to the rapt [[concepts/wonder\|wonder]] of the antiphon of recognition (5.1.224-56) between the reunited twins. In performance the balance shifts, favouring sometimes the exposure and celebration of folly, at other times the poignancy of unattained [[motifs/love\|love]] and of unheeded wisdom; but few other plays have so consistently provided theatrical pleasure of so high an order. |
-| THE PERSONS OF THE | PLAY<br>[[characters/orsino\|ORSINO]], Duke of Illyria |
-| SECOND OFFICER | [[characters/viola\|VIOLA]], a lady, later disguised as Cesario<br>A CAPTAIN<br>[[characters/sebastian\|SEBASTIAN]], her twin brother<br>[[characters/antonio\|ANTONIO]], another sea-captain<br>[[characters/olivia\|OLIVIA]], a Countess<br>[[characters/maria\|MARIA]], her waiting-gentlewoman |
-| SIR TOBY | Belch, [[characters/olivia\|Olivia]]’s kinsman |
-| SIR ANDREW | Aguecheek, companion of Sir Toby<br>[[characters/malvolio\|MALVOLIO]], [[characters/olivia\|Olivia]]’s steward<br>FABIAN, a member of [[characters/olivia\|Olivia]]’s household |
-| [[characters/feste\|FESTE]] | the Clown, her jester<br>A PRIEST<br>A SERVANT of [[characters/olivia\|Olivia]]<br>Musicians, sailors, lords, attendants |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4582,9 +5836,3 @@ The [[forms/tragedy|Tragedy]] of [[characters/hamlet|Hamlet]], Prince of [[setti
 | SIGNORE | La [[characters/queen\|Regina]] desidera che usiate qualche gentile cortesia a [[characters/laertes\|Laertes]] prima di mettervi a giocare. |
 | [[characters/hamlet\|HAMLET]] | Ella mi consiglia [[motifs/well\|bene]]. Esce il Signore |
 | [[characters/horatio\|HORATIO]] | Perderete, mio signore. |
-| TWELFTH | [[motifs/night\|NOTTE]], la fine della stagione natalizia, era tradizionalmente un [[motifs/time\|tempo]] di baldoria e di mondo alla rovescia; il titolo dato da Shakespeare a una commedia in cui una serva aspira alla mano della propria padrona non ha riferimento più specifico. Fu ritenuto adatto all’occasione festiva della Candelora (2 febbraio) 1602, quando, nella prima allusione nota all’opera, John Manningham, studente di legge del Middle Temple a [[settings/london\|Londra]], annotò: «alla nostra festa avemmo una commedia intitolata [[clusters/twelfth-night\|La dodicesima notte]], ovvero Quel che volete». I riferimenti al «Sophy»—lo Scià di Persia (2.5.174; 3.4.271)—sono probabilmente posteriori al ritorno di Sir Robert [[works/shirley-(bronte)\|Shirley]] dalla Persia, su una [[motifs/ship\|nave]] chiamata The Sophy, nel 1599; e «la nuova carta con l’ampliamento delle Indie» (3.2.75) sembra essere quella pubblicata nel 1599 e ristampata nel 1600. Shakespeare può aver ricavato il nome [[characters/orsino\|Orsino]] per il suo giovane duca da un nobile toscano che [[characters/queen-elizabeth\|la regina Elisabetta]] intrattenne a Whitehall con una commedia rappresentata dalla compagnia di Shakespeare nella [[clusters/twelfth-night\|dodicesima notte]] del 1601. Probabilmente scrisse [[clusters/twelfth-night\|La dodicesima notte]] durante quell’anno.<br>L’ambientazione romanzesca di [[clusters/twelfth-night\|La dodicesima notte]] è l’Illiria, il nome greco e romano del territorio adriatico corrispondente grosso modo alla ex Iugoslavia. Manningham aveva osservato che la commedia era «molto simile alla [[forms/comedy\|Commedia]] degli errori o ai Menaechmi di Plauto», pensando senza [[concepts/doubt\|dubbio]] alle confusioni create da gemelli identici. Shakespeare può aver conosciuto anche una [[forms/comedy\|commedia]] italiana anonima, GI’Ingannati, recitata nel 1531 e stampata per la prima volta nel 1537, che influenzò numerose altre commedie e novelle in prosa, fra cui la storia di Apolonius e Silla di Barnaby Riche, stampata come parte del Farewell to Military Profession di Riche (1581). Riche fornì a Shakespeare la trama principale di una fanciulla naufraga ([[characters/viola\|Viola]]) che, travestita da ragazzo (Cesario), serve un giovane Duca ([[characters/orsino\|Orsino]]) e per suo conto porta ambasciate d’[[motifs/love\|amore]] a una nobile dama ([[characters/olivia\|Olivia]]) la quale s’accende d’[[motifs/love\|amore]] per lei, ma sposa per errore il suo fratello gemello ([[characters/sebastian\|Sebastian]]). Shakespeare idealizza i personaggi di Riche e purga la storia di parte della sua esplicita [[concepts/sexuality\|sessualità]]: l’[[characters/olivia\|Olivia]] di Riche, per esempio, è incinta prima del [[motifs/marriage\|matrimonio]], e la sua [[characters/viola\|Viola]] rivela la propria [[concepts/identity\|identità]], in un modo impraticabile per un attore fanciullo, denudandosi fino alla cintura. Shakespeare complica l’intreccio dando a [[characters/olivia\|Olivia]] uno zio dissoluto, [[characters/sir-toby-belch\|Sir Toby Belch]], e due pretendenti in più, l’asinino [[characters/sir-andrew-aguecheek\|Sir Andrew Aguecheek]] e il suo maggiordomo, [[characters/malvolio\|Malvolio]], ingannato dai membri della sua casa fino a credere ch’ella lo ami. Più importante per la commedia che per l’intreccio è il clown interamente shakespeariano, [[characters/feste\|Feste]], commentatore beffardo e obliquo, il cui senno nella follia si oppone alla follia nel senno di [[characters/malvolio\|Malvolio]].<br>[[clusters/twelfth-night\|La dodicesima notte]] è il compimento della [[forms/comedy\|commedia]] romantica di Shakespeare, un dramma di ampia gamma emotiva, che si estende dall’umorismo robusto e brillantemente orchestrato della scena della gozzoviglia di mezzanotte (2.2) alla rapita [[concepts/wonder\|meraviglia]] dell’antifona del riconoscimento (5.1.224-56) fra i gemelli riuniti. Nella rappresentazione l’equilibrio si sposta, favorendo talvolta lo smascheramento e la celebrazione della follia, talaltra la struggente pena dell’[[motifs/love\|amore]] non ricambiato e della saggezza inascoltata; ma poche altre commedie hanno offerto con tanta costanza un piacere teatrale di così alto grado. |
-| I PERSONAGGI DEL | DRAMMA<br>[[characters/orsino\|ORSINO]], Duca d’Illiria |
-| SECONDO UFFICIALE | [[characters/viola\|VIOLA]], una dama, poi travestita da Cesario<br>UN CAPITANO<br>[[characters/sebastian\|SEBASTIAN]], suo fratello gemello<br>[[characters/antonio\|ANTONIO]], un altro capitano di mare<br>[[characters/olivia\|OLIVIA]], una contessa<br>[[characters/maria\|MARIA]], la sua damigella di compagnia |
-| SIR TOBY | Belch, parente di [[characters/olivia\|Olivia]] |
-| SIR ANDREW | Aguecheek, compagno di Sir Toby<br>[[characters/malvolio\|MALVOLIO]], maggiordomo di [[characters/olivia\|Olivia]]<br>FABIAN, membro della casa di [[characters/olivia\|Olivia]] |
-| [[characters/feste\|FESTE]] | il Clown, suo buffone<br>UN PRETE<br>UN SERVO di [[characters/olivia\|Olivia]]<br>Musicisti, marinai, signori, servitori |

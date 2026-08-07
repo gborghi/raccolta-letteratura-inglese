@@ -719,6 +719,730 @@ the ancient order of things in Vondervotteimittiss by ejecting
 that little fellow from the steeple.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Che ore sono? —_Vecchio detto_.
+
+
+
+Tutti sanno, in linea di massima, che il posto migliore…
+
+Titolo:  
+Il mondo è… o, ahimè, era… il quartiere olandese di…
+
+Vondervotteimittiss… Eppure si trova a una certa distanza da qualsiasi luogo intorno…
+
+Strade principali, essendo situate in una posizione piuttosto remota…
+
+Forse sono molto pochi i miei lettori che siano mai andati a visitarlo.
+
+Per il beneficio di coloro che non l’hanno ancora fatto… quindi, sarà sufficiente solo questo.
+
+È giusto che io ne parli un po’. E questo è…
+
+Anzi, era ancora più necessario, proprio come la [[concepts/hope|speranza]] di raccogliere il sostegno del pubblico.
+
+Solidarietà a favore degli abitanti… Intendo qui esprimere…
+
+La [[concepts/history|storia]] degli eventi disastrosi che sono avvenuti di recente
+
+Entro i suoi limiti. Chi mi conosce non avrà mai [[concepts/doubt|dubbi]] che questo dovere.
+
+Pertanto, questa volontà impostami da me stesso verrà attuata nel miglior modo possibile, secondo le mie capacità.
+
+Con tutta quella rigida imparzialità, con quegli esami così attenti e meticolosi…
+
+In sintesi: una meticolosa raccolta di informazioni e un attento confronto delle fonti autorevoli, al fine di…
+
+È difficile distinguere chi aspira al titolo di storico.
+
+
+
+Con l’aiuto congiunto di medaglie, manoscritti e iscrizioni, io…
+
+“Possiamo affermare con certezza che il distretto di…”
+
+“Vondervotteimittiss esiste fin dalla sua origine, con precisione…”
+
+Lo stesso stato in cui si trova attualmente. Dalla data di…
+
+Questa origine… purtroppo posso parlare di essa solo in questo modo.
+
+Specie di indefinita determinazione: così sono i matematici…
+
+"#Costretti ad accettare certi elementi nelle formule algebriche..."
+
+Titolo:  
+“Una data, potrei dire, che riflette la sua remota origine…”
+
+Antichità: una quantità inestimabile
+
+Qualsiasi cosa.
+
+
+
+Titolo:  
+Indagando sulle origini del nome Vondervotteimittiss…
+
+Confesso di essere, con dolore, altrettanto colpevole… Tra tante altre persone.
+
+Titolo:  
+Diverse opinioni su questo delicato argomento: alcune acute, altre erudite…
+
+Qualcosa di completamente opposto… Non riesco a selezionare nulla che sia tale.
+
+Il titolo dovrebbe essere considerato soddisfacente. Forse l’idea…
+
+Grogswigg – quasi identico a quello di Kroutaplenttey – deve essere…
+
+Si preferisce utilizzarlo con cautela… Il testo recita: “Vondervotteimittis—Vonder, lege”.
+
+Donder—Votteimittis, quasi un fulmine—Un fulmine obsoleto:—pro
+
+“Blitzen.” A dire la [[concepts/truth|verità]], questa derivazione è ancora.
+
+Titolo: Approvato da alcune tracce del fluido elettrico evidenti sul…
+
+La cima della guglia della Casa del Consiglio Comunale. Non lo so.
+
+"Scelgo comunque di impegnarmi su un tema di tale importanza."
+
+Titolo:  
+e deve indirizzare il lettore interessato alle informazioni verso…
+
+“Oratiunculae de Rebus Praeter-Veteris” di Dundergutz. Vedi…
+
+Anche Blunderbuzzard: “De Derivationibus”, pagine 27 a 5010, Folio
+
+Edizione gotica: personaggi in rosso e nero, parole chiave… e nessun codice cifrato.
+
+Titolo:  
+In cui si possono consultare anche le note a margine presenti nell’autografo…
+
+Stuffundpuff, con i Sottocommenti di Gruntundguzzell.
+
+
+
+Nonostante l’oscurità che avvolge la data in questione…
+
+Fondamenti di Vondervotteimittis e l’origine del suo nome
+
+Non può esserci alcun [[concepts/doubt|dubbio]], come ho detto prima, che sia sempre stato così.
+
+L’uomo più anziano di quell’epoca…
+
+Titolo:  
+Il borgo non riesce a ricordare la minima differenza…
+
+La comparsa di qualsiasi sua parte… e, in realtà, anche solo il semplice accenno ad essa
+
+Una possibilità del genere è considerata un insulto. Il luogo…
+
+Il villaggio si trova in una valle perfettamente circolare, larga circa un quarto di…
+
+Titolo:  
+Un miglio di circonferenza, completamente circondato da dolci colline.
+
+Sul cui picco la gente non ha mai osato avventurarsi…
+
+Questo lo fanno per una ragione molto valida: non ci credono.
+
+C’è davvero qualcosa dall’altra parte?
+
+
+
+Attorno ai bordi della valle (che è piuttosto pianeggiante e lastricata)
+
+"#Pavimenti piatti su tutto il perimetro, formano una fila continua di sessanta..."
+
+Piccole case… Queste, con le loro facciate rivolte verso le colline, devono sembrare…
+
+Certo, verso il centro della pianura, che si trova a soli sessanta metri di distanza…
+
+Dalla porta d’ingresso di ogni abitazione. Ogni casa ha un piccolo.
+
+Il [[motifs/garden|giardino]], con un sentiero circolare, un orologio solare e.
+
+“Ventiquattro cavoli… Gli stessi edifici sono così perfettamente…”
+
+Allo stesso modo, uno non può essere in alcun modo distinto dall'altro.
+
+A causa della sua enorme antichità, lo stile architettonico è…
+
+Un po’ strano, ma non per questo meno sorprendente…
+
+pittoreschi. Sono fatti di piccoli mattoni resi duri dal fuoco.
+
+Rosso, con estremità nere: in questo modo le pareti sembrano un tabellone da scacchi.
+
+Su larga scala: i timpani sono rivolti verso l’esterno, e lì…
+
+Ci sono cornici, grandi quanto il resto dell’casa, sopra i tetti.
+
+E sopra le porte principali… Le finestre sono strette e profonde, con…
+
+“Finestre molto piccole e molte persiane… Sul tetto c’è qualcosa di enorme.”
+
+"Quantità di piastrelle con orecchie lunghe e ricce… La carpenteria, in tutto l’edificio."
+
+Titolo:  
+Di colore scuro e ricco di intagli… ma con poche decorazioni.
+
+Una banale varietà di motivi, per un [[motifs/time|tempo]] completamente dimenticato, da parte dei scultori.
+
+“Vondervotteimittiss non è mai riuscito a scolpire più di due…”
+
+Oggetti: un orologio e un cavolo. Ma questi li usano davvero molto spesso.
+
+Bene, e li disseminò, con un’ingegnosità davvero singolare, ovunque fosse possibile.
+
+Trovano spazio anche per lo scalpello.
+
+
+
+Le abitazioni sono identiche sia all’interno che all’esterno, e anche i mobili…
+
+Tutti seguono lo stesso schema: i pavimenti sono fatti di piastrelle quadrate, le sedie…
+
+"Tavoli e sedie di legno nero, con gambe sottili e storte… e un cucciolo."
+
+Titolo:  
+Piedi… I camini sono larghi e alti, e non solo…
+
+Pezzi d’orologio e cavoli scolpiti sul davanti, ma in realtà.
+
+Quell’orologio a muro, che fa un ticchettio assordante. Lì in cima.
+
+"Centro, con un vaso da fiori su ciascun lato che contiene un cavolo"
+
+Estremità… come un cavaliere che precede la carovana. Tra ogni cavolo e il…
+
+Quell’orologio a muro, ancora una volta, raffigura un piccolo cinese con lo stomaco molto grande.
+
+Con un grande buco rotondo al centro, attraverso il quale si può vedere…
+
+La targhetta del quadrante di un orologio.
+
+
+
+Le caminette sono grandi e profonde, con fiamme violente e contorte…
+
+[[motifs/fire|fuoco]] e cani. C'è sempre un fuoco ardente, e una pentola enorme.
+
+Titolo:  
+“Over It”, pieno di cavolo riccio e maiale… preparato dalla brava donna…”
+
+La casa è sempre molto impegnata con le attività quotidiane. Lei è una vecchia un po’ grassoccia.
+
+Signora con occhi blu e viso rosso, che indossa un enorme cappello…
+
+“Pan di zucchero, decorato con nastri viola e gialli… Il suo abito.”
+
+Titolo:  
+È realizzato in lino e lana di colore arancione, con la parte posteriore molto ampia…
+
+Molto corto alla vita… e in effetti molto corto anche in altri aspetti.
+
+Non arriva nemmeno a metà della sua gamba… È abbastanza spesso.
+
+E anche i suoi polpacci lo sono… ma indossa un paio di bellissime calze verdi.
+
+“Per coprirle… I suoi scarponi, di pelle rosa, sono fissati ciascuno con…”
+
+Un mazzo di nastri gialli arricciati a forma di cavolo.
+
+Nel suo polso sinistro porta un piccolo orologio olandese piuttosto pesante; nel destro…
+
+Lei impugna un cucchiaio per il cavolo acido e la carne di maiale… Accanto a lei…
+
+Una gatta tigrata con un campanellino dorato attaccato al collo
+
+La coda, che quei ragazzi hanno fissato lì a mo' di gioco.
+
+
+
+I tre ragazzi stessi si trovano nel [[motifs/garden|giardino]].
+
+"#Attenti al maiale… Ognuno di loro ha due piedi di altezza."
+
+Cappelli a tre angoli e gilet viola che arrivano fino ai…
+
+Gonne di pelle, calzamaglie rosse, scarpe pesanti
+
+Con grandi fibbie d’argento, lunghi cappotti con grossi bottoni…
+
+“Madreperla… Ognuno di loro ha anche un cannuccio in bocca…”
+
+Una vecchia orologeria nella sua mano destra… Fa un tiro e guarda l’orologio.
+
+“Un’occhiata e un soffio… Il maiale – grasso e pigro –”
+
+Ora impegnato a raccogliere le foglie sparse che cadono dagli alberi.
+
+“Cavoli… e ora, un calcio deciso al quel campanello dorato…”
+
+A cui anche i monelli hanno legato la coda per farlo…
+
+È bello quanto il gatto.
+
+
+
+Proprio davanti alla porta d’ingresso, su un divano alto con sedile in pelle e braccioli armati…
+
+Sedia con gambe storte e piedini appuntiti, come quelle dei tavoli…
+
+Fece sedere personalmente l’uomo anziano di quella casa; è davvero una persona eccezionale.
+
+Il piccolo vecchio gentiluomo paffuto, con grandi occhi rotondi e un corpo enorme
+
+Un doppio inchino. Il suo abito assomiglia a quello dei ragazzi, e devo dire.
+
+Nient’altro da aggiungere. L’unica differenza è che la sua pipa…
+
+Più grande di quelli loro, e quindi in grado di produrre più fumo. Simile…
+
+Loro… lui ha un orologio, ma lo porta in tasca.
+
+Dite la [[concepts/truth|verità]]: lui possiede qualcosa di molto più importante di un orologio.
+
+Occuparsi di… e cosa significhi, lo spiegherò tra poco. Lui se ne sta seduto lì.
+
+Con la gamba destra appoggiata sul ginocchio sinistro, ha un'espressione molto seria.
+
+E tiene sempre uno dei suoi occhi, almeno, fissato con determinazione su…
+
+Un certo oggetto straordinario al centro della pianura.
+
+
+
+Questo oggetto si trova sulla guglia della Casa del Comune.
+
+Consiglio comunale… Tutti i membri del Consiglio comunale sono molto piccoli, rotondi e unti…
+
+Uomini intelligenti, con grandi occhi a forma di coppetta e grassi [[topoi/double|doppii]] mentoni, e.
+
+I loro cappotti sono molto più lunghi e i loro lacci delle scarpe molto più grandi.
+
+Più dei soliti abitanti di Vondervotteimittiss… Da quando io…
+
+Soggiorno nel distretto: hanno tenuto diverse riunioni speciali
+
+E hanno adottato queste tre importanti risoluzioni:
+
+
+
+“È sbagliato modificare il vecchio e buon corso naturale delle cose…”
+
+
+
+“Non c’è nulla di tollerabile in Vondervotteimittiss…”
+
+E—inoltre…
+
+
+
+“Che rimarremo fedeli ai nostri orologi… e alle nostre cipolle”.
+
+
+
+Sopra la sala delle riunioni del Consiglio si erge la guglia… e dentro…
+
+La guglia è il campanile; lì si trovano le campane, e così è stato per[[motifs/time|tempo]] immemorabile.
+
+Ricorda, l’[[concepts/pride|orgoglio]] e l’[[concepts/wonder|meraviglia]] del villaggio, l’imponente [[motifs/clock|orologio]] del.
+
+Borough di Vondervotteimittiss. Ed è proprio questo l’oggetto del discorso…
+
+Gli occhi dei vecchi signori seduti lì…
+
+Poltrone con sedile in pelle.
+
+
+
+L’immensa [[motifs/clock|orologio]] ha sette facce: una su ciascuno dei sette lati.
+
+La guglia… in modo che possa essere facilmente vista da tutte le direzioni.
+
+Volti grandi e bianchi, mani pesanti e nere…
+
+Un campanaro il cui unico compito è prendersi cura della campanella… ma questo compito…
+
+È la più perfetta delle sinecure, per l’[[motifs/clock|orologio]] di.
+
+Vondervotteimittis non era mai stato conosciuto per possedere nulla di particolare
+
+Non ci pensare nemmeno. Fino a poco tempo fa, solo l’idea di una cosa del genere…
+
+Quella pratica veniva considerata eretica… Già dai tempi più antichi…
+
+Titolo:  
+Alla antichità di cui fanno riferimento gli archivi… le ore…
+
+Colpito regolarmente dal grande campanello… Ed effettivamente era proprio così.
+
+Lo stesso vale per tutti gli altri orologi e cronometri…
+
+Un borgo. Mai esistette un luogo più adatto per conservare il vero [[motifs/time|tempo]]. Quando.
+
+Il grande battitore pensò fosse opportuno dire “Le dodici!” con tutto il suo, potere.
+
+Seguaci obbedienti aprirono la gola nello stesso istante…
+
+Rispose come un eco fedele… In breve, ai buoni borghesi piaceva molto.
+
+Del loro cavolo sottaceto, ma poi erano orgogliosi dei loro orologi.
+
+
+
+Tutti coloro che ricoprono incarichi senza responsabilità effettive sono, più o meno…
+
+Rispetto e… come la campana del campanile: l’uomo di Vondervotteimittiss
+
+La più perfetta delle sinecure… L’uomo più rispettato di tutti
+
+Qualsiasi uomo al mondo… Lui è la massima autorità del distretto.
+
+Anche i maiali lo guardano con un sentimento di reverenza.
+
+“La sua scia è molto più lunga… la sua pipa, i suoi lacci delle scarpe…”
+
+Gli occhi e lo stomaco… molto più grandi di quelli di chiunque altro.
+
+Vecchio gentiluomo del villaggio… E per quanto riguarda il suo mento, beh, non è affatto…
+
+Doppio, ma tre volte tanto.
+
+
+
+Ho così descritto la felice condizione di Vondervotteimittiss…
+
+Ahimè, che un dipinto così bello debba mai subire un simile rovescio di fortuna.
+
+
+
+Da tempo si dice tra gli abitanti più saggi…
+
+“Nessun bene può venire da oltre le colline”; e sembrava davvero vero…
+
+Le parole contenevano qualcosa dello spirito della profezia.
+
+Voleva cinque minuti di [[motifs/noon|mattina]], il giorno prima di ieri, quando.
+
+Apparve un oggetto di aspetto molto strano sulla cima della…
+
+Cresta dell’Est… Un evento del genere, naturalmente, attirava l’attenzione di tutti.
+
+L’attenzione di tutti, e ogni vecchio signore seduto lì…
+
+La poltrona con sedile di cuoio gli girò uno degli occhi con uno sguardo penetrante…
+
+Disperazione di fronte al fenomeno… mentre l’altro rimane immutato.
+
+L’[[motifs/clock|orologio]] sulla guglia.
+
+
+
+Quando mancavano soltanto tre minuti a mezzogiorno, il personaggio divertente.
+
+L’oggetto in questione era considerato di dimensioni molto ridotte.
+
+Giovane dall’aspetto straniero… Scendeva dalle colline a grande velocità.
+
+A un ritmo tale che ogni [[concepts/body|corpo]] potesse vederlo bene in fretta. Lui era.
+
+Il personaggio più esigente che si sia mai visto
+
+In Vondervotteimittiss… Il suo volto era scuro.
+
+Naso adunco e occhi piccoli…
+
+Bocca e un ottimo insieme di denti… che, a quanto pare, lui possedeva davvero.
+
+Ansioso di mostrare quanto fosse felice, sorrideva dalla testa ai piedi. Che cosa…
+
+Con i mustacchi e le basette, non c’era nulla del resto di lui…
+
+Testa scoperta e capelli ordinatamente pettinati
+
+Avvolto in papillote. Il suo abito aveva una gonna stretta che si allungava fino ai piedi.
+
+Titolo:  
+Il cappotto nero (dal cui taschino pendeva un lungo pezzo di…).
+
+Bianco fazzoletto, pantaloni neri di lana… Nero.
+
+Calze e scarpe con tacco tozzo, complete di enormi mazzi di nastri neri…
+
+Nastro di seta per i fiocchi… Sotto un braccio portava qualcosa di enorme.
+
+Chapeau-de-bras_ e, sotto di esso, un violino quasi cinque volte più grande…
+
+“Grande quanto lui stesso… Nella sua mano sinistra teneva una scatola da tabacco d’oro…”
+
+Mentre correva giù per la [[motifs/hill|collina]], facendo di tutto per.
+
+"Fantastici passi: soffiava il naso senza sosta con un certo atteggiamento..."
+
+La massima possibile soddisfazione personale. Dio mi benedica! Ecco finalmente.
+
+Una vista degna dei onesti cittadini di Vondervotteimittiss!
+
+
+
+Per dirla chiaramente, nonostante quel suo sorriso, quell’uomo…
+
+Un volto audace e sinistro; e mentre si piegava verso destra…
+
+Nel villaggio, l’aspetto vecchio e tozzo delle sue scarpe suscitava curiosità…
+
+Non poca sospetto… E molti cittadini che lo videro quel giorno…
+
+Avrei dato qualcosa per dare un’occhiata sotto quel camice bianco…
+
+Fazzoletto che spuntava così evidentemente dalla tasca dei suoi pantaloni
+
+Un cappotto con la coda a [[motifs/swallow|falco]]. Ma ciò che soprattutto motivò questa decisione giusta.
+
+Indignazione per il fatto che quel mascalzone, mentre tagliava…
+
+“Fandango da una parte, e carillon dall’altra… sembrava che nulla avesse senso.”
+
+Nella sua mente non esisteva nemmeno l’idea di dover tenere conto del [[motifs/time|tempo]].
+
+Passi.
+
+
+
+Le brave persone del quartiere ebbero appena la possibilità di…
+
+Quando finalmente aprono completamente gli occhi…
+
+Alle [[motifs/noon|mezzogiorni]], quel monello saltò proprio dentro.
+
+In mezzo a loro; faceva un “chassez” qui, e un “balancez” là…
+
+Poi, dopo una piruetta e un pas de zephyr, con le ali aperte come quelle di una colomba…
+
+Da solo, salì fino alla campanella del Palazzo del Comune.
+
+Il consiglio, dove l’uomo del campanile, colpito dallo [[concepts/wonder|stupore]], sedeva fumando.
+
+Stato di dignità e disperazione… Ma il piccolo ragazzo lo afferrò all’improvviso
+
+Una volta… con il naso; gli diedi un colpo e una tirata; poi lo battei forte…
+
+Cappello che gli copriva gli occhi; gli cadde davanti al viso
+
+E poi, sollevando quel grande violino, lo colpì con esso
+
+“Per sempre e con tale fermezza… che, considerando anche l’atteggiamento di quell’uomo nella torre campanaria…”
+
+“Grasso, e con quel violino così vuoto… avresti giurato…”
+
+C’era un reggimento di suonatori di tamburi a doppio basso che battevano tutti insieme.
+
+Il tatuaggio del diavolo sulla guglia della chiesa
+
+Vondervotteimittiss.
+
+
+
+Non si sa a quale atto disperato di vendetta possa portare tutto ciò…
+
+Un attacco senza principi avrebbe potuto svegliare gli abitanti, ma…
+
+Il fatto importante è che ora ne serviva soltanto mezzo secondo, alle [[motifs/noon|mezzogiorni]].
+
+Il campanello stava per suonare… ed era una questione di assoluta importanza.
+
+È una necessità assolutamente fondamentale che ogni [[concepts/body|-corpo]] appaia in buona forma.
+
+Guarda… Era evidente, tuttavia, che proprio in questo momento…
+
+Il prete sulla torre stava facendo qualcosa che non gli spettava affatto.
+
+Aveva a che fare con l’[[motifs/clock|orologio]]. Ma quando iniziò a suonare, nessuno se ne accorse.
+
+In qualsiasi momento era necessario prestare attenzione alle sue manovre, perché tutte dovevano essere calcolate con precisione.
+
+I suoni delle campane mentre suonavano.
+
+
+
+“Uno!” disse l’[[motifs/clock|orologio]].
+
+
+
+“Von!”, echeggiò nelle voci di ogni vecchio signore…
+
+Sedia a bracci di pelle a Vondervotteimittiss… “Von!” disse
+
+“Anche il suo orologio… ‘Von!’ disse l’orologio di sua moglie; e ‘Von!’”
+
+Dissero gli orologi dei ragazzi, e i piccoli ripetitori dorati su…
+
+Le code del gatto e del maiale.
+
+
+
+“Due!” continuò la grande campana; e
+
+
+
+“Doo!” ripeterono tutti i ripetitori.
+
+
+
+“Tre! Quattro! Cinque! Sei! Sette! Otto! Nove! Dieci!” disse la campana.
+
+
+
+“Tre! Quattro! Cinque! Sei! Sette! Ottimo! Nessuno! Poi di nuovo!” rispose.
+
+Altri ancora.
+
+
+
+“Undici!” disse il più grande.
+
+
+
+“Eleven!” concordarono i bambini più piccoli.
+
+
+
+“Dodici!” disse la campanella.
+
+
+
+“Dvelf!”, risposero pienamente soddisfatti, e poi lasciarono cadere…
+
+Voci.
+
+
+
+“È proprio così!” dissero tutti quei piccoli signori anziani, alzando le mani in segno di accordo.
+
+Le loro orologi. Ma la grande campana non aveva ancora finito con loro.
+
+
+
+“Tredici!” disse lui.
+
+
+
+“Il diavolo!”, esclamarono i piccoli vecchietti, impallidendo.
+
+Titolo:  
+Lasciando cadere le loro pipe e mettendo giù tutte le loro gambe destre…
+
+sui loro ginocchi sinistri.
+
+
+
+“Il diavolo!”, gemettero, “Tredici… Tredici!!! Mio Dio, è terribile…”
+
+Le undici in punto!!”
+
+
+
+Come poter descrivere la terribile scena che seguì?
+
+“Vondervotteimittiss cadde immediatamente in uno stato di estrema tristezza.”
+
+Trambusto.
+
+
+
+“Che cos’è successo alla mia pelle?”, gridarono tutti i ragazzi… “È successo qualcosa…”
+
+“Furente in questo momento…”
+
+
+
+“Che cos’è venuto nel mio campo?”, gridarono tutte le gazze; “L’ha portato…”
+
+“Sono stato ridotto a stracci in quest’ora…”
+
+
+
+“Che cos’è questo suono che arriva alla mia pipa?”, esclamarono tutti quei piccoli signori anziani.
+
+“Tuoni e fulmini… È stato scoperto da un’ora!” —e
+
+Li riempirono di nuovo, nella furia più grande… e poi si ritirarono indietro.*
+
+I loro divani, gonfiati con tale velocità e intensità che…
+
+L’intera valle fu immediatamente riempita da fumo impenetrabile.
+
+
+
+Intanto, tutti i cavoli diventarono molto rossi in faccia… e così via.
+
+Sembrava che lo stesso vecchio Nick avesse preso possesso di ogni cosa.
+
+In forma di orologio: gli orologi scolpiti sui mobili
+
+Prese a ballare come se fosse incantata, mentre coloro che erano lì…
+
+I pezzi del mantello a malapena riuscivano a trattenere la loro furia…
+
+Continui colpi incessanti di tredici… e tanto movimento frenetico
+
+E il movimento ondulatorio dei loro pendoli, davvero orribile da vedere.
+
+Ma, peggio di tutto, né i gatti né i maiali riuscivano a sopportarlo…
+
+Più mai con quel comportamento dei piccoli ripetitori collegati…
+
+“Scodinzolando dappertutto per protestare…”
+
+Grattando e pungendo, stridendo e urlando…
+
+“Caterwauling e strilli, e colpi diretti in faccia…”
+
+Sotto il velo del popolo, e creando…
+
+In definitiva, il rumore e il caos più orribili che si possano immaginare…
+
+Qualcosa che una persona ragionevole possa comprendere facilmente… E per rendere le cose ancora più semplici…
+
+Titolo:  
+Ancora più angosciante… quel piccolo furfante che serve da capro espiatorio…
+
+Il campanile, evidentemente, stava facendo del suo meglio… Ogni tanto…
+
+E poi si potrebbe intravedere quel farabutto…
+
+Fumo… Lì sedeva, sul campanile, insieme all’uomo incaricato di suonare le campane.
+
+Disteso a pancia in su, tra i denti il [[archetypes/villain|villano]] teneva.
+
+Titolo:  
+La corda del campanello, che continuava a tirare con la testa, facendola oscillare…
+
+Un rumore così assordante che mi fanno ancora vibrare le orecchie solo al pensiero…
+
+Nella sua gamba c’era quel grande violino, su cui stava suonando con tutte le sue forze.
+
+Tempo e melodia, con entrambe le mani, creando uno spettacolo davvero grandioso.
+
+Idioti che mettono in scena “Judy O’Flannagan e Paddy O’Rafferty”.
+
+
+
+Dato che le cose erano messe in modo così disastroso, lasciai quel posto…
+
+Disgusto. E ora chiedono aiuto a tutti gli amanti del corretto rispetto del [[motifs/time|tempo]].
+
+Fine kraut. Procediamo ora verso il distretto e ripristiniamo tutto.
+
+Titolo:  
+L’antico ordine delle cose a Vondervotteimittiss, attraverso l’eiettazione…
+
+Quel piccolo ragazzo dalla torre.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Devil in the Belfry (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/time,motif/well,concept/doubt,concept/history,concept/hope,concept/self,concept/truth,form/history"></span>

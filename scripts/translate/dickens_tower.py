@@ -660,11 +660,24 @@ def _chunk_oversized(block, limit=MAX_BLOCK_CHARS):
     block; there the choice is not cohesion versus chopping, it is chopping versus a stub. So:
     split on line breaks (real paragraph seams, cohesion mostly intact), and only inside a line --
     on sentences -- when one line alone still overflows. Returns [block] unchanged when it fits.
+
+    A markdown table row is the exception: the caller rejoins pieces with a newline, so cutting
+    inside a row would turn one row into several lines and the table would stop being a table.
+    That is invisible to every guard -- no blank line is introduced, so the block count and the
+    link set both still match. The plays are written as one row per speech, and the longest row
+    in the whole corpus (a chorus in Murder in the Cathedral) is ~7k chars, which still fits the
+    output cap comfortably, so an oversized row is sent whole as its own chunk instead.
     """
     if len(block) <= limit:
         return [block]
     pieces, buf = [], ""
     for line in block.split("\n"):
+        if len(line) > limit and line.lstrip().startswith("|"):
+            if buf:
+                pieces.append(buf)
+                buf = ""
+            pieces.append(line)                   # unsplittable: one row, one call
+            continue
         if len(line) > limit:                     # one paragraph overflows on its own
             if buf:
                 pieces.append(buf)
@@ -791,9 +804,24 @@ def _plain_title(text):
     return re.sub(r"^#+\s*", "", out).strip()
 
 
+def is_verse_path(en_path):
+    """True for the subtrees whose atoms are verse and get no expansion margin.
+
+    Plays/ belongs here as much as Poems/ and Long/: Coleridge's and Eliot's drama is
+    verse laid out one line per <br> inside a speech row, and read as prose it comes back
+    reflowed -- three lines fused into one sentence, which no structural check sees
+    (the block count and the link set are both untouched). It was missing for a long
+    time, so every Plays/ atom was translated without VERSE_RULE and judged by the
+    prose fabrication margin.
+
+    Kept as one function because the caller in run_dickens_hy needs the same verdict for
+    validate() that translate_atom uses for the prompt; two copies of the test drifted."""
+    p = en_path.replace(os.sep, "/")
+    return any(("/%s/" % sub) in p for sub in ("Poems", "Long", "Plays"))
+
+
 def translate_atom(en_path, cache, fixups):
-    # Verse lives under Poems/ and in the Long/ tree; it gets no expansion margin.
-    verse = "/Poems/" in en_path.replace(os.sep, "/") or "/Long/" in en_path.replace(os.sep, "/")
+    verse = is_verse_path(en_path)
     body = _read_vault(en_path)
     parts = split_blocks(clean_body(body))
     bp = boilerplate_mask(parts)

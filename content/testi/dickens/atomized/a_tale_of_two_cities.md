@@ -17107,6 +17107,72 @@ she had hitherto remained standing. He watched her as she mused, and the
 moment she raised her eyes again, went on:
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando il giorno declinò nel pomeriggio e l'aria, che a intervalli era stata abbastanza limpida da permettere di vedere la costa francese, si riempì nuovamente di nebbia e vapore, anche i pensieri del signor Lorry sembrarono offuscarsi. Quando fu buio e lui sedeva davanti al [[motifs/fire|fuoco]] della sala da tè, aspettando la cena come aveva atteso la colazione, la sua mente era intenta a scavare, scavare, scavare tra le braci rosse vive.
+
+Una bottiglia di buon claret dopo cena non fa male ad un minatore nei carboni rossi,
+se non per il fatto che tende a farlo perdere il lavoro.
+Mr. Lorry era stato inattivo per un lungo [[motifs/time|periodo]], e aveva appena versato l'ultimo
+bicchiere di vino con la stessa completa soddisfazione che si può trovare
+in un anziano signore dal viso fresco che ha finito una bottiglia, quando il rumore delle ruote risuonò nella stretta strada e rimbombò nel cortile della locanda.
+
+Mise giù il bicchiere intatto. «Questa è Mademoiselle!» disse lui.
+
+Dopo pochi minuti il cameriere entrò per annunciare che la signorina Manette era arrivata da [[settings/london|Londra]] e sarebbe stata felice di ricevere il gentiluomo della Tellson's.
+
+"Già?"
+
+La signorina Manette aveva preso un po' di ristoro sulla [[motifs/road|strada]] e non ne desiderava altro in quel momento; era invece estremamente ansiosa di vedere subito il gentiluomo della ditta Tellson, se ciò fosse stato gradito a lui e conforme ai suoi comodi.
+
+Il signore della Tellson non aveva altro da fare che svuotare il suo bicchiere con aria di ostinata disperazione, sistemarsi la strana parrucca bionda alle orecchie e seguire il cameriere nell'appartamento della signorina Manette. Era una stanza grande e buia, arredata in modo funebre con rivestimenti in crine di cavallo nero e gremita di pesanti tavoli scuri. Questi erano stati oliati più volte, fino a quando le due alte candele sul tavolo al centro della stanza non si riflettevano cupamente su ogni piano; come se fossero sepolte in profonde tombe di mogano nero e da esse non ci si potesse aspettare luce alcuna finché non fossero state dissotterrate.
+
+L'oscurità era così fitta che il signor Lorry, facendosi strada sul tappeto turco [[motifs/well|bene]] consumato, pensò che la signorina Manette si trovasse in quel momento in una stanza attigua; ma quando ebbe superato le due alte candele e vide in piedi ad accoglierlo presso il tavolo tra queste e il [[motifs/fire|fuoco]], una giovane non più diciassettenne, con un mantello da equitazione che ancora teneva in mano insieme al cappello di paglia appeso alla sua cordicella, capì subito che si trattava proprio della signorina Manette. Mentre i suoi occhi si posavano su una figura minuta e graziosa, su una massa di capelli dorati, su un paio d'occhi azzurri che lo guardavano con aria interrogativa, e su una fronte dalla singolare capacità (se si considera quanto fosse giovane e liscia) di corrugarsi e aggrottarsi in un'espressione che non era esattamente di perplessità o [[concepts/wonder|meraviglia]] o allarme o semplicemente di attenzione vivace, pur includendo tutte e quattro le espressioni - mentre i suoi occhi si posavano su questi dettagli, gli apparve improvvisamente un'immagine vivida di una [[archetypes/child|bambina]] che aveva tenuto tra le braccia durante il tragitto attraverso quel medesimo canale, in una fredda [[motifs/time|giornata]], quando la grandine cadeva fitta e il mare era agitato. L'immagine svanì come un soffio sulla superficie dello specchio magro dietro di lei, sul cui telaio una processione ospedaliera di cupidi neri, alcuni senza testa e tutti zoppi, offrivano canestri neri di frutti del Mar Morto a divinità femminili di colore - e lui fece il suo inchino formale alla signorina Manette.
+
+«Si accomodi, signore». Con una voce giovane molto chiara e piacevole;
+con un leggero accento straniero, ma davvero solo un pochino.
+
+«Le bacio la mano, signorina», disse il signor Lorry con i modi di un'epoca passata, mentre si inchinava nuovamente e prendeva posto.
+
+«Ho ricevuto una lettera dalla Banca ieri, signore, che mi informava di un certo fatto, o scoperta, »
+
+"La parola non è materiale, signorina; qualsiasi parola va bene."
+
+Riguardo al piccolo patrimonio di mio padre, che non ho mai visto, morto da tanto tempo.
+
+Il signor Lorry si mosse sulla sedia e lanciò uno sguardo turbato verso la processione ospedaliera di negri putti. Come se _loro_ potessero dare aiuto a qualcuno con quei loro assurdi cestini!
+
+«--mi ha reso necessario recarmi a [[settings/paris|Parigi]], per mettermi in contatto con un gentiluomo della Banca così gentile da essere stato inviato a [[settings/paris|Parigi]] proprio per questo scopo.»
+
+"Io stesso."
+
+"Come mi aspettavo di sentire, signore."
+
+Gli fece una riverenza (le giovani signore facevano le riverenze in quei tempi), con un grazioso [[motifs/desire|desiderio]] di fargli capire che si rendeva conto di quanto lui fosse più vecchio e saggio di lei. Lui le fece un altro inchino.
+
+«Ho risposto alla Banca, signore, che poiché era considerato necessario,
+da coloro che sanno e che sono così gentili da consigliarmi, che io dovessi andare in
+Francia, e che dato che sono un [[archetypes/orphan|orfano]] e non ho amici che possano accompagnarmi,
+apprezzerei molto se mi fosse concesso di mettermi sotto la protezione di quel degno gentiluomo durante il [[motifs/journey|viaggio]]. Il
+gentiluomo aveva lasciato [[settings/london|Londra]], ma credo che sia stato mandato un messaggero per chiedergli il favore di aspettarmi qui.»
+
+«Ero felice», disse il signor Lorry, «di essere stato incaricato di tale compito.
+Sarò ancora più felice nel portarlo a termine».
+
+«Signore, la ringrazio davvero. La ringrazio con grande gratitudine. Mi è stato detto dalla Banca che il gentiluomo mi avrebbe spiegato i dettagli dell'affare e che dovevo prepararmi a trovarli di una [[concepts/nature|natura]] sorprendente. Ho fatto del mio meglio per prepararmi, e naturalmente ho un forte ed impaziente interesse a sapere quali siano».
+
+"Naturalmente", disse il signor Lorry. "Sì, io, "
+
+Dopo una pausa, aggiunse, sistemando di nuovo la rigida parrucca bionda alle orecchie: «È molto difficile iniziare».
+
+Non fu lui a cominciare, ma nel suo stato di indecisione incrociò il suo sguardo. La giovane fronte si sollevò in quell'espressione singolare -- ma era graziosa e caratteristica oltre che singolare -- e lei alzò la mano come se con un gesto involontario avesse cercato di afferrare o fermare qualche [[archetypes/shadow|ombra]] passeggera.
+
+"Mi è del tutto estraneo, signore?"
+
+«Non lo sono?» disse il signor Lorry aprendo le mani e allargandole verso l'esterno con un sorriso argomentativo.
+
+Tra le sopracciglia e appena sopra il piccolo nasino femminile, la linea del quale era delicata e fine quanto poteva esserlo, l'espressione si accentuò mentre prendeva posto pensierosa sulla sedia presso cui fino allora era rimasta in piedi. Lui la osservava mentre meditava, e nel momento stesso in cui alzò di nuovo gli occhi riprese a parlare:
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="A Tale of Two Cities — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/orphan,motif/machine,motif/prison,motif/time,motif/water,concept/courage,concept/friendship,concept/history,concept/honour,concept/truth,form/history,setting/court,setting/paris,character/queen"></span>
@@ -35201,6 +35267,99 @@ by saying to him with a frown, “Witness at that trial.” Mr. Lorry
 immediately remembered, and regarded his new visitor with an undisguised
 look of abhorrence.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Brava [[characters/miss-pross|Miss Pross]]! Come se l'allontanamento tra loro fosse stato causato da qualche sua colpa. Come se il signor Lorry non avesse saputo per certo, anni fa, nell'angolo tranquillo di Soho, che questo prezioso fratello le aveva speso i soldi e l'aveva abbandonata!
+
+Stava pronunciando quella parola affettuosa con una condiscendenza e un paternalismo molto più riluttanti di quelli che avrebbe potuto mostrare se i loro meriti relativi e le posizioni fossero stati invertiti (cosa che accade invariabilmente dappertutto), quando il signor Cruncher, toccandogli la spalla, si intromise con voce rauca e inaspettata ponendo la seguente singolare domanda:
+
+“Posso chiedere un favore? Se il suo nome è John Solomon o Solomon John?”
+
+L'ufficiale si voltò verso di lui con improvvisa diffidenza. Non aveva ancora pronunciato una parola.
+
+«Come!» disse il signor Cruncher. «Parlate chiaro, sapete.» (Il che,
+a proposito, era più di quanto potesse fare lui stesso.) «John Solomon o
+Solomon John? Lei vi chiama Solomon e deve saperlo, essendo vostra sorella.
+E _io_ so che vi chiamate John, lo sapete. Quale dei due viene prima?
+E riguardo quel nome Pross, allo stesso modo. Non era il vostro nome oltre
+il [[motifs/water|mare]].»
+
+"Cosa intendi?"
+
+«[[motifs/well|Beh]], non so bene cosa voglio dire, perché non riesco a ricordare come ti chiamavi,
+oltre il [[motifs/water|mare]].»
+
+“No?”
+
+"No. Ma giuro che era un nome di due sillabe."
+
+"Ah sì, davvero?"
+
+“Sì. L’altro era di una sillaba sola. Ti conosco. Eri uno spia, un testimone al Bailey. Come ti chiamavi in quel [[motifs/time|periodo]], a nome del Padre delle Menzogne, tuo padre naturale?”
+
+«Barsad», disse un'altra voce, interrompendo.
+
+«Questo è il nome per mille sterline!» gridò Jerry.
+
+L'oratore che intervenne fu [[characters/sydney-carton|Sydney Carton]]. Aveva le mani dietro la schiena sotto i lembi del suo cappotto da equitazione e stava al gomito di Mr. Cruncher con la stessa noncuranza con cui avrebbe potuto stare all'Old Bailey stesso.
+
+«Non allarmatevi, mia cara [[characters/miss-pross|signorina Pross]]. Sono arrivato ieri sera da Mr Lorry, che ne è rimasto sorpreso; abbiamo convenuto che non mi sarei presentato altrove finché tutto fosse stato [[motifs/well|bene]], o a meno che io potessi essere utile. Mi presento qui per chiedere un breve colloquio con vostro fratello. Vorrei che aveste un fratello più onesto di Mr Barsad. Per il vostro bene, vorrei che Mr Barsad non fosse una pecora delle prigioni».
+
+La parola d'ordine Sheep era un termine in voga all'[[motifs/time|epoca]] per indicare uno spia sotto i secondini. Lo spia, che era pallido, impallidì ulteriormente e gli chiese come osasse.
+
+«Ve lo dirò io», disse Sydney. «Vi ho incontrato, signor Barsad,
+mentre uscivate dalla [[motifs/prison|prigione]] della Conciergerie mentre stavo contemplando le mura,
+un'ora o più fa. Avete un volto che si ricorda facilmente e io ricordo
+i volti [[motifs/well|bene]]. Resomi curioso vedendovi in quel contesto, e avendo
+una ragione, di cui non siete all'oscuro, per associarvi alle disgrazie
+di un amico ora molto infelice, ho camminato nella vostra direzione.
+Sono entrato nel negozio di vini qui vicino subito dopo di voi e mi sono seduto vicino a voi. Non ho avuto difficoltà a dedurre dalla vostra conversazione disinvolta e dai pettegolezzi che circolavano apertamente tra i vostri ammiratori la [[concepts/nature|natura]] della vostra professione. E gradualmente, ciò che avevo fatto per caso sembrava trasformarsi in uno scopo, signor Barsad».
+
+«A quale scopo?» chiese lo spia.
+
+«Sarebbe complicato e potrebbe essere pericoloso spiegare qui in strada. Potrebbe farmi il favore di concedermi qualche minuto del suo tempo in privato, magari nell'ufficio della Banca Tellson?»
+
+"Sotto minaccia?"
+
+“Ah! Ho detto questo?”
+
+"Allora, perché dovrei andare lì?"
+
+"Veramente, signor Barsad, non posso dire nulla se lei non lo fa."
+
+«Vuol dire che non vuole dirmelo, signore?» chiese lo spia esitante.
+
+"Mi capisce perfettamente, signor Barsad. Non lo farò."
+
+La negligenza e la disinvoltura di Carton furono un valido aiuto per la sua prontezza e abilità in una faccenda come quella che aveva in mente, e con un uomo come quello con cui aveva a che fare. Il suo occhio esperto lo vide e ne fece il massimo vantaggio.
+
+«Ora, ve l'avevo detto», disse lo spia lanciando uno sguardo di rimprovero alla sorella; «se ne viene fuori qualche guaio, la colpa è vostra.»
+
+«Dai, dai, signor Barsad!» esclamò Sydney. «Non sia ingrato.
+Se non nutrissi grande rispetto per sua sorella, potrei non aver condotto così
+piacevolmente a una piccola proposta che desidero fare per la reciproca
+soddisfazione di entrambi. Vuole venire con me alla Banca?»
+
+"Ascolterò ciò che hai da dire. Sì, verrò con te."
+
+«Propongo che prima accompagniamo vostra sorella sana e salva all'angolo della sua strada. Permettetemi di prendere il vostro braccio, [[characters/miss-pross|signorina Pross]]. Questa non è una buona [[motifs/city|città]] in cui trovarsi senza protezione a questa [[motifs/time|ora]]; e poiché la mia scorta conosce il signor Barsad, lo inviterò a casa del signor Lorry insieme a noi. Siamo pronti? Allora andiamo!»
+
+[[characters/miss-pross|Miss Pross]] ricordò poco dopo e fino alla fine della sua vita che mentre stringeva le mani sul braccio di Sydney e lo guardava in faccia, implorandolo di non fare del male a Solomon, c'era uno scopo deciso nel braccio e una specie di ispirazione negli occhi, che non solo contraddicevano il suo modo leggero ma cambiavano e elevavano l'uomo. Era troppo occupata allora con le paure per il fratello che meritava così poco il suo affetto e con i rassicuranti amichevoli di Sydney, per prestare adeguatamente attenzione a ciò che osservava.
+
+La lasciarono all'angolo della strada e Carton prese la testa del gruppo verso casa di Lorry che si trovava a pochi minuti di cammino. John Barsad o Solomon Pross gli camminava al fianco.
+
+Il signor Lorry aveva appena finito di cenare e stava seduto davanti al piacevole fuoco di uno o due pezzi di [[motifs/fire|legna]] -- forse osservando le fiamme per ritrovare l'immagine di quel giovane signore anziano della Tellson, che aveva scrutato tra i carboni ardenti al Royal George a Dover, ormai diversi anni prima. Si voltò quando entrarono e mostrò la sorpresa nel vedere uno sconosciuto.
+
+"La sorella di [[characters/miss-pross|Miss Pross]], signore", disse Sydney. "Il signor Barsad."
+
+«Barsad?» ripeté il vecchio gentiluomo «Barsad? Ho un'associazione con quel nome, e con quel volto.»
+
+«Le ho detto che aveva un volto notevole, signor Barsad», osservò Carton con freddezza. «Si prega di accomodarsi».
+
+Mentre prendeva posto lui stesso, fornì il collegamento che il signor Lorry cercava,
+dicendogli con un cipiglio: «Testimone a quel processo». Il signor Lorry
+si ricordò immediatamente e guardò il suo nuovo visitatore con uno sguardo di disgusto non dissimulato.
 
 
 

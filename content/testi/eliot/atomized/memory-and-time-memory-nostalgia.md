@@ -94,17 +94,6 @@ The bed is open; the tooth-brush hangs on the wall,
 Put your shoes at the door, [[motifs/sleep|sleep]], prepare for life.’  
 The last twist of the knife.  
 
-Morning at the [[motifs/window|Window]]  
-They are rattling breakfast plates in basement kitchens,  
-And along the trampled edges of the street  
-I am aware of the damp souls of housemaids  
-Sprouting despondently at area gates.  
-The brown waves of fog toss up to me  
-Twisted faces from the [[characters/bottom|bottom]] of the street,  
-And tear from a passer-by with muddy skirts  
-An aimless smile that hovers in the air  
-And vanishes along the level of the roofs.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -186,18 +175,7 @@ la lampadina spande un anello sulla scala.
 Sali.  
 Il letto è aperto; lo spazzolino da denti pende alla parete,  
 metti le scarpe alla porta, [[motifs/sleep|dormi]], preparati alla vita.’  
-L’ultimo giro del coltello.  
-
-Mattino alla [[motifs/window|Finestra]]  
-Stanno sbattendo i piatti della colazione nelle cucine dei seminterrati,  
-e lungo i margini calpestati della strada  
-sono consapevole delle anime umide delle domestiche  
-che spuntano sconsolate ai cancelli dei cortiletti.  
-Le onde brune della nebbia mi scagliano su  
-volti contorti dal [[characters/bottom|fondo]] della strada,  
-e strappano a una passante dalle gonne infangate  
-un sorriso senza scopo che aleggia nell’aria  
-e svanisce lungo il livello dei tetti.
+L’ultimo giro del coltello.
 
 
 
@@ -219,21 +197,6 @@ And the footman sat upon the dining-table
 Holding the second housemaid on his knees —  
 Who had always been so careful while her mistress lived.  
 
-Cousin [[characters/nancy|Nancy]]  
-Miss [[characters/nancy|Nancy]] Ellicott  
-Strode across the hills and broke them,  
-Rode across the hills and broke them —  
-The barren [[historical-references/new-england|New England]] hills —  
-Riding to hounds  
-Over the cow-pasture.  
-Miss [[characters/nancy|Nancy]] Ellicott smoked  
-And danced all the modern dances;  
-And her aunts were not quite sure how they felt about it,  
-But they knew that it was modern.  
-Upon the glazen shelves kept watch  
-Matthew and Waldo, guardians of the [[concepts/faith|faith]],  
-The army of unalterable law.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -250,22 +213,7 @@ ma poco dopo morì anche il pappagallo.
 L’[[motifs/clock|orologio]] di Dresda continuò a ticchettare sulla mensola del camino,  
 e il valletto sedeva sul tavolo da pranzo  
 tenendo la seconda cameriera sulle ginocchia —  
-lei che era sempre stata così attenta mentre la padrona viveva.  
-
-La cugina [[characters/nancy|Nancy]]  
-La signorina [[characters/nancy|Nancy]] Ellicott  
-percorreva a grandi passi le colline e le spezzava,  
-cavalcava per le colline e le spezzava —  
-le sterili colline del [[historical-references/new-england|New England]] —  
-cavalcando dietro ai cani  
-sopra il pascolo delle vacche.  
-La signorina [[characters/nancy|Nancy]] Ellicott fumava  
-e ballava tutti i balli moderni;  
-e le sue zie non erano del tutto sicure di che cosa ne pensassero,  
-ma sapevano che era moderno.  
-Sugli scaffali a vetri vegliavano  
-Matthew e Waldo, guardiani della [[concepts/faith|fede]],  
-l’esercito della legge immutabile.
+lei che era sempre stata così attenta mentre la padrona viveva.
 
 
 
@@ -310,58 +258,6 @@ Klein. Who clipped the [[motifs/lion|lion]]’s wings
 Thought Burbank, meditating on  
     [[motifs/time|Time]]’s ruins, and the seven laws.  
 
-[[characters/sweeney|Sweeney]] Erect  
-And the trees about me,  
-Let them be dry and leafless; let the rocks  
-Groan with continual surges; and behind me  
-Make all a desolation. Look, look, wenches!  
-
-
-Paint me a cavernous waste shore  
-    Cast in the unstilled Cyclades,  
-Paint me the bold anfractuous rocks  
-    Faced by the snarled and yelping seas.  
-Display me Aeolus above  
-    Reviewing the insurgent gales  
-Which tangle Ariadne’s hair  
-    And swell with haste the perjured sails.  
-Morning stirs the feet and hands  
-    (Nausicaa and Polypheme).  
-Gesture of orang-outang  
-    Rises from the sheets in steam.  
-This withered root of knots of hair  
-    Slitted below and gashed with eyes,  
-This oval O cropped out with teeth:  
-    The sickle motion from the thighs  
-Jackknifes upward at the knees  
-    Then straightens out from heel to hip  
-Pushing the framework of the bed  
-    And clawing at the pillow slip.  
-[[characters/sweeney|Sweeney]] addressed full length to shave  
-    Broadbottomed, pink from nape to base,  
-Knows the female temperament  
-    And wipes the suds around his face.  
-(The lengthened [[archetypes/shadow|shadow]] of a man  
-    Is [[concepts/history|history]], said Emerson  
-Who had not seen the silhouette  
-    Of [[characters/sweeney|Sweeney]] straddled in the sun.)  
-Tests the razor on his leg  
-    Waiting until the shriek subsides.  
-The epileptic on the bed  
-    Curves backward, clutching at her sides.  
-The ladies of the corridor  
-    Find themselves involved, disgraced,  
-Call witness to their principles  
-    And deprecate the lack of taste  
-Observing that hysteria  
-    Might easily be misunderstood;  
-Mrs. Turner intimates  
-    It does the house no sort of good.  
-But Doris, towelled from the bath,  
-    Enters padding on broad feet,  
-Bringing sal volatile  
-    And a glass of brandy neat.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -401,59 +297,7 @@ per salire la scala d’acqua. Luci, luci,
 Klein. Chi tarpò le ali al [[motifs/lion|leone]]  
     e gli spulciò la groppa e gli spuntò gli artigli?  
 pensava Burbank, meditando  
-    sulle rovine del [[motifs/time|Tempo]], e sulle sette leggi.  
-
-[[characters/sweeney|Sweeney]] eretto  
-E gli alberi intorno a me,  
-siano secchi e senza foglie; le rocce  
-gemano di flutti continui; e dietro di me  
-fate di tutto una desolazione. Guardate, guardate, ragazze!  
-
-
-Dipingimi una riva deserta e cavernosa  
-    gettata nelle Cicladi inquiete,  
-dipingimi le rocce ardite e anfrattuose  
-    affrontate dai mari ringhianti e latranti.  
-Mostrami Eolo in alto  
-    che passa in rassegna le raffiche insorte  
-le quali aggrovigliano i capelli d’Arianna  
-    e gonfiano in fretta le vele spergiure.  
-Il mattino muove i piedi e le mani  
-    (Nausicaa e Polifemo).  
-Gesto d’orangutan  
-    si leva dalle lenzuola nel vapore.  
-Questa radice avvizzita di nodi di capelli  
-    fessa di sotto e sfregiata d’occhi,  
-questo O ovale spuntato di denti:  
-    il moto di falce dalle cosce  
-scatta a coltello in su alle ginocchia  
-    poi si distende dal tallone all’anca  
-spingendo l’intelaiatura del letto  
-    e artigliando la federa.  
-[[characters/sweeney|Sweeney]] disteso in tutta la sua lunghezza per radersi  
-    dal largo sedere, rosa dalla nuca alla base,  
-conosce il temperamento femminile  
-    e si spalma la schiuma intorno al viso.  
-(L’[[archetypes/shadow|ombra]] allungata d’un uomo  
-    è la [[concepts/history|storia]], disse Emerson  
-che non aveva visto la sagoma  
-    di [[characters/sweeney|Sweeney]] a gambe larghe nel sole.)  
-Prova il rasoio sulla gamba  
-    aspettando che lo strillo si plachi.  
-L’epilettica sul letto  
-    s’inarca all’indietro, stringendosi i fianchi.  
-Le signore del corridoio  
-    si trovano coinvolte, disonorate,  
-chiamano a testimone i loro principi  
-    e deprecano la mancanza di gusto  
-osservando che l’isterismo  
-    potrebbe facilmente essere frainteso;  
-la signora Turner accenna  
-    che non fa alcun bene alla casa.  
-Ma Doris, avvolta nell’asciugamano dal bagno,  
-    entra camminando molle su larghi piedi,  
-portando sale volatile  
-    e un bicchiere di brandy liscio.
+    sulle rovine del [[motifs/time|Tempo]], e sulle sette leggi.
 
 
 
@@ -480,46 +324,6 @@ Et Saint Apollinaire, raide et ascétique,
 Vieille usine désaffectée de Dieu, tient encore  
 Dans ses pierres écroulantes la forme précise de Byzance.  
 
-The Hippopotamus  
-And when this epistle is read among you, cause that  
-it be read also in the church of the Laodiceans.  
-The broad-backed hippopotamus  
-Rests on his belly in the mud;  
-Although he seems so firm to us  
-He is merely flesh and [[motifs/blood|blood]].  
-Flesh and [[motifs/blood|blood]] is weak and frail.  
-Susceptible to nervous shock;  
-While the True Church can never fail  
-For it is based upon a rock.  
-The hippo’s feeble steps may err  
-In compassing material ends,  
-While the True Church need never stir  
-To gather in its dividends.  
-The ’potamus can never reach  
-The mango on the mango-tree;  
-But fruits of pomegranate and peach  
-Refresh the Church from over sea.  
-At mating [[motifs/time|time]] the hippo’s voice  
-Betrays inflexions hoarse and odd,  
-But every week we hear rejoice  
-The Church, at being one with God.  
-The hippopotamus’s day  
-Is passed in [[motifs/sleep|sleep]]; at [[motifs/night|night]] he hunts;  
-God works in a mysterious way —  
-The Church can [[motifs/sleep|sleep]] and feed at once.  
-I saw the ’potamus take wing  
-Ascending from the damp savannas,  
-And quiring angels round him sing  
-The praise of God, in loud hosannas.  
-[[motifs/blood|Blood]] of the [[motifs/lamb|Lamb]] shall wash him clean  
-And him shall heavenly arms enfold.  
-Among the saints he shall be seen  
-Performing on a harp of gold.  
-He shall be washed as white as [[motifs/snow|snow]],  
-By all the martyr’d virgins kist,  
-While the True Church remains below  
-Wrapt in the old miasmal mist.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -541,47 +345,7 @@ Lui pensa alle mance, e redige il suo bilancio.
 Avranno visto la Svizzera e attraversato la Francia.  
 E Sant’Apollinare, rigido e ascetico,  
 vecchia fabbrica dismessa di Dio, serba ancora  
-nelle sue pietre frananti la forma precisa di Bisanzio.  
-
-L’ippopotamo  
-E quando questa epistola sarà letta fra voi, fate che  
-sia letta anche nella chiesa dei Laodicesi.  
-L’ippopotamo dal dorso ampio  
-riposa sul ventre nel fango;  
-benché a noi sembri così saldo  
-non è che carne e [[motifs/blood|sangue]].  
-Carne e [[motifs/blood|sangue]] son deboli e fragili,  
-soggetti allo shock nervoso;  
-mentre la Vera Chiesa non può mai venir meno  
-perché è fondata sopra una roccia.  
-I passi fiacchi dell’ippo possono errare  
-nel conseguire fini materiali,  
-mentre la Vera Chiesa non deve mai muoversi  
-per raccogliere i suoi dividendi.  
-L’ippo non può mai raggiungere  
-il mango sull’albero del mango;  
-ma frutti di melagrana e di pesca  
-ristorano la Chiesa da oltremare.  
-Al [[motifs/time|tempo]] degli amori la voce dell’ippo  
-tradisce inflessioni rauche e strane,  
-ma ogni settimana udiamo esultare  
-la Chiesa, d’essere una cosa sola con Dio.  
-La giornata dell’ippopotamo  
-trascorre nel [[motifs/sleep|sonno]]; di [[motifs/night|notte]] caccia;  
-Dio opera in modo misterioso —  
-la Chiesa può [[motifs/sleep|dormire]] e nutrirsi a un tempo.  
-Vidi l’ippo prendere il volo  
-salendo dalle savane umide,  
-e schiere d’angeli cantare intorno a lui  
-la lode di Dio, in alti osanna.  
-Il [[motifs/blood|Sangue]] dell’[[motifs/lamb|Agnello]] lo laverà mondo  
-e braccia celesti lo avvolgeranno.  
-Fra i santi sarà veduto  
-sonare un’arpa d’oro.  
-Sarà lavato bianco come [[motifs/snow|neve]],  
-baciato da tutte le vergini martiri,  
-mentre la Vera Chiesa resta quaggiù  
-avvolta nell’antica nebbia miasmatica.
+nelle sue pietre frananti la forma precisa di Bisanzio.
 
 
 
@@ -621,41 +385,6 @@ Le repassant aux étapes de sa vie antérieure.
 Figurez-vous done, c’était un sort pénible;  
 Cependant, ce fut jadis un bel homme, de haute taille.  
 
-Whispers of [[concepts/immortality|Immortality]]  
-Webster was much possessed by [[motifs/death|death]]  
-And saw the skull beneath the skin;  
-And breastless creatures under ground  
-Leaned backward with a lipless grin.  
-Daffodil bulbs instead of balls  
-Stared from the sockets of the eyes!  
-He knew that thought clings round dead limbs  
-Tightening its lusts and luxuries.  
-Donne, I suppose, was such another  
-Who found no substitute for sense,  
-To seize and clutch and penetrate;  
-Expert beyond experience,  
-He knew the anguish of the marrow  
-The ague of the skeleton;  
-No contact possible to flesh  
-Allayed the fever of the bone.  
-                      .    .    .    .    .  
-Grishkin is nice: her Russian eye  
-Is underlined for emphasis;  
-Uncorseted, her friendly bust  
-Gives promise of pneumatic bliss.  
-The couched Brazilian jaguar  
-Compels the scampering marmoset  
-With subtle effluence of cat;  
-Grishkin has a maisonnette;  
-The sleek Brazilian jaguar  
-Does not in its arboreal gloom  
-Distil so rank a feline smell  
-As Grishkin in a drawing-room.  
-And even the Abstract Entities  
-Circumambulate her charm;  
-But our lot crawls between dry ribs  
-To keep our metaphysics warm.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -690,42 +419,7 @@ e i profitti e le perdite, e il carico di stagno:
 una corrente sottomarina lo portò assai lontano,  
 ripassandolo per le tappe della sua vita anteriore.  
 Figuratevi dunque, era una sorte penosa;  
-eppure, fu un tempo un bell’uomo, d’alta statura.  
-
-Sussurri d’[[concepts/immortality|Immortalità]]  
-Webster era molto posseduto dalla [[motifs/death|morte]]  
-e vedeva il teschio sotto la pelle;  
-e creature senza seno sotto terra  
-si piegavano all’indietro con un ghigno senza labbra.  
-Bulbi di narciso invece di globi  
-fissavano dalle orbite degli occhi!  
-Sapeva che il pensiero s’avvinghia alle membra morte  
-stringendo le sue lussurie e i suoi lussi.  
-Donne, suppongo, era un altro simile  
-che non trovò surrogato al senso,  
-per afferrare e stringere e penetrare;  
-esperto oltre l’esperienza,  
-conobbe l’angoscia del midollo  
-il tremito febbrile dello scheletro;  
-nessun contatto possibile alla carne  
-placò la febbre dell’osso.  
-                      .    .    .    .    .  
-Grishkin è graziosa: il suo occhio russo  
-è sottolineato per enfasi;  
-senza busto, il suo seno amichevole  
-promette una beatitudine pneumatica.  
-Il giaguaro brasiliano acquattato  
-costringe l’uistitì che sgambetta  
-con sottile effluvio di gatto;  
-Grishkin ha un appartamentino;  
-il giaguaro brasiliano lucido  
-non distilla, nella sua tenebra arborea,  
-un odore felino così rancido  
-come Grishkin in un salotto.  
-E perfino le Entità Astratte  
-circumambulano il suo fascino;  
-ma la nostra sorte striscia fra costole secche  
-per tenere calda la nostra metafisica.
+eppure, fu un tempo un bell’uomo, d’alta statura.
 
 
 
@@ -767,43 +461,6 @@ Circumambulate her charm;
 But our lot crawls between dry ribs  
 To keep our metaphysics warm.  
 
-Mr. Eliot’s [[characters/sunday|Sunday]] Morning Service  
-Look, look, master, here comes two religious caterpillars.  
-The Jew of Malta.  
-Polyphiloprogenitive  
-The sapient sutlers of the Lord  
-Drift across the [[motifs/window|window]]-panes.  
-In the beginning was the Word.  
-In the beginning was the Word.  
-Superfetation of  
-And at the mensual turn of [[motifs/time|time]]  
-Produced enervate Origen.  
-A painter of the Umbrian school  
-Designed upon a gesso ground  
-The nimbus of the Baptized God.  
-The wilderness is cracked and browned  
-But through the [[motifs/water|water]] pale and thin  
-Still shine the unoffending feet  
-And there above the painter set  
-The Father and the Paraclete.  
-                .    .    .    .    .  
-The sable presbyters approach  
-The avenue of penitence;  
-The young are red and pustular  
-Clutching piaculative pence.  
-Under the penitential gates  
-Sustained by staring Seraphim  
-Where the souls of the devout  
-Burn invisible and dim.  
-Along the [[motifs/garden|garden]]-wall the [[motifs/bees|bees]]  
-With hairy bellies pass between  
-The staminate and pistillate.  
-Blest office of the epicene.  
-[[characters/sweeney|Sweeney]] shifts from ham to ham  
-Stirring the [[motifs/water|water]] in his bath.  
-The masters of the subtle schools  
-Are controversial, polymath.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -840,44 +497,7 @@ come Grishkin in un salotto.
 E perfino le Entità Astratte  
 circumambulano il suo fascino;  
 ma la nostra sorte striscia fra costole secche  
-per tenere calda la nostra metafisica.  
-
-Il servizio mattutino della [[characters/sunday|Domenica]] di Mr. Eliot  
-Guarda, guarda, padrone, ecco venire due bruchi religiosi.  
-L’ebreo di Malta.  
-Polifiloprogenitivo  
-i sapienti vivandieri del Signore  
-derivano attraverso i vetri della [[motifs/window|finestra]].  
-In principio era il Verbo.  
-In principio era il Verbo.  
-Superfetazione di  
-e alla svolta mensuale del [[motifs/time|tempo]]  
-produsse l’enervato Origene.  
-Un pittore della scuola umbra  
-disegnò su un fondo di gesso  
-il nimbo del Dio Battezzato.  
-Il deserto è screpolato e imbrunito  
-ma attraverso l’[[motifs/water|acqua]] pallida e sottile  
-splendono ancora i piedi innocenti  
-e là sopra il pittore pose  
-il Padre e il Paraclito.  
-                .    .    .    .    .  
-I presbiteri di zibellino s’accostano  
-al viale della penitenza;  
-i giovani sono rossi e pustolosi  
-stringendo monete piaculari.  
-Sotto le porte penitenziali  
-sostenute da Serafini che fissano  
-dove le anime dei devoti  
-bruciano invisibili e fioche.  
-Lungo il muro del [[motifs/garden|giardino]] le [[motifs/bees|api]]  
-dai ventri pelosi passano fra  
-lo staminifero e il pistillifero.  
-Benedetto ufficio dell’epicena.  
-[[characters/sweeney|Sweeney]] si sposta da natica a natica  
-agitando l’[[motifs/water|acqua]] del suo bagno.  
-I maestri delle scuole sottili  
-sono controversisti, polimati.
+per tenere calda la nostra metafisica.
 
 
 
@@ -969,75 +589,6 @@ And a wopsical hat:
 How unpleasant to meet Mr. Eliot!  
       (Whether his mouth be open or shut).  
 
-Landscapes  
-*  
-I. New Hampshire  
-Children’s voices in the orchard  
-Between the blossom-and the fruit-[[motifs/time|time]]:  
-Golden head, crimson head,  
-Between the green tip and the root.  
-Black wing, brown wing, hover over;  
-Twenty years and the [[motifs/spring|spring]] is over;  
-To-day grieves, to-morrow grieves,  
-Cover me over, light-in-[[motifs/leaves|leaves]];  
-Golden head, black wing,  
-Cling, swing,  
-[[motifs/spring|Spring]], sing,  
-Swing up into the apple-tree.  
-II. Virginia  
-Red [[motifs/river|river]], red [[motifs/river|river]],  
-Slow flow heat is [[motifs/silence|silence]]  
-No will is still as a [[motifs/river|river]]  
-Still. Will heat move  
-Only through the mocking-bird  
-Heard once? Still hills  
-Wait. Gates wait. Purple trees,  
-White trees, wait, wait,  
-Delay, [[motifs/decay|decay]]. Living, living,  
-Never moving. Ever moving  
-Iron thoughts came with me  
-And go with me:  
-Red [[motifs/river|river]], [[motifs/river|river]], [[motifs/river|river]].  
-III. Usk  
-Do not suddenly break the branch, or  
-[[concepts/hope|Hope]] to find  
-The white hart behind the white [[motifs/well|well]].  
-Glance aside, not for lance, do not spell  
-Old enchantments. Let them [[motifs/sleep|sleep]].  
-‘Gently dip, but not too deep’,  
-Lift your eyes  
-Where the roads dip and where the roads rise  
-Seek only there  
-Where the grey light meets the green air  
-The hermit’s chapel, the [[archetypes/pilgrim|pilgrim]]’s [[motifs/prayer|prayer]].  
-IV. Rannoch, by Glencoe  
-Here the crow starves, here the patient stag  
-Breeds for the rifle. Between the soft moor  
-And the soft sky, scarcely room  
-To leap or soar. Substance crumbles, in the thin air  
-[[motifs/moon|Moon]] cold or [[motifs/moon|moon]] hot. The [[motifs/road|road]] winds in  
-Listlessness of ancient war,  
-Languor of broken steel,  
-Clamour of confused wrong, apt  
-In [[motifs/silence|silence]]. [[motifs/memory|Memory]] is strong  
-Beyond the bone. [[concepts/pride|Pride]] snapped,  
-[[archetypes/shadow|Shadow]] of [[concepts/pride|pride]] is long, in the long pass  
-No concurrence of bone.  
-V. Cape Ann  
-O quick quick quick, quick hear the song-sparrow,  
-Swamp-sparrow, fox-sparrow, vesper-sparrow  
-At [[motifs/dawn|dawn]] and dusk. Follow the [[motifs/dance|dance]]  
-Of the goldfinch at [[motifs/noon|noon]]. Leave to chance  
-The Blackburnian warbler, the shy one. Hail  
-With shrill whistle the note of the quail, the bob-white  
-Dodging by bay-bush. Follow the feet  
-Of the walker, the [[motifs/water|water]]-thrush. Follow the flight  
-Of the dancing arrow, the purple martin. Greet  
-In [[motifs/silence|silence]] the bullbat. All are delectable. Sweet sweet sweet  
-But resign this land at the end, resign it  
-To its true owner, the tough one, the sea-gull.  
-The palaver is finished.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1124,76 +675,7 @@ in un cappotto di pelliccia
 e un gatto porcospinoso  
 e un cappello svolazzoso:  
 Com’è sgradevole incontrare Mr. Eliot!  
-      (Che la sua bocca sia aperta o chiusa).  
-
-Paesaggi  
-*  
-I. New Hampshire  
-Voci di bambini nel frutteto  
-fra il [[motifs/time|tempo]] del fiore e quello del frutto:  
-testa d’oro, testa cremisi,  
-fra la verde punta e la radice.  
-Ala nera, ala bruna, aleggiate sopra;  
-vent’anni e la [[motifs/spring|primavera]] è finita;  
-oggi si duole, domani si duole,  
-copritemi, luce-fra-le-[[motifs/leaves|foglie]];  
-testa d’oro, ala nera,  
-aggràppati, dòndola,  
-[[motifs/spring|Primavera]], canta,  
-dòndolati su fino al melo.  
-II. Virginia  
-Rosso [[motifs/river|fiume]], rosso [[motifs/river|fiume]],  
-lento scorre il calore è [[motifs/silence|silenzio]]  
-nessuna volontà è ferma come un [[motifs/river|fiume]]  
-ferma. Si muoverà il calore  
-solo attraverso il tordo beffeggiatore  
-udito una volta? Ferme le colline  
-attendono. I cancelli attendono. Alberi purpurei,  
-alberi bianchi, attendono, attendono,  
-indugio, [[motifs/decay|sfacelo]]. Vivi, vivi,  
-mai in movimento. Sempre in movimento  
-pensieri di ferro vennero con me  
-e vanno con me:  
-rosso [[motifs/river|fiume]], [[motifs/river|fiume]], [[motifs/river|fiume]].  
-III. Usk  
-Non spezzare all’improvviso il ramo, né  
-[[concepts/hope|sperare]] di trovare  
-il cervo bianco dietro il [[motifs/well|pozzo]] bianco.  
-Guarda di lato, non per la lancia, non compitare  
-antichi incantesimi. Lasciali [[motifs/sleep|dormire]].  
-‘Immergi dolcemente, ma non troppo a fondo’,  
-alza gli occhi  
-là dove le strade scendono e dove le strade salgono  
-cerca soltanto là  
-dove la luce grigia incontra l’aria verde  
-la cappella dell’eremita, la [[motifs/prayer|preghiera]] del [[archetypes/pilgrim|pellegrino]].  
-IV. Rannoch, presso Glencoe  
-Qui il corvo patisce la fame, qui il cervo paziente  
-figlia per il fucile. Fra la molle brughiera  
-e il molle cielo, appena spazio  
-per spiccare un salto o librarsi. La sostanza si sgretola, nell’aria sottile  
-[[motifs/moon|luna]] fredda o [[motifs/moon|luna]] calda. La [[motifs/road|strada]] s’avvolge  
-nell’inerzia d’un’antica guerra,  
-languore d’acciaio spezzato,  
-clamore di torto confuso, chiuso  
-nel [[motifs/silence|silenzio]]. La [[motifs/memory|memoria]] è forte  
-oltre l’osso. Spezzato l’[[concepts/pride|orgoglio]],  
-l’[[archetypes/shadow|ombra]] dell’[[concepts/pride|orgoglio]] è lunga, nel lungo valico  
-nessuna concordia d’ossa.  
-V. Cape Ann  
-O presto presto presto, presto ascolta il passero cantore,  
-il passero di palude, il passero volpino, il passero vespertino  
-all’[[motifs/dawn|alba]] e all’imbrunire. Segui la [[motifs/dance|danza]]  
-del cardellino a [[motifs/noon|mezzogiorno]]. Lascia al caso  
-la silvia di Blackburn, la timida. Saluta  
-con fischio acuto la nota della quaglia, il colino  
-che schizza via presso il cespuglio d’alloro. Segui i piedi  
-del camminatore, il tordo d’[[motifs/water|acqua]]. Segui il volo  
-della freccia danzante, la rondine purpurea. Saluta  
-in [[motifs/silence|silenzio]] il succiacapre. Tutti son deliziosi. Dolce dolce dolce  
-ma cedi infine questa terra, cedila  
-al suo vero padrone, il duro, il gabbiano.  
-La chiacchierata è finita.
+      (Che la sua bocca sia aperta o chiusa).
 
 
 
@@ -1218,24 +700,6 @@ So let us haste to pluck anew
 And though our days of [[motifs/love|love]] be few  
    Yet let them be divine.  
 
-[[works/song-(poe)|Song]]: ‘If space and [[motifs/time|time]], as sages say’  
-If space and [[motifs/time|time]], as sages say,  
-   Are things that cannot be,  
-The fly that lives a single day  
-   Has lived as long as we.  
-But let us live while yet we may,  
-   While [[motifs/love|love]] and life are free,  
-For [[motifs/time|time]] is [[motifs/time|time]], and runs away,  
-   Though sages disagree.  
-The [[motifs/flowers|flowers]] I sent thee when the dew  
-   Was trembling on the vine  
-Were withered ere the wild bee flew  
-   To suck the eglantine.  
-But let us haste to pluck anew  
-   Nor mourn to see them pine,  
-And though the [[motifs/flowers|flowers]] of life be few  
-   Yet let them be divine.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1255,24 +719,6 @@ erano appassiti prima che l’ape selvatica volasse
 Affrettiamoci dunque a coglierne di nuovi  
    né dolerci di vederli languire,  
 e benché i nostri giorni d’[[motifs/love|amore]] siano pochi  
-   che siano tuttavia divini.  
-
-Canto: ‘Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi’  
-Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi,  
-   sono cose che non possono essere,  
-la mosca che vive un solo giorno  
-   ha vissuto quanto noi.  
-Ma viviamo finché ancora possiamo,  
-   finché [[motifs/love|amore]] e vita sono liberi,  
-ché il [[motifs/time|tempo]] è [[motifs/time|tempo]], e fugge via,  
-   benché i saggi non concordino.  
-I [[motifs/flowers|fiori]] che ti mandai quando la rugiada  
-   tremava sulla vite  
-erano appassiti prima che l’ape selvatica volasse  
-   a succhiare l’eglantina.  
-Ma affrettiamoci a coglierne di nuovi  
-   né dolerci di vederli languire,  
-e benché i [[motifs/flowers|fiori]] della vita siano pochi  
    che siano tuttavia divini.
 
 
@@ -1298,106 +744,6 @@ But let us haste to pluck anew
 And though the [[motifs/flowers|flowers]] of life be few  
    Yet let them be divine.  
 
-[At Graduation 1905]  
-I  
-Standing upon the shore of all we know  
-We linger for a moment doubtfully,  
-Then with a song upon our lips, sail we  
-Across the harbor bar — no chart to show  
-No light to warn of rocks which lie below,  
-But let us yet put forth courageously.  
-II  
-As colonists embarking from the strand  
-To seek their fortunes on some foreign shore  
-[[motifs/well|Well]] know they lose what [[motifs/time|time]] shall not restore,  
-And when they leave they fully understand  
-That though again they see their fatherland  
-They there shall be as citizens no more.  
-III  
-We go; as [[motifs/lightning|lightning]]-winged clouds that fly  
-After a [[motifs/summer|summer]] tempest, when some haste  
-North, South, and Eastward o’er the [[motifs/water|water]]’s waste‚  
-Some to the western limits of the sky  
-Which the sun stains with many a splendid dye,  
-Until their passing may no more be traced.  
-IV  
-Although the path be tortuous and slow,  
-Although it bristle with a thousand fears,  
-To hopeful eye of youth it still appears  
-A lane by which the [[motifs/rose|rose]] and hawthorn grow.  
-We [[concepts/hope|hope]] it may be; would that we might know!  
-Would we might look into the future years.  
-V  
-Great duties call — the twentieth century  
-More grandly dowered than those which came before,  
-Summons — who knows what [[motifs/time|time]] may hold in store‚  
-Or what great deeds the distant years may see,  
-What conquest over [[motifs/pain|pain]] and misery‚  
-What heroes greater than were e’er of yore!  
-VI  
-But if this century is to be more great  
-Than those before, her sons must make her so,  
-And we are of her sons, and we must go  
-With eager hearts to help mold [[motifs/well|well]] her fate,  
-And see that she shall gain such proud estate  
-As shall on future centuries bestow  
-VII  
-A legacy of benefits — may we  
-In future years be found with those who try  
-To labor for the good until they die,  
-And ask no other guerdon than to know  
-That they have helpt the cause to victory,  
-That with their aid the [[motifs/flag|flag]] is raised on high.  
-VIII  
-Sometime in distant years when we are grown  
-Gray-haired and old, whatever be our lot‚  
-We shall [[motifs/desire|desire]] to see again the spot  
-Which, whatsoever we have been or done  
-Or to what distant lands we may have gone,  
-Through all the years will ne’er have been forgot.  
-IX  
-For in the sanctuaries of the [[motifs/soul|soul]]  
-Incense of altar-smoke shall rise to thee  
-From spotless fanes of lucid purity,  
-O school of ours! The passing years that roll  
-Between, as we press onward to the goal,  
-Shall not have power to quench the [[motifs/memory|memory]].  
-X  
-We shall return; and it will be to find  
-A different school from that which now we know;  
-But only in appearance t’will be so.  
-That which has made it great, not left behind,  
-The same school in the future shall we find  
-As this from which as pupils now we go.  
-XI  
-We go; like flitting faces in a dream;  
-Out of thy care and tutelage we pass  
-Into the unknown world — class after class,  
-O [[characters/queen|queen]] of schools — a momentary gleam,  
-A bubble on the surface of the stream,  
-A drop of dew upon the morning grass;  
-XII  
-Thou dost not die — for each succeeding year  
-Thy honor and thy fame shall but increase  
-Forever, and may stronger words than these  
-Proclaim the glory so that all may hear;  
-May worthier sons be thine, from far and near  
-To spread thy name o’er distant lands and seas!  
-XIII  
-As thou to thy departing sons hast been  
-To those that follow may’st thou be no less;  
-A guide to warn them, and a friend to bless  
-Before they leave thy care for lands unseen;  
-And let thy motto be, proud and serene‚  
-Still as the years pass by, the word ‘Progress!’  
-XIV  
-So we are done; we may no more delay;  
-Thus is the end of every tale: ‘Farewell’,  
-A word that echoes like a funeral bell  
-And one that we are ever loth to say.  
-But ’tis a call we cannot disobey,  
-Exeunt omnes‚ with a last ‘farewell’.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1417,107 +763,7 @@ erano appassiti prima che l’ape selvatica volasse
 Ma affrettiamoci a coglierne di nuovi  
    né dolerci di vederli languire,  
 e benché i [[motifs/flowers|fiori]] della vita siano pochi  
-   che siano tuttavia divini.  
-
-[Per il diploma, 1905]  
-I  
-Ritti sulla riva di tutto ciò che sappiamo  
-indugiamo un istante dubitosi,  
-poi con un canto sulle labbra salpiamo  
-oltre la barra del porto — nessuna carta a mostrare  
-nessun faro ad avvertire degli scogli che stanno sotto,  
-ma pure mettiamoci in mare coraggiosamente.  
-II  
-Come coloni che s’imbarcano dal lido  
-per cercar fortuna su qualche riva straniera  
-[[motifs/well|bene]] sanno di perdere ciò che il [[motifs/time|tempo]] non renderà,  
-e quando partono comprendono appieno  
-che, pur rivedendo la loro terra natale,  
-là non saranno più cittadini.  
-III  
-Andiamo; come nuvole dall’ala di [[motifs/lightning|lampo]] che volano  
-dopo una tempesta d’[[motifs/summer|estate]], quando alcune s’affrettano  
-a nord, a sud, a oriente sopra la distesa dell’[[motifs/water|acqua]],  
-altre ai confini occidentali del cielo  
-che il sole tinge di molti splendidi colori,  
-finché il loro passaggio più non si possa seguire.  
-IV  
-Benché il cammino sia tortuoso e lento,  
-benché irto di mille paure,  
-all’occhio speranzoso della giovinezza appare ancora  
-un viale lungo il quale crescono la [[motifs/rose|rosa]] e il biancospino.  
-Noi [[concepts/hope|speriamo]] che sia così; potessimo saperlo!  
-Potessimo guardare negli anni futuri.  
-V  
-Grandi doveri chiamano — il ventesimo secolo,  
-più magnificamente dotato di quelli che vennero prima,  
-convoca — chi sa che cosa il [[motifs/time|tempo]] serbi in riserva,  
-o quali grandi imprese vedranno gli anni lontani,  
-quale conquista sul [[motifs/pain|dolore]] e sulla miseria,  
-quali eroi più grandi di quanti mai ve ne furono un tempo!  
-VI  
-Ma se questo secolo dev’essere più grande  
-di quelli che furono, i suoi figli lo devono fare tale,  
-e noi siamo suoi figli, e dobbiamo andare  
-con cuori ardenti ad aiutare a plasmare [[motifs/well|bene]] il suo destino,  
-e a vedere ch’esso guadagni un così fiero stato  
-da lasciare ai secoli futuri  
-VII  
-un’eredità di benefici — possiamo noi  
-negli anni a venire trovarci fra coloro che tentano  
-di lavorare per il bene fino alla morte,  
-e non chiedono altro guiderdone che sapere  
-d’aver aiutato la causa alla vittoria,  
-che col loro soccorso la [[motifs/flag|bandiera]] è issata in alto.  
-VIII  
-Un giorno, in anni lontani, quando saremo  
-canuti e vecchi, qualunque sia la nostra sorte,  
-[[motifs/desire|desidereremo]] rivedere il luogo  
-che, qualunque cosa siamo stati o abbiamo fatto  
-o verso qualunque terra lontana ce ne siamo andati,  
-per tutti gli anni non sarà mai stato dimenticato.  
-IX  
-Ché nei santuari dell’[[motifs/soul|anima]]  
-l’incenso del fumo dell’altare salirà a te  
-da immacolati templi di lucida purezza,  
-o scuola nostra! Gli anni che passano e rotolano  
-frammezzo, mentre noi premiamo verso la meta,  
-non avranno potere di spegnere il [[motifs/memory|ricordo]].  
-X  
-Torneremo; e sarà per trovare  
-una scuola diversa da quella che ora conosciamo;  
-ma solo in apparenza sarà così.  
-Ciò che l’ha fatta grande, non lasciato indietro,  
-la stessa scuola nel futuro troveremo  
-che è questa da cui ora, scolari, partiamo.  
-XI  
-Andiamo; come volti fuggevoli in un sogno;  
-dalla tua cura e tutela passiamo  
-nel mondo ignoto — classe dopo classe,  
-o [[characters/queen|regina]] delle scuole — un lampo momentaneo,  
-una bolla sulla superficie del ruscello,  
-una goccia di rugiada sull’erba del mattino;  
-XII  
-Tu non muori — ché ad ogni anno che segue  
-il tuo onore e la tua fama non faranno che crescere  
-per sempre, e possano parole più forti di queste  
-proclamare la gloria sì che tutti odano;  
-possano essere tuoi figli più degni, da presso e da lungi,  
-a spargere il tuo nome su terre e mari lontani!  
-XIII  
-Come sei stata per i figli che ti lasciano  
-non meno possa tu essere per quelli che seguono;  
-una guida che li avverta, e un’amica che li benedica  
-prima che lascino la tua cura per terre non vedute;  
-e sia il tuo motto, fiero e sereno,  
-sempre, al passare degli anni, la parola ‘Progresso!’  
-XIV  
-Così abbiamo finito; non possiamo più indugiare;  
-questa è la fine d’ogni racconto: ‘Addio’,  
-una parola che echeggia come una campana funebre  
-e che siamo sempre restii a dire.  
-Ma è un richiamo cui non possiamo disobbedire,  
-Exeunt omnes, con un ultimo ‘addio’.
+   che siano tuttavia divini.
 
 
 
@@ -1534,16 +780,6 @@ The hedgerow bloomed with [[motifs/flowers|flowers]] still,
    But the wild roses in your wreath  
 Were faded, and the [[motifs/leaves|leaves]] were brown.  
 
-Before Morning  
-While all the East was weaving red with gray,  
-The [[motifs/flowers|flowers]] at the [[motifs/window|window]] turned toward [[motifs/dawn|dawn]],  
-Petal on petal, waiting for the day,  
-Fresh [[motifs/flowers|flowers]], withered [[motifs/flowers|flowers]], [[motifs/flowers|flowers]] of [[motifs/dawn|dawn]].  
-This morning’s [[motifs/flowers|flowers]] and [[motifs/flowers|flowers]] of yesterday  
-Their fragrance drifts across the room at [[motifs/dawn|dawn]],  
-Fragrance of bloom and fragrance of [[motifs/decay|decay]],  
-Fresh [[motifs/flowers|flowers]], withered [[motifs/flowers|flowers]], [[motifs/flowers|flowers]] of [[motifs/dawn|dawn]].  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1555,17 +791,7 @@ non avevano strappato nessuna tela di ragno tremante.
 La siepe fioriva ancora di [[motifs/flowers|fiori]],  
    nessun petalo appassito giaceva sotto;  
    ma le rose selvatiche nella tua ghirlanda  
-erano sfiorite, e le [[motifs/leaves|foglie]] erano brune.  
-
-Prima del mattino  
-Mentre tutto l’Oriente tesseva rosso con grigio,  
-i [[motifs/flowers|fiori]] alla [[motifs/window|finestra]] si volsero verso l’[[motifs/dawn|alba]],  
-petalo su petalo, aspettando il giorno,  
-[[motifs/flowers|fiori]] freschi, [[motifs/flowers|fiori]] appassiti, [[motifs/flowers|fiori]] dell’[[motifs/dawn|alba]].  
-I [[motifs/flowers|fiori]] di stamattina e i [[motifs/flowers|fiori]] di ieri  
-la loro fragranza vaga per la stanza all’[[motifs/dawn|alba]],  
-fragranza di fioritura e fragranza di [[motifs/decay|sfacelo]],  
-[[motifs/flowers|fiori]] freschi, [[motifs/flowers|fiori]] appassiti, [[motifs/flowers|fiori]] dell’[[motifs/dawn|alba]].
+erano sfiorite, e le [[motifs/leaves|foglie]] erano brune.
 
 
 
@@ -1582,22 +808,6 @@ Their fragrance drifts across the room at [[motifs/dawn|dawn]],
 Fragrance of bloom and fragrance of [[motifs/decay|decay]],  
 Fresh [[motifs/flowers|flowers]], withered [[motifs/flowers|flowers]], [[motifs/flowers|flowers]] of [[motifs/dawn|dawn]].  
 
-Circe’s Palace  
-Around her fountain which flows  
-With the voice of men in [[motifs/pain|pain]]‚  
-Are [[motifs/flowers|flowers]] that no man knows.  
-Their petals are fanged and red  
-With hideous streak and stain;  
-They sprang from the limbs of the dead. —  
-We shall not come here again.  
-Panthers rise from their lairs  
-In the forest which thickens below,  
-Along the [[motifs/garden|garden]] stairs  
-The sluggish python lies;  
-The peacocks walk, stately and slow,  
-And they look at us with the eyes  
-Of men whom we knew long ago.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1609,23 +819,7 @@ petalo su petalo, aspettando il giorno,
 I [[motifs/flowers|fiori]] di stamattina e i [[motifs/flowers|fiori]] di ieri  
 la loro fragranza vaga per la stanza all’[[motifs/dawn|alba]],  
 fragranza di fioritura e fragranza di [[motifs/decay|sfacelo]],  
-[[motifs/flowers|fiori]] freschi, [[motifs/flowers|fiori]] appassiti, [[motifs/flowers|fiori]] dell’[[motifs/dawn|alba]].  
-
-Il palazzo di Circe  
-Intorno alla sua fontana che scorre  
-con la voce d’uomini in [[motifs/pain|pena]],  
-stanno [[motifs/flowers|fiori]] che nessuno conosce.  
-I loro petali sono zannuti e rossi  
-di striature e macchie orrende;  
-sbocciarono dalle membra dei morti. —  
-Non torneremo qui un’altra volta.  
-Le pantere si levano dalle tane  
-nella foresta che s’infittisce là sotto,  
-lungo le scale del [[motifs/garden|giardino]]  
-giace il pitone pigro;  
-i pavoni camminano, solenni e lenti,  
-e ci guardano con gli occhi  
-di uomini che conoscemmo tanto tempo fa.
+[[motifs/flowers|fiori]] freschi, [[motifs/flowers|fiori]] appassiti, [[motifs/flowers|fiori]] dell’[[motifs/dawn|alba]].
 
 
 
@@ -1653,47 +847,6 @@ And only the years that efface and destroy
 What we owe for the future, the present, and past,  
     Fair Harvard, to thine and to thee.  
 
-The [[motifs/death|Death]] of Saint Narcissus  
-    Come under the [[archetypes/shadow|shadow]] of this gray rock —  
-Come in under the [[archetypes/shadow|shadow]] of this gray rock,  
-And I will show you something different from either  
-Your [[archetypes/shadow|shadow]] sprawling over the sand at daybreak, or  
-Your [[archetypes/shadow|shadow]] leaping behind the [[motifs/fire|fire]] against the red rock:  
-I will show you his bloody cloth and limbs  
-And the gray [[archetypes/shadow|shadow]] on his lips.  
-    He walked once between the sea and the high cliffs  
-When the [[motifs/wind|wind]] made him aware of his limbs smoothly passing each other  
-And of his arms crossed over his breast.  
-When he walked over the meadows  
-He was stifled and soothed by his own rhythm.  
-By the [[motifs/river|river]]  
-His eyes were aware of the pointed corners of his eyes  
-And his hands aware of the pointed tips of his fingers.  
-Struck down by such knowledge  
-He could not live men’s ways, but became a dancer before God  
-If he walked in [[motifs/city|city]] streets  
-He seemed to tread on faces, convulsive thighs and knees.  
-So he came out under the rock.  
-    First he was sure that he had been a tree,  
-Twisting its branches among each other  
-And tangling its roots among each other.  
-    Then he knew that he had been a fish  
-With slippery white belly held tight in his own fingers,  
-Writhing in his own clutch, his ancient [[concepts/beauty|beauty]]  
-Caught fast in the pink tips of his new [[concepts/beauty|beauty]].  
-    Then he had been a young girl  
-Caught in the woods by a drunken old man  
-Knowing at the end the taste of his own whiteness  
-The horror of his own smoothness,  
-And he felt drunken and old.  
-    So he became a dancer to God.  
-Because his flesh was in [[motifs/love|love]] with the burning arrows  
-He danced on the hot sand  
-Until the arrows came.  
-As he embraced them his white skin surrendered itself to the redness of [[motifs/blood|blood]], and satisfied him.  
-Now he is green, dry and stained  
-With the [[archetypes/shadow|shadow]] in his mouth.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1716,45 +869,4 @@ con tanto di Harvard che portiamo via con noi
 E solo gli anni che cancellano e distruggono  
     ci danno anche la vista per vedere  
 quel che dobbiamo per il futuro, il presente e il passato,  
-    bella Harvard, ai tuoi e a te.  
-
-La [[motifs/death|Morte]] di San Narciso  
-    Vieni sotto l’[[archetypes/shadow|ombra]] di questa roccia grigia —  
-vieni qui sotto l’[[archetypes/shadow|ombra]] di questa roccia grigia,  
-e io ti mostrerò qualcosa di diverso sia dalla  
-tua [[archetypes/shadow|ombra]] distesa sulla sabbia all’alba, sia dalla  
-tua [[archetypes/shadow|ombra]] che balza dietro il [[motifs/fire|fuoco]] contro la roccia rossa:  
-ti mostrerò la sua veste insanguinata e le sue membra  
-e la grigia [[archetypes/shadow|ombra]] sulle sue labbra.  
-    Camminò una volta fra il mare e le alte scogliere  
-quando il [[motifs/wind|vento]] gli fece avvertire le membra che si sfioravano lisce l’una all’altra  
-e le braccia incrociate sul petto.  
-Quando camminava per i prati  
-era soffocato e placato dal suo stesso ritmo.  
-Presso il [[motifs/river|fiume]]  
-i suoi occhi avvertivano gli angoli aguzzi dei suoi occhi  
-e le sue mani avvertivano le punte aguzze delle sue dita.  
-Abbattuto da tale conoscenza  
-non poté vivere alla maniera degli uomini, ma divenne un danzatore davanti a Dio  
-se camminava per le strade della [[motifs/city|città]]  
-gli pareva di calpestare volti, cosce e ginocchia convulse.  
-Così venne fuori sotto la roccia.  
-    Dapprima fu certo d’essere stato un albero,  
-che intreccia i suoi rami l’uno all’altro  
-e aggroviglia le sue radici l’una all’altra.  
-    Poi seppe d’essere stato un pesce  
-dal ventre bianco e sdrucciolevole stretto forte nelle sue stesse dita,  
-che si contorceva nella sua propria stretta, la sua antica [[concepts/beauty|bellezza]]  
-presa nelle punte rosee della sua nuova [[concepts/beauty|bellezza]].  
-    Poi era stato una fanciulla  
-sorpresa nei boschi da un vecchio ubriaco  
-conoscendo alla fine il sapore del proprio candore  
-l’orrore della propria levigatezza,  
-e si sentì ubriaco e vecchio.  
-    Così divenne un danzatore per Dio.  
-Poiché la sua carne [[motifs/love|amava]] le frecce ardenti  
-danzò sulla sabbia rovente  
-finché le frecce vennero.  
-Mentre le abbracciava la sua pelle bianca s’arrese al rosso del [[motifs/blood|sangue]], e ne fu appagato.  
-Ora è verde, secco e macchiato  
-con l’[[archetypes/shadow|ombra]] nella bocca.
+    bella Harvard, ai tuoi e a te.

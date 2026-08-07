@@ -1268,16 +1268,1264 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 | [[characters/clifford\|CLIFFORD]] | La fin couronne les oeuvres.<br>Alarms. They fight. York kills [[characters/clifford\|Clifford]] |
 | YORK | Thus war hath given thee peace, for thou art still.<br>Peace with his [[motifs/soul\|soul]], heaven, if it be thy will. Exit |
 | [[characters/richard\|RICHARD]] [[characters/duke-of-york\|DUKE OF YORK]] | (3 [[characters/henry-vi\|HENRY VI]]) |
-| THE | play printed in the 1623 Folio as The Third Part of Henry the Sixth, with the [[motifs/death\|Death]] of the [[characters/duke-of-york\|Duke of York]] was described on the title-page of its first, unauthoritative publication in 1595 as The True [[forms/tragedy\|Tragedy]] of [[characters/richard\|Richard]], [[characters/duke-of-york\|Duke of York]], and the [[motifs/death\|Death]] of Good [[archetypes/king\|King]] Henry the Sixth, with the whole Contention between the two houses Lancaster and York. It is clearly a continuation of The First Part of the Contention, taking up the story where that play had ended, with the aspirations of [[characters/richard\|Richard]], [[characters/duke-of-york\|Duke of York]] to the English throne, and was probably composed immediately afterwards.<br>The final scenes of The First Part of the Contention briefly introduce two of York’s sons, Edward (the eldest) and [[characters/richard\|Richard]] (already described as a ‘foul, indigested lump, \| As crooked in . . . manners as [in] shape’). They, along with their brothers [[characters/edmund\|Edmund]], Earl of Rutland, and George (later Duke of [[characters/clarence\|Clarence]]), figure more prominently in [[characters/richard\|Richard]] [[characters/duke-of-york\|Duke of York]]. The first scenes show York apparently fulfilling his [[concepts/ambition\|ambition]], as [[characters/henry-vi\|Henry VI]] weakly cedes his rights to the throne after his [[motifs/death\|death]]; but [[characters/queen-margaret\|Queen Margaret]] leads an army against York, and, when he is captured, personally taunts him with news of the murder of his youngest son, stabs York to [[motifs/death\|death]], and commands that his head be ‘set on York gates’. (This powerful scene includes the line ‘O tiger’s heart wrapped in a woman’s hide’, paraphrased by Robert Greene before September 1592, which establishes the upward limit of the play’s date.)<br>Though [[characters/richard\|Richard]] of York dies early in the action, the remainder of the play centres on his sons’ efforts (aided by Warwick’s politic schemings) to avenge his [[motifs/death\|death]] and to establish the dominance of Yorkists over Lancastrians. The balance of power shifts frequently, and the brothers’ alliance crumbles, but finally [[characters/queen-margaret\|Queen Margaret]], with her French allies, is defeated and captured, and [[characters/richard\|Richard]] of York’s surviving sons avenge their father’s [[motifs/death\|death]] by killing her son, Edward, before her eyes. [[characters/richard\|Richard]] of [[characters/gloucester\|Gloucester]] starts to clear his way to the throne by murdering ‘Good [[archetypes/king\|King]] Henry’ in the Tower, and the play ends with the new [[archetypes/king\|King]] [[characters/edward-iv\|Edward IV]] exulting in his ‘country’s peace and brothers’ loves’ while [[characters/richard\|Richard]] makes clear to the audience that Edward’s [[concepts/self\|self]]-confidence is ill-founded.<br>Though the play is loud and strife-ridden with war, power politics, and personal [[concepts/ambition\|ambition]], a concern with humane values emerges in the subtle and touching continuing portrayal of the quietist [[characters/henry-vi\|Henry VI]], a saintly [[archetypes/fool\|fool]] who meditates on the superiority of humble contentment to regal misery in an emblematic scene (2.5) that epitomizes the [[forms/tragedy\|tragedy]] of civil strife.<br>[[characters/richard\|Richard]] [[characters/duke-of-york\|Duke of York]], like The First Part of the Contention, draws extensively on English chronicle [[concepts/history\|history]]. Historically, the period of the action covers about sixteen years (1455 to 1471), but events are telescoped and rearranged; for instance, the opening scenes move rapidly from the Battle of St Albans (1445) to York’s [[motifs/death\|death]] (1460); the future [[characters/richard-iii\|Richard III]] was only three years old, and living abroad, at the [[motifs/time\|time]] of this opening battle in which he takes an active part; and [[characters/richard\|Richard]]’s murder of Henry owes more to legend than to fact. |
-| THE PERSONS OF THE | PLAY<br><br>Of the [[archetypes/king\|King]]’s Party |
-| PRINCE | EDWARD, their son<br>Duke of S0MERSET<br>[[characters/duke-of-exeter\|Duke of EXETER]]<br>[[characters/earl-of-northumberland\|Earl of NORTHUMBERLAND]]<br>Earl of WESTMORLAND<br>Lord [[characters/clifford\|CLIFFORD]]<br>Lord Stafford |
-| SOMERVILLE | Henry, young [[characters/earl-of-richmond\|Earl of Richmond]]<br>A SOLDIER who has killed his father<br>A HUNTSMAN who guards [[archetypes/king\|King]] Edward<br><br>The Divided House of Neville<br>[[characters/earl-of-warwick\|Earl of WARWICK]], first of York’s party, later of Lancaster’s<br>Marquis of MONTAGUE, his brother, of York’s party<br>Earl of [[settings/oxford\|OXFORD]], their brother-in-law, of Lancaster’s party<br>Lord [[characters/hastings\|HASTINGS]], their brother-in-law, of York’s party<br><br>Of the [[characters/duke-of-york\|Duke of York]]’s Party<br>[[characters/richard\|Richard]] Plantagenet, [[characters/duke-of-york\|Duke of YORK]]<br>EDWARD, Earl of March, his son, later [[characters/duke-of-york\|Duke of York]] and |
-| LADY | GRAY, a widow, later Edward’s wife and [[characters/queen\|queen]]<br>Earl RIVERS, her brother<br>GEORGE, Edward’s brother, later Duke OF [[characters/clarence\|CLARENCE]]<br>[[characters/richard\|RICHARD]], Edward’s brother, later [[characters/duke-of-gloucester\|Duke OF GLOUCESTER]]<br>Earl of RUTLAND, Edward’s brother<br>Rutland’s TUTOR, a chaplain |
-| SIR JOHN | Mortimer, York’s uncle<br>Sir Hugh Mortimer, his brother<br>Duke of NORFOLK<br>Sir William Stanley<br>Earl of Pembroke<br>Sir John MONTGOMERY<br>A NOBLEMAN<br>Two GAMEKEEPERS<br>Three WATCHMEN, who guard [[archetypes/king\|King]] Edward’s tent |
-| LIEUTENANT | of the Tower<br><br>The French |
-| LADY | BONA, his sister-in-law<br>Lord Bourbon, the French High Admiral<br><br>Others<br>A SOLDIER who has killed his son<br>Mayor of Coventry |
-| MAYOR | of York<br>Aldermen of York<br>Soldiers, messengers, and attendants |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+THE FIRST PART OF THE CONTENTION
+(2 [[characters/henry-vi|HENRY VI]])
+WHEN Shakespeare’s [[concepts/history|history]] plays were gathered together in the 1623 Folio, seven years after he died, they were printed in the order of their historical events, each with a title naming the [[archetypes/king|king]] in whose reign those events occurred. No one supposes that this is the order in which Shakespeare wrote them; and the Folio titles are demonstrably not, in all cases, those by which the plays were originally known. The three concerned with the reign of [[characters/henry-vi|Henry VI]] are listed in the Folio, simply and unappealingly, as the First, Second, and Third Parts of [[archetypes/king|King]] Henry the Sixth, and these are the names by which they have continued to be known. Versions of the Second and Third had appeared long before the Folio, in 1594 and 1595; their head titles read The First Part of the Contention of the two Famous Houses of York and Lancaster with the [[motifs/death|Death]] of the Good Duke Humphrey and The True [[forms/tragedy|Tragedy]] of [[characters/richard|Richard]], [[characters/duke-of-york|Duke of York]], and the Good [[archetypes/king|King]] Henry the Sixth. These are, presumably, full versions of the plays’ original titles, and we revert to them in preference to the Folio’s historical listing.
+A variety of internal evidence suggests that the Folio’s Part One was composed after The First Part of the Contention and [[characters/richard|Richard]], [[characters/duke-of-york|Duke of York]], so we depart from the Folio order, though a reader wishing to read the plays in their narrative sequence will read [[characters/henry-vi|Henry VI]], Part One before the other two plays. The dates of all three are uncertain, but Part One is alluded to in 1592, when it was probably new. The First Part of the Contention probably belongs to 1590-1.
+The play draws extensively on English chronicle [[concepts/history|history]] for its portrayal of the troubled state of England under [[characters/henry-vi|Henry VI]] (1421-71). It dramatizes the touchingly weak [[archetypes/king|King]]’s powerlessness against the machinations of his nobles, especially [[characters/richard|Richard]], [[characters/duke-of-york|Duke of York]], himself ambitious for the throne. [[characters/richard|Richard]] engineers the Kentish rebellion, led by [[characters/jack-cade|Jack Cade]], which provides some of the play’s liveliest episodes; and at the play’s end [[characters/richard|Richard]] seems poised to take the throne.
+Historical events of ten years (11445-55) are dramatized with comparative fidelity within a coherent structure that offers a wide variety of theatrical entertainment. Though the play employs old-fashioned conventions of language (particularly the recurrent classical references) and of dramaturgy (such as the horrors of severed heads), its bold characterization, its fundamentally serious but often ironically comic presentation of moral and political issues, the powerful rhetoric of its verse, and the vivid immediacy of its prose have proved highly effective in its rare modern revivals.
+THE PERSONS OF THE PLAY
+
+Of the [[archetypes/king|King]]’s Party
+[[archetypes/king|KING]] [[characters/henry-vi|HENRY VI]]
+[[characters/queen-margaret|QUEEN MARGARET]]
+William de la Pole, Marquis, later Duke, of SUFFOLK, the [[characters/queen|Queen]]’s [[archetypes/lover|lover]]
+Duke Humphrey of [[characters/gloucester|GLOUCESTER]], the Lord Protector, the [[archetypes/king|King]]’s uncle
+Dame [[characters/eleanor|Eleanor]] Cobham, the DUCHESS of [[characters/gloucester|Gloucester]]
+[[characters/cardinal-beaufort|CARDINAL BEAUFORT]], Bishop of Winchester, [[characters/gloucester|Gloucester]]’s uncle and the [[archetypes/king|King]]’s great-uncle
+[[characters/duke-of-buckingham|Duke of BUCKINGHAM]]
+Duke of SOMERSET
+Old Lord [[characters/clifford|CLIFFORD]]
+YOUNG [[characters/clifford|CLIFFORD]], his son
+Of the [[characters/duke-of-york|Duke of York]]’s Party
+[[characters/earl-of-salisbury|Earl of SALISBURY]]
+[[characters/earl-of-warwick|Earl of WARWICK]], his son
+The petitions and the combat
+Two or three PETITIONERS
+Thomas HORNER, an armourer
+PETER Thump, his man
+Three NEIGHBOURS, who drink to Horner
+Three PRENTICES, who drink to Peter
+The conjuration
+Margery Jordan, a [[characters/witch|WITCH]]
+Roger BOLINGBROKE, a conjurer
+ASNATH, a spirit
+The false miracle
+Simon SIMPCOX
+SIMPCOX’S WIFE
+The MAYOR of Saint Albans
+Aldermen of Saint Albans
+A BEADLE of Saint Albans
+Townsmen of Saint Albans
+[[characters/eleanor|Eleanor]]’s penance
+[[characters/gloucester|Gloucester]]’s SERVANTS
+Two SHERIFFS of [[settings/london|London]]
+Sir John STANLEY
+HERALD
+The murder of [[characters/gloucester|Gloucester]]
+Two MURDERERS
+COMMONS
+The murder of Suffolk
+CAPTAIN of a [[motifs/ship|ship]]
+MASTER of that [[motifs/ship|ship]]
+The Master’s MATE
+Walter WHITMORE
+Two GENTLEMEN
+The Cade Rebellion
+[[characters/jack-cade|Jack CADE]], a Kentishman suborned by the [[characters/duke-of-york|Duke of York]]
+Three or four CITIZENS of [[settings/london|London]]
+Alexander IDEN, an esquire of [[characters/kent|Kent]], who kills Cade
+Others
+VAUX, a messenger
+APOST
+MESSENGERS
+A SOLDIER
+Attendants, guards, servants, soldiers, falconers
+
+The First Part of the Contention of the Two Famous Houses of York and Lancaster
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squillo di trombe, poi oboi. Entrano, da una porta, [[archetypes/king\|re]] Enrico e Humphrey [[characters/duke-of-gloucester\|duca di Gloucester]], il duca di Somerset, il [[characters/duke-of-buckingham\|duca di Buckingham]], [[characters/cardinal-beaufort\|il cardinale Beaufort]],e altri. Entrano, dall'altra porta, il [[characters/duke-of-york\|duca di York]], e il marchese di Suffolk, e [[characters/queen-margaret\|Margherita]], e i conti di Salisbury e Warwick |
+| SUFFOLK | (inginocchiandosi davanti a [[archetypes/king\|re]] Enrico)<br>Come per ordine della vostra alta maestà imperiale<br>ebbi incarico al mio partire per la Francia,<br>quale procuratore di vostra eccellenza,<br>di sposare la principessa Margherita per vostra grazia,<br>così, nell'antica e famosa [[motifs/city\|città]] di Tours,<br>alla presenza dei re di Francia e di Sicilia,<br>dei duchi d'Orléans, di Calabria, di Bretagna e d'Alençon,<br>di sette conti, dodici baroni e venti reverendi<br>vescovi,<br>ho compiuto il mio ufficio e fui sposato,<br>e ora umilmente, sul ginocchio piegato,<br>al cospetto d'Inghilterra e dei suoi nobili pari,<br>rimetto il mio titolo sulla [[characters/queen\|regina]]<br>nelle vostre graziosissime mani, che sono la sostanza<br>di quella grande [[archetypes/shadow\|ombra]] ch'io rappresentai—<br>il più felice dono che marchese mai porgesse,<br>la più bella [[characters/queen\|regina]] che [[archetypes/king\|re]] mai ricevesse. |
+| [[archetypes/king\|RE]] ENRICO | Suffolk, alzatevi. Benvenuta, [[characters/queen-margaret\|Margherita]].<br>Non so mostrare segno d'[[motifs/love\|amore]] più gentile<br>di questo gentile bacio.<br>La bacia<br>O Signore che mi presti la vita,<br>prestami un cuore ricolmo di gratitudine!<br>Poiché in questo bel volto tu m'hai donato<br>un mondo di terrene benedizioni all'[[motifs/soul\|anima]] mia,<br>se armonia d'[[motifs/love\|amore]] unirà i nostri pensieri. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | L'eccesso d'[[motifs/love\|amore]] ch'io porto a vostra grazia<br>mi vieta d'esser prodiga di lingua,<br>ché non dica più di quanto a donna s'addice.<br>Basti questo: la mia gioia sta nel vostro gradimento,<br>e nulla può render misera la povera Margherita<br>se non il cipiglio del possente [[archetypes/king\|re]] d'Inghilterra. |
+| [[archetypes/king\|RE]] ENRICO | La sua vista rapiva, ma la grazia del suo dire,<br>le sue parole ammantate della maestà del senno,<br>mi fanno passare dallo stupore a gioie di lacrime,<br>tanta è la pienezza del contento del mio cuore.<br>Signori, con una sola lieta voce, salutate il mio [[motifs/love\|amore]]. |
+| SIGNORI | (inginocchiandosi)<br>Lunga vita a [[characters/queen-margaret\|Margherita]], felicità d'Inghilterra. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Vi ringraziamo tutti. |
+| *(didascalia)* | Squillo. Tutti si alzano |
+| SUFFOLK | (a [[characters/gloucester\|Gloucester]])<br>Mio lord Protettore, se piace a vostra grazia,<br>ecco gli articoli della pace conclusa<br>fra il nostro sovrano e Carlo, [[archetypes/king\|re]] di Francia,<br>per diciotto mesi stipulata di comune consenso. |
+| [[characters/gloucester\|GLOUCESTER]] | (legge) Imprimis: è convenuto fra Carlo, [[archetypes/king\|re]] di Francia, e William de la Pole, marchese di Suffolk, ambasciatore di Enrico, [[archetypes/king\|re]] d'Inghilterra, che il detto Enrico sposerà la signora Margherita, figlia di Renato, [[archetypes/king\|re]] di Napoli, di Sicilia e di Gerusalemme, e la [[motifs/crown\|incoronerà]] [[characters/queen\|regina]] d'Inghilterra prima del trenta di maggio prossimo venturo.<br>Item: è inoltre convenuto fra loro che il ducato d'Angiò e la contea del Maine saranno ceduti e consegnati al [[archetypes/king\|re]] suo pa— |
+| *(didascalia)* | [[characters/gloucester\|Gloucester]] lascia cadere il foglio |
+| [[archetypes/king\|RE]] ENRICO | Zio, che avviene? |
+| [[characters/gloucester\|GLOUCESTER]] | Perdonatemi, grazioso signore.<br>Un súbito malore m'ha colpito al cuore<br>e m'ha offuscato gli occhi, sì ch'io non posso leggere oltre. |
+| [[archetypes/king\|RE]] ENRICO | (al [[characters/cardinal-beaufort\|cardinale Beaufort]])<br>Zio di Winchester, vi prego, leggete voi. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (legge) Item: è inoltre convenuto fra loro che il ducato d'Angiò e la contea del Maine saranno ceduti e consegnati al [[archetypes/king\|re]] suo padre, ed ella sarà mandata oltremare a spese e a carico del [[archetypes/king\|re]] d'Inghilterra medesimo, senza dote. |
+| [[archetypes/king\|RE]] ENRICO | Ne siamo [[motifs/well\|ben]] soddisfatti. (A Suffolk) Lord marchese, inginocchiatevi.<br>Suffolk s'inginocchia<br>Qui ti creiamo primo [[characters/duke-of-suffolk\|duca di Suffolk]],<br>e ti cingiamo con la spada.<br>Suffolk si alza<br>Cugino di York,<br>qui sciogliamo vostra grazia dall'ufficio di reggente<br>nelle terre di Francia, finché il termine di diciotto mesi<br>non sia interamente scaduto. Grazie, zio Winchester,<br>[[characters/gloucester\|Gloucester]], York e [[characters/buckingham\|Buckingham]], Somerset,<br>Salisbury e Warwick.<br>Vi ringraziamo tutti di questo gran favore reso<br>nell'accoglienza della mia regale [[characters/queen\|regina]].<br>Venite, entriamo, e con ogni [[characters/speed\|prestezza]] disponiamo<br>che la sua incoronazione sia celebrata. |
+| *(didascalia)* | Escono [[archetypes/king\|re]] Enrico, [[characters/queen-margaret\|Margherita]] e |
+| *(didascalia)* | Suffolk. [[characters/gloucester\|Gloucester]] trattiene tutti gli altri |
+| [[characters/gloucester\|GLOUCESTER]] | Valorosi pari d'Inghilterra, colonne dello stato,<br>a voi il duca Humphrey deve scaricare il suo dolore,<br>il vostro dolore, il comune dolore di tutta la terra.<br>Che? Mio fratello Enrico spese la sua giovinezza,<br>il suo valore, l'oro e i suoi uomini nelle guerre?<br>Tante volte s'accampò in campo aperto<br>nel freddo dell'[[motifs/winter\|inverno]] e nell'arso calore dell'[[motifs/summer\|estate]]<br>per conquistare la Francia, sua vera eredità?<br>E mio fratello Bedford affaticò il suo ingegno<br>per tenere con l'accortezza ciò che Enrico prese?<br>E voi stessi, Somerset, [[characters/buckingham\|Buckingham]],<br>valoroso York, Salisbury e vittorioso Warwick,<br>riceveste profonde ferite in Francia e in Normandia?<br>O mio zio Beaufort ed io medesimo,<br>con tutto il dotto Consiglio del regno,<br>studiammo così lungamente, sedemmo nella Casa del Consiglio<br>di primo mattino e a tarda sera, discutendo in ogni senso,<br>come tenere in soggezione la Francia e i Francesi,<br>e facemmo sì che sua altezza, nella sua infanzia,<br>fosse incoronato a [[settings/paris\|Parigi]] a dispetto dei nemici?<br>E dovranno morire queste fatiche e questi onori?<br>Morranno la conquista d'Enrico, la vigilanza di Bedford,<br>le vostre gesta di guerra e tutto il nostro consiglio?<br>O pari d'Inghilterra, vergognosa è questa lega,<br>fatale questo [[motifs/marriage\|matrimonio]], che cancella la vostra fama,<br>che cassa i vostri nomi dai libri della [[motifs/memory\|memoria]],<br>che rade i caratteri del vostro rinome,<br>che deturpa i monumenti della Francia conquistata,<br>che disfà tutto, come se tutto mai fosse stato! |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Nipote, che vuol dire questo appassionato discorso,<br>questa perorazione con tanto apparato?<br>Quanto alla Francia, è nostra; e la terremo ancora. |
+| [[characters/gloucester\|GLOUCESTER]] | Sì, zio, la terremo se potremo—<br>ma ora è impossibile che ciò sia.<br>Suffolk, il duca appena fatto che fa da padrone,<br>ha dato il ducato d'Angiò e il Maine<br>al povero [[archetypes/king\|re]] Renato, il cui gran titolo<br>non s'accorda con la magrezza della sua borsa. |
+| SALISBURY | Ora, per la [[motifs/death\|morte]] di Colui che morì per tutti,<br>queste contee erano le chiavi della Normandia—<br>ma perché piange Warwick, il mio valoroso figlio? |
+| WARWICK | Per il dolore che non si possono più riavere.<br>Ché, se vi fosse [[concepts/hope\|speranza]] di riconquistarle,<br>la mia spada verserebbe caldo [[motifs/blood\|sangue]], i miei occhi non [[motifs/tears\|lacrime]].<br>Angiò e Maine? Io stesso li conquistai entrambi!<br>Quelle province queste mie braccia conquistarono—<br>e le città che ottenni con le ferite<br>son rese di nuovo con parole di pace?<br>Mort Dieu! |
+| YORK | Quanto al duca di Suffolk, ch'egli sia soffocato,<br>lui che offusca l'[[concepts/honour\|onore]] di quest'isola guerriera!<br>La Francia m'avrebbe lacerato e squarciato il cuore<br>prima ch'io avessi ceduto a questa lega.<br>Non ho mai letto se non che i re d'Inghilterra ebbero<br>grandi somme d'oro e doti con le loro spose—<br>e il nostro [[archetypes/king\|re]] Enrico dona ciò ch'è suo,<br>per unirsi a colei che non porta vantaggi. |
+| [[characters/gloucester\|GLOUCESTER]] | Bella beffa, e mai udita prima,<br>che Suffolk pretenda un intero quindicesimo<br>per spese e oneri del trasportarla!<br>Ella doveva restare in Francia e patir la fame in<br>Francia<br>prima— |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Mio signore di [[characters/gloucester\|Gloucester]], ora vi scaldate troppo!<br>Fu il piacere del mio signore il [[archetypes/king\|re]]. |
+| [[characters/gloucester\|GLOUCESTER]] | Mio signore di Winchester, conosco il vostro animo.<br>Non sono i miei discorsi che vi dispiacciono,<br>ma è la mia presenza che vi turba.<br>Il rancore vien fuori. Prelato superbo, nel tuo volto<br>vedo il tuo furore. Se resto più a lungo<br>ricominceremo le nostre antiche baruffe—<br>ma me ne andrò, e ti lascerò libero di parlare.<br>Signori, addio, e dite, quando sarò partito,<br>ch'io profetai: la Francia sarà perduta fra non molto. Esce |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Ecco, se ne va il nostro Protettore in collera.<br>Vi è noto ch'egli è mio nemico;<br>anzi di più, nemico di voi tutti,<br>e non grande amico, [[concepts/fear\|temo]], del [[archetypes/king\|re]].<br>Considerate, signori, egli è il più prossimo di [[motifs/blood\|sangue]]<br>ed erede presuntivo della [[motifs/crown\|corona]] d'Inghilterra.<br>Se Enrico avesse ottenuto un impero col suo [[motifs/marriage\|matrimonio]],<br>e tutti i ricchi regni d'occidente,<br>v'è ragione ch'egli ne fosse malcontento.<br>Badateci, signori—non lasciate che le sue parole lusinghiere<br>v'incantino i cuori. Siate saggi e circospetti.<br>Che importa se il popolo comune lo favorisce,<br>chiamandolo ‘Humphrey, il buon [[characters/duke-of-gloucester\|duca di Gloucester]]‘,<br>battendo le mani e gridando ad alta voce<br>’‘Gesù sostenga la vostra regale eccellenza !’<br>con ’Dio conservi il buon duca Humphrey !’<br>[[concepts/fear\|Temo]], signori, che per tutta questa lusinghiera vernice,<br>egli si troverà un Protettore pericoloso. |
+| [[characters/buckingham\|BUCKINGHAM]] | Perché dunque dovrebbe proteggere il nostro sovrano,<br>essendo egli in età di governare da sé?<br>Cugino di Somerset, unitevi a me,<br>e tutti insieme, col [[characters/duke-of-suffolk\|duca di Suffolk]],<br>presto solleveremo il duca Humphrey dal suo seggio. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Questo grave affare non tollera indugio—<br>andrò subito dal [[characters/duke-of-suffolk\|duca di Suffolk]]. Esce |
+| SOMERSET | Cugino di [[characters/buckingham\|Buckingham]], sebbene la [[concepts/pride\|superbia]] di Humphrey<br>e la [[concepts/greatness\|grandezza]] del suo ufficio ci siano di dolore,<br>pur vigiliamo sull'altero Cardinale;<br>la sua insolenza è più intollerabile<br>di quella di tutti gli altri principi del paese.<br>Se [[characters/gloucester\|Gloucester]] sarà rimosso, egli sarà Protettore. |
+| [[characters/buckingham\|BUCKINGHAM]] | O tu o io, Somerset, saremo Protettore,<br>a dispetto del duca Humphrey o del Cardinale. |
+| *(didascalia)* | Escono [[characters/buckingham\|Buckingham]] e Somerset |
+| SALISBURY | La [[concepts/pride\|superbia]] andò innanzi, l'[[concepts/ambition\|ambizione]] le vien dietro.<br>Mentre costoro s'adoprano per il proprio avanzamento,<br>conviene a noi adoprarci per il regno.<br>Mai vidi che Humphrey, [[characters/duke-of-gloucester\|duca di Gloucester]],<br>non si portasse come nobile gentiluomo.<br>Spesso ho veduto l'altero Cardinale,<br>più simile a un soldato che a un uomo di chiesa,<br>tanto baldo e superbo come fosse signore di tutto,<br>bestemmiare come un ribaldo, e comportarsi<br>diversamente da chi governa uno stato.<br>Warwick, figlio mio, conforto della mia vecchiaia,<br>le tue gesta, la tua schiettezza e la tua liberalità<br>t'han guadagnato il maggior favore del popolo,<br>eccettuato nessuno se non il buon duca Humphrey.<br>E, fratello York, le tue imprese in Irlanda,<br>nel ridurli a civile disciplina,<br>le tue recenti prove compiute nel cuore di Francia,<br>quando eri Reggente per il nostro sovrano,<br>t'han fatto temere e onorare dal popolo.<br>La riverenza dei miei anni e il nome dei Neville<br>non ha poca forza, se io comando.<br>Uniamoci insieme per il bene pubblico,<br>in quanto possiamo, a frenare e sopprimere<br>la [[concepts/pride\|superbia]] di Suffolk e del Cardinale<br>con l'[[concepts/ambition\|ambizione]] di Somerset e di [[characters/buckingham\|Buckingham]];<br>e, come possiamo, favorire le opere del duca Humphrey<br>finché tendano al profitto del paese. |
+| WARWICK | Così Dio aiuti Warwick, com'egli ama questa terra<br>e il comune profitto del suo paese! |
+| YORK | E così dice York, (a parte) ché ne ha la maggior ragione. |
+| SALISBURY | Andiamo dunque, e badiamo al principale. |
+| WARWICK | Al principale? Oh, padre, il Maine è perduto !<br>Quel Maine che con forza maggiore Warwick conquistò,<br>e avrebbe tenuto fin che il fiato durasse!<br>La sorte principale, padre, voi intendevate—ma io intendevo il Maine,<br>che riprenderò alla Francia, o sarò ucciso. |
+| *(didascalia)* | Escono Warwick e Salisbury, lasciando solo York |
+| YORK | Angiò e Maine sono dati ai Francesi,<br>[[settings/paris\|Parigi]] è perduta, lo stato di Normandia<br>sta su un punto instabile ora che son perduti;<br>Suffolk concluse gli articoli,<br>i pari acconsentirono, ed Enrico fu [[motifs/well\|ben]] contento<br>di cambiare due ducati per la bella figlia d'un duca.<br>Non posso biasimarli tutti—che importa loro?<br>È il tuo che donano, e non il loro!<br>I pirati posson far vil mercato del loro saccheggio,<br>e comprarsi amici, e donare a cortigiane,<br>gozzovigliando come signori finché tutto sia andato,<br>mentre il povero padrone dei beni<br>piange su di essi, e torce le mani infelici,<br>e scuote il capo, e, tremando, se ne sta in disparte,<br>mentre tutto è spartito e tutto è portato via,<br>pronto a morir di fame e non osa toccare ciò ch'è suo.<br>Così York deve sedere e rodersi e mordersi la lingua,<br>mentre le sue proprie terre son contrattate e vendute.<br>Mi pare che i regni d'Inghilterra, di Francia e d'Irlanda<br>stiano alla mia carne e al mio [[motifs/blood\|sangue]] in quella proporzione<br>in cui stette il tizzone fatale che Altea arse<br>al cuore del principe di Calidone.<br>Angiò e Maine entrambi dati ai Francesi !<br>Fredda novella per me—ché avevo [[concepts/hope\|speranza]] di Francia,<br>come l'ho del fertile suolo d'Inghilterra.<br>Verrà un giorno in cui York rivendicherà ciò ch'è suo,<br>e perciò prenderò le parti dei Neville,<br>e farò mostra d'[[motifs/love\|amore]] al superbo duca Humphrey,<br>e, quando scorgerò il vantaggio, rivendicherò la [[motifs/crown\|corona]],<br>ché quello è il segno d'oro ch'io cerco di colpire.<br>Né il superbo Lancaster usurperà il mio diritto,<br>né terrà lo scettro nel suo pugno fanciullesco,<br>né porterà il diadema sul capo<br>lui, i cui umori da chierico non convengono a una [[motifs/crown\|corona]].<br>Dunque, York, sta' quieto un poco, finché il [[motifs/time\|tempo]] non serva.<br>Veglia tu, e sta' desto quando gli altri dormono,<br>per spiare i [[motifs/secrets\|segreti]] dello stato—<br>finché Enrico, sazio nelle gioie dell'[[motifs/love\|amore]]<br>con la nuova sposa e la [[characters/queen\|regina]] d'Inghilterra pagata a caro prezzo,<br>e Humphrey coi pari, sian venuti a discordia.<br>Allora leverò in alto la [[motifs/rose\|rosa]] bianca come latte,<br>del cui dolce odore l'aria sarà profumata,<br>e nel mio stendardo porterò le armi di York,<br>per venire alle prese con la casa di Lancaster;<br>e per forza a forza gli farò cedere la [[motifs/crown\|corona]],<br>lui, il cui governo da libri ha abbattuto la bella Inghilterra. |
+| *(didascalia)* | Esce |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il duca Humphrey di [[characters/gloucester\|Gloucester]] e sua moglie [[characters/eleanor\|Eleonora]], la Duchessa |
+| DUCHESSA | Perché s'affloscia il mio signore, come grano troppo maturo<br>che china il capo sotto il ricco carico di Cerere?<br>Perché il grande duca Humphrey corruga le ciglia,<br>come accigliandosi ai favori del mondo ?<br>Perché i tuoi occhi son fissi alla terra scura,<br>contemplando ciò che sembra offuscarti la vista?<br>Che vedi là? Il diadema di [[archetypes/king\|re]] Enrico,<br>incastonato con tutti gli onori del mondo?<br>Se è così, guarda ancora, e striscia col volto a terra<br>finché il tuo capo ne sia cerchiato.<br>Stendi la mano, afferra quel glorioso oro.<br>Che? È troppo corta? La allungherò con la mia;<br>e, sollevatolo insieme tutti e due,<br>alzeremo insieme il capo al cielo<br>e mai più abbasseremo lo sguardo tanto in basso<br>da concedere un solo sguardo al suolo. |
+| [[characters/gloucester\|GLOUCESTER]] | O Nell, dolce Nell, se tu [[motifs/love\|ami]] il tuo signore,<br>bandisci il tarlo dei pensieri ambiziosi!<br>E sia quell'ora in cui io mediti il male<br>contro il mio [[archetypes/king\|re]] e nipote, il virtuoso Enrico,<br>l'ultimo mio respiro in questo mondo mortale! !<br>Il mio sogno turbato di questa [[motifs/night\|notte]] mi fa triste. |
+| DUCHESSA | Che sognò il mio signore? Dimmelo, e te lo ricambierò<br>col dolce racconto del mio sogno del mattino. |
+| [[characters/gloucester\|GLOUCESTER]] | Mi parve che questo bastone, insegna del mio ufficio a [[settings/court\|corte]],<br>fosse rotto in due—da chi, l'ho dimenticato,<br>ma, come credo, fu dal Cardinale—<br>e sui pezzi della verga rotta<br>erano poste le teste d'[[characters/edmund\|Edmondo]], duca di Somerset,<br>e di William de la Pole, primo [[characters/duke-of-suffolk\|duca di Suffolk]].<br>Questo fu il mio sogno—che cosa presagisca, Dio lo sa. |
+| DUCHESSA | Bah, questo non fu altro che un segno<br>che chi rompe un ramo del bosco di [[characters/gloucester\|Gloucester]]<br>perderà il capo per la sua presunzione.<br>Ma ascolta me, mio Humphrey, mio dolce duca:<br>mi parve di sedere nel seggio della maestà<br>nella chiesa [[settings/cathedral\|cattedrale]] di Westminster,<br>e in quella sede dove i re e le regine sono<br>incoronati,<br>dove Enrico e madama Margherita s'inginocchiarono a me,<br>e sul mio capo posero il diadema. |
+| [[characters/gloucester\|GLOUCESTER]] | No, [[characters/eleanor\|Eleonora]], allora devo rimproverarti aperto.<br>Donna presuntuosa! Mal educata [[characters/eleanor\|Eleonora]]!<br>Non sei tu la seconda donna del regno,<br>e la moglie del Protettore, da lui amata ?<br>Non hai a comando i piaceri del mondo<br>oltre la portata e il giro del tuo pensiero?<br>E vorrai ancora fucinare tradimenti<br>per far ruzzolare tuo marito e te stessa<br>dalla cima dell'[[concepts/honour\|onore]] ai piedi del disonore?<br>Via da me, e ch'io non senta altro! |
+| DUCHESSA | Come, come, mio signore? Siete tanto collerico<br>con [[characters/eleanor\|Eleonora]] solo perché ha detto il suo sogno?<br>La prossima [[motifs/time\|volta]] terrò i miei [[motifs/dreams\|sogni]] per me<br>e non sarò ripresa. |
+| [[characters/gloucester\|GLOUCESTER]] | No, non ti adirare; son di nuovo contento. Entra un messaggero |
+| MESSAGGERO | Mio lord Protettore, è piacere di sua altezza<br>che vi apprestiate a cavalcare verso Saint Albans,<br>dove il [[archetypes/king\|re]] e la [[characters/queen\|regina]] intendono cacciare col falcone. |
+| [[characters/gloucester\|GLOUCESTER]] | Vado. Vieni, Nell, cavalcherai con noi ? |
+| DUCHESSA | Sì, mio buon signore, vi seguirò subito. |
+| *(didascalia)* | Escono [[characters/gloucester\|Gloucester]] e il messaggero |
+| DUCHESSA | Seguire devo; non posso andare innanzi<br>mentre [[characters/gloucester\|Gloucester]] porta quest'animo basso e umile.<br>Fossi io un uomo, un duca, e il più prossimo di [[motifs/blood\|sangue]],<br>rimuoverei questi tediosi ostacoli<br>e appianerei la mia via sui loro colli senza capo.<br>E, pur essendo donna, non sarò lenta<br>a recitare la mia parte nella mostra della fortuna.<br>(Chiamando verso l'interno) Dove siete voi là? Sir John! No,<br>non [[concepts/fear\|temere]], uomo.<br>Siamo soli. Qui non c'è nessuno se non te e me. |
+| *(didascalia)* | Entra Sir John Hume |
+| HUME | Gesù conservi la vostra regale maestà. |
+| DUCHESSA | Che dici tu? ‘Maestà’ ? Io non sono che ‘grazia’. |
+| HUME | Ma per la grazia di Dio e il consiglio di Hume<br>il titolo di vostra grazia sarà moltiplicato. |
+| DUCHESSA | Che dici, uomo? Hai già conferito<br>con Margery Jordan, l'astuta [[characters/witch\|strega]] di Eye,<br>con Roger Bolingbroke, il negromante?<br>E s'impegneranno a farmi del bene? |
+| HUME | Questo hanno promesso: mostrare a vostra altezza<br>uno spirito evocato dal fondo del sottoterra<br>che darà risposta a quelle domande<br>che da vostra Grazia gli saranno proposte. |
+| DUCHESSA | Basta così. Penserò alle domande.<br>Quando da Saint Albans faremo ritorno,<br>vedremo queste cose compiute appieno.<br>Ecco, Hume (dandogli del denaro), prendi questa mercede.<br>Fai festa, uomo,<br>coi tuoi complici in questa grave impresa. |
+| *(didascalia)* | Esce |
+| HUME | Hume deve far festa con l'oro della Duchessa;<br>per la Vergine, e lo farà. Ma come va, Sir John Hume?<br>Sigilla le labbra, e non dar parola che zitto ;<br>l'affare chiede tacito segreto.<br>Madama [[characters/eleanor\|Eleonora]] dà oro per far venire la [[characters/witch\|strega]].<br>L'oro non può venir male, fosse ella un diavolo.<br>Pure ho oro che vola da un'altra costa—<br>non oso dire dal ricco Cardinale<br>e dal grande e appena fatto [[characters/duke-of-suffolk\|duca di Suffolk]],<br>pure lo trovo così; ché, a dirla schietta,<br>essi, conoscendo l'ambizioso umore di madama [[characters/eleanor\|Eleonora]],<br>m'han pagato per minare la Duchessa,<br>e ronzarle nel cervello queste evocazioni.<br>Dicono ‘Un furbo furfante non ha bisogno di mezzano’,<br>pure io sono il mezzano di Suffolk e del Cardinale.<br>Hume, se non badi, andrai vicino<br>a chiamarli entrambi una coppia di furbi furfanti.<br>[[motifs/well\|Bene]], così sta; e così, [[concepts/fear\|temo]], alla fine<br>la furfanteria di Hume sarà la rovina della Duchessa,<br>e la sua condanna sarà la caduta di Humphrey.<br>Vada come vuole, avrò oro per tutto. |
+| *(didascalia)* | Esce |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Peter, il garzone dell'armaiolo, con due o tre altri Postulanti |
+| PRIMO POSTULANTE | Padroni miei, stiamo appartati. Il mio lord Protettore passerà da questa parte fra poco, e allora potremo consegnare le nostre suppliche tutte insieme. |
+| SECONDO POSTULANTE | Per la Vergine, il Signore lo protegga, ché è un buon uomo, Gesù lo benedica. |
+| *(didascalia)* | Entrano il [[characters/duke-of-suffolk\|duca di Suffolk]] e [[characters/queen-margaret\|Margherita]] |
+| *(didascalia)* | PRIMO POSTULANTE Ecco che viene, mi pare, e la [[characters/queen\|regina]] con lui. Sarò il primo, di sicuro. |
+| SECONDO POSTULANTE | Va incontro a Suffolk e alla [[characters/queen\|regina]] |
+| SECONDO POSTULANTE | Torna indietro, stolto—questi è il [[characters/duke-of-suffolk\|duca di Suffolk]] e non il mio lord Protettore. |
+| SUFFOLK | (al primo postulante) Ebbene, amico—vuoi qualcosa da me? |
+| PRIMO POSTULANTE | Vi prego, mio signore, perdonatemi—vi presi per il mio lord Protettore. |
+| *(didascalia)* | [[characters/queen-margaret\|REGINA MARGHERITA]] vedendo la sua supplica, legge ‘Almio lord Protettore’—sono le vostre suppliche a sua signoria ? Fatemele vedere. |
+| *(didascalia)* | Prende la supplica del primo postulante |
+| PRIMO POSTULANTE | Qual è la tua? |
+| PRIMO POSTULANTE | La mia è, se piace a vostra grazia, contro John Goodman, l'uomo del mio lord Cardinale, per tenermi lontani la mia casa e le terre e la moglie e tutto. |
+| *(didascalia)* | SUFFOLK Anche tua moglie ? Questo è davvero un torto. Ai Secondi Postulanti Qual è la vostra? |
+| PRIMO POSTULANTE | Prende la supplica<br>Che c'è qui? (Legge) ‘Contro il [[characters/duke-of-suffolk\|duca di Suffolk]] per |
+| *(didascalia)* | aver recintato i beni comuni di Melford’ ! Al Secondo |
+| *(didascalia)* | Postulante Ebbene, ser Furfante? |
+| SECONDO POSTULANTE | Ahimè, signore, non sono che un povero postulante di tutta la nostra comunità. |
+| *(didascalia)* | PETER porgendo la sua petizione Contro il mio padrone, Thomas Horner, per aver detto che il [[characters/duke-of-york\|duca di York]] era legittimo erede della [[motifs/crown\|corona]]. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Che dici tu? Il [[characters/duke-of-york\|duca di York]] disse d'essere legittimo erede della [[motifs/crown\|corona]]? |
+| PETER | Che il mio padrone lo fosse ? No, in verità, il mio padrone disse che lo era lui e che il [[archetypes/king\|re]] era un usuraio. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Un [[archetypes/usurper\|usurpatore]] volevi dire. |
+| PETER | Sì, in verità—un [[archetypes/usurper\|usurpatore]]. |
+| SUFFOLK | (chiamando verso l'interno) Chi è là? |
+| *(didascalia)* | Entra un servo |
+| SUFFOLK | Portate dentro costui e mandate subito un messo per il suo padrone. (A Peter) Sentiremo di più della tua causa davanti al [[archetypes/king\|re]]. Esce il servo con Peter |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | (ai postulanti)<br>E quanto a voi che [[motifs/love\|amate]] esser protetti<br>sotto le ali della grazia del nostro Protettore,<br>ricominciate da capo le vostre istanze e rivolgetevi a lui. |
+| *(didascalia)* | [[motifs/tears\|Straccia]] la supplica |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Via, vili canaglie! Suffolk, lasciali andare. |
+| TUTTI I POSTULANTI | Venite, andiamocene. Escono i postulanti |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Mio signore di Suffolk, dite, è questa la foggia?<br>Sono questi i costumi della [[settings/court\|corte]] d'Inghilterra ?<br>È questo il governo dell'isola di Britannia,<br>e questa la regalità del [[archetypes/king\|re]] d'Albione?<br>Che? [[archetypes/king\|Re]] Enrico sarà ancora un pupillo<br>sotto il governo del burbero [[characters/gloucester\|Gloucester]]?<br>Sono io [[characters/queen\|regina]] di titolo e di nome,<br>e devo esser fatta suddita d'un duca?<br>Ti dico, Pole, quando nella [[motifs/city\|città]] di Tours<br>tu corresti in giostra in [[concepts/honour\|onore]] del mio [[motifs/love\|amore]]<br>e rubasti i cuori delle dame di Francia,<br>io pensai che [[archetypes/king\|re]] Enrico ti somigliasse<br>in [[concepts/courage\|coraggio]], in cortesia e in portamento.<br>Ma tutta la sua mente è volta alla santità,<br>a contare Ave Marie sui suoi rosari.<br>I suoi campioni sono i profeti e gli apostoli,<br>le sue armi le sante sentenze della sacra scrittura,<br>il suo studio è il suo campo di giostra, e i suoi amori<br>sono immagini di bronzo di santi canonizzati.<br>Vorrei che il collegio dei cardinali<br>lo eleggesse Papa, e lo portasse a Roma,<br>e gli ponesse la triplice [[motifs/crown\|corona]] sul capo—<br>quello sarebbe uno stato degno della sua santità. |
+| SUFFOLK | Madama, siate paziente—come io fui causa<br>che vostra altezza venisse in Inghilterra, così<br>in Inghilterra procurerò il pieno contento di vostra grazia. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Oltre l'altezzoso Protettore abbiamo Beaufort,<br>l'imperioso uomo di chiesa, Somerset, [[characters/buckingham\|Buckingham]],<br>e il brontolone York; e non v'è il minimo di questi<br>che non possa più in Inghilterra del [[archetypes/king\|re]]. |
+| SUFFOLK | E quello di costoro che può più di tutti<br>non può in Inghilterra più dei Neville:<br>Salisbury e Warwick non sono pari da poco. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Tutti questi signori non m'irritano la metà<br>di quella superba donna, la moglie del lord Protettore.<br>Ella spazza la [[settings/court\|corte]] con schiere di dame,<br>più da imperatrice che da moglie del duca Humphrey.<br>Gli stranieri a [[settings/court\|corte]] la prendono per la [[characters/queen\|regina]].<br>Porta sul dorso le rendite d'un ducato,<br>e in cuore disprezza la nostra [[concepts/poverty\|povertà]].<br>Non vivrò io per vendicarmi di lei?<br>Sprezzante sgualdrina di bassa nascita com'è,<br>si vantò l'altro giorno fra i suoi favoriti<br>che il solo strascico della sua veste più dimessa<br>valeva più di tutte le terre di mio padre,<br>finché Suffolk diede due ducati per sua figlia. |
+| SUFFOLK | Madama, io stesso le ho impaniato un cespuglio,<br>e postovi un coro di tali [[motifs/birds\|uccelli]] allettanti<br>che ella si poserà ad ascoltarne i canti,<br>e mai più s'alzerà a turbarvi.<br>Dunque lasciatela stare; e, madama, ascoltatemi,<br>ché son ardito di consigliarvi in questo:<br>sebbene non ci piaccia il Cardinale,<br>pur dobbiamo unirci a lui e ai signori<br>finché non avremo tratto in disgrazia il duca Humphrey.<br>Quanto al [[characters/duke-of-york\|duca di York]], quest'ultima querela<br>gioverà ben poco al suo vantaggio.<br>Così a uno a uno li sarchieremo tutti alla fine,<br>e voi stessa reggerete il felice timone. |
+| *(didascalia)* | Suona una fanfara. Entra [[archetypes/king\|re]] Enrico col duca |
+| SUFFOLK | di York e il duca di Somerset ai due lati di<br><br>lui, parlandogli all'orecchio. Entrano anche il duca<br><br>Humphrey di [[characters/gloucester\|Gloucester]], madama [[characters/eleanor\|Eleonora]] la<br><br>duchessa di [[characters/gloucester\|Gloucester]], il [[characters/duke-of-buckingham\|duca di Buckingham]], i<br><br>conti di Salisbury e Warwick, e il cardinale |
+| *(didascalia)* | Beaufort vescovo di Winchesteri |
+| [[archetypes/king\|RE]] ENRICO | Per la mia parte, nobili signori, non m'importa quale:<br>o Somerset o York, per me è tutt'uno. |
+| YORK | Se York si è mal condotto in Francia,<br>gli sia negata la reggenza. |
+| SOMERSET | Se Somerset è indegno del posto,<br>sia York reggente—io gli cederò. |
+| WARWICK | Se vostra grazia sia degna, sì o no,<br>non si discuta: York è il più degno. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Ambizioso Warwick, lascia parlare i tuoi maggiori. |
+| WARWICK | Il Cardinale non è mio maggiore sul campo. |
+| [[characters/buckingham\|BUCKINGHAM]] | Tutti in questa presenza sono tuoi maggiori, Warwick. |
+| WARWICK | Warwick può vivere per essere il migliore di tutti. |
+| SALISBURY | Pace, figlio; (a [[characters/buckingham\|Buckingham]]) e mostrate qualche ragione, [[characters/buckingham\|Buckingham]],<br>perché Somerset debba esser preferito in questo. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Perché il [[archetypes/king\|re]], in verità, così vuole. |
+| [[characters/gloucester\|GLOUCESTER]] | Madama, il [[archetypes/king\|re]] è abbastanza grande da sé<br>per dare il suo giudizio. Questi non son affari da donne. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Se è abbastanza grande, che bisogno ha vostra grazia<br>d'esser Protettore di sua eccellenza? |
+| [[characters/gloucester\|GLOUCESTER]] | Madama, io sono Protettore del regno,<br>e a suo piacere rassegnerò il mio posto. |
+| SUFFOLK | Rassegnalo dunque, e lascia la tua insolenza.<br>Da che tu fosti [[archetypes/king\|re]]—ché chi è [[archetypes/king\|re]] se non tu?—<br>lo stato è corso ogni giorno alla rovina,<br>il [[characters/dauphin\|Delfino]] ha prevalso oltre i mari,<br>e tutti i pari e i nobili del regno<br>sono stati come servi alla tua sovranità. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a [[characters/gloucester\|Gloucester]])<br>Il popolo hai torchiato, le borse del clero<br>son vuote e magre per le tue estorsioni. |
+| SOMERSET | (a [[characters/gloucester\|Gloucester]])<br>I tuoi sontuosi edifici e le vesti di tua moglie<br>son costati una massa di pubblico tesoro. |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[characters/gloucester\|Gloucester]])<br>La tua crudeltà nell'eseguire<br>sopra i rei ha oltrepassato la legge<br>e t'ha lasciato alla [[concepts/mercy\|mercé]] della legge. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | (a [[characters/gloucester\|Gloucester]])<br>Il tuo vender cariche e città in Francia—<br>se fossero note, com'è grande il sospetto—<br>ti farebbe presto saltare senza la testa. |
+| *(didascalia)* | Esce [[characters/gloucester\|Gloucester]] |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | [[characters/queen-margaret\|Margherita]] lascia cadere il ventaglio<br>(Alla Duchessa)<br>Dammi il ventaglio—come, sfrontata, non potete?<br>Dà alla Duchessa uno schiaffo<br>Vi chiedo [[concepts/mercy\|perdono]], madama! Eravate voi ? |
+| DUCHESSA | Ero io? Sì, io ero, superba Francese!<br>Potessi accostare le unghie alla vostra [[concepts/beauty\|bellezza]],<br>v'inciderei sul volto i miei dieci comandamenti. |
+| [[archetypes/king\|RE]] ENRICO | Dolce zia, calmatevi—fu contro la sua volontà. |
+| DUCHESSA | Contro la sua volontà? Buon [[archetypes/king\|re]], badateci a [[motifs/time\|tempo]]!<br>Ti vezzeggerà e ti cullerà come un bambino.<br>Sebbene in questo luogo il padrone maggiore non porti calzoni,<br>non colpirà madama [[characters/eleanor\|Eleonora]] senza vendetta ! Esce |
+| [[characters/buckingham\|BUCKINGHAM]] | (a parte, al [[characters/cardinal-beaufort\|cardinale Beaufort]])<br>Lord Cardinale, seguirò [[characters/eleanor\|Eleonora]]<br>e spierò come Humphrey proceda.<br>Ora è punta, il suo furore non ha bisogno di sproni—<br>galopperà abbastanza lontano fino alla sua rovina. Esce |
+| *(didascalia)* | Entra il duca Humphrey di [[characters/gloucester\|Gloucester]] |
+| [[characters/gloucester\|GLOUCESTER]] | Ora, signori, sfogata la mia collera<br>col fare un giro del cortile,<br>vengo a parlar d'affari di stato.<br>Quanto alle vostre maligne e false accuse,<br>provatele, e io sono esposto alla legge.<br>Ma Dio nella sua [[concepts/mercy\|misericordia]] tratti l'[[motifs/soul\|anima]] mia<br>com'io per dovere [[motifs/love\|amo]] il mio [[archetypes/king\|re]] e il mio paese.<br>Ma alla materia che abbiamo per le mani—<br>dico, mio sovrano, che York è l'uomo più idoneo<br>a essere vostro reggente nel regno di Francia. |
+| SUFFOLK | Prima che si faccia la scelta, datemi licenza<br>di mostrare qualche ragione di non poca forza<br>che York è il meno idoneo d'ogni uomo. |
+| YORK | Ti dirò, Suffolk, perché sono inidoneo:<br>primo, perché non so lusingarti nella [[concepts/pride\|superbia]];<br>poi, se fossi destinato al posto,<br>il mio signore di Somerset mi terrebbe qui<br>senza congedo, denaro o equipaggiamento,<br>finché la Francia non fosse guadagnata nelle mani del [[characters/dauphin\|Delfino]].<br>L'ultima [[motifs/time\|volta]] fui in anticamera alle sue voglie<br>finché [[settings/paris\|Parigi]] fu assediata, affamata e perduta. |
+| WARWICK | Di questo posso far testimonianza, e più laido fatto<br>mai traditore commise in questa terra. |
+| SUFFOLK | Pace, testardo Warwick. |
+| WARWICK | Immagine della [[concepts/pride\|superbia]], perché dovrei tacere? |
+| *(didascalia)* | Entrano, sotto guardia, Horner l'armaiolo e Peter suo garzone |
+| SUFFOLK | Perché qui c'è un uomo accusato di tradimento—<br>preghi Dio che il [[characters/duke-of-york\|duca di York]] possa scusarsi! |
+| YORK | Qualcuno accusa York d'esser traditore? |
+| [[archetypes/king\|RE]] ENRICO | Che intendi, Suffolk? Dimmi, chi son questi? |
+| SUFFOLK | Piaccia a vostra maestà, questo è l'uomo<br>Indica Peter<br>che accusa il suo padrone (indicando Horner) d'alto<br>tradimento.<br>Le sue parole furon queste: che [[characters/richard\|Riccardo]] [[characters/duke-of-york\|duca di York]]<br>era legittimo erede della [[motifs/crown\|corona]] d'Inghilterra,<br>e che vostra maestà era un [[archetypes/usurper\|usurpatore]]. |
+| [[archetypes/king\|RE]] ENRICO | (a Horner) Di', uomo, furon queste le tue parole? |
+| HORNER | Se piace a vostra maestà, io mai dissi né pensai cosa simile. Dio m'è testimone, sono falsamente accusato da quel [[archetypes/villain\|furfante]]. |
+| *(didascalia)* | PETER alzando le mani Per queste dieci ossa, signori miei, me le disse in soffitta una [[motifs/night\|notte]] mentre lustravamo l'armatura del mio signore di York. |
+| YORK | Vile [[archetypes/villain\|furfante]] da letamaio e manovale,<br>avrò la tua testa per questo tuo discorso da traditore !<br>(A [[archetypes/king\|re]] Enrico) Supplico la vostra regale maestà,<br>gli sia applicato tutto il rigore della legge. |
+| HORNER | Ahimè, mio signore, impiccatemi se mai dissi quelle parole. Il mio accusatore è il mio apprendista, e quando l'altro giorno lo corressi per la sua colpa, giurò in ginocchio che si sarebbe pareggiato con me. Ne ho buoni testimoni, perciò supplico vostra maestà, non gettate via un uomo onesto per l'accusa d'un [[archetypes/villain\|furfante]]. |
+| [[archetypes/king\|RE]] ENRICO | (a [[characters/gloucester\|Gloucester]])<br>Zio, che diremo di questo secondo la legge? |
+| [[characters/gloucester\|GLOUCESTER]] | Questa sentenza, mio signore, se posso giudicare secondo il caso:<br>sia Somerset reggente sopra i Francesi,<br>perché in York questo genera sospetto.<br>(Indicando Horner e Peter)<br><br>E a questi sia assegnato un giorno<br>per singolare combattimento in luogo conveniente,<br>ché egli (indicando Horner) ha testimoni della malizia<br>del suo servo.<br>Questa è la legge, e questa la sentenza del duca Humphrey. |
+| [[archetypes/king\|RE]] ENRICO | Sia dunque così. (A Somerset) Mio signore di Somerset,<br>vi facciamo reggente sopra il regno di Francia,<br>là a difendere i nostri diritti contro i nemici stranieri. |
+| SOMERSET | Ringrazio umilmente la vostra regale maestà. |
+| HORNER | E io accetto volentieri il combattimento. |
+| *(didascalia)* | PETER a [[characters/gloucester\|Gloucester]] Ahimè, mio signore, non posso combattere; per amor di Dio, abbiate pietà del mio caso! La malignità degli uomini prevale contro di me. O Signore, abbi [[concepts/mercy\|misericordia]] di me—non sarò mai capace di tirare un colpo ! O Signore, il mio cuore ! |
+| [[characters/gloucester\|GLOUCESTER]] | Ehi tu, o devi combattere o essere impiccato. |
+| [[archetypes/king\|RE]] ENRICO | Portateli via in [[motifs/prison\|prigione]], e il giorno<br>del combattimento sia l'ultimo del mese prossimo.<br>Venite, Somerset, vedremo alla vostra partenza. |
+| *(didascalia)* | Squillo. Escono |
+
+### Atto 1, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Margery Jordan, una [[characters/witch\|strega]]; Sir John Hume e John Southwell, due preti; e Roger Bolingbroke, un negromante |
+| *(didascalia)* | Hume Venite, padroni miei, la Duchessa, vi dico, attende l'adempimento delle vostre promesse. |
+| BOLINGBROKE | Mastro Hume, siamo perciò apparecchiati. Vorrà sua signoria vedere e udire i nostri esorcismi? |
+| HUME | Sì, che altro? Non [[concepts/fear\|temete]] per il suo [[concepts/courage\|coraggio]]. |
+| BOLINGBROKE | Ho udito dire ch'ella è donna d'invincibile spirito. Ma sarà conveniente, mastro Hume, che voi le stiate accanto, là in alto, mentre noi siamo all'opera qui sotto. E dunque, vi prego, andate in nome di Dio e lasciateci. Esce Hume Madre Jordan, prostrati e striscia sulla terra.<br>Ella si stende col volto a terra. |
+| *(didascalia)* | Entra [[characters/eleanor\|Eleonora]], la duchessa di [[characters/gloucester\|Gloucester]], in alto |
+| BOLINGBROKE | John Southwell, leggi tu, e mettiamoci all'opera. |
+| DUCHESSA | [[motifs/well\|Ben]] detto, padroni miei, e benvenuti tutti. A quest'affare, quanto prima tanto meglio. |
+| *(didascalia)* | Entra Hume in alto |
+| BOLINGBROKE | Pazienza, buona signora—i maghi conoscono le loro ore.<br>Profonda [[motifs/night\|notte]], oscura [[motifs/night\|notte]], il silenzio della [[motifs/night\|notte]],<br>l'[[motifs/time\|ora]] della [[motifs/night\|notte]] in cui Troia fu messa a [[motifs/fire\|fuoco]],<br>l'[[motifs/time\|ora]] in cui stridono le civette e ululano i mastini,<br>e camminano gli spiriti, e i [[motifs/ghosts\|fantasmi]] spezzano le loro tombe—<br>quell'[[motifs/time\|ora]] s'addice meglio all'opera che abbiamo per le mani.<br>Madama, sedete, e non [[concepts/fear\|temete]]. Chi evochiamo<br>lo terremo saldo dentro un cerchio consacrato.<br>Qui compiono le cerimonie del caso, e tracciano il cerchio. Southwell legge ‘Coniuro te’, ecc. Tuona e lampeggia terribilmente, poi sorge lo spirito Asnath |
+| ASNATH | Adsum. |
+| [[characters/witch\|STREGA]] | Asnath,<br>per l'eterno Dio al cui nome e potere<br>tu tremi, rispondi a ciò ch'io chiederò,<br>ché finché non parli, non passerai di qui. |
+| ASNATH | Chiedi ciò che vuoi, ch'io l'avessi già detto e fatto. |
+| BOLINGBROKE | (legge)<br>‘Primo, del [[archetypes/king\|re]]: che sarà di lui ?’ |
+| ASNATH | Vive ancora il duca che Enrico deporrà,<br>ma gli sopravviverà, e morrà di [[motifs/death\|morte]] violenta. |
+| *(didascalia)* | Mentre lo spirito parla, Southwell scrive la risposta |
+| BOLINGBROKE | (legge)<br>‘Dimmi qual sorte attende il [[characters/duke-of-suffolk\|duca di Suffolk]].’ |
+| ASNATH | Per [[motifs/water\|acqua]] morrà, e avrà la sua fine. |
+| BOLINGBROKE | (legge)<br>‘Che avverrà al duca di Somerset?’ |
+| ASNATH | Eviti i castelli. Più sicuro sarà<br>sulle piane sabbiose che dove i castelli s'ergono<br>eretti.<br>Basta—ché di più a pena posso sopportare. |
+| BOLINGBROKE | Scendi nelle tenebre e nel lago ardente! Falso demonio, sgombra! |
+| *(didascalia)* | Tuono e [[motifs/lightning\|fulmini]]. Lo spirito s'affonda di nuovo |
+| *(didascalia)* | Entrano, irrompendo, i duchi di York e |
+| BOLINGBROKE | [[characters/buckingham\|Buckingham]] con la loro guardia, fra cui Sir<br><br>Humphrey Stafford |
+| YORK | Mettete le mani su questi traditori e sulle loro cianfrusaglie. |
+| *(didascalia)* | Bolingbroke, Southwell e la Jordan son fatti |
+| YORK | prigionieri. [[characters/buckingham\|Buckingham]] prende gli scritti da |
+| *(didascalia)* | Bolingbroke e Southwell |
+| YORK | (Alla Jordan) Vecchiaccia, credo v'abbiamo spiato da vicino.<br>(Alla Duchessa) Come, madama, siete là? Il<br>[[archetypes/king\|re]] e lo stato<br>vi sono molto debitori di questa fatica.<br>Il mio lord Protettore, non ne [[concepts/doubt\|dubito]],<br>vi vedrà [[motifs/well\|ben]] ricompensata di questi buoni meriti. |
+| DUCHESSA | Non la metà così male dei tuoi verso il [[archetypes/king\|re]] d'Inghilterra,<br>oltraggioso duca, che minacci dove non v'è ragione. |
+| [[characters/buckingham\|BUCKINGHAM]] | Vero, madama, nessuna del tutto— |
+| *(didascalia)* | Solleva gli scritti |
+| [[characters/buckingham\|BUCKINGHAM]] | come chiamate questo?<br>(Ai suoi uomini) Portateli via. Sian messi al chiuso,<br>stretti,<br>e tenuti separati. (Alla Duchessa) Voi, madama, verrete<br>con noi.<br>Stafford, prendila in custodia. |
+| *(didascalia)* | Escono Stafford e altri verso la Duchessa |
+| *(didascalia)* | e Hume, in alto |
+| [[characters/buckingham\|BUCKINGHAM]] | Vedremo che le vostre cianfrusaglie sian tutte prodotte.<br>Tutti via! |
+| *(didascalia)* | Escono in basso la Jordan, Southwell e |
+| *(didascalia)* | Bolingbroke, sotto guardia, e, in alto, Hume e |
+| *(didascalia)* | la Duchessa sotto la guardia di Stafford e altri. |
+| *(didascalia)* | Restano York e [[characters/buckingham\|Buckingham]] |
+| YORK | Lord [[characters/buckingham\|Buckingham]], mi pare l'abbiate spiata [[motifs/well\|bene]].<br>Un bel terreno, [[motifs/well\|ben]] scelto per costruirvi sopra.<br>Or di grazia, mio signore, vediamo lo scritto del diavolo. |
+| *(didascalia)* | [[characters/buckingham\|Buckingham]] gli dà gli scritti |
+| YORK | Che abbiamo qui?<br>Legge gli scritti<br>Perbacco, questo è appunto<br>Aio Aeacidam, Romanos vincere posse.<br><br>Questi oracoli s'ottengono a stento<br>e a stento s'intendono. Via, via, mio signore,<br>il [[archetypes/king\|re]] è ora in viaggio verso Saint Albans;<br>con lui il marito di questa amabile signora.<br>Là vanno queste nuove, rapide come [[motifs/horse\|cavallo]] può portarle a<br>lui—<br>una triste colazione per il mio lord Protettore. |
+| [[characters/buckingham\|BUCKINGHAM]] | Vostra grazia mi darà licenza, mio signore di York,<br>d'esser io il corriere, in [[concepts/hope\|speranza]] della sua ricompensa. |
+| YORK | (restituendo gli scritti a [[characters/buckingham\|Buckingham]]) |
+| *(didascalia)* | A vostro piacere, mio buon signore. Esce [[characters/buckingham\|Buckingham]] (Chiamando verso l'interno) Chi è là dentro, ehi! |
+| *(didascalia)* | Entra un servitore |
+| YORK | Invita i miei signori di Salisbury e Warwick<br>a cenare con me domani [[motifs/night\|notte]]. Va'. |
+| *(didascalia)* | Escono da parti diverse |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|re]] Enrico, [[characters/queen-margaret\|Margherita]] col falcone sul pugno, il duca Humphrey di [[characters/gloucester\|Gloucester]], [[characters/cardinal-beaufort\|il cardinale Beaufort]] e il [[characters/duke-of-suffolk\|duca di Suffolk]], con falconieri che gridano |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Credetemi, signori, per la caccia al ruscello<br>non vidi miglior spasso da sette anni in qua;<br>pure, con vostra licenza, il [[motifs/wind\|vento]] era molto alto,<br>e, dieci a uno, la vecchia Joan non sarebbe volata. |
+| [[archetypes/king\|RE]] ENRICO | (a [[characters/gloucester\|Gloucester]])<br>Ma che volo, mio signore, fece il vostro falcone,<br>e a quale altezza salì sopra gli altri!<br>Vedere come Dio opera in tutte le sue creature!<br>Sì, l'uomo e gli [[motifs/birds\|uccelli]] son bramosi di salire in alto. |
+| SUFFOLK | Nessuna meraviglia, se piace a vostra maestà,<br>che i falconi del mio lord Protettore s'innalzino così [[motifs/well\|bene]];<br>sanno che al loro padrone piace stare in alto,<br>e porta i suoi pensieri più su del volo del suo falcone. |
+| [[characters/gloucester\|GLOUCESTER]] | Mio signore, è solo un animo basso e ignobile<br>quello che non sale più alto di quanto un uccello si libri. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | L'immaginavo; egli vorrebbe stare sopra le nuvole. |
+| [[characters/gloucester\|GLOUCESTER]] | Sì, mio lord Cardinale, che ne pensate?<br>Non sarebbe bene che vostra grazia potesse volare in cielo? |
+| [[archetypes/king\|RE]] ENRICO | Il tesoro dell'eterna gioia. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a [[characters/gloucester\|Gloucester]])<br>Il tuo cielo è sulla terra; i tuoi occhi e i tuoi pensieri<br>battono su una [[motifs/crown\|corona]], il tesoro del tuo cuore,<br>pernicioso Protettore, pari pericoloso,<br>che così lisci il [[archetypes/king\|re]] e lo stato! |
+| [[characters/gloucester\|GLOUCESTER]] | Come, Cardinale? Il vostro sacerdozio è divenuto<br>perentorio ?<br>Tantaene animis caelestibus irae?<br><br>Uomini di chiesa così accesi? Buon zio, nascondete tal malizia<br>con qualche santità—lo potete fare? |
+| SUFFOLK | Nessuna malizia, signore, non più di quanto [[motifs/well\|ben]] si convenga<br>a una lite così buona e a un pari così cattivo. |
+| [[characters/gloucester\|GLOUCESTER]] | Come chi, mio signore ? |
+| SUFFOLK | Ma come voi, mio signore—<br>se piace alla vostra signorile Protettoria di Lord. |
+| [[characters/gloucester\|GLOUCESTER]] | Ebbene, Suffolk, l'Inghilterra conosce la tua insolenza. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | E la tua [[concepts/ambition\|ambizione]], [[characters/gloucester\|Gloucester]]. |
+| [[archetypes/king\|RE]] ENRICO | Ti prego, pace, buona [[characters/queen\|regina]], e non aizzare questi pari furiosi—ché beati sono i pacifici sulla terra. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Ch'io sia benedetto per la pace che faccio<br>contro questo superbo Protettore con la mia spada. |
+| *(didascalia)* | [[characters/gloucester\|Gloucester]] e [[characters/cardinal-beaufort\|il cardinale Beaufort]] si parlano in privato |
+| [[characters/gloucester\|GLOUCESTER]] | In [[concepts/faith\|fede]], santo zio, volesse il cielo si venisse a questo. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Per la Vergine, quando oserai. |
+| [[characters/gloucester\|GLOUCESTER]] | Osare? Ti dico, prete,<br>i Plantageneti non tollerarono mai la sfida! |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Io sono Plantageneto [[motifs/well\|bene]] come te,<br>e figlio di [[characters/john-of-gaunt\|Giovanni di Gaunt]]. |
+| [[characters/gloucester\|GLOUCESTER]] | In bastardia. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Disprezzo le tue parole. |
+| [[characters/gloucester\|GLOUCESTER]] | Non raccogliere schiere di partigiani per la cosa,<br>rispondi in persona tua del tuo insulto. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Sì, là dove non osi affacciarti; e se osi,<br>questa sera sul lato orientale del bosco. |
+| [[archetypes/king\|RE]] ENRICO | Ebbene, signori miei? |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (ad alta voce)<br>Credetemi, cugino [[characters/gloucester\|Gloucester]],<br>se il vostro uomo non avesse levato la selvaggina così d'improvviso,<br>avremmo avuto più spasso. (A parte, a [[characters/gloucester\|Gloucester]]) Vieni<br>con la tua spada a due mani. |
+| [[characters/gloucester\|GLOUCESTER]] | (ad alta voce) Vero, zio.<br>(A parte, al [[characters/cardinal-beaufort\|cardinale Beaufort]])<br><br>Siete avvisato? Il lato orientale del bosco. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a parte, a [[characters/gloucester\|Gloucester]])<br>Ci sto. |
+| [[archetypes/king\|RE]] ENRICO | Ebbene, che c'è, zio [[characters/gloucester\|Gloucester]]? |
+| [[characters/gloucester\|GLOUCESTER]] | Parliamo di caccia col falcone, nient'altro, mio signore.<br>(A parte, al Cardinale)<br>Ora, per la madre di Dio, prete, ti raderò la [[motifs/crown\|tonsura]]<br>per questo,<br>o tutta la mia scherma verrà meno. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a parte, a [[characters/gloucester\|Gloucester]])<br>Medice, teipsum—<br>Protettore, badateci [[motifs/well\|bene]]; proteggete voi stesso. |
+| [[archetypes/king\|RE]] ENRICO | I venti si alzano; e così i vostri animi, signori.<br>Quanto è molesta al mio cuore questa musica !<br>Quando tali corde stridono, che [[concepts/hope\|speranza]] d'armonia?<br>Vi prego, signori, lasciate ch'io componga questa contesa. |
+| *(didascalia)* | Entra uno che grida ‘un miracolo’ |
+| [[characters/gloucester\|GLOUCESTER]] | Che vuol dire questo rumore?<br>Amico, che miracolo proclami? |
+| UNO | Un miracolo, un miracolo! |
+| SUFFOLK | Vieni dal [[archetypes/king\|re]]—digli che miracolo. |
+| UNO | (a [[archetypes/king\|re]] Enrico)<br>In verità, un cieco al santuario di Sant'Albano |
+| *(didascalia)* | in questa mezz'ora ha ricevuto la vista— |
+| UNO | Un uomo che mai vide prima in vita sua. |
+| [[archetypes/king\|RE]] ENRICO | Ora sia lodato Dio, che alle anime credenti<br>dà luce nelle tenebre, conforto nella [[concepts/despair\|disperazione]]! |
+| *(didascalia)* | Entrano il sindaco e gli assessori di Saint Albans, con musica, portando l'uomo, Simpcox, fra due, su una sedia. Entrano la moglie di Simpcox e altri cittadini con loro |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Ecco che vengono i cittadini in processione<br>a presentare l'uomo a vostra altezza. |
+| *(didascalia)* | I cittadini s'inginocchiano |
+| [[archetypes/king\|RE]] ENRICO | Grande è il suo conforto in questa valle terrena,<br>sebbene per la vista il suo peccato si moltiplichi. |
+| [[characters/gloucester\|GLOUCESTER]] | (ai cittadini)<br>Fatevi da parte, padroni miei, portatelo vicino al [[archetypes/king\|re]].<br>È piacere di sua altezza parlare con lui. |
+| *(didascalia)* | Essi si alzano e portano Simpcox davanti al [[archetypes/king\|re]] |
+| [[archetypes/king\|RE]] ENRICO | (a Simpcox)<br>Buon uomo, raccontaci qui il fatto,<br>ché noi per te possiamo glorificare il Signore.<br>Come, sei stato cieco a lungo e ora risanato? |
+| SIMPCOX | Nato cieco, se piace a vostra grazia. |
+| MOGLIE DI SIMPCOX | Sì, davvero, lo era. |
+| SUFFOLK | Che donna è questa? |
+| MOGLIE DI SIMPCOX | Sua moglie, se piace a vossignoria. |
+| [[characters/gloucester\|GLOUCESTER]] | Se fossi stata sua madre<br>avresti potuto dirlo meglio. |
+| [[archetypes/king\|RE]] ENRICO | (a Simpcox) Dove nascesti? |
+| SIMPCOX | A Berwick, nel nord, se piace a vostra grazia. |
+| [[archetypes/king\|RE]] ENRICO | Povera [[motifs/soul\|anima]], la bontà di Dio è stata grande verso te.<br>Non passi mai giorno né [[motifs/night\|notte]] senza santificarlo,<br>ma ricorda sempre ciò che il Signore ha fatto. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | (a Simpcox)<br>Dimmi, buon uomo, venisti qui per caso,<br>o per devozione a questo santo santuario? |
+| SIMPCOX | Dio lo sa, per pura devozione, essendo chiamato<br>cento volte e più spesso, nel mio [[motifs/sleep\|sonno]],<br>dal buon sant'Albano, che disse: ‘Simone, vieni;<br>vieni a offrire al mio santuario e io t'aiuterò.’ |
+| MOGLIE DI SIMPCOX | Verissimo, in verità, e molte [[motifs/time\|volte]] e spesso<br>io stessa ho udito una voce chiamarlo così. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a Simpcox)<br>Come, sei storpio ? |
+| SIMPCOX | Sì, Dio onnipotente m'aiuti. |
+| SUFFOLK | Come divenisti tale? |
+| SIMPCOX | Una caduta da un albero. |
+| MOGLIE DI SIMPCOX | (a Suffolk)<br>Un susino, padrone. |
+| [[characters/gloucester\|GLOUCESTER]] | Da quanto tempo sei cieco? |
+| SIMPCOX | Oh, nato così, padrone. |
+| [[characters/gloucester\|GLOUCESTER]] | Come, e volevi arrampicarti su un albero? SIMPCOX<br>Solo quella volta in tutta la mia vita, quand'ero giovane. |
+| MOGLIE DI SIMPCOX | (a [[characters/gloucester\|Gloucester]])<br>Troppo vero—e pagò molto caro il suo arrampicarsi. |
+| [[characters/gloucester\|GLOUCESTER]] | (a Simpcox)<br>Per la messa, amavi [[motifs/well\|bene]] le susine, per rischiare così. |
+| SIMPCOX | Ahimè, buon padrone, mia moglie desiderava certe prugne,<br>e mi fece salire a rischio della vita. |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] a parte |
+| SIMPCOX | Un furbo furfante, ma non gli servirà.<br>(A Simpcox) Fa' vedere i tuoi occhi: ora chiudili, ora<br>aprili.<br>A mio parere non vedi ancora [[motifs/well\|bene]]. |
+| SIMPCOX | Sì, padrone, chiaro come il giorno, ringrazio Dio e sant'Albano. |
+| [[characters/gloucester\|GLOUCESTER]] | Dici così? (Indicando) Di che colore è questo mantello? |
+| SIMPCOX | Rosso, padrone; rosso come [[motifs/blood\|sangue]]. |
+| [[characters/gloucester\|GLOUCESTER]] | Ebbene, [[motifs/well\|ben]] detto.<br>(Indicando) E il suo mantello? |
+| SIMPCOX | Ebbene, quello è verde. |
+| [[characters/gloucester\|GLOUCESTER]] | (indicando) E di che colore sono<br>le sue calze? |
+| SIMPCOX | Gialle, padrone; gialle come l'oro. |
+| [[characters/gloucester\|GLOUCESTER]] | E di che colore è la mia veste? |
+| SIMPCOX | Nera, signore; nera come il carbone, come il giaietto. |
+| [[archetypes/king\|RE]] ENRICO | Ebbene, dunque, tu sai di che colore è il giaietto? |
+| UFFOLK | E pure credo che il giaietto non l'abbia mai visto. |
+| [[characters/gloucester\|GLOUCESTER]] | Ma mantelli e vesti, prima di questo giorno, molti. |
+| MOGLIE DI SIMPCOX | Mai prima di questo giorno in tutta la sua vita. |
+| [[characters/gloucester\|GLOUCESTER]] | Dimmi, tu là, come mi chiamo? |
+| SIMPCOX | Ahimè, padrone, non lo so. |
+| [[characters/gloucester\|GLOUCESTER]] | (indicando) Come si chiama lui? |
+| SIMPCOX | Non lo so. |
+| [[characters/gloucester\|GLOUCESTER]] | (indicando) Né lui? |
+| SIMPCOX | No, in verità, signore. |
+| [[characters/gloucester\|GLOUCESTER]] | (indicando) Né il nome di lui? |
+| SIMPCOX | No davvero, padrone. |
+| [[characters/gloucester\|GLOUCESTER]] | Come ti chiami tu? |
+| SIMPCOX | Simon Simpcox, se vi piace, padrone. |
+| [[characters/gloucester\|GLOUCESTER]] | Allora, Simone, siedi là, il più mentitore furfante<br>della cristianità. Se tu fossi nato cieco<br>avresti potuto [[motifs/well\|bene]] conoscere i nostri nomi, come così<br>nominare i vari colori che portiamo.<br>La vista può distinguere i colori, ma d'un colpo<br>nominarli tutti—è impossibile.<br>Sant'Albano qui ha fatto un miracolo.<br>Non pensereste che grande sia la sua abilità<br>se potesse rendere a questo storpio le sue gambe? |
+| SIMPCOX | Oh padrone, potessi voi! |
+| [[characters/gloucester\|GLOUCESTER]] | (al sindaco e agli assessori)<br>Padroni miei di Saint Albans, non avete<br>messi nella vostra città, e cose chiamate fruste? |
+| SINDACO | Ne abbiamo, mio signore, se piace a vostra grazia. |
+| [[characters/gloucester\|GLOUCESTER]] | Mandatene a chiamare uno subito. |
+| SINDACO | (a un cittadino)<br>Tu là, va' a chiamar qui il messo subito. Esce uno |
+| [[characters/gloucester\|GLOUCESTER]] | Portatemi uno sgabello.<br>Viene portato uno sgabello<br>(A Simpcox) Ora, tu là, se intendi<br>salvarti dalla frusta, saltami oltre<br>questo sgabello e scappa. |
+| SIMPCOX | Ahimè, padrone,<br>non son capace nemmeno di star in piedi da solo.<br>Vi adoprate a torturarmi in vano. |
+| *(didascalia)* | Entra un messo con le fruste |
+| [[characters/gloucester\|GLOUCESTER]] | [[motifs/well\|Bene]], tu là, bisogna che tu ritrovi le gambe.<br>(Al messo) Frustalo finché non salti oltre quello stesso<br>sgabello. |
+| MESSO | Lo farò, mio signore.<br>(A Simpcox) Andiamo, tu là, giù il farsetto, svelto. |
+| SIMPCOX | Ahimè, padrone, che farò ? Non son capace di stare in piedi. |
+| *(didascalia)* | Dopo che il messo l'ha colpito una volta, egli salta oltre lo sgabello e scappa. Alcuni dei cittadini lo seguono e gridano: ‘Un miracolo ! Un miracolo !’ |
+| [[archetypes/king\|RE]] ENRICO | O Dio, vedi tu questo e sopporti tanto? |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Mi fece ridere vedere il [[archetypes/villain\|furfante]] correre! |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] al messol |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Segui il furfante, e porta via questa sgualdrina. |
+| MOGLIE DI SIMPCOX | Ahimè, signore, l'abbiamo fatto per puro bisogno. |
+| *(didascalia)* | Esce il messo con la moglie |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] al sindaco |
+| MOGLIE DI SIMPCOX | Sian frustati per ogni borgo di mercato 160<br>finché giungano a Berwick, da dove vennero. |
+| *(didascalia)* | Escono il sindaco e i cittadini rimasti |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Il duca Humphrey ha fatto un miracolo oggi. |
+| SUFFOLK | Vero: ha fatto saltare e volar via lo storpio. |
+| [[characters/gloucester\|GLOUCESTER]] | Ma voi avete fatto più miracoli di me—<br>voi faceste, in un giorno, mio signore, volar via città intere. |
+| *(didascalia)* | Entra il [[characters/duke-of-buckingham\|duca di Buckingham]] |
+| [[archetypes/king\|RE]] ENRICO | Che nuove col nostro cugino [[characters/buckingham\|Buckingham]]? |
+| [[characters/buckingham\|BUCKINGHAM]] | Tali che il mio cuore trema a svelarle.<br>Una banda di malvagi, di torte intenzioni,<br>sotto il patrocinio e la complicità<br>di lady [[characters/eleanor\|Eleonora]], la moglie del Protettore,<br>capobanda e testa di tutta questa masnada,<br>han macchinato pericolosamente contro il vostro stato,<br>trattando con streghe e con negromanti,<br>che abbiamo colti in flagrante,<br>mentre evocavano spiriti maligni da sottoterra,<br>chiedendo della vita e della [[motifs/death\|morte]] di [[archetypes/king\|re]] Enrico<br>e d'altri del Consiglio privato di vostra altezza.<br>Ed ecco la risposta che il diavolo fece loro.<br>[[characters/buckingham\|Buckingham]] dà a [[archetypes/king\|re]] Enrico gli scritti |
+| *(didascalia)* | [[archetypes/king\|RE]] ENRICO (legge) |
+| [[characters/buckingham\|BUCKINGHAM]] | ‘Primo, del [[archetypes/king\|re]]: che sarà di lui?<br>Vive ancora il duca che Enrico deporrà,<br>ma gli sopravviverà e morrà di [[motifs/death\|morte]] violenta.’<br>Sia fatta in tutto la volontà di Dio. [[motifs/well\|Bene]], al resto.<br>(Legge) ‘Dimmi qual sorte attende il [[characters/duke-of-suffolk\|duca di Suffolk]]?<br>Per [[motifs/water\|acqua]] morrà, e avrà la sua fine.’ |
+| SUFFOLK | [a parte]<br>Per [[motifs/water\|acqua]] deve morire il [[characters/duke-of-suffolk\|duca di Suffolk]]?<br>Deve esser così, o il diavolo mente. |
+| [[archetypes/king\|RE]] ENRICO | (legge)<br>‘Che avverrà al duca di Somerset?<br>Eviti i castelli. Più sicuro sarà<br>sulle piane sabbiose che dove i castelli s'ergono<br>eretti.’ |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a [[characters/gloucester\|Gloucester]])<br>E così, mio lord Protettore, per questa via<br>la vostra signora sarà pur prodotta a [[settings/london\|Londra]].<br>(A parte, a [[characters/gloucester\|Gloucester]])<br>Questa nuova, credo, ha smussato il filo della vostra arma.<br>᾽“È probabile, mio signore, che non manterrete la vostra ora. |
+| [[characters/gloucester\|GLOUCESTER]] | Ambizioso uomo di chiesa, cessa d'affliggere il mio cuore.<br>Dolore e affanno han vinto tutte le mie forze,<br>e, vinto come sono, cedo a te<br>o al più umile stalliere. |
+| [[archetypes/king\|RE]] ENRICO | O Dio, quali danni operano i malvagi,<br>ammassando così confusione sulle proprie teste! |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | [[characters/gloucester\|Gloucester]], vedi qui la macchia del tuo nido,<br>e badi tu d'esser senza colpa, sarà meglio per te. |
+| [[characters/gloucester\|GLOUCESTER]] | Madama, per me stesso, al cielo mi appello,<br>di come ho amato il mio [[archetypes/king\|re]] e lo stato;<br>e quanto a mia moglie, non so come stia la cosa.<br>Dolente sono d'udire ciò che ho udito.<br>Nobile ella è, ma se ha dimenticato<br>l'[[concepts/honour\|onore]] e la virtù e ha praticato con tali<br>che, come pece, insozzano la nobiltà,<br>la bandisco dal mio letto e dalla mia compagnia,<br>e la dò in preda alla legge e alla vergogna,<br>lei che ha disonorato l'onesto nome di [[characters/gloucester\|Gloucester]]. |
+| [[archetypes/king\|RE]] ENRICO | [[motifs/well\|Bene]], per questa [[motifs/night\|notte]] riposeremo qui;<br>domani di nuovo verso [[settings/london\|Londra]],<br>per esaminare a fondo quest'affare,<br>e chiamare questi turpi rei a rispondere,<br>e pesare la causa sulle bilance eguali della giustizia,<br>il cui braccio sta fermo, e la cui giusta causa<br>prevale. Squillo. Escono |
+
+### Atto 2, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il [[characters/duke-of-york\|duca di York]] e i conti di Salisbury e Warwick |
+| YORK | Ora, miei buoni signori di Salisbury e Warwick,<br>finita la nostra semplice cena, datemi licenza<br>in questo chiuso viale di soddisfarmi<br>chiedendo il vostro parere sul mio titolo,<br>che è infallibile, alla [[motifs/crown\|corona]] d'Inghilterra. |
+| SALISBURY | Mio signore, bramo udirlo per intero. |
+| WARWICK | Dolce York, comincia, e se la tua pretesa è buona,<br>i Neville sono tuoi sudditi al comando. |
+| YORK | Allora così:<br>Edoardo Terzo, signori miei, ebbe sette figli:<br>il primo, [[characters/edward-the-black-prince\|Edoardo il Principe Nero]], principe di Galles;<br>il secondo, Guglielmo di Hatfield; e il terzo,<br>Lionello duca di [[characters/clarence\|Clarence]]; dopo il quale<br>venne [[characters/john-of-gaunt\|Giovanni di Gaunt]], duca di Lancaster;<br>il quinto fu [[characters/edmund\|Edmondo]] Langley, [[characters/duke-of-york\|duca di York]];<br>il sesto fu Tommaso di Woodstock, duca di<br>[[characters/gloucester\|Gloucester]];<br>Guglielmo di Windsor fu il settimo e l'ultimo.<br>[[characters/edward-the-black-prince\|Edoardo il Principe Nero]] morì prima del padre<br>e lasciò dietro di sé [[characters/richard\|Riccardo]], suo unico figlio,<br>che, dopo la [[motifs/death\|morte]] d'Edoardo Terzo, regnò come [[archetypes/king\|re]]<br>finché [[characters/henry-bolingbroke\|Enrico Bolingbroke]], duca di Lancaster,<br>figlio maggiore ed erede di [[characters/john-of-gaunt\|Giovanni di Gaunt]],<br>incoronato col nome di Enrico Quarto,<br>s'impadronì del regno, depose il legittimo [[archetypes/king\|re]],<br>mandò la sua povera [[characters/queen\|regina]] in Francia, da dove era venuta,<br>e lui a Pomfret; dove, come [[motifs/well\|ben]] sapete,<br>l'innocuo [[characters/richard\|Riccardo]] fu ucciso a tradimento. |
+| WARWICK | (a Salisbury)<br>Padre, il [[characters/duke-of-york\|duca di York]] ha detto la [[concepts/truth\|verità]];<br>così la casa di Lancaster ottenne la [[motifs/crown\|corona]]. |
+| YORK | Che ora tengono per forza e non per diritto;<br>ché [[characters/richard\|Riccardo]], erede del primo figlio, essendo morto,<br>la discendenza del figlio seguente doveva regnare. |
+| SALISBURY | Ma Guglielmo di Hatfield morì senza erede. |
+| YORK | Il terzo figlio, duca di [[characters/clarence\|Clarence]], dalla cui linea<br>rivendico la [[motifs/crown\|corona]], ebbe per discendenza Filippa, una figlia,<br>che sposò [[characters/edmund\|Edmondo]] Mortimer, conte di March;<br>[[characters/edmund\|Edmondo]] ebbe per figlio Ruggero, conte di March;<br>Ruggero ebbe per figli [[characters/edmund\|Edmondo]], Anna ed [[characters/eleanor\|Eleonora]]. |
+| SALISBURY | Questo [[characters/edmund\|Edmondo]], sotto il regno di Bolingbroke,<br>come ho letto, avanzò pretesa alla [[motifs/crown\|corona]],<br>e, se non fosse stato per Owain Glyndwr, sarebbe stato [[archetypes/king\|re]];<br>il quale lo tenne in prigionia finché morì.<br>Ma al resto. |
+| YORK | La sua sorella maggiore, Anna,<br>mia madre, essendo erede della [[motifs/crown\|corona]],<br>sposò [[characters/richard\|Riccardo]], conte di Cambridge, che era figlio<br>d'[[characters/edmund\|Edmondo]] Langley, quinto figlio d'Edoardo Terzo.<br>Per lei rivendico il regno: ella era erede<br>di Ruggero, conte di March, che era il figlio<br>d'[[characters/edmund\|Edmondo]] Mortimer, che sposò Filippa,<br>unica figlia di Lionello, duca di [[characters/clarence\|Clarence]].<br>Così, se la discendenza del figlio maggiore<br>succede prima di quella del minore, io sono [[archetypes/king\|re]]. |
+| WARWICK | Quale chiara derivazione è più chiara di questa?<br>Enrico rivendica la [[motifs/crown\|corona]] da [[characters/john-of-gaunt\|Giovanni di Gaunt]],<br>il quarto figlio; York la rivendica dal terzo:<br>finché la stirpe di Lionello non manchi, quella di Giovanni non deve regnare.<br>Non manca ancora, ma fiorisce in te<br>e nei tuoi figli, bei rampolli di tal ceppo.<br>Dunque, padre Salisbury, inginocchiamoci insieme,<br>e in questo luogo appartato siamo noi i primi<br>a salutare il nostro legittimo sovrano<br>con l'[[concepts/honour\|onore]] del suo diritto di nascita alla [[motifs/crown\|corona]]. |
+| SALISBURY | e WARWICK (inginocchiandosi)<br>Lunga vita al nostro sovrano [[characters/richard\|Riccardo]], [[archetypes/king\|re]] d'Inghilterra! |
+| YORK | Vi ringraziamo, signori; |
+| *(didascalia)* | Salisbury e Warwick si alzano |
+| YORK | ma non sono vostro [[archetypes/king\|re]]<br>finché non sia incoronato, e la mia spada non sia macchiata<br>col [[motifs/blood\|sangue]] del cuore della casa di Lancaster—<br>e questo non è da compiere d'un tratto,<br>ma con avvedutezza e tacito segreto.<br>Fate voi, come faccio io, in questi giorni pericolosi,<br>chiudete un occhio sull'insolenza del [[characters/duke-of-suffolk\|duca di Suffolk]],<br>sulla [[concepts/pride\|superbia]] di Beaufort, sull'[[concepts/ambition\|ambizione]] di Somerset,<br>su [[characters/buckingham\|Buckingham]], e su tutta la loro brigata,<br>finché non abbiano irretito il pastore del gregge,<br>quel virtuoso principe, il buon duca Humphrey.<br>᾽È questo che cercano, ed essi, cercando questo,<br>troveranno la loro morte, se York sa profetare. |
+| SALISBURY | Mio signore, basta—conosciamo appieno il vostro animo. |
+| WARWICK | Il mio cuore m'assicura che il [[characters/earl-of-warwick\|conte di Warwick]]<br>farà un giorno del [[characters/duke-of-york\|duca di York]] un [[archetypes/king\|re]]. |
+| YORK | E, Neville, di questo io m'assicuro—<br>[[characters/richard\|Riccardo]] vivrà per fare del [[characters/earl-of-warwick\|conte di Warwick]]<br>il più grande uomo d'Inghilterra dopo il [[archetypes/king\|re]]. Escono |
+
+### Atto 2, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Suonano le trombe. Entrano [[archetypes/king\|re]] Enrico e la corte, con la guardia, per bandire la Duchessa: [[archetypes/king\|re]] Enrico e [[characters/queen-margaret\|Margherita]], il duca Humphrey di [[characters/gloucester\|Gloucester]], il [[characters/duke-of-suffolk\|duca di Suffolk]] [e il [[characters/duke-of-buckingham\|duca di Buckingham]], il cardinale [Beaufort], e, condotti da ufficiali, madama [[characters/eleanor\|Eleonora]] Cobham la Duchessa, Margery Jordan la [[characters/witch\|strega]], John Southwell e Sir John Hume i due preti, e Roger Bolingbroke il negromante; poi entrano presso di loro] il [[characters/duke-of-york\|duca di York]] e i conti di Salisbury rand Warwick |
+| [[archetypes/king\|RE]] ENRICO | (alla Duchessa)<br>Fatevi avanti, madama [[characters/eleanor\|Eleonora]] Cobham, moglie di [[characters/gloucester\|Gloucester]].<br>Ella si fa avanti<br>Al cospetto di Dio e di noi la vostra [[concepts/guilt\|colpa]] è grande;<br>ricevete la sentenza della legge per peccati<br>quali dal libro di Dio sono condannati a [[motifs/death\|morte]].<br>(Alla [[characters/witch\|strega]], a Southwell, a Hume e a Bolingbroke)<br>Voi quattro, di qui di nuovo in [[motifs/prison\|prigione]];<br>di là, al luogo dell'esecuzione.<br>La [[characters/witch\|strega]] a Smithfield sarà arsa in cenere,<br>e voi tre sarete strangolati sulla forca. |
+| *(didascalia)* | Escono la [[characters/witch\|strega]], Southwell, Hume e Bolingbroke, sotto guardia |
+| [[archetypes/king\|RE]] ENRICO | (Alla Duchessa)<br>Voi, madama, poiché siete di più nobile nascita,<br>spogliata del vostro [[concepts/honour\|onore]] in vita,<br>dovrete, compiuti tre giorni di pubblica penitenza,<br>vivere qui nel vostro paese in bando<br>con Sir John Stanley nell'isola di Man. |
+| DUCHESSA | Benvenuto è il bando; benvenuta sarebbe la mia [[motifs/death\|morte]]. |
+| [[characters/gloucester\|GLOUCESTER]] | [[characters/eleanor\|Eleonora]], la legge, tu vedi, t'ha giudicata;<br>non posso giustificare chi la legge condanna. |
+| *(didascalia)* | Esce la Duchessa, sotto guardia |
+| [[characters/gloucester\|GLOUCESTER]] | I miei occhi son pieni di [[motifs/tears\|lacrime]], il mio cuore di dolore.<br>Ah, Humphrey, questo disonore nella tua vecchiaia<br>porterà con affanno il tuo capo alla [[motifs/grave\|tomba]].<br>(A [[archetypes/king\|re]] Enrico)<br>Supplico vostra maestà, datemi licenza d'andare.<br>Il dolore vuol conforto, e la mia età vuol quiete. |
+| [[archetypes/king\|RE]] ENRICO | Fermati, Humphrey [[characters/duke-of-gloucester\|duca di Gloucester]]. Prima che tu vada,<br>cedi il tuo bastone. Enrico sarà a se stesso<br>Protettore; e Dio sarà la mia [[concepts/hope\|speranza]],<br>il mio sostegno, la mia guida, e lanterna ai miei piedi.<br>E va' in pace, Humphrey, non meno amato<br>che quando eri Protettore del tuo [[archetypes/king\|re]]. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Non vedo ragione perché un [[archetypes/king\|re]] in età<br>debba essere protetto come un [[archetypes/child\|bambino]].<br>Dio e [[archetypes/king\|re]] Enrico reggano il timone d'Inghilterra!<br>Cedete il vostro bastone, signore, e al [[archetypes/king\|re]] il suo regno. |
+| [[characters/gloucester\|GLOUCESTER]] | Il mio bastone? Ecco, nobile Enrico, il mio bastone.<br>Tanto volentieri lo rassegno<br>quanto un tempo tuo padre Enrico me lo fece mio;<br>e altrettanto volentieri ai tuoi piedi lo lascio<br>quanto altri ambiziosamente lo riceverebbero.<br>Depone il bastone ai piedi di [[archetypes/king\|re]] Enrico<br>Addio, buon [[archetypes/king\|re]]. Quando sarò morto e sparito,<br>onorata pace assista il tuo trono. Esce |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ebbene, ora Enrico è [[archetypes/king\|re]] e Margherita [[characters/queen\|regina]],<br>e Humphrey [[characters/duke-of-gloucester\|duca di Gloucester]] è appena se stesso,<br>che porta sì grave mutilazione; due strappi in una volta—<br>la sua signora bandita e un membro reciso.<br>Raccoglie il bastone<br>Afferrato questo bastone d'[[concepts/honour\|onore]], là esso stia<br>dove meglio si conviene che sia, in mano d'Enrico.<br>Dà il bastone a [[archetypes/king\|re]] Enrico |
+| SUFFOLK | Così s'abbatte questo alto pino e china i suoi rami;<br>così la [[concepts/pride\|superbia]] d'[[characters/eleanor\|Eleonora]] muore nei suoi anni più verdi. |
+| YORK | Signori, lasciatelo andare. Piaccia a vostra maestà,<br>questo è il giorno fissato per il combattimento,<br>e pronti sono l'accusatore e l'accusato—<br>l'armaiolo e il suo garzone—a entrare nell'arena,<br>se piace a vostra altezza vedere il duello. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Sì, mio buon signore, ché a posta per questo<br>lasciai la [[settings/court\|corte]], per veder provata questa lite. |
+| [[archetypes/king\|RE]] ENRICO | In nome di Dio, si preparino l'arena e ogni cosa;<br>qui la finiscano, e Dio difenda il diritto. |
+| YORK | Mai vidi uomo peggio in arnese,<br>o più timoroso di combattere, dell'accusatore,<br>il servo di quest'armaiolo, signori miei. |
+| *(didascalia)* | Entrano da una porta Horner l'armaiolo e i suoi |
+| YORK | vicini, che bevono tanto alla sua salute ch'egli è<br><br>ubriaco; ed egli entra con un tamburino davanti a sé |
+| *(didascalia)* | e portando il suo bastone con un sacchetto di sabbia legato a |
+| YORK | esso. Entra dall'altra porta Peter suo garzone, anch'egli con<br><br>un tamburino e un bastone col sacchetto di sabbia, e apprendisti<br><br>che bevono alla sua salute |
+| PRIMO VICINO | (offrendo da bere a Horner) Ecco, vicino Horner, bevo alla tua salute in una coppa di sack, e non [[concepts/fear\|temere]], vicino, te la caverai abbastanza [[motifs/well\|bene]]. |
+| SECONDO VICINO | (offrendo da bere a Horner) Ed ecco, vicino, ecco una coppa di charneco. |
+| *(didascalia)* | TERZO VICINO (offrendo da bere a Horner) Ecco un boccale di buona birra [[topoi/double\|doppia]], vicino, bevi e sta' allegro, e non [[concepts/fear\|temere]] il tuo garzone. HORNER accettando le offerte di bere Venga, in [[concepts/faith\|fede]] mia brinderò con tutti voi, e un fico secco per Peter. |
+| PRIMO APPRENDISTA | (offrendo da bere a Peter) Ecco, Peter, bevo alla tua salute, e non aver paura. |
+| SECONDO APPRENDISTA | (offrendo da bere a Peter) Ecco, Peter, ecco una pinta di vino chiaretto per te. |
+| TERZO APPRENDISTA | (offrendo da bere a Peter) Ed ecco un quarto per me, e sta' allegro, Peter, e non [[concepts/fear\|temere]] il tuo padrone. Combatti per l'onore degli apprendisti! |
+| *(didascalia)* | PETER rifiutando le offerte di bere Vi ringrazio tutti. Bevete e pregate per me, vi prego, ché credo d'aver preso il mio ultimo sorso in questo mondo. Ecco, Robin, se muoio, ti dò il mio grembiule; e, Will, tu avrai il mio martello; ed ecco, Tom, prendi tutti i denari che ho. OSignore benedicimi, prego Dio, ché non son mai capace di misurarmi col mio padrone, ha già imparato tanta scherma. |
+| SALISBURY | Via, lasciate il bere, e venite alle mani. (A Peter) Tu là, come ti chiami? |
+| PETER | Peter, in verità. |
+| SALISBURY | Peter? E poi? |
+| PETER | Thump. |
+| SALISBURY | Thump! Allora bada di batter [[motifs/well\|bene]] il tuo padrone. |
+| HORNER | Padroni, son venuto qui, per così dire, su istigazione del mio garzone, per provare che lui è un furfante e io un uomo onesto; e quanto al [[characters/duke-of-york\|duca di York]], prendo la mia [[motifs/death\|morte]] a testimone che non gli volli mai alcun male, né al [[archetypes/king\|re]], né alla [[characters/queen\|regina]]; e perciò, Peter, a te con un colpo dritto. |
+| YORK | Sbrigatevi; la lingua di questo furfante comincia a [[topoi/double\|raddoppiare]]. |
+| *(didascalia)* | Le trombe suonano l'allarme ai combattenti. Combattono e Peter colpisce Horner sulla testa e l'abbatte |
+| HORNER | Fermo, Peter, fermo—confesso, confesso il tradimento. Muore |
+| YORK | (a un attendente, indicando Horner) Portate via la sua arma. (A Peter) Amico, ringrazia Dio e il buon vino nella pancia del tuo padrone. |
+| PETER | [inginocchiandosi] O Dio, ho vinto il mio nemico in questa presenza? Oh, Peter, hai prevalso nel diritto. |
+| [[archetypes/king\|RE]] ENRICO | (agli attendenti, indicando Horner)<br>Andate, togliete quel traditore dalla nostra vista,<br>ché per la sua [[motifs/death\|morte]] scorgiamo la sua [[concepts/guilt\|colpa]].<br>E Dio nella sua giustizia ci ha rivelato<br>la [[concepts/truth\|verità]] e l'innocenza di questo pover'uomo,<br>che egli aveva pensato d'uccidere a torto.<br>(A Peter) Vieni, amico, seguici per la tua ricompensa. |
+| *(didascalia)* | Suona uno squillo. Escono, alcuni portando il [[concepts/body\|corpo]] di Horner |
+
+### Atto 2, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il duca Humphrey di [[characters/gloucester\|Gloucester]] e i suoi uomini in mantelli da lutto |
+| [[characters/gloucester\|GLOUCESTER]] | Così a volte il giorno più splendente ha una nube;<br>e all'[[motifs/summer\|estate]] sempre succede<br>lo sterile [[motifs/winter\|inverno]], col suo iroso freddo pungente;<br>così affanni e gioie abbondano al fuggir delle [[motifs/seasons\|stagioni]].<br>Signori, che [[motifs/clock\|ora]] è? |
+| SERVO | Le dieci, mio signore. |
+| [[characters/gloucester\|GLOUCESTER]] | Le dieci è l'ora che mi fu fissata<br>per attendere il venire della mia punita Duchessa;<br>a fatica può ella sopportare le strade di selce,<br>calpestandole coi suoi piedi delicati.<br>Dolce Nell, male può il tuo nobile animo tollerare<br>che l'abietta plebe fissi il tuo volto<br>con sguardi invidiosi, ridendo della tua vergogna,<br>quella che un tempo seguiva le ruote del tuo superbo carro<br>quando cavalcavi in trionfo per le strade.<br>Ma zitto, credo ch'ella venga; e preparerò<br>i miei occhi rigati di lacrime a veder le sue miserie. |
+| *(didascalia)* | Entra la Duchessa, madama [[characters/eleanor\|Eleonora]] Cobham, a piedi nudi, |
+| [[characters/gloucester\|GLOUCESTER]] | con un lenzuolo bianco addosso, versi scritti appuntati<br><br>sulla schiena, e portando una candela di cera in<br><br>mano; è accompagnata dai [due sceriffi] di<br><br>[[settings/london\|Londra]], e da Sir John Stanley, e da ufficiali con ronconi<br><br>e alabarde |
+| SERVO | (a [[characters/gloucester\|Gloucester]]) Se piace a vostra grazia, la togliamo agli sceriffi. |
+| [[characters/gloucester\|GLOUCESTER]] | No, non vi muovete, per le vostre vite, lasciatela passare. |
+| DUCHESSA | Venite, mio signore, a vedere la mia aperta vergogna?<br>Ora anche tu fai penitenza. Guarda come fissano,<br>vedi come la volubile moltitudine punta il dito<br>e scuote il capo, e getta gli occhi su di te.<br>Ah, [[characters/gloucester\|Gloucester]], nasconditi dai loro odiosi sguardi,<br>e, chiuso nel tuo stanzino, piangi la mia vergogna,<br>e maledici i tuoi nemici—i miei e i tuoi. |
+| [[characters/gloucester\|GLOUCESTER]] | Sii paziente, gentile Nell; dimentica questo dolore. |
+| DUCHESSA | Ah, [[characters/gloucester\|Gloucester]], insegnami a dimenticare me stessa;<br>ché mentre penso d'essere la tua sposa,<br>e tu un principe, Protettore di questa terra,<br>mi pare che non dovrei esser così condotta in giro,<br>avvolta nella vergogna, con carte sulla schiena,<br>e seguita da una plebaglia che si rallegra<br>di vedere le mie [[motifs/tears\|lacrime]] e udire i miei gemiti profondi.<br>La selce spietata mi taglia i teneri piedi,<br>e quando sussulto, l'invidiosa gente ride,<br>e mi dice di badare a come cammino.<br>Ah, Humphrey, posso portare questo giogo di vergogna?<br>Credi tu ch'io mai guarderò il mondo,<br>o dirò felici coloro che godono il sole?<br>No, tenebra sarà la mia luce, e la [[motifs/night\|notte]] il mio giorno;<br>pensare alla mia pompa sarà il mio inferno.<br>Talvolta dirò che sono la moglie del duca Humphrey,<br>e lui un principe e reggitore del paese;<br>pure così egli reggeva, e tal principe era,<br>che stette a guardare mentre io, sua desolata Duchessa,<br>ero fatta [[concepts/wonder\|spettacolo]] e bersaglio d'ogni dito<br>per ogni ozioso mascalzone al seguito.<br>Ma tu sii mite e non arrossire della mia vergogna,<br>né muoverti per nulla, finché l'ascia della [[motifs/death\|morte]]<br>non penda su te, come certo presto farà.<br>Ché Suffolk, colui che tutto può in tutto<br>presso colei che t'odia e odia noi tutti,<br>e York, e l'empio Beaufort, quel falso prete,<br>han tutti impaniato cespugli per tradire le tue ali,<br>e vola come vuoi, ti irretiranno.<br>Ma tu non [[concepts/fear\|temere]] finché il tuo piede non sia preso,<br>né cercar mai di prevenire i tuoi nemici. |
+| [[characters/gloucester\|GLOUCESTER]] | Ah, Nell, basta; tu miri tutta di traverso.<br>Devo offendere prima d'esser condannato,<br>e avessi venti volte tanti nemici,<br>e ciascuno d'essi venti volte il suo potere,<br>tutti costoro non potrebbero procurarmi alcun danno<br>finché sono leale, fedele e senza delitto.<br>Vorresti ch'io ti salvassi da quest'obbrobrio?<br>Ebbene, il tuo scandalo non ne sarebbe cancellato,<br>ma io sarei in pericolo per la violazione della legge.<br>Il tuo maggior aiuto è la quiete, gentile Nell.<br>Ti prego, disponi il tuo cuore alla pazienza.<br>Questa [[concepts/wonder\|meraviglia]] di pochi giorni sarà presto consumata. |
+| *(didascalia)* | Entra un araldo |
+| ARALDO | Convoco vostra grazia al parlamento di sua maestà, tenuto a Bury il primo del mese prossimo. |
+| [[characters/gloucester\|GLOUCESTER]] | E il mio consenso non fu mai chiesto prima in questo?<br>Questo è agire di nascosto. [[motifs/well\|Bene]], vi sarò. Esce l'araldo<br>Mia Nell, prendo congedo; e, signor sceriffo,<br>non oltrepassi la sua penitenza il mandato del [[archetypes/king\|re]]. |
+| *(didascalia)* | PRIMO SCERIFFO |
+| [[characters/gloucester\|GLOUCESTER]] | Se piace a vostra grazia, qui il mio mandato si ferma,<br>e Sir John Stanley è ora incaricato<br>di condurla con sé nell'isola di Man. |
+| [[characters/gloucester\|GLOUCESTER]] | Dovete voi, Sir John, aver cura della mia signora? |
+| STANLEY | Così m'è dato in carico, se piace a vostra grazia. |
+| [[characters/gloucester\|GLOUCESTER]] | Non trattatela peggio perché io prego<br>che la trattiate [[motifs/well\|bene]]. Il mondo può tornare a ridere,<br>e io posso vivere per farvi cortesia se<br>voi la farete a lei. E così, Sir John, addio. 85 |
+| *(didascalia)* | [[characters/gloucester\|Gloucester]] comincia ad andarsene |
+| DUCHESSA | Come, andate, mio signore, e non mi dite addio? |
+| [[characters/gloucester\|GLOUCESTER]] | Testimoni le mie [[motifs/tears\|lacrime]]—non posso fermarmi a parlare. |
+| *(didascalia)* | Escono [[characters/gloucester\|Gloucester]] e i suoi uomini |
+| DUCHESSA | Sei andato anche tu? Ogni conforto vada con te,<br>ché nessuno resta con me. La mia gioia è la [[motifs/death\|morte]]—<br>la [[motifs/death\|morte]], al cui nome spesso ebbi paura,<br>perché desideravo l'[[concepts/eternity\|eternità]] di questo mondo.<br>Stanley, ti prego, va' e portami via di qui.<br>Non m'importa dove, ché non chiedo favore,<br>solo conducimi dove t'è comandato. |
+| STANLEY | Ebbene, madama, è nell'isola di Man,<br>là per esser trattata secondo il vostro stato. |
+| DUCHESSA | Ciò è abbastanza brutto, ché non sono che obbrobrio;<br>e sarò dunque trattata obbrobriosamente? |
+| STANLEY | Come una duchessa e signora del duca Humphrey,<br>secondo quello stato sarete trattata. |
+| DUCHESSA | Sceriffo, addio, e ti vada meglio che a me,<br>sebbene tu sia stato la scorta della mia vergogna. |
+| *(didascalia)* | PRIMO SCERIFFO |
+| DUCHESSA | È il mio ufficio, e, madama, perdonatemi. |
+| DUCHESSA | Sì, sì, addio—il tuo ufficio è compiuto. |
+| *(didascalia)* | Escono gli sceriffi |
+| DUCHESSA | Venite, Stanley, andiamo? |
+| STANLEY | Madama, compiuta la vostra penitenza, gettate via questo lenzuolo,<br>e andiamo a vestirvi per il nostro [[motifs/journey\|viaggio]]. |
+| DUCHESSA | La mia vergogna non si muterà col lenzuolo—<br>no, penderà sulle mie più ricche vesti<br>e si mostrerà, per quanto io mi adorni.<br>Va', apri la via, bramo vedere la mia [[motifs/prison\|prigione]]. Escono |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Suona una fanfara. Entrano al parlamento: entrano due araldi davanti, poi i duchi di [[characters/buckingham\|Buckingham]] e di Suffolk, e poi il [[characters/duke-of-york\|duca di York]] e [[characters/cardinal-beaufort\|il cardinale Beaufort]], e poi [[archetypes/king\|re]] Enrico e [[characters/queen-margaret\|Margherita]], e poi i conti di Salisbury e Warwick, con attendenti |
+| [[archetypes/king\|RE]] ENRICO | Mi stupisco che il mio signore di [[characters/gloucester\|Gloucester]] non sia venuto.<br>“Non è sua usanza essere l'ultimo,<br>qualunque occasione lo tenga ora lontano da noi. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Non potete vedere, o non volete osservare,<br>la stranezza del suo volto mutato?<br>Con quale maestà si porta?<br>Quanto insolente è divenuto di recente?<br>Quanto superbo, quanto perentorio, e dissimile da sé?<br>Ricordiamo il [[motifs/time\|tempo]] in cui era mite e affabile,<br>e se solo gettavamo uno sguardo da lontano,<br>subito egli era in ginocchio,<br>tanto che tutta la [[settings/court\|corte]] l'ammirava per sommissione.<br>Ma incontratelo ora, e sia pure di mattina<br>quando ognuno dà il buon [[motifs/time\|giorno]],<br>egli corruga la fronte, e mostra occhio irato,<br>e passa con ginocchio rigido e non piegato,<br>sdegnando l'omaggio che a noi si deve.<br>I cagnolini non son degnati quando ringhiano,<br>ma i grandi tremano quando il [[motifs/lion\|leone]] rugge—<br>e Humphrey non è piccol uomo in Inghilterra.<br>Primo, notate ch'egli v'è vicino di discendenza,<br>e, se voi cadeste, è il prossimo a salire.<br>Mi pare dunque che non sia prudenza,<br>considerando quale animo rancoroso egli porta<br>e il suo vantaggio dopo il vostro decesso,<br>ch'egli s'aggiri intorno alla vostra regale persona,<br>o sia ammesso al Consiglio di vostra altezza.<br>Con la lusinga ha vinto i cuori del popolo,<br>e quando gli piaccia far tumulto,<br>“c'è da temere che tutti lo seguiranno.<br>Ora è [[motifs/spring\|primavera]], e le erbacce hanno radici superficiali;<br>tollerarle ora, ed esse sopraffaranno il [[motifs/garden\|giardino]],<br>e soffocheranno le erbe per mancanza di cura.<br>La riverente cura che porto al mio signore<br>m'ha fatto raccogliere questi pericoli nel Duca.<br>Se è sciocco, chiamatelo [[concepts/fear\|timore]] di donna;<br>il qual [[concepts/fear\|timore]], se migliori ragioni sanno soppiantare,<br>sottoscriverò e dirò che ho fatto torto al Duca.<br>Mio signore di Suffolk, [[characters/buckingham\|Buckingham]] e York,<br>confutate la mia accusa se potete,<br>o concludete che le mie parole hanno valore. |
+| SUFFOLK | [[motifs/well\|Bene]] ha vostra altezza penetrato in questo Duca,<br>e se a me fosse toccato prima dire il mio animo,<br>credo avrei raccontato il racconto di vostra grazia.<br>La Duchessa per sua istigazione,<br>sulla mia vita, cominciò le sue diaboliche pratiche;<br>o, se non fu partecipe di quelle colpe,<br>pur vantando la sua alta discendenza,<br>come subito dopo il [[archetypes/king\|re]] egli era erede in successione,<br>e con tali alti vanti della sua nobiltà,<br>istigò la forsennata Duchessa dal cervello malato<br>a ordire con mezzi scellerati la caduta del nostro sovrano.<br>Liscia corre l'[[motifs/water\|acqua]] dove il ruscello è profondo,<br>e nella sua semplice apparenza egli cova tradimento.<br>La volpe non abbaia quando vuol rubare l'[[motifs/lamb\|agnello]].<br>(A [[archetypes/king\|re]] Enrico)<br>No, no, mio sovrano, [[characters/gloucester\|Gloucester]] è un uomo<br>non ancora scandagliato, e pieno di profondo inganno. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a [[archetypes/king\|re]] Enrico)<br>Non escogitò egli, contro la forma della legge,<br>strane morti per piccole offese commesse? |
+| YORK | (a [[archetypes/king\|re]] Enrico)<br>E non riscosse egli, nella sua Protettoria,<br>grandi somme di denaro per tutto il regno<br>per la paga dei soldati in Francia, e non le mandò mai,<br>per cui le città ogni giorno si ribellavano? |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[archetypes/king\|re]] Enrico)<br>Bah, queste son colpe piccole a fronte di colpe ignote,<br>che il [[motifs/time\|tempo]] porterà alla luce nel liscio duca<br>Humphrey. |
+| [[archetypes/king\|RE]] ENRICO | Signori miei, in breve: la cura che avete di noi<br>nel falciare le spine che offenderebbero il nostro piede<br>è degna di lode, ma dirò la mia [[concepts/conscience\|coscienza]]?<br>Il nostro parente [[characters/gloucester\|Gloucester]] è tanto [[archetypes/innocent\|innocente]]<br>dal meditare tradimento alla nostra regale persona<br>quanto l'[[motifs/lamb\|agnello]] di latte o l'innocua colomba.<br>Il Duca è virtuoso, mite, e troppo [[motifs/well\|ben]] disposto<br>per sognare il male o macchinare la mia rovina. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ah, che c'è di più pericoloso di questa sciocca fiducia?<br>Sembra una colomba? Le sue piume son solo prestate,<br>ché egli è disposto come l'odioso corvo.<br>È un [[motifs/lamb\|agnello]]? La sua pelle gli è certo imprestata,<br>ché egli è inclinato come il lupo rapace.<br>Chi non sa rubare una forma, se medita inganno?<br>Badate, mio signore, il bene di noi tutti<br>pende dal troncare quell'uomo fraudolento. |
+| *(didascalia)* | Entra il duca di Somerset |
+| *(didascalia)* | SOMERSET inginocchiandosi davanti a [[archetypes/king\|re]] Enrico |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ogni salute al mio grazioso sovrano. |
+| [[archetypes/king\|RE]] ENRICO | Benvenuto, lord Somerset. Che nuove dalla Francia? |
+| SOMERSET | Che ogni vostro diritto in quei territori<br>v'è del tutto tolto—tutto è perduto. |
+| [[archetypes/king\|RE]] ENRICO | Fredda novella, lord Somerset; ma sia fatta la volontà di Dio. |
+| *(didascalia)* | Somerset si alza |
+| YORK | (a parte)<br>Fredda novella per me, ché avevo [[concepts/hope\|speranza]] di Francia,<br>così fermamente come [[concepts/hope\|spero]] nella fertile Inghilterra.<br>Così i miei fiori sono arsi nel germoglio,<br>e i bruchi mi divorano le [[motifs/leaves\|foglie]]. 90<br>Ma rimedierò a quest'affare fra non molto,<br>o venderò il mio titolo per una gloriosa [[motifs/grave\|tomba]]. |
+| *(didascalia)* | Entra il duca Humphrey di [[characters/gloucester\|Gloucester]] |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] inginocchiandosi davanti a [[archetypes/king\|re]] Enrico |
+| YORK | Ogni felicità al mio signore il [[archetypes/king\|re]].<br>Perdono, mio sire, se ho tardato tanto. |
+| SUFFOLK | No, [[characters/gloucester\|Gloucester]], sappi che sei venuto troppo presto 95<br>se non sei più leale di quel che sei.<br>Qui ti arresto per alto tradimento. |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] alzandosi |
+| SUFFOLK | [[motifs/well\|Bene]], duca di Suffolk, non mi vedrai arrossire,<br>né mutar volto per questo arresto.<br>Un cuore senza macchia non si sgomenta facilmente.<br>La più pura [[motifs/spring\|fonte]] non è così libera di fango<br>come io son netto di tradimento al mio sovrano.<br>Chi può accusarmi? In che sono colpevole? |
+| YORK | “Si pensa, mio signore, che prendeste doni dalla Francia,<br>e, essendo Protettore, trattenneste la paga dei soldati,<br>per cui sua altezza ha perduto la Francia. |
+| [[characters/gloucester\|GLOUCESTER]] | È solo pensato? Chi son quelli che lo pensano?<br>Mai derubai i soldati della loro paga,<br>né mai ebbi un penny di dono dalla Francia.<br>M'aiuti Dio, come ho vegliato la [[motifs/night\|notte]],<br>sì, [[motifs/night\|notte]] dopo [[motifs/night\|notte]], studiando il bene d'Inghilterra,<br>quel soldo che mai strappai al [[archetypes/king\|re]],<br>o qualunque grosso ammassai a mio uso,<br>sia prodotto contro di me nel giorno del mio giudizio I<br>No: molte libbre della mia propria riserva,<br>perché non volevo tassare il povero popolo,<br>ho sborsato alle guarnigioni,<br>e mai chiesi restituzione. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Vi torna [[motifs/well\|bene]], mio signore, dire tanto. |
+| [[characters/gloucester\|GLOUCESTER]] | Non dico più della [[concepts/truth\|verità]], m'aiuti Dio. |
+| YORK | Nella vostra Protettoria escogitaste<br>strane torture per i rei, mai udite,<br>tanto che l'Inghilterra fu infamata di tirannia. |
+| [[characters/gloucester\|GLOUCESTER]] | Ebbene, è [[motifs/well\|ben]] noto che mentre ero Protettore<br>la pietà era tutta la colpa che era in me,<br>ché mi struggevo alle [[motifs/tears\|lacrime]] d'un reo,<br>e parole umili erano riscatto della loro colpa.<br>Se non fosse un sanguinario assassino,<br>o turpe ladro fellone che spogliava i poveri viandanti,<br>mai diedi loro condegna pena.<br>L'omicidio, davvero—quel sanguinoso peccato—lo torturai<br>più del fellone o di qualunque altro delitto. |
+| SUFFOLK | Mio signore, queste colpe son leggere, presto risposte,<br>ma più gravi delitti son posti a vostro carico<br>dei quali non potete facilmente purgarvi.<br>Vi arresto in nome di sua altezza,<br>e qui vi affido al mio buon lord Cardinale<br>che vi custodisca fino al vostro futuro [[motifs/time\|tempo]] di giudizio. |
+| [[archetypes/king\|RE]] ENRICO | Mio signore di [[characters/gloucester\|Gloucester]], è mia speciale [[concepts/hope\|speranza]]<br>che vi discolperete d'ogni sospetto.<br>La mia [[concepts/conscience\|coscienza]] mi dice che siete [[archetypes/innocent\|innocente]]. |
+| [[characters/gloucester\|GLOUCESTER]] | Ah, grazioso signore, questi giorni son pericolosi.<br>La virtù è soffocata dalla turpe [[concepts/ambition\|ambizione]],<br>e la [[concepts/charity\|carità]] cacciata di qui dalla mano del rancore.<br>La turpe istigazione predomina,<br>e l'equità è esiliata dalla terra di vostra altezza.<br>So che il loro complotto è d'avere la mia vita,<br>e se la mia [[motifs/death\|morte]] potesse render felice quest'isola<br>e segnare il termine della loro tirannia,<br>la spenderei con ogni buona voglia.<br>Ma la mia è fatta il prologo del loro dramma,<br>ché migliaia d'altri che ancora non sospettano pericolo<br>non basteranno a concludere la loro ordita [[forms/tragedy\|tragedia]].<br>Gli occhi rossi e scintillanti di Beaufort spifferano la malizia del suo cuore,<br>e la fronte nuvolosa di Suffolk il suo odio tempestoso;<br>l'acuto [[characters/buckingham\|Buckingham]] scarica con la lingua<br>l'invidioso peso che gli grava sul cuore;<br>e l'ostinato York, che tende alla [[motifs/moon\|luna]],<br>il cui braccio presuntuoso ho tirato indietro,<br>con falsa accusa mira alla mia vita.<br>(A [[characters/queen-margaret\|Margherita]])<br>E voi, mia sovrana signora, con gli altri,<br>senza causa avete posto disgrazie sul mio capo,<br>e con ogni vostro sforzo avete aizzato<br>il mio carissimo sire a essermi nemico.<br>Sì, tutti voi avete messo le teste insieme—<br>io stesso ebbi notizia dei vostri conventicoli—<br>e tutto per togliere la mia innocente vita.<br>Non mi mancheranno falsi testimoni per condannarmi,<br>né copia di tradimenti per accrescere la mia [[concepts/guilt\|colpa]].<br>L'antico proverbio sarà [[motifs/well\|ben]] compiuto:<br>‘Un bastone si trova presto per battere un cane’. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a [[archetypes/king\|re]] Enrico)<br>Mio sire, il suo inveire è intollerabile.<br>Se coloro che si curano di custodire la vostra regale persona<br>dal coltello segreto del tradimento e dalla rabbia del traditore<br>sono così rimbrottati, sgridati e strapazzati,<br>e al reo è concesso libero sfogo di parola,<br>si raffredderanno nello zelo verso vostra grazia. |
+| SUFFOLK | (a [[archetypes/king\|re]] Enrico)<br>Non ha egli rinfacciato alla nostra sovrana signora qui<br>parole ignominiose, sebbene dottamente velate,<br>come s'ella avesse istigato taluni a giurare<br>false accuse per abbattere il suo stato? |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ma io posso concedere a chi perde licenza di brontolare. |
+| [[characters/gloucester\|GLOUCESTER]] | Detto più vero di quanto s'intendeva. Perdo davvero;<br>maledetti i vincitori, ché mi giocarono falso!<br>E [[motifs/well\|ben]] tali perdenti possono aver licenza di parlare. |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[archetypes/king\|re]] Enrico)<br>Storcerà il senso, e ci terrà qui tutto il giorno.<br>Lord Cardinale, è vostro prigioniero. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | (a taluni dei suoi attendenti)<br>Signori, portate via il Duca e custoditelo bene. |
+| [[characters/gloucester\|GLOUCESTER]] | Ah, così [[archetypes/king\|re]] Enrico getta via la sua gruccia<br>prima che le sue gambe sian ferme a portare il suo [[concepts/body\|corpo]].<br>Così il pastore è scacciato dal tuo fianco,<br>e i lupi ringhiano su chi ti roderà primo.<br>Ah, fosse falso il mio [[concepts/fear\|timore]]; ah, lo fosse!<br>Ché, buon [[archetypes/king\|re]] Enrico, la tua [[motifs/decay\|rovina]] io [[concepts/fear\|temo]]. |
+| *(didascalia)* | Esce [[characters/gloucester\|Gloucester]], sotto la guardia degli uomini del Cardinale |
+| [[archetypes/king\|RE]] ENRICO | Signori miei, ciò che alle vostre saggezze paia meglio<br>fate o disfate, come se noi stessi fossimo qui. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Come, vostra altezza lascerà il Parlamento? |
+| [[archetypes/king\|RE]] ENRICO | Sì, Margherita, il mio cuore è annegato di dolore,<br>il cui flutto comincia a scorrere nei miei occhi,<br>il mio [[concepts/body\|corpo]] tutto cinto di miseria;<br>ché che c'è di più misero del malcontento?<br>Ah, zio Humphrey, nel tuo volto vedo<br>la mappa dell'[[concepts/honour\|onore]], della [[concepts/truth\|verità]] e della lealtà;<br>e pure, buon Humphrey, l'ora è ancora a venire<br>in cui io ti trovassi falso, o temessi la tua [[concepts/faith\|fede]].<br>Qual astro minaccioso ora invidia il tuo stato,<br>sì che questi grandi signori e Margherita nostra [[characters/queen\|regina]]<br>cercano la rovina della tua innocua vita?<br>Tu non facesti mai torto a loro, né torto ad alcun uomo.<br>E come il macellaio porta via il vitello,<br>e lega il meschino, e lo batte quando si dibatte,<br>portandolo al sanguinoso macello,<br>così senza rimorso l'han portato via;<br>e come la madre corre muggendo qua e là,<br>guardando la via per cui andò il suo innocuo piccolo,<br>e nulla può fare che piangere la perdita del suo caro;<br>così io stesso piango il caso del buon [[characters/gloucester\|Gloucester]]<br>con tristi e inutili [[motifs/tears\|lacrime]], e con occhi offuscati<br>lo seguo, e non posso fargli bene,<br>tanto son potenti i suoi nemici giurati.<br>Piangerò le sue sorti, e fra ogni gemito<br>dirò ‘Chi è traditore? [[characters/gloucester\|Gloucester]], egli non lo è’. |
+| *(didascalia)* | Esce con Salisbury e Warwick |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Nobili signori, la fredda [[motifs/snow\|neve]] si scioglie ai caldi raggi del sole.<br>Enrico mio signore è freddo nei grandi affari,<br>troppo pieno di sciocca pietà; e l'apparenza di [[characters/gloucester\|Gloucester]]<br>l'inganna come il lagrimoso coccodrillo<br>col dolore irretisce i viandanti impietositi,<br>o come la serpe attorta su una sponda fiorita<br>con la spoglia lucente e screziata punge un [[archetypes/child\|bambino]]<br>che per la [[concepts/beauty\|bellezza]] la crede eccellente.<br>Credetemi, signori, non fosse nessuno più saggio di me—<br>e pure in questo giudico buono il mio ingegno—<br>questo [[characters/gloucester\|Gloucester]] sarebbe presto sgombrato dal mondo<br>per sgombrarci dal [[concepts/fear\|timore]] che abbiamo di lui. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Che egli muoia è degna prudenza;<br>ma pure ci manca un pretesto per la sua [[motifs/death\|morte]].<br>Conviene che sia condannato per corso di legge. |
+| SUFFOLK | Ma, a mio parere, non sarebbe prudenza.<br>Il [[archetypes/king\|re]] s'adoprerà sempre a salvargli la vita,<br>il popolo forse si solleverà a salvargli la vita;<br>e pure non abbiamo che argomenti da nulla,<br>oltre il sospetto, che lo mostrino degno di [[motifs/death\|morte]]. |
+| YORK | Sì che, per questo, non vorreste che morisse? |
+| SUFFOLK | Ah, York, nessun uomo vivo lo vuole quanto io. |
+| YORK | (a parte)<br>È York che ha più ragione per la sua [[motifs/death\|morte]].<br>(Ad alta voce) Ma mio lord Cardinale, e voi mio signore di<br>Suffolk,<br>dite come pensate, e parlate dall'anima.<br>Non sarebbe tutt'uno porre un'aquila digiuna<br>a guardare il pulcino da un nibbio affamato,<br>che porre il duca Humphrey a Protettore del [[archetypes/king\|re]]? |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Così il povero pulcino sarebbe certo della [[motifs/death\|morte]]. |
+| SUFFOLK | Madama, è vero; e non sarebbe [[concepts/madness\|follia]] allora<br>far la volpe custode dell'ovile,<br>la quale, essendo accusata d'astuto assassinio,<br>vedrebbe la sua [[concepts/guilt\|colpa]] oziosamente passata sopra<br>perché il suo proposito non è eseguito?<br>No—muoia in quanto è volpe,<br>per [[concepts/nature\|natura]] provata nemica del gregge,<br>prima che le sue mascelle sian macchiate di [[motifs/blood\|sangue]] vermiglio,<br>come Humphrey, provato con ragioni, al mio sire.<br>E non state a cavillare sul come ucciderlo;<br>sia con trappole, con lacci, con sottigliezza,<br>dormendo o vegliando, non importa come,<br>purché sia morto; ché è buono accorgimento<br>quello che dà scacco primo a chi primo medita inganno. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Tre volte nobile Suffolk, è detto risolutamente. |
+| SUFFOLK | Non risoluto, se non fosse compiuto altrettanto;<br>ché le cose son spesso dette e raro intese;<br>ma poiché il mio cuore s'accorda con la mia lingua,<br>vedendo che l'atto è meritorio,<br>e serve a preservare il mio sovrano dal suo nemico,<br>dite solo la parola e io gli sarò prete. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Ma io lo vorrei morto, mio signore di Suffolk,<br>prima che voi possiate prendere i debiti ordini da prete.<br>Dite che consentite e approvate [[motifs/well\|bene]] l'atto,<br>e io provvederò il suo carnefice;<br>tanto mi sta a cuore la sicurezza del mio sire. |
+| SUFFOLK | Ecco la mia mano; l'atto è degno d'esser fatto. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | E COSÌ dico io. |
+| YORK | E io. E ora che noi tre l'abbiamo detto,<br>importa poco chi impugni la nostra sentenza. |
+| *(didascalia)* | Entra un corriere |
+| CORRIERE | Gran signore, dall'Irlanda vengo in gran fretta<br>a significare che là i ribelli sono in armi<br>e passano gl'Inglesi a fil di spada.<br>Mandate soccorsi, signori, e fermate la furia a tempo,<br>prima che la piaga divenga incurabile;<br>ché, essendo fresca, v'è grande [[concepts/hope\|speranza]] di rimedio. |
+| *(didascalia)* | Esce |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Una breccia che chiede pronto e spedito riparo!<br>Che consiglio date in questa grave causa? |
+| YORK | Che Somerset sia mandato là come reggente.<br>Conviene impiegare quel fortunato reggitore—<br>testimone la fortuna che ha avuto in Francia. |
+| SOMERSET | Se York, con tutta la sua ricercata accortezza,<br>fosse stato là reggente in luogo mio,<br>non sarebbe mai rimasto in Francia così a lungo. |
+| YORK | No, non per perderla tutta come hai fatto tu.<br>Avrei perduto piuttosto la vita a tempo<br>che portare a [[motifs/home\|casa]] un carico di disonore<br>restando là così a lungo finché tutto fosse perduto.<br>Mostrami una cicatrice segnata sulla tua pelle.<br>Carne d'uomo conservata così intatta raro vince. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | No, allora questa scintilla diverrà [[motifs/fire\|fuoco]] furioso<br>se [[motifs/wind\|vento]] ed esca son portati a nutrirlo.<br>Basta, buon York; dolce Somerset, sta' quieto.<br>La tua sorte, York, fossi tu stato là reggente,<br>si sarebbe forse dimostrata assai peggiore della sua. |
+| YORK | Come, peggio del nulla? No, allora la vergogna prenda tutti! |
+| SOMERSET | E, nel numero, te che auguri vergogna. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Mio signore di York, provate qual sia la vostra fortuna.<br>I rozzi fanti d'Irlanda sono in armi<br>e impastano l'argilla col [[motifs/blood\|sangue]] degl'Inglesi.<br>Condurrete in Irlanda una schiera d'uomini<br>raccolti a scelta, alcuni da ogni contea,<br>e tenterete la vostra sorte contro gl'Irlandesi? |
+| YORK | Lo farò, mio signore, se piace a sua maestà. |
+| SUFFOLK | Ebbene, la nostra autorità è il suo consenso,<br>e ciò che stabiliamo egli conferma.<br>Dunque, nobile York, prendi tu quest'impresa in mano. |
+| YORK | Son contento. Provvedetemi soldati, signori,<br>mentre io metto ordine ai miei propri affari. |
+| SUFFOLK | Un incarico, lord York, che vedrò eseguito.<br>Ma ora torniamo al falso duca Humphrey. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Basta di lui—ché io lo tratterò<br>in modo che d'ora innanzi non ci turbi più.<br>E dunque, sciogliamoci; il giorno è quasi speso.<br>Lord Suffolk, voi e io dobbiamo parlare di quell'evento. |
+| YORK | Mio signore di Suffolk, entro quattordici giorni<br>a Bristol attendo i miei soldati;<br>ché là li [[motifs/ship\|imbarcherò]] tutti per l'Irlanda. |
+| SUFFOLK | Farò che sia fatto puntualmente, mio signore di York. |
+| *(didascalia)* | Escono tutti tranne York |
+| YORK | Ora, York, o mai, tempra i tuoi pensieri timorosi,<br>e muta il dubbio in risoluzione.<br>Sii ciò che speri d'essere, o ciò che sei<br>cedi alla [[motifs/death\|morte]]; non val la pena di goderlo.<br>Il pallido [[concepts/fear\|timore]] stia con l'uomo di bassa nascita<br>e non trovi ricetto in un cuore regale.<br>Più rapido dei rovesci di primavera viene pensiero su<br>pensiero,<br>e non un pensiero che non pensi alla dignità.<br>Il mio cervello, più affaccendato del ragno operoso,<br>tesse tediose reti per intrappolare i miei nemici.<br>[[motifs/well\|Bene]], nobili, [[motifs/well\|bene]]: è fatto con accortezza<br>mandarmi via con un esercito d'uomini.<br>[[concepts/fear\|Temo]] che non facciate che scaldare la serpe affamata,<br>la quale, covata nei vostri petti, vi pungerà il cuore.<br>Erano uomini che mi mancavano, e voi me li darete.<br>L'accetto di buon grado. Pur siate [[motifs/well\|ben]] certi<br>che mettete armi aguzze in mano a un pazzo.<br>Mentre in Irlanda [[characters/nurse\|nutro]] una potente schiera,<br>susciterò in Inghilterra qualche nera [[motifs/storm\|tempesta]]<br>che soffierà diecimila anime al cielo o all'inferno,<br>e questa fiera tempesta non cesserà d'infuriare<br>finché il cerchio d'oro sul mio capo,<br>come i trasparenti raggi del glorioso sole,<br>non calmi la furia di questa raffica nata dalla follia.<br>E per ministro del mio disegno,<br>ho sedotto un testardo uomo del Kent,<br>John Cade d'Ashford,<br>a far tumulto, come [[motifs/well\|ben]] sa fare,<br>sotto il titolo di John Mortimer.<br>In Irlanda ho visto questo ostinato Cade<br>opporsi a una truppa di fanti,<br>e combattere tanto a lungo che le sue cosce, di dardi,<br>erano quasi come un porcospino dagli aculei aguzzi;<br>e alla fine, essendo soccorso, l'ho visto<br>saltare in piedi come un selvaggio moresco,<br>scuotendo i dardi sanguinosi come quello i suoi [[motifs/bells\|campanelli]].<br>Ben spesso, come un astuto fante dai capelli irsuti,<br>ha conversato col nemico<br>e, non scoperto, è tornato a me<br>e m'ha dato notizia delle loro scelleratezze.<br>Questo diavolo qui sarà il mio sostituto,<br>ché quel John Mortimer, che ora è morto,<br>nel volto, nell'andatura, nel parlare, egli somiglia.<br>Per questo scorgerò l'animo del popolo,<br>come favoriscano la casa e la pretesa di York.<br>Poniamo che sia preso, messo alla ruota e torturato—<br>non so [[motifs/pain\|pena]] che possano infliggergli<br>che lo faccia dire che io lo spinsi a quelle armi.<br>Poniamo che prosperi, com'è molto probabile—<br>allora dall'Irlanda vengo io con la mia forza<br>e mieto la messe che quel manigoldo seminò.<br>Ché, essendo Humphrey morto, come sarà,<br>ed Enrico messo da parte, il prossimo è per me. Esce |
+| *(didascalia)* | Le cortine sono aperte, rivelando il duca Humphrey di [[characters/gloucester\|Gloucester]] nel suo letto con due uomini distesi sul suo petto, che lo soffocano nel letto |
+| PRIMO SICARIO | (al secondo sicario)<br>Corri dal mio signore di Suffolk—fagli sapere<br>che abbiamo spacciato il Duca come ordinò. |
+| SECONDO SICARIO | Oh, fosse ancora da fare! Che abbiamo fatto?<br>Udisti mai uomo così penitente? |
+| *(didascalia)* | Entra il [[characters/duke-of-suffolk\|duca di Suffolk]] |
+| PRIMO SICARIO | Ecco che viene il mio signore. |
+| SUFFOLK | Ora, signori, avete spacciato questa cosa? |
+| PRIMO SICARIO | Sì, mio buon signore, è morto. |
+| SUFFOLK | Ebbene, [[motifs/well\|ben]] detto. Andate, recatevi alla mia casa.<br>Vi ricompenserò per quest'atto ardito.<br><br>Il [[archetypes/king\|re]] e tutti i pari son qui vicino.<br>Avete rifatto per bene il letto? Va tutto [[motifs/well\|bene]],<br>secondo le istruzioni che diedi? |
+| PRIMO SICARIO | Lo è, mio buon signore. |
+| SUFFOLK | Allora chiudete bene le cortine; via, andatevene! |
+| *(didascalia)* | Escono i sicari, chiudendo le cortine mentre |
+| *(didascalia)* | se ne vanno |
+| *(didascalia)* | Suonano le trombe, poi entrano [[archetypes/king\|re]] Enrico e la [[characters/queen\|regina]] |
+| SUFFOLK | Margherita, [[characters/cardinal-beaufort\|il cardinale Beaufort]], il duca di Somerset,<br><br>e attendenti |
+| *(didascalia)* | [[archetypes/king\|RE]] ENRICO a Suffolk |
+| SUFFOLK | Va' a chiamar subito nostro zio alla nostra presenza.<br>Di' che intendiamo giudicare oggi sua grazia<br>se sia colpevole, come si divulga. |
+| SUFFOLK | Lo chiamerò subito, mio nobile signore. |
+| *(didascalia)* | Esce |
+| [[archetypes/king\|RE]] ENRICO | Signori, prendete i vostri posti; e vi prego tutti,<br>non procedete contro nostro zio [[characters/gloucester\|Gloucester]] più rigidamente<br>di quanto per vere prove, di buona fede,<br>sia dimostrato colpevole di macchinazione. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Dio non voglia che alcuna malizia prevalga<br>tanto da condannare senza colpa un nobile uomo!<br>Prego Dio ch'egli si mondi d'ogni sospetto! |
+| [[archetypes/king\|RE]] ENRICO | Ti ringrazio, Meg. Queste parole mi contentano molto. |
+| *(didascalia)* | Entra Suffolk |
+| [[archetypes/king\|RE]] ENRICO | Ebbene? Perché sei pallido? Perché tremi<br>tu?<br>Dov'è nostro zio? Che c'è, Suffolk? |
+| SUFFOLK | Morto nel suo letto, mio signore—[[characters/gloucester\|Gloucester]] è morto. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Per la Vergine, Dio ce ne scampi! |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Segreto giudizio di Dio. Sognai questa notte<br>che il Duca era muto e non poteva dire parola.<br>[[archetypes/king\|Re]] Enrico cade a terra |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Come sta il mio signore? Aiuto, signori—il [[archetypes/king\|re]] è morto! |
+| SOMERSET | Sollevate il suo [[concepts/body\|corpo]]; stringetegli il naso. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Correte, andate, aiuto, aiuto! O Enrico, apri gli occhi! |
+| SUFFOLK | Rinviene di nuovo. Madama, siate paziente. |
+| [[archetypes/king\|RE]] ENRICO | O Dio del cielo! |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Come sta il mio grazioso signore? |
+| SUFFOLK | Coraggio, mio sovrano; grazioso Enrico, coraggio. |
+| [[archetypes/king\|RE]] ENRICO | Come, il mio signore di Suffolk mi consola?<br>Venne proprio ora a cantare la nota del corvo,<br>il cui lugubre canto mi tolse le forze vitali;<br>e crede egli che il pigolìo d'uno scricciolo,<br>gridando conforto da un petto vuoto,<br>possa scacciare il suono udito per primo?<br>Non nascondere il tuo [[motifs/poison\|veleno]] con parole così zuccherate. |
+| *(didascalia)* | Comincia ad alzarsi. Suffolk s'offre d'assisterlo |
+| [[archetypes/king\|RE]] ENRICO | Non mettermi le mani addosso—smetti, dico!<br>Il loro tocco mi spaventa come il morso d'un serpente.<br>Tu, funesto messaggero, fuori dalla mia vista!<br>Sulle tue pupille l'assassina tirannia<br>siede in truce maestà a spaventare il mondo.<br>Non guardarmi, ché i tuoi occhi feriscono—<br>pure non andar via. Vieni, basilisco,<br>e uccidi con la tua vista l'[[archetypes/innocent\|innocente]] che ti guarda.<br>Ché nell'ombra della [[motifs/death\|morte]] troverò gioia;<br>in vita, solo [[topoi/double\|doppia]] [[motifs/death\|morte]], ora che [[characters/gloucester\|Gloucester]] è morto. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Perché strapazzate così il mio signore di Suffolk?<br>Sebbene il Duca gli fosse nemico,<br>pur egli cristianissimamente ne piange la [[motifs/death\|morte]].<br>E quanto a me, nemico com'era mio,<br>potessero liquide [[motifs/tears\|lacrime]], o gemiti che offendono il cuore,<br>o sospiri che consumano il [[motifs/blood\|sangue]] richiamargli la vita,<br>sarei cieca di pianto, malata di gemiti,<br>pallida come primula per sospiri che bevono il [[motifs/blood\|sangue]],<br>e tutto per aver vivo il nobile Duca.<br>Che so io come il mondo possa giudicarmi?<br>Ché è noto che eravamo solo amici finti,<br>si potrà giudicare che io tolsi di mezzo il Duca.<br>Così il mio nome sarà ferito dalla lingua della calunnia<br>e le corti dei principi riempite del mio obbrobrio.<br>Questo guadagno dalla sua [[motifs/death\|morte]]. Ahimè, infelice,<br>esser [[characters/queen\|regina]], e coronata d'infamia. |
+| [[archetypes/king\|RE]] ENRICO | Ah, ahimè per [[characters/gloucester\|Gloucester]], uomo sventurato! |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ahimè per me, più sventurata di lui.<br>Come, ti volti via e nascondi il volto?<br>Non sono un lebbroso ripugnante—guardami!<br>Come, ti sei fatto sordo come la vipera?<br>Sii anche velenoso e uccidi la tua desolata [[characters/queen\|regina]].<br>È tutto il tuo conforto chiuso nella tomba di [[characters/gloucester\|Gloucester]]?<br>Ebbene, allora [[characters/queen-margaret\|Margherita]] non fu mai la tua gioia.<br>Erigi la sua statua e adorala, 80<br>e fa' della mia immagine solo un'insegna di taverna.<br>Fu per questo che quasi naufragai sul mare,<br>e due volte da venti contrari dalla riva d'Inghilterra<br>fui ricacciata al mio clima natale?<br>Che presagiva questo, se non che venti che [[motifs/well\|ben]] ammonivano<br>sembravan dire: ‘Non cercare un nido di scorpioni,<br>né metter piede su questa spiaggia crudele’.<br>Che fec'io allora, se non maledire i gentili soffi<br>e colui che li sciolse dalle loro caverne di bronzo,<br>e comandai loro di soffiare verso la benedetta riva d'Inghilterra,<br>o di volgere la nostra poppa contro uno spaventoso scoglio.<br>Pure Eolo non volle essere assassino,<br>ma lasciò a te quell'odioso ufficio.<br>Il bel mare volteggiante rifiutò d'annegarmi,<br>sapendo che tu m'avresti annegata a<br>riva<br>con [[motifs/tears\|lacrime]] salate come il mare, per la tua durezza.<br>Gli scogli che spaccano s'acquattarono nelle sabbie mobili,<br>e non vollero fracassarmi coi loro fianchi scabri,<br>perché il tuo cuore di selce, più duro di loro,<br>potesse nel tuo palazzo far perire Margherita.<br>Fin dove potei scorgere le tue bianche scogliere,<br>quando dalla tua riva la tempesta ci ricacciò,<br>stetti sui tambucci nella [[motifs/storm\|tempesta]],<br>e quando il cielo fosco cominciò a rubare<br>alla mia vista intenta e bramosa lo spettacolo della tua terra,<br>tolsi dal collo un prezioso [[motifs/jewel\|gioiello]]—<br>era un cuore, cinto di diamanti—<br>e lo gettai verso la tua terra. Il mare lo ricevette,<br>e così desiderai che il tuo [[concepts/body\|corpo]] ricevesse il mio cuore.<br>E proprio allora perdetti la vista della bella Inghilterra,<br>e comandai ai miei occhi d'andarsene col mio cuore,<br>e li chiamai ciechi e fosche lenti<br>per aver perduto di vista la desiderata costa d'Albione.<br>Quante volte ho tentato la lingua di Suffolk—<br>l'agente della tua turpe incostanza—<br>a sedere e [[characters/witch\|stregarmi]], come fece Ascanio,<br>quando alla folle Didone svolgeva<br>le gesta del padre, cominciate in Troia che ardeva!<br>Non sono stregata come lei? O tu non falso come lui?<br>Ahimè, non posso più. Muori, Margherita,<br>ché Enrico piange che tu viva così a lungo.<br>Rumore all'interno. Entrano i conti di Warwick e Salisbury con molti del popolo |
+| WARWICK | (a [[archetypes/king\|re]] Enrico)<br>Si riferisce, possente sovrano,<br>che il buon duca Humphrey è ucciso a tradimento<br>per opera di Suffolk e del [[characters/cardinal-beaufort\|cardinale Beaufort]].<br>Il popolo, come un alveare irato d'[[motifs/bees\|api]]<br>che ha perduto la sua guida, si sparge qua e là<br>e non si cura chi punga per [[concepts/revenge\|vendicarlo]].<br>Io stesso ho calmato la loro rabbiosa sedizione,<br>finché non sappiano il modo della sua [[motifs/death\|morte]]. |
+| [[archetypes/king\|RE]] ENRICO | Che egli sia morto, buon Warwick, è troppo vero.<br>Ma come morì Dio lo sa, non Enrico. |
+| *(didascalia)* | Entra nella sua camera, guarda il suo cadavere senza fiato, |
+| [[archetypes/king\|RE]] ENRICO | e commenta poi la sua súbita [[motifs/death\|morte]]. |
+| WARWICK | Lo farò, mio sire.—Resta, Salisbury,<br>con la rozza moltitudine finché io torni. |
+| *(didascalia)* | Escono Warwick da una porta, Salisbury e |
+| *(didascalia)* | il popolo da un'altra |
+| [[archetypes/king\|RE]] ENRICO | O tu che giudichi tutte le cose, arresta i miei pensieri,<br>i miei pensieri che s'affannano a persuadere l'[[motifs/soul\|anima]] mia<br>che mani violente furon poste sulla vita di Humphrey.<br>Se il mio sospetto è falso, perdonami, Dio,<br>ché il giudizio appartiene solo a te.<br>Volentieri andrei a scaldare le sue pallide labbra<br>con ventimila baci, e a versare<br>sul suo volto un oceano di salse [[motifs/tears\|lacrime]],<br>a dire il mio [[motifs/love\|amore]] al suo tronco muto e sordo,<br>e con le mie dita sentire la sua mano insensibile.<br>Ma tutte vane sono queste povere esequie, |
+| *(didascalia)* | Entra Warwick che apre le cortine e |
+| *(didascalia)* | mostra [[characters/gloucester\|Gloucester]] morto nel suo letto. Il letto è spinto avanti |
+| [[archetypes/king\|RE]] ENRICO | e contemplare la sua immagine morta e terrena,<br>che sarebbe se non far più grande il mio dolore? |
+| WARWICK | Venite qua, grazioso sovrano, guardate questo [[concepts/body\|corpo]]. |
+| [[archetypes/king\|RE]] ENRICO | Ciò è vedere quanto profonda è fatta la mia [[motifs/grave\|fossa]]:<br>ché con la sua [[motifs/soul\|anima]] fuggì ogni mio conforto terreno,<br>ché vedendo lui vedo la mia vita nella [[motifs/death\|morte]]. |
+| WARWICK | Com'è certo che l'[[motifs/soul\|anima]] mia intende vivere<br>con quel tremendo [[archetypes/king\|re]] che prese su di Sé il nostro stato<br>per liberarci dalla maledizione irata del Padre suo,<br>io credo che mani violente furon poste<br>sulla vita di questo tre volte famoso Duca. |
+| SUFFOLK | Un terribile giuramento, giurato con lingua solenne!<br>Che prova dà lord Warwick per il suo giuro? |
+| WARWICK | Vedete come il [[motifs/blood\|sangue]] s'è raccolto nel suo volto.<br>Spesso ho veduto uno [[archetypes/ghost\|spirito]] partito a tempo debito<br>d'aspetto cinereo, magro, pallido ed esangue,<br>essendo tutto discesa al cuore affannato;<br>il quale, nel conflitto che tiene con la [[motifs/death\|morte]],<br>lo attira in aiuto contro il nemico;<br>e quello, col cuore, là si raffredda, e mai ritorna<br>ad arrossare e abbellire di nuovo la guancia.<br>Ma vedete, il suo volto è nero e pieno di [[motifs/blood\|sangue]];<br>le sue pupille più sporgenti che quando viveva,<br>fisse in modo orrendo come d'uomo strangolato;<br>i capelli rizzati; le nari dilatate per il<br>dibattersi;<br>le mani spalancate, come d'uno che afferrò<br>e lottò per la vita e fu con forza soggiogato.<br>Guardate le lenzuola. I suoi capelli, vedete, vi restano attaccati;<br>la sua barba [[motifs/well\|ben]] proporzionata fatta ruvida e arruffata,<br>come il grano d'[[motifs/summer\|estate]] abbattuto dalla tempesta.<br>Non può essere che non sia stato ucciso qui.<br>Il minimo di tutti questi segni sarebbe prova. |
+| SUFFOLK | Ebbene, Warwick, chi avrebbe messo a [[motifs/death\|morte]] il Duca?<br>Io stesso e Beaufort l'avevamo in custodia,<br>e noi, [[concepts/hope\|spero]], signore, non siamo assassini. |
+| WARWICK | Ma entrambi eravate nemici giurati del duca Humphrey,<br>(Al [[characters/cardinal-beaufort\|cardinale Beaufort]])<br>e voi, in verità, avevate il buon Duca in custodia.<br>È probabile che non l'avreste banchettato come un amico;<br>e si vede [[motifs/well\|bene]] ch'egli trovò un nemico. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Voi dunque, a quanto pare, sospettate questi nobili<br>colpevoli dell'intempestiva [[motifs/death\|morte]] del duca Humphrey? |
+| WARWICK | Chi trova la giovenca morta e ancora sanguinante,<br>e vede lì accanto un macellaio con l'ascia,<br>non sospetterà che fu lui a fare la strage?<br>Chi trova la pernice nel nido del nibbio<br>non immaginerà come l'uccello morì,<br>sebbene il nibbio si libri col becco non insanguinato?<br>Altrettanto sospetta è questa [[forms/tragedy\|tragedia]]. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Siete voi il macellaio, Suffolk? Dov'è il vostro coltello?<br>È Beaufort chiamato nibbio? Dove sono i suoi artigli? |
+| SUFFOLK | Non porto coltello per macellare uomini che dormono.<br>Ma qui c'è una spada vindice, arrugginita nell'ozio,<br>che sarà forbita nel cuore rancoroso di colui<br>che m'infama con l'insegna vermiglia dell'assassinio.<br>Di', se osi, superbo signore del Warwickshire,<br>che io son colpevole della [[motifs/death\|morte]] del duca Humphrey. |
+| *(didascalia)* | Esce [[characters/cardinal-beaufort\|il cardinale Beaufort]] assistito da Somerset |
+| WARWICK | Che non osa Warwick, se il falso Suffolk lo sfida? |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Non osa calmare il suo spirito contumelioso,<br>né cessare d'essere un arrogante censore,<br>anche se Suffolk lo sfidasse ventimila volte. |
+| WARWICK | Madama, tacete, con riverenza mi sia detto,<br>ché ogni parola che dite in suo favore<br>è infamia alla vostra regale dignità. |
+| SUFFOLK | Signore d'ingegno ottuso, ignobile nel portamento!<br>Se mai dama fece tanto torto al suo signore,<br>tua madre prese nel suo letto colpevole<br>qualche rozzo villano ignorante, e il nobile ceppo<br>fu innestato con ramo di melo selvatico, del quale tu sei il frutto,<br>e mai della nobile razza dei Neville. |
+| WARWICK | Se non fosse che la [[concepts/guilt\|colpa]] d'assassinio ti fa scudo<br>e che ruberei al carnefice la sua mercede,<br>liberandoti così di diecimila vergogne,<br>e che la presenza del mio sovrano mi fa mite,<br>ti farei, falso e assassino codardo, in ginocchio<br>chiedere perdono del discorso appena detto,<br>e dire che era tua madre che intendevi—<br>che tu stesso nascesti in bastardia!<br>E dopo compiuto tutto questo pauroso omaggio,<br>ti darei la tua paga e manderei la tua [[motifs/soul\|anima]] all'inferno,<br>pernicioso succhia[[motifs/blood\|sangue]] d'uomini che dormono! |
+| SUFFOLK | Tu sarai ben desto mentre verserò il tuo [[motifs/blood\|sangue]],<br>se da questa presenza osi venir con me. |
+| WARWICK | Via, subito, o ti trascinerò fuori di qui.<br>Indegno come sei, mi misurerò con te,<br>e renderò qualche servizio allo [[archetypes/ghost\|spirito]] del duca Humphrey. |
+| *(didascalia)* | Escono Suffolk e Warwick |
+| [[archetypes/king\|RE]] ENRICO | Qual corazza più forte d'un cuore senza macchia?<br>Tre volte armato è colui che ha giusta la sua causa;<br>e nudo è, pur chiuso nell'acciaio,<br>colui la cui [[concepts/conscience\|coscienza]] è corrotta dall'ingiustizia. |
+| POPOLO | (all'interno) Abbasso Suffolk! Abbasso Suffolk! |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Che rumore è questo? |
+| *(didascalia)* | Entrano Suffolk e Warwick con le armi sguainate |
+| [[archetypes/king\|RE]] ENRICO | Ebbene, che c'è, signori? Le vostre armi irate sguainate<br>qui alla nostra presenza? Osate esser così arditi?<br>Ebbene, che tumultuoso clamore abbiamo qui? |
+| SUFFOLK | Il traditore Warwick con gli uomini di Bury<br>si son gettati tutti su di me, possente sovrano! |
+| POPOLO | (all'interno) Abbasso Suffolk! Abbasso Suffolk! |
+| *(didascalia)* | Entra dal popolo il [[characters/earl-of-salisbury\|conte di Salisbury]] |
+| SALISBURY | (al popolo, all'interno)<br>Signori, state indietro. Il [[archetypes/king\|re]] conoscerà il vostro animo.<br>(A [[archetypes/king\|re]] Enrico)<br>Temuto signore, il popolo vi manda a dire per mia bocca<br>che, se lord Suffolk non sia subito messo a [[motifs/death\|morte]],<br>o bandito dai territori della bella Inghilterra,<br>essi con violenza lo strapperanno dal vostro palazzo<br>e lo tortureranno con lenta e penosa [[motifs/death\|morte]].<br>Dicono che per lui morì il buon duca Humphrey;<br>dicono che in lui [[concepts/fear\|temono]] la [[motifs/death\|morte]] di vostra altezza;<br>e il puro istinto d'[[motifs/love\|amore]] e di lealtà,<br>libero da ogni ostinata intenzione contraria,<br>come se pensassero di contrariare il vostro gradimento,<br>li rende così solleciti del suo bando.<br>Dicono, per cura della vostra regalissima persona,<br>che se vostra altezza intendesse [[motifs/sleep\|dormire]],<br>e comandasse che nessuno turbasse il vostro riposo<br>sotto [[motifs/pain\|pena]] del vostro sdegno, o [[motifs/pain\|pena]] di [[motifs/death\|morte]],<br>pure, nonostante un sì severo edito,<br>se si vedesse un serpente con lingua forcuta<br>che di soppiatto strisciasse verso vostra maestà,<br>sarebbe pur necessario che foste svegliato,<br>ché, lasciato in quel dannoso sopore,<br>il verme mortale potrebbe far eterno il [[motifs/sleep\|sonno]].<br>E perciò gridano, sebbene voi lo vietiate,<br>che vi guarderanno, che voi vogliate o no,<br>da tali fieri serpenti quale è il falso Suffolk,<br>dal cui morso avvelenato e fatale<br>il vostro amoroso zio, venti volte il suo valore,<br>dicono, è vergognosamente privato della vita. |
+| POPOLO | (all'interno) Una risposta dal [[archetypes/king\|re]], mio signore di Salisbury! |
+| SUFFOLK | È ben da popolo, rozzi villani ineducati,<br>mandare tal messaggio al proprio sovrano.<br>Ma voi, mio signore, foste lieto d'esser impiegato,<br>per mostrare che raffinato oratore siete.<br>Ma tutto l'[[concepts/honour\|onore]] che Salisbury ha guadagnato<br>è d'essere stato il lord Ambasciatore<br>mandato al [[archetypes/king\|re]] da una banda di calderai. |
+| POPOLO | (all'interno) Una risposta dal [[archetypes/king\|re]], o irromperemo tutti! |
+| [[archetypes/king\|RE]] ENRICO | Va', Salisbury, e di' a tutti loro da parte mia<br>che li ringrazio per la loro tenera e amorosa cura,<br>e se non fossi stato così sollecitato da loro,<br>pure avevo in animo ciò che essi chiedono;<br>ché certo i miei pensieri profetizzano ogni ora<br>sventura al mio stato per opera di Suffolk.<br>E perciò per la maestà di Lui giuro,<br>del quale sono ben indegno vicario,<br>ch'egli non respirerà infezione in quest'aria<br>più di tre giorni, sotto [[motifs/pain\|pena]] di [[motifs/death\|morte]]. |
+| *(didascalia)* | Esce Salisbury |
+| *(didascalia)* | [[characters/queen-margaret\|REGINA MARGHERITA]] inginocchiandosi |
+| [[archetypes/king\|RE]] ENRICO | O Enrico, lasciami perorare per il gentile Suffolk. |
+| [[archetypes/king\|RE]] ENRICO | Discortese [[characters/queen\|regina]], a chiamarlo gentile Suffolk.<br>Basta, dico! Se tu perori per lui<br>non farai che accrescere la mia ira.<br>Avessi solo detto, avrei mantenuto la parola;<br>ma quando giuro, è irrevocabile.<br>(A Suffolk) Se dopo lo spazio di tre giorni tu sarai qui<br>trovato<br>su qualunque terra di cui io sia signore,<br>il mondo non sarà riscatto per la tua vita.<br>Vieni, Warwick; vieni, buon Warwick, vieni con me.<br>Ho gran cose da comunicarti. |
+| *(didascalia)* | Escono [[archetypes/king\|re]] Enrico e Warwick con |
+| *(didascalia)* | attendenti che chiudono le cortine mentre |
+| *(didascalia)* | escono. Restano [[characters/queen-margaret\|Margherita]] e Suffolk |
+| *(didascalia)* | [[characters/queen-margaret\|REGINA MARGHERITA]] alzandosi |
+| [[archetypes/king\|RE]] ENRICO | Sventura e dolore v'accompagnino!<br>Il malcontento del cuore e l'acerba afflizione<br>siano compagni di gioco a tenervi compagnia!<br>Siete due, il diavolo faccia il terzo,<br>e triplice vendetta segua i vostri passi! |
+| SUFFOLK | Cessate, gentile [[characters/queen\|regina]], queste imprecazioni,<br>e lasciate che il vostro Suffolk prenda il suo grave congedo. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Vergogna, donna codarda e meschino dal cuore molle!<br>Non hai animo di maledire i tuoi nemici? |
+| SUFFOLK | La peste su loro! Perché dovrei maledirli?<br>Potessero le maledizioni uccidere, come il gemito della mandragora,<br>inventerei termini così amari e penetranti,<br>così maledetti, così aspri e orribili a udirsi,<br>proferiti con forza fra i miei denti serrati,<br>con altrettanti segni d'odio mortale,<br>quanti l'invidia dal volto scarno nella sua ripugnante [[motifs/cave\|caverna]].<br>La mia lingua inciamperebbe nelle mie parole ardenti;<br>i miei occhi scintillerebbero come selce battuta;<br>i miei capelli si rizzerebbero, come d'un forsennato;<br>sì, ogni giuntura sembrerebbe maledire e imprecare.<br>E, anche ora, il mio cuore gravato scoppierebbe<br>se non li maledicessi. [[motifs/poison\|Veleno]] sia la loro bevanda!<br>Fiele, peggio del fiele, la cosa più squisita che gustino!<br>La loro ombra più dolce un bosco di cipressi!<br>La loro vista più bella basilischi assassini!<br>Il loro tocco più morbido pungente come morsi di lucertole!<br>La loro musica spaventosa come il sibilo del serpente,<br>e civette di malaugurio completino il concerto!<br>Tutti i turpi terrori dell'inferno dalle sedi oscure— |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Basta, dolce Suffolk, tu tormenti te stesso,<br>e queste terribili maledizioni, come il sole contro il vetro,<br>o come un'arma sovraccarica, rinculano<br>e volgono la loro forza contro te stesso. |
+| SUFFOLK | Voi m'ordinaste d'imprecare, e ora m'ordinate di smettere?<br>Ora, per questa terra da cui son bandito,<br>[[motifs/well\|ben]] potrei consumare in maledizioni una [[motifs/night\|notte]] d'[[motifs/winter\|inverno]],<br>pur stando nudo sulla cima d'un monte,<br>dove il freddo pungente non lascerebbe mai crescere erba,<br>e crederla solo un minuto speso in gioco. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Oh, lascia ch'io ti preghi di cessare. Dammi la tua mano,<br>ch'io la irrori delle mie dolenti [[motifs/tears\|lacrime]];<br>né la pioggia del cielo bagni questo luogo<br>a lavar via i miei dolorosi monumenti. |
+| *(didascalia)* | Ella gli bacia il palmo |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Oh, potesse questo bacio esser stampato nella tua mano<br>sì che tu pensassi a queste labbra per il sigillo,<br>per le quali mille sospiri son esalati per<br>te!<br>Dunque vattene, ch'io possa conoscere il mio dolore.<br>Non è che immaginato mentre tu mi stai accanto,<br>come chi si sazia pensando a una privazione.<br>Ti farò richiamare, o, sii [[motifs/well\|ben]] certo,<br>rischierò d'esser bandita io stessa.<br>E bandita sono, se pur solo da te.<br>Va', non parlarmi; ora stesso vattene!<br>Oh, non andar ancora. Così due amici condannati<br>s'abbracciano, e si baciano, e si prendono diecimila [[motifs/leaves\|congedi]],<br>cento volte più restii a separarsi che a morire.<br>Pur ora addio, e addio vita con te. |
+| SUFFOLK | Così il povero Suffolk è dieci volte bandito—<br>una volta dal [[archetypes/king\|re]], e tre volte tre da te.<br>Non è la terra che m'importa, se tu ne fossi fuori,<br>un deserto è abbastanza popoloso,<br>purché Suffolk abbia la tua celeste compagnia.<br>Ché dove tu sei, là è il mondo stesso,<br>con ogni singolo piacere del mondo;<br>e dove tu non sei, desolazione.<br>Non posso più. Vivi tu a goder la tua vita;<br>io non ho gioia in nulla se non che tu vivi. |
+| *(didascalia)* | Entra Vaux |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Dove va Vaux così in fretta? Che nuove, ti prego? |
+| VAUX | A significare a sua maestà<br>che [[characters/cardinal-beaufort\|il cardinale Beaufort]] è al punto di [[motifs/death\|morte]].<br>Ché d'improvviso un grave male lo prese<br>che lo fa ansimare, e fissare, e afferrar l'aria,<br>bestemmiando Dio e maledicendo gli uomini in terra.<br>Talvolta parla come se lo [[archetypes/ghost\|spettro]] del duca Humphrey<br>gli fosse accanto; talvolta chiama il [[archetypes/king\|re]],<br>e sussurra al suo cuscino come a lui<br>i [[motifs/secrets\|segreti]] della sua [[motifs/soul\|anima]] troppo carica;<br>e io son mandato a dire a sua maestà<br>che proprio ora lo chiama a gran voce. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Va' a portare questo grave messaggio al [[archetypes/king\|re]]. Esce Vaux<br>Ahimè! Che cos'è questo mondo? Che nuove son queste?<br>Ma perché mi dolgo d'una povera perdita d'un'ora<br>tralasciando l'[[concepts/exile\|esilio]] di Suffolk, tesoro dell'[[motifs/soul\|anima]] mia?<br>Perché, Suffolk, non piango solo per te,<br>e non gareggio in [[motifs/tears\|lacrime]] con le nubi del sud—<br>le loro per l'incremento della terra, le mie per quello del mio dolore?<br>Ora vattene. Il [[archetypes/king\|re]], tu lo sai, sta<br>venendo. 390<br>Se sarai trovato presso di me, sei morto. |
+| SUFFOLK | Se mi separo da te, non posso vivere.<br>E morire alla tua vista, che sarebbe altro<br>se non come un piacevole sopore nel tuo grembo?<br>Qui potrei esalare l'[[motifs/soul\|anima]] mia nell'aria,<br>mite e gentile come il bimbo in culla<br>che muore con la mammella della madre fra le labbra;<br>mentre, lontano dalla tua vista, sarei furiosamente pazzo,<br>e ti chiamerei a chiudermi gli occhi,<br>ad avere te con le tue labbra a chiudermi la bocca,<br>sì che tu volgeresti indietro l'[[motifs/soul\|anima]] mia in fuga<br>o io l'esalerei, così, nel tuo [[concepts/body\|corpo]]— |
+| *(didascalia)* | Egli la bacia |
+| SUFFOLK | E allora essa vivrebbe nel dolce Elisio.<br>Morire presso di te sarebbe morire per scherzo;<br>morire lontano da te sarebbe tortura più della [[motifs/death\|morte]].<br>Oh, lasciami restare, avvenga ciò che può avvenire! |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Via. Sebbene la separazione sia un corrosivo che rode,<br>è applicata a una ferita mortale.<br>In Francia, dolce Suffolk. Fatti sentire da me.<br>Ché dovunque tu sia nel Globo di questo mondo<br>avrò un'Iride che ti troverà. |
+| SUFFOLK | Vado. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | E porta con te il mio cuore. |
+| *(didascalia)* | Ella lo bacia |
+| SUFFOLK | Un [[motifs/jewel\|gioiello]], chiuso nello scrigno più dolente che mai contenne cosa di valore. Come una barca spaccata, così ci separiamo—per questa via io cado nella [[motifs/death\|morte]]. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Per questa, io. |
+| *(didascalia)* | Escono da parti diverse |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|re]] Enrico e i conti di Salisbury e Warwick. Poi le cortine sono aperte, rivelando [[characters/cardinal-beaufort\|il cardinale Beaufort]] nel suo letto che delira e fissa nel vuoto come se fosse pazzo |
+| [[archetypes/king\|RE]] ENRICO | (al [[characters/cardinal-beaufort\|cardinale Beaufort]])<br>Come sta il mio signore? Parla, Beaufort, al tuo sovrano. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Se tu sei la [[motifs/death\|morte]], ti darò il tesoro d'Inghilterra,<br>bastante a comprare un'altra isola come questa,<br>purché tu mi lasci vivere e non sentir [[motifs/pain\|pena]]. |
+| [[archetypes/king\|RE]] ENRICO | Ah, che segno è di mala vita<br>quando l'avvicinarsi della [[motifs/death\|morte]] si mostra così terribile. |
+| WARWICK | Beaufort, è il tuo sovrano che ti parla. |
+| [[characters/cardinal-beaufort\|CARDINALE BEAUFORT]] | Portatemi al mio giudizio quando volete.<br>Non morì egli nel suo letto ? Dove doveva morire?<br>Posso io far vivere gli uomini, che vogliano o no?<br>Oh, non torturatemi più—confesserò.<br>Vivo di nuovo? Allora mostratemi dov'è.<br>Darò mille sterline per guardarlo.<br>Non ha occhi! La [[motifs/dust\|polvere]] li ha accecati.<br>Pettinategli i capelli—guardate, guardate: stanno diritti,<br>come panie tese a prendere l'[[motifs/soul\|anima]] mia in volo.<br>Datemi da bere, e dite allo speziale<br>di portare il forte [[motifs/poison\|veleno]] che comprai da lui. |
+| [[archetypes/king\|RE]] ENRICO | O Tu, eterno motore dei cieli,<br>guarda con occhio benigno questo sventurato.<br>Oh, scaccia il demonio affaccendato e importuno<br>che stringe forte assedio all'[[motifs/soul\|anima]] di questo sventurato,<br>e purga dal suo petto questa nera [[concepts/despair\|disperazione]]. |
+| WARWICK | Vedete come le doglie della [[motifs/death\|morte]] gli storcono la bocca. |
+| SALISBURY | Non lo turbate; lasciatelo passare in pace. |
+| [[archetypes/king\|RE]] ENRICO | Pace alla sua [[motifs/soul\|anima]], se così piaccia a Dio.<br>Lord Cardinale, se pensi alla beatitudine del cielo,<br>alza la mano, fa' segno della tua [[concepts/hope\|speranza]].<br>[[characters/cardinal-beaufort\|Il cardinale Beaufort]] muore<br>Muore e non fa alcun segno. O Dio, perdonalo. |
+| WARWICK | Una [[motifs/death\|morte]] così cattiva arguisce una vita mostruosa. |
+| [[archetypes/king\|RE]] ENRICO | Astenetevi dal giudicare, ché siamo tutti peccatori.<br>Chiudetegli gli occhi e tirate bene la cortina,<br>e andiamo tutti a meditare. |
+| *(didascalia)* | Escono, chiudendo le cortine. Il letto è |
+| *(didascalia)* | portato via |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarmi all'interno, e si scaricano i cannoni come se fosse una battaglia navale. E poi entrano il capitano della [[motifs/ship\|nave]], il padrone, il secondo del padrone, Walter Whitmore, e altri. Con loro, come loro prigionieri, il [[characters/duke-of-suffolk\|duca di Suffolk]], travestito, e due gentiluomini |
+| CAPITANO | Il giorno vistoso, ciarliero e pietoso<br>è sceso nel seno del mare ;<br>e ora i lupi urlanti destano le rozze<br>che tirano la tragica e [[concepts/melancholy\|malinconica]] [[motifs/night\|notte]];<br>la quale, con le sue ali sonnolente, lente e cascanti,<br>abbraccia le tombe dei morti, e dalle loro fauci nebbiose<br>esala nell'aria una turpe e contagiosa tenebra.<br>Perciò conducete avanti i soldati della nostra preda,<br>ché mentre la nostra pinaccia sta all'ancora nelle Downs,<br>qui faranno il loro riscatto sulla sabbia,<br>o col loro [[motifs/blood\|sangue]] macchieranno questa riva scolorita.<br>Padrone, (indicando il primo gentiluomo) questo prigioniero<br>liberamente ti dono,<br>(Al secondo)<br>e tu, che sei il suo secondo, fa' bottino di questo.<br>Indica il secondo gentiluomo<br>(A Walter Whitmore)<br>L'altro (indicando Suffolk), Walter Whitmore, è<br>la tua parte. |
+| PRIMO GENTILUOMO | (al padrone)<br>Qual è il mio riscatto, padrone, fatemelo sapere. |
+| PADRONE | Mille corone, o giù la testa. |
+| SECONDO | (al secondo gentiluomo)<br>E altrettanto darete voi, o via va la vostra. |
+| CAPITANO | (a entrambi i gentiluomini)<br>Come, vi par troppo pagare duemila corone,<br>e portare il nome e il contegno di gentiluomini? |
+| *(didascalia)* | WHITMORE |
+| *(didascalia)* | Tagliate la gola a entrambi i furfanti! A Suffolk Ché morire tu |
+| CAPITANO | devi.<br>Le vite di quelli che abbiamo perduto in battaglia |
+| *(didascalia)* |  |
+| CAPITANO | sian bilanciate con una somma così meschina. |
+| PRIMO GENTILUOMO | (al padrone)<br>La darò, signore, e perciò risparmiate la mia vita. |
+| SECONDO GENTILUOMO | (al secondo)<br>E così farò,io, e scriverò subito a [[motifs/home\|casa]] per averla. |
+| WHITMORE | (a Suffolk)<br>Perdetti l'occhio nell'abbordare la preda,<br>e perciò, per [[concepts/revenge\|vendicarlo]], tu morrai—<br>e così questi, se potessi fare a mio modo. |
+| CAPITANO | Non esser così avventato; prendi il riscatto; lascialo vivere. |
+| SUFFOLK | Guarda il mio San Giorgio—sono un gentiluomo.<br>Tassami quanto vuoi, sarai pagato. |
+| WHITMORE | E lo sono anch'io; il mio nome è Walter Whitmore.<br>Suffolk trasalisce<br>Ebbene—perché trasalisci? Che ti spaventa? |
+| SUFFOLK | Il tuo nome mi spaventa, nel cui suono è la [[motifs/death\|morte]].<br>Un uomo esperto calcolò la mia nascita,<br>e mi disse che per ‘[[motifs/water\|acqua]]’ dovevo morire.<br>Pure, non ti renda questo di animo sanguinario;<br>il tuo nome è Gualtier, se pronunciato a dovere. |
+| WHITMORE | Gualtier o Walter—quale sia non m'importa.<br>Mai vile disonore appannò il nostro nome<br>senza che con la nostra spada cancellassimo la macchia.<br>Perciò, quando da mercante venderò la [[concepts/revenge\|vendetta]],<br>sia rotta la mia spada, le mie armi lacerate e deturpate,<br>e io proclamato codardo per il mondo. |
+| SUFFOLK | Fermati, Whitmore; ché il tuo prigioniero è un principe,<br>il [[characters/duke-of-suffolk\|duca di Suffolk]], William de la Pole. |
+| WHITMORE | Il [[characters/duke-of-suffolk\|duca di Suffolk]] avvolto in cenci? |
+| SUFFOLK | Sì, ma questi cenci non son parte del Duca.<br>Giove andò talvolta travestito, e perché non io? |
+| CAPITANO | Ma Giove non fu mai ucciso come sarai tu. |
+| SUFFOLK | Villano oscuro e pidocchioso, il [[motifs/blood\|sangue]] di [[archetypes/king\|re]] Enrico,<br>l'onorevole [[motifs/blood\|sangue]] di Lancaster,<br>non deve esser versato da un tal ronzino di stalliere.<br>Non baciasti la tua mano e mi tenesti la staffa?<br>A capo scoperto camminasti muto accanto alla gualdrappa<br>e ti credesti felice quando io scossi il capo?<br>Quante volte servisti alla mia coppa,<br>mangiasti dal mio tagliere, t'inginocchiasti alla tavola<br>quando banchettavo con [[characters/queen-margaret\|Margherita]]?<br>Ricordalo, e ti faccia abbassar la cresta,<br>sì, e mitighi questa tua abortiva [[concepts/pride\|superbia]],<br>come nella nostra anticamera stesti<br>attendendo debitamente la mia uscita ?<br>Questa mia mano ha scritto in tuo favore,<br>e perciò essa incanterà la tua lingua sfrenata. |
+| WHITMORE | Parla, capitano—devo pugnalare il misero villano? |
+| CAPITANO | Prima lo pugnalino le mie parole, com'egli ha fatto a me. |
+| SUFFOLK | Vile schiavo, le tue parole son spuntate, e così sei tu. |
+| CAPITANO | Portatelo via e, sul fianco della nostra lancia, tagliategli la testa. |
+| SUFFOLK | Non oserai, per la tua stessa. |
+| CAPITANO | Pole— |
+| *(didascalia)* | SUFFOLK Pole? |
+| CAPITANO | Sì, canile, pozzanghera, fogna, la cui sporcizia e fango<br>intorbida l'argentea [[motifs/spring\|fonte]] dove l'Inghilterra bee,<br>ora io tapperò questa tua bocca spalancata<br>per aver inghiottito il tesoro del regno.<br>Le tue labbra che baciarono la [[characters/queen\|regina]] spazzeranno il suolo,<br>e tu che sorridesti al buon duca Humphrey nella sua<br>[[motifs/death\|morte]]<br>contro i venti insensibili digrignerai in vano,<br>i quali per disprezzo ti fischieranno a loro volta.<br>E sia tu sposato alle megere dell'inferno,<br>per aver osato fidanzare un potente signore<br>alla figlia d'un [[archetypes/king\|re]] da nulla,<br>che non ha né suddito, né ricchezza, né diadema.<br>Per diabolica astuzia ti sei fatto grande,<br>e come l'ambizioso Silla, ingozzato<br>di bocconi del cuore sanguinante di tua madre.<br>Per te Angiò e Maine furon venduti alla Francia,<br>i falsi e ribelli Normanni, per causa tua,<br>sdegnano di chiamarci signori, e la Piccardia<br>ha ucciso i loro governatori, sorpreso i nostri forti,<br>e mandato a [[motifs/home\|casa]] i soldati stracciati e feriti.<br>Il principesco Warwick, e tutti i Neville,<br>le cui terribili spade non furon mai sguainate in vano,<br>odiandoti, s'alzano in armi;<br>e ora la casa di York, spinta via dalla [[motifs/crown\|corona]]<br>per il vergognoso assassinio d'un [[archetypes/king\|re]] innocente<br>e per l'altezzosa, superba, usurpante tirannia,<br>arde di [[motifs/fire\|fuoco]] vindice, i cui colori di speranza<br>innalzano il nostro sole a mezzo volto, che lotta per brillare,<br>sotto il quale è scritto: ‘Invitis nubibus’.<br><br>Il popolo qui nel [[characters/kent\|Kent]] è in armi,<br>e, per concludere, obbrobrio e mendicità<br>sono entrati nel palazzo del nostro [[archetypes/king\|re]],<br>e tutto per te. (A Whitmore) Via, portatelo<br>fuori di qui. |
+| SUFFOLK | Oh, fossi un dio, per scagliare il tuono<br>su questi meschini, servili, abietti sgobboni.<br>Piccole cose rendon superbi gli uomini vili. Questo [[archetypes/villain\|furfante]] qui,<br>essendo capitano d'una pinaccia, minaccia più<br>di Bargulo, il forte pirata illirico.<br>I fuchi non succhiano il [[motifs/blood\|sangue]] delle aquile, ma rubano gli alveari.<br>È impossibile ch'io debba morire<br>per mano d'un vassallo così basso come te.<br>Le tue parole muovono in me rabbia, e non rimorso. |
+| *(didascalia)* | CAPITANO |
+| SUFFOLK | Ma i miei atti, Suffolk, presto fermeranno la tua rabbia. |
+| SUFFOLK | Vado in ambasciata dalla [[characters/queen\|regina]] alla Francia—<br>t'ingiungo, traghettami sicuro [[motifs/cross\|attraverso]] la Manica! |
+| CAPITANO | Walter— |
+| WHITMORE | Vieni, Suffolk, devo traghettarti alla tua [[motifs/death\|morte]]. |
+| SUFFOLK | Paene gelidus timor occupat artus—<br><br>È te che [[concepts/fear\|temo]]. |
+| WHITMORE | Avrai motivo di [[concepts/fear\|temere]] prima ch'io ti lasci.<br>Come, siete sgomento adesso? Ora vi piegherete? |
+| PRIMO GENTILUOMO | (a Suffolk)<br>Mio grazioso signore, supplicatelo—parlategli con buone. |
+| SUFFOLK | La lingua imperiale di Suffolk è severa e ruvida,<br>usa a comandare, non addestrata a implorar favore.<br>Lungi da noi che dovessimo [[concepts/honour\|onorare]] costoro<br>con umile preghiera. No, piuttosto pieghi il mio capo<br>al ceppo, che queste ginocchia s'inchinino ad alcuno<br>se non al Dio del cielo e al mio [[archetypes/king\|re]];<br>e prima [[motifs/dance\|danzi]] su una picca sanguinosa<br>che stia scoperto davanti al volgare stalliere.<br>La vera nobiltà è esente da [[concepts/fear\|timore]];<br>posso sopportare più di quanto voi osiate eseguire. |
+| CAPITANO | Trascinatelo via, e non lo lasciate più parlare. |
+| SUFFOLK | Venite, ‘soldati’, mostrate quanta crudeltà sapete,<br>ché questa mia [[motifs/death\|morte]] non sia mai dimenticata.<br>I grandi uomini spesso muoiono per mano di vili pezzenti;<br>uno spadaccino romano e uno schiavo bandito<br>uccisero il dolce Tullio ; la mano bastarda di [[characters/brutus\|Bruto]]<br>pugnalò [[characters/julius-caesar\|Giulio Cesare]]; selvaggi isolani<br>[[characters/pompey\|Pompeo]] il Grande; e Suffolk muore per mano di pirati. |
+| *(didascalia)* | Esce Whitmore con Suffolk |
+| CAPITANO | E quanto a questi il cui riscatto abbiamo fissato,<br>è nostro piacere che uno di loro parta.<br>(Al secondo gentiluomo)<br>Perciò, venite voi con noi e (ai suoi uomini, indicando<br>il primo gentiluomo) lasciate andar lui. |
+| *(didascalia)* | Escono tutti tranne il primo gentiluomo |
+| *(didascalia)* | Entra Whitmore con la testa e il [[concepts/body\|corpo]] di Suffolk |
+| WHITMORE | Là restino la sua testa e il [[concepts/body\|corpo]] senza vita,<br>finché la [[characters/queen\|regina]] sua signora li seppellisca. Esce |
+| PRIMO GENTILUOMO | O barbaro e sanguinoso spettacolo!<br>Il suo [[concepts/body\|corpo]] porterò al [[archetypes/king\|re]].<br>Se egli non lo [[concepts/revenge\|vendica]], lo faranno i suoi amici;<br>e così la [[characters/queen\|regina]], che vivo lo teneva caro. |
+| *(didascalia)* | Esce con la testa e il [[concepts/body\|corpo]] di Suffolk |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano due ribelli con lunghi bastoni |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Vieni e procurati una spada, fosse anche fatta d'una stecca; son già in piedi da due giorni. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | Tanto più han bisogno di [[motifs/sleep\|dormire]] adesso, allora. |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Ti dico, [[characters/jack-cade\|Jack Cade]] il pannaiolo intende cardare lo stato, e rivoltarlo, e mettergli un pelo nuovo. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | E ne ha bisogno, ché è liso fino alla trama. [[motifs/well\|Bene]], dico che non ci fu mai mondo allegro in Inghilterra da quando vennero su i gentiluomini. |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Oh, età miserabile! La virtù non è tenuta in conto negli artigiani. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | La nobiltà si sdegna d'andare in grembiuli di cuoio. |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Anzi di più, il Consiglio del [[archetypes/king\|re]] non è fatto di buoni operai. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | Vero; e pure si dice ‘Lavora nella tua vocazione’; ch'è come dire ‘Che i magistrati sian lavoratori’; e perciò dovremmo essere noi i magistrati. |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | L'hai colta; ché non c'è miglior segno d'animo valoroso d'una mano callosa. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | Li vedo! Li vedo! Ecco il figlio di Best, il conciatore di Wingham— |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Avrà le pelli dei nostri nemici per farne cuoio da cani. SECONDO [[archetypes/rebel\|RIBELLE]] E Dick il macellaio— |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Allora il peccato è abbattuto come un bue, e la gola dell'iniquità tagliata come a un vitello. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | E Smith il tessitore— |
+| PRIMO [[archetypes/rebel\|RIBELLE]] | Argo, il loro filo di vita è filato. |
+| SECONDO [[archetypes/rebel\|RIBELLE]] | Via, via, mettiamoci con loro. |
+| *(didascalia)* | Entrano [[characters/jack-cade\|Jack Cade]], Dick il macellaio, Smith il |
+| *(didascalia)* | tessitore, un segatore e un tamburino, con infinite |
+| *(didascalia)* | moltitudini, tutti con lunghi bastoni |
+| CADE | Noi, John Cade, così chiamati dal nostro presunto padre—MACELLAIO (ai compagni) O piuttosto dall'aver rubato un barilotto d'aringhe. |
+| CADE | Ché i nostri nemici cadranno davanti a noi, ispirati dallo spirito d'abbattere re e principi—imponete [[motifs/silence\|silenzio]]! |
+| MACELLAIO | [[motifs/silence\|Silenzio]]! |
+| CADE | Mio padre era un Mortimer— |
+| MACELLAIO | (ai compagni) Era un uomo onesto e un buon muratore. |
+| CADE | Mia madre una Plantageneta— |
+| MACELLAIO | (ai compagni) La conoscevo [[motifs/well\|bene]], era una levatrice. CADE Mia moglie discesa dai Lacy— |
+| MACELLAIO | (ai compagni) Era davvero figlia d'un merciaio ambulante e vendeva molti lacci. |
+| TESSITORE | (ai compagni) Ma da ultimo, non potendo più girare con la sua balla pelosa, fa il bucato qui a [[motifs/home\|casa]]. CADE Dunque io sono d'una casa onorevole. |
+| MACELLAIO | (ai compagni) Sì, in [[concepts/faith\|fede]] mia, il campo è onorevole, e là nacque lui, sotto una siepe; ché suo padre non ebbe mai altra casa che la gabbia. |
+| CADE | Valoroso sono— |
+| TESSITORE | (ai compagni) Deve pure, ché la pitoccheria è valorosa. |
+| CADE | Son capace di sopportar molto— |
+| MACELLAIO | (ai compagni) Non c'è dubbio, ché l'ho visto frustato per tre giorni di mercato di fila. |
+| CADE | Non [[concepts/fear\|temo]] né spada né [[motifs/fire\|fuoco]]. |
+| TESSITORE | (ai compagni) Non ha da [[concepts/fear\|temere]] la spada, ché il suo giubbotto è a prova. |
+| MACELLAIO | (ai compagni) Ma mi pare che dovrebbe star in [[concepts/fear\|timore]] del [[motifs/fire\|fuoco]], essendo stato marchiato a fuoco sulla mano per furto di pecore. |
+| CADE | Siate valorosi, allora, ché il vostro capitano è valoroso e giura la [[historical-references/reformation\|riforma]]. In Inghilterra sette pani da mezzo penny si venderanno per un penny, il boccale a tre cerchi ne avrà dieci, e farò reato il bere birra leggera. Tutto il regno sarà in comune, e a Cheapside il mio palafreno andrà al pascolo. E quando sarò [[archetypes/king\|re]], come [[archetypes/king\|re]] sarò— |
+| TUTTI I SEGUACI DI CADE | Dio salvi vostra maestà! |
+| CADE | Vi ringrazio, brava gente!—non ci sarà denaro. Tutti mangeranno e berranno a mio conto, e li vestirò tutti d'una sola livrea, sì che vadano d'accordo come fratelli, e adorino me loro signore. |
+| MACELLAIO | La prima cosa che facciamo, ammazziamo tutti gli avvocati. |
+| CADE | Sì, questo intendo fare. Non è cosa lamentevole che della pelle d'un [[motifs/lamb\|agnello]] [[archetypes/innocent\|innocente]] si faccia pergamena? Che quella pergamena, scribacchiata sopra, mandi in rovina un uomo? Alcuni dicono che l'ape punge, ma io dico ch'è la cera dell'ape. Ché io sigillai una volta sola una cosa, e da allora non fui mai più padrone di me. Ebbene? Chi è là? Entrano alcuni conducendo lo scrivano di Chatham |
+| TESSITORE | Lo scrivano di Chatham—sa scrivere e leggere e far conti. |
+| CADE | Oh, mostruoso! |
+| TESSITORE | L'abbiamo preso a preparare i modelli di scrittura per i ragazzi. |
+| CADE | Ecco un [[archetypes/villain\|furfante]]. |
+| TESSITORE | Ha un libro in tasca con lettere rosse dentro. CADE Ah, allora è un negromante! |
+| MACELLAIO | Anzi, sa stendere obbligazioni e scrivere in scrittura di [[settings/court\|corte]]. |
+| CADE | Me ne dispiace. L'uomo è un uomo come si deve, sul mio [[concepts/honour\|onore]]. Se non lo trovo colpevole, non morrà. Vieni qua, tu là, devo esaminarti. Qual è il tuo nome? |
+| SCRIVANO | Emmanuel. |
+| MACELLAIO | Usano scrivere quello in cima alle lettere—t'andrà male. |
+| CADE | Lasciami solo. (Allo scrivano) Sei tu usato a scrivere il tuo nome? O hai un segno tuo, come un uomo onesto e schietto? |
+| SCRIVANO | Signore, ringrazio Dio d'essere stato allevato così [[motifs/well\|bene]] che so scrivere il mio nome. |
+| TUTTI I SEGUACI DI CADE | Ha confessato—portatelo via È un [[archetypes/villain\|furfante]] e un traditore. |
+| CADE | Portatelo via, dico, impiccatelo con la penna e il calamaio al collo. Esce uno con lo scrivano Entra un messaggero |
+| MESSAGGERO | Dov'è il nostro generale? no CADE Qui sono, tu, tipo particolare. |
+| MESSAGGERO | Fuggi, fuggi, fuggi! Sir Humphrey Stafford e suo fratello son qui vicino con le forze del [[archetypes/king\|re]]. |
+| CADE | Fermo, [[archetypes/villain\|furfante]], fermo—o t'abbatto. Sarà affrontato da un uomo buono quanto lui. Non è che un cavaliere, è così? |
+| MESSAGGERO | No. |
+| CADE | Per pareggiarlo mi farò cavaliere sul momento. S'inginocchia e si fa cavaliere da sé<br>Alzati, Sir John Mortimer. Si alza<br>Ora addosso a lui! Entrano Sir Humphrey Stafford e suo fratello, con un tamburino e soldati |
+| STAFFORD | (ai seguaci di Cade)<br>Villani ribelli, sporcizia e schiuma del [[characters/kent\|Kent]],<br>segnati per la forca, deponete le armi;<br>a [[motifs/home\|casa]], alle vostre capanne, abbandonate questo stalliere.<br>Il [[archetypes/king\|re]] è misericordioso, se vi ritraete. |
+| FRATELLO DI STAFFORD | (ai seguaci di Cade)<br>Ma irato, furibondo e inclinato al [[motifs/blood\|sangue]],<br>se andate avanti. Perciò, arrendetevi o morite. |
+| CADE | (ai suoi seguaci)<br>Quanto a questi schiavi in giubba di seta, non me ne curo.<br>È a voi, brava gente, ch'io parlo,<br>sui quali, nel [[motifs/time\|tempo]] a venire, [[concepts/hope\|spero]] di regnare—<br>ché sono legittimo erede della [[motifs/crown\|corona]]. |
+| STAFFORD | [[archetypes/villain\|Furfante]], tuo padre era un intonacatore<br>e tu stesso un cimatore di panni, non è vero? |
+| CADE | E Adamo era un giardiniere. |
+| FRATELLO DI STAFFORD | E che c'entra? |
+| CADE | Per la Vergine, questo: [[characters/edmund\|Edmondo]] Mortimer, conte di March,<br>sposò la figlia del duca di [[characters/clarence\|Clarence]], non è vero? |
+| STAFFORD | Sì, signore. |
+| CADE | Da lei ebbe due figli in un solo parto. |
+| FRATELLO DI STAFFORD | Questo è falso. |
+| CADE | Sì, qui sta la questione—ma io dico ch'è vero.<br>Il maggiore dei due, essendo dato a [[characters/nurse\|balia]],<br>fu rubato via da una mendicante,<br>e, ignaro della sua nascita e del suo lignaggio,<br>divenne muratore quando venne in età.<br>Suo figlio son io—negatelo se potete. |
+| MACELLAIO | Sì, è troppo vero—perciò sarà [[archetypes/king\|re]]. |
+| TESSITORE | Signore, fece un camino nella casa di mio padre,<br>e i mattoni son vivi ancora oggi per testimoniarlo. Perciò<br>non lo negate. |
+| STAFFORD | (ai seguaci di Cade)<br>E darete credito alle parole di questo vile sgobbone<br>che dice ciò che non sa? |
+| TUTTI I SEGUACI DI CADE | Sì, per la Vergine, lo faremo—perciò andatevene. |
+| FRATELLO DI STAFFORD | [[characters/jack-cade\|Jack Cade]], il [[characters/duke-of-york\|duca di York]] t'ha insegnato questo. |
+| CADE | (a parte)<br>Mente, ché l'ho inventato io stesso.<br>(Ad alta voce) Va' via, tu là—di' al [[archetypes/king\|re]] da parte mia che per<br>amore di suo padre, Enrico Quinto, al cui [[motifs/time\|tempo]] i ragazzi<br>giocavano a piastrelle con le corone di Francia, mi contento<br>ch'egli regni; ma io sarò Protettore sopra di lui. |
+| MACELLAIO | E, inoltre, avremo la testa di lord Saye per aver venduto il ducato del Maine. |
+| CADE | E con buona ragione, ché per ciò l'Inghilterra è storpiata, e costretta ad andar col bastone, se non fosse che la mia potenza la sostiene. Re miei compagni, vi dico che quel lord Saye ha castrato lo stato, e l'ha fatto eunuco, e, più di questo, sa parlar francese, e perciò è un traditore! |
+| STAFFORD | Oh, grossolana e miserabile ignoranza ! |
+| CADE | Su, rispondete se potete: i Francesi sono nostri nemici; via, dunque, non chiedo che questo—chi parla con la lingua d'un nemico può essere un buon consigliere o no? |
+| TUTTI I SEGUACI DI CADE | No, no—e perciò avremo la sua testa! |
+| FRATELLO DI STAFFORD | (a Stafford)<br>[[motifs/well\|Bene]], visto che le buone parole non prevarranno,<br>assaliteli con l'esercito del [[archetypes/king\|re]]. |
+| STAFFORD | Araldo, via, e per ogni città<br>proclama traditori quelli che sono in armi con Cade;<br>sì che quelli che fuggono prima che la battaglia finisca<br>possano, sotto gli occhi stessi delle mogli e dei figli,<br>essere impiccati per esempio alle loro porte.<br>E voi che siete amici del [[archetypes/king\|re]], seguitemi! |
+| *(didascalia)* | Escono gli Stafford e i loro soldati |
+| CADE | E voi che [[motifs/love\|amate]] il popolo, seguitemi!<br>Ora mostratevi uomini—è per la libertà.<br>Non lasceremo un lord, un gentiluomo—<br>risparmiate solo chi va in scarpe chiodate,<br>ché son uomini parsimoniosi e onesti, e tali<br>che vorrebbero, se solo osassero, prender le nostre parti. |
+| MACELLAIO | Sono tutti in ordine, e marciano verso di noi. |
+| CADE | Ma noi siamo in ordine allora, quando siamo |
+| *(didascalia)* | più fuor d'ordine. Via, avanti, in marcia! Escono |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarmi per la battaglia; scaramucce, nelle quali entrambi gli Stafford sono uccisi. Entrano [[characters/jack-cade\|Jack Cade]], Dick il macellaio, e gli altri |
+| CADE | Dov'è Dick, il macellaio di Ashford? |
+| MACELLAIO | Qui, signore. |
+| CADE | Caddero davanti a te come pecore e buoi, e tu ti comportasti come se fossi stato nel tuo proprio macello. Perciò, così ti ricompenserò—la Quaresima sarà lunga il doppio di quel che è. Avrai licenza d'ammazzare per cento, meno uno. |
+| MACELLAIO | Non [[motifs/desire\|desidero]] di più. |
+| *(didascalia)* | CADE E, a dire la [[concepts/truth\|verità]], non meriti di meno. Si veste dell'armatura degli Stafford Questo monumento della vittoria lo porterò io, e i corpi saranno trascinati ai calcagni del mio [[motifs/horse\|cavallo]] finché non arrivi a [[settings/london\|Londra]], dove faremo portare davanti a noi la spada del sindaco. |
+| MACELLAIO | Se intendiamo prosperare e far del bene, sfondiamo le prigioni e liberiamo i prigionieri. |
+| CADE | Non [[concepts/fear\|temerne]], te lo garantisco. Via, marciamo verso [[settings/london\|Londra]]. |
+| *(didascalia)* | Escono, trascinando i corpi degli Stafford |
+
+### Atto 4, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|re]] Enrico leggendo una supplica, [[characters/queen-margaret\|Margherita]] portando la testa di Suffolk, il [[characters/duke-of-buckingham\|duca di Buckingham]] e lord Saye, con altri |
+| *(didascalia)* | [[characters/queen-margaret\|REGINA MARGHERITA]] a parte |
+| *(didascalia)* | Spesso ho udito che il dolore ammollisce l'animo,<br>e lo rende timoroso e degenere;<br>pensa, dunque, alla [[concepts/revenge\|vendetta]], e cessa di piangere.<br>Ma chi può cessar di piangere e guardare questo?<br>Qui la sua testa può posare sul mio petto palpitante,<br>ma dov'è il [[concepts/body\|corpo]] che dovrei abbracciare? |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[archetypes/king\|re]] Enrico)<br>Che risposta dà vostra grazia alla supplica dei ribelli? |
+| [[archetypes/king\|RE]] ENRICO | Manderò qualche santo vescovo a trattare,<br>ché Dio non voglia che tante anime semplici<br>periscano di spada. E io stesso,<br>piuttosto che la guerra sanguinosa li tronchi,<br>parlamenterò con [[characters/jack-cade\|Jack Cade]] loro generale.<br>Ma aspettate, la rileggerò un'altra volta.<br>Legge |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | (alla testa di Suffolk)<br>Ah, barbari furfanti! Questo volto amabile<br>ha regnato su di me come un pianeta errante,<br>e non poté costringerli a impietosirsi,<br>loro ch'eran indegni di contemplarlo? |
+| [[archetypes/king\|RE]] ENRICO | Lord Saye, [[characters/jack-cade\|Jack Cade]] ha giurato d'avere la vostra testa. |
+| SAYE | Sì, ma [[concepts/hope\|spero]] che vostra altezza avrà la sua. |
+| [[archetypes/king\|RE]] ENRICO | (a [[characters/queen-margaret\|Margherita]])<br>Ebbene, madama? Ancora a lamentare e piangere<br>la [[motifs/death\|morte]] di Suffolk?<br>[[concepts/fear\|Temo]], [[motifs/love\|amore]] mio, che se io fossi morto,<br>tu non m'avresti pianto tanto. |
+| *(didascalia)* | No, [[motifs/love\|amore]] mio, non ti piangerei, ma morirei per te. Entra un messaggero, Fin fretta |
+| [[archetypes/king\|RE]] ENRICO | Ebbene? Che nuove? Perché vieni in tanta fretta? |
+| MESSAGGERO | I ribelli sono a Southwark—fuggite, mio signore!<br>[[characters/jack-cade\|Jack Cade]] si proclama lord Mortimer,<br>discendente dalla casa del duca di [[characters/clarence\|Clarence]],<br>e chiama vostra grazia [[archetypes/usurper\|usurpatore]], apertamente,<br>e giura d'[[motifs/crown\|incoronarsi]] a Westminster.<br><br>Il suo esercito è una moltitudine straccia<br>di villani e contadini, rozzi e senza pietà.<br>La [[motifs/death\|morte]] di Sir Humphrey Stafford e di suo fratello<br>ha dato loro cuore e [[concepts/courage\|coraggio]] di procedere.<br>Tutti gli studiosi, avvocati, cortigiani, gentiluomini,<br>li chiamano falsi bruchi e ne intendono la [[motifs/death\|morte]]. |
+| [[archetypes/king\|RE]] ENRICO | Oh, uomini senza grazia; non sanno quel che fanno. |
+| [[characters/buckingham\|BUCKINGHAM]] | Mio grazioso signore, ritiratevi a Kenilworth<br>finché non sia levata una forza per abbatterli. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ah, fosse ora vivo il [[characters/duke-of-suffolk\|duca di Suffolk]],<br>questi ribelli del Kent sarebbero presto placati! |
+| [[archetypes/king\|RE]] ENRICO | Lord Saye, la plebaglia traditrice v'odia—<br>perciò via con noi a Kenilworth. |
+| SAYE | Così la persona di vostra grazia sarebbe in pericolo.<br>La mia vista è odiosa ai loro occhi,<br>e perciò resterò in questa [[motifs/city\|città]]<br>e vivrò solo, nascosto quanto potrò. |
+| *(didascalia)* | Entra un altro messaggero |
+| SECONDO MESSAGGERO | (a [[archetypes/king\|re]] Enrico)<br>[[characters/jack-cade\|Jack Cade]] ha quasi preso il ponte di [[settings/london\|Londra]];<br>i cittadini fuggono e abbandonano le case;<br>la gentaglia, assetata di preda,<br>si unisce al traditore; e insieme giurano<br>di saccheggiare la [[motifs/city\|città]] e la vostra regale [[settings/court\|corte]]. |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[archetypes/king\|re]] Enrico)<br>Allora non tardate, mio signore; via, a [[motifs/horse\|cavallo]]! |
+| [[archetypes/king\|RE]] ENRICO | Vieni, Margherita. Dio, nostra [[concepts/hope\|speranza]], ci soccorrerà. |
+| *(didascalia)* | [[characters/queen-margaret\|REGINA MARGHERITA]] a parte |
+| [[archetypes/king\|RE]] ENRICO | La mia [[concepts/hope\|speranza]] è andata, ora che Suffolk è morto. |
+| [[archetypes/king\|RE]] ENRICO | (a Saye)<br>Addio, mio signore. Non fidate nei ribelli del Kent. |
+| [[characters/buckingham\|BUCKINGHAM]] | (a Saye)<br>Non fidate in nessuno, per [[concepts/fear\|timore]] d'esser tradito. |
+| SAYE | La fiducia che ho è nella mia innocenza,<br>e perciò sono ardito e risoluto. |
+| *(didascalia)* | Escono Saye da una porta, gli altri da un'altra |
+
+### Atto 4, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra lord Scales sulla Torre, camminando. Entrano tre o quattro cittadini, in basso |
+| SCALES | Ebbene? È ucciso [[characters/jack-cade\|Jack Cade]]? |
+| PRIMO CITTADINO | No, mio lord Scales, né è probabile che sia ucciso, ché lui e i suoi uomini han conquistato il ponte, uccidendo tutti quelli che gli resistevano. Il [[characters/lord-mayor\|lord sindaco]] chiede aiuto a vostro [[concepts/honour\|onore]] dalla Torre per difendere la [[motifs/city\|città]] dai ribelli. |
+| SCALES | Quell'aiuto che posso risparmiare sarà a vostro comando,<br>ma qui son travagliato io stesso con loro.<br>I ribelli han tentato di prendere la Torre.<br>Andate a Smithfield, là a radunar forze,<br>e là vi manderò Matthew Gough.<br>Combattete per il vostro [[archetypes/king\|re]], il vostro paese e le vostre vite!<br>E così, addio, ché devo tornare dentro. |
+| *(didascalia)* | Escono, Scales in alto, i cittadini in basso |
+
+### Atto 4, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/jack-cade\|Jack Cade]], il tessitore, il macellaio e gli altri. Cade batte la sua spada sulla Pietra di [[settings/london\|Londra]] |
+| CADE | Ora Mortimer è signore di questa [[motifs/city\|città]]. E, sedendo qui sulla Pietra di [[settings/london\|Londra]], ordino e comando che, a spese della [[motifs/city\|città]], la Fontana Pisciarella non versi altro che vino chiaretto in questo primo anno del nostro regno. E d'ora innanzi sarà tradimento per chiunque mi chiami altrimenti che lord Mortimer. |
+| *(didascalia)* | Entra un soldato, di corsa |
+| SOLDATO | [[characters/jack-cade\|Jack Cade]], [[characters/jack-cade\|Jack Cade]]! |
+| CADE | Perdio, abbattetelo lì! L'uccidono |
+| *(didascalia)* | MACELLAIO Se costui è saggio, non vi chiamerà più [[characters/jack-cade\|Jack Cade]]; credo abbia avuto un avvertimento bello e chiaro. Prende un foglio dal [[concepts/body\|corpo]] del soldato e lo legge Mio signore, c'è un esercito radunato a Smithfield. |
+| CADE | Venite dunque, andiamo a combatterli—ma prima, andate a dar fuoco al ponte di [[settings/london\|Londra]] e, se potete, bruciate anche la Torre. Via, andiamo. Escono |
+
+### Atto 4, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarmi. Scaramucce, nelle quali Matthew Gough è ucciso, e con lui tutti gli altri suoi uomini. Poi entra [[characters/jack-cade\|Jack Cade]] con la sua compagnia, fra cui il macellaio, il tessitore e John, un [[archetypes/rebel\|ribelle]] |
+| CADE | Dunque, signori, ora alcuni vadano ad abbattere il Savoy; altri alle Locande di [[settings/court\|Corte]]—giù tutte quante. |
+| MACELLAIO | Ho una richiesta per vossignoria. |
+| CADE | Fosse anche una signoria, l'avrai per quella parola. |
+| MACELLAIO | Solo che le leggi d'Inghilterra escano dalla vostra bocca. |
+| JOHN | (a parte, ai compagni) Per la messa, sarà legge dolorante allora, ché gli ficcarono una lancia in bocca, e non è ancora guarita. |
+| TESSITORE | (a parte, a John) Anzi, John, sarà legge puzzolente, ché il suo alito puzza d'aver mangiato formaggio arrostito. |
+| CADE | Ci ho pensato—sarà così. Via! Bruciate tutti gli archivi del regno. La mia bocca sarà il Parlamento d'Inghilterra. |
+| JOHN | (a parte, ai compagni) Allora è probabile che avremo statuti mordaci, se non gli si cavano i denti. |
+| CADE | E d'ora innanzi tutte le cose saranno in comune. Entra un messaggero |
+| MESSAGGERO | Mio signore, una preda, una preda! Ecco lord Saye, che vendette le città in Francia. Quello che ci fece pagare ventun quindicesimi e uno scellino per libbra all'ultimo sussidio. |
+| *(didascalia)* | Entra un [[archetypes/rebel\|ribelle]] con lord Saye |
+| CADE | [[motifs/well\|Bene]], per questo sarà decapitato dieci volte. (A Saye) Ah, tu, saia, tu, sargia—anzi, tu, lord di bucherame! Ora sei a bruciapelo sotto la nostra regale giurisdizione. Che sai rispondere alla mia maestà per aver ceduto la Normandia a monsù Basimecu, il [[characters/dauphin\|Delfino]] di Francia? Ti sia noto per queste presenze, anzi per la presenza di lord Mortimer, che io sono la scopa che deve spazzar pulita la [[settings/court\|corte]] da sozzura come te. Hai corrotto nel modo più traditore la gioventù del regno erigendo una scuola di grammatica; e, mentre prima i nostri antenati non avevano altri libri che la tacca e il bastoncino da conto, tu hai fatto usare la stampa e, contro la [[motifs/crown\|corona]] e la dignità del [[archetypes/king\|re]], hai costruito una cartiera. Ti sarà provato in faccia che hai intorno a te uomini che parlano abitualmente d'un nome e d'un verbo e di parole così abominevoli che nessun orecchio cristiano può sopportare d'udirle. Hai nominato giudici di pace per chiamare davanti a sé poveri uomini su materie a cui non sapevano rispondere. Inoltre, li hai messi in [[motifs/prison\|prigione]], e, perché non sapevano leggere, li hai impiccati, quando invece solo per quel motivo eran degnissimi di vivere. Cavalchi su una gualdrappa, non è vero? |
+| SAYE | E che c'entra? |
+| CADE | Per la Vergine, non dovresti lasciare che il tuo [[motifs/horse\|cavallo]] porti un mantello quando uomini più onesti di te vanno in calze e farsetto. |
+| MACELLAIO | E lavorano anche in camicia; come me, per esempio, che sono un macellaio. |
+| SAYE | Voi uomini del [[characters/kent\|Kent]]. |
+| MACELLAIO | Che dite del [[characters/kent\|Kent]]? |
+| SAYE | Nient'altro che questo—è bona terra, mala gens. |
+| CADE | Bonum terrum—perdio, che roba è? |
+| MACELLAIO | Parla francese. |
+| *(didascalia)* | primo [[archetypes/rebel\|RIBELLE]] No, è olandese. |
+| *(didascalia)* | SECONDO [[archetypes/rebel\|RIBELLE]] No, è fuor-taliano, lo conosco abbastanza [[motifs/well\|bene]]. |
+| SAYE | Solo ascoltatemi parlare, e portatemi dove volete.<br>Il [[characters/kent\|Kent]], nei commentari che Cesare scrisse,<br>è detto il luogo più civile di tutta quest'isola;<br>dolce è il paese, perché pieno di ricchezze;<br>la gente liberale, valorosa, attiva, agiata;<br>il che mi fa [[concepts/hope\|sperare]] che non siate privi di pietà.<br>Non vendetti il Maine, non perdetti la Normandia;<br>pure, per riacquistarle, perderei la vita.<br>Giustizia con clemenza ho sempre fatto,<br>preghiere e [[motifs/tears\|lacrime]] m'han commosso—i doni mai.<br>Quando ho esatto qualcosa dalle vostre mani,<br>se non per mantenere il [[archetypes/king\|re]], il regno e voi?<br>Larghi doni ho elargito a dotti chierici<br>perché il mio libro mi promosse presso il [[archetypes/king\|re]],<br>e poiché l'ignoranza è la maledizione di Dio,<br>e il sapere l'ala con cui voliamo al cielo.<br>Se non siete posseduti da spiriti diabolici,<br>non potete che astenervi dall'uccidermi.<br>Questa lingua ha parlamentato con re stranieri<br>a vostro vantaggio— |
+| CADE | Bah, quando mai tirasti un colpo in campo? |
+| SAYE | I grandi uomini hanno mani lunghe. Spesso ho colpito<br>quelli che mai vidi, e li ho colpiti a morte. |
+| [[archetypes/rebel\|RIBELLE]] | Oh, mostruoso codardo! Come, venire alle spalle della gente? |
+| SAYE | Queste guance son pallide per aver vegliato al vostro bene— |
+| CADE | Dategli uno schiaffo sull'orecchio, e quello le farà tornar rosse. |
+| *(didascalia)* | Uno dei ribelli colpisce Saye |
+| SAYE | Il lungo sedere per decidere le cause dei poveri<br>m'ha riempito di malanni e malattie. |
+| CADE | Avrai un brodino di canapa, allora, e la cura dell'ascia. |
+| MACELLAIO | (a Saye) Perché tremi, uomo? |
+| SAYE | La paralisi, e non il [[concepts/fear\|timore]], mi scuote. |
+| CADE | Anzi, ci fa segno col capo come per dire ‘Ve la farò pagare’. Vedrò se la sua testa sta più ferma su una picca o no. Portatelo via, e decapitatelo. |
+| SAYE | Ditemi in che cosa ho offeso di più ?<br>Ho ambito ricchezza o [[concepts/honour\|onore]]? Parlate.<br>I miei forzieri son riempiti d'oro estorto?<br>Le mie vesti son sontuose a vedersi?<br>Chi ho danneggiato, che cercate la mia [[motifs/death\|morte]]?<br>Queste mani son libere dallo spargere sangue innocente,<br>questo petto dal covare turpi pensieri ingannevoli.<br>Oh, lasciatemi vivere! |
+| CADE | (a parte) Sento in me il rimorso alle sue parole, ma lo terrò a freno. Morrà, non fosse che per aver perorato così [[motifs/well\|bene]] per la sua vita. (Ad alta voce) Portatelo via—ha un demonio familiare sotto la lingua; non parla in nome di Dio. Andate, portatelo via, dico, allo Stendardo in Cheapside, e tagliategli la testa subito; e poi andate a Mile End Green—sfondate la casa di suo genero, Sir James Cromer, e tagliategli la testa, e portatele entrambe qui su due picche. |
+| TUTTI I SEGUACI DI CADE | Sarà fatto! |
+| SAYE | Ah, compatrioti, se, quando fate le vostre preghiere,<br>Dio fosse ostinato come voi stessi,<br>come andrebbe alle vostre anime partite ?<br>E perciò impietositevi ancora e salvate la mia vita |
+| CADE | Portatelo via, e fate come vi comando! |
+| *(didascalia)* | Escono il macellaio e uno o due con lord Saye |
+| CADE | Il più superbo pari del regno non porterà una testa sulle spalle se non mi paga tributo. Non ci sarà fanciulla che si sposi senza pagarmi la sua verginità, prima che l'abbiano loro. Gli uomini sposati terranno da me in capite. E ordiniamo e comandiamo che le loro mogli siano libere quanto il cuore può desiderare o la lingua può dire. |
+| *(didascalia)* | Entra un [[archetypes/rebel\|ribelle]] |
+| [[archetypes/rebel\|RIBELLE]] | O capitano, il ponte di [[settings/london\|Londra]] è in fiamme! |
+| CADE | Corri a Billingsgate e prendi pece e lino e spegnilo. |
+| *(didascalia)* | Entrano il macellaio e un sergente |
+| SERGENTE | Giustizia, giustizia, vi prego, signore, fatemi aver giustizia di costui qui. |
+| CADE | Ebbene, che ha fatto? |
+| SERGENTE | Ahimè, signore, ha violentato mia moglie. |
+| MACELLAIO | (a Cade) Ebbene, mio signore, voleva arrestarmi, e io andai e intentai la mia causa nella casa propria di sua moglie. |
+| CADE | Dick, prosegui la tua causa nel suo luogo comune. (Al sergente) Tu, [[archetypes/villain\|furfante]] figlio di puttana, tu sei un sergente—prendi qualunque uomo per la gola per dodici pence, e arresti un uomo quando è a pranzo, e lo porti in [[motifs/prison\|prigione]] prima che la carne gli sia uscita di bocca. (Al macellaio) Va', Dick, portalo via: tagliagli la lingua per aver barato, azzoppalo per il correre, e, per concludere, spaccagli il cranio con la sua stessa mazza. |
+| *(didascalia)* | Esce il macellaio col sergente |
+| [[archetypes/rebel\|RIBELLE]] | Mio signore, quando andremo a Cheapside a prender merci a credito sulle nostre picche? |
+| CADE | Per la Vergine, subito. Chi vorrà tenerci duro con gagliardia verrà con me e prenderà le merci seguenti—item, una veste, una gonnella, una sottana e una camicia. |
+| TUTTI I SEGUACI DI CADE | Oh, bravo! |
+| *(didascalia)* | Entrano due con la testa di lord Saye e quella di Sir James Cromer su due picche |
+| CADE | Ma questo non è più bravo? Fatele baciar l'una l'altra, ché s'amavano [[motifs/well\|bene]] quando erano vivi. |
+| *(didascalia)* | Le due teste son fatte baciare |
+| CADE | Ora separatele di nuovo, ché non si consultino sul cedere ancora qualche altra città in Francia. Soldati, differite il saccheggio della [[motifs/city\|città]] fino a [[motifs/night\|notte]]. Ché con queste portate davanti a noi in luogo di mazze cavalcheremo per le strade, e a ogni angolo le faremo baciare. Via! |
+| *(didascalia)* | Escono i due con le teste. Gli altri cominciano a seguirli |
+| CADE | Su per Fish Street! Giù per l'angolo di San Magno! Ammazzate e abbattete! Gettateli nel Tamigi! |
+| *(didascalia)* | Suona un segnale di parlamento |
+| CADE | Che rumore è questo? Osa qualcuno esser tanto ardito da suonare ritirata o parlamento quando io comando d'ammazzare? |
+| *(didascalia)* | Entrano il [[characters/duke-of-buckingham\|duca di Buckingham]] e il vecchio lord [[characters/clifford\|Clifford]] |
+| [[characters/buckingham\|BUCKINGHAM]] | Sì, qui son quelli che osano e vogliono disturbarti!<br>Sappi, Cade, che veniamo ambasciatori del [[archetypes/king\|re]]<br>al popolo, che tu hai traviato,<br>e qui pronunciamo libero perdono a tutti quelli<br>che t'abbandoneranno e andranno a [[motifs/home\|casa]] in pace. |
+| [[characters/clifford\|CLIFFORD]] | Che dite, compatrioti, vi piegherete<br>e vi arrenderete alla [[concepts/mercy\|clemenza]] mentre v'è offerta,<br>o lascerete che un [[archetypes/rebel\|ribelle]] vi conduca alla morte?<br>Chi ama il [[archetypes/king\|re]] e vuol abbracciare il suo perdono,<br>getti in aria il cappello e dica ‘Dio salvi sua maestà’.<br>Chi l'odia e non onora suo padre,<br>Enrico Quinto, che fece tremare tutta la Francia,<br>scuota la sua arma contro di noi, e passi. |
+| *(didascalia)* | Gettano in aria i cappelli e abbandonano Cade |
+| TUTTI I | SEGUACI DI CADE Dio salvi il [[archetypes/king\|re]]! Dio salvi il [[archetypes/king\|re]]! |
+| CADE | Come, [[characters/buckingham\|Buckingham]] e [[characters/clifford\|Clifford]], siete così bravi? (Alla plebaglia) E voi, vili contadini, gli credete? Volete proprio farvi impiccare coi vostri perdoni al collo? La mia spada ha dunque sfondato le porte di [[settings/london\|Londra]] perché voi mi lasciaste al Cervo Bianco in Southwark? Credevo che non avreste mai deposto queste armi finché non avessi riconquistato la vostra antica [[concepts/freedom\|libertà]]. Ma siete tutti rinnegati e codardi, e vi dilettate di vivere in [[concepts/slavery\|schiavitù]] della nobiltà. Che vi rompano la schiena coi pesi, vi portino via le case sopra la testa, violentino le vostre mogli e figlie davanti ai vostri occhi. Per me, me la caverò da solo, e così la maledizione di Dio scenda su voi tutti. |
+| TUTTI I SEGUACI DI CADE | Seguiremo Cade! Seguiremo Cade!<br>Corrono di nuovo a Cade |
+| [[characters/clifford\|CLIFFORD]] | È Cade il figlio d'Enrico Quinto,<br>che così esclamate d'andar con lui?<br>Vi condurrà egli nel cuore della Francia<br>e farà del più umile di voi conti e duchi?<br>Ahimè, non ha [[motifs/home\|casa]], non luogo dove fuggire,<br>né sa come vivere se non di rapina—<br>se non derubando i vostri amici e noi.<br>Non sarebbe vergogna che, mentre voi vivete in discordia,<br>i paurosi Francesi, che voi vinceste di recente,<br>facessero un salto oltre i mari e vincessero voi?<br>Mi pare già, in questo tumulto civile,<br>di vederli far da signori nelle strade di [[settings/london\|Londra]],<br><br>gridando ‘Villiago!’ a tutti quelli che incontrano.<br>Meglio che diecimila Cade di bassa nascita periscano<br>che voi doveste piegarvi alla [[concepts/mercy\|mercé]] d'un Francese.<br>In Francia! In Francia! E riprendete ciò che avete perduto!<br>Risparmiate l'Inghilterra, ché è la vostra costa natale.<br>Enrico ha denaro; voi siete forti e virili;<br>Dio dal nostro lato, non [[concepts/doubt\|dubitate]] della vittoria. |
+| TUTTI I SEGUACI DI CADE | A [[characters/clifford\|Clifford]]! A [[characters/clifford\|Clifford]]! Seguiremo il [[archetypes/king\|re]] e [[characters/clifford\|Clifford]]!<br>Abbandonano Cade |
+| CADE | (a parte) Fu mai piuma soffiata qua e là così leggermente come questa moltitudine? Il nome d'Enrico Quinto li trascina a cento guai, e me li fa lasciare desolato. Li vedo metter le teste insieme per sorprendermi. La mia spada mi faccia strada, ché qui non c'è da restare. (Ad alta voce) A dispetto dei diavoli e dell'inferno, addosso, proprio nel mezzo di voi! E il cielo e l'[[concepts/honour\|onore]] siano testimoni che non mancanza di risoluzione in me, ma solo i vili e ignominiosi tradimenti dei miei seguaci mi fanno ricorrere ai calcagni.<br>Si getta fra loro col suo bastone, e fugge via |
+| [[characters/buckingham\|BUCKINGHAM]] | Come, è fuggito? Andate, alcuni, e inseguitelo,<br>e chi porterà la sua testa al [[archetypes/king\|re]]<br>avrà mille corone in ricompensa. |
+| *(didascalia)* | Escono alcuni di loro dietro a Cade |
+| [[characters/buckingham\|BUCKINGHAM]] | (Ai ribelli rimasti)<br>Seguitemi, soldati, troveremo un modo<br>di riconciliarvi tutti col [[archetypes/king\|re]]. Escono |
+
+### Atto 4, Scena 8
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Suonano le trombe. Entrano [[archetypes/king\|re]] Enrico, [[characters/queen-margaret\|Margherita]] e il duca di Somerset sulla terrazza |
+| [[archetypes/king\|RE]] ENRICO | Fu mai [[archetypes/king\|re]] che godesse d'un trono terreno<br>e potesse comandare meno contento di me?<br>Non appena fui uscito dalla culla<br>fui fatto [[archetypes/king\|re]] a nove mesi d'età.<br>Non fu mai suddito che bramasse d'esser [[archetypes/king\|re]]<br>quanto io bramo e desidero d'esser suddito. |
+| *(didascalia)* | Entrano il [[characters/duke-of-buckingham\|duca di Buckingham]] e lord [[characters/clifford\|Clifford]] sulla terrazza |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[archetypes/king\|re]] Enrico)<br>Salute e lieti annunzi a vostra maestà. |
+| [[archetypes/king\|RE]] ENRICO | Ebbene, [[characters/buckingham\|Buckingham]], è stato catturato il traditore Cade?<br>O s'è solo ritirato per rinforzarsi? |
+| *(didascalia)* | Entrano, in basso, moltitudini con capestri al collo |
+| [[characters/clifford\|CLIFFORD]] | È fuggito, mio signore, e tutte le sue forze si arrendono,<br>e umilmente così, coi capestri al collo,<br>attendono da vostra altezza sentenza di vita o di [[motifs/death\|morte]]. |
+| [[archetypes/king\|RE]] ENRICO | Allora, cielo, spalanca le tue porte eterne<br>per accogliere i miei voti di grazie e di lode.<br>(Alle moltitudini in basso)<br><br>Soldati, oggi avete riscattato le vostre vite,<br>e mostrato quanto [[motifs/well\|bene]] [[motifs/love\|amate]] il vostro principe e il vostro<br>paese.<br>Perseverate ancora in questo animo così buono,<br>ed Enrico, sebbene sia sfortunato,<br>siatene certi, non sarà mai scortese.<br>E così, con grazie e perdono a voi tutti,<br>vi licenzio alle vostre varie contrade. |
+| *(didascalia)* | TUTTI GLI EX SEGUACI DI CADE Dio salvi il [[archetypes/king\|re]]! Oro salvi il [[archetypes/king\|re]]! Escono le moltitudini in basso |
+| *(didascalia)* | Entra un messaggero sulla terrazza |
+| MESSAGGERO | (a [[archetypes/king\|re]] Enrico)<br>Piaccia a vostra grazia d'esser avvisata<br>che il [[characters/duke-of-york\|duca di York]] è appena venuto dall'Irlanda,<br>e con una possente e gagliarda forza<br>di gallowglass e robusti fanti irlandesi<br>sta marciando in questa direzione in superbo ordine,<br>e va proclamando, mentre avanza,<br>che le sue armi son solo per rimuovere da te<br>il duca di Somerset, che chiama traditore. |
+| [[archetypes/king\|RE]] ENRICO | Così sta il mio stato, angustiato fra Cade e York,<br>come una [[motifs/ship\|nave]] che, scampata a una tempesta,<br>è subito bonacciata e abbordata da un pirata.<br>Ma ora Cade è respinto, i suoi uomini dispersi,<br>e ora York è in armi per fargli seguito.<br>Ti prego, [[characters/buckingham\|Buckingham]], va' a incontrarlo,<br>e chiedigli qual è la ragione di queste armi.<br>Digli che manderò il duca [[characters/edmund\|Edmondo]] alla Torre;<br>e, Somerset, vi affideremo là,<br>finché il suo esercito non gli sia congedato. |
+| SOMERSET | Mio signore, mi consegnerò volentieri alla [[motifs/prison\|prigione]],<br>o alla [[motifs/death\|morte]], per fare il bene del mio paese. |
+| [[archetypes/king\|RE]] ENRICO | (a [[characters/buckingham\|Buckingham]])<br>In ogni caso, non siate troppo aspro nei termini,<br>ché è fiero e non tollera parole dure. |
+| [[characters/buckingham\|BUCKINGHAM]] | Così farò, mio signore, e non [[concepts/doubt\|dubito]] d'agire in modo<br>che ogni cosa torni a vostro bene. |
+| [[archetypes/king\|RE]] ENRICO | Vieni, moglie, entriamo e impariamo a governar meglio;<br>ché ancora l'Inghilterra può maledire il mio sventurato regno. |
+| *(didascalia)* | Squillo. Escono |
+
+### Atto 4, Scena 9
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/jack-cade\|Jack Cade]] |
+| CADE | Al diavolo le ambizioni; al diavolo me stesso, che ho una spada e pure son pronto a crepar di fame. Da questi cinque giorni mi son nascosto in questi boschi e non ho osato affacciarmi, ché tutto il paese è appostato per me. Ma ora ho tanta fame che, se pur mi si dessero in affitto mille anni di vita, non potrei star fermo più a lungo. Perciò, scavalcato un muro di mattoni, mi sono arrampicato in questo [[motifs/garden\|giardino]] per vedere se posso mangiare erba o cogliere un'insalata per un poco, ché non è male per rinfrescare lo stomaco d'un uomo con questo caldo. E credo che questa parola ‘insalata’ sia nata per farmi del bene; ché più d'una [[motifs/time\|volta]], se non fosse stato per un'insalata, il mio cranio sarebbe stato spaccato da un'alabarda; e più d'una [[motifs/time\|volta]], quando avevo sete e marciavo gagliardamente, m'ha servito in luogo d'un boccale da bere; e ora la parola ‘insalata’ deve servirmi da cibo. |
+| *(didascalia)* | Si stende cogliendo erbe e mangiandole. Entrano Sir Alexander Iden e cinque dei suoi uomini |
+| IDEN | Signore, chi vorrebbe vivere agitato a [[settings/court\|corte]]<br>potendo godere passeggiate quiete come queste?<br>Questa piccola eredità che mio padre mi lasciò<br>mi contenta, e val quanto una monarchia.<br>Non cerco d'ingrandirmi col decadere altrui,<br>o d'accumulare ricchezze non curandomi di quanta invidia;<br>basta che quel che ho mantenga il mio stato,<br>e mandi il povero [[motifs/well\|ben]] contento dal mio portone. |
+| *(didascalia)* | Cade si solleva sulle ginocchia |
+| CADE | (a parte) Perdio, ecco il signore del suolo venuto a sequestrarmi come bestia randagia per esser entrato nel suo podere senza licenza. (A Iden) Ah, [[archetypes/villain\|furfante]], mi tradirai e prenderai mille corone dal [[archetypes/king\|re]] portandogli la mia testa; ma ti farò mangiare ferro come uno struzzo e [[motifs/swallow\|inghiottire]] la mia spada come un grosso spillo, prima che tu e io ci separiamo. |
+| IDEN | Ebbene, rozzo compare, chiunque tu sia,<br>non ti conosco. Perché dunque dovrei tradirti?<br>Non basta irrompere nel mio [[motifs/garden\|giardino]],<br>e, come un ladro, venire a derubare le mie terre,<br>scavalcando i miei muri a dispetto mio che ne son padrone,<br>ma vuoi anche sfidarmi con questi termini insolenti? |
+| CADE | Sfidarti? Sì, per il miglior [[motifs/blood\|sangue]] che mai fu spillato—e anche affrontarti in barba! Guardami [[motifs/well\|bene]]—non ho mangiato carne da cinque giorni, pure vieni tu coi tuoi cinque uomini, e se non vi lascio tutti morti come un chiodo di porta, prego Dio ch'io non mangi mai più erba. |
+| IDEN | No, mai si dirà, finché l'Inghilterra sta in piedi,<br>che Alexander Iden, scudiero del [[characters/kent\|Kent]],<br>prese vantaggio per combattere un povero uomo affamato.<br>Opponi i tuoi occhi fissi e saldi ai miei—<br>vedi se sai vincermi in faccia coi tuoi sguardi.<br>Membro a membro, e sei di gran lunga il minore—<br>la tua mano non è che un dito al mio pugno,<br>la tua gamba un bastoncino a paragone di questo randello.<br>Il mio piede combatterà con tutta la forza che hai,<br>e se il mio braccio si leva in aria,<br>la tua [[motifs/grave\|fossa]] è già scavata nella terra.<br>Quanto alle parole, la cui [[concepts/greatness\|grandezza]] risponde a parole,<br>questa mia spada riferisca ciò che il discorso tralascia.<br>(Ai suoi uomini) State tutti da parte. |
+| CADE | Sul mio valore, il più compiuto campione ch'io mai udii. (Alla sua spada) Acciaio, se pieghi il filo o non ritagli questo villano dalle ossa grosse in lombate di bue prima di [[motifs/sleep\|dormire]] nel tuo fodero, supplico Dio in ginocchio che tu possa esser mutato in chiodi da scarpe. |
+| *(didascalia)* | Cade si alza. Qui combattono, e Cade cade a terra |
+| CADE | Oh, sono ucciso! La fame e nessun altro m'ha ucciso! Vengano contro di me diecimila diavoli, e datemi solo i dieci pasti che ho perduto, e li sfiderei tutti. Secca, [[motifs/garden\|giardino]], e sii d'ora innanzi luogo di sepoltura per tutti quelli che abitano in questa casa, perché l'invitta [[motifs/soul\|anima]] di Cade è fuggita. |
+| IDEN | È Cade quello che ho ucciso, quel mostruoso traditore?<br>Spada, ti consacrerò per questa tua impresa<br>e t'appenderò sopra la mia tomba quando sarò morto.<br>Mai questo [[motifs/blood\|sangue]] sarà terso dalla tua punta,<br>ma tu lo porterai come la cotta d'un araldo<br>a blasonare l'[[concepts/honour\|onore]] che il tuo padrone ottenne. |
+| CADE | Iden, addio, e sii orgoglioso della tua vittoria. Di' al [[characters/kent\|Kent]] da parte mia che ha perduto il suo miglior uomo, ed esorta tutto il mondo a esser codardo. Ché io, che mai temetti nessuno, son vinto dalla fame, non dal valore.<br>Muore |
+| IDEN | Quanto torto mi fai, il cielo sia mio giudice.<br>Muori, maledetto sciagurato, maledizione di colei che ti partorì! |
+| *(didascalia)* | E pugnalandolo di nuovo Come spingo dentro il tuo [[concepts/body\|corpo]] con |
+| IDEN | la mia spada,<br>così vorrei poter spingere la tua [[motifs/soul\|anima]] all'inferno.<br>Di qui ti trascinerò a capofitto per i calcagni<br>fino a un letamaio, che sarà la tua [[motifs/grave\|fossa]],<br>e là taglierò la tua sgraziatissima testa,<br>che porterò in trionfo al [[archetypes/king\|re]],<br>lasciando il tuo tronco in pasto ai corvi. |
+| *(didascalia)* | Escono col [[concepts/body\|corpo]] |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il [[characters/duke-of-york\|duca di York]] e il suo esercito d'Irlandesi con un tamburino e soldati che portano le insegne |
+| YORK | Dall'Irlanda così viene York a rivendicare il suo diritto,<br>e a strappare la [[motifs/crown\|corona]] dal capo del debole Enrico.<br>Suonate, [[motifs/bells\|campane]], a distesa; ardete, fuochi di gioia, chiari e lucenti,<br>per accogliere il legittimo [[archetypes/king\|re]] della grande Inghilterra.<br>Ah, sancta maiestas! Chi non ti comprerebbe a caro prezzo?<br>Obbedisca chi non sa come governare;<br>questa mano fu fatta per maneggiare nient'altro che oro.<br>Non posso dare debita azione alle mie parole,<br>se non le bilanci una spada o uno scettro.<br>Uno scettro l'avrà, quant'è vera la mia parola,<br>sul quale scaglierò il giglio di Francia. |
+| *(didascalia)* | Entra il [[characters/duke-of-buckingham\|duca di Buckingham]] |
+| YORK | (A parte) Chi abbiamo qui? [[characters/buckingham\|Buckingham]] a disturbar<br>me?<br>Certo il [[archetypes/king\|re]] l'ha mandato—devo dissimulare. |
+| [[characters/buckingham\|BUCKINGHAM]] | York, se intendi il [[motifs/well\|bene]], io ti saluto [[motifs/well\|bene]]. |
+| YORK | Humphrey di [[characters/buckingham\|Buckingham]], accetto il tuo saluto.<br>Sei un messaggero, o vieni per tuo piacere? |
+| [[characters/buckingham\|BUCKINGHAM]] | Un messaggero d'Enrico, nostro temuto sire,<br>per saper la ragione di queste armi in tempo di pace;<br>o perché tu, essendo suddito come sono io,<br>contro il tuo giuramento e la fedeltà giurata,<br>dovresti levare una forza così grande senza sua licenza,<br>o osare portare le tue schiere così vicino alla [[settings/court\|corte]]? |
+| YORK | (a parte)<br>A pena posso parlare, tanto è grande la mia bile.<br>Oh, potrei spaccare rocce e combattere con la selce,<br>tanto son irato per questi termini abietti;<br>e ora, come [[characters/ajax\|Aiace]] Telamonio,<br>potrei sfogare la mia furia su pecore o buoi.<br>Son nato assai meglio del [[archetypes/king\|re]],<br>più simile a [[archetypes/king\|re]], più regale nei miei pensieri;<br>ma devo far buon tempo ancora un poco,<br>finché Enrico sia più debole e io più forte.<br>(Ad alta voce) [[characters/buckingham\|Buckingham]], ti prego, perdonami,<br>se non ho dato risposta per tutto questo tempo;<br>la mia mente era turbata da profonda [[concepts/melancholy\|malinconia]].<br>La causa per cui ho condotto qui quest'esercito<br>è di rimuovere il superbo Somerset dal [[archetypes/king\|re]],<br>sedizioso verso sua grazia e verso lo stato. |
+| [[characters/buckingham\|BUCKINGHAM]] | Questa è troppa presunzione da parte tua;<br>ma se le tue armi non han altro fine,<br>il [[archetypes/king\|re]] ha ceduto alla tua richiesta:<br>il duca di Somerset è nella Torre. |
+| YORK | Sul tuo [[concepts/honour\|onore]], è prigioniero? |
+| [[characters/buckingham\|BUCKINGHAM]] | Sul mio [[concepts/honour\|onore]], è prigioniero. |
+| YORK | Allora, [[characters/buckingham\|Buckingham]], congedo le mie forze.<br>Soldati, vi ringrazio tutti; disperdetevi;<br>trovatevi con me domani nel campo di San Giorgio.<br>Avrete paga e tutto ciò che desiderate. |
+| *(didascalia)* | Escono i soldati |
+| YORK | (A [[characters/buckingham\|Buckingham]]) E il mio sovrano, il virtuoso<br>Enrico,<br>disponga del mio figlio maggiore—anzi, di tutti i miei figli—<br>come pegni della mia fedeltà e del mio [[motifs/love\|amore]].<br>Li manderò tutti tanto volentieri quant'è vero ch'io vivo.<br>Terre, beni, [[motifs/horse\|cavalli]], armature, tutto quel che ho<br>è suo da usare, purché Somerset possa morire. |
+| [[characters/buckingham\|BUCKINGHAM]] | York, lodo questa gentile sottomissione.<br>Noi due andremo nella tenda di sua altezza. |
+| *(didascalia)* | Entrano [[archetypes/king\|re]] Enrico e attendenti |
+| [[archetypes/king\|RE]] ENRICO | [[characters/buckingham\|Buckingham]], York non intende alcun male verso di noi,<br>ché così marcia con te a braccetto? |
+| YORK | In ogni sottomissione e [[concepts/humility\|umiltà]]<br>York si presenta a vostra altezza. |
+| [[archetypes/king\|RE]] ENRICO | Che intendono dunque queste forze che porti? |
+| YORK | Rimuovere di qui il traditore Somerset,<br>e combattere contro quel mostruoso [[archetypes/rebel\|ribelle]] Cade,<br>che poi ho udito esser stato sconfitto. |
+| *(didascalia)* | Entra Iden con la testa di Cade |
+| IDEN | Se uno così rozzo e di condizione così umile<br>può entrare alla presenza d'un [[archetypes/king\|re]], |
+| *(didascalia)* | Inginocchiandosi Ecco, presento a vostra grazia la testa d'un traditore, |
+| IDEN | la testa di Cade, che io uccisi in combattimento. |
+| [[archetypes/king\|RE]] ENRICO | La testa di Cade? Gran Dio, come sei giusto!<br>Oh, lascia ch'io veda il suo volto, ora ch'è morto,<br>lui che vivo mi procurò tanto immenso travaglio.<br>Dimmi, amico mio, sei tu l'uomo che l'uccise? |
+| *(didascalia)* | IDEN alzandosi |
+| [[archetypes/king\|RE]] ENRICO | Certamente, se piace a vostra maestà. |
+| [[archetypes/king\|RE]] ENRICO | Come ti chiami? E qual è il tuo grado? |
+| IDEN | Alexander Iden, questo è il mio nome;<br>un povero scudiero del [[characters/kent\|Kent]] che ama il suo [[archetypes/king\|re]]. |
+| [[characters/buckingham\|BUCKINGHAM]] | (a [[archetypes/king\|re]] Enrico)<br>Se vi piace, mio signore, non sarebbe male<br>ch'egli fosse creato cavaliere per il suo buon servizio. |
+| [[archetypes/king\|RE]] ENRICO | Iden, inginocchiati.<br>Iden s'inginocchia e [[archetypes/king\|re]] Enrico lo fa cavaliere<br><br>Alzati cavaliere.<br>Iden si alza<br>Ti diamo in ricompensa mille marchi,<br>e vogliamo che d'ora innanzi tu ci serva. |
+| IDEN | Possa Iden vivere per meritare tanta munificenza,<br>e non vivere mai se non fedele al suo sire. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Entrano [[characters/queen-margaret\|Margherita]] e il duca di Somerset |
+| [[archetypes/king\|RE]] ENRICO | Vedi, [[characters/buckingham\|Buckingham]], Somerset viene con la [[characters/queen\|regina]].<br>Va' a dirle di nasconderlo presto al Duca. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Per mille York non nasconderà il capo,<br>ma starà saldo e l'affronterà in faccia. |
+| YORK | Come? Somerset è in libertà?<br>Allora, York, sciogli i tuoi pensieri lungamente imprigionati,<br>e la tua lingua sia pari al tuo cuore.<br>Sopporterò la vista di Somerset?<br>Falso [[archetypes/king\|re]], perché hai rotto la [[concepts/faith\|fede]] con me,<br>sapendo quanto malamente io tolleri l'oltraggio?<br>‘[[archetypes/king\|Re]]’ t'ho chiamato? No, tu non sei [[archetypes/king\|re]];<br>non atto a governare e reggere moltitudini,<br>tu che non osi—no, né sai—governare un traditore.<br>Quel tuo capo non s'addice a una [[motifs/crown\|corona]];<br>la tua mano è fatta per stringere il bordone d'un pellegrino,<br>e non per adornare un temuto scettro principesco.<br>Quell'oro deve cingere tutt'intorno queste mie tempie,<br>il cui sorriso e cipiglio, come la lancia d'[[characters/achilles\|Achille]],<br>è capace col mutare d'uccidere e di guarire.<br>Ecco una mano per tenere alto uno scettro,<br>e con esso attuare leggi che governano.<br>Fa' luogo! Per il cielo, non regnerai più<br>su colui che il cielo creò per esser tuo signore. |
+| SOMERSET | O mostruoso traditore! Ti arresto, York,<br>per tradimento capitale contro il [[archetypes/king\|re]] e la [[motifs/crown\|corona]].<br>Obbedisci, audace traditore; inginocchiati per grazia. |
+| YORK | (a un attendente)<br>Tu là, chiama qui i miei figli a farmi da garanti. Esce l'attendente<br><br>So che, prima di lasciarmi andare in cella,<br>impegneranno le loro spade per la mia liberazione. |
+| *(didascalia)* | [[characters/queen-margaret\|REGINA MARGHERITA]] a [[characters/buckingham\|Buckingham]] |
+| YORK | Chiama qui [[characters/clifford\|Clifford]]; digli di venir in fretta,<br>a dire se i bastardi ragazzi di York<br>saranno garanti del loro traditore padre. |
+| *(didascalia)* | Esce [[characters/buckingham\|Buckingham]] |
+| YORK | O Napoletana macchiata di [[motifs/blood\|sangue]],<br>reietta di Napoli, sanguinoso flagello d'Inghilterra!<br>I figli di York, tuoi superiori per nascita,<br>saranno garanti del padre, e rovina di quelli<br>che per la mia cauzione rifiuteranno i ragazzi. |
+| *(didascalia)* | Entrano da una porta i figli di York, Edoardo e il gobbo [[characters/richard\|Riccardo]], con un tamburino e soldati |
+| YORK | Guardate dove vengono. Garantisco che lo manterranno. |
+| *(didascalia)* | Entrano dall'altra porta [[characters/clifford\|Clifford]] e suo figlio, con un tamburino e soldati |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Ed ecco che viene [[characters/clifford\|Clifford]] a negare la loro cauzione. |
+| [[characters/clifford\|CLIFFORD]] | (inginocchiandosi davanti a [[archetypes/king\|re]] Enrico)<br>Salute e ogni felicità al mio signore il [[archetypes/king\|re]].<br>Si alza |
+| YORK | Ti ringrazio, [[characters/clifford\|Clifford]]. Di', che nuove porti?<br>No, non spaventarci con uno sguardo irato—<br>noi siamo il tuo sovrano, [[characters/clifford\|Clifford]]; inginocchiati di nuovo.<br>Per questo tuo errore, ti perdoniamo. |
+| [[characters/clifford\|CLIFFORD]] | Questo è il mio [[archetypes/king\|re]], York; io non erro.<br>Ma tu erri molto sul mio conto a pensare ch'io erri.<br>(A [[archetypes/king\|re]] Enrico)<br>A Bedlam con lui! È diventato pazzo, quest'uomo? |
+| [[archetypes/king\|RE]] ENRICO | Sì, [[characters/clifford\|Clifford]], un umore da manicomio e ambizioso<br>lo fa opporsi al suo [[archetypes/king\|re]]. |
+| [[characters/clifford\|CLIFFORD]] | È un traditore; sia condotto alla Torre,<br>e gli si tronchi quella sua zucca sediziosa. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | È arrestato, ma non vuol obbedire.<br>I suoi figli, dice, daranno la loro parola per lui. |
+| YORK | (a Edoardo e a [[characters/richard\|Riccardo]]) Non è vero, figli? |
+| EDOARDO | Sì, nobile padre, se le nostre parole basteranno. |
+| [[characters/richard\|RICCARDO]] | E se le parole non basteranno, basteranno le nostre armi. |
+| [[characters/clifford\|CLIFFORD]] | Ebbene, che covata di traditori abbiamo qui! |
+| YORK | Guardati in uno specchio, e chiama così la tua immagine.<br>Io sono il tuo [[archetypes/king\|re]], e tu un traditore dal cuore falso.<br>Chiamate qui al palo i miei due valorosi orsi,<br>ché col solo scuotere delle loro [[motifs/chains\|catene]]<br>possano sbigottire questi cagnacci acquattati.<br>(A un attendente)<br>Di' a Salisbury e a Warwick di venire a me. |
+| *(didascalia)* | Esce l'attendente |
+| *(didascalia)* | Entrano i conti di Warwick e Salisbury con un tamburino e soldati |
+| [[characters/clifford\|CLIFFORD]] | Son questi i tuoi orsi? Aizzeremo i tuoi orsi a [[motifs/death\|morte]],<br>e incateneremo l'orsaio nelle loro [[motifs/chains\|catene]],<br>se osi portarli nel recinto dell'aizzamento. |
+| [[characters/richard\|RICCARDO]] | Spesso ho visto un cagnaccio ardente e presuntuoso<br>tornare indietro e mordere, perché era trattenuto;<br>il quale, quando gli si lasciò provar la fiera zampa dell'orso,<br>si mise la coda fra le gambe e strillò;<br>e tal servizio farete voi,<br>se vi opponete a misurarvi con lord Warwick. |
+| [[characters/clifford\|CLIFFORD]] | Via, mucchio d'ira, turpe grumo indigesto,<br>storto nei modi quanto nella forma! |
+| YORK | No, vi scalderemo per bene fra poco. |
+| [[characters/clifford\|CLIFFORD]] | Badate, che col vostro calore non bruciate voi stessi. |
+| [[archetypes/king\|RE]] ENRICO | Ebbene, Warwick, il tuo ginocchio ha dimenticato d'inchinarsi?<br>Vecchio Salisbury, vergogna ai tuoi capelli d'argento,<br>tu, pazzo traviatore del tuo figlio dal cervello malato!<br>Come, sul tuo letto di morte vorrai far il bravaccio,<br>e cercare il dolore coi tuoi occhiali?<br>Oh, dov'è la [[concepts/faith\|fede]]? Oh, dov'è la lealtà?<br>Se è bandita dal capo canuto,<br>dove troverà ricetto sulla terra?<br>Vuoi andare a scavare una [[motifs/grave\|fossa]] per trovar la guerra,<br>e svergognare la tua onorata età col [[motifs/blood\|sangue]]?<br>Ebbene, sei vecchio e ti manca l'esperienza?<br>O perché ne abusi, se l'hai?<br>Per vergogna, per dovere piega il tuo ginocchio a me,<br>tu che ti curvi verso la [[motifs/grave\|tomba]] per la molta età. |
+| SALISBURY | Mio signore, ho considerato dentro di me<br>il titolo di questo rinomatissimo Duca,<br>e nella mia [[concepts/conscience\|coscienza]] reputo sua grazia<br>il legittimo erede del regale seggio d'Inghilterra. |
+| [[archetypes/king\|RE]] ENRICO | Non hai giurato fedeltà a me? |
+| SALISBURY | L'ho giurata. |
+| [[archetypes/king\|RE]] ENRICO | Puoi ottenere dal cielo dispensa da tal giuramento? |
+| SALISBURY | È gran peccato giurare per un peccato,<br>ma peccato maggiore mantenere un giuramento peccaminoso.<br>Chi può esser vincolato da qualsiasi voto solenne<br>a compiere un atto d'assassinio, a derubare un uomo,<br>a forzare la castità d'una vergine immacolata,<br>a spogliare l'[[archetypes/orphan\|orfano]] del suo patrimonio,<br>a strappare alla vedova il suo diritto consueto,<br>e non aver altra ragione per questo torto<br>se non che era vincolato da un giuramento solenne? |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Un traditore sottile non ha bisogno di sofista. |
+| [[archetypes/king\|RE]] ENRICO | (a un attendente)<br>Chiama [[characters/buckingham\|Buckingham]], e digli d'armarsi. |
+| *(didascalia)* | Esce l'attendente |
+| YORK | (a [[archetypes/king\|re]] Enrico)<br>Chiama [[characters/buckingham\|Buckingham]] e tutti gli amici che hai,<br>io son risoluto alla [[motifs/death\|morte]] o alla dignità. |
+| [[characters/clifford\|CLIFFORD]] | La prima, te lo garantisco, se i [[motifs/dreams\|sogni]] dicono il vero. |
+| WARWICK | Meglio faresti ad andare a letto e a sognare di nuovo,<br>per tenerti lontano dalla tempesta del campo. |
+| [[characters/clifford\|CLIFFORD]] | Son risoluto a sostenere una [[motifs/storm\|tempesta]] più grande<br>di qualunque tu possa evocare oggi—<br>e questo lo scriverò sul tuo elmetto,<br>se solo potessi riconoscerti dall'insegna della tua casa. |
+| WARWICK | Ora, per l'insegna di mio padre, il cimiero del vecchio Neville,<br>l'orso rampante incatenato al bastone nodoso,<br>oggi lo porterò alto sul mio elmetto,<br>come sulla cima d'un monte si mostra il cedro<br>che tiene le sue [[motifs/leaves\|foglie]] a dispetto d'ogni [[motifs/storm\|tempesta]],<br>proprio per spaventarti con la sua vista. |
+| [[characters/clifford\|CLIFFORD]] | E dal tuo elmetto strapperò il tuo orso,<br>e lo calpesterò sotto i piedi con ogni disprezzo,<br>a dispetto dell'orsaio che protegge l'orso. |
+| GIOVANE [[characters/clifford\|CLIFFORD]] | E dunque all'armi, vittorioso padre,<br>a domare i ribelli e i loro complici. |
+| [[characters/richard\|RICCARDO]] | Suvvia, [[concepts/charity\|carità]], vergogna! Non parlate per dispetto—<br>ché questa notte cenerete con Gesù [[characters/christ\|Cristo]]. |
+| GIOVANE [[characters/clifford\|CLIFFORD]] | Turpe segnato, questo è più di quanto tu possa dire. |
+| [[characters/richard\|RICCARDO]] | Se non in cielo, cenerete certamente all'inferno. |
+| *(didascalia)* | Escono da parti diverse |
+| *(didascalia)* | Un'insegna di taverna: un [[settings/castle\|castello]]. Allarmi per la battaglia. Poi entrano il duca di Somerset e [[characters/richard\|Riccardo]] combattendo. [[characters/richard\|Riccardo]] uccide Somerset sotto l'insegna |
+| [[characters/richard\|RICCARDO]] | Così giaci là—<br>ché sotto la meschina insegna d'una taverna,<br>il [[settings/castle\|Castello]] di Saint Albans, Somerset<br>ha reso famoso il mago con la sua [[motifs/death\|morte]].<br>Spada, tieni la tua tempra; cuore, sii ancora irato—<br>i preti pregano per i nemici, ma i principi uccidono. |
+| *(didascalia)* | Esce col [[concepts/body\|corpo]] di Somerset. L'insegna è portata via |
+| *(didascalia)* | Allarme di nuovo. Entra il [[characters/earl-of-warwick\|conte di Warwick]] |
+| WARWICK | [[characters/clifford\|Clifford]] di Cumberland, è Warwick che chiama!<br>E se non ti nascondi dall'orso,<br>ora, quando l'irata tromba suona l'allarme,<br>e le grida dei morti riempiono l'aria vuota,<br>[[characters/clifford\|Clifford]], dico, vieni avanti e combatti con me!<br>Superbo signore del nord, [[characters/clifford\|Clifford]] di Cumberland,<br>Warwick è rauco a chiamarti all'armi! |
+| [[characters/clifford\|CLIFFORD]] | (All'interno)<br>Warwick, sta' fermo; e non muoverti finché io venga. |
+| *(didascalia)* | Entra il [[characters/duke-of-york\|duca di York]] |
+| WARWICK | Ebbene, mio nobile signore? Come, tutto a piedi? |
+| YORK | [[characters/clifford\|Clifford]] dalla mano mortale ha ucciso il mio destriero.<br>Ma pari a pari l'ho affrontato,<br>e ho fatto preda per nibbi e corvi carognai<br>proprio della bella bestia ch'egli amava così [[motifs/well\|bene]]. |
+| *(didascalia)* | Entra lord [[characters/clifford\|Clifford]] |
+| WARWICK | (a [[characters/clifford\|Clifford]])<br>Per uno o per entrambi di noi il [[motifs/time\|tempo]] è venuto. |
+| YORK | Ferma, Warwick—cercati qualche altra caccia,<br>ché io stesso devo dar la [[motifs/death\|morte]] a questo cervo. |
+| WARWICK | Allora nobilmente, York; è per una [[motifs/crown\|corona]] che combatti.<br>(A [[characters/clifford\|Clifford]]) Com'è vero che intendo, [[characters/clifford\|Clifford]], prosperare oggi,<br>duole all'[[motifs/soul\|anima]] mia lasciarti non assalito. Esce |
+| YORK | [[characters/clifford\|Clifford]], poiché siamo appartati qui soli,<br>sia questo il giorno della fine per uno di noi.<br>Ché sappi, il mio cuore ha giurato odio immortale<br>a te e a tutta la casa di Lancaster. |
+| [[characters/clifford\|CLIFFORD]] | E qui sto e pianto il mio piede contro il tuo,<br>giurando di non muovermi finché tu o io non sia ucciso.<br>Ché mai il mio cuore riposerà sicuro<br>finché non avrò distrutto l'odiosa casa di York. |
+| *(didascalia)* | Allarmi. Combattono. York uccide [[characters/clifford\|Clifford]] |
+| YORK | Ora, Lancaster, siedi ben saldo—i tuoi nervi si contraggono.<br>Vieni, timoroso Enrico, strisciando col volto a terra—<br>cedi la tua [[motifs/crown\|corona]] al principe di York. Esce |
+| *(didascalia)* | Allarmi, poi entra il giovane [[characters/clifford\|Clifford]] |
+| GIOVANE [[characters/clifford\|CLIFFORD]] | Vergogna e confusione, tutto è in rotta!<br>Il [[concepts/fear\|timore]] genera disordine, e il disordine ferisce<br>là dove dovrebbe difendere. O guerra, tu figlia dell'inferno,<br>che i cieli irati fanno loro ministra,<br>getta nei petti gelati della nostra parte<br>carboni ardenti di vendetta! Nessun soldato fugga!<br>Chi è veramente consacrato alla guerra<br>non ha [[motifs/love\|amore]] di [[concepts/self\|sé]]; né chi ama se stesso<br>ha, se non essenzialmente ma per circostanza,<br>il nome di valore.<br>Vede il [[concepts/body\|corpo]] di suo padre<br>Oh, finisca il vile mondo,<br>e le fiamme promesse dell'ultimo giorno<br>congiungano terra e cielo insieme.<br>Ora la tromba universale dia il suo squillo,<br>e le particolarità e i suoni meschini<br>cessino! Fosti tu destinato, caro padre,<br>a perdere la tua giovinezza in pace, e a conseguire<br>la livrea d'argento dell'età prudente,<br>e nella tua venerazione e nei tuoi giorni di seggio, così<br>morire in battaglia da bravacci? A questa sola vista<br>il mio cuore s'è mutato in pietra, e finché è mio<br>sarà di pietra. York non risparmia i nostri vecchi;<br>né io più i loro bambini. Le [[motifs/tears\|lacrime]] verginali<br>mi saranno come la rugiada al [[motifs/fire\|fuoco]],<br>e la [[concepts/beauty\|bellezza]] che spesso ammansisce il [[archetypes/tyrant\|tiranno]]<br>sarà alla mia ira fiammeggiante olio e lino.<br>D'ora innanzi non avrò nulla a che fare con la pietà.<br>Se incontro un infante della casa di York,<br>lo taglierò in tanti bocconi<br>quanti la feroce Medea fece del giovane Absirto.<br>Nella crudeltà cercherò la mia fama.<br>Vieni, tu nuova rovina della casa del vecchio [[characters/clifford\|Clifford]],<br>Si carica il [[concepts/body\|corpo]] del padre sulle spalle<br>come Enea portò il vecchio Anchise,<br>così io ti porto sulle mie virili spalle.<br>Ma allora Enea portava un carico vivente,<br>nulla di così pesante come questi miei dolori. |
+| *(didascalia)* | Esce col [[concepts/body\|corpo]] |
+| *(didascalia)* | Allarmi |
+| *(didascalia)* | di nuovo. Poi entrano tre o quattro portando il [[characters/duke-of-buckingham\|duca di Buckingham]] ferito alla sua tenda. Allarmi ancora. Entrano [[archetypes/king\|re]] Enrico, [[characters/queen-margaret\|Margherita]] e altri |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Via, mio signore! Siete lento. Vergogna, via! |
+| [[archetypes/king\|RE]] ENRICO | Possiamo correre più veloci del cielo? Buona Margherita, fermati. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Di che siete fatto? Non volete né combattere né fuggire.<br>Ora è virilità, saggezza e difesa<br>dar la via al nemico, e metterci in salvo<br>con ciò che possiamo, e non possiamo altro che fuggire. |
+| *(didascalia)* | Allarme in lontananza |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Se sarete preso, vedremmo allora il [[characters/bottom\|fondo]]<br>di tutte le nostre fortune; ma se per avventura scampiamo—<br>come [[motifs/well\|ben]] possiamo, se non per vostra negligenza—<br>arriveremo a [[settings/london\|Londra]], dove siete amato,<br>e dove questa breccia ora aperta nelle nostre fortune<br>potrà prontamente esser turata. |
+| *(didascalia)* | Entra il giovane [[characters/clifford\|Clifford]] |
+| GIOVANE [[characters/clifford\|CLIFFORD]] | (a [[archetypes/king\|re]] Enrico)<br>Se il mio cuore non fosse volto a futuri danni,<br>bestemmierei prima di dirvi di fuggire;<br>ma fuggire dovete; una sconfitta incurabile<br>regna nei cuori di tutte le nostre schiere presenti.<br>Via, per la vostra salvezza, e noi vivremo<br>per vedere il loro giorno e loro dare a noi la fortuna.<br>Via, mio signore, via! Escono |
+
+### Atto 5, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme. Ritirata. Entrano il [[characters/duke-of-york\|duca di York]], i suoi figli Edoardo e [[characters/richard\|Riccardo]], e soldati, fra cui un tamburino e alcuni che portano le insegne |
+| YORK | (a Edoardo e a [[characters/richard\|Riccardo]])<br>Ebbene, ragazzi! Fortunata è stata questa battaglia,<br>[[concepts/hope\|spero]], per noi e per i nostri, per il bene d'Inghilterra<br>e per il nostro grande [[concepts/honour\|onore]], che così a lungo perdemmo<br>mentre Enrico dal cuore fiacco usurpava i nostri diritti.<br>Di Salisbury, chi può darmi notizia?<br>Quel [[motifs/lion\|leone]] d'[[motifs/winter\|inverno]] che nell'ira dimentica<br>le contusioni degli anni e ogni urto del [[motifs/time\|tempo]],<br>e, come un galante nel fiore della giovinezza,<br>si rinnova con l'occasione. Questo giorno felice<br>non è se stesso, né abbiamo guadagnato un piede<br>se Salisbury è perduto. |
+| [[characters/richard\|RICCARDO]] | Mio nobile padre,<br>tre volte oggi l'aiutai a montare a [[motifs/horse\|cavallo]];<br>tre volte lo cavalcai a difesa; tre volte lo condussi fuori,<br>dissuadendolo da ogni altra azione;<br>ma sempre dov'era il pericolo, sempre là lo incontravo,<br>e come ricchi arazzi in una casa modesta,<br>così era la sua volontà nel suo vecchio e debole [[concepts/body\|corpo]]. |
+| *(didascalia)* | Entrano i conti di Salisbury e Warwick |
+| EDOARDO | (a York)<br>Guardate, nobile padre, dove vengono entrambi—<br>i soli sostegni della casa di York! |
+| SALISBURY | Ora, per la mia spada, [[motifs/well\|bene]] hai combattuto oggi;<br>per la messa, così facemmo tutti. Ti ringrazio, [[characters/richard\|Riccardo]].<br>Dio sa quanto mi resta da vivere,<br>e gli è piaciuto che tre volte oggi<br>tu m'abbia difeso da [[motifs/death\|morte]] imminente.<br>[[motifs/well\|Bene]], signori, non abbiamo guadagnato ciò che abbiamo—<br>non basta che i nostri nemici sian fuggiti questa [[motifs/time\|volta]],<br>essendo avversari di [[concepts/nature\|natura]] così pronta a rifarsi. |
+| YORK | So che la nostra salvezza è inseguirli,<br>ché, come sento, il [[archetypes/king\|re]] è fuggito a [[settings/london\|Londra]],<br>per convocare subito una [[settings/court\|corte]] di Parlamento.<br>Inseguiamolo prima che escano i mandati.<br>Che dice lord Warwick, andremo loro dietro? |
+| WARWICK | Loro dietro? Anzi, davanti a loro, se possiamo!<br>Ora, per questa mia mano, signori, fu un giorno glorioso!<br>La battaglia di Saint Albans vinta dal famoso York<br>sarà eternata in ogni età a venire. |
+| *(didascalia)* | Suonino tamburi e trombe, e tutti a [[settings/london\|Londra]], |
+| WARWICK | e altri giorni come questi ci accadano! |
+| *(didascalia)* | Squillo. Escono |
+| PASSI AGGIUNTIVI | A. Adottiamo la versione del Quarto del 1594 del discorso iniziale della [[characters/queen\|regina]], 1.1.24—9; la versione del Folio, che segue, è probabilmente la stesura originale dell'autore. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Gran [[archetypes/king\|re]] d'Inghilterra, e mio grazioso signore,<br>il mutuo colloquio che la mia mente ha avuto—<br>di giorno, di [[motifs/night\|notte]]; vegliando, e nei miei [[motifs/dreams\|sogni]];<br>in compagnia di corte, o al mio rosario—<br>con voi, mio carissimo sovrano fra tutti,<br>mi rende più ardita a salutare il mio [[archetypes/king\|re]]<br>con termini più rozzi, quali il mio ingegno concede<br>e l'eccesso di gioia del cuore somministra.<br>B. Per 1.4.39―40.2 il Quarto sostituisce quanto segue; può riportare una revisione fatta in prova per coprire la discesa dello Spirito.<br>Lo Spirito s'affonda di nuovo |
+| BOLINGBROKE | Giù dunque, dico, nello stagno dannato<br>dove Plutone siede nel suo carro di fuoco<br>cavalcando, in mezzo ai fumi bruciati e arsi,<br>la [[motifs/road\|via]] di Dite lungo il [[motifs/river\|fiume]] Stige.<br>Là ulula e brucia per sempre in quelle fiamme.<br>Alzati, Jordan, alzati, e cessa i tuoi incantesimi—<br>perdio, siamo traditi!<br><br>C. L'intero dibattito sulla [[motifs/death\|morte]] del duca Humphrey in 3. 1<br>è trattato diversamente dal Quarto rispetto al Folio. Noi<br>conserviamo la versione del Folio del dibattito, ma la versione<br>del Quarto può rappresentare una revisione autoriale. Le seguenti<br>righe di Q, corrispondenti in grosso a 3.1.310―30.1, sono di<br>particolare interesse perché forniscono a [[characters/buckingham\|Buckingham]]<br>battute per quest'ultima parte della scena.<br>[YORK]<br>Datemi alcune bande di soldati scelti,<br>e York tenterà la sua fortuna contro quei fanti. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | York, l'avrai. Mio signore di [[characters/buckingham\|Buckingham]],<br>sia vostro incarico radunare tali soldati<br>quanti gli bastino in queste guerre necessarie. |
+| [[characters/buckingham\|BUCKINGHAM]] | Madama, lo farò, e leverò una banda tale<br>che presto sopraffarà quei ribelli irlandesi.<br>Ma, York, dove t'attenderanno quei soldati? |
+| YORK | A Bristol li attenderò fra dieci giorni. |
+| BUCKINCHAM | Là dunque verranno, e così addio. |
+| *(didascalia)* | Esce |
+| YORK | Addio, mio signore di [[characters/buckingham\|Buckingham]]. |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | Suffolk, ricordate ciò che avete da fare—<br>e voi, lord Cardinat—riguardo al duca Humphrey.<br>Sarebbe bene che vi badaste a [[motifs/time\|tempo]].<br>Venite, andiamo, sì che sia compiuto. |
+| *(didascalia)* | Escono tutti tranne York |
+| [[characters/queen-margaret\|REGINA MARGHERITA]] | D. Adottiamo la versione del Quarto del confronto fra [[characters/clifford\|Clifford]] e York a 5.3.20—30; la versione del Folio, di cui segue un testo curato, è probabilmente la stesura originale dell'autore. |
+| [[characters/clifford\|CLIFFORD]] | Che vedi in me, York? Perché t'arresti? |
+| YORK | Del tuo valoroso portamento sarei [[motifs/love\|innamorato]],<br>se non fossi tanto saldamente mio nemico. |
+| [[characters/clifford\|CLIFFORD]] | Né al tuo valore mancherebbero lode e stima,<br>se non fosse mostrato ignobilmente e nel tradimento. |
+| YORK | Che m'aiuti dunque ora contro la tua spada,<br>com'io lo spiego in giustizia e in vero diritto. |
+| [[characters/clifford\|CLIFFORD]] | La mia [[motifs/soul\|anima]] e il mio [[concepts/body\|corpo]] sull'azione, entrambi. |
+| YORK | Terribile puntata. Preparati all'istante. |
+| [[characters/clifford\|CLIFFORD]] | La fin couronne les oeuvres.<br>Allarmi. Combattono. York uccide [[characters/clifford\|Clifford]] |
+| YORK | Così la guerra t'ha dato pace, ché ora sei immobile.<br>Pace all'[[motifs/soul\|anima]] sua, o cielo, se è tua volontà. Esce |
+| [[characters/richard\|RICCARDO]] [[characters/duke-of-york\|DUCA DI YORK]] | (3 [[characters/henry-vi\|ENRICO VI]]) |
 
 
 
@@ -2342,121 +3590,6 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 | SUFFOLK | I’ll see it truly done, my lord of York. |
 | *(didascalia)* | Exeunt all but York |
 | YORK | Now, York, or never, steel thy fearful thoughts,<br>And change misdoubt to resolution.<br>Be that thou hop‘st to be, or what thou art<br>Resign to [[motifs/death\|death]]; it is not worth th’enjoying.<br>Let pale-faced [[concepts/fear\|fear]] keep with the mean-born man<br>And find no harbour in a royal heart.<br>Faster than springtime showers comes thought on<br>thought,<br>And not a thought but thinks on dignity.<br>My brain, more busy than the labouring spider,<br>Weaves tedious snares to trap mine enemies.<br>[[motifs/well\|Well]], nobles, [[motifs/well\|well]]: ’tis politicly done<br>To send me packing with an host of men.<br>I [[concepts/fear\|fear]] me you but warm the starved snake,<br>Who, cherished in your breasts, will sting your hearts.<br>’Twas men I lacked, and you will give them me.<br>I take it kindly. Yet be [[motifs/well\|well]] assured<br>You put sharp weapons in a madman’s hands.<br>Whiles I in Ireland [[characters/nurse\|nurse]] a mighty band,<br>I will stir up in England some black [[motifs/storm\|storm]]<br>Shall blow ten thousand souls to heaven or hell,<br>And this fell tempest shall not cease to rage<br>Until the golden circuit on my head<br>Like to the glorious sun’s transparent beams<br>Do calm the fury of this mad-bred flaw.<br>And for a minister of my intent,<br>I have seduced a headstrong Kentishman,<br>John Cade of Ashford,<br>To make commotion, as full [[motifs/well\|well]] he can,<br>Under the title of John Mortimer.<br>In Ireland have I seen this stubborn Cade<br>Oppose himself against a troop of kerns,<br>And fought so long till that his thighs with darts<br>Were almost like a sharp-quilled porcupine;<br>And in the end, being rescued, I have seen<br>Him caper upright like a wild Morisco,<br>Shaking the bloody darts as he his [[motifs/bells\|bells]].<br>Full often like a shag-haired crafty kern<br>Hath he conversed with the enemy<br>And, undiscovered, come to me again<br>And given me notice of their villainies.<br>This devil here shall be my substitute,<br>For that John Mortimer, which now is dead,<br>In face, in gait, in speech, he doth resemble.<br>By this I shall perceive the commons’ mind,<br>How they affect the house and claim of York.<br>Say he be taken, racked, and torturèd—<br>I know no [[motifs/pain\|pain]] they can inflict upon him<br>Will make him say I moved him to those arms.<br>Say that he thrive, as ’tis great like he will—<br>Why then from Ireland come I with my strength<br>And reap the harvest which that coistrel sowed.<br>For Humphrey being dead, as he shall be,<br>And Henry put apart, the next for me. Exit |
-| *(didascalia)* | 3.2 The curtains are drawn apart, revealing Duke Humphrey of [[characters/gloucester\|Gloucester]] in his bed with two men lying on his breast, smothering him in his bed |
-| FIRST MURDERER | (to the Second Murderer)<br>Run to my lord of Suffolk—let him know<br>We have dispatched the Duke as he commanded. |
-| SECOND MURDERER | O that it were to do! What have we done?<br>Didst ever hear a man so penitent? |
-| *(didascalia)* | Enter the [[characters/duke-of-suffolk\|Duke of Suffolk]] |
-| FIRST MURDERER | Here comes my lord. |
-| SUFFOLK | Now, sirs, have you dispatched this thing? |
-| FIRST MURDERER | Ay, my good lord, he’s dead. |
-| SUFFOLK | Why, that’s [[motifs/well\|well]] said. Go, get you to my house.<br>I will reward you for this venturous deed.<br><br>The [[archetypes/king\|King]] and all the peers are here at hand.<br>Have you laid fair the bed? Is all things [[motifs/well\|well]],<br>According as I gave directions? |
-| FIRST MURDERER | ’Tis, my good lord. |
-| SUFFOLK | Then draw the curtains close; away, be gone! |
-| *(didascalia)* | Exeunt the Murderers, drawing the curtains as |
-| *(didascalia)* | they leave |
-| *(didascalia)* | Sound trumpets, then enter [[archetypes/king\|King]] Henry and [[characters/queen\|Queen]] |
-| SUFFOLK | Margaret, [[characters/cardinal-beaufort\|Cardinal Beaufort]], the Duke of Somerset,<br><br>and attendants |
-| *(didascalia)* | [[archetypes/king\|KING]] HENRY to Suffolk |
-| SUFFOLK | Go call our uncle to our presence straight.<br>Say we intend to try his grace today<br>If he be guilty, as ’tis published. |
-| SUFFOLK | I’ll call him presently, my noble lord. |
-| *(didascalia)* | Exit |
-| [[archetypes/king\|KING]] HENRY | Lords, take your places; and, I pray you all,<br>Proceed no straiter ’gainst our uncle [[characters/gloucester\|Gloucester]]<br>Than from true evidence, of good esteem,<br>He be approved in practice culpable. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | God forbid any malice should prevail<br>That faultless may condemn a noble man!<br>Pray God he may acquit him of suspicion! |
-| [[archetypes/king\|KING]] HENRY | I thank thee, Meg. These words content me much. |
-| *(didascalia)* | Enter Suffolk |
-| [[archetypes/king\|KING]] HENRY | How now? Why look’st thou pale? Why tremblest<br>thou?<br>Where is our uncle? What’s the matter, Suffolk? |
-| SUFFOLK | Dead in his bed, my lord—[[characters/gloucester\|Gloucester]] is dead. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Marry, God forfend! |
-| [[characters/cardinal-beaufort\|CARDINAL BEAUFORT]] | God’s secret judgement. I did dream tonight<br>The Duke was dumb and could not speak a word.<br>[[archetypes/king\|King]] Henry falls to the ground |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | How fares my lord? Help, lords—the [[archetypes/king\|King]] is dead! |
-| SOMERSET | Rear up his [[concepts/body\|body]]; wring him by the nose. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Run, go, help, help! O Henry, ope thine eyes! |
-| SUFFOLK | He doth revive again. Madam, be patient. |
-| [[archetypes/king\|KING]] HENRY | O heavenly God! |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | How fares my gracious lord? |
-| SUFFOLK | Comfort, my sovereign; gracious Henry, comfort. |
-| [[archetypes/king\|KING]] HENRY | What, doth my lord of Suffolk comfort me?<br>Came he right now to sing a raven’s note<br>Whose dismal tune bereft my vital powers;<br>And thinks he that the chirping of a wren,<br>By crying comfort from a hollow breast<br>Can chase away the first-conceived sound?<br>Hide not thy [[motifs/poison\|poison]] with such sugared words. |
-| *(didascalia)* | He begins to rise. Suffolk offers to assist him |
-| [[archetypes/king\|KING]] HENRY | Lay not thy hands on me—forbear, I say!<br>Their touch affrights me as a serpent’s sting.<br>Thou baleful messenger, out of my sight!<br>Upon thy eyeballs murderous tyranny<br>Sits in grim majesty to fright the world.<br>Look not upon me, for thine eyes are wounding—<br>Yet do not go away. Come, basilisk,<br>And kill the [[archetypes/innocent\|innocent]] gazer with thy sight.<br>For in the shade of [[motifs/death\|death]] I shall find joy;<br>In life, but [[topoi/double\|double]] [[motifs/death\|death]], now [[characters/gloucester\|Gloucester]]’s dead. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Why do you rate my lord of Suffolk thus?<br>Although the Duke was enemy to him,<br>Yet he most Christian-like laments his [[motifs/death\|death]].<br>And for myself, foe as he was to me,<br>Might liquid [[motifs/tears\|tears]], or heart-offending groans,<br>Or [[motifs/blood\|blood]]-consuming sighs recall his life,<br>I would be blind with weeping, sick with groans,<br>Look pale as primrose with [[motifs/blood\|blood]]-drinking sighs,<br>And all to have the noble Duke alive.<br>What know I how the world may deem of me?<br>For it is known we were but hollow friends,<br>It may be judged I made the Duke away.<br>So shall my name with slander’s tongue be wounded<br>And princes’ courts be filled with my reproach.<br>This get I by his [[motifs/death\|death]]. Ay me, unhappy,<br>To be a [[characters/queen\|queen]], and crowned with infamy. |
-| [[archetypes/king\|KING]] HENRY | Ah, woe is me for [[characters/gloucester\|Gloucester]], wretched man! |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Be woe for me, more wretched than he is.<br>What, dost thou turn away and hide thy face?<br>I am no loathsome leper—look on me!<br>What, art thou, like the adder, waxen deaf?<br>Be poisonous too and kill thy forlorn [[characters/queen\|queen]].<br>Is all thy comfort shut in [[characters/gloucester\|Gloucester]]’s tomb?<br>Why, then [[characters/queen-margaret\|Queen Margaret]] was ne‘er thy joy.<br>Erect his statue and worship it, 80<br>And make my image but an alehouse sign.<br>Was I for this nigh wrecked upon the sea,<br>And twice by awkward winds from England’s bank<br>Drove back again unto my native clime?<br>What boded this, but [[motifs/well\|well]] forewarning winds<br>Did seem to say, ‘Seek not a scorpion’s nest,<br>Nor set no footing on this unkind shore’.<br>What did I then, but cursed the gentle gusts<br>And he that loosed them forth their brazen caves,<br>And bid them blow towards England’s blessed shore,<br>Or turn our stern upon a dreadful rock.<br>Yet Aeolus would not be a murderer,<br>But left that hateful office unto thee.<br>The pretty vaulting sea refused to drown me,<br>Knowing that thou wouldst have me drowned on<br>shore<br>With [[motifs/tears\|tears]] as salt as sea through thy unkindness.<br>The splitting rocks cow’red in the sinking sands,<br>And would not dash me with their ragged sides,<br>Because thy flinty heart, more hard than they,<br>Might in thy palace perish Margaret.<br>As far as I could ken thy chalky cliffs,<br>When from thy shore the tempest beat us back,<br>I stood upon the hatches in the [[motifs/storm\|storm]],<br>And when the dusky sky began to rob<br>My earnest-gaping sight of thy land’s view,<br>I took a costly [[motifs/jewel\|jewel]] from my neck—<br>A heart it was, bound in with diamonds—<br>And threw it towards thy land. The sea received it,<br>And so I wished thy [[concepts/body\|body]] might my heart.<br>And even with this I lost fair England’s view,<br>And bid mine eyes be packing with my heart,<br>And called them blind and dusky spectacles<br>For losing ken of Albion’s wished coast.<br>How often have I tempted Suffolk’s tongue—<br>The agent of thy foul inconstancy—<br>To sit and [[characters/witch\|witch]] me, as Ascanius did,<br>When he to madding Dido would unfold<br>His father’s acts, commenced in burning Troy!<br>Am I not witched like her? Or thou not false like him?<br>Ay me, I can no more. Die, Margaret,<br>For Henry weeps that thou dost live so long.<br>Noise within. Enter the Earls of Warwick and Salisbury with many commons |
-| WARWICK | (to [[archetypes/king\|King]] Henry)<br>It is reported, mighty sovereign,<br>That good Duke Humphrey traitorously is murdered<br>By Suffolk and the [[characters/cardinal-beaufort\|Cardinal Beaufort]]’s means.<br>The commons, like an angry hive of [[motifs/bees\|bees]]<br>That want their leader, scatter up and down<br>And care not who they sting in his [[concepts/revenge\|revenge]].<br>Myself have calmed their spleenful mutiny,<br>Until they hear the order of his [[motifs/death\|death]]. |
-| [[archetypes/king\|KING]] HENRY | That he is dead, good Warwick, ’tis too true.<br>But how he died God knows, not Henry. |
-| *(didascalia)* | Enter his chamber, view his breathless corpse, |
-| [[archetypes/king\|KING]] HENRY | And comment then upon his sudden [[motifs/death\|death]]. |
-| WARWICK | That shall I do, my liege.—Stay, Salisbury,<br>With the rude multitude till I return. |
-| *(didascalia)* | Exeunt Warwick at one door, Salisbury and |
-| *(didascalia)* | commons at another |
-| [[archetypes/king\|KING]] HENRY | O thou that judgest all things, stay my thoughts,<br>My thoughts that labour to persuade my [[motifs/soul\|soul]]<br>Some violent hands were laid on Humphrey’s life.<br>If my suspect be false, forgive me God,<br>For judgement only doth belong to thee.<br>Fain would I go to chafe his paly lips<br>With twenty thousand kisses, and to drain<br>Upon his face an ocean of salt [[motifs/tears\|tears]],<br>To tell my [[motifs/love\|love]] unto his dumb, deaf trunk,<br>And with my fingers feel his hand unfeeling.<br>But all in vain are these mean obsequies, |
-| *(didascalia)* | Enter Warwick who draws apart the curtains and |
-| *(didascalia)* | shows [[characters/gloucester\|Gloucester]] dead in his bed. Bed put forth |
-| [[archetypes/king\|KING]] HENRY | And to survey his dead and earthy image,<br>What were it but to make my sorrow greater? |
-| WARWICK | Come hither, gracious sovereign, view this [[concepts/body\|body]]. |
-| [[archetypes/king\|KING]] HENRY | That is to see how deep my [[motifs/grave\|grave]] is made:<br>For with his [[motifs/soul\|soul]] fled all my worldly solace,<br>For seeing him I see my life in [[motifs/death\|death]]. |
-| WARWICK | As surely as my [[motifs/soul\|soul]] intends to live<br>With that dread [[archetypes/king\|King]] that took our state upon Him<br>To free us from his Father’s wrathful curse,<br>I do believe that violent hands were laid<br>Upon the life of this thrice-famed Duke. |
-| SUFFOLK | A dreadful oath, sworn with a solemn tongue!<br>What instance gives Lord Warwick for his vow? |
-| WARWICK | See how the [[motifs/blood\|blood]] is settled in his face.<br>Oft have I seen a timely-parted [[archetypes/ghost\|ghost]]<br>Of ashy semblance, meagre, pale, and bloodless,<br>Being all descended to the labouring heart;<br>Who, in the conflict that it holds with [[motifs/death\|death]],<br>Attracts the same for aidance ‘gainst the enemy;<br>Which, with the heart, there cools, and ne’er returneth<br>To blush and beautify the cheek again.<br>But see, his face is black and full of [[motifs/blood\|blood]];<br>His eyeballs further out than when he lived,<br>Staring full ghastly like a strangled man;<br>His hair upreared; his nostrils stretched with<br>struggling;<br>His hands abroad displayed, as one that grasped<br>And tugged for life and was by strength subdued.<br>Look on the sheets. His hair, you see, is sticking;<br>His [[motifs/well\|well]]-proportioned beard made rough and rugged,<br>Like to the [[motifs/summer\|summer]]’s corn by tempest lodged.<br>It cannot be but he was murdered here.<br>The least of all these signs were probable. |
-| SUFFOLK | Why, Warwick, who should do the Duke to [[motifs/death\|death]]?<br>Myself and Beaufort had him in protection,<br>And we, I [[concepts/hope\|hope]], sir, are no murderers. |
-| WARWICK | But both of you were vowed Duke Humphrey’s foes,<br>(To [[characters/cardinal-beaufort\|Cardinal Beaufort]])<br>And you, forsooth, had the good Duke to keep.<br>’Tis like you would not feast him like a friend;<br>And ’tis [[motifs/well\|well]] seen he found an enemy. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Then you, belike, suspect these noblemen<br>As guilty of Duke Humphrey’s timeless [[motifs/death\|death]]? |
-| WARWICK | Who finds the heifer dead and bleeding fresh,<br>And sees fast by a butcher with an axe,<br>But will suspect ’twas he that made the slaughter?<br>Who finds the partridge in the puttock’s nest<br>But may imagine how the bird was dead,<br>Although the kite soar with unbloodied beak?<br>Even so suspicious is this [[forms/tragedy\|tragedy]]. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Are you the butcher, Suffolk? Where’s your knife?<br>Is Beaufort termed a kite? Where are his talons? |
-| SUFFOLK | I wear no knife to slaughter sleeping men.<br>But here’s a vengeful sword, rusted with ease,<br>That shall be scoured in his rancorous heart<br>That slanders me with murder’s crimson badge.<br>Say, if thou dar’st, proud Lord of Warwickshire,<br>That I am faulty in Duke Humphrey’s [[motifs/death\|death]]. |
-| *(didascalia)* | Exit [[characters/cardinal-beaufort\|Cardinal Beaufort]] assisted by Somerset |
-| WARWICK | What dares not Warwick, if false Suffolk dare him? |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | He dares not calm his contumelious spirit,<br>Nor cease to be an arrogant controller,<br>Though Suffolk dare him twenty thousand times. |
-| WARWICK | Madam, be still, with reverence may I say,<br>For every word you speak in his behalf<br>Is slander to your royal dignity. |
-| SUFFOLK | Blunt-witted lord, ignoble in demeanour!<br>If ever lady wronged her lord so much,<br>Thy mother took into her blameful bed<br>Some stern untutored churl, and noble stock<br>Was graffed with crabtree slip, whose fruit thou art,<br>And never of the Nevilles’ noble race. |
-| WARWICK | But that the [[concepts/guilt\|guilt]] of murder bucklers thee<br>And I should rob the deathsman of his fee,<br>Quitting thee thereby of ten thousand shames,<br>And that my sovereign’s presence makes me mild,<br>I would, false murd‘rous coward, on thy knee<br>Make thee beg pardon for thy passed speech,<br>And say it was thy mother that thou meant’st—<br>That thou thyself wast born in bastardy!<br>And after all this fearful homage done,<br>Give thee thy hire and send thy [[motifs/soul\|soul]] to hell,<br>Pernicious [[motifs/blood\|blood]]-sucker of sleeping men! |
-| SUFFOLK | Thou shalt be waking while I shed thy [[motifs/blood\|blood]],<br>If from this presence thou dar’st go with me. |
-| WARWICK | Away, even now, or I will drag thee hence.<br>Unworthy though thou art, I’ll cope with thee,<br>And do some service to Duke Humphrey’s [[archetypes/ghost\|ghost]]. |
-| *(didascalia)* | Exeunt Suffolk and Warwick |
-| [[archetypes/king\|KING]] HENRY | What stronger breastplate than a heart untainted?<br>Thrice is he armed that hath his quarrel just;<br>And he but naked, though locked up in steel,<br>Whose [[concepts/conscience\|conscience]] with injustice is corrupted. |
-| COMMONS | (within) Down with Suffolk! Down with Suffolk! |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | What noise is this? |
-| *(didascalia)* | Enter Suffolk and Warwick with their weapons drawn |
-| [[archetypes/king\|KING]] HENRY | Why, how now, lords? Your wrathful weapons drawn<br>Here in our presence? Dare you be so bold?<br>Why, what tumultuous clamour have we here? |
-| SUFFOLK | The trait’rous Warwick with the men of Bury<br>Set all upon me, mighty sovereign! |
-| COMMONS | (within) Down with Suffolk! Down with Suffolk! |
-| *(didascalia)* | Enter from the commons the [[characters/earl-of-salisbury\|Earl of Salisbury]] |
-| SALISBURY | (to the commons, within)<br>Sirs, stand apart. The [[archetypes/king\|King]] shall know your mind.<br>(To [[archetypes/king\|King]] Henry)<br>Dread lord, the commons send you word by me<br>Unless Lord Suffolk straight be done to [[motifs/death\|death]],<br>Or banished fair England’s territories,<br>They will by violence tear him from your palace<br>And torture him with grievous ling‘ring [[motifs/death\|death]].<br>They say, by him the good Duke Humphrey died;<br>They say, in him they [[concepts/fear\|fear]] your highness’ [[motifs/death\|death]];<br>And mere instinct of [[motifs/love\|love]] and loyalty,<br>Free from a stubborn opposite intent,<br>As being thought to contradict your liking,<br>Makes them thus forward in his banishment.<br>They say, in care of your most royal person,<br>That if your highness should intend to [[motifs/sleep\|sleep]],<br>And charge that no man should disturb your rest<br>In [[motifs/pain\|pain]] of your dislike, or [[motifs/pain\|pain]] of [[motifs/death\|death]],<br>Yet, notwithstanding such a strait edict,<br>Were there a serpent seen with forked tongue,<br>That slily glided towards your majesty,<br>It were but necessary you were waked,<br>Lest, being suffered in that harmful slumber,<br>The mortal worm might make the [[motifs/sleep\|sleep]] eternal.<br>And therefore do they cry, though you forbid,<br>That they will guard you, whe’er you will or no,<br>From such fell serpents as false Suffolk is,<br>With whose envenomed and fatal sting<br>Your loving uncle, twenty times his worth,<br>They say, is shamefully bereft of life. |
-| COMMONS | (within) An answer from the [[archetypes/king\|King]], my lord of Salisbury! |
-| SUFFOLK | ’Tis like the commons, rude unpolished hinds,<br>Could send such message to their sovereign.<br>But you, my lord, were glad to be employed,<br>To show how quaint an orator you are.<br>But all the [[concepts/honour\|honour]] Salisbury hath won<br>Is that he was the Lord Ambassador<br>Sent from a sort of tinkers to the [[archetypes/king\|King]]. |
-| COMMONS | (within) An answer from the [[archetypes/king\|King]], or we will all break in! |
-| [[archetypes/king\|KING]] HENRY | Go, Salisbury, and tell them all from me<br>I thank them for their tender loving care,<br>And had I not been ’cited so by them,<br>Yet did I purpose as they do entreat;<br>For sure my thoughts do hourly prophesy<br>Mischance unto my state by Suffolk’s means.<br>And therefore by His majesty I swear,<br>Whose far unworthy deputy I am,<br>He shall not breathe infection in this air<br>But three days longer, on the [[motifs/pain\|pain]] of [[motifs/death\|death]]. |
-| *(didascalia)* | Exit Salisbury |
-| *(didascalia)* | [[characters/queen-margaret\|QUEEN MARGARET]] kneeling |
-| [[archetypes/king\|KING]] HENRY | O Henry, let me plead for gentle Suffolk. |
-| [[archetypes/king\|KING]] HENRY | Ungentle [[characters/queen\|Queen]], to call him gentle Suffolk.<br>No more, I say! If thou dost plead for him<br>Thou wilt but add increase unto my wrath.<br>Had I but said, I would have kept my word;<br>But when I swear, it is irrevocable.<br>(To Suffolk) If after three days’ space thou here beest<br>found<br>On any ground that I am ruler of,<br>The world shall not be ransom for thy life.<br>Come, Warwick; come, good Warwick, go with me.<br>I have great matters to impart to thee. |
-| *(didascalia)* | Exeunt [[archetypes/king\|King]] Henry and Warwick with |
-| *(didascalia)* | attendants who draw the curtains as they |
-| *(didascalia)* | leave. [[characters/queen-margaret\|Queen Margaret]] and Suffolk remain |
-| *(didascalia)* | [[characters/queen-margaret\|QUEEN MARGARET]] rising |
-| [[archetypes/king\|KING]] HENRY | Mischance and sorrow go along with you!<br>Heart’s discontent and sour affliction<br>Be playfellows to keep you company!<br>There’s two of you, the devil make a third,<br>And threefold vengeance tend upon your steps! |
-| SUFFOLK | Cease, gentle [[characters/queen\|Queen]], these execrations,<br>And let thy Suffolk take his heavy leave. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Fie, coward woman and soft-hearted wretch!<br>Hast thou not spirit to curse thine enemies? |
-| SUFFOLK | A plague upon them! Wherefore should I curse them?<br>Could curses kill, as doth the mandrake’s groan,<br>I would invent as bitter searching terms,<br>As curst, as harsh, and horrible to hear,<br>Delivered strongly through my fixed teeth,<br>With full as many signs of deadly hate,<br>As lean-faced envy in her loathsome [[motifs/cave\|cave]].<br>My tongue should stumble in mine earnest words;<br>Mine eyes should sparkle like the beaten flint;<br>My hair be fixed on end, as one distraught;<br>Ay, every joint should seem to curse and ban.<br>And, even now, my burdened heart would break<br>Should I not curse them. [[motifs/poison\|Poison]] be their drink!<br>Gall, worse than gall, the daintiest that they taste!<br>Their sweetest shade a grove of cypress trees!<br>Their chiefest prospect murd’ring basilisks!<br>Their softest touch as smart as lizards’ stings!<br>Their music frightful as the serpent’s hiss,<br>And boding screech-owls make the consort full!<br>All the foul terrors in dark-seated hell— |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Enough, sweet Suffolk, thou torment‘st thyself,<br>And these dread curses, like the sun ’gainst glass,<br>Or like an overcharged gun, recoil<br>And turn the force of them upon thyself. |
-| SUFFOLK | You bade me ban, and will you bid me leave?<br>Now by this ground that I am banished from,<br>[[motifs/well\|Well]] could I curse away a [[motifs/winter\|winter]]’s [[motifs/night\|night]],<br>Though standing naked on a mountain top,<br>Where biting cold would never let grass grow,<br>And think it but a minute spent in sport. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | O let me entreat thee cease. Give me thy hand,<br>That I may dew it with my mournful [[motifs/tears\|tears]];<br>Nor let the rain of heaven wet this place<br>To wash away my woeful monuments. |
-| *(didascalia)* | She kisses his palm |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | O, could this kiss be printed in thy hand<br>That thou mightst think upon these lips by the seal,<br>Through whom a thousand sighs are breathed for<br>thee!<br>So get thee gone, that I may know my grief.<br>’Tis but surmised whiles thou art standing by,<br>As one that surfeits thinking on a want.<br>I will repeal thee, or, be [[motifs/well\|well]] assured,<br>Adventure to be banished myself.<br>And banished I am, if but from thee.<br>Go, speak not to me; even now be gone!<br>O, go not yet. Even thus two friends condemned<br>Embrace, and kiss, and take ten thousand [[motifs/leaves\|leaves]],<br>Loather a hundred times to part than die.<br>Yet now farewell, and farewell life with thee. |
-| SUFFOLK | Thus is poor Suffolk ten times banishèd—<br>Once by the [[archetypes/king\|King]], and three times thrice by thee.<br>’Tis not the land I care for, wert thou thence,<br>A wilderness is populous enough,<br>So Suffolk had thy heavenly company.<br>For where thou art, there is the world itself,<br>With every several pleasure in the world;<br>And where thou art not, desolation.<br>I can no more. Live thou to joy thy life;<br>Myself no joy in naught but that thou liv’st. |
-| *(didascalia)* | Enter Vaux |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Whither goes Vaux so fast? What news, I prithee? |
-| VAUX | To signify unto his majesty<br>That [[characters/cardinal-beaufort\|Cardinal Beaufort]] is at point of [[motifs/death\|death]].<br>For suddenly a grievous sickness took him<br>That makes him gasp, and stare, and catch the air,<br>Blaspheming God and cursing men on earth.<br>Sometime he talks as if Duke Humphrey’s [[archetypes/ghost\|ghost]]<br>Were by his side; sometime he calls the [[archetypes/king\|King]],<br>And whispers to his pillow as to him<br>The [[motifs/secrets\|secrets]] of his over-charged [[motifs/soul\|soul]];<br>And I am sent to tell his majesty<br>That even now he cries aloud for him. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Go tell this heavy message to the [[archetypes/king\|King]]. Exit Vaux<br>Ay me! What is this world? What news are these?<br>But wherefore grieve I at an hour’s poor loss<br>Omitting Suffolk’s [[concepts/exile\|exile]], my [[motifs/soul\|soul]]’s treasure?<br>Why only, Suffolk, mourn I not for thee,<br>And with the southern clouds contend in [[motifs/tears\|tears]]—<br>Theirs for the earth’s increase, mine for my sorrow’s?<br>Now get thee hence. The [[archetypes/king\|King]], thou know’st, is<br>coming. 390<br>If thou be found by me, thou art but dead. |
-| SUFFOLK | If I depart from thee, I cannot live.<br>And in thy sight to die, what were it else<br>But like a pleasant slumber in thy lap?<br>Here could I breathe my [[motifs/soul\|soul]] into the air,<br>As mild and gentle as the cradle babe<br>Dying with mother’s dug between his lips;<br>Where, from thy sight, I should be raging mad,<br>And cry out for thee to close up mine eyes,<br>To have thee with thy lips to stop my mouth,<br>So shouldst thou either turn my flying [[motifs/soul\|soul]]<br>Or I should breathe it, so, into thy [[concepts/body\|body]]— |
-| *(didascalia)* | He kisseth her |
-| SUFFOLK | And then it lived in sweet Elysium.<br>By thee to die were but to die in jest;<br>From thee to die were torture more than [[motifs/death\|death]].<br>O, let me stay, befall what may befall! |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Away. Though parting be a fretful corrosive,<br>It is applied to a deathful wound.<br>To France, sweet Suffolk. Let me hear from thee.<br>For wheresoe’er thou art in this world’s Globe<br>I’ll have an Iris that shall find thee out. |
-| SUFFOLK | I go. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | And take my heart with thee. |
-| *(didascalia)* | She kisseth him |
-| SUFFOLK | A [[motifs/jewel\|jewel]], locked into the woefull’st cask That ever did contain a thing of worth. Even as a splitted barque, so sunder we—This way fall I to [[motifs/death\|death]]. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | This way for me. |
-| *(didascalia)* | Exeunt severally |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3642,35 +4775,6 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 | YOUNG [[characters/clifford\|CLIFFORD]] | Foul stigmatic, that’s more than thou canst tell. |
 | [[characters/richard\|RICHARD]] | If not in heaven, you’ll surely sup in hell. |
 | *(didascalia)* | Exeunt severally |
-| *(didascalia)* | 5.2 An alehouse sign: a [[settings/castle\|castle]]. Alarums to the battle. Then enter the Duke of Somerset and [[characters/richard\|Richard]] fighting. [[characters/richard\|Richard]] kills Somerset under the sign |
-| [[characters/richard\|RICHARD]] | So lie thou there—<br>For underneath an alehouse’ paltry sign,<br>The [[settings/castle\|Castle]] in Saint Albans, Somerset<br>Hath made the wizard famous in his [[motifs/death\|death]].<br>[[works/sword-(chesterton)\|Sword]], hold thy temper; heart, be wrathfull still—<br>Priests pray for enemies, but princes kill. |
-| *(didascalia)* | Exit with Somerset’s [[concepts/body\|body]]. The sign is removed |
-| *(didascalia)* | 5.3 Alarum again. Enter the [[characters/earl-of-warwick\|Earl of Warwick]] |
-| WARWICK | [[characters/clifford\|Clifford]] of Cumberland, ’tis Warwick calls!<br>An if thou dost not hide thee from the bear,<br>Now, when the angry trumpet sounds alarum,<br>And dead men’s cries do fill the empty air,<br>[[characters/clifford\|Clifford]] I say, come forth and fight with me!<br>Proud northern lord, [[characters/clifford\|Clifford]] of Cumberland,<br>Warwick is hoarse with calling thee to arms! |
-| [[characters/clifford\|CLIFFORD]] | (Within)<br>Warwick, stand still; and stir not till I come. |
-| *(didascalia)* | Enter the [[characters/duke-of-york\|Duke of York]] |
-| WARWICK | How now, my noble lord? What, all afoot? |
-| YORK | The deadly-handed [[characters/clifford\|Clifford]] slew my steed.<br>But match to match I have encountered him,<br>And made a prey for carrion kites and crows<br>Even of the bonny beast he loved so [[motifs/well\|well]]. |
-| *(didascalia)* | Enter Lord [[characters/clifford\|Clifford]] |
-| WARWICK | (to [[characters/clifford\|Clifford]])<br>Of one or both of us the [[motifs/time\|time]] is come. |
-| YORK | Hold, Warwick—seek thee out some other chase,<br>For I myself must hunt this deer to [[motifs/death\|death]]. |
-| WARWICK | Then nobly, York; ‘tis for a [[motifs/crown\|crown]] thou fight’st.<br>(To [[characters/clifford\|Clifford]]) As I intend, [[characters/clifford\|Clifford]], to thrive today,<br>It grieves my [[motifs/soul\|soul]] to leave thee unassailed. Exit |
-| YORK | [[characters/clifford\|Clifford]], since we are singled here alone,<br>Be this the day of doom to one of us.<br>For know my heart hath sworn immortal hate<br>To thee and all the house of Lancaster. |
-| [[characters/clifford\|CLIFFORD]] | And here I stand and pitch my foot to thine,<br>Vowing not to stir till thou or I be slain.<br>For never shall my heart be safe at rest<br>Till I have spoiled the hateful house of York. |
-| *(didascalia)* | Alarums. They fight. York kills [[characters/clifford\|Clifford]] |
-| YORK | Now, Lancaster, sit sure—thy sinews shrink.<br>Come, fearful Henry, grovelling on thy face—<br>Yield up thy [[motifs/crown\|crown]] unto the prince of York. Exit |
-| *(didascalia)* | Alarums, then enter Young [[characters/clifford\|Clifford]] |
-| YOUNG [[characters/clifford\|CLIFFORD]] | Shame and confusion, all is on the rout!<br>[[concepts/fear\|Fear]] frames disorder, and disorder wounds<br>Where it should guard. O, war, thou son of hell,<br>Whom angry heavens do make their minister,<br>Throw in the frozen bosoms of our part<br>Hot coals of vengeance! Let no soldier fly!<br>He that is truly dedicate to war<br>Hath no [[concepts/self\|self]]-[[motifs/love\|love]]; nor he that loves himself<br>Hath not essentially, but by circumstance,<br>The name of valour.<br>He sees his father’s [[concepts/body\|body]]<br>O, let the vile world end,<br>And the premised flames of the last day<br>Knit earth and heaven together.<br>Now let the general trumpet blow his blast,<br>Particularities and petty sounds<br>To cease! Wast thou ordained, dear father,<br>To lose thy youth in peace, and to achieve<br>The silver livery of advised age,<br>And in thy reverence and thy chair-days, thus<br>To die in ruffian battle? Even at this sight<br>My heart is turned to stone, and while ’tis mine<br>It shall be stony. York not our old men spares;<br>No more will I their babes. [[motifs/tears\|Tears]] virginal<br>Shall be to me even as the dew to [[motifs/fire\|fire]],<br>And [[concepts/beauty\|beauty]] that the [[archetypes/tyrant\|tyrant]] oft reclaims<br>Shall to my flaming wrath be oil and flax.<br>Henceforth I will not have to do with pity.<br>Meet I an infant of the house of York,<br>Into as many gobbets will I cut it<br>As wild Medea young Absyrtus did.<br>In cruelty will I seek out my fame.<br>Come, thou new ruin of old [[characters/clifford\|Clifford]]’s house,<br>He takes his father’s [[concepts/body\|body]] up on his back<br>As did Aeneas old Anchises bear,<br>So bear I thee upon my manly shoulders.<br>But then Aeneas bare a living load,<br>Nothing so heavy as these woes of mine. |
-| *(didascalia)* | Exit with the [[concepts/body\|body]] |
-| *(didascalia)* | 5.4 Alarums |
-| *(didascalia)* | again. Then enter three or four bearing the [[characters/duke-of-buckingham\|Duke of Buckingham]] wounded to his tent. Alarums still. Enter [[archetypes/king\|King]] Henry, [[characters/queen-margaret\|Queen Margaret]], and others |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | Away, my lord! You are slow. For shame, away! |
-| [[archetypes/king\|KING]] HENRY | Can we outrun the heavens? Good Margaret, stay. |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | What are you made of? You’ll nor fight nor fly.<br>Now is it manhood, wisdom, and defence,<br>To give the enemy way, and to secure us<br>By what we can, which can no more but fly. |
-| *(didascalia)* | Alarum afar off |
-| [[characters/queen-margaret\|QUEEN MARGARET]] | If you be ta’en, we then should see the [[characters/bottom\|bottom]]<br>Of all our fortunes; but if we haply scape—<br>As [[motifs/well\|well]] we may if not through your neglect—<br>We shall to [[settings/london\|London]] get where you are loved,<br>And where this breach now in our fortunes made<br>May readily be stopped. |
-| *(didascalia)* | Enter Young [[characters/clifford\|Clifford]] |
-| YOUNG [[characters/clifford\|CLIFFORD]] | (to [[archetypes/king\|King]] Henry)<br>But that my heart’s on future mischief set,<br>I would speak blasphemy ere bid you fly;<br>But fly you must; uncurable discomfit<br>Reigns in the hearts of all our present parts.<br>Away for your relief, and we will live<br>To see their day and them our fortune give.<br>Away, my lord, away! Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3902,15 +5006,6 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 | [[characters/clifford\|CLIFFORD]] | La fin couronne les oeuvres.<br>Alarms. They fight. York kills [[characters/clifford\|Clifford]] |
 | YORK | Thus war hath given thee peace, for thou art still.<br>Peace with his [[motifs/soul\|soul]], heaven, if it be thy will. Exit |
 | [[characters/richard\|RICHARD]] [[characters/duke-of-york\|DUKE OF YORK]] | (3 [[characters/henry-vi\|HENRY VI]]) |
-| THE | play printed in the 1623 Folio as The Third Part of Henry the Sixth, with the [[motifs/death\|Death]] of the [[characters/duke-of-york\|Duke of York]] was described on the title-page of its first, unauthoritative publication in 1595 as The True [[forms/tragedy\|Tragedy]] of [[characters/richard\|Richard]], [[characters/duke-of-york\|Duke of York]], and the [[motifs/death\|Death]] of Good [[archetypes/king\|King]] Henry the Sixth, with the whole Contention between the two houses Lancaster and York. It is clearly a continuation of The First Part of the Contention, taking up the story where that play had ended, with the aspirations of [[characters/richard\|Richard]], [[characters/duke-of-york\|Duke of York]] to the English throne, and was probably composed immediately afterwards.<br>The final scenes of The First Part of the Contention briefly introduce two of York’s sons, Edward (the eldest) and [[characters/richard\|Richard]] (already described as a ‘foul, indigested lump, \| As crooked in . . . manners as [in] shape’). They, along with their brothers [[characters/edmund\|Edmund]], Earl of Rutland, and George (later Duke of [[characters/clarence\|Clarence]]), figure more prominently in [[characters/richard\|Richard]] [[characters/duke-of-york\|Duke of York]]. The first scenes show York apparently fulfilling his [[concepts/ambition\|ambition]], as [[characters/henry-vi\|Henry VI]] weakly cedes his rights to the throne after his [[motifs/death\|death]]; but [[characters/queen-margaret\|Queen Margaret]] leads an army against York, and, when he is captured, personally taunts him with news of the murder of his youngest son, stabs York to [[motifs/death\|death]], and commands that his head be ‘set on York gates’. (This powerful scene includes the line ‘O tiger’s heart wrapped in a woman’s hide’, paraphrased by Robert Greene before September 1592, which establishes the upward limit of the play’s date.)<br>Though [[characters/richard\|Richard]] of York dies early in the action, the remainder of the play centres on his sons’ efforts (aided by Warwick’s politic schemings) to avenge his [[motifs/death\|death]] and to establish the dominance of Yorkists over Lancastrians. The balance of power shifts frequently, and the brothers’ alliance crumbles, but finally [[characters/queen-margaret\|Queen Margaret]], with her French allies, is defeated and captured, and [[characters/richard\|Richard]] of York’s surviving sons avenge their father’s [[motifs/death\|death]] by killing her son, Edward, before her eyes. [[characters/richard\|Richard]] of [[characters/gloucester\|Gloucester]] starts to clear his way to the throne by murdering ‘Good [[archetypes/king\|King]] Henry’ in the Tower, and the play ends with the new [[archetypes/king\|King]] [[characters/edward-iv\|Edward IV]] exulting in his ‘country’s peace and brothers’ loves’ while [[characters/richard\|Richard]] makes clear to the audience that Edward’s [[concepts/self\|self]]-confidence is ill-founded.<br>Though the play is loud and strife-ridden with war, power politics, and personal [[concepts/ambition\|ambition]], a concern with humane values emerges in the subtle and touching continuing portrayal of the quietist [[characters/henry-vi\|Henry VI]], a saintly [[archetypes/fool\|fool]] who meditates on the superiority of humble contentment to regal misery in an emblematic scene (2.5) that epitomizes the [[forms/tragedy\|tragedy]] of civil strife.<br>[[characters/richard\|Richard]] [[characters/duke-of-york\|Duke of York]], like The First Part of the Contention, draws extensively on English chronicle [[concepts/history\|history]]. Historically, the period of the action covers about sixteen years (1455 to 1471), but events are telescoped and rearranged; for instance, the opening scenes move rapidly from the Battle of St Albans (1445) to York’s [[motifs/death\|death]] (1460); the future [[characters/richard-iii\|Richard III]] was only three years old, and living abroad, at the [[motifs/time\|time]] of this opening battle in which he takes an active part; and [[characters/richard\|Richard]]’s murder of Henry owes more to legend than to fact. |
-| THE PERSONS OF THE | PLAY<br><br>Of the [[archetypes/king\|King]]’s Party |
-| PRINCE | EDWARD, their son<br>Duke of S0MERSET<br>[[characters/duke-of-exeter\|Duke of EXETER]]<br>[[characters/earl-of-northumberland\|Earl of NORTHUMBERLAND]]<br>Earl of WESTMORLAND<br>Lord [[characters/clifford\|CLIFFORD]]<br>Lord Stafford |
-| SOMERVILLE | Henry, young [[characters/earl-of-richmond\|Earl of Richmond]]<br>A SOLDIER who has killed his father<br>A HUNTSMAN who guards [[archetypes/king\|King]] Edward<br><br>The Divided House of Neville<br>[[characters/earl-of-warwick\|Earl of WARWICK]], first of York’s party, later of Lancaster’s<br>Marquis of MONTAGUE, his brother, of York’s party<br>Earl of [[settings/oxford\|OXFORD]], their brother-in-law, of Lancaster’s party<br>Lord [[characters/hastings\|HASTINGS]], their brother-in-law, of York’s party<br><br>Of the [[characters/duke-of-york\|Duke of York]]’s Party<br>[[characters/richard\|Richard]] Plantagenet, [[characters/duke-of-york\|Duke of YORK]]<br>EDWARD, Earl of March, his son, later [[characters/duke-of-york\|Duke of York]] and |
-| LADY | GRAY, a widow, later Edward’s wife and [[characters/queen\|queen]]<br>Earl RIVERS, her brother<br>GEORGE, Edward’s brother, later Duke OF [[characters/clarence\|CLARENCE]]<br>[[characters/richard\|RICHARD]], Edward’s brother, later [[characters/duke-of-gloucester\|Duke OF GLOUCESTER]]<br>Earl of RUTLAND, Edward’s brother<br>Rutland’s TUTOR, a chaplain |
-| SIR JOHN | Mortimer, York’s uncle<br>Sir Hugh Mortimer, his brother<br>Duke of NORFOLK<br>Sir William Stanley<br>Earl of Pembroke<br>Sir John MONTGOMERY<br>A NOBLEMAN<br>Two GAMEKEEPERS<br>Three WATCHMEN, who guard [[archetypes/king\|King]] Edward’s tent |
-| LIEUTENANT | of the Tower<br><br>The French |
-| LADY | BONA, his sister-in-law<br>Lord Bourbon, the French High Admiral<br><br>Others<br>A SOLDIER who has killed his son<br>Mayor of Coventry |
-| MAYOR | of York<br>Aldermen of York<br>Soldiers, messengers, and attendants |
 
 
 <span class="qlang-split" data-lang="it"></span>

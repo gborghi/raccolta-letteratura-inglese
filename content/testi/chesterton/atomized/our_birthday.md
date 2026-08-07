@@ -126,6 +126,119 @@ has nothing to do with the [[concepts/pride|pride]] of rank; so long as it invol
 the [[concepts/humility|humility]] of birth also.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il Nostro Compleanno
+
+Il Nostro Compleanno
+
+Da G. K.'s Weekly, 21 marzo 1935.
+Scritto in occasione del decimo anniversario della testata.
+
+Poiché questo è un Numero di Compleanno, mi propongo di scrivere sui compleanni
+in modo futile e irresponsabile, come si conviene a un'occasione festiva;
+e di lasciare a un numero successivo alcune delle questioni serie
+che vi sono sollevate.  Ricordo che tanto tempo fa, in una
+delle mie innumerevoli controversie con il signor Bernard [[works/shaw-(chesterton)|Shaw]], commentai
+una sua sprezzante osservazione secondo cui non festeggiava il proprio compleanno
+e non si sarebbe scomodato per quello di nessun altro; e sostenni che questo
+illustra esattamente l'unico punto sul quale ha davvero torto;
+e che se solo avesse conservato il suo compleanno, avrebbe potuto conservare molte altre
+cose insieme ad esso.  Si noterà che, con la magnifica
+magnanimità nella quale non è mai venuto meno, specie nel trattare
+con me e le mie romantiche illusioni, ha contribuito a questo
+numero speciale con un articolo che affronta questioni vitalissime.
+[[concepts/hope|Spero]] di rispondere a quell'articolo, più nel dettaglio, a tempo debito;
+qui darò solo una replica molto generale sul particolare
+aspetto che è ottimamente ed esattamente rappresentato dai Compleanni.
+
+Per un'ora felice, parlando di Compleanni, non mi abbasserò a parlare
+del Controllo delle Nascite. Ma quando il signor [[works/shaw-(chesterton)|Shaw]] chiede perché io [[concepts/doubt|dubiti]] che lui e io,
+per non parlare del signor H. G. Wells e del signor Bertrand Russell, possiamo formare
+un comitato per produrre un credo, per non dire un cosmo—la mia risposta generale
+è che la differenza comincia con la nascita stessa della concezione.
+Un Compleanno incarna certe idee implicite; con alcune delle quali egli concorda
+e ha ragione; con altre delle quali dissente e ha torto.
+In certe faccende la differenza tra noi sembra ridursi a questo:
+che io riconosco molto rispettosamente che egli dissente da me;
+ma egli non vuole nemmeno permettere che io dissenta da lui.
+Ma c'è una [[concepts/truth|verità]] fondamentale sulla quale non ho mai
+per un solo istante dissentito da lui.  Qualunque altra cosa egli sia, non è
+mai stato un pessimista; né, in materia spirituale, un disfattista.
+È perlomeno dalla parte della Vita, e in tal senso della Nascita.
+Quando i Figli di Dio esultano di gioia, semplicemente perché la creazione
+è in essere, lo splendido grido o muggito wagneriano del signor [[works/shaw-(chesterton)|Shaw]] si
+mescolerà al mio meno musicale ma ugualmente mistico canto di lode.
+So bene che nello stesso poema il patriarca Giobbe, sotto la stretta
+di irritazioni contingenti, maledice davvero il giorno in cui nacque;
+prega che le [[motifs/stars|stelle]] del suo crepuscolo siano oscure e che esso non sia
+annoverato tra i giorni dell'anno; ma sono certo che G.B.S. non
+spingerà il suo disprezzo per le celebrazioni dei compleanni fino a quel punto.
+Il primo fatto riguardo alla celebrazione di un compleanno è che essa
+è un modo di affermare con sfida, e persino con sfarzo, che è
+una buona cosa essere vivi.  Su quella faccenda, e è una faccenda basilare,
+c'è davvero un fondamento d'accordo; e il signor [[works/shaw-(chesterton)|Shaw]] e io,
+dando la nostra esibizione come [[motifs/stars|stelle]] del mattino che cantano insieme,
+canteremo in perfetta armonia, seppure con tecnica non proprio pari.
+
+Ma c'è un secondo fatto riguardo ai Compleanni, e al canto natale
+di tutto il creato, un fatto che in realtà discende da questo; ma che,
+a quanto mi pare, l'altra scuola di pensiero si rifiuta quasi
+di riconoscere. Il nòcciolo di quel fatto è semplicemente che è un fatto.
+Rallegrandomi del mio Compleanno, mi rallegro di qualcosa
+che non ho io stesso prodotto. Essendo grato della mia nascita,
+sono grato di qualcosa che è già accaduto;
+che è accaduto, per quanto ad alcuni possa parer triste, un bel po' di [[motifs/time|tempo]] fa.
+Ora mi pare che il signor [[works/shaw-(chesterton)|Shaw]] e la sua scuola comincino quasi
+ogni cosa nello spirito di chi dice: sceglierò
+io stesso il 17 ottobre come data della mia nascita.
+Mi propongo di nascere a Market Harborough; ho scelto per padre
+un dentista assai capace e umano, mentre mia madre sarà istruita
+come direttrice didattica di prim'ordine, per il tremendo onore e la responsabilità
+della sua posizione; prima di ciò, credo che la manderò a Girton.
+La casa che ho scelto per nascervi guarda su un elegante
+parco ornamentale, ecc., ecc.» In altre parole, mi pare che i pensatori
+moderni di questa specie non abbiano semplicemente alcuna filosofia o poesia o possibile
+atteggiamento, verso le cose che ricevono dal reale
+mondo che già esiste; dal passato; dal genitore;
+dalla tradizione patria o dalla filosofia morale dell'umanità.
+Parlano soltanto di fare cose; come se potessero fare se stessi
+non meno di [[motifs/well|quanto facciano]] ogni altra cosa. Parlano sempre di fare
+una religione; e non riescono a ficcarsi in testa la nozione stessa
+di ricevere una rivelazione. Parlano sempre di fare
+un credo; senza vedere che ciò comporta fare un cosmo.
+Ma anche allora, non potremmo in alcun modo fare il cosmo che ha fatto noi.
+Ora nessuno che sappia qualcosa dei miei piccoli gusti e pregiudizi
+dirà che io non simpatizzi con la nozione del fare le cose.
+Credo nel fare migliaia di cose; fare scherzi,
+fare quadri, fare (a differenza del contraffare) merci, fare libri,
+e persino articoli (dei quali, come il lettore mestamente s'avvedrà,
+non c'è mai fine), fare giocattoli, fare arnesi, fare fattorie, fare case,
+fare chiese, fare sacre immagini; e, incidentalmente, anche
+fare guerra a chi volesse impedirmi di fare queste cose.
+Ma l'officina, per quanto vasta, è solo una metà del mondo.
+C'è tutto un problema della mente umana, che si occupa necessariamente
+delle cose che essa non ha fatto; delle cose
+che non poté fare; compresa se stessa. E dico che così è per
+qualunque visione della vita che [[motifs/leaves|tralasci]] tutto quell'aspetto della vita;
+ogni ricettività, ogni gratitudine, ogni eredità, ogni adorazione.
+A meno che un filosofo non abbia una filosofia capace di rendere tollerabile
+e sostenibile il suo atteggiamento verso tutte le realtà che sono
+attorno a lui e davanti a lui e dietro di lui... allora egli ha solo mezza
+filosofia; cieco, per quanto sia l'uomo più arguto del mondo,
+in quel senso è un mezzo scemo.
+
+Il signor Bernard [[works/shaw-(chesterton)|Shaw]] è certamente uno degli uomini più arguti del mondo,
+e riguardo a interi, vasti aspetti della vita, uno dei più saggi.
+Ma se dovessi sedermi con lui a un comitato di evoluzionisti,
+per redigere un credo per l'umanità, mi pare di prevedere che questa è la linea
+lungo la quale finirò per emettere la mia Relazione di Minoranza.
+Mi ritroverò a essere il rappresentante, e sospetto
+l'unico rappresentante, delle implicazioni del mio Compleanno.
+Non mi dispiace nemmeno chiamarlo l'[[concepts/pride|orgoglio]] della nascita, che naturalmente
+non ha nulla a che vedere con l'[[concepts/pride|orgoglio]] del rango; purché comporti
+anche l'[[concepts/humility|umiltà]] della nascita.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Our_Birthday (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/stars,concept/doubt,concept/hope,concept/truth"></span>

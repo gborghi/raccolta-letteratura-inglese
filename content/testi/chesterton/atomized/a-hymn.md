@@ -50,7 +50,7 @@ A single sword to thee.
 
 Un [[forms/hymn|Inno]]  
 
-di G.K. Chesterton
+di G.K.Chesterton  
 
 O Dio di terra e altare,  
 Chinati e ascolta il nostro grido,  

@@ -915,6 +915,930 @@ some [[archetypes/fool|fool]] has made in her great family [[historical-referenc
 of the Proverbs of Solomon.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ritenuta una delle scienze più precise.
+
+
+
+
+
+Hey, diddle diddle
+
+La gatta e il violino
+
+
+
+Da quando esiste il mondo, ci sono stati due Jeremiah. Quello che scrisse…
+
+Titolo:  
+“Una jeremia contro l’usura… e il suo nome era Jeremy Bentham”.
+
+Ammirato molto dal signor John Neal… e fu davvero un grande uomo.
+
+Un piccolo passo verso il cambiamento. L’altro nome indicava ciò che era più importante nell’ambito dell’Esattezza.
+
+Scienze… e fu davvero un grande uomo, in molti modi: posso dire senza dubbio che…
+
+Nel modo più straordinario possibile.
+
+
+
+Menzogna—o l’idea astratta espressa dal verbo “to diddle”–è.
+
+Completamente compreso. Eppure il fatto, l’atto, la cosa stessa.
+
+“Diddling” è una parola piuttosto difficile da definire… Tuttavia, possiamo comunque…
+
+Con una concezione abbastanza chiara della questione in discussione, da parte di…
+
+Definire non l’oggetto stesso, ma l’uomo come animale.
+
+Quello che stimola… Se Platone l’avesse scoperto, sarebbe stato davvero…
+
+Fu risparmiato dall’umiliazione di essere scelto come “pollo da spennare”.
+
+
+
+“Con grande pertinenza, si chiese a Platone perché scegliesse proprio una gallina selezionata…”
+
+“Che era chiaramente un bipede senza piume”, non lo era, secondo quanto…
+
+“Secondo la sua stessa definizione, un uomo… Ma non devo preoccuparmi di nulla.”
+
+Titolo simile: “L’uomo è un animale che si occupa di certe cose… e non c’è nient’altro”.
+
+Animal che si accarezza… ma solo l’uomo. Servirà un intero pollaio di…
+
+Scelse delle galline per superare quella situazione.
+
+
+
+Cosa costituisce l’essenza, il nucleo fondamentale del giocare?
+
+È, in effetti, caratteristico della classe di creature che indossano cappotti
+
+“E i pantaloni… Un corvo ruba; una volpe inganna; una donnola supera tutti con l’astuzia…”
+
+“L’uomo è destinato a soffrire.” “L’uomo è stato creato per piangere.”
+
+“Così dice il poeta… Ma non è vero: è stato costretto a farlo.” Questo è ciò che lui stesso racconta.
+
+Obiettivo… scopo finale… E per questa ragione, quando un uomo…
+
+Diciamo che è “finito”.
+
+
+
+Distrazioni, considerate nel loro complesso, sono in realtà costituite da diversi elementi.
+
+Ingredienti essenziali: meticolosità, interesse, perseveranza, ingegnosità.
+
+Audacia, noncuranza, originalità, impertinenza, e un sorriso.
+
+
+
+Titolo:  
+“Minuziosità: Il tuo organo genitale è davvero minuscolo… Le sue funzioni avvengono su una scala molto ridotta…”
+
+Piccola scala: il suo business si basa sul commercio al dettaglio, con pagamento in contanti o tramite carta di credito autorizzata.
+
+“All’istante. Nel caso mai venisse tentato di intraprendere speculazioni avventate…”
+
+Poi, all’improvviso, perde le sue caratteristiche distintive e diventa…
+
+Quello che chiamiamo “finanziere”. Quest'ultima parola trasmette l'idea di una sorta di attività secondaria o marginale.
+
+Un’idea in ogni senso tranne che per la portata… Un piccolo dettaglio, ma significativo.
+
+Viene quindi considerato, in sostanza, un banchiere: una sorta di “operazione finanziaria”.
+
+Titolo:  
+“Come un passatempo a Brobdignag… L’uno rispetto all’altro, come Omero rispetto…”
+
+“Flaccus”: come un mastodonte di fronte a un topolino, come la coda di una cometa rispetto al resto…
+
+Di un maiale.
+
+
+
+_Interesse:_ — Il tuo desiderio è guidato dall’[[concepts/self|egoismo]]. Disprezza tutto ciò che potrebbe ostacolarlo.
+
+Titolo:  
+Fare qualcosa soltanto per il gusto di farlo… Lui ha uno scopo preciso nella mente.
+
+“Guarda nella sua tasca… e anche nella tua. Lui considera sempre l’opportunità principale.”
+
+Titolo:  
+“Guardi verso il Numero Uno… Tu sei il Numero Due, e devi guardare verso di lui.”
+
+Tu stesso.
+
+
+
+Perseveranza: Il tuo “diddller” persiste… Non si arrende facilmente.
+
+Disperato… Anche se le banche dovessero fallire, non gli importerebbe affatto.
+
+Con determinazione persegue il suo obiettivo
+
+
+
+“Come il pelo di un cane non può mai essere completamente strappato via”
+
+
+
+Quindi, lui non molla mai il suo gioco.
+
+
+
+Ingegno: Il tuo inventore è davvero ingegnoso… Ha molta creatività.
+
+"Grande. Comprende la trama. Inventa e trova soluzioni per superare gli ostacoli. Se solo..."
+
+Non sarebbe Alessandro, ma Diogene… Se solo non fosse un…
+
+Sarebbe potuto diventare un costruttore di trappole per topi o un pescatore di trote.
+
+
+
+Audacia: Il tuo uomo è davvero audace… È un uomo coraggioso.
+
+“Conduce la guerra in Africa… Conquista tutto con le invasioni… Vorrebbe…”
+
+Non temere le lame di Frey Herren. Con un po’ più di prudenza.
+
+Dick Turpin sarebbe stato un ottimo… se solo avesse avuto un po’ meno di…
+
+Blarney, Daniel O’Connell; con un po’ più di intelligenza…
+
+Carlo XII.
+
+
+
+Noncuranza: Il tuo… è davvero indifferente. Assolutamente no.
+
+Nervoso… Lui non era mai stato nervoso. Non si lasciava mai sedurre…
+
+Furia. Non si spegne mai… a meno che non venga mandato fuori.
+
+Fresco come un cetriolo… È calmo, davvero calmo… come un sorriso gentile di una signora.
+
+“Seppellilo.” È così facile… facile come un vecchio guanto, o come le fanciulle dell’antichità…
+
+Addio.
+
+
+
+Originalità: Il tuo “strumento” è davvero originale… e lo è consapevolmente.
+
+I suoi pensieri appartengono solo a lui; disprezzerebbe l’idea di utilizzare quelli altrui.
+
+“Un trucco vecchio e ripetitivo lo disgusta profondamente… Lui restituirebbe subito una borsa, ne sono certa.”
+
+Certamente, scoprendo di averlo ottenuto in modo poco originale…
+
+Fare scherzi o trucchi.
+
+
+
+Impertinenza: Il tuo uccello è davvero impertinente… Si pavoneggia, si comporta in modo arrogante.
+
+Con le braccia incrociate dietro la schiena, infilò le mani nelle tasche dei suoi pantaloni.
+
+Si ride di te in faccia… Ti calpesta i piedi… E ti mangia tutto…
+
+"Cena: beve il tuo vino, ti presta i tuoi soldi… e poi ti sfrutta."
+
+Naso, ti dà calci al cagnolino e bacia tua moglie.
+
+
+
+Grin: Il vero problema si risolve sempre con un sorriso… Ma questa volta no.
+
+"Nessuno lo vede se non lui stesso… Sorride quando finisce il suo lavoro quotidiano."
+
+Finito, quando i compiti assegnatigli sono stati portati a termine, di [[motifs/night|notte]], nel suo.
+
+Il suo armadio personale, utilizzato esclusivamente per il proprio divertimento privato. Lui…
+
+Va a [[motifs/home|casa]]. Chiude la porta a chiave. Si toglie i vestiti.
+
+Mette fuori la candela. Si infila a letto. Appoggia la testa…
+
+Il cuscino… Tutto fatto, e il tuo “affare” sorride… Ma questo non è certo…
+
+Ipotesi… È una questione ovvia. Ragiono “a priori”, e…
+
+Nessun “furbare” sarebbe davvero tale senza un sorriso.
+
+
+
+L’origine del “diddle” risale ai primi anni…
+
+L'umanità. Forse il primo ad usarlo fu Adamo… In ogni caso, noi…
+
+È possibile far risalire questa scienza a un periodo molto remoto dell’antichità.
+
+I moderni, tuttavia, l’hanno portato a una perfezione mai raggiunta prima…
+
+Sognato dai nostri antenati testardi… Senza esitare.
+
+Parlando delle “vecchie abitudini”… mi accontenterò quindi di…
+
+Riepilogo completo di alcuni degli esempi più “moderni”.
+
+
+
+Una vera e propria trovata… Una domestica che ha bisogno di un divano…
+
+Ad esempio, si osserva che entra ed esce da diversi magazzini.
+
+Finalmente arriva in un luogo che offre una vasta varietà di scelte… Lei.
+
+Viene avvicinato e invitato ad entrare da una persona gentile e loquace
+
+Una persona, alla porta. Trova un divano davvero adatto a lei.
+
+Sorpreso e deliziato quando scopre il prezzo
+
+Titolo:  
+Ascoltare una somma indicata almeno il venti percento in meno rispetto a quella che lei aveva previsto…
+
+Aspettative… Si affretta a effettuare l’acquisto, ma riceve la fattura…
+
+Ricevuta, le lascia il proprio indirizzo, chiedendo che l’articolo venga.
+
+Sentirsi a casa il prima possibile, e ritirarsi in un ambiente pieno di affetto.
+
+Dei archi comprati dal negoziante. Arriva la [[motifs/night|notte]]. E nessun divano.
+
+Il servitore viene inviato per indagare sul ritardo. Tutto ciò…
+
+La transazione viene rifiutata. Nessun divano è stato venduto… nessun denaro è stato incassato.
+
+Titolo:  
+Ricevuto… tranne che dal farabutto che fingeva di essere il proprietario del negozio.
+
+Una volta sola.
+
+
+
+I nostri magazzini sono completamente abbandonati senza sorveglianza, e di conseguenza…
+
+“Offre tutte le condizioni necessarie per realizzare un trucco del genere: i visitatori entrano…”
+
+“Guarda i mobili… e poi se ne va, ignorato e inosservato. Se qualcuno…”
+
+Desidero acquistare, o chiedere il prezzo di un articolo: una campana.
+
+È a disposizione, ed è considerato più che sufficiente.
+
+
+
+Di nuovo, si tratta di un’attività abbastanza rispettabile. Una persona ben vestita.
+
+Un individuo entra in un negozio e effettua un acquisto del valore di…
+
+Dollaro… scopre, con grande frustrazione, di aver dimenticato di portare con sé…
+
+Portafoglio nella tasca di un altro cappotto… e così dice…
+
+Negoziante
+
+
+
+"Caro signore, non importa; le chiedo solo di fare questo per me, potrebbe?"
+
+Il pacco, a casa? Ma aspetta! Sono davvero convinta di non avere nulla.
+
+Meno di cinque dollari, anche lì… Tuttavia, puoi inviarli.
+
+“Quattro dollari di resto insieme al pacchetto, capisci?”
+
+
+
+“Molto bene, signore,” risponde il proprietario del negozio, che si diverte…
+
+Una volta, nutriva un’alta stima della nobile natura del proprio cliente… “Io”
+
+“Conosco certi tipi,” si dice tra sé, “che avrebbero semplicemente…”
+
+Con la merce sotto il braccio, se ne andò promettendo di richiamare.
+
+“Pagare il dovuto non appena arriva l’occasione, nel pomeriggio stesso.”
+
+
+
+Un ragazzo viene incaricato di portare il pacco e i soldi spese. Lungo la strada…
+
+Incontrato per caso dal compratore, quest’ultimo esclama…
+
+
+
+“Ah! Questo è il mio fagotto. Pensavo fossi già tornato a [[motifs/home|casa]].”
+
+È successo molto tempo fa. Beh, continua! Mia moglie, la signora Trotter, ti darà.
+
+I cinque dollari: le avevo lasciato istruzioni in merito.
+
+Un cambiamento che potresti ben darmi a me. Avrò bisogno di un po’ d’argento per.
+
+“La Posta. Molto bene! Uno, due… è davvero una buona scelta?”
+
+Quarto?… Tre, quattro… Esatto! Dite alla signora Trotter che…
+
+“Incontrami subito, e fai in modo di non perdere tempo lungo la strada.”
+
+
+
+Il ragazzo non si sofferma mai in giro; tuttavia, è lì da molto tempo.
+
+Tornato dal suo incarico… per nessuna signora il cui nome esatto è…
+
+La scoperta della signora Trotter… Lui si consola comunque.
+
+Che non sia stato così [[archetypes/fool|stupido]] da lasciare le merci senza.
+
+Il denaro, e rientrando nel suo negozio con un’aria di profonda soddisfazione.
+
+Si sente sinceramente offeso e indignato quando il suo padrone gli chiede qualcosa…
+
+È diventato parte di questo cambiamento.
+
+
+
+In effetti, si tratta di un trucco molto semplice. Il capitano di una [[motifs/ship|nave]].
+
+Il titolo del libro, che è sul punto di essere pubblicato, viene presentato da una figura dall’aspetto ufficiale.
+
+Una persona con un conto di spese per l’[[motifs/city|città]] insolitamente moderato. Ottimo!
+
+Riuscire a sfuggire così facilmente… ma confusi da centinaia di doveri che ci assillano…
+
+All’improvviso, presenta la sua richiesta senza indugio. Più o meno…
+
+Quindici minuti… e gli viene consegnato un conto ancora più assurdo.
+
+Colui che presto dimostrerà chi fosse il primo collezionista
+
+Un giocattolo insignificante. E la collezione originale era anch'essa del tutto inutile.
+
+
+
+E anche in questo caso c’è qualcosa di simile: una nave a vapore…
+
+"Liberarsi dal molo: un viaggiatore con il suo borsone in mano."
+
+Viene scoperto mentre corre verso il molo, a tutta la sua [[characters/speed|velocità]]. All’improvviso.
+
+Si ferma di colpo, si china e raccoglie qualcosa dal…
+
+Con grande agitazione… È una borsa da tasca, e… “Ha”
+
+“Qualcun gentiluomo ha perso il portafoglio?”, grida. Nessuno può dirlo…
+
+Ha perso esattamente un portafoglio… ma ne consegue una grande agitazione.
+
+Quando il tesoro si rivela di valore… La barca
+
+Tuttavia, non deve essere trattenuto.
+
+
+
+“Il [[motifs/time|tempo]] e la marea non aspettano nessuno,” dice il capitano.
+
+
+
+“Per l’amor di Dio, resta solo qualche minuto”, dice colui che lo ha trovato.
+
+Titolo:  
+Il vero pretendente apparirà presto.
+
+
+
+“Non vedo l’ora!”, risponde l’uomo autoritario; “Buttatelo via da lì”.
+
+“Sentite?”
+
+
+
+“Cosa devo fare?”, chiede chi ha trovato l’oggetto, nel più grande tormento. “Io sono…”
+
+Sto per lasciare il paese per alcuni anni, e non posso…
+
+Trattenere consapevolmente questa grande quantità in mio possesso… Lo supplico.
+
+“Scusi, signore,” disse rivolgendosi a un gentiluomo sulla riva, “ma…”
+
+Hai l’aspetto di un uomo onesto… Mi concederai il tuo aiuto?
+
+A mio parere, è meglio che tu ti occupi di questa questione… So di potermi fidare di te.
+
+Note sulla pubblicità… queste note, in realtà, costituiscono qualcosa di molto importante.
+
+Una somma considerevole. Il proprietario, senza alcun [[concepts/doubt|dubbio]], insisterà per ricompensare chi l’abbia restituita.
+
+“Grazie per il tuo disturbo…”
+
+
+
+“Tu! È stato tu a trovare quel libro.”
+
+
+
+“Beh, se proprio la volete così, accetterò una piccola ricompensa, solo, ”
+
+Per soddisfare le tue remore… Lasciami vedere: perché tutte queste note?
+
+Centinaia. Benedica la mia [[motifs/soul|'anima]]! Cento sono troppi da sopportare. Cinquanta sarebbero sufficienti.
+
+“Basterà senz’altro, ne sono sicuro…”
+
+
+
+“Buttatevelo via lì!” dice il capitano.
+
+
+
+“Ma allora non ho spiccioli per cento sterline… E, in fondo…”
+
+“Meglio che tu…”
+
+
+
+“Buttatevelo via lì!” dice il capitano.
+
+
+
+“Non importa!” grida il gentiluomo sulla riva, che…
+
+“Esaminando il proprio portafoglio all’ultimo minuto… mai.”
+
+Attenzione! Posso risolvere il problema… Ecco cinquanta sterline dalla Banca del Nord.
+
+“[[settings/america|America]], applicate le sanzioni più severe possibili.”
+
+
+
+Il cercatore eccessivamente coscienzioso prende i cinquanta con il segno
+
+Riluttanza… e lancia il libro al gentiluomo, come desiderato…
+
+Il battello a vapore emette fumo e schiuma mentre procede lungo il suo percorso… Tra circa mezz’ora…
+
+Dopo la sua partenza, si scopre che quella “grande quantità”…
+
+“Presentazione falsa”, e tutto quanto non era altro che un enorme trucco.
+
+
+
+Un’impresa davvero audace… Una riunione campeggiante, o qualcosa del genere…
+
+Si terrà in un luogo accessibile soltanto attraverso determinati mezzi.
+
+"Un ponte libero: un individuo si posiziona su questo ponte..."
+
+Con ogni rispetto, si informano tutti i passanti della nuova legge provinciale…
+
+Titolo: Viene stabilito un pedaggio di un centesimo per i passeggeri a piedi, due per…
+
+Cavalli e asini, e così via… Alcuni si lamentano, ma…
+
+Una volta inviato, quel tipo torna a casa diventato un uomo più ricco, in qualche modo.
+
+Cinquanta o sessanta dollari guadagnati con sforzo. Ma questo sta avendo dei conseguenze negative su di lui.
+
+Una grande folla di persone rappresenta davvero un problema estremamente fastidioso.
+
+
+
+Un bel trucco davvero… Un amico ne possiede uno di questi dispositivi.
+
+Titolo:  
+Promesse di pagamento, compilate e firmate secondo le normative vigenti, da inviare entro…
+
+Titolo:  
+Spazi vuoti ordinari stampati in inchiostro rosso… Il compratore ne acquista uno…
+
+“Due dozzine di questi oggetti… e ogni giorno ne immerge uno nel…”
+
+“Zuppa che fa saltare il suo cane per prenderla… e alla fine gliela dà.”
+
+Titolo:  
+Bonne Bouche. La nota che arriva alla scadenza… il “diddller”, con…
+
+Il cane del mendicante chiama l’amico e promette di pagare.
+
+Il titolo diventa oggetto di discussione; l’amico lo presenta proveniente dalla sua…
+
+Scrittoio… e proprio in quel momento sta per raggiungerlo…
+
+Il cane del mendicante salta su e lo divora all’istante… il mendicante stesso
+
+Non solo è sorpreso, ma anche infastidito e arrabbiato per l’assurdità di tutto ciò.
+
+Comportamento del suo cane… e la sua totale disponibilità ad annullare tutto
+
+L’obbligo in qualsiasi momento in cui siano presenti prove dell’esistenza di tale obbligo
+
+Sarà disponibile a breve.
+
+
+
+Una vera e propria meschineria… Una signora viene offesa per strada da qualcuno…
+
+Complice del maniaco: il maniaco stesso vola da lei
+
+Aiuto… e, dopo aver dato al proprio amico una bella lezione,
+
+Insiste nel accompagnare la signora fino alla sua porta. Si inchina e…
+
+Con la mano sul cuore, le dice addio con grande rispetto.
+
+“Lo prega di entrare e di essere presentato come il suo salvatore.”
+
+“Per suo fratello maggiore e suo padre… Con un sospiro, rifiuta di farlo.”
+
+“Dunque… non esiste alcun modo, signore,” mormora lei, “con cui io possa…”
+
+“Posso esprimere la mia gratitudine?”
+
+
+
+“Beh sì, signora, ce l’ho. Potrebbe avere la gentilezza di prestarmelo?”
+
+“Qualche scellino?”
+
+
+
+Nell’entusiasmo del momento, la signora decide…
+
+Svenire all’improvviso… Ma poi, ripensandoci, apre…
+
+“Le redini del portafoglio… e la consegna della moneta contante. Ora questo, dico io, è davvero…”
+
+“Diddle minute… perché metà esatta della somma presa in prestito deve essere restituita…”
+
+Pagato al gentiluomo che si è preso la briga di eseguire…
+
+Titolo: Insulti… e chi allora doveva restare fermo ad essere picchiato
+
+Esecuendola.
+
+
+
+Un piccolo esperimento scientifico… ma comunque interessante.
+
+Si avvicina al bancone di una taverna e chiede un paio di bicchieri…
+
+“Tobacco… Gli vengono consegnati dopo che li ha esaminati brevemente…”
+
+“Loro”, dice lui.
+
+
+
+"Non mi piace molto questo tabacco… Prendilo indietro e dammi qualcos’altro."
+
+“Un bicchiere di brandy e, al suo posto, dell’[[motifs/water|acqua]].” Il brandy e l’[[motifs/water|acqua]].
+
+Equipaggiato e inebriato, il individuo si dirige verso…
+
+La porta. Ma la voce del padrone della taverna lo ferma.
+
+
+
+“Credo, signore, che abbia dimenticato di pagare per il suo brandy…”
+
+“[[motifs/water|acqua]]”.
+
+
+
+“Paga per il mio brandy e l’[[motifs/water|acqua]]! Non ti ho forse dato anche la tabacco, ”
+
+Il brandy e l’[[motifs/water|acqua]]? Cosa altro vorresti avere?”
+
+
+
+“Ma, signore, se permette… non ricordo che mi abbia pagato per…”
+
+“Il tabacco”.
+
+
+
+“Cosa intendi dire con questo, mascalzone? Non ti ho forse restituito…”
+
+“La tua tabacca? Non è quella la tua tabacca lì? Ti aspetti davvero…”
+
+“Devo pagare per ciò che non ho preso?”
+
+
+
+“Ma, signore…”, dice il locandiere, ormai un po’ senza sapere cosa dire.
+
+“Ma signore…”
+
+
+
+“Ma io no, signore…”, interrompe il mendicante, apparentemente con grande insistenza.
+
+“High Dudgeon… e chiudendo la porta con forza dietro di lui, mentre lui se ne va…”
+
+Titolo:  
+“Ma io no, signore… e nessuna delle vostre trucchi.”
+
+“Viaggiatori”.
+
+
+
+Titolo:  
+Eccoci di nuovo di fronte a un trucco molto ingegnoso… la cui semplicità, in realtà, nasconde molte cose.
+
+Non è certo la sua minore raccomandazione… Una borsa da donna, o un portafoglio, insomma…
+
+Veramente perso… il perdente inserisce un annuncio su uno dei quotidiani locali
+
+Una grande [[motifs/city|città]] per un annuncio completamente descrittivo.
+
+
+
+In seguito, il nostro imitatore copia fedelmente i contenuti di questa pubblicità
+
+Con un cambiamento di titolo, di formulazione generale e di destinatario.
+
+Titolo:  
+Ad esempio, il testo originale è lungo e prolisso; è intitolato “A”.
+
+Titolo: “Il libro tascabile perduto… e il tesoro che aspetta di essere ritrovato”
+
+Lasciato al numero 1 di Tom Street… Il testo è breve e…
+
+Titolo:  
+Con “Lost” soltanto, si indica il numero 2 di Dick o il numero 3 di Harry Street…
+
+Il luogo in cui si può trovare il proprietario. Inoltre…
+
+Inserito in almeno cinque o sei dei giornali quotidiani di quel giorno.
+
+Sebbene, in termini di [[motifs/time|tempo]], appaia soltanto poche ore dopo.
+
+Dopo l’originale… Dovrebbe essere letto dal perdente della scommessa?
+
+Non avrebbe mai sospettato che potesse avere qualche riferimento a lui stesso
+
+Sfortuna… Ma ovviamente le probabilità sono di cinque o sei a uno.
+
+Il ritrovatore riparerà presso l’indirizzo fornito dal truffatore
+
+Piuttosto che quanto indicato dal legittimo proprietario…
+
+Il precedente pagherà la ricompensa, si porterà a casa il tesoro e se ne andrà.
+
+
+
+“Una situazione piuttosto simile… Una signora della alta società ha fatto cadere…”
+
+Da qualche parte per strada, un anello di diamanti di valore davvero insolito.
+
+Per il suo recupero, offre circa quaranta o cinquanta dollari.
+
+Titolo:  
+“Recompensa: nella sua pubblicità fornisce una descrizione molto dettagliata…”
+
+Il gioiello, e i suoi ornamenti… E dichiarando che, su di esso…
+
+Restauro al numero tal dei tale viale, la ricompensa
+
+Sarebbe stato pagato immediatamente, senza che venisse posta nemmeno una domanda.
+
+Durante l’assenza della signora da [[motifs/home|casa]], uno o due giorni dopo, un.
+
+Si sente bussare alla porta del numero tal dei tal…
+
+Via principale; appare un servitore; chiedono della signora di quella casa.
+
+È stato dichiarato pubblicato… Una notizia davvero sorprendente.
+
+Il visitatore esprime il rimpianto più profondo… Il suo compito è…
+
+Importanza e preoccupazioni legate direttamente alla signora stessa… Infatti, lui ne aveva…
+
+Buona fortuna nell’trovare il suo anello di diamanti… Ma forse sarebbe lo stesso anche senza.
+
+Beh, potrebbe chiamare di nuovo, “Assolutamente no!”, dice il servitore.
+
+“Assolutamente no!” dice la sorella della signora e anche la signora stessa.
+
+Sorella acquisita… che vengono chiamate immediatamente. L’anello…
+
+Identificato con chiarezza, la ricompensa viene pagata e il trovatore… quasi.
+
+Spinta fuori di casa… La signora ritorna e esprime qualche rimprovero…
+
+Insoddisfazione verso sua sorella e sua cognata… perché loro
+
+Titolo:  
+Ho avuto la sfortuna di pagare quaranta o cinquanta dollari per una copia falsa…
+
+Il suo anello di diamante: una copia realizzata con autentico diamante…
+
+Una pasta senza dubbio deliziosa.
+
+
+
+Ma poiché davvero non esiste fine alle attività oziose, quindi nemmeno in questo caso ci sarebbe fine.
+
+In questo [[forms/essay|saggio]], anche solo accennando a metà di queste variazioni, o.
+
+Inflessioni: di quelle su cui questa scienza è soggetta. Devo affrontarle…
+
+Questo saggio, inevitabilmente, deve giungere a una conclusione, ma io non posso farlo.
+
+Meglio di un semplice comunicato riassuntivo… molto dignitoso, ma comunque insufficiente.
+
+Un elaborato inganno, nel quale la nostra stessa [[motifs/city|città]] divenne teatro, non.
+
+Molto tempo fa, e successivamente fu ripetuto con successo.
+
+In altre ancora più verdi località dell’[[concepts/union|-Unione]]. A
+
+Un gentiluomo di mezza età arriva in città proveniente da luoghi sconosciuti…
+
+Estremamente preciso, cauto, sobrio e deliberato nelle sue azioni
+
+Comportamento. Il suo abbigliamento è estremamente curato, ma semplice.
+
+Un sobrio abbigliamento: indossa una cravatta bianca e un gilet ampio…
+
+Con l’intento di confortare chi è solo, scarpe con suole spesse e dall’aspetto confortevole.
+
+Pantaloni senza lacci… Ha proprio quell’aspetto, insomma, tipico di…
+
+Un “uomo” benestante, serio, preciso e rispettabile.
+
+“L’attività commerciale”, per eccellenza: uno degli ambiti più severi e apparentemente duri…
+
+Titolo:  
+Persone dall’animo tenero… quelle che spesso incontriamo tra coloro che sono vittime della dipendenza da droghe.
+
+Commedie: persone le cui parole costituiscono veri e propri legami, e che sono note per questo…
+
+Per aver distribuito ghinee a scopo di [[concepts/charity|miglioramento sociale]], con una mano, mentre, dall’altra.
+
+Il modo del semplice accordo commerciale: esigono la frazione più piccola possibile…
+
+Un penny insieme all’altro.
+
+
+
+Fa un sacco di storie prima di riuscire ad essere ammesso in una casa di accoglienza.
+
+Non gli piacciono i bambini. È abituato al silenzio. Le sue abitudini…
+
+Metodico fino al punto di preferire intraprendere iniziative private…
+
+Una rispettabile famiglia piccola, di inclinazioni devote… Tuttavia, le condizioni…
+
+“Non ci sono problemi… solo che lui insiste nel voler pagare il proprio conto.”
+
+Ogni primo del mese… (ora è il secondo…) e lo supplica…
+
+La padrona di casa
+
+Titolo:  
+Deve dimenticare le sue istruzioni su questo punto… e semplicemente inviare.
+
+Un conto e un ricevuto, esattamente alle dieci in punto, il primo giorno.
+
+Titolo:  
+Ogni mese, e in nessun caso è possibile posticiparlo.
+
+In secondo luogo.
+
+
+
+Questi accordi raggiunti, il nostro uomo d’affari affitta un ufficio in…
+
+Un quartiere rispettabile, piuttosto che alla moda della città…
+
+“Nulla detesta di più della finzione. ‘Laddove c’è molto…’”
+
+“Mostrami”, dice, “che dietro queste cose raramente c’è qualcosa di concreto e solido”.
+
+Osservazione che colpisce profondamente l’immaginazione della sua padrona di casa.
+
+Che immediatamente ne rediga un promemoria su carta, con la sua grande…
+
+La famiglia[[historical-references/bible|Bibbia]], nel vasto ambito dei Proverbi di Salomone.
+
+
+
+Il prossimo passo è pubblicizzare in questo modo.
+
+Nel principale settore commerciale della [[motifs/city|città]], quelle sei pence rappresentano, le pence stesse, insomma.
+
+Ritenuto inadeguato e non “rispettabile”, e considerato necessario il pagamento per ogni servizio offerto.
+
+Annunci anticipati: il nostro uomo d’affari la considera una pratica essenziale
+
+Secondo la sua [[concepts/faith|fede]], il lavoro non dovrebbe mai essere pagato fino a quando non è stato completato.
+
+
+
+"Wanted: Gli inserzionisti che stanno per avviare un’ampia campagna pubblicitaria..."
+
+Le operazioni commerciali in questa [[motifs/city|città]] richiederanno i servizi di.
+
+Tre o quattro impiegati intelligenti e competenti, a cui venga offerta una retribuzione generosa…
+
+Il compenso verrà pagato… Ma solo le migliori raccomandazioni.
+
+Per quanto riguarda la capacità, così come l’integrità, ci si aspetteranno standard elevati. Infatti, proprio come…
+
+Responsabilità elevate e compiti impegnativi
+
+“Quantità di denaro devono necessariamente passare attraverso le mani di quelle persone…”
+
+Concluso l’accordo, si ritiene opportuno richiedere un acconto di cinquanta…
+
+“Dollari per ogni impiegato assunto… Nessuno deve presentare domanda.”
+
+Pertanto, chi non è disposto a lasciare questa somma…
+
+Il possesso da parte degli inserzionisti… e coloro che non riescono a fornire il massimo.
+
+Testimonianze soddisfacenti riguardo alla moralità. Giovani signori, con grande devozione.
+
+Titolo: Sarà preferita una volontà decisa. Le domande di partecipazione devono essere inviate entro…
+
+Le ore dieci e undici del mattino, e le quattro e cinque del pomeriggio…
+
+Signori.
+
+
+
+"Bogs, Hogs, Logs, Frogs & Co."
+
+“Via del Cane 110”.
+
+
+
+Entro il trentunesimo giorno del mese, questa pubblicità…
+
+Portato all’ufficio dei signori Bogs, Hogs, Logs, Frogs e…
+
+Compagnia composta da circa quindici o venti giovani signori di indole devota.
+
+Ma il nostro uomo d’affari non ha alcuna fretta di concludere un contratto.
+
+"Con calma e prudenza: nessun uomo d’affari agisce mai in modo affrettato, e questo è proprio ciò che conta."
+
+Fino al più rigido catechismo in materia di pietà
+
+L’interesse di un giovane gentiluomo… che i suoi servizi siano già impegnati
+
+Ricevuto i suoi cinquanta dollari, semplicemente come dovuto
+
+Precauzione da parte della rispettabile ditta Bogs, Hogs…
+
+Legni, rane e compagnia… Nella mattina del primo giorno…
+
+Il mese prossimo, la padrona di casa non presenterà il suo conto, secondo quanto…
+
+Titolo:  
+“Promessa… un atto di negligenza per cui il capo comodo…”
+
+Una casa che finisse con “ogs” senza dubbio l'avrebbe rimproverata severamente.
+
+Potrebbe essere stato convinto a trattenersi in città per un giorno o due?
+
+A tale scopo.
+
+
+
+Così come stanno le cose, i poliziotti hanno avuto un periodo davvero difficile, correndo senza sosta.
+
+Da una parte e dall’altra… tutto ciò che possono fare è dichiarare l’uomo di…
+
+In termini commerciali, si tratta decisamente di una situazione molto precaria… almeno secondo alcuni.
+
+Le persone pensano che ciò implichi, in realtà, che lui sia… n.e.i. — da
+
+Titolo:  
+“Che, ancora una volta, si esprime con la classica frase ‘non est inventus’…”
+
+“Si presuppone che debba essere compreso… Nel frattempo, i giovani signori…”
+
+Tutti quanti, in qualche modo, sono meno devoti di prima.
+
+Mentre la padrona di casa acquista qualcosa del valore di una sterlina dall’India…
+
+Gomma… e con estrema cura cancella quel promemoria scritto a matita.
+
+Qualche [[archetypes/fool|idiota]] ha scritto qualcosa nella sua grande famiglia, nella [[historical-references/bible|Bibbia]], sul margine esterno.
+
+Dei Proverbi di Salomone.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Diddling (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/home,motif/night,motif/well,concept/fear,concept/self"></span>

@@ -1459,10 +1459,1455 @@ The [[forms/tragedy|Tragedy]] of [[characters/othello|Othello]] the Moor of [[se
 | LODOVICO | Graziano, keep the house,<br>And seize upon the fortunes of the Moor,<br>For they succeed on you. (To [[characters/cassio\|Cassio]]) To you, Lord<br>Governor,<br>Remains the censure of this hellish [[archetypes/villain\|villain]].<br>The [[motifs/time\|time]], the place, the torture, O, enforce it!<br>Myself will straight aboard, and to the state<br>This heavy act with heavy heart relate. |
 | *(didascalia)* | Exeunt with [[characters/emilia\|Emilia]]’s bodyl |
 | THE [[concepts/history\|HISTORY]] OF [[archetypes/king\|KING]] | LEAR |
-| THE QUARTO TEXT | [[characters/king-lear\|King Lear]] first appeared in print in a quarto of 1608. A substantially different text appeared in the 1623 Folio. Until the first appearance of the [[settings/oxford\|Oxford]] text, editors, assuming that each of these early texts imperfectly represented a single play, conflated them. But research conducted mainly during the 1970s and 1980s confirms an earlier view that the 1608 quarto represents the play as Shakespeare originally wrote it, and the 1623 Folio as he substantially revised it. He revised other plays, too, but usually by making many small changes in the dialogue and adding or omitting passages, as in [[characters/hamlet\|Hamlet]], [[characters/troilus\|Troilus]] and [[characters/cressida\|Cressida]], and [[characters/othello\|Othello]]. For these plays we print the revised text in so far as it can be ascertained. But in [[characters/king-lear\|King Lear]] revisions are not simply local but structural, too; conflation, as Harley Granville-Barker wrote, ‘may make for redundancy or confusion’, so we print an edited version of each text. The first, printed in the following pages, represents the play as Shakespeare first conceived it, probably before it was performed.<br>The story of a [[archetypes/king\|king]] who, angry with the failure of his virtuous youngest daughter ([[characters/cordelia\|Cordelia]]) to respond as he desires in a [[motifs/love\|love]]-test, divides his kingdom between her two malevolent sisters (Gonoril and [[characters/regan\|Regan]]), had been often told; Shakespeare would have come upon it in Holinshed’s Chronicles and in A [[motifs/mirror\|Mirror]] for Magistrates while reading for his plays on English [[concepts/history\|history]]. It is told also (though briefly) in [[characters/edmund\|Edmund]] Spenser’s Faerie Queene (Book 2, canto 10), and had been dramatized in a play of unknown authorship—The True Chronicle [[concepts/history\|History]] of [[archetypes/king\|King]] Leir and his three daughters—published in 1605, but probably written some fifteen years earlier. This play particularly gave Shakespeare much, including suggestions for the characters of Lear’s loyal servant, [[characters/kent\|Kent]], and of Gonoril’s husband, Albany, and her steward, Oswald; for the [[motifs/storm\|storm]]; for Lear’s kneeling to [[characters/cordelia\|Cordelia]]; and for many details of language. Nevertheless, his play is a highly original creation. Lear’s [[concepts/madness\|madness]] and the harrowing series of disasters in [[characters/king-lear\|King Lear]]’s final stages are of Shakespeare’s invention, and he complicates the plot by adding the story (based on an episode of Sir Philip Sidney’s Arcadia) of [[characters/gloucester\|Gloucester]] and his two sons, [[characters/edmund\|Edmund]] and [[characters/edgar\|Edgar]]. [[characters/edgar\|Edgar]]’s [[motifs/love\|love]] and loyalty to the father who, failing to see the [[concepts/truth\|truth]], has rejected him in favour of the villainous [[characters/edmund\|Edmund]] makes him a counterpart to [[characters/cordelia\|Cordelia]]; and the horrific blinding of [[characters/gloucester\|Gloucester]] brought about by [[characters/edmund\|Edmund]] creates a physical parallel to Lear’s [[concepts/madness\|madness]] which reaches its consummation in the scene (Sc. 20) at Dover Cliff when the mad and the blind old men commune together.<br>The clear-eyed intensity of Shakespeare’s tragic vision in [[characters/king-lear\|King Lear]] has been too much for some audiences, and Nahum Tate’s adaptation, which gave the play a happy ending, held the stage from 1681 to 1843; since then, increased understanding of Shakespeare’s stagecraft along with a greater seriousness in theatre audiences has assisted in the rehabilitation of a play that is now recognized as one of the profoundest of all artistic explorations of the human condition.<br><br>In the text which follows, the Quarto scene numbers are followed by the equivalent Folio act and scene numbers in parentheses. There is no equivalent to Sc. 17 in the Folio. |
-| THE PERSONS OF THE | PLAY<br>LEAR, [[archetypes/king\|King]] of Britain<br>GONORIL, Lear’s eldest daughter<br>Duke of ALBANY, her husband<br>[[characters/regan\|REGAN]], Lear’s second daughter<br>Duke of CORNWALL, her husband<br>[[characters/cordelia\|CORDELIA]], Lear’s youngest daughter<br>Earl of [[characters/kent\|KENT]], later disguised as Caius<br>Earl of [[characters/gloucester\|GLOUCESTER]]<br>[[characters/edgar\|EDGAR]], elder son of [[characters/gloucester\|Gloucester]], later disguised as Tom o’ Bedlam<br>[[characters/edmund\|EDMUND]], bastard son of [[characters/gloucester\|Gloucester]] |
-| OLD | MAN, a tenant of [[characters/gloucester\|Gloucester]]<br>CURAN, [[characters/gloucester\|Gloucester]]’s retainer<br>Lear’s [[archetypes/fool\|FOOL]]<br>OSWALD, Gonoril’s steward<br>Three SERVANTS of Cornwall<br>DOCTOR, attendant on [[characters/cordelia\|Cordelia]]<br>Three CAPTAINS<br>A HERALD<br>A KNIGHT<br>A MESSENGER<br>Gentlemen, servants, soldiers, followers, trumpeters, others |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[characters/othello|OTELLO]]
+[[characters/othello|Otello]] fu rappresentato davanti a Giacomo I nella Casa dei Banchetti a Whitehall il I novembre 1604. Le notizie sull’invasione turca di Cipro sembrano derivare dalla [[concepts/history|Storia]] dei Turchi di [[characters/richard|Richard]] Knolles, pubblicata non prima del 30 settembre 1603, sicché Shakespeare probabilmente completò il suo dramma in un [[motifs/time|tempo]] compreso fra quella data e l’[[motifs/summer|estate]] del 1604. Apparve per la prima volta a stampa in un in-quarto del 1622; la versione stampata nel Folio del 1623 è più lunga di circa 160 versi, e presenta oltre un migliaio di differenze nella dicitura. Sembra che Shakespeare abbia in parte rivisto il suo dramma, aggiungendo, per esempio, la canzone del salice di [[characters/desdemona|Desdemona]] (4.3) e accrescendo il ruolo di [[characters/emilia|Emilia]] nelle scene conclusive. Fondiamo il nostro testo sul Folio, poiché esso sembra rappresentare i ripensamenti di Shakespeare.
+La decisione di Shakespeare di fare di un uomo nero un [[archetypes/tragic-hero|eroe tragico]] fu audace e originale: per un’antica tradizione, il colore nero era associato al peccato e alla [[motifs/death|morte]]; e i mori nei drammi anteriori a Shakespeare sono in genere malvagi (come [[characters/aaron|Aaron]] nel [[characters/titus-andronicus|Titus Andronicus]]). La storia di un comandante moro indotto in inganno dal suo alfiere (portabandiera) fino a credere che la giovane moglie gli sia stata infedele con un altro soldato deriva da un racconto in prosa dell’italiano Giambattista Cinzio Giraldi, pubblicato per la prima volta nel 1565 in una raccolta di novelle collegate, Gli Ecatommiti (Le Cento Novelle). Shakespeare dovette leggerlo o in italiano o in una [[forms/translation|traduzione]] francese del 1584, e può darsi che abbia consultato entrambe. Giraldi narra la vicenda in poche pagine di racconto compresso e piano, intercalato da brevi conversazioni. I suoi personaggi principali sono un Moro di [[settings/venice|Venezia]] ([[characters/othello|Otello]]), la sua moglie veneziana ([[characters/desdemona|Desdemona]]), il suo alfiere ([[characters/iago|Iago]]), la moglie dell’alfiere ([[characters/emilia|Emilia]]) e un caporale ([[characters/cassio|Cassio]]) ‘che era molto caro al Moro’. Solo [[characters/desdemona|Desdemona]] è nominata. Fra i personaggi inventati da Shakespeare vi sono [[characters/roderigo|Roderigo]], giovane e deluso pretendente di [[characters/desdemona|Desdemona]], e Brabanzio, padre di [[characters/desdemona|Desdemona]], che si oppone al suo [[motifs/marriage|matrimonio]] con [[characters/othello|Otello]]. [[characters/bianca|Bianca]], l’amante di [[characters/cassio|Cassio]], è sviluppata da pochi accenni della fonte. Shakespeare introduce inoltre l’azione militare fra la Turchia e [[settings/venice|Venezia]]—infedeli e cristiani—che conferisce speciale importanza all’assegnazione di [[characters/othello|Otello]] a Cipro, protettorato veneziano che i Turchi attaccarono nel 1570 e conquistarono l’anno seguente. Nella fonte, [[characters/othello|Otello]] e [[characters/desdemona|Desdemona]] sono già felicemente stabiliti nella vita coniugale quando vanno a Cipro; Shakespeare comprime lo schema del [[motifs/time|tempo]] e apporta molti mutamenti alla narrazione.
+[[characters/othello|Otello]], grande successo al [[motifs/time|tempo]] di Shakespeare, fu uno dei primi drammi a essere rappresentati dopo la riapertura dei teatri nel 1660, e da quel [[motifs/time|tempo]] è rimasto uno dei drammi più popolari sulle scene inglesi.
+LE PERSONE DEL DRAMMA
+[[characters/othello|OTELLO]], il Moro di [[settings/venice|Venezia]]
+[[characters/desdemona|DESDEMONA]], sua moglie
+[[characters/michael|Michael]] [[characters/cassio|CASSIO]], suo luogotenente
+[[characters/bianca|BIANCA]], una cortigiana, presa d’[[motifs/love|amore]] per [[characters/cassio|Cassio]]
+[[characters/iago|IAGO]], alfiere del Moro
+[[characters/emilia|EMILIA]], moglie di [[characters/iago|Iago]]
+UN BUFFONE, servo di [[characters/othello|Otello]]
+Il DUCA di [[settings/venice|Venezia]]
+BRABANZIO, padre di [[characters/desdemona|Desdemona]], senatore di [[settings/venice|Venezia]]
+GRAZIANO, fratello di Brabanzio
+LODOVICO, parente di Brabanzio
+SENATORI di [[settings/venice|Venezia]]
+[[characters/roderigo|RODERIGO]], un gentiluomo veneziano, preso d’[[motifs/love|amore]] per [[characters/desdemona|Desdemona]]
+MONTANO, Governatore di Cipro
+UN ARALDO
+UN MESSAGGERO
+Servitori, ufficiali, marinai, gentiluomini di Cipro, musici
+
+La [[forms/tragedy|Tragedia]] di [[characters/othello|Otello]] il Moro di [[settings/venice|Venezia]]
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/iago\|Iago]] e [[characters/roderigo\|Roderigo]] |
+| [[characters/roderigo\|RODERIGO]] | Bah, non dirmelo! Molto mi duole<br>che tu, [[characters/iago\|Iago]], che hai avuto la mia borsa<br>come se i cordoni fossero tuoi, sapessi di questo. |
+| [[characters/iago\|IAGO]] | Sangue di Dio, ma voi non volete ascoltarmi!<br>Se mai ho sognato cosa simile, aborritemi. |
+| [[characters/roderigo\|RODERIGO]] | Mi dicesti che lo tenevi nel tuo odio. |
+| [[characters/iago\|IAGO]] | Disprezzatemi<br>se non è così. Tre grandi della [[motifs/city\|città]],<br>in personale supplica perché mi facesse suo luogotenente,<br>si scappellarono a lui; e per la [[concepts/faith\|fede]] d'uomo<br>conosco il mio prezzo, non valgo un posto peggiore.<br>Ma egli, innamorato del proprio [[concepts/pride\|orgoglio]] e dei propri disegni,<br>li elude con un gonfio giro di parole<br>orribilmente imbottito d'epiteti di guerra,<br>e respinge i miei mediatori; ché 'Certo,' dice,<br>'ho già scelto il mio ufficiale.'<br>E chi era costui?<br>In fede, un grande aritmetico,<br>un certo [[characters/michael\|Michael]] [[characters/cassio\|Cassio]], fiorentino,<br>un tale quasi dannato in una bella moglie,<br>che mai schierò uno squadrone in campo<br>né la divisione d'una battaglia conosce<br>più d'una filatrice—se non la teorica dei libri,<br>in cui i consoli togati sanno discorrere<br>da maestri quanto lui. Mera ciancia senza pratica<br>è tutta la sua milizia; ma lui, signore, ebbe l'elezione,<br>e io—di cui i suoi occhi videro la prova<br>a Rodi, a Cipro, e su altri terreni<br>cristiani e pagani—devo restare sottovento e in bonaccia<br>per un dare e avere. Questo contabile,<br>lui a buon [[motifs/time\|tempo]] dev'essere il suo luogotenente,<br>e io—Dio mi perdoni!—alfiere di Sua Moreria. |
+| [[characters/roderigo\|RODERIGO]] | Per il cielo, avrei preferito essere il suo boia. |
+| [[characters/iago\|IAGO]] | Ebbene, non c'è rimedio. È la maledizione del servizio.<br>L'avanzamento va per lettera e per favore,<br>e non per antica gradazione, dove ogni secondo<br>era erede del primo. Ora, signore, giudicate voi stesso<br>se io per qualche giusto titolo sia tenuto<br>ad [[motifs/love\|amare]] il Moro. |
+| [[characters/roderigo\|RODERIGO]] | Allora io non lo seguirei. |
+| [[characters/iago\|IAGO]] | Oh signore, acquietatevi.<br>Lo seguo per servirmene a mio vantaggio.<br>Non possiamo tutti essere padroni, né tutti i padroni<br>possono essere fedelmente seguiti. Osserverete<br>più d'un servo ossequioso e piegatore di ginocchia<br>che, innamorato della propria obbediente schiavitù,<br>consuma il suo [[motifs/time\|tempo]] come l'asino del padrone<br>per null'altro che il foraggio, e quando è vecchio,<br>congedato.<br>Frustatemi simili onesti servi. Ve ne sono altri<br>che, agghindati in forme e sembianze di dovere,<br>serbano tuttavia il cuore attento a se stessi,<br>e, gettando ai loro signori solo apparenze di servizio,<br>prosperano [[motifs/well\|bene]] a loro spese, e quando hanno foderato le loro<br>vesti,<br>rendono omaggio a se stessi. Costoro hanno un po' d'[[motifs/soul\|anima]],<br>e tale mi professo io—giacché, signore,<br>è certo come è certo che voi siete [[characters/roderigo\|Roderigo]],<br>che se io fossi il Moro non vorrei essere [[characters/iago\|Iago]].<br>Seguendo lui non seguo che me stesso.<br>Il cielo mi è giudice: non per [[motifs/love\|amore]] e dovere,<br>ma così sembrando per il mio particolare fine.<br>Ché quando la mia azione esteriore dimostrasse<br>l'atto nativo e la figura del mio cuore<br>in esterna apparenza, non passerà molto<br>e porterò il mio cuore sulla manica<br>perché le cornacchie lo becchino. Io non sono quel che sono. |
+| [[characters/roderigo\|RODERIGO]] | Che piena fortuna possiede quel labbrone<br>se può spuntarla così! |
+| [[characters/iago\|IAGO]] | Chiamate suo padre,<br>svegliatelo, inseguitelo, [[motifs/poison\|avvelenate]] la sua gioia,<br>proclamatelo per le strade; aizzate i parenti di lei,<br>e, per quanto egli dimori in fertile clima,<br>tormentatelo con le mosche. Benché la sua gioia sia gioia,<br>gettatevi sopra tali occasioni di molestia<br>che ne perda un poco il colore. |
+| [[characters/roderigo\|RODERIGO]] | Ecco la casa di suo padre. Chiamerò forte. |
+| [[characters/iago\|IAGO]] | Fatelo, con tale accento pauroso e urlo tremendo<br>come quando, di [[motifs/night\|notte]] e per negligenza, il [[motifs/fire\|fuoco]]<br>è avvistato nelle popolose città. |
+| [[characters/roderigo\|RODERIGO]] | (chiamando)<br>Olà, Brabanzio, signor Brabanzio, olà! |
+| [[characters/iago\|IAGO]] | (chiamando)<br>Svegliatevi, olà, Brabanzio, ladri, ladri, ladri!<br>Badate alla vostra casa, a vostra figlia e ai vostri sacchi.<br>Ladri, ladri! |
+| *(didascalia)* | Entra Brabanzio in veste da notte a una [[motifs/window\|finestra]] in alto |
+| BRABANZIO | Qual è la ragione di questo terribile richiamo?<br>Che cosa succede laggiù? |
+| [[characters/roderigo\|RODERIGO]] | Signore, è tutta in casa la vostra famiglia? |
+| [[characters/iago\|IAGO]] | Le vostre porte sono chiuse a chiave? |
+| BRABANZIO | Perché, a che scopo lo chiedete? |
+| [[characters/iago\|IAGO]] | Per le piaghe di Cristo, signore, siete derubato. Vergogna, indossate la vostra<br>veste.<br>Il vostro cuore è scoppiato, avete perduto metà della vostra [[motifs/soul\|anima]].<br>Proprio ora, ora, in questo istante, un vecchio montone nero<br>sta montando la vostra bianca pecora. Alzatevi, alzatevi!<br>Destate col campanone i cittadini che russano,<br>o il diavolo farà di voi un nonno.<br>Alzatevi, vi dico. |
+| BRABANZIO | Come, avete perduto il senno? |
+| [[characters/roderigo\|RODERIGO]] | Reverendissimo signore, conoscete la mia voce? |
+| BRABANZIO | Io no. Chi siete voi? |
+| [[characters/roderigo\|RODERIGO]] | Il mio nome è [[characters/roderigo\|Roderigo]]. |
+| BRABANZIO | Tanto peggio accolto.<br>Ti ho ingiunto di non aggirarti intorno alle mie porte.<br>Con onesta franchezza mi hai udito dire<br>che mia figlia non è per te, e ora in [[concepts/madness\|follia]],<br>pieno di cena e di bevande sregolate,<br>per maligna spavalderia tu vieni<br>a turbare la mia quiete. |
+| [[characters/roderigo\|RODERIGO]] | Signore, signore, signore. |
+| BRABANZIO | Ma devi ben esser certo<br>che il mio animo e il mio grado hanno in loro potere<br>di rendertela amara. |
+| [[characters/roderigo\|RODERIGO]] | Pazienza, buon signore. |
+| BRABANZIO | Che mi vieni a dire di ruberie? Questa è [[settings/venice\|Venezia]].<br>La mia casa non è una cascina. |
+| [[characters/roderigo\|RODERIGO]] | Molto [[motifs/grave\|grave]] Brabanzio,<br>con [[motifs/soul\|anima]] semplice e pura vengo a voi. |
+| [[characters/iago\|IAGO]] | (a Brabanzio) Per le piaghe di Cristo, signore, voi siete uno di quelli che non servirebbero Dio se fosse il diavolo a comandarlo. Poiché veniamo a rendervi un servizio e voi ci credete dei furfanti, avrete vostra figlia coperta da un [[motifs/horse\|cavallo]] barbaresco, avrete nipoti che vi nitriranno, avrete corsieri per cugini e ginnetti per parenti. |
+| BRABANZIO | Che sciagurato profano sei tu? |
+| [[characters/iago\|IAGO]] | Sono uno, signore, che viene a dirvi che vostra figlia e il Moro stanno ora facendo la bestia a due schiene. |
+| BRABANZIO | Tu sei un [[archetypes/villain\|furfante]]. |
+| [[characters/iago\|IAGO]] | Voi siete un senatore. |
+| BRABANZIO | Di questo risponderai. Ti conosco, [[characters/roderigo\|Roderigo]]. |
+| [[characters/roderigo\|RODERIGO]] | Signore, risponderò di tutto. Ma vi supplico,<br>se è vostro piacere e sapientissimo consenso—<br>come in parte trovo che sia—che la vostra bella figlia,<br>in questa incerta e sorda vigilia della [[motifs/night\|notte]],<br>sia trasportata con non peggiore né migliore scorta<br>che un ribaldo preso a nolo, un gondoliere,<br>ai grossolani amplessi d'un lascivo Moro—<br>se ciò vi è noto e col vostro permesso,<br>allora vi abbiamo fatto torti arditi e insolenti.<br>Ma se non lo sapete, le mie maniere mi dicono<br>che a torto ci rimproverate. Non crediate<br>che, fuori d'ogni senso di civiltà,<br>io voglia così scherzare e trastullarmi con la vostra reverenza.<br>Vostra figlia, se non le avete dato licenza,<br>lo ripeto, ha compiuto una grossolana rivolta,<br>legando il suo dovere, la [[concepts/beauty\|bellezza]], l'ingegno e le fortune<br>a uno straniero errabondo e vagante<br>di qui e d'ogni dove. Accertatevene subito.<br>Se ella è nella sua camera o nella vostra casa,<br>scatenate su di me la giustizia dello stato<br>per avervi così ingannato. |
+| BRABANZIO | (chiamando)<br>Battete l'acciarino, olà!<br>Datemi una candela, chiamate tutta la mia gente.<br>Questo caso non è dissimile dal mio sogno;<br>il crederlo già mi opprime.<br>Luce, dico, luce! |
+| *(didascalia)* | Esce |
+| [[characters/iago\|IAGO]] | Addio,<br>ché devo lasciarvi.<br>Non pare conveniente né salubre al mio grado<br>essere prodotto come testimone—come, se resto, sarò—<br>contro il Moro; ché io conosco lo stato,<br>per quanto ciò possa irritarlo con qualche rimprovero,<br>non può senza pericolo destituirlo, ché egli è imbarcato<br>con così alta ragione nelle guerre di Cipro,<br>che proprio ora sono in atto, sicché, per le loro anime,<br>un altro della sua statura non ne hanno<br>per condurre i loro affari; sotto tal riguardo—<br>benché io lo odii come le pene infernali—<br>pure per necessità della vita presente<br>devo esibire una [[motifs/flag\|bandiera]] e un segno d'[[motifs/love\|amore]],<br>che invero è solo segno. Affinché di certo troviate<br>lui,<br>conducete al Saettario la squadra levata in cerca,<br>e là io sarò con lui. Dunque addio. Esce |
+| *(didascalia)* | Entra sotto Brabanzio in veste da notte, e |
+| [[characters/iago\|IAGO]] | servitori con torce |
+| BRABANZIO | È un male troppo vero. Se n'è andata,<br>e ciò che resta del mio spregiato [[motifs/time\|tempo]]<br>non è che amarezza. Ora, [[characters/roderigo\|Roderigo]],<br>dove la vedesti?—Oh sciagurata fanciulla!—<br>Col Moro, dici?—Chi vorrebbe essere<br>padre?—<br>Come sapesti ch'era lei?—Oh, mi inganna<br>oltre ogni pensiero!—Che vi disse? (Ai servitori)<br>Prendete altre candele,<br>svegliate tutti i miei parenti. |
+| *(didascalia)* | Esce uno o più |
+| BRABANZIO | (A [[characters/roderigo\|Roderigo]]) Sono sposati, credete? |
+| [[characters/roderigo\|RODERIGO]] | In verità, credo di sì. |
+| BRABANZIO | Oh cielo, come è uscita? Oh, tradimento del [[motifs/blood\|sangue]]!<br>Padri, d'ora innanzi non fidatevi della mente delle vostre figlie<br>per ciò che le vedete fare. Non vi sono incantesimi<br>per cui la natura della giovinezza e della verginità<br>possa essere corrotta? Non avete letto, [[characters/roderigo\|Roderigo]],<br>di qualche cosa simile? |
+| [[characters/roderigo\|RODERIGO]] | Sì, signore, invero l'ho letto. |
+| BRABANZIO | (ai servitori)<br>Chiamate mio fratello. (A [[characters/roderigo\|Roderigo]]) Oh, l'aveste<br>avuta voi.<br>(Ai servitori) Chi da una parte, chi dall'altra. |
+| *(didascalia)* | Esce uno o più |
+| BRABANZIO | (A [[characters/roderigo\|Roderigo]]) Sapete voi<br>dove possiamo catturare lei e il Moro? |
+| [[characters/roderigo\|RODERIGO]] | Credo di poterlo scovare, se vi piace<br>di prendere buona scorta e venire con me. |
+| BRABANZIO | Vi prego, fate strada. A ogni casa busserò;<br>posso comandare quasi ovunque. (Chiamando) Armi, olà,<br>e svegliate alcuni ufficiali speciali della [[motifs/night\|notte]].<br>Avanti, buon [[characters/roderigo\|Roderigo]]. Meriterò le vostre fatiche. Escono |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/othello\|Otello]], [[characters/iago\|Iago]] e servitori con torce |
+| [[characters/iago\|IAGO]] | Benché nel mestiere della guerra io abbia ucciso uomini,<br>pure ritengo cosa propria della [[concepts/conscience\|coscienza]]<br>non commettere omicidio premeditato. Mi manca l'iniquità,<br>talvolta, per rendermi servizio. Nove o dieci volte<br>avevo pensato di trafiggerlo qui, sotto le costole. |
+| [[characters/othello\|OTELLO]] | È meglio così com'è. |
+| [[characters/iago\|IAGO]] | No, ma egli cianciava,<br>e usava termini così vili e provocanti<br>contro il vostro [[concepts/honour\|onore]]<br>che, con la poca pietà che ho,<br>a gran fatica lo risparmiai. Ma vi prego, signore,<br>siete saldamente sposato? Siate certo di questo:<br>che il magnifico è molto amato,<br>e ha in effetto una voce potente<br>[[topoi/double\|doppia]] quanto quella del Duca. Vi farà divorziare,<br>o vi imporrà quali costrizioni o gravami<br>la legge, con tutta la sua forza per applicarla,<br>gli darà agio. |
+| [[characters/othello\|OTELLO]] | Sfoghi pure il suo dispetto.<br>I servigi che ho reso alla Signoria<br>parleranno più alto delle sue lagnanze. Resta ancora da sapersi—<br>e quando saprò che vantarsi è un [[concepts/honour\|onore]],<br>lo promu]gherò—che traggo vita ed essere<br>da uomini di regale seggio, e i miei meriti<br>possono parlare a capo scoperto a fortuna tanto superba<br>quanto questa cui sono giunto. Ché sappi, [[characters/iago\|Iago]],<br>se non fosse che io [[motifs/love\|amo]] la gentile [[characters/desdemona\|Desdemona]],<br>non vorrei la mia libera condizione senza dimora<br>porre in circoscrizione e confine<br>per tutto il tesoro dei mari. |
+| *(didascalia)* | Entrano [[characters/cassio\|Cassio]] e ufficiali, con torce |
+| [[characters/othello\|OTELLO]] | Ma guarda, che luci vengono laggiù? |
+| [[characters/iago\|IAGO]] | Sono il padre destato e i suoi amici.<br>Fareste meglio a rientrare. |
+| [[characters/othello\|OTELLO]] | Io no. Devo essere trovato.<br>Le mie doti, il mio titolo e la mia perfetta [[motifs/soul\|anima]]<br>mi mostreranno per quel che sono. Sono loro? |
+| [[characters/iago\|IAGO]] | Per Giano, credo di no. |
+| [[characters/othello\|OTELLO]] | I servitori del Duca, e il mio luogotenente!<br>La bontà della [[motifs/night\|notte]] sia con voi, amici.<br>Quali notizie? |
+| [[characters/cassio\|CASSIO]] | Il Duca vi saluta, generale,<br>e richiede la vostra comparsa in tutta fretta,<br>proprio all'istante. |
+| [[characters/othello\|OTELLO]] | Di che si tratta, credete? |
+| [[characters/cassio\|CASSIO]] | Qualcosa da Cipro, per quanto posso indovinare;<br>è un affare di qualche ardore. Le galee<br>hanno inviato una dozzina di messaggeri l'un dopo l'altro<br>proprio questa [[motifs/night\|notte]], uno alle calcagna dell'altro,<br>e molti dei consoli, destati e riuniti,<br>sono già dal Duca. Siete stato ardentemente chiamato<br>a gran voce,<br>e, non trovandovi al vostro alloggio,<br>il senato ha mandato in giro tre distinte squadre<br>a cercarvi. |
+| [[characters/othello\|OTELLO]] | [[motifs/well\|Bene]] che siate voi a trovarmi.<br>Spenderò solo una parola qui nella casa<br>e verrò con voi. Esce |
+| [[characters/cassio\|CASSIO]] | Alfiere, che fa costui qui? |
+| [[characters/iago\|IAGO]] | [[concepts/faith\|In fede]], stanotte ha abbordato una caracca di terraferma.<br>Se si rivela preda legittima, è fatto per sempre. |
+| [[characters/cassio\|CASSIO]] | Non capisco. |
+| [[characters/iago\|IAGO]] | Si è sposato. |
+| [[characters/cassio\|CASSIO]] | Con chi? |
+| *(didascalia)* | Entrano |
+| [[characters/cassio\|CASSIO]] | Brabanzio, [[characters/roderigo\|Roderigo]] e ufficiali, con lumi<br><br>e armi |
+| [[characters/iago\|IAGO]] | Perbacco, con— |
+| *(didascalia)* | Entra [[characters/othello\|Otello]] |
+| [[characters/iago\|IAGO]] | (A [[characters/othello\|Otello]]) Venite, capitano, volete andare? |
+| [[characters/othello\|OTELLO]] | Vengo con voi. |
+| [[characters/cassio\|CASSIO]] | Ecco un'altra schiera che viene a cercarvi. |
+| [[characters/iago\|IAGO]] | È Brabanzio. Generale, state in guardia.<br>Viene con cattive intenzioni. |
+| [[characters/othello\|OTELLO]] | Olà, fermi, là! |
+| [[characters/roderigo\|RODERIGO]] | (a Brabanzio)<br>Signore, è il Moro. |
+| BRABANZIO | Addosso a lui, ladro! |
+| [[characters/iago\|IAGO]] | (sguainando la spada)<br>Voi, [[characters/roderigo\|Roderigo]]? Venite, signore, sono a vostra disposizione. |
+| [[characters/othello\|OTELLO]] | Rinfoderate le vostre lucide spade, ché la rugiada le arrugginirà.<br>(A Brabanzio) Buon signore, comanderete di più<br>con gli anni<br>che con le vostre armi. |
+| BRABANZIO | Oh turpe ladro, dove hai nascosto mia<br>figlia?<br>Dannato come sei, tu l'hai stregata,<br>ché mi rimetto a ogni cosa di senno:<br>se non fosse stata legata in [[motifs/chains\|catene]] di magia,<br>come mai una fanciulla così tenera, bella e felice,<br>tanto avversa al [[motifs/marriage\|matrimonio]] da rifuggire<br>i ricchi e inanellati vagheggini della nostra nazione,<br>avrebbe mai, per incorrere in un generale scherno,<br>fuggito dalla sua tutela al petto fuligginoso<br>di una cosa quale tu sei—da far [[concepts/fear\|temere]], non dilettare.<br>Mi giudichi il mondo se non è palese al senno<br>che tu l'hai adescata con turpi incantesimi,<br>corrotta la sua delicata giovinezza con droghe o minerali<br>che indeboliscono la volontà. Voglio che se ne disputi.<br>È probabile, e palpabile al pensiero.<br>Perciò ti arresto e ti pongo sotto accusa<br>come corruttore del mondo, praticante<br>di arti proibite e fuori d'ogni licenza.<br>(Agli ufficiali) Mettetegli le mani addosso. Se resiste,<br>sottomettetelo a suo rischio. |
+| [[characters/othello\|OTELLO]] | Fermate le mani,<br>voi della mia parte e gli altri del pari.<br>Se fosse mia battuta il combattere, l'avrei saputo<br>senza suggeritore. Dove volete che io vada<br>a rispondere a questa vostra accusa? |
+| BRABANZIO | In [[motifs/prison\|prigione]], finché il debito [[motifs/time\|tempo]]<br>della legge e il corso di regolare udienza<br>ti chiamino a rispondere. |
+| [[characters/othello\|OTELLO]] | E se io obbedisco?<br>Come potrà il Duca esserne soddisfatto,<br>i cui messaggeri sono qui al mio fianco<br>per qualche urgente affare dello stato<br>a condurmi a lui? |
+| UFFICIALE | (a Brabanzio) È vero, degnissimo signore.<br>Il Duca è in consiglio, e la vostra nobile [[concepts/self\|persona]],<br>ne sono certo, è stata mandata a chiamare. |
+| BRABANZIO | Come, il Duca in consiglio?<br>In questo [[motifs/time\|tempo]] della [[motifs/night\|notte]]? Conducetelo via.<br>La mia non è causa oziosa. Il Duca stesso,<br>o qualunque dei miei fratelli dello stato,<br>non può non sentire questo torto come fosse proprio;<br>ché se simili azioni hanno libero corso,<br>schiavi e pagani saranno i nostri uomini di stato. Escono |
+
+### Atto 1, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Duca e i Senatori seduti a un tavolo, con lumi e ufficiali |
+| DUCA | Non c’è concordanza in queste notizie<br>che dia loro credito. |
+| PRIMO SENATORE | In verità, sono discordanti.<br>Le mie lettere dicono centosette galee. |
+| DUCA | E le mie centoquaranta. |
+| SECONDO SENATORE | E le mie duecento.<br>Ma sebbene non concordino in un computo esatto—<br>come, in questi casi, dove si riferisce per congettura<br>spesso accade con differenza—pure tutte confermano<br>una flotta turca, che fa rotta verso Cipro. |
+| DUCA | Anzi, ciò è assai possibile al giudizio.<br>Non mi rassicuro tanto nell’errore<br>da non ammettere il punto principale<br>in senso pauroso. |
+| MARINAIO | (da dentro) Olà, olà, olà! |
+| *(didascalia)* | Entra un Marinaio |
+| UFFICIALE | Un messaggero dalle galee. |
+| DUCA | Orbene, di che si tratta? |
+| MARINAIO | L’armamento turco fa rotta per Rodi.<br>Così mi fu ordinato di riferire qui allo stato<br>dal Signor [[characters/angelo\|Angelo]]. |
+| DUCA | (ai Senatori) Che dite di questo mutamento? |
+| PRIMO SENATORE | Questo non può essere,<br>per nessun saggio di ragione—è una finzione<br>per tenerci lo sguardo ingannato. Quando consideriamo<br>l’importanza di Cipro per il Turco,<br>e ci facciamo di nuovo intendere<br>che, come essa gli preme più di Rodi,<br>così egli può conquistarla con più facile contesa,<br>poiché non è cinta di tanto apparato guerriero,<br>ma manca del tutto di quelle difese<br>di cui Rodi è rivestita—se pensiamo a questo,<br>non dobbiamo credere il Turco così inesperto<br>da lasciare per ultimo ciò che gli sta primo a cuore,<br>trascurando un’impresa d’agio e di guadagno<br>per destare e affrontare un pericolo senza profitto. |
+| DUCA | No, in tutta certezza, egli non va per Rodi. |
+| UFFICIALE | Ecco altre notizie. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | Gli Ottomani, reverendi e graziosi signori,<br>dirigendo la debita rotta verso l’isola di Rodi,<br>vi si sono congiunti con una flotta di rincalzo. |
+| PRIMO SENATORE | Sì, così pensavo. Quante, a vostro parere? |
+| MESSAGGERO | Di trenta vele, e ora rifanno<br>la rotta all’indietro, volgendo con aperta evidenza<br>i loro disegni verso Cipro. Il Signor Montano,<br>vostro fido e valorosissimo servitore,<br>con libero dovere così vi avverte,<br>e vi prega di prestargli fede. |
+| DUCA | È certo dunque per Cipro.<br>Marcus Luccicos, non è in città? |
+| PRIMO SENATORE | Ora è a Firenze. |
+| DUCA | Scrivetegli da parte nostra in tutta fretta. Spedite. |
+| *(didascalia)* | Entrano Brabanzio, [[characters/othello\|Otello]], [[characters/roderigo\|Roderigo]], [[characters/iago\|Iago]], [[characters/cassio\|Cassio]], e ufficiali |
+| PRIMO SENATORE | Ecco venire Brabanzio e il valoroso Moro. |
+| DUCA | Valoroso [[characters/othello\|Otello]], dobbiamo impiegarvi subito<br>contro il comune nemico Ottomano.<br>(A Brabanzio) Non vi avevo visto. Benvenuto, gentile<br>signore.<br>Ci sono mancati il vostro consiglio e il vostro aiuto stanotte. |
+| BRABANZIO | E a me il vostro. Vostra grazia, perdonatemi.<br>Né la mia carica, né cosa alcuna udita degli affari<br>m’ha levato dal letto, né la generale<br>cura<br>fa presa su me; ché il mio particolare dolore<br>è di [[concepts/nature\|natura]] così straripante e soverchiante<br>che inghiotte e ingoia ogni altro affanno,<br>e resta pur sempre sé stesso. |
+| DUCA | Ebbene, che cosa accade? |
+| BRABANZIO | Mia figlia, oh, mia figlia! |
+| SENATORI | Morta? |
+| BRABANZIO | Sì, per me.<br>È stata ingannata, rubata a me, e corrotta<br>con incantesimi e filtri comprati da ciarlatani.<br>Perché la [[concepts/nature\|natura]] erri così mostruosamente,<br>non essendo manchevole, cieca o inferma di senno,<br>senza stregoneria non potrebbe. |
+| DUCA | Chiunque egli sia che in questo turpe procedere<br>ha così frodato vostra figlia di sé stessa<br>e voi di lei, il sanguinoso libro della legge<br>voi stesso leggerete nella lettera più amara<br>secondo il vostro senso, sì, foss’anche nostro figlio<br>a stare sotto la vostra accusa. |
+| BRABANZIO | Umilmente ringrazio vostra grazia.<br>Ecco l’uomo, questo Moro, che ora pare<br>il vostro speciale mandato per gli affari di stato<br>abbia qui condotto. |
+| SENATORI | Ce ne duole assai. |
+| DUCA | (a [[characters/othello\|Otello]])<br>Che potete dire da parte vostra a questo? |
+| BRABANZIO | Nulla, se non che così è. |
+| [[characters/othello\|OTELLO]] | Potentissimi, [[motifs/grave\|gravi]] e reverendi signori,<br>miei nobilissimi e comprovati buoni padroni,<br>che io abbia portato via la figlia di questo vecchio,<br>è verissimo, vero è che l’ho sposata.<br>Il capo stesso e la fronte del mio fallo<br>ha questa estensione, non più. Rozzo son io nel parlare,<br>e poco benedetto dalle molli frasi della pace,<br>ché da quando queste mie braccia ebbero sette anni di vigore<br>fino ad ora, tolte nove lune, esse hanno usato<br>la loro azione più cara nel campo attendato,<br>e poco di questo gran mondo io so dire<br>oltre ciò che attiene a fatti di zuffe e battaglie.<br>E però poco onore renderò alla mia causa<br>parlando per me stesso. Pure, con la vostra graziosa pazienza,<br>esporrò un racconto schietto e senza fronzoli<br>di tutto il corso del mio [[motifs/love\|amore]], con quali droghe, quali incanti,<br>quale scongiuro e quale possente magia—<br>ché di tale procedere sono accusato—<br>io vinsi sua figlia. |
+| BRABANZIO | Una fanciulla mai ardita,<br>di spirito così quieto e tranquillo che ogni suo moto<br>arrossiva di sé stessa—ed ella a dispetto della [[concepts/nature\|natura]],<br>degli anni, del paese, della fama, d’ogni cosa,<br>prendere [[motifs/love\|amore]] per ciò che temeva di guardare!<br>È un giudizio mutilo e imperfettissimo<br>quello che ammetterà che la perfezione così potesse errare<br>contro ogni regola di [[concepts/nature\|natura]], e dev’essere spinto<br>a cercare le pratiche dell’astuto inferno<br>per spiegare il perché. Io dunque affermo di nuovo<br>che con qualche mistura potente sul [[motifs/blood\|sangue]],<br>o con qualche dramma evocata a questo effetto,<br>egli operò su di lei. |
+| DUCA | Affermarlo non è prova<br>senza saggio più ampio e più manifesto<br>di queste tenui apparenze e povere verosimiglianze<br>d’usuale sembianza che si adducono contro di lui.<br>UN SENATORE Ma [[characters/othello\|Otello]], parla.<br>Con vie indirette e forzate hai tu<br>soggiogato e [[motifs/poison\|avvelenato]] gli affetti di questa giovane,<br>o venne per richiesta e per quell’onesto colloquio<br>che [[motifs/soul\|anima]] ad [[motifs/soul\|anima]] concede? |
+| [[characters/othello\|OTELLO]] | Io vi supplico,<br>mandate per la signora al Saettario,<br>e lasciate che parli di me innanzi a suo padre.<br>Se mi trovate turpe nella sua relazione,<br>la fiducia, l’ufficio che da voi ricevo<br>non solo toglietemi, ma la vostra sentenza<br>cada perfino sulla mia vita. |
+| DUCA | (agli ufficiali)<br>Conducete qui [[characters/desdemona\|Desdemona]]. |
+| [[characters/othello\|OTELLO]] | Alfiere, guidali. Tu conosci meglio il luogo. |
+| *(didascalia)* | Esce [[characters/iago\|Iago]] con due o tre ufficiali |
+| [[characters/othello\|OTELLO]] | E finché ella venga, con la stessa verità con cui al cielo<br>confesso i vizi del mio [[motifs/blood\|sangue]],<br>così fedelmente ai vostri [[motifs/grave\|gravi]] orecchi esporrò<br>come io prosperassi nell’[[motifs/love\|amore]] di questa bella signora<br>ed ella nel mio. |
+| DUCA | Dillo, [[characters/othello\|Otello]]. |
+| [[characters/othello\|OTELLO]] | Suo padre m’amava, spesso m’invitava,<br>sempre m’interrogava sulla storia della mia vita<br>d’anno in anno, le battaglie, gli assedi, le fortune<br>che ho attraversato.<br>La percorsi tutta fin dai giorni fanciulleschi<br>al momento stesso in cui mi chiese di narrarla,<br>dove parlai di casi disastrosissimi,<br>di commoventi accidenti per acque e per campi,<br>di scampi per un capello nell’imminente breccia mortale,<br>d’essere stato preso dal nemico insolente<br>e venduto in [[concepts/slavery\|schiavitù]], del mio riscatto di là,<br>e del mio contegno nella mia [[concepts/history\|storia]] di viaggiatore,<br>dove di antri vasti e deserti oziosi,<br>aspre cave, rupi e colli le cui cime toccano<br>il cielo,<br>ebbi occasione di parlare. Tale era il mio racconto,<br>e dei cannibali che si divorano l’un l’altro,<br>gli Antropofagi, e uomini le cui teste<br>crescono sotto le spalle. A udire queste cose<br>[[characters/desdemona\|Desdemona]] seriamente inclinava,<br>ma pur le faccende di casa la traevano altrove,<br>e sempre, come poteva sbrigarle in fretta,<br>tornava di nuovo, e con orecchio avido<br>divorava il mio discorso; il che osservando,<br>colsi una volta un’ora propizia, e trovai buon modo<br>di trarre da lei una [[motifs/prayer\|preghiera]] di cuore sincero<br>che le narrassi tutto il mio pellegrinaggio,<br>di cui a brani ella aveva udito qualcosa,<br>ma non per intero. Acconsentii,<br>e spesso la frodai delle sue [[motifs/tears\|lacrime]]<br>quando parlavo di qualche colpo doloroso<br>che la mia giovinezza patì. Finita la mia storia,<br>ella mi diede per mia pena un mondo di baci.<br>Giurò in [[concepts/faith\|fede]] ch’era strano, ch’era oltremodo strano,<br>ch’era pietoso, ch’era mirabilmente pietoso.<br>Avrebbe voluto non averlo udito, pure desiderava<br>che il cielo l’avesse fatta tale uomo. Ella ringraziò<br>me,<br>e mi disse che, se avessi un amico che l’amasse,<br>dovrei solo insegnargli a narrare la mia storia,<br>e ciò l’avrebbe corteggiata. Su questo cenno io parlai.<br>Ella m’amò per i pericoli che avevo passato,<br>e io l’amai perché ne aveva pietà.<br>Questa sola è la stregoneria che ho usato. |
+| *(didascalia)* | Entrano [[characters/desdemona\|Desdemona]], [[characters/iago\|Iago]], e servitori |
+| [[characters/othello\|OTELLO]] | Ecco venire la signora. Lasciate che ne testimoni. |
+| DUCA | Penso che questo racconto vincerebbe anche mia figlia.—<br>Buon Brabanzio,<br>prendete per il meglio questa faccenda malconcia.<br>Gli uomini usano piuttosto le armi spezzate<br>che le nude mani. |
+| BRABANZIO | Vi prego, uditela parlare.<br>Se confessa d’essere stata per metà corteggiatrice,<br>distruzione sul mio capo se il mio biasimo ingiusto<br>cade sull’uomo! Vieni qua, gentile signora.<br>Discernete in tutta questa nobile compagnia<br>a chi più dovete obbedienza? |
+| [[characters/desdemona\|DESDEMONA]] | Mio nobile padre,<br>io discerno qui un dovere diviso.<br>A voi sono legata per la vita e l’[[concepts/education\|educazione]].<br>La mia vita e la mia [[concepts/education\|educazione]] entrambe m’insegnano<br>come rispettarvi. Voi siete il signore del dovere,<br>io fin qui son vostra figlia. Ma ecco mio marito,<br>e quanto dovere mia madre mostrò<br>a voi, preferendo voi a suo padre,<br>altrettanto io rivendico di poter professare<br>dovuto al Moro mio signore. |
+| BRABANZIO | Dio sia con voi, ho finito.<br>Piaccia a vostra grazia, agli affari di stato.<br>Preferirei adottare un [[archetypes/child\|figlio]] che generarlo.<br>Vieni qua, Moro.<br>Qui ti do con tutto il cuore ciò<br>che, se già non l’avessi, con tutto il cuore<br>ti terrei lontano. (A [[characters/desdemona\|Desdemona]]) Per causa tua,<br>[[motifs/jewel\|gioiello]],<br>son lieto nell’[[motifs/soul\|anima]] di non aver altro [[archetypes/child\|figlio]],<br>ché la tua fuga m’insegnerebbe la tirannia,<br>a metter loro i ceppi. Ho finito, mio signore. |
+| DUCA | Lasciate ch’io parli come voi, e ponga una sentenza<br>che, come gradino o scalino, possa aiutare questi amanti<br>a entrare nel vostro favore.<br>Quando i rimedi son passati, i dolori han fine<br>col vedere il peggio che poc’anzi dalle speranze pendeva.<br>Piangere un male che è passato e andato<br>è la via più breve per attirarne di nuovo.<br>Ciò che non si può serbare quando la fortuna toglie,<br>la pazienza fa dell’ingiuria di lei una beffa.<br>Il derubato che sorride ruba qualcosa al ladro;<br>ruba a sé stesso chi spende un dolore inutile. |
+| BRABANZIO | Così il Turco ci frodi di Cipro,<br>non la perdiamo finché possiamo sorridere.<br>Sopporta [[motifs/well\|bene]] la sentenza chi nulla sopporta<br>se non il libero conforto che da essa ode,<br>ma sopporta e la sentenza e il dolore<br>colui che, per pagare il duolo, deve dalla povera pazienza prendere a prestito.<br>Queste sentenze, o zucchero o fiele, essendo forti da entrambi i lati, sono equivoche.<br>Ma parole son parole. Non ho ancora mai udito<br>che il cuore ferito fosse trafitto attraverso l’orecchio.<br>Umilmente vi supplico di procedere agli affari di stato. |
+| DUCA | Il Turco con potentissimo armamento fa rotta per Cipro. [[characters/othello\|Otello]], la fortezza del luogo vi è nota meglio che a ogni altro, e sebbene vi abbiamo un sostituto di riconosciutissima sufficienza, pure l’opinione, sovrana più assoluta degli effetti, getta su di voi un voto più sicuro. Dovete dunque contentarvi d’offuscare il lustro delle vostre nuove fortune con questa più aspra e tumultuosa spedizione. |
+| [[characters/othello\|OTELLO]] | La [[archetypes/tyrant\|tiranna]] abitudine, [[motifs/grave\|gravissimi]] senatori,<br>ha fatto del selcioso e acciaioso giaciglio di guerra<br>il mio letto di piuma tre volte battuta. Io riconosco<br>una naturale e pronta alacrità<br>che trovo nella durezza, e intraprendo<br>questa presente guerra contro gli Ottomani.<br>Umilissimamente dunque inchinandomi al vostro stato,<br>chiedo conveniente sistemazione per mia moglie,<br>debito riguardo di dimora e di mantenimento,<br>con quell’alloggio e quel séguito<br>che si adeguino alla sua nascita. |
+| DUCA | Ebbene, in casa di suo padre! |
+| BRABANZIO | Non lo voglio. |
+| [[characters/othello\|OTELLO]] | Né io. |
+| [[characters/desdemona\|DESDEMONA]] | Né io vi vorrei dimorare,<br>per mettere mio padre in pensieri d’impazienza<br>stando sotto i suoi occhi. Graziosissimo Duca,<br>al mio esporre prestate il vostro benigno orecchio,<br>e lasciate ch’io trovi un privilegio nella vostra voce<br>ad assistere la mia semplicità. |
+| DUCA | Che vorreste, [[characters/desdemona\|Desdemona]]? |
+| [[characters/desdemona\|DESDEMONA]] | Che io abbia posto [[motifs/love\|amore]] nel Moro per vivere con lui,<br>la mia schietta violenza e [[motifs/storm\|tempesta]] di fortune<br>possano bandirlo al mondo. Il mio cuore è soggiogato<br>fin proprio alla natura del mio signore.<br>Io vidi il volto di [[characters/othello\|Otello]] nel suo animo,<br>e ai suoi onori e alle sue valorose doti<br>consacrai la mia [[motifs/soul\|anima]] e le mie fortune;<br>sicché, cari signori, se io son lasciata indietro,<br>farfalla di pace, ed egli va alla guerra,<br>i riti per cui io l’[[motifs/love\|amo]] mi sono tolti,<br>e un grave intervallo dovrò sopportare<br>per la sua cara assenza. Lasciate ch’io vada con lui. |
+| [[characters/othello\|OTELLO]] | (al Duca) Le sia concesso il vostro voto.<br>Il cielo mi sia testimone, non lo chiedo perciò<br>per compiacere il palato del mio appetito,<br>né per assecondare l’ardore—i giovani affetti<br>in me defunti—e la propria soddisfazione,<br>ma per esser libero e generoso verso il suo animo;<br>e il cielo protegga le vostre buone anime dal pensare<br>che io trascurerò i vostri seri e grandi affari<br>quando ella sia con me. No, quando i trastulli dalle lievi ali<br>del piumato Cupido accechino di lasciva mollezza<br>i miei strumenti speculativi e d’ufficio,<br>sì che i miei diporti corrompano e guastino il mio dovere,<br>facciano le massaie una pentola del mio elmo,<br>e ogni indegna e vile avversità<br>muova assalto alla mia reputazione. |
+| DUCA | Sia come privatamente determinerete,<br>o per il suo restare o per l’andare. L’affare grida fretta,<br>e la [[characters/speed\|prestezza]] deve rispondervi.<br>UN SENATORE (a [[characters/othello\|Otello]])<br>Dovete partire stanotte. |
+| [[characters/desdemona\|DESDEMONA]] | Stanotte, mio signore? |
+| DUCA | Questa [[motifs/night\|notte]]. |
+| [[characters/othello\|OTELLO]] | Con tutto il cuore. |
+| DUCA | Alle nove del mattino qui ci ritroveremo.<br>[[characters/othello\|Otello]], lasciate qui qualche ufficiale,<br>ed egli vi recherà la nostra commissione,<br>e quant’altro di qualità e di riguardo<br>a voi importi. |
+| [[characters/othello\|OTELLO]] | Se piace a vostra grazia, il mio alfiere.<br>È uomo d’onestà e di fiducia.<br>Alla sua scorta affido mia moglie,<br>con quant’altro di necessario vostra buona grazia riterrà<br>di mandarmi appresso. |
+| DUCA | Così sia.<br>Buona [[motifs/night\|notte]] a tutti. (A Brabanzio) E, nobile<br>signore,<br>se alla virtù non manca la [[concepts/beauty\|bellezza]] che diletta,<br>vostro genero è assai più candido che nero.<br>UN SENATORE<br>Addio, prode Moro. Tratta [[characters/desdemona\|Desdemona]] [[motifs/well\|bene]]. |
+| BRABANZIO | Guardala bene, Moro, se hai occhi per vedere.<br>Ha ingannato suo padre, e può ingannare te. |
+| *(didascalia)* | Escono il Duca, Brabanzio, [[characters/cassio\|Cassio]], i Senatori e gli ufficiali |
+| [[characters/othello\|OTELLO]] | La mia vita sulla sua [[concepts/faith\|fede]]. L’onesto [[characters/iago\|Iago]],<br>la mia [[characters/desdemona\|Desdemona]] devo affidare a te.<br>Ti prego, che tua moglie l’assista,<br>e conducile poi appresso col miglior comodo.<br>Vieni, [[characters/desdemona\|Desdemona]]. Non ho che un’ora<br>d’[[motifs/love\|amore]], di cose mondane e di disposizioni<br>da spendere con te. Dobbiamo obbedire al [[motifs/time\|tempo]]. |
+| *(didascalia)* | Escono [[characters/othello\|Otello]] e [[characters/desdemona\|Desdemona]] |
+| [[characters/roderigo\|RODERIGO]] | [[characters/iago\|Iago]]. |
+| [[characters/iago\|IAGO]] | Che dici, nobile cuore? |
+| [[characters/roderigo\|RODERIGO]] | Che farò, credi tu? |
+| [[characters/iago\|IAGO]] | Ma va’ a letto e [[motifs/sleep\|dormi]]. |
+| [[characters/roderigo\|RODERIGO]] | Mi annegherò all’istante. |
+| [[characters/iago\|IAGO]] | Se lo fai, non ti [[motifs/love\|amerò]] mai più. Ma via, sciocco gentiluomo! |
+| [[characters/roderigo\|RODERIGO]] | È sciocchezza vivere quando il vivere è tormento; e allora abbiamo la prescrizione di morire, quando la [[motifs/death\|morte]] è il nostro medico. |
+| [[characters/iago\|IAGO]] | Oh, scelleratezza! Ho guardato il mondo per quattro volte sette anni, e da quando so distinguere fra un beneficio e un’offesa non ho mai trovato uomo che sapesse [[motifs/love\|amare]] sé stesso. Prima di dire che mi annegherei per l’[[motifs/love\|amore]] di una gallinella, muterei la mia umanità con quella d’un babbuino. |
+| [[characters/roderigo\|RODERIGO]] | Che dovrei fare? Confesso che è mia vergogna essere così infatuato, ma non è nella mia virtù correggerlo. |
+| [[characters/iago\|IAGO]] | Virtù? Un fico! Sta in noi stessi l’essere così o così. I nostri corpi sono i nostri giardini, dei quali le nostre volontà sono i giardinieri; sicché, se vogliamo piantare ortiche o seminare lattuga, mettere issopo o sarchiare il timo, fornirlo d’una sola specie d’erbe o distrarlo con molte, o averlo sterile per pigrizia o concimato per industria, ebbene, il potere e la correggibile autorità di ciò stanno nelle nostre volontà. Se la bilancia delle nostre vite non avesse un piatto di ragione a contrappesarne un altro di sensualità, il [[motifs/blood\|sangue]] e la bassezza delle nostre nature ci condurrebbero a conclusioni mostruosissime. Ma abbiamo la ragione a raffreddare i nostri moti furiosi, i nostri pungoli carnali, le nostre voglie sfrenate; di cui io ritengo che questo che voi chiamate [[motifs/love\|amore]] sia un rampollo o un innesto. |
+| [[characters/roderigo\|RODERIGO]] | Non può essere. |
+| [[characters/iago\|IAGO]] | È soltanto una libidine del [[motifs/blood\|sangue]] e una concessione della volontà. Su, sii uomo. Annegarti? Annega i gatti e i cuccioli ciechi. Mi son professato tuo amico, e mi confesso legato al tuo merito con gomene d’inesauribile tenacia. Non potrei mai giovarti meglio d’ora. Metti denaro nella tua borsa. Segui le guerre, sfigura il tuo volto con una barba posticcia. Ti dico, metti denaro nella tua borsa. Non può durare a lungo che [[characters/desdemona\|Desdemona]] continui il suo [[motifs/love\|amore]] per il Moro—metti denaro nella tua borsa—né egli il suo per lei. Fu un violento cominciamento in lei, e vedrai una separazione corrispondente—metti solo denaro nella tua borsa. Questi Mori sono mutevoli nelle loro voglie—riempi la tua borsa di denaro. Il cibo che ora gli è dolce come carrube fra poco gli sarà amaro come coloquintide. Ella deve mutare per la giovinezza. Quando sarà sazia del suo [[concepts/body\|corpo]], scoprirà l’errore della sua scelta. Perciò metti denaro nella tua borsa. Se proprio vuoi dannarti, fallo in modo più delicato che annegandoti. Fa’ tutto il denaro che puoi. Se la santimonia e un fragile voto fra un barbaro errante e una sottilissima veneziana non sono troppo duri per il mio ingegno e per tutta la tribù dell’inferno, tu la godrai; dunque fa’ denaro. Al diavolo l’annegarti—è affatto fuori strada. Cerca piuttosto d’essere impiccato conseguendo la tua gioia, che d’essere annegato e restare senza di lei. |
+| [[characters/roderigo\|RODERIGO]] | Sarai saldo alle mie speranze, se mi affido all’esito? |
+| [[characters/iago\|IAGO]] | Sei sicuro di me. Va’, fa’ denaro. Te l’ho detto spesso, e te lo ridico ancora e ancora, odio il Moro. La mia causa è radicata nel cuore, la tua non ha minor ragione. Siamo congiunti nella nostra [[concepts/revenge\|vendetta]] contro di lui. Se puoi farlo becco, fai a te stesso un piacere, a me uno spasso. Vi sono molti eventi nel grembo del [[motifs/time\|tempo]], che verranno alla luce. In marcia, va’, procurati il denaro. Ne riparleremo domani. Addio. |
+| [[characters/roderigo\|RODERIGO]] | Dove ci incontreremo al mattino? |
+| [[characters/iago\|IAGO]] | Al mio alloggio. |
+| [[characters/roderigo\|RODERIGO]] | Sarò da te di buon’ora. |
+| [[characters/iago\|IAGO]] | Va’ pure, addio—<br>Mi udite, [[characters/roderigo\|Roderigo]]? |
+| [[characters/roderigo\|RODERIGO]] | Venderò tutta la mia terra. |
+| *(didascalia)* | Esce |
+| [[characters/iago\|IAGO]] | Così faccio sempre del mio [[archetypes/fool\|sciocco]] la mia borsa—<br>ché profanerei il sapere da me acquistato<br>se spendessi [[motifs/time\|tempo]] con un tal beccaccino<br>se non per mio spasso e profitto. Odio il Moro,<br>e si vocifera in giro che fra le mie lenzuola<br>egli abbia fatto il mio ufficio. Non so se sia vero,<br>ma io, per il solo sospetto di tal genere,<br>agirò come per certezza. Egli mi stima [[motifs/well\|bene]]:<br>tanto meglio opererà su di lui il mio disegno.<br>[[characters/cassio\|Cassio]] è un bell’uomo. Vediamo ora,<br>prendere il suo posto, e impennacchiare il mio volere<br>in [[topoi/double\|doppia]] furfanteria—come, come? Vediamo.<br>Dopo qualche [[motifs/time\|tempo]], abusare gli orecchi di [[characters/othello\|Otello]]<br>ch’egli è troppo familiare con sua moglie;<br>ha una persona e un modo così soave<br>da esser sospettato, fatto apposta per render false le donne.<br>Il Moro è di [[concepts/nature\|natura]] libera e aperta,<br>che crede onesti gli uomini che solo paion tali,<br>e si lascerà menare per il naso con la stessa docilità<br>degli asini.<br>Ce l’ho. È generato. L’inferno e la [[motifs/night\|notte]]<br>devono portare questo parto mostruoso alla luce del mondo. |
+| *(didascalia)* | Esce |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra sotto Montano, Governatore di Cipro; due altri gentiluomini sopra |
+| MONTANO | Che si discerne dal capo, laggiù sul mare? |
+| PRIMO GENTILUOMO | Nulla, proprio nulla. È un mare in gran tumulto.<br>Non riesco, fra il cielo e l’oceano,<br>a scorgere una vela. |
+| MONTANO | Mi pare che il [[motifs/wind\|vento]] abbia parlato forte a terra.<br>Raffica più piena non scosse mai i nostri bastioni.<br>Se ha fatto tanto il bravaccio sopra il mare,<br>quali costole di quercia, quando le [[settings/mountains\|montagne]] si sciolgono su loro,<br>possono tener le giunture? Che udremo di questo? |
+| SECONDO GENTILUOMO | Una dispersione della flotta turca;<br>ché basta star sulla riva schiumante,<br>e l’onda flagellata par percuotere le nubi,<br>il maroso squassato dal [[motifs/wind\|vento]], con criniera alta e mostruosa,<br>par gettare [[motifs/water\|acqua]] sull’Orsa ardente<br>e spegnere le guardie del Polo eternamente fisso.<br>Mai vidi simile tormento<br>sopra il flutto incollerito. |
+| MONTANO | Se la flotta turca<br>non è al riparo dentro qualche baia, essi sono sommersi.<br>È impossibile resistere. |
+| *(didascalia)* | Entra un terzo Gentiluomo |
+| TERZO GENTILUOMO | Notizie, ragazzi! Le nostre guerre son finite.<br>La disperata tempesta ha così battuto i Turchi<br>che il loro disegno s’arresta. Una nobile [[motifs/ship\|nave]] di [[settings/venice\|Venezia]]<br>ha visto grave naufragio e travaglio<br>sulla maggior parte della loro flotta. |
+| MONTANO | Come, è vero questo? |
+| TERZO GENTILUOMO | La [[motifs/ship\|nave]] è qui approdata,<br>una veronese. [[characters/michael\|Michael]] [[characters/cassio\|Cassio]],<br>luogotenente del bellicoso Moro [[characters/othello\|Otello]],<br>è sceso a terra; il Moro stesso è in mare,<br>e viene qui con pieni poteri per Cipro. |
+| MONTANO | Ne son lieto; è un degno governatore. |
+| TERZO GENTILUOMO | Ma questo stesso [[characters/cassio\|Cassio]], benché parli di conforto<br>quanto alla perdita turca, pure ha l’aria mesta,<br>e prega che il Moro sia salvo, ché furon separati<br>da immonda e violenta tempesta. |
+| MONTANO | Voglia il cielo che lo sia,<br>ché io l’ho servito, e quell’uomo comanda<br>da compiuto soldato. Alla riva del mare, olà!—<br>[[motifs/well\|tanto]] per veder la nave ch’è approdata<br>quanto per spinger lo sguardo in cerca del prode [[characters/othello\|Otello]],<br>fin che il mare e l’azzurro dell’aria<br>ci sian confusi in un solo sguardo. |
+| TERZO GENTILUOMO | Venite, facciam così,<br>ché ogni minuto è attesa<br>di nuovi arrivi. |
+| *(didascalia)* | Entra [[characters/cassio\|Cassio]] |
+| [[characters/cassio\|CASSIO]] | Grazie a voi, prodi di quest’isola guerriera,<br>che così approvate il Moro! Oh, concedano i cieli<br>difesa a lui contro gli elementi,<br>ché io l’ho perduto in un mare periglioso. |
+| MONTANO | È [[motifs/well\|bene]] imbarcato? |
+| [[characters/cassio\|CASSIO]] | La sua barca è saldamente fasciata di legname, e il suo pilota<br>è d’esperienza espertissima e provata.<br>Perciò le mie speranze, non saziate fino alla [[motifs/death\|morte]],<br>stanno in ferma guarigione. |
+| VOCI | (di dentro)<br>Una vela, una vela, una vela! |
+| [[characters/cassio\|CASSIO]] | Che rumore?<br>UN GENTILUOMO<br>La città è vuota. Sul ciglio del mare<br>stanno file di gente, e gridano ‘Una vela!’ |
+| [[characters/cassio\|CASSIO]] | Le mie speranze me lo figurano il governatore.<br>Uno sparo<br>UN GENTILUOMO<br>Scaricano il loro colpo di cortesia—<br>amici, almeno. |
+| [[characters/cassio\|CASSIO]] | Vi prego, signore, andate,<br>e dateci la [[concepts/truth\|verità]] su chi è colui ch’è giunto.<br>UN GENTILUOMO Vado. |
+| *(didascalia)* | Esce |
+| MONTANO | Ma, buon luogotenente, il vostro generale ha preso moglie? |
+| [[characters/cassio\|CASSIO]] | Fortunatissimamente. Ha conquistato una fanciulla<br>che supera ogni descrizione e la fama più ardita,<br>una che eccede i cavilli delle penne blasonanti,<br>e nell’essenziale veste della creazione<br>stanca l’artefice. |
+| *(didascalia)* | Entra il Gentiluomo |
+| [[characters/cassio\|CASSIO]] | Ebbene, chi è approdato? |
+| GENTILUOMO | È un tale [[characters/iago\|Iago]], alfiere del generale. |
+| [[characters/cassio\|CASSIO]] | Ha avuto [[characters/speed\|corsa]] assai favorevole e felice.<br>Le tempeste stesse, gli alti mari e i venti ululanti,<br>gli scogli scanalati e le sabbie ammassate,<br>traditori immersi per intralciare l’innocente chiglia,<br>come avendo senso della [[concepts/beauty\|bellezza]] dimettono<br>le loro nature mortali, lasciando passare salva<br>la divina [[characters/desdemona\|Desdemona]]. |
+| MONTANO | Chi è costei? |
+| [[characters/cassio\|CASSIO]] | Colei di cui parlavo, capitana del nostro gran capitano,<br>lasciata alla scorta dell’ardito [[characters/iago\|Iago]],<br>il cui approdo qui previene i nostri pensieri<br>d’una settimana di [[characters/speed\|corsa]]. Gran Giove, proteggi [[characters/othello\|Otello]],<br>e gonfia la sua vela col tuo possente fiato,<br>ch’egli benedica questa baia con la sua alta [[motifs/ship\|nave]],<br>faccia i rapidi aneliti d’[[motifs/love\|amore]] fra le braccia di [[characters/desdemona\|Desdemona]],<br>dia [[motifs/fire\|fuoco]] rinnovato ai nostri spiriti estinti,<br>e rechi conforto a tutta Cipro. |
+| *(didascalia)* | Entrano [[characters/desdemona\|Desdemona]], [[characters/iago\|Iago]], [[characters/emilia\|Emilia]] e [[characters/roderigo\|Roderigo]] |
+| [[characters/cassio\|CASSIO]] | Oh, guardate,<br>la ricchezza della [[motifs/ship\|nave]] è venuta a terra!<br>Voi uomini di Cipro, piegatele il ginocchio.<br>Montano e i Gentiluomini fanno riverenza a [[characters/desdemona\|Desdemona]]<br>Salute a te, signora, e la grazia del cielo<br>innanzi, dietro a te, e d’ogni parte<br>ti circondi in cerchio! |
+| [[characters/desdemona\|DESDEMONA]] | Vi ringrazio, valoroso [[characters/cassio\|Cassio]].<br>Quali notizie potete darmi del mio signore? |
+| [[characters/cassio\|CASSIO]] | Non è ancora giunto, né so nulla<br>se non ch’egli sta [[motifs/well\|bene]] e sarà qui fra poco. |
+| [[characters/desdemona\|DESDEMONA]] | Oh, ma io [[concepts/fear\|temo]]—come perdeste la sua compagnia? |
+| [[characters/cassio\|CASSIO]] | La grande contesa del mare e dei cieli<br>separò la nostra compagnia. |
+| VOCI | (di dentro) Una vela, una vela! |
+| [[characters/cassio\|CASSIO]] | Ma udite, una vela.<br>Uno sparo<br>UN GENTILUOMO<br>Danno il loro saluto alla cittadella.<br>Anche questo è un amico. |
+| [[characters/cassio\|CASSIO]] | Andate a veder le notizie. |
+| *(didascalia)* | Esce il Gentiluomo |
+| [[characters/cassio\|CASSIO]] | Buon alfiere, siate il benvenuto. (Baciando [[characters/emilia\|Emilia]])<br>Benvenuta, signora.<br>Non irriti la vostra pazienza, buon [[characters/iago\|Iago]],<br>ch’io estenda le mie maniere. È la mia educazione<br>che mi dà questa ardita mostra di cortesia. |
+| [[characters/iago\|IAGO]] | Signore, se ella vi desse tanto delle sue labbra<br>quanto della sua lingua spesso elargisce a me,<br>ne avreste abbastanza. |
+| [[characters/desdemona\|DESDEMONA]] | Ahimè, ella non ha parola! |
+| [[characters/iago\|IAGO]] | In [[concepts/faith\|fede]], anche troppa.<br>Me n’avvedo sempre quando ho licenza di [[motifs/sleep\|dormire]].<br>Certo, dinanzi a vossignoria, lo concedo,<br>ella mette un poco la lingua nel cuore,<br>e sgrida col pensiero. |
+| [[characters/emilia\|EMILIA]] | Avete poca ragione di dir così. |
+| [[characters/iago\|IAGO]] | Suvvia, suvvia. Siete quadri fuori di casa,<br>[[motifs/bells\|campane]] nei vostri salotti; gatte selvatiche nelle vostre cucine,<br>sante nelle vostre offese; diavoli quando siete offese,<br>commedianti nel governo della casa, e sgualdrine nei vostri letti. |
+| [[characters/desdemona\|DESDEMONA]] | Oh, vergogna a te, calunniatore! |
+| [[characters/iago\|IAGO]] | No, è vero, o son io un Turco.<br>Vi levate per giocare e andate a letto per lavorare. |
+| [[characters/emilia\|EMILIA]] | Non sarai tu a scrivere il mio elogio. |
+| [[characters/iago\|IAGO]] | No, non lasciatemelo fare. |
+| [[characters/desdemona\|DESDEMONA]] | Che scriveresti di me, se dovessi lodarmi? |
+| [[characters/iago\|IAGO]] | Oh, gentile signora, non costringetemi,<br>ché non son nulla se non critico. |
+| [[characters/desdemona\|DESDEMONA]] | Su, [[forms/essay\|provate]]—c’è qualcuno andato al porto? |
+| [[characters/iago\|IAGO]] | Sì, madonna. |
+| [[characters/desdemona\|DESDEMONA]] | Non sono allegra, ma inganno<br>ciò che sono col parere altrimenti.<br>Su, come mi loderesti? |
+| [[characters/iago\|IAGO]] | Ci sto pensando, ma invero la mia invenzione<br>esce dal mio cranio come il vischio dal panno ruvido—<br>strappa via cervello e tutto. Ma la mia musa partorisce,<br>ed ecco ciò ch’ella dà alla luce:<br>Se è bella e saggia, bellezza e ingegno,<br>l’una serve all’uso, l’altro se ne vale. |
+| [[characters/desdemona\|DESDEMONA]] | [[motifs/well\|Ben]] lodato! E se fosse bruna e arguta? |
+| [[characters/iago\|IAGO]] | Se è bruna e per giunta ha ingegno,<br>troverà un bianco che al suo nero s’adatti. |
+| [[characters/desdemona\|DESDEMONA]] | Di male in peggio. |
+| [[characters/emilia\|EMILIA]] | E se bella e sciocca? |
+| [[characters/iago\|IAGO]] | Non fu mai sciocca colei che fu bella,<br>ché anche la sua follia le procurò un erede. |
+| [[characters/desdemona\|DESDEMONA]] | Questi sono vecchi e insulsi paradossi, da far ridere gli stolti nella bettola.<br>Che misera lode hai tu per quella<br>ch’è brutta e sciocca? |
+| [[characters/iago\|IAGO]] | Non v’è nessuna così brutta e per giunta sciocca<br>che non faccia le sporche birbonate che fan le belle e le sagge. |
+| [[characters/desdemona\|DESDEMONA]] | Oh grave ignoranza! Tu lodi il peggio nel modo migliore. Ma quale lode potresti tu conferire a una donna veramente meritevole—una che, nell’autorità del suo merito, potesse a giusto titolo esigere la testimonianza della malignità stessa? |
+| [[characters/iago\|IAGO]] | Colei che fu sempre bella e mai superba,<br>ebbe lingua a piacere e pur non fu mai chiassosa,<br>mai le mancò l’oro e pur non andò mai in gala,<br>fuggì dal suo desiderio, e pur disse ‘Ora potrei’;<br>colei che, adirata, con la [[concepts/revenge\|vendetta]] vicina,<br>ordinò al torto di restare e al suo dispetto di volar via;<br>colei che in saggezza non fu mai così fragile<br>da cambiar la testa del merluzzo con la coda del salmone;<br>colei che sapeva pensare e mai svelare la sua mente,<br>veder seguirla i corteggiatori, e non guardarsi indietro—<br>costei era una creatura, se mai tali creature vi furono— |
+| [[characters/desdemona\|DESDEMONA]] | Per far che? |
+| [[characters/iago\|IAGO]] | Per allattare sciocchi e tener conto della birra leggera. |
+| [[characters/desdemona\|DESDEMONA]] | Oh conclusione zoppa e impotente! Non imparare da lui, [[characters/emilia\|Emilia]], benché egli sia tuo marito. Che ne dite, [[characters/cassio\|Cassio]], non è egli un consigliere profano e licenzioso? |
+| [[characters/cassio\|CASSIO]] | Colpisce [[motifs/home\|nel segno]], madonna. Potete gustarlo più nel soldato che nel dotto.<br>[[characters/cassio\|Cassio]] e [[characters/desdemona\|Desdemona]] parlano in disparte |
+| [[characters/iago\|IAGO]] | (a parte) Le prende la mano. Sì, [[motifs/well\|ben]] detto—sussurrate. Con una rete piccola come questa irretirò una mosca grande come [[characters/cassio\|Cassio]]. Sì, sorridile, sorridi. Ti metterò i ceppi con la tua stessa galanteria. Dite il vero, è proprio così. Se simili astuzie vi spogliano della vostra luogotenenza, sarebbe stato meglio non baciarvi le tre dita così spesso, come di nuovo ora siete prontissimo a fare per far l’elegante. Molto bene, [[motifs/well\|ben]] baciato, un’eccellente riverenza, è proprio così; e ancora le vostre dita alle labbra? Vorrei che fossero cannule di clistere, per il vostro bene. |
+| *(didascalia)* | Trombe di dentro |
+| [[characters/iago\|IAGO]] | (Ad alta voce) Il Moro—conosco la sua tromba. |
+| [[characters/cassio\|CASSIO]] | È proprio così. |
+| [[characters/desdemona\|DESDEMONA]] | Andiamogli incontro e riceviamolo. |
+| [[characters/cassio\|CASSIO]] | Ecco dove viene! |
+| *(didascalia)* | Entrano [[characters/othello\|Otello]] e servitori |
+| [[characters/othello\|OTELLO]] | (a [[characters/desdemona\|Desdemona]])<br>Oh mia bella guerriera! |
+| [[characters/desdemona\|DESDEMONA]] | Mio caro [[characters/othello\|Otello]]. |
+| [[characters/othello\|OTELLO]] | Mi dà [[concepts/wonder\|meraviglia]] grande quanto il mio contento<br>vedervi qui davanti a me. Oh gioia della mia [[motifs/soul\|anima]],<br>se dopo ogni tempesta vengono tali bonacce,<br>soffino i venti finché abbiano destato la [[motifs/death\|morte]],<br>e la barca affannata scali colline di mari<br>alte come l’Olimpo, e s’immerga di nuovo tanto in giù<br>quanto è l’inferno dal cielo. Se ora dovessi morire<br>sarebbe ora l’esser felicissimo, ché io [[concepts/fear\|temo]]<br>che la mia [[motifs/soul\|anima]] abbia il suo contento così assoluto<br>che nessun altro conforto simile a questo<br>seguirà in sorte ignota. |
+| [[characters/desdemona\|DESDEMONA]] | Non voglia il cielo<br>se non che i nostri amori e conforti crescano<br>anche come crescono i nostri giorni. |
+| [[characters/othello\|OTELLO]] | Amen a questo, dolci potenze!<br>Non so dire abbastanza di questo contento.<br>Mi si ferma qui, è troppa gioia.<br>E questo, (si baciano) e questo, sian le maggiori discordie<br>che mai facciano i nostri cuori. |
+| [[characters/iago\|IAGO]] | (a parte) Oh, siete [[motifs/well\|ben]] accordati ora,<br>ma io allenterò i bischeri che fanno questa musica,<br>onesto come sono. |
+| [[characters/othello\|OTELLO]] | Venite, andiamo al [[settings/castle\|castello]].<br>Notizie, amici: le nostre guerre son finite, i Turchi sono<br>annegati.<br>Come stanno le mie vecchie conoscenze di quest’isola?—<br>Cara, sarai [[motifs/well\|ben]] desiderata a Cipro,<br>ho trovato grande [[motifs/love\|amore]] fra loro. Oh mia dolce,<br>ciarlo fuor di misura, e vaneggio<br>nei miei stessi conforti. Ti prego, buon [[characters/iago\|Iago]],<br>va’ alla baia e sbarca i miei bauli.<br>Conduci il capitano alla cittadella.<br>È un brav’uomo, e il suo valore<br>esige molto rispetto. Vieni, [[characters/desdemona\|Desdemona]].—<br>Ancora una volta, [[motifs/well\|ben]] trovati a Cipro! |
+| *(didascalia)* | Escono [[characters/othello\|Otello]] e [[characters/desdemona\|Desdemona]] con tutti tranne lago e [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | (a un servitore che esce) Tu incontrami subito al porto. (A [[characters/roderigo\|Roderigo]]) Vieni qua. Se sei valoroso—come dicono che gli uomini vili quando sono in [[motifs/love\|amore]] hanno allora nelle loro nature una nobiltà più di quanta ne sia loro nativa—ascoltami. Il luogotenente stanotte monta la guardia al [[settings/court\|corpo]] di guardia. Prima di tutto, devo dirti questo: [[characters/desdemona\|Desdemona]] è direttamente presa d’[[motifs/love\|amore]] per lui. |
+| RODERICO | Per lui? Ma via, non è possibile! |
+| [[characters/iago\|IAGO]] | Poni il dito così, e lascia che la tua [[motifs/soul\|anima]] sia istruita. Nota con che violenza ella dapprima amò il Moro, e ciò solo per le sue millanterie e per le fantastiche menzogne che le raccontava. E [[motifs/love\|amarlo]] ancora per il suo cianciare?—non lo pensi il tuo cuore discreto. Il suo occhio dev’essere nutrito, e che diletto avrà a guardare il diavolo? Quando il [[motifs/blood\|sangue]] è reso ottuso dall’atto del piacere, dovrebbe esserci di nuovo, per infiammarlo e per dare alla sazietà un fresco appetito, avvenenza nell’aspetto, conformità d’anni, di maniere e di bellezze, di tutte le quali il Moro è privo. Ora, per mancanza di questi richiesti agi, la sua delicata tenerezza si troverà ingannata, comincerà a provar nausea, a disgustarsi e ad aborrire il Moro. La [[concepts/nature\|natura]] stessa gliel’insegnerà e la costringerà a qualche seconda scelta. Ora, signore, concesso questo—com’è posizione assai evidente e non forzata—chi sta così eminente nel grado di questa fortuna come vi sta [[characters/cassio\|Cassio]]?—un furfante assai sciolto di lingua, non più coscienzioso di quanto occorra a indossare la mera forma d’un civile e umano sembiante per meglio conseguire la sua salace e nascostissima sfrenata inclinazione. Ma via, nessuno; via, nessuno—un furfante sdrucciolevole e sottile, un trovatore d’occasioni, che ha un occhio capace di coniare e contraffare vantaggi, benché il vero vantaggio non si presenti mai, un furfante diabolico! Inoltre, il furfante è bello, giovane, e ha in sé tutti quei requisiti che la follia e le menti verdi vanno cercando. Un furfante pestilenziale e compiuto, e la donna l’ha già trovato. |
+| [[characters/roderigo\|RODERIGO]] | Non posso crederlo di lei. Ella è piena della più benedetta indole. |
+| [[characters/iago\|IAGO]] | Benedetta un corno! Il vino ch’ella beve è fatto d’uva. Se fosse stata benedetta, non avrebbe mai amato il Moro. Benedetto budino! Non l’hai vista giocherellare col palmo della sua mano? Non l’hai notato? 255 |
+| [[characters/roderigo\|RODERIGO]] | Sì, questo sì, ma non era che cortesia. |
+| [[characters/iago\|IAGO]] | Lussuria, per questa mano; un indice e un oscuro prologo alla [[concepts/history\|storia]] della libidine e dei pensieri immondi. S’accostarono tanto con le labbra che i loro fiati s’abbracciarono. Pensieri scellerati, [[characters/roderigo\|Roderigo]]! Quando tali reciprocità aprono così la via, subito appresso viene l’esercizio principale e maestro, la conclusione carnale. Puah! Ma, signore, lasciatevi guidare da me. Vi ho condotto da [[settings/venice\|Venezia]]. Fate la guardia stanotte. Quanto all’ordine, ve lo procurerò io. [[characters/cassio\|Cassio]] non vi conosce; io non sarò lontano da voi. Trovate voi qualche occasione per far adirare [[characters/cassio\|Cassio]], sia parlando troppo forte, sia screditando la sua disciplina, sia con qualunque altro mezzo vi piaccia, che il [[motifs/time\|tempo]] fornirà più propizio. |
+| [[characters/roderigo\|RODERIGO]] | [[motifs/well\|Bene]]. |
+| [[characters/iago\|IAGO]] | Signore, egli è avventato e assai subitaneo nella collera, e può darsi che vi colpisca. Provocatelo perché lo faccia, ché proprio da ciò farò ammutinare questi di Cipro, la cui pacificazione non tornerà a vero sapore se non con la rimozione di [[characters/cassio\|Cassio]]. Così avrete un più breve [[motifs/journey\|cammino]] ai vostri desideri per i mezzi che allora avrò di favorirli, e l’impedimento rimosso assai proficuamente, senza di che non vi sarebbe speranza della nostra prosperità. |
+| [[characters/roderigo\|RODERIGO]] | Farò questo, se potete condurlo a qualche opportunità. |
+| [[characters/iago\|IAGO]] | Te l’assicuro. Trovami fra poco alla cittadella. Devo portare a terra le sue cose necessarie. Addio. |
+| [[characters/roderigo\|RODERIGO]] | Addio. |
+| *(didascalia)* | Esce |
+| [[characters/iago\|IAGO]] | Che [[characters/cassio\|Cassio]] l’ami, lo credo [[motifs/well\|bene]].<br>Che ella ami lui, è verosimile e di gran credito.<br>Il Moro—benché io non lo sopporti—<br>è di [[concepts/nature\|natura]] costante, amorosa, nobile,<br>e oso pensare ch’egli si mostrerà per [[characters/desdemona\|Desdemona]]<br>un marito carissimo. Ora anch’io l’[[motifs/love\|amo]],<br>non per assoluta lussuria—benché forse<br>io risponda d’un peccato altrettanto grande—<br>ma in parte spinto a nutrire la mia [[concepts/revenge\|vendetta]],<br>ché sospetto che il Moro libidinoso<br>sia balzato nel mio seggio, e il pensiero di ciò<br>mi rode le viscere come un minerale velenoso;<br>e nulla può o potrà contentare la mia [[motifs/soul\|anima]]<br>finché non sia pari con lui, moglie per moglie—<br>o, fallendo ciò, finché almeno non metta il Moro<br>in una [[concepts/jealousy\|gelosia]] così forte<br>che il giudizio non possa guarire; e per far ciò,<br>se questo povero rifiuto di [[settings/venice\|Venezia]] ch’io aizzo<br>per la sua caccia veloce regge all’aizzamento,<br>avrò il nostro [[characters/michael\|Michael]] [[characters/cassio\|Cassio]] all’anca,<br>lo calunnierò presso il Moro nel modo più rozzo—<br>ché [[concepts/fear\|temo]] anche [[characters/cassio\|Cassio]] con la mia berretta da notte—<br>farò che il Moro mi ringrazi, mi [[motifs/love\|ami]] e mi ricompensi<br>per averlo reso egregiamente un asino,<br>e per aver attentato alla sua pace e quiete<br>fino alla [[concepts/madness\|follia]]. È qui, ma ancora confuso.<br>Il chiaro volto della furfanteria non si vede mai finché non è usato. |
+| *(didascalia)* | Esce |
+
+### Atto 2, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra l’Araldo di [[characters/othello\|Otello]] leggendo un proclama |
+| ARALDO | È volontà di [[characters/othello\|Otello]]—nostro nobile e valoroso<br>generale—che, essendo ora giunte notizie certe<br>che annunciano la totale rovina della flotta turca, ognuno<br>si dia al trionfo: chi a [[motifs/dance\|danzare]], chi ad<br>accendere falò, ciascuno a quel diletto e a quei sollazzi cui la sua<br>inclinazione lo porta; ché, oltre a queste liete nuove,<br>si celebrano le sue nozze. Tanto egli volle<br>fosse proclamato. Tutte le dispense sono aperte, e<br>v’è piena libertà di banchettare da quest’ora presente<br>delle cinque finché la campana non abbia suonato le undici. Il Cielo benedica<br>l’isola di Cipro e il nostro nobile generale, [[characters/othello\|Otello]]! Esce |
+
+### Atto 2, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/othello\|Otello]], [[characters/desdemona\|Desdemona]], [[characters/cassio\|Cassio]] e servitori |
+| [[characters/othello\|OTELLO]] | Buon [[characters/michael\|Michael]], badate voi alla guardia stanotte.<br>Insegniamoci quell’onorevole misura<br>di non spingere il festeggiare oltre la discrezione. |
+| [[characters/cassio\|CASSIO]] | [[characters/iago\|Iago]] ha istruzioni su quel che deve fare,<br>ma nondimeno, col mio occhio in persona<br>ci baderò io stesso. |
+| [[characters/othello\|OTELLO]] | [[characters/iago\|Iago]] è onestissimo.<br>[[characters/michael\|Michael]], buona [[motifs/night\|notte]]. Domani al vostro primo levarvi<br>fatemi parlare con voi. (A [[characters/desdemona\|Desdemona]]) Vieni,<br>mio caro [[motifs/love\|amore]],<br>fatto l’acquisto, i frutti devono seguire.<br>Quel profitto deve ancora venire fra me e te.<br>(A [[characters/cassio\|Cassio]]) Buona [[motifs/night\|notte]]. |
+| *(didascalia)* | Escono [[characters/othello\|Otello]], [[characters/desdemona\|Desdemona]] e i servitori |
+| *(didascalia)* | Entra [[characters/iago\|Iago]] |
+| [[characters/cassio\|CASSIO]] | Benvenuto, [[characters/iago\|Iago]]. Dobbiamo andare di guardia. |
+| [[characters/iago\|IAGO]] | Non a quest’ora, luogotenente; non sono ancora le dieci all’[[motifs/clock\|orologio]]. Il nostro generale ci ha congedati così presto per l’[[motifs/love\|amore]] della sua [[characters/desdemona\|Desdemona]], e non gliene facciamo perciò colpa. Non ha ancora reso lasciva la [[motifs/night\|notte]] con lei, e lei è diletto degno di Giove. |
+| [[characters/cassio\|CASSIO]] | È una dama squisitissima. |
+| [[characters/iago\|IAGO]] | E vi garantisco che è piena di brio. |
+| [[characters/cassio\|CASSIO]] | Davvero, è una creatura freschissima e delicata. |
+| [[characters/iago\|IAGO]] | Che occhio ha! Mi pare che suoni un parlamento d’invito alla provocazione. |
+| [[characters/cassio\|CASSIO]] | Un occhio invitante, eppure, mi pare, assai modesto. |
+| [[characters/iago\|IAGO]] | E quando parla, non è forse una chiamata alle armi per l’[[motifs/love\|amore]]? |
+| [[characters/cassio\|CASSIO]] | È davvero la perfezione. |
+| [[characters/iago\|IAGO]] | [[motifs/well\|Ebbene]], felicità alle loro lenzuola. Venite, luogotenente. Ho una brocca di vino, e qui fuori ci sono un paio di galanti di Cipro che vorrebbero volentieri bere una misura alla salute del nero [[characters/othello\|Otello]]. |
+| [[characters/cassio\|CASSIO]] | Non stanotte, buon [[characters/iago\|Iago]]. Ho un cervello assai povero e infelice per il bere. Potrei [[motifs/well\|bene]] augurarmi che la cortesia inventasse qualche altra usanza di divertimento. |
+| [[characters/iago\|IAGO]] | Oh, sono nostri amici! Una sola coppa. Berrò io per voi. |
+| [[characters/cassio\|CASSIO]] | Ho bevuto una sola coppa stanotte, e per giunta accortamente allungata, e guardate che rivoluzione fa qui dentro! Sono sfortunato in questa infermità, e non oso mettere alla prova la mia debolezza con altro. |
+| [[characters/iago\|IAGO]] | Ma via, amico, è una [[motifs/night\|notte]] di baldoria, i galanti lo [[motifs/desire\|desiderano]]! |
+| [[characters/cassio\|CASSIO]] | Dove sono? |
+| [[characters/iago\|IAGO]] | Qui alla porta. Vi prego, chiamateli dentro. |
+| [[characters/cassio\|CASSIO]] | Lo farò, ma non mi piace. |
+| *(didascalia)* | Esce |
+| [[characters/iago\|IAGO]] | Se riesco ad appioppargli una sola coppa,<br>con quello che ha già bevuto stanotte<br>sarà così pieno di litigio e d’offesa<br>come il cane della mia giovane padrona. Ora il mio malato [[archetypes/fool\|folle]] [[characters/roderigo\|Roderigo]],<br>che l’[[motifs/love\|amore]] ha quasi rivoltato a rovescio,<br>ha stanotte brindato a [[characters/desdemona\|Desdemona]]<br>bevute fino in fondo al boccale, ed è di guardia.<br>Altri tre di Cipro—nobili spiriti gonfi d’orgoglio<br>che tengono il loro onore a guardinga distanza,<br>i veri elementi di quest’isola guerriera—<br>li ho stanotte accalorati con coppe traboccanti,<br>e anche loro sono di guardia. Ora, fra questo gregge di<br>ubriachi<br>devo mettere il nostro [[characters/cassio\|Cassio]] in qualche azione<br>che possa offendere l’isola. |
+| *(didascalia)* | Entrano Montano, [[characters/cassio\|Cassio]], Gentiluomini, [e servi] con vino |
+| [[characters/iago\|IAGO]] | Ma eccoli che vengono.<br>Se l’esito non fa che confermare il mio sogno,<br>la mia barca veleggia libera con [[motifs/wind\|vento]] e corrente. |
+| [[characters/cassio\|CASSIO]] | Per Dio, mi hanno già fatto tracannare un brindisi. |
+| MONTANO | In buona [[concepts/faith\|fede]], uno piccolo; non più d’una pinta,<br>com’è vero che sono un soldato. |
+| [[characters/iago\|IAGO]] | Del vino, olà!<br>(Canta)<br>E lasciate che il boccale tintinni, tintinni, e lasciate che il boccale tintinni.<br>Un soldato è un uomo,<br>oh, la vita dell’uomo è solo una spanna,<br>e allora, che il soldato beva.<br>Del vino, ragazzi! |
+| [[characters/cassio\|CASSIO]] | Per Dio, un’eccellente canzone. |
+| [[characters/iago\|IAGO]] | L’ho imparata in Inghilterra, dove davvero sono potentissimi nel trincare. Il vostro danese, il vostro tedesco e il vostro olandese dal ventre pendulo—bevete, olà!—non sono nulla in confronto al vostro inglese. |
+| [[characters/cassio\|CASSIO]] | È dunque il vostro inglese così squisito nel suo bere? |
+| [[characters/iago\|IAGO]] | Ma via, vi beve con facilità il vostro danese fino a stenderlo morto ubriaco. Non suda a rovesciare il vostro alemanno. Fa vomitare il vostro olandese prima che il boccale seguente si possa riempire. |
+| [[characters/cassio\|CASSIO]] | Alla salute del nostro generale! |
+| MONTANO | Ci sto, luogotenente, e vi renderò giustizia. |
+| [[characters/iago\|IAGO]] | Oh dolce Inghilterra!<br>(Canta)<br>[[archetypes/king\|Re]] Stefano era un degno pari, le sue braghe gli costarono solo una [[motifs/crown\|corona]];<br>le stimò sei pence di troppo,<br>e per questo chiamò il sarto furfante.<br>Era un uomo di alto rinomo,<br>e tu non sei che di basso grado.<br>È l’[[concepts/pride\|orgoglio]] che manda in rovina il paese,<br>perciò tienti addosso il tuo vecchio mantello.<br>Del vino, olà! |
+| [[characters/cassio\|CASSIO]] | Per Dio, questa è una canzone più squisita dell’altra. |
+| [[characters/iago\|IAGO]] | Volete udirla di nuovo? |
+| [[characters/cassio\|CASSIO]] | No, perché ritengo indegno del suo posto chi fa tali cose. [[motifs/well\|Ebbene]], Dio è sopra tutti, e ci sono anime che devono essere salvate, e ci sono anime che non devono essere salvate. |
+| [[characters/iago\|IAGO]] | È vero, buon luogotenente. |
+| [[characters/cassio\|CASSIO]] | Per parte mia—senza offesa per il generale, né per alcun uomo di qualità—[[concepts/hope\|spero]] di essere salvato. |
+| [[characters/iago\|IAGO]] | E lo spero anch’io, luogotenente. |
+| [[characters/cassio\|CASSIO]] | Sì, ma, col vostro permesso, non prima di me. Il luogotenente dev’essere salvato prima dell’alfiere. Non parliamone più. Torniamo ai nostri affari. Dio ci perdoni i nostri peccati. Signori, badiamo alle nostre faccende. Non crediate, signori, che io sia ubriaco. Questo è il mio alfiere, questa è la mia mano destra, e questa è la sinistra. Non sono ubriaco adesso. Sto in piedi abbastanza [[motifs/well\|bene]], e parlo abbastanza [[motifs/well\|bene]]. |
+| GENTILUOMINI | Eccellentemente [[motifs/well\|bene]]. |
+| [[characters/cassio\|CASSIO]] | Ebbene, molto [[motifs/well\|bene]] allora. Non dovete dunque pensare che io sia ubriaco. |
+| *(didascalia)* | Esce |
+| MONTANO | Alla piattaforma, signori. Venite, mettiamo la guardia. |
+| *(didascalia)* | Escono i Gentiluomini |
+| [[characters/iago\|IAGO]] | Vedete quest’uomo che se n’è andato prima—<br>è un soldato degno di stare al fianco di Cesare<br>e di dare ordini; e guardate solo il suo vizio.<br>È alla sua virtù un giusto equinozio,<br>l’uno lungo quanto l’altra. È un peccato per lui.<br>[[concepts/fear\|Temo]] che la fiducia che [[characters/othello\|Otello]] ripone in lui,<br>in qualche strano [[motifs/time\|tempo]] della sua infermità,<br>scuoterà quest’isola. |
+| MONTANO | Ma è spesso così? |
+| [[characters/iago\|IAGO]] | È sempre il suo prologo al [[motifs/sleep\|sonno]].<br>Veglierà l’orologio per un [[topoi/double\|doppio]] giro<br>se il bere non gli dondola la culla. |
+| MONTANO | Sarebbe [[motifs/well\|bene]]<br>che il generale ne fosse avvertito.<br>Forse non lo vede, o la sua buona [[concepts/nature\|natura]]<br>apprezza la virtù che appare in [[characters/cassio\|Cassio]],<br>e non guarda ai suoi mali. Non è forse vero? |
+| *(didascalia)* | Entra [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | [a parte] Come va, [[characters/roderigo\|Roderigo]]!<br>Vi prego, andate dietro al luogotenente. |
+| *(didascalia)* | Esce [[characters/roderigo\|Roderigo]] |
+| MONTANO | Ed è gran peccato che il nobile Moro<br>arrischi un posto come quello del suo secondo<br>con uno di così radicata infermità.<br>Sarebbe un’azione onesta dirlo<br>al Moro. |
+| [[characters/iago\|IAGO]] | Non io, neanche per quest’isola bella!<br>[[motifs/love\|Amo]] [[characters/cassio\|Cassio]] [[motifs/well\|bene]], e farei molto<br>per guarirlo da questo male. |
+| VOCI | (da dentro) Aiuto, aiuto! |
+| [[characters/iago\|IAGO]] | Ma udite, che rumore? |
+| *(didascalia)* | Entra [[characters/cassio\|Cassio]], incalzando [[characters/roderigo\|Roderigo]] |
+| [[characters/cassio\|CASSIO]] | Corpo di Dio, furfante, canaglia! |
+| MONTANO | Che c’è, luogotenente? |
+| [[characters/cassio\|CASSIO]] | Un briccone insegnare a me il mio dovere?—Batterò quel briccone fino a farne un fiasco impagliato. |
+| [[characters/roderigo\|RODERIGO]] | Battere me? |
+| [[characters/cassio\|CASSIO]] | Ciarli ancora, furfante? |
+| MONTANO | No, buon luogotenente, vi prego, signore, fermate la mano. |
+| [[characters/cassio\|CASSIO]] | Lasciatemi andare, signore, o vi batto sulla zucca. |
+| MONTANO | Suvvia, suvvia, siete ubriaco. |
+| [[characters/cassio\|CASSIO]] | Ubriaco?<br>Si battono |
+| [[characters/iago\|IAGO]] | (a [[characters/roderigo\|Roderigo]])<br>Via, ti dico. Esci e grida all’ammutinamento. |
+| *(didascalia)* | Esce [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | No, buon luogotenente. Per la volontà di Dio, signori!<br>Aiuto, olà! Luogotenente! Signore! Montano! Signore!<br>Aiuto, padroni. Ecco davvero una bella guardia.<br>Suona una campana<br><br>Chi è che suona la campana? Diablo, olà!<br>La città insorgerà. Per la volontà di Dio, luogotenente, fermatevi.<br>Ne sarete svergognato per sempre. |
+| *(didascalia)* | Entrano [[characters/othello\|Otello]] e servitori, con armi |
+| [[characters/othello\|OTELLO]] | Che cosa succede qui? |
+| MONTANO | Corpo di Dio, sanguino ancora. Sono ferito a [[motifs/death\|morte]].<br>(Assalendo [[characters/cassio\|Cassio]]) Muore. |
+| [[characters/othello\|OTELLO]] | Fermi, per le vostre vite! |
+| [[characters/iago\|IAGO]] | Fermi, olà, luogotenente, signore, Montano, signori!<br>Avete dimenticato ogni senso del luogo e del dovere?<br>Fermi, il generale vi parla. Fermi, fermi, per vergogna. |
+| [[characters/othello\|OTELLO]] | Ebbene, che c’è, olà? Da dove nasce questo?<br>Siamo forse diventati turchi, e facciamo a noi stessi ciò<br>che il cielo ha proibito agli ottomani?<br>Per vergogna cristiana, cessate questa rissa barbara.<br>Chi si muove ancora per sfogare la propria rabbia<br>tiene a poco la sua [[motifs/soul\|anima]]. Muore al primo suo gesto.<br>[[motifs/silence\|Fate tacere]] quella campana spaventosa—strappa l’isola<br>alla sua natura. |
+| *(didascalia)* | La campana cessa |
+| [[characters/othello\|OTELLO]] | Che cosa succede, signori?<br>Onesto [[characters/iago\|Iago]], che sembri morto dal dolore,<br>parla. Chi ha cominciato? Per il tuo [[motifs/love\|amore]] te lo impongo. |
+| [[characters/iago\|IAGO]] | Non lo so. Amici tutti fino a un momento fa, proprio ora,<br>in accordo e in termini come sposa e sposo<br>che si spogliano per il letto; e poi, un attimo dopo—<br>come se qualche pianeta avesse tolto il senno agli uomini—<br>spade fuori, e a puntarsi al petto l’un l’altro<br>in sanguinosa opposizione. Non so dire<br>alcun principio di questa stizzosa contesa,<br>e vorrei aver perduto in gloriosa azione<br>quelle gambe che mi hanno portato a prendervi parte. |
+| [[characters/othello\|OTELLO]] | Come avviene, [[characters/michael\|Michael]], che vi siate così dimenticato di voi? |
+| [[characters/cassio\|CASSIO]] | Vi prego, perdonatemi. Non posso parlare. |
+| [[characters/othello\|OTELLO]] | Degno Montano, eravate solito essere civile.<br>La gravità e la compostezza della vostra giovinezza<br>il mondo le ha notate, e il vostro nome è grande<br>in bocca ai censori più saggi. Che cosa avviene,<br>che sciogliate così la vostra reputazione,<br>e spendiate la vostra ricca fama per il nome<br>di attaccabrighe di [[motifs/night\|notte]]? Datemene risposta. |
+| MONTANO | Degno [[characters/othello\|Otello]], sono ferito pericolosamente. 1<br>Il vostro ufficiale [[characters/iago\|Iago]] può informarvi,<br>mentre io risparmio le parole—che ora un poco mi<br>offendono—<br>di tutto ciò che so; né so nulla<br>di detto o fatto male da me in questa [[motifs/night\|notte]],<br>a meno che la [[concepts/charity\|carità]] verso [[concepts/self\|sé]] non sia talvolta un vizio,<br>e sia peccato difenderci<br>quando la violenza ci assale. |
+| [[characters/othello\|OTELLO]] | Ora, per il cielo,<br>il mio [[motifs/blood\|sangue]] comincia a dominare le mie guide più prudenti,<br>e la passione, avendo annerito il mio miglior giudizio,<br>tenta di aprire la via. Corpo di Dio, se mi muovo,<br>o solo alzo questo braccio, il migliore di voi<br>affonderà sotto il mio rimprovero. Fatemi sapere<br>come cominciò questa turpe rissa, chi l’accese,<br>e colui che sarà convinto di quest’offesa,<br>fosse pure nato gemello con me, d’un solo parto,<br>mi perderà. Come, in una città di guerra<br>ancora inquieta, i cuori del popolo colmi di [[concepts/fear\|paura]],<br>condurre una lite privata e domestica<br>di [[motifs/night\|notte]], e nella [[settings/court\|corte]] e nel posto di guardia della sicurezza!<br>È mostruoso. [[characters/iago\|Iago]], chi ha cominciato? |
+| MONTANO | (a [[characters/iago\|Iago]])<br>Se, legato da parzialità o da vincoli di servizio,<br>tu riferisci più o meno della [[concepts/truth\|verità]],<br>non sei un soldato. |
+| [[characters/iago\|IAGO]] | Non toccatemi così da vicino.<br>Preferirei che questa lingua mi fosse tagliata dalla bocca<br>piuttosto che facesse offesa a [[characters/michael\|Michael]] [[characters/cassio\|Cassio]].<br>Pure mi persuado che dire la [[concepts/truth\|verità]]<br>non gli farà alcun torto. Ecco com’è, generale.<br>Mentre Montano ed io stavamo parlando,<br>giunge un tale gridando aiuto,<br>e [[characters/cassio\|Cassio]] che lo inseguiva con la spada risoluta<br>per far giustizia su di lui. Signore, questo gentiluomo<br>si frappone a [[characters/cassio\|Cassio]], e lo prega di fermarsi.<br>Io stesso inseguii il tale che gridava,<br>perché col suo clamore, come poi avvenne,<br>la città non cadesse nello spavento. Egli, rapido di piede,<br>superò il mio intento, e io tornai indietro, tanto più<br>che udii il cozzare e il cadere di spade<br>e [[characters/cassio\|Cassio]] alto nelle bestemmie, cosa che fino a stanotte<br>non avrei mai potuto dire di lui. Quando tornai—<br>ché fu cosa breve—li trovai stretti insieme<br>a colpi e stoccate, proprio come di nuovo erano<br>quando voi stesso li separaste.<br>Di più su questa faccenda non posso riferire,<br>ma gli uomini sono uomini. I migliori talvolta si dimenticano.<br>Benché [[characters/cassio\|Cassio]] gli abbia fatto qualche piccolo torto,<br>come gli uomini in furia colpiscono chi più li ama,<br>pure certamente [[characters/cassio\|Cassio]], io credo, ricevette<br>da colui che fuggì qualche strana indegnità<br>che la pazienza non poté sopportare. |
+| [[characters/othello\|OTELLO]] | Lo so, [[characters/iago\|Iago]],<br>la tua onestà e il tuo [[motifs/love\|amore]] attenuano la faccenda,<br>rendendola lieve per [[characters/cassio\|Cassio]]. [[characters/cassio\|Cassio]], ti [[motifs/love\|amo]],<br>ma non sarai mai più ufficiale mio. |
+| *(didascalia)* | Entra [[characters/desdemona\|Desdemona]], con seguito |
+| [[characters/othello\|OTELLO]] | Guardate se il mio gentile [[motifs/love\|amore]] non è stato destato.<br>Farò di te un esempio. |
+| [[characters/desdemona\|DESDEMONA]] | Che cosa succede, caro? |
+| [[characters/othello\|OTELLO]] | Tutto è [[motifs/well\|bene]] ora, dolcezza.<br>Vieni via, a letto. (A Montano) Signore, per le vostre ferite<br>sarò io stesso il vostro chirurgo. (Ai servitori) Portatelo<br>via. |
+| *(didascalia)* | Escono i servitori con Montano |
+| [[characters/othello\|OTELLO]] | [[characters/iago\|Iago]], guarda con cura per la città,<br>e fa’ [[motifs/silence\|tacere]] quelli che questa vile rissa ha sconvolti.<br>Vieni, [[characters/desdemona\|Desdemona]]. È la vita del soldato<br>avere i suoi sonni balsamici svegliati dalla contesa. |
+| *(didascalia)* | Escono tutti tranne [[characters/iago\|Iago]] e [[characters/cassio\|Cassio]] |
+| [[characters/iago\|IAGO]] | Come, siete ferito, luogotenente? |
+| [[characters/cassio\|CASSIO]] | Sì, oltre ogni chirurgia. |
+| [[characters/iago\|IAGO]] | Perbacco, Dio non voglia. |
+| [[characters/cassio\|CASSIO]] | Reputazione, reputazione, reputazione—oh, ho perduto la mia reputazione, ho perduto la parte immortale di me stesso, e ciò che resta è bestiale! La mia reputazione, [[characters/iago\|Iago]], la mia reputazione. |
+| [[characters/iago\|IAGO]] | Da uomo onesto quale sono, credevo che aveste ricevuto qualche ferita corporale. C’è più senso in quella che nella reputazione. La reputazione è un’imposizione oziosa e falsissima, spesso ottenuta senza merito e perduta senza demerito. Non avete perduto reputazione alcuna, a meno che non reputiate voi stesso un tale perditore. Ma via, amico, ci sono molti modi per riconquistare il generale. Siete solo per ora respinto nel suo malumore—una punizione più di politica che di malizia, proprio come uno batterebbe il suo cane innocente per spaventare un [[motifs/lion\|leone]] imperioso. Supplicatelo di nuovo, ed è vostro. |
+| [[characters/cassio\|CASSIO]] | Preferirò supplicare di essere disprezzato piuttosto che ingannare un così buon comandante con un ufficiale così leggero, così ubriaco e così indiscreto. Ubriaco, e parlare come un pappagallo, e attaccar briga? Spavaldeggiare, bestemmiare e discorrere ampollosamente con la propria [[archetypes/shadow\|ombra]]? O tu invisibile spirito del vino, se non hai nome con cui essere conosciuto, chiamiamoti diavolo. |
+| [[characters/iago\|IAGO]] | Chi era colui che inseguivate con la vostra spada? Che cosa vi aveva fatto? |
+| [[characters/cassio\|CASSIO]] | Non lo so. |
+| [[characters/iago\|IAGO]] | È possibile? |
+| [[characters/cassio\|CASSIO]] | Ricordo una massa di cose, ma nulla distintamente; una lite, ma nulla del perché. O Dio, che gli uomini si mettano un nemico in bocca per rubarsi il cervello! Che con gioia, piacere, baldoria e applausi ci trasformiamo in bestie! |
+| [[characters/iago\|IAGO]] | Ma via, ora state abbastanza [[motifs/well\|bene]]. Come vi siete così ripreso? |
+| [[characters/cassio\|CASSIO]] | È piaciuto al diavolo dell’ubriachezza cedere il posto al diavolo dell’ira. Un’imperfezione me ne mostra un’altra, per farmi francamente disprezzare me stesso. |
+| [[characters/iago\|IAGO]] | Suvvia, siete un moralista troppo severo. Stando come stanno il [[motifs/time\|tempo]], il luogo e la condizione di questo paese, vorrei di cuore che ciò non fosse accaduto; ma poiché è come è, rimediatevi per il vostro bene. |
+| [[characters/cassio\|CASSIO]] | Gli chiederò di nuovo il mio posto. Mi dirà che sono un ubriacone. Avessi tante bocche quante l’Idra, una simile risposta le chiuderebbe tutte. Essere ora un uomo assennato, poco dopo un [[archetypes/fool\|folle]], e subito appresso una bestia! Oh, strano! Ogni coppa smodata è maledetta, e l’ingrediente è un diavolo. |
+| [[characters/iago\|IAGO]] | Suvvia, suvvia. Il buon vino è una buona creatura familiare, se è [[motifs/well\|bene]] usato. Non inveite più contro di esso. E, buon luogotenente, credo che voi crediate che io vi [[motifs/love\|ami]]. |
+| [[characters/cassio\|CASSIO]] | L’ho [[motifs/well\|bene]] sperimentato, signore—io ubriaco? |
+| [[characters/iago\|IAGO]] | Voi o qualunque uomo vivente potete essere ubriachi in un [[motifs/time\|tempo]] o nell’altro, amico. Vi dirò che cosa dovete fare. La moglie del nostro generale è ora il generale. Posso dirlo sotto questo rispetto, per il fatto che egli si è dedicato e consegnato tutto alla contemplazione, all’osservazione e all’apprezzamento delle qualità e delle grazie di lei. Confessatevi liberamente a lei. Importunatela perché vi aiuti a rimettervi al vostro posto. È di disposizione così libera, così gentile, così pronta, così benedetta, che tiene per vizio della propria bontà non fare più di quanto le sia richiesto. Pregatela di rimettere in sesto questa giuntura rotta fra voi e suo marito, e, scommetto le mie fortune contro qualunque posta degna di nome, questa incrinatura del vostro [[motifs/love\|amore]] diventerà più forte di quanto fosse prima. |
+| [[characters/cassio\|CASSIO]] | Mi consigliate [[motifs/well\|bene]]. |
+| [[characters/iago\|IAGO]] | Lo protesto, nella sincerità dell’[[motifs/love\|amore]] e dell’onesta benevolenza. |
+| [[characters/cassio\|CASSIO]] | Lo credo di buon grado, e domattina di buon’ora supplicherò la virtuosa [[characters/desdemona\|Desdemona]] di intercedere per me. Sono disperato delle mie fortune se qui mi arrestano. |
+| [[characters/iago\|IAGO]] | Avete ragione. Buona [[motifs/night\|notte]], luogotenente. Devo andare di guardia. |
+| [[characters/cassio\|CASSIO]] | Buona [[motifs/night\|notte]], onesto [[characters/iago\|Iago]]. |
+| *(didascalia)* | Esce |
+| [[characters/iago\|IAGO]] | E chi è dunque colui che dice che faccio il [[archetypes/villain\|malvagio]],<br>quando questo consiglio che do è schietto, e onesto,<br>plausibile al pensiero, e davvero la via<br>per riconquistare il Moro? Ché è facilissimo<br>piegare l’arrendevole [[characters/desdemona\|Desdemona]]<br>in qualunque onesta richiesta. È fatta di natura feconda<br>come i liberi elementi; e poi, per lei,<br>guadagnare il Moro—fosse anche a rinnegare il suo battesimo,<br>tutti i sigilli e i simboli del peccato redento—<br>la sua [[motifs/soul\|anima]] è così incatenata all’[[motifs/love\|amore]] di lei<br>ch’ella può fare, disfare, agire come le piace,<br>proprio come il suo capriccio farà da dio<br>alla debole facoltà di lui. Come sono io dunque un [[archetypes/villain\|malvagio]],<br>se consiglio a [[characters/cassio\|Cassio]] questa via parallela<br>diritta al suo bene? Divinità dell’inferno:<br>quando i diavoli vogliono far indossare i peccati più neri,<br>li suggeriscono dapprima con celesti apparenze,<br>come faccio io adesso; poiché mentre questo onesto [[archetypes/fool\|sciocco]]<br>assilla [[characters/desdemona\|Desdemona]] perché ripari la sua fortuna,<br>ed ella per lui perora forte presso il Moro,<br>io verserò questa pestilenza nell’orecchio di lui:<br>che ella lo richiama per la lussuria del suo [[concepts/body\|corpo]],<br>e quanto più ella si sforza di fargli del bene<br>tanto più disfarà il suo credito presso il Moro.<br>Così muterò la sua virtù in pece,<br>e dalla sua stessa bontà farò la rete<br>che li irretirà tutti. |
+| *(didascalia)* | Entra [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | Come va, [[characters/roderigo\|Roderigo]]? |
+| [[characters/roderigo\|RODERIGO]] | Seguo qui la caccia, non come un segugio che caccia, ma come uno che ingrossa il latrato. Il mio denaro è quasi speso, sono stato stanotte straordinariamente [[motifs/well\|bene]] bastonato, e penso che l’esito sarà che avrò tanta esperienza per le mie pene: e così, senza denaro alcuno e con un po’ più di senno, tornerò a [[settings/venice\|Venezia]]. |
+| [[characters/iago\|IAGO]] | Come son poveri quelli che non hanno pazienza!<br>Quale ferita guarì mai se non a gradi?<br>Sai che lavoriamo con l’ingegno e non con la stregoneria,<br>e l’ingegno dipende dal [[motifs/time\|tempo]] che indugia.<br>Non va forse [[motifs/well\|bene]]? [[characters/cassio\|Cassio]] ti ha battuto,<br>e tu con quella piccola ferita hai fatto cassare [[characters/cassio\|Cassio]].<br>Benché altre cose crescano belle sotto il sole,<br>pure i frutti che fioriscono per primi saranno per primi maturi.<br>Accontentati per un poco. Per la messa, è mattino.<br>Il piacere e l’azione fanno parer brevi le ore.<br>Ritirati. Va’ dove sei alloggiato.<br>Via, ti dico. Saprai di più in seguito.<br>Su, vattene. |
+| *(didascalia)* | Esce [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | Due cose sono da fare.<br>Mia moglie deve perorare per [[characters/cassio\|Cassio]] presso la sua padrona.<br>La aizzerò io.<br>E io intanto trarrò in disparte il Moro,<br>e lo condurrò giusto quando possa trovare [[characters/cassio\|Cassio]]<br>a sollecitare sua moglie. Sì, questa è la via.<br>Non guastare il piano con freddezza e indugio. |
+| *(didascalia)* | Esce |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/cassio\|Cassio]] con Musici |
+| [[characters/cassio\|CASSIO]] | Maestri, suonate qui—compenserò la vostra fatica—<br>qualcosa di breve, e augurate ‘Buon giorno, generale’. |
+| *(didascalia)* | Musica. Entra il Buffone |
+| BUFFONE | Ehi, maestri, sono stati a Napoli i vostri strumenti, che parlano così col naso? |
+| MUSICO | COME, signore, come? |
+| BUFFONE | Sono questi, di grazia, strumenti a [[motifs/wind\|fiato]]? |
+| MUSICO | Sì, per la Madonna, lo sono, signore. |
+| BUFFONE | Oh, e lì ci sta appesa una coda. |
+| MUSICO | E dove ci sta appesa una storia, signore? |
+| BUFFONE | Per la Madonna, signore, a più d’uno strumento a [[motifs/wind\|fiato]] che io conosco. Ma, maestri, ecco del denaro per voi; e al generale piace tanto la vostra musica ch’egli vi prega, per l’[[motifs/love\|amore]] del cielo, di non far più rumore con essa. |
+| MUSICO | [[motifs/well\|Bene]], signore, non ne faremo. |
+| BUFFONE | Se avete qualche musica che non si possa udire, riprendetela pure; ma, come si dice, di udir musica il generale non si cura gran che. |
+| MUSICO | Non ne abbiamo di simile, signore. |
+| BUFFONE | Allora riponete le vostre canne nel sacco, ché io me ne vado. Andate, svanite nell’aria, via. Escono i Musici |
+| [[characters/cassio\|CASSIO]] | Odi tu, mio onesto amico? |
+| BUFFONE | No, non odo il vostro onesto amico, odo voi. |
+| [[characters/cassio\|CASSIO]] | Ti prego, riponi i tuoi cavilli. Ecco per te un povero pezzo d’oro. Se la gentildonna che serve la moglie del generale è già in piedi, dille che c’è un tal [[characters/cassio\|Cassio]] che la supplica del piccolo favore d’un colloquio. Vuoi tu far questo? |
+| BUFFONE | Ella è in piedi, signore. Se vorrà muoversi fin qua, farò le viste di notificarglielo. |
+| [[characters/cassio\|CASSIO]] | Fallo, mio buon amico. Esce il Buffone |
+| *(didascalia)* | Entra [[characters/iago\|Iago]] |
+| [[characters/cassio\|CASSIO]] | In buon [[motifs/time\|tempo]], [[characters/iago\|Iago]]. |
+| [[characters/iago\|IAGO]] | Non siete stato a letto, dunque. |
+| [[characters/cassio\|CASSIO]] | Ma no. Il giorno era spuntato<br>prima che ci separassimo. Mi son preso l’ardire, [[characters/iago\|Iago]],<br>di mandare a chiamar vostra moglie. La mia richiesta a lei<br>è che mi procuri qualche accesso<br>alla virtuosa [[characters/desdemona\|Desdemona]]. |
+| [[characters/iago\|IAGO]] | Ve la manderò subito,<br>e troverò un mezzo per tirare il Moro<br>fuori di mezzo, affinché il vostro colloquio e la faccenda<br>siano più liberi. |
+| [[characters/cassio\|CASSIO]] | Umilmente ve ne ringrazio. |
+| *(didascalia)* | Esce [[characters/iago\|Iago]] |
+| [[characters/cassio\|CASSIO]] | Non conobbi mai un fiorentino più gentile e onesto. |
+| *(didascalia)* | Entra [[characters/emilia\|Emilia]] |
+| [[characters/emilia\|EMILIA]] | Buon giorno, buon luogotenente. Mi duole<br>per la vostra disgrazia, ma tutto andrà certo [[motifs/well\|bene]].<br>Il generale e sua moglie ne stanno parlando,<br>ed ella perora per voi gagliardamente. Il Moro risponde<br>che colui che feriste è di gran fama a Cipro<br>e di grandi parentele, e che per salutare saggezza<br>non poteva che rifiutarvi. Ma egli protesta che vi<br>ama,<br>e non gli occorre altro intercessore che il proprio affetto<br>per cogliere alla fronte la più sicura occasione<br>di reintegrarvi. |
+| [[characters/cassio\|CASSIO]] | Pure vi supplico,<br>se lo stimate opportuno, o se si può fare,<br>datemi il vantaggio d’un breve colloquio<br>con Desdemona sola. |
+| [[characters/emilia\|EMILIA]] | Di grazia, entrate.<br>Vi collocherò dove avrete [[motifs/time\|tempo]]<br>di dire liberamente il vostro cuore. |
+| [[characters/cassio\|CASSIO]] | Vi sono molto obbligato. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/othello\|Otello]], [[characters/iago\|Iago]] e Gentiluomini |
+| [[characters/othello\|OTELLO]] | Consegnate queste lettere, [[characters/iago\|Iago]], al pilota,<br>e per suo mezzo rendete i miei ossequi al senato.<br>Fatto ciò, sarò a passeggiare sulle fortificazioni.<br>Raggiungetemi colà. |
+| [[characters/iago\|IAGO]] | [[motifs/well\|Bene]], mio buon signore, lo farò. |
+| *(didascalia)* | Esce |
+| [[characters/othello\|OTELLO]] | Questa fortificazione, signori—andiamo a vederla?<br>UN GENTILUOMO Accompagneremo vostra signoria. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/desdemona\|Desdemona]], [[characters/cassio\|Cassio]] ed [[characters/emilia\|Emilia]] |
+| [[characters/desdemona\|DESDEMONA]] | Siine certo, buon [[characters/cassio\|Cassio]], io porrò<br>Ogni mia capacità in tuo favore. |
+| [[characters/emilia\|EMILIA]] | Fatelo, buona signora. Certo ne duole a mio marito<br>Come se la causa fosse sua. |
+| [[characters/desdemona\|DESDEMONA]] | Oh, è un uomo onesto. Non [[concepts/doubt\|dubitare]], [[characters/cassio\|Cassio]],<br>Ché farò che il mio signore e voi torniate<br>Amici come eravate. |
+| [[characters/cassio\|CASSIO]] | Generosa signora,<br>Qualunque cosa avvenga di [[characters/michael\|Michael]] [[characters/cassio\|Cassio]]<br>Egli non sarà mai altro che vostro fedele servo. |
+| [[characters/desdemona\|DESDEMONA]] | Lo so. Vi ringrazio. Voi [[motifs/love\|amate]] il mio signore.<br>Lo conoscete da tempo, e siate [[motifs/well\|ben]] certo<br>Che nel suo distacco non starà più lontano<br>Che a una distanza di prudenza. |
+| [[characters/cassio\|CASSIO]] | Sì, ma, signora,<br>Quella prudenza può durare tanto a lungo,<br>O nutrirsi di dieta così tenue e acquosa,<br>O tanto generarsi dalle circostanze,<br>Che, io essendo assente e il mio posto occupato,<br>Il mio generale scorderà il mio [[motifs/love\|amore]] e il mio servizio. |
+| [[characters/desdemona\|DESDEMONA]] | Non ne [[concepts/doubt\|dubitare]]. Qui dinanzi a [[characters/emilia\|Emilia]]<br>Ti do garanzia del tuo posto. Sii certo,<br>Se io giuro un'[[concepts/friendship\|amicizia]] la compirò<br>Fino all'ultimo articolo. Il mio signore non avrà requie.<br>Lo veglierò fino a domarlo, gli parlerò fino a togliergli la pazienza.<br>Il suo letto gli parrà una scuola, la sua mensa un confessionale.<br>Mescolerò a tutto ciò ch'egli fa<br>La supplica di [[characters/cassio\|Cassio]]. Perciò state allegro, [[characters/cassio\|Cassio]],<br>Ché la vostra avvocata morirà piuttosto<br>Che abbandonare la vostra causa. |
+| *(didascalia)* | Entrano [[characters/othello\|Otello]] e [[characters/iago\|Iago]] |
+| [[characters/emilia\|EMILIA]] | Signora, ecco che viene il mio signore. |
+| [[characters/cassio\|CASSIO]] | Signora, mi accomiaterò. |
+| [[characters/desdemona\|DESDEMONA]] | Ma no, restate, e ascoltatemi parlare. |
+| [[characters/cassio\|CASSIO]] | Signora, non ora. Sono molto a disagio,<br>Inetto ai miei propri fini. |
+| [[characters/desdemona\|DESDEMONA]] | [[motifs/well\|Bene]], fate a vostra discrezione. |
+| *(didascalia)* | Esce [[characters/cassio\|Cassio]] |
+| [[characters/iago\|IAGO]] | Ah! Questo non mi piace. |
+| [[characters/othello\|OTELLO]] | Che dici? |
+| [[characters/iago\|IAGO]] | Nulla, mio signore. O se pure, non so che. |
+| [[characters/othello\|OTELLO]] | Non era [[characters/cassio\|Cassio]] quello che si è staccato da mia moglie? |
+| [[characters/iago\|IAGO]] | [[characters/cassio\|Cassio]], mio signore? No, certo, non posso crederlo,<br>Ch'egli sgusciasse via con tale aria colpevole<br>Vedendovi venire. |
+| [[characters/othello\|OTELLO]] | Credo proprio che fosse lui. |
+| [[characters/desdemona\|DESDEMONA]] | Ebbene, mio signore?<br>Ho parlato qui con un supplicante,<br>Un uomo che languisce nel vostro disfavore. |
+| [[characters/othello\|OTELLO]] | Chi intendete? |
+| [[characters/desdemona\|DESDEMONA]] | Ma il vostro luogotenente, [[characters/cassio\|Cassio]]; mio buon signore,<br>Se ho grazia o potere alcuno di commuovervi,<br>Accogliete la sua presente [[concepts/reconciliation\|riconciliazione]];<br>Ché s'egli non è uno che vi ama davvero,<br>Che erra per ignoranza e non per astuzia,<br>Non ho giudizio alcuno di un volto onesto.<br>Vi prego, richiamatelo. |
+| [[characters/othello\|OTELLO]] | Se n'è andato di qui or ora? |
+| [[characters/desdemona\|DESDEMONA]] | Sì, in [[concepts/faith\|fede]], così umiliato<br>Che ha lasciato parte del suo dolore con me<br>Perché io soffra con lui. Buon [[motifs/love\|amore]], richiamalo. |
+| [[characters/othello\|OTELLO]] | Non ora, dolce Desdemona. Un altro [[motifs/time\|tempo]]. |
+| [[characters/desdemona\|DESDEMONA]] | Ma sarà presto? |
+| [[characters/othello\|OTELLO]] | Tanto più presto, dolce, per te. |
+| [[characters/desdemona\|DESDEMONA]] | Sarà stasera a cena? |
+| [[characters/othello\|OTELLO]] | No, non stasera. |
+| [[characters/desdemona\|DESDEMONA]] | Domani a pranzo, allora? |
+| [[characters/othello\|OTELLO]] | Non pranzerò a [[motifs/home\|casa]].<br>Incontro i capitani alla cittadella. |
+| [[characters/desdemona\|DESDEMONA]] | E allora domani [[motifs/night\|notte]], o martedì mattina,<br>Martedì a [[motifs/noon\|mezzogiorno]], o di [[motifs/night\|notte]], mercoledì mattina—<br>Vi prego, nominate il [[motifs/time\|tempo]], ma non sia<br>Oltre tre giorni. In [[concepts/faith\|fede]], egli è pentito,<br>E tuttavia la sua colpa, secondo il comune giudizio—<br>Salvo che, si dice, la guerra deve fare esempio<br>Dei suoi migliori—non è quasi una colpa<br>Da incorrere in un rimprovero privato. Quando verrà?<br>Ditemelo, [[characters/othello\|Otello]]. Mi [[concepts/wonder\|meraviglio]] nell'[[motifs/soul\|anima]]<br>Di che cosa mi chiedereste ch'io dovessi negare,<br>O su cui esitassi tanto? Come, [[characters/michael\|Michael]] [[characters/cassio\|Cassio]],<br>Che venne a corteggiare con voi, e tante [[motifs/time\|volte]]<br>Quando io parlavo di voi con biasimo<br>Ha preso le vostre parti—e ci vuole tanto affanno<br>Per farlo rientrare? Per la Madonna, io potrei far molto. |
+| [[characters/othello\|OTELLO]] | Ti prego, basta. Venga quando vuole.<br>Non ti negherò nulla. |
+| [[characters/desdemona\|DESDEMONA]] | Ma questo non è un favore.<br>È come se vi pregassi di portare i guanti,<br>O di cibarvi di piatti nutrienti, o di tenervi al caldo,<br>O vi supplicassi di fare un particolare bene<br>Alla vostra stessa persona. No, quando avrò una supplica<br>Con cui intenda toccare davvero il vostro [[motifs/love\|amore]],<br>Sarà piena di gravità e di peso difficile,<br>E temibile a concedersi. |
+| [[characters/othello\|OTELLO]] | Non ti negherò nulla,<br>Per cui ti supplico di concedermi questo:<br>Di lasciarmi un poco a me stesso. |
+| [[characters/desdemona\|DESDEMONA]] | Dovrei negarvi? No. Addio, mio signore. |
+| [[characters/othello\|OTELLO]] | Addio, mia [[characters/desdemona\|Desdemona]]. Verrò da te subito. |
+| [[characters/desdemona\|DESDEMONA]] | [[characters/emilia\|Emilia]], vieni. (A [[characters/othello\|Otello]]) Siate come i vostri capricci v'insegnano.<br>Qualunque cosa siate, io sono obbediente. |
+| *(didascalia)* | Escono [[characters/desdemona\|Desdemona]] ed [[characters/emilia\|Emilia]] |
+| [[characters/othello\|OTELLO]] | Eccellente creatura! Che la perdizione afferri la mia [[motifs/soul\|anima]]<br>Se non ti [[motifs/love\|amo]], e quando non ti [[motifs/love\|amerò]] più,<br>Il caos sarà tornato. |
+| [[characters/iago\|IAGO]] | Mio nobile signore. |
+| [[characters/othello\|OTELLO]] | Che dici, [[characters/iago\|Iago]]? |
+| [[characters/iago\|IAGO]] | [[characters/michael\|Michael]] [[characters/cassio\|Cassio]], quando corteggiavate la mia signora,<br>Sapeva del vostro [[motifs/love\|amore]]? |
+| [[characters/othello\|OTELLO]] | Sì, dal principio alla fine. Perché lo chiedi? |
+| [[characters/iago\|IAGO]] | Solo per soddisfazione del mio pensiero,<br>Nessun altro male. |
+| [[characters/othello\|OTELLO]] | Perché del tuo pensiero, [[characters/iago\|Iago]]? |
+| [[characters/iago\|IAGO]] | Non credevo che la conoscesse. |
+| [[characters/othello\|OTELLO]] | Oh sì, e fece spesso da tramite fra noi. |
+| [[characters/iago\|IAGO]] | Davvero? |
+| [[characters/othello\|OTELLO]] | Davvero? Sì, davvero. Scorgi qualcosa in ciò?<br>Non è onesto? |
+| [[characters/iago\|IAGO]] | Onesto, mio signore? |
+| [[characters/othello\|OTELLO]] | Onesto? Sì, onesto. |
+| [[characters/iago\|IAGO]] | Mio signore, per quanto ne so. |
+| [[characters/othello\|OTELLO]] | Che ne pensi? |
+| [[characters/iago\|IAGO]] | Pensare, mio signore? |
+| [[characters/othello\|OTELLO]] | ‘Pensare, mio signore?’ Per il cielo, tu mi fai eco<br>Come se vi fosse qualche [[archetypes/monster\|mostro]] nel tuo pensiero<br>Troppo orrendo per mostrarsi! Tu intendi qualcosa.<br>Ti ho udito dire poc'anzi che quello non ti piaceva,<br>Quando [[characters/cassio\|Cassio]] lasciò mia moglie. Che cosa non ti piaceva?<br>E quando ti dissi ch'egli era nel mio consiglio<br>Per tutto il corso del corteggiamento, tu gridasti ‘Davvero?’<br>E contraesti e aggrottasti la fronte<br>Come se allora avessi rinchiuso nel cervello<br>Qualche orribile concetto. Se tu mi [[motifs/love\|ami]],<br>Mostrami il tuo pensiero. |
+| [[characters/iago\|IAGO]] | Mio signore, sapete che vi [[motifs/love\|amo]]. |
+| [[characters/othello\|OTELLO]] | Credo che tu lo faccia,<br>E poiché so che sei pieno d'[[motifs/love\|amore]] e d'onestà,<br>E pesi le tue parole prima di dar loro<br>fiato,<br>Perciò queste tue esitazioni mi spaventano di più;<br>Ché tali cose in un falso e sleale furfante<br>Sono trucchi d'abitudine, ma in un uomo giusto<br>Sono celate rivelazioni, che muovono dal cuore<br>Che la passione non può governare. |
+| [[characters/iago\|IAGO]] | Quanto a [[characters/michael\|Michael]] [[characters/cassio\|Cassio]],<br>Oso giurare ch'io lo credo onesto. |
+| [[characters/othello\|OTELLO]] | Anch'io lo credo. |
+| [[characters/iago\|IAGO]] | Gli uomini dovrebbero essere ciò che sembrano,<br>O quelli che non lo sono, potessero non sembrare tali. |
+| [[characters/othello\|OTELLO]] | Certo, gli uomini dovrebbero essere ciò che sembrano. |
+| [[characters/iago\|IAGO]] | E allora, io credo che [[characters/cassio\|Cassio]] sia un uomo onesto. |
+| [[characters/othello\|OTELLO]] | No, c'è dell'altro in questo.<br>Ti prego, parlami secondo i tuoi pensieri,<br>Come tu rumini, e da' al peggiore dei tuoi pensieri<br>La peggiore delle parole. |
+| [[characters/iago\|IAGO]] | Mio buon signore, perdonatemi.<br>Benché io sia tenuto a ogni atto di dovere,<br>Non sono tenuto a ciò a cui ogni schiavo è libero.<br>Dire i miei pensieri? Ebbene, poniamo che siano vili e falsi,<br>Ché dov'è quel palazzo in cui cose immonde<br>Talvolta non s'intrudano? Chi ha il petto così puro<br>Che qualche impura apprensione<br>Non vi tenga assise e giorni di giudizio, e non sieda in sessione<br>Con meditazioni legittime? |
+| [[characters/othello\|OTELLO]] | Tu cospiri contro il tuo amico, [[characters/iago\|Iago]],<br>Se solo lo credi offeso e rendi il suo orecchio<br>Straniero ai tuoi pensieri. |
+| [[characters/iago\|IAGO]] | Vi supplico,<br>Benché io forse sia vizioso nel congetturare—<br>Ché confesso essere la piaga della mia [[concepts/nature\|natura]]<br>Spiare gli abusi, e spesso la mia [[concepts/jealousy\|gelosia]]<br>Foggia colpe che non sono—che la vostra saggezza allora,<br>Da uno che così imperfettamente concepisce,<br>Non prendesse nota, né si costruisse un travaglio<br>Dalla sua sparsa e malsicura osservazione.<br>Non sarebbe per la vostra quiete né per il vostro bene,<br>Né per la mia virilità, onestà e saggezza,<br>Farvi conoscere i miei pensieri. |
+| [[characters/othello\|OTELLO]] | Che intendi? |
+| [[characters/iago\|IAGO]] | Il buon nome nell'uomo e nella donna, mio caro signore,<br>È il [[motifs/jewel\|gioiello]] più immediato delle loro anime.<br>Chi mi ruba la borsa ruba spazzatura; è qualcosa,<br>nulla;<br>Era mia, è sua, ed è stata schiava di migliaia.<br>Ma chi mi sottrae il mio buon nome<br>Mi deruba di ciò che non arricchisce lui<br>E fa me davvero povero. |
+| [[characters/othello\|OTELLO]] | Per il cielo, conoscerò i tuoi pensieri. |
+| [[characters/iago\|IAGO]] | Non potete, foss'anche il mio cuore nella vostra mano;<br>Né potrete finché è in mia custodia. |
+| [[characters/othello\|OTELLO]] | Ah! |
+| [[characters/iago\|IAGO]] | Oh, guardatevi, mio signore, dalla [[concepts/jealousy\|gelosia]].<br>È il [[archetypes/monster\|mostro]] dagli occhi verdi che schernisce<br>La carne di cui si nutre. Vive beato quel becco<br>Che, certo della sua sorte, non ama chi lo offende.<br>Ma oh, quali dannati minuti conta<br>Chi adora eppure dubita, sospetta eppure teneramente ama! |
+| [[characters/othello\|OTELLO]] | Oh, miseria! |
+| [[characters/iago\|IAGO]] | Povero e contento è ricco, e ricco abbastanza,<br>Ma ricchezza senza fine è povera come l'[[motifs/winter\|inverno]]<br>Per chi sempre teme di dover essere povero.<br>Buon Dio, difendi le anime di tutta la mia stirpe<br>Dalla [[concepts/jealousy\|gelosia]]! |
+| [[characters/othello\|OTELLO]] | Ma perché, perché questo?<br>Credi tu ch'io farei una vita di [[concepts/jealousy\|gelosia]],<br>Per seguire sempre le mutazioni della [[motifs/moon\|luna]]<br>Con nuovi sospetti? No, essere una volta nel [[concepts/doubt\|dubbio]]<br>È essere una volta risoluto. Barattami con un capro<br>Quando volgerò l'affare della mia [[motifs/soul\|anima]]<br>A tali gonfie e vane congetture<br>Pari alla tua illazione. Non mi fa geloso<br>Dire che mia moglie è bella, mangia [[motifs/well\|bene]], ama la compagnia,<br>È libera nel parlare, canta, suona e danza [[motifs/well\|bene]].<br>Dov'è virtù, queste cose sono più virtuose,<br>Né dai miei deboli meriti trarrò<br>Il minimo [[concepts/fear\|timore]] o [[concepts/doubt\|dubbio]] della sua rivolta,<br>Ché aveva occhi e scelse me. No, [[characters/iago\|Iago]],<br>Vedrò prima di [[concepts/doubt\|dubitare]]; quando [[concepts/doubt\|dubiterò]], proverò;<br>E sulla prova, non c'è altro che questo:<br>Via d'un colpo [[motifs/love\|amore]] o [[concepts/jealousy\|gelosia]]. |
+| [[characters/iago\|IAGO]] | Di ciò mi rallegro, ché ora avrò ragione<br>Di mostrare l'[[motifs/love\|amore]] e il dovere che vi porto<br>Con più franco animo. Perciò, come sono tenuto,<br>Ricevetelo da me. Non parlo ancora di prove.<br>Badate a vostra moglie. Osservatela [[motifs/well\|bene]] con [[characters/cassio\|Cassio]].<br>Portate gli occhi così: né gelosi, né sicuri.<br>Non vorrei che la vostra libera e nobile [[concepts/nature\|natura]]<br>Per [[concepts/self\|propria]] generosità fosse abusata. Badateci.<br>Conosco [[motifs/well\|bene]] l'indole del nostro paese.<br>A [[settings/venice\|Venezia]] lasciano che Dio veda i giochi<br>Che non osano mostrare ai mariti; la loro migliore<br>[[concepts/conscience\|coscienza]]<br>Non è di lasciarlo non fatto, ma di tenerlo ignoto. |
+| [[characters/othello\|OTELLO]] | Dici così? |
+| [[characters/iago\|IAGO]] | Ella ingannò suo padre, sposando voi,<br>E quando pareva tremare e [[concepts/fear\|temere]] i vostri sguardi<br>Li amava di più. |
+| [[characters/othello\|OTELLO]] | E così fece. |
+| [[characters/iago\|IAGO]] | Ebbene, andiamo, dunque.<br>Colei che così giovane seppe dare tale apparenza,<br>Da cucire gli occhi del padre stretti come quercia,<br>Ch'egli credette fosse stregoneria! Ma io ho gran colpa.<br>Umilmente vi supplico del vostro perdono<br>Per amarvi troppo. |
+| [[characters/othello\|OTELLO]] | Ti sono obbligato per sempre. |
+| [[characters/iago\|IAGO]] | Vedo che ciò vi ha un poco abbattuto lo spirito. |
+| [[characters/othello\|OTELLO]] | Neppure un briciolo, neppure un briciolo. |
+| [[characters/iago\|IAGO]] | In [[concepts/faith\|fede]], [[concepts/fear\|temo]] di sì.<br>[[concepts/hope\|Spero]] che considererete che ciò ch'è detto<br>Viene dal mio [[motifs/love\|amore]]. Ma vedo bene che siete turbato.<br>Devo pregarvi di non forzare il mio discorso<br>A più grossolane conseguenze, né a portata più larga<br>Che al sospetto. |
+| [[characters/othello\|OTELLO]] | Non lo farò. |
+| [[characters/iago\|IAGO]] | Se lo faceste, mio signore,<br>Il mio discorso cadrebbe in tanto vile esito<br>Cui i miei pensieri non miravano. [[characters/cassio\|Cassio]] è mio degno<br>amico.<br>Mio signore, vedo che siete turbato. |
+| [[characters/othello\|OTELLO]] | No, non molto turbato.<br>Non posso non credere che [[characters/desdemona\|Desdemona]] sia onesta. |
+| [[characters/iago\|IAGO]] | Lungamente viva ella così, e lungamente viviate voi per crederlo! |
+| [[characters/othello\|OTELLO]] | E tuttavia come la [[concepts/nature\|natura]], errando da se stessa— |
+| [[characters/iago\|IAGO]] | Sì, questo è il punto; poiché, per esser ardito con voi,<br>Non gradire tanti partiti proposti<br>Del suo stesso clima, colore e grado,<br>Verso cui vediamo in ogni cosa tendere la [[concepts/nature\|natura]].<br>Puah, si può fiutare in tal volere qualcosa di rancido,<br>Turpi sproporzioni, pensieri contro natura!<br>Ma perdonatemi. Non intendo in tesi<br>Parlare distintamente di lei, benché io possa [[concepts/fear\|temere]]<br>Che il suo volere, rinculando al miglior giudizio,<br>Possa venire a paragonarvi con le forme del suo paese<br>E per avventura pentirsi. |
+| [[characters/othello\|OTELLO]] | Addio, addio.<br>Se altro percepisci, fammi sapere di più.<br>Metti tua moglie a osservare. Lasciami, [[characters/iago\|Iago]]. |
+| [[characters/iago\|IAGO]] | (uscendo) Mio signore, mi accomiato. |
+| [[characters/othello\|OTELLO]] | Perché mi sposai? Questa onesta creatura senza dubbio<br>Vede e sa di più, molto di più, di quanto svela. |
+| [[characters/iago\|IAGO]] | (tornando)<br>Mio signore, vorrei poter supplicare il vostro [[concepts/honour\|onore]]<br>Di non scrutare oltre questa cosa. Lasciatela al [[motifs/time\|tempo]].<br>Benché sia giusto che [[characters/cassio\|Cassio]] abbia il suo posto—<br>Ché certo lo riempie con grande abilità—<br>Pure, se vi piace tenerlo discosto un poco,<br>Da ciò potrete scorgere lui e i suoi mezzi.<br>Notate se la vostra signora insista per il suo reintegro<br>Con qualche forte o veemente importunità.<br>Molto si vedrà in questo. Nel [[motifs/time\|tempo]] di mezzo,<br>Sia pure io creduto troppo affaccendato nei miei timori—<br>Come ho degna ragione di [[concepts/fear\|temere]] di essere—<br>E tenetela innocente, ve ne supplico, vostro [[concepts/honour\|onore]]. |
+| [[characters/othello\|OTELLO]] | Non [[concepts/fear\|temere]] del mio dominio di me. |
+| [[characters/iago\|IAGO]] | Ancora una volta mi accomiato. |
+| *(didascalia)* | Esce |
+| [[characters/othello\|OTELLO]] | Costui è d'onestà eccellente,<br>E conosce tutte le qualità con dotto spirito<br>Delle umane relazioni. Se la provo falca selvatica,<br>Fossero pure i suoi geti le corde care del mio cuore<br>La fischierei via e la lascerei andare col [[motifs/wind\|vento]]<br>A predare a caso. Forse perché sono nero,<br>E non ho quelle morbide arti di conversazione<br>Che hanno i damerini; o perché sono declinato<br>Nella valle degli anni—pur non è molto—<br>Ella è perduta. Sono ingannato, e il mio sollievo<br>Dev'essere odiarla. Oh maledizione del [[motifs/marriage\|matrimonio]],<br>Che possiamo dire nostre queste delicate creature<br>E non i loro appetiti! Preferirei essere un rospo<br>E vivere del vapore d'una segreta<br>Che serbare un cantuccio nella cosa che [[motifs/love\|amo]]<br>Per l'uso altrui. Pure è la piaga dei grandi;<br>Meno privilegiati sono essi dei vili.<br>È destino inevitabile, come la [[motifs/death\|morte]].<br>Fin d'allora questa piaga forcuta ci è fatale<br>Quando prendiamo vita. |
+| *(didascalia)* | Entrano [[characters/desdemona\|Desdemona]] ed [[characters/emilia\|Emilia]] |
+| [[characters/othello\|OTELLO]] | Ecco che viene.<br>S'ella è falsa, oh, allora il cielo schernisce se stesso!<br>Non lo crederò. |
+| [[characters/desdemona\|DESDEMONA]] | Ebbene, mio caro [[characters/othello\|Otello]]?<br>Il vostro pranzo, e i generosi isolani<br>Da voi invitati, attendono la vostra presenza. |
+| [[characters/othello\|OTELLO]] | Ho colpa. |
+| [[characters/desdemona\|DESDEMONA]] | Perché parlate così fiocamente? Non state [[motifs/well\|bene]]? |
+| [[characters/othello\|OTELLO]] | Ho un [[motifs/pain\|dolore]] qui sulla fronte. |
+| [[characters/desdemona\|DESDEMONA]] | In [[concepts/faith\|fede]], è per le veglie. Passerà.<br>Lasciate solo ch'io lo fasci stretto, entro un'ora<br>Sarà [[motifs/well\|bene]]. |
+| [[characters/othello\|OTELLO]] | Il vostro fazzoletto è troppo piccolo.<br>Allontana da sé il fazzoletto. Cade.<br>Lascialo stare. Venite, entrerò con voi. |
+| [[characters/desdemona\|DESDEMONA]] | Mi dispiace molto che non stiate [[motifs/well\|bene]]. |
+| *(didascalia)* | Escono [[characters/othello\|Otello]] e [[characters/desdemona\|Desdemona]] |
+| [[characters/emilia\|EMILIA]] | (raccogliendo il fazzoletto)<br>Sono lieta d'aver trovato questo fazzoletto.<br>Fu il primo ricordo che ebbe dal Moro.<br>Il mio bizzarro marito cento volte<br>Mi ha pregata di rubarlo, ma ella tanto ama il pegno—<br>Ché egli le fece giurare di serbarlo sempre—<br>Che se lo tiene sempre addosso<br>Per baciarlo e parlargli. Ne farò copiare il ricamo,<br>E lo darò a [[characters/iago\|Iago]]. Che cosa ne farà,<br>Il cielo lo sa, non io.<br>Io nulla, se non compiacere il suo capriccio. |
+| *(didascalia)* | Entra [[characters/iago\|Iago]] |
+| [[characters/iago\|IAGO]] | Ebbene, che fai qui sola? |
+| [[characters/emilia\|EMILIA]] | Non sgridarmi. Ho una cosa per te. |
+| [[characters/iago\|IAGO]] | Hai una cosa per me? È una cosa comune. |
+| [[characters/emilia\|EMILIA]] | Eh? |
+| [[characters/iago\|IAGO]] | Avere una moglie sciocca. |
+| [[characters/emilia\|EMILIA]] | Oh, è tutto qui? Che mi darai ora<br>Per quel certo fazzoletto? |
+| [[characters/iago\|IAGO]] | Quale fazzoletto? |
+| [[characters/emilia\|EMILIA]] | Quale fazzoletto?<br>Ma quello che il Moro diede per primo a [[characters/desdemona\|Desdemona]],<br>Quello che tante volte mi ordinasti di rubare. |
+| [[characters/iago\|IAGO]] | Gliel'hai rubato? |
+| [[characters/emilia\|EMILIA]] | No, in [[concepts/faith\|fede]], l'ha lasciato cadere per negligenza,<br>E cogliendo l'occasione io, essendo qui, l'ho raccolto.<br>Guarda, eccolo. |
+| [[characters/iago\|IAGO]] | Brava ragazza! Dammelo. |
+| [[characters/emilia\|EMILIA]] | Che ne farai, tu che sei stato tanto insistente<br>Perché io lo sgraffignassi? |
+| [[characters/iago\|IAGO]] | Ma che t'importa?<br>Le toglie il fazzoletto |
+| [[characters/emilia\|EMILIA]] | Se non è per qualche scopo d'importanza,<br>Rendimelo. Povera signora, impazzirà<br>Quando le mancherà. |
+| [[characters/iago\|IAGO]] | Non darlo a vedere. Me ne servo. Va', lasciami. |
+| *(didascalia)* | Esce [[characters/emilia\|Emilia]] |
+| [[characters/iago\|IAGO]] | Perderò questo fazzoletto nell'alloggio di [[characters/cassio\|Cassio]],<br>E lascerò che lo trovi. Inezie leggere come l'aria<br>Sono per il geloso conferme forti<br>Come prove della sacra scrittura. Questo può fare qualcosa.<br>Il Moro già muta col mio [[motifs/poison\|veleno]].<br>I concetti pericolosi sono per natura veleni,<br>Che sul principio a stento si trovano sgraditi,<br>Ma, con un poco d'azione sul [[motifs/blood\|sangue]],<br>Bruciano come le miniere di zolfo. |
+| *(didascalia)* | Entra [[characters/othello\|Otello]] |
+| [[characters/iago\|IAGO]] | L'avevo detto.<br>Ecco che viene. Né papavero né mandragora<br>Né tutti i sonniferi sciroppi del mondo<br>Ti daranno mai per medicina quel dolce [[motifs/sleep\|sonno]]<br>Che possedevi ieri. |
+| [[characters/othello\|OTELLO]] | Ah, ah, falsa con me? |
+| [[characters/iago\|IAGO]] | Ebbene, come, generale? Basta con questo. |
+| [[characters/othello\|OTELLO]] | Via, vattene. Mi hai messo alla tortura.<br>Giuro che è meglio essere molto ingannati<br>Che saperne appena un poco. |
+| [[characters/iago\|IAGO]] | Ebbene, mio signore? |
+| [[characters/othello\|OTELLO]] | Che sentore avevo io delle sue ore rubate di lussuria?<br>Non lo vidi, non lo pensai; non mi fece male.<br>Dormii [[motifs/well\|bene]] la [[motifs/night\|notte]] seguente, mangiai [[motifs/well\|bene]], ero libero e<br>allegro.<br>Non trovai i baci di [[characters/cassio\|Cassio]] sulle sue labbra.<br>Chi è derubato, non sentendo il bisogno di ciò che gli è tolto,<br>Non lo sappia e non è derubato affatto. |
+| [[characters/iago\|IAGO]] | Mi duole udire questo. |
+| [[characters/othello\|OTELLO]] | Sarei stato felice se tutto il campo,<br>Guastatori e ogni altro, avesse gustato il suo dolce [[concepts/body\|corpo]],<br>Purché io nulla avessi saputo. Oh, ora per sempre<br>Addio mente tranquilla, addio contentezza,<br>Addio schiere piumate e grandi guerre<br>Che fanno virtù l'[[concepts/ambition\|ambizione]]! Oh, addio,<br>Addio destriero nitrente e squillante tromba,<br>Il tamburo che desta lo spirito, il piffero che trafigge l'orecchio,<br>Il regale stendardo, e ogni pregio,<br>[[concepts/pride\|Orgoglio]], pompa e apparato della gloriosa guerra!<br>E oh, voi macchine mortali le cui rozze gole<br>Contraffanno i tremendi clamori dell'immortale Giove,<br>Addio! Il mestiere di [[characters/othello\|Otello]] è finito. |
+| [[characters/iago\|IAGO]] | È possibile, mio signore? |
+| *(didascalia)* | [[characters/othello\|OTELLO]] afferrando [[characters/iago\|Iago]] alla gola |
+| [[characters/iago\|IAGO]] | [[archetypes/villain\|Scellerato]], bada di provare che il mio [[motifs/love\|amore]] è una sgualdrina.<br>Siine certo. Dammi la prova oculare,<br>O, per il valore della mia eterna [[motifs/soul\|anima]],<br>Meglio sarebbe stato per te nascere cane<br>Che rispondere alla mia ira destata. |
+| [[characters/iago\|IAGO]] | Si è giunti a questo? |
+| [[characters/othello\|OTELLO]] | Fammelo vedere, o almeno provalo così<br>Che la prova non porti cardine né anello<br>Cui appendere un [[concepts/doubt\|dubbio]], o guai alla tua vita. |
+| [[characters/iago\|IAGO]] | Mio nobile signore. |
+| [[characters/othello\|OTELLO]] | Se tu la calunni e mi torturi,<br>Non pregare mai più; abbandona ogni rimorso,<br>Sul capo dell'orrore accumula orrori,<br>Compi atti da far piangere il cielo, stupita tutta la terra,<br>Ché nulla puoi aggiungere alla dannazione<br>Di maggiore di quello. |
+| [[characters/iago\|IAGO]] | Oh grazia, oh cielo perdonami!<br>Siete un uomo? Avete [[motifs/soul\|anima]] o senno?<br>Dio v'accompagni, prendetevi il mio ufficio. Oh misero [[archetypes/fool\|folle]],<br>Che ami far della tua onestà un vizio!<br>Oh mondo mostruoso, prendi nota, prendi nota, oh mondo,<br>Essere schietti e onesti non è sicuro!<br>Vi ringrazio di questo guadagno, e d'ora innanzi<br>Non [[motifs/love\|amerò]] amico alcuno, poiché l'[[motifs/love\|amore]] genera tale offesa. |
+| [[characters/othello\|OTELLO]] | No, resta. Tu dovresti essere onesto. |
+| [[characters/iago\|IAGO]] | Dovrei essere saggio, ché l'onestà è una [[archetypes/fool\|sciocca]],<br>E perde ciò per cui si adopera. |
+| [[characters/othello\|OTELLO]] | Per il mondo,<br>Credo mia moglie onesta, e credo che non lo sia.<br>Credo che tu sia giusto, e credo che non lo sia.<br>Voglio qualche prova. Il mio nome, che era fresco<br>Come il volto di Diana, è ora imbrattato e nero<br>Come il mio stesso viso. Se ci sono corde, o coltelli,<br>[[motifs/poison\|Veleno]], o [[motifs/fire\|fuoco]], o correnti che soffocano,<br>Non lo sopporterò. Fossi soddisfatto! |
+| [[characters/iago\|IAGO]] | Vedo, signore, che siete divorato dalla passione.<br>Mi pento d'avervelo detto.<br>Vorreste essere soddisfatto? |
+| [[characters/othello\|OTELLO]] | Vorrei? No, e lo sarò. |
+| [[characters/iago\|IAGO]] | E potete. Ma come, come soddisfatto, mio signore?<br>Vorreste voi, spettatore, star lì a bocca aperta,<br>Vederla montata? |
+| [[characters/othello\|OTELLO]] | [[motifs/death\|Morte]] e dannazione! Oh! |
+| [[characters/iago\|IAGO]] | Sarebbe tediosa difficoltà, credo,<br>Portarli a quella vista. Siano dannati allora<br>Se mai occhi mortali li vedono su un guanciale<br>Che non sia il loro! Che dunque, come dunque?<br>Che dirò? Dov'è la soddisfazione?<br>È impossibile che vediate questo,<br>Fossero pure focosi come capri, caldi come scimmie,<br>Salaci come lupe in [[concepts/pride\|foia]], e stolti tanto grossolani<br>Quanto l'ignoranza ubriaca. Eppure io dico,<br>Se imputazione, e forti circostanze<br>Che conducono dritto alla porta della [[concepts/truth\|verità]],<br>Vi daranno soddisfazione, potreste averla. |
+| [[characters/othello\|OTELLO]] | Dammi una ragione viva ch'ella è sleale. |
+| [[characters/iago\|IAGO]] | Non mi piace l'ufficio,<br>Ma poiché sono entrato tanto avanti in questa causa,<br>Spintovi da sciocca onestà e da [[motifs/love\|amore]],<br>Proseguirò. Di recente dormii con [[characters/cassio\|Cassio]],<br>E, essendo tormentato da un dente furioso,<br>Non potevo [[motifs/sleep\|dormire]]. Vi è una specie d'uomini<br>Così sciolti d'[[motifs/soul\|anima]] che nel sonno<br>Mormorano i loro affari. Uno di questi è [[characters/cassio\|Cassio]].<br>Nel [[motifs/sleep\|sonno]] l'udii dire: ‘Dolce [[characters/desdemona\|Desdemona]],<br>Siamo cauti, nascondiamo i nostri amori’,<br>E poi, signore, mi stringeva e torceva la mano,<br>Gridava ‘Oh, dolce creatura!’, poi mi baciava forte,<br>Come se strappasse i baci per le radici,<br>Che crescevano sulle mie labbra, posava la gamba sulla mia coscia,<br>E sospirava, e baciava, e poi gridava ‘Sorte maledetta,<br>Che ti diede al Moro!’ |
+| [[characters/othello\|OTELLO]] | Oh, mostruoso, mostruoso! |
+| [[characters/iago\|IAGO]] | No, questo era solo il suo sogno. |
+| [[characters/othello\|OTELLO]] | Ma questo denotava un fatto già compiuto. |
+| [[characters/iago\|IAGO]] | È un [[concepts/doubt\|sospetto]] acuto, benché sia solo un sogno,<br>E questo può aiutare a infittire altre prove<br>Che dimostrano debolmente. |
+| [[characters/othello\|OTELLO]] | La farò a pezzi. |
+| [[characters/iago\|IAGO]] | No, siate ancora saggio; ancora non vediamo nulla di compiuto.<br>Ella può essere ancora onesta. Ditemi solo questo:<br>Non avete talvolta veduto un fazzoletto<br>Screziato di fragole nella mano di vostra moglie? |
+| [[characters/othello\|OTELLO]] | Gliene diedi uno simile. Fu il mio primo dono. |
+| [[characters/iago\|IAGO]] | Questo non lo so, ma con un tal fazzoletto—<br>Sono certo che era di vostra moglie—oggi<br>Ho visto [[characters/cassio\|Cassio]] asciugarsi la barba. |
+| [[characters/othello\|OTELLO]] | Se è quello— |
+| [[characters/iago\|IAGO]] | Se è quello, o un altro che fosse suo,<br>Parla contro di lei con le altre prove. |
+| [[characters/othello\|OTELLO]] | Oh, avesse quello schiavo quarantamila vite!<br>Una è troppo povera, troppo debole per la mia [[concepts/revenge\|vendetta]].<br>Ora vedo ch'è vero. Guarda qui, [[characters/iago\|Iago]].<br>Tutto il mio folle [[motifs/love\|amore]] così soffio al cielo—è andato.<br>Sorgi, nera vendetta, dal cavo inferno.<br>Cedi, oh [[motifs/love\|amore]], la tua [[motifs/crown\|corona]] e il trono nel cuore<br>All'odio tirannico! Gonfiati, petto, del tuo carico,<br>Ché è di lingue d'aspide. |
+| [[characters/iago\|IAGO]] | Pure, acquietatevi. |
+| [[characters/othello\|OTELLO]] | Oh, [[motifs/blood\|sangue]], [[motifs/blood\|sangue]], [[motifs/blood\|sangue]]! |
+| [[characters/iago\|IAGO]] | Pazienza, vi dico. La vostra mente può mutare. |
+| [[characters/othello\|OTELLO]] | Mai, [[characters/iago\|Iago]]. Come il Mar Pontico,<br>La cui gelida corrente e corso irresistibile<br>Non conosce mai riflusso che ritorni, ma tiene diritto<br>Verso la Propontide e l'Ellesponto,<br>Così i miei sanguinosi pensieri con violento passo<br>Non guarderanno mai indietro, mai rifluiranno a umile [[motifs/love\|amore]],<br>Finché una capace e vasta [[concepts/revenge\|vendetta]]<br>Non li [[motifs/swallow\|inghiotta]]. |
+| *(didascalia)* | S'inginocchia |
+| [[characters/othello\|OTELLO]] | Ora, per quel marmoreo cielo,<br>Nella dovuta reverenza d'un sacro voto<br>Qui impegno le mie parole. |
+| [[characters/iago\|IAGO]] | Non alzatevi ancora.<br>[[characters/iago\|Iago]] s'inginocchia<br>Siate testimoni voi luci sempre ardenti lassù,<br>Voi elementi che ci cingete d'ogni parte,<br>Testimoniate che qui [[characters/iago\|Iago]] consegna<br>L'esecuzione del suo ingegno, delle mani, del cuore<br>Al servizio dell'offeso [[characters/othello\|Otello]]. Ch'egli comandi,<br>E obbedire sarà in me pietà,<br>Qualunque sanguinosa impresa. |
+| *(didascalia)* | Si alzano |
+| [[characters/othello\|OTELLO]] | Saluto il tuo [[motifs/love\|amore]],<br>Non con vani ringraziamenti, ma con generosa accettazione,<br>E all'istante ti metterò alla prova. |
+| *(didascalia)* | Entro questi tre giorni ch'io ti oda dire |
+| [[characters/othello\|OTELLO]] | Che [[characters/cassio\|Cassio]] non è più vivo. |
+| [[characters/iago\|IAGO]] | Il mio amico è morto.<br>È fatto a vostra richiesta; ma lasciate ch'ella viva. |
+| [[characters/othello\|OTELLO]] | Sia dannata, sfacciata baldracca! Oh, sia dannata, sia dannata!<br>Vieni, appartati con me. Mi ritirerò<br>Per procurarmi qualche rapido mezzo di [[motifs/death\|morte]]<br>Per il bel diavolo. Ora sei tu il mio luogotenente. |
+| [[characters/iago\|IAGO]] | Sono vostro per sempre. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/desdemona\|Desdemona]], [[characters/emilia\|Emilia]] e il Buffone |
+| [[characters/desdemona\|DESDEMONA]] | Sai tu, messere, dove giace il luogotenente [[characters/cassio\|Cassio]]? |
+| BUFFONE | Non oso dire che giaccia in nessun luogo. |
+| [[characters/desdemona\|DESDEMONA]] | E perché, brav'uomo? |
+| BUFFONE | È un soldato, e ch'io dica che un soldato mente, è cosa da pugnalate. |
+| [[characters/desdemona\|DESDEMONA]] | Andiamo. Dove alloggia? |
+| BUFFONE | Dirvi dov'egli alloggia sarebbe dirvi dove io mento. |
+| [[characters/desdemona\|DESDEMONA]] | Si può cavare qualcosa da tutto questo? |
+| BUFFONE | Non so dove alloggi, e ch'io inventi un alloggio e dica che giace qui, o che giace là, sarebbe mentire per la gola. |
+| [[characters/desdemona\|DESDEMONA]] | Sapresti informarti di lui, e farti edotto per relazione altrui? |
+| BUFFONE | Catechizzerò il mondo per lui; vale a dire, farò domande, e per mezzo loro risponderò. |
+| [[characters/desdemona\|DESDEMONA]] | Cercalo, digli che venga qui, digli che ho mosso il mio signore in suo favore, e che [[concepts/hope\|spero]] tutto andrà [[motifs/well\|bene]]. |
+| BUFFONE | Fare ciò rientra nella portata dell'ingegno umano, e perciò tenterò di farlo. |
+| *(didascalia)* | Esce |
+| [[characters/desdemona\|DESDEMONA]] | Dove mai posso aver perduto il fazzoletto, [[characters/emilia\|Emilia]]? |
+| [[characters/emilia\|EMILIA]] | Non lo so, madonna. |
+| [[characters/desdemona\|DESDEMONA]] | Credimi, avrei preferito perdere la mia borsa<br>colma di crociati; e se il mio nobile Moro<br>non fosse leale d'animo, e fatto di nessuna bassezza<br>quale hanno le creature gelose, basterebbe<br>a indurlo a mal pensare. |
+| [[characters/emilia\|EMILIA]] | Non è geloso? |
+| [[characters/desdemona\|DESDEMONA]] | Chi, lui? Credo che il sole dov'egli nacque<br>gli abbia tratto di corpo tutti codesti umori. |
+| *(didascalia)* | Entra [[characters/othello\|Otello]] |
+| [[characters/emilia\|EMILIA]] | Guardate, eccolo che viene. |
+| [[characters/desdemona\|DESDEMONA]] | Non lo lascerò ora, finché [[characters/cassio\|Cassio]]<br>non sia richiamato a lui. Come state, mio signore? |
+| [[characters/othello\|OTELLO]] | [[motifs/well\|Bene]], mia buona signora. (A parte) Oh, com'è duro fingere!—<br>Come state voi, [[characters/desdemona\|Desdemona]]? |
+| [[characters/desdemona\|DESDEMONA]] | [[motifs/well\|Bene]], mio buon signore. |
+| [[characters/othello\|OTELLO]] | Datemi la vostra mano. Questa mano è umida, signora. |
+| [[characters/desdemona\|DESDEMONA]] | Non ha sentito età, né conosciuto dolore. |
+| [[characters/othello\|OTELLO]] | Ciò argomenta fecondità e cuore generoso.<br>Calda, calda e umida—questa vostra mano richiede<br>un sequestro dalla libertà; digiuno e [[motifs/prayer\|preghiera]],<br>molta mortificazione, esercizio devoto,<br>ché qui c'è un giovane e sudante diavolo<br>che spesso si ribella. È una buona mano,<br>una mano franca. |
+| [[characters/desdemona\|DESDEMONA]] | Ben potete dirlo,<br>ché fu quella mano a donare il mio cuore. |
+| [[characters/othello\|OTELLO]] | Una mano generosa. I cuori un tempo davano le mani,<br>ma la nostra nuova araldica è mani, non cuori. |
+| [[characters/desdemona\|DESDEMONA]] | Non so parlare di questo. Suvvia, la vostra promessa. |
+| [[characters/othello\|OTELLO]] | Quale promessa, pulcina? |
+| [[characters/desdemona\|DESDEMONA]] | Ho mandato a dire a [[characters/cassio\|Cassio]] che venga a parlarvi. |
+| [[characters/othello\|OTELLO]] | Ho un salso e molesto raffreddore che mi tormenta.<br>Prestami il tuo fazzoletto. |
+| [[characters/desdemona\|DESDEMONA]] | (porgendo un fazzoletto) Eccolo, mio signore. |
+| [[characters/othello\|OTELLO]] | Quello che vi diedi io. |
+| [[characters/desdemona\|DESDEMONA]] | Non l'ho con me. |
+| [[characters/othello\|OTELLO]] | No? |
+| [[characters/desdemona\|DESDEMONA]] | No, in [[concepts/faith\|fede]] mia, mio signore. |
+| [[characters/othello\|OTELLO]] | Questo è un fallo. Quel fazzoletto<br>lo diede a mia madre un'egiziana.<br>Era una maga, e sapeva quasi leggere<br>i pensieri della gente. Le disse che, finché lo serbasse,<br>l'avrebbe resa amabile, e avrebbe soggiogato mio padre<br>interamente al suo [[motifs/love\|amore]]; ma se l'avesse perduto,<br>o ne avesse fatto dono, l'occhio di mio padre<br>l'avrebbe tenuta in odio, e il suo spirito avrebbe dato caccia<br>a nuove fantasie. Ella, morendo, me lo diede,<br>e mi disse, quando il mio destino m'avesse dato moglie,<br>di darlo a lei. Così feci, e abbine cura.<br>Fanne il tuo tesoro, come il tuo occhio prezioso.<br>Perderlo o donarlo sarebbe tal perdizione<br>che nulla altro potrebbe eguagliare. |
+| [[characters/desdemona\|DESDEMONA]] | È possibile? |
+| [[characters/othello\|OTELLO]] | È vero. C'è magia nella sua trama.<br>Una sibilla che aveva numerato nel mondo<br>duecento giri del corso del sole<br>nel suo furore profetico ne cucì il ricamo.<br>Furono consacrati i vermi che filarono la seta,<br>e fu tinto in mummia, che l'esperta mano<br>conservò da cuori di vergini. |
+| [[characters/desdemona\|DESDEMONA]] | In [[concepts/faith\|fede]] mia, è vero? |
+| [[characters/othello\|OTELLO]] | Verissimo. Perciò custoditelo [[motifs/well\|bene]]. |
+| [[characters/desdemona\|DESDEMONA]] | Allora volesse Dio che non l'avessi mai veduto! |
+| [[characters/othello\|OTELLO]] | Ah, e perché? |
+| [[characters/desdemona\|DESDEMONA]] | Perché parlate in modo così brusco e violento? |
+| [[characters/othello\|OTELLO]] | È perduto? È sparito? Parlate, è andato smarrito? |
+| [[characters/desdemona\|DESDEMONA]] | Il cielo ci assista! |
+| [[characters/othello\|OTELLO]] | Che dite? |
+| [[characters/desdemona\|DESDEMONA]] | Non è perduto; ma se pure lo fosse? |
+| [[characters/othello\|OTELLO]] | COME? |
+| [[characters/desdemona\|DESDEMONA]] | Dico che non è perduto. |
+| [[characters/othello\|OTELLO]] | Va' a prenderlo, fammelo vedere. |
+| [[characters/desdemona\|DESDEMONA]] | Ma sì che posso, signore, ma non ora.<br>Questo è un artificio per distogliermi dalla mia richiesta.<br>Vi prego, che [[characters/cassio\|Cassio]] sia riaccolto. |
+| [[characters/othello\|OTELLO]] | Portami il fazzoletto. L'animo mi presagisce male. |
+| [[characters/desdemona\|DESDEMONA]] | Suvvia, suvvia, non troverete mai uomo più capace. |
+| [[characters/othello\|OTELLO]] | Il fazzoletto. |
+| [[characters/desdemona\|DESDEMONA]] | Vi prego, parlatemi di [[characters/cassio\|Cassio]]. |
+| [[characters/othello\|OTELLO]] | Il fazzoletto. |
+| [[characters/desdemona\|DESDEMONA]] | Un uomo che per tutto il suo [[motifs/time\|tempo]]<br>ha fondato le sue buone fortune sul vostro [[motifs/love\|amore]],<br>ha diviso con voi i pericoli— |
+| [[characters/othello\|OTELLO]] | Il fazzoletto. |
+| [[characters/desdemona\|DESDEMONA]] | In [[concepts/faith\|fede]] mia, avete torto. |
+| [[characters/othello\|OTELLO]] | Sangue di Cristo! Esce |
+| [[characters/emilia\|EMILIA]] | Non è geloso quest'uomo? |
+| [[characters/desdemona\|DESDEMONA]] | Non l'avevo mai visto così.<br>Certo c'è qualche [[concepts/wonder\|prodigio]] in questo fazzoletto.<br>Sono infelicissima d'averlo perduto. |
+| [[characters/emilia\|EMILIA]] | Non è un anno o due che ci rivela un uomo.<br>Non sono che stomaci, e noi non siamo che cibo.<br>Ci divorano avidamente, e quando son sazi,<br>ci rigettano. |
+| *(didascalia)* | Entrano [[characters/iago\|Iago]] e [[characters/cassio\|Cassio]] |
+| [[characters/emilia\|EMILIA]] | Guardate, [[characters/cassio\|Cassio]] e mio marito. |
+| [[characters/iago\|IAGO]] | (a [[characters/cassio\|Cassio]])<br>Non c'è altra via. È lei che deve farlo,<br>ed ecco la fortuna! Va' e importunala. |
+| [[characters/desdemona\|DESDEMONA]] | Ebbene, buon [[characters/cassio\|Cassio]]? Che nuove recate? |
+| [[characters/cassio\|CASSIO]] | Madonna, la mia richiesta d'un tempo. Vi supplico<br>che per i vostri virtuosi mezzi io possa di nuovo<br>esistere ed esser parte dell'[[motifs/love\|amore]]<br>di colui che io, con tutto l'ufficio del mio cuore,<br>interamente [[concepts/honour\|onoro]]. Non vorrei essere differito.<br>Se la mia colpa è di tal mortale natura<br>che né il mio servizio passato, né i presenti dolori,<br>né il merito che mi propongo nel futuro<br>possano riscattarmi nel suo [[motifs/love\|amore]],<br>saperlo pur sarà mio beneficio.<br>Così mi vestirò d'una forzata contentezza,<br>e mi rinchiuderò in qualche altro cammino<br>all'elemosina della fortuna. |
+| [[characters/desdemona\|DESDEMONA]] | Ahimè, tre volte gentile [[characters/cassio\|Cassio]]!<br>La mia intercessione non è ora in accordo.<br>Il mio signore non è il mio signore, né lo riconoscerei<br>se fosse mutato d'aspetto come è mutato d'umore.<br>Così mi aiuti ogni spirito santificato<br>com'è vero che ho parlato per voi con tutte le mie forze,<br>e mi son messa nel bersaglio del suo dispiacere<br>per il mio libero parlare! Dovete per un poco esser paziente.<br>Ciò che posso fare farò, e più farò<br>di quanto per me stessa oserei. Ciò vi basti. |
+| [[characters/iago\|IAGO]] | Il mio signore è in collera? |
+| [[characters/emilia\|EMILIA]] | È uscito or ora di qui,<br>e certo in strana inquietudine. |
+| [[characters/iago\|IAGO]] | Può egli essere in collera? Ho visto il cannone<br>quando ha scagliato in aria le sue file,<br>e, come il diavolo, dal suo stesso braccio<br>ha soffiato via il proprio fratello; ed è in collera?<br>Qualcosa di grave, allora. Vado a incontrarlo.<br>C'è davvero materia, se egli è in collera. |
+| [[characters/desdemona\|DESDEMONA]] | Ti prego, fallo. |
+| *(didascalia)* | Esce [[characters/iago\|Iago]] |
+| [[characters/desdemona\|DESDEMONA]] | Certo qualche affare di stato,<br>o da [[settings/venice\|Venezia]] o qualche trama non ancora schiusa<br>qui a Cipro resagli manifesta,<br>ha intorbidato il suo limpido spirito; e in tali casi<br>le nature degli uomini contendono con cose inferiori,<br>benché le grandi ne siano l'oggetto. È proprio così;<br>ché basta che ci dolga un dito e ne trasmette<br>alle altre nostre membra sane perfino un senso<br>di [[motifs/pain\|dolore]]. No, dobbiamo pensare che gli uomini non son dèi,<br>né aspettarci da loro quei riguardi<br>che si convengono alle nozze. Molto mi rimprovero, [[characters/emilia\|Emilia]],<br>io stavo—guerriera sconveniente quale sono—<br>accusando la sua scortesia con la mia [[motifs/soul\|anima]];<br>ma ora m'accorgo che avevo subornato il testimone,<br>ed egli è incriminato falsamente. |
+| [[characters/emilia\|EMILIA]] | Voglia il cielo che siano<br>faccende di stato, come pensate, e non qualche fantasia<br>né qualche geloso capriccio che vi riguardi. |
+| [[characters/desdemona\|DESDEMONA]] | Ahimè, non gliene diedi mai motivo. |
+| [[characters/emilia\|EMILIA]] | Ma le anime gelose non si contentano di questo.<br>Non son mai gelose per una causa,<br>ma gelose perché son gelose. È un [[archetypes/monster\|mostro]]<br>generato da sé, nato da sé. |
+| [[characters/desdemona\|DESDEMONA]] | Il cielo tenga il [[archetypes/monster\|mostro]] lontano dalla mente di [[characters/othello\|Otello]]. |
+| [[characters/emilia\|EMILIA]] | Signora, amen. |
+| [[characters/desdemona\|DESDEMONA]] | Andrò a cercarlo. [[characters/cassio\|Cassio]], passeggiate qui intorno.<br>Se lo trovo ben disposto muoverò la vostra richiesta,<br>e cercherò di condurla a effetto con tutte le mie forze. |
+| [[characters/cassio\|CASSIO]] | Ringrazio umilmente vostra signoria. |
+| *(didascalia)* | Escono [[characters/desdemona\|Desdemona]] ed [[characters/emilia\|Emilia]] |
+| *(didascalia)* | Entra [[characters/bianca\|Bianca]] |
+| [[characters/bianca\|BIANCA]] | Dio ti salvi, amico [[characters/cassio\|Cassio]]. |
+| [[characters/cassio\|CASSIO]] | Che fai lontana da [[motifs/home\|casa]]?<br>Come stai, mia bellissima [[characters/bianca\|Bianca]]?<br>In [[concepts/faith\|fede]] mia, dolce [[motifs/love\|amore]], stavo venendo a casa tua. |
+| [[characters/bianca\|BIANCA]] | E io stavo andando al tuo alloggio, [[characters/cassio\|Cassio]].<br>Come, restar via una settimana? Sette giorni e notti,<br>centosessantotto ore, e le ore d'assenza degli amanti<br>più tediose del quadrante centosessanta volte!<br>Oh, stanco computo! |
+| [[characters/cassio\|CASSIO]] | Perdonami, [[characters/bianca\|Bianca]],<br>in questo tempo sono stato oppresso da plumbei pensieri,<br>ma in un [[motifs/time\|tempo]] più continuato<br>salderò questo conto d'assenza. Dolce [[characters/bianca\|Bianca]],<br>ricopiami questo ricamo.<br>Le dà il fazzoletto di [[characters/desdemona\|Desdemona]] |
+| [[characters/bianca\|BIANCA]] | Oh [[characters/cassio\|Cassio]], donde viene questo?<br>Questo è qualche pegno d'una nuova amica.<br>All'assenza sentita ora ne sento la causa.<br>Siamo giunti a questo? [[motifs/well\|Bene]], [[motifs/well\|bene]]. |
+| [[characters/cassio\|CASSIO]] | Andiamo, donna.<br>Getta i tuoi vili sospetti in faccia al diavolo,<br>donde li hai tratti. Ora sei gelosa<br>che questo venga da qualche amante, da qualche ricordo.<br>No, sulla mia [[concepts/faith\|fede]], [[characters/bianca\|Bianca]]. |
+| [[characters/bianca\|BIANCA]] | E allora di chi è? |
+| [[characters/cassio\|CASSIO]] | Non lo so neppure io. L'ho trovato nella mia camera.<br>Il ricamo mi piace [[motifs/well\|bene]]. Prima che sia richiesto—<br>com'è assai probabile che sia—vorrei che fosse copiato.<br>Prendilo, e fallo, e lasciami per questa [[motifs/time\|volta]]. |
+| [[characters/bianca\|BIANCA]] | Lasciarti? E perché? |
+| [[characters/cassio\|CASSIO]] | Attendo qui il generale,<br>e non credo sia a mio vantaggio, né lo desidero,<br>ch'egli mi veda in compagnia di donna. |
+| [[characters/bianca\|BIANCA]] | E perché mai, di grazia? |
+| [[characters/cassio\|CASSIO]] | Non che io non ti [[motifs/love\|ami]]. |
+| [[characters/bianca\|BIANCA]] | Ma che tu non mi [[motifs/love\|ami]].<br>Ti prego, accompagnami un poco per la strada,<br>e dimmi se ti vedrò presto questa [[motifs/night\|notte]]. |
+| [[characters/cassio\|CASSIO]] | È solo un breve tratto che posso accompagnarti,<br>ché sono di servizio qui; ma ti vedrò presto. |
+| [[characters/bianca\|BIANCA]] | Sta molto bene. Devo adattarmi alle circostanze. Escono |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/iago\|Iago]] e [[characters/othello\|Otello]] |
+| [[characters/iago\|IAGO]] | Volete pensare così? |
+| [[characters/othello\|OTELLO]] | Pensare così, [[characters/iago\|Iago]]? |
+| [[characters/iago\|IAGO]] | Che, baciarsi in privato? |
+| [[characters/othello\|OTELLO]] | Un bacio non autorizzato. |
+| [[characters/iago\|IAGO]] | O stare nuda a letto col suo amico<br>un’ora o più, senza intendere alcun male? |
+| [[characters/othello\|OTELLO]] | Nudi a letto, [[characters/iago\|Iago]], e non intendere male?<br>È ipocrisia contro il diavolo.<br>Coloro che intendono virtuosamente e pur così fanno,<br>il diavolo tenta la loro virtù, ed essi tentano il cielo. |
+| [[characters/iago\|IAGO]] | Se nulla fanno, è una colpa veniale.<br>Ma se io do a mia moglie un fazzoletto— |
+| [[characters/othello\|OTELLO]] | E allora? |
+| [[characters/iago\|IAGO]] | Ebbene allora è suo, mio signore, ed essendo suo,<br>può, io credo, donarlo a qualunque uomo. |
+| [[characters/othello\|OTELLO]] | Ella è custode anche del suo [[concepts/honour\|onore]].<br>Può donare quello? |
+| [[characters/iago\|IAGO]] | Il suo [[concepts/honour\|onore]] è un’essenza che non si vede.<br>Spesso l’hanno coloro che non l’hanno.<br>Ma quanto al fazzoletto— |
+| [[characters/othello\|OTELLO]] | Per il cielo, ben volentieri l’avrei dimenticato.<br>Tu dicesti—oh, mi torna sulla [[motifs/memory\|memoria]]<br>come fa il corvo sulla casa infetta,<br>presagio a tutti!—egli aveva il mio fazzoletto. |
+| [[characters/iago\|IAGO]] | Sì, e che importa? |
+| [[characters/othello\|OTELLO]] | Questo ora non è tanto bene. |
+| [[characters/iago\|IAGO]] | E se avessi detto che l’ho visto farvi torto,<br>o udito dirlo—ché di tali furfanti ve n’è in giro,<br>i quali, avendo per la propria importuna insistenza<br>o per volontario invaghimento di qualche amante<br>vinte o soddisfatte costoro, non possono<br>far altro che ciarlare— |
+| [[characters/othello\|OTELLO]] | Ha detto qualcosa? |
+| [[characters/iago\|IAGO]] | L’ha detto, mio signore. Ma siatene [[motifs/well\|bene]] certo,<br>non più di quanto disdirà con giuramento. |
+| [[characters/othello\|OTELLO]] | Che ha detto? |
+| [[characters/iago\|IAGO]] | [[concepts/faith\|In fede]], che egli—non so che cosa egli fece. |
+| [[characters/othello\|OTELLO]] | Che, che? |
+| [[characters/iago\|IAGO]] | Giacere— |
+| [[characters/othello\|OTELLO]] | Con lei? |
+| [[characters/iago\|IAGO]] | Con lei, su di lei, come volete. |
+| [[characters/othello\|OTELLO]] | Giacere con lei? Giacere su di lei? Diciamo ‘giacere su di lei’ quando la calunniano. Giacere con lei? Per le piaghe di Cristo, è ripugnante! Fazzoletto—confessioni—fazzoletto. Confessare ed essere impiccato per la sua fatica. Prima essere impiccato e poi confessare! Ne tremo. La [[concepts/nature\|Natura]] non si rivestirebbe d’una passione così ombrosa senza qualche fondamento. Non sono parole che così mi scuotono. Puah! Nasi, orecchi e labbra! È possibile? Confessare? Fazzoletto? Oh diavolo!<br>Cade a terra in deliquio |
+| [[characters/iago\|IAGO]] | Opera pure; la mia medicina agisce. Così i creduli sciocchi<br>vengono presi,<br>e molte dame degne e caste, proprio così,<br>tutte innocenti, incontrano il biasimo. Olà, mio signore!<br>Mio signore, dico. [[characters/othello\|Otello]]! |
+| *(didascalia)* | Entra [[characters/cassio\|Cassio]] |
+| [[characters/iago\|IAGO]] | Come va, [[characters/cassio\|Cassio]]? |
+| [[characters/cassio\|CASSIO]] | Che c’è? |
+| [[characters/iago\|IAGO]] | Il mio signore è caduto in un attacco d’epilessia.<br>È il suo secondo accesso. N’ebbe uno ieri. |
+| [[characters/cassio\|CASSIO]] | Strofinategli le tempie. |
+| [[characters/iago\|IAGO]] | No, astenetevi.<br>Il letargo deve avere il suo quieto corso.<br>Se no, schiuma alla bocca, e d’un tratto<br>erompe in selvaggia [[concepts/madness\|follia]]. Guardate, si muove.<br>Ritiratevi voi per un poco,<br>si riavrà subito. Quando sarà partito<br>vorrei parlarvi di cosa di gran momento. |
+| *(didascalia)* | Esce [[characters/cassio\|Cassio]] |
+| [[characters/iago\|IAGO]] | Come va, generale? Non vi siete ferito il capo? |
+| [[characters/othello\|OTELLO]] | Ti fai gioco di me? |
+| [[characters/iago\|IAGO]] | Non vi schernisco, per il cielo.<br>Volesse il cielo che portaste la vostra sorte da uomo. |
+| [[characters/othello\|OTELLO]] | Un uomo cornuto è un [[archetypes/monster\|mostro]] e una bestia. |
+| [[characters/iago\|IAGO]] | Molte bestie vi sono allora in una popolosa [[motifs/city\|città]],<br>e molti civili [[archetypes/monster\|mostri]]. |
+| [[characters/othello\|OTELLO]] | L’ha confessato? |
+| [[characters/iago\|IAGO]] | Buon signore, siate uomo.<br>Pensate che ogni tizio barbuto che sia aggiogato<br>può tirare con voi. Milioni ne vivono ora<br>che ogni notte giacciono in letti non loro<br>che osano giurare esclusivi. Il vostro caso è migliore.<br>Oh, è il dispetto dell’inferno, l’arcischerno del demonio,<br>baciare una sgualdrina in un giaciglio sicuro<br>e supporla casta! No, ch’io sappia,<br>e sapendo ciò che sono, so ciò che ella sarà. |
+| [[characters/othello\|OTELLO]] | Oh, tu sei saggio, è certo. |
+| [[characters/iago\|IAGO]] | Statevene un poco in disparte.<br>Contenetevi soltanto entro i confini della pazienza.<br>Mentre eravate qui, sopraffatto dal vostro dolore—<br>passione assai sconveniente a un tal uomo—<br>[[characters/cassio\|Cassio]] è venuto qua. L’ho allontanato,<br>e ho dato buona scusa alla vostra estasi,<br>gli ho ingiunto di tornare fra poco e qui parlarmi,<br>il che ha promesso. Voi nascondetevi soltanto,<br>e notate i ghigni, le beffe e gli insigni scherni<br>che dimorano in ogni regione del suo volto.<br>Ché gli farò raccontare la storia da capo,<br>dove, come, quante volte, quanto tempo fa, e quando<br>ha avuto ed avrà di nuovo commercio con vostra moglie.<br>Dico, notate solo i suoi gesti. Perbacco, pazienza,<br>o dirò che siete tutto quanto bile,<br>e nulla d’uomo. |
+| [[characters/othello\|OTELLO]] | Odi, [[characters/iago\|Iago]]?<br>Sarò trovato assai accorto nella mia pazienza,<br>ma—odi?—assai sanguinario. |
+| [[characters/iago\|IAGO]] | Non è male,<br>ma tenete [[motifs/time\|tempo]] in tutto. Volete ritirarvi?<br>[[characters/othello\|Otello]]<br>si tiene in disparte<br>Ora interrogherò [[characters/cassio\|Cassio]] intorno a [[characters/bianca\|Bianca]],<br>una sgualdrina che vendendo i suoi desideri<br>si compra pane e vesti. È una creatura<br>che stravede per [[characters/cassio\|Cassio]]—ché è la piaga della meretrice<br>illudere molti ed essere illusa da uno.<br>Egli, quando sente parlar di lei, non sa trattenersi<br>dall’eccesso del riso. |
+| *(didascalia)* | Entra [[characters/cassio\|Cassio]] |
+| [[characters/iago\|IAGO]] | Eccolo che viene.<br>Come egli sorriderà, [[characters/othello\|Otello]] impazzirà;<br>e la sua ignorante [[concepts/jealousy\|gelosia]] dovrà interpretare<br>i sorrisi, i gesti e i leggeri modi del povero [[characters/cassio\|Cassio]]<br>tutti a rovescio. Come state ora, luogotenente? |
+| [[characters/cassio\|CASSIO]] | Tanto peggio, ché mi date il titolo<br>la cui mancanza mi uccide. |
+| [[characters/iago\|IAGO]] | Sollecitate [[characters/desdemona\|Desdemona]] [[motifs/well\|bene]] e ne sarete certo.<br>Ora, se questa supplica stesse in potere di [[characters/bianca\|Bianca]],<br>con quale [[characters/speed\|prontezza]] riuscireste! |
+| [[characters/cassio\|CASSIO]] | (ridendo) Ahimè, povero disgraziato! |
+| [[characters/othello\|OTELLO]] | (a parte) Guarda come già ride. |
+| [[characters/iago\|IAGO]] | Non conobbi mai donna [[motifs/love\|amare]] un uomo a tal punto. |
+| [[characters/cassio\|CASSIO]] | Ahimè, povero furfante! Credo in [[concepts/faith\|fede]] mia che mi ami. |
+| [[characters/othello\|OTELLO]] | (a parte)<br>Ora lo nega fiaccamente, e se la ride. |
+| [[characters/iago\|IAGO]] | Sentite, [[characters/cassio\|Cassio]]? |
+| [[characters/othello\|OTELLO]] | (a parte) Ora lo importuna<br>a raccontarlo daccapo. Via, [[motifs/well\|ben]] detto, [[motifs/well\|ben]] detto. |
+| [[characters/iago\|IAGO]] | Va dicendo che voi la sposerete.<br>Ne avete intenzione? |
+| [[characters/cassio\|CASSIO]] | Ah, ah, ah! |
+| [[characters/othello\|OTELLO]] | (a parte)<br>Trionfi tu, Romano, trionfi? |
+| [[characters/cassio\|CASSIO]] | Io sposarla! Che, una donnina da mercato? Ti prego, porta un po’ di [[concepts/charity\|carità]] al mio giudizio—non crederlo così malsano. Ah, ah, ah! |
+| [[characters/othello\|OTELLO]] | (a parte) Così, così, così, così. Ride chi vince. |
+| [[characters/iago\|IAGO]] | [[concepts/faith\|In fede]], la voce corre che voi la sposiate. |
+| [[characters/cassio\|CASSIO]] | Ti prego, di’ il vero. |
+| [[characters/iago\|IAGO]] | Sono un vero [[archetypes/villain\|furfante]], altrimenti. |
+| [[characters/othello\|OTELLO]] | (a parte) Mi avete segnato? [[motifs/well\|Bene]]. 125 |
+| [[characters/cassio\|CASSIO]] | Questo è ciò che la scimmia va dicendo da sé. È persuasa che la sposerò per il suo proprio [[motifs/love\|amore]] e la sua lusinga, non per una mia promessa. |
+| [[characters/othello\|OTELLO]] | (a parte) [[characters/iago\|Iago]] mi fa cenno. Ora comincia la storia. [[characters/othello\|Otello]] si avvicina |
+| [[characters/cassio\|CASSIO]] | Era qui or ora. Mi perseguita in ogni luogo. L’altro giorno stavo parlando sulla riva del mare con certi Veneziani, ed ecco che giunge quel ninnolo, e mi si getta così al collo. |
+| [[characters/othello\|OTELLO]] | (a parte) Gridando ‘Oh caro Cassiol’, si direbbe. Il suo gesto lo dice. |
+| [[characters/cassio\|CASSIO]] | Così si appende e si abbandona e piange su di me, così mi scuote e mi tira—ah, ah, ah! |
+| [[characters/othello\|OTELLO]] | (a parte) Ora racconta come lo trascinò nella mia camera. Oh, vedo quel vostro naso, ma non il cane a cui lo getterò! |
+| [[characters/cassio\|CASSIO]] | [[motifs/well\|Bene]], devo lasciare la sua compagnia. |
+| *(didascalia)* | Entra [[characters/bianca\|Bianca]] |
+| [[characters/iago\|IAGO]] | Per la mia vita, guarda dove viene. |
+| [[characters/cassio\|CASSIO]] | È un’altra puzzola siffatta! Perbacco, una profumata. (A [[characters/bianca\|Bianca]]) Che intendete con questo perseguitarmi? |
+| [[characters/bianca\|BIANCA]] | Che il diavolo e sua madre vi perseguitino. Che intendevate con quel fazzoletto che m’avete dato or ora? Fui una bella [[archetypes/fool\|sciocca]] a prenderlo. Devo copiarne tutto il ricamo—bella storia davvero, che voi lo troviate nella vostra camera e non sappiate chi ve l’abbia lasciato. Questo è pegno di qualche sfacciatella, e io devo copiarne il ricamo. Ecco, datelo alla vostra [[motifs/horse\|cavallina]]. (Dando a [[characters/cassio\|Cassio]] il fazzoletto) Dovunque l’abbiate avuto, non ne copierò ricamo alcuno. |
+| [[characters/cassio\|CASSIO]] | Come va, mia dolce [[characters/bianca\|Bianca]], come va, come va? |
+| [[characters/othello\|OTELLO]] | (a parte)<br>Per il cielo, quello dev’essere il mio fazzoletto. |
+| [[characters/bianca\|BIANCA]] | Se volete venire a cena stasera, potete. Se non volete, venite quando sarete atteso la prossima volta. |
+| *(didascalia)* | Esce |
+| [[characters/iago\|IAGO]] | Dietro a lei, dietro a lei. |
+| [[characters/cassio\|CASSIO]] | [[concepts/faith\|In fede]], devo, altrimenti strepiterà per le strade. |
+| [[characters/iago\|IAGO]] | Cenerete là? |
+| [[characters/cassio\|CASSIO]] | [[concepts/faith\|In fede]], ho tale intenzione. |
+| [[characters/iago\|IAGO]] | [[motifs/well\|Bene]], potrà darsi ch’io vi veda, ché vorrei ben volentieri parlarvi. |
+| [[characters/cassio\|CASSIO]] | Ti prego, vieni, verrai? |
+| [[characters/iago\|IAGO]] | Via, non dire altro. |
+| *(didascalia)* | Esce [[characters/cassio\|Cassio]] |
+| [[characters/othello\|OTELLO]] | Come lo ucciderò, [[characters/iago\|Iago]]? |
+| [[characters/iago\|IAGO]] | Avete notato come rideva del suo vizio? |
+| [[characters/othello\|OTELLO]] | Oh [[characters/iago\|Iago]]! |
+| [[characters/iago\|IAGO]] | E avete visto il fazzoletto? |
+| [[characters/othello\|OTELLO]] | Era il mio? |
+| [[characters/iago\|IAGO]] | Vostro, per questa mano. E vedere quanto pregia la sciocca donna che è vostra moglie. Gliel’ha dato lei, ed egli l’ha dato alla sua puttana. |
+| [[characters/othello\|OTELLO]] | Vorrei impiegare nove anni a ucciderlo. Una bella donna, una donna avvenente, una dolce donna. |
+| [[characters/iago\|IAGO]] | No, dovete dimenticare questo. |
+| [[characters/othello\|OTELLO]] | Sì, che marcisca e perisca, e sia dannata stanotte, ché non vivrà. No, il mio cuore s’è mutato in pietra; lo percuoto, e mi fa male alla mano. Oh, il mondo non ha creatura più dolce! Potrebbe giacere al fianco d’un imperatore, e comandargli imprese. |
+| [[characters/iago\|IAGO]] | No, non è questa la vostra via. |
+| [[characters/othello\|OTELLO]] | Che sia impiccata, io dico solo ciò che è—così delicata con l’ago, musicista ammirevole. Oh, canterebbe via la ferocia da un orso! Di così alto e copioso ingegno e inventiva. |
+| [[characters/iago\|IAGO]] | Tanto peggio per lei con tutto questo. |
+| [[characters/othello\|OTELLO]] | Oh, mille, mille volte! E poi d’indole così gentile. |
+| [[characters/iago\|IAGO]] | Sì, troppo gentile. |
+| [[characters/othello\|OTELLO]] | No, questo è certo. Eppure che pietà, [[characters/iago\|Iago]]. Oh, [[characters/iago\|Iago]], che pietà, [[characters/iago\|Iago]]! |
+| [[characters/iago\|IAGO]] | Se siete così tenero verso la sua iniquità, datele licenza d’offendere; ché se non tocca voi, non riguarda nessuno. |
+| [[characters/othello\|OTELLO]] | La farò a pezzi. Farmi becco! |
+| [[characters/iago\|IAGO]] | Oh, è turpe in lei. |
+| [[characters/othello\|OTELLO]] | Con il mio ufficiale. |
+| [[characters/iago\|IAGO]] | Questo è più turpe. |
+| [[characters/othello\|OTELLO]] | Procurami del [[motifs/poison\|veleno]], [[characters/iago\|Iago]], questa [[motifs/night\|notte]]. Non discuterò con lei, ché il suo [[concepts/body\|corpo]] e la sua [[concepts/beauty\|bellezza]] non mi disarmino di nuovo l’animo. Questa [[motifs/night\|notte]], [[characters/iago\|Iago]]. |
+| [[characters/iago\|IAGO]] | Non farlo col [[motifs/poison\|veleno]]. Strangolatela nel suo letto, proprio il letto ch’ella ha contaminato. |
+| [[characters/othello\|OTELLO]] | Bene, bene, la giustizia della cosa mi piace, molto bene. |
+| [[characters/iago\|IAGO]] | E quanto a [[characters/cassio\|Cassio]], lasciate ch’io sia il suo becchino. Ne saprete di più entro mezzanotte. |
+| [[characters/othello\|OTELLO]] | Eccellente.<br>Una tromba<br>Che tromba è codesta? |
+| [[characters/iago\|IAGO]] | Garantisco, qualcosa da [[settings/venice\|Venezia]]. |
+| *(didascalia)* | Entrano Lodovico, [[characters/desdemona\|Desdemona]] e servitori |
+| [[characters/iago\|IAGO]] | È Lodovico. Questo viene dal Duca. Guardate, vostra moglie è con lui. |
+| LODOVICO | Dio salvi il degno generale. |
+| [[characters/othello\|OTELLO]] | Con tutto il cuore, signore. |
+| LODOVICO | (dando a [[characters/othello\|Otello]] una lettera) Il Duca e i senatori di [[settings/venice\|Venezia]] vi salutano. |
+| [[characters/othello\|OTELLO]] | Bacio lo strumento dei loro voleri.<br>Legge la lettera |
+| [[characters/desdemona\|DESDEMONA]] | E quali sono le novità, buon cugino Lodovico? |
+| [[characters/iago\|IAGO]] | (a Lodovico) Sono molto lieto di vedervi, signore. Benvenuto a Cipro. |
+| LODOVICO | Vi ringrazio. Come sta il luogotenente [[characters/cassio\|Cassio]]? |
+| [[characters/iago\|IAGO]] | Vive, signore. |
+| [[characters/desdemona\|DESDEMONA]] | Cugino, è caduta fra lui e il mio signore<br>una spiacevole rottura. Ma voi farete che tutto vada [[motifs/well\|bene]]. |
+| [[characters/othello\|OTELLO]] | Ne siete certa? |
+| [[characters/desdemona\|DESDEMONA]] | Mio signore. |
+| [[characters/othello\|OTELLO]] | (legge) ‘Non mancate di far questo come vorrete’— |
+| LODOVICO | Non ha chiamato, è assorto nella carta.<br>V’è divisione fra il mio signore e [[characters/cassio\|Cassio]]? |
+| [[characters/desdemona\|DESDEMONA]] | Assai infelice. Molto farei<br>per riconciliarli, per l’[[motifs/love\|amore]] che porto a [[characters/cassio\|Cassio]]. |
+| [[characters/othello\|OTELLO]] | [[motifs/fire\|Fuoco]] e zolfo! |
+| [[characters/desdemona\|DESDEMONA]] | Mio signore? |
+| [[characters/othello\|OTELLO]] | Siete in senno? |
+| [[characters/desdemona\|DESDEMONA]] | Che, è adirato? |
+| LODOVICO | Forse la lettera l’ha commosso,<br>ché, come penso, gli ordinano di tornare a [[motifs/home\|casa]],<br>deputando [[characters/cassio\|Cassio]] al suo governo. |
+| [[characters/desdemona\|DESDEMONA]] | In fede mia, ne sono lieta. |
+| [[characters/othello\|OTELLO]] | Davvero! |
+| [[characters/desdemona\|DESDEMONA]] | Mio signore? |
+| [[characters/othello\|OTELLO]] | (a [[characters/desdemona\|Desdemona]]) Sono lieto di vedervi folle. |
+| [[characters/desdemona\|DESDEMONA]] | Come, dolce [[characters/othello\|Otello]]! |
+| [[characters/othello\|OTELLO]] | Diavolo!<br>La colpisce |
+| [[characters/desdemona\|DESDEMONA]] | Non ho meritato questo. |
+| LODOVICO | Mio signore, questo non sarebbe creduto a [[settings/venice\|Venezia]],<br>anche se giurassi d’averlo visto. È troppo.<br>Riparate verso di lei, ella piange.<br>OTELLOOh, diavolo, diavolo!<br>Se la terra potesse ingravidarsi delle [[motifs/tears\|lacrime]] di donna,<br>ogni goccia ch’ella lascia cadere diverrebbe un coccodrillo.<br>Fuori dalla mia vista! |
+| [[characters/desdemona\|DESDEMONA]] | (andando) Non resterò a offendervi. |
+| LODOVICO | Davvero, una dama obbediente.<br>Supplico vostra signoria di richiamarla. |
+| [[characters/othello\|OTELLO]] | Signora! |
+| [[characters/desdemona\|DESDEMONA]] | (tornando) Mio signore? |
+| [[characters/othello\|OTELLO]] | (a Lodovico) Che volete da lei, signore? |
+| LODOVICO | Chi, io, mio signore? |
+| [[characters/othello\|OTELLO]] | Sì, voi desideravate ch’io la facessi voltare.<br>Signore; ella sa voltarsi e voltarsi, e pur procedere<br>e voltarsi ancora, e sa piangere, signore, piangere,<br>ed è obbediente, come dite, obbediente,<br>assai obbediente. (A [[characters/desdemona\|Desdemona]]) Proseguite nelle vostre<br>[[motifs/tears\|lacrime]].<br>(A Lodovico) Quanto a questo, signore—(A [[characters/desdemona\|Desdemona]]) Oh<br>passione [[motifs/well\|ben]] dipinta!<br>(A Lodovico) Sono richiamato a [[motifs/home\|casa]]. (A [[characters/desdemona\|Desdemona]])<br>Andatevene.<br>Vi manderò a chiamare fra poco. (A Lodovico) Signore, obbedisco al<br>mandato,<br>e tornerò a [[settings/venice\|Venezia]]. (A [[characters/desdemona\|Desdemona]]) Via di qui,<br>sparite! |
+| *(didascalia)* | Esce [[characters/desdemona\|Desdemona]] |
+| [[characters/othello\|OTELLO]] | (A Lodovico) [[characters/cassio\|Cassio]] avrà il mio posto, e, signore,<br>stasera<br>vi prego che possiamo cenare insieme.<br>Siate il benvenuto, signore, a Cipro. Capre e scimmie! |
+| *(didascalia)* | Esce |
+| LODOVICO | È questo il nobile Moro che il nostro intero senato<br>chiama in tutto e per tutto valente? È questa la [[concepts/nature\|natura]]<br>che passione non poté scuotere, la cui solida virtù<br>né colpo d’accidente né dardo di sorte<br>poté sfiorare o trafiggere? |
+| [[characters/iago\|IAGO]] | È molto mutato. |
+| LODOVICO | Ha il senno salvo? Non è leggero di cervello? |
+| [[characters/iago\|IAGO]] | Egli è quel che è. Non posso esalare il mio giudizio<br>su ciò che potrebbe essere. Se ciò che potrebbe non è,<br>vorrei al cielo che lo fosse. |
+| LODOVICO | Come, colpire sua moglie! |
+| [[characters/iago\|IAGO]] | [[concepts/faith\|In fede]], quello non fu tanto [[motifs/well\|bene]]. Pur vorrei sapere<br>che quel colpo si dimostri il peggiore. |
+| LODOVICO | È sua abitudine,<br>o le lettere hanno agito sul suo [[motifs/blood\|sangue]]<br>e creato in lui questa nuova colpa?<br>IAGOAhimè, ahimè.<br>Non è onestà in me parlare<br>di ciò che ho visto e saputo. Voi l’osserverete,<br>e i suoi stessi modi lo riveleranno tanto<br>ch’io potrò risparmiare le mie parole. Andategli solo dietro,<br>e notate come continua. |
+| LODOVICO | Mi duole d’essermi ingannato sul suo conto. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/othello\|Otello]] ed [[characters/emilia\|Emilia]] |
+| [[characters/othello\|OTELLO]] | Non avete visto nulla, dunque? |
+| [[characters/emilia\|EMILIA]] | Né mai udito, né mai sospettato. |
+| [[characters/othello\|OTELLO]] | Sì, avete visto [[characters/cassio\|Cassio]] e lei insieme. |
+| [[characters/emilia\|EMILIA]] | Ma allora non vidi nulla di male, e udii<br>ogni sillaba che il fiato formò tra loro. |
+| [[characters/othello\|OTELLO]] | Come, non bisbigliarono mai? |
+| [[characters/emilia\|EMILIA]] | Mai, mio signore. |
+| [[characters/othello\|OTELLO]] | Né vi mandarono via di mezzo? |
+| [[characters/emilia\|EMILIA]] | Mai. |
+| [[characters/othello\|OTELLO]] | A prendere il ventaglio, i guanti, la maschera, nulla? |
+| [[characters/emilia\|EMILIA]] | Mai, mio signore. |
+| [[characters/othello\|OTELLO]] | È strano. |
+| [[characters/emilia\|EMILIA]] | Oserei, signore, scommettere ch’ella è onesta,<br>e porne in pegno la mia [[motifs/soul\|anima]]. Se pensate altrimenti,<br>scacciate quel pensiero; esso inganna il vostro petto.<br>Se qualche miserabile v’ha messo questo in capo,<br>il cielo lo ripaghi con la maledizione del serpente,<br>ché s’ella non è onesta, casta e fedele,<br>nessun uomo è felice; la più pura delle mogli<br>è immonda come la calunnia. |
+| [[characters/othello\|OTELLO]] | Ditele di venir qua. Andate. |
+| *(didascalia)* | Esce [[characters/emilia\|Emilia]] |
+| [[characters/othello\|OTELLO]] | Dice abbastanza; eppure è mezzana da poco<br>colei che non sa dire altrettanto. Costei è una puttana sottile,<br>uno scrigno con chiave di [[motifs/secrets\|segreti]] scellerati,<br>e pure s’inginocchia e prega—l’ho vista farlo. |
+| *(didascalia)* | Entrano [[characters/desdemona\|Desdemona]] ed [[characters/emilia\|Emilia]] |
+| [[characters/desdemona\|DESDEMONA]] | Mio signore, qual è il vostro volere? |
+| [[characters/othello\|OTELLO]] | Vi prego, colombella, venite qua. |
+| [[characters/desdemona\|DESDEMONA]] | Qual è il vostro piacere? |
+| [[characters/othello\|OTELLO]] | Lasciatemi vedere i vostri occhi.<br>Guardatemi in volto. |
+| [[characters/desdemona\|DESDEMONA]] | Che orribile fantasia è questa? |
+| [[characters/othello\|OTELLO]] | (a [[characters/emilia\|Emilia]]) Al vostro ufficio, padrona.<br>Lasciate soli gli amanti, e chiudete la porta,<br>tossite o gridate ‘Ehm’ se qualcuno viene.<br>Il vostro mestiere, il vostro mestiere—su, spicciatevi. |
+| *(didascalia)* | Esce [[characters/emilia\|Emilia]] |
+| [[characters/desdemona\|DESDEMONA]] | In ginocchio vi chiedo: che significa il vostro dire?<br>Comprendo una furia nelle vostre parole,<br>ma non le parole. |
+| [[characters/othello\|OTELLO]] | Ebbene, che cosa sei tu? |
+| [[characters/desdemona\|DESDEMONA]] | Vostra moglie, signore, la vostra vera e leale moglie. |
+| [[characters/othello\|OTELLO]] | Su, giuralo, dànnati,<br>ché, somigliando tu a una del cielo, i diavoli stessi<br>[[concepts/fear\|temano]] d’afferrarti. Sii dunque [[topoi/double\|doppiamente]] dannata:<br>giura d’essere onesta. |
+| [[characters/desdemona\|DESDEMONA]] | Il cielo lo sa veramente. 40 |
+| [[characters/othello\|OTELLO]] | Il cielo sa veramente che sei falsa come l’inferno. |
+| [[characters/desdemona\|DESDEMONA]] | Verso chi, signore? Con chi? Come son io falsa? |
+| [[characters/othello\|OTELLO]] | (piangendo)<br>Ah, Desdemona, via, via, via! |
+| [[characters/desdemona\|DESDEMONA]] | Ahimè, giorno funesto! Perché piangete?<br>Son io il motivo di queste [[motifs/tears\|lacrime]], signore?<br>Se per caso sospettate che mio padre<br>sia strumento di questo vostro richiamo,<br>non gettate su me la colpa. Se l’avete perduto,<br>l’ho perduto anch’io. |
+| [[characters/othello\|OTELLO]] | Fosse piaciuto a Dio<br>provarmi con l’afflizione; avesse Egli piovuto<br>ogni sorta di piaghe e d’onte sul mio capo nudo,<br>immerso me nella [[concepts/poverty\|povertà]] fino alle labbra,<br>dato in schiavitù me e ogni mia più alta speranza,<br>avrei trovato in qualche luogo della mia [[motifs/soul\|anima]]<br>una goccia di pazienza. Ma, ahimè, farmi<br>l’immobile figura che il [[motifs/time\|tempo]] dello scherno<br>addita col suo dito lento e mobile—<br>anche questo potrei sopportare, [[motifs/well\|bene]], assai [[motifs/well\|bene]].<br>Ma là dove ho riposto il mio cuore,<br>dove o devo vivere o non aver vita,<br>la fonte da cui scorre la mia corrente<br>o altrimenti si secca—esserne scacciato,<br>o tenerla come cisterna per rospi immondi<br>che vi si annodino e generino! Muta là il tuo colore,<br>Pazienza, tu giovane cherubino dalle labbra di [[motifs/rose\|rosa]],<br>sì, qui guarda torva come l’inferno. |
+| [[characters/desdemona\|DESDEMONA]] | [[concepts/hope\|Spero]] che il mio nobile signore mi stimi onesta. |
+| [[characters/othello\|OTELLO]] | Oh, sì—come le mosche d’[[motifs/summer\|estate]] nel macello,<br>che s’animano al solo deporsi. Oh tu, erbaccia,<br>che sei così amabilmente bella, e olezzi così dolce<br>che i sensi ne dolgono—oh, non fossi tu mai<br>nata! |
+| [[characters/desdemona\|DESDEMONA]] | Ahimè, quale ignaro peccato ho commesso? |
+| [[characters/othello\|OTELLO]] | Fu questa candida carta, questo bellissimo libro,<br>fatto per scrivervi sopra ‘puttana’? Che ho commesso?<br>Commesso? Oh tu, meretrice pubblica,<br>farei fucine delle mie guance,<br>che ridurrebbero in cenere il pudore,<br>solo ch’io dicessi le tue azioni. Che ho commesso?<br>Il cielo si tura il naso, e la [[motifs/moon\|luna]] chiude gli occhi;<br>il lascivo [[motifs/wind\|vento]], che bacia tutto ciò che incontra,<br>tace nella cava miniera della terra<br>e non vuole udirlo. Che ho commesso? |
+| [[characters/desdemona\|DESDEMONA]] | Per il cielo, mi fate torto. |
+| [[characters/othello\|OTELLO]] | Non siete voi una sgualdrina? |
+| [[characters/desdemona\|DESDEMONA]] | No, com’è vero che son cristiana.<br>Se serbare questo vaso per il mio signore<br>da ogni altro immondo tocco illecito<br>non è essere una sgualdrina, io non lo sono. |
+| [[characters/othello\|OTELLO]] | Come, non una puttana? |
+| [[characters/desdemona\|DESDEMONA]] | No, com’è vero che sarò salvata. |
+| [[characters/othello\|OTELLO]] | È possibile? |
+| [[characters/desdemona\|DESDEMONA]] | Oh cielo, perdonaci! |
+| [[characters/othello\|OTELLO]] | Vi chiedo dunque [[concepts/mercy\|perdono]].<br>Vi avevo presa per quell’astuta puttana di [[settings/venice\|Venezia]]<br>che sposò [[characters/othello\|Otello]]. (Chiamando) Voi, padrona,<br>che avete l’ufficio opposto a quello di San Pietro<br>e custodite la porta dell’inferno, |
+| *(didascalia)* | Entra [[characters/emilia\|Emilia]] |
+| [[characters/othello\|OTELLO]] | voi, voi, sì, voi.<br>Abbiamo finito il nostro corso. (Dandole del denaro) Ecco<br>denaro per la vostra fatica.<br>Vi prego, girate la chiave e serbate il segreto. |
+| *(didascalia)* | Esce |
+| [[characters/emilia\|EMILIA]] | Ahimè, che cosa immagina questo signore?<br>Come state, madonna? Come state, mia buona signora? |
+| [[characters/desdemona\|DESDEMONA]] | [[concepts/faith\|In fede mia]], mezzo addormentata. |
+| [[characters/emilia\|EMILIA]] | Buona madonna, che ha il mio signore? |
+| [[characters/desdemona\|DESDEMONA]] | Con chi? |
+| [[characters/emilia\|EMILIA]] | Ma, col mio signore, madonna. |
+| [[characters/desdemona\|DESDEMONA]] | Chi è il tuo signore? |
+| [[characters/emilia\|EMILIA]] | Colui che è il vostro, dolce signora. |
+| [[characters/desdemona\|DESDEMONA]] | Non ne ho alcuno. Non parlarmi, [[characters/emilia\|Emilia]].<br>Non posso piangere, né ho risposta alcuna<br>se non quella che andrebbe per [[motifs/water\|acqua]]. Ti prego, stanotte<br>stendi sul mio letto le lenzuola nuziali, ricordalo.<br>E chiama qui tuo marito. |
+| [[characters/emilia\|EMILIA]] | Ecco davvero un mutamento. |
+| *(didascalia)* | Esce |
+| [[characters/desdemona\|DESDEMONA]] | È giusto ch’io sia trattata così, molto giusto.<br>Come mi son comportata, perch’egli potesse appuntare<br>il minimo sospetto sul più lieve mio fallo? |
+| *(didascalia)* | Entrano [[characters/iago\|Iago]] ed [[characters/emilia\|Emilia]], |
+| [[characters/iago\|IAGO]] | Qual è il vostro piacere, madonna? Come state? |
+| [[characters/desdemona\|DESDEMONA]] | Non so dirlo. Chi insegna ai bimbi piccoli<br>lo fa con dolci modi e compiti facili.<br>Poteva sgridarmi così, ché, in buona [[concepts/faith\|fede]],<br>sono una [[archetypes/child\|bambina]] quanto ai rimproveri. |
+| [[characters/iago\|IAGO]] | Che c’è, signora? |
+| [[characters/emilia\|EMILIA]] | Ahimè, [[characters/iago\|Iago]], il mio signore l’ha così svergognata da puttana,<br>gettandole addosso tale dispregio e parole così gravi,<br>che i cuori sinceri non possono sopportarlo. |
+| [[characters/desdemona\|DESDEMONA]] | Sono io quel nome, [[characters/iago\|Iago]]? |
+| [[characters/iago\|IAGO]] | Quale nome, bella signora? |
+| [[characters/desdemona\|DESDEMONA]] | Quello che ella dice che il mio signore disse ch’io fossi. |
+| [[characters/emilia\|EMILIA]] | L’ha chiamata puttana. Un mendicante ubriaco<br>non avrebbe scagliato tali parole sulla sua sgualdrina. |
+| [[characters/iago\|IAGO]] | Perché fece così? |
+| [[characters/desdemona\|DESDEMONA]] | Non lo so. So di certo che non son tale. |
+| [[characters/iago\|IAGO]] | Non piangete, non piangete. Ahimè, che giorno! |
+| [[characters/emilia\|EMILIA]] | Ha ella lasciato tanti nobili partiti,<br>suo padre e il suo paese e i suoi amici,<br>per esser chiamata puttana? Non farebbe piangere? |
+| [[characters/desdemona\|DESDEMONA]] | È la mia misera sorte. |
+| [[characters/iago\|IAGO]] | Maledetto sia per questo.<br>Come gli è venuto addosso questo grillo? |
+| [[characters/desdemona\|DESDEMONA]] | Ah, il cielo lo sa. |
+| [[characters/emilia\|EMILIA]] | Ch’io sia impiccata se qualche eterno [[archetypes/villain\|scellerato]],<br>qualche furfante intrigante e insinuante,<br>qualche schiavo baro e truffatore, per ottenere un ufficio,<br>non ha ordito questa calunnia. Ch’io sia impiccata, altrimenti. |
+| [[characters/iago\|IAGO]] | Via, non esiste un uomo simile. È impossibile. |
+| [[characters/desdemona\|DESDEMONA]] | Se alcuno ve n’è, il cielo lo perdoni. |
+| [[characters/emilia\|EMILIA]] | Un capestro lo perdoni, e l’inferno gli roda le ossa!<br>Perché dovrebbe chiamarla puttana? Chi le fa<br>compagnia?<br>Quale luogo, quale [[motifs/time\|tempo]], quale forma, quale verosimiglianza?<br>Il Moro è ingannato da qualche scelleratissimo furfante,<br>qualche vile, famigerato furfante, qualche tristo individuo.<br>Oh cielo, che tu svelassi simili compagni,<br>e mettessi in ogni mano onesta una frusta<br>per flagellare quei bricconi nudi per il mondo,<br>fin dall’oriente all’occidente! |
+| [[characters/iago\|IAGO]] | Parlate sottovoce. |
+| [[characters/emilia\|EMILIA]] | Oh, vergogna su di loro. Fu un tale scudiero<br>che vi rivoltò il senno col rovescio all’infuori,<br>e vi fece sospettare di me col Moro. |
+| [[characters/iago\|IAGO]] | Siete una [[archetypes/fool\|sciocca]]. Andiamo. |
+| [[characters/desdemona\|DESDEMONA]] | Oh Dio, [[characters/iago\|Iago]],<br>che devo fare per riconquistare il mio signore?<br>Buon amico, va’ da lui; ché per questa luce del cielo,<br>non so come l’ho perduto.<br>Ella s’inginocchia<br>Qui m’inginocchio.<br>Se mai il mio volere trasgredì contro il suo [[motifs/love\|amore]],<br>o nel discorso del pensiero o in atto reale,<br>o se i miei occhi, i miei orecchi, o alcun senso<br>si compiacquero in altra forma,<br>o s’io non l’amo ancora, e non l’amai sempre,<br>e non l’amerò sempre—benché egli mi scuota via<br>in mendico ripudio—[[motifs/love\|amandolo]] teneramente,<br>il conforto mi abbandoni. La durezza può molto,<br>e la sua durezza può distruggere la mia vita,<br>ma mai contaminare il mio [[motifs/love\|amore]].<br>[Ella si alza]<br>Non posso dire ‘puttana’.<br>Mi fa orrore ora che pronuncio la parola.<br>E a compiere l’atto che quel nome meriterebbe,<br>non m’indurrebbe tutta la [[concepts/vanity\|vanità]] del mondo. |
+| [[characters/iago\|IAGO]] | Vi prego, statevi tranquilla. Non è che il suo umore.<br>Gli affari dello stato lo contrariano,<br>ed egli sgrida voi. |
+| [[characters/desdemona\|DESDEMONA]] | Se non fosse altro! |
+| [[characters/iago\|IAGO]] | Non è che così, ve lo garantisco. |
+| *(didascalia)* | Squilli di tromba all’interno |
+| [[characters/iago\|IAGO]] | Udite come questi strumenti vi chiamano a cena.<br>I messi di [[settings/venice\|Venezia]] attendono la mensa.<br>Entrate, e non piangete. Tutto andrà [[motifs/well\|bene]]. |
+| *(didascalia)* | Escono [[characters/desdemona\|Desdemona]] ed [[characters/emilia\|Emilia]] |
+| *(didascalia)* | Entra [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | Ebbene, [[characters/roderigo\|Roderigo]]? |
+| [[characters/roderigo\|RODERIGO]] | Non trovo che tu agisca lealmente con me. |
+| [[characters/iago\|IAGO]] | In che cosa il contrario? |
+| [[characters/roderigo\|RODERIGO]] | Ogni giorno mi scansi con qualche trovata, [[characters/iago\|Iago]], e piuttosto, come ora mi pare, mi tieni lontana ogni occasione anziché fornirmi il minimo vantaggio di [[concepts/hope\|speranza]]. Non lo sopporterò davvero più a lungo, né sono ancora persuaso a mandar giù in pace ciò che già stoltamente ho patito. |
+| [[characters/iago\|IAGO]] | Volete ascoltarmi, [[characters/roderigo\|Roderigo]]? |
+| [[characters/roderigo\|RODERIGO]] | [[concepts/faith\|In fede mia]], ho udito troppo, ché le vostre parole e i vostri atti non sono parenti fra loro. |
+| [[characters/iago\|IAGO]] | Mi accusate assai ingiustamente. |
+| [[characters/roderigo\|RODERIGO]] | Con null’altro che la [[concepts/truth\|verità]]. Mi sono dissanguato dei miei averi. I gioielli che avete avuto da me per consegnarli a [[characters/desdemona\|Desdemona]] avrebbero corrotto a metà una monaca votata. Mi avete detto ch’ella li ha ricevuti, e mi avete riportato aspettative e conforti d’improvviso riguardo e intimità, ma non ne trovo alcuno. 195 |
+| [[characters/iago\|IAGO]] | [[motifs/well\|Bene]], andiamo, molto [[motifs/well\|bene]]. |
+| [[characters/roderigo\|RODERIGO]] | ‘Molto [[motifs/well\|bene]]’, ‘andiamo’! Non posso andare, amico, né va molto [[motifs/well\|bene]]. Anzi, penso che sia una tristizia, e comincio a trovarmi gabbato. |
+| [[characters/iago\|IAGO]] | Molto [[motifs/well\|bene]]. |
+| [[characters/roderigo\|RODERIGO]] | Vi dico che non va molto [[motifs/well\|bene]]. Mi farò conoscere a [[characters/desdemona\|Desdemona]]. Se mi restituirà i miei gioielli, rinuncerò al mio corteggiamento e mi pentirò dell’illecita sollecitazione. Altrimenti, siatene certo, cercherò soddisfazione da voi. |
+| [[characters/iago\|IAGO]] | Ora avete detto. |
+| [[characters/roderigo\|RODERIGO]] | Sì, e non ho detto nulla che non protesti d’aver intenzione di fare. |
+| [[characters/iago\|IAGO]] | Ebbene, ora vedo che c’è tempra in te, e da questo istante costruisco su di te un’opinione migliore che mai prima. Dammi la mano, [[characters/roderigo\|Roderigo]]. Hai mosso contro di me un’obiezione giustissima, e tuttavia protesto d’aver agito assai lealmente nel tuo affare. |
+| [[characters/roderigo\|RODERIGO]] | Non è apparso. |
+| [[characters/iago\|IAGO]] | Concedo, in verità, che non è apparso, e il vostro sospetto non è privo d’ingegno e di giudizio. Ma, [[characters/roderigo\|Roderigo]], se hai davvero in te ciò che ho ora maggior ragione di credere che mai—intendo proposito, [[concepts/courage\|coraggio]] e valore—questa [[motifs/night\|notte]] mostralo. Se la [[motifs/night\|notte]] seguente non godrai [[characters/desdemona\|Desdemona]], toglimi da questo mondo col tradimento, e macchina ordigni per la mia vita. |
+| [[characters/roderigo\|RODERIGO]] | [[motifs/well\|Bene]], che cos’è? È nei limiti della ragione e della possibilità? |
+| [[characters/iago\|IAGO]] | Signore, è giunta una commissione speciale da [[settings/venice\|Venezia]] per deputare [[characters/cassio\|Cassio]] al posto di [[characters/othello\|Otello]]. |
+| [[characters/roderigo\|RODERIGO]] | È vero? Ebbene allora [[characters/othello\|Otello]] e [[characters/desdemona\|Desdemona]] tornano a [[settings/venice\|Venezia]]. |
+| [[characters/iago\|IAGO]] | Oh no, egli va in Mauritania, e porta seco la bella [[characters/desdemona\|Desdemona]], a meno che il suo soggiorno qui non sia prolungato da qualche accidente, nel che nulla può essere tanto risolutivo quanto la rimozione di [[characters/cassio\|Cassio]]. |
+| [[characters/roderigo\|RODERIGO]] | Che intendete per ‘rimozione’ di lui? |
+| [[characters/iago\|IAGO]] | Ma, rendendolo incapace del posto di [[characters/othello\|Otello]]—facendogli saltare le cervella. |
+| [[characters/roderigo\|RODERIGO]] | E questo vorreste che facessi io. |
+| [[characters/iago\|IAGO]] | Sì, se osate procurarvi un profitto e un diritto. Cena stanotte con una sgualdrina, e là andrò da lui. Non sa ancora della sua onorevole fortuna. Se vorrete spiare la sua uscita di là, che farò cadere fra le dodici e l’una, potrete coglierlo a vostro piacere. Io sarò vicino, a secondare il vostro tentativo, ed egli cadrà fra noi due. Su, non restate lì stupito, ma venite con me. Vi mostrerò tale necessità nella sua [[motifs/death\|morte]] che vi crederete obbligato a dargliela. È ormai alto il [[motifs/time\|tempo]] della cena, e la [[motifs/night\|notte]] si consuma. All’opera. |
+| [[characters/roderigo\|RODERIGO]] | Voglio udire ulteriori ragioni per questo. |
+| [[characters/iago\|IAGO]] | E sarete soddisfatto. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/othello\|Otello]], [[characters/desdemona\|Desdemona]], Lodovico, [[characters/emilia\|Emilia]] e i servitori |
+| LODOVICO | Vi supplico, signore, non incomodatevi oltre. |
+| [[characters/othello\|OTELLO]] | Oh, perdonatemi, mi farà bene camminare. |
+| LODOVICO | (a [[characters/desdemona\|Desdemona]])<br>Madonna, buona [[motifs/night\|notte]]. Ringrazio umilmente vostra signoria. |
+| [[characters/desdemona\|DESDEMONA]] | Il vostro [[concepts/honour\|onore]] è il benvenuto. |
+| [[characters/othello\|OTELLO]] | Volete camminare, signore?<br>Oh, [[characters/desdemona\|Desdemona]]! |
+| [[characters/desdemona\|DESDEMONA]] | Mio signore? |
+| [[characters/othello\|OTELLO]] | Andate a letto sull'istante. Sarò di ritorno immediatamente. Congedate la vostra cameriera che è là. Badate che sia fatto. |
+| [[characters/desdemona\|DESDEMONA]] | Lo farò, mio signore. |
+| *(didascalia)* | Escono [[characters/othello\|Otello]], Lodovico e i servitori |
+| [[characters/emilia\|EMILIA]] | Come va ora? Ha l'aria più mite di prima. |
+| [[characters/desdemona\|DESDEMONA]] | Dice che tornerà immantinente.<br>Mi ha comandato d'andare a letto,<br>e mi ha ordinato di congedarti. |
+| [[characters/emilia\|EMILIA]] | Congedarmi? |
+| [[characters/desdemona\|DESDEMONA]] | Fu suo ordine. Perciò, buona [[characters/emilia\|Emilia]],<br>dammi la mia veste da notte, e addio. is<br>Non dobbiamo ora dispiacergli. |
+| [[characters/emilia\|EMILIA]] | Vorrei che non l'aveste mai veduto. |
+| [[characters/desdemona\|DESDEMONA]] | Io no. Il mio [[motifs/love\|amore]] tanto l'approva<br>che perfino la sua ostinazione, i suoi rimproveri, i suoi cipigli—<br>ti prego, sfibbiami—hanno in sé grazia e favore.<br>[[characters/emilia\|Emilia]] aiuta [[characters/desdemona\|Desdemona]] a svestirsi |
+| [[characters/emilia\|EMILIA]] | Ho steso sul letto quelle lenzuola che m'avete chiesto. |
+| [[characters/desdemona\|DESDEMONA]] | Fa lo stesso. In buona [[concepts/faith\|fede]], come sono sciocche le nostre menti!<br>Se io morissi prima di te, ti prego, avvolgimi<br>in una di queste stesse lenzuola. |
+| [[characters/emilia\|EMILIA]] | Suvvia, suvvia, voi parlate a vanvera. |
+| [[characters/desdemona\|DESDEMONA]] | Mia madre aveva una serva che si chiamava Barbara.<br>Era [[motifs/love\|innamorata]], e colui che amava impazzì<br>e l'abbandonò. Ella aveva una canzone del salice.<br>Era una cosa antica, ma esprimeva la sua sorte,<br>ed ella morì cantandola. Quella canzone stanotte<br>non mi vuole uscire di mente. Ho un gran daffare<br>a non andare a reclinare il capo tutto da un lato<br>e cantarla, come la povera Barbara. Ti prego, sbrigati. |
+| [[characters/emilia\|EMILIA]] | Devo andare a prendere la vostra veste da notte? |
+| [[characters/desdemona\|DESDEMONA]] | No. Sfibbiami qui.<br>Questo Lodovico è un bell'uomo. |
+| [[characters/emilia\|EMILIA]] | Un uomo molto avvenente. |
+| [[characters/desdemona\|DESDEMONA]] | Parla [[motifs/well\|bene]]. |
+| [[characters/emilia\|EMILIA]] | Conosco una dama a [[settings/venice\|Venezia]] che avrebbe camminato scalza fino in Palestina per un tocco del suo labbro inferiore. |
+| [[characters/desdemona\|DESDEMONA]] | (canta)<br>‘La povera [[motifs/soul\|anima]] sedeva sospirando sotto un sicomoro,<br>cantate tutti il verde salice.<br>La mano sul petto, il capo sul ginocchio,<br>cantate salice, salice, salice.<br>I freschi ruscelli le correvano accanto e mormoravano i suoi<br>lamenti,<br>cantate salice, salice, salice.<br>Le sue salate [[motifs/tears\|lacrime]] cadevano da lei e ammollivano le pietre,<br>cantate salice’—<br>Riponi questi.—<br>‘salice, salice.’<br>Ti prego, affrettati. Verrà tra poco.<br>‘Cantate tutti il verde salice sia la mia ghirlanda.<br>‘Nessuno lo biasimi, il suo disprezzo io l'approvo’—<br>No, non è questo che segue. Ascolta, chi è che bussa? |
+| [[characters/emilia\|EMILIA]] | È il [[motifs/wind\|vento]]. |
+| [[characters/desdemona\|DESDEMONA]] | (canta)<br>‘Chiamai il mio [[motifs/love\|amore]] falso [[motifs/love\|amore]], ma egli che disse allora?<br>cantate salice, salice, salice.<br>Se io [[settings/court\|corteggio]] più donne, tu giacerai con più uomini.’<br>Dunque, vattene. Buona [[motifs/night\|notte]]. Mi prudono gli occhi. 56<br>Presagisce ciò un pianto? |
+| [[characters/emilia\|EMILIA]] | Non significa né l'uno né l'altro. |
+| [[characters/desdemona\|DESDEMONA]] | L'ho sentito dire. Oh, questi uomini, questi uomini!<br>Credi tu in [[concepts/conscience\|coscienza]]—dimmi, [[characters/emilia\|Emilia]]—<br>che vi siano donne che ingannano i loro mariti<br>in modo così grossolano?<br>EMILIACe ne sono di tali, non c'è dubbio. |
+| [[characters/desdemona\|DESDEMONA]] | Faresti tu una tale azione per tutto il mondo? |
+| [[characters/emilia\|EMILIA]] | Come, voi non la fareste? |
+| [[characters/desdemona\|DESDEMONA]] | No, per questa luce celeste. |
+| [[characters/emilia\|EMILIA]] | Neppure io, per questa luce celeste. Potrei farlo<br>altrettanto [[motifs/well\|bene]] al buio. |
+| [[characters/desdemona\|DESDEMONA]] | Faresti tu una tale azione per tutto il mondo? |
+| [[characters/emilia\|EMILIA]] | Il mondo è cosa immensa. È un gran prezzo<br>per un piccolo vizio. |
+| [[characters/desdemona\|DESDEMONA]] | In [[concepts/truth\|verità]], credo che tu non lo faresti. |
+| [[characters/emilia\|EMILIA]] | In [[concepts/truth\|verità]], credo che lo farei, e lo disfarei dopo averlo fatto. Certo, non farei una cosa simile per un anello a incastro, né per pezze di batista, né per vesti, sottane, né cuffie, né alcun meschino donativo; ma per tutto il mondo intero? Per la pietà di Dio, chi non farebbe becco il proprio marito per farlo monarca? Rischierei il purgatorio per questo. |
+| [[characters/desdemona\|DESDEMONA]] | Ch'io sia maledetta se facessi un tal torto<br>per il mondo intero. |
+| [[characters/emilia\|EMILIA]] | Ma il torto non è che un torto nel mondo, e avendo il mondo per vostra fatica, è un torto nel vostro proprio mondo, e potreste presto raddrizzarlo. |
+| [[characters/desdemona\|DESDEMONA]] | Non credo che esista una donna simile. |
+| [[characters/emilia\|EMILIA]] | Sì, una dozzina, e altrettante<br>in soprappiù da popolare il mondo per cui<br>giocarono.<br>Ma io credo che sia colpa dei loro mariti<br>se le mogli cadono. Poniamo che trascurino i loro doveri,<br>e versino i nostri tesori in grembi stranieri,<br>oppure scoppino in stizzose gelosie,<br>imponendoci restrizioni; o poniamo che ci battano,<br>o riducano per dispetto quanto prima ci davano:<br>ebbene, noi abbiamo fiele; e sebbene abbiamo qualche grazia,<br>pure abbiamo qualche [[concepts/revenge\|vendetta]]. Sappiano i mariti<br>che le loro mogli hanno sensi come loro. Vedono, e odorano,<br>e hanno palato tanto per il dolce quanto per l'aspro,<br>come l'hanno i mariti. Che cos'è che fanno<br>quando ci cambiano con altre? È diporto?<br>Io credo di sì. E l'affetto lo genera?<br>Credo di sì. È fragilità che così erra?<br>Anche questo è vero. E non abbiamo noi affetti,<br>desideri di diporto, e fragilità, come gli uomini?<br>Allora ci trattino [[motifs/well\|bene]], o sappiano<br>che i mali che facciamo, i loro mali ce li insegnano. |
+| [[characters/desdemona\|DESDEMONA]] | Buona [[motifs/night\|notte]], buona [[motifs/night\|notte]]. Dio mi mandi tali costumi<br>non di trarre il male dal male, ma col male emendarmi! Escono |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/iago\|Iago]] e [[characters/roderigo\|Roderigo]] |
+| [[characters/iago\|IAGO]] | Qui, stai dietro questo sporto. Verrà subito.<br>Tieni sguainato il tuo buon stocco, e vibralo a [[motifs/home\|fondo]].<br>Presto, presto, non [[concepts/fear\|temere]] nulla. Sarò al tuo fianco.<br>Ci fa o ci disfa. Pensa a questo,<br>e rendi fermissima la tua risoluzione. |
+| [[characters/roderigo\|RODERIGO]] | Stammi vicino. Potrei fallire nell’impresa. |
+| [[characters/iago\|IAGO]] | Qui alla tua mano. Sii ardito, e prendi posizione. |
+| [[characters/roderigo\|RODERIGO]] | (a parte)<br>Non ho gran devozione per l’impresa,<br>eppure egli m’ha dato ragioni convincenti.<br>Non è che un uomo di meno. Fuori la mia spada—muore! |
+| [[characters/iago\|IAGO]] | (a parte)<br>Ho stropicciato questo giovane foruncolo quasi a vivo,<br>ed egli s’adira. Ora, che egli uccida [[characters/cassio\|Cassio]]<br>o [[characters/cassio\|Cassio]] lui, o che ciascuno uccida l’altro,<br>in ogni modo è mio guadagno. viva [[characters/roderigo\|Roderigo]],<br>egli mi richiama a una larga restituzione<br>d’oro e di gioielli che gli ho carpito<br>come doni per [[characters/desdemona\|Desdemona]].<br>Non dev’essere. Se [[characters/cassio\|Cassio]] resta in vita,<br>egli ha nella sua vita una quotidiana [[concepts/beauty\|bellezza]]<br>che mi fa brutto; e inoltre, il Moro<br>potrebbe svelarmi a lui-là io sto in gran pericolo.<br>No, deve morire. Ma ecco, lo sento venire. |
+| *(didascalia)* | Entra [[characters/cassio\|Cassio]] |
+| [[characters/roderigo\|RODERIGO]] | Conosco il suo passo, è lui. (Attaccando [[characters/cassio\|Cassio]]) [[archetypes/villain\|Furfante]], tu<br>muori. |
+| [[characters/cassio\|CASSIO]] | Quel colpo sarebbe stato davvero mio nemico,<br>se non fosse che la mia giubba è migliore di quel che credi.<br>Farò prova della tua.<br>Pugnala [[characters/roderigo\|Roderigo]], che cade |
+| [[characters/roderigo\|RODERIGO]] | Oh, sono ucciso!<br>[[characters/iago\|Iago]] ferisce [[characters/cassio\|Cassio]] alla gamba da dietro. Esce [[characters/iago\|Iago]] |
+| [[characters/cassio\|CASSIO]] | (cadendo)<br>Sono storpiato per sempre. Aiuto, olà, assassinio, assassinio! |
+| *(didascalia)* | Entra [[characters/othello\|Otello]] [in alto] |
+| [[characters/othello\|OTELLO]] | La voce di [[characters/cassio\|Cassio]]. [[characters/iago\|Iago]] mantiene la parola. |
+| [[characters/roderigo\|RODERIGO]] | Oh, [[archetypes/villain\|furfante]] che sono! |
+| [[characters/othello\|OTELLO]] | È proprio così. |
+| [[characters/cassio\|CASSIO]] | Oh, aiuto, olà! Un lume, un cerusico! |
+| [[characters/othello\|OTELLO]] | È lui. Oh prode [[characters/iago\|Iago]], onesto e giusto,<br>che hai così nobile sentimento del torto fatto al tuo amico—<br>tu mi ammaestri. Bamboccia, il tuo caro giace morto,<br>e il tuo maledetto destino s’affretta. Sgualdrina, io vengo.<br>Dal mio cuore quegl’incanti, i tuoi occhi, sono cancellati.<br>Il tuo letto, macchiato di lussuria, sarà chiazzato del [[motifs/blood\|sangue]] della lussuria. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Entrano Lodovico e Graziano |
+| [[characters/cassio\|CASSIO]] | Olà, nessuna guardia, nessun passante? Assassinio, assassinio! |
+| GRAZIANO | È qualche sciagura. La voce è assai spaventosa. |
+| [[characters/cassio\|CASSIO]] | Oh, aiuto! |
+| LODOVICO | Ascoltate. |
+| [[characters/roderigo\|RODERIGO]] | Oh miserabile [[archetypes/villain\|furfante]]! |
+| LODOVICO | Due o tre gemono. È [[motifs/night\|notte]] fonda.<br>Potrebbero esser finzioni. Reputiamo malsicuro<br>accorrere al grido senza maggior aiuto. |
+| [[characters/roderigo\|RODERIGO]] | Nessuno viene? Allora mi dissanguerò a [[motifs/death\|morte]]. |
+| *(didascalia)* | Entra [[characters/iago\|Iago]] con un lume |
+| LODOVICO | Ascoltate. |
+| GRAZIANO | Eccone uno che viene in camicia, con lume e armi. |
+| [[characters/iago\|IAGO]] | Chi è là? Di chi è questo strepito che grida all’assassinio? |
+| LODOVICO | Non lo sappiamo. |
+| [[characters/iago\|IAGO]] | Non udite un grido? |
+| [[characters/cassio\|CASSIO]] | Qui, qui. Per amor del cielo, aiutatemi. |
+| [[characters/iago\|IAGO]] | Che c’è? |
+| GRAZIANO | (a Lodovico)<br>Questo è l’alfiere di [[characters/othello\|Otello]], se non erro. |
+| LODOVICO | Proprio lui, un uomo assai valoroso. |
+| [[characters/iago\|IAGO]] | (a [[characters/cassio\|Cassio]])<br>Chi siete voi qui che gridate così dolorosamente? |
+| [[characters/cassio\|CASSIO]] | [[characters/iago\|Iago]]—oh, sono rovinato, disfatto da furfanti.<br>Datemi aiuto. |
+| [[characters/iago\|IAGO]] | Ohimè, luogotenente, quali furfanti han fatto questo? |
+| [[characters/cassio\|CASSIO]] | Credo che uno di loro sia qui intorno<br>e non possa fuggire. |
+| [[characters/iago\|IAGO]] | Oh furfanti traditori!<br>(A Lodovico e Graziano)<br>Chi siete voi là? Venite qua e date aiuto. |
+| [[characters/roderigo\|RODERIGO]] | Oh, aiutatemi qua! |
+| [[characters/cassio\|CASSIO]] | Quello è uno di loro. |
+| [[characters/iago\|IAGO]] | (pugnalando [[characters/roderigo\|Roderigo]]) Oh schiavo assassino! Oh [[archetypes/villain\|furfante]]! |
+| [[characters/roderigo\|RODERIGO]] | Oh dannato [[characters/iago\|Iago]]! Oh cane disumano! |
+| [[characters/iago\|IAGO]] | Uccidere gli uomini al buio? Dove sono questi ladri sanguinari?<br>Com’è silenziosa questa città! Olà, assassinio, assassinio!<br>(A Lodovico e Graziano)<br>Chi potreste essere? Siete del bene o del male? |
+| LODOVICO | Come ci proverete, così lodateci. |
+| [[characters/iago\|IAGO]] | Signor Lodovico. |
+| LODOVICO | Lui, signore. |
+| [[characters/iago\|IAGO]] | Vi chiedo [[concepts/mercy\|perdono]]. Ecco [[characters/cassio\|Cassio]] ferito da furfanti. |
+| GRAZIANO | [[characters/cassio\|Cassio]]? |
+| [[characters/iago\|IAGO]] | Come va, fratello? |
+| [[characters/cassio\|CASSIO]] | La mia gamba è tagliata in due. |
+| [[characters/iago\|IAGO]] | Perbacco, il cielo non voglia!<br>Un lume, signori. La fascerò con la mia camicia. |
+| *(didascalia)* | Entra [[characters/bianca\|Bianca]] |
+| [[characters/bianca\|BIANCA]] | Che c’è, olà? Chi è che ha gridato? |
+| [[characters/iago\|IAGO]] | Chi è che ha gridato? |
+| [[characters/bianca\|BIANCA]] | Oh mio caro [[characters/cassio\|Cassio]],<br>mio dolce [[characters/cassio\|Cassio]], oh, [[characters/cassio\|Cassio]], [[characters/cassio\|Cassio]]! |
+| [[characters/iago\|IAGO]] | Oh insigne sgualdrina! [[characters/cassio\|Cassio]], potete sospettare<br>chi possano essere coloro che così vi hanno straziato? 80 |
+| [[characters/cassio\|CASSIO]] | No. |
+| GRAZIANO | Mi duole trovarvi così. Sono andato a cercarvi. |
+| [[characters/iago\|IAGO]] | Prestatemi una giarrettiera. Così. Oh, una sedia,<br>per portarlo via di qua agevolmente! |
+| [[characters/bianca\|BIANCA]] | Ahimè, sviene. Oh, [[characters/cassio\|Cassio]], [[characters/cassio\|Cassio]], [[characters/cassio\|Cassio]]! |
+| [[characters/iago\|IAGO]] | Signori tutti, sospetto che questa spazzatura<br>sia parte in questo oltraggio.<br>Pazienza per un poco, buon [[characters/cassio\|Cassio]]. Venite, venite,<br>prestatemi un lume. (Andando verso [[characters/roderigo\|Roderigo]]) Conosciamo questo volto<br>o no?<br>Ahimè, il mio amico, e mio caro compatriota.<br>[[characters/roderigo\|Roderigo]]? No—sì, certo—oh cielo, [[characters/roderigo\|Roderigo]]! |
+| GRAZIANO | Che, quello di [[settings/venice\|Venezia]]? |
+| [[characters/iago\|IAGO]] | Proprio lui, signore. Lo conoscevate? |
+| GRAZIANO | Conoscerlo? Sì. |
+| [[characters/iago\|IAGO]] | Signor Graziano, imploro il vostro gentile perdono.<br>Questi sanguinosi accidenti scusino i miei modi<br>che così vi trascurarono. |
+| GRAZIANO | Sono lieto di vedervi. |
+| [[characters/iago\|IAGO]] | Come state, [[characters/cassio\|Cassio]]? Oh, una sedia, una sedia! |
+| GRAZIANO | [[characters/roderigo\|Roderigo]]. |
+| [[characters/iago\|IAGO]] | Lui, lui, è lui. |
+| *(didascalia)* | Entrano servitori con una sedia |
+| [[characters/iago\|IAGO]] | Oh, questo è [[motifs/well\|ben]] detto, la sedia!<br>Qualche buon uomo lo porti via di qua con cura.<br>Andrò a chiamare il cerusico del generale. (A [[characters/bianca\|Bianca]]) Quanto a voi,<br>padrona,<br>risparmiate la vostra fatica. Colui che giace qui ucciso, [[characters/cassio\|Cassio]],<br>era mio caro amico. Che rancore c’era fra voi? |
+| [[characters/cassio\|CASSIO]] | Nessuno al mondo, né conosco quell’uomo. |
+| [[characters/iago\|IAGO]] | (a [[characters/bianca\|Bianca]])<br>Che, impallidite? (Ai servitori) Oh, portatelo via<br>dall’aria aperta.<br>(A Lodovico e Graziano)<br>Restate voi, buoni signori. |
+| *(didascalia)* | Escono i servitori con [[characters/cassio\|Cassio]] nella sedia [e con il [[concepts/body\|corpo]] di [[characters/roderigo\|Roderigo]]] |
+| [[characters/iago\|IAGO]] | (A [[characters/bianca\|Bianca]]) Impallidite, padrona?<br>(A Lodovico e Graziano)<br>Notate lo spavento del suo occhio?<br>(A [[characters/bianca\|Bianca]]) Suvvia, se sbarrate gli occhi udremo altro<br>fra poco.<br>(A Lodovico e Graziano)<br>Osservatela [[motifs/well\|bene]]; vi prego, guardatela.<br>Vedete, signori? Suvvia, la colpa<br>parlerà, anche se le lingue fossero fuori uso. |
+| *(didascalia)* | Entra [[characters/emilia\|Emilia]] |
+| [[characters/emilia\|EMILIA]] | Ahimè, che cosa succede? Che cosa succede,<br>marito? |
+| [[characters/iago\|IAGO]] | [[characters/cassio\|Cassio]] è stato qui assalito nel buio<br>da [[characters/roderigo\|Roderigo]] e da compari che sono scampati.<br>È quasi ucciso, e [[characters/roderigo\|Roderigo]] è morto. |
+| [[characters/emilia\|EMILIA]] | Ahimè, buon gentiluomo! Ahimè, buon [[characters/cassio\|Cassio]]! |
+| [[characters/iago\|IAGO]] | Questi sono i frutti del puttaneggiare. Ti prego, [[characters/emilia\|Emilia]],<br>va’ a sapere da [[characters/cassio\|Cassio]] dove ha cenato stanotte.<br>(A [[characters/bianca\|Bianca]]) Che, tremate a questo? |
+| [[characters/bianca\|BIANCA]] | Ha cenato a casa mia, ma non per questo tremo. |
+| [[characters/iago\|IAGO]] | Oh, davvero? Vi ingiungo di venire con me. |
+| [[characters/emilia\|EMILIA]] | (a [[characters/bianca\|Bianca]]) Oh, vergogna su di te, sgualdrina! |
+| [[characters/bianca\|BIANCA]] | Non sono una sgualdrina, ma di vita onesta<br>quanto voi che così m’oltraggiate. |
+| [[characters/emilia\|EMILIA]] | Quanto me? Puah, vergogna su di te! |
+| [[characters/iago\|IAGO]] | Gentili signori, andiamo a veder medicare il povero [[characters/cassio\|Cassio]].<br>(A [[characters/bianca\|Bianca]]) Venite, padrona, dovrete raccontarci un’altra storia.<br>[[characters/emilia\|Emilia]], corri tu alla cittadella<br>e di’ al mio signore e alla mia signora ciò che è accaduto.<br>Volete andare avanti? |
+| *(didascalia)* | Esce [[characters/emilia\|Emilia]] |
+| [[characters/iago\|IAGO]] | (A parte) Questa è la [[motifs/night\|notte]]<br>che o mi fa o mi disfa del tutto. Escono |
+
+### Atto 5, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/othello\|Otello]] con un lume. Scosta una tenda, rivelando [[characters/desdemona\|Desdemona]] addormentata nel suo letto |
+| [[characters/othello\|OTELLO]] | È la causa, è la causa, [[motifs/soul\|anima]] mia.<br>Ch’io non la nomini a voi, caste [[motifs/stars\|stelle]].<br>È la causa. Pure non verserò il suo [[motifs/blood\|sangue]],<br>né sfregerò quella sua pelle più bianca della [[motifs/snow\|neve]],<br>e liscia come alabastro di sepolcro.<br>Pure deve morire, o tradirà altri uomini.<br>Spegni il lume, e poi spegni la luce.<br>Se io ti spengo, fiammeggiante ministro,<br>posso di nuovo ridarti il tuo primo lume<br>ove me ne penta; ma una volta spento il tuo lume,<br>tu sapientissimo modello dell’eccellente [[concepts/nature\|natura]],<br>non so dove sia quel calore prometeico<br>che possa riaccendere il tuo lume. Quando avrò colto la tua<br>[[motifs/rose\|rosa]]<br>non potrò ridarle vitale rigoglio.<br>Dovrà appassire. Ti odorerò sul ramo.<br>[La bacia]<br>O alito balsamico, che quasi persuadi<br>la Giustizia a spezzare la sua spada! Ancora uno, ancora uno.<br>Sii così quando sarai morta, e io ti ucciderò<br>e poi ti [[motifs/love\|amerò]]. Ancora uno, e sarà l’ultimo.<br>La bacia<br>Mai dolcezza fu tanto fatale. Devo piangere,<br>ma sono crudeli [[motifs/tears\|lacrime]]. Questo dolore è celeste,<br>colpisce là dove [[motifs/love\|ama]]. Lei si desta. |
+| [[characters/desdemona\|DESDEMONA]] | Chi è là? [[characters/othello\|Otello]]? |
+| [[characters/othello\|OTELLO]] | Sì, [[characters/desdemona\|Desdemona]]. |
+| [[characters/desdemona\|DESDEMONA]] | Volete venire a letto, mio signore?<br>OTELLOAvete pregato stanotte, Desdemon? |
+| [[characters/desdemona\|DESDEMONA]] | Sì, mio signore. |
+| [[characters/othello\|OTELLO]] | Se vi torna in mente qualche colpa<br>non ancora riconciliata col cielo e con la grazia,<br>implorate subito perdono. |
+| [[characters/desdemona\|DESDEMONA]] | Ahimè, mio signore, che intendete con ciò? |
+| [[characters/othello\|OTELLO]] | [[motifs/well\|Bene]], fatelo, e siate breve. Io passeggerò qui.<br>Non vorrei uccidere il tuo spirito impreparato.<br>No, il cielo non voglia! Non vorrei uccidere la tua [[motifs/soul\|anima]]. |
+| [[characters/desdemona\|DESDEMONA]] | Parlate di uccidere? |
+| [[characters/othello\|OTELLO]] | Sì, di questo. |
+| [[characters/desdemona\|DESDEMONA]] | Allora il cielo<br>abbia [[concepts/mercy\|pietà]] di me. |
+| [[characters/othello\|OTELLO]] | Amen, con tutto il cuore. |
+| [[characters/desdemona\|DESDEMONA]] | Se dite così, [[concepts/hope\|spero]] che non mi ucciderete. |
+| [[characters/othello\|OTELLO]] | Hum! |
+| [[characters/desdemona\|DESDEMONA]] | Eppure vi [[concepts/fear\|temo]], perché siete funesto<br>quando gli occhi vi ruotano così. Perché debba [[concepts/fear\|temere]] non so,<br>giacché colpa non conosco, eppure sento che [[concepts/fear\|temo]]. |
+| [[characters/othello\|OTELLO]] | Pensa ai tuoi peccati. |
+| [[characters/desdemona\|DESDEMONA]] | Sono gli amori che vi porto. |
+| [[characters/othello\|OTELLO]] | Sì, e per questo tu muori. |
+| [[characters/desdemona\|DESDEMONA]] | È innaturale quella [[motifs/death\|morte]] che uccide per amore.<br>Ahimè, perché vi mordete così il labbro inferiore?<br>Qualche sanguinosa passione vi scuote tutte le membra.<br>Sono presagi, ma pure [[concepts/hope\|spero]], [[concepts/hope\|spero]]<br>che non additino me. |
+| [[characters/othello\|OTELLO]] | Taci, e sta’ ferma. |
+| [[characters/desdemona\|DESDEMONA]] | Lo farò. Che c’è? |
+| [[characters/othello\|OTELLO]] | Quel fazzoletto<br>che tanto amavo e ti donai, tu lo desti a [[characters/cassio\|Cassio]]. |
+| [[characters/desdemona\|DESDEMONA]] | No, per la mia vita e la mia [[motifs/soul\|anima]]. Mandate a chiamarlo<br>e chiedeteglielo. |
+| [[characters/othello\|OTELLO]] | Dolce [[motifs/soul\|anima]], bada, bada allo spergiuro.<br>Sei sul tuo letto di morte. |
+| [[characters/desdemona\|DESDEMONA]] | Sì, ma non ancora per morire. |
+| [[characters/othello\|OTELLO]] | Or ora.<br>Perciò confessa liberamente il tuo peccato,<br>ché negare ogni capo d’accusa con giuramento<br>non può rimuovere né soffocare la ferma convinzione<br>sotto cui gemo. Tu devi morire. |
+| [[characters/desdemona\|DESDEMONA]] | Allora il Signore abbia [[concepts/mercy\|pietà]] di me. |
+| [[characters/othello\|OTELLO]] | Io dico amen. |
+| [[characters/desdemona\|DESDEMONA]] | E abbiatene [[concepts/mercy\|pietà]] anche voi. Mai in vita mia<br>vi offesi, mai amai [[characters/cassio\|Cassio]]<br>se non con quella generale licenza del cielo<br>per cui mi era dato [[motifs/love\|amare]]. Mai gli diedi pegno. |
+| [[characters/othello\|OTELLO]] | Per il cielo, vidi il mio fazzoletto nella sua mano.<br>O donna spergiura! Tu mi impietrisci il cuore,<br>e mi fai chiamare ciò che intendo fare<br>un assassinio, che credevo un sacrificio.<br>Vidi il fazzoletto. |
+| [[characters/desdemona\|DESDEMONA]] | Allora l’avrà trovato.<br>Io non gliel’ho mai dato. Mandate a chiamarlo qui.<br>Che confessi la [[concepts/truth\|verità]]. |
+| [[characters/othello\|OTELLO]] | Ha confessato. |
+| [[characters/desdemona\|DESDEMONA]] | Che cosa, mio signore? |
+| [[characters/othello\|OTELLO]] | Che ti ha posseduta. |
+| [[characters/desdemona\|DESDEMONA]] | Come, illecitamente? |
+| [[characters/othello\|OTELLO]] | Sì. |
+| [[characters/desdemona\|DESDEMONA]] | Non lo dirà.<br>OTELLONo, la sua bocca è chiusa.<br>L’onesto [[characters/iago\|Iago]] ha provveduto. |
+| [[characters/desdemona\|DESDEMONA]] | Oh, la mia [[concepts/fear\|paura]] interpreta! Come, è morto? |
+| [[characters/othello\|OTELLO]] | Fossero state vite tutti i suoi capelli, la mia gran [[concepts/revenge\|vendetta]]<br>avrebbe avuto fame per tutte. |
+| [[characters/desdemona\|DESDEMONA]] | (piangendo)<br>Ahimè, egli è tradito, e io rovinata. |
+| [[characters/othello\|OTELLO]] | Via, sgualdrina! Piangi per lui in faccia a me? |
+| [[characters/desdemona\|DESDEMONA]] | Oh, bandiscimi, mio signore, ma non uccidermi. |
+| [[characters/othello\|OTELLO]] | (aggredendola) Giù, sgualdrina. |
+| [[characters/desdemona\|DESDEMONA]] | Uccidimi domani; lasciami vivere stanotte. |
+| [[characters/othello\|OTELLO]] | No, se ti dibatti— |
+| [[characters/desdemona\|DESDEMONA]] | Solo mezz’ora. |
+| [[characters/othello\|OTELLO]] | Una volta iniziato, non c’è indugio. |
+| [[characters/desdemona\|DESDEMONA]] | Solo il tempo d’una [[motifs/prayer\|preghiera]]. |
+| [[characters/othello\|OTELLO]] | È troppo tardi.<br>La soffoca |
+| DESDEMONAO | Signore, Signore, Signore!<br>[[characters/emilia\|Emilia]] alla porta |
+| [[characters/emilia\|EMILIA]] | (da dentro)<br>Mio signore, mio signore, olà, mio signore, mio signore! |
+| [[characters/othello\|OTELLO]] | Che rumore è questo? Non morta? Non ancora del tutto morta?<br>Io che son crudele sono pure pietoso.<br>Non vorrei che indugiassi nel tuo [[motifs/pain\|dolore]].<br>Così, così. |
+| [[characters/emilia\|EMILIA]] | (da dentro) Olà, mio signore, mio signore!<br>OTELLOChi è là? |
+| [[characters/emilia\|EMILIA]] | (da dentro)<br>Oh, mio buon signore, vorrei dirvi una parola. |
+| [[characters/othello\|OTELLO]] | (chiamando)<br>Sì.—È [[characters/emilia\|Emilia]]. (Chiamando) Subito!—Lei è morta.<br>Verrà forse a parlare della [[motifs/death\|morte]] di [[characters/cassio\|Cassio]].<br>Il chiasso era grande. Ah! Non si muove più.<br>Immobile come la [[motifs/grave\|tomba]]. Deve entrare? Sarà bene?<br>Mi pare che si agiti ancora. No. Che è meglio fare?<br>Se entra, parlerà certo a mia moglie.<br>Mia moglie, mia moglie! Che moglie? Non ho più moglie.<br>Oh insopportabile, oh ora greve!<br>Mi pare che ora dovrebbe esserci un’immensa eclisse<br>di sole e di [[motifs/moon\|luna]], e che il globo atterrito<br>dovesse spalancarsi al mutamento. |
+| [[characters/emilia\|EMILIA]] | (da dentro) Vi supplico<br>che io possa parlarvi. Oh, mio buon signore! |
+| [[characters/othello\|OTELLO]] | Ti avevo dimenticata.—Oh, entra, [[characters/emilia\|Emilia]].—<br>Piano, subito. Ch’io tiri le cortine.<br>Chiude le cortine del letto<br>Dove sei?<br>Apre la porta. Entra [[characters/emilia\|Emilia]]<br>Che cos’hai ora? |
+| [[characters/emilia\|EMILIA]] | Oh mio buon signore, laggiù s’è commesso un turpe assassinio. |
+| [[characters/othello\|OTELLO]] | Come, adesso? |
+| [[characters/emilia\|EMILIA]] | Proprio adesso, mio signore. |
+| [[characters/othello\|OTELLO]] | È proprio lo sviamento della [[motifs/moon\|luna]],<br>che s’avvicina alla terra più del solito,<br>e fa impazzire gli uomini. |
+| [[characters/emilia\|EMILIA]] | [[characters/cassio\|Cassio]], mio signore, ha ucciso un giovane veneziano<br>chiamato [[characters/roderigo\|Roderigo]]. |
+| [[characters/othello\|OTELLO]] | [[characters/roderigo\|Roderigo]] ucciso<br>e [[characters/cassio\|Cassio]] ucciso? |
+| [[characters/emilia\|EMILIA]] | No, [[characters/cassio\|Cassio]] non è ucciso. |
+| [[characters/othello\|OTELLO]] | [[characters/cassio\|Cassio]] non ucciso? Allora l’assassinio è stonato,<br>e la dolce [[concepts/revenge\|vendetta]] si fa aspra. |
+| [[characters/desdemona\|DESDEMONA]] | Oh, ingiustamente, ingiustamente assassinata! |
+| [[characters/emilia\|EMILIA]] | O Signore, che grido è questo? |
+| [[characters/othello\|OTELLO]] | Quello? Che cosa? |
+| [[characters/emilia\|EMILIA]] | Ahimè, ahimè, quella era la voce della mia signora! |
+| *(didascalia)* | Apre le cortine del letto |
+| [[characters/emilia\|EMILIA]] | Aiuto, aiuto, olà, aiuto ! O signora, parlate ancora!<br>Dolce [[characters/desdemona\|Desdemona]], o dolce padrona, parlate! |
+| [[characters/desdemona\|DESDEMONA]] | Muoio d’una [[motifs/death\|morte]] innocente. |
+| [[characters/emilia\|EMILIA]] | Oh, chi ha compiuto quest’atto? |
+| [[characters/desdemona\|DESDEMONA]] | Nessuno, io stessa. Addio.<br>Raccomandami al mio buon signore. Oh, addio! Muore |
+| [[characters/othello\|OTELLO]] | Ma come potrebbe essere stata assassinata? |
+| [[characters/emilia\|EMILIA]] | Ahimè, chi lo sa? |
+| [[characters/othello\|OTELLO]] | L’avete udita dire lei stessa che non fui io. |
+| [[characters/emilia\|EMILIA]] | Così disse, devo pur riferire la [[concepts/truth\|verità]]. |
+| [[characters/othello\|OTELLO]] | È andata all’inferno ardente come una bugiarda.<br>Fui io a ucciderla. |
+| [[characters/emilia\|EMILIA]] | Oh, tanto più angelo lei, e voi tanto più nero diavolo! |
+| [[characters/othello\|OTELLO]] | Si volse alla lussuria, ed era una puttana. |
+| [[characters/emilia\|EMILIA]] | Tu la calunni, e tu sei un diavolo. |
+| [[characters/othello\|OTELLO]] | Era falsa come l’[[motifs/water\|acqua]]. |
+| [[characters/emilia\|EMILIA]] | Tu sei avventato come il [[motifs/fire\|fuoco]]<br>a dire che era falsa. Oh, era celestialmente fedele! |
+| [[characters/othello\|OTELLO]] | [[characters/cassio\|Cassio]] la montò. Chiedilo a tuo marito.<br>Oh, sarei dannato sotto ogni fondo d’inferno<br>se non avessi proceduto su giusti fondamenti<br>a questo estremo! Tuo marito sapeva tutto. |
+| [[characters/emilia\|EMILIA]] | Mio marito? |
+| [[characters/othello\|OTELLO]] | Tuo marito. |
+| [[characters/emilia\|EMILIA]] | Che era infedele al talamo? |
+| [[characters/othello\|OTELLO]] | Sì, con [[characters/cassio\|Cassio]]. Fosse stata fedele,<br>se il cielo mi facesse un altro mondo simile<br>d’un solo crisolito intero e perfetto,<br>non l’avrei venduta per esso. |
+| [[characters/emilia\|EMILIA]] | Mio marito? |
+| [[characters/othello\|OTELLO]] | Sì, fu lui il primo a parlarmene.<br>È un uomo onesto, e odia la melma<br>che s’attacca alle azioni immonde. |
+| [[characters/emilia\|EMILIA]] | Mio marito? |
+| [[characters/othello\|OTELLO]] | Che serve questo ripetere? Donna, dico tuo marito. |
+| [[characters/emilia\|EMILIA]] | O padrona, la scelleratezza s’è fatta beffe dell’[[motifs/love\|amore]].<br>Mio marito dice che era falsa? |
+| [[characters/othello\|OTELLO]] | Lui, donna.<br>Dico tuo marito. Capisci la parola?<br>Il mio amico, tuo marito, l’onesto, onesto [[characters/iago\|Iago]]. |
+| [[characters/emilia\|EMILIA]] | Se dice questo, che la sua [[motifs/soul\|anima]] perniciosa<br>marcisca mezzo grano al giorno. Mente fino in fondo al cuore.<br>Era troppo innamorata del suo immondissimo baratto. |
+| [[characters/othello\|OTELLO]] | Ah? |
+| [[characters/emilia\|EMILIA]] | Fa’ il tuo peggio.<br>Quest’atto tuo non è più degno del cielo<br>di quanto tu fossi degno di lei. |
+| [[characters/othello\|OTELLO]] | Taci, sarà meglio per te. |
+| [[characters/emilia\|EMILIA]] | Non hai metà del potere di farmi male<br>che io ho di soffrirlo. O gonzo, o zuccone,<br>ignorante come il fango! Hai compiuto un atto—<br>non m’importa della tua spada, ti farò conoscere<br>anche perdessi venti vite. Aiuto, aiuto, olà Aiuto!<br>Il Moro ha ucciso la mia padrona. All’assassinio, all’assassinio! |
+| *(didascalia)* | Entrano Montano, Graziano e [[characters/iago\|Iago]] |
+| MONTANO | Che succede? Ebbene, generale? |
+| [[characters/emilia\|EMILIA]] | Oh, siete venuto, [[characters/iago\|Iago]]? Avete fatto [[motifs/well\|bene]],<br>se gli uomini devono addossarvi i loro assassinii. |
+| GRAZIANO | Che succede? |
+| [[characters/emilia\|EMILIA]] | (a [[characters/iago\|Iago]])<br>Smentisci questo [[archetypes/villain\|scellerato]] se sei un uomo.<br>Dice che tu gli dicesti che sua moglie era falsa.<br>So che non lo facesti. Non sei un tale [[archetypes/villain\|scellerato]].<br>Parla, ché il mio cuore è colmo. |
+| [[characters/iago\|IAGO]] | Gli dissi ciò che pensavo, e non dissi più<br>di quanto lui stesso trovò verosimile e vero. |
+| [[characters/emilia\|EMILIA]] | Ma gli avete mai detto che era falsa? |
+| IACO | L’ho fatto. |
+| [[characters/emilia\|EMILIA]] | Avete detto una menzogna, un’odiosa, dannata menzogna,<br>sull’[[motifs/soul\|anima]] mia una menzogna, una malvagia menzogna.<br>Lei falsa con [[characters/cassio\|Cassio]]? Avete detto con [[characters/cassio\|Cassio]]? |
+| [[characters/iago\|IAGO]] | Con [[characters/cassio\|Cassio]], signora. Suvvia, frenate la lingua. |
+| [[characters/emilia\|EMILIA]] | Non frenerò la mia lingua. Sono tenuta a parlare.<br>La mia padrona giace qui assassinata nel suo letto. |
+| *(didascalia)* | MONTANO e GRAZIANO Il cielo non voglia! |
+| [[characters/emilia\|EMILIA]] | (a [[characters/iago\|Iago]])<br>E i vostri rapporti hanno istigato l’assassinio. |
+| [[characters/othello\|OTELLO]] | No, non sbarrate gli occhi, signori. È proprio vero. |
+| GRAZIANO | È una strana [[concepts/truth\|verità]]. |
+| MONTANO | O atto mostruoso! |
+| [[characters/emilia\|EMILIA]] | Scelleratezza, scelleratezza, scelleratezza!<br>Ci penso, ci penso. La fiuto. Oh scelleratezza!<br>Lo pensai allora. Mi ucciderò dal dolore.<br>Oh scelleratezza, scelleratezza! |
+| [[characters/iago\|IAGO]] | Come, siete pazza? Vi ordino di andarvene a [[motifs/home\|casa]]. |
+| [[characters/emilia\|EMILIA]] | Buoni signori, concedetemi di parlare.<br>È giusto ch’io gli obbedisca, ma non ora.<br>Forse, [[characters/iago\|Iago]], non tornerò mai più a [[motifs/home\|casa]]. |
+| [[characters/othello\|OTELLO]] | Oh, oh, oh!<br>[[characters/othello\|Otello]] cade sul letto |
+| [[characters/emilia\|EMILIA]] | Sì, sdraiati pure e ruggisci,<br>ché hai ucciso la più dolce [[archetypes/innocent\|innocente]]<br>che mai alzasse occhio. |
+| *(didascalia)* | [[characters/othello\|OTELLO]] alzandosi  Oh, era immonda! |
+| [[characters/emilia\|EMILIA]] | (A Graziano) A stento vi riconoscevo, zio. Là giace<br>vostra nipote,<br>il cui respiro davvero queste mani hanno or ora<br>arrestato.<br>So che quest’atto appare orribile e truce |
+| GRAZIANO | Povera Desdemon, sono lieto che tuo padre sia morto.<br>Il tuo matrimonio gli fu mortale, e il puro dolore<br>recise in due il suo vecchio filo. Vivesse ora,<br>questa vista gli farebbe compiere un atto disperato,<br>sì, maledire e scacciare dal suo fianco l’angelo migliore,<br>e cadere in dannazione. |
+| [[characters/othello\|OTELLO]] | È cosa pietosa. Eppure [[characters/iago\|Iago]] sa<br>che lei con [[characters/cassio\|Cassio]] ha compiuto l’atto vergognoso<br>mille volte. [[characters/cassio\|Cassio]] l’ha confessato,<br>e lei ricompensò le sue amorose opere<br>con quel segno e pegno d’[[motifs/love\|amore]]<br>che io per primo le diedi. L’ho visto nella sua mano.<br>Era un fazzoletto, un antico ricordo<br>che mio padre diede a mia madre. |
+| [[characters/emilia\|EMILIA]] | O Dio! O Dio celeste! |
+| [[characters/iago\|IAGO]] | Per le piaghe di Cristo, tacete! |
+| [[characters/emilia\|EMILIA]] | Verrà fuori, verrà fuori. Io tacere?<br>No, parlerò libera come il vento del nord.<br>Che il cielo, e gli uomini, e i diavoli, che tutti,<br>tutti, tutti gridino vergogna contro di me, pure parlerò. |
+| [[characters/iago\|IAGO]] | Siate savia e andatevene a [[motifs/home\|casa]]. |
+| [[characters/emilia\|EMILIA]] | Non lo farò.<br>[[characters/iago\|Iago]] sguaina la spada |
+| GRAZIANO | (a [[characters/iago\|Iago]]) Vergogna, la vostra spada contro una donna? |
+| [[characters/emilia\|EMILIA]] | O tu ottuso Moro, quel fazzoletto di cui parli<br>io lo trovai per caso e lo diedi a mio marito,<br>ché spesso, con solenne insistenza—<br>più di quanto invero convenisse a tal bagattella—<br>mi supplicò di rubarlo. |
+| [[characters/iago\|IAGO]] | Scellerata puttana! |
+| [[characters/emilia\|EMILIA]] | Lei darlo a [[characters/cassio\|Cassio]]? No, ahimè, io lo trovai,<br>e lo diedi a mio marito. |
+| [[characters/iago\|IAGO]] | Lurida, tu menti. |
+| [[characters/emilia\|EMILIA]] | Per il cielo non mento, non mento, signori.<br>O assassino zerbinotto! Che se ne farebbe un tale [[archetypes/fool\|sciocco]]<br>d’una moglie così buona? |
+| [[characters/othello\|OTELLO]] | Non ci sono pietre in cielo<br>se non quelle che servono al tuono? Prezioso [[archetypes/villain\|scellerato]]!<br>Il Moro si avventa su lago. Montano disarma [[characters/othello\|Otello]]. [[characters/iago\|Iago]] ferisce la moglie |
+| GRAZIANO | La donna cade. Certo ha ucciso sua moglie. |
+| [[characters/emilia\|EMILIA]] | Sì, sì. Oh, deponetemi al fianco della mia padrona! |
+| *(didascalia)* | Esce lago |
+| GRAZIANO | È fuggito, ma sua moglie è uccisa. |
+| MONTANO | È un [[archetypes/villain\|scellerato]] famigerato. Prendete quest’arma<br>che ho qui strappata al Moro.<br>Venite, sorvegliate la porta di fuori. Non lasciatelo passare,<br>ma piuttosto uccidetelo. Io inseguirò quello stesso [[archetypes/villain\|scellerato]],<br>ché è uno schiavo dannato. Escono Montano e Graziano |
+| [[characters/othello\|OTELLO]] | Non sono nemmeno più valoroso,<br>ma ogni gracile spadaccino mi toglie la spada.<br>Ma perché l’[[concepts/honour\|onore]] dovrebbe sopravvivere all’onestà?<br>Vada tutto perduto. |
+| [[characters/emilia\|EMILIA]] | Che presagiva la tua canzone, signora?<br>Ascolta, puoi udirmi? Farò il cigno,<br>e morirò in musica. (Canta) «Salice, salice, salice.»—<br>Moro, era casta. Ti amava, crudele Moro.<br>Così la mia [[motifs/soul\|anima]] giunga alla beatitudine com’è vero che dico il vero.<br>Così, parlando come penso, ahimè, muoio. Muore |
+| [[characters/othello\|OTELLO]] | Ho un’altra arma in questa camera.<br>Era una spada di Spagna, temprata nel ruscello gelato.<br>Oh, eccola. (Chiamando) Zio, devo uscire. |
+| GRAZIANO | (da dentro)<br>Se lo tenti, ti costerà caro.<br>Non hai arma, e per forza dovrai subire. |
+| [[characters/othello\|OTELLO]] | Guarda dentro allora, e parla con me,<br>o, inerme come sono, ti assalirò. |
+| *(didascalia)* | Entra Graziano |
+| GRAZIANO | Che succede? |
+| [[characters/othello\|OTELLO]] | Guarda, ho un’arma;<br>una migliore mai si posò<br>sulla coscia d’un soldato. Ho visto il giorno<br>in cui, con questo piccolo braccio e questa buona spada,<br>mi son fatto strada fra più ostacoli<br>di venti volte il vostro sbarramento. Ma oh, vano vanto!<br>Chi può governare il proprio destino? Ora non è più così.<br>Non temete, benché mi vediate armato.<br>Qui è la fine del mio [[motifs/journey\|viaggio]], qui è la mia meta<br>e il segnale estremo della mia ultima vela.<br>Indietreggiate sgomento? È [[concepts/fear\|paura]] sprecata.<br>Armate un giunco contro il petto di [[characters/othello\|Otello]]<br>ed egli si ritira. Dove andrà [[characters/othello\|Otello]]?<br>(A [[characters/desdemona\|Desdemona]]) Ora, come appari adesso? O sventu-<br>rata fanciulla,<br>pallida come la tua veste! Quando ci incontreremo al giudizio<br>questo tuo sguardo scaglierà la mia [[motifs/soul\|anima]] dal cielo,<br>e i demoni l’afferreranno. |
+| *(didascalia)* | La tocca |
+| [[characters/othello\|OTELLO]] | Fredda, fredda, mia ragazza,<br>proprio come la tua castità. O maledetto, maledetto schiavol<br>Frustatemi, o diavoli,<br>via dal possesso di questa celeste visione.<br>Sbattetemi nei venti, arrostitemi nello zolfo,<br>lavatemi in abissi a picco di [[motifs/fire\|fuoco]] liquido!<br>O Desdemon! Desdemon morta! Morta! 0! 0! |
+| *(didascalia)* | Entrano Lodovico, Montano, [[characters/iago\|Iago]] sotto la guardia degli ufficiali, con [[characters/cassio\|Cassio]] su una sedia |
+| LODOVICO | Dov’è quest’uomo avventato e sventuratissimo? |
+| [[characters/othello\|OTELLO]] | È colui che fu [[characters/othello\|Otello]]. Eccomi. |
+| LODOVICO | Dov’è quella vipera? Conducete avanti lo [[archetypes/villain\|scellerato]]. |
+| [[characters/othello\|OTELLO]] | Guardo giù verso i suoi piedi, ma è una [[forms/fable\|favola]].<br>(A [[characters/iago\|Iago]]) Se sei un diavolo non posso ucciderti.<br>Ferisce [[characters/iago\|Iago]] |
+| LODOVICO | Strappategli la spada.<br>Gli ufficiali disarmano [[characters/othello\|Otello]] |
+| [[characters/iago\|IAGO]] | Sanguino, signore, ma non sono ucciso. |
+| [[characters/othello\|OTELLO]] | E non me ne dolgo. Vorrei che tu vivessi,<br>ché per il mio sentire è felicità morire. |
+| LODOVICO | O tu [[characters/othello\|Otello]], che un tempo fosti così buono,<br>caduto nelle trame d’uno schiavo maledetto,<br>che ti si dovrà dire? |
+| [[characters/othello\|OTELLO]] | Ma, qualunque cosa;<br>un assassino onorevole, se volete,<br>ché nulla feci per odio, ma tutto per [[concepts/honour\|onore]]. |
+| LODOVICO | Questo miserabile ha in parte confessato la sua scelleratezza.<br>Foste tu e lui d’accordo sulla [[motifs/death\|morte]] di [[characters/cassio\|Cassio]]? |
+| [[characters/othello\|OTELLO]] | Sì. |
+| [[characters/cassio\|CASSIO]] | Caro generale, non ve ne diedi mai motivo. |
+| [[characters/othello\|OTELLO]] | Lo credo, e vi chiedo perdono.<br>Volete, vi prego, chiedere a quel mezzo diavolo<br>perché abbia così irretito la mia [[motifs/soul\|anima]] e il mio [[concepts/body\|corpo]]? |
+| [[characters/iago\|IAGO]] | Non chiedetemi nulla. Ciò che sapete, lo sapete.<br>Da questo [[motifs/time\|momento]] in poi non dirò mai più parola. |
+| LODOVICO | (a [[characters/iago\|Iago]]) Come, nemmeno per pregare? |
+| GRAZIANO | (a [[characters/iago\|Iago]]) I tormenti ti apriranno le labbra. |
+| [[characters/othello\|OTELLO]] | [[motifs/well\|Bene]], fai benissimo. |
+| LODOVICO | Signore, saprete ciò che è accaduto,<br>e che, credo, non conoscete. Ecco una lettera,<br>trovata nella tasca dell’ucciso [[characters/roderigo\|Roderigo]],<br>ed eccone un’altra. Una di esse riguarda<br>la [[motifs/death\|morte]] di [[characters/cassio\|Cassio]], da compiersi<br>per mano di [[characters/roderigo\|Roderigo]]. |
+| [[characters/othello\|OTELLO]] | O [[archetypes/villain\|scellerato]]! |
+| [[characters/cassio\|CASSIO]] | Cosa da pagani e turpissima. |
+| LODOVICO | Ed ecco un altro foglio pieno di malcontento<br>trovato anch’esso in tasca sua, e questo pare<br>che [[characters/roderigo\|Roderigo]] volesse mandare a questo dannato [[archetypes/villain\|scellerato]],<br>senonché, a quanto pare, [[characters/iago\|Iago]] nel frattempo<br>sopraggiunse e lo soddisfece. |
+| [[characters/othello\|OTELLO]] | (a [[characters/iago\|Iago]]) O tu pernicioso furfante!<br>Come vi giunse, [[characters/cassio\|Cassio]], quel fazzoletto<br>che era di mia moglie? |
+| [[characters/cassio\|CASSIO]] | Lo trovai nella mia camera,<br>ed egli stesso l’ha confessato, proprio ora,<br>che là lo lasciò cadere per un particolare disegno<br>che riuscì al suo [[motifs/desire\|desiderio]]. |
+| [[characters/othello\|OTELLO]] | O [[archetypes/fool\|sciocco]], [[archetypes/fool\|sciocco]], [[archetypes/fool\|sciocco]]! |
+| [[characters/cassio\|CASSIO]] | C’è inoltre nella lettera di [[characters/roderigo\|Roderigo]]<br>come egli rimproveri [[characters/iago\|Iago]] d’averlo indotto<br>a sfidarmi durante la guardia, donde avvenne<br>che fui destituito; e proprio ora ha parlato,<br>dopo esser parso a lungo morto: [[characters/iago\|Iago]] lo ferì,<br>[[characters/iago\|Iago]] lo aizzò. |
+| LODOVICO | (a [[characters/othello\|Otello]])<br>Dovete lasciare questa stanza e venire con noi.<br>Il vostro potere e il vostro comando vi sono tolti,<br>e [[characters/cassio\|Cassio]] governa a Cipro. Quanto a questo schiavo,<br>se esiste una crudeltà ingegnosa<br>che possa tormentarlo molto e tenerlo a lungo,<br>sarà per lui. Voi resterete stretto prigioniero<br>finché la [[concepts/nature\|natura]] della vostra colpa non sia nota<br>allo stato veneziano. (Agli ufficiali) Venite, portatelo via. |
+| [[characters/othello\|OTELLO]] | Piano, una parola o due prima che andiate.<br>Ho reso allo stato qualche servigio, e lo sanno.<br>Basta con questo. Vi prego, nelle vostre lettere,<br>quando riferirete questi infelici fatti,<br>parlate di me quale sono. Nulla attenuate,<br>né aggiungete nulla per malizia. Allora dovrete parlare<br>d’uno che amò non saggiamente ma troppo [[motifs/well\|bene]],<br>d’uno non facile alla gelosia ma che, una volta aizzato,<br>si smarrì all’estremo; d’uno la cui mano,<br>come il vile indiano, gettò via una perla<br>più ricca di tutta la sua tribù; d’uno i cui occhi domati,<br>benché non usi a intenerirsi,<br>stillano [[motifs/tears\|lacrime]] rapide come gli alberi d’Arabia<br>la loro gomma medicinale. Scrivete questo,<br>e dite inoltre che una volta in Aleppo,<br>dove un maligno Turco dal turbante<br>batteva un veneziano e vituperava lo stato,<br>presi per la gola quel cane circonciso<br>e lo colpii così.<br>Si pugnala |
+| LODOVICO | O sanguinosa conclusione! |
+| GRAZIANO | Tutto ciò che è detto è guastato. |
+| [[characters/othello\|OTELLO]] | (a [[characters/desdemona\|Desdemona]])<br>Ti baciai prima di ucciderti. Non altra via che questa:<br>uccidendo me stesso, morire su un bacio.<br>Bacia [[characters/desdemona\|Desdemona]] e muore |
+| [[characters/cassio\|CASSIO]] | Questo [[concepts/fear\|temevo]], ma credevo non avesse arma,<br>ché era grande di cuore. |
+| LODOVICO | (a [[characters/iago\|Iago]]) O cane spartano,<br>più crudele dell’angoscia, della fame o del mare,<br>guarda il tragico carico di questo letto.<br>È opera tua. L’oggetto avvelena la vista.<br>Sia nascosto. |
+| *(didascalia)* | Chiudono le cortine del letto |
+| LODOVICO | Graziano, custodite la casa,<br>e prendete possesso dei beni del Moro,<br>ché a voi spettano per successione. (A [[characters/cassio\|Cassio]]) A voi, Signor<br>Governatore,<br>resta la condanna di questo infernale [[archetypes/villain\|scellerato]].<br>Il [[motifs/time\|tempo]], il luogo, la tortura, oh, applicatela!<br>Io stesso m’imbarcherò subito, e allo stato<br>riferirò con cuore greve questo greve atto. |
+| *(didascalia)* | Escono con il corpo di [[characters/emilia\|Emilia]]l |
+| LA [[concepts/history\|STORIA]] DI [[archetypes/king\|RE]] | LEAR |
 
 
 
@@ -4169,9 +5614,6 @@ The [[forms/tragedy|Tragedy]] of [[characters/othello|Othello]] the Moor of [[se
 | LODOVICO | Graziano, keep the house,<br>And seize upon the fortunes of the Moor,<br>For they succeed on you. (To [[characters/cassio\|Cassio]]) To you, Lord<br>Governor,<br>Remains the censure of this hellish [[archetypes/villain\|villain]].<br>The [[motifs/time\|time]], the place, the torture, O, enforce it!<br>Myself will straight aboard, and to the state<br>This heavy act with heavy heart relate. |
 | *(didascalia)* | Exeunt with [[characters/emilia\|Emilia]]’s bodyl |
 | THE [[concepts/history\|HISTORY]] OF [[archetypes/king\|KING]] | LEAR |
-| THE QUARTO TEXT | [[characters/king-lear\|King Lear]] first appeared in print in a quarto of 1608. A substantially different text appeared in the 1623 Folio. Until the first appearance of the [[settings/oxford\|Oxford]] text, editors, assuming that each of these early texts imperfectly represented a single play, conflated them. But research conducted mainly during the 1970s and 1980s confirms an earlier view that the 1608 quarto represents the play as Shakespeare originally wrote it, and the 1623 Folio as he substantially revised it. He revised other plays, too, but usually by making many small changes in the dialogue and adding or omitting passages, as in [[characters/hamlet\|Hamlet]], [[characters/troilus\|Troilus]] and [[characters/cressida\|Cressida]], and [[characters/othello\|Othello]]. For these plays we print the revised text in so far as it can be ascertained. But in [[characters/king-lear\|King Lear]] revisions are not simply local but structural, too; conflation, as Harley Granville-Barker wrote, ‘may make for redundancy or confusion’, so we print an edited version of each text. The first, printed in the following pages, represents the play as Shakespeare first conceived it, probably before it was performed.<br>The story of a [[archetypes/king\|king]] who, angry with the failure of his virtuous youngest daughter ([[characters/cordelia\|Cordelia]]) to respond as he desires in a [[motifs/love\|love]]-test, divides his kingdom between her two malevolent sisters (Gonoril and [[characters/regan\|Regan]]), had been often told; Shakespeare would have come upon it in Holinshed’s Chronicles and in A [[motifs/mirror\|Mirror]] for Magistrates while reading for his plays on English [[concepts/history\|history]]. It is told also (though briefly) in [[characters/edmund\|Edmund]] Spenser’s Faerie Queene (Book 2, canto 10), and had been dramatized in a play of unknown authorship—The True Chronicle [[concepts/history\|History]] of [[archetypes/king\|King]] Leir and his three daughters—published in 1605, but probably written some fifteen years earlier. This play particularly gave Shakespeare much, including suggestions for the characters of Lear’s loyal servant, [[characters/kent\|Kent]], and of Gonoril’s husband, Albany, and her steward, Oswald; for the [[motifs/storm\|storm]]; for Lear’s kneeling to [[characters/cordelia\|Cordelia]]; and for many details of language. Nevertheless, his play is a highly original creation. Lear’s [[concepts/madness\|madness]] and the harrowing series of disasters in [[characters/king-lear\|King Lear]]’s final stages are of Shakespeare’s invention, and he complicates the plot by adding the story (based on an episode of Sir Philip Sidney’s Arcadia) of [[characters/gloucester\|Gloucester]] and his two sons, [[characters/edmund\|Edmund]] and [[characters/edgar\|Edgar]]. [[characters/edgar\|Edgar]]’s [[motifs/love\|love]] and loyalty to the father who, failing to see the [[concepts/truth\|truth]], has rejected him in favour of the villainous [[characters/edmund\|Edmund]] makes him a counterpart to [[characters/cordelia\|Cordelia]]; and the horrific blinding of [[characters/gloucester\|Gloucester]] brought about by [[characters/edmund\|Edmund]] creates a physical parallel to Lear’s [[concepts/madness\|madness]] which reaches its consummation in the scene (Sc. 20) at Dover Cliff when the mad and the blind old men commune together.<br>The clear-eyed intensity of Shakespeare’s tragic vision in [[characters/king-lear\|King Lear]] has been too much for some audiences, and Nahum Tate’s adaptation, which gave the play a happy ending, held the stage from 1681 to 1843; since then, increased understanding of Shakespeare’s stagecraft along with a greater seriousness in theatre audiences has assisted in the rehabilitation of a play that is now recognized as one of the profoundest of all artistic explorations of the human condition.<br><br>In the text which follows, the Quarto scene numbers are followed by the equivalent Folio act and scene numbers in parentheses. There is no equivalent to Sc. 17 in the Folio. |
-| THE PERSONS OF THE | PLAY<br>LEAR, [[archetypes/king\|King]] of Britain<br>GONORIL, Lear’s eldest daughter<br>Duke of ALBANY, her husband<br>[[characters/regan\|REGAN]], Lear’s second daughter<br>Duke of CORNWALL, her husband<br>[[characters/cordelia\|CORDELIA]], Lear’s youngest daughter<br>Earl of [[characters/kent\|KENT]], later disguised as Caius<br>Earl of [[characters/gloucester\|GLOUCESTER]]<br>[[characters/edgar\|EDGAR]], elder son of [[characters/gloucester\|Gloucester]], later disguised as Tom o’ Bedlam<br>[[characters/edmund\|EDMUND]], bastard son of [[characters/gloucester\|Gloucester]] |
-| OLD | MAN, a tenant of [[characters/gloucester\|Gloucester]]<br>CURAN, [[characters/gloucester\|Gloucester]]’s retainer<br>Lear’s [[archetypes/fool\|FOOL]]<br>OSWALD, Gonoril’s steward<br>Three SERVANTS of Cornwall<br>DOCTOR, attendant on [[characters/cordelia\|Cordelia]]<br>Three CAPTAINS<br>A HERALD<br>A KNIGHT<br>A MESSENGER<br>Gentlemen, servants, soldiers, followers, trumpeters, others |
 
 
 <span class="qlang-split" data-lang="it"></span>

@@ -39,6 +39,33 @@ And [[motifs/water|water]] is on the Bishop's board and the Higher Thinker's shr
 But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Vino e [[motifs/water|Acqua]]
+
+di G.K.Chesterton
+
+Il vecchio Noè aveva un allevamento di struzzi e polli su vastissima scala,
+mangiava l'uovo con un mestolo in un portauovo grande come un secchio,
+e la zuppa che prendeva era Zuppa d'Elefante e il pesce che prendeva era Balena,
+ma tutto ciò era poca cosa rispetto alla cantina che imbarcò quando salpò,
+e Noè diceva spesso a sua moglie quando sedeva a pranzo,
+"Non m'importa dove vada l'[[motifs/water|acqua]], purché non finisca nel vino."
+
+La cateratta della rupe del cielo cadde accecante giù dall'orlo
+come volesse lavar via le [[motifs/stars|stelle]] come schiuma che scende in un lavello,
+i sette cieli precipitarono ruggendo perché le gole dell'inferno bevessero,
+e Noè strizzò l'occhio e disse: "Sembra pioggia, mi pare,
+l'[[motifs/water|acqua]] ha sommerso il Cervino fondo come una miniera del Mendip,
+ma non m'importa dove vada l'[[motifs/water|acqua]], purché non finisca nel vino."
+
+Ma Noè peccò, e noi abbiamo peccato; su piedi malfermi camminammo,
+finché un grande grosso astemio nero ci fu mandato come castigo,
+e non trovi vino a una P.S.A., né in cappella, né a un Eisteddfod,
+ché la Maledizione dell'[[motifs/water|Acqua]] è tornata per l'ira di Dio,
+e l'[[motifs/water|acqua]] è sulla mensa del Vescovo e al sacrario del Pensatore Superiore,
+ma non m'importa dove vada l'[[motifs/water|acqua]], purché non finisca nel vino.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="wine-and-water (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/stars,motif/water"></span>

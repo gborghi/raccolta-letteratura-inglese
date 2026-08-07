@@ -140,6 +140,45 @@ or other normal amusements of mankind.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[archetypes/child|Psicologia infantile]] e nonsenso
+
+di G.K. Chesterton
+
+Questo [[forms/essay|saggio]] apparve per la prima volta sull'Illustrated [[settings/london|London]] News
+il 15 ottobre 1921.
+
+----------------------------------------------------------------------------
+
+In quest'epoca di psicologia [[archetypes/child|infantile]] nessuno presta la minima attenzione all'effettiva psicologia del [[archetypes/child|bambino]]. Tutto ciò che pare contare è la psicologia dello psicologo e la particolare teoria o corrente di pensiero che egli sostiene contro un altro psicologo. Gran parte dell'arte e della letteratura oggi magnificamente fabbricata per i bambini non è nemmeno onestamente pensata per piacere ai bambini. L'[[archetypes/artist|artista]] a stento si degnerebbe di far ridere un neonato se nessun altro ridesse, o anche solo ascoltasse. Queste cose non sono pensate per piacere al [[archetypes/child|bambino]]. Nel migliore dei casi sono pensate per piacere all'[[archetypes/lover|amante]] dei [[archetypes/child|bambini]]. Nel peggiore sono esperimenti di metodo educativo scientifico. Liriche belle, sagge e argute come quelle del «[[motifs/garden|giardino]] di versi di un [[archetypes/child|bambino]]» di Stevenson rimarranno sempre una pura e vivace fonte di piacere — per le persone adulte. Ma il punto di molte di esse non solo è tale che un [[archetypes/child|bambino]] non potrebbe coglierlo, è tale che a un [[archetypes/child|bambino]] non si dovrebbe permettere di coglierlo —
+
+Il [[archetypes/child|bambino]] che non è pulito e composto,
+Con tanti giocattoli e cose da mangiare,
+È un [[archetypes/child|bambino]] cattivo, ne son certo,
+Oppure il suo caro papà è povero.
+
+Nessun [[archetypes/child|bambino]] dovrebbe comprendere l'abisso spaventoso di quel ripensamento. Nessun [[archetypes/child|bambino]] potrebbe comprendere, senza essere uno snob o un riformatore sociale o qualcosa di orribile, l'ironia di quell'allusione alle disuguaglianze e iniquità con cui questo mondo malvagio ha insultato la sacra dignità della paternità. Il [[archetypes/child|bambino]] che sapesse davvero sorridere a quel verso sarebbe capace di mettersi immediatamente a scrivere un [[forms/novel|romanzo]] alla Gissing, e poi di impiccarsi alla colonnina del letto della nursery. Ma né Stevenson né alcun stevensoniano (e io rivendico di essere un buon stevensoniano) sognò mai davvero di aspettarsi che un [[archetypes/child|bambino]] sorridesse a quella poesia. Era il poeta che sorrideva al [[archetypes/child|bambino]], il che è cosa del tutto diversa, benché forse altrettanto bella a suo modo. E tale è il carattere di tutta questa nuova letteratura per l'infanzia. Ha l'oggetto legittimo e persino onorevole di educare l'adulto all'apprezzamento dei neonati. È cosa eccellente insegnare a uomini e donne a trarre piacere dai bambini, ma è cosa del tutto diversa dal dare piacere ai bambini.
+
+Ora, le vecchie filastrocche erano onestamente rivolte a dare piacere ai bambini. Molte di esse hanno genuini elementi di poesia, ma non sono in primo luogo pensate per essere poesia, perché sono semplicemente pensate per essere piacere. In questo senso «Hey Diddle Diddle» è qualcosa di ben più di un idillio. È un capolavoro di psicologia, un modello classico e perfetto di [[concepts/education|educazione]]. La cadenza e il tintinnio di essa sono esattamente del tipo che un neonato può sentire come una melodia e trasformare in una [[motifs/dance|danza]]. Le sue immagini sono esattamente ciò che occorre ai primi moti dell'[[concepts/imagination|immaginazione]] quando essa sperimenta l'incongruità. Poiché è piena di oggetti familiari in fantastica congiunzione. Il [[archetypes/child|bambino]] ha visto una mucca e ha visto la [[motifs/moon|luna]]. Ma l'idea che l'una salti sopra l'altra gli è probabilmente nuova ed è, nel senso più nobile, insensata. Gatti e cani e piatti e cucchiai sono tutti i suoi compagni quotidiani e persino i suoi amici, ma gli dà una sorta di fresca sorpresa e felicità pensarli in partenza per una vacanza così singolare. Non imparerebbe proprio nulla dai nostri tentativi di trovare una fine sfumatura di umorismo nell'economia politica del povero papà, anche se il povero papà fosse romanticamente occupato non a saltare sopra la [[motifs/moon|luna]], ma almeno a spararle.
+
+Naturalmente c'è molto più di questo in «Hey Diddle Diddle». La mucca che salta sopra la [[motifs/moon|luna]] non è solo una fantasia assai adatta ai bambini, è un tema assai degno dei poeti. L'avventura lunare potrà apparire ad alcuni un'avventura lunatica, ma è una di quelle attorno a cui l'[[concepts/imagination|immaginazione]] dell'uomo ha sempre ruotato, specialmente l'[[concepts/imagination|immaginazione]] di figure romantiche come Ariosto e Cyrano de Bergerac. L'idea che il bestiame possa volare ha ricevuto un [[concepts/sublime|sublime]] trattamento immaginativo. Il toro alato non solo cammina, come scuotendo la terra, tra le rovine della scultura assira, ma addirittura volteggiò e fiammeggiò in cielo come simbolo apocalittico di san Luca. Ciò che combina immaginazioni tanto istintive e antiche, in un'unica fantasia tanto semplice e tanto chiara, non è certo privo della materia prima della poesia. E l'idea generale, che è quella di una sorta di cosmico Saturnale, o stagione in cui tutto può accadere, è essa stessa un'idea che ha ossessionato l'umanità in cento forme, alcune delle quali forme squisitamente artistiche.
+
+Sarebbe facile giustificare un gran numero delle altre filastrocche, nella stessa vena di una critica d'arte più seria. Se mi si chiedesse di citare quattro versi che bastino a illustrare ciò che è stato chiamato la ragione immaginativa, quando essa si leva quasi a sfiorare una irragionevolezza priva d'immaginazione (poiché quel punto di contatto è la poesia), mi accontenterei di citare quattro versi che stavano in un libro illustrato della mia stessa nursery —
+
+L'uomo nel deserto mi domandò,
+Quante fragole crescono nel mare?
+Gli risposi, come mi parve giusto:
+«Tante aringhe rosse quante ne crescono nel bosco.»
+
+Tutto in ciò è poetico; dalla scura figura ultraterrena dell'uomo del [[motifs/desert|deserto]], con i suoi misteriosi indovinelli, al perfetto amalgama di logica e visione che crea belle immagini perfino nel dimostrarle impossibili. Ma questa qualità artistica, benché presente, non è primaria; lo scopo primario è il divertimento dei bambini. E noi non stiamo divertendo i bambini; stiamo divertendo noi stessi con i bambini.
+
+I nostri padri aggiungevano un tocco di [[concepts/beauty|bellezza]] a tutte le cose pratiche, e così introdussero belle figure fantastiche e ritmi che saltellano e danzano, ammirabili perfino dagli uomini adulti, in ciò che anzitutto e praticamente avevano concepito per il godimento dei bambini. Ma non sempre lo facevano, e mai pensarono che fosse il loro scopo principale. Ciò che facevano sempre era creare uno svago adatto ai piccoli; ciò che non facevano mai era mutarlo in un'ironia intelligibile solo ai grandi. Una filastrocca era come un tavolino o un armadietto da bambini--una cosa costruita per un preciso scopo umano. Vedevano chiaro il loro fine e lo raggiungevano. Scrivevano autentiche sciocchezze e avevano cura di renderle del tutto insensate.
+
+Poiché vi sono due modi di trattare le sciocchezze a questo mondo. Uno è metterle al posto giusto, come quando si mettono sciocchezze nelle filastrocche. L'altro è metterle al posto sbagliato, come quando le si mette in discorsi pedagogici, critiche psicologiche e lamentele contro le filastrocche o gli altri normali svaghi dell'umanità.
+
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Child (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/lover,motif/dance,motif/desert,motif/garden,motif/moon,concept/education,concept/imagination,concept/sublime,form/essay,form/novel,setting/desert,setting/london"></span>

@@ -763,6 +763,323 @@ from the ceiling, and the metaphysician prostrated by the downfall of the
 lamp.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quando un buon vino riempie il mio stomaco,  
+sono più sapiente di Balzac.
+Più saggio di Pibrac;  
+Con un solo braccio potrei attaccare  
+l’intera nazione cosaca  
+e la metterei in rotta;  
+attraverserei il lago di Caronte  
+dormendo tranquillamente nella sua barca;  
+andrei fino al fiero Eaco,  
+senza che il mio cuore battesse.
+Per offrirgli del tabacco.  
+—_Vaudeville francese_
+
+
+Quel Pierre [[works/bon-bon-(poe)|Bon-Bon]] era un _ristoratore_ di qualifiche insolite; nessuno, infatti, che durante il regno di, frequentasse quel piccolo caffè nel vicolo Le Febre a Rouen, si sentirebbe autorizzato a metterlo in dubbio. Che Pierre [[works/bon-bon-(poe)|Bon-Bon]] fosse altresì profondo nella filosofia di quell’epoca è, credo, ancora più innegabile. I suoi _paté_ erano senza dubbio impeccabili; ma quale penna potrebbe rendere giustizia ai suoi saggi sulla Natura, alle sue riflessioni sull’Anima, alle sue osservazioni sull’Intelletto? Se le sue omelette, i suoi fricandeaux fossero stati davvero inestimabili, quale _letterato_ di quel tempo non avrebbe dato il doppio per un’unica “idea” di Pierre Bon-Bon rispetto a tutte le sciocchezze prodotte da tutti gli altri “sapienti”? Pierre Bon-Bon aveva esplorato biblioteche che nessun altro aveva mai visitato; aveva una conoscenza più vasta di qualsiasi altro; aveva compreso cose che pochi avrebbero mai ritenuto possibili comprendere. E anche se, al suo tempo, a Rouen c’erano alcuni autori che sostenevano che le sue idee non riflettessero né la purezza dell’Accademia né la profondità del Liceo, anche se le sue dottrine non erano affatto facilmente comprensibili, ciò non significa che fossero impossibili da comprendere. Penso che sia proprio per la loro evidenza intrinseca che molte persone le considerassero oscure. È a Pierre Bon-Bon, soprattutto, che Kant deve gran parte della sua metafisica. Il primo, infatti, non era un platonico, né propriamente un aristotelico; e non sprecava certo quelle preziose ore che avrebbero potuto essere dedicate allo studio di questioni pratiche o all’analisi delle sensazioni, in tentativi vani di conciliare le opposte posizioni nella discussione etica. Assolutamente no. Pierre Bon-Bon era un pensatore originale e completo: ragionava sia _a priori_ che _a posteriori_. Le sue idee erano innate, o forse no? Credeva in Giorgio di Trebisonda, credeva anche in Bessarione. In definitiva, Pierre Bon-Bon era, un vero Bon-Bonista.
+
+Ho parlato del filosofo nella sua veste di _ristoratore_. Tuttavia, non vorrei che nessuno dei miei amici pensasse che, nell’adempiere ai propri doveri ereditari in questa professione, il nostro [[archetypes/hero|eroe]] desiderasse una vera e propria apprezzazione della dignità e dell’importanza di tali compiti. Lontano da ciò. Era impossibile stabilire in quale ambito della sua attività provasse maggiore [[concepts/pride|orgoglio]]. A suo parere, le facoltà intellettive erano strettamente legate alle capacità digestive. Anzi, non sono sicuro che dissentisse molto dai cinesi, i quali ritenevano che l’[[motifs/soul|'anima]] risiedesse nell’addome. I Greci, comunque, avevano ragione: usavano infatti le stesse parole per indicare sia la mente che il diaframma. (*1*) Non intendo certo insinuare accuse di gola o qualsiasi altro grave rimprovero a danno di questo metafisico. Se Pierre [[works/bon-bon-(poe)|Bon-Bon]] aveva i suoi difetti – e quale grande uomo, del resto, non ne ha mille? – beh, questi difetti erano di scarsa rilevanza; anzi, in altre persone sarebbero stati spesso considerati virtù. Per quanto riguarda uno di questi piccoli vizi. Non l’avrei nemmeno menzionato in questa [[concepts/history|storia]] se non per la notevole evidenza con cui spiccava rispetto al resto del suo carattere. Non perdeva mai un’occasione per contrattare affari vantaggiosi.
+
+{*1} MD
+
+Non che fosse avaro, no. Affatto necessario non era che l’accordo fosse vantaggioso esclusivamente per lui, per soddisfare i desideri di quel filosofo. Bastava che si potesse concludere un affare – qualsiasi tipo di affare, con qualsiasi condizione o in qualsiasi circostanza – e per molti giorni dopo si poteva vedere sul suo volto un sorriso trionfante che ne illuminava l’espressione, e uno sguardo complice che testimoniava la sua saggezza.
+
+In qualsiasi epoca, non sarebbe stato affatto straordinario se uno humor così particolare come quello che ho appena menzionato attirasse l’attenzione e suscitasse commenti. Nell’epoca della nostra narrazione, se questa peculiarità non avesse destato osservazioni, ci sarebbe davvero stato motivo di [[concepts/wonder|stupore]]. Presto si diffuse la notizia che, in tutte le occasioni del genere, il sorriso di [[works/bon-bon-(poe)|Bon-Bon]] differiva notevolmente dal ghigno aperto con cui rideva delle proprie barzellette o accoglieva un conoscente. Si facevano allusioni a una natura eccitabile; si raccontavano storie di affari pericolosi conclusi in fretta e poi rimpianti con calma; venivano addirittura citati esempi di capacità inspiegabili, desideri vaghi e inclinazioni innaturali, tutti frutto delle “sagge” intenzioni dell’autore di tutto il male.
+
+Il filosofo aveva altre debolezze, ma queste difficilmente meritano un nostro esame serio. Ad esempio, sono pochi gli uomini di straordinaria profondità che non presentino anche una certa inclinazione verso il vino. Che questa inclinazione sia una causa di eccitazione o piuttosto una prova concreta di tale profondità, be’, è una questione interessante da discutere. Per quanto ne so, [[works/bon-bon-(poe)|Bon-Bon]] non riteneva che questo argomento fosse adatto a un’analisi approfondita; nemmeno io la penso così. Tuttavia, nell’appagare una propensione tanto tipicamente “classica”, non si può certo pensare che il ristoratore perdesse quella capacità di discernimento intuitivo che caratterizzava, allo stesso tempo, sia i suoi saggi che le sue creazioni culinarie. Nei suoi momenti di solitudine, il [[motifs/time|Vino di Borgogna]] aveva la sua ora dedicata, così come i vini della regione del Rhone. Per lui, lo Sauterne era al Medoc ciò che Catullo era per Omero: con un sorso di St. Peray poteva “giocare” con un sillogismo, mentre analizzando il Clos de Vougeot scopriva nuove verità, e con un bicchiere di Chambertin smontava intere teorie. Sarebbe stato davvero bello se lo stesso senso della misura fosse stato presente anche nella sua propensione al commercio, di cui ho già parlato in precedenza, ma questo, ovviamente, non era affatto il caso. A dire il vero, quella caratteristica del filosofo [[works/bon-bon-(poe)|Bon-Bon]] finì per assumere un’insolita intensità e un certo misticismo, e sembrava profondamente influenzata dalle sue letture preferite in tedesco.
+
+Per entrare in quel piccolo _caffè_ situato nel _vicolo cieco_, all’epoca della nostra storia, significava entrare nel santuario di un uomo geniale. [[works/bon-bon-(poe)|Bon-Bon]] era davvero un uomo geniale; non esisteva a Rouen un solo aiuto cuoco che non fosse in grado di dirvi che [[works/bon-bon-(poe)|Bon-Bon]] era un genio. Anche il suo gatto lo sapeva, e si asteneva dal scodinzolare in presenza di quell’uomo straordinario. Il suo grande cane acquatico era a conoscenza di questo fatto, e al sopraggiungere del suo padrone dimostrava la propria inferiorità con un comportamento rispettoso, abbassando le orecchie e lasciando pendere la mandibola in modo davvero degno di un cane. Tuttavia, gran parte di questo rispetto dovuto alla sua personalità poteva anche essere attribuito al suo aspetto esteriore. Devo ammettere che un aspetto distinto ha il potere di influenzare persino gli animali; sono disposto ad ammettere che molte delle caratteristiche esteriori di quel ristoratore fossero studiate apposta per impressionare l’[[concepts/imagination|immaginazione]] dei suoi clienti. C’è una sorta di maestosità particolare nell’atmosfera di quel piccolo “grande luogo” – se mi è permesso usare un’espressione così ambigua – che la semplice dimensione fisica, da sola, non riuscirebbe mai a creare. Tuttavia, anche se [[works/bon-bon-(poe)|Bon-Bon]] era alto appena poco più di un metro e aveva una testa particolarmente piccola, era impossibile non notare la rotondità del suo ventre, e non provare un senso di maestosità che rasentava il [[concepts/sublime|sublime]]. Per dimensioni, sia i cani che gli uomini dovevano riconoscere in lui l’espressione concreta dei suoi successi; per grandezza, un luogo degno della sua immortalità.
+
+Potrei qui – se così mi piacesse – soffermarmi più ampiamente sull’aspetto esteriore di questo personaggio e su altre circostanze puramente materiali legate alla sua apparenza. Potrei accennare che i capelli del nostro [[archetypes/hero|eroe]] erano tagliati corti, pettinati con cura sulla fronte, e completati da un cappello bianco di flanella a forma conica e frange; che il suo giubbotto di colore verde pisello non seguiva la moda allora in voga tra i ristoratori comuni; che le maniche erano più larghe di quanto consentisse l’abbigliamento dell’epoca; che i polsini erano rialzati, e non come era solito in quel periodo barbaro, con tessuto dello stesso colore del giubbotto, ma rivestiti in modo più elaborato con velluto colorato di Genova; che le sue pantofole erano di un viola brillante, finemente lavorate, e probabilmente prodotte in Giappone, se non fosse stato per la raffinata forma delle punte e i vivaci colori dei bordi e degli ornamenti; che i suoi calzoni erano fatti di un materiale simile al satin giallo chiamato “aimable”; che il suo mantello blu cielo, dalla forma simile a quella di un involucro da indossare dopo il bagno, era riccamente decorato con motivi rossi; e che l’insieme del suo abbigliamento spinse la poetessa fiorentina Benevenuta a esclamare: “È difficile dire se Pierre [[works/bon-bon-(poe)|Bon-Bon]] sia davvero un uccello del Paradiso, o piuttosto un paradiso di perfezione”. Potrei, insomma, approfondire tutti questi dettagli se lo desiderassi, ma mi astengo: lascio che siano gli scrittori di romanzi storici a occuparsene; tali particolari sono infatti al di sotto della dignità morale di un resoconto oggettivo.
+
+Ho detto che “entrare nel _café_ situato nella _rue senza uscita_ Le Febre significava entrare nel santuario di un uomo di genio”. Ma solo un uomo di genio poteva davvero apprezzare appieno i meriti di quel “santuario”. All’ingresso pendeva un cartello formato da un enorme foglio di carta; su un lato era raffigurata una bottiglia, sull’altro un _paté_. Sul retro, in caratteri grandi, si leggeva _Œuvres de Bon-Bon_. In questo modo veniva delicatamente evidenziata la doppia attività del proprietario.
+
+Appena superata la soglia, l’intero interno dell’edificio si aprì davanti ai suoi occhi. Una stanza lunga e dal soffitto basso, costruita in stile antico, costituiva effettivamente tutto lo spazio disponibile nel _café_. In un angolo dell’appartamento si trovava il letto del metafisico: una serie di tende, insieme a un baldacchino in stile greco, gli conferivano un aspetto al tempo stesso classico e confortevole. Nell’angolo opposto, le funzioni della cucina e della _biblioteca_ sembravano fondersi armoniosamente tra loro. Su uno scaffale era posata una serie di opere polemiche; lì dentro c’era un forno pieno delle ultime ricerche in campo etico, mentre accanto a esso si trovava una pentola contenente vari _miscugli_. Volumi di morale tedesca erano disposti accanto alla griglia per tostare; accanto a Eusebio poteva essere trovata un forchetta da tostare, mentre Platone sembrava riposare tranquillamente all’interno di una padella. I manoscritti contemporanei, invece, erano ordinatamente conservati su uno spiedino.
+
+In altri aspetti, il _Café de Bon-Bon_ potrebbe essere considerato poco diverso dai soliti ristoranti dell’epoca. Davanti alla porta c’era un caminetto; a destra del caminetto, un armadio aperto mostrava una vasta collezione di bottiglie etichettate.
+
+Fu qui, intorno alle dodici di una [[motifs/night|notte]], durante quel terribile [[motifs/winter|,inverno]] del ——, che Pierre [[works/bon-bon-(poe)|Bon-Bon]], dopo aver ascoltato i commenti dei suoi vicini riguardo alla sua strana abitudine. Insomma, Pierre [[works/bon-bon-(poe)|Bon-Bon]], dopo aver cacciato tutti fuori dalla sua casa, chiuse la porta a chiave con un giuramento e si ritirò in una poltrona di pelle, davanti a un [[motifs/fire|focolare]] pieno di ceppi ardenti.
+
+Era una di quelle terribili notti che si incontrano solo una o due volte in un secolo. Nevicava intensamente, e la casa tremava pericolosamente sotto i colpi dei venti impetuosi che, penetrando nelle fessure delle pareti e scendendo con forza nel camino, facevano oscillare violentemente le tende del letto del filosofo, disordinando completamente i suoi pentole e i suoi documenti. L’enorme cartello in foglio grosso, sospeso all’esterno e esposto alla furia della tempesta, scricchiolava in modo sinistro, emettendo un suono lamentoso dai suoi supporti di quercia massiccia.
+
+Non era certo in vena serena il metafisico quando sistemò la sua sedia al solito posto vicino al camino. Durante la giornata erano accadute molte circostanze di natura complessa e confusa che avevano disturbato la tranquillità delle sue meditazioni. Nel tentativo di preparare gli “uova alla Principessa”, aveva purtroppo ottenuto un risultato simile a quello degli “uova alla Regina”; la scoperta di un principio etico era stata ostacolata dal fallimento nella preparazione di una zuppa; e, infine, non meno importante, era stato frustrato in uno di quei negoziamenti vantaggiosi che gli procuravano sempre grande soddisfazione. Ma, nel suo sconforto per queste avversità inspiegabili, non mancava certo quella sorta di ansia nervosa che la furia di una notte turbolenta è particolarmente capace di suscitare. Fischiettando vicino al grande cane nero di cui avevamo parlato prima, si sistemò a disagio sulla sedia e non poté fare a meno di lanciare occhiate diffidenti verso quelle parti remote dell’appartamento le cui ombre inesorabili nemmeno la luce rossa del fuoco riusciva a dissipare completamente. Dopo aver esaminato attentamente quegli oggetti, il cui vero scopo forse gli stesso non comprendeva appieno, avvicinò al proprio posto un piccolo tavolo coperto di libri e documenti, e presto si immerse nel lavoro di revisione di un manoscritto voluminoso destinato alla pubblicazione il giorno seguente.
+
+Era così impegnato da alcuni minuti quando, all’improvviso, una voce lamentosa sussurrò nell’appartamento: “Non ho alcuna fretta, Monsieur [[works/bon-bon-(poe)|Bon-Bon]]”.
+
+“Dio mio!” esclamò il nostro [[archetypes/hero|eroe]], alzandosi in piedi di scatto, rovesciando la sedia accanto a lui e guardandosi intorno con stupore.
+
+“Assolutamente vero,” rispose calmo quella voce.
+
+“Assolutamente vero! — cosa è assolutamente vero? — Come sei arrivato qui?” gridò il metafisico, quando i suoi occhi si posarono su qualcosa che giaceva disteso completamente sul letto.
+
+“Stavo dicendo,” disse l'intruso, senza prestare attenzione alle domande, “che non ho affatto fretta, che la questione per cui mi sono preso la libertà di chiamarvi non è di alcuna importanza urgente. In breve, posso aspettare tranquillamente finché non avrete terminato la vostra spiegazione.”
+
+
+“La mia esposizione! Ecco qua. Come fai a saperlo? Come hai capito che stavo scrivendo un’esposizione? Mio Dio!”
+
+
+“Zitta!” rispose la figura con un tono acuto; poi, alzandosi rapidamente dal letto, fece un passo verso il nostro [[archetypes/hero|eroe]], mentre una lampada di ferro appesa sopra la sua testa oscillava violentemente a causa della sua vicinanza.
+
+Lo stupore del filosofo non gli impedì di esaminare attentamente l’abbigliamento e l’aspetto dello sconosciuto. I contorni della sua figura, estremamente snella ma decisamente più alta della media, erano chiaramente visibili grazie a un abito nero logoro che aderiva strettamente al corpo, pur essendo tagliato secondo lo stile di un secolo fa. Quell’abbigliamento era evidentemente destinato a una persona molto più bassa del suo attuale proprietario: i suoi polsi e le caviglie erano scoperti per diversi centimetri. Tuttavia, gli scarponi presentavano delle fibbie molto lucide, il che contraddiceva l’estrema povertà che suggerivano le altre parti del suo abbigliamento. La sua testa era completamente calva, ad eccezione di una parte posteriore dove spuntava una lunga ciocca di capelli. Un paio di occhiali verdi con lenti laterali proteggevano i suoi occhi dalla luce, impedendoci al contempo di distinguere il loro colore o la loro forma. Non c’era traccia di camicia addosso; solo un colletto bianco, di aspetto sporco, era legato con estrema cura intorno al collo, e i suoi bordi pendevano regolarmente ai lati, dando l’impressione – anche se probabilmente senza volerlo – di una figura ecclesiastica. Molti altri dettagli del suo aspetto e del suo comportamento avrebbero potuto confermare questa impressione. Sopra l’orecchio sinistro portava, come fanno i moderni impiegati, uno strumento simile allo stilo degli antichi. Nel taschino del suo cappotto spiccava chiaramente un piccolo libro nero fissato con delle fibbie di acciaio; sul dorso era scritto a caratteri bianchi “Rituel Catholique”. L’intera sua fisionomia aveva un aspetto cupo e pallido; la fronte era alta e profondamente solcata dalle rughe della riflessione. Gli angoli della bocca erano piegati in un’espressione di estrema umiltà. Mentre si avvicinava al nostro eroe, strinse le mani, emise un profondo sospiro e mostrò un’aria di totale santità che non poteva lasciare dubbi sulla sua natura. Ogni traccia di rabbia scomparve dal volto di quel filosofo: dopo aver esaminato attentamente l’aspetto dello sconosciuto, gli strinse cordialmente la mano e lo invitò a sedersi.
+
+Tuttavia, sarebbe un errore radicale attribuire questo improvviso cambiamento di sentimenti nel filosofo a una qualsiasi delle cause che potrebbero naturalmente essere considerate responsabili di tale cambiamento. Infatti, Pierre [[works/bon-bon-(poe)|Bon-Bon]], da quanto ho potuto comprendere della sua natura, era tra tutte le persone la meno suscettibile di essere ingannato da qualsiasi apparente comportamento esteriore. Era impossibile che un osservatore così attento delle persone e delle cose non riuscisse immediatamente a individuare la vera natura della persona che aveva così invaso la sua ospitalità. Per non dire altro, le caratteristiche fisiche del suo visitatore erano sufficientemente strane: teneva in testa un cappello insolitamente alto, presentava un leggero rigonfiamento nella parte posteriore dei suoi calzoni, e il movimento della sua sciarpa era evidente a tutti. Immaginate quindi con quale senso di soddisfazione il nostro [[archetypes/hero|eroe]] si trovò improvvisamente in compagnia di una persona verso la quale aveva sempre nutrito il massimo rispetto. Tuttavia, essendo troppo diplomatico, non lasciò trapelare alcuna traccia dei suoi sospetti riguardo alla vera situazione. Non era il momento per mostrare di essere consapevole dell’onore inaspettato che gli veniva concesso; al contrario, cercò di introdurre la conversazione su argomenti etici importanti, che, se pubblicati, avrebbero potuto illuminare l’umanità e, allo stesso tempo, renderlo immortale. Argomenti che, devo aggiungere, la grande età del suo visitatore e la sua notevole competenza nella scienza morale gli avrebbero certamente permesso di affrontare con successo.
+
+Spinto da queste idee illuminate, il nostro [[archetypes/hero|eroe]] invitò il gentiluomo a sedersi, mentre lui stesso aggiunse alcuni ceppi al [[motifs/fire|fuoco]] e posizionò sul tavolo alcune bottiglie di _Mousseux_. Dopo aver rapidamente completato queste operazioni, si mise a sedere di fronte al suo compagno, in attesa che questi iniziasse la conversazione. Ma anche i piani più accuratamente preparati spesso falliscono fin dall’inizio della loro attuazione. E il _ristoratore_ si trovò completamente impreparato davanti alle prime parole del suo visitatore.
+
+“Vedo che mi conosci, [[works/bon-bon-(poe)|Bon-Bon]],” disse; “ah! ah! ah!—ah! ah! ah!—eh!
+eh! eh!—oh! oh! oh!—uh! uh! uh!”—e il diavolo, abbandonando all’improvviso la sua aria sacra, aprì la bocca dalla testa ai piedi, mostrando una serie di denti affilati e simili a zanne; poi, gettando indietro la testa, rise a lungo, ad alta voce, in modo malvagio e fragoroso. Il cane nero, accovacciato sui suoi fianchi, si unì allegramente a quella risata; mentre il gatto tigrato, volando via in un’altra direzione, si alzò in piedi sulle zampe posteriori e iniziò a urlare nell’angolo più lontano dell’appartamento.
+
+Non così il filosofo; lui era troppo un uomo di mondo per ridere come un cane o per tradire con urla l’imbarazzo indecoroso del gatto. Bisogna ammetterlo: provò una certa sorpresa nel vedere le lettere bianche che formavano la scritta “_Rituel Catholique_” sul libro nella tasca del suo ospite cambiare improvvisamente colore e significato; in pochi secondi, al posto del titolo originale, apparvero le parole _Régitre des Condamnes_ scritte in caratteri rossi. Questa strana circostanza, quando [[works/bon-bon-(poe)|Bon-Bon]] rispose alla osservazione del suo visitatore, conferì al suo comportamento un’aria di imbarazzo che probabilmente altrimenti non sarebbe stata notata.
+
+“Perché, signore,” disse il filosofo, “perché, signore, a dire la verità. Credo che lei sia, giuro su quanto ho di più caro, l’uomo più meritevole, cioè, penso, immagino, forse ho un vago, un’idea molto vaga, dell’onore straordinario che le spetta, ”
+
+
+“Oh!—ah!—sì!—molto [[motifs/well|bene]]!” interruppe Sua Maestà; “non dite altro. Ora capisco tutto.” E così, togliendosi gli occhiali verdi, li pulì con cura con il polsino del cappotto e li mise in tasca.
+
+Se [[works/bon-bon-(poe)|Bon-Bon]] fosse stato già stupito dall’incidente legato al libro, la sua meraviglia sarebbe ora aumentata ancora di più dallo spettacolo che gli si presentava davanti agli occhi. Alzando lo sguardo, mosso da una forte curiosità di scoprire il colore degli occhi del suo ospite, vide che non erano affatto neri, come aveva previsto; né grigi, come ci si sarebbe potuti aspettare; né marroni, né blu, né gialli, né rossi, né viola, né bianchi, né verdi. Insomma, Pierre [[works/bon-bon-(poe)|Bon-Bon]] non solo vide chiaramente che Sua Maestà non aveva affatto occhi, ma non riuscì nemmeno a individuare alcun segno del loro esistere in passato: il punto in cui normalmente si sarebbero dovuti trovare gli occhi era, purtroppo, semplicemente una superficie liscia e senza vita di carne.
+
+Non era nella [[concepts/nature|natura]] del metafisico astenersi dal cercare di comprendere le origini di un fenomeno così strano; inoltre, la risposta di Sua Maestà fu immediata, dignitosa e soddisfacente.
+
+“Gli occhi! mio caro [[works/bon-bon-(poe)|Bon-Bon]], gli occhi! Hai detto proprio questo? Oh, ah. Capisco! Quegli stupidi ritratti che circolano hanno dato di me un’immagine errata, vero? Gli occhi, sì, Pierre [[works/bon-bon-(poe)|Bon-Bon]], gli occhi sono certamente al loro posto giusto, cioè nella testa, si potrebbe dire, ma la testa di un verme. Per te, queste facoltà visive sono indispensabili; tuttavia ti dimostrerò che la mia vista è più penetrante della tua. Vedo una gatta in angolo, una bella gatta, guarda bene come si muove. Ora, [[works/bon-bon-(poe)|Bon-Bon]], riesci a percepire i pensieri, le idee, le riflessioni che nascono nella sua mente? Non vedi nulla. Lei sta pensando che ammiriamo la lunghezza della sua coda e la profondità della sua intelligenza. Ha appena concluso che io sono il più distinto tra i chierici, e tu il più superficiale tra i metafisici. Vedi? Non sono del tutto cieco. Ma per uno come me, gli occhi di cui parli sarebbero soltanto un ostacolo, potrebbero essere distrutti in qualsiasi momento da una padella per tostare il pane o da una forca. Per te, invece, queste facoltà visive sono indispensabili. Sforzati di usarle al meglio, [[works/bon-bon-(poe)|Bon-Bon]]. La mia vista, è l’anima stessa.”
+
+
+A quel punto l’ospite prese da bere il vino che c’era sul tavolo, ne versò una buona quantità per [[works/bon-bon-(poe)|Bon-Bon]] e lo invitò a berlo senza esitazioni, dicendogli di sentirsi completamente a [[motifs/home|casa]].
+
+“Un libro davvero intelligente, il tuo, Pierre,” riprese Sua Maestà, dandoci un colpetto sulla spalla con aria complice, mentre il nostro amico posava il bicchiere dopo aver attentamente seguito le istruzioni del suo visitatore. “Un libro davvero intelligente. Onestamente, è proprio ciò che desideravo leggere. Tuttavia, penso che la struttura del tuo lavoro potrebbe essere migliorata; molte delle tue idee mi ricordano Aristotele. Quel filosofo era uno dei miei conoscenti più intimi. Lo apprezzavo tanto per il suo terribile carattere, quanto per la sua straordinaria capacità di commettere errori. In tutto ciò che ha scritto, c’è solo una verità assoluta. E per quella gli ho dato un suggerimento, puramente per compassione verso la sua assurdità. Immagino, Pierre Bon-Bon, tu sappia molto bene a quale divina verità morale mi riferisco, ”
+
+Non posso dire di essere…
+
+
+“Certamente! È proprio io che dissi ad Aristotele che, starnutendo, gli uomini espellono idee superflue attraverso il naso.”
+
+
+“Che è, senza dubbio, il caso,” disse il metafisico, mentre si versava un’altra abbondante porzione di Mousseux e offriva la sua scatola di tabacco alle dita del suo visitatore.
+
+“C'era anche Platone,” continuò Sua Maestà, rifiutando modestamente la scatola di tabacco e il complimento che essa implicava – “c'era anche Platone, per il quale, in un certo momento, provai tutto l'affetto di un amico. Conoscevi Platone, [[works/bon-bon-(poe)|Bon-Bon]]?. Ah, no, mi scuso mille volte. Un giorno mi incontrò ad Atene, nel Partenone, e mi disse di essere preoccupato per un’idea. Gli dissi di scrivere quella frase: ‘δ υοῦς εστιν αυλος’. Lui promise di farlo e se ne andò a casa, mentre io mi avvicinai alle piramidi. Ma la mia coscienza mi rimproverò per aver detto una verità, anche solo per aiutare un amico; così tornai ad Atene in fretta e lo trovai mentre stava scrivendo quella frase.”
+
+
+“Con un dito diedi una leggera spinta alla lambda e la capovolsi. Ora la frase recitava ‘δ υοῦς εστιν αυγος’, ed era, come potete vedere, il nucleo fondamentale delle dottrine della sua metafisica.”
+
+
+“È mai stato a Roma?” chiese il ristoratore, dopo aver finito la sua seconda bottiglia di Mousseux e aver tirato dal armadio un’altra scorta di Chambertin.
+
+“Ma una volta, Monsieur [[works/bon-bon-(poe)|Bon-Bon]], solo una volta. C'è stato un [[motifs/time|tempo,]]” disse il diavolo, come se stesse recitando un passaggio di un libro, “c'è stato un [[motifs/time|tempo]] in cui si verificò un’anarchia durata cinque anni; durante quel periodo la repubblica, priva di tutti i suoi funzionari, non aveva alcun organo di governo se non i tribuni del popolo. E questi, per legge, non possedevano alcun potere esecutivo. In quel [[motifs/time|tempo]], Monsieur [[works/bon-bon-(poe)|Bon-Bon]]. Solo in quel [[motifs/time|tempo]] io mi trovavo a Roma. E quindi non conosco assolutamente nulla riguardo alla sua filosofia.”
+
+{*2} Scrivevano di Filosofia (_Cicerone, Lucrizio, Seneca_), ma si trattava della Filosofia Greca.—_Condorcet_.
+
+“Che ne pensi… che ne pensi… ahem!… di Epicuro?”
+
+
+“Di chi dovrei pensare?” disse il diavolo, stupito. “Non potete certo voler trovare qualche difetto in Epicuro! Che cosa penso di Epicuro. Intendete parlare di me, signore? Sono io Epicuro! Sono lo stesso filosofo che scrisse tutti e trecento i trattati ricordati da Diogene Laerte.”
+
+
+“È una bugia!”, disse il metafisico, perché il vino gli aveva un po’ fatto effetto.
+
+“Molto bene! — davvero molto bene, signore! — Assolutamente molto bene, signore!” disse Sua Maestà, chiaramente lusingato.
+
+“È una bugia!”, ripeté il ristoratore in modo categorico; “è una… ahem!… bugia”.
+
+
+“Beh, beh, fai pure come vuoi!” disse il diavolo in tono pacifico. E [[works/bon-bon-(poe)|Bon-Bon]], avendo vinto la discussione con Sua Maestà, ritenne suo dovere aprire un’altra bottiglia di Chambertin.
+
+“Come stavo dicendo,” riprese il visitatore, “come ho osservato poco fa, in quel libro vostro, Monsieur [[works/bon-bon-(poe)|Bon-Bon]], ci sono alcune idee davvero molto _eccezionali_. Che cosa intendete, ad esempio, con tutta quella sciocchezza riguardo all’[[motifs/soul|'anima]]? Vi prego, signore: cos’è realmente l’[[motifs/soul|'anima]]?”
+
+
+“L’anima—ahem!—” rispose il metafisico, riferendosi al suo manoscritto, “è senza dubbio, ”
+
+
+"No, signore!"
+
+
+“Indubbiamente…”
+
+
+"No, signore!"
+
+
+“Indiscutibilmente…”
+
+
+"No, signore!"
+
+
+“Evidentemente…”
+
+
+"No, signore!"
+
+
+“Indiscutibilmente…”
+
+
+"No, signore!"
+
+
+“Hiccup!”
+
+
+"No, signore!"
+
+
+“E senza alcun dubbio…”
+
+
+“No, signore, l’[[motifs/soul|'anima]] non è affatto una cosa del genere!” (In quel momento, il filosofo, con lo sguardo minaccioso, ne approfittò per finire sul posto la sua terza bottiglia di Chambertin.)
+
+“Allora… ahem!… per favore, signore… cosa… cosa è?”
+
+
+“Non è né da una parte né dall’altra, Monsieur [[works/bon-bon-(poe)|Bon-Bon]],” rispose Sua Maestà, meditabondo. “Ho conosciuto, cioè, ho incontrato alcune anime molto cattive, e anche alcune, abbastanza buone.” A queste parole si leccò le labbra; poi, senza rendersene conto, posò la mano sul libro che aveva in tasca e fu colpito da un violento attacco di starnuti.
+
+Continuò.
+
+“C'era l’[[motifs/soul|'anima]] di Cratino: passabile; Aristofane: vivace e spiritoso; Platone: squisito, non il vostro Platone, ma il poeta comico Platone; il vostro Platone probabilmente avrebbe fatto rivoltare lo stomaco a Cerbero. Bah! E poi c'erano Naevio, Andronico, Plauto e Terenzio. Lucilio, Catullo, Naso e Quinto Flacco, caro Quinto! Così lo chiamavo quando cantava una canzone profana per il mio divertimento, mentre io lo brindavo con sincero buon umore. Ma a questi Romani manca il vero “sapore”. Un solo greco grassoccio vale dieci di loro. E inoltre, i greci sanno “mantenere” il valore delle cose, qualcosa che non si può dire dei Romani. Diamo un assaggio al vostro Sauterne.”
+
+
+[[works/bon-bon-(poe)|Bon-Bon]] aveva ormai deciso di seguire il principio del _nil admirari_ e si impegnò a consegnare le bottiglie in questione. Tuttavia, notò un suono strano nella stanza, simile al movimento della coda di un cane. Di questo, sebbene estremamente indecente da parte sua Maestà il filosofo, non fece alcuna attenzione: semplicemente calciò il cane e gli chiese di stare zitto. L’ospite continuò.
+
+“Ho scoperto che Orazio assomigliava molto ad Aristotele; sai, mi piace la varietà. Di Terenzio non avrei potuto distinguerlo da Menandro. Naso, per mia sorpresa, era in realtà Nicandro sotto mentite spoglie. Virgilio aveva un forte retrogusto di Teocrito. Marziale mi ricordava molto Archiloco; e Tito Livio, beh, era proprio Polibio, e nessun altro.”
+
+
+“Hic-cup!”, rispose [[works/bon-bon-(poe)|Bon-Bon]], e il suo maestà proseguì:
+
+“Ma se ho una preferenza, Monsieur [[works/bon-bon-(poe)|Bon-Bon]], se ho una preferenza, è per un filosofo. Tuttavia, lasciate che vi dica, signore: non tutti i gentiluomini sanno come scegliere un filosofo. Quelli troppo lunghi non sono buoni; e i migliori, se non vengono selezionati con cura, possono risultare un po’ amari a causa della loro ‘bilis’, ”
+
+
+“Schiacciato!”
+
+
+“Intendo, estratto dal cadavere.”
+
+
+“Che ne pensi di un… ehem… medico?”
+
+
+“Non parlatene nemmeno! — Ugh! Ugh! Ugh!” (A questo punto Sua Maestà ebbe un violento conato di vomito.) “Non ne ho mai assaggiata nessuna, tranne quella, quel furfante di Ippocrate! Aveva un odore terribile, di asafoetida. Ugh! Ugh! Ugh! Si è preso un terribile raffreddore lavandosi nel fiume Stige. E alla fine mi ha contagiato con il colera morbus.”
+
+
+“Quel miserabile!” esclamò [[works/bon-bon-(poe)|Bon-Bon]], “quella mostruosità di casamatta!” – e il filosofo versò una lacrima.
+
+“Dopotutto,” continuò il visitatore, “se un gentiluomo desidera vivere bene, deve possedere più talenti di uno o due soltanto; e da noi, un viso rotondo è considerato un segno di diplomazia.”
+
+
+“Come mai?”
+
+
+“Beh, a volte siamo davvero sotto pressione per quanto riguarda le provviste. Dovete sapere che, in un clima così afoso come il mio, spesso è impossibile mantenere in vita uno spirito per più di due o tre ore; e dopo la [[motifs/death|morte]], a meno che non venga immediatamente conservato in salamoia (e uno spirito conservato in salamoia non è di buona qualità), inizierà a decomporsi. Capite, vero? Quando le anime ci vengono consegnate nel modo abituale, bisogna sempre temere la putrefazione.”
+
+
+“Hiccup!—hiccup!—Dio mio! come fai a riuscirci?”
+
+
+Qui la lampada di ferro iniziò a dondolare con ancora maggiore violenza, e il diavolo quasi si alzò dal suo posto; tuttavia, con un leggero sospiro, riacquistò la calma e disse sottovoce al nostro [[archetypes/hero|eroe]]: “Senti un po’, Pierre [[works/bon-bon-(poe)|Bon-Bon]], non dobbiamo più imprecare.”
+
+
+Il padrone di casa inghiottì un altro boccone, come segno di completa comprensione e accordo, e l’ospite continuò il suo discorso.
+
+“Beh, ci sono diversi modi per gestire la situazione. La maggior parte di noi soffre la fame; alcuni si accontentano di quello che hanno; io, invece, compro i miei alcolici ‘vivente corpore’, e in questo modo li trovo sempre in ottimo stato.”
+
+
+“Ma il [[concepts/body|corpo]]!, ahem!, il [[concepts/body|corpo]]!”
+
+
+“Il corpo, beh, e il corpo? Oh! Ah! Ora capisco. Ma signore, il corpo non viene affatto influenzato da questa pratica. Ne ho fatte innumerevoli nel corso della mia vita, e nessuno ha mai riscontrato alcun inconveniente. Ci sono stati Caino, Nimrod, Nerone, Caligola, Dionisio, Pisistrato, e mille altri che, nella seconda metà della loro esistenza, non hanno mai avuto una “anima”; eppure, signore, questi uomini hanno adornato la società. Perché allora non c’è qualcuno come lui, che lei conosce bene quanto me? Non possiede forse le sue facoltà mentali e fisiche? Chi scrive epigrammi più taglienti? Chi ragiona in modo più arguto? Ma aspetti, ho il suo consenso nel mio portafoglio.”
+
+
+Dicendo ciò, estrasse una borsa di pelle rossa e ne tirò fuori diversi documenti. Su alcuni di questi, [[works/bon-bon-(poe)|Bon-Bon]] riuscì a intravedere le lettere _Machi—Maza—Robesp_ accompagnate dalle parole _Caligula, George, Elizabeth_. Sua Maestà scelse un sottile foglio di pergamena e ne lesse ad alta voce i seguenti testi:
+
+“Tenendo conto di alcune doti mentali che non è necessario specificare, e considerando inoltre mille luigi d’oro, io, essendo di un anno e un mese di età, cedo a chi detiene questo documento tutti i miei diritti, titoli e pertinenze riguardanti quella ‘ombra’ chiamata la mia [[motifs/soul|'anima]].” (*4) (In questo punto Sua Maestà ripeté un nome che non ritenni giusto indicare in modo più chiaro.)
+
+{*4} Quere-Arouet?
+
+“Un tipo intelligente, davvero,” continuò; “ma proprio come voi, Monsieur [[works/bon-bon-(poe)|Bon-Bon]], si sbagliava riguardo all’[[motifs/soul|'anima]]. L’anima, una semplice [[motifs/soul|ombra]], davvero! L’anima, un’[[archetypes/shadow|ombra]]. Ha! ha! ha!. Solo pensate a quell’assurda [[archetypes/shadow|ombra]]”!
+
+
+“Pensate solo, ahem!, a una ‘frittata’ di ombre!” esclamò il nostro [[archetypes/hero|eroe]], le cui facoltà mentali venivano sempre più illuminate dalla profondità del discorso di Sua Maestà.
+
+“Pensate solo a un singolo attacco di singhiozzo, quella maledetta [[archetypes/shadow|ombra]] fricassata!! Ora, accidenti, singhiozzo, uf!
+Se _io_ fossi stato così stupido, il mio [[motifs/soul|anima]], signore, uf!”
+
+
+“La _vostra_ [[motifs/soul|'anima]], Monsieur [[works/bon-bon-(poe)|Bon-Bon]]?”
+
+
+“Sì, signore, ahem!, la mia [[motifs/soul|'anima]] è, ”
+
+
+“Che cosa, signore?”
+
+
+“No, [[archetypes/shadow|ombra]], dammela!”
+
+
+“Volevi dire…”
+
+
+“Sì, signore, la mia [[motifs/soul|'anima]] è, ahem!, sì, signore.”
+
+
+“Non intendevi forse affermare…”
+
+
+“La mia [[motifs/soul|'anima]] è, ahem!, particolarmente adatta per, ahem!, un, ”
+
+
+“Che cosa, signore?”
+
+
+“Stufato.”
+
+
+“Ha!”
+
+
+“Soufflé.”
+
+
+“Eh!”
+
+
+"Fricassee."
+
+
+“Certamente!”
+
+
+“Ragù e fricandeau. E guarda qui, mio buon amico! Te lo lascio a un prezzo davvero conveniente, ” Il filosofo diede una pacca sulla schiena al suo sovrano.
+
+“Non avrei mai potuto pensare a una cosa del genere,” disse quest’ultimo con calma, alzandosi contemporaneamente dal suo posto. Il metafisico rimase sbalordito.
+
+“Attualmente sono stati forniti”, disse Sua Maestà.
+
+“Hiccup!. Ehm?” disse il filosofo.
+
+"Nessun denaro a disposizione."
+
+
+“Cosa?”
+
+
+“Inoltre, non è affatto attraente da parte mia…”
+
+
+“Signore!”
+
+
+“Sfruttare al meglio…”
+
+
+“Hiccup!”
+
+
+“La tua attuale situazione disgustosa e indegna di un gentiluomo.”
+
+
+Qui il visitatore si inchinò e se ne andò; non si poté precisare con esattezza in che modo, ma con un’azione ben coordinata mirava a lanciare una bottiglia contro “il [[archetypes/villain|villano]]”. La sottile catena che pendeva dal soffitto si ruppe, e il metafisico fu colpito al suolo dall’effetto di quel gesto.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Bon-Bon (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/history,concept/nature,concept/pride,concept/self,concept/truth,concept/wonder,form/history"></span>

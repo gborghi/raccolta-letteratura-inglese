@@ -412,6 +412,112 @@ bed, before that whole company, there lay a nearly liquid mass of
 loathsome—of detestable putrescence.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Certo, non posso fingere di trovare sorprendente il fatto che il caso straordinario del signor Valdemar abbia suscitato tante discussioni. Sarebbe stato un miracolo se ciò non fosse accaduto, soprattutto nelle circostanze attuali. A causa del desiderio di tutte le parti coinvolte di tenere la faccenda nascosta al pubblico, almeno per il momento, o fino a quando non avremmo avuto ulteriori opportunità di indagare, e grazie ai nostri sforzi per farlo, una versione distorta o esagerata della vicenda è finita nella società, diventando fonte di molte rappresentazioni errate e, naturalmente, di grande scetticismo da parte delle persone.
+
+Ora è diventato necessario che io esponga i fatti, per quanto io stesso li comprenda. In sintesi, questi sono:
+
+Negli ultimi tre anni la mia attenzione è stata ripetutamente attratta dal tema del [[concepts/mesmerism|mesmerismo]]; e circa nove mesi fa mi è venuto in mente, all'improvviso, che nella serie di esperimenti condotti fino ad allora c'era stata una omissione molto significativa e inspiegabile: nessuno era mai stato mesmerizzato in stato di [[motifs/death|morte imminente]]. Restava da verificare, innanzitutto, se in tale condizione il paziente presentasse ancora qualche predisposizione all’influenza magnetica; in secondo luogo, se tale predisposizione fosse diminuita o aumentata dallo stato di morte imminente; e, infine, in che misura e per quanto tempo gli effetti del [[motifs/death|decesso]] potessero essere arrestati da questo processo. C’erano altri aspetti da chiarire, ma questi rappresentavano la fonte principale della mia curiosità – soprattutto l’ultimo punto, a causa dell’enorme importanza delle sue conseguenze.
+
+Guardandomi intorno alla ricerca di una persona con la quale poter verificare questi fenomeni, mi venne in mente il mio amico, il signor Ernest Valdemar, il ben noto compilatore della “Bibliotheca Forensica” e autore (sotto lo pseudonimo di Issachar Marx) delle versioni polacche di “Wallenstein” e “Gargantua”. Il signor Valdemar, che dal 1839 risiedeva principalmente ad Harlem, New York, si distingueva per l’estrema magrezza del suo corpo – le sue gambe inferiori assomigliavano molto a quelle di John Randolph – e anche per la bianchezza delle sue basette, in netto contrasto con i suoi capelli neri; questi ultimi venivano spesso scambiati per una parrucca. Il suo temperamento era particolarmente nervoso, il che lo rendeva un soggetto ideale per esperimenti di ipnosi. In due o tre occasioni riuscii a farlo addormentare senza grandi difficoltà, ma ottenni risultati deludenti in altri casi, come previsto dalla sua particolare costituzione. La sua volontà non fu mai completamente sotto il mio controllo; quanto alla chiaroveggenza, non riuscii ad ottenere nulla di affidabile con lui. attribuivo sempre i miei insuccessi allo stato di salute precario in cui si trovava. Alcuni mesi prima di conoscerlo, i suoi medici avevano diagnosticato una tubercolosi avanzata. Era sua abitudine parlare con calma della propria imminente morte, come di qualcosa che non poteva essere evitato né rimpianto.
+
+Quando per la prima volta mi vennero in mente quelle idee, fu naturalissimo che pensassi a Monsieur Valdemar. Conoscevo troppo bene la sua ferma filosofia per ritenere che potesse avere alcun rimorso; inoltre, non aveva parenti in [[settings/america|America]] che potessero interferire. Gli parlai francamente dell’argomento e, con mia sorpresa, sembrò molto interessato. Dico “con mia sorpresa”, perché sebbene avesse sempre collaborato volentieri alle mie ricerche, non mi aveva mai dimostrato alcun interesse per ciò che facevo. La sua malattia presentava caratteristiche tali da permettere di calcolare con precisione il momento del suo decesso; quindi concordammo che mi avrebbe chiamato circa ventiquattro ore prima della data prevista dai suoi medici.
+
+Sono ormai trascorsi più di sette mesi da quando ho ricevuto, direttamente da M. Valdemar, la nota seguente:
+
+Mia cara P—
+
+Puoi venire anche ora, senza problemi. D—— e F—— sono d’accordo sul fatto che non possa resistere oltre mezzanotte di domani; penso che abbiano calcolato esattamente il momento giusto.
+
+Valdemar
+
+Ricevetti questo biglietto meno di mezz’ora dopo che era stato scritto, e quindici minuti dopo ero già nella stanza dell’uomo morente. Non lo vedevo da dieci giorni, e fui scioccato dal terribile cambiamento che quel breve lasso di tempo aveva causato in lui. Il suo viso presentava un colore grigiostra; gli occhi erano completamente privi di lucentezza; l’emaciazione era così estrema che la pelle sembrava essere stata attraversata dalle ossa delle guance. La sua tosse era intensa; il polso quasi impercettibile. Tuttavia, manteneva in modo sorprendente sia la propria capacità mentale che una certa forza fisica. Parlava con chiarezza, assumeva alcuni medicinali senza alcun aiuto, e quando entrai nella stanza stava scrivendo appunti in un taccuino. Era sostenuto dai cuscini nel letto; presenti i dottori D—— e F——.
+
+Dopo aver stretto la mano a Valdemar, portai questi signori da parte e ottenni da loro un resoconto dettagliato sulla condizione del paziente. Il polmone sinistro si trovava in uno stato semiosseo o cartilagineo da diciotto mesi ed era, ovviamente, completamente inutile per qualsiasi funzione vitale. Anche la parte superiore del polmone destro era parzialmente, se non del tutto, ossificata; la regione inferiore, invece, era costituita soltanto da masse di tubercoli purulenti che si sovrapponevano l’uno all’altro. Esistevano diverse perforazioni estese, e in un punto il polmone si era attaccato permanentemente alle costole. Questi fenomeni nel lobo destro erano di origine relativamente recente: l’ossificazione aveva avuto luogo con una rapidità insolita; nessun segno di essa era stato riscontrato un mese prima, mentre l’adesione al torace era stata osservata soltanto negli ultimi tre giorni. Oltre alla tubercolosi, si sospettava che il paziente soffrisse di aneurisma dell’aorta; tuttavia, i segni ossei rendevano impossibile una diagnosi precisa. Entrambi i medici erano convinti che M. Valdemar sarebbe morto intorno a mezzanotte del giorno seguente, domenica. Erano le sette di sera di sabato.
+
+Allontanandomi dal letto del malato per conversare da solo, i dottori D—— e F—— gli avevano detto addio per l’ultima volta. Non era loro intenzione tornare; tuttavia, su mia richiesta, acconsentirono a controllare lo stato del paziente verso le dieci di quella stessa [[motifs/night|notte]].
+
+Dopo che se ne furono andati, parlai liberamente con il signor Valdemar riguardo alla sua imminente morte, nonché, in modo più specifico, sull’esperimento proposto. Lui continuava a dichiararsi assolutamente disposto e persino ansioso che venisse eseguito, e mi esortò ad avviarlo immediatamente. C’erano presenti un’infermiera e una levatrice; tuttavia, non mi sentivo del tutto a mio agio nell’eseguire un compito di questo genere con testimoni così poco affidabili, nel caso si verificasse qualche imprevisto. Pertanto rinviai le operazioni fino alle otto della sera seguente, quando l’arrivo di uno studente di medicina che conoscevo, il signor Theodore L—l., mi liberò da ulteriori difficoltà. Inizialmente avevo intenzione di aspettare gli altri medici; ma decisi di procedere prima per le insistenti suppliche del signor Valdemar e, in secondo luogo, perché ero convinta che non avessimo un minuto da perdere, dato che la sua condizione peggiorava rapidamente.
+
+Il signor L—l fu così gentile da acconsentire al mio [[motifs/desire|-desiderio]] di prendere appunti su tutto ciò che accadeva, e è proprio dai suoi memorandum che quello che ora devo raccontare deriva, per la maggior parte dei casi, o in forma ridotta o trascritto letteralmente.
+
+Erano passati circa cinque minuti quando, prendendo la mano del paziente, gli chiesi con insistenza di dire, il più chiaramente possibile, al signor L—l se lui (il signor Valdemar) fosse assolutamente d’accordo che io provassi a mesmerizzarlo nella sua condizione attuale.
+
+Rispose debolmente, ma abbastanza chiaramente: “Sì, lo desidero. Temo che tu mi abbia stregato, ” e subito dopo aggiunse: “Temo che tu l’abbia rimandato troppo a lungo.”
+
+Mentre parlava così, io iniziai a eseguire quelle tecniche che avevo già ritenuto particolarmente efficaci per domarlo. Era evidente che fosse influenzato dal primo movimento laterale della mia mano sulla sua fronte; tuttavia, nonostante avessi messo in gioco tutte le mie forze, non si osservò alcun effetto significativo fino a qualche minuto dopo le dieci, quando i dottori D—— e F—— arrivarono come previsto. Spiegai loro brevemente quale fosse il mio piano e, poiché non sollevarono obiezioni, dicendo che il paziente era già in preda alle agonie della [[motifs/death|morte]], proseguii senza esitazione, sostituendo però i movimenti laterali con quelli verso il basso e concentrando completamente lo sguardo nell’occhio destro del malato.
+
+A quell’[[motifs/time|ora]], il suo polso era quasi inavvertibile e il suo respiro diventato rantolante, con intervalli di mezzo minuto tra un respiro e l’altro.
+
+Questo stato rimase quasi invariato per un quarto d’ora. Tuttavia, al termine di questo lasso di tempo, un sospiro naturale, sebbene molto profondo, sfuggì dal petto dell’uomo morente; il respiro rantoloso cessò, ovvero la sua caratteristica rantolosa non fu più evidente, ma gli intervalli tra i respiri rimasero invariati. Le estremità del paziente erano di una freddezza gelida.
+
+Cinque minuti prima delle undici percepii segni inequivocabili dell’influenza ipnotica. Il movimento vitreo degli occhi cambiò, sostituito da quell’espressione di attenta introspezione interiore che si osserva soltanto nei casi di risveglio dal sonno e che è impossibile confondere. Con alcune rapide manipolazioni feci tremolare le palpebre, come quando si inizia a addormentarsi, e dopo altre poche mosse le chiusi del tutto. Tuttavia non ero soddisfatto di questo risultato, quindi continuai con le manipolazioni con maggiore intensità, utilizzando tutta la mia forza di volontà, fino a quando non riuscii a irrigidire completamente gli arti della persona addormentata, dopo averli posizionati in una posizione apparentemente comoda: le gambe erano distese completamente; anche le braccia lo erano quasi del tutto, appoggiate sul letto a una distanza moderata dalla parte centrale del corpo; la testa era leggermente sollevata.
+
+Quando ebbi completato ciò che dovevo fare, era già mezzanotte; chiesi quindi ai signori presenti di esaminare lo stato di M. Valdemar. Dopo alcuni esperimenti, confermarono che si trovava in uno stato di trance ipnotica insolitamente perfetto. La curiosità di entrambi i medici fu notevolmente stimolata. Il dottor D—— decise immediatamente di rimanere con il paziente per tutta la [[motifs/night|notte]], mentre il dottor F—— se ne andò promettendo di tornare all’alba. Il signor L—l e le infermiere rimasero.
+
+Lasciammo il signor Valdemar completamente indisturbato fino a circa le tre di [[motifs/clock|notte]], quando mi avvicinai a lui e lo trovai esattamente nello stesso stato in cui si trovava quando il dottor F—— se ne era andato: cioè giaceva nella stessa posizione; il polso era impercettibile; la respirazione era debole (appena distinguibile, a meno di utilizzare uno [[motifs/mirror|specchio]] sulle labbra); gli occhi erano chiusi naturalmente; e le membre erano rigide e fredde come il marmo. Tuttavia, l’aspetto generale certamente non era quello della [[motifs/death|morte]].
+
+Mentre mi avvicinavo al signor Valdemar, feci un tentativo per influenzare il movimento del suo braccio destro, facendolo muovere dolcemente avanti e indietro sopra il suo corpo. In precedenza, con questo paziente, non ero mai riuscito a ottenere risultati perfetti; di certo, in quel momento non pensavo affatto di avere successo. Ma, con mia grande sorpresa, il suo braccio seguì facilmente, sebbene debolmente, ogni direzione che gli indicavo con il mio. Decisi quindi di tentare qualche parola di conversazione.
+
+“Signor Valdemar,” dissi, “sta dormendo?” Non rispose, ma notai un leggero tremore sulle sue labbra, così che ripetei la domanda più volte. Alla terza volta, tutto il suo corpo fu scosso da un lieve tremito; le palpebre si aprirono appena, mostrando una striscia bianca dell’occhio; le labbra si mossero lentamente, e tra di esse uscirono queste parole, a malapena udibili:
+
+“Sì… ora dorme. Non svegliatemi… lasciatemi morire così.”
+
+Sentii i miei arti e li trovai rigidi come sempre. Il braccio destro, come prima, obbediva ai movimenti della mia mano. Chiesi di nuovo all’[[motifs/sleep|risvegliatore del sonno]]:
+
+“Sentite ancora dolore al petto, signor Valdemar?”
+
+La risposta arrivò immediatamente, ma era ancora meno udibile di prima…
+
+“Nessun [[motifs/pain|dolore]]. Sto morendo.”
+
+Non ritenni opportuno disturbarlo ulteriormente in quel momento; non fu detto o fatto nulla fino all’arrivo del dottor F——, che giunse poco prima dell’alba e manifestò grande stupore nel trovare il paziente ancora vivo. Dopo aver controllato il polso e aver posizionato uno [[motifs/mirror|specchio]] sulle labbra del paziente, mi chiese di parlare nuovamente con colui che lo teneva sveglio. Così feci, dicendo:
+
+“Signor Valdemar, dorme ancora?”
+
+Come prima, trascorsero alcuni minuti prima che arrivasse una risposta; e nel frattempo, l’uomo morente sembrava raccogliere le sue forze per parlare. Alla mia quarta ripetizione della domanda, disse molto debolmente, quasi inudibilmente:
+
+“Sì… ancora addormentato… morente.”
+
+Ora l’opinione, o meglio il desiderio, dei medici era che al signor Valdemar venisse permesso di rimanere nella sua attuale condizione apparentemente tranquilla, fino a quando non sopraggiungesse la [[motifs/death|morte]] – e si concordava generalmente sul fatto che ciò dovesse accadere entro pochi minuti. Tuttavia, decisi comunque di parlargli ancora una volta e ripetei semplicemente la mia domanda precedente.
+
+Mentre parlavo, si verificò un evidente cambiamento nel volto di colui che aveva risvegliato il [[motifs/sleep|dormiente]]. Gli occhi si aprirono lentamente; le pupille si spostarono verso l’alto; la pelle assunse un colore cadaverico, simile più a carta bianca che a pergamena; e quelle macchie circolari e irregolari che fino ad allora erano ben visibili al centro di ogni guancia scomparvero all’improvviso. Utilizzo questo termine perché la rapidità con cui sparirono mi fece pensare, in un certo senso, all’estinzione di una candela per effetto di un soffio. Nel contempo, il labbro superiore si staccò dai denti che fino ad allora lo copriva completamente; la mandibola si abbassò con un movimento improvviso, lasciando la bocca aperta a tutta larghezza e rivelando in pieno visibile la lingua gonfia e annerita. Presumo che nessuno dei presenti fosse estraneo alle orrori legati ai letti di morte; ma l’aspetto di M. Valdemar in quel momento era così orribile da indurre tutti a allontanarsi immediatamente dalla zona del letto.
+
+Ora ho l’impressione di essere arrivato in un punto di questa narrazione in cui ogni lettore rimarrà sorpreso fino al punto della totale incredulità. Tuttavia, il mio compito è semplicemente quello di continuare a raccontare.
+
+Non c'era più il minimo segno di vitalità in M. Valdemar; ritenendolo morto, lo affidammo alle cure delle infermiere, quando osservammo un forte movimento vibratorio nella sua lingua. Questo movimento continuò per circa un minuto; al termine di quel lasso di tempo, dalle sue mascelle distese e immobili uscì una voce, una voce che sarebbe follia da parte mia tentare di descrivere. Esistono infatti uno o due epiteti che potrebbero in parte descriverla; potrei dire, ad esempio, che il suono era roco, spezzettato e vuoto, ma l’intera scena è indescrivibile, semplicemente perché nessun suono simile è mai giunto alle orecchie dell’umanità. Tuttavia, ci sono due particolari che allora, e ancora oggi, ritengo possano essere considerati caratteristici di quel tono, aspetti davvero adatti a far comprendere la sua natura soprannaturale. Prima di tutto, quella voce sembrava raggiungerci – almeno le mie orecchie – da una distanza immensa, o forse da qualche profonda caverna sotterranea. In secondo luogo, mi colpì, anzi, temo che sia impossibile far capire a qualcuno ciò che provai, come se sostanze gelatinose o appiccicose stessero stimolando il senso del tatto.
+
+Ho parlato sia di “suono” che di “voce”. Intendo dire che quel suono era caratterizzato da una sillabazione chiara e distintiva, persino meravigliosamente e emozionante. Il signor Valdemar parlò, ovviamente in risposta alla domanda che gli avevo posto pochi minuti prima. Gli avevo chiesto, come si ricorderà, se ancora dormisse. Ora disse:
+
+“Sì… no… dormivo… e ora… ora sono morto.”
+
+Nessuno presente ebbe il minimo impulso di negare o cercare di reprimere quell’orrore indicibile che quelle poche parole, pronunciate in quel modo, erano così ben calcolate per trasmettere. Il signor L—l (lo studente) svenne; le infermiere lasciarono immediatamente la stanza e non furono in grado di tornarvi. Le mie stesse impressioni non oserei cercare di renderle comprensibili al lettore. Per quasi un’ora, ci occupammo silenziosamente, senza pronunciare una parola, nel tentativo di far riprendere i sensi al signor L—l. Quando tornò in sé, riprendemmo l’esame della condizione del signor Valdemar.
+
+Rimaneva esattamente come l’avevo descritto l’ultima volta, con l’unica eccezione che lo [[motifs/mirror|specchio]] non mostrava più alcun segno di respirazione. Un tentativo di prelevare del [[motifs/blood|sangue]] dal braccio fallì. Devo anche menzionare che quel braccio non era più soggetto al mio controllo: cercavo invano di fargli seguire la direzione della mia mano. L’unico vero indizio dell’influenza ipnotica risiedeva ora nel movimento vibratorio della lingua, ogni volta che ponevo una domanda a M. Valdemar. Sembrava sforzarsi di rispondere, ma non aveva più sufficiente volontà. Alle domande poste da altre persone, invece, sembrava del tutto insensibile, anche se cercavo di mettere ogni membro del gruppo in stato di ipnosi con lui. Credo di aver ora descritto tutto ciò che è necessario per comprendere lo stato di M. Valdemar in quel momento. Furono chiamate altre infermiere; alle dieci in punto lasciai la casa insieme ai due medici e a Mr. L—l.
+
+Nel pomeriggio abbiamo tutti chiamato di nuovo per controllare le condizioni del paziente. La sua situazione rimaneva esattamente la stessa. Abbiamo discusso se fosse opportuno e fattibile risvegliarlo, ma siamo rapidamente concordi sul fatto che farlo non avrebbe portato a nessun risultato positivo. Era evidente che, per il momento, la [[motifs/death|morte]] (o ciò che di solito viene definito così) era stata fermata dal processo ipnotico. A tutti noi sembrava chiaro che risvegliare il signor Valdemar avrebbe significato semplicemente accelerare la sua morte, o almeno renderla immediata.
+
+Da questo periodo fino alla fine della scorsa settimana – un intervallo di quasi sette mesi – abbiamo continuato a fare visite quotidiane a casa di M. Valdemar, talvolta accompagnati da amici medici e altri professionisti. Durante tutto questo tempo, lo stato del “dormiente che si risvegliava” è rimasto esattamente come l’avevo descritto l’ultima volta. L’attenzione delle infermiere è stata continua.
+
+Fu proprio venerdì scorso che decidemmo finalmente di tentare l’esperimento di risvegliarlo; ed è forse il risultato sfortunato di questo esperimento a aver scatenato tante discussioni nei circoli privati. Tanto, insomma, da generare sentimenti popolari che, a mio parere, sono del tutto ingiustificati.
+
+Al fine di far uscire il signor Valdemar dallo stato di trance ipnotica, utilizzai i soliti procedimenti abituali. Tuttavia, per un certo [[motifs/time|tempo]], questi tentativi risultarono infruttuosi. Il primo segno di ripresa fu rappresentato da una parziale riduzione del diametro della pupilla. Fu osservato, in modo particolarmente notevole, che questa diminuzione era accompagnata da un’eccessiva fuoriuscita di un liquido giallastro dall’area sotto le palpebre; tale liquido presentava un odore pungente e estremamente sgradevole.
+
+Ora mi fu suggerito di provare a influenzare il braccio della paziente, come fatto in precedenza. Ci provai, ma fallii. Il dottor F—— allora manifestò il desiderio che io le ponessi una domanda. Così feci, nel seguente modo:
+
+“M. Valdemar, potrebbe spiegarci quali sono i suoi sentimenti o desideri in questo momento?”
+
+I cerchi frenetici sulle guance ricomparvero all’istante; la lingua tremava, o meglio si muoveva violentemente nella bocca (sebbene le mascelle e le labbra rimanessero rigide come prima), e infine quella stessa voce orribile che avevo già descritto risuonò:
+
+“Per l’amore di Dio! — Presto! — Presto! — Mettimi a [[motifs/sleep|dormire]], o, per favore, svegliami! Dico sul serio: sono morto!”
+
+Ero completamente sconvolto e, per un istante, non sapevo cosa fare. All’inizio cercai di far riprendere conoscenza al paziente; ma, non riuscendoci a causa della totale assenza di volontà da parte sua, tornai indietro e provai con ancora più impegno a svegliarlo. In quel tentativo, credetti presto di avere successo, o almeno pensai che il mio successo fosse certo; sono sicuro che tutti nella stanza fossero pronti ad assistere al risveglio del paziente.
+
+Per quanto riguarda ciò che realmente accadde, tuttavia, è assolutamente impossibile che qualsiasi essere umano potesse esserne preparato.
+
+Mentre eseguivo rapidamente quei movimenti ipnotici, tra grida di “morto! morto!” che provenivano assolutamente dalla bocca del malato e non dalle sue labbra, tutto il suo corpo, in un istante – in meno di un minuto, anzi – si ridusse in polvere, si disintegrò completamente sotto le mie mani. Sul letto, davanti a tutta quella gente, giaceva una massa quasi liquida di putrefazione orribile e disgustosa.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Facts in the Case of M. Valdemar (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/desire,motif/sleep,motif/time,motif/well,concept/mesmerism,concept/wonder,histref/america,setting/america,character/sunday"></span>

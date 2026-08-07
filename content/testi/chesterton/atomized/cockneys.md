@@ -242,6 +242,179 @@ a woman who is not dignified and a man who is.
 Part of an etext in progress by Rob Szarka.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+-=[ I COCKNEY E LE LORO BATTUTE ]=-
+
+Tratto da All Things Considered di G. K. Chesterton; un etext in
+corso d'opera, da un'edizione della John Lane Company, [[settings/new-york|New York]], 1909.
+
+Questo etext è stato battuto a macchina da Rob Szarka.
+
+Uno scrittore dello Yorkshire Evening Post è davvero molto in collera per le mie prestazioni in questa rubrica. I suoi precisi termini di rimprovero sono: «Il signor G. K. Chesterton non è un umorista: nemmeno un umorista cockney». Non mi dispiace che egli dica che non sono un umorista... nel che (a dire la [[concepts/truth|verità]]) credo che abbia perfettamente ragione. Ma mi risento che dica che non sono un cockney. Quella freccia avvelenata, lo ammetto, andò a [[motifs/home|segno]]. Se uno scrittore francese dicesse di me: «non è un metafisico: nemmeno un metafisico inglese», potrei [[motifs/swallow|inghiottire]] l'insulto alla mia metafisica, ma mi adirerei per l'insulto al mio paese. Perciò non sostengo di essere un umorista; ma insisto di essere un cockney. Se fossi un umorista, sarei certamente un umorista cockney; se fossi un santo, sarei certamente un santo cockney. Non occorre che reciti lo splendido catalogo dei santi cockney che hanno scritto i loro nomi sulle nostre nobili vecchie chiese della [[motifs/city|City]]. Non occorre che vi importuni con la lunga lista degli umoristi cockney che hanno saldato i loro conti (o non li hanno saldati) nelle nostre nobili vecchie taverne della [[motifs/city|City]]. Possiamo piangere insieme sul patetico del povero uomo dello Yorkshire, la cui contea non ha mai prodotto un umorismo non intelligibile al resto del mondo. E possiamo sorridere insieme quando dice che il tale o il tal altro non è «nemmeno» un umorista cockney come Samuel Johnson o Charles [[motifs/lamb|Lamb]]. È di certo sufficientemente ovvio che tutto il miglior umorismo che esiste nella nostra lingua è umorismo cockney. Chaucer era un cockney; aveva la sua casa vicino all'Abbazia. Dickens era un cockney; diceva di non saper pensare senza le strade di [[settings/london|Londra]]. Le taverne di [[settings/london|Londra]] udirono sempre le conversazioni più pittoresche, fosse quella di Ben Jonson alla [[characters/mermaid|Sirena]] o quella di Sam Johnson al Cock. Persino ai nostri [[motifs/time|giorni]] si può notare che l'umorismo più vitale e genuino si scrive ancora su [[settings/london|Londra]]. Di questo tipo è la mite e umana ironia che contraddistingue gli studi del signor Pett Ridge sulle piccole strade grigie. Di questo tipo è il riso semplice ma travolgente dei migliori racconti del signor W. W. Jacobs, che narrano del fumo e dello scintillio del Tamigi. No; concedo di non essere un umorista cockney. No; non ne sono degno. Un [[motifs/time|giorno]], dopo tristi e faticose vite ulteriori; un [[motifs/time|giorno]], dopo feroci e apocalittiche incarnazioni; in qualche strano mondo al di là delle [[motifs/stars|stelle]], potrò infine diventare un umorista cockney. In quel paradiso potenziale potrò camminare tra gli umoristi cockney, se non da pari, almeno da compagno. Potrò sentire per un momento sulla mia spalla la calorosa mano di Dryden e percorrere i labirinti della dolce follia di [[motifs/lamb|Lamb]]. Ma ciò potrebbe accadere solo se io fossi non soltanto molto più intelligente, ma molto migliore di quel che sono. Prima di raggiungere quella sfera avrò lasciato dietro di me, forse, la sfera abitata dagli angeli, e avrò persino oltrepassato quella riservata esclusivamente all'uso degli uomini dello Yorkshire.
+
+No; [[settings/london|Londra]], in questa faccenda, è attaccata sul suo terreno più forte. [[settings/london|Londra]] è la più grande delle gonfie città moderne; [[settings/london|Londra]] è la più fumosa; [[settings/london|Londra]] è la più sudicia; [[settings/london|Londra]] è, se volete, la più cupa; [[settings/london|Londra]] è, se volete, la più misera. Ma [[settings/london|Londra]] è di certo la più divertente e la più divertita. Potrete dimostrare che abbiamo più [[forms/tragedy|tragedia]]; resta il fatto che abbiamo più [[forms/comedy|commedia]], che abbiamo più farsa. Abbiamo, nel peggiore dei casi, una splendida ipocrisia di umorismo. Nascondiamo il nostro dolore dietro una derisione sguaiata. Voi parlate di gente che ride tra le [[motifs/tears|lacrime]]; è nostro vanto che noi piangiamo soltanto attraverso la nostra risata. Rimane sempre questo grande vanto, forse il più grande vanto possibile alla [[concepts/nature|natura]] umana. Intendo il grande vanto che la parte più infelice della nostra popolazione è anche la parte più ilare. I poveri possono dimenticare quel problema sociale che noi (i moderatamente ricchi) non dovremmo mai dimenticare. Beati i poveri; poiché essi soli non hanno sempre i poveri con sé. I poveri onesti possono talvolta dimenticare la [[concepts/poverty|povertà]]. I ricchi onesti non possono mai dimenticarla.
+
+Credo fermamente nel valore di tutte le nozioni volgari, e in special
+modo delle barzellette volgari. Quando avete afferrato una barzelletta
+volgare, potete essere certi di aver afferrato un'idea sottile e
+spirituale. Gli uomini che fecero la battuta videro qualcosa di profondo
+che non riuscivano a esprimere se non con qualcosa di sciocco ed
+enfatico. Videro qualcosa di delicato che potevano esprimere solo con
+qualcosa di indelicato. Ricordo che il signor Max Beerbohm (il quale
+possiede ogni merito tranne quello della [[concepts/democracy|democrazia]])
+tentò di analizzare le facezie di cui ride la folla. Le divise in tre
+categorie: le facezie sull'umiliazione corporea, le facezie sulle cose
+straniere, come gli stranieri, e le facezie sul formaggio
+andato a male. Il signor Max Beerbohm credeva di comprendere le prime
+due forme; ma non sono sicuro che le comprendesse. Per capire
+l'umorismo volgare non basta essere spiritosi. Bisogna anche
+essere volgari, come lo sono io. E nel primo caso è senz'altro evidente
+che non ridiamo (come confido facciamo) semplicemente per il fatto che
+qualcosa si fa male, quando un Primo Ministro si siede sul proprio
+cappello. Se fosse così dovremmo ridere ogni volta che vediamo un
+funerale. Non ridiamo del semplice fatto che qualcosa cade; non vi è
+nulla di comico nelle [[motifs/leaves|foglie]] che cadono o nel sole che
+tramonta. Quando la nostra casa crolla non ridiamo. Tutti gli
+[[motifs/birds|uccelli]] del cielo potrebbero piovere intorno a noi in un
+acquazzone perpetuo come una grandinata senza destare un sorriso. Se
+davvero vi chiedete perché ridiamo di un uomo che si siede
+all'improvviso in mezzo alla strada, scoprirete che la ragione non è
+soltanto recondita, ma in ultima analisi religiosa. Tutte le facezie
+sugli uomini che si siedono sul proprio cappello sono in verità facezie
+teologiche; riguardano la duplice [[concepts/nature|natura]] dell'uomo. Si
+riferiscono a quel [[concepts/paradox|paradosso]] primario per cui l'uomo è
+superiore a tutte le cose che lo circondano e tuttavia è alla loro
+[[concepts/mercy|mercé]].
+
+Del tutto egualmente sottile e spirituale è l'idea che sta dietro al
+ridere degli stranieri. Riguarda l'ilarità quasi tormentosa di una cosa
+che è simile a se stessi e tuttavia dissimile da se stessi. Nessuno ride
+di ciò che è interamente straniero; nessuno ride di una palma. Ma è
+buffo vedere la familiare immagine di Dio travestita dietro la barba
+nera di un francese o il volto nero di un negro. Non c'è nulla di comico
+nei suoni che sono del tutto disumani, l'ululato delle bestie feroci o
+del [[motifs/wind|vento]]. Ma se un uomo comincia a parlare come noi, e però
+tutte le sillabe gli escono diverse, allora, se si è uomini, si sente
+l'inclinazione a ridere, sebbene, se si è gentiluomini, si resista
+all'inclinazione.
+
+Il signor Max Beerbohm, ricordo, professava di comprendere le prime due
+forme dell'arguzia popolare, ma diceva che la terza lo lasciava del
+tutto perplesso. Non riusciva a capire perché ci dovesse essere
+qualcosa di comico nel formaggio andato a male. Posso dirglielo
+subito. Gli è sfuggita l'idea perché essa è sottile e filosofica, mentre
+lui cercava qualcosa di ignorante e sciocco. Il formaggio
+andato a male è comico perché è (come lo straniero o l'uomo caduto sul
+selciato) il tipo del passaggio o della trasgressione al di là di un
+grande confine mistico. Il formaggio andato a male simboleggia
+il mutamento dall'inorganico all'organico. Il formaggio andato
+a male simboleggia lo sbalorditivo prodigio della materia che assume
+vitalità. Simboleggia l'origine stessa della vita. Ed è solo di
+questioni così solenni come l'origine della vita che la
+[[concepts/democracy|democrazia]] si degna di scherzare. Così, per esempio, la
+[[concepts/democracy|democrazia]] scherza sul [[motifs/marriage|matrimonio]], perché il
+[[motifs/marriage|matrimonio]] è parte del genere umano. Ma la
+[[concepts/democracy|democrazia]] non si degnerebbe mai di scherzare sul Libero
+[[motifs/love|Amore]], perché il Libero [[motifs/love|Amore]] è un pezzo di
+pedanteria saccente.
+
+In effetti, si troverà generalmente che la barzelletta popolare non è
+vera alla lettera, ma è vera nello spirito. La barzelletta volgare è di
+solito, nel modo più strano, la [[concepts/truth|verità]] e tuttavia non il fatto.
+Per esempio, non è affatto vero che le suocere siano come categoria
+oppressive e intollerabili; la maggior parte di esse sono al tempo
+stesso devote e utili. Tutte le suocere che io abbia mai avuto erano
+ammirevoli. Eppure la leggenda dei giornali umoristici è profondamente
+vera. Richiama l'attenzione sul fatto che è assai più difficile essere
+una buona suocera che essere buoni in qualsiasi altra concepibile
+relazione della vita. Le caricature hanno rappresentato la peggiore
+suocera come un [[archetypes/monster|mostro]], per esprimere il fatto che la
+migliore suocera è un problema. Lo stesso vale per le perpetue facezie
+dei giornali umoristici sulle mogli bisbetiche e sui mariti succubi. È
+tutta una frenetica esagerazione, ma è l'esagerazione di una
+[[concepts/truth|verità]]; mentre tutte le moderne tirate sulle donne oppresse
+sono le esagerazioni di una menzogna. Se leggete anche i migliori
+intellettuali di oggi li troverete affermare che nella massa della
+[[concepts/democracy|democrazia]] la donna è la proprietà del suo signore, come
+la sua vasca o il suo letto. Ma se leggete la letteratura umoristica
+della [[concepts/democracy|democrazia]] troverete che è il signore a nascondersi
+sotto il letto per sfuggire all'ira della sua proprietà. Questo non è il
+fatto, ma è molto più vicino alla [[concepts/truth|verità]]. Ogni uomo sposato sa
+[[motifs/well|bene]] non solo che non considera la propria moglie una proprietà,
+ma che nessun uomo può concepibilmente averlo mai fatto. La barzelletta
+sta per una [[concepts/truth|verità]] ultima, e questa è una [[concepts/truth|verità]]
+sottile. Non è affatto facile enunciarla correttamente. La si può forse
+enunciare nel modo più corretto dicendo che, anche se l'uomo è il capo
+della casa, egli sa di esserne la polena.
+
+Ma i volgari giornali umoristici sono tanto sottili e veri da
+essere perfino profetici.  Se davvero volete sapere che cosa sta per
+accadere al futuro della nostra [[concepts/democracy|democrazia]], non leggete le moderne
+profezie sociologiche, non leggete nemmeno le Utopie del signor Wells
+a questo scopo, per quanto dobbiate certamente leggerle
+se avete a cuore l'onestà schietta e il buon inglese.  Se
+volete sapere che cosa accadrà, studiate le pagine di Snaps
+o di Patchy Bits come se fossero le oscure tavole incise con
+gli oracoli degli dèi.  Perché, per meschini e grossolani che siano,
+in tutta serietà, essi contengono ciò che è del tutto assente da
+ogni Utopia e da ogni congettura sociologica del nostro [[motifs/time|tempo]]:
+contengono qualche indizio delle abitudini reali e dei desideri
+manifesti del popolo inglese.  Se davvero vogliamo scoprire
+che cosa la [[concepts/democracy|democrazia]] finirà per fare di sé stessa, lo troveremo
+di sicuro non nella letteratura che studia il popolo,
+ma nella letteratura che il popolo studia.
+
+Posso addurre due casi fortuiti in cui la battuta comune o cockney fu una profezia
+assai migliore delle attente osservazioni dell'osservatore più colto.
+Quando l'Inghilterra si agitava, prima delle ultime elezioni generali,
+sull'esistenza del lavoro cinese, vi era una netta differenza
+tra il tono dei politici e il tono del popolo.
+I politici che disapprovavano il lavoro cinese si affannavano
+a spiegare che non disapprovavano in alcun senso
+i Cinesi.  Secondo loro, era una pura questione di correttezza giuridica,
+se certe clausole nel contratto di ingaggio non fossero
+incompatibili con le nostre tradizioni costituzionali: secondo loro,
+il caso sarebbe stato identico se quella gente fosse stata di Cafri
+o di Inglesi.  Tutto suonava mirabilmente illuminato e lucido;
+e al confronto la battuta popolare appariva, naturalmente, assai povera.
+Perché la battuta popolare contro i lavoratori cinesi era semplicemente
+che erano Cinesi; era un'obiezione contro un tipo alieno;
+i giornali popolari erano pieni di frizzi su codini e facce gialle.
+Sembrava che i politici liberali sollevassero un'obiezione
+intellettuale a un dubbio documento di Stato; mentre sembrava che la
+plebe radicale non facesse che sghignazzare idiotamente alla vista
+degli abiti di un cinese.  Ma l'istinto popolare aveva ragione,
+poiché i vizi rivelati erano vizi cinesi.
+
+Ma c'è un altro caso più piacevole e più attuale.
+I giornali popolari si ostinarono sempre a raffigurare la Donna Nuova
+o la Suffragetta come una donna brutta, grassa, con gli occhiali,
+con abiti sformati, e in genere mentre cade da una bicicletta.
+Come nudo fatto esteriore, non v'era una parola di [[concepts/truth|verità]]
+in tutto ciò.  Le capofila del movimento di emancipazione femminile
+non sono affatto brutte; la maggior parte sono straordinariamente belle.
+Né sono indifferenti all'arte o al costume decorativo;
+molte di esse sono spaventosamente attaccate a queste cose.
+Eppure l'istinto popolare aveva ragione.  Perché l'istinto popolare
+era che in questo movimento, a torto o a ragione,
+vi era un elemento di indifferenza alla dignità femminile,
+una disponibilità del tutto nuova delle donne a farsi [[concepts/grotesque|grottesche]].
+Queste donne davvero disprezzavano la qualità pontificale della donna.
+E nelle nostre strade e intorno al nostro Parlamento abbiamo visto
+la maestosa donna dell'arte e della cultura mutarsi nella donna comica
+di Comic Bits.  E che si giudichi giustificabile l'esibizione
+o no, la profezia dei giornali comici è giustificata;
+le masse sane e volgari erano consapevoli di un nemico nascosto
+delle loro tradizioni, che ora è venuto alla luce del giorno,
+affinché le scritture si adempissero.  Perché le due cose
+che una persona sana odia di più tra il cielo e l'inferno sono
+una donna che non è dignitosa e un uomo che lo è.
+
+-------------------------------------------------------------------------------
+
+Part of an etext in progress by Rob Szarka.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="cockneys (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/home,motif/lamb,motif/nature,motif/stars,motif/swallow,motif/tears,motif/time,concept/nature,concept/poverty,concept/truth,form/comedy,form/tragedy,setting/london,setting/new_york,character/mermaid"></span>

@@ -51799,6 +51799,64 @@ With that, he fell back into his place beside Barnaby; and when the
 secretary looked after him, both were lost in the crowd.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ah!” disse finalmente Hugh, ridendo: “Barnaby è davvero un tipo straordinario: riesce a fare di più, con meno riposo, cibo o bevande di qualsiasi di noi. Per quanto riguarda il suo ruolo di soldato, l’ho messo proprio lì.”
+
+“Poi c’era un oggetto all’interno, e per di più un oggetto davvero bello, lo giuro,” ribatté Dennis con un ampio sorriso, accompagnandolo da un giuramento altrettanto sincero. “Di cosa si trattava, fratello?”
+
+“Vedi,” disse Hugh avvicinandosi un po' di più a lui, “il nostro nobile capitano, ieri mattina, era piuttosto ubriaco. E, proprio come te e me, è stato lo stesso anche la scorsa [[motifs/night|notte]].”
+
+Dennis guardò verso il punto in cui [[characters/simon-tappertit|Simon Tappertit]] era disteso su un mucchio di paglia, russando profondamente, e annuì.
+
+“E il nostro nobile capitano,” continuò Hugh ridendo di nuovo, “il nostro nobile capitano e io abbiamo pianificato per domani un’impresa davvero entusiasmante, che ci porterà a ottenere ottimi profitti.”
+
+“Di nuovo i papisti?”, chiese Dennis, strofinandosi le mani.
+
+“Ah, contro i papisti, almeno contro uno di loro, poiché alcuni di noi, e io per primo, gli portiamo un profondo rancore.”
+
+“Non è mica l’amico di Muster Gashford di cui ci ha parlato nella mia casa, eh?”, disse Dennis, pieno di piacevoli aspettative.
+
+“Lo stesso uomo,” disse Hugh.
+
+“Proprio il tuo stile,” esclamò felicemente il signor Dennis stringendogli la mano, “proprio questo genere di comportamento! Che ne dici di vendette e offese, e tutto il resto? Così andremo avanti molto più velocemente. Davvero, ora parli come si deve!”
+
+‘Ah ah ah! Il capitano,’ aggiunse Hugh, ‘ha in mente di rapire una donna nel bel mezzo del trambusto, e, ah ah ah! Anche io lo stesso!’
+
+Il signor Dennis accolse questa parte del piano con un’espressione ironica, osservando che, in linea di principio generale, si opponeva completamente alle donne, ritenendole persone pericolose e imprevedibili, su cui non era possibile fare calcoli affidabili, e le quali non mantenevano mai lo stesso stato d’animo per ventiquattro ore consecutive. Avrebbe potuto approfondire molto di più questo argomento, ma gli venne in mente di chiedere quale fosse il legame tra la proposta spedizione e l’incarico affidato a Barnaby di fare la guardia alla stalla; a cui Hugh rispose con cautela:
+
+“Beh, le persone che intendiamo visitare erano sue amiche, un tempo. E so abbastanza di lui da essere quasi certo che, se pensasse che potremmo far loro del male, non sarebbe affatto dalla nostra parte, ma ci aiuterebbe subito contro di loro. Così l’ho convinto (poiché lo conosco bene) che Lord George lo ha scelto per sorvegliare questo posto domani, mentre noi saremo via. E che si tratta di un grande [[concepts/honour|onore]]. Ora è in servizio, e ne è così orgoglioso come se fosse un generale. Ha ha! Che ne dici di un uomo così attento e, beh, anche piuttosto spietato?”
+
+# Mr Dennis si esaurì in complimenti, e poi aggiunse.
+
+“Ma riguardo all’esplorazione in sé, ”
+
+“Riguardo a questo,” disse Hugh, “ascolterete tutti i dettagli da me e dal grande capitano insieme. Guardate, si sta svegliando! Alzatevi, cuore di leone. Ah ah! Mettete su un bel viso e bevete ancora. Un altro ‘capello’ di quel cane che vi ha morso, capitano. Chiedete da bere! Ci sono abbastanza coppe d’oro e d’argento, candelabri sepolti sotto il mio letto,” aggiunse, rotolando via la cannuccia e indicando il punto dove il terreno era stato appena rivoltato, “per pagarli. Anche se fossero venti barili pieni. Bevete, capitano!”
+
+Il signor Tappertit accolse queste scherzose sollecitazioni con molto scarso garbo; in realtà, sia mentalmente che fisicamente, era in condizioni molto peggiori a causa delle due notti di dissolutezza appena trascorse, e faticava persino a stare in piedi. Tuttavia, con l’aiuto di Hugh, riuscì a barcollare fino alla fontana; dopo essersi dissetato con abbondanti sorsi d’acqua fredda e aversi spruzzato la testa e il viso con lo stesso liquido refrigerante, ordinò che gli portassero del rum e del latte. Con quel semplice pasto, accompagnato da alcuni biscotti e formaggio, si ristorò piuttosto bene. Una volta fatto ciò, si sdraiò comodamente a terra accanto ai suoi due compagni (che continuavano a divertirsi a modo loro) e iniziò a spiegare al signor Dennis i dettagli del piano per il giorno seguente.
+
+Il fatto che la loro conversazione fosse interessante risultava evidente dalla sua durata e dall’attenzione profonda di tutti e tre. Che non avesse un tono particolarmente serio o opprimente, ma fosse arricchita da varie battute piacevoli legate all’argomento, si capiva dai loro frequenti e sonori scoppi di risate, che sorprendevano Barnaby mentre era di guardia e lo facevano meravigliare della loro spensieratezza. Tuttavia, non fu invitato a unirsi a loro fino a quando non ebbero mangiato, bevuto, dormito e continuato a chiacchierare per alcune ore; soltanto all’imbrunire gli dissero che stavano per organizzare una piccola manifestazione in strada, semplicemente per tenere occupata la gente, visto che era [[characters/sunday|domenica]] [[motifs/night|notte]] e altrimenti il pubblico avrebbe potuto sentirsi deluso. E gli offrirono la possibilità di unirsi a loro, se lo desiderava.
+
+Senza la minima preparazione, se non quella di portare mazze e indossare la coccarda blu, uscirono per le strade; e, senza alcun piano preciso se non quello di causare quanta più distruzione possibile, si misero a girovagare a caso. Il loro numero aumentò rapidamente e presto si divisero in gruppi; concordando di incontrarsi poco dopo nei campi vicino a Welbeck Street, devastarono la città in varie direzioni. Il gruppo più numeroso, e quello che cresceva più velocemente, era quello a cui appartenevano Hugh e Barnaby. Questo gruppo si diresse verso Moorfields, dove c’era una ricca chiesa, e nelle vicinanze della quale vivevano diverse famiglie cattoliche.
+
+Partendo dalle case private che erano state occupate, sfondarono porte e finestre; distrussero i mobili, lasciando solo le pareti nude, e cercarono attentamente strumenti e attrezzi utilizzabili per causare danni, come martelli, pali, asce, seghe e simili oggetti. Molti dei rivoltosi fecero delle cinture con corde, fazzoletti o qualsiasi materiale avessero a disposizione, e le indossarono apertamente, proprio come i pionieri in un giorno di lavoro. Non c’era alcun tentativo di nascondersi o mimetizzarsi; anzi, quella [[motifs/night|notte]] non si registrò alcuna fretta né agitazione particolare. Dalle chiese strapparono via altari, banchi, pulpiti, panche e pavimenti; dalle abitazioni, persino le cornici e le scale. Quella “divertimento” di quella [[characters/sunday|domenica]] sera fu portata avanti come se si trattasse semplicemente di un compito da svolgere, e fu eseguita con estrema determinazione. Cinquanta uomini risoluti avrebbero potuto fermarli in qualsiasi momento; una sola compagnia di soldati avrebbe potuto disperderli come [[motifs/dust|polvere]]. Ma nessuno intervenne, nessuna autorità li fermò; e, a parte le persone terrorizzate che fuggivano al loro passaggio, furono ignorati completamente, come se stessero svolgendo le loro attività legali con la massima sobrietà e comportamento irreprensibile.
+
+Nello stesso modo, marciarono verso il luogo di incontro concordato, accesero grandi falò nei campi e, tenendo da parte i tesori più preziosi, bruciarono il resto. Abiti sacerdotali, immagini dei santi, oggetti preziosi e ornamenti, arredi per gli altari e beni domestici furono gettati tra le fiamme, illuminando l’intera regione circostante; ma loro danzarono, urlarono e gridarono intorno a quei falò fino a quando non si stancarono, senza mai fermarsi nemmeno per un istante.
+
+Mentre il gruppo principale si allontanava da quella scena d’azione e proseguiva lungo Welbeck Street, incrociarono Gashford, che aveva assistito a quanto accaduto e camminava furtivamente sul marciapiede. Tenendosi al suo passo, senza però parlare, Hugh gli sussurrò all’orecchio:
+
+“È meglio così, padrone?”
+
+“No,” disse Gashford. “Non lo è.”
+
+“Cosa vorresti?” disse Hugh. “Le febbri non raggiungono mai il loro apice tutto d’un tratto. Devono svilupparsi gradualmente.”
+
+“Te lo farei fare,” disse Gashford, stringendogli il braccio con tale malvagità che le sue unghie sembravano conficcarsi nella pelle; “te lo farei fare a dare un senso al tuo lavoro. Idioti! Non riuscite a preparare falò migliori usando solo stracci e rifiuti? Non potete bruciare niente di intero?”
+
+“Un po’ di pazienza, padrone,” disse Hugh. “Aspettate solo qualche ora e vedrete. Cercate un colore rosso nel cielo, domani [[motifs/night|notte]].”
+
+Con questo, tornò a sedersi al suo posto accanto a Barnaby; e quando il segretario si preoccupò di lui, entrambi scomparvero nella folla.
+
 
 
 <span class="atom-split" data-atom="chapter_53--part_01" data-title="Barnaby Rudge — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/king,motif/bells,motif/city,motif/clock,motif/cross,motif/home,motif/lamb,motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/madness,concept/poverty,concept/self,character/barnaby_rudge"></span>

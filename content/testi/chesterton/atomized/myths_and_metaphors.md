@@ -152,6 +152,145 @@ Footnote 1:  This is the title of a collection of Swinburne's poems
 === End ===
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Miti e metafore
+
+Miti e metafore
+
+di G. K. Chesterton
+
+Originariamente pubblicato su The Illustrated [[settings/london|London]] News, 26 gennaio 1929.
+
+(Fonte: G. K. Chesterton, Collected Works, Volume XXXV,
+The Illustrated [[settings/london|London]] News 1929-1931,
+Ignatius Press, San Francisco, 1991. Pagine 29-33.)
+
+Ciò che oso criticare in certi uomini, che alcuni chiamano scienziati
+e io chiamo materialisti, è il loro perpetuo uso della Mitologia.
+Metà di ciò che dicono è tanto vero da essere banale; l'altra
+metà di ciò che dicono è tanto falsa da essere trasparente.
+Ma entrambe le loro ovvietà e le loro impunture le ammantano
+con un'elaborata sfilata di immagini leggendarie e allegoriche.
+Ho letto questo in certe osservazioni sul darwinismo di uno degli ultimi
+darwiniani superstiti: "Tra gli individui di ogni specie
+si svolge, come Malthus aveva capito, una competizione di lotta
+per i mezzi di vita, e la [[concepts/nature|Natura]] seleziona gli individui che variano
+nella direzione di maggiore successo." Ora, quando gli uomini delle antiche religioni
+dicevano che Dio scelse un popolo e suscitò un [[archetypes/prophet|profeta]], almeno
+intendevano qualcosa; e intendevano ciò che dicevano. Intendevano che
+un essere dotato di mente e di volontà li usava in un atto di selezione.
+Ma chi è la [[concepts/nature|Natura]], e come fa lei, o lui, o esso, a selezionare
+qualcosa o qualcuno? Tutto ciò che lo scrittore ha realmente da dire è che
+alcuni individui emergono mentre altri individui vengono estinti.
+Non c'era certo bisogno di Darwin o dei darwiniani per dircelo.
+Ma la [[concepts/nature|Natura]] che seleziona quelli che variano nella direzione di maggiore successo
+non significa assolutamente nulla, tranne che chi ha successo ha successo.
+Ma questo truismo tautologico è avvolto in nubi di mitologia,
+con l'introduzione di un essere mitico che perfino lo scrittore
+considera un mito. Il lettore deve restare impressionato e ingannato
+dalla visione di una vasta dea di pietra assisa su un trono montano,
+che addita una particolare rana o coniglio dicendo, con tono di tuono,
+che questa sola deve sopravvivere. Tutto ciò che sappiamo è che sopravvive
+(per il momento), e poi ci [[concepts/pride|vantiamo]] di essere capaci
+di ripetere il mero fatto che sopravvive in una cinquantina
+di espressioni variopinte e fiorite: come che ha valore di [[concepts/survival|sopravvivenza]];
+o che è naturalmente selezionata per la [[concepts/survival|sopravvivenza]]; o che sopravvive
+perché è la più adatta alla [[concepts/survival|sopravvivenza]]; o che la grande legge della [[concepts/nature|Natura]]
+della [[concepts/survival|sopravvivenza]] del più adatto le comanda severamente di sopravvivere.
+I critici della religione solevano dire che i suoi misteri erano buffonate;
+ma queste cose sono nel senso speciale e reale delle buffonate.
+Sono cose offerte a una congregazione credula da sacerdoti che le sanno
+buffonate. È impossibile provare che il sacerdote
+sappia che non c'è dio nel sacrario, o nessuna [[concepts/truth|verità]] nell'oracolo.
+Ma sappiamo che il materialista sa che non esiste alcuna cosa simile
+a una grande e schizzinosa signora, chiamata [[concepts/nature|Natura]], che punta un dito
+verso una rana.
+
+Il caso particolare in cui questa metafora mitologica fu usata è
+naturalmente un'altra faccenda. È, invero, una faccenda che ha coinvolto
+in varie epoche una gran quantità di questo elemento di mitologia materialista.
+Per vedere quale [[concepts/truth|verità]] vi fosse davvero dentro dovremmo risalire al vecchio
+dibattito darwiniano; cosa che non ho la minima intenzione di fare qui.
+Ma posso osservare, di passaggio, che questa nozione della [[concepts/nature|Natura]] che seleziona
+le cose è specialmente incompatibile con tutto ciò che si può davvero dire
+a favore della loro stessa tesi; e che il nome stesso di selezione naturale
+è un nome quanto mai innaturale per essa. Poiché la loro intera tesi è che
+tutto è accaduto, nell'ordinario senso umano, per caso.
+Dovremmo piuttosto chiamarla coincidenza; e alcuni di noi la chiamano una coincidenza
+del tutto incredibile. Ma, comunque sia, l'intera tesi a suo favore è che
+un quadrupede si trovò ad avere un collo lungo, e si trovò a vivere
+in un momento in cui era necessario raggiungere un albero o un arbusto più alto.
+Se questi accadimenti si danno a caso un centinaio di volte di seguito,
+esattamente allo stesso modo, con quel processo si può trasformare qualche sorta
+di pecora o capra in una giraffa. Se ciò sia probabile o no è
+un'altra questione. Ma l'intero argomento darwiniano è che NON è
+un caso di [[concepts/nature|Natura]] che seleziona, più di quanto sia un caso di Dio che seleziona, o di chiunque
+altro che seleziona, ma un caso di cose che capitano in quel modo.
+Siamo prontissimi a discutere di alberi e giraffe al posto loro,
+senza perpetui riferimenti a Dio. Non potrebbero i materialisti controllare
+almeno un poco il loro sentimentalismo retorico e romantico da farlo
+senza perpetui riferimenti alla [[concepts/nature|Natura]]? Facciamo un patto:
+che noi per il momento tralasceremo la nostra teologia, se essi
+tralasceranno la loro mitologia?
+
+Ma l'abitudine mitologica non è interamente ed esclusivamente
+confinata agli uomini di scienza, e nemmeno ai materialisti. Questa sorta
+di mitologia è piuttosto diffusa in generale nel mondo moderno.
+La forma popolare del mitologico è il metaforico.
+Certe figure retoriche sono fissate nella mente moderna, esattamente come le
+favole degli dèi e delle ninfe erano fissate nella mente dell'antichità pagana.
+È stupefacente notare quanto spesso, quando ci rivolgiamo a un uomo con
+qualcosa che somigli a un'idea, egli risponda con qualche metafora consacrata,
+che si suppone appropriata al caso. Se gli dite:
+"Io stesso preferisco il principio della Corporazione al principio
+del Trust," non vi risponderà parlando di principii.
+Si può contare sul fatto che dirà: "Non si può riportare indietro l'[[motifs/clock|orologio]],"
+con tutta la regolarità di un [[motifs/clock|orologio]] che ticchetta. Questo è un esempio molto estremo
+del crollo mentale che accompagna una ricaduta nella metafora.
+Poiché l'uomo sta effettivamente comprendendo il proprio caso per puro
+[[motifs/love|amore]] della metafora. Può darsi che non si possa riportare indietro il [[motifs/time|tempo]],
+ma si può riportare indietro l'[[motifs/clock|orologio]]. Sarebbe in una posizione più solida
+se parlasse dell'astrazione chiamata [[motifs/time|tempo]]; ma un appetito onnivoro
+per il linguaggio figurato lo costringe a parlare di orologi.
+Naturalmente la vera questione sollevata non ha nulla a che fare né con gli orologi
+né con il [[motifs/time|tempo]]. È la questione se certi principii astratti,
+che possono o meno essere stati osservati in passato, debbano essere
+osservati in futuro. Ma il punto è qui: che perfino l'uomo che intende dire
+che non possiamo ricostruire il passato non riesce quasi mai a ricostruire
+la propria frase in altra forma se non in questa forma figurata.
+Senza il suo mito, o la sua metafora, è perduto.
+
+Un'altra massa di metafore è tratta dai fenomeni del mattino,
+o dal fatto che il sole sorge; o, piuttosto (mi prostro chiedendo scusa all'uomo
+di scienza), sembra sorgere. È una metafora perfettamente naturale
+per i poeti; o invero per tutti gli uomini, in quell'aspetto in cui tutti gli uomini
+sono mistici. Che vi sia mistero in queste cose naturali, che l'
+[[concepts/imagination|immaginazione]] comprende più sottilmente della ragione, è abbastanza vero.
+Né provo alcun disprezzo neppure per la mitologia considerata come mitologia.
+Ma quando vogliamo sapere ciò che qualcuno vuole fare, quando
+chiediamo a un libero pensatore cosa pensa, e perché lo pensa, è
+un po' fastidioso sentirsi dire che sta aspettando l'[[motifs/dawn|Alba]],
+o che è al momento intento a cantare Songs Before Sunrise.
+[Nota 1] Si è tentati di ribattere che l'[[motifs/dawn|alba]] non è sempre
+una cosa del tutto lieta, anche per coloro che hanno esercitato il loro
+libero pensiero sulla tradizione convenzionale della propria società.
+Esiste una cosa come l'essere fucilati all'[[motifs/dawn|alba]].
+
+Non intendo affatto, si capisce, che dovremmo fare a meno del tutto
+di miti e metafore. Io stesso li uso di continuo,
+e continuerò a farlo. Ma penso che dovremmo tutti stare
+in guardia dal dipendere da essi come sostituto della ragione.
+Forse sarebbe [[motifs/well|bene]] istituire un Giorno di Digiuno, in cui ci impegnassimo
+ad astenerci da tutto tranne che dai termini astratti. Mettiamoci tutti d'accordo
+che ogni venerdì faremo a meno delle metafore come della carne.
+Sono certo che gioverebbe alla digestione intellettuale.
+
+Nota 1: Questo è il titolo di una raccolta di poesie di Swinburne
+(1871) di forte impronta politica.
+
+=== Fine ===
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Myths_and_Metaphors (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/nature,concept/nature,concept/pride,concept/survival,concept/truth,setting/london"></span>

@@ -64,7 +64,7 @@ So very, very, very, Vegetarian.
 
 IL VEGETARIANO LOGICO  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 "Perché non dovrei concedermi una bevanda puramente vegetariana?  Perché non dovrei  
 assumere le verdure nella loro forma più alta, per così dire?  I modesti  

@@ -41,7 +41,7 @@ Certo, amici, avrei dovuto immaginarlo:
 La [[motifs/death|Morte]] era solo lo scherzo del buon [[archetypes/king|Re]],  
 Era nascosto con tanta cura.  
 
-# G.K. Chesterton
+G.K. CHESTERTON
 
 
 

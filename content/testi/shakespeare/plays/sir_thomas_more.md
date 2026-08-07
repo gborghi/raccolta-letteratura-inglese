@@ -999,11 +999,995 @@ tags:
 | MORE | No, my good friend, I have a great cold already, and I would be loath to take more. Point me meet the block, for I was ne’er here before. |
 | HANGMAN | To the east side, my lord. |
 | MORE | Then to the east.<br>We go to sigh; that o’er, to [[motifs/sleep\|sleep]] in rest.<br>No eye salute my trunk with a sad tear.<br>Our birth to heaven should be thus: void of [[concepts/fear\|fear]]. Exit |
-| BY | SHAKESPEARE, ADAPTED BY THOMAS MIDDLETON<br>Measure for Measure, first printed in the 1623 Folio, was performed at [[settings/court\|court]] on 26 December 1604. Plague had caused [[settings/london\|London]]’s theatres to be closed from May 1603 to April 1604; the play was probably written and first acted during this period. Dislocations and other features of the text as printed suggest that it may have undergone adaptation after Shakespeare’s [[motifs/death\|death]]. Someone—perhaps Thomas Middleton, to judge by the style—seems to have supplied a new, seedy opening to Act I, Scene 2; and an adapter seems also to have altered 3.1. 517-4.1.63 by transposing the Duke’s two soliloquies, by introducing a stanza from a popular song, and supplying dialogue to follow it, and by adding other short passages. We print the text in what we believe to be its adapted form; a conjectured reconstruction of Shakespeare’s original version of the adapted sections is given in the Additional Passages.<br>The story of a woman who, in seeking to save the life of a male relative, arouses the lust of a man in authority was an ancient one that reached literary form in the mid sixteenth century. Shakespeare may have known the prose version in Giambattista Cinzio Giraldi’s Gli Ecatommiti (1565, translated into French in 1583) and the same author’s play Epitia (1573, published in 1583), but his main source was George Whetstone’s unsuccessful, unperformed two-part [[forms/tragicomedy\|tragicomedy]] Promos and Cassandra, published in 1578.<br>Shakespeare’s title comes from St Matthew’s account of [[characters/christ\|Christ]]’s Sermon on the Mount: ‘with what measure ye mete, it shall be measured to you again’. The title is not expressive of the play’s morality, but it alerts the spectator to Shakespeare’s exploration of moral issues. His heroine, [[characters/isabella\|Isabella]], is not merely, as in Whetstone, a virtuous young maiden: she is about to enter a nunnery. Her brother, [[characters/claudio\|Claudio]], has not, as in Whetstone, been accused (however unjustly) of rape: his [[concepts/union\|union]] with the girl ([[characters/juliet\|Juliet]]) he has made pregnant has been ratified by a betrothal ceremony, and lacks only the church’s formal blessing. So [[characters/angelo\|Angelo]], deputizing for the absent Duke of Vienna, seems peculiarly harsh in attempting to enforce the [[motifs/city\|city]]’s laws against fornication by insisting on [[characters/claudio\|Claudio]]’s execution; and [[characters/angelo\|Angelo]]’s hypocrisy in demanding [[characters/isabella\|Isabella]]’s chastity in return for her brother’s life seems correspondingly greater. By adding the character of [[characters/mariana\|Mariana]], to whom [[characters/angelo\|Angelo]] himself had once been betrothed, and by employing the traditional motif of the ‘bed-trick’, by which [[characters/mariana\|Mariana]] substitutes for [[characters/isabella\|Isabella]] in [[characters/angelo\|Angelo]]’s bed, Shakespeare permits [[characters/isabella\|Isabella]] both to retain her virtue and to forgive [[characters/angelo\|Angelo]] without marrying him.<br>Although Measure for Measure, like The Merchant of [[settings/venice\|Venice]], is much concerned with justice and [[concepts/mercy\|mercy]], its more explicit concern with sex and [[motifs/death\|death]] along with the intense emotional reality, at least in the earlier part of the play, of its portrayal of [[characters/angelo\|Angelo]], [[characters/isabella\|Isabella]], and [[characters/claudio\|Claudio]], creates a deeper seriousness of tone which takes it out of the world of romantic [[forms/comedy\|comedy]] into that of [[forms/tragicomedy\|tragicomedy]] or, as the twentieth-century label has it, ‘[[forms/problem-play\|problem play]]’. Its low-life characters inhabit a diseased world of brothels and prisons, but there is a life-enhancing quality in their frank acknowledgement of [[concepts/sexuality\|sexuality]]; and the Duke’s manipulation of events casts a tinge of romance over the play’s later scenes.<br>Measure for Measure’s subtle and passionate exploration of issues of sexual morality, of the uses and abuses of power, gave it a special appeal in the later part of the twentieth century. Each of the ‘good’ characters fails in some respect; none of the ‘bad’ ones lacks some redeeming quality; all are, in the last analysis, ‘desperately mortal’ (4.2.148). |
-| THE PERSONS OF THE | PLAY<br>Vincentio, the DUKE of Vienna<br>[[characters/angelo\|ANGELO]], appointed his deputy<br>[[characters/escalus\|ESCALUS]], an old lord, appointed [[characters/angelo\|Angelo]]’s secondary<br><br>[[characters/claudio\|CLAUDIO]], a young gentleman<br>[[characters/juliet\|JULIET]], betrothed to [[characters/claudio\|Claudio]]<br>[[characters/isabella\|ISABELLA]], [[characters/claudio\|Claudio]]’s sister, novice to a sisterhood of nuns<br><br>[[characters/lucio\|LUCIO]], ‘a fantastic’<br>Two other such GENTLEMEN<br>FROTH, a foolish gentleman |
-| MISTRESS | OVERDONE, a bawd<br>[[characters/pompey\|POMPEY]], her clownish servant<br>A PROVOST<br>ELBOW, a simple constable<br>A JUSTICE<br>ABHORSON, an executioner<br>BARNARDINE, a dissolute condemned prisoner<br>[[characters/mariana\|MARIANA]], betrothed to [[characters/angelo\|Angelo]]<br>A BOY, attendant on [[characters/mariana\|Mariana]] |
-| FRIAR PETER | FRANCESCA, a nun<br>VARRIUS, a lord, friend to the Duke<br>Lords, officers, citizens, servants |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| BY ANTHONY MUNDAY AND | HENRY CHETTLE, WITH REVISIONS AND ADDITIONS BY THOMAS DEKKER, WILLIAM SHAKESPEARE AND THOMAS HEY WOOD |
+| THE | text that follows is entirely different from any other in this volume. All the other plays derive from printed editions; this comes from what is probably the untidiest, most heavily revised dramatic manuscript of the period, giving us unique insights into its playwrights’ working conditions. It represents a troubled and ultimately abandoned attempt on the part of various authors to create a script, interrupted by the censorial intervention of the Master of the Revels, [[characters/edmund\|Edmund]] Tilney. The working manuscript preserved in the British Library is described on its first leaf as ‘The Booke’—that is, the theatre manuscript—‘of Sir Thomas Moore.’ The basic manuscript is a fair copy made by the dramatist Anthony Munday (1560-1633) of a text in which he may have collaborated with Henry Chettle (c. 1560-c. 1607). Alterations and additions were made by Chettle, Thomas Dekker (c. 15 72-1632), very probably William Shakespeare, and probably Thomas Heywood (c. 1573-1641). A theatre scribe annotated parts of the manuscript, and some of the revisions exist in transcripts he wrote out. In this edition each section is preceded and concluded with an identification of the hand.<br>It seems likely that the original play was written during the early 1590s and submitted in the usual way to the Master of the Revels for a licence. Tilney called for substantial alterations. Though the play’s favourable portrait of a man sometimes seen as a Catholic martyr was provocative, Tilney’s attention was concentrated mostly on the insurrection scenes. In our view the original play was laid aside until soon after [[characters/queen-elizabeth\|Queen Elizabeth]] died, in 1603, when the political objections would have carried less weight, and the revisions—which do not meet Tilney’s requirements—were made then. Shakespeare’s authorship of the majority of Sc.6, first proposed in 1871, has been accepted by most scholars on the basis of handwriting and of the evidence of dramatic and linguistic style. His contribution shows him as a thoroughgoing professional sharing with colleagues whose work he respected in an essentially collaborative enterprise.<br>[[characters/sir-thomas-more\|Sir Thomas More]] is based on Holinshed’s Chronicles and Nicholas Harpsfield’s [[forms/biography\|biography]] of More. Sheriff More peacefully quells the riots of Londoners against resident foreigners on the ‘Ill May Day’ of 1517, and is appointed Lord Chancellor as a reward. In the Shakespearian Sc. 6, More persuades the rebels to surrender to the [[archetypes/king\|King]], arguing for obedience to authority and challenging the rebels to consider their own plight if, like the strangers, they were to live in [[concepts/exile\|exile]]. A passage less securely attributed to Shakespeare is More’s bemused and wary soliloquy at the beginning of Sc. 8. The play elsewhere presents a series of serio-comic episodes dramatizing his wit in attempting to [[concepts/reform\|reform]] minor offenders, his credentials as a humanist, his practical joking, and his [[motifs/love\|love]] of plays. More’s downfall and passage to the scaffold begin when he refuses the [[archetypes/king\|King]]’s demand that he sign unspecified articles. Later scenes, though sombre in tone, depict his almost light-hearted resolution to pursue [[motifs/death\|death]] rather than yield to the [[archetypes/king\|King]]’s demands.<br>The play has been performed most notably by the Royal Shakespeare Company in 2005. |
+| THE PERSONS OF THE | PLAY<br>Thomas MORE, a sheriff of [[settings/london\|London]], later [[characters/sir-thomas-more\|Sir Thomas More]] and<br>Lord Chancellor<br><br>The Earl of SHREWSBURY<br>The [[characters/earl-of-surrey\|Earl of SURREY]]<br><br>John [[characters/lincoln\|LINCOLN]], a broker |
+| DOLL | Williamson<br>WILLIAMSON, her husband, a carpenter |
+| CLOWN | BETTS, his brother, called Ralph<br>SHERWIN, a goldsmith<br><br>Francis de BARDE, a Lombard<br>CAVELIER, a Lombard or Frenchman<br><br>The [[characters/lord-mayor\|LORD MAYOR]] of [[settings/london\|London]]<br>The LADY MAYORESS<br>Justice SURESBY<br>LIFTER, a cutpurse<br>SMART, the plaintiff against him<br>The RECORDER of [[settings/london\|London]]<br><br>Sir Thomas PALMER<br>Sir Roger CHOLMLEY<br>Sir John MUNDAY<br>A SERGEANT-at-arms<br>CROFTS, a messenger from the [[archetypes/king\|King]]<br><br>RANDALL, More’s manservant<br>Jack FALKNER, a ruffian<br>ERASMUS, a learned clerk of Rotterdam<br>MORRIS, secretary to the Bishop of Winchester<br>The Lord Cardinal’s PLAYERS, performing the roles of: |
+| WIT | A boy player of LADY [[concepts/vanity\|VANITY]]<br>LUGGINS, player of Good Counsel<br><br>William ROPER, More’s son-in-law |
+| LADY | MORE, his wife |
+| ROPER’S | WIFE, one of More’s daughters<br>More’s OTHER DAUGHTER<br>CATESBY, More’s steward<br>GOUGH, More’s secretary<br><br>Doctor Fisher, Bishop of ROCHESTER<br>DOWNES, another sergeant-at-arms |
+| LIEUTENANT | of the Tower<br>A GENTLEMAN PORTER of the Tower<br>The HANGMAN<br><br>A poor WOMAN, a client of More<br>Other SHERIFFS |
+| CLERK | of the Council |
+| OFFICERS | Lords, Ladies, Gentlemen, Aldermen, Citizens, Prentices, Servingmen, Warders of the Tower, and Attendants |
+| NOTE ON SPECIAL FEATURES | OF PRESENTATION<br>Complexities in the manuscript have led to the following modifications of standard [[settings/oxford\|Oxford]] Shakespeare presentation.<br><br>Rules across the column show where the text switches from the Original Text to a revision and back, or from one revision to another. Notes in the right margin above and below these rules specify the section of the manuscript and the hand.<br><br>Annotations in a second hand are preserved and printed in a special typeface. Passages in the manuscript explicitly or implicitly deleted are underlined in this edition, except where the final text as edited duplicates the deleted text (see Appendix B). Identifiable interventions by second hands are as follows:<br><br>Tilney: in Sc. 1, Sc. 3, Sc. 10.<br>Playhouse book-keeper: in Sc. 4, Sc. 6 (Addition II and 1. 234), Sc. 9.<br>Dekker: phrase at 8.232-3. Heywood(?): addition of Clown’s part in Sc. 6 and Sc. 7.<br><br>Angle brackets 〈 〉 indicate gaps in the text due to damage to the manuscript. |
+| *(didascalia)* | Stage directions reflect the wording of the manuscript unless enclosed in special brackets  . |
+| NOTE ON SPECIAL FEATURES | The Book of [[characters/sir-thomas-more\|Sir Thomas More]]<br>[Original Text (monday)]<br>[Tilney]<br>Leave out the insurrection wholly and the cause thereof, and begin with Sir Thomos More at the Mayor’s sessions, with a report afterwards of his good service done being Sheriff of [[settings/london\|London]] upon a mutiny against the Lombards—only by a short report, and not otherwise, at your own perils. E. Tilney.<br><br>Sc. 1 |
+| *(didascalia)* | Entrano da un lato John [[characters/lincoln\|Lincoln]] con George Betts e Betts il Buffone insieme. Dall’altro lato entrano Francis de Barde e Doll, donna gagliarda, ch’egli trascina per il braccio |
+| DOLL | Dove vuoi trascinarmi? |
+| BARDE | Dove mi piace. Sei mia preda, e reclamo d’averti comprata. |
+| DOLL | Comprata me? Via, furfante! Sono l’onesta e semplice moglie d’un carpentiere, e, benché non abbia [[concepts/beauty\|bellezza]] da piacere a un marito, pure quanto è mio sdegna di piegarsi a uno straniero. Giù le mani, dunque, quando te lo comando! |
+| BARDE | Vieni con me di buon grado, o ti costringerò. |
+| DOLL | Costringermi, faccia di cane? Credi d’aver per le mani la moglie dell’orefice, che adescasti al marito con tutto il suo vasellame, e quando la rimandasti a [[motifs/home\|casa]] da lui gli facesti, come a un asino, pagare il vitto della propria moglie. |
+| BARDE | Così farò anche a tuo marito, se mi aggrada. |
+| *(didascalia)* | Entra Cavelier, con un paio di colombe, seguito da Williamson il carpentiere e da Sherwin |
+| DOLL | Eccolo che viene lui stesso. Diglielo, se ne hai l’ardire. |
+| CAVELIER | [a Williamson] Non seguirmi oltre. Ti dico che non le avrai. |
+| WILLIAMSON | Le ho comprate a Cheapside, e le ho pagate col mio denaro. |
+| SHERWIN | È vero, signore, davvero, e voi gli fate torto due volte, a togliergliele e a non restituirgli neppure il suo denaro. |
+| CAVELIER | Se le ha pagate, gli basti che io le possieda. Carne di manzo e brodo con pane servano a simili villani. Sono forse i piccioni cibo per un rozzo carpentiere? |
+| [[characters/lincoln\|LINCOLN]] | [a parte, a George Betts] È duro che la pazienza degli inglesi debba essere così calpestata dagli stranieri, e ch’essi non osino [[concepts/revenge\|vendicare]] i propri torti. |
+| GEORGE BETTS | [a parte, a [[characters/lincoln\|Lincoln]]] [[characters/lincoln\|Lincoln]], abbattiamoli, e non sopportiamo più questi soprusi. |
+| [[characters/lincoln\|LINCOLN]] | [a parte, a George Betts] Non possiamo, Betts. Sii paziente e ascolta ancora. |
+| DOLL | Ebbene, marito? Come, uno straniero ti toglie il cibo, e un altro la moglie? Per Nostra Signora, carne e [[motifs/blood\|sangue]], io credo, a stento possono tollerarlo. |
+| [[characters/lincoln\|LINCOLN]] | Non muterà mai questa faccenda? Debbono tali torti essere così sopportati? |
+| GEORGE BETTS | Facciamoci avanti, e aiutiamoli a [[concepts/revenge\|vendicare]] la loro offesa. |
+| BARDE | Chi sei tu che parli di [[concepts/revenge\|vendetta]]? Il mio signore Ambasciatore farà ancora una volta rimproverare il vostro Sindaco, se non ti punisce per questa insolente presunzione. |
+| WILLIAMSON | Davvero il mio [[characters/lord-mayor\|Lord Sindaco]], per lagnanza dell’Ambasciatore, mi mandò un giorno a Newgate perché, contro mia voglia, presi il muro a uno straniero. Voi potete far qualunque cosa. La moglie dell’orefice, e la mia ora, debbono stare ai vostri comandi. |
+| GEORGE BETTS | Tanto più pazienti sciocchi siete entrambi a sopportarlo. |
+| BARDE | Sopportarlo? Rimediaci tu o lui, se potete o osate. Ti dico, compare, che fosse ella la moglie del Sindaco di [[settings/london\|Londra]], una volta avutala in mio potere la terrei a dispetto di chi osasse dir di no. |
+| GEORGE BETTS | Ti dico, lombardo, che queste parole ti costerebbero il tuo miglior berretto, se non fossi frenato dal dovere e dall’obbedienza. La moglie del Sindaco di [[settings/london\|Londra]]? O Dio, dev’essere così? |
+| DOLL | Perché, Betts, non sono io cara a mio marito quanto la moglie del mio [[characters/lord-mayor\|Lord Sindaco]] a lui, [a Williamson] e tu vorrai patire con tanta noncuranza la tua stessa onta? [A de Barde] Giù le mani, straniero superbo, o, per Colui che mi riscattò, se i cuori lattiginosi degli uomini non osano colpire uno straniero, le donne pure li abbatteranno prima di sopportare questi soprusi. BARDE Padrona, vi dico che verrete con me. |
+| DOLL | Non toccare Doll Williamson, ché non ti stenda lunga disteso sulla cara terra di Dio. (A Cavelier) E voi, signore, che assegnate vivande così grossolane ai carpentieri, mentre i piccioni ch’essi pagano debbono servire al vostro delicato appetito: restituiteli a mio marito, o chiamerò tante donne in mio soccorso che non lasceremo di voi un pollice non lacerato. Se i nostri mariti debbono essere imbrigliati dalla legge, e costretti a sopportare i vostri torti, le loro mogli saranno un po’ senza legge, e vi batteranno di santa ragione. |
+| CAVELIER | Vieni via, de Barde, e andiamo a lagnarci col mio signore Ambasciatore. Escono entrambi |
+| DOLL | Sì, andate, e mandatelo fra noi, e daremo il benvenuto anche a lui. Mi vergogno che inglesi liberi di nascita, avendo battuto stranieri entro i confini di quelli, debbano essere così sfidati e oltraggiati da loro in [[motifs/home\|patria]]. |
+| SHERWIN | Non è mancanza di [[concepts/courage\|coraggio]] nella causa, ma la stretta obbedienza cui siamo vincolati. Io sono l’orefice dei cui torti parlavate; ma come raddrizzare i vostri o i miei è cosa che supera ogni nostra capacità. |
+| [[characters/lincoln\|LINCOLN]] | Non è così, non è così, miei buoni amici. Io, benché uomo umile, sensale di professione, e chiamato John [[characters/lincoln\|Lincoln]], ho lungo [[motifs/time\|tempo]] chiuso gli occhi su queste vili enormità con grande impazienza, e, come questi due fratelli qui, Betts di nome, possono testimoniare, con la perdita della mia stessa vita volentieri vi porrei rimedio. |
+| GEORGE BETTS | Ed egli è a buon punto, ve lo dico io, se tutto va a segno. |
+| DOLL | E come, di grazia? Raccontalo a Doll Williamson. |
+| [[characters/lincoln\|LINCOLN]] | Sapete che i sermoni dello Spedale cominciano la settimana prossima. Ho steso una supplica dei nostri torti, e delle insolenze degli stranieri. |
+| GEORGE BETTS | Che egli intende far pubblicare apertamente dai predicatori dal pulpito. |
+| WILLIAMSON | Oh, se solo lo facessero! In [[concepts/faith\|fede]] mia, ciò solleticherebbe ben bene i nostri stranieri. |
+| DOLL | Sì, e se voi uomini non osaste intraprenderlo, davanti a Dio, noi donne lo faremo. Togliere una donna onesta a suo marito? Ma è intollerabile. |
+| *(didascalia)* | SHERWIN a [[characters/lincoln\|Lincoln]] Ma come trovate i predicatori disposti verso il nostro procedere? |
+| [[characters/lincoln\|LINCOLN]] | Messer dottor Standish non intende immischiarsi in tal materia nel suo sermone, ma il dottor Beal farà in questa faccenda quanto un prete può fare per [[concepts/reform\|riformarla]], e non dubita che felice esito seguirà ai nostri torti. Vedrete che non c’è male nella supplica. Eccone una copia. Vi prego, ascoltatela. |
+| ALL THE REST | Con tutto il cuore. Per amor di Dio, leggetela. |
+| [[characters/lincoln\|LINCOLN]] | (legge) «A voi tutti onorevoli signori e padroni di questa [[motifs/city\|città]], che vorrete aver compassione dei poveri vostri vicini, e altresì dei grandi insopportabili danni, perdite e impedimenti onde procede estrema [[concepts/poverty\|povertà]] a tutti i sudditi del [[archetypes/king\|Re]] che abitano dentro questa [[motifs/city\|città]] e i suoi sobborghi. Poiché così avviene che alieni e stranieri mangiano il pane dei figli orfani, e tolgono il sostentamento a tutti gli artigiani, e il commercio a tutti i mercanti, onde la [[concepts/poverty\|povertà]] è tanto cresciuta che ognuno piange la miseria dell’altro; ché gli artefici sono ridotti all’accattonaggio, e i mercanti all’indigenza. Perciò, considerate le premesse, il rimedio dev’essere dei comuni, congiunti e uniti in una sola parte. E come il danno e il male affligge tutti gli uomini, così tutti gli uomini debbono porre la loro volenterosa forza al rimedio, e non patire che i detti alieni stiano nella loro ricchezza, e gli uomini nati naturali di questa regione vengano a rovina.» |
+| DOLL | Davanti a Dio, è eccellente, e sosterrò che la richiesta è onesta. |
+| SHERWIN | [[motifs/well\|Bene]], diciamo che è letta: qual è il vostro ulteriore intento nella faccenda? |
+| GEORGE BETTS | Che? Perbacco, ascoltatemi. Nessun [[concepts/doubt\|dubbio]] che questo ci fornirà amici a sufficienza, i cui nomi terremo segretamente per iscritto, e il prossimo Primo Maggio, al mattino, usciremo a far maggio, ma lo faremo il peggior Primo Maggio per gli stranieri che mai abbiano veduto. Che ne dite? Sottoscrivete, o siete rinnegati dal cuore fiacco? |
+| DOLL | Tieni, George Betts, ecco la mia mano e il mio cuore. Per il Signore, mi farò capitano fra voi, e farò qualcosa di cui si parli per sempre. |
+| WILLIAMSON | Miei padroni, prima di separarci andiamo amichevolmente a bere insieme, e giuriamo vero segreto sulle nostre vite. |
+| GEORGE BETS | Là parlò un angelo. Venite, andiamo dunque. |
+| *(didascalia)* | Escono |
+| GEORGE BETS | Sc. 2 |
+| *(didascalia)* | Si tira un arazzo, e dietro di esso, come in udienza, siedono il [[characters/lord-mayor\|Lord Sindaco]], il giudice Suresby, e altri giudici, e il Cancelliere, con lo sceriffo More e l’altro sceriffo seduti accanto. Smart è il querelante, Lifter il prigioniero alla sbarra |
+| [[characters/lord-mayor\|LORD MAYOR]] | Sbrigati i nostri affari più gravi,<br>possiamo dare orecchio ai piccoli delitti.<br>Messer sceriffo More, chi è costui? |
+| MORE | Mio signore, è imputato d’una borsa.<br>È stato processato; la giuria è riunita. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Chi lo mandò dentro? |
+| SURESBY | Io, mio signore.<br>Avesse avuto giustizia, sarebbe stato impiccato prima d’ora,<br>unico capitano della masnada dei tagliaborse. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Qual è il suo nome? |
+| SURESBY | Qual è la sua professione: Lifter, mio signore,<br>uno che sa alzare una borsa con gran destrezza. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Ed è quello colui che l’accusa? |
+| SURESBY | Lo stesso, mio signore, del quale, col permesso del vostro [[concepts/honour\|onore]],<br>debbo pur dire qualcosa, perché trovo<br>che sotto certi rispetti è [[motifs/well\|ben]] degno di biasimo. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Buon messer giudice Suresby, dite il vostro parere.<br>Ci piace [[motifs/well\|assai]] darvi udienza. |
+| SURESBY | Ascoltami, Smart. Tu sei uno sciocco.<br>Se Lifter è condannato dalla legge,<br>come non vedo in che modo la giuria possa assolverlo,<br>sosterrò che tu sei colpevole della sua [[motifs/death\|morte]]. |
+| *(didascalia)* | MORE al [[characters/lord-mayor\|Lord Mayor]] |
+| SURESBY | Mio signore, questo val la pena d’udirlo. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Ascoltate dunque, buon messer More. |
+| *(didascalia)* | SURESBY a Smart |
+| [[characters/lord-mayor\|LORD MAYOR]] | Te lo dico chiaro, è una vergogna per te<br>tentare la necessità con una somma simile.<br>Niente meno di dieci sterline, signore, vi occorrono<br>da portare in giro nella vostra borsa,<br>per vantarvi e gloriarvi del vostro denaro nelle taverne?<br>Vi assicuro che un uomo il quale esca<br>con intenzione di [[concepts/truth\|onestà]], incontrando tal bottino,<br>può essere spinto a ciò che mai pensò.<br>Che cosa fa tanti ladruncoli e malfattori<br>se non tali sciocche esche che gente stolta tende<br>per tentare il misero bisognoso?<br>Dieci sterline e spiccioli: bella somma<br>da portare attorno, che starebbe più sicura a [[motifs/home\|casa]].<br>Il [[characters/lord-mayor\|Lord Mayor]] e More bisbigliano<br>Davanti a Dio, sarebbe [[motifs/well\|bene]] multarvi d’altrettanto,<br>a sollievo dei poveri prigionieri,<br>per insegnarvi ad aver più cura del vostro.<br>( ) giustamente servito.<br>( ) |
+| MORE | Mio buon signore, assecondate un ( ) per una volta,<br>solo per trarre conclusioni in questo caso. |
+| [[characters/lord-mayor\|LORD MAYOR]] | D’accordo, buon messer More. Ci alzeremo un poco,<br>e finché la giuria non renda il suo verdetto<br>passeggeremo nel [[motifs/garden\|giardino]]. Che ne dite, giudici? |
+| ALL JUSTICES | Ci piace [[motifs/well\|molto]], mio signore; vi seguiremo. |
+| *(didascalia)* | Escono il [[characters/lord-mayor\|Lord Mayor]] e i giudici |
+| MORE | No, querelante, andate anche voi. Esce Smart<br>E voi, ufficiali,<br>fatevi da parte, e lasciate il prigioniero<br>a me per un poco. |
+| *(didascalia)* | Escono tutti tranne More e Lifter |
+| MORE | Lifter, vieni qua. |
+| LIFTER | Che desidera vostra signoria? |
+| MORE | Messere, sai che sei da me conosciuto,<br>e t’ho spesso salvato da questo luogo<br>da quando entrai in carica. Vedi inoltre<br>che il giudice Suresby t’è amico pesante,<br>malgrado tutto il biasimo che finge contro Smart<br><br>per averti tentato con tal somma di denaro.<br><br>Ti dico questo: escogitami solo un modo<br>di sfilargli o tagliargli la borsa, e sul mio credito,<br>e com’io son cristiano e uomo,<br>ti procurerò il perdono per quello scherzo. |
+| LIFTER | Buon messer sceriffo, non cercate la mia rovina.<br>Sapete, signore, ch’io ho molti amici pesanti,<br>e altre imputazioni prossime a cadermi addosso.<br>Siete troppo profondo perch’io tratti con voi.<br>Siete noto come uno dei più saggi uomini<br>che sia in Inghilterra. Vi prego, messer sceriffo,<br>non v’adoprate a minare la mia vita. |
+| MORE | Lifter, io sono fedele suddito del mio [[archetypes/king\|re]].<br>Molto m’equivochi, e perché tu non pensi<br>ch’io intenda con ciò recar danno alcuno alla tua vita,<br>sosterrò io l’atto quando l’avrai compiuto.<br>Sai che ho tali carte nelle mani<br>che, se mi piacesse darle alla giuria,<br>non avrei bisogno di questa via per aggirarti.<br>Tutto ciò cui miro è un allegro scherzo.<br>Compilo, Lifter, e attenditi il mio meglio. |
+| LIFTER | Ringrazio vostra signoria, Dio conservi la vostra vita!<br>Ma messer giudice Suresby è entrato dentro.<br>Non so come avvicinarmi a dove egli sta. |
+| MORE | Lascia me solo a questo. Sarò io il tuo battitore.<br>Te lo manderò qui all’istante,<br>sotto il pretesto d’una tua richiesta<br>di faccende private da comunicargli. |
+| LIFTER | Se lo fate, signore, allora lasciate me solo.<br>Quaranta contro uno che allora la sua borsa se n’è andata. |
+| MORE | [[motifs/well\|Ben]] detto; ma bada di non diminuire<br>un solo penny del denaro, ma dallo a me.<br>È l’atto d’astuzia che ti dà credito. |
+| LIFTER | Lo farò, buon messer sceriffo, ve l’assicuro. Esce More<br>Vedo che l’intento di questo gentiluomo<br><br>è solo di frenare la follia del giudice<br><br>per aver biasimato altri in un caso disperato,<br><br>nel quale egli stesso può cadere come chiunque.<br><br>Per salvarmi la vita è una buona avventura.<br>[[motifs/silence\|Silenzio]] là, olà! Ora entra il giudice. |
+| *(didascalia)* | Entra il giudice Suresby |
+| SURESBY | Ora, messere, ora, che volete da me?<br>Vuoi scaricare la tua [[concepts/conscience\|coscienza]], da uomo<br>onesto?<br>Che mi dici, messere? Sii breve, sii breve. |
+| LIFTER | Breve, signore, quanto posso.<br>(A parte) Se state fermo a modo, sarò breve fra poco. |
+| SURESBY | Parla forte e non borbottare. Che dici, messere? |
+| LIFTER | Signore, sono accusato, e Dio mi sia conforto,<br>di più di quanto è vero— |
+| SURESBY | Signore, signore, lo siete davvero, di più di quanto è vero,<br>perché siete accusato apertamente di furto.<br>Siete accusato di più che [[concepts/truth\|verità]], e cioè di ladroneccio:<br>di più di quanto un uomo onesto dovrebbe essere accusato.<br>Tu sei un briccone; questo non è più che vero.<br>Non scherzare con me, no, no, messere.<br>Confessa soltanto ciò che sai; non chiedo altro. |
+| LIFTER | Vi sono, signore—vi sono, se piace a vostra signoria— |
+| SURESBY | «Vi sono», briccone? Che vi sono, dimmi che vi sono?<br>Vieni al dunque con questo «vi sono»: che vi sono, furfante? |
+| LIFTER | Vi sono, signore, diversi tipi molto astuti<br>che, mentre voi state e li guardate in faccia,<br>vi porteranno via la borsa. |
+| SURESBY | Sei un onesto furfante.<br>Dimmi chi sono, dove si possano acchiappare.<br>Sì, son quelli che cerco. |
+| LIFTER | Parlate di me, signore—<br>Ahimè, io sono un novellino. Ce n’è uno, davvero,<br>che va sotto il mio nome; batte tutti quanto a borse |
+| SURESBY | Sii familiare quanto vuoi, furfante mio.<br>È questo che bramo sapere. |
+| LIFTER | (a parte)<br>E avrete il vostro [[concepts/longing\|desiderio]] prima d’andarvene.—<br>Costui, signore, forse v’incontrerà così, |
+| *(didascalia)* | Atto di salutarlo |
+| LIFTER | O così, o così, e con cortese complimento<br>fingerà conoscenza, un poco dubbiosamente,<br>e questi abbracci servono. |
+| SURESBY | (scrollandosi lieto)<br>Sì, perbacco, Lifter, a che servono? |
+| LIFTER | Solo a tastare<br>se andate a piene vele o no,<br>ovvero se il vostro carico è a bordo del vostro naviglio. |
+| SURESBY | In inglese più chiaro, Lifter, se la mia borsa<br>è fornita o no? |
+| LIFTER | Ci siete, signore. |
+| SURESBY | Eccellente, eccellente! |
+| LIFTER | Allora, signore, non potete per creanza<br>che proseguire con lui, ché egli andrà per la vostra via,<br>allegando o che voi l’avete assai dimenticato,<br>o che egli vi scambia per un altro. |
+| SURESBY | Ma in questo [[motifs/time\|tempo]] ha egli la mia borsa o no? |
+| *(didascalia)* | Non ancora, signore, ohibò! A parte No, né io ho la vostra.— |
+| *(didascalia)* | Prende la borsa di Suresby. |
+| *(didascalia)* | Entrano il [[characters/lord-mayor\|Lord Mayor]], i giudici e il Cancelliere; lo sceriffo |
+| *(didascalia)* | More e l’altro sceriffo |
+| LIFTER | Ma ora dobbiamo desistere; i miei signori tornano. |
+| SURESBY | Malanno a ciò! Lifter, ne diremo di più fra poco.<br>Sì, dici il vero: ci sono davvero furfanti scaltri.<br>Si siede<br>Ma mi gabbino pure, mi turlupinino, mi spennino, mi corbellino,<br>in [[concepts/faith\|fede]], in [[concepts/faith\|fede]] mia, son troppo corti per me.<br>Furfanti e sciocchi s’incontrano quando le borse spariscono.<br>Gli uomini saggi badano alle loro borse [[motifs/well\|abbastanza]] bene. |
+| MORE | (a parte)<br>Lifter, è fatto? |
+| LIFTER | (a parte)<br>Fatto, messer sceriffo, ed eccola. |
+| *(didascalia)* | Dà a More la borsa di Suresby |
+| MORE | (a parte)<br>Allora fidati della mia parola: ti salverò la vita. |
+| RECORDER | Lifter, presentati alla sbarra. 150<br>La giuria t’ha dichiarato colpevole; devi morire.<br>Secondo la consuetudine, provvedete, messer sceriffo. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Allora, signori, come solete fare,<br>poiché finora non abbiamo luogo di sepoltura,<br>quale [[concepts/charity\|carità]] intendete elargire 155<br>per la sepoltura dei prigionieri ora condannati,<br>sia data. Ecco prima per me. |
+| RECORDER | Ed ecco per me. |
+| ANOTHER | E per me. |
+| SURESBY | [[concepts/body\|Corpo]] di me,<br>la mia borsa è sparita! |
+| MORE | Sparita, signore? Come, qui? Come può essere? |
+| [[characters/lord-mayor\|LORD MAYOR]] | Contro ogni ragione: seduti sul banco? 160 |
+| SURESBY | Lifter, io parlavo con te; non m’avrai alzato tu, eh? |
+| LIFTER | Sospettate di me, signore? Oh, che mondo è questo! |
+| MORE | Ma udite, messer Suresby. Siete sicuro<br>d’avere avuto una borsa addosso? |
+| SURESBY | Sicuro, messer sceriffo, sicuro come voi siete lì; 165<br>e dentro sette sterline e spiccioli, sulla mia [[concepts/faith\|fede]]. |
+| MORE | Sette sterline e spiccioli? Come, foste tanto pazzo,<br>essendo uomo saggio e magistrato,<br>da affidare alla vostra borsa una somma sì larga?<br>Sette sterline e spiccioli? Davanti a Dio, è una vergogna 170<br>tentare la necessità con una somma simile.<br>V’assicuro che un uomo il quale esca<br>con intenzione di [[concepts/truth\|onestà]], incontrando tal bottino,<br>può essere spinto a ciò che mai pensò.<br>Che cosa fa tanti ladruncoli e malfattori 175<br>se non queste sciocche esche che gente stolta tende<br>per tentare il misero bisognoso?<br>Se fosse preso ora colui che ha la vostra borsa,<br>sosterrei che voi siete colpevole della sua [[motifs/death\|morte]];<br>ché, senza dubbio, sarebbe condannato dalla legge.<br>Sarebbe buona opera multarvi d’altrettanto,<br>a sollievo dei poveri prigionieri,<br>per insegnarvi a chiudere sotto chiave il vostro denaro a [[motifs/home\|casa]]. |
+| SURESBY | [[motifs/well\|Bene]], messer More, voi siete un uomo faceto.<br>Vi comprendo, signore, vi comprendo [[motifs/well\|assai]] bene. |
+| MORE | Anzi, vedrete, signore: affidando così il vostro denaro,<br>e stando qui Lifter sotto processo per caso simile,<br>se non fosse che il poveretto è prigioniero,<br>si sospetterebbe ora che l’avesse lui.<br>Così potete vedere qual danno spesso viene<br>dallo sciocco portare attorno di somme sì inutili. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Credetemi, messer Suresby, questo è strano,<br>che voi, uomo tanto saldo nella sicurezza,<br>cadiate in ciò che negli altri condannavate. |
+| MORE | [[motifs/well\|Bene]], messer Suresby, ecco di nuovo la vostra borsa,<br>e tutto il vostro denaro. Nulla [[concepts/fear\|temete]] da More.<br>La saggezza sempre ( ) la porta.<br>[Escono] |
+| *(didascalia)* | Entrano i conti di Shrewsbury e di Surrey, Sir Thomas Palmer e Sir Roger Cholmley |
+| MORE | Da correggere: |
+| SHREWSBURY | Mio signore di Surrey, e Sir Thomas Palmer,<br><br>posso con pazienza sollecitare il vostro [[motifs/grave\|grave]] consiglio?<br><br>Vi dico il vero, che in questi tempi pericolosi<br><br>non mi piace questa fronte accigliata del volgo.<br><br>Il mio occhio indagatore non accolse mai<br><br>un aspetto più sconvolto dal dolore<br><br>di quello ch’io ho di recente osservato<br><br>nel popolo scontento della [[motifs/city\|città]]. |
+| SURREY | È strano che dalla sua principesca clemenza,<br>da una [[concepts/mercy\|misericordia]] così [[motifs/well\|ben]] temperata e da una grazia<br>verso tutti gli alieni in questa fertile terra,<br>debba [[motifs/spring\|sgorgare]] questa insolenza dall’alta cresta<br>da coloro che respirano per la sua maestosa munificenza,<br>i quali, ingrassati dal traffico del nostro paese,<br>già saltano in faccia ai suoi sudditi. |
+| PALMER | Eppure a Sherwin fu impedito d’intentare la sua causa<br>contro de Barde, dall’Ambasciatore<br>per supplica fatta al [[archetypes/king\|Re]];<br>il quale, avendo prima adescato via la moglie di lui<br>e ottenuto il suo vasellame, del valore di quasi quattrocento sterline,<br>per affliggere certi cittadini offesi che vedevano<br>questa vile onta spesso gettata loro in faccia,<br>di recente cita Sherwin, e l’ha fatto arrestare<br>per il denaro del vitto della moglie di lui. |
+| SURREY | Tanto più furfante Barde che, usando i beni di Sherwin,<br>gliene chiede l’interesse per l’occupazione.<br>Questo non mi piace, mio signore di Shrewsbury.<br>Sta male chi presta un [[motifs/horse\|cavallo]] dal [[motifs/well\|buon]] passo<br>a un uomo che non gli darà da mangiare. |
+| CHOLMLEY | Il mio signore di Surrey sarà sempre faceto. |
+| PALMER | Io, essendo allora incaricato dalle vostre signorie<br>di sedare il tumulto sorto per la stessa cosa,<br>là dove per persuasione esposi con forza i torti<br>e rappresentai il dolore della [[motifs/city\|città]] scontenta,<br>egli mi rispose, e con solenne giuramento,<br>che se avesse la moglie del Sindaco di [[settings/london\|Londra]]<br>la terrebbe, a dispetto di qualsiasi inglese. |
+| SURREY | È un bene, Sir Thomas, allora, per voi e per me:<br>vostra moglie è morta, e io sono scapolo.<br>Se nessun uomo può possedere la propria moglie da solo,<br>son lieto, Sir Thomas Palmer, di non averne. |
+| CHOLMLEY | Se mi prende la moglie, le darà da mangiare. |
+| SURREY | E con buona ragione anche, Sir Robert Cholmley:<br>se questi ardenti francesi vogliono per forza spassarsela,<br>dovrebbero almeno per cortesia sostenerne la spesa.<br>È duro quando gli uomini possiedono in pace le nostre mogli,<br>e pure ci lasciano a saldare il loro vitto. |
+| SHREWSBURY | Mio signore, i nostri provveditori non possono andare al mercato<br>per le nostre provviste senza che qualche lombardo forestiero<br>tolga loro i viveri che hanno comprato.<br>Un carpentiere, come fui di recente informato,<br>avendo comprato un paio di colombe a Cheapside,<br>subito un francese lombardo gliele tolse,<br>e batté il poveretto perché resisteva;<br>e quando l’uomo si lagnò dei suoi torti<br>fu severamente punito per la sua fatica. |
+| SURREY | Ma se il [[motifs/blood\|sangue]] inglese si scalda una volta,<br><br>come m’accorgo che i loro cuori son già colmi,<br><br>molto [[concepts/fear\|temo]] che, prima che i loro fegati si raffreddino,<br><br>alcuni di questi insolenti alieni per la loro [[concepts/pride\|superbia]] 60<br><br>la pagheranno di santa ragione, ovunque ricada.<br><br>Questa marea di furore che lotta col risucchio,<br><br>molto [[concepts/fear\|temo]], annegherà troppe vite. |
+| CHOLMLEY | Ora, davanti a Dio, vostre signorie, perdonatemi.<br><br>Uomini del vostro rango e della vostra [[concepts/greatness\|grandezza]] son da biasimare— 65<br><br>vi dico il vero, miei signori—in questo, che sua maestà<br><br>non è informata di quest’abietto sopruso,<br><br>e dei torti quotidiani offerti ai suoi sudditi;<br><br>ché se lo fosse, so che la sua benigna saggezza<br><br>presto vi porrebbe rimedio. |
+| *(didascalia)* | Entra un Messaggero |
+| CHOLMLEY | SfIREWSBURY<br>Messere, che notizie? |
+| CHOLMLEY | Nessuna buona, [[concepts/fear\|temo]]. |
+| MESSENGER | Mio signore, cattive notizie; e peggiori, [[concepts/fear\|temo]], ne seguiranno<br><br>se prontamente non vi si provvede.<br><br>La [[motifs/city\|città]] è in tumulto, e il Sindaco<br><br>è minacciato se esce dalla sua casa.<br><br>Un gran numero, poveri artigiani<br><br>[CHOLMLEY]<br>C’era da temere a che cosa questo sarebbe giunto.<br>Ciò segue dall’aver il Dottore pubblicato<br>la supplica dei torti in pubblico allo Spedale. |
+| SHREWSBURY | Quel dottor Beal potrà forse maledirsi<br>per aver letto la supplica. |
+| PALMER | Andiamo a radunar forze presso il Sindaco<br>per soffocare presto questa turba ribelle. |
+| SURREY | Ora mi ricordo di messer More,<br>uno degli sceriffi, gentiluomo saggio e dotto,<br>e in special favore presso il popolo.<br>Egli, sostenuto da altri uomini [[motifs/grave\|gravi]] e sobri,<br>potrà col suo gentile e persuasivo discorso<br>forse riuscire più di quanto noi possiamo con la forza. |
+| SHREWSBURY | Credetemi, il vostro [[concepts/honour\|onore]] consiglia [[motifs/well\|bene]].<br>Affrettiamoci, o grandemente [[concepts/fear\|temo]]<br>che alcuni l’opera di questa mattina porterà alla tomba. |
+| *(didascalia)* | Escono |
+| SHREWSBURY | Sc. 4 Enter [[characters/lincoln\|Lincoln]], Betts, Williamson, Doll. |
+| *(didascalia)* | Entrano [[characters/lincoln\|Lincoln]], [George] Betts, [Betts il Buffone,] Williamson, Sherwin e altri, armati; Doll in cotta di maglia, con elmetto, spada e brocchiere; una masnada al seguito |
+| SHREWSBURY | [Testo originale (Munday)]<br>[Aggiunta II (Heywood)] |
+| CLOWN BETTS | Venite, venite, gli solleticheremo le rape, gli ungeremo le scatole! Debbono gli stranieri comandare l’arrosto? Sì, ma l’arrosto lo bagneremo noi. Venite, venite, in gala, in gala! |
+| GEORGE BETTS | Fratello, fatti da parte, e ascolta parlare John [[characters/lincoln\|Lincoln]]. |
+| CLOWN BETTS | Sì, [[characters/lincoln\|Lincoln]], mio condottiero,<br>e Doll, mia vera nutrice,<br>col resto della nostra masnada<br>faremo ran-tan-tarra-ran.<br>Facciano pure quel che possono,<br>saremo noi gabbati, sfidati?—No!<br>Saremo tenuti sotto?—No!<br>Siamo nati liberi<br>e sdegniamo<br>d’essere trattati così. |
+| DOLL | Silenzio là, dico! Udite parlare il capitano [[characters/lincoln\|Lincoln]].<br>Fate [[motifs/silence\|silenzio]] finché non conosciamo per intero il suo pensiero. |
+| CLOWN BETTS | [a [[characters/lincoln\|Lincoln]]] Allora esponi per intero. Parla, bravaccio, e chi presume d’interromperti nella tua orazione, questo per lui! |
+| [[characters/lincoln\|LINCOLN]] | Allora, sangui gagliardi, voi le cui anime libere sdegnano<br>di sopportare i torti imposti dagli alieni,<br>aggiungete furore alla risolutezza. Date [[motifs/fire\|fuoco]] alle case<br>di questi audaci stranieri. Questo è San Martino,<br>e là abita Meautis, un ricco piccardo,<br>alla Porta Verde;<br>de Barde, Peter van Hollak, Adrian Martin,<br>con molti altri fuggiaschi forestieri.<br>Debbono costoro godere più privilegi di noi<br>nel nostro proprio paese? Diveniamo allora loro schiavi.<br>Poiché la giustizia non li tiene in maggior timore,<br>saremo noi stessi rudi ministri della legge. |
+| CLOWN BETTS | Non più spade,<br>né più parole,<br>ma [[motifs/fire\|fuoco]] alle case,<br>prode Capitan Coraggioso,<br>[[motifs/fire\|incendiatemi]] le loro case. |
+| DOLL | Sì, ché possiamo [[motifs/well\|ben]] fare falò il Primo Maggio come a San Giovanni. Muteremo il giorno nel calendario, e lo segneremo a lettere di fiamma. |
+| SHERWIN | Fermi, no, ciò metterebbe assai in pericolo tutta la [[motifs/city\|città]],<br>alla quale non vorrei il minimo pregiudizio. |
+| DOLL | No, e neppure io: ché così la mia stessa casa potrebbe bruciare per compagnia. Vi dico io che faremo: trascineremo gli stranieri a Moorfields, e là li bastoneremo finché non puzzino di nuovo. |
+| CLOWN BETTS | E ciò è presto fatto, ché già puzzano per la [[concepts/fear\|paura]]. |
+| GEORGE BETTS | Alcuni di noi entrino nelle case degli stranieri,<br>e, se ve li troviamo, li traiamo fuori. |
+| DOLL | Ma se li traete fuori prima d’averli trovati, questo non l’ammetterò mai. so |
+| CLOWN BETTS | Ora Marte per il tuo [[concepts/honour\|onore]],<br>olandese o francese,<br>purché sia una ragazza,<br>le sarò addosso.<br>[Escono Sherwin, Betts il Buffone e altri] |
+| [[characters/lincoln\|LINCOLN]] WILLIAMSON | Ora, ragazzi, come lavoreremo per la nostra salvezza?<br>Odo che il Sindaco ha radunato uomini in armi,<br>e che quello sceriffo More un’ora fa ha accolto<br>alcuni del Consiglio Privato dentro Ludgate.<br>La forza ora deve farci la pace, o altrimenti cadiamo.<br>Presto si saprà che noi siamo i capi. |
+| DOLL | E che importa? Se hai paura, marito, torna a [[motifs/home\|casa]] e nasconditi il capo, ché, per il Signore, io voglio spassarmela un poco ora che ci siamo. |
+| GEORGE BETTS | Teniamoci sulle nostre spade, e se vengono<br>accogliamoli come fossero nostri nemici. |
+| *(didascalia)* | Entrano Sherwin, [Betts il Buffone] e gli altri |
+| CLOWN BETTS | Un bottino, un bottino! Abbiamo trovato, abbiam trovato— |
+| DOLL | Che cosa? |
+| CLOWN BETTS | Niente. Non un fiammingo francese né un francese fiammingo da trovarsi, ma tutti fuggiti, in schietto inglese. |
+| *(didascalia)* | [[characters/lincoln\|LINCOLN]] a Sherwin |
+| CLOWN BETTS | Ebbene, ne avete trovato qualcuno? |
+| SHERWIN | No, neppure uno, sono tutti fuggiti. |
+| [[characters/lincoln\|LINCOLN]] | Allora [[motifs/fire\|incendiate]] le case, ché, essendo il Sindaco occupato<br>a spegnerle, possiamo scampare.<br>Bruciate i loro canili! Andiamo via subito,<br>affinché questo giorno non ci riesca un tristo Primo Maggio. |
+| *(didascalia)* | Escono tutti tranne il Buffone |
+| CLOWN BETTS | [[motifs/fire\|Fuoco]], [[motifs/fire\|fuoco]]! Sarò io il primo.<br>Se viene la forca, sia benvenuta; questo è il peggio. |
+| *(didascalia)* | Esce |
+| CLOWN BETTS | [Aggiunta II (Heywood)]<br>[Aggiunta II (copista del teatro)] |
+| *(didascalia)* | Entra da una porta [[characters/sir-thomas-more\|Sir Thomas More]] col [[characters/lord-mayor\|Lord Sindaco]]; da un’altra porta Sir John Munday, ferito |
+| [[characters/lord-mayor\|LORD MAYOR]] | Come, Sir John Munday, siete ferito? |
+| SIR JOHN | Un piccolo colpo, mio signore. C’era or ora<br><br>una schiera d’apprendisti che giocava di bastone.<br><br>Io comandai loro d’andare alle case dei padroni,<br><br>ma uno di essi, spalleggiato dall’altra masnada,<br><br>mi ferì alla fronte col suo randello;<br><br>e ora, [[concepts/fear\|temo]], sono andati a unirsi<br><br>con [[characters/lincoln\|Lincoln]], Sherwin e il loro pericoloso seguito. |
+| MORE | I capitani di questa insurrezione<br>hanno preso le armi, e sono venuti or ora<br>a entrambe le prigioni dei Counters, dove hanno liberato<br>diversi prigionieri per debiti, e di là<br>odo che sono andati a San Martino,<br>dove intendono usare violenza<br>agli attoniti lombardi. Perciò, mio signore,<br>se ci sta a cuore la salvezza della [[motifs/city\|città]],<br>è [[motifs/time\|tempo]] che la forza o il parlamentare affronti<br>questi uomini scontenti. |
+| *(didascalia)* | Entra un Messaggero |
+| [[characters/lord-mayor\|LORD MAYOR]] | Ebbene, che notizie? |
+| MESSENGER | Mio signore, i ribelli hanno sfondato Newgate,<br>donde hanno liberato molti prigionieri, zo<br>tanto malfattori quanto notori assassini<br>che disperatamente s’attaccano al loro seguito senza legge. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Su il ponte levatoio! Radunate qualche forza<br>a Cornhill e a Cheapside. E, signori,<br>se da ogni parte s’userà diligenza,<br>una quieta bassa marea seguirà questa marea burrascosa. |
+| *(didascalia)* | Entrano Shrewsbury, Surrey, Palmer; Cholmley |
+| SHREWSBURY | [[characters/lord-mayor\|Lord Sindaco]], sua maestà, ricevuta notizia<br>di questa pericolosissima insurrezione,<br>ha mandato il mio signore di Surrey e me stesso,<br>Sir Thomas Palmer, e i nostri seguaci,<br>ad aggiungere alle vostre forze i nostri migliori mezzi<br>per pacificare questo ammutinamento.<br>In nome di Dio, dunque, muoviamo con felice [[characters/speed\|prestezza]].<br>Il [[archetypes/king\|Re]] si duole se un solo fedele suddito sanguina. |
+| SURREY | Odo che intendono dar [[motifs/fire\|fuoco]] alle case dei lombardi.<br>O potere, che cosa sei agli occhi d’un pazzo!<br>Fai il tardo idiota sanguinariamente saggio. |
+| MORE | Miei signori, non [[concepts/doubt\|dubito]] che placheremo<br>con calmo fiato questo flusso di scontento. |
+| PALMER | Chiamarli a parlamento senza dubbio<br>può riuscir bene. È [[motifs/well\|ben]] detto, messer More. |
+| MORE | Andiamo da questi uomini semplici, ché molti sudano<br>sotto quest’atto senza conoscere il debito della legge<br>che pende sulle loro vite. Ché gli sciocchi<br><br>arrancano senza sapere come; come la penna d’un [[archetypes/fool\|folle]]<br><br>che, finendo, non mostra scritta alcuna sentenza<br><br>legata pur che sia a comune ragione o al più tenue senno.<br><br>Costoro seguono senza intenzione di male, e pure incorrono<br>nella [[concepts/self\|stessa]] pena di quelli che levarono questo tumulto.<br>In nome di Dio, avanti, a calmare i nostri nemici privati<br>col fiato della gravità, non con colpi pericolosi. |
+| *(didascalia)* | Escono |
+| MORE | Sc. 6 |
+| *(didascalia)* | Entrano [[characters/lincoln\|Lincoln]], Doll, il Buffone [Betts,] George Betts, Williamson, [Sherwin,] e altri: [Cittadini,] [armati] |
+| MORE | [Aggiunta II (copista del teatro)]<br>[Aggiunta II (Shakespeare)] |
+| [[characters/lincoln\|LINCOLN]] | Silenzio, ascoltatemi! Chi non vuol vedere un’aringa affumicata a un groat di Enrico, il burro a undici pence la libbra, la farina a nove scellini lo staio, e il manzo a quattro nobili la pietra, dia ascolto a me. |
+| OTHER GEORGE BETTS | Si arriverà a quel punto se si tollerano gli stranieri. Ascoltatelo. |
+| [[characters/lincoln\|LINCOLN]] | Il nostro paese è un gran paese mangiatore; ergo essi mangiano più nel nostro paese di quanto facciano nel loro. |
+| OTHER CLOWN BETTS | Di una pagnotta da mezzo penny al giorno, a peso di troy. |
+| [[characters/lincoln\|LINCOLN]] | Portano dentro radici strane, il che serve unicamente alla rovina dei poveri apprendisti. Ché cos’è una misera pastinaca per un cuore gagliardo? |
+| OTHER WILLIAMSON | Robaccia, robaccia. Fanno venire il male agli occhi, e basta a infettare la [[motifs/city\|città]] di paralisia. |
+| [[characters/lincoln\|LINCOLN]] | Anzi, l’ha già infettata di paralisia, ché questi bastardi del letame—come sapete, crescono nel letame—hanno infettato noi, e sarà la nostra infezione a far tremare la [[motifs/city\|città]]. Il che viene in parte dal mangiar pastinache. |
+| CLOWN BETTS | Vero, e zucche insieme. |
+| *(didascalia)* | Entra un Sergente d’arme |
+| SERGEANT | Che dite alla [[concepts/mercy\|clemenza]] del [[archetypes/king\|Re]]?<br>La rifiutate? |
+| [[characters/lincoln\|LINCOLN]] | Vorreste averci in pugno, eh? No, perbacco, no davvero. Accettiamo la [[concepts/mercy\|clemenza]] del [[archetypes/king\|Re]], ma non useremo alcuna [[concepts/mercy\|clemenza]] verso gli stranieri. |
+| SERGEANT | Siete le creature più semplici che mai si trovarono in tal questione. |
+| [[characters/lincoln\|LINCOLN]] | Che ne dite ora, apprendisti? Apprendisti «semplici»? Abbasso lui! |
+| ALL CITIZENS | Apprendisti semplici? Apprendisti semplici? |
+| *(didascalia)* | Entrano il [[characters/lord-mayor\|Lord Mayor]], Surrey, Shrewsbury, [More, Palmer] |
+| MAYOR | Fermi, in nome del [[archetypes/king\|Re]], fermi! |
+| SURREY | Amici, padroni, compatrioti— |
+| [[characters/lord-mayor\|LORD MAYOR]] | Pace, olà, pace! Vi ingiungo di mantenere la pace. |
+| SHREWSBURY | Miei padroni, compatrioti— |
+| WILLIAMSON | Il nobile conte di Shrewsbury! Ascoltiamolo. |
+| GEORGE BETTS | Ascolteremo il [[characters/earl-of-surrey\|conte di Surrey]]. |
+| [[characters/lincoln\|LINCOLN]] | Il conte di Shrewsbury! |
+| GEORGE BEETS | Ascolteremo entrambi. |
+| ALL CITIZENS | Entrambi, entrambi, entrambi, entrambi! |
+| [[characters/lincoln\|LINCOLN]] | Pace, dico, pace! Siete uomini di senno, o che siete? |
+| SURREY | Quel che vorrete farne, ma non uomini di senno. |
+| SOME CITIZENS | Non ascolteremo il mio signore di Surrey. |
+| OTHER CITIZENS | No, no, no, no, no! Shrewsbury, Shrewsbury! |
+| MORE | Finché sono oltre l’argine della loro obbedienza<br>così travolgeranno ogni cosa. |
+| [[characters/lincoln\|LINCOLN]] | Parla lo sceriffo More. Vogliamo udir parlare lo sceriffo More? |
+| DOLL | Ascoltiamolo. Tiene uno sceriffato abbondante, e fece di mio fratello, [[characters/arthur\|Arthur]] Watchins, il famiglio del sergente Safe. Ascoltiamo lo sceriffo More! |
+| ALL CITIZENS | Sceriffo More, More, More, sceriffo More! |
+| MORE | Per la regola stessa che avete fra voi,<br>imponete ancora udienza. |
+| SOME CITIZENS | Surrey, Surrey! |
+| OTHER CITIZENS | More, More! |
+| [[characters/lincoln\|LINCOLN]] | e GEORGE BETTS Pace, pace, [[motifs/silence\|silenzio]], pace! |
+| MORE | Voi che avete voce e credito presso la moltitudine,<br>imponete loro la quiete. |
+| [[characters/lincoln\|LINCOLN]] | La peste li colga, non vogliono tacere. Il diavolo non li può governare. |
+| MORE | Che rude e tumultuosa carica avete dunque,<br>guidare coloro che il diavolo non può governare.—<br>Buoni padroni, uditemi parlare. |
+| DOLL | Sì, per la messa, ti udiremo, More. Sei un buon padrone di casa, e ringrazio la tua buona signoria per mio fratello [[characters/arthur\|Arthur]] Watchins. |
+| ALL THE OTHER CITIZENS | Pace, pace! |
+| MORE | Guardate: ciò che offendete è ciò che invocate;<br>e cioè la pace. Non uno di voi qui presente,<br>fossero vissuti simili compagni quando eravate infanti<br>che avessero potuto troncare la pace come ora vorreste voi,<br>la pace nella quale finora siete cresciuti<br>vi sarebbe stata tolta, e i tempi sanguinosi<br>non v’avrebbero condotti allo stato d’uomini.<br>Ahimè, poveri esseri! Che cos’è che avete ottenuto,<br>anche concedendovi che otteniate ciò che cercate? |
+| GEORGE BETTS | Perbacco, l’allontanamento degli stranieri, il che non può non giovare assai ai poveri artigiani della [[motifs/city\|città]]. |
+| MORE | Concedete che siano allontanati, e concedete che questo vostro clamore<br>abbia zittito tutta la maestà d’Inghilterra.<br>Immaginate di vedere i miseri stranieri,<br>i loro bambini in spalla, coi loro poveri fardelli,<br>arrancare verso i porti e le coste per l’imbarco,<br>e voi seduti come re nei vostri desideri,<br>l’autorità del tutto ammutolita dal vostro tumulto,<br>e voi vestiti della gorgiera delle vostre opinioni:<br>che cosa avreste ottenuto? Ve lo dirò io: avreste insegnato<br>come l’insolenza e la mano forte debbano prevalere,<br>come l’ordine debba essere soffocato. E secondo questo modello<br>non uno di voi giungerebbe a vecchiaia;<br>ché altri manigoldi, come i loro capricci suggerissero,<br>con la medesima mano, le [[concepts/self\|stesse]] ragioni e lo [[concepts/self\|stesso]] diritto,<br>vi prederebbero, e gli uomini, come pesci voraci,<br>si nutrirebbero l’uno dell’altro. |
+| DOLL | Davanti a Dio, questo è vero come il vangelo. |
+| [[characters/lincoln\|LINCOLN]] | Anzi, costui è un uomo assennato, ve lo dico io. Stiamo a sentirlo. |
+| MORE | Lasciate ch’io ponga davanti ai vostri pensieri, buoni amici,<br>una sola supposizione, la quale, se vorrete considerarla,<br>vi farà vedere quale orribile forma<br>abbia la vostra innovazione. Primo, è un peccato<br>del quale spesso l’apostolo ci ammonì,<br>esortando all’obbedienza verso l’autorità;<br>e non sarebbe errore se vi dicessi a tutti<br>che siete in armi contro Dio. |
+| ALL CITIZENS | Perbacco, Dio non voglia questo! |
+| MORE | Anzi, certamente lo siete. no<br>Ché al [[archetypes/king\|re]] Dio ha prestato il Suo ufficio<br>di terrore, di giustizia, potere e comando;<br>gli ha ordinato di regnare, e ha voluto che voi obbediate.<br>E, per aggiungere a ciò più ampia maestà,<br>non solo ha prestato al [[archetypes/king\|re]] la Sua figura,<br>il Suo trono e la Sua spada, ma gli ha dato il Suo proprio nome:<br>lo chiama un dio in terra. Che fate dunque,<br>levandovi contro colui che Dio stesso insedia,<br>se non levarvi contro Dio? Che fate alle vostre anime<br>facendo questo? O disperati che siete,<br>lavate le vostre menti immonde con le [[motifs/tears\|lacrime]], e quelle stesse mani<br>che voi, da ribelli, levate contro la pace,<br>levatele per la pace; e le vostre ginocchia irriverenti,<br>fatene i vostri piedi. Inginocchiarsi per esser perdonati<br>è guerra più sicura di quante mai possiate farne<br><br>voi la cui disciplina è il tumulto.<br><br>Dentro, dentro, alla vostra obbedienza! Ma se persino il vostro trambusto<br><br>non può procedere se non per obbedienza.<br><br>Ditemi solo questo: quale capitano [[archetypes/rebel\|ribelle]],<br>come accade negli ammutinamenti, col suo nome<br>può quietare la turba? Chi obbedirà a un traditore?<br>O come può suonare [[motifs/well\|bene]] quel bando<br>quando non v’è altro titolo che «un [[archetypes/rebel\|ribelle]]»<br>per qualificare un [[archetypes/rebel\|ribelle]]? Volete abbattere gli stranieri,<br>ucciderli, sgozzarli, impadronirvi delle loro case,<br>e menare al guinzaglio la maestà della legge<br>per scioglierla come un segugio. Ahimè, ahimè! Poniamo ora che il [[archetypes/king\|Re]],<br>com’è clemente se l’offensore si duole,<br>restasse tanto al di sotto della vostra grande colpa<br>da solo bandirvi: dove andreste?<br>Quale paese, per la [[concepts/nature\|natura]] del vostro errore,<br>dovrebbe darvi rifugio? Andate in Francia o nelle<br>Fiandre,<br>in qualsiasi provincia tedesca, in Spagna o in Portogallo,<br>anzi, ovunque non aderisca all’Inghilterra:<br>ebbene, sareste per forza stranieri. Vi sarebbe<br>grato<br>trovare una nazione di tempra così barbara<br>che, scoppiando in orrenda violenza,<br>non vi concedesse una dimora sulla terra,<br>affilasse i suoi detestati coltelli contro le vostre gole,<br>vi cacciasse come cani, e come se Dio<br>non vi possedesse né v’avesse fatti, né gli elementi<br>fossero destinati ai vostri conforti,<br>ma concessi in privilegio a loro? Che ne direste<br>d’essere trattati così? Questo è il caso degli stranieri,<br>e questa la vostra montanara disumanità. |
+| ALL CITIZENS | In [[concepts/faith\|fede]], dice il vero. Facciamo agli altri come vorremmo fosse fatto a noi. |
+| ALL CITIZENS [[characters/lincoln\|LINCOLN]] | Ci lasceremo governare da voi, messer More, se vorrete esserci amico per procurarci il perdono. |
+| MORE | Sottomettetevi a questi nobili gentiluomini,<br>implorate la loro mediazione presso il [[archetypes/king\|Re]],<br>arrendetevi alla legge, obbedite al magistrato,<br>e non v’è [[concepts/doubt\|dubbio]] che [[concepts/mercy\|clemenza]] si possa trovare<br>se così la cercate.<br><br>[Aggiunta 11 (Shakespeare)]<br>[Testo originale (Munday)] |
+| ALL CITIZENS | Cediamo, e [[motifs/desire\|desideriamo]] la [[concepts/mercy\|clemenza]] di sua altezza. Depongono le armi |
+| MORE | Non [[concepts/doubt\|dubito]] che sua maestà ve la concederà.<br>Ma dovete acconsentire ad andare in diverse prigioni<br>finché la volontà di sua altezza non sia meglio nota. |
+| ALL CITIZENS | Ben volentieri, dovunque vorrete condurci. |
+| SHREWSBURY | [[characters/lord-mayor\|Lord Sindaco]], siano mandati in diverse prigioni,<br>e là, in ogni caso, siano [[motifs/well\|ben]] trattati.<br>Mio signore di Surrey, piacciavi prendere il [[motifs/horse\|cavallo]]<br>e cavalcare a Cheapside, dove gli aldermanni<br>stanno in armi con le loro diverse compagnie.<br>Ordinate loro d’andare ai rispettivi quartieri,<br>tanto per impedire ulteriore ammutinamento<br>quanto per l’arresto di quelle persone<br>che facessero resistenza. |
+| SURREY | Vado, mio nobile signore. |
+| *(didascalia)* | Esce |
+| SHREWSBURY | Andremo subito a recare a sua altezza queste buone nuove.<br>E per giunta, sceriffo More, gli dirò come il vostro fiato<br>abbia riscattato più d’un suddito da triste [[motifs/death\|morte]]. Esce |
+| [[characters/lord-mayor\|LORD MAYOR]] | [[characters/lincoln\|Lincoln]] e Sherwin, andrete entrambi a Newgate,<br>gli altri ai Counters. |
+| PALMER | Andate, scortateli via di qui. Un poco di fiato [[motifs/well\|ben]] speso<br>inganna l’aspettativa nel suo più bell’esito. |
+| DOLL | [[motifs/well\|Bene]], sceriffo More, hai fatto più tu con le tue buone parole di quanto potessero tutti loro con le armi. Dammi la mano. Mantieni ora la promessa del perdono del [[archetypes/king\|Re]], o, per il Signore, ti chiamerò un bel truffatore. |
+| [[characters/lincoln\|LINCOLN]] | Addio, sceriffo More. E come per te cediamo,<br>così fa’ la nostra pace; allora agisci onestamente. |
+| CLOWN BETTS | Sì, e salvaci dalla forca, altrimenti agisce [[topoi/double\|doppiamente]] onesto.<br>[I Cittadini] sono condotti via |
+| [[characters/lord-mayor\|LORD MAYOR]] | Messer sceriffo More, avete preservato la [[motifs/city\|città]]<br>da un tumulto pericolosissimo e feroce.<br>Ché se questo ramo di sommossa qui a San Martino<br>si fosse unito ad altri rami della [[motifs/city\|città]]<br>che cominciavano a prender fuoco, avrebbe generato<br>gran furore. E quel furore avrebbe nutrito molte uccisioni. |
+| PALMER | Non l’acciaio ma l’eloquenza ha operato questo bene.<br><br>Ci avete redenti da molto minacciato [[motifs/blood\|sangue]]. |
+| MORE | Mio signore, e fratelli, ciò che qui ho detto<br>l’[[motifs/love\|amore]] del mio paese e, poi, la cura della [[motifs/city\|città]]<br>me l’imposero; e poiché così prevale,<br>pensate che Dio abbia fatto del debole More il Suo strumento<br>per sventare il violento intento della sedizione.<br>Penso sarebbe meglio, mio signore, che fra due ore<br>c’incontrassimo alla Guildhall, e là stabilissimo<br>che per ogni quartiere la guardia sia vestita<br>d’armatura. Ma soprattutto provvedete<br>che alle porte della [[motifs/city\|città]] uomini scelti,<br>cittadini di sostanza, montino la guardia stanotte,<br>per [[concepts/fear\|timore]] d’altri danni. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Così sarà. |
+| *(didascalia)* | Entra Shrewsbury |
+| [[characters/lord-mayor\|LORD MAYOR]] | Ma laggiù, mi pare, il mio signore di Shrewsbury. |
+| SHREWSBURY | Mio signore, sua maestà manda amorevoli ringraziamenti<br>a voi, ai vostri fratelli, e ai suoi fedeli sudditi,<br>i vostri solleciti cittadini. Ma a voi, messer More,<br>un saluto più ruvido e pur altrettanto benigno.<br>Il vostro nome è ancora troppo corto. Anzi, dovete inginocchiarvi.<br>Creazione d’un cavaliere è questo cavalleresco acciaio. |
+| *(didascalia)* | More s’inginocchia |
+| SHREWSBURY | Alzatevi, [[characters/sir-thomas-more\|Sir Thomas More]]. |
+| *(didascalia)* | Lo fa cavaliere |
+| *(didascalia)* | MORE alzandosi |
+| SHREWSBURY | Ringrazio sua altezza d’avermi così onorato. |
+| SHREWSBURY | Questo è solo il primo saggio del suo principesco favore,<br>ché è piaciuto alla sua alta maestà,<br>notando la vostra saggezza e il vostro merito degno,<br>di porvi in mano questo bastone d’[[concepts/honour\|onore]],<br>ché v’ha scelto nel suo Consiglio Privato. |
+| *(didascalia)* | Dà a More un bastone di carica |
+| MORE | Mio signore, negare la munificenza del mio sovrano<br>sarebbe come lasciar cadere pietre preziose nei mucchi<br>donde prima vennero.<br>Addurre le mie imperfezioni per scusa<br>sarebbe stantio quanto l’usanza. No, mio signore,<br>il mio servizio è del mio [[archetypes/king\|re]]. E con buona ragione,<br>poiché vita o [[motifs/death\|morte]] pende dall’occhio del nostro sovrano. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Sua maestà ha molto onorato la [[motifs/city\|città]]<br>in questa sua principesca scelta. |
+| MORE | Mio signore e fratelli,<br>benché io parta per la [[settings/court\|corte]], il mio [[motifs/love\|amore]] resterà<br>〈 〉<br>Ora devo [[motifs/sleep\|dormire]] a [[settings/court\|corte]]: sonni profondi, astenetevi.<br>Il ciambellano dello Stato è la cura pubblica.<br>Pure, in questo salire del mio [[motifs/blood\|sangue]] privato<br>i miei studiosi pensieri veglieranno al bene della [[motifs/city\|città]]. |
+| *(didascalia)* | Entra Croft |
+| *(didascalia)* | Entra Crofts |
+| SHREWSBURY | Ebbene, Crofts? Che notizie? |
+| CROFTS | Mio signore, sua altezza manda espresso comando<br>che sia steso verbale di questo tumulto,<br>e che i principali e capitali offensori<br>siano per esso subito processati; ché egli stesso intende<br>giudicare in persona gli altri domani<br>a Westminster. |
+| SHREWSBURY | [[characters/lord-mayor\|Lord Sindaco]], udite il vostro incarico.<br>Venite, buon [[characters/sir-thomas-more\|Sir Thomas More]], affrettiamoci a [[settings/court\|corte]].<br>Voi siete il pacificatore di questo ammutinamento. |
+| MORE | Mio signore, addio. Nuovi giorni generano nuove maree.<br>La vita turbina intorno al fato, poi scivola in una [[motifs/grave\|tomba]]. |
+| *(didascalia)* | Escono separatamente |
+| MORE | Sc. 7 |
+| *(didascalia)* | Entra messer Sceriffo, e incontra un Messaggero |
+| SHERIFF | Messaggero, che notizie? |
+| MESSENGER | L’esecuzione è già compiuta? |
+| SHERIFF | Non ancora. I carri stanno pronti alla scalinata,<br>e subito partiranno per Tyburn. |
+| MESSENGER | Fermatevi, messer sceriffo. È volere del Consiglio,<br>per maggior esempio in caso così grave,<br>che si erga una forca a Cheapside<br>proprio accanto allo Standard, dove dovete condurre<br>[[characters/lincoln\|Lincoln]], e quelli che con lui furono i capi,<br>a subire [[motifs/death\|morte]], e ciò immediatamente. |
+| *(didascalia)* | Entrano Ufficiali |
+| SHERIFF | Sarà fatto, signore. Esce il Messaggero<br>Ufficiali, siate solleciti.<br>Fate venire una forca, badate che sia eretta.<br>Altri s’affrettino a Newgate; ordinate loro di portare<br>qui i prigionieri, ché qui debbono morire.<br>Via, dico, e badate che non si perda [[motifs/time\|tempo]]. |
+| OFFICERS | Andiamo, signore. |
+| SHERIFF | [[motifs/well\|Ben]] detto, compagni. Ora fate il vostro dovere. |
+| *(didascalia)* | Escono alcuni Ufficiali separatamente. Altri innalzano la forca |
+| SHERIFF | Dio per la sua pietà soccorra questi tempi torbidi!<br><br>La strada è ostruita da moltitudini che stanno a guardare.<br><br>Comandate ai nostri ufficiali armati d’alabarda<br><br>di far largo all’ingresso dei prigionieri.<br><br>Sia ancora una volta fatto bando<br><br>che ogni capofamiglia, a [[motifs/pain\|pena]] di [[motifs/death\|morte]],<br><br>tenga in casa i suoi apprendisti, e ogni uomo<br><br>stia con un’arma pronta alla sua porta,<br><br>ché altrimenti dovrà risponderne. |
+| FIRST OFFICER | Baderò che sia fatto, signore. Esce |
+| *(didascalia)* | Entra un altro Ufficiale |
+| SHERIFF | Conduceteli via all’esecuzione.<br><br>L’ordine è giunto da più di due ore.<br><br>La [[motifs/city\|città]] sarà multata per questa negligenza. |
+| SECOND OFFICER | C’è tale calca e moltitudine a Newgate<br>che non possono accostare i carri alla scalinata<br>per caricarvi i prigionieri. |
+| SHERIFF | Allora vengano a piedi.<br>Non possiamo trastullarci col [[motifs/time\|tempo]] avendo grande comando. |
+| SECOND OFFICER | Alcuni del Banco, signore, giudicano assai opportuno<br>che si soprassieda, e si sparga la voce<br>che l’esecuzione è differita al mattino;<br>e quando le strade saranno un poco sgombrate<br>d’incatenarli, e sbrigarla d’improvviso. |
+| *(didascalia)* | Sono introdotti i prigionieri, fra essi [[characters/lincoln\|Lincoln]], |
+| *(didascalia)* | Doll, Williamson, Betts il Buffone e Sherwin, [[motifs/well\|ben]] |
+| *(didascalia)* | sorvegliati, e il Boia |
+| SHERIFF | Fermi, frattanto mi pare che vengano avanti.<br>Vedete, stanno venendo. Bene, va molto [[motifs/well\|bene]].<br>Portate là [[characters/lincoln\|Lincoln]] per primo all’albero. |
+| CLOWN BETTS | Sì, ché io grido d’essere l’ultimo, signore. |
+| [[characters/lincoln\|LINCOLN]] | Sapevo che il primo posto, signore, spettava a me.<br>Ora questo compie appieno l’antico proverbio:<br>che «[[characters/lincoln\|Lincoln]] dev’essere impiccato per amor di [[settings/london\|Londra]]». |
+| *(didascalia)* | In nome di Dio, all’opera. Al Boia Compagno, sbriga. |
+| [[characters/lincoln\|LINCOLN]] | Sale<br>Fui il primo uomo in questa ribellione,<br>e sono il primo che per essa deve morire. |
+| DOLL | Da prode, John [[characters/lincoln\|Lincoln]], che la tua [[motifs/death\|morte]] mostri<br>che, come vivesti da uomo, non meno da uomo moristi. |
+| [[characters/lincoln\|LINCOLN]] | Doll Williamson, i tuoi occhi ne saranno testimoni.<br>E dunque a voi tutti che venite a vedere la mia fine<br>debbo confessare che non ebbi cattiva intenzione<br>se non contro coloro che troppo ci fecero torto.<br>E ora m’accorgo che non era giusto<br>che uomini privati si ritagliassero il proprio riscatto<br>per la via che loro piacesse. No, imparatelo ora da me:<br>l’obbedienza è la cosa migliore in ogni grado.<br>E, chiedendo umilmente [[concepts/mercy\|clemenza]] al mio [[archetypes/king\|re]],<br>pazientemente mi sottometto alla legge.<br>Ma Dio perdoni quelli che ne furono causa;<br>e, da cristiano, veramente di cuore,<br>parimenti supplico che anch’essi perdonino me,<br>〈 〉<br>affinché altri, per l’esempio di ciò,<br>siano d’ora innanzi ammoniti dal tentare il simile<br>contro qualsiasi alieno che qui ripari.<br>State [[motifs/well\|bene]] tutti voi. La prossima [[motifs/time\|volta]] che c’incontreremo<br>confido che in cielo ci saluteremo l’un l’altro. Si getta giù |
+| DOLL | Addio, John [[characters/lincoln\|Lincoln]]. Dicano tutti quel che vogliono,<br>vivesti da buon compagno, e moristi da uomo onesto. |
+| CLOWN BETTS | Vorrei essere altrettanto avanti nel mio [[motifs/journey\|viaggio]]. Il primo strappo è il peggiore, mi pare. |
+| SHERIFF | Portate avanti Williamson, là. |
+| DOLL | Buon messer sceriffo, ho una fervente richiesta,<br>e, come siete uomo, non me la negate. |
+| SHERIFF | Donna, qual è? Se è in mio potere,<br>l’otterrai. |
+| DOLL | Lasciate ch’io muoia per prima, signore, è tutto ciò che chiedo.<br>Non sapete qual conforto recherete<br>al mio povero cuore col morire prima di mio marito. |
+| SHERIFF | Conducetela a [[motifs/death\|morte]]. Avrà il suo [[motifs/desire\|desiderio]]. |
+| CLOWN BETTS | Signore, anch’io ho una richiesta per voi. |
+| SHERIFF | Qual è? |
+| CLOWN BETTS | Che, come avete impiccato [[characters/lincoln\|Lincoln]] per primo e impiccherete lei per seconda, così non impicchiate me affatto. |
+| SHERIFF | Anzi, tu spalancasti le porte del Counter, e tu devi essere impiccato per primo fra tutti. |
+| CLOWN BETTS | [[motifs/well\|Bene]], allora tanto vale così! |
+| *(didascalia)* | DOLL allo Sceriffo |
+| CLOWN BETTS | Signore, la vostra libera bontà molto appaga il mio animo.<br>Raccomandatemi a quel buon sceriffo, messer More,<br>e ditegli che, non fosse stato per la sua persuasione,<br>John [[characters/lincoln\|Lincoln]] non penderebbe qui come pende.<br>Ci saremmo prima rinchiusi in Leaden Hall,<br>e là saremmo arsi in cenere col tetto. |
+| SHERIFF | Donna, ciò che fece messer More fu dovere di suddito,<br>e tanto è piaciuto al nostro grazioso signore il [[archetypes/king\|Re]]<br>ch’egli è di qui salito a più alto posto<br>e fatto Consigliere di sua maestà. |
+| DOLL | [[motifs/well\|Ben]] ne è degno, in fede mia:<br>un gentiluomo onesto, saggio, di [[motifs/well\|buona]] parola.<br>Pure loderei assai di più la sua onestà<br>se avesse mantenuto la parola e salvato le nostre vite.<br>Ma lasciamo andare. Gli uomini sono solo uomini, e così<br>le parole sono solo parole, e non pagano ciò che gli uomini devono.<br>Ora, marito, poiché forse il mondo dirà<br>che per opera mia giungi così alla tua fine,<br>qui io comincio per te questa coppa di [[motifs/death\|morte]],<br>affinché tu sia certo di non gustare di peggio<br>di quanto ho preso io, che devo precederti.<br>E che importa s’io sono una donna? Non conta nulla.<br>Devo a Dio una [[motifs/death\|morte]], e gliela devo pagare.<br>Marito, dammi la mano. Non sgomentarti.<br>Sbrigata questa faccenda, tutto il nostro debito è saldato.<br>Solo due piccoli bambini lasciamo dietro di noi,<br>e tutto ciò che posso lasciar loro in questo [[motifs/time\|tempo]]<br>è soltanto l’[[motifs/love\|amore]] di qualche buono e onesto amico<br>che li allevi in modo caritatevole.<br>Che dite, padroni?—Va dritto chi mai non zoppica,<br>ed essi potranno vivere per emendare le colpe dei genitori. |
+| WILLIAMSON | Come, [[motifs/well\|ben]] detto, moglie. In [[concepts/faith\|fede]] mia, tu rallegri il mio cuore.<br>Dammi la mano. Baciamoci, e così separiamoci.<br>La bacia sulla scala |
+| DOLL | Il prossimo bacio, Williamson, sarà in cielo.<br>Ora allegri, ragazzi! George Betts, una mano a te. |
+| *(didascalia)* | A Betts il Buffone E anche a te la tua, Ralph. E la tua, buon |
+| DOLL | onesto Sherwin.<br>Ora lasciate ch’io dica alle donne di questa città<br>che nessuno straniero fece mai giacere Doll.<br>Finché potrò vedere un inglese,<br>né francese né olandese avrà un bacio da me.<br>E quando sarò morta, dite pure di me<br>ch’io morii per sdegno d’essere preda d’uno straniero. |
+| *(didascalia)* | Gran grido e rumore all’interno |
+| VOICES WITHIN | Perdono, perdono, perdono, perdono!<br>Largo al conte di Surrey! Largo là, largo! |
+| *(didascalia)* | Entra Surrey |
+| SURREY | Salvate la vita di quest’uomo, se è possibile! |
+| SHERIFF | È troppo tardi, mio signore, è già morto. |
+| SURREY | Vi dico, messer sceriffo, che siete troppo sollecito<br>a far tanta fretta di condurre uomini alla [[motifs/death\|morte]].<br>Penso che la vostra fatica meriterà pochi ringraziamenti,<br>poiché sua altezza è tanto misericordioso<br>da non voler versare il [[motifs/blood\|sangue]] d’alcun suddito. |
+| SHERIFF | Mio nobile signore, l’avessimo saputo!<br>Il mandato del Consiglio affrettò il nostro adempimento.<br>Altrimenti non sarebbe stato fatto così d’un tratto. |
+| SURREY | [[characters/sir-thomas-more\|Sir Thomas More]] umilmente in ginocchio<br>implorò la vita di tutti, poiché sulla sua parola<br>essi si arresero così docilmente. Il [[archetypes/king\|Re]] l’ha concessa,<br>e l’ha fatto Lord Gran Cancelliere d’Inghilterra,<br>secondo ch’egli degnamente merita.<br>Poiché la vita di [[characters/lincoln\|Lincoln]] non può essere riavuta,<br>allora per gli altri, dalle labbra del mio temuto sovrano,<br>io qui pronuncio libero perdono per tutti— |
+| ALL | (gettando in aria i berretti)<br>Dio salvi il [[archetypes/king\|Re]]! Dio salvi il [[archetypes/king\|Re]],<br>il mio buon Lord Cancelliere e il conte di Surrey! |
+| DOLL | E Doll desidera con tutto il cuore<br>che il nome di More viva per questa parte così nobile;<br>e ogniqualvolta parleremo del Tristo Primo Maggio<br>si lodi More, le cui oneste parole arrestarono la nostra caduta. |
+| SURREY | Nella [[concepts/hope\|speranza]] che la clemenza e la [[concepts/mercy\|misericordia]] di sua altezza,<br>la quale nelle braccia di mite e umile compassione<br>preferirebbe stringervi, come l’amorosa [[characters/nurse\|nutrice]]<br>fa spesso col bimbo capriccioso, piuttosto che lasciarvi<br>all’aspra verga della giustizia; e così indurvi<br>a fuggire tali sconce adunanze che generano<br>tumulti illegali e atti così traditori<br>che, colpendo con la mano dell’odio privato,<br>mutilano il vostro caro paese con pubblica ferita.<br>O Dio, che la [[concepts/mercy\|misericordia]], la cui maestosa fronte<br><br>dovrebbe essere senza rughe, e quella tremenda giustizia,<br><br>che guarda attraverso un velo di sopportazione<br><br>la fragilità della moltitudine,<br><br>debbano dai clamori d’oltraggiosi torti<br><br>essere scosse e destate così alla punizione!<br><br>Ma la vostra meritata [[motifs/death\|morte]] egli perdona.<br>A chi vi dà la vita, pregate tutti che lungamente viva. |
+| ALL | Dio salvi il [[archetypes/king\|Re]]! Dio salvi il [[archetypes/king\|Re]],<br>il mio buon Lord Cancelliere, e il conte di Surrey! |
+| *(didascalia)* | Escono |
+| ALL | [Testo originale (Munday)] |
+| *(didascalia)* | [Aggiunta III (copista del teatro; attribuita a Shakespeare)] |
+| ALL | Sc. 8<br>A table being covered with a green carpet, a state cushion on it, and the purse and mace lying thereon, enter More |
+| MORE | It is in heaven that I am thus and thus,<br>And that which we profanely term our fortunes<br>Is the provision of the power above,<br>Fitted and shaped just to that strength of [[concepts/nature\|nature]]<br>Which we are born with. Good God, good God,<br>That I from such an humble bench of birth<br>Should step, as ’twere, up to my country’s head,<br>And give the law out there; I, in my father’s life,<br>To take prerogative and tithe of knees<br>From elder kinsmen, and him bind by my place<br>To give the smooth and dexter way to me<br>That owe it him by [[concepts/nature\|nature]]: sure these things,<br>Not physicked by respect, might turn our [[motifs/blood\|blood]]<br>To much corruption. But, More, the more thou<br>hast,<br>Either of [[concepts/honour\|honour]], office, wealth, and calling,<br>Which might accite thee to embrace and hug them,<br>The more do thou in serpent’s natures think them,<br>[[concepts/fear\|Fear]] their gay skins with thought of their sharp state,<br>And let this be thy maxim: to be great<br>Is, when the thread of hazard is once spun,<br>A [[characters/bottom\|bottom]] great wound up, greatly undone.<br><br>[Addition III (playhouse scribe; attributed to Shakespeare)]<br>[addition IV (playhouse scribe; attributed to Dekker)] |
+| *(didascalia)* | Enter [[characters/sir-thomas-more\|Sir Thomas More]]’s man Randall, attired like him |
+| MORE | Come on, sir, are you ready? |
+| RANDALL | Yes, my lord. I stand but on a few points. I shall have done presently. Before God, I have practised your lordship’s shift so [[motifs/well\|well]] that I think I shall grow proud, my lord. |
+| MORE | ‘Tis fit thou shouldst wax proud, or else thou’lt ne‘er<br>Be near allied to [[concepts/greatness\|greatness]]. Observe me, sirrah.<br>The learned clerk Erasmus is arrived |
+| *(didascalia)* | Within our English [[settings/court\|court]]. Last [[motifs/night\|night]], I hear, |
+| MORE | He feasted with our English honoured poet<br>The [[characters/earl-of-surrey\|Earl of Surrey]], and I learned today<br>The famous clerk of Rotterdam will visit<br>[[characters/sir-thomas-more\|Sir Thomas More]]. Therefore, sir, take my seat.<br>You are Lord Chancellor. Dress your behaviour<br>According to my carriage. But beware<br>You talk not overmuch, for ’twill betray thee.<br>Who prates not much seems wise, his wit few scan,<br>While the tongue blabs tales of the imperfect man.<br>I’ll see if great Erasmus can distinguish<br>Merit and outward ceremony. |
+| RANDALL | If I do not deserve a share for playing of your lordship [[motifs/well\|well]], let me be yeoman usher to your sumpter and be banished from wearing of a gold chain forever. |
+| MORE | [[motifs/well\|Well]], sir, I’ll hide our motion. Act my part<br>With a firm boldness, and thou winn’st my heart. |
+| *(didascalia)* | Enter the Sheriff, with Falkner (a ruffian) and Officers |
+| MORE | How now, what’s the matter? |
+| *(didascalia)* | FALKNER to Officers Tug me not; I’m no bear. ‘Sblood, if all the dogs in [[settings/paris\|Paris]] [[motifs/garden\|Garden]] hung at my tail, I’d shake ’em off with this: that I’ll appear before no [[archetypes/king\|king]] christened but my good Lord Chancellor. |
+| SHERIFF | We’ll christen you, sirrah.—Bring him forward. |
+| *(didascalia)* | MORE to Falkner How now, what tumults make you? |
+| FALKNER | The azured heavens protect my noble Lord Chancellor! |
+| *(didascalia)* | MORE to Sheriff What fellow’s this? |
+| SHERIFF | A ruffian, my lord, that hath set half the [[motifs/city\|city]] in an uproar. |
+| FALKNER | My lord— |
+| SHERIFF | There was a fray in Paternoster Row, and because they would not be parted the street was choked up with carts. |
+| FALKNER | My noble lord, Pannyer Alley’s throat was open. |
+| MORE | Sirrah, hold your peace. |
+| FALKNER | I’ll prove the street was not choked, but is as [[motifs/well\|well]] as ever it was since it was a street. |
+| SHERIFF | This fellow was a principal broacher of the broil— |
+| FALKNER | ’Sblood, I broached none. It was broached and half run out before I had a lick at it. |
+| SHERIFF | And would be brought before no justice but your [[concepts/honour\|honour]]. |
+| FALKNER | ! I am hauled, my noble lord. |
+| *(didascalia)* | MORE to Sheriff |
+| FALKNER | No ear to choose for every trivial noise<br>But mine, and in so full a [[motifs/time\|time]]? Away.<br>You wrong me, Master Sheriff. Dispose of him<br>At your own pleasure. Send the knave to Newgate. |
+| FALKNER | To Newgate? ’Sblood, [[characters/sir-thomas-more\|Sir Thomas More]], I appeal, I appeal: from Newgate to any of the two worshipful Counters. |
+| MORE | Fellow, whose man are you that are thus lusty? |
+| FALKNER | My name’s Jack Falkner. I serve, next under God and my prince, Master Morris, secretary to my lord of Winchester. |
+| MORE | A fellow of your hair is very fit<br>To be a secretary’s follower! |
+| FALKNER | I [[concepts/hope\|hope]] so, my lord. The fray was between the Bishop’s men of Ely and Winchester, and I could not in [[concepts/honour\|honour]] but part them. I thought it stood not with my reputation and degree to come to my questions and answers before a [[motifs/city\|city]] justice. I knew I should to the pot. |
+| MORE | Thou hast been there, it seems, too late already. |
+| FALKNER | I know your [[concepts/honour\|honour]] is wise, and so forth, and I [[motifs/desire\|desire]] to be only catechized or examined by you, my noble Lord Chancellor. |
+| MORE | Sirrah, sirrah, you are a busy dangerous ruffian. FALKNER Ruffian? |
+| MORE | How long have you worn this hair? |
+| FALKNER | I have worn this hair ever since I was born. |
+| MORE | You know that’s not my question: but how long<br>Hath this shag fleece hung dangling on thy head? |
+| FALKNER | How long, my lord? Why, sometimes thus long, sometimes lower, as the Fates and humours please. |
+| MORE | So quick, sir, with me, ha? I see, good fellow,<br>Thou lovest plain dealing. Sirrah, tell me now<br>When were you last at barber’s? How long [[motifs/time\|time]]<br>Have you upon your head worn this shag hair? |
+| FALKNER | My lord, Jack Falkner tells no Aesop’s fables. Troth, I was not at barber’s this three years. I have not been cut, nor will not be cut, upon a foolish vow which, as the Destinies shall direct, I am sworn to keep. |
+| MORE | When comes that vow out? |
+| FALKNER | Why, when the humours are purged; not these three years. |
+| MORE | Vows are recorded in the [[settings/court\|court]] of heaven,<br>For they are holy acts. Young man, I charge thee<br>And do advise thee start not from that vow.<br>And for I will be sure thou shalt not shear,<br>Besides because it is an odious sight<br>To see a man thus hairy, thou shalt lie<br>In Newgate till thy vow and thy three years<br>Be full expired.—Away with him. |
+| FALKNER | My lord— |
+| MORE | Cut off this fleece and lie there but a month. |
+| FALKNER | I’ll not lose a hair to be Lord Chancellor of Europe. |
+| MORE | To Newgate then. Sirrah, great sins are bred<br>In all that [[concepts/body\|body]] where there’s a foul head. |
+| *(didascalia)* | Away with him. Exeunt all but Randall |
+| *(didascalia)* | Enter Surrey, Erasmus, and attendants |
+| SURREY | Now, great Erasmus, you approach the presence<br>Of a most worthy learned gentleman.<br>This little isle holds not a truer friend<br>Unto the arts; nor doth his [[concepts/greatness\|greatness]] add<br>A feigned flourish to his worthy parts.<br>He’s great in study: that’s the statist’s grace<br>That gains more reverence than the outward place. |
+| ERASMUS | Report, my lord, hath crossed the narrow seas,<br>And to the several parts of Christendom<br>Hath borne the fame of your Lord Chancellor.<br>I long to see him whom with loving thoughts<br>I in my study oft have visited.<br>Is that [[characters/sir-thomas-more\|Sir Thomas More]]? |
+| SURREY | It is, Erasmus.<br>Now shall you view the honourablest scholar,<br>The most religious politician,<br>The worthiest counsellor, that tends our state.<br>That study is the general watch of England.<br>In it, the Prince’s safety and the peace<br>That shines upon our commonwealth are forged<br>By loyal industry. |
+| ERASMUS | I [[concepts/doubt\|doubt]] him not<br>To be as near the life of excellence<br>As you proclaim him, when his meanest servants<br>Are of some weight. You saw, my lord, his porter<br>Give entertainment to us at the gate<br>In Latin good phrase. What’s the master, then,<br>When such good parts shine in his meanest men? |
+| SURREY | His lordship hath some weighty business,<br>For, see, as yet he takes no notice of us. |
+| ERASMUS | I think ’twere best I did my duty to him<br>In a short Latin speech. |
+| *(didascalia)* | He takes off his hat and addresses Randall |
+| ERASMUS | Qui in celeberrima patria natus est et gloriosa plus habet<br><br>negotii ut in lucem veniat quam qui— |
+| RANDALL | I prithee, good Erasmus, be covered. I have forsworn speaking of Latin else, as I am true councillor, I’d tickle you with a speech. Nay, sit, Erasmus. Sit, good my lord of Surrey. I’ll make my lady come to you anon, if she will, and give you entertainment. |
+| ERASMUS | Is this [[characters/sir-thomas-more\|Sir Thomas More]]? |
+| SURREY | O good Erasmus,<br>You must conceive his vein. He’s ever furnished<br>With these conceits. |
+| RANDALL | Yes, [[concepts/faith\|faith]], my learned poet doth not lie for that matter. I am neither more nor less than merry Sir Thomas always. Wilt’ sup with me? By God, I [[motifs/love\|love]] a parlous wise fellow that smells of a politician better than a long progress. Enter [[characters/sir-thomas-more\|Sir Thomas More]] |
+| SURREY | We are deluded. This is not his lordship. |
+| RANDALL | I pray you, Erasmus, how long will the Holland cheese in your country keep without maggots? |
+| MORE | [[archetypes/fool\|Fool]], painted barbarism, retire thyself<br>Into thy first creation. Thus you see,<br>My loving learned friends, how far respect<br>Waits often on the ceremonious train<br>Of base illiterate wealth, whilst men of schools,<br>Shrouded in [[concepts/poverty\|poverty]], are counted fools.<br>Pardon, thou reverend German, I have mixed<br>So slight a jest to the fair entertainment<br>Of thy most worthy [[concepts/self\|self]]. For know, Erasmus,<br>Mirth wrinkles up my face, and I still crave<br>When that forsakes me I may hug my [[motifs/grave\|grave]].<br>Aut tu Erasmus aut diabolus. |
+| ERASMUS | Your [[concepts/honour\|honour]]’s merry humour is best physic<br>Unto your able [[concepts/body\|body]], for we learn<br>Where [[concepts/melancholy\|melancholy]] chokes the passages<br>Of [[motifs/blood\|blood]] and breath, the erected spirit still<br>Lengthens our days with sportful exercise.<br>Study should be the saddest [[motifs/time\|time]] of life;<br>The rest a sport exempt from thought of strife. |
+| MORE | Erasmus preacheth gospel against physic.—<br>My noble poet— |
+| SURREY | O my lord, you tax me<br>In that word ‘poet’ of much idleness.<br>It is a study that makes poor our fate.<br>Poets were ever thought unfit for state. |
+| MORE | O, give not up fair poesy, sweet lord,<br>To such contempt. That I may speak my heart,<br>It is the sweetest heraldry of art<br>That sets a difference ’tween the tough, sharp holly<br>And tender bay tree. |
+| SURREY | Yet, my lord,<br>It is become the very lag i’ number<br>To all mechanic sciences. |
+| MORE | Why I’ll show the reason<br>This is no age for poets. They should sing<br>To the loud canon heroica facta:<br><br>Qui faciunt reges heroica carmina laudant;<br>And, as great subjects of their pen [[motifs/decay\|decay]],<br>Even so, unphysicked, they do melt away. |
+| *(didascalia)* | Enter Master Morris |
+| MORE | Come, will your lordship in? My dear Erasmus—<br>I’ll hear you, Master Morris, presently.— |
+| *(didascalia)* | To Erasmus My lord, I make you master of my house. |
+| MORE | We’ll banquet here with fresh and staid delights.<br>The Muses’ music here shall cheer our spirits.<br>The cates must be but mean where scholars sit;<br>For they’re made all with courses of neat wit. |
+| *(didascalia)* | Exeunt Surrey, Erasmus, and attendants |
+| MORE | How now, Master Morris? |
+| MORRIS | I am a suitor to your lordship in behalf of a servant of mine. |
+| MORE | The fellow with long hair, good Master Morris?<br>Come to me three years hence, and then I’ll hear you. |
+| MORRIS | I understand your [[concepts/honour\|honour]]; but the foolish knave has submitted himself to the [[concepts/mercy\|mercy]] of a barber, and is without, ready to make a new vow before your lordship hereafter to live civil. |
+| MORE | Nay then, let’s talk with him; pray call him in. |
+| *(didascalia)* | Enter Falkner and Officers |
+| FALKNER | Bless your [[concepts/honour\|honour]]: a new man, my lord. |
+| MORE | Why sure this’ not he. |
+| FALKNER | An your lordship will, the barber shall give you a sample of my head. I am he, in [[concepts/faith\|faith]], my lord, I am ipse. |
+| MORE | Why, now thy face is like an honest man’s.<br>Thou hast played [[motifs/well\|well]] at this new-cut and won. |
+| FALKNER | No, my lord, lost all that ever God sent me. |
+| MORE | God sent thee into the world as thou art now, with a short hair. How quickly are three years run out in Newgatel |
+| FALKNER | I think so, my lord, for there was but a hair’s length between my going thither and so long [[motifs/time\|time]]. |
+| MORE | Because I see some grace in thee, go free.— |
+| *(didascalia)* | Discharge him, fellows. Exeunt Officers |
+| MORE | Farewell, Master Morris.<br>Thy head is for thy shoulders now more fit: |
+| *(didascalia)* | Thou hast less hair upon it, but more wit. exit |
+| MORRIS | Did not I tell thee always of these locks? |
+| FALKNER | An the locks were on again, all the goldsmiths in Cheapside should not pick them open. ’Sheart, if my hair stand not on end when I look for my face in a glass, I am a potecat.—Here’s a lousy jest.—But if I notch not that rogue Tom Barber that makes me look thus like a Brownist, hang me. I’ll be worse to the nittical knave than ten tooth-drawings. Here’s a head with a pox!<br><br>[Addition IV (playhouse scribe; attributed to Dekker)]<br>[Addition IV (Dekker)] |
+| MORRIS | What ail’st thou? Art thou mad now? |
+| FALKNER | Mad now? Nails, if loss of hair cannot mad a man—what can? I am deposed: my [[motifs/crown\|crown]] is taken from me. More had been better a’ scoured Moorditch than a’ notched me thus. Does he begin sheep-shearing with Jack Falkner? |
+| MORRIS | Nay, an you feed this vein, sir, fare you [[motifs/well\|well]]. |
+| FALKNER | Why, farewell, [[motifs/frost\|frost]]! I’ll go hang myself out for the—poll-head. Make a Sar’cen of Jack? |
+| MORRIS | Thou desperate knave, for that I see the devil<br>Wholly gets hold of thee— |
+| FALKNER | The devil’s a damned rascal. |
+| MORRIS | I charge thee wait on me no more; no more<br>Call me thy master. |
+| FALKNER | Why then, a word, Master Morris. |
+| MORRIS | I’ll hear no words, sir, fare you [[motifs/well\|well]]. |
+| FALKNER | ’Sblood, farewelll |
+| MORRIS | Why dost thou follow me? |
+| FALKNER | Because I’m an ass. Do you set your shavers upon me, and then cast me off? Must I condole? Have the Fates played the fools? (Weeps) Am I their cut? Now the poor sconce is taken, must Jack march with bag and baggage? |
+| MORRIS | You coxcomb! |
+| FALKNER | Nay, you ha’ poached me, you ha’ given me a hire, it’s here, here. |
+| MORRIS | Away, you kind ass. Come, sir, dry your eyes.<br>Keep your old place, and mend these fooleries. |
+| FALKNER | I care not to be turned off, an ’twere a ladder, so it be in my humour or the Fates beckon to me. Nay, pray, sir, if the Destinies spin me a fine thread, Falkner flies another pitch. And to avoid the headache, hereafter before I’ll be a hairmonger I’ll be a whoremonger. |
+| *(didascalia)* | Exeunt |
+| FALKNER | [Addition IV (Dekker)]<br>[Addition V (playhouse scribe)]<br><br>Sc. 9 |
+| *(didascalia)* | Entra un Messaggero da More. Messaggero. T. Goodal |
+| MESSENGER | Mio onorevole signore, il Sindaco di [[settings/london\|Londra]],<br>accompagnato dalla sua dama e dal seguito di lei,<br>sta venendo qua, ed è ormai vicino<br>per banchettare con voi. Un sergente è giunto innanzi<br>a dire a vostra signoria del loro prossimo arrivo. |
+| *(didascalia)* | Esce il Messaggero |
+| MORE | Ecco, questa è lieta notizia. Gli amici vanno e vengono.<br>Il reverendo Erasmo, le cui deliziose parole<br>esprimono l’[[motifs/soul\|anima]] stessa e la vita dell’ingegno,<br>or ora prese triste congedo da me, e con le [[motifs/tears\|lacrime]]<br>turbò l’argenteo canale del Tamigi,<br>il quale, lieto di tal carico, superbamente si gonfiò<br>e sul suo seno lo portò verso il mare.<br>È partito per Rotterdam. La pace vada con lui!<br>Mi lasciò gravato quando se n’andò di qui,<br>ma questo mi riconforta. Il gentile [[characters/lord-mayor\|Lord Sindaco]],<br>i suoi fratelli aldermanni, con le loro belle mogli<br>banchetteranno questa [[motifs/night\|notte]] con noi. Ecco, così dev’essere.<br>L’allegro cuore di More vive di buona compagnia. |
+| *(didascalia)* | Entrano messer Roper e Servitori |
+| MORE | Buoni gentiluomini, siate solleciti; date grande incarico<br>che la nostra mensa sia squisita al palato.<br>Ché, di tutti i popoli che la terra offre,<br>i londinesi mangiano più riccamente alle loro tavole.<br><br>[Aggiunta V (copista del teatro)]<br>[Testo originale (Munday)]<br>Venite, miei buoni compagni, muovetevi, siate diligenti.<br>L’accidia è un poltrone. Lasciatelo ora.<br>Il [[motifs/time\|tempo]] richiede il vostro spedito servizio.<br>Mettetemi qui degli sgabelli su cui sedere le dame. |
+| *(didascalia)* | I Servitori dispongono gli sgabelli |
+| MORE | Figlio Roper, avete dato ordini per il banchetto? |
+| ROPER | Sì, mio signore, e ogni cosa è pronta. |
+| *(didascalia)* | Entra Lady More |
+| MORE | Oh, benvenuta, moglie. Date voi disposizione<br>di come le donne debbano sedere; voi lo sapete meglio.<br>Quanto al mio [[characters/lord-mayor\|Lord Sindaco]], ai suoi fratelli e agli altri,<br>lasciate me solo. Gli uomini sanno meglio ordinare gli uomini. |
+| LADY MORE | Ve ne rispondo, mio signore, tutto andrà [[motifs/well\|bene]].<br>C’è uno là fuori che aspetta di parlarvi,<br>e m’ha detto di riferirvi ch’egli è un attore. |
+| MORE | Un attore, moglie?—Uno di voi gli dica d’entrare. |
+| *(didascalia)* | Esce uno, [un Servitore] |
+| MORE | Su, muovetevi là, compagni. Ohibò, siete troppo lenti!<br>Badate che i vostri lumi siano in pronto.<br>Il banchetto sarà qui.—Dio mi guardi, madama,<br>lasciar sola la Signora Sindachessa? Entrambi via dalla tavola?<br>E anche mio figlio Roper? Che penseranno i nostri ospiti? |
+| LADY MORE | Mio signore, si sono alzati, e siedono presso il [[motifs/fire\|fuoco]]. |
+| MORE | Ebbene, andate pure voi, e tenete loro compagnia.<br>Non conviene che siamo assenti entrambi. |
+| *(didascalia)* | Esce Lady More |
+| *(didascalia)* | Entra l’Attore |
+| MORE | Benvenuto, buon amico. Che volete da me? |
+| PLAYER | Mio signore, i miei compagni e io stesso<br>siamo venuti a offrirvi il nostro volenteroso servizio,<br>se vi piaccia comandarci. |
+| MORE | Come, per una recita, intendete?<br>Chi servite? |
+| PLAYER | Sua grazia il mio Lord Cardinale. |
+| MORE | Gli attori del mio Lord Cardinale? Ora, credetemi, benvenuti.<br>Capitate qui in [[motifs/time\|tempo]] fortunato<br>per far piacere a me e giovare a voi stessi.<br>Il Sindaco di [[settings/london\|Londra]] e alcuni aldermanni,<br>la sua dama e le loro mogli sono miei cortesi ospiti<br>questa [[motifs/night\|notte]] a cena. Ora, avere una recita<br>prima del banchetto sarà eccellente.<br>Che ne pensate, figlio Roper? |
+| ROPER | Riuscirà [[motifs/well\|bene]], mio signore,<br>e sarà passatempo assai gradito ai vostri ospiti. |
+| MORE | Ti prego, dimmi, che recite avete? |
+| PLAYER | Diverse, mio signore: The Cradle of Security,<br><br>Hit Nail o’th’ Head, Impatient [[concepts/poverty\|Poverty]],<br><br>The Play of Four Ps, Dives and Lazarus,<br><br>Lusty Juventus, e Il [[motifs/marriage\|Matrimonio]] di Wit e Wisdom. |
+| MORE | Il [[motifs/marriage\|Matrimonio]] di Wit e Wisdom? Quello, ragazzi miei,<br>non voglio che quello. Il tema è ottimo,<br>e può reggere un largo ragionamento.<br>Sposare l’ingegno alla saggezza richiede qualche accortezza.<br>Molti hanno ingegno che può restar corto di saggezza.<br>Vedremo come messer Poeta recita la sua parte,<br>e se ingegno o saggezza adorni la sua arte.<br>Andate, fatelo bere, e anche tutti i suoi compagni.<br>Quanti siete? |
+| PLAYER | Quattro uomini e un ragazzo, signore. |
+| MORE | Un ragazzo solo? Allora vedo che ci son poche donne nella recita. |
+| PLAYER | Tre, mio signore: Madonna Science, Madonna [[concepts/vanity\|Vanity]],<br>e Wisdom in persona. |
+| MORE | E un ragazzo solo le recita tutte? Per Nostra Signora, è ben carico.<br>[[motifs/well\|Bene]], mio buon compagno, mettetevi subito insieme<br>e preparatevi con tutta la fretta che potete. |
+| *(didascalia)* | Ai Servitori Preparate la loro cena per quando la recita sia |
+| MORE | finita,<br>altrimenti tratterremo qui troppo a lungo i nostri ospiti. |
+| *(didascalia)* | All’Attore Fate presto, vi prego. |
+| PLAYER | Lo faremo, mio signore. |
+| *(didascalia)* | Escono i Servitori e l’Attore |
+| MORE | Dove sono i musici? [A Roper] Andate, dite loro di suonare,<br>per passare un poco il [[motifs/time\|tempo]]. |
+| *(didascalia)* | Entra Lady More |
+| MORE | Ebbene, madama? |
+| LADY MORE | Mio signore, stanno venendo qua. |
+| MORE | Siano i benvenuti. Moglie, vi dirò una cosa.<br>Il nostro spasso è alquanto migliorato: avremo<br>stasera una recita, Il [[motifs/marriage\|Matrimonio]] di Wit e Wisdom,<br>recitata dagli attori del mio buon Lord Cardinale.<br>Come vi piace, moglie? |
+| LADY MORE | Mio signore, mi piace [[motifs/well\|molto]].<br>Vedete, stanno venendo.<br>I musici suonano gli oboi<br><br>Suonano i musici. Entrano il [[characters/lord-mayor\|Lord Mayor]], quanti Aldermanni<br><br>si possa, la Signora Sindachessa, in scarlatto, con altre<br><br>dame e le figlie di [[characters/sir-thomas-more\|Sir Thomas More]], [una delle quali<br><br>moglie di Roper]; Servi che recano accanto a loro torce accese |
+| MORE | Ancora una volta, benvenuto, benvenuto, mio buon [[characters/lord-mayor\|Lord Sindaco]],<br>e voi tutti fratelli—ché un tempo fui vostro fratello,<br>e tale son tuttora in cuore. Non è il grado<br>che possa separare il nostro [[motifs/love\|amore]] da [[settings/london\|Londra]].<br>〈〉<br>〈 〉 null’altro che [[concepts/pride\|superbia]];<br>ma quelli che volgono ancora l’occhio a donde vennero<br>sanno come [[motifs/rose\|salirono]], e come usarne. |
+| [[characters/lord-mayor\|LORD MAYOR]] | Mio signore, voi date lustro alla fama di [[settings/london\|Londra]],<br>e la fate felice per sempre col vostro nome.<br>Dobbiamo per forza dire, ricordando More,<br>che fu lui a cacciare la ribellione dalla nostra porta<br>con [[motifs/grave\|gravi]] discrezioni, con fiato mite e gentile,<br>schermendo dalla [[motifs/death\|morte]] le vite di molti sudditi.<br>Oh, quanto la nostra [[motifs/city\|città]] è da voi resa illustre,<br>e coronate dalle vostre virtù le nostre fatiche! |
+| MORE | Basta, mio buon [[characters/lord-mayor\|Lord Sindaco]]; ma grazie a tutti<br>che a così breve avviso siete voluti venire<br>a visitare colui che tiene cara la vostra cortesia.<br>[A Lady More] Madama, non state allegra con la mia Signora<br>Sindachessa<br>e con queste belle dame. Vi prego, fatele sedere tutte.<br>[Al [[characters/lord-mayor\|Lord Mayor]]] E qui, mio signore, lasciate ch’io v’assegni il<br>posto;<br>gli altri si seggano da sé. Anzi, vi stancherò;<br>non avrete fretta di tornare a visitarmi. |
+| LADY MORE | Buona madama, sedete. In verità, dovete sedere qui. |
+| LADY MAYORESS | Buona madama, perdonatemi, non può essere. |
+| LADY MORE | In fede mia, così voglio. Siederò qui accanto a voi.<br>Buone dame, sedete.—Altri sgabelli qui, olà! |
+| LADY MAYORESS | È il vostro favore, madama, che così mi fa<br>presumere oltre il mio merito. |
+| LADY MORE | Quando verremo da voi,<br>allora voi ci reggerete come noi qui reggiamo voi.<br>[Siedono]<br>Ora devo dirvi, madama, che abbiamo una recita<br>per darvi il benvenuto. Quanto buona essa sia<br>non lo so io; mio signore vuole così. |
+| MORE | Moglie, [[concepts/hope\|spera]] il meglio; son certo che faranno del loro meglio.<br>Chi vorrebbe di meglio non viene al loro banchetto.<br>Gli attori del mio buon Lord Cardinale, li ringrazio di ciò,<br>ci recitano una commedia, per prolungare il vostro benvenuto,<br>mio buon [[characters/lord-mayor\|Lord Sindaco]] e tutti gli altri miei amici.<br><br>Dicono che sia Il [[motifs/marriage\|Matrimonio]] di Wit e Wisdom—<br>tema di qualche importanza, comunque riesca.<br>Ma se l’arte fallisce, la allungheremo con l’[[motifs/love\|amore]].<br>Ebbene, son pronti? |
+| SERVANT | Mio signore, uno degli attori chiede di parlarvi. |
+| MORE | Con me? Dov’è? |
+| *(didascalia)* | Entra [l’Attore che fa] Inclination il Vizio, pronto, [con una briglia in mano] |
+| PLAYER | di INCLINATION Qui, mio signore. |
+| MORE | Ebbene, che c’è? |
+| PLAYER | di INCLINATION Vorremmo [[motifs/desire\|desiderare]] dal vostro [[concepts/honour\|onore]] soltanto d’attendere un poco. Uno dei miei compagni è appena corso da Ogle per una barba lunga per il giovane Wit, e sarà qui all’istante. |
+| MORE | Una barba lunga per il giovane Wit? Ma via, uomo, può star senza barba finché non venga al [[motifs/marriage\|matrimonio]], ché l’ingegno non va tutto a peli. Quando entra Wit? |
+| PLAYER | di INCLINATION Nella seconda scena, subito dopo il Prologo, mio signore. |
+| MORE | Ebbene, recitate fino a che venga quella scena, e per quel [[motifs/time\|tempo]] la barba di Wit sarà cresciuta, oppure il compagno sarà tornato con essa. E tu che parte reciti? |
+| PLAYER | di INCLINATION Inclination, il Vizio, mio signore. |
+| MORE | Mercé, ora posso prendere il Vizio se mi garba. E perché hai quella briglia in mano? |
+| PLAYER | di INCLINATION Fra poco debbo essere imbrigliato, mio signore. |
+| MORE | E se non sei anche sellato non importa, ché allora l’Inclination di Wit può galoppare tanto forte da sorpassare la saggezza e cadere nella follia. |
+| PLAYER | di INCLINATION Davvero, così fa, verso Madonna [[concepts/vanity\|Vanity]]; ma nella nostra recita non abbiamo Folly. |
+| MORE | Allora non c’è ingegno in essa, lo giurerei. La follia serve l’ingegno come l’[[archetypes/shadow\|ombra]] il [[concepts/body\|corpo]], e dove l’ingegno è più maturo, là la follia è sempre più pronta. Ma comincia, ti prego. Ammetteremo piuttosto un Wit senza barba che un Wit tutto barba e senza cervello. |
+| PLAYER | di INCLINATION Anzi, ha addosso anche il suo abito, mio signore, e perciò è più pronto a entrare. |
+| MORE | Allora, buon Inclination, comincia a caso. |
+| *(didascalia)* | Esce l’Attore di Inclination |
+| MORE | Mio [[characters/lord-mayor\|Lord Sindaco]], a Wit manca una barba, altrimenti<br>comincerebbero.<br>Gli presterei la mia, se non fosse troppo rada.<br>[[motifs/silence\|Silenzio]], vengono.<br>Suona la tromba. Entra il Prologo |
+| PROLOGUE | Ora, poiché in questi ultimi giorni<br>per tutto il mondo e in ogni terra<br>il vizio cresce e la virtù decade,<br>avendo l’iniquità il sopravvento,<br>noi perciò intendiamo, buono e gentile pubblico,<br>recitare al presente un grazioso e breve interludio,<br>chiedendo il vostro permesso e quieto [[motifs/silence\|silenzio]]<br>per mostrarlo come si conviene ed è opportuno.<br>Si chiama Il [[motifs/marriage\|Matrimonio]] di Wit e Wisdom,<br>materia assai succosa e piacevole a udirsi,<br>di cui in breve mostreremo l’intera somma.<br>Ma io devo andarmene, ché Wit appare. Esce |
+| *(didascalia)* | Entrano Wit, gradasso, e Inclination, il Vizio |
+| WIT | [canta]<br>In un verde pergolato, dove addormentato giacevo—<br>gli [[motifs/birds\|uccelli]] cantavano dolci nel mezzo del giorno—<br>sognavo forte di allegria e di gioco.<br>In gioventù è il piacere, in gioventù è il piacere.<br>Mi pareva d’andare sempre avanti e indietro,<br>e dalla sua compagnia non potevo staccarmi;<br>ma quando mi svegliai non era così. iso<br>In gioventù è il piacere, in gioventù è il piacere.<br>Perciò il mio cuore è certo impegnato<br>d’avere di lei sola una vista,<br>ch’è la mia gioia e la delizia del cuore.<br>In gioventù è il piacere, in gioventù è il piacere. |
+| *(didascalia)* | MORE al [[characters/lord-mayor\|Lord Mayor]] Notate, mio signore, questo è Wit senza barba. Che sarà per il [[motifs/time\|tempo]] in cui giungerà al comodo d’una barba? |
+| INCLINATION | [a Wit]<br>O signore, migliore è il terreno su cui essa cammina,<br>ché con poco che possa avere farà miglior festa<br>di quanta molti ne facciano con un gran banchetto di carne. |
+| WIT | E il suo nome è Wisdom? |
+| INCLINATION | Sì, signore, moglie quanto mai adatta<br>a voi, mio buon padrone, mio delicato dolce Wit. |
+| WIT | Il mio cuore è deciso a stare in sua compagnia.<br>Perciò ti prego, andiamocene,<br>ché verso Wisdom Wit ha inclinazione. |
+| INCLINATION | O signore, ella verrà da sé fra un istante,<br>ché le dissi prima dove ci saremmo fermati,<br>e allora disse che ci avrebbe fatto cenno con la mano.<br>(Brandendo il pugnale)<br>Indietro con quei ragazzi e quei grossi furfanti insolenti.<br>Come, ve ne state qui tanto gonfi nelle vostre bravate?<br>Il mio pugnale passeggerà sulle vostre creste<br>se solo v’odo ciarlare o parlare. |
+| WIT | Ma si prenderà la pena di venir qui per noi? |
+| INCLINATION | Ve ne rispondo, e perciò dovete essere familiare con lei.<br>Quando ella giunge sul posto<br>dovete abbracciarla<br>alquanto garbatamente,<br>ché non giudichi pericolo,<br>poiché voi siete uno straniero,<br>venire in vostra compagnia. |
+| WIT | Te ne rispondo, Inclination, sarò diligente.<br>Oh, come Wit brama d’essere in compagnia di Wisdom! |
+| *(didascalia)* | Entra Madonna [[concepts/vanity\|Vanity]], cantando e facendo cenno con la mano |
+| [[concepts/vanity\|VANITY]] | Vieni qua, vieni qua, vieni qua, vieni.<br>Della festa ch’io ho, ne avrai anche tu. |
+| MORE | Questa è Madonna [[concepts/vanity\|Vanity]], ci scommetto la vita.<br>Bada, buon Wit, di non prenderla in moglie. |
+| INCLINATION | [a Madonna [[concepts/vanity\|Vanity]]]<br>Ehi, Onestà Sconosciuta, una parola all’orecchio.<br>[Madonna [[concepts/vanity\|Vanity]]] fa per andarsene<br>Non ve n’andrete ancora, lo giuro.<br>Qui non ci son che vostri amici; non v’occorre spaventarvi.<br>Questo giovane gentiluomo v’ama, perciò dovete restare. |
+| WIT | Confido che in me non vedrà pericolo;<br>ché io [[motifs/love\|amo]] [[motifs/well\|assai]] la compagnia delle belle donne—<br>e, benché per voi io sia uno straniero,<br>pure Wit può farvi piacere di quando in quando. |
+| [[concepts/vanity\|VANITY]] | Chi, voi? Anzi, siete un uomo così santo<br>che a toccarne una non osereste esser baldo.<br>Penso che non bacereste una giovane donna<br>neppure se vi si dessero venti sterline d’oro. |
+| WIT | Sì, in tutta serietà, madonna, lo farei.<br>Mi sentirei il cuore di baciarvi in camicia. |
+| [[concepts/vanity\|VANITY]] | La mia schiena è larga abbastanza da reggere quella beffa;<br>ché m’è stato detto molte [[motifs/time\|volte]]<br>che voi non vi fareste vedere in compagnia come la mia. |
+| WIT | Non Wit in compagnia di Madonna Wisdom?<br>O Giove, per che cosa son venuto qua? |
+| INCLINATION | Signore, ella fece questo per null’altro che per provare<br>se una piccola cosa vi movesse<br>a irarvi e crucciarvi.<br>E che importa se uno l’ha detto?<br>Lasciate andare simili inezie,<br>e con un gentile bacio uscite dal suo debito. |
+| *(didascalia)* | Entra un altro Attore |
+| PLAYER | di INCLINATION È già venuto Luggins con la barba? |
+| OTHER PLAYER | No, in [[concepts/faith\|fede]], non è venuto. Ahimè, che faremo? |
+| PLAYER | di INCLINATION [a More] In verità, non possiamo andare oltre finché non giunga il nostro compagno Luggins, ché egli fa Good Counsel, e ora dovrebbe entrare ad ammonire Wit che questa è Madonna [[concepts/vanity\|Vanity]] e non Madonna Wisdom. |
+| MORE | Anzi, se non è che questo, non resterete fermi per tal motivo. Non vogliamo che la nostra recita sia guastata per mancanza d’un po’ di buon consiglio. Finché venga il vostro compagno gli darò io il miglior consiglio che so. Perdonatemi, mio [[characters/lord-mayor\|Lord Sindaco]], [[motifs/love\|amo]] stare allegro.<br>[Si alza e si unisce agli attori] |
+| MORE | come GOOD COUNSEL<br>O buon messer Wit, tu sei ora fuori di mira,<br>e ciecamente stai fermo nella tua opinione.<br>Ti dico che questa cattiva e sconcia Inclination<br>ti conduce fuori strada in ben strana foggia.<br>Questa non è Wisdom, ma Madonna [[concepts/vanity\|Vanity]].<br>Perciò dà ascolto a Good Counsel, e lasciati reggere da me. |
+| PLAYER | di INCLINATION In fede mia, mio signore, è proprio la parte di Luggins, tal quale. Parla, Wit. |
+| MORE | Anzi, non vogliamo deludere il nostro pubblico, se posso impedirlo. |
+| WIT | Sei tu Good Counsel, e mi dici così?<br>Vorresti che Wit s’allontanasse da Madonna Wisdom?<br>Sei qualche ingannatore, te lo dico in verità,<br>a dire che questa è Madonna [[concepts/vanity\|Vanity]]. |
+| MORE | come GOOD COUNSEL<br>Wit, non giudicare le cose dall’apparenza esteriore.<br>L’occhio spesso s’inganna, [[motifs/well\|ben]] lo sai.<br>Good Counsel t’assicura sulla sua onestà<br>che questa non è Wisdom, ma Madonna [[concepts/vanity\|Vanity]]. |
+| *(didascalia)* | Entra Luggins, con la barba |
+| PLAYER | di INCLINATION Oh, mio signore, è venuto. Ora potremo procedere. |
+| MORE | Sei venuto? [[motifs/well\|Bene]], compagno, ho aiutato a salvare<br>un poco la tua onestà. Ora, se sai dare a Wit un<br>consiglio migliore di quel che ho dato io, non risparmiarti. Qui lo lascio<br>alla tua [[concepts/mercy\|mercé]].<br>Ma a quest’[[motifs/time\|ora]] son certo che il nostro banchetto è pronto.<br>Mio signore e voi dame, gusteremo prima quello,<br>e poi essi ricominceranno la recita,<br>che per l’assenza del compagno, e per opera mia,<br>invece d’essere aiutata è stata ostacolata.<br>[Ai Servi] Preparate per quando veniamo. Lumi qui,<br>dico.—<br>Così gli sciocchi spesso aiutano a guastare la recita. |
+| *(didascalia)* | Escono. Restano gli Attori |
+| PLAYER | di WIT Ohibò, compagno Luggins, ci servite garbatamente, non vi pare? |
+| JUGGINS | Ma Ogle non era in casa, e sua moglie non voleva darmi la barba, e, in fede mia, corsi tanto forte che sudai daccapo. |
+| PLAYER | di INCLINATION Udite, compagni? Non farebbe il mio signore un attore raro? Oh, sosterrebbe una compagnia oltre ogni dire, meglio di Mason fra gli attori del [[archetypes/king\|Re]]. Notaste con che estemporaneità entrò in materia, e disse la parte di Luggins quasi com’è segnata nel libro stesso? |
+| PLAYER | di WIT Zitto, sai quel che dici? Il mio signore un attore? Non immischiamoci in simili faccende. Pure posso essere un poco fiero che il mio signore m’abbia risposto nella mia parte. Ma venite, andiamo e prepariamoci a ricominciare la recita. |
+| LUGGINS | Sì, è la cosa migliore, ché ora non ci manca nulla.<br><br>[Testo originale (Munday)]<br>[Aggiunta VI (Heywood)] |
+| *(didascalia)* | Entra un Servitore verso gli attori, con una ricompensa |
+| SERVINGMAN | Dove sono questi attori? |
+| ALL THE PLAYERS | Qui, signore. |
+| SERVINGMAN | Il mio signore è mandato a chiamare a [[settings/court\|corte]],<br>e tutti gli ospiti si separano dopo cena;<br>e, poiché non vuole disturbarvi di nuovo,<br>per mio mezzo vi manda in ricompensa otto angeli,<br>con molti ringraziamenti. Ma cenate prima d’andare.<br>È sua volontà che siate ben trattati.<br>Seguitemi, vi prego. |
+| PLAYER | di WIT Questa, Luggins, è la vostra negligenza.<br>La mancanza della barba di Wit fece cadere le cose in disgrazia;<br>ché altrimenti la recita si sarebbe vista tutta,<br>mentre ora qualche cittadino schizzinoso l’ha screditata,<br>e, sconsigliandola, tutto è stato congedato. |
+| PLAYER | di INCLINATION Davanti a Dio, dice il vero. Ma udite, messeri: otto angeli, eh! Il mio signore non ci darebbe mai otto angeli. Più o meno, per dodici pence: o dovrebbero essere tre sterline, cinque sterline o dieci sterline; là mancano venti scellini, di sicuro. |
+| PLAYER | di WIT Venti contro uno che è così. Ho un’astuzia. Viene il mio signore; fatevi da parte. |
+| *(didascalia)* | Entra More con attendenti, con borsa e mazza |
+| MORE | In fretta, al Consiglio? Che affare è ora<br>che così tardi sua altezza manda a chiamarmi?—<br>Che cerchi, compagno? |
+| PLAYER | di WIT<br>Anzi, nulla. La vostra signoria mandò otto angeli per mezzo del suo<br>uomo,<br>e io ne ho perduti due fra i giunchi. |
+| MORE | Wit, bada a questo! Otto angeli? Io ne mandai dieci.<br>Chi glieli diede? |
+| SERVINGMAN | Io, mio signore. Non ne avevo di più con me;<br>ma fra poco riceveranno il resto. |
+| MORE | [[motifs/well\|Bene]], Wit, fu fatto saggiamente. Reciti [[motifs/well\|bene]] Wit<br>davvero<br>a non lasciarti così frodare del tuo diritto.<br>Sono io un uomo per ufficio veramente ordinato<br>a dividere equamente a ciascuno il suo diritto,<br>e avrò ingannatori nella mia casa?<br>A che vale allora la mia liberalità, se tali servi<br>frodano il povero di ciò che il padrone dà?<br>Vada uno a tirargli la giubba sulle orecchie.<br>Ce ne son troppi di simili. Date loro il dovuto.<br>Wit, che i tuoi compagni ti ringrazino; fu [[motifs/well\|ben]] fatto.<br>Ora meriti d’accoppiarti con Madonna Wisdom.<br>[Escono More e gli attendenti] |
+| PLAYER | di INCLINATION Dio ti [[concepts/mercy\|renda grazia]], Wit. [Al Servitore] Signore, voi avevate un padrone, [[characters/sir-thomas-more\|Sir Thomas More]]. More? Ma ora avremo di più. |
+| LUGGINS | Dio lo benedica, vorrei ce ne fossero altri del suo animo! Ama il nostro mestiere, e pure è uomo dotto e sa che cosa sia il mondo.<br>[ATTORE di INCLINATION] [[motifs/well\|Bene]], un uomo gentile, e più amorevole di molti altri, ma penso che ci siamo imbattuti nel primo— |
+| LUGGINS | Prima ha servito il suo uomo che aveva i nostri angeli; e quello potrà darsi che domani pranzi col duca Humphrey, essendo stato oggi licenziato. Venite, andiamo. |
+| *(didascalia)* | [ATTORE di INCLINATION] E molte ricompense simili ci farebbero cavalcare tutti, e ci monterebbero a [[motifs/horse\|cavallo]] coi migliori ronzini di Smithfield. Escono |
+| LUGGINS | [Aggiunta VI<br>(Heywood)]<br>[Testo originale (Munday)] |
+| *(didascalia)* | Entrano i conti di Shrewsbury e di Surrey, il vescovo di Rochester e altri lord, [col seguito,] separatamente, facendosi reverenza a vicenda, il Cancelliere del Consiglio attende a capo scoperto |
+| SURREY | Buon giorno al mio signore di Shrewsbury. |
+| SHREWSBURY | Altrettanto all’onorato [[characters/earl-of-surrey\|conte di Surrey]].<br>Laggiù viene il mio signore di Rochester. |
+| ROCHESTER | Buon giorno, miei buoni signori. |
+| SURREY | Cancelliere del Consiglio,<br>che [[motifs/time\|ora]] è del giorno? |
+| CLERK | Passate le otto d’[[motifs/clock\|orologio]], mio signore. |
+| SHREWSBURY | Mi [[concepts/wonder\|meraviglio]] che il mio buon Lord Cancelliere<br>tardi tanto, considerando che vi son materie<br>di grande importanza da esaminare. |
+| SURREY | Cancelliere del Consiglio, avvertite sua signoria<br>che i lord l’aspettano qui. |
+| ROCHESTER | Non occorrerà.<br>Laggiù viene sua signoria. |
+| *(didascalia)* | Entra [[characters/sir-thomas-more\|Sir Thomas More]], con borsa e mazza portate |
+| ROCHESTER | davanti a lui |
+| MORE | Buon giorno a questa bella assemblea.<br>Venite, miei buoni signori, sediamo.<br>Siedono<br>O serio quadrato!<br>Su questo piccolo asse si esamina ogni giorno<br>la salute e la conservazione del paese,<br>e noi siamo i medici che operano questo bene,<br>ora con dieta scelta, ora con cavate di [[motifs/blood\|sangue]].<br>La nostra fatica e la nostra sollecita veglia mettono il [[archetypes/king\|Re]]<br>in lega coi sonni, ai quali la pace canta.—<br>Sgombrate la stanza, là!—<br>Che affari, signori, oggi? |
+| SHREWSBURY | Questo, mio buon signore:<br>circa l’assoldare l’Imperatore al nostro soldo<br>contro i perfidi francesi. |
+| SURREY | Miei signori, poiché è usanza in questo luogo<br>che il più giovane parli per primo, se mi accade<br>di parlare in questo caso giovanilmente, perdonatemi.<br>Convengo che la Francia ha ora tutta la sua forza,<br>avendo di nuovo ricuperato il pallido [[motifs/blood\|sangue]]<br>che la guerra le fece scorrere; e a questo consento:<br>che la congiunzione delle nostre forze inglesi<br>con le armi della [[settings/germany\|Germania]] possa prima portare<br>in casa questo premio di conquista. Ma allora, miei signori,<br>come nella caccia della favola fra il [[motifs/lion\|leone]]<br>e le altre bestie la forza congiunta 〈 〉<br>scacciò i più deboli soci dalle loro parti,<br>così, se al sovrano dell’Impero accadesse di portare<br>la sua istanza di società alla [[settings/court\|corte]] della guerra,<br>le spade dovrebbero decidere la contesa, e il nostro [[motifs/blood\|sangue]]<br>in private [[motifs/tears\|lacrime]] piangerebbe l’averlo assoldato. |
+| SHREWSBURY | [[concepts/doubt\|Temere]] il peggio è sempre lo scudo del saggio<br>che l’arma sicuramente, ma il mondo sa questo:<br>l’Imperatore è uomo di regale [[concepts/faith\|fede]].<br>Il suo [[motifs/love\|amore]] verso il nostro sovrano lo fa scendere<br>dal suo seggio imperiale, per marciare a soldo<br>sotto la nostra [[motifs/flag\|bandiera]] inglese, e portare la [[motifs/cross\|croce]]<br>come qualche alto ordine sul suo virile petto.<br>Servendo così, non è padrone di sé,<br>ma, come un colonnello che comanda altri,<br>è a sua volta soggetto al generale. |
+| ROCHESTER | Pure, mio buon signore— |
+| SHREWSBURY | Lasciate ch’io concluda il mio discorso.<br>Come i sudditi non hanno parte alcuna nella conquista<br>del loro legittimo sovrano se non il merito<br>che dal sovrano ricompensa il fedele suddito,<br>così il buon Imperatore, in amichevole lega<br>d’amicizia con l’Inghilterra, non macchierà<br>il suo [[concepts/honour\|onore]] col furto delle spoglie inglesi. |
+| MORE | Non v’è dubbio che questo assoldamento<br>sarà onorevolissimo, vantaggiosissimo.<br>Ho spesso udito buoni capitani desiderare d’avere<br>soldati ricchi al loro seguito, tali che combattessero<br>tanto per le loro vite quanto per i loro averi. Tale<br>è il buon Imperatore. Vorrei a Dio<br>che ne avessimo diecimila di simili uomini valenti.<br>Ah, allora non apparirebbe [[settings/court\|corte]] né [[motifs/city\|città]],<br>ma, dove fosse la guerra, si pagherebbero<br>da sé.<br>Dunque, per prevenire nelle guerre di Francia la perdita d’Inghilterra,<br>sventolino le bandiere germaniche con la nostra [[motifs/cross\|croce]] inglese. |
+| *(didascalia)* | Entra Sir Thomas Palmer |
+| PALMER | Miei signori, sua maestà ha mandato per mio mezzo<br>questi articoli qui chiusi, prima da esaminare,<br>e poi da sottoscrivere. (Con grande reverenza) Li<br>porgo<br>con quella debita reverenza che si conviene a questo luogo. |
+| MORE | Sottoscrivere questi articoli? Fermi, facciamo una pausa.<br>La nostra [[concepts/conscience\|coscienza]] parlamenterà prima con le nostre leggi.<br>Mio signore di Rochester, esaminate voi la carta. |
+| ROCHESTER | Sottoscrivere questi? Ora, buon Sir Thomas Palmer,<br>supplicate il [[archetypes/king\|Re]] che voglia perdonarmi.<br>Il mio cuore tratterrebbe la mano mentre scrivessi.<br>Sottoscrivendo così, sarei un ipocrita. |
+| PALMER | Lo rifiutate dunque, mio signore? |
+| ROCHESTER | Lo rifiuto, Sir Thomas. |
+| PALMER | Allora qui vi cito a comparire immediatamente<br><br>davanti a sua maestà, per rispondere là<br><br>di questo capitale disprezzo. |
+| ROCHESTER | Mi levo, e parto,<br>e in luogo di ciò gli offro il mio cuore. Si alza |
+| PALMER | Piaccia al vostro [[concepts/honour\|onore]] sottoscrivere, mio signore? |
+| MORE | Signore, dite a sua altezza ch’io supplico<br><br>un poco di [[motifs/time\|tempo]] per riflettere su questo compito.<br><br>Frattanto rassegno la mia carica<br><br>nelle mani del mio sovrano. Tutti si turbano |
+| PALMER | Allora, mio signore,<br>udite l’ordine già preparato dal [[archetypes/king\|Re]].<br><br>Al vostro rifiuto partirete subito<br><br>per la vostra casa di Chelsea, finché non conosciate<br><br>l’ulteriore volere del nostro sovrano. |
+| MORE | Ben volentieri vado.<br>Miei signori, se vorrete visitarmi a Chelsea<br><br>andremo a pesca, e con una rete accorta,<br><br>non come una debole pellicola, non prenderemo che i grossi.<br><br>Addio, miei nobili signori. Ecco, così è giusto:<br><br>buon giorno al sole, e allo Stato buona [[motifs/night\|notte]]. |
+| *(didascalia)* | Esce |
+| PALMER | Volete sottoscrivere, miei signori? |
+| SURREY | All’istante, buon Sir Thomas.<br>Scrivono<br>Porteremo lo scritto al nostro sovrano. |
+| PALMER | Mio signore di Rochester,<br>dovete venire con me, a rispondere di questo disprezzo. |
+| ROCHESTER | Questo è il peggio.<br>Chi è liberato dalla vita è esente da ogni cura. |
+| *(didascalia)* | Escono Rochester e Palmer |
+| SURREY | Ora affrettiamoci al nostro sovrano.<br><br>È strano che il mio Lord Cancelliere rifiuti<br>il dovere che la legge di Dio lascia<br>al [[archetypes/king\|re]]. |
+| SHREWSBURY | Venite, entriamo. Non [[concepts/doubt\|dubito]]<br>che il suo animo muterà, e anche quello del Vescovo.<br>L’errore nelle teste dotte ha molta forza.<br>[Escono] |
+| *(didascalia)* | Entrano Lady More, le sue due Figlie, [una delle quali moglie di Roper,] e messer Roper, passeggiando |
+| ROPER | Madama, che avete per parer così triste? |
+| LADY MORE | In verità, figlio, non so che sia. Non sono malata,<br>eppure non sto [[motifs/well\|bene]]. Vorrei essere allegra,<br>ma qualcosa mi pesa tanto sul cuore<br>che non posso non sospirare. Voi siete un dotto.<br>Vi prego, ditemi: si può prestar fede ai [[motifs/dreams\|sogni]]? |
+| ROPER | Perché lo chiedete, cara madama? |
+| LADY MORE | Perché stanotte ho avuto il più strano sogno<br>da cui mai il mio [[motifs/sleep\|sonno]] fosse turbato.<br>Mi pareva fosse [[motifs/night\|notte]],<br>e che il [[archetypes/king\|Re]] e la [[characters/queen\|Regina]] andassero sul Tamigi<br>in chiatte a udir musica. Il mio signore e io<br>eravamo in una barchetta, mi pareva—Signore, Signore,<br>che strane cose vivono nel sonno!—ed essendo vicini,<br>ci aggrappammo alla chiatta che portava il [[archetypes/king\|Re]];<br>ma dopo molte piacevoli voci spese<br>in quella sempre mobile casa di musica, mi parve<br>che la violenza della corrente ci separasse<br>del tutto dalla flotta dorata e ci trascinasse<br>fino al Ponte, il quale, con inconsueto orrore,<br>varcammo a marea piena; di là, portati dalle onde<br>per un tiro di freccia, la nostra barca si fermò<br>giusto di fronte alla Torre; e là girò<br>e rigirò, come quando un gorgo risucchia<br>le acque in cerchio. Mi parve che entrambi gridassimo,<br>finché affondammo, e là braccio a braccio morimmo. |
+| ROPER | Non date peso, cara madama, agli sciocchi [[motifs/dreams\|sogni]].<br>Non sono che lievi illusioni del [[motifs/blood\|sangue]]. |
+| LADY MORE | Non dirmi che tutti sono tali, ché spesso i [[motifs/dreams\|sogni]]<br>sono veri indovini, o di bene o di male.<br>Non posso stare in pace finché non oda<br>come stia il mio signore. |
+| ROPER | (a parte)<br>Né io.—Vieni qua, moglie.<br>Non voglio spaventare tua madre interpretando<br>la [[concepts/nature\|natura]] d’un sogno; ma, credimi, dolce mia,<br>questa [[motifs/night\|notte]] sono stato turbato per tuo padre<br>oltre ogni pensiero. |
+| ROPER’S WIFE | [a parte, a Roper] Davvero, e così anch’io.<br>Mi pareva di vederlo qui nella chiesa di Chelsea,<br>ritto sul pontile della croce, ora smantellato;<br>e mentre s’inginocchiava e pregava davanti all’immagine<br>essa cadde con lui nel coro superiore,<br>dove il mio povero padre giaceva tutto macchiato di [[motifs/blood\|sangue]]. |
+| ROPER | [a parte, alla Moglie]<br>I nostri [[motifs/dreams\|sogni]] convergono tutti in una conclusione,<br>fatale, [[concepts/fear\|temo]]. |
+| LADY MORE | Che cosa dite là? Vi prego, fatemelo sapere. |
+| ROPER’S WIFE | Nulla, buona madre. |
+| LADY MORE | Questa è sempre la vostra usanza: io non devo saper nulla.<br>Chiamate messer Catesby; vada subito a [[settings/court\|corte]]<br>a vedere come stia il mio signore. Non avrò riposo<br>finché il mio cuore non si posi ansante sul suo petto. |
+| *(didascalia)* | Entra [[characters/sir-thomas-more\|Sir Thomas More]], allegramente, coi servitori al seguito |
+| MORE’S OTHER DAUGHTER | Vedete dove viene mio padre, gioioso e allegro. |
+| MORE | Come i marinai, passata una [[motifs/storm\|tempesta]] burrascosa,<br>[[motifs/dance\|danzano]] sulla riva amena, così io—Oh, potrei parlare<br>ora come un poeta! Ora, davanti a Dio, sono oltremodo leggero.<br>Moglie, dammi un tenero benvenuto.<br>[La bacia]<br>Solevi biasimare<br>i miei baci quando la mia barba era di stoppie;<br>ma sono stato di recente accomodato: ho avuto<br>una liscia rasatura di [[settings/court\|corte]], in buona [[concepts/faith\|fede]], l’ho avuta.<br>Le figlie<br>s’inginocchiano<br>[Alle Figlie] Dio vi benedica.—Figlio Roper, dammi la tua<br>mano. |
+| ROPER | Il vostro [[concepts/honour\|onore]] è il benvenuto a [[motifs/home\|casa]]. |
+| MORE | [[concepts/honour\|Onore]]? Ah, ah!<br>E tu come stai, moglie? |
+| ROPER | [a parte] Si comporta stranissimamente. |
+| LADY MORE | Vuole entrare vostra signoria? |
+| MORE | Signoria? No, moglie, quella se n’è andata.<br>Fragile era il terreno su cui c’appoggiavamo. |
+| LADY MORE | Signore, che il vostro [[concepts/honour\|onore]] non voglia mai lasciare questi scherzi!<br>In [[concepts/faith\|fede]] mia, vi si addicono male. |
+| MORE | O buona moglie,<br>l’[[concepts/honour\|onore]] e gli scherzi sono fuggiti insieme.<br>È morto il più allegro consigliere d’Inghilterra. |
+| LADY MORE | Chi è costui, mio signore? |
+| MORE | Ancora «signore»? Il Lord Cancelliere, moglie. |
+| LADY MORE | Ma quello siete voi. |
+| MORE | Certo, ma ho mutato vita.<br>Non sono più magro di prima?<br>Il grasso se n’è andato. Il mio titolo è solo «More».<br>Contento d’un solo appellativo, vivrò in pace.<br>Quelli che hanno molti nomi non sono sempre i migliori.<br>Ho rassegnato la mia carica. Non mi giudichi saggio? |
+| LADY MORE | O Dio! |
+| MORE | Su, non generate figlie femmine negli occhi.<br>Il [[archetypes/king\|Re]] vuole così. |
+| LADY MORE | Qual è la colpa? |
+| MORE | Basta, lasciamo andare; ne parleremo fra poco.<br>Il [[archetypes/king\|Re]] sembra un medico al mio destino.<br>Il suo principesco animo vorrebbe ricondurmi al grado. |
+| ROPER | Siate dunque suo paziente, mio onoratissimo padre. |
+| MORE | O figlio Roper,<br>Ubi turpis est medicina, sanari piget.<br><br>No, moglie, sii allegra, e siate allegri tutti.<br>Sorridevate al mio salire; non piangete alla mia caduta.<br>Entriamo, e qui godiamo come amici privati,<br>poiché i giorni del piacere hanno fini di pentimento.<br>La luce della [[concepts/greatness\|grandezza]] è portata in trionfo;<br>spesso tramonta a mezzogiorno, con pubblico scherno. Escono |
+| *(didascalia)* | Entrano il vescovo di Rochester, Surrey, Shrewsbury, il Luogotenente della Torre e guardie con armi |
+| ROCHESTER | Delle vostre benevole persuasioni, onorevoli signori,<br>non posso che ringraziarvi, ma in questo petto<br>vive un’[[motifs/soul\|anima]] che mira a cose più alte<br>che compiacere temporaneamente i re terreni.<br>Dio benedica sua altezza, con tutto il mio cuore.<br>C’incontreremo un giorno, benché ora ci separiamo. |
+| SURREY | Non dubitiamo che la vostra saggezza sappia discernere<br>ciò che meglio le si conviene; pure per [[motifs/love\|amore]] e zelo<br>vorremmo supplicare che fosse altrimenti. |
+| SHREWSBURY | [a Rochester]<br>Non [[concepts/doubt\|dubito]] che la vostra paternità da sé<br>considererà meglio il caso presente,<br>e crescerà in favore grande come prima. |
+| ROCHESTER | Quanto a ciò, come piaccia a Dio, nella mia clausura<br>dalle cause mondane vedrò meglio<br>dentro me stesso che in superba libertà.<br>La Torre e io conferiremo in privato<br>di cose in cui, in [[concepts/freedom\|libertà]], potrei errare.<br>Ma io v’importuno, vostre signorie,<br>e vi trattengo più a lungo di quanto convenga al mio dovere.<br>Messer Luogotenente, ora sono in vostra custodia;<br>e, benché voi teniate il mio [[concepts/body\|corpo]], pure il mio [[motifs/love\|amore]]<br>serve il mio [[archetypes/king\|re]] e voi finché Fisher vive. |
+| SURREY | Addio, mio signore di Rochester. Pregheremo<br>per il vostro rilascio, e ci adopreremo come potremo. |
+| SHREWSBURY | [a Rochester]<br>Di ciò siate certo. Così vi lasciamo,<br>e ai vostri felici pensieri privati vi consegniamo. |
+| *(didascalia)* | Escono i Lord |
+| ROCHESTER | Ora, messer Luogotenente, avanti; in nome di Dio, andate;<br>e con animo altrettanto lieto vengo con voi<br>quanto mai scolaro fuggiasco disse addio alla scuola. |
+| *(didascalia)* | Escono |
+| ROCHESTER | Sc. 13 |
+| *(didascalia)* | Entrano [[characters/sir-thomas-more\|Sir Thomas More]], la sua Dama, le Figlie, una delle quali moglie di Roper, messer Roper, Gentiluomini e |
+| *(didascalia)* | Servi, fra essi Catesby e Gough, come nella sua casa |
+| ROCHESTER | a Chelsea. Sgabelli bassi |
+| MORE | Buon giorno, buon figlio Roper. [A Lady More] Sedete, buona<br>madama,<br>su un umile seggio; il [[motifs/time\|tempo]] così esige.<br>Posate il vostro buon cuore sulla terra, tetto delle tombe.<br>Vedete che il pavimento della [[concepts/greatness\|grandezza]] è ineguale,<br>lo sgabello e l’alto trono ugualmente vicini al cielo.<br>Ora, figlie, voi che come rami vi spandete<br>e date la miglior [[archetypes/shadow\|ombra]] a una casa privata:<br>consolatevi, ragazze mie. Le vostre speranze stanno bene.<br>La virtù genera nobiltà; essa fa il miglior erede. |
+| BOTH DAUGHTERS | Buon giorno al vostro [[concepts/honour\|onore]]. |
+| MORE | Anzi, buona [[motifs/night\|notte]] piuttosto.<br>Il vostro [[concepts/honour\|onore]] è caduto di cresta col vostro felice padre. |
+| ROPER | Oh, quale compostezza, quale ordinata osservanza<br>vive in una piccola stanza! Qui la cura pubblica<br>non imbavaglia gli occhi del sonno. Qui il tumulto feroce<br>non s’azzuffa superbo in una veste di fiducia<br>mentre, come un pedone agli scacchi, si tiene in fila<br>con re e uomini potenti. Eppure invero<br>quegli uomini che stanno in punta di piedi sorridono a vedere<br>ch’egli impegna le sue fortune. |
+| MORE | Vero, figlio, qui non è così,<br>né qui la lingua sfrontata s’avvita<br>dentro l’orecchio, che come una morsa assorbe<br>lo strumento di ferro. |
+| LADY MORE | Qui siamo in pace. |
+| MORE | Allora pace, buona moglie. |
+| LADY MORE | Per esserci tenuti troppo nella rotta—strano punto<br>nella nuova navigazione del [[motifs/time\|tempo]]—abbiamo veleggiato<br>oltre il nostro corso. |
+| MORE | Basta. |
+| LADY MORE | Siamo esiliati dalla [[settings/court\|corte]]. |
+| MORE | Ancora batti su quel tasto.<br>È peccato meritare quel bando;<br>ma chi non conobbe mai [[settings/court\|corte]] corteggia dolce contentezza. |
+| LADY MORE | Oh, ma caro marito— |
+| MORE | Non t’ascolterò, moglie.<br>Il tortuoso labirinto del tuo strano discorso<br>non avrà mai fine. Siedi quieta, e, mia buona moglie,<br>prega la tua lingua di star ferma—o, credimi,<br>non capirai una parola di ciò che diremo.<br>Parleremo in latino.<br>[A Roper] Humida vallis raros patitur fulminis ictus.<br>Più riposo gode il suddito di umile nascita<br>di chi porta il regno nella testa. |
+| ROPER | I grandi uomini sono sempre musicisti, altrimenti il mondo mente:<br><br>imparano le note basse dopo quelle che salgono.<br><br>Buon signore, restate voi stesso, e solo ricordate<br>come in questa generale [[settings/court\|corte]] di piacere effimero<br>il mondo, la creazione, sia l’ampio cibo<br>che si digerisce nel ventre del [[motifs/time\|tempo]].<br>Se l’uomo stesso è soggetto a tal rovina,<br>come potrà la sua veste, o i lacci sciolti<br>che legano il rispetto al suo temuto ufficio,<br>evitare la distruzione? Onoratissimo suocero,<br>il [[motifs/blood\|sangue]] che avete lasciato a questi diversi cuori<br>per nutrire la vostra posterità sta saldo;<br>e come con gioia ci guidaste prima a salire,<br>così con uguale cuore chiuderemo gli occhi all’avanzamento.<br>[Testo originale (Munday)]<br>[Aggiunta I (Chettle)] |
+| MORE | Ora parlerò come More in [[concepts/melancholy\|malinconia]];<br>ché se la potenza del dolore potesse coi suoi dardi più acuti<br>trafiggere il mio saldo petto, qui v’è causa sufficiente<br>per prender congedo dalle innocue leggi dell’allegria.<br>Povera umiliata signora, tu che di recente eri<br><br>posta fra le più nobili donne del paese,<br><br>invitata alle loro angeliche compagnie,<br><br>parendo stella lucente nella sfera cortigiana:<br><br>perché dovresti come vedova sedere così in basso,<br><br>e tutte le tue belle consorti allontanarsi dalle nubi<br><br>che stillano sulla tua [[concepts/beauty\|bellezza]] e sul tuo pregio?<br><br>Te ne dirò la vera causa. La [[settings/court\|corte]], come il cielo,<br><br>non esamina l’ira del principe,<br><br>ed essendo più fragilmente composta di terra dorata,<br><br>splende su coloro sui quali il [[archetypes/king\|re]] splende,<br><br>sorride s’egli sorride, declina s’egli declina;<br><br>pure, vedendo che entrambi son mortali, [[settings/court\|corte]] e [[archetypes/king\|re]],<br><br>non versare una lacrima per cosa terrena alcuna.<br><br>Ché, Dio mi perdoni, nella mia ora più triste<br>tu non hai maggior occasione di lamento,<br>né questi né quelli, per il mio [[concepts/exile\|esilio]] dalla [[settings/court\|corte]]—<br>no, né per la tortura di questo [[concepts/body\|corpo]], se fosse imposta,<br>giacché comunemente le disgrazie dei grandi<br>sono i presagi d’una [[motifs/death\|morte]] affrettata—<br>di quanta ne avresti a vedermi, dopo tante fatiche,<br>onorato d’un riposo senza fine. Forse il [[archetypes/king\|Re]],<br>vedendo che la [[settings/court\|corte]] è piena di [[concepts/vanity\|vanità]],<br>ha pietà, perché le nostre anime non siano sviate,<br>e ci manda a una vita contemplativa.<br>Oh, felice bando dalla mondana [[concepts/pride\|superbia]],<br>quando le anime dalla vita privata sono santificate! |
+| WIFE | Oh, ma io [[concepts/fear\|temo]] qualche trama contro la vostra vita. |
+| MORE | Ebbene, sta così: il [[archetypes/king\|Re]], per la sua alta grazia,<br>vedendo il mio fedele servizio al suo Stato,<br>intende mandarmi al [[archetypes/king\|Re]] del Cielo<br>come ricco presente; dove la mia [[motifs/soul\|anima]] si mostrerà<br>vera ricordatrice di sua maestà.<br>Su, ti prego, non piangere. La peggior sorte è la [[motifs/death\|morte]],<br>e questa reca gioia infinita in cambio d’un fiato incostante. |
+| WIFE | Ah, ma i vostri figli. |
+| MORE | Basta, lasciali soli.<br>Poniamo che siano spogliati di questo povero panno dipinto,<br>di questo esterno della terra, lasciati senza casa, nudi;<br>hanno menti istruite a raccoglierne di più.<br>Non v’è uomo d’ingegno che possa esser povero.<br>E perciò non piangete, piccole mie,<br>anche se perdete tutta la terra. Tenete diritte le anime<br>e troverete eredità in cielo.<br>Ma quanto ai miei servi: là sta la mia cura maggiore.<br>[A Catesby] Vieni qua, fedele siniscalco. Non t’affliggere<br>se nella tua persona congedo te<br>e tutti gli altri tuoi compagni d’ufficio;<br>ché il mio gran padrone ha congedato me.<br>Se tu, servendomi, hai patito perdita,<br><br>allora giovati lasciandomi.<br><br>[[concepts/hope\|Spero]] che non sia così; ché tempi come questi<br><br>recano guadagno agli ufficiali, chiunque perda.<br><br>I grandi signori hanno solo il nome; ma nella caduta<br><br>il siniscalco di Lord Spendi-Tutto è messer Raccogli-Tutto.<br><br>Ma di te non sospetto. Ammettiamo che tu l’abbia fatto.<br><br>È bene che i servi risparmino quando i padroni sprecano.<br><br>Ma voi, poveri gentiluomini, che non aveste modo<br>d’arricchirvi se non con l’odiata corruzione,<br>ch’io aborrivo, e mai trovai che voi amaste:<br>pensate che, quando cade una quercia, il sottobosco s’abbassa,<br>e pure può vivere, benché ammaccato. Vi prego, sforzatevi<br>di scansare la mia rovina; ché la scure è posta<br>proprio alla mia radice, per atterrarmi al suolo.<br>Il meglio ch’io possa fare per provvedere a tutti voi<br>col mio scarso avere, attendetelo; ché il cielo può dire<br>che More ama tutti i suoi seguaci più che [[motifs/well\|bene]].<br>[Aggiunta I (Chettle)]<br>[Testo originale (Munday)] |
+| *(didascalia)* | Entra un Servo |
+| SERVANT | Mio signore, sono ora smontati al cancello<br>i conti di Surrey e di Shrewsbury,<br>e v’aspettano nella [[settings/court\|corte]] interna. |
+| MORE | Pregate le loro signorie d’entrare nella sala. |
+| LADY MORE | O Dio, che notizie recano? |
+| MORE | Come, che c’è, moglie?<br>Non son venuti che a visitare il loro vecchio amico. |
+| LADY MORE | O Dio, [[concepts/fear\|temo]], [[concepts/fear\|temo]]. |
+| MORE | Che dovresti [[concepts/fear\|temere]], sciocca donna?<br>Iustum, si fractus illabatur orbis, impavidum ferient ruinae.<br><br>Qui lasciatemi vivere estraniato dagli sguardi dei grandi.<br>Sono come mosche d’oro su ami di piombo. |
+| *(didascalia)* | Entrano i conti [di Surrey e di Shrewsbury], Downes, con la sua mazza, e Attendenti |
+| SHREWSBURY | Buon giorno, buon Sir Thomas. |
+| SURREY | [a Lady More]<br>Buon giorno, buona madama.<br>Cortesi saluti |
+| MORE | Benvenuti, miei buoni signori.<br>Che hanno le vostre signorie da parer così [[concepts/melancholy\|malinconiche]]?<br>Oh, lo so: vivete a [[settings/court\|corte]], e la dieta di [[settings/court\|corte]]<br>è amica soltanto della medicina. |
+| SURREY | O Sir Thomas,<br>le nostre parole ora sono del [[archetypes/king\|Re]], e i nostri tristi sguardi<br>l’interesse del vostro [[motifs/love\|amore]]. Siamo mandati a voi<br>dal nostro mite sovrano a domandarvi ancora una volta<br>se sottoscriverete quegli articoli<br>ch’egli vi mandò l’altro giorno. Siate [[motifs/well\|ben]] consigliato,<br>ché, sul mio [[concepts/honour\|onore]], signore, il [[motifs/grave\|grave]] dottor Fisher,<br>vescovo di Rochester, nel [[concepts/self\|medesimo]] istante<br>arrestato con voi, è mandato alla Torre<br>per simile ostinazione. Sua maestà<br>v’ha soltanto mandato prigioniero nella vostra casa,<br>ma, se ora rifiutate di sottoscrivere,<br>seguirà una via più rigorosa. |
+| LADY MORE | (inginocchiandosi e piangendo)<br>O caro marito— |
+| BOTH DAUGHTERS | (inginocchiandosi e piangendo) Caro padre— |
+| MORE | Vedete, miei signori,<br>questa compagna e questi sudditi della mia carne<br>si mostrano ribelli alla mia [[concepts/conscience\|coscienza]]. Ma, miei buoni signori,<br>se rifiuto, devo andare alla Torre? |
+| SHREWSBURY | Dovete, mio signore. [Indicando Downes] Ecco un ufficiale<br>pronto ad arrestarvi per alto tradimento. |
+| LADY MORE | e le FIGLIE<br>O Dio, o Dio! |
+| ROPER | Siate paziente, buona madama. |
+| MORE | Ah, Downes, sei tu? Una volta ti salvai la vita,<br>quando altrimenti da crudele e tumultuoso assalto<br>saresti stato fatto a pezzi. Sei riservato<br>a essere il mio messo per quella [[settings/court\|corte]] spirituale.<br>Dammi la mano, buon compagno. Spiana il volto.<br>La bevanda che tu bevi è speziata di mazza,<br>e io non la potei mai sopportare. Non si digerisce,<br>peserà troppo, uomo, sul mio debole petto. |
+| SHREWSBURY | Siate breve, mio signore, ché siamo limitati<br>a un’ora. |
+| MORE | A un’ora? Sta [[motifs/well\|bene]].<br>La campana, tuono della terra, presto suonerà il mio rintocco. |
+| LADY MORE | (inginocchiandosi)<br>Caro amato marito, se non avete riguardo per me,<br>pensate almeno alle vostre figlie. |
+| MORE | (riflettendo fra sé) Moglie, alzati.<br>Ho ripensato;<br>e ora appagherò il buon piacere del [[archetypes/king\|Re]]. |
+| BOTH DAUGHTERS | O felice mutamento! |
+| SHREWSBURY | Venite dunque, sottoscrivete, mio signore. |
+| SURREY | Son ben lieto di questa vostra bella [[concepts/conversion\|conversione]]. |
+| MORE | Oh, perdonatemi:<br>sottoscriverò d’andare alla Torre<br>con ogni sottomessa prontezza, e a ciò aggiungerò<br>le mie ossa per rafforzare le fondamenta<br>del palazzo di [[characters/julius-caesar\|Giulio Cesare]]. Ora, mio signore,<br>appagherò il [[archetypes/king\|Re]] anche col mio [[motifs/blood\|sangue]].<br>Né abuserò della vostra pazienza. [A Downes] Amico, fa’<br>il tuo ufficio. |
+| DOWNES | [[characters/sir-thomas-more\|Sir Thomas More]], Lord Cancelliere d’Inghilterra, vi arresto in nome del [[archetypes/king\|Re]] per alto tradimento. |
+| MORE | Mercé, amico.<br>Verso una gran [[motifs/prison\|prigione]], a saldare la contesa<br>iniziata fra la [[concepts/conscience\|coscienza]] e la mia più fragile vita, 185<br>More ora deve marciare. Chelsea, addio, addio.<br>Strano commiato: tu non vedrai mai più il vero More,<br>ché io non vedrò mai più te.—Servi, addio.—<br>Moglie, non guastare il tuo volto sereno. Sii saggia.<br>Il marito della vedova di More dovrà farti risalire.—<br>Figlie, ( ) che c’è qui, che c’è qui?<br>Il mio occhio quasi si separava da una lacrima.—<br>Caro figlio, prendi la mia virtù; quella non l’ho mai data.<br>[[motifs/grave\|Grave]] More così lieve cammina verso una rapida [[motifs/grave\|tomba]]. |
+| ROPER | Curae leves loquuntur, ingentes stupent. |
+| MORE | Voi di là dentro. Accompagnate il mio cammino con la [[motifs/prayer\|preghiera]].<br>Per [[motifs/water\|acqua]] io vado in [[motifs/prison\|prigione]], in cielo per l’aria. |
+| *(didascalia)* | Escono [More, Downes e gli Attendenti da una porta, gli altri da un’altra] |
+| MORE | Sc. 14 |
+| *(didascalia)* | Entrano le Guardie della Torre, con alabarde |
+| FIRST WARDER | Olà, fate cordone qui! |
+| SECOND WARDER | Messer Luogotenente dà stretto comando<br>che la gente sia allontanata dal ponte. |
+| THIRD WARDER | Da dove viene mandato, chi lo sa? |
+| FIRST WARDER | Da Durham House, odo dire. |
+| SECOND WARDER | La guardia aspettava là già un’ora fa. |
+| THIRD WARDER | Se tarda molto, non riuscirà ad accostare al molo,<br>tale è la calca di barche sul Tamigi. |
+| FIRST WARDER | [[motifs/well\|Bene]], sia detto senza offesa d’alcuno,<br>un gentiluomo più saggio o più virtuoso<br>non fu mai allevato in Inghilterra. |
+| SECOND WARDER | Penso che i poveri lo seppelliranno in [[motifs/tears\|lacrime]].<br>Da che son nato non udii mai d’un uomo<br>così universalmente compianto da tutti. |
+| *(didascalia)* | Entra una povera Donna [con altri, in una folla] |
+| THIRD WARDER | Che vuole questa donna?—Dove ti spingi? |
+| FIRST WARDER | Questa donna sarà fra poco calpestata a [[motifs/death\|morte]]. |
+| SECOND WARDER | [alla Donna] Che fai qui? |
+| WOMAN | Parlare con quel buon uomo di [[characters/sir-thomas-more\|Sir Thomas More]]. |
+| FIRST WARDER | Parlare con lui? Non è più Lord Cancelliere. |
+| WOMAN | Tanto peggio, signore, piacesse a Dio. |
+| FIRST WARDER | Perciò, se hai una supplica da consegnare,<br>puoi tenertela ormai, per quanto ne so. |
+| WOMAN | Sono una povera donna, e ho avuto, Dio lo sa,<br>una causa da due anni in Cancelleria,<br>ed egli ha tutte le prove ch’io possiedo;<br>e se le perdessi sarei del tutto rovinata. |
+| FIRST WARDER | In [[concepts/faith\|fede]], e [[concepts/fear\|temo]] che difficilmente le riavrai ora.<br>Mi dispiace per te con tutto il cuore. |
+| *(didascalia)* | Entrano i Lord [di Shrewsbury e di Surrey], con [[characters/sir-thomas-more\|Sir Thomas More]], e attendenti; ed entrano il Luogotenente e il Gentiluomo Portiere |
+| SECOND WARDER | Donna, tirati indietro. Devi sgombrare questo luogo.<br>I lord devono passare di qua per entrare nella Torre. |
+| MORE | Ringrazio le vostre signorie della pena presa fin qui<br>per accompagnarmi alla mia casa forte. |
+| WOMAN | Ora, buon [[characters/sir-thomas-more\|Sir Thomas More]], per amore di [[characters/christ\|Cristo]],<br>rendetemi indietro le mie scritture<br>che riguardano il mio diritto. |
+| MORE | Come, mia vecchia cliente, sei giunta anche qui?<br>Povera sciocca meschina, devo confessare invero<br>ch’io avevo scritture che ti toccano da presso,<br>ma il [[archetypes/king\|Re]]<br>ha preso la faccenda nella propria mano;<br>egli ha tutto ciò ch’io avevo. Dunque, donna, ricorri a lui.<br>Io non posso aiutarti. Devi aver pazienza con me. |
+| WOMAN | Ah, gentil cuore, la mia [[motifs/soul\|anima]] è triste per voi.<br>Addio, il miglior amico che i poveri mai ebbero. |
+| *(didascalia)* | Esce |
+| GENTLEMAN PORTER | Prima che entriate per la porta della Torre,<br>la vostra veste superiore, signore, spetta a me. |
+| MORE | Signore, l’avrete. Eccola.<br>Gli dà il berretto |
+| GENTLEMAN PORTER | La più alta che avete addosso, signore. Voi m’equivocate. |
+| MORE | Signore, ora vi comprendo assai [[motifs/well\|bene]].<br>Ma poiché nominate ciò che ho addosso,<br>certo altrimenti il mio berretto sarebbe stato il più alto. |
+| SHREWSBURY | Addio, gentile signore. Dio ci conceda lieto incontro. |
+| MORE | Amen, mio signore. |
+| SURREY | Addio, caro amico. [[concepts/hope\|Spero]] nel vostro salvo ritorno. |
+| MORE | Mio signore, e mio caro compagno nelle Muse,<br>addio. Addio, nobilissimo poeta. |
+| LIEUTENANT | Addio, onoratissimi signori. Escono i Lord |
+| MORE | Bella [[motifs/prison\|prigione]], benvenuta. Eppure mi pare<br>che per la tua bella fabbrica sia nome troppo laido.<br>Più d’un’[[motifs/soul\|anima]] colpevole, e più d’un [[archetypes/innocent\|innocente]],<br>hanno esalato il loro addio alle tue stanze vuote.<br>Spesso sono entrato in te per questa via,<br>eppure, ringrazio Dio, mai con più limpida [[concepts/conscience\|coscienza]]<br>che in quest’ora.<br>Questo è pure il mio conforto: per quanto duro<br>si riveli il mio alloggio, il grido del povero postulante,<br>dell’[[archetypes/orphan\|orfano]] senza padre o della vedova afflitta<br>non turberà il mio quieto [[motifs/sleep\|sonno]].<br>Avanti dunque, in nome di Dio, alla nostra angusta dimora.<br>Dio è forte qui come è fuori. |
+| *(didascalia)* | Escono |
+| MORE | Sc. 15 |
+| *(didascalia)* | Entrano il Dispensiere, il Birraio, il Portiere e lo Stalliere dei [[motifs/horse\|cavalli]], da vie diverse |
+| BUTLER | Robin Birraio, ebbene, uomo? Come va, come va? |
+| BREWER | In [[concepts/faith\|fede]], Ned Dispensiere, malato del tuo stesso male, e con me questi altri nostri compagni qui, Ralph Stalliere dei [[motifs/horse\|cavalli]] e Giles Portiere: tristi, tristi. Dicono che il mio signore va oggi al suo processo. |
+| [[motifs/horse\|HORSE]]-KEEPER | Ci va, uomo? Ma via, ci è già. Dio gli mandi [[motifs/well\|buona]] [[characters/speed\|riuscita]]! |
+| PORTER | Amen. Come lo auguro alla mia stessa [[motifs/soul\|anima]], così [[characters/speed\|riesca]] al mio onorevole signore e padrone [[characters/sir-thomas-more\|Sir Thomas More]]! |
+| BUTLER | Non saprei dire—non ho nulla a che fare con cose sopra la mia capacità—ma, che Dio mi giudichi, se potessi dire il mio parere, penso che non viva gentiluomo più innocuo nell’universo mondo. |
+| BREWER | Né più saggio, né più allegro, né più onesto. Andiamo, questo lo metto io di mia propria scienza. |
+| PORTER | Anzi, se gli togliete il merito della sua ospitalità, siate impiccati tutti! Ci son molti lord cancellieri che a fine anno vanno in debito, e proprio per l’ospitalità! |
+| [[motifs/horse\|HORSE]]-KEEPER | [[motifs/well\|Bene]], era un signore troppo buono per noi, e perciò, [[concepts/fear\|temo]], Dio stesso se lo prenderà. Ma ch’io sia impiccato se mai avrò un altro servizio simile. |
+| BREWER | Piano, uomo, non siamo ancora licenziati. Il mio signore può tornare a [[motifs/home\|casa]], e tutto andrà [[motifs/well\|bene]]. |
+| BUTLER | Ne diffido assai. Quando una volta si comincia a processare, c’è sempre cattivo tempo per un bel pezzo dopo. Entrano Gough e Catesby, con una carta<br>Ma piano, ecco che vengono messer Gough e messer Catesby.<br>Ora ne sapremo di più. |
+| [[motifs/horse\|HORSE]]-KEEPER | Davanti a Dio, sono molto tristi. [[concepts/doubt\|Temo]] che il mio signore sia condannato. |
+| PORTER | Dio benedica la sua [[motifs/soul\|anima]], e allora un fico secco per ogni condanna mondana! |
+| GOUGH | [[motifs/well\|Ben]] detto, Giles Portiere, te ne lodo.<br>Fu parlare da servitore [[motifs/well\|ben]] affezionato<br>di colui che fu signore gentile con tutti noi. |
+| CATESBY | Il che ora non sarà più, ché, cari compagni,<br>ora siamo senza padrone. Benché egli possa vivere<br>quanto piaccia al [[archetypes/king\|Re]], pure la legge l’ha fatto<br>uomo morto per il mondo, e ha dato alla scure il suo capo,<br>ma la sua dolce [[motifs/soul\|anima]] a vivere fra i santi. |
+| GOUGH | Lasciate che vi preghiamo d’andare a radunare<br>il resto dei vostri tristi compagni—a ruolo<br>siete giusto centoquaranta—e dite loro ciò che udite<br>aver fatto un virtuoso e onorevole signore<br>anche per il più umile seguace che avesse.<br>Questo scritto la mia signora trovò nel suo studio<br>proprio questa mattina, in cui è annotato<br>il nome d’ogni servo, secondo il suo posto<br>e ufficio nella casa. A ciascuno<br>egli ha francamente assegnato venti nobili,<br>al migliore e al peggiore insieme, tutti ugualmente,<br>che messer Catesby d’ora innanzi vi pagherà. |
+| CATESBY | Prendetelo come è inteso: un gentile ricordo<br>d’un signore assai più gentile, con la cui triste caduta<br>egli scioglie la casa, e dice addio a tutti noi.<br>Così la bella quercia distesa non cade sola,<br>ma tutte le piante vicine e il sottobosco<br>sono schiacciati dal suo peso. Basta di questo.<br>Venite a ricevere il vostro dovuto, e poi andate<br>di qui da compagni, consorti d’un solo dolore. |
+| *(didascalia)* | Escono |
+| CATESBY | Sc. 16 |
+| *(didascalia)* | Entrano [[characters/sir-thomas-more\|Sir Thomas More]], il Luogotenente e un Servo al seguito, come nella sua camera nella Torre |
+| MORE | Messer Luogotenente, è giunto il mandato?<br>Se è così, in nome di Dio fatecelo sapere. |
+| LIEUTENANT | Mio signore, è giunto. |
+| MORE | È il benvenuto, signore, con tutto il mio cuore.<br>Sia fatta la sua benedetta volontà. |
+| LIEUTENANT | La vostra saggezza, signore, è stata così [[motifs/well\|ben]] provata,<br>e la vostra bella pazienza nella [[concepts/imprisonment\|prigionia]]<br>ha sempre mostrato tale costanza d’animo<br>e cristiana risoluzione in ogni travaglio,<br>che ci assicura che non siete impreparato. |
+| MORE | No, messer Luogotenente. Ringrazio il mio Dio<br>che ho pace di [[concepts/conscience\|coscienza]], benché il mondo e io<br>siamo un poco in disaccordo. Ma saremo pari ora, [[concepts/hope\|spero]],<br>fra non molto. Quando è l’esecuzione del vostro mandato? |
+| LIEUTENANT | Domattina. |
+| MORE | Bene, signore, vi ringrazio.<br>Non ho vissuto tanto male da [[concepts/fear\|temere]] di morire.<br>Messer Luogotenente,<br>ho avuto stanotte un aspro attacco di calcolo;<br>ma il [[archetypes/king\|Re]] m’ha mandato una ricetta così rara,<br>lo ringrazio, che non avrò molto bisogno di [[concepts/fear\|temerlo]]. |
+| LIEUTENANT | In vita e in [[motifs/death\|morte]], sempre l’allegro [[characters/sir-thomas-more\|Sir Thomas More]].<br>[Al Servo] Ehi, tu, porgimi l’orinale.<br>Glielo dà<br>Ah, lasciate vedere. C’è sabbia nell’[[motifs/water\|acqua]].<br>Eppure, in tutta sobria [[concepts/truth\|verità]] lo giuro,<br>quest’uomo avrebbe probabilmente vissuto abbastanza a lungo,<br>se ciò piacesse al [[archetypes/king\|Re]]. Qua, compagno, prendilo. |
+| SERVANT | Devo portarlo al medico, signore? |
+| MORE | No, risparmia la fatica. Gli scroccheremo l’onorario.<br>Domattina mi vedrai prendere una dramma<br>che guarirà il calcolo, ne rispondo io, non [[concepts/doubt\|dubitarne]].—<br>Messer Luogotenente, che notizie del mio signore di Rochester? |
+| LIEUTENANT | Ieri mattina fu messo a [[motifs/death\|morte]]. |
+| MORE | La pace dell’[[motifs/soul\|anima]] [[motifs/sleep\|dorma]] con lui!<br>Era un dotto e reverendo prelato,<br>e un uomo ricco, credetemi. |
+| LIEUTENANT | Se lui era ricco, che sarà [[characters/sir-thomas-more\|Sir Thomas More]],<br>che per tutto questo tempo è stato Lord Cancelliere? |
+| MORE | Dite così, messer Luogotenente? Che pensate<br>che un uomo il quale col mio [[motifs/time\|tempo]] avesse tenuto il mio posto<br>potrebbe aver messo insieme? |
+| LIEUTENANT | Forse, mio signore, duemila sterline l’anno. |
+| MORE | Messer Luogotenente, ve lo protesto:<br>non ebbi mai in tutta la mia vita il modo<br>di mettere insieme un povero centinaio di sterline l’anno.<br>Penso d’essere il più povero cancelliere<br>che mai fu in Inghilterra, benché vorrei,<br>per il credito della carica, che il mio stato fosse migliore. |
+| LIEUTENANT | È ben strano. |
+| MORE | Si troverà che è vero.<br>Penso, signore, che con la maggior parte del mio denaro<br>io abbia acquistato mercanzie così strane<br>quali mai udiste nominare in vita vostra. |
+| LIEUTENANT | Mercanzie, mio signore?<br>Potrei senza offesa domandarne? |
+| MORE | Stampelle, messer Luogotenente, e mantelli logori,<br>per soldati zoppi e poveri studiosi bisognosi,<br>hanno avuto i miei guadagni nella Cancelleria.<br>A pensare solo che confisca ne avrà la [[motifs/crown\|Corona]]<br>per la mia condanna! Ti prego, se sei gentiluomo,<br>procurati soltanto una copia del mio inventario.<br>Quella parte di poeta che mi fu data<br>mi rese un vero scialacquatore;<br>ché questo è il male che ci coglie tutti:<br>i poeti non furono mai parsimoniosi, né mai lo saranno. |
+| *(didascalia)* | Entrano Lady More, in lutto, le Figlie, [una delle quali moglie di Roper,] messer Roper |
+| LIEUTENANT | O nobile More!<br>Mio signore, vostra moglie, vostro genero e le vostre figlie. |
+| MORE | Figlio Roper, benvenuto. Benvenute, moglie e ragazze.<br>Perché piangete? Perché vivo agiatamente?<br>Non vedevate, quando ero Cancelliere,<br>ch’ero così nauseato di postulanti ogni ora<br>che non potevo [[motifs/sleep\|dormire]] né pranzare né cenare in quiete?<br>Qui nulla di questo. Qui posso sedere e conversare<br>col mio onesto carceriere mezza giornata di seguito,<br>ridere e stare allegro. Perché dunque dovreste piangere? |
+| ROPER | Queste [[motifs/tears\|lacrime]], mio signore, la [[concepts/hope\|speranza]] le aveva prosciugate<br>per questa vostra lunga clausura, col conforto che noi almeno,<br>benché imprigionato, potessimo avervi in vita. |
+| MORE | Vivere in [[motifs/prison\|prigione]]: che vita sarebbe quella?<br>Il [[archetypes/king\|Re]], lo ringrazio, m’ama più di così.<br>Domani sarò in libertà<br>d’andare persino dove potrò,<br>dopo che avrò sbrigato la mia faccenda. |
+| LADY MORE | Ah, marito, marito, sottomettetevi almeno.<br>Abbiate cura della vostra povera moglie e dei figli. |
+| MORE | Moglie, così ho fatto, e vi lascio tutti<br>alla protezione di Colui che ha il potere di custodirvi<br>più sicuramente ch’io non possa:<br>il padre della vedova e dell’[[archetypes/orphan\|orfano]]. |
+| ROPER | Il mondo, mio signore, v’ha sempre tenuto per saggio,<br>e non sarà disdoro alcuno alla vostra saggezza<br>cedere all’opinione dello Stato. |
+| MORE | Ho ingannato me stesso, devo riconoscerlo;<br>e come dite, figlio Roper, confessarlo<br>non sarà affatto una diminuzione. |
+| LADY MORE | (facendo per andarsene)<br>Sua altezza ne sarà avvertita, immediatamente. |
+| MORE | Anzi, ascoltami, moglie. Prima lascia ch’io ti dica come<br>pensavo d’aver bisogno d’un barbiere per la mia barba;<br>ora ricordo che sarebbe fatica sprecata:<br>il boia ora taglierà testa e tutto. |
+| ROPER’S WIFE | Padre, sua maestà, sulla vostra umile sottomissione,<br>vorrà ancora, dicono, ricevervi nella sua grazia,<br>in altrettanto credito quanto eravate prima. |
+| MORE | ( ) ragazza. In [[concepts/faith\|fede]], il mio signore il [[archetypes/king\|Re]]<br>m’ha assegnato una piccola faccenda da sbrigare.<br>Passata quella, figlia mia, allora vedresti<br>che cosa gli direi su quella materia.<br>Ma fino ad allora sarò così occupato<br>che non potrò badarvi. |
+| BOTH DAUGHTERS | Ah, caro padre mio! |
+| LADY MORE | Caro signore e marito! |
+| MORE | Consolati, buona moglie, di vivere e d’[[motifs/love\|amare]] i miei figli,<br>ché con te lascio ogni mia cura di loro.<br>Figlio Roper, per amor mio che t’ho [[motifs/well\|ben]] amato,<br>e per amore della sua virtù, abbi cara la mia [[archetypes/child\|figliola]].—<br>Ragazza, non essere superba se non dell’[[motifs/love\|amore]] di tuo marito.<br>Conserva sempre la tua virtuosa modestia.<br>Quella modestia è veste così avvenente<br>che non passa mai di moda, e sta bene<br>sulla donna più umile come sull’imperatrice.<br>Nessuna stoffa che l’oro possa comprare è ricca la metà,<br>né ornamento che così s’addica a una donna.<br>Vivete tutti, e [[motifs/love\|amatevi]] insieme, e con ciò<br>date a vostro padre ricche esequie. |
+| BOTH DAUGHTERS | La vostra benedizione, caro padre. |
+| MORE | Devo andare—Dio vi benedica—<br>a parlare con Dio, che ora mi chiama. |
+| LADY MORE | Ah, caro marito mio— |
+| MORE | Dolce moglie, buona notte, buona notte.<br>Dio mandi a tutti noi la sua luce eterna. |
+| ROPER | Penso che prima di quest’ora<br>cuori più gravi non si separarono mai nella Torre. |
+| *(didascalia)* | Escono [Lady More, le Figlie e Roper da una parte; More, |
+| ROPER | il Luogotenente e il Servo come dentro la Torre] |
+| *(didascalia)* | Entrano gli Sceriffi di [[settings/london\|Londra]] e i loro Ufficiali da una porta, le Guardie con le alabarde da un’altra |
+| FIRST SHERIFF | Ufficiali, che [[motifs/time\|ora]] del giorno è? |
+| OFFICER | Quasi le otto d’[[motifs/clock\|orologio]]. |
+| SECOND SHERIFF | Dobbiamo affrettarci allora, per non tardare troppo. |
+| FIRST WARDER | Buon giorno, messeri Sceriffi di [[settings/london\|Londra]]. Messer<br>Luogotenente<br>vuole che vi rechiate ai confini della Torre,<br>là a ricevere il vostro prigioniero. |
+| FIRST SHERIFF | (all’Ufficiale)<br>Torna indietro e di’ a sua signoria che siamo pronti. |
+| SECOND SHERIFF | Va’ a ordinare agli ufficiali di sgombrare la via,<br>ché vi sia passaggio per il prigioniero. |
+| *(didascalia)* | Entrano il Luogotenente e la sua guardia, con More |
+| MORE | Pure, sia ringraziato Dio, ecco una bella giornata in arrivo<br>per intraprendere il nostro [[motifs/journey\|viaggio]]. Messer Luogotenente,<br>sarebbe bello passeggiare sui terrazzi della Torre. |
+| LIEUTENANT | E se ciò fosse piaciuto al mio sovrano signore,<br>vorrei a Dio che voi poteste passeggiarvi ancora.<br>Piange |
+| MORE | Signore, noi camminiamo verso un luogo migliore.<br>O signore, le vostre gentili e amorose [[motifs/tears\|lacrime]]<br>sono come dolci profumi per imbalsamare il vostro amico.<br>Ringraziate la vostra buona signora; da quando fui vostro ospite<br>m’ha reso un vero viziato, in buona fede. |
+| LIEUTENANT | Oh, avevo sperato che non ci saremmo ancora separati! |
+| MORE | Ma devo lasciarvi per un poco. |
+| *(didascalia)* | Entro un’ora o due potrete aspettarmi. |
+| MORE | Ma verranno in tanti a vedermi<br>ch’io sarò così superbo da non voler parlare;<br>e certo la mia [[motifs/memory\|memoria]] è divenuta così cattiva<br>che [[concepts/fear\|temo]] di dimenticarmi la testa dietro di me. |
+| LIEUTENANT | Dio e i suoi benedetti angeli vi siano d’intorno!—<br>Qua, messeri Sceriffi, ricevete il vostro prigioniero. |
+| MORE | Buon giorno, messeri Sceriffi di [[settings/london\|Londra]], a voi due.<br>Vi ringrazio che vi degniate d’incontrarmi.<br>Vedo da ciò che non avete del tutto dimenticato<br>ch’io fui in tempi passati come voi siete ora,<br>sceriffo di [[settings/london\|Londra]]. |
+| FIRST SHERIFF | Signore, sapete allora che il nostro dovere lo richiede. |
+| MORE | Lo so [[motifs/well\|bene]], signore, altrimenti sarei stato lieto<br>che poteste risparmiarvi una fatica in questo [[motifs/time\|momento]].<br>[Al Secondo Sceriffo] Ah, messer Sceriffo,<br>voi e io siamo di vecchia conoscenza.<br>Foste un paziente uditore mio<br>quando tenevo la lezione di teologia<br>a San Lorenzo. |
+| SECOND SHERIFF | [[characters/sir-thomas-more\|Sir Thomas More]],<br>v’ho udito spesso, come molti altri,<br>con nostro gran conforto. |
+| MORE | Voglia Dio che possiate anche ora, con tutto il mio cuore.<br>E, come mi torna in mente,<br>quando studiavo legge a [[characters/lincoln\|Lincoln]]’s Inn<br>fui vostro consigliere in una causa. |
+| SECOND SHERIFF | Stavo per dirlo, buon Sir Thomas.<br>〈 〉<br>[Attraversano la scena. Si scopre una scala che porta al patibolo,<br><br>col Boia che l’attende] |
+| MORE | Oh, è questo il luogo?<br>V’assicuro che è un bel patibolo.<br>In verità, vengo per una commissione senza capo,<br>ché non ho molto da dire, ora che son qui.<br>[[motifs/well\|Bene]], saliamo, in nome di Dio.<br>In fede mia, mi pare che la vostra scala sia alquanto debole.<br>[Al Boia] Ti prego, onesto amico, prestami la tua<br>mano<br>per aiutarmi a salire. Quanto allo scendere,<br>lascia me solo, vi baderò io stesso.<br>Mentre sale i gradini, entrano i conti di Surrey<br>e di Shrewsbury<br>Miei signori di Surrey e di Shrewsbury, datemi le vostre<br>mani ancora prima che ci separiamo. Vedete, benché piaccia al<br>[[archetypes/king\|Re]] innalzarmi così in alto, pure non sono superbo; ché più<br>in alto salgo, meglio posso vedere i miei amici intorno a me.<br>Sono ora in un lungo viaggio, e questo strano [[motifs/horse\|cavallo]]<br>di legno deve portarmi laggiù. Pure m’accorgo dai vostri sguardi<br>che il mio mercato vi piace così poco che non ce n’è uno di voi<br>che osi avventurarsi con me. (Passeggiando) In verità, ecco una<br>dolcissima galleria. Me ne piace l’aria più di quella del mio [[motifs/garden\|giardino]] a<br>Chelsea. Con vostra licenza, buona gente che vi siete<br>così accalcati nella mia camera da letto, se non vorrete disturbarmi<br>farò qui un profondo [[motifs/sleep\|sonno]]. |
+| SHREWSBURY | Mio signore, sarebbe bene che pubblicaste al mondo<br>la vostra grande offesa verso sua maestà. |
+| MORE | Mio signore, lascerò questo legato al boia, e lo farò all’istante.<br>Gli dà la sua veste<br>Confesso che sua maestà è sempre stata buona con me, e la mia<br>offesa a sua altezza mi fa, da avvocato di Stato,<br>attore di scena—benché io sia vecchio e abbia cattiva voce—per<br>recitare quest’ultima scena della mia [[forms/tragedy\|tragedia]]. Gli manderò, per il mio<br>fallo, una reverenda testa: alquanto calva, ché non è<br>conveniente che alcuna testa stia coperta davanti a maestà così<br>alta. Se ciò non l’appaga, poiché penso che il mio<br>[[concepts/body\|corpo]] mi darà allora poco piacere, non ha che da seppellirlo<br>e prenderselo. |
+| SURREY | Mio signore, mio signore, conferite con la vostra [[motifs/soul\|anima]].<br>Vedete, mio signore, il [[motifs/time\|tempo]] della vita è breve. |
+| MORE | Lo vedo, mio buon signore. Sbrigai quella faccenda la scorsa [[motifs/night\|notte]]. Vengo qui solo per farmi cavare [[motifs/blood\|sangue]] dal boia. Il mio medico qui mi dice che fa bene al mal di testa. |
+| HANGMAN | Vi supplico, mio signore, perdonatemi. |
+| MORE | Perdonarti, onesto compagno? Perché? |
+| HANGMAN | Per la vostra [[motifs/death\|morte]], mio signore. |
+| MORE | Oh, la mia [[motifs/death\|morte]]! Preferirei che fosse in tuo potere perdonare me, ché tu hai contro di me l’azione più affilata. La legge, mio onesto amico, sta ora nelle tue mani. Ecco il tuo compenso.<br>[Gli dà] la sua borsa<br>E, mio buon compagno, sia la mia causa sbrigata all’istante;<br>ché è tutt’una [[motifs/pain\|pena]] morire d’una [[motifs/death\|morte]] lenta e vivere<br>nella continua macina d’un processo. Ma posso dirti<br>che il mio collo è tanto corto che se tu decapitassi<br>cento gentiluomini come me, non ne ricaveresti mai<br>credito. Perciò—badate, signore—fatelo garbatamente,<br>o, sulla mia parola, non avrai mai più a che fare con me<br>d’ora innanzi. |
+| HANGMAN | Provvederò a questo, mio signore. |
+| MORE | Un’altra cosa: bada di non tagliarmi la barba. Oh, dimenticavo: l’esecuzione su quella fu compiuta la scorsa [[motifs/night\|notte]], e il [[concepts/body\|corpo]] di essa giace sepolto nella Torre. Fermo, non è possibile fuggire da tutta questa forte guardia? Sì che lo è.<br>C’è dentro di me una cosa che leverà<br>ed eleverà la mia parte migliore sopra la vista<br>di questi stessi occhi più deboli. E, messeri Sceriffi,<br>a dispetto di tutta questa schiera d’acciaio che attende la mia [[motifs/death\|morte]],<br>io romperò da voi e volerò su in cielo.<br>Cerchiamo il modo per questo. |
+| HANGMAN | Mio signore, vi prego, togliete il farsetto. 115 |
+| MORE | Non parlarmi con tanto freddo; sono già rauco.<br>Mi spiacerebbe, buon compagno, prendere altro freddo.<br>Indicami il ceppo; non fui mai qui prima. |
+| HANGMAN | Al lato d’oriente, mio signore. |
+| MORE | Allora a oriente.<br>Andiamo a sospirare; finito ciò, a [[motifs/sleep\|dormire]] in pace.<br>Qui More abbandona ogni allegria; e con buona ragione:<br>il [[archetypes/fool\|folle]] di carne deve morire con la sua fragile vita.<br>Nessun occhio saluti il mio tronco con triste lacrima.<br>Così dovrebbe essere il nostro nascere al cielo: privo di [[concepts/fear\|paura]]. |
+| *(didascalia)* | Esce |
+| SURREY | Un dottissimo e degnissimo gentiluomo<br>suggella l’errore col suo [[motifs/blood\|sangue]]. Venite, andiamo a [[settings/court\|corte]].<br>Andiamo tristi di qui verso ignoti destini,<br>mentre egli avanza verso lo Stato degli Stati. [Escono]<br><br>[Testo originale (Munday)] |
+| APPENDIX | A<br><br>I seguenti passi del Testo originale sono segnati per la cancellazione e sostituiti dai Passi aggiuntivi. |
+| AI. | Sostituito da 4.1-76. Nel Testo originale mancano dei [[motifs/leaves\|fogli]] fra AI e A2. |
+| DOLL | Silenzio là, dico! Udite parlare il capitano [[characters/lincoln\|Lincoln]].<br>Fate [[motifs/silence\|silenzio]] finché non conosciamo per intero il suo pensiero. |
+| ALL THE REST | D’accordo, d’accordo. Parla dunque, prode capitano [[characters/lincoln\|Lincoln]]. |
+| [[characters/lincoln\|LINCOLN]] | Venite, sangui gagliardi, voi le cui anime libere sdegnano<br>di sopportare i torti imposti dagli alieni.<br>Aggiungete furore alla risolutezza. Date [[motifs/fire\|fuoco]] alle case<br>di questi audaci stranieri. Questo è San Martino,<br>e là abita Meautis, un ricco piccardo,<br>alla Porta Verde;<br>de Barde, Peter van Hollak, Adrian Martin,<br>con molti altri fuggiaschi forestieri.<br>Debbono costoro godere più privilegi di noi<br>nel nostro proprio paese? Diveniamo allora loro schiavi.<br>Poiché la giustizia non li tiene in maggior timore,<br>saremo noi stessi rudi ministri della legge. |
+| ALL THE REST | [[motifs/fire\|Fuoco]] alle case, [[motifs/fire\|fuoco]] alle case! |
+| DOLL | Sì, ché possiamo [[motifs/well\|ben]] fare falò il Primo Maggio come a San Giovanni. Muteremo il giorno nel calendario, e lo segneremo a lettere di fiamma. |
+| SHERWIN | Fermi, ciò metterebbe assai in pericolo tutta la [[motifs/city\|città]],<br>alla quale non vorrei il minimo pregiudizio. |
+| DOLL | No, e neppure io: ché così la mia stessa casa potrebbe bruciare per compagnia. Vi dico io che faremo: trascineremo fuori gli stranieri a Moorfields, e là li bastoneremo finché non puzzino di nuovo. |
+| GEORGE BETTS | Alcuni di noi entrino nelle case degli stranieri,<br>e, se ve li troviamo, li traiamo fuori. |
+| *(didascalia)* | Escono alcuni, e Sherwin |
+| DOLL | Se li traete fuori prima d’averli trovati, questo non l’ammetterò mai. |
+| WILLIAMSON | Ora, ragazzi, come lavoreremo per la nostra salvezza?<br>Odo che il Sindaco ha radunato uomini in armi,<br>e che quello sceriffo More un’ora fa ha accolto<br>alcuni del Consiglio Privato dentro Ludgate.<br>La forza ora deve farci la pace, o altrimenti cadiamo.<br>Presto si saprà che noi siamo i capi. |
+| DOLL | E che importa? Se hai paura, marito, torna a [[motifs/home\|casa]] e nasconditi il capo, ché, per il Signore, io voglio spassarmela un poco ora che ci sono. |
+| GEORGE BETTS | Teniamoci in guardia, e se vengono<br>accogliamoli come fossero nostri nemici. |
+| *(didascalia)* | Entrano Sherwin e gli altri |
+| [[characters/lincoln\|LINCOLN]] | Ebbene, ne avete trovato qualcuno? |
+| SHERWIN | Neppure uno, sono fuggiti. |
+| [[characters/lincoln\|LINCOLN]] | Allora [[motifs/fire\|incendiate]] le case, ché, essendo il Sindaco occupato<br>a spegnerle, possiamo scampare.<br>Bruciate i loro canili! Andiamo via subito,<br>affinché questo non ci riesca un tristo Primo Maggio. Escono |
+| *(didascalia)* | Entrano tre o quattro apprendisti di mestiere, fra essi Harry, Robin e Kit, con un paio di randelli |
+| HARRY | Su, deponete i randelli.—Ehi, Robin, ci hai fatto [[motifs/well\|bella]] figura a Bunhill, tu che dovevi venire con noi a far maggio stamattina! |
+| ROBIN | In [[concepts/faith\|fede]], Harry, il primo garzone della Mitra presso il Gran Condotto mi chiamò su, e andammo a far colazione in St Anne’s Lane. Ma via, chi comincia? In buona [[concepts/faith\|fede]], sono del tutto fuori esercizio. Quando fosti alla scuola di Garrett, Harry? |
+| HARRY | Non da molto tempo; mai più da quando ruppi la testa al suo ripetitore quando quello giocò il premio dei suoi scolari alla Stella in Bread Street. Vado sempre da George Philpot a Dowgate. È il miglior uomo di spada a rovescio d’Inghilterra. |
+| KIT | «Scontami un asso di quello», disse Bolton. 58 |
+| HARRY | Non ve ne sconto uno spillo, signore, ché, per questo randello, è vero. |
+| KIT | Vi bastonerò via quest’opinione. Rompeste voi la testa a un ripetitore, signore? |
+| HARRY | Sì, perbacco, la ruppi, signore. |
+| KIT | Ne son ben lieto. Romperete anche la mia, se ci riuscite. |
+| HARRY | Messere, ti prego, che cosa sei tu? |
+| KIT | Ma io sono un apprendista, come te. Vedi ora? Giocherò con te alla smussata qui a Cheapside; e quando avrai finito, se sarai in collera, combatterò con te all’affilata a Moorfields. Ho una spada che fa al caso mio in un favore. ( > venuto luglio, per servire < )<br>[Escono]<br><br>A2. Sostituito approssimativamente da 6.159-63. |
+| MORE | Persistervi è [[motifs/death\|morte]] immediata. Ma se vi arrendete, non v’è [[concepts/doubt\|dubbio]] che la pena che avete incorso nella vostra semplicità, sua altezza per [[concepts/mercy\|clemenza]] graziosissimamente perdonerà.<br><br>A3. Continua dopo la Sc. 7. Sostituito da 8.22-46 e 128-159. Nel Testo originale mancano dei [[motifs/leaves\|fogli]] fra A3 e A4. La Sc. 8 riveduta ristruttura e amplia A3 e A4. Annotato probabilmente dalla Mano B.<br><br>Questo dev’essere riscritto. |
+| MORE | Avanti, signore, siete pronto? |
+| RANDALL | Sì, mio signore. Mi resta solo qualche particolare. Avrò finito all’istante. È piacere del vostro [[concepts/honour\|onore]] ch’io mi faccia superbo, ora? |
+| MORE | Sì, ti voglio superbo, altrimenti non sarai mai<br>strettamente imparentato con la [[concepts/greatness\|grandezza]]. Osservami, signore.<br>Il dotto chierico Erasmo è giunto |
+| *(didascalia)* | dentro la nostra [[settings/court\|corte]] inglese. Oggi, odo, |
+| MORE | egli banchetta con un onorato poeta inglese,<br>il [[characters/earl-of-surrey\|conte di Surrey]], e so che questa [[motifs/night\|notte]] 10<br>il famoso chierico di Rotterdam farà visita<br>a [[characters/sir-thomas-more\|Sir Thomas More]]. Perciò, signore, recita la mia parte.<br>Là, prendi il mio posto, fornito di borsa e mazza.<br>Vedrò se il grande Erasmo sa distinguere<br>il merito dalla cerimonia esteriore. Osservami, messere.<br>Sarò il tuo specchio. Foggia il tuo contegno<br>secondo il mio portamento. Ma bada<br>di non parlare troppo, ché ciò ti tradirebbe.<br>Chi poco ciarla par saggio, e pochi ne scrutano l’ingegno,<br>mentre la lingua spiffera i racconti dell’uomo imperfetto. |
+| RANDALL | Comprendo vostra signoria, e ho appreso il vostro stratagemma così [[motifs/well\|bene]] che non posso non esser sagace.<br>Suonano dentro i musici |
+| MORE | Questa musica ci dice che il Conte è giunto<br>col dotto Erasmo. Ora, mio Lord Cancelliere,<br>recita da attore compìto la nostra [[motifs/grave\|grave]] parte. |
+| RANDALL | Vi prego, mio signore, lasciate ch’io v’ingiunga di lasciarmi. Se non lo faccio a tempo, la vostra signoria mi bandisca per sempre dal portare una catena d’oro. |
+| MORE | Ecco che vengono. Componi il volto, recita la tua parte<br>con ferma baldanza, e mi conquisterai il cuore. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Musica. Entrano Surrey, Erasmo e attendenti |
+| SURREY | Ora, grande Erasmo, v’appressate alla presenza<br>d’un dottissimo e degnissimo gentiluomo.<br>Quest’isoletta non racchiude più verace amico<br>delle arti; né la sua [[concepts/greatness\|grandezza]] aggiunge<br>finto fregio al suo degno merito.<br>È grande nello studio: questa è la grazia dell’uomo di Stato<br>che guadagna più riverenza della carica esteriore. |
+| ERASMUS | La fama, mio signore, ha varcato gli stretti mari,<br>e alle diverse parti della cristianità<br>ha recato il nome del vostro Lord Cancelliere.<br>Bramavo vedere colui che con amorosi pensieri<br>ho spesso visitato nel mio studio.<br>È quello Sir Thomas? |
+| SURREY | È lui, Erasmo.<br>Ora vedete il più onorevole degli studiosi,<br>il più religioso dei politici,<br>il più degno consigliere che attenda al nostro Stato.<br>Quello studio è la sentinella generale d’Inghilterra.<br>In esso, la salvezza del Principe e la pace<br>che splende sulla nostra repubblica sono forgiate<br>sull’aurea incudine del suo cervello.<br>Chi sana il regno, tale cura assale i grandi<br>che mente e [[concepts/body\|corpo]] insieme debbono sudare. |
+| ERASMUS | Sua signoria ha certo qualche grave faccenda,<br>ché, vedete, finora non s’avvede di noi.<br>Penso sia meglio ch’io gli renda omaggio<br>con un breve discorso latino. |
+| SURREY | Farà [[motifs/well\|buona]] figura.<br>È il miglior linguista che abbiamo in Inghilterra. |
+| ERASMUS | Cum tua virtus, amplissime doctissimeque vir,<br><br>< > as pervenit < > tu < >visui < > divin<br><br>A4. Sostituito da 8.47-127 e 8.219-86. |
+| MORE | Mi pare che questo strano travestimento da bravaccio<br>non si convenga al seguace d’un segretario. |
+| FALKNER | Mio signore, porto i capelli per voto. |
+| SHREWSBURY | Ma non per penitenza dei vostri peccati, [[concepts/fear\|temo]]. |
+| SURREY | No, non è uomo da cilicio, benché porti pelo. |
+| MORE | Falkner, quanto tempo è che non tagliate le vostre chiome? |
+| FALKNER | Tre anni, mio signore. |
+| MORE | Quanto manca prima che il vostro voto scada? |
+| FALKNER | Tanti anni quanti son passati da quando i miei capelli furono tagliati. |
+| MORE | Certo, i voti sono cose sante, se son fatti<br>con buona intenzione; e, signore, non direte<br>che foste da me costretto a rompere il vostro voto.<br>Ma fino alla scadenza del medesimo,<br>poiché non voglio che andiate per le strade<br>perché ognuno stia a [[concepts/wonder\|meravigliarsi]] di voi,<br>vi manderò prigioniero a Newgate,<br>a meno che frattanto la vostra [[concepts/conscience\|coscienza]] vi permetta<br>di dispensarvi dal lungo voto che avete fatto.—<br>Portatelo via. |
+| SURREY | Una cella quanto mai adatta a tal votario. |
+| FALKNER | [[motifs/well\|Bene]], signore, e forse potrò essere liberato su cauzione fra non molto, e portare ancora i miei capelli. Lo conducono fuori |
+| MORE | E voi, messer sceriffo di [[settings/london\|Londra]],<br>qui in nome di sua altezza vi diamo incarico<br>che si tenga guardia continua per tutta la [[motifs/city\|città]]<br>per soffocare questi ammutinamenti.<br>E se d’ora innanzi qualcuno che appartenga<br>o al mio signore di Winchester o a quello di Ely<br>entri nella vostra [[motifs/city\|città]] con un’arma,<br>o più di due dell’una o dell’altra fazione<br>siano visti camminare insieme per le strade,<br>o incontrarsi in taverna o in osteria,<br>siano subito mandati in [[motifs/prison\|prigione]]. |
+| SURREY | E fate proclamare per la [[motifs/city\|città]]<br>che nessun uomo di qualsivoglia sorta che appartenga<br>o al mio signore di Winchester o a quello di Ely<br>vada in giro senza la livrea del suo signore,<br>sia nel mantello sia in altra veste,<br>affinché si possa prender nota dei trasgressori. |
+| *(didascalia)* | Entra messer Morris, ed escono lo Sceriffo e tutti tranne |
+| *(didascalia)* | More |
+| MORRIS | Dio salvi il vostro [[concepts/honour\|onore]], mio Lord Cancelliere! |
+| MORE | Benvenuto, messer Morris! Che notizie, signore? |
+| MORRIS | Vengo umilissimamente a supplicare il vostro [[concepts/honour\|onore]]<br>in favore d’un mio povero uomo. |
+| MORE | Come, il votario che non vuol tagliarsi i capelli<br>fino alla scadenza del suo voto? |
+| MORRIS | Mio signore, dolente della sua rozza condotta,<br>s’è tagliato i capelli, e si conforma<br>a onesta decenza nel vestire. |
+| MORE | Dov’è costui? Son lieto d’udirlo.<br>È introdotto Falkner |
+| MORRIS | Qui, mio buon signore. |
+| MORE | Voi mi burlate, certo. Questi non è quell’uomo. |
+| FALKNER | Sì davvero, mio signore, sono io. |
+| MORE | Non lo sei, di sicuro.<br>L’altro era un furfante brutto e sudicio;<br>tu un uomo di bei lineamenti e di [[motifs/well\|buon]] aspetto.<br>Ecco, vedete che mostri fate di voi stessi<br>coltivando una ripugnante escrescenza<br>a sfregio della bella immagine dell’uomo<br>che Dio formò creatura sì eccellente.<br>[[motifs/well\|Bene]], sii uomo pacifico e civile.<br>Ti proscioglio. |
+| FALKNER | Umilmente ringrazio il vostro [[concepts/honour\|onore]]. |
+| MORRIS | E io stesso<br>resterò gratissimo per questo benigno favore. |
+| MORE | Piaccia ora alle vostre signorie proseguire il cammino?<br>[[concepts/fear\|Temo]] che i lord siano trattenuti dal nostro indugio. |
+| *(didascalia)* | Escono i Lord |
+| MORRIS | Vedete, signore, dove riescono le vostre bravate da bravaccio.<br>Credete che l’occhio della saggezza non veda<br>dentro le folli fantasie delle teste vane,<br>ma che con le vostre spacconate possiate cavarvela. |
+| FALKNER | Signore, confesso d’essere stato assai mal governato,<br>e guidato da oziosi umori, che ora vedo<br>essere, quali sono, mera sciocca [[concepts/vanity\|vanità]].<br>Quando fui in prigione, meglio richiamai alla mente<br>i [[motifs/grave\|gravi]] rimproveri del mio Lord Cancelliere,<br>e guardai dentro me stesso con più rispetto<br>di quanto la mia avventata foga prima mi lasciasse vedere.<br>Feci subito mandare a chiamare un barbiere,<br>e indussi allora vostra signoria a parlare per me.<br>Ma quando ricada in simile follia,<br>cacciatemi < ) |
+| *(didascalia)* | Escono |
+| FALKNER | A5. Sostituito da 13.53-122. |
+| MORE | Non chiudeteli dunque con le lacrime, ché quell’ostentazione<br>dà umido segnale del vostro scontento.<br>Se volete condividere le mie sorti, allora consolatevi:<br>cento sorrisi per un sospiro. Come, siamo uomini!<br>Cedete l’umida passione a questi occhi più deboli,<br>il che prova il loro sesso, ma non li concede mai più<br>saggi.<br>Passiamo ora in rassegna il nostro stato. Qui siede mia moglie<br>e la prole a me carissima. Là stanno<br>i miei amorosi servitori. Ora la differenza<br>fra quelli e questi. Ora m’udirete parlare<br>come More in [[concepts/melancholy\|malinconia]]. Io credo che la [[concepts/nature\|natura]]<br>abbia diversi metalli, coi quali essa foggia<br>noi mortali, ciascuno in pregio<br>superando l’altro. Dalla materia più fine<br>vengono i lineamenti più fini. Il resto della terra<br>riceve vile fortuna già prima di nascere.<br>Di qui gli schiavi hanno la loro creazione. E io penso<br>che la [[concepts/nature\|natura]] provveda contentezza alla mente vile—<br>sotto la frusta, il peso e la fatica<br>i loro corpi di bassa fattura sgobbano in pazienza—<br>come per il principe, in tutto il suo gozzo dolcemente satollo,<br>e la sua carne rancida che peccaminosamente rinnova<br>gli eccessi del [[motifs/noon\|mezzogiorno]] nelle pericolose crapule della [[motifs/night\|notte]].<br>Qual mezzo o qual miseria scaturisca dalla nostra nascita<br>la [[concepts/nature\|natura]] ce l’assegna; e noi lo dobbiamo.<br>Ma noi, soggetti al tormento dell’odio,<br>cadendo da vita felice a stato di servitù,<br>avendo visto giorni migliori, ora conosciamo la mancanza<br>di quella gloria che un tempo rialzava ogni dorso ben pasciuto.<br>Ma voi, che nella vostra età non vedeste mai di meglio,<br>non chiamate in causa la fortuna come vostra debitrice insolvente. |
+| CATESBY | Signore, abbiamo visto giorni assai migliori di questi. |
+| MORE | Io fui il patrono di quei giorni, e so<br>che quelli erano solo giorni dipinti, solo per mostra.<br>Non dolete dunque di cadere con chi ve li diede.<br>Pro eris generosis servis gloriosum mori.<br><br>Caro Gough, tu sei il mio dotto segretario—<br>voi, messer Catesby, siniscalco della mia casa;<br>gli altri, come voi, hanno avuto bel [[motifs/time\|tempo]] di crescere<br>al sole delle mie fortune. Ma debbo dirvi<br>che la corruzione se n’è fuggita di qui con la carica di ciascuno—<br>le mazzette, che aprono traffico fra l’[[motifs/soul\|anima]]<br>e i bassifondi dell’inferno, consegnano<br>il loro colpevole omaggio ai loro secondi signori.<br>Dunque, vivendo così immacolati, state [[motifs/well\|bene]].<br>La [[concepts/truth\|verità]] non è pilota per la terra dell’inferno. |
+| APPENDIX | B<br><br>Le seguenti prime stesure d’autore sono segnate per la cancellazione e immediatamente sostituite.<br><br>B1. Prima versione di 9.334-53 nell’Agg. VI. |
+| MORE | [[characters/lord-mayor\|Lord Sindaco]], e signore, e voi tutti, siate pazienti.<br>Lo Stato ha mandato, e debbo per forza andare.<br>Guidate là.—Che cerchi, compagno? |
+| PLAYER | di WIT La vostra signoria ci mandò otto angeli per mezzo del suo uomo, e io ne ho perduto uno qui fra i giunchi. |
+| MORE | Otto angeli? Chi li consegnò? Ne mandai dieci. |
+| SERVINGMAN | Io, mio signore, li consegnai. Fra poco ne avranno altri due. |
+| PLAYER | di WIT Questo è più di quanto avessimo udito prima, mio signore. |
+| MORE | Sono io uomo d’equità,<br>che equamente divide a ciascuno il suo diritto,<br>e avrò ingannatori nella mia casa?<br>Andate a tirare la giubba sulle orecchie del furfante.<br>Ce ne son troppi di simili.<br>Date loro il dovuto. Guidate via.<br><br>B2. Prima versione di 17.106-127 (Stay... states) nel Testo originale.<br>Venite, andiamo al ceppo. |
+| HANGMAN | Mio signore, vi prego, togliete il farsetto. |
+| MORE | No, mio buon amico, ho già un gran raffreddore, e mi spiacerebbe prenderne altro. Indicatemi il ceppo, ché non fui mai qui prima. |
+| HANGMAN | Al lato d’oriente, mio signore. |
+| MORE | Allora a oriente.<br>Andiamo a sospirare; finito ciò, a [[motifs/sleep\|dormire]] in pace.<br>Nessun occhio saluti il mio tronco con triste lacrima.<br>Così dovrebbe essere il nostro nascere al cielo: privo di [[concepts/fear\|paura]]. Esce |
 
 
 
@@ -1908,10 +2892,6 @@ tags:
 | MORE | No, my good friend, I have a great cold already, and I would be loath to take more. Point me meet the block, for I was ne’er here before. |
 | HANGMAN | To the east side, my lord. |
 | MORE | Then to the east.<br>We go to sigh; that o’er, to [[motifs/sleep\|sleep]] in rest.<br>No eye salute my trunk with a sad tear.<br>Our birth to heaven should be thus: void of [[concepts/fear\|fear]]. Exit |
-| BY | SHAKESPEARE, ADAPTED BY THOMAS MIDDLETON<br>Measure for Measure, first printed in the 1623 Folio, was performed at [[settings/court\|court]] on 26 December 1604. Plague had caused [[settings/london\|London]]’s theatres to be closed from May 1603 to April 1604; the play was probably written and first acted during this period. Dislocations and other features of the text as printed suggest that it may have undergone adaptation after Shakespeare’s [[motifs/death\|death]]. Someone—perhaps Thomas Middleton, to judge by the style—seems to have supplied a new, seedy opening to Act I, Scene 2; and an adapter seems also to have altered 3.1. 517-4.1.63 by transposing the Duke’s two soliloquies, by introducing a stanza from a popular song, and supplying dialogue to follow it, and by adding other short passages. We print the text in what we believe to be its adapted form; a conjectured reconstruction of Shakespeare’s original version of the adapted sections is given in the Additional Passages.<br>The story of a woman who, in seeking to save the life of a male relative, arouses the lust of a man in authority was an ancient one that reached literary form in the mid sixteenth century. Shakespeare may have known the prose version in Giambattista Cinzio Giraldi’s Gli Ecatommiti (1565, translated into French in 1583) and the same author’s play Epitia (1573, published in 1583), but his main source was George Whetstone’s unsuccessful, unperformed two-part [[forms/tragicomedy\|tragicomedy]] Promos and Cassandra, published in 1578.<br>Shakespeare’s title comes from St Matthew’s account of [[characters/christ\|Christ]]’s Sermon on the Mount: ‘with what measure ye mete, it shall be measured to you again’. The title is not expressive of the play’s morality, but it alerts the spectator to Shakespeare’s exploration of moral issues. His heroine, [[characters/isabella\|Isabella]], is not merely, as in Whetstone, a virtuous young maiden: she is about to enter a nunnery. Her brother, [[characters/claudio\|Claudio]], has not, as in Whetstone, been accused (however unjustly) of rape: his [[concepts/union\|union]] with the girl ([[characters/juliet\|Juliet]]) he has made pregnant has been ratified by a betrothal ceremony, and lacks only the church’s formal blessing. So [[characters/angelo\|Angelo]], deputizing for the absent Duke of Vienna, seems peculiarly harsh in attempting to enforce the [[motifs/city\|city]]’s laws against fornication by insisting on [[characters/claudio\|Claudio]]’s execution; and [[characters/angelo\|Angelo]]’s hypocrisy in demanding [[characters/isabella\|Isabella]]’s chastity in return for her brother’s life seems correspondingly greater. By adding the character of [[characters/mariana\|Mariana]], to whom [[characters/angelo\|Angelo]] himself had once been betrothed, and by employing the traditional motif of the ‘bed-trick’, by which [[characters/mariana\|Mariana]] substitutes for [[characters/isabella\|Isabella]] in [[characters/angelo\|Angelo]]’s bed, Shakespeare permits [[characters/isabella\|Isabella]] both to retain her virtue and to forgive [[characters/angelo\|Angelo]] without marrying him.<br>Although Measure for Measure, like The Merchant of [[settings/venice\|Venice]], is much concerned with justice and [[concepts/mercy\|mercy]], its more explicit concern with sex and [[motifs/death\|death]] along with the intense emotional reality, at least in the earlier part of the play, of its portrayal of [[characters/angelo\|Angelo]], [[characters/isabella\|Isabella]], and [[characters/claudio\|Claudio]], creates a deeper seriousness of tone which takes it out of the world of romantic [[forms/comedy\|comedy]] into that of [[forms/tragicomedy\|tragicomedy]] or, as the twentieth-century label has it, ‘[[forms/problem-play\|problem play]]’. Its low-life characters inhabit a diseased world of brothels and prisons, but there is a life-enhancing quality in their frank acknowledgement of [[concepts/sexuality\|sexuality]]; and the Duke’s manipulation of events casts a tinge of romance over the play’s later scenes.<br>Measure for Measure’s subtle and passionate exploration of issues of sexual morality, of the uses and abuses of power, gave it a special appeal in the later part of the twentieth century. Each of the ‘good’ characters fails in some respect; none of the ‘bad’ ones lacks some redeeming quality; all are, in the last analysis, ‘desperately mortal’ (4.2.148). |
-| THE PERSONS OF THE | PLAY<br>Vincentio, the DUKE of Vienna<br>[[characters/angelo\|ANGELO]], appointed his deputy<br>[[characters/escalus\|ESCALUS]], an old lord, appointed [[characters/angelo\|Angelo]]’s secondary<br><br>[[characters/claudio\|CLAUDIO]], a young gentleman<br>[[characters/juliet\|JULIET]], betrothed to [[characters/claudio\|Claudio]]<br>[[characters/isabella\|ISABELLA]], [[characters/claudio\|Claudio]]’s sister, novice to a sisterhood of nuns<br><br>[[characters/lucio\|LUCIO]], ‘a fantastic’<br>Two other such GENTLEMEN<br>FROTH, a foolish gentleman |
-| MISTRESS | OVERDONE, a bawd<br>[[characters/pompey\|POMPEY]], her clownish servant<br>A PROVOST<br>ELBOW, a simple constable<br>A JUSTICE<br>ABHORSON, an executioner<br>BARNARDINE, a dissolute condemned prisoner<br>[[characters/mariana\|MARIANA]], betrothed to [[characters/angelo\|Angelo]]<br>A BOY, attendant on [[characters/mariana\|Mariana]] |
-| FRIAR PETER | FRANCESCA, a nun<br>VARRIUS, a lord, friend to the Duke<br>Lords, officers, citizens, servants |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2888,18 +3868,6 @@ tags:
 | [[characters/lincoln\|LINCOLN]] | How now, have ye found any? |
 | SHERWIN | Not one, they’re fled. |
 | [[characters/lincoln\|LINCOLN]] | Then [[motifs/fire\|fire]] the houses, that, the Mayor being busy<br>About the quenching of them, we may scape.<br>Burn down their kennels! Let us straight away,<br>Lest that this prove to us an ill May Day. Exeunt |
-| *(didascalia)* | Sc. 4a Enter three or four prentices of trades, famongst them Harry, Robin, and Kit, with a pair of cudgels |
-| HARRY | Come, lay down the cudgels.—Ha, Robin, you met us [[motifs/well\|well]] at Bunhill, to have you with us a-Maying this morning! |
-| ROBIN | [[concepts/faith\|Faith]], Harry, the head drawer at the Mitre by the Great Conduit called me up, and we went to breakfast into St Anne’s Lane. But come, who begins? In good [[concepts/faith\|faith]], I am clean out of practice. When wast at Garrett’s school, Harry? |
-| HARRY | Not this great while; never since I brake his usher’s head when he played his scholar’s prize at the Star in Bread Street. I use all to George Philpot’s at Dowgate. He’s the best back-sword man in England. |
-| KIT | ‘Bate me an ace of that,’ quoth Bolton. 58 |
-| HARRY | I’ll not bate ye a pin on‘t, sir, for, by this cudgel, ’tis true. |
-| KIT | I will cudgel that opinion out of ye. Did you break an usher’s head, sir? |
-| HARRY | Ay, marry, did I, sir. |
-| KIT | I am very glad on’t. You shall break mine too, an ye can. |
-| HARRY | Sirrah, I prithee what art thou? |
-| KIT | Why, I am a prentice, as thou art. Seest thou now? I’ll play with thee at blunt here in Cheapside; and when thou hast done, if thou beest angry, I’ll fight with thee at sharp in Moorfields. I have a sword to serve my turn in a favour. ( > come July, to serve < )<br>[Exeunt]<br><br>A2. Replaced approximately by 6.159-63. |
-| MORE | To persist in it is present [[motifs/death\|death]]. But if you yield yourselves, no [[concepts/doubt\|doubt]] what punishment you in simplicity have incurred, his highness in [[concepts/mercy\|mercy]] will most graciously pardon.<br><br>A3. Continues after Sc. 7. Replaced by 8.22-46 and 128-159. In the Original Text there are missing [[motifs/leaves\|leaves]] between A3 and A4. Revised Sc. 8 restructures and expands upon A3 and A4. Annotated probably by Hand B.<br><br>This must be new written. |
 
 
 <span class="qlang-split" data-lang="it"></span>

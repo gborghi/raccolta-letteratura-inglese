@@ -144,6 +144,60 @@ The evolutionists uproot the world, but not the [[motifs/flowers|flowers]].
 The Titans never scaled heaven, but they laid waste the earth.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Le radici del mondo
+
+Le radici del mondo
+
+G.K. Chesterton
+
+[Nel suo giornalismo, Chesterton amava servirsi delle parabole come mezzo per insegnare verità morali. Il seguente pezzo chestertoniano, mai raccolto in volume, fu pubblicato originariamente nel The Daily News (17 agosto 1907) come una delle sue celebri rubriche del sabato in quel giornale.]
+
+Una volta, in un [[motifs/time|tempo]] remoto, un bambino viveva in un [[motifs/garden|giardino]] nel quale gli era concesso di cogliere i [[motifs/flowers|fiori]] ma proibito di strapparli con le radici. C'era però una pianta particolare, insignificante, alquanto spinosa, con un piccolo fiore a forma di stella, che egli desiderava moltissimo strappare con le radici. I suoi precettori e tutori, che abitavano con lui nella casa, erano gente dabbene e formale, e gli davano ragioni per cui non doveva strapparla. Erano, di regola, ragioni sciocche. Ma nessuna delle ragioni contro il compiere quell'atto era così sciocca quanto la ragione del bambino per volerlo compiere; poiché la sua ragione era che la [[concepts/truth|verità]] esigeva che egli strappasse la cosa con le radici per vedere come cresceva. Eppure era una casa sonnolenta e sventata, e nessuno gli diede la vera risposta al suo argomento, ossia che ciò avrebbe ucciso la pianta, e che non c'è più [[concepts/truth|verità]] in una pianta morta che in una viva. Così una buia [[motifs/night|notte]], quando le nubi sigillavano la [[motifs/moon|luna]] come un segreto troppo bello o troppo brutto per essere detto, il bambino scese le vecchie scale scricchiolanti della sua fattoria e sgusciò nel [[motifs/garden|giardino]] in camicia da notte. Si ripeteva di continuo che non c'era più ragione contro lo strappare quella pianta dal [[motifs/garden|giardino]] di quanta ce ne fosse contro il decapitare oziosamente un cardo in un viottolo. Eppure le tenebre che aveva scelto lo contraddicevano, e così pure il suo pulsare affannoso, poiché si diceva di continuo che l'indomani mattina avrebbe potuto essere crocifisso come il bestemmiatore che aveva divelto l'albero sacro.
+
+Forse sarebbe stato davvero crocifisso, se l'avesse così divelto. Non saprei dire. Ma non lo divelse; e non fu per mancanza di tentativi. Poiché quando afferrò la piccola pianta nel [[motifs/garden|giardino]] tirò e tirò, e trovò che la cosa resisteva come se fosse serrata alla terra con il ferro. E quando si sforzò una terza [[motifs/time|volta]] si levò dietro di lui un rumore spaventoso, e i nervi o (cosa che egli avrebbe negato) la [[concepts/conscience|coscienza]] lo fecero balzare indietro, barcollare e guardarsi intorno. La casa in cui viveva non era che una mole di nerezza contro un cielo quasi altrettanto nero. Eppure, dopo aver fissato a lungo, vide che perfino il profilo era divenuto irriconoscibile, poiché il grande camino della cucina era crollato storto e rovinoso. Disperato, diede un altro strattone alla pianta, e udì lontano il tetto delle stalle sfondarsi e i cavalli nitrire e impennarsi. Allora corse nella casa e si avvolse nelle coltri. L'indomani mattina trovò la cucina in rovina, il cibo del giorno distrutto, due cavalli morti, e tre sciolti e perduti. Ma il bambino conservava ancora una furiosa curiosità, e poco tempo dopo, quando una nebbia venuta dal mare ebbe nascosto [[motifs/home|casa]] e [[motifs/garden|giardino]], trascinò di nuovo le radici dell'indistruttibile pianta. Vi si aggrappò come un ragazzo alla fune di un tiro alla fune, ma essa non cedette. Solo, attraverso la grigia nebbia marina, giunsero grida soffocate e prese dal panico; gridavano che il [[settings/castle|castello]] del [[archetypes/king|re]] era caduto, che le torri a guardia della costa non c'erano più; che metà della grande [[motifs/city|città]] marina si era staccata ed era scivolata in mare. Allora il bambino ebbe paura per un poco, e non parlò più della pianta, ma quando fu giunto a una virilità forte e noncurante, e la distruzione del distretto era stata lentamente riparata, disse apertamente davanti alla gente: «Facciamola finita con l'[[forms/riddle|enigma]] di questa irrazionale erbaccia. Nel nome della [[concepts/truth|verità]], strappiamola su.» E radunò una grande compagnia di uomini forti, come un esercito per affrontare gli invasori, e tutti afferrarono la piccola pianta e tirarono [[motifs/night|notte]] e giorno. E la Grande Muraglia in Cina crollò per quaranta miglia. E le Piramidi furono spaccate in pietre frastagliate. E la Torre Eiffel a [[settings/paris|Parigi]] cadde come un birillo, uccidendo metà dei parigini; e la Statua della Libertà nel porto di [[settings/new-york|New York]] cadde in avanti all'improvviso e fracassò la flotta americana; e la [[settings/cathedral|cattedrale]] di San Paolo uccise tutti i giornalisti di Fleet Street, e il Giappone ebbe una serie da primato di terremoti e poi sprofondò in mare. Alcuni hanno dichiarato che questi ultimi due episodi non erano propriamente calamità; ma in ciò non entrerò. Il punto è che, quando ebbero tirato per circa ventiquattr'ore, gli uomini forti di quel paese avevano abbattuto circa metà del mondo civile, ma non avevano estirpato la pianta. Non stancherò il lettore con tutti i fatti di questa storia realistica, con il come usarono prima elefanti e poi macchine a vapore per divellere il fiore, e come l'unico risultato fu che il fiore rimase saldo, ma la [[motifs/moon|luna]] cominciò ad agitarsi e perfino il sole fu un po' malfermo. Alla fine il genere umano intervenne, come sempre fa alla fine, per mezzo di una rivoluzione. Ma molto prima di ciò il bambino, o l'uomo, che è l'[[archetypes/hero|eroe]] di questo racconto aveva gettato la spugna, dicendo soltanto ai suoi pastori e maestri: «Mi avete dato una serie di ragioni elaborate e oziose per cui non dovevo strappare questo arbusto. Perché non mi avete dato le due buone ragioni: primo, che non posso; secondo, che danneggerei tutto il resto anche solo a provarci?»
+
+Tutti coloro che hanno cercato, in nome della scienza, di sradicare
+la religione mi paiono molto simili al fanciullo nel [[motifs/garden|giardino]].
+Gli scettici non riescono a strappare le radici del [[historical-references/christianity|Cristianesimo]];
+ma riescono a strappare le radici della comune vite e del fico d'ogni uomo,
+del [[motifs/garden|giardino]] d'ogni uomo e dell'orto d'ogni [[motifs/garden|uomo]].
+I secolaristi non sono riusciti a demolire le cose divine;
+ma i secolaristi sono riusciti a demolire le cose secolari.
+Una religione non può essere dimostrata mostruosa alla fine; una religione è
+mostruosa fin dall'inizio. Si annuncia come straordinaria.
+Si offre come stravagante. Gli scettici, al più, non possono che
+chiederci di rigettare il nostro credo come qualcosa di folle. E noi l'abbiamo accettato
+come qualcosa di folle. Fin qui si penserebbe che ci sarebbe un
+mero vicolo cieco, un blocco tra noi e coloro che non sanno sentire come noi.
+Ma poi segue la curiosa esperienza pratica che ha ratificato
+la religione nella nostra ragione per sempre. Perché i nemici della religione non
+possono lasciarla in pace. Si affannano a fracassare la religione.
+Non possono fracassare la religione; ma fracassano tutto il resto.
+Con i vostri quesiti e dilemmi non avete fatto scempio nella [[concepts/faith|Fede]],:
+essa fu, fin dal principio, una convinzione trascendentale; non può
+essere resa più trascendentale di quanto già fosse. Ma avete
+(se questo può esservi di conforto) fatto un certo scempio nella comune
+morale e nel comune buon senso.
+
+Gli avversari della nostra religione non ci obbligano ad accettare i loro assiomi;
+i nostri assiomi restano quel che erano prima; ma essi obbligano se stessi
+a ogni dottrina di follia e di [[concepts/despair|disperazione]]. Non colpiscono noi,
+ma precipitano oltre noi nella palude e nell'abisso.
+Il signor Blatchford non può obbligarci al commento che l'uomo non è l'immagine
+del suo creatore, poiché tale affermazione è tanto dogmatica quanto la sua negazione.
+Ma può, e si obbliga, all'affermazione, umanamente ridicola
+e intollerabile, che io non debba biasimare un prepotente né lodare l'uomo
+che lo atterra. Gli evoluzionisti non possono spingerci, per via
+dell'innominata gradazione nella [[concepts/nature|Natura]], a negare la personalità di Dio,
+poiché un Dio personale potrebbe [[motifs/well|ben]] operare per gradazioni come in ogni
+altro modo; ma spingono se stessi, attraverso quelle gradazioni,
+a negare l'esistenza di un personale signor [[characters/jones|Jones]], perché egli è
+entro la portata dell'evoluzione e i suoi contorni si sfumano.
+Gli evoluzionisti sradicano il mondo, ma non i [[motifs/flowers|fiori]].
+I Titani non scalarono mai il cielo, ma devastarono la terra.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Roots_of_the_World (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/city,motif/flowers,motif/garden,motif/home,motif/moon,motif/night,motif/time,concept/conscience,concept/truth,form/riddle,setting/castle,setting/cathedral,setting/new_york,setting/paris"></span>

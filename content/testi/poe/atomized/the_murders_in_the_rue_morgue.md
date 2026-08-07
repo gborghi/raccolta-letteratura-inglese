@@ -2893,6 +2893,2946 @@ pas._’” (*)
 (*) Rousseau—Nouvelle Heloïse.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quale canto cantavano le Sirene, o quale nome assunse [[characters/achilles|Achille]] quando si nascose.
+
+“Tra le donne… sebbene ci siano domande enigmatiche, non è impossibile…”
+
+_tutta_ la congettura.
+
+
+
+Sir Thomas Browne
+
+
+
+Le caratteristiche mentali definite “analitiche” sono, in realtà…
+
+Essi stessi, ma poco suscettibili di analisi… Apprezziamo questo aspetto.
+
+Solo attraverso i loro effetti ne siamo a conoscenza; tra le altre cose, li sappiamo esistere proprio per questi effetti.
+
+Titolo:  
+Che appartengano sempre al loro possessore, quando vengono utilizzati in modo eccessivo…
+
+“Possed… una fonte di piacere intenso. Come l’uomo forte…”
+
+Si esalta nelle proprie capacità fisiche, godendo di attività del genere…
+
+Mettere i propri muscoli al lavoro: è così che l’analista si rallegra di ciò.
+
+Attività morale che “scollega” le cose l’una dall’altra… Egli trae piacere da essa.
+
+Anche le occupazioni più banali permettevano al suo talento di manifestarsi.
+
+Apprezza gli enigmi, i misteri e gli simboli geroglifici
+
+Titolo:  
+Nelle sue soluzioni, dimostra un grado di acume che…
+
+“Alla comprensione comune, i suoi risultati appaiono soprannaturali.”
+
+Sono stati generati proprio dall’anima stessa e dall’essenza del metodo stesso.
+
+[[concepts/truth|verità]], l’intero ambiente di intuizione.
+
+
+
+La capacità di risolvere i problemi viene probabilmente molto potenziata da…
+
+Studio matematico, e in particolare quella sua branca più elevata
+
+Il quale, ingiustamente e soltanto a causa della sua natura retrógada…
+
+Le operazioni, sono state definite, per così dire, in modo _per eccellenza_, analisi.
+
+“Calcolare ancora non significa necessariamente analizzare. Un giocatore di scacchi, per esempio…”
+
+Senza sforzo… l’uno segue l’altro.
+
+Il gioco degli scacchi e i suoi effetti sul carattere mentale
+
+Gravemente frainteso… Non sto certo scrivendo un trattato in questo momento, ma…
+
+Solo un preambolo a una narrazione piuttosto particolare, attraverso alcune osservazioni…
+
+Molto a caso; pertanto, ne approfitterò per affermare…
+
+Le più alte facoltà dell’intelligenza riflessiva sono…
+
+Titolo:  
+Un compito decisamente più utile e significativo, reso possibile dal gioco discreto e senza enfasi…
+
+A scacchi piuttosto che a tutti i frivoli e complessi meccanismi degli scacchi. In questo…
+
+In seguito, dove i pezzi eseguono movimenti diversi e bizzarri…
+
+Con valori variabili e diversi, l’unica cosa che risulta complessa è…
+
+Scambiato per qualcosa di profondo… un errore non insolito.
+
+L’attenzione, in questo contesto, viene messa in gioco in modo potente. Se segnala la presenza di.
+
+Un attimo di distrazione, e si commette un errore che causa danni o infortuni
+
+Sconfitta: le possibili strategie sono molteplici e complesse.
+
+Le probabilità di simili errori aumentano notevolmente; e in nove casi…
+
+Più concentrato degli altri
+
+Giocatore astuto che vince… Al contrario, nel gioco degli scacchi, dove…
+
+I movimenti sono unici e presentano poche variazioni.
+
+Probabilità di negligenza si riducono… e il semplice fatto…
+
+"#Attenzione: quando le risorse umane rimangono relativamente inutilizzate, quali sono i vantaggi?"
+
+Qualsiasi risultato venga ottenuto da una qualsiasi delle due parti lo è grazie a un’acutezza superiore.
+
+Per essere meno astratti, supponiamo un gioco di dama in cui…
+
+“I pezzi vengono ridotti a quattro re… e naturalmente, in quel punto, non c’è più nulla.”
+
+“La trascuratezza è inevitabile… È evidente che in questo caso la vittoria…”
+
+Può essere deciso soltanto in base a determinati fattori… dato che i giocatori sono tutti uguali tra loro.
+
+Movimento ricercato: il risultato di un intenso sforzo
+
+Intelligenza allo sbando
+
+Identificarsi nello spirito dell’avversario
+
+Con ciò, e non di rado si verifica che, in un solo sguardo, si possa individuare l’unico…
+
+Metodi (a volte davvero assurdamente semplici) con cui può…
+
+Induce in errore o spinge a commettere sbagli di calcolo.
+
+
+
+Whist: un’influenza duratura su ciò che viene definito…
+
+La potenza di calcolo; e gli uomini di più alto intelletto
+
+Si è notato che provino un piacere apparentemente inspiegabile nel…
+
+Lo evitava, considerandolo frivolo; al di là di ogni [[concepts/doubt|dubbio]], è certo così.
+
+Niente di simile per natura, che mettesse a dura prova le facoltà umane.
+
+Analisi: Il miglior giocatore di scacchi del Cristianesimo potrebbe essere… poco importante.
+
+Più che il miglior giocatore di scacchi… ma anche una notevole abilità nel gioco del whist.
+
+Ciò implica la capacità di ottenere successo in tutte quelle situazioni più importanti.
+
+Imprese in cui la mente lotta contro se stessa. Quando dico…
+
+Maestria, intendo quella perfezione nel gioco che include…
+
+Comprendere tutte le fonti da cui derivare un vantaggio legittimo
+
+Diverse e molteplici
+
+Spesso nascosto in angoli reconditi del pensiero, irraggiungibile…
+
+Per la comprensione comune… Osservare con attenzione significa…
+
+Ricordo distintamente; e, finora, il giocatore di scacchi che si concentra completamente…
+
+Se la cosa verrà fatta nel modo giusto, andrà molto bene a giocare a whist; anche se le regole di Hoyle.
+
+Basato semplicemente sul meccanismo di gioco… sono sufficientemente efficaci e…
+
+In generale comprensibile. Pertanto, per avere una memoria ricettiva, è necessario.
+
+Basandosi su quanto indicato nel “libro”, questi punti sono generalmente considerati la somma totale…
+
+Una combinazione di ottime prestazioni… Ma ci sono aspetti che vanno oltre i limiti previsti.
+
+Una semplice regola per dimostrare l’abilità dell’analista… Lui crea, all’interno di essa,
+
+[[motifs/silence|Silenzio]], insieme a molte osservazioni e inferenze. Forse anche così è.
+
+I suoi compagni… e la differenza nella portata delle loro azioni
+
+Titolo: Le informazioni ottenute non risiedono tanto nella loro validità…
+
+Inferenza nella qualità dell’osservazione. La necessità
+
+Titolo:  
+La conoscenza consiste nel sapere _cosa_ osservare… Il nostro protagonista si attiene rigorosamente a questo principio.
+
+Non si preoccupa affatto di sé stesso; e nemmeno, poiché l’obiettivo è il gioco, si…
+
+Rifiuta le deduzioni basate su elementi esterni al gioco. Esamina…
+
+Il volto del suo compagno, osservandolo attentamente…
+
+L’approccio di ogni suo avversario… Lui analizza il modo in cui questi scegliono le loro strategie.
+
+Titolo:  
+“Carte in ogni mano; spesso si contano i trionfi uno per uno, e gli onori altrettanto…”
+
+Onore, attraverso gli sguardi che i loro possessori si scambiano l’uno con l’altro.
+
+Osserva ogni minima variazione nel volto dei personaggi man mano che la pièce procede.
+
+Raccogliendo idee dalle differenze
+
+Un'espressione di certezza, sorpresa, trionfo o delusione.
+
+Dal modo in cui raccoglie un trucco, egli giudica…
+
+Chi lo utilizza può crearne un altro dello stesso tipo. Lui riconosce cosa…
+
+Il titolo si basa su una finta, sul modo in cui l’oggetto viene lanciato.
+
+Su tavola… Una parola casuale o involontaria; l’incidente imprevisto
+
+Il lancio di una carta, e l’ansia che ne deriva…
+
+Titolo:  
+La negligenza nella sua occultazione; il conteggio dei…
+
+Trucchi… e l’ordine in cui vengono utilizzati; imbarazzo…
+
+Esitazione, impazienza o timore… tutte queste emozioni gli offrono…
+
+Percezione apparentemente intuitiva: indizi dello stato reale delle cose
+
+Affari… Dopo che i primi due o tre round sono stati giocati, lui…
+
+“Con piena padronanza di ciò che ogni mano contiene…”
+
+Da quel momento in poi, gioca le sue carte con una precisione assoluta.
+
+Uno scopo chiaro, come se tutti gli altri partecipanti avessero rivolto le loro facce altrove…
+
+Di loro stessi.
+
+
+
+La capacità analitica non deve essere confusa con l’abbondanza
+
+Ingegnosità; poiché l’analista è necessariamente ingegnoso…
+
+L’uomo ingegnoso spesso è sorprendentemente incapace di analisi.
+
+Potere costruttivo o combinativo, attraverso il quale l’ingegnosità viene solitamente espressa
+
+Manifestato… e al quale i frenologi, credo, attribuivano grande importanza.
+
+Un organo separato assegnato in modo errato, considerandolo…
+
+Facoltà primitive, spesso riscontrate in coloro che…
+
+Intelligenza che, per altri versi, sfiorava l’idiozia… tanto da attirare l’attenzione
+
+Una osservazione comune tra gli scrittori riguardo alla morale… e all’ingegnosità
+
+E la differenza nell’abilità analitica è di gran lunga maggiore
+
+Infatti, si tratta di qualcosa che esiste tra la fantasia e l’[[concepts/imagination|immaginazione]], ma di una sorta di.
+
+Titolo:  
+Un personaggio estremamente simile… In effetti, si scoprirà che…
+
+Che gli ingegnosi siano sempre fantasiosi, e i veramente…
+
+L’immaginazione è sempre analitica, in ogni caso.
+
+
+
+Il racconto che segue potrebbe sembrare al lettore… in un certo modo particolare.
+
+La luce di un commento sulle proposizioni appena avanzate.
+
+
+
+Risiedendo a [[settings/paris|Parigi]] durante la [[motifs/spring|primavera]] e parte dell’[[motifs/summer|estate]].
+
+Nel 18—, lì conobbi un signore di nome [[characters/c.-auguste-dupin|C. Auguste Dupin]].
+
+Questo giovane gentiluomo era di eccellente… davvero di eccellente indole.
+
+Famiglia illustre, ma a causa di una serie di eventi sfortunati…
+
+Era ridotto a tale [[concepts/poverty|povertà]] che l’energia del suo carattere.
+
+Cedette sotto il suo peso, e smise di muoversi
+
+Il mondo… o il dovere di impegnarsi per recuperare le proprie fortune. Per gentile concessione…
+
+Di suoi creditori, gli rimaneva ancora in possesso una piccola somma...
+
+Il rimanente del suo patrimonio; e, sul reddito derivante da esso…
+
+Riuscì, grazie a un rigido regime di economia, ad ottenere ciò che desiderava.
+
+“Necessità della vita, senza preoccuparsi di altro…”
+
+Superfluità… I libri, infatti, erano i suoi unici lussi.
+
+A [[settings/paris|Parigi]], queste cose si possono ottenere facilmente.
+
+
+
+Il nostro primo incontro ebbe luogo in una biblioteca poco conosciuta, in rue…
+
+Montmartre, dove il caso ha voluto che entrambi cercassimo…
+
+Lo stesso volume, estremamente raro e notevole, ci ha permesso di approfondire la nostra conoscenza…
+
+Ricongiungimento. Ci siamo rivisti più e più volte… Ero profondamente…
+
+Interessato alla piccola storia di quella famiglia, che mi raccontò nei dettagli.
+
+Con tutta quella schiettezza che un francese mostra sempre quando…
+
+[[concepts/self|Se stesso]] è il suo tema principale. Anch'io fui sorpreso dall’ampia portata di.
+
+La sua lettura. E, soprattutto, sentii la mia [[motifs/soul|'anima]] ravvivarsi dentro di me.
+
+Grazie al fervore selvaggio e alla freschezza vivida della sua [[concepts/imagination|immaginazione]].
+
+Cercando a [[settings/paris|Parigi]] gli oggetti che allora desideravo, sentii che.
+
+Una società composta da persone del genere sarebbe per me un tesoro inestimabile…
+
+Questo sentimento gli l’ho confidato apertamente… Alla fine, tutto è stato sistemato.
+
+che dovessimo vivere insieme durante il mio soggiorno in questa [[motifs/city|città]]; e poiché.
+
+Le mie condizioni materiali erano, in qualche modo, meno difficili delle sue.
+
+A mio spese, mi fu permesso di partecipare affittando un posto.
+
+Titolo:  
+Arredamento in uno stile che si adattasse alla cupa e quasi fantastica atmosfera di…
+
+Il nostro carattere comune, una casa vecchia e [[concepts/grotesque|grottesca]], da tempo.
+
+Abbandonati a causa di superstizioni su cui non abbiamo mai indagato…
+
+Barcollando verso la rovina in una zona remota e desolata…
+
+Faubourg Saint-Germain.
+
+
+
+Se la routine della nostra vita in questo posto fosse stata conosciuta…
+
+Mondo… avremmo dovuto essere considerati pazzi… anche se, forse,
+
+Come pazzi, ma di una innocua [[concepts/nature|natura]]. La nostra reclusione era perfetta. Noi.
+
+Non ammetteva visite. Infatti, la località in cui trascorrevamo la nostra pensione…
+
+È stato gelosamente tenuto segreto anche dai miei ex colleghi…
+
+Avevano trascorso molti anni da quando Dupin aveva smesso di conoscere, o di essere conosciuto.
+
+A [[settings/paris|Parigi]]. Esistevamo soltanto in noi stessi, da soli.
+
+
+
+“Fu un capriccio della sua fantasia… Che altro potrei chiamarlo?”
+
+essere innamorati della [[motifs/night|notte]] per lei stessa. E in questo modo.
+
+Bizzarrie_  
+Come in tutte le altre sue opere, mi lasciai semplicemente trasportare dalla lettura…
+
+"#Mi arrendo completamente ai suoi capricci folli… La martora nera."
+
+La divinità non abiterà sempre con noi; ma possiamo…
+
+Imitare la sua presenza. All’alba del mattino, noi.
+
+“Chiusi tutti quegli scuri vecchi e disordinati della nostra vecchia casa; accendendo…”
+
+Alcune candele profumate che emanavano solo un intenso aroma…
+
+“Gli strali più spaventosi e deboli… Con il loro aiuto, allora…”
+
+Ci occupavamo delle nostre anime con i [[motifs/dreams|sogni]]: leggendo, scrivendo o conversando, fino a quando.
+
+Avvertiti dall’[[motifs/clock|orologio]] dell’avvento della vera Oscurità. Allora noi.
+
+Uscirono insieme per le strade, continuando la loro conversazione.
+
+Di giorno, o vagando lontano fino a tarda notte, alla ricerca…
+
+Tra le luci e le ombre selvagge di quella affollata [[motifs/city|città]], quel.
+
+Un'infinità di emozioni mentali che solo un'attenta osservazione può permettersi di sperimentare.
+
+
+
+In momenti del genere, non potevo fare a meno di osservare e ammirare… (sebbene…)
+
+Dalla sua ricca idealità, mi aspettavo proprio qualcosa del genere…
+
+Strana capacità analitica di Dupin… Sembrava anche che…
+
+Felice entusiasmo nell’esercitarlo… se non proprio nel mostrarlo.
+
+Non esitò ad ammettere il piacere che ne traeva… Si vantava.
+
+“Per me, con una risatina sommessa… quegli uomini, per lo più…”
+
+Il cuore che porta finestre nel petto… e che ama inseguire ciò che desidera
+
+Titolo: Tali affermazioni sono supportate da prove dirette e davvero sorprendenti.
+
+Conoscenza intima della mia stessa natura… Il suo comportamento in quei momenti era…
+
+Freddo e distaccato; i suoi occhi erano vuoti e privi di espressione…
+
+La sua voce, solitamente un ricco tenore, si trasformava in un contralto che.
+
+Sembrava un lamento petulante, ma in realtà era pieno di riflessione e coerenza
+
+**Distinzione nell’enunciazione. Osservandolo in questi stati d’animo, io…**
+
+Spesso rifletteva in modo contemplativo sulla vecchia filosofia della Dualità.
+
+[[motifs/soul|Anima]], e mi divertii con l’idea di un doppio Dupin, il.
+
+Creativo e risoluto.
+
+
+
+Non si debba pensare, da quanto ho appena detto, che io sia…
+
+Descrivere qualsiasi mistero o scrivere qualsiasi romanzo. Quello che ho.
+
+Il titolo descritto nel libro del francese era semplicemente il risultato di un’emozione intensa…
+
+O forse di un’intelligenza malata… Ma del carattere di…
+
+I suoi commenti nei periodi in questione rappresentano un ottimo esempio.
+
+Rappresentare l’idea stessa.
+
+
+
+Una [[motifs/night|notte]], stavamo passeggiando lungo una strada lunga e sporca.
+
+Nelle vicinanze del Palazzo Reale… apparentemente entrambi occupati.
+
+Con la mente assorta, nessuno di noi aveva pronunciato una parola per quindici minuti…
+
+Almeno cinque minuti… All’improvviso Dupin esclamò queste parole:
+
+
+
+“È davvero un ometto molto piccolo… e probabilmente gli andrebbe meglio se…”
+
+“Il Teatro delle Varietà”
+
+
+
+“Non può esserci alcun [[concepts/doubt|dubbio]] al riguardo,” risposi senza pensarci, e non.
+
+All’inizio osservavo attentamente… (ero così immerso nei miei pensieri).
+
+Il modo straordinario con cui l’oratore si era unito al discorso
+
+Le mie meditazioni… Un attimo dopo riuscii a riprendere il controllo di me stesso.
+
+La mia meraviglia fu profonda.
+
+
+
+“Dupin”, dissi seriamente, “questo va oltre la mia comprensione. Davvero…”
+
+Non esito ad ammettere di essere stupito, e fatico quasi a crederci…
+
+Sensi… Come era possibile che tu sapessi a cosa stavo pensando?
+
+“—?“ Qui mi fermai, per verificare senza alcun [[concepts/doubt|dubbio]] se davvero.
+
+Sapeva di chi stavo pensando.
+
+
+
+“— Di Chantilly”, disse lui, “perché ti fermi? Stavi dicendo…”
+
+A te stesso, dici che la sua piccola statura non lo rendeva adatto per le [[forms/tragedy|tragédie]].
+
+
+
+Era proprio questo l’argomento delle mie riflessioni.
+
+Chantilly era un ex calzolaio di rue Saint-Denis che…
+
+Diventato completamente pazzo per l’ambizione di recitare, aveva provato a interpretare il ruolo di Serse…
+
+La cosiddetta [[forms/tragedy|tragedia]] di Crébillon è stata oggetto di famigerati pasquini.
+
+Per i suoi sforzi.
+
+
+
+“Ditemi, per l’amor del cielo,” esclamai, “quel metodo… se esiste davvero un metodo.”
+
+Esiste qualcosa che vi ha permesso di comprendere la mia [[motifs/soul|'anima]] attraverso questo.
+
+“Una questione di importanza… Anzi, fui sorpreso ancora di più di quanto avrei potuto aspettarmi”.
+
+Disposto a esprimersi.
+
+
+
+“È stato il venditore di frutta”, rispose il mio amico, “che vi ha portato qui”.
+
+La conclusione che il riparatore di suole non fosse all'altezza…
+
+“L’altezza di Serse… e tutto ciò che vi è correlato”.
+
+
+
+“Il fruttivendolo?… Mi sorprendi davvero; non conosco alcun fruttivendolo.”
+
+
+
+L’uomo che ci ha incontrato mentre entravamo in strada… forse…
+
+“Sono passati quindici minuti.”
+
+
+
+Ora ricordavo che, in realtà, un venditore di frutta…
+
+"Una grande cesta piena di mele… quasi mi ha fatto cadere!"
+
+Incidente mentre passavamo dalla Rue C…… nella strada principale
+
+Dove ci trovavamo; ma cosa c’entrasse tutto questo con Chantilly, non riuscivo a capirlo…
+
+Impossibile da comprendere.
+
+
+
+Non c’era la minima traccia di _falsità_ in Dupin. “Lo farò”.
+
+“Spiegatelo bene,” disse, “così che tutti possano capirlo chiaramente.”
+
+Titolo:  
+Ripercorreremo innanzitutto il percorso delle tue riflessioni, a partire da…
+
+Titolo: Il momento in cui ho parlato con te fino a quello dell’incontro con…
+
+Il fruttivendolo in questione… Le catene più grandi di questo settore…
+
+Così – Chantilly, Orion, il dottor Nichols, Epicuro, la stereotomia…
+
+“Pietre di strada, il fruttivendolo”.
+
+
+
+Poche persone ci sono che, in qualche momento della loro vita…
+
+Vivendo, si divertivano ripercorrendo i passi attraverso cui…
+
+Hanno raggiunto conclusioni particolari, frutto delle loro riflessioni personali.
+
+L'occupazione è spesso piena di interesse; e chi la intraprende…
+
+La prima volta rimane sorpreso dall’apparentemente illimitato.
+
+Distanza e incongruenza tra il punto di partenza e l’obiettivo.
+
+Che stupore deve essermi procurato quando ho sentito…
+
+Il francese disse ciò che aveva appena detto, e quando io non riuscii…
+
+Aiutò ad ammettere che aveva detto la [[concepts/truth|verità]]. Continuò:
+
+
+
+“Stavamo parlando di cavalli, se ricordo bene, poco prima…”
+
+Lasciare la Rue C… Questo è stato l’ultimo argomento di cui abbiamo discusso.
+
+Entrammo in questa strada; c’era un fruttivendolo con un grande cesto pieno di frutta.
+
+Sopra la sua testa, sfrecciando velocemente accanto a noi, ti ha spinto su un mucchio…
+
+Pietre da lastrico raccolte in un luogo dove si trova il ponte di collegamento
+
+In corso di riparazione. Hai calpestato uno dei frammenti staccati.
+
+Distorsione alla caviglia, aria infastidita…
+
+Mormorò alcune parole, si girò verso il mucchio e poi…
+
+Procedette in [[motifs/silence|silenzio]]. Non ero particolarmente attento a ciò che stava accadendo.
+
+Osservazione… una sorta di abitudine per me ultimamente.
+
+Per necessità.
+
+
+
+“Tenevi lo sguardo fisso a terra, lanciando occhiate con aria capricciosa…”
+
+"Espressione negli squarci e nelle buche del selciato… (così che vidi)"
+
+Mentre tu continuavi a pensare a quelle pietre,...
+
+Vialetto chiamato Lamartine, che è stato lastricato…
+
+Esperimento con i blocchi sovrapposti e fissati tra loro. Ecco il tuo…
+
+Il suo volto si illuminò di gioia; e, notando che le tue labbra si muovevano, io…
+
+Non potevo [[concepts/doubt|dubitare]] che avessi mormorato la parola “stereotipo”, un termine.
+
+Applicato con grande enfasi a questo tipo di pavimentazione… Lo sapevo.
+
+Non si può pronunciare “stereotipo” senza che venga subito in mente…
+
+Pensare alle atomi, e quindi alle teorie di Epicuro…
+
+Da quando abbiamo discusso di questo argomento non molto tempo fa…
+
+Come vi ho già detto, in modo davvero singolare… eppure quasi senza che nessuno se ne accorgesse…
+
+Titolo:  
+Le vaghe congetture di quel nobile greco trovarono conferma in…
+
+La tardiva cosmogenesi nebulare: sentivo che non si potesse evitarla…
+
+Alzando lo sguardo verso la grande nebulosa nella costellazione di Orione… e io
+
+Certamente mi aspettavo che lo facessi… Hai cercato informazioni, e io…
+
+Ora ero certo di aver seguito correttamente i vostri passaggi… Ma poi…
+
+Titolo:  
+Quella amara tirata contro Chantilly, apparsa su…
+
+“Il ‘Museo’ di ieri…”, scriveva lo satirico, descrivendolo come qualcosa di davvero vergognoso.
+
+Titolo:  
+Allusioni al cambio di nome del calzolaio dopo aver assunto…
+
+Buskin citò una frase in latino di cui abbiamo spesso parlato.
+
+Quella frase…
+
+
+
+Le antiche lettere persero prima il loro suono.
+
+
+
+“Ti avevo detto che si riferiva a Orion…”
+
+Scritto da Urion; e, a causa di alcune asprezze legate a questo…
+
+Spiegazione: ero consapevole che non potessi essertene dimenticato.
+
+Era quindi chiaro che non avresti mancato di unire i due elementi.
+
+Idee di Orion e Chantilly… Che le abbiate combinate, l’ho visto.
+
+Il carattere di quel sorriso che è apparso sulle tue labbra…
+
+“Pensieri sull’immolazione di quel povero calzolaio… Fino ad ora, tu avevi…”
+
+Inclinando il passo… ma ora ti ho visto raddrizzarti
+
+Alta statura… Ero certo che ci avessi riflettuto sopra.
+
+Piccola figura di Chantilly… A quel punto ti ho interrotto.
+
+Meditazioni su come, in realtà, fosse molto piccolo
+
+Compagno… quel Chantilly… farebbe meglio al Théâtre des…
+
+Variétés.
+
+
+
+Non molto dopo, stavamo sfogliando un’edizione serale…
+
+“La ‘Gazette des Tribunaux’, quando i seguenti paragrafi…”
+
+Catturò la nostra attenzione.
+
+
+
+“_Delitti straordinari_. – Questa mattina, verso le tre di [[motifs/clock|ore]],, ”
+
+Gli abitanti del Quartiere St. Roch furono svegliati dal [[motifs/sleep|sonno]] da.
+
+Una serie di urla terribili, che sembravano provenire da…
+
+Il quarto piano di una casa in rue Morgue, nota per trovarsi in.
+
+Solo l’occupazione di Madame L’Espanaye e sua figlia.
+
+Mademoiselle Camille L’Espanaye. Dopo un certo ritardo, causato da…
+
+Un tentativo infruttuoso di ottenere l’ammissione con i metodi abituali…
+
+La porta è stata forzata con una leva, e otto o dieci di loro…
+
+I vicini entrarono accompagnati da due _gendarmi_. A quell’[[motifs/time|ora]].
+
+I lamenti erano cessati; ma mentre il gruppo si affrettava verso la prima…
+
+"Corridoio di scale, due o più voci ruvide impegnate in una furiosa discussione"
+
+Titolo:  
+Erano distinti e sembravano provenire dalla parte superiore…
+
+La casa. Quando si raggiunse il secondo piano, anche quei suoni.
+
+Silenzio assoluto  
+Tutto era immobile, il silenzio regnava sovrano… La festa era finita.
+
+Si dispersero in fretta da una stanza all’altra. Non appena arrivarono…
+
+Una grande stanza sul quarto piano…
+
+Trovato chiuso a chiave, è stato forzato per essere aperto.
+
+Si presentò uno spettacolo che colpì tutti i presenti…
+
+Non con orrore, ma con stupore.
+
+
+
+L’appartamento era nel più totale disordine: i mobili erano rotti.
+
+E sparsi dappertutto in tutte le direzioni. C’era solo un letto.
+
+E da lì il letto era stato rimosso e gettato via…
+
+Nel mezzo del pavimento… Su una sedia c’era un rasoio, macchiato di sangue.
+
+[[motifs/blood|sangue]]. Sul focolare c'erano due o tre lunghe e spesse ciocche di.
+
+Capelli umani grigi, macchiati anche di [[motifs/blood|sangue]], e che sembravano essere.
+
+Strappati dalle radici. Sul pavimento furono trovati quattro…
+
+Napoleoni, un orecchino di topazio, tre grandi cucchiai d’argento…
+
+Piccolo frammento di metallo d’Alger, e due borse contenenti quasi quattro…
+
+Mille franchi d’oro… Gli scompartimenti di un _scrivano_ che si trovava lì…
+
+In un angolo erano aperte, e apparentemente avevano subito dei saccheggi.
+
+Un piccolo armadio di ferro, nonostante molti documenti vi fossero ancora conservati all’interno.
+
+Fu scoperto sotto il letto… non sotto la struttura del letto stesso.
+
+Aperto, con la chiave ancora dentro. Non conteneva nulla all’interno.
+
+Alcune vecchie lettere e altri documenti di scarso valore.
+
+
+
+“Di Madame L’Espanaye non si vedevano tracce in questo luogo; ma c’era qualcosa di insolito…”
+
+Avendo notato una grande quantità di fuliggine nel focolare, è stata effettuata un'indagine.
+
+Nato nella canna fumaria… e (terribile da raccontare…) il cadavere di…
+
+La figlia, con la testa verso il basso, fu trascinata via da lì; poiché era stata…
+
+Così, fu costretto ad avanzare lungo quell’angusto passaggio per una distanza considerevole.
+
+Il [[concepts/body|corpo]] era piuttosto caldo. Esaminandolo, si notarono molte ferite superficiali.
+
+Venivano percepiti senza alcuna [[concepts/doubt|dubbio]], nonostante la violenza con cui venivano espressi.
+
+Il viso era segnato da molte tracce di sofferenza
+
+Segni di graffi e lividi scuri sul collo…
+
+"Impronte di unghie, come se la persona deceduta avesse..."
+
+Frenato fino alla [[motifs/death|morte]].
+
+
+
+Dopo un'attenta ispezione di ogni parte della casa,
+
+Senza ulteriori scoperte, il gruppo proseguì il suo cammino verso una piccola…
+
+Cortile lastricato dietro l’edificio, dove giaceva il cadavere
+
+La vecchia signora, con la gola completamente tagliata…
+
+Cercò di sollevarla, ma la testa le cadde via. Il [[concepts/body|-corpo]], proprio come il resto.
+
+La testa era orribilmente mutilata… tanto da essere quasi irriconoscibile.
+
+Per conservare anche solo un minimo di umanità.
+
+
+
+“Per quanto riguarda questo orribile mistero, crediamo che al momento non esista ancora…“
+
+“La più piccola traccia”.
+
+
+
+Il giornale del giorno seguente riportava queste ulteriori informazioni.
+
+
+
+“_La [[forms/tragedy|Tragedia]] di rue Morgue._ — Molti individui sono stati, ”
+
+Esaminato in relazione a questo evento straordinario e spaventoso
+
+Un “affare” che non ha ancora, in Francia, quel livello di leggerezza…
+
+“Di importanza tale da essere efficacemente trasmessa a noi…”, ma nulla di tutto ciò esiste realmente.
+
+Per far luce sulla questione… Di seguito riportiamo tutto il materiale disponibile.
+
+Testimonianza raccolta.
+
+
+
+“Pauline Dubourg, la lavandaia, dichiara di conoscere entrambi…”
+
+Tre anni dopo la morte… continuando a lavare per loro
+
+Period… La vecchia signora e sua figlia sembravano avere buoni rapporti… molto buoni.
+
+Affettuosi l’uno verso l’altro… Erano ottimi compensi. Potevano…
+
+Non si esprime nulla riguardo al loro modo o ai mezzi di vita… Si crede che…
+
+Titolo:  
+Madame L. che si dedicava alla divinazione per vivere… Si diceva che avesse…
+
+Il denaro era stato versato in anticipo. Quando lei ha chiamato, non ho mai incontrato nessuno nella casa.
+
+Per i vestiti, o li portò a casa. Ero sicuro che non ne avessero altri.
+
+Servitore assunto… Non sembrava esserci alcun mobile in nessuna parte della casa.
+
+Di tutto l’edificio, tranne che al quarto piano.
+
+
+
+“Pierre Moreau”, tabaccaio, dichiara di essere stato…
+
+Abitudine di vendere piccole quantità di tabacco e snuff alla signora
+
+L’Espanaye: quasi quattro anni… Nato nel quartiere stesso.
+
+E ha sempre vissuto lì. La defunta e sua figlia…
+
+Occupò la casa nella quale furono trovati i cadaveri, per più di.
+
+“Sei anni… In passato era occupato da un gioielliere, il quale lo affittava ad altri.”
+
+Le stanze superiori appartenevano a diverse persone. Quella casa era di proprietà di.
+
+Madame L.: Insoddisfatta dell’abuso delle strutture
+
+Occupata dal suo inquilino e poi si è trasferita lì lei stessa, rifiutando di lasciarlo uscire
+
+Porzione… Quella vecchia signora era davvero infantile. Un testimone aveva visto la figlia…
+
+“Circa cinque o sei volte in quei sei anni… I due vissero insieme…”
+
+Una vita estremamente ritirata… si diceva che avessero denaro. L’avevo sentito dire.
+
+Si diceva tra i vicini che Madame L. facesse previsioni del futuro… ma non è vero.
+
+Credetemi… Non avevo mai visto nessuno entrare da quella porta, tranne…
+
+Vecchia signora e sua figlia, un portiere una o due volte… e qualcun altro ancora.
+
+Il medico lo visitò otto o dieci volte.
+
+
+
+Molte altre persone, i vicini, fornirono testimonianze dello stesso tenore.
+
+Nessuno veniva menzionato come persona che frequentasse quella casa; non se ne conosceva l'esistenza.
+
+Se esistessero ancora legami vivi tra Madame L. e lei…
+
+Figlia. Le persiane delle finestre anteriori venivano raramente aperte.
+
+Quelli in fondo erano sempre chiusi, ad eccezione di…
+
+Una grande stanza sul retro, al quarto piano. Quella casa era una bella casa, non c’era nulla da dire.
+
+Molto vecchio.
+
+
+
+“Isidore Musèt, gendarme”, dichiara di essere stato chiamato…
+
+Sono arrivato alla casa verso le tre di [[motifs/clock|mattina]] e ho trovato circa venti.
+
+O trenta persone all’ingresso, che cercavano disperatamente di essere ammesse.
+
+Lo aprì a forza, alla fine, con una baionetta… non con un cacciavite.
+
+Poca difficoltà nell’aprirlo, data la sua struttura…
+
+Una porta a doppio battente o pieghevole, senza bulloni né in basso né in alto.
+
+I gridolini continuarono fino a quando la porta non fu sfondata… e poi…
+
+Improvvisamente cessarono. Sembravano gli urli di qualcuno…
+
+Personaggi che soffrivano terribilmente emettevano suoni lunghi e acuti, non brevi e concisi…
+
+In fretta. Il testimone guidò verso le scale; una volta raggiunto il primo…
+
+Atterraggio… si udirono due voci che discutevano ad alta voce e con rabbia; una delle due apparteneva a…
+
+Voce ruvida, l’altra molto più acuta… una voce davvero strana.
+
+Distinguere alcune parole del precedente, che era quello di…
+
+Francese… Era certo che non fosse la voce di una donna. Poteva…
+
+“Distinguere le parole ‘sacré’ e ‘diable’… La voce stridula”
+
+Era quello di un straniero… Non riuscivo a essere sicuro se fosse…
+
+Voce di un uomo o di una donna… Non riuscivo a capire cosa si diceva.
+
+Credeva che quella lingua fosse lo spagnolo… Lo stato della stanza
+
+Il corpo fu descritto da questo testimone esattamente come lo abbiamo descritto noi.
+
+Li ho visti ieri.
+
+
+
+“_Henri Duval_, un vicino e di professione fabbro d’argento, testimonia, ”
+
+che era uno dei primi ad essere entrati nella casa.
+
+Conferma nel complesso il testimoneato di Musèt. Non appena…
+
+Forzarono l’ingresso e poi richiusero la porta per tenere fuori…
+
+Titolo:  
+La folla, che si radunò molto rapidamente nonostante l’ora tarda…
+
+L’ora… Quella voce stridula, secondo questo testimone, apparteneva a…
+
+Titolo:  
+“Italiano… Ero certo che non fosse francese… Non potevo esserne sicuro…”
+
+“Era una voce maschile… O forse femminile… Non si poteva dire con certezza.”
+
+Familiarizzato con la lingua italiana… Ma non riusciva a distinguerla…
+
+Titolo:  
+Le parole, ma fu convinto dall’intonazione del parlante…
+
+Un italiano… Conosceva Madame L. e sua figlia; aveva avuto delle conversazioni con loro.
+
+Spesso entrambi… Ero sicuro che quella voce stridula non fosse la sua.
+
+uno dei due defunti.
+
+
+
+“—Odenheimer, ristoratore. Questo testimone si è offerto volontariamente…”
+
+Testimonianza. Non parlando francese, fu interrogato tramite…
+
+Interprete. È originario di Amsterdam. Stava passando davanti alla casa.
+
+Il momento dei grida. Durarono diversi minuti, probabilmente.
+
+Dieci… Erano lunghi e forti; davvero terribili e angoscianti. Uno di essi…
+
+Di coloro che entrarono nell’edificio… confermò quanto detto in precedenza.
+
+Evidenza sotto ogni aspetto tranne uno… Ero sicuro di quella voce stridula…
+
+Era la voce di un uomo… di un francese. Non riuscivo a distinguere le parole.
+
+Titolo: Pronunciate ad alta voce. Erano parole rapide e disordinate, chiaramente pronunciate con enfasi…
+
+La [[concepts/fear|paura]], proprio come la [[motifs/well|rabbia]], era intensa. La voce era dura, non proprio stridula.
+
+“Una voce così roca… Non si potrebbe certo definirla acuta. Quella voce rauca disse…”
+
+“Ripetutamente ‘sacro’, ‘diavolo’, e una volta ‘mon Dieu’”.
+
+“Jules Mignaud”, banchiere della ditta Mignaud et Fils, in rue…
+
+Deloraine… È la più anziana dei Mignaud. Madame L’Espanaye ne aveva qualcosa da dire…
+
+Proprietà. Aveva aperto un conto presso la sua bancaistituzione.
+
+La primavera di quell’anno, otto anni prima. Si recava lì spesso.
+
+Depositi in piccole somme… Non era stato controllato nulla fino al terzo giorno.
+
+Il giorno prima della sua [[motifs/death|morte]], quando prelevò personalmente la somma di 4000.
+
+Franchi. Questa somma fu pagata in oro, e un impiegato tornò [[motifs/home|a casa]] con il denaro.
+
+Denaro.
+
+
+
+Titolo:  
+“Adolphe Le Bon, impiegato presso Mignaud et Fils, dichiara che…”
+
+In quel giorno, verso l’[[motifs/noon|mattino]], lo accompagnò a Madame L’Espanaye.
+
+Il suo alloggio, insieme ai 4000 franchi, riposti in due borse…
+
+La porta si aprì e Mademoiselle L. apparve, prendendo qualcosa da lui
+
+Una delle borse viene data a qualcuno, mentre la vecchia signora gli toglie l’altra…
+
+“Altro… Poi si inchinò e se ne andò. Non vide nessuno nella stanza.”
+
+Via stretta a quell’[[motifs/time|ora]]. È una strada secondaria, molto desolata.
+
+
+
+“William Bird”, il sarto dichiara di essere stato uno dei partecipanti…
+
+Entrò nella casa. È un inglese. Ha vissuto a [[settings/paris|Parigi]] per due.
+
+Primi ad salire le scale…
+
+Voci che si contraddicevano. La voce ruvida apparteneva a un francese.
+
+Riuscivo a distinguere alcune parole, ma ora non me le ricordo più tutte… Le ho sentite.
+
+“Chiaramente ‘sacro’ e ‘mon Dieu’… C’era un suono…”
+
+Un momento caotico, come se diverse persone stessero lottando… un rumore stridulo e confuso.
+
+Rumore di lotta. La voce stridula era molto forte… più forte del resto.
+
+Una voce ruvida. Era sicuro che non fosse la voce di un inglese.
+
+Sembrava la voce di un tedesco. Forse era anche quella di una donna.
+
+Non capisco il tedesco.
+
+
+
+“Quattro dei testimoni sopra menzionati, richiamati in tribunale, hanno rilasciato le loro testimonianze…”
+
+La porta della stanza nella quale fu trovato il [[concepts/body|corpo]] di.
+
+Mademoiselle L. rimase intrappolata all’interno quando arrivò la festa
+
+Titolo:  
+Tutto era perfettamente silenzioso… nessun gemito, nessun suono di sorta.
+
+Nessuno all’interno. Le finestre…
+
+Il titolo della stanza posteriore e di quella anteriore era stato abbassato e fissato saldamente…
+
+All’interno. Una porta che collegava le due stanze era chiusa, ma non sbarrata.
+
+La porta che conduceva dalla sala principale al corridoio era chiusa a chiave.
+
+Con la chiave all’interno. Una piccola stanza davanti…
+
+casa, al quarto piano, all'inizio del corridoio, la porta era aperta.
+
+La porta era socchiusa; questa stanza era piena di letti vecchi, scatole…
+
+E così via… Questi elementi furono rimossi con cura e successivamente esaminati attentamente.
+
+Non c'era nemmeno un centimetro di alcuna parte della casa che non fosse.
+
+Fu cercato con attenzione; furono condotte ricerche su e giù per le ciminiere.
+
+La casa aveva quattro piani, oltre ai tetti a padiglione.
+
+La porta segreta sul tetto era fissata molto saldamente… non si muoveva affatto.
+
+Sembra che siano stati aperti per molti anni. Il periodo di tempo trascorso tra.
+
+L’ascolto delle voci in conflitto e la rivelazione di…
+
+La porta della stanza fu descritta in modo diverso dai testimoni; alcuni la descrissero…
+
+Tre minuti al massimo… alcune duravano addirittura cinque. La porta era…
+
+Si aprì con difficoltà.
+
+
+
+“Alfonzo Garcia”, impresario funebre, dichiara di risiedere in Rue…
+
+Obitorio. Originario della Spagna, fu uno dei partecipanti a quell’evento.
+
+La casa. Non è andata su per le scale. È nervosa, e.
+
+Preoccupato per le conseguenze di un’agitazione… Ho sentito quelle voci.
+
+In contestazione… Quella voce ruvida apparteneva a un francese. Non poteva…
+
+Riconoscere ciò che è stato detto… Quella voce stridula apparteneva a…
+
+Un inglese… ne è certo. Non capisce gli inglesi.
+
+Giudica non in base al linguaggio, ma all’intonazione.
+
+
+
+“Alberto Montani, pasticcere, dichiara di essere stato tra quelli…”
+
+Primo ad salire le scale… Sentì quelle voci…
+
+Quella voce ruvida apparteneva a un francese; riuscì a distinguere alcune parole.
+
+Il relatore sembrava essere impegnato in un’argomentazione… Non riuscivo a capire esattamente di cosa stesse parlando.
+
+parole di quella voce stridula… Parlate velocemente e in modo disordinato… Pensano che…
+
+La voce di un russo. Conferma le testimonianze generali. È…
+
+Non ho mai parlato con nessuno nativo della [[settings/russia|Russia]].
+
+
+
+“Diversi testimoni, richiamati in tribunale, hanno dichiarato che i camini di…”
+
+Tutte le stanze al quarto piano erano troppo strette per…
+
+“Passaggio di un essere umano… Con il termine ‘svolte’ si intendevano le forme cilindriche…”
+
+Pennelli ampi e potenti, quelli utilizzati da chi si occupa di pulizia
+
+Camini. Queste spazzole venivano utilizzate su ogni canale fumario…
+
+casa. Non esiste alcun passaggio segreto attraverso cui qualcuno avrebbe potuto entrare.
+
+Discese mentre il gruppo proseguiva su per le scale. Il [[concepts/body|corpo]] di.
+
+Mademoiselle L’Espanaye era così saldamente incastrata nel camino che…
+
+Non fu possibile ottenerlo fino a quando quattro o cinque persone della compagnia non si unirono per farlo.
+
+La loro forza.
+
+
+
+“Paul Dumas”, medico, dichiara di essere stato chiamato per esaminare…
+
+Corpi all’alba… Entrambi giacevano allora sul sacco di juta.
+
+Del letto che si trovava nella stanza dove fu scoperta Madame L.
+
+Il corpo della giovane donna presentava numerose contusioni e ferite gravi.
+
+Il fatto che fosse stato spinto su per la canna fumaria era già di per sé sufficiente…
+
+Spiegare queste apparizioni. La gola era gravemente irritata.
+
+C'erano diverse graffiature profonde proprio sotto il mento.
+
+Con una serie di macchie livide che evidentemente rappresentavano le tracce lasciate…
+
+Di dita… Il viso era terribilmente pallido, e le orbite degli occhi…
+
+La lingua era parzialmente morsa… Una parte sporgeva fuori.
+
+È stata scoperta un’escoria sulla pancia…
+
+A quanto pare, a causa della pressione di un ginocchio. Secondo il parere del signor.
+
+Secondo Dumas, Madame L’Espanaye era stata soffocata fino alla [[motifs/death|morte]] da.
+
+Qualcuno o qualcuni sconosciuti… Il corpo della madre…
+
+Terribilmente mutilato… Tutti gli ossa della gamba destra e del braccio erano…
+
+Più o meno distrutto. La tibia sinistra era completamente frantumata, come si può facilmente immaginare.
+
+Tutti le costole del lato sinistro. L’intero [[concepts/body|corpo]] era gravemente contuso.
+
+Era macchiato e ingrigito; non era possibile capire come fossero avvenuti quei danni.
+
+Un colpo violento… Un pesante bastone di legno, o una larga sbarra di ferro…
+
+Titolo:  
+“Una sedia… qualsiasi arma grande, pesante e ottusa avrebbe potuto avere lo stesso effetto.”
+
+Tali risultati, se utilizzati da una persona molto potente… No.
+
+La donna avrebbe potuto infliggere quei colpi con qualsiasi arma… La testa…
+
+Il defunto, osservato dai testimoni, era completamente separato…
+
+Il [[concepts/body|corpo]] era completamente distrutto; anche la gola era stata gravemente danneggiata.
+
+Titolo:  
+È evidente che sia stato tagliato con un oggetto molto affilato… probabilmente con…
+
+una lametta da rasoio.
+
+
+
+“Alexandre Etienne”, chirurgo, fu chiamato insieme a Monsieur Dumas per esaminare…
+
+I corpi. Questo ha confermato le testimonianze e le opinioni di M.
+
+Dumas.
+
+
+
+Non furono ottenute altre informazioni di rilievo, sebbene ne fossero state raccolte alcune
+
+Altre persone furono interrogate… Un omicidio così misterioso…
+
+Perplexante in ogni suo dettaglio, mai prima d’ora era stato compiuto…
+
+[[settings/paris|Parigi]], ammesso che sia davvero stato commesso un omicidio. La polizia.
+
+Sono completamente colpevoli: un evento insolito in queste circostanze
+
+[[concepts/nature|natura]]. Tuttavia, non c’è la minima traccia di una soluzione evidente.
+
+
+
+La edizione serale del giornale riportava che il più grande…
+
+Nel Quartiere St. Roch l’emozione continuava ancora…
+
+Le ipotesi in esame erano state attentamente riesaminate, e i nuovi risultati…
+
+Indagini sui testimoni avviate, ma tutte vane.
+
+Postscripto: tuttavia, si menzionava che Adolphe Le Bon fosse stato…
+
+Arrestato e imprigionato… sebbene nulla sembrasse indicare la sua colpevolezza.
+
+Lui, al di là dei fatti già descritti in dettaglio.
+
+
+
+Dupin sembrava particolarmente interessato ai progressi di questo progetto
+
+Una questione privata… almeno così sembrava dal suo comportamento, visto che non ne parlò affatto.
+
+Commenti… Fu solo dopo l’annuncio che si seppe che Le Bon era stato…
+
+Rinchiuso in prigione, mi chiese il mio parere riguardo a quegli omicidi.
+
+
+
+Posso semplicemente concordare con tutti coloro che, a Parigi, li considerano.
+
+Mistero insolubile… Non vedevo alcun modo per risolverlo.
+
+Per rintracciare l’assassino.
+
+
+
+“Non dobbiamo giudicare i mezzi in base a questa loro apparenza esteriore”, disse Dupin.
+
+Un esame… La polizia parigina, tanto lodata per…
+
+Acume e astuzia… ma nient’altro. Non c’è alcun metodo, dietro tutto ciò.
+
+Procedure… che vanno oltre i metodi attualmente in uso. Sono davvero ampie e complesse.
+
+“Una parata di misure… ma spesso queste sono davvero inadeguate.”
+
+Adattato agli oggetti proposti, per farci ricordare di Monsieur…
+
+Titolo:  
+La richiesta di Jourdain del suo abito da camera… per ascoltare meglio
+
+La musica: i risultati che ottengono non sono affatto rari…
+
+Sorprendenti, ma nella maggior parte dei casi sono causate da cose semplici
+
+Diligenza e attività… Quando queste qualità non sono di alcuna utilità.
+
+I loro piani falliscono. Ad esempio, Vidocq era un ottimo indovinatore…
+
+Uomo perseverante… Ma, senza un pensiero riflessivo e educato, commetteva errori.
+
+A causa dell’intensità delle sue indagini, continuamente…
+
+La vicinanza eccessiva dell’oggetto comprometteva la sua vista. Forse…
+
+“Forse si riescono a vedere uno o due aspetti con una chiarezza insolita, ma…”
+
+Così, inevitabilmente, perse di vista l’intera questione nel suo insieme.
+
+Esiste davvero la possibilità di essere troppo profondi. La [[concepts/truth|verità]] non è sempre.
+
+In un [[motifs/well|pozzo]]. Infatti, per quanto riguarda le conoscenze più importanti, sì.
+
+“Credere che sia inevitabilmente superficiale… La profondità si trova invece…”
+
+Valli dove la cerchiamo, e non sulle cime delle montagne…
+
+Trovata. I modi e le fonti di questo tipo di errore
+
+[[motifs/well|"Bene"]] è ben rappresentato nella contemplazione dei corpi celesti. Per.
+
+Guarda una stella con sguardi obliqui… per vederla da un angolo laterale.
+
+Orientando verso di esso le parti esterne della retina…
+
+Sensibile alle deboli influenze della luce più di quanto lo sia l’interno…
+
+Per ammirare chiaramente quella stella… è necessario possedere la migliore comprensione possibile di essa.
+
+Il suo splendore… un splendore che si offusca esattamente nella misura in cui ci allontaniamo da esso
+
+La nostra visione si concentra interamente su di esso: in realtà, un numero maggiore di raggi è coinvolto in questo processo.
+
+In questo secondo caso, attira immediatamente l’attenzione; nel primo, invece, no.
+
+La più raffinata capacità di comprensione… attraverso l’eccesso
+
+Profondità che confondono e indeboliscono il pensiero… ed è possibile…
+
+Fare sì che persino [[characters/venus|Venere]] stessa scompaia dal cielo se osservata attentamente.
+
+Troppo prolungato, troppo concentrato o troppo diretto.
+
+
+
+Esaminiamo questi omicidi più da vicino
+
+Prima di formarci un’opinione su di loro, dobbiamo conoscere noi stessi.
+
+“Un’indagine ci divertirà senz’altro”, [Mi sembrò un termine strano].
+
+Così applicato, ma senza dire nulla… “E inoltre, una volta Le Bon fece…”
+
+Un servizio per cui non sono certo ingrato… Andremo a vedere.
+
+“Esaminiamo personalmente quei luoghi con i nostri occhi. Conosco G———, il Prefetto di…”
+
+Polizia, e non avrà difficoltà ad ottenere ciò che è necessario
+
+“Permesso.”
+
+
+
+La autorizzazione fu ottenuta e ci mettemmo immediatamente in marcia verso la Rue…
+
+Obitorio. Uno di quei tristi viali…
+
+Si trova tra la Rue Richelieu e la Rue St. Roch.
+
+Titolo:  
+Tardi pomeriggio, quando arrivammo lì… poiché questa zona si trova in una posizione particolare…
+
+A grande distanza da dove noi abitavamo. Quella casa era.
+
+Facilmente reperibile; poiché c’erano ancora molte persone che guardavano in su…
+
+“Persiane chiuse, con una curiosità priva di oggetto, dall’altra parte…”
+
+In un angolo tranquillo della città. Era una casa parigina ordinaria, con.
+
+Gateway: da un lato vi era una scatola di vetro per orologi…
+
+Pannello scorrevole nella [[motifs/window|finestra]], che indica la presenza di una _portineria_.
+
+Prima di entrare, abbiamo camminato su per la strada e poi svoltato in un vicolo.
+
+E poi, ancora una volta girando, lo superò da dietro…
+
+Costruzione: intanto Dupin esamina l’intero quartiere
+
+La [[motifs/well|casa]], con quella cura meticolosa per i dettagli che io.
+
+Non si riusciva a vedere alcun oggetto possibile.
+
+
+
+Ripercorrendo i nostri passi, tornammo di nuovo davanti all’abitazione.
+
+“Rung”, e dopo aver mostrato le nostre credenziali, fummo ammessi…
+
+Agenti incaricati… Salimmo le scale, fino alla stanza dove si trovavano…
+
+Il [[concepts/body|corpo]] di Mademoiselle L’Espanaye era stato trovato, e anche il luogo in cui.
+
+Il defunto giaceva ancora lì; come al solito, la stanza era in disordine…
+
+Non esiste motivo alcuno per continuare ad esistere. Non vidi nulla al di là di ciò che era stato detto.
+
+“Nella ‘Gazette des Tribunaux’. Dupin esaminò ogni dettaglio…”
+
+“Ad eccezione dei corpi delle vittime… Poi entrammo nell’altro…”
+
+Camere, e poi nel cortile… un gendarme ci accompagnava.
+
+Fino alla fine. L’esame ci ha tenuti occupati fino al calare della notte, quando abbiamo…
+
+La nostra partenza. Lungo la strada per tornare a casa, il mio compagno si fermò per.
+
+Un momento nell’ufficio di uno dei quotidiani.
+
+
+
+Ho detto che le capricciose abitudini del mio amico erano molteplici… e che…
+
+Le gestivo con cura_
+
+Un umorismo equivalente… Ora, rifiutare qualsiasi conversazione su quel tema era diventato il suo modo di esprimersi.
+
+La vittima dell'omicidio, fino a circa [[motifs/noon|mattina]] del giorno successivo. Poi.
+
+Mi chiese, all’improvviso, se avessi notato qualcosa di _strano_ in quel luogo.
+
+La scena dell’atrocità.
+
+
+
+C’era qualcosa nel modo in cui enfatizzava quella parola…
+
+“Peculiare”, una parola che mi fece rabbrividire, senza che sapessi il motivo.
+
+
+
+“No, nulla di _strano_,” dissi; “almeno, nulla di più del solito…”
+
+“Entrambi abbiamo letto, scritto sul giornale…”
+
+
+
+“‘Il Gazette’”, rispose, “temo che non sia ancora arrivato, ”
+
+L’orribile stranezza di quella cosa… Ma ignorate le opinioni inutili.
+
+Questa stampa… Mi sembra che questo mistero venga considerato…
+
+Titolo:  
+Insolubile… proprio per la ragione che dovrebbe renderlo risolvibile.
+
+Titolo: Ritenuto di facile risoluzione… intendo per il carattere “estremo” del protagonista.
+
+Titolo:  
+Le sue caratteristiche… La polizia è perplessa di fronte alla sua apparente assenza.
+
+Motivi… non per l’omicidio in sé, ma per l’atrocità commessa
+
+Omicidio. Anche loro sono perplessi di fronte all’apparente impossibilità…
+
+Conciliare le voci in conflitto con i fatti che…
+
+Nessuno fu trovato al piano di sopra, tranne la giovane assassinata…
+
+L’Espanaye, e che non esistessero vie d’uscita senza…
+
+Notifica dell’ascesa della folla… Il caos selvaggio nella stanza…
+
+Il cadavere, con la testa rivolta verso il basso, viene infilato nel camino;
+
+Terribile mutilazione del [[concepts/body|-corpo]] della vecchia signora; queste.
+
+Considerazioni… insieme a quelle appena menzionate e ad altre ancora.
+
+Non occorre nemmeno menzionarlo: sono stati sufficienti per paralizzare le autorità…
+
+Titolo:  
+Mettendo completamente in discussione l’affermata “acume” di…
+
+Agenti del governo. Sono caduti in un errore grave ma comune.
+
+Titolo:  
+L’errore di confondere ciò che è insolito con ciò che è oscuro e complesso… Ma è proprio attraverso questo errore…
+
+Queste deviazioni dal piano della normalità, quella ragione…
+
+“Prova a farsi strada, se mai ci riesce, nella sua ricerca della verità.”
+
+Indagini come quelle che stiamo conducendo ora non dovrebbero essere così…
+
+Titolo:  
+La domanda frequente “cosa è accaduto”, ovvero “cosa è successo che…”
+
+“Non era mai successo prima… In realtà, con la facilità con cui farò…”
+
+Chi è riuscito a trovare la soluzione di questo mistero…
+
+La diretta proporzione della sua apparente insolubilità agli occhi degli…
+
+“La polizia”.
+
+
+
+Guardavo il relatore con muta meraviglia.
+
+
+
+“Ora sto aspettando”, continuò, guardando verso la porta della nostra stanza.
+
+Appartamento – “Ora sto aspettando una persona che, forse, non…
+
+Il responsabile di queste atrocità deve essersi trovato in una certa situazione…
+
+Titolo:  
+La misura coinvolta nella loro commissione… La parte peggiore di tutto ciò.
+
+Considerando i crimini commessi, è probabile che sia [[archetypes/innocent|innocente]]. Io [[concepts/hope|spero]].
+
+“Che io abbia ragione in questa supposizione; infatti su di essa baso le mie conclusioni.”
+
+Aspettavo di leggere l’intero [[forms/riddle|_enigma]]; sto cercando quell’uomo.
+
+Qui… in questa stanza… in ogni momento. È vero che forse non può…
+
+Arriverà… ma è probabile che lo faccia. Se dovesse venire, allora…
+
+“Sarà necessario trattenerlo. Ecco delle pistole; entrambi…”
+
+“Sapere come utilizzarle quando la situazione lo richiede.”
+
+
+
+Ho preso le pistole, senza quasi sapere cosa stessi facendo, o crederci davvero
+
+Quello che ho sentito, mentre Dupin continuava a parlare…
+
+Soliloquio. Ho già parlato del suo modo astratto di comportarsi in situazioni del genere…
+
+“Times… Il suo discorso era rivolto a me; ma la sua voce…”
+
+Titolo:  
+Anche se assolutamente non forte, aveva quella tonalità tipica…
+
+“Utilizzato per parlare con qualcuno che si trova a grande distanza… I suoi occhi…”
+
+Con lo sguardo vuoto, fissava soltanto il muro.
+
+
+
+“Le voci che si sentivano nel corso della discussione”, disse, “provenivano dal gruppo…”
+
+Sulle scale non c’erano le voci delle donne stesse…
+
+Completamente dimostrato dalle prove. Questo ci libera da ogni [[concepts/doubt|dubbio]] al riguardo.
+
+La domanda se la vecchia signora avesse potuto distruggere per prima cosa…
+
+La figlia, in seguito, ha commesso il [[concepts/suicide|suicidio]]. Parlo di questo.
+
+Titolo:  
+Puntato principalmente per motivi metodologici; per la forza di Madame…
+
+L’Espanaye non sarebbe stata affatto all’altezza di tale compito
+
+Infilare il cadavere di sua figlia nel camino, così come è stato trovato
+
+E la natura delle ferite presenti sul suo corpo stesso, completamente.
+
+Esclude l’idea di autodistruzione. Quindi, l’omicidio rappresenta.
+
+Compiuto da una terza parte… e le voci di questa terza parte
+
+Si udirono voci in disaccordo… Ora permettetemi di passare a…
+
+Tutta la testimonianza riguardante queste voci… ma a cosa serviva?
+
+“Qualcosa di insolito in quella testimonianza… Avete notato qualcosa di particolare?”
+
+“Che ne dici?”
+
+
+
+Ho osservato che, sebbene tutti i testimoni concordassero nel ritenere…
+
+Una voce ruvida… che sembrava appartenere a un francese… c’era molto di più in quella voce.
+
+Disaccordo riguardo a quel suono stridulo… o, per dirla in un altro modo…
+
+Con quella voce dura, lo definì così.
+
+
+
+“Quella era proprio la prova in sé,” disse Dupin, “ma non era sufficiente…”
+
+La particolarità delle prove… Non avete osservato nulla.
+
+Distintivo… Eppure c’era qualcosa che meritava di essere osservato.
+
+Come avete osservato, i testimoni concordavano riguardo a quella voce ruvida…
+
+Tutti d’accordo su questo punto. Ma per quanto riguarda quella voce stridula…
+
+La particolarità non sta nel fatto che non fossero d’accordo, ma nel fatto che…
+
+Un italiano, un inglese, uno spagnolo, un olandese e un francese
+
+Tentativo di descriverlo… ognuno lo definiva “quel tipo di…”
+
+Straniero_ Ognuno è certo che non fosse la voce di nessuno dei suoi…
+
+I propri connazionali… Ognuno lo paragona… non alla voce di un individuo, ma…
+
+Di qualsiasi nazione la cui lingua conosca bene… ma…
+
+Conversazione. Il francese pensa che sia la voce di uno spagnolo…
+
+“Avrebbe potuto riconoscere alcune parole… se le avesse conosciute”
+
+Il Dottore Spagnolo e il Olandese sostengono che sia stato proprio quello…
+
+Francese… ma si legge chiaramente che “non capisce il francese”.
+
+“Questo testimone è stato interrogato tramite un interprete.”
+
+Un inglese pensa che sia la voce di un tedesco, e “non…”
+
+Titolo:  
+“Capire il tedesco… Lo spagnolo è ‘sicuro’ che fosse proprio quello”.
+
+Un inglese… ma che “giudica in base all’intonazione”, del tutto… “come lui”.
+
+Non conosce l’inglese. L’italiano crede che…
+
+Voce di un russo… ma che “non ha mai conversato con un nativo di…”
+
+[[settings/russia|Russia]]. Un secondo francese, inoltre, si differenzia dal primo.
+
+Titolo:  
+E è certo che quella voce fosse italiana… ma non…
+
+Essere a conoscenza di quella lingua… è, proprio come per lo spagnolo, fondamentale.
+
+“Convinto dall’intonazione… Ora, quanto stranamente insolito deve essere…”
+
+Quella voce… che esiste davvero, e di cui si trovano testimonianze del genere
+
+Avrebbe potuto essere ottenuto! — E in quali toni, addirittura, ne erano gli abitanti…
+
+Le cinque grandi divisioni dell’Europa non riconoscerebbero nulla
+
+Familiare… Direte che potrebbe essere stata la voce di qualcuno che conoscete…
+
+Asiatico… né africano: nessuno dei due gruppi è particolarmente numeroso
+
+[[settings/paris|Parigi]]; ma, senza negare questa conclusione, ora mi limiterò semplicemente a dire.
+
+“Attenzione su tre punti: la voce in questione viene definita…”
+
+Titolo:  
+“Un testimone… aspro, piuttosto che stridulo”. È rappresentato da due…
+
+Altri sono stati “veloci e disuguali”. Nessuna parola… nessun suono.
+
+Titolo:  
+Parole simili… furono menzionate da qualche testimone?
+
+Distinguibili.
+
+
+
+“Non so proprio quale impressione abbia potuto fare”, continuò Dupin.
+
+Fino ad ora, secondo la tua comprensione personale… ma non esito a dire che…
+
+Deduzioni legittime anche da questa parte…
+
+Testimonianza: la parte relativa alle voci ruvide e stridule…
+
+Un indizio sufficiente a suscitare sospetti…
+
+Indirizzare ogni ulteriore sviluppo delle indagini
+
+Il mistero… Ho detto “deduzioni legittime”, ma in realtà intendevo…
+
+Non espressa appieno in questo modo. Intendevo suggerire che quelle deduzioni…
+
+Titolo:  
+Se queste sono le uniche proprie, allora sorge il sospetto…
+
+Inevitabilmente, da loro, come unico risultato… Qual è questa sospetta?
+
+“Tuttavia, non lo dirò ancora… Voglio solo che tu tenga presente…”
+
+Tenendo presente che, nel mio caso, era abbastanza convincente da…
+
+Forma definita: una certa tendenza nei miei interrogatori nella stanza.
+
+
+
+“Ora immaginiamo di trasportarci mentalmente in questa stanza… Che cosa succederà?”
+
+Titolo: Dovremmo cercare qui per primi? I mezzi di uscita utilizzati da…
+
+Assassini… Non è esagerato dire che nessuno di noi ci crede.
+
+"In præternatural events… Madame e Mademoiselle L’Espanaye erano…"
+
+Non distrutto dagli spiriti… Gli autori di quel atto erano persone materiali.
+
+E come è riuscito a fuggire, materialmente parlando? Fortunatamente, c’è solo una spiegazione possibile…
+
+Modalità di ragionamento su tale argomento, e quella modalità _deve_ portarci…
+
+Una decisione definitiva. Esaminiamo, uno per uno, tutti i possibili…
+
+Modalità di uscita… È evidente che gli assassini si trovassero nella stanza.
+
+Dove fu trovata Madame L’Espanaye, o almeno nella stanza…
+
+Adiacente… quando il gruppo salì le scale. Solo allora…
+
+Da questi due appartamenti dobbiamo cercare le cause del problema… La polizia.
+
+Hanno rivelato i pavimenti, i soffitti e la muratura di…
+
+Muri, in tutte le direzioni… Nessun problema “segreto” avrebbe potuto sfuggire.
+
+La loro attenzione… Ma, non fidandomi dei loro occhi, ho esaminato personalmente.
+
+Con i miei mezzi… Allora non esistevano problemi nascosti. Entrambe le porte…
+
+Le porte che conducevano dalle stanze al corridoio erano chiuse a chiave in modo sicuro.
+
+“Con le chiavi all’interno… Ora passiamo alle ciminiere.”
+
+Nonostante abbia una larghezza ordinaria, per circa otto o dieci piedi sopra…
+
+I focolari, nella loro interezza, non permetteranno l’ingresso del [[concepts/body|-corpo]] di nessuno.
+
+Gatto grande: L’impossibilità di uscire, con i metodi già menzionati
+
+Essendo quindi assoluti, ci ritroviamo costretti ad utilizzare solo le finestre… Attraverso di esse.
+
+Della sala d’ingresso, nessuno avrebbe potuto scappare senza essere notato
+
+La folla per strada… Gli assassini devono essersi passati di lì.
+
+Attraverso quelli della stanza sul retro… Ora, giunti a questa conclusione.
+
+“In modo così inequivocabile come lo siamo noi, non spetta a noi…”
+
+Gli studiosi razionali lo rifiutano proprio a causa di queste apparenti impossibilità.
+
+Solo ci resta dimostrare che queste apparenze…
+
+Le “impossibilità”, in realtà, non lo sono affatto.
+
+
+
+“Ci sono due finestre nella stanza. Una di esse…”
+
+“Non ostacolato da mobili, e completamente visibile… Il lato inferiore…”
+
+Una parte dell’altro è nascosta dalla testa…
+
+Un letto ingombrante, posizionato proprio accanto ad esso… Il primo.
+
+Era ben fissato all’interno; ha resistito con forza alle maggiori tentativi di aprirlo.
+
+La forza di coloro che si sforzarono di alzarlo… Un grande foro praticato con un trapano.
+
+Il telaio era stato perforato sul lato sinistro; vi era infilato un chiodo molto robusto.
+
+Fu trovato inserito al suo interno, quasi fino alla parte superiore. Dopo un esame…
+
+In un altro [[motifs/window|finestra]], si notò che un chiodo simile era stato fissato allo stesso modo; e.
+
+Un tentativo vigoroso di sollevare quella cintura fallì anch’esso… La polizia.
+
+Ora eravamo completamente convinti che non esistesse alcuna via d’uscita da quei luoghi.
+
+Indicazioni. E, pertanto, si ritenne che fosse una questione…
+
+Un atto superfluo: rimuovere i chiodi e aprire le finestre.
+
+
+
+Il mio esame personale fu piuttosto più dettagliato… e lo era davvero.
+
+Il motivo che ho appena fornito… perché era proprio lì, lo sapevo.
+
+Tutte le apparenti impossibilità devono essere dimostrate non esserlo realmente.
+
+la realtà.
+
+
+
+“Ho iniziato a riflettere in questo modo: _a posteriori_. I criminali avevano…
+
+Fuga da una di queste finestre. Essendo così, non potevano…
+
+Ripristinato il fissaggio delle cinture dall’interno, così come erano state trovate
+
+Titolo:  
+“Fissato… il ragionamento che pose fine, attraverso di esso…”
+
+Ovviamente, questo aspetto è stato esaminato attentamente dalla polizia in questo trimestre…
+
+“Il nastro era ben fissato… Quindi, sicuramente, possedeva quel potere.”
+
+Inesorabili. Non c’era scampo da questa conclusione. Io
+
+Si avvicinò alla finestra libera da ostacoli e rimosse il chiodo con qualche movimento deciso…
+
+Difficoltà e tentativi di sollevare la cintura… Resisteva a tutti i miei sforzi.
+
+Gli sforzi, come avevo previsto. Deve esserci una [[motifs/spring|molla]] nascosta, ora ne sono certo.
+
+“Conoscere, esistere… E questa conferma della mia idea mi ha convinto che…”
+
+Almeno le mie ipotesi erano corrette, anche se ancora piene di mistero…
+
+Apparvero le circostanze relative ai chiodi… Una ricerca accurata
+
+Presto venne portata alla luce la nascosta [[motifs/spring|sorgente]]. La premetti, e.
+
+Risolto di essere soddisfatto della scoperta, decise di non sollevare più la cintura.
+
+
+
+“Ora ho sostituito il chiodo e l’ho osservato attentamente… Una persona…”
+
+Uscire attraverso questa [[motifs/window|finestra]] avrebbe potuto farla richiudere di nuovo, e.
+
+La [[motifs/spring|primavera]] avrebbe potuto coglierlo, ma il chiodo non poteva essere salvato.
+
+Rimpiazzato. La conclusione era ovvia, e ancora una volta si restringeva ulteriormente…
+
+Campo delle mie indagini… Gli assassini devono essersi certamente fugiti.
+
+Attraverso l’altra [[motifs/window|finestra]]. Quindi, supponendo che le molle presenti su ciascuna.
+
+Una soluzione deve essere trovata…
+
+Differenza tra le unghie… o almeno tra i modi in cui vengono utilizzate
+
+Il loro destino… Salendo sul letto, guardai…
+
+Sopra il bordo del letto, con precisione, al secondo pannello… Passando accanto a me…
+
+Dietro il tavolo, ho subito scoperto e premuto…
+
+La [[motifs/spring|primavera]], che, come avevo immaginato, era identica per caratteristiche.
+
+Il suo vicino… Ora guardavo quel chiodo: era robusto proprio come…
+
+Altro, e apparentemente assemblato nello stesso modo: fissato con la stessa tecnica…
+
+Fino in cima alla testa.
+
+
+
+“Direte che ero perplesso… Ma se è così che la pensate, allora dovete…”
+
+Hanno frainteso la [[concepts/nature|natura]] delle induzioni. Per usare un esempio.
+
+"Non ero mai stato in colpa una sola volta… Quel profumo…"
+
+Mai per un istante si è persa… Nessun errore in nessuna delle fasi del processo.
+
+La catena… Avevo seguito le tracce di quel segreto fino al suo esito finale… e
+
+Titolo:  
+Quel risultato fu decisivo… In ogni senso, rappresentava la soluzione definitiva.
+
+l'apparizione del proprio simile nell'altro [[motifs/window|finestra]]; ma questo fatto era.
+
+Una totale nullità (per quanto possa sembrare conclusiva) quando…
+
+“In confronto alla considerazione che, in questo momento specifico…”
+
+“Terminato il filo conduttore… Deve esserci qualcosa che non va,” dissi.
+
+“Proprio sulla punta… L’ho toccata, e la parte superiore era proprio lì.”
+
+“Un quarto di pollice del manico si è staccato dalle mie dita… Il resto…”
+
+La parte del manico che era stata spezzata si trovava ancora nel foro praticato per fissarlo.
+
+Il frattura era vecchia: i suoi bordi erano infatti incrostati di detriti.
+
+Colpo mortale
+
+Il martello, che si era parzialmente conficcato nella parte superiore del [[characters/bottom|basso]].
+
+La parte superiore del chiodo
+
+Sezione iniziale nell’indentazione da cui l’ho preso… e poi…
+
+La somiglianza con un chiodo perfetto era completa… la fessura era scomparsa.
+
+Invisibile. Premendo la [[motifs/spring|molla]], sollevai delicatamente la tendina.
+
+Poche centimetri. La testa si alzò insieme a esso, rimanendo saldamente fissata nel suo alloggio.
+
+Chiusi la [[motifs/window|finestra]], e non rimase più traccia di quel chiodo.
+
+Ancora una volta perfetto.
+
+
+
+“L’enigma, fino a quel momento, era stato finalmente risolto. L’assassino era fuggito.”
+
+Attraverso la [[motifs/window|finestra]] che dava sul letto, cadendo da sola.
+
+Accordo sul suo ritiro (o forse chiusura deliberata)…
+
+Fissato dalla [[motifs/spring|molla]]; ed era proprio la presenza di questa [[motifs/spring|molla]] a garantirne la tenuta.
+
+Titolo:  
+che era stato scambiato dalla polizia per quello di…
+
+Unghia, poiché ulteriori indagini non sembravano necessarie.
+
+
+
+Il prossimo argomento riguarda il modo di discendenza. Su questo…
+
+Punto su cui ero rimasto soddisfatto durante la nostra passeggiata insieme
+
+Titolo:  
+Costruzione… A circa cinque piedi e mezzo di distanza dalla finestra…
+
+In quella domanda c'è un fulmine che scorre lungo un’asta. Da quell’asta, avrebbe potuto succedere qualcosa.
+
+È stato impossibile per chiunque raggiungere direttamente la [[motifs/window|finestra]], per così dire.
+
+“Niente da fare per entrare… Tuttavia, notai che le persiane…”
+
+Il quarto racconto appartiene a quella particolare categoria definita dai parigini…
+
+Carpenteri e ferramenta: un tipo di attrezzatura ormai raramente utilizzato ai giorni nostri
+
+Ma si può spesso vederli su antiche dimore a Lione e Bordeaux.
+
+Una porta ordinaria…
+
+Porta con la metà inferiore in griglia o lavorata a motivi aperti
+
+“Trellis: un sistema che offre una presa eccellente per le mani.”
+
+In questo caso specifico, queste persiane hanno una lunghezza totale di tre piedi e mezzo.
+
+Ampi. Quando li vedemmo dal retro della casa, erano.
+
+Titolo:  
+Più o meno semi-aperti… in altre parole, erano distanziati correttamente l’uno dall’altro.
+
+Angoli che si formano contro il muro. È probabile che la polizia, così come.
+
+Esaminai personalmente il retro dell’edificio; ma, se così fosse stato, nel fare ciò…
+
+"In queste file ordinate, lungo tutta la loro larghezza… come è inevitabile che sia."
+
+Non hanno percepito questa vastità stessa, o, in altre parole…
+
+In ogni caso, non si prese in considerazione adeguatamente. Infatti…
+
+Una volta certi che non esistesse alcuna via d’uscita…
+
+Realizzati in questo trimestre, naturalmente verranno donati qui…
+
+Esame superficiale. Tuttavia, era evidente per me che…
+
+La persiana della [[motifs/window|finestra]] posta alla testa del letto, se.
+
+Appoggiato completamente contro il muro, si avvicinò fino a meno di due piedi…
+
+Un parafulmine. Era anche evidente che, attraverso uno sforzo molto intenso.
+
+Un grado insolito di attività e [[concepts/courage|coraggio]]; un ingresso nel.
+
+La [[motifs/window|finestra]], attraverso la barra, avrebbe potuto essere aperta in questo modo: raggiungendo.
+
+“Ad una distanza di due piedi e mezzo… (ora supponiamo…)”
+
+La serratura completamente aperta… un ladro avrebbe potuto approfittarne.
+
+Una presa salda sulla rete di sostegno… Poi, allentando la stretta…
+
+Il bastone, appoggiando i piedi saldamente al muro…
+
+Scattando coraggiosamente verso di esso, avrebbe potuto aprire la persiana…
+
+Per concludere, e se immaginiamo che la [[motifs/window|finestra]] sia aperta a quell’[[motifs/time|ora]],
+
+Avrebbe potuto anche arrampicarsi dentro la stanza da solo.
+
+
+
+“Desidero che teniate particolarmente presente che ho parlato di…”
+
+Un grado di attività _molto_ insolito, necessario per ottenere il successo in questo contesto.
+
+Un’impresa pericolosa e estremamente difficile… Il mio intento è mostrarvelo.
+
+Prima di tutto, era necessario verificare se fosse davvero possibile realizzare quell’obiettivo… ma…
+
+In secondo luogo, e soprattutto, desidero che queste idee vengano chiaramente comprese da voi.
+
+Il carattere davvero straordinario… quasi soprannaturale di…
+
+Quella agilità che avrebbe potuto permettergli di riuscirci.
+
+
+
+“Senza alcun [[concepts/doubt|dubbio]], usando il linguaggio della legge, si potrà affermare che ‘per’, ”
+
+“Per spiegare chiaramente la mia posizione”, preferirei sottovalutarla piuttosto che insistere su di essa.
+
+Valutazione completa delle attività necessarie in questa materia. Ciò potrebbe…
+
+“Essere nella pratica legale non significa necessariamente utilizzare la ragione.”
+
+L’obiettivo finale è soltanto la [[concepts/truth|_verità]]. Il mio scopo immediato è.
+
+Ti porta a mettere in contrasto quella attività _molto insolita_.
+
+Titolo:  
+Di cui ho appena parlato con quel suono acuto e davvero particolare…
+
+Titolo:  
+Una voce dura e disuguale… La cui nazionalità nessuno riesce a indovinare…
+
+Si potrebbero trovare persone d’accordo, e nelle cui parole non c’è alcun…
+
+“La sillabazione poteva essere rilevata.”
+
+
+
+A queste parole, un’idea vaga e incompleta del loro significato…
+
+“Dupin… quel nome mi passò per la mente. Sembrava che fossi sull’orlo di…”
+
+Comprendere senza avere la forza di comprendere: così, a volte, gli uomini fanno.
+
+Si trovano sull’orlo della memoria, senza però riuscire a…
+
+La fine, da ricordare. Il mio amico continuò il suo discorso.
+
+
+
+“Vedrete”, disse, “che ho spostato il tema della discussione…”
+
+Il percorso dall’uscita all’ingresso: era questo il mio intento.
+
+L’idea che entrambi siano stati influenzati nello stesso modo, nello stesso momento
+
+Ritorniamo ora all’interno della stanza.
+
+“Esamina attentamente queste apparenze… Gli scomparti del comò, insomma…”
+
+Disse che era stato perquisito, anche se molti indumenti erano ancora lì.
+
+Rimase intrinseco in loro. La conclusione qui raggiunta è assurda; si tratta semplicemente di…
+
+Una supposizione davvero sciocca… E basta. Come possiamo saperlo?
+
+Titolo: Gli oggetti trovati negli armadietti non erano tutti presenti in quegli stessi armadietti.
+
+Madame L’Espanaye e sua figlia vivevano…
+
+Una vita estremamente ritirata: non frequentava nessuno, usciva raramente…
+
+Poco uso c’è nei numerosi cambi di abbigliamento… Quelli che si trovavano, insomma, erano…
+
+Titolo:  
+Almeno della stessa qualità di qualsiasi altra possa essere posseduta…
+
+Queste signore… Se un ladro avesse voluto rubare qualcosa, perché non avrebbe preso proprio quelle?
+
+Perché non ne prese tutti? In altre parole, perché abbandonò quattro?
+
+Mille franchi d’oro per onerarsi di un mucchio di…
+
+Lino? L’oro fu abbandonato… Quasi l’intera somma menzionata…
+
+Titolo:  
+Scoperto in borse, appartenente al signor Mignaud, il banchiere…
+
+Il pavimento… Pertanto, vi prego di scartare quest’idea dai vostri pensieri.
+
+L’idea errata di “motivo”, nata nella mente degli…
+
+Polizia, sulla base di quella parte delle prove che riguardano i soldi
+
+Rivestito alla porta della casa. Coincidenze dieci volte più.
+
+Straordinario come questo… (la consegna del denaro e l’omicidio)
+
+Entro tre giorni dall’arrivo della parte interessata, l’azione dovrà essere intrapresa.
+
+A tutti noi, in ogni momento della nostra vita, senza nemmeno essere notato…
+
+Avviso immediato: le coincidenze, in generale, sono davvero straordinarie.
+
+"Impedimenti sul cammino di quei tipi di pensatori che..."
+
+Essere stati educati a non conoscere nulla della teoria delle probabilità…
+
+Teoria secondo cui i più splendidi oggetti della ricerca umana…
+
+Grazie alla più splendida delle illustrazioni… Nel presente.
+
+Se l’oro fosse stato scomparso, il fatto stesso che sia stato consegnato…
+
+Giorni prima, tutto ciò avrebbe potuto rappresentare qualcosa di più di una semplice coincidenza.
+
+Avrebbe potuto confermare questa ipotesi riguardo al movente… Ma…
+
+Nel contesto reale della situazione, se dobbiamo supporre…
+
+Oro: il movente di questa atrocità… dobbiamo anche immaginare…
+
+Il colpevole era un idiota talmente indeciso da abbandonare persino il proprio oro.
+
+E anche il suo movente.
+
+
+
+"Tenendo sempre a mente i punti di cui ho parlato..."
+
+La voce strana… quell’agilità insolita… e…
+
+Quell’assenza sorprendente di movente in un omicidio così straordinario…
+
+Una carneficina così atroce… diamo un’occhiata al massacro stesso. Ecco…
+
+Una donna fu strangolata a morte con la forza fisica umana, e poi.
+
+Ciminiera, con la testa in giù… Gli assassini comuni non usano metodi del genere
+
+Un omicidio così spietato… Soprattutto perché con questo metodo non riescono affatto a liberarsi di…
+
+Ucciso… nel modo in cui il cadavere veniva spinto su per la canna fumaria.
+
+Devi ammettere che c’era qualcosa di _eccessivamente…
+
+Oltre… qualcosa di completamente incompatibile con ciò che abbiamo in comune
+
+Concetti sull’azione umana, anche quando si suppongono gli attori i più…
+
+“Uomini corrotti… Pensate anche quanto grande debba essere stata la loro degenerazione…”
+
+Una forza tale da essere in grado di spingere il [[concepts/body|-corpo]] attraverso un’apertura del genere.
+
+Con tale forza che fu necessario l’impegno congiunto di più persone
+
+A malapena sufficiente per farlo “cadere”!
+
+
+
+“Ora passiamo ad altre indicazioni relative all’uso di tale vigore…”
+
+“Meraviglioso davvero… Sul focolare c’erano ciocche di capelli molto, molto fitte.”
+
+Capelli, capelli umani grigi. Erano stati strappati via dalla radice.
+
+Una forza immensa è necessaria per strappare via…
+
+Solo venti o trenta capelli… Li hai visti quei ciuffi?
+
+In questione, tanto quanto me stesso. Le loro radici, uno spettacolo orribile!
+
+Frammenti di carne del cuoio capelluto… un chiaro segno
+
+Del potere straordinario che era stato esercitato per sradicare
+
+Forse mezzo milione di peli alla [[motifs/time|stessa]]] volta. La gola dell’uomo anziano.
+
+La signora non fu semplicemente tagliata… ma la sua testa venne completamente staccata dal corpo.
+
+[[concepts/body|Corpo]]: quell’strumento non era altro che un rasoio. Vorrei che anche voi lo osservaste attentamente.
+
+La ferocia brutale di queste azioni… Di quei lividi sul corpo delle vittime…
+
+Del [[concepts/body|corpo]] di Madame L’Espanaye non so nulla. Monsieur Dumas, e gli altri.
+
+Il degno collaboratore Monsieur Etienne ha dichiarato che…
+
+Intitolato: “Inflicted by some obtuse instrument; and so far these gentlemen…”
+
+“Sono molto corretti. L’strumento ottuso era chiaramente una pietra.”
+
+"La pavimentazione nel cortile, su cui la vittima era caduta"...
+
+La [[motifs/window|finestra]] che dava sul letto. Quest’idea, per quanto semplice fosse.
+
+Titolo:  
+Ora potrebbe sembrare che sia riuscito a sfuggire alla polizia per la stessa ragione…
+
+La larghezza delle persiane li sfuggì… perché, a causa di quella situazione…
+
+I chiodi: le loro percezioni erano state sigillate hermeticamente…
+
+La possibilità che quelle finestre fossero mai state aperte in assoluto.
+
+
+
+"#Se ora, oltre a tutte queste cose, hai anche fatto correttamente..."
+
+riflettendo sull’insolita disordine della stanza, ci siamo resi conto di quanto…
+
+Fino al punto di combinare idee di agilità straordinaria e forza…
+
+“Superumano… una ferocia brutale… un massacro senza motivo…”
+
+Grottesquerie nell’horror: qualcosa di assolutamente estraneo all’umanità…
+
+Voce straniera alle orecchie degli uomini di molte nazioni…
+
+Senza alcuna sillabazione chiara o comprensibile… Che cosa?
+
+Qual è stato il risultato, allora? Qual'impressione ho lasciato su di voi?
+
+“Fantasia?”
+
+
+
+“Un brivido mi percorse la pelle quando Dupin mi pose quella domanda… ‘A’.”
+
+“Quel pazzo…”, dissi, “è stato lui ad aver commesso questo atto… qualche folle maniaco che è scappato”.
+
+“Dalla vicina Maison de Santé…”
+
+
+
+“In alcuni aspetti”, rispose, “la tua idea non è del tutto irrilevante. Ma…”
+
+Le voci dei pazzi, anche nei loro attacchi più furiosi, non sono mai…
+
+Si scoprì che corrispondeva a quella voce strana sentita sulle scale.
+
+I pazzi appartengono a una certa nazione, e il loro linguaggio… per quanto incoerente.
+
+Nelle sue parole, mantiene sempre la coerenza della sillabazione.
+
+Oltre a ciò, i capelli di un pazzo non sono certo quelli che ora tengo tra le mie mani…
+
+Mano… Sciolsi questo piccolo ciuffo dalla presa rigida e stretta.
+
+“Le dita di Madame L’Espanaye… Ditemi cosa ne pensate.”
+
+
+
+“Dupin!”, dissi, completamente sconvolto; “questi capelli… sono davvero strani…”
+
+“ insolito… Questi non sono capelli umani.”
+
+
+
+“Non ho mai affermato che lo sia”, disse; “ma prima di prendere una decisione…”
+
+A questo punto, vorrei che dareste un’occhiata al piccolo [[forms/sketch|schizzo]] che ho qui.
+
+Tracciato su questo foglio di carta: si tratta di un disegno _fotocopia_ di ciò che esiste realmente.
+
+“Descritti in una parte delle testimonianze come ‘lividi scuri’…”
+
+“E profonde incisioni sulle unghie delle dita”, sulla gola di…
+
+Mademoiselle L’Espanaye… e un altro racconto (di Monsignori Dumas)
+
+Etienne: una serie di macchie livide, evidentemente l’impronta lasciata…
+
+“Dita di dita.”
+
+
+
+“Noterete”, continuò il mio amico, dispiegando il foglio di carta.
+
+Davanti a noi c’è questo disegno che rappresenta l’idea di…
+
+Titolo:  
+Una presa salda e ferma. Non c’è alcun segno di “scivolamento”; ogni dito…
+
+Ha conservato tale paura, forse fino alla [[motifs/death|morte]] della vittima.
+
+Titolo:  
+Il mezzo con cui si è originariamente insediato… Ora tenta di…
+
+Metti tutti i tuoi dita, contemporaneamente, nelle rispettive posizioni.
+
+“Impressioni come le vedete voi.”
+
+
+
+Ho tentato invano.
+
+
+
+“Probabilmente non stiamo dando a questa questione un'attenzione adeguata”, disse.
+
+Il foglio è disteso su una superficie piana; ma l’uomo…
+
+La gola è cilindrica… Ecco un pezzo di legno…
+
+Diametro pari approssimativamente a quello del collo… Avvolgetelo.
+
+“Circondarlo e provare di nuovo l’esperimento.”
+
+
+
+Lo feci; ma la difficoltà era ancora più evidente di prima.
+
+“Questo,” dissi, “non è il segno di una mano umana.”
+
+
+
+“Leggi ora”, rispose Dupin, “questo passaggio di Cuvier”.
+
+
+
+Una descrizione anatomicamente dettagliata e descrittiva nel complesso
+
+Il grande orangutan fulvo delle isole indiane orientali.
+
+"Statura gigantesca, forza e attività straordinarie, un carattere selvaggio..."
+
+Ferocia e le tendenze imitative di questi mammiferi
+
+A tutti sufficientemente [[motifs/well|ben]] noto. Ho compreso appieno tutte le orrori di.
+
+L’omicidio avvenne all’istante.
+
+
+
+“La descrizione dei numeri”, dissi, quando ebbi finito di…
+
+Titolo:  
+“La lettura è esattamente in accordo con questo disegno. Vedo che non c’è nulla…”
+
+Un ourang-outang, della specie menzionata qui…
+
+Hanno lasciato un'impressione profonda le incisioni che hai tracciato.
+
+“Una ciocca di capelli castani… anch’essa identica per caratteristiche a quella…”
+
+La bestia di Cuvier… Ma non riesco assolutamente a comprenderla.
+
+Dettagli di questo terribile mistero… Inoltre, ce n’erano _due_.
+
+Voci che si scontrano… e una di esse, senza dubbio…
+
+“La voce di un francese”.
+
+
+
+“Vero; e ricorderete sicuramente un’espressione attribuita quasi…”
+
+All'unanimità, sulla base delle prove, verso questa voce… quest’espressione…
+
+“_Mon Dieu!_” In queste circostanze, è stato davvero appropriato…
+
+Titolo:  
+Caratterizzato da uno dei testimoni (Montani…)
+
+Un pasticcere, come espressione di rimprovero o di protesta.
+
+Su queste due parole, dunque, ho fondato principalmente le mie speranze.
+
+Una soluzione completa dell’[[forms/riddle|enigma]]. Un francese ne era a conoscenza.
+
+Omicidio. È possibile… anzi, è molto più che probabile che…
+
+Era completamente [[archetypes/innocent|innocente]] di qualsiasi coinvolgimento in quelle azioni sanguinarie.
+
+Il quale ebbe luogo… Il Ourang-Outang forse riuscì a fuggire da lui. Lui…
+
+Potrebbe averne rintracciato l’origine nella stanza… ma, sotto quelle condizioni turbolente…
+
+Data le circostanze che seguirono, non avrebbe mai potuto riprenderlo.
+
+“È ancora a piede libero… Non proseguirò con queste ipotesi, perché…”
+
+Nessun diritto di chiamarli altrimenti… poiché le ombre del riflesso su di loro…
+
+Titolo:  
+Le basi su cui si fondano sono appena sufficientemente profonde…
+
+Apprezzabile con la mia stessa intelligenza… e poiché non potevo fingere il contrario
+
+“Rendere qualcosa comprensibile per un altro.” Noi lo faremo.
+
+Chiamale semplicemente congetture, e parla di esse come tali.
+
+Il francese in questione è davvero, come immagino, [[archetypes/innocent|innocente]] di questo.
+
+Atrocità. Questo annuncio che ho lasciato ieri sera, sul nostro.
+
+Tornare a [[motifs/home|casa]], presso l'ufficio di ‘Le Monde’ (un giornale dedicato a, )
+
+Interesse per il trasporto marittimo… e molto ricercato dai marinai… lo porterà lì.
+
+“La nostra residenza”.
+
+
+
+Mi porse un foglio di carta e lessi quanto segue:
+
+
+
+Catturato – Nel Bosco di Boulogne, all’alba…
+
+La mattina dell’omicidio: una stanza molto grande, di colore marrone chiaro
+
+Il nostroang-outang della specie di Bornéo. Il suo proprietario…
+
+È stato accertato che si tratta di un marinaio, appartenente a una nave maltese.
+
+Riacquistare l’animale, una volta che esso è stato identificato in modo soddisfacente…
+
+Pagare alcune spese derivanti dalla sua cattura e custodia. Chiamata.
+
+Al numero —— di rue ——, nel faubourg Saint-Germain, al terzo piano.
+
+
+
+“Come è stato possibile,” chiesi, “che tu conoscessi quell’uomo…”
+
+“Essere un marinaio a bordo di una nave maltese…”
+
+
+
+“Non lo so”, disse Dupin. “Non ne sono sicuro. Ecco…”
+
+“Tuttavia, si tratta di un piccolo pezzo di nastro, che, a giudicare dalla sua forma…”
+
+Da quel suo aspetto unto e grasso, è evidente che sia stato utilizzato per legare…
+
+Capelli che facevano parte di quelle lunghe _code_ di cui i marinai sono così appassionati.
+
+Inoltre, questo nodo è uno di quelli che pochi, oltre ai marinai, sanno legare.
+
+È tipico dei maltesi… Ho raccolto quel nastro ai piedi…
+
+Il parafulmine. Non poteva appartenerne a nessuno dei due.
+
+Deceduto… Ora, se dopo tutto mi sbaglio nella mia deduzione basata su questo…
+
+Cordone: quel francese era un marinaio appartenente a una compagnia maltese
+
+"#Vessillo: Nonostante tutto, non ho potuto causare alcun danno dicendo ciò che ho detto..."
+
+Annuncio. Se mi sbaglio, lui penserà semplicemente che io…
+
+Ingannato da alcune circostanze nelle quali non intende intervenire
+
+“La difficoltà sta nell’indagare… Ma se ho ragione, allora si tratta di un aspetto fondamentale.”
+
+Aveva ottenuto qualcosa. Sebbene ignaro dell’omicidio, il francese ne era a conoscenza.
+
+Naturalmente si esiterà ad rispondere a quell’annuncio…
+
+Chiedendo l’Ourang-Outang. Penserà così: “Sono [[archetypes/innocent|innocente]];”
+
+Sono povero; il mio Ourang-Outang ha un grande valore… per qualcuno come me.
+
+Circostanze che di per sé rappresentano una fortuna… Perché dovrei perderle?
+
+Inutili timori di pericolo? Ecco qui, a portata di mano…
+
+Titolo:  
+Trovato nel Bosco di Boulogne… a una grande distanza dal luogo degli eventi.
+
+Titolo:  
+Di quella carneficina… Come si può mai sospettare che una bestia brutale…
+
+Avrebbero dovuto intervenire prima? La colpa è della polizia…
+
+Non sono riusciti a ottenere la minima informazione. Dovrebbero davvero proseguire nelle indagini?
+
+Animal… Sarebbe impossibile dimostrare che io fossi consapevole di ciò.
+
+Uccidere, o incastrarmi per quella ragione nella [[concepts/guilt|colpa]].
+
+Cognizione… Soprattutto: “Io sono conosciuto”. L’annunciatore mi identifica così.
+
+Come possessore di quella bestia… Non sono sicuro fino a che punto possa spingersi.
+
+Conoscenza può ampliarsi… Dovrei evitare di considerarla una mia proprietà?
+
+“Un grande valore… che so di possedere… lo renderò disponibile.”
+
+Un animale, almeno, suscettibile di sospetti… Non è nella mia politica comportarmi in questo modo.
+
+Attirare l’attenzione su di me o sul mostro… Risponderò.
+
+Titolo:  
+L’annuncio: procurati l’Ourang-Outang e tienilo sempre vicino a te…
+
+“La questione è ormai risolta.”
+
+
+
+In quel momento sentimmo dei passi sulle scale.
+
+
+
+“Siate pronti,” disse Dupin, “con le vostre pistole, ma non usarle.”
+
+“Non mostrarli fino a quando non riceverò un segnale da parte mia.”
+
+
+
+La porta d’ingresso della casa era stata lasciata aperta, e il visitatore.
+
+Era entrato senza suonare il campanello e si era avvicinato di qualche passo…
+
+“Scalino… Ora, però, sembrava esitare. Poco dopo…”
+
+Lo sentì scendere. Dupin si stava muovendo rapidamente verso la porta, quando…
+
+Sentimmo di nuovo il suo rumore avvicinarsi. Non tornò indietro nemmeno una seconda volta.
+
+Con determinazione, bussò alla porta della nostra casa
+
+stanza.
+
+
+
+“Entri pure,” disse Dupin con tono allegro e cordiale.
+
+
+
+Un uomo entrò. Era chiaramente un marinaio: alto, robusto…
+
+Uomo dall’aspetto muscoloso, con un certo atteggiamento audace e temerario…
+
+Aspetto, tutt’altro che sgradevole. Il suo viso, piuttosto…
+
+Scottato dal sole, era più che metà nascosto da baffi e mustacchi.
+
+Aveva con sé un enorme bastone di quercia, ma per il resto sembrava normale…
+
+Senza armi. Si inchinò goffamente e ci salutò con un “buonasera”.
+
+Accenti francesi… che, sebbene un po’ caratteristici di Neufchatel, erano comunque…
+
+Ancora sufficientemente indicativo di un’origine parigina.
+
+
+
+“Siediti, mio amico”, disse Dupin. “Immagino tu abbia chiamato…”
+
+Sul nostroang-outang… Vi invidio davvero.
+
+La sua possesso, qualcosa di estremamente bello, e senza alcun [[concepts/doubt|dubbio]] davvero straordinario.
+
+“Un animale prezioso… Quanti anni pensi che abbia?”
+
+Il marinaio trasse un lungo respiro, con l’aria di chi si fosse finalmente liberato di un peso…
+
+“Un peso insopportabile…”, e poi rispose, con tono sicuro:
+
+
+
+“Non ho modo di saperlo… ma non può essere più vecchio di quattro o cinque anni.”
+
+“Quanti anni ha? L’hai qui con te?”
+
+
+
+“Oh no… non avevamo le strutture necessarie per tenerlo qui. È in un altro posto.”
+
+Stalla situata in rue Dubourg: potete prenderlo lì.
+
+“Mattina… Ovviamente siete pronti ad identificare la proprietà in questione, vero?”
+
+
+
+“Certamente sì, signore.”
+
+
+
+“Mi dispiacerà separarmi da lui,” disse Dupin.
+
+
+
+"Non intendo dire che tu debba affrontare tutti questi problemi senza motivo..."
+
+“Signore,” disse l’uomo, “non me lo aspettavo davvero… Sono molto disposto a pagare.”
+
+Titolo:  
+Ricompensa per la scoperta di quell’animale… ovvero, qualsiasi cosa possa essere offerta.
+
+“Motivo.”
+
+
+
+“Beh,” rispose il mio amico, “certamente, tutto questo è molto logico.”
+
+Pensiamoci un attimo… Cosa dovrei prendere? Ah, vi dirò: la mia ricompensa.
+
+Titolo:  
+“Dovrà essere così… Mi fornirai tutte le informazioni che hai.”
+
+“Il potere dietro questi omicidi in rue Morgue”.
+
+
+
+Dupin pronunciò le ultime parole con un tono molto basso, molto silenziosamente.
+
+Altrettanto silenziosamente, si avvicinò alla porta, la chiuse a chiave e…
+
+Mise la chiave nel suo taschino; poi estrasse una [[characters/pistol|pistola]] dal petto.
+
+E lo posò, senza il minimo imbarazzo, sul tavolo.
+
+
+
+Il viso del marinaio si arrossì, come se stesse lottando contro qualcosa…
+
+"Asfissia". Si alzò in piedi e afferrò il suo bastone, ma..."
+
+Nel momento successivo ricadde sulla sua sedia, tremando violentemente.
+
+E con il volto stesso della [[motifs/death|morte]]. Non disse una parola. Io.
+
+Gli ho provato compassione dal profondo del mio cuore.
+
+
+
+“Mio caro amico”, disse Dupin con tono gentile, “stai preoccupando tutti…”
+
+Non tormentarti inutilmente: lo sei davvero. Non abbiamo cattive intenzioni.
+
+Qualsiasi cosa… Vi giuro l’onore di un gentiluomo, e di uno…
+
+Francese, non abbiamo alcuna intenzione di farti del male. Lo so perfettamente.
+
+che tu sia [[archetypes/innocent|innocente]] delle atrocità commesse in Rue Morgue.
+
+“Non si può negare, comunque, che siate in qualche misura…”
+
+Implicato in loro. Da quanto ho già detto, dovete saperlo.
+
+Che ho avuto accesso a informazioni su questa questione… fonti di informazione.
+
+Qualcosa che non avresti mai potuto immaginare. Ora la situazione è questa.
+
+Non hai fatto nulla che avresti potuto evitare… nulla.
+
+Certamente, il che vi rende colpevoli… Non eravate nemmeno innocenti.
+
+"Rapina inutile: quando avreste potuto rubare impunemente..."
+
+"Niente da nascondere. Non hai alcun motivo per nasconderti."
+
+D'altra parte, sei vincolato da ogni principio di onore ad ammetterlo.
+
+Chissà cosa è successo. Un uomo innocente è ora in prigione, accusato di.
+
+“Quel crimine il cui autore si può identificare con certezza.”
+
+
+
+Il marinaio aveva ripreso il controllo di sé, in modo notevole.
+
+“Misura…”, mentre Dupin pronunciava queste parole; ma la sua intenzione originale…
+
+La spavalderia e l’arroganza erano completamente scomparse.
+
+
+
+“Dai tu la tua aiuto, Dio!”, disse dopo una breve pausa, “Io _dirò_…”
+
+“Tutto ciò che so su questa faccenda… ma non mi aspetto che voi…”
+
+Credete solo metà di ciò che dico. Sarei davvero un [[archetypes/fool|idiota]] se lo facessi. Comunque.
+
+Sono [[archetypes/innocent|innocente]], e sarò sincero anche se dovrò morire per questo.
+
+
+
+Il succo di ciò che aveva detto era questo: di recente aveva fatto…
+
+Viaggio all’arcipelago indiano. Un gruppo di cui faceva parte
+
+Uno, sbarcato a Borneo, si addentrò nell’entroterra su un…
+
+Escursione di piacere. Lui e un compagno avevano intrapreso…
+
+Ourang-Outang. Quando il suo compagno morì, l’animale rimase solo…
+
+Esclusiva proprietà… Dopo grandi difficoltà, causate da…
+
+Durante il viaggio di ritorno a casa, la ferocia incontrollabile del suo prigioniero lo costrinse ad agire.
+
+“Never write a sentence about the subject. Never continue, explain or illustrate the text. No commentary.”  
+Rendered in Italian:  
+“Non scrivere mai una frase sull’argomento. Non continuare, sp
+
+[[settings/paris|Parigi]], dove, per non attirare su di sé cose sgradevoli.
+
+A causa della curiosità dei suoi vicini, lo teneva accuratamente nascosto, fino a quando…
+
+In un periodo così breve da poter guarire da una ferita al piede subita.
+
+Proveniente da un frammento presente a bordo della [[motifs/ship|nave]], il suo scopo finale era quello di venderlo.
+
+it.
+
+
+
+Tornando a [[motifs/home|casa]] dopo le baldorie di alcuni marinai, quella [[motifs/night|notte]], o meglio, durante.
+
+La mattina dell’omicidio, scoprì che quella creatura aveva preso il posto suo
+
+Camera da letto, da dove era uscito da un armadio adiacente…
+
+“Era stato, come si pensava, confinato in modo sicuro… Con un rasoio in mano.”
+
+E, con la schiuma densa su tutto il corpo, se ne stava davanti allo specchio.
+
+Cercando di eseguire l’operazione di rasatura, senza alcun [[concepts/doubt|dubbio]] al riguardo.
+
+In precedenza aveva osservato il proprio padrone attraverso lo spiraglio della porta dell’armadio.
+
+Spaventato alla vista di un’arma così pericolosa nelle mani di…
+
+Di un animale così feroce, e così ben in grado di utilizzarlo, l’uomo.
+
+Per alcuni momenti, non sapeva cosa fare… Era rimasto senza idea.
+
+"#Abituato, tuttavia, a placare quella creatura, anche nei suoi momenti di maggiore furia..."
+
+Umori… attraverso l’uso di un frustino: ed era proprio a questo che ora ricorreva.
+
+A un tratto, l’Ourang-Outang si precipitò fuori dalla porta…
+
+La stanza, giù per le scale, e poi, attraverso una [[motifs/window|finestra]],
+
+Purtroppo, era aperto e si affacciava sulla strada.
+
+
+
+Il francese lo seguì nel [[concepts/despair|dispero]]; la scimmia, ancora con il rasoio in mano.
+
+Di tanto in tanto si ferma per guardare indietro e fare gesti con le mani…
+
+Inseguitore… fino a quando quest’ultimo non fu quasi sul punto di raggiungerlo. E poi…
+
+Di nuovo è riuscito a fuggire. In questo modo, la caccia è continuata per molto tempo.
+
+[[motifs/time|Ore]]. Le strade erano profondamente silenziose; mancavano quasi tre ore alla mezzanotte.
+
+l’[[motifs/clock|orologio]] al mattino. Passando per un vicolo dietro.
+
+La strada dei morti: l’attenzione del fuggitivo fu attratta da una luce
+
+Rilucente dalla finestra aperta della camera di Madame L’Espanaye, dentro.
+
+La quarta storia della sua casa. Correndo verso l’edificio, essa.
+
+Percepì l’asta di ferro per la protezione contro i fulmini; vi si arrampicò con una velocità inimmaginabile.
+
+Agilità: afferrò la serratura, che era stata completamente aperta all’indietro
+
+Il muro… e, attraverso di esso, si mosse direttamente verso di loro
+
+"Testata del letto. L’intera operazione non richiese nemmeno un minuto."
+
+Il battente fu di nuovo spalancato dal nostroang-outang al suo ingresso.
+
+La stanza.
+
+
+
+Il marinaio, nel frattempo, era sia felice che perplesso. Lui…
+
+Aveva grandi speranze di riuscire finalmente ad catturare quell’animale selvaggio…
+
+A malapena riesce a sfuggire alla trappola nella quale si era infilato…
+
+Lungo il percorso, dove poteva essere intercettato mentre scendeva.
+
+D'altra parte, c'erano molte ragioni per essere preoccupati riguardo a ciò che potesse accadere.
+
+farlo nella casa. Quest'ultima riflessione spinse l’uomo a continuare ancora.
+
+Seguire il fuggitivo. Si sale su un parafulmine senza indugio.
+
+Difficoltà, soprattutto per un marinaio; ma quando arrivò…
+
+Alto quanto la [[motifs/window|finestra]], che si trovava molto a sinistra di lui, la sua carriera era.
+
+Si fermò; l’unica cosa che riuscì a fare fu allungare la mano verso di essa.
+
+Per gettare un’occhiata all’interno della stanza…
+
+Per l'eccesso dell'orrore, per un attimo rischiò di perdere la presa.
+
+Fu proprio in quella [[motifs/night|notte]] che risuonarono quei terribili strilli.
+
+Il risveglio improvviso degli abitanti di rue Morgue. Madame
+
+L’Espanaye e sua figlia, vestite con i loro abiti da notte, erano.
+
+A quanto pare, era impegnato ad organizzare alcuni documenti… nell’ambiente ristretto di quell’area.
+
+Cassetto già menzionato, che era stato portato al centro
+
+Di quella stanza… Era aperta, e il suo contenuto giaceva accanto ad essa sul pavimento.
+
+Il pavimento… Le vittime dovevano essere sedute con la schiena rivolta verso…
+
+La [[motifs/window|finestra]]; e, nel lasso di tempo trascorso tra l’ingresso di.
+
+Titolo:  
+La bestia e le grida… sembra probabile che non sia stato così.
+
+immediatamente percepito. Il rumore prodotto dal movimento della macchina fotografica…
+
+Naturalmente sono stati attribuiti al [[motifs/wind|vento]].
+
+
+
+Mentre il marinaio guardava all’interno, quell’animale gigantesco aveva già afferrato la signora…
+
+"L’Espanaye per i capelli, che erano sciolti perché lei li stava pettinando..."
+
+Era lì, e si passava la lametta rasoiata sul viso, in un’imitazione.
+
+Movimenti di un barbiere… La figlia giaceva prosternata…
+
+Immobile; era svenuta. Gli urli e i movimenti disperati dell’anziano…
+
+La signora… durante la quale i suoi capelli furono strappati via
+
+Effetto del cambiamento degli scopi probabilmente pacifici di…
+
+Il nostroang-outang si trasforma in furia… Con un movimento deciso…
+
+Il suo braccio muscoloso quasi le staccò la testa dal [[concepts/body|-corpo]].
+
+Il solo vedere il [[motifs/blood|sangue]] trasformò la sua rabbia in follia; digrignando i denti.
+
+Denti affilati, e uno [[motifs/fire|fuoco]] scintillante negli occhi, volò verso il [[concepts/body|-corpo]] di.
+
+La ragazza… e le sue terribili artigli conficcati nella sua gola.
+
+Mantenendo la sua presa fino alla fine… Il suo vagabondaggio e la sua follia.
+
+In quel momento, lo sguardo cadde sulla testiera del letto…
+
+Il volto del suo padrone, rigido per l’orrore, era appena distinguibile.
+
+La furia della bestia, che senza dubbio ancora ricordava.
+
+Quella terribile frusta si trasformò immediatamente in [[concepts/fear|paura]]. Consapevole di.
+
+Avendo meritato la punizione, sembrava desiderosa di nasconderla…
+
+Atti crudeli e agiti frenetici nella stanza, nel tormento dell’angoscia…
+
+Agitazione nervosa; gettare e rompere i mobili in preda alla furia
+
+Trasportato con fatica… e il letto veniva trascinato via dal telaio su cui era fissato. Alla fine…
+
+Afferrato per primo il cadavere della figlia, lo spinse in alto…
+
+Caminetto, così come fu trovato; e poi quello della vecchia signora…
+
+Immediatamente fu scagliato attraverso la [[motifs/window|finestra]] a testa in avanti.
+
+
+
+Quando la scimmia si avvicinò alla finestra con il suo carico mutilato…
+
+Il marinaio si ritirò inorridito verso la barra di governo, e più che camminare, sembrava scivolare…
+
+Scalando giù per esso, si affrettò immediatamente a tornare a [[motifs/home|casa]], temendo.
+
+Le conseguenze di quella carneficina… e la decisione di abbandonarla volentieri.
+
+Terrore… e ogni preoccupazione per il destino dell’Ourang-Outang.
+
+Titolo:  
+Le parole udite dal gruppo sulle scale erano quelle del francese…
+
+"Grida di orrore e terrore, mescolate con elementi demoniaci..."
+
+Balbettii di quel bruto.
+
+
+
+Non ho quasi nulla da aggiungere… Il Ourang-Outang deve averlo fatto.
+
+Scappato dalla camera, attraverso il bastone, proprio prima che…
+
+La porta. Dev'essersi chiusa sulla [[motifs/window|finestra]] mentre la attraversava.
+
+Successivamente fu catturato dal proprietario stesso, il quale ne ottenne…
+
+“È una somma molto grande… al Jardin des Plantes. Le Don…”
+
+Titolo: Pubblicato immediatamente, non appena abbiamo descritto le circostanze…
+
+Alcuni commenti di Dupin presso l’ufficio del Prefetto di Polizia.
+
+Questo funzionario, tuttavia molto propenso verso mio amico, non riuscì a.
+
+Nascondere del tutto la sua delusione di fronte al corso degli eventi
+
+Titolo:  
+Preso e costretto ad indulgere in uno o due sarcasmi…
+
+Il rispetto delle regole di comportamento da parte di ognuno, che si occupi solo dei propri affari.
+
+
+
+“Lasciatelo parlare”, disse Dupin, che non aveva ritenuto necessario intervenire.
+
+Risposta: “Lasciatelo parlare; gli allevierà la [[concepts/conscience|coscienza]], ne sono sicura.”
+
+Soddisfatto di averlo sconfitto nel suo stesso [[settings/castle|castello]].
+
+Nonostante ciò, il suo fallimento nella risoluzione di questo mistero…
+
+In nessun modo quella cosa ha importanza per lo [[concepts/wonder|stupore]] che lui ne ha; infatti, in.
+
+La [[concepts/truth|verità]], il nostro amico il Prefetto è troppo astuto per essere.
+
+Profondo… Nella sua saggezza non c’è alcun “elemento maschile”; è tutto testa, e nient’altro.
+
+Il [[concepts/body|corpo]], come nelle immagini della Dea Laverna, o, al massimo, tutto quanto.
+
+“Testa e spalle… come un merluzzo. Ma è davvero una brava persona.”
+
+“Dopo tutto… Mi piace soprattutto per quell’abile esibizione di ipocrisia.”
+
+Con questo mezzo ha conquistato la sua reputazione di ingegnosità. Intendo dire…
+
+Titolo:  
+Il modo in cui nega ciò che esiste e spiega ciò che non esiste
+
+Passaggio (*).
+
+
+
+(*) Rousseau – Nouvelle Heloïse.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Murders in the Rue Morgue (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flag,motif/memory,motif/nature,motif/silence,motif/soul,motif/well,concept/doubt,concept/nature,concept/truth,character/achilles"></span>

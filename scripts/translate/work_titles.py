@@ -146,4 +146,102 @@ TITLES = {
         "La Locanda Volante — Capitolo 22: LA CHIMICA DEL SIGNOR CROOKE",
     "Authors/Chesterton/Atomized/Spice_Of_Life/Spice_Of_Life.md":
         "Il sale della vita",                                   # Spice Of Life
+
+    # --- Gli ultimi quattro libri di Chesterton che restavano non assemblati. Nessuno dei
+    # quattro ha una maggioranza fra i suoi figli: le foglie rendono il nome dell'opera in
+    # sei modi diversi (Well_And_Shallows) o non lo traducono affatto (GKC_Come_to_Think),
+    # percio' la derivazione dai figli si rifiuta -- giustamente -- di inventare il titolo.
+    # Dove una resa prevale nettamente e' quella che vince; dove non prevale nulla il titolo
+    # e' scelto qui.
+    "Authors/Chesterton/Atomized/Well_And_Shallows/Well_And_Shallows.md":
+        "[[Well|Il pozzo]] e le secche",                        # [[Well]] And Shallows
+    "Authors/Chesterton/Atomized/Poet_and_Lunatics/Poet_and_Lunatics.md":
+        "Il poeta e i lunatici",                                # Poet and Lunatics
+    "Authors/Chesterton/Atomized/Tremendous_Trifles/Tremendous_Trifles.md":
+        "Tremende inezie",                                      # Tremendous Trifles
+    # Come Spice_Of_Life e misc: l'H1 inglese e' lo slug dell'atomizzatore, non un titolo, e
+    # tutti e 53 i figli lo ricopiano tale e quale. L'opera e' "Come to Think of It" (1930).
+    "Authors/Chesterton/Atomized/GKC_Come_to_Think/GKC_Come_to_Think.md":
+        "A pensarci bene",                                      # GKC Come to Think
+
+    # --- Due titoli che la derivazione dai figli perde perche' il titolo del libro non e'
+    # il titolo di nessuna sua parte. In entrambi i casi l'italiano esistente e' migliore
+    # dell'assemblato e va conservato: e' l'assemblaggio che deve adeguarsi, non il titolo.
+    # Endymion: il sottotitolo sta solo nell'H1 del file-libro ("A Poetic Romance"), le
+    # sezioni si chiamano Book I..IV, quindi l'assemblatore ricostruiva il solo "Endymion".
+    "Authors/Keats/Long/Endymion/Endymion.md":
+        "[[Endymion]] — Un [[Romance|romanzo]] poetico",        # Endymion - A Poetic Romance
+    # La Rima: l'H1 inglese e' in maiuscolo, e in maiuscolo sta l'italiano gia' pubblicato;
+    # derivandolo dai figli usciva in minuscolo e divergeva a ogni riassemblaggio.
+    "Authors/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/The_Rime_of_the_Ancient_Mariner.md":
+        "LA RIMA DEL [[Ancient Mariner|VECCHIO MARINAIO]]",     # THE RIME OF THE ANCIENT MARINER
+
+    # --- Gli ultimi ventidue aggregati rimasti senza titolo derivabile. Le cause sono sempre
+    # le stesse tre: la raccolta di racconti, i cui capitoli portano solo il titolo del singolo
+    # racconto (tutto Conan Doyle qui sotto, e On Everything); il romanzo i cui capitoli si
+    # limitano a numerarsi; e l'H1 che e' lo slug dell'atomizzatore invece di un titolo (i
+    # quattro saggi di Chesterton). La convenzione di casing e' quella gia' in uso per Conan
+    # Doyle -- maiuscole inglesi rese in tondo italiano ("Il cane dei Baskerville", "Il segno
+    # dei quattro"): il maiuscolo di A_STUDY_IN_SCARLET resta l'unica eccezione, non il modello.
+    "Authors/Belloc/Atomized/On_Everything/On_Everything.md":
+        "Su tutto",                                             # On Everything
+    # Agnes Grey e' un nome proprio: il titolo italiano corrente lo lascia tale e quale, e i
+    # capitoli gia' tradotti scrivono "[[Agnes Grey]] — Capitolo n". Serve solo per il libro.
+    "Authors/Bronte/Atomized/Agnes_Grey/Agnes_Grey.md":
+        "[[Agnes Grey]]",                                       # [[Agnes Grey]]
+
+    # --- Chesterton: quattro saggi in cui l'H1 e' lo slug e il titolo vero sta nel corpo
+    # ("COCKNEYS AND THEIR JOKES", "LOGIC AND LAWN TENNIS", "The Shop of Ghosts", "Women in
+    # the Workplace - and at Home"). Il bersaglio del wikilink e' lo slug e va conservato, cosi'
+    # l'intero titolo italiano entra nell'alias -- uniforme per tutti e quattro.
+    "Authors/Chesterton/Atomized/cockneys/cockneys.md":
+        "[[cockneys|I cockney e le loro battute]]",             # [[cockneys]]
+    "Authors/Chesterton/Atomized/logic/logic.md":
+        "[[logic|La logica e il tennis su prato]]",             # [[logic]]
+    "Authors/Chesterton/Atomized/shop-of-ghosts/shop-of-ghosts.md":
+        "[[shop-of-ghosts|La bottega dei fantasmi]]",           # [[shop-of-ghosts]]
+    "Authors/Chesterton/Atomized/Women_in_the_Workplace/Women_in_the_Workplace.md":
+        "[[Women_in_the_Workplace|Le donne al lavoro e in casa]]",  # [[Women_in_the_Workplace]]
+
+    # --- Conan Doyle: le quattordici raccolte e i romanzi rimasti. Dove esiste un titolo
+    # italiano storico e' quello (His Last Bow circola da sempre come "L'ultimo saluto di
+    # Sherlock Holmes", che nomina Holmes dove l'inglese non lo fa); altrove la resa e' letterale.
+    "Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/HIS_LAST_BOW.md":
+        "L'ultimo saluto di Sherlock Holmes",                   # HIS LAST BOW
+    "Authors/Conan_Doyle/Atomized/MY_FRIEND_THE_MURDERER_AND_OTHER_MYSTERIES_AND_ADV/"
+    "MY_FRIEND_THE_MURDERER_AND_OTHER_MYSTERIES_AND_ADV.md":
+        "Il mio amico l'assassino e altri misteri e avventure",  # MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES
+    "Authors/Conan_Doyle/Atomized/ROUND_THE_FIRE_STORIES/ROUND_THE_FIRE_STORIES.md":
+        "Racconti attorno al fuoco",                            # ROUND THE FIRE STORIES
+    "Authors/Conan_Doyle/Atomized/SIR_NIGEL/SIR_NIGEL.md":
+        "Sir Nigel",                                            # SIR NIGEL
+    "Authors/Conan_Doyle/Atomized/THE_ADVENTURES_OF_GERARD/THE_ADVENTURES_OF_GERARD.md":
+        "Le avventure di Gerard",                               # THE ADVENTURES OF GERARD
+    "Authors/Conan_Doyle/Atomized/THE_ADVENTURES_OF_SHERLOCK_HOLMES/THE_ADVENTURES_OF_SHERLOCK_HOLMES.md":
+        "Le avventure di Sherlock Holmes",                      # THE ADVENTURES OF SHERLOCK HOLMES
+    "Authors/Conan_Doyle/Atomized/THE_CAPTAIN_OF_THE_POLESTAR_AND_OTHER_TALES/"
+    "THE_CAPTAIN_OF_THE_POLESTAR_AND_OTHER_TALES.md":
+        "Il capitano della Polestar e altri racconti",          # THE CAPTAIN OF THE POLESTAR AND OTHER TALES.
+    "Authors/Conan_Doyle/Atomized/THE_CASE_OF_MR_GEORGE_EDALJI/THE_CASE_OF_MR_GEORGE_EDALJI.md":
+        "Il caso del signor George Edalji",                     # THE CASE OF MR. GEORGE EDALJI
+    "Authors/Conan_Doyle/Atomized/THE_EXPLOITS_OF_BRIGADIER_GERARD/THE_EXPLOITS_OF_BRIGADIER_GERARD.md":
+        "Le imprese del brigadiere Gerard",                     # THE EXPLOITS OF BRIGADIER GERARD
+    "Authors/Conan_Doyle/Atomized/THE_GREEN_FLAG_AND_OTHER_STORIES/THE_GREEN_FLAG_AND_OTHER_STORIES.md":
+        "La bandiera verde e altri racconti",                   # THE GREEN FLAG AND OTHER STORIES
+    "Authors/Conan_Doyle/Atomized/THE_LAND_OF_MIST/THE_LAND_OF_MIST.md":
+        "La terra della nebbia",                                # THE LAND OF MIST
+    "Authors/Conan_Doyle/Atomized/THE_LAST_GALLEY/THE_LAST_GALLEY.md":
+        "L'ultima galea",                                       # THE LAST GALLEY
+    "Authors/Conan_Doyle/Atomized/THE_MAN_FROM_ARCHANGEL_AND_OTHER_TALES_OF_ADVENTUR/"
+    "THE_MAN_FROM_ARCHANGEL_AND_OTHER_TALES_OF_ADVENTUR.md":
+        "L'uomo di Arcangelo e altri racconti d'avventura",     # THE MAN FROM ARCHANGEL AND OTHER TALES OF ADVENTURE
+    "Authors/Conan_Doyle/Atomized/THE_RETURN_OF_SHERLOCK_HOLMES/THE_RETURN_OF_SHERLOCK_HOLMES.md":
+        "Il ritorno di Sherlock Holmes",                        # THE RETURN OF SHERLOCK HOLMES
+
+    # --- Due titoli storici in cui il bersaglio del wikilink va conservato e tradotto l'alias.
+    "Authors/Dickens/Atomized/A_Christmas_Carol/A_Christmas_Carol.md":
+        "[[carol|Canto]] di Natale",                            # A Christmas [[carol|Carol]]
+    "Authors/Poe/Atomized/The_Thousand_And_Second_Tale_of_Scheherazade/"
+    "The_Thousand_And_Second_Tale_of_Scheherazade.md":
+        "[[The Thousand-And-Second Tale of Scheherazade|Il millesimosecondo racconto di Sheherazade]]",
 }

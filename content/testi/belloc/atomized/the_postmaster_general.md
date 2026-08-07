@@ -2477,6 +2477,2470 @@ John Williams hesitated a moment, rose at last, and did not make for the door. H
 And at dusk of that day it was the Sabbath.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Indice
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+XI
+
+XII
+
+XIII
+
+XIV
+
+XV
+
+XVI
+
+XVII
+
+XVIII
+
+Il frontespizio originale: Il Nobile Onorevole Wilfrid Delescue Halterton, membro del Parlamento, nato il 14 gennaio 1905. Padre: John Halterton di Reldwell Hall, Essex. Madre: L’onorevole Sarah Woolley. Studiò a Eton e al Merrion College di Cambridge, conseguendo un 3° posto con lode in Botanica nel 1936. Fu Postmaster-General durante il secondo mandato della signora Boulger (1960). Hobby: il golf. Single. Nessun nome né cognome noti.
+
+Pagina del titolo della prima edizione
+
+TO
+
+Oriana Haynes
+
+I
+
+WILFRID HALTERTON, Postmaster-General durante il secondo mandato di Mrs. Boulger – ovvero nel 1960 – sedeva davanti al riscaldatore elettrico nella sala studio del suo nuovo appartamento, situato all’ultimo piano del nuovo edificio Clarence, con vista su Hyde Park dal lato nord. Stava aspettando una visita: si trattava di McAuley, il più giovane dei fratelli McAuley, James (non Andrew, il procuratore generale). L’appuntamento era stato fissato per le cinque di quel pomeriggio di martedì, in modo da lasciare abbastanza tempo al ministro per raggiungere quell’appartamento situato a nord del parco, dopo le domande della Camera dei Comuni. Non c’erano altre questioni urgenti da affrontare; quindi avrebbe potuto liberarsi nel tardo pomeriggio.
+
+Era un uomo alto, dall’aspetto paziente, di cinquantacinque anni; aveva il viso piuttosto preoccupato, lunghi mustacchi grigi e lassi che pendevano, e un’espressione leggermente ansiosa sul volto. Quella sera sembrava ancora più ansioso del solito mentre sedeva lì. Temeva quasi quell’intervista che lo aspettava, ma doveva comunque affrontarla, e ne valeva la pena. Si trattava, naturalmente, di una questione legata alle grandi questioni pubbliche che un Capo Postale ha il compito di gestire. Riguardava un contratto, e il suo coinvolgimento in esso era sufficientemente soddisfacente.
+
+Eppure era nervoso. James McAuley – “J.”, come lo chiamavano in città – apparteneva a quel tipo di persone che Wilfrid Halterton aveva imparato a conoscere bene durante la sua lunga esperienza nella vita pubblica; tuttavia, quella sua inquietudine era qualcosa che non riusciva mai del tutto a controllare. Gli uomini decisivi, quelli che sapevano già cosa avrebbero detto, che avevano tutte le loro forze pronte all’uso e le risorse necessarie a disposizione. Sì, era nervoso. Anche se negli ultimi mesi si era stretto una certa intimità con James McAuley, da quando il Partito Socialista era tornato al suo normale mandato sotto la guida di Mrs. Boulger, che lo aveva guidato per tanto tempo. Il Partito Anarchico, naturalmente, era di nuovo in opposizione; la loro figura più influente, sebbene non la loro leader, era Lady Caroline Balcombe, moglie del banchiere “Posh” Balcombe, una figura di spicco nell’ambiente anglo-americano.
+
+James McAuley, “J.”, essendo il fratello dell’Attorney-General nel governo della signora Boulger, conosceva bene entrambi i partiti politici e era una persona di rilievo; un finanziere che svolgeva un ruolo fondamentale in numerosi importanti affari commerciali.
+
+Da una stretta amicizia con un uomo del genere non potrebbe derivare nulla di negativo; inoltre, Wilfrid Halterton non aveva motivo di preoccuparsi per l’intervista imminente, almeno per quanto riguardava i risultati che essa avrebbe portato per lui. Aveva già concordato tutto con “J.”, e non restava altro da fare se non rileggere e firmare la lettera su cui avevano convenuto.
+
+La televisione, che per molto tempo era stata considerata un’aspettativa, poi un esperimento, infine un semplice giocattolo, negli ultimi dieci anni si è sempre più avvicinata alla dimensione di una proposta commerciale concreta. La televisione funzionava già a brevi distanze; sembrava essere giunta appena al punto in cui diventasse praticabile anche su lunghe distanze e presentasse un alto valore commerciale.
+
+Poco prima che gli Anarchici se ne andassero, circa sei mesi prima delle elezioni destinate a questo scopo, le condizioni erano già favorevoli per l’istituzione di un monopolio televisivo; si era anche parlato di crearlo, ma si ritenne meglio lasciare la decisione all’amministrazione socialista che sarebbe subentrata, poiché avrebbe avuto tutto il tempo necessario per organizzare questo nuovo servizio pubblico.
+
+Naturalmente, il Servizio di Televisione, quando fosse in condizioni di funzionare correttamente, dovrebbe essere sotto il controllo del Governo. Dovrebbe inoltre operare in collaborazione con l’Ufficio Postale; sarebbe l’Ufficio Postale a decidere quale delle due principali compagnie concorrenti dovesse ottenere il monopolio.
+
+Nessuno dei due gruppi aveva la minima obiezione al Controllo Pubblico. Questo veniva riconosciuto come una necessità – e, cosa ancora più importante per le persone pubbliche, come un dovere. Pertanto, ciascun gruppo aveva negoziato con i funzionari permanenti dell’Ufficio Postale, in attesa della decisione finale del proprio capo politico, su basi concordate con le autorità: la compagnia che avrebbe gestito in monopolio il nuovo sistema di televisione avrebbe ricevuto un sussidio, il diritto di fissare da sola i tariffe, di noleggiare apparecchiature a proprio piacimento e di stabilire qualsiasi costo ritenesse opportuno per l’installazione; inoltre, il Tesoro avrebbe garantito la compensazione dei eventuali danni.
+
+Qualsiasi dei gruppi rivali riuscisse ad ottenere la gestione di questo servizio pubblico avrebbe naturalmente anche il diritto di nominare i propri dirigenti e il proprio staff di gestione, nonché di occupare tutti i posti disponibili. Infine, era prevista una legge speciale allegata al disegno di legge, che stabiliva che in caso di controversie non si potesse ricorrere ai tribunali ordinari, ma che la decisione di un funzionario dell’azienda chiamato “Arbitro” fosse definitiva. A coloro che potrebbero dissentire da questo sistema e lamentarsi che il controllo pubblico ne risulti compromesso, abbiamo una risposta ovvia: noi non siamo un popolo logico; abbiamo un talento naturale per i compromessi. Il vero criterio per valutare qualsiasi sistema non è la sua perfezione teorica, ma se funziona o meno. Questo sistema, che potremmo definire di “controllo pubblico modificato”, sicuramente funzionerebbe secondo l’unico criterio valido: la capacità di generare profitti per il monopolio che ne detiene l’esercizio.
+
+Durrant’s e Reynier’s erano i nomi popolari dei due gruppi concorrenti. Il cosiddetto “gruppo Reynier” prendeva il nome dallo schermo che utilizzavano, un’invenzione del defunto Hector Reynier, un genio riconosciuto ma morto in grande povertà. L’altro gruppo, molto più noto, era la Durrant Imperial Television Company; prendeva il nome da Durrant, l’inventore originale, che aveva recentemente perso la vita in circostanze imbarazzanti; anch’egli un genio riconosciuto. Le finanze dell’azienda erano gestite da James McAuley – per intenderci, James Haggismuir McAuley, il cui nome completo testimoniava l’elevato status della sua famiglia materna.
+
+Sia la situazione di Reynier che quella di Durrant prevedevano la produzione di strumenti privati a corto raggio per uso domestico fin dal 1953; entrambe le aziende erano ben affermate e le loro azioni avevano un valore superiore al normale. Tuttavia, quando la televisione a lungo raggio divenne una realtà – già sperimentata su distanze di quasi cento miglia e con prospettive di ulteriore espansione illimitata – si profilavano sviluppi molto più importanti. L’interesse politico e commerciale legato a questo settore ruotava attorno alla questione di quale dei due concorrenti avrebbe ottenuto il contratto e la licenza necessaria per proseguire con i propri progetti.
+
+Le azioni televisive della Durrant erano conosciute come “Billies”. Inizialmente venivano chiamate “Tells”, poi “William Tells”, quindi “Williams”; infine, Capel Court stabilì questa denominazione di “Billies”, e così rimasero. Il 3 marzo 1960, in quel martedì, le azioni da 1 sterlina costavano 23 penny e 6 centesimi, oppure 24 penny.
+
+Una decisione definitiva al riguardo era ancora attesa; tuttavia, esisteva una grande difficoltà che ostacolava tale decisione. Per quanto riguardava l’invio o la ricezione dei messaggi, non c’era molto da scegliere tra il sistema Reynier e quello di Durrant. La difficoltà principale stava nel stabilire chi, in definitiva, avrebbe dovuto possedere quel dispositivo chiamato “Dow’s Intensifier”.
+
+Il brevetto di Dow era l’unico intensificatore che si fosse rivelato efficace. Con esso si ottenevano riproduzioni abbastanza chiare. Nessuno degli altri numerosi tipi concorrenti era riuscito a risolvere, come tutti sanno, il principale problema legato all’utilizzo pratico della televisione a lunga distanza; infatti, con gli intensificatori sperimentali e insoddisfacenti allora in uso, anche se l’immagine risultava visibile, era comunque quasi indistinguibile.
+
+Durrant utilizzava, e ne parlava molto, un certo “Intensificatore di Murray”; ma si trattava solo di una farsa (dicevano le persone informate). Non funzionava, e non avrebbe mai potuto funzionare: si basava su un principio errato.
+
+Per coloro che erano in grado di giudicare, il sistema Dow’s era indispensabile. Fino ad allora Reynier aveva utilizzato l’antico intensificatore Keeling, che per sua natura non era adatto per distanze lunghe. Ma circolavano voci ovunque; anzi, molte persone autorevoli affermavano che Reynier avesse un accordo segreto che gli garantiva il brevetto Dow’s per il futuro, o comunque si poteva dare per scontato che lo avrebbe ottenuto non appena avesse ricevuto l’autorizzazione necessaria. Tuttavia, la società Dow’s (Dow, un genio riconosciuto, era morto due anni prima; le difficoltà finanziarie avevano accelerato la sua fine) sosteneva sempre di essere completamente indipendente e negava categoricamente tutto ciò che veniva detto al contrario.
+
+Tuttavia, il comitato di esperti incaricato dall’Ufficio Postale di valutare i due sistemi aveva espresso parere favorevole a quello di Reynier. Lo avevano fatto soprattutto perché erano convinti che tale sistema avrebbe portato allo sviluppo del brevetto di Dow. Erano certi che il sistema completamente diverso proposto da Murray, di cui parlava Durrant, non avrebbe mai funzionato. Solo il sistema di Dow poteva rendere praticabile la televisione a lunga distanza.
+
+Ho detto che James McAuley era alla guida del gruppo di Durrant; si potrebbe addirittura affermare che fosse lui stesso Durrant. Era il vero padrone di quel gruppo. E fu soprattutto grazie alla fiducia che le persone avevano in lui che Billies riuscì a raggiungere una posizione così elevata, nonostante il rapporto del Comitato a favore dei loro rivali. Dopotutto, quel rapporto era ancora riservato e, cosa ancora più importante, poteva essere annullato dal Segretario di Stato che dirigeva il dipartimento. Una cosa era certa: chiunque ottenesse il monopolio avrebbe avuto Dow’s al proprio servizio. Poiché Dow’s non avrebbe potuto trovare altri mercati, e il nuovo mercato sarebbe stato immenso. Anche se Reynier avesse già avuto qualche influenza o diritto di prelazione, avrebbero dovuto vendere a Durrant’s, soprattutto se quest’ultimo avesse avuto il sostegno della P.M.G.
+
+E c'era Wilfrid Halterton seduto ad aspettare James McAuley.
+
+Il Capo Postale sapeva che quel McAuley, così diretto e risoluto nei suoi modi, sarebbe venuto a presentargli una proposta concreta; riguardo a quella proposta, Halterton era già stato contattato in diverse occasioni fin dai primi giorni di quella sessione, e quell’incontro rappresentava l’ultima e decisiva tappa di quel processo. Glielo aveva detto chiaro quando si erano incontrati soltanto ventiquattro ore prima nella stanza del Capo Postale alla Camera dei Comuni, e avevano concordato tutti i dettagli oralmente. Eppure quel statista esitava ancora, temendo ciò che stava per accadere. Era ancora in quello stato d’animo quando sentì il rumore dell’ascensore, una voce discreta alla porta che chiedeva se Halterton fosse dentro, e i passi leggeri ma decisi del suo visitatore nel corridoio.
+
+Si alzò per accogliere quella figura familiare non appena entrò: una figura snella e compatta di un uomo più o meno della sua età, ma quanto diverso nell’aspetto: mani pronte ad afferrare qualcosa, labbra sotto controllo, occhi che scrutavano intorno ma fissi su di lui. E tutto questo era caratterizzato da una voce al contempo cortese e suadente.
+
+“Non ti sembra freddo, J., vero?”, disse l’ospite. “Se sì, accendo anche l’altro riscaldatore.”
+
+“No! Non fa freddo!” disse McAuley. “Stavo camminando. Un uomo dovrebbe camminare in questo tempo. Penso di essere un po’ in ritardo,” aggiunse, estraendo l’orologio. “Non vorrei assolutamente essere in ritardo.”
+
+Poi si sedette e, senza alcuna preliminare, estrasse rapidamente un mazzo di fogli dalla tasca, ne guardò uno e lo aprì davanti a sé sul tavolo. Era un grande foglio di carta spessa, con lo stemma reale e la dicitura dell’Ufficio Postale Generale; conteneva circa venti righe di testo stampato in caratteri chiari.
+
+Il Capo Postale aveva sempre sentito dire che nei momenti critici delle negoziazioni fosse importante alzarsi in piedi e far sedere l’altra parte. Aveva sempre creduto che questo gli desse una posizione dominante; gli era stato detto che faceva parte dei fondamenti del successo. Ma tutta questa conoscenza, per quanto valida, non gli fu di alcun aiuto, perché McAuley disse, con estrema gentilezza: “Siediti, Wilfrid. Così potrai leggerlo meglio. Possiamo esaminarlo insieme in un attimo.”
+
+So Halterton si sedette, avvicinò la sedia e iniziò a studiare insieme al suo visitatore quel foglio scritto a macchina. Era indirizzato ai Direttori della Durrant Imperial; iniziava con le parole “Gentiluomini” e finiva con “Il vostro obbediente servitore”.
+
+Quando Halterton ebbe letto la lettera, sospirò; McAuley, al contrario, emise un colpo di tosse secco e deciso, un colpo di tosse che sembrava un ordine velato.
+
+“Tutti i punti principali sono lì, li noterete sicuramente,” disse. “Tutti i punti principali. È abbastanza semplice. Solo un promemoria. Ora siete d’accordo ad affidarci il contratto. Oh! È piuttosto generico. E basta. Oh! Saremo più che soddisfatti di così per procedere.”
+
+“Sì,” rispose Halterton. “Sì. Sì. Penso che con gli occhiali vedrò meglio.”
+
+Prese fuori la custodia degli occhiali, pulì con cura le lenti con un fazzoletto, se li mise, poi li tolse di nuovo, le pulì una seconda volta, se li rimise con molta attenzione, ma sbagliò a infilare il braccioello e passò un paio di secondi a provare a sistemarlo intorno all’orecchio, mentre il suo visitatore si agitava impazientemente. Alla fine, Wilfrid Halterton si decise finalmente ad iniziare a lavorare.
+
+“Sì, è abbastanza chiaro,” disse. “Tutto ciò che hai detto ieri sarà più che sufficiente per agire, quando l’avrò firmato.” E sospirò di nuovo. Poi si alzò lentamente e iniziò a camminare avanti e indietro nella stanza, tenendo lo sguardo fisso sulla carta che McAuley continuava a tenere premuta davanti a lui con una mano ferma ma attenta, osservando attentamente il suo volto.
+
+“Vedi, J.” disse il Capo Postale Generale, “il Comitato ha preso una decisione contro di te…”
+
+“Abbiamo già discusso di questo argomento in passato,” intervenne McAuley in tono calmo e non scortese. “L’abbiamo fatto diverse volte ormai.”
+
+“Certo, il rapporto del Comitato a favore di Reynier non è ancora stato reso pubblico, non ancora pubblico, ”
+
+“Beh, beh. Era abbastanza pubblico da far sì che gli altri impazzissero quel giorno stesso,” disse il signor McAuley, ridendo sommessamente.
+
+“Beh, quello che voglio dire. Il modo in cui vorrei esprimermi,” disse Halterton, “è che, certo, mi avete convinto abbastanza, ma quello che intendo è: se decidessi di andare contro il Comitato. No, quello che voglio dire è: se noi, il Dipartimento, dovessimo finalmente decidere di contravvenire alle decisioni del nostro stesso Comitato, perché, ”
+
+J. McAuley tirò fuori di nuovo l’orologio.
+
+“È un peccato sprecare tempo in queste cose, Wilfrid,” disse scuotendo la testa, ma senza enfasi. “Non sentirete più nulla al riguardo, credo, non c’è davvero nient’altro da aggiungere. Immagino che sia tutto deciso, ormai. L’avete già inserito nell’Ordine del Giorno?”
+
+“Partirà stasera,” disse Halterton.
+
+“Ecco fatto! Non vi avevo detto che era tutto sistemato?”
+
+“Sì, ma si potrebbe sempre ritardare la discussione… intendo dire, bloccarla temporaneamente.”
+
+“Oh! Che spreco!” disse McAuley, ancora con dolcezza, “tutto questo è davvero un enorme spreco di tempo. Tutto era stato risolto ieri.”
+
+“McAuley,” disse il Capo Postale, sedendosi di nuovo e mettendo via gli occhiali, poi guardando verso la porta per un momento, “hai portato qualcosa scritto? Voglio dire, qualcosa per me? Non abbiamo ancora nulla di ufficiale, sai. Non su quel punto. Intendevo questo.”
+
+“No, no,” disse J., più lentamente di quanto avesse mai parlato prima. Esaminò per un momento i suoi documenti, poi tornò a guardare la pagina su cui erano scritte quelle venti righe dattilate, con il titolo dell’Ufficio Postale in alto. “Questa tua nota indirizzata a noi è naturalmente la cosa più importante,” continuò.
+
+“Dico, J, ”, rise nervosamente il Capo Postale Generale, “non avresti dovuto scriverlo su carta ufficiale, lo sai. Avresti dovuto lasciare che fossi io a farlo.”
+
+“Eh, amico, ma stai tergiversando troppo!” — c'era un leggero accenno di irritazione nella voce calma di McAuley — “su cosa vuoi che lo scriva? Non aveva senso preparare un altro bozzo per una cosa così semplice. E poi, metterlo sul tuo foglio ufficiale dall’ufficio ha risparmiato tempo. Ne ho portati alcuni l’ultima volta che ti ho visto.”
+
+“Ah, davvero?” disse lo statista. “Bene.”
+
+Poi si rimise gli occhiali con calma e lesse lentamente ciò che aveva davanti a sé. Alzò lo sguardo.
+
+“Ah, insomma… non è esattamente quello che intendevo dire. Che una cosa del genere venga da me… naturalmente.”
+
+“Sì, certo,” disse McAuley, “di cosa altro potrebbe trattarsi? E se firmate semplicemente, tutto sarà a posto e pronto, e potremo procedere.”
+
+“Beh, senza dubbio prima o poi dovrà essere scritto un memorandum del genere, ma dopotutto, spettava a me farlo, no?”
+
+McAuley era così arrabbiato che andò troppo oltre; fece schioccare la lingua con impazienza.
+
+“Sei davvero difficile, amico!”, disse, “molto difficile!” Mentre lo diceva, fece un mezzo sorriso contrariato. “Dai, su”, aggiunse più allegramente, “non posso iniziare a lavorare finché non firmi; abbiamo già concordato ieri, vero?”
+
+“Va bene,” disse Halterton, “va bene. Ma voglio esprimermi in questo modo: penso che dovremmo scambiarci dei memorandum, eh? Contemporaneamente, eh? Non credi anche tu?”
+
+“Cosa intendi esattamente?”, chiese McAuley con scetticismo.
+
+“Perché,” rispose Halterton, “quando vi do questa accettazione della proposta, se firmo, significa che vi sto dando il contratto, no? Praticamente sì. L’avete spiegato abbastanza chiaramente.”
+
+“Certo, è sufficiente per iniziare a lavorarci sopra. Ecco perché l’ho portato con me.”
+
+“Sì, ma… c’è anche l’altra faccia della questione, sai.”
+
+“Oh,” disse J. con cordialità, appoggiandosi allo schienale per la prima volta durante la conversazione, “volete che io scriva qui e ora tutto ciò che vi ho detto di recente riguardo alla vostra posizione nell’azienda. Nel caso in cui doveste decidere di dimettervi e andare in città, ad esempio?”
+
+“Beh… sì… qualcosa del genere, insomma…”
+
+“Ehi! Non è ancora il momento per farlo! Sai bene che sei ancora in carica. Vedi, ora che tutto è a posto, prima di firmare devo aggiungere la data di oggi.”
+
+“Sì, lo so, lo so. Certo. Ma comunque, dovrei provare. Come posso dire,? Dovrei sentirmi un po’ più, normale.” Si alzò e osservò la persona che stava parlando.
+
+“Oh, davvero interessante, ” ammise il persuasivo J., ancora seduto, e abbozzò un leggero sorriso. Rimase in silenzio per un momento, continuando a sorridere mentre valutava rapidamente tutte le conseguenze di quella situazione. Quello accordo lo avrebbe legato a Halterton; avrebbe creato una traccia documentale, con la partecipazione del Capo Postale scritta e firmata personalmente da J. Avrebbe inoltre dato a Halterton un potere su di lui. Ma d’altra parte, sembrava che Halterton insistesse molto, e quindi era necessario ottenere la sua firma il prima possibile.
+
+“Molto bene,” disse finalmente. “Forse sarebbe stato meglio lasciare quella parte dell’accordo come un’intesa tra gentiluomini, basata su parole soltanto, ma forse hai ragione tu.”
+
+Tra i fogli tirò fuori una pagina bianca, non vi scrisse alcuna data né indirizzo, e con la punta sottile e rigida della sua penna stilografica – simbolo dell’uomo stesso – scrisse rapidamente per diversi minuti, coprendo l’intera pagina con la sua calligrafia decisa. Poi porse il biglietto al Ministro. Halterton lo prese e lo lesse ad alta voce, lentamente:
+
+Il signor James McAuley, finanziere, si occupa di rendere tutto regolare per il signor Wilfrid Halterton, statista e Segretario Generale delle Poste.
+
+“Mio caro Halterton...”
+
+“Lo dico così, Wilfrid,” intervenne J., “non è probabile che vi offrano qualcosa di più di un titolo di baronetto. E naturalmente non potrei chiamarvi Wilfrid. Che scegliate di essere Sir Wilfrid o meno, in entrambi i casi andrà allo stesso modo.”
+
+“Bene,” sospirò Halterton, e ricominciò a leggere.
+
+Mio caro Halterton,
+
+Vorrei propormi qualcosa che spero sinceramente possiate accettare con favore. So quanto modestamente valutiate le vostre capacità, soprattutto nel campo degli affari; ma siete l’unico uomo in Inghilterra a farlo. Inoltre, il vostro incarico presso l’Ufficio Postale non solo vi ha fornito l’esperienza di cui abbiamo bisogno, ma vi ha anche valso il rispetto e l’ammirazione di tutti. Quindi quello che voglio chiedervi è semplicemente questo: “Ora che siete fuori dalla vita pubblica e, presumo, disponete di molto tempo libero, accettereste di assumere la carica di Amministratore della nostra società?” Da quando sono stato nominato Commissario Permanente, il consiglio di amministrazione ha discusso a lungo su chi dovesse essere scelto; ma non mi piacciono queste lunghe discussioni, né che ci sia una posizione vacante. Meno ancora mi piace dover svolgere due lavori contemporaneamente. Non c’è bisogno di dirvi che, quando è stato menzionato il vostro nome, siamo stati tutti d’accordo. L’unica questione era se foste disposti ad accettare. Sappiamo quanto apprezziate il vostro tempo libero. Ma vi prego, dite sì! Sarebbe un grande favore personale per me; e, cosa che temo sia ancora più importante, fareste davvero la differenza per questo servizio pubblico di fondamentale importanza. Sto mettendo tutto il mio impegno in questa proposta. Vi supplico, non rifiutate.
+
+Per sempre
+
+Jas. Haggismuir McAuley
+
+Era una firma chiara e bella, degna dell’uomo il cui padre era nato nella famiglia Haggismuir di Haggismuir.
+
+Il signor Wilfrid Halterton finì di leggerlo e alzò lo sguardo. C'era, il che era strano in un uomo di oltre cinquant’anni, soprattutto in uno per cui il suo genio lo aveva portato a ricoprire una delle più importanti cariche pubbliche del mondo, un lieve rossore sulle guance.
+
+“Penso che, J, ”, disse, “sarebbe più, ehm, appropriato, non credi? Se solo scrivessi una postfazione di una o due parole riguardo, beh, riguardo allo stipendio, ”
+
+“Di nuovo regolare, Wilfrid!”, disse J., con quel stesso debole sorriso fugace di pochi minuti prima. “Bene, cosa ho detto l’altro giorno?”
+
+Ci fu una lunga pausa. Alla fine, quasi sussurrando, vennero pronunciate queste parole:
+
+“Hai detto diecimila, J…”, poi, con un tono ancora più basso: “Esenti da tasse.”
+
+“Bene, Wilfrid,” rispose J., con un tono più allegro di quanto avesse usato fino ad allora. Scrisse rapidamente la postfazione, poi i numeri, e infine l’espressione “Esente da tasse”, aggiungendo: “E, naturalmente, una residenza ufficiale, se desideri utilizzarla.” Seguirono le sue iniziali ben ordinate: “J.H.M.”
+
+Il Capo Postale non ne era del tutto sicuro; aveva sempre pensato che un allegato firmato con le iniziali a un memorandum o a qualsiasi altro documento ufficiale avesse lo stesso valore legale, come si suol dire. Comunque, riteneva di non poter chiedere nulla di più.
+
+“Ora,” disse J., con un tono più professionale di quanto avesse mai usato fino ad allora, “tenetelo e indicate la data giusta quando arriverà il momento.”
+
+“Immagino che servirà qualche indirizzo, no?” chiese Halterton.
+
+“Ehi? Cosa importa? Puoi aggiungerlo, puoi scrivere quello che vuoi. Non è questo che conta. Quello che conta davvero è il mio nome alla fine. Puoi scrivere doveunque io mi trovi in quel momento.”
+
+“Molto bene, molto bene,” disse Halterton.
+
+James Haggismuir McAuley si alzò e si stiracchiò. Anche sbadigliò, il che, per lui, era un gesto di soddisfazione e appagamento. Ma fece attenzione a coprirsi la bocca con la mano.
+
+“Ora,” disse, “dobbiamo metterle dentro le buste e ognuno prenderà la propria. Ho portato delle buste adatte; anche se in realtà non è così importante. Firmi la sua busta, quella scritta a macchina.”
+
+Wilfrid Halterton tirò fuori la sua piccola penna stilografica montata in oro e scrisse lentamente il proprio nome. McAuley fece lo stesso: piegò quel documento decisivo che conteneva il contratto, lo infilò nell’indirizzo aperto, lo sigillò con cura e lo mise nella tasca interna del suo cappotto.
+
+Halterton, sempre influenzato dagli esempi altrui, accettò lentamente l’offerta generosa ma ancora senza data di James McAuley. Tuttavia aggiunse qualcosa di suo, guidato da una vaga sensazione che ciò lo rendesse più sicuro. Prese una penna e scrisse, con la sua grafia piuttosto incerta, in cima al foglio che James McAuley gli aveva dato: —
+
+La lettera di James McAuley. Ricevuta il 3 marzo 1960. W.H.
+
+Poteva sempre cancellarlo quando fosse arrivato il momento di usarlo, ma intanto rimaneva lì come una sorta di registrazione. McAuley lo osservò mentre lo scriveva e lo piegava con estrema attenzione, poi lo infilava nell’indirizzo corrispondente, facendo solo un’unica busta. Infine, leccando la linguetta della busta e premendola bene, per nascondere i segreti di stato agli occhi di tutti, Wilfrid Halterton, Ministro Postale Generale, mise la busta nella tasca del suo abito da mattina, la tasca laterale, lontana da Mr. McAuley.
+
+“Ora,” disse quel grande capo dell’industria – o, almeno, della scienza applicata; o comunque, del settore finanziario – “devo andare.” Guardò l’orologio per la quarta volta. “Sì, devo proprio andare. Sono in ritardo.”
+
+Strinse calorosamente la mano al suo ospite mentre il Capo Postale lo accompagnava verso la porta, camminando al suo fianco. James Haggismuir McAuley si fermò per un momento nel corridoio, alzò lo sguardo verso il soffitto e disse:
+
+“Che incisione meravigliosa, Wilfrid!”
+
+Wilfrid girò il suo lungo collo sottile per seguire lo sguardo dell’esperto. In quel preciso istante, in un decimo di secondo, James Haggismuir McAuley estrasse l’involucro dalla tasca laterale, lo passò rapidamente nell’altra mano e lo infilò nella tasca del petto, dove già si trovava il “fratellino” dell’involucro stesso.
+
+Il signor James McAuley, finanziere, effettuò la trasferimento di proprietà dal signor Wilfrid Halterton, statista e Capo delle Poste.
+
+Quella transazione commerciale, in realtà, non durò nemmeno cinque secondi. A Wilfrid Halterton ci vollero addirittura dieci secondi solo per muovere il collo.
+
+Iniziò a raccontare la storia di quell’incisione, del suo valore e di come l’avesse ottenuta, quando sentì la mano del suo amico, proveniente dal mondo esterno, non politico, stringere nuovamente la sua con calore; sentì la porta chiudersi con un tonfo; sospirò, abbassò leggermente la testa e tornò lentamente nello studio.
+
+II
+
+Quando Wilfrid Halterton si sedette di nuovo da solo davanti al suo riscaldatore wireless, provò quella straordinaria sensazione che gli uomini ricevono soltanto una o due volte nella vita: la sensazione che tutto intorno a loro sia cambiato; che abbiano appena lasciato una fase lunga durante la quale il corso degli eventi li aveva portati in una certa direzione, e che ora fossero entrati in una seconda fase, nella quale il flusso delle cose li avrebbe guidati nella direzione opposta. Sentì di aver raggiunto, o, come si suol dire tra gli statisti, “di aver ottenuto ciò che desiderava”.
+
+La sua posizione negli accordi appena conclusi non era che una delle tante simili. L’accordo riguardante il suo futuro stipendio era di tipo molto comune, qualcosa che ormai ci aspettiamo in ambito politico. Ma era la prima volta che ne concludeva uno in tutti gli anni trascorsi al Parlamento, e per questo ne fu particolarmente colpito. Era sempre stato un uomo troppo timido, in una professione in cui la timidezza a volte è fatale e rappresenta sempre un ostacolo. Alcune donne (e uomini) avevano incolpato la signora Boulger per avergli concesso una posizione così importante nel Gabinetto. Ma sappiamo che, se un uomo raggiunge tale livello, è sicuramente perché possiede grandi capacità, qualcosa che anche i suoi colleghi più illustri hanno riconosciuto. Tali capacità lui stesso le aveva ampiamente dimostrate durante il suo incarico. Ora da oltre sei mesi era alla guida di un vasto apparato amministrativo: ogni giorno gestiva 264.748.942 lettere, 968.477.321 cartoline, 7.263.402 telegrammi, nonché francobolli di tutte le denominazioni per un valore complessivo di 6.923.410 sterline e 6 scellini e 3 pence: una somma superiore al reddito annuo intero del Guatemala. Allo stesso tempo si occupava anche della consegna di pacchi e dell’emissione di licenze per stemmi araldici, cani e servitori maschi.
+
+Wilfrid Halterton aveva gestito tutto ciò per oltre sei mesi senza alcun intoppo. Questo avrebbe dovuto fargli acquisire una maggiore stima di sé stesso. Inoltre, avrebbe dovuto ricordare che a un uomo non vengono conferiti poteri di tale rilievo se non è anche in grado di gestire molte altre attività. Dopo aver dimostrato la propria capacità nel gestire questa vasta e complessa organizzazione come l’Ufficio Postale, sarebbe stato naturalmente scelto per sovrintendere anche alle finanze del paese, agli Affari Esteri, alla Marina, all’enorme “macchina” della polizia, sia pubblica che segreta, e forse anche ai musei o persino ai parchi di [[settings/london|Londra]]. Infatti, nella nostra costituzione c’è la presunzione – e una presunzione saggia – che i talenti sufficienti per ricoprire una carica ministeriale in un settore siano sufficienti anche per qualsiasi altro; quindi, un statista deve essere in grado di adattarsi a diversi compiti.
+
+Dico quindi che Wilfrid Halterton avrebbe dovuto essere meno modesto nei primi mesi del suo alto incarico. Tuttavia, il suo atteggiamento originale rimase immutato, e fu felice di pensare che il suo primo grande successo politico, questa negoziazione con James McAuley, gli avrebbe permesso di tornare alla vita privata. Era soddisfatto di lasciare ad altri la gloria della fama pubblica, in cambio di un reddito notevolmente aumentato.
+
+Avrebbe cercato di ridurre al minimo i tempi di attesa. Naturalmente, sarebbe stato necessario un intervallo tra la costituzione della nuova Television Corporation e il suo insediamento nella posizione prevista, nonché il pagamento dell’importo del salario concordato: così richiedevano le convenzioni sociali, e queste convenzioni dovevano sempre essere rispettate. Nessuno nella Camera dei Comuni era più sensibile in questi confronti. Nessuno conosceva meglio le regole della vita pubblica; nessuno temeva di più le critiche in tali questioni. Tale delicatezza faceva naturalmente parte del suo carattere; era proprio questo lato lodabile del suo temperamento, anche se spesso generava delle esitazioni da parte sua. Quando queste cose venivano fatte troppo rapidamente, inevitabilmente ne risultava – in modo del tutto illogico – un senso di indecenza.
+
+Rimase per un momento a riflettere, appoggiandosi allo schienale della sua sedia bassa e fissando le sue lunghe gambe sotto la griglia luminosa del riscaldatore; stava calcolando con esattezza quale dovesse essere l’intervallo di tempo tra quel momento e il giorno in cui avrebbe ricevuto lo stipendio presso la nuova Television Corporation.
+
+Meglio troppo lungo che troppo breve. J. avrebbe iniziato a lavorare senza indugio. Il voto che avrebbe istituito la Television Corporation sarebbe arrivato quasi immediatamente. La struttura sarebbe stata messa a disposizione del pubblico poco dopo le vacanze di Pasqua, e avrebbe iniziato a generare profitti entro la fine dell’estate al massimo. Si era parlato di nominare il giovane Collum come primo Commissario per un anno o più, così da dargli il tempo necessario e un reddito sufficiente per sposare Joan Bailey – che non possedeva nulla – per acquistare i mobili e tutto ciò che gli serviva, prima di assumere la nuova carica presso la Lega delle Nazioni. Dopodiché, J. avrebbe naturalmente preso il suo posto, e la posizione di Direttore Generale sarebbe diventata disponibile, diciamo, dopo un lasso di tempo complessivo di poco più di dodici mesi.
+
+Quindi, la sua stessa dimissione dovrebbe avvenire entro circa sei mesi, in modo che quando accetterà l’incarico di amministrazione lo farà con un atteggiamento distaccato e privo di qualsiasi legame con l’Ufficio Postale. Questo ritardo di sei mesi è generalmente considerato il periodo minimo necessario tra il momento in cui una persona smette di ricevere uno stipendio ufficiale e quello in cui inizia a percepire i maggiori compensi privati derivanti da incarichi politici. Beh, se lo Statuto entrasse in vigore alla fine dell’estate, ciò significherebbe che la sua dimissione avverrebbe circa alla prossima Pasqua, cioè tra più di un anno. A quel punto potrebbe utilizzare la lettera di J., datandola a sei mesi dopo, ad esempio nell’autunno dell’anno successivo. In totale, diciotto mesi.
+
+Fece tutti questi calcoli soltanto per soddisfare se stesso; in tutti loro era presente quella concreta possibilità di cui ormai era certo.
+
+Wilfrid Halterton era nato in una famiglia molto ricca; era l’unico figlio di John Halterton, residente a Reldwell Hall nell’Essex. La Biblioteca Halterton, situata nel suo vecchio college a Cambridge – Merrion – testimoniava la fortuna e la generosità della famiglia.
+
+Ma le cose non erano andate bene da quando suo padre era morto, ventiquattro anni prima. Aveva avuto difficoltà economiche; aveva subito gravi perdite a causa di un grosso investimento fallimentare; si trovava in una situazione imbarazzante. Aveva ipotecato i suoi beni e aveva iniziato ad accumulare debiti. Anni di crescenti difficoltà lo avevano colpito duramente. Quindi, la nuova prospettiva che gli si presentava lo rassicurava molto: quel documento firmato dall’azienda di J., la certezza di una solida garanzia finanziaria, il reddito di un tempo, e molto altro ancora.
+
+Rifletté su quel documento. Ricordò il volto e il gesto di J. mentre veniva redatto, nonché la luce che illuminava la carta. Ovviamente, non avrebbe ancora inserito la data; c’era tutto il tempo per farlo. Poi, senza alcun motivo concreto, ma spinto da quella voglia che tutti abbiamo di rileggere una lettera che ci ha occupato i pensieri, cercò nella tasca del cappotto l’involucro. Avrebbe tirato fuori l’offerta di McAuley e ne avrebbe riletto attentamente i termini, anche se l’unica cosa davvero importante gli era già chiara nella mente: lo stipendio, esentasse da tasse.
+
+Per un secondo o due si chiese perché la sua mano non trovasse alcun biglietto in quella tasca, e continuò a cercare a tentoni. Poi si svegliò di colpo, si sporse in avanti e frugò nella tasca tre o quattro volte, come se stesse cercando qualche piccolo oggetto, tipo una moneta. Niente. Non c'era nulla lì.
+
+Il ricordo di un movimento istintivo avvenuto di recente è quasi sempre accurato; ma non si può mai essere sicuri. Infilò l’altra mano nella tasca dall’altro lato. Ah, eccolo! No, quell’involucro c’era già tutto il giorno; era la nota del suo sarto. Inoltre, aveva anche una dimensione diversa.
+
+Era sia curioso che preoccupato. Si alzò dalla sedia, si tolse il cappotto, tirò fuori tutto dalle tasche e rivoltò i tessuti interni. Non c’era traccia di quell’oggetto.
+
+Poi si mise in ginocchio e accese un fiammifero per esplorare l’oscurità sotto il tavolo. Non trovò nulla. Uscì dalla stanza e cercò dappertutto, lungo il corridoio fino alla porta d’ingresso. Niente. Rimase nel dubbio, con lo sguardo fisso su quell’incisione che McAuley aveva lodato. Gli ricordava vividamente quei momenti. Come poteva essere successo tutto ciò? Trascorse altri cinque minuti inutilmente nella stanza, strisciando sul tappeto; sollevando gli angoli nel vano tentativo di trovarlo lì nascosto.
+
+Poi si alzò di nuovo e rifletté invano. Non aveva sentito nessun servitore nel corridoio esterno; nessuno era entrato dalla porta d’ingresso. Se qualcuno in casa avesse trovato quella busta, sarebbe stato imbarazzante, ma era impossibile, non c’era stato il tempo per una cosa del genere; nessuno poteva sapere cosa avesse addosso.
+
+Un'ulteriore ricerca sembrava inutile. Le cose scompaiono davvero in questo modo straordinario. Il problema principale era il pensiero sgradevole che una lettera del genere potesse essere ancora da qualche parte, senza controllo. Si disse che non c'era tempo da perdere: l’importante era contattare immediatamente J.
+
+A quell'ora doveva aver già avuto il tempo di tornare al suo appartamento, no? Doveva telefonare. Andò nella stanzetta in fondo dove si trovava il suo telefono privato, e quando riuscì a mettersi in contatto con l'appartamento di McAuley, situato all'ultimo piano dell'edificio Marble Arch House, a meno di mezzo miglio di distanza, sentì, mentre la domestica rispondeva al telefono, un'altra voce, una voce che avrebbe giurato essere proprio quella di McAuley.
+
+Non era una voce vicina all’strumento; non si riusciva proprio a distinguerla chiaramente, ma lui pensò di aver captato alcune parole.
+
+La voce che ora gli rispose chiaramente e direttamente era quella della segretaria di McAuley: la conosceva bene – una donna efficiente e gentile, della stessa nazionalità del suo datore di lavoro, di nome Rose Fairweather. Quella voce disse, con toni particolarmente distinti, che J. era entrato per un momento e poi se n’era andato di nuovo.
+
+Halterton era quasi certo di aver sentito la voce di J.; nonostante fosse debole e lui non riuscisse a capire tutte le parole, aveva distinto chiaramente alcune frasi: “Se è lui, ” e “Non sai quando, ”.
+
+In risposta a un secondo interrogatorio ancora più ansioso, era arrivata una risposta ancora più chiara: non solo J. era appena uscito, ma non sarebbe tornato per cena, e Miss Fairweather non sapeva dove fosse andato né quando sarebbe tornato. No, forse non sarebbe tornato prima di molto dopo mezzanotte. No, non si era ancora vestito e non aveva preso nessuna borsa. Oh sì, al massimo sarebbe tornato la mattina seguente. Sì, avrebbe ritirato la sua posta. E con questo, Wilfrid Halterton dovette accontentarsi. Ma ciò lo lasciò in un’agonia.
+
+Mentre tornava lentamente nello studio, dopo essere stato nella piccola stanza dove si trovava lo strumento musicale, si chiese cosa dovesse fare un uomo in simili circostanze.
+
+Un statista e direttore generale delle poste che si guarda sotto un tappeto.
+
+Eccolo lì, con un documento che nessun altro doveva vedere, abbandonato chissà dove, pronto a essere trovato da chiunque. Era un documento di vitale importanza per lui, eppure lui stesso ne era privo e senza alcuna garanzia riguardo al suo utilizzo. J. avrebbe sicuramente agito molto presto; forse il giorno dopo, ma certamente entro pochi giorni. E allora tutto il mondo avrebbe saputo che quel documento aveva lo stesso valore di uno effettivamente concesso. E lui, Wilfrid Halterton, si sarebbe trovato in una situazione in cui la parte sua dell’accordo non era affatto al sicuro sotto la sua custodia. Ovviamente c’era solo un modo per risolvere il problema. Non riusciva a capire perché non ci avesse pensato subito. Poiché J. non era al telefono, doveva scrivergli. Non poteva fare a meno di pensare che, per qualche motivo, J. volesse evitare di essere disturbato. Era quasi certo di aver riconosciuto quella voce, e altrettanto sicuro di aver sentito quelle due frasi frammentarie. Capiva perfettamente che McAuley potesse voler evitare di essere disturbato, ma dopo una transazione così importante, avrebbe dovuto comunque intervenire. Comunque fosse, ormai era troppo tardi. Doveva scrivere subito, e inviare la lettera immediatamente, o addirittura portarla personalmente per assicurarsi che tutto andasse come previsto.
+
+Lo fece in soltanto poche righe.
+
+Mio caro J.
+
+È successo qualcosa di straordinario: quella tua lettera è scomparsa. Senza dubbio verrà ritrovata, ma poiché potrebbe accadere tra molto tempo o forse mai, l’unica cosa da fare è che tu mi scriva un’altra lettera. Ricorderai sicuramente le condizioni stabilite. Non so quando la riceverai, ma la tua segretaria mi ha detto che tornerai stasera, e sono certo che mi manderai un messaggio domani mattina presto – se possibile, di persona. Sarò a casa fino alle dieci.
+
+Wilfrid Halterton rilesse queste semplici parole, ne fu soddisfatto, ma poi passò altri dieci minuti in indecisione su come farle arrivare a J. Era davvero essenziale che J. le ricevesse, e il prima possibile. Era così ansioso che quasi pensava di portarle personalmente, se non fosse stato per la paura che qualsiasi sua mossa potesse lasciare tracce. Inoltre, rimanendo a casa avrebbe avuto più tempo per prendersi cura di quel pezzo di carta così stranamente “assente”. Si fidava della posta.
+
+Allora scese in strada e consegnò personalmente la sua nota a McAuley. Poi passò circa due ore a cercare ripetutamente, con un comportamento che, in una persona meno importante, si sarebbe potuto definire sciocco: controllava continuamente se l’indirizzo fosse corretto o meno.
+
+Non c'era nulla che lo attendesse a casa. Si era preparato con attenzione per quell'intervista importante. Aveva cenato a casa e si era coricato presto. Aveva letto per mezz’ora prima di addormentarsi, ma non riusciva a ricordare cosa avesse letto. Sembrava che stesse leggendo quella lettera mancante. E due volte durante la notte, quando si svegliava, riusciva a vedere il suo contenuto con estrema chiarezza; avrebbe potuto recitarlo a memoria.
+
+Stranamente, quando il giorno dopo, mercoledì 4 marzo, Wilfrid Halterton si sedette a colazione e prese in mano il giornale, non cercò affatto un articolo che avrebbe dovuto interessarlo più di qualsiasi altro. Non gli venne nemmeno in mente che potesse esistere un simile articolo. Lesse con attenzione la prima notizia principale, poi la seconda e la terza; diede appena un’occhiata alle grandi titoli, i quali non gli rivelarono nulla di nuovo rispetto a quanto aveva letto nei giornali della sera precedente. Continuò a leggere il resto del giornale con calma, fino a quando arrivò alla pagina finanziaria. Ed eccolo lì: l’articolo che improvvisamente fermò i suoi pensieri erranti.
+
+C'era un paragrafo riguardante la posizione di Billies. Si diceva che il rapporto del comitato nominato dal Capo Postale fosse sfavorevole a Billies e favorevole a Reynier; naturalmente, non si sapeva nulla di certo, ma il rapporto sarebbe sicuramente stato pubblicato a breve. Era tutto. Il resto del paragrafo consisteva solo in poche righe di contenuto generico, che menzionavano vagamente le compagnie rivali e le loro rivendicazioni.
+
+Halterton fece una smorfia. La sua dignità era stata offesa. Un simile errore non poteva essere tollerato. Ora, inoltre, che J. aveva quella sua firma. Era davvero insopportabile. Si chiese chi avesse parlato.
+
+Avrei potuto dirglielo. Era quel ragazzo magro e vivace che entra ed esce durante le riunioni del comitato, annunciando i nomi delle persone e prendendo messaggi. Aveva parlato con il portiere; questi gli aveva dato mezzo scellino, e il portiere a sua volta aveva ricevuto una sterlina da Mr. Gamble. Quest’ultimo aveva ricevuto cinquanta sterline, divise in cinque banconote da dieci sterline, in un involucro, consegnatogli personalmente dalle delicate mani di Miss Rose Fairweather, quando il giorno prima era andato all’appartamento di Mr. McAuley. Mr. Gamble era poi andato felicemente al suo giornale e aveva ricevuto altre venti sterline dal redattore finanziario, a cui Miss Fairweather lo aveva raccomandato appositamente. Il redattore finanziario, in realtà, non aveva ricevuto denaro, ma un sincero ringraziamento quando aveva incontrato il suo proprietario, uso questa parola nel suo senso più ampio. Inoltre, il redattore finanziario aveva immediatamente venduto i suoi “Billies” prima ancora di scrivere una riga.
+
+Comunque, quel paragrafo esisteva davvero, e in fondo non poteva essere contraddetto, perché era vero. Non c’era nulla da fare ora: il testo era stato stampato e, comunque, sarebbe venuto a conoscenza di tutti quando il Parlamento si fosse riunito quel pomeriggio. Quindi non c’era davvero nulla da fare. E Wilfrid Halterton era troppo gentiluomo per discutere con i suoi funzionari permanenti, in ogni caso.
+
+Guardò l'orologio: erano appena le dieci. J. avrebbe probabilmente chiamato da un momento all'altro. Aspettò e aspettò, sempre più nervoso. Ma il telefono non suonò. Erano già passate venti minuti quando non riuscì più a sopportare l’attesa e decise di chiamare lui stesso l’appartamento vicino al Marble Arch.
+
+Ancora una volta, le chiare inflessioni della signorina Rose Fairweather, delicatamente bilanciate tra il morbido accento di Glasgow e quello più deciso di Edimburgo – il che forse rifletteva un’origine nel Whitburn – risuonavano come argento cesellato.
+
+Sì, il signor McAuley era stato lì quella mattina per un po’ e aveva lavorato con lei per un’ora; ma poi se n’era andato di nuovo, dicendo che avrebbe camminato fino al suo ufficio in città, perché voleva fare un po’ di movimento. Probabilmente non sarebbe arrivato prima delle undici, aveva ancora una o due cose da fare lungo la strada.
+
+Alle undici e trenta, Wilfrid Halterton, ormai leggermente febbricitante, decise di rischiare e chiamare il numero dell’edificio imponente della famiglia Durrant. Non era una pratica molto regolare; in fondo, al Segretario Generale delle Poste non spettava farlo. Ma chi avrebbe mai riconosciuto la sua voce? E anche se qualcuno lo facesse, che importanza aveva? Tutti sapevano che era un amico di McAuley, e che McAuley era fratello del suo collega, il Procuratore Generale. Poteva benissimo chiamare per qualsiasi motivo.
+
+Comunque, non avrebbe dovuto trovarsi in tale imbarazzo, perché la risposta era abbastanza semplice.
+
+Sì. Il signor McAuley era stato dentro e aveva sbrigato qualche faccenda. No, era uscito di nuovo. Non sarebbe tornato prima dell’ora di pranzo. Non sapevano dove fosse andato, né quando sarebbe tornato.
+
+Ancora una volta, Wilfrid Halterton, gravemente perseguitato, sfidò gli dei. Ancora una volta, prima di recarsi nel proprio ufficio a mezzogiorno. E questa volta l’obiettivo fu nuovamente l’appartamento vicino al Marble Arch. E ancora una volta, le sillabe chiare e dolcemente articolate di Rose Fairweather gli riferirono che il signor McAuley aveva effettivamente telefonato al suo appartamento, dall’hotel Carlton, dove si trovava per un momento quella mattina. Ma l’unica ragione della chiamata era legata a alcuni documenti che voleva fargli inviare lì con un messaggero; inoltre, aveva già lasciato l’hotel da molto tempo.
+
+Il Capo Postale non aveva alcun desiderio di aumentare questo flusso di documenti, né di mettere in evidenza le proprie tracce. Doveva mantenere la pazienza, fino a quando McAuley non lo avrebbe raggiunto nei suoi uffici alla Camera, o fino a quando non si sarebbero incontrati di nuovo in qualche altro modo. Non poteva trascorrere molto tempo. E se dopo un lasso di tempo adeguato non avesse visto McAuley, gli avrebbe scritto un’altra lettera. Ma per tutto quel giorno non ci fu alcun segno di McAuley.
+
+* * *
+
+Cosa era accaduto quel giorno, e cosa il Capo Postale stesso scoprì dai giornali serali, dalla registrazione audio, e anche, a suo grande dispiacere, da alcune conversazioni intorno a lui. Fu un netto calo delle quotazioni di Billies. Avevano iniziato la giornata molto più in basso rispetto al livello di ieri: 21 secondi, 22 secondi. Poi erano scese fino a 20 secondi, 21 secondi, per poi riprendersi nuovamente a 22 secondi e chiudere la giornata a 22½ secondi. Questo rialzo, potrebbe interessare i miei lettori, fu dovuto all’acquisto di una quota piuttosto consistente da parte di un certo signor Charles Marry, un parente della signorina Rose Fairweather, che lei stessa aveva presentato a James McAuley; quest’ultimo era ormai molto impegnato a sostegnere gli interessi di quell’uomo importante.
+
+Un intero giorno era trascorso senza che il Capo Postale ricevesse alcuna notizia dal suo caro e intimo amico James McAuley; quindi era necessario intervenire.
+
+Ci sono situazioni che agiscono meravigliosamente come stimolo per l’intelligenza, e quella sera Wilfrid Halterton si comportò come non aveva mai fatto prima in vita sua. Fece ciò che si definisce “prendere delle misure”: fece alcune osservazioni piuttosto indirette, discrete e apparentemente indifferenti, sia nel salone da pranzo che nei corridoi, e alle otto e mezza riuscì a scoprire dove si trovava J. in quel momento.
+
+“Chi cena da Mary stasera?”
+
+“Sai se stasera Johnny è da Angela?”
+
+“Ehi, pensavo stessi cenando con McAuley…”
+
+E così via; con frasi del genere riuscì a localizzare McAuley nel suo nascondiglio. Alla fine seppe che il finanziere stava cenando con i Balcombe. In quell’ora di notte, che Victor Hugo definisce “l’ora desolata” in cui i leoni si radunano per bere, cioè alle nove meno un quarto, quando nei palazzi della nostra grande [[concepts/democracy|democrazia]] i leoni sollevano la prima coppa di champagne alle labbra. Wilfrid Halterton fece chiamare J. al telefono: usò un trucco; lo chiamò in nome della sua segretaria: “Dica che Miss Fairweather lo vuole, urgentemente”. James McAuley, che aveva appena iniziato a parlare con la padrona di casa, Lady Caroline, nella brutta e grandiosa nuova residenza dei Balcombe in Hill Street, imprecò sottovoce, lasciò la cena, uscì e andò a rispondere al telefono nella stanza privata di Balcombe, chiudendo bene la porta. Sollevò il ricevitore e disse, con tono piuttosto irritato:
+
+“Beh, signorina Fairweather…”
+
+Ma non fu la voce di Miss Rose Fairweather quella che sentì in risposta. Fu la voce di Wilfrid Halterton.
+
+“Mi dispiace disturbarla, J...”
+
+“Cosa intendi? Mi hanno detto che era la mia segretaria…”
+
+“Deve esserci stato un errore da parte del servitore… sono io.”
+
+“Sì, riesco a sentire… E allora? Cosa volete?”
+
+Hai ricevuto la mia lettera?
+
+“Sì, ho ricevuto la tua lettera. Ma non l’ho capita. Penso che sia meglio se me la spieghi di persona quando ci incontriamo.”
+
+“Cosa intendi dire con ‘non l’hai capito’? Ti ho detto che avevo perso la lettera che mi hai dato ieri sera e ti ho chiesto se potevi mandarmene un’altra.”
+
+Ci fu una pausa, e Wilfrid Halterton all’altro capo del filo si chiese perché dovesse esserci una pausa. Non dovette aspettare a lungo per scoprirlo: alla fine di quella pausa, con forti accenti virili e un tono scozzese, furono pronunciate le seguenti parole:
+
+“Non capisco cosa intendi! Non ti ho mai dato nessuna lettera. È stata tu a darmene una. Mi dispiace, non posso aspettare oltre. Ho dovuto lasciare la tavola da pranzo. Devo tornare subito indietro. Prova a vedermi domani.”
+
+E il filo smise di funzionare.
+
+III
+
+Nel sobborgo di Streatham c’è una fila di villette semi-indipendenti conosciute (non so per quale motivo) come Eliza Grove. Tra queste villette, una – ufficialmente denominata “Numero 5”, ma sui cartelli bianchi su sfondo verde all’ingresso principale chiamata “Myrtle View” – è la cara dimora di un piccolo costruttore edile di nome Nicholas Clarke. Poiché non ha alcun legame con questa storia e, nonostante i suoi sforzi, non gli sarà permesso comparire nuovamente in queste pagine, possiamo lasciarlo qui. L’altra villetta, anch’essa parte integrante di questo complesso residenziale – il “Numero 7” con la sua porta verde – non ha un nome specifico: il suo proprietario, infatti, si è reso conto che assegnare nomi alle piccole case dei sobborghi non è una pratica comune. Per gli dèi e per gli uomini, è semplicemente “Numero 7”.
+
+Ecco quell’uomo forte, umoristico, gentile, estremamente efficiente e in ottima salute: ha appena sessant’anni ed è conosciuto in tutto il mondo come Jack Williams; al momento ricopre la carica di Segretario di Stato per gli Affari Interni, ma potrebbe diventare qualsiasi cosa desideri. Ha l’opportunità tra le mani: gli è stata offerta la presidenza del Consiglio, ma l’ha rifiutata; in parte perché le opportunità offerte non erano sufficienti (nessun contratto), e in parte perché non rappresentava un vero vantaggio per la sua carriera. È molto probabile che entro la fine dell’anno otterrà anche la carica di Segretario di Stato per i Dominioni, poiché l’attuale incaricato, come molti prima di lui, ritiene questo compito estremamente ingrato.
+
+Comunque sia, al momento Jack Williams è Segretario dell’Interno; è soddisfatto del proprio lavoro, così come lo è stato di tutto ciò che ha mai dovuto fare, e lo ha fatto bene, proprio come ha sempre portato a termine con successo qualsiasi compito gli sia stato affidato.
+
+Lo si sarebbe notato ovunque: sebbene fosse un uomo piuttosto basso, con tratti del viso ordinari e una barbetta insignificante che li rendeva ancora più comuni, il suo portamento e soprattutto la sua espressione avrebbero colpito chi lo incontrava. I suoi occhi grigio-acciaio, scintillanti e a volte socchiusi mentre ti fissava con attenzione durante una conversazione, contenevano una sorta di “fuoco”: vedevano tutto ciò che accadeva intorno a lui. Le sue spalle larghe esprimevano forza ed endurance, il suo petto profondo vitalità, e i suoi passi erano sicuri e decisi. Inoltre, quando parlava lo faceva con entusiasmo, in modo divertente e pieno di vita, ma senza mai rivelare ciò che realmente pensava. Il tipo perfetto per la politica!
+
+Era una persona che si alzava presto; quel giovedì, 5 marzo, alle 8 del mattino, era seduto alla sua tavola da colazione, con la sua ammirevole moglie di fronte a lui, nella piccola sala d’ingresso dell’appartamento numero 7.
+
+Era la mattina seguente quella strana e improvvisa conversazione avvenuta al telefono durante la cena tra James Haggismuir McAuley e il distratto Halterton. Jack Williams stava leggendo il suo giornale, appoggiato alla caffettiera; chiunque lo avesse visto avrebbe detto: “Ecco un uomo che è partito da condizioni molto umili per raggiungere una vita moderatamente agiata, considerando la sua posizione sociale. Questa piccola villetta semi-indipendente, con la sua camera da letto in più, il soggiorno e la sala da pranzo, nonché un domestico efficiente. Questo umile ambiente suburbano rappresenta per lui comfort, persino lusso. Nella sua mente, lo contrappone alle sue origini in quel misero quartiere fangoso del Nord, dove ha trascorso un’infanzia di privazioni sotto una madre esausta a causa delle continue gravidanze e un padre alternativamente ubriaco e sobrio, che guadagnava al massimo una sterlina a settimana. Ai tempi precedenti alla Grande Guerra, quando i poveri erano davvero molto poveri.”
+
+Chiunque avesse emesso un simile giudizio avrebbe avuto ragione. Jack Williams si sentiva proprio così: era riuscito ad alzarsi in piedi, aveva fatto fortuna. Anzi, aveva fatto molto più di quanto chi lo osservava potesse immaginare. Il suo patrimonio ammontava a circa un quarto di milione di sterline.
+
+Era emerso in modo semplice e naturale, come fanno queste persone; da ragazzo, nel mulino dove lavorava, era considerato una sorta di eroe tra i suoi compagni: si accorse di avere un talento per il discorso, partecipò a dibattiti. Da giovane, quando divenne rappresentante dei lavoratori in un negozio, continuò a farsi strada nella sua organizzazione sindacale: divenne segretario del sindacato e, all’età di trent’anni, poco dopo la Grande Guerra, fu eletto al Parlamento. Tutto questo seguì il solito percorso di carriera, quel “cursus honorum” che ancora oggi caratterizza la vita pubblica in Inghilterra nel 1960, e che si integra perfettamente con i resti della nostra vecchia politica aristocratica.
+
+Fu accolto con cordialità non appena si alzò in piedi. Aveva lasciato il proprio segno nella Camera dei Comuni. Prima dei cinquant’anni aveva già ricoperto incarichi di minor rilievo; era entrato nel Ministero durante la prima amministrazione della signora Boulger. Aveva sfruttato al meglio le opportunità che gli si erano presentate: investendo con saggezza, cercando di conoscere il più possibile le persone e utilizzando tutte quelle informazioni, a loro vantaggio o a svantaggio, per stringere amicizie con uomini ricchi – vere e proprie amicizie su tutti i fronti. Tra i giovani era considerato un privilegio conoscerlo; c’era competizione tra le grandi dame per invitarlo nelle loro case, ed egli accettava sempre.
+
+Il Nobile Onorevole John Williams, avvocato (“Onesto Jack Williams”), membro del Parlamento, Segretario di Stato per gli Affari Interni durante il secondo mandato della signora Boulger (1960).
+
+Tra i suoi molti talenti ce n'erano due che si adattavano perfettamente a una posizione del genere: giocava a biliardo in modo eccezionale; aveva scoperto questa sua abilità prima dei vent’anni, nella squallida sala da biliardo del “Percy Arms”, quando era ancora un ragazzo che lavorava nelle fabbriche, ma già guadagnava bene. Inoltre, possedeva un modo di rispondere rapido e vivace. Non cercava mai di nascondere l’accento della sua città natale e della sua provincia; anzi, forse lo esagerava, anche se non so se lo facesse consapevolmente o meno.
+
+Lì sedeva, leggendo il suo giornale. Ma non era uno di quegli uomini che leggono i giornali fino a infastidire le loro mogli. Se lei lo aveva aiutato, come aveva fatto, non era solo perché era una donna di grande capacità (lo aveva sposato quando era ancora molto giovane; entrambi lavoravano nella stessa fabbrica e guadagnavano insieme meno di quattro sterline a settimana), ma perché lui l’aveva sempre rispettata, amata profondamente e affidato sempre il proprio giudizio al suo, in modo che lei potesse sentirsi orgogliosa di questo. Era una donna molto simile a lui per carattere e portamento: altrettanto decisa, sebbene più riservata; naturalmente non aveva il baffetto. E temo anche che i suoi occhi non fossero particolarmente umoristici. Ma il suo sguardo era sempre fermo. Nei affari, lei non gli aveva mai dato consigli. Non si era mai intromessa nelle sue decisioni, man mano che la sua carriera prendeva slancio. Tranne che, di tanto in tanto, nei momenti critici, le sue osservazioni erano solitamente negative, per evitare che lui compisse errori. Lui la rispettava molto. E aveva ragione. Il loro unico figlio era morto quando erano ancora poveri, nel Nord. Quella tomba aveva rafforzato il legame tra di loro. Oggi, in Inghilterra, non c’era coppia più solitaria di loro.
+
+So che stamattina stava leggendo il suo articolo, non in modo egoistico per sé stesso, ma facendo commenti continuativi mentre lo leggeva, raccontandole le notizie.
+
+“Sammy ha fatto di nuovo quella cosa. Parla troppo. Ehi! Jack ha ricevuto una lettera. Tutta sulle valute, ma non dice nulla di concreto.”
+
+“Quel Lord John non dice mai nulla che valga la pena ascoltare,” commentò la signora Williams.
+
+“Oh, ma lui pensa molto,” rispose suo marito; e aggiunse: “È per questo che è arrivato dove è ora.”
+
+“E dove si trova?” chiese la signora Williams con tono sprezzante. “Nella zuppa!”
+
+“Forse ora sì,” rispose il padrone di casa, annuendo saggiamente, “ma è ancora uno che esce direttamente dalla pentola. Non dimenticarlo, Martha. Ora, sii gentile con lui!”
+
+“Oh, sarò gentile con lui, signor Williams; sarò gentile con lui,” disse Martha, un po' turbata.
+
+“Sì, caro mio, lo sei sempre stato… Tu sai sempre cosa fare.”
+
+Ci fu una pausa. E durante quella pausa il marito girò la pagina e guardò le pagine posteriori. Sua moglie sapeva cosa significava: stava dando un’occhiata a questioni molto complesse relative alle azioni e ai titoli finanziari, di cui lei era troppo saggia per interferire.
+
+La signora Honest Jack Williams, una delle nostre principali figure politiche, ha espresso il suo parere secondo cui Lord John è nei guai.
+
+Si era comportato in modo ammirevole in quella partita, e lei conosceva bene i propri limiti. Ogni volta che sentiva (poiché a volte commetteva errori) di qualche grande successo ottenuto da lui, o quando le raccontava in termini generali (poiché lo faceva spesso) come fossero visti dal mondo esterno, come avrebbe agito in determinate situazioni, lei ricordava che forse avrebbero potuto avere un figlio a cui tutto questo sarebbe dovuto andare. Ma non ne parlava mai. Sapeva bene cosa sarebbe successo se lo avesse sopravvissuto: tutto sarebbe stato a sua disposizione. E se lui l’avesse sopravvissuta, beh, sapeva anche che il tempo che gli fosse rimasto non avrebbe avuto poi molta importanza per lui. Aveva una sensazione vaga, quella che spesso si ha quando si è condiviso così tanto per tanti anni: che in qualche modo nessuno dei due sarebbe sopravvissuto all’altro. Non succede esattamente così; ma spesso accade quasi così.
+
+E anche mentre Honest Jack Williams (Segretario di Stato per gli Affari Interni) osservava quelle azioni e quei titoli, e anche mentre gli occhi che lei riusciva appena a intravedere sopra il foglio di carta appoggiato mostravano un'espressione di concentrazione, mentre lui fissava attentamente le cifre che stava analizzando, lei lo ammirò ancora di più per la sua eccellente capacità di valutare il mercato, una qualità che sapeva bene essere la principale gloria di un uomo pubblico.
+
+C'erano stati alti e bassi, anche se le aveva parlato francamente di alcuni errori di valutazione o di momenti sfortunati; ma nel complesso la sua situazione finanziaria era sempre migliorata. E fino a che punto! Di tutti quei guadagni, nove decimi venivano risparmiati e accumulati. C'era anche lo stipendio, finché rimaneva in carica. Quanto al numero 7, Eliza Grove, con tutte le sue responsabilità, i taxi che prendevano sempre, le visite e il resto, tutto sommato non costava più di millecinquecento all’anno. Aveva davvero buone ragioni per essere orgogliosa di lui.
+
+In quei brevi momenti di concentrazione, durante i quali interruppe quella conversazione con sua moglie che teneva molto a mantenere, Jack Williams osservò attentamente, con i suoi occhi acuti e brillanti, ogni singola informazione contenuta nelle notizie finanziarie davanti a lui. Notò che il prestito indiano era stabile; fu leggermente infastidito dalle prime pagine riguardanti la Terza Banca Centrale; per un attimo, sul suo viso apparve un mezzo sorriso all’udire notizie riguardanti il nuovo prestito di garanzia, che aveva venduto in anticipo sulla base di informazioni ufficiali riservate a non più di una dozzina di persone. Poi la sua espressione cambiò di nuovo: divenne attenta e quasi eccitata. Sua moglie notò quel cambiamento, ma non riuscì a capirne la causa.
+
+Ciò che l'aveva causato era qualcosa di molto piccolo, ma estremamente significativo. Era una riga presente nella sezione delle azioni industriali, quella riga relativa a Billies alla Borsa di New York, dopo che la Borsa di Londra aveva chiuso le operazioni la sera precedente. Quella riga diceva semplicemente:
+
+“Ordine Telegrafico Imperiale 29s. 6d. – 31s. 6d.”
+
+Il Segretario dell’Interno emise un fischio molto basso, per il quale chiese gentilmente scusa a sua moglie. Posò il foglio e chiese alla signora Williams cosa ne pensasse su una questione che avevano discusso a lungo: se dovessero fare un’offerta per la casetta nel Surrey, situata ai margini della recinzione del parco che fino ad allora avevano affittato dai loro ottimi amici e ospiti abituali nella grande casa di Henbury.
+
+La signora Williams era sempre molto loquace sull’argomento; sapeva che suo marito era contrario all’acquisto, mentre lei era a favore. Pertanto, il signor Williams si aspettava – e ottenne – come al solito un lungo riassunto di tutte le sue ragioni. Mentre lei le esponeva, lui annuiva, prendendo atto di ogni punto, anche se le aveva già sentite venti volte prima; questo gli dava il tempo di riflettere, senza che lei potesse sapere come funzionasse la sua mente.
+
+Non si preoccupava affatto della capanna; pensava solo a Billies. Forse sarebbe stato eccessivo dire che si malediceva dentro di sé per non aver guardato quel nastro; era rimasto incollato tutto la notte al banco del Tesoro, fino al momento in cui il grido “Chi va a casa?” risuonò nelle sale della Camera dei Comuni. Era tornato a casa troppo stanco per pensare a nulla; si era addormentato subito. E nel frattempo aveva perso quell’opportunità. Signore. Come avevano fatto a guadagnare così tanto a New York! Quasi otto sterline! Venti nove, trentuno, partendo da ventidue. Che diavolo li aveva spinti a guadagnare così tanto.
+
+La voce di sua moglie gli giunse dall'altra parte del tavolo (perché uomini come lui riescono a fare due cose contemporaneamente).
+
+“Continuate sempre a dire che non volete quel posto, che comunque sia meglio cercare inquilini loro, che siano più cordiali e che così la gente non ci chiami per problemi. Ma è tutta sciocchezza, signor Williams. Non si sa mai cosa può succedere in questo mondo. E noi siamo stati lì ogni estate, per questi cinque anni. Non riuscirei proprio a rinunciarci.”
+
+“Se ci lo togliessero, potremmo comprare loro quella grande casa e tutto il resto,” disse il signor Williams con orgoglio.
+
+“Non è aperto, non siamo riusciti ad aprirlo,” rispose sua moglie.
+
+“Mia cara, ci sono molte verità nelle tue parole, ma non ci scacceranno via.”
+
+Il signor Williams parlava con dolcezza e gentilezza, ma le parole che gli passavano per la mente erano molto diverse: si diceva infatti:
+
+“È ancora presto, posso far sì che Gunter prenda il mio pacco prima che quel broker esca di casa per andare in città. Ma comunque siamo già a quasi dieci sterline di perdita per azione, maledizione!”
+
+Poi continuò ad alta voce, rivolto a Mrs. Williams: “Farò sempre ciò che vuoi tu in questa questione, mia cara. Lo sai bene: farò sempre ciò che desideri.”
+
+E la frase che gli passava per la mente era più o meno questa: “Stanno andando alla grande! Ho perso i primi otto scellini, ma scommetto che arriveranno a quaranta e oltre!”
+
+“Grazie, Jack,” disse la signora Williams. Lo chiamava sempre Jack ogni volta che otteneva ciò che voleva. Si alzò, con un po’ di difficoltà, camminò intorno al tavolo e lo baciò sulla fronte. Lui le accarezzò la mano, mormorando: “Qualsiasi cosa tu voglia, cara. Te lo dico sempre: qualsiasi cosa tu voglia.”
+
+Ma nella sua mente passavano pensieri del genere:
+
+“Ne sono così sicuro che credo di riuscire a racimolare cinquantamila.”
+
+Prese l’orologio e si alzò di scatto dal suo posto.
+
+“Ehi, è più tardi di quanto pensassi,” disse. “Devo fare una telefonata.”
+
+Andò verso il telefono situato nel corridoio stretto. Sentì i passi lenti e pesanti di sua moglie che si dirigeva in cucina per dare le istruzioni della giornata al loro unico servitore, simbolo della loro umiltà. Poi, sollevando il ricevitore, parlò con uno degli uomini con cui aveva a che fare, indirettamente, per quanto riguardava almeno alcune delle sue faccende commerciali.
+
+“Sei tu, Gunter?. Sì, parla Jack. Cinquantamila. No, so quello che dico. Sì, so tutto al riguardo. Lascia perdere ciò che ho mancato; forse non l’ho nemmeno perso. Comunque, è questa la mia decisione. No, non è troppo. Sì, sono io il più informato. Cinquantamila. Il secondo nome, quello su cui abbiamo concordato la scorsa settimana. No, nessun limite massimo; ci sarà abbastanza tempo per vendere. Te lo dirò quando sarà il momento.”
+
+Riappese il ricevitore.
+
+L’onorevole Jack Williams, membro del Parlamento e uno dei ministri di Sua Maestà, Segretario di Stato per gli Affari Interni, amava fare esercizio fisico, come ogni inglese sano e di successo. E nonostante quel giorno all’inizio di marzo minacciasse pioggia, come al solito camminava da Victoria a Whitehall; arrivava in ufficio entro le dieci.
+
+Mentre il treno lo portava in città, i suoi pensieri erano occupati da quelle cose che spesso si intrecciano con gli affari pubblici nella mente dei grandi statisti. Si chiedeva perché Billies avesse fatto quella cosa.
+
+Ovviamente avevano deciso di agire perché qualcuno credeva, o pensava di sapere, che il contratto sarebbe finito nelle mani di Durrant. Ma di cosa consisteva esattamente quell’informazione? Qual era il suo valore? Quando arrivò a Victoria, aveva già chiarito tutto nella sua mente.
+
+C'erano quattro possibilità: —
+
+Innanzitutto, McAuley e il suo gruppo, il gruppo di Durrant, avrebbero potuto disporre di una certezza; forse quella certezza era già in loro possesso in quel momento. E per quanto volessero nascondere il fatto per guadagnare tempo prima che i prezzi aumentassero, qualcosa avrebbe potuto trapelare: attraverso un servitore, uno spia, o qualcuno a cui il documento era passato tra le mani. Forse addirittura nell’atto stesso di stenografiarlo, se qualcuno fosse stato abbastanza sciocco da farlo stampare.
+
+Quella era una possibilità. La seconda possibilità era che James Haggismuir McAuley, avendo ottenuto l’assicurazione per iscritto, avesse deliberatamente divulgato quella informazione in modo indiretto: aveva già acquistato al prezzo più basso durante il piccolo calo di ieri, mercoledì mattina, e desiderava trarne un profitto prima che iniziasse la vera e propria fase degli affari.
+
+La terza possibilità era che non ci fosse alcuna garanzia, e che James, nel tentativo encomiabile di ottenere lo stesso rapido profitto, avesse fatto credere di disporre di una garanzia, quando in realtà non ne aveva. In quel caso, le azioni sarebbero sicuramente crollate prima o poi, e quindi bisognava tenerle d’occhio. Per il momento, il loro valore era destinato ad aumentare drasticamente, perché tutta [[settings/london|Londra]] avrebbe letto questa mattina la quotazione proveniente da New York sui giornali.
+
+La quarta possibilità era che qualcuno a New York avesse mentito spudoratamente per i propri scopi, e che fino ad allora non fosse stata data alcuna garanzia a Durrant; oppure, anche se ne fossero state date, nessuna informazione fosse trapelata, sia intenzionalmente che no, quindi in questo senso non c’era nulla di sospetto.
+
+Aveva raggiunto quel punto nella sua analisi; era sceso dal treno e stava per dirigersi direttamente verso l’ufficio a Whitehall quando, all’improvviso, si ricordò di un altro fattore. Decise quindi di prendere una strada secondaria che lo portasse vicino al fiume, così da avere il tempo di rifletterci sopra. Il fattore di cui si era ricordato era il rapporto del Comitato: sfavorevole a Durrant. Qualcuno aveva messo da parte quel rapporto. Nessuna semplice voce avrebbe potuto influenzare le azioni in presenza delle notizie trapelate, ovvero quelle secondo cui il Comitato si era espresso a favore di Reynier e contro Durrant. Solo una persona poteva aver deciso di ignorare quel rapporto. E quella persona era il Capo Postale Generale.
+
+Ora lo vedeva chiaramente: in un momento qualsiasi di ieri, mercoledì 4 marzo – o forse nella tarda serata di martedì 3 – McAuley aveva sistemato il P.M.G. nel posto giusto.
+
+Mentre camminava rapidamente lungo la riva del fiume, partendo da Horseferry Road – con la pioggia che continuava a minacciare ma senza ancora scendere, e il coraggioso vento sud-occidentale che increspava l’acqua contro la marea – Jack Williams diventava sempre più convinto della sua conclusione. Era un buon presagio che fosse giunto a quella decisione proprio mentre passava davanti a quelle maestose mura del Parlamento, che esercitavano un’influenza così positiva su riflessioni di quel tipo. Sì, ne era assolutamente certo: James Haggismuir McAuley aveva ottenuto le prove concrete, con il nome di Halterton sopra, e le aveva diffuse attraverso i propri canali. Billies avrebbe avuto successo. Era contento di aver dato quell’ordine; ora poteva vivere in pace con la propria coscienza.
+
+Tutta la mattina, il Nobile John Williams si occupò degli affari per i quali veniva pagato da una nazione riconoscente, con un compenso di 100 sterline a settimana. La sua rapidità nel prendere decisioni, il suo ottimo modo di comportarsi con i subordinati e la sua presenza carismatica permeavano l’ambiente in cui operava. Commutò la pena di una persona, decise di impiccare un’altra (naturalmente su parere competente) e lesse con grande attenzione il rapporto riguardante i problemi nella divisione “C”. Chiamò il segretario che aveva redatto il verbale, analizzò ogni dettaglio, prese una decisione saggia, dedicò il resto del tempo alla grande riforma della polizia e poi uscì per attraversare il parco e recarsi al club a pranzo, convinto di aver guadagnato appieno i suoi soldi. Il che, in effetti, era vero: era davvero un bravo lavoratore.
+
+Mentre entrava, diede un'occhiata alla striscia di nastro generale, tenendola davanti al viso e prestando particolare attenzione alle notizie sul matrimonio reale in Italia; con l'occhio destro, però, lanciava occhiate all'altra striscia di nastro per scoprire il prezzo dei prodotti Billies. Dovette aspettare un po’ prima che arrivassero.
+
+“Ore 12:56; Pelham Pref. 108 – 109, Reefers 79 ex.” E così via, e poi, finalmente, Billies:
+
+“Ordine di trasmissione urgente: 35-36 secondi.”
+
+Un altro uomo avrebbe sorriso. Jack Williams assunse un'espressione preoccupata, quasi addolorata; si chinò di nuovo per un momento davanti alla notizia del matrimonio reale italiano, sospirò e poi entrò nella sala da pranzo.
+
+IV
+
+Proprio mentre Jack Williams stava finendo la colazione, il suo collega, Wilfrid Halterton, decise che doveva chiamare James McAuley, per la sesta volta.
+
+Gli dispiaceva un po’ comportarsi in quel modo, ma cosa poteva fare? C’era stato qualche malinteso e doveva essere chiarito. Se James Haggismuir McAuley avesse potuto incontrarlo di persona, quella situazione straordinaria si sarebbe risolta, ma al momento sembrava davvero difficile trovarlo. Il telefono non era mai stato molto affidabile, ma ormai non c’era altra scelta. Dopo cinque tentativi infruttuosi, prima delle nove di mattina, Wilfrid Halterton provò ancora una volta a chiamare l’appartamento vicino a Marble Arch. Una voce di domestico gli rispose che il grande finanziere era in bagno. Wilfrid Halterton, che stesso non aveva ancora finito di vestirsi, tornò in camera sua, si sedette sul letto e rifletté sulla situazione. All’inizio non arrivò a nessuna conclusione, tranne una: qualcosa era andato storto. Poi tornò al telefono, e questa volta la voce del domestico gli disse che il signor McAuley sarebbe subito venuto all’apparecchio. Infine risuonò la voce di James Haggismuir, per una volta, con un tono irritato.
+
+“Guarda qui, Wilfrid. Ma che diavolo è tutto questo? Non chiamarmi più a quest’ora assurda! Non sono nemmeno vestito ancora. Cosa vuoi? Sei tu, vero?”
+
+“Sì. Voglio vederti. Devo vederti. C’è stato un malinteso. Non credo tu abbia capito del tutto ciò che ti ho detto ieri sera alla casa dei Balcombe. Almeno, eri lì. Parlavo dal palazzo, come ti avevo detto. Non penso tu abbia davvero compreso il senso delle mie parole, vero? Qualcosa è andato storto. Posso venire da te questa mattina. Ora? Tra un quarto d’ora?”
+
+Trascorse un lungo lasso di tempo senza alcuna risposta; tuttavia Halterton riempì quel silenzio con commenti del tipo “Eh? Cosa?” e “Dico. Scambiamo!” Poi la voce di J. risuonò di nuovo, un po’ più bassa e priva di quella precedente irritazione.
+
+“Ascolta bene, Wilfrid: tutto questo non è altro che un groviglio di problemi. Vieni qui dopo le dieci; ti troverò a colazione. Non capisco di cosa si tratti. Sembra che tu abbia perso una lettera di qualcuno, giusto? Ma non importa. Vieni da me alle dieci e un quarto.”
+
+Prima che il Capo Postale potesse dire un'altra parola, J. riattaccò il telefono. Per quanto riguarda Wilfrid Halterton, rimase per un momento immobile davanti al suo riscaldatore a radio, fissando la griglia luminosa; scosse la testa due volte e mormorò: “Molto misterioso, ”
+
+Quel breve lasso di tempo sembrava interminabile; arrivò al Marble Arch un po’ prima dell’ora prevista, passeggiò tranquillamente per il salone e non chiamò l’ascensore finché l’orologio non gli confermò che erano davvero le dieci. Non voleva dare l’impressione di essere affrettato. Anche se, forse più che mai, in quel volto pallido e in quelle dita irrequiete si leggevano segni di fretta e ansia.
+
+Lo trovò seduto comodamente da solo al suo tavolo da colazione. J. non si prese nemmeno la briga di alzarsi, ma gli fece cenno con la testa verso una sedia e gli chiese se volesse una tazza di tè. Wilfrid Halterton gli ringraziò; quel momento di pausa gli permise di riprendersi. Lo fece, poi, evitando lo sguardo di McAuley, disse:
+
+“Dico, sai… sai perché sono venuto?”
+
+“No, assolutamente no!” McAuley, abbandonando la sua salsiccia, posò coltello e forchetta e alzò lo sguardo dritto in faccia al suo ospite, costringendolo a voltarsi verso di lui.
+
+“Non so proprio cosa fare. Immagino che vogliate il mio consiglio su qualcosa, vero? Avete detto che c’è stato un problema con una lettera. Dite pure.”
+
+“Mio caro J, ”, disse Halterton, lanciando un’occhiata verso la porta e un po’ spaventato da quella voce forte, “è molto semplice. Sono venuto solo per chiederti se potrei avere un’altra lettera al posto di quella che ho ricevuto ieri sera. L’ho persa. È davvero sfortunato. Una cosa del genere non dovrebbe essere lasciata in giro; qualcuno potrebbe trovarla. Comunque, devo assolutamente averne una copia. Capisci, vero?”
+
+“Non capisco affatto cosa intendi!” James Haggismuir McAuley pronunciò queste parole con grande attenzione, i suoi occhi acuti fissi sul Segretario Generale delle Poste come due canne di pistola di piccolo calibro. “Quale lettera?”
+
+“Perché…”, balbettò l’altro, “la lettera che mi hai dato, ovviamente.”
+
+“Mio caro Wilfrid, ci sono state molte lettere scambiate tra di noi.”
+
+Il Capo Postale si alzò improvvisamente e si diresse verso la porta con passi molto più rapidi del solito. La aprì, guardò fuori per assicurarsi che non ci fosse nessuno nei paraggi, la richiuse, tornò indietro e disse:
+
+"Guarda qui, nemmeno io capisco... Devo assolutamente avere una copia di quella lettera."
+
+“James McAuley posò una mano stretta sul tavolo, ai lati del suo piatto, e gridò…”
+
+“Siamo completamente nel caos, amico. Ieri sera al telefono hai detto qualcosa che pensavi io sapessi, ma non lo so. Davvero, non ho idea di cosa si tratti.”
+
+La mente di Wilfrid Halterton fece un giro completo su se stessa, lasciandolo confuso. Era stordito e non aveva ancora ripreso il controllo di sé. Tuttavia, agì con estrema semplicità. Disse:
+
+“Perché, la lettera che mi hai dato martedì sera, J. Dopo che avevi ricevuto la mia lettera con cui accettavo il contratto. Ho preso la tua lettera, vero? Quella senza data, sai. Ti ricordi cosa c’era dentro? Beh, comunque, quella lettera senza data. Te ne ricordi? Quella firmata da te. L’ho messa in una busta. L’ho messa in tasca, ”
+
+“Tutto questo è del tutto incomprensibile per me,” sospirò J. “Ho ricevuto la tua lettera, naturalmente. Lo sappiamo entrambi. E sono sinceramente grato a te, Wilfrid. È stata davvero decisiva. E oltre a questo, ” proseguì, mentre Halterton sembrava sul punto di interromperlo, “penso che tu abbia fatto del bene per il paese. Ne sono sicuro. Sono altrettanto sicuro della luce del giorno che il nostro è l’unico sistema in grado di funzionare correttamente. Non nego che sia a mio vantaggio. Certo che lo è. Tutti lo sanno, e io stesso l’ho sempre sostenuto. Ma hai agito nel modo giusto per il bene del pubblico. Loro te ne saranno grati, e anch’io.” Tese la sua mano destra aperta. Halterton la prese, con esitazione.
+
+“Grazie, J.,” disse, “grazie mille. Ma ora ascolta: c’è un grave malinteso. Devi permettermi di avere una copia di quella lettera perduta.”
+
+“C’è qualche malinteso,” rispose J., con una voce ora un’ottava più bassa di quella che aveva usato anche durante le parti più intense di quell’intervista patetica. “È un malinteso molto grave. State confondendo le cose.”
+
+Poi, prima che Halterton potesse intervenire con una obiezione, un’idea geniale colpì il capo della Durrant’s Imperial Television Company.
+
+“Ascolta bene, amico: la cosa migliore che tu possa fare è tornare a casa e scrivere esattamente ciò che vuoi. Forse stai confondendomi con un’altra persona, o forse ti sei sbagliato riguardo a un documento o all’altro. Comunque sia, pensi che io ti abbia inviato una lettera. Ma non è stata scritta da me. Deve essere stata scritta da qualcun altro poco prima o dopo. È facile confondersi in queste cose. Ma non c’è alcun danno. Se c’è qualcosa che vuoi che faccia riguardo al tuo contratto, torna a casa e scrivilo tutto chiaramente su carta. Poi ne parleremo, con tutti i fatti davanti a noi.”
+
+Wilfrid Halterton rimase sbalordito, senza fiato.
+
+“Vuoi che ti scriva di ciò che, di ciò che mi è stato offerto? Vuoi che lo faccia a mano mia? Davvero vuoi che io faccia una cosa del genere?” disse, con un tono sempre più alto e leggermente tremante. “A mano mia?”
+
+J. scosse la testa.
+
+“Non si può fare nulla di tutto questo!”, disse.
+
+Posò la mano sulla spalla del suo amico. Il suo amico non osò scuoterla via, anche se avrebbe voluto farlo.
+
+“Torna a casa, scrivi tutto per iscritto, firmalo e mandamelo; poi ti risponderò. Così sarà tutto a posto, vero?”
+
+“Neghi di avermi dato quella lettera?” rispose Wilfrid, usando toni più acuti di quelli che aveva usato fino ad allora. Poi salì di tre note, arrivando al si bemolle, e ripeté: “Neghi di averla data, ”.
+
+“Mio caro amico,” implorò il finanziere, “per favore, non gridare!” (“Stridere” sarebbe stato più appropriato; un urlo è troppo forte per la situazione.) “Scrivilo semplicemente, come ti dico. Scrivilo qui, se vuoi.”
+
+Wilfrid Halterton era diventato pallido e appassionato.
+
+“Molto bene,” disse a voce bassa, metà mormorando, metà sibilando. “Molto bene. Davvero. Penso di iniziare a capire. Ma non essere troppo sicura! Io la troverò, J. Ricorda. La troverò!”
+
+In risposta, J. afferrò le due mani dell’uomo alto e le tenne saldamente nella sua stretta decisa.
+
+“Guarda qui, Wilfrid,” disse, fissandolo con uno sguardo sagace e benevolo, ma con un'espressione molto seria, “ti conosco da alcuni mesi ormai, e penso che siamo diventati buoni amici, vero? Nessuno ti apprezza di più di me. Ma non si può pretendere che un cervello eccezionale come il tuo lavori a doppio ritmo senza subirne le conseguenze. Ascolta il mio consiglio: torna a casa, lascia che quel tuo cervello riposi un po’, e scrivi su carta tutto ciò che pensi sia accaduto; oppure, se non ti va di farlo, indica semplicemente cosa vuoi che io faccia. Puoi essere certo che ci incontreremo. Ecco!”
+
+Tenendo ancora saldamente i polsi di quelle due mani nella sua destra ferma, posò di nuovo la sinistra sulla spalla del Ministro.
+
+“Fai ciò che ti dico,” disse. “A volte, Wilfrid, sei il tuo peggior nemico. Ma nessuno desidera il tuo bene più di me.”
+
+Non riesco a descrivervi l’umore di Halterton, perché nemmeno lui stesso avrebbe potuto definirlo con precisione. Confusione, rabbia, dubbi su se stesso e sui propri sensi, ricordi legati a libri che aveva letto su oscure intrighi. Tutte queste emozioni contrastanti si agitavano dentro di lui mentre si allontanava. Quel momento di intensa rabbia era ormai diventato qualcosa di troppo complesso da analizzare. Quando arrivò in strada, i suoi pensieri iniziarono a schiarirsi. La fresca mattina di marzo, con la pioggia ancora sospesa nell’aria, lo calmò un po’. Continuò a camminare lungo il Parco verso Westminster, dando tempo a se stesso di riflettere con chiarezza. Il suo segretario lo avrebbe aspettato nella sua stanza alla Camera dei Comuni; quel mattino aveva molto lavoro da svolgere. Questo lo avrebbe distratto e gli avrebbe aiutato a chiarire le idee. Ma una cosa era certa: non avrebbe scritto nulla su carta. E questo dimostrava che era davvero saggio.
+
+Prima ancora di arrivare alle Camere del Parlamento, nella sua mente iniziarono a formularsi domande e risposte incomplete. Perché J. aveva negato di avergli dato quella lettera? Dopotutto, la lettera era stata davvero data. Non poteva essersela immaginata. Perché J. aveva mentito? Voleva forse ritrattare l’accordo. Ma se la lettera venisse trovata? Forse J. sperava semplicemente che non venisse scoperta, così da poter mantenere la libertà di nominare chi voleva, e anche quella di negoziare ulteriormente per impedire alla Posta di ritrattare l’accordo. Comunque sia, all’inizio J. sembrava davvero riluttante a dargli quella lettera.
+
+Quando si sedette alla sua scrivania e la sua segretaria iniziò a mettergli davanti i documenti, le riflessioni del Postmaster-General erano già arrivate a quel punto. Non riuscì ad andare oltre nel corso della mattinata, perché non era uno di quei persone che riescono a pensare a due cose contemporaneamente; in effetti, la tensione che provava fu alleviata dal fatto di essere completamente assorbito dai suoi affari e di aver distolto la sua attenzione da un problema che gli sembrava insolubile.
+
+So che le cose continuarono fino a un pranzo anticipato, che mangiò da solo nella sala da pranzo della Camera dei Comuni. Tornò in camera sua prima delle due e continuò a lavorare. C’era molto lavoro da svolgere, e la sua segretaria era davvero molto efficiente. Halterton lavorò fino all’inizio del pomeriggio, fino al momento in cui la Camera si riunì.
+
+All’inizio della sessione, dopo le preghiere, gli furono poste alcune domande; alle tre in punto si trovava già nella prima fila del banco dei deputati, di fronte ai banchi piuttosto affollati dell’Opposizione, con una mezza dozzina dei suoi colleghi al suo fianco. Per qualche coincidenza, Honest Jack Williams era seduto accanto a lui sulla destra. Honest Jack Williams aveva incontrato un suo giovane amico incaricato di un altro compito, e quest’ultimo gli aveva portato la notizia: Billies aveva chiuso alle 42 secondi. Ma Honest Jack Williams decise comunque di rimanere lì.
+
+Doveva prendere una decisione che andasse oltre la semplice detenzione delle azioni. Doveva capire se quella fase di crescita economica sarebbe durata a lungo. A James McAuley era stato concesso il contratto, senza dubbio. Ma era davvero vincolante? O forse poteva ancora essere annullato? Senza dubbio, le procedure necessarie per formalizzarlo erano già state avviate; forse le copie del contratto erano già state stampate. Tuttavia, anche se votare su ordine del governo è praticamente una prassi abituale, soprattutto se (come lui sospettava) il Capo dei Whip fosse interessato, beh, niente è certo finché non si è effettivamente votato.
+
+Uno o due uomini gli avevano detto casualmente nell’atrio che Halterton sembrava preoccupato. Onesto com'era, Jack Williams gettò un rapido sguardo verso sinistra lungo la prima fila di banchi, senza muovere la testa, e colse l’espressione del Segretario Generale delle Poste. Sì, James McAuley aveva il contratto in mano, ma qualcosa era andato terribilmente storto con il Segretario Generale delle Poste.
+
+Sono state poste domande al Capo Postale Generale, e più di una persona si è chiesta se non fosse stato possibile inviare tempestivamente una domanda speciale per chiedergli informazioni sullo stato del Contratto per la Televisione; infatti, non c’è nulla che interessi di più anche ai membri privati dei parlamenti rispetto al andamento delle azioni e delle obbligazioni. E i telegiornali avevano trasmesso notizie ininterrottamente per tutto il giorno.
+
+Ma le domande a cui doveva rispondere quel grande statista erano di natura più semplice. Gli era stato segnalato il ritardo nella consegna della posta nel distretto di Derby?
+
+L’attenzione su di esso era stata attirata e erano stati presi i provvedimenti necessari.
+
+In seguito a quella risposta, quali misure erano state prese?
+
+Nessuna risposta fu data in cambio.
+
+Potrebbe il Capo dell’Ufficio Postale indicare una data entro cui introdurrà la misura da tempo promessa per includere il Continente Antartico nell’Unione Postale? (Si potrebbe dire la “Golconda Polare Meridionale”, che, sebbene al momento abbandonata, sarà riaperta molto presto.)
+
+Il P.M.G. stava dedicando la massima attenzione a questa questione.
+
+In seguito a quella risposta, il Capo Postale Generale era a conoscenza del fatto che il servizio radio installato l’anno precedente sul Continente Antartico si fosse interrotto?
+
+Nessuna risposta fu data in cambio.
+
+Se l’attenzione del Capo Postale Generale fosse stata attirata sull’inadeguatezza dei servizi telegrafici per le Isole Orcadi, avrebbe preso immediatamente misure per raddoppiare la capacità della linea?
+
+La risposta a entrambe le domande era affermativa.
+
+A seguito di quella risposta, era consapevole che, dopo un ritardo di oltre tre mesi, non fosse stato fatto nulla?
+
+Nessuna risposta fu data in cambio.
+
+Infatti, si potrebbe scusare Wilfrid Halterton per non aver risposto a così tante domande supplementari. La postazione del Tesoriere non era molto alta, e dondolarsi su di essa come una marionetta rappresenta davvero un problema per un uomo di oltre cinquant’anni.
+
+La sua prova era finita, e le domande che venivano ora poste erano rivolte al Ministro delle Belle Arti, il vecchio e popolare Lord Papworthy: un titolo irlandese, perché sebbene il nome Papworthy abbia un suono onesto e anglosassone, anche il castello e la città di Papworthy hanno un nome originale che è stato ripristinato dal governo irlandese dopo il nostro splendido atto di generosità nel 1921.
+
+Se il Nobile Signore, il Segretario di Stato per le Belle Arti, avesse rifiutato di acquistare i “Oblongs”?
+
+Derivante da quella risposta, era vero che “Oblongs” sarebbe andato in America, proprio come quel altro capolavoro, “Rhomboids”?
+
+E derivante da quella risposta, e ancora da quella risposta, e ancora da quella risposta.
+
+Lord Papworthy affrontò con grande disinvoltura quelle domande continue. Quell’uomo anziano mantenne un atteggiamento cordiale, parlando con la sua voce alta e sonora; tuttavia il deputato che gli poneva le domande era arrabbiato, persino aggressivo. Il deputato parlava dal dietro del banco del Tesoro, e il Ministro per le Belle Arti, quell’uomo dall’aspetto gentile e dal viso rotondo e benevolo, era costretto a girarsi continuamente per ascoltare, e sebbene sorridesse ancora, quella situazione lo infastidiva. L’aula, che si diverte facilmente, fu davvero molto divertita da tutta questa scena.
+
+L’opportunità per Jack Williams era eccellente; nel frastuono delle grida “Rispondi! Rispondi!”, sussurrò una parola discreta all’orecchio di Halterton.
+
+“Va tutto bene con Billie?”
+
+Halterton sembrava soltanto imbarazzato.
+
+“Davvero?” sussurrò lui in risposta. “Vorrei parlarti un attimo, Jack.”
+
+Williams era l’uomo a cui rivolgersi quando si era in imbarazzo. Era sempre in grado di dare consigli saggi e immediati, e aveva sempre ragione.
+
+“Quando vuoi tu,” rispose velocemente, sempre con quella stessa voce bassa.
+
+“Bene, può essere ora?” disse l’altro. “Ma non uscire subito dopo di me.”
+
+“Mio caro Wilfrid, puoi trovarmi nella mia stanza quando vuoi. Sarò sempre lì. Quando le domande saranno finite, non ci sarà nessuno tranne la vecchia Madre Boulger. E comunque, tu non avrai più nulla da dire.”
+
+E così Williams se ne andò, dietro la sedia del Presidente, lentamente e con disinvoltura, dicendo una parola o due a uno degli ufficiali permanenti presenti sotto il palco, solo per dimostrare che non aveva alcuna fretta.
+
+Dopo un breve intervallo, e dopo aver scambiato molte parole con quest’uomo e quell’altro mentre se ne andavano, Wilfrid Halterton si alzò a sua volta e si diresse verso la porta principale che conduceva all’atrio esterno, l’uscita opposta a quella da cui era uscito Williams. A quanto pare aveva degli affari da sbrigare nell’atrio; mentre attraversava le porte a vetri oscillanti, gettò un’occhiata alle sue spalle e vide la signora Boulger alzarsi in tutta la sua imponente maestosità per rispondere all’atroce attacco sferrato il giorno prima dal nipote di Mr. Boulger, proveniente dalla fila dei banchi dell’Opposizione, un giovane promettente.
+
+Wilfrid Halterton afferrò un uomo nell’atrio interno, trascorse un momento all’ufficio postale fingendo di chiedere un messaggio, poi scese le scale e si diresse verso l’ufficio del Segretario dell’Interno, senza affrettarsi. Trovò Williams da solo, proprio come gli era stato promesso.
+
+“Ora, Wilfrid,” disse Jack Williams con entusiasmo, girando la sedia di mezzo giro per rivolgersi al nuovo arrivato, “di cosa si tratta? Come vanno le cose? Che cos’è successo con Durrant’s? Immagino che tu voglia parlarmene. Siediti.”
+
+“Sì, Jack,” disse Halterton, mentre tirava avanti una sedia. “Davvero sì.”
+
+Si mise le mani incrociate tra le ginocchia ossute e fissò il tappeto, pensando a cosa dire dopo. Poi alzò lo sguardo.
+
+Tre studi su Lord Papworthy, Ministro Permanente delle Belle Arti: schizzi realizzati da Sir Archibald Rumm per la statua esposta all’Accademia nel 1959, oggi situata nella residenza di Papworthy House.
+
+“Sai, Jack,” disse, “ogni volta che sorge un problema, tutti si rivolgono a te.”
+
+“Grazie,” disse Williams.
+
+“E c’è stato un intoppo, Jack… Immagino tu l’abbia già capito.”
+
+“Non sembra affatto un intoppo…”, rispose Williams in tono piuttosto secco. “I fanali brillano intensamente.”
+
+Halterton si alzò e iniziò a camminare avanti e indietro nella stanza, proprio come faceva di solito quando il suo potente cervello era impegnato nel lavoro.
+
+“Beh, ascolta qui, Jack, è così, ” (e forse per la decima volta in quarantotto ore guardò verso la porta; era chiusa abbastanza bene.) “È proprio così, ”. Si sedette di nuovo e addirittura batté leggermente il Ministro dell’Interno sulla gamba. “Non sono felice riguardo a J.”
+
+“Che cosa c’è che non va con J.?” chiese Williams con calma. Non gli dispiaceva che qualcuno gli battesse sulla gamba; e non gli importava nulla di ciò che gli accadeva, purché sapesse prima degli altri cosa stava succedendo. “Che cosa c’è che non va con J.? È chiaramente molto felice. E inoltre, non ha tenuto la bocca chiusa: ha preferito parlare, eh?”
+
+Wilfrid Halterton aveva letto in molti libri che, quando si trova in una situazione difficile e si chiede consiglio, bisogna essere molto franchi e esporre tutto all’istante. Onestamente voleva seguire i suggerimenti dei libri, ma era difficile farlo.
+
+“Sì“, disse, “J. sta bene… Ma io no.“
+
+“Beh, Wilfrid, spero che senza un accordo adeguato, lui non riesca ad ottenere quella cosa, qualunque essa sia.”
+
+“No… Ma vedi… vedi…”
+
+“Guarda, Wilfrid,” rispose Jack Williams con gentilezza e pazienza, ma non senza un piccolo sospiro, “mi stai chiedendo un consiglio, vero?”
+
+“Sì, lo sono,” disse il povero Wilfrid, con un tono che lasciava intuire una traccia di tragedia; l’altro se ne accorse immediatamente.
+
+“Mi chiedi un consiglio, e hai perfettamente ragione. Credo infatti di sapere qual è il problema e cosa si dovrebbe fare.”
+
+Fu detto casualmente, ma colpì nel segno. Lui se ne accorse, quindi si sporse in avanti con attenzione, cambiando tono di voce.
+
+“E guarda qui, Wilfrid: in faccende del genere gli uomini devono stare uniti. Spero che tu non abbia litigato con J., vero?”
+
+“No, no,” rispose rapidamente Wilfrid, “non quello!”
+
+“Bene, ora raccontami tutta la storia dall’inizio e ti darò il miglior consiglio possibile. Probabilmente riuscirò a capire qual è il problema in cinque minuti.”
+
+“La questione,” disse Halterton, la sua voglia di prendere decisioni sagge prevalendo sulle sue esitazioni, “la questione riguarda la lettera di J.”
+
+“Voi intendete,” disse Jack Williams (a cui questo genere di cose era altrettanto familiare quanto il proprio volto nello specchio da barba), “volete dire quella lettera o qualcosa del genere che J. vi ha dato in relazione al contratto, o alla promessa contenuta nel contratto? Volete dire, l’accordo che aveva con voi?”
+
+Halterton annuì. “Più o meno,” disse. “Qualcosa del genere. Il suo riconoscimento, capisci. Tutto quel tipo di cose. E il problema è che ho scritto anch'io un promemoria sopra la lettera, a matita, solo per essere sicuro.”
+
+“Ah, davvero l’hai fatto…”, disse Williams con un tono cupo. “Una precauzione davvero utile!”
+
+“Sì… E ora è scomparso, insieme a quelle mie scritture sopra di esso.”
+
+“Se n’è andato!” disse Jack, davvero sorpreso. “Che imbarazzo. Robe del genere non dovrebbero essere lasciate in giro così.”
+
+Lo guardò dritto in faccia, con decisione, ma poi si riprese dallo stupore causato dalla notizia e sorrise in modo così cordiale che non vi era alcun segno di rimprovero nel suo sorriso.
+
+“No, per Giove!”, mormorò il Capo Postale Generale.
+
+“Beh, c’è una cosa che devi assolutamente fare: chiedere un altro esemplare a J.”
+
+“L’ho avuto,” disse Wilfrid, parlando lentamente e solennemente, “ma lui l’ha rifiutato.”
+
+“Rifiutato!”, esclamò Williams con un improvviso movimento delle sopracciglia.
+
+“Sì”, disse Halterton, “mi è stato rifiutato… E inoltre, dice che non mi ha mai dato nulla”.
+
+Il Ministro dell’Interno cedette all’abitudine e emise quel fischio sommesso che aveva preso a usare nei primi anni della sua attività politica nel movimento sindacale, ogni volta che si imbatteva in qualcosa che “lo stimolava ad agire”.
+
+“Oh-o-o-h!” disse. Poi appoggiò il mento sulla mano, continuando a fissare Halterton con lo sguardo, e aggiunse: “Sai cosa è successo?”
+
+“No, non riesco proprio a immaginarlo,” rispose Halterton, evitando di guardare l’altro negli occhi. “Ho cercato dappertutto. Ho persino controllato sotto il tappeto, anche se non capisco come possa essere finito lì. Non ho controllato nemmeno la fodera del mio cappotto. Sono sicuro, però, che la fodera non fosse strappata. Non c’è nessun posto dove potrebbe essersi nascosto nel corridoio. A meno che, forse,” aggiunse, mentre gli veniva in mente un’idea, “a meno che sotto lo stendibagagli non ci fosse spazio per un pezzo di carta. Non l’ho controllato.” La sua voce adesso suonava piena di nuova speranza.
+
+“Mio caro Wilfrid,” rispose il Segretario dell’Interno con una voce piuttosto bassa e molto uniforme, “non è sotto il tappeto. Non è nemmeno sotto lo stendibagagli. E non si trova nemmeno nell’altro mondo. Devo dirvi dove si trova?”
+
+“Ma tu non lo sai!” si lamentò l’altro con voce triste.
+
+“È sulla persona di James Haggismuir McAuley.”
+
+“Che cosa!”
+
+“Sulla persona, ho detto,” ripeté Williams con un po' di severità, “sulla persona di James Haggismuir McAuley. Direi che fosse nella tasca. Forse cucita sulla sua giacca. Ma più probabilmente in una tasca. In generale, direi che si trovasse nella tasca interna sinistra del suo soprabito mattutino. Dopotutto, è ancora metà pomeriggio.” Poi si appoggiò allo schienale e continuò, con un sorriso negli occhi: “Ecco fatto, Wilfrid! Te l’ho detto. Ora lo sai.”
+
+Halterton guardò il suo collega con aria confusa. Williams era stato chiamato “Il Mago”: Hiram Buggs, ex residente di Warramugga e ora Primo Barone Desportes, gli aveva dato quel nome nel suo articolo, subito dopo avergli conferito il titolo nobiliare. Sebbene il Capo Postale sapesse che Williams lo aveva aiutato ad ottenere il titolo nobiliare, non aveva mai capito il motivo di quel soprannome pieno di ammirazione. Ora iniziava a comprenderlo; e per quanto elevata fosse la sua posizione, frutto dei suoi stessi grandi successi, provò un senso di reverenza di fronte al genio di quell’uomo di stato che sedeva davanti a lui, così padrone di sé e semplice, ma che possedeva uno strumento intellettivo di enorme potere.
+
+“Ah,” disse dopo alcuni momenti per assimilare tutto quanto. “La tasca interna del gilet, quella che indossava quella mattina, la sinistra, giusto?”
+
+Il Ministro dell’Interno annuì.
+
+“Esatto,” concordò lui.
+
+“Beh! Per la mia parola! Quindi dici che ce l’ha?. Beh. Ora inizio a capire.”
+
+“Ne sono felice,” disse l’altro, e per un momento il sorriso tornò sul suo volto.
+
+“Sì, inizio a capire. Ora ho capito. Per qualche motivo voleva riavere quell’oggetto indietro.”
+
+“Sì”, disse Williams. “Per qualche motivo o altro, lo fece.”
+
+Il Capo Postale rifletté a lungo, fissando la tavola. Poi alzò lo sguardo e aggiunse, dopo un improvviso pensiero: “Ma perché credete che l’abbia tenuto? Perché non avrebbe dovuto distruggerlo? Ora capisco perché abbia detto di non ricordare nulla al riguardo. Ma allora, perché non l’ha distrutto?”
+
+“Perché la tua nota scritta su quel foglio è un documento prezioso… Gli permette di tenerti sotto controllo.”
+
+Halterton ebbe la sensazione di aver ricevuto un colpo moderato nello stomaco.
+
+“Tienimi stretto!” esitò. “Sì… capisco… inizio a capire…”
+
+“Inoltre,” continuò felicemente il Segretario dell’Interno, “gli piaceva poter decidere liberamente a chi assegnare quel lavoro, eh?”
+
+“Quale lavoro?” chiese l’altro con sospetto. “Non ho mai sentito parlare di alcun lavoro. Non ho mai detto nulla riguardo a un lavoro!”
+
+“Oh, no, vecchio mio,” rise Williams. “Comunque, agli uomini non piace sentirsi legati, vero? Beh, lui lo sa bene. Puoi giurarlo.”
+
+Altre questioni continuavano a preoccupare Halterton. La sua voce era piena di umiltà mentre cercava una soluzione insieme a loro.
+
+“Ma perché proprio addosso a lui? Perché nel suo taschino? E perché nel taschino interno del petto, Jack? Perché nel taschino interno sinistro del petto?”
+
+Williams sospirò dolcemente.
+
+“Addosso a sé, caro mio, perché è l’unico modo sicuro per tenere qualcosa senza che nessuno al mondo ne sappia nulla. Nella tasca, perché se lo fai cucire all’interno della tua giacca, come ho visto fare alcuni (il vecchio Bisher fece così con quella lettera compromettente nel caso Holt, te lo ricordi?). Ti ricordi del vecchio Bisher, il Cancelliere di Giustizia di venticinque anni fa?”
+
+“Ricordo il nome,” disse Halterton.
+
+“Beh, conoscevo quell’uomo, ed è proprio quello che ha fatto.” Ma Williams non aggiunse anche che conosceva l’uomo che se l’era portato via dal vecchio Bisher, e quanto gli fosse valso.
+
+“Il motivo per cui non credo che McAuley abbia fatto quella cosa è che vuole tenerla per sempre. Si cuciono le cose all’interno dei gilet solo quando sono destinate ad essere utilizzate per pochi giorni, ovviamente.”
+
+“M-m-m, sì,” convenne Halterton. “Ovviamente. Sì, sarebbe una tasca, sì, hai ragione. Ma perché proprio una tasca sul petto?”
+
+“Perché,” disse Williams con un po’ di stanchezza, come se fosse stufo di insegnare le nozioni di base della politica a un altro politico, “perché è più difficile prendere qualcosa dalla tasca interna che da quella esterna. Come avrete ormai capito.”
+
+Halterton arrossì davvero. “Sì, l’ho fatto, Jack,” ammise. “Hai ragione. Era nella mia tasca laterale. Oh, che disastro, ”
+
+Onesto Jack Williams insegna ad un suo connazionale l’arte della politica.
+
+“Non farlo, Wilfrid, per favore,” disse il Segretario dell’Interno, alzando la mano per fermarlo. “Non arrabbiarti mai con un collega che gioca meglio di te!”
+
+Solo gli uomini più grandi comprendono questo; coloro che lo comprendono raggiungono la vetta, proprio come aveva fatto Williams.
+
+Ma Halterton aveva ancora un'altra domanda da porre.
+
+“Ah sì… e perché proprio sul lato sinistro?”
+
+“Davvero… Wilfrid… davvero, non ti sei accorto che McAuley è destro di mano?”
+
+“Sì, suppongo di sì. Non me ne ero mai reso particolarmente conto. Ma ora che ci penso, sì, ricordo. Scrive con la mano destra.”
+
+“La maggior parte delle persone lo fa,” disse Williams.
+
+E nei pochi secondi successivi, uno di loro provò un’ammirazione estatica per un cervello superiore; l’altro, invece, ripassò rapidamente ciò che aveva imparato e ciò che aveva iniziato a pianificare per il futuro.
+
+Alla fine della pausa, Williams girò la sedia verso l'estremità del tavolo.
+
+“Devo chiamare Burton,” disse. “Ho un mucchio di lavoro da finire e dovrò scendere di nuovo al piano di sotto prima che finisca l’ora. Non parlerò, ma devo sentire cosa dirà Chillham. Vi ho detto tutto quello che posso, cari amici. McAuley ce l’ha, e vi ho indicato esattamente dove lo ha; inoltre, se ho ragione su quel particolare – e credo proprio di sì – sarà nella tasca corrispondente del cappotto che indossa per un po’ di tempo; cioè, fino a quando non avrà bisogno di usarlo.”
+
+“Per farne uso,” ripeté Halterton con una voce vuota, quasi pensando di parlare da solo. “Farne uso, farne uso, ”
+
+E uscì barcollando.
+
+Lady Papworthy, raffinata padrona di casa in ambito politico.
+
+V
+
+Lady Papworthy era la moglie di quel meraviglioso anziano Lord Papworthy, Ministro delle Belle Arti nel secondo governo della signora Boulger; abbiamo visto come si sia battuto con grande determinazione per il proprio incarico contro l’irritato ammiratore dei “Oblongs”.
+
+Sì, Lady Papworthy era la moglie di Lord Papworthy; questa affermazione (per la quale mi assumo tutta la responsabilità) è più sorprendente di quanto possa sembrare. Infatti, bisogna vederla con i propri occhi per crederci. Lord Papworthy è un uomo di quasi settant’anni, con pochi capelli bianchi, uno sguardo gentile proveniente dai suoi occhi scuri, e un modo di comportarsi cordiale nel parlare e nei gesti, tranne che in rare occasioni private riguardanti questioni finanziarie; mentre Lady Papworthy ha poco più di vent’anni, è di carnagione scura, intelligente e diretta nelle sue azioni. Inoltre, non è la seconda moglie di Lord Papworthy: per quanto si sappia, Lord Papworthy non era mai stato sposato prima.
+
+D'altra parte, tutti sapevano chi fosse Lord Papworthy. Era il vecchio Papworthy, senza dubbio: l’uomo che aveva sempre occupato il suo tempo a lavorare con le immagini fin da quando ne era stato in grado, e aveva iniziato a farlo cinquant’anni prima, ancora prima di raggiungere la maggiore età. Ma nessuno sapeva davvero chi fosse Lady Papworthy. E, cosa sorprendente, a nessuno importava. Erano sposati. Lo so per certo, e anche meglio ancora lo si può dedurre dall’atteggiamento di Harry O’More, suo giovane cugino ed erede: lui, infatti, temeva stupidamente che potesse nascere un altro erede. Ma oltre a questo, io stesso non so nulla di lei. E non ho alcun desiderio di saperne di più rispetto agli altri.
+
+Ci sono tre uomini a [[settings/london|Londra]], tutti e tre scapoli, tutti e tre benestanti, e ognuno di loro arguto e vivace a modo suo; si può fidare di loro per sapere tutto su chiunque, per quanto oscuro possa essere il caso. Ma riguardo a Lady Papworthy, raccontarono tre storie diverse.
+
+Limpey disse di essere una cameriera che aveva incontrato il vecchio Papworthy quando questi era andato alla Conferenza Mondiale d’Arte, tenutasi a Toronto più di due anni prima, poiché considerata il luogo più adatto per l’incontro di artisti da tutto il mondo.
+
+Stingey disse di essere una modella d’arte che lo aveva incontrato a Parigi un anno prima e lo aveva seguito in Canada.
+
+Mangey (il cui soprannome le signore rendevano più dolce in “Manguey”, trasformando la “G” in una “e”, contro la loro abitudine) ammise francamente di non saperlo. All’inizio aveva detto che lei fosse la figlia di un agitatore comunista che aveva sorpreso il vecchio Papworthy sulla barca mentre stava partendo. Ma quando scoprì che la sua fonte, anch’essa comunista e originaria di Buda-Pesth, stava mentendo, ritrattò le sue affermazioni con la sua solita schiettezza e ammise apertamente il proprio errore davanti a tutti. Disse che avrebbe provato a scoprire la verità, ma non ci riuscì e rinunciò. Ora, poiché Mangey non lo sa, nessuno lo sa. E abbiamo tutti smesso di scommettere su questa questione. Comunque, lei è abbastanza divertente.
+
+Ufficialmente lei era la sua segretaria, con cui si era sposato, ma non poteva esserlo da molto tempo, perché nessuno l’aveva vista trenta mesi prima, e nessuno (tranne Harry) sapeva nemmeno con certezza dove si fossero sposati. Parlava liberamente dei suoi parenti, ma non molto spesso. Sembrava che ne avesse più di uno: di solito erano i suoi cugini; inoltre sembravano sempre essere in viaggio, e lei desiderava spesso che venissero in Inghilterra, ma non lo facevano mai. Non rivelò mai i loro nomi.
+
+Era davvero molto versata in molte cose, soprattutto in quelle letterarie, purché fossero moderne. Tuttavia, non si vantava di conoscere alcuna lingua diversa dalla sua propria, che era l'inglese, parlato senza alcun accento, tranne quello che forse i suoi connazionali avrebbero potuto definire “accento inglese”. La sua voce, quando lo parlava, era bassa, controllata e sonora.
+
+Suo marito la chiamava Joan; lo faceva anche la maggior parte del suo circolo, un gruppo piuttosto numeroso che lei dominava quasi fin dal momento del suo arrivo a [[settings/london|Londra]]. Come potete immaginare, data quella sua origine, o meglio, l’assenza di qualsiasi origine riconosciuta, lei era perfettamente adatta al ruolo che aveva scelto per sé.
+
+Non organizzava grandi cene; in realtà, nemmeno piccole cene spesso. A causa della sua posizione, Papworthy doveva intrattenere gli ospiti, ma raramente lo faceva a casa sua, tranne a pranzo. Joan Papworthy lasciava intendere che la sua salute le impedisse di stare sveglia fino a tardi. Raramente usciva di sera, e questa eccentricità contribuiva ulteriormente alla sua immagine.
+
+Quella posizione fu saldamente consolidata, anche dopo un tempo così breve. Lei sapeva esattamente cosa dire sia agli scrittori che riguardo a loro; quasi tutti avevano trascorso del tempo sotto il suo tetto, molti di loro addirittura in modo continuativo. E sebbene non organizzasse spesso cene, offriva innumerevoli cocktail, e conosceva perfettamente quell’arte. Nemmeno Lord Papworthy era sempre assente dalle sue riunioni: ogni tanto si presentava, sorrideva e chiacchierava amichevolmente con questo o quel partecipante, per poi uscire di nuovo senza tornare più. Si capiva che fosse andato a discutere di qualche questione legata a un dipinto. In tutte quelle occasioni in cui il suo salotto era pieno di gente, tutti chiedevano notizie di lui; e quando non si faceva vedere, sua moglie spiegava con precisione quale lavoro specifico lo tenesse impegnato.
+
+Lei stessa non disse mai una parola riguardo alle questioni della sua provincia. Affermava di ignorarle completamente e parlava delle sue conoscenze con il rispetto dovuto a uno dei maggiori esperti d’Europa. Nelle rare occasioni in cui lui stesso menzionava argomenti al di fuori di quella provincia, mostrava lo stesso rispetto per lei. Affermava di non sapere nulla di scrittura; inoltre, non era affatto una finzione il fatto che spesso sbagliasse i nomi degli scrittori, anche dopo averli incontrati tre o quattro volte.
+
+Quando dico che è stato Ministro delle Belle Arti nel secondo governo della signora Boulger, bisogna anche ricordare che lo era già stato nel suo primo governo: Vice-Segretario per le Belle Arti in un governo precedente; Segretario Parlamentare del Ministro delle Belle Arti (il famoso Algernon Cohen) in tempi ancora più remoti. Durante il suo secondo mandato parlamentare, prima ancora di assumere quella carica, e addirittura durante la sua prima sessione in Parlamento – quando suo padre lo fece entrare nella Camera pochi mesi dopo il suo arrivo da Cambridge – si distinse per porre domande riguardo all’acquisto di opere d’arte da parte del governo. Mantenne costantemente questa linea di azione per molti anni, e politicamente questo fu ciò che lo rese famoso.
+
+La sua completa padronanza dell'argomento si dimostrava meglio nel suo ugual apprezzamento per tutti i pittori moderni, senza distinzioni; e nell'apprezzamento quasi altrettanto grande per quelli del passato che, in quel momento, erano di moda. Aveva ereditato quadri, ne aveva comprati molti, di ogni tipo: quadri che raccontavano storie, quadri che semplicemente “mentivano”, quadri che rappresentavano soltanto modelli, e anche quadri che non erano nemmeno questo. Gli piaceva molto stare davanti a questi quadri, soprattutto quelli più recenti: inclinava leggermente la testa da un lato e muoveva il pollice nell’aria per esprimere la sua ammirazione per le loro linee, i loro valori cromatici, le loro strutture, il loro significato complessivo e i loro colori.
+
+Tra i dodici o più amici intimi di Lady Papworthy c'era un certo giovane che combinava una posizione letteraria poco certa a [[settings/london|Londra]] con una piccola influenza politica. Il suo nome era Butler, ma questo non rifletteva affatto la sua vera natura: era alto, magro, con i capelli neri e una ciocca romantica che gli cadeva sulla fronte; aveva lo sguardo sognante e fissava il mondo con occhi grandi, scuri e profondi, nei quali si poteva percepire un certo fuoco interno. A volte balbettava, altre volte esplodeva in indignazione per qualche motivo; spesso, invece, rimaneva in silenzio quando gli veniva rivolta la parola, non per mancanza di cortesia, ma perché era assorto nei suoi pensieri. Talvolta interrompeva anche le conversazioni altrui, poiché era pieno di entusiasmo. Anche se la sua posizione politica era secondaria e probabilmente lo sarebbe rimasta per sempre (poiché i suoi pochi amici erano certi che non avrebbe mai ricoperto alcuna carica ufficiale), e anche se lui stesso non prendeva mai iniziative per intraprendere una carriera politica, questo era frutto della sua scelta personale. Si sentiva tranquillo nell’essere un membro del Parlamento finché voleva, e giurava sempre di odiare quel ruolo; la sua “sicurezza” derivava dalla enorme popolarità che godeva tra i suoi elettori, in un quartiere artigianale di una città industriale del nord.
+
+Quando esprimeva con fervore la sua devozione all’ideale anarchico, gli credevano, e avevano ragione a credergli. Con la loro semplicità, erano certi di avere ragione nel non credere alle parole della maggior parte dei politici su di lui. A lui non avrebbero mai applicato ciò che oggi i lavoratori dicono di quasi tutti gli altri politici: che non c’è differenza tra questo o quel partito – anarchico o socialista – è tutto lo stesso; sono tutti alla ricerca del potere.
+
+Aumentò ancora la sua popolarità dichiarando ad alta voce che non avrebbe mai speso un centesimo per quel posto, nemmeno se ne avesse avuto uno. E gli elettori ne furono ancora più soddisfatti, perché le due circoscrizioni confinanti della città erano rappresentate da due milionari: uno che agiva nell’interesse anarchico e l’altro in quello socialista, entrambi i quali spendevano denaro senza alcuna ritegno.
+
+Nella stessa Camera, Reginald Butler era disprezzato ma al contempo piuttosto popolare. Era divertente ascoltare le sue appassionate richieste a favore dei “poveri”. Tuttavia, diventava impopolare quando iniziava a combattere contro ciò che definiva scandali, il suo passatempo preferito e del tutto innocuo.
+
+Naturalmente falliva sempre, e dopo ogni insuccesso denunciava il comitato incaricato di “bianchire” la verità, che aveva frustrato i suoi sforzi, tenendo discorsi pomposi che i giornali si affrettavano a riportare brevemente, o addirittura a ignorare del tutto.
+
+I suoi colleghi lo perdonarono e aspettarono con impazienza che ricominciasse, perché, grazie alla loro lunga esperienza, sapevano che lui non avrebbe mai superato i limiti di ciò che è veramente importante. Non si può negare che trovassero divertimento in tutto questo, anche coloro che erano coinvolti in quel momento. Sapevano che lui non avrebbe mai fatto del male a nessuno, e non pensavano che lo volesse davvero fare.
+
+Eppure, se mai esistette qualcuno che desiderasse sinceramente la purezza della vita pubblica, quel qualcuno era proprio questo giovane uomo. Nessun parlamentare sfortunato poteva interessarsi a una nuova società senza che Butler individuasse subito qualche legame con le speculazioni finanziarie del “South Sea”. Nessuna carica retribuita finiva mai nelle mani dell’idiota più innocente, senza che si scoprisse il suo lontano legame con un ministro. Nel suo mondo pazzo, i pubblici funzionari avrebbero dovuto vivere nell’aria, e qualsiasi loro investimento sarebbe stato considerato un crimine.
+
+Era inadeguato, ma c'era un pizzico di romanticismo in tutto ciò; inoltre, Joan Papworthy era devota a lui. Tra tutta la gente letteraria che incontrava settimana dopo settimana, e a volte anche per due o tre giorni consecutivi nel suo salotto, Reginald Butler sembrava essere la persona che conoscesse da più tempo. Lei già aveva l'impressione di averlo conosciuto tutta la vita; e lui, dal canto suo, desiderava certamente conoscerla per tutta la vita.
+
+A quanto le avevano detto alcuni, i suoi versi erano eccezionali. Provò a leggerli per potergli citare alcune parti, ma sbagliava le parole. Lui la perdonava, ma solo per errori del genere. Le sue passioni politiche erano l’unica cosa in cui lei, tra tutte le donne di [[settings/london|Londra]], era disposta a comprenderlo: le donne, infatti, sono meno tolleranti verso le follie degli uomini. E lui ne era grato per quella comprensione. In lei trovava l’unica persona che riuscisse a comprendere le sue indignazioni inutili. Durante tutta la vicenda del petrolio greggio, quando per una volta si sentì davvero isolato, lei rimase al suo fianco, e anzi lo incoraggiò ancora di più. Poi, dopo che il comitato presentò i suoi risultati e quei due uomini contro cui aveva attaccato con tanta fermezza ottennero rispettivamente un incarico all’Ambasciata e una posizione nel Ministero delle Finanze, lei lo consolò nei giorni tristi in cui iniziava lentamente a tornare alla sua posizione, seppur tollerata.
+
+C'è un errore comune qui che approfitto dell’occasione per correggere: quel “Scandalo”, come lo chiamano gli sciocchi, non dovrebbe essere “The Crude Oil-Affair” ma “The Crude-Oil affair”. Carltonhurst, che ne è uscito al punto 118, mi ha chiesto di inserire questa nota.
+
+Per quanto riguarda Lord Papworthy, a lui non importava nulla di tutto ciò. Era stato rimproverato – forse alcuni dei miei lettori lo hanno anche fatto – per la sua totale indifferenza verso quella parte della vita pubblica legata agli affari, che rappresenta invece l’interesse principale per le persone più attive.
+
+Proprio come non aveva mai venduto nessuna opera d'arte, così non aveva mai acquistato alcuna azione; i fiduciari di quella vasta proprietà gli erano più che sufficienti. Dopo mezza dozzina di tentativi falliti da parte dei suoi colleghi in Parlamento per interessarlo a questo o quel progetto commerciale, si era arreso, ritenendolo irrecuperabile.
+
+Per quanto mi riguarda, non lo biasimo affatto. Se un uomo di grande fortuna (sempre con oltre cinquantamila sterline all’anno anche nei momenti difficili), di nobile origine, senza figli e privo di qualsiasi inclinazione al rischio, che per caso ha una passione e può soddisfarla attraverso il proprio lavoro, se tale uomo decide di non approfittare delle opportunità finanziarie offerte dal Parlamento, ma preferisce rimanere indifferente ai movimenti del mercato, allora ritengo che abbia tutto il diritto di indulgere in questa eccentricità, e non penso affatto che ciò lo renda peggiore.
+
+Lord Papworthy non era e non è l’unico ad avere un tale atteggiamento; dubito che anche la stessa Prima Ministra, la signora Boulger, sarebbe stata in grado di fornirvi informazioni su più di tre o quattro azioni di primo piano. Non mi sorprenderei nemmeno se lo stesso valgesse per suo marito, almeno da quando ha avuto quell’incidente terribile vicino a Burgher’s Deeps. Ma quella è stata un’epoca lontana. In ogni caso, i soldi dei Boulger provenivano principalmente da fondi fiduciari.
+
+La storia del dipartimento di Stato, oggi molto importante, che fu guidato da Lord Papworthy è davvero interessante.
+
+Fino a alcuni anni dopo la Grande Guerra Europea, nessuno aveva mai pensato all’idea di creare in Inghilterra un Ministero delle Belle Arti; anzi, il termine stesso sembrava avere un suono “francese”, il che lo rendeva ridicolo. I popoli latini avevano sempre avuto Ministri delle Belle Arti, e in seguito anche nazioni più “virili” – i tedeschi del Reich, i danesi e gli islandesi – iniziarono a nominare statisti per incarichi simili; ma questa idea rimase a lungo estranea alla mentalità tradizionale di questo paese.
+
+Tuttavia, capitò che quando Dotty D., ovvero come tutti la chiamavano, l’ex duchessa Dorothy, vedova del duca, fece entrare suo figlio nel governo (era lei ad avere la maggior influenza in merito), il giovane insistette per diventare Segretario di Stato per le Belle Arti, o niente.
+
+Gli era stato permesso di viaggiare in modo imprudente. Il suo mentore lo aveva presentato a strane cerchie in studi stranieri, e lui si era immerso completamente nel mondo dei colori e dell’argilla. Per tutto il resto era stato come plastilina nelle mani di sua madre; ma quando lei, all’età di venticinque anni, lo pregò di entrare nella vita pubblica, lui mantenne la sua decisione. Ed è così che fu creato il nuovo Ministero, e la gente presto si abituò ad esso.
+
+Dopotutto, anche un vento cattivo porta qualche vantaggio, e in questo caso ha almeno avuto il merito di creare nuovi posti di lavoro grazie alle tasse, per coloro che meritano di essere aiutati dal loro paese a Westminster, per le loro famiglie, i loro amici, i loro parenti, e per quelle persone che potrebbero avere motivo di temerli.
+
+Il giovane duca stabilì immediatamente una consuetudine nel suo dipartimento; è difficile dire se fosse positiva o negativa per il paese, ma questa consuetudine prese radici e divenne un’istituzione permanente. Spendeva molto denaro: non si accontentava di utilizzare i fondi destinati all’acquisto di opere d’arte e a occasionali mostre pubbliche; fece sì che il suo dipartimento fosse l’unico, sotto un governo moderno, in cui ci si aspettasse, per consuetudine, che il capo del dipartimento spendesse più di quanto ricevesse.
+
+Le opere d’arte – bronzi e marmi, dipinti e incisioni – che acquistò, a volte dopo essere passate per le sue mani, altre volte addirittura senza che ciò avvenisse, furono donate alle collezioni nazionali. Il pubblico ormai era abituato alla piccola etichetta “Donato dal Segretario di Stato per le Belle Arti” attaccata a uno dopo l’altro dei dipinti esposti nelle grandi gallerie pubbliche.
+
+Come dico, questa nuova prassi poteva avere dei vantaggi: proprio come l’idea precedente secondo cui un ambasciatore in una capitale straniera dovesse spendere più del proprio stipendio presentava alcuni vantaggi a livello nazionale; tuttavia, questo rendeva il ruolo molto difficile da ricoprire.
+
+Il giovane duca stesso lo abbandonò dopo alcuni anni per andare a cacciare balene; a causa dell’incidente fatale con la “Blubber Boiler”, il suo nome è ricordato oggi più per questa attività che per la sua breve esperienza in politica. Temo che il suo successore venga ricordato soltanto per la deplorabile Commissione Herrenheimer. Il successivo a salire al potere, scelto dopo lunghe e difficili ricerche da parte del primo ministro dell’epoca, era un gentiluomo proveniente da uno dei nostri grandi domini, di cui nessuno aveva mai sentito parlare prima; tuttavia, era almeno in grado di spendere generosamente, e la tradizione fondata dal giovane duca attecchì ancora più profondamente che mai.
+
+Allora la Buona Fortuna, che mai abbandona la vita pubblica di un popolo eletto, venne in nostro aiuto, e Lord Papworthy, un uomo ormai oltre i cinquant’anni, si rivelò il candidato ideale.
+
+Era stato diciassette anni prima, sette anni prima del primo mandato della signora Boulger, nel 1950; Lord Papworthy – che, come suo padre, era un pilastro del Partito Socialista – divenne allora Ministro per la prima volta e ottenne subito grande successo. Quasi il suo primo atto fu acquistare il vaso Woolson e donarlo al popolo.
+
+Ma quando, quattro anni dopo, il Partito Anarchico avrebbe dovuto subentrare nella rotazione regolare dei responsabili, emerse naturalmente una forte ansia riguardo a ciò che sarebbe accaduto al Dipartimento di Belle Arti. Non solo non c'era nessuno in grado di competere con Papworthy, ma in realtà non esisteva nemmeno qualcuno in grado di ricoprire quel ruolo. C'erano molte persone disposte ad accettare lo stipendio, ma nessuna di loro avrebbe – o, se anche l'avesse fatto, sarebbe stata disposta a – investire denaro a beneficio delle gallerie d’arte. C’erano molte persone che potevano e volevano spendere soldi per le opere d’arte, ma non al prezzo di oneri politici e della responsabilità di dirigere un dipartimento. Preferivano una vergognosa inattività a un simile oneroso servizio allo Stato.
+
+La soluzione ovvia era che Lord Papworthy cambiasse idea sui suoi principi politici e si unisse al Partito Anarco. La modifica fu effettuata, e continuò a ricoprire la sua carica sotto il governo sobrio e ben gestito del Primo Ministro Anarco Lord Mandon, presiedendo l’edificio nuovo in acciaio nero e vetro situato a Whitehall.
+
+Quando arrivò il momento che Lord Mandon cambiasse posizione e consegnasse di nuovo gli stipendi al Partito Socialista (il momento conosciuto nei circoli politici come “le sedie musicali”), fu ancora più evidente che non esisteva alcun candidato adatto per il Ministero delle Belle Arti, tranne, naturalmente, Lord Papworthy, ormai affermato in quel ruolo. Nel mondo che conta davvero, le persone che si interessano di pittura e scultura, e che sanno di cosa parlano, sono numerose e influenti. Quelli che se ne occupano lo fanno molto più seriamente di quanto facciano con le altre attività di Westminster; e tutti insistevano sul nome di Papworthy. La gente comune, giovani e anziani, che guadagna da vivere dipingendo i ritratti delle persone influenti e realizzando altre opere altrettanto sorprendenti, fece chiaramente capire con le sue proteste che non c’era alcuna possibilità che venisse scelto qualcun altro al di fuori di Papworthy.
+
+Sembrava necessario, in questo momento critico, che Lord Papworthy riconsiderasse nuovamente i suoi principi e rimanesse in carica tornando a essere socialista. Dopotutto, solo quattro anni prima apparteneva a questa corrente politica, e per lui sarebbe stato facile riprendere in mano i fili dei propri ideali socialisti.
+
+Lord Papworthy, un altro ritratto dai “Grandi Inglesi del Nostro Tempo”
+
+Ma ormai era evidente che, con ogni nuovo cambio di governo, finché Lord Papworthy fosse sopravvissuto – e quel vecchio uomo rosso in viso era davvero un individuo sano e robusto – sarebbe stato necessario trovare un modo per assicurargli un posto stabile e permanente al Ministero delle Belle Arti.
+
+Una delle discussioni costituzionali più interessanti, quelle che donano tanta dignità alla nostra vita pubblica, fu affrontata in questa occasione; alcune parti di essa furono pubblicate sulle colonne del “The Times”, mentre le parti più importanti vennero discusse in privato nello studio stesso della signora Boulger.
+
+Vi ricorderete che questo terzo mandato di Lord Papworthy coincise all’inizio del primo governo della signora Boulger. Un gruppo di esperti in materia di prassi costituzionale suggerì l’istituzione di una regola speciale ad hoc per il caso del Ministro delle Belle Arti, proponendo che il titolare dell’incarico cambiasse partito dopo ogni elezione. Un altro gruppo – a mio parere più ragionevole – suggerì invece che rimanesse membro del governo quando il suo stesso partito era al potere; e che continuasse comunque a farlo anche quando passava all’opposizione, pur mantenendo la carica in qualità di esponente dell’opposizione. Quando il suo partito tornava al governo, egli avrebbe continuato a ricoprire la sua carica all’interno del partito al potere; e così via, finché Dio non gli avesse tolto la vita. Quanto a ciò che sarebbe accaduto dopo, solo Dio lo sapeva.
+
+Fu proprio questa ultima festa ad avere la meglio. Avevano alle loro spalle l’esempio saggio del Governo Nazionalista, che molti uomini non ancora anziani potevano ricordare dai tempi della loro giovinezza: quando, per la prima volta e con l’autorità costituzionale più alta, si decise che i ministri in aperta opposizione su questioni fondamentali della politica nazionale potessero comunque ricevere la loro retribuzione settimanale di 100 sterline all’interno dello stesso Gabinetto.
+
+A dire il vero, a quel punto Lord Papworthy non riusciva più a ricordare con chiarezza quale dei due partiti fosse al potere: sedeva sempre nello stesso banco alla Camera, e precisamente nello stesso angolo di quel banco. Se a volte commetteva errori, definendosi anarchico quando avrebbe dovuto chiamarsi socialista, o viceversa, a nessuno importava, perché ormai era diventato una sorta di istituzione nazionale.
+
+Ecco com'era Lord Papworthy durante molte amministrazioni; circa due anni fa, come ho detto, tornò dal Canada con una moglie. Ho raccontato di come suo cugino di primo grado e erede avesse provato un breve timore. Presto divenne evidente che non sarebbero nati bambini in grado di mettere in discussione i suoi diritti. Ma, per quanto riguarda aspetti più importanti dei figli, il matrimonio fu un successo, come spero sia stato chiarito anche in questo racconto. Questo matrimonio diede nuova vita al Ministero delle Belle Arti: il brillante circolo di persone che circondava la giovane Lady Papworthy contribuì a promuovere l’apprezzamento per le nuove tendenze artistiche, dalle miniature all’architettura, dagli smalti alle grandi porte in ferro battuto. Un livello di vitalità e splendore che non si trovava in nessun altro gabinetto europeo.
+
+Il fatto che le sue ricevimenti e i suoi incontri più privati fossero legati al mondo letterario, al teatro e alle arti conferiva loro una maggiore vitalità. E ciò che li univa ulteriormente – un punto importante – era la costante presenza di Reginald Butler.
+
+Ecco tutto riguardo a Lord e Lady Papworthy. Ricordateli bene: la loro totale indifferenza agli interessi del partito, la loro devozione alle cose dello spirito e alle Muse. Non dimenticate nemmeno la presenza inquietante nella casa dei Papworthy di Reginald Butler, le cui idee errate sulla purezza della vita pubblica ebbero un ruolo fondamentale nelle sorti di Mr. Williams, Segretario di Stato per gli Interni; di Sir Andrew McAuley, Procuratore Generale; di suo fratello James Haggismuir, direttore della Durrant’s; di Mrs. Boulger stessa. E soprattutto di Wilfrid Halterton, Ministro Postale di Sua Maestà.
+
+VI
+
+Quando Wilfrid Halton lo lasciò, quella sera di giovedì alla Camera dei Comuni, il Ministro dell’Interno lavorò per un’ora o due, poi raccolse i suoi documenti e guardò l’orologio. Decise di non cenare nella Camera; aveva in mente di occuparsi di alcuni affari personali quella sera, e spesso non è saggio farlo proprio all’interno della Camera stessa. Prese il cibo che gli era stato ordinato e attraversò la strada per recarsi nel piccolo club che condivideva con alcuni colleghi. Mentre aspettava il pasto, iniziò a occuparsi dei suoi affari personali telefonando. Era più riservato farlo da casa che dalla Camera. Chiamò James Haggismuir McAuley.
+
+Si salutarono cordialmente attraverso quell’strumento. Nessuno poteva essere più utile a James Haggismuir McAuley di Jack Williams, e Jack Williams sperava di riuscire a stabilire almeno un legame con lui, qualcosa che potesse risultare davvero molto prezioso in un futuro prossimo.
+
+“Farai qualcosa stasera?” chiese Williams.
+
+“No, sto cercando di finire alcuni lavori a casa.”
+
+“Sto semplicemente passando un po’ di tempo da solo al Corner Club. Ne ho abbastanza. Non voglio tornare in quella casa. Non c’è nulla lì. Potresti venire qui dopo cena e fare una passeggiata con me? Solo per un centinaio o duecento metri, ”
+
+Fu quasi un complimento essere invitato così casualmente da Williams a giocare a biliardo; infatti, la fama del Segretario di Stato come giocatore di biliardo era molto alta tra gli amatori del suo ambiente, anche se non raggiungeva certo il livello professionistico.
+
+“Capisco. Cosa mi offrirai? O cosa? Non riesco proprio a comportarmi come fai tu. E inoltre non posso muovermi molto prima delle nove. Va bene così?”
+
+Era tutto deciso, quindi. Deciso esattamente come Jack Williams aveva desiderato. Deciso nel modo in cui le cose di solito venivano risolte quando Jack Williams se ne occupava. Anche quando lo faceva insieme a una mente brillante come quella del finanziere che stava per giocare a biliardo con lui.
+
+Nel lasso di tempo tra il suo pasto e l’arrivo del suo amico Jack Williams, lesse il giornale serale, che esprimeva le opinioni di un altro suo grato amico: Lord Desportes. Mentre lo faceva, fissava nella mente, uno dopo l’altro, tutti gli argomenti che aveva così francamente sottolineato a beneficio di Wilfrid Halterton; infatti Jack Williams era perfettamente in grado di fare due cose contemporaneamente, proprio come molti uomini di talento inferiore; poteva leggere – e capire ciò che leggeva – e allo stesso tempo riflettere su un problema. Così, mentre assimilava le opinioni di Buggs sugli affari internazionali, sulla valuta e simili argomenti, sui quali le idee di Buggs erano sempre chiare e lucide, stabiliva passo dopo passo le conclusioni della sua riflessione riguardo all’azione di James McAuley nel caso di Halterton, approvandole pienamente.
+
+Sì, quel documento sarebbe stato addosso a J.: si troverebbe in una tasca, precisamente nella tasca interna sul lato sinistro del gilet da mattina. O, se si fosse vestito per la cena, nella tasca interna del gilet da sera. Inoltre, sarei disposto a scommettere che un uomo con tanti interessi come James Haggismuir McAuley avesse sicuramente una tasca interna nel suo gilet da cena. Ma ci fosse anche un bottone?
+
+Nella stessa tasca ci sarebbe stato qualcos’altro che per Jack Williams era molto più importante di ciò che il sfortunato Halterton stava piangendo. Perché, accanto a quel documento, se Williams conosceva un po’ le abitudini umane e soprattutto la vita pubblica, c’era sicuramente anche quell’altro documento importante in cui veniva stipulato il Contratto per la Televisione con Durrant.
+
+Un ragionamento di questo tipo non è infallibile: se si rivelasse sbagliato, beh, avrebbe sempre potuto provare di nuovo. Ma era abbastanza sicuro di avere ragione, e in effetti aveva ragione.
+
+J. arrivò puntualmente e, con la precisione affilata che lo caratterizzava, chiese di giocare.
+
+“Cosa mi darai?” chiese lui.
+
+“Oh, non posso darti nulla al 100%, J, ”, protestò il signor Williams.
+
+“Allora facciamo 300. Devi darmi qualcosa… Lo fai sempre.”
+
+“Va bene, ti darò 50”, disse Williams, piuttosto riluttante, e aggiunse: “Lo faremo per una sterlina.”
+
+“Mezzo scellino,” fu la risposta decisa di J. E così fu deciso.
+
+Nella grande sala da biliardo del Club non c'era nessun altro. Tutto era avvolto nell’oscurità, tranne nei punti in cui le sei luci proiettavano il loro bagliore sul tappeto verde. Jack Williams si tolse lentamente il cappotto e lo appese a una serie di ganci posti sul lato buio della stanza, sopra il banco rivestito di pelle che correva lungo la parete. Poi spostò il segnalatore su cinquanta; lui stesso si posizionò al punto zero. Giocarono per decidere chi avrebbe iniziato, e Williams vinse. Prese la stecca, concentrato esclusivamente sulle tre palle presenti sul tavolo, mentre James Haggismuir McAuley a sua volta si tolse il cappotto e lo appese accanto a quello del Ministro dell’Interno. Nel frattempo, il Ministro dell’Interno continuava a fissare il tappeto, con le spalle rivolte ai due cappotti. C’era ancora molto tempo.
+
+Giocò con attenzione, evitando errori durante le sue mosse. Mentre l’altro giocatore realizzava la sua prima serie di 20 punti, fino a quando non sbagliò l’ultima mossa per un soffio, Williams continuò a osservare il tavolo senza distogliere lo sguardo dal gioco, ignorando completamente i cappotti appesi uno accanto all’altro alle grucce. Era di nuovo il suo turno. Sembrava però che non giocasse con la solita abilità; la sua serie fu breve. Dopo tre di queste sequenze di mosse, McAuley si trovava in vantaggio di oltre 50 punti e ne era molto soddisfatto. Sentendo questa sfida, Williams iniziò a giocare ancora più attentamente, aggiungendo altri 32 punti al proprio punteggio. A quel punto, McAuley era ormai completamente concentrato sul gioco; la sua mossa successiva fu eccezionale: il pallino rosso finì nella tasca centrale, mentre quello giallo lo seguì immediatamente nella tasca più a destra.
+
+E così via. Sembrava che non avrebbe mai fine. Williams, esprimendo apertamente la sua ammirazione, fece un passo indietro, ritirandosi nell’ombra. Rimase fermo lì, con i piedi ben divaricati: uno dei piedi era rivolto verso la zona illuminata vicino al tavolo, l’altro verso il banco lungo il muro. In quella posizione, fece contemporaneamente tre cose: una con la lingua, una con gli occhi e una con la mano sinistra; mentre con la destra spingeva avanti il suo bastone da gioco, in modo che fosse visibile sul bordo della luce delle lampade.
+
+Quello che fece con la lingua fu dire: “Oh, ben fatto! Ben fatto!” Quello che fece con gli occhi fu fissare con attenzione il panno verde e seguire i movimenti delle palline. Quello che fece con la sua abile mano sinistra, all’estremità del suo lungo braccio sinistro, fu allungarsi dietro di sé verso il cappotto di McAuley e, in un istante, estrarre le due buste da quella tasca interna – purtroppo schiacciate e strappate, ma comunque intatte – per infilarle nella propria tasca dei pantaloni. Tutto ciò avvenne nel giro di un attimo, dal momento in cui J. iniziò a prendere la mira fino al primo contatto della mazza con la palla. E basta.
+
+L’uscita del Segretario dell’Interno non interruppe affatto le sue attività come giocatore. Disse di nuovo, senza nemmeno prendere fiato: “Ben fatto!”, e poi si avvicinò fino alla fine del tavolo per vedere come James Haggismuir McAuley avrebbe affrontato quella situazione particolarmente interessante. Il finanziere analizzò il problema inclinando la testa da un lato, lo statista fece lo stesso, e insieme ne discussero apertamente.
+
+“Cosa faresti tu?” disse J.
+
+“Non capisco perché dovrei aiutarti a vincere mezzo scellino a mie spese,” disse l’altro. “Ma potrei fare una mossa successiva con un ‘top-screw’.”
+
+J. l’ha provato, ma ha fallito.
+
+“Hai avuto le tue ragioni per darmi quel consiglio, Jack,” rise lui.
+
+“No, no,” rise Williams in modo molto gentile. “Le hai lasciate perfettamente per me. Ma non ti ruberò nulla. Non mi piacerebbe affatto farlo. Guarda qui, ” E iniziò a selezionare i documenti a caso. “Ora hai di nuovo la tua opportunità.”
+
+“Grazie,” disse McAuley, accettando il regalo senza obiezioni. Dopo quel momento iniziarono a giocare sempre più velocemente, uno contro l’altro, con grande impegno.
+
+Nel frattempo, alla Camera dei Comuni, Laycock, un anarchico seduto nelle file posteriori, si schierò dalla parte dell’Opposizione; e una volta iniziato a parlare, continuò per un’ora e mezza. La Camera era quasi vuota: il Ministro Postale sedeva da solo sulla panca del governo, e nella sua mente tormentata si agitava un demone insopportabile. Non avrebbe potuto riposare finché non avesse rivisto Williams. Aveva bisogno di altri consigli.
+
+Wilfrid Halterton guardò alle sue spalle verso un giovane seduto nelle file posteriori del parlamento: una promessa per il futuro del partito socialista. Sussurrò: “Rimarrai qui ad aspettarmi finché non torno?” Il giovane annuì felicemente. Halterton uscì in fretta, fece le necessarie disposizioni con il presidente del parlamento in poche parole mentre gli passava accanto, chiese nel corridoio se qualcuno sapesse dove si trovasse Williams e, apprendendo che era al club, vi andò immediatamente.
+
+Gli dissero che Williams si trovava nella sala da biliardo. Halterton esitò: ma forse avrebbe ancora avuto la sua opportunità.
+
+Non ebbe fortuna. Mentre si dirigeva verso la sala da biliardo, pensando che forse il gioco sarebbe finito presto e avrebbe potuto parlare da solo con Williams per un momento, vide il giovane Hayling davanti a sé sulle scale. Comunque, decise di provare ancora; insieme a Hayling entrò nella sala. I due giocatori si guardarono intorno; McAuley, che non era impegnato in gioco, annuì in modo piuttosto freddo verso Halterton; Williams continuò a segnare, senza fermarsi nemmeno per parlare con i nuovi arrivati, fino a quando non fu il suo turno di giocare e quello dell’altro giocatore non iniziò.
+
+Hayling e Halterton sedevano nell’oscurità dei banchi laterali, proprio sotto i ganci dove erano appese le giacche dei due giocatori. Guardando la partita, Halterton provava un certo disagio nel sentire l’affabilità con cui Williams si rivolgeva al finanziere; quei brevi e enfatici “Bene fatto!” pronunciati da Williams lo disturbavano. Certo, era necessario mantenere le formalità. Ma comunque! Dopotutto, Williams era la persona che conosceva meglio ciò che aveva fatto McAuley. Eppure non doveva pensarci. Doveva fare tutto il possibile per parlare da solo con Williams.
+
+Cercò di resistere fino a quando Williams non si fosse liberato. Ma la situazione durò troppo a lungo per lui. Guardò l’orologio e si rese conto che era già trascorso più tempo del consentito. Rimase seduto, in preda all’angoscia, per altri cinque minuti, poi uscì riluttante, promettendosi di tornare non appena la sessione fosse ripresa e avesse la possibilità di trovare Williams da solo. Young Hayling osservò la situazione ancora per circa cinque minuti dopo che Halterton se n’era andato, poi anche lui se ne andò.
+
+Quando Halterton e Hayling se ne andarono, il punteggio era ancora di 100 punti in svantaggio, ma il resto della partita si svolse più velocemente. Non so se Jack Williams avesse ancora qualche superstizione residua, ma comunque giocò al meglio, come se fosse determinato a rendere quella serata davvero fortunata per tutti. E infatti, alla fine, i dieci scellini di J. finirono nello stesso taschino insieme agli altri oggetti, tra cui quei foglietti di carta accartocciati.
+
+“Vuoi bere qualcosa?”, chiese il Segretario dell’Interno, infilandosi il cappotto.
+
+“Grazie, lo farò,” disse McAuley, mettendosi il cappello.
+
+Poi, quando i whisky e le bevande gassate arrivarono e scomparvero di nuovo, Williams disse che doveva tornare a casa a dormire. “Ne ho preparati due prima di cena,” disse. “Non mi darò la pena di tornare in ufficio. Prenderò semplicemente il treno dalla stazione qui sotto e arriverò a casa in tempo.”
+
+“Devo portarti a Victoria con la macchina?” chiese McAuley.
+
+“No, grazie, è molto gentile da parte tua. Ma preferirei comunque prendere il treno a quest’ora di notte, e inoltre, per te sarebbe un lungo giro.”
+
+So McAuley, che era pienamente d’accordo, se ne andò da solo in macchina verso l’appartamento vicino al Marble Arch; Williams, invece, in tre minuti era già sul treno che lo avrebbe portato a Clapham dopo una fermata a Victoria.
+
+Gli agenti della divisione “A” gridavano a squarciagola, “Chi va a casa?”, con le loro voci profonde e sonore, per i corridoi di St. Stephens, meno di cinque minuti dopo che il Ministro dell’Interno era salito sul treno sotterraneo diretto a Victoria e James Haggismuir McAuley era montato sulla sua auto veloce per tornare al suo appartamento vicino a Marble Arch.
+
+* * *
+
+Per tutto il breve resto della serata, Halterton si sentiva a disagio nella Camera dei Comuni. Doveva rivedere il Segretario dell’Interno: non avrebbe potuto riposare finché non l’avesse incontrato di nuovo. Aveva bisogno di ulteriori consigli. Erano solo i nervi, si disse. E in questo aveva ragione: le ultime assurdità erano state dette, erano le undici di notte e la sessione era terminata. Non vedeva l’ora di andarsene; quando il grido “Chi va a casa?” risuonò nei corridoi, si alzò in piedi e uscì di fretta, tanto che un paio di colleghi si girarono a guardarlo sorridendo. Lungo i corridoi, attraverso la galleria sotterranea, proseguì a grandi passi, il viso segnato dall’ansia. Deciso a raggiungere Williams quella volta e a ottenere qualche altro consiglio per calmare i propri nervi. Il Segretario Generale delle Poste si affrettò di nuovo verso il club, salì al secondo piano. La sala da biliardo era vuota e buia. Scendendo, seppe da un collega che il signor Williams se n’era andato. Era arrivato appena in tempo. Era esasperante, ma non c’era nulla da fare. Nonostante l’urgenza di ottenere altri consigli, si trattenne dal chiamare al telefono: sapeva che disturbare il collega avrebbe solo peggiorato le cose e reso più difficile un nuovo incontro il giorno dopo. Così, dopo aver aspettato indeciso sul marciapiede, Wilfrid Halterton prese un taxi e si diresse verso il proprio appartamento, situato a nord del parco.
+
+Gli ci volle molto tempo per addormentarsi. Quanto avrebbe desiderato rivedere Williams. La sua mente era piena di piani incerti che non portavano da nessuna parte: a un certo punto pensava di costringere McAuley a confessare la verità il giorno dopo, altre volte era convinto che fosse meglio rivedere prima Williams, anche se quell’uomo potesse essere in ritardo nell’arrivare in ufficio; poi provava a ideare un piano tutto suo, capace di recuperare quel documento fatale senza che nessuno se ne accorgesse. Alla fine si perdeva di nuovo in una serie di contraddizioni.
+
+Ma mentre Halterton soffriva in quel modo, James McAuley, a meno di un miglio di distanza, provava emozioni simili, ma con effetti diversi.
+
+Aveva raggiunto il suo appartamento. Non era il tipo di persona che si trattenesse fino a tardi; si preparò subito per andare a letto. Non cambiò mai il cappotto, nemmeno quando indossava i vestiti da notte, senza prendere le precauzioni che un uomo del genere avrebbe dovuto adottare. E intendeva continuare a farlo fino a quando la questione non fosse stata risolta e il nuovo contratto non fosse entrato effettivamente in vigore. Prima di togliersi il cappotto, controllò se ci fossero ancora le due buste; le trasferì nella tasca della giacca da pigiama e la chiuse con una spilla sicura. James Haggismuir McAuley non correva mai rischi. E un uomo addormentato è vulnerabile. Non era la prima volta nella sua vita che doveva prendersi cura di quei piccoli documenti, come se facessero parte integrante di sé stesso.
+
+Il gesto istintivo fu eseguito: la mano si infilò nelle profondità di quella tasca interna del suo cappotto, ma lì non c’era nulla.
+
+Il sangue uscì dalla testa acuta e capace di James McAuley. Si sentì stordito e dovette sedersi all’improvviso sul letto. Poi gli accadde ciò che avrebbe potuto accadere a un uomo più debole: pensò di verificare ancora una volta. Forse era stato ingannato; forse i suoi stessi sensi lo avevano tradito. Così, sotto la luce piena della lampada elettrica posta sopra il suo comodino, tirò fuori il cappotto e capovolse quella tasca fatale. C’era solo un indizio di ciò che era accaduto: il piccolo fermaglio metallico con cui teneva insieme le due buste c’era ancora. Era stato strappato via quando qualcuno aveva preso quei documenti dal loro posto originale.
+
+Era inutile, soprattutto in un uomo del genere; ma le emozioni intense hanno proprio questo effetto. James Haggismuir McAuley svuotò tutte le tasche del suo cappotto – e lui era un uomo che portava sempre con sé molte cose. Ne uscirono piume d’oca, un piccolo cuscino, una scatola da sigarette, fiammiferi. Ma ovviamente non c’era traccia di nessun biglietto. Avrebbe dovuto saperlo. Se fossero stati tolti dalla tasca in cui li teneva sempre, allora erano davvero spariti, almeno per il momento.
+
+Poi la sua mente iniziò a funzionare di nuovo attivamente, come al solito. Uscì sul ballatoio e scese le scale, senza perdere un istante con l’ascensore che avrebbe potuto ritardarlo; raggiunse il portico dopo sei piani e trovò un taxi meno di un minuto dopo aver chiuso la porta del suo appartamento. A quell’ora di notte la strada era abbastanza libera; arrivò al club in meno tempo di quello che gli ci sarebbe voluto per tornare dalle sue stanze. Controllò il proprio tono di voce e chiese, con calma e indifferenza, al portiere se fossero stati trovati alcuni documenti nella sala da biliardo. Se sì, erano suoi.
+
+Anche mentre entrava nel club, per un momento gli sembrò di vedere, alle sue spalle, una figura familiare. Aveva ragione: era la figura alta e snella di Wilfrid Halterton, dall’altra parte della strada, vicino alla fermata degli taxi. Così aggiunse un’altra parola al messaggio che aveva lasciato per il portiere.
+
+“Il signor Halterton è stato di nuovo qui dentro?” chiese al portiere.
+
+“Sì, signore, è appena uscito un minuto fa.”
+
+Cercava qualcuno?
+
+“Per quel che ne so, signore”, rispose il portiere a McAuley; poi disse al paggio:
+
+“Dove è andato il signor Halterton quando è entrato poco fa?”
+
+“Il signor Halterton è andato nella sala da biliardo, signore. Sembra che stesse cercando qualcosa lì dentro, signore,” rispose il paggio con una voce acuta e commovente. (Perché il portiere chiamava “signore” il paggio, proprio come McAuley chiamava “signore” il portiere. In questo mondo esistono gerarchie precise.) McAuley si girò verso il bambino con un movimento quasi brusco.
+
+“Fino alla sala da biliardo, hai detto? Fino alla sala da biliardo? Ha trovato qualcosa lì dentro?”
+
+“Non credo proprio, signore,” disse il bambino. “Non l’ho visto scendere con nulla in mano. No, signore.”
+
+Senza dire una parola, anche McAuley salì di corsa le scale verso la sala da biliardo. Forse i domestici avrebbero trovato strano il suo comportamento, ma non poteva farci nulla. La situazione era estremamente importante: aveva finalmente individuato le tracce di Halterton. Halterton era l’uomo che cercava. Stava iniziando a vedere chiaramente la verità. Ma voleva esserne assolutamente certo.
+
+Stava in quella sala da biliardo vuota, con il mento tra le mani, ripassando rapidamente tutto ciò che era accaduto. Perché Halterton era entrato proprio in quel modo? Doveva essersi reso conto che lui era lì a giocare; avrebbe pensato al cappotto tolto e appeso al chiodo. O anche se non ci aveva pensato, la vista di quel cappotto glielo avrebbe ricordato., A dire il vero, non aveva mai creduto che Halterton fosse così intelligente! Ma era sicuramente quello che era successo.
+
+Ma poteva Halterton aver preso quei foglietti con il giovane Hayling seduto lì accanto? Difficilmente. Sì, forse avrebbe potuto farlo. Comunque, in qualche modo doveva esserceli riuscito. Forse li aveva presi, ma poi non aveva avuto il tempo di metterli in tasca. A McAuley venne improvvisamente in mente che il Capo Postale, dopo aver preso le lettere dal cappotto, potesse averle infilate nello spazio dietro al banco. Forse temeva di essere visto mentre le metteva nella propria tasca. Forse era tornato proprio per questo. O forse era tornato perché voleva assicurarsi che nessuno lo sospettasse?
+
+Era comunque Halterton ad avere quelle lettere! Proprio come previsto. Chi altro, se non Halterton, poteva sapere della loro esistenza? Chi altro, se non Halterton, avrebbe potuto intuire che potessero trovarsi nelle sue mani – o meglio, in quelle di James McAuley?. Ma, a giudicare dalle sue parole, non aveva mai attribuito a Halterton un simile senso degli affari! Quell’uomo gli ispirava persino ammirazione, almeno rispetto al comportamento che aveva tenuto fino ad allora in presenza del Ministro Postale Generale.
+
+Beh, non c’era più nulla da fare. Se fosse rimasto lì, avrebbero notato la sua presenza ancora di più di quanto già fosse successo. Doveva andarsene. Scese le scale, disse qualche parola al portiere uscendo, prese un taxi e tornò a casa, per restare sveglio per ore.
+
+VII
+
+Onest Jack Williams era costretto, in quanto democratico professionista e chiaramente etichettato come “membro di un sindacato”, a viaggiare sempre in terza classe. Per lo stesso motivo doveva vivere in una piccola casa, cosa che gli piaceva, e con soltanto una domestica, il che non gli dispiaceva affatto. Quello che era davvero difficile per lui era non potersi permettere un’auto grande e comoda, anzi, nessuna auto del tutto. D’altra parte, gli era permesso frequentare i ricchi, i quali apprezzavano le sue partite a biliardo, le sue storie divertenti o i suoi consigli finanziari, anche se aveva la reputazione di essere piuttosto spietato con alcuni di loro. Poteva bere tutto lo champagne che voleva, ovunque desiderasse, purché non fosse nella sua casa; e quanto alla sua reputazione – ormai diffusa – di aver accumulato una somma di denaro misteriosa, questa lo rendeva ancora più rispettato dai suoi compagni di sindacato. Questi non si definivano anarchici o socialisti, ma semplicemente “Amalgamated Transformers”, con uno stipendio minimo di 83 penny a settimana per quarantotto ore di lavoro. Ma insomma, la terza classe era davvero l’unica opzione disponibile per lui.
+
+Eppure quella notte decise di correre il rischio: si cambiò alla stazione Victoria, acquistò un biglietto di prima classe e, con un gesto appena percettibile fatto con la sopracciglia sinistra al controllore, riuscì a ottenere un compartimento tutto per sé.
+
+In quell’intimità, quando il treno aveva ormai iniziato a muoversi, tirò fuori le due buste, piuttosto sgualcite, dalla tasca dei pantaloni. Le aveva tenute con sé per la maggior parte del tempo da quando aveva lasciato il Club, perché quella tasca non era il posto più adatto per conservarle, e non voleva assolutamente perderne nessuna. Le tirò fuori, le lisciò il più possibile in quel momento, e poi le mise con estrema cura nella tasca interna del suo cappotto, proprio come aveva fatto il legittimo possessore di una di esse (e il possessore illegittimo dell’altra) prima di lui.
+
+Se qualche mio lettore sta pensando di entrare nella vita pubblica, vorrei cogliere l’occasione per dirgli che qualsiasi documento possa aver bisogno di prendere in prestito dovrebbe essere sempre portato con sé e mai affidato a un cassetto chiuso a chiave. Inoltre, è saggio tenerlo nella tasca interna sinistra del petto; non è nemmeno una cattiva idea dotarlo di una fibbia o di un bottone per fissarlo. Quest’ultima precauzione James McAuley non l’aveva presa, forse perché la sua carriera esclusivamente commerciale non gli aveva fornito tanta esperienza quanta ne acquisiscono coloro che intraprendono la più nobile carriera della politica.
+
+Quando Jack Williams tornò a casa, non andò a letto, nonostante fosse tardi. Aveva qualcosa da fare prima di dormire. La prima cosa che fece fu riempire una pentola d’acqua e metterla sul riscaldatore elettrico finché non iniziò a bollire. Poi passò la linguetta di ogni busta avanti e indietro davanti alla bocca della pentola, in modo che venissero completamente inumidite dal vapore. E quando furono ben inumidite, le aprì con facilità, grazie a quella tecnica appresa.
+
+Dopo aver fatto ciò, non estrasse il contenuto così importante delle due buste, ma uscì per cercare la ferro da stiro elettrica, che sua moglie chiamava “la piastra piatta”. Portò con sé anche un pezzo di flanella piegata; poi, all’interno di quella flanella, mise le due lettere e le loro buste e le stirò con cura.
+
+Questo, posso aggiungere per chiunque dei miei lettori stia considerando l’idea di entrare nella vita pubblica, è il modo corretto per eliminare le pieghe da qualsiasi documento possa essere stato sgualcito durante il processo di raccolta.
+
+Dopo aver compiuto tutte queste cose, Honest Jack Williams spense i riscaldatori, ripose l’ferro nell’altra stanza, lasciando tutto in ordine, e poi tornò per ammirare tranquillamente i suoi premi. Si appoggiò allo schienale della sedia, tenendone uno in ciascuna mano, e li osservò con affetto e orgoglio.
+
+Non erano solo simboli, ma anche frutti della vittoria per quel grande stratega. Non erano soltanto i frutti della vittoria, ma anche gli strumenti del trionfo inevitabile che stava per arrivare. Si sentiva proprio come Moltke quando, nel 1870, riuscì a separare le due armate francesi: con l’Armata di Metz nella sua destra e l’Armata di Sedan nella sua sinistra, si disse: “Ora entrambe queste armate sono saldamente mie.”
+
+Condivido ciò che, ne sono certo, è l’ammirazione dei miei lettori per la semplicità e la decisione dell’azione che ha portato a tali risultati.
+
+Da molto tempo ormai è diventata una necessità per i nostri moderni statisti muoversi al passo con i tempi e adottare i metodi del loro tempo. Tutto quel pomposo atteggiamento di indifferenza nei confronti dei guadagni personali e di distacco dalle manovre commerciali decisive è ormai sepolto insieme alle inutilità di un’epoca dimenticata, come quella vittoriana. La generazione che riteneva dubbia anche semplicemente acquistare azioni o che considerava condannabile la loro duplicazione era una generazione che sostituiva i fatti con le parole, piena di massime stereotipate e priva di vera efficacia retorica. Ci ha dato – come poteva darci altro – quella piccola Inghilterra di allora, con le sue pretese di dominio e il suo vanto di essere governata da un ristretto gruppo sociale ignorante delle reali questioni del paese. Tuttavia, fino ad oggi nella tecnica politica è rimasto attaccato un certo rispetto per gli approcci indiretti. Ottenere informazioni su un avversario, far scattare una determinata fotografia o addirittura procurarsi documenti attraverso metodi indiretti, utilizzando subordinati che potevano essere ingannati, era considerato necessario per avere successo in questo grande “gioco”; ma fare le cose da soli, con coraggio, immediatamente e senza rischi di testimoni né perdite di tempo, non era mai stato tentato prima. Jack Williams fu il pioniere che compì l’ultimo grande passo avanti nella scienza della politica.
+
+Pertanto, aveva ottenuto la ricompensa che sempre attende coloro che osano essere realisti, che accettano appieno tutte le condizioni delle proprie azioni e le portano direttamente alla loro conclusione.
+
+Lì sedeva, con i due trofei del suo genio esposti in entrambe le mani; ne padroneggiava uno dopo l’altro, consapevole di possedere qualcosa che ora gli avrebbe garantito un controllo indiscutibile su tutto. L’intero futuro della televisione era nelle sue mani, così come indicato da quelle due lettere: il dattiloscritto firmato da Halterton che prometteva il contratto a McAuley, e il manoscritto scritto interamente di pugno di McAuley che garantiva la posizione e lo stipendio a Halterton. Due “chiavi maestre” capaci di aprire tutte le porte.
+
+Erano esattamente come se l'aspettava. In ognuno di loro riconobbe la maestria del finanziere.
+
+Era particolarmente colpito dal mix di gentilezza e rispetto presente nella lettera manoscritta, nella quale si chiedeva a Halterton di sacrificare il proprio tempo libero per uno stipendio insufficiente di 10.000 sterline all’anno – esente da tasse. L’altra lettera, quella dattiloscritta che autorizzava McAuley ad andare avanti con il contratto e firmata regolarmente da “Wilfrid Halterton”, gli diede motivo di riflettere ancora un po’. La lesse due volte per assicurarsi che fosse sufficiente affinché McAuley potesse procedere immediatamente, e decise che lo era. Le condizioni erano formulate in termini molto generali e, come abbiamo visto, piuttosto brevi. Ma Williams, che capiva queste cose meglio di chiunque altro, ritenne che fossero adeguate. Non c’era modo di tornare indietro. E se James McAuley avesse mai ritrovato quella lettera, il contratto sarebbe stato portato a termine. Chiunque possedesse quella lettera controllava il futuro della televisione. Di questo era certo.
+
+Onesto Jack Williams gestisce con maestria l’accordo televisivo.
+
+Aveva già detto molto chiaramente al Capo Postale che per lui non c’era più modo di tornare indietro, Wilfrid Halterton. Che avesse o meno la promessa in tasca. Quell’appoggio c’era davvero, e il sorriso di Jack Williams era ampio e cordiale mentre leggeva quelle parole scritte a penna dalla mano inconfondibile di Halterton.
+
+La lettera di James McAuley. Ricevuta il 3 marzo 1960. W.H.
+
+La questione era già stata inserita nell’ordine del giorno; anche se il Capo Postale avesse voluto intervenire ora, non oserebbe farlo, finché pensasse che McAuley avesse ancora quella lettera in suo possesso.
+
+Jack Williams ripiegò ogni documento con un sospiro di soddisfazione, li rimise ciascuno nell’indirizzo corretto, li infilò nelle rispettive buste e li sistemò nella tasca interna sinistra della giacca, ben chiusa dal bottone. Trascorse circa dieci minuti a riflettere su quanto fatto e a rivedere i punti fondamentali della sua strategia. Si sentiva completamente padrone della situazione; ora l’importante era definire i dettagli concreti.
+
+Il primo punto da decidere era se dovesse lasciare di nuovo entrare Halterton. Decise che non lo avrebbe fatto. Aveva bisogno di McAuley, perché era lui a gestire tutti gli aspetti del settore televisivo e ne comprendeva perfettamente il funzionamento. Ma Halterton, poteva farne a meno.
+
+La prossima questione da considerare era quale proposta dovesse essere fatta a McAuley. Il controllo rimaneva comunque nelle sue mani, ovviamente insieme a quelle di Williams. A McAuley sarebbe dovuto essere pagato lo stipendio previsto per il ruolo di Commissario Permanente Capo non appena la Carta fosse stata approvata e il monopolio avesse iniziato a funzionare a pieno titolo. Nel complesso, Williams pensava che circa un terzo della sua quota personale potesse essere utilmente offerto a quell’uomo che possedeva una conoscenza pratica del settore, all’uomo di cui aveva bisogno, all’uomo a nome del quale il contratto sarebbe stato stipulato, e all’uomo senza il quale sarebbe stato difficile procedere con i lavori.
+
+C'era ancora una cosa da decidere: quando e come avrebbe dovuto approcciarsi a McAuley per spiegargli la situazione, dirgli che il potere era passato nelle sue mani (quelle di Williams) e che tutti i futuri passi dipendevano da lui.
+
+Decise – essendo il grande stratega che era (e pensate a quali talenti si abbiano bisogno per raggiungere i vertici, come aveva fatto lui al servizio del proprio paese) – di osservare lo svolgersi della situazione senza intervenire fino a quando non si presentasse l’opportunità giusta.
+
+Dopo aver sistemato tutte queste cose nella sua mente, in modo che lo soddisfacessero completamente, finalmente andò a letto e si addormentò. Erano quasi le due di notte.
+
+Il giorno dopo, dopo la solita colazione felice con sua moglie, non scese subito al Ministero degli Interni, ma telefonò per dire che forse sarebbe arrivato un’ora più tardi del solito, poiché aveva delle faccende da sbrigare a casa. Chiamò anche quel suo amico, il signor Gunter, che viveva nel suo quartiere, e gli chiese di passare da lui.
+
+Il signor Gunter, abbiamo avuto modo di conoscerlo un po’. Anche se ha svolto un ruolo molto limitato in queste grandi vicende, è stato comunque un ruolo significativo; inoltre, rappresenta un tipo umano particolare. Quindi sentirete ancora parlare di lui.
+
+Nel lontano passato, quando entrambi erano giovani uomini appartenenti allo stesso sindacato, Jack Williams venne a conoscenza, per caso, di un errore molto sfortunato commesso da Henry Gunter. All’epoca, quel giovane aveva fatto qualcosa di molto strano con un assegno. Essendo il suo superiore tra gli ufficiali del sindacato, spettava a Jack Williams procedere contro di lui. Ma Gunter era stato gravemente tentato: era sposato, aveva bambini piccoli e si trovava in gravi difficoltà finanziarie. E così Jack Williams decise di proteggerlo, anche se di tanto in tanto gli ricordava quella conoscenza che possedeva su di lui.
+
+Suppongo che, allo scopo di metterlo alla prova, Williams, nel corso della sua rapidamente prospera carriera, avesse organizzato perché l’uomo che ormai dipendeva da lui fosse sottoposto due volte a tentazioni simili. In entrambi i casi, quell’uomo aveva ceduto di nuovo, e in entrambi i casi Williams lo aveva perdonato. Tuttavia, i miei lettori non mi metteranno in dubbio quando dirò che, dopo tali esperienze, il signor Gunter fu estremamente devoto al suo benefattore e sempre pronto ad eseguire i suoi ordini.
+
+Le relazioni tra i due uomini risultavano più facili grazie ai contrasti nei loro caratteri: Gunter, infatti, vittima facile delle tentazioni, era un uomo debole sia fisicamente che moralmente, e aveva iniziato a bere troppo dopo aver perso ogni speranza di successo nella sua umile vita. Jack Williams gli aveva procurato un piccolo incarico e lo teneva lì grazie alla propria influenza; giustamente, non riteneva di dover aumentare il reddito limitato ma sufficiente su cui si basava la sussistenza della famiglia Gunter. D’altra parte, sebbene il Ministro dell’Interno, in veste privata, avesse talvolta bisogno dei servizi di Mr. Gunter, non lo sollecitava mai eccessivamente. Di norma, Mr. Gunter gli era utile soprattutto come intermediario il cui nome poteva essere utilizzato per comprare e vendere azioni tramite comunicazioni telefoniche. Solo in occasioni particolari veniva chiamato in aiuto – e questa ne era una.
+
+Il Ministro dell’Interno portò il signor Gunter nel suo studio, lo preparò per la stesura a dictato e poi gli lesse ad alta voce, affinché potesse trascrivere prima il documento firmato da Halterton e poi quello firmato da McAuley.
+
+“Ecco, Gunter,” disse lui quando le copie furono pronte e il collaboratore chiese ulteriori istruzioni, “è tutto ciò che desidero, tranne la tua firma qui. Scrivi semplicemente in fondo a ciascuna copia: ‘Copia realizzata da me, Henry Gunter, di due documenti presentatimi per la trascrizione venerdì 6 marzo 1960 alle 9:55 del mattino. Con la presente attesto di aver letto gli originali e che queste copie sono fedeli.’”
+
+“Basta così. Grazie, Gunter.”
+
+Jack Williams annuì. Era un cenno cordiale e gentile, privo di alcun tono condiscendente; davvero degno di quell’uomo. Il compito di Gunter era stato portato a termine, quindi uscì.
+
+Ma c'era ancora una cosa che il Segretario dell’Interno doveva fare prima di dedicarsi agli affari della nazione. E ciò che fece dopo lo raccomando particolarmente (per l’ultima volta) a quei miei lettori che potrebbero considerare l’idea di entrare nella vita pubblica, nonostante i compiti onerosi che il loro servizio al paese a Westminster potrebbe comportare.
+
+Jack Williams oscurò la stanza e prese dal mobile due telai di medie dimensioni per stampare le fotografie. Inserì della carta fotografica in ciascuno di essi, posizionò con cura su ciascuna una delle carte originali, con il lato scritto rivolto verso il basso, chiuse i telai e li fissò accuratamente. Per un tempo ben calcolato, tenendo il cronometro in mano, espose le carte a una luce intensa che aveva a disposizione; una volta spenta la luce, non restò altro da fare se non incollare le stampe ottenute. Ora disponeva di copie permanenti del manoscritto, della firma di Halterton e della nota olografica di McAuley. Lavò e fissò le stampe, le asciugò con uno dei nuovi essiccatori rapidi, le mise in una busta e il suo lavoro era terminato. Inserì le due stampe insieme alla trascrizione di Gunter nella stessa busta, ripose l’attrezzatura nel mobile e lo chiuse a chiave. Poi andò in ufficio, sentendosi un uomo sereno e soddisfatto.
+
+VIII
+
+Nell’appartamento di Clarence del Capo Postale Generale, situato a nord del Parco, e nell’appartamento di McAuley vicino all’Arco di Marmo, a meno di un miglio di distanza. In ogni appartamento c’era un uomo confuso, arrabbiato e deluso, deciso a recuperare le proprie proprietà. Ognuno di loro rimase sveglio per gran parte di quella notte di giovedì. Ognuno, con capacità molto diverse, arrivò alla stessa conclusione: doveva osservare con estrema cautela e discrezione i movimenti dell’altro, senza farsi notare, per cogliere l’occasione giusta e recuperare quel documento che, per ciascuno di loro, rappresentava una questione di vita o di morte.
+
+Wilfrid Halterton riuscì a addormentarsi solo dopo essersi convinto, per la cinquantesima volta, che se avesse concentrato tutte le sue energie su quel compito, anche lui, che aveva poca esperienza in simili faccende, avrebbe potuto recuperare il documento, quel documento incriminante su cui aveva scritto quella frase che lo metteva nelle mani dell’altro. James Haggismuir McAuley, invece, decise all’istante – e rimase fermo nella sua decisione – che avrebbe recuperato non uno, ma entrambi i documenti che erano stati in suo possesso poche ore prima.
+
+Era ancora troppo presto perché i gentiluomini si alzassero quella mattina di venerdì; James McAuley e Wilfrid Halterton, ognuno nel proprio nascondiglio, si stavano preparando per la caccia. Erano appena le sette, ma entrambi erano già in movimento: avevano infatti deciso che era sempre l’indagine tempestiva a permettere di catturare il colpevole. Mentre il Postmaster-General iniziava a muoversi verso ovest lungo la strada deserta che costeggia il Parco, James McAuley seguiva lo stesso percorso verso est, diretto alla porta da cui l’altro era uscito.
+
+L’intenzione di uno era quella di aspettare pazientemente in un angolo da dove potesse controllare l’uscita dall’appartamento situato sotto il Marble Arch; l’intenzione dell’altro era quella di aspettare pazientemente in un angolo da dove potesse osservare la comparsa della sua preda dalla porta principale dell’appartamento, situato a nord del parco.
+
+Ma è necessario notare qualcosa nell’azione di James McAuley: infatti, riconosco a Wilfrid Halterton il genio superiore nel raggiungere alte cariche ministeriali; vedo invece in James McAuley un altro tipo di genio, quello commerciale. Mentre Wilfrid Halterton si muoveva apertamente, esposto al mondo vuoto e freddo, sotto lo sguardo di chiunque potesse osservarlo nella vastità di Park o nel deserto di Bayswater Road, James McAuley procedeva invece attraverso passaggi nascosti, vicoli laterali e strade secondarie. Per questo motivo, nonostante avessero entrambi lo stesso obiettivo, non si incontrarono mai.
+
+Ma quell’incidente non poteva essere rinviato a lungo. Il Capo Postale, arrivato al Marble Arch, si era soffermato per circa dieci minuti, camminando avanti e indietro lentamente, osservando l’ingresso dell’appartamento di James McAuley; quando un poliziotto, desideroso di fare carriera, gli disse senza alcuna cortesia cosa pensava di quella situazione, il Capo Postale rinunciò al privilegio della sua posizione e si allontanò di nuovo verso ovest, continuando a guardare di tanto in tanto verso quell’uscita proibita.
+
+Per James McAuley le cose andarono ancora peggio. Infatti, le case dei ministri del Gabinetto non possono essere sorvegliate impunemente, tranne che da persone più ricche o addirittura più importanti di loro, e anche in quel caso, solo attraverso agenti conosciuti. Pertanto, il poliziotto parlò con il signor James McAuley circa cinque minuti prima che il suo collega trattasse così severamente Wilfrid Halterton; il poliziotto che parlò con James McAuley non fu solo scortese, ma addirittura maleducato, ordinandogli di andarsene al diavolo e promettendogli di non fargli mai più vedere la sua brutta faccia. Non restava a James altro che tornare nella sua casa, con vista sul Marble Arch. Dopo tutto, era giunto il momento di bere un po’ di caffè. Aveva raggiunto quell’età in cui non è affatto salutare fare lunghe passeggiate nelle fredde mattine di marzo, prima di colazione. Prese quindi la strada diretta, tornando attraverso il Parco.
+
+Lo stesso pensiero era venuto anche a Wilfrid Halterton, perché il caffè era anch'esso la sua bevanda preferita. Anche lui tornò lungo la Bayswater Road, per lo stesso percorso di prima.
+
+Ognuno dava per scontato che l’altro fosse ancora a letto, quando, a metà strada tra i due appartamenti, James Haggismuir McAuley scorse, da una distanza di 350 yard, quella figura alta e inconfondibile. Fortunatamente per lui, in quel momento la testa di Wilfrid Halterton era rivolta verso l’alto; spesso la teneva così nei momenti di ansiosa incertezza; nel resto del tempo, quando tendeva a essere depresso, fissava il suolo con lo sguardo.
+
+James McAuley si girò bruscamente e guardò attraverso le sbarre del parco che stava seguendo. Non dubitava affatto che la sua sagoma alle sue spalle fosse un nascondiglio sufficiente. Ma si sbagliava. Wilfrid Halterton aveva già individuato la sua preda: non c’era modo di confondere quella posizione particolare delle dita dei piedi e della separazione tra i talloni, tipica di James Haggismuir McAuley.
+
+Un finanziere che osserva con attenzione un statista.
+
+Il Capo Postale, con una rapidità di decisione insolita per lui, scese i gradini fino a quando i suoi occhi non furono allo stesso livello del marciapiede; stando in punta di piedi sui gradini e inclinando la testa all’indietro, osservava attentamente i movimenti del nemico lungo la strada.
+
+James Haggismuir McAuley stava appoggiato alle ringhiere, con le spalle voltate, il naso ancora esposto al freddo per un tempo insopportabilmente lungo; poi, molto cautamente, sbirciò oltre le proprie spalle. Con lo stesso gesto che usa un gatto domestico quando vuole osservare senza essere visto. Con sua enorme sorpresa, Wilfrid Halterton era scomparso: i due pollici di testa visibili sopra il vasto livello della strada di [[settings/london|Londra]] (poiché il cappello era stato tolto) non erano stati notati da McAuley. Si disse: “Quell’uomo è tornato a casa. Ma che cosa voleva qui?” Per un momento, l’uomo d’affari pensò di tornare e controllare di nuovo quell’appartamento; ma poi ricordò il poliziotto, e anche il caffè che lo aspettava nel suo appartamento vicino a Marble Arch. “Lasciamo perdere”, si disse. “Ormai non importa più.”
+
+Poi uscì con decisione e si diresse rapidamente verso ovest, senza più temere di essere seguito.
+
+Ancora sbagliato. Se il Capo Postale avesse avuto qualche esitazione, questa sarebbe stata dissipata da uno shock improvviso e brutale. Una donna anziana ma decisa, osservando dalla finestra della sua cucina, aveva visto due lunghe gambe calzate in grandi stivali con i tacchi alti oscurare la luce del mattino. Si era armata di una spazzola impregnata di fuliggine, era uscita di corsa e aveva colpito il bersaglio al volo. Il grande statista, preso dal terrore, si era precipitato giù per le scale. Lì stava, tremante ed esitante. Il breakfast lo chiamava, ma anche gli affari. Gli affari avevano la precedenza sul cibo. Wilfrid Halterton rinunciò al suo caffè e seguì a distanza il capo di Billies.
+
+Il marciapiede era ancora così deserto che la visibilità era ottima. Da lontano, Halterton vide la sua volpe rifugiarsi negli appartamenti di Marble Arch, poi esitò per un momento su cosa fare. Non poteva certo riprendere a osservare quella porta: ciò avrebbe potuto portare a ogni sorta di conseguenze. Ma non c’era nulla che gli impedisse di entrare e affidarsi alla fortuna. È una fiducia comune tra coloro il cui genio non permette loro di fare calcoli rapidi.
+
+La prima volta che l’ascensore salì, trasportò al suo sesto piano il considerevole, sebbene digiuno, peso di James Haggismuir McAuley. La seconda volta che salì, trasportò la figura alta, snella e anch’essa digiuna di Wilfrid Halterton.
+
+Cosa si doveva fare adesso? Non sono io a porvi questa domanda, caro lettore perfetto. Non avrebbe senso farlo: non potete muovere le persone in questa storia a vostro piacimento. Quel privilegio spetta a me. No, è stato Wilfrid Halterton ad porsi questa domanda. E, proprio come Mack a Ulm, Napoleone III a Sedan, rimase senza risposta. Non gli venne in mente nulla di meglio che camminare avanti e indietro nel corridoio, nella speranza che, quando la sua “preda” fosse uscita, potesse vederla senza essere visto. Dopotutto, pensò il P.M.G., non appena la porta si fosse aperta, avrebbe sempre potuto nascondersi dietro l’angolo del corridoio.
+
+Un statista che osserva con ancora maggiore cautela un finanziere.
+
+Il Capo Postale dovette aspettare un quarto d'ora intero; durante quel lasso di tempo l’ascensore salì e scese più volte, e la signora incaricata di pulire quel piano gli passò accanto almeno cinque volte, con sempre maggiore curiosità.
+
+Finalmente la porta si aprì, in un momento piuttosto sfortunato per il Capo Postale Generale. Non lo trovò in nessun angolo comodo dove potersi nascondere durante i suoi giri, ma proprio sul bordo delle scale, nei tre metri che separavano l’ascensore dalla porta di James McAuley. Sentì la voce di McAuley all’interno; non poteva rischiare di tornare indietro, quindi scese di corsa i sei piani di scale con una velocità degna di un motivo più nobile e di anni più agili.
+
+James McAuley, completamente innocente riguardo alla fuga al piano di sotto, chiamò solennemente l’ascensore, lo attese, vi salì e, eccolo: non appena uscì e si avviò verso il portico dell’appartamento, vide la figura di Wilfrid Halterton allontanarsi rapidamente lungo il marciapiede.
+
+Il Capo Postale ebbe l'imprudenza di guardarsi intorno. I loro sguardi si incrociarono e, con un grido strano che spaventò notevolmente le poche persone presenti nelle vicinanze, Wilfrid Halterton corse lungo Park Lane il più velocemente possibile per circa venti metri; alla fine, la sorte gli fornì una cabina telefonica. Vi saltò dentro, gridando il primo indirizzo che gli venne in mente: Victoria. Il sollecito autista della cabina chiese quale delle due stazioni si intendesse; una domanda assurda, visto che ormai entrambe facevano parte dello stesso complesso.
+
+“Qualsiasi stazione!”, gridò il ministro angosciato. “Anche Brighton, se vi piace!”
+
+Il tassista non aveva alcun gusto in materia. Ma il ritardo aveva dato alla “caccia” la sua opportunità: James McAuley stava seguendo un altro veicolo simile, che guidava con maestria attraverso la finestra aperta.
+
+“Doppio prezzo!” disse, “doppio prezzo. Guida più velocemente, idiota! No. Non guidare troppo veloce. Basta che lo tenga d’occhio. Ora, basta che lo tenga d’occhio.”
+
+Nella sua ansia, il grande finanziere continuava a sporgere la testa ogni due o tre secondi per assicurarsi che tutto andasse bene; e altrettanto rapidamente la ritraeva in quelle numerose occasioni in cui Wilfrid Halterton faceva lo stesso, con l’intento di verificare se fosse stato inseguito. Non ne era del tutto certo: a volte pensava di sì, altre volte no. Arrivato a Victoria, gli venne in mente – e questo è davvero un grande merito per una persona del genere – un’ottima strategia da attuare immediatamente.
+
+Le cabine telefoniche, che anche per i telefoni senza fili del 1960 mantengono esattamente lo stesso aspetto di quelle del 1932, sono come sempre dotate di porte in vetro. Per una fortunata coincidenza, durante il giorno queste porte risultano così scure che chi si trova all’interno riesce a vedere meglio ciò che accade fuori, rispetto a quanto chi è fuori possa vedere all’interno. È un vero onore e merito di Wilfrid Halterton, nelle prime fasi della sua nuova carriera come “cacciatore di indizi”, aver pensato proprio alle cabine telefoniche.
+
+Fu ricompensato. Non aveva ancora chiuso la porta a vetri da trenta secondi quando vide James Haggismuir McAuley avvicinarsi dal marciapiede dove l'autobus lo aveva lasciato.
+
+Ma cosa stava succedendo? James Haggismuir McAuley stava facendo qualcosa che poteva portare a un punto morto, e questo confondeva profondamente il suo ex amico. Infatti, James McAuley si era recato in una cabina telefonica situata tre posti più avanti nella stessa fila e da lì osservava con attenzione la folla che si stava radunando, cercando la sua preda.
+
+J. stava iniziando ad ansimare per la scomparsa improvvisa di quella persona tra la folla di schiavi che i treni suburbani stavano scaricando, quando, grazie a uno sguardo casuale, riuscì a vedere, attraverso quelle tre cabine telefoniche e sei vetri, proprio colui che non poteva essere altri che il famoso Ministro del Gabinetto, con cui poco prima aveva avuto colloqui di grande importanza per lo Stato.
+
+James McAuley si chiese dentro di sé se Wilfrid Halterton lo avesse visto; decise che il Capo Postale non aveva fatto caso a lui, quindi uscì silenziosamente dalla cabina telefonica, piegando le ginocchia, e si nascose dietro l’angolo del muro più vicino. La sua iniziativa spinse Wilfrid Halterton ad agire allo stesso modo; dopo aver guardato attentamente intorno, anche lui si nascose dietro l’angolo opposto. Lì rimasero entrambi in attesa degli sviluppi successivi.
+
+Potete crederci o no, ma è assolutamente vero: in quel momento apparve sulla scena una figura altrettanto familiare per voi quanto quelle dei due osservatori; la figura cordiale, gentile e vivace di Honest Jack Williams. Spesso, nei bei venerdì – quando doveva alzarsi presto in ufficio a causa dell’ora più anticipata delle riunioni della Camera – aveva l’abitudine di passeggiare felicemente attraverso St. James’s Park, osservando gli strani uccelli che vi abitavano e confrontandone le caratteristiche con quelle dei suoi colleghi. Un confronto che per lui rappresentava una fonte inesauribile di divertimento. Ed è così che si imbatté proprio in Wilfrid Halterton.
+
+“Wilfrid… mio caro amico!” disse. “Sei tu?”
+
+Sarebbe stato inutile negarlo. Jack Williams, afferrando il braccio della sua vittima, la portò via con sé. Ma anche mentre lo faceva, il suo occhio attento notò, di lato e a destra, un volto che conosceva molto bene: il volto dell’uomo con cui aveva giocato a biliardo la sera precedente. Alla vista di quel volto, l’intelligenza pronta e astuta di Jack Williams – un’intelligenza che, francamente, ritengo sia ben superiore anche a quella di Wilfrid Halterton o James McAuley – iniziò a lavorare con la velocità di una turbina.
+
+Quando i due, mano nella mano, avevano percorso metà del tragitto lungo la Buckingham Palace Road, di fronte a quella scultura dei cavalli presso gli Stabili Reali – che è una delle cose più belle di [[settings/london|Londra]] – Jack Williams, chiacchierando allegramente tutto il tempo, aveva già risolto completamente il problema.
+
+Quei due Jack si stavano guardando a vicenda! Era tentato di ridere ad alta voce, “E perché si guardavano a vicenda?” si chiese Jack Williams dentro di sé. “Perché,” rispose Jack Williams a se stesso, “perché ognuno dei due pensava che l’altro avesse le lettere.” E quando quella soluzione finale si rivelò in tutta la sua chiarezza, fu impossibile per il Ministro dell’Interno trattenersi dal ridere ad alta voce. Si fermò in strada, con il braccio ancora intrecciato a quello del suo collega, e rise fino a quando non si sentì soddisfatto.
+
+“Halterton,” disse riprendendo a camminare, “quella è stata una delle cose più divertenti che abbia mai sentito in vita mia.”
+
+“Cosa?” disse Halterton, distratto e, ahimè! senza cibo. Da un lato si sentiva irritato per essere stato trascinato via in quel modo, ma dall’altro ne era anche sollevato; infatti lo sforzo derivante dalla caccia e dai nascondigli aveva già iniziato a farsi sentire. “Cosa ho detto che ti è sembrato divertente?”
+
+A dire il vero, non aveva la minima idea di ciò che stava dicendo; rispondeva semplicemente a caso. La replica sufficiente di Jack Williams fu: “Slyboots!” – con questa parola pungolò il Segretario Generale delle Poste e guidò rapidamente la conversazione verso argomenti sempre diversi, fino a quando non si allontanò completamente da McAuley e dal ricordo di lui.
+
+Si separarono alla porta dell’Home Office. Halterton, non avendo nulla di meglio da fare, si diresse verso la sua stanza nella House of Commons, che era proprio lì vicino, e finalmente riuscì a bere un po’ di caffè. Ne aveva bisogno.
+
+* * *
+
+Jack Williams non era ancora seduto alla sua scrivania da molto quando riuscì a conoscere il prezzo di apertura delle azioni Billies, proprio all’inizio della sessione di mercato. Le quotazioni continuavano ad aumentare rapidamente; avrebbero raggiunto i 50 entro la fine della giornata, quindi molti stavano acquistandole con entusiasmo in un mercato in crescita. Il suo collega, il signor Gunter, che aveva appena contattato il Ministro dell’Interno su ordine, lo rassicurò che le azioni erano “sicure” e avrebbero potuto raggiungere i 60 entro la fine della giornata. Il signor Gunter aveva ricevuto queste informazioni all’ultimo momento e le ripeteva meccanicamente, senza davvero comprenderne il significato. Pensò con rammarico che, se solo sapesse a cosa si riferissero quelle indicazioni, anche lui avrebbe potuto trarne profitto. Ma doveva comunque adempiere al proprio dovere ingrato e riferì quindi che “le azioni potevano essere mantenute senza rischi fino ai 60 almeno”.
+
+Il signor Williams ringraziò molto il signor Gunter e riattaccò il telefono. Trattenne la sua impazienza fino all’ora di pranzo, quando guardò i dati registrati sulla cassetta e fu molto soddisfatto di vedere le cifre: 58; 58s. 6d.; 9d.; 3d.; 6d.; 59s.; 59s. 3d.; 59s. 6d. Si tenne il mento tra le mani, pensieroso, e prese la sua decisione. Chiamò di nuovo il signor Gunter dal Club (sapeva perfettamente cosa poteva permettersi di fare e cosa no) e gli chiese di comunicare che voleva vendere “tutti” quegli oggetti. Uno per uno. E anche quel piccolo pacchetto che aveva preparato con loro. Solo ieri li aveva acquistati a 35.
+
+Gli restavano ancora un paio d’ore per lavorare, e Williams si mise all’opera con impegno. Si riunì con un gruppo di cinque persone, suoi vecchi amici, intorno a un tavolo situato vicino alla finestra nel Club; quel tavolo era sempre allegro, anche nei giorni invernali, e lì si facevano battute divertenti sulle piccole dispute che spesso sorgono tra colleghi, storie buffe riguardo alle ultime assurdità accadute, come la disputa tra il Capo Postale Generale e quegli estranei che lui non poteva sopportare e che continuavano a importunarlo. Jack Williams descriveva con entusiasmo ai suoi amici, che spesso ascoltavano le sue confidenze, il carattere strano di Halterton: quanto odiasse essere manipolato, come si ribellasse sempre contro l’idea che qualcuno potesse pensare che avesse preso una decisione definitiva. E soprattutto, quanto fosse infastidito dal fatto che, beh, non voleva continuare a parlarne, perché sarebbe stato ingiusto.
+
+Il vecchio Muggridge, che era troppo ricco per curarsene minimamente e che amava sempre questo genere di cose, disse: “Oh, ho sempre detto che prima o poi avrebbe avuto dei problemi con la famiglia Durrant. Parlavano come se lo avessero in pugno. È proprio così, vero? Si sono scontrati con i Durrant, eh?”
+
+Jack Williams guardò il proprio piatto.
+
+“Eh?”, disse Mangey, che quel giorno si trovava lì per caso (veniva di tanto in tanto, anche se si considerava superiore a quella gente). “Davvero, Jack?”
+
+“Ah, Mangey!” disse Jack con un'espressione molto sagge, ma sorridendo allo stesso tempo. “Quello sarebbe davvero rivelatore, ” E così finì il pranzo.
+
+L’azienda scomparve in modo insolitamente rapido. In tre minuti, le tre cabine telefoniche del Club furono tutte occupate: Mangey era in una di esse, il piccolo Bonzer nell’altra, e – senza dubbio per qualche affare legato al Club – anche il capocameriere era nella terza. Per quanto riguarda Lord Muggridge, lui disdegnava simili cose e faceva ciò che voleva, come se non esistessero né telefoni né borse valori. E lo stesso fareste voi, caro lettore. E anch’io le disprezzerei, se fossimo ricchi quanto Lord Muggridge o il vecchio Papworthy. Comunque sia, saremmo davvero degli idioti a investire in situazioni del genere.
+
+Dopo aver compiuto questa buona azione, Williams, che avrebbe dovuto essere davvero presente alla riunione, pensò che ci sarebbe ancora stato tempo per dare un’occhiata prima che iniziasse e infilò una lettera tra le altre carte.
+
+Non era una lettera breve, ma lui scriveva velocemente; gli ci volle probabilmente un quarto d’ora per finirla.
+
+Era uno di quei messaggi scherzosi che gli piaceva inviare a Lady Caroline Balcombe: a lui piaceva scriverli e a lei piaceva riceverli; nessuno scriveva lettere migliori di Jack Williams, piene di pettegolezzi e battute divertenti. E in quei pettegolezzi e battute c'era più di un accenno, anzi quasi una dichiarazione esplicita, al fatto che Halterton e J. si erano scontrati all’ultimo momento.
+
+“Se ne dubiti,” disse come posta aggiuntiva, “chiamali nella tua piccola capanna e passerai il miglior momento della tua vita. Immagino che resterai lì per il fine settimana, no? E potrai anche mettere via quelle calze di seta che stanno rovinando. Vedi in quale stato sono: si guardano a vicenda come gatto e topo!”
+
+Quella lettera non fu inviata per posta, ma distribuita a mano. Entro venti minuti dall’averla ricevuta, Lady Caroline aveva parlato al telefono e di persona con due ospiti illustri, invitandoli a visitare la casa in stile normanno-tudor situata a Sandlings Castle, nel Hertfordshire: la più grande delle proprietà della famiglia Balcombe, la più vicina alla città e il principale punto di ritrovo del Partito Anarchico, sia quando era al potere che in opposizione.
+
+Li aveva entrambi portati con sé; sarebbero arrivati in tempo per la cena. Dopo aver saputo da McAuley che avrebbe raggiunto il treno poco prima della cena e si sarebbe cambiato prima di partire, aveva deciso di accompagnare il Postmaster-General con la sua auto, la più magnifica delle sette automobili Balcombe: Lady Caroline infatti riservava per sé le migliori. Mentre l’auto procedeva silenziosamente attraverso i sobborghi, Lady Caroline, con Halterton al suo fianco, era una donna felice. E quando arrivò a Sandlings, molto prima del tramonto, era radiosa.
+
+Nemmeno quella eccellente politica fece sapere a nessuno dei suoi ospiti che l’altro sarebbe stato presente. Ed è proprio così il Regno dei Cieli.
+
+IX
+
+Quel pomeriggio di venerdì, mentre scendevano in macchina, Lady Caroline cercò di essere gentile con il Capo Postale Generale.
+
+Non fu difficile fargli sentire meglio, perché era evidente che stesse soffrendo molto e tutto ciò di cui aveva bisogno era comprensione, un po’ d’amore, in fondo. Del resto, il suo dolore era visibile a chiunque lo avesse osservato durante quei tre giorni al banco dei deputati. Il compito di Lady Caroline fu quindi più semplice: a differenza di suo marito e di James McAuley, lui era nato nella nobiltà; suo padre possedeva vaste estensioni di terreno argilloso nell’Essex, in un’epoca in cui simili proprietà avevano molto più valore di oggi, prima che il debito li gravasse così pesantemente da rendere impossibile il loro mantenimento.
+
+Per tutto il tragitto – Sandlings dista soltanto trentadue miglia dalla residenza principale e non quindici miglia dagli ultimi sobborghi settentrionali di [[settings/london|Londra]] – cercò di scoprire, nel modo più discreto possibile, se ci fosse verità nelle notizie che Williams le aveva riferito riguardo alla lite tra i P.M.G. e McAuley di Billies. E quando dico “discretamente”, intendo davvero in modo molto discreto. Non posso descrivere esattamente il procedimento, perché personalmente non sono mai stata una ricca signora anziana; ma l’ho osservato da fuori.
+
+Esiste un tipo di uccello il cui nome dovrebbe essere familiare a coloro che si interessano agli uccelli (anche in questo caso non so come descriverlo, ma è sicuramente un uccello, e l’ho visto con i miei occhi). Questo tipo di uccello vola in cerchio, disegnando ampi archi nell’aria, per osservare la sua preda che nuota nelle acque sottostanti. Lo fa a tale altezza che la vittima non sospetta nulla. Proprio così agì Lady Caroline Balcombe durante quel breve lasso di tempo, nella sua enorme auto.
+
+Ma non imparò molto. A malapena riusciva a capire, considerando che né azioni né titoli borsistici né la televisione, e nemmeno il nome McAuley, potevano essere pronunciati correttamente. Quello che scoprì fu che il Capo Postale era ancora più scontento di quanto avesse immaginato. Non era il tipo da nascondere le proprie sofferenze davanti a una donna comprensiva, soprattutto se si trattava di una donna di sufficiente rango sociale. E anche se non poterle raccontare tutta la verità rappresentava per lui un’ulteriore angoscia (poiché non osava farlo), rispose alle sue domande premurose ammettendo di avere motivi molto seri per essere preoccupato.
+
+Finora, tutto va bene. Mentre si avvicinavano alla casa, lei rimase in silenzio e rifletté sul suo piano. Aveva assegnato ai suoi due ospiti due stanze separate tra loro, ma situate nello stesso lato del grande corridoio che collega il pianerottolo della Torre Barbican con l’ala Tudor in stile edoardiano di fronte alla fortezza; quel corridoio si raggiunge attraverso un arco realizzato nel tipico stile del XIV secolo, ben noto a tutti voi dalle foto. Chi conosce quella grande casa (e suppongo che ne abbiate almeno una certa conoscenza) riconoscerà dalla mia descrizione che nessuna delle due stanze si trovava nella parte più recentemente ristrutturata, dove ormai ogni camera da letto dispone di un bagno personale, come richiesto dalle moderne abitudini. Tuttavia, tra le due stanze c’era un bagno comune; una di queste era chiamata “Bidewell”, l’altra “De Clair”, in onore di due Templari che un tempo appartenevano alle famiglie dei precedenti proprietari della casa. (Ricorderete infatti che il castello era gestito da un Gran Sergente. Il fatto che questo aspetto fosse stato tenuto in considerazione nel prezzo pagato da Mr. Balcombe è del tutto giustificato.)
+
+Tutto questo non significa che per McAuley o per il signor Halterton non ci fosse una vasca da bagno. C'era senz'altro una vasca da bagno. Era quella che si trovava a metà strada tra le due stanze. E tutto ciò era stato pianificato da Lady Caroline con grande intelligenza: né troppo vicina, nel caso avessero litigato, poiché la loro vicinanza avrebbe potuto causare problemi; né troppo lontana, per evitare che mostrassero segni di ostilità o sospetto reciproco.
+
+Aveva fatto di più. Con la promessa di una ricompensa, aveva incaricato la cameriera addetta a quella specifica area della cassaforte di tenere d'occhio la situazione.
+
+Quando tutte queste cose furono concluse e lei mandò Halterton di sopra a vestirsi (convolgendolo in uno dei suoi sorrisi più affettuosi, che gli assicurarono il suo sostegno e la sua amicizia in qualsiasi prova lo aspettasse), gli disse di scendere presto, perché anche lei lo avrebbe fatto; voleva infatti parlargli prima dell’arrivo degli altri ospiti.
+
+Lo avrebbe fatto; ed effettivamente scese presto. Quello che lei aveva da dirgli era inaspettato.
+
+“Signor Halterton,” disse lei, mettendo quasi una mano sulla sua spalla per esprimere tutta la sua simpatia, “ho invitato qui un suo amico, di cui so che sarà felice di conoscerlo. Arriverà con il treno che arriva proprio in tempo per cena; mi ha detto che si sarebbe vestito in modo appropriato per l’occasione. È il signor James McAuley, il fratello del Procuratore Generale.”
+
+Sì, il signor Wilfrid Halterton lo sapeva molto bene. Oh, era davvero felice di sentire che il signor James McAuley stava per arrivare. Lei osservò la sua gioia, una gioia simile a quella di un uomo costretto ad attraversare una passerella di legno; per questo motivo era ancora più propensa a credere alle informazioni fornite dal Ministro dell’Interno.
+
+Non dovettero aspettare a lungo. James McAuley apparve. Halterton nemmeno provò ad escappare; lei l’aveva costretto a rimanere al suo fianco. Accolse il nuovo arrivato con tale simpatia che Halterton provò persino un pizzico di gelosia. Del resto, così sono i Direttori Generali dei Posti di una certa età. Si scusò affettuosamente per averli messi così lontani a tavola durante la cena, dicendo di sapere che avrebbero avuto molto da dirsi non appena le donne se ne fossero andate.
+
+Ma non lo avevano fatto. Quando le donne se ne furono andate, Halterton ascoltò con interesse l’arguzia di Mr. Balcombe, seduto sette posti a destra del tavolo, mentre McAuley seguiva la conversazione con altrettanto scarso entusiasmo, seduto quattro posti a sinistra. E tra il grande finanziere e il grande statista c’era un enorme calice tutto d’oro, sul quale erano raffigurate divinità marine realizzate da Elkington, ma seguendo lo stile di Benvenuto Cellini.
+
+Nemmeno in seguito, nel lungo lasso di tempo prima di andare a letto, questi due signori ebbero occasione di parlare tra loro. Infatti, durante i loro spostamenti per le stanze, si trovarono vicini due volte; e in entrambe le occasioni ognuno gettò un rapido sguardo verso la fodera del cappotto che l’altro indossava, nel punto in cui poteva esserci una tasca. Ma non successe nulla di più.
+
+Lady Caroline Balcombe, la grande figura del Partito Anarco, accolse con gentilezza un suo avversario politico.
+
+La notte, o per essere più precisi, l’alba, calò su quelle sei torri e sulla torre alta che sovrastava i tre acri di tetto. Con l’arrivo del nuovo giorno, quando le persone ricche si alzano per iniziare la loro routine quotidiana – intorno alle 9:15 del mattino – Lady Caroline Balcombe, mentre beveva il suo tè mattutino a letto, fu raggiunta da quella fedele domestica incaricata di tenerla costantemente informata su eventuali novità; e lei aveva una storia da raccontare. Erano accadute delle cose. Ecco cosa era successo.
+
+Il signor James McAuley, all’ora assurda delle 8:30, uscì silenziosamente dalla sua stanza in pigiama e attraversò senza fare rumore il tappeto spesso del corridoio, passando accanto al bagno. Con estrema attenzione si assicurò che la porta fosse chiusa a chiave e sentì l’acqua scorrere all’interno. I dei lo favorivano! Continuò ad avanzare silenziosamente come prima e aprì con cautela la porta della stanza del Postmaster-General. Proprio in quel momento, quella donna eccellente, che aveva tenuto d’occhio tutto nella speranza di ricevere una ricompensa, lo osservava da lontano, spiando da dietro l’angolo delle scale, situata a soli trenta metri di distanza. Vide James McAuley entrare nella stanza, vide la sua mano tendersi verso il tavolo su cui aveva notato alcuni documenti, e sentì un forte grido provenire dal letto all’interno. Lo vide chiudere rapidamente ma silenziosamente la porta e tornare di corsa nelle sue stanze con incredibile velocità.
+
+Finora tutto è andato bene. La caccia era terminata. Poi quella brava donna attese, e fu nuovamente ricompensata. Dalla stanza del Postmaster-General uscì la figura alta di quel statista, vestito in pigiama; ripeté, ma nella direzione opposta, la stessa manovra che poco prima aveva eseguito il ministro delle Finanze. Lo stesso avvicinamento silenzioso, lo stesso tentativo di aprire la porta del bagno chiusa a chiave, la stessa espressione di soddisfazione nell’udire l’acqua scorrere, lo stesso avanzare verso la porta della camera da letto. Dietro quella porta, McAuley ormai sicuramente non si nascondeva più, visto che stava chiaramente facendo il bagno.
+
+Ma la manovra di Wilfrid Halterton differiva da quella del suo collega della City; questa differenza derivava proprio dalle loro diverse personalità. Il Capo Postale non cercò nemmeno di aprire la porta. Si fermò, ascoltò attentamente per assicurarsi che non ci fosse nessuno all’interno, prima di iniziare a ispezionare la stanza nella speranza di trovare quell’involucro così importante per lui. Il silenzio lo convinse che la stanza era davvero vuota. Tuttavia, a causa della sua nervosità, non poteva fare a meno di chiedersi se, nonostante tutto, J. potesse comunque essere lì dentro.
+
+Aprì la porta con estrema cautela, ma fu immediatamente informato. La protesta che lo accolse fu davvero sorprendente. La porta si spalancò di colpo e James McAuley, a metà vestito, ne uscì urlando:
+
+“Che diavolo stai facendo lì, Halterton?” gridò; e la gioia dell’uomo che osservava dall’angolo della scala fu totale.
+
+“Cosa diavolo stai facendo?”, gridò di nuovo. “Stai spiando!”
+
+“. Pensavo fosse, ehm, la mia porta. Ho fatto un errore,” disse Halterton.
+
+“Non sbagliatevi su nulla!” gridò il finanziere, il cui modo di parlare rifletteva le sue frequenti traversate atlantiche. “Non sbagliatevi riguardo a vostra zia!” Detto ciò, chiuse la porta con forza, e l’infortunato ministro se ne andò a mani vuote, pentendosi amaramente della sua audacia.
+
+Il Nobile Onorevole Wilfrid Halterton, Segretario Generale delle Poste, disegnava in segreto.
+
+Questa era la storia che quella eccellente donna, che da posizione vantaggiosa aveva controllato ogni dettaglio, raccontò alla padrona del castello, guadagnandosi così ampiamente la ricompensa che ottenne immediatamente da una graziosa borsina appesa sul comodino.
+
+Allora era vero. Lady Caroline era soddisfatta.
+
+Non sarebbe stato utile chiamare gli agenti di borsa fino a poco prima delle dieci. Comunque, Lady Caroline era piuttosto a corto di tempo. Ma ce l’è fatta. Quando è arrivata nella stanza dove già alcuni di loro erano venuti a fare colazione, aveva già venduto tutte le sue azioni “Billies”. È stata un po’ sorpresa nello scoprire che non riusciva ad ottenere il prezzo che si aspettava, considerando quanto letto nei rapporti del giorno prima. Tuttavia, le hanno assicurato che aveva ancora abbastanza tempo, anche se i prezzi delle azioni stavano crollando. Comunque sia, aveva comunque ottenuto un buon risultato; quindi non aveva sprecato quelle quindici ore. Una buona strategia, come al solito, ha portato alla vittoria.
+
+Il sabato e la domenica pesavano piuttosto sull’animo di Lady Caroline. Non portarono a nulla, nemmeno al divertimento di una qualche lite aperta tra i due uomini. Lei avrebbe voluto sapere di più. Ma era troppo saggia per cercare di scoprirlo. Le faceva piacere osservare come il Postmaster-General si comportasse in modo piuttosto strano, soprattutto riguardo alle intenzioni di Durrant; allo stesso modo, anche l’uomo dietro le azioni di Durrant si comportava in modo insolito. Le divertiva molto notare il modo in cui si osservavano a vicenda. Non sapeva esattamente cosa cercassero, ma una cosa era chiara: entrambi tentavano di cogliere l’altro di sorpresa; quel comportamento si ripeté diverse volte nel corso della giornata. Le fece ancora più piacere notare, da lontano, mentre lei e alcune altre persone erano nel parco, qualcosa che sembrava proprio una lite tra i due. Poi, improvvisamente, si separarono. Ma era tutto ciò che accadeva.
+
+Tornarono indietro separatamente lunedì mattina: Halterton, in modo piuttosto ostentato, su un treno che partiva prima che chiunque si alzasse, poiché aveva avvertito la sua ospite che doveva farlo a causa del lavoro che lo aspettava in città nel suo ufficio; McAuley, invece, aspettò con altrettanta ostentazione per dimostrare che non aveva affatto fretta di arrivare a [[settings/london|Londra]].
+
+Lady Caroline lo invitò persino a pranzo, visto che era disposto ad aspettare. Lo aveva quasi tutto per sé, e mentre sedevano insieme non esitò a dire alcune cose spiacevoli su Mr. Halterton. Si pentì soltanto di non essere venuta prima per dire qualcosa di negativo su Halterton riguardo a Mr. McAuley. Tuttavia, aveva appreso abbastanza bene tutto ciò che voleva sapere; o almeno tutto ciò che poteva apprendere in quelle circostanze.
+
+Era curiosa: essendo ormai piuttosto indipendente e con tutti gli altri già partiti, voleva scoprire di nuovo dai suoi intermediari cosa stesse succedendo a Billies. Era stata molto soddisfatta nell’apprendere che le azioni continuavano ad avere un andamento negativo, con una velocità e un’entusiasmo che la consolavano riguardo al prezzo che aveva pagato. Se avesse aspettato ancora, probabilmente avrebbe perso di più. Invece, era riuscita a ottenere un piccolo guadagno ed era abbastanza contenta: aveva venduto le azioni a 46 penny l’una, il che equivaleva a quasi 11 penny al pezzo.
+
+Era di umore felice; quindi, quando entrò nella Casa, piuttosto tardi lunedì pomeriggio, la sua soddisfazione aumentò ancora di più vedendo l’ulteriore cupo espressione sul volto del Capo Postale Generale.
+
+X
+
+A [[settings/london|Londra]], in un angolo remoto di Mayfair, sorge una splendida casa del XVIII secolo. Tra essa e la strada c’è un ampio cortile costruito appositamente per accogliere le grandi carrozze che si dirigevano verso il portico d’ingresso; dietro la casa c’è un giardino discreto, abbastanza grande da essere condiviso da alcuni alberi secolari. Lì viveva un uomo che avrebbe svolto un ruolo fondamentale nelle avventure del Postmaster-General: un amico, un amico intimo, ma anche un amico leale e della sua stessa età. Questo amico si chiamava Arthur Lawson; di origine ebrea, proveniva dai confini orientali della Lituania. E questa è la sua storia.
+
+Un tempo, quando era ancora un bambino delicato e nervoso, che si ritraeva di fronte agli ostili abitanti della città russa in cui viveva la comunità ebraica stretta tra le mura, suo padre era morto. Sua madre era già deceduta durante il parto del suo unico fratello, un bambino sette anni più giovane di lui. La famiglia era terribilmente povera – poverissima anche secondo gli standard di quel luogo e di quel tempo, dove la povertà era estrema. L’intera esistenza del padre era concentrata su una sola cosa: lo studio e l’esposizione dei sacri testi della sua gente. Viveva grazie alle donazioni altrui, pur essendo lui stesso quasi povero quanto loro; le persone rispettavano la sua erudizione e ancora di più la sua reputazione di santità, che era davvero meritata. Quell’anziano studioso, infatti, nel limitato ambito delle conoscenze disponibili – tra i manoscritti e le pubblicazioni che circondavano la sua vita, nel contesto del passato in cui viveva e dei problemi che lo assorbivano – diceva e faceva il bene, seguendo quelle forme rituali e utilizzando quella ricchezza di frasi tradizionali e cerimonie precise che la sua gente amava e richiedeva. Ma ora lui era morto, e i due ragazzi, il piccolo Jacob e l’altro ragazzo Aaron Levina, erano stati affidati a una donna anziana, severa e diligente, le cui origini erano sconosciute; ai ragazzi era stato insegnato a chiamarla “Zia Reba”. Quella donna aveva curato la casa di loro padre per molti anni, vivendo soltanto per lui e per i suoi figli.
+
+In questa crisi delle loro misere condizioni, lei aveva accumulato un piccolo tesoro sacro, raccolto chissà con quanta cura e in quale silenzio. Di quel poco, giorno dopo giorno, vivevano; di quel segreto, che nessuno al mondo, tranne zia Reba stessa, conosceva né il luogo né l’entità, lei continuava a mantenere quella piccola famiglia, facendo tutto da sola. Era determinata che Aaron fosse degno di suo padre, e lui era stato destinato allo stesso grande ruolo, nonostante la stessa estrema povertà. La sua gloria – e già iniziava ad essere anche la sua – consisteva proprio nel fatto che ciò fosse possibile.
+
+Aaron, all’età di tredici anni, mostrava già doti eccezionali, anche in quel mondo ostile, ristretto, intellettualmente stimolante ma pieno di paura, circondato ovunque dall’odio, dalla rabbia e dal disprezzo. Il suo maestro lo lodava, paragonando la sua giovinezza a quella degli anziani delle storie. Sembrava che, man mano che il ragazzo guadagnava reputazione e prestigio, qualcosa venisse salvato. Ma tutto andò in frantumi: una folla si sollevò, assetata di sangue contro gli ebrei. All’inizio, quella furia era nata da un impulso cieco e da un’insurrezione popolare contro i pochi ricchi di quel ghetto, quei prestatori di denaro ai quali troppi gentili della città erano legati in debiti. Loro riuscirono a fuggire illesi, ma quella povera comunità fu distrutta: le case misere furono saccheggiate, la Sinagoga privata dei suoi preziosi ornamenti e bruciata; le fiamme illuminarono anche il corso di un esodo affrettato, disperato e terrorizzato. In quel furore cieco e crudele, morirono sia i vivi che i morti.
+
+In quella terribile notte, zia Reba salvò i ragazzi. Riuscì a portarli a Riga grazie all’aiuto di una persona che conosceva lì; trovò un posto su una nave in partenza per loro e per sé. Una buona parte del loro misero tesoro dovette essere sacrificata, poiché il capitano svedese della nave li sfruttò senza pietà. Dopo tre giorni di viaggio lento attraverso il calmo Mar Baltico (faceva ancora un freddo terribile, anche se il ghiaccio era scomparso) e altri tre giorni di tempeste nel Nord Mare, questi tre esseri umani – il bambino, il ragazzo e la vecchia donna – arrivarono a [[settings/london|Londra]], dove, grazie all’intenso patriottismo della gente lì residente, trovarono almeno rifugio e i primi necessari per vivere. Ma zia Reba continuò comunque a pagare, senza mai dover debito un centesimo a nessuno.
+
+Attraverso tali porte, all’età di quattordici anni, Aaron Levina era entrato nell’età adulta.
+
+Iniziò la sua nuova vita quando un datore di lavoro del suo stesso popolo lo assunse senza stipendio, affinché imparasse il mestiere: si trattava di un anziano senza figli che gestiva un piccolo negozio nel cuore di Whitechapel. Quel negozietto vendeva qualsiasi cosa gli capitasse tra le mani: oggetti non abbastanza rari da essere definiti curiosità, né antichi, semplicemente tutto ciò che quell’anziano, parsimonioso e astuto, riusciva ad acquistare con giudizio per poi rivenderlo a profitto. C’erano vestiti; occasionalmente anche pezzi di ricambio per barche, bussole, scatole contenenti strumenti, catene di vario tipo, e anche ornamenti: alcuni strani e insoliti, alcuni d’oro realizzati in modi bizzarri. Molto argento annerito passava anche attraverso le sue mani, e di tanto in tanto arrivavano anche pietre preziose più economiche. Per i gentili, nelle serate tranquille nel retro del negozio, venivano concessi piccoli prestiti, ma ad interessi elevati e spesso esorbitanti, solo ai gentili. La legge veniva rispettata rigorosamente; riguardo ai suoi connazionali, ai suoi fratelli e ad Aaron, non avrebbe mai praticato l’usura né li avrebbe derubati, perché è proibito. E quando l’anziano sentiva i nomi di quegli uomini ricchi della sua stessa gente che, come lui, avrebbero dovuto rispettare la legge, ma che invece la violavano per avidità, depredando persino coloro di sangue sacro, sputava in segno di disprezzo e odio.
+
+Dall’alba molto presto fino a tarda notte, il ragazzo Aaron lavorava silenziosamente, ma nel suo cuore c’era sempre un’ira nascosta verso il mondo esterno. Imparò rapidamente l’inglese, leggendo in ogni momento libero che riusciva a trovare nelle brevi ore serali libere; grazie a questi sforzi, guadagnò abbastanza da meritarselo, proprio come suo padre aveva fatto prima di lui, grazie a una tenacia incrollabile. L’uomo senza figli per cui lavorava, rendendosi conto che aveva sempre più bisogno di lui, lo assunse nel proprio piccolo commercio; e dopo soli quattro anni a [[settings/london|Londra]], Aaron riusciva già a stare al passo con i suoi colleghi, quasi poteva essere scambiato per qualcuno nato in quel rifugio sicuro che la sua gente trovava tra gli inglesi. L’attività commerciale iniziò a prosperare, naturalmente, visto che non poteva fare altro che crescere nelle mani instancabili di un ragazzo giovane come Aaron Levina, anche quando aveva appena raggiunto l’adolescenza. Zia Reba, ormai molto anziana dopo aver subito quella terribile prova e ora in declino di salute, poteva finalmente essere curata. Aaron le poteva offrire piccoli lussi e pagare il aiuto dei vicini.
+
+Ma ciò che era più caro al cuore di Aaron, ciò che costituiva la sua unica consolazione e la sua unica gioia in quei primi momenti di una prosperità molto umile, dopo tali ricordi amari, era l’educazione del figlio di suo fratello.
+
+Quel terribile giorno e quella terribile notte del pogrom lo avevano segnato profondamente. Lo avevano reso capace di amare soltanto poche persone. Gli avevano impresso, per così dire, il marchio di una vocazione: un dovere speciale di essere orgoglioso del proprio sangue e ostile a tutti gli altri. Lo avevano riempito di un odio ancora più profondo di quello che provava verso i suoi simili nei confronti dei brutali e abominabili Goim, quegli esseri che compivano tali atti orribili senza alcuna ragione. Il suo disprezzo per l’intelligenza di coloro che vivevano al di fuori della legge e dell’Alleanza non aveva nulla a che fare con la religione; sebbene rispettasse rigorosamente le regole religiose, questa non era la sua motivazione. Era l’esperienza. Li conosceva per ciò che erano veramente. Ma quella loro stupidità non giustificava affatto la loro malvagità.
+
+La terribile crudeltà che aveva ferito la sua anima fin da quando era giovane era ancora più vivida, sebbene meno evidente, di quegli sberri continui e di quelle offese frequenti che, anche quando non erano diretti a lui personalmente, costituivano la sorte della sua gente. Se tali sentimenti venivano nascosti tra i compagni più ricchi della sua vita successiva, era per codardia. Lo giurava, e non per compassione.
+
+Anche qui a [[settings/london|Londra]], al sicuro, non dimenticò mai quanto un'ostilità inspiegabile verso il suo popolo avesse rappresentato un fardello per lui e per i suoi.
+
+Così formato, così rimase, plasmato in quel modello; e tutti i suoi grandi talenti – che, a modo loro, erano genio – tutta la sua ferrea tenacia, erano condizionati da questo atteggiamento mentale. La vasta fortuna che avrebbe ottenuto non lo cambiò affatto. La doveva a se stesso e al proprio sangue per mantenere quel spirito inalterato; nell’agonia della sua anima isolata, tutta la sua affezione, tutta la sua intensità, erano concentrate sul fratellino minore.
+
+Tutta la sua essenza era concentrata su quel fratello. Era lui, pensava, che aveva veramente ereditato lo spirito di suo padre. E il ragazzo cominciava a essere considerato colto. Ma non nella cultura che suo padre aveva conosciuto; piuttosto nella conoscenza del tipo più moderno: formule matematiche, misurazioni. Poco dopo, durante le lezioni serali all’università, iniziò con entusiasmo ad approfondire i primi concetti della scienza.
+
+Quando, in seguito, il fratello maggiore vide quanto il più giovane progredisse in queste cose e quanto fosse adatto per esse, ne trasse grande soddisfazione. La gloria stava arrivando alla famiglia Levinas. E con quella gloria come obiettivo finale, e con il bene del bambino come passione dominante nella sua vita, continuò a lavorare instancabilmente. Fu proprio per questo che ottenne – sebbene quell’attività fosse naturale per lui e piuttosto gratificante – un nome che lo distingueva dai suoi simili. Fu una fortuna per lui poter guadagnarsi quel nome, perché rappresentava una promessa di ciò che sarebbe venuto dopo.
+
+Quando il vecchio maestro morì, Aaron Levina aveva ventiquattro anni; Jacob, invece, ne aveva diciassette e stava già ottenendo i primi piccoli riconoscimenti dai suoi insegnanti, convinto che un giorno sarebbe diventato un grande fisico: avrebbe inventato cose, scoperto nuove verità, condotto ricerche approfondite e formulato teorie.
+
+L’attività continuava a prosperare. Aaron non avrebbe mai pensato di far lavorare Jacob al suo interno. Assunse un assistente, un gentile, che trattava con estrema durezza; assunse anche un altro assistente e prese in affitto il piano inferiore della casa accanto, raddoppiando così le dimensioni del negozio. Così stavano le cose quando anche la vecchia zia Reba morì, molto anziana e in pace.
+
+Trascorsero un anno o due. Aaron Levina stava facendo altre cose, in altri luoghi, in modo misterioso. In un ufficio che visitava per un’ora o due ogni giorno, tranne il Sabato; lì si dedicava alle attività contabili tutto il primo giorno della settimana, quando il silenzio delle feste pagane gli concedeva tutto il tempo necessario. Comprava e vendeva oggetti diversi da semplici rottami. Era iniziato con frammenti di metalli preziosi e qualche gemma occasionale; poi le sue attività si erano espanse su dimensioni più grandi.
+
+Fu allora che accadde ciò che lo avrebbe legato per sempre, sebbene a distanza, a Wilfrid Halterton.
+
+La scuola di giovane Jacob era l’edificio della grande Scuola Distrettuale situato sul lato ovest di Mile End Road. La lezione era finita; piuttosto tardi, stava attraversando la strada principale sotto il bagliore delle luci, diretto a casa di suo fratello, quando quella sua scarsa vista e quel comportamento nervoso lo tradirono. Non vide l’arma del poliziotto abbassarsi; proseguì, esitò per quell’infinitesimale istante che può rivelarsi fatale, e fu colpito. Il paraurti di un grosso automobilismo lo colpì, facendolo rotolare sul ciglio della strada, dove rimase disteso privo di sensi.
+
+I freni stridettero, la porta dell’auto si aprì con impeto e ne saltò fuori un giovane molto alto, dall’aspetto ansioso e preoccupato. Corse avanti indossando i suoi bei abiti da sera e il grande cappotto di pelliccia, attraverso il fango e nel freddo. Si inginocchiò accanto al ragazzo, ancora immobile, mentre intorno si radunava una folla; due poliziotti fecero strada tra la gente.
+
+Quel giovane che si era precipitato fuori con tanta premura era Wilfrid Halterton, lo stesso Wilfrid Halterton di quegli anni lontani, quando la sua famiglia era al culmine della ricchezza. Allora non pensava ancora alla politica; studiava ancora all’università e, quella sera di venerdì, tornava in auto nell’Essex per riunirsi a suo padre, dopo aver cenato con gli amici a [[settings/london|Londra]].
+
+Gli agenti di polizia prendevano appunti; i compagni del ragazzo, molti dei quali della sua stessa età, offrivano volontariamente informazioni con grande entusiasmo. Il giovane Halterton, incerto e confuso, ma pieno di compassione e senza sapere cosa fare, venne informato dagli agenti che un’ambulanza stava arrivando; gli dissero anche dove sarebbe stato portato il bambino ferito: all’Ospedale di [[settings/london|Londra]]. Nello stesso momento, uno degli studiosi, più loquace degli altri nell’evidente desiderio di fornire informazioni, gli disse dove viveva il fratello del ragazzo, Aaron Levina.
+
+Il giovane Halterton era sconvolto e provava un dolore indescrivibile. Non avrebbe mai potuto immaginare di dover affrontare quella situazione quella notte. Aveva provato un senso di sollievo nell’apprendere che quel ragazzo fosse vivo; ma non appena aveva sentito il suo primo gemito sommesso, il suo cuore si era spezzato. Devo scusarlo: le sue emozioni possono sembrare esagerate; ma ricordate che all’epoca Halterton era molto giovane e provava un profondo senso di vergogna, come se la sua ricchezza fosse in qualche modo responsabile della tragedia causata dalla sua auto tra quelle persone povere.
+
+Vide il viso del povero ragazzo, contorto dal dolore sotto la luce cruda della lampada ad arco; quel viso tipico dei Sephardim non gli diceva nulla riguardo alla razza. Non ne sapeva nulla; quegli occhi grandi e scuri si aprirono per un momento, poi si richiusero. Aveva il desiderio disperato di agire e salvarlo. Ma non sapeva come farlo. Doveva prendere una decisione. Dopo alcuni secondi di esitazione tipica sua, riuscì a formulare un piano.
+
+“Guarda qui, Roberts,” disse al autista, “non posso andare avanti. Devo restare qui e occuparmene personalmente. Farò tutto il possibile per aiutare questo ragazzo.” Poi, rivolgendosi ai poliziotti, aggiunse: “Stavo andando a casa di mio padre, nell’Essex. Devo fargli sapere cosa è successo. Anch’io devo restare qui e fare del mio meglio. Cosa?”
+
+Il poliziotto stava annotando il numero di targa dell’auto. L’ambulanza era arrivata.
+
+“Va bene, signore,” disse. “Mandi il suo uomo a telefonare e mi dica il suo nome, insomma tutto ciò che è necessario. Il mio collega accompagnerà il suo uomo, e poi potremo farlo andare avanti.”
+
+“Grazie,” disse Halterton, estremamente grato per quella licenza. Gli era stata di grande aiuto per riflettere. Ma mentre guardava la figura rannicchiata sulla barella, il suo cuore si strinse dal dolore.
+
+“Roberts,” disse, “vai con l’ufficiale e chiama mio padre? Digli cosa è successo. Poi è meglio che tu torni a casa; io troverò un modo per scendere domani. Dìgli che lo chiamerò di nuovo tra un’ora o giù di lì. Ma solo dopo aver telefonato, vai a casa con l’auto.”
+
+E così fu. Il giovane Wilfrid Halterton seguì gli agenti di polizia fino all’ospedale insieme all’ambulanza; trascorse lì un’ora o più per assicurarsi che tutto venisse curato a dovere, e provò un enorme sollievo nel sapere che il ragazzo ora sapeva dove si trovava e riusciva a pronunciare una parola o due, anche se debolmente. Fu ancora più sollevato quando, dopo aver atteso a lungo, venne a sapere che non c’era pericolo immediato, anche se la situazione rimaneva grave.
+
+“Se fossi al vostro posto, signore”, disse uno dei poliziotti, “cercherei il signor Levina nell’elenco telefonico e lo avviserei”.
+
+Ma sebbene nell'elenco telefonico ci fosse un intero reggimento di persone derivate da Levine, questa particolare Levina non c'era. Forse c'era stato qualche errore. Comunque, ora che si era assicurato che tutto fosse a posto, doveva andare a trovare quel fratello.
+
+Ma non c’era alcuna necessità. Altri erano già stati prima di lui. Un piccolo gruppo di concorrenti e compagni di studio del giovane ferito si affollò immediatamente intorno a Wilfrid Halterton mentre questi camminava, con le sue lunghe gambe, per le strade strette. Lo portarono davanti alla porta del negozio principale e dell’abitazione, dove bussò forte. Il locale era chiuso, ma l’aiutante era rimasto di guardia. Aaron Levina era uscito per incontrare un cliente.
+
+“Lo aspetterò,” disse Wilfrid, sedendosi al chiaro di un’unica lampadina nuda, in mezzo a una massa di oggetti disordinati e disparati. Il gruppo che lo aveva seguito rimase ad aspettare per strada.
+
+Chi fosse quel cliente di Levina, nessuno lo sapeva. Halterton aspettò e aspettò. Alla fine chiese un foglio di carta e una busta, e scrisse queste parole con tutto il cuore:
+
+Mio caro signore,
+
+Mi dispiace enormemente dovervi comunicare che questa sera, mentre il mio automobile passava davanti alla Council School in Mile End Road, ha investito un giovane signore, che, a quanto ho appreso, è vostro fratello. Sono qui ad aspettarvi e desidero farlo con molta urgenza. Volevo che foste voi i primi a saperlo da me, e voglio assicurarvi personalmente che non corre alcun pericolo. Me lo hanno garantito. Tuttavia, temo che l’incidente sia grave.
+
+Non è affatto facile scrivere queste cose, ma vi prego davvero di credermi quando dico che farò tutto ciò che è in mio potere. Tutto. È una situazione terribile. Credetemi: farò tutto; ditemi solo cosa bisogna fare e sarò completamente a vostra disposizione. Non riesco nemmeno a sopportare il pensiero del viso pallido di quel ragazzo. Quel ricordo mi perseguita ancora adesso.
+
+Vieni il prima possibile. Cercheranno di trovarti, e io aspetterò qui fino al tuo arrivo.
+
+Inviò la nota insieme a un gruppo di persone incaricate di cercare Aaron, e affidò l’involucro a un messaggero ben nutrito affinché lo portasse. E Wilfrid Halterton aspettò. Aspettò a lungo. Trascorse un’ora, poi più di un’ora. Ma il motivo per cui fu costretto ad attendere non era che Levina non potesse essere trovata; Levina era stata trovata, ma appena venne a sapere la notizia, Wilfrid corse subito in ospedale. Ora si trovava lì, protestando, insistendo, piangendo per Jacob, il suo piccolo Jacob, e cercando di capire cosa fosse successo. All’inizio in modo confuso, poi sempre più chiaramente quando fece domande alle persone coinvolte.
+
+Nel mezzo del suo dolore, fu invaso da una grande amarezza. Il male era su di lui. Il male c'era sempre stato, e aveva colpito lui e la sua famiglia attraverso quelle maledette persone esterne; il male proveniva dalla loro malvagità, dalla loro avidità, dal loro rancore, dalla loro indifferenza o dal loro disprezzo. I ricchi gentili avrebbero pagato, ovviamente. Ci sarebbero stati danni, certo. Ma quale consolazione poteva esserci in tutto ciò? Sarebbe stato denaro maledetto, proprio come quell’uomo stesso. Lì il suo pensiero si fermò. Oh, se solo quella cosa non fosse mai accaduta! Il bambino sarebbe ora un disabile. E dove erano finite tutte quelle speranze?
+
+Lo avevano messo in una piccola stanza spoglia dell’ospedale, una sorta di sala d’attesa separata dalle altre. Chiese di essere lasciato solo. Seduto lì sull’unica sedia disponibile, singhiozzava per il dolore. Dopo essersi completamente esaurito, si ricordò della nota e la aprì. Mentre la leggeva, nella sua mente ebbe inizio una lotta interiore.
+
+Lui non conosceva la bontà; per lui, la bontà rappresentava soltanto il vago ricordo di suo padre, di zia Reba, dell’uomo morto che gli aveva lasciato l’attività. E ancora meno, uno o due conoscenti, a malapena amici. Il mondo non era buono; le persone non erano buone. E soprattutto, i Goyim non erano affatto buoni. A lui importava molto poco se lo fossero o meno.
+
+Allora rilesse il biglietto: sembrava davvero autentico. Conosceva bene gli uomini e sapeva che era sincero. Beh, doveva assolutamente andare a incontrare quell’uomo.
+
+Le strade erano ora deserte. Nessuna piccola folla lo accompagnava mentre si affrettava a tornare alle due botteghe. Inserì la chiave nella porta. Halterton si alzò immediatamente; la sua alta e snella figura sembrava un po’ troppo grande per quel luogo.
+
+“Signor Levina?”, disse.
+
+“Quello è il mio nome,” disse Levina con voce secca.
+
+“Signor Levina, le ho detto tutto ciò che potevo nella mia nota… Ha ricevuto la mia nota?”
+
+“Sì,” ancora brevemente, e sempre con quella voce laconica.
+
+“Signor Levina, so che non si offenderà se faccio qualcosa che desidero fare. Non le dispiacerà, vero?”
+
+Il giovane signor Halterton aveva buone intenzioni, ma poiché non era ancora stato contaminato dal mondo, di solito commetteva errori.
+
+“Come ti chiami?” chiese rapidamente Levina.
+
+“Halterton. Wilfrid Halterton. Stavo andando a casa di mio padre nell’Essex. A Chilham, sai. Lì vive mio padre. Ero in viaggio verso lì. È per questo che è successo.”
+
+“Si sieda, signor Halterton,” disse Levina, prendendo anche lui una sedia. Sebbene fosse completamente padrone di sé, era ancora scosso. Non poteva essere così arrabbiato, quell’uomo alto davanti a lui sembrava troppo stupido per meritare una reazione del genere; ma dentro di lui c’era ancora molta rabbia.
+
+“Non ti dispiacerà se vado a vedere tuo fratello quando mi sarà permesso, vero? Ho già chiesto gli orari. Comunque, potrei anche andare a trovarlo domani.”
+
+“Sì,” disse Levina.
+
+“Poi Halterton continuò con una voce molto più esitante…”
+
+“Signor Levina, potrebbe fare un favore personale per me?” Levina non rispose. Non sembrava il momento adatto per chiedere favori personali.
+
+“Voglio dire, mi permetteresti di chiederti di non considerare l’assicurazione un problema tra noi, o qualcosa del genere? Voglio fare tutto ciò che è in mio potere. Tutto!”.
+
+“Non capisco cosa tu stia, ”, cominciò Levina con una voce calma ma quasi minacciosa.
+
+“Per favore,” disse Wilfrid Halterton con impazienza. “Per favore! Se solo sapeste cosa ho provato nelle ultime ore, ”
+
+E Levina rimase sorpresa nel vedere lacrime negli occhi di quella persona di fronte a lei.
+
+Li aveva visti piangere, queste persone aliene. Almeno, aveva visto piangere i più poveri di loro. Li aveva visti piangere, sempre a causa delle loro stesse sofferenze, e spesso per le sofferenze che lui stesso aveva causato, e per le quali non provava alcun interesse. Perché dovrebbe interessargli? Tutta la colpa ricadeva su di loro. Immensamente su di loro. Perché dovrebbe provare pietà o perdonarli? Avrebbero sempre ricominciato da capo. Eppure, quando vedeva quelle lacrime, qualcosa in lui cambiava.
+
+“Signor Halterton”, disse infine con difficoltà, “non è stata colpa sua”.
+
+“Dio sa che non lo è,” disse Halterton con sincerità. “Penso che mi ucciderei se lo fosse. Ma mi permetterete di vederlo?”
+
+“Certo, signor Halterton. Non ha nulla a che fare con me. Ma ovviamente lo farei se dipendesse da me.”
+
+“E mi permetterai di fare tutto ciò che posso?”
+
+“Moneysh!” — Levina quasi sibilò quella parola, parlando senza separare i denti, che così apparvero tra le sue labbra.
+
+“No! No! No! Signor Levina. Tutto ciò di cui voi o lui avete bisogno è essere lì liberamente. Ma Dio sa cosa intendo, ” Guardò l’altro con ansia, pensando di vedere un po’ diminuire quell’improvviso disprezzo. Poi aggiunse: “Ma per quanto riguarda l’amicizia, ci sono molte cose che posso fare.”
+
+Levina rimase di nuovo in silenzio, ma alla fine di un lungo silenzio riuscì a dire “Sì”.
+
+“Dico sul serio,” disse Halterton, “davvero.” E dopo aver indicato l’ora in cui sarebbe sicuramente arrivato in ospedale, salutò e se ne andò.
+
+La mattina seguente si incontrarono di nuovo in ospedale, ma nel frattempo Wilfrid Halterton aveva telefonato a suo padre, era andato lì con un’auto noleggiata e avevano parlato fino a tarda notte. Gli aveva detto cosa intendeva fare, e il vecchio pensò che fosse una follia; ma dopotutto, i soldi di Wilfrid erano suoi, e anche se lo considerava un’idea assurda, era in parte orgoglioso di suo figlio per averla.
+
+“Avrei dovuto fare lo stesso alla sua età,” pensò tra sé. “I giovani sono migliori di noi. Spero che, quando arriverà alla mia età, non sarà diventato così arido e senza passioni come me.”
+
+Così il vecchio ragazzo andò a letto, senza più protestare, e la mattina seguente Levina e Halterton si riunirono di nuovo al suo capezzale.
+
+Quello fu l’inizio, tanti anni fa. Più di trent’anni fa. Ne seguirono molte altre cose.
+
+Il ragazzo era un paralitico. Non completamente distrutto, ma mai più in grado di camminare normalmente. Wilfrid Halterton seguì con attenzione il suo periodo di convalescenza. La sua premura aumentò; fece davvero di tutto per aiutarlo. E nonostante il proprio orgoglio, Aaron Levina era grato. Era grato in quel profondo recesso del suo essere, dove fino ad allora esistevano soltanto due emozioni strettamente intrecciate: la sua devozione verso il proprio popolo e il suo amore appassionato per il fratello che ora sarebbe rimasto paralizzato per tutta la vita. L’attenzione costante di Wilfrid Halterton durante quel periodo lo commosse profondamente, e questa emozione divenne una parte integrante della sua personalità. Tra tutti quei milioni di persone in Inghilterra che non appartenevano alla sua stessa razza, c’era soltanto un uomo per cui Aaron Levina avrebbe attraversato la strada; c’era soltanto un uomo che era felice di accogliere, e quell’uomo era Wilfrid Halterton. Ancora una volta devo chiedere ai miei lettori di comprendere e scusare eventuali considerazioni eccessive da parte loro. Stiamo parlando di un tipo umano sconosciuto per loro, non del nostro stesso sangue. Noi probabilmente non proveremmo una gratitudine così profonda e duratura per un episodio breve della nostra giovinezza. Ma Aaron sì. Penso che questa fosse parte di quella strana tenacia che tutti notano, e che molti temono, nelle persone della sua razza.
+
+Si incontrarono, ma raramente dopo che Jacob tornò ad occuparsi del suo lavoro. Entrambi erano un po’ timidi l’uno con l’altro. Tuttavia, Aaron scriveva regolarmente e chiamava per ringraziare ancora una volta. Ciò che fece compiere un nuovo e definitivo passo nella loro relazione fu la questione del fatto che Jacob decidesse di andare all’università.
+
+Non poteva esserci alcun discorso su questioni finanziarie, di cui ormai Halterton avrebbe temuto persino solo di parlare.
+
+Ma a quel punto era già diventato come suo padre; l’uomo anziano era morto, e lui stesso occupava una posizione di rilievo, sebbene non particolarmente ricco. Aveva appena iniziato a fare parte del Parlamento; la fortuna familiare, sebbene ridotta, era ancora considerevole. Il suo vecchio college lo ascoltava, poiché doveva il proprio status al nome Halterton. Fu quindi grazie a Wilfrid che il giovane Jacob venne ammesso e poté andare a Cambridge.
+
+Aaron aveva insistito affinché lui continuasse a usare il nome di Lawson: poiché Aaron prosperava ancora, e molto di più grazie a quell’ufficio che possedeva piuttosto che al negozio stesso; ormai Aaron era Arthur Lawson, almeno nel West End di [[settings/london|Londra]], dove si era comprato una casa. Jacob, che aveva un punto di vista diverso su queste cose, si oppose inizialmente, ma alla fine acconsentì a scendere a compromessi. Non voleva essere chiamato James; sarebbe sempre stato Jacob. Ma per quanto riguardava il nome Lawson, beh, lasciasse stare così. Così fu: Arthur Lawson divenne rapidamente molto ricco, mentre Jacob Lawson, suo fratello, trascorreva le vacanze sotto lo stesso tetto di Arthur, diventando sempre di più la sua fonte di orgoglio e il suo idolo.
+
+Ancora più importante delle relazioni tra Wilfrid Halterton e Lawson fu ciò che accadde quattro anni dopo. Il giovane fisico era abbastanza brillante, ma le borse di studio non si assegnano in base al talento. C’era un altro candidato, oltre a lui: un giovane inglese di certo rilievo e appartenente a una determinata cerchia sociale; quest’ultimo disponeva di risorse personali e di buone relazioni. Fu Halterton ad avere la meglio. E Jacob Lawson divenne membro del Merrion College. E, come potete immaginare, coloro che appartenevano a quella cerchia sociale attribuirono tutto questo a una “congiura ebraica”.
+
+Una volta presa la decisione, il College si impegnò appieno e promosse il nuovo membro con tutte le risorse disponibili. Da quel momento in poi, Jacob Lawson ebbe davvero diritto a essere famoso, e lo rimase per sempre. E da allora in poi, ciò che Arthur Lawson provava per Wilfrid Halterton divenne qualcosa di permanente e profondamente radicato, nel senso più vero del termine.
+
+Eppure quei due uomini non erano intimi. I loro caratteri non presentavano alcun punto in comune. Tra tutte le professioni, quella del politico era quella che Arthur Lawson disprezzava di più. Tra tutte le debolezze umane, l’impulsività e la indecisione erano quelle verso cui Arthur Lawson provava meno simpatia – e che riteneva fossero particolarmente diffuse tra le persone che lo circondavano: comuni nella loro razza, ma assai rare nella sua. Tutto ciò non diminuiva minimamente la sua fedeltà incondizionata verso Halterton, ma impediva una vera intimità tra di loro.
+
+Inoltre, con il passare degli anni, la netta differenza nelle loro occupazioni e nei loro circoli di amici diventava sempre più evidente. Lo stesso valeva per il crescente desiderio di Arthur Lawson di ritirarsi in solitudine, man mano che la sua fortuna aumentava sempre di più. Quella fortuna raggiunse sei cifre prima che lui compiesse quarant’anni; era diventata enorme già prima dell’affare legato alla televisione. Anche il declino finanziario di Halterton – dovuto a cattive investimenti – non aiutava certo le cose; perché, sebbene Lawson, come tutti quegli uomini, non facesse alcuna connessione tra ricchezza e valore personale, le difficoltà economiche di Halterton lo rendevano ancora più timido. Tutti questi fattori separavano i due uomini; tuttavia si incontravano di tanto in tanto, su iniziativa di Lawson stesso. I suoi vecchi sentimenti rimanevano profondamente radicati e altrettanto forti come sempre.
+
+Arthur Lawson non doveva nulla a nessuno. Aveva rifiutato un titolo nobiliare, usando una frase sprezzante che ancora oggi veniva ricordata contro di lui. Vedeva sempre meno i suoi simili; era diventato sempre più una leggenda o una favola, al punto che anche la sua enorme ricchezza veniva esagerata nei pettegolezzi e nelle voci su di lui. Ma ogni volta che posava lo sguardo su quella figura zoppicante del fratello così distinto, la cui compagnia significava tutto per lui e la cui fama rappresentava l’unica gioia della sua vita, ricordava Halterton.
+
+Halterton stesso, come si può immaginare, dedicava molto meno spazio ad Arthur Lawson nella sua mente. Era uno di quegli uomini con cui è necessario mantenere un rapporto costante e frequente per conservare una vera intimità. Ma, come ho detto, i due si vedevano solo due o tre volte all’anno. Lawson non voleva che il loro legame si allentasse, e Halterton era più che felice che fosse così.
+
+Ecco quindi la situazione tra il Milionario e lo Statoquente ai tempi delle due buste, del gioco a biliardo e di tutto il resto. Ma di tutto ciò, Lawson non aveva saputo nulla, se non voci vaghe riguardo alle fluttuazioni delle azioni di cui non si occupava affatto.
+
+XI
+
+NELLO STESSO fine settimana Lady Papworthy non aveva certo trascorso il tempo a far nulla. Sabato mattina, l’affidabile Reginald Butler era venuto a trovarla da solo; lei fu più gentile con lui che mai prima. Aveva appreso, poiché lui le aveva raccontato tutto, di un altro di quei intrighi interminabili in cui era coinvolto. Quel giovane poeta appassionato continuava instancabilmente a combattere contro queste pratiche al fine di difendere i principi morali nella vita pubblica. Aveva appena scoperto un altro di questi intrighi e ne era pienamente impegnato; lei, dal canto suo, lo sosteneva con grande entusiasmo.
+
+C'era stato un accordo orribile tra il corrotto Capo Postale Generale e il famigerato McAuley! A perpetua vergogna della nostra vita pubblica, nonostante il rapporto del Comitato, Durrant aveva ricevuto in privato la promessa che l'appalto sarebbe andato a lui!
+
+Reginald Butler continuò a condividere i suoi sentimenti, fornendo molti dettagli. Era indignato, come solo un cuore appassionato e sincero può essere.
+
+Le attività di Joan Papworthy si estendevano in molteplici direzioni, e quindi anche verso il campo della politica alta. Tuttavia, lei apparteneva a quelle mogli politiche che sono soltanto passeggeri su una nave guidata da altri – e ne esistono quasi altrettante quanto quelle che hanno effettivamente il potere decisionale. Sentì le notizie, ma soprattutto attraverso i suoi assistenti esterni, piuttosto che dal suo marito; non venne mai a conoscenza dei dettagli essenziali di quelle notizie, e nemmeno di ciò che era di dominio comune tra coloro che ne erano a conoscenza, fino a molto tempo dopo che tali informazioni avevano già perso il loro interesse.
+
+Se la vita pubblica avesse rappresentato per lei un interesse reale, sarebbe stato l’interesse legato al denaro, proprio come lo è per tutti noi. Suo marito era molto ricco, ma non le permetteva nemmeno di diventare moderatamente agiata. In questo senso, lei lo conosceva bene: quella era l’unica cosa in lui che rimaneva immutabile. Pertanto, le notizie politiche, che per noi significano operazioni finanziarie legate all’acquisto e alla vendita di azioni, rappresentavano per lei un interesse analogo; tuttavia, lei non si era ancora impegnata in attività del genere, nemmeno su piccola scala. Le bastava lavorare con quelle certezze apparentemente sicure: acquistare quando il rischio era ormai quasi esaurito, vendere due giorni dopo che i personaggi influenti avevano iniziato a sbarazzarsi delle loro azioni. Guadagnava poco, ma in modo costante. Fino ad allora, era riuscita a raddoppiare quasi il suo modesto stipendio. Era arrivata proprio a quel livello.
+
+Ora aveva notizie riguardo al contratto televisivo e alla competizione per ottenerlo. Aveva sentito parlare del rapporto del comitato a favore di Reynier. Poi, tre giorni dopo, aveva udito voci su un assegno, ma nient'altro. Questa nuova notizia da parte del suo amante rappresentava qualcosa di concreto, una possibilità, una certezza.
+
+Quella mattina continuò la sua profonda intimità con Reginald Butler, amandolo e lodandolo come solo le regine dei circoli letterari e artistici sanno fare nei confronti del loro favorito tra i geni che li circondano. L’ammirazione nei suoi occhi gli sembrava, e a ragione, qualcosa di più dell’ammirazione. Se avesse saputo fino a quali altezze una tale condivisione di ideali lo avrebbe portato, non sarebbe andata così oltre; ma lo fece davvero. Dopo quella mattina, Reginald Butler la amava non solo con il sentimento trionfante di un innamorato, ma anche con un nuovo coraggio, come quello di un martire, se il martirio doveva necessariamente verificarsi. E il martirio arrivò, velocemente. Perché Mutts ne era la sua passione.
+
+Dopo che lui se ne fu andato silenziosamente dalla sua stanza con la testa bassa, Joan Papworthy rimase in ascolto attentamente fino a quando non sentì la porta d’ingresso chiudersi alle sue spalle. Andò immediatamente al telefono e chiamò Billies. Poverina, non aveva idea di quanto le sarebbero costate. Quando le dissero che ammontavano a circa trenta, per lei quel numero non significava nulla. Tutto ciò che sapeva era che l’accordo era stato stipulato; e nella sua ingenuità, o meglio, nella sua totale ignoranza del mondo vasto di cui credeva di essere il centro, era certa di aver ottenuto ciò che desiderava. L’altra parte della linea telefonica non le disse che aveva fatto tardi. Perché avrebbero dovuto? Avevano saputo più cose di lei e erano felici di poterle condividere. Le piccole transazioni di Lady Papworthy non valevano certo la pena per loro.
+
+Rischiò più di quanto potesse permettersi, perché Lord Papworthy – che, come spesso accade alle persone dotate di una tale attenzione artistica, possedeva qualcosa di concreto e affidabile: un senso degli affari – le limitava notevolmente la somma assegnatale e controllava rigorosamente ogni spesa.
+
+Tuttavia, in quell’occasione non percepì alcun rischio; ci sarebbe stato solo da guadagnare. Non le aveva forse detto Reginald che alla fine la famiglia Durrant aveva ottenuto il contratto?
+
+A mezzogiorno, circa un’ora dopo che Reginald se n'era andato, lei aveva già investito circa cinquemila sterline in azioni del valore di quaranta scellini ciascuna. Una somma modesta, direte voi, per la moglie di un Ministro del Gabinetto, ma dieci volte superiore a quanto potesse permettersi, considerando che aveva già esaurito il limite del suo modesto conto bancario.
+
+C'era una cosa su cui Reginald Butler aveva sempre posto un limite: la stampa.
+
+Era disposto a denunciare, era disposto a rivelare, era disposto a fare qualsiasi cosa del genere: con parole dette ad alta voce, soprattutto con persone che sapeva avrebbero concordato con i suoi nobili motivi. Solo chiacchiere. Gli hanno procurato tutta la gloria desiderata e quella sensazione di virtù interiore, ma non hanno avuto alcuna conseguenza. Ma la stampa è una cosa seria. La stampa può essere perseguita legalmente. Anche le parole lo possono essere, certo, ma per un motivo molto valido che solo politici, avvocati, detective, ricattatori e molti altri tipi di persone comprendono appieno: la stampa è più pericolosa del discorso orale. Può portarti in tribunale.
+
+Ma oggi, avvolto nella gloria derivante dal recente successo di Joan, Reginald Butler aveva superato i limiti della prudenza; era salito nelle alte regioni in cui gli uomini raggiungono il cielo attraverso terribili sacrifici. E avrebbe pubblicato quel libro.
+
+Non fu facile. Era facile capire che avrebbe deciso di stampare quelle informazioni – almeno, in quello stato d’animo euforico in cui si trovava – ma non era altrettanto semplice trovare qualcuno disposto a correre il rischio di farlo. Stava puntando molto in alto: le persone contro cui avrebbe attaccato erano potenti e armate; inoltre, nella nostra legge esiste una disposizione precisa secondo cui anche i tipografi che stampano verità o menzogne su politici devono subire le stesse conseguenze del miserabile individuo che fornisce il testo da stampare.
+
+Anche Butler, sebbene non fosse molto realista in queste cose, sapeva nel profondo del suo cuore di non disporre di alcuna prova – nessuna prova nel senso legale, banale e superficiale; ma aveva delle prove davanti al tribunale supremo della giustizia imparziale. Tutto concordava per assicurargli che le voci ormai diffuse fossero terribilmente vere. Halterton aveva ricevuto, e si era intascato (Butler usò queste parole derisorie tra sé, mentre alimentava la propria rabbia riguardo a quella faccenda) una enorme tangente. Tutti lo facevano; ognuno di loro era altrettanto colpevole degli altri. Ma il Segretario Generale delle Poste sembrava averlo fatto in modo ancora più spregevole rispetto agli altri. Inoltre, quell’affare non avrebbe mai potuto avere successo se il Tesoro e i capi dei partiti non fossero stati d’accordo; il Tesoro perché aveva l’ultima parola su tutto ciò che riguardava le spese pubbliche, il Capo dei Partiti perché era lui a decidere se la cospirazione sarebbe stata rovinata da dibattiti prematuri o meno.
+
+Ora il compito di Butler era chiaro: doveva agire immediatamente, eliminare quella tana di parassiti.
+
+Un uomo come Butler, che non sa nulla del mondo ma crede di sapere tutto, non avrebbe potuto immaginare che quel nido fosse quello di una cavalla. Se fosse stato sano di mente — e temo che tali uomini difficilmente lo siano, almeno in quei momenti di presunzione — avrebbe capito quanto gli esseri umani siano moderati riguardo ai necessari aggiustamenti nella vita pubblica.
+
+Non c'era nulla di straordinario nel dare il contratto a Durrant’s, se davvero era stato dato; e anche su questo non avrebbe avuto alcuna certezza, se solo avesse avuto la capacità di esaminare tutto con calma. Il contratto doveva essere assegnato a una delle due aziende, e quella di Durrant’s era sicuramente la più qualificata. Nessun uomo con un senso della proporzione si sarebbe preoccupato troppo di eventuali vantaggi che il Ministro potesse trarre da un atto che, dopotutto, rappresentava un servizio pubblico e che, se portato a termine con successo, avrebbe potuto renderlo meritevole della stima del suo paese.
+
+Per quanto riguarda il Cancelliere dello Scacchiere e il Capo del Gabinetto, è naturalmente possibile ricordarsi di questi signori ogni volta che si conclude un accordo di questo tipo. Dodgson, l’autorità più recente e autorevole sulla pratica costituzionale moderna, lo afferma chiaramente nel suo libro “Recent Developments of Cabinet Government”. Tuttavia, si tratta puramente di una convenzione: non sono nemmeno obbligati ad accettare le piccole offerte di routine che loro vengono fatte. Non interessano loro la maggior parte dei contratti minori, e nemmeno nella stragrande maggioranza di quelli più importanti vengono nemmeno presi in considerazione. Le poche eccezioni non mirano a ottenere alcun vantaggio personale serio; si tratta semplicemente di aspetti secondari della vita quotidiana a Westminster. Inoltre, il Capo del Gabinetto ha ancora meno motivo di occuparsi di queste questioni, visto che ormai la tradizione gli permette di accumulare un cospicuo “fondo personale” grazie alle commissioni regolari percepite per le sue funzioni.
+
+In questo caso, se Reginald Butler avesse conosciuto meglio il mondo, avrebbe potuto facilmente scoprire che né il Cancelliere dello Scacchiere né il Capo del Gabinetto avevano compiuto nulla di tale entità da essere condannato dal più rigoroso censorio della morale politica. Naturalmente, erano a conoscenza del fatto che la Durrant’s era l’azienda preferita da quegli uomini; e naturalmente era stato il fratello di McAuley, l’Attorney-General, che, essendo loro collega, aveva agito in questa faccenda. Si era incontrato con i due colleghi a colazione informale al numero 11 di quella strada, e aveva loro consegnato, solo per formalità, un pacchetto di azioni del tutto insignificante, il cui valore nominale ammontava a soli 3.000 sterline. Inoltre, era stato naturalmente concordato che quelle azioni sarebbero state pagate in seguito; aveva specificamente precisato che potevano saldarle quando volevano. Ma somme così piccole difficilmente rimangono nella memoria di persone impegnate in importanti affari di Stato.
+
+Su materiali del genere, o meglio, partendo dai fantastici pettegolezzi basati su tali materiali, il sfortunato Butler costruì un insieme di sciocchezze che lo condussero alla sua rovina.
+
+Ma quando uomini del genere si mettono in testa qualcosa, non c’è modo di salvarli. Trascorse circa un’ora in preda a una violenta agitazione interiore, chiedendosi chi avrebbe avuto il coraggio, o, per essere più precisi, chi sarebbe stato così stupido da pubblicare quella sua lettera. Alla fine scelse Rashdell, una persona del tutto insignificante e assurda.
+
+Rashdell era uno di quegli uomini che, con un modesto reddito privato, si divertivano pubblicando ridicoli foglietti settimanali che nessuno leggeva né comprava, e i quali avevano un impatto sugli opinioni pubbliche inferiore a quello delle parole più banali pronunciate da persone in posizioni influenti. Settimana dopo settimana, il “Oriflamme” di Rashdell (un titolo assurdo!) appariva pieno di insinuazioni, offese e storie inventate contro i nostri più importanti funzionari pubblici. Era un miracolo che non attaccasse direttamente la signora Boulger. Si era sempre ritenuto meglio ignorarlo del tutto, tranne in un’occasione, avvenuta molti anni fa, quando ebbe l’incompetenza di macchiare il nobile nome del Cancelliere della Corona, accusandolo di essersi comportato in modo vergognoso in un bar del Continente.
+
+Aveva scontato la sua pena nella Second Division dopo una condanna che nessuno aveva preso sul serio e sulla quale nessun giornale rispettabile aveva pubblicato alcun commento. Questa esperienza, che avrebbe dovuto farlo riflettere sul proseguire per quella strada, non aveva fatto altro che renderlo ancora più orgoglioso ai suoi occhi, e, ahimè, anche agli occhi di un uomo che, per quanto meschino potesse essere, valeva molto di più di lui: Reginald Butler.
+
+Quello che Butler stava per fare era ancora più incomprensibile: non avrebbe mai ottenuto quel seggio alla Camera dei Comuni, che manteneva fin dall’inizio di questo Parlamento, se non grazie alla gentilezza e al sostegno del signor Boulger, il quale aveva raccomandato il nome di Reginald a sua moglie. Quest’ultima, dopo averlo visto nell’elenco dei candidati possibili, lo aveva approvato e suggerito che gli venisse data l’opportunità di competere per il seggio di Mossborough, dove aveva buone possibilità di vincere. Era stato inserito nella lista grazie agli accordi quadrennali tra i leader, insieme a dozzine di altri individui insignificanti, anche se la maggior parte di loro possedeva un peso politico molto maggiore del suo. Fin dall’inizio era stato considerato un eccentrico; poiché la Camera dei Comuni ama gli eccentrici per il divertimento che procurano, i suoi interrogativi confusi e le sue arringhe appassionate venivano tollerati. Ma gratitudine, buon senso, tutte quelle qualità che si potrebbero aspettare da un uomo sano di mente e onesto, erano completamente svanite in Reginald Butler in quel momento. Gli occhi di Joan Papworthy avevano fatto il resto.
+
+Scrisse la lettera. La scrisse nel suo club, la riscrisse più volte e poi mise con cura i vari frammenti in tasca, deciso a bruciarli non appena fosse tornato a casa. Quando finalmente la lettera fu conforme ai suoi desideri, osò recarsi nelle due piccole stanze fangose situate in una sorta di baraccopoli vicino a Fetter Lane: lì, l’Oriflamme riuscì a farla stampare da un piccolo negozio che non aveva nulla da perdere e accettava di stampare quasi qualsiasi cosa.
+
+La lettera era troppo lunga e estremamente violenta; ma anche se fosse stata breve e le sue parole scelte con cura, il contenuto di quella lettera non avrebbe mai potuto essere accettato nemmeno da un individuo considerato “pazzo per legge”, come Butler veniva definito dal grande mondo quando cadeva in queste crisi.
+
+La lettera accusava, in termini precisi e per nome, Wilfrid Halterton di aver ricevuto una somma specifica – cinquantamila sterline – e accusava il fratello del Procuratore Generale, James McAuley, di aver offerto quella tangente e di essersi così assicurato l’appalto relativo a Durrant. Inoltre, accusava il Procuratore Generale di aver versato somme ingenti – anch’esse specificate: ventimila sterline in un caso, quindicimila nell’altro – a quel nobile e onorevole uomo, Sir Charles Claverhouse, forse il miglior Cancelliere del Tesoro che abbiamo mai avuto, nonché al giovane Lord Cayton, figlio di Biston e Capo dei Whip del Parlamento: un uomo non solo ampiamente rispettato ma anche di grande influenza, destinato, come tutti sappiamo, a ricoprire incarichi molto elevati in futuro.
+
+Era una lettera folle. Non riesco nemmeno a immaginare come quei miseri tipografi di quel giornale miserabile abbiano potuto correre un simile rischio. Naturalmente, Rashdell era irredimibile: avrebbe stampato qualsiasi cosa e creduto in qualsiasi cosa. È un peccato che persone del genere non vengano prese più seriamente; invece di una breve pena nella Second Division, avrebbe dovuto scontare anni di reclusione. Se quel giovane idiota, Reginald Butler, avesse avuto anche solo un minimo di buon senso, avrebbe notato che tutte le accuse erano assurde. Ma quell’idiota non aveva nemmeno quel poco di buonsenso. Continuò per la sua strada folle, e, per fortuna – perché la fortuna si stanca di persone del genere – finì per cadere nel baratro.
+
+La lettera arrivò giusto in tempo per essere pubblicata. Sarebbe apparsa nel solito giorno di uscita della rivista Oriflamme, che costava venti pence e mezzo. (Il prezzo reale, ovviamente, era di uno scellino. A venti pence e mezzo, sarebbe stato al di fuori delle possibilità di quel sciocco di Rashdell. E chissà se non lo avrebbe rovinato da tempo!)
+
+Quel pomeriggio, Fleet Street ne era già a conoscenza. Desportes aveva telefonato a uno o due amici del mondo politico e aveva ricevuto da loro l’affermazione decisa che non si doveva permettere che la cosa passasse inosservata. Ovviamente veniva menzionata quella lettera, anche se i suoi contenuti non furono riportati nelle prime edizioni dei giornali serali di Desportes quel lunedì, 9 marzo: il giorno in cui Halterton era tornato in ufficio così presto e McAuley aveva deciso di pranzare a Sandlings con Lady Caroline; il lunedì in cui Lady Caroline era entrata in Parlamento così tardi, per godersi ancora una volta lo spettacolo del viso sconvolto di Halterton.
+
+Se fino ad allora Billies avevano continuato a perdere valore, ora il loro declino divenne ancora più rapido. Erano tornati ai loro vecchi livelli di 23 punti. Prima ancora che quei giornali serali uscissero. E quando la Borsa chiuse, i loro valori erano scesi a 18, o addirittura 16 punti; diventava quindi difficile venderli.
+
+Onesto Jack Williams dimostra la sua importanza nell’Aula Esterna in un importante giorno parlamentare.
+
+XII
+
+Coloro che vivono in campagna, e che si trovano abbastanza lontani dalle strade da poter sentire il rumore degli animali viventi, devono essere familiari con quel mormorio incessante prodotto dall’ disturbo di un nido di vespe. È completamente diverso dal chiacchiericcio delle scimmie nei tropici, così come dal particolare miagolio dei skunk nelle zone dove questi animali vivono. Si tratta di un suono energico, ansioso e incessante, pieno di presagi infausti. Ecco perché, come recita un proverbio orientale, “Un nido di vespe deve essere disturbato con un bastone lungo”.
+
+Nel pomeriggio di mercoledì 11 marzo 1960, dopo l’ora delle domande, il corridoio interno della Camera dei Comuni fece rivivere in pochi dei suoi membri ancora legati alla vita rurale quel particolare rumore; attraverso quel corridoio, Honest Jack Williams avanzò a grandi passi, con il suo sorriso rassicurante, capace di tranquillizzare anche chi fosse più allarmato.
+
+Per due interi giorni e per la maggior parte di un terzo di giorno, le voci avevano avuto il tempo di diffondersi. La famosa lettera di Reginald Butler era diventata rapidamente nota, come quei vegetali che crescono velocemente nei film cinematografici destinati all’educazione dei giovani. Fu la pubblicazione degli articoli di Lord Desportes, il lunedì precedente, a scatenare tutto. Tuttavia, lo stesso lunedì furono emessi ordini che vietavano qualsiasi ulteriore menzione in tutti i giornali del mattino del giorno seguente. Il Contratto per la Televisione, il Capo Postale Generale James McAuley, tutte quelle strategie potevano anche essere state dimenticate, ma l’intera popolazione inglese ne era a conoscenza. Ma sotto le condizioni politiche libere di cui solo noi godiamo tra tutte le nazioni, non si può impedire alle persone di parlare. Tutti coloro che erano a conoscenza dei fatti ne discutevano. E i “Billies”, che inizialmente sembravano una soluzione promettente, ora risultavano del tutto inutili.
+
+Tra le cose esagerate o semplicemente assurde (e ne esisteva un gran numero, che riguardava ogni nome presente a [[settings/london|Londra]]), si nascondevano qua e là piccoli frammenti di verità, come quei deliziosi sassolini che si trovano in qualsiasi pacco di uvetta si possa comprare. E proprio come questi sassolini sono facilmente riconoscibili dai denti, soprattutto da quelli degli anziani, così anche questi frammenti di verità venivano immediatamente individuati da coloro che ne erano a conoscenza, specialmente dagli individui più anziani e più esperti. Una di queste verità indubitabili era che sarebbe stata fatta una dichiarazione pubblica subito dopo le domande; un’altra verità indubitabile era che le autorità avevano deciso di procedere legalmente non contro il misero editore della malaventurata rivista “Oriflamme”, né contro il misero tipografo, ma contro quel famigerato e autoproclamatosi censore dei costumi pubblici: il molto impopolare Reginald Butler.
+
+Alcuni dicevano che fosse stato lo stesso Capo Postale a scrivere al Primo Ministro esortandolo ad incoraggiare la signora Boulger ad agire in questo modo come un dovere pubblico; altri sostenevano che si trattasse di un atto imparziale da parte del molto onorevole John Williams, Segretario di Stato per gli Affari Interni. E questi ultimi avevano ragione.
+
+Il signor Wilfrid Halterton proclamava la propria onore, così come quella della Camera dei Comuni.
+
+Era stato Honest Jack Williams ad aver preso l’iniziativa. Aveva sottolineato al proprio capo che, se si permettevano comportamenti del genere senza alcuna conseguenza, l’intera natura della vita pubblica inglese ne sarebbe stata compromessa; sarebbe scesa a un livello paragonabile a quello dei disprezzabili parlamenti stranieri. Quella nobile signora, che, come i suoi colleghi, apprezzava la saggezza del Ministro dell’Interno, aveva seguito il suo consiglio. Dopotutto, il Ministero dell’Interno è strettamente legato alle azioni penali pubbliche.
+
+Ma prima che qualsiasi cosa venisse pubblicata riguardo a questa intenzione, sarebbe stata rilasciata una dichiarazione solenne in grado di chiarire la situazione e dissipare le menzogne perniciose diffuse così ampiamente da follia, fanatismo, o qualcosa di peggio.
+
+Pochi momenti dopo che le domande furono poste, la alta figura di Wilfrid Halterton si alzò in piedi, non troppo stabilmente, e si rivolse alla Camera. Iniziò assicurando i presenti che il compito che lo attendeva non era affatto facile. Continuò dicendo che sarebbe stato breve nel suo discorso. Fu incoraggiato dai mormori di simpatia e approvazione che gli provenivano da tutte le parti – persino dal piccolo gruppo di Nihilisti nascosto nell’angolo buio sotto la galleria. Infatti, quando si tratta dell’onore della Camera, tutte le differenze politiche scompaiono. Non solo i principali gruppi di Anarchici e Socialisti si uniscono unanimemente su queste questioni, ma anche quel piccolo gruppo di Indipendenti e Nihilisti. Tra questi, nessuno era più fedele di Jeremiah Gulpher, il critico inflessibile che quasi poteva essere considerato il “padre” della Camera: aveva rappresentato la circoscrizione di Marsh per ben ventotto anni ed era orgoglioso di aver bevuto tè con ogni contadino delle paludi. All’inizio, era stato un indipendente Nihilista che si opponeva alle politiche agricole. Ma io mi sto distrarre. Devo tornare al mio bagaglio.
+
+Wilfrid Halterton si alzò quindi in piedi e enunciò i suoi due primi punti: (a) che il compito che gli era stato affidato fosse difficile, e (b) che sarebbe stato breve nel suo discorso. Successivamente, con l’originalità tipica dei nostri grandi statisti, avanzò una terza argomentazione: (c) che fosse spiacevole, persino doloroso, per un uomo dover parlare di sé in occasioni del genere; aggiunse poi una quarta argomentazione: (d) che il suo scopo non era affatto quello di difendersi, ma piuttosto di confutare con indignazione le false accuse che colpivano l’onore di tutta quella augusta assemblea. Il quinto punto fu ancora più vero: disse infatti di non sapere quasi da dove iniziare il suo discorso. Il sesto punto, invece, era pura verità: dichiarò apertamente di sperare con tutto il cuore di non dover affrontare tale compito. Davvero, è difficile immaginare una posizione più ingrata di quella in cui si trovava questo grande uomo pubblico, costretto ad affermare di non aver ricevuto somme di denaro che, in realtà, non aveva mai ricevuto. Un caso davvero raro.
+
+Tutti e sei questi punti vennero debitamente segnalati sulle registrazioni presenti nei club, accompagnati dai rispettivi numeri; furono accolti con lo stesso interesse sia dagli spettatori che dai senatori a Westminster. Wilfrid Halterton passò quindi all’argomento finale, sottolineandolo con forza; nel corso del suo discorso sferrò anche alcuni colpi con il pugno contro la scatola di legno lucida posta sul tavolo della Camera dei Comuni – una scatola rinforzata con bordi in ottone per resistere a tali attacchi oratori. Assicurò alla Camera, al suo amato Paese e all’intero universo che tutto ciò non era altro che una menzogna; se fosse stato necessario fornire ulteriori prove della sua sincerità, lo avrebbe fatto immediatamente. Non aveva ricevuto nemmeno un penny da nessuno interessato al contratto televisivo: tale contratto sarebbe stato assegnato in seguito, quando le lunghe e attente deliberazioni in corso avessero portato a una conclusione soddisfacente. Per il momento (e colpì di nuovo la scatola – purtroppo ferendosi al dito), non era stata scritta ancora nemmeno una parola che potesse incoraggiare chiunque fosse interessato ad ottenere quel contratto.
+
+A questo punto tirò fuori un foglio di carta e lesse le parole che erano state attentamente redatte per lui dall’ufficiale incaricato, nella piccola stanza dove venivano preparati documenti del genere.
+
+“Niente, dico qui e ora, può certamente influenzare la decisione che dovrà essere presa al più presto. Spero tuttavia che, riguardo a quelle vili voci che sono passate da una bocca infame all’altra, io abbia potuto difendere sia la mia onore che quella di questa Aula.”
+
+Con queste parole si sedette, tremando in tutti i suoi nervi. Con toni gloriosamente sonori, il Presidente invitò il Leader dell’Opposizione, il quale si associò con entusiasmo a tutto ciò che era stato detto in opposizione. Egli pose anche un punto di vista originale quando affermò che, per quanto potessero divergere in quella Camera su questioni politiche, tutti erano uniti nel difendere i suoi alti principi e tradizioni.
+
+Ora che tutto questo era stato sistemato e si era levato un sorta di mormorio soddisfatto per sottolineare tale accordo, le cose di solito sarebbero finite lì e gli affari pubblici avrebbero potuto iniziare. Ma in una circostanza così speciale c’era ancora una parola da dire, e naturalmente fu Honest Jack Williams a pronunciarla. Si alzò per comunicare loro che la sua completa estraneità al dipartimento interessato, il fatto stesso che si trovasse al di fuori di qualsiasi negoziazione legata ai contratti televisivi, il fatto che, in qualche modo, fosse soltanto un cittadino comune in questa faccenda, gli offriva – pensava lui – l’opportunità di essere d’aiuto. Chiese di essere considerato il portavoce degli inglesi nel loro insieme (si sentirono applausi due volte dal nord-ovest e otto o nove volte da altre direzioni). Come semplice cittadino, desiderava congratularsi con il suo collega, il Ministro Postale Generale, e anche – se poteva permetterselo di dirlo – con il leader dell’Opposizione per il buon lavoro svolto quel giorno. C’era tuttavia un punto su cui poteva parlare con maggiore certezza rispetto a un semplice cittadino: poteva assicurare loro che nessuno dei suoi colleghi presenti in aula – e di questo ne era personalmente a conoscenza – avesse alcun interesse o partecipazione in queste società.
+
+E posso aggiungere che per nessuno questa affermazione era più vera di quanto lo fosse per Jack Williams stesso, perché, come i miei lettori ricorderanno, cinque giorni prima aveva venduto tutte le sue copie di “Billies”.
+
+Prima della fine della settimana erano accadute due cose: Reginald Butler era stato arrestato per diffamazione aggravata, e era stata nominata un’importante commissione che avrebbe dovuto riunirsi al più presto per indagare sulle accuse mosse contro di lui.
+
+Onesto Jack Williams sottolineò ulteriormente l’onore della Camera dei Comuni e il proprio onore personale.
+
+Per quanto riguarda il processo a Reginald Butler, ne parlerò in un secondo momento. L’assoluta imparzialità della legge richiede una certa dilazione in queste questioni – e questo è utile, poiché mi dà il tempo di aggiungere qualche dettaglio su ciò che quel potente Comitato ha fatto, giorno dopo giorno, dal momento della sua nomina fino alla pausa pasquale. Prima di tutto, lasciate che vi spieghi perché ho definito quel Comitato “potente”.
+
+Coloro che hanno esperienza nei Parlamenti usano la parola “forte” per descrivere un comitato quando i suoi membri sono persone rispettate, con capacità affermate e con una solida esperienza in materia; inoltre, la maggior parte di loro conosce personalmente bene l’argomento in esame, mentre una minoranza è caratterizzata da una totale ignoranza su di esso. Giudicato secondo questo standard, nessun comitato avrebbe potuto essere più “forte” del Comitato d’inchiesta sui contratti televisivi, che si riuniva nella Sala delle Commissioni n. 10: le sue pareti non sono più spoglie, ma sono state recentemente decorate con affreschi raffiguranti la firma della Magna Carta o la Grande Peste. Non ricordo esattamente quale.
+
+Il Presidente era Sir William Wagge, ottantenne produttore di biscotti; tra i suoi colleghi c'erano Lady Caroline Balcombe, Watson – ex socio e ancora intimo amico di James McAuley – Henry Boulter, talvolta chiamato “il Re della Carne in Scatola”, Raeburn, Q.C. (amico e confidente del Procuratore Generale da tutta la vita), Pickwell, il rispettato giovane sindacalista che per molti anni era stato segretario di Honest Jack Williams e grazie a lui aveva ottenuto un seggio in Parlamento, Lady Sellingham, Miller, Bergmann, Thomas Roby e lo stesso Mr. Boulger. Anche Whingate, che in qualità di Ministro Postale nell’ultima amministrazione aveva avuto a che fare con le fasi iniziali dello sviluppo del settore televisivo, faceva parte del gruppo: era un amico personale di McAuley, così come Watson.
+
+Il Comitato ha ascoltato cinquecentoventisette testimoni, tutti sotto giuramento, provenienti da contesti e con interessi molto diversi. Alcuni di loro potevano avere solo un legame remoto con l’affare in questione, altri invece nessun legame affatto. Sono stati presentati sia un rapporto della maggioranza che uno della minoranza. Il rapporto della maggioranza concludeva che tutte le voci diffuse, elencate una per una, erano prive di fondamento; tuttavia non si aggiungeva nulla di ulteriore, lasciando intendere che, secondo i firmatari del rapporto, l’intera questione potesse semplicemente concludersi naturalmente e venire dimenticata. Il rapporto della minoranza, firmato da soltanto tre membri del Comitato – nessuno dei quali aveva contatti diretti con le parti accusate né conosceva i contratti in questione – era molto più deciso: richiedeva ulteriori azioni legali e un rafforzamento delle leggi contro chi diffonde voci irresponsabili.
+
+* * *
+
+Torniamo al sfortunato Reginald Butler così com'era ai tempi in cui il Comitato iniziò per la prima volta le sue riunioni. Quando il disprezzo per le sue azioni orribili venne esposto pubblicamente, ancora prima che l'enorme quantità di prove presentate davanti al Comitato e le solenni dichiarazioni fatte in Parlamento distruggessero anche l'ultimo briciolo di rispetto che la gente potesse provare per lui, considerandolo semplicemente un entusiasta fuorviato.
+
+Il giorno dopo che quelle dichiarazioni furono fatte, non riuscì a sopportare l’idea di aprire il suo giornale. Non osava fidarsi di nessuno. Anche la padrona di casa lo guardava con tale rimprovero che gli sembrò di vedere in lei l’immagine maestosa di Britannia che rimproverava un figlio errante. C’era solo un cuore al mondo a cui poteva rivolgersi. E nella sua disperazione, consapevole delle prove pubbliche che lo aspettavano, cercò quel conforto privato che solo un altro cuore può offrire all’anima umana nei momenti di sconforto.
+
+Non voleva scrivere, non voleva nemmeno telefonare. Camminava lentamente, con aria desolata, ma ancora con la prospettiva di un'intima comunione davanti a sé, verso la casa di Lord Papworthy in Repton Square.
+
+Erano solo i suoi nervi, ovviamente, ma gli sembrava che anche l’uomo in uniforme alla porta lo stesse guardando nello stesso modo in cui, ne era ben consapevole, tutto il mondo lo stava osservando. Entrò, ancora molto infelice, fu annunciato e raggiunse la stanza familiare. Lei c’era.
+
+Lo era davvero! Il suo viso era appena apparso sulla soglia, le sue due mani erano appena state tese quando fu colpito da qualcosa che si potrebbe paragonare, come vorrete voi, a un getto d’acqua bollente, a una raffica di mitragliatrici o a un incidente ferroviario. Con il suo corpo snello e forte teso in avanti, le braccia dritte e pronte all’azione, i pugni stretti, leggermente indietro rispetto al resto del corpo, con tutta l’energia di arti ben sviluppati pronti a scattare, Joan Papworthy, beh, per essere precisi, “mostrò i denti”. E quel suo gesto fu l’inizio di ciò che stava per accadere.
+
+“Idiota puzzolente!” disse lei. Oh. Che parole mai potessero uscire da quelle labbra, “Puzzolente! Idiota puzzolente! Sai cosa hai fatto? Avevi la minima idea di ciò che stavi facendo?” Ripeté la parola “minima” cinque volte. “Imbecille!” E con quel termine enfatico, i suoi occhi sprigionarono lampi di rabbia. “Oh. Vattene! Capisci? Vattene! Mi fai schifo!”
+
+Il povero giovane in realtà pianse disperatamente.
+
+“Oh, Joan, ” iniziò a dire. E poi, quando la vide avvicinarsi a lui, con il primo piede già fuori e assumendo l’atteggiamento di un giaguaro pronto all’attacco, fuggì.
+
+Non riusciva a indovinare cosa fosse successo. Era troppo sconvolto per riuscire a mettere in ordine i propri pensieri. Nessuna campanella suonò, nessuno fu chiamato; dopo alcuni istanti di tremore, con dita incerte che cercavano invano la serratura, uscì. Camminò per strada come un uomo folle per via di un incubo panico.
+
+Cosa era successo? Cosa era successo? Cosa era successo? Il suo assurdo e vecchio marito. Ma no, quello non avrebbe mai potuto infastidirla. Qualcuno aveva forse detto qualcosa su di lui? Lui era innocente. Tutto quanto era stato un incubo, e al contempo un problema irrisolvibile. Comunque fosse, l’unica cosa che gli rimaneva in questo mondo se n’era andata. Continuò a camminare fino a raggiungere il parco, poi ancora più velocemente attraverso la pioggia fine che aveva iniziato a cadere, lasciandolo finalmente solo. Camminò senza badare alla distanza né alla direzione, fino a quando non fu completamente bagnato fradicio ed esausto. Poi si sedette su una panchina e, quando si alzò di nuovo, scoprì che tutta la sua energia lo aveva abbandonato. Barcollando, tornò nelle sue stanze. Era stato via solo un’ora, ma in quell’ora la sua vita era finita.
+
+L’inesperienza e la sorpresa di un poeta di fronte alla mutevolezza della donna.
+
+Se lo meritava tutto. Era troppo tardi per redimere il proprio carattere. Si trovava in quell’ultimo inferno, raggiunto da quegli uomini squilibrati – così pochi, e credo che siano sempre meno – che, con imprudenza, si fanno avanti nel ruolo di salvatori di un sistema politico che non ha bisogno di essere salvato. E questi stessi uomini si immaginano, in questi nostri tempi sicuri e dignitosi, di vivere nuovamente negli antichi tempi dei demagoghi e dei rivoluzionari.
+
+* * *
+
+Per quanto riguarda Joan Papworthy, quando sentì la porta d’ingresso chiudersi sotto di lei e capì che il suo amante non sarebbe tornato, si accasciò sul divano e iniziò a piangere ad alta voce. Poi chiamò i suoi agenti finanziari e scoprì che le cose stavano andando molto peggio di quanto temesse. Molto peggio.
+
+XIII
+
+WILFRID HALTERTON, nei giorni in cui quel comitato si riuniva per ribadire ancora una volta la “incomparabile brillantezza” della sua stessa onorabilità, era più infelice di quanto lo fosse mai stato prima.
+
+Che amara ironia per lui dover rifiutare quell’opportunità di arricchirsi che sembrava davvero essere svanita. Che ironia anche ascoltare James McAuley essere in qualche modo scagionato, proprio come lo era stato lui stesso! James McAuley, infatti, offrendogli quel lavoro, non aveva fatto nulla di corrotto, nulla che non fosse pienamente in linea con i migliori principi e le migliori tradizioni della nostra vita pubblica. Ma rubando quella lettera, sicuramente aveva commesso un atto contrario alle regole parlamentari. Wilfrid Halterton si sbagliava: non avrebbe dovuto giudicare in quel modo l’astuzia di McAuley riguardo a quel documento. Williams gli aveva dato il consiglio più saggio, in linea con le migliori tradizioni della vita pubblica: sorridere, giocare secondo le regole e contrattaccare con la stessa tattica. Ma Halterton rimaneva amareggiato e sempre più angosciato.
+
+Nel frattempo, per peggiorare le cose, Billies iniziò lentamente ad arrampicarsi di nuovo verso l’alto. Ma purtroppo non in tempo per la povera Lady Papworthy! Era arrivato il giorno del pagamento, e le fu richiesta una somma ben al di sopra di quella che la banca le avrebbe permesso di prelevare in anticipo. Fu costretta a confessare tutto al padrone di casa. E lo fece sull’unica cosa che poteva davvero interessarlo: i soldi.
+
+Alla fine Lord Papworthy aveva pagato, e lei aveva accettato amaramente il suo sermone come prezzo della propria liberazione. Quanto misera doveva sembrargli quella somma, pensava. Eppure si trattava di una cifra che lei doveva guadagnare sottomettendosi a quelle rari rimproveri: durante i quali il suo viso rotondo e pallido diventava ancora più rosso, e la sua voce alta a volte quasi incomprensibile.
+
+Billies, dico io, aveva iniziato ad avvicinarsi, troppo tardi per lei, ma giusto in tempo per coloro che erano più saggi e equilibrati. Avevano iniziato ad avvicinarsi proprio in tempo per l’uomo più equilibrato di tutti: Honest Jack Williams. Ora non c’era più dubbio su ciò che sarebbe accaduto a lungo andare a Billies. Quel percorso poteva avere solo un esito. Per quanto riguardava il Comitato, anche se non fosse stato l’autore di un rapporto unanimemente condiviso, ciò avrebbe significato soltanto che la minoranza avrebbe condannato ancora più energicamente le infamie di Butler rispetto alla maggioranza. E noi avevamo già visto che era proprio così. Tutto procedeva senza intoppi per i “Bulls”; tra i primi ad ottenere ciò che volevano c’era il Segretario dell’Interno. Naturalmente, agendo attraverso i soliti canali.
+
+Quando il voto fu espresso, molto prima che venisse pronunciata la sentenza contro quel povero Butler, e persino prima che il Comitato presentasse il suo rapporto, Billies avrebbe già raggiunto il suo apice e avrebbe venduto di nuovo, prima ancora della grande nuova quotazione in borsa che sarebbe seguita all’approvazione dello statuto societario. Rispetto a quella nuova quotazione, la sua attuale capitalizzazione sembrerebbe quella del Round Pond rispetto all’Atlantico.
+
+Era giunto il momento che Jack Williams parlasse con James McAuley, gli dicesse tutto, lo mettesse in una situazione difficile e concludesse l’accordo. Pensò che entro la fine della scorsa settimana di luglio o all’inizio di agosto, quando la Camera si sarebbe riunita, tutta quella faccenda si sarebbe risolta a suo favore. Entro quel momento, Butler sarebbe già stato messo in prigione in sicurezza, il rapporto sarebbe già stato pubblicato e tutti quei problemi sarebbero diventati storia passata.
+
+La Carta sarebbe stata approvata senza problemi: il Capo dei Segretari si sarebbe occupato del voto, il Tesoro non avrebbe sollevato obiezioni, e quanto a Halterton, ora era intrappolato in una situazione tale da non osare pronunciare una parola. Avrebbe dovuto essere lui stesso a compiere l’atto che avrebbe distrutto le sue stesse possibilità di ricevere un premio. Perché Jack Williams non aveva alcuna intenzione di assumersi la responsabilità di quella posizione manageriale, che gli era comodamente disponibile. Quel potere di nominare il direttore generale che desiderava rappresentava sempre un vantaggio. E la promessa contenuta nella lettera costituiva un ulteriore incentivo, se ce n’era bisogno, per convincere McAuley, il responsabile della Durrant’s, ad obbedire alle sue istruzioni.
+
+Pertanto, nonostante gli impegni ufficiali estremamente faticosi, soprattutto nelle ultime ore dedicate alla realizzazione del suo piano per sradicare la corruzione nella polizia, Jack Williams trovò il tempo di avvicinarsi a James; inoltre, temporeggiò con precisione nel farlo.
+
+Le ruote che il Capo Postale aveva messo in movimento tutte quelle settimane prima, quando aveva redatto l’ordine scritto, ora giravano abbastanza regolarmente; la licenza era stata concesso insieme al contratto previsto dal piano; tutto ciò di cui si aveva bisogno era l’ordine stesso del Capo Postale, e questo, senza che il Capo Postale avesse alcun ruolo diretto in tutto ciò, poteva essere ottenuto facilmente – come nessuno sapeva meglio di Jack Williams.
+
+Era la metà di quel delizioso mese di maggio; il processo a Butler sarebbe iniziato tra pochi giorni. Jack Williams, dopo aver osservato attentamente le azioni ansiose e preoccupate di James McAuley, lo incontrò per caso nel parco. Come suo solito, afferrò il finanziere per il braccio e si immerse subito nell’argomento. Aveva qualcosa da dire. James McAuley si assicurò che nessuno fosse nelle vicinanze, poi condusse con cautela il Segretario di Stato Interno sotto un albero, lontano da qualsiasi sentiero. Lì chiese, a voce appena più alta di un sussurro, cosa avesse potuto sentire Jack Williams. Aveva notizie riguardo ai documenti? Non ne parlò, ma nel suo cuore sperava che Halterton avesse rivelato qualcosa.
+
+Williams era molto allegro; non nascondeva affatto i suoi sentimenti. Parlava addirittura così ad alta voce che James McAuley tremava solo a sentirlo.
+
+“J.”, disse, dandogli una pacca sulla schiena, “hai perso qualcosa di recente?”
+
+“Hai perso qualcosa, amico?” sussurrò James Haggismuir McAuley, girando la testa a sinistra verso il suo compagno, ma i suoi occhi ancora di più della sua testa. “Hai perso qualcosa?” E i suoi occhi, già stretti, si strinsero ancora di più. “Cosa intendi?”
+
+“Qualcosa del genere?” disse Williams ad alta voce, mostrando improvvisamente e tenendo bene in mano, con quella lontana da McAuley, le due fotografie delle lettere.
+
+Purtroppo devo dire che il signor McAuley ha fatto un gesto improvviso. Ma le fotografie sono tornate immediatamente nel loro posto, e l’intero episodio ha suscitato solo una risata felice da parte di quel ministro di Stato così sereno e equilibrato: il molto onorevole Jack Williams.
+
+“Aspetta un attimo,” disse, “aspetta un attimo! Beh, vedi, li hanno trovati. Ah, i miei uomini sono intelligenti, te lo dico io!”
+
+McAuley scosse la testa. “Sappiamo tutto sulle fotografie, vero?” ridacchiò. “La macchina fotografica non può mentire, giusto?” E rise di nuovo.
+
+Poi Williams, con il suo sorriso allegro, iniziò a giocare con le carte da gioco. Tirò fuori le due carte originali e le tenne in alto, proprio come aveva fatto con le loro copie, ma questa volta in modo ben visibile.
+
+James Haggismuir McAuley si sentì male.
+
+“Come, come facevi a saperlo?” balbettò, con gli occhi ancora più stretti del solito.
+
+“Non l’ho fatto, idiota!” rispose l’altro in tono scherzoso e cordiale. “Lo sai bene, no? Pensi che abbia tempo da perdere con queste cose, con la mia grande riforma della polizia in corso e con tutti quei delinquenti della squadra che mi minacciano? No! Sono stati portati da me, sono stati trovati.”
+
+“Dove sono stati trovati?” chiese di nuovo J.
+
+“Ah,” rispose il Segretario dell’Interno, ripetendo quella frase rituale, “quello sarebbe davvero significativo, non credete? Comunque, eccole lì.” Le rimise a posto e batté sulla superficie esterna del suo cappotto. “E ora che sono state trovate,” continuò, “non c’è nulla che possa impedirci di andare avanti, vero?”
+
+“Cosa intendi per ‘noi’?”, disse con tono piuttosto scortese, ma lasciando comunque aperta la possibilità di una negoziazione.
+
+“Perché proprio noi, tu e io…”
+
+Anche dopo anni di incarichi ufficiali importanti, Jolly Jack Williams non aveva perso affatto il suo spirito allegro.
+
+“Tu ed io, ragazzo!” aggiunse. “Povero vecchio Wilfrid, è fuori gioco, eh?” e gli diede un pugno nello stomaco.
+
+“Non farlo!” disse J.
+
+Jack Williams si appoggiò allo schienale della sedia, contemplando in silenzio il delizioso cielo illuminato dal sole attraverso il nuovo verde delle foglie. Lasciava che l’idea maturasse nella mente di James McAuley. Era una persona pronta a prendere decisioni, e queste sarebbero arrivate molto presto. Prima arrivò un sospiro, poi un colpo di tosse – un colpo di tosse esitante – e infine quelle semplici parole:
+
+“Cinquanta e cinquanta?”
+
+“Non essere sciocco, J.” rispose con disprezzo il cervello dietro tutta la faccenda. “Cinquanta-cinquanta, tua nonna! Il cinquantuno percento: questi sono i miei termini. Il cinquantuno percento per il controllo. Ho già le mie persone pronte ad obbedirmi; ci saranno diversi nomi coinvolti. Quanto alla tua parte dei quarantanove percenti rimanenti, beh, quella la decidi tu. Non sarò troppo duro con te! Sai benissimo che non puoi prenderti tutti e quarantanove i percenti. Non hai una folla di persone alle tue spalle. Ma puoi ottenere una buona percentuale, diciamo il venti percento. E io sono dalla tua parte, quando si tratta di realizzare la quotazione in borsa.”
+
+È una debolezza, forse l’unica debolezza di questi grandi capitani del settore finanziario, il fatto che i loro desideri non abbiano limiti. È proprio la pratica dell’accumulo perpetuo a generare in loro questa assurda mancanza di proporzionalità. Sarebbero molto più felici se capissero che, per qualcosa con possibilità infinite come questo, anche una quota minore rappresenta comunque una fortuna enorme, e se si accontentassero di essa. Ma odiano l’idea di perdere il controllo su tutto ciò.
+
+Quando il diavolo spinge, le necessità diventano imperative! James McAuley cedette. Non poteva fare altrimenti; non esisteva alcun altro percorso possibile. E quando non c’è scelta, sia l’uomo più saggio che il più sciocco segue l’unica strada disponibile.
+
+“Molto bene,” disse James McAuley. Sospirò di nuovo, più profondamente.
+
+E tornarono indietro, per la maggior parte del tempo in silenzio, ma comunque insieme. J. calcolava rapidamente nella sua mente quale percentuale dei quarantanove potesse contare con sicurezza su di essi, e quanta invece dovesse essere lasciata al caro pubblico.
+
+E così i due continuarono il loro cammino, sotto un cielo aperto.
+
+* * *
+
+Quella sera, le fotografie furono riposte con cura nel armadio chiuso a chiave a Streatham.
+
+XIV
+
+Il processo di quel sfortunato idiota, Reginald Butler, non occupò molto tempo del pubblico, e non ne occuperà nemmeno molto il nostro. Tutto finì in due giorni, e possiamo riassumerlo in poche pagine.
+
+Non era necessario che ci volesse nemmeno un giorno, o mezzo giorno: non aveva prove né motivi sufficienti per procedere. Ma la questione era di notevole importanza. Erano passati molti anni da quando si era ritenuto opportuno perseguire qualcuno per attacchi all’integrità del Parlamento, la reputazione più orgogliosa e giustificata che esistesse. Inoltre, poiché i soldi dei contribuenti erano a disposizione in quantità illimitata, era del tutto ragionevole destinare almeno due giorni alle spese, alle tasse e ai guadagni degli avvocati. Avrebbero persino potuto estendere il periodo a tre o quattro giorni, con motivazioni più che valide, se non fosse stato per il fatto che il Procuratore Generale aveva già un altro caso molto redditizio da affrontare il terzo giorno.
+
+Chi sarà nominato giudice, anche in casi di tale alta importanza nazionale, è purtroppo una questione puramente casuale. Se non fosse così, l’imparzialità della giustizia verrebbe messa in dubbio da persone malintenzionate. Nella nomina di un giudice non entrano in considerazione né le caratteristiche personali, né le affiliazioni politiche a Westminster, né i servizi resi a persone in posizioni elevate, e tantomeno alcuna forma di flessibilità nel comportamento personale. Tuttavia, se ci fosse anche solo il minimo sospetto che una scelta venga fatta per motivi politici, ci sarebbe sempre il rischio di critiche malizievoli. Pertanto, alcuni hanno suggerito che per i casi in cui vengono attaccati persone molto ricche o influenti, il giudice dovrebbe essere selezionato secondo il metodo preferito dai gitani: estrarre un nome da un cappello da parte di un bambino non vedente. Tuttavia, si è ritenuto che tale procedura sarebbe indegna della dignità della giustizia.
+
+Il grande avvocato e uomo profondamente rispettato che avrebbe processato Butler per diffamazione criminale era Sir Henry Chasible – il Giudice Chasible, come preferiva essere chiamato, con un profondo rispetto per le tradizioni.
+
+Per un momento sembrava che al giudice Honeybubble fosse stato affidato quel compito. La sua personalità decisa avrebbe sicuramente reso il processo ancora più memorabile di quanto il suo carattere generale potesse farlo presagire. Ma il giudice Honeybubble si era indebolito e aveva bisogno di riposo per alcune settimane, essendosi overstreso a causa dell’intensità dei suoi interventi nel recente caso Sligo contro Jay. Tuttavia, per la sua età, era un uomo straordinario: sorprendentemente energico per un ottantasettenne. Ma in quel momento aveva davvero esaurito tutte le sue forze. Ecco perché, durante quei due giorni memorabili, a sedere sulla Corte fu Sir Henry Chasible. Il rispetto universale che gli veniva tributato, ben oltre quello che giustamente spettava ai suoi colleghi, derivava da molteplici motivi. Prima di tutto, e soprattutto, era un uomo molto ricco; la sua fortuna non proveniva dal commercio, ma dalle proprietà terriere, una cosa piuttosto rara nella prima generazione di una grande famiglia legale. Era terra ereditata. Un complimento ancora più meritato andava a un uomo che, pur occupando una posizione così elevata, si dedicava con impegno al lavoro giudiziario. Ma per Henry Chasible, il suo paese veniva sempre prima di tutto.
+
+Sir Henry Chasible.
+
+Allora, per quel che valeva, si fece crescere la barba; e personalmente penso che questi dettagli siano di qualche importanza nel valutare il carattere di una persona. Poiché quanto raramente incontriamo un giudice con il coraggio di adornarsi in questo modo!
+
+Inoltre, nella sua veste non ufficiale, era un uomo profondamente religioso: praticava con devozione e precisione ogni precetto e rito della Fede Cattolica; nessun altro figlio di quella fede avrebbe potuto essere più devoto di lui. Nella stessa veste non ufficiale, era anche un oppositore coraggioso delle perversioni e dello scisma romani. Infatti, Sir Henry Chasible, oltre ad utilizzare la sua vasta influenza sulle sue proprietà nel Rutland a sostegno della causa cattolica, ebbe un ruolo fondamentale nell’impedire che le rovine dell’abbazia di Rabbly venissero acquistate da fanatici romanisti: fu lui stesso ad anticipare tutti i fondi necessari e ad aderire in modo significativo al National Trust istituito per la conservazione di quel luogo venerabile.
+
+Durante il suo periodo nella Camera dei Comuni, egli ha militato come anarchico, sebbene appartenesse alla fazione di destra del partito; i suoi compagni più progressisti lo consideravano quasi un socialista. In seguito, dopo aver lasciato la Camera e nel periodo intermedio prima della sua nomina a giudice, si è apertamente iscritto al partito socialista; le sue simpatie per tale movimento erano note (sebbene ovviamente ora potesse esprimerle solo in veste non ufficiale), e queste simpatie si erano ulteriormente rafforzate nel corso degli anni. Tutto in lui tendeva a evidenziare il suo conservatorismo man mano che avanzava negli anni.
+
+Il motivo per cui il processo a Reginald Butler richiese un'attenzione così breve da parte delle autorità era, come ho detto, che quel povero sciocco non aveva alcuna possibilità di vincere il caso. Questo semplificò le cose, ma forse anche troppo, poiché lasciava poco spazio a quelle vigorose denunce di cui l’Procuratore Generale era così abile.
+
+Quel poveretto sul banco degli imputati avrebbe potuto essere difeso efficacemente, se tale difesa fosse stata possibile, dal signor Charles Carrick, il quale si prese generosamente carico del caso per la misera tariffa disponibile: in parte perché riteneva, come del resto l’intera comunità legale, che una persona nella condizione di Butler avesse diritto a un rappresentante legale eccezionale; e in parte perché partecipare a quel caso avrebbe permesso al signor Carrick di farsi notare; occasioni del genere sono infatti molto utili per un giovane avvocato che sta facendo carriera.
+
+Ma sarebbe assurdo fingere che Carrick avesse qualche possibilità di successo. Poteva fare poco, se non supplicare per misericordia attraverso una descrizione patetica dei motivi onesti e delle vere deviazioni del suo cliente.
+
+Naturalmente, non fece davvero leva sull’idea della sua follia, poiché questo avrebbe rappresentato un argomento altrettanto indesiderato sia per Butler che per le autorità interessate al caso; tuttavia, era disposto a dimostrare che quella figura di “Byron falso” fosse circondata da sogni irreali e vivesse in un mondo che non esisteva. I grandi statisti che aveva accusato in modo così calunnioso e falsamente, sebbene portassero i nomi di persone reali, per lui non erano altro che ombre frutto dell’immaginazione.
+
+L’intervento del Procuratore Generale della Corona in questo caso fu criticato da alcuni e applaudito da altri. Suo fratello minore era indirettamente coinvolto; dico “indirettamente” perché l’accusa non menzionava affatto James McAuley, ma si concentrava esclusivamente sul fatto che Halterton avesse stipulato un contratto in cambio di una determinata ricompensa. Inoltre, si ritenne opportuno evitare di coinvolgere il Cancelliere dello Scacchiere in questa vicenda, anche se il Capo del Gabinetto non era contrario alla pubblicità che ne derivava.
+
+Il procuratore generale Sir Andrew McAuley interroga il famigerato traduttore.
+
+In passato, le regole di etichetta del Bar erano molto rigide in queste materie, e più volte avevano impedito a importanti funzionari della Corona di comparire in tribunale quando i membri delle loro famiglie erano coinvolti, o addirittura accusati, di irregolarità. Questo probabilmente avrebbe anche impedito a Sir Andrew McAuley di presentarsi in tribunale in quei giorni. D’altra parte, ci sono due precedenti: quello comunemente noto come il “Caso Periscope” e un altro ancora più noto come lo “Scandalo del Sapone”. In entrambi i casi, l’allora Procuratore Generale della Corona aveva rappresentato la parte pubblica in tribunale, anche se nel primo caso suo padre e nel secondo suo figlio erano stati ampiamente menzionati in relazione alle irregolarità coinvolte.
+
+Ma il motivo principale per cui Andrew McAuley decise di intervenire era semplice, e credo anche molto nobile: era determinato a fermare tutte quelle voci malvagie che circolavano su suo fratello minore, e a sradicarle con il potere del proprio nome. Nessun altro avrebbe sacrificato così tanto per i valori familiari. Da allora, questo aspetto è sempre stato ricordato a suo favore. Un altro motivo della sua azione era la considerevole somma di denaro che poteva guadagnare grazie alle tasse pagate per il proprio impegno.
+
+Tartle, il suo assistente, non fu chiamato a testimoniare, ma svolse un ruolo utile nel fornire indicazioni e agire da intermediario durante il processo. Infatti, il lavoro che svolse, sebbene non di natura pubblica, ebbe comunque un certo impatto sul risultato finale. Ecco come accadde:
+
+Sir Andrew McAuley stava per concludere il suo importante discorso, che avrebbe terminato con la frase storica: “Questo è un Tribunale di Giustizia, e io chiedo giustizia”. In realtà, quasi mezz’ora prima, all’inizio della famosa parte del discorso in cui si diceva: “Quando vedo quest’uomo il mio cuore sanguina per lui” – un’allusione commovente a Wilfrid Halterton, che da allora è stata inclusa in molte antologie di letteratura inglese – Samuel Tartle ricevette discretamente, dal retro dell’aula, un pezzo di carta. Era piccolo e non molto pulito, poiché era stato passato di mano in mano lungo il percorso che lo aveva portato fino a lui. Una cosa che non avrebbe dovuto accadere, poiché quel foglio conteneva informazioni estremamente private. Samuel Tartle faticò molto a nascondere la sua profonda sorpresa e preoccupazione.
+
+Le informazioni contenute in quel pezzo di carta devono ora essere rese note nella loro intera entità.
+
+Ogni partito politico, come tutti sappiamo, dispone giustamente di un cospicuo fondo – costituito da donazioni del pubblico – che viene affidato alla custodia di un membro del personale appositamente incaricato, di cui si può essere certi che ne renda conto con precisione e lo utilizzi in modo saggiamente. Naturalmente, tale persona non rilascia ricevute, né conserva (se possiamo credere alle sue dichiarazioni sotto giuramento) alcun documento relativo a tali pagamenti. In effetti, per una sorta di “finzione costituzionale”, le è permesso, ogni volta che il fondo viene menzionato durante un’inchiesta davanti a una commissione o persino davanti a un giudice, negare l’esistenza stesso del fondo oppure dichiararsi completamente all’oscuro della sua entità e dei nomi di coloro che lo hanno generosamente contribuito.
+
+Lo stupore del signor Tartle.
+
+Ora non si può permettere che questi fondi rimangano inutilizzati. Devono, come qualsiasi altro denaro, generare interessi e essere impiegati in attività proficue, nel frattempo che aspettano di essere utilizzati per gli scopi generali dello Stato a cui sono destinati: spese accessorie dei candidati, persuasione di persone non direttamente impegnate in attività politiche ma che occupano posizioni chiave (ad esempio Joe Billingham di Nuneaton, l’allenatore, o Jerry Cobb, molto amato da tutti e responsabile della gestione del “The Swan” sulla Meddinghurst Road), pagamento di debiti legati al gioco d’azzardo, e molte altre finalità. Sono davvero numerosi gli scopi per cui vengono utilizzati questi importanti fondi.
+
+A volte sono molto grandi; infatti, la Longpenny House situata in Longpenny Square è stata costruita utilizzando soltanto una piccolissima parte di un simile fondo, il che dimostra bene le loro dimensioni.
+
+Questo è il primo punto che dobbiamo tenere a mente: tali fondi devono essere utilizzati per generare interessi. Il secondo punto è che i primi ministri hanno dei segretari.
+
+La carica di Primo Ministro del Regno Unito (compresi i sei contee dell'Irlanda del Nord, la città di Berwick-on-Tweed e le Isole del Canale – ma non l’Isola di Man) rappresenta forse il più alto incarico puramente temporale a cui un essere umano possa aspirare; in questo momento, tale incarico è nobilmente ricoperto dalla signora Boulger.
+
+I Segretari addetti a questa delle più elevate cariche mortali sono, come si può immaginare, di vario tipo. Il loro numero è inevitabilmente aumentato con lo sviluppo della Costituzione britannica a partire dal 1900; ai sei iniziali dell’epoca dei nostri nonni ne sono stati aggiunti altri trentatré, il che, con un semplice calcolo, porta il totale a quasi quaranta. La maggior parte di loro risiede in quella serie di edifici bassi la cui espansione sul percorso della Cavalleria è stata ampiamente criticata dalla stampa; il contratto relativo alla loro costruzione fu assegnato all’amica della figliastra del Ministro della Guerra, W. H. Gar, ma non ho spazio per approfondire tutto ciò.
+
+Tra questi trentanove segretari, ce ne sono tre di particolare importanza: il Segretario Privato, il Segretario Confidenziale e il Segretario Generale. Quest’ultimo viene quasi sempre scelto tra i ranghi più alti della Pubblica Amministrazione. Di solito è una persona con un background familiare, come richiede l’occasione; inoltre, è coerente con la sua posizione che la sua carriera sia ancora davanti a lui e che si trovi negli anni iniziali della sua attività pubblica.
+
+Il gentiluomo che ricoprì questa carica durante la sessione del 1960, e che la manteneva ormai da più di un anno, era Danver – Teddy Danver – un uomo davvero ideale per tale incarico: possedeva quella giusta misura di libertà di espressione quando essa fosse appropriata e di discrezione quando necessaria; conosceva perfettamente come comunicare informazioni a cinquanta persone, purché queste fossero ben selezionate, in modo che tali informazioni non arrivassero mai all’orecchio del pubblico; inoltre, doveva aggiungersi anche quel sano senso dell’umorismo, indispensabile per mantenere la propria capacità di valutare le cose con oggettività nel difficile contesto della vita pubblica.
+
+La mattina del secondo giorno del processo, verso la fine della giornata, nel momento in cui, lontano presso il Old Bailey, Sir Andrew McAuley stava iniziando il suo lungo discorso, i due segretari junior seduti oltre la porta di velluto verde nell’ufficio esterno, pronti ad accorrere non appena suonasse il fischio di Danver attraverso il microfono, furono colpiti da un rumore assurdo proveniente dall’interno.
+
+Ognuno di loro si guardò intorno, improvvisamente spaventato all’idea che il loro capo potesse essere colpito da qualche malattia temporanea. Risuonarono grida, strilli e colpi di tosse interrotti, seguiti dal chiamare dei loro nomi: “Bill! Ah-ah! Oh-oh! Bill, Garry, venite qui! Garry! Bill! Oh, mio Dio!” Poi ancora risate, sempre più forti, esplosive, cataclismiche. Mentre Bill e Garry irrompevano dalla porta di velluto verde, videro il loro rispettato superiore appoggiarsi allo schienale della sedia, con la bocca spalancata in un sorriso così intenso da scuotere tutto il suo imponente corpo. Era appena arrivato al punto di esaurimento quando loro entrarono.
+
+“Non riusciresti mai a indovinare!” sussurrò, ansimando e con la voce roca per lo sforzo appena compiuto. “Mai. Non potresti mai! Oh, mio Dio, ” Tentò di ridere di nuovo, ma gli faceva troppo male, così si fermò subito. “Oh, è troppo bello per essere vero. Cosa pensi che abbiano fatto ora?”
+
+“Chi?” dissero insieme Garry e Bill, con ansiosa meraviglia.
+
+“Ma i Gemelli Celesti!” (Devo precisare che “I Gemelli Celesti” era il termine gergale utilizzato in quell’ufficio per riferirsi al Cancelliere dello Scacchiere e al Capo del Gabinetto, quei signori di cui l’Attorney-General aveva appena parlato a colazione, in relazione alla questione del Contratto per la Televisione.)
+
+“Oh, sia lodato Dio!”, esclamò il Segretario Capo di tutti, lo stesso Segretario in persona, con voce affannosa e a malapena in grado di respirare, “Dio sia lodato, per avermi permesso di vivere fino a questo giorno!”
+
+“Cosa hanno fatto?” disse Garry.
+
+“Cosa ne è risultato?” disse Bill.
+
+“Cosa ha fatto uno di loro?”, chiese di nuovo Garry.
+
+“Oh, non riuscirete mai a indovinare!” ripeté il Capo, con gli occhi che brillavano di gioia. “Nessuno riuscirà mai a indovinare! Questo genere di cose succede una volta ogni milione di anni! Hanno utilizzato i fondi segreti della festa per manipolare il mercato a vantaggio di Billies!”
+
+Garry, che era davvero molto giovane e ancora conservava alcune illusioni tipiche della classe media riguardo alla natura della vita pubblica, fischiò. Bill scoppiò a ridere più forte del suo capo, ma per rispetto verso di lui, la sua risata fu meno prolungata.
+
+“Beh, devono essere informati, capisci.”
+
+“Chi?” disse Garry.
+
+“Loro,” rispose il Capo, annuendo.
+
+E poi, rivolgendosi a Bill: “Lo sai…”
+
+“Sì,” disse Bill, “lo so.”
+
+“Meglio che lo prenda tu stesso, non dovrebbero esserci troppe persone a vederlo.”
+
+Circa un quarto d'ora dopo, Bill si trovava presso l’Old Bailey. Aveva trascritto le informazioni in modo semplice e chiaro su un foglio di carta, poi lo aveva piegato a metà; non l’aveva messo in una busta. Era deciso che venissero prese in considerazione immediatamente.
+
+Quando arrivò alla porta del Palazzo, si rese conto troppo tardi di non avere nulla con sé per dimostrare chi fosse. Sperava solo che il guardiano ufficiale di quel portale gli credesse.
+
+“Sono venuto dalla segretaria del Primo Ministro,” disse. “Potreste lasciarmi entrare? Voglio consegnare un messaggio al Procuratore.”
+
+Fu creduto e quindi entrò. Quando la porta si aprì su quella folla densa, e al di sopra delle teste della gente sentì il forte rumore dell’eloquenza maestosa di Andrew McAuley, capì che non c’era alcuna possibilità di passare attraverso quella folla.
+
+“Potrebbe passarlo a uno dei consiglieri della procura? Lì, quell’uomo. Il signor Tartle. Credete che possa farlo arrivare al signor Tartle?”
+
+L’uomo a cui fu rivolto quel messaggio lo prese e lo passò a un altro davanti a lui nella folla. Quell’altro lo consegnò a un terzo, un po’ accartocciato ma ancora integro. Tartle lo prese, aprì il foglio e lesse le dodici parole o meno scritte in modo approssimativo con la matita; quel messaggio ebbe su di lui l’effetto che ho menzionato.
+
+Cosa doveva fare? Doveva mostrarlo al suo capo, ma non poteva interrompere questa fase finale della procedura in cui veniva ricordato alla giuria l’ammissione di quel individuo senza cuore secondo cui non possedeva alcuna prova concreta, e che si affidava interamente alle voci messe in giro nei bar di Fleet Street, riportategli dal suo amico disonorevole. Aveva ammesso – dopo essersi deciso personalmente ad entrare nell’aula nonostante i consigli del proprio avvocato – di essersi basato soltanto sul buonsenso e sulla conoscenza comune, insomma su argomentazioni del genere.
+
+Mentre Sir Andrew versava lacrime di sangue per le sofferenze di Wilfrid Halterton, mentre ricordava alla giuria l’immagine di quel grande statista con la testa china, la sua sensibile onorabilità fu profondamente offesa solo dal menzionare quelle orribili accuse. Samuel Tartle, intanto, soffriva terribilmente nell’ansia di far conoscere il contenuto di quella nota. Dovette aspettare fino a quando non fu pronunciata l’ultima frase famosa: “Questo è un tribunale della giustizia, e io chiedo giustizia”, fino a quando il Procuratore Generale, con una pressione sanguigna pericolosamente alta per la sua età, non si sedette di nuovo, avvolto in un’aura di gloria legale.
+
+Ma il signor Samuel Tartle, quel distinto giovane funzionario che aveva avuto la fortuna di non dover nemmeno aprire bocca per svolgere i suoi compiti e quindi guadagnare facilmente i propri soldi, non avrebbe dovuto preoccuparsi così tanto. Il messaggio del Segretario era stato portato ai livelli più alti dal suo vice-segretario, con quella discrezione tipica dei vice-segretari.
+
+Fuori, nei corridoi, uomini che si professavano esperti delle dinamiche della vita pubblica esprimevano le loro opinioni, non riguardo al verdetto – su quello non poteva esserci dubbio – ma riguardo alla pena. Un anziano calvo, dal carattere sportivo e che spesso aveva ragione in queste questioni, previde che sarebbero trascorsi due anni. L’opinione più diffusa oscillava tra un anno e sei mesi. Uno sciocco commentò che non avrebbero fatto di Butler un martire; un altro disse che sicuramente ne avrebbero fatto un esempio per tutti. Un terzo, che sembrava meno sciocco degli altri due, affermò che tutto dipendeva da ciò che ritenevano fosse la cosa migliore da fare. Comunque nessuno prevedeva una pena inferiore ai sei mesi; l’opinione più condivisa era quella di dodici mesi, mentre le probabilità che si arrivasse a diciotto mesi o più erano piuttosto basse, così come quelle che si trascorressero soltanto due anni.
+
+Coloro che ascoltarono il riassunto, all’inizio, tendevano a giungere a una conclusione più severa; infatti, il volto nobile, dignitoso e religioso del giudice Chasible esprimeva quella terribile severità che l’occasione richiedeva.
+
+Iniziò dicendo alla giuria che la legge aveva istituito il reato di diffamazione penale al fine di terrorizzare i malviventi e, in sostituzione della pratica degradante dei duelli che, purtroppo, persisteva ancora tra nazioni meno civili delle nostre, ma che qui, fortunatamente, era ormai scomparsa. Spiegò loro come la legge fosse molto cauta nell’uso di questo estremo strumento, ma che ci fossero occasioni in cui nulla altro avrebbe potuto funzionare. Tutti i governi sarebbero caduti nel caos e tutte le alte tradizioni della nostra vita pubblica sarebbero andate perdute se si fosse pensato che le persone potessero diffondere, senza conseguenze negative, menzogne maliziose contro quegli statisti che la Provvidenza aveva scelto per guidare questa grande nazione. “Sulla purezza della loro vita pubblica,” aggiunse, “e sull’esempio delle loro morali, si è modellata tutta la civiltà mondiale” – e a questo punto il giudice fece un breve riferimento all’identità che noi condividiamo in questa materia con i nostri cari cugini degli Stati Uniti, un commento che persone della posizione di Sir Henry possono permettersi di fare, a grande vantaggio delle relazioni internazionali del Commonwealth.
+
+“Come terrore per i malvagi,” ripeté quel grande e, (posso dirlo?) santo Giudice, “come terrore per i malvagi” – con voce severa e crescente. Poi, come se si rendesse conto che la moderazione avrebbe avuto un effetto ancora maggiore rispetto a lasciarsi guidare completamente dall’indignazione, si trattenne e aggiunse, con toni freddi ma decisi:
+
+“Voi, signori della giuria, dovete giudicare i fatti e la legge. È proprio in questo che un processo per diffamazione, anche quella penale, si differenzia da qualsiasi altro tipo di processo.” E citò brevemente le disposizioni della Legge Fox: “Se, a vostro parere, il prigioniero aveva motivi validi per dire ciò che ha detto, poiché quelle parole erano sostanzialmente vere e vantaggiose per il pubblico, allora emetterete un verdetto di non colpevole. Ma se, allora emetterete il verdetto opposto.”
+
+Con queste parole, la voce solenne tacque.
+
+La giuria, senza lasciare la tribuna, proclamò la sua decisione attraverso il portavoce, un uomo dal timbro di voce tenore, con un accento cockney e una taverna molto frequentata all’angolo di Leadenhall Street; un esempio davvero ammirevole di quel buon senso comune che rende il nostro sistema giudiziario oggetto d’invidia in tutto il mondo.
+
+Allora calò un grande silenzio nella Corte, mentre si udiva l’ammonizione del giudice rivolta a quel povero disgraziato dietro la recinzione spinata, e poi la sentenza.
+
+L’ammonizione fu breve. Il giudice sottolineò l’atrocità del crimine, e soprattutto la mancanza di un movente adeguato. Era disposto a credere che il fanatismo avesse spinto quella creatura miserabile al di là dei limiti della ragione umana; ma la legge non poteva tenere conto di questo. Il suo dovere era proteggere i sudditi di Sua Maestà, di ogni ceto sociale, e in particolare coloro che si erano assunti il compito arduo e ingrato di governare, da falsità velenose come quelle che il prigioniero aveva citato e diffuso. In tali circostanze, non avrebbe adempiuto al proprio dovere se non avesse inflitto al colpevole una multa di cinquanta sterline.
+
+Il presidente della giuria, un esempio ammirevole di quel buon senso comune che rende il nostro sistema giudiziario oggetto d’invidia in tutto il mondo.
+
+Oh, quanta saggezza e quanta potenza. E ancora oggi, forse non ci sono più di duemilacinquecento uomini in Inghilterra che ricordino cosa sia stato fatto in quella occasione con i fondi del Partito.
+
+* * *
+
+Reginald Butler lasciò la Corte come un uomo libero, ma senza amici, a meno che non consideriamo amici quei tre o quattro fanatici meschini e insignificanti: Rashdell, uno dei seguaci ubriachi di Rashdell, e un terzo individuo povero e ignorante, per il quale Reginald, ormai caduto in disgrazia, continuava ad essere considerato un eroe.
+
+Il suo Comitato lo esortò a dimettersi dal proprio incarico. Rifiutò, ma dopo una settimana trascorsa tornando continuamente all’Assemblea e subendo quel disprezzo silenzioso che tali persone meritano giustamente, si arrese e decise di dimettersi.
+
+L’opera letteraria con la quale si era finora mantenuto venne abbandonata da lui all’improvviso, proprio come la conversazione del suo conoscente. Alcuni dicevano che ciò fosse dovuto alla generosità dello stesso Halterton, altri all’influenza di Lady Papworthy; in ogni caso, ottenne un piccolo ma regolare incarico in uno dei giornali “Desportes”, dove avrebbe scritto recensioni sulle opere teatrali dell’epoca. Quel lavoro non gli fu dovuto né alla donna che aveva servito, né all’uomo che aveva diffamato, ma all’intervento di un editore il cui critico teatrale era morto a causa del delirium tremens. Questo editore gli aveva ordinato con fermezza di trovare qualcuno disposto a lavorare per la metà del prezzo normale; quando stava quasi per arrendersi, gli fu proposto Butler, un uomo disperato pronto a accettare qualsiasi lavoro. Fu così che Reginald ottenne appena quanto gli bastava per pagare una sistemazione misera e pasti scarsi, diventando critico teatrale per il “Gaper”, ruolo che mantiene ancora oggi.
+
+Naturalmente non gli era permesso di firmare con il proprio nome; gli fu dato lo pseudonimo di “Dottor Johnson”. E anche se lo stipendio era misero, lo facevano lavorare sodo.
+
+Continua a cercare di adempiere al proprio dovere lì, povero sciocco, anche se si rende conto che partecipare costantemente a innumerevoli spettacoli molto simili tra loro finisce per intorpidire il suo senso del teatro e priva la sua vita di ogni piacere, qualora ne rimanesse ancora. Ha un difetto: molto spesso perde l’inizio dello spettacolo. Posso approfittare di questa occasione per dire che non è colpevole? Il suo frequente ritardo negli spalti deriva semplicemente dal fatto che non riesce sempre a raccogliere abbastanza soldi in tempo per riprendere in pegno quell’uniforme che i gestori insistono che indossi ogni sera.
+
+Lo stato finale di coloro che diffamano l’onore degli uomini pubblici.
+
+XV
+
+Arthur Lawson mostrava molto poco interesse per il mercato azionario. C'era stato un periodo, molti anni prima, in cui aveva fatto speculazioni finanziarie. Gli piaceva l’emozione che quel tipo di attività comportava quando era ancora giovane; gli piaceva vincere, e infatti ci riusciva spesso. Avrebbe potuto continuare a farlo per tutta la vita, come molti dei suoi colleghi, se non fosse stato per tre fattori diversi che avevano contribuito al suo successo: uno legato alle speculazioni azionarie, altri due dovuti a informazioni ottenute casualmente e a una commissione particolarmente elevata derivante da un ordine di grandi dimensioni. Questi fattori gli permisero di disporre di una somma di denaro molto più consistente rispetto a quella che aveva guadagnato fino ad allora. Riuscì immediatamente a entrare in quel ristretto gruppo di persone che detengono il controllo del settore finanziario; successivamente raggiunse anche il livello più alto, quello dei pochi individui che influenzano davvero le dinamiche economiche. Era coinvolto in importanti operazioni di indebitamento nazionale, grandi accordi di sottoscrizione e emissioni di titoli di grande valore; inoltre ricopriva la carica di dirigente principale nella prestigiosa banca Schwartz.
+
+Questo fu il momento di transizione: acquistò quella casa isolata a Mayfair, unica della sua sorta nella [[settings/london|Londra]] di allora, e da quel momento essa divenne associata a ogni aspetto della sua vita.
+
+Ma nella posizione estremamente importante che ora occupava – una posizione che, come spesso accade, anno dopo anno ampliava automaticamente il suo disprezzo per le incertezze del mercato – il suo disgusto per queste cose aumentava sempre di più. Non aveva hobby. Era il tipo di persona che, se ne avesse avuto uno, lo avrebbe dedicato interamente alla sua vita, al posto del proprio lavoro.
+
+Si trovava solo. Provò a riempire le sue giornate con le responsabilità mondiali che gli spettavano, ma non era sufficiente. Se avesse conosciuto Wilfrid Halterton più a fondo, e se fosse stato possibile che i due uomini entrassero davvero in sintonia l’uno con l’altro – non per via delle differenze di sangue o tradizioni – avrebbe voluto rafforzare quel legame. Infatti, ora chiamava formalmente il Capo Postale con maggiore frequenza rispetto al passato recente, ma comunque mai più di tre o forse quattro volte all’anno.
+
+Coloro che pensano che tali persone siano ossessionate dall’idea del denaro, soprattutto da quello che può essere guadagnato o perso, non conoscono affatto il loro vero carattere. Mentre tutto il mondo parlava delle altalene finanziarie di Billies in quelle settimane agitate, lui non sentiva altro che un rumore confuso, simile al mormorio di onde lontane e deboli. Non gli interessava affatto; quel discorso aveva a che fare con l’Ufficio Postale, ma non collegò mai quella questione a Wilfrid Halterton, anche se sapeva che in quel momento suo amico era il responsabile dell’Ufficio Postale. Il nome di Halterton rimase nella sua memoria come simbolo di gratitudine eterna, radicato lì per metà della sua vita. Provava un tale disprezzo per tutto il mondo politico e viveva così distaccato da esso che non gli importava nemmeno ricordare quale incarico effimero quell’uomo stesse ricoprendo in quel momento. Per Arthur Lawson, Wilfrid Halterton rimaneva sempre lo stesso giovane impetuoso e appassionato che aveva considerato un vero eroe quasi quarant’anni prima, per il modo in cui aveva dimostrato tanta compassione verso suo fratello.
+
+Aver quel fratello al proprio fianco il più possibile era ormai l’unico obiettivo della vita di Lawson. Ogni fine settimana, durante il semestre, lo portava a Cambridge. Continuava a suggerire cose che si potessero fare con la sua ricchezza per dotare il college di attrezzature scientifiche; aveva già contribuito in modo significativo a questo scopo. Non si stancava mai di ascoltare tutto ciò che Jacob gli raccontava, dalle storie del dormitorio alle ultime novità nella ricerca fisica: cose che, se provenissero da altre persone, lo avrebbero annoiato profondamente.
+
+Ma sebbene Lawson, sulla cima di questa alta montagna della finanza internazionale, non si fosse mai preoccupato di Billie più di quanto si interessasse al prezzo del burro danese, non poteva ignorare ciò che stava accadendo nella Camera dei Comuni: le negazioni pubbliche dell’accusato, le attività della commissione e il processo stesso, soprattutto il processo. Era un argomento che lo annoiava, ma non poteva fare a meno di conoscere i suoi contorni principali, insieme a tutta l’Inghilterra.
+
+Quel fine settimana, dopo la conclusione delle difficoltà di Butler, Jacob sedeva come al solito con suo fratello. Era molto interessato a quella questione di cui tutti parlavano, un interesse che, in realtà, non aveva nulla a che fare con la politica, ma riguardava piuttosto gli sviluppi recenti della televisione. Arthur sarebbe stato sicuramente annoiato se qualcun altro avesse discusso di quell’argomento, soprattutto perché esso era, in qualche modo, legato agli aspetti negativi di Westminster. Ma per Jacob era altrettanto interessante quanto un libro avvincente. Qualsiasi cosa rendesse gli occhi acuti e brillanti di Jacob ancora più attenti veniva immediatamente assorbita dal fratello. Quest’ultimo ascoltava con interesse, faceva domande, si immergeva nella discussione come se stesse seguendo una trama complessa; ascoltò anche delle comparazioni tra i vari sistemi esistenti, e, incidentalmente, sentì menzionare il nome del brevetto di Dow.
+
+“Ecco il punto fondamentale,” stava dicendo Jacob. “Ecco il punto cruciale, Aaron.”
+
+Parlava con fervore, come un uomo che scorge un segnale lontano in mare.
+
+“È perché i Reynier avrebbero dovuto possedere i diritti di Dow che sono stati considerati gli unici candidati possibili. Ora, naturalmente, i Durrant hanno ottenuto il contratto. Non so perché; probabilmente sono più qualificati degli altri. Comunque sia, ora che i Durrant hanno il contratto, i Reynier dovranno vendere il brevetto di Dow ai Durrant, se lo possiedono ancora. Chiunque lo abbia, sarà costretto a venderlo ai Durrant. Non ci sarà alcun altro mercato possibile. Ma questo non è l’aspetto più importante: l’importante è davvero il brevetto di Dow stesso. Non è straordinario, Aaron, come le persone possano scoprire queste cose per caso? Tutto avviene puramente per coincidenza. Certo, senza pazienza e ricerca non sarebbe stato possibile, ma quando queste opportunità si presentano davvero, è una questione di fortuna. E poi, una volta che qualcuno le scopre, tutto diventa semplice da gestire. Inoltre, quando una cosa del genere viene trovata, rimane tale per sempre. Nove volte su dieci, nulla può sostituirla, ”
+
+“Non capisco perché una nuova invenzione non possa essere anche migliore di quella di Dow,” disse l’altro.
+
+Jacob scosse la testa.
+
+“Guardate qui,” disse, “vi leggerò un passaggio dalla descrizione di Colman; è il migliore che conosca. L’ho trascritto nel mio quaderno per le lezioni. È anche il libro più recente.” Lesse il passaggio; l’altro lo ascoltò attentamente. Questo sfortunato uomo, Dow, che era morto nella povertà e la cui patente era ora in possesso della Dow’s Limited, aveva scoperto proprio quell’intensificatore che rendeva possibile la televisione a lunga distanza su una base pratica.
+
+Professore Jacob Lawson, del Merrion College di Cambridge.
+
+“Sai, Jackey,” disse il fratello maggiore, “una persona come me, che non ha conoscenze specialistiche, non riesce a capire perché qualcosa di completamente nuovo e migliore non debba apparire prima o poi.”
+
+Jacob mise da parte il suo libro. “Forse, prima o poi,” disse. “Non si sa mai. Ma ci stanno lavorando da anni. E Dow è riuscito a risolvere il problema. Queste cose hanno spesso una soluzione definitiva. Ti ricordi il caso della batteria secondaria, Aaron? Risale al XIX secolo, più di due generazioni fa.”
+
+Arthur scosse la testa. Jacob trovava sorprendente che qualcuno potesse ignorare cose così elementari.
+
+“Mio caro Aaron!” disse, “sicuramente sai che fino ad oggi non è mai stato possibile trovare nulla di meglio. Sicuramente sai perché ancora oggi non esiste un sistema di accumulo energetico elettrico economico, leggero e duraturo. Sicuramente sai che se solo fossimo riusciti a trovarne uno, avrebbe cambiato il mondo, ”
+
+Arthur sorrise leggermente, ma felicemente, perché sorrideva solo per l’entusiasmo di suo fratello.
+
+“Non posso farci nulla, Jackey,” disse. “È troppo tardi per imparare. Ma credo in ogni parola che dici.”
+
+Poi continuarono a parlare della fortuna che accompagna le scoperte scientifiche: Jacob era entusiasta di queste scoperte, mentre Arthur si chiedeva perché non avesse detto una parola riguardo alla loro ricompensa; per quanto Aaron ricordasse, in pochissimi casi veniva davvero concessa una ricompensa.
+
+E da lì ripresero a parlare di quell’antico argomento: i soldi. Ma presto la conversazione si esaurì, perché ogni volta che quel tema veniva toccato, Jacob si ritirava in se stesso; era soddisfatto, assolutamente soddisfatto di ciò che aveva come membro del gruppo di Merrion. Gli bastava. E il fratello maggiore, per la cinquantesima volta, rinunciò a quel tentativo. Nel suo cuore, concordava pienamente: “Meglio una cena di erbe, ”. Solo che non lo diceva in inglese; lo diceva ancora sorridendo, nella lingua antica. E suo fratello gli sorrise a sua volta e rispose nella lingua antica: “Benedetto sia Dio”.
+
+Il giorno dopo, Arthur Lawson pensò di nuovo a Wilfrid Halterton, ma non in relazione alla conversazione riguardante il brevetto di Dow. La sua mente ancora non collegava le due cose. Ora capiva vagamente che la società Durrant avrebbe ottenuto il monopolio; suppose che fosse stata scelta per motivi validi. Comunque, Halterton era finito al centro dell’attenzione pubblica, e questo non era mai piacevole. Era suo dovere andare a trovare quel amico e congratularsi con lui per il suo successo.
+
+Non era trascorso molto tempo da quando aveva fatto l’ultima di quelle visite a casa di Halterton, per quelle conversazioni formali che ormai erano diventate un rituale nella sua vita. Era un po’ troppo presto per riprovarci nello stesso modo, ma pensò che le circostanze lo richiedessero.
+
+Dopo tutto, c'era stata un'accumulazione di problemi. Halterton ne era uscito molto bene, grazie alla sincera solidarietà dei suoi colleghi e, in realtà, anche del pubblico in generale. Ma queste situazioni rappresentavano una sorta di pressione; forse, pensò Lawson, una pressione maggiore per quelle altre persone rispetto a lui e ai suoi compagni, abituati ormai all'ostilità del mondo e resi indifferenti ad essa. Si chiese dentro di sé: come deve sentirsi? Forse qualcosa di simile a ciò che ricordava di aver provato tanti anni fa, da ragazzo, quando, dopo le offese dei gentili per strada – a cui ormai era abituato – scopriva che, tra i suoi compagni della piccola scuola elementare, qualche incidente gli aveva fatto perdere l'amicizia di alcuni di loro, rendendolo infelice per un giorno o due.
+
+In ogni caso, è evidente che debba rivolgersi a Wilfrid Halterton e assicurargli che la simpatia che tutti hanno provato per lui durante le sue recenti difficoltà è stata ancora più forte nei suoi confronti rispetto a qualsiasi altro. Deve congratularsi con Wilfrid Halterton per il sostegno generale che ha ricevuto e per la posizione più elevata nella vita pubblica che ne deriva necessariamente.
+
+Era in un tale stato d’animo quando, dopo aver preso appuntamento, arrivò e trovò Halterton da solo nel suo appartamento; immediatamente rimase scioccato dal cambiamento che aveva subito quell’uomo.
+
+Lawson non si disse che Halterton sembrava più vecchio. Non era proprio quello il problema. Anche se effettivamente sembrava più anziano – di dieci anni – era piuttosto il fatto che apparisse distrutto, segnato dal dolore. Mentre parlava, assumeva gesti nervosi; i suoi occhi non rimanevano mai fermi, le sue labbra erano contratte e quell’espressione tesa sembrava permanente.
+
+Inoltre, salutò Lawson con una calore del tutto inaspettato, proprio come fanno gli uomini quando si sentono ingiustamente trattati dal mondo e quasi abbandonati, e trovano davanti a sé un amico sincero. E Lawson, di natura riservata e sempre formale nel comportamento con Wilfrid Halterton, andò ben oltre le aspettative, stringendo la mano del Postmaster-General per un tempo molto più lungo del solito in un semplice saluto. Mentre la teneva, guardò profondamente negli occhi dell’altro, fino a far abbassare lo sguardo a Halterton stesso. Poi, proprio mentre Lawson stava per parlare, il Postmaster-General si sedette all’improvviso, come un uomo con un enorme fardello sulle spalle che non riesce più a mantenere l’equilibrio; si potrebbe quasi dire che il suo alto corpo crollasse nella sedia bassa. Si rialzò subito dopo, quasi con un sobbalzo, pronto ad arrossire per la sua mancanza di educazione.
+
+“Mi scusi davvero, caro amico,” disse. “Mi dispiace. Vede, non sono più me stesso.” Sospirò profondamente, quasi con un gemito. “Non sono più me stesso. Non so proprio perché mi sia seduto in quel modo, lasciandola in piedi. Ma si sieda pure, caro amico. Sono così felice di vederla.” Tese di nuovo la mano, dimenticando quasi di averlo già fatto poco prima. E questa volta Lawson la prese, e non la lasciò più andare.
+
+“Halterton,” disse (non lo chiamava mai Wilfrid), “Non mi aspettavo di trovarti in questo stato. Che cosa è successo? Sono venuto per farti i complimenti.”
+
+“Congratularti? Oh, mio Dio!”
+
+Nel silenzio che seguì, la mente estremamente veloce di Arthur Lawson lavorò al doppio del suo ritmo abituale. Ripassava rapidamente ciò che sapeva, quei dettagli trascurati dell’evento che gli erano giunti alle orecchie. E pensava di aver già capito metà della situazione.
+
+Gravissima prova spirituale per il Sottosegretario di Stato per le Poste, Onorevole Wilfrid Halterton.
+
+Quando parlava, usava una voce di cui quel conoscente di tre decenni non sapeva che fosse in grado di utilizzarla. Era una voce grave e profonda, carica di un affetto sincero; era la voce degli anni. E con quella voce, Arthur Lawson riuscì a dire cose di cui, solo un’ora prima, mentre si avvicinava alla casa, non avrebbe mai pensato di essere in grado di pronunciare. Il suo rituale quotidiano venne infranto, e ciò che disse fu questo:
+
+“Halterton, sai che qualsiasi cosa ti dica viene dal profondo del mio cuore? Ti fidi della mia saggezza?”
+
+Il Capo Postale annuì; anche se sollevare leggermente la testa e poi riabbassarla di nuovo poteva essere considerato un cenno d’assenso. Lo sguardo che in quel momento rivolse per un istante al viso dell’altro era pieno di approvazione. Provava tanto rispetto per la fortuna quanta chiunque altro; qualunque cosa potesse dire quest’uomo estremamente ricco doveva sicuramente essere saggia. Ma la saggezza di Arthur Lawson non aveva nulla a che fare con la sua fortuna. Era qualcosa che risaliva a generazioni precedenti, era stata temprata dal dolore e rafforzata dall’isolamento.
+
+“Quello che voglio dirti è questo: devi parlare. Lo vedo chiaramente, come se tu mi avessi già raccontato cose di cui non so nulla. Questo è il mio consiglio: devi parlare, devi dirlo a qualcuno. E credimi” (non aveva mai parlato così apertamente in vita sua, nemmeno con uno dei suoi stessi compagni) “non c’è nessuno con cui potresti parlare più liberamente e chiaramente di me. Sai che tutto ciò che ho è a tua disposizione. Ma questo non significa nulla. Quello di cui hai bisogno è una parola da parte di un uomo che conosce bene gli uomini. Non si tratta certo di una conoscenza piacevole. Se non la possiedi, sei fortunato: è l’albero della morte. Ma coloro che la possiedono possono aiutarti. E anche tu puoi aiutare te stesso. Ma c’è solo un modo: dimmi tutto.”
+
+C'erano almeno venti uomini, forse addirittura cinquanta; Wilfrid avrebbe potuto dirvi che li conosceva molto meglio di Arthur Lawson. C'era stato un uomo dopo l'altro a cui aveva detto questo o quello. Aveva raccontato troppo a Jack Williams; si era lamentato con quel collega e con quel parente. Ma tutto ciò lo aveva solo trascinato più profondamente nel fango. Avrebbe voluto non aver mai avuto a che fare con la vita politica. Avrebbe voluto liberarsene ora. Ma non osava farlo. E in mezzo a tutto questo, c'era sempre quella forte sensazione di ingiustizia.
+
+Gli era stato sottratto ciò che gli spettava. Aveva dato ciò che doveva dare, e proprio per questo erano venuti da lui; e con un trucco abominevole gli era stata rubata anche la sua parte dell’accordo. Peggio ancora, si sentiva permanentemente in potere degli altri.
+
+Quando parlava, era a causa di questa amarezza che fermentava dentro di lui e aveva raggiunto il punto di esplodere. Si alzò, con le mani in tasca, e cominciò a camminare avanti e indietro nella stanza, con un'espressione di disperazione lunga e cupa; mentre camminava, continuava a parlare. Gli raccontò tutto: dell’accordo, che Lawson, essendo una persona di mondo, trovò abbastanza ragionevole. Aveva sentito parlare di cinquanta accordi del genere tra politici e il mondo finanziario. A volte non si riusciva nemmeno a capire quale fosse la verità, pensava, visto quanto fossero intrecciati Parlamento e affari finanziari.
+
+Halterton gli raccontò dell’appropriazione della lettera, della conversazione avuta con Williams, di tutto ciò che aveva sofferto da allora; gli spiegò quanto profondamente avesse risentito del fatto che Williams continuasse ad avere una relazione amichevole con McAuley – i due uomini trascorrevano più tempo insieme che mai. Gli confessò anche di quanto si pentisse di essere andato da Williams. Quando finì, Arthur Lawson non solo sapeva cosa era accaduto, ma anche cosa bisognava fare.
+
+“Non so dirvi quanto sia felice che abbiate parlato, Halterton,” disse. “Ora vi darò un altro consiglio. Pensate di accettarlo?”
+
+“Sì, certamente,” disse Halterton. “Posso fidarmi di te, grazie a Dio!” aggiunse amaramente.
+
+“Beh, il consiglio che ho da darvi è molto semplice: restate calmi per qualche giorno e lasciate che me ne occupi io, va bene?” Disse questo con un sorriso appena percettibile, ma con grande fiducia in sé stesso nonostante quel sorriso.
+
+“Lasciami pensare. Oggi è domenica. Non aspettatevi di ricevere mie notizie prima di mercoledì, o forse più tardi. Ma non molto più tardi, se conosco bene le abitudini locali. E credo di conoscerle.”
+
+Wilfrid Halterton ne era ancora più convinto. Era assolutamente certo che persone con milioni e milioni di dollari sapessero come funzionavano le cose. Forse questo era il principio più fondamentale nella sua credenza. E tale certezza era ancora più radicata perché lui stesso non aveva la minima idea di come funzionassero realmente le cose.
+
+Arthur Lawson era un uomo che, una volta presa una decisione, doveva agire immediatamente. In passato si era rimproverato per la propria impazienza; dopo uno o due fallimenti causati da essa, aveva capito che quell’intenso desiderio di agire subito dopo aver raggiunto una conclusione intellettuale, nel complesso, gli era stato molto utile.
+
+“Ora torno a casa, Halterton,” disse alzandosi. L’altro si alzò insieme a lui e ancora una volta si tennero per mano.
+
+Questa volta Arthur Lawson fece qualcosa di così insolito che segnò una sorta di epoca nella vita dell’altro uomo; anche lui, quando scoprì ciò che stava facendo, rimase stupito. Posò la sua mano sinistra su quella dell’altro, che quest’ultimo stringeva con la destra, e la lasciò lì, proprio come un uomo potrebbe farlo nei momenti più solenni di giuramento di lealtà e servizio. Quel gesto durò meno di dieci secondi; poi fu finito, e non si ripeté mai più. Gli uomini erano anziani, non avevano mai condiviso un momento del genere prima; ma alla fine di quei dieci secondi, Halterton si sentì come un uomo insonne quando finalmente si addormenta; come un uomo che sta annegando e che improvvisamente respira di nuovo l’aria fresca. Il suo viso sembrava rinnovato.
+
+Aaron Levina stava per compiere qualcosa che potesse essere estremamente proficuo per il suo cuore solitario. La sua isolazione non era stata rotta; rimaneva ancora ciò che era stato prima di quell’ breve incontro. Ma sentiva che, almeno con uno di quei “Goyim”, l’unico tra loro verso cui avesse mai provato vera devozione, aveva stabilito un legame. Non importava. Non ne avrebbe stabiliti altri. Apparteneva al suo popolo. Cosa aveva da fare con quelle folle esterne? Ma avrebbe salvato Wilfrid Halterton.
+
+XVI
+
+La prima cosa che Arthur Lawson fece quando tornò a casa fu riprendere a interrogare suo fratello riguardo a Dow’s. Il suo piano era già pronto e stava preparando il primo passo per attuarlo. Ma Jacob non riuscì a dirgli ciò che voleva sapere. Lo scienziato ribadì ancora una volta l’assoluta necessità del brevetto di Dow’s, ma non aveva nulla di nuovo da aggiungere, se non enfatizzare ulteriormente il concetto. Non esisteva nessun rivale: c'erano molti altri dispositivi in grado di funzionare bene a breve distanza, ma la questione non riguardava l’aumento della potenza né lo sviluppo su larga scala. Per le lunghe distanze era necessario un principio completamente diverso; e solo Dow’s aveva risolto quel problema.
+
+Per quanto riguarda l’emergere di un’alternativa, non c’erano segni in tal senso, e non riusciva a capire come, data la situazione attuale delle conoscenze, fosse possibile che ne emergesse qualcuna nel prossimo futuro. Queste scoperte avvengono casualmente, ma sempre seguendo un certo insieme di condizioni note; sono il risultato di processi precisi. Non esisteva ancora alcun insieme di condizioni conosciute in grado di produrre qualcosa che non fosse già coperto dal brevetto di Dow.
+
+Allora Arthur Lawson chiese di nuovo, una domanda che dimostrava quanto fosse completamente immerso nel proprio mondo, e quanto poco conoscesse quello del suo erudito fratello, verso il quale provava per questo motivo un profondo rispetto. La domanda che Arthur Lawson pose fu questa: “Pensi che i Dow siano destinati a rimanere legati ai Reynier, Jackey?”
+
+“Mio Dio, Aaron, intendo Arthur!” (e sorrise), “Mi dispiace. Questo è più un argomento che riguarda te che me. La gente diceva sempre che la famiglia Reynier avesse qualcosa di speciale, ma io non ho mai visto alcuna prova, né ho sentito nessuno parlare di prove concrete. Hanno un ufficio indipendente, anche se questo non significa molto.”
+
+Arthur Lawson rifletté.
+
+“Bene, Jackey,” disse finalmente. “È tutto ciò che volevo sapere. Comunque, se la Durrant’s ha ottenuto il contratto – e ora tutti sanno che l’hanno davvero – non resta altro che il voto, e questo è ovvio. Poiché la Durrant’s possiede il contratto, non esiste più alcun altro mercato a cui potrebbero rivolgersi nemmeno i Reynier’s. Se i Reynier’s controllano la Dow’s, dovranno vendere alla Durrant’s o fondersi con loro. E vorranno ottenere il prezzo che desiderano.”
+
+“Immagino di sì,” disse Jacob, alzando le spalle e tornando a dedicarsi al suo lavoro amato. “Non è il genere di cose che io riesca a capire.”
+
+Arthur Lawson guardò l'orologio: non erano ancora le sette, quindi avrebbe potuto catturare quell’uomo che voleva. Quell’uomo si vestiva con cura, ogni sera. Ma non lo faceva prima delle sette. Arthur Lawson suonò il campanello, diede il numero al servitore e aspettò.
+
+* * *
+
+L’uomo che Arthur Lawson voleva, l’uomo che desiderava assolutamente subito, perché il tempo era tutto, l’uomo che doveva mettersi al lavoro immediatamente – perché la mattina dopo sarebbe stato lunedì e il lavoro del mondo avrebbe iniziato – era un certo giovane gentiluomo piuttosto corpulento, ben vestito e dall’aspetto noioso, di nome Guy des Cuoyes (che, come è giusto, rima con “sepoy”).
+
+I des Cuoyes erano isolani del Canale della Manica e molto orgogliosi delle loro origini. Ci si può fare un’idea di questo dal loro insistere nell’utilizzare la piccola “d” nel cognome; e Cuoyes, vi assicuro, è davvero un luogo esistente, anzi due luoghi: Cuoye le Grand e Cuoye le Petit, situati in una zona selvaggia della regione del Cotentin. Tuttavia, per generazioni i des Cuoyes non hanno posseduto alcuna proprietà in questi villaggi. Avevano lasciato la Francia per Jersey a causa delle turbolenze religiose di due secoli e mezzo fa.
+
+Il padre di Young Guy des Cuoyes, il generale, aveva fatto la cosa giusta per lui: lo aveva iscritto alla propria vecchia scuola e poi l’aveva mandato all’università. Poiché l’unica sua fonte di reddito era il riconoscimento dei suoi meriti da parte del suo paese grato per il lavoro svolto in India, tale reddito cessò con la sua morte. E poiché egli era deceduto poco dopo che Guy aveva lasciato Oxford, più di sette anni prima, il giovane si trovò a [[settings/london|Londra]] con tutte quelle eccellenti abitudini che l’università insegna ai suoi studenti più promettenti, ma senza i mezzi finanziari necessari per mantenerle.
+
+Si era ripreso più o meno, e questo era anche meglio visto che non aveva parenti stretti. Fu il padre di un suo amico, un amico che aveva conosciuto a Oxford, ad dargli questa opportunità: un'opportunità insolita, ma sufficiente. Gli fu offerto un posto nell’ampia attività commerciale di quel padre, la cui attività principale consisteva nell’acquisto e nella vendita di case; inoltre, gli veniva chiesto di fornire consulenze riguardo alla ristrutturazione degli immobili o alla progettazione dei giardini, e altro ancora.
+
+Ma la particolare attività di giovane des Cuoyes non aveva nulla a che fare con tutto ciò. Era un’altra branca del suo lavoro, in cui lavoravano solo altri due uomini insieme a lui, e per la quale riceveva una retribuzione particolarmente elevata. Il suo compito era scoprire informazioni. Aveva abbastanza intelligenza; ma ciò che è ancora più importante in queste situazioni dell’intelligenza è l’impegno, nascosto dietro l’apparenza di un normale studente delle scuole pubbliche. Non aveva potere decisionale, ma possedeva qualcosa che gli veniva quasi dopo: e cioè (una cosa del tutto compatibile con l’impegno), una noia perpetua, in parte simulata ma molto reale, o, per dirla in altro modo, una mancanza di entusiasmo; inoltre, e questo è ancora più importante, non aveva eccessi di affetto. Inoltre, possedeva quasi la cosa più importante in quel mestiere: un’ampia e solida rete di contatti. Infine, aveva ciò che è davvero fondamentale: un aspetto esteriore imponente; era alto, biondo, con una voce lenta e occhi altrettanto lenti, e si vestiva in modo elegante.
+
+Guy des Cuoyes non lavorava da questo datore di lavoro da nemmeno due anni e stava andando abbastanza bene quando incontrò Arthur Lawson. Arthur Lawson ebbe bisogno di fare alcune indagini; sapeva dove rivolgersi per ottenerle. L’azienda aveva inviato proprio des Cuoyes. Scoprendo, come fece subito Lawson, quali fossero i talenti del ragazzo, purtroppo (ma Arthur Lawson non aveva alcun rimorso in queste cose), lo assunse direttamente, bypassando il suo datore di lavoro originale.
+
+L’operazione fu svolta in modo da gentiluomo, almeno per quanto riguardava des Cuoyes. Il giovane informò il suo datore di lavoro che aveva ottenuto un considerevole reddito privato e che, pertanto, avrebbe potuto vivere da gentiluomo; anzi, si sentiva proprio nato per quel tipo di vita. Non avrebbe più dovuto lavorare. Quella scusa presentava anche il vantaggio di coprire le sue tracce: ora poteva condurre le sue indagini con un camuffamento ancora migliore di prima. Dopotutto, non era forse un giovane gentiluomo con parecchi soldi che non aveva altro da fare se non spendere il proprio denaro in città? Le condizioni proposte da Arthur Lawson soddisfacevano entrambi e riflettevano appieno le caratteristiche del più anziano dei due. Gli promise uno stipendio fisso e regolare, oltre a un compenso aggiuntivo per ogni lavoro svolto. Aveva delle ragioni per farlo, ragioni valide, che si rivelarono efficaci.
+
+Considerando tutto ciò, Guy doveva essere costantemente a disposizione del suo datore di lavoro. Il suo tempo era rigorosamente pianificato; i suoi momenti di svago erano precisi, proprio come le ferie di un soldato: al di fuori di quegli intervalli ben organizzati, doveva essere sempre reperibile, pronto a rispondere al telefono in qualsiasi momento; inoltre, doveva comunicare ogni sua mossa, in modo da poter essere trovato all’istante. Persone nella posizione di Arthur Lawson possono permettersi simili lussi, e questi valgono sicuramente il prezzo che si paga per loro.
+
+In questa occasione il compito era molto particolare: Guy des Cuoyes non doveva soltanto scoprire certe informazioni, ma anche attuarle immediatamente e con la massima rapidità possibile. Entro un quarto d’ora dall’avere ricevuto la chiamata in quella domenica sera, si trovava nella piccola stanza sul retro della casa dove Arthur Lawson sbrigava quelle rare questioni private che preferiva trattare sotto il proprio tetto; parlava con il suo datore di lavoro con tale naturalezza che chi li avesse visti avrebbe pensato fossero uguali. Arthur Lawson apprezzava molto questa relazione: in realtà, tra le molte cose che disprezzava, quella abitudine diffusa intorno a lui di considerare il rango sociale come una conseguenza della ricchezza era quella che odiava di più. Tra tutte le qualità che ammirava, l’efficienza nel lavoro – soprattutto in un compito del genere – occupava uno dei primi posti; al primo posto, però, c’erano le arti e la cultura.
+
+Una battaglia stava per iniziare, e tempo, tempo, tempo. Il tempo e l’accuratezza erano le condizioni necessarie per la vittoria. Quindi Lawson fu breve e molto diretto nel suo discorso.
+
+“Amico,” disse, “hai mai sentito parlare del brevetto di Dow?”
+
+“Le persone del settore televisivo?”, disse Guy. “Sì.”
+
+“Lo sai cosa sono?”
+
+“No.”
+
+“Beh, non importa. Quello che devi fare ora è questo: hai un taccuino? Non scriverci in chiaro, usa lo stesso codice che stavi usando prima.”
+
+Guy des Cuoyes sorrise appena, come fanno i giovani impiegati quando i loro datori di lavoro gli dicono qualcosa che in realtà già consideravano scontato. Tirò fuori il suo libretto e la sua penna. Lawson continuò.
+
+“Primo: scoprire chi realmente possiede Dow’s. Alcuni dicono che sia indipendente, altri che appartenga ai Reynier. Potrebbe essere qualcosa a metà strada tra le due ipotesi. Capire esattamente la situazione. Secondo: comprarlo.”
+
+Guy des Cuoyes, appoggiato comodamente alla poltrona, alzò leggermente le sopracciglia, come se volesse porre una domanda.
+
+“Compratelo,” insistette Lawson con forza. “A qualsiasi condizione. Offrite quello che volete.”
+
+Il ragazzo iniziò a parlare.
+
+“No,” intervenne Lawson. “Non spreciamo tempo su questo argomento. Se loro propongono un prezzo, pagalo; se vogliono che tu ne stabilisca uno, usa il tuo giudizio e aggiungi il quindici percento in più rispetto a quello che pensi possano aspettarsi. Fai tutto per iscritto e portamelo qui. Ma ascolta bene, Guy” – Arthur Lawson si sporse in avanti, con un’espressione preoccupata – “Devo avere tutto per iscritto entro domani sera, lunedì. Qui, prima di cena. Entro quest’ora. Non c’è un minuto da perdere. Meglio che tu inizi subito stasera e continui domani mattina all’alba. Aspetta. C’è ancora qualcos’altro: devi scoprire il più possibile su Durrant’s Television e sul contratto. Fino a che punto sono arrivati. Questo è tutto. No, non è tutto,” aggiunse, rilassandosi di nuovo. “Ti dirò dove entrare tu nel progetto. Avrai cinquecento dollari in contanti quando mi porterai quel documento da Dow’s; altri cinquecento quando il mio piano sarà completato. Ora sai tutto.”
+
+Era quattro volte di più di quanto Guy avesse mai avuto prima, anche per il lavoro più importante; se si fosse permesso di mostrare anche solo un minimo di sorpresa, l'avrebbe fatto in quel momento. Ma non lo fece. Accettò tutto con la stessa calma con cui accettava ogni altra cosa. Perché affrontava tutto questo con la sua straordinaria indifferenza. Quelle cose sembravano passargli completamente inosservate sopra quella grande testa bionda, con quell’espressione apatica e soddisfatta: vuota agli occhi degli osservatori, ma piena dentro di lui.
+
+“Ecco,” disse Lawson alzandosi; anche Guy si alzò, più lentamente di lui. “Questo è davvero tutto. Ora lo sai, e non c’è bisogno che parliamo ancora.”
+
+“Va bene così,” disse Guy, con il tono di un uomo che concede un favore, stringendo la mano con tanto calore quanto lo permettevano il suo rispetto per se stesso e le tradizioni della scuola pubblica. Uscì lentamente, aspettando che l’uomo in livrea venisse ad aprirgli la porta d’ingresso, poi proseguì con grande tranquillità lungo le strade di Mayfair.
+
+Il giorno dopo, lunedì, arrivò alla solita ora il messaggio atteso, e subito dopo arrivò anche la persona attesa a casa Lawson. Purtroppo devo dire che Lawson aveva cambiato il suo vecchio nome; ma dopotutto, possedeva venti volte più ricchezza del precedente proprietario.
+
+Des Cuoyes aveva con sé, nella tasca, con estrema noncuranza, un pezzo di carta scritto da un altro uomo; attaccato ad esso c'era anche una pagina intera di dichiarazioni dattilate e firmate. Si sedette di nuovo su quella sedia bassa che gli era familiare, e Arthur Lawson, alzandosi sul tappeto, lesse entrambi i documenti che gli erano stati consegnati. Il primo, scritto con una grafia sconosciuta, lui lo diede un’occhiata per verificare che fosse ciò che cercava, e annuì con soddisfazione.
+
+Poi lesse attentamente il documento scritto a macchina. Quindi tirò indietro un piccolo mobile di stile Meissonier posizionato a sinistra del camino (i mobili di stile Meissonier erano tornati di moda). Quel mobile copriva l’apertura di un piccolo armadietto, di quelli in cui le persone mettono i sigari per mantenerli al caldo e asciutti. Anche Arthur Lawson teneva lì una scorta di sigari – e occasionalmente anche altre cose. Da lì prese un involucro, lo aprì, verificò il contenuto delle note, le consegnò a Guy des Cuoyes; e Guy des Cuoyes, non volendo essere da meno in cortesia, si alzò davvero dalla sedia e, mentre prendeva l’involucro, disse: “Grazie.”
+
+“Hai svolto quel compito molto bene,” disse Arthur Lawson.
+
+“Grazie,” disse Guy, appoggiandosi di nuovo allo schienale della sedia.
+
+“Com’è fatto?” chiese Arthur Lawson.
+
+“È uno di quegli uomini strani di cui nessuno parla mai. Vive in una casa enorme a Bayswater e compra sempre un sacco di cose. Ha quasi una sorta di collezione, una specie di “zoo”. Ne ho sentito parlare molto: è stato lui ad essere pungolato per via del giroscopio Hegguy, ma è riuscito a tornare a casa grazie all’apparecchio subacqueo Bailen Deep-Sea. Quello ha avuto successo, sai? Poi, per un po’, è stato coinvolto in qualche progetto legato al gruppo Palatine Group Hotels. Non so cosa ne abbia ricavato. Comunque, ha sempre mille cose in corso allo stesso tempo.”
+
+“Voglio dire, com’è fatto?” disse Lawson.
+
+“Ah, semplicemente grasso,” disse Guy con tono strascicato. “Come un maiale… Cosa?”
+
+“Non c’era dubbio su Reynier…”
+
+Guy scosse lentamente la testa in segno di negazione. “Non è mai successo,” disse. “Conosceva bene il suo mercato; stava aspettando il momento migliore per agire. Durrant e gli altri erano sicuri, non avevano alcuna fretta.”
+
+“Eravamo,” disse Arthur Lawson in silenzio.
+
+“Sì,” disse Guy.
+
+“Ho sentito un'altra cosa,” disse Guy. “I Durrant domani andranno da Reynier e gli faranno un’offerta per questo brevetto dei Dow. Che grande opportunità, no?”
+
+Lawson aggrottò la fronte, cercando di decifrare la firma presente sul promemoria scritto davanti a lui.
+
+“Scrive pugni impossibili,” disse.
+
+“Sì… si potrebbe quasi pensare che fosse un uomo istruito, ma in realtà non lo è.”
+
+“Non riesco a leggere il nome.”
+
+“Niente di ciò che ti aspetteresti”, disse Guy. “Il nome è Murphy… F. X. Murphy.”
+
+“A cosa serve X?”
+
+“Xavier,” disse brevemente Guy.
+
+“Strano,” borbottò Lawson con espressione preoccupata.
+
+“Non importa,” disse Guy.
+
+“Hai ragione,” disse Lawson. Ripiegò il documento importante, il memorandum, e lo mise nel portafoglio.
+
+“Beh, è finita,” disse Guy alzandosi per andarsene, con quell’agilità che già lo aveva reso benestante e che alla fine lo avrebbe reso ricco.
+
+“Non proprio,” disse Lawson. “Aspetta un attimo… E cosa succede con la conclusione della vendita di Dow?”
+
+“Completlerà subito,” disse des Cuoyes. “Ha detto che potrebbe farlo entro la fine della settimana. Che ne dici di giovedì?”
+
+“Lo vorrei il giorno dopo domani,” disse Lawson. “Potete portarmelo qui a quest’ora, il giorno dopo domani?”
+
+“Certo,” disse Guy. “È solo una questione di soldi. E sono i tuoi soldi. Anche un avvocato si affretterà per ottenere i suoi soldi.”
+
+“Voglio solo la prova di trasferimento entro mercoledì,” disse Lawson. “La voglio entro mercoledì, prima che chiudano gli uffici. Mandatela qui – non è necessario che veniate personalmente. Finché ho la prova di trasferimento, le formalità possono aspettare.”
+
+Allora des Cuoyes, che era un po’ ansioso per il momento del suo trucco e aveva già iniziato a guardare l’orologio, decise davvero di andarsene, ma fu trattenuto ancora per un minuto.
+
+“A proposito, Guy, c’è un’altra cosa importante da dire. Se te la dico ora, ti eviterà di dover tornare qui. Conosci Jack Williams, il Ministro dell’Interno? E conosci anche McAuley di Durrant’s?”
+
+“Li ho incontrati entrambi,” disse Guy. “Williams ha un certo ascendente su J. Ma non so di cosa si tratti. Potrei scoprirlo.”
+
+“Sono sicuro che potresti farlo,” disse Lawson.
+
+“Prova a portarli a cena giovedì, se possibile; altrimenti, il prima possibile. A quel punto avranno già superato la delusione per Reynier, quindi saranno comunque curiosi riguardo a Dow. Prenota un tavolo alle 20:30 al Palatine. Dì loro che vuoi parlare con loro di Dow. E fai capire loro chiaramente che sei tu l’uomo in grado di risolvere la questione. Capisci?”
+
+“Ah sì,” rispose Guy con calma.
+
+“Molto bene. Ora, quando avrete preparato un tavolo, deve esserci una sedia vuota. E niente parole su di me, capite? Ci vedremo prima, e vi dirò dove e quando verrò.”
+
+“Giusto,” disse Guy. E con la velocità massima che si permettesse mai, uscì di casa, ritardando soltanto il tempo necessario affinché quel subalterno dorato avesse il tempo di aprire la porta esterna; poi, ancora una volta, si incamminò tranquillamente lungo le strade di Mayfair verso il suo bagno, i suoi vestiti felici e la sua serata gioiosa. Che cosa?
+
+XVII
+
+All’ora prestabilita, le dieci di quella mattina di martedì, Arthur Lawson apparve nell’appartamento di James McAuley e fu accompagnato nel suo studio. Fu un momento importante per J.: lui era una figura importante nel suo ambiente, ma Lawson era come una montagna rispetto a lui; e secondo gli standard che per McAuley rappresentavano l’unico criterio valido nell’universo – standard che per Lawson non valevano più della polvere, e che egli disprezzava tanto quanto tutti coloro che li seguivano – Lawson era, agli occhi di McAuley, un uomo da venerare, un uomo che necessariamente possedeva poteri quasi illimitati.
+
+Quanto gentilmente fu accolto Lawson! Quasi con la deferenza di un cortigiano, anche se una tale deferenza è difficile da dimostrare da parte di persone non addestrate a farlo; quasi con le cortesie tipiche di una Corte, anche se tali cortesie sono difficili da mantenere per chi non ne ha l’abitudine. Naturalmente gli fu chiesto di sedersi subito, e ovviamente tutto era stato preparato apposta per lui.
+
+Ma Arthur Lawson nemmeno voleva sedersi. E il suo viso non mostrava alcun segno di rilassamento. Non aveva alcun motivo particolare per essere cortese, e tantomeno aveva intenzione di trascorrere un minuto in più del necessario. Era venuto come nemico, o come giudice, o come boia.
+
+“Non ho bisogno di trattenervi nemmeno un momento, signor McAuley,” disse lui, con indifferenza e in piedi dritto. “Sono qui per una questione molto semplice. Potrebbe gentilmente darmi la lettera che poco tempo fa ha consegnato a mio amico il signor Wilfrid Halterton, Postmaster-General, per poi rubarla dal suo possesso?”
+
+James McAuley fece un calcolo molto rapido; e sono orgoglioso di dire che, per onore delle finanze britanniche, rifiutò di reagire alla parola “rubato”. Non cambiò nemmeno colore di fronte all’accusa generale. Non si arrabbiò, ascoltò la breve frase di Arthur Lawson come avrebbe potuto ascoltare un semplice saluto.
+
+Quello che passò per la mente del finanziere avvenne così rapidamente che la frase che sto scrivendo qui appare lenta rispetto al flusso dei suoi pensieri. Tuttavia devo descrivere quel processo per spiegare ciò che seguì. In quel momento, James McAuley stava lavorando, nella sua grande mente, su questi concetti.
+
+“Quest’uomo possiede una ricchezza infinita; quindi ha anche il potere di farmi del male in qualsiasi modo. Sa parte della verità, ma non tutta. Se riuscissi a distinguermi, e correre un rischio per farlo, ci sarebbe una grande fortuna ad aspettarmi, anche se minore di quanto sperassi. Potrei ottenere forse solo un terzo del nuovo patrimonio che verrà creato con questa operazione. Non posso dare questa lettera a quest’uomo: non l’ho ancora. Se gli dicessi dove si trova, attirerei su di me i problemi e questi colpirebbero Williams. Non mi dispiacerebbe, come forma di soddisfazione personale. Ma inoltre, Lawson, una volta salvato il suo amico Halterton, potrebbe offrirmi condizioni migliori di quelle che Williams sarebbe disposto a darmi. Dopotutto, appartengo a Durrant e di fatto possiedo anche Dow. Devono venire da me. Non appena otterrò quella promessa scritta, il che è certamente possibile se Lawson esercita tutta la sua influenza su Williams, gli dirò tutto.”
+
+Pensare a tutti questi passaggi sembra una cosa lunga e complessa, ma in realtà non ci fu quasi alcuna pausa tra la domanda di Lawson e la risposta di McAuley. Ecco quindi la risposta.
+
+“Non ha senso che mi chieda e mi guardi in quel modo, signor Lawson. Non ho quel documento. Non ho nemmeno l’altro documento. Né ho ricevuto la lettera di Halterton. Il signor Williams, il Ministro dell’Interno, li ha tutti. Non dirò come, ma è un uomo astuto.”
+
+Fu il turno di Arthur Lawson di fare una pausa.
+
+“Non mi sta ingannando, signor McAuley. Lo posso vedere. Potrebbe per favore verificare dove si trovi il signor Williams in questo momento? Potrebbe dirgli che il signor Arthur Lawson – lui conoscerà il mio nome – desidera parlargli immediatamente. Per questioni relative alla nuova legge sulla televisione.” McAuley sorrise cordialmente e annuì.
+
+“Sì, signor Lawson, lo farò subito. Andrò alla linea privata nella stanza accanto, adesso stesso.”
+
+“Verrò con te,” disse il signor Lawson.
+
+McAuley sorrise di nuovo, perché non gli piaceva quella situazione. Entrarono insieme nella stanza accanto, e Lawson ascoltò attentamente mentre McAuley chiamava il Ministero dell’Interno.
+
+“Il signor Williams è in casa?. Sì, è qui? Potrebbe chiedergli di venire al telefono per parlare un attimo con il signor McAuley. Il signor James McAuley.” J. aspettò pazientemente, sorridendo ancora una volta verso quel volto serio sopra di lui, ma non ricevette né un sorriso in risposta né una parola. Poi la [[motifs/machine|macchina]] ricominciò a funzionare. “Eh? Sei tu, Jack? C’è il signor Arthur Lawson, sai, il signor Arthur Lawson, vuole parlarti di quella questione nostra. No, non aspetterà, è già in viaggio. Mi ha chiesto di avvisarti. Devi essere lì. Te lo dico, è assolutamente necessario. Bene, sì, è tutto. Capirai quando lo incontrerai e non rimpiangerai di aver fatto come ti ho detto. Sarà con te adesso. No, non è con me. Sta venendo da te.” Riattaccò il ricevitore.
+
+Come anche un finanziere possa diventare antisemita.
+
+“Vi aspetterà, signor Lawson,” disse.
+
+“Grazie,” disse il signor Lawson, e si diresse verso la porta. James McAuley lo seguì nel corridoio fino alla porta esterna dell’appartamento. La aprì per quell’uomo importante con un inchino, rimase lì in piedi, ancora sorridente, e tese la mano. Ma Arthur Lawson non accettò quella mano.
+
+“Buongiorno,” disse.
+
+McAuley, con la prima prova che aveva eseguito quella mattina, sbatté la porta. E in dieci minuti Arthur Lawson arrivò al Ministero dell’Interno.
+
+Aveva incontrato entrambi questi uomini, naturalmente, in modo del tutto casuale. Li aveva riconosciuti, ma solo superficialmente e senza interesse; li aveva inseriti nella categoria dei “politici” nella sua mente rigida e schematica: uno per professione, l’altro per relazione; tuttavia, faceva una chiara distinzione tra loro in termini di carattere. Si aspettava che Williams lo accogliesse in modo molto diverso da come era stato accolto da McAuley. E aveva ragione.
+
+Un uomo meno astuto avrebbe potuto aspettarsi che McAuley avvisasse e armasse il proprio compagno; ma Lawson lo sapeva meglio. Capiva perfettamente perché McAuley aveva ceduto; perché aveva rivelato dove si trovavano quelle due lettere fatali.
+
+McAuley si era consegnato alla mercé di Lawson. Ma Lawson non credeva che Williams avrebbe ceduto, proprio come aveva fatto McAuley. Ci sarebbe stata una lotta. Ma Lawson aveva le carte vincenti; per McAuley, invece, si trattava soltanto di un cambio di padrone. E di un cambio che lui stesso aveva preferito.
+
+Il Segretario dell’Interno ricevette Arthur Lawson nella sua grande stanza. Era seduto sulla sua sedia ufficiale, dietro la sua enorme scrivania; l’ambiente circostante, con tutta la pompa e la maestosità tipiche del suo ufficio, lo rendeva davvero autorevole. Non si alzò in piedi per accogliere il visitatore; lo salutò con cortesia e gli fece segno di sedersi su una sedia, ma per la seconda volta quella mattina Arthur Lawson rifiutò di accomodarsi.
+
+“Cosa posso fare per lei, signor Lawson?”, disse Williams, utilizzando quel tono piuttosto cortese ma impersonale che questi uomini di alto rango adottano quando devono essere consultati su questioni molto importanti.
+
+“Sono venuto per dirvi questo, signor Williams,” rispose Lawson in tono calmo, ma con sillabe chiare e nette. “Sono venuto per ottenere da voi due documenti che si trovano in vostra possesso; presumo che li abbiate ottenuti tramite frode. Vi sarei molto grato se me li consegnaste il prima possibile, poiché ho molte cose da fare questa mattina. Uno di questi documenti è l’impegno preso dal mio amico, il signor Wilfrid Halterton, Postmaster-General, nei confronti del signor James McAuley – che ora posso considerare vostro socio – in cui promette di assegnare la commissione per il nuovo progetto televisivo alla Durrant’s Company; l’altro è la lettera firmata dal signor McAuley, nella quale promette al signor Halterton la carica di Amministratore Generale della nuova Television Corporation, con uno stipendio elevato e esente da tasse.”
+
+Disse molte cose, e tutte pertinenti al tema.
+
+“Non posso convincerla a sedersi, signor Lawson?”
+
+“No, grazie. Non ho alcun dubbio, signor Williams, che questi documenti siano ora in suo possesso. Per favore, me li consegni.”
+
+Jack Williams incrociò le braccia sul tavolo, alzò lo sguardo in modo deliberato e serio verso il volto di quel grande finanziere.
+
+“Lei ha una completa errata comprensione delle cose, signor Lawson. Non dirò altro. Ho molta esperienza in queste situazioni; non è certo la prima volta che mi imbatto in un malinteso nella mia vita. Lei ha davvero una totale errata percezione della realtà. Se desidera intraprendere qualche azione al riguardo, posso solo consigliarla di rivolgersi direttamente al signor Halterton e al signor McAuley. Sono loro i responsabili principali di questa questione, e io non ho alcuna responsabilità in merito.”
+
+“Quello,” disse Arthur Lawson con indifferenza, “è una menzogna. Per favore, dammi quei documenti.”
+
+Purtroppo devo dire che il signor John Williams, nonostante tutti quegli anni di esperienza nella retorica elevata della vita pubblica, nonostante la sua vasta conoscenza del grande mondo in cui egli stesso era una figura così importante, ha reagito negativamente a quella parola: “menzogna”.
+
+Non sembra credibile, e tantomeno si può dire che io stia rendendo giustizia a uno dei nostri primi statisti. Ma lui ha reagito a quella parola e si è tradito. Si è smascherato da solo.
+
+“Non potrà averli, signor Lawson,” disse arrabbiato. E con quel suo sguardo deciso, la questione fu chiaramente risolta.
+
+“Hai ammesso di averle e rifiuti di darmele, adesso stesso?” disse Lawson.
+
+“Rifiuto assolutamente di darveli in qualsiasi momento,” disse il signor Williams. “E se coloro che ho l’onore di consigliare accettano il mio parere – e sono abbastanza sicuro che lo faranno – non avranno più nulla a che fare nemmeno loro con voi, signor Lawson.”
+
+“Pensaci bene prima di agire, signor Williams,” disse Lawson, facendo un passo indietro e girandosi parzialmente, come se stesse per andarsene. “Si trova in una posizione vulnerabile.”
+
+“Sono io il miglior giudice in materia”, rispose Williams. “Buongiorno.”
+
+“Buongiorno, signor Williams,” disse Lawson, poi uscì.
+
+Durante quell'intervista, Williams non aveva nascosto nessuno in un armadio; non aveva alcun registratore sul posto di lavoro; non era compito suo creare alcuna registrazione; desiderava che quei brevi cinque minuti sembrassero non essere mai esistiti. Era impenetrabile.
+
+John Williams non era uno di quegli uomini facilmente influenzabili che temono vagamente il potere della grande ricchezza. Non c’è stato un cervello più lucido nel grande campo della vita pubblica dei nostri tempi. Conosceva tutti i fattori reali in gioco; non teneva affatto conto delle fantasie o delle ipotesi.
+
+I veri fattori erano semplicemente questi: Lawson, come tutti sapevano, conosceva bene Halterton; si poteva persino dire che fossero amici. Forse per questo motivo, forse per amore del potere, o semplicemente per il desiderio di aumentare ancora di più la propria enorme ricchezza, Lawson voleva prendere il controllo della futura Television Corporation. Come avesse ottenuto quelle informazioni, quanto ne sapesse esattamente, Williams non riusciva a indovinare. E questo non aveva alcuna importanza per l’esito della battaglia in corso. Williams vedeva chiaramente tutti questi fattori; ne valutava con precisione l’importanza e si ripeteva ancora una volta: “Impenetrabile”. Il processo era già avviato; mancava soltanto il voto finale. Non esistevano prove utilizzabili contro di lui. Tutte le prove a disposizione contro gli altri erano in suo possesso. Il voto sarebbe stato espresso tra pochi giorni, e il risultato era scontato. Ora Halterton non poteva più interferire in alcun modo; in ogni caso, non avrebbe mai osato farlo. Per quanto milioni di dollari ci fossero dietro di lui, questo non gli sarebbe stato d’aiuto: nessuno avrebbe potuto salvarlo.
+
+Con quella volontà, forte quanto la sua intelligenza, Williams scacciò del tutto quell’argomento dalla sua mente e chiamò il suo segretario. Avrebbe trascorso l’ora successiva a lavorare intensamente sulla grande riforma della polizia. Aveva in mente che, in futuro, nessuno dovesse più poter usare la parola “corrotto” in relazione a quel servizio pubblico così importante.
+
+* * *
+
+Nel corso di mercoledì, le truppe si schierarono su entrambi i lati. L’unico incidente che ebbe luogo fu piuttosto piacevole per Williams: ricevette una nota da parte di un giovane ricco che conosceva appena, il quale gli chiedeva di partecipare a una cena al Palatine il giorno seguente, giovedì, alle 8:30. Nella nota si specificava che McAuley sarebbe stato lì ad accoglierlo. Si sperava inoltre che il signor Williams riuscisse a liberarsi dal suo incarico per partecipare alla cena, poiché il signor McAuley aveva espresso particolare interesse affinché il suo amico fosse presente. Il signor des Cuoyes aggiungeva in postfazione che il motivo per cui aveva invitato prima il signor McAuley a pranzo da solo con lui era quello di discutere del brevetto di Dow, su cui possedeva informazioni utili. Il signor McAuley gli aveva detto di aver seguito i consigli del Segretario di Stato in merito a questa questione, ed era proprio per questo che sperava nella presenza del signor Williams.
+
+Jack Williams telefonò a James McAuley, ascoltò tutto ciò che gli fu raccontato e disse che sarebbe stato molto felice di venire.
+
+Per quanto riguarda McAuley, quando aveva ricevuto, poco prima di quel giorno, la breve lettera di invito da parte dell’amabile des Cuoyes, all’inizio ne era stato piuttosto incuriosito. Sapeva bene che la famiglia Dow avrebbe dovuto contattarli, ma non si aspettava che l’approccio venisse da quella direzione. Des Cuoyes, naturalmente, conosceva tutti e molto probabilmente aveva interessi legati a quella proprietà; forse stava agendo per conto di qualcuno che li aveva. Comunque fosse, sarebbe stato opportuno incontrarlo. Accettò l’invito e, nella risposta scritta, chiese se fosse possibile invitare anche il signor Williams. Allora des Cuoyes inviò la stessa lettera anche a Williams. Così tutto andò per il meglio; ma anche se McAuley non avesse chiesto la presenza di Williams, des Cuoyes l’avrebbe comunque proposta. Lui obbediva sempre alle istruzioni in modo assoluto.
+
+Le risposte alle sue note arrivarono a des Cuoyes quella stessa sera di mercoledì, prima ancora che iniziasse il rituale sacro di prepararsi per la cena. Offrì il Grande Sacrificio e rinviò l’abbigliamento. Poi fu inviato da Lawson, con ricompense sostanziose, a cercare qualsiasi cosa potesse essere nascosta nella casa di Williams.
+
+Subito dopo, Lawson telefonò al Capo Postale Generale.
+
+“Non verrò da te, Halterton,” disse, “ma ho pensato di darti queste informazioni subito. Puoi considerare la questione risolta. Non ho ancora i documenti in mano, ma sono in grado di rassicurarti definitivamente. Vieni a casa mia venerdì mattina alle dieci; possiamo parlarne fino all’undici. Ci sono altre cose da fare, di cui ti informerò. Saranno le ultime decisioni necessarie, e tutto sarà pronto in tempo perché tu possa presentarti alla Camera entro mezzogiorno per la breve sessione di venerdì.”
+
+* * *
+
+Alle 8:30 del giorno seguente, giovedì sera, la musica insopportabile del Palatino riempì l’aria; il cibo ancora peggiore stava appena iniziando ad essere servito ai terribili tavolini, e il vino – più della metà dei quali, per fortuna, era imperiale – giaceva nei suoi lucidi secchi di metallo accanto a quegli stessi tavolini, dappertutto.
+
+Alla fine di uno di questi piccoli tavoli, con un'aria disinvolta e composta tipica di un dio bianco e dall’aspetto stupido, sedeva des Cuoyes, vestito in modo impeccabile. Era un tavolo per quattro persone, ma lui era ancora solo quando arrivarono i due ospiti che aspettava; allora si alzò per accoglierli.
+
+“Non vi sedete forse di fronte a me, signori?” disse. “I posti vicino al muro saranno più comodi per voi.” Poi tirò un po’ il tavolo verso di sé, con l’aiuto sollecito del cameriere. “Siete davvero puntuali. Ah, forse sono arrivato un po’ in anticipo. No, cameriere, non portate via quella sedia. Non fate storie.”
+
+Lì, dunque, c'era quella sedia vuota.
+
+“Si sieda, per favore, signor McAuley. Desidera un cocktail, signor Williams? So che ne vorrà uno, so esattamente quale cocktail sceglierà.” Perché des Cuoyes lo sapeva davvero. Ma non conosceva quello di McAuley. Fu McAuley stesso a indicare quale cocktail desiderava, e glielo prepararono immediatamente.
+
+Parlarono di molte cose. Erano quasi alla fine del pasto; stavano mangiando il ghiaccio ormai tiepido, e la band suonava “Hell’s Bells” con tutto il suo vigore, quando, sopra il frastuono, des Cuoyes menzionò per la prima volta la parola Dow’s.
+
+“Non volevo occuparmene durante la cena,” disse, “perché in realtà ho molto poco da dire. Ci sarà qualcuno che verrà a dare un’occhiata e sa molte più cose di me al riguardo. Ma il punto è che lui, insomma, vuole sicuramente parlartene. È solo una questione di routine. Ora che la Durrant’s otterrà il contratto, la Dow’s collaborerà con te, e non credo che avrai problemi con loro.”
+
+“No,” disse McAuley, in modo abbastanza cortese, ma molto diretto. “Ammettete, signor des Cuoyes, che non avete nessun altro a cui vendere, vero? Che ne pensate, Williams?”
+
+Onesto Jack Williams ci pensò un momento e disse: “Beh, non è affar mio e non pretendo di capirne tutto, ma sono abbastanza d’accordo con te, J. Per quel che ne so, e da quello che mi hai raccontato. Penso anche che il signor des Cuoyes la pensi come noi. Conosci Dow’s, e Dow’s conosce te. È semplicemente una questione di termini.”
+
+“Ah, non discuteremo su questo argomento,” disse des Cuoyes con grande tranquillità e senza alcuna preoccupazione. “Inoltre, non sono davvero io a poter stabilire tutti i termini dell’accordo.”
+
+“Salve!” — si alzò — “ecco Sir Andrew! Signor McAuley, ecco suo fratello, il Procuratore Generale. Si sieda, Sir Andrew!” e prese una quinta sedia da un tavolo vuoto e la posizionò di fronte alle altre.
+
+“Pensavo che non le dispiacesse se chiedevo a mio fratello di venire da noi dopo questo pasto, signor des Cuoyes,” disse J., con una certa esitazione. “Potrebbe aiutarci in questioni legali.”
+
+“Certamente!” disse des Cuoyes. “Bevi un po’ di vino, signor Andrew. Abbiamo appena iniziato a parlare del brevetto di Dow.”
+
+“Pensavo,” disse McAuley a questo punto, “di andare prima da Reynier. C’è ancora qualche accordo da sistemare, vero?”
+
+“Non credo proprio”, disse des Cuoyes scuotendo la testa. “È solo un’opzione scaduta. Non c’è alcun obbligo di rinnovarla”.
+
+“Non ci dirà il nome del suo amico che sta per arrivare?” chiese Williams in quel momento. Ma non ebbe alcuna risposta, perché proprio in quell’istante des Cuoyes guardò di nuovo oltre la sua spalla e disse:
+
+“Ah, eccolo lì! Restate seduti, signori, rimanete seduti.” E si avviò, facendosi strada tra i tavoli verso una figura alta e lontana che era appena entrata dalla porta principale. “Lo porterò da voi, signori!” gridò mentre si allontanava.
+
+Tornò dopo un momento, guidando quella figura che nessuno dei tre uomini si sarebbe aspettato di vedere in quel luogo e a quell’ora: due di loro erano seduti lì, sbalorditi e esitanti, in attesa; la figura alta, snella e scura che si avvicinava a loro insieme a Guy era infatti quella di Arthur Lawson.
+
+“Si sieda, signor Lawson,” disse Guy in tono cordiale.
+
+Lawson si sedette, annuì leggermente ai tre uomini di fronte a lui, come se li incontrasse per la prima volta, e rimase in silenzio, fissando continuamente i loro volti.
+
+Il caffè era appena stato servito. Guy des Cuoyes ne bevve un sorso, poi all’improvviso tirò fuori l’orologio.
+
+“Dico,” disse, “sai che sono le nove e un quarto. Cosa?” Poi si alzò. I McAuley e i Williams cercarono di sollevarsi a fatica. “Per favore, non muovetevi,” mormorò Guy. “Mi è appena venuto in mente che c’è una persona con cui devo parlare. Torno subito, cosa?” E se ne andò tranquillamente. Non tornò mai più.
+
+Poi, nell’inferno, calò il silenzio per circa un minuto e mezzo.
+
+Fu rotto da John Williams.
+
+“Signor Lawson, ora che il signor des Cuoyes non è qui, possiamo chiedere perché siate venuto? Nessuno vi aspettava.”
+
+“Sono venuto a chiedervi quei documenti, signor Williams,” rispose Arthur Lawson con la sua voce tranquilla.
+
+McAuley si sporse in avanti, aspettando con ansia di conoscere il problema. Ne aveva sentito parlare a lungo il giorno prima con il suo partner. Aveva ammirato il coraggio di Williams e era stato in parte convinto dalle sue argomentazioni chiare e logiche. Eppure, in modo vago e istintivo, la sua mente – che umilmente ammetteva di non essere all’altezza di quella mente geniale che lo aveva persuaso – temeva il potere enorme di quella ricchezza, enigmatica e autosufficiente. Non si sa mai cosa possano fare milioni di dollari.
+
+“Beh, signor Lawson,” rispose Williams a bassa voce, in modo che solo loro quattro potessero sentire, “non riuscirete ad ottenerle! Non sapete dove si trovano, non sapete chi le ha, non è affar vostro e non potete fare nulla. Stavamo appunto per sistemare tutto riguardo a Dow quando siete arrivati, e quando il signor des Cuoyes tornerà, completeremo le nostre disposizioni.”
+
+Il giovane signor des Cuoyes si allontanava con la disinvoltura di un gentiluomo inglese.
+
+“Volete dire che otterrete il brevetto di Dow e potrete procedere con i vostri piani?”
+
+“È fatta,” disse Williams, ancora con voce bassa, ma con una certa arrogante sicurezza. “Abbiamo Dow nelle nostre mani, e nulla può fermarci.”
+
+“Non sono d’accordo”, disse Lawson, con una voce un’ottava più bassa del solito.
+
+“E perché non sei d’accordo?” chiese James McAuley, con un certo sarcasmo spaventato.
+
+“Perché,” rispose semplicemente Arthur Lawson, “sono il proprietario del brevetto di Dow.”
+
+Poi calò di nuovo il silenzio; quelle informazioni penetrarono nelle menti delle tre persone che le avevano appena ricevute, come una pietra piatta che si abbassa lentamente e si posa in uno stagno chiaro e profondo.
+
+Il silenzio fu finalmente rotto da una osservazione ancora più semplice di quella che l’aveva innescato. Quell’osservazione fu fatta dal signor Williams, e ciò che disse fu:
+
+“Oh!”
+
+Per quanto riguarda il signor McAuley, disse qualcosa che non era molto più forte di un sussurro: “Beh, beh, beh!”
+
+“Ora,” disse Arthur Lawson, “che ne dite? Non potete muovervi senza di me, e io non ho la minima intenzione di permettervelo. Non mi interessa affatto che il brevetto di Dow venga mai utilizzato. E lasciate che vi dica ancora una cosa, signor Williams: ho prove di ciò che avete fatto, e anche prove di ciò che il signor McAuley aveva fatto prima di voi riguardo a quei due documenti. Non esiterò a rivelare la verità se mi costringerete a farlo, e non mi interessa affatto quale ne sarà il costo.”
+
+Williams e McAuley stavano riflettendo; Sir Andrew avrebbe voluto non essere venuto. Come al solito, fu Williams ad arrivare per primo alle sue conclusioni.
+
+“Non sarà troppo duro con noi, signor Lawson, vero?”
+
+“Devo avere quei documenti,” disse Arthur Lawson. “Devo averli adesso, prima di lasciare questa stanza e prima che tu la lasci. Cosa ne farò è affar mio.”
+
+“Signor Lawson,” intervenne ansiosamente McAuley, “non le dispiacerà se il signor Williams, mio fratello e io parliamo un attimo in privato, vero?”
+
+“Finché non esci dalla mia vista, va bene,” disse Lawson. “Puoi parlare dove sei.”
+
+Non c'era altra scelta. Si riunirono e, a bassa voce, Williams – che rimaneva il cervello della squadra – e Sir Andrew, che solo di tanto in tanto annuiva in segno di accordo, fecero capire a James McAuley che la battaglia era persa. Fu lui ad parlare.
+
+“Molto bene, signor Lawson,” disse. Aprì quel piccolo bottone situato nella tasca interna sinistra di ogni cappotto che indossava, estrasse le due buste che avevano vissuto tante avventure e che uscirono intatte, anche se un po’ logore. Le porse dall’altra parte del tavolo.
+
+Arthur Lawson estrasse lentamente e con cura il contenuto di entrambe le buste, lo verificò attentamente, poi le rimise al loro posto. Infine, tenendo saldamente le due buste in mano, si alzò in piedi.
+
+“Grazie, signor Williams,” disse. “Grazie a tutti voi. Immagino che il signor des Cuoyes non tornerà stasera. Buonanotte.”
+
+* * *
+
+Onesto Jack Williams non tornò a casa quella notte fino a molto dopo le due. Lungo il tragitto, in un taxi che lo portava con ritardo, ripeteva continuamente tra sé le parole di Arthur Lawson: “Ho prove”. Mentre entrava in casa in punta di piedi per non svegliare sua moglie e chiudeva la porta molto silenziosamente, gli balenò nella mente un terribile dubbio. La prima cosa che fece fu andare subito nella stanza accanto, dove si trovava il piccolo armadietto con le fotografie e le copie autentiche. Accese la luce. L’armadietto sul muro di fronte era completamente aperto, ed era vuoto.
+
+XVIII
+
+Intorno alle nove e quindici del mattino seguente, venerdì, Arthur Lawson stava scrivendo un promemoria su una cartolina, suddividendolo in due o tre sottocapitoli.
+
+Non aveva bisogno di riflettere troppo sul suo piano; era semplice, come sempre, e l’aveva già deciso da tempo. Quello che scrisse su quella carta non era altro che questo:
+
+Primo: convincilo a prendere non meno di,?
+
+Secondo cattivo principale.
+
+3°. Convincere la W.H. Trust.
+
+Dunque, secondo te, non è necessario scrivere questi titoli. Hai ragione: era solo un’abitudine o una moda del momento. Lui lo faceva sempre.
+
+Dopo aver fatto ciò, chiamò Wilfrid Halterton e, una volta raggiunto, gli ricordò che era atteso alle dieci.
+
+“Non avrei mai deciso di venire da te,” disse, “ma è solo questione di tempo per ciò che devo fare dopo. Capirai quando ci incontreremo. Volevo che fossi qui perché temevo di arrivare troppo tardi per l’altra cosa che devo fare. Entra subito. Esatto, mi troverai da solo nello studio.”
+
+Arthur Lawson trascorse quei pochi minuti in attesa dell’arrivo di Halterton chiamando la sua segretaria e chiedendole di verificare nell’indice – l’indice cartaceo – sotto la voce “Williams, J.” a che ora quel politico arrivasse solitamente in ufficio. Lei tornò con la notizia: “Mai dopo le 10:30, signor Lawson; a volte prima, ma mai dopo.”
+
+“Grazie,” disse Lawson. E come se non avesse la memoria migliore di [[settings/london|Londra]], tirò fuori di nuovo la sua carta e scrisse seriamente “10:30, o il prima possibile”, dopo la parola “villano”. Cinque minuti dopo fu annunciato il signor Halterton, che era appena passato veloce attraverso il Parco.
+
+* * *
+
+Nel frattempo, al Ministero dell’Interno, John Williams stava valutando la situazione più e più volte.
+
+Era davvero un pasticcio terribile. Non vedeva alcuna via d’uscita. “Non mi sono mai piaciuti gli ebrei!” mormorò tra sé. Ma ormai era troppo tardi per agire su quel sentimento. Una questione in particolare stava diventando sempre più importante, come una nuvola temporalesca. Non doveva essere scoperto finché non avesse esaminato tutte le possibilità. Quindi! Quando Lawson disse di avere prove di quei furti di documenti, non stava bluffando. Disse che avrebbe speso senza risparmio, e così fece davvero. Erano lui ad avere quelle fotografie in quel momento!
+
+Avrebbe Lawson cercato di rinunciare completamente al contratto? Assolutamente no. C'erano molti altri documenti preliminari. Stava forse chiedendo un prezzo esorbitante per il brevetto della Dow? Nemmeno lontanamente. Questi milionari amano aumentare la loro fortuna, ma tutta questa situazione non sembrava avere a che fare con questo scopo; sembrava piuttosto una sorta di vendetta, chissà per quale motivo! Avrebbe Lawson presentato un piano preciso? E in tal caso, quali erano le possibilità che Williams vi aderisse?
+
+Conosceva bene il nemico contro cui si trovava ad affrontare. Lui stesso aveva parlato con quel povero Halterton di “quella partita”. Doveva avere un piano ben chiaro nella mente prima di poter svolgere il proprio ruolo. Doveva essere pronto a fronteggiare qualsiasi attacco da parte di Lawson, doveva prevedere tutte le possibili direzioni da cui quell’attacco potesse provenire. Era una situazione davvero confusa, e la necessità imperiosa di ritardare l’azione iniziò a tormentarlo. Sedeva lì, davanti al suo grande tavolo; per la prima volta nella sua vita, o quanto meno negli ultimi anni in cui era stato attivamente impegnato in politica, non sapeva proprio cosa fare. Si rendeva conto che, se qualcuno lo avesse visto in quel momento, avrebbe notato quell’ansia torpida e vuota che aveva osservato in molti dei suoi colleghi, e di cui aveva segretamente riso quando anch’egli stesso preparava le sue strategie offensive.
+
+Si sedette quindi, rimandando ogni lavoro, fissando il cuoio del tavolo e immergendosi sempre di più nell’incertezza.
+
+* * *
+
+A un miglio di distanza, nello studio di Lawson, il padrone di casa stava concludendo la sua argomentazione per convincere il suo amico. Si era già alzato, come se volesse uscire, ma Wilfrid Halterton, pur essersi alzato allo stesso momento, non gli aveva ancora dato una risposta.
+
+“Dovrò comportarmi come se tu avessi già accettato, Halterton,” disse. “Non posso aspettare ancora a lungo. Tutto procede perfettamente. Hai tutto il diritto di averlo, e intendo assicurarmi che lo ottenga. Sarà intestato a mio nome, e comunque verserò automaticamente i dividendi sul tuo conto bancario. Dopotutto, sei più che disposto ad assumerti la direzione dell’azienda dopo il pensionamento. È proprio questo che non volevi ottenere, vero?”
+
+“Sì,” rispose Halterton, “è proprio così. Ma, ma, in qualche modo è diverso, si tratta di contanti veri, capisci, e di azioni.”
+
+Arthur Lawson sorrise con quel suo leggero sorriso.
+
+“Non dovresti occuparti di politica, Halterton,” disse lui in tono secco. “Ci sono pochi politici che si innervosiscano alla parola ‘azioni’. E per quanto riguarda i soldi! Ma te lo ripeto: non puoi evitarlo. Le azioni saranno a mio nome, ma saranno gestite attraverso un Trust, e ti ho già detto dove andranno i dividendi. Sono deciso a far sì che tu sia al sicuro. Ok? Ti dispiace aspettarmi qui finché non torno? Potrebbero volerci mezz’ora, o anche di più. Ma mi assicurerò che tu arrivi in tempo all’assemblea di mezzogiorno. Ci sarà solo un po’ di lavoro da concludere.”
+
+“Molto bene,” disse Halterton, “aspetterò.”
+
+E si lasciò cadere nella grande poltrona bassa che des Cuoyes aveva riempito pochi giorni prima; tutto il suo lungo corpo assunse un atteggiamento rilassato, e anche il suo viso cambiò. Era stato salvato!
+
+* * *
+
+Davanti a quel grande tavolo del Ministero dell’Interno, John Williams continuava a riflettere, ancora e ancora. Poi, nel mezzo di quelle sue riflessioni, proprio in mezzo a quella enorme tempesta di dubbi e esitazioni che lo aveva avvolto completamente, arrivò come un lampo l’illuminazione. All’improvviso se ne ricordò. Signore! Quello scandalo legato alla Katanga del ’38, subito dopo il suo ingresso in Parlamento.
+
+All'improvviso sentì freddo; inoltre si sentiva anche un po' male. Per Dio, sì! In quel momento era davvero spaventato a morte: Lawson era stato catturato e probabilmente avrebbe perso molto. E Lawson sapeva di lui, di Williams, e di quella cambiale falsificata. Ma quando Lawson uscì indenne da tutta quella situazione, e quando passò un mese dopo l'altro senza che accadesse nulla, la paura iniziò a svanire. Alla fine, decise semplicemente di ignorare tutto.
+
+Perché, in politica, le persone dimenticano tutto dopo un anno o due. E questa storia risaliva a più di vent’anni fa. Ma il pericolo rimaneva comunque letale. In quei tempi, a Honest Jack Williams non sarebbe mai venuto in mente che Arthur Lawson potesse diventare qualcosa di più di ciò che già era diventato anni prima. Ora era al vertice del mondo. Ma ciò che era ancora più importante era che, in nessuna circostanza immaginabile – fino a quella terribile settimana – avrebbe mai potuto considerare Lawson un nemico. Era troppo superiore a lui, e appartenevano a mondi completamente diversi. Eppure ora Lawson era lì, pronto ad attaccare. E quando tutte le implicazioni di quell’accordo con Katanga, ormai quasi dimenticato, si presentarono davanti alla mente dell’infortunato Segretario di Stato Interno, come gli arti minacciosi di un polpo, lo fecero impazzire.
+
+Fu un momento sfortunato per ciò che accadde dopo. Ciò che accadde fu l’arrivo del messaggero, il quale gli consegnò una carta e un nome: quel nome era quello di Arthur Lawson.
+
+Il Ministro dell’Interno riuscì a controllarsi e parlò a voce bassa.
+
+“Digli che non sono in ufficio,” disse.
+
+Il messaggero uscì, e Honest Jack Williams, con la sua rigida attenzione alla verità, si assicurò immediatamente che le sue parole non fossero una menzogna. Attraverso la piccola porta laterale dietro la sua sedia, quella nell’angolo vicino alla finestra, sgusciò nel corridoio attraverso il quale si poteva raggiungere la piccola scala a spirale evitando l’atrio principale sulla via d’uscita.
+
+Come trasformare anche un Ministro dell’Interno in un antisemita.
+
+Ma Arthur Lawson aveva già avuto l’occasione di entrare nel Ministero dell’Interno in precedenza, e aveva preso in considerazione tutte queste possibilità. Proprio per questo, anche mentre Honest Jack Williams si trovava a meno di un metro o due da una via di fuga e di salvezza, vide la figura austera di Arthur Lawson davanti a sé in quel corridoio.
+
+“Signor Williams”, disse Arthur Lawson, “le sarei molto grato se volesse seguirmi.”
+
+Nella teoria costituzionale, in quel momento Honest John Williams era responsabile di tutto il meccanismo esecutivo. Il Re non può commettere errori; ma i suoi ministri sono responsabili davanti alla Camera dei Comuni. E questo particolare ministro aveva ricevuto – suppongo dalla Camera dei Comuni, o altrimenti da sé stesso, dopo accordi con la signora Boulger – poteri costituzionali che gli permettevano di fare qualsiasi cosa riguardo ad Arthur Lawson.
+
+Ma più di una grande autorità ha sottolineato che spesso esiste una notevole differenza tra la teoria costituzionale e la pratica; inoltre, il Ministro dell’Interno seguì Arthur Lawson come un cane domestico.
+
+Lo condussero attraverso il corridoio, verso un’uscita che di solito non utilizzava: era riservata a persone di rango inferiore. Lawson gli fece segno di salire nell’auto grande parcheggiata fuori e fornì all’autista l’indirizzo: quello degli uffici di Durrant. Durante il viaggio, la conversazione tra i due uomini fu breve e composta da frasi molto concise, senza alcuna intonazione emotiva; riguardava l’affare Katanga. Quell’interessante operazione finanziaria era già stata chiaramente ricordata da Williams molto prima che raggiungessero la City, quindi, nell’ultimo tratto del viaggio su Queen Victoria Street, Lawson ebbe il tempo di cambiare argomento.
+
+“A proposito, signor Williams,” disse, “le spiegherò perché la sto portando da Durrant’s. Voglio che lei sia abbastanza in gamba da recarsi nell’ufficio del signor McAuley – lo troverà lì – e consegnargli questa nota. Non pensi che io sia scortese: non l’ho nemmeno sigillata. È molto semplice: le chiedo soltanto di fargli avere notizia che, quando avverrà la nuova quotazione in borsa, dovrebbe assegnarmi una certa quantità di azioni. Sono sicuro che sarà felice di farlo. Anzi, sarà felice di aiutarmi in questo senso. Ovviamente, la nota deve essere firmata da lui.”
+
+“Ma non lo so,” iniziò povero Williams, mentre l’auto si fermava davanti all’ingresso degli uffici grandi.
+
+“Sì,” intervenne bruscamente Arthur Lawson. “So quanto apprezzi il brevetto della Dow, e altre cose del genere. E potresti dirgli,” aggiunse, guardando fuori dalla finestra mentre Williams stava sulla soglia di casa, “che sia sfortunatamente impegnato in un altro impegno anch’io, e che, ” (guardò l’orologio) “, devo andarmene esattamente tra dieci minuti. Voglio solo una o due righe, firmate. Il signor McAuley sa quanto siano preziose anche poche parole scritte di proprio pugno e firmate.”
+
+Arthur Lawson, da solo nell’auto, si appoggiò allo schienale con un atteggiamento insolito per lui. La mattina lo aveva moralmente stancato. Ma avrebbe comunque proseguito. Era come guidare un branco di mucche: non avrebbe mai fermato il carro per permettere loro di disperdersi.
+
+Non erano passati ancora otto minuti quando Williams ricomparve.
+
+“Grazie, signor Williams,” disse il signor Lawson, prendendo da mano una bella busta incisa. “Prego, entri pure; andremo poi a casa mia. Ma aspetti un momento, ” Estrasse il foglio all’interno, che recava la firma di McAuley, e lo lesse con soddisfazione. “Sì, esatto,” disse, ripiegandolo. Poi spostò indietro il vetro del finestrino, disse al suo autista: “A casa!” riportò avanti il parabrezza e si appoggiò comodamente allo schienale.
+
+“Non sarà troppo duro con noi, signor Lawson?” chiese di nuovo Williams, ansiosamente. Non ci fu alcuna risposta. Non sono nemmeno sicuro che Lawson abbia fatto il minimo movimento con la testa. Il Segretario dell’Interno sperava di sì. Ed è così che quel grande finanziere, uno dei più importanti tra i nostri banchieri, accolse nella residenza di Lawson uno dei nostri uomini di stato più insigniti.
+
+Non c'era molto altro da fare. A signor Williams fu fatto segno di entrare dalla porta principale con una cortesia sufficiente, ma senza alcuna fretta. L'ospite si offrì di guidarlo, poiché conosceva bene la strada. Signor Williams si trovò nuovamente di fronte a Wilfrid Halterton, il quale si alzò a metà per poi risedersi subito, come se non desiderasse affatto ristabilire l'amicizia.
+
+Ma quando la porta di quel piccolo studio fu chiusa, il padrone di casa tirò avanti un piccolo tavolo, invitò Halterton a sedersi al suo fianco, Williams di fronte a lui, e poi iniziò a parlare.
+
+“Signor Williams, l’ho portato qui per una questione di grande importanza e non lo tratterrò a lungo. Ho chiesto anche la presenza del signor Halterton affinché possa ascoltare la mia proposta e, spero, anche la sua accettazione.”
+
+Williams si inchinò leggermente, ma l'ansia profonda che si leggeva sul suo volto, sotto quella sua grande e cordiale espressione, rimase evidente.
+
+“Mr. Halterton ed io stavamo discutendo di queste questioni proprio prima che avessi il piacere di incontrarvi al Ministero degli Interni. Parlerò in suo nome: mi ha autorizzato a farlo. Ritiene che, considerato ciò che è accaduto, sia meglio che io parli al suo posto, eh, Halterton?”
+
+“Sì,” disse Halterton. “Sì, certamente.”
+
+“La mia proposta è semplice. Già ho ottenuto la gentile promessa del signor McAuley riguardo all’assegnazione di quei beni. Spero che non ritenga un svantaggio avere il nome della Schwartz and Co. al suo fianco, così come il mio stesso nome. Quello che farò con quei beni non è necessario discuterlo ora. Calcolo che, una volta che il nuovo sistema televisivo sarà completamente operativo, essi genereranno un reddito permanente, sufficiente a coprire le tasse, equivalente o addirittura superiore a quello che il signor Halterton avrebbe ricevuto in qualità di vostro Direttore Generale. Si tratterà di una risorsa più stabile di uno stipendio, e inoltre eviterà al signor Halterton di svolgere compiti che potrebbero non essere adatti alla sua età. Il tempo libero è davvero qualcosa di inestimabile.”
+
+“Tuttavia, poiché era stata fatta un’esplicita promessa che il signor Halterton avrebbe assunto la carica di Direttore Generale, presumo ora che voi preferiate occuparla in un altro modo, ”
+
+“Non l’ho mai detto”, interruppe Williams, “Voglio dire, McAuley non l’ha mai detto…”.
+
+“In un altro modo,” ripeté Lawson, aggrottando profondamente la fronte, “la compensazione in denaro deve naturalmente essere erogata. Ma so di esprimere le vere intenzioni del signor Halterton quando vi dico che non verranno richiesti più di due anni di acquisto. Cioè, una somma di ventimila sterline. Quando il signor Halterton riceverà una lettera dalla Durrant’s Company che gli comunicherà questo cambiamento di intenzione e che i dirigenti pagheranno tale compensazione, e quando io avrò ricevuto le azioni destinate a me – per le quali, capirete, ” (disse queste parole in modo diretto e deciso) “non intendo offrire alcuna altra contropartita se non quelle legate alla società Dow’s; le scambierò con la mia proprietà nella stessa. Fino a quel momento, terrò tutto ciò che mi appartiene e non accetterò ulteriori negoziati.”
+
+Il Nobile Onorevole John Williams, deputato e Segretario di Stato per gli Affari Interni, accettò una riduzione della propria fortuna.
+
+Si alzò, e anche Halterton si alzò insieme a lui.
+
+John Williams esitò per un momento, poi si alzò e non si diresse verso la porta. Guardò con aria supplichevole quella figura alta, scura e eretta davanti a lui. Lawson avrebbe potuto giurare che avrebbe sentito di nuovo quelle parole patetiche: “Non sarete troppo duri con noi?”. Ma le udì in un'altra forma.
+
+“Dove entro io in questa storia?”, disse Onesto John Williams.
+
+“Signor Williams,” disse Arthur Lawson aprendogli la porta, “si tratta di una questione tra lei e il signor James McAuley. Non ho dubbi che le vostre conversazioni saranno semplificate dall’acume legale del Procuratore Generale, che è collega di uno e fratello dell’altro. C’è ancora una grande maggioranza delle azioni ordinarie. Il futuro è tutto davanti a voi, o a loro.”
+
+E al tramonto di quel giorno era il Sabato.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Postmaster General (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/power_and_corruption,concept/capitalism,concept/socialism,concept/anarchism,form/novel,form/satire,setting/london"></span>

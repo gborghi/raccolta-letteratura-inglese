@@ -7,7 +7,7 @@ title: English Literature — A Knowledge Graph
   <div class="hp-rule-thin"></div>
   <div class="hp-nameplate">
     <span class="hp-wordmark"><span class="hp-wm-title">English Literature</span><span class="hp-wm-bar"></span><span class="hp-wm-sub">a knowledge graph</span></span>
-    <span class="hp-mast-stats">3,661 works · 15 authors · 15,755 excerpts</span>
+    <span class="hp-mast-stats">3,661 works · 15 authors · 15,770 excerpts</span>
   </div>
   <div class="hp-rule-double"><span></span><span></span></div>
   <nav class="hp-nav" aria-label="Sections">
@@ -38,9 +38,9 @@ title: English Literature — A Knowledge Graph
     <div class="hp-stats">
       <div class="hp-stat"><span class="hp-stat-k">Works</span><span class="hp-stat-v">3,661</span></div>
       <div class="hp-stat"><span class="hp-stat-k">Authors</span><span class="hp-stat-v">15</span></div>
-      <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">15,755</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Reading units</span><span class="hp-stat-v">15,770</span></div>
       <div class="hp-stat"><span class="hp-stat-k">Concept notes</span><span class="hp-stat-v">2,032</span></div>
-      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">20,662</span></div>
+      <div class="hp-stat"><span class="hp-stat-k">Bilingual pages</span><span class="hp-stat-v">21,413</span></div>
     </div>
     <p class="hp-plate-note">Italian translations go up chapter by chapter, alongside the English — never in place of it.</p>
   </aside>

@@ -168,6 +168,159 @@ that two pleasure-seeking Englishmen should ever find it pleasant!"
 -- G. K. Chesterton.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Francesi e Inglesi"
+
+Di G. K. Chesterton
+
+È ovvio che vi sia una grande differenza tra l'essere
+internazionali e l'essere cosmopoliti. Tutti gli uomini buoni sono internazionali.
+Quasi tutti gli uomini cattivi sono cosmopoliti. Se dobbiamo essere internazionali
+dobbiamo essere nazionali. Ed è in gran parte perché coloro che si
+dicono amici della pace non hanno insistito a sufficienza
+su questa distinzione, che essi non fanno presa sul grosso di alcuna
+delle nazioni cui appartengono. Pace internazionale significa una pace
+tra le nazioni, non una pace dopo la distruzione delle nazioni,
+come la pace buddhista dopo la distruzione della personalità.
+L'[[topoi/golden-age|età dell'oro]] del buon europeo è come il cielo del cristiano:
+è un luogo dove le persone si [[motifs/love|ameranno]] l'un l'altra; non come
+il cielo dell'indù, un luogo dove esse saranno l'una l'altra.
+E nel caso del carattere nazionale ciò si può vedere in un modo curioso.
+Si troverà generalmente, credo, che quanto più un uomo davvero
+apprezza e ammira l'[[motifs/soul|anima]] di un altro popolo, tanto meno tenterà
+di imitarla; sarà consapevole che vi è in essa qualcosa
+di troppo profondo e troppo ingovernabile per imitarlo. L'inglese che ha
+un debole per la Francia cercherà di farsi francese; l'inglese che ammira
+la Francia rimarrà ostinatamente inglese. Questo si nota in particolare
+nel caso dei nostri rapporti coi francesi, perché è
+una delle spiccate peculiarità dei francesi che i loro vizi
+siano tutti in superficie, e le loro straordinarie virtù celate.
+Si potrebbe quasi dire che i loro vizi sono il fiore delle loro virtù.
+
+Così la loro oscenità è l'espressione del loro appassionato [[motifs/love|amore]]
+di trascinare tutte le cose alla luce. L'avarizia dei loro contadini
+significa l'indipendenza dei loro contadini. Ciò che gli inglesi chiamano
+la loro rozzezza per le strade è un aspetto della loro eguaglianza sociale.
+L'aria preoccupata delle loro donne è connessa con la responsabilità
+delle loro donne; e una certa inconsapevole brutalità di fretta
+e di gesto negli uomini è legata al loro inesauribile e
+straordinario [[concepts/courage|coraggio]] militare. Di tutti i paesi, dunque,
+la Francia è il peggiore che uno [[archetypes/fool|sciocco]] superficiale possa ammirare.
+Uno [[archetypes/fool|sciocco]] odii pure la Francia: se lo [[archetypes/fool|sciocco]] l'ama, presto sarà un furfante.
+Egli di certo l'ammirerà, non solo per le cose che
+non sono lodevoli, ma addirittura per le cose che non ci sono.
+Ammirerà la grazia e l'[[concepts/indolence|indolenza]] del popolo più industrioso
+del mondo. Ammirerà il romanzesco e la fantasia del popolo più
+risolutamente rispettabile e ordinario del mondo.
+Questo errore l'inglese lo farà se ammira la Francia
+troppo in fretta; ma l'errore che egli fa sulla Francia sarà
+lieve in confronto all'errore che fa su se stesso.
+Un inglese che professa di amare davvero i romanzi realisti francesi,
+di sentirsi davvero a [[motifs/home|casa]] in un moderno teatro francese, di
+non provare alcun turbamento al primo vedere le selvagge caricature francesi,
+commette un errore molto pericoloso per la propria sincerità.
+Sta ammirando qualcosa che non comprende. Sta mietendo
+dove non ha seminato, e raccogliendo dove non ha deposto;
+sta cercando di assaggiare il frutto quando non ha mai faticato sull'albero.
+Sta cercando di cogliere il frutto squisito del cinismo francese,
+quando non ha mai dissodato il rude ma ricco suolo della virtù francese.
+
+La cosa si può render chiara agli inglesi solo capovolgendola.
+Si supponga che un francese venisse dalla Francia democratica a vivere in Inghilterra,
+dove l'[[archetypes/shadow|ombra]] delle grandi casate cade ancora dappertutto,
+e dove persino la [[concepts/freedom|libertà]] fu, nella sua origine, aristocratica.
+Se il francese vedesse la nostra aristocrazia e le piacesse, se vedesse
+il nostro snobismo e gli piacesse, se si mettesse a imitarlo,
+tutti sappiamo che cosa proveremmo.  Tutti sappiamo che proveremmo
+che quel particolare francese era un ripugnante moscerino.  Starebbe
+imitando l'aristocrazia inglese; starebbe imitando il vizio inglese.
+Ma non capirebbe neppure il vizio che plagia:
+soprattutto non capirebbe che il vizio è in parte una virtù.
+Non capirebbe quegli elementi negli inglesi che
+bilanciano lo snobismo e lo rendono umano:  la grande bontà
+degli inglesi, la loro ospitalità, la loro poesia inconsapevole,
+il loro conservatorismo sentimentale, che davvero ammira la piccola nobiltà.
+Il monarchico francese vede che agli inglesi piace il loro [[archetypes/king|Re]].  Ma non
+afferra che, mentre è vile adorare un [[archetypes/king|Re]], è quasi nobile
+adorare un [[archetypes/king|Re]] impotente.  L'impotenza dei sovrani hannoveriani
+ha innalzato il leale suddito inglese quasi alla cavalleria e
+alla dignità di un giacobita.  Il francese vede che il servitore inglese
+è rispettoso:  non si rende conto che è anche irrispettoso;
+che esiste una leggenda inglese del servitore umoristico e fedele,
+che è tanto una personalità quanto il suo padrone; il Caleb Balderstone,
+il [[characters/sam-weller|Sam Weller]].  Vede che gli inglesi ammirano un nobile; non
+tiene conto del fatto che essi ammirano un nobile soprattutto quando non
+si comporta da tale.  Amano che un nobile sia inconsapevole e amabile:
+lo schiavo può essere umile, ma il padrone non deve essere superbo.
+Il padrone è la Vita, come essi vorrebbero goderla; e tra le gioie
+che [[motifs/desire|desiderano]] in lui non ve n'è alcuna che [[motifs/desire|desiderino]] più sinceramente
+di quella della generosità, del gettare danaro tra gli uomini, o,
+per usare la nobile parola medievale, largesse - la gioia della larghezza.
+Ecco perché un cocchiere vi dice che non siete un gentiluomo se gli date
+la tariffa esatta.  Non solo la sua borsa, ma la sua [[motifs/soul|anima]] è ferita.
+Avete ferito il suo ideale.  Avete sfregiato la sua visione del
+perfetto aristocratico.  Tutto ciò è davvero molto sottile ed elusivo;
+è molto difficile separare ciò che è mera servilità da
+ciò che è una sorta di nobiltà vicaria nell'[[motifs/love|amore]] inglese per un lord.
+E nessun francese potrebbe facilmente afferrarlo affatto.  Lo crederebbe
+mera servilità; e se gli piacesse, sarebbe uno schiavo.
+Così ogni inglese deve (dapprima) sentire il candore francese
+come mera brutalità.  E se gli piace, è un bruto.
+Questi meriti nazionali non vanno intesi con tanta facilità.
+Richiede lunghi anni di pienezza e di quiete, la lenta crescita
+di grandi parchi, la stagionatura delle travi di quercia, il cupo arricchirsi
+del vino rosso nelle cantine e nelle locande, tutto l'ozio e la vita
+dell'Inghilterra attraverso molti secoli, per produrre alla fine il generoso
+e geniale frutto dello snobismo inglese.  E richiede batteria
+e barricata, canti per le strade, e uomini cenciosi morti per un'idea,
+per produrre e giustificare il terribile fiore dell'indecenza francese.
+
+Quando ero a [[settings/paris|Parigi]] poco [[motifs/time|tempo]] fa, andai con un amico
+inglese a una successione straordinariamente brillante e rapida di
+commedie francesi, ciascuna della durata di una ventina di minuti.
+Erano tutte sorprendentemente efficaci; ma ce n'era una così efficace
+che io e il mio amico ci mettemmo a litigare fuori, e per poco non
+dovemmo essere separati dalla polizia. Voleva mostrare come gli uomini
+si comportino davvero in un naufragio o in un disastro navale, come
+crollino, come urlino, come si azzuffino l'un l'altro senza scopo e per
+puro odio d'ogni cosa. E poi vi era aggiunta, con tutta quell'orribile
+ironia che Voltaire inaugurò, una scena in cui un grande statista
+teneva un discorso sopra i loro corpi, dicendo che erano tutti eroi e
+morti in un fraterno abbraccio. Io e il mio amico uscimmo dal teatro, e
+poiché egli era vissuto a lungo a [[settings/paris|Parigi]], disse, da francese:
+"Che ammirevole disposizione artistica! Non è squisito?" "No," risposi,
+assumendo per quanto possibile l'atteggiamento tradizionale di John
+Bull nelle vignette del Punch — "No, non è squisito. Forse è privo di
+significato; se è privo di significato non m'importa. Ma se ha un
+significato io so qual è; è che sotto tutto il loro sfarzo di
+cavalleria gli uomini non sono soltanto bestie, ma perfino bestie
+braccate. Non so molto dell'umanità, specialmente quando l'umanità
+parla in francese. Ma so quando una cosa è fatta per elevare l'[[motifs/soul|anima]]
+umana, e quando è fatta per deprimerla. So che il Cyrano de Bergerac
+(dove gli attori parlavano ancora più in fretta) era fatto per
+incoraggiare l'uomo. E so che questo era fatto per scoraggiarlo."
+"Queste sentimentali e morali concezioni dell'arte," cominciò il mio
+amico, ma irruppi nelle sue parole come una luce irruppe nella mia
+mente. "Lasci che le dica," dissi, "ciò che Jaurès disse a Liebknecht
+al Congresso socialista: ‘Voi non siete morto sulle barricate.' Voi
+siete un inglese, come me, e dovreste essere amabile quanto lo sono io.
+Questa gente ha un certo diritto di essere terribile nell'arte, perché
+è stata terribile in politica. Possono sopportare finte torture sulla
+scena; hanno visto torture vere nelle strade. Sono stati feriti per
+l'idea di [[concepts/democracy|Democrazia]]. Sono stati feriti per l'idea del
+Cattolicesimo. Non è per loro così del tutto innaturale essere feriti
+per l'idea di letteratura. Ma, per mille fulmini, per me è del tutto
+innaturale! E la cosa peggiore di tutte è che io, che sono un inglese,
+amante della comodità, debba trovare conforto in cose come questa. I
+francesi qui non cercano conforto, ma piuttosto inquietudine. Questo
+popolo irrequieto cerca di mantenersi in una perpetua agonia dell'umore
+rivoluzionario. I francesi, cercando la rivoluzione, possono trovare
+ispirante l'umiliazione dell'umanità. Ma Dio non voglia che due inglesi
+in cerca di piacere la trovino mai piacevole!"
+
+-- G. K. Chesterton.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="frenchenglish (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/home,motif/love,motif/soul,concept/courage,concept/indolence"></span>

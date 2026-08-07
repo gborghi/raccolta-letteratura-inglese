@@ -89,306 +89,78 @@ There the matter might very well have ended were it not for Baron Martin’s con
 The Secretary of State, having carefully read the evidence and the judge’s remarks, was about to confirm the decision of the latter, when, upon the very eve of the execution, there came a report from the gaol visitors — perfectly untrained observers — that Parker was showing undoubted signs of madness. This being so the Secretary of State had no choice but to postpone the execution, and to appoint a commission of four eminent alienists to report upon the condition of the prisoner. These four reported unanimously that he was perfectly sane. It is an unwritten law, however, that a prisoner once reprieved is never executed, so Vincent Parker’s sentence was commuted to penal servitude for life — a decision which satisfied, upon the whole, the conscience of the public.
 THE END
 
-THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI
-CONTENTS
-VOLUME I.
-PREFACE
-I. THE BREAKING OF THE PEACE
-II. THE OPENING OF THE WAR
-III. THE BATTLE OF MONS
-IV. THE BATTLE OF LE CATEAU
-V. THE BATTLE OF THE MARNE
-VI. THE BATTLE OF THE AISNE
-VII. THE LA BASSÉE — ARMENTIÈRES OPERATIONS (From October 11 to October 31, 1914)
-VIII. THE FIRST BATTLE OF YPRES (Up to the Action of Gheluvelt, October 31)
-IX. THE FIRST BATTLE OF YPRES (continued) (From the Action of Gheluvelt to the Winter Lull)
-X. A RETROSPECT AND GENERAL SUMMARY
-XI. THE WINTER LULL OF 1914
-THE END
-VOLUME II.
-PREFACE
-I. THE OPENING MONTHS OF 1915
-II. NEUVE CHAPELLE AND HILL 60
-III. THE SECOND BATTLE OF YPRES Stage I. The Gas Attack, April 22-30
-IV. THE SECOND BATTLE OF YPRES Stage II. The Bellewaarde Lines
-V. THE BATTLE OF RICHEBOURG FESTUBERT May 9-24
-VI. THE TRENCHES OF HOOGE
-VII. THE BATTLE OF LOOS The First Day — September 25
-VIII. THE BATTLE OF LOOS The Second Day — September 26
-IX. THE BATTLE OF LOOS From September 27 to the End of the Year
-VOLUME III.
-PREFACE
-I. JANUARY TO JULY 1916
-II. THE BATTLE OF THE SOMME Attack of the Seventh and Eighth Corps on Gommecourt, Serre, and Beaumont Hamel
-III. THE BATTLE OF THE SOMME Attack of the Tenth and Third Corps, July 1, 1916
-IV. THE BATTLE OF THE SOMME The Attack of the Fifteenth and Thirteenth Corps, July 1, 1916
-V. THE BATTLE OF THE SOMME From July 2 to July 14, 1916
-VI. THE BATTLE OF THE SOMME The Breaking of the Second Line. July 14, 1916
-VII. THE BATTLE OF THE SOMME July 14 to July 31
-VIII. THE BATTLE OF THE SOMME The Operations of Gough’s Army upon the Northern Flank up to September 15
-IX. THE BATTLE OF THE SOMME August 1 to September 15
-X. THE BATTLE OF THE SOMME Breaking of the Third Line, September 15
-XI. THE GAINING OF THE THIEPVAL RIDGE
-XII. THE BATTLE OF THE SOMME From September 15 to the Battle of the Ancre
-XIII. THE BATTLE OF THE ANCRE November 13, 1916
-VOLUME IV.
-PREFACE
-I. THE GERMAN RETREAT UPON THE ARRAS-SOISSONS FRONT
-II. THE BATTLE OF ARRAS April 9 to April 23, 1917
-III. OPERATIONS IN THE ARRAS SECTOR FROM APRIL 23 ONWARDS
-IV. THE BATTLE OF MESSINES June 7, 1917
-V. OPERATIONS FROM JUNE 10 TO JULY 31
-VI. THE THIRD BATTLE OF YPRES July 31, 1917
-VII. THE THIRD BATTLE OF YPRES August 1 to September 6
-VIII. THE THIRD BATTLE OF YPRES September 6 to October 3, 1917
-IX. THE THIRD BATTLE OF YPRES October 4 to November 10, 1917
-X. THE BATTLE OF CAMBRAI First Phase of Battle, November 20
-XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
-VOLUME V.
-PREFACE
-I. EVENTS UPON THE BRITISH FRONT UP TO MARCH 21, 1918
-II. THE SECOND BATTLE OF THE SOMME Attack upon the Seventeenth and Sixth Corps
-III. THE SECOND BATTLE OF THE SOMME Attack on the Fourth and Fifth Corps
-IV. THE SECOND BATTLE OF THE SOMME Attack upon the Fifth Army, March 2
-V. THE SECOND BATTLE OF THE SOMME The Retreat of the Seventh and Nineteenth Corps
-VI. THE SECOND BATTLE OF THE SOMME The Retreat of the Eighteenth Corps, March 21-29
-VII. THE SECOND BATTLE OF THE SOMME The Retreat of the Third Corps
-VIII. THE SOMME FRONT FROM APRIL 1 ONWARDS
-IX. THE BATTLE OF THE LYS April 9-12
-X. THE BATTLE OF THE LYS April 13 to May 8
-XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
-VOLUME VI.
-I. THE OPENING OPERATIONS From July 1 to August 8, 191
-II. ATTACK OF RAWLINSON’S FOURTH ARMY The Battle of Amiens, August 8–22
-III. CONTINUATION OF THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From August 22 to the Battle of the Hindenburg Line, September 29
-IV. THE ATTACK OF BYNG’S THIRD ARMY August 21, 1918, to September 29, 1918
-V. THE ADVANCE OF HORNE’S FIRST ARMY From August 26 to September 27
-VI. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From the Battle of the Hindenburg Line (September 29) to the Battle of the Selle, October 17
-VII. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From the Battle of the Selle, October 17, to the end
-VIII. OPERATIONS OF BYNG’S THIRD ARMY From the Battle of the Hindenburg Line (September 29) to the Battle of the Selle (October 17)
-IX. OPERATIONS OF BYNG’S THIRD ARMY From the Battle of the Selle, October 12, to the end
-X. THE ADVANCE OF HORNE’S FIRST ARMY From September 27 to the end
-XI. OPERATIONS OF THE SECOND AND FIFTH ARMIES September 28 — November 11
-XII. THE END
-APPENDIX
-
-
-
-
-<span class="atom-split" data-atom="chapter_01" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
-
-
-VOLUME I.
-PREFACE
-I. THE BREAKING OF THE PEACE
-II. THE OPENING OF THE WAR
-III. THE BATTLE OF MONS
-IV. THE BATTLE OF LE CATEAU
-V. THE BATTLE OF THE MARNE
-VI. THE BATTLE OF THE AISNE
-VII. THE LA BASSÉE — ARMENTIÈRES OPERATIONS (From October 11 to October 31, 1914)
-VIII. THE FIRST BATTLE OF YPRES (Up to the Action of Gheluvelt, October 31)
-IX. THE FIRST BATTLE OF YPRES (continued) (From the Action of Gheluvelt to the Winter Lull)
-X. A RETROSPECT AND GENERAL SUMMARY
-XI. THE WINTER LULL OF 1914
-THE END
-
 
 <span class="qlang-split" data-lang="it"></span>
 
-VOLUME I.
-PREFAZIA
-I. LA ROVINA DELLA PACE
-II. INIZIO DELLA GUERRA
-III. BATTAGLIA DI MONS
-IV. BATTAGLIA DI LE CATEAU
-V. BATTAGLIA DELLA MARNE
-VI. BATTAGLIA DELL’AISNE
-VII. LA LAVA BASSEE – OPERAZIONI IN ARMENTIÈRES (dal 11 ottobre al 31 ottobre 1914)
-VIII. PRIMA BATTAGLIA DI YPRES (fino all’azione di Gheluvelt, 31 ottobre)
-IX. PRIMA BATTAGLIA DI YPRES (continuazione) (dall’azione di Gheluvelt alla tregua invernale)
-X. RIEPILOGO E SOMMARIO GENERALE
-XI. LA TREGUA INVERNALE DEL 1914
-Fine
-
-
-
-<span class="atom-split" data-atom="chapter_02" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
-
-
-VOLUME II.
-PREFACE
-I. THE OPENING MONTHS OF 1915
-II. NEUVE CHAPELLE AND HILL 60
-III. THE SECOND BATTLE OF YPRES Stage I. The Gas Attack, April 22-30
-IV. THE SECOND BATTLE OF YPRES Stage II. The Bellewaarde Lines
-V. THE BATTLE OF RICHEBOURG FESTUBERT May 9-24
-VI. THE TRENCHES OF HOOGE
-VII. THE BATTLE OF LOOS The First Day — September 25
-VIII. THE BATTLE OF LOOS The Second Day — September 26
-IX. THE BATTLE OF LOOS From September 27 to the End of the Year
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VOLUME II.
-PREFAZIA
-I. I primi mesi del 1915
-II. Neuve Chapelle e Hill 60
-III. La seconda battaglia di Ypres – Fase I: L’attacco al gas, 22-30 aprile
-IV. La seconda battaglia di Ypres – Fase II: Le linee di Bellewaarde
-V. La battaglia di Richbourg-Festubert, 9-24 maggio
-VI. Le trincee di Hooge
-VII. La battaglia di Loos – Primo giorno, 25 settembre
-VIII. La battaglia di Loos – Secondo giorno, 26 settembre
-IX. La battaglia di Loos: Dal 27 settembre alla fine dell’anno
-
-
-
-<span class="atom-split" data-atom="chapter_03" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
-
-
-VOLUME III.
-PREFACE
-I. JANUARY TO JULY 1916
-II. THE BATTLE OF THE SOMME Attack of the Seventh and Eighth Corps on Gommecourt, Serre, and Beaumont Hamel
-III. THE BATTLE OF THE SOMME Attack of the Tenth and Third Corps, July 1, 1916
-IV. THE BATTLE OF THE SOMME The Attack of the Fifteenth and Thirteenth Corps, July 1, 1916
-V. THE BATTLE OF THE SOMME From July 2 to July 14, 1916
-VI. THE BATTLE OF THE SOMME The Breaking of the Second Line. July 14, 1916
-VII. THE BATTLE OF THE SOMME July 14 to July 31
-VIII. THE BATTLE OF THE SOMME The Operations of Gough’s Army upon the Northern Flank up to September 15
-IX. THE BATTLE OF THE SOMME August 1 to September 15
-X. THE BATTLE OF THE SOMME Breaking of the Third Line, September 15
-XI. THE GAINING OF THE THIEPVAL RIDGE
-XII. THE BATTLE OF THE SOMME From September 15 to the Battle of the Ancre
-XIII. THE BATTLE OF THE ANCRE November 13, 1916
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VOLUME III.
-PREFAZIA
-I. Gennaio a luglio 1916
-II. LA BATTAGLIA DEL SOMME: L’attacco dei Settimo e Ottavo Corpo su Gommecourt, Serre e Beaumont Hamel
-III. LA BATTAGLIA DEL SOMME: L’attacco del Decimo e Terzo Corpo, 1° luglio 1916
-IV. LA BATTAGLIA DEL SOMME: L’attacco del Quindicesimo e Tredicesimo Corpo, 1° luglio 1916
-V. LA BATTAGLIA DEL SOMME: Dal 2 al 14 luglio 1916
-VI. LA BATTAGLIA DEL SOMME: La rottura della seconda linea, 14 luglio 1916
-VII. LA BATTAGLIA DEL SOMME: Dal 14 al 31 luglio 1916
-VIII. LA BATTAGLIA DEL SOMME: Le operazioni dell’esercito di Gough sul fronte settentrionale fino al 15 settembre
-IX. LA BATTAGLIA DEL SOMME: Dal 1° agosto al 15 settembre 1916
-X. LA BATTAGLIA DEL SOMME: La rottura della terza linea, 15 settembre 1916
-XI. L’occupazione della cresta di Thiepval
-XII. LA BATTAGLIA DEL SOMME: Dal 15 settembre alla battaglia dell’Ancre
-XIII. LA BATTAGLIA DELL’ANCRE: 13 novembre 1916
-
-
-
-<span class="atom-split" data-atom="chapter_04" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
-
-
-VOLUME IV.
-PREFACE
-I. THE GERMAN RETREAT UPON THE ARRAS-SOISSONS FRONT
-II. THE BATTLE OF ARRAS April 9 to April 23, 1917
-III. OPERATIONS IN THE ARRAS SECTOR FROM APRIL 23 ONWARDS
-IV. THE BATTLE OF MESSINES June 7, 1917
-V. OPERATIONS FROM JUNE 10 TO JULY 31
-VI. THE THIRD BATTLE OF YPRES July 31, 1917
-VII. THE THIRD BATTLE OF YPRES August 1 to September 6
-VIII. THE THIRD BATTLE OF YPRES September 6 to October 3, 1917
-IX. THE THIRD BATTLE OF YPRES October 4 to November 10, 1917
-X. THE BATTLE OF CAMBRAI First Phase of Battle, November 20
-XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VOLUME IV.
-PREFAZIA
-I. LA RETRATTATA TERRITORIALE TEDESCA SUL Fronte di Arras-Soissons
-II. LA BATTAGLIA DI ARRAS – Dal 9 al 23 aprile 1917
-III OPERAZIONI NEL SETTORE DI ARRAS A PARTIRE DAL 23 APRILE
-IV. LA BATTAGLIA DI MESSINES – 7 giugno 1917
-V. OPERAZIONI DALL’10 GIUGNO AL 31 LUGLIO
-VI. LA TERZA BATTAGLIA DI YPRES – 31 luglio 1917
-VII. LA TERZA BATTAGLIA DI YPRES – Dal 1° agosto al 6 settembre 1917
-VIII. LA TERZA BATTAGLIA DI YPRES – Dal 6 settembre al 3 ottobre 1917
-IX. LA TERZA BATTAGLIA DI YPRES – Dal 4 ottobre al 10 novembre 1917
-X. LA BATTAGLIA DI CAMBRAI – Prima fase, 20 novembre
-XI. LA BATTAGLIA DI CAMBRAI – Seconda fase, 30 novembre
-
-
-
-<span class="atom-split" data-atom="chapter_05" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
-
-
-VOLUME V.
-PREFACE
-I. EVENTS UPON THE BRITISH FRONT UP TO MARCH 21, 1918
-II. THE SECOND BATTLE OF THE SOMME Attack upon the Seventeenth and Sixth Corps
-III. THE SECOND BATTLE OF THE SOMME Attack on the Fourth and Fifth Corps
-IV. THE SECOND BATTLE OF THE SOMME Attack upon the Fifth Army, March 2
-V. THE SECOND BATTLE OF THE SOMME The Retreat of the Seventh and Nineteenth Corps
-VI. THE SECOND BATTLE OF THE SOMME The Retreat of the Eighteenth Corps, March 21-29
-VII. THE SECOND BATTLE OF THE SOMME The Retreat of the Third Corps
-VIII. THE SOMME FRONT FROM APRIL 1 ONWARDS
-IX. THE BATTLE OF THE LYS April 9-12
-X. THE BATTLE OF THE LYS April 13 to May 8
-XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VOLUME V.  
-PREFAZIA  
-I. AVVENIMENTI SUL Fronte Britannico Fino al 21 Marzo 1918  
-II. LA SECONDA BATTAGLIA DEL SOMME: L’Attacco ai Sedicesimo e Sesto Corpi d’Armata  
-III. LA SECONDA BATTAGLIA DEL SOMME: L’Attacco ai Quarto e Quinto Corpi d’Armata  
-IV. LA SECONDA BATTAGLIA DEL SOMME: L’Attacco all’Quinta Armata, 2 marzo  
-V. LA SECONDA BATTAGLIA DEL SOMME: La Ritirata del Settimo e Diciannovesimo Corpo d’Armata  
-VI. LA SECONDA BATTAGLIA DEL SOMME: La Ritirata dell’Ottavo Corpo d’Armata, 21-29 marzo  
-VII. LA SECONDA BATTAGLIA DEL SOMME: La Ritirata del Terzo Corpo d’Armata  
-VIII. IL FRONTE DEL SOMME DALL’1 APRILE IN POI  
-IX. LA BATTAGLIA DEL LYS, 9-12 aprile  
-X. LA BATTAGLIA DEL LYS, dal 13 aprile al 8 maggio  
-XI. LE BATTAGLIE DEL CHEMIN DES DAMES E DELL’ARDRES, dal 27 maggio al 2 giugno
-
-
-
-<span class="atom-split" data-atom="chapter_06" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
-
-
-VOLUME VI.
-I. THE OPENING OPERATIONS From July 1 to August 8, 191
-II. ATTACK OF RAWLINSON’S FOURTH ARMY The Battle of Amiens, August 8–22
-III. CONTINUATION OF THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From August 22 to the Battle of the Hindenburg Line, September 29
-IV. THE ATTACK OF BYNG’S THIRD ARMY August 21, 1918, to September 29, 1918
-V. THE ADVANCE OF HORNE’S FIRST ARMY From August 26 to September 27
-VI. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From the Battle of the Hindenburg Line (September 29) to the Battle of the Selle, October 17
-VII. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY From the Battle of the Selle, October 17, to the end
-VIII. OPERATIONS OF BYNG’S THIRD ARMY From the Battle of the Hindenburg Line (September 29) to the Battle of the Selle (October 17)
-IX. OPERATIONS OF BYNG’S THIRD ARMY From the Battle of the Selle, October 12, to the end
-X. THE ADVANCE OF HORNE’S FIRST ARMY From September 27 to the end
-XI. OPERATIONS OF THE SECOND AND FIFTH ARMIES September 28 — November 11
-XII. THE END
-APPENDIX
-
-
-<span class="qlang-split" data-lang="it"></span>
-
-VOLUME VI.
-I. LE OPERAZIONI INIZIALI Dal 1° luglio all’8 agosto 1918
-II. L’ATTACCO DELLA QUARTA ARMA DI RAWLINSON La battaglia di Amiens, dall’8 al 22 agosto
-III. PROSEGUIMENTO DELLLE OPERAZIONI DELLA QUARTA ARMA DI RAWLINSON Dal 22 agosto alla battaglia della Linea Hindenburg, il 29 settembre
-IV. L’ATTACCO DELLA TERZA ARMA DI BYNG Dal 21 agosto al 29 settembre 1918
-V. L’avanzata DELLA PRIMA ARMA DI HORNE Dal 26 agosto al 27 settembre
-VI. LE OPERAZIONI DELLA QUARTA ARMA DI RAWLINSON Dalla battaglia della Linea Hindenburg (29 settembre) alla battaglia del Selle, il 17 ottobre
-VII. LE OPERAZIONI DELLA QUARTA ARMA DI RAWLINSON Dalla battaglia del Selle (17 ottobre) fino alla fine
-VIII. LE OPERAZIONI DELLA TERZA ARMA DI BYNG Dalla battaglia della Linea Hindenburg (29 settembre) alla battaglia del Selle (17 ottobre)
-IX. LE OPERAZIONI DELLA TERZA ARMA DI BYNG Dalla battaglia del Selle (12 ottobre) fino alla fine
-X. L’avanzata DELLA PRIMA ARMA DI HORNE Dal 27 settembre fino alla fine
-XI. LE OPERAZIONI DELLA SECONDA E DELLA QUINTA ARMA Dal 28 settembre al 11 novembre
-XII. LA FINALE
-APPENDICE
+L’AFFARE D’amORE DI GEORGE VINCENT PARKER  
+Lo studioso degli annali criminali, classificando i vari casi, scoprirà che le due cause più probabili che spingono un essere umano al crimine di omicidio sono la brama di denaro e il risentimento derivante da un amore deluso. Di queste due, il secondo è sia più raro che più interessante, poiché nasce da motivi più sottili e si basa su dinamiche psicologiche più profonde. È difficile provare compassione per la bruta avidità e l’egoismo che mettono a confronto un portafoglio con una vita umana; tuttavia, nel caso di un uomo spinto dalla [[concepts/jealousy|invidia]] e dal dolore verso una follia violenta temporanea, c’è qualcosa di più “spirituale” nella sua azione. Per usare il linguaggio della scienza, si tratta di un tipo criminale passionale, diverso da quello istintivo. Entrambe queste categorie di crimini possono essere punite con la stessa severità, ma non si può negare che siano di natura diversa; inoltre, nessuno di noi potrebbe dire con certezza come reagiremmo se i nostri sentimenti e il nostro orgoglio venissero improvvisamente e crudelmente offesi. Anche quando approviamo la sentenza emessa contro un criminale, è ancora possibile provare un filo di compassione per lui: il suo atto non è stato frutto di calcoli egoistici e spietati, ma la conseguenza – per quanto orribile e sproporzionata – di motivi per cui altri sono responsabili. Come esempio di questo tipo di crimine, vorrei raccontare le circostanze legate a George Vincent Parker, modificando i nomi delle persone e dei luoghi ogni volta che ciò possa evitare di causare dolore.  
+Quasi quarant’anni fa, in una città degli Stati Uniti centrali viveva un certo signor Parker, che svolgeva l’attività di agente di commissione con grande successo. Era un uomo molto capace e, negli anni che seguirono la guerra di Crimea e quella americana, la sua fortuna aumentò rapidamente. Si costruì una villa in una bella zona residenziale alla periferia della città e, avendo una moglie affettuosa e comprensiva, sembrava destinato a trascorrere gli ultimi anni della sua vita felicemente. L’unica difficoltà che doveva affrontare era la mancanza di capacità di comprendere il carattere di suo figlio unico, nonché di decidere quali progetti intraprendere per il suo futuro.
+George Vincent Parker, il giovane in questione, apparteneva a quel tipo di persone che continuamente ricorre nella storia e che tendono sempre verso il tragico. Per qualche strano effetto dell’atavismo, non provava alcun affetto per la grande città e per la sua frenetica vita, né per le noiose routine lavorative, né aveva l’ambizione di godere dei benefici che una carriera di successo nel mondo degli affari poteva portare. Non condivideva gli interessi o i modi di comportamento di suo padre, e la vita d’ufficio gli risultava odiosa. Tuttavia, questa avversione al lavoro non derivava da cattiveria o indolenza, ma era innata e costituzionale. In altri ambiti, invece, la sua mente era sveglia e ricettiva: amava la musica e dimostrava una notevole predisposizione in questo campo; era un ottimo linguista e possedeva anche un certo gusto per la pittura. In breve, era un uomo dal temperamento artistico, con tutti i difetti di nervosismo e carattere che tale temperamento comporta. A Londra avrebbe incontrato centinaia di persone dello stesso tipo e avrebbe potuto trovare un’occupazione congeniale dedicandosi alla letteratura o alla critica d’arte. Tra i commercianti di cotone delle Midlands, però, la sua posizione era isolata; suo padre non poteva fare altro che scuotere la testa, ritenendolo del tutto inadatto a proseguire l’attività familiare. Era di indole gentile, riservato con gli estranei, ma molto popolare tra i pochi amici che aveva. Una o due volte si era notato che fosse capace di provare intensi momenti di passione quando si sentiva ingiustamente trattato.
+Questo è il tipo di uomo che non suscita affetto nelle persone impegnate nella vita pratica, ma che inevitabilmente attira la natura femminile. C’è in lui una certa fragilità, un bisogno ingenuo di comprensione e simpatia a cui il cuore di una donna risponde immediatamente. E spesso è proprio la donna più forte e vigorosa ad essere la prima ad ascoltare quel richiamo.  
+Non sappiamo quali altre consolazioni questo tranquillo dilettante abbia trovato nella vita, ma conosciamo i dettagli di un legame che ebbe: fu durante una serata musicale a casa di un medico locale che incontrò per la prima volta Miss Mary Groves. Il medico era suo zio; lei era venuta in città per fargli visita, ma la sua vita trascorreva accanto a suo nonno, un anziano signore ancora molto attivo, il cui ottantesimo anno di età non gli impediva di svolgere tutti i doveri tipici di un gentiluomo di campagna, compresi quelli legati alle funzioni pubbliche.  
+Dopo la tranquillità di una dimora isolata, la ragazza, nel fiore della sua giovinezza e bellezza, godette della vita in città e sembrò essere particolarmente attratta da questo raffinato giovane musicista, il cui aspetto e i modi indicavano quella nota di romanticismo che tutte le ragazze desiderano. Anche lui fu attratto da lei per la sua freschezza tipica delle campagne e per la simpatia che dimostrava nei suoi confronti. Prima del suo ritorno alla dimora di campagna, l’amicizia si trasformò in amore e i due si fidanzarono.
+Ma entrambe le famiglie coinvolte non vedevano con favore questo fidanzamento. Il vecchio Parker era morto e sua vedova disponeva di mezzi sufficienti per vivere comodamente, ma diventava ancora più urgente trovare una professione per suo figlio. La sua invincibile avversione verso gli affari rappresentava un ostacolo insormontabile. D’altra parte, la giovane proveniva da una buona famiglia e i suoi parenti, guidati dal vecchio signore del posto, si opponevano al suo matrimonio con un giovane senza soldi, dalle strane preferenze e dal carattere bizzarro. Così il fidanzamento andò avanti per quattro anni; durante questo periodo i due innamorati continuarono a scriversi costantemente, ma si incontravano raramente. Alla fine di quel periodo lui aveva ventiquattro anni e lei ventitré, ma la prospettiva del loro matrimonio sembrava ancora più lontana che mai. Alla fine, le preghiere dei suoi parenti ebbero la meglio sulla sua fedeltà e lei decise di porre fine a quel legame. Ci provò cambiando il tono delle sue lettere e inserendo frasi allusive per prepararlo al colpo imminente.  
+Il 12 agosto del 18, scrisse che aveva conosciuto un prete, l’uomo più affascinante che avesse mai incontrato in vita sua. “Sta soggiornando da noi”, disse, “e mio nonno pensava che fosse perfetto per me, ma questo non è possibile”. Nonostante alcune parole di conforto, questa lettera gettò Vincent Parker nel più profondo sconforto. Sua madre raccontò in seguito quanto fosse depresso; il fatto che soffrisse già di una naturale malinconia e tendesse sempre a vedere le cose dal lato peggiore rendeva la sua situazione ancora più grave. Il giorno dopo ricevette un’altra lettera, il cui tono era ancora più deciso:  
+“Devo dirti qualcosa di importante, e meglio farlo subito”, scriveva lei. “Mio nonno ha scoperto della nostra corrispondenza ed è furioso all’idea che possa esserci qualche ostacolo al nostro matrimonio. Voglio che tu mi liberi, così potrò dichiarare pubblicamente di essere libera. Non prendertela troppo a male, per pietà. Se posso evitarlo, non sposerò mai quel prete”.  
+Questa seconda lettera ebbe un effetto devastante su di lui. Era talmente sconvolto che sua madre dovette chiedere ad un amico di famiglia di restare con lui tutta la notte. Camminava avanti e indietro, in preda a una nervosa agitazione, piangendo continuamente; le sue mani e i suoi piedi tremavano convulsivamente. Gli fu somministrata morfina, ma senza alcun effetto. Rifiutò di mangiare qualsiasi cosa. Gli fu estremamente difficile rispondere alla lettera; il giorno dopo riuscì a farlo solo con l’aiuto dell’amico che era rimasto con lui. La sua risposta era ragionevole, e anche piena di affetto.
+“Mia cara Mary,” le scrisse. “Tu sarai sempre la persona più cara per me. Dire che non sono particolarmente addolorato sarebbe una bugia, ma comunque sai che non sono il tipo da mettermi di mezzo tra te e i tuoi desideri. Non rispondo alla tua ultima lettera, se non per dirti che vorrei sentire dalle tue stesse labbra quali siano le tue intenzioni, e allora le acconsentirò. Mi conosci troppo bene per pensare che possa cedere a sciocchezze o sentimentalismi inutili. Prima di lasciare l’Inghilterra vorrei rivederti un’ultima volta, anche se Dio sa quanto mi costi dirlo. Ammetterai che il mio desiderio di vederti è del tutto naturale. Dimmi nella tua prossima lettera dove vuoi che ci incontriamo. Sempre, con affetto, tuo GEORGE.”  
+Il giorno dopo scrisse un’altra lettera in cui la pregava ancora una volta di fissargli un appuntamento, dicendo che qualsiasi luogo tra la loro casa e Standwell, il villaggio più vicino, andasse bene. “Sono malato e profondamente turbato. Non mi meraviglio che tu lo sia anche tu,” le scrisse. “Dopo questo ultimo incontro, entrambi saremo più felici, sia nel corpo che nello spirito. Sarò all’appuntamento, a qualunque costo. Sempre tuo affettuoso GEORGE.”  
+Sembra che abbia ricevuto una risposta in cui le veniva fissato un appuntamento, perché il 19 marzo scrisse di nuovo: “Mia cara Mary, dirò solo che arriverò con il treno di cui parli. Spero che tu non ti preoccupi troppo per questa faccenda. Per la mia tranquillità interiore, vorrei rivederti. Non penserai certo che sia egoismo da parte mia. Del resto, ripeto solo ciò che ho già detto: voglio sentire dalle tue stesse labbra quali siano i tuoi desideri e li acconsentirò. Ho abbastanza savoir faire per non creare problemi inutilmente. Non lasciare che io diventi causa di litigi tra te e tuo nonno. Se vuoi venire all’ostello, non mi muoverò fino al tuo arrivo. Ma lascio questa decisione a te.”  
+Proprio come il professor Owen riesce a ricostruire un intero animale partendo da un singolo osso, anche da questa breve lettera emerge chiaramente la vera natura di quest’uomo: i frammenti di francese, le allusioni autoconscie al proprio savoir faire, le assicurazioni enfatiche ma prive di significato. Tutto ciò costituisce in realtà un sottile autoritratto.
+La signorina Groves aveva già rimpianto di avergli concesso quell’appuntamento. Forse in quel suo eccentrico amante c’erano alcune caratteristiche che ora le tornavano in mente e le avvertivano di non fidarsi della sua influenza, “Mio caro George,” scriveva, “ti scrivo con la massima urgenza per dirti di non venire assolutamente. Me ne vado oggi stesso e non so quando tornerò. Non desidero vederti se è possibile evitarlo. E in realtà ora non ci sarà più alcuna possibilità. È meglio porre fine a questa situazione di incertezza subito e dire addio senza incontrarci. Sono sicura che non potrei sopportare quell’incontro. Se scrivi ancora entro i prossimi tre giorni, riceverò la tua lettera. Ma dopo quel termine, sicuramente verrà letta, perché le mie lettere vengono attentamente controllate e persino aperte. Con affetto, Mary.”  
+Questa lettera sembrò dare concretezza a eventuali piani vaghi che il giovane potesse già avere in mente. Se gli restavano solo tre giorni per incontrarla, non poteva permettersi di perdere tempo. Nello stesso giorno si recò nella città della contea, ma essendo tardi non proseguì verso Standwell, dove lei abitava. I camerieri dell’hotel Midland notarono il suo comportamento strano e lo sguardo assente. Vagò per la sala da caffè mormorando tra sé; ordinò carne e tè, ma bevve solo un po’ di brandy e soda. La mattina seguente, il 21 agosto, prese un biglietto per Standwell e arrivò lì alle undici e mezza. Dalla stazione alla residenza della signorina Groves c’erano due miglia. Vicino alla stazione c’era una locanda chiamata “The Bull’s Head”. Vincent Parker vi andò e ordinò del brandy; poi chiese se fosse stata lasciata qualche nota per lui, ma apprese con disappunto che non ce n’erano. Intorno alle dodici e un quarto, si diresse verso la residenza.
+A circa due miglia di distanza dalla residenza, e a quattro miglia dalla locanda “The Bull’s Head”, c’era una scuola elementare molto attiva. Il preside della scuola era amico della famiglia Groves e conosceva anche Vincent Parker. Il giovane pensò quindi che quella fosse la migliore opportunità per ottenere informazioni. Arrivò alla scuola verso l’una e mezza. Il preside fu certamente sorpreso dall’aspetto disordinato e dal forte odore di brandy di quel visitatore, ma rispose alle sue domande con discrezione e cortesia.  
+“Sono venuto da voi,” disse Parker, “in qualità di amico della signorina Groves. Immagino che sappiate dell’impegno tra noi, ”  
+“So che c’era un impegno, ma che è stato annullato,” rispose il preside.  
+“Sì,” disse Parker. “Lei mi ha scritto per rompere l’impegno e rifiuta di vedermi. Voglio sapere esattamente cosa sta succedendo, ”  
+“Qualsiasi informazione io possa avere,” rispose il preside, “è confidenziale. Quindi non posso dirvela.”
+“I lo scoprirò prima o poi,” disse Parker, e poi chiese chi fosse il prete che aveva soggiornato nella dimora. Il padrone ammise che c’era stato davvero un prete, ma rifiutò di fornire il suo nome. Parker chiese quindi se Miss Groves si trovasse ancora nella dimora e se venissero usate alcune misure coercitive nei suoi confronti. L’altro rispose che lei era effettivamente lì e che non venivano utilizzate alcuna forma di costrizione.  
+“Prima o poi dovrò vederla,” disse Parker. “Ho scritto per annullare il suo fidanzamento, ma devo sentire dalle sue stesse labbra che mi rifiuta. È maggiorenne ormai e deve decidere da sola. So di non essere una buona partita, e non voglio ostacolarla.”  
+Il padrone osservò che era ora di andare a scuola, ma che Parker avrebbe potuto tornare alle quattro e mezza se aveva altro da dire; Parker promise quindi di ritornare. Non si sa come abbia trascorso le due ore successive, ma probabilmente trovò una locanda in campagna dove pranzò. Alle quattro e mezza fu di nuovo alla scuola e chiese al padrone consiglio su cosa fare. Questi suggerì che la cosa migliore fosse scrivere a Miss Groves e fissare un appuntamento per il giorno seguente.  
+“Se andaste a trovarla in casa, forse lei vi riceverebbe,” disse il padrone, pieno di comprensione, ma anche di imprudenza.  
+“Lo farò, così potrò liberarmi di questo pensiero,” rispose Vincent Parker.  
+Intorno alle cinque lasciò la scuola, con un’aria completamente calma e composta. Quaranta minuti dopo, l’ex innamorato arrivò alla casa della sua amata. Bussò alla porta e chiese di Miss Groves. Probabilmente lei lo aveva visto mentre scendeva il vialetto, perché lo accolse subito all’ingresso del salotto e lo invitò nel giardino. Il suo cuore batteva forte, temeva che suo nonno lo vedesse e scoppiasse una scenata. Era più sicuro trovarsi nel giardino che in casa. Camminarono insieme per un po’, e mezz’ora dopo li si vide chiacchierare tranquillamente su uno dei sedili del giardino. Poco dopo la cameriera venne a dire a Miss Groves che il tè era pronto; lei entrò da sola, e sembra evidente, considerando le opinioni di suo nonno, che Parker fu invitato anche lui a prendere il tè. Dopo un po’ uscì di nuovo nel giardino e rimase lì a parlare con il giovane per molto tempo; poi insieme si incamminarono lungo i sentieri di campagna. Ma cosa accadde durante quella passeggiata, quali accuse da parte sua, quali risposte da parte sua, non lo sapremo mai. Fu vista una sola volta in quel momento. Intorno alle otto e mezza di sera, un lavoratore che percorreva un lungo sentiero che portava dalla strada principale alla dimora vide un uomo e una donna camminare insieme; riconobbe Miss Groves nella semioscurità. Quando si girò indietro, li vide fermarsi e parlare faccia a faccia.
+Poco dopo, Reuben Conway, un lavoratore, stava passando lungo quel sentiero quando udì un debole suono di lamenti. Si fermò ad ascoltare e, nel silenzio della sera campestre, si rese conto che quel suono inquietante si stava avvicinando a lui. Da un lato del sentiero c’era un muro; guardandosi intorno, notò qualcosa che si muoveva lentamente nell’oscurità. Per un momento gli sembrò un animale ferito, ma avvicinandosi vide con stupore che si trattava di una donna che barcollava lungo il muro, appoggiandosi a esso per non cadere. Con un grido di orrore riconobbe il viso di Miss Groves, pallido e tremolante nell’oscurità.  
+“Portami a casa!”, sussurrò lei. “Quell’uomo laggiù mi sta uccidendo, ”  
+Il lavoratore, inorridito, la prese tra le braccia e la portò per circa venti metri verso casa.  
+“Vedi qualcuno lungo il sentiero?”, chiese lei quando si fermarono per riprendere fiato.  
+Lui guardò: attraverso il tunnel oscuro degli alberi, vide una figura nera che si muoveva lentamente dietro di loro. Aspettò ancora, tenendo sollevata la testa della ragazza, finché non li raggiunse il giovane Parker.
+“Chi sta uccidendo la signorina Groves?” chiese Reuben Conway.  
+“L’ho pugnalata,” disse Parker con estrema calma.  
+“Allora, dovresti aiutarmi a portarla a casa,” disse il lavoratore. Così, lungo quel sentiero buio, si mosse quella strana processione: il contadino e l’amante, con il corpo della ragazza morente tra loro.  
+“Povera Mary, ” mormorò Parker. “Non avresti dovuto tradirmi, ”  
+Quando arrivarono alla porta della capanna, Parker suggerì a Reuben Conway di correre a prendere qualcosa che potesse fermare la fuoriuscita di sangue. Lui se ne andò, lasciando quei due amanti per l’ultima volta insieme. Quando tornò, trovò Parker che le teneva qualcosa attorno al collo.  
+“È ancora viva?” chiese.  
+“Sì,” rispose Parker.  
+“Oh, portami a casa, ” gemette la povera ragazza. Più avanti, nel loro doloroso viaggio, incontrarono due agricoltori che li aiutarono.  
+“Chi ha fatto questo?” chiese uno di loro.  
+“Lui lo sa e io lo so,” disse Parker con tristezza. “Sono stato io ad assassinarla. E verrò impiccato per questo. L’ho fatto, e non c’è dubbio alcuno al riguardo.”
+Queste risposte non sembrarono mai portare insulti o offese su di lui, perché tutti sembravano essere stati sopraffatti dalla tragica situazione.  
+“Sto morendo!”, ansimò povera Mary; quelle furono le sue ultime parole. All’interno del cancello d’ingresso incontrarono il povero vecchio signore che correva disperatamente, spinto da voci vaghe su un disastro imminente. I portatori si fermarono quando videro i suoi capelli bianchi brillare nell’oscurità.  
+“Che cosa è successo?”, gridò.  
+Parker rispose con calma: “È stata vostra nipote Mary ad essere assassinata.”  
+“Chi l’ha fatto?”, urlò il vecchio.  
+“L’ho fatto io.”  
+“Chi siete voi?”, chiese ancora.  
+“Mi chiamo Vincent Parker.”  
+“Perché l’avete fatto?”
+Il tranquillo e concentrato comportamento di quell’uomo sembrava aver zittito ogni rimprovero.  
+“Le ho detto che l’avrei uccisa,” disse mentre tutti entravano insieme in casa. “Conosceva il mio carattere.”  
+Il corpo fu portato in cucina e posato sul tavolo. Nel frattempo, Parker aveva seguito quell’uomo anziano, confuso e sconvolto, nel salotto; gli porse alcune cose – tra cui l’orologio e del denaro – chiedendogli se volesse prendersene cura. L’anziano rifiutò con rabbia. Allora Parker tirò fuori dalla tasca due mazzi di lettere: tutto ciò che rimaneva della loro triste storia d’amore.  
+“Le prenderai tu cura?” chiese. “Puoi leggerle, bruciarle, fai pure ciò che vuoi. Non voglio che vengano portate in tribunale.”  
+L’anziano prese le lettere e le bruciò immediatamente.  
+Ora il dottore e il poliziotto, i due “accompagnatori” inevitabili della violenza, stavano correndo giù per la strada. Povera Mary, era morta sul tavolo della cucina, con tre gravi ferite al collo. Come fosse riuscita a camminare così lontano o a sopravvivere così a lungo, nonostante avesse la carotide recisa, è uno dei misteri di quel caso. Per quanto riguarda il poliziotto, non ebbe alcuna difficoltà a trovare il suo prigioniero: appena entrato nella stanza, Parker gli si avvicinò e dichiarò di volersi consegnare per l’omicidio di una giovane donna. Quando gli chiesero se fosse a conoscenza delle accuse rivolte contro di lui, rispose: “Sì, certo, verrò con voi tranquillamente, ma lasciate che la veda prima.”  
+“Che ne hai fatto del coltello?” chiese il poliziotto.  
+Parker glielo mostrò: era un coltello molto ordinario, con una lama a scatto. È sorprendente che in seguito gli venissero trovati altri due coltelli addosso. Lo portarono in cucina e lui guardò la sua vittima.  
+“Ora sono molto più felice di averlo fatto, spero anche lei lo sia,” disse.  
+Questo è il resoconto dell’omicidio di Mary Groves a opera di Vincent Parker: un crimine caratterizzato da quella sorta di superficialità e brutale ingenuità che distinguono la realtà dalla finzione. Nella finzione facciamo dire e fare alle persone ciò che riteniamo probabile che dicano o facciano, ma nella realtà loro dicono e fanno cose che nessuno si sarebbe mai aspettato. Che quelle lettere potessero preludere a un omicidio, o che dopo un crimine il colpevole cercasse di fermare le ferite della sua vittima, o avesse una conversazione del genere con l’anziano, queste sono cose che nessuna invenzione umana oserebbe mai immaginare. Leggendo tutte quelle lettere e valutando i fatti, è davvero difficile credere che Vincent Parker fosse uscito quel giorno con l’intenzione di uccidere la sua ex fidanzata. Ma se quell’idea orribile fosse sempre stata presente nella sua mente, o se sia sorta in un momento di follia scatenato dalla loro conversazione, questo non lo sapremo mai. È certo che lei non avrebbe potuto notare nulla di pericoloso in lui fino all’istante stesso del crimine, altrimenti avrebbe sicuramente chiesto aiuto al lavoratore che li aveva incrociati nel vicolo.
+Il caso, che suscitò il massimo interesse in tutta l’Inghilterra, fu giudicato davanti al Barone Martin durante le successive assise. Non c’era bisogno di provare la [[concepts/guilt|colpevolezza]] del prigioniero, poiché egli ne andava apertamente fiero; tuttavia l’intera questione ruotava attorno alla sua sanità mentale, e ciò portò a alcune complesse situazioni che hanno determinato la riforma di tutta la legge in materia. Si cercarono prove per dimostrare che la [[concepts/madness|pazzia]] fosse diffusa nella famiglia: su dieci cugini, cinque erano mentalmente malati. Sua madre comparve in tribunale, sostenendo con grande veemenza che suo figlio fosse pazzo, e che il proprio matrimonio fosse stato ostacolato proprio a causa della [[concepts/madness|pazzia]] presente nel suo [[motifs/blood|sangue]]. Tutti i testimoni concordarono sul fatto che il prigioniero non fosse una persona irascibile, ma sensibile, gentile e colto, con tendenze alla malinconia. Il cappellano del carcere affermò di aver avuto conversazioni con Parker e che la sua capacità di giudizio morale sembrava essere completamente assente; due specialisti in psichiatria lo esaminarono e conclusero che fosse mentalmente instabile.
+L'opinione si basava sul fatto che il prigioniero aveva dichiarato di non essere in grado di vedere di aver commesso alcun errore.
+“Miss Groves mi era stata promessa,” disse lui, “e quindi apparteneva a me. Potevo fare di lei ciò che volevo. Solo un miracolo potrebbe cambiare le mie convinzioni.”  
+Il dottore cercò di discutere con lui. “Supponiamo che qualcuno vi faccia una foto: quali misure prendreste per recuperarla?” chiese.  
+“Chiederei il risarcimento,” rispose, “altrimenti ucciderei il ladro senza esitazione.”  
+Il dottore sottolineò che esistevano leggi a cui ricorrere, ma Parker replicò che era nato in questo mondo senza che nessuno lo avesse consultato riguardo alle sue scelte, e quindi non riconosceva il diritto di alcuno di giudicarlo. La conclusione del dottore fu che il suo senso morale fosse più corrotto di qualsiasi caso avesse mai visto. Tuttavia, sostenere che ciò costituisse pazzia sarebbe stata un’idea pericolosa, poiché significava che, se una persona fosse abbastanza malvagia, potrebbe sfuggire alla punizione dei suoi crimini.
+Il barone Martin riassunse la questione in termini di buon senso: dichiarò che il mondo fosse pieno di persone eccentriche, e che concedere a tutte loro l’immunità derivante dalla follia rappresentasse un pericolo pubblico. Per essere considerati pazzi ai sensi della legge, una persona doveva trovarsi in uno stato tale da non rendersi conto di aver commesso un reato o di dover subire una punizione. Ora era chiaro che Parker ne fosse consapevole, visto che aveva parlato di essere impiccato. Pertanto, il barone accettò la condanna del giurì e condannò il prigioniero a morte.
+Lì la faccenda avrebbe potuto concludersi facilmente, se non fosse stato per i scrupoli di coscienza del barone Martin. La sua stessa decisione era stata ammirevole, ma le testimonianze di quei medici pazzi pesavano molto su di lui; inoltre, la semplice possibilità che un uomo davvero non responsabile delle proprie azioni potesse perdere la vita a causa della sua decisione lo turbava profondamente. È probabile che questo pensiero lo tenne sveglio tutta quella notte, perché il giorno dopo scrisse al Segretario di Stato, dichiarando di non volersi assumere la responsabilità di una tale decisione.  
+Il Segretario di Stato, dopo aver attentamente esaminato le prove e i commenti del giudice, stava per confermare la sua decisione quando, alla vigilia dell’esecuzione, arrivò una notizia da parte degli osservatori presenti in prigione: Parker mostrava chiari segni di follia. Di fronte a questa situazione, il Segretario di Stato non ebbe altra scelta se non rinviare l’esecuzione e incaricare una commissione di quattro eminenti psichiatri di valutare lo stato del prigioniero. Questi quattro conclusero all’unanimità che Parker era perfettamente sano di mente. Tuttavia, esiste una regola non scritta secondo cui un prigioniero una volta graziato non viene mai giustiziato; pertanto la pena di Vincent Parker fu commutata in reclusione a vita, una decisione che, nel complesso, soddisfece la coscienza dell’opinione pubblica.  
+Fine.

@@ -162,6 +162,80 @@ many of the professors are wishing they had imitated the peasant.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Natale e i primi giochi
+
+G. K. Chesterton
+
+----------------------------------------------------------------------------
+
+Talvolta sono stato perseguitato da una vaga storia riguardo a uno zio selvaggio e fantastico, nemico dei genitori e causa di rivoluzione nelle stanze dei bambini, che andava predicando una certa teoria; intendo la teoria secondo cui tutti gli oggetti che i bambini usano a Natale per quelli che noi chiamiamo scopi turbolenti o illegittimi furono in origine creati proprio per quegli scopi; e non per i banali scopi domestici cui ora servono. Per esempio, supponiamo che la storia cominci con una battaglia di cuscini in una [[motifs/night|camera]] da notte per bambini; e ragazzi che si prendono a colpi e a botte con quelle mazze bianche e informi. Lo zio, che sarebbe un professore di immensa dottrina e di ancor più grande [[concepts/imagination|immaginazione]] e inventiva, procederebbe a rendersi impopolare presso i genitori e popolare presso i bambini, dimostrando che il cuscino, nell'arte preistorica, è manifestamente concepito per essere una mazza; che la finta battaglia nella [[motifs/night|camera]] da notte è in realtà più antica e autorevole dell'intera istituzione dei letti o della biancheria da letto; che in qualche [[archetypes/innocent|innocente]] mattino del mondo tali cherubini guerreggiarono l'un l'altro con tali nuvole, forse fatte di bianco sciamito, mistico, meraviglioso e imbottito di piume delle ali degli angeli; e che fu solo in seguito, quando la stanchezza cadde sul mondo e i giovani dèi si furono stancati dei loro sport divini, che dormirono con il capo sulle loro armi; e così, per una graduale dislocazione dell'intero scopo originario del cuscino, esso giunse a essere riconosciuto come avente il suo giusto posto su un letto.
+
+È ovvio che un qualsiasi numero di queste leggende potrebbe essere lanciato con disinvoltura e grazia e generale compiacimento. Si sosterrebbe, davanti a ragazzini che assentono avidamente, che le fionde sono davvero più antiche e più maestose delle finestre. Le finestre erano semplicemente bersagli eretti per le fionde, chiari e fragili, affinché quegli arcieri arcaici potessero essere ricompensati con un fragore e uno scintillio di cristallo; che fu solo dopo che l'oppressivo sacerdozio del Paleolitico medio ebbe spietatamente soppresso la Cultura della Fionda, che la gente giunse gradualmente a usare i bersagli di vetro ormai inutili per scopi di illuminazione o ventilazione. Similmente, il burro fu in origine usato unicamente per fare scivoli di burro sul cammino di genitori e tutori, e fu solo per un tardo incidente nella vita di qualche cittadino eminente benché prostrato, cui capitò di leccare il selciato, che se ne scoprirono le qualità commestibili.
+
+Il principio sovversivo può essere applicato a quasi ogni gioco infantile; si potrebbe dire che i cacciatori primitivi cacciavano la pantofola, molto prima che quell'animale saltellante ed elusivo venisse duplicato e indossato come spoglia pelosa sui piedi del cacciatore. Si potrebbe dire che nessun fazzoletto fu mai usato per soffiarsi il naso, come ai nostri giorni degenerati, prima che fosse stato usato per secoli a bendare gli occhi, come nel ieratico mistero di Mosca-cieca.
+
+È vero, non posso qui esporre in gran dettaglio alcuna prova concreta di queste origini preistoriche; ma non ho mai sentito di nessuno che si desse pena per le prove storiche a proposito di origini preistoriche. C'è tanta evidenza per la teoria del cuscino primitivo del mio zio prediletto quanta ce n'è per il dettagliato resoconto del signor H.G. Wells sull'orribile Vecchio, che governava col terrore su venti o trenta uomini più giovani che avrebbero potuto scaraventarlo fuori dalla [[motifs/cave|caverna]] a calci sul suo orecchio scimmiesco; c'è tanta prova scientifica quanta ce n'è per il romanzo del dottor Freud, altamente moderno e morboso, su un'intera razza di pervertiti sessuali che fanno di un intero servizio religioso un parricidio; c'è tanta abbondanza di dati per la dimostrazione quanta nella sentimentale sceneggiatura cinematografica del signor Gerald Heard sugli antropoidi arboricoli che baciano le pietre che scagliano contro i leoni. Nessuno si aspetta prove storiche per cose di questo genere, perché sono preistoriche; e a nessuno [[motifs/dreams|viene in mente]] di tentare di fondarle su fatti scientifici; sono semplicemente Scienza. Non vedo perché il mio zio prediletto e io non dovremmo essere Scienza anche noi. Non vedo perché non dovremmo semplicemente inventare cose di nostra testa; cose che non possono in alcun modo essere contraddette, così come non possono in alcun modo essere provate. L'unica differenza è che il mio zio e io, specialmente quando ci accingiamo con la generale intenzione di parlare del Natale, non riusciamo a suscitare quella curiosa avversione per il genere umano che oggi è considerata essenziale a qualsiasi [[concepts/history|storia]] scritta per gli umanitari. Il dottor Freud (come è forse naturale dopo una pesante giornata di colloqui psicopatici) pare aver preso una bella antipatia per gli esseri umani. Così, quando inventa la storia di come le loro prime istituzioni dimenticate sorsero in tempi del tutto non documentati, rende la storia della famiglia quanto più sgradevole può; come qualunque altro romanziere moderno. Ma il mio zio e io (specialmente a Natale) ci troviamo per caso in uno stato d'animo più allegro e caritatevole; e, poiché non ci sono ferrei credi o dogmi a trattenere alcuno da alcunché, abbiamo tanto diritto di immaginare cose allegre quanto lui ne ha di immaginarne di cupe. E ci pregiamo di annunciare, con la medesima autorità, che tutto cominciò con una celeste battaglia di cuscini di cherubini, o che il mondo intero fu fatto interamente per i giochi dei bambini.
+
+Le due o tre verità, di cui l'ipotesi di mio zio è per lo meno
+simbolica o suggestiva, si possono comodamente ordinare così.
+Anzitutto, va sempre ricordato che c'è davvero un mistero,
+e qualcosa che somiglia a un mistero religioso, nell'origine di
+molte cose divenute in seguito (assai giustamente) pratiche e
+(assai a torto) prosaiche. Se mio zio, in un momento di festa, dichiarasse
+che i fuochi d'artificio vennero prima dei fuochi, e furono usati per fregiare
+il nero della [[motifs/night|notte]] con illuminazioni cerimoniali, prima ancora che
+si notasse che potevano cuocerci il cibo o scaldarci le mani,
+non parlerebbe forse con pedantesca precisione; ma non sarebbe
+lontano da una notevole [[concepts/truth|verità]] storica. Vi sono molte strane
+tracce del lato rituale del coltivare o dell'accudire gli [[motifs/animals|animali]] che precede
+il lato pratico. In secondo luogo, va ricordato che questi riti,
+compreso il Natale, sono stati nel complesso conservati dal popolo;
+poiché un vero popolo è assai più tradizionale di un'aristocrazia.
+Sono stati conservati dai poveri, benché in genere da poveri
+che possedevano qualche piccola proprietà, in breve, e in modo assai marcato,
+dai contadini. Così, se mio zio, alzandosi ancora una volta ilare,
+proponesse alla compagnia l'opinione che la calza natalizia
+imbottita di doni e appesa alla colonna del letto
+fosse cosa assai più antica e autorevole delle mere calze
+umane comuni, degradate a livrea di comuni gambe umane,
+lo rasserenerei assicurandogli che coglievo il suo punto, per quanto
+potessi non accettarne questa letterale illustrazione.
+
+Ora è assai interessante ricordare che vi è un altro proverbio,
+o [[concepts/truth|verità]] tradizionale, sulle calze in rapporto ai contadini.
+Si è spesso detto che il contadino metteva la sua piccola proprietà
+nella calza, ficcava il suo gruzzoletto d'oro nella calza,
+perché fosse al sicuro da ladri e banchieri. E il contadino
+veniva ammonito in proposito, da non meno di novemilanovecento-
+novantanove conferenzieri di economia politica e professionali professori
+di economia o di alta finanza. Gli si faceva pazientemente notare
+che le monete di metallo non si moltiplicano come vermi lasciate in una calza;
+che le ghinee non hanno piccole famiglie di ghinee come le hanno i porcellini d'India;
+che una calza non è un nido in cui una sterlina possa deporre
+mezze sterline come un uccello depone le uova; o, in linguaggio più dotto ma meno
+sensato, che il suo denaro non gli fruttava alcun interesse.
+Sicché l'unico modo di far fare al denaro ciò che il denaro non può fare,
+e l'unico vero schema scientifico per dimostrare che c'è una
+ghinea e mezza quando c'è una sola ghinea, è metterlo in banca.
+Una banca, come i novemila professori di economia spiegavano
+allo stupido o stupefatto contadino, non può mai mancare di pagare interessi.
+Una calza può logorarsi o bucarsi; i ladri possono introdursi
+e rubare; ma è manifestamente impossibile che i banchieri rubino;
+ed è persino una violazione delle leggi della [[concepts/nature|natura]] che le cose in banca vengano rubate;
+tanto più che spariscano del tutto, in un centro di speculazione
+così vivace e affaccendato. Poiché le banche non possono concepibilmente fallire,
+argomentavano i professori, saresti evidentemente più ricco, col denaro
+di qualcun altro proveniente da chissà dove e in qualche modo misteriosamente aggiunto al tuo,
+se lo togliessi dalla calza e lo mettessi in banca.
+Il contadino restava sempre sbalordito; ma era stranamente ostinato.
+Da allora la situazione si è modificata in vari modi; e un buon
+numero dei professori rimpiange di non aver imitato il contadino.
+
+- from The Coloured Lands
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="christmas-games (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/innocent,motif/cave,motif/dreams,motif/night,concept/history,concept/imagination,form/history"></span>

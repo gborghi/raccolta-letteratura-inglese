@@ -226,6 +226,219 @@ of pies and puddings, without so much as looking out of the [[motifs/window|wind
 to notice the [[historical-references/french-revolution|French Revolution]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Introduzione a «[[motifs/love|Amore]] e amicizia» di Jane Austen,
+di G.K. Chesterton
+
+In una recente polemica giornalistica sulla convenzionale sciocchezza e
+uniformità di tutte le generazioni umane precedenti alla nostra, qualcuno
+disse che nel mondo di Jane Austen ci si aspettava che una signora
+svenisse quando riceveva una proposta di matrimonio. A coloro che si
+danno il caso di aver letto una qualsiasi delle opere di Jane Austen,
+l'associazione di idee apparirà lievemente comica. Elizabeth Bennett, per
+esempio, ricevette due proposte da due ammiratori assai sicuri di sé e
+persino autoritari; e di certo non svenne. Sarebbe più vicino alla
+[[concepts/truth|verità]] dire che svennero loro.
+
+Ma in ogni caso può essere divertente per coloro che così si divertono, e
+forse persino istruttivo per coloro che così hanno bisogno d'essere
+istruiti, sapere che la primissima opera di Jane Austen, qui pubblicata
+per la prima [[motifs/time|volta]], potrebbe dirsi una [[forms/satire|satira]] sulla
+[[forms/fable|favola]] della dama che sviene. "Guardati dagli svenimenti... per
+quanto a volte possano riuscire ristoratori e piacevoli, pure credimi
+finiranno, se troppo spesso ripetuti e in [[motifs/seasons|stagioni]] sconvenienti,
+per riuscire distruttivi per la tua Costituzione." Tali furono le parole
+della morente Sophia all'afflitta Laura; e vi sono critici moderni capaci
+di addurre PROPRIO QUESTE come prova che tutta la società fosse in
+deliquio nel primo decennio del diciannovesimo secolo. Ma in
+[[concepts/truth|verità]] è tutto il senso di questo piccolo scherzo che il
+deliquio della sensibilità non viene satireggiato perché fosse un fatto,
+neppure nel senso di una moda, ma satireggiato unicamente perché era
+finzione. Laura e Sophia sono rese ridicolmente diverse dalla vita
+proprio col farle svenire come le vere dame non svengono. Quei geniali
+moderni, che dicono che le vere dame svenivano davvero, si fanno in
+realtà abbindolare da Laura e Sophia, e credono a loro contro Jane
+Austen. Credono, non alle persone dell'epoca, ma ai più insensati
+romanzi dell'epoca, a cui neppure le persone dell'epoca che li leggevano
+credevano. Hanno mandato giù tutte le solennità dei Misteri di Udolpho, e
+non hanno nemmeno colto la burla di [[works/northanger-abbey-(austen)|Northanger Abbey]].
+
+Poiché se questi JUVENILIA di Jane Austen anticipano in modo speciale una
+qualche delle sue opere successive, essi anticipano certo il lato satirico
+di [[works/northanger-abbey-(austen)|Northanger Abbey]]. Del loro considerevole significato su quel lato
+qualcosa si potrà dire fra poco; ma sarà [[motifs/well|bene]] premettervi una
+parola sulle opere stesse in quanto oggetti di [[concepts/history|storia]] letteraria.
+Tutti sanno che la romanziera lasciò un [[forms/fragment|frammento]] incompiuto,
+pubblicato in seguito col nome di "The Watsons", e una storia compiuta
+intitolata "[[works/lady-susan-(austen)|Lady Susan]]", in forma epistolare, che ella stessa aveva
+apparentemente deciso di non pubblicare. Queste preferenze sono tutte
+pregiudizi, nel senso di questioni di gusto ingovernabile; ma confesso di
+ritenere un ben strano accidente storico che cose relativamente scialbe
+come "[[works/lady-susan-(austen)|Lady Susan]]" siano già state stampate, mentre cose relativamente
+vivaci come "[[motifs/love|Amore]] e amicizia" non fossero mai state stampate
+fino a ora. È quantomeno una curiosità della letteratura che simili
+curiosità della letteratura siano state quasi accidentalmente celate.
+Senza dubbio si sentì assai giustamente che si può andare troppo oltre nel
+rovesciare il cestino della carta straccia di un genio sul capo del
+pubblico; e che vi è un senso in cui il cestino della carta straccia è
+sacro quanto la [[motifs/grave|tomba]]. Ma senza arrogarmi in questa faccenda più
+diritto di quanto chiunque abbia sul proprio gusto, [[concepts/hope|spero]] mi sia
+consentito dire che io, per parte mia, avrei volentieri lasciato "[[works/lady-susan-(austen)|Lady Susan]]"
+nel cestino della carta straccia, se avessi potuto ricomporre "[[motifs/love|Amore]]
+e amicizia" per un album privato di ritagli; una cosa su cui ridere di
+nuovo e ancora come si ride sulle grandi parodie di Peacock o di Max
+Beerbohm.
+
+Jane Austen lasciò tutto ciò che possedeva alla sorella Cassandra,
+compresi questi e altri manoscritti; e il secondo volume di essi,
+contenente questi, fu lasciato da Cassandra al fratello, l'ammiraglio Sir
+Francis Austen. Egli lo diede alla figlia Fanny, che a sua volta lo
+lasciò al fratello Edward, il quale era il Rettore di Barfrestone nel
+[[characters/kent|Kent]], e il padre della signora Sanders, alla cui saggia decisione
+dobbiamo la pubblicazione di queste prime fantasie della sua prozia; che
+qui sarebbe fuorviante chiamare la sua bis-prozia. Ognuno giudicherà da
+sé; ma io stesso penso che ella aggiunse qualcosa di intrinsecamente
+importante alla letteratura e alla [[concepts/history|storia]] letteraria; e che vi
+sono carrettate di materiale stampato, regolarmente riconosciuto e
+stampato tra le opere di tutti i grandi autori, che sono assai meno
+caratteristiche e assai meno significative di queste poche facezie da
+camera dei bambini.
+
+Poiché "[[motifs/love|Amore]] e amicizia", con alcuni passi analoghi nei
+frammenti che l'accompagnano, è davvero una spassosa parodia; qualcosa di
+assai migliore di ciò che le dame del [[motifs/time|tempo]] chiamavano una gradevole
+chiacchierina. È una di quelle cose che si possono leggere con tanto più
+diletto in quanto furono scritte con diletto; in altre parole, è tanto
+migliore per il fatto d'essere giovanile nel senso d'essere gioiosa. Si
+dice che ella abbia scritto queste cose all'età di diciassette anni,
+evidentemente nel medesimo spirito con cui si redige una rivista di
+famiglia; poiché i medaglioni inclusi nel manoscritto erano opera della
+sorella Cassandra. L'intera cosa è piena di quella sorta di allegria che è
+sempre più alta in privato che in pubblico; come la gente ride più forte
+nella casa che nella strada. Molti dei suoi ammiratori non se lo
+aspetterebbero, forse molti dei suoi ammiratori non ammirerebbero, la sorta
+di spasso che si trova nella lettera della giovane dama "i cui sentimenti
+erano troppo forti per il suo giudizio", e che osserva incidentalmente "Ho
+assassinato mio padre in un'epoca assai precoce della mia vita, da allora
+ho assassinato mia madre, e ora sto per assassinare mia sorella".
+Personalmente la trovo ammirevole; non la condotta, ma la confessione. Ma
+vi è molto più che ilarità nell'umorismo, anche in questo stadio
+della sua crescita. Vi è quasi dappertutto una certa nitidezza nel
+nonsenso. Vi è non poco della vera ironia austeniana. "Il nobile Giovinetto
+ci informò che il suo nome era Lindsay... per particolari ragioni, tuttavia,
+lo celerò sotto quello di Talbot." Qualcuno desiderava davvero che ciò
+sparisse nel cestino della carta straccia? "Non era nulla di più che una
+mera giovane donna di buon carattere, cortese e compiacente; come tale a
+malapena potevamo provare antipatia per lei... era soltanto un oggetto di
+disprezzo." Non è forse questo qualcosa come il primo tenue tratto nella
+figura di [[characters/fanny-price|Fanny Price]]? Quando un forte bussare si ode alla porta della
+Casetta Rustica presso l'Uske, il padre dell'eroina domanda la
+[[concepts/nature|natura]] del rumore, e per caute tappe di inferenza essi giungono a
+definirlo come qualcuno che dal di fuori percuote la porta.
+
+"'Sì (esclamai io) non posso fare a meno di pensare che debba essere
+qualcuno che bussa per essere ammesso.'"
+
+"Questo è un altro punto (replicò egli) non dobbiamo pretendere di
+determinare per quale motivo la persona possa bussare... benché che
+qualcuno DAVVERO batta alla porta io ne sia in parte convinto." Nel
+esasperante agio e lucidità di quella risposta, non vi è forse il
+presagio di un altro e più famoso padre; e non udiamo forse per un istante,
+nella rustica casetta presso l'Uske, l'inconfondibile voce del signor
+Bennett?
+
+Ma vi è una ragione più ampia e critica per trarre piacere dalla gaiezza
+di questi vari travestimenti e bagattelle. Il signor Austen Leigh pare
+averle giudicate non abbastanza serie per la reputazione della sua grande
+parente; ma la [[concepts/greatness|grandezza]] non è fatta di cose serie, nel senso
+di cose solenni. La ragione qui, tuttavia, è seria quanto egli o chiunque
+altro potrebbe [[motifs/desire|desiderare]]; poiché riguarda la qualità
+fondamentale di uno dei più raffinati talenti delle lettere.
+
+Un interesse psicologico assai reale, che quasi arriva a un mistero
+psicologico, si lega a qualsiasi opera giovanile di Jane Austen. E per
+quell'unica ragione, tra le altre, che è stata a malapena sottolineata a
+sufficienza. Per quanto grande fosse, nessuno era propenso a sostenere che
+ella fosse una poetessa. Ma era un esempio marcato di ciò che si dice del
+poeta; era nata, non costruita. Rispetto a lei, anzi, alcuni dei poeti
+furono davvero costruiti. Molti uomini che ebbero l'aria di dar fuoco al
+mondo hanno lasciato quantomeno una ragionevole discussione su ciò che
+diede fuoco a loro. Uomini come Coleridge o Carlyle avevano certo acceso
+le loro prime torce alle fiaccole di mistici tedeschi o speculatori
+platonici altrettanto fantastici; erano passati attraverso fornaci di
+cultura in cui persone anche meno creative avrebbero potuto essere
+infiammate alla creazione. Jane Austen non fu infiammata né ispirata né
+persino mossa a essere un genio; ella semplicemente era un genio. Il suo
+[[motifs/fire|fuoco]], per quanto ve ne fosse, cominciava con lei stessa; come il
+[[motifs/fire|fuoco]] del primo uomo che sfregò insieme due bastoncini secchi.
+Qualcuno direbbe che erano bastoncini assai secchi quelli che ella sfregò
+insieme. È certo che ella, per proprio talento artistico, rese interessante
+ciò che migliaia di persone superficialmente simili avrebbero reso
+insipido. Non vi era nulla nelle sue circostanze, e neppure nei suoi
+materiali, che sembri manifestamente destinato alla formazione di un simile
+[[archetypes/artist|artista]]. Potrebbe sembrare un uso assai avventato della parola
+sbagliata dire che Jane Austen fosse elementare. Potrebbe persino sembrare
+un po' arbitrario insistere che ella fosse originale. Eppure questa obiezione
+verrebbe dal critico che non considera realmente cosa si intenda per elemento
+o per origine. Forse la si potrebbe esprimere altrettanto [[motifs/well|bene]] in ciò
+che realmente si intende per individuo. La sua capacità è un assoluto; non
+può essere scomposta in influenze. È stata paragonata a Shakespeare; e in
+questo senso ella richiama davvero la burla dell'uomo che diceva di saper
+scrivere come Shakespeare, se solo ne avesse avuto l'ingegno. In questo caso
+ci sembra di vedere un migliaio di zitelle sedute a un migliaio di tavolini
+da tè; e tutte avrebbero potuto scrivere "[[works/emma-(austen)|Emma]]" se solo ne avessero
+avuto l'ingegno.
+
+Vi è dunque, anche nel considerare i suoi più rozzi esperimenti giovanili,
+l'interesse di guardare una mente e non uno [[motifs/mirror|specchio]].
+Può darsi che non sia consapevole di essere se stessa; ma non è, come tanti
+imitatori più colti, consapevole di essere qualcun altro.
+La forza, al suo primo e più fioco apparire, viene da dentro e non soltanto
+da fuori.  Questo interesse, che le appartiene in quanto individuo
+dotato di un istinto superiore per l'intelligente critica della vita,
+è la prima delle ragioni che giustificano uno studio delle sue opere giovanili;
+è un interesse per la psicologia della vocazione artistica.
+Non dirò del temperamento artistico; perché nessuno ebbe mai meno
+di quella noiosa cosa comunemente così chiamata di quanto ne avesse Jane Austen.
+Ma se questo soltanto sarebbe una ragione per scoprire come cominciò il suo lavoro,
+diventa ancor più pertinente quando abbiamo scoperto come cominciò davvero.
+Questa è qualcosa di più della scoperta di un documento;
+è la scoperta di un'ispirazione.  E quell'ispirazione era
+l'ispirazione di Gargantua e di [[works/pickwick-(chesterton)|Pickwick]]; era la gigantesca
+ispirazione della risata.
+
+Se parve strano chiamarla elementare, potrà parere altrettanto
+strano chiamarla esuberante.  Queste pagine tradiscono il suo segreto;
+che è di essere stata per natura esuberante.  E la sua potenza venne,
+come viene ogni potenza, dal controllo e dall'indirizzo dell'esuberanza.
+Ma c'è la presenza e la pressione di quella vitalità dietro le sue
+mille frivolezze; avrebbe potuto essere stravagante, se avesse voluto.
+Era l'esatto contrario di una zitella inamidata o affamata;
+avrebbe potuto essere una buffona come la Comare di Bath, se avesse scelto.
+È questo che dà una forza infallibile alla sua ironia.
+È questo che dà un peso sbalorditivo alle sue litoti.
+Anche in fondo a questa [[archetypes/artist|artista]], reputata senza passioni,
+c'era passione; ma la sua passione originaria era una sorta di gioioso
+disprezzo e uno spirito combattivo contro tutto ciò che riteneva
+morboso e lasso e velenosamente sciocco.  Le armi che forgiò
+erano così finemente rifinite che forse non l'avremmo mai saputo,
+se non per questi scorci della rozza fornace da cui uscirono.
+Infine vi sono due fatti ulteriori coinvolti, che lascerò
+ai critici moderni e ai corrispondenti dei giornali da meditare
+e spiegare a loro comodo.  Uno è che questa realista, nel rimproverare
+i romantici, si preoccupa moltissimo di rimproverarli proprio per la cosa
+per cui il sentimento rivoluzionario tanto li ha ammirati;
+cioè per la loro glorificazione dell'ingratitudine verso i genitori e per la loro comoda
+presunzione che i vecchi abbiano sempre torto.  «No!» dice il nobile
+Giovane in «[[motifs/love|Amore]] e Amicizia», «mai si dovrà dire che io
+abbia fatto un favore a mio padre!»  E l'altro è che non v'è [[archetypes/shadow|ombra]]
+d'indizio in alcun luogo che questo intelletto indipendente e spirito ridente
+fosse altro che appagato di una angusta routine domestica,
+in cui scriveva una storia domestica come un diario negli intervalli
+di torte e budini, senza nemmeno affacciarsi alla [[motifs/window|finestra]]
+per notare la [[historical-references/french-revolution|Rivoluzione francese]].
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="intro-love-and-freindship (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/seasons,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/fable,form/fragment,form/history,form/satire,character/kent"></span>

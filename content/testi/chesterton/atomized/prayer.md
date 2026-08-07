@@ -43,7 +43,7 @@ Heard all the crickets singing, and was glad.
 
 Una [[motifs/prayer|Preghiera]] nelle Tenebre  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 Questo solo, o cielo--se io rimugino o deliro,  
 non compatirmi; ma sia nutrito il mondo,  

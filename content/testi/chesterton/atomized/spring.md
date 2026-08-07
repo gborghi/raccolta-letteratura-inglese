@@ -73,7 +73,7 @@ Seconda [[motifs/spring|Primavera]]
 
 La Casa del Natale  
 
-Di G.K. Chesterton 
+Di G.K. Chesterton  
 
 Andò una madre spinta fuori  
 da una locanda a errare;  

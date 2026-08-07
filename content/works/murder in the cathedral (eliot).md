@@ -47,6 +47,11 @@ tags:
 > [!abstract] 
 > Verse drama of the martyrdom of Thomas Becket: the four tempters, the conflict of spiritual and temporal power, and his death in Canterbury Cathedral as a Christian martyr and christ-figure.
 
+## Capitoli / Chapters
+
+- [Part I](/testi/eliot/plays/murder_in_the_cathedral#act_1--scene_1)
+- [Part II](/testi/eliot/plays/murder_in_the_cathedral#act_2--scene_1)
+
 ## Connections
 
 **Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]

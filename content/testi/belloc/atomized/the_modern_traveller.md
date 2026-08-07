@@ -2549,6 +2549,2589 @@ Were they alive;
 but they are dead!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Indice
+
+I.
+
+II.
+
+III.
+
+IV.
+
+V.
+
+VI.
+
+VII.
+
+VIII.
+
+IX.
+
+X.
+
+XI.
+
+XII.
+
+XIII.
+
+XIV.
+
+Perdonate la sporcizia nella stanza.
+
+I.
+
+La “Minaccia Quotidiana”, presumo?
+
+Perdonate la sporcizia nella stanza.
+
+Non riesco a spiegartelo.
+
+Come può un uomo come me stare fuori posto…
+
+Senza le cose che vedi…
+
+Scudi, lance e probabilità
+
+E i fini dei piccoli dèi selvaggi.
+
+Sedetevi pure, scegliete un posto dove sedervi.
+
+Scusa l’espressione… Sono piuttosto diretto.
+
+E… scusate, ma l’avete?
+
+“Una penna stilografica? Ne ho un’altra qui…”
+
+Titolo:  
+Quello che hai portato… temo sia inadatto.
+
+Non sarà abbastanza lungo.)
+
+E così il pubblico vuole sentirlo dire
+
+Sulla spedizione
+
+Da dove sono appena tornato…
+
+Di come l’Albero Fetish fu bruciato;
+
+Di come abbiamo lottato per raggiungere la costa
+
+E abbiamo perso le munizioni…
+
+Come ci siamo ritirati, fianco a fianco;
+
+E così, come gli inglesi, morimmo.
+
+Beh, come sapete, non mi piace vantarmi…
+
+E, per di più, non riesco proprio a sopportarlo.
+
+Una posizione molto popolare.
+
+Ho detto al Duca l’altro giorno
+
+Il modo in cui la provavo io.
+
+Rispose con cortesia: “Oh!”
+
+Un editore… con un certo stile
+
+Di ciò che i olandesi chiamano “savoir faire”
+
+“Disse: ‘Signor Rooter, ha ragione.’”
+
+“E nessuno può dubitarne.”
+
+“Molto vero,” mormorò la duchessa.
+
+I suoi commenti possono essere brevi e scarsi…
+
+Ma molto raramente banale.
+
+Titolo:  
+Comunque, rappresentando come fai tu…
+
+Una prospettiva pubblica e personale
+
+Ti do il permesso di prendere appunti
+
+Alcune osservazioni… pochissime soltanto.
+
+Ma comprendi che questo non è…
+
+Un colloquio formale.
+
+E, prima di tutto, inizierò…
+
+Parlando del Comandante Sin.
+
+II.
+
+Povero Henry Sin… fin da piccolo
+
+Temo che sia sempre stato piuttosto selvaggio…
+
+Ma tutti i suoi difetti derivavano…
+
+Verso qualcosa di libero e senza restrizioni…
+
+Un po’ soddisfacente, un po’ doloroso
+
+Le persone che conosceva.
+
+Ineducato… per ciò che i nostri tempi richiedono
+
+Lento e un po’ bugiardo…
+
+Aveva un modo stupido di fare
+
+Sempre imprecare… più o meno.
+
+E, infine, diciamo…
+
+Un po’ trasandato nell’abbigliamento…
+
+Un po’ incline all’ubriachezza…
+
+Un giocatore d’azzardo anche lui eccessivo
+
+E non si è mai saputo che pagasse.
+
+Per quanto riguarda i suoi club a Londra, lui…
+
+Fu espulso da tre istituti all’età di dieci anni.
+
+Un uomo davvero bohémien…
+
+Ma davvero così crudele? Oh, no!
+
+Quando vengono menzionati questi elementi, si è detto tutto ciò che c’è da dire.
+
+E poi… il Comandante Sin è morto.
+
+Di chi è morto, a chi può giovare?
+
+Naturalmente, il pubblico sa cosa intendo.
+
+Pubblicare in inverno.
+
+Titolo:  
+Menziono l’intenzione…
+
+Connessione con il Comandante Sin;
+
+Il libro è con l’editore.
+
+E qui, tra le prove, trovo…
+
+Esattamente ciò che avevo in mente…
+
+Il ritratto a pagina tredici.
+
+Titolo:  
+Prega, fai una pausa e osserva…
+
+Le membra snelle, l’aspetto vigoroso
+
+Capelli arruffati e scuri…
+
+Lo sguardo imperativo e ardente
+
+Che fa il giro del mondo in un attimo…
+
+Tutto questo è nella scodella… ma cosa?
+
+Si dovrebbe principalmente osservare…
+
+La sua uniforme…
+
+Tradito un servizio diplomatico?
+
+Certo che sì! Non è certo nato così…
+
+Nella piccola Inghilterra. No!
+
+Oltre il Capo, oltre il Promontorio…
+
+Oltre Fernando Po
+
+In un lontano isola vide la luce
+
+Che brucia la zona torrida
+
+Ma il luogo in cui si trovava non fu mai del tutto…
+
+Indubbiamente conosciuto.
+
+Tendente verso la Martinica
+
+I suoi amici andarono da Farralone.
+
+Ma perché parlare proprio di questa discussione?
+
+Il “Globe” era interamente suo!
+
+Oh! certamente, in un simile momento di nascita…
+
+Nessuna bandiera insignificante viene sventolata!
+
+Un cittadino della terra
+
+Un soggetto del mondo.
+
+Per quanto riguarda l’uniforme che indossava…
+
+Lo vinse nella guerra recente
+
+Tra Perù ed Ecuador
+
+E se l’è meritato davvero.
+
+Solo tra tutti coloro che in quel momento…
+
+Stavano scontando pene per reati commessi
+
+Sin, durante la sua reclusione
+
+Aveva studiato opere sulla navigazione;
+
+E quando la gente lo seppe…
+
+Lo liberarono immediatamente dalla prigione.
+
+Ma a condizione che partisse per mare.
+
+Un momento decisivo
+
+Ricorda l’azione in...
+
+Un posto chiamato baia di Quaxipotle?
+
+Sì, entrambe le marine sono fuggite.
+
+Eppure, se l’Ecuador può dire…
+
+Vinse la partita nel complesso
+
+Il fatto è dovuto al Peccato.
+
+La partenza della flotta era prevista per meno di dieci settimane.
+
+Quando qualcuno lo descriveva
+
+L’ nemico… Sin gridò.
+
+I timonieri girarono la [[motifs/ship|nave]];
+
+Titolo:  
+Perché, da entrambi i lati…
+
+Le tattiche richiedevano un ritiro.
+
+A ovest della flotta straniera si ritirò
+
+Ma verso est diretto andò il peccato…
+
+“Mormorò: ‘Non si incontreranno mai.’”
+
+E quando, verso la fine del giorno…
+
+I nemici erano almeno…
+
+A quindici o venti miglia di distanza…
+
+"Chiamò il suo assistente di cabina."
+
+Il più coraggioso dei suoi uomini;
+
+Li prese per mano e rise.
+
+Una risata senza paura, e poi…
+
+"Che il cielo aiuti i giusti! Avanti a tutta velocità!"
+
+“Combattere solo per il gusto di combattere,” disse.
+
+A due miglia a ovest il nemico; a due miglia a est dirigeva la sua rotta.
+
+Ah, me! esultarono tutti quanti.
+
+E i volti diventano neri di carbone
+
+Barba incolta di cinque giorni
+
+Apparso all’improvviso, ha urlato e poi è scomparso
+
+Ognuno nel proprio piccolo buco.
+
+Molto tempo dopo che erano scomparsi dalla vista…
+
+A lungo dopo il calare della notte, per tutta la notte…
+
+Per tutto il giorno seguente…
+
+Continuò a combattere senza sosta!
+
+Forse non la guerra, ma quanto è nobile!
+
+Appena stava per sbarcare…
+
+Il presidente dell'Ecuador
+
+Salì sul ponte di coperta.
+
+Lo abbracciò venti volte o più.
+
+E gli diede strisce e molte altre cose…
+
+Medaglie e onorificenze in abbondanza
+
+E gli porse un assegno…
+
+E poi lesse un breve discorso.
+
+“Venti anni di prigione”, recitava la sentenza.
+
+“Che tu debba servire… un’altra settimana”
+
+“Ahimè… mi vergogno mentre lo dico.”
+
+“Era ancora in debito quando te ne sei andato.”
+
+"In riconoscimento del vostro coraggio..."
+
+Mi dà piacere osservare
+
+"Il tempo che ti restava da servire"
+
+È stato completamente rimesso in sesto.
+
+“ invece questi miei amici…”
+
+E qui indicò una riga
+
+I colonnelli sul molo
+
+Titolo: “Hai cambiato la tua frase in qualcosa di bello”
+
+“Da pagare a me.”
+
+“No — non ringraziarmi — niente!”
+
+“Sono molto felice di dire…”
+
+“Questo piccolo assegno rappresenta davvero un terzo…”
+
+“Di ciò che devi pagare.”
+
+L’equipaggio fu acclamato ancora e ancora.
+
+Quegli uomini semplici e leali.
+
+Tali imprese non potevano mai fallire…
+
+Conosciuto in tutto l’Occidente.
+
+Titolo:  
+Erano i nostri cugini dall’altra parte del mare
+
+Chi amava di più il marinaio—
+
+I nostri parenti anglo-sassoni
+
+Amavano profondamente il Comandante Sin
+
+E gli organizzò un banchetto magnifico.
+
+La settimana prima che iniziassimo.
+
+O’Hooligan e la Bestia Meravigliosa
+
+E Nicolazzi, e gli altri…
+
+Erano semplicemente distrutti dal dolore.
+
+Vennero, mangiarono e dissero: “Che Dio vi accompagni!”
+
+Il conto era davvero molto alto.
+
+E pagato da un anglo-sassone
+
+Chi portava il nobile nome di Jackson.
+
+In questa occasione, il peccato fu visibile.
+
+Brindiamo a McKinley e alla Regina.
+
+Il discorso era noioso, ma nessuno se ne accorse.
+
+Nemmeno lo champagne era asciutto.
+
+Osserva il volto di William Jackson
+
+Che tipico anglo-sassone!
+
+III.
+
+Ora William Blood, o, come ancora lo chiamo…
+
+Chiamatelo affettuosamente Bill.
+
+Di un tipo diverso
+
+Titolo:  
+Colui che, in altre epoche nato…
+
+Era stato creato per rafforzare e abbellire
+
+Il Senato o il Campo.
+
+Ma la Fortuna, gelosa e severa…
+
+Lo avevano destinato a una grande carriera
+
+Di genere più congeniale…
+
+Un tipo di pirata moderno
+
+Commerciale e raffinata.
+
+Come tutti i grandi uomini, le sue principali attività…
+
+Compravano azioni e vendevano quote.
+
+Si occupò la mente con qualcos’altro
+
+Acquistandoli di giorno dagli uomini
+
+Chi aveva bisogno di contanti immediatamente… e poi?
+
+In serata, vengono rivenduti di nuovo.
+
+A coloro con cui aveva cenato.
+
+Ma un compito del genere non potrebbe mai essere sufficiente…
+
+La sua ambizione maestosa
+
+Quell’occhiata rapida, quella volontà di ferro…
+
+Titolo:  
+Rifiutato (e con ragione) di essere realizzato
+
+Titolo:  
+Un guadagno qua e là… o no?
+
+La sua commissione del due percento.
+
+Il suo animo era colmo di elementi più nobile.
+
+Il amore per la patria, così come dovrebbe essere
+
+Lo perseguitava in ogni suo atto e pensiero.
+
+Con le sue immense forze
+
+A ciò dedicava le sue ore di veglia
+
+Di ciò che sognò nelle sue notti agitate…
+
+Dopo molti anni, nel profondo…
+
+Emozione imperiale
+
+Una melodia che ci commuove profondamente
+
+Utilizzò il suo ingegno tipico di Napoleone
+
+Per promuovere la compagnia.
+
+Fallì… e forse fu meglio così.
+
+Quello ha reso possibile la nostra spedizione.
+
+Un giorno… (era un anno fa)
+
+Camminò a piedi attraverso la città.
+
+E disse che la sua fortuna era piuttosto in calo.
+
+E dovrei prestargli mezzo scellino?
+
+Ho fatto, ma a condizione che…
+
+Redatto nella forma legale appropriata
+
+Testimoniato e sigillato, e legato con nastro adesivo.
+
+“E costando due sterline e due pence…”
+
+Se entro quest’anno…
+
+“Ha guadagnato centomila sterline nette.”
+
+Dovrebbe accompagnarmi
+
+Un progetto che avevo avviato con Sin
+
+Andare a Timbuctù.
+
+Più tardi, abbiamo avuto un piccolo litigio perché…
+
+Ho introdotto un’altra clausola
+
+Titolo:  
+Il cui significato generale è…
+
+Quel sangue… nel caso improbabile che accada
+
+Di questa avventura che si svolge…
+
+Dovrebbe pagare tutte le spese.
+
+Mai ha detto di averlo letto
+
+O forse ho visto quella clausola. Ma Blood è morto.
+
+Beh, grazie a una strana coincidenza…
+
+Quel pomeriggio stesso colpì.
+
+Una nuova preoccupazione…
+
+Con onestà e impegno nel proprio lavoro
+
+Cresceva, (a suo eterno onore!)
+
+In meno di sessanta giorni
+
+Incredibilmente ricco.
+
+Descrivi cosa divenne
+
+Il giorno in cui riuscì…
+
+Nonostante la luce incisiva della fama…
+
+Ha gettato ombra su quel nome immortale
+
+Quella attività è quasi del tutto inutile.
+
+Il mondo ha molto raramente visto…
+
+Un abisso più profondo di quanto si credesse
+
+Gli uomini che erano miei amici.
+
+E, parlando francamente, confesso…
+
+Non ebbero mai la curiosità di incontrarsi, a meno che…
+
+Serviva i loro scopi personali.
+
+Sin amava la bottiglia, William Gold
+
+“Fu il sangue a comprare, e il peccato a vendere…”
+
+In tutte le loro interazioni reciproche.
+
+Sangue non ha mai infranto le leggi penali;
+
+Sin era sempre stato la causa di tutto…
+
+Aveva i sentimenti più nobili.
+
+“Il sangue aveva i suoi sogni, ma il peccato era pazzo…”
+
+Mentre il peccato era stupido, il sangue era malvagio.
+
+Anche se lo dico, Sin era un farabutto.
+
+E se quella parola suscita…
+
+Titolo:  
+Per favore, riflettete su queste critiche.
+
+Quanto contorto fosse il suo intelletto
+
+E che passato aveva, )
+
+Ma il Sangue era di nobile origine…
+
+Sempre al passo con i tempi
+
+E la gente era estremamente felice
+
+Chiedergli di andare a casa loro.
+
+Non essere troppo pronto a condannare:
+
+Non fu lui ad inseguirli.
+
+Ma quelli che lo inseguivano.
+
+In questo bel mondo della cultura creata
+
+Per gli uomini del suo particolare mestiere…
+
+Di tutte le molte parti che ha interpretato…
+
+Il pezzo che finì per preferire di più
+
+Fu chiamato “l’ospite che si rispetta”.
+
+E proprio per quel motivo
+
+Si trovò molto richiesto.
+
+Alle feste di questa stagione…
+
+Ovunque i gentiluomini investano…
+
+Da Chelsea a Mayfair.
+
+Dalla porta in legno e stucco, a sud-ovest
+
+Viale Berkeley 90.
+
+I piccoli statisti ancora in erba
+
+Il grande sindaco provinciale
+
+L’uomo che possiede una rivista
+
+L’autrice che avrebbe potuto essere
+
+Inviano sempre una cartolina a Blood
+
+E il sangue era sempre lì.
+
+In ogni cena, vittoria schiacciante o sconfitta totale…
+
+Un piccolo vortice si formò
+
+La figura immobile e robusta
+
+Quello fu il segno che lo identificava come il Milionario.
+
+Titolo:  
+Sin (te ne ricordi?) non poté restare
+
+Nel corso di mezza giornata in qualsiasi club…
+
+Quando una volta il suo nome fu elencato…
+
+Ma il sangue apparteneva a novantquattro…
+
+E avrebbero aderito ancora in molti altri
+
+Se ne fossero esistiti altri ancora.
+
+Titolo:  
+Perdere una sola partita significherebbe perdere tutto.
+
+Un piccolo mucchio di cambiali…
+
+E spesso pronunciava giuramenti assurdi
+
+Rompere le aspettative dei scommettitori o mantenere la parola data
+
+Prima che fosse completato.
+
+Sangue era un altro paio di scarpe
+
+Un uomo d’acciaio, freddo e duro.
+
+Raramente toccava le carte
+
+Ma quando lo fece, tradì.
+
+Mercanti di bestiame e investitori avversari
+
+Il loro club ha delle sedie molto particolari.
+
+Di nuovo l’origine del peccato
+
+Incerto e oscuro
+
+Dove invece ha origine il Capitano
+
+Ero assolutamente sicuro.
+
+Un documento afferma che lui
+
+Nato nel 1853
+
+Su una nave tedesca in mare.
+
+Proprio al largo della Grande Canaria.
+
+E sebbene il tronco sia abbastanza libero…
+
+Scritto in modo troppo conciso…
+
+Titolo:  
+Conosciamo il tempo alla perfezione.
+
+La longitudine fino a un grado
+
+La latitudine esatta
+
+Ogni dettaglio è lo stesso;
+
+Sappiamo persino il nome di sua madre.
+
+Per quanto riguarda la professione di suo padre…
+
+Crede, colore, carattere o nazione…
+
+Su cui variano le voci
+
+Lo stesso lui lo disse in merito.
+
+Con un umorismo tagliente e straordinario,
+
+Titolo:  
+“Penso che il pubblico preferirebbe di gran lunga…”
+
+“Fidati di me più che di mio padre.”
+
+Il contrasto, stranamente intenso
+
+I loro personaggi potrebbero rivelare molto di sé
+
+Si notava con maggiore evidenza
+
+Sul Campo delle Tende.
+
+C’era per caso una tribù indigena?
+
+Che ingannare, persuadere con l’inganno, corrompere o comprare con denaro?—
+
+Titolo:  
+In tali condizioni, il peccato brucerebbe…
+
+Tuffare nella mischia
+
+Mentre il sangue regolava tutto…
+
+Da cinquanta miglia di distanza.
+
+Doveva aver ottenuto onori vane…
+
+Confrontati con il guadagno materiale
+
+Una decisione pratica e sana.
+
+In modo particolare, proprio suo.
+
+“In questo contesto, permettetemi di citare…”
+
+Un aneddoto interessante
+
+Non è generalmente conosciuto.
+
+Prima di salpare, forse avrebbe potuto…
+
+Se avesse pensato che ne valesse la pena
+
+Un militare di spicco.
+
+Sua Maestà la Regina
+
+Certamente lo avrebbe reso tale…
+
+Nonostante gli anni che avanzavano…
+
+Un Capitano dei Volontari.
+
+Una certa persona di quel genere
+
+Una grande influenza alla Corte
+
+Gli assicurai che era proprio così.
+
+E disse: “Dipende semplicemente da te”.
+
+Per risolvere questa piccola questione.
+
+Paghi una serie di piccole tariffe.
+
+“Per me, in qualsiasi momento tu desideri…”
+
+“Un ‘No!’ lo fermò.”
+
+“Questo segnale favorevole da parte della Regina…”
+
+“È molto oneroso. Significa…”
+
+Una recensione intelligente… (chissà se lo è davvero).
+
+In cui dovrei dimostrare…
+
+Abilità strategica:
+
+E dopo quelle terribili lotte…
+
+E dormire all’aperto nelle notti di pioggia…
+
+E molta responsabilità.
+
+Grazie: ho già la mia posizione
+
+Non ho bisogno di pergamena né incarichi ufficiali.
+
+E tutti coloro che conoscono il mio nome
+
+“Mi chiameranno comunque ‘Capitano’.”
+
+Il nostro leader, in una sola frase…
+
+Un uomo dal carattere deciso e risoluto.
+
+Ma riservato e cupo.
+
+“Anche se non sono inglese, possiedo…”
+
+Forse non lo sapremo mai.
+
+Quanto perse l’Inghilterra con lui.
+
+Questa reticenza, che alcuni hanno definito ipocrisia
+
+Era soltanto il segno dell’aristocrazia della natura.
+
+IV.
+
+La [[motifs/ship|nave]] scendeva lungo il corso d'acqua.
+
+L’Isola dei Cani era appena visibile all’orizzonte.
+
+E peccato, sangue e me
+
+Il passaggio dell’Ospedale di Greenwich
+
+E diede un’occhiata… (l’ultima per loro).
+
+Verso il cielo di Londra!
+
+Ah! Non l’ho mai visto da nessuna parte.
+
+Un cielo così puro e così sereno!
+
+Titolo:  
+Forse, alla fine, abbiamo provato rimorso…
+
+La nostra strana e avventurosa sorte?
+
+E se i nostri occhi fossero leggermente umidi…
+
+Con lacrime che abbiamo trattenuto, eppure…
+
+Che è iniziato con un calore intenso?
+
+Forse… eppure, non lo so.
+
+Quando arrivò il momento di scendere sotto…
+
+Con entusiasmo abbiamo accettato
+
+Un odore di vernice...
+
+E sebbene si tratti di un lamento del tutto giustificato…
+
+Doveva essere posizionato accanto al cibo)
+
+Mobili della cabina erano di buona qualità
+
+E si adatta comodamente.
+
+E anche oltre il Nore…
+
+Non abbiamo chiesto di sbarcare.
+
+Per passare a argomenti più gradevoli…
+
+Ho detto poco fa…
+
+Il cibo era davvero di scarsa qualità.
+
+Il criterio necessario per prepararsi
+
+Esploratori al prezzo speciale
+
+Titolo:  
+Quanto dichiarano tutte le autorità
+
+È necessario nei tropici.
+
+Un francese seduto accanto a noi
+
+Rifiutato l’asparago;
+
+La zuppa di tartaruga era spesso fredda.
+
+Gli ice sono caldi, le uova strapazzate vecchie…
+
+Il caffè… peggio di quanto possa descrivere.
+
+E il Peccato (che aveva un talento davvero felice…)
+
+In rima rapida e fluida
+
+Come Cyrano de Bergerac
+
+Titolo:  
+“Per quanto mi riguarda, non mi piace…”
+
+“Mai assolutamente quel pasticcio di fegato d’oca!”
+
+Ma questo gusto così raffinato…
+
+Riuscito in modo sorprendente;
+
+A cena il giorno seguente
+
+Ci hanno dato la Pasta al Merluzzo.
+
+Coraggiosi pionieri e terre selvagge
+
+Non dovrebbe essere troppo gentile…
+
+Penso che queste righe siano più che sufficienti.
+
+E speriamo che siano sufficienti
+
+Titolo: Far sì che i catering rispettino le regole
+
+La sorta di persona a cui servono. ——
+
+Eppure devo davvero lamentarmi…
+
+Informazioni sullo champagne dell’azienda!
+
+Il vino più costoso di tutti
+
+"In Inghilterra è una questione"
+
+Di orgoglio o abitudine quando ceniamo
+
+(Supponibilmente quest'ultimo).
+
+Sotto un cielo equatoriale
+
+Devi consumarlo, altrimenti morirai.
+
+Uomini severi e indomabili
+
+Mi avete detto, ancora e ancora…
+
+"The nuisance of the tropics is"
+
+“La pura necessità del ‘fizz’…”
+
+La negligenza…
+
+La mancanza di cura e attenzione ai dettagli
+
+La malvagità in breve…
+
+Di servire ciò che gli esploratori ritengono necessario
+
+Una bevanda essenziale
+
+In bottiglie che contengono qualcosa di meno…
+
+Più di un quarto imperiale…
+
+E costando ben un penny in più
+
+Allora molti negozi di alimentari addebitano il costo in contanti.
+
+In mare, i giorni passano velocemente.
+
+Noioso dall’inizio alla fine…
+
+Un viaggio come tanti altri
+
+"In vascelli che navigano verso sud. Il sole"
+
+Diventava sempre più alto e più ardente.
+
+Ci sdraiammo, bevemmo, giurammo e giocammo
+
+All'ombra di "Trick-my-neighbour"...
+
+E potete immaginare come ogni scena…
+
+Qualunque sia la sua banalità o insignificanza…
+
+È stato annotato nel mio diario.
+
+Ho tutto qui: le solite cose…
+
+Una serpente (non di quelle con le ali)
+
+Emerse dal mare…
+
+In lunghezza (per quanto siamo riusciti a indovinare)
+
+Un quarto di miglio o meno.
+
+Il tempo era estremamente sereno.
+
+La creatura pericolosamente vicina
+
+Eppure, così semplice come potesse essere.
+
+Una coda divisa in due
+
+E nella sua bocca teneva una balena.
+
+Titolo:  
+Appena a nord, ho scoperto, del Capo Verde
+
+Abbiamo catturato un uccello molto curioso
+
+Con corna sulla testa;
+
+E non… come si potrebbe facilmente pensare
+
+Piedi adatti al movimento su reti o dita articolate…
+
+Ma aveva zoccoli al posto delle mani.
+
+Poiché nessuno presente sembrava saperlo…
+
+Il suo uso o il suo nome, li ho lasciati andare.
+
+Il 7 giugno, dopo il calare della notte
+
+Un giovane squalo molto affamato
+
+Arrivò arrampicandosi lungo il lato.
+
+Lo mangiò il cappellano e l’uomo di bordo
+
+Ma perché questi incidenti sono collegati tra loro?
+
+Il pubblico deve decidere.
+
+Che nulla nel viaggio verso l’esterno…
+
+Valeva la pena il disturbo…
+
+Fino a quando non abbiamo visto la costa… che sembra…
+
+Esattamente come avviene nei libri.
+
+V.
+
+Oh! [[settings/africa|Africa]], terra misteriosa!
+
+Circondato da molta sabbia
+
+E pieno di erba e alberi,
+
+Elefanti e afrikaner
+
+Politica e salamandre
+
+E i tedeschi che cercano di infastidire…
+
+E terribili rinoceronti
+
+Rum locale in piccoli barili
+
+Titolo:  
+E i selvaggi chiamati Tuareg
+
+(Un po’ come si parla in Sudan).
+
+E tantissimi diamanti… e molto altro ancora
+
+Di quei brutti e sporchi Hottentot…
+
+E i lavoratori provenienti dall’Oriente…
+
+E i serpenti… almeno sette metri di lunghezza
+
+E i leoni, che conservano…
+
+La loro forza, il loro appetito e la loro rabbia
+
+Intatto fino a un’età estremamente avanzata
+
+E mai perdano la loro criniera.
+
+Terra lontana di Ofir… dove si estrae l’oro
+
+Da quel nobile Salomone d’antichità
+
+Chi naviga verso nord verso Perim
+
+Portò via tutto l’oro con sé.
+
+Molte lacune rimasero…
+
+Vuoti che portano disperazione
+
+Per quelle anime che si affidano…
+
+Chi scopre di aver acquistato una quota…
+
+Titolo:  
+In meravigliosi orizzonti, dove…
+
+Il deserto terribile e desolato
+
+Rotola senza sosta.
+
+Grande Isola… creata apposta per essere una maledizione.
+
+Di Mr. Joseph Chamberlain.
+
+Penisola! Quali battaglie fumanti…
+
+Tenere Salisbury sveglia di notte;
+
+E attrezzato per circa un anno
+
+Un vero sport per il signor Hanotaux.
+
+Vasto continente… Di chi è quella forma ingombrante?
+
+Corre da Biserta al Capo
+
+Bizerta sulla costa settentrionale
+
+In merito a ciò, i francesi giurarono…
+
+Non dovrebbe mai essere fortificato
+
+Lì dove quella gente allegra mentiva.
+
+Nido di sultani pieni di inganno
+
+Abbracciando Zanzibar il vile
+
+E l’Egitto, irrigato dal Nilo
+
+Egitto, che è, come credo…
+
+La proprietà del Khedive)
+
+Nel corso dei tuoi numerosi stati d’animo
+
+Due potenti sovrani indipendenti
+
+E uno che forse non posso nominare.
+
+Guarda attentamente il numero tre…
+
+Non del tutto indipendente, ma…
+
+È molto più di ciò che era un tempo.
+
+A te, caro obiettivo, così a lungo atteso
+
+Come l’antico Enea… in una parola
+
+Siamo venuti in [[settings/africa|Africa]].
+
+Siamo approdati con la marea in aumento
+
+A Sasstown, sul lato occidentale…
+
+E mentre toccavamo la riva…
+
+Pensavo… (forse mi sono sbagliato)
+
+Titolo:  
+Pensai che la terra tremasse per il terrore
+
+Per sentire dove sono sbarcati i suoi conquistatori.
+
+VI.
+
+"In getting up our Caravan"
+
+Abbiamo incontrato un uomo davvero molto disponibile.
+
+Il Presidente della Corte Suprema della Liberia
+
+Ministro dell’Interno
+
+Caino, abolizionista, Beecher e Boz
+
+Lavorava come un negro… e infatti lo era.
+
+E in un solo giorno
+
+Ci hanno procurato portieri, guide e tutto il necessario.
+
+E non avrebbe accettato nemmeno un soldo per questo.
+
+Fino a quando non ce ne siamo andati.
+
+Ma quando ce ne andammo, scoprimmo…
+
+Un deficit di diverse sterline.
+
+Come faceva questo tizio a...
+
+Obbedito così prontamente da lui stesso
+
+E perché i nativi fossero così umili…
+
+Fino a quando, per caso, lo sentimmo parlare
+
+E poi abbiamo capito chiaramente
+
+Una potenza immensa per il bene sociale
+
+L’africano può essere così.
+
+Disse con aria decisa:
+
+“Non sei come erano i tuoi padri…”
+
+Liberiiani, siete liberi!
+
+“Certo, se rifiuti di andare…”
+
+E qui fece un gesto.
+
+so.
+
+Ci ha anche dato ottimi consigli.
+
+Riguardo al Lavoro e al suo Prezzo.
+
+"#Incontrando la feccia indigena..."
+
+Non puoi scegliere a piacimento…
+
+Devi promettergli una somma di denaro
+
+Salari pagati in tessuti e rum.
+
+Ma, mio Dio, è una trappola!
+
+Titolo:  
+Ti divertirai un mondo in questa avventura…
+
+“E modificare i salari in contratti di lavoro.”
+
+Abbiamo fatto ciò che lui aveva previsto
+
+Il Caravano iniziò ad essere insoddisfatto…
+
+E io e il Peccato ne abbiamo discusso…
+
+Blood comprendeva la mentalità dei nativi.
+
+Disse: “Dobbiamo essere fermi, ma gentili”.
+
+Ne seguì una ribellione.
+
+Non dimenticherò mai quel modo
+
+Quel sangue in quel terribile giorno
+
+Ci ha salvati tutti dalla morte.
+
+In piedi su una piccola collina
+
+“Lanciò uno sguardo apatico intorno a sé…”
+
+E mormorò tra sé:
+
+"Qualunque cosa accada, siamo pronti..."
+
+“La mitragliatrice… e loro no.”
+
+Li segnalò nel loro avanzare brusco e irrispettoso.
+
+“Zittì le loro grida ribelli…”
+
+Con uno sguardo estremamente volgare
+
+Ruppe i ribelli.
+
+Una foto nel mio libro
+
+Di come li placò con uno sguardo.
+
+Abbiamo sparato e impiccato alcuni, e poi…
+
+Gli altri divennero uomini devoti.
+
+E qui vorrei dire una parola…
+
+Lungo il cammino, il mio cuore si commosse
+
+Da quei volti patetici.
+
+Certamente il nostro semplice dovere qui…
+
+Decisivo e chiaro
+
+Mentre ci sostengono, dovremmo prestar loro qualcosa in cambio.
+
+Ogni nostro sforzo per difendere…
+
+E da un punto di vista più elevato
+
+Dare la giusta direzione
+
+A tutte le razze indigene.
+
+E io, per tutta la durata dell’esplorazione…
+
+Insistito su
+
+Questa posizione.
+
+VII.
+
+Beh, dopo di ciò abbiamo continuato a lavorare sodo…
+
+Nel disegnare mappe, giorno dopo giorno…
+
+Sangue: un’indagine accurata
+
+"Di tutto ciò che sembrava contribuire..."
+
+Una possibilità, per remota che sia…
+
+Lasciare che il nostro finanziatore “vada alla deriva”
+
+Quel trionfo dell’immaginazione
+
+“L'Associazione Libica”.
+
+"In questo il ‘amico dei neri’"
+
+Molto preoccupato di mostrare la strada
+
+Far pagare i missionari.
+
+"Di notte, il nostro leader e il nostro amico"
+
+Discorsi lunghi e prolissi
+
+Su questa degna conclusione
+
+E come avrebbe organizzato tutto ciò.
+
+Il metodo attuale è un abuso
+
+Forze economiche
+
+Predicano, ma non agiscono concretamente.
+
+Guardate come l'avrei modificato io.
+
+Il missionario in prestito
+
+Su un pezzo di terra…
+
+Un interesse del venticinque percento.
+
+E (se ho capito bene)
+
+Le persone che dovrei frequentare
+
+Una paura costante del debito
+
+Li farebbe lavorare come cavalli.
+
+E costituisce la spinta motrice…
+
+Nel processo che chiamo “sviluppo”
+
+Risorse naturali
+
+Titolo:  
+Mentre coloro che si iscrivono troveranno…
+
+“Profitti e pietà unite”.
+
+Immagina come il Potente Piano…
+
+L'obiettivo, la visione e il sogno
+
+Sviluppato nelle sue mani!
+
+Con un tale scopo, con una tale mente…
+
+Potrebbe facilmente inclinarsi…
+
+Per utilizzare le terre peggiori in assoluto.
+
+Così, una volta che lo trovammo fermo immobile…
+
+Incantato su una collina rocciosa
+
+Sotto i suoi piedi c’era un odore terribile.
+
+Una palude immensamente vasta…
+
+Dove si manifesta una sorta di marea fetida
+
+Il ritmo di Rose si abbassò lentamente…
+
+"#Acquatico e infestato dalle erbacce"
+
+E canne assolutamente inutili…
+
+Giaceva… ma nulla lo intimidiva
+
+Al vedere come si sollevava e emetteva vapore…
+
+Trionfante, sembrava…
+
+Come se fosse posseduto o perseguitato da qualcosa.
+
+Con braccia che accolgono e gioiscono
+
+Lo sentimmo ansimare, con una voce…
+
+Trasformato da forti emozioni in qualcosa di aspro…
+
+“Quel pantano… quel meraviglioso pantano!”
+
+Le lacrime dell’avidità che si levano
+
+"In purely visionary eyes..."
+
+Gli scivolavano giù dal naso.
+
+Non era più il Coraggioso Sangue
+
+Il terrore dei suoi nemici;
+
+Ma il sangue era infiammato dalla sete d’oro.
+
+Ci vide e immediatamente…
+
+Il sangue che conoscevamo… esattamente lo stesso
+
+Chi avevamo amato per così tanto tempo.
+
+Lo guardò con un’espressione affettuosa e maliziosa.
+
+E disse: “Forse vi chiedete perché…”
+
+I miei sentimenti sono così intensi.
+
+Solo tu vedi una palude, ma io…
+
+Amici miei, vi spiegherò.
+
+Conosco alcuni gentiluomini in città…
+
+Mi daranno cinquantamila in acconto.
+
+“Solo per avere il permesso di svuotarlo…”
+
+Un po’ più tardi ci trovammo…
+
+Un pezzo di terra dolcemente ondulata
+
+Quello era visibile sopra il piano.
+
+"Tale protuberanza o elevazione"
+
+Come gli occhi stanchi degli europei.
+
+Titolo:  
+Per gli uomini comuni, come Sin e me
+
+L'Eminenza sembrava…
+
+Altrettanto senza senso.
+
+Sangue aveva un altro significato lì.
+
+Si girò con uno sguardo minaccioso.
+
+E gridò il nome nativo.
+
+L'interprete nero nella vergogna
+
+Titolo:  
+“Rispose: ‘Il nome nativo, temo…’”
+
+“Qualcosa che significa fango.”
+
+Titolo:  
+Poi, con quell’arrogante spavalderia…
+
+“Che si addica perfettamente al tuo spirito avventuroso…”
+
+Titolo:  
+Nel suo prospetto, il Capitano Blood
+
+Lo chiamò “Eldorado”.
+
+Titolo:  
+Disse anche che la Cima si era eretta…
+
+Maestoso, con le sue nevi eterne.
+
+VIII.
+
+Ora spetta a me…
+
+Titolo:  
+Per fornire una rassegna che dimostri…
+
+Che cosa può realizzare la previdenza…
+
+La sorta di cose che…
+
+Titolo:  
+Uomini nei nostri giorni freddi e agnostici
+
+Deve venire dall’[[settings/africa|Africa]] per poter dire questo.
+
+Dall’Inghilterra, per credere.
+
+Sangue… mentre eravamo ancora in città
+
+“Detto con quella sua espressione pensierosa…”
+
+"Supponiamo che un rinoceronte ti faccia cadere..."
+
+E ti calpesta come un tappeto…
+
+La frustrazione del pubblico
+
+Se con un incidente del genere…
+
+“Non possiamo fornire alcuna spiegazione o esempio concreto.”
+
+Senza sapere cosa fare
+
+Per riprodurre la scena…
+
+Abbiamo comprato un rinoceronte di pezza.
+
+Una Kodak, e uno schermo.
+
+Abbiamo sistemato un quadro. William ha premuto…
+
+Un pulsante, e il resto l’ho fatto io.
+
+A quei carnivori che…
+
+Una persona ordinaria trema
+
+Non ci importava affatto.
+
+Il Leone non attaccherà mai
+
+Un Bianco, se riesce ad ottenere un Nero.
+
+E ce n’erano davvero tantissimi di questi.
+
+Avremmo potuto permettercelo senza alcun problema
+
+Per risparmiare qualcuno qua e là.
+
+Ci rese più compatti… e poi…
+
+È giusto risparmiare le persone che ci circondano.
+
+Di molto maggiore importanza per noi…
+
+E molto più degno di attirare la nostra attenzione…
+
+La stessa creatura che temevamo
+
+Il rinoceronte bianco
+
+“Siste Viator Africanus”
+
+Con tutta la sua maestosità, apparve.
+
+Questo grande e irritabile pachiderma
+
+In termini scientifici…
+
+Sebbene siano comunemente erbivori…
+
+È estremamente pericoloso.
+
+Forse è solo un gioco della creatura…
+
+Ma coloro che l’hanno provato dicono…
+
+Quando ti punge con il suo corno
+
+Vorresti non essere mai nato.
+
+Ascoltando il rumore del sole…
+
+Senza una cartuccia per la mia pistola…
+
+In una giornata afosa…
+
+Immerso nella beatitudine del sonno profondo,
+
+Un animale proprio come questo
+
+Si precipitò verso il punto in cui mi trovavo.
+
+Il mio unico rifugio era volare.
+
+Ma volare non fa per me!
+
+Sangue era lì a portata di mano…
+
+Si arrampicò velocemente su un albero
+
+E gridò: “Fai del tuo meglio per provare”.
+
+“E sistemalo con l’Occhio Umano.”
+
+Inoltre, mi sono ritrovato con il piede incastrato…
+
+Nelle radici contorte che la tenevano saldamente attaccata.
+
+Tra una persona e una bestia
+
+Solo per l’occhio umano
+
+Il problema deve essere chiaro.
+
+La tensione aumentava sempre di più sui miei nervi…
+
+Eppure non provavo alcuna paura.
+
+No, non lodatemi affatto…
+
+Coraggio è soltanto fisico
+
+E diverse altre persone di cui potrei menzionare i nomi
+
+Probabilmente avrei fatto lo stesso.
+
+Fissavo lo sguardo con determinazione.
+
+Ho visto quella creatura miserabile contorcersi…
+
+Un’espressione di terrore si diffuse su tutto il viso
+
+Le sue caratteristiche, e poi è caduto morto.
+
+Almeno, così pensavo.
+
+E stupidamente distolsi lo sguardo.
+
+Titolo:  
+Quando scoprì che era stato liberato…
+
+Di quei misteriosi raggi penetranti
+
+Riprese vita di nuovo.
+
+Saltò in aria e poi atterrò…
+
+Con tutta la sua forza, si abbatté su di me.
+
+(Osservate la posizione dello zoccolo.)
+
+Il filo e il sostegno nero che sembrano…
+
+Così artificiale nella dimostrazione
+
+Verrà cancellato nel libro.
+
+Lo fece trenta volte diverse.
+
+Quando, fortunatamente per tutte queste rime…
+
+Sangue schizzò dal bruto… cioè…
+
+Inseguito dal sangue che sgorgava, fuggì via.
+
+IX.
+
+Cavalcammo in fila indiana.
+
+La marcia proseguì per miglia e miglia.
+
+Noioso e solitario,
+
+Abbiamo visto… (se ricordo bene)
+
+Le caratteristiche positive di un bianco
+
+Solo in due occasioni.
+
+Il primo episodio risale al momento in cui la nostra spedizione…
+
+Improvvisa commissione
+
+Incaricato di determinare
+
+Se il tredicesimo parallelo…
+
+Attraversò dritto sopra un certo pozzo
+
+O toccò un albero vicinissimo;
+
+E se gli elefanti dovrebbero…
+
+Eliminati tutti come “prede”.
+
+O, ciò che è del tutto diverso…
+
+Distrutto come un semplice parassita.
+
+Inviato per questa commissione
+
+Grandi personaggi del Continente
+
+E dal lato inglese
+
+Uomini di tale antica discendenza
+
+Con gioia che riempie l’anima…
+
+“Si alzò in piedi e gridò…”
+
+"Andrò da loro immediatamente e mi occuperò della questione."
+
+Questi giovani spiriti avventurosi…
+
+Una dimostrazione del mio desiderio
+
+Per utilizzare in questa nostra questione
+
+Le loro insospettate capacità imprenditoriali.
+
+I portatori di nomi storici
+
+Si eleverà verso qualcosa di più alto
+
+Meglio che discutere di rivendicazioni territoriali…
+
+E troveranno la loro ultima dimora
+
+“Inscritto nella mia direzione.”
+
+In venti minuti tornò indietro.
+
+Il suo viso ardeva di giusta rabbia.
+
+E quando gli chiedemmo cosa avesse fatto…
+
+Rispose: “Ci rifiutano.”
+
+Non ne ho trovato nemmeno uno.
+
+Da includere nel prospetto informativo.
+
+Il loro leader (sebbene fosse un lord)
+
+Rifiutò fermamente di entrare nel consiglio di amministrazione.
+
+E tenne un discorso stupido in una lingua straniera
+
+Il che suonava come “No Bless Ableech”.
+
+Conosco molti tipi di uomini
+
+E lo sopportò molto bene… ma poi, quando…
+
+Titolo:  
+Nacque attraverso i tweet
+
+Sulla mia storica maglia da sportivo
+
+Mi sono sentito un po’ ferito…
+
+Me ne andai e me ne andai.
+
+C’è un’altra faccia della questione…
+
+Senza alcuna intenzione di pregiudicare
+
+La versione del nostro leader
+
+Devo forse dare un indizio…
+
+Di ciò che sarò costretto a pubblicare
+
+A titolo di giustizia nei confronti del lettore.
+
+Li ho seguiti, tenendomi nascosto alla loro vista.
+
+E lo fece in questo modo ingegnoso
+
+Un schizzo che getta una luce particolare
+
+Perché il maestro se n'è andato.
+
+Senza dubbio si sentì un po’ ferito…
+
+Potrebbe anche essere vero dire…
+
+Gli fecero dei commenti sarcastici riguardo alla sua camicia.
+
+Ma non è forse un po’ eccessivo?
+
+Parlare di scherzi fatti con un bastone?
+
+Beh, lasciamo perdere. Si è comportato bene.
+
+Questo tipo di arroganza ufficiale
+
+In particolare il pari…
+
+Chi si abbassa a stabilire dei limiti
+
+Con qualsiasi nazione europea
+
+È destinato a scomparire.
+
+Sangue disse: “Si perdono nella notte.”
+
+Uomini come Blood hanno sempre ragione.
+
+Il secondo mostra l’effetto completo
+
+Di un’ignoranza ministeriale
+
+Sin, che cammina da solo in questa ricerca…
+
+Titolo:  
+Dei serpenti boa che infestano…
+
+Il hinterland di Lagos
+
+Separato dagli altri…
+
+E si scontrò con un gruppo di persone
+
+Di soldati nativi guidati da tre…
+
+Un francese, un ufficiale prussiano
+
+E ciò che abbiamo scambiato per un russo…
+
+La stessa coalizione
+
+Chi minaccia il potere di Inghilterra in mare
+
+E se non ci fossero uomini come Blood e me…
+
+Le avrebbe scacciate dalle acque…
+
+E gettarla nell'inferno.
+
+Ma il mio compagno ha pensato davvero a fuggire?
+
+Per usare le sue stesse parole: Non lui!
+
+Si girò con una risata sprezzante.
+
+Guardatelo nella fotografia.
+
+Ma comunque questi burocrati continuarono la loro azione…
+
+Fino a quando non raggiunsero la tenda del Capitano.
+
+Divennero incredibilmente scortesi.
+
+Il russo è semplicemente insolenzo.
+
+Titolo:  
+Annunciando di essere stato inviato
+
+In una sacra missione
+
+Chiedere il disarmo
+
+Di tutta la nostra spedizione.
+
+Le miserie della guerra
+
+“Lo aveva toccato nel profondo del cuore…”
+
+Era estremamente irritante
+
+Titolo:  
+“Non riusciva proprio a sopportarlo…”
+
+Questa passione per l’acquisizione di terre…
+
+“Sperava che non stessimo facendo annessioni.”
+
+Il tedesco chiese con una certa brutalità
+
+Per avere i nostri nomi e la nostra nazionalità.
+
+Una ispirazione improvvisa
+
+In parole meticolose e lente
+
+Gli ho inferto questo colpo decisivo:
+
+"Non ho una nazione."
+
+“Forse quell’escapata è stata un po’ troppo banale…”
+
+Eppure non mi sbagliavo…
+
+Scappare dalle conseguenze…
+
+Titolo:  
+Perché, sulla mia anima, non lo sapevo.
+
+A quale nazione appartenere.
+
+Il tedesco lanciò uno sguardo attento.
+
+“E mi segnò nel suo piccolo libro…”
+
+“Le caratteristiche hanno un leggero retaggio olandese…”
+
+Forse è un feniano…
+
+Forse è maltese, ma molto di più...
+
+“Più probabilmente armeno.”
+
+Sangue ci ha donato ognuno una piccola somma
+
+Per dire che era sordo e muto…
+
+E con essa si confermò l'affermazione
+
+Con gesti estremamente strani…
+
+Lo hanno segnato sul blocco per appunti:
+
+Non solo sordo e muto, ma anche pazzo.
+
+Salvò la situazione.
+
+“Un uomo del genere…” dissero.
+
+“Se sei il leader, possono andare per la loro strada.”
+
+X.
+
+Così, con grande sollievo per noi…
+
+I nostri nemici stranieri li abbiamo lasciati indietro…
+
+Ma pericoli ancora maggiori
+
+Invece, ostacolavano il nostro cammino.
+
+In ogni libro che abbia mai letto
+
+Viaggi sull’equatore
+
+Una piaga, misteriosa e terribile…
+
+Pericoli per il narratore;
+
+Sempre quasi muore…
+
+Ma non lo fa, il che è segno di calma e saggezza.
+
+Il peccato di chi è pigro e vago
+
+“Pensi che finiremo per essere colpiti dalla peste?”
+
+Seguì tragicamente poco dopo…
+
+Attraversando un’immensa laguna
+
+Abbiamo lasciato che i nostri piedi si bagnassero.
+
+Il mattino seguente ho iniziato a starnutire.
+
+L’orribile nemico: la malattia
+
+Era caduto nel campo!
+
+Con il sangue si trasmetteva la malattia…
+
+Una forma allotropa
+
+Dolore addominale intermittente
+
+Mentre il peccato cresceva nel calore…
+
+Si lamentava di debolezza alle ginocchia.
+
+Incapacità di pensare
+
+Un forte desiderio di assumere sostanze e berle…
+
+E si sdraiò a pancia in su.
+
+Per molti giorni interminabili e confusi…
+
+Ognuno a modo suo.
+
+Cedette all’attacco.
+
+XI.
+
+I nostri cuccioli giacciono a terra.
+
+Con pesanti tende che oscurano tutto intorno;
+
+La Peste era scomparsa.
+
+Non si udiva alcun suono.
+
+E ci chiedevamo, mentre giacevamo…
+
+“Forse il Bosco Cinturale è già stato superato…”
+
+E finalmente si raggiunge Timbuctù.
+
+Titolo:  
+Mentre i nostri fedeli portatori continuano a lavorare…
+
+“Perché ancora lasciano dormire i loro padroni…”
+
+Sangue povero… e io ero troppo debole
+
+Alzarsi da soli, o anche solo parlare…
+
+Giacevamo lì, soddisfatti di lasciarci andare in declino.
+
+Quando il peccato, per rendere tutto ancora più certo…
+
+Mettere fuori la testa oltre la tenda
+
+E gridò nel più profondo dolore:
+
+"Questo non è affatto Timbuctù..."
+
+Ma solo un nativo Kraal o Crawl…
+
+E, cosa ancora più importante, il nostro Caravan…
+
+“Tutti se ne sono andati per un uomo.”
+
+Titolo:  
+Al tramonto tornarono per portare…
+
+“Prigionieri consegnati al loro crudele re”
+
+Chi sembrava, nel complesso…
+
+Un uomo raffinato e di buone intenzioni;
+
+Disse: “Non sarai confinato.”
+
+“Ma lasciato in libertà su cauzione.”
+
+Sangue, quando ci trovò entrambi soli
+
+Tenuto con un tono pedante…
+
+Eppure, con una grazia e una perfezione uniche…
+
+Sui sistemi carcerari che conosco
+
+In questo contesto, egli disse: —
+
+Il processo primordiale è quello di trascinare…
+
+Johnny, in cella, o in prigione.
+
+Cara Henri, non penserai che io sia scortese…
+
+Titolo:  
+Se – solo di passaggio – menzionassi…
+
+Reclusione o servizio punitivo.
+
+Titolo:  
+Di ogni forma, le parole che scelgo
+
+“È quello più facile da rompere.”
+
+Corremmo non appena lo sentimmo
+
+Per ottenere le armi, e poi ci siamo messi all’opera
+
+Un’imboscata ammirevole.
+
+In modo da catturare il nostro uomo.
+
+Ci nascondemmo dietro una piccola collina.
+
+E aspettò la nostra preda
+
+Fare la sua solita passeggiata mattutina
+
+lungo quel percorso fatale.
+
+Senza sospetti e solo
+
+Entrò nella zona di pericolo.
+
+Il raggio delle sue possibilità che conoscevamo
+
+Tre quarti di miglio
+
+E poi… accadde un incidente.
+
+“Quale… lo giuro sul mio sacro onore.”
+
+È assolutamente vero.
+
+Sangue prese la mira con estrema attenzione
+
+E io e il Peccato facemmo esattamente la stessa cosa
+
+Con un qualche strano e potente incanto
+
+Il Re non subì alcun danno!
+
+Indossava…
+
+Un piccolo feticismo per un filo…
+
+Un gergo incomprensibile, dipinto di rosso
+
+disgustoso e ripugnante nella mente
+
+Soprattutto le orecchie.
+
+L’anno scorso avrei dovuto riderne…
+
+Ora con reverenza ammetto…
+
+"Niente al mondo è più comune di questo..."
+
+Più di “Occult Phenomena” di Andrew Lang.
+
+Tornato in Inghilterra, io…
+
+Descritto l’argomento al Psy-
+
+Comitato Chologico.
+
+Certo che mi ringraziarono molto.
+
+“Ma abbiamo mille di questi”, disse.
+
+E sarebbe un peccato
+
+Per infrangere la nostra risoluzione ferma…
+
+“E pagare per ogni contributo.”
+
+XII.
+
+Il Re era terribilmente arrabbiato.
+
+“Ascoltare lui chiamare la guardia e gridare…”
+
+Impronte, maledizioni e furie
+
+Titolo:  
+“Era… come dicono i missionari”
+
+Una lezione nel modo degli atei
+
+Gli infedeli si comporteranno bene.
+
+Ci ha mandati in prigione…
+
+"Di pali appuntiti nella difesa"...
+
+E lì, per diverse ore…
+
+Il nostro leader era davvero un disastro.
+
+Uova, noci di cocco e bastoncini
+
+E gattini nei docci.
+
+I nostri ex facchini sembravano portare…
+
+Un rancore verso quel milionario.
+
+Eppure ciò che mi dava più fastidio…
+
+Non era forse quel continuo prendersi in giro…
+
+Con cui il Capitano era assorto
+
+Non essendo fissato a un palo
+
+Nonostante non fosse affatto piacevole…
+
+Ma sentendoli dire che…
+
+“Aspettavo con impazienza il giorno seguente.”
+
+XIII.
+
+Finalmente, quando rimanemmo soli…
+
+Un gemito vuoto e distorto…
+
+E ordinò al Maestro di salvare
+
+I suoi compagni, con un qualche audace stratagemma…
+
+Dalla tomba imminente.
+
+“Quel sangue disse: ‘Non seguo mai i consigli altrui’.”
+
+Ogni uomo ha il suo prezzo…
+
+Dobbiamo mantenere la porta aperta.
+
+“Sì, anche a costo di guerra!”
+
+Si spostò.
+
+E dopo poco fu completato.
+
+Una nota in stile diplomatico
+
+Che contiene una condizione.
+
+Titolo:  
+“Coloro che desiderano essere informati…”
+
+Come se esistesse un sacco d’oro…
+
+E dove un gruppo di persone lo nascose…
+
+Titolo:  
+Forse come sanno altre parti…
+
+Qualcos’altro ancora… e poi ci sono quelle altre cose.
+
+“Come lo vide l’uomo che lo nascose.”
+
+Il monarca lo lesse attentamente e poi lo scrisse.
+
+Una frase molto enfatica
+
+"#Penso che il linguaggio di quel biglietto..."
+
+“Se si parla in termini strettamente grammaticali, non è corretto.”
+
+Alla vista della nostra profonda angoscia
+
+Il Re – Devo davvero ammetterlo…
+
+Ben comportato e piuttosto attraente…
+
+Disse che avrebbe rilasciato i tre.
+
+Se solo il Capitano Blood e lui…
+
+Si potrebbe accordarsi su un riscatto.
+
+E così la situazione verrebbe risolta.
+
+Per ascoltare la sua valutazione personale.
+
+“Il mio valore…”, iniziò William Blood.
+
+“È incredibilmente piccolo.”
+
+Credo di essere l’uomo più spregevole che esista.
+
+Coloro che calpestano questa terra…
+
+La mia mente è debole, il mio cuore è freddo
+
+Sono brutto, crudele, volgare, vecchio…
+
+Malato, basso e grasso.
+
+Non posso parlare, non posso lavorare.
+
+Ho il temperamento di un turco
+
+E per di più codardo.
+
+Con il vostro gentile permesso…
+
+La solita commissione del cinque percento.
+
+Credo di poter svolgere il lavoro.
+
+“Per diciassette o sedici scellini…”
+
+Il Re si irritò, aggrottò la fronte…
+
+E lo interruppi dicendo: “Per l’amor del cielo!”
+
+La tua economia è errata!
+
+Credo davvero che tu sia un miserabile.
+
+Ma le cose hanno il valore che riescono a ottenere.
+
+Titolo:  
+“Ti fisserò un prezzo approssimativo…”
+
+“Diciamo, sessantatré mila sterline…”
+
+Ma proprio quando “Blood” iniziava con entusiasmo…
+
+Negoziare, discutere e protestare
+
+Comandante Sin e io
+
+Titolo:
+"Il re fu informato..."
+
+Di una certa borsa d’oro
+
+Se ci permettete di provare…
+
+Troveremo il tesoro, perché lo sappiamo.
+
+“Un posto di circa mezzo metro…”
+
+Povero William… La suspense e il dolore
+
+aveva toccato la fibra del suo cervello;
+
+lungi dal mostrare gratitudine,
+
+gridò nel suo delirio: «Oh!
+
+Per amor del cielo, non lasciateli andare».
+
+Solo un pazzo assumerebbe
+
+un atteggiamento così singolare,
+
+quando compagni leali, per amor suo,
+
+avevano messo in gioco la propria vita.
+
+Il Re era perfettamente contento
+
+di lasciarcelo trovare; — e partimmo.
+
+Ma mentre uscivamo lo udimmo dire:
+
+«Se c’è mezz’ora di ritardo
+
+il Capitano sarà già spirato».
+
+XIV.
+
+Ahimè! nel giro di una sola settimana
+
+i Messi spediti a cercare
+
+il nostro nascondiglio ci trovarono.
+
+Opponemmo un’eccellente difesa
+
+(uso la parola in senso legale),
+
+ma ciò nonostante ci legarono.
+
+(Non in senso legale affatto,
+
+ma con una pesante catena e palla).
+
+Con barbarie incredibile
+
+ci sventolarono in faccia
+
+le reliquie del nostro nobile capo;
+
+con smorfie insolenti
+
+alzarono la storica camicia davanti
+
+ai nostri occhi, e indicarono sul pavimento
+
+carte spiegazzate e dadi truccati;
+
+pare che l’abbiano venduto a fette.
+
+Be’, ogni uomo ha il suo prezzo.
+
+Gli orrori si susseguirono fitti e rapidi,
+
+voltai il capo per dare un ultimo
+
+addio a Sin; ma, ah! troppo tardi,
+
+vidi soltanto la sua orrenda sorte —
+
+alcuni selvaggi attorno a una pentola
+
+che pareva sgradevolmente bollente;
+
+e al centro del gruppo
+
+il mio caro compagno che faceva da zuppa.
+
+Poi fui lieto di riconoscere
+
+due schiacciapollici della mia misura,
+
+e fui ben contento di vedere
+
+che stavano per torturarmi.
+
+Trovo che la tortura mi renda di più,
+
+brulica addirittura di interesse.
+
+Mi appesero sopra il pavimento
+
+a testa in giù con una corda;
+
+mi bastonarono per mezz’ora e più,
+
+mi riempirono la bocca di sapone;
+
+mi punzecchiarono con un palo appuntito
+
+per farmi perdere il controllo,
+
+ma non ci riuscirono.
+
+Finché (se non è troppo volgare a dirsi)
+
+accadde ciò che proprio detesto:
+
+il naso prese a sanguinarmi.
+
+Allora, lo ammetto, dissi una parola
+
+che per fortuna non udirono mai;
+
+ma in pochissimo tempo
+
+la mia calma e il mio sorriso sprezzante
+
+li costrinsero a continuare.
+
+Mi limarono i canini a punta
+
+e mi fecero mordere la lingua.
+
+Mi stirarono sul cavalletto fino a spezzarmi le giunture,
+
+e dopo di ciò mi appesero
+
+al collo una pietra che pesava
+
+almeno cento libbre, e mi fecero
+
+correre come un pazzo per venti miglia
+
+e scavalcare un mucchio di alte scalette.
+
+Provarono un trucco che di rado fallisce,
+
+la botte di Regolo coi chiodi —
+
+la botte è piuttosto rozza e piatta,
+
+ma le botti indigene sono tutte così —
+
+i chiodi entravano per un buon pollice,
+
+ma trasalii forse? Non trasalii.
+
+Con tono deciso, alto e forte
+
+cantai una canzone patriottica.
+
+Grazie al cielo non durò a lungo!
+
+La mia pena era finita;
+
+il mio coraggio sovrumano si levò
+
+superiore ai miei nemici selvaggi;
+
+alla fine mi adorarono.
+
+Con molti complimenti sentiti
+
+mi rimandarono a loro spese,
+
+ed eccomi tornato a ritrovare
+
+i piaceri che mi ero lasciato alle spalle.
+
+Fare il giro di Londra!
+
+Notare quell’aria del tutto peculiare
+
+di cortesia, e dappertutto
+
+la stessa immancabile fiducia del pubblico
+
+in un manoscritto che frutta esattamente
+
+mille! non di magre Rupie,
+
+né di Reis (che sono portoghesi),
+
+né di Rubli; ma mille nette
+
+di pesanti, rotonde, imponenti, care,
+
+familiari sterline inglesi!
+
+Oh! Inghilterra, chi lascerebbe le tue rive —
+
+Scusatemi, ma vedo che annoia
+
+un giornalista indaffarato
+
+sentire una rapsodia che egli
+
+potrebbe scrivere senza trattenermi,
+
+perciò non insisterò.
+
+Permettetemi solo ancora una volta
+
+di far intendere chiaramente
+
+che entrambi quegli onorevoli uomini,
+
+il Comandante Sin e il Capitano Blood,
+
+giurerebbero su tutto ciò che ho detto,
+
+se fossero vivi;
+
+ma sono morti!
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Modern Traveller (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>

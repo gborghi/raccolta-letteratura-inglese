@@ -84,7 +84,7 @@ Tennyson's "You Ask Me, Why, Tho' Ill at Ease"
 
 La Terribile [[concepts/history|Storia]] di [[characters/jones|Jones]]  
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 [[characters/jones|Jones]] aveva un cane; questi una catena,  
 di rado indossata, non causa di [[motifs/pain|pena]];  

@@ -559,8 +559,6 @@ And made their dove wings tremble. On he flared.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un sogno  
-
 CANTO I  
 
 I fanatici hanno i loro [[motifs/dreams|sogni]], con cui tessono  
@@ -569,6 +567,7 @@ dalla più alta foggia del suo [[motifs/sleep|sonno]],
 indovina il Cielo; peccato che costoro non abbiano  
 tracciato su pergamena o su selvatica foglia indiana  
 le ombre di una melodiosa parola.  
+
 Ma spogli d’alloro vivono, sognano e muoiono;  
 ché la Poesia sola sa dire i suoi [[motifs/dreams|sogni]],  
 e col sottile incanto delle parole soltanto può salvare  

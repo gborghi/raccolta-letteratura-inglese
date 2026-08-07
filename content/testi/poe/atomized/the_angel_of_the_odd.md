@@ -855,6 +855,859 @@ but would have too little to gain by such an effort in this
 instance.]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un lusso eccessivo.
+
+
+
+
+
+Un freddo pomeriggio di novembre… Avevo appena completato…
+
+Un pasto insolitamente sostanzioso, nel quale il tartufo, utile per i disturbi digestivi, giocò un ruolo importante…
+
+Non l’elemento meno importante. Era seduto da solo lì dentro.
+
+Sala da pranzo, con i piedi appoggiati al parapetto e accanto a me…
+
+Un piccolo tavolo che avevo avvicinato al [[motifs/fire|focolare]], e su cui.
+
+Qualche scusa come dessert… insieme a alcune bottiglie varie
+
+Vino, spirito e liquori… La mattina precedente avevo letto…
+
+“‘Leonidas’ di Glover, ‘Epigoniad’ di Wilkie, e Lamartine…”
+
+“Pellegrinaggio”, la “Columbiade” di Barlow, la “Sicilia” di Tuckermann… e altri ancora.
+
+"Griswold’s ‘Curiosities’; sono disposto ad ammetterlo"
+
+Ora mi sentivo un po’ stupido… Ho provato a riprendermi.
+
+Con l’aiuto di abbondanti quantità di Lafitte… e, quando anche questo non bastò, decisi di ricorrere ad altro.
+
+Un giornale abbandonato, nel mezzo del [[concepts/despair|dispero]]. Dopo averlo letto attentamente, quella rubrica.
+
+Della sezione “case in affitto” e della colonna “cani persi”, e poi.
+
+“Due colonne intitolate ‘Mogli e apprendisti fuggiti’, le ho analizzate attentamente…”
+
+"Grande risoluzione nell’approfondimento editoriale: leggendolo attentamente..."
+
+Dall’inizio alla fine senza capire una parola… concepito così.
+
+Possibilità che sia cinese… e quindi lo rileggo da capo.
+
+“Tornato all’inizio… ma senza ottenere risultati più soddisfacenti.”
+
+Gettare via, con disgusto
+
+
+
+"#Questo foglio di quattro pagine… un lavoro davvero felice."
+
+“Che nemmeno i critici osano criticare”
+
+
+
+Quando il paragrafo riuscì a destare in me un certo interesse…
+
+Titolo:  
+Seguì…
+
+
+
+“I percorsi che portano alla [[motifs/death|morte]] sono numerosi e strani. Un giornale di [[settings/london|)Londra]], ”
+
+La morte per una causa singola
+
+Giocare a “Puff the Dart”, un gioco che si utilizza con un lungo ago
+
+Infilato in un tessuto di lana robusta e scagliato contro un bersaglio attraverso una latta
+
+Tubo. Inserì l’ago dall’estremità sbagliata del tubo…
+
+Trattenendo il respiro con forza per scagliare la freccia con maggiore potenza…
+
+Portò l’ago nella sua gola… Entrò nei polmoni, e poi…
+
+“Pochi giorni lo uccisero.”
+
+
+
+In preda alla rabbia furiosa
+
+“Questo oggetto”, esclamai, “è davvero spregevole”.
+
+Menzogna: una misera truffa… il retrogusto di un’invenzione patetica
+
+Penny-a-Liner – di qualche misero inventore di disastri…
+
+Cocaigne. Questi individui, consapevoli della loro eccessiva credulità…
+
+A quell’età, mettevano a frutto la loro immaginazione per creare storie improbabili.
+
+Possibilità… di strani incidenti, come li chiamano loro; ma per un…
+
+“Riflettendo l’intelligenza… come la mia”, aggiunsi tra parentesi.
+
+“Mettendo inconsciamente il dito indice sul lato del naso…”
+
+Una comprensione riflessiva, come quella che possiedo io stesso…
+
+Subito evidente che l’aumento straordinario registrato di recente in questi “strani”…
+
+“L’incidente chiamato ‘Accidents’ è di gran lunga il più strano di tutti… Per quanto mi riguarda…”
+
+Non intendo credere più nulla di ciò che abbia anche solo un minimo di…
+
+“Qualcosa di davvero unico al riguardo…”
+
+
+
+“Mio Dio, ma perché quelle [[motifs/bees|api]] devono fare una cosa del genere?” rispose uno di loro.
+
+“Le voci più straordinarie che abbia mai sentito… All’inizio le ho scambiate per…”
+
+“Rumore continuo nelle mie orecchie… come talvolta accade a una persona…”
+
+Diventando molto ubriaco… ma, ripensandoci, ho deciso di…
+
+Suona più simile a ciò che proviene da qualcosa di vuoto
+
+“Rotto a colpi di bastone; e, in realtà, questo è proprio ciò che avrei dovuto fare…”
+
+Concluse che fosse così, ma a causa della diversa articolazione delle sillabe…
+
+Titolo:  
+Parole… Non sono affatto di natura nervosa, e le poche volte in cui lo sono…
+
+“Gli bicchieri di Lafitte che avevo bevuto non fecero altro che darmi più coraggio…”
+
+"Un po' solo, così da non provare alcuna apprensione, ma soltanto..."
+
+Alzai lo sguardo con movimenti lenti e attenti, osservando attentamente intorno a me.
+
+“Cercavo ovunque nella stanza l’intruso… Ma non riuscivo a trovarlo.”
+
+Assolutamente nessuno.
+
+
+
+“Humph!” riprese la voce mentre continuavo il mio esame, “dovete…”
+
+Ubriaco come un maiale… eppure non mi vedi nemmeno qui, seduto accanto a te
+
+“Zide.”
+
+
+
+Qui mi venne in mente di guardare immediatamente ciò che avevo davanti al naso.
+
+E lì, proprio come previsto, seduto di fronte a me al tavolo c’era…
+
+Personaggio poco descrittivo, anche se non del tutto impossibile da descrivere… Il suo
+
+Il [[concepts/body|corpo]] assomigliava a un tubo per vino, o a una bottiglia di rum, o qualcosa del genere.
+
+Personaggio dal carattere davvero tipico di Falstaff… Nel suo aspetto esteriore…
+
+Due barili furono inseriti nelle estremità, e sembrava che questo risolvesse ogni problema…
+
+Lo scopo delle gambe… Mentre per le braccia, pendevano dalla parte superiore del corpo.
+
+“Di due bottiglie abbastanza lunghe, con il collo rivolto all’esterno…”
+
+Per quanto riguarda le mani. Tutto ciò che vedevo nella testa di quel [[archetypes/monster|mostro]] era.
+
+Uno di quei cantinieri hesseiani che assomigliano a grandi scatole da tabacco.
+
+“Con un foro al centro del coperchio… Questa borraccia (munita di imbuto)”
+
+Sopra, come un cappello da cavaliere che copre gli occhi, era posizionato…
+
+Sul filo del rasoio, con il foro rivolto verso di me…
+
+Attraverso questo buco, che sembrava raggrinzito come la bocca di…
+
+La vecchia zitella estremamente precisa… quella creatura emetteva certi suoni rimbombanti
+
+Rumori di lamentele che, evidentemente, intendeva far capire…
+
+Parlare.
+
+
+
+“Dico io,” disse lui, “non potresti bere come un maiale, per poi avere il coraggio di…”
+
+Non sono qui; e dico: devi proprio comportarti come un maiale…
+
+Sciogliere i misteri nascosti nella stampa…
+
+“Troof… è davvero una parola molto strana, non è vero?”
+
+
+
+“Chi siete, per favore?”, dissi con grande dignità, anche se un po’…
+
+Perplesso… “Come sei arrivato qui? E di cosa stai parlando?”
+
+“Su cosa?”
+
+
+
+“Non è affar vostro”, rispose la figura, “non c’entra nulla con voi”.
+
+Pizzness… e mentre ne parlo, sto proprio parlando di questo.
+
+“Mi occupo di queste cose con cura… E, dato chi sono, è proprio questo che faccio.”
+
+“Sono venuto qui per farvi vedere con i vostri occhi.”
+
+
+
+“Sei un ubriacone e un vagabondo”, dissi, “e suonerò il campanello”.
+
+“E ordinerò al mio valletto di buttarvi in strada.”
+
+
+
+“Ehi! Ehi! Ehi!”, disse quell’uomo, “ehi! Ehi! Ehi! Vediamo se riuscite davvero a farlo…”
+
+
+
+“Non posso farlo!”, dissi, “che cosa intendi?… Non posso fare cosa?”
+
+
+
+“Anello di pelle”, rispose, cercando di sorridere con quel suo piccolo…
+
+Bocca malvagia.
+
+
+
+Cercai con tutte le mie forze di alzarmi, per poter mettere in atto la mia minaccia
+
+“Mentre veniva messo in atto… quel delinquente allungò semplicemente la mano attraverso il tavolo.”
+
+Con estrema deliberazione, mi diede una pacca sulla fronte…
+
+“La parte superiore di una di quelle lunghe bottiglie… mi ha fatto barcollare all’indietro…”
+
+“La poltrona da cui avevo appena iniziato ad alzarmi… Ero completamente sbalordito.”
+
+E, per un momento, non seppe proprio cosa fare. In quel momento…
+
+Nel frattempo, continuò la sua conversazione.
+
+
+
+“Vedi,” disse lui, “è meglio restare fermi in questo momento… E ora tu…”
+
+“Scoprirete chi sono… Guardatemi! Ecco… Io sono l’Angelo del Destino.”
+
+
+
+“E stranamente anche,” osai rispondere; “ma io ho sempre…”
+
+Con l’impressione che un angelo avesse le ali.
+
+
+
+“Ti odio!”, gridò, furioso, “perché devo sopportare tutto questo con te?”
+
+Mein Gott! Mi stai prendendo in giro?
+
+
+
+“Mai… oh, mai!” risposi, molto allarmata, “tu non sei…”
+
+“Pollo… di certo no.”
+
+
+
+“Allora, sta fermo e taci, altrimenti ti picchierò di nuovo.”
+
+Nel mio cuore… È come il frullio delle ali di un uccello, e il richiamo di una civetta.
+
+E tu voli con le ali, e tu ti getti giù dalla testa… L’angelo
+
+“Non volo al tuo fianco, ma sono l’Angelo del Destino.”
+
+
+
+“E la tua questione riguardo a me in questo momento è…”
+
+
+
+“La mia ‘pizzza’!”, esclamò quella creatura, “ma che razza di essere di bassa lega sei…”
+
+“Devo chiedere a un gentiluomo e a un angelo cosa causi questa vertigine…”
+
+
+
+Una lingua insopportabile… persino per me
+
+Angelo. Allora, raccolto tutto il mio [[concepts/courage|coraggio]], afferrai una saliera che si trovava lì.
+
+A portata di mano… e lo scagliò contro la testa dell’intruso. O qualcosa del genere.
+
+Evitò, comunque… o forse la mia mira era imprecisa; perché in ogni caso…
+
+La distruzione del cristallo che lo proteggeva è stata completata.
+
+Il quadrante dell’[[motifs/clock|orologio]] sul caminetto. Per quanto riguarda l’Angelo, lui.
+
+Dimostrò il suo disappunto per la mia aggressione comportandosi in modo brusco e deciso con me.
+
+Tre colpi consecutivi sulla fronte, come prima… Questo mi ridusse in uno stato di…
+
+Una volta resosi conto della sottomissione… e mi vergogno quasi ad ammetterlo
+
+Sia per il [[motifs/pain|dolore]] che per l’irritazione, mi vennero giù qualche [[motifs/tears|lacrima]].
+
+occhi.
+
+
+
+“Mio Dio!”, disse l’Angelo dell’Impariato, apparentemente molto commosso.
+
+Titolo:  
+"Nel mio momento di difficoltà… ‘Mio Dio, quell’uomo è o ubriaco o pazzo’"
+
+Scusa. Non devi berlo così forte: devi aggiungere un po’ d’[[motifs/water|acqua]] prima di berlo.
+
+Vino… Bevi un po’, come un vero gentiluomo, e non fare storie.
+
+"Ora… no!"
+
+
+
+Allora l’Angelo dell’Impari riempì di nuovo il mio calice (che era vuoto).
+
+Una terza parte piena di Porto… e un liquido incolore che versò
+
+Da una delle sue bottiglie fatte a mano… Notai che queste bottiglie avevano…
+
+Titolo:  
+Etichette attaccate al collo, e queste etichette erano incise…
+
+“Kirschenwasser.”
+
+
+
+La gentilezza premurosa dell’Angelo mi ha molto consolato.
+
+Una misura precisa. E, con l’aiuto dell’[[motifs/water|acqua]] con cui aveva diluito il mio Porto.
+
+Più di una volta, alla fine sono riuscito a riprendere abbastanza calma per ascoltare
+
+A discorso davvero straordinario… Non oso nemmeno tentare di descriverlo.
+
+Tutto ciò che mi ha detto… ma da quanto ha raccontato ho capito che lui era…
+
+Il genio che ha guidato attraverso i contrattempi dell’umanità…
+
+Titolo:  
+A chi spettava il compito di causare quegli strani incidenti…
+
+continuano a sorprendere il scettico. Una o due volte, quando ero.
+
+Osando esprimere la mia totale incredulità riguardo a lui.
+
+Le sue pretese lo fecero arrabbiare moltissimo, al punto che alla fine…
+
+Ritenne più saggio non dire nulla e lasciarlo fare.
+
+“Fare a modo suo… Parlò quindi per un lungo tempo, mentre…”
+
+Mi appoggiai semplicemente allo schienale della sedia, con gli occhi chiusi, e mi divertii…
+
+Mangiando uvetta e mordicchiando i gambi…
+
+Stanza… Ma, poco dopo, l’Angelo interpretò improvvisamente questo comportamento in un altro modo.
+
+Disprezzo per il mio operato. Si alzò, invaso da una furia terribile…
+
+“Con il cappello che gli copriva interamente gli occhi, pronunciò un giuramento solenne…”
+
+Minaccia di un personaggio che non ho compreso appieno
+
+E infine fece un lieve inchino e se ne andò, augurandomi…
+
+Titolo:  
+La lingua dell’arcivescovo in “Gil-Blas”: “Molto felicità…”
+
+“Un po’ più di buon senso…”
+
+
+
+La sua partenza mi ha dato sollievo. Le pochissime coppe di…
+
+Il Lafitte che avevo bevuto mi ha reso sonnolento.
+
+E mi venne voglia di fare un pisolino di quindici o venti minuti…
+
+“Minuti… come è mia abitudine dopo cena. Alle sei ho…”
+
+Titolo:  
+Un appuntamento di grande importanza… del quale non si poteva assolutamente fare a meno.
+
+Dovrei tenerla. La polizza assicurativa della mia abitazione, la mia casa, aveva.
+
+Scaduto il giorno prima; e, essendo sorta una disputa,…
+
+Concordato che, alle sei, dovrei incontrare il consiglio di amministrazione della…
+
+Negoziazione e definizione dei termini di rinnovo. Alzando lo sguardo…
+
+L’[[motifs/clock|orologio]] sul caminetto, perché mi sentivo troppo assonnato per prenderlo e controllarlo.
+
+Venti-cinque ancora
+
+Minuti in più… Erano le cinque e mezza; potevo tranquillamente andare a piedi…
+
+Ufficio assicurativo in cinque minuti… e le mie solite sieste…
+
+Mai si è verificato che superasse i cinquantadue. Mi sentivo abbastanza…
+
+Ero quindi al sicuro, quindi mi rilassai immediatamente e mi addormentai.
+
+
+
+Una volta terminati con soddisfazione, ho di nuovo rivolto lo sguardo verso…
+
+Quell’orologio, e lui era quasi disposto a crederci.
+
+Titolo:  
+La possibilità di incidenti imprevisti… quando scoprii che, al posto del mio…
+
+“Solo tre minuti di sonno in quei soliti quindici o venti minuti…”
+
+Ancora ventisette minuti all’orario stabilito…
+
+mi rimisi a sonnecchiare, e alla fine mi svegliai una seconda [[motifs/time|volta]],
+
+quando, con mio totale stupore, mancavano _ancora_ ventisette
+
+minuti alle sei. Balzai in piedi per esaminare l’[[motifs/clock|orologio]], e trovai che
+
+aveva cessato di camminare. Il mio orologio da tasca m’informò che erano le sette e
+
+mezza; e naturalmente, avendo dormito due ore, ero troppo in ritardo per
+
+il mio appuntamento. «Non farà differenza», dissi: «posso passare
+
+in ufficio domattina e scusarmi; nel frattempo che cosa
+
+può avere l’[[motifs/clock|orologio]]?» Esaminandolo scoprii
+
+che uno dei raspi d’uva passa che avevo schiccherato per la
+
+stanza durante il discorso dell’Angelo del Disagio era volato
+
+attraverso il cristallo incrinato e, conficcandosi, per singolare combinazione, nel
+
+buco della chiave, con un’estremità sporgente all’infuori, aveva così arrestato
+
+la rotazione della lancetta dei minuti.
+
+
+
+«Ah!» dissi, «vedo come stanno le cose. La faccenda parla da sé. Un
+
+accidente naturale, di quelli che _capitano_ di tanto in tanto!»
+
+
+
+Non diedi altra considerazione alla cosa, e alla mia ora consueta
+
+mi ritirai a letto. Qui, dopo aver posato una candela su un leggio
+
+al capezzale, e dopo aver tentato di scorrere alcune pagine
+
+dell’«Onnipresenza della Divinità», mi addormentai purtroppo
+
+in meno di venti secondi, lasciando il lume acceso com’era.
+
+
+
+I miei [[motifs/dreams|sogni]] furono spaventosamente turbati da visioni dell’Angelo del
+
+Disagio. Mi parve che stesse ai piedi del giaciglio, che scostasse
+
+le cortine e, con i toni cavernosi e detestabili di una botte
+
+da rum, mi minacciasse la più amara vendetta per il
+
+disprezzo con cui l’avevo trattato. Concluse una lunga
+
+arringa togliendosi il berretto a imbuto, infilandomi il tubo in
+
+gola, e inondandomi così di un oceano di Kirschenwässer,
+
+che versava, in un flusso continuo, da una delle bottiglie dal lungo
+
+collo che gli servivano da braccio. La mia agonia divenne alla
+
+fine insopportabile, e mi svegliai giusto in [[motifs/time|tempo]] per accorgermi che un
+
+ratto era scappato con la candela accesa presa dal leggio, ma _non_
+
+in tempo per impedirgli di fuggirsene con essa attraverso il
+
+buco. Ben presto un forte odore soffocante mi assalì le narici:
+
+la casa, me ne accorsi chiaramente, era in [[motifs/fire|fiamme]]. In pochi minuti l’
+
+incendio divampò con violenza, e in un lasso di tempo incredibilmente
+
+breve l’intero edificio fu avvolto dalle fiamme. Ogni uscita dalla
+
+mia stanza, tranne che per una [[motifs/window|finestra]], era tagliata. La folla,
+
+però, si procurò e rizzò in fretta una lunga scala. Per mezzo di
+
+essa stavo scendendo rapidamente, e in apparente salvezza, quando un
+
+porco enorme, nel cui ventre rotondo, e anzi in tutta la cui
+
+aria e fisionomia, c’era qualcosa che mi ricordava
+
+l’Angelo del Disagio — quando questo porco, dico, che fino allora
+
+aveva sonnecchiato tranquillo nel fango, si mise a un tratto in
+
+testa che la spalla sinistra avesse bisogno d’essere grattata, e non seppe trovare
+
+palo da strofinamento più comodo di quello offerto dal piede
+
+della scala. In un istante fui precipitato a terra ed ebbi la
+
+sventura di fratturarmi un braccio.
+
+
+
+Questo incidente, con la perdita della mia assicurazione, e con la più
+
+grave perdita dei miei capelli, tutti quanti bruciacchiati via
+
+dal [[motifs/fire|fuoco]], mi predispose a serie impressioni, sicché,
+
+alla fine, mi decisi a prender moglie. C’era una ricca vedova
+
+inconsolabile per la perdita del suo settimo marito, e al suo
+
+spirito ferito offersi il balsamo dei miei voti. Ella cedette un
+
+riluttante consenso alle mie preghiere. M’inginocchiai ai suoi piedi in gratitudine
+
+e adorazione. Ella arrossì e chinò le sue rigogliose trecce in
+
+stretto contatto con quelle fornitemi, temporaneamente, da Grandjean.
+
+Non so come avvenne l’aggrovigliamento, ma così fu. Mi
+
+rialzai con la zucca lucente, senza parrucca; ella con sdegno e ira,
+
+mezzo sepolta in capelli altrui. Così finirono le mie speranze sulla vedova per un
+
+incidente che non si poteva certo prevedere, ma
+
+che la naturale sequenza degli eventi aveva prodotto.
+
+
+
+Senza disperare, tuttavia, intrapresi l’assedio di un cuore meno
+
+implacabile. I fati furono di nuovo propizi per un breve
+
+periodo; ma di nuovo un banale incidente s’intromise. Incontrando la mia
+
+promessa sposa in un viale affollato dell’_élite_ della [[motifs/city|città]],
+
+mi affrettavo a salutarla con uno dei miei inchini più studiati,
+
+quando una minuscola particella di non so quale materia estranea, annidatasi nell’
+
+angolo dell’occhio, mi rese, per il momento, completamente cieco.
+
+Prima che potessi ricuperare la vista, la dama del mio [[motifs/love|amore]] era
+
+sparita, irreparabilmente offesa da quella che le piacque considerare
+
+una mia premeditata scortesia nel passarle accanto senza salutarla. Mentre
+
+stavo sbalordito dalla subitaneità di questo accidente (che avrebbe potuto
+
+capitare, del resto, a chiunque sotto il sole), e mentre
+
+continuavo a essere incapace di vedere, fui avvicinato dall’Angelo
+
+del Disagio, che mi offrì il suo aiuto con una cortesia che non avevo
+
+ragione di aspettarmi. Esaminò il mio occhio in disordine con molta
+
+delicatezza e abilità, m’informò che vi avevo dentro una goccia, e
+
+(qualunque cosa fosse una «goccia») la tolse, e mi diede sollievo.
+
+
+
+Giudicai ormai giunta l’[[motifs/time|ora]] di morire (poiché la fortuna era tanto
+
+determinata a perseguitarmi), e mi avviai di conseguenza al
+
+[[motifs/river|fiume]] più vicino. Qui, spogliandomi dei miei abiti (poiché non
+
+c’è ragione per cui non si possa morire come si è nati), mi gettai
+
+a capofitto nella corrente; unico testimone della mia sorte una
+
+cornacchia solitaria che era stata indotta a mangiare
+
+Mais saturato di brandy… e così si allontanò barcollando da lui
+
+Ragazzi. Non appena ero entrato nell’[[motifs/water|acqua]], quell’uccello se l’era già presa.
+
+Prendere l’idea assurda di portare via la parte più indispensabile…
+
+“La mia roba… Pertanto, per il momento, rinuncio al mio progetto suicida.”
+
+Design: Mi sono semplicemente infilato le estremità inferiori nelle maniche…
+
+Inseguii il criminale con tutte le mie forze
+
+Agilità necessaria alle circostanze del caso
+
+Ammetto… Ma il mio destino malvagio continuava ad inseguirmi. Mentre correvo a tutta velocità…
+
+[[characters/speed|Velocità]], con il naso sollevato nell’atmosfera, concentrato esclusivamente su.
+
+Il ladro della mia proprietà… All’improvviso mi resi conto che i miei piedi…
+
+Non riposava più su “terra ferma”; in realtà, l’avevo gettata via.
+
+Sull’orlo del baratro… e inevitabilmente sarei caduto
+
+“Diviso in pezzi… ma per fortuna sono riuscito ad afferrare l’estremità di quel lungo…”
+
+Cordoni guida, che pendevano da un pallone in movimento.
+
+
+
+Non appena ebbi ripreso abbastanza i sensi da poter comprendere…
+
+"Terribile situazione nella quale mi trovavo… o meglio, in cui ero intrappolato… Feci del mio meglio per uscirne."
+
+Con tutta la forza dei miei polmoni per far conoscere quella situazione difficile a tutti
+
+Un astronauta sopra di me. Ma per molto tempo ho cercato invano di raggiungerlo.
+
+O quel [[archetypes/fool|idiota]] non era in grado di percepirmi, o quel [[archetypes/villain|malvagio]] non voleva farlo.
+
+Nel frattempo, la [[motifs/machine|macchina]] saliva rapidamente verso l’alto, mentre la mia forza diminuiva ancora di più.
+
+Fallì rapidamente… Presto fui sul punto di arrendermi.
+
+Il mio destino… e silenziosamente cadde nel mare, mentre il mio spirito…
+
+Risvegliato improvvisamente dall’udire una voce vuota provenire dall’alto…
+
+Sembrava che stesse canticchiando pigramente un brano d’opera… Alzando lo sguardo, lo notai.
+
+L’Angelo del Disagio. Era appoggiato lì, con le braccia incrociate.
+
+Il bordo dell’auto… e con una pipa in bocca…
+
+Soffiava tranquillamente, sembrava essere in ottimi rapporti con se stesso.
+
+E l’universo… Ero troppo esausto per parlare; quindi ho semplicemente…
+
+Lo guardò con un'espressione supplichevole.
+
+
+
+Per diversi minuti, anche se mi guardava dritto in faccia, lui…
+
+Non disse nulla. Alla fine, tolse con cura il suo piumino da pipa…
+
+Un sorriso condiscendente
+
+Parla.
+
+
+
+“Chi sei tu”, chiese, “e che diavolo ti dà il diritto di farlo?”
+
+
+
+“Di fronte a tale insolenza, crudeltà e affettazione, io potrei…”
+
+Titolo:  
+Rispondi soltanto emettendo la parola monosillabica “Aiuto!”
+
+
+
+“Elp!”, gridò il delinquente, “non sono io… Provateci pure… aiutatevi da soli!”
+
+“E poi… basta così!”
+
+
+
+Con queste parole, lasciò cadere una pesante bottiglia di Kirschenwasser.
+
+Che, cadendo esattamente sulla mia [[motifs/crown|corona]], mi fece.
+
+Immagina che il mio cervello fosse completamente distrutto… Impressionante, vero?
+
+Quest’idea… stavo per arrendermi e rinunciarvi.
+
+[[archetypes/ghost|fantasma]], con grande calma, quando fui arrestato dal grido di.
+
+Angel, che mi aveva detto di aspettare.
+
+
+
+“Vecchio mio!”, disse; “non affrettarti… per favore. Vuoi prendere…”
+
+Di una bottiglia strana… o forse l’hai già trovata e sei tornato da me?
+
+“Zenzes?”
+
+
+
+Mi affrettai quindi ad annuire due volte… una volta…
+
+Negativo, il che significa che preferirei non prenderlo.
+
+Al momento, un’altra bottiglia… E una volta presa la decisione di farlo, con l’intenzione di procedere.
+
+Così da far intendere che fossi sobrio e che fossi effettivamente arrivato lì di mia volontà…
+
+I sensi. Con questi mezzi riuscii in qualche modo ad addolcire l’Angelo.
+
+
+
+“E tu credi davvero, dieci?” chiese lui, “alla fine? Tu credi davvero che sia dieci?”
+
+“Qual è la possibilità che tu sia diverso?”
+
+
+
+Annuii nuovamente in segno di accordo.
+
+
+
+“E tu credevi in me, angelo del destino?”
+
+
+
+Annuii di nuovo.
+
+
+
+“E ammetti di essere stato completamente ubriaco e pazzo?”
+
+
+
+Annuii ancora una volta.
+
+
+
+Titolo:  
+"Metti la tua mano destra nella tasca della mano sinistra, dieci, dentro."
+
+“Un pegno del tuo desiderio di servire l’Angelo del Destino.”
+
+
+
+Questa cosa… per motivi piuttosto ovvi, l’ho trovata del tutto impossibile da gestire.
+
+Per prima cosa, il mio braccio sinistro si era rotto a causa della caduta.
+
+Dalla scala… e quindi, se avessi lasciato andare la presa…
+
+Destra… Devo averla lasciata andare del tutto. In secondo luogo, io…
+
+Non avevo alcuna soluzione… finché non ho incontrato il corvo. Ero…
+
+Pertanto costretto, con grande rammarico, ad scuotere la testa…
+
+Titolo:  
+“Negativo… Intendendo così far capire all’Angelo che io…”
+
+Gli sembrò scomodo, proprio in quel momento, dovergli obbedire
+
+Una richiesta assolutamente ragionevole… Tuttavia, non appena smisi di tremare…
+
+Più di quanto… nella mia testa
+
+
+
+“Vai all’inferno, maledetto!” ruggì l’Angelo dell’Impariato.
+
+
+
+Tagliando l’aria con queste parole, fece scorrere un coltello affilato…
+
+"#Guida che mi teneva sospeso… e proprio in quel momento…"
+
+Proprio sopra la mia stessa casa, (che, durante i miei viaggi, )
+
+Era stato ricostruito in modo molto bello… ma purtroppo è successo che io ci inciampassi sopra.
+
+“Giù a capofitto nel vasto camino… e atterrato nella sala da pranzo.”
+
+Caminetto.
+
+
+
+Al riprendermi conoscenza… (poiché la caduta era stata davvero violenta)
+
+Mi ha lasciato sbalordito. L’ho trovato verso le quattro di mattina. Ero sdraiato.
+
+Disteso dove ero caduto dal pallone… La mia testa…
+
+Si prostrò nelle ceneri di un [[motifs/fire|fuoco]] spento, mentre i miei piedi.
+
+Posato sui resti di un piccolo tavolo rovesciato, e in mezzo a…
+
+Frammenti di un dessert variegato, mescolati insieme
+
+Un giornale, del vetro rotto e bottiglie infrante… e nulla più.
+
+“Jug of the Schiedam Kirschenwasser: Così si vendicò…”
+
+Angelo dell’Improbabile.
+
+
+
+Mabbott afferma che Griswold “ovviamente aveva una versione rivista” di…
+
+Titolo: Utilizzato nel volume del 1856 delle opere di Poe. Mabbott non lo fa…
+
+Dimostrare questa affermazione, ma certamente non è irragionevole.
+
+Editori e persino errori tipografici potrebbero aver contribuito a…
+
+Tutti i piccolissimi cambiamenti apportati in questa versione… (Infatti, due di essi…)
+
+Parole assolutamente necessarie che sono state chiaramente omesse per errore… Un editore
+
+Avrebbe potuto correggere “‘Epigoniad’ di Wickliffe” in “‘Epigoniad’ di Wilkie”
+
+“‘Epigoniad’, ma è improbabile che includesse anche ‘Tuckerman’s’”.
+
+“Sicilia” viene aggiunta all’elenco dei libri letti dal narratore. Griswold…
+
+Non esitava a ricorrere alla falsificazione, quando questo serviva ai suoi scopi… nelle lettere di Poe
+
+Ma ci sarebbe troppo poco da guadagnare con un simile sforzo in questo contesto
+
+[Instance.]
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Angel of the Odd (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/monster,motif/bees,motif/death,motif/fire,concept/body,concept/despair,concept/imagination,setting/london"></span>

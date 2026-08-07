@@ -43659,6 +43659,72 @@ Hesitation formed no part of Mr. [[characters/alfred-jingle|Alfred Jingle]]’s 
 finger on his lips mysteriously, walked in, and closed the door.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era abitudine della vecchia signora, nelle belle mattine d’estate, recarsi nel padiglione dove il signor Tupman si era già sistemato. Il procedimento era sempre lo stesso: prima, il ragazzo grasso andava a prendere, da un gancio dietro la porta della camera da letto della vecchia signora, un cappello nero di satin, uno scialle di cotone caldo e un bastone robusto con un manico largo; poi la vecchia signora, dopo essersi messa il cappello e lo scialle, si appoggiava a un braccio del bastone e all’altro al collo del ragazzo grasso, per camminare tranquillamente verso il padiglione. Lì, il ragazzo la lasciava da sola ad godersi l’aria fresca per mezz’ora; al termine di quel tempo, tornava a prenderla e la riconduceva in casa.
+
+La vecchia signora era molto precisa e molto esigente; poiché questa cerimonia veniva osservata da tre estati consecutive senza il minimo deviazione dalla forma abituale, rimase piuttosto sorpresa quella mattina, quando vide il ragazzo grasso uscire dall’arboreto, guardarsi intorno con attenzione in tutte le direzioni e poi tornare verso di lei con grande cautela, assumendo un’aria di estrema misteriosità.
+
+La vecchia signora era timida – lo sono molte vecchie signore – e la sua prima impressione fu che quel ragazzo grassoccio stesse per farle del male fisico, con l’intento di impossessarsi dei suoi soldi. Avrebbe voluto chiamare aiuto, ma l’età e le malattie le avevano da tempo tolto la capacità di gridare; quindi osservava i suoi movimenti con un terrore intenso, che non diminuì affatto quando lui si avvicinò a lei e le urlò all’orecchio in tono agitato e, a suo parere, minaccioso.
+
+“Signora!”
+
+Per coincidenza, in quel momento il signor Jingle stava passeggiando nel [[motifs/garden|giardino]], vicino al padiglione. Anche lui sentì le grida di “Signora” e si fermò per ascoltare meglio. C’erano tre motivi per cui lo fece: innanzitutto, era pigro e curioso; in secondo luogo, non era affatto scrupoloso; terzo e ultimo, alcuni cespugli fioriti lo nascondevano alla vista. Così rimase lì, ad ascoltare.
+
+“Signora!” gridò il ragazzo grasso.
+
+“Beh, Joe,” disse la vecchia signora tremante, “sono sicura di essere stata una buona padrona per te, Joe. Sei sempre stato trattato con grande gentilezza; non hai mai avuto troppo da fare e hai sempre avuto abbastanza da mangiare.”
+
+Quest’ultimo appello colpì i sentimenti più sensibili del ragazzo grassoccio. Sembrò commosso e rispose con enfasi.
+
+“Lo so che ce l’ho.”
+
+“Allora, cosa vuoi fare ora?” disse la vecchia signora, raccogliendo [[concepts/courage|coraggio]].
+
+“Vuole farvi venire i brividi”, rispose il ragazzo.
+
+Sembrava un modo davvero crudele per esprimere gratitudine; e poiché la vecchia signora non comprendeva appieno il processo attraverso cui si poteva ottenere tale risultato, tutti i suoi precedenti terrori tornarono a tormentarla.
+
+“Cosa credi che abbia visto in questo stesso pergolato la scorsa [[motifs/night|notte]]?”, chiese il ragazzo.
+
+“Benedicici! Cosa?” esclamò la vecchia signora, allarmata dal tono solenne di quel giovane robusto.
+
+Il gentiluomo strano, quello con il braccio ferito, che baciava e abbracciava.
+
+“Chi, Joe? Nessuno dei servitori, spero, ”
+
+“Peggio ancora,” ringhiò il ragazzo grasso all’orecchio della vecchia signora.
+
+“Nessuno dei miei pronipoti?”
+
+“Peggio ancora.”
+
+“Peggio ancora, Joe!” disse la vecchia signora, che credeva questo fosse il limite estremo dell’atrocità umana. “Chi è stato, Joe? Insisto nel saperlo.”
+
+Il ragazzo grasso guardò intorno con cautela; dopo essersi assicurato che non ci fosse nulla di pericoloso, gridò all’orecchio della vecchia signora.
+
+“Miss Rachael.”
+
+“Che cosa!” esclamò la vecchia signora con voce acuta. “Parla più forte.”
+
+“Signorina Rachael,” gridò il ragazzo grasso.
+
+“Mio padre!”
+
+La serie di cenni di assenso fatti dal ragazzo grasso faceva muovere le sue guance paffute in modo davvero buffo.
+
+“E lei lo ha sopportato!” esclamò la vecchia signora. Un sorriso apparve sul viso del ragazzo grassoccio mentre disse.
+
+“La vedo di nuovo baciarlo.”
+
+Se il signor Jingle, dal suo nascondiglio, avesse potuto vedere l’espressione che apparve sul viso della vecchia donna in quel momento, è molto probabile che una improvvisa risata avrebbe rivelato la sua vicinanza alla [[motifs/summer|casa]] estiva. Ascoltava attentamente: frammenti di frasi arrabbiate come “Senza il mio permesso!”, “Nel suo [[motifs/time|momento]] di vita, ”, “Misera vecchia ‘strega’ come me, ”, “Avrebbe potuto aspettare che morissi, ”, e così via, raggiunsero le sue orecchie; poi sentì i tacchi delle scarpe del ragazzo grasso che scricchiolavano sul ghiaietto mentre si allontanava, lasciando la vecchia donna da sola.
+
+Forse si trattava di una coincidenza straordinaria, ma era comunque un fatto: nel giro di cinque minuti dall’arrivo a Manor Farm la sera precedente, il signor Jingle aveva deciso, dentro di sé, di attaccare senza indugio il cuore di quella zia zitella. Aveva notato che il suo modo disinvolto non dispiaceva affatto all’oggetto del suo interesse; inoltre, sospettava fortemente che lei possedesse quel requisito tanto desiderabile: una certa indipendenza. La necessità imperativa di eliminare il proprio rivale gli balenò subito nella mente, e decise immediatamente di intraprendere alcune azioni mirate a quel fine, senza perdere un istante. Fielding ci dice che l’uomo è come il fuoco e la donna come la paglia. Il Principe delle Tenebre accende entrambi. Il signor Jingle sapeva bene che i giovani uomini rappresentano, per le zie zitelle, qualcosa di simile al gas acceso sulle polveri da sparo. E decise quindi di “sperimentare” l’effetto di un’esplosione senza perdere tempo.
+
+Ricco di riflessioni su questa importante decisione, uscì furtivamente dal suo nascondiglio e, protetto dai cespugli menzionati in precedenza, si avvicinò alla >casa. Sembrava che la fortuna fosse dalla sua parte. Il signor Tupman e gli altri gentiluomini lasciarono il [[motifs/garden|>jardino]] dal cancello laterale proprio nel momento in cui lui riuscì a vederlo; inoltre, sapeva che le giovani signore erano uscite da sole, poco dopo colazione. Non c’era nessuno nei paraggi.
+
+La porta del salotto da colazione era parzialmente aperta. Guardò all’interno: la zia zitella stava facendo il punto. Tossì; lei alzò lo sguardo e sorrise. L’esitazione non faceva parte del carattere di Mr. [[characters/alfred-jingle|Alfred Jingle]]. Posò un dito sulle labbra in modo misterioso, entrò e chiuse la porta.
+
 
 
 <span class="atom-split" data-atom="chapter_07_strongly_illustrative_of_the_p--part_04" data-title="The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 4)" data-chapter="STRONGLY ILLUSTRATIVE OF THE P" data-kind="excerpt" data-tags="archetype/lover,motif/desire,motif/garden,motif/love,motif/rose,motif/silence,motif/tears,motif/time,concept/despair,concept/imagination,concept/jealousy,concept/pride,character/alfred_jingle,character/tracy_tupman"></span>
@@ -61002,6 +61068,76 @@ When Mr. [[works/pickwick-(chesterton)|Pickwick]] arrived at this point, Job Tro
 gravity, applied his hand to his ear, as if desirous not to lose a
 syllable he uttered.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Che piacere rivederci. Questo rende tutto molto più confortevole,” disse Sam. “Siediti, siediti pure.”
+
+Il signor Trotter si lasciò costringere a sedersi su una sedia accanto al camino. Abbassò i suoi piccoli occhi, prima sul signor Weller e poi sul signor Muzzle, ma non disse nulla.
+
+“Beh,” disse Sam, “davanti a queste signore, mi chiederei, per semplice curiosità, se non vi consideriate una giovane donna carina e ben educata, che usa sempre fazzoletti da tasca rosa e possiede anche la collezione numero quattro, ”
+
+“E come era prevedibile, finirà per sposare un cuoco,” disse quella signora con indignazione. “Che sfortuna!”
+
+“E smetta con queste sue cattive abitudini, e si dedichi seriamente al mestiere di candelaio,” disse la cameriera.
+
+“Ora vi dirò di cosa si tratta, giovane uomo,” disse il signor Muzzle con solennità, furioso per le ultime due allusioni. “Questa signora qui (indicando la cuoca) frequenta la mia compagnia; e quando voi osate, signore, parlare di avviare insieme un negozio di candele, mi offendetе in uno dei punti più delicati in cui un uomo possa offendere un altro. Capite ciò che dico, signore?”
+
+Ecco il signor Muzzle, che aveva una grande stima della propria eloquenza e imitava sempre il proprio maestro nel parlare; si fermò in attesa di una risposta.
+
+Ma il signor Trotter non rispose. Così il signor Muzzle proseguì in modo solenne.
+
+“È molto probabile, signore, che per diversi minuti non vi verrà chiesto di salire al piano di sopra, perché in questo momento il mio padrone è particolarmente impegnato a sistemare le cose del vostro padrone; quindi avrete il tempo, signore, per una breve conversazione privata con me. Capite ciò che intendo, signore?”
+
+Il signor Muzzle si fermò di nuovo in attesa di una risposta; ma ancora una volta il signor Trotter lo deluse.
+
+“Beh, allora,” disse il signor Muzzle, “mi dispiace molto dovermi spiegare davanti alle signore, ma l’urgenza della situazione sarà la mia scusa. La cucina sul retro è vuota, signore. Se volesse entrarci, il signor Weller si occuperà di tutto e potremo trovare un accordo reciproco fino a quando suonerà la campanella. Mi segua, per favore!”
+
+Mentre il signor Muzzle pronunciava queste parole, fece un paio di passi verso la porta; e, per risparmiare [[motifs/time|tempo]], iniziò a togliersi il cappotto mentre camminava.
+
+Non appena la cuoca udì le ultime parole di questa disperata sfida e vide il signor Muzzle sul punto di metterla in atto, emise un grido acuto e stridulo; poi corse verso il signor Job Trotter, che si alzò immediatamente dalla sedia, e con una forza tipica delle donne eccitate, gli strappò e colpì il suo grande viso piatto, intrecciando le mani nei suoi lunghi capelli neri per strapparne abbastanza da poter fare cinque o sei dozzine di anelli neri per i lutto, delle dimensioni più grandi. Dopo aver compiuto questo atto con tutto l’ardore ispirato dal suo devoto [[motifs/love|amore]] per il signor Muzzle, barcollò all’indietro; essendo una donna dalle emozioni molto facilmente scatenabili e delicata, cadde immediatamente sotto il comodino e svenne.
+
+In questo momento, suonò la campanella.
+
+“Questo è per te, Job Trotter,” disse Sam; e prima che il signor Trotter potesse fare obiezioni o rispondere – persino prima che avesse il [[motifs/time|tempo]] di curare le ferite causate da quella donna insensibile – Sam afferrò un braccio del signor Trotter e il signor Muzzle l’altro; uno tirava avanti, l’altro spingeva indietro, e così lo portarono al piano di sopra, nella sala da pranzo.
+
+Era un quadro davvero imponente. [[characters/alfred-jingle|Alfred Jingle]], signore di campagna e soprannominato Capitano Fitz-Marshall, stava in piedi vicino alla porta, con il cappello in mano e un sorriso sul viso, del tutto indifferente alla sua molto sgradevole situazione. Di fronte a lui c'era il signor [[works/pickwick-(chesterton)|Pickwick]], che evidentemente aveva intenzione di impartire qualche importante lezione morale; la sua mano sinistra era nascosta sotto la gonna del suo abito, mentre quella destra era tesa verso l’alto, come faceva sempre quando pronunciava un discorso incisivo. A una certa distanza si trovavano il signor Tupman, con un’espressione indignata, tenuto a bada attentamente dai suoi due amici più giovani; in fondo alla stanza c'erano il signor Nupkins, la signora Nupkins e la signorina Nupkins, tutti dall’aspetto cupo e visibilmente infastiditi.
+
+“Cosa mi impedisce,” disse il signor Nupkins con dignità maestosa, quando Job fu portato dentro, “di trattenere quest’uomo come un furfante e un impostore? È una misericordia stupida. Cosa mi impedisce?”
+
+“[[concepts/pride|Orgoglio]], vecchio mio, [[concepts/pride|orgoglio]],” rispose Jingle, del tutto a suo agio. “Non andrebbe bene, non si può, aver catturato un capitano, eh?, ahah! Molto bene, un ottimo marito per una figlia, farlo sapere in giro, nemmeno per tutto l’oro del mondo, sembrere stupidi, davvero!”
+
+“Miserabile,” disse il signor Nupkins, “disprezziamo le tue vili insinuazioni.”
+
+“Lo ho sempre odiato,” aggiunse Henrietta.
+
+“Oh, certo,” disse Jingle. “Un giovane alto, l’antico [[archetypes/lover|innamorato]] di lei. Sidney Porkenham, ricco, un ragazzo distinto, ma non così ricco come il capitano, vero? Lo respingerebbero, lo allontanerebbero, qualsiasi cosa per il capitano, niente al suo livello, tutte le ragazze, pazze di lui, eh, Job, eh?”
+
+Qui il signor Jingle rise molto di cuore; e Job, strofinandosi le mani per la gioia, emise il primo suono che aveva espresso da quando era entrato nella casa: una risatina bassa e silenziosa, che sembrava indicare quanto si divertisse a ridere, al punto di non voler lasciare che nemmeno un suono ne trapelasse.
+
+“Signor Nupkins,” disse la signora più anziana, “questa non è una conversazione adatta che i servitori possano ascoltare. Fateli allontanare.”
+
+“Certamente, mia cara,” disse il signor Nupkins. “Zitto!”
+
+“Vostra Eccellenza.”
+
+“Apre la porta d’ingresso.”
+
+“Sì, Vostra Maestà.”
+
+“Lasciate questa casa!” disse il signor Nupkins, agitando la mano con forza.
+
+Jingle sorrise e si diresse verso la porta.
+
+“Resta!” disse il signor [[works/pickwick-(chesterton)|Pickwick]]. Jingle si fermò.
+
+“Avrei potuto,” disse il signor [[works/pickwick-(chesterton)|Pickwick]], “prendere una vendetta molto più severa per il trattamento che ho ricevuto da voi e dal vostro amico ipocrita.”
+
+Job Trotter si inchinò con grande cortesia e posò la mano sul proprio cuore.
+
+“Dico,” disse il signor [[works/pickwick-(chesterton)|Pickwick]], iniziando gradualmente ad arrabbiarsi, “che avrei potuto prendere una vendetta più severa, ma mi accontento di smascherarvi, cosa che considero un dovere verso la società. Questa è una clemenza, signore, spero che ve ne ricorderete.”
+
+Quando il signor [[works/pickwick-(chesterton)|Pickwick]] arrivò a questo punto, Job Trotter, con una gravità scherzosa, si portò la mano all’orecchio, come se volesse assicurarsi di non perdere nemmeno una sillaba di ciò che stava dicendo.
 
 
 

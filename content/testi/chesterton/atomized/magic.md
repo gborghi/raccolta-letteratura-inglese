@@ -3180,6 +3180,3182 @@ Outlook, [[settings/new-york|New York]]._
 [[settings/new-york|New York]]   G.P. Putnam's Sons   [[settings/london|London]]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prodotto da Suzanne Lybarger, Brian Janes, Melissa Er-Raqabi
+
+E il team di correzione online distribuita
+
+http://www.pgdp.net
+
+MAGIA
+
+In una fantastica [[forms/comedy|commedia]]
+
+Illustrazione: G.K. Chesterton
+
+Dalla fotografia
+
+MAGIA
+
+In una fantastica [[forms/comedy|commedia]]
+
+BY
+
+G.K. Chesterton
+
+G.P. Putnam’s Sons
+
+[[settings/new-york|New York]] E [[settings/london|Londra]]
+
+The Knickerbocker Press
+
+1913
+
+Copyright, 1913
+
+BY
+
+G.K. Chesterton
+
+La Knickerbocker Press, [[settings/new-york|New York]]
+
+I personaggi
+
+Il Duca
+
+Dottor Grimthorpe
+
+Il reverendo Cyril Smith
+
+MORRIS CARLEON
+
+[[characters/hastings|HASTINGS]], _il segretario del duca_
+
+Il forestiero
+
+Patricia Carleon
+
+_L’azione si svolge nel salotto del Duca._
+
+Nota
+
+Questa opera teatrale è stata rappresentata sotto la direzione di Kenelm Foss al Teatro…
+
+Little Theatre, [[settings/london|Londra]], il 7 novembre 1913, con la seguente distribuzione:
+
+Il forestiero          Franklin Dyall
+
+Patricia Carleon – Miss Grace Croft
+
+Il reverendo Cyril Smith     O.P. Heggie
+
+Dr. Grimthorpe – William Farren
+
+Il Duca                     [[characters/fred|Fred]] Lewis
+
+[[characters/hastings|HASTINGS]]                     FRANK RANDELL
+
+Morris Carleon & Lionel Watts
+
+Il preludio
+
+Scena: Una piantagione di giovani alberi sottili, nella nebbia e sotto la pioggia.
+
+Crepuscolo: alcuni fiori nei boschi evidenziano le chiazze sul terreno
+
+Tra i gambi
+
+Lo STRANIERO è stato scoperto: si tratta di una figura avvolta in un mantello con cappuccio appuntito.
+
+Il suo costume potrebbe appartenere al mondo moderno o a qualsiasi altro [[motifs/time|epoca]]; in ogni caso.
+
+Cappuccio conico così calato sulla testa che si vede ben poco…
+
+Il volto
+
+Una voce lontana, di una donna, si sente: metà canta, metà recita.
+
+Parole incomprensibili. La figura incappucciata alza la testa…
+
+Ascolta con interesse. La canzone si avvicina, e_ PATRICIA CARLEON
+
+_entra. È scura di pelle e snella, con un’espressione sognante.
+
+Sebbene sia vestita in modo artistico, i suoi capelli sono un po’ disordinati…
+
+In mano ha un ramo spezzato di qualche albero fiorito. Lei lo fa…
+
+Non notare lo sconosciuto… eppure lui l’ha osservata attentamente.
+
+Interesse… nessun segno. All’improvviso lo percepisce e inizia…
+
+Back.
+
+PATRICIA. Oh! Chi sei?
+
+Straniero… Ah! Chi sono io? [Inizia a mormorare tra sé, mentre riflette su ciò che è.]
+
+Con il suo bastone tocca la terra.
+
+Ho un cappello, ma non per indossarlo;
+
+Indosso una _spada, ma non per uccidere.
+
+Sempre con me nella mia borsa
+
+Un mazzo di carte, ma non per giocare.
+
+PATRICIA. Cosa sei? Cosa stai dicendo?
+
+STRANIERO: È la lingua delle fate, o figlia di Eva.
+
+Patricia… Ma non avrei mai pensato che le fate fossero come te. Accidenti, sei anche più alta!
+
+più di quanto lo sia io.
+
+Straniero… Noi siamo ciò che siamo. Ma gli elfi… diventano piccoli.
+
+Non molto grande, quando si mescolavano con i mortali.
+
+Patricia: Intendi dire che sono esseri più grandi di noi.
+
+Straniera… Figlia degli uomini, se vuoi vedere una fata per ciò che realmente è, guarda…
+
+Per la sua testa, sopra tutte le [[motifs/stars|stelle]], e i suoi piedi, tra i pavimenti del.
+
+Mare… Le vecchie donne vi hanno insegnato che le fate sono troppo piccole per poter…
+
+“Viste… Ma vi dico che le fate sono troppo potenti per essere viste davvero. Perché loro…”
+
+Gli dèi antichi, di fronte ai quali i giganti sembravano nani. Loro sono…
+
+Spiriti Elementari… ognuno di loro più grande del mondo intero. E tu…
+
+Cercali nelle ghiande, sui funghi velenosi, e [[concepts/wonder|meravigliati]] di non riuscire mai a trovarli.
+
+loro.
+
+PATRICIA: Ma tu hai la stessa forma e le stesse dimensioni di un uomo.
+
+Straniero: Perché vorrei parlare con una donna.
+
+Patricia. _Con ammirazione… Penso che tu stia crescendo più in alto, vero?_
+
+Parla.
+
+La scena sembra dissolversi, lasciando il posto a un ambiente diverso…
+
+Titolo:  
+ATTO PRIMO – Il salotto del duca, un ambiente con arredi francesi aperti
+
+Finestre o qualsiasi apertura abbastanza grande da permettere di vedere un [[motifs/garden|giardino]] e una casa.
+
+Piuttosto vicino. È sera, e c’è una luce rossa accesa…
+
+La casa oltre. Il reverendo Cyril Smith è seduto lì, con il cappello in testa.
+
+Un visitatore al suo fianco… Un giovane uomo…
+
+Il più alto dei collari da cane della Chiesa Alta e tutte le qualità di…
+
+Fanatico contenuto… Appartiene a quella categoria di socialisti cristiani.
+
+Prende sul serio il suo sacerdozio. È un uomo onesto, e non…
+
+Ass._
+
+_Dentro entra il signor [[characters/hastings|HASTINGS]], con dei documenti in mano._
+
+[[characters/hastings|HASTINGS]]. Oh, buonasera. Lei è il signor Smith. [_Pausa._] Voglio dire, lei è davvero lui.
+
+Il Rettore, credo.
+
+SMITH. Sono il Rettore.
+
+[[characters/hastings|HASTINGS]]. Sono il segretario del Duca. Sua Grazia mi incarica di dire che.
+
+Spero di vederti molto presto; ma in questo momento è impegnato con il Dottore.
+
+SMITH. Il Duca è malato?
+
+[[characters/hastings|HASTINGS]]. [_Ridefinendo._] Oh no. Il Dottore è venuto a chiedergli di aiutare.
+
+Per qualche motivo o altro. Il Duca non si ammala mai.
+
+SMITH. Il Dottore è con lui adesso?
+
+[[characters/hastings|HASTINGS]]. In realtà, non lo è. Il Dottore se n’è già andato.
+
+La strada per andare a prendere un documento legato alla sua proposta. Ma non è ancora arrivato lontano.
+
+Da lì si va, come potete vedere. Quella è la sua lampada rossa, all’estremità del suo terreno.
+
+SMITH. Sì, lo so. Sono molto grato a voi. Aspetterò per tutto il tempo necessario.
+
+Necessario.
+
+[[characters/hastings|HASTINGS]]. [_Con gioia._] Oh, non passerà molto tempo.
+
+_Uscita._
+
+_[Entra dalle porte del [[motifs/garden|giardino]]_ Il DOTTOR GRIMTHORPE, mentre legge un documento aperto._
+
+Un praticante all’antica, davvero un vero gentiluomo
+
+vestito con grande cura in uno stile lievemente antiquato. Ha circa
+
+sessant'anni e avrebbe potuto essere un amico di Huxley._
+
+DOTTORE. [_Ripiegando la carta._] Vi chiedo scusa, signore, non avevo
+
+notato che ci fosse qualcuno qui.
+
+SMITH. [_Amichevolmente._] Scusate voi. Un nuovo ecclesiastico non può aspettarsi di essere
+
+atteso. Sono venuto solo per vedere il Duca a proposito di certe faccende locali.
+
+DOTTORE. [_Sorridendo._] E, per strano che sia, anch'io. Ma suppongo che
+
+entrambi vorremmo prenderlo per un orecchio ciascuno.
+
+SMITH. Oh, per quanto mi riguarda non c'è alcun mistero. Mi sono unito a questa
+
+lega per l'apertura di un'osteria modello nella parrocchia; e in parole
+
+povere, sono venuto a chiedere a Sua Grazia una sottoscrizione.
+
+DOTTORE. [_Cupamente._] E, guarda caso, io mi sono unito alla petizione
+
+contro l'erezione di un'osteria modello in questa parrocchia. La
+
+somiglianza della nostra posizione cresce a ogni istante.
+
+SMITH. Sì, credo che dobbiamo essere stati gemelli.
+
+DOTTORE. [_Con più buonumore._] [[motifs/well|Beh]], che cos'è un'osteria modello? Volete
+
+forse dire un giocattolo?
+
+SMITH. Intendo un luogo dove gli inglesi possano bere qualcosa di decente e berlo
+
+decentemente. Voi lo chiamate un giocattolo?
+
+DOTTORE. No; lo chiamerei un gioco di prestigio. O, in omaggio al vostro
+
+abito, dirò un miracolo.
+
+SMITH. Accetto l'omaggio al mio abito. Sto facendo il mio dovere di sacerdote.
+
+Come può la Chiesa avere il diritto di far digiunare gli uomini se non permette
+
+loro di banchettare?
+
+DOTTORE. [_Con amarezza._] E quando avrete finito di banchettarli, li
+
+manderete da me a farsi curare.
+
+SMITH. Sì; e quando voi avrete finito di curarli li manderete da me a
+
+farsi seppellire.
+
+DOTTORE. [_Dopo una pausa, ridendo._] [[motifs/well|Beh]], voi avete tutte le vecchie
+
+dottrine. È giusto che abbiate anche tutte le vecchie battute.
+
+SMITH. [_Ridendo anche lui._] A proposito, chiamate gioco di prestigio il fatto che
+
+la povera gente beva con moderazione.
+
+DOTTORE. La chiamo una scoperta chimica: che l'alcol non è un alimento.
+
+SMITH. Voi non bevete vino?
+
+DOTTORE. [_Lievemente trasalendo._] Bere vino! [[motifs/well|Beh]]--che altro c'è da
+
+bere?
+
+SMITH. Dunque bere decentemente è un gioco di prestigio che voi comunque sapete
+
+fare?
+
+DOTTORE. [_Sempre di buonumore._] [[motifs/well|Beh]], [[motifs/well|beh]], [[concepts/hope|speriamo]] di sì. A proposito
+
+di giochi di prestigio, ci saranno prestidigitazione e ogni sorta di cose
+
+qui questo pomeriggio.
+
+SMITH. Prestidigitazione? Davvero? E perché mai?
+
+_Entra_ [[characters/hastings|HASTINGS]] _con una lettera in ciascuna mano._
+
+[[characters/hastings|HASTINGS]]. Sua Grazia sarà da voi tra poco. Mi ha chiesto di sbrigare
+
+prima di tutto la questione d'affari.
+
+[_Consegna un biglietto a ciascuno di loro._
+
+SMITH. [_Voltandosi con entusiasmo verso il_ DOTTORE.] Ma questo è davvero splendido.
+
+Il Duca ha dato 50 sterline alla nuova osteria.
+
+[[characters/hastings|HASTINGS]]. Il Duca è molto liberale.
+
+[_Raccoglie le carte._
+
+DOTTORE. [_Esaminando il proprio assegno._] Moltissimo. Ma questo è piuttosto curioso. Ha
+
+dato anche 50 sterline alla lega che si oppone alla nuova osteria.
+
+[[characters/hastings|HASTINGS]]. Il Duca è di mentalità molto liberale.
+
+[_Esce._
+
+SMITH. [_Fissando il proprio assegno._] Di mentalità liberale!... Distratto di mente, lo
+
+chiamerei io.
+
+DOTTORE. [_Sedendosi e accendendo un sigaro._] [[motifs/well|Beh]], sì. Il Duca soffre
+
+un poco di assenza [_si mette il sigaro in bocca e tira
+
+durante la pausa_] di mente. È tutto per il compromesso. Non conoscete il
+
+tipo d'uomo che, quando gli parlate delle cinque migliori razze di cane,
+
+finisce sempre per comprare un bastardo? Il Duca è il più gentile degli uomini, e
+
+cerca sempre di accontentare tutti. In genere finisce per non accontentare
+
+nessuno.
+
+SMITH. Sì; credo di sapere di che genere di cosa si tratta.
+
+DOTTORE. Prendete questa faccenda della prestidigitazione, per esempio. Sapete che il Duca ha due
+
+pupilli che ora devono vivere con lui?
+
+SMITH. Sì. Ho sentito qualcosa a proposito di un nipote e di una nipote dall'Irlanda.
+
+DOTTORE. La nipote è venuta dall'Irlanda alcuni mesi fa, ma il nipote
+
+torna dall'[[settings/america|America]] [[motifs/night|stasera]]. [_Si alza bruscamente e cammina per
+
+la stanza._] Credo che vi racconterò tutto. Nonostante la vostra
+
+preziosa osteria, voi mi sembrate un uomo assennato. E credo che
+
+avrò bisogno di tutti gli uomini assennati che potrò trovare [[motifs/night|stasera]].
+
+SMITH. [_Alzandosi anche lui._] Sono al vostro servizio. Sapete, avevo un po'
+
+indovinato che non eravate venuto qui solo per protestare contro la mia preziosa
+
+osteria.
+
+DOTTORE. [_Camminando avanti e indietro in un'eccitazione contenuta._] [[motifs/well|Beh]], avete indovinato
+
+giusto. Ero il medico di famiglia del fratello del Duca in Irlanda. Conoscevo
+
+la famiglia piuttosto [[motifs/well|bene]].
+
+SMITH. [_Sommessamente._] Suppongo vogliate dire che sapevate qualcosa di strano sulla
+
+famiglia?
+
+DOTTORE. [[motifs/well|Beh]], vedevano fate e cose di quel genere.
+
+SMITH. E suppongo che, per la mente medica, vedere fate significhi più o meno lo
+
+stesso che vedere serpenti?
+
+DOTTORE. [_Con un sorriso acido._] [[motifs/well|Beh]], le vedevano in Irlanda. Suppongo
+
+sia del tutto corretto vedere fate in Irlanda. È come giocare d'azzardo a
+
+Monte Carlo. È del tutto rispettabile. Ma traccio una linea quando si tratta del
+
+vederle in Inghilterra. Mi oppongo al fatto che portino i loro [[motifs/ghosts|fantasmi]]
+
+e folletti e streghe nel [[motifs/garden|giardino]] sul retro del povero Duca stesso e a un
+
+iarda dalla mia stessa lampada rossa. Dimostra una mancanza di tatto.
+
+SMITH. Ma io ho ben capito che il nipote e la nipote del Duca vedono streghe
+
+e fate tra qui e la vostra lampada.
+
+[_Cammina verso la [[motifs/window|finestra]] del [[motifs/garden|giardino]] e guarda fuori._
+
+DOTTORE. [[motifs/well|Beh]], il nipote è stato in [[settings/america|America]]. Va da sé che non si
+
+possono vedere fate in [[settings/america|America]]. Ma c'è questa specie di superstizione in
+
+famiglia, e non sono tranquillo riguardo alla ragazza.
+
+SMITH. Perché, che cosa fa?
+
+DOTTORE. Oh, vaga per il parco e per i boschi la sera.
+
+Sere umide, di preferenza. Lo chiama il crepuscolo celtico. Io non so che farmene
+
+del crepuscolo celtico. Ha la tendenza a posarsi sul petto.
+
+Ma quel che è peggio, parla sempre di incontrare qualcuno, un qualche
+
+elfo o mago o cosa simile. Non mi piace affatto.
+
+SMITH. L'avete detto al Duca?
+
+DOTTORE. [_Con un sorriso torvo._] Oh, sì, l'ho detto al Duca. Il risultato è stato
+
+il prestigiatore.
+
+SMITH. [_Con stupore._] Il _prestigiatore_?
+
+DOTTORE. [_Posa il sigaro nel portacenere._] Il Duca è
+
+indescrivibile. Sarà qui tra poco, e potrete giudicare da
+
+voi. Mettetegli davanti due o tre fatti o idee, e ciò che egli
+
+ne ricava è sempre qualcosa che sembra non avere nulla a che
+
+fare con essi. Raccontate a un qualsiasi altro essere umano di una ragazza che sogna le fate
+
+e del suo pratico fratello dall'[[settings/america|America]], ed egli sistemerebbe la cosa in qualche
+
+modo ovvio, accontentando qualcuno: mandarla in [[settings/america|America]] o lasciarle
+
+le sue fate in Irlanda. Ora il Duca pensa che un prestigiatore andrebbe giusto
+
+a proposito. Suppongo che pensi vagamente che ravviverebbe le cose, e
+
+in qualche modo soddisferebbe l'interesse dei credenti per le cose [[motifs/supernatural|soprannaturali]] e
+
+l'interesse dei non credenti per le cose brillanti. In realtà il
+
+non credente pensa che il prestigiatore sia un impostore, e il credente pensa che sia
+
+un impostore anche lui. Il prestigiatore non accontenta nessuno. Ecco perché accontenta il
+
+Duca.
+
+[_Entra il_ DUCA, _con_ [[characters/hastings|HASTINGS]], _che porta delle carte. Il_ DUCA _è
+
+un uomo sano e gioviale in tweed, con l'occhio piuttosto vagante. Nello
+
+stato presente del ceto nobiliare è necessario spiegare che
+
+il_ DUCA, _benché sciocco, è un gentiluomo._
+
+DUCA. Buongiorno, signor Smith. Mi dispiace tanto avervi fatto aspettare, ma
+
+oggi siamo un po' di fretta. [_Si volge verso_ [[characters/hastings|HASTINGS]], _che si è portato
+
+a un tavolo con le carte._] Sapete che il signor Carleon arriva questo
+
+pomeriggio?
+
+[[characters/hastings|HASTINGS]]. Sì, Vostra Grazia. Il suo treno dovrebbe essere in arrivo ormai. Ho mandato il
+
+calesse.
+
+DUCA. Grazie. [_Voltandosi verso gli altri due._] Mio nipote, il Dr.
+
+Grimthorpe, Morris, sapete, il fratello di Miss Carleon dall'[[settings/america|America]]. Mi
+
+dicono che laggiù abbia fatto grandi cose. Petrolio, o qualcosa del genere. Bisogna
+
+stare al passo coi tempi, eh?
+
+DOTTORE. Temo che il signor Smith non sia sempre d'accordo con lo stare al passo coi
+
+tempi.
+
+DUCA. Oh, suvvia, suvvia! Progresso, sapete, progresso! Certo, so quanto
+
+siete indaffarato; non dovete strapazzarvi, sapete. [[characters/hastings|Hastings]] mi
+
+raccontava che avete riso di quelle mie sottoscrizioni. [[motifs/well|Beh]], [[motifs/well|beh]], io
+
+credo nel guardare entrambi i lati di una questione, sapete. Aspetti, come
+
+il vecchio Buffle li chiamava. Aspetti. [_Con un gesto del braccio che tutto
+
+abbraccia._] Voi rappresentate la tendenza a bere con moderazione, e fate
+
+del bene a _modo vostro_. Il Dottore rappresenta la tendenza a non bere
+
+affatto; e fa del bene a _modo suo_. Non possiamo essere Antichi Britanni,
+
+sapete.
+
+[_Un [[motifs/silence|silenzio]] prolungato e perplesso, come sempre segue le più
+
+brusche associazioni o dissociazioni di pensiero del_ DUCA.
+
+SMITH. [_Alla fine, con voce fioca._] Antichi Britanni....
+
+DOTTORE. [_Al_ SMITH _a bassa voce._] Non fateci caso. È solo la sua
+
+larghezza di vedute.
+
+DUCA. [_Con immutata giovialità._] Ho visto il luogo che state costruendo
+
+a tale scopo, signor Smith. Ottimo lavoro. Ottimo lavoro, davvero. L'arte per il
+
+popolo, eh? Mi è piaciuto in particolare quel lavoro in legno sopra la porta ovest--sono
+
+lieto di vedere che usate il nuovo tipo di venatura ... ecco, tutto
+
+ricorda la [[historical-references/french-revolution|Rivoluzione francese]].
+
+[_Un altro [[motifs/silence|silenzio]]. Mentre il_ DUCA _gironzola vigile per la stanza_,
+
+SMITH _parla al_ DOTTORE _sottovoce._
+
+SMITH. Vi ricorda la [[historical-references/french-revolution|Rivoluzione francese]]?
+
+DOTTORE. Quanto qualunque altra cosa. Sua Grazia non mi ricorda mai
+
+nulla.
+
+[_Si ode una voce americana giovane e acutissima chiamare nel
+
+[[motifs/garden|giardino]]. «Ehi, qualcuno potrebbe occuparsi di uno di questi bauli?»_
+
+[MR. [[characters/hastings|HASTINGS]] _esce nel [[motifs/garden|giardino]]. Torna con_ MORRIS
+
+CARLEON, _un giovanissimo: poco più di un ragazzo, ma con abiti e modi
+
+americani molto adulti. È bruno, piuttosto piccolo e
+
+attivo; e il tipo razziale sotto il suo americanismo è irlandese._
+
+MORRIS. [_Con umorismo, mentre affaccia la testa alla [[motifs/window|finestra]]._] Sentite un po',
+
+abita qui un Duca?
+
+DOTTORE. [_Che gli è più vicino, con grande gravità._] Sì, uno solo.
+
+MORRIS. Immagino sia proprio quello che cerco, comunque. Sono suo nipote.
+
+[_Il_ DUCA, _che rumina in primo piano, con un occhio
+
+piuttosto altrove, si volge alla voce e stringe_ MORRIS _calorosamente per la
+
+mano._
+
+DUCA. Lieto di vedervi, mio caro ragazzo. Sento che ve la siete cavata molto
+
+[[motifs/well|bene]] per conto vostro.
+
+MORRIS. [_Ridendo._] [[motifs/well|Beh]], piuttosto [[motifs/well|bene]], Duca; e ancor meglio per Paul
+
+T. Vandam, immagino. Gestisco le miniere del vecchio giù in Arizona,
+
+sapete.
+
+DUCA. [_Scuotendo il capo con aria saggia._] Ah, un uomo molto intraprendente! Metodi
+
+molto intraprendenti, mi dicono. [[motifs/well|Beh]], oserei dire che fa un gran
+
+bene col suo denaro. E non possiamo tornare all'[[historical-references/spanish-inquisition|Inquisizione spagnola]].
+
+[_Silenzio, durante il quale i tre uomini si guardano l'un l'altro._
+
+MORRIS. [_Bruscamente._] E come sta Patricia?
+
+DUCA. [_Un po' vagamente._] Oh, sta molto [[motifs/well|bene]], credo. Lei....
+
+[_Esita lievemente._
+
+MORRIS. [_Sorridendo._] [[motifs/well|Beh]], allora, dov'è Patricia?
+
+[_C'è una pausa lievemente imbarazzata, e il_ DOTTORE _parla._
+
+DOTTORE. Miss Carleon sta passeggiando per la tenuta, credo.
+
+[MORRIS _va alle porte del [[motifs/garden|giardino]] e guarda fuori._
+
+MORRIS. È una [[motifs/night|notte]] parecchio gelida da scegliere. Mia sorella suole di solito
+
+scegliere serate simili per prendere aria--e umidità?
+
+DOTTORE. [_Dopo una pausa._] Se posso dirlo, sono del tutto d'accordo con voi. Ho
+
+spesso preso la libertà di ammonire vostra sorella a non uscire con
+
+tutti i tempi come questi.
+
+DUCA. [_Agitando le mani con enfasi._] Il temperamento dell'[[archetypes/artist|artista]]!
+
+Quello che io chiamo sempre il temperamento artistico! Wordsworth, sapete, e
+
+tutto quanto.
+
+[_Silenzio._
+
+MORRIS. [_Fissando._] Tutto quale?
+
+DUCA. [_Continuando a pontificare con entusiasmo._] Ma via, tutto è
+
+temperamento, sapete! È il suo temperamento vedere le fate. È il mio
+
+temperamento non vedere le fate. Ecco, ho fatto il giro della
+
+tenuta venti volte e non ho mai visto una fata. [[motifs/well|Beh]], è lo stesso con
+
+questo mago o come lo chiama lei. Per lei c'è qualcuno lì.
+
+Per noi non ci sarebbe nessuno lì. Non capite?
+
+MORRIS. [_Avanzando con eccitazione._] Qualcuno lì! Che cosa volete dire?
+
+DUCA. [_Con leggerezza._] [[motifs/well|Beh]], non si può proprio chiamarlo un uomo.
+
+MORRIS. [_Con violenza._] Un uomo!
+
+DUCA. [[motifs/well|Beh]], come diceva il vecchio Buffle, che cos'è un uomo?
+
+MORRIS. [_Con un forte impennarsi dell'accento americano._] Col vostro
+
+permesso, Duca, elimino il vecchio Buffle. Volete dire che qualcuno ha
+
+avuto la maledetta sfrontatezza di insinuare che un qualche uomo....
+
+DUCA. Oh, non un _uomo_, sapete. Un mago, qualcosa di mitico, sapete
+
+bene.
+
+SMITH. Non un _uomo_, ma un uomo di medicina.
+
+DOTTORE. [_Cupamente._] Io sono un uomo di medicina.
+
+MORRIS. E non avete un aspetto mitico, Dottore.
+
+[_Si morde il dito e comincia a camminare irrequieto avanti e indietro per la
+
+stanza._
+
+DUCA. [[motifs/well|Beh]], sapete, il temperamento artistico....
+
+MORRIS. [_Voltandosi di scatto._] Sentite, Duca! In quasi tutte le cose commerciali
+
+siamo un paese piuttosto avanzato. In queste cose morali ci accontentiamo di essere
+
+un paese piuttosto arretrato. E se mi chiedete se mi piace che mia sorella
+
+vada in giro per i boschi in una [[motifs/night|notte]] come questa! [[motifs/well|Beh]], no.
+
+DUCA. Temo che voi americani non siate così avanzati come speravo. Ma via! come
+
+diceva il vecchio Buffle....
+
+[_Mentre parla si ode una voce lontana cantare nel [[motifs/garden|giardino]]; si
+
+avvicina sempre di più, e_ SMITH _si volge di scatto verso il_ DOTTORE.
+
+SMITH. Di chi è quella voce?
+
+DOTTORE. Non spetta a me deciderlo!
+
+MORRIS. [_Camminando verso la [[motifs/window|finestra]]._] Non dovete disturbarvi. So chi
+
+è.
+
+_Entra_ PATRICIA CARLEON
+
+[_Ancora agitato._] Patricia, dove sei stata?
+
+PATRICIA. [_Piuttosto stancamente._] Oh! nel Paese delle Fate.
+
+DOTTORE. [_Cordialmente._] E dove sarebbe?
+
+PATRICIA. È piuttosto diverso dagli altri luoghi. O è in nessun luogo
+
+oppure è ovunque tu sia.
+
+MORRIS. [_Seccamente._] Ha degli abitanti?
+
+PATRICIA. Di solito solo due. Se stessi e la propria [[archetypes/shadow|ombra]]. Ma se lui
+
+sia la mia [[archetypes/shadow|ombra]] o io sia la sua [[archetypes/shadow|ombra]] non si scopre mai.
+
+MORRIS. Lui? Chi?
+
+PATRICIA. [_Sembrando comprendere il suo fastidio per la prima [[motifs/time|volta]], e
+
+sorridendo._] Oh, non c'è bisogno di essere convenzionale al riguardo, Morris. Lui non è
+
+un mortale.
+
+MORRIS. Come si chiama?
+
+PATRICIA. Là non abbiamo nomi. Non conosci mai davvero qualcuno se ne
+
+conosci il nome.
+
+MORRIS. Che aspetto ha?
+
+PATRICIA. L'ho incontrato solo nel crepuscolo. Sembra avvolto in un lungo
+
+mantello, con un berretto a punta o cappuccio come gli elfi nelle mie storie d'infanzia.
+
+A volte, quando guardo fuori dalla [[motifs/window|finestra]] qui, lo vedo aggirarsi attorno a
+
+questa casa come un'[[archetypes/shadow|ombra]]; e vedo il suo cappuccio a punta, scuro contro il
+
+tramonto o il sorgere della [[motifs/moon|luna]].
+
+SMITH. Di che cosa parla?
+
+PATRICIA. Mi dice la [[concepts/truth|verità]]. Moltissime cose vere. È un mago.
+
+MORRIS. Come sai che è un mago? Immagino che ti giochi qualche trucco
+
+addosso.
+
+PATRICIA. Saprei che è un mago se non giocasse alcun trucco. Ma una volta
+
+si chinò e raccolse una pietra e la lanciò in aria, ed essa volò
+
+su nel cielo di Dio come un uccello.
+
+MORRIS. Fu questo a farti pensare per la prima volta che fosse un mago?
+
+PATRICIA. Oh, no. Quando lo vidi la prima volta stava tracciando cerchi e
+
+pentacoli nell'erba e parlava la lingua degli elfi.
+
+MORRIS. [_Con scetticismo._] Conosci la lingua degli elfi?
+
+PATRICIA. Non finché non l'ho udita.
+
+MORRIS. [_Abbassando la voce come per la sorella, ma perdendo la pazienza
+
+così completamente da parlare molto più forte di quanto immagini._] Senti,
+
+Patricia, credo che questo genere di cose stia per diventare il colmo. Non
+
+ho alcuna intenzione di lasciarti abbindolare da qualche maledetto vagabondo o indovino
+
+solo perché scegli di leggere poesia minore sulle fate. Se questo zingaro
+
+o qualunque cosa sia ti disturba ancora....
+
+DOTTORE. [_Posando la mano sulla spalla di_ MORRIS.] Suvvia, dovete
+
+concedere un po' di più alla poesia. Non possiamo tutti nutrirci solo di petrolio.
+
+DUCA. Giustissimo, giustissimo. Ed essendo irlandese, non è vero, celtico,
+
+come diceva il vecchio Buffle, deliziose canzoni, sapete, sulla ragazza
+
+irlandese che ha uno scialle scozzese--e una Banshee. [_Sospira profondamente._] Povero
+
+vecchio Gladstone!
+
+[_Silenzio come al solito._
+
+SMITH. [_Parlando al_ DOTTORE.] Credevo che voi stesso consideraste la
+
+superstizione di famiglia dannosa per la salute?
+
+DOTTORE. Ritengo che una superstizione di famiglia sia meglio per la salute di una
+
+lite di famiglia. [_Attraversa con noncuranza verso_ PATRICIA.] [[motifs/well|Beh]], dev'essere
+
+bello essere giovani e vedere ancora tutte quelle [[motifs/stars|stelle]] e quei tramonti. Noi vecchi
+
+brontoloni non saremo troppo severi con voi se la vostra visione delle cose a volte
+
+si fa un po'--confusa, diciamo? Se le [[motifs/stars|stelle]] si sparpagliano sull'
+
+erba per errore; o se, una volta o due, il tramonto finisce a oriente.
+
+Diremmo soltanto: «Sognate quanto volete. Sognate per tutta l'umanità.
+
+Sognate per noi che non possiamo più sognare. Ma non dimenticate del tutto la
+
+differenza».
+
+PATRICIA. Quale differenza?
+
+DOTTORE. La differenza tra le cose che sono belle e le
+
+cose che ci sono. Quella lampada rossa sopra la mia porta non è bella; ma
+
+c'è. Potreste perfino arrivare a esser lieta che ci sia, quando le [[motifs/stars|stelle]]
+
+d'oro e d'argento saranno sbiadite. Sono un uomo vecchio ormai, ma alcuni uomini sono
+
+ancora lieti di trovare la mia stella rossa. Non dico che siano i saggi.
+
+PATRICIA. [_Alquanto commossa._] Sì, so che siete buono con tutti.
+
+Ma non pensate che possano esistere [[motifs/stars|stelle]] fluttuanti e spirituali che
+
+dureranno più a lungo delle lampade rosse?
+
+SMITH. _Con determinazione._ Sì. Ma sono stelle immobili, fisse nel cielo.
+
+DOTTORE. La luce rossa durerà per tutta la mia [[motifs/time|)vita]].
+
+Duca… Capitale! Capitale… Beh, è come Tennyson. [_Silenzio._] Me ne ricordo.
+
+Quando ero studente universitario.
+
+La luce rossa scompare; all’inizio nessuno se ne accorge…
+
+Patricia, che indica con entusiasmo.
+
+MORRIS. Che c’è?
+
+PATRICIA. La stella rossa è scomparsa.
+
+MORRIS. Assurdità! [_Corre verso le porte del [[motifs/garden|giardino]]._] Dev’essere solo qualcuno.
+
+In piedi davanti ad esso… Diciamo, Duca: c’è qualcuno che sta in piedi lì davanti…
+
+[[motifs/garden|giardino]].
+
+PATRICIA. _Con calma_. Ti ho detto che camminava nel [[motifs/garden|giardino]].
+
+MORRIS. Se si tratta di quella tua veggente.
+
+_Scompare nel [[motifs/garden|giardino]], seguito dal DOTTORE._
+
+DUCA. _Sta guardando, _ C’è qualcuno nel [[motifs/garden|jardino]]! Davvero, questa terra.
+
+Campagna.
+
+Silenzio_
+
+MORRIS RIAPORE IN STATO DI RESPIRO AFFANNATO_
+
+Morris. Un tipo agile, il tuo amico… È scivolato via dalle mie mani come se non esistesse.
+
+[[archetypes/shadow|ombra]].
+
+PATRICIA. Ti avevo detto che era un’[[archetypes/shadow|ombra]].
+
+MORRIS. Beh, immagino che ci sarà una caccia alle [[archetypes/shadow|ombre]]. Ho preso una lanterna.
+
+Duca?
+
+PATRICIA. Oh, non c’è bisogno che vi disturbiate. Verrà se lo chiamo io.
+
+Uscì nel [[motifs/garden|giardino]] e chiamò, con voce semicantata.
+
+Parole incomprensibili, un po' come la canzone che l'aveva preceduta.
+
+“Entrata… Il semaforo rosso si accende di nuovo; e si sente un leggero suono…”
+
+Di foglie cadute, mescolate dai passi che si avvicinavano. L’uomo incappucciato.
+
+Si vede uno STRANIERO con il cappuccio appuntito fermo fuori dal [[motifs/garden|giardino]].
+
+Porte_
+
+PATRICIA. Puoi entrare in tutte le porte.
+
+La figura entra nella stanza
+
+MORRIS. _Chiude le porte del [[motifs/garden|giardino]] alle sue spalle._ Ora, guarda qui, mago.
+
+Ti abbiamo catturato. E sappiamo che sei un truffatore.
+
+SMITH. [_In silenzio._] Scusate, non credo che lo sappiamo. Perché.
+
+Devo ammettere che anch'io condivido, in parte, l'agnosticismo del Dottore.
+
+MORRIS. [_Emozionato, e quasi ringhiando._] Non sapevo che fossi qui…
+
+I parroci difendevano solo le favole proprie, non quelle altrui.
+
+SMITH. Io difendo ciò che ogni uomo ha il diritto di avere. Forse.
+
+L’unica cosa a cui ogni uomo ha diritto.
+
+MORRIS. E cos'è quello?
+
+SMITH. Il vantaggio della [[concepts/doubt|dubbio]]. Anche il tuo padrone, il petrolio.
+
+Un milionario ha il diritto a farlo. E penso che ne abbia bisogno ancora di più.
+
+MORRIS. Non credo ci siano molte [[concepts/doubt|dubbi]] su questa questione, Ministro.
+
+Ho incontrato abbastanza spesso questo tipo di individuo… il genere di persona che…
+
+Estrae denaro dalle ragazze dicendo di poter trasformare le pietre in oro
+
+Scomparire.
+
+DOTTORE. _Allo STRANIERO_. Dici di poter far scomparire le pietre?
+
+STRANIERO: Sì. Posso far scomparire le pietre.
+
+MORRIS. _Credo che tu sia quel tipo di persona tosta che sa come…_
+
+Far scomparire un orologio e una catena.
+
+STRANIERO: Sì; so come far scomparire un orologio e una catena.
+
+MORRIS. E direi che tu sia davvero bravo a scomparire…
+
+Tu stesso.
+
+STRANIERO: Ho fatto una cosa del genere.
+
+Morris. _Con un sorriso beffardo._ Ora scomparirai, forse?
+
+Straniero. [_Dopo averci pensato…_]. No, penso che sia meglio che io appaia al suo posto. [_Lui…]
+
+Solleva il cappuccio, rivelando il volto di un uomo dall’aspetto intellettuale
+
+giovane ma piuttosto logoro. Poi si toglie il mantello e lo getta via.
+
+Apparso in un elegante abito da sera moderno… Avanza lungo la stanza.
+
+“Verso il Duca… tirando fuori l’orologio mentre lo fa…” Buonasera.
+
+Vostra Grazia… temo di essere arrivato un po’ troppo presto per lo spettacolo. Ma…
+
+Questo signore [con un gesto verso MORRIS] sembrava piuttosto impaziente.
+
+affinché potesse iniziare.
+
+DUCA. [_Piuttosto perplesso._] Oh, buonasera… Ma davvero, lei è…
+
+Il, davvero,?
+
+STRANIERO. [_Si inchina._] Sì. Io sono il Mago.
+
+Risate generali, tranne che da Patricia… Mentre gli altri…
+
+“Si mescola nella conversazione; lo sconosciuto si avvicina a lei.”
+
+STRANIERO. _Molto tristemente, _ Mi dispiace molto di non essere un mago.
+
+Patricia. Vorrei che fossi un ladro, invece.
+
+STRANIERO: Ho commesso un crimine peggiore che rubare?
+
+Patricia… Hai commesso il crimine più crudele che esista, penso.
+
+is.
+
+STRANIERO: E qual è il crimine più crudele?
+
+PATRICIA. Rubare il giocattolo di un [[archetypes/child|bambino]].
+
+STRANIERO: E cosa avrei mai potuto rubare?
+
+Patricia. Una favola.
+
+Cortina
+
+Atto II
+
+La stessa stanza, illuminata ancora più intensamente un’ora dopo…
+
+"#Serata. Da un lato, un tavolo coperto da mazzi di carte, piramidi..."
+
+Il mago in abito da sera sta in piedi in silenzio…
+
+“Mettendo in atto i suoi trucchi… Il Duca, un po’ più in primo piano…”
+
+_e_ [[characters/hastings|HASTINGS]] _con diversi documenti_.
+
+[[characters/hastings|HASTINGS]]. Ci sono solo alcune piccole questioni da risolvere. Ecco i programmi.
+
+L’intrattenimento che Vostra Grazia desiderava… Il signor Carleon vuole assolutamente vederli.
+
+Molto.
+
+Duca. Grazie, grazie. [Prende i programmi.]
+
+[[characters/hastings|HASTINGS]]. Devo portarle per Vostra Grazia?
+
+DUCA. No, no; non lo dimenticherò, non lo dimenticherò. Ma voi non avete idea di quanto…
+
+“Businesslike, eh? Dobbiamo essere così, sai… [_In tono vago._] So che tu sei…”
+
+Un po’ socialista… ma vi assicuro che ci sono molte cose da fare…
+
+In campagna, e tutto il resto. Guardate ora come ricordo i volti! Il [[archetypes/king|Re]].
+
+“Non dimentica mai i volti. _Agita i programmi intorno a sé._ Non dimentico mai.”
+
+Titolo:  
+“Vede il Mago… e lo invita gentilmente ad avvicinarsi”
+
+Il Professore, che si esibisce davanti al [[archetypes/king|Re]], perché.
+
+Programmi installati – Li vedi sugli caravan, vero?
+
+So che si esibisce davanti al [[archetypes/king|Re]] quasi ogni [[motifs/night|notte]], immagino.
+
+STREGONE. [_Sorridendo._] A volte lascio che Sua Maestà si prenda una serata libera.
+
+E naturalmente, questo mi ha portato ad interessarmi della più alta nobiltà… Ma
+
+Naturalmente ho già eseguito davanti a ogni sovrano e potente, bianco o…
+
+Nero. Non esisteva mai un mago che non lo avesse.
+
+Duca… Esatto, esatto! E sicuramente concorderete con me nel dire che il grande…
+
+Per un [[archetypes/king|Re]], fare affari significa ricordarsi delle persone, vero?
+
+Stregone. Direi che si trattasse più di ricordare quali persone fossero degne di essere ricordate.
+
+DUCA. [[motifs/well|Beh]], [[motifs/well|beh]], dunque.... [_Si guarda intorno piuttosto smarrito in cerca di qualcosa._]
+
+Per essere davvero metodico....
+
+[[characters/hastings|HASTINGS]]. Devo prendere io i programmi per Vostra Grazia?
+
+DUCA. [_Raccogliendoli._] No, no, non dimenticherò. C'è qualcos'
+
+altro?
+
+[[characters/hastings|HASTINGS]]. Devo andare giù al villaggio per il telegramma a Stratford. La
+
+sola altra cosa davvero urgente sono i Vegetariani Militanti.
+
+DUCA. Ah! I Vegetariani Militanti! Ne avete sentito parlare, ne sono certo.
+
+Non obbediscono alla legge [_al_ PRESTIGIATORE] finché il Governo distribuisce
+
+carne.
+
+PRESTIGIATORE. Che siano confortati. C'è un bel po' di gente che non
+
+riceve molta carne.
+
+DUCA. [[motifs/well|Beh]], [[motifs/well|beh]], sono costretto a dire che sono molto entusiasti. Avanzati,
+
+anche--oh, certamente avanzati. Come Giovanna d'Arco.
+
+[_Breve [[motifs/silence|silenzio]], durante il quale il_ PRESTIGIATORE _lo fissa._]
+
+PRESTIGIATORE. _Era_ Giovanna d'Arco una Vegetariana?
+
+DUCA. Oh, [[motifs/well|beh]], è un ideale molto alto, dopotutto. La Sacralità della
+
+Vita, sapete--la Sacralità della Vita. [_Scuote il capo._] Ma loro
+
+la portano troppo oltre. Hanno ucciso un poliziotto giù nel [[characters/kent|Kent]].
+
+PRESTIGIATORE. Ucciso un poliziotto? Che cosa Vegetariana! [[motifs/well|Beh]], suppongo che lo fosse, purché
+
+non l'abbiano mangiato.
+
+[[characters/hastings|HASTINGS]]. Chiedono solo piccole sottoscrizioni. Anzi,
+
+preferiscono raccogliere un gran numero di mezze corone, per provare la popolarità
+
+del loro movimento. Ma io consiglierei....
+
+DUCA. Oh, allora date loro tre scellini.
+
+[[characters/hastings|HASTINGS]]. Se posso permettermi di suggerire....
+
+DUCA. Al diavolo! Abbiamo dato tre scellini agli Anti-Vegetariani.
+
+Sembra solo giusto.
+
+[[characters/hastings|HASTINGS]]. Se posso permettermi di suggerire qualcosa, credo che Vostra Grazia farà bene
+
+a non sottoscrivere in questo caso. Gli Anti-Vegetariani hanno già usato
+
+i loro fondi per formare bande apparentemente per proteggere le proprie riunioni. E
+
+se i Vegetariani usano i loro per disperdere le riunioni--[[motifs/well|beh]], farà
+
+una figura piuttosto buffa che abbiamo pagato dei manigoldi da entrambe le parti. Sarà
+
+piuttosto difficile spiegarlo quando arriverà davanti al magistrato.
+
+DUCA. Ma il magistrato sarò io. [Il PRESTIGIATORE _lo fissa di nuovo._]
+
+Questo è il sistema, mio caro [[characters/hastings|Hastings]], questo è il vantaggio del sistema.
+
+Non un sistema logico--niente Rousseau dentro--ma guardate quanto [[motifs/well|bene]] funziona! Io
+
+sarò il miglior magistrato che possa sedere in tribunale. Gli altri
+
+sarebbero prevenuti, sapete. Il vecchio Sir Lawrence è lui stesso un Vegetariano;
+
+e potrebbe essere duro coi manigoldi Anti-Vegetariani. Il colonnello Crashaw
+
+sarebbe di certo duro coi manigoldi Vegetariani. Ma se li ho pagati
+
+entrambi, naturalmente non sarò duro con nessuno dei due--ed eccola qua.
+
+Proprio una perfetta imparzialità.
+
+[[characters/hastings|HASTINGS]]. [_Con ritegno._] Devo prendere io i programmi, Vostra Grazia?
+
+DUCA. [_Con calore._] No, no; non li dimenticherò. [_Esce_ [[characters/hastings|HASTINGS]].] [[motifs/well|Beh]],
+
+Professore, che novità ci sono nel mondo della prestidigitazione?
+
+PRESTIGIATORE. [[concepts/fear|Temo]] che non ci siano mai novità nel mondo della prestidigitazione.
+
+DUCA. Non avete un giornale o qualcosa del genere? Tutti hanno un giornale
+
+ora, sapete. Il--ehm--Daily [[works/sword-(chesterton)|Sword]]-Swallower o qualcosa del genere?
+
+PRESTIGIATORE. No, sono stato giornalista io stesso; ma credo che il giornalismo
+
+e la prestidigitazione saranno sempre incompatibili.
+
+DUCA. Incompatibili--Oh, ma qui è dove dissento--qui è dove prendo
+
+vedute più ampie! Leggi più ampie, come diceva il vecchio Buffle. Nulla è _incompatibile_,
+
+sapete--tranne marito e moglie e così via; dovete parlare con Morris
+
+di questo. È straordinario il modo in cui l'incompatibilità è progredita
+
+negli Stati Uniti.
+
+PRESTIGIATORE. Voglio solo dire che i due mestieri poggiano su principi opposti.
+
+Tutto il senso dell'essere un prestigiatore sta nel non spiegare una cosa
+
+che è accaduta.
+
+DUCA. [[motifs/well|Beh]], e il giornalista?
+
+PRESTIGIATORE. [[motifs/well|Beh]], tutto il senso dell'essere un giornalista sta nello
+
+spiegare una cosa che non è accaduta.
+
+DUCA. Ma vorrete un posto dove discutere i nuovi trucchi.
+
+PRESTIGIATORE. Non ci sono nuovi trucchi. E se ci fossero non vorremmo
+
+che se ne discutesse.
+
+DUCA. Temo che non siate _davvero_ avanzato. Vi interessa il
+
+progresso moderno?
+
+PRESTIGIATORE. Sì. Ci interessano tutti i trucchi fatti per illusione.
+
+DUCA. [[motifs/well|Beh]], [[motifs/well|beh]], devo andare a vedere come sta Morris. Piacere di rivedervi
+
+più tardi.
+
+[_Esce_ DUCA, _lasciando i programmi._
+
+PRESTIGIATORE. Perché gli uomini simpatici sono tali sciocchi? [_Si volge a sistemare il tavolo._]
+
+Sembra tutto a posto. Il mazzo di carte che è un mazzo di carte. E il
+
+mazzo di carte che non è un mazzo di carte. Il cappello che sembra il
+
+cappello di un gentiluomo. Ma che, in realtà, non è il cappello di alcun gentiluomo. Solo il mio
+
+cappello; e io non sono un gentiluomo. Sono solo un prestigiatore, e questo è solo un
+
+cappello da prestigiatore. Non potrei togliermi questo cappello davanti a una signora. Posso tirarne
+
+fuori conigli, pesci rossi, serpenti. Solo non devo
+
+tirarne fuori la mia stessa testa. Suppongo di essere un animale più basso di un coniglio
+
+o di un serpente. In ogni caso essi possono uscire dal cappello del prestigiatore; e io no.
+
+Sono un prestigiatore e nient'altro che un prestigiatore. A meno che potessi mostrare di
+
+essere qualcos'altro, e sarebbe peggio.
+
+[_Comincia a gettare le carte piuttosto irregolarmente sul tavolo.
+
+Entra_ PATRICIA.
+
+PATRICIA. [_Freddamente_] Vi chiedo scusa. Sono venuta a prendere dei programmi.
+
+Mio zio li vuole.
+
+[_Attraversa rapidamente e prende i programmi._
+
+PRESTIGIATORE. [_Ancora gettando carte sul tavolo._] Miss Carleon, potrei
+
+parlarvi un momento? [_Si mette le mani in tasca, fissa il
+
+tavolo; e il suo volto assume un'espressione sardonica._] La questione è
+
+puramente pratica.
+
+PATRICIA. [_Sostando alla porta._] Non riesco a immaginare quale possa essere la
+
+questione.
+
+PRESTIGIATORE. Io sono la questione.
+
+PATRICIA. E io che c'entro?
+
+PRESTIGIATORE. C'entrate in tutto. Io sono la questione: voi....
+
+PATRICIA. [_Con collera._] [[motifs/well|Beh]], io che cosa sono?
+
+PRESTIGIATORE. Voi siete la risposta.
+
+PATRICIA. La risposta a che cosa?
+
+PRESTIGIATORE. [_Venendo davanti al tavolo e appoggiandovisi
+
+contro._] La risposta a me. Voi pensate che io sia un bugiardo perché ho passeggiato per i
+
+campi con voi e ho detto che sapevo far sparire le pietre. [[motifs/well|Beh]], è vero, so farlo.
+
+Sono un prestigiatore. A rigor di fatti, non era una bugia. Ma se fosse
+
+stata una bugia l'avrei detta lo stesso. Ne avrei dette venti
+
+di bugie simili. Potete sapere o no perché.
+
+PATRICIA. Non so nulla di simili bugie.
+
+[_Posa la mano sulla maniglia della porta, ma il_ PRESTIGIATORE,
+
+_che siede sul tavolo e fissa i propri stivali, non
+
+nota il gesto, e prosegue come in un sincero soliloquio._
+
+PRESTIGIATORE. Non so se abbiate la minima idea di che cosa significhi per un
+
+uomo come me parlare con una signora come voi, anche con false pretese. Sono un
+
+avventuriero. Sono una canaglia, se ci si può guadagnare il titolo stando in tutte
+
+le società di canaglie del mondo. Ho ragionato ogni cosa da
+
+solo, quando ero un monello di strada in Fleet Street, o, più in basso ancora, un
+
+giornalista in Fleet Street. Prima di incontrarvi non avevo mai immaginato che i ricchi
+
+pensassero affatto. [[motifs/well|Beh]], questo è tutto ciò che ho da dire. Abbiamo avuto delle
+
+belle conversazioni, non è vero? Sono un bugiardo. Ma vi ho detto una gran quantità
+
+di [[concepts/truth|verità]].
+
+[_Si volge e riprende a sistemare il tavolo._
+
+PATRICIA. [_Pensando._] Sì, mi avete detto una gran quantità di [[concepts/truth|verità]].
+
+Mi avete detto centinaia e migliaia di verità. Ma non mi avete mai detto la
+
+[[concepts/truth|verità]] che si desidera conoscere.
+
+PRESTIGIATORE. E quale sarebbe?
+
+PATRICIA. [_Rientrando nella stanza._] Non mi avete mai detto la [[concepts/truth|verità]]
+
+su voi stesso. Non mi avete mai detto che eravate soltanto il Prestigiatore.
+
+PRESTIGIATORE. Non ve l'ho detto perché non lo so nemmeno io. Non
+
+so se io sia soltanto il Prestigiatore....
+
+PATRICIA. Che cosa volete dire?
+
+PRESTIGIATORE. A volte temo di essere qualcosa di peggio del Prestigiatore.
+
+PATRICIA. [_Con serietà._] Non riesco a pensare a nulla di peggio di un
+
+prestigiatore che non si dà il nome di prestigiatore.
+
+PRESTIGIATORE. [_Cupamente._] C'è qualcosa di peggio. [_Riprendendosi._]
+
+Ma non è questo che voglio dire. Trovate davvero la cosa così
+
+imperdonabile? Suvvia, lasciate che vi ponga un caso. Non importa se
+
+sia il nostro caso. Un uomo passa il proprio [[motifs/time|tempo]] incessantemente andando in giro in
+
+vagoni di terza classe verso alloggi di quint'ordine. Deve inventare nuovi
+
+trucchi, nuove chiacchiere, nuove sciocchezze, a volte ogni [[motifs/night|notte]] della sua vita.
+
+Perlopiù deve farlo nelle bestiali città nere delle Midlands e
+
+del Nord, dove non può uscire in campagna. Di tanto in tanto lo
+
+fa in una casa di campagna di qualche gentiluomo, dove può uscire in
+
+campagna. [[motifs/well|Beh]], sapete che attori e oratori e ogni sorta di persone
+
+amano provare i loro effetti all'aria aperta se possono. [_Sorride._]
+
+Conoscete quella storia del grande statista che fu udito dal proprio
+
+giardiniere dire, mentre passeggiava per il [[motifs/garden|giardino]]: «Se io, signor Presidente, avessi ricevuto
+
+il più piccolo cenno che avrei potuto essere chiamato a parlare questa
+
+sera....» [PATRICIA _trattiene un sorriso, ed egli prosegue con
+
+entusiasmo travolgente._] [[motifs/well|Beh]], i prestigiatori sono proprio uguali. Ci vuole
+
+un po' di [[motifs/time|tempo]] per preparare un'improvvisata. Un uomo così va in giro per i
+
+boschi e i campi facendo tutti i suoi trucchi in anticipo, e dicendo ogni sorta
+
+di farfugliamenti perché crede di essere solo. Una sera quest'uomo scoprì
+
+di non essere solo. Scoprì che una bellissima [[archetypes/child|fanciulla]] lo stava osservando.
+
+PATRICIA. Una [[archetypes/child|fanciulla]]?
+
+PRESTIGIATORE. Sì. Fu questa la sua prima impressione. È un intimo amico
+
+mio. Lo conosco da tutta la vita. Mi dice che da allora ha
+
+scoperto che lei non è una [[archetypes/child|fanciulla]]. Non risponde alla definizione.
+
+PATRICIA. Qual è la definizione di [[archetypes/child|fanciulla]]?
+
+PRESTIGIATORE. Qualcuno con cui si può giocare.
+
+PATRICIA. [_Bruscamente._] Perché portavate quel mantello col cappuccio alzato?
+
+PRESTIGIATORE. [_Sorridendo._] Credo vi sia sfuggito che stava
+
+piovendo.
+
+PATRICIA. [_Sorridendo debolmente._] E che cosa fece questo vostro amico?
+
+PRESTIGIATORE. Me l'avete già detto voi che cosa fece. Distrusse una
+
+fiaba, perché creò una fiaba che era destinato a distruggere.
+
+[_Girandosi di scatto sul tavolo._] Ma biasimate voi molto un
+
+uomo, Miss Carleon, se ha goduto dell'unica fiaba che avesse avuto nella sua
+
+vita? Supponete che dicesse che gli sciocchi cerchi che tracciava per esercizio
+
+erano davvero cerchi magici? Supponete che dicesse che le fandonie che diceva erano
+
+la lingua degli elfi? Ricordate, ha letto fiabe tanto quanto
+
+ne avete lette voi. Le fiabe sono le sole istituzioni democratiche. Tutte le
+
+classi hanno udito tutte le fiabe. Lo biasimate molto se
+
+anche lui ha cercato di prendersi una vacanza nel paese delle fate?
+
+PATRICIA. [_Con semplicità._] Lo biasimo meno di prima. Ma continuo a dire che
+
+non ci può essere nulla di peggio della falsa magia. E, dopotutto, fu lui a
+
+portare la falsa magia.
+
+PRESTIGIATORE. [_Alzandosi dal suo posto._] Sì. Fu lei a portare la vera
+
+magia.
+
+[_Entra_ MORRIS, _in abito da sera. Cammina dritto verso il
+
+tavolo della prestidigitazione; e prende un oggetto dopo l'altro, posando
+
+ciascuno con un commento._
+
+MORRIS. Conosco quello. Conosco quello. Conosco quello. Vediamo, quello è il
+
+doppio [[characters/bottom|fondo]], credo. Quello funziona con un filo. Conosco quello; risale
+
+su per la manica. Quello è di nuovo il doppio [[characters/bottom|fondo]]. Quello è il mazzo di carte
+
+sostituito--quello....
+
+PATRICIA. Davvero, Morris, non devi parlare come se sapessi tutto.
+
+PRESTIGIATORE. Oh, non m'importa che qualcuno sappia tutto, Miss Carleon.
+
+C'è qualcosa che è molto più importante del sapere come si fa una
+
+cosa.
+
+MORRIS. E che cosa sarebbe?
+
+PRESTIGIATORE. Saperla fare.
+
+MORRIS. [_Tornando nasale nell'ira._] Ah sì, eh? Fare il
+
+prestigiatore altezzoso perché non potete più prendere tutto il marciapiede
+
+per una fata.
+
+PATRICIA. [_Attraversando la stanza e parlando seriamente a suo fratello._]
+
+Davvero, Morris, sei molto scortese. Ed è del tutto ridicolo essere scortesi.
+
+Questo signore stava solo provando qualche trucco da solo in [[motifs/garden|giardino]].
+
+[_Con una certa dignità._] Se c'è stato un errore, è stato mio. Su,
+
+stringetevi la mano, o quel che fanno gli uomini quando si scusano. Non fare lo sciocco. Non
+
+ti trasformerà in una boccia di pesci rossi.
+
+MORRIS. [_Con riluttanza._] [[motifs/well|Beh]], immagino sia così. [_Porgendo la mano._]
+
+Qua la mano. [_Si stringono la mano._] E lei non trasformerà me in una boccia di
+
+pesci rossi, in ogni caso, Professore. Ho sentito dire che quando tirate fuori una
+
+boccia di pesci rossi, di solito sono fettine di carota. È così,
+
+Professore?
+
+PRESTIGIATORE. [_Seccamente._] Sì. [_Tira fuori una boccia di pesci rossi dalle falde
+
+della giacca e gliela mette sotto il naso._] Giudichi lei stesso.
+
+MORRIS. [_In un'eccitazione mostruosa._] Benissimo! Benissimo! Ma io so
+
+come si fa... so come si fa. Avete una calotta di caucciù,
+
+sapete, o un coperchio...
+
+PRESTIGIATORE. Sì.
+
+[_Torna cupo al suo tavolo e ci si siede sopra, prendendo un mazzo
+
+di carte e soppesandolo nella mano._
+
+MORRIS. Ah, quasi tutti i misteri sono abbastanza chiari se si conosce
+
+l'apparato. [_Entrano il_ DOTTORE _e_ SMITH, _parlando con volti [[motifs/grave|gravi]], ma
+
+facendosi silenziosi mentre raggiungono il gruppo._] Vorrei proprio che avessimo tutto il
+
+vecchio apparato di tutti i vecchi Sacerdoti e Profeti dall'inizio del
+
+mondo. Immagino che quasi tutti i vecchi miracoli e roba simile fossero questione
+
+solo di botole e fili.
+
+PRESTIGIATORE. Non la capisco bene. Quale vecchio apparato desidera
+
+tanto?
+
+MORRIS. [_Esplodendo con tutta la frenesia del giovane libero pensatore._]
+
+[[motifs/well|Beh]], signore, voglio proprio quel vecchio apparato che trasformava le verghe in serpenti.
+
+Voglio quei bei congegni, signore, che facevano sgorgare [[motifs/water|acqua]] da una roccia
+
+quando il vecchio Mosè decideva di colpirla. È un peccato che abbiamo perso quei
+
+macchinari. Mi piacerebbe avere qui quei vecchi prestigiatori che si facevano
+
+chiamare Patriarchi e Profeti nella vostra preziosa [[historical-references/bible|Bibbia]]...
+
+PATRICIA. Morris, non devi parlare così.
+
+MORRIS. [[motifs/well|Beh]], io non credo nella religione...
+
+DOTTORE. [_A parte._] Zitto, zitto. Nessuno crede nella religione tranne le donne.
+
+PATRICIA. [_Con umorismo._] Credo che questa sia l'occasione giusta per mostrarvi
+
+un altro antico gioco di prestigio.
+
+DOTTORE. E quale sarebbe?
+
+PATRICIA. La Dama che Scompare!
+
+[_Esce_ PATRICIA.
+
+SMITH. C'è una parte del loro vecchio apparato la cui perdita rimpiango
+
+in modo particolare.
+
+MORRIS. [_Ancora eccitato._] Sì!
+
+SMITH. L'apparato per scrivere il Libro di Giobbe.
+
+MORRIS. [[motifs/well|Beh]], [[motifs/well|beh]], non sapevano tutto in quei tempi antichi.
+
+SMITH. No, e in quei tempi antichi sapevano di non saperlo. [_Sognante._]
+
+Dove si troverà la sapienza, e qual è il luogo dell'intelligenza?
+
+PRESTIGIATORE. Da qualche parte in [[settings/america|America]], credo.
+
+SMITH. [_Sempre sognante._] L'uomo non ne conosce il prezzo; né essa
+
+si trova nella terra dei viventi. L'abisso dice: non è in me; il
+
+mare dice: non è presso di me. [[motifs/death|Morte]] e distruzione dicono: ne abbiamo
+
+sentito parlare. Dio ne comprende la via ed Egli ne conosce il
+
+luogo. Poiché Egli guarda fino alle estremità della terra e vede sotto
+
+tutto il Cielo. Ma all'uomo ha detto: Ecco, il [[concepts/fear|timore]] del Signore, quella
+
+è sapienza, e allontanarsi dal male è intelligenza. [_Si volta improvvisamente verso
+
+il_ DOTTORE.] Che ne dice come Agnosticismo, dottor Grimthorpe? Che peccato
+
+che quell'apparato sia andato perduto.
+
+MORRIS. [[motifs/well|Beh]], sorridete pure come vi pare, immagino. Ma io dico che il
+
+Prestigiatore qui presente potrebbe essere l'uomo più grande di tutti i benedetti secoli se
+
+solo potesse mostrarci come si facevano quei vecchi Sacri trucchi. Bisogna riconoscere
+
+questo al vecchio Mosè, che era in anticipo sul suo [[motifs/time|tempo]]. Quando faceva
+
+i vecchi trucchi, erano trucchi nuovi. Aveva la presa sul pubblico.
+
+Poteva fare i suoi trucchi davanti a uomini adulti, grandi guerrieri barbuti che
+
+sapevano vincere battaglie e cantare Salmi. Ma questa prestidigitazione moderna è tutta
+
+fuori tempo. Ecco perché la fanno solo con gli scolaretti. Non
+
+c'è un trucco su quel tavolo che io non conosca. Tutto il mestiere è morto e sepolto;
+
+e non è neanche lontanamente soddisfacente. Ma se lui [_indicando il_ PRESTIGIATORE]
+
+ha tirato fuori una boccia di pesci rossi proprio adesso... un vecchio trucco che chiunque potrebbe
+
+do.
+
+PRESTIGIATORE. Oh, sono perfettamente d'accordo. L'apparato è semplicissimo. A
+
+proposito, mi faccia dare un'occhiata a quei suoi pesci rossi, le spiace?
+
+MORRIS. [_Con rabbia._] Non sono un attore prezzolato venuto qui a fare giochi di prestigio. Non
+
+sono qui per fare trucchi ammuffiti; sono qui per smascherarli. Dico che è un
+
+vecchio trucco e...
+
+PRESTIGIATORE. Vero. Ma come diceva lei, non lo mostriamo mai se non agli scolaretti.
+
+MORRIS. E posso chiederle, Professor Abracadabra, o come diavolo si
+
+chiama, chi sarebbe lo scolaretto?
+
+PRESTIGIATORE. Le chiedo scusa. Sua sorella le dirà che qualche volta
+
+mi sbaglio riguardo ai bambini.
+
+MORRIS. Le proibisco di appellarsi a mia sorella.
+
+PRESTIGIATORE. È esattamente ciò che farebbe uno scolaretto.
+
+MORRIS. [_Con una calma improvvisa e pericolosa._] Non sono uno scolaretto,
+
+Professore. Sono un tranquillo uomo d'affari. Ma le dico che nel paese da cui
+
+vengo, la mano di un tranquillo uomo d'affari corre alla tasca posteriore davanti a un
+
+insulto del genere.
+
+PRESTIGIATORE. [_Con ferocia._] Che vada pure alla sua tasca! Credevo che la mano di un
+
+tranquillo uomo d'affari finisse più spesso nella tasca di qualcun altro.
+
+MORRIS. Lei...
+
+[_Porta la mano al fianco. Il_ DOTTORE _gli posa la mano sulla
+
+spalla._
+
+DOTTORE. Signori, credo che stiate entrambi dimenticando voi stessi.
+
+PRESTIGIATORE. Forse. [_Il suo tono sprofonda d'improvviso nella stanchezza._] Chiedo
+
+scusa per ciò che ho detto. Era certamente più di quanto il giovane
+
+gentiluomo meritasse. [_Sospira._] A volte vorrei quasi poter dimenticare
+
+me stesso.
+
+MORRIS. [_Imbronciato, dopo una pausa._] [[motifs/well|Beh]], lo spettacolo sta per
+
+cominciare; e a voi inglesi non piacciono le scenate. Immagino che dovrò seppellire anch'io
+
+la maledetta vecchia ascia di guerra.
+
+DOTTORE. [_Con una certa dignità, il suo tipo sociale che traspare dal suo
+
+Professione: Il signor Carleon, perdonerà un vecchio che conosceva bene lei…
+
+Caro padre, se dubita che tu stia trattando te stesso con giustizia.
+
+Trattarsi come un indiano d’America, solo perché si è vissuto in quel contesto…
+
+In [[settings/america|America]]. Ai tempi di mio vecchio amico Huxley, noi della classe media.
+
+Non si credeva nella ragione e in molte altre cose… Ma noi ci credevamo davvero.
+
+Buone maniere… È un peccato se l’aristocrazia non le possiede. A me non piace.
+
+Ascolto dire che sei un selvaggio e che hai sepolto un tomahawk… Preferirei di gran lunga…
+
+Titolo:  
+“Sentirti dire, come avrebbero detto i tuoi antenati irlandesi, che…”
+
+Avvolgesti la tua _spada con la dignità propria di un gentiluomo.
+
+MORRIS. Molto bene. Ho riposto la mia _spada con la dignità che si addice a.
+
+Signore.
+
+Congiuratore. E ho riposto la mia _spada con la dignità che le è dovuta.
+
+Stregone.
+
+MORRIS. Come fa il Mago a riporre una _spada nel suo fodero?
+
+Stregone. Lo ingoia.
+
+DOTTORE. Allora siamo tutti d’accordo sul fatto che non dovranno esserci litigi.
+
+SMITH. Posso dire una parola? Non sopporto affatto le liti.
+
+Una ragione che va ben oltre i limiti del mio dovere verso la mia attività.
+
+MORRIS. E cos'è quello?
+
+SMITH. Mi oppongo alle liti, perché interrompono sempre una discussione.
+
+Posso riportarvi per un momento sull’argomento di cui stavamo parlando? Stavate dicendo che…
+
+Titolo:  
+Questi moderni trucchi di magia non sono altro che gli antichi miracoli, rivisitati in chiave contemporanea.
+
+Una volta scoperto… Ma sicuramente esiste un’altra prospettiva. Quando parliamo…
+
+Di quando le cose sono false, di solito intendiamo che siano imitazioni di qualcos’altro
+
+Titolo:  
+Cose autentiche… Prendete quel Reynolds laggiù, quello del Duca.
+
+“Nonno bisnonno. _Indica una foto appesa al muro._ Se dovessi dire…”
+
+Era una copia.
+
+Morris: davvero un uomo amabile… ma credo che tu troveresti in lui qualcosa di particolare.
+
+Chiamiamo questa interruzione di un argomento.
+
+SMITH. Beh, supponiamo che l'abbia detto davvero, voi non pensereste che intendessi dire.
+
+Sir Joshua Reynolds non visse mai… Perché dovrebbero i falsi miracoli dimostrarci qualcosa?
+
+Che quei veri Santi e Profeti non siano mai esistiti. Potrebbero esserci magie false, ma.
+
+Anche vera magia.
+
+Il Mago Alza la Testa e Ascolta con un’aria Strana
+
+Intenzionalità
+
+SMITH. Potrebbero esistere “fantasmi” di ravanello proprio perché ne esistono di veri.
+
+[[motifs/ghosts|fantasmi]]. Forse esistono fate teatrali proprio perché ne esistono di vere.
+
+Fate: Non si può abolire la Banca d’Inghilterra semplicemente indicando un documento falsificato.
+
+Banconota.
+
+Morris. Spero che al Professore piaccia essere chiamato “banconota falsa”.
+
+Conjurer. Quasi quanto essere definito il “prospetto” di qualche azienda americana…
+
+Aziende.
+
+DOTTORE. Signori! Signori!
+
+STREGONE: Mi dispiace.
+
+MORRIS. Ebbene, prima facciamoci questa discussione, e poi potremo…
+
+Litigheranno dopo. Pulirò questa casa da tutte queste incombenze. Capito?
+
+Ecco, signor Smith, non sto affatto mettendo in dubbio la sua idea di un vero miracolo. Io.
+
+“Dicono, e la scienza conferma, che tutto abbia una causa. La scienza… lo dimostra.”
+
+Scopri quella causa, e prima o poi il tuo vecchio “miracolo” apparirà chiaramente…
+
+Potente e meschino… Prima o poi la scienza si occuperà anche dei tuoi “rapaci” interessi.
+
+[[motifs/ghosts|fantasmi]]; e vi faranno anche sembrare dei ravanelli se ne prendete qualcuno. Io.
+
+Diciamo.
+
+DOTTORO. _A bassa voce, rivolto a SMITH._ Non mi piace questo discorso pacifico.
+
+Di tuo. Il ragazzo si sta eccitando troppo.
+
+Morris. Si dice che il vecchio Reynolds sia vissuto… E la scienza non lo smentisce. [_Lui]
+
+Si gira eccitato verso la foto… Ma immagino che ora sia morto; e tu…
+
+Mai risvegliare i tuoi santi e profeti dai morti, se non vuoi riuscirci davvero
+
+Il bisnonno del Duca danzò su quel muro.
+
+La immagine inizia a dondolarsi leggermente sul muro.
+
+DOTTORE. Ma la immagine si sta muovendo!
+
+MORRIS. [_Si scatena con rabbia contro il_ STREGONE._] Eri nella stanza…
+
+“Prima di noi… Credi che ci basterà per riuscirci? Puoi fare tutto questo…”
+
+Cavi elettrici.
+
+Conjurer. [Immobile e senza alzare lo sguardo dal tavolo.] Sì, io…
+
+Si potrebbe fare tutto ciò utilizzando dei fili elettrici.
+
+“Morris… E pensavi che non dovesse saperlo.” _Ride, con una risata acuta e stridula_.
+
+[ride.] È proprio in questo modo che quei maledetti spiritisti compiono tutti i loro trucchi.
+
+Dicono che possano far muovere i mobili da soli… Se davvero si muovono, allora…
+
+Lo spostano; e noi vogliamo sapere come.
+
+Una sedia cade con un leggero rumore.
+
+MORRIS _quasi barcolla e per un momento fatica a respirare…
+
+Parole.
+
+Morris. Tu... perché... tutti sanno che... è una cosa evidente.
+
+Una piastra di legno. Si può utilizzare anche una piastra scorrevole.
+
+Conjurer. [_Senza alzare lo sguardo._] Sì. È possibile farlo utilizzando un sistema scorrevole.
+
+Pianca.
+
+Il dottore si avvicina a Morris, che si gira verso di lui…
+
+Parlando con passione di lui.
+
+MORRIS. Avevi ragione, dottore, quando hai menzionato quel colore rosso…
+
+“La tua luce rossa… Quella luce rossa rappresenta la scienza, ma essa finirà per spegnersi.”
+
+Tutte le lanterne dei vostri fantasmi delle rape. È un fuoco che consuma tutto, Dottore.
+
+Ma è il rosso bagliore dell’alba… [_Lo indica con entusiasmo]
+
+Entusiasmo: I vostri sacerdoti non possono più impedire che quella luce splenda…
+
+Il suo colore e il suo splendore cambiano così tanto che nemmeno Giosuè potrebbe fermare il sole…
+
+[[motifs/moon|Luna]]. [_Ride su di essa ridendo selvaggiamente._] Beh, una vera fata avvolta in un mantello da folletto si è persa qui.
+
+“Troppo vicino alla luce… un’ora o due fa… e questo lo ha trasformato in qualcosa di ordinario.”
+
+Un pagliaccio della società con cravatta bianca.
+
+_La lampada in fondo al [[motifs/garden|giardino]] diventa blu. Tutti la guardano._
+
+In [[motifs/silence|silenzio]]._
+
+MORRIS. [_Rompendo il [[motifs/silence|silenzio]] con un suono acuto e innaturale._] Aspetta un attimo!
+
+Aspetta un attimo! Ti ho preso! Te la farò pagare… [_Si avvicina di corsa, con passi furiosi.]
+
+Nella stanza accanto, morde il dito… Hai messo un filo… no, non può essere.
+
+it....
+
+DOTTORE. _Parlando con lui in tono rassicurante._ Beh, proprio in questo momento.
+
+Non c’è bisogno di indagare.
+
+MORRIS. [_Lo affronta con rabbia._] Ti definisci un uomo…
+
+Scienza, e tu osi dirmi di non indagare?
+
+SMITH. Vogliamo solo dire che, per il momento, potresti lasciarlo da solo.
+
+MORRIS. [_Con violenza._] No, Prete, non lo lascerò stare. [_Percorrendo di nuovo
+
+la stanza._] Si potrebbe fare con degli specchi? [_Si stringe la fronte._] Lei
+
+ha uno [[motifs/mirror|specchio]].... [_D'improvviso, con un grido._] Ci sono! Ci sono!
+
+Mescolanza di luci! Perché no? Se getti una luce verde su una luce
+
+rossa....
+
+[_[[motifs/silence|Silenzio]] improvviso._
+
+SMITH. [_Sottovoce al_ DOTTORE.] Non ottieni il blu.
+
+DOTTORE. [_Avvicinandosi al_ PRESTIGIATORE.] Se ha fatto lei questo
+
+trucco, per l'amor di Dio lo disfi.
+
+[_Dopo un [[motifs/silence|silenzio]], la luce ridiventa rossa._
+
+MORRIS. [_Precipitandosi d'un tratto alle porte a vetri ed esaminandole._] È
+
+il vetro! Ha combinato qualcosa al vetro!
+
+[_Si ferma di colpo e cala un lungo [[motifs/silence|silenzio]]._
+
+PRESTIGIATORE. [_Sempre senza muoversi._] Non credo che troverà nulla
+
+di sbagliato nel vetro.
+
+MORRIS. [_Spalancando le porte a vetri con fracasso._] Allora scoprirò
+
+cosa c'è di sbagliato nella lampada.
+
+[_Scompare nel [[motifs/garden|giardino]]._
+
+DOTTORE. È ancora una [[motifs/night|notte]] umida, temo.
+
+SMITH. Sì. E ora qualcun altro andrà errando per il [[motifs/garden|giardino]].
+
+[_Attraverso le porte a vetri infrante si vede_ MORRIS _andare
+
+avanti e indietro a passi sempre più rapidi._
+
+SMITH. Suppongo che in questo caso il crepuscolo celtico non gli si poserà sul
+
+petto.
+
+DOTTORE. Oh, se fosse solo il petto!
+
+_Entra_ PATRICIA.
+
+PATRICIA. Dov'è mio fratello?
+
+[_Cala un [[motifs/silence|silenzio]] imbarazzato, nel quale il_ PRESTIGIATORE
+
+_risponde._
+
+PRESTIGIATORE. Temo che stia passeggiando nel Paese delle Fate.
+
+PATRICIA. Ma non deve uscire in una [[motifs/night|notte]] come questa; è molto
+
+pericoloso!
+
+PRESTIGIATORE. Sì, è molto pericoloso. Potrebbe incontrare una fata.
+
+PATRICIA. Che cosa intende?
+
+PRESTIGIATORE. Lei è uscita con un tempo come questo e ha incontrato una fata come
+
+questa, e finora le ha portato soltanto dolore.
+
+PATRICIA. Esco a cercare mio fratello.
+
+[_Esce nel [[motifs/garden|giardino]] attraverso le porte aperte._
+
+SMITH. [_Dopo un [[motifs/silence|silenzio]], all'improvviso._] Che cos'è quel rumore? Non gli
+
+starà mica cantando quelle canzoni, vero?
+
+PRESTIGIATORE. No. Lui non capisce la lingua degli elfi.
+
+SMITH. Ma cosa sono tutte quelle grida e quegli ansiti che sento?
+
+PRESTIGIATORE. I normali rumori, credo, di un tranquillo uomo d'affari.
+
+DOTTORE. Signore, posso capire la sua amarezza, poiché ammetto che è stato
+
+accolto in modo incivile; ma parlare così proprio ora....
+
+[PATRICIA _ricompare alle porte del [[motifs/garden|giardino]], molto pallida._
+
+PATRICIA. Posso parlare col Dottore?
+
+DOTTORE. Mia cara signora, certamente. Devo chiamare il Duca?
+
+PATRICIA. Preferirei il Dottore.
+
+SMITH. Posso essere d'aiuto?
+
+PATRICIA. Voglio soltanto il Dottore.
+
+[_Esce di nuovo, seguita dal_ DR. GRIMTHORPE. _Gli altri si
+
+guardano l'un l'altro._
+
+SMITH. [_Sottovoce._] Quest'ultimo è stato un trucco meraviglioso, il suo.
+
+PRESTIGIATORE. Grazie. Suppongo che intenda dire che è stato l'unico che non ha
+
+smascherato.
+
+SMITH. Qualcosa del genere, lo confesso. Il suo ultimo trucco è stato il miglior
+
+trucco che io abbia mai visto. È così bello che vorrei non l'avesse fatto.
+
+PRESTIGIATORE. E lo vorrei anch'io.
+
+SMITH. Come sarebbe? Vorrebbe non essere mai stato un prestigiatore?
+
+PRESTIGIATORE. Vorrei non essere mai nato.
+
+[_Esce_ PRESTIGIATORE.
+
+[_Un [[motifs/silence|silenzio]]. Il_ DOTTORE _entra, molto [[motifs/grave|grave]]._
+
+DOTTORE. Per ora va tutto bene. L'abbiamo riportato indietro.
+
+SMITH. [_Avvicinandosi a lui._] Mi aveva detto che c'era un disturbo mentale
+
+nella ragazza.
+
+DOTTORE. [_Guardandolo fisso._] No. Le ho detto che c'era un disturbo
+
+mentale nella famiglia.
+
+SMITH. [_Dopo un [[motifs/silence|silenzio]]._] Dov'è il signor Morris Carleon?
+
+DOTTORE. L'ho messo a letto nella stanza accanto. Sua sorella si sta
+
+prendendo cura di lui.
+
+SMITH. Sua sorella! Oh, allora lei crede nelle fate?
+
+DOTTORE. Credere nelle fate? Che cosa intende?
+
+SMITH. Quantomeno ha affidato la persona che ci crede alla custodia
+
+della persona che non ci crede.
+
+DOTTORE. [[motifs/well|Beh]], suppongo di sì.
+
+SMITH. Non teme che lo terrà sveglio tutta la [[motifs/night|notte]] con le fiabe?
+
+DOTTORE. Certamente no.
+
+SMITH. Non teme che getterà la boccetta della medicina dalla [[motifs/window|finestra]]
+
+e gli somministrerà... ehm... una goccia di rugiada, o qualcosa del genere? O un
+
+quadrifoglio, mettiamo?
+
+DOTTORE. No; certo che no.
+
+SMITH. Lo chiedo solo perché voi uomini di scienza siete un po' duri con noi
+
+ecclesiastici. Voi non credete in un sacerdozio; ma ammetterà che io sono più
+
+davvero prete di quanto questo Prestigiatore sia davvero un mago. Avete
+
+parlato molto della [[historical-references/bible|Bibbia]] e dell'Alta Critica. Ma perfino secondo l'Alta
+
+Critica la [[historical-references/bible|Bibbia]] è più antica della lingua degli
+
+elfi... che, per quel che ne capisco, è stata inventata questo pomeriggio. Ma
+
+la signorina Carleon credeva nel mago. La signorina Carleon credeva nella
+
+lingua degli elfi. E lei l'ha messa a custodia di un malato senza
+
+un'ombra di [[concepts/doubt|dubbio]]: perché si fida delle donne.
+
+DOTTORE. [_Molto serio._] Sì, mi fido delle donne.
+
+SMITH. Affida a una donna le questioni pratiche della vita e della [[motifs/death|morte]],
+
+lungo ore insonni in cui una mano tremante o un grano di troppo
+
+ucciderebbero.
+
+DOTTORE. Sì.
+
+SMITH. Ma se la donna si alza per andare alla prima funzione nella mia chiesa, la
+
+chiama debole di mente e dice che nessuno tranne le donne può credere nella
+
+religione.
+
+DOTTORE. Non chiamerei mai debole di mente questa donna... no, per Dio, nemmeno
+
+se andasse in chiesa.
+
+SMITH. Eppure ce ne sono molte altrettanto salde di mente che credono con passione
+
+nell'andare in chiesa.
+
+DOTTORE. Non ce n'erano altrettante che credevano con passione in [[characters/apollo|Apollo]]?
+
+SMITH. E che male venne dal credere in [[characters/apollo|Apollo]]? E quale massa di
+
+male può essere venuta dal non credere in [[characters/apollo|Apollo]]? Non le viene mai in mente
+
+che il [[concepts/doubt|dubbio]] può essere [[concepts/madness|follia]], [[motifs/well|così come]] può esserlo la [[concepts/faith|fede]]? Che porre domande possa
+
+essere una malattia, [[motifs/well|tanto]] quanto proclamare dottrine? Lei parla di mania
+
+religiosa! Non esiste forse una mania irreligiosa? Non c'è forse una simile
+
+cosa in questa casa in questo momento?
+
+DOTTORE. Allora lei pensa che nessuno dovrebbe mai mettere in questione nulla.
+
+SMITH. [_Con passione, indicando la stanza accanto._] Io penso che _quello_ sia
+
+ciò che viene dal mettere in questione! Perché non potete lasciare in pace l'universo e
+
+lasciargli significare ciò che vuole? Perché il tuono non dovrebbe essere Giove? Più
+
+uomini si sono resi sciocchi domandandosi che diavolo fosse se non
+
+era Giove.
+
+DOTTORE. [_Guardandolo._] Lei crede nella sua stessa religione?
+
+SMITH. [_Ricambiando lo sguardo con altrettanta fermezza._] Supponga di no: sarei
+
+comunque uno [[archetypes/fool|sciocco]] a metterla in questione. Il [[archetypes/child|bambino]] che dubita di Babbo
+
+Natale soffre d'insonnia. Il [[archetypes/child|bambino]] che crede dorme una buona [[motifs/night|notte]].
+
+DOTTORE. Lei è un Pragmatista.
+
+_Entra il_ DUCA, _distrattamente._
+
+SMITH. È ciò che gli avvocati chiamano ingiuria volgare. Ma io mi appello davvero
+
+alla pratica. Ecco una famiglia sulla quale lei mi dice che incombe una
+
+calamità mentale. Ecco il ragazzo che mette in questione tutto e una ragazza che può
+
+credere a qualunque cosa. Su quale dei due è caduta la maledizione?
+
+DUCA. A proposito dei Pragmatisti. Sono lieto di sentire.... Ah, movimento
+
+molto all'avanguardia! Suppongo che ora Roosevelt.... [_Silenzio._] [[motifs/well|Beh]], noi progrediamo
+
+sa, noi progrediamo! Prima c'era l'Anello Mancante. [_Silenzio._] No!
+
+_Prima_ c'era il Protoplasma... e _poi_ c'era l'Anello Mancante; e
+
+la Magna Carta e così via. [_Silenzio._] Ma guardi la Legge sulle Assicurazioni!
+
+DOTTORE. Preferirei di no.
+
+DUCA. [_Agitando verso di lui un dito scherzoso._] Ah, pregiudizio, pregiudizio! Voi
+
+dottori, si sa! [[motifs/well|Beh]], io non ne ho mai avuti.
+
+[_Silenzio._
+
+DOTTORE. [_Rompendo il [[motifs/silence|silenzio]] con insolita esasperazione._] Mai avuti che cosa?
+
+DUCA. [_Con fermezza._] Mai avute azioni Marconi, io. Non le toccherei.
+
+[_Silenzio._] [[motifs/well|Beh]], devo parlare con [[characters/hastings|Hastings]].
+
+[_Esce il_ DUCA, _senza meta._
+
+DOTTORE. [_Esplodendo._] [[motifs/well|Ma]], questa poi.... [_Si volge a_ SMITH.] Lei
+
+mi ha chiesto poco fa quale membro della famiglia avesse ereditato la
+
+[[concepts/madness|follia]] di famiglia.
+
+SMITH. Sì; gliel'ho chiesto.
+
+DOTTORE. [_A voce bassa ed enfatica._] Sulla mia [[motifs/soul|anima]] viva, credo che
+
+debba essere il Duca.
+
+SIPARIO
+
+ATTO III
+
+_Stanza in parte oscurata, un tavolo con sopra una lampada, e una
+
+sedia vuota. Dalla stanza accanto giungono suoni fiochi e saltuari
+
+dell'agitarsi o del parlare del malato._
+
+_Entra il_ DOTTOR GRIMTHORPE _con un'aria piuttosto afflitta, e una
+
+boccetta di medicina in mano. La posa sul tavolo, e si siede
+
+sulla sedia come a vegliare._
+
+_Entra il_ PRESTIGIATORE, _con la sua borsa, e col mantello pronto per partire. Mentre
+
+attraversa la stanza il_ DOTTORE _si alza e lo richiama._
+
+DOTTORE. Mi perdoni, ma posso trattenerla un momento? Suppongo che lei
+
+sappia che... [_esita_] che ci sono stati sviluppi piuttosto [[motifs/grave|gravi]]
+
+nel caso di malattia sopraggiunto dopo la sua
+
+esibizione. Non direi, certo, a causa della sua esibizione.
+
+PRESTIGIATORE. Grazie.
+
+DOTTORE. [_Un poco incoraggiato, ma parlando con molta cautela._]
+
+Nondimeno, l'eccitazione mentale è necessariamente un elemento di rilievo
+
+nei disturbi fisiologici, e i suoi trionfi di questa sera sono stati davvero così
+
+straordinari che non posso fingere di escluderli dal caso del mio
+
+paziente. Al momento egli è in uno stato per certi versi analogo al delirio, ma nel
+
+quale può ancora in parte porre domande e rispondere. La domanda che
+
+continuamente pone è come lei sia riuscito a fare il suo ultimo trucco.
+
+PRESTIGIATORE. Ah! Il mio ultimo trucco!
+
+DOTTORE. Ora mi domandavo se potessimo trovare un accordo che
+
+fosse equo verso di lei nella faccenda. Le sarebbe possibile darmi
+
+in confidenza il modo di soddisfare questa... questa idea fissa che pare
+
+essersi cacciato in testa. [_Esita di nuovo, e sceglie le parole più lentamente._]
+
+Questa particolare condizione di disputa semidelirante è rara, ed è
+
+collegata, nella mia esperienza, a casi piuttosto infausti.
+
+PRESTIGIATORE. [_Guardandolo fisso._] Intende dire che sta impazzendo?
+
+DOTTORE. [_Piuttosto sconcertato per la prima [[motifs/time|volta]]._] Davvero, lei mi pone una
+
+domanda ingiusta. Non potrei spiegare le sottili sfumature di queste cose a
+
+un profano. E anche se... se ciò che lei suggerisce fosse vero, dovrei
+
+considerarlo un segreto professionale.
+
+PRESTIGIATORE. [_Sempre guardandolo._] E non crede di pormi una
+
+domanda piuttosto ingiusta, dottor Grimthorpe? Se il suo è un segreto
+
+professionale, non è forse anche il mio un segreto professionale? Se lei può nascondere la [[concepts/truth|verità]]
+
+al mondo, perché non potrei io? Lei non svela i suoi trucchi. Io non svelo
+
+i miei trucchi.
+
+DOTTORE. [_Con un certo calore._] I nostri non sono trucchi.
+
+PRESTIGIATORE. [_Riflessivo._] Ah, nessuno può esserne certo finché i
+
+trucchi non vengono svelati.
+
+DOTTORE. Ma il pubblico può vedere le guarigioni di un medico chiare come....
+
+PRESTIGIATORE. Sì. Chiare come hanno visto la lampada rossa sopra la sua porta questa
+
+sera.
+
+DOTTORE. [_Dopo una pausa._] Il suo segreto, naturalmente, sarebbe custodito
+
+rigorosamente da tutti i coinvolti.
+
+PRESTIGIATORE. Oh, naturalmente. Chi è in delirio custodisce sempre i [[motifs/secrets|segreti]]
+
+con rigore.
+
+DOTTORE. Nessuno vede il paziente all'infuori di sua sorella e di me.
+
+PRESTIGIATORE. [_Trasalendo lievemente._] Sì, sua sorella. È molto in ansia?
+
+DOTTORE. [_A voce più bassa._] Che cosa suppone lei?
+
+[Il PRESTIGIATORE _si getta sulla sedia, il mantello scivolandogli
+
+via dall'abito da sera. Rumina per un breve spazio e poi
+
+parla._
+
+PRESTIGIATORE. Dottore, ci sono all'incirca mille ragioni per cui non dovrei
+
+dirle come ho fatto davvero quel trucco. Ma una sola basterà, perché è
+
+la più pratica di tutte.
+
+DOTTORE. [[motifs/well|Ebbene]]? E perché non dovrebbe dirmelo?
+
+PRESTIGIATORE. Perché non mi crederebbe se lo facessi.
+
+[_Un [[motifs/silence|silenzio]], il_ DOTTORE _che lo guarda incuriosito._
+
+[_Entra il_ DUCA _con delle carte in mano. La sua consueta giovialità di
+
+modi ha un'aria piuttosto forzata, per il fatto che, per certe
+
+vaghe associazioni da camera di malato, cammina come in punta di piedi e comincia
+
+a parlare in una sorta di sussurro alto e stridulo. Per fortuna se ne
+
+dimentica e ricade nella sua voce più naturale._
+
+DUCA. [_Al_ PRESTIGIATORE.] Tanto gentile da parte sua aver aspettato, Professore.
+
+Immagino che il dottor Grimthorpe le abbia spiegato la piccola difficoltà in cui ci troviamo
+
+assai meglio di quanto potrei io. Niente di meglio della mente medica per un'affermazione
+
+scientifica. [_Vagamente._] Guardi Ibsen.
+
+[_Silenzio._
+
+DOTTORE. Naturalmente il Professore prova una notevole riluttanza nella
+
+faccenda. Fa notare che i suoi [[motifs/secrets|segreti]] sono parte essenziale della sua
+
+professione.
+
+DUCA. Naturalmente, naturalmente. Segreti del mestiere, eh? Più che giusto,
+
+certo. Proprio un caso di _noblesse oblige_. [_Silenzio._] Ma oserei dire che
+
+troveremo una via d'uscita dalla faccenda. [_Si volge al_
+
+PRESTIGIATORE.] Dunque, mio caro signore, [[concepts/hope|spero]] che non si offenderà se dico
+
+che questa dovrebbe essere una questione d'affari. Le stiamo chiedendo un pezzo
+
+del suo lavoro e del suo sapere professionale, e se posso avere il piacere
+
+di farle un assegno....
+
+PRESTIGIATORE. Ringrazio Vostra Grazia, ho già ricevuto il mio assegno dal
+
+suo segretario. Lo troverà sulla matrice subito dopo l'assegno
+
+che lei ha così gentilmente dato alla Società per la Soppressione della
+
+Prestidigitazione.
+
+DUCA. Ora non voglio che la prenda in quel modo. Voglio che la prenda
+
+in un modo più ampio. Liberamente, sa. [_Con un gesto espansivo._]
+
+Moderno e via dicendo! Uomo straordinario, Bernard [[works/shaw-(chesterton)|Shaw]]!
+
+[_Silenzio._
+
+DOTTORE. [_Con un lieve colpo di tosse, riprendendo._] Se prova qualche scrupolo, il
+
+pagamento non deve necessariamente essere fatto a lei soltanto. Rispetto pienamente i suoi sentimenti nella
+
+faccenda.
+
+DUCA. [_In tono d'approvazione._] Proprio così, proprio così. Non ha una Causa o
+
+qualcosa? Tutti hanno una causa ormai, sa. Vedove di prestigiatori o
+
+qualcosa del genere.
+
+PRESTIGIATORE. [_Con ritegno._] No; non ho vedove.
+
+DUCA. Allora qualcosa come una pensione o una rendita per le eventuali vedove che lei
+
+potrà... ehm... procurarsi. [_Aprendo allegramente il libretto degli assegni e parlando in gergo per
+
+mostrare che non c'è rancore._] Su, diciamo un paio di sacchi.
+
+[_Il_ PRESTIGIATORE _prende l'assegno e lo guarda in modo [[motifs/grave|grave]] e
+
+dubbioso. Mentre lo fa il_ RETTORE _entra lentamente nella
+
+stanza._
+
+PRESTIGIATORE. Sarebbe davvero disposto a pagare una somma simile per sapere
+
+il modo in cui ho fatto quel trucco?
+
+DUCA. Pagherei volentieri molto di più.
+
+DOTTORE. Credo di averle spiegato che il caso è serio.
+
+PRESTIGIATORE. [_Sempre più pensieroso._] Pagherebbe molto di più....
+
+[_D'improvviso._] Ma supponga che le riveli il segreto e lei scopra che non c'è
+
+nulla dietro?
+
+DOTTORE. Intende dire che in realtà è molto semplice? Ma direi che
+
+sarebbe la cosa migliore che potesse capitare. Un po'
+
+di sana risata è la miglior cosa possibile per la convalescenza.
+
+PRESTIGIATORE. [_Sempre fissando cupo l'assegno._] Non credo che
+
+riderà.
+
+DUCA. [_Ragionando bonariamente._] Ma come dice lei è qualcosa di molto
+
+semplice.
+
+PRESTIGIATORE. È la cosa più semplice che ci sia al mondo. Ecco perché
+
+non riderà.
+
+DOTTORE. [_Quasi nervosamente._] Ma... che cosa intende? Che cosa dobbiamo fare?
+
+PRESTIGIATORE. [_Con gravità._] Non ci crederete.
+
+DOTTORE. E perché?
+
+PRESTIGIATORE. Perché è così semplice. [_Balza d'improvviso in piedi,
+
+l'assegno ancora in mano._] Mi chiedete come ho fatto davvero l'ultimo
+
+trucco. Vi dirò come ho fatto l'ultimo trucco. L'ho fatto con la magia.
+
+[_Il_ DUCA _e il_ DOTTORE _lo fissano immobili; ma il_ REV.
+
+SMITH _trasalisce e fa un passo verso il tavolo. Il_ PRESTIGIATORE
+
+_si stringe il mantello intorno alle spalle. Questo gesto, come di
+
+partenza, riporta il_ DOTTORE _in piedi._
+
+DOTTORE. [_Stupito e adirato._] Intende davvero dire che prende
+
+l'assegno e poi ci dice che era solo magia?
+
+PRESTIGIATORE. [_Facendo a pezzi l'assegno._] Straccio l'assegno, e vi
+
+dico che era solo magia.
+
+DOTTORE. [_Con violenta sincerità._] Ma diamine, una cosa simile non
+
+esiste.
+
+PRESTIGIATORE. Sì che esiste. Volesse Iddio che non sapessi che esiste.
+
+DUCA. [_Alzandosi anch'egli._] Ma davvero, la magia....
+
+PRESTIGIATORE. [_Con disprezzo._] Sì, Vostra Grazia, una di quelle leggi più vaste
+
+di cui ci parlava.
+
+[_Si abbottona il mantello alla gola e prende la sua borsa. Mentre
+
+lo fa il_ REV. SMITH _si frappone tra lui e la porta e lo
+
+ferma per un momento._
+
+SMITH. [_A voce bassa._] Un momento, signore.
+
+PRESTIGIATORE. Che cosa vuole?
+
+SMITH. Voglio scusarmi con lei. Intendo a nome dei presenti. Penso
+
+che sia stato sbagliato offrirle del denaro. Penso che sia stato ancor più sbagliato
+
+confonderla con un linguaggio medico e chiamare la cosa delirio. Ho
+
+più rispetto per la ciarla del prestigiatore che per la ciarla del medico. Sono
+
+entrambe fatte per stordire; ma la sua solo per stordire un istante. Ora glielo
+
+pongo in parole schiette e su schietti fondamenti umani e cristiani. Ecco un
+
+povero ragazzo che forse sta impazzendo. Supponga di avere un figlio in una simile condizione,
+
+non si aspetterebbe che la gente le dicesse tutta la [[concepts/truth|verità]] se potesse
+
+aiutarla?
+
+PRESTIGIATORE. Sì. E io vi ho detto tutta la [[concepts/truth|verità]]. Andate a scoprire se
+
+vi aiuta.
+
+[_Si volge di nuovo per andarsene, ma più irresoluto._
+
+SMITH. Lo sa [[motifs/well|bene]] che non ci aiuterà.
+
+PRESTIGIATORE. Perché no?
+
+SMITH. Lo sa [[motifs/well|bene]] perché no. Lei è un uomo onesto; e l'ha
+
+detto lei stesso. Perché lui non ci crederebbe.
+
+PRESTIGIATORE. [_Con una sorta di furia._] [[motifs/well|Beh]], c'è forse qualcuno che ci crede? Lei ci
+
+crede?
+
+SMITH. [_Con grande ritegno._] La sua domanda è del tutto legittima. Su,
+
+sediamoci e parliamone. Mi lasci prendere il suo mantello.
+
+PRESTIGIATORE. Mi toglierò il mantello quando lei si toglierà l'abito.
+
+SMITH. [_Sorridendo._] Perché? Vuole che mi batta?
+
+PRESTIGIATORE. [_Con violenza._] Voglio che lei sia martirizzato. Voglio che _renda_
+
+testimonianza al suo stesso credo. Io dico che queste cose sono [[motifs/supernatural|soprannaturali]]. Dico
+
+che questo è stato fatto da uno spirito. Il Dottore non mi crede. È un
+
+agnostico; e sa tutto. Il Duca non mi crede; non
+
+può credere a nulla di tanto semplice quanto un miracolo. Ma che diavolo ci
+
+sta a fare lei, se non crede in un miracolo? Che cosa significa il suo abito, se
+
+non significa che esiste una cosa come il [[motifs/supernatural|soprannaturale]]? Che cosa
+
+significa il suo maledetto collare se non significa che esiste una
+
+cosa come uno spirito? [_Esasperato._] Perché diavolo si veste
+
+così se non ci crede? [_Con violenza._] O forse non
+
+crede nei diavoli?
+
+SMITH. Credo.... [_Dopo una pausa._] Vorrei poter credere.
+
+PRESTIGIATORE. Sì. Io vorrei poter non credere.
+
+[_Entra_ PATRICIA _pallida e nel leggero déshabillé dell'improvvisata
+
+[[characters/nurse|infermiera]]._
+
+PATRICIA. Posso parlare col Prestigiatore?
+
+SMITH. [_Facendosi avanti in fretta._] Vuole il Dottore?
+
+PATRICIA. No, il Prestigiatore.
+
+DOTTORE. Ci sono sviluppi?
+
+PATRICIA. Voglio solo parlare col Prestigiatore.
+
+[_Si ritirano tutti, o dalle porte del [[motifs/garden|giardino]] o dalle altre._
+
+PATRICIA _si avvicina al_ PRESTIGIATORE.
+
+PATRICIA. Deve dirmi come ha fatto il trucco. Lo farà. So che lo
+
+farà. Oh, lo so che il mio povero fratello è stato sgarbato con lei. È sgarbato con tutti!
+
+[_Scoppia in lacrime._] Ma è un ragazzo così piccolo, così piccolo!
+
+PRESTIGIATORE. Suppongo che lei sappia che ci sono cose che gli uomini non dicono mai alle donne.
+
+Sono troppo orribili.
+
+PATRICIA. Sì. E ci sono cose che le donne non dicono mai agli uomini. Anch'esse
+
+sono troppo orribili. Sono qui per udirle tutte.
+
+PRESTIGIATORE. Intende davvero che posso dire qualunque cosa voglia? Per quanto tetra
+
+sia? Per quanto tremenda sia? Per quanto dannata sia?
+
+PATRICIA. Ho passato troppo per lasciarmi atterrire adesso. Mi dica la
+
+cosa peggiore.
+
+PRESTIGIATORE. Le dirò la cosa peggiore. Mi accesi d'[[motifs/love|amore]] per lei quando la
+
+vidi la prima volta.
+
+[_Si siede e accavalla le gambe._
+
+PATRICIA. [_Ritraendosi._] Mi disse che sembravo una [[archetypes/child|bambina]] e....
+
+PRESTIGIATORE. Ho mentito.
+
+PATRICIA. Oh; questo è terribile.
+
+PRESTIGIATORE. Ero [[motifs/love|innamorato]], colsi l'occasione. Lei credette con tutta
+
+semplicità che io fossi un mago? ma io....
+
+PATRICIA. È terribile. È terribile. Non ho mai creduto che lei fosse un
+
+mago.
+
+PRESTIGIATORE. [_Sbalordito._] Non ha mai creduto che io fossi un mago...!
+
+PATRICIA. Ho sempre saputo che lei era un uomo.
+
+PRESTIGIATORE. [_Facendo qualunque cosa appassionata la gente faccia sul palcoscenico._] Sono
+
+un uomo. E lei è una donna. E tutti gli elfi se ne sono andati nel paese degli elfi,
+
+e tutti i diavoli all'inferno. E io e lei usciremo da questa grande
+
+volgare casa e ci sposeremo.... Sono tutti impazziti in questa casa
+
+questa [[motifs/night|notte]], credo. Che cosa vado dicendo? Come se _lei_ potesse sposare _me_! O mio
+
+Dio!
+
+PATRICIA. Questa è la prima [[motifs/time|volta]] che le è mancato il [[concepts/courage|coraggio]].
+
+PRESTIGIATORE. Che cosa intende?
+
+PATRICIA. Intendo richiamare la sua attenzione sul fatto che lei ha
+
+da poco fatto un'offerta, e io l'accetto.
+
+PRESTIGIATORE. Oh, è un'assurdità, un'assurdità. Come può un uomo sposare un
+
+arcangelo, figuriamoci una dama. Mia madre era una dama e sposò un
+
+violinista morente che batteva le strade; e quella mescolanza fa scempio
+
+del mio [[concepts/body|corpo]] e della mia [[motifs/soul|anima]]. Rivedo ora mia madre cucinare il cibo in
+
+alloggi sempre più sudici, rammendare calze con occhi sempre più deboli
+
+quando avrebbe potuto portare perle acconsentendo a essere una persona ragionevole.
+
+PATRICIA. E avrebbe potuto produrre perle, acconsentendo a essere
+
+un'ostrica.
+
+PRESTIGIATORE. [_Con serietà._] Ci fu poco piacere nella sua vita.
+
+PATRICIA. Ce n'è poco, pochissimo, nella vita di tutti. La questione
+
+è: di quale tipo? Non possiamo trasformare la vita in un piacere. Ma possiamo scegliere
+
+quei piaceri che sono degni di noi e delle nostre anime immortali. Sua madre
+
+scelse e io ho scelto.
+
+PRESTIGIATORE. [_Fissandola._] Anime immortali!... E immagino che se mi inginocchiassi
+
+ad adorarla, lei e tutti gli altri ridereste.
+
+PATRICIA. [_Con un sorriso di malizia._] [[motifs/well|Beh]], credo che questo sia un modo più
+
+comodo. [_Si siede d'un tratto accanto a lui in una sorta di
+
+atteggiamento domestico e continua a parlare._] Sì. Farò tutto ciò che sua madre
+
+fece, non così [[motifs/well|bene]], certo; rammenderò quel cappello da prestigiatore... si
+
+rammendano i cappelli?... e cucinerò la cena del Prestigiatore. A proposito, cos'è
+
+la cena di un Prestigiatore? Ci sono sempre i pesci rossi, naturalmente....
+
+PRESTIGIATORE. [_Con un gemito._] Carote.
+
+PATRICIA. E, naturalmente, ora che ci penso, puoi sempre tirare fuori
+
+conigli dal cappello. Ma che vita a buon mercato dev'essere! Come si
+
+cucinano i conigli? Il Duca parla sempre di conigli in camicia. Davvero,
+
+saremo felici quanto è bene per noi. Avremo fiducia l'uno
+
+nell'altro almeno, e nessun [[motifs/secrets|segreto]]. Insisto per conoscere tutti i trucchi.
+
+PRESTIGIATORE. Non so più se ho la testa o i piedi per aria.
+
+PATRICIA. E ora, dato che saremo così confidenziali e a nostro agio,
+
+mi dirai il modo reale, pratico e ingegnoso in cui hai fatto quell'ultimo
+
+trucco.
+
+PRESTIGIATORE. [_Alzandosi, rigido d'orrore._] Come ho fatto quel trucco? L'ho fatto
+
+con i diavoli. [_Voltandosi furioso verso_ PATRICIA.] Lei poteva credere nelle
+
+fate. Non può credere nei diavoli?
+
+PATRICIA. [_Con serietà._] No, non posso credere nei diavoli.
+
+PRESTIGIATORE. [[motifs/well|Beh]], questa stanza ne è piena.
+
+PATRICIA. Che cosa significa tutto questo?
+
+PRESTIGIATORE. Significa soltanto che ho fatto ciò che molti uomini hanno fatto; ma
+
+pochi, credo, ne hanno tratto profitto. [_Si siede e parla pensieroso._]
+
+Le ho detto che ho frequentato molte cerchie bizzarre di persone. Tra le altre, ho
+
+frequentato coloro che pretendono, veramente e falsamente, di fare i nostri trucchi con
+
+l'aiuto degli spiriti. Mi dilettai un poco di colpi sui tavoli e di tavoli giranti.
+
+Ma presto ebbi ragione di smettere.
+
+PATRICIA. Perché smise?
+
+PRESTIGIATORE. Cominciò col darmi mal di testa. E scoprii che ogni
+
+mattina, dopo una _seance_ spiritica, provavo una strana sensazione di abiezione
+
+e degradazione, d'essere stato insozzato; assai simile alla sensazione, immagino,
+
+che si prova il mattino dopo essersi ubriacati. Ma
+
+il caso vuole che io abbia quella che si chiama una testa forte; e non mi sono mai
+
+ubriacato davvero.
+
+PATRICIA. Ne sono lieta.
+
+PRESTIGIATORE. Non è stato per mancanza di tentativi. Ma non passò molto prima che
+
+gli spiriti con cui avevo giocato ai tavoli giranti facessero ciò che
+
+credo facciano di solito alla fine di ogni gioco di tavoli giranti.
+
+PATRICIA. Che cosa fecero?
+
+PRESTIGIATORE. Rivoltarono i tavoli. Rivoltarono i tavoli contro di me. Non
+
+mi [[concepts/wonder|stupisco]] che lei creda nelle fate. Finché queste cose furono
+
+mie serve, mi parvero come fate. Quando cercarono di essere miei
+
+padroni.... Scoprii che non erano fate. Scoprii che gli spiriti con cui
+
+io almeno ero venuto a contatto erano malvagi... spaventosamente, innaturalmente malvagi.
+
+PATRICIA. Lo dissero?
+
+PRESTIGIATORE. Non parliamo di ciò che dissero. Ero un tipo dissoluto, ma non ero
+
+caduto tanto in basso quanto simili cose. Resistei loro; e dopo un [[motifs/time|periodo]]
+
+piuttosto brutto, psicologicamente parlando, troncai il legame. Ma erano
+
+sempre a tentarmi perché usassi il potere [[motifs/supernatural|soprannaturale]] che avevo ricevuto da loro.
+
+Non era grandissimo, ma bastava a spostare le cose, a mutare
+
+le luci, e così via. Non so se lei si renda conto che è piuttosto una
+
+tortura per un uomo bere pessimo caffè a un chiosco quando sa di
+
+avere in sé giusto quel tanto di magia da far uscire una bottiglia di champagne da
+
+un negozio vuoto.
+
+PATRICIA. Credo che lei si sia comportato molto [[motifs/well|bene]].
+
+PRESTIGIATORE. [_Con amarezza._] E quando alla fine caddi, non fu per nulla di
+
+tanto pulito e cristiano quanto lo champagne. In un cieco e nero [[concepts/pride|orgoglio]], nell'ira e in
+
+ogni sorta di paganesimo, per via dell'impudenza di uno scolaretto,
+
+invocai i demoni ed essi obbedirono.
+
+PATRICIA. [_Gli tocca il braccio._] Pover'uomo!
+
+PRESTIGIATORE. La sua bontà è l'unica bontà che non sbaglia mai.
+
+PATRICIA. E che cosa _dobbiamo_ fare con Morris? Io... io ora le credo, mio
+
+caro. Ma lui... lui non crederà mai.
+
+PRESTIGIATORE. Non c'è bigotto peggiore dell'ateo. Devo riflettere.
+
+[_Cammina verso le finestre del [[motifs/garden|giardino]]. Gli altri uomini ricompaiono per
+
+arrestare il suo movimento._
+
+DOTTORE. Dove va?
+
+PRESTIGIATORE. Vado a chiedere al Dio i cui nemici ho servito se sono
+
+ancora degno di salvare un [[archetypes/child|fanciullo]].
+
+[_Esce nel [[motifs/garden|giardino]]. Cammina avanti e indietro esattamente come_ MORRIS _ha
+
+fatto. Mentre lo fa_, PATRICIA _esce lentamente; e segue un lungo [[motifs/silence|silenzio]]
+
+durante il quale gli uomini rimasti si agitano e pestano i piedi con grande
+
+irrequietezza. L'oscurità aumenta. Passa molto tempo prima che qualcuno
+
+parli._
+
+DOTTORE. [_Bruscamente._] Uomo notevole, quel Prestigiatore. Uomo abile. Uomo
+
+curioso. Uomo molto curioso. Un tipo d'uomo, sa.... Dio ci benedica! Cos'è
+
+quello?
+
+DUCA. Cos'è cosa, eh? Cos'è cosa?
+
+DOTTORE. Giuro che ho sentito un passo.
+
+_Entra_ [[characters/hastings|HASTINGS]] _con delle carte._
+
+DUCA. Ma, [[characters/hastings|Hastings]]... [[characters/hastings|Hastings]]... la credevamo un [[archetypes/ghost|fantasma]]. Deve
+
+essere... ehm... pallido o qualcosa del genere.
+
+[[characters/hastings|HASTINGS]]. Ho riportato la risposta degli Anti-Vegetariani... intendo
+
+i Vegetariani.
+
+[_Lascia cadere una o due carte._
+
+DUCA. Ma davvero, [[characters/hastings|Hastings]], lei _è_ pallido.
+
+[[characters/hastings|HASTINGS]]. Chiedo scusa a Vostra Grazia. Ho avuto un lieve turbamento entrando
+
+nella stanza.
+
+DOTTORE. Un turbamento? Quale turbamento?
+
+[[characters/hastings|HASTINGS]]. È la prima [[motifs/time|volta]], credo, che il lavoro di Vostra Grazia venga
+
+disturbato da qualche mio sentimento privato. Non affliggerò Vostra
+
+Grazia con essi. Non accadrà più.
+
+[_Esce_ [[characters/hastings|HASTINGS]].
+
+DUCA. Che tipo straordinario. Mi [[concepts/wonder|domando]] se....
+
+[_Smette di colpo di parlare._
+
+DOTTORE. [_Dopo un lungo [[motifs/silence|silenzio]], a voce bassa a_ SMITH.] Come si
+
+sente?
+
+SMITH. Sento che devo far chiudere una [[motifs/window|finestra]] o devo farla aprire, e non
+
+so quale delle due.
+
+[_Un altro lungo [[motifs/silence|silenzio]]._
+
+SMITH. [_Gridando d'improvviso nel buio._] In nome di Dio, va' via!
+
+DOTTORE. [_Balzando in piedi tutto tremante._] Davvero, signore, non sono abituato
+
+a sentirmi parlare così....
+
+SMITH. Non era a lei che dicevo di andarsene.
+
+DOTTORE. No. [_Pausa._] Ma credo che me ne andrò. Questa stanza è semplicemente
+
+orribile.
+
+[_Marcia verso la porta._
+
+DUCA. [_Balzando in piedi e affaccendandosi, spostando carte, fogli, ecc., sui
+
+tavoli._] Stanza orribile? Stanza orribile? No, no, no. [_Comincia a correre
+
+più svelto per la stanza, agitando le mani come pinne._] Soltanto un po'
+
+affollata. Un po' affollata. E mi pare di non conoscere tutti i presenti. Non
+
+possiamo piacere a tutti. Questi grandi ricevimenti....
+
+[_Crolla su una sedia._
+
+PRESTIGIATORE. [_Ricomparendo alle porte del [[motifs/garden|giardino]]._] Tornate all'inferno da cui
+
+vi ho chiamati. È l'ultimo ordine che darò.
+
+DOTTORE. [_Alzandosi piuttosto malfermo._] E lei che cosa intende fare?
+
+PRESTIGIATORE. Vado a dire una bugia a quel povero ragazzino. Ho trovato
+
+nel [[motifs/garden|giardino]] ciò che lui non trovò nel [[motifs/garden|giardino]]. Sono riuscito a
+
+pensare a una spiegazione naturale di quel trucco.
+
+DOTTORE. [_Commosso calorosamente._] Credo che lei sia qualcosa come un grand'uomo.
+
+Posso portargli ora la sua spiegazione?
+
+PRESTIGIATORE. [_Cupamente._] No, grazie. La porterò io stesso.
+
+[_Esce nell'altra stanza._
+
+DUCA. [_A disagio._] Ci siamo sentiti tutti diabolicamente strani poco fa. Cose
+
+straordinarie ci sono al mondo. [_Dopo una pausa._] Suppongo che sia tutta
+
+elettricità.
+
+[_Silenzio come al solito._
+
+SMITH. Credo che ci sia stato più che elettricità in tutto questo.
+
+_Entra_ PATRICIA, _ancora pallida, ma raggiante._
+
+PATRICIA. Oh, Morris sta tanto meglio! Il Prestigiatore gli ha raccontato
+
+una così bella storia di come fu fatto il trucco.
+
+_Entra il_ PRESTIGIATORE.
+
+DUCA. Professore, le dobbiamo mille grazie!
+
+DOTTORE. Davvero, avete raddoppiato la vostra affermazione riguardo all’originalità del vostro lavoro!
+
+SMITH. È molto più meraviglioso spiegare un miracolo che compiere uno stesso.
+
+Un miracolo. A proposito, qual era la tua spiegazione?
+
+STREGONE: Non ve lo dirò.
+
+SMITH. [_Inizio._] Davvero? Perché no?
+
+Conjuratore… Perché Dio, i demoni e quell’Immortale Mistero che tu…
+
+Deny è stato in questa stanza fino a [[motifs/night|notte]]. Perché sai che è stato qui.
+
+Perché tu l’hai provato qui. Perché conosci gli spiriti altrettanto bene quanto me.
+
+Fai lo stesso e [[concepts/fear|temili]]li tanto quanto me.
+
+SMITH. [[motifs/well|Beh]]?
+
+Conjurer. Perché tutto ciò non sarebbe servito a nulla… Se vi raccontassi la menzogna che ho detto…
+
+Morris Carleon riguardo a come ho fatto quel trucco.
+
+SMITH. [[motifs/well|Beh]]?
+
+Conjurer… Ci si crederebbe davvero, proprio come lui ci credeva. È impossibile non pensarci.
+
+[_indicando la lampada_] come quel trucco potesse essere eseguito in modo naturale. Solo io, da solo.
+
+Scoprii come si poteva fare, dopo che l’avevo già fatto con la magia. Ma se io.
+
+Ti dirò un modo naturale per farlo.
+
+SMITH. [[motifs/well|Beh]]?.
+
+STREGONE: Mezz’ora dopo che me ne sarò andato da questa casa, voi tutti.
+
+Spiegando come era stato fatto.
+
+[Il Mago Stregone si abbottona il mantello e si avvicina a PATRICIA.]
+
+STREGONE: Addio.
+
+PATRICIA: Non dirò addio.
+
+PATRICIA. Sì. Quella favola è davvero finita per sempre.
+
+Lo guarda con quel vecchio sguardo mistico… È molto difficile.
+
+Affinché una favola possa avere una fine. Se la lasci da sola, continuerà ad esistere.
+
+“Per sempre… La nostra fiaba è giunta alla fine, nel solo modo possibile per una favola.”
+
+“Una favola può finire… L’unico modo per cui una favola smetta di essere tale è…”
+
+Canto di fate.
+
+STREGONE: Non ti capisco.
+
+Patricia: È diventato realtà.
+
+Cortina
+
+*       *       *       *       *
+
+Una selezione da…
+
+Catalogo di_
+
+G.P. Putnam’s Sons
+
+Illustrazione: Marchio dell’editore
+
+Titolo:  
+Catalogo completo inviato
+
+Su richiesta
+
+Nuove commedie
+
+By
+
+Signora Gregory
+
+Gli uomini dei binari – Tutto il [[motifs/moon|luna]] – I cappotti di Damer’s Gold – La moglie di McDonough
+
+_8^o. Con ritratto in fotogравura. 1,50 dollari a netto. Per posta: 1,65 dollari.
+
+Queste opere teatrali sono state rappresentate con grande successo dalla compagnia Abbey Company, e.
+
+Ampiamente lodati dal pubblico apprezzativo e da critici entusiasti
+
+Presso di loro prevale uno spirito umoristico di ineguagliata originalità.
+
+Uno dei drammi presenti nella raccolta “Coats” basa la sua trama su…
+
+La rivalità di due editori, ognuno dei quali ha scritto un necrologio
+
+"#La moglie di McDonough": un dialogo ricco di umorismo tagliente."
+
+Un altro dramma presente nel volume è basato su una leggenda…
+
+Il mostro di fango
+
+Il titolo “Men” si basa su un divertente malinteso tra due persone…
+
+Le pulizie del camino: l’arguzia e l’assurdità dei dialoghi nella signora…
+
+Il lato migliore di Gregory: “L’oro di Damer” racconta la storia di un avaro tormentato…
+
+Dai suoi parenti avidi d’oro… Le loro speranze e i loro piani vengono rovinati da qualcuno
+
+Titolo:  
+Coloro che credevano di essere tra le persone più semplici del mondo… ma che in realtà sconvolgono tutto.
+
+La Saggezza dei Saggi. “La Luna Piena” presenta una piccola [[forms/comedy|commedia]] che si svolge.
+
+In una stazione ferroviaria irlandese… Il testo si caratterizza per un umorismo originale e particolare.
+
+E un personaggio davvero delizioso, con battute intelligenti e spiritose.
+
+G.P. Putnam’s Sons
+
+[[settings/new-york|New York]]     [[settings/london|Londra]]
+
+Titolo:  
+Opere teatrali irlandesi
+
+By
+
+Signora Gregory
+
+Il nome di Lady Gregory è diventato noto in tutta l’[[settings/america|America]] e le sue opere.
+
+“Un titolo che dovrebbe occupare una nicchia esclusiva in ogni biblioteca… Il signor George Bernard”
+
+[[works/shaw-(chesterton)|Shaw]], in un'intervista pubblicata di recente, ha detto che Lady Gregory “è la, ”
+
+La più grande donna irlandese vivente… Anche nelle opere teatrali di Lady Gregory.
+
+Sono permeati da quel profondo [[motifs/love|amore]] per l’Irlanda, che è.
+
+“Incomprensibile per quei tanti furfanti ubriachi dai nomi irlandesi…”
+
+La loro nazionalità non è una scusa per i loro vizi e la loro inutilità.
+
+“Non esistono lusinghe per gli irlandesi: lei descrive gli irlandesi proprio come faceva Molière”.
+
+Scrisse di francesi, possedendo un talento stranamente simile a quello di Molière.
+
+La magia letteraria di Yeats, l’immaginazione vivida di Synge, le cose divertenti.
+
+Il letteralismo, mescolato con il marcato romanticismo dei loro imitatori, ha.
+
+Il loro ruolo è stato riconosciuto e hanno ricevuto grandi lodi. Ma nessuno di loro…
+
+Questi possono competere con Lady Gregory per la qualità della loro universalità.
+
+La migliore [[concepts/beauty|bellezza]] nell’arte di Lady Gregory è la sua spontaneità: non c’è mai nulla di forzato o premeditato in essa.
+
+Costretta… Ha letto, sognato, studiato, dormito e si è svegliata.
+
+E ha funzionato… Le grandi idee che le sono venute sono state davvero efficaci.
+
+Cresciuti e allenati fino a diventare davvero eccezionali…
+
+"Statura": _Chicago Tribune_.
+
+G.P. Putnam’s Sons
+
+[[settings/new-york|New York]]     [[settings/london|Londra]]
+
+Opere teatrali sulla storia popolare irlandese
+
+By
+
+Signora Gregory
+
+Prima serie: Le tragedie
+
+Grania
+
+KINCORA
+
+Dervorgilla
+
+_Seconde Serie: Le tragedie comiche_
+
+I Caravanieri
+
+La coccarda bianca
+
+Il Messaggero
+
+_2 volumi. Ogni volume costa 1,50 dollari al netto; per la spedizione via posta, il costo è di 1,65 dollari._
+
+Lady Gregory ha scelto di perseguire i suoi interessi personali piuttosto che seguire la tradizione
+
+Si rivolgeva più alla [[concepts/history|storia]] popolare che alle versioni stampate ufficiali, e lei.
+
+Riuscendo così a rendere le sue opere teatrali più vivide e realistiche, uno di questi…
+
+Kincora#, la storia di Brian Boru che regnò nell’anno 1000
+
+Un grande interesse locale che spinse un vecchio contadino a viaggiare da…
+
+Nel quartiere di Kincora, per vederlo rappresentato a Dublino.
+
+La storia di Grania, su cui Lady Gregory ha basato una delle sue opere
+
+Titolo:  
+Le azioni e i comportamenti descritti derivavano interamente dalla tradizione. Grania era una giovane donna bellissima…
+
+Donna che avrebbe dovuto sposare Finn, il grande leader…
+
+I Feniani. Ma prima del [[motifs/marriage|matrimonio]], lei se ne andò dal fidanzato con.
+
+Il suo affascinante giovane cugino, Diarmuid… Dopo molti anni, quando Diarmuid…
+
+Dopo che lui era morto (e Finn aveva avuto un ruolo nella sua [[motifs/death|morte]]), lei tornò da Finn e.
+
+divenne la sua [[characters/queen|regina]].
+
+Un’altra delle opere teatrali di Lady Gregory, *I Canavans*, trattava di tempeste e situazioni turbolente…
+
+Ai tempi di [[characters/queen-elizabeth|Regina Elisabetta]], la cui [[motifs/memory|memoria]] rappresenta un vero orrore in Irlanda.
+
+Solo a quello di Cromwell.
+
+=L’Ordine della Croce Bianca= ha origine dalla tradizione secondo cui il re [[archetypes/king|Giacomo]] riuscì a fuggire.
+
+Dall’Irlanda, dopo la battaglia del Boyne, in un barile di vino.
+
+La scelta della storia popolare invece di quella scritta conferisce una sensazione di freschezza.
+
+Titolo:  
+Sui metodi di trattamento e sull’elasticità dei materiali utilizzati dal compianto J.M. Synge
+
+Il metodo di Lady Gregory ha riaperto la possibilità…
+
+scrivere opere teatrali storiche.
+
+Tutti questi drammi, ad eccezione di *Grania*, che non è ancora stato messo in scena, sono stati…
+
+Rappresentati con grande successo in Irlanda… Scritti nel dialetto locale.
+
+Di Kiltartan, che ormai era diventato familiare ai leader di Lady…
+
+I libri di Gregory.
+
+G.P. Putnam’s Sons
+
+[[settings/new-york|New York]]     [[settings/london|Londra]]
+
+_Drammi di importanza_
+
+Opere teatrali
+
+La scatola d’argento – Gioia – Conflitto
+
+John Galsworthy
+
+Autore di “La casa di campagna”, ecc.
+
+[[motifs/crown|Crown]] 8° edizione. 1,35 dollari a netto.
+
+Con il consenso generale, questa settimana [[settings/london|Londra]] ha assistito a uno spettacolo di grande serietà.
+
+Importanza: un tema mai affrontato da alcun altro libro o dramma della stagione.
+
+“La Lotta” di John Galsworthy: considerato non solo…
+
+Un notevole documento sociale di grande rilevanza… ma anche come opera creativa…
+
+Un realismo estremamente moderno, ma che rimane classico per la sua evidente qualità artistica
+
+e l’filosofia elevata. La pièce mostra i tipi degli uomini più forti come.
+
+Vittime di eventi comici e di uomini più deboli… Sarà prodotto in…
+
+[[settings/america|America]], dove, grazie al suo trattamento realistico dell’argomento.
+
+“Un'azione di [[concepts/union|unione]] sindacale sicuramente susciterà grande scalpore.” – Trasmissione speciale via cavo per.
+
+N.Y. Times.
+
+La monaca di [[characters/kent|Kent]]
+
+Un dramma
+
+Per grazia di Denio Litchfield
+
+Autore di “Baldur il Bello”, ecc.
+
+[[motifs/crown|Corona]] 8° edizione. 1,00 dollari a netto.
+
+In questa drammaturgia, gli elementi essenziali della scrittura teatrale vengono raramente rispettati
+
+Mescolato… La base di questa commedia emozionante è un episodio patetico
+
+Come descritto in [[characters/henry-viii|Enrico VIII]] di Froude.
+
+"Le righe di questo poema, sebbene piene di riflessione, sono anche caratterizzate da..."
+
+Fervore e [[concepts/beauty|bellezza]]. La forza di questa opera si concentra su pochi elementi.
+
+Personaggi, “La monaca di [[characters/kent|Kent]]” può essere descritta come una figura affascinante.
+
+"Storia drammatica." -- _Baltimore News_.
+
+Yzdra
+
+[[forms/tragedy|Tragedia]] in tre atti
+
+Il lavoro di Louis V. Ledoux
+
+[[motifs/crown|Corona]] 8° edizione. Rilegato in tela. Prezzo netto: 1,25 dollari.
+
+In questa drammaturgia convivono grazia e forza
+
+Il movimento e lo spirito necessari per una performance teatrale… Alcuni di essi.
+
+Le figure utilizzate sono straordinarie e belle, assolutamente prive di eccessi.
+
+A volte quasi ascetici nella loro moderazione… I personaggi sono chiaramente…
+
+"#Individualizzazione e un equilibrio giusto vengono mantenuti nell’azione." -- _The"
+
+Outlook, [[settings/new-york|New York]]._
+
+[[settings/new-york|New York]]   G.P. Putnam’s Sons   [[settings/london|Londra]]
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="motif/garden,motif/road,motif/stars,motif/time,concept/wonder,form/comedy,setting/london,setting/new_york,character/fred,character/hastings"></span>

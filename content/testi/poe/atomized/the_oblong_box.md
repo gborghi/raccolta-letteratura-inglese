@@ -960,6 +960,967 @@ countenance which haunts me, turn as I will. There is an
 hysterical laugh which will forever ring within my ears.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+Alcuni anni fa, ho intrapreso un viaggio da Charleston, nella Carolina del Sud, fino a…
+
+La città di [[settings/new-york|New York]], a bordo del bellissimo vascello [[motifs/ship|navio]] “Independence”, il Capitano.
+
+Hardy: Avremmo dovuto salpare il quindicesimo del mese (giugno).
+
+Se il tempo lo permetterà… e il quattordicesimo, salii a bordo.
+
+Organizza alcune cose nella mia stanza da lavoro.
+
+
+
+Titolo:  
+Ho scoperto che avremmo avuto moltissimi passeggeri, tra cui…
+
+Un numero insolitamente elevato di signore… Nella lista c’erano anche alcune delle mie conoscenti.
+
+Tra conoscenti e altre persone, fui molto felice di vedere…
+
+Di Mr. Cornelius Wyatt, un giovane [[archetypes/artist|artista]], per il quale ho fornito ospitalità.
+
+Sentimenti di calda [[concepts/friendship|amicizia]]. Era stato con me come compagno di studi.
+
+“Alla C—— Università, dove trascorrevamo molto tempo insieme. Lui aveva…”
+
+Titolo:  
+Il temperamento ordinario del genio… e la sua natura complessa
+
+Misanantropia, sensibilità ed entusiasmo. A queste qualità lui attribuiva grande importanza.
+
+Il cuore più caldo e sincero che abbia mai battuto in un essere umano
+
+seno.
+
+
+
+Ho notato che il suo nome era scritto su tre stanze da stato.
+
+Ripensando di nuovo all’elenco dei passeggeri, ho scoperto che…
+
+Aveva prenotato un passaggio per sé, sua moglie e le sue due sorelle: erano tutti suoi.
+
+Le cabine di lusso erano abbastanza spaziose, e ognuna disponeva di due letti.
+
+Uno sopra l’altro… Questi posti letto, senza dubbio, erano disposti proprio in questo modo.
+
+Estremamente ristretto da non essere sufficiente per più di uno
+
+Personaggio… Eppure non riuscivo a capire perché ce ne fossero tre.
+
+Stanze per queste quattro persone. In quel periodo, io mi trovavo…
+
+Uno di quei stati d’animo malinconici che rendono un uomo…
+
+Curioso di cose insignificanti… E confesso, con vergogna, che io…
+
+Mi sono occupato di una serie di cose scortesi e assurde…
+
+Congetture su questa questione relativa alle stanze extra riservate agli ospiti d’onore
+
+Non era affatto una mia faccenda, certo… ma questo non significa che non mi riguardasse comunque.
+
+Tenacia… fu ciò con cui mi impegnai nel tentativo di risolvere
+
+Enigma. Alla fine sono giunto a una conclusione che mi ha lasciato profondamente turbato.
+
+Mi chiedevo perché non ci fossi arrivato prima, “È un servitore di, ”
+
+“Corri,” dissi; “che [[archetypes/fool|idiota]] che sono, non ci ho pensato subito, ”
+
+“Una soluzione così ovvia…”, e poi mi rivolsi di nuovo alla lista…
+
+Qui vidi chiaramente che nessun servitore avrebbe accompagnato il gruppo.
+
+Titolo:  
+Sebbene, in realtà, il progetto originale prevedesse proprio questo.
+
+Uno… perché le parole “e servo” furono scritte prima, e poi…
+
+“Oltre il limite… Oh, sicuramente bagaglio in eccesso,” dissi ora.
+
+Qualcosa che lui non vuole che venga messo nel bagagliaio… Qualcosa…
+
+“Da tenere sempre sotto il suo controllo… Ah, ecco: un dipinto, più o meno…”
+
+Questo è ciò su cui ha negoziato con Nicolino…
+
+“Ebreo italiano”. Questa idea mi soddisfece, e la accettai senza ulteriori riflessioni.
+
+Curiosità, per il momento.
+
+
+
+Conoscevo molto bene le due sorelle di Wyatt; erano davvero molto simpatiche e intelligenti.
+
+ragazze… Erano ragazze. Sua moglie l’aveva appena sposato, e io non le avevo mai conosciute.
+
+Non l’aveva mai vista di persona. Spesso ne parlava davanti a me.
+
+Comunque, e nel suo solito stile entusiasta, la descrisse…
+
+Per quanto riguarda la bellezza, l’intelligenza e le realizzazioni, ero.
+
+Pertanto, ero molto desideroso di conoscerla.
+
+
+
+Il giorno in cui visitai la [[motifs/ship|nave]] (il quattordicesimo), Wyatt.
+
+E anche gli altri invitati avrebbero dovuto visitarlo, mi disse il capitano… E io…
+
+È rimasto a bordo per un’ora in più rispetto al tempo previsto, nella [[concepts/hope|speranza]] che.
+
+Fu presentato alla sposa, ma poi arrivò scuse: “Signora W.”
+
+Era un po’ malato e rifiutò di salire a bordo fino a quando…
+
+“Domani, all’ora della partenza.”
+
+
+
+Il giorno seguente, mentre mi dirigevo dal mio hotel…
+
+Molo, quando il Capitano Hardy mi incontrò e disse: “A causa di…”
+
+“Circostanze…” (una frase stupida ma comoda…) “Lui preferiva…”
+
+Pensavo che l’“Independence” non sarebbe partita per un giorno o due…
+
+“Quando tutto sarà pronto, mi farà sapere.”
+
+“Mi sembrò strano, perché soffiava una forte brezza da sud… Ma comunque…”
+
+“I circostanze” non venivano fornite, nonostante io insistessi per saperle…
+
+Con grande perseveranza, non mi restò altro da fare se non tornare indietro.
+
+A casa, potrò tranquillamente sfogare la mia impazienza.
+
+
+
+Non ho ricevuto il messaggio atteso dal capitano…
+
+Quasi una settimana… Alla fine è arrivato, e io l’ho preso immediatamente.
+
+A bordo. La [[motifs/ship|nave]] era piena di passeggeri, e tutto.
+
+Nel trambusto legato alla partenza… La compagnia di Wyatt
+
+Arrivò circa dieci minuti dopo di me. C’erano quelle due persone.
+
+Sorelle, la sposa e l’[[archetypes/artist|artista]], quest’ultimo in uno dei suoi lavori.
+
+Quei soliti attacchi di malinconica [[concepts/misanthropy|misanthropia]]. Ero ormai troppo abituato a loro.
+
+Non prestò loro alcuna attenzione particolare. Non lo fece.
+
+“Anche presentarmi sua moglie… Una cortesia che, inevitabilmente, finisce per…”
+
+Su sua sorella Marian: una ragazza molto dolce e intelligente…
+
+Alcune parole affrettate ci fecero conoscere.
+
+
+
+La signora Wyatt indossava un velo fitto; e quando lo sollevò…
+
+In riconoscendo il mio inchino, confesso di essere stato profondamente…
+
+Astonito… Avrei dovuto esserlo ancora di più, però, se non fosse stato per…
+
+Lunga esperienza mi ha insegnato a non fidarmi troppo ciecamente…
+
+La fiducia, le descrizioni entusiastiche di mio amico, l’[[archetypes/artist|artista]].
+
+Quando ci si sofferma ad ammirare la bellezza della donna…
+
+La [[concepts/beauty|bellezza]] era il tema; sapevo bene con quanta facilità lui riuscisse a esprimersi al suo meglio.
+
+nei regni dell’assolutamente ideale.
+
+
+
+La [[concepts/truth|verità]] è che non potevo fare a meno di considerare la signora Wyatt come.
+
+Donna decisamente di aspetto ordinario… Se non si può dire proprio che fosse brutta, allora…
+
+“No, penso di no… Comunque, era vestita…”
+
+Un gusto raffinatissimo. E allora non ebbi alcun [[concepts/doubt|dubbio]] che lei avesse conquistato tutti.
+
+Il cuore del mio amico, attraverso le grazie più durature dell’intelligenza
+
+e la sua [[motifs/soul|'anima]]. Disse pochissime parole, e poi morì all’istante.
+
+La sala da ricevimento con il signor W.
+
+
+
+“La mia vecchia curiosità è tornata… Non c’era nessun servitore…”
+
+Era un punto già deciso. Pertanto, cercai il bagaglio in eccesso.
+
+Dopo un certo ritardo, un carretto arrivò al molo, con una forma allungata…
+
+Una bara di pino. Era esattamente ciò che si sarebbe potuto aspettare.
+
+Non appena arrivati, levammo l’ancora e, in poco [[motifs/time|tempo]].
+
+Erano al sicuro oltre la barriera e si trovavano in mare aperto.
+
+
+
+Il contenitore in questione era, come ho detto, di forma allungata; misurava circa sei piedi di lunghezza.
+
+Di due metri e mezzo di lunghezza e due metri di larghezza; l’ho osservato.
+
+Con attenzione, e desiderando essere precisi… Questa forma era davvero particolare.
+
+E non appena l’ho visto, mi sono attribuito il merito di esserne stato io ad averlo fatto…
+
+Precisione delle mie congetture… Avevo raggiunto questa conclusione.
+
+Ricordai che il bagaglio in eccesso del mio amico, l’[[archetypes/artist|artista]].
+
+Si sarebbero rivelate immagini, o almeno un’immagine; perché sapevo che lui…
+
+Aveva già trascorso diverse settimane in riunione con Nicolino… e ora
+
+Qui c’era una scatola che, a giudicare dalla sua forma, poteva contenere qualcosa…
+
+"Nient'altro al mondo se non una copia del ‘Cenacolo’ di Leonardo..."
+
+Titolo:  
+Una copia esatta di questa “Ultima Cena”, realizzata da Rubini il Giovane…
+
+Florence, sapevo da un po’ che possedesse.
+
+Nicolino. Quindi, considerai questo punto sufficientemente importante.
+
+“Deciso… Ho riso molto al pensiero della mia perspicacia.”
+
+Fu la prima volta che vidi Wyatt nascondermi qualcosa.
+
+I suoi segreti artistici, ma in questo caso, evidentemente, intendeva rubare qualcosa.
+
+Avanti pure verso di me, e porti di nascosto un bellissimo dipinto a [[settings/new-york|New York]], sotto il mio nome.
+
+Mai dare per scontato che io non sappia nulla della questione… Ho deciso di agire.
+
+Per metterlo alla prova in modo adeguato, sia ora che in futuro.
+
+
+
+Una cosa, tuttavia, mi ha infastidito non poco: la scatola non è arrivata.
+
+“Nella stanza riservata agli ospiti speciali… Fu depositato nella stanza personale di Wyatt…”
+
+Lì anche, rimaneva, occupando quasi interamente tutto lo spazio…
+
+Il pavimento, non c’è alcun dubbio sul grande disagio provato dall’[[archetypes/artist|artista]] e dai suoi collaboratori.
+
+Moglie; e questo è ancora più vero considerando il catrame o la vernice con cui è stato trattato…
+
+Il titolo era scritto in grandi lettere maiuscole, e emanava un’impressione decisa…
+
+Un odore sgradevole, e a mio parere particolarmente disgustoso.
+
+“La copertina era dipinta con le parole: ‘Signora Adelaide Curtis, Albany, New York’”
+
+York: L’incarico di Cornelius Wyatt, Esq. Da gestire con attenzione.
+
+Con cura.
+
+
+
+Ora sapevo che la signora Adelaide Curtis, di Albany, era…
+
+La madre della moglie dell’[[archetypes/artist|artista]], ma poi ho osservato l’intero indirizzo.
+
+Come una sorta di mistero, pensato soprattutto per me stesso. L’ho inventato io stesso.
+
+Attenti: la scatola e il suo contenuto non potrebbero mai essere recuperati…
+
+Più a nord ancora dello studio del mio amico misantropo…
+
+Chambers Street, [[settings/new-york|New York]].
+
+
+
+Per i primi tre o quattro giorni il tempo è stato bello, anche se…
+
+Il [[motifs/wind|vento]] soffiava direttamente davanti a loro; dopo aver cambiato direzione verso nord.
+
+Appena abbiamo perso di vista la costa… I passeggeri
+
+Erano, pertanto, di ottimo umore e desiderosi di socializzare.
+
+Devo però escludere Wyatt e le sue sorelle, che si sono comportati in modo rigido.
+
+E non potei fare a meno di pensare che fosse scortese verso gli altri…
+
+“Party… Non prestavo molta attenzione al comportamento di Wyatt; era cupo…”
+
+Ancora più del solito, era di cattivo umore… Ma in lui c’era qualcosa…
+
+Era preparato per l’eccentricità… Ma per le sorelle, potevo fare di più.
+
+Non inventare scuse: si sono ritirati nelle loro cabine private.
+
+Durante la maggior parte del passaggio, si è rifiutato assolutamente.
+
+Nonostante li avessi ripetutamente esortati a mantenere i contatti con chiunque…
+
+Una persona a bordo.
+
+
+
+La stessa signora Wyatt era molto più piacevole da incontrare… Cioè, lei…
+
+Era loquace; e essere loquaci non è certo un difetto negli ambienti marittimi.
+
+Divenne eccessivamente intima con la maggior parte delle signore; e, inoltre…
+
+La mia profonda meraviglia non lasciava dubbi su…
+
+“Si comportava in modo seducente con gli uomini… Ci ha divertiti molto tutti quanti.”
+
+“Divertito”, e quasi non so come spiegarmi. La [[concepts/truth|verità]] è che io.
+
+Si scoprì presto che la signora W. veniva spesso presa in giro piuttosto che essere oggetto di simpatia o rispetto.
+
+I signori parlavano poco di lei; ma le signore, invece…
+
+Mentre la definiva “una persona dal cuore gentile, piuttosto indifferente…”
+
+“Sembrava completamente ignorante e decisamente volgare…” Il grande…
+
+Lo [[concepts/wonder|stupore]] era grande: come fosse stato possibile che Wyatt finisse coinvolto in una situazione del genere.
+
+La ricchezza era la soluzione generale… ma sapevo che non lo era affatto.
+
+Assolutamente no; perché Wyatt mi aveva detto che lei non gli aveva portato nulla.
+
+Né dollari, né alcuna aspettativa proveniente da alcuna fonte. “Lui aveva…”
+
+“Sposato,” disse, “per [[motifs/love|amore]], e solo per [[motifs/love|amore]]; e sua moglie, ”
+
+Era davvero molto più degna del suo [[motifs/love|amore]]. Quando pensavo a queste cose.
+
+Espressioni… da parte del mio amico, devo ammettere che le ho trovate molto significative.
+
+Indescrivibilmente perplesso… Era possibile che stesse facendo qualcosa di inaspettato?
+
+Che abbia perso la ragione? Che altro potevo pensare? Lui, così raffinato…
+
+Intelligente, così raffinato, con una percezione estremamente acuta…
+
+Una apprezzazione così profonda e intensa della bellezza…
+
+Certo, la signora sembrava particolarmente affezionata a lui… soprattutto in quel momento.
+
+La sua assenza… quando si rendeva ridicola con le sue frequenti…
+
+Citazioni di ciò che era stato detto dal suo “amato marito, il signor, ”
+
+“Wyatt…” La parola “marito” sembrava non esistere affatto… per usare le sue stesse parole.
+
+Espressioni delicate… per sempre “sul filo della lingua”. Nella…
+
+Nel frattempo, tutti a bordo notarono che lui la evitava.
+
+Con il tono più tagliente possibile, per lo più si teneva zitto.
+
+Solo nella sua stanza da lavoro, dove, in realtà, si potrebbe dire che.
+
+Vivere insieme, lasciando sua moglie completamente libera di divertirsi.
+
+Come riteneva meglio, nella società pubblica della vita quotidiana
+
+cabina.
+
+
+
+La mia conclusione, basata su ciò che ho visto e sentito, è che l’[[archetypes/artist|artista]].
+
+Per qualche strano capriccio del destino, o forse in un momento di…
+
+Passione appassionata e fantasiosa aveva spinto le persone a unirsi.
+
+Unirsi a una persona decisamente inferiore a sé… e che…
+
+Un disgusto naturale, totale e immediato… Mi dispiaceva.
+
+Dai profondi del mio cuore, ma per quel motivo non potevo.
+
+Perdonare senz’altro la sua reticenza al riguardo della “Ultima…”
+
+“Cena.” Per questo decisi di vendicarmi.
+
+
+
+Un giorno salì sul ponte e, prendendomi per il braccio, come aveva fatto in precedenza…
+
+“Non vuole… Camminavo avanti e indietro con lui; la sua tristezza…”
+
+Comunque… (cosa che ritenevo del tutto naturale)
+
+Le circostanze sembravano non aver affatto diminuito d’intensità. Diceva poco…
+
+Con aria malinconica e con evidente sforzo, osai fare uno o due scherzi.
+
+E fece un tentativo disgustoso di sorridere… Povero ragazzo…
+
+Pensando a sua moglie, mi chiesi come potesse avere il cuore di farlo…
+
+Senza nemmeno l’ombra di una risata… Decisi di iniziare una serie.
+
+Di insinuazioni o allusioni sottili riguardo alla scatola oblunga, proprio così.
+
+Per fargli comprendere gradualmente che non ero affatto…
+
+Semplicemente una vittima, o un oggetto della sua piccola, piacevole misteriosità. Io.
+
+La prima osservazione fu effettuata aprendo una batteria munita di maschera. Dissi…
+
+“Qualcosa riguardo alla forma particolare di quella scatola”; e, come io…
+
+Disse quelle parole, sorrisi comprensivamente, gli feci l’occhiolino e lo toccai
+
+Con delicatezza, con il dito indice sulle costole.
+
+
+
+Il modo in cui Wyatt accolse queste innocue battute scherzose
+
+Mi convinse immediatamente che fosse pazzo; all’inizio mi fissava senza dire una parola.
+
+Titolo:  
+Come se trovasse impossibile comprendere la battuta spiritosa della mia…
+
+“Una osservazione… ma sembrava che il suo significato iniziasse lentamente ad entrare nella sua mente.”
+
+Occhi e cervello, nella stessa proporzione, sembravano sporgere…
+
+“Nei loro alloggi… Poi divenne molto rosso; poi terribilmente pallido… E poi…”
+
+Se era davvero divertito da ciò che avevo insinuato, iniziò a parlare ad alta voce…
+
+Una risata fragorosa… che, per mia sorpresa, continuò senza sosta.
+
+Con un vigore che aumenta gradualmente, per dieci minuti o più.
+
+Conclusione: cadde pesantemente sul ponte. Quando corsi verso di lui…
+
+Sollevatelo, a prima vista sembrava morto.
+
+
+
+Abbiamo chiamato i soccorsi e, con molta fatica, siamo riusciti a portarlo via
+
+Da solo. Dopo essersi ripreso, parlò in modo incoerente per un po’ di tempo.
+
+Quando lo abbiamo sanguinato a morte e messo a letto… La mattina dopo era già…
+
+Abbastanza ripreso, per quanto riguarda la sua salute fisica.
+
+Nessun commento su di lui, ovviamente. Gli ho evitato la compagnia per il resto del tempo.
+
+Titolo del passaggio, su consiglio del capitano, il cui parere sembrava coincidere con quello degli altri.
+
+Condivideva completamente le mie opinioni riguardo alla sua follia, ma mi avvertì…
+
+Senza dire nulla al riguardo a nessuno a bordo.
+
+
+
+Dopo questo episodio, si verificarono diverse circostanze.
+
+Wyatt: un nome che aumentò ancora di più la mia curiosità…
+
+Già posseduto… Tra le altre cose, anche questo: ero stato già posseduto.
+
+Nervoso… Ho bevuto troppo tè verde forte e ho dormito male.
+
+Di [[motifs/night|notte]], anzi, per due notti non sono riuscito a dormire davvero.
+
+Non riuscivo affatto a dormire. Ora, la mia cabina privata si collegava direttamente alla cabina principale.
+
+Sala da pranzo, proprio come quelle di tutti gli uomini single a bordo… Di Wyatt.
+
+Tre stanze si trovavano nella cabina posteriore, che era separata dal…
+
+La porta principale era separata da una sottile porta scorrevole; non veniva mai chiusa a chiave nemmeno di [[motifs/night|notte]].
+
+Eravamo quasi costantemente esposti al [[motifs/wind|vento]], e la brezza non era affatto piacevole.
+
+Un po’ rigido, l’[[motifs/ship|nave]] si inclinò notevolmente verso poppa; e.
+
+Ogni volta che il lato di dritta della nave era rivolto verso la parte meno esposta al vento, la porta scorrevole…
+
+Le cabine si aprirono, e rimasero così: nessuno le richiuse.
+
+“Difficile alzarsi e chiuderla… Ma il mio posto a letto era situato in una posizione così…”
+
+In quella posizione, quando la porta della mia stanza da stato era aperta, proprio come.
+
+La porta scorrevole in questione… e la mia porta era sempre aperta.
+
+"#Di fronte al calore intenso, riuscivo a vedere chiaramente all’interno della cabina posteriore..."
+
+Chiaramente, e proprio in quella parte specifica…
+
+Si trovavano le stanze ufficiali del signor Wyatt. Beh, durante due notti.
+
+Mentre giacevo sveglio, vidi chiaramente la signora W…
+
+Alle undici in punto ogni [[motifs/night|notte]], rubavano con cautela.
+
+La stanza da ricevimento del signor W., e poi l’altra stanza… dove lei…
+
+Rimase lì fino all’alba, quando suo marito la chiamò…
+
+Tornarono indietro. Era evidente che fossero praticamente separati…
+
+Appartamenti separati: non c’è alcun [[concepts/doubt|dubbio]] riguardo all’idea di una sistemazione più permanente.
+
+divorzio; ed ecco, dopo tutto ciò che pensavo fosse il mistero.
+
+fuori dalla zona riservata ai passeggeri di prima classe.
+
+
+
+C'era anche un'altra circostanza che mi interessava molto.
+
+Durante le due notti in cui rimasi sveglio, e subito dopo…
+
+Il scomparire della signora Wyatt nell’altra stanza…
+
+Attratto da certi suoni singolari, cauti e sommessi…
+
+Suo marito. Dopo averli ascoltati per un po', con.
+
+Con attenzione e impegno, alla fine riuscii perfettamente nel mio compito.
+
+Titolo:  
+I suoni prodotti dal loro significato…
+
+[[archetypes/artist|l’artista]], utilizzando un scalpello, iniziò ad aprire la scatola rettangolare.
+
+Mazza… la quale, a quanto pare, era stata attutita o smorzata da qualcosa.
+
+Una morbida sostanza di lana o cotone nella quale la sua testa era avvolta.
+
+
+
+“In questo modo, pensavo di poter individuare con precisione il momento esatto…”
+
+Quando finalmente riuscì ad aprire il coperchio…
+
+Quando lo rimuove del tutto e lo depone lì…
+
+“Letto inferiore nella sua stanza”; quest’ultimo dettaglio lo sapevo, ad esempio…
+
+Alcuni leggeri colpi che il coperchio produceva urtando contro…
+
+“Le bordature di legno del letto… mentre cercava con tutte le sue forze di adagiarlo giù…”
+
+Con delicatezza… poiché non c’era spazio per farlo sul pavimento. Dopo questo…
+
+C’era un silenzio assoluto; non sentii più nulla, da nessuna parte.
+
+Occasione… fino quasi all’alba; a meno che, forse, non possa menzionare qualcosa…
+
+Un debole pianto, o un suono sommesso, così attutito da essere quasi inaudibile…
+
+Quasi inudibile… se mai tutto quel rumore esistesse davvero.
+
+Non fu affatto frutto della mia propria [[concepts/imagination|immaginazione]]; dico semplicemente che sembrava.
+
+Titolo:  
+Sembrerebbe un pianto o un sospiro… ma, ovviamente, non può essere così.
+
+Nessuno dei due. Penso piuttosto che si trattasse di un suono che risuonava nelle mie orecchie. Il signor.
+
+Wyatt, senza alcun [[concepts/doubt|dubbio]], seguendo la consuetudine, stava semplicemente allentando le redini.
+
+A uno dei suoi hobby: indulgere in una delle sue crisi creative
+
+Entusiasmo. Aveva aperto la sua scatola oblunga, pronto a godersi…
+
+“Gli occhi fissi su quel tesoro visivo nascosto al suo interno… Ma in realtà non c’era nulla lì dentro.”
+
+Comunque, per farlo piangere… Ripeto quindi che deve esserci stato un motivo.
+
+“È stato semplicemente un frutto della mia fantasia, alterata dal nobile Capitano…”
+
+Il tè verde di Hardy. Poco prima dell’[[motifs/dawn|'alba]], nelle due notti consecutive.
+
+Quello che dico… ho sentito chiaramente il signor Wyatt rimettere il coperchio sopra…
+
+Quella scatola allungata, e infila i chiodi nei loro posti originali.
+
+Metodi del martello silenziato. Dopo averlo fatto, uscì…
+
+Titolo:  
+Vestito completamente, si recò subito a chiamare la signora W.
+
+di lei.
+
+
+
+Avevamo navigato in mare per sette giorni e ora ci trovavamo al largo di Capo Hatteras.
+
+Quando arrivò un colpo terribilmente forte dal sud-ovest…
+
+Eravamo, in una certa misura, preparati ad affrontarlo, tuttavia, poiché il tempo era…
+
+Stavano minacciando da un po' di tempo. Tutto era stato preparato.
+
+Comodi, rilassati e in alto. E man mano che il [[motifs/wind|vento]] diventava sempre più forte, noi rimanemmo lì.
+
+Infine, sia la vela di trinchetto che quella di maestra furono ammainate con entrambe le vele doppie.
+
+
+
+In questa traversata abbiamo viaggiato in modo abbastanza sicuro per quarantotto ore, la [[motifs/ship|nave]]
+
+Dimostrando di essere un’ottima imbarcazione da mare sotto molti aspetti…
+
+Il trasporto non avveniva attraverso alcun fiume di rilievo. Alla fine di questo periodo.
+
+Comunque, la tempesta si era intensificata fino a diventare un uragano… e noi…
+
+“Dopo la navigazione, le vele si spezzano in strisce… portandoci così tanto nel momento più difficile.”
+
+Dell’[[motifs/water|acqua]] che abbiamo utilizzato per attraversare diversi mari straordinari, uno di essi.
+
+Subito dopo l’uno, subito dopo l’altro… A causa di questo incidente abbiamo perso tre uomini.
+
+“Overboard con il bagagliaio… e quasi tutto il lato sinistro della nave.”
+
+Baluardi. Appena ci eravamo ripresi,…
+
+La vela di trinchetto andò in pezzi quando ci trovammo nel mezzo di una [[motifs/storm|tempesta]]; dovemmo quindi usare la vela di stallo.
+
+E così andò abbastanza bene per alcune ore; la [[motifs/ship|nave]] procedeva verso.
+
+Il mare era molto più calmo di prima.
+
+
+
+La tempesta continuava ad imperversare, e non c’erano segni che stesse per placarsi.
+
+Il sistema di fissaggio risultava mal progettato e inadeguato…
+
+Teso… e al terzo giorno del colpo, verso le cinque…
+
+"#Pomeriggio, il nostro albero di mezzana si piegò pesantemente verso il vento..."
+
+Il consiglio… Per un’ora o più, abbiamo cercato invano di liberarcene.
+
+A causa del prodigioso rollio della [[motifs/ship|navica]]; e, prima ancora di.
+
+Avevamo avuto successo; il falegname si avvicinò e annunciò: “Quattro piedi”.
+
+[[motifs/water|Acqua]] nel ponte di carico. Per peggiorare la nostra situazione, abbiamo trovato anche le pompe.
+
+Soffocato e quasi inutilizzabile.
+
+
+
+Ora regnava solo confusione e [[concepts/despair|disperazione]], ma si fece un tentativo per.
+
+Alleggerire la [[motifs/ship|nave]] gettando in mare il maggior quantitativo possibile del suo carico.
+
+Poteva essere raggiunto… tagliando via i due alberi.
+
+Rimase… Questo finalmente riuscimmo a realizzare… ma ancora non eravamo in grado di…
+
+“Non fare nulla alle pompe… e intanto, il problema del perdita continua.”
+
+Ci ha superato molto rapidamente.
+
+
+
+Al tramonto, la violenza del vento si era notevolmente attenuata.
+
+Il mare scomparve insieme a tutto, ma continuavamo ad aggrapparci a deboli speranze…
+
+Salvandoci nelle barche… Alle otto di sera, le nuvole si aprirono.
+
+Lontano dalla direzione del vento, e avevamo il vantaggio di una luna piena, un vero tesoro.
+
+Di una buona fortuna che servì meravigliosamente a rallegrare il nostro spirito abbattuto
+
+spiriti.
+
+
+
+Dopo un lavoro incredibile, riuscimmo finalmente a ottenere…
+
+"#Longboot calato dal bordo senza incidenti, e dentro questo..."
+
+Tutti i membri dell’equipaggio e la maggior parte dei passeggeri erano ammassati lì dentro.
+
+Il gruppo se ne andò immediatamente e, dopo aver subito molte [[concepts/suffering|sofferenze]].
+
+Finalmente arrivato, sano e salvo, all’Ocracoke Inlet, il terzo giorno.
+
+Dopo l’incidente.
+
+
+
+Quattordici passeggeri, insieme al capitano, rimasero a bordo.
+
+Decisi a affidare il loro destino alla barca allegra che si trovava a poppa.
+
+Abbassammo senza difficoltà, anche se solo di poco…
+
+Il miracolo che ci è riuscito a impedire che si diffondesse non appena ha toccato terra
+
+[[motifs/water|acqua]]. Quando era in superficie, conteneva il capitano e sua moglie, il signor.
+
+Wyatt e compagnia: un ufficiale messicano, sua moglie, quattro figli… e altri compagni di viaggio
+
+Io stesso, accompagnato da un valletto nero.
+
+
+
+Non avevamo certo spazio per nulla, tranne che per poche cose essenziali…
+
+Strumenti necessari, alcune provviste e i vestiti che abbiamo con noi
+
+Dietro le quinte. Nessuno aveva nemmeno pensato di provare a salvare qualcosa.
+
+Titolo:  
+Che stupore deve essersi diffuso tra tutti, allora…
+
+Dopo essersi allontanato di alcuni metri dalla [[motifs/ship|nave]], il signor Wyatt si alzò in piedi.
+
+“Nella parte posteriore della nave, chiese freddamente al Capitano Hardy…”
+
+Il barca deve essere riportata indietro allo scopo di prenderlo a bordo.
+
+Scatola oblunga!
+
+
+
+“Si sieda, signor Wyatt”, rispose il capitano, con un tono piuttosto severo.
+
+“Se non state fermi e tranquilli, rischierete di farci capovolgere… Il nostro Gunwhale…”
+
+Ora è quasi completamente immerso nell’[[motifs/water|acqua]].
+
+
+
+“La scatola!” gridò il signor Wyatt, ancora in piedi, “la scatola, intendo!”
+
+Capitano Hardy, non potete, non rifiuterete… Il suo peso è troppo grande.
+
+Sarà solo una sciocchezza… niente di più, davvero nulla. Per la madre…
+
+Colui che ti ha dato la vita, per l’[[motifs/love|amore]] del Cielo, nella tua [[concepts/hope|speranza]] di salvezza. Io.
+
+“Vi supplico di rimetterlo nella scatola!”
+
+
+
+Il capitano, per un momento, sembrò commosso da quel sincero appello.
+
+Dell’[[archetypes/artist|artista]], ma riacquistò immediatamente la sua compostezza e si limitò a.
+
+Disse:
+
+
+
+“Signor Wyatt, lei è pazzo… Non posso ascoltarla. Si sieda, per favore.”
+
+O altrimenti inonderete la barca… Restate, tenetelo, afferratelo! È quasi lì…
+
+Saltare fuori bordo! Ecco. Lo sapevo, è già lì!
+
+
+
+Quando il capitano disse questo, il signor Wyatt, in realtà, balzò fuori…
+
+Titolo:  
+“Barca… e poiché eravamo ancora al riparo del relitto, riuscimmo…”
+
+Un sforzo quasi sovrumano per afferrare una corda che pendeva…
+
+Dai primi [[motifs/chains|catenacci]]. Nel momento successivo era già a bordo.
+
+Correndo freneticamente verso la cabina.
+
+
+
+Nel frattempo, eravamo stati trascinati indietro rispetto alla [[motifs/ship|nave]], e.
+
+Del tutto al di fuori della sua portata, erano alla [[concepts/mercy|miseria]] del mare impetuoso.
+
+Che continuava ancora a funzionare… Ci impegnammo con determinazione per ripristinarlo.
+
+Ma la nostra piccola barca era come una piuma al soffio del vento…
+
+Tempesta. In un istante vedemmo la rovina di quel sfortunato…
+
+L’[[archetypes/artist|artista]] fu sigillato.
+
+
+
+Man mano che la distanza dal relitto aumentava rapidamente, quel pazzo…
+
+Solo in questo modo potevamo considerarlo… fu visto emergere da…
+
+Compagno di viaggio… un percorso che si attraversa grazie alla forza dimostrata.
+
+Gigantesco com'era, trascinò a forza quella scatola allungata. Mentre noi la fissavamo.
+
+Nella massima estensione della meraviglia, egli fece rapidamente diverse svolte.
+
+“Di una corda lunga tre pollici, prima avvolta intorno alla scatola e poi intorno a lui…”
+
+Il [[concepts/body|corpo]]. Nell’istante successivo, sia il [[concepts/body|corpo]] che la scatola si trovavano all’interno.
+
+Il mare, scompareva all’improvviso, in un istante, per sempre.
+
+
+
+Rimanemmo per un po’ immobili e tristi, tenendo le pagaie in mano, con lo sguardo fisso…
+
+Sul posto stesso. Alla fine ci allontanammo. Il [[motifs/silence|silenzio]] rimase intatto.
+
+Intatto per un’ora. Alla fine, osai fare un commento.
+
+
+
+“Avete notato, capitano, quanto improvvisamente siano affondati? Non è stato strano?”
+
+Una cosa estremamente singolare… Confesso di averne avuto qualche idea.
+
+Debole come era la sua [[concepts/hope|speranza]] di essere finalmente liberato. Quando lo vidi legarsi con le corde.
+
+“Nella scatola… e si abbandoni al mare.”
+
+
+
+“Sono affondati, semplicemente…”, rispose il capitano. “E basta.”
+
+In un attimo. Tuttavia, si rialzeranno presto… ma non prima che…
+
+“Il sale si scioglie.”
+
+
+
+“Il sale!” esclamai.
+
+
+
+“Zitti!” disse il capitano, indicando la moglie e le sorelle di…
+
+“Deceduto… Dobbiamo parlare di queste cose in un contesto più appropriato.”
+
+“[[motifs/time|tempo]]”.
+
+
+
+Abbiamo sofferto molto e siamo riusciti a scappare per un soffio… ma la fortuna…
+
+Si è fatto nostro amico, proprio come i nostri compagni nella barca lunga. Siamo sbarcati.
+
+“In fine, più morto che vivo, dopo quattro giorni di intensità estrema…”
+
+Distress, sulla spiaggia di fronte all’isola di Roanoke. Rimanemmo lì.
+
+“Qui da una settimana, non siamo stati maltrattati dai recuperatori di rottami… e alla fine…”
+
+Riuscì ad ottenere un passaggio per [[settings/new-york|New York]].
+
+
+
+Circa un mese dopo la perdita dell’“Independence”, mi capitò di…
+
+Incontrare il Capitano Hardy a Broadway… La nostra conversazione prese una certa direzione…
+
+Naturalmente, di fronte a quel disastro, e soprattutto di fronte a quella triste sorte…
+
+Povero Wyatt. Fu così che appresi i seguenti dettagli.
+
+
+
+L’[[archetypes/artist|artista]] aveva prenotato un passaggio per sé, sua moglie, due sorelle e.
+
+Un servitore… Sua moglie, infatti, era proprio come era stata descritta.
+
+La donna più adorabile e più raffinata… Nella mattina di…
+
+Il quattordicesimo giugno (il giorno in cui visitai per la prima volta la [[motifs/ship|nave]]).
+
+La signora si ammalò improvvisamente e morì. Il giovane marito…
+
+Disperato per il dolore… ma le circostanze lo impedivano.
+
+Rinvio il proprio viaggio a [[settings/new-york|New York]]. Era necessario agire in quel modo.
+
+“Mentre piange la salma della moglie amata, dall’altra parte…”
+
+Un pregiudizio universale che gli impediva di farlo apertamente…
+
+Ben [[motifs/well|noto]]. Nove decimi dei passeggeri lo avrebbero abbandonato.
+
+La [[motifs/ship|nave]], piuttosto che trasportare un cadavere, preferì non utilizzarlo.
+
+
+
+"In questa situazione difficile, il Capitano Hardy organizzò il trasporto del cadavere..."
+
+Primo parzialmente imbalsamato e confezionato, insieme a una grande quantità di…
+
+Sale, in una scatola delle dimensioni appropriate, deve essere trasportato…
+
+Titolo:  
+“Trattata come merce… Non si poteva dire nulla riguardo alla signora…”
+
+Morte; e poiché era ben chiaro che il signor Wyatt aveva.
+
+Un passaggio dedicato a sua moglie… diventò necessario che qualcosa…
+
+Durante il viaggio, questa persona dovrebbe impersonare la defunta.
+
+La cameriera della signora fu facilmente convinta ad aiutare… Quella stanza aggiuntiva…
+
+Originariamente promesso a questa ragazza durante la vita della sua padrona…
+
+Ora conservato soltanto per forma. In questa stanza da ricevimenti, la “falsa moglie” dormiva…
+
+Certo, ogni [[motifs/night|notte]]. Durante il giorno si esibiva, al meglio delle sue possibilità.
+
+Titolo:  
+Della sua abilità… e del ruolo che ricopriva nei confronti della sua padrona… la cui persona, in quel contesto…
+
+Dopo attente indagini, è risultato che nessuno dei passeggeri lo conoscesse.
+
+A bordo.
+
+
+
+Il mio stesso errore è scaturito, naturalmente, da una troppa negligenza…
+
+Curioso… e troppo impulsivo nel temperamento. Ma di recente, sembra…
+
+È raro che io dorma profondamente di [[motifs/night|notte]]. C’è qualcosa.
+
+Quel volto che mi perseguita, non importa dove io vada… C’è sempre.
+
+Una risata isterica che rimarrà per sempre nelle mie orecchie.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Oblong Box (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/city,motif/home,motif/ship,motif/well,concept/beauty,concept/doubt,concept/friendship,concept/hope,concept/misanthropy,concept/truth,concept/wonder,setting/new_york,setting/ship"></span>

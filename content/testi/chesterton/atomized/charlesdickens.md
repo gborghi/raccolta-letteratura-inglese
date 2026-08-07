@@ -6384,15 +6384,9 @@ on 6 July 1998.)
 
 <span class="qlang-split" data-lang="it"></span>
 
-----------------------------------------------------------------------------
-
-Gilbert Keith Chesterton  
-
-Charles Dickens
-
 PARTE PRIMA
 
-INDICE  
+INDICE
 
 * CAPITOLO I
 L'EPOCA DI DICKENS
@@ -6603,6 +6597,7 @@ dire ch'egli si sia messo in società.  Erano adatti l'uno
 all'altro e alla comune creazione d'una cosa unica quanto Gilbert
 e Sullivan.  Nessun altro illustratore creò mai i veri personaggi
 di Dickens col preciso e giusto quantum d'esagerazione.
+
 Nessun altro illustratore respirò mai la vera atmosfera di Dickens,
 in cui gli scrivani sono scrivani e nondimeno, al [[motifs/time|tempo]] stesso, elfi.
 
@@ -6868,6 +6863,7 @@ sarà in [[motifs/home|casa]].  Lo sentiamo come un Pagano sentirebbe che,
 se un grido rompesse il [[motifs/silence|silenzio]] dopo età d'incredulità, [[characters/apollo|Apollo]] sarebbe
 ancora in ascolto nel suo tempio.  Questi scrittori potranno raccontare
 racconti brevi, ma noi sentiamo che essi sono solo parti d'una lunga storia.
+
 E qui sta il peculiare significato, la peculiare
 sacralità perfino, dei romanzetti da quattro soldi e della comune materia stampata
 fatta per i nostri garzoni.  Qui, in forme fioche e disperate,
@@ -7013,6 +7009,7 @@ ma penso che qualsiasi onesto ammiratore del «[[works/pickwick-(chesterton)|Pic
 è un mutamento non nell'[[archetypes/hero|eroe]] ma nell'intera atmosfera.
 Il punto non è che [[works/pickwick-(chesterton)|Pickwick]] si tramuti in una diversa specie d'uomo;
 è che «Il Circolo Pickwick» si tramuta in una diversa specie di libro.
+
 E per quanto artistiche possano essere entrambe le parti, questa combinazione dev'essere,
 in stretta arte, chiamata inartistica.  Un uomo è del tutto artisticamente
 giustificato nello scrivere un racconto in cui un uomo vile quanto Bob Acres
@@ -7233,13 +7230,13 @@ PARTE SECONDA
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
-Gilbert Keith Chesterton  
+Gilbert Keith Chesterton
 
 Charles Dickens
 
 PARTE SECONDA
 
-INDICE  
+INDICE
 
 * CAPITOLO VII
 DICKENS E IL NATALE

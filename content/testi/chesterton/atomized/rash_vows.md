@@ -171,6 +171,164 @@ is over and a man is burning his ships.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# voti temerari
+
+In difesa dei voti temerari
+
+di G.K. Chesterton
+
+Versione abbreviata di un capitolo del libro di Chesterton The Defendant.
+
+----------------------------------------------------------------------------
+
+Se un prospero uomo moderno, con cilindro e finanziera,
+si impegnasse solennemente dinanzi a tutti i suoi impiegati e amici
+a contare le [[motifs/leaves|foglie]] di ogni terzo albero di Holland Walk, a saltellare
+fino alla [[motifs/city|City]] su una gamba sola ogni giovedì, a ripetere l'intera
+‘Libertà' di Mill settantasei volte, a raccogliere 300 denti di leone
+in campi appartenenti a chiunque porti il nome di Brown, a rimanere
+per trentun ore tenendo l'orecchio sinistro nella mano destra, a cantare
+i nomi di tutte le sue zie in ordine d'età in cima a un omnibus,
+o a intraprendere una qualsiasi impresa altrettanto inconsueta, concluderemmo immediatamente
+che l'uomo era pazzo, o, come talvolta si dice, era un
+‘[[archetypes/artist|artista]] della vita.'  Eppure questi voti non sono più straordinari
+dei voti che nel Medioevo e in epoche simili venivano fatti,
+non da meri fanatici, ma dalle più grandi figure della civiltà
+civica e nazionale—da re, giudici, poeti e sacerdoti.
+Un uomo giurò di incatenare due [[settings/mountains|montagne]] insieme, e la grande
+catena rimase là appesa, si disse, per secoli come monumento di quella
+mistica follia.  Un altro giurò che avrebbe trovato la via per
+Gerusalemme con una benda sugli occhi, e morì cercandola.
+Non è facile vedere come queste due imprese, giudicate da un rigoroso
+punto di vista razionale, siano più assennate degli atti sopra suggeriti.
+Una montagna è comunemente un oggetto stazionario e affidabile che non
+è necessario incatenare la [[motifs/night|notte]] come un cane.  E non è
+facile vedere a prima vista come un uomo renda un altissimo omaggio
+alla Santa [[motifs/city|Città]] mettendosi in cammino verso di essa in condizioni che rendono
+all'ultimo grado improbabile che egli mai vi giunga.
+
+Ma su questo c'è una cosa notevole da osservare.
+Se gli uomini si comportassero in tal modo nel nostro [[motifs/time|tempo]], noi, come abbiamo detto,
+li considereremmo simboli della ‘decadenza.' Ma gli uomini che fecero
+queste cose non erano decadenti; appartenevano in genere alle classi più
+robuste di quella che è generalmente ritenuta un'epoca robusta.
+Di nuovo, si obietterà che se uomini essenzialmente sani compirono
+tali follie, fu sotto la capricciosa direzione di un
+superstizioso sistema religioso.  Anche questo non regge;
+poiché nei dipartimenti puramente terreni e persino sensuali della vita,
+come l'amore e la lussuria, i principi medievali mostrano le stesse folli promesse
+e imprese, la stessa deforme immaginazione e lo stesso mostruoso
+sacrificio di sé. Qui abbiamo una contraddizione, per spiegare la quale
+è necessario pensare all'intera natura dei voti fin dal principio.
+E se consideriamo seriamente e correttamente la natura dei voti,
+giungeremo, se non m'inganno di molto, alla conclusione
+che sia perfettamente assennato, e persino sensato, giurare di incatenare
+insieme le montagne, e che, se una qualche insania è coinvolta,
+sia un po' insano non farlo.
+
+L'uomo che fa un voto prende un appuntamento con sé stesso in qualche
+lontano tempo o luogo.  Il pericolo di ciò è che il sé stesso non
+mantenga l'appuntamento.  E nei tempi moderni questo terrore di sé stessi,
+della debolezza e mutevolezza di sé stessi, è pericolosamente cresciuto,
+ed è la vera base dell'obiezione ai voti di qualsiasi tipo.
+Un uomo moderno si astiene dal giurare di contare le foglie di ogni terzo
+albero di Holland Walk, non perché sia sciocco farlo (fa molte
+cose più sciocche), ma perché ha la profonda convinzione che prima
+di essere giunto alla trecentosettantanovesima foglia del primo albero
+sarebbe eccessivamente stanco del soggetto e vorrebbe tornare a casa per il tè.
+In altre parole, temiamo che per quel tempo egli sarà, secondo la comune
+ma orribilmente significativa espressione, un altro uomo.  Ora, è questa
+orribile fiaba di un uomo che continuamente si trasforma in altri uomini
+a essere l'anima della decadenza.  Che John Paterson debba,
+con apparente calma, attendersi di essere un certo generale Barker
+il lunedì, il dottor Macgregor il martedì, sir Walter Carstairs
+il mercoledì, e Sam Slugg il giovedì, potrà sembrare un incubo;
+ma a quell'incubo diamo il nome di cultura moderna.
+Un grande decadente, ora morto, pubblicò tempo fa una poesia,
+in cui riassunse con forza l'intero spirito del movimento
+dichiarando di poter stare nel cortile della prigione e comprendere interamente
+i sentimenti di un uomo in procinto di essere impiccato.
+
+‘Poiché chi vive più vite d'una
+più d'una morte deve morire.'
+
+E la fine di tutto questo è quell'esasperante orrore d'irrealtà
+che discende sui decadenti, e a paragone del quale il [[motifs/pain|dolore]]
+fisico stesso avrebbe la freschezza di una cosa giovanile.
+L'unico inferno che l'[[concepts/imagination|immaginazione]] possa concepire come il più infernale è recitare
+eternamente un dramma senza neppure il più angusto e sudicio camerino
+in cui essere umani.  E questa è la condizione del decadente,
+dell'esteta, del libero [[archetypes/lover|amante]]. Passare in eterno attraverso
+pericoli che sappiamo non poterci spaventare, prestare giuramenti che
+sappiamo non poterci vincolare, sfidare nemici che sappiamo non poterci vincere—
+questa è la ghignante tirannia della decadenza che si chiama [[concepts/freedom|Libertà]].
+
+Volgiamoci, d'altro canto, a colui che fa voti.
+L'uomo che fece un voto, per quanto folle, diede espressione sana e naturale
+alla [[concepts/greatness|grandezza]] di un grande momento.  Fece voto, per esempio,
+di incatenare l'una all'altra due [[settings/mountains|montagne]], forse simbolo di qualche grande
+sollievo d'[[motifs/love|amore]], o d'[[concepts/aspiration|aspirazione]].  Per quanto breve potesse essere l'attimo della sua risoluzione,
+esso era, come tutti i grandi momenti, un attimo d'[[concepts/immortality|immortalità]],
+e il [[motifs/desire|desiderio]] di dire di esso exegi monumentum aere perennius
+era l'unico sentimento che potesse appagare la sua mente.  L'uomo estetico
+moderno, naturalmente, coglierebbe con facilità l'occasione emotiva;
+farebbe voto di incatenare l'una all'altra due [[settings/mountains|montagne]].  Ma, allora, con
+altrettanta allegria farebbe voto di incatenare la terra alla [[motifs/moon|luna]].
+E la mortificante consapevolezza di non intendere ciò che diceva,
+di non dire, in [[concepts/truth|verità]], nulla di grande momento,
+gli toglierebbe proprio quel senso di audace concretezza che è
+l'emozione di un voto.
+
+La rivolta contro i voti è stata spinta, ai nostri giorni, perfino
+fino a una rivolta contro il voto tipico, quello del [[motifs/marriage|matrimonio]].
+È quanto mai divertente ascoltare gli avversari del [[motifs/marriage|matrimonio]] su questo tema.
+Sembrano immaginare che l'ideale della costanza sia un giogo
+misteriosamente imposto all'umanità dal diavolo, invece di essere,
+com'è, un giogo che tutti gli amanti impongono coerentemente a se stessi.
+Hanno inventato una frase, una frase che è una netta
+contraddizione in due parole — 'libero amore' — come se un amante
+fosse mai stato, o potesse mai essere, libero.  È nella natura dell'amore
+vincolarsi, e l'istituzione del matrimonio non fece che rendere
+all'uomo comune l'omaggio di prenderlo in parola.
+I sapienti moderni offrono all'amante, con un ghigno malevolo,
+le più ampie libertà e la più piena irresponsabilità; ma non
+lo rispettano come lo rispettava la vecchia Chiesa; non scrivono
+il suo giuramento nei cieli, come testimonianza del suo momento più alto.
+Gli concedono ogni libertà tranne la libertà di vendere la propria libertà,
+che è l'unica che egli desideri.
+
+È esattamente questa porta di servizio, questo senso di avere una ritirata alle spalle,
+ciò che, a nostro avviso, è lo spirito sterilizzante del piacere moderno.
+Ovunque c'è il tentativo ostinato e folle di ottenere
+piacere senza pagarlo.  Così, in politica, i moderni sciovinisti
+in pratica dicono: 'Godiamoci il piacere dei conquistatori senza
+le pene dei soldati: sediamoci sui divani e siamo una razza gagliarda.'
+Così, in religione e in morale, i mistici decadenti dicono: 'Godiamoci
+la fragranza della sacra purezza senza i dolori dell'autocontrollo;
+cantiamo inni alternativamente alla Vergine e a Priapo.'  Così, in
+amore, i liberi amatori dicono: 'Godiamoci lo splendore di offrire
+noi stessi senza il pericolo di impegnarci; vediamo
+se non si possa commettere [[concepts/suicide|suicidio]] un numero illimitato di volte.'
+
+Con ogni evidenza, non funzionerà.  Vi sono momenti emozionanti,
+senza dubbio, per lo spettatore, il dilettante, l'esteta;
+ma c'è un brivido noto soltanto al soldato che combatte
+per la propria [[motifs/flag|bandiera]], all'esteta che si affama per la propria
+illuminazione, all'[[archetypes/lover|amante]] che compie finalmente la propria scelta.
+Ed è questa trasfigurante [[concepts/self|auto]]disciplina che rende il voto
+una cosa davvero assennata.  Deve aver appagato perfino la gigantesca fame
+dell'[[motifs/soul|anima]] di un [[archetypes/lover|amante]] o di un poeta il sapere che, in conseguenza
+di un solo istante di decisione, quella strana catena sarebbe pesa
+per secoli sulle Alpi tra i silenzi delle [[motifs/stars|stelle]] e delle nevi.
+Tutt'attorno a noi c'è la [[motifs/city|città]] dei piccoli peccati, ricca di vicoli
+e di ritirate, ma di certo, presto o tardi, la fiamma altissima
+si leverà dal porto ad annunciare che il regno dei codardi
+è finito e che un uomo sta bruciando le proprie navi.
+
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="rash_vows (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/city,motif/leaves,motif/night,motif/pain,motif/time,concept/freedom,concept/imagination,setting/mountains"></span>

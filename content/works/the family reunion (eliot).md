@@ -35,6 +35,15 @@ tags:
 > [!abstract] 
 > Eliot's verse drama transposing the Oresteia onto an English country house: Harry, Lord Monchensey, haunted by the Eumenides and by guilt over his wife's death, seeks expiation and spiritual deliverance while his family clings to surfaces.
 
+## Capitoli / Chapters
+
+- [Part I, Scene 1](/testi/eliot/plays/the_family_reunion#act_1--scene_1)
+- [Part I, Scene 2](/testi/eliot/plays/the_family_reunion#act_1--scene_2)
+- [Part I, Scene 3](/testi/eliot/plays/the_family_reunion#act_1--scene_3)
+- [Part II, Scene 1](/testi/eliot/plays/the_family_reunion#act_2--scene_1)
+- [Part II, Scene 2](/testi/eliot/plays/the_family_reunion#act_2--scene_2)
+- [Part II, Scene 3](/testi/eliot/plays/the_family_reunion#act_2--scene_3)
+
 ## Connections
 
 **Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]

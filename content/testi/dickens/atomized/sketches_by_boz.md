@@ -39231,6 +39231,41 @@ their respective bedrooms, engaged in the important occupation of
 dressing for dinner.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I.
+
+
+La signora Tibbs era, senza dubbio alcuno, la persona più ordinata, più meticolosa e più parsimoniosa che avesse mai vissuto a [[settings/london|Londra]]; e la casa della signora Tibbs era, senza dubbio, la più pulita di tutta la Great Coram-street. L’area intorno alla porta, i gradini, la porta stessa, il pomello in ottone, la targa di bronzo, il campanello e la lampada a ventola erano tutti così puliti e lucidi, grazie a un impegno instancabile nel lavare, pulire e lucidare. La cosa straordinaria era che la targa di bronzo, con l’interessante iscrizione “Signora Tibbs”, non aveva mai preso fuoco a causa dell’usura continua; veniva infatti lucidata con estrema cura. Nelle finestre del salotto c’erano tende dall’aspetto elegante, nelle stanze da letto tende blu e dorate, e, come la signora Tibbs amava vantarsi con orgoglio, “fin sul soffitto” c’erano tende a rotolo. La lampada nel corridoio era così pulita che sembrava una bolla di sapone; si poteva vedere il proprio riflesso su tutti i tavoli e si poteva anche “lucidarsi” la superficie del corpo su qualsiasi sedia. I corrimani erano stati lucidati con cera d’api; persino le ringhiere delle scale brillavano così intensamente da far socchiudere gli occhi.
+
+La signora Tibbs era piuttosto di statura bassa, e il signor Tibbs non era affatto un uomo alto. Inoltre, aveva gambe molto corte; ma, come compensazione, il suo viso era particolarmente lungo. Rispetto a sua moglie, lui rappresentava ciò che il “0” rappresenta nel numero 90: aveva una certa importanza _con_ lei, ma senza di lei non significava nulla. La signora Tibbs parlava sempre; il signor Tibbs raramente apriva bocca; tuttavia, se mai c’era un momento in cui poteva intervenire con una parola – anche quando avrebbe dovuto rimanere in silenzio – lui possedeva quel talento. La signora Tibbs odiava le storie lunghe, e il signor Tibbs ne aveva una, la cui conclusione nessuno dei suoi amici più intimi aveva mai sentito. Iniziava sempre così: “Ricordo quando facevo parte del corpo volontario, nel 1806, ”; ma poiché parlava molto lentamente e a bassa voce, mentre sua moglie parlava molto velocemente e ad alta voce, raramente riusciva a proseguire oltre quella frase introduttiva. Era un esempio davvero “melancolico” di narratore. Il vero “ebreo errante” del genere di storie che Joe Miller raccontava.
+
+Il signor Tibbs godeva di una piccola indipendenza finanziaria rispetto al reddito fornito dalla pensione: circa 43 sterline, 15 scellini e 10 pence all’anno. Suo padre, sua madre e cinque altri membri della stessa famiglia ricevevano una somma simile grazie ai proventi di un paese riconoscente, anche se non si sapeva mai con esattezza per quale servizio. Tuttavia, poiché questa indipendenza finanziaria non era sufficiente a garantire a due persone tutti i lussi della vita, alla diligente moglie del signor Tibbs venne in mente che il modo migliore per utilizzare un eredità di 700 sterline fosse acquistare e arredare una casa decente, in qualche zona ancora poco esplorata tra il British Museum e un villaggio remoto chiamato Somers-town, per ospitare studenti che vi soggiornassero. La strada Great Coram-street fu scelta come luogo ideale. La casa venne arredata di conseguenza; furono assunte due domestiche e un ragazzo; inoltre fu pubblicato un annuncio sui giornali, nel quale si comunicava che “sei persone avrebbero trovato tutte le comodità di una casa accogliente e piacevole, in un ambiente familiare riservato, situata a soli dieci minuti a piedi da, ” ovunque. Arrivarono numerose risposte, con iniziali di ogni tipo; sembrava che tutte le lettere dell’alfabeto fossero desiderose di andare a soggiornare lì. La corrispondenza tra la signora Tibbs e i candidati fu estremamente voluminosa, e si osservò un rigore assoluto nella riservatezza delle informazioni. “E.” non era interessato; “I.” non riusciva a sopportare certe condizioni; “I. O. U.” riteneva che gli accordi proposti non fossero adatti a lui; “G. R.”, invece, non aveva mai dormito in un letto francese. Alla fine, però, tre gentiluomini divennero ospiti della casa della signora Tibbs, su condizioni ritenute “aggradevoli da entrambe le parti”. L’annuncio fu pubblicato di nuovo, e una signora con le sue due figlie propose di aumentare il numero degli ospiti, non la propria famiglia, ma quella della signora Tibbs.
+
+“Che donna incantevole, quella signora Maplesone!” disse la signora Tibbs mentre lei e suo marito sedevano accanto al [[motifs/fire|focolare]] dopo colazione; i gentiluomini erano usciti per le loro rispettive occupazioni. “Che donna incantevole davvero, ” ripeté la piccola signora Tibbs, più come se stesse parlando tra sé che altro, perché non aveva mai l’idea di consultare suo marito al riguardo. “E anche le due figlie sono adorabili. Oggi dobbiamo preparare del pesce; verranno a cena con noi per la prima [[motifs/time|volta]].”
+
+Il signor Tibbs posizionò il poker ad angolo retto rispetto alla [[motifs/fire|>pala da fuoco]], e cercò di parlare, ma si rese conto che non aveva nulla da dire.
+
+“Le giovani signore,” continuò la signora T., “hanno gentilmente offerto di portare il proprio pianoforte.”
+
+Tibbs pensò a quella storia del volontario, ma non osò raccontarla.
+
+Gli venne in mente un’idea geniale.
+
+“È molto probabile, ”, disse lui.
+
+“Per favore, non appoggiare la testa sul foglio,” interruppe la signora Tibbs; “e non mettere i piedi sulla barra di protezione in acciaio. È ancora peggio.”
+
+Tibbs alzò lo sguardo dal foglio e smise di appoggiarsi al parafango, poi proseguì: “È molto probabile che una delle giovani signore si innamori del giovane signor Simpson. E tu sai bene cosa significa un [[motifs/marriage|matrimonio]], ”
+
+“‘A cosa?’” gridò la signora Tibbs. Tibbs, con modestia, ripeté la sua precedente proposta.
+
+“La prego, non menzioni una cosa del genere,” disse la signora T. “Un [[motifs/marriage|matrimonio]], che mi priverebbe dei miei ospiti, no, assolutamente no.”
+
+Tibbs pensava dentro di sé che quell’evento non fosse affatto improbabile, ma poiché non discuteva mai con sua moglie, interruppe quel dialogo, osservando che era “[[motifs/time|ora]] di mettersi al lavoro”. Usciva sempre alle dieci del mattino e tornava alle cinque del pomeriggio, con il viso estremamente sporco e un odore di muffa. Nessuno sapeva cosa facesse o dove andasse; ma la signora Tibbs diceva sempre, con aria molto solenne, che era impegnato nel “[[motifs/city|centro della città]]”.
+
+La signorina Maplesones e i loro genitori, molto competenti, arrivarono nel corso del pomeriggio in una vettura a noleggio, accompagnati da un numero davvero sorprendente di pacchi. Bauli, cappelliere, scatole per guanti e ombrelli, custodie per chitarre, nonché pacchi di tutte le forme immaginabili, avvolti in carta marrone e fissati con spilli, riempirono il corridoio. C’era un continuo andirivieni con i bagagli, una frenesia nel cercare acqua calda per che le signore potessero lavarsi, e un tale trambusto, confusione e attività da parte dei servitori che non si era mai visto prima in Great Coram-street. La piccola signora Tibbs si trovava nel suo elemento: correva avanti e indietro, parlava senza sosta e distribuiva asciugamani e sapone, come una caposala in un ospedale. Solo quando le signore furono finalmente chiuse nelle loro camere da letto, impegnate nell’importante compito di vestirsi per la cena, la casa tornò al suo solito stato di tranquilla serenità.
+
 
 
 <span class="atom-split" data-atom="story_07_chapter_i--part_02" data-title="Sketches by Boz — Chapter I. (part 2)" data-chapter="Chapter I" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/home,motif/lion,motif/love,motif/window,concept/doubt,histref/milton,character/julia,character/milton"></span>
@@ -53716,6 +53751,42 @@ to take fifty of Number 2, without delay.
 And your Dedicator shall ever pray, &c.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Schizzi di giovani gentiluomini
+
+
+Alle giovani signore  
+del Regno Unito di Gran Bretagna e Irlanda;  
+anche alle giovani signore  
+del Principato del Galles,  
+e altresì alle giovani signore  
+residenti nelle isole di Guernsey, Jersey, Alderney e Sark,  
+l’umile dedica del loro devoto ammiratore.
+
+
+# Mostrami.
+
+Che il vostro Dedicatario abbia letto, con sentimenti di virtuosa indignazione, un'opera che si pretende sia “Schizzi di giovani signore”; scritta da Quiz, illustrata da Phiz e pubblicata in un volume, dodicesimo quadro.
+
+Dopo aver esaminato attentamente e con attenzione il suddetto lavoro, il vostro dedicatore ritiene umilmente che tante calunnie contro il vostro onorevole sesso non siano mai state contenute in alcun altro lavoro pubblicato prima, né in dodici volumi né in altri.
+
+Nella pagina del titolo e nella prefazione di detto lavoro, Vostra Onorevole specie viene descritta e classificata come [[motifs/animals|animali]]; e sebbene il vostro Dedicatario non sia attualmente disposto a negare che voi siate davvero [[motifs/animals|animali]], egli ritiene comunque umilmente che non sia appropriato chiamarvi così.
+
+Nella suddetta prefazione, il vostro nobile sesso viene anche descritto come “Trogoliti”; termine che, nonostante quanto il vostro nobile sesso o il suo dedicatore possano affermare al contrario, potrebbe rivelarsi offensivo e irrispettoso.
+
+Che l'autore di detto lavoro si sia dedicato al proprio compito con malizia, premeditazione e cattiveria; un fatto che, secondo il vostro Dedicatore, è ampiamente dimostrato dal fatto che abbia scelto il nome “Quiz”, nome che, a suo parere, indica una conclusione già presa in anticipo e implica l’intenzione di mettere alla prova qualcuno.
+
+Nella realizzazione del suo malvagio piano, il suddetto Quiz, o autore di tale opera, deve aver tradito la fiducia che alcuni membri del vostro nobile sesso avevano riposto in lui; altrimenti non avrebbe mai potuto ottenere tante informazioni relative ai costumi e alle abitudini del vostro nobile sesso nel suo complesso.
+
+Motivato da queste considerazioni, e ulteriormente spinto da varie calunnie e insinuazioni riguardanti il vostro onorevole sesso contenute nell'opera in questione, intitolata “Sketches of Young Ladies”, il suo dedicatore osa pubblicare un'altra opera, anch'essa intitolata “Sketches of Young Gentlemen”, e ora chiede la vostra accettazione e approvazione.
+
+Poiché le giovani signore sono le migliori compagne dei giovani gentiluomini, anche i giovani gentiluomini dovrebbero essere le migliori compagnie delle giovani signore; estendendo questo paragone agli [[motifs/animals|animali]] (per citare il linguaggio irrispettoso di quel quiz), e poi anche agli oggetti inanimati, il vostro dedicatore suggerisce umilmente che coloro tra voi del sesso nobile che hanno acquistato questo “veleno” dovrebbero possedere anche l’antidoto; e che coloro che non sono stati abbastanza imprudenti da assumere il primo, non dovrebbero perdere tempo nell’assumere il secondo. La prevenzione è in ogni caso migliore della cura, come ci viene confermato non solo dall’opinione comune, ma anche dalla saggezza tradizionale.
+
+Per quanto riguarda il suddetto veleno e antidoto, il vostro Dedicatore non ha altre osservazioni da fare se non quelle contenute nelle istruzioni stampate allegate alle pillole del Dottor Morison; in particolare, ogni volta che il vostro sesso onorevole assuma ventiquattro pillole del Numero 1, sarà opportuno assumere immediatamente cinquanta pillole del Numero 2.
+
+E il tuo Dedicatore continuerà sempre a pregare, ecc.
+
 
 
 <span class="atom-split" data-atom="story_12_the_bashful_young_gentleman" data-title="Sketches by Boz — The Bashful Young Gentleman" data-chapter="The Bashful Young Gentleman" data-kind="story" data-tags="motif/blood,motif/pain,motif/silence,motif/time,motif/well,motif/window,concept/beauty"></span>
@@ -55814,6 +55885,40 @@ least, are qualified to make war with women, and are already expert in
 the use of those weapons which are common to the lowest and most
 abandoned of the sex.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Schizzi di giovani coppie
+
+
+UN RIMOSSIMENTO URGENTE, ecc.
+
+Ai gentiluomini d’Inghilterra,  
+(sia essi scapoli che vedovi),  
+la protesta del loro fedele suddito.
+
+
+# Mostrami.
+
+Sua Maestà la Regina Vittoria, per grazia di Dio e del Regno Unito di Gran Bretagna e Irlanda, Difensore della [[concepts/faith|>Fede]], il 23 novembre scorso dichiarò e comunicò al Suo Onorabile Consiglio Privato la Sua intenzione di contrarre matrimonio.
+
+Che Sua Maestà Imperiale, rendendo noto in questo modo il Suo nobile intento al Suo Onorato Consiglio Privato come sopra indicato, abbia utilizzato le seguenti parole: “È mio intendimento unirmi in [[motifs/marriage|matrimonio]] con il Principe Alberto di Sassonia-Coburgo e Gotha”.
+
+Che l'anno attuale sia bisestile, o anno intercalare: in tale periodo è considerato legittimo che qualsiasi signora proponga e presenti richieste di [[motifs/marriage|matrimonio]] a qualsiasi gentiluomo, e insista affinché queste vengano accettate; in caso contrario, il gentiluomo dovrà pagare una determinata multa o pena, ovvero un abito di seta o satinato di prima qualità, da scegliere dalla signora stessa e per il quale dovrà effettuare il pagamento.
+
+Che questi e altri orrori e pericoli con cui il suddetto anno bisestile minacciano i gentiluomini d’Inghilterra in ogni occasione del suo ritorno periodico, siano stati notevolmente aggravati e intensificati dai termini della suddetta comunicazione molto benevola di Sua Maestà, che hanno messo nella testa di diverse giovani donne di questo Regno certe nuove idee distruttive per la pace dell’umanità, idee che prima non avevano mai sfiorato la loro [[concepts/imagination|immaginazione]].
+
+È avvenuto un caso a Camberwell, in cui una giovane signorina ha detto al proprio padre che “intendeva unirsi in [[motifs/marriage|matrimonio]]” con il signor Smith di Stepney; inoltre, è accaduto un altro caso molto preoccupante a Tottenham, in cui una giovane non solo ha espresso l’intenzione di sposare suo cugino John, ma ha anche preso possesso violenta di lui e lo ha effettivamente sposato.
+
+Che simili atti di violenza si verifichino costantemente, non solo nella capitale e nei suoi dintorni, ma in tutto il regno, e che, a meno che la popolazione femminile eccitata non venga rapidamente fermata e contenuta nelle sue azioni illegali, ne derivaranno conseguenze estremamente deplorevoli; tra queste si può prevedere un aumento allarmante della popolazione del paese, con cui nessuno sforzo nel settore agricolo o manifatturiero potrà mai tenere il passo.
+
+Esistono forti motivi per sospettare l’esistenza di un complotto, una cospirazione o un piano estremamente vasto, ordito segretamente da un gran numero di signore nel Regno Unito di Gran Bretagna e Irlanda, il cui ambito si sta ora estendendo in ogni angolo del paese; l’obiettivo e lo scopo di tutto ciò sembrano essere chiaramente quello di organizzare e celebrare un numero enorme e senza precedenti di matrimoni, proprio nel giorno delle nozze della Sua Maestà.
+
+Un simile complotto, cospirazione o piano ha chiaramente un forte retrogusto papista, poiché mira a mettere in difficoltà il clero della Chiesa ufficiale, costringendolo ad affrontare una grande stanchezza mentale e fisica; inoltre, tali complotti papisti vengono fomentati e incoraggiati dai ministri di Sua Maestà. Ciò risulta evidente non solo dal fatto che il principale Segretario di Stato per gli Affari Esteri di Sua Maestà abbia commesso tradimento sposandosi mentre ricopriva tale incarico sotto la [[motifs/crown|Corona]]; ma anche dal fatto che il signor O’Connell abbia dichiarato apertamente che, se avesse una figlia da sposare, lei sarebbe stata data in matrimonio lo stesso giorno di Sua Maestà.
+
+Tali complotti, cospirazioni e intrighi, oltre ad essere pieni di pericoli per la Chiesa Ufficiale e, di conseguenza, per lo Stato, non possono che portare rovina e bancarotta a una vasta classe dei sudditi di Sua Maestà; infatti, un aumento improvviso del numero degli uomini sposati causerebbe, per un certo periodo, una diminuzione dell’affluenza alle taverne, agli hotel, ai biliardi e alle case da gioco, privando i loro proprietari dei profitti abituali. E a dimostrazione ulteriore della gravità e della malvagità di tali piani, si può osservare che tutti i proprietari di taverne, hotel, biliardi e case da gioco – soprattutto questi ultimi – sono fedeli alla religione protestante.
+
+Per tutte queste ragioni, e molte altre non meno gravi e importanti, si fa un appello urgente ai gentiluomini d’Inghilterra (sia essi scapoli che vedovi) affinché intraprendano immediatamente azioni per convocare una riunione pubblica; affinché considerino i mezzi migliori e più sicuri per evitare i pericoli derivanti dalla ricorrenza degli anni bisestili, nonché l’ulteriore disagio causato tra le donne single dai termini della dichiarazione di Sua Maestà; affinché adottino senza indugio misure per contrastare tali donne e sventare i loro piani malvagi; e affinché preghino Sua Maestà di destituire i suoi attuali ministri, chiamando invece nei suoi consigli quei gentiluomini di varie professioni onorevoli che, insultando in ogni occasione l’unica donna d’Inghilterra che può essere insultata senza rischi, hanno fornito una prova sufficiente del fatto che siano almeno qualificati per “fare guerra alle donne” e che siano già esperti nell’uso di quelle armi tipiche dei membri più disprezzabili di quel sesso.
 
 
 

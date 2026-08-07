@@ -788,6 +788,107 @@ Nor feel upon his shuddering cheek
 The kiss of Caiaphas.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+Non portava la sua giubba scarlatta,  
+ché [[motifs/blood|sangue]] e vino sono rossi,  
+e [[motifs/blood|sangue]] e vino aveva sulle mani  
+quando lo trovarono con la morta,  
+la povera morta che aveva amato  
+e ucciso nel suo letto.  
+Camminava fra gli Uomini del Processo  
+in un abito grigio e liso;  
+un berretto da cricket in capo,  
+e il passo pareva lieve e allegro;  
+ma non vidi mai uomo che guardasse  
+il giorno con tanto struggimento.  
+Non vidi mai uomo che guardasse  
+con occhio tanto struggente  
+quel piccolo padiglione d'azzurro  
+che i prigionieri chiamano cielo,  
+e ogni nuvola errante che passava  
+con le sue vele d'argento.  
+Camminavo, con altre anime in [[motifs/pain|pena]],  
+dentro un altro girone,  
+e mi chiedevo se quell'uomo avesse fatto  
+una cosa grande o piccola,  
+quando una voce dietro di me sussurrò piano:  
+«QUELLO LÌ DEVE DONDOLARE».  
+Caro [[characters/christ|Cristo]]! le mura stesse del [[motifs/prison|carcere]]  
+parvero d'un tratto vacillare,  
+e il cielo sopra il mio capo divenne  
+come un elmo d'acciaio rovente;  
+e, per quanto fossi un'[[motifs/soul|anima]] in [[motifs/pain|pena]],  
+la mia [[motifs/pain|pena]] non riuscivo a sentirla.  
+Sapevo solo quale pensiero braccato  
+gli affrettasse il passo, e perché  
+guardasse il giorno sgargiante  
+con occhio tanto struggente;  
+quell'uomo aveva ucciso la cosa che amava,  
+e per questo doveva morire.  
+Eppure ogni uomo uccide ciò che ama:  
+che ognuno se lo senta dire.  
+Chi lo fa con uno sguardo amaro,  
+chi con parola lusinghiera;  
+il vile lo fa con un bacio,  
+l'uomo coraggioso con la spada!  
+Alcuni uccidono il loro [[motifs/love|amore]] da giovani,  
+e altri quando sono vecchi;  
+alcuni strangolano con le mani della Lussuria,  
+altri con le mani dell'Oro:  
+i più pietosi usano il coltello, perché  
+il morto si fa freddo così presto.  
+Alcuni [[motifs/love|amano]] troppo poco, altri troppo a lungo,  
+alcuni vendono, e altri comprano;  
+alcuni compiono il gesto con molte [[motifs/tears|lacrime]],  
+e altri senza un sospiro:  
+perché ogni uomo uccide ciò che ama,  
+eppure non ogni uomo muore.  
+Non muore di una [[motifs/death|morte]] d'infamia  
+in un giorno di nera disgrazia,  
+né ha un cappio intorno al collo,  
+né un panno sopra il viso,  
+né cade coi piedi avanti giù dal palco  
+dentro uno spazio vuoto.  
+Non siede con uomini silenziosi  
+che lo sorvegliano [[motifs/night|notte]] e giorno;  
+che lo sorvegliano quando tenta di piangere,  
+e quando tenta di pregare;  
+che lo sorvegliano perché egli stesso non derubi  
+il [[motifs/prison|carcere]] della sua preda.  
+Non si sveglia all'[[motifs/dawn|alba]] per vedere  
+figure tremende affollargli la cella,  
+il Cappellano tremante vestito di bianco,  
+lo Sceriffo severo e cupo,  
+e il Direttore tutto in nero lucido,  
+con la faccia gialla della Condanna.  
+Non si alza in pietosa fretta  
+per indossare gli abiti del forzato,  
+mentre un Dottore dalla bocca volgare gongola,  
+e annota  
+ogni nuova posa scossa dai nervi,  
+palpando un orologio i cui piccoli scatti  
+sono come orribili colpi di martello.  
+Non conosce quella sete nauseante  
+che insabbia la gola, prima  
+che il boia con i suoi guanti da giardiniere  
+sgusci per la porta imbottita  
+e ti leghi con tre cinghie di cuoio,  
+perché la gola non abbia più sete.  
+Non china il capo per udire  
+l'Ufficio dei Morti letto,  
+né, mentre il terrore della sua [[motifs/soul|anima]]  
+gli dice che non è morto,  
+[[motifs/cross|incrocia]] la propria bara, muovendo  
+verso l'orrenda tettoia.  
+Non fissa l'aria  
+attraverso un piccolo tetto di vetro:  
+non prega con labbra d'argilla  
+che la sua agonia passi;  
+né sente sulla guancia rabbrividita  
+il bacio di Caifa.
+
 
 
 <span class="atom-split" data-atom="section_02_part_ii" data-title="The Ballad of Reading Gaol — Part II" data-chapter="part II" data-kind="section" data-tags="motif/cave,motif/dance,motif/leaves,motif/love,motif/night,motif/pain,motif/prison,motif/soul,motif/storm,concept/despair,concept/hope,concept/self"></span>
@@ -873,6 +974,88 @@ And God from out His care:
 And the iron gin that waits for Sin  
 Had caught us in its snare.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II  
+Sei settimane la nostra guardia batté il cortile,  
+nell'abito grigio e liso:  
+aveva in capo il berretto da cricket,  
+e il passo pareva lieve e allegro,  
+ma non vidi mai uomo che guardasse  
+il giorno con tanto struggimento.  
+Non vidi mai uomo che guardasse  
+con occhio tanto struggente  
+quel piccolo padiglione d'azzurro  
+che i prigionieri chiamano cielo,  
+e ogni nuvola vagante che trascinava  
+i suoi velli sfilacciati.  
+Non si torceva le mani, come fanno  
+quegli uomini insensati che osano  
+tentare di allevare la [[concepts/hope|Speranza]], figlia scambiata,  
+nella [[motifs/cave|caverna]] della nera [[concepts/despair|Disperazione]]:  
+guardava soltanto il sole,  
+e beveva l'aria del mattino.  
+Non si torceva le mani né piangeva,  
+né sbirciava né si struggeva,  
+ma beveva l'aria come se contenesse  
+un qualche salubre calmante;  
+a bocca aperta beveva il sole  
+come se fosse stato vino!  
+E io e tutte le anime in [[motifs/pain|pena]],  
+che battevamo l'altro girone,  
+dimenticammo se noi stessi avessimo fatto  
+una cosa grande o piccola,  
+e guardavamo con occhi di ottuso stupore  
+l'uomo che doveva dondolare.  
+Ed era strano vederlo passare  
+con un passo così lieve e allegro,  
+ed era strano vederlo guardare  
+il giorno con tanto struggimento,  
+ed era strano pensare che avesse  
+un simile debito da pagare.  
+Ché la quercia e l'olmo hanno liete [[motifs/leaves|foglie]]  
+che a primavera germogliano:  
+ma tetro a vedersi è l'albero della forca,  
+con la radice morsa dalla vipera,  
+e, verde o secco, un uomo deve morire  
+prima che porti il suo frutto!  
+Il posto più alto è quel seggio di grazia  
+a cui aspirano tutti i mondani:  
+ma chi vorrebbe stare in una fascia di canapa  
+su un patibolo alto,  
+e attraverso il collare di un assassino dare  
+al cielo il suo ultimo sguardo?  
+È dolce [[motifs/dance|danzare]] al suono dei violini  
+quando [[motifs/love|Amore]] e Vita sono belli:  
+[[motifs/dance|danzare]] ai flauti, [[motifs/dance|danzare]] ai liuti  
+è delicato e raro:  
+ma non è dolce con piede agile  
+[[motifs/dance|danzare]] sull'aria!  
+Così con occhi curiosi e malato sospetto  
+lo guardavamo giorno dopo giorno,  
+e ci chiedevamo se ognuno di noi  
+avrebbe finito allo [[concepts/self|stesso]] modo,  
+ché nessuno può dire verso quale rosso Inferno  
+la sua [[motifs/soul|anima]] cieca possa smarrirsi.  
+Alla fine il morto non camminò più  
+fra gli Uomini del Processo,  
+e seppi che stava ritto in piedi  
+nel terribile recinto del nero banco,  
+e che mai più avrei visto il suo volto  
+nel dolce mondo di Dio.  
+Come due navi perdute che s'incrociano nella [[motifs/storm|tempesta]]  
+avevamo incrociato le nostre rotte:  
+ma non facemmo cenno, non dicemmo parola,  
+non avevamo parola da dire;  
+perché non c'incontrammo nella santa [[motifs/night|notte]],  
+ma nel giorno vergognoso.  
+Un muro di [[motifs/prison|carcere]] ci cingeva entrambi,  
+due reietti eravamo:  
+il mondo ci aveva scacciati dal suo cuore,  
+e Dio dalla sua cura:  
+e la tagliola di ferro che attende il Peccato  
+ci aveva presi nel suo laccio.
 
 
 
@@ -1104,6 +1287,232 @@ For he who lives more lives than one
 More deaths than one must die.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III  
+Nel Cortile dei Debitori le pietre son dure,  
+e alto è il muro gocciolante,  
+così fu là che prese aria  
+sotto il cielo di piombo,  
+e a ogni fianco camminava un Guardiano,  
+per [[concepts/fear|paura]] che l'uomo morisse.  
+Oppure sedeva con quelli che vegliavano  
+la sua angoscia [[motifs/night|notte]] e giorno;  
+che lo guardavano quando si [[motifs/rose|alzava]] a piangere,  
+e quando si accucciava a pregare;  
+che lo guardavano perché egli stesso non derubasse  
+il loro patibolo della sua preda.  
+Il Direttore era intransigente  
+sul Regolamento:  
+il Dottore diceva che la [[motifs/death|Morte]] non era  
+che un fatto scientifico:  
+e due volte al giorno passava il Cappellano,  
+e lasciava un piccolo opuscolo.  
+E due volte al giorno lui fumava la pipa  
+e beveva il suo boccale di birra:  
+la sua [[motifs/soul|anima]] era risoluta, e non teneva  
+nascondiglio per la [[concepts/fear|paura]];  
+diceva spesso di essere contento  
+che le mani del boia fossero vicine.  
+Ma perché dicesse cosa così strana  
+nessun Guardiano osava chiedere:  
+ché colui a cui la condanna di vegliare  
+è data come compito  
+deve mettere un lucchetto alle labbra  
+e fare del proprio volto una maschera.  
+Altrimenti potrebbe commuoversi, e tentare  
+di confortare o consolare:  
+e che dovrebbe fare l'umana Pietà  
+rinchiusa nella Fossa degli Assassini?  
+Quale parola di grazia in un luogo simile  
+potrebbe aiutare l'[[motifs/soul|anima]] di un fratello?  
+Con passo strascicato e ondeggiante intorno al girone  
+battevamo la Parata dei Folli!  
+Non ce ne curavamo: sapevamo di essere  
+la Brigata del Diavolo in persona:  
+e testa rasata e piedi di piombo  
+fanno un'allegra mascherata.  
+Sfilacciavamo la corda catramata  
+con unghie smussate e sanguinanti;  
+strofinavamo le porte, e lavavamo i pavimenti,  
+e pulivamo le ringhiere lucenti:  
+e, fila dopo fila, insaponavamo l'asse,  
+e sbatacchiavamo i secchi.  
+Cucivamo i sacchi, spaccavamo le pietre,  
+giravamo il trapano polveroso:  
+battevamo le gamelle, e urlavamo gli inni,  
+e sudavamo sul mulino:  
+ma nel cuore di ogni uomo  
+il Terrore se ne stava immobile.  
+Così immobile che ogni giorno  
+strisciava come un'onda ingombra d'alghe:  
+e dimenticavamo l'amara sorte  
+che attende lo [[archetypes/fool|stolto]] e il furfante,  
+finché una volta, rientrando dal lavoro,  
+passammo accanto a una [[motifs/grave|fossa]] aperta.  
+Con bocca spalancata la buca gialla  
+era aperta per una cosa viva;  
+il fango stesso gridava [[motifs/blood|sangue]]  
+all'assetato girone d'asfalto:  
+e sapemmo che prima che un'[[motifs/dawn|alba]] si facesse chiara  
+qualche prigioniero doveva dondolare.  
+Dritti entrammo, con l'[[motifs/soul|anima]] intenta  
+alla [[motifs/death|Morte]], allo Sgomento e alla Condanna:  
+il boia, con la sua borsetta,  
+passò strascicando i piedi nella penombra:  
+e ogni uomo tremò mentre s'infilava  
+nella sua tomba numerata.  
+Quella [[motifs/night|notte]] i corridoi vuoti  
+erano pieni di forme di [[concepts/fear|Paura]],  
+e su e giù per la città di ferro  
+passavano furtivi passi che non udivamo,  
+e attraverso le sbarre che nascondono le [[motifs/stars|stelle]]  
+parevano affacciarsi volti bianchi.  
+Egli giaceva come chi giace e [[motifs/dreams|sogna]]  
+in un ameno prato,  
+le guardie lo guardavano dormire,  
+e non riuscivano a capire  
+come si potesse [[motifs/sleep|dormire]] un [[motifs/sleep|sonno]] così dolce  
+con un boia lì accanto.  
+Ma non c'è [[motifs/sleep|sonno]] quando devono piangere uomini  
+che ancora non hanno mai pianto:  
+così noi — lo [[archetypes/fool|stolto]], l'imbroglione, il furfante —  
+tenemmo quella veglia infinita,  
+e per ogni cervello, su mani di [[motifs/pain|pena]],  
+strisciava il terrore di un altro.  
+Ahimè! è cosa tremenda  
+sentire la [[concepts/guilt|colpa]] di un altro!  
+Ché, proprio dentro, la spada del Peccato  
+penetrò fino all'elsa avvelenata,  
+e come piombo fuso furono le [[motifs/tears|lacrime]] che versammo  
+per il [[motifs/blood|sangue]] che non avevamo versato.  
+I Guardiani con le scarpe di feltro  
+strisciavano accanto a ogni porta lucchettata,  
+e sbirciavano e vedevano, con occhi atterriti,  
+figure grigie sul pavimento,  
+e si chiedevano perché s'inginocchiassero a pregare  
+uomini che non avevano mai pregato.  
+Per tutta la [[motifs/night|notte]] restammo in ginocchio a pregare,  
+folli piangenti di un cadavere!  
+I pennacchi inquieti della mezzanotte erano  
+i pennacchi sopra un carro funebre:  
+e vino amaro su una spugna  
+era il sapore del Rimorso.  
+Cantò il gallo grigio, cantò il gallo rosso,  
+ma il giorno non veniva mai:  
+e forme storte del Terrore s'acquattavano  
+negli angoli dove giacevamo:  
+e ogni spirito maligno che cammina di [[motifs/night|notte]]  
+pareva danzare davanti a noi.  
+Scivolavano oltre, scivolavano rapidi,  
+come viaggiatori dentro una nebbia:  
+schernivano la [[motifs/moon|luna]] in un rigodone  
+di delicati giri e torsioni,  
+e con passo cerimonioso e grazia ripugnante  
+i fantasmi tenevano il loro convegno.  
+Con smorfie e boccacce li vedemmo andare,  
+esili ombre mano nella mano:  
+intorno, intorno, in spettrale ridda  
+battevano una sarabanda:  
+e i grotteschi dannati facevano arabeschi,  
+come il [[motifs/wind|vento]] sulla sabbia!  
+Con le piroette delle marionette,  
+saltellavano sulla punta dei piedi:  
+ma di flauti di [[concepts/fear|Paura]] riempivano l'orecchio,  
+mentre conducevano la loro macabra [[forms/masque|mascherata]],  
+e cantavano forte, e cantavano a lungo,  
+ché cantavano per svegliare i morti.  
+«Oho!» gridavano, «il mondo è vasto,  
+ma le membra in ceppi vanno zoppe!  
+E una volta, o due, gettare i dadi  
+è gioco da gentiluomini,  
+ma non vince chi gioca col Peccato  
+nella segreta Casa della Vergogna.»  
+Non erano cose d'aria quelle buffonerie  
+che folleggiavano con tanta allegria:  
+per uomini le cui vite erano tenute nei ferri,  
+e i cui piedi non potevano andare liberi,  
+ah, piaghe di [[characters/christ|Cristo]]! erano cose vive,  
+terribilissime a vedersi.  
+Intorno, intorno, valzeggiavano e si attorcevano;  
+alcuni roteavano in coppie sogghignanti;  
+col passo affettato di una donnetta equivoca  
+alcuni salivano di sbieco le scale:  
+e con sottile sogghigno e sguardo adulatore  
+ciascuno ci assisteva nelle preghiere.  
+Il [[motifs/wind|vento]] del mattino cominciò a gemere,  
+ma la [[motifs/night|notte]] continuava ancora:  
+nel suo telaio gigantesco la trama del buio  
+strisciò finché ogni filo fu filato:  
+e, mentre pregavamo, ci prese paura  
+della Giustizia del Sole.  
+Il [[motifs/wind|vento]] gemente andava vagando intorno  
+al muro piangente del [[motifs/prison|carcere]]:  
+finché come una [[motifs/wheel|ruota]] d'acciaio in giro  
+sentimmo strisciare i minuti:  
+o [[motifs/wind|vento]] gemente! che cosa avevamo fatto  
+per avere un tale siniscalco?  
+Alla fine vidi le sbarre in ombra,  
+come un graticcio lavorato in piombo,  
+muoversi attraverso il muro imbiancato  
+di fronte al mio letto di tre assi,  
+e seppi che in qualche parte del mondo  
+la tremenda [[motifs/dawn|alba]] di Dio era rossa.  
+Alle sei in [[motifs/clock|punto]] pulimmo le celle,  
+alle sette tutto era immobile,  
+ma il fruscio e il battito di un'ala possente  
+pareva riempire il [[motifs/prison|carcere]],  
+ché il Signore della [[motifs/death|Morte]] con fiato di ghiaccio  
+era entrato per uccidere.  
+Non passò in pompa purpurea,  
+né cavalcò un destriero bianco di [[motifs/moon|luna]].  
+Tre iarde di corda e un'asse scorrevole  
+sono tutto ciò che serve alla forca:  
+così con corda d'infamia venne l'Araldo  
+a compiere il gesto segreto.  
+Eravamo come uomini che a tastoni vanno  
+per una palude di sozza oscurità:  
+non osavamo esalare una [[motifs/prayer|preghiera]],  
+né dare sfogo alla nostra angoscia:  
+qualcosa era morto in ciascuno di noi,  
+e ciò che era morto era la [[concepts/hope|Speranza]].  
+Ché la truce Giustizia dell'Uomo va per la sua strada,  
+e non devia di lato:  
+uccide il debole, uccide il forte,  
+ha un passo micidiale:  
+con tacco di ferro uccide il forte,  
+il mostruoso parricida!  
+Aspettavamo il rintocco delle otto:  
+ogni lingua era spessa di sete:  
+ché il rintocco delle otto è il rintocco del Fato  
+che rende un uomo maledetto,  
+e il Fato userà un nodo scorsoio  
+per il migliore e per il peggiore.  
+Non avevamo altro da fare  
+che aspettare che venisse il segnale:  
+così, come cose di pietra in una valle deserta,  
+stavamo seduti quieti e muti:  
+ma il cuore di ognuno batteva fitto e rapido,  
+come un pazzo su un tamburo!  
+Con urto improvviso, del [[motifs/prison|carcere]] l'[[motifs/clock|orologio]]  
+percosse l'aria tremante,  
+e da tutta la prigione si [[motifs/rose|levò]] un lamento  
+d'impotente [[concepts/despair|disperazione]],  
+come il suono che odono le paludi spaurite  
+da qualche lebbroso nella sua tana.  
+E come si vedono cose paurosissime  
+nel cristallo di un sogno,  
+vedemmo l'unta corda di canapa  
+agganciata alla trave annerita,  
+e udimmo la [[motifs/prayer|preghiera]] che il laccio del boia  
+strangolò in un urlo.  
+E tutto il dolore che tanto lo commosse  
+da fargli lanciare quel grido amaro,  
+e i rimpianti selvaggi, e i sudori di sangue,  
+nessuno li conobbe [[motifs/well|bene]] come me:  
+ché chi vive più vite d'una  
+più morti d'una deve morire.
+
 
 
 <span class="atom-split" data-atom="section_04_part_iv" data-title="The Ballad of Reading Gaol — Part IV" data-chapter="part IV" data-kind="section" data-tags="archetype/pilgrim,motif/blood,motif/cross,motif/flowers,motif/grave,motif/memory,motif/moon,motif/night,motif/noon,motif/pain,motif/prison,motif/rose,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/common_man,concept/despair,concept/fear,concept/freedom,character/christ,character/sunday"></span>
@@ -1250,6 +1659,148 @@ For his mourners will be outcast men,
 And outcasts always mourn  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV  
+Non c'è cappella nel giorno  
+in cui impiccano un uomo:  
+il cuore del Cappellano è troppo malato,  
+o il suo volto è troppo smorto,  
+o c'è scritto nei suoi occhi  
+qualcosa che nessuno dovrebbe guardare.  
+Così ci tennero chiusi fin quasi a [[motifs/noon|mezzogiorno]],  
+e poi suonarono la campana,  
+e i Guardiani con le chiavi tintinnanti  
+aprirono ogni cella in ascolto,  
+e giù per la scala di ferro scendemmo pesanti,  
+ciascuno dal suo Inferno separato.  
+Uscimmo nella dolce aria di Dio,  
+ma non nel modo consueto,  
+ché il volto di quest'uomo era bianco di [[concepts/fear|paura]],  
+e il volto di quell'altro era grigio,  
+e non vidi mai uomini tristi che guardassero  
+il giorno con tanto struggimento.  
+Non vidi mai uomini tristi che guardassero  
+con occhio tanto struggente  
+quel piccolo padiglione d'azzurro  
+che noi prigionieri chiamavamo cielo,  
+e ogni nuvola incurante che passava  
+in felice [[concepts/freedom|libertà]].  
+Ma c'erano fra noi tutti alcuni  
+che camminavano a capo chino,  
+e sapevano che, se ognuno avesse avuto il suo,  
+sarebbero morti loro al suo posto:  
+egli aveva ucciso solo una cosa che viveva,  
+mentre loro avevano ucciso il morto.  
+Ché chi pecca una seconda [[motifs/time|volta]]  
+risveglia un'[[motifs/soul|anima]] morta alla [[motifs/pain|pena]],  
+e la trae dal suo sudario macchiato,  
+e la fa sanguinare di nuovo,  
+e la fa sanguinare a grossi fiotti di [[motifs/blood|sangue]],  
+e la fa sanguinare invano!  
+Come scimmie o pagliacci, in vesti mostruose  
+stellate di frecce storte,  
+in silenzio giravamo e giravamo  
+il viscido cortile d'asfalto;  
+in silenzio giravamo e giravamo,  
+e nessuno diceva parola.  
+In silenzio giravamo e giravamo,  
+e per ogni mente vuota  
+la [[motifs/memory|Memoria]] di cose tremende  
+irrompeva come un [[motifs/wind|vento]] tremendo,  
+e l'Orrore incedeva davanti a ciascuno,  
+e il Terrore strisciava dietro.  
+I Guardiani andavano impettiti su e giù,  
+e custodivano il loro gregge di bruti,  
+le divise erano lustre e in ordine,  
+e portavano l'abito della [[characters/sunday|domenica]],  
+ma noi sapevamo a che lavoro erano stati,  
+dalla calce viva sugli stivali.  
+Ché dove una [[motifs/grave|fossa]] si era spalancata,  
+non c'era [[motifs/grave|tomba]] alcuna:  
+solo un tratto di fango e sabbia  
+lungo l'orrendo muro del [[motifs/prison|carcere]],  
+e un piccolo mucchio di calce ardente,  
+perché l'uomo avesse il suo drappo funebre.  
+Ché un drappo ce l'ha, quest'uomo miserabile,  
+quale pochi possono vantare:  
+giù in fondo, sotto un cortile di [[motifs/prison|carcere]],  
+nudo per maggiore vergogna,  
+giace, con i ceppi a ciascun piede,  
+avvolto in un lenzuolo di fiamma!  
+E per tutto il tempo la calce ardente  
+divora carne e ossa,  
+divora l'osso fragile di [[motifs/night|notte]],  
+e la carne molle di giorno,  
+divora a turno la carne e l'osso,  
+ma divora il cuore sempre.  
+Per tre lunghi anni non semineranno  
+là né radice né pianticella:  
+per tre lunghi anni il luogo maledetto  
+resterà sterile e nudo,  
+e guarderà il cielo stupito  
+con occhio senza rimprovero.  
+Credono che il cuore di un assassino contaminerebbe  
+ogni semplice seme che seminano.  
+Non è vero! La terra benigna di Dio  
+è più benigna di quanto gli uomini sappiano,  
+e la [[motifs/rose|rosa]] rossa sboccerebbe solo più rossa,  
+la [[motifs/rose|rosa]] bianca più bianca.  
+Dalla sua bocca una rossa, rossa [[motifs/rose|rosa]]!  
+Dal suo cuore una bianca!  
+Ché chi può dire per quale strana via  
+[[characters/christ|Cristo]] porta alla luce la sua volontà,  
+se il bastone secco che il [[archetypes/pilgrim|pellegrino]] portava  
+fiorì sotto gli occhi del grande Papa?  
+Ma né la [[motifs/rose|rosa]] bianca come il latte né la rossa  
+possono fiorire nell'aria del [[motifs/prison|carcere]];  
+il coccio, il ciottolo e la selce  
+sono ciò che ci danno là:  
+ché si è saputo di [[motifs/flowers|fiori]] che hanno guarito  
+l'[[concepts/common-man|uomo comune]] dalla sua [[concepts/despair|disperazione]].  
+Così mai [[motifs/rose|rosa]] rosso vino o bianca  
+cadrà, petalo dopo petalo,  
+su quel tratto di fango e sabbia che giace  
+lungo l'orrendo muro del [[motifs/prison|carcere]],  
+a dire agli uomini che battono il cortile  
+che il Figlio di Dio morì per tutti.  
+Eppure, benché l'orrendo muro del [[motifs/prison|carcere]]  
+ancora lo cinga tutt'intorno,  
+e non possa camminare di [[motifs/night|notte]] uno spirito  
+che è legato dai ceppi,  
+e possa solo piangere uno spirito che giace  
+in terra così sconsacrata,  
+egli è in pace — quest'uomo miserabile —  
+in pace, o presto lo sarà:  
+non c'è nulla che possa farlo impazzire,  
+né il Terrore cammina a [[motifs/noon|mezzogiorno]],  
+ché la Terra senza lampade in cui giace  
+non ha né Sole né [[motifs/moon|Luna]].  
+Lo impiccarono come si impicca una bestia:  
+non suonarono nemmeno  
+un requiem che potesse portare  
+riposo alla sua [[motifs/soul|anima]] atterrita,  
+ma in fretta lo portarono via  
+e lo nascosero in una buca.  
+Gli strapparono le vesti di tela  
+e lo diedero alle mosche:  
+schernirono la gola gonfia e paonazza,  
+e gli occhi fissi e sbarrati:  
+e con risa sguaiate ammucchiarono il sudario  
+in cui giace il loro forzato.  
+Il Cappellano non volle inginocchiarsi a pregare  
+presso la sua [[motifs/grave|tomba]] disonorata:  
+né segnarla con quella [[motifs/cross|Croce]] benedetta  
+che [[characters/christ|Cristo]] diede ai peccatori,  
+perché quell'uomo era uno di quelli  
+che [[characters/christ|Cristo]] scese a salvare.  
+Eppure tutto è [[motifs/well|bene]]; egli non ha fatto che passare  
+al termine assegnato della Vita:  
+e [[motifs/tears|lacrime]] straniere colmeranno per lui  
+l'urna da tempo infranta della Pietà,  
+ché i suoi cordogliosi saranno reietti,  
+e i reietti portano sempre il lutto
+
 
 
 <span class="atom-split" data-atom="section_05_part_v" data-title="The Ballad of Reading Gaol — Part V" data-chapter="part v" data-kind="section" data-tags="archetype/child,archetype/fool,motif/blood,motif/chalk,motif/death,motif/dust,motif/machine,motif/moon,motif/night,motif/poison,motif/prison,motif/silence,motif/sleep,motif/snow,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/despair,character/cain,character/christ"></span>
@@ -1360,6 +1911,112 @@ And the crimson stain that was of [[characters/cain|Cain]]
 Became [[characters/christ|Christ]]’s [[motifs/snow|snow]]-white seal.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V  
+Non so se le Leggi siano giuste,  
+o se le Leggi siano ingiuste;  
+tutto ciò che sappiamo noi che giacciamo in carcere  
+è che il muro è saldo;  
+e che ogni giorno è come un anno,  
+un anno dai giorni lunghi.  
+Ma questo so: che ogni Legge  
+che gli uomini hanno fatto per l'Uomo,  
+da quando l'Uomo tolse la vita al fratello  
+e cominciò il triste mondo,  
+non fa che disperdere il grano e serbare la pula  
+con un ventilabro malvagio.  
+Anche questo so — e saggio sarebbe  
+che ognuno sapesse lo stesso —  
+che ogni [[motifs/prison|carcere]] che gli uomini costruiscono  
+è costruito con mattoni di vergogna,  
+e cinto di sbarre perché [[characters/christ|Cristo]] non veda  
+come gli uomini mutilano i loro fratelli.  
+Con le sbarre offuscano la gentile [[motifs/moon|luna]],  
+e accecano il buon sole:  
+e fanno [[motifs/well|bene]] a nascondere il loro Inferno,  
+ché dentro vi si compiono cose  
+che né Figlio di Dio né figlio d'Uomo  
+dovrebbe mai guardare!  
+Le azioni più vili, come erbe di [[motifs/poison|veleno]],  
+fioriscono [[motifs/well|bene]] nell'aria del [[motifs/prison|carcere]];  
+è solo ciò che nell'Uomo è buono  
+che là si consuma e appassisce:  
+la pallida Angoscia custodisce il pesante cancello,  
+e il Guardiano è la [[concepts/despair|Disperazione]].  
+Ché affamano il piccolo [[archetypes/child|bambino]] spaurito  
+finché piange [[motifs/night|notte]] e giorno:  
+e flagellano il debole, e frustano lo [[archetypes/fool|stolto]],  
+e scherniscono il vecchio incanutito,  
+e alcuni impazziscono, e tutti si guastano,  
+e nessuno può dire parola.  
+Ogni angusta cella in cui viviamo  
+è una latrina immonda e buia,  
+e il fiato fetido della [[motifs/death|Morte]] viva  
+soffoca ogni grata,  
+e tutto, tranne la Lussuria, è ridotto in [[motifs/dust|polvere]]  
+nella [[motifs/machine|macchina]] dell'Umanità.  
+L'[[motifs/water|acqua]] salmastra che beviamo  
+striscia di una melma ributtante,  
+e il pane amaro che pesano sulla bilancia  
+è pieno di [[motifs/chalk|gesso]] e di calce,  
+e il [[motifs/sleep|Sonno]] non si corica, ma cammina  
+con occhi stralunati, e grida al [[motifs/time|Tempo]].  
+Ma benché la Fame magra e la Sete verde  
+lottino come aspide e vipera,  
+poco c'importa del rancio del [[motifs/prison|carcere]],  
+ché quel che gela e uccide sul colpo  
+è che ogni pietra che si solleva di giorno  
+diventa il proprio cuore di [[motifs/night|notte]].  
+Con la mezzanotte sempre nel cuore,  
+e il crepuscolo nella cella,  
+giriamo la manovella, o sfilacciamo la corda,  
+ciascuno nel suo Inferno separato,  
+e il [[motifs/silence|silenzio]] è assai più tremendo  
+del suono di una campana di bronzo.  
+E mai voce umana si avvicina  
+per dire una parola gentile:  
+e l'occhio che sorveglia dallo spioncino  
+è spietato e duro:  
+e dimenticati da tutti, imputridiamo e imputridiamo,  
+con l'[[motifs/soul|anima]] e il [[concepts/body|corpo]] guasti.  
+E così arrugginiamo la catena di ferro della Vita  
+degradati e soli:  
+e alcuni imprecano, e alcuni piangono,  
+e alcuni non emettono lamento:  
+ma le eterne Leggi di Dio sono benigne  
+e spezzano il cuore di pietra.  
+E ogni cuore umano che si spezza,  
+in cella o in cortile di [[motifs/prison|carcere]],  
+è come quel vaso infranto che diede  
+il suo tesoro al Signore,  
+e riempì la casa del lebbroso immondo  
+del profumo del nardo più prezioso.  
+Ah! felici coloro il cui cuore sa spezzarsi  
+e conquistare la pace del perdono!  
+In quale altro modo l'uomo può raddrizzare il suo disegno  
+e mondare l'[[motifs/soul|anima]] dal Peccato?  
+In quale altro modo, se non per un cuore spezzato,  
+può entrare il Signore [[characters/christ|Cristo]]?  
+E colui dalla gola gonfia e paonazza,  
+e dagli occhi fissi e sbarrati,  
+attende le sante mani che portarono  
+il Ladrone in Paradiso;  
+e un cuore spezzato e contrito  
+il Signore non disprezzerà.  
+L'uomo in rosso che legge la Legge  
+gli diede tre settimane di vita,  
+tre piccole settimane per guarire  
+l'[[motifs/soul|anima]] dalla contesa della sua [[motifs/soul|anima]],  
+e mondare da ogni macchia di [[motifs/blood|sangue]]  
+la mano che aveva impugnato il coltello.  
+E con [[motifs/tears|lacrime]] di [[motifs/blood|sangue]] mondò la mano,  
+la mano che aveva impugnato l'acciaio:  
+ché solo il [[motifs/blood|sangue]] può cancellare il [[motifs/blood|sangue]],  
+e solo le [[motifs/tears|lacrime]] possono guarire:  
+e la macchia cremisi che era di [[characters/cain|Caino]]  
+divenne il sigillo di [[characters/christ|Cristo]], bianco di [[motifs/snow|neve]].
+
 
 
 <span class="atom-split" data-atom="section_06_part_vi" data-title="The Ballad of Reading Gaol — Part VI" data-chapter="part VI" data-kind="section" data-tags="motif/grave,motif/love,motif/silence,character/christ"></span>
@@ -1384,3 +2041,26 @@ Some do it with a bitter look,
 Some with a flattering word,  
 The coward does it with a kiss,  
 The brave man with a sword!  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI  
+Nel carcere di Reading presso la città di Reading  
+c'è una fossa d'infamia,  
+e dentro giace un uomo miserabile  
+divorato da denti di fiamma,  
+giace in un sudario che brucia,  
+e la sua [[motifs/grave|tomba]] non ha nome.  
+E lì, finché [[characters/christ|Cristo]] non chiami i morti,  
+lasciatelo giacere in [[motifs/silence|silenzio]]:  
+non serve sprecare la lacrima sciocca,  
+né esalare il sospiro vano:  
+quell'uomo aveva ucciso la cosa che amava,  
+e per questo doveva morire.  
+E tutti gli uomini uccidono ciò che [[motifs/love|amano]]:  
+che tutti se lo sentano dire.  
+Chi lo fa con uno sguardo amaro,  
+chi con parola lusinghiera;  
+il vile lo fa con un bacio,  
+l'uomo coraggioso con la spada!

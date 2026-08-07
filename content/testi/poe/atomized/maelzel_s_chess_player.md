@@ -1841,6 +1841,1892 @@ We do not believe that any reasonable objections can be urged
 against this solution of the Automaton Chess-Player.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Forse nessuna mostra di questo tipo ha mai suscitato un tale interesse generale…”
+
+Titolo:  
+“L’attenzione come il ‘giocatore di scacchi’ di Maelzel… Ovunque si manifesti, essa…”
+
+È stato oggetto di intensa curiosità da parte di tutte le persone che riflettono.
+
+Tuttavia, la questione del suo _modo di operare_ rimane ancora irrisolta.
+
+Non esiste nulla scritto su questo argomento che possa essere considerato significativo
+
+Decisivi… e per questo ovunque troviamo uomini di carattere meccanico.
+
+Genio di grande acutezza e capacità discriminativa
+
+Titolo:  
+Coloro che, senza alcun rimorso, definiscono l’Automato…
+
+Macchina pura _ – priva di qualsiasi intervento umano nei suoi movimenti
+
+E di conseguenza, senza alcun paragone, il più straordinario di tutti.
+
+Le invenzioni dell’umanità… E senza dubbio lo sarebbero, se…
+
+Hanno ragione nella loro ipotesi. Partendo da questa ipotesi…
+
+Sarebbe assolutamente assurdo paragonarlo al Giocatore di Scacchi
+
+Qualcosa di simile, sia nei tempi moderni che in quelli antichi… Eppure ci sono state…
+
+Sono stati creati molti automi meravigliosi… Ne parla Brewster nelle sue Lettere su…
+
+Magia naturale: abbiamo notizie delle più straordinarie manifestazioni di essa. Tra queste.
+
+Si possono menzionare, poiché senza alcun [[concepts/doubt|dubbio]] sono esistite, innanzitutto.
+
+Il treno inventato da M. Camus per il divertimento di Luigi XIV
+
+Quando era un [[archetypes/child|bambino]]. Fu portato un tavolo, di circa quattro piedi quadrati.
+
+“Nella stanza destinata all’esposizione… su questo tavolo.”
+
+Fu allestita una carrozza lunga sei pollici, fatta di legno…
+
+Tratto da due cavalli dello stesso materiale. Una delle [[motifs/window|finestre]] era aperta.
+
+Una signora fu vista sul sedile posteriore; il cocchiere teneva le redini in mano.
+
+La scatola, insieme a un valletto e a un paggio, erano al loro posto dietro di lui. M.
+
+Ora Camus aveva toccato una [[motifs/spring|sorgente]]; allora il cocchiere gli diede uno schiaffo.
+
+Frusta, e i cavalli proseguirono con naturalezza lungo la strada…
+
+All'estremità del tavolo, seguendo loro con la carrozza… Dopo essere partiti…
+
+In questa direzione, si è fatto un improvviso cambiamento di rotta il più possibile.
+
+A sinistra, e il veicolo fu guidato ad angolo retto rispetto a essa
+
+Ancora una volta, seguiva fedelmente il bordo del tavolo…
+
+In questo modo, l’allenatore proseguì fino a raggiungere di fronte alla sedia.
+
+Il giovane principe… Poi si fermò, la pagina scese…
+
+Aprì la porta, la signora scese e presentò una petizione
+
+Il suo sovrano… Poi rientrò. La pagina indicava la direzione da seguire.
+
+Chiuse la porta e riprese il suo posto. Il cocchiere frustò i cavalli.
+
+“I suoi cavalli… e la carrozza fu riportata al suo posto originale.”
+
+Posizione.
+
+
+
+Il mago di M. Maillardet merita anch’egli attenzione. Lo copiamo.
+
+Il seguente resoconto al riguardo, tratto dalle Lettere menzionate in precedenza…
+
+Titolo:  
+Del Dottor B., il quale trasse le sue informazioni principalmente da…
+
+Enciclopedia di Edimburgo.
+
+
+
+"Uno dei meccanismi più popolari che abbiamo visto..."
+
+È il mago stato creato da M. Maillardet per lo scopo di…
+
+Rispondere ad alcune domande specifiche… Una figura, vestita come…
+
+Mago: appare seduto in fondo a un muro, con in mano una bacchetta.
+
+In una mano… e un libro nell’altra: diverse domande, pronte all’uso.
+
+I testi, pronti per essere letti, sono incisi su medaglioni ovali; il pubblico…
+
+"Scelge uno qualsiasi di questi e desideri una risposta per esso."
+
+E dopo averlo messo in un cassetto, pronto ad accoglierlo… il cassetto.
+
+Si chiude con una [[motifs/spring|molla]] fino a quando non viene data la risposta. Il mago.
+
+Si alza dal suo posto, si inchina e inizia a disegnare cerchi con…
+
+“La sua bacchetta… e consultando il libro come se fosse immerso in profonde riflessioni, la solleva…”
+
+Lo portò verso il suo viso. In questo modo, sembrava che stesse riflettendo su qualcosa…
+
+La domanda proposta… alza la sua bacchetta e colpisce con essa…
+
+“Un muro alto davanti a lui… due porte pieghevoli si aprono, rivelando…”
+
+Risposta appropriata alla domanda. Le porte si chiudono di nuovo…
+
+Il mago riprende la sua posizione originale, e il cassetto si apre…
+
+Restituisca il medaglione. Ne esistono venti in totale…
+
+Titolo:  
+Rispondendo a domande diverse…
+
+Le risposte più adatte e incisive… I medaglioni sono sottili.
+
+Plaste di bronzo, di forma ellittica, identici l’uno all’altro
+
+Altri… Alcuni dei medaglioni recano incisa su di loro una domanda.
+
+Entrambi i lati… a cui il mago rispose uno dopo l’altro. Se…
+
+Il cassetto viene chiuso senza che vi venga inserito alcun medaglione…
+
+Il mago si alza, consulta il suo libro, scuote la testa e poi continua…
+
+Il suo posto… Le porte pieghevoli rimangono chiuse, e il cassetto…
+
+Titolato: “Ritornato vuoto… Se si mettono due medaglioni nel cassetto…”
+
+"Insieme, una risposta viene data soltanto a quello che ha posto la domanda per primo. Quando..."
+
+La macchina viene caricata e i movimenti continuano per circa un’ora.
+
+Durante questo [[motifs/time|periodo]] è possibile rispondere a circa cinquanta domande.
+
+L'inventore spiegò i metodi utilizzati per realizzare i diversi medaglioni.
+
+Agì sulla macchinaria al fine di ottenere le risposte corrette.
+
+Le domande che contenevano erano estremamente semplici.
+
+
+
+Il pollo di Vaucanson era ancora più straordinario. Era… di quel tipo.
+
+Dimensioni perfette, un'imitazione così fedele dell’animale vivente.
+
+“Che tutti gli spettatori fossero stati ingannati… Fu eseguito, si dice.”
+
+Brewster, tutti i movimenti e i gesti naturali… li assorbiva completamente.
+
+Bevve con avidità, eseguendo tutti quei movimenti rapidi della testa…
+
+Collo e gola caratteristici dell’anatra… proprio come lei, confusi e disordinati
+
+L’[[motifs/water|acqua]] che beveva con il suo becco. Produceva anche.
+
+“Il suono del gracidio, espresso nel modo più naturale possibile… Dal punto di vista anatomico.”
+
+La struttura esposta dall’[[archetypes/artist|artista]] dimostrava la massima abilità tecnica; ogni singolo dettaglio.
+
+Il vero “anatra” aveva il proprio rappresentante nell’automa… e anche nel resto.
+
+Ali anatomicamente perfette… Ogni cavità, ogni apofisi…
+
+La curvatura veniva imitata, e ogni osso eseguiva la sua funzione corretta
+
+Movimenti… Quando il grano veniva gettato davanti a loro, le anatre…
+
+Allungò il collo per prenderla, la inghiottì e la digerì.
+
+{*1}
+
+
+
+Ma se queste macchine fossero davvero ingegnose, cosa dovremmo pensare…
+
+La macchina calcolatrice del signor Babbage. Cosa dobbiamo pensare di essa?
+
+Macchina di legno e metallo in grado non solo di calcolare dati astronomici
+
+E tabelle di navigazione, nella misura desiderata… ma rendile accessibili.
+
+Precisione matematicamente certa nelle sue operazioni
+
+Il potere di correggere i propri possibili errori… Cosa ne pensiamo?
+
+[[motifs/machine|macchina]] che non solo è in grado di fare tutto questo, ma addirittura.
+
+Stampare i risultati elaborati, non appena ottenuti, senza…
+
+La più lieve intervento dell’intelligenza umana… Forse sì.
+
+Si potrebbe rispondere che una [[motifs/machine|macchina]] come quella che abbiamo descritto è.
+
+Assolutamente superiore al Giocatore di Scacchi di Maelzel. Di
+
+Non significa affatto… È del tutto al di sotto di ciò che si potrebbe aspettare… Cioè, a condizione che…
+
+Assumi mai (ciò che non dovrebbe essere assunto nemmeno per un istante) che…
+
+Chess-Player è una _pura [[motifs/machine|macchina]]_ e esegue le sue operazioni in modo automatico.
+
+Senza alcuna interazione umana immediata… Aritmetica o algebra.
+
+I calcoli, per la loro stessa [[concepts/nature|natura]], sono fissi e determinati.
+
+Basandosi su determinati dati forniti, risultati specifici ne derivano inevitabilmente.
+
+Conseguenze inevitabili. Questi risultati non dipendono da nulla.
+
+e sono influenzati soltanto dai _dati_ forniti inizialmente.
+
+E la domanda da risolvere prosegue, o dovrebbe proseguire, verso la sua soluzione…
+
+Decision finale, attraverso una serie di passi infallibili…
+
+Titolo invariato, senza alcuna modifica. Detto questo…
+
+Possiamo facilmente concepire la possibilità di farlo.
+
+Regolare un meccanismo, in modo che, una volta avviato…
+
+Con i dati relativi alla questione da risolvere, la ricerca dovrebbe proseguire.
+
+I suoi movimenti sono regolari, progressivi e inesorabili verso…
+
+La soluzione necessaria, poiché questi movimenti, per quanto complessi…
+
+Non si è mai immaginato che potessero essere diversi da finiti e determinati.
+
+Ma nel caso del giocatore di scacchi le cose sono molto diverse. Con lui…
+
+Non esiste una progressione definita. In scacchi, nessuno muove in modo prevedibile.
+
+“Necessariamente segue ogni altra cosa; non deriva da nulla di specifico.”
+
+Disposizione degli uomini in un determinato momento di una partita: possiamo descriverla?
+
+Titolo:  
+La loro disposizione in un periodo diverso… Mettiamo il “primo” aspetto in evidenza.
+
+Titolo:  
+Muoversi in una partita a scacchi, in posizione contigua ai dati di…
+
+Domanda algebrica: la grande differenza tra loro…
+
+Percepiuto immediatamente. Dal secondo… dai dati.
+
+Di conseguenza, ne deriva inevitabilmente un ulteriore passo nella risoluzione della questione.
+
+È modellato in base ai dati disponibili. Deve essere esattamente così, e non altrimenti.
+
+Ma fin dal primo movimento nella partita di scacchi, non esiste alcun secondo aspetto particolare…
+
+Movimento che segue necessariamente… Nella questione algebrica, così come in altre situazioni simili…
+
+Procede verso la soluzione: la _certezza_ delle sue operazioni
+
+Il secondo passo è risultato del tutto efficace.
+
+Conseguenza di tali dati, il terzo passo è altrettanto importante.
+
+Titolo:  
+Conseguenza del secondo, il quarto del terzo, il quinto…
+
+Il quarto, e così via, _e non in alcun altro modo possibile_, fino alla fine.
+
+In proporzione al progresso raggiunto in una partita di scacchi…
+
+Incertezza di ogni mossa successiva… Dopo aver effettuato alcuni movimenti,
+
+Nessun passo è certo… Osservatori diversi della partita potrebbero avere opinioni diverse.
+
+Consigliare mosse diverse… Tutto dipende poi da questa variabile.
+
+Giudizio dei giocatori… Ora, anche ammettendo ciò che non dovrebbe essere ammesso…
+
+Certamente, i movimenti del giocatore di scacchi automato erano…
+
+Se fossero da soli a decidere, sarebbero inevitabilmente interrotti…
+
+Disordinato dal volere incerto del suo avversario… C’è.
+
+Nessuna analogia possibile tra le operazioni di…
+
+Il giocatore di scacchi, e quelli delle macchine calcolatrici del signor.
+
+Babbage. E se decidiamo di definire il primo un’[[motifs/machine|macchina]] “pura”, allora.
+
+Deve essere pronto ad ammettere che è, senza alcun dubbio, il migliore di tutti.
+
+“La più meravigliosa invenzione dell’umanità… La sua origine.”
+
+Proiettore… tuttavia, il barone Kempelen non ebbe alcun rimorso nel dichiararlo
+
+Titolo:  
+“È soltanto un pezzo di meccanismo molto ordinario… una bagatella, insomma.”
+
+Gli effetti risultarono così meravigliosi soltanto grazie alla audacia di…
+
+Concezione e la scelta fortunata dei metodi adottati
+
+“Promuovere l’illusione… Ma non è necessario soffermarsi troppo su questo”.
+
+Punto. È assolutamente certo che le operazioni dell’Automato…
+
+Titolo:  
+Sono regolati dalla mente… e da nulla altro. Infatti, questa questione…
+
+È suscettibile di una dimostrazione matematica, a priori. _Il
+
+L’unica domanda allora riguarda il _modo_ in cui l’azione umana si svolge.
+
+Portato all’attuazione. Prima di affrontare questo argomento…
+
+Per fornire una breve [[concepts/history|storia]] e descrizione del Giocatore di Scacchi.
+
+Per il beneficio di quei nostri lettori che forse non hanno mai avuto l’opportunità…
+
+L’opportunità di assistere all’esposizione del signor Maelzel.
+
+
+
+L’automata scacchista fu inventato nel 1769 dal barone…
+
+Kempelen, un nobile di Presburgo, in Ungheria, che in seguito…
+
+Titolo:  
+Rimosso insieme al segreto del suo funzionamento…
+
+Il suo attuale possessore. {2*} Poco dopo la sua completazione…
+
+Esposto a Presburgo, [[settings/paris|Parigi]], Vienna e in altre città europee.
+
+Città. Nel 1783 e nel 1784 fu portato a [[settings/london|Londra]] dal signor Maelzel.
+
+Negli ultimi anni ha visitato le principali città degli Stati Uniti.
+
+Titolo:  
+Ovunque si manifestasse, suscitava la curiosità più intensa…
+
+La sua apparenza, e numerosi sono stati i tentativi da parte degli uomini…
+
+Titolo:  
+Tutte le classi, per comprendere il mistero delle sue evoluzioni… La ferita…
+
+Titolo:  
+Questa pagina fornisce una rappresentazione accettabile della figura così come appare.
+
+Qualche settimana fa, i cittadini di Richmond… il braccio destro…
+
+Tuttavia, dovrebbe essere descritto più dettagliatamente sulla scatola… un tabellone da scacchi.
+
+Sopra di esso dovrebbe apparire qualcosa, ma il cuscino non deve essere visibile…
+
+La pipa è tenuta… Sono state apportate alcune modifiche di poco conto.
+
+Il costume dell’attore da quando è entrato in suo possesso
+
+Maelzel: la penna, ad esempio, non veniva indossata originariamente. {immagine}
+
+Di un automa
+
+
+
+All’ora stabilita per l’esposizione, viene sollevata una tenda…
+
+Le porte scorrevoli si aprirono di scatto, e la [[motifs/machine|macchina]] rotolò fino ad essere vicina.
+
+Circa dodici piedi dallo spettatore più vicino, tra di loro…
+
+E quella macchina, c'è una corda tesa; si vede una figura all’interno.
+
+Vestito come un turco, seduto con le gambe incrociate su un grande…
+
+Scatola apparentemente di legno di acero, che funge da tavolo.
+
+Su richiesta, l'esibitore potrà spostare la [[motifs/machine|macchina]] in qualsiasi parte desiderata.
+
+La stanza… lasciate che rimanga esattamente nel punto designato.
+
+O addirittura spostarne ripetutamente la posizione nel corso del procedimento
+
+Gioco. Il fondo della scatola è notevolmente rialzato rispetto al resto.
+
+Titolo:  
+Viaggiava sul pavimento grazie ai rotelle o ai rulli di bronzo su cui era montato.
+
+Movimenti: una visione chiara della superficie immediatamente sottostante
+
+L’automato viene così mostrato ai spettatori… La sedia su cui si trova…
+
+La figura su cui è seduta la persona è fissata permanentemente alla scatola. Sulla…
+
+Sopra quest'ultimo c'è una scacchiera, anch'essa fissata permanentemente al posto suo.
+
+Il braccio destro del giocatore di scacchi è teso completamente
+
+Davanti a lui, perpendicolare rispetto al suo [[concepts/body|-corpo]], e disteso.
+
+Posizione apparentemente negligente, accanto al tabellone… Il retro.
+
+Il palmo della mano è rivolto verso l’alto; il tabellone stesso misura diciotto pollici.
+
+Il braccio sinistro della figura è piegato al gomito…
+
+La mano sinistra è un tubo… Una tenda verde nasconde la parte posteriore…
+
+Turco… e cade parzialmente sulle spalle.
+
+A giudicare dall’aspetto esterno della scatola, è divisa in…
+
+Cinque compartimenti: tre armadi di dimensioni uguali e due altri…
+
+Cassetti che occupano quella parte dell’armadio situata sotto…
+
+Cupboardi. Le osservazioni precedenti si riferiscono all’aspetto dei…
+
+L’automata alla sua prima presentazione davanti a…
+
+I spettatori.
+
+
+
+Maelzel annuncia alla compagnia che rivelerà loro…
+
+Esaminare il meccanismo della [[motifs/machine|macchina]]. Prendendo dal suo taschino un mazzo.
+
+Di chiuse che apre con una di quelle chiavi, la porta contrassegnata con il simbolo “~” nel racconto
+
+Sopra, e apre completamente l’armadio per permettere un’ispezione completa…
+
+“Tutti presenti… L’intero suo interno sembra essere riempito di ruote.”
+
+Ruote dentate, leve e altre macchine, ammassate una vicina all’altra
+
+Insieme, in modo che lo sguardo possa penetrare solo per una breve distanza
+
+“Nella folla… Lasciando questa porta completamente aperta, se ne va.”
+
+Ora si va verso il retro della scatola e si solleva la tenda…
+
+Figure: apre un’altra porta situata esattamente dietro…
+
+Una prima volta aperta… Tenendo una candela accesa davanti a questa porta…
+
+Spostando ripetutamente la posizione dell'intera [[motifs/machine|macchina]] nello stesso modo.
+
+In quel momento, una luce intensa illuminò completamente l’armadio.
+
+Titolo:  
+Che ora è chiaramente visibile essere pieno, completamente pieno, di…
+
+Macchinari. Dopo che i spettatori ebbero constatato questo fatto, Maelzel…
+
+Chiude la porta posteriore, la chiude a chiave, prende la chiave dal lucchetto e poi…
+
+“Cadono le vesti della figura, e questa si rivolge verso il davanti.”
+
+La porta contrassegnata con la lettera “I” è ancora aperta… Si ricorderà questo.
+
+L’espositore apre ora il cassetto che si trova sotto…
+
+Cassetti nella parte[[characters/bottom|inferiore]] della scatola, perché anche se ce ne sono.
+
+Apparentemente due cassetti, ma in realtà ce n’è solo uno: le due maniglie…
+
+E due fori per le chiavi, destinati esclusivamente a scopo decorativo.
+
+Apro questo cassetto fino in fondo: un piccolo cuscino e un set…
+
+Scacchiere di pedine, fissate in un telaio progettato per sostenerle
+
+Disposte in modo perpendicolare, vengono scoperte. Uscendo da questo cassetto, così come.
+
+Armadio numero 1 aperto; ora Maelzel apre la porta numero 2, e poi anche la porta numero.
+
+Tre porte pieghevoli, che si aprono tutte su uno stesso ambiente…
+
+Lo stesso scomparto… Tuttavia, a destra di questo scomparto…
+
+Una piccola suddivisione… sei
+
+“L’ambiente, largo diverse decine di centimetri e pieno di macchinari, è diviso in sezioni separate.”
+
+Il compartimento principale stesso (parlando di quella parte della scatola)
+
+Visibile aprendo le porte 2 e 3… lo chiameremo sempre così.
+
+Compartimento principale foderato in stoffa scura e vuoto
+
+Macchinari… qualunque cosa sia, purché si tratti di due pezzi d’acciaio a forma di quadrante.
+
+E situati uno in ciascuno degli angoli posteriori superiori…
+
+"Comparto": una piccola protuberanza di circa otto pollici quadrati..."
+
+Coperto anche da un panno scuro, giace per terra…
+
+Il compartimento situato vicino all’angolo posteriore, sul lato sinistro dei posti a sedere per i spettatori.
+
+Lasciare le porte numero 2 e numero 3 aperte, proprio come il cassetto.
+
+Porta n. 1: l’espositore si dirige ora verso la parte posteriore della sala principale
+
+Scompartimento… e, aprendo un’altra porta lì dentro, tutto diventa chiaramente visibile.
+
+“Tutta l’interno della cabina principale, grazie all’uso di una candela…”
+
+Dietro di esso e al suo interno… L’intera scatola, in questo modo, appare chiaramente…
+
+Titolo: Sottoposto all’attenta analisi dell’azienda, Maelzel… ancora non è stato rivelato del tutto.
+
+“Le porte e i cassetti si aprono; l’Automato ruota completamente su se stesso…”
+
+E rivela la schiena del turco sollevando le tende.
+
+Una porta di circa dieci pollici quadrati si apre improvvisamente nel mezzo…
+
+Una figura, e una più piccola anche nella coscia sinistra… L’interno di…
+
+La figura, vista attraverso queste aperture, sembra essere…
+
+“Ricco di macchinari… In generale, ora ogni spettatore…”
+
+Completamente soddisfatto dopo aver visto e esaminato attentamente tutto.
+
+Nello stesso [[motifs/time|istante]], ogni singola parte di.
+
+Automato, e l’idea che qualcuno possa nascondersi al suo interno
+
+Interno: durante una manifestazione così completa di quel mondo interiore…
+
+Titolo:  
+Qualsiasi idea venga anche solo presa in considerazione viene immediatamente scartata come assurda.
+
+Estremo.
+
+
+
+Il signor Maelzel, dopo aver riportato la [[motifs/machine|macchina]] nella sua posizione originale.
+
+Titolo:  
+La posizione attuale informa l’azienda che l’Automato svolgerà un ruolo importante…
+
+Scacchi contro chiunque sia disposto ad affrontarlo.
+
+La sfida viene accettata: viene preparato un piccolo tavolo…
+
+Antagonista… posizionato vicino alla corda, ma dal lato dei spettatori…
+
+Da un certo punto di vista… e situato in modo da non ostacolare le attività dell’azienda.
+
+Ottenere una visione completa dell’Automato… Da un cassetto, qui dentro.
+
+Scacchi e magia: un insieme di pedine scacchistiche disposte da Maelzel
+
+In generale, ma non sempre, con le proprie mani… sulle scacchiere.
+
+Titolo:  
+Tavola composta soltanto dal numero consueto di quadratini
+
+“Disegnato sul tavolo… Dopo che l’antagonista si è seduto…”
+
+L'espositore si avvicina al cassetto della scatola e ne prende qualcosa.
+
+Il cuscino che, dopo aver tolto la pipa dalla mano…
+
+Titolo:  
+Automa, lo posiziona sotto il braccio sinistro come sostegno… Poi prende…
+
+Anche dal cassetto, il mazzo di pedine da scacchi dell’automata…
+
+Li dispone sulla scacchiera davanti alla figura… Ora.
+
+Chiude le porte e le chiude a chiave, lasciando il gruppo…
+
+Chiavi nella porta numero 1. Lui chiude anche il cassetto, e infine…
+
+Avvia la [[motifs/machine|macchina]] inserendo una chiave in un’apertura specifica.
+
+Lato sinistro della tribuna… Ora inizia la partita.
+
+Inizia… L’automato compie il primo movimento. La durata…
+
+Il tempo a disposizione per la competizione è solitamente di mezz’ora, ma se non lo fosse…
+
+Titolo:  
+Terminato alla scadenza di questo periodo… e l’antagonista…
+
+“M. Maelzel insiste ancora nel sostenere di poter battere l’Automato.”
+
+Raramente si sollevano obiezioni al proseguirlo… Per non stancare il gruppo, insomma.
+
+L’oggetto apparente, e senza alcun [[concepts/doubt|dubbio]] l’oggetto reale di tale limitazione.
+
+Si deve naturalmente comprendere che quando si effettua un certo movimento…
+
+Titolo:  
+“Al proprio tavolo”, il movimento corrispondente viene eseguito dall’avversario…
+
+La scatola dell’automa, realizzata dallo stesso Maelzel, che poi ne assume il controllo
+
+Il rappresentante dell’antagonista… D’altra parte, quando…
+
+Il turco si muove, e lo stesso movimento viene eseguito al tavolo…
+
+Antagonista… anch’esso creato da M. Maelzel, che in questo caso agisce come…
+
+Rappresentante dell’automata. In questo modo è necessario…
+
+Che l’espositore dovesse spesso passare da un tavolo all’altro.
+
+Dietro la figura
+
+Scacchiere che prende e che ripone, quando le cose vengono prese
+
+Sul riquadro a sinistra del tabellone… Quando…
+
+L’automato esita nel decidere quale mossa compiere… il curatore osserva…
+
+A volte si posiziona proprio vicino al suo lato destro…
+
+A volte, metteva la mano sulla scatola in modo distratto.
+
+Ha anche un modo particolare di muovere i piedi, calcolato apposta…
+
+Suscita il sospetto di collusione con la [[motifs/machine|macchina]] nelle menti di coloro che.
+
+Più astuto che saggio. Queste particolarità sono, senza alcun [[concepts/doubt|dubbio]].
+
+Solo modi di fare del signor Maelzel… o forse lui stesso se ne rende conto.
+
+Le mette in pratica con l’intento di suscitare emozioni…
+
+Gli spettatori hanno un'idea errata del funzionamento puro di questo automato.
+
+
+
+Il Turco gioca con la sua mano sinistra: tutti i movimenti del braccio…
+
+“Sono perpendicolari tra loro. In questo modo, la mano… che è guantata”.
+
+E piegato in modo naturale, veniva portato direttamente sopra…
+
+Titolo:  
+La mano che deve essere spostata… finalmente si posa su di essa, le dita…
+
+Riceverlo, nella maggior parte dei casi, senza difficoltà. Occasionalmente…
+
+Tuttavia, quando l’oggetto non si trova esattamente nella posizione corretta…
+
+L'automato fallisce nel suo tentativo di prenderlo. Quando questo…
+
+Non si fa un secondo tentativo; l’arma prosegue comunque il suo movimento.
+
+Movimento nella direzione originariamente prevista, esattamente come se…
+
+Il pezzo era tra le dita… Avendo così indicato quel punto.
+
+Verso dove avrebbe dovuto muoversi, il braccio torna al suo…
+
+Titolo:  
+“Cuscino… e Maelzel esegue l’evoluzione che quell’automato è in grado di compiere”
+
+Fu sottolineato chiaramente: ad ogni movimento della figura, si sentiva il rumore delle macchine.
+
+In movimento… Durante lo svolgimento del gioco, la figura ora…
+
+“Poi alza gli occhi, come se stesse osservando la scacchiera, e muove la testa…”
+
+Titolo:  
+e pronuncia la parola “echec” (controllo) quando necessario. {*3} Se un…
+
+Se il suo avversario commette un errore, lui colpisce rapidamente la scatola.
+
+Con le dita della sua mano destra, scuote la testa con forza…
+
+Rimettere al suo posto il pezzo che è stato spostato erroneamente
+
+Assume il prossimo passo da solo… Dopo aver vinto la partita, lui agisce.
+
+Con aria trionfale, si guarda intorno con soddisfazione…
+
+“Il pubblico… e tirando indietro il braccio sinistro più del solito…”
+
+Soffre perché i suoi dita devono riposare da sole sul cuscino. In generale, è così.
+
+Il Turco vince… anche se una o due volte è stato sconfitto. Il gioco.
+
+Una volta terminato, se lo desidera, Maelzel potrà nuovamente esibire il meccanismo.
+
+Pronto all’uso, esattamente come prima. La [[motifs/machine|macchina]] è quindi.
+
+È stato riportato indietro, e una tenda lo nasconde dalla vista di tutti.
+
+
+
+Molti sono stati i tentativi di risolvere il mistero di…
+
+Automato. L’opinione più diffusa al suo riguardo…
+
+Spesso adottato da uomini che avrebbero dovuto saper meglio…
+
+Come abbiamo già detto in precedenza, non vi era alcuna azione umana immediata coinvolta.
+
+Impiegato, in altre parole, che la [[motifs/machine|macchina]] fosse puramente una [[motifs/machine|macchina]].
+
+E nient’altro. Tuttavia, molti sostenevano che l’espositore…
+
+Si regolava da solo i movimenti della figura tramite mezzi meccanici.
+
+Attraverso i piedi della scatola… Altri ancora, parlavano…
+
+Titolo:  
+Con la fiducia di un magnete… Del primo di questi punti di vista, parleremo…
+
+Al momento non diremo nulla di più di quanto abbiamo già detto.
+
+Relazione con il secondo momento: è necessario soltanto ripetere ciò che abbiamo già detto…
+
+Come ho già detto in precedenza, la [[motifs/machine|macchina]] viene spostata su ruote.
+
+E, su richiesta di un spettatore, potrà essere spostato avanti e indietro…
+
+“Qualsiasi parte della stanza, anche durante lo svolgimento di un gioco.”
+
+La supposizione relativa al comportamento del magnete è anch’essa insostenibile: perché se un magnete…
+
+Titolo:  
+L’agente… un altro “magnete” nello “taschino” dello spettatore…
+
+Disordinare l’intero meccanismo… Tuttavia, l’espositore farà…
+
+Subire la forza più potente senza mai deviare dalla propria posizione
+
+Per tutta la durata dell’esposizione.
+
+
+
+Il primo tentativo di fornire una spiegazione scritta di quel segreto…
+
+Almeno il primo tentativo di cui abbiamo conoscenza…
+
+Fu pubblicato in un grande opuscolo stampato a [[settings/paris|Parigi]] nel 1785. Il.
+
+L’ipotesi dell’autore era la seguente: che fosse un [[characters/dwarf|nano]] ad azionare.
+
+[[motifs/machine|macchina]]. Questo [[characters/dwarf|nanetto]] doveva nascondersi durante.
+
+Inserimento delle gambe nelle due cavità
+
+Cilindri, che venivano rappresentati come tali (ma in realtà non lo sono) tra…
+
+La macchina nel mobile numero uno, mentre il suo [[concepts/body|-corpo]] era fuori.
+
+L’intera scatola, coperta dal panno del turco… Quando.
+
+Le porte erano chiuse; il [[characters/dwarf|nano]] poté portare con sé il suo [[concepts/body|-corpo]].
+
+All’interno della scatola: il rumore prodotto da una parte di essa
+
+Macchinari che gli permettono di farlo senza essere sentito, e anche di chiudere…
+
+La porta attraverso la quale entrò. L’interno dell’automa…
+
+Poi venne esposto, ma nessuno lo scoprì… dicevano gli spettatori.
+
+L’autore di questo opuscolo è convinto che nessuno si trovi all’interno…
+
+Qualsiasi parte della [[motifs/machine|macchina]]. L'intera ipotesi era troppo.
+
+Ovviamente assurdo richiedere un commento o una confutazione…
+
+Pertanto, risulta che abbia attirato molto poca attenzione.
+
+
+
+Nel 1789, a Dresda, fu pubblicato un libro scritto da M. I. F. Freyhere
+
+Fu intrapresa un’altra iniziativa per svelare il mistero. Il signor.
+
+Il libro di Freyhere era piuttosto voluminoso e ricco di illustrazioni.
+
+Attraverso incisioni a colori. La sua ipotesi era che “una persona ben istruita, ”
+
+Ragazzo molto magro e alto per la sua età (abbastanza da poter…)
+
+Nascosto in un cassetto, quasi immediatamente sotto…
+
+“Su una scacchiera” giocarono a scacchi e realizzarono tutto ciò…
+
+Evoluzioni dell’automata… Un’idea, per quanto ancora più assurda…
+
+Un’accoglienza migliore rispetto a quella dell’autore parigino…
+
+E veniva considerato, in qualche misura, la vera soluzione al problema
+
+Lo [[concepts/wonder|stupore]] continuò, fino a quando l'inventore pose fine alla discussione.
+
+[[concepts/suffering|Soffrendo]] di un'attenta ispezione della parte superiore della scatola.
+
+
+
+Dopo questi bizzarri tentativi di spiegazione, ne seguirono altri.
+
+Altrettanto bizzarro… Negli ultimi anni, tuttavia, un autore anonimo ha scritto…
+
+Titolo:  
+Un ragionamento estremamente anti-filosofico ha cercato di…
+
+Incappare in una soluzione plausibile… anche se non possiamo considerarla tale
+
+Nel complesso, l’unico vero. Il suo [[forms/essay|Saggio]] fu pubblicato per la prima volta in un.
+
+Un settimanale di Baltimora, illustrato con ritagli di carta, intitolato...
+
+“Un tentativo di analizzare il giocatore di scacchi automatico di M. Maelzel”.
+
+Questo [[forms/essay|Saggio]] si ritiene sia l’originale del _manifesto_.
+
+A cui Sir David Brewster fa riferimento nelle sue lettere sulla Natura
+
+Magia, e di cui non esita affatto a dichiarare che sia una pratica completa e.
+
+Spiegazione soddisfacente. I risultati dell’analisi…
+
+Senza dubbio, nel complesso, giusto; ma possiamo spiegarlo solo…
+
+Brewster ha letto l’[[forms/essay|Essaggio]] in modo approfondito e soddisfacente.
+
+Spiegazione… presumendo che gli abbia conferito qualcosa di molto importante.
+
+Una lettura superficiale e distratta. Nel compendio dell’[[forms/essay|Saggio]],
+
+Utilizzato nelle “Lettere sulla Magia Naturale”, è davvero.
+
+Impossibile giungere a una qualsiasi conclusione definitiva al riguardo
+
+Adeguazione o inadeguazione dell’analisi, a causa delle gravi carenze
+
+Disordine e carenza delle lettere di referenza
+
+“Occupato… Lo stesso errore si riscontra anche nell’‘Attempt &c.’”
+
+Originariamente lo avevamo visto noi. La soluzione consiste in una serie di piccolissimi…
+
+Spiegazioni, (accompagnate da xilografie; l’intero volume ne occupa molte)
+
+Titolo: Pagine in cui l’obiettivo è dimostrare la _possibilità_ di…
+
+Modificare le pareti della scatola, in modo che un essere umano possa entrare.
+
+Nascosto all’interno, per muovere alcune parti del suo [[concepts/body|-corpo]] da un.
+
+Parte della scatola viene trasferita altrove, durante l’esposizione…
+
+Meccanismo che, così, sfugge all’attenzione degli spettatori.
+
+Non c’è alcun [[concepts/doubt|dubbio]], come abbiamo già osservato in precedenza, e come vedremo presto.
+
+Titolo:  
+Sforzarsi di dimostrare che il principio… o meglio, il risultato…
+
+Questa è la soluzione giusta… Qualcuno si nasconde al suo interno.
+
+Durante l’intero periodo di esposizione dell’interno, si è continuato a fare box. Obiettiamo.
+
+Tuttavia, nonostante questa lunga descrizione del modo in cui…
+
+Titolo:  
+In cui le parti vengono spostate per adattarsi ai movimenti…
+
+La persona nascosta. Lo riteniamo soltanto una teoria ipotizzata senza fondamento.
+
+Il primo posto, e verso cui vengono successivamente indirizzate le circostanze
+
+Adattarsi alle circostanze. Non era possibile, e non avrebbe mai potuto esserlo.
+
+Mai basarsi su ragionamenti induttivi. Qualunque sia il modo in cui avviene questo cambiamento…
+
+Titolo:  
+Sebbene sia sotto controllo, ovviamente viene nascosto in ogni fase del processo…
+
+Osservazione: per dimostrare che certi movimenti potrebbero essere possibili…
+
+In un certo modo, ciò non dimostra affatto che siano…
+
+Effettivamente così funziona… Potrebbero esistere infinite altre metodologie.
+
+Con questo metodo è possibile ottenere gli stessi risultati. La probabilità di…
+
+Si presume che dimostrare quale sia la risposta corretta equivalga, in qualche modo, all’idea di un’unità che si estende all’infinito.
+
+Ma, in realtà, questo particolare aspetto… il cambiamento nel…
+
+“Le divisioni non hanno alcuna importanza; era tutto completamente…”
+
+Non è necessario dedicare sette o otto pagine a tale scopo
+
+Titolo:  
+Dimostrare ciò che nessuno sano di mente negherebbe, ovvero…
+
+Il meraviglioso genio meccanico del barone Kempelen avrebbe potuto inventare…
+
+Mezzi necessari per chiudere una porta o spostare un pannello
+
+Con anche un agente umano al suo servizio, in contatto diretto con…
+
+“Panella o la porta… e tutte le operazioni si svolgono così…”
+
+Lo stesso autore dell’[[forms/essay|Saggio]] lo dimostra chiaramente, e come cercheremo di fare anche noi.
+
+Del tutto irraggiungibile da ora in poi
+
+L’osservazione degli spettatori.
+
+
+
+Nella tentativa di fornire una spiegazione dell’Automato, noi…
+
+“In primo luogo, si deve cercare di dimostrare come funzionano i suoi meccanismi operativi.”
+
+Effettuato, e successivamente descritto, nel modo più breve possibile…
+
+La natura delle _osservazioni_ da cui abbiamo tratto le nostre conclusioni.
+
+risultato.
+
+
+
+“Per una corretta comprensione dell’argomento, sarà necessario…”
+
+Titolo:  
+Quello che ripetiamo qui in poche parole… la routine adottata da…
+
+Titolo:  
+Rivelare l’interno della scatola: una pratica abituale…
+
+Che egli non devia mai, in alcun dettaglio concreto. In…
+
+Prima di tutto, apre la porta… No. Uno. Lasciandola aperta, se ne va.
+
+Dietro la scatola, si apre una porta esattamente lì…
+
+Porta posteriore n. 1. Davanti a questa porta posteriore tiene una candela accesa.
+
+Lui poi chiude la porta posteriore, la blocca e, tornando indietro…
+
+La parte anteriore si apre completamente, rivelando l’interno del cassetto… E poi lui…
+
+Apre le porte numero 2 e numero 3… (le porte pieghevoli) e le mostra
+
+L’interno della cabina principale. Lasciando aperta la parte centrale…
+
+Il compartimento, il cassetto e la porta anteriore dell’armadio numero uno
+
+Ora torna indietro e apre la porta posteriore…
+
+**Compartimento principale. Nel chiudere la scatola non è necessario seguire un ordine particolare.**
+
+Osservato, ad eccezione del fatto che le porte pieghevoli sono sempre chiuse prima…
+
+Il cassetto.
+
+
+
+Ora, supponiamo che quando la [[motifs/machine|macchina]] viene rotolata per la prima volta.
+
+La presenza degli spettatori… un uomo è già all’interno di esso. Lui.
+
+Il [[concepts/body|corpo]] si trova dietro la complessa attrezzatura all’interno dell’armadio numero T.
+
+Titolo:  
+La parte posteriore di quella macchina è progettata in modo tale da poter scivolare facilmente…
+
+“In massa, dal compartimento principale fino all’armadio numero uno… Io, come…”
+
+In alcune occasioni potrebbe essere necessario…), e le sue gambe sono distese completamente.
+
+**Compartimento principale. Quando Maelzel apre la porta… Io, l’uomo.**
+
+Titolo:  
+“Ciò che è nascosto non corre alcun rischio di essere scoperto, nemmeno dall’occhio più attento…”
+
+Non riesce a penetrare oltre due pollici nelle tenebre.
+
+Titolo:  
+“Within… Ma nel caso contrario, quando la porta sul retro…”
+
+Armadio n. 1… si apre. Una luce intensa inonda allora l’interno.
+
+L’armadio. E il [[concepts/body|corpo]] dell’uomo verrebbe scoperto se.
+
+“Lì… Ma non è così. Mettere la chiave nella serratura della parte posteriore…”
+
+La porta era un segnale: al suo suono, la persona nascosta interveniva.
+
+Il suo [[concepts/body|-corpo]] si piegava in un angolo il più acuto possibile; lo lanciava così.
+
+In definitiva, quasi completamente, all’interno della compartizione principale. Questo…
+
+Tuttavia, è una posizione dolorosa e non può essere mantenuta per molto tempo.
+
+Di conseguenza, scopriamo che Maelzel chiude la porta posteriore…
+
+Una volta completato, non c’è motivo per cui il [[concepts/body|-corpo]] di quell’uomo non possa.
+
+Ritorna alla sua precedente condizione… perché l’armadio è di nuovo così buio.
+
+Infrangibile alla scrutinazione… Ora il cassetto è aperto, e le sue gambe…
+
+Persona nascosta dietro un menu a discesa nel posto che prima occupava
+
+Occupato. {*4} Di conseguenza, non esiste più alcuna parte…
+
+L’uomo nella cabina principale, il suo [[concepts/body|-corpo]] si trovava dietro.
+
+Macchinari nell’armadio numero 1… e le sue gambe nello spazio rimasto libero
+
+Nel cassetto del cassiere… Il espositore, pertanto, si trova in una posizione vantaggiosa.
+
+Per aprire il compartimento principale… E così fa: apre entrambi i suoi sportelli.
+
+Entrate e uscite… ma nessuno viene scoperto. Gli spettatori…
+
+Titolo:  
+Ora si è certi che l’intero contenuto della scatola sia esposto…
+
+Visualizzazione completa… e allo stesso tempo, ogni sua parte viene esposta senza alcuna barriera.
+
+[[motifs/time|tempo]]. Ma ovviamente non è così: loro non vedono nulla.
+
+“Lo spazio dietro il cassetto, né l’interno dell’armadio numero 1…”
+
+La porta d’ingresso attraverso la quale l’espositore, di fatto, chiude gli altri all’interno
+
+Chiudendo la sua porta posteriore. Maelzel, dopo aver fatto ruotare la [[motifs/machine|macchina]].
+
+“Intorno, sollevò le tende del turco e aprì le porte…”
+
+Il dorso e la coscia… e si vide che il suo tronco era pieno di macchinari.
+
+Riporta tutto nella sua posizione originale e chiude
+
+“Porte… L’uomo all’interno può ora muoversi liberamente. Si alza.”
+
+Nel corpo del turco, proprio a quella altezza che permettesse ai suoi occhi di essere visibili.
+
+Il livello della scacchiera. È molto probabile che si sieda…
+
+Si posiziona da solo su quel piccolo blocco quadrato o sporgenza…
+
+Si può vedere in un angolo della cabina principale quando le porte sono aperte.
+
+In questa posizione, vede la scacchiera attraverso il seno di…
+
+Il turco di garza: con il braccio destro sul petto
+
+Aziona la piccola macchina necessaria per guidare il braccio sinistro
+
+E le dita della figura… Questo meccanismo si trova proprio lì.
+
+Sotto la spalla sinistra del turco… e quindi facilmente raggiungibile.
+
+Raggiunto dalla mano destra dell’uomo nascosto, se supponiamo che…
+
+Braccio destro posato sul petto… I movimenti della testa…
+
+Gli occhi, e anche il braccio destro della figura, così come il suono.
+
+Titolo: Gli scacchi vengono prodotti da altri meccanismi all’interno…
+
+Azionato a piacimento dall’uomo all’interno… L’intero meccanismo
+
+Meccanismo – ovvero tutti i meccanismi essenziali per…
+
+La [[motifs/machine|macchina]] è molto probabilmente contenuta all’interno di quel piccolo armadio.
+
+Titolo:  
+Diviso in due parti, con una sezione larga circa sei pollici situata sul lato destro…
+
+Il lato destro dei spettatori, rispetto alla cabina principale.
+
+
+
+In questa analisi delle operazioni dell’Automato, abbiamo…
+
+Si è evitato deliberatamente qualsiasi riferimento al modo in cui…
+
+Le partizioni vengono spostate, e ora tutto sarà facilmente comprensibile.
+
+Questo punto non ha alcuna importanza, poiché, per meccanismo…
+
+Entro le capacità di qualsiasi falegname qualificato, è possibile realizzarlo.
+
+In un’infinità di modi diversi… e poiché abbiamo dimostrato questo.
+
+Qualunque sia il modo in cui viene eseguito, avviene comunque al di fuori della vista del pubblico.
+
+Spettatori: il nostro risultato si basa sulle seguenti considerazioni.
+
+Osservazioni effettuate durante frequenti visite all’esposizione
+
+Maelzel. {*5}
+
+
+
+I. Le mosse del Turco non avvengono a intervalli regolari
+
+[[motifs/time|tempo]], ma adattandosi ai movimenti del.
+
+Antagonista… anche se questo aspetto della regolarità è così importante.
+
+Tutti i tipi di macchinari e dispositivi meccanici avrebbero potuto essere utilizzati facilmente…
+
+Sono state introdotte limitazioni al [[motifs/time|tempo]] concesso per eseguire tali mosse.
+
+Antagonista. Ad esempio, se questo limite fosse di tre minuti…
+
+"I movimenti dell’automata possono avvenire in qualsiasi intervallo di tempo."
+
+“Più lungo di tre minuti… Il fatto stesso dell’irregolarità, in quel caso…”
+
+La regolarità avrebbe potuto essere raggiunta così facilmente… ma questo dimostra quanto sia difficile in realtà.
+
+La regolarità non è importante per il funzionamento dell’Automato… in altre parole, non ha alcun ruolo essenziale nel suo operare.
+
+In altre parole, l’Automata non è una semplice [[motifs/machine|macchina]].
+
+
+
+2. Quando l’automata sta per muovere una pedina… un movimento distintivo
+
+È visibile appena sotto la spalla sinistra, e quel movimento…
+
+“Agita leggermente le tende che coprono la parte anteriore…”
+
+Il braccio sinistro… Questo movimento precede sempre, di circa due secondi…
+
+Secondi… il movimento del braccio stesso… e il braccio, mai, in alcun modo…
+
+Ad esempio, il movimento avviene senza questa fase preparatoria del collo e della spalla.
+
+Ora lasciamo che l’antagonista muova una pedina, e che ciò comporti le conseguenze appropriate…
+
+Titolo:  
+Come al solito, Maelzel esegue i suoi movimenti sulla scacchiera…
+
+Automato… E lascia che l’antagonista osservi attentamente quell’automato.
+
+Fino a quando non notò quel movimento preparatorio della spalla.
+
+Non appena viene rilevato questo movimento, e prima ancora che il braccio stesso…
+
+“Comincia a muoversi… Lascialo ritirare la sua pedina, come se avesse percepito qualcosa…”
+
+Un errore nella sua mossa… Allora si vedrà che quel movimento…
+
+Il braccio che, in tutti gli altri casi, segue immediatamente…
+
+Movimento sulle spalle… viene trattenuto… non viene eseguito… nonostante Maelzel…
+
+Non ha ancora eseguito alcun movimento sulla scacchiera dell’Automato.
+
+Corrispondente al ritiro dell’antagonista. In questo caso…
+
+È evidente che l’automato stesse per muoversi… e infatti lo fece.
+
+Non muoversi… un effetto chiaramente prodotto dal ritiro di…
+
+Antagonista, e senza alcuna interferenza da parte di Maelzel.
+
+
+
+Questo fatto dimostra appieno che l’intervento di Maelzel…
+
+Esecutando i movimenti dell’antagonista sul tabellone…
+
+Automato: non essenziale per i movimenti dell’automato stesso…
+
+2 – Che i suoi movimenti siano regolati dalla mente… da qualcuno che…
+
+Vede il pannello di controllo dell’avversario… e si rende conto che i suoi movimenti non sono prevedibili.
+
+Regolato dalla mente di Maelzel, il quale aveva le spalle voltate…
+
+L'avversario, al ritiro della sua mossa.
+
+
+
+3. L’automata non vince sempre la partita…
+
+Una semplice [[motifs/machine|macchina]], invece, non funzionerebbe così: agirebbe sempre in modo uniforme.
+
+Vittoria. Il _principio_ che viene scoperto e grazie al quale una [[motifs/machine|macchina]] può.
+
+Giocato per scacchi: un’estensione dello stesso gioco
+
+Il principio in questione gli permetterebbe di vincere la partita; una sua ulteriore estensione…
+
+Far sì che possa vincere _tutte_ le partite… cioè, che sia in grado di battere qualsiasi avversario possibile.
+
+Un antagonista… Un po’ di riflessione basterà per convincere chiunque.
+
+Il fatto che la difficoltà di creare una [[motifs/machine|macchina]] in grado di vincere tutti i giochi non risieda.
+
+Di un grado appena superiore, in termini di principio…
+
+Le operazioni necessarie sono molteplici rispetto a quelle richieste semplicemente per farlo vincere una singola partita.
+
+Se quindi consideriamo il giocatore di scacchi come una [[motifs/machine|macchina]], dobbiamo supporre che.
+
+Ciò che è altamente improbabile… è che il suo inventore abbia preferito lasciar perdere.
+
+Non è mai completo fino al momento in cui non viene perfezionato… un’ipotesi che diventa ancora più vera…
+
+“Assurdo… se ci pensiamo bene, lasciarlo incompleto significherebbe…”
+
+Non offre alcuna argomentazione contro la possibilità che sia qualcosa di puro
+
+[[motifs/machine|macchina]]: proprio quell’argomento che ora presentiamo.
+
+
+
+Quando la situazione del gioco diventa difficile o complessa…
+
+Non si nota mai che il turco scuota la testa o giri gli occhi.
+
+Solo quando il suo prossimo movimento è ovvio, o quando la partita è così…
+
+"#In una situazione in cui un uomo al posto dell’Automaton…”"
+
+Non è necessario rifletterci sopra… Ora, questi particolari movimenti…
+
+La testa e gli occhi: movimenti tipici di coloro che si dedicano…
+
+Meditazione… e l’ingegnoso barone Kempelen avrebbe sicuramente adattato questa pratica
+
+Questi movimenti erano puramente meccanici, dovuti alle caratteristiche intrinseche della macchina stessa.
+
+Adatto alla loro esposizione… cioè, in occasioni di complessità. Ma
+
+Il contrario sembra essere vero, e questo contrario si applica anche in questo caso.
+
+Esattamente come avevamo ipotizzato, c’era un uomo all’interno. Proprio quando…
+
+Immerso nella meditazione sul gioco, non ha [[motifs/time|tempo]] per pensare ad altro.
+
+Avviando il meccanismo dell’automata che…
+
+Scosse la testa e gli occhi… Ma quando la partita diventa ovvia…
+
+Ha il [[motifs/time|tempo]] di guardarsi intorno, ed è per questo che vediamo quella testa.
+
+Scuoti la testa e gli occhi ti rotolano all’indietro.
+
+
+
+5. Quando la [[motifs/machine|macchina]] viene ruotata in modo che i spettatori possano.
+
+Esame della parte posteriore del “Turco”, e quando le sue vesti vengono rimosse…
+
+“Sollevato e con le porte del baule spalancate…”
+
+All’interno del baule si vedono molte macchine ammassate una accanto all’altra.
+
+Esaminando attentamente questa macchina mentre l’Automato era in movimento
+
+In altre parole, mentre l'intera [[motifs/machine|macchina]] si muoveva sui rotoli,
+
+Ci è sembrato che alcune parti di quel meccanismo fossero cambiate.
+
+La loro forma e posizione in un grado troppo elevato per poter essere spiegato…
+
+Per via delle semplici leggi della prospettiva… e di ciò che ne consegue.
+
+Le ispezioni ci hanno convinto che queste modifiche indebiti fossero…
+
+Effetti riflessi negli interni del baule
+
+L’introduzione di specchi all’interno della macchinaria non avrebbe potuto essere…
+
+Destinati ad influenzare, in qualsiasi modo, il funzionamento stesso di quel meccanismo.
+
+Operazione, qualunque essa sia, deve…
+
+Il titolo deve necessariamente fare riferimento all’occhio dello spettatore. Noi…
+
+Una volta stabilito che questi specchi erano disposti in modo da moltiplicare…
+
+Titolo:  
+La visione di alcune macchine all’interno del baule… così da…
+
+"Dai l’impressione che sia pieno di meccanismi… Ora."
+
+Da questa deduzione diretta si evince che la [[motifs/machine|macchina]] non è pura.
+
+[[motifs/machine|macchina]]. Perché se lo fosse, l’inventore, lungi dal desiderarne.
+
+Un meccanismo che sembra complesso, utilizzando la [[concepts/deception|inganno]] a tale scopo.
+
+Darebbe qualsiasi cosa pur di conferirgli questo aspetto…
+
+Convincere coloro che hanno assistito alla sua mostra…
+
+La semplicità dei mezzi con cui si ottennero risultati così meravigliosi
+
+Fu così che ciò venne realizzato.
+
+
+
+6. L’aspetto esteriore e, in particolare, il comportamento
+
+Il Turco… quando lo consideriamo un’imitazione della vita, in realtà…
+
+Imitazioni molto scadenti… Il volto non rivela alcuna emozione.
+
+Ingegno… eppure superato, nella sua somiglianza con l’uomo.
+
+Titolo:  
+“Vista… attraverso le più comuni opere in cera. Gli occhi ruotano…”
+
+In modo innaturale nella mente, senza alcun movimento corrispondente…
+
+Ciglia o sopracciglia… In particolare, il braccio svolge le sue funzioni in…
+
+In un modo estremamente rigido, goffo, scattoso e rettangolare.
+
+Ora, tutto ciò è il risultato, o della mancanza di capacità da parte di Maelzel, o…
+
+Titolo:  
+Migliore… o negligenza intenzionale? La negligenza accidentale, invece, è dovuta a cause diverse…
+
+La domanda, se consideriamo l’intero [[motifs/time|tempo]] di.
+
+Un proprietario ingegnoso è impegnato nel miglioramento della sua…
+
+Macchine. Senza dubbio non dobbiamo considerarle come entità prive di vita…
+
+Apparenze di incapacità… per quanto riguarda tutti gli altri automi creati da Maelzel.
+
+Titolo: Sono prove della sua totale capacità di riprodurre fedelmente tali movimenti.
+
+"Le peculiarità della vita descritte con la più meravigliosa precisione."
+
+Ad esempio, i ballerini che danzano su corde sono insuperabili… Quando il pagliaccio ride…
+
+Le sue labbra, i suoi occhi, le sue sopracciglia e le sue palpebre… insomma, tutto di lui
+
+Tratti del suo volto – imbevuti della loro appropriata espressione
+
+Espressioni… Sia in lui che nel suo compagno, ogni gesto è così…
+
+Del tutto facile e privo di qualsiasi traccia di artificialità.
+
+“Che, se non fosse per la loro piccola dimensione…”
+
+Passaggio da un spettatore all’altro
+
+“Alla loro mostra sulle corde, sarebbe difficile…”
+
+Convincere qualsiasi gruppo di persone che questi automi di legno…
+
+Non erano creature viventi. Pertanto, non possiamo [[concepts/doubt|dubitare]] del signor.
+
+La capacità di Maelzel… e dobbiamo necessariamente supporre che…
+
+Intenzionalmente permise che il suo giocatore di scacchi rimanesse lo stesso
+
+Una figura artificiale e innaturale, creata senza dubbio dal barone Kempelen.
+
+Anche grazie a un design particolare…) fu ciò che ne permise il successo. Ma quale fosse esattamente questo design…
+
+Non è difficile immaginare… Se l’automato fosse davvero simile alla vita nel suo funzionamento…
+
+Movimenti che il pubblico sarebbe più propenso ad attribuire…
+
+Le operazioni e le loro vere cause: ovvero l’azione umana all’interno di esse.
+
+Più di quanto non sia ora, quando quelle manovre goffe e rettangolari…
+
+L’idea di un meccanismo puro e privo di interferenze esterne.
+
+
+
+7. Poco prima dell’inizio della partita.
+
+Il robot viene caricato come al solito dall’espositore… un orecchio…
+
+Abituato ai suoni prodotti nel processo di avvolgimento…
+
+"Un sistema di macchinari che non fallirà mai nel rilevare, in modo istantaneo..."
+
+“Che l’asse ruotasse grazie alla chiave presente nella scatola del giocatore di scacchi…”
+
+Non può assolutamente essere collegato né a un peso, né a una [[motifs/spring|molla]], né.
+
+Qualsiasi sistema di macchinari, in qualunque forma esso sia. La conclusione qui è la stessa.
+
+Come nella nostra ultima osservazione… La conclusione non è essenziale per il contenuto principale.
+
+Titolo:  
+Le operazioni dell’automata, e vengono eseguite secondo il progetto stabilito…
+
+Stimolando nei spettatori l’illusione errata riguardo al funzionamento meccanico di tali dispositivi.
+
+
+
+8. Quando la domanda viene posta esplicitamente a Maelzel: “È…”
+
+“Un automato composto esclusivamente da [[motifs/machine|macchine]], o no?”, la sua risposta è sempre la stessa.
+
+"Lo stesso… ‘Non dirò nulla al riguardo.’ Ora, la notorietà di…"
+
+L'automato e la grande curiosità che suscita ovunque.
+
+Si deve soprattutto all'opinione diffusa secondo cui sia…
+
+Anche una semplice [[motifs/machine|macchina]], piuttosto che qualsiasi altra circostanza. Ovviamente, in quel caso.
+
+Interesse del proprietario è rappresentarlo come puro…
+
+[[motifs/machine|macchina]]. E quale metodo potrebbe essere più ovvio e più efficace di questo?
+
+Per impressionare il pubblico con questa idea desiderata…
+
+Che cosa potrebbe essere, se non una dichiarazione positiva ed esplicita in tal senso? Su…
+
+D'altra parte, quale metodo potrebbe essere più ovvio ed efficace di questo?
+
+Tanto incredibile da rendere impossibile credere che l’Automato fosse semplicemente una pura [[motifs/machine|macchina]].
+
+Piuttosto che trattenere una dichiarazione così esplicita… Perché, le persone lo capiranno comunque.
+
+Naturalmente si può ragionare in questo modo: rappresentare ciò è nell’interesse di Maelzel.
+
+Qualcosa che una pura [[motifs/machine|macchina]] potrebbe fare. Lui rifiuta di farlo, in modo diretto, con le parole.
+
+Anche se non esita affatto e sembra ansioso di farlo…
+
+Attraverso azioni indirette… è davvero ciò che desidera?
+
+Rappresentarlo con azioni, sarebbe più che felice di farlo.
+
+Testimonianza più diretta delle parole… l’inferringenza è che…
+
+La consapevolezza che non si tratti di una semplice [[motifs/machine|macchina]] è il motivo per cui.
+
+Il suo [[motifs/silence|silenzio]]; le sue azioni non possono implicarlo in una menzogna, il suo.
+
+Le parole possono.
+
+
+
+9. Quando, mostrando l’interno della scatola, Maelzel…
+
+“Aperta la porta… No, io… e anche la porta subito dietro.”
+
+Lui tiene una candela accesa alla porta posteriore (come menzionato)
+
+In alto), e muove l’intera [[motifs/machine|macchina]] avanti e indietro al fine di.
+
+Convincere l’azienda che il mobile numero 1 è completamente pieno
+
+Con l’ausilio di macchinari. Quando la [[motifs/machine|macchina]] viene spostata in questo modo, allora.
+
+A qualsiasi osservatore attento sarà evidente che, mentre quella parte…
+
+La macchina vicino alla porta d’ingresso numero 1 è perfettamente stabile…
+
+Inalterabile… ma al suo interno, le cose fluttuano, in modo molto…
+
+In misura lieve, con i movimenti della [[motifs/machine|macchina]]. Questo.
+
+La circostanza che per prima cosa suscitò in noi il sospetto che…
+
+Una parte remota della macchina era progettata in modo da essere facilmente…
+
+Titolo:  
+Si sono staccati tutti insieme dal loro posto quando avrebbero dovuto rimanere fitti.
+
+Richiederlo. In questa occasione abbiamo già detto che si verificherà quando…
+
+L’uomo nascosto all’interno portò il proprio [[concepts/body|-corpo]] in posizione eretta.
+
+Al momento della chiusura della porta posteriore.
+
+
+
+10. Sir David Brewster afferma che la figura del Turco sia di…
+
+Una dimensione della vita, ma in realtà è molto superiore alla normale dimensione.
+
+"Niente è più facile che commettere errori nelle nostre concezioni di grandezza."
+
+Il [[concepts/body|corpo]] dell’Automata è generalmente isolato, e poiché non possiede.
+
+Non possiamo paragonarlo immediatamente ad alcuna forma umana, quindi soffriamo
+
+Considerarlo come qualcosa di ordinario… Un errore.
+
+Titolo: Tuttavia, può essere corretto osservando il giocatore di scacchi quando…
+
+A volte, è l’espositore stesso ad intervenire in tali situazioni… Il signor Maelzel, per esempio.
+
+Certo, non è molto alto, ma avvicinandosi alla [[motifs/machine|macchina]].
+
+La sua testa sarà trovata almeno diciotto pollici più in basso della testa di…
+
+Il Turco… anche se, come si ricorderà, quest’ultimo si trova in una certa situazione…
+
+Posizione seduta.
+
+
+
+11. La scatola all’interno della quale è posizionato l’automata…
+
+Tre piedi e sei pollici di lunghezza, due piedi e quattro pollici di profondità… e due…
+
+Titolo:  
+“Alte sei pollici… Queste dimensioni sono più che sufficienti.”
+
+L'alloggio di un uomo di statura molto superiore alla media… e
+
+Solo la cabina principale è in grado di contenere un uomo normale.
+
+Titolo:  
+Nella posizione di cui abbiamo parlato, assunta da quella persona…
+
+Nascosti. Poiché si tratta di fatti, che chiunque voglia metterli in dubbio può facilmente verificare.
+
+Con calcoli concreti possiamo dimostrarlo; riteniamo quindi inutile soffermarci ulteriormente sull’argomento.
+
+Li suggeriremo soltanto che, sebbene la parte superiore della scatola sia…
+
+Una tavola apparentemente spessa circa tre pollici…
+
+Il pubblico può accontentarsi di chinarsi e guardarlo in su.
+
+Quando il compartimento principale è aperto… in realtà è molto…
+
+Sottile… Anche l’altezza di questo cassetto potrebbe essere fraintesa da alcuni.
+
+Chi lo esamina in modo superficiale… C’è uno spazio di circa…
+
+Tre pollici tra la parte superiore del cassetto, visto da…
+
+L’esterno, e il [[characters/bottom|basso]] dell’armadio: uno spazio che sicuramente.
+
+Inclusi nell’altezza dello sportello del cassetto… Questi dispositivi creati appositamente per…
+
+La stanza all’interno della scatola appare più piccola di quanto in realtà non sia…
+
+Un design volto ad impressionare, frutto dell’ingegno dell’inventore.
+
+Di nuovo, la gente si affida a un’idea falsa, ovvero che nessun essere umano possa…
+
+Potrà essere riposto all’interno della scatola.
+
+
+
+12. L’interno della compartimentazione principale è rivestito su tutto il perimetro
+
+Tessuto. Questo tessuto, presumiamo, abbia uno scopo doppio.
+
+Una parte di esso, se stirato con forza, può costituire l’unico…
+
+Titolo:  
+Partizioni che è necessario rimuovere durante…
+
+Titolo:  
+I cambiamenti nella posizione dell’uomo, ovvero la distinzione tra…
+
+Parte posteriore della cabina principale e parte posteriore dell’armadio numero 1
+
+E la separazione tra la cabina principale e lo spazio adiacente
+
+Dietro il cassetto, quando è aperto… Se immaginiamo che sia così…
+
+La difficoltà di spostare le partizioni scompare all’istante, se…
+
+Certamente, si potrebbe ipotizzare l’esistenza di tale difficoltà in qualsiasi situazione…
+
+Circostanze per esistere. Il secondo scopo del tessuto è…
+
+Morti e tutti i suoni che ne derivano resi indistinti
+
+I movimenti della persona all’interno.
+
+
+
+13. L’antagonista, come abbiamo già osservato in precedenza, non suscita alcuna simpatia da parte del lettore
+
+Giocare alla scacchiera dell’automata… ma seduto in un altro posto
+
+La distanza dalla [[motifs/machine|macchina]]. Il motivo che, molto probabilmente, spiegherebbe.
+
+Assegnato per questa circostanza, qualora se ne richiedesse l’esigenza
+
+Titolo:  
+Se l’antagonista fosse collocato in un altro contesto…
+
+Intervenire tra la [[motifs/machine|macchina]] e gli spettatori, e impedirlo.
+
+Da un punto di vista diverso… Ma questa difficoltà potrebbe essere…
+
+Può essere facilmente risolto, sia aumentando l’altezza dei sedili presenti nell’azienda, che…
+
+Inclinando l’estremità della scatola verso di loro durante il gioco.
+
+La vera causa di questa restrizione è, forse, molto diversa…
+
+L’antagonista seduto in contatto con la scatola… il segreto…
+
+Potrebbe essere scoperto, grazie alle sue indagini e con l’ausilio di metodi rapidi…
+
+Car, i respiri dell’uomo erano nascosti.
+
+
+
+14. Sebbene il signor Maelzel abbia rivelato l’interno di…
+
+La [[motifs/machine|macchina]], a volte, si discosta leggermente dalla _routine_ che abbiamo stabilito.
+
+Come è stato già sottolineato, tuttavia in nessun caso egli lo fa realmente.
+
+Deviare da esso potrebbe interferire con la nostra soluzione. Ad esempio…
+
+Ha la reputazione di aprire, prima di tutto, il cassetto… ma mai…
+
+Apre il compartimento principale senza prima chiudere la porta posteriore di
+
+Cupboard N. 1: Non apre mai il vano principale senza prima…
+
+Tirando fuori il cassetto… Non lo chiude mai senza prima…
+
+Chiudendo la parte principale… Lui non apre mai la porta posteriore…
+
+Cupboard N. 1… mentre la parte principale è aperta… e il gioco inizia.
+
+Il gioco degli scacchi non inizia mai finché l'intera [[motifs/machine|macchina]] non è stata chiusa. Ora.
+
+Se si osservasse che _mai, nemmeno in un singolo caso,_ il signor.
+
+Maelzel si discosta dalla routine che abbiamo ritenuto necessaria
+
+Per la nostra soluzione, sarebbe una delle più efficaci possibili.
+
+Argomenti a sostegno di ciò… ma l’argomento stesso diventa…
+
+Infinitamente rafforzato se prendiamo adeguatamente in considerazione quella circostanza
+
+A volte si allontana dalla routine, ma mai del tutto.
+
+“So che dovete deviare per falsificare la soluzione.”
+
+
+
+15. Sulla plancia dell’automata ci sono sei candele…
+
+Mostre… La domanda che sorge naturalmente è: “Perché ce ne sono così tante?”
+
+Titolo:  
+“Occupati… quando sarebbero bastate una o, al massimo, due candele…”
+
+È stato più che sufficiente per garantire ai spettatori una visione chiara di…
+
+Il tavolo, in una stanza altrimenti così ben illuminata come quella dell’esposizione.
+
+La stanza è sempre così, soprattutto se supponiamo che la [[motifs/machine|macchina]] sia una _pura.
+
+[[motifs/machine|Macchina]], non c’è alcuna necessità di utilizzare tanta luce, o forse nemmeno.
+
+“Qualsiasi luce, anche minima, sia sufficiente affinché possa svolgere le sue funzioni…”
+
+Quando, soprattutto, viene posta solo una singola candela sul tavolo
+
+“L’inferenza più ovvia riguardo all’antagonista è…”
+
+“Una luce così intensa è necessaria affinché l’uomo all’interno possa vedere”.
+
+Attraverso il materiale trasparente (probabilmente una garza sottile) di cui…
+
+Il petto del turco è composto… Ma quando consideriamo…
+
+Disposizione delle candele: un altro motivo che emerge immediatamente
+
+Se stesso. In totale, ci sono sei luci (come abbiamo detto prima).
+
+Tre di queste si trovano su ciascun lato della figura… quelle più lontane…
+
+Dai spettatori, quelli più lontani sono i primi ad essere raggiunti dai suoni… quelli al centro, invece, sono più vicini… ma non tanto quanto gli altri.
+
+Due pollici in meno… e coloro che sono più vicini all’azienda, addirittura due pollici in meno.
+
+Titolo:  
+Ancora più breve… e le candele su un lato hanno altezze diverse.
+
+Le candele, rispettivamente opposte l’una all’altra, secondo un determinato rapporto…
+
+Titolo:  
+Diverso di due pollici… cioè, la candela più lunga…
+
+Un lato è circa tre pollici più corto della candela più lunga…
+
+L’altro, e così via. Si vedrà quindi che nessuno dei due…
+
+Le candele hanno la stessa altezza, e quindi anche la difficoltà…
+
+Titolo:  
+Determinare la natura del seno della figura…
+
+Il bagliore, che viene direzionato in modo particolare in quella zona, aumenta notevolmente.
+
+L’effetto abbagliante degli incroci complessi
+
+Titolo:  
+“Rayi – incroci che si realizzano posizionando i centri…”
+
+Radiazioni a diversi livelli.
+
+
+
+16. Mentre il giocatore di scacchi aveva in suo possesso il barone Kempelen
+
+È stato osservato più volte che, innanzitutto, un italiano…
+
+La suite del barone non era mai visibile durante la partita.
+
+Titolo:  
+Al gioco degli scacchi contro il turco… e, in secondo luogo, l’italiano che viene catturato
+
+Gravemente malato, l'esposizione fu sospesa fino al suo recupero.
+
+Questo italiano dichiarò di ignorare completamente il gioco degli scacchi.
+
+Anche se tutti gli altri componenti del gruppo suonavano molto bene, lo stesso non valeva per lui.
+
+Da quando l’Automato è stato creato, sono state effettuate varie osservazioni.
+
+Acquistato da Maelzel. C’è un uomo, Schlumberoer, che se ne occupa.
+
+Lo segue ovunque vada, ma non ha alcuna occupazione apparente…
+
+Assistenza nell'imballaggio e nel sballaggio
+
+Automata… Quest’uomo è di statura media e possiede qualcosa di davvero notevole…
+
+Si china sulle spalle… Che si dica di giocare a scacchi o meno…
+
+Non, non siamo stati informati. Tuttavia, è abbastanza certo che lui…
+
+Non verrà mai mostrato durante l’esposizione del “Scacchista”.
+
+Spesso visibile poco prima e poco dopo…
+
+MOSTRA. Inoltre, alcuni anni fa Maelzel visitò Richmond.
+
+Con i suoi automi, e crediamo che li abbia esposti nella casa.
+
+Ora occupato dal signor Bossieux come Accademia di Danza. _Schlumberg_ER
+
+Improvvisamente si ammalò, e durante la sua malattia non ci fu nulla…
+
+Mostra del giocatore di scacchi. Questi fatti sono ben noti a tutti.
+
+Molti dei nostri cittadini… La ragione addotta per la sospensione…
+
+Il rendimento del giocatore di scacchi non era dovuto a una malattia…
+
+Schlumberger. Le inferenze che possiamo trarre da tutto ciò… le lasciamo senza approfondimenti ulteriori.
+
+Ulteriori commenti, rivolti al lettore.
+
+
+
+17. Il Turco gioca con il suo braccio sinistro… Una circostanza davvero insolita.
+
+Un fenomeno notevole non può essere casuale… Brewster non vi presta attenzione.
+
+Qualsiasi cosa vada oltre una semplice affermazione… crediamo che sia proprio questo il vero significato.
+
+Fatto. I primi autori che scrissero trattati sull’automato, a quanto pare…
+
+Non ho affatto osservato la questione in questione, e non ne ho alcuna conoscenza.
+
+L’autore del pamphlet menzionato da Brewster ne parla.
+
+Ma ammette di non essere in grado di spiegarlo. Eppure…
+
+Titolo:  
+Ovviamente, a causa di tali evidenti discrepanze o incoerenze…
+
+Titolo:  
+Devono essere effettuate determinate deduzioni (se del tutto necessarie), le quali…
+
+Conducici verso la [[concepts/truth|_verità]].
+
+
+
+La circostanza in cui l’automato gioca con la sua mano sinistra
+
+Non può essere collegato alle operazioni della [[motifs/machine|macchina]].
+
+Considerato semplicemente come tale… Qualsiasi sistema meccanico che possa essere utilizzato in questo modo…
+
+"Far muovere la figura, in qualsiasi modo, verso sinistra."
+
+Arm – se invertito, potrebbe farlo muovere nello stesso modo…
+
+“Giusto… Ma questi principi non possono essere estesi all’uomo.”
+
+Organizzazione in cui esiste una differenza marcata e radicale
+
+Il contenuto e le attribuzioni del diritto
+
+Braccia destre e sinistre. Riflettendo su questo ultimo aspetto, è naturale che…
+
+Titolo:  
+Riferisci questa incongruenza evidente nel “Giocatore di Scacchi”…
+
+Una peculiarità nell’organizzazione umana… Se così è, dobbiamo immaginare…
+
+“Una sorta di ritorno… Perché il giocatore di scacchi agisce esattamente come un uomo.”
+
+Non lo avrebbe fatto. Queste idee, una volta accettate nella mente, sono già sufficienti…
+
+“Themselves, to suggest the notion of a man in the interior… A few”
+
+Passi sempre più impercettibili ci portano, infine, al risultato.
+
+L'automata gioca con il suo braccio sinistro, perché per nessun altro motivo…
+
+Circostanze che potrebbero permettere all’uomo di utilizzare il proprio diritto…
+
+Desiderato, naturalmente… Immaginiamo, ad esempio, che…
+
+Automato che gioca con il proprio braccio destro… Per raggiungere quella macchina.
+
+Quello che muove il braccio, e che abbiamo già spiegato essere…
+
+Appena sotto la spalla… sarebbe necessario per quell’uomo
+
+All'interno di entrambi i casi, utilizzare il braccio destro risultava estremamente doloroso…
+
+Posizione imbarazzante, cioè tenuta vicina al suo [[concepts/body|-corpo]] e stretta con forza.
+
+Compresso tra il suo [[concepts/body|-corpo]] e il lato dell’Automata,, ) o
+
+Altrimenti, avrebbe dovuto usare il braccio sinistro per coprirsi il petto… In nessuno dei due casi.
+
+In tal caso, potrebbe agire con la necessaria facilità e precisione.
+
+Contrariamente, l’automato che suona, proprio come fa in realtà…
+
+Braccio sinistro: tutte le difficoltà scompaiono. Il braccio destro dell’uomo
+
+Sul suo petto è dipinto qualcosa, e le sue dita destre si muovono…
+
+Senza alcuna restrizione… sulla macchina presente nella spalla…
+
+Figura.
+
+
+
+Non riteniamo che si possano sollevare obiezioni ragionevoli in merito.
+
+Contro questa soluzione del Giocatore di Scacchi Automatico.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Maelzel's Chess-Player (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/spring,motif/time,motif/water,motif/window,concept/doubt,character/bottom"></span>

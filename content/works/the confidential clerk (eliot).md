@@ -31,6 +31,12 @@ tags:
 > [!abstract] 
 > Eliot's drawing-room comedy after Euripides' Ion, turning on mistaken parentage and disputed identity: Sir Claude, Lady Elizabeth and the clerk Colby discover who is whose lost child, while Colby seeks a true vocation over an inherited one.
 
+## Capitoli / Chapters
+
+- [Act I](/testi/eliot/plays/the_confidential_clerk#act_1--scene_1)
+- [Act II](/testi/eliot/plays/the_confidential_clerk#act_2--scene_1)
+- [Act III](/testi/eliot/plays/the_confidential_clerk#act_3--scene_1)
+
 ## Connections
 
 **Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]

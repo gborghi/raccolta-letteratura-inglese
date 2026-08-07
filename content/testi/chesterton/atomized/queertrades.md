@@ -5246,6 +5246,5307 @@ like a true cycle.
 THE END
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo 1
+
+Le formidabili avventure del maggiore Brown
+
+Rabelais, o il suo selvaggio illustratore Gustave Doré, devono
+aver avuto qualcosa a che fare con l'ideazione di quelle cose
+chiamate case a schiera in Inghilterra e in [[settings/america|America]].
+C'è qualcosa di interamente gargantuesco nell'idea di risparmiare
+spazio ammucchiando le case l'una sull'altra, porte d'ingresso comprese.
+E nel caos e nella complessità di quelle strade perpendicolari
+qualunque cosa può abitare o accadere, ed è in una di esse, credo,
+che l'indagatore può trovare gli uffici del Club dei Mestieri Bizzarri.
+Si potrebbe pensare a prima vista che il nome attiri e faccia
+trasalire il passante, ma nulla attira o fa trasalire in questi
+cupi, immensi alveari. Il passante cerca soltanto la propria
+[[concepts/melancholy|malinconica]] destinazione, l'Agenzia di Navigazione del Montenegro o l'ufficio
+[[settings/london|londinese]] del Rutland Sentinel, e attraversa i passaggi crepuscolari
+come si attraversano i corridoi crepuscolari di un sogno.
+Se i Thug fondassero una Compagnia per l'Assassinio degli Estranei
+in uno dei grandi edifici di Norfolk Street, e vi spedissero un uomo
+mite con gli occhiali a rispondere alle domande, nessuna domanda verrebbe fatta.
+E il Club dei Mestieri Bizzarri regna in un grande edificio nascosto
+come un fossile in una possente rupe di fossili.
+
+La [[concepts/nature|natura]] di questa società, per come poi la scoprimmo,
+è presto e semplicemente detta. È un Club eccentrico e bohémien,
+la cui condizione assoluta di appartenenza sta in questo: che il
+candidato deve aver inventato il metodo con cui si guadagna da vivere.
+Deve essere un mestiere del tutto nuovo. La definizione esatta di questo
+requisito è data nelle due regole principali. Primo, non deve
+essere una semplice applicazione o variazione di un mestiere esistente.
+Così, per esempio, il Club non ammetterebbe un agente di assicurazioni
+solo perché, invece di assicurare i mobili degli uomini contro l'essere
+bruciati in un [[motifs/fire|incendio]], assicurasse, poniamo, i loro pantaloni contro l'essere
+lacerati da un cane rabbioso. Il principio (come Sir Bradcock Burnaby-Bradcock,
+nel discorso straordinariamente eloquente e slanciato tenuto al club
+in occasione della questione sollevata nell'affare Stormby Smith,
+disse con arguzia e acume) è lo stesso. Secondo, il mestiere deve essere
+una genuina fonte commerciale di reddito, il sostentamento del suo inventore.
+Così il Club non accoglierebbe un uomo solo perché ha scelto di passare
+le sue giornate a collezionare barattoli di sardine ammaccati, a meno che non ne
+ricavasse un fiorente commercio. Il professor Chick lo mise ben in chiaro.
+
+E quando si ricorda quale fosse il nuovo mestiere dello stesso professor Chick,
+non si sa se ridere o piangere.
+
+La scoperta di questa strana società fu una cosa curiosamente rinfrescante;
+rendersi conto che nel mondo esistevano dieci nuovi mestieri era come
+guardare la prima [[motifs/ship|nave]] o il primo aratro. Faceva sentire un uomo
+ciò che dovrebbe sentire, cioè che si trovava ancora nell'[[motifs/childhood|infanzia]] del mondo.
+Che io fossi giunto infine a un [[concepts/body|consesso]] così singolare non era,
+posso dirlo senza [[concepts/vanity|vanità]], del tutto singolare, poiché
+ho la mania di appartenere a quante più società possibile:
+si può dire che io collezioni club, e ho accumulato una vasta e
+fantastica varietà di esemplari da quando, nella mia audace giovinezza,
+collezionai l'Athenaeum. In un giorno futuro, forse, potrò
+raccontare le storie di alcuni degli altri consessi ai quali sono appartenuto.
+Narrerò le imprese della Società delle Scarpe del Morto
+(quella comunione superficialmente immorale, ma oscuramente giustificabile);
+spiegherò la curiosa origine del Gatto e Cristiano,
+il cui nome è stato così vergognosamente frainteso;
+e il mondo saprà finalmente perché l'Istituto dei Dattilografi
+si fuse con la Lega del Tulipano Rosso. Delle Dieci Tazze da Tè, naturalmente,
+non oso dire una parola. La prima delle mie rivelazioni, in ogni caso,
+riguarderà il Club dei Mestieri Bizzarri, il quale, come ho
+detto, era di questa classe, uno di quelli in cui ero quasi destinato
+a imbattermi prima o poi, a causa del mio singolare passatempo.
+La giovinezza sfrenata della metropoli mi chiama scherzosamente «il Re dei Club».
+Mi chiamano anche «il Cherubino», in allusione all'aspetto roseo e giovanile
+che ho presentato nei miei anni declinanti. [[concepts/hope|Spero]] soltanto
+che gli spiriti nel mondo migliore facciano cene buone quanto le mie.
+Ma il ritrovamento del Club dei Mestieri Bizzarri ha una cosa molto curiosa
+in sé. La cosa più curiosa a riguardo è che non fu scoperto
+da me; fu scoperto dal mio amico Basil Grant, uno scrutatore di stelle,
+un mistico, e un uomo che a stento si muoveva dalla sua soffitta.
+
+Pochissime persone sapevano qualcosa di Basil; non perché fosse
+minimamente scontroso, giacché se un uomo dalla strada fosse entrato
+nelle sue stanze lo avrebbe trattenuto a parlare fino al mattino.
+Poche persone lo conoscevano, perché, come tutti i poeti, poteva farne a meno;
+accoglieva un volto umano come avrebbe accolto un'improvvisa fusione
+di colore in un tramonto; ma non sentiva più il bisogno di uscire
+alle feste di quanto sentisse il bisogno di alterare le nubi del tramonto.
+Viveva in una bizzarra e comoda soffitta tra i tetti di Lambeth.
+Era circondato da un caos di cose che erano in strano contrasto
+con i tuguri intorno a lui; vecchi libri fantastici, spade, armature—l'intero
+ripostiglio della [[motifs/dust|polvere]] del romanticismo. Ma il suo volto, in mezzo a tutte queste reliquie donchisciottesche,
+appariva curiosamente acuto e moderno—un volto potente, da uomo di legge.
+E nessuno tranne me sapeva chi fosse.
+
+Per quanto tempo sia passato, tutti ricordano la terribile e [[concepts/grotesque|grottesca]]
+scena che avvenne a—, quando uno dei più acuti e
+vigorosi giudici inglesi impazzì all'improvviso sul banco.
+Io avevo la mia opinione su quell'episodio; ma sui fatti in sé
+non v'è alcun dubbio. Per alcuni mesi, anzi per alcuni anni,
+la gente aveva rilevato qualcosa di curioso nella condotta del giudice.
+Sembrava aver perso interesse per la legge, nella quale era stato
+oltre ogni dire brillante e temibile come K.C., e sembrava occupato
+a dare consigli personali e morali alle persone coinvolte.
+Parlava più come un prete o un medico, e per giunta molto
+schietto. Il primo brivido fu probabilmente suscitato quando disse
+a un uomo che aveva tentato un delitto passionale: «La condanno
+a tre anni di [[concepts/imprisonment|reclusione]], con la ferma, solenne
+e divina convinzione che ciò di cui lei ha bisogno sono tre mesi
+al mare». Accusava i criminali dal banco, non tanto
+dei loro evidenti crimini legali, quanto di cose di cui mai si era
+sentito parlare in un [[settings/court|tribunale]] di giustizia: egoismo mostruoso, mancanza di umorismo,
+e morbosità deliberatamente coltivata. Le cose giunsero al culmine
+in quel celebre caso dei diamanti in cui lo stesso Primo Ministro,
+quel brillante patrizio, dovette farsi avanti, con grazia e riluttanza,
+per testimoniare contro il suo cameriere. Dopo che la vita minuziosa
+della casa fu accuratamente esibita, il giudice pregò
+il Premier di farsi di nuovo avanti, cosa che questi fece con quieta dignità.
+Il giudice allora disse, con voce improvvisa e stridula: «Si procuri una nuova [[motifs/soul|anima]].
+Quella cosa non è adatta a un cane. Si procuri una nuova [[motifs/soul|anima]]». Tutto ciò, naturalmente,
+agli occhi dei sagaci, era presago di quel [[concepts/melancholy|malinconico]]
+e farsesco giorno in cui il senno lo abbandonò davvero in pubblico [[settings/court|tribunale]].
+Era un caso di diffamazione tra due finanzieri assai eminenti e potenti,
+contro entrambi i quali erano mosse accuse di considerevole appropriazione indebita.
+Il caso era lungo e complesso; gli avvocati erano prolissi ed eloquenti;
+ma alla fine, dopo settimane di lavoro e di retorica, venne il [[motifs/time|momento]]
+in cui il grande giudice doveva tirare le somme; e uno dei suoi celebri
+capolavori di lucidità e di logica polverizzante era atteso con ansia.
+Aveva parlato pochissimo durante la prolungata vicenda, e appariva
+triste e cupo al termine di essa. Rimase in silenzio per qualche istante,
+e poi proruppe in un canto stentoreo. Le sue osservazioni (per come furono riportate)
+furono le seguenti:
+
+«O Rowty-owty tiddly-owty Tiddly-owty tiddly-owty Highty-ighty
+tiddly-ighty Tiddly-ighty ow.»
+
+Poi si ritirò dalla vita pubblica e prese la soffitta a Lambeth.
+
+Ero seduto lì una sera, verso le sei, davanti a un bicchiere di quel
+magnifico Borgogna che teneva dietro una pila di folianti gotici;
+lui camminava a grandi passi per la stanza, tastando, secondo una sua abitudine,
+una delle grandi spade della sua collezione; il rosso bagliore del
+forte [[motifs/fire|fuoco]] colpiva i suoi lineamenti squadrati e i suoi feroci capelli grigi;
+i suoi occhi azzurri erano persino insolitamente colmi di [[motifs/dreams|sogni]], e aveva
+aperto la bocca per parlare sognante, quando la porta fu spalancata,
+e un uomo pallido, focoso, dai capelli rossi e con un enorme soprabito di pelliccia,
+si precipitò ansimante nella stanza.
+
+«Scusa il disturbo, Basil», ansimò. «Mi sono preso una libertà—
+ho fissato qui un appuntamento con un uomo—un cliente—tra cinque minuti—
+Le chiedo scusa, signore», e mi rivolse un inchino di scusa.
+
+Basil mi sorrise. «Non sapevi», disse, «che avevo un
+fratello pratico. Questi è Rupert Grant, Esquire, che può fare e fa
+tutto ciò che c'è da fare. Proprio come io sono stato un fallimento in una cosa,
+lui è un successo in tutto. Lo ricordo giornalista,
+agente immobiliare, naturalista, inventore, editore,
+maestro di scuola, un—che cosa sei adesso, Rupert?»
+
+«Sono, e sono stato da qualche [[motifs/time|tempo]]», disse Rupert, con una certa dignità,
+«un [[archetypes/detective|investigatore]] privato, ed ecco il mio cliente.»
+
+Un forte colpo alla porta lo interruppe, e, dato il permesso,
+la porta fu spalancata di scatto ed entrò rapidamente nella stanza un uomo
+tarchiato e azzimato, posò con un colpo il cilindro di seta sul tavolo, e disse:
+«Buonasera, signori», con un accento sull'ultima sillaba che
+in qualche modo lo qualificava come un rigorista, militare, letterario e mondano.
+Aveva una grossa testa striata di nero e di grigio, e bruschi
+baffi neri, che gli davano un'aria di ferocia smentita
+dai suoi tristi occhi azzurro-mare.
+
+Basil mi disse subito: «Passiamo nella stanza accanto, Gully»,
+e si stava dirigendo verso la porta, ma lo sconosciuto disse:
+
+«Niente affatto. Gli amici restino. Assistenza possibile.»
+
+Nell'istante in cui lo udii parlare ricordai chi fosse:
+un certo maggiore Brown che avevo incontrato anni prima in casa di Basil.
+Avevo dimenticato del tutto la figura nera e azzimata e la grossa
+testa solenne, ma ricordavo il modo di parlare peculiare, che consisteva
+nel pronunciare solo un quarto circa di ogni frase, e quello di scatto,
+come lo schiocco di un fucile. Non so, forse veniva dal dare
+ordini alle truppe.
+
+Il maggiore Brown era decorato con la V.C., un soldato abile e distinto,
+ma era tutt'altro che un tipo bellicoso. Come molti tra gli uomini di ferro
+che riconquistarono l'India britannica, era un uomo con le convinzioni
+e i gusti naturali di una zitella. Nel vestire era azzimato
+eppure compìto; nelle sue abitudini era preciso fino al punto
+dell'esatta collocazione di una tazza da tè. Aveva un entusiasmo,
+che era della [[concepts/nature|natura]] di una religione—la coltivazione delle viole del pensiero.
+E quando parlava della sua collezione, i suoi occhi azzurri scintillavano
+come quelli di un [[archetypes/child|bambino]] davanti a un giocattolo nuovo, gli occhi che erano rimasti impassibili
+quando le truppe ruggivano vittoria intorno a Roberts a Candahar.
+
+«[[motifs/well|Ebbene]], Maggiore», disse Rupert Grant, con una cordialità signorile,
+gettandosi su una sedia, «che cosa vi affligge?»
+
+«Viole del pensiero gialle. Carbonaia. P. G. Northover», disse il Maggiore,
+con giusta indignazione.
+
+Ci scambiammo un'occhiata piena di curiosità. Basil, che teneva gli
+occhi chiusi nel suo modo assorto, disse semplicemente:
+
+«Chiedo scusa.»
+
+«Il fatto è. Strada, sapete, amico mio, viole. Su un muro.
+[[motifs/death|Morte]] a me. Qualcosa. Assurdo.»
+
+Scuotemmo dolcemente il capo. A poco a poco, e principalmente grazie
+all'assistenza apparentemente sonnolenta di Basil Grant, mettemmo
+insieme la narrazione frammentaria, ma concitata, del Maggiore.
+Sarebbe infame sottoporre il lettore a ciò che noi sopportammo;
+perciò racconterò la storia del maggiore Brown con parole mie.
+Ma il lettore deve immaginare la scena. Gli occhi di Basil chiusi
+come in trance, secondo la sua abitudine, e gli occhi di Rupert e i miei
+che si facevano sempre più tondi mentre ascoltavamo una delle storie
+più sbalorditive del mondo, dalle labbra del piccolo uomo in nero,
+seduto ritto sulla sedia e parlando come un telegramma.
+
+Il maggiore Brown era, l'ho detto, un soldato di successo, ma per nulla
+entusiasta. Ben lungi dal rimpiangere il suo ritiro
+a mezza paga, fu con gioia che prese una piccola, ordinata villetta,
+del tutto simile a una casa delle bambole, e dedicò il resto della sua vita
+alle viole del pensiero e al tè leggero. Il pensiero che le battaglie fossero finite
+una volta appesa la sua spada nel piccolo ingresso
+(insieme a due pentole a pressione e a un brutto [[motifs/water|acquerello]]),
+e datosi invece a maneggiare il rastrello nel suo piccolo
+[[motifs/garden|giardino]] soleggiato, era per lui come essere approdato a un porto in paradiso.
+Aveva un gusto olandese e preciso nel giardinaggio,
+e aveva, forse, una certa tendenza ad addestrare i suoi [[motifs/flowers|fiori]] come soldati.
+Era uno di quegli uomini capaci di mettere quattro ombrelli
+nel portaombrelli invece di tre, così che due pendano da un lato e
+due dall'altro; vedeva la vita come un disegno su un album a mano libera.
+E di certo non avrebbe creduto, né avrebbe neppure capito,
+chiunque gli avesse detto che a pochi metri dal suo paradiso di mattoni
+era destinato a essere risucchiato in un vortice di incredibili avventure,
+quali non aveva mai visto né sognato nell'orribile giungla,
+o nella furia della battaglia.
+
+Un certo pomeriggio luminoso e ventoso, il Maggiore, vestito nel suo
+consueto modo impeccabile, era uscito per la sua consueta passeggiata igienica.
+Passando da una grande arteria residenziale a un'altra,
+gli capitò di percorrere uno di quei vicoli dall'aria senza scopo
+che corrono lungo i muri dei [[motifs/garden|giardini]] sul retro di una fila di palazzi,
+e che nel loro aspetto vuoto e scolorito danno una
+strana sensazione, come di stare dietro le quinte di un teatro.
+Ma per quanto squallida e imbronciata potesse apparire la scena agli occhi dei più,
+non lo era del tutto agli occhi del Maggiore, poiché lungo il grossolano
+sentiero di ghiaia veniva avanti una cosa che era per lui ciò che
+il passaggio di una processione religiosa è per un devoto.
+Un uomo grande e pesante, con occhi azzurri da pesce e una corona di raggiante
+barba rossa, spingeva davanti a sé una carriola, sfolgorante
+di [[motifs/flowers|fiori]] incomparabili. Vi erano splendidi esemplari di quasi
+ogni specie, ma predominavano le viole del pensiero preferite dal Maggiore.
+Il Maggiore si fermò e attaccò conversazione, e poi trattativa.
+Trattò l'uomo alla maniera dei collezionisti e degli altri
+folli, vale a dire scelse con cura e con una sorta di angoscia
+le radici migliori tra quelle meno eccellenti, ne lodò alcune,
+ne sminuì altre, tracciò una sottile scala che andava da un valore
+e una rarità elettrizzanti a una degradata insignificanza, e poi le comprò tutte.
+L'uomo stava proprio spingendo via la carriola quando si fermò e si avvicinò
+al Maggiore.
+
+«Vi dirò una cosa, signore», disse. «Se vi interessano quelle cose,
+salite su quel muro.»
+
+«Sul muro!» gridò il Maggiore scandalizzato, la cui [[motifs/soul|anima]] convenzionale
+si ritraeva sgomenta al pensiero di una sconfinamento così fantastico.
+
+«La più bella esposizione di viole del pensiero gialle d'Inghilterra è in quel [[motifs/garden|giardino]] là, signore»,
+sibilò il tentatore. «Vi aiuto a salire, signore.»
+
+Come sia accaduto nessuno lo saprà mai, ma quel positivo entusiasmo
+della vita del Maggiore trionfò su tutte le sue tradizioni negative,
+e con un balzo e uno slancio agile che dimostravano come non avesse alcun
+bisogno di aiuto fisico, si ritrovò in piedi sul muro in fondo
+allo strano [[motifs/garden|giardino]]. L'istante successivo, lo sventolìo
+della finanziera sulle ginocchia lo fece sentire inesprimibilmente uno [[archetypes/fool|sciocco]].
+Ma nell'istante seguente tutti questi sentimenti insignificanti furono inghiottiti
+dallo shock di sorpresa più spaventoso che il vecchio soldato avesse mai
+provato in tutta la sua ardita e girovaga esistenza. Il suo sguardo cadde
+sul [[motifs/garden|giardino]], e là, attraverso una grande aiuola al centro del prato,
+c'era un vasto disegno di viole del pensiero; erano splendidi [[motifs/flowers|fiori]], ma per una volta
+non fu il loro aspetto orticolo che il maggiore Brown contemplò,
+poiché le viole erano disposte in gigantesche lettere maiuscole così da
+formare la frase:
+
+[[motifs/death|MORTE]] AL MAGGIORE BROWN
+
+Un vecchio dall'aria gentile, con favoriti bianchi, le stava annaffiando.
+Brown si voltò di scatto a guardare la [[motifs/road|strada]] dietro di sé; l'uomo con la carriola
+era improvvisamente svanito. Poi guardò di nuovo il prato con la sua
+incredibile [[forms/inscription|iscrizione]]. Un altro uomo avrebbe potuto credere di essere impazzito,
+ma Brown no. Quando le romantiche dame si effondevano sulla sua V.C. e
+sulle sue imprese militari, egli talvolta si sentiva un individuo penosamente
+prosaico, ma per la stessa ragione sapeva di essere incurabilmente sano di mente.
+Un altro uomo, ancora, avrebbe potuto credersi vittima di un
+scherzo passeggero, ma Brown non riusciva a crederlo facilmente.
+Sapeva, dalla sua bizzarra erudizione, che la disposizione del [[motifs/garden|giardino]] era
+elaborata e costosa; giudicava stravagantemente improbabile
+che qualcuno versasse denaro come [[motifs/water|acqua]] per uno scherzo ai suoi danni.
+Non avendo alcuna spiegazione da offrire, ammise il fatto
+a se stesso, da uomo lucido, e attese come avrebbe
+fatto al cospetto di un uomo con sei gambe.
+
+In quel momento il tarchiato vecchio dai favoriti bianchi alzò lo sguardo,
+e l'annaffiatoio gli cadde di mano, scagliando un vortice d'[[motifs/water|acqua]]
+lungo il sentiero di ghiaia.
+
+«Chi diamine siete voi?» ansimò, tremando violentemente.
+
+«Sono il maggiore Brown», disse quell'individuo, che era sempre freddo
+nell'ora dell'azione.
+
+Il vecchio spalancò la bocca, impotente, come un mostruoso pesce.
+Alla fine balbettò concitato: «Scendete—scendete qui!»
+
+«Ai vostri ordini», disse il Maggiore, e con un balzo atterrò
+sull'erba accanto a lui, senza scomporre il cilindro di seta.
+
+Il vecchio volse la sua ampia schiena e si avviò con una specie di corsa
+dondolante verso la casa, seguito a passi rapidi dal Maggiore.
+La sua guida lo condusse attraverso i corridoi sul retro di una casa
+tetra, ma sfarzosamente arredata, finché non raggiunsero la porta della stanza sul davanti.
+Poi il vecchio si voltò, con un volto di terrore apoplettico che si scorgeva
+appena nella penombra.
+
+«Per amor del cielo», disse, «non nominate gli sciacalli.»
+
+Poi spalancò la porta, liberando un fiotto di rossa luce di lampada,
+e corse giù per le scale con fragore.
+
+Il Maggiore entrò in una ricca, ardente stanza, piena di rame rosso,
+e di tappezzerie color pavone e porpora, il cappello in mano. Aveva le più raffinate
+maniere del mondo e, benché sconcertato, non fu affatto
+imbarazzato nel vedere che l'unica occupante era una dama, seduta accanto
+alla [[motifs/window|finestra]], che guardava fuori.
+
+«Signora», disse, inchinandosi con semplicità, «sono il maggiore Brown.»
+
+«Sedetevi», disse la dama; ma non voltò il capo.
+
+Era una figura aggraziata, vestita di verde, con fiammeggianti capelli rossi e un sentore
+di Bedford Park. «Siete venuto, suppongo», disse mestamente,
+«per tormentarmi a proposito degli odiosi atti di proprietà.»
+
+«Sono venuto, signora», disse, «per sapere di che si tratta.
+Per sapere perché il mio nome è scritto attraverso il vostro [[motifs/garden|giardino]].
+E per giunta non in modo amichevole.»
+
+Parlò severamente, poiché la cosa lo aveva colpito. È impossibile
+descrivere l'effetto prodotto sulla mente da quella quieta e soleggiata
+scena di [[motifs/garden|giardino]], la cornice di una personalità sconvolgente e brutale.
+L'aria della sera era ferma, e l'erba era dorata nel punto
+dove i piccoli [[motifs/flowers|fiori]] che egli studiava gridavano al cielo per il suo [[motifs/blood|sangue]].
+
+«Sapete che non devo voltarmi», disse la dama; «ogni pomeriggio
+fino al rintocco delle sei devo tenere il viso rivolto verso la strada.»
+
+Una bizzarra e insolita ispirazione rese il prosaico soldato risoluto
+ad accettare senza sorpresa questi oltraggiosi enigmi.
+
+«Sono quasi le sei», disse; e proprio mentre parlava il barbarico
+[[motifs/clock|orologio]] di rame sulla parete batté il primo rintocco dell'ora.
+Al sesto la dama balzò in piedi e volse verso il Maggiore uno
+dei volti più bizzarri eppure più attraenti che avesse mai visto
+in vita sua; aperto, eppure allettante, il volto di un elfo.
+
+«È il terzo anno che aspetto», gridò.
+«È un anniversario. L'attesa fa quasi desiderare
+che l'orribile cosa accada una volta per tutte.»
+
+E proprio mentre parlava, un improvviso grido lacerante ruppe il silenzio.
+Da giù, dal selciato della cupa strada (era già crepuscolo),
+una voce gridò con una rauca e spietata nitidezza:
+
+«Maggiore Brown, maggiore Brown, dove dimora lo sciacallo?»
+
+Brown era deciso e silenzioso nell'azione. Si diresse a grandi passi alla porta d'ingresso e
+guardò fuori. Non v'era segno di vita nel cupo azzurro crepuscolare della strada,
+dove uno o due lampioni cominciavano ad accendere le loro scintille color limone.
+Al ritorno, trovò la dama in verde tremante.
+
+«È la fine», gridò, con le labbra tremanti; «potrebbe essere la [[motifs/death|morte]]
+per entrambi. Ogni volta che—»
+
+Ma proprio mentre parlava il suo discorso fu spaccato da un'altra rauca
+proclamazione dalla buia strada, di nuovo orribilmente articolata.
+
+«Maggiore Brown, maggiore Brown, come morì lo sciacallo?»
+
+Brown si precipitò fuori dalla porta e giù per i gradini, ma di nuovo
+fu frustrato; non c'era alcuna figura in vista, e la strada
+era troppo lunga e vuota perché l'urlatore fosse potuto fuggire.
+Persino il razionale Maggiore fu un poco scosso quando tornò dopo un
+certo [[motifs/time|tempo]] nel salotto. Non l'aveva ancora fatto che
+la terrificante voce giunse:
+
+«Maggiore Brown, maggiore Brown, dove—»
+
+Brown fu in strada quasi con un balzo, e giunse in [[motifs/time|tempo]]—
+in [[motifs/time|tempo]] per vedere qualcosa che a prima vista gelava il [[motifs/blood|sangue]].
+Le grida sembravano provenire da una testa decapitata posata
+sul selciato.
+
+L'istante seguente il pallido Maggiore comprese. Era la testa di un uomo
+spinta attraverso la botola del carbone nella strada. L'istante seguente,
+ancora, era svanita, e il maggiore Brown si volse verso la dama.
+«Dov'è la vostra carbonaia?» disse, e uscì nel corridoio.
+
+Ella lo guardò con selvaggi occhi grigi. «Non scenderete giù»,
+gridò, «da solo, in quel buco buio, con quella bestia?»
+
+«È di qui?» rispose Brown, e discese le scale della cucina
+tre gradini [[motifs/time|per volta]]. Spalancò la porta di una nera
+cavità ed entrò, frugando in tasca in cerca di fiammiferi.
+Mentre la mano destra era così occupata, un paio di grandi mani viscide
+uscirono dal buio, mani chiaramente appartenenti a un uomo
+di statura gigantesca, e lo afferrarono per la nuca.
+Lo spinsero giù, giù nel buio soffocante, brutale
+immagine del destino. Ma la testa del Maggiore, benché capovolta,
+era perfettamente lucida e razionale. Cedette con calma sotto
+la pressione finché non scivolò quasi carponi.
+Poi, trovando le ginocchia dell'invisibile [[archetypes/monster|mostro]] a un piede da sé,
+tese semplicemente una delle sue lunghe, ossute e abili mani,
+e afferrando la gamba per un muscolo la sollevò da terra
+e distese l'enorme uomo vivente, con un tonfo, lungo il pavimento.
+Quello si sforzò di rialzarsi, ma Brown gli fu addosso come un gatto.
+Rotolarono più e più volte. Per quanto grosso fosse l'uomo, evidentemente
+non aveva ormai altro [[motifs/desire|desiderio]] che fuggire; si dibatté di qua e di là
+per superare il Maggiore e raggiungere la porta, ma quel tenace individuo lo teneva
+saldo per il bavero e con l'altra mano si aggrappava a una trave.
+Alla fine venne uno sforzo nel trattenere questo toro umano, uno sforzo
+sotto il quale Brown si aspettava che la sua mano si lacerasse e si staccasse dal braccio.
+Ma fu qualcos'altro a lacerarsi e staccarsi; e la fosca, grassa figura del gigante
+svanì fuori dalla cantina, lasciando la giacca strappata nella mano del Maggiore;
+l'unico frutto della sua avventura e l'unico indizio del mistero.
+Poiché, quando salì e uscì dalla porta d'ingresso, la dama, le ricche
+tappezzerie, e tutto l'arredo della casa erano scomparsi.
+Non v'erano che nude assi e pareti imbiancate a calce.
+
+«La dama era nella cospirazione, naturalmente», disse Rupert, annuendo.
+Il maggiore Brown divenne rosso mattone. «Chiedo scusa», disse,
+«credo di no.»
+
+Rupert inarcò le sopracciglia e lo guardò per un momento,
+ma non disse nulla. Quando poi parlò domandò:
+
+«C'era qualcosa nelle tasche della giacca?»
+
+«C'erano sette penny e mezzo in rame e una moneta da tre penny»,
+disse il Maggiore con cura; «c'erano un bocchino,
+un pezzo di spago, e questa lettera», e la posò sul tavolo.
+Recitava così:
+
+Caro signor Plover,
+
+sono contrariato di apprendere che si è verificato un certo ritardo nelle disposizioni
+in merito al maggiore Brown. Vi prego di far sì che venga aggredito come da accordi
+domani La carbonaia, naturalmente.
+
+Con osservanza, P. G. Northover.
+
+Rupert Grant si sporgeva in avanti ascoltando con occhi da falco.
+Intervenne:
+
+«È datata da qualche luogo?»
+
+«No—oh, sì!» rispose Brown, gettando lo sguardo sulla carta;
+«14 Tanner's [[settings/court|Court]], North—»
+
+Rupert balzò in piedi e batté le mani.
+
+«E allora perché ce ne stiamo qui impalati? Andiamo. Basil, prestami
+la tua rivoltella.»
+
+Basil fissava le braci come un uomo in trance;
+e passò un po' di [[motifs/time|tempo]] prima che rispondesse:
+
+«Non credo che ti servirà.»
+
+«Forse no», disse Rupert, infilandosi la pelliccia. «Non si sa mai.
+Ma scendere in un cupo [[settings/court|vicolo]] a vedere dei criminali—»
+
+«Credi che siano criminali?» chiese il fratello.
+
+Rupert rise di gusto. «Dare a un subalterno l'ordine di strangolare
+un innocuo estraneo in una carbonaia può parerti un esperimento
+del tutto irreprensibile, ma—»
+
+«Credi che volessero strangolare il Maggiore?» chiese Basil,
+con la stessa voce distante e monotona.
+
+«Mio caro, hai dormito. Guarda la lettera.»
+
+«Sto guardando la lettera», disse il giudice pazzo con calma; anche se, in
+realtà, guardava il [[motifs/fire|fuoco]]. «Non credo che sia
+il genere di lettera che un criminale scriverebbe a un altro.»
+
+«Mio caro ragazzo, sei glorioso», gridò Rupert, voltandosi,
+con il riso negli occhi azzurri e lucenti. «I tuoi metodi mi sbalordiscono.
+Ma insomma, ecco la lettera. È scritta, e dà davvero l'ordine
+di un crimine. Tanto varrebbe dire che la Colonna di Nelson
+non era affatto il genere di cosa che si sarebbe potuta erigere
+in Trafalgar Square.»
+
+Basil Grant fu scosso tutto da una specie di riso silenzioso, ma per il
+resto non si mosse.
+
+«Non c'è male», disse; «ma, naturalmente, una logica così
+non è ciò che serve davvero. È una questione di atmosfera spirituale.
+Non è una lettera criminale.»
+
+«Lo è. È un dato di fatto», gridò l'altro in un'
+agonia di ragionevolezza.
+
+«I fatti», mormorò Basil, come chi menzioni certi strani,
+lontani [[motifs/animals|animali]], «come i fatti oscurano la [[concepts/truth|verità]]. Sarò sciocco—
+anzi, sono fuori di testa—ma non ho mai potuto credere a quell'uomo—
+come si chiama, in quelle famose storie?—Sherlock Holmes.
+Ogni dettaglio indica qualcosa, certo; ma in genere
+la cosa sbagliata. I fatti indicano in tutte le direzioni, mi pare,
+come le migliaia di ramoscelli su un albero. È solo la vita dell'albero
+che ha unità e sale—solo il verde [[motifs/blood|sangue]] che zampilla,
+come una fontana, verso le [[motifs/stars|stelle]].»
+
+«Ma che diamine può essere la lettera, se non criminale?»
+
+«Abbiamo l'[[concepts/eternity|eternità]] per sgranchirci le gambe», rispose il mistico.
+«Può essere un'infinità di cose. Non ne ho vista nessuna—
+ho visto solo la lettera. Guardo quella, e dico che non è criminale.»
+
+«E allora qual è la sua origine?»
+
+«Non ne ho la più vaga idea.»
+
+«E allora perché non accetti la spiegazione ordinaria?»
+
+Basil continuò per un poco a fissare i carboni, e parve
+raccogliere i suoi pensieri in modo umile e persino penoso.
+Poi disse:
+
+«Supponi di uscire al chiaro di luna. Supponi di attraversare
+strade e piazze silenziose e argentee finché non arrivi in
+uno spazio aperto e deserto, cosparso di pochi monumenti, e di
+scorgere qualcuno vestito da ballerina che danza nel bagliore argenteo.
+E supponi di guardare, e di vedere che è un uomo travestito.
+E supponi di guardare di nuovo, e di vedere che è Lord Kitchener.
+Che cosa penseresti?»
+
+Si fermò un momento, e proseguì:
+
+«Non potresti adottare la spiegazione ordinaria. La spiegazione
+ordinaria del mettersi abiti singolari è che ci si sta
+bene; non penseresti che Lord Kitchener si sia agghindato
+da ballerina per ordinaria [[concepts/vanity|vanità]] personale.
+Penseresti molto più probabile che abbia ereditato una [[concepts/madness|follia]]
+danzante da una bisnonna; o che sia stato ipnotizzato a una seduta spiritica;
+o minacciato da una società segreta di [[motifs/death|morte]] se avesse rifiutato la prova.
+Con Baden-Powell, poniamo, potrebbe essere una scommessa—ma non con Kitchener.
+Tutto questo lo saprei, perché ai tempi della mia vita pubblica lo conoscevo assai [[motifs/well|bene]].
+Così conosco assai [[motifs/well|bene]] quella lettera, e assai [[motifs/well|bene]] i criminali.
+Non è la lettera di un criminale. È tutta questione di atmosfere.»
+E chiuse gli occhi e si passò la mano sulla fronte.
+
+Rupert e il Maggiore lo osservavano con un misto di rispetto
+e compassione. Il primo disse:
+
+«[[motifs/well|Ebbene]], io vado comunque, e continuerò a pensare—finché il tuo
+mistero spirituale non salti fuori—che un uomo il quale spedisce un biglietto che raccomanda
+un crimine, cioè, addirittura un crimine che viene effettivamente compiuto,
+almeno in via di tentativo, sia, con ogni probabilità, un tantino disinvolto
+nei suoi gusti morali. Posso avere quella rivoltella?»
+
+«Certamente», disse Basil, alzandosi. «Ma vengo con te.»
+E si gettò addosso un vecchio mantello o cappa, e prese un bastone
+spada dall'angolo.
+
+«Tu!» disse Rupert, con una certa sorpresa, «tu non lasci quasi mai
+la tua tana per guardare qualcosa sulla faccia della terra.»
+
+Basil si calcò in testa un formidabile vecchio cappello bianco.
+
+«Non mi capita quasi mai», disse, con inconsapevole e colossale arroganza,
+«di sentir parlare di qualcosa sulla faccia della terra che io non comprenda
+all'istante, senza andare a vederla.»
+
+E aprì la strada, uscendo nella [[motifs/night|notte]] purpurea.
+
+Noi quattro procedemmo lungo le fiammeggianti strade di Lambeth, attraverso
+il Westminster Bridge, e lungo l'Embankment in direzione
+di quella parte di Fleet Street che conteneva Tanner's [[settings/court|Court]].
+La figura eretta e nera del maggiore Brown, vista da dietro, era un bizzarro
+contrasto con la curva da segugio e il mantello svolazzante del giovane
+Rupert Grant, che assumeva, con fanciullesco diletto, tutte le pose
+drammatiche dell'[[archetypes/detective|investigatore]] della narrativa. La più bella tra le sue molte belle
+qualità era il suo fanciullesco appetito per il colore e la poesia di [[settings/london|Londra]].
+Basil, che camminava dietro, con il viso rivolto ciecamente alle [[motifs/stars|stelle]],
+aveva l'aria di un sonnambulo.
+
+Rupert si fermò all'angolo di Tanner's [[settings/court|Court]], con un fremito di diletto
+davanti al pericolo, e strinse la rivoltella di Basil nella tasca del cappotto.
+
+«Entriamo adesso?» chiese.
+
+«Non prendiamo la polizia?» chiese il maggiore Brown, guardando con acume su e
+giù per la strada.
+
+«Non sono sicuro», rispose Rupert, aggrottando le sopracciglia.
+«Certo, è tutto chiaro, la faccenda è losca.
+Ma siamo in tre, e—»
+
+«Io non chiamerei la polizia», disse Basil con voce bizzarra.
+Rupert lo guardò e lo fissò intensamente.
+
+«Basil», gridò, «tu stai tremando. Che cos'hai—
+hai paura?»
+
+«Forse ha freddo», disse il Maggiore, squadrandolo. Non v'era [[concepts/doubt|dubbio]]
+che stesse tremando.
+
+Alla fine, dopo qualche istante di esame, Rupert proruppe in una bestemmia.
+
+«Tu stai ridendo», gridò. «Conosco quel tuo maledetto riso silenzioso e tremulo.
+Che diamine c'è da divertirsi, Basil? Eccoci qui,
+tutti e tre, a un metro da un covo di furfanti—»
+
+«Ma io non chiamerei la polizia», disse Basil. «Noi quattro eroi
+siamo ben all'altezza di un'intera schiera», e continuò a scuotersi
+per la sua misteriosa ilarità.
+
+Rupert si voltò con impazienza e si diresse rapido giù per il [[settings/court|vicolo]],
+noialtri lo seguimmo. Quando raggiunse la porta del n. 14
+si voltò di scatto, la rivoltella scintillante in mano.
+
+«State vicini», disse con voce da comandante.
+«Il farabutto potrebbe tentare la fuga in questo momento.
+Dobbiamo spalancare la porta e precipitarci dentro.»
+
+Noi quattro ci rannicchiammo all'istante sotto l'arco, rigidi, tranne
+il vecchio giudice e la sua convulsione di ilarità.
+
+«Ora», sibilò Rupert Grant, voltando all'improvviso oltre la spalla il pallido volto
+e gli occhi ardenti, «quando dico "Quattro", seguitemi di slancio.
+Se dico "Tenetelo", inchiodate a terra quei tipi, chiunque siano.
+Se dico "Fermi", fermatevi. Lo dirò se sono più di tre.
+Se ci attaccano scaricherò loro addosso la rivoltella. Basil, tieni pronto il tuo
+bastone-spada. Ora—uno, due, tre, quattro!»
+
+Al suono della parola la porta si spalancò, e piombammo nella
+stanza come un'invasione, solo per fermarci di colpo.
+
+La stanza, che era un ufficio ordinario e ordinatamente arredato,
+appariva, a prima vista, vuota. Ma a un secondo e più
+attento sguardo, vedemmo seduto dietro un grandissimo scrittoio con caselle
+e cassetti di sconcertante molteplicità, un piccolo uomo con neri
+baffi impomatati, e l'aria di un impiegato quanto mai comune, che scriveva alacremente.
+Alzò lo sguardo quando ci arrestammo.
+
+«Avete bussato?» chiese cortesemente. «Mi dispiace se non ho sentito.
+Che cosa posso fare per voi?»
+
+Vi fu una pausa esitante, e poi, di comune accordo,
+lo stesso Maggiore, la vittima dell'oltraggio, si fece avanti.
+
+La lettera era nella sua mano, e aveva un'aria insolitamente cupa.
+
+«Il vostro nome è P. G. Northover?» chiese.
+
+«È il mio nome», rispose l'altro, sorridendo.
+
+«Credo», disse il maggiore Brown, con un accrescersi del cupo ardore
+del suo volto, «che questa lettera sia stata scritta da voi.» E con un forte
+colpo spiegò la lettera sullo scrittoio con il pugno serrato.
+L'uomo chiamato Northover la guardò con schietto interesse
+e si limitò ad annuire.
+
+«Ebbene, signore», disse il Maggiore, respirando affannosamente, «che ne dite?»
+
+«Che ne dico, precisamente», disse l'uomo dai baffi.
+
+«Sono il maggiore Brown», disse quel gentiluomo severamente.
+
+Northover si inchinò. «Lieto di conoscervi, signore. Che cosa avete
+da dirmi?»
+
+«Dire!» gridò il Maggiore, scatenando un'improvvisa tempesta; «ma io voglio che questa
+maledetta faccenda sia sistemata. Voglio—»
+
+«Certamente, signore», disse Northover, balzando in piedi con un lieve
+inarcarsi delle sopracciglia. «Volete accomodarvi un momento.»
+E premette un campanello elettrico proprio sopra di sé, che vibrò
+e tintinnò in una stanza attigua. Il Maggiore posò la mano sullo schienale
+della sedia offertagli, ma restò in piedi fremendo e battendo il pavimento
+con lo stivale lucido.
+
+L'istante seguente una porta interna a vetri fu aperta, ed entrò dall'interno
+un giovane biondo, allampanato, in finanziera.
+
+«Signor Hopson», disse Northover, «questi è il maggiore Brown. Volete cortesemente
+finirgli quella cosa che vi ho dato stamattina e portarla dentro?»
+
+«Sì, signore», disse il signor Hopson, e svanì come un fulmine.
+
+«Vorrete scusarmi, signori», disse l'insigne Northover,
+con il suo sorriso raggiante, «se continuo a lavorare finché il signor Hopson non è pronto.
+Ho certi libri da mettere in ordine prima di partire
+domani per la mia vacanza. E a tutti noi piace una boccata di campagna,
+non è vero? Ah! ah!»
+
+Il criminale riprese la penna con un riso fanciullesco, e seguì un silenzio;
+un silenzio placido e indaffarato da parte del signor P. G. Northover;
+un silenzio infuriato da parte di tutti gli altri.
+
+Alla fine lo stridere della penna di Northover nella quiete si mescolò
+a un colpo alla porta, quasi simultaneo al girare della
+maniglia, e il signor Hopson entrò di nuovo con la stessa silenziosa rapidità,
+posò un foglio davanti al suo principale, e sparì di nuovo.
+
+L'uomo allo scrittoio tirò e attorcigliò per qualche istante i suoi baffi
+appuntiti mentre faceva scorrere lo sguardo su e giù per il foglio presentatogli.
+Riprese la penna, con un lieve, istantaneo cipiglio,
+e modificò qualcosa, borbottando—«Sbadato.» Poi lo rilesse di nuovo
+con la stessa impenetrabile riflessività, e infine lo porse
+al frenetico Brown, la cui mano batteva il tamburo del diavolo
+sullo schienale della sedia.
+
+«Credo che troverete tutto in ordine, Maggiore», disse brevemente.
+
+Il Maggiore lo guardò; se lo trovasse in ordine oppure no
+apparirà più avanti, ma lo trovò così:
+
+Maggiore Brown a P. G. Northover.  L  s.  d.
+1º gennaio, a saldo conto reso                                    5   6  0
+9 maggio, per invaso e messa a dimora di zoo viole del pensiero   2   0  0
+Per costo del carretto con fiori                                  0  15  0
+Per noleggio di uomo con carretto                                 0   5  0
+Per affitto di casa e giardino per un giorno                      1   0  0
+Per arredo di stanza con tende color pavone, ornamenti di rame, ecc. 3   0  0
+Per stipendio della signorina Jameson                            1   0  0
+Per stipendio del signor Plover                                  1   0  0
+----------
+Totale L14   6  0
+Gradita una rimessa.
+
+«Che cosa», disse Brown, dopo una pausa mortale, e con occhi che parevano
+lentamente uscirgli dalla testa, «che cosa diamine è questo?»
+
+«Che cos'è?» ripeté Northover, inarcando il sopracciglio con divertimento.
+«È il vostro conto, naturalmente.»
+
+«Il mio conto!» Le idee del Maggiore parevano in una vaga fuga scomposta.
+«Il mio conto! E io che cosa c'entro?»
+
+«Ebbene», disse Northover, ridendo apertamente, «naturalmente preferisco che
+lo paghiate voi.»
+
+La mano del Maggiore era ancora posata sullo schienale della sedia mentre giungevano le
+parole. A parte questo si mosse appena, ma sollevò la sedia
+di peso in aria con una mano e la scagliò contro la testa di Northover.
+
+Le gambe si schiantarono contro lo scrittoio, cosicché Northover ricevette soltanto
+un colpo al gomito mentre balzava in piedi con i pugni serrati,
+solo per essere afferrato dallo slancio congiunto di noialtri.
+La sedia era caduta con fragore sul pavimento vuoto.
+
+«Lasciatemi andare, mascalzoni», gridò. «Lasciate—»
+
+«State fermo», gridò Rupert con autorità. «L'azione del maggiore Brown
+è scusabile. L'abominevole crimine che avete tentato—»
+
+«Un cliente ha tutto il diritto», disse Northover con foga, «di contestare
+un presunto sovrapprezzo, ma, accidenti, non di scagliare mobili.»
+
+«Che cosa, in nome di Dio, intendete con i vostri clienti e sovrapprezzi?»
+strillò il maggiore Brown, la cui acuta natura femminea, salda nel dolore
+o nel pericolo, diveniva quasi isterica al cospetto di un lungo
+ed esasperante mistero. «Chi siete voi? Non ho mai visto né voi
+né le vostre insolenti fatture da buffone. So che uno dei vostri maledetti bruti
+ha cercato di soffocarmi—»
+
+«Pazzi», disse Northover, guardandosi intorno smarrito; «tutti pazzi.
+Non sapevo che viaggiassero in quartetti.»
+
+«Basta con questi tergiversamenti», disse Rupert; «i vostri crimini sono scoperti.
+Un poliziotto è appostato all'angolo del vicolo.
+Benché io stesso sia solo un investigatore privato, mi assumo la responsabilità
+di dirvi che tutto ciò che direte—»
+
+«Pazzi», ripeté Northover, con aria stanca.
+
+E in quel momento, per la prima volta, irruppe tra loro
+la strana, sonnolenta voce di Basil Grant.
+
+«Maggiore Brown», disse, «posso farvi una domanda?»
+
+Il Maggiore voltò il capo con accresciuto sconcerto.
+
+«Voi?» gridò; «certamente, signor Grant.»
+
+«Potete dirmi», disse il mistico, con il capo chino e la fronte aggrottata,
+mentre tracciava un disegno nella polvere con il suo bastone-spada, «potete dirmi
+qual era il nome dell'uomo che abitava la vostra casa prima di voi?»
+
+L'infelice Maggiore fu solo debolmente più turbato da quest'ultima
+e inutile irrilevanza, e rispose vagamente:
+
+«Sì, credo di sì; un uomo di nome Gurney qualcosa—un nome con
+un trattino—Gurney-Brown; ecco, era quello.»
+
+«E quando cambiò proprietario la casa?» disse Basil, alzando lo sguardo di scatto.
+I suoi strani occhi ardevano brillantemente.
+
+«Sono entrato il mese scorso», disse il Maggiore.
+
+E alla semplice parola il criminale Northover si lasciò improvvisamente cadere sulla sua
+grande poltrona d'ufficio e proruppe in una raffica di risate.
+
+«Oh! è troppo perfetto—è troppo squisito», ansimò,
+percuotendo i braccioli con i pugni. Rideva assordantemente;
+Basil Grant rideva senza voce; e noialtri sentivamo soltanto
+che le nostre teste erano come banderuole in un turbine.
+
+«Accidenti, Basil», disse Rupert, pestando i piedi. «Se non vuoi
+che io impazzisca e ti faccia saltare le tue cervella metafisiche, dimmi che cosa
+significa tutto questo.»
+
+Northover si alzò.
+
+«Permettetemi, signore, di spiegare», disse. «E, prima di tutto, permettetemi
+di scusarmi con voi, maggiore Brown, per un errore quanto mai abominevole e imperdonabile,
+che vi ha causato minaccia e disagio, nei quali,
+se mi consentite di dirlo, vi siete comportato con sorprendente
+coraggio e dignità. Naturalmente non dovete preoccuparvi del conto.
+La perdita la sosteniamo noi.» E, strappando in due il foglio, ne gettò
+le metà nel cestino della carta straccia e s'inchinò.
+
+Il volto del povero Brown era ancora un quadro di smarrimento.
+«Ma io non comincio neppure a capire», gridò. «Che conto?
+che errore? che perdita?»
+
+Il signor P. G. Northover avanzò al centro della stanza,
+pensieroso, e con una gran dose di inconsapevole dignità.
+A un esame più attento, si scorgevano in lui
+altre cose oltre a un baffo impomatato, in particolare un magro,
+giallastro volto, aquilino, e non privo di una travagliata intelligenza.
+Poi alzò bruscamente lo sguardo.
+
+«Sapete dove vi trovate, Maggiore?» disse.
+
+«Dio sa che non lo so», disse il guerriero, con fervore.
+
+«Vi trovate», rispose Northover, «negli uffici dell'Agenzia dell'Avventura
+e del Romanzesco, Limitata.»
+
+«E che cos'è?» chiese Brown, sconcertato.
+
+L'uomo d'affari si sporse oltre lo schienale della sedia, e fissò
+i suoi occhi scuri sul volto dell'altro.
+
+«Maggiore», disse, «avete mai, mentre camminavate lungo la strada
+deserta in qualche ozioso pomeriggio, sentito la fame totale
+di qualcosa che accadesse—qualcosa, nelle splendide parole di
+Walt Whitman: "Qualcosa di pernicioso e tremendo; qualcosa di ben lontano
+da una vita meschina e pia; qualcosa di non provato; qualcosa in trance;
+qualcosa sciolto dai suoi ormeggi, e che va libero alla deriva."
+L'avete mai sentito?»
+
+«Certamente no», disse il Maggiore, seccamente.
+
+«Allora devo spiegare con maggiore elaborazione», disse il signor Northover,
+con un sospiro. «L'Agenzia dell'Avventura e del Romanzesco è stata fondata
+per soddisfare un grande [[motifs/desire|desiderio]] moderno. Da ogni parte, nella conversazione
+e nella letteratura, sentiamo parlare del [[motifs/desire|desiderio]] di un teatro
+di eventi più ampio, di qualcosa che ci tenda un agguato e ci conduca splendidamente fuori strada.
+Ora l'uomo che sente questo [[motifs/desire|desiderio]] di una vita più varia paga una somma
+annuale o trimestrale all'Agenzia dell'Avventura e del Romanzesco; in cambio,
+l'Agenzia dell'Avventura e del Romanzesco si impegna a circondarlo di
+eventi sbalorditivi e bizzarri. Mentre un uomo esce dalla propria porta d'ingresso,
+uno spazzacamino concitato gli si avvicina e lo assicura dell'esistenza di un complotto contro
+la sua vita; sale su una carrozza, e viene condotto in una fumeria d'oppio;
+riceve un misterioso telegramma o una drammatica visita, e si trova immediatamente
+in un vortice di episodi. Una storia molto pittoresca e commovente viene
+dapprima scritta da uno del nostro staff di illustri romanzieri che sono
+al momento al lavoro alacremente nella stanza attigua. La vostra, maggiore Brown
+(ideata dal nostro signor Grigsby), la giudico particolarmente incisiva
+e pungente; è quasi un peccato che non ne abbiate visto la fine.
+Non ho quasi bisogno di spiegare oltre il mostruoso errore.
+Il vostro predecessore nella vostra attuale casa, il signor Gurney-Brown, era abbonato
+alla nostra agenzia, e i nostri sciocchi impiegati, ignorando tanto la dignità
+del trattino quanto la gloria del grado militare, immaginarono senz'altro
+che il maggiore Brown e il signor Gurney-Brown fossero la stessa persona.
+Così foste improvvisamente scagliato nel bel mezzo della storia di un altro.»
+
+«Ma come diamine funziona la cosa?» chiese Rupert Grant, con occhi
+brillanti e affascinati.
+
+«Crediamo di compiere un'opera nobile», disse Northover con calore.
+«Ci ha continuamente colpiti il fatto che non v'è elemento nella vita
+moderna più deplorevole del fatto che l'uomo moderno
+debba cercare ogni esistenza artistica in uno stato sedentario.
+Se desidera fluttuare nel paese delle fate, legge un libro;
+se desidera lanciarsi nel folto della battaglia, legge un libro;
+se desidera librarsi in cielo, legge un libro; se desidera scivolare
+giù per la ringhiera, legge un libro. Noi gli diamo queste visioni,
+ma gli diamo esercizio allo stesso [[motifs/time|tempo]], la necessità di saltare
+di muro in muro, di combattere strani gentiluomini, di correre giù per
+lunghe strade inseguiti da qualcuno—tutti esercizi sani e piacevoli.
+Gli diamo uno scorcio di quel grande mondo mattutino di [[characters/robin-hood|Robin Hood]] o dei
+Cavalieri Erranti, quando un solo grande gioco si giocava sotto lo splendido cielo.
+Gli restituiamo la sua [[motifs/childhood|infanzia]], quel [[motifs/time|tempo]] divino in cui possiamo recitare storie,
+essere eroi di noi stessi, e nello stesso istante [[motifs/dance|danzare]] e sognare.»
+
+Basil lo guardava incuriosito. La più singolare scoperta psicologica
+era stata riservata alla fine, poiché mentre il piccolo uomo
+d'affari cessava di parlare aveva gli occhi fiammeggianti di un fanatico.
+
+Il maggiore Brown accolse la spiegazione con completa semplicità
+e buon umore.
+
+«Naturalmente; sono terribilmente ottuso, signore», disse. «Nessun [[concepts/doubt|dubbio]],
+lo schema è eccellente. Ma non credo—» Fece una pausa,
+e guardò sognante fuori dalla [[motifs/window|finestra]]. «Non credo che mi
+troverete a parteciparvi. In qualche modo, quando si è vista—vista la cosa in sé, sapete—
+il [[motifs/blood|sangue]] e gli uomini che urlano, si finisce per accontentarsi di una piccola casa e
+di un piccolo passatempo; nella [[historical-references/bible|Bibbia]], sapete, "Rimane ancora un riposo".»
+
+Northover s'inchinò. Poi, dopo una pausa, disse:
+
+«Signori, posso offrirvi il mio biglietto da visita. Se qualcuno di voi desiderasse,
+in qualunque momento, mettersi in comunicazione con me, malgrado l'opinione
+del maggiore Brown in proposito...»
+
+«Vi sarei grato per il vostro biglietto, signore,» disse il maggiore, con la sua
+voce brusca ma cortese. «Pago la sedia.»
+
+L'agente del Romanzesco e dell'Avventura porse il suo biglietto, ridendo.
+
+Diceva: «P. G. Northover, B.A., C.Q.T., Agenzia Avventura e Romanzo,
+14 Tanner's Court, Fleet Street.»
+
+«Che diamine è "C.QT."?» chiese Rupert Grant, sbirciando
+oltre la spalla del maggiore.
+
+«Non lo sapete?» ribatté Northover. «Non avete mai sentito
+parlare del Club dei Mestieri Bizzarri?»
+
+«Pare che ci sia una maledetta quantità di cose buffe di cui non abbiamo mai sentito parlare,»
+disse il piccolo maggiore, riflessivo. «E questo cos'è?»
+
+«Il Club dei Mestieri Bizzarri è una società composta esclusivamente di
+persone che hanno inventato qualche modo nuovo e curioso di far denaro.
+Fui uno dei primissimi membri.»
+
+«Ve lo meritate,» disse Basil, prendendo il suo grande cappello bianco,
+con un sorriso, e parlando per l'ultima volta quella sera.
+
+Quando furono usciti, l'agente dell'Avventura e del Romanzo aveva
+uno strano sorriso, mentre calpestava il fuoco e chiudeva a chiave la scrivania.
+«Un bel tipo, quel maggiore; quando non si ha un briciolo del poeta si ha
+qualche probabilità di essere una poesia. Ma pensare che una così meccanica creaturina
+di corda, proprio lui, finisca nelle reti di uno dei racconti di Grigsby,»
+e scoppiò a ridere forte nel silenzio.
+
+Proprio mentre la risata si spegneva in un'eco, giunse un colpo secco alla porta.
+Una testa da gufo, con baffi scuri, fu spinta dentro, con un'aria di scusa
+e alquanto assurda interrogazione.
+
+«Come! Di nuovo qui, maggiore?» gridò Northover sorpreso.
+«Cosa posso fare per voi?»
+
+Il maggiore si trascinò febbrilmente nella stanza.
+
+«È orribilmente assurdo,» disse. «Dev'essersi risvegliato qualcosa
+in me che non conoscevo prima. Ma, sull'anima mia, sento il più
+disperato desiderio di sapere come va a finire tutto quanto.»
+
+«Come va a finire tutto quanto?»
+
+«Sì,» disse il maggiore. «"Sciacalli", e gli atti di proprietà, e "Morte
+al maggiore Brown".»
+
+Il volto dell'agente si fece grave, ma i suoi occhi erano divertiti.
+
+«Mi dispiace terribilmente, maggiore,» disse, «ma ciò che chiedete è impossibile.
+Non conosco nessuno a cui accondiscenderei più volentieri; ma le regole dell'agenzia
+sono severe. Le Avventure sono riservate; voi siete un estraneo;
+non mi è permesso lasciarvi sapere un dito più del necessario.
+Spero proprio che comprendiate...»
+
+«Non c'è nessuno,» disse Brown, «che comprenda la disciplina meglio
+di me. Vi ringrazio molto. Buonanotte.»
+
+E il piccolo uomo si ritirò per l'ultima volta.
+
+Sposò la signorina Jameson, la dama dai capelli rossi e dalle
+vesti verdi. Era un'attrice, impiegata (con molte altre)
+dall'Agenzia del Romanzesco; e il suo matrimonio col compassato vecchio veterano
+suscitò un certo scalpore nel suo ambiente languido e intellettualizzato.
+Ella rispondeva sempre, con molta calma, di aver incontrato decine d'uomini
+che recitavano splendidamente nelle sciarade allestite per loro da Northover,
+ma di aver incontrato un solo uomo che fosse sceso in una carbonaia
+quando credeva davvero che vi si nascondesse un assassino.
+
+Il maggiore e lei vivono felici come uccellini, in un'assurda villetta,
+e lui si è dato al fumo. Per il resto è immutato...
+tranne, forse, che vi sono momenti in cui, sveglio e colmo di femminile
+altruismo qual è per natura il maggiore, cade in una trance
+di astrazione. Allora la moglie riconosce, con un sorriso nascosto,
+dallo sguardo cieco dei suoi occhi azzurri, che egli si domanda quali fossero
+gli atti di proprietà, e perché non gli fosse concesso di menzionare gli sciacalli.
+Ma, come tanti vecchi soldati, Brown è religioso, e crede
+che realizzerà il resto di quelle purpuree avventure in
+un mondo migliore.
+
+Capitolo 2
+
+La Dolorosa Caduta di una Grande Reputazione
+
+Basil Grant ed io stavamo conversando un giorno in quello che è forse
+il luogo più perfetto per conversare sulla terra: l'imperiale di un
+tram discretamente deserto. Conversare in cima a una collina è
+sublime, ma conversare in cima a una collina volante è una fiaba.
+
+Il vasto spazio vuoto della Londra del Nord ci sfrecciava accanto;
+la velocità stessa ci dava il senso della sua immensità e della sua
+meschinità. Era, per così dire, una bassa infinità, una squallida
+eternità, e sentivamo il vero orrore dei quartieri poveri di Londra,
+l'orrore che è così totalmente mancato e travisato dai romanzieri
+sensazionalisti che lo dipingono come una faccenda di vicoli angusti,
+case luride, criminali e maniaci, e antri di vizio. In un vicolo
+angusto, in un antro di vizio, non ci si aspetta civiltà, non ci si
+aspetta ordine. Ma l'orrore di questo stava nel fatto che c'era
+civiltà, che c'era ordine, ma che la civiltà mostrava soltanto la sua
+morbosità, e l'ordine soltanto la sua monotonia. Nessuno direbbe,
+attraversando un tugurio criminale: «Non vedo statue. Non noto
+cattedrali». Ma qui c'erano edifici pubblici; solo che erano per lo
+più manicomi. Qui c'erano statue; solo che erano per lo più statue di
+ingegneri ferroviari e di filantropi: due squallide categorie di
+uomini unite dal loro comune disprezzo per il popolo. Qui c'erano
+chiese; solo che erano le chiese di sette oscure ed erratiche,
+Agapemoniti o Irvingiti. Qui, soprattutto, c'erano ampie strade e
+vasti incroci e linee tranviarie e ospedali e tutti i veri segni della
+civiltà. Ma sebbene non si sapesse mai, in un certo senso, che cosa si
+sarebbe visto dopo, c'era una cosa che sapevamo di non poter vedere:
+qualcosa di realmente grande, centrale, di prim'ordine, qualcosa che
+l'umanità avesse adorato. E con una ripugnanza indescrivibile le
+nostre emozioni tornavano, credo, a quegli androni davvero angusti e
+tortuosi, a quelle vie davvero misere, a quei genuini bassifondi che
+si stendono intorno al Tamigi e alla City, nei quali ciò nondimeno
+resta una reale possibilità che a un qualsiasi angolo la grande croce
+della grande cattedrale del Wren cali sulla strada come un fulmine.
+
+«Ma dovete sempre ricordare anche», mi disse Grant, nel suo modo
+greve e distratto, quando ebbi esposto questa idea, «che proprio la
+turpitudine della vita di questi ordinati luoghi plebei rende
+testimonianza alla vittoria dell'anima umana. Sono d'accordo con voi.
+Ammetto che debbano vivere in qualcosa di peggiore della barbarie.
+Debbono vivere in una civiltà di quart'ordine. Eppure io sono
+praticamente certo che la maggioranza della gente qui sia gente buona.
+Ed essere buoni è un'avventura assai più violenta e ardita che navigare
+attorno al mondo. Inoltre...»
+
+«Continuate», dissi io.
+
+Nessuna risposta venne.
+
+«Continuate», dissi, alzando lo sguardo.
+
+I grandi occhi azzurri di Basil Grant gli sporgevano dalla testa ed
+egli non mi prestava alcuna attenzione. Fissava oltre la sponda del
+tram.
+
+«Che c'è?» domandai, sporgendomi a guardare anch'io.
+
+«È molto strano», disse Grant infine, cupo, «che io sia stato colto in
+fallo così proprio nel momento del mio ottimismo. Ho detto che tutta
+questa gente era buona, ed ecco lì l'uomo più malvagio d'Inghilterra».
+
+«Dove?» chiesi, sporgendomi ancora di più, «dove?»
+
+«Oh, avevo ben ragione», proseguì, in quel tono strano, continuo e
+sonnolento che infuriava sempre chi lo ascoltava nei momenti acuti,
+«avevo ben ragione quando dicevo che tutta questa gente era buona.
+Sono eroi; sono santi. Di tanto in tanto potranno forse rubare un
+cucchiaio o due; potranno picchiare una moglie o due con l'attizzatoio.
+Ma sono santi lo stesso; sono angeli; sono vestiti di bianco; sono
+ammantati di ali e di aureole... perlomeno a paragone di quell'uomo».
+
+«Quale uomo?» gridai di nuovo, e allora il mio occhio colse la figura
+verso cui gli occhi taurini di Basil dardeggiavano.
+
+Era una persona snella, liscia, che passava rapidissima tra la folla
+che passava rapida, ma sebbene non vi fosse in lui nulla di
+sufficiente ad attirare un'attenzione trasalita, ce n'era abbastanza
+da esigere una curiosa considerazione una volta che quell'attenzione
+fosse attirata. Portava un cilindro nero, ma vi era in esso
+abbastanza di quelle strane curve con cui l'artista decadente degli
+anni Ottanta cercava di trasformare il cilindro in qualcosa di ritmico
+come un vaso etrusco. I suoi capelli, in gran parte grigi, erano
+arricciati con l'istinto di chi apprezzava la graduale bellezza del
+grigio e dell'argento. Il resto del suo volto era ovale e, mi parve,
+piuttosto orientale; aveva due neri ciuffi di baffi.
+
+«Che cosa ha fatto?» chiesi.
+
+«Non sono sicuro dei particolari», disse Grant, «ma il suo peccato
+dominante è il desiderio di intrigare a danno degli altri.
+Probabilmente ha adottato qualche impostura o altro per attuare il suo
+piano».
+
+«Quale piano?» chiesi. «Se sapete tutto di lui, perché non mi dite
+perché è l'uomo più malvagio d'Inghilterra? Come si chiama?»
+
+Basil Grant mi fissò per qualche istante.
+
+«Credo che abbiate frainteso ciò che intendo», disse. «Non conosco il
+suo nome. Non l'ho mai visto prima in vita mia».
+
+«Mai visto prima!» gridai, con una specie di collera; «e allora che
+diamine intendete dicendo che è l'uomo più malvagio d'Inghilterra?»
+
+«Intendevo ciò che ho detto», disse Basil Grant con calma. «Nel
+momento in cui ho visto quell'uomo, ho visto tutta questa gente
+colpita da una improvvisa e splendida innocenza. Ho visto che mentre
+tutti i comuni poveri per le strade erano se stessi, egli non era se
+stesso. Ho visto che tutti gli uomini di questi bassifondi,
+accattoni, borsaioli, teppisti, cercano tutti, nel senso più profondo,
+di essere buoni. E ho visto che quell'uomo cercava di essere malvagio».
+
+«Ma se non l'avete mai visto prima...» cominciai.
+
+«In nome di Dio, guardategli il volto», esclamò Basil con una voce che
+fece trasalire il conducente. «Guardategli le sopracciglia. Significano
+quell'infernale orgoglio che rese Satana tanto superbo da sogghignare
+persino al cielo quand'era uno dei primi angeli in esso. Guardategli i
+baffi, sono cresciuti così da insultare l'umanità. In nome dei sacri
+cieli guardategli i capelli. In nome di Dio e delle stelle,
+guardategli il cappello».
+
+Mi agitai a disagio.
+
+«Ma, dopotutto», dissi, «questo è molto fantasioso... del tutto
+assurdo. Guardate i semplici fatti. Non avete mai visto quell'uomo
+prima, voi...»
+
+«Oh, i semplici fatti», esclamò con una specie di disperazione. «I
+semplici fatti! Ammettete davvero... siete ancora così sprofondato
+nelle superstizioni, così aggrappato a oscuri e preistorici altari,
+da credere nei fatti? Non vi fidate di un'impressione immediata?»
+
+«Be', un'impressione immediata può essere», dissi, «un po' meno
+pratica dei fatti».
+
+«Sciocchezze», disse. «Su quale altra cosa è retto il mondo intero se
+non sulle impressioni immediate? Che cosa c'è di più pratico? Amico
+mio, la filosofia di questo mondo potrà essere fondata sui fatti, ma i
+suoi affari sono retti su impressioni e atmosfere spirituali. Perché
+rifiutate o assumete un impiegato? Ne misurate il cranio? Ne studiate
+lo stato fisiologico in un manuale? Vi basate forse sui fatti? Non un
+briciolo. Assumete un impiegato che può salvarvi l'azienda... rifiutate
+un impiegato che può svaligiarvi la cassa, interamente in base a quelle
+immediate impressioni mistiche sotto la cui pressione io affermo, con
+un perfetto senso di certezza e di sincerità, che quell'uomo che
+cammina in quella strada accanto a noi è un ciarlatano e un
+farabutto di qualche sorta».
+
+«Mettete sempre bene le cose», dissi, «ma, naturalmente, cose simili
+non possono essere immediatamente messe alla prova».
+
+Basil scattò in piedi e oscillò col dondolare del tram.
+
+«Scendiamo e seguiamolo», disse. «Scommetto cinque sterline che le
+cose andranno come dico io».
+
+E con uno scatto, un balzo e una corsa, fummo giù dal tram.
+
+L'uomo dai capelli d'argento ricurvi e dal volto orientale ricurvo
+camminò per qualche tempo, con la lunga e splendida finanziera che gli
+volava dietro. Poi svoltò bruscamente fuori dalla grande strada
+abbagliante e scomparve giù per un vicolo mal illuminato. Noi lo
+seguimmo in silenzio.
+
+«È una svolta ben strana da prendere per un uomo di quel genere»,
+dissi.
+
+«Un uomo di quale genere?» chiese il mio amico.
+
+«Be'», dissi, «un uomo con quel tipo di espressione e con quegli
+stivali. Trovavo piuttosto strano, a dire il vero, che si trovasse in
+questa parte del mondo».
+
+«Ah, sì», disse Basil, e non disse altro.
+
+Marciammo avanti, guardando fissi davanti a noi. L'elegante figura,
+come la figura di un cigno nero, si stagliò all'improvviso contro il
+bagliore della luce a gas intermittente e poi fu di nuovo inghiottita
+nella notte. Gli intervalli tra i lampioni erano lunghi, e una nebbia
+stava infittendo l'intera città. Il nostro passo, perciò, era divenuto
+rapido e meccanico tra un lampione e l'altro; ma Basil si arrestò
+d'un tratto come un cavallo frenato; mi fermai anch'io. Per poco non
+eravamo andati a sbattere contro l'uomo. Gran parte del solido buio
+davanti a noi era il buio del suo corpo.
+
+Sulle prime credetti che si fosse voltato ad affrontarci. Ma sebbene
+fossimo a malapena a un metro di distanza egli non si accorse che
+eravamo lì. Batté quattro colpi su una porta bassissima e sudicia
+nella strada buia e contorta. Un barlume di gas fendette l'oscurità
+mentre essa si apriva lentamente. Ascoltammo con intensità, ma il
+colloquio fu breve e semplice e inspiegabile quanto un colloquio possa
+esserlo. Il nostro squisito amico porse quello che sembrava un foglio
+o un biglietto e disse:
+
+«Subito. Prendete una carrozza».
+
+Una voce greve e profonda dall'interno disse:
+
+«D'accordo».
+
+E con uno scatto fummo di nuovo nel nero, e a grandi passi dietro lo
+sconosciuto che avanzava a grandi passi attraverso un labirinto di
+viuzze londinesi, con i lumi appena sufficienti a guidarci. Erano
+soltanto le cinque, ma l'inverno e la nebbia le avevano rese come la
+mezzanotte.
+
+«È davvero una passeggiata straordinaria per gli stivali di vernice»,
+ripetei.
+
+«Non so», disse Basil umilmente. «Conduce a Berkeley Square».
+
+Mentre marciavo avanti aguzzavo gli occhi nell'atmosfera fosca e
+cercavo di distinguere la direzione indicata. Per una decina di minuti
+mi domandai e dubitai; alla fine vidi che il mio amico aveva ragione.
+Stavamo giungendo ai grandi spazi tetri della Londra alla moda: più
+tetri, si deve ammettere, persino degli spazi tetri e plebei.
+
+«Questo è straordinario!» disse Basil Grant, mentre svoltavamo in
+Berkeley Square.
+
+«Che cosa è straordinario?» chiesi. «Credevo aveste detto che era del
+tutto naturale».
+
+«Non mi meraviglio», rispose Basil, «che egli cammini per strade
+sordide; non mi meraviglio che vada a Berkeley Square. Ma mi meraviglio
+che vada a casa di un uomo davvero buono».
+
+«Quale uomo davvero buono?» chiesi con esasperazione.
+
+«L'operazione del tempo è cosa singolare», disse con la sua
+imperturbabile irrilevanza. «Non è un'esatta rappresentazione del caso
+dire che ho dimenticato la mia carriera di quando ero giudice e uomo
+pubblico. La ricordo tutta vividamente, ma è come ricordare un
+romanzo. Quindici anni fa, però, conoscevo questa piazza bene quanto
+Lord Rosebery, e maledettamente meglio di quell'uomo che sta salendo i
+gradini della casa del vecchio Beaumont».
+
+«Chi è il vecchio Beaumont?» chiesi irritato.
+
+«Un tipo perfettamente per bene. Lord Beaumont di Foxwood... non ne
+conoscete il nome? È un uomo di trasparente sincerità, un nobiluomo
+che lavora più di un manovale, un socialista, un anarchico, non so che
+cosa; comunque sia, è un filosofo e un filantropo. Ammetto che ha il
+lieve svantaggio di essere, fuor di ogni dubbio, matto. Ha quel vero
+svantaggio che è sorto dal moderno culto del progresso e della novità;
+e crede che qualsiasi cosa strana e nuova debba essere un progresso.
+
+Se andaste da lui e gli proponeste di mangiarvi la nonna, sarebbe
+d'accordo con voi, purché lo metteste su basi igieniche e pubbliche,
+come una economica alternativa alla cremazione. Purché si progredisca
+abbastanza in fretta gli pare cosa indifferente se si progredisca verso
+le stelle o verso il diavolo. Così la sua casa è colma di un'infinita
+successione di mode letterarie e politiche; uomini che portano i
+capelli lunghi perché è romantico; uomini che portano i capelli corti
+perché è igienico; uomini che camminano sui piedi solo per esercitare
+le mani; e uomini che camminano sulle mani per paura di affaticarsi i
+piedi. Ma benché gli abitatori dei suoi salotti siano in genere degli
+sciocchi, come lui, sono quasi sempre, come lui, uomini buoni. Mi
+sorprende davvero vedere un criminale entrare là dentro».
+
+«Mio buon amico», dissi con fermezza, battendo il piede sul
+marciapiede, «la verità di questa faccenda è molto semplice. Per usare
+il vostro stesso eloquente linguaggio, avete il "lieve svantaggio" di
+essere matto. Vedete un perfetto sconosciuto in una pubblica via;
+decidete di avviare certe teorie sulle sue sopracciglia. Poi lo
+trattate da scassinatore perché entra nella porta di un uomo onesto.
+
+La cosa è troppo mostruosa. Ammettete che lo è, Basil, e venite a
+[[motifs/home|casa]] con me. Sebbene questa gente stia ancora prendendo il tè,
+tuttavia, con la distanza che abbiamo da fare, faremo tardi per la
+cena».
+
+Gli occhi di Basil brillavano nel crepuscolo come lampade.
+
+«Credevo», disse, «di aver ormai superato la [[concepts/vanity|vanità]]».
+
+«Che cosa volete adesso?» gridai.
+
+«Voglio», esclamò, «ciò che vuole una ragazza quando indossa il suo
+abito nuovo; voglio ciò che vuole un ragazzo quando si lancia in una
+sfida clamorosa con un sorvegliante: voglio mostrare a qualcuno che
+bravo tipo sono. Ho tanto ragione su quell'uomo quanto ho ragione sul
+fatto che voi avete un cappello in testa. Voi dite che non si può
+provare. Io dico che si può. Vi condurrò a vedere il mio vecchio amico
+Beaumont. È un uomo delizioso da conoscere».
+
+«Volete davvero...?» cominciai.
+
+«Mi scuserò», disse con calma, «per il fatto che non siamo vestiti per
+una visita», e attraversando la vasta piazza nebbiosa salì gli scuri
+gradini di pietra e suonò il campanello.
+
+Un austero domestico in bianco e nero ci aprì la porta: nell'udire il
+nome del mio amico il suo contegno passò in un lampo dallo stupore al
+rispetto. Fummo introdotti nella casa rapidissimamente, ma
+non tanto in fretta che il nostro ospite, un uomo dai capelli bianchi
+e dal volto acceso, non uscisse in fretta a incontrarci.
+
+«Mio caro amico», esclamò, stringendo la mano di Basil più e più
+volte, «non vi vedo da anni. Siete stato... ehm...» disse, piuttosto
+concitato, «siete stato in campagna?»
+
+«Per tutto questo [[motifs/time|tempo]] no», rispose Basil, sorridendo. «Ho
+lasciato da tempo la mia carica ufficiale, mio caro Philip, e ho
+vissuto in un ritiro deliberato. [[concepts/hope|Spero]] di non giungere in un
+momento inopportuno».
+
+«Un momento inopportuno», esclamò l'ardente gentiluomo. «Giungete nel
+momento più opportuno che io possa immaginare. Sapete chi c'è qui?»
+
+«Non lo so», rispose Grant, con gravità. Proprio mentre parlava un
+scroscio di risate giunse dalla stanza interna.
+
+«Basil», disse Lord Beaumont solennemente, «ho qui Wimpole».
+
+«E chi è Wimpole?»
+
+«Basil», gridò l'altro, «dovete essere stato in campagna. Dovete
+essere stato agli antipodi. Dovete essere stato sulla [[motifs/moon|luna]].
+Chi è Wimpole? Chi era Shakespeare?»
+
+«Quanto a chi fosse Shakespeare», rispose il mio amico placidamente,
+«le mie vedute non vanno oltre il ritenere che non fosse Bacone. Più
+probabilmente era Maria [[characters/queen|Regina]] di Scozia. Ma quanto a chi sia
+Wimpole...» e anche il suo discorso fu spaccato da uno scroscio di
+risate dall'interno.
+
+«Wimpole!» esclamò Lord Beaumont, in una sorta di estasi. «Non avete
+sentito parlare del grande spirito moderno? Mio caro amico, egli ha
+trasformato la conversazione, non dico in un'arte, ché tale forse è
+sempre stata, ma in una grande arte, come la statuaria di [[characters/michael|Michael]]
+[[characters/angelo|Angelo]]: un'arte di capolavori. Le sue battute, mio buon amico,
+folgorano come un uomo colpito a morte. Sono definitive; sono...»
+
+Di nuovo venne l'ilare scroscio dalla stanza, e quasi con il rumore
+stesso di esso, un grosso, ansante, apoplettico vecchio signore uscì
+dalla casa interna nell'atrio dove noi stavamo.
+
+«Ora, mio caro amico», cominciò Lord Beaumont in fretta.
+
+«Ve lo dico, Beaumont, non lo tollererò», esplose il grosso vecchio
+signore. «Non mi lascerò prendere in giro da un avventuriero letterario
+da quattro soldi come quello. Non mi lascerò rendere ridicolo. Non
+lo...»
+
+«Suvvia, suvvia», disse Beaumont febbrilmente. «Lasciate che vi
+presenti. Questi è il signor Giudice Grant... cioè, il signor Grant.
+Basil, sono certo che avrete sentito parlare di Sir Walter
+Cholmondeliegh».
+
+«E chi non ne ha sentito parlare?» chiese Grant, e s'inchinò al degno
+vecchio baronetto, squadrandolo con una certa curiosità. Era acceso e
+grave nella sua momentanea collera, ma neppure questo poteva celare il
+nobile benché opulento profilo del suo volto e del suo [[concepts/body|corpo]],
+i floridi capelli bianchi, il naso romano, il [[concepts/body|corpo]] robusto
+benché corpulento, il mento aristocratico benché [[topoi/double|doppio]]. Era
+un magnifico e cortese gentiluomo; tanto gentiluomo da poter mostrare
+un'indubitabile debolezza di collera senza perdere del tutto la
+dignità; tanto gentiluomo che persino i suoi passi falsi erano
+[[motifs/well|ben]] educati.
+
+«Sono afflitto oltre ogni dire, Beaumont», disse bruscamente, «di
+mancare di rispetto a questi signori, e ancor più di mancarne nella
+vostra casa. Ma non siete voi né loro a essere in alcun modo
+in causa, bensì quel vistoso meticcio saccente...»
+
+In quel momento un giovane con un ricciolo di baffi rossi e un'aria
+cupa uscì dalla stanza interna. Anch'egli non pareva godersi granché il
+banchetto intellettuale là dentro.
+
+«Credo ricordiate il mio amico e segretario, il signor Drummond»,
+disse Lord Beaumont, volgendosi a Grant, «anche se lo ricordate solo
+come uno scolaretto».
+
+«Perfettamente», disse l'altro. Il signor Drummond strinse le mani con
+cordialità e rispetto, ma la nube era ancora sulla sua fronte.
+Volgendosi a Sir Walter Cholmondeliegh, disse:
+
+«Sono stato mandato da Lady Beaumont a esprimere la sua [[concepts/hope|speranza]]
+che non stiate ancora per andarvene, Sir Walter. Dice di avervi visto a
+malapena».
+
+Il vecchio signore, ancora rosso in volto, ebbe una temporanea lotta
+interiore; poi le sue buone maniere trionfarono, e con un gesto di
+ossequio e una vaga espressione di «Se Lady Beaumont... una signora,
+naturalmente», seguì il giovane di nuovo nel salotto. Vi era stato
+appena depositato da mezzo minuto quando un altro scroscio di risate
+annunciò che egli (con ogni probabilità) era stato di nuovo messo in
+ridicolo.
+
+«Naturalmente, posso scusare il caro vecchio Cholmondeliegh», disse
+Beaumont, mentre ci aiutava a toglierci i cappotti. «Non ha la mente
+moderna».
+
+«Che cos'è la mente moderna?» chiese Grant.
+
+«Oh, è illuminata, sapete, e progressista... e affronta seriamente i
+fatti della vita». In quel momento un altro scroscio di risate giunse
+dall'interno.
+
+«Lo chiedo soltanto», disse Basil, «a causa degli ultimi due vostri
+amici che avevano la mente moderna; uno riteneva sbagliato mangiare i
+pesci e l'altro riteneva giusto mangiare gli uomini. Vi chiedo scusa...
+da questa parte, se ben ricordo».
+
+«Sapete», disse Lord Beaumont, con una sorta di febbrile
+divertimento, mentre ci trotterellava dietro verso l'interno, «non
+riesco mai a capire bene da che parte stiate. A volte sembrate così
+liberale e a volte così reazionario. Siete un moderno, Basil?»
+
+«No», disse Basil, forte e allegro, mentre entrava nell'affollato
+salotto.
+
+Ciò causò un lieve diversivo, e alcuni sguardi si distolsero dal nostro
+snello amico dal volto orientale per la prima [[motifs/time|volta]] quel
+pomeriggio. Due persone, tuttavia, continuavano a guardarlo. Una era la
+figlia della casa, Muriel Beaumont, che lo fissava con grandi
+occhi violetti e con l'intensa e terribile sete dell'alta società
+femminile per il divertimento e lo stimolo verbale. L'altro era Sir
+Walter Cholmondeliegh, che lo guardava con un immoto e cupo ma
+inequivocabile [[motifs/desire|desiderio]] di gettarlo fuori dalla
+[[motifs/window|finestra]].
+
+Sedeva là, avvolto più che seduto sulla poltrona; tutto, dalle curve
+delle sue lisce membra alle spire dei suoi capelli argentati, suggeriva
+i cerchi di un serpente più che le membra dritte di un uomo:
+l'inequivocabile, splendido gentiluomo serpentino che avevamo visto
+camminare nella Londra del Nord [[settings/london|London]], gli occhi splendenti di
+ripetuta vittoria.
+
+«Ciò che non riesco a capire, signor Wimpole», disse Muriel Beaumont
+con ardore, «è come facciate a trattare tutto questo con tanta
+disinvoltura. Dite cose del tutto filosofiche eppure così pazzamente
+divertenti. Se io pensassi a cose simili, son certa che scoppierei a
+ridere quando il pensiero mi venisse per la prima volta».
+
+«Sono d'accordo con la signorina Beaumont», disse Sir Walter,
+esplodendo d'un tratto d'indignazione. «Se avessi pensato a qualcosa di
+così futile, troverei difficile mantenere il contegno».
+
+«Difficile mantenere il contegno», esclamò il signor Wimpole, con
+un'aria di allarme; «oh, mantenetelo, il contegno! Tenetelo al British
+Museum».
+
+Tutti risero fragorosamente, come fanno sempre a una prontezza già
+ammessa, e Sir Walter, facendosi d'un tratto paonazzo, gridò:
+
+«Sapete con chi state parlando, con le vostre maledette buffonate?»
+
+«Non dico mai buffonate», disse l'altro, «senza prima conoscere il mio
+pubblico».
+
+Grant attraversò la stanza e batté una mano sulla spalla del segretario
+dai baffi rossi. Quel gentiluomo era appoggiato al muro e osservava
+l'intera scena con grande cupezza; ma, mi parve, con cupezza del tutto
+particolare quando i suoi occhi caddero sulla giovane signora della
+casa che ascoltava rapita Wimpole.
+
+«Posso scambiare una parola con voi là fuori, Drummond?» chiese Grant.
+«Si tratta di affari. Lady Beaumont ci scuserà».
+
+Seguii il mio amico, su sua stessa richiesta, molto meravigliato, verso
+quello strano colloquio esterno. Passammo bruscamente in una specie di
+saletta laterale che dava sull'atrio.
+
+«Drummond», disse Basil bruscamente, «vi è un gran numero di persone
+buone, e un gran numero di persone sane di mente, qui questo
+pomeriggio. Disgraziatamente, per una specie di coincidenza, tutte le
+persone buone sono matte, e tutte le persone sane di mente sono
+malvagie. Voi siete l'unica persona che io conosca qui che sia onesta e
+che abbia anche un po' di buon senso. Che cosa pensate di Wimpole?»
+
+Il signor segretario Drummond aveva un volto pallido e capelli rossi;
+ma a questo il suo volto divenne d'un tratto rosso quanto i suoi baffi.
+
+«Non sono un giudice imparziale su di lui», disse.
+
+«Perché no?» chiese Grant.
+
+«Perché lo odio come l'inferno», disse l'altro, dopo una lunga pausa e
+con violenza.
+
+Né Grant né io avevamo bisogno di chiederne la ragione; le sue
+occhiate verso la signorina Beaumont e lo sconosciuto erano
+sufficientemente illuminanti. Grant disse tranquillamente:
+
+«Ma prima... prima che arrivaste a odiarlo, che cosa pensavate
+realmente di lui?»
+
+«Sono in una difficoltà terribile», disse il giovane, e la sua voce ci
+disse, come una chiara campana, che era un uomo onesto. «Se parlassi di
+lui come sento adesso di lui, non potrei fidarmi di me stesso. E mi
+piacerebbe poter dire che, quando lo vidi la prima volta, lo trovai
+affascinante. Ma di nuovo, il fatto è che non fu così. Lo odio, questo
+è affar mio privato. Ma anche lo disapprovo... davvero credo di
+disapprovarlo del tutto a prescindere dai miei sentimenti privati.
+Quando venne la prima volta, ammetto che era assai più tranquillo, ma
+non mi piaceva, per così dire, la sua boria morale. Poi quel gioviale
+vecchio Sir Walter Cholmondeliegh ci fu presentato, e questo tizio, col
+suo spirito da rigattiere, cominciò a mettere in ridicolo il vecchio nel
+modo in cui fa adesso. Allora sentii che doveva essere una cattiva
+razza; dev'essere cosa cattiva combattere i vecchi e i benevoli. Ed
+egli combatte il povero vecchietto con ferocia, senza tregua, come se
+odiasse la vecchiaia e la benevolenza. Prendete, se lo volete, la
+testimonianza di un teste prevenuto. Ammetto di odiare quell'uomo
+perché una certa persona lo ammira. Ma credo che, a prescindere da
+questo, odierei quell'uomo perché il vecchio Sir Walter lo odia».
+
+Questo discorso mi ispirò un genuino senso di stima e di pietà per il
+giovane; cioè, di pietà per lui a causa del suo evidentemente disperato
+culto per la signorina Beaumont, e di stima per lui a causa del diretto
+e realistico resoconto della [[concepts/history|storia]] di Wimpole che aveva
+dato. Tuttavia, mi dispiaceva che egli sembrasse così fermamente
+schierato contro l'uomo, e non potevo fare a meno di attribuirlo a un
+istinto delle sue relazioni personali, per quanto nobilmente celato a
+sé stesso.
+
+In mezzo a queste meditazioni, Grant mi sussurrò all'orecchio quella
+che fu forse la più sorprendente di tutte le interruzioni.
+
+«In nome di Dio, andiamocene».
+
+Non ho mai saputo esattamente in quale strano modo quello strano
+vecchio mi agisse addosso. So soltanto che, per una ragione o per
+l'altra, mi agì tanto addosso che io mi trovai, entro pochi minuti,
+nella strada là fuori.
+
+«Questa», disse, «è una faccenda bestiale ma divertente».
+
+«Che cosa?» chiesi, in modo alquanto brusco.
+
+«Questa faccenda. Ascoltatemi, mio vecchio amico. Lord e Lady Beaumont
+hanno appena invitato voi e me a un gran pranzo questa stessa
+[[motifs/night|notte]], al quale il signor Wimpole sarà in tutta la sua gloria.
+[[motifs/well|Ebbene]], non c'è nulla di molto straordinario in questo. La cosa
+straordinaria è che noi non ci andremo».
+
+«[[motifs/well|Ebbene]], davvero», dissi, «sono già le sei all'[[motifs/clock|orologio]]
+e [[concepts/doubt|dubito]] che potremmo tornare a [[motifs/home|casa]] e vestirci. Non
+vedo nulla di straordinario nel fatto che non ci andiamo».
+
+«Non lo vedete?» disse Grant. «Scommetto che vedrete qualcosa di
+straordinario in ciò che facciamo invece».
+
+Lo guardai attonito.
+
+«Facciamo invece?» chiesi. «Che cosa facciamo invece?»
+
+«Ebbene», disse, «aspettiamo per una o due ore fuori da questa
+casa in una sera d'[[motifs/winter|inverno]]. Dovete perdonarmi; è
+tutta mia [[concepts/vanity|vanità]]. È solo per mostrarvi che ho ragione.
+Potete, con l'aiuto di questo sigaro, aspettare finché sia Sir Walter
+Cholmondeliegh sia il mistico Wimpole abbiano lasciato questa
+casa?»
+
+«Certamente», dissi. «Ma non so quale dei due sia probabile che se ne
+vada per primo. Ne avete idea?»
+
+«No», disse. «Sir Walter potrebbe andarsene per primo in una vampata di
+rabbia. O ancora, il signor Wimpole potrebbe andarsene per primo,
+sentendo che il suo ultimo [[forms/epigram|epigramma]] è cosa da lanciarsi
+dietro le spalle come un fuoco d'artificio. E Sir Walter potrebbe
+restare qualche [[motifs/time|tempo]] ad analizzare il carattere del signor
+Wimpole. Ma dovranno entrambi andarsene entro un [[motifs/time|tempo]]
+ragionevole, perché dovranno entrambi vestirsi e tornare a cena qui
+stasera».
+
+Mentre parlava lo stridulo [[topoi/double|doppio]] fischio dal portico della
+[[motifs/great-house|grande casa]] chiamò una scura carrozza al portale scuro.
+E allora accadde una cosa che davvero non ci saremmo aspettati. Il
+signor Wimpole e Sir Walter Cholmondeliegh uscirono nello stesso
+momento.
+
+Si arrestarono un secondo o due l'uno di fronte all'altro in un naturale
+[[concepts/doubt|dubbio]]; poi una certa cordialità, fondamentale forse in
+entrambi, indusse Sir Walter a sorridere e a dire: «La [[motifs/night|notte]]
+è nebbiosa. Vi prego, prendete la mia carrozza».
+
+Prima che potessi contare fino a venti la carrozza se n'era andata
+sferragliando su per la strada con entrambi a bordo. E prima che
+potessi contare fino a ventitré Grant mi aveva sibilato all'orecchio:
+
+«Correte dietro alla carrozza; correte come se fuggiste da un cane
+rabbioso... correte».
+
+Corremmo di gran carriera senza sosta, tenendo d'occhio la carrozza,
+per strade buie e intricate. Solo Dio, pensavo, sa perché mai stiamo
+correndo, ma corriamo a perdifiato. Per fortuna non corremmo a lungo.
+La carrozza si fermò al bivio di due strade e Sir Walter pagò il
+vetturino, che se ne andò esultante, avendo appena avuto a
+che fare con i più generosi tra i ricchi. Poi i due uomini si misero a
+parlare insieme come parlano insieme gli uomini dopo aver dato e
+ricevuto grandi insulti, quel discorso che conduce o al
+[[concepts/forgiveness|perdono]] o a un duello... almeno così pareva mentre lo
+osservavamo a dieci metri di distanza. Poi i due uomini si strinsero la
+mano cordialmente, e uno prese un ramo della [[motifs/road|strada]] e l'altro
+prese l'altro.
+
+Basil, con uno dei suoi rari gesti, protese le braccia in avanti.
+
+«Correte dietro a quel furfante», gridò; «prendiamolo adesso».
+
+Ci slanciammo attraverso lo spazio aperto e raggiungemmo la giuntura
+dei due sentieri.
+
+«Fermatevi!» gridai forsennatamente a Grant. «Quella è la svolta
+sbagliata».
+
+Egli continuò a correre.
+
+«Idiota!» urlai. «Sir Walter è andato di là. Wimpole ci è sfuggito. È a
+mezzo miglio giù per l'altra [[motifs/road|strada]]. Vi sbagliate... Siete
+sordo? Vi sbagliate!»
+
+«Non credo di sbagliarmi», ansimò, e continuò a correre.
+
+«Ma io l'ho visto!» gridai. «Guardate davanti a voi. È quello Wimpole?
+È il vecchio... Che cosa fate? Che cosa dobbiamo fare?»
+
+«Continuate a correre», disse Grant.
+
+Il correre ci portò presto contro l'ampia schiena del pomposo vecchio
+baronetto, i cui bianchi favoriti brillavano d'argento nella luce
+mutevole dei lampioni. Il mio cervello era del tutto sconvolto. Non
+afferravo nulla.
+
+«Charlie», disse Basil con voce rauca, «potete credere nel mio buon
+senso per quattro minuti?»
+
+«Certamente», dissi, ansimando.
+
+«Allora aiutatemi ad afferrare quell'uomo davanti e a tenerlo giù.
+Fatelo subito quando dico "Ora". Ora!»
+
+Ci gettammo su Sir Walter Cholmondeliegh, e rotolammo quel corpulento
+vecchio signore sulla schiena. Egli lottò con encomiabile valore, ma lo
+tenemmo saldo. Non avevo la più remota idea del perché. Aveva un vigore
+splendido e sanguigno; quando non poteva tirare pugni tirava calci, e
+lo legammo; quando non poteva tirare calci gridava, e lo imbavagliammo.
+Poi, per disposizione di Basil, lo trascinammo in un piccolo cortile a
+lato della strada e attendemmo. Come dico, non avevo idea del perché.
+
+«Mi spiace di incomodarvi», disse Basil con calma dall'oscurità; «ma ho
+qui un appuntamento».
+
+«Un appuntamento!» dissi attonito.
+
+«Sì», disse, lanciando un'occhiata tranquilla al vecchio apoplettico
+aristocratico imbavagliato a terra, i cui occhi gli sporgevano
+impotenti dalla testa. «Ho un appuntamento qui con un giovanotto
+davvero simpatico. Un vecchio amico. Jasper Drummond si chiama...
+potreste averlo incontrato questo pomeriggio dai Beaumont. Ma
+difficilmente potrà venire prima che la cena dei Beaumont sia finita».
+
+Per non so quante ore restammo là in piedi tranquilli nell'oscurità.
+Quando quelle ore furono trascorse mi ero pienamente convinto che era
+accaduta la stessa cosa che era accaduta molto tempo prima sul banco di
+un tribunale di giustizia britannico. Basil Grant era impazzito. Non
+riuscivo a immaginare altra spiegazione dei fatti, con quel corpulento
+vecchio gentiluomo di campagna dal volto paonazzo gettato là,
+strangolato sul pavimento come un fascio di legna.
+
+Dopo circa quattro ore una figura magra in abito da sera si precipitò
+nel cortile. Un barlume di luce a gas rivelò i baffi rossi e il volto
+bianco di Jasper Drummond.
+
+«Signor Grant», disse attonito, «la cosa è incredibile. Avevate
+ragione; ma che cosa intendevate? Per tutto questo pranzo, dove duchi e
+duchesse e direttori di riviste trimestrali erano venuti apposta per
+udirlo, quello straordinario Wimpole è rimasto perfettamente in
+silenzio. Non ha detto una cosa spiritosa. Non ha detto proprio nulla.
+Che cosa significa?»
+
+Grant indicò il corpulento vecchio gentiluomo a terra.
+
+«Ecco che cosa significa», disse.
+
+Drummond, nell'osservare un grasso gentiluomo che se ne stava così
+tranquillamente disteso lì, fece un balzo indietro, come da un topo.
+
+«Cosa?» disse debolmente, «... cosa?»
+
+Basil si chinò d'un tratto e strappò un foglio dal taschino di Sir
+Walter, un foglio che il baronetto, persino nel suo stato impedito,
+sembrava fare qualche sforzo per trattenere.
+
+Era un grande foglio sciolto di carta bianca da imballaggio, che il
+signor Jasper Drummond lesse con occhio vacuo e con non dissimulato
+stupore. Per quanto poteva capire, consisteva in una serie di domande e
+risposte, o almeno di osservazioni e repliche, disposte alla maniera di
+un catechismo. La maggior parte del documento era stata strappata e
+cancellata nella colluttazione, ma la conclusione rimaneva. Diceva
+così:
+
+C. Dice ... Mantenete il contegno.
+
+W. Tenetelo ... British Museum.
+
+C. Sapere con chi si parla ... assurdità.
+
+W. Mai dire assurdità senza
+
+«Che cos'è?» gridò Drummond, gettando giù il foglio in una sorta di
+furia finale.
+
+«Che cos'è?» replicò Grant, con la voce che si levava in una specie di
+splendido canto. «Che cos'è? È una grande nuova professione. Un grande
+nuovo mestiere. Un tantino immorale, lo ammetto, ma pur sempre grande,
+come la pirateria».
+
+«Una nuova professione!» disse il giovane dai baffi rossi vagamente;
+«un nuovo mestiere!»
+
+«Un nuovo mestiere», ripeté Grant, con una strana esultanza, «una nuova
+professione! Che peccato che sia immorale».
+
+«Ma che diamine è?» gridammo Drummond ed io in un fiato di
+bestemmia.
+
+«È», disse Grant con calma, «il grande nuovo mestiere
+dell'Organizzatore di Battute. Questo grasso vecchio gentiluomo disteso
+a terra vi colpisce, non ho dubbio, come molto stupido e molto ricco.
+Lasciate che scagioni il suo carattere. Egli è, come noi, molto arguto
+e molto povero. Inoltre non è affatto grasso; è tutta imbottitura. Non
+è particolarmente vecchio, e il suo nome non è Cholmondeliegh. È un
+truffatore, e un truffatore di un genere perfettamente delizioso e
+nuovo. Si dà a nolo ai pranzi per fare da spalla alle battute altrui.
+Secondo uno schema prestabilito (che potete trovare su quel foglio),
+egli dice le cose stupide che ha predisposto per sé, e il suo cliente
+dice le cose argute predisposte per lui. In breve, si lascia mettere in
+ridicolo per una ghinea a serata».
+
+«E questo tizio Wimpole...» cominciò Drummond con indignazione.
+
+«Questo tizio Wimpole», disse Basil Grant, sorridendo, «in futuro non
+sarà un rivale intellettuale. Aveva alcune belle qualità, l'eleganza e
+i capelli argentati, e via dicendo. Ma l'intelletto sta con il nostro
+amico sul pavimento».
+
+«Quel tizio», gridò Drummond furiosamente, «quel tizio dovrebbe stare
+in prigione».
+
+«Niente affatto», disse Basil con indulgenza; «dovrebbe stare nel Club
+dei Mestieri Bizzarri».
+
+Capitolo 3
+
+Il Terribile Motivo della Visita del Vicario
+
+La rivolta della Materia contro l'Uomo (che io credo esista) è ormai
+ridotta a una singolare condizione. Sono le piccole cose, piuttosto che
+le grandi, a farci guerra e, potrei aggiungere, a batterci. Le ossa
+dell'ultimo mammut sono da tempo marcite, un possente rottame; le
+tempeste non divorano più le nostre flotte, né le montagne dal cuore di
+fuoco ammucchiano l'inferno sopra le nostre città. Ma siamo impegnati
+in una guerra aspra ed eterna con le piccole cose; principalmente con i
+microbi e con i bottoni da colletto. Il bottone con cui io ero
+impegnato (a condizioni feroci e pari) mentre facevo le riflessioni di
+cui sopra, era uno che stavo cercando di introdurre nel colletto della
+mia camicia quando un forte colpo risuonò alla porta.
+
+Il mio primo pensiero fu se Basil Grant fosse passato a prendermi. Lui
+ed io dovevamo presentarci allo stesso pranzo (per il quale ero
+appunto in procinto di vestirmi), e poteva darsi che si fosse messo in
+testa di venire dalla mia parte, sebbene avessimo convenuto di andarci
+separatamente. Era una faccenda ristretta e riservata, alla tavola di
+una buona ma anticonvenzionale signora della politica, una sua vecchia
+amica. Ci aveva chiesto a entrambi di incontrare un terzo ospite, un
+capitano Fraser, che si era fatto un certo nome ed era un'autorità in
+fatto di scimpanzé. Poiché Basil era un vecchio amico della padrona di
+casa e io non l'avevo mai vista, sentivo che era del tutto possibile che
+egli (con la sua consueta sagacia mondana) avesse deciso di portarmi con
+sé per rompere il ghiaccio. La teoria, come tutte le mie teorie, era
+completa; ma di fatto non era Basil.
+
+Mi fu porto un biglietto da visita che recava scritto: «Rev. Ellis
+Shorter», e sotto era vergato a matita, ma con una grafia in cui persino
+la fretta non poteva celare una deprimente e signorile eccellenza:
+«Chiede il favore di pochi istanti di colloquio su una faccenda
+urgentissima»!
+
+Avevo già domato il bottone, proclamando con ciò che l'immagine di Dio
+ha la supremazia su ogni materia (una preziosa verità), e gettatomi
+addosso il frac e il panciotto, mi affrettai nel salotto. Egli si alzò
+al mio entrare, sbattendo come una foca; non posso usare altra
+descrizione. Sbatteva uno scialle scozzese sul braccio destro;
+sbatteva un paio di patetici guanti neri; sbatteva i suoi abiti; posso
+dire, senza esagerazione, che sbatteva le palpebre, mentre si alzava.
+Era un vecchio ecclesiastico dalla fronte calva, dai capelli bianchi e
+dai favoriti bianchi, di tipo cascante e flaccido. Disse:
+
+«Sono così spiacente. Sono davvero molto spiacente. Sono estremamente
+spiacente. Vengo... posso solo dire... posso solo dire a mia difesa,
+che vengo... per una faccenda importante. Vi prego di perdonarmi».
+
+Gli dissi che lo perdonavo perfettamente e attesi.
+
+«Ciò che ho da dire», disse con voce rotta, «è così spaventoso... è così
+spaventoso... io ho vissuto una vita tranquilla».
+
+Ardevo dalla voglia di andarmene, poiché era già dubbio se sarei giunto
+in tempo per la cena. Ma vi era qualcosa nell'onesta aria di amarezza
+del vecchio che pareva aprirmi le possibilità di una vita più vasta e
+più tragica della mia.
+
+Dissi con gentilezza: «Vi prego, continuate».
+
+Nondimeno il vecchio signore, essendo un gentiluomo oltre che vecchio,
+notò la mia segreta impazienza e parve ancor più avvilito.
+
+«Sono così spiacente», disse umilmente; «non sarei venuto... se non
+fosse... il vostro amico maggiore Brown mi ha raccomandato di venire
+qui».
+
+«Il maggiore Brown!» dissi, con un certo interesse.
+
+«Sì», disse il reverendo signor Shorter, sbattendo febbrilmente lo
+scialle scozzese. «Mi ha detto che l'avete aiutato in una grande
+difficoltà... e la mia difficoltà! Oh, mio caro signore, è una faccenda
+di vita o di morte».
+
+Mi alzai bruscamente, in un'acuta perplessità. «Ci vorrà molto, signor
+Shorter?» chiesi. «Devo uscire a cena quasi subito».
+
+Si alzò anch'egli, tremando da capo a piedi, e tuttavia, in qualche
+modo, con tutta la sua paralisi morale, si levò alla dignità dei suoi
+anni e del suo ufficio.
+
+«Non ne ho il diritto, signor Swinburne... non ne ho affatto il
+diritto», disse. «Se dovete uscire a cena, avete naturalmente... un
+perfetto diritto... naturalmente un perfetto diritto. Ma quando
+tornerete... un uomo sarà morto».
+
+E si sedette, tremando come una gelatina.
+
+La banalità della cena era stata in quei due minuti impicciolita e
+sommersa nella mia mente. Non desideravo andare a vedere una vedova
+della politica e un capitano che collezionava scimmie; desideravo udire
+che cosa avesse messo questo caro, rimbambito vecchio vicario in
+rapporto con pericoli immediati.
+
+«Volete un sigaro?» dissi.
+
+«No, grazie», disse, con indescrivibile imbarazzo, come se il non
+fumare sigari fosse una vergogna sociale.
+
+«Un bicchiere di vino?» dissi.
+
+«No, grazie, no, grazie; non adesso», ripeté con quella isterica
+premura con cui le persone che non bevono affatto cercano spesso di far
+intendere che in qualunque altra sera della settimana resterebbero
+alzate tutta la notte a bere ponce di rum. «Non adesso, grazie».
+
+«Nient'altro che io possa procurarvi?» dissi, provando genuina pena per
+il beneducato vecchio somaro. «Una tazza di tè?»
+
+Vidi una lotta nel suo occhio e vinsi. Quando la tazza di tè arrivò,
+egli la bevve come un dipsomane che tracanna acquavite. Poi si
+riadagiò indietro e disse:
+
+«Ho passato certi momenti, signor Swinburne. Non sono avvezzo a queste
+emozioni. Come vicario di Chuntsey, nell'Essex» — inserì questo con
+un'indescrivibile leggerezza di vanità — «non ho mai visto accadere cose
+simili».
+
+«Quali cose accadere?» chiesi.
+
+Si raddrizzò con improvvisa dignità.
+
+«Come vicario di Chuntsey, nell'Essex», disse, «non sono mai stato
+vestito con la forza da vecchia donna e costretto a prender parte a un
+crimine nelle vesti di una vecchia donna. Neppure una volta. La mia
+esperienza potrà essere scarsa. Potrà essere insufficiente. Ma prima
+d'ora non mi era mai capitato».
+
+«Non ne ho mai sentito parlare», dissi, «tra i doveri di un
+ecclesiastico. Ma non sono ferrato in materia di chiesa. Scusatemi se
+forse non vi ho seguito correttamente. Vestito... da che cosa?»
+
+«Da vecchia donna», disse il vicario solennemente, «da vecchia donna».
+
+Pensai in cuor mio che non occorreva grande trasformazione per fare di
+lui una vecchia donna, ma la cosa era evidentemente più tragica che
+comica, e dissi rispettosamente:
+
+«Posso chiedere come avvenne?»
+
+«Comincerò dal principio», disse il signor Shorter, «e racconterò la
+mia storia con la maggior precisione possibile. Alle undici e diciassette
+minuti di questa mattina lasciai la canonica per tenere certi
+appuntamenti e fare certe visite nel villaggio. La mia prima visita fu
+al signor Jervis, il tesoriere della nostra Lega dei Divertimenti
+Cristiani, col quale conclusi alcune faccende riguardanti la pretesa
+avanzata da Parkes il giardiniere in merito alla rullatura del nostro
+campo da tennis. Visitai poi la signora Arnett, una donna assai fervente
+nella fede, ma stabilmente costretta a letto. È autrice di parecchie
+piccole opere di devozione, e di un libro di versi, intitolato (se la
+memoria non m'inganna) Eglantina».
+
+Pronunciò tutto questo non solo con lentezza, ma con qualcosa che si può
+soltanto chiamare, con frase contraddittoria, ansiosa lentezza. Aveva,
+credo, un vago ricordo in testa dei detective dei romanzi polizieschi,
+che esigono sempre severamente che nulla venga taciuto.
+
+«Proseguii allora», continuò, con la stessa esasperante scrupolosità di
+maniera, «verso il signor Carr (non il signor James Carr, s'intende; il
+signor Robert Carr) che assiste temporaneamente il nostro organista, e
+avendomi consultato con lui (in merito a un corista che è accusato, non
+saprei ancora dire se giustamente o no, di aver praticato dei fori nelle
+canne dell'organo), feci infine una capatina a una riunione della Dorcas
+in casa della signorina Brett. Le riunioni della Dorcas si tengono di
+solito alla canonica, ma essendo mia moglie indisposta, la signorina
+Brett, una nuova arrivata nel nostro villaggio, ma assai attiva nelle
+opere di chiesa, aveva molto gentilmente acconsentito a tenerle. La
+società Dorcas è di regola interamente sotto la direzione di mia moglie,
+e a eccezione della signorina Brett, che, come dico, è assai attiva, non
+conosco quasi nessuno dei suoi membri. Avevo tuttavia promesso di fare
+loro una capatina, e così feci.
+
+«Quando arrivai vi erano soltanto altre quattro signorine nubili con la
+signorina Brett, ma cucivano assai indaffarate. È molto difficile,
+naturalmente, per chiunque, per quanto fortemente compreso della
+necessità in queste faccende di una piena ed esatta esposizione dei
+fatti, ricordare e ripetere i particolari effettivi di una
+conversazione, particolarmente di una conversazione che (benché
+ispirata da un più che degno e ammirevole zelo per le buone opere) fu
+tale da non impressionare granché la mente di chi ascoltava sul momento
+e che di fatto verteva... ehm... per lo più sulle calze. Posso però
+ricordare distintamente che una delle signorine zitelle (era una
+persona magra con uno scialle di lana, che pareva risentire del freddo,
+e sono quasi sicuro che mi fu presentata come la signorina James)
+osservò che il tempo era assai variabile. La signorina Brett mi offrì
+allora una tazza di tè, che accettai, non saprei ricordare con quali
+parole. La signorina Brett è una signora bassa e tozza dai capelli
+bianchi. L'unica altra figura del gruppo che attirò la mia attenzione
+fu una signorina Mowbray, una signora piccola e linda dalle maniere
+aristocratiche, dai capelli d'argento, e dalla voce e dal colorito
+acuti. Era il membro più enfatico del gruppo; e le sue vedute sul
+soggetto dei grembiulini, benché espresse con una naturale deferenza
+verso di me, erano di per sé decise e ardite. Accanto a lei (benché
+tutte e cinque le signore fossero vestite semplicemente di nero) non si
+poteva negare che le altre apparissero in qualche modo ciò che voi
+uomini di mondo chiamereste sciatte.
+
+«Dopo una decina di minuti di conversazione mi alzai per andarmene, e
+mentre lo facevo udii qualcosa che... non riesco a descriverlo...
+qualcosa che parve... ma davvero non riesco a descriverlo».
+
+«Che cosa udiste?» chiesi, con una certa impazienza.
+
+«Udii», disse il vicario solennemente, «udii la signorina Mowbray (la
+signora dai capelli d'argento) dire alla signorina James (la signora
+dallo scialle di lana), le seguenti straordinarie parole. Le affidai
+alla memoria sul posto, e non appena le circostanze mi lasciarono
+libero di farlo, le annotai su un pezzo di carta. Credo di averlo qui».
+Frugò nel taschino, tirando fuori cose innocue, taccuini, circolari e
+programmi di concerti di paese. «Udii la signorina Mowbray dire alla
+signorina James le seguenti parole: "Adesso è il tuo [[motifs/time|momento]],
+Bill."»
+
+Mi fissò per qualche istante dopo aver fatto questo annuncio,
+gravemente e senza batter ciglio, come conscio di essere qui
+incrollabile sui suoi fatti. Poi riprese, volgendo la testa calva più
+verso il [[motifs/fire|fuoco]].
+
+«Ciò mi parve notevole. Non riuscivo in alcun modo a comprenderlo. Mi
+parve anzitutto singolare che una signorina nubile si rivolgesse a
+un'altra signorina nubile chiamandola "Bill". La mia esperienza, come ho
+detto, può essere incompleta; le signorine nubili possono avere tra loro
+e in circoli esclusivamente zitelleschi usanze più sfrenate di quante io
+ne sappia. Ma mi parve strano, e avrei quasi potuto giurare (se non
+fraintenderete la frase), sarei stato fortemente indotto a sostenere sul
+momento che le parole "Adesso è il tuo momento, Bill" non erano affatto
+pronunciate con quella intonazione dell'alta società che, come ho già
+detto, aveva fino allora caratterizzato la conversazione della signorina
+[[characters/mowbray|Mowbray]]. Anzi, le parole "Adesso è il tuo momento, Bill" sarebbero
+state, credo, inadatte se pronunciate con quella intonazione dell'alta
+società.
+
+«Fui sorpreso, ripeto, dunque, dall'osservazione. Ma fui ancor più
+sorpreso quando, guardandomi attorno smarrito, col cappello e l'ombrello
+in mano, vidi la magra signora dallo scialle di lana appoggiata ritta
+contro la porta da cui stavo appunto per uscire. Continuava a lavorare a
+maglia, e supposi che quella posizione eretta contro la porta fosse
+soltanto un'eccentricità di zitellaggine e una dimenticanza della mia
+intenzione di partire.
+
+«Dissi cortesemente: "Sono così spiacente di disturbarvi, signorina
+James, ma devo proprio andare. Ho... ehm..." Mi fermai qui, poiché le
+parole che ella aveva pronunciato in risposta, benché singolarmente
+brevi e di tono estremamente sbrigativo, erano tali da rendere quel
+troncamento delle mie osservazioni, credo, naturale e scusabile. Ho
+annotato anche queste parole. Non ho la minima idea del loro
+significato; così ho potuto soltanto renderle foneticamente. Ma ella
+disse», e il signor Shorter sbirciò con occhio miope i suoi fogli,
+«ella disse: "Piàntala, testa di rapa", e aggiunse qualcosa che suonava
+come "È 'na guàrdia", o (forse) "'na guardiàt". E allora l'ultima corda,
+o della mia sanità mentale o della sanità mentale dell'universo, si
+spezzò d'un tratto. La mia stimata amica e collaboratrice, la signorina
+Brett, in piedi presso il camino, disse: "Ficcagli la vecchia testa in
+un sacco, Sam, e legalo prima di metterti a cianciare. Vi beccheranno
+pure voi uno di 'sti giorni con 'sto modo di fa' le cose, alla lar
+teatro."
+
+"La testa mi girava e rigirava.  Era davvero vero, come un attimo
+prima avevo d'improvviso immaginato, che le signorine nubili avessero
+una loro terribile e sfrenata società segreta dalla quale tutte le
+altre erano escluse?  Ricordavo vagamente, ai tempi dei miei studi
+classici (un tempo ero uno studioso, sia pure in piccolo, ma ora,
+ahimè! arrugginito), ricordavo i misteri della Bona Dea e la loro
+strana massoneria femminile.  Ricordavo i sabba delle streghe.
+Stavo giusto, nella mia assurda leggerezza di testa, cercando di
+ricordare un verso sulle ninfe di [[characters/diana|Diana]], quando la signorina
+[[characters/mowbray|Mowbray]] mi cinse da dietro con il braccio.  Nell'istante in cui
+mi strinse capii che non era il braccio di una donna.
+
+"La signorina Brett—o ciò che avevo chiamato la signorina Brett—era
+in piedi davanti a me con un grosso revolver in pugno e un largo
+ghigno sul volto.  La signorina James era ancora appoggiata alla
+porta, ma era caduta in un atteggiamento così totalmente nuovo, e
+così totalmente poco femminile, che dava un colpo al cuore.  Batteva
+i tacchi, le mani in tasca e il berretto di sbieco.  Era un uomo.
+Voglio dire, egli era una don—no, cioè vidi che invece di essere
+una donna ella—egli, voglio dire—cioè, era un uomo."
+
+Il signor Shorter si fece indescrivibilmente confuso e agitato nello
+sforzo di ordinare questi generi grammaticali e il suo scialle scozzese
+nel medesimo [[motifs/time|tempo]].  Riprese con una più alta febbre di
+nervosismo:
+
+"Quanto alla signorina [[characters/mowbray|Mowbray]], ella—egli, mi teneva in un cerchio
+di ferro.  Aveva il braccio di lei—cioè lei aveva il braccio di lui—
+attorno al collo di lei—al mio collo, voglio dire—e io non potevo
+gridare.  La signorina Brett—cioè il signor Brett, o quanto meno il
+signor qualcuno che non era la signorina Brett—teneva il revolver
+puntato su di me.  Le altre due signore—o ehm—signori, frugavano in
+una borsa lì in fondo.  Alla fine tutto fu chiaro: erano criminali
+travestiti da donne, per rapirmi!  Per rapire il Vicario di Chuntsey,
+nell'Essex.  Ma perché?  Che dovessi diventare un Non-conformista?
+
+"Il bruto appoggiato alla porta gridò con noncuranza: ‘Sbriga'te,
+'Arry.  Fa' vede' al vecchio come sta la faccenda, e leviamoci di
+torno.'
+
+"‘Che gli venga un accidente,' disse la signorina Brett—voglio dire
+l'uomo col revolver—‘perché mai dovremmo mostrargli la faccenda?'
+
+"‘Se dai retta a me, faresti dannatamente [[motifs/well|bene]] a mostrargliela,'
+disse l'uomo alla porta, che chiamavano Bill.  ‘Un tale che sa quel
+che fa vale dieci che non lo sanno, foss'anche un vecchio pretaccio
+rimbambito.'
+
+"‘Bill c'ha ragione,' disse la voce ruvida dell'uomo che mi teneva
+(era stata quella della signorina [[characters/mowbray|Mowbray]]).  ‘Tira fuori il
+ritratto, 'Arry.'
+
+"L'uomo col revolver attraversò la stanza fino al punto in cui le
+altre due donne—voglio dire uomini—rovistavano nei bagagli, e chiese
+loro qualcosa che gli consegnarono.  Riattraversò la stanza portandolo
+e me lo tenne davanti agli occhi.  E al confronto della sorpresa di
+quella esibizione, tutte le sorprese precedenti di quella spaventosa
+giornata d'un tratto si rimpicciolirono.
+
+"Era un ritratto di me stesso.  Che una simile immagine si trovasse
+nelle mani di quei furfanti avrebbe in ogni caso potuto suscitare una
+lieve sorpresa; ma niente di più.  Non fu una lieve sorpresa quella
+che provai.  La somiglianza era estremamente buona, elaborata con
+tutti gli accessori del convenzionale studio fotografico.  Poggiavo
+il capo sulla mano e mi stagliavo contro un paesaggio dipinto di
+bosco.  Era evidente che non era un'istantanea; era chiaro che avevo
+posato per quella fotografia.  E la verità era che non avevo mai
+posato per una simile fotografia.  Era una fotografia che non mi ero
+mai fatto scattare.
+
+"La fissai e la rifissai.  Mi pareva ritoccata parecchio; era
+smaltata oltre che incorniciata, e il vetro sfumava alcuni dei
+particolari.  Ma là, inconfondibile, c'era il mio volto, i miei
+occhi, il mio naso e la mia bocca, il mio capo e la mia mano, in posa
+per un fotografo di professione.  E io non avevo mai posato così per
+alcun fotografo.
+
+"‘Ammira il benedetto miracolo,' disse l'uomo col revolver, con
+faceta scempiaggine fuori luogo.  ‘Reverendo, preparati a incontrare
+il tuo Dio.'  E con ciò fece scivolare il vetro fuori dalla cornice.
+Nel muoversi del vetro, vidi che parte dell'immagine vi era dipinta
+sopra in bianco di Cina, in particolare un paio di bianche fedine e
+un colletto ecclesiastico.  E sotto c'era il ritratto di un'anziana
+signora in un sobrio abito nero, il capo poggiato sulla mano contro
+il paesaggio boschivo.  L'anziana signora mi somigliava come uno
+spillo somiglia a un altro.  Erano bastati le fedine e il colletto a
+farne me in ogni singolo capello.
+
+"‘Divertente, no?' disse l'uomo detto 'Arry, mentre rispingeva il
+vetro al suo posto.  ‘Notevole rassomiglianza, reverendo.
+Lusinghiera per la signora.  Lusinghiera per te.  E posso pure
+aggiungere, particolarmente lusinghiera per noi, essendo la probabile
+fonte di un bottino più che discreto.  Conosci il Colonnello Hawker,
+quello venuto a stare da queste parti, no?'
+
+"Annuii.
+
+"‘[[motifs/well|Beh]],' disse l'uomo 'Arry, indicando l'immagine, ‘quella è
+sua madre.  Chi accorreva a prenderlo quando cadeva?  Lei,' e agitò
+le dita in un gesto generico verso la fotografia dell'anziana signora
+che era esattamente come me.
+
+"‘Di' al vecchietto quel che deve fare e finiamola qui,' sbottò Bill
+dalla porta.  ‘Senti qua, Reverendo Shorter, non ti faremo nessun
+male.  Se vuoi ti daremo uno scellino d'oro per il disturbo.  E
+quanto ai vestiti della vecchia—be', ci starai un incanto.'
+
+"‘Non sei granché come descrittore, Bill,' disse l'uomo alle mie
+spalle.  ‘Signor Shorter, la cosa sta così.  Dobbiamo vedere
+stanotte quest'uomo, Hawker.  Forse ci bacerà tutti e stapperà lo
+champagne quando ci vedrà.  Forse, d'altra parte—non lo farà.  Forse
+sarà morto quando ce ne andremo.  Forse no.  Ma dobbiamo vederlo.
+Ora, come sai, egli si chiude in casa e non apre mai la porta ad
+anima viva; solo che tu non sai perché, e noi sì.  L'unica che
+riesca ad arrivare fino a lui è sua madre.  Be', è una maledetta buffa
+coincidenza,' disse, accentando la penultima sillaba, ‘è un colpo di
+fortuna assai insolito, ma tu sei sua madre.'
+
+"‘Quando vidi per la prima volta il suo ritratto,' disse l'uomo Bill,
+scuotendo il capo in modo ruminante, ‘quando lo vidi la prima volta
+dissi—il vecchio Shorter.  Furono queste le mie precise parole—il
+vecchio Shorter.'
+
+"‘Che cosa intendete, creature selvagge?' ansimai.  ‘Che devo fare
+io?'
+
+"‘Presto detto, vostra reverendità,' disse l'uomo col revolver, di
+buon umore; ‘dovete infilarvi quei vestiti,' e indicò una cuffia a
+tettoia e un mucchio di indumenti femminili nell'angolo della stanza.
+
+"Non mi soffermerò, signor Swinburne, sui particolari di ciò che
+seguì.  Non avevo scelta.  Non potevo battermi contro cinque uomini,
+per non parlare di una [[characters/pistol|pistola]] carica.  In cinque minuti,
+signore, il Vicario di Chuntsey era vestito da vecchia—da madre di
+qualcun altro, se non vi dispiace—e fu trascinato fuori di
+casa per prendere parte a un delitto.
+
+"Era già tardo pomeriggio, e le notti d'[[motifs/winter|inverno]] calavano
+in fretta.  Su una buia [[motifs/road|strada]], in un [[motifs/wind|vento]] sferzante,
+ci mettemmo in cammino verso la solitaria casa del
+Colonnello Hawker, forse il più strambo corteo che mai si sia
+trascinato su quella o su qualsiasi altra [[motifs/road|strada]].  Ad ogni
+occhio umano, in ogni apparenza esteriore, eravamo sei rispettabilissime
+vecchie signore di modesti mezzi, in abiti neri e cuffie raffinate ma
+antiquate; ed eravamo in realtà cinque criminali e un ecclesiastico.
+
+"Taglierò corto un lungo racconto.  Il cervello mi girava come un
+mulino a vento mentre camminavo, cercando di escogitare una qualche
+via di fuga.  Gridare, finché eravamo lontani dalle case, sarebbe
+stato suicida, ché sarebbe stato facile per quei mascalzoni
+accoltellarmi o imbavagliarmi e gettarmi in un fosso.  D'altra parte,
+tentare di fermare degli sconosciuti e spiegare la situazione era
+impossibile, per la frenetica follia della situazione stessa.  Molto
+prima che avessi persuaso il postino o il carrettiere di passaggio di
+una storia così assurda, i miei compagni si sarebbero di certo dileguati,
+e con ogni probabilità mi avrebbero portato via con loro, come un amico
+che aveva la sventura di essere pazzo o ubriaco.  Quest'ultimo pensiero,
+tuttavia, fu un'ispirazione; sebbene terribile.  Si era dunque giunti a
+questo, che il Vicario di Chuntsey doveva fingersi pazzo o ubriaco?  Si
+era giunti a questo.
+
+"Camminai insieme agli altri lungo la [[motifs/road|strada]] deserta, imitando
+e tenendo il passo, per quanto potevo, con la loro andatura rapida e
+tuttavia signorile, finché alla fine scorsi un lampione e un poliziotto
+in piedi sotto di esso.  Avevo preso la mia decisione.  Fino a quando li
+raggiungemmo fummo tutti ugualmente compiti, silenziosi e svelti.
+Quando li raggiungemmo mi scagliai d'improvviso contro la ringhiera e
+mi misi a berciare: ‘Urrà!  Urrà!  Urrà!  Rule Britannia!  Va' a
+tagliarti i capelli!  Op-la!  Buh!'  Era una condizione di non poca
+novità per un uomo nella mia posizione.
+
+"L'agente puntò all'istante la lanterna su di me, ossia sulla
+inzaccherata, ubriaca vecchia che era la mia parodia.  ‘Allora,
+signora,' cominciò burbero.
+
+"‘Vieni via buona buona, o ti mangio il cuore,' mi gridò roco Sam
+all'orecchio.  ‘Fermati, o ti scortico.'  Era spaventoso udire quelle
+parole e vedere l'ordinata vecchia zitella incuffiata che le
+sussurrava.
+
+"Urlai e urlai—ormai ero dentro fino al collo.  Strillavo comici
+ritornelli che giovinastri volgari avevano cantato, con mio rammarico,
+ai concerti del nostro villaggio; rollavo di qua e di là come un
+birillo sul punto di cadere.
+
+"‘Se non riuscite a portar via il vostro amico senza chiasso, signore,'
+disse il poliziotto, ‘dovrò trattenerla.  Ubriaca e molesta lo è
+senz'altro.'
+
+"Raddoppiai gli sforzi.  Non ero stato educato a questo genere di cose;
+ma credo di aver superato me stesso.  Parole che non sapevo nemmeno di
+aver mai udito parevano sgorgarmi a fiotti dalla bocca spalancata.
+
+"‘Quando ti avremo portato oltre,' sussurrò Bill, ‘urlerai più forte;
+urlerai più forte quando ti bruceremo via i piedi.'
+
+"Strillai nel mio terrore quegli spaventosi canti di gioia.
+In tutti gli incubi che gli uomini abbiano mai sognato, non c'è mai
+stato nulla di così mortificante e orribile come i volti di quei
+cinque uomini, che occhieggiavano fuori dalle loro cuffie a tettoia;
+le figure di visitatrici parrocchiali coi volti di demoni.  Non credo
+vi sia nulla di così straziante all'inferno.
+
+"Per un istante da voltastomaco pensai che l'affaccendarsi delle mie
+compagne e la perfetta rispettabilità di tutti i nostri abiti
+avrebbero avuto la meglio sul poliziotto e lo avrebbero indotto a
+lasciarci passare.  Egli vacillò, per quanto si possa descrivere come
+vacillante qualcosa di tanto solido come un poliziotto.  Barcollai
+d'improvviso in avanti e gli cacciai la testa nel petto, gridando (se
+ben ricordo): ‘Oh, perbacco, perdinci, Bill.'  Fu in quel momento che
+ricordai con più tenerezza di essere il Vicario di Chuntsey, nell'Essex.
+
+"Il mio disperato colpo di mano mi salvò.  Il poliziotto mi teneva
+saldamente per la collottola.
+
+"‘Tu vieni con me,' cominciò, ma Bill lo interruppe con la sua perfetta
+imitazione della lezziosa vocina di una dama.
+
+"‘Oh, vi prego, agente, non fate baccano con la nostra povera amica.
+La porteremo a casa tranquillamente.  Beve troppo, è vero, ma è una
+vera signora—solo eccentrica.'
+
+"‘Mi ha dato una testata nello stomaco,' disse brevemente il poliziotto.
+
+"‘Eccentricità del genio,' disse Sam con gravità.
+
+"‘Vi prego, lasciate che la porti a [[motifs/home|casa]],' ribadì Bill,
+tornato nel personaggio della signorina James, ‘ha bisogno di essere
+accudita.'  ‘Ne ha bisogno,' disse il poliziotto, ‘ma l'accudirò io.'
+
+"‘Non va bene,' gridò Bill febbrilmente.  ‘Ha bisogno dei suoi amici.
+Ha bisogno di una particolare medicina che abbiamo noi.'
+
+"‘Sì,' assentì la signorina [[characters/mowbray|Mowbray]], con eccitazione, ‘nessun'altra
+medicina serve a nulla, agente.  Male del tutto singolare.'
+
+"‘Sto benissss'.  Cucù, cucù, settete!' osservò, a sua eterna vergogna,
+il Vicario di Chuntsey.
+
+"‘Sentite qua, signore,' disse l'agente severamente, ‘non mi piace
+l'eccentricità della vostra amica, e non mi piacciono i suoi
+canti, né la sua testa nel mio stomaco.  E ora che ci penso,
+non mi piace il vostro aspetto; ne ho viste tante vestite sobrie come
+voi che erano gente losca.  Chi siete?'
+
+"‘Non abbiamo con noi i biglietti da visita,' disse la signorina
+Mowbray, con indescrivibile dignità.  ‘Né vediamo perché dovremmo
+essere insultate da un qualsiasi tirapiedi che sceglie di essere
+scortese con delle signore, quando è pagato per proteggerle.  Se
+scegliete di approfittare della debolezza della nostra sventurata
+amica, senza [[concepts/doubt|dubbio]] avete legalmente diritto di portarla via.
+Ma se v'immaginate di avere un qualche diritto legale di angariare noi,
+vi troverete nella casella sbagliata.'
+
+"La [[concepts/truth|verità]] e la dignità di tutto ciò sconcertarono il
+poliziotto per un momento.  Al riparo del loro vantaggio i miei
+cinque persecutori volsero per un istante verso di me facce come
+facce di dannati e poi guizzarono via nelle tenebre.  Quando l'agente
+per la prima volta rivolse la sua lanterna e i suoi sospetti su di
+loro, avevo visto passare da volto a volto lo sguardo telegrafico che
+diceva che ormai era possibile solo la ritirata.
+
+"A quel [[motifs/time|punto]] stavo lentamente sprofondando sul selciato, in
+uno stato di acuta riflessione.  Finché i mascalzoni erano con me, non
+osavo abbandonare la parte dell'ubriaca.  Perché se avessi cominciato
+a parlare ragionevolmente e a spiegare la vera situazione, l'agente
+avrebbe semplicemente pensato che mi ero un poco ripresa e mi avrebbe
+affidata ai miei amici.  Ora, tuttavia, se lo volevo, potevo
+tranquillamente disingannarlo.
+
+"Ma confesso che non lo volevo.  Le probabilità della vita sono molte,
+e senza dubbio talora può stare nell'angusto sentiero del dovere, per
+un ecclesiastico della Chiesa d'Inghilterra, il fingersi una vecchia
+ubriaca; ma tali necessità sono, immagino, abbastanza rare da apparire
+a molti improbabili.  Supponiamo che si spargesse la voce che avevo
+finto di essere ubriaco.  Supponiamo che non tutti pensassero che fosse
+una finzione!
+
+"Barcollai in piedi, mentre il poliziotto mi sollevava a metà.  Andai
+avanti debolmente e in silenzio per un centinaio di metri.  L'agente
+pensava evidentemente che fossi troppo assonnato e fiacco per tentare
+una fuga, e così mi teneva con presa leggera e disinvolta.  Superata
+una svolta, due svolte, tre svolte, quattro svolte, mi trascinò con
+sé, figura floscia, lenta e riluttante.  Alla quarta svolta, mi
+strappai all'improvviso dalla sua mano e mi lanciai giù per la strada
+come un cervo impazzito.  Egli era impreparato, era pesante, ed era
+buio.  Corsi e corsi e corsi, e in cinque minuti di corsa m'accorsi
+che guadagnavo terreno.  In mezz'ora fui fuori nei campi, sotto le
+sante e benedette [[motifs/stars|stelle]], dove mi strappai di dosso il
+maledetto scialle e la cuffia e li seppellii nella terra pulita."
+
+Il vecchio gentiluomo aveva finito la sua storia e si era riadagiato
+sulla sedia.  Sia la materia sia il modo della sua narrazione avevano,
+col passare del [[motifs/time|tempo]], destato in me un'impressione favorevole.
+Era un vecchio babbeo e pedante, ma dietro queste cose era un uomo
+cresciuto in campagna e un gentiluomo, e aveva mostrato [[concepts/courage|coraggio]]
+e istinto sportivo nell'ora della disperazione.  Aveva raccontato la
+sua storia con molte bizzarre solennità di dizione, ma anche con un
+realismo assai convincente.
+
+"E ora——" cominciai.
+
+"E ora," disse Shorter, chinandosi di nuovo in avanti con qualcosa di
+simile a un'energia servile, "e ora, signor Swinburne, che ne è di
+quello sventurato, Hawker?  Non so dire cosa intendessero quegli
+uomini, né quanto di ciò che dissero fosse vero.  Ma di certo c'è
+pericolo.  Non posso rivolgermi alla polizia, per ragioni che voi ben
+comprendete.  Fra le altre cose, non mi crederebbero.  Che si deve
+fare?"
+
+Cavai fuori l'orologio.  Erano già le dodici e mezza.
+
+"Il mio amico Basil Grant," dissi, "è l'uomo migliore da cui possiamo
+andare.  Lui ed io saremmo dovuti andare allo stesso pranzo stasera;
+ma ormai sarà appena rientrato.  Avete qualcosa in contrario a
+prendere una carrozza?"
+
+"Niente affatto," rispose, alzandosi cortesemente e raccogliendo il
+suo assurdo scialle scozzese.
+
+Uno sferragliare in un calessino ci portò ai piedi della tetra mole
+di case popolari operaie a Lambeth in cui Grant abitava; una salita su
+per una fastidiosa scala di legno ci condusse alla sua soffitta.
+Quando entrai in quell'interno di legno e alla rinfusa, il bianco
+bagliore dello sparato di Basil e il lustro della sua pelliccia
+gettata sulla panca di legno mi colpirono come un contrasto.  Stava
+bevendo un bicchiere di vino prima di coricarsi.  Avevo indovinato:
+era rientrato dal convito.
+
+Egli ascoltò la ripetizione della storia del Rev. Ellis Shorter con
+la genuina semplicità e il rispetto che non mancava mai di mostrare
+nel trattare con qualunque essere umano.  Quando fu finita disse
+semplicemente:
+
+"Conoscete un uomo di nome Capitano Fraser?"
+
+Fui così sbalordito da questo riferimento del tutto irrilevante al
+degno collezionista di scimpanzé con cui avrei dovuto pranzare quella
+sera, che lanciai un'occhiata acuta a Grant.  Ne conseguì che non
+guardai il signor Shorter.  Lo udii soltanto rispondere, nel suo tono
+più nervoso: "No."
+
+Basil, tuttavia, parve trovare qualcosa di assai curioso nella sua
+risposta o nel suo contegno in generale, ché tenne i suoi grandi occhi
+azzurri fissi sul vecchio ecclesiastico, e per quanto gli occhi
+fossero del tutto quieti, gli sporgevano sempre più dal capo.
+
+"Siete proprio sicuro, signor Shorter," ripeté, "di non conoscere il
+Capitano Fraser?"
+
+"Sicurissimo," rispose il vicario, e fui certamente sconcertato nel
+vederlo ricadere a tal punto nella timidezza, per non dire nella
+demoralizzazione, del suo tono di quando entrò per la prima volta al
+mio cospetto.
+
+Basil balzò lestamente in piedi.
+
+"Allora la nostra via è chiara," disse.  "Non avete nemmeno iniziato
+la vostra indagine, mio caro signor Shorter; la prima cosa da fare è
+andare insieme a trovare il Capitano Fraser."
+
+"Quando?" chiese l'ecclesiastico, balbettando.
+
+"Ora," disse Basil, infilando un braccio nella pelliccia.
+
+Il vecchio ecclesiastico [[motifs/rose|si alzò]] in piedi, tremando tutto.
+
+"Non credo davvero che sia necessario," disse.
+
+Basil sfilò il braccio dalla pelliccia, la ributtò di nuovo sulla
+sedia e si cacciò le mani in tasca.
+
+"Oh," disse, con enfasi.  "Oh—non credete che sia necessario; allora,"
+e aggiunse le parole con grande chiarezza e lentezza, "allora, signor
+Ellis Shorter, posso solo dire che mi piacerebbe vedervi senza le
+vostre fedine."
+
+E a queste parole anch'io [[motifs/rose|mi alzai]] in piedi, ché la grande
+[[forms/tragedy|tragedia]] della mia vita era giunta.  Per quanto la vita
+fosse splendida ed eccitante nel continuo contatto con un intelletto
+come quello di Basil, avevo sempre la sensazione che quello splendore e
+quell'eccitazione fossero sul confine della sanità mentale.
+Egli viveva perennemente presso la visione della ragione delle cose
+che fa perdere agli uomini la ragione.  E della sua follia mi sentivo
+come gli uomini si sentono della [[motifs/death|morte]] di amici col cuore
+malato.  Poteva venire ovunque, in un campo, in un calessino, guardando
+un tramonto, fumando una sigaretta.  Ora era venuta.  Nel momento
+stesso in cui pronunciava una sentenza per la salvezza di un suo
+simile, Basil Grant era impazzito.
+
+"Le vostre fedine," gridò, avanzando con occhi fiammeggianti.
+"Datemi le vostre fedine.  E la vostra testa pelata."
+
+Il vecchio vicario naturalmente indietreggiò di un passo o due.  Mi
+frapposi.
+
+"Siediti, Basil," lo scongiurai, "sei un po' agitato.  Finisci il tuo
+vino."
+
+"Fedine," rispose severamente, "fedine."
+
+E con ciò si scagliò contro il vecchio gentiluomo, il quale si scagliò
+verso la porta, ma fu intercettato.  E allora, prima che sapessi dove
+mi trovavo, quei due mutarono la quieta stanza in qualcosa di mezzo tra
+una pantomima e un pandemonio.  Le sedie furono rovesciate con
+fracasso, i tavoli scavalcati con un rumore di tuono, i paraventi
+sfondati, le stoviglie ridotte in briciole, e ancora Basil Grant
+balzava e mugghiava dietro al Rev. Ellis Shorter.
+
+E ora cominciai a percepire un'altra cosa, che aggiunse l'ultimo tocco
+mezzo scriteriato al mio sconcerto.  Il Rev. Ellis
+Shorter, di Chuntsey, nell'Essex, non si comportava affatto come lo
+avevo prima visto comportarsi, né come, considerata la sua età e la sua
+condizione, mi sarei aspettato che si comportasse.  La sua capacità di
+schivare, saltare e battersi sarebbe stata stupefacente in un ragazzo
+di diciassette anni, e in quel vecchio vicario traballante pareva una
+sorta di farsesca fiaba.  Per giunta, non sembrava tanto sbalordito
+quanto avevo creduto.  C'era perfino nei suoi occhi uno sguardo simile
+a divertimento; e così pure nell'occhio di Basil.  Anzi, va detta
+l'inintelligibile [[concepts/truth|verità]].  Ridevano entrambi.
+
+Alla fine Shorter fu messo all'angolo.
+
+"Suvvia, suvvia, signor Grant," ansimò, "non potete farmi nulla.  È
+del tutto legale.  E non fa il minimo male ad anima viva.  È solo una
+finzione sociale.  Un risultato della nostra complessa società, signor
+Grant."
+
+"Non vi biasimo, brav'uomo," disse Basil con freddezza.  "Ma voglio le
+vostre fedine.  E la vostra testa pelata.  Appartengono al Capitano
+Fraser?"
+
+"No, no," disse il signor Shorter, ridendo, "ce le procuriamo da soli.
+Non appartengono al Capitano Fraser."
+
+"Che diamine significa tutto questo?" quasi urlai.  "Siete tutti in un
+infernale incubo?  Perché mai la testa pelata del signor
+Shorter dovrebbe appartenere al Capitano Fraser?  Come potrebbe?  Che
+diamine ha a che fare il Capitano Fraser con la faccenda?  Che cos'ha?
+Hai pranzato con lui, Basil."
+
+"No," disse Grant, "non è vero."
+
+"Non sei andato al pranzo della signora Thornton?" chiesi, sgranando
+gli occhi.  "Perché no?"
+
+"[[motifs/well|Beh]]," disse Basil, con un lento e singolare sorriso, "il
+fatto è che sono stato trattenuto da un visitatore.  Lo tengo,
+per l'esattezza, nella mia camera da letto."
+
+"Nella tua camera da letto?" ripetei; ma la mia
+[[concepts/imagination|immaginazione]] era giunta a quel punto in cui avrebbe
+potuto dire nel suo secchio del carbone o nel taschino del panciotto.
+
+Grant si portò alla porta di una stanza interna, la spalancò ed entrò.
+Poi ne uscì di nuovo con l'ultima delle meraviglie corporee di quella
+folle [[motifs/night|notte]].  Introdusse nel salotto, con aria di scusa, e
+per la collottola, un floscio ecclesiastico dalla testa pelata, dalle
+fedine bianche e con uno scialle scozzese.
+
+"Sedetevi, signori," gridò Grant, battendo cordialmente le mani.
+"Sedetevi tutti quanti e bevete un bicchiere di vino.  Come dite voi,
+non c'è nessun male in ciò, e se il Capitano Fraser mi avesse
+semplicemente lasciato cadere un cenno, avrei potuto risparmiargli di
+lasciar cadere una bella somma di denaro.  Non che ciò vi sarebbe
+piaciuto, eh?"
+
+I due ecclesiastici in duplice copia, che sorseggiavano il loro
+Borgogna con due ghigni in duplice copia, risero di cuore a questo, e
+uno di loro con noncuranza si strappò le fedine e le posò sul tavolo.
+
+"Basil," dissi, "se sei mio amico, salvami.  Che cos'è tutto questo?"
+
+Egli rise di nuovo.
+
+"Solo un'altra aggiunta, Cherubino, alla tua collezione di Mestieri
+Bizzarri.  Questi due signori (alla salute dei quali ho ora il piacere
+di bere) sono Trattenitori Professionisti."
+
+"E che diavolo è mai?" chiesi.
+
+"È davvero molto semplice, signor Swinburne," cominciò colui che un
+tempo era stato il Rev. Ellis Shorter, di Chuntsey, nell'Essex; e mi
+diede un colpo indescrivibile udire uscire da quella forma pomposa e
+familiare non più la sua voce pomposa e familiare, ma le vivaci e acute
+inflessioni di un giovane uomo di [[motifs/city|città]].  "Non è davvero nulla
+di molto importante.  Siamo pagati dai nostri clienti per trattenere in
+conversazione, con qualche innocuo pretesto, le persone che essi
+vogliono togliersi di torno per qualche ora.  E il Capitano Fraser—" e
+con ciò esitò e sorrise.
+
+Anche Basil sorrise.  Intervenne.
+
+"Il fatto è che il Capitano Fraser, che è uno dei miei migliori amici,
+desiderava assai togliersi di torno noi due.  Salpa stanotte per
+l'Africa Orientale, e la dama con la quale dovevamo tutti pranzare è—
+ehm—ciò che credo si definisca ‘il romanzo della sua vita'.  Voleva
+quelle due ore con lei, e assoldò questi due reverendi signori per
+trattenerci nelle nostre case così da lasciargli campo libero."
+
+"E naturalmente," mi disse il defunto signor Shorter in tono di scusa,
+"dovendo trattenere in casa un gentiluomo per impedirgli un
+appuntamento con una dama, dovevo presentarmi con qualcosa di piuttosto
+piccante e forte—piuttosto urgente.  Non sarebbe andato bene essere
+fiacchi."
+
+"Oh," dissi, "vi assolvo dall'accusa di fiacchezza."
+
+"Grazie, signore," disse l'uomo rispettosamente, "sempre molto grato
+per qualsiasi raccomandazione, signore."
+
+L'altro uomo si spinse indietro pigramente la finta testa pelata,
+rivelando fitti capelli rossi, e parlò sognante, forse sotto
+l'influsso dell'ammirevole Borgogna di Basil.
+
+"È straordinario quanto stia diventando comune, signori.  Il nostro
+ufficio è indaffarato dal mattino alla sera.  Non ho dubbio che vi
+siate spesso imbattuti in noi prima d'ora.  Fateci solo caso.  Quando
+un vecchio scapolo continua ad annoiarvi con storie di caccia, mentre
+ardete dalla voglia di essere presentati a qualcuno, viene dalla nostra
+agenzia.  Quando una dama si presenta per opere parrocchiali e si
+trattiene per ore, proprio quando volevate recarvi dai Robinson, viene
+dalla nostra agenzia.  La mano dei Robinson, signore, può scorgersi
+oscuramente."
+
+"C'è una cosa che non capisco," dissi.  "Perché siete entrambi
+vicari."
+
+Un'ombra passò sulla fronte del temporaneo titolare di Chuntsey,
+nell'Essex.
+
+"Quello può essere stato un errore, signore," disse.  "Ma non è stata
+colpa nostra.  È stata tutta la munificenza del Capitano Fraser.  Egli
+richiese che per trattenervi, signori, fossero impiegati il prezzo e il
+talento più alti del nostro tariffario.  Ora, il compenso più alto nel
+nostro ufficio spetta a chi impersona i vicari, essendo i più
+rispettabili e i più impegnativi.  Siamo pagati cinque ghinee a visita.
+Abbiamo avuto la fortuna di soddisfare la ditta col nostro lavoro; e
+ora siamo vicari a titolo permanente.  Prima di ciò eravamo stati due
+anni colonnelli, il gradino successivo nella nostra scala.  I colonnelli
+valgono quattro ghinee."
+
+Capitolo 4
+
+La singolare speculazione dell'Agente immobiliare
+
+Il tenente Drummond Keith era un uomo attorno al quale la conversazione
+scoppiava sempre come un temporale nel momento stesso in cui lasciava
+la stanza.  Ciò nasceva da molti tratti distinti che lo riguardavano.
+Era una persona leggera e sciolta, che portava abiti leggeri e sciolti,
+per lo più bianchi, come se fosse ai tropici; era magro e aggraziato,
+come una pantera, e aveva irrequieti occhi neri.
+
+Era assai squattrinato.  Aveva una delle abitudini dei poveri, in
+grado tanto esagerato da eclissare incommensurabilmente il più
+miserabile dei disoccupati; intendo l'abitudine del continuo cambio di
+alloggio.  Vi sono, nell'entroterra di Londra, distese dove, nel cuore
+stesso della civiltà artificiale, l'umanità è quasi tornata nomade.  Ma
+in quell'inquieto interno non c'era vagabondo cencioso tanto inquieto
+quanto l'elegante ufficiale dai larghi abiti bianchi.  Aveva abbattuto
+un gran numero di cose ai suoi tempi, a giudicare dalla sua
+conversazione, dalle pernici agli elefanti, ma le sue conoscenze più
+gergali erano dell'opinione che «la luna» non di rado si fosse trovata
+tra le vittime del suo vittorioso fucile.  La frase è bella, e
+suggerisce una caccia mistica, elfica, notturna.
+
+Portava di casa in casa e di parrocchia in parrocchia un bagaglio che
+consisteva in pratica di cinque oggetti.  Due lance dall'aspetto
+strano, dalla larga lama, legate insieme, le armi, suppongo, di
+qualche tribù selvaggia, un ombrello verde, una copia enorme e a
+brandelli dei Documenti del Circolo Pickwick, un fucile da caccia
+grossa, e un grande orcio sigillato di certo empio vino orientale.
+Questi entravano sempre in ogni nuovo alloggio, foss'anche per una sola
+notte; ed entravano del tutto senza travestimento, legati in fasci di
+spago o paglia, con delizia dei poetici monelli di strada nelle piccole
+vie grigie.
+
+Avevo dimenticato di menzionare che portava sempre anche la sua vecchia
+sciabola di reggimento.  Ma questo sollevava un altro strano
+interrogativo sul suo conto.  Snello e attivo com'era, non era più
+molto giovane.  I capelli, in verità, erano del tutto grigi, sebbene i
+suoi baffi piuttosto selvaggi, quasi italiani, conservassero il loro
+nero, e il suo volto era segnato dagli affanni sotto la sua allegria
+quasi italiana.  Trovare un uomo di mezza età che abbia lasciato
+l'esercito col grado primitivo di tenente è insolito e non
+necessariamente incoraggiante.  Presso i più cauti e i più posati
+questo fatto, come il suo perpetuo svolazzare, non giovava affatto al
+misterioso gentiluomo.
+
+Da ultimo, era un uomo che raccontava il genere di avventure che
+guadagnano a un uomo ammirazione, ma non rispetto.  Provenivano da
+luoghi strani, dove un uomo dabbene difficilmente si sarebbe trovato,
+da fumerie d'oppio e bische infernali; avevano il calore delle cucine
+dei ladri o odoravano di uno strano fumo di incantesimi cannibaleschi.
+Sono il genere di storie che screditano una persona quasi ugualmente,
+che siano credute o no.  Se i racconti di Keith erano falsi, egli era
+un bugiardo; se erano veri, aveva avuto, in ogni caso, ogni occasione
+di essere una canaglia.
+
+Aveva appena lasciato la stanza in cui io sedevo con Basil Grant e suo
+fratello Rupert, il loquace detective dilettante.  E, come dico, era
+invariabilmente il caso, tutti parlavamo di lui.  Rupert Grant era un
+giovanotto sveglio, ma aveva quella tendenza che la giovinezza e
+l'acume, quando aspramente combinati, così spesso producono, uno
+scetticismo alquanto stravagante.  Vedeva dubbio e colpa ovunque, ed
+era per lui cibo e bevanda.  Spesso mi ero irritato per questa sua
+incredulità fanciullesca, ma in quella particolare occasione sono
+costretto a dire che lo ritenni così evidentemente nel giusto da
+restare sbalordito che Basil gli si opponesse, per quanto in tono di
+celia.
+
+Potevo mandar giù parecchio, essendo di indole naturalmente semplice,
+ma non potevo mandar giù l'autobiografia del tenente Keith.
+
+"Non vorrai dire sul serio, Basil," dissi, "che pensi che quel tale sia
+davvero andato come clandestino con Nansen e si sia finto il Mad
+Mullah e——"
+
+"Ha un difetto," disse Basil pensieroso, "o una virtù, a seconda di
+come vi capiti di considerarla.  Dice la verità in uno stile troppo
+esatto e schietto; è troppo verace."
+
+"Oh! se hai intenzione di fare il paradossale," disse Rupert con
+disprezzo, "sii un po' più spiritoso di così.  Di', per esempio, che
+ha vissuto tutta la vita in un solo maniero avito."
+
+"No, egli è estremamente amante del cambiar di scena," replicò Basil
+con distacco, "e del vivere in luoghi bizzarri.  Ciò non impedisce che
+il suo tratto principale sia l'esattezza verbale.  Quel che voi non
+capite è che raccontare una cosa crudamente e rozzamente come è
+accaduta la fa suonare spaventosamente strana.  Il genere di cose che
+Keith racconta non è il genere di cose che un uomo inventerebbe per
+coprirsi d'onore; sono troppo assurde.  Ma sono il genere di cose che
+un uomo farebbe se fosse sufficientemente colmo dello spirito della
+baldoria."
+
+"Tutt'altro che paradosso," disse suo fratello, con qualcosa di assai
+simile a un sogghigno, "sembri darti ai proverbi da giornalismo.
+Credi che la verità sia più strana della finzione?"
+
+"La verità dev'essere per forza più strana della finzione," disse Basil
+placidamente.  "Perché la finzione è la creazione della mente umana, e
+perciò le è congeniale."
+
+"Be', la verità del tuo tenente è più strana, se è verità, di
+qualunque cosa io abbia mai udito," disse Rupert, ricadendo nella
+frivolezza.  "Credi, sull'anima tua, a tutta quella storia dello
+squalo e della macchina fotografica?"
+
+"Credo alle parole di Keith," rispose l'altro.  "È un uomo onesto."
+
+"Mi piacerebbe interrogare un reggimento delle sue padrone di casa,"
+disse Rupert cinicamente.
+
+"Devo dire che a stento puoi considerarlo irreprensibile puramente in
+sé," dissi con mitezza; "il suo modo di vivere——"
+
+Prima che potessi completare la frase la porta fu spalancata e Drummond
+Keith riapparve sulla soglia, il suo bianco Panama in testa.
+
+"Senti un po', Grant," disse, scuotendo la cenere della sigaretta
+contro la porta, "non ho un soldo al mondo fino al prossimo aprile.
+Potresti prestarmi cento sterline?  Sii un bravo ragazzo."
+
+Rupert ed io ci guardammo in un ironico silenzio.  Basil, che sedeva
+accanto alla scrivania, fece girare pigramente la sedia sul suo perno e
+prese una penna d'oca.
+
+"Devo sbarrarlo?" chiese, aprendo un libretto di assegni.
+
+"Davvero," cominciò Rupert, con una intonazione piuttosto nervosamente
+alta, "dal momento che il tenente Keith ha ritenuto opportuno rivolgere
+questa richiesta a Basil dinanzi alla sua famiglia, io——"
+
+"Eccoti servito, Brutto," disse Basil, sventolando un assegno in
+direzione dell'ufficiale del tutto noncurante.  "Hai fretta?"
+
+"Sì," rispose Keith, in modo piuttosto brusco.  "A dire il vero lo
+voglio subito.  Devo andare a vedere il mio—ehm—uomo d'affari."
+
+Rupert lo squadrava con sarcasmo, e vedevo che aveva sulla punta della
+lingua di dire, in tono interrogativo: "Ricettatore di refurtiva,
+forse."  Ciò che disse fu:
+
+"Un uomo d'affari?  È una descrizione piuttosto generica, tenente
+Keith."
+
+Keith lo guardò acutamente, e poi disse, con qualcosa che somigliava
+piuttosto al malumore:
+
+"È un cosiddetto-come-si-chiama, un agente immobiliare, mettiamo.  Vado
+a trovarlo."
+
+"Oh, andate a trovare un agente immobiliare, eh?" disse Rupert Grant
+torvamente.  "Sapete, signor Keith, credo che mi piacerebbe molto
+venire con voi?"
+
+Basil fu scosso dalla sua risata silenziosa.  Il tenente Keith
+sussultò un poco; la sua fronte si oscurò di colpo.
+
+"Chiedo scusa," disse.  "Che cosa avete detto?"
+
+Il volto di Rupert era andato crescendo di grado in grado in feroce
+ironia, ed egli rispose:
+
+"Stavo dicendo che mi domandavo se vi dispiacerebbe che noi facessimo
+due passi con voi fino a quest'agente immobiliare."
+
+Il visitatore fece roteare il bastone con una subitanea violenza
+vorticosa.
+
+"Oh, in nome di Dio, venite pure dal mio agente immobiliare!  Venite in
+camera mia.  Guardate sotto il mio letto.  Esaminate il mio bidone
+della spazzatura.  Andiamo!"  E con una furiosa energia che ci tolse il
+fiato uscì sbattendo la porta dietro di sé.
+
+Rupert Grant, i suoi irrequieti occhi azzurri danzanti per
+l'eccitazione da detective, gli si affiancò ben presto spalla a spalla,
+parlandogli con quel trasparente cameratismo che immaginava
+appropriato dal poliziotto in incognito verso il criminale in incognito.
+La sua interpretazione era di certo corroborata da un particolare
+preciso, l'inconfondibile inquietudine, fastidio e nervosismo dell'uomo
+con cui camminava.  Basil ed io arrancavamo dietro, e non fu necessario
+dirci a vicenda che l'avevamo entrambi notato.
+
+Il tenente Drummond Keith ci condusse attraverso quartieri assai
+straordinari e poco promettenti nella ricerca del suo notevole agente
+immobiliare.  Nessuno dei due fratelli Grant mancò di notare questo
+fatto.  Man mano che le strade si facevano più anguste e più tortuose e
+i tetti più bassi e i rigagnoli più densi di fango, una più cupa
+curiosità si approfondiva sulla fronte di Basil, e la figura di Rupert
+vista da dietro pareva riempire la strada con una gigantesca spavalderia
+di successo.  Alla fine, in fondo alla quarta o quinta magra strada
+grigia di quel distretto sterile, ci fermammo di colpo, mentre il
+misterioso tenente si guardava ancora una volta attorno con una sorta
+di imbronciata disperazione.  Sopra una fila di imposte e una porta,
+tutto d'aspetto indescrivibilmente sudicio e di dimensioni a stento
+sufficienti perfino per un negozietto di giocattoli da un penny,
+correva la scritta: "P. Montmorency, Agente immobiliare."
+
+"Questo è l'ufficio di cui parlavo," disse Keith, con voce tagliente.
+"Volete aspettare qui un momento, o la vostra stupefacente tenerezza
+per il mio benessere vi induce a voler origliare tutto ciò che ho da
+dire al mio consulente d'affari?"
+
+Il volto di Rupert era bianco e tremante d'eccitazione; nulla al mondo
+lo avrebbe ora indotto ad abbandonare la sua preda.
+
+"Se volete scusarmi," disse, serrando le mani dietro la schiena, "credo
+che mi sentirei giustificato nel——"
+
+"Oh!  Entrate pure," esplose il tenente.  Fece lo stesso gesto di
+selvaggia resa.  Ed entrò sbattendo nell'ufficio, con noialtri alle
+calcagna.
+
+P. Montmorency, Agente immobiliare, era un solitario vecchio
+gentiluomo seduto dietro un nudo banco marrone.  Aveva una testa a
+forma d'uovo, mascelle da rana, e una grigia frangia pelosa d'aureola
+attorno alla parte inferiore del volto; il tutto combinato con un naso
+rossastro e aquilino.  Indossava una logora finanziera nera, una sorta
+di cravatta semi-ecclesiastica portata a un angolo assai
+poco-ecclesiastico, e in generale, aveva l'aria di essere il meno
+somigliante a un agente immobiliare che si potesse immaginare, salvo
+qualcosa come un uomo-sandwich o un montanaro scozzese.
+
+Restammo dentro la stanza per ben quaranta secondi, e lo strano vecchio
+gentiluomo non ci guardò.  Né, a dire il vero, per quanto strano fosse,
+lo guardammo noi.  I nostri occhi erano fissi, dov'erano fissi i suoi,
+su qualcosa che strisciava sul banco davanti a lui.  Era un furetto.
+
+Il silenzio fu rotto da Rupert Grant.  Parlò con quella voce dolce e
+acciaiata che riservava alle grandi occasioni ed esercitava per ore
+intere nella sua camera.  Disse:
+
+"Il signor Montmorency, immagino?"
+
+Il vecchio gentiluomo sussultò, sollevò gli occhi con blando
+smarrimento, afferrò il furetto per il collo, se lo cacciò vivo nella
+tasca dei calzoni, sorrise in tono di scusa, e disse:
+
+"Signore."
+
+"Voi siete un agente immobiliare, non è vero?" chiese Rupert.
+
+Con delizia di quell'investigatore criminale, gli occhi del signor
+Montmorency vagarono inquieti verso il tenente Keith, l'unico uomo
+presente che egli conoscesse.
+
+"Un agente immobiliare," gridò di nuovo Rupert, pronunciando la parola
+come se fosse "scassinatore".
+
+"Sì... oh, sì," disse l'uomo, con un sorriso tremulo e quasi civettuolo.
+"Sono un agente immobiliare... oh, sì."
+
+"Bene, credo," disse Rupert, con sardonica untuosità, "che il tenente
+Keith desideri parlarvi.  Siamo entrati su sua richiesta."
+
+Il tenente Keith stava tetro col volto abbassato, e ora parlò.
+
+"Sono venuto, signor Montmorency, per quella mia casa."
+
+"Sì, signore," disse Montmorency, allargando le dita sul piano del
+banco.  "È tutto pronto, signore.  Ho provveduto a tutti i vostri
+suggerimenti, ehm—riguardo agli uc——"
+
+"Bene," gridò Keith, troncando la parola con la sorprendente nettezza
+di uno sparo.  "Non c'è bisogno di preoccuparci di tutto ciò.  Se avete
+fatto quel che vi ho detto, va tutto bene."
+
+E si volse di scatto verso la porta.
+
+Il signor Montmorency, Agente immobiliare, offriva un quadro di pathos.
+Dopo aver balbettato un momento disse: "Scusate... signor Keith... c'era
+un'altra faccenda... di cui non ero del tutto sicuro.  Ho cercato di
+procurare tutto l'impianto di riscaldamento possibile date le
+circostanze... ma d'inverno... a quell'altitudine..."
+
+"Non ci si può aspettare granché, eh?" disse il tenente, interrompendo
+con la stessa subitanea destrezza.  "No, certo che no.  Va tutto bene,
+Montmorency.  Non possono esserci altre difficoltà," e mise la mano
+sulla maniglia della porta.
+
+"Credo," disse Rupert Grant, con una satanica affabilità, "che il
+signor Montmorency abbia dell'altro da dirvi, tenente."
+
+"Soltanto," disse l'agente immobiliare, in preda alla disperazione,
+"che dire degli uccelli?"
+
+"Chiedo scusa," disse Rupert, in un generale sconcerto.
+
+"Che dire degli uccelli?" disse l'agente immobiliare ostinatamente.
+
+Basil, che per tutto il procedimento era rimasto in uno stato di calma
+napoleonica, che si sarebbe potuto descrivere più accuratamente come
+uno stato di stupidità napoleonica, sollevò d'un tratto il suo capo
+leonino.
+
+"Prima che andiate, tenente Keith," disse.  "Suvvia.  Davvero, che dire
+degli uccelli?"
+
+"Me ne occuperò io," disse il tenente Keith, ancora con la sua lunga
+schiena voltata verso di noi; "non patiranno."
+
+"Grazie, signore, grazie," gridò l'incomprensibile agente immobiliare,
+con un'aria di estasi.  "Scuserete la mia inquietudine, signore.
+Sapete, io vado matto per le bestie selvatiche.  Sono selvatico quanto
+una di loro, in questo.  Grazie, signore.  Ma c'è un'altra cosa..."
+
+Il tenente, con la schiena voltata verso di noi, esplose in una risata
+indescrivibile e si girò di scatto a fronteggiarci.  Era una risata il
+cui senso era diretto ed essenziale, e che pure non si può esprimere
+con esattezza.  Per quanto dicesse qualcosa, in termini verbali,
+diceva: "Be', se proprio dovete rovinarlo, rovinatelo.  Ma non sapete
+che cosa state rovinando."
+
+"C'è un'altra cosa," continuò debolmente il signor Montmorency.
+"Naturalmente, se non volete ricevere visite, dovrete dipingere la casa
+di verde, ma——"
+
+"Verde!" gridò Keith.  "Verde!  Che sia verde o niente.  Non voglio una
+casa di un altro colore.  Verde!" e prima che potessimo renderci conto
+di nulla la porta si era chiusa con un tonfo fra noi e la strada.
+
+Rupert Grant parve impiegare un po' di tempo a ricomporsi; ma parlò
+prima che l'eco della porta si spegnesse.
+
+"Il vostro cliente, tenente Keith, pare alquanto agitato," disse.  "Che
+cos'ha?  Sta male?"
+
+"Oh, direi di no," disse il signor Montmorency, in una certa confusione.
+"Le trattative sono state alquanto difficili—la casa è piuttosto——"
+
+"Verde," disse Rupert con calma.  "Pare essere un punto assai
+importante.  Dev'essere piuttosto verde.  Posso chiedervi, signor
+Montmorency, prima di raggiungere il mio compagno là fuori, se, nel
+vostro mestiere, sia consueto chiedere le case in base al loro colore?
+I clienti scrivono a un agente immobiliare chiedendo una casa rosa o una
+casa blu?  Oppure, per prendere un altro esempio, una casa verde?"
+
+"Solo," disse Montmorency, tremando, "solo per passare inosservati."
+
+Rupert ebbe il suo sorriso spietato.  "Sapete indicarmi un luogo al
+mondo in cui una casa verde passerebbe inosservata?"
+
+L'agente immobiliare si frugava nervosamente in tasca.  Estraendo
+lentamente un paio di lucertole e lasciandole correre sul banco, disse:
+
+"No; non saprei."
+
+"Non sapete suggerire una spiegazione?"
+
+"No," disse il signor Montmorency, alzandosi lentamente eppure in modo
+tale da suggerire una situazione improvvisa, "non so.  E posso, da uomo
+occupato, essere scusato se vi chiedo, signori, se avete qualche
+richiesta da farmi in merito al mio mestiere.  Che genere di casa
+desiderereste che vi procurassi, signore?"
+
+Aprì i suoi vacui occhi azzurri su Rupert, che per un secondo parve
+sconcertato.  Poi si riprese con perfetto buon senso e rispose:
+
+"Mi dispiace, signor Montmorency.  Il fascino delle vostre osservazioni
+ci ha indebitamente trattenuti dal raggiungere il nostro amico là fuori.
+Vi prego di scusare la mia apparente impertinenza."
+
+"Niente affatto, signore," disse l'agente immobiliare, prendendo
+pigramente un ragno sudamericano dal taschino del panciotto e
+lasciandolo arrampicare su per il pendio della sua scrivania.  "Niente
+affatto, signore.  Spero che mi favorirete di nuovo."
+
+Rupert Grant si precipitò fuori dall'ufficio in una folata d'ira,
+ansioso di affrontare il tenente Keith.  Era sparito.  La grigia strada
+illuminata dalle stelle era deserta.
+
+"Che ne dici adesso?" gridò Rupert al fratello.  Il fratello non disse
+nulla, adesso.
+
+Scendemmo tutti e tre per la strada in silenzio, Rupert febbrile, io
+stordito, Basil, a ogni apparenza, semplicemente ottuso.  Camminammo
+per una grigia strada dopo l'altra, svoltando angoli, attraversando
+piazze, incontrando a stento qualcuno, salvo occasionali capannelli
+ubriachi di due o tre persone.
+
+In una stradina, tuttavia, i capannelli di due o tre cominciarono
+d'improvviso a ispessirsi in capannelli di cinque o sei, e poi in
+grandi gruppi, e poi in una folla.  La folla si agitava assai
+lievemente.  Ma chiunque conosca l'eterno popolino sa che se l'orlo
+esterno di una folla si agita anche solo lievemente significa che c'è
+follia nel cuore e nel nucleo della calca.  Divenne presto evidente che
+qualcosa di davvero importante era accaduto al centro di quell'eccitazione.
+Ci facemmo largo, contorcendoci, fino in prima fila, con l'astuzia nota
+soltanto ai cockney, e una volta lì apprendemmo ben presto la natura del
+guaio.  C'era stata una rissa che coinvolgeva sei uomini, e uno di essi
+giaceva quasi morto sulle pietre della strada.  Degli altri quattro,
+tutte le questioni interessanti erano, per quel che ci riguardava,
+inghiottite in un unico stupefacente fatto.  Uno dei quattro
+sopravvissuti alla brutale e forse fatale zuffa era l'immacolato tenente
+Keith, gli abiti ridotti a brandelli, gli occhi fiammeggianti, sangue
+sulle nocche.  Un'altra cosa, tuttavia, lo additava in modo peggiore.
+Una corta spada, o coltello assai lungo, era stata estratta dal suo
+elegante bastone da passeggio, e giaceva davanti a lui sulle pietre.
+Non pareva, tuttavia, essere insanguinata.
+
+La polizia si era già fatta largo fino al centro con la sua ponderosa
+onnipotenza, e nell'atto stesso in cui lo faceva, Rupert Grant balzò
+avanti col suo incontrollabile e intollerabile segreto.
+
+"Quello è l'uomo, agente," gridò, indicando il malconcio tenente.  "È
+un individuo sospetto.  È lui che ha commesso l'omicidio."
+
+"Non è stato commesso nessun omicidio, signore," disse il poliziotto,
+con la sua automatica cortesia.  "Il poveretto è solo ferito.  Potrò
+soltanto prendere i nomi e gli indirizzi degli uomini coinvolti nella
+zuffa e farli tenere d'occhio."
+
+«Tenete d'occhio quello, mi raccomando», disse Rupert, pallido fino alle labbra,
+indicando il malconcio Keith.
+
+«Sissignore», disse il poliziotto senza scomporsi, e fece
+il giro dei presenti, raccogliendo gli indirizzi.
+Quando ebbe portato a termine il suo compito era calato il crepuscolo e la maggior parte della gente
+non direttamente coinvolta nell'accertamento se n'era andata.
+Trovò tuttavia ancora uno sconosciuto dal volto ansioso che indugiava
+ai margini della faccenda. Era Rupert Grant.
+
+«Agente», disse, «ho una ragione ben precisa per porvi
+una domanda. Vi dispiacerebbe dirmi se quel tale in divisa militare
+che ha lasciato cadere il bastone-spada nella rissa vi ha dato un indirizzo oppure no?»
+
+«Sì, signore», disse il poliziotto, dopo una pausa meditativa; «sì, mi ha dato
+il suo indirizzo».
+
+«Mi chiamo Rupert Grant», disse quell'individuo, con una certa sussiegosità.
+«Ho assistito la polizia in più di un'occasione.
+Mi domando se non vorreste dirmi, come favore speciale, quale indirizzo».
+
+L'agente lo guardò.
+
+«Sì», disse lentamente, «se ci tenete. Il suo indirizzo è:
+The Elms, Buxton Common, presso Purley, Surrey».
+
+«Grazie», disse Rupert, e corse a casa attraverso la notte incombente
+più veloce che le gambe glielo consentissero, ripetendo tra sé l'indirizzo.
+
+Rupert Grant di solito scendeva tardi a colazione, con un'aria piuttosto altezzosa;
+riusciva, non so come, ad assumere sempre l'atteggiamento
+del fratello minore viziato. La mattina seguente, però, quando Basil
+e io scendemmo lo trovammo pronto e irrequieto.
+
+«Allora», disse bruscamente al fratello quasi prima che ci sedessimo
+a tavola. «Che cosa ne pensi ora del tuo Drummond Keith?»
+
+«Che cosa ne penso?» domandò Basil lentamente. «Non ne penso
+nulla».
+
+«Sono lieto di sentirlo», disse Rupert, imburrando il suo toast con un'energia
+che aveva qualcosa di esultante. «Immaginavo che saresti passato dalla mia parte,
+ma confesso che mi ha stupito che tu non lo vedessi fin dal principio.
+Quell'uomo è un bugiardo e un furfante trasparente».
+
+«Credo», disse Basil, con lo stesso tono greve e monotono di prima,
+«di non essermi spiegato. Quando ho detto che non pensavo
+nulla di lui intendevo grammaticalmente ciò che ho detto. Intendevo che non
+pensavo a lui; che non occupava la mia mente. Tu, invece,
+mi sembra che pensi molto a lui, dal momento che lo ritieni un furfante.
+Io direi piuttosto che è di una bontà lampante».
+
+«A volte penso che tu parli per paradossi tanto per il gusto di farlo»,
+disse Rupert, rompendo un uovo con una durezza superflua.
+«Che diamine di senso ha? Ecco un uomo la cui posizione di partenza
+era, di comune accordo tra noi, dubbia. È un vagabondo,
+un cantastorie di frottole, un uomo che non nasconde la propria dimestichezza
+con tutte le scene più nere e sanguinose della terra.
+Ci prendiamo la briga di seguirlo a uno dei suoi appuntamenti,
+e se mai due esseri umani hanno tramato insieme mentendo a
+tutti gli altri, quei due erano lui e quell'impossibile agente immobiliare.
+Lo seguiamo fino a casa, e quella stessa sera è nel bel mezzo
+di una rissa fatale, o quasi fatale, in cui è l'unico uomo armato.
+Davvero, se questo è essere di bontà lampante, devo confessare che il bagliore
+non mi abbaglia affatto».
+
+Basil restò del tutto impassibile. «Ammetto che la sua bontà morale è di
+un certo tipo, un tipo bizzarro, forse casuale. È molto amante
+del cambiamento e dell'esperimento. Ma tutti gli argomenti che così ingegnosamente
+gli muovi contro sono mera coincidenza o difesa a oltranza.
+È vero che non voleva parlare dei suoi affari di casa davanti a noi.
+Nessuno lo farebbe. È vero che porta un bastone-spada. Chiunque potrebbe.
+È vero che l'ha sguainato nell'urto di una rissa in strada.
+Chiunque lo farebbe. Ma non c'è nulla di veramente dubbio in tutto questo.
+Non c'è nulla a conferma...»
+
+Mentre parlava si udì bussare alla porta.
+
+«Con permesso, signore», disse la padrona di casa, con aria allarmata,
+«c'è un poliziotto che desidera vedervi».
+
+«Fatelo entrare», disse Basil, nel silenzio generale.
+
+Il robusto e avvenente agente che comparve sulla soglia parlò quasi
+non appena vi apparve.
+
+«Credo che uno di voi signori», disse, in tono secco ma rispettoso,
+«fosse presente al fatto di Copper Street ieri sera, e abbia richiamato
+molto vivamente la mia attenzione su un uomo in particolare».
+
+Rupert si sollevò a metà dalla sedia, con occhi come diamanti,
+ma l'agente proseguì con calma, consultando un foglio.
+
+«Un giovane dai capelli grigi. Aveva abiti grigio chiaro, di ottima qualità,
+ma strappati nella colluttazione. Ha dichiarato di chiamarsi Drummond Keith».
+
+«Questa è divertente», disse Basil, ridendo. «Ero proprio nell'atto di
+scagionare quel povero ufficiale da accuse piuttosto fantasiose.
+Che cosa c'è a suo carico?»
+
+«Ecco, signore», disse l'agente, «ho preso gli indirizzi di tutti e
+li ho fatti tenere tutti d'occhio. Non era una cosa abbastanza seria da fare di più.
+Tutti gli altri indirizzi sono in regola. Ma questo Keith ha dato
+un indirizzo falso. Quel luogo non esiste».
+
+La tavola della colazione stava quasi per essere rovesciata quando Rupert balzò in piedi,
+battendosi entrambe le cosce.
+
+«Ebbene, per tutto ciò che di buono esiste», gridò. «Questo è un segno del cielo».
+
+«È certamente straordinario», disse Basil piano,
+con le sopracciglia corrugate. «È strano che quel tale abbia dato
+un indirizzo falso, considerando che era perfettamente innocente nella...»
+
+«Oh, vecchio tonto da cristiano dei primi tempi», gridò Rupert, in una sorta
+di estasi, «non mi stupisco che tu non potessi fare il giudice. Credi
+tutti buoni quanto te stesso. Non è forse abbastanza chiara la cosa ora?
+Una conoscenza sospetta; storie da taverna, una conversazione quanto mai equivoca,
+strade malfamate, un coltello nascosto, un uomo quasi ucciso e, infine,
+un indirizzo falso. Questo è ciò che noi chiamiamo bontà lampante».
+
+«È certamente straordinario», ripeté Basil.
+E si mise a passeggiare cupamente per la stanza. Poi disse:
+«Siete proprio sicuro, agente, che non ci sia errore?
+Avete preso bene l'indirizzo, e la polizia c'è davvero andata
+e ha trovato che era un imbroglio?»
+
+«È stato molto semplice, signore», disse il poliziotto, ridacchiando.
+«Il luogo che ha nominato è un pascolo comune ben noto, proprio vicino a Londra, e i nostri
+uomini erano laggiù stamattina prima che nessuno di voi si fosse svegliato.
+E non c'è nessuna casa del genere. Anzi, non ci sono quasi case affatto.
+Per quanto sia così vicino a Londra, è una brughiera spoglia con si e no cinque
+alberi, per non parlare dei cristiani. Oh, no, signore, l'indirizzo
+era un imbroglio bell'e buono. Era un furfante astuto, e ha scelto uno
+di quei lembi di Inghilterra dimenticata di cui la gente non sa nulla.
+Nessuno potrebbe dire su due piedi che non ci fosse una particolare casa
+piantata da qualche parte sulla landa. Ma di fatto non c'è».
+
+Durante questo assennato discorso il volto di Basil si era fatto sempre più
+cupo, con una sorta di disperata sagacia. Era messo alle strette quasi
+per la prima volta da quando lo conoscevo; e a dire il vero mi stupivo alquanto
+della testardaggine quasi infantile che lo teneva così saldo al suo
+pregiudizio iniziale in favore del tenente stravagante e più che sospetto.
+Alla fine disse:
+
+«Avete davvero perlustrato la brughiera? E l'indirizzo era davvero
+sconosciuto nel circondario... a proposito, qual era l'indirizzo?»
+
+L'agente scelse uno dei suoi foglietti e lo consultò,
+ma prima che potesse parlare Rupert Grant, che era appoggiato alla finestra
+nella posa perfetta del detective quieto e trionfante,
+intervenne con quella voce tagliente e suadente che tanto amava usare.
+
+«Ma posso dirtelo io, Basil», disse con condiscendenza mentre pigramente
+strappava foglie da una pianta sulla finestra. «Ho avuto l'accortezza
+di farmi dare l'indirizzo di quell'uomo dall'agente ieri sera».
+
+«E qual era?» chiese il fratello in tono burbero.
+
+«L'agente mi correggerà se sbaglio», disse Rupert,
+guardando dolcemente il soffitto. «Era: The Elms, Buxton Common,
+presso Purley, Surrey».
+
+«Esatto, signore», disse il poliziotto, ridendo e ripiegando i suoi fogli.
+
+Vi fu un silenzio, e gli occhi azzurri di Basil fissarono ciecamente
+per qualche secondo il vuoto. Poi la sua testa ricadde all'indietro
+sulla sedia così di colpo che io trasalii, credendolo malato.
+Ma prima che potessi muovermi oltre le sue labbra si erano spalancate (non so
+usare altra frase) e uno scroscio di risate gigantesche colpì e scosse
+il soffitto... risate che scuotevano le risate, risate raddoppiate,
+risate incurabili, risate che non riuscivano a fermarsi.
+
+Due minuti interi dopo non erano ancora finite; Basil stava male
+dal ridere; eppure rideva ancora. Il resto di noi era ormai
+quasi male dal terrore.
+
+«Scusatemi», disse quella creatura insensata, alzandosi finalmente in piedi.
+«Mi dispiace terribilmente. È orribilmente scortese. E stupido, anche.
+E per giunta poco pratico, perché non abbiamo molto tempo da perdere se vogliamo
+arrivare laggiù. Il servizio ferroviario è maledettamente scadente,
+come mi risulta. È del tutto sproporzionato rispetto alla
+distanza relativamente piccola».
+
+«Arrivare laggiù?» ripetei senza capire. «Arrivare
+dove?»
+
+«Ho dimenticato il nome», disse Basil vagamente, mettendosi le mani
+in tasca mentre si alzava. «Qualcosa Common, presso Purley.
+Qualcuno ha un orario dei treni?»
+
+«Non vorrai dire sul serio», gridò Rupert, che era rimasto a fissarlo
+in una specie di groviglio di emozioni. «Non vorrai dire che intendi
+andare a Buxton Common, vero? Non puoi dire sul serio!»
+
+«Perché non dovrei andare a Buxton Common?» chiese Basil, sorridendo.
+
+«Perché mai dovresti?» disse il fratello, afferrando di nuovo con irrequietezza
+la pianta sulla finestra e fissando chi aveva parlato.
+
+«Per trovare il nostro amico, il tenente, naturalmente», disse Basil Grant.
+«Credevo che volessi trovarlo».
+
+Rupert strappò brutalmente un ramo dalla pianta e lo gettò
+con impazienza sul pavimento. «E per trovarlo», disse,
+«tu proponi l'ammirevole espediente di andare nell'unico posto
+sulla terra abitata dove sappiamo che non può essere».
+
+L'agente e io non potemmo trattenerci dallo scoppiare in una specie
+di risata d'assenso, e Rupert, che aveva l'eloquenza di famiglia, fu incoraggiato
+a proseguire con un gesto reiterato:
+
+«Può essere a Buckingham Palace; può essere seduto a cavalcioni della croce
+di St Paul; può essere in prigione (cosa che ritengo più probabile);
+può essere sulla Grande Ruota; può essere nella mia dispensa; può essere
+nel tuo ripostiglio; ma fra tutti gli innumerevoli punti
+dello spazio, ce n'è uno solo dove è appena stato sistematicamente
+cercato e dove sappiamo che non è possibile trovarlo... ed è là,
+se ti capisco bene, che tu vuoi che andiamo».
+
+«Esattamente», disse Basil con calma, infilandosi il pastrano;
+«pensavo vi sarebbe piaciuto accompagnarmi. Se no, naturalmente,
+statevene allegri qui finché non torno».
+
+È nella nostra natura seguire sempre le cose che svaniscono e dar loro valore
+quando mostrano davvero la ferma volontà di andarsene. Seguimmo tutti Basil,
+e non so dire perché, se non che era una cosa che svaniva,
+che svaniva risolutamente col suo pastrano e il suo bastone.
+Rupert gli corse dietro con un considerevole affanno di razionalità.
+
+«Mio caro», gridò, «vuoi davvero dire di vedere qualcosa di buono
+nell'andare in quella ridicola sterpaglia, dove non c'è nulla
+se non sentieri battuti e qualche albero contorto, semplicemente perché
+è stato il primo posto che è venuto in mente a un tenente scapestrato
+quando ha voluto dare un riferimento bugiardo in un guaio?»
+
+«Sì», disse Basil, tirando fuori l'orologio, «e, quel che è peggio,
+abbiamo perso il treno».
+
+Si fermò un istante e poi aggiunse: «A dire il vero,
+credo che tanto valga scendere più tardi nel corso della giornata.
+Ho da scrivere, e mi pare, Rupert, che tu avessi detto di
+pensare di andare alla Dulwich Gallery. Sono stato un po' troppo impetuoso.
+Molto probabilmente lui non sarebbe in casa. Ma se scendiamo con il treno delle 5.15,
+che arriva a Purley verso le 6, mi aspetto che lo prenderemo giusto in tempo».
+
+«Prenderlo!» gridò il fratello, in una specie di collera definitiva.
+«Magari potessimo. Dove diamine lo prenderemo ora?»
+
+«Continuo a dimenticare il nome della brughiera», disse Basil, mentre si abbottonava
+il cappotto. «The Elms... com'è? Buxton Common, presso Purley.
+È là che lo troveremo».
+
+«Ma un posto simile non esiste», gemette Rupert; ma seguì
+il fratello giù per le scale.
+
+Lo seguimmo tutti. Afferrammo i cappelli dall'attaccapanni
+e i bastoni dal portaombrelli; e perché lo seguissimo non
+lo sapevamo e non lo sappiamo. Ma lo seguivamo sempre, qualunque fosse
+il significato di questo fatto, qualunque fosse la natura del suo ascendente.
+E la cosa strana era che lo seguivamo tanto più completamente
+quanto più insensata appariva la cosa che diceva. In fondo,
+credo, se si fosse alzato dalla nostra tavola della colazione e avesse detto:
+«Vado a cercare il Santo Maiale dalle Dieci Code», lo avremmo
+seguito fino in capo al mondo.
+
+Non so se questo mio mistico sentimento nei confronti di Basil
+in quell'occasione abbia preso qualcosa del colore scuro e nuvoloso,
+per così dire, dello strano viaggio che facemmo quella stessa sera.
+Era già un crepuscolo fittissimo quando puntammo a sud da Purley.
+I sobborghi e simili ai confini di Londra possono essere, nella maggior parte dei casi,
+banali e comodi. Ma se mai per caso sono davvero
+solitudini deserte, sono per lo spirito umano più desolati
+e disumanizzati di qualsiasi brughiera dello Yorkshire o collina delle Highland,
+perché l'improvvisità con cui il viandante precipita in quel
+silenzio ha in sé qualcosa come di un malvagio regno degli elfi. Sembra essere
+uno dei sobborghi cenciosi del cosmo mezzo dimenticati da Dio...
+un luogo simile era Buxton Common, presso Purley.
+
+C'era certamente una sorta di grigia inutilità nel paesaggio stesso.
+Ma era enormemente accresciuta dal senso di grigia inutilità
+della nostra spedizione. Le distese di grigia erba parevano inutili,
+gli occasionali alberi flagellati dal vento parevano inutili, ma noi,
+gli esseri umani, più inutili dell'erba senza speranza o degli alberi oziosi.
+Eravamo dei folli affini a quel paesaggio insensato, poiché eravamo venuti a inseguire
+l'oca selvatica che dal principio ha guidato gli uomini per poi abbandonarli nei pantani.
+Eravamo tre uomini storditi sotto la guida di un pazzo, andati a cercare
+un uomo che sapevamo non esserci in una casa che non esisteva.
+Un livido tramonto pareva guardarci con una sorta di sorriso malaticcio
+prima di spegnersi.
+
+Basil procedeva davanti col bavero del cappotto rialzato, e nella
+penombra somigliava piuttosto a un grottesco Napoleone. Attraversammo un'ondulazione
+dopo l'altra della brughiera ventosa in un buio crescente e in un silenzio totale.
+Improvvisamente Basil si fermò e si voltò verso di noi, le mani in tasca.
+Nel crepuscolo riuscii appena a scorgere che portava un largo sorriso
+come di comodo successo.
+
+«Bene», gridò, tirando fuori dalle tasche le mani pesantemente inguantate
+e battendole l'una contro l'altra, «eccoci finalmente arrivati».
+
+Il vento turbinava mestamente sulla landa senza dimore; due desolati
+olmi ondeggiavano sopra di noi nel cielo come informi nuvole grigie.
+Non c'era segno d'uomo né di bestia fino al cupo cerchio dell'orizzonte,
+e in mezzo a quella landa deserta Basil Grant stava fregandosi le
+mani con l'aria di un oste ritto sulla soglia aperta.
+
+«Che bello è», gridò, «tornare alla civiltà.
+Quell'idea che la civiltà non sia poetica è un'illusione da civilizzati.
+Aspettate di esservi davvero smarriti nella natura, tra i boschi
+diabolici e i fiori crudeli. Allora saprete che non c'è
+stella pari alla rossa stella dell'uomo che egli accende sul focolare;
+non c'è fiume pari al rosso fiume dell'uomo, il buon vino rosso, che voi,
+signor Rupert Grant, se un po' vi conosco, tra due o tre minuti
+berrete in enormi quantità».
+
+Rupert e io ci scambiammo occhiate di paura. Basil proseguì di buon animo,
+mentre il vento moriva tra gli alberi tetri.
+
+«Troverete il nostro ospite un uomo assai più semplice in casa propria.
+Così lo trovai quando andai a trovarlo mentre viveva nella capanna a Yarmouth, e di nuovo
+nel solaio del magazzino cittadino. È davvero un ottimo compagno.
+Ma la sua più grande virtù resta quella che ho detto fin dall'inizio».
+
+«Che intendi dire?» chiesi, sentendo il suo discorso vagare verso
+una sorta di assennatezza. «Qual è la sua più grande virtù?»
+
+«La sua più grande virtù», rispose Basil, «è che dice sempre
+la verità letterale».
+
+«Bene, davvero», gridò Rupert, pestando i piedi tra il freddo e la collera,
+e battendosi come un vetturino, «non sembra essere stato
+molto letterale né veritiero in questo caso, e nemmeno tu. Perché diamine,
+posso chiedere, ci hai trascinati fin qui in questo posto infernale?»
+
+«È stato troppo veritiero, lo confesso», disse Basil, appoggiandosi all'albero;
+«troppo duramente verace, troppo severamente esatto. Avrebbe dovuto
+concedersi un po' più di allusività e di legittimo romanticismo.
+Ma su, è ora di entrare. Faremo tardi per la cena».
+
+Rupert mi sussurrò con la faccia bianca:
+
+«È un'allucinazione, credi? Immagina davvero
+di vedere una casa?»
+
+«Suppongo di sì», dissi. Poi aggiunsi ad alta voce, con quello che voleva
+essere un tono allegro e assennato, ma che mi risuonava nelle orecchie
+quasi strano quanto il vento:
+
+«Su, su, Basil, mio caro. Dove vuoi che andiamo?»
+
+«Ma quassù», gridò Basil, e con un balzo e uno slancio fu
+sopra le nostre teste, arrampicandosi su per la grigia colonna del colossale albero.
+
+«Salite, tutti quanti», gridò dall'oscurità, con la voce
+di uno scolaretto. «Salite. Farete tardi per la cena».
+
+I due grandi olmi stavano così vicini l'uno all'altro che non c'era quasi
+una iarda in nessun punto, e in alcuni luoghi non più di un piede, tra loro.
+Così i rami e persino le protuberanze e i tronchi occasionali formavano una serie
+di appigli che quasi equivalevano a una rozza scala naturale.
+Dovevano essere, supponevo, un qualche scherzo della crescita,
+due gemelli siamesi della vegetazione.
+
+Perché lo facessimo non riesco a immaginarlo; forse, come ho detto, il mistero
+della landa deserta e del buio aveva fatto emergere e reso primario qualcosa
+di del tutto mistico nella supremazia di Basil. Ma sentimmo soltanto che c'era
+una scalinata da gigante che portava da qualche parte, forse alle stelle;
+e la voce vittoriosa lassù ci chiamava dal cielo.
+Ci issammo su dietro di lui.
+
+A metà strada qualche fredda lingua dell'aria notturna mi colpì e mi rese
+d'un tratto assennato. L'ipnotismo del pazzo là sopra si staccò da me, e vidi
+l'intera mappa delle nostre azioni sciocche con la stessa chiarezza come se fosse
+stampata. Vidi tre uomini moderni in giacca nera che avevano cominciato con un sospetto
+perfettamente ragionevole verso un avventuriero dubbio e che erano finiti,
+Dio sa come, a metà di un albero spoglio su una brughiera spoglia, lontano da
+quell'avventuriero e da tutte le sue opere, quell'avventuriero che in quel momento,
+con ogni probabilità, rideva di noi in qualche lurido ristorante di Soho.
+Aveva parecchio di cui ridere di noi, e senza dubbio rideva
+a più non posso; ma quando pensai a quali sarebbero state le sue risate se avesse saputo
+dove ci trovavamo in quel momento, per poco non mollai l'albero e caddi.
+
+«Swinburne», disse Rupert d'un tratto, dall'alto, «che cosa stiamo facendo?
+Scendiamo di nuovo», e dal solo suono della sua voce compresi
+che anche lui sentiva lo shock del risveglio alla realtà.
+
+«Non possiamo lasciare il povero Basil», dissi. «Non puoi chiamarlo o
+afferrarlo per una gamba?»
+
+«È troppo avanti», rispose Rupert; «è quasi in cima
+a quel maledetto affare. In cerca del tenente Keith nei nidi
+delle cornacchie, immagino».
+
+Eravamo noi stessi ormai molto avanti nella nostra frenetica ascesa verticale.
+I possenti tronchi cominciavano a oscillare e a scuotersi lievemente nel vento.
+Poi guardai in basso e vidi qualcosa che mi fece sentire che eravamo
+lontani dal mondo in un senso e a un grado che non riesco
+facilmente a descrivere. Vidi che le linee quasi diritte dei alti
+olmi diminuivano un poco in prospettiva man mano che scendevano.
+Ero abituato a vedere linee parallele assottigliarsi verso il cielo.
+Ma vederle assottigliarsi verso la terra mi fece sentire perduto nello spazio,
+come una stella cadente.
+
+«Non si può fare nulla per fermare Basil?» gridai.
+
+«No», rispose il mio compagno di scalata. «È troppo in alto.
+Deve arrivare in cima, e quando non troverà altro che vento e foglie
+forse tornerà assennato. Sentilo lassù; lo si sente appena
+parlare tra sé».
+
+«Forse sta parlando a noi», dissi.
+
+«No», disse Rupert, «griderebbe, se fosse così. Non l'ho mai visto
+parlare tra sé prima d'ora; temo che stia davvero male stanotte;
+è un noto segno del cervello che se ne va».
+
+«Sì», dissi tristemente, e ascoltai. La voce di Basil di certo
+risuonava sopra di noi, e non certo con i toni ricchi e sfrenati
+con cui ci aveva salutati prima. Parlava piano,
+e rideva di tanto in tanto, lassù tra le foglie e le stelle.
+
+Dopo un silenzio intriso di questo mormorio, Rupert Grant disse d'un tratto,
+«Mio Dio!» con voce violenta.
+
+«Che c'è... ti sei fatto male?» gridai, allarmato.
+
+«No. Ascolta Basil», disse l'altro con voce stranissima.
+«Non sta parlando tra sé».
+
+«Allora sta parlando a noi», gridai.
+
+«No», disse Rupert semplicemente, «sta parlando a qualcun altro».
+
+Grandi rami dell'olmo carichi di foglie oscillarono intorno a noi in un
+improvviso scoppio di vento, ma quando si acquietò riuscii ancora a udire
+la voce discorsiva là sopra. Riuscii a udire due voci.
+
+Improvvisamente dall'alto giunse la voce chiassosa di Basil che chiamava come prima:
+«Salite, amici. C'è il tenente Keith».
+
+E un istante dopo giunse la voce mezzo americana che avevamo udito
+nei nostri appartamenti più di una volta. Chiamò:
+
+«Lieto di vedervi, signori; prego, entrate».
+
+Da un buco in un'enorme cosa scura a forma d'uovo, sospesa tra i
+rami come un nido di vespe, sporgeva il volto pallido e i fieri
+baffi del tenente, i denti che luccicavano con quell'aria vagamente
+meridionale che gli apparteneva.
+
+In un modo o nell'altro, storditi e senza parola, ci sollevammo faticosamente
+dentro l'apertura. Precipitammo nel pieno bagliore di una minuscola stanza
+illuminata da una lampada e imbottita di cuscini, con una parete circolare rivestita di libri, un tavolo circolare
+e un sedile circolare tutt'intorno. A quel tavolo sedevano tre persone.
+Una era Basil, che, nell'istante dopo essersi posato lì,
+era caduto in un atteggiamento di marmorea disinvoltura come se fosse stato
+lì fin dall'infanzia; fumava un sigaro con un lento piacere.
+Il secondo era il tenente Drummond Keith, che pareva anch'egli felice,
+ma febbrile e incerto in confronto al suo ospite di granito.
+Il terzo era il piccolo agente immobiliare calvo dalle basette selvagge,
+che si faceva chiamare Montmorency. Le lance, l'ombrello verde
+e la sciabola da cavalleria pendevano paralleli alla parete. La giara
+sigillata di strano vino stava sulla mensola del camino, l'enorme fucile
+nell'angolo. In mezzo al tavolo c'era un magnum di champagne.
+I bicchieri erano già disposti per noi.
+
+Il vento della notte ruggiva molto in basso sotto di noi, come un oceano ai piedi
+di un faro. La stanza si mosse lievemente, come potrebbe fare una cabina
+in un mare tranquillo.
+
+I nostri bicchieri furono riempiti, e noi restammo ancora lì seduti storditi e muti.
+Poi Basil parlò.
+
+«Mi sembri ancora un po' incerto, Rupert. Non c'è di certo
+più alcun dubbio sulla fredda veracità del nostro ospite oltraggiato».
+
+«Non riesco a coglierlo del tutto», disse Rupert, sbattendo ancora le palpebre nel
+bagliore improvviso. «Il tenente Keith ha detto che il suo indirizzo era...»
+
+«È davvero tutto giusto, signore», disse Keith, con un sorriso aperto.
+«Il poliziotto mi ha chiesto dove abitavo. E io ho detto, in tutta verità,
+che abitavo sugli olmi di Buxton Common, presso Purley. E così è.
+Questo signore, il signor Montmorency, che credo abbiate già conosciuto,
+è un agente per case di questo tipo. Ha una linea speciale
+in ville arboree. Al momento la si tiene piuttosto riservata,
+perché chi vuole queste case non vuole che diventino
+troppo comuni. Ma è proprio il genere di cosa in cui un tipo come me,
+che gironzola per ogni sorta di angoli bizzarri di Londra,
+va naturalmente a sbattere».
+
+«Siete davvero un agente per ville arboree?» chiese Rupert con entusiasmo,
+riacquistando la sua disinvoltura con il romanticismo della realtà.
+
+Il signor Montmorency, imbarazzato, tastò una delle sue tasche
+e ne estrasse nervosamente un serpente, che strisciò sul tavolo.
+
+«B-be', sì, signore», disse. «Il fatto è... ehm... i miei
+volevano a tutti i costi che mi mettessi nel ramo dell'agenzia immobiliare.
+Ma a me non è mai importato nulla se non della storia naturale
+e della botanica e cose del genere. I miei poveri genitori sono morti
+ormai da qualche anno, ma... naturalmente mi piace rispettarne i desideri.
+E in qualche modo ho pensato che un'agenzia di ville arboree fosse una sorta di...
+di compromesso tra fare il botanico e fare l'agente immobiliare».
+
+Rupert non poté fare a meno di ridere. «Avete molta clientela?» chiese.
+
+«N-non molta», rispose il signor Montmorency, e poi lanciò un'occhiata a Keith,
+che era (ne sono convinto) il suo unico cliente. «Ma quella che c'è...
+molto scelta».
+
+«Cari amici miei», disse Basil, tirando boccate dal sigaro, «ricordate sempre
+due fatti. Il primo è che, mentre quando fate congetture
+su qualcuno che è sano di mente, la cosa più sana è la più probabile;
+quando fate congetture su qualcuno che è, come il nostro ospite,
+folle, la cosa più folle è la più probabile. Il secondo è
+ricordare che un fatto molto semplice e letterale sembra sempre fantastico.
+Se Keith avesse preso una casetta di mattoni come una scatola a Clapham con nient'altro
+che una cancellata davanti e ci avesse scritto sopra «The Elms»,
+non avreste pensato che ci fosse nulla di fantastico in ciò.
+Semplicemente perché era una menzogna sfacciata, spavalda e strombazzata voi
+l'avreste creduta».
+
+«Bevete il vostro vino, signori», disse Keith, ridendo, «perché questo
+maledetto [[motifs/wind|vento]] lo rovescerà».
+
+Bevemmo, e mentre lo facevamo, sebbene la casa sospesa, grazie a un
+ingegnoso meccanismo, oscillasse solo lievemente, sapevamo che la grande cima
+dell'olmo ondeggiava nel cielo come un cardo colpito dal vento.
+
+Capitolo 5
+
+La Notevole Condotta del Professor Chadd
+
+Basil Grant aveva relativamente pochi amici oltre a me; eppure era
+tutt'altro che un uomo poco socievole. Parlava con chiunque, in qualsiasi luogo,
+e parlava non solo [[motifs/well|bene]] ma con genuinissima premura ed entusiasmo
+per gli affari di quella persona. Attraversava il mondo, per così dire,
+come se fosse sempre in cima a un omnibus o in attesa di un treno.
+La maggior parte di queste conoscenze occasionali, naturalmente, svaniva nel buio
+fuori dalla sua vita. Qualcuna qua e là gli si agganciava,
+per così dire, e diventava sua intima compagna per la vita, ma c'era
+in tutte un'aria di casualità come se fossero frutti caduti dal ramo,
+campioni presi a caso, merci cadute da un treno merci
+o regali pescati da una tombola. Uno era, mettiamo,
+un veterinario con l'aspetto di un fantino; un altro, un mite
+prebendario dalla barba bianca e dalle vedute vaghe; un altro, un giovane
+capitano dei Lancieri, in apparenza identico agli altri capitani
+dei Lancieri; un altro, un piccolo dentista di Fulham, con ogni
+ragionevole certezza precisamente uguale a ogni altro dentista di Fulham.
+Il maggiore Brown, piccolo, asciutto e azzimato, era uno di questi; Basil aveva
+fatto la sua conoscenza a proposito di una discussione nel guardaroba di un albergo su
+quale fosse il cappello giusto, una discussione che ridusse il piccolo maggiore quasi
+a una sorta di isteria maschile, un composto dell'egoismo
+di un vecchio scapolo e della scrupolosità di una vecchia zitella.
+Erano tornati [[motifs/home|a casa]] insieme in vettura e poi avevano cenato l'uno con
+l'altro due volte a settimana fino alla morte. Anch'io ero un altro di questi.
+Avevo conosciuto Grant quando era ancora giudice, sul balcone del
+National Liberal Club, e avevamo scambiato qualche parola sul tempo.
+Poi avevamo parlato per circa un'ora di politica e di Dio;
+perché gli uomini parlano sempre delle cose più importanti con perfetti sconosciuti.
+È perché nel perfetto sconosciuto percepiamo l'uomo in sé;
+l'immagine di Dio non è mascherata da somiglianze con uno zio
+o da dubbi sulla saggezza di un paio di baffi.
+
+Una delle più interessanti nel variopinto gruppo di conoscenze di Basil
+era il professor Chadd. Egli era noto al mondo etnologico
+(che è un mondo interessantissimo, ma assai lontano da questo)
+come la seconda maggiore, se non la maggiore, autorità sui rapporti
+tra i selvaggi e il linguaggio. Era noto nel vicinato
+di Hart Street, a Bloomsbury, come un uomo barbuto dalla testa calva,
+con gli occhiali e un volto paziente, il volto di un inspiegabile
+non-conformista che aveva dimenticato come ci si adira. Andava avanti e indietro
+tra il British Museum e una scelta di irreprensibili sale da tè,
+con una bracciata di libri e un ombrello povero ma onesto.
+Non lo si vedeva mai senza i libri e l'ombrello, e si supponeva
+(dagli spiriti più arguti della sala dei manoscritti persiani) che andasse a letto con essi
+nella sua piccola villetta di mattoni nei pressi di Shepherd's Bush.
+Là viveva con tre sorelle, signore di solida bontà,
+ma dal contegno sinistro. La sua vita era felice, come sono quasi tutte le vite
+degli studiosi metodici, ma non la si sarebbe detta esaltante.
+Le sue uniche ore di esaltazione avvenivano quando il suo amico, Basil Grant,
+entrava nella casa, a tarda [[motifs/night|notte]], un tornado di conversazione.
+
+Basil, benché prossimo ai sessant'anni, aveva accessi di chiassosa fanciullaggine,
+e questi sembravano, per una ragione o per l'altra, scendere su di lui
+in modo particolare nella casa del suo studioso e quasi squallido amico.
+Ricordo vividamente (poiché ero in dimestichezza con entrambe le parti
+e spesso cenavo con loro) la gaiezza di Grant in quella particolare
+sera in cui la strana sciagura cadde sul professore.
+Il professor Chadd era, come la maggior parte della sua particolare classe e tipo
+(la classe che è al tempo stesso accademica e borghese), un Radicale
+di stampo solenne e all'antica. Grant era anch'egli un Radicale,
+ma di quel tipo più discriminante e non raro di
+Radicale che passa la maggior parte del suo [[motifs/time|tempo]] a inveire contro il partito radicale.
+Chadd aveva appena contribuito a una rivista con un articolo intitolato
+«Interessi zulù e la nuova frontiera del Makango», in cui un preciso
+rapporto scientifico del suo studio sui costumi del popolo
+di T'Chaka era rafforzato da una severa protesta contro certe
+interferenze in tali costumi sia da parte degli inglesi sia dei tedeschi.
+Sedeva con la rivista davanti a sé, la luce della lampada
+che gli brillava sugli occhiali, una ruga sulla fronte, non d'ira,
+ma di perplessità, mentre Basil Grant camminava avanti e indietro per la stanza,
+facendola tremare con la sua voce, con la sua allegria e il suo passo pesante.
+
+«Non sono le tue opinioni a cui obietto, mio stimato Chadd»,
+diceva, «sei tu. Fai benissimo a difendere
+gli zulù, ma nonostante ciò non simpatizzi con loro.
+Senza [[concepts/doubt|dubbio]] conosci il modo zulù di cucinare i pomodori e la [[motifs/prayer|preghiera]] zulù
+prima di soffiarsi il naso; ma nonostante ciò non li comprendi
+così [[motifs/well|bene]] come li comprendo io, che non so distinguere un'assegai da un alligatore.
+Sei più dotto, Chadd, ma io sono più zulù. Perché mai i vecchi
+allegri barbari di questa terra sono sempre difesi da persone che ne sono
+l'antitesi? Perché mai? Sei sagace, sei benevolo,
+sei [[motifs/well|ben]] informato, ma, Chadd, non sei selvaggio. Non vivere più a lungo
+sotto quella rosea illusione. Guardati allo specchio. Chiedilo alle tue sorelle.
+Consulta il bibliotecario del British Museum. Guarda questo ombrello».
+E sollevò quel triste ma pur sempre rispettabile oggetto. «Guardalo.
+Per dieci mortali anni, a mia sicura conoscenza, hai portato
+quell'oggetto sotto il braccio, e non ho alcun [[concepts/doubt|dubbio]] che tu
+lo portassi già all'età di otto mesi, e non ti è mai venuto in mente
+di lanciare un urlo selvaggio e scagliarlo come un giavellotto... così...»
+
+E scagliò l'ombrello sibilando accanto alla testa calva del professore,
+sicché rovesciò con fracasso una pila di libri e lasciò
+un vaso a dondolare.
+
+Il professor Chadd appariva del tutto impassibile, con il volto ancora rivolto
+verso la lampada e la ruga incisa sulla fronte.
+
+«I tuoi processi mentali», disse, «vanno sempre un po' troppo in fretta.
+E sono enunciati senza metodo. Non c'è alcun tipo di incoerenza»...
+e nessuna parola può rendere il [[motifs/time|tempo]] che impiegò per arrivare alla fine
+della parola... «tra il valorizzare il diritto degli aborigeni di aderire
+al loro stadio nel processo evolutivo, fintantoché lo trovano
+congeniale e necessario. Non c'è, ripeto, alcuna incoerenza
+tra questa concessione che ti ho appena descritto e la tesi
+che lo stadio evolutivo in questione sia, nondimeno, per quanto noi
+possiamo formulare una qualsiasi stima di valori nella varietà dei processi cosmici,
+definibile in qualche misura come uno stadio evolutivo inferiore».
+
+Nient'altro che le labbra gli si erano mosse mentre parlava, e i suoi occhiali ancora
+brillavano come due pallide lune.
+
+Grant si sganasciava dalle risate mentre lo osservava.
+
+«Vero», disse, «non c'è incoerenza, figlio mio dalla rossa lancia.
+Ma c'è una gran quantità di incompatibilità di carattere.
+Sono ben lungi dall'essere certo che lo zulù si trovi a uno stadio evolutivo
+inferiore, qualunque diavolo di cosa ciò possa significare. Non credo
+che ci sia nulla di stupido o di ignorante nell'ululare alla [[motifs/moon|luna]] o nell'avere
+paura dei diavoli nel buio. Mi pare perfettamente filosofico.
+Perché un uomo dovrebbe essere considerato una specie di idiota perché sente
+il mistero e il pericolo dell'esistenza stessa? Supponi, mio caro Chadd,
+supponi che siamo noi gli idioti perché non abbiamo paura
+dei diavoli nel buio?»
+
+Il professor Chadd aprì con un tagliacarte d'osso una pagina della rivista
+con l'intenta reverenza del bibliofilo.
+
+«Al di là di ogni dubbio», disse, «è un'ipotesi sostenibile.
+Alludo all'ipotesi che, se ti comprendo, tu sostieni,
+ossia che la nostra civiltà non sia, o possa non essere, un progresso rispetto a,
+e anzi (se ti afferro), sia o possa essere una regressione
+da stati identici o analoghi allo stato degli zulù.
+Inoltre, sarò propenso a concedere che una tale proposizione
+sia della [[concepts/nature|natura]], almeno in qualche misura, di una proposizione primaria,
+e non possa essere adeguatamente argomentata, nello stesso senso, intendo,
+in cui la proposizione primaria del pessimismo, o la proposizione primaria
+della non-esistenza della materia, non può essere adeguatamente argomentata.
+Ma non credo che tu sia sotto l'impressione di aver
+dimostrato, riguardo a questa proposizione, qualcosa di più
+del fatto che essa è sostenibile, il che, dopo tutto, equivale a poco più
+dell'affermazione che non è una contraddizione in termini».
+
+Basil gli scagliò un libro in testa e tirò fuori un sigaro.
+
+«Non capisci», disse, «ma, d'altra parte,
+come compenso, non ti dispiace fumare. Perché tu non abbia nulla da obiettare
+a quel rito disgustosamente barbarico non riesco a immaginarlo. Posso solo dire
+che io cominciai quando cominciai a essere uno zulù, all'incirca all'età di dieci anni.
+Ciò che sostenevo era che, benché tu sappia di più sugli zulù nel senso
+che sei uno scienziato, io ne so di più nel senso che
+sono un selvaggio. Per esempio, la tua teoria sull'origine del linguaggio,
+qualcosa sul fatto che sarebbe venuto dal linguaggio segreto formulato
+di qualche creatura individuale, benché tu mi abbia stordito con
+fatti ed erudizione a suo favore, non mi convince ancora,
+perché ho la sensazione che non sia così che accadono le cose.
+Se mi chiedi perché lo penso posso solo rispondere che sono uno zulù;
+e se mi chiedi (come certamente farai) qual è la mia definizione
+di zulù, posso rispondere anche a questo. È uno che si è arrampicato su un melo
+del Sussex a sette anni ed è stato preso dalla paura di un [[archetypes/ghost|fantasma]] in un viottolo inglese».
+
+«Il tuo processo di pensiero...» cominciò l'immobile Chadd, ma il suo discorso
+fu interrotto. La sorella, con quella mascolinità che sempre
+in tali famiglie si concentra nelle sorelle, spalancò la porta
+con braccio rigido e disse:
+
+«James, il signor Bingham del British Museum desidera rivederti».
+
+Il filosofo [[motifs/rose|si alzò]] con uno sguardo stordito, che sempre indica
+in tali uomini il fatto che considerano la filosofia una cosa familiare,
+mentre la vita pratica una visione bizzarra e sconcertante, e uscì
+esitante dalla stanza.
+
+«Spero che non vi dispiaccia che io ne sia al corrente, signorina Chadd»,
+disse Basil Grant, «ma sento dire che il British Museum ha riconosciuto
+uno degli uomini che hanno [[motifs/well|bene]] meritato dalla loro comunità.
+È vero, non è così, che il professor Chadd sarà probabilmente nominato
+conservatore dei manoscritti asiatici?»
+
+Il volto arcigno della zitella tradì un gran piacere
+e insieme molto pathos. «Credo che sia vero», disse.
+«Se lo è, non sarà soltanto grande gloria, che le donne, vi assicuro,
+sentono moltissimo, ma grande sollievo, che sentono ancora di più;
+sollievo dall'affanno per un mucchio di cose. La salute di James non è mai
+stata buona, e finché siamo poveri come siamo egli ha dovuto fare del giornalismo
+e ripetizioni, oltre alle sue tremende, logoranti idee
+e scoperte, che ama più di uomo, donna o [[archetypes/child|bambino]].
+Ho spesso temuto che, a meno che non accadesse qualcosa del genere,
+avremmo dovuto davvero avere cura del suo cervello.
+Ma credo che sia praticamente cosa fatta».
+
+«Ne sono lietissimo», cominciò Basil, ma con volto preoccupato, «però queste
+trattative burocratiche sono così terribilmente incerte che davvero non posso
+consigliarvi di costruire sulla [[concepts/hope|speranza]], solo per essere poi precipitati nell'amarezza.
+Ho conosciuto uomini, e buoni uomini come vostro fratello, arrivare più vicini
+di così ed essere delusi. Naturalmente, se è vero...»
+
+«Se è vero», disse la donna con fierezza, «significa che persone
+che non hanno mai vissuto possono fare un tentativo di vivere».
+
+Proprio mentre parlava il professore entrò nella stanza ancora con lo stordito
+sguardo negli occhi.
+
+«È vero?» chiese Basil, con occhi ardenti.
+
+«Neanche un po' vero», rispose Chadd dopo un momento di smarrimento.
+«Il tuo argomento era fallace in tre punti».
+
+«Che cosa intendi?» domandò Grant.
+
+«[[motifs/well|Ebbene]]», disse il professore lentamente, «nel dire che tu potresti possedere
+una conoscenza dell'essenza della vita zulù distinta da...»
+
+«Oh! al diavolo la vita zulù», gridò Grant, con uno scoppio di risate.
+«Voglio dire, hai ottenuto il posto?»
+
+«Intendi il posto di conservatore dei manoscritti asiatici», disse,
+spalancando l'occhio con puerile [[concepts/wonder|meraviglia]]. «Oh, sì, l'ho ottenuto.
+Ma la vera obiezione al tuo argomento, che soltanto, lo ammetto, mi è
+venuta in mente da quando sono uscito dalla stanza, è che esso non
+si limita a presupporre una [[concepts/truth|verità]] zulù distinta dai fatti, ma deduce
+che la scoperta di essa sia assolutamente ostacolata dai fatti».
+
+«Sono annientato», disse Basil, e si sedette a ridere, mentre la sorella
+del professore si ritirava nella sua stanza, forse, forse no.
+
+Era tardissimo quando lasciammo i Chadd, ed è un [[motifs/journey|viaggio]] estremamente
+lungo e noioso da Shepherd's Bush a Lambeth.
+Questa può essere la nostra scusa per il fatto che (poiché io passavo
+la [[motifs/night|notte]] da Grant) scendemmo a colazione il giorno dopo a un'[[motifs/time|ora]]
+inesprimibilmente criminale, un'[[motifs/time|ora]], di fatto, prossima al [[motifs/noon|mezzogiorno]].
+Anche a quel pasto tardivo giungemmo in modo assai indolente e
+pigro. Grant, in particolare, sembrava così trasognato a tavola
+da vedere a malapena la pila di lettere accanto al piatto, e [[concepts/doubt|dubito]]
+che ne avrebbe aperta alcuna se in cima non fosse stato posato
+quell'unica cosa che è riuscita, tra la moderna noncuranza, a essere
+davvero urgente e coercitiva: un telegramma. Questo lo aprì con la stessa
+greve distrazione con cui ruppe l'uovo e bevve il tè.
+Quando lo lesse non mosse un capello né disse una parola, ma qualcosa,
+non so cosa, mi fece sentire che quella figura immobile era stata
+d'un tratto ricomposta come si tendono le corde su una chitarra allentata.
+Benché non dicesse nulla e non si muovesse, capii che era stato
+per un istante rischiarato e affilato da uno shock di fredda [[motifs/water|acqua]].
+Non fu quasi una sorpresa per me quando un uomo che si era trascinato
+imbronciato al suo posto e vi era sprofondato, lo scostò con un calcio come un cane
+da sotto di sé e mi venne accanto in due falcate.
+
+«Che cosa ne ricavi?» disse, e spianò il telegramma
+davanti a me.
+
+Diceva: «Vieni subito, ti prego. Stato mentale di James pericoloso. Chadd».
+
+«Che cosa intende quella donna?» dissi dopo una pausa, con stizza.
+«Quelle donne dicono che il povero vecchio professore è pazzo
+fin da quando è nato».
+
+«Ti sbagli», disse Grant con compostezza. «È vero che tutte
+le donne assennate credono pazzi tutti gli uomini studiosi. È vero, se è per questo,
+che tutte le donne di qualsiasi tipo credono pazzi tutti gli uomini di qualsiasi tipo.
+Ma non lo mettono nei telegrammi, non più di quanto ti telegrafino
+che l'erba è verde o che Dio è misericordiosissimo. Queste sono banalità,
+e spesso per giunta private. Se la signorina Chadd ha scritto sotto
+lo sguardo di una donna sconosciuta in un ufficio postale che suo fratello ha perso
+la testa, puoi essere assolutamente certo che l'ha fatto perché era
+una questione di vita o di [[motifs/death|morte]], e non riesce a pensare ad altro modo
+di costringerci a venire senza indugio».
+
+«Ci costringerà di certo», dissi, sorridendo.
+
+«Oh, sì», rispose; «c'è un posteggio di vetture qui vicino».
+
+Basil disse a malapena una parola mentre attraversavamo in vettura il Westminster Bridge,
+attraverso Trafalgar Square, lungo Piccadilly, e su per la Uxbridge [[motifs/road|Road]].
+Solo mentre apriva il cancello parlò.
+
+«Credo che tu mi crederai sulla parola, amico mio», disse;
+«questo è uno degli episodi più bizzarri, complicati e sbalorditivi
+che siano mai accaduti a [[settings/london|Londra]] o, se è per questo,
+in una qualsiasi alta civiltà».
+
+«Confesso, con la più grande simpatia e reverenza, che non riesco proprio
+a vederlo», dissi. «È forse così straordinario o complicato che un
+trasognato, sonnambulo vecchio invalido che ha sempre camminato ai margini
+dell'inconcepibile impazzisca sotto lo shock di una grande gioia?
+È forse così straordinario che un uomo con una testa come una rapa
+e un'[[motifs/soul|anima]] come una ragnatela non trovi la sua forza pari
+a uno sconvolgente cambiamento di sorte? È, in breve, così
+straordinario che James Chadd perda il senno per l'eccitazione?»
+
+«Non sarebbe affatto straordinario», rispose Basil,
+con placidità. «Non sarebbe affatto straordinario»,
+ripeté, «se il professore fosse impazzito. Non era
+quella la circostanza straordinaria a cui alludevo».
+
+«Qual era», chiesi, pestando i piedi, «la cosa straordinaria?»
+
+«La cosa straordinaria», disse Basil, suonando il campanello, «è che
+non è impazzito per l'eccitazione».
+
+L'alta e angolosa figura della maggiore delle signorine Chadd ostruiva la soglia
+quando la porta si aprì. Altre due signorine Chadd sembravano allo stesso
+modo ostruire lo stretto corridoio e il salottino.
+C'era un senso generale che tenessero qualcosa fuori dalla vista.
+Sembravano tre signore vestite di nero in qualche strano dramma
+di Maeterlinck, che velano la catastrofe al pubblico alla maniera
+del [[characters/chorus|coro]] greco.
+
+«Prego, accomodatevi», disse una di loro, con una voce che era
+alquanto rigida per il [[motifs/pain|dolore]]. «Credo sia meglio che vi si dica prima
+che cosa è accaduto».
+
+Poi, con il volto smorto che guardava senza significato fuori dalla [[motifs/window|finestra]],
+proseguì, con voce uniforme e meccanica:
+
+«È meglio che esponga tutto ciò che è accaduto proprio come è accaduto.
+Stamattina stavo sparecchiando la colazione,
+le mie sorelle erano entrambe un po' indisposte e non erano scese.
+Mio fratello era appena uscito dalla stanza, credo, per prendere un libro.
+Rientrò però senza, e restò per qualche [[motifs/time|tempo]]
+a fissare il focolare vuoto. Dissi: "Cercavi qualcosa
+che potessi prenderti io?" Non rispose, ma ciò accade di continuo,
+perché è spesso molto distratto. Ripetei la domanda,
+e ancora non rispose. A volte è così assorto nei suoi
+studi che nient'altro che un tocco sulla spalla lo renderebbe
+consapevole della presenza altrui, sicché girai attorno al tavolo verso di lui.
+Non so davvero come descrivere la sensazione che allora ebbi.
+Sembra semplicemente sciocco, ma in quel momento parve qualcosa di enorme,
+qualcosa che ti sconvolge il cervello. Il fatto è che James stava ritto su una gamba sola».
+
+Grant sorrise lentamente e si fregò le mani con una sorta di cautela.
+
+«Ritto su una gamba sola?» ripetei.
+
+«Sì», rispose la voce spenta della donna senza un'inflessione
+che suggerisse ch'ella sentisse la fantasticità della propria affermazione.
+«Stava ritto sulla gamba sinistra e la destra sollevata a un angolo acuto,
+la punta del piede rivolta in basso. Gli chiesi se la gamba gli facesse male.
+La sua unica risposta fu di scagliare la gamba dritta ad angolo retto
+rispetto all'altra, come se indicasse l'altra con la punta verso il muro.
+Continuava a guardare con aria del tutto grave il caminetto.
+
+"James, che cos'hai?" gridai, perché ero completamente spaventata.
+James diede tre calci in aria con la gamba destra, sollevò l'altra,
+diede tre calci in aria anche con quella e girò su se stesso come una trottola
+dall'altra parte. "Sei impazzito?" gridai. "Perché non mi rispondi?"
+Si era fermato di fronte a me, e mi guardava come
+fa sempre, con le sopracciglia sollevate e i grandi occhi dietro gli occhiali.
+Quando ebbi parlato rimase un secondo o due immobile, e poi
+la sua unica risposta fu di sollevare lentamente il piede sinistro dal pavimento e
+descrivere con esso dei cerchi in aria. Mi precipitai alla porta e chiamai a gran voce
+Christina. Non mi soffermerò sulle terribili ore che seguirono.
+Tutte e tre gli parlammo, lo implorammo di parlarci con
+suppliche che avrebbero potuto richiamare i morti, ma egli non ha fatto
+altro che saltellare e [[motifs/dance|danzare]] e sferrare calci con volto solenne e silenzioso.
+Sembra che le sue gambe appartengano a qualcun altro o siano possedute
+dai diavoli. Non ci ha più rivolto la parola da quel [[motifs/time|momento]] a questo».
+
+«Dov'è ora?» dissi, alzandomi in una certa agitazione.
+«Non dovremmo lasciarlo solo».
+
+«Il dottor Colman è con lui», disse la signorina Chadd con calma. «Sono
+nel [[motifs/garden|giardino]]. Il dottor Colman ha pensato che l'aria gli avrebbe fatto bene.
+E in strada non può certo andare».
+
+Basil e io ci avviammo rapidamente alla [[motifs/window|finestra]] che dava sul [[motifs/garden|giardino]].
+Era un [[motifs/garden|giardino]] suburbano piccolo e alquanto azzimato; le aiuole
+un po' troppo ordinate e simili al disegno di un tappeto colorato;
+ma in quella splendente e opulenta giornata [[motifs/summer|estiva]] persino esse avevano
+l'esuberanza di qualcosa di naturale, avrei quasi detto tropicale.
+In mezzo a un prato luminoso e verdeggiante ma dolorosamente circolare
+stavano due figure. Una era un uomo piccolo, dall'aria arguta,
+con basette nere e un cilindro lucidissimo (presumo il dottor Colman),
+che parlava molto piano e con chiarezza, eppure con un tremito nervoso,
+per così dire, sul volto. L'altra era il nostro vecchio amico,
+che ascoltava con la sua vecchia espressione paziente e gli occhi da gufo,
+la forte luce del sole che gli brillava sugli occhiali come la luce della lampada aveva
+brillato la [[motifs/night|notte]] prima, quando il chiassoso Basil lo aveva punzecchiato
+sul suo studioso decoro. Ma per una sola cosa la figura di quella
+mattina avrebbe potuto essere l'identica figura della [[motifs/night|notte]] prima.
+Quell'unica cosa era che, mentre il volto ascoltava in serena quiete,
+le gambe danzavano indefesse come le gambe di una marionetta.
+I graziosi [[motifs/flowers|fiori]] e il soleggiato scintillio del [[motifs/garden|giardino]] conferivano
+un'indescrivibile nettezza e incredibilità al prodigio...
+il prodigio della testa di un eremita e delle gambe di un arlecchino.
+Perché i miracoli dovrebbero sempre accadere in pieno giorno.
+La [[motifs/night|notte]] li rende credibili e perciò banali.
+
+La seconda sorella era a questo [[motifs/time|momento]] entrata nella stanza e si era
+avvicinata con una certa mestizia alla [[motifs/window|finestra]].
+
+«Sai, Adelaide,» disse, «che il signor Bingham del Museo
+verrà di nuovo alle tre.»
+
+«Lo so,» disse Adelaide Chadd con amarezza.  «Immagino che dovremo
+dirglielo.  Sapevo che nessuna buona sorte ci sarebbe mai
+toccata con facilità.»
+
+Grant si voltò di scatto.  «Che cosa intende?» disse.
+«Che cosa dovrete dire al signor Bingham?»
+
+«Sapete bene che cosa dovrò dirgli,» disse la sorella del professore,
+quasi con foga.  «Non credo che occorra darle il suo miserabile nome.
+Pensate che si permetterà al custode dei manoscritti asiatici
+di continuare così?»  E indicò per un istante la figura
+nel [[motifs/garden|giardino]], il volto raggiante e in ascolto e i piedi senza requie.
+
+Basil Grant estrasse l'orologio con un gesto brusco.
+«Quando avete detto che sarebbe venuto l'uomo del British Museum?» disse.
+
+«Alle [[motifs/clock|tre]],» disse brevemente Miss Chadd.
+
+«Allora ho un'ora davanti a me,» disse Grant, e senza aggiungere altro
+spalancò la [[motifs/window|finestra]] e saltò nel [[motifs/garden|giardino]].  Non si diresse
+dritto verso il dottore e il pazzo, ma, passeggiando lungo il vialetto del [[motifs/garden|giardino]],
+si avvicinò a loro con cautela eppure in apparenza con noncuranza.
+Si fermò a un paio di piedi da loro, mostrando di contare monete da mezzo penny
+estratte dalla tasca dei calzoni, ma, come potevo vedere, guardando fisso in su
+di sotto la larga tesa del cappello.
+
+D'un tratto si accostò al gomito del professor Chadd e disse,
+con voce alta e familiare: «[[motifs/well|Ebbene]], ragazzo mio, credi ancora
+che gli Zulu ci siano inferiori?»
+
+Il dottore aggrottò le sopracciglia e assunse un'aria ansiosa, come sul punto
+di parlare.  Il professore volse verso Grant il capo calvo e placido
+con fare amichevole, ma non diede risposta, agitando pigramente la
+gamba sinistra.
+
+«Hai convertito il dottor Colman alle tue idee?» proseguì Basil,
+sempre nello stesso tono alto e limpido.
+
+Chadd si limitò a strascicare i piedi e a sferrare qualche calcio con l'altra gamba,
+l'espressione sempre benevola e interrogativa.  Il dottore intervenne
+piuttosto seccamente.  «Non entriamo, professore?» disse.
+«Ora mi avete mostrato il [[motifs/garden|giardino]].  Un bel [[motifs/garden|giardino]].
+Un [[motifs/garden|giardino]] bellissimo.  Entriamo,» e tentò di trarre
+per il gomito l'etnologo che scalciava, mormorando nel medesimo [[motifs/time|momento]]
+a Grant: «Devo pregarvi di non tormentarlo con domande.
+Molto rischioso.  Va tenuto calmo.»
+
+Basil rispose sullo stesso tono, con grande freddezza:
+
+«Naturalmente le vostre istruzioni vanno seguite, dottore.  Mi sforzerò
+di farlo, ma [[concepts/hope|spero]] non sia in contrasto con esse se
+mi lascerete solo con il mio povero amico in questo [[motifs/garden|giardino]] per un'ora.
+Voglio osservarlo.  Vi assicuro, dottor Colman, che gli dirò
+pochissimo, e quel poco sarà dolce come... come sciroppo.»
+
+Il dottore si pulì il monocolo, pensieroso.
+
+«È piuttosto pericoloso per lui,» disse, «restare a lungo sotto il sole
+forte senza cappello.  E per giunta con quel capo calvo.»
+
+«Rimediato in un attimo,» disse Basil con compostezza, e si tolse il proprio
+grande cappello e lo calcò sul cranio a uovo del professore.
+Questi non si voltò, ma si allontanò danzando con gli occhi
+fissi all'orizzonte.
+
+Il dottore si rimise gli occhiali, guardò severamente i due
+per alcuni secondi, la testa piegata da un lato come quella di un uccello,
+e poi, dicendo secco «Va bene,» s'incamminò impettito verso la casa,
+dove le tre signorine Chadd stavano tutte affacciate dalla [[motifs/window|finestra]]
+del salotto sul [[motifs/garden|giardino]].  Vi guardarono con occhi affamati
+per un'ora intera senza muoversi, e videro uno spettacolo più
+straordinario della [[concepts/madness|follia]] stessa.
+
+Basil Grant rivolse alcune domande al pazzo, senza riuscire
+a fargli fare altro che continuare a saltellare, e fatto ciò
+estrasse lentamente un taccuino rosso da una tasca e una grossa
+matita dall'altra.
+
+Cominciò a buttar giù note in fretta.  Quando il pazzo gli sgusciava via,
+lo seguiva per qualche iarda, si fermava e riprendeva a prendere appunti.
+Così si rincorsero l'un l'altro giro dopo giro attorno allo sciocco cerchio
+d'erba, l'uno scrivendo a matita con l'aria di chi risolve
+un problema, l'altro balzando e giocando come un [[archetypes/child|bambino]].
+
+Dopo circa tre quarti d'ora di quella scena imbecille,
+Grant si rimise la matita in tasca, ma tenne il taccuino aperto
+in mano e, girando attorno al professore folle, si piantò
+proprio davanti a lui.
+
+Allora accadde qualcosa che perfino chi era già avvezzo a quella sfrenata
+mattinata non aveva previsto né sognato.  Il professore, trovandosi
+Basil di fronte, lo fissò con vacua benevolenza per alcuni secondi,
+poi sollevò la gamba sinistra e la tenne sospesa piegata nell'atteggiamento
+che sua sorella aveva descritto come il primo di tutte le sue bizzarrie.
+E non appena l'ebbe fatto, Basil Grant sollevò a sua volta la gamba e la protese
+rigida davanti a sé, affrontando Chadd con la suola piatta dello stivale.
+Il professore abbassò la gamba piegata e, spostandovi sopra il peso,
+scagliò l'altra all'indietro, come un uomo che nuota.  Basil incrociò
+i piedi come una [[motifs/cross|croce]] di sant'Andrea, poi li divaricò di nuovo,
+spiccando un salto in aria.  Poi, prima che alcuno degli spettatori
+potesse dire una parola o anche solo concepire un pensiero sulla faccenda,
+entrambi danzavano una sorta di giga o hornpipe l'uno di fronte all'altro;
+e il sole splendeva su due pazzi invece che su uno.
+
+Erano così colpiti dalla sordità e dalla cecità della monomania
+che non videro la maggiore delle signorine Chadd uscire febbrilmente nel
+[[motifs/garden|giardino]] con gesti di supplica, seguita da un gentiluomo.
+Il professor Chadd era nella più sfrenata posa di un pas-de-quatre,
+Basil Grant pareva sul punto di fare la [[motifs/wheel|ruota]], quando furono gelati
+nelle loro follie dalla voce d'acciaio di Adelaide Chadd che diceva:
+«Il signor Bingham del British Museum.»
+
+Il signor Bingham era un gentiluomo snello e [[motifs/well|ben]] vestito, con una barba grigia
+appuntita e lievemente effeminata, guanti irreprensibili e modi formali
+ma affabili.  Era il tipo dell'iper-civilizzato,
+come il professor Chadd lo era del pedante incivile.  La sua formalità
+e la sua affabilità gli facevano un certo onore, date le circostanze.
+Aveva una vasta esperienza di libri e una considerevole esperienza
+dei salotti mondani più dilettanteschi.  Ma nessuno dei due rami
+del sapere lo aveva abituato allo spettacolo di due gentiluomini
+borghesi dai capelli grigi, in abito moderno, che si agitavano
+come acrobati in luogo di un sonnellino dopo pranzo.
+
+Il professore proseguiva le sue buffonate con perfetta placidità,
+ma Grant si fermò di colpo.  Il dottore era ricomparso sulla scena,
+e i suoi lucidi occhi neri, sotto il lucido cappello nero, si spostavano
+irrequieti dall'uno all'altro.
+
+«Dottor Colman,» disse Basil, rivolgendosi a lui, «vorreste intrattenere
+ancora un po' il professor Chadd?  Sono certo che ha bisogno di voi.
+Signor Bingham, potrei avere il piacere di qualche istante
+di conversazione privata?  Il mio nome è Grant.»
+
+Il signor Bingham, del British Museum, s'inchinò in modo che era
+rispettoso ma un tantino perplesso.
+
+«Miss Chadd mi scuserà,» proseguì Basil con disinvoltura, «se conosco
+la strada per la casa.»  E condusse rapidamente il bibliotecario stordito
+attraverso la porta sul retro fin nel salotto.
+
+«Signor Bingham,» disse Basil, accostandogli una sedia, «immagino
+che Miss Chadd vi abbia riferito di questo penoso accaduto.»
+
+«Sì, signor Grant,» disse Bingham, guardando il tavolo con una sorta
+di nervosismo compassionevole.  «Sono più addolorato di quanto sappia dire
+da questa terribile disgrazia.  Pare davvero straziante che
+la cosa sia accaduta proprio mentre avevamo deciso di conferire
+al vostro eminente amico una posizione ben al di sotto dei suoi meriti.
+Stando così le cose, naturalmente... davvero, non so che dire.
+Il professor Chadd potrà, s'intende, conservare — e lo spero sinceramente —
+il suo intelletto di straordinario valore.  Ma temo —
+temo davvero — che non converrebbe avere il curatore
+dei manoscritti asiatici che... ehm... danza qua e là.»
+
+«Ho una proposta da fare,» disse Basil, e sedette bruscamente
+sulla sedia, accostandola al tavolo.
+
+«Ne sono lietissimo, s'intende,» disse il gentiluomo del British Museum,
+tossendo e accostando anch'egli la propria sedia.
+
+L'[[motifs/clock|orologio]] sulla mensola del camino ticchettò giusto il tempo necessario
+a Basil per schiarirsi la gola e raccogliere le parole, poi disse:
+
+«La mia proposta è questa.  Non so se, nel senso stretto delle parole,
+la si possa proprio chiamare un compromesso, eppure ne ha qualcosa
+di quel carattere.  La mia proposta è che il Governo (agendo, presumo,
+tramite il vostro Museo) versi al professor Chadd 800 sterline l'anno finché
+non smette di danzare.»
+
+«Ottocento l'anno!» disse il signor Bingham, e per la prima [[motifs/time|volta]] alzò
+i miti occhi azzurri verso quelli del suo interlocutore — e li sollevò
+con un mite sguardo azzurro.  «Credo di non avervi ben compreso.
+Ho inteso bene che, secondo voi, il professor Chadd dovrebbe essere impiegato,
+nel suo stato attuale, nel reparto dei manoscritti asiatici a ottocento
+l'anno?»
+
+Grant scosse il capo con fermezza.
+
+«No,» disse con fermezza.  «No. Chadd è un mio amico,
+e per lui direi tutto ciò che potessi.  Ma non dico,
+non posso dire, che debba occuparsi dei manoscritti asiatici.
+Non mi spingo fino a tanto.  Dico soltanto che finché non smette
+di danzare dovreste versargli 800 sterline. Certamente avrete un qualche fondo generale
+per il finanziamento della ricerca.»
+
+Il signor Bingham parve sconcertato.
+
+«Davvero non so,» disse, sbattendo le palpebre, «di che cosa stiate
+parlando.  Ci chiedete di dare a questo evidente pazzo quasi
+mille l'anno a vita?»
+
+«Niente affatto,» esclamò Basil, acuto e trionfante.  «Non ho mai detto
+a vita.  Niente affatto.»
+
+«Per quanto, allora?» chiese il mite Bingham, reprimendo l'istinto
+di strapparsi mitemente i capelli.  «Quanto deve durare questo finanziamento?
+Non fino alla sua [[motifs/death|morte]]?  Fino al giorno del Giudizio?»
+
+«No,» disse Basil, raggiante, «ma proprio quello che ho detto.  Finché non abbia
+smesso di danzare.»  E si adagiò all'indietro con soddisfazione, le mani
+in tasca.
+
+Bingham aveva a questo [[motifs/time|momento]] fissato acutamente gli occhi su Basil Grant
+e ve li teneva.
+
+«Suvvia, signor Grant,» disse.  «Devo davvero intendere che proponete
+che il Governo paghi al professor Chadd uno stipendio straordinariamente alto
+per il solo fatto che (perdonate l'espressione) è impazzito?
+Che gli si paghi più di quattro bravi impiegati per la sola ragione
+che scaglia gli stivali qua e là nel cortile sul retro?»
+
+«Precisamente,» disse Grant con compostezza.
+
+«Che questo assurdo pagamento non solo debba proseguire con l'assurda danza,
+ma addirittura cessare con l'assurda danza?»
+
+«Da qualche parte bisogna pur fermarsi,» disse Grant.  «Naturalmente.»
+
+Bingham si [[motifs/rose|alzò]] e prese il suo impeccabile bastone e i guanti.
+
+«Non c'è davvero altro da aggiungere, signor Grant,» disse freddamente.
+«Ciò che cercate di spiegarmi potrebbe essere uno scherzo —
+uno scherzo un po' insensibile.  Potrebbe essere la vostra sincera opinione,
+nel qual caso vi chiedo scusa per la precedente supposizione.
+Ma, in ogni caso, appare del tutto estraneo ai miei doveri.
+La morbosità mentale, il crollo mentale del professor Chadd,
+sono per me cosa tanto penosa che non riesco facilmente a sopportare di parlarne.
+Ma è chiaro che a ogni cosa c'è un limite.
+E se l'arcangelo Gabriele impazzisse, ciò reciderebbe,
+mi spiace dirlo, il suo rapporto con la Biblioteca del British Museum.»
+
+Si dirigeva verso la porta, ma la mano di Grant, protesa
+in un ammonimento drammatico, lo arrestò.
+
+«Fermatevi!» disse Basil severamente.  «Fermatevi finché c'è ancora [[motifs/time|tempo]].
+Volete prendere parte a una grande opera, signor Bingham?  Volete
+contribuire alla gloria dell'Europa — alla gloria della scienza?
+Volete portare il capo alto, quando sarà calvo o
+bianco, per la parte che aveste in una grande scoperta?
+Volete...»
+
+Bingham lo interruppe seccamente:
+
+«E se lo volessi, signor Grant...»
+
+«Allora,» disse Basil con leggerezza, «il vostro compito è facile.  Procurate a Chadd 800 sterline
+l'anno finché non smette di danzare.»
+
+Con un fiero colpo dei guanti che dondolavano, Bingham si volse spazientito
+verso la porta, ma nell'uscirne la trovò bloccata.
+Il dottor Colman stava entrando.
+
+«Perdonatemi, signori,» disse, con voce nervosa e confidenziale,
+«il fatto è, signor Grant, che io... ehm... ho fatto una scoperta assai inquietante
+riguardo al signor Chadd.»
+
+Bingham lo guardò con occhi [[motifs/grave|gravi]].
+
+«Lo temevo,» disse.  «Il bere, immagino.»
+
+«Il bere!» fece eco Colman, come se fosse una faccenda assai più lieve.
+«Oh, no, non è il bere.»
+
+Il signor Bingham si agitò alquanto, e la sua voce si fece affrettata
+e vaga.  «Mania omicida...» cominciò.
+
+«No, no,» disse il medico spazientito.
+
+«Crede di essere di vetro,» disse Bingham febbrilmente, «o dice
+di essere Dio... o...»
+
+«No,» disse il dottor Colman seccamente; «il fatto è, signor Grant, che la mia scoperta
+è di natura diversa.  La cosa terribile che lo riguarda è...»
+
+«Oh, proseguite, signore,» esclamò Bingham, in preda all'angoscia.
+
+«La cosa terribile che lo riguarda è,» ripeté Colman, con deliberazione,
+«che non è pazzo.»
+
+«Non pazzo!»
+
+«Esistono prove fisiche assai [[motifs/well|ben]] note della follia,»
+disse il dottore secco; «lui non ne presenta nessuna.»
+
+«Ma perché [[motifs/dance|danza]]?» esclamò il disperato Bingham.
+«Perché non ci risponde?  Perché non ha parlato alla sua famiglia?»
+
+«Lo sa il diavolo,» disse il dottor Colman con freddezza.  «Sono pagato per giudicare
+i pazzi, non gli sciocchi.  Quell'uomo non è pazzo.»
+
+«Che diamine può significare?  Non possiamo farci ascoltare?» disse il signor Bingham.
+«Nessuno può entrare in una qualche forma di comunicazione con lui?»
+
+La voce di Grant s'inserì improvvisa e limpida, come una campana d'acciaio:
+
+«Sarò ben lieto,» disse, «di recapitargli qualunque messaggio
+vogliate mandargli.»
+
+Entrambi lo fissarono.
+
+«Recapitargli un messaggio?» esclamarono simultaneamente.  «Come farete a
+recapitargli un messaggio?»
+
+Basil sorrise a suo modo lento.
+
+«Se davvero volete sapere come gli recapiterò il vostro messaggio,»
+cominciò, ma Bingham esclamò:
+
+«Certo, certo,» con una sorta di frenesia.
+
+«[[motifs/well|Ebbene]],» disse Basil, «così.»  E d'un tratto balzò di un piede
+in aria, ricadendo con gli stivali fragorosi, e poi restò
+su una gamba sola.
+
+Il suo volto era severo, benché l'effetto fosse un poco guastato dal fatto
+che uno dei suoi piedi tracciava sfrenati cerchi in aria.
+
+«Mi ci costringete,» disse.  «Mi costringete a tradire il mio amico.
+E lo farò, per il suo stesso bene, lo tradirò.»
+
+Il volto sensibile di Bingham assunse un'ulteriore espressione
+di sgomento, come di chi prevede qualche vergognosa rivelazione.
+«Qualcosa di penoso, s'intende...» cominciò.
+
+Basil lasciò cadere il piede libero sul tappeto con uno schianto che li impietrì
+tutti nelle loro fiacche pose.
+
+«Idioti!» esclamò.  «Avete guardato quell'uomo?  Avete osservato
+James Chadd andare tristemente avanti e indietro dalla sua squallida casa
+alla vostra miserabile biblioteca, con i suoi libri inutili e il suo maledetto
+ombrello, senza mai accorgervi che ha gli occhi di un fanatico?
+Non avete mai notato, ficcata quasi per caso dietro gli occhiali
+e sopra il suo vecchio colletto liso, la faccia di un uomo che avrebbe potuto
+bruciare eretici, o morire per la pietra filosofale?
+È tutta colpa mia, in un certo senso: sono stato io ad accendere la dinamite della sua mortale [[concepts/faith|fede]].
+Discussi con lui a proposito della sua famosa teoria sul linguaggio —
+la teoria secondo cui il linguaggio è completo in certi individui e
+viene appreso dagli altri semplicemente osservandoli.  Lo canzonai anche
+perché non capiva le cose nella pratica spiccia e concreta.
+Che cosa ha fatto questo glorioso fanatico?  Mi ha risposto.  Ha elaborato
+un sistema linguistico tutto suo (sarebbe troppo lungo spiegarlo);
+ha inventato, dico, una lingua sua propria.  E ha giurato che
+finché la gente non la capirà, finché non potrà parlarci in questa lingua,
+non parlerà in nessun'altra.  E non lo farà.  Io ho capito,
+osservando con attenzione; e, per il cielo, capiranno anche gli altri.
+Su questo non si soffierà sopra.  Egli porterà a termine il suo esperimento.
+Avrà 800 sterline l'anno da qualche parte finché non avrà smesso di danzare.
+Fermarlo adesso è una guerra infame contro una grande idea.
+È persecuzione religiosa.»
+
+Il signor Bingham tese la mano cordialmente.
+
+«Vi ringrazio, signor Grant,» disse.  «[[concepts/hope|Spero]] di poter
+rispondere della provenienza delle 800 sterline, e credo proprio che ci riuscirò.
+Venite nella mia carrozza?»
+
+«No, grazie mille, signor Bingham,» disse Grant di cuore.
+«Credo che andrò a fare due chiacchiere con il professore nel [[motifs/garden|giardino]].»
+
+La conversazione tra Chadd e Grant pareva personale
+e amichevole.  Danzavano ancora quando me ne andai.
+
+Capitolo 6
+
+Il bizzarro isolamento della vecchia signora
+
+La conversazione di Rupert Grant aveva due grandi elementi
+d'interesse: primo, le lunghe fantasie di deduzione [[archetypes/detective|poliziesca]]
+in cui si lanciava, e, secondo, il suo genuino interesse romantico
+per la vita di [[settings/london|Londra]].  Suo fratello Basil diceva di lui:
+"Il suo ragionamento è particolarmente freddo e limpido, e lo conduce
+immancabilmente in errore.  Ma la sua poesia irrompe di colpo e lo porta nel giusto."
+Se questo fosse vero di Rupert nel suo complesso, o no, era di certo
+curiosamente confermato da una storia sul suo conto che ritengo valga la pena raccontare.
+
+Camminavamo insieme lungo una solitaria terrazza a Brompton.
+La strada era colma di quel luminoso crepuscolo azzurro che scende
+verso le otto e mezza d'[[motifs/summer|estate]], e che per un momento pare
+non tanto un sopraggiungere delle tenebre quanto l'accensione di un nuovo
+illuminatore d'azzurro, come se la terra fosse rischiarata d'improvviso da un sole di zaffiro.
+Nell'azzurro freddo la tinta di limone dei lampioni aveva già cominciato
+a fiammeggiare, e mentre Rupert e io li oltrepassavamo, Rupert parlando concitato,
+uno dopo l'altro i pallidi bagliori sprizzavano fuori dalla penombra.
+Rupert parlava concitato perché stava cercando di dimostrarmi
+la novecentonovantanovesima delle sue teorie [[archetypes/detective|poliziesche]] da dilettante.
+Se ne andava in giro per [[settings/london|Londra]], con questa folle logica in testa,
+scorgendo una cospirazione in un incidente di carrozza, e una speciale [[concepts/providence|provvidenza]]
+in un fiammifero che cade.  I suoi sospetti in quel momento erano puntati
+su un infelice lattaio che camminava davanti a noi.  Tanto avvincenti furono
+gli avvenimenti che di lì a poco ci travolsero, che ho davvero paura d'aver
+dimenticato quali fossero le linee principali del delitto del lattaio.
+Credo avesse qualcosa a che fare col fatto che portava un solo
+piccolo bidone di latte, e che di questo aveva lasciato il coperchio
+allentato e camminava così in fretta da versare latte sul selciato.
+Ciò dimostrava che non stava pensando al suo piccolo fardello, e questo
+a sua volta dimostrava che si aspettava, in capo alla sua strada, qualche altro
+affare che non fosse lattiero, e questo (preso insieme a qualcosa
+sugli stivali infangati) dimostrava qualcos'altro che ho del tutto dimenticato.
+Ho paura d'aver deriso senza pietà questa rivelazione minuziosa;
+e ho paura che Rupert Grant, il quale, benché fosse il migliore dei compagni,
+aveva parecchio della suscettibilità del temperamento artistico,
+si risentisse un poco della mia derisione.  Tentò di tirare una boccata dal
+suo sigaro, con la placidità che egli associava alla sua professione,
+ma il sigaro, credo, fu quasi morso da parte a parte.
+
+"Mio caro amico," disse acido, "scommetto mezza [[motifs/crown|corona]]
+che, ovunque quel lattaio si fermi davvero, scoprirò
+qualcosa di curioso."
+
+"Le mie risorse sono all'altezza di quel rischio," dissi, ridendo.  "Affare fatto."
+
+Proseguimmo per circa un quarto d'ora in [[motifs/silence|silenzio]] sulle tracce
+del misterioso lattaio.  Camminava sempre più svelto, e faticavamo
+non poco a stargli dietro; e ogni tanto lasciava
+uno schizzo di latte, argenteo nella luce dei lampioni.  D'un tratto, quasi prima
+che potessimo accorgercene, sparì giù per i gradini del seminterrato di una casa.
+Credo che Rupert davvero credesse che il lattaio fosse una fata;
+per un istante parve accettare che si fosse volatilizzato.
+Poi, gridandomi qualcosa che in qualche modo non fece presa sulla mia mente,
+si lanciò dietro il mistico lattaio, e sparì egli stesso
+nel seminterrato.
+
+Attesi almeno cinque minuti, appoggiato a un lampione
+nella strada solitaria.  Poi il lattaio risalì dondolando i gradini
+senza il suo bidone e se ne andò in fretta sferragliando giù per la [[motifs/road|strada]].
+Trascorsero altri due o tre minuti, e poi anche Rupert venne su
+a grandi balzi, il viso pallido eppure ridente; una contraddizione
+non insolita in lui, che denotava eccitazione.
+
+"Amico mio," disse, fregandosi le mani, "ecco quanto vale tutto
+il tuo scetticismo.  Ecco quanto vale la tua ignoranza filistea
+delle possibilità di una romantica [[motifs/city|città]].  Due scellini e sei pence,
+ragazzo mio, è la forma in cui la tua prosaica [[concepts/nature|buona natura]] dovrà
+esprimersi."
+
+"Cosa?"  dissi incredulo, "vuoi dire davvero che hai
+scoperto qualcosa che non andava nel povero lattaio?"
+
+Gli si allungò il viso.
+
+"Oh, il lattaio," disse, con una misera finzione d'avermi
+frainteso.  "No, io... non ho propriamente ricondotto nulla [[motifs/home|a casa]]
+del lattaio in persona, io..."
+
+"Che cosa disse e fece il lattaio?"  dissi, con inesorabile severità.
+
+"[[motifs/well|Beh]], a dire la [[concepts/truth|verità]]," disse Rupert, spostandosi irrequieto da un
+piede all'altro, "il lattaio stesso, per quanto riguarda le mere apparenze
+fisiche, disse soltanto, ‘Latte, signorina,' e porse dentro il bidone.
+Il che non vuol dire, naturalmente, che non abbia fatto qualche segno
+segreto o qualche..."
+
+Scoppiai in una risata violenta.  "Idiota," dissi,
+"perché non ammetti d'aver sbagliato e non la fai finita?
+Perché mai avrebbe dovuto fare un segno segreto più di chiunque altro?
+Ammetti che non ha detto nulla e non ha fatto nulla degno di nota.
+Lo ammetti, no?"
+
+Il suo viso si fece grave.
+
+"Beh, dato che me lo chiedi, devo ammettere di sì.  È possibile
+che il lattaio non si sia tradito.  È perfino possibile che io
+mi sbagliassi sul suo conto."
+
+"Allora vieni via con me," dissi, con una certa amichevole stizza,
+"e ricordati che mi devi mezza corona."
+
+"Quanto a questo, dissento da te," disse Rupert freddamente.  "Le osservazioni
+del lattaio possono essere state del tutto innocenti.  Perfino il lattaio può esserlo stato.
+Ma non ti devo mezza corona.  Poiché i termini della scommessa erano,
+credo, i seguenti, così come li ho enunciati: che ovunque quel lattaio
+si fosse fermato davvero, io avrei scoperto qualcosa di curioso."
+
+"Ebbene?"  dissi io.
+
+"Ebbene," rispose, "l'ho proprio scoperto.  Vieni con me,"
+e prima che potessi parlare aveva di nuovo voltato le spalle ed era guizzato
+attraverso il buio azzurro nel fossato o seminterrato della casa.
+Lo seguii quasi prima d'aver preso una decisione.
+
+Quando fummo scesi nel seminterrato mi sentii indicibilmente sciocco, letteralmente,
+come dice il detto, in un buco.  Non c'era altro che una porta chiusa,
+finestre sprangate, i gradini per cui eravamo scesi, il ridicolo
+pozzo in cui mi ritrovavo, e il ridicolo uomo che mi ci
+aveva condotto, e che se ne stava là con gli occhi danzanti.
+Stavo giusto per tornare indietro quando Rupert mi afferrò per il gomito.
+
+"Ascolti soltanto quello," disse, e tenendomi il cappotto stretto
+nella destra, bussò con le nocche della sinistra sulle
+imposte della finestra del seminterrato.  Il suo contegno era così
+risoluto che mi fermai e persino inclinai il capo un momento in quella direzione.
+Dall'interno giungeva il mormorio di una voce umana inconfondibile.
+
+"Ha parlato con qualcuno là dentro?"  chiesi d'improvviso,
+voltandomi verso Rupert.
+
+"No, non l'ho fatto," rispose, con un sorriso arcigno, "ma mi piacerebbe
+moltissimo.  Sa che cosa sta dicendo qualcuno là dentro?"
+
+"No, certo che no," risposi.
+
+"Allora le consiglio di ascoltare," disse Rupert seccamente.
+
+Nel silenzio di morte della strada aristocratica alla sera,
+rimasi un istante e ascoltai.  Da dietro il tramezzo di legno,
+in cui c'era una lunga e sottile fessura, giungeva un suono
+continuo e lamentoso che prendeva la forma delle parole:  "Quando
+uscirò?  Quando uscirò?  Mi lasceranno mai uscire?"
+o parole di questo tenore.
+
+"Ne sai qualcosa di questa faccenda?"  dissi, voltandomi verso
+Rupert con grande bruschezza.
+
+"Forse crede che il criminale sia io," disse in tono beffardo,
+"invece di essere, in qualche piccola misura, il detective.
+Sono entrato in questo cortile due o tre minuti fa, avendole detto
+che sapevo esserci qualcosa di strano in corso, e questa donna dietro
+le imposte (poiché evidentemente è una donna) gemeva come una pazza.
+No, mio caro amico, oltre a ciò non so nulla di lei.
+Non è, per quanto possa sorprendere, la mia figlia diseredata,
+o un membro del mio segreto serraglio.  Ma quando sento un essere umano
+che si lamenta di non poter uscire, e parla tra sé come una donna
+impazzita e batte i pugni sulle imposte, come faceva
+due o tre minuti fa, ritengo la cosa degna di menzione, tutto qui."
+
+"Mio caro amico," dissi, "le porgo le mie scuse; non è il momento di discutere.
+Che cosa si deve fare?"
+
+Rupert Grant aveva in mano un lungo coltello a serramanico, nudo e brillante.
+
+"Prima di tutto," disse, "scasso." E conficcò la lama
+nella crepa del legno e ne staccò una scheggia enorme,
+lasciando un varco e un barlume del vetro scuro della finestra all'interno.
+La stanza dentro era del tutto priva di luce, cosicché per i primi istanti
+la finestra parve una superficie morta e opaca, buia come una lastra d'ardesia.
+Poi venne una consapevolezza che, per quanto in un certo senso graduale, ci fece
+indietreggiare e trattenere il fiato.  Due grandi occhi umani, indistinti, erano così
+vicini a noi che la finestra stessa parve d'un tratto una maschera.
+Un pallido volto umano era premuto contro il vetro all'interno,
+e con crescente nitidezza, con l'ampliarsi dell'apertura,
+giunsero le parole:
+
+"Quando uscirò?"
+
+"Che cosa può essere tutto questo?"  dissi.
+
+Rupert non rispose, ma sollevando il bastone da passeggio e puntando
+la ghiera come una spada da scherma contro il vetro, vi aprì un foro,
+più piccolo e più preciso di quanto avrei creduto possibile.
+Nel momento in cui l'ebbe fatto la voce zampillò fuori dal foro,
+per così dire, penetrante e querula e chiara, avanzando la medesima
+richiesta di libertà.
+
+"Non riesce a uscire, signora?"  dissi, avvicinandomi al foro
+con una certa agitazione.
+
+"Uscire?  Certo che non posso," gemette amaramente la donna sconosciuta.
+"Non me lo permettono.  Ho detto loro che sarei stata lasciata uscire.  Ho detto loro che avrei
+chiamato la polizia.  Ma è inutile.  Nessuno lo sa, nessuno viene.
+Potrebbero tenermi qui quanto vogliono, soltanto che--"
+
+Ero proprio nell'atto di rompere definitivamente la finestra col mio bastone,
+esasperato da questo mistero tanto sinistro, quando Rupert mi trattenne
+saldamente il braccio, lo trattenne con una rigidità curiosa, immobile e segreta, come se
+desiderasse fermarmi, ma non desiderasse essere visto farlo.
+Mi fermai un istante, e nel farlo ruotai leggermente,
+sicché mi trovai di fronte al muro di sostegno dei gradini della porta d'ingresso.
+Quell'atto mi congelò in un'immobilità improvvisa simile a quella di Rupert,
+poiché una figura quasi altrettanto immota delle colonne del portico,
+ma inconfondibilmente umana, aveva sporto il capo tra gli
+stipiti della porta e guardava giù nel cortile.  Uno dei
+lampioni accesi della strada era proprio dietro il suo capo, gettandolo
+in una tenebra netta.  Di conseguenza, nulla si poteva vedere
+del suo volto oltre a un solo fatto, che indubbiamente ci fissava.
+Devo dire che trovai magnifica la calma di Rupert.
+Suonò il campanello del cortile con tutta noncuranza, e continuò a parlarmi con
+la comoda coda di una conversazione che non aveva mai avuto principio.
+La figura nera e sfolgorante nel portico non si mosse.
+Quasi pensai fosse davvero una statua.  Un istante dopo il grigio
+cortile si fece dorato di luce a gas mentre la porta del seminterrato si aprì
+d'improvviso e vi comparve una cameriera minuta e compassata.
+
+"La prego di scusarmi," disse Rupert, con una voce che riuscì in qualche
+modo a rendere al tempo stesso affabile e volgare, "ma pensavamo
+forse che lei potesse fare qualcosa per i Derelitti e Abbandonati.
+Non ci aspettiamo--"
+
+"Non qui," disse la piccola domestica, con l'incomparabile severità
+del servitore della casa non filantropica, e ci sbatté la porta
+in faccia.
+
+"Molto triste, molto triste--l'indifferenza di questa gente," disse il
+filantropo con gravità, mentre salivamo insieme i gradini.
+Nel farlo la figura immobile nel portico d'improvviso scomparve.
+
+"Ebbene, che ne pensa?" chiese Rupert, battendo i guanti
+l'uno contro l'altro quando fummo sulla strada.
+
+Non mi vergogno di ammettere che ero seriamente turbato.
+In tali condizioni non avevo che un pensiero.
+
+"Non crede," dissi con un po' di timidezza, "che faremmo meglio
+a dirlo a suo fratello?"
+
+"Oh, se le fa piacere," disse Rupert, con aria altezzosa.  "È qui vicino,
+poiché ho promesso di incontrarlo alla stazione di Gloucester Road.
+Prendiamo una carrozza?  Forse, come dice lei, potrebbe divertirlo."
+
+La stazione di Gloucester Road aveva, come per caso, un aspetto piuttosto deserto.
+Dopo esserci guardati un poco attorno scoprimmo Basil Grant con la sua grande
+testa e il suo grande cappello bianco che ostruivano lo sportello della biglietteria.
+Sulle prime pensai che stesse prendendo un biglietto per qualche luogo e
+che ci mettesse un tempo sorprendentemente lungo.  In realtà,
+stava discutendo di religione con l'impiegato della biglietteria,
+e nell'eccitazione aveva quasi infilato la testa attraverso lo sportello.
+Quando lo trascinammo via passò un po' di tempo prima che parlasse
+d'altro che della crescita di un fatalismo orientale nel pensiero moderno,
+ben esemplificato da alcune delle ingegnose ma
+perverse fallacie dell'impiegato.  Alla fine riuscimmo a fargli capire
+che avevamo fatto una scoperta sbalorditiva.  Quando si mise ad ascoltare,
+ascoltò con attenzione, camminando tra noi su e giù per la strada
+illuminata dai lampioni, mentre gli raccontavamo in un duetto piuttosto
+febbrile della grande casa di South Kensington, dell'equivoco lattaio, della dama
+imprigionata nel seminterrato, e dell'uomo che fissava dal portico.
+Alla fine disse:
+
+"Se avete in mente di tornare là per indagare sulla faccenda,
+dovete stare attenti a quello che fate. Non serve a niente che
+andiate voi due. Ripresentarsi due volte con lo stesso pretesto
+sembrerebbe sospetto. Presentarsi con un pretesto diverso
+sembrerebbe peggio. Potete star certi che quel gentiluomo
+curioso che vi ha squadrati vi ha squadrati per bene, e porterà,
+per così dire, i vostri ritratti stampati sul cuore. Se volete
+scoprire se c'è qualcosa sotto senza un'irruzione della polizia,
+credo che fareste meglio ad aspettare fuori. Io entro e li vedo."
+
+Il suo passo lento e meditabondo ci portò infine in vista della
+casa. Si ergeva massiccia e purpurea contro l'ultimo pallore del
+crepuscolo. Aveva l'aria del castello di un orco. E tale, a quanto
+pareva, era.
+
+"Credi sia prudente, Basil," disse il fratello, fermandosi, un
+po' pallido, sotto il lampione, "entrare in quel posto da solo?
+Certo saremo abbastanza vicini da sentirti se gridi, ma quei
+demoni potrebbero fare qualcosa... qualcosa di improvviso... o di
+strano. Non riesco a sentirlo sicuro."
+
+"Non conosco nulla che sia sicuro," disse Basil con compostezza,
+"tranne, forse... la morte," e salì i gradini e suonò il campanello.
+Quando la massiccia, rispettabile porta si aprì per un istante,
+ritagliando un quadrato di luce a gas nell'oscurità crescente, e
+poi si richiuse con un tonfo, seppellendo dentro il nostro amico,
+non riuscimmo a reprimere un brivido. Era stato come lo spalancarsi
+e il richiudersi pesante delle fosche labbra di qualche malvagio
+leviatano. Una brezza notturna sempre più fresca cominciò a
+spazzare la strada, e ci rialzammo i baveri dei cappotti. In capo
+a venti minuti, durante i quali ci eravamo appena mossi o parlati,
+eravamo freddi come iceberg, ma più, credo, per l'apprensione che
+per l'atmosfera. All'improvviso Rupert fece un movimento brusco
+verso la casa.
+
+"Non lo sopporto," cominciò, ma quasi mentre parlava balzò
+indietro nell'ombra, perché il pannello d'oro era stato di nuovo
+ritagliato dalla nera facciata della casa, e la corpulenta figura
+di Basil vi si stagliava contro mentre usciva. Rideva a
+crepapelle e parlava così forte che si sarebbe potuta udire ogni
+sillaba dall'altra parte della strada. Un'altra voce, o, forse,
+due voci, gli rispondevano ridendo e chiacchierando da dentro.
+
+"No, no, no," gridava Basil, con una sorta di ilare ostilità.
+"Sbagliatissimo. È la più spaventosa eresia di tutte. È l'anima,
+mio caro, l'anima l'arbitro delle forze cosmiche. Quando vedi una
+forza cosmica che non ti garba, giocala d'astuzia, ragazzo mio.
+Ma ora devo proprio andare."
+
+"Torni a darci addosso un'altra volta," giunse la voce ridente da
+dentro la casa. "Abbiamo ancora qualche osso intatto."
+
+"Grazie mille, verrò... buonanotte," gridò Grant, che ormai aveva
+raggiunto la strada.
+
+"Buonanotte," giunse in risposta l'amichevole richiamo, prima che
+la porta si chiudesse.
+
+"Basil," disse Rupert Grant, in un rauco sussurro, "che facciamo?"
+
+Il fratello maggiore guardò pensieroso ora l'uno ora l'altro di noi.
+
+"Cosa si deve fare, Basil?" ripetei in un'eccitazione incontenibile.
+
+"Non ne sono sicuro," disse Basil dubbioso. "Che ne dite di andare
+a cenare da qualche parte e poi al Court Theatre stasera? Ho
+cercato di convincere quei tipi a venire, ma non potevano."
+
+Restammo a fissarlo attoniti.
+
+"Andare al Court Theatre?" ripeté Rupert. "E a che pro?"
+
+"A che pro? Che vuoi dire?" rispose Basil, fissando a sua volta.
+"Ti sei fatto puritano o resistente passivo, o cosa? Per
+divertirci, ovviamente."
+
+"Ma, grande Dio del Cielo! Che cosa faremo, voglio dire!" gridò
+Rupert. "E la povera donna rinchiusa in quella casa? Vado a
+chiamare la polizia?"
+
+Il viso di Basil si rischiarò di immediata comprensione, e rise.
+
+"Ah, quello," disse. "Me n'ero dimenticato. È tutto a posto.
+Qualche equivoco, forse. O qualche faccenda privata del tutto
+insignificante. Ma mi dispiace che quei tipi non potessero venire
+con noi. Prendiamo uno di questi omnibus verdi? C'è un ristorante
+in Sloane Square."
+
+"A volte penso che fai lo scemo per spaventarci," dissi irritato.
+"Come possiamo lasciare quella donna rinchiusa? Come può essere una
+mera faccenda privata? Come possono un crimine e un rapimento e un
+omicidio, per quel che ne so, essere faccende private? Se tu
+trovassi un cadavere nel salotto di un uomo, penseresti che sia di
+cattivo gusto parlarne come se fosse un maledetto zoccolo di parete
+o un'infernale acquaforte?"
+
+Basil rise di cuore.
+
+"È molto convincente," disse. "Di fatto, però, so che in questo
+caso è tutto a posto. Ed ecco che arriva l'omnibus verde."
+
+"Come fai a sapere che è tutto a posto in questo caso?" insistette
+il fratello, incollerito.
+
+"Mio caro, la cosa è ovvia," rispose Basil, tenendo un biglietto di
+andata e ritorno tra i denti mentre frugava nel taschino del
+panciotto. "Quei due tipi non hanno mai commesso un crimine in vita
+loro. Non sono di quella pasta. Nessuno di voi ha per caso un mezzo
+penny? Voglio comprare un giornale prima che arrivi l'omnibus."
+
+"Oh, al diavolo il giornale!" gridò Rupert, in preda al furore.
+"Vuoi dirmi, Basil Grant, che hai intenzione di lasciare una
+creatura simile a te in tenebre profonde, in una segreta privata,
+solo perché hai fatto dieci minuti di chiacchiere coi suoi custodi
+e li hai giudicati piuttosto brave persone?"
+
+"Le brave persone commettono dei crimini, a volte," disse Basil,
+togliendosi il biglietto di bocca. "Ma questo tipo di brava
+persona non commette quel tipo di crimine. Allora, saliamo su
+questo omnibus?"
+
+Il grande veicolo verde stava infatti avanzando a scossoni e
+sobbalzi lungo la fioca, larga strada verso di noi. Basil era
+sceso dal marciapiede, e per un istante fu questione di un soffio
+se dovessimo tutti balzarci su ed esser portati via al ristorante
+e al teatro.
+
+"Basil," dissi, afferrandolo con fermezza per la spalla, "io
+semplicemente non me ne andrò da questa strada e da questa casa."
+
+"Nemmeno io," disse Rupert, fissandola e mordendosi le dita. "Là
+dentro si sta tramando qualche losca faccenda. Se me ne andassi non
+dormirei mai più."
+
+Basil Grant ci guardò entrambi con serietà.
+
+"Naturalmente, se la mettete così," disse, "indagheremo oltre.
+Vedrete però che è tutto a posto. Sono soltanto due giovanotti di
+Oxford. Assai simpatici, per giunta, anche se piuttosto contagiati
+da questa faccenda pseudodarwiniana. Etica dell'evoluzione e tutto
+il resto."
+
+«Credo,» disse Rupert cupamente, suonando il campanello, «che vi
+illumineremo un poco di più circa la loro etica.»
+
+«E posso chiedere,» disse Basil tetro, «che cosa vi
+proponete di fare?»
+
+«Mi propongo, prima di tutto,» disse Rupert, «di entrare in questa casa;
+in secondo luogo, di dare un'occhiata a questi cari giovani di Oxford; in terzo luogo, di stenderli
+a terra, di legarli, di imbavagliarli e di perquisire la casa.»
+
+Basil rimase a fissarlo indignato per qualche minuto. Poi fu scosso
+per un istante da una delle sue risate improvvise.
+
+«Poveri ragazzi,» disse. «Ma quasi se lo meritano
+per il fatto di sostenere idee tanto sciocche, dopo tutto,» e tornò a tremare
+per il divertimento «c'è qualcosa di maledettamente darwiniano in tutto questo.»
+
+«Suppongo che tu intenda aiutarci?» disse Rupert.
+
+«Oh, sì, ci sto,» rispose Basil, «non foss'altro che per impedirti
+di fare del male a quei poveri diavoli.»
+
+Se ne stava in fondo alla nostra piccola processione, con aria indifferente
+e talvolta persino imbronciata, ma in qualche modo, nell'istante in cui la porta si aprì,
+fu lui a entrare per primo nell'atrio, raggiante di urbanità.
+
+«Mi dispiace tanto di perseguitarvi così,» disse. «Ho incontrato due amici
+là fuori che desiderano moltissimo conoscervi. Posso farli entrare?»
+
+«Ben lieti, naturalmente,» disse una voce giovane, l'inconfondibile voce
+dell'Isis, e mi resi conto che la porta era stata aperta, non dalla
+compìta servetta, ma da uno dei nostri ospiti in persona.
+Era un giovane signore basso, ma ben proporzionato, con riccioli scuri
+e un volto squadrato dal naso all'insù. Portava pantofole e una specie di blazer
+di un incredibile viola universitario.
+
+«Da questa parte,» disse; «attenti ai gradini presso la scala.
+Questa casa è più tortuosa e antiquata di quanto si penserebbe
+dal suo esterno snob. Ci sono davvero parecchi angoli strani
+in questo posto.»
+
+«Questo,» disse Rupert, con un sorriso feroce, «lo credo senza fatica.»
+
+Eravamo ormai nello studio o salottino sul retro, usato dai
+giovani abitanti come stanza di soggiorno, un ambiente ingombro
+di riviste e di libri che spaziavano da Dante ai romanzi polizieschi.
+L'altro giovane, che se ne stava con le spalle al fuoco fumando
+una pipa di pannocchia, era grande e robusto, con capelli castani spenti spazzolati in avanti
+e una giacca alla Norfolk. Era quel particolare tipo d'uomo di cui
+ogni tratto e ogni gesto è pesante e goffo, e che tuttavia è,
+si direbbe, un gentiluomo in modo piuttosto eccezionale.
+
+«Altre discussioni?» disse, dopo che furono fatte le presentazioni.
+«Devo dire, signor Grant, che siete stato piuttosto severo con gli eminenti uomini
+di scienza come noi. Ho quasi voglia di mandare al diavolo il mio D.Sc. e
+di darmi alla poesia minore.»
+
+«Sciocchezze,» rispose Grant. «Non ho mai detto una parola contro gli eminenti uomini
+di scienza. Ciò di cui mi lamento è una vaga filosofia popolare
+che si crede scientifica quando in realtà non è nient'altro
+che una specie di nuova religione, e una assai sgradevole per giunta.
+Quando la gente parlava della caduta dell'uomo sapeva di
+parlare di un mistero, di una cosa che non comprendeva.
+Ora che parla della sopravvivenza del più adatto crede
+di comprenderla, mentre non solo non ne ha nessuna idea,
+ma ha un'idea elaboratamente falsa di ciò che quelle parole significano.
+Il movimento darwiniano non ha fatto alcuna differenza per l'umanità,
+salvo che, invece di parlare non filosoficamente di filosofia,
+ora parla non scientificamente di scienza.»
+
+«Tutto ciò va benissimo,» disse il giovane grande e grosso, il cui nome pareva
+essere Burrows. «Certo, in un certo senso, la scienza, come la matematica
+o il violino, può essere perfettamente compresa soltanto dagli specialisti.
+Eppure i rudimenti possono essere di pubblica utilità. Greenwood, qui,»
+indicando l'ometto in blazer, «non distingue una nota
+di musica dall'altra. Eppure sa qualcosa. Sa abbastanza
+da togliersi il cappello quando suonano ‘God save the [[archetypes/king|re]]'. Non
+se lo toglie per errore quando suonano ‘Oh, dem Golden Slippers'.
+Proprio allo stesso modo la scienza...»
+
+Qui il signor Burrows si fermò di colpo. Fu interrotto da un argomento
+insolito nella controversia filosofica e forse non del tutto legittimo.
+Rupert Grant gli era balzato addosso da dietro, gli aveva gettato un braccio attorno
+alla gola e piegava all'indietro il gigante.
+
+«Stendi l'altro, Swinburne,» gridò, e prima che mi rendessi conto
+di dove fossi mi trovai avvinghiato in una lotta con l'uomo dal blazer viola.
+Era un combattente nerboruto, che si piegava e scattava come stecca di balena,
+ma io ero più pesante e lo avevo colto del tutto di sorpresa.
+Gli feci saltar via un piede da sotto; egli oscillò per un momento
+sul solo piede rimasto, e poi cademmo con fracasso in mezzo al disordine
+dei giornali, io di sopra.
+
+Distolta per un momento la mia attenzione dalla vittoria, potei udire
+la voce di Basil che concludeva una lunga frase di cui non avevo
+sentito l'inizio.
+
+«... del tutto, devo confessarlo, incomprensibile per me, mio caro signore,
+e inutile dire sgradevole. Eppure bisogna schierarsi con
+i propri vecchi amici contro i più affascinanti dei nuovi.
+Permettetemi, dunque, mentre vi lego con questo copripoltrona,
+di renderlo comodo quanto delle manette possono ragionevolmente esserlo mentre...»
+
+Mi ero rialzato barcollando in piedi. Il gigantesco Burrows si affannava nella
+morsa alla gola di Rupert, mentre Basil si sforzava di dominarne le possenti mani.
+Rupert e Basil erano entrambi particolarmente forti, ma lo era anche il signor Burrows;
+quanto forte, lo sapemmo un secondo dopo. La sua testa era tenuta indietro
+dal braccio di Rupert, ma un sussulto convulso corse per tutto il suo corpo.
+Un istante dopo la sua testa si gettò in avanti come quella di un toro,
+e Rupert Grant fu scagliato a gambe all'aria, una girandola di gambe come [[motifs/wheel|ruota]] di Caterina,
+sul pavimento davanti a lui. Simultaneamente la testa taurina cozzò contro
+il petto di Basil, atterrando anche lui con fracasso,
+e il [[archetypes/monster|mostro]], con un ruggito da Berserker, mi balzò addosso e mi scaraventò
+nell'angolo della stanza, sfasciando il cestino della carta straccia.
+Il frastornato Greenwood scattò furiosamente in piedi.
+Basil fece altrettanto. Ma ora erano loro ad avere la meglio.
+
+Greenwood si precipitò al campanello e lo tirò con violenza, mandando scampanellii
+per tutta la [[motifs/great-house|grande casa]]. Prima che potessi rimettermi ansimante in piedi,
+e prima che Rupert, che era rimasto letteralmente tramortito per qualche istante,
+riuscisse anche solo a sollevare la testa dal pavimento, due valletti erano nella stanza.
+Sconfitti persino quando eravamo in maggioranza, adesso eravamo in inferiorità numerica.
+Greenwood e uno dei valletti si gettarono su di me,
+schiacciandomi di nuovo nell'angolo sui resti del cestino della carta.
+Gli altri due si avventarono su Basil e lo inchiodarono contro la parete.
+Rupert si sollevò su un gomito, ma era ancora stordito.
+
+Nel [[motifs/silence|silenzio]] teso della nostra impotenza udii la voce
+di Basil giungere con una rumorosa e incongrua allegria.
+
+«Ecco, questo,» disse, «è ciò che io chiamo divertirsi.»
+
+Colsi una fugace visione del suo volto, arrossato e schiacciato contro
+la libreria, tra le membra dondolanti dei miei aguzzini e dei suoi.
+Con mio stupore, i suoi occhi erano davvero luminosi di piacere,
+come quelli di un [[archetypes/child|bambino]] acceso da un gioco prediletto.
+
+Feci parecchi sforzi apoplettici per rialzarmi, ma il domestico mi stava
+sopra così pesantemente che Greenwood poté permettersi di lasciarmi a lui.
+Si voltò svelto per andare a rinforzare i due che stavano sopraffacendo Basil.
+La testa di quest'ultimo affondava già sempre più in basso, come una
+[[motifs/ship|nave]] che imbarca acqua, mentre i suoi nemici lo premevano giù. Levò una mano
+proprio quando lo credetti caduto e si aggrappò a un enorme tomo nella libreria,
+un volume, come scoprii in seguito, della teologia di san Crisostomo.
+Proprio mentre Greenwood balzava attraverso la stanza verso il gruppo,
+Basil estrasse di peso quel tomo ponderoso dallo scaffale, lo fece roteare,
+e lo scagliò turbinante per l'aria, così che colpì Greenwood
+in pieno viso e lo rovesciò come un birillo che rolling rotola.
+Nello stesso istante la rigidità di Basil si spezzò, ed egli affondò, mentre i suoi nemici
+si serravano sopra di lui.
+
+La testa di Rupert era lucida, ma il suo [[concepts/body|corpo]] scosso; si teneva
+come meglio poteva al semiprostrato Greenwood.
+Rotolavano l'uno sull'altro sul pavimento, entrambi alquanto
+indeboliti dalle loro cadute, ma Rupert di certo più dell'altro.
+Io ero ancora tenuto giù con successo. Il pavimento era un mare di carte
+e riviste strappate e calpestate, come un immenso cestino della cartastraccia.
+Burrows e il suo compagno vi affondavano quasi fino alle ginocchia,
+come in un cumulo di [[motifs/leaves|foglie]] morte. E Greenwood aveva una gamba infilata
+attraverso un foglio della Pall Mall Gazette, che vi si aggrappava in modo ridicolo,
+come una fantastica balza da pantalone.
+
+Basil, sottratto alla mia vista in una [[motifs/prison|prigione]] umana, una [[motifs/prison|prigione]] di corpi possenti,
+per quel che ne sapevo poteva essere morto. Immaginai, tuttavia, che la larga
+schiena del signor Burrows, che era rivolta verso di me, avesse una certa curva
+di sforzo, come se il mio amico avesse ancora bisogno di essere tenuto giù.
+D'un tratto quella larga schiena ondeggiò di qua e di là.
+Ondeggiava su una gamba sola; Basil, in qualche modo, aveva afferrato l'altra.
+Gli enormi pugni di Burrows e quelli del valletto martellavano la testa
+affondata di Basil come un'incudine, ma niente riusciva a strappare la caviglia del gigante
+alla sua stretta improvvisa e feroce. Mentre la sua stessa testa veniva forzata lentamente
+in basso, nel buio e in un gran [[motifs/pain|dolore]], la gamba destra del suo aguzzino veniva
+forzata per aria. Burrows dondolava avanti e indietro col volto paonazzo.
+Poi d'improvviso il pavimento e le pareti e il soffitto tremarono insieme,
+mentre il colosso cadeva, e tutta la sua lunghezza pareva riempire il pavimento.
+Basil balzò in piedi con occhi danzanti, e con tre colpi
+simili ad arieti ridusse il valletto in poltiglia.
+Poi balzò addosso a Burrows, con un copripoltrona in una
+mano e un altro fra i denti, e lo legò mani e piedi quasi
+prima ch'egli comprendesse chiaramente che la sua testa aveva urtato il pavimento.
+Poi Basil balzò su Greenwood, che Rupert si affannava
+a tenere giù, e fra loro due lo assicurarono con facilità.
+L'uomo che teneva me mollò la presa e si voltò per soccorrerlo, ma io
+scattai in piedi come una [[motifs/spring|spring]] molla liberata, e, con mia infinita soddisfazione,
+atterrai il tipo. L'altro valletto, sanguinante dalla bocca
+e del tutto demoralizzato, usciva barcollando dalla stanza. Il mio recente aguzzino,
+senza una parola, sgusciò via dietro di lui, vedendo che la battaglia era vinta.
+Rupert sedeva a cavalcioni del signor Greenwood immobilizzato, Basil a cavalcioni
+del signor Burrows immobilizzato.
+
+Con mia sorpresa quest'ultimo signore, disteso legato sulla schiena,
+parlò con voce perfettamente calma all'uomo che gli sedeva sopra.
+
+«E ora, signori,» disse, «poiché avete avuto la vostra strada,
+forse non vi dispiacerebbe dirci che diamine è tutto questo?»
+
+«Questo,» disse Basil, con volto raggiante, guardando dall'alto il suo prigioniero,
+«questo è ciò che noi chiamiamo la [[concepts/survival|sopravvivenza]] del più adatto.»
+
+Rupert, che si era andato via via ricomponendo per tutte le ultime
+fasi della zuffa, era intellettualmente tornato del tutto sé stesso
+alla fine di essa. Balzando in piedi dal prostrato Greenwood,
+e annodandosi un fazzoletto attorno alla mano sinistra, che sanguinava
+per un colpo, gridò con tono assai freddo:
+
+«Basil, vuoi montare la guardia sul prigioniero del tuo arco e della tua lancia
+e del tuo copripoltrona? Swinburne e io sgombreremo la [[motifs/prison|prigione]] al piano di sotto.»
+
+«Va bene,» disse Basil, alzandosi anche lui e sistemandosi con agio
+in una poltrona. «Non affrettatevi per noi,» disse, girando lo sguardo
+sul disordine della stanza, «abbiamo tutti i giornali illustrati.»
+
+Rupert uscì pensieroso dalla stanza barcollando, e io lo seguii
+ancora più lentamente; anzi, indugiai abbastanza a lungo da udire,
+mentre attraversavo la stanza, i corridoi e le scale della cucina,
+la voce di Basil che proseguiva in tono discorsivo:
+
+«E ora, signor Burrows,» disse, sistemandosi socievolmente nella poltrona,
+«non c'è ragione perché non si prosegua quel divertente ragionamento.
+Mi dispiace che dobbiate esprimervi disteso supino sul
+pavimento, e, come vi ho già detto, non ho più idea del perché voi siate
+lì di quanta ne abbia l'uomo della [[motifs/moon|luna]]. Un conversatore come voi,
+tuttavia, non può certo essere seriamente ostacolato da una qualsiasi postura corporea.
+Stavate dicendo, se ben ricordo, quando è sopravvenuta questa
+zuffa incidentale, che i rudimenti della scienza potrebbero con vantaggio
+essere resi pubblici.»
+
+«Esattamente,» disse l'uomo corpulento sul pavimento con tono disinvolto.
+«Sostengo che nulla più di un rozzo [[forms/sketch|abbozzo]] dell'universo
+quale è visto dalla scienza possa...»
+
+E qui le voci si spensero mentre scendevamo nel seminterrato.
+Notai che il signor Greenwood non prese parte all'amichevole disputa.
+Per strano che possa sembrare, credo che egli guardasse ai nostri procedimenti
+con un lieve grado di risentimento. Il signor Burrows, invece, era tutto
+philosophy filosofia e loquacità. Li lasciammo, come dico, insieme, e sprofondammo
+sempre più giù nel sottosuolo di quella misteriosa house casa,
+la quale, forse, ci appariva un po' più tartarea di quanto
+realmente fosse, per via della nostra conoscenza del suo mistero
+semicriminale e del segreto umano rinchiuso là sotto.
+
+Il pianterreno del seminterrato aveva parecchie porte, come è consueto in una simile
+house casa; porte che naturalmente conducevano alla cucina,
+al retrocucina, alla dispensa, alla sala della servitù, e così via.
+Rupert spalancò tutte le porte con indescrivibile rapidità.
+Quattro delle cinque davano su appartamenti del tutto vuoti.
+La quinta era chiusa a chiave. Rupert sfondò la porta come una scatola di cartone,
+e piombammo nell'improvvisa tenebra della stanza sigillata e senza luce.
+
+Rupert stette sulla soglia, e gridò come un uomo che chiama
+dentro un abisso:
+
+«Chiunque tu sia, vieni fuori. Sei libera. Coloro che ti tenevano
+prigioniera sono essi stessi prigionieri. Ti abbiamo udita piangere e siamo venuti
+a liberarti. Abbiamo legato mani e piedi i tuoi nemici, di sopra.
+Sei libera.»
+
+Per alcuni secondi dopo che egli ebbe parlato nel buio vi fu un [[motifs/silence|silenzio]]
+mortale. Poi giunse una specie di bofonchiare e gemere.
+Avremmo potuto facilmente scambiarlo per il [[motifs/wind|vento]] o per topi, se non
+ci fosse capitato di udirlo già prima. Era inconfondibilmente la voce
+della donna imprigionata, che tetramente reclamava la libertà, proprio come
+l'avevamo udita reclamarla.
+
+«Qualcuno ha un fiammifero?» disse Rupert cupamente. «Immagino che siamo
+giunti assai vicini alla fine di questa faccenda.»
+
+Accesi un fiammifero e lo levai in alto. Rivelò un appartamento ampio, spoglio,
+tappezzato di giallo, con una figura vestita di scuro all'altra estremità
+di esso, presso la [[motifs/window|finestra]]. Un istante dopo mi bruciò le dita
+e cadde, lasciando il buio. Aveva, tuttavia, rivelato qualcosa
+di più pratico: un braccio del gas in ferro proprio sopra la mia testa.
+Accesi un altro fiammifero e accesi il gas. E ci trovammo
+d'un tratto e sul serio al cospetto della prigioniera.
+
+Presso una specie di cestino da lavoro, alla [[motifs/window|finestra]] di questa sala da colazione
+sotterranea, sedeva un'anziana signora dalla carnagione singolarmente accesa e dai capelli argentei
+quasi impressionanti. Ella aveva, come apposta per attenuare questi effetti,
+un paio di sopracciglia nere mefistofeliche e un abito nero assai lindo.
+La vampa del gas illuminava perfettamente i suoi capelli e il suo volto piccanti
+contro lo sfondo bruno delle imposte. Lo sfondo era
+azzurro e non bruno in un punto; nel punto dove il coltello di Rupert
+aveva lacerato una grande apertura nel legno circa un'ora prima.
+
+«Signora,» disse egli, avanzando con un gesto del cappello, «permettete
+ch'io abbia il piacere di annunciarvi che siete libera.
+Le vostre lagnanze ci son capitate all'orecchio mentre passavamo per la strada,
+e ci siamo perciò arrischiati a venire in vostro soccorso.»
+
+L'anziana signora dal volto rosso e dalle sopracciglia nere ci guardò
+per un momento con qualcosa dello sguardo apoplettico di un pappagallo.
+Poi disse, con un improvviso soffio o respiro di sollievo:
+
+«Soccorso? Dov'è il signor Greenwood? Dov'è il signor Burrows? Avete detto
+di avermi salvata?»
+
+«Sì, signora,» disse Rupert, con una condiscendenza raggiante.
+«Ci siamo occupati assai soddisfacentemente del signor Greenwood e del signor Burrows.
+Abbiamo sistemato le faccende con loro assai soddisfacentemente.»
+
+L'anziana signora si [[motifs/rose|alzò]] dalla sedia e venne assai svelta verso di noi.
+
+«Che cosa avete detto loro? Come li avete persuasi?» gridò.
+
+«Li abbiamo persuasi, mia cara signora,» disse Rupert, ridendo, «atterrandoli
+e legandoli. Ma che cosa c'è che non va?»
+
+Con sorpresa di tutti l'anziana signora tornò lentamente al suo
+posto presso la [[motifs/window|finestra]].
+
+«Devo capire,» disse, con l'aria di una persona sul punto
+di mettersi a lavorare a maglia, «che avete atterrato il signor Burrows e
+lo avete legato?»
+
+«L'abbiamo fatto,» disse Rupert con orgoglio; «abbiamo resistito alla loro oppressione
+e l'abbiamo vinta.»
+
+«Oh, grazie,» rispose l'anziana signora, e si sedette presso la [[motifs/window|finestra]].
+
+Seguì una pausa considerevole.
+
+«La [[motifs/road|strada]] è del tutto sgombra per voi, signora,» disse Rupert cortesemente.
+
+L'anziana signora si [[motifs/rose|alzò]], drizzando le sopracciglia nere e la sua cresta argentea
+verso di noi per un istante.
+
+«Ma che ne è di Greenwood e Burrows?» disse. «Che cosa ho inteso
+dire che ne è stato di loro?»
+
+«Giacciono sul pavimento di sopra,» disse Rupert, ridacchiando.
+«Legati mani e piedi.»
+
+«[[motifs/well|Well]] Bene, allora la cosa è decisa,» disse l'anziana signora, tornando con una specie
+di tonfo a sedersi di nuovo, «devo restare dove sono.»
+
+Rupert parve sconcertato.
+
+«Restare dove siete?» disse. «Perché mai dovreste restare più a lungo dove
+siete? Quale potere può costringervi ora a restare in questa misera cella?»
+
+«La questione semmai è,» disse l'anziana signora, con compostezza,
+«quale potere possa costringermi ad andare altrove.»
+
+La fissammo entrambi selvaggiamente ed ella fissò tranquillamente entrambi.
+
+Alla fine dissi: «Volete davvero dire che dobbiamo
+lasciarvi qui?»
+
+«Suppongo che non intendiate legarmi,» disse, «e portarmi via?
+Di certo altrimenti non me ne andrò.»
+
+«Ma, mia cara signora,» esclamò Rupert, in una raggiante esasperazione,
+«vi abbiamo udita con le nostre stesse orecchie piangere perché non potevate uscire.»
+
+«Chi origlia spesso ode cose piuttosto fuorvianti,» replicò la
+prigioniera cupamente. «Suppongo di aver ceduto un poco e perso le staffe
+e di aver parlato tra me e me. Ma nonostante tutto ho un certo senso dell'[[concepts/honour|onore]].»
+
+«Un certo senso dell'[[concepts/honour|onore]]?» ripeté Rupert, e l'ultima luce
+dell'intelligenza si spense dal suo volto, lasciandolo il volto di un idiota
+dagli occhi rolling roteanti.
+
+Si mosse vagamente verso la porta e io lo seguii. Ma mi voltai
+ancora una volta nei lacci della mia [[concepts/conscience|coscienza]] e della mia curiosità.
+«Non possiamo far nulla per voi, signora?» dissi sconsolato.
+
+«Ebbene,» disse la signora, «se siete particolarmente ansiosi di farmi
+un piccolo favore, potreste slegare i signori di sopra.»
+
+Rupert si lanciò pesantemente su per la scala della cucina, scuotendola con la sua
+vaga violenza. Con la bocca aperta per parlare inciampò fino alla porta
+del salotto e teatro della battaglia.
+
+«In teoria, questo è senza [[concepts/doubt|dubbio]] vero,» stava dicendo il signor Burrows,
+disteso supino e discutendo con disinvoltura con Basil;
+«ma dobbiamo considerare la faccenda come essa appare al nostro senso.
+L'origine della morality moralità...»
+
+«Basil,» gridò Rupert, ansimando, «non vuole venir fuori.»
+
+«Chi non vuole venir fuori?» chiese Basil, un po' [[motifs/cross|contrariato]] d'essere interrotto
+in un ragionamento.
+
+«La signora di sotto,» replicò Rupert. «La signora che era rinchiusa.
+Non vuole venir fuori. E dice che tutto ciò che vuole è che noi
+lasciamo liberi questi tipi.»
+
+«E una proposta assai sensata,» gridò Basil, e con un balzo
+fu di nuovo sopra il prostrato Burrows e si mise a sciogliergli
+i legami con le mani e coi denti.
+
+«Un'idea brillante. Swinburne, sciogli il signor Greenwood.»
+
+In modo stordito e automatico liberai il piccolo signore in
+giacca purpurea, il quale non pareva considerare nessuno dei procedimenti
+particolarmente sensato o brillante. Il gigantesco Burrows,
+d'altra parte, era squassato da un riso erculeo.
+
+«[[motifs/well|Well]] Ebbene,» disse Basil, nel suo modo più gioviale, «penso che dovremmo
+andarcene. Abbiamo goduto tanto la nostra serata. Troppo
+riguardo verso di voi per stare sulle cerimonie. Se posso esprimermi così,
+ci siamo messi a nostro [[motifs/home|agio]]. Buona [[motifs/night|notte]]. Grazie infinite.
+Vieni, Rupert.»
+
+«Basil,» disse Rupert disperatamente, «per amor di Dio vieni a vedere che cosa
+puoi cavare dalla donna di sotto. Non riesco a togliermi il disagio
+dalla mente. Ammetto che le cose hanno l'aria di dire che abbiamo commesso un errore.
+Ma questi signori forse non avranno nulla in contrario...»
+
+«No, no,» gridò Burrows, con una sorta di fragore rabelaisiano.
+«No, no, guardate nella dispensa, signori. Esaminate la carbonaia.
+Fate un giro dei camini. Ci sono cadaveri per tutta la house casa,
+ve l'assicuro.»
+
+Questa nostra avventura era destinata a differire in un aspetto
+dalle altre che ho narrato. Ero passato attraverso molte giornate
+folli con Basil Grant, giornate per la prima metà delle quali il sole
+e la [[motifs/moon|luna]] parevano essere impazziti. Ma era quasi
+invariabilmente accaduto che verso la fine della giornata e della sua
+avventura le cose si fossero rischiarate come il cielo dopo la pioggia,
+e un luminoso e quieto significato mi fosse a poco a poco spuntato dinanzi.
+Ma il lavoro di questa giornata era destinato a finire in una confusione più confusa che mai.
+Prima che lasciassimo quella house casa, dieci minuti dopo, un tocco
+demente si aggiunse, che avvolse tutte le nostre menti nella nube. Se la testa di Rupert
+fosse improvvisamente caduta a terra, se ali avessero cominciato
+a spuntare dalle spalle di Greenwood, difficilmente saremmo potuti restare
+più subitaneamente colpiti. Eppure di questo non avevamo spiegazione.
+Dovemmo andare a letto quella [[motifs/night|notte]] con il prodigio e alzarci il mattino dopo
+con esso e lasciarlo ristare nelle nostre memorie per settimane e mesi.
+Come si vedrà, non fu che mesi dopo che, per un altro
+caso e in un altro modo, esso fu spiegato. Per il presente io
+espongo soltanto ciò che accadde.
+
+Quando tutti e cinque ridiscendemmo le scale della cucina, Rupert in testa,
+i due padroni di casa a chiudere la fila, trovammo la porta della [[motifs/prison|prigione]]
+di nuovo chiusa. Spalancandola trovammo il luogo di nuovo nero
+come la pece. L'anziana signora, se era ancora là, aveva spento il gas:
+pareva avere una bizzarra predilezione per il sedere al buio.
+
+Senza un'altra parola Rupert riaccese il gas. La piccola
+anziana signora voltò la sua testa d'uccello mentre tutti avanzavamo inciampando
+nella forte luce del gas. Poi, con una rapidità che quasi mi fece
+sobbalzare, scattò in piedi e fece una specie di antiquata riverenza
+o reverenza. Guardai svelto Greenwood e Burrows, ai quali
+era naturale supporre che questa deferenza fosse stata offerta.
+Mi sentii irritato da ciò che era implicito in questa deferenza,
+e desiderai vedere i volti dei tiranni mentre la ricevevano.
+Con mia sorpresa non parvero averla affatto vista:
+Burrows si tagliava le unghie con un piccolo temperino. Greenwood era
+sul fondo del gruppo e aveva appena messo piede nella stanza.
+E allora divenne palese un fatto sbalorditivo. Era Basil Grant
+che stava in testa al gruppo, la dorata luce del gas che gli rischiarava
+il forte volto e la figura. Il suo volto portava un'espressione
+indescrivibilmente consapevole, con il sospetto di un sorriso assai [[motifs/grave|grave]].
+La sua testa era lievemente chinata in un inchino trattenuto. Era lui che aveva
+accolto l'ossequio della signora. Ed era a lui, al di là di ogni [[archetypes/shadow|ombra]]
+di ragionevole [[concepts/doubt|dubbio]], che esso era stato realmente diretto.
+
+«Così ho sentito,» disse egli, con voce cortese eppure in qualche modo formale,
+«ho sentito, signora, che i miei amici hanno tentato di salvarvi.
+Ma senza success successo.»
+
+«Nessuno, naturalmente, conosce i miei difetti meglio di voi,» rispose la signora
+con la carnagione accesa. «Ma non mi avete trovata colpevole di tradimento.»
+
+«Lo attesto volentieri, signora,» replicò Basil, negli stessi
+toni pacati, «e il fatto è che sono così gratificato
+dalla vostra prova di lealtà da concedermi il
+piacere di esercitare alcuni poteri discrezionali assai ampi.
+Non avreste lasciato questa stanza alla richiesta di questi signori.
+Ma sapete che potete lasciarla senza pericolo alla mia.»
+
+La prigioniera fece un'altra reverenza. «Non mi sono mai lamentata
+della vostra ingiustizia,» disse. «Non ho quasi bisogno di dire ciò che penso
+della vostra generosità.»
+
+E prima che i nostri occhi sbarrati potessero batter ciglio ella era passata fuori della stanza,
+Basil tenendole aperta la porta.
+
+Egli si volse a Greenwood con una ricaduta nella giovialità.
+«Questo sarà un sollievo per voi,» disse.
+
+«Sì, lo sarà,» replicò quell'imperturbabile giovane signore con un volto
+come una sfinge.
+
+Ci trovammo fuori nel [[motifs/night|notte]] blu scuro, scossi e storditi
+come se vi fossimo caduti dentro da qualche alta torre.
+
+«Basil,» disse Rupert alla fine, con voce fioca, «ho sempre pensato che tu
+fossi mio fratello. Ma sei un uomo? Voglio dire, sei soltanto un uomo?»
+
+«Al presente,» replicò Basil, «la mia mera umanità è provata da uno
+dei più inconfondibili simboli: la fame. Siamo troppo in ritardo per il teatro
+in Sloane Square. Ma non siamo troppo in ritardo per il ristorante.
+Ecco che arriva l'omnibus verde!» e vi era già balzato sopra prima
+che potessimo parlare.
+
+------------------------------------------------------------------------
+
+Come ho detto, fu mesi dopo che Rupert Grant entrò d'improvviso
+nella mia stanza, dondolando una borsa in mano e con un'aria generale
+d'aver scavalcato il muro del [[motifs/garden|giardino]], e mi implorò di andare con
+lui nella più recente e più folle delle sue spedizioni. Egli si proponeva
+niente meno che la scoperta della reale origine,
+ubicazione e quartier generale della sorgente di tutte le nostre gioie e i nostri dolori:
+il Club dei Mestieri Bizzarri. Dilaterei questa storia all'infinito se
+spiegassi come alla fine stanammo questa strana entità nel suo covo.
+Il procedimento comportò cento cose interessanti. Il pedinamento
+di un membro, la corruzione di un cabman vetturino, la lotta con i teppisti,
+il sollevamento di una pietra da lastrico, il trovamento di una cantina, il trovamento
+di una cantina sotto la cantina, il trovamento del passaggio sotterraneo,
+il trovamento del Club dei Mestieri Bizzarri.
+
+Ho avuto molte strane esperienze nella mia vita, ma mai una più strana
+di quella che provai quando uscii da quei corridoi tortuosi, ciechi,
+e apparentemente senza speranza, nell'improvviso splendore di una sontuosa
+e ospitale sala da pranzo, circondata quasi da ogni lato da volti
+che conoscevo. C'era il signor Montmorency, l'Agente Arboreo di Case,
+seduto fra i due arzilli giovani che erano occasionalmente vicari,
+e sempre Trattenitori Professionisti. C'era il signor P. G. Northover,
+fondatore dell'Agenzia dell'Avventura e del [[works/romance-(poe)|Romance]] Romanzesco. C'era il professor Chadd,
+che inventò la Lingua danzante.
+
+Come entrammo, tutti i membri parvero sprofondare d'un tratto nelle loro sedie,
+e con quel medesimo atto la vacanza del seggio presidenziale ci
+sbadigliò addosso come un dente mancante.
+
+«Il presidente non c'è,» disse il signor P. G. Northover, voltandosi d'improvviso
+al professor Chadd.
+
+«N... no,» disse il filosofo, con più della sua ordinaria vaghezza.
+«Non riesco a immaginare dove sia.»
+
+«Santo cielo,» disse il signor Montmorency, balzando in piedi, «mi sento davvero
+un poco nervoso. Vado a vedere.» E corse fuori della stanza.
+
+Un istante dopo tornò di corsa, cinguettando in una timida estasi.
+
+«È là, signori... è là, tutto a posto... sta entrando adesso,»
+gridò, e si sedette. Rupert e io non potevamo fare a meno di provare
+gli inizi di una sorta di [[concepts/wonder|meraviglia]] su chi mai potesse essere questa persona
+che era il primo membro di questa insana confraternita.
+Chi, pensavamo confusamente, poteva essere il più folle in questo mondo di folli:
+quale fantastico era colui la cui [[archetypes/shadow|ombra]] riempiva tutti questi fantastici
+di un'attesa così fedele?
+
+D'improvviso avemmo risposta. La porta si spalancò e la stanza fu
+riempita e scossa da un grido, in mezzo al quale Basil Grant,
+sorridente e in abito da sera, prese posto a capo della tavola.
+
+Come divorammo quella cena non ne ho idea. Di solito sono una persona
+particolarmente incline a godere la lunga opulenza della cena del club.
+Ma in quell'occasione parve una fila senza speranza e senza fine
+di portate. Le sardine dell'antipasto parevano grandi come aringhe,
+la zuppa pareva una sorta d'oceano, le allodole erano anatre, le anatre struzzi,
+finché quella cena non fu conclusa. La portata del cheese formaggio fu esasperante.
+Avevo spesso sentito dire che la [[motifs/moon|luna]] è fatta di cheese formaggio verde.
+Quella [[motifs/night|notte]] pensai che il cheese formaggio verde fosse fatto della [[motifs/moon|luna]].
+E per tutto il [[motifs/time|tempo]] Basil Grant continuò a ridere e mangiare e bere,
+e non gettò mai uno sguardo verso di noi per dirci perché fosse là,
+il [[archetypes/king|re]] di questi caracollanti idioti.
+
+Alla fine giunse il momento che sapevo doverci in qualche modo illuminare,
+il [[motifs/time|tempo]] dei discorsi del club e dei brindisi del club. Basil Grant
+si [[motifs/rose|alzò]] in piedi in mezzo a un'ondata di songs canti e di applausi.
+
+«Signori,» disse, «è consuetudine in questa società che il presidente
+dell'anno apra i lavori non con un qualche brindisi generale di sentimento,
+ma invitando ciascun membro a rendere un breve resoconto del proprio mestiere.
+Beviamo poi a quella vocazione e a tutti coloro che la seguono.
+È mio compito, in quanto membro anziano, aprire esponendo il mio titolo
+all'appartenenza a questo club. Anni fa, signori, ero un giudice;
+feci del mio meglio in quella veste per rendere giustizia e amministrare la legge.
+Ma a poco a poco mi apparve chiaro che nel mio lavoro, così com'era, io non
+sfioravo neppure l'orlo della giustizia. Sedevo nel seggio
+dei potenti, ero avvolto in scarlatto ed ermellino; ciò nondimeno, ricoprivo
+un posto piccolo e umile e futile. Dovevo procedere secondo una regola gretta non meno
+di un postino, e il mio rosso e oro non valeva più del suo.
+Quotidianamente passavano davanti a me problemi tesi e appassionati,
+la cui stringenza dovevo fingere di alleviare con sciocche
+prigionie o sciocchi risarcimenti, mentre sapevo per tutto il [[motifs/time|tempo]], alla luce
+del mio vivente buon senso, che sarebbero stati assai meglio
+alleviati da un bacio o da una bastonatura, o da qualche parola di spiegazione,
+o da un duello, o da un giro nelle Highlands occidentali. Poi, man mano che questo cresceva in me,
+crebbe in me di continuo il senso di una montuosa frivolezza.
+Ogni parola detta nella [[settings/court|corte]], un bisbiglio o un'imprecazione,
+pareva più connessa con la vita delle parole che io dovevo dire.
+Poi venne il [[motifs/time|tempo]] in cui bestemmiai pubblicamente tutta quella baggianata,
+fui classificato come pazzo e mi dileguai dalla vita pubblica.»
+
+Qualcosa nell'atmosfera mi disse che non erano soltanto Rupert
+e io ad ascoltare con intensità questa dichiarazione.
+
+«[[motifs/well|Well]] Ebbene, scoprii che non potevo essere di alcuna reale utilità. Mi offrii
+privatamente come giudice puramente morale per comporre differenze puramente morali.
+In assai breve tempo queste corti d'[[concepts/honour|onore]] non ufficiali (tenute rigorosamente segrete)
+si erano diffuse per l'intera società. Le persone venivano processate davanti a me non
+per le inezie pratiche di cui a nessuno importa, come il commettere
+un omicidio, o il tenere un cane senza licenza. I miei criminali venivano
+processati per le colpe che rendono davvero impossibile la vita sociale.
+Venivano processati davanti a me per egoismo, o per un'impossibile [[concepts/vanity|vanità]],
+o per maldicenza, o per spilorceria verso ospiti o dipendenti.
+Naturalmente queste corti non avevano alcuna sorta di reale potere coercitivo.
+L'adempimento delle loro pene poggiava interamente sull'[[concepts/honour|onore]] delle
+signore e dei signori coinvolti, compreso l'[[concepts/honour|onore]] dei colpevoli.
+Ma sareste stupiti di sapere quanto completamente i nostri ordini fossero
+sempre obbediti. Solo di recente ho avuto un esempio assai piacevole.
+Una signorina nubile di South Kensington, che avevo condannato alla reclusione
+solitaria per essere stata la causa della rottura di un fidanzamento
+tramite maldicenza, si rifiutò assolutamente di lasciare la sua [[motifs/prison|prigione]],
+sebbene alcune persone [[motifs/well|ben]] intenzionate fossero state tanto inopportune
+da salvarla.»
+
+Rupert Grant fissava suo fratello, la bocca spalancata.
+E così, del resto, immagino, fissavo io. Questa, dunque, era la
+spiegazione dello strano scontento dell'anziana signora e del suo ancora
+più strano appagamento della propria sorte. Ella era una dei colpevoli
+della sua Corte Criminale Volontaria [[settings/court|Court]]. Era una dei clienti
+del suo Mestiere Bizzarro.
+
+Eravamo ancora storditi quando bevemmo, tra un fragore di bicchieri,
+alla salute della nuova magistratura di Basil. Avevamo soltanto un confuso senso
+che ogni cosa fosse stata rimessa a posto, il senso che gli uomini avranno quando
+giungono al cospetto di Dio. Udimmo fiocamente Basil dire:
+
+«Il signor P. G. Northover spiegherà ora l'Agenzia dell'Avventura e del [[works/romance-(poe)|Romance]] Romanzesco.»
+
+E udimmo ugualmente fiocamente Northover cominciare la dichiarazione che aveva
+fatto tempo addietro al maggiore Brown. Così la nostra [[forms/epic|epopea]] terminò dove era cominciata,
+come un vero ciclo.
+
+FINE
+
 
 
 <span class="atom-split" data-atom="story_01_chapter_1--part_01" data-title="The Club of Queer Trades — Chapter 1 (part 1)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="motif/childhood,motif/dust,motif/fire,motif/nature,motif/ship,motif/soul,motif/time,concept/body,concept/grotesque,concept/hope,concept/imprisonment,concept/melancholy,concept/nature,concept/vanity,histref/america,setting/america,setting/court,setting/london,setting/ship"></span>

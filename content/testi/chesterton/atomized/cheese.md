@@ -123,6 +123,43 @@ for this huge and unparalleled modern wrong.
 _________________________________________________________________
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Formaggio
+
+di G.K. Chesterton
+
+Pubblicato in ‘Alarms and Discursions' (1910)
+_________________________________________________________________
+
+La mia prossima opera in cinque volumi, ‘La trascuratezza del Formaggio nella letteratura europea', è un lavoro di dettaglio tanto senza precedenti e laborioso che è dubbio se vivrò abbastanza per portarlo a termine. Qualche traboccamento da una simile fonte d'informazione può dunque essere concesso a irrorare queste pagine. Non so ancora spiegare del tutto la trascuratezza cui mi riferisco. I poeti sono stati misteriosamente silenziosi sul tema del formaggio. Virgilio, se ben ricordo, vi accenna parecchie volte, ma con troppa romana compostezza. Non si lascia andare sul formaggio. L'unico altro poeta che mi venga in mente ora e che paia aver avuto qualche sensibilità in proposito fu l'anonimo autore della filastrocca che dice: ‘Se tutti gli alberi fossero pane e formaggio' — che è davvero una ricca e gigantesca visione della più alta ghiottoneria. Se tutti gli alberi fossero pane e formaggio, ci sarebbe un notevole disboscamento in qualunque parte dell'Inghilterra dove abitassi. Boschi selvaggi e sconfinati vacillerebbero e svanirebbero davanti a me con la stessa rapidità con cui corsero dietro a Orfeo. Eccetto Virgilio e questo anonimo rimatore, non ricordo alcun verso sul formaggio. Eppure esso possiede ogni qualità che richiediamo in una poesia sublime. È una parola breve e forte; rima con ‘brezza' e ‘mari' (punto essenziale); che sia enfatica nel suono è ammesso perfino dalla civiltà delle città moderne. Poiché i loro cittadini, senza altra apparente intenzione che l'enfasi, diranno spesso ‘Cheese it!' o persino ‘Quite the cheese.' La sostanza stessa è immaginifica. È antica — talvolta nel caso individuale, sempre nel tipo e nella consuetudine. È semplice, essendo direttamente derivata dal latte, che è una delle bevande ancestrali, da non corrompere alla leggera con l'[[motifs/water|acqua]] di soda. Sapete, lo [[concepts/hope|spero]] (benché io stesso ci abbia pensato solo ora), che i quattro fiumi dell'Eden erano latte, [[motifs/water|acqua]], vino e birra. Le acque gassate comparvero soltanto dopo la Caduta.
+
+Ma il formaggio possiede un'altra qualità, che è anche l'[[motifs/soul|anima]] stessa del canto. Un tempo, nel tentativo di tenere conferenze in più luoghi contemporaneamente, feci un eccentrico [[motifs/journey|viaggio]] attraverso l'Inghilterra, un [[motifs/journey|viaggio]] di forma tanto irregolare e persino illogica da rendere necessario che pranzassi per quattro giorni di seguito in quattro locande sul ciglio della strada, in quattro contee diverse. In ogni locanda non avevano che pane e formaggio; né riesco a immaginare perché un uomo dovrebbe volere più di pane e formaggio, se può averne a sufficienza. In ogni locanda il formaggio era buono; e in ogni locanda era diverso. C'era un nobile formaggio di Wensleydale nello Yorkshire, un formaggio Cheshire nel Cheshire, e così via. Ora, è proprio qui che la vera civiltà poetica differisce da quella civiltà meschina e meccanica che ci tiene tutti in schiavitù. Le cattive consuetudini sono universali e rigide, come il militarismo moderno. Le buone consuetudini sono universali e varie, come la cavalleria innata e l'[[concepts/self|auto]]difesa. Sia la buona sia la cattiva civiltà ci coprono come un baldacchino, e ci proteggono da tutto ciò che sta fuori. Ma una buona civiltà si distende su di noi liberamente come un albero, variando e cedevole perché è viva. Una cattiva civiltà si erge e sporge sopra di noi come un ombrello — artificiale, matematico nella forma; non soltanto universale, ma uniforme. Così è per il contrasto tra le sostanze che variano e le sostanze che sono uguali ovunque penetrino. Per saggia condanna del cielo agli uomini fu comandato di mangiare formaggio, ma non lo stesso formaggio. Essendo davvero universale, varia di valle in valle. Ma se, poniamo, paragoniamo il formaggio al sapone (sostanza assai inferiore), vedremo che il sapone tende sempre più a essere semplicemente il Sapone di Smith o il Sapone di Brown, spedito automaticamente in tutto il mondo. Se i Pellirosse hanno il sapone, è il Sapone di Smith. Se il Gran Lama ha il sapone, è il Sapone di Brown. Non c'è nulla di sottilmente e stranamente buddhista, nulla di teneramente tibetano, nel suo sapone. Immagino che il Gran Lama non mangi formaggio (non ne è degno), ma se lo fa è probabilmente un formaggio locale, che ha qualche reale relazione con la sua vita e la sua visione. Fiammiferi di sicurezza, cibi in scatola, medicine brevettate sono spediti in tutto il mondo; ma non sono prodotti in tutto il mondo. Perciò in essi vi è una mera morta [[concepts/identity|identità]], mai quel morbido gioco di variazione che esiste nelle cose prodotte ovunque dal suolo, nel latte delle vacche, o nei frutti del frutteto. Puoi ottenere un whisky e soda in ogni avamposto dell'Impero: ecco perché tanti costruttori d'Impero impazziscono. Ma non stai gustando né toccando alcun ambiente, come nel sidro del Devonshire o nell'uva del Reno. Non ti stai avvicinando alla [[concepts/nature|Natura]] in una delle sue miriadi di sfumature d'umore, come nel sacro atto di mangiare il formaggio.
+
+Compiuto il mio pellegrinaggio nelle quattro osterie lungo la strada, raggiunsi
+una delle grandi città del nord, e là mi diressi, con gran
+rapidità e completa incoerenza, verso un ampio ed elaborato ristorante,
+dove sapevo di poter avere molte cose oltre a pane e formaggio.
+Potevo avere anche quello, comunque; o almeno mi aspettavo di averlo; ma
+fui bruscamente ricordato che ero entrato a Babilonia, e mi ero lasciato l'Inghilterra alle spalle.
+Il cameriere mi portò formaggio, sì, ma formaggio tagliato in pezzetti
+spregevolmente piccoli; e questo è il fatto tremendo: invece del pane cristiano,
+mi portò dei biscotti.  Biscotti—a uno che aveva mangiato il formaggio
+di quattro grandi campagne!  Biscotti—a uno che aveva provato di nuovo per
+sé stesso la santità dell'antico connubio tra formaggio e pane!
+Mi rivolsi al cameriere in termini caldi e commossi.  Gli chiesi chi
+fosse lui per separare coloro che l'Umanità aveva unito.
+Gli chiesi se non sentisse, da [[archetypes/artist|artista]], che una sostanza solida ma cedevole
+come il formaggio andava naturalmente con una sostanza solida e cedevole
+come il pane; mangiarlo sui biscotti è come mangiarlo sull'ardesia.
+Gli chiesi se, quando diceva le sue preghiere, fosse tanto altezzoso da
+pregare per i suoi biscotti quotidiani.  Mi diede a intendere in generale che
+si limitava a obbedire a un'usanza della Società Moderna.  Ho perciò deciso
+di alzare la voce, non contro il cameriere, ma contro la Società Moderna,
+per questo enorme e ineguagliato torto moderno.
+
+_________________________________________________________________
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="cheese (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/journey,motif/nature,motif/soul,motif/water,concept/hope,concept/identity,concept/nature,concept/self"></span>

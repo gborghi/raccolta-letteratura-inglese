@@ -61,7 +61,7 @@ alla donna che tu non fosti mai--
 o nulla di più vicino di tutto ciò che è,  
 in [[works/nevercometrue-(chesterton)|Nevercometrue]] fatto vero.  
 
-G.K. Chesterton
+G.K. Chesterton  
 
 [Pubblicato in G.K.'s Weekly, 28 marzo 1925]
 

@@ -46496,6 +46496,71 @@ as a piece of cunning mechanism, and yielding no one throb of [[concepts/hope|ho
 [[concepts/fear|fear]], or [[motifs/love|love]], or care, for any living thing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Rimuginare non serve a nulla, signora», disse Ralph. «Di tutte le missioni inutili, mandare una lacrima a cercare un giorno che è passato è la più inutile.»
+
+'È così,' singhiozzò la signora Nickleby. 'È così.'
+
+«Poiché sente così vivamente, nel suo portafoglio e nella sua persona, le conseguenze della disattenzione agli affari, signora», disse Ralph, «sono sicuro che saprà far comprendere ai suoi figli la necessità di dedicarsi agli affari fin da giovani.»
+
+«Naturalmente devo vederlo», rispose la signora Nickleby. «Triste esperienza, sapete, cognato. -- Kate, mia cara, scrivilo nella prossima lettera a Nicholas, o ricordami di farlo se scrivo io.»
+
+Ralph fece una pausa per qualche istante, e vedendo che aveva ormai reso abbastanza certa la madre, nel caso la figlia avesse obiettato alla sua proposta, continuò dicendo:
+
+«La situazione che ho cercato di procurarmi, signora, è
+da--da una modista e sarta, insomma.»
+
+«Una modista!» esclamò la signora Nickleby.
+
+«Una modista e sarta, signora», rispose Ralph. «Le sarte a [[settings/london|Londra]], come non ho bisogno di ricordarle, signora, che conosce così [[motifs/well|bene]] tutte le questioni della vita quotidiana, fanno grandi fortune, tengono carrozze e diventano persone di grande ricchezza e fortuna.»
+
+L’idea che le parole “modista e sarta” evocarono per prima nella mente della signora Nickleby era legata a certi cestini di vimini fodera di tela cerata nera, che ricordava di aver visto trasportare avanti e indietro per le strade; ma, man mano che Ralph continuava, questi scomparvero e furono sostituiti da visioni di grandi case nell’ovest di Londra, di eleganti carrozze private e di un libro di banca; tutte immagini che si susseguirono con tale rapidità che, non appena ebbe finito di parlare, lei annuì e disse “Molto vero”, con grande apparenza di soddisfazione.
+
+«Quello che dice tuo zio è molto vero, Kate, mia cara», disse la signora Nickleby.
+«Ricordo che quando tuo povero papà e io venimmo in città dopo esserci sposati, una giovane signora mi portò [[motifs/home|a casa]] un cappellino da cottage di legno, con bordi bianchi e verdi, e fodera verde persiana, nel suo stesso carro, che arrivò alla porta al galoppo;--almeno, non sono del tutto certa se fosse il suo stesso carro o un carro pubblico, ma ricordo molto [[motifs/well|bene]] che il [[motifs/horse|cavallo]] cadde morto mentre stava girando, e che tuo povero papà disse che non aveva avuto grano per due settimane.»
+
+Questa aneddoto, così sorprendentemente esemplificativo dell'opulenza delle modiste,
+non fu accolto con grande dimostrazione di sentimento, in quanto
+Kate abbassò la testa mentre veniva raccontato, e Ralph manifestò dei
+sintomi molto comprensibili di estrema impazienza.
+
+«Il nome della signora», disse Ralph, interrompendo in fretta, «è
+Mantalini, Madame Mantalini. La conosco. Abita vicino a Cavendish
+Square. Se vostra figlia è disposta a provare per l'incarico, la
+porterò lì immediatamente.»
+
+«Non hai nulla da dire a tuo zio, mio [[motifs/love|amore]]?», chiese la signora Nickleby.
+
+«Molto», rispose Kate; «ma non ora. Preferisco parlargli
+quando siamo sole;--gli risparmierà del [[motifs/time|tempo]] se lo ringrazierò e gli dirò
+ciò che voglio dirgli mentre camminiamo.»
+
+Kate, con queste parole, si affrettò a uscire per nascondere le tracce di emozione che le scorrevano lungo il viso e prepararsi per la passeggiata, mentre la signora Nickleby intratteneva il cognato raccontandogli, tra molte [[motifs/tears|lacrime]], le dimensioni esatte di un pianoforte a cassetto in palissandro che avevano posseduto ai tempi della loro ricchezza, insieme a una minuziosa descrizione di otto poltrone da salotto con gambe intagliate e cuscini in chintz verde in tinta con le tende, che erano costate due sterline e quindici scellini a testa e che erano state vendute all'asta per quasi niente.
+
+Questi ricordi furono alla fine interrotti dal ritorno di Kate in abito da passeggio, quando Ralph, che si era agitato e infuriato durante tutto il [[motifs/time|tempo]] della sua assenza, non perse [[motifs/time|tempo]] e usò pochissima cerimonia nel scendere in strada.
+
+«Ora», disse, prendendole il braccio, «cammina più veloce che puoi, e ti abituerai al passo che dovrai tenere ogni mattina per andare al lavoro.»
+Detto ciò, condusse Kate a buon passo verso Cavendish Square.
+
+«Sono molto obbligata, zio», disse la giovane signora, dopo che erano
+rimasti in [[motifs/silence|silenzio]] per un po' di [[motifs/time|tempo]]; «molto».
+
+«Sono contento di sentirlo», disse Ralph. «[[concepts/hope|Spero]] che tu faccia il tuo dovere.»
+
+“Proverò a compiacerla, zio”, rispose Kate: “in effetti io.
+
+"Non iniziare a piangere," ringhiò Ralph; "Odio le lacrime."
+
+«È davvero molto sciocco, lo so, zio», cominciò la povera Kate.
+
+«È così», rispose Ralph, interrompendola bruscamente, «e molto affettato, per giunta.
+Non voglio più vederlo.»
+
+Forse questo non era il modo migliore per asciugare le [[motifs/tears|lacrime]] di una giovane e sensibile fanciulla, sul punto di fare la sua prima entrata in una scena di vita completamente nuova, tra estranei freddi e indifferenti; ma ebbe comunque il suo effetto. Kate arrossì profondamente, respirò rapidamente per qualche istante, e poi proseguì con un passo più fermo e deciso.
+
+Era un curioso contrasto vedere come la timida ragazza di campagna si ritraesse tra la folla che si affrettava su e giù per le strade, cedendo il passo alla massa di persone e aggrappandosi strettamente a Ralph come se temesse di perderlo nella calca; e come l'uomo d'affari dal volto severo e duro andasse avanti ostinatamente, spingendo da parte i passanti, e di tanto in tanto scambiando un saluto brusco con qualche conoscenza di passaggio, che si voltava a guardare indietro la sua graziosa accompagnatrice, con sguardi espressivi di sorpresa, e sembrava [[concepts/wonder|meravigliarsi]] della compagnia così sproporzionata. Ma, sarebbe stato un contrasto ancora più strano, poter leggere i cuori che battevano fianco a fianco; scoprire la dolce innocenza dell'uno, e la ruvida malvagità dell'altro; ascoltare i pensieri ingenui della ragazza affettuosa, e stupirsi che, tra tutti gli astuti piani e i calcoli del vecchio, non ci fosse una sola parola o figura che denotasse pensiero di [[motifs/death|morte]] o della [[motifs/grave|tomba]]. Ma così era; e ancora più strano -- sebbene questa sia una cosa di ogni giorno -- il caldo cuore giovane palpitava con mille ansie e apprensioni, mentre quello del vecchio uomo di mondo giaceva arrugginito nella sua cella, battendo solo come un pezzo di meccanismo astuto, e non dando nessun battito di [[concepts/hope|speranza]], o di [[concepts/fear|paura]], o di [[motifs/love|amore]], o di cura, per alcuna cosa vivente.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_04" data-title="Nicholas Nickleby — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/night,motif/time,concept/body,concept/hope,concept/imagination,character/kate_nickleby,character/nicholas_nickleby,character/ralph_nickleby"></span>
@@ -55649,6 +55714,86 @@ distress--staggered while he looked, and went back into his house, as a
 man who had seen a spirit from some world beyond the [[motifs/grave|grave]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Mi conoscete, vecchio pazzo?» chiese Sir Mulberry.
+
+«[[motifs/well|Bene]],» disse Ralph. Il vagabondo alla moda per un momento si
+intimidì sotto lo sguardo fermo del peccatore più anziano e si diresse
+verso la porta, borbottando mentre andava.
+
+«Volevate il lord, vero?» disse, fermandosi di colpo quando raggiunse la porta, come se una nuova luce gli fosse apparsa, e affrontando di nuovo Ralph. «Maledizione, ero di intralcio, vero?»
+
+Ralph sorrise di nuovo, ma non rispose.
+
+«Chi ve lo ha portato per primo?» continuò Sir Mulberry; «e come, senza
+di me, avreste mai potuto catturarlo nella vostra rete come avete fatto?»
+
+«La rete è grande e piuttosto piena», disse Ralph. «Fate attenzione che
+non soffochi nessuno tra le maglie.»
+
+«Voi venderebbe la vostra carne e il [[motifs/blood|sangue]] per denaro; voi stesso, se non avete già stretto un patto col diavolo», ribatté l'altro. «Volete forse farmi credere che la vostra graziosa nipote non sia stata portata qui come esca per il ragazzo ubriaco al piano di sotto?»
+
+Anche se questo rapido dialogo era condotto a bassa voce da entrambe le parti, Ralph si guardò involontariamente intorno per assicurarsi che Kate non si fosse spostata in modo da poterlo sentire. Il suo avversario vide il vantaggio che aveva ottenuto e lo sfruttò.
+
+«Volete dirmi», chiese di nuovo, «che non è così? Volete dire che se fosse stato lui a trovare la strada per venire qui invece di me, non sareste stato un po' più cieco, un po' più sordo, e un po' meno prospero, di quanto non siate stato? Dai, Nickleby, rispondetemi.»
+
+«Vi dico questo», rispose Ralph, «che se la portassi qui, come faccenda di lavoro.
+
+«Sì, questa è la parola», intervenne Sir Mulberry ridendo. «Ora vi state riprendendo.»
+
+«--Come faccenda d'affari», continuò Ralph, parlando lentamente e con fermezza,
+come un uomo che ha deciso di non dire altro, «perché pensavo che lei
+potesse fare qualche impressione sul giovane sciocco che avete preso in mano
+e che state aiutando a rovinare, sapevo -- conoscendolo -- che sarebbe
+passato molto tempo prima che lui oltraggiasse i sentimenti di quella ragazza, e che a meno che non offendesse per semplice presunzione e vuotezza, avrebbe, con un po' di gestione,
+rispettato il sesso e la condotta anche della nipote del suo usuraio. Ma se pensavo di attirarlo più dolcemente con questo stratagemma, non pensavo di sottoporre
+la ragazza alla licenziosità e alla brutalità di una mano così esperta come la vostra. E ora ci siamo capiti.»
+
+«Soprattutto perché non c'era nulla da guadagnarci, eh?» insinuò Sir Mulberry con sarcasmo.
+
+«Esattamente così», disse Ralph. Si era voltato e guardava da sopra la spalla mentre dava questa ultima risposta. Gli occhi dei due furfanti si incontrarono, con un'espressione come se ciascuno dei due farabutti sentisse che non poteva nascondersi all'altro; e Sir Mulberry Hawk si strinse nelle spalle e uscì lentamente.
+
+Il suo amico chiuse la porta e guardò inquieto verso il punto dove la nipote era ancora rimasta nella posizione in cui l'aveva lasciata. Si era lasciata cadere pesantemente sul divano, con la testa che penzolava sul cuscino e il viso nascosto tra le mani, e sembrava ancora piangere in un'agonia di vergogna e dolore.
+
+Ralph sarebbe entrato in qualsiasi [[concepts/poverty|casa]] di un debitore in povertà, e
+lo avrebbe indicato a un ufficiale giudiziario, anche se presente al [[motifs/death|letto]] di morte di un giovane [[archetypes/child|bambino]], senza il minimo riguardo, perché sarebbe stata una faccenda del tutto ordinaria, e l'uomo avrebbe commesso un reato contro il suo unico codice di moralità. Ma qui c'era una giovane ragazza, che non aveva fatto nulla di male se non quello di venire al mondo viva; che aveva pazientemente acconsentito a tutti i suoi desideri; che aveva fatto del suo meglio per compiacerlo - soprattutto, che non gli doveva denaro - e lui si sentiva a disagio e nervoso.
+
+Ralph prese una sedia a una certa distanza; poi, un'altra sedia un po' più vicina; poi, si avvicinò ancora un po'; poi, ancora più vicino, e infine si sedette sullo stesso divano, e posò la mano sul braccio di Kate.
+
+«Sst, mia cara!» disse, mentre lei lo ritirava indietro e i suoi singhiozzi scoppiavano di nuovo. «Sst, sst! Non pensarci ora, non pensarci.»
+
+«Oh, per pietà, lasciatemi andare [[motifs/home|a casa]]», gridò Kate. «Lasciatemi lasciare questa casa, e andare [[motifs/home|a casa]].»
+
+«Sì, sì», disse Ralph. «Lo farai. Ma devi asciugarti gli occhi prima,
+e riprenderti. Lascia che ti sollevi la testa. Ecco--ecco.»
+
+«Oh, zio!» esclamò Kate, stringendosi le mani. «Che cosa ho fatto--che cosa
+ho fatto--per cui tu dovresti sottopormi a questo? Se ti avessi offeso in
+pensiero, o parola, o atto, sarebbe stato per me molto crudele, e lo sarebbe
+per il [[motifs/memory|ricordo]] di una persona che tu avrai amato in qualche vecchio [[motifs/time|tempo]]; ma--»
+
+«Ascoltami solo per un momento», interruppe Ralph, seriamente allarmato
+dalla violenza delle sue emozioni. «Non sapevo che sarebbe stato così; era
+impossibile per me prevederlo. Ho fatto tutto il possibile. --Vieni, facciamo due passi.
+Sei svenuta per l'aria viziata della stanza e il calore di queste lampade. Starai meglio ora, se fai il minimo sforzo.»
+
+«Farò qualsiasi cosa», rispose Kate, «se solo mi rimanderai [[motifs/home|a casa]].»
+
+«[[motifs/well|Bene]], [[motifs/well|bene]], lo farò», disse Ralph; «ma devi ritrovare il tuo aspetto;
+perché quello che hai ora li spaventerà, e nessuno deve sapere di questa cosa
+se non tu e io. Ora camminiamo nella direzione opposta. Ecco. Anche
+ora hai un aspetto migliore».
+
+Con incoraggiamenti del genere, [[characters/ralph-nickleby|Ralph Nickleby]] camminava avanti e indietro,
+con la nipote appoggiata al suo braccio; tremando effettivamente al suo tocco.
+
+Nello stesso modo, quando giudicò prudente permetterle di andarsene, la sostenne mentre scendeva le scale, dopo averle sistemato lo scialle e averle reso quei piccoli servizi, probabilmente per la prima [[motifs/time|volta]] della sua vita. Attraverso l'atrio e giù per i gradini, Ralph la accompagnò anche lui; e non ritirò la mano finché non fu seduta nella carrozza.
+
+Quando la porta del veicolo fu chiusa con violenza, un pettine cadde dai capelli di Kate, vicino ai piedi dello zio; e mentre lo raccoglieva e glielo restituiva, la luce di una lanterna vicina si rifletté sul suo viso. La ciocca di capelli sfuggita e arricciata liberamente sulla fronte, le tracce di [[motifs/tears|lacrime]] ancora appena asciutte, la guancia arrossata, lo sguardo di dolore, tutto accese una serie di ricordi dormienti nel petto del vecchio; e il volto di suo fratello defunto gli apparve davanti, con lo stesso sguardo che aveva in un'occasione di dolore infantile, di cui ogni minimo particolare gli balenò nella mente, con la chiarezza di una scena accaduta ieri.
+
+[[characters/ralph-nickleby|Ralph Nickleby]], che era insensibile a ogni appello di [[motifs/blood|famiglia]] e parentela, che era indurito contro ogni racconto di dolore e angoscia, vacillò mentre guardava e tornò nella sua casa, come un uomo che avesse visto uno spirito proveniente da qualche mondo oltre la [[motifs/grave|tomba]].
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_01" data-title="Nicholas Nickleby — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/artist,motif/clock,motif/cross,motif/home,motif/night,motif/soul,motif/well,concept/revenge,concept/solitude,concept/truth,concept/wonder,setting/london,character/nicholas_nickleby"></span>
@@ -58305,6 +58450,75 @@ Portsmouth on the morrow, whither the father and sons were proceeding
 speculation), after fulfilling an engagement at Guildford with the
 greatest applause.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il locandiere si precipitò nel salotto, senza aspettare ulteriori
+permessi, né Nicholas si sforzò di fermarlo: considerando saggiamente
+che la cena, in quelle circostanze, era una faccenda troppo seria per
+essere presa alla leggera. Non passò molto tempo prima che l'oste
+tornasse, in uno stato di grande eccitazione.
+
+«Va bene», disse a bassa voce. «Sapevo che l'avrebbe fatto. Vedrete
+qualcosa che vale davvero la pena di vedere, là dentro. Ecco, come se la stanno cavando!»
+
+Non c'era [[motifs/time|tempo]] per chiedere a cosa si riferisse questo esclamazione,
+che fu pronunciata in tono estasiato, perché lui aveva già spalancato
+la porta della stanza, nella quale Nicholas, seguito da [[characters/smike|Smike]] con
+il fagotto sulla spalla (lo portava con sé con la stessa vigilanza
+con cui avrebbe portato un sacco d'oro), si diresse subito.
+
+Nicholas era preparato a qualcosa di strano, ma non a qualcosa di così
+strano come la scena che si trovò davanti. All'estremità superiore della
+stanza, c'erano un paio di ragazzi, uno molto alto e l'altro molto basso,
+entrambi vestiti da marinai, o almeno da marinai teatrali, con cinture,
+fibbie, codini e pistole complete, impegnati in quello che è chiamato
+nei manifesti un combattimento terrificante, con due di quelle spade
+corte e larghe con elsa a cesto che sono comunemente usate nei nostri
+teatri minori. Il ragazzo basso aveva ottenuto un grande vantaggio sul
+ragazzo alto, che era stato ridotto a una situazione mortale, e tutti e
+due erano sorvegliati da un uomo grande e pesante, appollaiato contro
+l'angolo di un tavolo, che li esortava enfaticamente a far uscire un
+po' più di [[motifs/fire|fuoco]] dalle spade, e non potevano non far crollare la
+platea, proprio nella prima [[motifs/night|serata]].
+
+«Signor [[characters/vincent-crummles|Vincent Crummles]]», disse il locandiere con un'aria di grande deferenza, «questo è il giovane signore».
+
+Il signor [[characters/vincent-crummles|Vincent Crummles]] accolse Nicholas con un inchino del capo, qualcosa tra la cortesia di un imperatore romano e il cenno di un compagno di bevute; e ordinò al locandiere di chiudere la porta e andarsene.
+
+«C'è un quadro», disse il signor Crummles, facendo cenno a Nicholas di non avvicinarsi e rovinarlo. «Il piccolo ce l'ha; se il grande non si arrende, in tre secondi è un uomo morto. Fatelo di nuovo, ragazzi.»
+
+I due combattenti si rimisero al lavoro e si misero a menare fendenti finché le spade emisero una pioggia di scintille: a grande soddisfazione del signor Crummles, che sembrava considerare questo un punto davvero molto importante. L'assalto iniziò con circa duecento fendenti amministrati alternativamente dal marinaio basso e da quello alto, senza produrre alcun risultato particolare, finché il marinaio basso non fu abbattuto su un ginocchio; ma questo non era nulla per lui, perché si muoveva intorno su un ginocchio con l'aiuto della sua mano sinistra, e combatteva con disperazione finché il marinaio alto non gli fece volare via la spada di mano. Ora, la conclusione era che il marinaio basso, ridotto a questa estremità, si sarebbe arreso subito e chiesto quartiere, ma invece, all'improvviso, estrasse una grande [[characters/pistol|pistola]] dalla cintura e la puntò sul viso del marinaio alto, che ne fu così sopraffatto (non se lo aspettava) da lasciare che il marinaio basso raccogliesse la sua spada e ricominciasse. Poi, i fendenti ricominciarono, e furono amministrati una varietà di fendenti fantasiosi da entrambe le parti; come fendenti dati con la mano sinistra, e sotto la gamba, e sopra la spalla destra, e sopra quella sinistra; e quando il marinaio basso sferrò un vigoroso colpo alle gambe del marinaio alto, che le avrebbe rasate via del tutto se avesse avuto effetto, il marinaio alto saltò sopra la spada del marinaio basso, per cui, per bilanciare la faccenda e renderla equa, il marinaio alto amministrò lo stesso colpo, e il marinaio basso saltò sopra la SUA spada. Dopo di che, ci fu un bel po' di schivare e di tirare su gli inesprimibili in assenza di bretelle, e poi il marinaio basso (che era chiaramente il personaggio morale, perché aveva sempre la meglio) fece una violenta dimostrazione e si avvinghiò al marinaio alto, che, dopo alcuni inutili tentativi, cadde e morì in grande agonia mentre il marinaio basso gli metteva il piede sul petto e gli scavava un buco da parte a parte.
+
+«Sarà un [[topoi/double|bis]] DOPPIO se vi comportate bene, ragazzi», disse il signor Crummles.
+«Fareste meglio a riprendere il [[motifs/wind|fiato]] adesso e cambiare i vestiti.»
+
+Dopo aver indirizzato queste parole ai combattenti, salutò Nicholas, che
+notò quindi che il volto del signor Crummles era in proporzione con le
+dimensioni del suo [[concepts/body|corpo]]; che aveva un labbro inferiore molto sporgente, una voce rauca, come
+se fosse abituato a gridare molto, e capelli neri molto corti, rasati quasi fino alla [[motifs/crown|cima]] della sua testa, per permettere (come
+scoprì in seguito) di indossare più facilmente parrucche di personaggio di qualsiasi
+forma o modello.
+
+«Che cosa ne pensava, signore?» domandò il signor Crummles.
+
+«Molto bene, davvero — ottimo», rispose Nicholas.
+
+«Non si vedono spesso dei ragazzi come quelli, credo», disse il signor Crummles.
+
+Nicholas acconsentì, osservando che se fossero stati un po' più adatti.
+
+«Pari!» esclamò il signor Crummles.
+
+«Voglio dire, se fossero un po' più della stessa taglia», spiegò Nicholas.
+
+«Dimensione!» ripeté il signor Crummles; «perché è proprio l'essenza del combattimento che ci debba essere un piede o due di distanza tra loro. Come si fa a suscitare le simpatie del pubblico in modo legittimo, se non c'è un uomo piccolo che si scontra con uno grande? -- a meno che non ci sia almeno cinque contro uno, e non abbiamo abbastanza mani per quella faccenda nella nostra compagnia.»
+
+"Capisco", rispose Nicholas. "Chiedo scusa. Non ci avevo pensato, confesso."
+
+«È il punto principale», disse il signor Crummles. «Mi esibisco a Portsmouth dopodomani. Se andate là, date un'occhiata al teatro e vedrete come andrà.»
+
+Nicholas promise di farlo, se possibile, e avvicinando una sedia al [[motifs/fire|fuoco]], si mise subito a conversare con il direttore. Era molto loquace e comunicativo, stimolato forse non solo dal suo carattere naturale, ma anche dagli alcolici e [[motifs/water|acqua]] che sorseggiava abbondantemente, o dal tabacco da fiuto che prendeva in grandi quantità da un pezzo di carta bianco-marrone nella tasca del panciotto. Si aprì sui suoi affari senza la minima riserva, e discettò a lungo sui meriti della sua compagnia e sulle doti della sua famiglia; di entrambi, i due ragazzi con la spada larga formavano una parte onorevole. Sembrava che ci sarebbe stata una riunione delle diverse signore e signori a Portsmouth il giorno dopo, dove padre e figli si stavano recando (non per la stagione regolare, ma nel corso di una speculazione errante), dopo aver adempiuto a un impegno a Guildford con grande applauso.
 
 
 
@@ -80755,6 +80969,60 @@ disposition to join him.
 
 ‘Have you done enjoying yourself, sir?’ said Ralph, at length.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Sono davvero molto obbligata, ne sono certa, signora», rispose la signora Browdie, con gratitudine. «Sono quasi le undici, John. Temo che stiamo tenendoti sveglio molto tardi, signora.»
+
+«Tardi!» esclamò la signora Nickleby, con una risatina acuta e sottile, e un piccolo colpo di tosse alla fine, come un'espressione di ammirazione. «Per noi è davvero presto. Eravamo abituati a orari ben diversi! Le dodici, l'una, le due, le tre del [[motifs/clock|pomeriggio]] non erano nulla per noi. Ballo, cene, partite a carte! Mai ci furono tali libertini come le persone che vivevano nei dintorni di dove abitavamo. Spesso penso, davvero, che sia sorprendente come siamo riusciti a sopportare tutto ciò, e questo è proprio il male di avere una grande cerchia di conoscenze e di essere molto ricercati, cosa che consiglio a tutti i giovani sposi di resistere con fermezza; anche se, naturalmente, è perfettamente chiaro, e anche una cosa molto felice, a mio avviso, che pochissimi giovani sposi possano essere esposti a tali tentazioni. C'era una famiglia in particolare, che viveva a circa un miglio da noi -- non proprio lungo la [[motifs/road|strada]], ma svoltando bruscamente a sinistra al pedaggio dove la posta di Plymouth investì il asino -- che era gente davvero straordinaria per quanto riguarda l'organizzazione di feste stravaganti, con [[motifs/flowers|fiori]] artificiali e champagne, e lampade variopinte, e, in breve, ogni delizia di cibo e bevande che il più stravagante epicureo potesse desiderare. Non credo che ci siano mai state persone come quei Peltiroguses. Ti ricordi i Peltiroguses, Kate?»
+
+Kate vide che, per il benessere e il comfort degli ospiti, era giunto il [[motifs/time|momento]] di fermare questa valanga di ricordi, così rispose che aveva un ricordo molto vivido e distinto dei Peltiroguses; e poi disse che il signor Browdie aveva promesso a metà, all'inizio della serata, che avrebbe cantato una canzone dello Yorkshire, e che era molto impaziente che mantenesse la promessa, perché era sicura che avrebbe procurato a sua madre più divertimento e piacere di quanto fosse possibile esprimere.
+
+La signora Nickleby confermò la figlia con la massima grazia possibile — poiché anche in questo c'era un'aria di protezione e una specie di implicazione che aveva un gusto raffinato in tali questioni e fosse una specie di critica — John Browdie procedette a considerare le parole di una canzonetta del nord e a prendere il ricordo di sua moglie riguardo la stessa. Fatto ciò, fece vari movimenti goffi sulla sedia, e scegliendo una particolare mosca sul soffitto tra le altre mosche lì addormentate, fissò gli occhi su di lei, e cominciò a ruggire un sentimento mite (supposto essere espresso da un giovane gentile che languiva per [[motifs/love|amore]] e [[concepts/despair|disperazione]]) con una voce di tuono.
+
+Alla fine del primo verso, come se qualcuno all'esterno avesse aspettato fino a quel momento per rendersi udibile, si udì un forte e violento bussare alla porta d'ingresso; così forte e così violento, infatti, che le signore sobbalzarono all'unisono e John Browdie si fermò.
+
+«Deve essere un errore», disse Nicholas, con noncuranza. «Non conosciamo nessuno che potrebbe venire qui a quest'ora».
+
+La signora Nickleby, tuttavia, immaginava che forse la contabilità era
+bruciata, o forse "i signori Cheerybles" avevano mandato a prendere Nicholas
+come socio (il che certamente sembrava molto probabile a quell'[[motifs/time|ora]] di [[motifs/night|notte]]), o forse il signor Linkinwater era scappato con la proprietà, o forse la signorina La Creevy era stata ingannata, o forse.
+
+Ma un'esclamazione affrettata di Kate la fermò bruscamente nelle sue
+congetture, e [[characters/ralph-nickleby|Ralph Nickleby]] entrò nella stanza.
+
+«Resta», disse Ralph, mentre Nicholas [[motifs/rose|si alzava]], e Kate, facendosi strada verso di lui, si gettò sul suo braccio. «Prima che quel ragazzo dica una parola, ascoltami».
+
+Nicholas si morse il labbro e scosse la testa in modo minaccioso, ma
+per il momento sembrava incapace di articolare una sillaba. Kate si strinse
+più forte al suo braccio, [[characters/smike|Smike]] si ritirò dietro di loro, e John Browdie,
+che aveva sentito parlare di Ralph e sembrava non avere grandi difficoltà a
+riconoscerlo, si mise tra il vecchio e il suo giovane amico, come se avesse
+l'intenzione di impedire a entrambi di fare un passo avanti.
+
+'Ascoltate me, dico io', disse Ralph, 'e non lui'.
+
+«Dì quello che hai da dire, signore», ribatté John; «e bada di non suscitare sangue caldo che faresti meglio a cercare di calmare.»
+
+«Dovrei riconoscere VOI», disse Ralph, «dalla vostra lingua; e LUI» (indicando [[characters/smike|Smike]]) «dai suoi tratti.»
+
+«Non parlargli», disse Nicholas, riprendendo la voce. «Non lo tollero. Non voglio sentirlo. Non conosco quell'uomo. Non posso respirare l'aria che lui corrompe. La sua presenza è un insulto per mia sorella. È una vergogna vederlo. Non lo sopporterò».
+
+«Fermati!» gridò John, appoggiando la sua pesante mano sul petto.
+
+«Allora che se ne vada immediatamente», disse Nicholas, lottando. «Non
+ho intenzione di mettergli le mani addosso, ma deve andarsene. Non lo voglio
+qui. John, John Browdie, questa è la mia casa, sono un [[archetypes/child|bambino]]? Se rimane
+lì», gridò Nicholas, ardendo di rabbia, «guardando così tranquillamente coloro che conoscono il suo cuore nero e vile, mi farà impazzire.»
+
+A tutte queste esclamazioni John Browdie non rispose parola, ma
+tenne saldamente Nicholas; e quando questi tornò a tacere, parlò.
+
+«C'è più da dire e da sentire di quanto tu creda», disse John. «Ti dico che ho già fiutato qualcosa. Che cos'è quell'[[archetypes/shadow|ombra]] fuori dalla porta? Ora, maestro, mostrati; non aver paura. Ora, vecchio signore, facciamo uscire il maestro, vieni».
+
+Udita questa esortazione, il signor Squeers, che era rimasto in attesa nel corridoio fino a quando non fosse stato opportuno per lui entrare e potersi presentare con effetto, si sentì costretto a presentarsi in un modo piuttosto poco dignitoso e furtivo; a questo John Browdie rise con tale piacere acuto e sincero, che anche Kate, in mezzo a tutto il [[motifs/pain|dolore]], l'ansia e la sorpresa della scena, e sebbene le [[motifs/tears|lacrime]] le fossero agli occhi, provò la voglia di unirsi a lui.
+
+«Avete finito di divertirvi, signore?» disse Ralph, alla fine.
 
 
 

@@ -863,9 +863,859 @@ The Tempest
 | *(didascalia)* | Exeunt all but Prospero |
 | PROSPERO | Epilogue |
 | PROSPERO | Now my charms are all o’erthrown,<br>And what strength I have’s mine own,<br>Which is most faint. Now ’tis true<br>I must be here confined by you<br>Or sent to Naples. Let me not,<br>Since I have my dukedom got,<br>And pardoned the deceiver, dwell<br>In this bare island by your spell;<br>But release me from my bands<br>With the help of your good hands.<br>Gentle breath of yours my sails<br>Must fill, or else my project fails,<br>Which was to please. Now I want<br>Spirits to enforce, art to enchant;<br>And my ending is [[concepts/despair\|despair]]<br>Unless I be relieved by [[motifs/prayer\|prayer]],<br>Which pierces so, that it assaults<br>[[concepts/mercy\|Mercy]] itself, and frees all faults.<br>As you from crimes would pardoned be,<br>Let your indulgence set me free.<br>He awaits applause, then exit |
-| CARDENIO | A BRIEF ACCOUNT |
-| MANY | plays acted in Shakespeare’s [[motifs/time\|time]] have failed to survive; they may easily include some that he wrote. The mystery of [[motifs/love\|Love]]’s Labour’s Won is discussed elsewhere (pp. xxxvii, 337). Certain manuscript records of the seventeenth century suggest that at least one other play in which he had a hand may have disappeared. On 9 September 1653 the [[settings/london\|London]] publisher Humphrey Moseley entered in the Stationers’ Register a batch of plays including ‘The [[concepts/history\|History]] of Cardenio, by Mr Fletcher and Shakespeare’. Cardenio is a character in Part One of Cervantes’ [[characters/don-quixote\|Don Quixote]], published in English [[forms/translation\|translation]] in 1612. Two earlier allusions suggest that the [[archetypes/king\|King]]’s Men owned a play on this subject at the [[motifs/time\|time]] that Shakespeare was collaborating with John Fletcher (1579-1625). On 20 May 1613 the Privy Council authorized payment of £20 to John Heminges, as leader of the [[archetypes/king\|King]]’s Men, for the presentation at [[settings/court\|court]] of six plays, one listed as ‘Cardenno’. On 9 July of the same year Heminges received £6 13s. 4d. for his company’s performance of a play ‘called Cardenna’ before the ambassador of the Duke of Savoy.<br>No more information about this play survives from the seventeenth century, but in 1728 Lewis Theobald published a play based on the story of Cardenio and called [[topoi/double\|Double]] Falsehood, or The Distrest Lovers, which he claimed to have ‘revised and adapted’ from one ‘written originally by W. Shakespeare’. It had been successfully produced at Drury Lane on 13 December 1727, and was given thirteen times up to 1 May 1728. Other performances are recorded in 1740, 1741, 1767 (when it was reprinted), 1770, and 1847. In 1770 a newspaper stated that ‘the original manuscript’ was ‘treasured up in the Museum of Covent [[motifs/garden\|Garden]] Playhouse’; [[motifs/fire\|fire]] destroyed the theatre, including its library, in 1808.<br>Theobald claimed to own several manuscripts of an original play by Shakespeare, and remarked that some of his contemporaries thought the style was Fletcher’s, not Shakespeare’s. When he himself came to edit Shakespeare’s plays he did not include either [[topoi/double\|Double]] Falsehood or the play on which he claimed to have based it; he simply edited the plays of the First Folio, not adding either [[characters/pericles\|Pericles]] or The Two Noble Kinsmen, though he believed they were partly by Shakespeare. It is quite possible that [[topoi/double\|Double]] Falsehood is based (however distantly) on a play of Shakespeare’s [[motifs/time\|time]]; if so, the play is likely to have been the one performed by the [[archetypes/king\|King]]’s Men and ascribed by Moseley in 1653 to Fletcher and Shakespeare.<br>[[topoi/double\|Double]] Falsehood is a [[forms/tragicomedy\|tragicomedy]]; the characters’ names differ from those in [[characters/don-quixote\|Don Quixote]], and the story is varied. Henriquez rapes Violante, then falls in [[motifs/love\|love]] with Leonora, loved by his friend Julio. Her parents agree to the [[motifs/marriage\|marriage]], but Julio interrupts the ceremony. Leonora (who had intended to kill herself) swoons and later takes sanctuary in a nunnery. Julio goes mad with [[motifs/desire\|desire]] for vengeance on his false friend; and the wronged Violante, disguised as a boy, joins a group of shepherds, and is almost raped by one of them. Henriquez’s virtuous brother, Roderick, ignorant of his villainy, helps him to abduct Leonora. Leonora and Violante both denounce Henriquez to Roderick. Finally Henriquez repents and marries Violante, while Julio (now sane) marries Leonora.<br>Some of the motifs of [[topoi/double\|Double]] Falsehood, such as the disguised heroine wronged by her [[archetypes/lover\|lover]] and, particularly, the reuniting and [[concepts/reconciliation\|reconciliation]] of parents with children, recall Shakespeare’s late plays. But most of the dialogue seems un-Shakespearian. Though the play deserved its limited success, it is now no more than an interesting curiosity. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+LA TEMPESTA
+I [[archetypes/king|King]]’s Men rappresentarono La tempesta dinanzi al loro patrono, Giacomo I, a Whitehall il 1° novembre 1611. (La commedia fu scelta anche per una recita durante i festeggiamenti per il [[motifs/marriage|matrimonio]] della figlia di Giacomo, la principessa Elisabetta, con l’Elettore Palatino, nell’[[motifs/winter|inverno]] 1612-13.) Il dramma di Shakespeare si svolge su un’isola [[motifs/desert|deserta]] da qualche parte fra Tunisi e Napoli; egli ne trasse alcuni particolari dalle sue letture di letteratura di viaggio, fra cui i resoconti di una spedizione di nove navi che portava cinquecento coloni da Plymouth in Virginia, salpata nel maggio del 1609. Il 29 luglio la nave ammiraglia, la Sea-Adventure, fece naufragio a causa di una [[motifs/storm|tempesta]] sulla costa delle Bermude. La si credette perduta, ma il 23 maggio 1610 coloro che erano a bordo giunsero sani e salvi a Jamestown, in Virginia, avendo trovato rifugio sull’isola di Bermuda, dove poterono costruire le pinacce con cui portarono a termine il loro [[motifs/journey|viaggio]]. I resoconti della traversata giunsero presto in Inghilterra; l’ultimo in ordine di composizione che Shakespeare sembra aver conosciuto è una lettera di William Strachey, che si trovava sulla Sea-Adventure, datata 15 luglio 1610; benché non fosse pubblicata fino al 1625, circolava manoscritta. Sembra dunque chiaro che Shakespeare scrisse La tempesta nell’ultima parte del 1610 o nel 1611. Fu stampata per la prima volta nel Folio del 1623, dove è il dramma d’apertura.
+Benché altre letture di Shakespeare — fra cui sia la [[forms/translation|traduzione]] di [[characters/arthur|Arthur]] Golding sia l’originale ovidiano delle Metamorfosi (da presso riecheggiato nel congedo di Prospero dalla sua magia), la [[forms/translation|traduzione]] di John Florio dei saggi di Michel de Montaigne e (in modo meno puntuale ma non meno pervasivo) l’Eneide di Virgilio — abbiano certamente alimentato l’[[concepts/imagination|immaginazione]] di Shakespeare mentre scriveva La tempesta, l’intreccio principale sembra averlo ideato da sé. Molti dei suoi elementi si fondano sulla materia consueta della letteratura romanzesca: il naufragio lontano nel tempo, dopo un viaggio periglioso, di Prospero e di sua figlia [[characters/miranda|Miranda]]; il naufragio, rappresentato nella scena d’apertura, del fratello di Prospero, [[characters/antonio|Antonio]], insieme ad [[characters/alonso|Alonso]], [[archetypes/king|Re]] di Napoli, e ad altri; la separazione e l’estraniamento fra congiunti — [[characters/antonio|Antonio]] ha usurpato il ducato di Prospero, e [[characters/alonso|Alonso]] crede annegato suo figlio [[characters/ferdinand|Ferdinand]]; il casto [[motifs/love|amore]], sottoposto a prove, del bel [[characters/ferdinand|Ferdinand]] e della bella [[characters/miranda|Miranda]]; l’influsso del [[motifs/supernatural|soprannaturale]] esercitato attraverso i poteri magici di Prospero; e infine i ricongiungimenti e le riconciliazioni conclusive insieme al lieto scioglimento della vicenda d’[[motifs/love|amore]]. Shakespeare aveva impiegato tali convenzioni fin dagli inizi della sua carriera nelle commedie, e con particolare concentrazione, poco prima di scrivere La tempesta, in [[characters/pericles|Pericle]], Il racconto d’[[motifs/winter|inverno]] e [[characters/cymbeline|Cimbelino]]. Ma mentre quei drammi dispiegano gli eventi via via che accadono, portandoci in un [[motifs/journey|viaggio]] attraverso il [[motifs/time|tempo]] e lo spazio, ne La tempesta (come altrove soltanto ne La [[forms/comedy|commedia]] degli errori) Shakespeare ci dà soltanto la fine della storia, concentrando l’azione in poche ore e collocandola in un unico luogo, ma informandoci del passato, come nella lunga narrazione di tipo romanzesco (1.2) in cui Prospero racconta a [[characters/miranda|Miranda]] la sua [[motifs/childhood|infanzia]]. Il [[motifs/supernatural|soprannaturale]], presenza forte in tutti gli ultimi drammi di Shakespeare, è particolarmente pervasivo ne La tempesta; Prospero è un mago ‘bianco’ — benefico — assistito dallo spirito [[characters/ariel|Ariel]] e dal subumano [[characters/caliban|Caliban]], due fra i personaggi più palesemente simbolici di Shakespeare; e un culmine del dramma è il [[forms/masque|masque]] nuziale soprannaturalmente suscitato che Prospero evoca per il diletto e l’edificazione dei giovani innamorati, e che svanisce nel momento in cui egli si ricorda della congiura di [[characters/caliban|Caliban]] contro la sua vita.
+I PERSONAGGI DEL DRAMMA
+PROSPERO, legittimo [[characters/duke-of-milan|Duca di Milano]]
+[[characters/miranda|MIRANDA]], sua figlia
+
+[[characters/antonio|ANTONIO]], suo fratello, usurpatore del [[characters/duke-of-milan|Ducato di Milano]]
+[[characters/alonso|ALONSO]], [[archetypes/king|Re]] di Napoli
+[[characters/sebastian|SEBASTIAN]], suo fratello
+[[characters/ferdinand|FERDINAND]], figlio di [[characters/alonso|Alonso]]
+[[characters/gonzalo|GONZALO]], vecchio e onesto consigliere di Napoli
+[[characters/ariel|ARIEL]], spirito dell’aria al servizio di Prospero
+[[characters/caliban|CALIBAN]], nativo selvaggio e deforme dell’isola, schiavo di Prospero
+[[characters/trinculo|TRINCULO]], buffone di [[characters/alonso|Alonso]]
+STEFANO, maggiordomo ubriacone di [[characters/alonso|Alonso]]
+
+Il CAPITANO di una [[motifs/ship|nave]]
+NOSTROMO
+
+MARINAI
+
+SPIRITI
+
+Il [[forms/masque|Masque]]
+Spiriti che appaiono come:
+IRIDE
+
+CERERE
+
+GIUNONE
+
+Ninfe, mietitori
+
+La tempesta
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Si ode un fragore tempestoso di tuono e di [[motifs/lightning\|lampi]]. Entrano da parti opposte un Capitano di nave e un Nostromo |
+| CAPITANO | Nostromo! |
+| NOSTROMO | Son qui, Capitano. Che c'è di buono? |
+| CAPITANO | Bene, parla ai marinai. Datevi da fare, e in fretta, o finiamo in secca. Muovetevi, muovetevi! |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Entrano i Marinai |
+| NOSTROMO | Ehi, cuori miei! Animo, animo, cuori miei! Svelti, svelti! Ammainate la gabbia! Attenti al fischio del Capitano!—Soffia fino a scoppiarne il tuo [[motifs/wind\|vento]], se c'è spazio abbastanza. Entrano [[characters/alonso\|Alonso]], [[characters/sebastian\|Sebastian]], [[characters/antonio\|Antonio]], [[characters/ferdinand\|Ferdinand]], [[characters/gonzalo\|Gonzalo]] e altri |
+| [[characters/alonso\|ALONSO]] | Buon Nostromo, abbi cura. Dov'è il Capitano? (Ai marinai) Fate da uomini! |
+| NOSTROMO | Vi prego, ora, restate sottocoperta. |
+| [[characters/antonio\|ANTONIO]] | Dov'è il Capitano, Nostromo? |
+| NOSTROMO | Non lo sentite? Ci guastate la fatica. State nelle vostre cabine: date man forte alla [[motifs/storm\|tempesta]]. |
+| [[characters/gonzalo\|GONZALO]] | Suvvia, buon uomo, sii paziente. |
+| NOSTROMO | Quando lo sarà il mare. Via di qui! Che importa a questi ruggenti del nome di [[archetypes/king\|re]]? In cabina! [[motifs/silence\|Silenzio]]; non ci disturbate. |
+| [[characters/gonzalo\|GONZALO]] | Bene, ma ricordati chi hai a bordo. |
+| NOSTROMO | Nessuno che io [[motifs/love\|ami]] più di me stesso. Voi siete consigliere; se sapete comandare a questi elementi il [[motifs/silence\|silenzio]] e far pace col momento presente, non toccheremo più una cima. Usate la vostra autorità. Se non potete, ringraziate d'aver vissuto tanto a lungo e preparatevi nella vostra cabina alla sventura dell'ora, se mai debba venire. (Ai marinai) Animo, bravi cuori! (A [[characters/gonzalo\|Gonzalo]]) Fuori dai piedi, dico! |
+| *(didascalia)* | Esce |
+| [[characters/gonzalo\|GONZALO]] | Da costui traggo gran conforto. Mi pare che non abbia addosso alcun marchio d'annegato; la sua cera è perfetto patibolo. Tieni fermo, buon Destino, alla sua impiccagione. Fa' della corda del suo destino la nostra gomena, ché la nostra ci giova poco. Se non è nato per essere impiccato, il nostro caso è miserevole. |
+| *(didascalia)* | Escono i Cortigiani |
+| *(didascalia)* | Entra il Nostromo |
+| NOSTROMO | Giù l'albero di gabbia! Svelti! Più giù, più giù! Mettetela alla cappa con la maestra!<br>Un grido dall'interno<br>La peste su questi urli! Son più forti del tempo, e del nostro lavoro. |
+| *(didascalia)* | Entrano [[characters/sebastian\|Sebastian]], [[characters/antonio\|Antonio]] e [[characters/gonzalo\|Gonzalo]] |
+| NOSTROMO | Ancora? Che fate qui? Dobbiamo lasciar tutto e annegare? Avete voglia di colare a picco? |
+| [[characters/sebastian\|SEBASTIAN]] | Il canchero alla tua gola, cane urlatore, bestemmiatore, spietato! |
+| NOSTROMO | Lavorate voi, allora. |
+| [[characters/antonio\|ANTONIO]] | Impiccati, botolo, impiccati, insolente schiamazzatore figlio di puttana. Abbiamo meno paura d'annegare di quanta ne hai tu. |
+| *(didascalia)* | Escono i Marinai |
+| [[characters/gonzalo\|GONZALO]] | Garantisco io che non annegherà, foss'anche la [[motifs/ship\|nave]] non più salda d'un guscio di noce e sconnessa come una femmina che non si tura. |
+| NOSTROMO | Tenetela al vento, al vento! Spiegate le due vele basse! Di nuovo al largo! Portatela fuori! |
+| *(didascalia)* | Entrano i Marinai, fradici |
+| MARINAI | Tutto perduto! Alle preghiere, alle preghiere! Tutto perduto! |
+| *(didascalia)* | Escono i Marinai |
+| NOSTROMO | Come, dovranno restar fredde le nostre bocche? |
+| [[characters/gonzalo\|GONZALO]] | Il [[archetypes/king\|Re]] e il Principe in preghiera! Andiamo ad assisterli,<br>ché il nostro caso è come il loro. |
+| [[characters/sebastian\|SEBASTIAN]] | Non ho più pazienza. |
+| [[characters/antonio\|ANTONIO]] | Ci vengon rubate le vite, e solo da ubriaconi.<br>Questo furfante dalle larghe mascelle—potessi tu giacere<br>annegato<br>al lavacro di dieci maree. |
+| [[characters/gonzalo\|GONZALO]] | Sarà impiccato lo stesso,<br>anche se ogni goccia d'[[motifs/water\|acqua]] giurasse il contrario<br>e spalancasse la bocca per inghiottirlo.<br>Un rumore confuso dall'interno |
+| MARINAI | (dall'interno)<br>[[concepts/mercy\|Pietà]] di noi!<br>Ci spacchiamo, ci spacchiamo! Addio, moglie e figli miei!<br>Addio, fratello! Ci spacchiamo, ci spacchiamo, ci spacchiamo! |
+| *(didascalia)* | Esce il Nostromo |
+| [[characters/antonio\|ANTONIO]] | Affondiamo tutti insieme al [[archetypes/king\|Re]]. |
+| [[characters/sebastian\|SEBASTIAN]] | Andiamo a congedarci da lui. |
+| *(didascalia)* | Escono [[characters/antonio\|Antonio]] e [[characters/sebastian\|Sebastian]] |
+| [[characters/gonzalo\|GONZALO]] | Ora darei mille miglia di mare per un acro di terra sterile: brughiera alta, ginestra, ulice, qualunque cosa. Sia fatta la volontà del cielo, ma vorrei pur morire d'una [[motifs/death\|morte]] asciutta. Esce |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Prospero nel suo mantello magico, con un bastone, e [[characters/miranda\|Miranda]] |
+| [[characters/miranda\|MIRANDA]] | Se con la vostra arte, padre carissimo, avete<br>messo in questo fragore le acque selvagge, placatele.<br>Il cielo, pare, vorrebbe rovesciare pece fetida,<br>se non che il mare, salendo alla guancia del firmamento,<br>ne spegne il [[motifs/fire\|fuoco]]. Oh, ho sofferto<br>con quelli che ho visto soffrire! Un nobile vascello,<br>che aveva, senza [[concepts/doubt\|dubbio]], qualche nobile creatura a bordo,<br>fatto tutto in pezzi! Oh, quel grido percosse<br>il mio cuore stesso! Povere anime, sono perite.<br>Fossi stata un dio di potenza, avrei<br>sprofondato il mare dentro la terra, prima<br>che inghiottisse così la buona [[motifs/ship\|nave]] e<br>le anime che portava in grembo. |
+| PROSPERO | Rasserénati.<br>Basta sgomento. Di' al tuo cuore pietoso<br>che nessun male è stato fatto. |
+| [[characters/miranda\|MIRANDA]] | Oh, giorno di sventura! |
+| PROSPERO | Nessun male.<br>Nulla ho fatto se non per cura di te,<br>di te, mia cara, di te, figlia mia, che<br>ignori ciò che sei, nulla sapendo<br>di donde io venga, né che io sia altro e meglio<br>che Prospero, signore d'una assai povera cella<br>e tuo padre non più grande. |
+| [[characters/miranda\|MIRANDA]] | Saperne di più<br>non s'è mai immischiato coi miei pensieri. |
+| PROSPERO | È [[motifs/time\|tempo]]<br>ch'io t'informi oltre. Porgi la mano,<br>e togli da me la mia veste magica. |
+| *(didascalia)* | [[characters/miranda\|Miranda]] toglie a Prospero il mantello, ed egli lo depone |
+| *(didascalia)* | a terra |
+| PROSPERO | Così.<br>Giaci lì, arte mia.—Asciugati gli occhi; consòlati.<br>Il tremendo spettacolo del naufragio, che ha toccato<br>in te la virtù stessa della compassione,<br>io l'ho con tale previdenza nella mia arte<br>ordinato al sicuro che non v'è [[motifs/soul\|anima]]—<br>no, non tanta perdita quanto un capello<br>è occorsa ad alcuna creatura di quel vascello,<br>che udisti gridare, che vedesti affondare. Siedi<br>qui,<br>ché ora devi saperne di più.<br>[[characters/miranda\|Miranda]] si siede |
+| [[characters/miranda\|MIRANDA]] | Spesso avete<br>cominciato a dirmi ciò che sono, ma vi siete fermato<br>lasciandomi a una vana [[historical-references/inquisition\|inchiesta]],<br>concludendo: «Férmati; non ancora». |
+| PROSPERO | L'ora è venuta.<br>Il minuto stesso ti comanda d'aprire l'orecchio,<br>d'obbedire e d'essere attenta. Puoi ricordare<br>un [[motifs/time\|tempo]] prima che venissimo a questa cella?<br>Non credo che tu possa, ché allora non avevi<br>compiuto i tre anni. |
+| [[characters/miranda\|MIRANDA]] | Certamente, signore, posso. |
+| PROSPERO | Da che? Da qualche altra casa o persona?<br>Di qualunque cosa dimmi l'immagine<br>che sia rimasta nel tuo ricordo. |
+| [[characters/miranda\|MIRANDA]] | È lontano,<br>e più simile a un sogno che a una certezza<br>garantita dalla mia memoria. Non avevo<br>quattro o cinque donne, un tempo, che mi accudivano? |
+| PROSPERO | Le avevi, e di più, [[characters/miranda\|Miranda]]. Ma com'è<br>che questo vive nella tua mente? Che altro vedi<br>nel buio retrocedere e nell'abisso del [[motifs/time\|tempo]]?<br>Se ricordi qualcosa prima che qui giungessi,<br>puoi ricordare come qui giungesti. |
+| [[characters/miranda\|MIRANDA]] | Ma questo no. |
+| PROSPERO | Dodici anni fa, [[characters/miranda\|Miranda]], dodici anni fa,<br>tuo padre era il [[characters/duke-of-milan\|Duca di Milano]], e<br>un principe di potenza— |
+| [[characters/miranda\|MIRANDA]] | Signore, non siete voi mio padre? |
+| PROSPERO | Tua madre era un modello di virtù, e<br>disse che tu eri mia figlia; e tuo padre<br>era [[characters/duke-of-milan\|Duca di Milano]], e la sua unica erede<br>principessa di non minore nascita. |
+| [[characters/miranda\|MIRANDA]] | Oh cieli!<br>Quale trama scellerata ci portò via di là?<br>O fu benedizione che ne venissimo? |
+| PROSPERO | Entrambe, entrambe, bambina mia.<br>Per trama scellerata, come dici, di là fummo cacciati,<br>ma benedettamente sospinti qui. |
+| [[characters/miranda\|MIRANDA]] | Oh, mi sanguina il cuore<br>a pensare all'affanno cui vi ho costretto,<br>che è fuori dal mio ricordo. Vi prego, proseguite. |
+| PROSPERO | Mio fratello e tuo zio, chiamato [[characters/antonio\|Antonio]]—<br>ti prego, ascoltami: che un fratello possa<br>essere così perfido!—lui che dopo di te<br>amavo più d'ogni altro al mondo, e a lui affidai<br>la gestione del mio stato—che a quel [[motifs/time\|tempo]]<br>fra tutte le signorie era il primo,<br>e Prospero il duca sovrano—così reputato<br>in dignità, e per le arti liberali<br>senza pari—ed essendo quelle tutto il mio studio,<br>il governo rovesciai su mio fratello,<br>e al mio stato divenni estraneo, rapito<br>e assorto in studi segreti. Il tuo falso zio—<br>mi stai ascoltando? |
+| [[characters/miranda\|MIRANDA]] | Signore, con la massima attenzione. |
+| PROSPERO | Perfezionatosi una volta nel concedere le suppliche,<br>nel negarle, chi promuovere e chi<br>potare perché troppo s'innalza, ricreò<br>le creature che erano mie, dico—o le mutò<br>o le riformò daccapo; avendo la chiave<br>e dell'ufficiale e dell'ufficio, accordò tutti i cuori dello stato<br>sul tono che piaceva al suo orecchio, sicché ormai egli era<br>l'edera che aveva nascosto il mio tronco principesco<br>e ne aveva succhiato via il verde. Non mi ascolti! |
+| [[characters/miranda\|MIRANDA]] | Oh, buon signore, vi ascolto. |
+| PROSPERO | Ti prego, ascoltami.<br>Io, trascurando così i fini mondani, tutto dedito<br>al ritiro e al perfezionamento della mia mente<br>con ciò che, solo per essere tanto appartato,<br>superava ogni stima comune, nel mio falso fratello<br>destai una malvagia [[concepts/nature\|natura]]; e la mia fiducia,<br>come un buon padre, generò in lui<br>una falsità grande, nel suo contrario, quanto<br>grande era la mia fiducia, che davvero non aveva limite,<br>una confidenza senza confini. Fatto egli così signore<br>non solo di quanto rendeva la mia entrata,<br>ma di quanto altro il mio potere potesse esigere, come colui<br>che, della [[concepts/truth\|verità]], a forza di ripeterla,<br>fa tal peccatrice della propria [[motifs/memory\|memoria]]<br>da prestar fede alla sua stessa menzogna, credette<br>d'essere davvero il Duca. Dalla sostituzione,<br>e dall'esercitare la faccia esteriore della regalità<br>con ogni prerogativa, crebbe quindi la sua [[concepts/ambition\|ambizione]]—<br>mi senti? |
+| [[characters/miranda\|MIRANDA]] | Il vostro racconto, signore, guarirebbe la sordità. |
+| PROSPERO | Per non aver schermo tra la parte che recitava<br>e colui per cui la recitava, volle a ogni costo essere<br>Milano assoluto. Me, pover'uomo—la mia biblioteca<br>era ducato abbastanza grande—delle regalità temporali<br>mi giudica ormai incapace; s'accorda,<br>tanta sete aveva di dominio, col [[archetypes/king\|Re]] di Napoli<br>per dargli tributo annuo, rendergli omaggio,<br>sottomettere la sua coroncina alla [[motifs/crown\|corona]] di lui, e piegare<br>il ducato, finora mai piegato—ahimè, povera Milano—<br>al più ignobile inchino. |
+| [[characters/miranda\|MIRANDA]] | Oh cieli! |
+| PROSPERO | Nota la sua condizione e l'esito, poi dimmi<br>se questi possa essere un fratello. |
+| [[characters/miranda\|MIRANDA]] | Peccherei<br>a non pensare nobilmente di mia nonna.<br>Buoni grembi han partorito cattivi figli. |
+| PROSPERO | Ora la condizione.<br>Questo [[archetypes/king\|Re]] di Napoli, essendo nemico<br>mio inveterato, dà ascolto alla supplica di mio fratello;<br>la quale era che egli, in cambio delle premesse<br>d'omaggio e non so quanto tributo,<br>dovesse all'istante estirpare me e i miei<br>fuori dal ducato, e conferire la bella Milano,<br>con tutti gli onori, a mio fratello. Onde,<br>levato un esercito traditore, una mezzanotte<br>fatata allo scopo [[characters/antonio\|Antonio]] aprì<br>le porte di Milano; e, nel fitto del buio,<br>i ministri deputati allo scopo di là trascinarono<br>me e il tuo piangente [[concepts/self\|io]]. |
+| [[characters/miranda\|MIRANDA]] | Ahimè, che pietà!<br>Io, non ricordando come allora gridai,<br>tornerò a gridarlo; è uno spunto<br>che mi strizza gli occhi a farlo. |
+| *(didascalia)* | PROSPERO si siede |
+| [[characters/miranda\|MIRANDA]] | Ascolta ancora un poco,<br>e poi ti condurrò all'affare presente<br>che ora ci incombe, senza il quale questa storia<br>sarebbe del tutto impertinente. |
+| [[characters/miranda\|MIRANDA]] | Perché non ci distrussero<br>in quell'ora? |
+| PROSPERO | [[motifs/well\|Bene]] domandato, ragazza;<br>il mio racconto provoca quella domanda. Cara, non osarono,<br>tanto caro era l'[[motifs/love\|amore]] che il mio popolo mi portava; né posero<br>un marchio così sanguinoso sull'impresa, ma<br>con colori più belli dipinsero i loro turpi fini.<br>In breve, ci trascinarono a bordo d'una barca,<br>ci portarono qualche lega al largo, dove avevano preparato<br>la carcassa marcita d'un barile, senza sartiame,<br>né gomene, né vela, né albero—i topi stessi<br>per istinto l'avevano abbandonata. Là ci issarono,<br>a gridare al mare che ci ruggiva, a sospirare<br>ai venti, la cui pietà, risospirando,<br>non ci fece che un amoroso torto. |
+| [[characters/miranda\|MIRANDA]] | Ahimè, che pena<br>fui allora per voi! |
+| PROSPERO | Oh, un cherubino<br>tu fosti, che mi preservò. Tu sorridevi,<br>infusa d'una fortezza venuta dal cielo,<br>quando io adornavo il mare di gocce salatissime,<br>gemendo sotto il mio peso; il che destò in me<br>un animo capace di sopportare, per reggere<br>contro ciò che doveva venire. |
+| [[characters/miranda\|MIRANDA]] | Come giungemmo a riva? |
+| PROSPERO | Per divina [[concepts/providence\|provvidenza]].<br>Un po' di cibo avemmo, e un po' d'[[motifs/water\|acqua]] dolce, che<br>un nobile napoletano, [[characters/gonzalo\|Gonzalo]],<br>per la sua [[concepts/charity\|carità]]—essendo allora designato<br>esecutore di questo disegno—ci diede; con<br>ricche vesti, biancherie, stoffe e necessari<br>che poi ci han giovato molto. Così, per la sua gentilezza,<br>sapendo che amavo i miei libri, mi fornì<br>dalla mia stessa biblioteca volumi che<br>apprezzo più del mio ducato. |
+| [[characters/miranda\|MIRANDA]] | Potessi io<br>vedere una volta quell'uomo! |
+| PROSPERO | Ora mi alzo. |
+| *(didascalia)* | Si alza e indossa il mantello |
+| PROSPERO | Resta seduta, e odi l'ultimo del nostro dolore marino.<br>Qui in quest'isola approdammo, e qui<br>io, tuo maestro, t'ho fatta profittare più<br>di quanto possano altri principi, che hanno più [[motifs/time\|tempo]]<br>per ore più vane e precettori non così solleciti. |
+| [[characters/miranda\|MIRANDA]] | Il cielo ve ne renda grazie. E ora vi prego, signore—<br>ché ancora mi batte nella mente—la vostra ragione<br>per aver sollevato questa [[motifs/storm\|tempesta]] marina. |
+| PROSPERO | Sappi fin qui.<br>Per accidente stranissimo, la generosa Fortuna,<br>ora mia cara signora, i miei nemici<br>ha portato a questa riva; e per la mia prescienza<br>scopro che il mio zenit dipende<br>da una stella assai propizia, il cui influsso<br>se ora non [[settings/court\|corteggio]], ma trascuro, le mie sorti<br>per sempre appresso languiranno. Qui cessino altre domande.<br>Sei inclinata al [[motifs/sleep\|sonno]]; è un buon torpore,<br>e lasciagli via libera. So che non puoi scegliere.<br>[[characters/miranda\|Miranda]] dorme<br>Vieni, servo, vieni! Sono pronto adesso.<br>Accòstati, mio [[characters/ariel\|Ariel]], vieni! |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]] |
+| [[characters/ariel\|ARIEL]] | Salve, gran padrone, [[motifs/grave\|grave]] signore, salve. Vengo<br>a rispondere al tuo miglior piacere. Sia volare,<br><br>nuotare, tuffarsi nel [[motifs/fire\|fuoco]], cavalcare<br>sulle nubi arricciate: al tuo forte comando metti all'opera<br>[[characters/ariel\|Ariel]] e tutta la sua schiera. |
+| PROSPERO | Hai tu, spirito,<br>eseguito a puntino la tempesta che t'ordinai? |
+| [[characters/ariel\|ARIEL]] | In ogni articolo.<br>Salii sulla [[motifs/ship\|nave]] del [[archetypes/king\|Re]]. Ora sul rostro,<br>ora a mezza nave, sul ponte, in ogni cabina,<br>fiammeggiai sgomento. Talora mi dividevo,<br>e ardevo in molti luoghi; sull'albero di gabbia,<br>sui pennoni e sul bompresso fiammeggiavo distinto;<br>poi mi riunivo. Le [[motifs/lightning\|folgori]] di Giove, precorritrici<br>dei tremendi tuoni, non furono mai più istantanee<br>né più rapide della vista. Il [[motifs/fire\|fuoco]] e gli schianti<br>del ruggito sulfureo parvero assediare<br>il potentissimo Nettuno, e far tremare le sue onde ardite,<br>sì, e vacillare il suo temuto tridente. |
+| PROSPERO | Mio bravo spirito!<br>Chi fu così fermo, così costante, che questo tumulto<br>non infettasse la sua ragione? |
+| [[characters/ariel\|ARIEL]] | Non un'[[motifs/soul\|anima]]<br>che non sentisse una febbre da folli, e non facesse<br>qualche atto di disperazione. Tutti fuorché i marinai<br>si tuffarono nella salsedine spumosa e lasciarono il vascello,<br>tutto in fiamme con me. Il figlio del [[archetypes/king\|Re]], [[characters/ferdinand\|Ferdinand]],<br>coi capelli ritti—canne allora, non capelli—<br>fu il primo a saltare; gridò: «L'inferno è vuoto,<br>e tutti i diavoli sono qui». |
+| PROSPERO | Ecco, questo è il mio spirito!<br>Ma non era vicino a riva? |
+| [[characters/ariel\|ARIEL]] | Vicinissimo, padrone mio. |
+| PROSPERO | Ma sono, [[characters/ariel\|Ariel]], salvi? |
+| [[characters/ariel\|ARIEL]] | Non un capello è perito.<br>Sulle vesti che li sostennero non una macchia,<br>anzi più fresche di prima. E, come m'ordinasti,<br>a gruppi li ho dispersi per l'isola.<br>Il figlio del [[archetypes/king\|Re]] l'ho sbarcato tutto solo,<br>e l'ho lasciato a rinfrescar l'aria di sospiri<br>in uno strano angolo dell'isola, seduto,<br>le braccia in questo triste nodo. |
+| PROSPERO | Della [[motifs/ship\|nave]] del [[archetypes/king\|Re]],<br>dei marinai, di' come hai disposto,<br>e di tutto il resto della flotta. |
+| [[characters/ariel\|ARIEL]] | Al sicuro nel porto<br>è la [[motifs/ship\|nave]] del [[archetypes/king\|Re]], nella profonda insenatura dove una volta<br>mi chiamasti a mezzanotte a coglier rugiada<br>dalle sempre tempestose Bermude: là è nascosta;<br>i marinai tutti stivati sotto i boccaporti,<br>che, con un incanto unito alla fatica sofferta,<br>ho lasciato addormentati. E quanto al resto della flotta,<br>che dispersi, si sono tutti ritrovati,<br>e sull'onda mediterranea navigano<br>tristemente diretti a [[motifs/home\|casa]], verso Napoli,<br>supponendo d'aver visto la [[motifs/ship\|nave]] del [[archetypes/king\|Re]] naufragata<br>e perire la sua gran persona. |
+| PROSPERO | [[characters/ariel\|Ariel]], il tuo incarico<br>è eseguito esattamente; ma c'è altro lavoro.<br>Che [[motifs/time\|ora]] è del giorno? |
+| [[characters/ariel\|ARIEL]] | Passato il mezzo del giorno. |
+| PROSPERO | Almeno due ampolle. Il [[motifs/time\|tempo]] fra le sei e adesso<br>dev'essere da noi due speso preziosamente. |
+| [[characters/ariel\|ARIEL]] | C'è altra fatica? Poiché mi dai travagli,<br>lascia che ti rammenti ciò che hai promesso<br>e che non m'è stato ancora adempiuto. |
+| PROSPERO | E che? Di malumore?<br>Che cosa puoi pretendere? |
+| [[characters/ariel\|ARIEL]] | La mia libertà. |
+| PROSPERO | Prima che il [[motifs/time\|tempo]] sia scaduto? Basta! |
+| [[characters/ariel\|ARIEL]] | Ti prego,<br>ricorda che t'ho reso degno servizio,<br>non t'ho detto bugie, non t'ho fatto errori, ho servito<br>senza rancore né brontolii. Tu promettesti<br>di scontarmi un anno intero. |
+| PROSPERO | Dimentichi<br>da quale tormento ti liberai? |
+| [[characters/ariel\|ARIEL]] | No. |
+| PROSPERO | Sì, e ti pare gran cosa calcare la melma<br>del salso abisso,<br>correre sull'aspro [[motifs/wind\|vento]] del nord,<br>sbrigarmi faccende nelle vene della terra<br>quando è indurita dal [[motifs/frost\|gelo]]. |
+| [[characters/ariel\|ARIEL]] | Non è così, signore. |
+| PROSPERO | Menti, cosa maligna. Hai dimenticato<br>la turpe [[characters/witch\|strega]] Sicorace, che per età e invidia<br>s'era piegata in cerchio? L'hai dimenticata? |
+| [[characters/ariel\|ARIEL]] | No, signore. |
+| PROSPERO | Sì. Dov'è nata? Parla, dimmelo! |
+| [[characters/ariel\|ARIEL]] | Signore, in Algeri. |
+| PROSPERO | Oh, era così! Devo<br>una volta al mese raccontarti ciò che sei stato,<br>e che dimentichi. Questa dannata [[characters/witch\|strega]] Sicorace,<br>per malefici molteplici e stregonerie terribili<br>a entrare in umano udito, da Algeri<br>sai che fu bandita. Per una cosa che fece<br>non le tolsero la vita. Non è forse vero? |
+| [[characters/ariel\|ARIEL]] | Sì, signore. |
+| PROSPERO | Questa megera dagli occhi lividi fu portata qui gravida d'un [[archetypes/child\|figlio]],<br>e qui fu lasciata dai marinai. Tu, mio schiavo,<br>come tu stesso riferisci, eri allora suo servo;<br>e poiché eri uno spirito troppo delicato<br>per eseguire i suoi terrosi e aborriti comandi,<br>rifiutando i suoi grandi ordini, ella ti confinò<br>con l'aiuto dei suoi ministri più potenti,<br>e nella sua rabbia più inesorabile,<br>dentro un pino spaccato; nella qual fenditura<br>imprigionato dolorosamente rimanesti<br>una dozzina d'anni, nel qual tempo ella morì<br>e ti lasciò là, dove sfogavi i tuoi gemiti<br>fitti come i colpi delle ruote di mulino. Allora quest'isola—<br>salvo il figlio ch'ella figliò qui,<br>un cucciolo lentigginoso, nato da strega—non era onorata<br>di forma umana. |
+| [[characters/ariel\|ARIEL]] | Sì, [[characters/caliban\|Calibano]] suo figlio. |
+| PROSPERO | Cosa ottusa, così dico: lui, quel [[characters/caliban\|Calibano]]<br>che ora tengo al mio servizio. Tu sai meglio d'ogni altro<br>in quale tormento ti trovai. I tuoi gemiti<br>facevano ululare i lupi, e penetravano i petti<br>degli orsi sempre iracondi; era un tormento<br>da infliggere ai dannati, che Sicorace<br>non poté più disfare. Fu la mia arte,<br>quando giunsi e t'udii, a far spalancare<br>il pino e a lasciarti uscire. |
+| [[characters/ariel\|ARIEL]] | Ti ringrazio, padrone. |
+| PROSPERO | Se mormori ancora, squarcerò una quercia,<br>e t'inchioderò nelle sue nodose viscere finché<br>non avrai ululato via dodici inverni. |
+| [[characters/ariel\|ARIEL]] | Perdono, padrone.<br>Sarò conforme al comando,<br>e farò il mio ufficio di spirito docilmente. |
+| PROSPERO | Fa' così, e dopo due giorni<br>ti congederò. |
+| [[characters/ariel\|ARIEL]] | Ecco il mio nobile padrone!<br>Che devo fare? Di' che cosa, che devo fare? |
+| PROSPERO | Va', fatti simile a una ninfa del mare. Non essere visibile<br>ad altra vista che alla tua e alla mia, invisibile<br>a ogni altra pupilla. Va', prendi questa forma,<br>e in essa torna qui. Va'; via, con diligenza! |
+| *(didascalia)* | Esce [[characters/ariel\|Ariel]] |
+| PROSPERO | Svegliati, cuore caro, svegliati! Hai dormito [[motifs/well\|bene]];<br>svegliati. |
+| [[characters/miranda\|MIRANDA]] | (destandosi) La stranezza del vostro racconto ha messo<br>pesantezza in me. |
+| PROSPERO | Scuotila via. Andiamo;<br>visiteremo [[characters/caliban\|Calibano]], mio schiavo, che mai<br>ci rende gentile risposta. |
+| [[characters/miranda\|MIRANDA]] | È un [[archetypes/villain\|furfante]], signore,<br>che non [[motifs/love\|amo]] guardare. |
+| PROSPERO | Ma per come stanno le cose,<br>non possiamo farne a meno. Egli accende il nostro [[motifs/fire\|fuoco]],<br>porta dentro la legna, e serve in uffici<br>che ci giovano.—Ehilà! Schiavo, [[characters/caliban\|Calibano]]!<br>Tu, terra, tu, parla! |
+| [[characters/caliban\|CALIBAN]] | (da dentro)<br>C'è legna abbastanza qui dentro. |
+| PROSPERO | Vieni fuori, dico! C'è altra faccenda per te.<br>Vieni, tartaruga! Quando? |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], come ninfa dell'[[motifs/water\|acqua]] |
+| PROSPERO | Bella apparizione! Mio grazioso [[characters/ariel\|Ariel]],<br>ascolta nel tuo orecchio.<br>Gli sussurra |
+| [[characters/ariel\|ARIEL]] | Mio signore, sarà fatto. Esce |
+| PROSPERO | Tu, schiavo velenoso, generato dal diavolo in persona<br>sulla tua scellerata madre, vieni fuori! |
+| *(didascalia)* | Entra [[characters/caliban\|Calibano]] |
+| [[characters/caliban\|CALIBAN]] | Rugiada malefica quanta mai mia madre ne raccolse<br>con penna di corvo da palude insalubre<br>cada su voi due! Un libeccio soffi su di voi,<br>e vi copra tutti di vesciche! |
+| PROSPERO | Per questo, stanne certo, stanotte avrai crampi,<br>fitte al fianco che ti chiuderanno il respiro. Folletti<br>usciranno nel vuoto della [[motifs/night\|notte]], per esercitare<br>su di te ogni loro travaglio. Sarai pizzicato<br>fitto come un favo, ogni pizzico più pungente<br>delle [[motifs/bees\|api]] che l'han fatto. |
+| [[characters/caliban\|CALIBAN]] | Devo mangiare il mio pranzo.<br>Quest'isola è mia, per Sicorace mia madre,<br>e tu me la togli. Quando venisti la prima volta,<br>mi accarezzavi e mi vezzeggiavi, mi davi<br>[[motifs/water\|acqua]] con dentro delle bacche, e m'insegnavi<br>a nominare la luce più grande, e come la minore,<br>che ardono di giorno e di [[motifs/night\|notte]]; e allora t'amai,<br>e ti mostrai tutte le qualità dell'isola,<br>le fonti fresche, le saline, il luogo sterile e il fertile—<br>maledetto io che lo feci! Tutti gli incanti<br>di Sicorace, rospi, scarafaggi, pipistrelli, cadano su di te;<br>ché io sono tutti i sudditi che hai,<br>io che prima ero [[archetypes/king\|re]] di me stesso, e qui mi rinchiudi<br>in questa dura roccia, mentre mi tieni lontano<br>dal resto dell'isola. |
+| PROSPERO | Schiavo mendacissimo,<br>che le frustate muovono, non la bontà! Io t'ho usato,<br>te,<br>lordura qual sei, con umana cura, e t'ho alloggiato<br>nella mia stessa cella, finché non cercasti di violare<br>l'[[concepts/honour\|onore]] della mia [[archetypes/child\|figlia]]. |
+| [[characters/caliban\|CALIBAN]] | Oh oh, oh oh! Fosse stato fatto!<br>Tu me l'impedisti; altrimenti avrei popolato<br>quest'isola di Calibani. |
+| [[characters/miranda\|MIRANDA]] | Schiavo aborrito,<br>che nessuna impronta di bontà vuoi ricevere, capace d'ogni male! Ebbi pietà di te, mi diedi pena d'insegnarti a parlare, t'insegnai ogni ora una cosa o l'altra. Quando tu, selvaggio, non conoscevi il tuo stesso senso, ma farfugliavi come cosa brutissima, dotai i tuoi intenti di parole che li rendessero noti. Ma la tua vile razza, benché tu imparassi, aveva in sé ciò con cui le buone nature non potevano sopportare di stare; perciò fosti meritatamente confinato in questa roccia, tu che avevi meritato più d'una [[motifs/prison\|prigione]]. |
+| [[characters/caliban\|CALIBAN]] | M'insegnaste la lingua, e il mio guadagno<br>è che so maledire. La peste rossa vi porti via<br>per avermi insegnato la vostra lingua! |
+| PROSPERO | Seme di strega, via!<br>Portaci legna. E sii svelto, ti conviene,<br>per attendere ad altre faccende.—Alzi le spalle, malizia?<br>Se trascuri o fai di malavoglia<br>ciò che comando, ti torturerò con vecchi crampi,<br>ti riempirò le ossa di dolori, ti farò ruggire<br>sì che le bestie tremeranno al tuo fracasso. |
+| [[characters/caliban\|CALIBAN]] | No, ti prego.<br>(A parte) Devo obbedire. La sua arte è di tal potere<br>che dominerebbe Setebo, il dio di mia madre,<br>e ne farebbe un vassallo. |
+| PROSPERO | Così, schiavo, via! |
+| *(didascalia)* | Esce [[characters/caliban\|Calibano]] |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]] come ninfa dell'[[motifs/water\|acqua]], suonando e |
+| PROSPERO | cantando, invisibile a [[characters/ferdinand\|Ferdinand]], che lo segue. |
+| *(didascalia)* | Prospero e [[characters/miranda\|Miranda]] si tengono in disparte |
+| *(didascalia)* | Canzone |
+| [[characters/ariel\|ARIEL]] | Venite su queste sabbie gialle, e poi datevi la mano;<br>fatta la riverenza e dato il bacio—<br>tacciano le onde selvagge—<br>danzate lievi qua e là,<br>e voi, dolci spiriti, reggete<br>il ritornello. Udite, udite. |
+| *(didascalia)* | SPIRITI (sparsi, da dentro) |
+| [[characters/ariel\|ARIEL]] | Bau-bau! |
+| *(didascalia)* | [[characters/ariel\|ARIEL]] |
+| [[characters/ariel\|ARIEL]] | I cani da guardia abbaiano.<br>[SPIRITI] (da dentro) Bau-bau! |
+| [[characters/ariel\|ARIEL]] | Udite, udite, sento<br>il canto di Chanticleer che si pavoneggia<br>gridare «chicchirichì». |
+| [[characters/ferdinand\|FERDINAND]] | Dove sarà questa musica? Nell'aria o nella terra?<br>Non suona più; e certo essa fa corteo<br>a qualche dio dell'isola. Sedendo su una riva,<br>piangendo di nuovo il naufragio del [[archetypes/king\|Re]] mio padre,<br>questa musica mi strisciò accanto sulle acque,<br>placando e la loro furia e la mia passione<br>con la sua dolce aria. Di là l'ho seguita—<br>o piuttosto essa m'ha attratto. Ma è svanita.<br>No, ricomincia. |
+| *(didascalia)* | Canzone |
+| [[characters/ariel\|ARIEL]] | A cinque tese di fondo giace tuo padre. Delle sue ossa è fatto corallo;<br>sono perle quelli che erano i suoi occhi;<br>nulla di lui che si dissolva<br>che non subisca una marina metamorfosi<br>in qualcosa di ricco e strano.<br>Le ninfe del mare suonano d'ora in ora la sua campana a morto: |
+| *(didascalia)* | SPIRITI (da dentro) Din don. |
+| [[characters/ariel\|ARIEL]] | Udite, ora li sento. |
+| *(didascalia)* | SPIRITI (da dentro) |
+| *(didascalia)* | Din-don campana. ecc. |
+| [[characters/ferdinand\|FERDINAND]] | La cantilena ricorda il mio padre annegato.<br>Questa non è faccenda mortale, né suono<br>che appartenga alla terra. |
+| *(didascalia)* | Musica |
+| [[characters/ferdinand\|FERDINAND]] | Ora la sento sopra di me. |
+| PROSPERO | (a [[characters/miranda\|Miranda]])<br>Solleva le frangiate cortine dei tuoi occhi,<br>e di' che cosa vedi laggiù. |
+| [[characters/miranda\|MIRANDA]] | Che cos'è? Uno spirito?<br>Signore, come si guarda intorno! Credetemi, signore,<br>ha una bella forma. Ma è uno spirito. |
+| PROSPERO | No, ragazza, mangia e dorme, e ha sensi<br>quali abbiamo noi, proprio tali. Questo galante che vedi<br>era nel naufragio, e se non fosse un po' guastato<br>dal dolore, che è il tarlo della [[concepts/beauty\|bellezza]], potresti dire di<br>lui<br>che è una bella persona. Ha perduto i suoi compagni,<br>e va errando per ritrovarli. |
+| [[characters/miranda\|MIRANDA]] | Potrei chiamarlo<br>cosa divina, ché nulla di naturale<br>vidi mai così nobile. |
+| PROSPERO | (a parte)<br>Procede, lo vedo,<br>come la mia [[motifs/soul\|anima]] lo suggerisce. (A [[characters/ariel\|Ariel]]) Spirito, fine spirito, ti<br>libererò |
+| *(didascalia)* | entro due giorni, per questo. |
+| *(didascalia)* | [[characters/ferdinand\|FERDINAND]] a parte |
+| PROSPERO | Certissimamente la dea<br>cui queste arie fanno corteo. (A [[characters/miranda\|Miranda]]) Concedete<br>alla mia [[motifs/prayer\|preghiera]] 425<br>di sapere se dimorate in quest'isola,<br>e che vogliate darmi qualche buon insegnamento<br>su come io debba comportarmi qui. La mia prima richiesta,<br>che pronuncio per ultima, è—o voi [[concepts/wonder\|meraviglia]]—<br>se siate fanciulla o no. |
+| [[characters/miranda\|MIRANDA]] | Nessuna [[concepts/wonder\|meraviglia]], signore,<br>ma certamente una fanciulla. |
+| [[characters/ferdinand\|FERDINAND]] | La mia lingua! Cieli!<br>Sono il primo fra quanti parlano questo idioma,<br>fossi soltanto dove lo si parla. |
+| PROSPERO | Come, il primo?<br>Che saresti se il [[archetypes/king\|Re]] di Napoli t'udisse? |
+| [[characters/ferdinand\|FERDINAND]] | Una cosa sola, come sono adesso, che si stupisce<br>d'udirti parlare di Napoli. Egli mi ode,<br>e che m'oda io piango. Io stesso sono Napoli,<br>io che con questi occhi, mai da allora in riflusso, vidi<br>il [[archetypes/king\|Re]] mio padre naufragare. |
+| [[characters/miranda\|MIRANDA]] | Ahimè, [[concepts/mercy\|pietà]]! |
+| [[characters/ferdinand\|FERDINAND]] | Sì, in [[concepts/faith\|fede]], e tutti i suoi signori, il [[characters/duke-of-milan\|Duca di Milano]]<br>e il suo bravo figlio essendo due di loro. |
+| PROSPERO | (a parte)<br>Il [[characters/duke-of-milan\|Duca di Milano]]<br>e la sua ancor più brava figlia potrebbero smentirti,<br>se ora fosse opportuno farlo. Al primo sguardo<br>si sono scambiati gli occhi.—Delicato [[characters/ariel\|Ariel]],<br>per questo ti farò libero. (A [[characters/ferdinand\|Ferdinand]]) Una parola, buon<br>signore. 445<br>[[concepts/fear\|Temo]] che vi siate fatto qualche torto. Una parola. |
+| [[characters/miranda\|MIRANDA]] | (a parte)<br>Perché mio padre parla così sgarbatamente? Questo<br>è il terzo uomo che io abbia mai visto, il primo<br>per cui abbia mai sospirato. La pietà muova mio padre<br>a inclinare dalla mia parte. |
+| [[characters/ferdinand\|FERDINAND]] | Oh, se siete vergine,<br>e il vostro affetto non è già altrove, farò di voi<br>la [[characters/queen\|Regina]] di Napoli. |
+| PROSPERO | Piano, signore! Un'altra parola.<br>(A parte) Sono l'uno in potere dell'altra. Ma questa rapida<br>faccenda<br>devo renderla malagevole, ché una conquista troppo lieve<br>non renda lieve il premio. (A [[characters/ferdinand\|Ferdinand]]) Un'altra parola. Ti<br>ordino<br>di darmi ascolto. Tu qui usurpi<br>un nome che non ti appartiene; e ti sei introdotto<br>in quest'isola come spia, per strapparla<br>a me che ne sono il signore. |
+| [[characters/ferdinand\|FERDINAND]] | No, com'è vero che sono un uomo. |
+| [[characters/miranda\|MIRANDA]] | Nulla di male può abitare in un tal tempio.<br>Se lo spirito maligno ha una casa così bella,<br>le cose buone si contenderanno d'abitarvi. |
+| PROSPERO | (a [[characters/ferdinand\|Ferdinand]])<br>Seguimi.<br>(A [[characters/miranda\|Miranda]]) Non parlare tu per lui; è un traditore.<br>(A [[characters/ferdinand\|Ferdinand]]) Vieni!<br>T'ammanetterò il collo e i piedi insieme.<br>[[motifs/water\|Acqua]] di mare berrai; il tuo cibo saranno<br>le cozze del ruscello, radici avvizzite e i gusci<br>in cui la ghianda ebbe culla. Segui! |
+| [[characters/ferdinand\|FERDINAND]] | No.<br>Resisterò a un tale trattamento finché<br>il mio nemico non abbia più forza.<br>Sguaina la spada, ed è incantato e non può muoversi |
+| [[characters/miranda\|MIRANDA]] | Oh caro padre,<br>non fate di lui prova troppo avventata, perché<br>è gentile, e non è da temere. |
+| PROSPERO | Come, dico,<br>il mio piede mio maestro? Rinfodera la spada, traditore,<br>tu che fai mostra ma non osi colpire, tanto la tua<br>[[concepts/conscience\|coscienza]]<br>è posseduta dalla [[concepts/guilt\|colpa]]. Lascia la tua guardia,<br>ché posso qui disarmarti con questo bastone<br>e farti cadere l'arma. |
+| [[characters/miranda\|MIRANDA]] | Vi supplico, padre! |
+| PROSPERO | Via! Non t'aggrappare alle mie vesti. |
+| [[characters/miranda\|MIRANDA]] | Signore, abbiate pietà.<br>Sarò io la sua garante. |
+| PROSPERO | Silenzio! Un'altra parola<br>mi farà rimproverarti, se non odiarti. Come,<br>avvocata d'un impostore? Zitta!<br>Credi che non vi siano altre forme come la sua,<br>avendo visto solo lui e [[characters/caliban\|Calibano]]. Sciocca ragazza!<br>Rispetto ai più degli uomini costui è un [[characters/caliban\|Calibano]],<br>e quelli, in confronto a lui, sono angeli. |
+| [[characters/miranda\|MIRANDA]] | I miei affetti<br>sono dunque assai umili. Non ho [[concepts/ambition\|ambizione]]<br>di vedere un uomo più bello. |
+| PROSPERO | (a [[characters/ferdinand\|Ferdinand]]) Vieni; obbedisci.<br>I tuoi nervi sono di nuovo nella loro infanzia,<br>e non hanno vigore in sé. |
+| [[characters/ferdinand\|FERDINAND]] | Così sono.<br>I miei spiriti, come in un sogno, sono tutti legati.<br>La perdita di mio padre, la debolezza che sento,<br>il naufragio di tutti i miei amici, né le minacce di quest'uomo<br>al quale sono soggiogato, mi sarebbero che lievi,<br>potessi io solo, dalla mia [[motifs/prison\|prigione]], una volta al giorno<br>contemplare questa fanciulla. Di tutti gli altri angoli della terra<br>si serva la libertà; spazio abbastanza<br>ho in una tale [[motifs/prison\|prigione]]. |
+| PROSPERO | (a parte)<br>Funziona. (A [[characters/ferdinand\|Ferdinand]]) Vieni.—<br>Hai fatto [[motifs/well\|bene]], fine [[characters/ariel\|Ariel]]. (A [[characters/ferdinand\|Ferdinand]]) Vieni<br>dietro a me.<br>(A [[characters/ariel\|Ariel]]) Odi che altro dovrai fare per me. |
+| [[characters/miranda\|MIRANDA]] | (a [[characters/ferdinand\|Ferdinand]])<br>Fatevi coraggio.<br>Mio padre è di [[concepts/nature\|natura]] migliore, signore,<br>di quanto appaia dal suo parlare. È insolito<br>ciò che ora gli è uscito. |
+| PROSPERO | (a [[characters/ariel\|Ariel]])<br>Sarai libero come<br>i venti dei monti; ma allora esegui esattamente<br>tutti i punti del mio comando. |
+| [[characters/ariel\|ARIEL]] | Alla sillaba. |
+| PROSPERO | (a [[characters/ferdinand\|Ferdinand]])<br>Vieni, seguimi. (A [[characters/miranda\|Miranda]]) Non parlare per lui. |
+| *(didascalia)* | Escono |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/alonso\|Alonso]], [[characters/sebastian\|Sebastian]], [[characters/antonio\|Antonio]], [[characters/gonzalo\|Gonzalo]], Adrian e Francisco |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]])<br>Vi supplico, signore, siate lieto. Avete ragione,<br>e tutti noi, di gioia; ché il nostro scampo<br>supera di molto la perdita. Il nostro motivo di pena<br>è comune; ogni giorno la moglie di qualche marinaio,<br>i padroni di qualche mercantile, e il mercante,<br>hanno il nostro stesso tema di dolore. Ma quanto al miracolo,<br>intendo il nostro salvamento, pochi su milioni<br>ne possono dire altrettanto. Dunque saggiamente, buon signore, pesate<br>il nostro dolore col nostro conforto. |
+| [[characters/alonso\|ALONSO]] | Ti prego, taci. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Riceve il conforto come una minestra fredda. |
+| [[characters/antonio\|ANTONIO]] | Il visitatore non lo mollerà così. |
+| [[characters/sebastian\|SEBASTIAN]] | Guarda, sta caricando l'orologio del suo ingegno. Fra poco suonerà. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]]) Signore— |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Uno: conta. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]])<br>Quando ogni pena che s'offre viene accolta,<br>viene a chi l'accoglie— |
+| [[characters/sebastian\|SEBASTIAN]] | Un dollaro. |
+| [[characters/gonzalo\|GONZALO]] | Dolore, in verità, gli viene. Avete detto più vero di quanto intendevate. |
+| SEABASTIAN | L'avete presa più saggiamente di quanto volessi. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]]) Perciò, mio signore— |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Ohibò, che scialacquatore della propria lingua! |
+| [[characters/alonso\|ALONSO]] | (a [[characters/gonzalo\|Gonzalo]]) Ti prego, risparmiami. |
+| [[characters/gonzalo\|GONZALO]] | [[motifs/well\|Bene]], ho finito. Eppure— |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Vuole seguitare a parlare. |
+| [[characters/antonio\|ANTONIO]] | Chi dei due, lui o Adrian, scommettiamo, comincerà per primo a cantare? |
+| [[characters/sebastian\|SEBASTIAN]] | Il vecchio gallo. |
+| [[characters/antonio\|ANTONIO]] | Il galletto. |
+| [[characters/sebastian\|SEBASTIAN]] | Fatto. La posta? |
+| [[characters/antonio\|ANTONIO]] | Una risata. 35 |
+| [[characters/sebastian\|SEBASTIAN]] | Ci sto! |
+| ADRIAN | (a [[characters/gonzalo\|Gonzalo]]) Benché quest'isola sembri [[motifs/desert\|deserta]]— |
+| *(didascalia)* | [[characters/antonio\|ANTONIO]] (a [[characters/sebastian\|Sebastian]]) Ah, ah, ah! |
+| *(didascalia)* | SEBASTIANCosì, siete pagato. |
+| ADRIAN | Inabitabile, e quasi inaccessibile— |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Eppure— |
+| ADRIAN | Eppure— |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Non poteva mancarlo. |
+| ADRIAN | Dev'essere per forza di sottile, tenera e delicata temperanza. 45 |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Temperanza era una ragazza delicata. |
+| [[characters/sebastian\|SEBASTIAN]] | Sì, e sottile, come egli dottissimamente ha esposto. |
+| ADRIAN | (a [[characters/gonzalo\|Gonzalo]]) L'aria spira qui su di noi dolcissima. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Come se avesse polmoni, e marci. |
+| [[characters/antonio\|ANTONIO]] | O come se fosse profumata da un pantano. |
+| [[characters/gonzalo\|GONZALO]] | (ad Adrian) Qui c'è tutto ciò che giova alla vita. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Vero, salvo i mezzi per vivere. |
+| [[characters/sebastian\|SEBASTIAN]] | Di quelli non ce n'è, o poco. |
+| [[characters/gonzalo\|GONZALO]] | (ad Adrian) Com'è rigogliosa e vigorosa l'erba! Come verde! |
+| [[characters/antonio\|ANTONIO]] | Il suolo, in verità, è fulvo. |
+| SEABASTIAN | Con dentro una punta di verde. |
+| [[characters/antonio\|ANTONIO]] | Non sbaglia di molto. |
+| [[characters/sebastian\|SEBASTIAN]] | No, non fa che sbagliare del tutto la [[concepts/truth\|verità]]. |
+| [[characters/gonzalo\|GONZALO]] | (ad Adrian) Ma la rarità della cosa è, ed è davvero quasi incredibile— |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Come molte rarità garantite. |
+| [[characters/gonzalo\|GONZALO]] | (ad Adrian) Che le nostre vesti, essendo state, come furono, inzuppate nel mare, conservano nondimeno la loro freschezza e il loro lustro, sembrando piuttosto tinte di nuovo che macchiate d'[[motifs/water\|acqua]] salsa. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Se una sola delle sue tasche potesse parlare, non direbbe che mente? |
+| [[characters/sebastian\|SEBASTIAN]] | Sì, o intascherebbe assai falsamente il suo rapporto. |
+| [[characters/gonzalo\|GONZALO]] | (ad Adrian) Mi pare che le nostre vesti siano ora fresche come quando le indossammo la prima volta in Africa, alle [[motifs/marriage\|nozze]] della bella figlia del [[archetypes/king\|re]], Claribel, col [[archetypes/king\|re]] di Tunisi. |
+| [[characters/sebastian\|SEBASTIAN]] | Furono dolci [[motifs/marriage\|nozze]], e prosperiamo [[motifs/well\|bene]] nel ritorno. |
+| ADRIAN | Tunisi non fu mai prima onorata d'un tale modello per [[characters/queen\|regina]]. |
+| [[characters/gonzalo\|GONZALO]] | Non dal [[motifs/time\|tempo]] della vedova Didone. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Vedova? Al diavolo! Come c'entra quella 'vedova'? Vedova Didone! |
+| [[characters/sebastian\|SEBASTIAN]] | E se avesse detto anche 'vedovo Enea'? Buon Dio, come la prendete! |
+| ADRIAN | (a [[characters/gonzalo\|Gonzalo]]) 'Vedova Didone' avete detto? Mi fate riflettere: era di Cartagine, non di Tunisi. |
+| [[characters/gonzalo\|GONZALO]] | Questa Tunisi, signore, era Cartagine. |
+| ADRIAN | Cartagine? |
+| [[characters/gonzalo\|GONZALO]] | Ve l'assicuro, Cartagine. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) La sua parola vale più dell'arpa miracolosa. |
+| [[characters/sebastian\|SEBASTIAN]] | Ha innalzato le mura, e anche le case. |
+| [[characters/antonio\|ANTONIO]] | Quale impossibile impresa renderà facile adesso? |
+| [[characters/sebastian\|SEBASTIAN]] | Credo che si porterà quest'isola a [[motifs/home\|casa]] in tasca, e la darà a suo figlio come una mela. |
+| [[characters/antonio\|ANTONIO]] | E seminandone i semi nel mare, farà nascere altre isole. |
+| [[characters/gonzalo\|GONZALO]] | (ad Adrian) Sì. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Ma sì, a suo [[motifs/time\|tempo]]. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]]) Signore, dicevamo che le nostre vesti sembrano ora fresche come quando eravamo a Tunisi, alle [[motifs/marriage\|nozze]] di vostra figlia, che ora è [[characters/queen\|regina]]. |
+| [[characters/antonio\|ANTONIO]] | E la più rara che mai vi sia giunta. |
+| [[characters/sebastian\|SEBASTIAN]] | Eccettuate, vi prego, la vedova Didone. |
+| [[characters/antonio\|ANTONIO]] | Oh, vedova Didone? Sì, vedova Didone. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]]) Non è, signore, il mio farsetto fresco come il primo giorno che l'indossai? In certo modo, intendo. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]]) Quel 'modo' fu [[motifs/well\|bene]] pescato. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]]) Quando lo portai alle [[motifs/marriage\|nozze]] di vostra figlia. |
+| [[characters/alonso\|ALONSO]] | Voi mi cacciate queste parole negli orecchi contro<br>lo stomaco del mio sentire. Non avessi mai<br>maritato là mia figlia! Ché, tornandone,<br>mio figlio è perduto; e, a mio giudizio, anche lei,<br>che è tanto lontana rimossa dall'[[settings/italy\|Italia]]<br>che mai più la rivedrò. O tu, mio erede<br>di Napoli e di Milano, qual pesce strano<br>ha fatto di te il suo pasto? |
+| FRANCISCO | Signore, egli può vivere.<br>L'ho visto battere i flutti sotto di sé<br>e cavalcarne il dorso. Calpestava l'[[motifs/water\|acqua]],<br>la cui inimicizia scostava, e affrontava<br>col petto l'onda più gonfia che gli veniva incontro. La testa ardita<br>tenne alta sopra i marosi contendenti, e remò<br>con le sue buone braccia in vigorosa bracciata<br>verso la riva, che sopra la sua base rosa dall'onda si chinava,<br>come piegandosi a soccorrerlo. Non [[concepts/doubt\|dubito]]<br>che sia giunto vivo a terra. |
+| [[characters/alonso\|ALONSO]] | No, no; è perduto. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/alonso\|Alonso]])<br>Signore, potete ringraziare voi stesso di questa gran perdita,<br>voi che non voleste benedire la nostra Europa con vostra figlia,<br>ma piuttosto perderla per un africano,<br>là dove essa, almeno, è bandita dal vostro occhio,<br>che ha ben ragione di bagnarne il dolore. |
+| [[characters/alonso\|ALONSO]] | Ti prego, taci. |
+| [[characters/sebastian\|SEBASTIAN]] | Foste supplicato in ginocchio e pregato altrimenti<br>da tutti noi, e la bella [[motifs/soul\|anima]] stessa<br>pesò tra ripugnanza e obbedienza<br>a quale estremo della bilancia piegare. Abbiamo perduto vostro<br>figlio,<br>[[concepts/fear\|temo]], per sempre. Milano e Napoli hanno<br>più vedove per opera di questa impresa<br>di quanti uomini ne portiamo a consolarle. La colpa è<br>vostra. |
+| [[characters/alonso\|ALONSO]] | E così la parte più cara della perdita. |
+| [[characters/gonzalo\|GONZALO]] | Mio signore [[characters/sebastian\|Sebastian]],<br>alla [[concepts/truth\|verità]] che dite manca un po' di gentilezza<br>e il [[motifs/time\|tempo]] per dirla. Sfregate la piaga<br>quando dovreste recare l'impiastro. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Molto [[motifs/well\|bene]]. |
+| [[characters/antonio\|ANTONIO]] | E assai chirurgicamente. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]])<br>C'è cattivo tempo in tutti noi, buon signore,<br>quando voi vi rannuvolate. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Tempo da uccellacci? |
+| [[characters/antonio\|ANTONIO]] | Assai cattivo. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]])<br>Avessi io la colonia di quest'isola, mio signore— |
+| [[characters/antonio\|ANTONIO]] | (a Seabastian)<br>La seminerebbe di semi d'ortica. |
+| [[characters/sebastian\|SEBASTIAN]] | O di lapazio, o di malva. |
+| [[characters/gonzalo\|GONZALO]] | E fossi io il [[archetypes/king\|re]] dell'isola, che farei? |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]])<br>Scamperebbe l'ubriachezza, per mancanza di vino. |
+| [[characters/gonzalo\|GONZALO]] | Nella repubblica io farei ogni cosa<br>al contrario. Ché nessuna sorta di traffico<br>ammetterei, né nome di magistrato;<br>le lettere non sarebbero note; ricchezza, [[concepts/poverty\|povertà]],<br>e uso di servitù, nessuno; contratto, successione,<br>confine, termine di terra, coltura, vigna, nessuno;<br>nessun uso di metallo, grano, o vino, o olio;<br>nessun mestiere, tutti gli uomini oziosi, tutti;<br>e anche le donne—ma [[archetypes/innocent\|innocenti]] e pure;<br>nessuna sovranità— |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Eppure ne sarebbe [[archetypes/king\|re]]. |
+| [[characters/antonio\|ANTONIO]] | La fine della sua repubblica dimentica il principio. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]])<br>Ogni cosa in comune la [[concepts/nature\|natura]] produrrebbe<br>senza sudore né fatica. Tradimento, fellonia,<br>spada, picca, coltello, schioppo, o bisogno d'alcun ordigno,<br>non vorrei; ma la [[concepts/nature\|natura]] recherebbe<br>di sua propria specie ogni ubertà, ogni abbondanza,<br>per nutrire il mio popolo [[archetypes/innocent\|innocente]]. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Niente matrimoni fra i suoi sudditi? |
+| [[characters/antonio\|ANTONIO]] | Nessuno, amico, tutti oziosi: puttane e furfanti. |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]])<br>Governerei con tale perfezione, signore,<br>da superare l'[[topoi/golden-age\|età dell'oro]]. |
+| [[characters/sebastian\|SEBASTIAN]] | Dio salvi sua maestà! |
+| [[characters/antonio\|ANTONIO]] | Lunga vita a Gonzalol |
+| [[characters/gonzalo\|GONZALO]] | (ad [[characters/alonso\|Alonso]]) E—mi seguite, signore? |
+| [[characters/alonso\|ALONSO]] | Ti prego, basta. Non mi dici nulla. |
+| [[characters/gonzalo\|GONZALO]] | Credo [[motifs/well\|bene]] a vostra altezza, e l'ho fatto per porgere occasione a questi gentiluomini, che hanno polmoni così sensibili e agili da ridere sempre di nulla. |
+| [[characters/antonio\|ANTONIO]] | Era di voi che ridevamo. |
+| [[characters/gonzalo\|GONZALO]] | Il quale, in questa sorta di allegra buffoneria, non sono nulla per voi. Così potete continuare, e ridere ancora di nulla. |
+| [[characters/antonio\|ANTONIO]] | Che colpo è stato dato! |
+| [[characters/sebastian\|SEBASTIAN]] | Se non fosse caduto di piatto. |
+| [[characters/gonzalo\|GONZALO]] | Siete gentiluomini di gagliarda tempra. Sollevereste la [[motifs/moon\|luna]] fuori dalla sua sfera, se vi restasse cinque settimane senza mutare. |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], invisibile, suonando una musica solenne |
+| [[characters/sebastian\|SEBASTIAN]] | Lo faremmo, e poi andremmo a caccia di pipistrelli. |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/gonzalo\|Gonzalo]]) Suvvia, mio buon signore, non v'adirate. |
+| [[characters/gonzalo\|GONZALO]] | No, ve l'assicuro, non arrischierò così debolmente la mia discrezione. Volete ridermi fino al sonno? Ché mi sento assai pesante. |
+| [[characters/antonio\|ANTONIO]] | Andate a [[motifs/sleep\|dormire]], e ascoltateci.<br>[[characters/gonzalo\|Gonzalo]],<br>Adrian e Francisco [[motifs/sleep\|dormono]] |
+| [[characters/alonso\|ALONSO]] | Come, tutti già addormentati? Vorrei che i miei occhi,<br>chiudendosi, chiudessero anche i miei pensieri.—Sento<br>che vi sono inclini. |
+| [[characters/sebastian\|SEBASTIAN]] | Vi piaccia, signore,<br>non trascurare quella grave offerta.<br>Rado visita il dolore; e quando lo fa,<br>è un consolatore. |
+| [[characters/antonio\|ANTONIO]] | Noi due, mio signore,<br>custodiremo la vostra persona mentre riposate,<br>e veglieremo sulla vostra sicurezza. |
+| [[characters/alonso\|ALONSO]] | Grazie. Meravigliosamente pesante. |
+| *(didascalia)* | Si addormenta. Esce [[characters/ariel\|Ariel]] |
+| [[characters/sebastian\|SEBASTIAN]] | Che strano sopore li possiede! |
+| [[characters/antonio\|ANTONIO]] | È la qualità del clima. |
+| [[characters/sebastian\|SEBASTIAN]] | Perché<br>allora non fa calare le nostre palpebre? Non mi sento<br>disposto al [[motifs/sleep\|sonno]]. |
+| [[characters/antonio\|ANTONIO]] | Né io; i miei spiriti sono desti.<br>Caddero tutti insieme, come d'accordo;<br>crollarono come colpiti dal fulmine. Che cosa potrebbe,<br>degno [[characters/sebastian\|Sebastian]], oh, che cosa potrebbe—? Non più!—<br>Eppure mi pare di vederlo sul tuo volto.<br>Ciò che dovresti essere l'occasione ti dice, e<br>la mia forte [[concepts/imagination\|immaginazione]] vede una [[motifs/crown\|corona]]<br>calare sul tuo capo. |
+| [[characters/sebastian\|SEBASTIAN]] | Come, sei sveglio? |
+| [[characters/antonio\|ANTONIO]] | Non mi senti parlare? |
+| [[characters/sebastian\|SEBASTIAN]] | Ti sento, e certo<br>è un linguaggio assonnato, e tu parli<br>fuori dal tuo [[motifs/sleep\|sonno]]. Che cosa hai detto?<br>Strano riposo è questo, dormire<br>con gli occhi spalancati; ritto, parlante, in moto,<br>e pure così profondamente addormentato. |
+| [[characters/antonio\|ANTONIO]] | Nobile [[characters/sebastian\|Sebastian]],<br>tu lasci [[motifs/sleep\|dormire]] la tua fortuna, anzi morire; chiudi gli occhi<br>mentre sei desto. |
+| [[characters/sebastian\|SEBASTIAN]] | Russi distintamente;<br>c'è un senso nel tuo russare. |
+| [[characters/antonio\|ANTONIO]] | Sono più serio del mio costume. Anche tu<br>devi esserlo se mi ascolti, e il farlo<br>ti triplica. |
+| [[characters/sebastian\|SEBASTIAN]] | [[motifs/well\|Bene]], io sono [[motifs/water\|acqua]] ferma. |
+| [[characters/antonio\|ANTONIO]] | T'insegnerò io a fluire. |
+| [[characters/sebastian\|SEBASTIAN]] | Fallo; a rifluire<br>m'istruisce la pigrizia ereditaria. |
+| [[characters/antonio\|ANTONIO]] | Oh,<br>se solo sapessi come accarezzi il disegno<br>mentre così lo schernisci; come spogliandolo<br>più lo rivesti! Gli uomini che rifluiscono, in verità,<br>corrono spessissimo tanto vicino al [[characters/bottom\|fondo]]<br>per loro stessa [[concepts/fear\|paura]] o pigrizia. |
+| [[characters/sebastian\|SEBASTIAN]] | Ti prego, continua.<br>Il fisso del tuo occhio e della tua guancia proclamano<br>in te una materia, e un parto, in verità,<br>che ti costa gran doglie a rendere. |
+| [[characters/antonio\|ANTONIO]] | Ecco, signore.<br>Benché questo signore di debole ricordo, costui,<br>di cui si avrà altrettanto poca [[motifs/memory\|memoria]]<br>quando sarà interrato, abbia qui quasi persuaso—<br>ché è uno spirito di persuasione, e solo<br>professa il persuadere—il [[archetypes/king\|re]] che suo figlio è vivo,<br>è tanto impossibile che egli non sia annegato<br>quanto che colui che qui dorme nuoti. |
+| [[characters/sebastian\|SEBASTIAN]] | Non ho [[concepts/hope\|speranza]]<br>che non sia annegato. |
+| [[characters/antonio\|ANTONIO]] | Oh, da quella 'nessuna [[concepts/hope\|speranza]]'<br>che gran [[concepts/hope\|speranza]] ti viene! Nessuna [[concepts/hope\|speranza]] da quel lato è<br>dall'altro una [[concepts/hope\|speranza]] così alta che perfino<br>l'[[concepts/ambition\|ambizione]] non può spingere lo sguardo oltre,<br>ma [[concepts/doubt\|dubita]] di scoprire là. Vuoi concedermi<br>che [[characters/ferdinand\|Ferdinand]] sia annegato? |
+| [[characters/sebastian\|SEBASTIAN]] | È perduto. |
+| [[characters/antonio\|ANTONIO]] | Allora dimmi,<br>chi è il prossimo erede di Napoli? |
+| [[characters/sebastian\|SEBASTIAN]] | Claribel. |
+| [[characters/antonio\|ANTONIO]] | Colei che è [[characters/queen\|regina]] di Tunisi; che dimora<br>dieci leghe oltre la vita d'un uomo; che da Napoli<br>non può aver notizia—se il sole non fosse corriere—<br>l'uomo nella [[motifs/moon\|luna]] è troppo lento—finché i menti neonati<br>siano ruvidi e da rasoio; colei venendo dalla quale<br>fummo tutti inghiottiti dal mare, benché alcuni rigettati—<br>e da quel destino chiamati a compiere un atto<br>di cui il passato è prologo, e il futuro<br>affidato al tuo e al mio operare. |
+| [[characters/sebastian\|SEBASTIAN]] | Che roba è questa? Che dici?<br>È vero che la figlia di mio fratello è [[characters/queen\|regina]] di Tunisi;<br>e così è erede di Napoli; fra queste regioni<br>c'è un certo spazio. |
+| [[characters/antonio\|ANTONIO]] | Uno spazio ogni cui cubito<br>par gridare: 'Come potrà quella Claribel<br>rimisurarci indietro fino a Napoli? Resti a Tunisi,<br>e [[characters/sebastian\|Sebastian]] si desti.' Poni che questa fosse la [[motifs/death\|morte]]<br>che ora li ha ghermiti; ebbene, non starebbero peggio<br>di come stanno adesso. C'è chi sa governare Napoli<br>[[motifs/well\|bene]] quanto colui che dorme, signori che sanno cianciare<br>tanto ampiamente e inutilmente<br>quanto questo [[characters/gonzalo\|Gonzalo]]; io stesso saprei fare<br>una cornacchia di ciarla altrettanto profonda. Oh, avessi tu<br>la mente che ho io, che [[motifs/sleep\|sonno]] sarebbe questo<br>per la tua elevazione! Mi capisci? |
+| [[characters/sebastian\|SEBASTIAN]] | Mi pare di sì. |
+| [[characters/antonio\|ANTONIO]] | E come accoglie il tuo compiacimento<br>la tua stessa buona fortuna? |
+| [[characters/sebastian\|SEBASTIAN]] | Ricordo<br>che soppiantasti tuo fratello Prospero. |
+| [[characters/antonio\|ANTONIO]] | Vero;<br>e guarda come [[motifs/well\|bene]] mi cadono addosso le vesti,<br>assai più acconce di prima. I servi di mio fratello<br>erano allora i miei pari; ora sono i miei uomini. |
+| [[characters/sebastian\|SEBASTIAN]] | Ma la tua [[concepts/conscience\|coscienza]]? |
+| [[characters/antonio\|ANTONIO]] | Sì, signore, e dove sta? Se fosse un gelone<br>mi costringerebbe alla pantofola; ma non sento<br>questa divinità nel petto. Venti coscienze<br>che stessero fra me e Milano, siano pur candite,<br>e si sciolgano prima di molestarmi. Qui giace tuo fratello,<br>non migliore della terra su cui giace<br>se fosse ciò a cui ora somiglia—cioè morto;<br>lui che io con questo acciaio obbediente, tre pollici soltanto,<br>posso coricare per sempre; mentre tu, facendo così,<br>potresti mandare al sonno perpetuo<br>questo antico boccone, questo Ser Prudenza, che<br>non ci rimproveri poi la via. Quanto a tutti gli altri,<br>accoglieranno il suggerimento come gatta che lappa latte;<br>segneranno l'[[motifs/clock\|orologio]] su qualunque faccenda<br>diremo si convenga all'ora. |
+| [[characters/sebastian\|SEBASTIAN]] | Il tuo caso, caro amico,<br>sarà il mio precedente. Come tu ottenesti Milano,<br>io avrò Napoli. Sguaina la tua spada. Un colpo<br>ti libererà dal tributo che paghi,<br>e io, il [[archetypes/king\|re]], ti [[motifs/love\|amerò]]. |
+| [[characters/antonio\|ANTONIO]] | Sguainiamo insieme,<br>e quando io alzo la mano, fa' tu lo stesso<br>per calarla su [[characters/gonzalo\|Gonzalo]].<br>Sguainano |
+| [[characters/sebastian\|SEBASTIAN]] | Oh, una parola sola. |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], invisibile, con musica |
+| [[characters/ariel\|ARIEL]] | (a [[characters/gonzalo\|Gonzalo]])<br>Il mio padrone con la sua arte prevede il pericolo<br>in cui voi suo amico vi trovate—e mi manda,<br>ché altrimenti il suo disegno muore, a tenerli in vita.<br>Canta all'orecchio di [[characters/gonzalo\|Gonzalo]]<br>Mentre voi qui giacete russando,<br>la congiura con gli occhi aperti<br>coglie il suo [[motifs/time\|tempo]].<br>Se della vita avete cura,<br>scuotete il sonno, e state in guardia.<br>Svegliatevi, svegliatevi! |
+| [[characters/antonio\|ANTONIO]] | (a [[characters/sebastian\|Sebastian]])<br>Allora siamo entrambi rapidi. |
+| [[characters/gonzalo\|GONZALO]] | (svegliandosi)<br>Ora i buoni angeli<br>preservino il [[archetypes/king\|re]]! |
+| [[characters/alonso\|ALONSO]] | (svegliandosi)<br>Come, che c'è? Olà, sveglia!<br>Gli altri si svegliano<br>(Ad [[characters/antonio\|Antonio]] e [[characters/sebastian\|Sebastian]])<br>Perché avete le spade sguainate?<br>(A [[characters/gonzalo\|Gonzalo]]) Perché quest'aspetto atterrito? |
+| [[characters/gonzalo\|GONZALO]] | Che cosa succede? |
+| [[characters/sebastian\|SEBASTIAN]] | Mentre stavamo qui a custodire il vostro riposo,<br>proprio ora udimmo un cupo scoppio di muggiti,<br>come di tori, o piuttosto di leoni. Non vi svegliò?<br>Mi colpì l'orecchio terribilmente. |
+| [[characters/alonso\|ALONSO]] | Io non udii nulla. |
+| [[characters/antonio\|ANTONIO]] | Oh, era un fragore da spaventare l'orecchio d'un [[archetypes/monster\|mostro]],<br>da far tremare la terra! Certo era il ruggito<br>d'un branco intero di leoni. |
+| [[characters/alonso\|ALONSO]] | Udiste questo, [[characters/gonzalo\|Gonzalo]]? |
+| [[characters/gonzalo\|GONZALO]] | Sul mio [[concepts/honour\|onore]], signore, udii un ronzio,<br>e strano per giunta, che mi destò.<br>Vi scossi, signore, e gridai. Come apersi gli occhi<br>vidi le loro armi sguainate. Ci fu un rumore,<br>questo è certo. Meglio che stiamo in guardia,<br>o che lasciamo questo luogo. Sguainiamo le armi. |
+| [[characters/alonso\|ALONSO]] | Via da questo suolo, e cerchiamo ancora<br>il mio povero figlio. |
+| [[characters/gonzalo\|GONZALO]] | Il cielo lo guardi da queste bestie!<br>Ché di certo è nell'isola. |
+| [[characters/alonso\|ALONSO]] | Guidateci. |
+| *(didascalia)* | Escono tutti tranne [[characters/ariel\|Ariel]] |
+| [[characters/ariel\|ARIEL]] | Prospero mio signore saprà ciò che ho fatto.<br>Va' dunque sicuro, [[archetypes/king\|re]], a cercare tuo figlio. |
+| *(didascalia)* | Esce |
+| [[characters/ariel\|ARIEL]] | Entra [[characters/caliban\|Caliban]], con addosso un gabbano, e con un <br>carico di legna |
+| *(didascalia)* | [[characters/caliban\|CALIBAN]] gettando a terra il suo carico |
+| [[characters/ariel\|ARIEL]] | Tutte le infezioni che il sole succhia<br>da paludi, acquitrini e bassure cadano su Prospero, e lo facciano<br>a palmo a palmo una malattia! |
+| *(didascalia)* | Si ode un rumore di tuono |
+| [[characters/ariel\|ARIEL]] | I suoi spiriti mi odono,<br>eppure devo per forza maledire. Ma non mi pizzicheranno,<br>non mi spaventeranno con folletti, non mi getteranno nel fango,<br>né mi guideranno come un tizzone di [[motifs/fire\|fuoco]] nel buio<br>fuori dalla mia strada, se non glielo ordina. Ma<br>per ogni inezia me li aizza addosso;<br>ora come scimmie, che mi fanno smorfie e ciarlano<br>e poi mi mordono; ora come ricci, che<br>giacciono rotolando sul mio cammino scalzo e drizzano<br>le loro punte al mio passo; talvolta sono<br>tutto avvolto di vipere, che con lingue biforcute<br>mi sibilano fino alla [[concepts/madness\|follia]]. |
+| *(didascalia)* | Entra [[characters/trinculo\|Trinculo]] |
+| [[characters/ariel\|ARIEL]] | Ecco, ecco!<br>Viene uno dei suoi spiriti, e a tormentarmi<br>perché porto legna lentamente. Mi butterò a terra.<br>Forse non mi baderà.<br>Si sdraia |
+| [[characters/trinculo\|TRINCULO]] | Qui non c'è né cespuglio né arbusto che ripari da alcun tempo, e un'altra [[motifs/storm\|tempesta]] si prepara. La sento cantare nel [[motifs/wind\|vento]]. Quella stessa nuvola nera, quella enorme, sembra una sudicia botte che voglia versare il suo liquore. Se dovesse tuonare come prima, non so dove nascondere la testa. Quella stessa nuvola non può che rovesciarsi a secchiate. (Vedendo [[characters/caliban\|Caliban]]) Che abbiamo qui, un uomo o un pesce? Morto o vivo?—Un pesce: puzza di pesce; un puzzo antichissimo e pescaccio; una specie di baccalà non dei più freschi. Uno strano pesce! Fossi ora in Inghilterra, come una volta fui, e avessi solo questo pesce dipinto su un'insegna, non ci sarebbe [[archetypes/fool\|sciocco]] in vacanza che non desse una moneta d'argento. Là questo [[archetypes/monster\|mostro]] farebbe la fortuna d'un uomo. Là qualunque bestia strana fa la fortuna d'un uomo. Quando non danno un quattrino per soccorrere uno storpio mendicante, ne sborsano dieci per vedere un indiano morto. Gambe come un uomo, e le pinne come braccia! Caldo, in fede mia! Ora sciolgo la mia opinione, non la trattengo più. Questo non è un pesce, ma un isolano colpito di recente da un fulmine. |
+| *(didascalia)* | Tuono |
+| [[characters/trinculo\|TRINCULO]] | Ahimè, la [[motifs/storm\|tempesta]] è tornata. La mia via migliore è strisciare sotto il suo gabbano; non c'è altro riparo qui intorno. La miseria fa conoscere all'uomo strani compagni di letto. Qui mi rifugerò finché la feccia della [[motifs/storm\|tempesta]] non sia passata.<br>Si nasconde sotto il gabbano di [[characters/caliban\|Caliban]]. Entra Stefano, cantando, con una bottiglia di legno in mano |
+| STEFANO | Non andrò più per mare, per mare,<br>qui morirò a terra—<br>Questa è una canzone assai sguaiata da cantare al funerale d'un uomo.<br>[[motifs/well\|Bene]], ecco il mio conforto.<br>Beve, poi canta<br>Il capitano, lo scopatore, il nostromo e io, 45<br>l'artigliere e il suo aiuto,<br>amammo Mall, Meg, Marian e Margery,<br>ma nessuno di noi si curò di Kate.<br>Ché aveva una lingua pungente,<br>e gridava a un marinaio: 'Va' a impiccarti!'<br>Non amava l'odore del catrame né della pece,<br>eppure un sarto poteva grattarla dove le prudeva.<br>Dunque al mare, ragazzi, e lei vada a impiccarsi!<br>Dunque al mare, eccetera.<br>Anche questa è una canzone sguaiata. Ma ecco il mio conforto.<br>Beve |
+| [[characters/caliban\|CALIBAN]] | (a [[characters/trinculo\|Trinculo]]) Non tormentarmi! Oh! |
+| STEFANO | Che c'è? Abbiamo diavoli qui? Ci giocate scherzi con selvaggi e uomini delle Indie, eh? Non sono scampato all'annegamento per aver paura ora delle tue quattro gambe. Ché fu detto: 'Un uomo tanto valente quanto mai ne camminò su quattro gambe non gli farà cedere il terreno.' E si dirà ancora così, finché Stefano respira dalle narici. |
+| [[characters/caliban\|CALIBAN]] | Lo spirito mi tormenta. Oh! |
+| STEFANO | Questo è qualche [[archetypes/monster\|mostro]] dell'isola con quattro gambe, che si è preso, a quanto pare, la febbre. Dove diavolo può aver imparato la nostra lingua? Gli darò un po' di sollievo, non fosse che per questo. Se riesco a rimetterlo in sesto e a tenerlo mansueto e a portarlo a Napoli, è un dono per qualsiasi imperatore che mai abbia calcato cuoio conciato. |
+| [[characters/caliban\|CALIBAN]] | (a [[characters/trinculo\|Trinculo]]) Non tormentarmi, ti prego! Porterò la mia legna a [[motifs/home\|casa]] più in fretta. |
+| STEFANO | Ora è in preda al suo attacco, e non parla da savio. Assaggerà la mia bottiglia. Se non ha mai bevuto vino prima, ci vorrà poco a togliergli l'attacco. Se riesco a rimetterlo in sesto e a tenerlo mansueto, non chiederò mai troppo per lui. Pagherà, e profumatamente, chi se lo prende. |
+| [[characters/caliban\|CALIBAN]] | (a [[characters/trinculo\|Trinculo]]) Finora mi fai poco male. Me ne farai presto, lo so dal tuo tremare. Ora Prospero opera su di te. |
+| STEFANO | Su, vieni qua. Apri la bocca. Ecco qua ciò che ti scioglierà la lingua, gatto. Apri la bocca. Questo ti scuoterà il tremito, te lo dico io, e per bene. Non sai chi ti è amico. Riapri le mascelle.<br>[[characters/caliban\|Caliban]] beve |
+| [[characters/trinculo\|TRINCULO]] | Dovrei conoscere quella voce. Dovrebbe essere—ma lui è annegato, e questi sono diavoli. Oh, difendetemi! |
+| STEFANO | Quattro gambe e due voci—un [[archetypes/monster\|mostro]] delicatissimo! La sua voce anteriore serve a dir [[motifs/well\|bene]] del suo amico; la voce posteriore a proferire turpi discorsi e a sparlare. Se tutto il vino della mia bottiglia può rimetterlo in sesto, gli guarirò la febbre. Vieni.<br>[[characters/caliban\|Caliban]]<br>beve<br>Amen. Ne verserò un po' nella tua altra bocca. |
+| [[characters/trinculo\|TRINCULO]] | Stefano! |
+| STEFANO | La tua altra bocca mi chiama? [[concepts/mercy\|Pietà]], [[concepts/mercy\|pietà]]! Questo è un diavolo, e non un [[archetypes/monster\|mostro]]. Lo lascerò. Non ho un cucchiaio abbastanza lungo. |
+| [[characters/trinculo\|TRINCULO]] | Stefano! Se sei Stefano, toccami e parlami, ché io sono [[characters/trinculo\|Trinculo]]. Non aver paura. Il tuo buon amico [[characters/trinculo\|Trinculo]]. |
+| STEFANO | Se sei [[characters/trinculo\|Trinculo]], vieni fuori. Ti tirerò per le gambe più piccole. Se ci sono qui gambe di [[characters/trinculo\|Trinculo]], son queste. Tira fuori [[characters/trinculo\|Trinculo]] per le gambe Sei proprio [[characters/trinculo\|Trinculo]]! Come sei venuto a essere lo sterco di questo vitello di [[motifs/moon\|luna]]? Può scaricare Trinculi? |
+| [[characters/trinculo\|TRINCULO]] | (alzandosi) Lo credevo ucciso da un fulmine. Ma tu non sei annegato, Stefano? [[concepts/hope\|Spero]] ora che tu non sia annegato. È passata la [[motifs/storm\|tempesta]]? Mi sono nascosto sotto il gabbano di questo morto vitello di [[motifs/moon\|luna]] per [[concepts/fear\|paura]] della [[motifs/storm\|tempesta]]. E sei vivo, Stefano? Oh Stefano, due napoletani scampati! |
+| *(didascalia)* | Fa girare Stefano in un ballo |
+| STEFANO | Ti prego, non farmi girare. Il mio stomaco non è saldo. |
+| [[characters/caliban\|CALIBAN]] | Queste son cose belle, se non sono spiriti.<br>Quello è un dio valente, e porta liquore celeste.<br>M'inginocchierò a lui. |
+| *(didascalia)* | S'inginocchia |
+| STEFANO | (a [[characters/trinculo\|Trinculo]]) Come sei scampato? Come sei giunto qui? Giura su questa bottiglia come sei giunto qui. Io sono scampato su una botte di vin secco che i marinai buttarono a mare, per questa bottiglia—che ho fatto con la corteccia d'un albero con le mie stesse mani da quando fui gettato a riva. |
+| [[characters/caliban\|CALIBAN]] | Giurerò su quella bottiglia d'essere tuo fedele suddito, ché il liquore non è terreno. |
+| STEFANO | (offrendo la bottiglia a [[characters/trinculo\|Trinculo]]) Ecco. Giura dunque come sei scampato. |
+| [[characters/trinculo\|TRINCULO]] | A nuoto fino a riva, amico, come un'anatra. So nuotare come un'anatra, lo giuro. |
+| STEFANO | Ecco, bacia il libro.<br>[[characters/trinculo\|Trinculo]] beve<br>Benché tu sappia nuotare come un'anatra, sei fatto<br>come un'oca. |
+| [[characters/trinculo\|TRINCULO]] | Oh Stefano, ne hai ancora di questo? |
+| STEFANO | La botte intera, amico. La mia cantina è in una roccia presso il mare, dove ho nascosto il vino. |
+| *(didascalia)* | [[characters/caliban\|Caliban]] si alza |
+| STEFANO | E allora, vitello di [[motifs/moon\|luna]]? Come va la tua febbre? |
+| [[characters/caliban\|CALIBAN]] | Non sei caduto dal cielo? |
+| STEFANO | Dalla [[motifs/moon\|luna]], te l'assicuro. Ero l'uomo della [[motifs/moon\|luna]] al [[motifs/time\|tempo]] che fu. |
+| [[characters/caliban\|CALIBAN]] | Ti ho visto in lei, e ti adoro.<br>La mia padrona mi mostrò te, e il tuo cane e il tuo cespuglio. |
+| STEFANO | Su, giuralo. Bacia il libro. Lo rifornirò presto di nuovo contenuto. Giura.<br>[[characters/caliban\|Caliban]] beve |
+| [[characters/trinculo\|TRINCULO]] | Per questa buona luce, questo è un [[archetypes/monster\|mostro]] assai sciocco! Io aver paura di lui? Un [[archetypes/monster\|mostro]] debolissimo! L'uomo della [[motifs/moon\|luna]]? Un [[archetypes/monster\|mostro]] poverissimo e credulone! [[motifs/well\|Ben]] tirata, [[archetypes/monster\|mostro]], in verità! |
+| [[characters/caliban\|CALIBAN]] | (a Stefano)<br>Ti mostrerò ogni pollice fertile dell'isola,<br>e ti bacerò il piede. Ti prego, sii il mio dio. |
+| [[characters/trinculo\|TRINCULO]] | Per questa luce, un [[archetypes/monster\|mostro]] perfidissimo e ubriaco! Quando il suo dio dorme, gli ruberà la bottiglia. |
+| [[characters/caliban\|CALIBAN]] | (a Stefano)<br>Ti bacerò il piede. Mi giurerò tuo suddito. |
+| STEFANO | Vieni dunque; giù, e giura. |
+| *(didascalia)* | [[characters/caliban\|Caliban]] s'inginocchia |
+| [[characters/trinculo\|TRINCULO]] | Riderò fino alla [[motifs/death\|morte]] per questo [[archetypes/monster\|mostro]] dalla testa di cucciolo. Un [[archetypes/monster\|mostro]] disgustosissimo! Mi verrebbe voglia di picchiarlo— |
+| STEFANO | (a [[characters/caliban\|Caliban]]) Su, bacia. |
+| *(didascalia)* | [[characters/caliban\|Caliban]] gli bacia il piede |
+| [[characters/trinculo\|TRINCULO]] | Se non fosse che il povero [[archetypes/monster\|mostro]] è ubriaco. Un [[archetypes/monster\|mostro]] abominevole! |
+| [[characters/caliban\|CALIBAN]] | Ti mostrerò le sorgenti migliori; ti coglierò bacche;<br>pescherò per te, e ti procurerò legna a sufficienza.<br>La peste sul [[archetypes/tyrant\|tiranno]] che servo!<br>Non gli porterò più fascine, ma seguirò te,<br>tu, uomo meraviglioso. |
+| [[characters/trinculo\|TRINCULO]] | Un [[archetypes/monster\|mostro]] ridicolissimo, che fa una [[concepts/wonder\|meraviglia]] d'un povero ubriacone! |
+| [[characters/caliban\|CALIBAN]] | (a Stefano)<br>Ti prego, lascia che ti porti dove crescono i granchi,<br>e io con le mie lunghe unghie ti scaverò le noci di terra,<br>ti mostrerò un nido di ghiandaia, e t'insegnerò come<br>prendere al laccio l'agile uistitì. Ti condurrò<br>ai grappoli di nocciole, e talvolta ti prenderò<br>giovani gabbiani dalla roccia. Vuoi venire con<br>me? |
+| STEFANO | Ti prego ora, apri la strada senza più chiacchiere.—[[characters/trinculo\|Trinculo]], il [[archetypes/king\|re]] e tutta la nostra compagnia essendo annegati, erediteremo noi qui.—Qua, reggi la mia bottiglia.—Compagno [[characters/trinculo\|Trinculo]], la riempiremo di nuovo fra poco. |
+| [[characters/caliban\|CALIBAN]] | (canta ubriaco) Addio, padrone, addio, addio! |
+| [[characters/trinculo\|TRINCULO]] | Un [[archetypes/monster\|mostro]] ululante, un [[archetypes/monster\|mostro]] ubriaco! |
+| [[characters/caliban\|CALIBAN]] | (canta)<br>Non farò più chiuse per i pesci,<br>né porterò legna da ardere<br>a richiesta,<br>né raschierò trincianti, né laverò piatti.<br>'Ban, 'ban, Cacaliban<br>ha un nuovo padrone.—Trovatevi un uomo nuovo!<br>[[concepts/freedom\|Libertà]], evviva! Evviva, [[concepts/freedom\|libertà]]! [[concepts/freedom\|Libertà]], evviva,<br>[[concepts/freedom\|libertà]]! |
+| STEFANO | Oh valoroso [[archetypes/monster\|mostro]]! Apri la strada. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra [[characters/ferdinand\|Ferdinand]], portando un ceppo |
+| [[characters/ferdinand\|FERDINAND]] | Vi son giochi che sono penosi, e la loro fatica<br>il diletto che danno riscatta. Certe bassezze<br>si sopportano nobilmente, e cose assai meschine<br>mirano a ricchi fini. Questo mio umile compito<br>mi sarebbe grave quanto odioso, ma<br>la signora ch'io servo ravviva ciò ch'è morto,<br>e muta in piaceri le mie fatiche. Oh, ella è<br>dieci volte più dolce quanto suo padre è arcigno,<br>ed egli è tutto composto di durezza. Devo trasportare<br>qualche migliaio di questi ceppi e accatastarli,<br>per un aspro comando. La mia dolce signora<br>piange quando mi vede all'opera, e dice che tale<br>bassezza<br>non ebbe mai simile esecutore. Mi dimentico,<br>ma questi dolci pensieri mi ristorano le fatiche,<br>e più s'affaccendano quand'io lavoro. |
+| *(didascalia)* | Entra [[characters/miranda\|Miranda]], e Prospero la segue a distanza |
+| [[characters/miranda\|MIRANDA]] | Ahimè, ora, vi prego,<br>non faticate tanto. Vorrei che il [[motifs/lightning\|lampo]] avesse<br>arso quei ceppi che v'è imposto d'accatastare.<br>Deponetelo, vi prego, e riposate. Quando questo brucerà<br>piangerà d'avervi stancato. Mio padre<br>è immerso nello studio. Riposatevi, ora, vi prego.<br>È al sicuro per queste tre ore. |
+| [[characters/ferdinand\|FERDINAND]] | Oh carissima signora,<br>il sole tramonterà prima ch'io abbia compiuto<br>ciò che devo sforzarmi di fare. |
+| [[characters/miranda\|MIRANDA]] | Se vorrete sedervi<br>io porterò intanto i vostri ceppi. Vi prego, datemi quello;<br>lo porterò alla catasta. |
+| [[characters/ferdinand\|FERDINAND]] | No, creatura preziosa.<br>Preferirei spezzarmi i nervi, rompermi la schiena,<br>piuttosto che vedervi subire tale disonore<br>mentre io me ne sto ozioso accanto. |
+| [[characters/miranda\|MIRANDA]] | Si addirebbe a me<br>[[motifs/well\|bene]] quanto a voi; e io lo farei<br>con assai maggior agio, ché la mia volontà vi consente,<br>e la vostra vi ripugna. |
+| PROSPERO | (a parte)<br>Povero vermicello, sei contagiato.<br>Questa visita lo mostra. |
+| [[characters/miranda\|MIRANDA]] | (a [[characters/ferdinand\|Ferdinand]]) Avete l'aria stanca. |
+| [[characters/ferdinand\|FERDINAND]] | No, nobile signora, per me è fresco mattino<br>quando mi siete accanto di [[motifs/night\|notte]]. Vi supplico,<br>soprattutto perché io possa porlo nelle mie preghiere,<br>qual è il vostro nome? |
+| [[characters/miranda\|MIRANDA]] | [[characters/miranda\|Miranda]].<br>Oh padre mio,<br>ho infranto il vostro comando a dirlo! |
+| [[characters/ferdinand\|FERDINAND]] | Ammirata [[characters/miranda\|Miranda]]!<br>Davvero il colmo dell'ammirazione, degna<br>di quanto il mondo ha di più caro. Molte dame<br>ho guardato con occhio compiaciuto, e molte [[motifs/time\|volte]]<br>l'armonia della loro lingua ha ridotto in schiavitù<br>il mio orecchio troppo attento. Per diverse virtù<br>mi son piaciute diverse donne; ma nessuna mai<br>con [[motifs/soul\|animo]] così intero, ché qualche suo difetto<br>contendeva con la più nobile grazia ch'ella avesse<br>e la metteva in ombra. Ma voi, oh voi,<br>così perfetta e senza pari, siete creata<br>del meglio d'ogni creatura. |
+| [[characters/miranda\|MIRANDA]] | Non conosco<br>nessuna del mio sesso, né ricordo volto di donna<br>salvo il mio nello specchio; né ho veduto<br>altri che possa chiamare uomini oltre a voi, buon amico,<br><br>e il mio caro padre. Come siano i volti là fuori<br>non so; ma, per la mia modestia,<br>il [[motifs/jewel\|gioiello]] della mia dote, non desidererei<br>altro compagno al mondo che voi;<br>né l'[[concepts/imagination\|immaginazione]] sa formare figura<br>che mi piaccia fuor di voi. Ma cianciò<br>un poco troppo alla sfrenata, e i precetti di mio padre<br>in ciò dimentico. |
+| [[characters/ferdinand\|FERDINAND]] | Io sono, per condizione,<br>un principe, [[characters/miranda\|Miranda]], e credo un [[archetypes/king\|re]]—<br>non lo vorrei—e non sopporterei<br>questa [[concepts/slavery\|schiavitù]] di legna più di quanto sopporterei<br>che il moscone m'insozzi la bocca. Udite parlare la mia [[motifs/soul\|anima]].<br>Nell'istante stesso in cui vi vidi<br>il mio cuore volò al vostro servizio; là dimora<br>per farmene schiavo. Ed è per voi<br>ch'io sono questo paziente portatore di ceppi. |
+| [[characters/miranda\|MIRANDA]] | Mi [[motifs/love\|amate]]? |
+| [[characters/ferdinand\|FERDINAND]] | Oh cielo, oh terra, siate testimoni di queste parole,<br>e [[motifs/crown\|coronate]] di lieto esito ciò che professo<br>se dico il vero! Se falsamente, mutate<br>in sciagura il meglio che m'è presagito!<br>Oltre ogni limite di quant'altro è al mondo,<br>vi [[motifs/love\|amo]], vi pregio, vi [[concepts/honour\|onoro]]. |
+| [[characters/miranda\|MIRANDA]] | (piangendo)<br>Sono una [[archetypes/fool\|sciocca]]<br>a piangere di ciò che mi rallegra. |
+| PROSPERO | (a parte)<br>Bell'incontro<br>di due rarissimi affetti! Piova il cielo grazia<br>su ciò che germoglia tra loro. |
+| [[characters/ferdinand\|FERDINAND]] | (a [[characters/miranda\|Miranda]])<br>Perché piangete? |
+| [[characters/miranda\|MIRANDA]] | Della mia indegnità, che non osa offrire<br>ciò che [[motifs/desire\|desidero]] donare, e ancor meno prendere<br>ciò di cui morrei se mi mancasse. Ma questo è un gingillare,<br>e quanto più cerca di nascondersi<br>tanto maggior mole rivela. Via, timida astuzia,<br>e suggeriscimi tu, schietta e santa innocenza.<br>Sono vostra moglie, se volete sposarmi.<br>Se no, morrò vostra ancella. D'esservi compagna<br>potete negarmi, ma sarò vostra serva<br>che lo vogliate o no. |
+| *(didascalia)* | [[characters/ferdinand\|FERDINAND]] s'inginocchia |
+| [[characters/miranda\|MIRANDA]] | Mia signora, carissima;<br>e io per sempre così umile. |
+| [[characters/miranda\|MIRANDA]] | Mio marito, allora? |
+| [[characters/ferdinand\|FERDINAND]] | Sì, con cuore tanto volenteroso<br>quanto mai la schiavitù lo fu della [[concepts/freedom\|libertà]]. Ecco la mia mano. |
+| [[characters/miranda\|MIRANDA]] | Ed ecco la mia, col mio cuore dentro. E ora addio<br>fino a mezz'ora di qui. |
+| [[characters/ferdinand\|FERDINAND]] | Mille volte mille. |
+| *(didascalia)* | Escono separatamente [[characters/miranda\|Miranda]] e [[characters/ferdinand\|Ferdinand]] |
+| PROSPERO | Lieto di questo quanto loro non posso essere,<br>che ne son colti di sorpresa; ma il mio gioire<br>di nulla può esser maggiore. Andrò al mio libro,<br>ché prima dell'[[motifs/time\|ora]] di cena devo ancora compiere<br>molte faccende che vi attengono. |
+| *(didascalia)* | Esce |
+
+### Atto 3, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/caliban\|Caliban]], Stefano e [[characters/trinculo\|Trinculo]] |
+| STEFANO | (a [[characters/caliban\|Caliban]]) Non dirmelo. Quando la botte è vuota berremo [[motifs/water\|acqua]], non una goccia prima. Dunque coraggio e all'arrembaggio. Servo [[archetypes/monster\|mostro]], bevi alla mia salute. |
+| [[characters/trinculo\|TRINCULO]] | Servo [[archetypes/monster\|mostro]]? Che follia, quest'isola! Dicono che su quest'isola non ce ne siano che cinque. Tre siamo noi; se gli altri due hanno il cervello come il nostro, lo stato traballa. |
+| STEFANO | Bevi, servo [[archetypes/monster\|mostro]], quando te lo ordino. Gli occhi ti si sono quasi incastrati in testa. |
+| [[characters/trinculo\|TRINCULO]] | E dove altro dovrebbero incastrarsi? Sarebbe un bel [[archetypes/monster\|mostro]] davvero, se li avesse incastrati nella coda. |
+| STEFANO | Il mio uomo-[[archetypes/monster\|mostro]] ha annegato la lingua nel vino di Spagna. Quanto a me, il mare non può annegarmi. Ho nuotato, prima di poter raggiungere la riva, trentacinque leghe, avanti e indietro. Per questa luce, tu sarai il mio luogotenente, [[archetypes/monster\|mostro]], o il mio portabandiera. |
+| [[characters/trinculo\|TRINCULO]] | Vostro luogotenente, se vi aggrada; portabandiera no, ché non sta in piedi. |
+| STEFANO | Non batteremo in ritirata, Monsieur [[archetypes/monster\|Mostro]]. |
+| [[characters/trinculo\|TRINCULO]] | E nemmeno camminerete; ma starete sdraiati come cani, e per giunta senza dir nulla. |
+| STEFANO | Vitello di [[motifs/moon\|Luna]], parla una volta in vita tua, se sei un buon vitello di [[motifs/moon\|luna]]. |
+| [[characters/caliban\|CALIBAN]] | Come sta [[concepts/honour\|Vostro Onore]]? Lasciate che vi lecchi la scarpa.<br>A lui non servirò; non è valoroso. |
+| [[characters/trinculo\|TRINCULO]] | Menti, ignorantissimo [[archetypes/monster\|mostro]]! Io sono in grado di prendere a spallate un conestabile. Ma via, pesce dissoluto, ci fu mai uomo codardo che avesse bevuto tanto vino quanto io oggi? Vuoi dire una menzogna mostruosa, tu che sei mezzo pesce e mezzo [[archetypes/monster\|mostro]]? |
+| [[characters/caliban\|CALIBAN]] | (a Stefano) Ecco, come mi schernisce! Glielo permetterai, mio signore? |
+| [[characters/trinculo\|TRINCULO]] | «Signore», dice lui? Che un [[archetypes/monster\|mostro]] sia tanto scemo di natura! |
+| [[characters/caliban\|CALIBAN]] | (a Stefano) Ecco, ecco, di nuovo! Mordilo a [[motifs/death\|morte]], ti prego. |
+| STEFANO | [[characters/trinculo\|Trinculo]], tieni a freno la lingua. Se ti dimostri ammutinato, il primo albero. Il povero [[archetypes/monster\|mostro]] è mio suddito, e non patirà oltraggio. |
+| [[characters/caliban\|CALIBAN]] | Ringrazio il mio nobile signore. Ti compiacerai<br>d'ascoltare ancora una volta la supplica che ti feci? |
+| STEFANO | Per la Madonna, sì. Inginocchiati e ripetila. Io starò in piedi, e così [[characters/trinculo\|Trinculo]]. |
+| *(didascalia)* | [[characters/caliban\|Caliban]] s'inginocchia. |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], invisibile |
+| [[characters/caliban\|CALIBAN]] | Come t'ho detto prima, sono soggetto a un [[archetypes/tyrant\|tiranno]], uno stregone, che con la sua astuzia mi ha frodato dell'isola. |
+| [[characters/ariel\|ARIEL]] | Tu menti. |
+| [[characters/caliban\|CALIBAN]] | (a [[characters/trinculo\|Trinculo]])<br>Menti tu, scimmia buffona, tu.<br>Vorrei che il mio valoroso padrone ti distruggesse.<br>Io non mento. |
+| STEFANO | [[characters/trinculo\|Trinculo]], se lo disturbi ancora nel suo racconto, per questa mano, ti scalzerò qualche dente. |
+| [[characters/trinculo\|TRINCULO]] | Ma io non ho detto nulla. |
+| STEFANO | Zitto, dunque, e basta. (A [[characters/caliban\|Caliban]]) Prosegui. |
+| [[characters/caliban\|CALIBAN]] | Dico che con la stregoneria ottenne quest'isola;<br>da me l'ottenne. Se la tua [[concepts/greatness\|grandezza]] vorrà<br>[[concepts/revenge\|vendicarla]] su di lui—ché so che tu l'osi,<br>ma questa cosa non l'osa— |
+| STEFANO | Questo è certissimo. |
+| [[characters/caliban\|CALIBAN]] | Tu ne sarai signore, e io ti servirò. |
+| STEFANO | E come si compirà la cosa? Puoi condurmi da costui? |
+| [[characters/caliban\|CALIBAN]] | Sì, sì, mio signore. Te lo consegnerò addormentato<br>dove tu potrai piantargli un chiodo nella testa. |
+| [[characters/ariel\|ARIEL]] | Tu menti, non puoi. |
+| [[characters/caliban\|CALIBAN]] | Che pagliaccio pezzato è questo! (A Tririculo) Straccione<br>rognoso!<br>(A Stefano) Supplico la tua [[concepts/greatness\|grandezza]] di dargli botte<br>e di togliergli la bottiglia. Quando quella sarà finita<br>non berrà che salamoia, ché non gli mostrerò<br>dove sono le sorgenti d'acqua viva. |
+| STEFANO | [[characters/trinculo\|Trinculo]], non correre altro pericolo. Interrompi il [[archetypes/monster\|mostro]] con una parola di più e, per questa mano, caccerò fuori dalla porta la mia [[concepts/mercy\|pietà]] e farò di te uno stoccafisso. |
+| [[characters/trinculo\|TRINCULO]] | Ma che ho fatto? Non ho fatto nulla. Me ne andrò più in là. |
+| STEFANO | Non hai detto che mentiva? |
+| [[characters/ariel\|ARIEL]] | Tu menti. |
+| STEFANO | Ah sì? (Colpendo [[characters/trinculo\|Trinculo]]) Prendi questo. Se ti piace, dammi del bugiardo un'altra [[motifs/time\|volta]]. |
+| [[characters/trinculo\|TRINCULO]] | Non v'ho dato del bugiardo. Avete perso il senno e anche l'udito? La peste alla vostra bottiglia! Ecco che cosa fanno il vino e il bere. Il malanno al vostro [[archetypes/monster\|mostro]], e il diavolo si porti le vostre dita. |
+| [[characters/caliban\|CALIBAN]] | Ah, ah, ah! |
+| STEFANO | Ora avanti col tuo racconto. (A [[characters/trinculo\|Trinculo]]) Ti prego, stattene più in là. |
+| [[characters/caliban\|CALIBAN]] | Battilo a sazietà; fra un po' di [[motifs/time\|tempo]]<br>lo batterò anch'io. |
+| STEFANO | (a [[characters/trinculo\|Trinculo]])<br>Stattene più in là. (A [[characters/caliban\|Caliban]]) Vieni, prosegui. |
+| [[characters/caliban\|CALIBAN]] | Ebbene, come t'ho detto, è sua abitudine<br>di [[motifs/sleep\|dormire]] nel pomeriggio. Là potrai accopparlo,<br>dopo avergli tolto i libri; o con un ceppo<br>fracassargli il cranio, o sventrarlo con un palo,<br>o tagliargli la gola col tuo coltello. Ricordati<br>d'impadronirti prima dei suoi libri, ché senza quelli<br>non è che uno stolto come me, né ha<br>un solo spirito cui comandare—tutti l'odiano<br>radicatamente quanto me. Brucia soltanto i suoi libri.<br>Ha begli arnesi, così li chiama lui,<br>di cui ornerà la sua casa, quando ne avrà una.<br>E ciò che più a fondo va considerato<br>è la [[concepts/beauty\|bellezza]] di sua figlia. Egli stesso<br>la dice senza pari. Non ho mai visto donna<br>se non Sycorax mia madre e lei,<br>ma lei supera Sycorax di tanto<br>quanto il massimo il minimo. |
+| STEFANO | È una ragazza così bella? |
+| [[characters/caliban\|CALIBAN]] | Sì, signore. Starà bene nel tuo letto, te lo garantisco,<br>e ti darà nobile prole. |
+| STEFANO | [[archetypes/monster\|Mostro]], ucciderò quest'uomo. Sua figlia e io saremo [[archetypes/king\|re]] e [[characters/queen\|regina]]—Dio salvi le nostre grazie!—e [[characters/trinculo\|Trinculo]] e tu stesso sarete viceré. Ti piace il piano, [[characters/trinculo\|Trinculo]]? no |
+| [[characters/trinculo\|TRINCULO]] | Eccellente. |
+| STEFANO | Dammi la mano. Mi dispiace d'averti picchiato. Ma finché campi, tieni a freno la lingua. |
+| *(didascalia)* | Entro questa mezz'ora sarà addormentato. |
+| [[characters/caliban\|CALIBAN]] | Lo distruggerai, allora? |
+| STEFANO | Sì, sul mio [[concepts/honour\|onore]]. |
+| [[characters/ariel\|ARIEL]] | (a parte) Questo lo dirò al mio padrone. |
+| [[characters/caliban\|CALIBAN]] | Tu mi rallegri; sono pieno di piacere.<br>Stiamo allegri. Vuoi cantare quel ritornello<br>che m'insegnasti poco fa? |
+| STEFANO | A tua richiesta, [[archetypes/monster\|mostro]], farò ogni ragione, qualunque ragione.—Vieni, [[characters/trinculo\|Trinculo]], cantiamo.<br>(Canta)<br>Beffali e schernili, e schernili e beffali.<br>Il pensiero è libero. |
+| [[characters/caliban\|CALIBAN]] | Non è quella l'aria.<br>[[characters/ariel\|Ariel]] suona l'aria con un tamburello e un piffero |
+| STEFANO | Che cos'è mai questo? |
+| [[characters/trinculo\|TRINCULO]] | È l'aria del nostro ritornello, suonata dall'immagine di Nessuno. |
+| STEFANO | (chiama verso [[characters/ariel\|Ariel]]) Se sei un uomo, mostrati nella tua sembianza. Se sei un diavolo, prendila come ti pare. |
+| [[characters/trinculo\|TRINCULO]] | Oh, perdonami i miei peccati! |
+| STEFANO | Chi muore paga tutti i debiti. (Chiama) Ti sfido.—[[concepts/mercy\|Pietà]] di noi! |
+| [[characters/caliban\|CALIBAN]] | Hai paura? |
+| STEFANO | No, [[archetypes/monster\|mostro]], io no. |
+| [[characters/caliban\|CALIBAN]] | Non aver paura. L'isola è piena di rumori, |
+| *(didascalia)* | suoni e dolci arie, che danno diletto e non fanno |
+| [[characters/caliban\|CALIBAN]] | male.<br>A volte mille strumenti vibranti<br>mi ronzano intorno alle orecchie, e a volte voci<br>che, se allora mi fossi destato dopo un lungo [[motifs/sleep\|sonno]],<br>mi farebbero [[motifs/sleep\|dormire]] di nuovo; e allora, sognando,<br>le nuvole mi pareva s'aprissero e mostrassero ricchezze<br>pronte a piovermi addosso, sicché, al risveglio,<br>piangevo per tornare a sognare. |
+| STEFANO | Questo si rivelerà per me un bel regno, dove avrò la mia musica per niente. |
+| [[characters/caliban\|CALIBAN]] | Quando Prospero sarà distrutto. |
+| STEFANO | Sarà fatto tra poco. Ricordo la storia. |
+| *(didascalia)* | Esce [[characters/ariel\|Ariel]], suonando musica |
+| [[characters/trinculo\|TRINCULO]] | Il suono si allontana. Seguiamolo, e poi facciamo il nostro lavoro. |
+| STEFANO | Guida, [[archetypes/monster\|mostro]]; noi seguiremo.—Vorrei poter vedere questo tamburino. Ci dà dentro di brutto. |
+| TRICULO | (a [[characters/caliban\|Caliban]]) Vuoi venire? Io seguo Stefano. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/alonso\|Alonso]], [[characters/sebastian\|Sebastian]], [[characters/antonio\|Antonio]], [[characters/gonzalo\|Gonzalo]], Adrian e Francisco |
+| [[characters/gonzalo\|GONZALO]] | (a [[characters/alonso\|Alonso]])<br>Per la Vergine, non posso andare oltre, signore.<br>Mi dolgono le vecchie ossa. Un labirinto davvero abbiamo calcato<br>tra diritture e giravolte. Con vostra licenza,<br>devo per forza riposarmi. |
+| [[characters/alonso\|ALONSO]] | Vecchio signore, non posso biasimarti,<br>ché io stesso son preso da tale stanchezza<br>che m'intorpidisce gli spiriti. Siedi e riposa.<br>Qui deporrò la mia [[concepts/hope\|speranza]], e non la terrò<br>più oltre come mio adulatore. È annegato<br>colui che errando cerchiamo, e il mare irride<br>la nostra vana ricerca sulla terra. [[motifs/well\|Bene]], che se ne vada. |
+| *(didascalia)* | Siedono |
+| [[characters/antonio\|ANTONIO]] | (a parte, a [[characters/sebastian\|Sebastian]])<br>Son ben lieto che sia così fuori di [[concepts/hope\|speranza]].<br>Non abbandonare per un solo scacco il disegno<br>che risolvesti di compiere. |
+| [[characters/sebastian\|SEBASTIAN]] | (a parte, ad [[characters/antonio\|Antonio]]) Al prossimo destro<br>coglieremo a fondo. |
+| [[characters/antonio\|ANTONIO]] | (a parte, a [[characters/sebastian\|Sebastian]]) Sia questa notte,<br>ché ora son gravati dal cammino. Non<br>vorranno né potranno usare quella vigilanza<br>che hanno da freschi. |
+| [[characters/sebastian\|SEBASTIAN]] | (a parte, ad [[characters/antonio\|Antonio]]) Dico stanotte. Basta.<br>Musica solenne e strana. Entra Prospero in alto, invisibile |
+| [[characters/alonso\|ALONSO]] | Che armonia è questa? Buoni amici, udite. |
+| [[characters/gonzalo\|GONZALO]] | Musica mirabilmente dolce. |
+| *(didascalia)* | Entrano spiriti, in varie strane forme, portando una tavola e un banchetto, e [[motifs/dance\|danzano]] intorno ad essa con gentili gesti di saluto e, invitando il [[archetypes/king\|re]] e i suoi compagni a mangiare, si allontanano |
+| [[characters/alonso\|ALONSO]] | Cieli, dateci benigni custodi! Che eran costoro? |
+| [[characters/sebastian\|SEBASTIAN]] | Un teatrino vivente. Ora crederò<br>che esistano unicorni; che in Arabia<br>vi sia un albero, il trono della fenice, e una fenice<br>che a quest'ora vi regna. |
+| [[characters/antonio\|ANTONIO]] | Crederò a entrambi;<br>e ogni altra cosa che manchi di credito venga a me,<br>e giurerò che è vera. Mai mentirono i viaggiatori,<br>benché gli sciocchi a [[motifs/home\|casa]] li condannino. |
+| [[characters/gonzalo\|GONZALO]] | Se a Napoli<br>riferissi ora questo, mi crederebbero—<br>se dicessi d'aver visto tali isolani?<br>Ché certo costoro son genti dell'isola,<br>e benché siano di forma mostruosa, pur notate<br>che i loro modi son più gentili di quanto<br>nella nostra umana generazione ne troverete<br>in molti, anzi, in quasi tutti. |
+| PROSPERO | (a parte)<br>Onesto signore,<br>hai detto [[motifs/well\|bene]], ché alcuni di voi qui presenti<br>son peggiori dei diavoli. |
+| [[characters/alonso\|ALONSO]] | Non finisco di stupirmi.<br>Tali forme, tali gesti e tali suoni,<br>che esprimono—<br>benché manchino dell'uso della lingua—una sorta<br>d'eccellente discorso muto. |
+| PROSPERO | (a parte)<br>La lode al congedo. |
+| FRANCISCO | Sono svaniti stranamente. |
+| [[characters/sebastian\|SEBASTIAN]] | Non importa, giacché<br>hanno lasciato le loro vivande, e noi abbiamo<br>appetito.<br>Vi piacerà assaggiare ciò che è qui? |
+| [[characters/alonso\|ALONSO]] | Io no. |
+| [[characters/gonzalo\|GONZALO]] | [[concepts/faith\|In fede]], signore, non dovete [[concepts/fear\|temere]]. Quand'eravamo fanciulli,<br>chi avrebbe creduto che vi fossero montanari<br>con giogaie da tori, dalle cui gole pendessero<br>bisacce di carne? O che vi fossero uomini<br>con la testa piantata nel petto? Cosa che ora<br>troviamo<br>ogni assicuratore che dà cinque per uno ce ne porterà<br>buona garanzia. |
+| *(didascalia)* | [[characters/alonso\|ALONSO]] alzandosi Mi accosterò e mangerò, |
+| [[characters/gonzalo\|GONZALO]] | fosse anche l'ultimo—non importa, ché sento<br>che il meglio è passato. Fratello, mio signore il Duca,<br>accostatevi e fate come noi. |
+| *(didascalia)* | [[characters/alonso\|Alonso]], [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]] si accostano alla tavola. Tuono e [[motifs/lightning\|lampi]]. [[characters/ariel\|Ariel]] scende in forma d'arpia, batte le ali sulla tavola e, con un ingegnoso congegno, il banchetto svanisce |
+| [[characters/ariel\|ARIEL]] | Voi siete tre uomini di peccato, che il destino—<br>il quale ha per strumento questo mondo inferiore<br>e ciò che vi è dentro—il mare mai sazio<br>ha fatto vomitare, e su quest'isola<br>dove l'uomo non abita, voi fra gli uomini<br>essendo i più indegni di vivere. Vi ho reso folli,<br>e con simile valore gli uomini impiccano e annegano<br>le proprie persone.<br>[[characters/alonso\|Alonso]], [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]] sguainano le spade<br>Sciocchi! Io e i miei compagni<br>siamo ministri del fato. Gli elementi<br>di cui son temprate le vostre spade potrebbero altrettanto [[motifs/well\|bene]]<br>ferire i venti sonori, o con colpi irrisi<br>uccidere le acque che sempre si richiudono, quanto scemare<br>una sola piuma del mio piumaggio. I miei compagni ministri<br>sono del pari invulnerabili. Se poteste ferire,<br>le vostre spade son ora troppo pesanti per le vostre forze<br>e non si lasceranno sollevare.<br>[[characters/alonso\|Alonso]], [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]] restano attoniti<br>Ma ricordate,<br>ché questo è il mio messaggio per voi, che voi tre<br>da Milano scacciaste il buon Prospero;<br>lo esponeste al mare, che l'ha ripagato,<br>lui e la sua [[archetypes/innocent\|innocente]] [[archetypes/child\|figlia]]; per quel turpe atto,<br>le potenze, che indugiano ma non dimenticano, hanno<br>aizzato i mari e le rive, sì, tutte le creature,<br>contro la vostra pace. Te di tuo figlio, [[characters/alonso\|Alonso]],<br>hanno privato, e per bocca mia pronunciano<br>una perdizione lenta—peggiore d'ogni [[motifs/death\|morte]]<br>che venga in un colpo solo—che passo passo seguirà<br>voi e le vostre vie; e per guardarvi dalle loro<br>ire—<br>che qui, in quest'isola desolatissima, altrimenti cadono<br>sui vostri capi—non v'è nulla se non dolore del cuore<br>e una vita pura d'ora innanzi. |
+| *(didascalia)* | Ascende e svanisce tra i tuoni. Poi, a una musica dolce, entrano di nuovo gli spiriti e [[motifs/dance\|danzano]] con lazzi e smorfie, e si allontanano portando via la tavola |
+| PROSPERO | Bravamente la figura di quest'arpia hai<br>rappresentato, mio [[characters/ariel\|Ariel]]; ebbe una grazia divorante.<br>Nulla hai tolto alle mie istruzioni<br>in ciò che dovevi dire. Così con vivezza<br>e mirabile cura i miei ministri minori<br>hanno compiuto ciascuno la sua parte. I miei alti incanti operano,<br>e questi miei nemici sono tutti avvinti<br>nei loro smarrimenti. Ora sono in mio potere;<br>e in questi accessi li lascio, mentre vado a visitare<br>il giovane [[characters/ferdinand\|Ferdinand]], che credono annegato,<br>e la diletta amata sua e mia. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | [[characters/gonzalo\|Gonzalo]], Adrian e Francisco si dirigono verso gli altri |
+| [[characters/gonzalo\|GONZALO]] | In nome di qualcosa di santo, signore, perché state<br>con questo strano sguardo fisso? |
+| [[characters/alonso\|ALONSO]] | Oh, è mostruoso, mostruoso!<br>Mi parve che i flutti parlassero e me ne dicessero,<br>i venti me lo cantarono, e il tuono,<br>quella canna d'organo cupa e tremenda, pronunciò<br>il nome di Prospero. Intonò sui bassi la mia colpa.<br>Per questo mio figlio giace nel limo, e<br>lo cercherò più a fondo di quanto mai scandagliò piombino,<br>e con lui laggiù starò sepolto nel fango. |
+| *(didascalia)* | Esce |
+| [[characters/sebastian\|SEBASTIAN]] | Purché un demonio alla [[motifs/time\|volta]],<br>combatterò le loro legioni a una a una. |
+| [[characters/antonio\|ANTONIO]] | Sarò il tuo secondo. |
+| *(didascalia)* | Escono [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]] |
+| [[characters/gonzalo\|GONZALO]] | Tutti e tre sono disperati. La loro grande [[concepts/guilt\|colpa]],<br>come [[motifs/poison\|veleno]] dato per agire molto [[motifs/time\|tempo]] dopo,<br>comincia ora a mordere gli spiriti. Vi supplico,<br>voi che avete giunture più agili, seguiteli in fretta<br>e impedite loro ciò a cui questa frenesia<br>potrebbe ora spingerli. |
+| ADRIAN | Seguiamoli, vi prego. Escono |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Prospero, [[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]] |
+| PROSPERO | (a [[characters/ferdinand\|Ferdinand]])<br>Se t’ho punito con troppa asprezza,<br>il tuo compenso ripara ogni torto, ché io<br>t’ho dato qui un terzo della mia stessa vita—<br>o ciò per cui vivo—che ancora una volta<br>affido alla tua mano. Tutti i tuoi tormenti<br>furon solo mie prove del tuo [[motifs/love\|amore]], e tu<br>mirabilmente hai retto alla prova. Qui, dinanzi al cielo,<br>ratifico questo mio ricco dono. O [[characters/ferdinand\|Ferdinand]],<br>non sorridere di me se mi vanto di lei,<br>ché la troverai tale da superare ogni lode,<br>e da lasciarla zoppicare indietro. |
+| [[characters/ferdinand\|FERDINAND]] | Lo credo<br>anche contro un oracolo. |
+| PROSPERO | Allora, come mio dono e tua conquista<br>degnamente meritata, prendi mia figlia. Ma<br>se tu rompi il suo nodo verginale prima<br>che tutte le sacre cerimonie possano<br>con pieno e santo rito esser celebrate,<br>nessuna dolce rugiada lasceranno cadere i cieli<br>per far crescere questo patto; ma sterile odio,<br>disdegno dall’occhio torvo e discordia cospargeranno<br>l’[[concepts/union\|unione]] del vostro letto d’erbacce sì ripugnanti<br>che l’odierete entrambi. Perciò bada,<br>secondo che le lampade d’Imene ti faran lume. |
+| [[characters/ferdinand\|FERDINAND]] | Come io [[concepts/hope\|spero]]<br>giorni sereni, bella prole e lunga vita<br>con tale [[motifs/love\|amore]] qual è ora, la più tenebrosa tana,<br>il luogo più propizio, la più forte tentazione<br>che il nostro genio peggiore possa, mai scioglieranno<br>il mio [[concepts/honour\|onore]] in libidine, sì da togliere<br>il fiore a quel giorno di festa;<br>quando penserò che i destrieri di Febo sian azzoppati<br>o che la [[motifs/night\|notte]] sia tenuta incatenata laggiù. |
+| PROSPERO | Ben detto.<br>Siedi, dunque, e parla con lei. È tua.<br>[[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]] siedono e parlano insieme<br>Ehi, [[characters/ariel\|Ariel]], mio industre servitore [[characters/ariel\|Ariel]]! |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]] |
+| [[characters/ariel\|ARIEL]] | Che vuole il mio potente padrone? Eccomi qui. |
+| PROSPERO | Tu e i tuoi compagni minori il vostro ultimo servizio<br>degnamente compiste, e devo servirmi di voi<br>per un altro simile artificio. Va’, porta qui la brigata<br>su cui ti do potere, in questo luogo.<br>Incitali a rapido movimento, ché devo<br>offrire agli occhi di questa giovane coppia<br>qualche [[concepts/vanity\|vanità]] della mia arte. È mia promessa,<br>e se l’aspettano da me. |
+| [[characters/ariel\|ARIEL]] | Subito? |
+| PROSPERO | Sì, in un batter d’occhio. |
+| [[characters/ariel\|ARIEL]] | Prima che tu dica ‘Vieni’ e ‘Va’’, e respiri due volte, e gridi ‘Così, così’,<br>ciascuno saltellando sulla punta del piede<br>sarà qui con smorfie e boccacce.<br>Mi [[motifs/love\|ami]], padrone? No? |
+| PROSPERO | Teneramente, mio delicato [[characters/ariel\|Ariel]]. Non t’accostare<br>finché non m’odi chiamare. |
+| [[characters/ariel\|ARIEL]] | [[motifs/well\|Bene]]; ho capito. |
+| *(didascalia)* | Esce |
+| PROSPERO | (a [[characters/ferdinand\|Ferdinand]])<br>Bada d’esser fedele. Non dar troppa briglia<br>al trastullo. I giuramenti più forti son paglia<br>al [[motifs/fire\|fuoco]] nel [[motifs/blood\|sangue]]. Sii più astinente,<br>o buona [[motifs/night\|notte]] al tuo voto. |
+| [[characters/ferdinand\|FERDINAND]] | Ve lo garantisco, signore,<br>la bianca fredda [[motifs/snow\|neve]] verginale sul mio cuore<br>tempera l’ardore del mio fegato. |
+| PROSPERO | [[motifs/well\|Bene]].—<br>Ora vieni, mio [[characters/ariel\|Ariel]]! Porta un soprappiù<br>piuttosto che mancarci uno spirito. Appari, e lesto.<br>Musica soave<br>(A [[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]]) Non una parola, tutti occhi! Silenzio. |
+| *(didascalia)* | Entra Iride |
+| IRIDE | Cerere, dama munificentissima, i tuoi ricchi campi<br>di frumento, segale, orzo, veccia, avena e piselli;<br>i tuoi [[settings/mountains\|monti]] erbosi dove vivono pecore brucanti,<br>e i piani prati coperti di strame per nutrirle;<br>le tue rive dagli orli di peonie e d’argini intrecciati<br>che l’aprile spugnoso al tuo comando adorna<br>per far caste corone alle fredde ninfe; e i tuoi ginestreti,<br>la cui [[archetypes/shadow\|ombra]] ama lo scapolo respinto,<br>privo della sua amata; la tua vigna dai pali potati,<br>e il tuo lido marino, sterile e duro di rocce,<br>dove tu stessa prendi aria: la [[characters/queen\|Regina]] del Cielo,<br>di cui sono l’arco d’acqua e la messaggera,<br>t’invita a lasciar tutto ciò, e con la sua sovrana grazia |
+| *(didascalia)* | Giunone appare nell’aria |
+| IRIDE | Qui su questo prato erboso, in questo stesso luogo,<br>a venire e a far festa.—I suoi pavoni volano veloci.<br>Accostati, ricca Cerere, per intrattenerla. |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]] nelle vesti di Cerere |
+| CERERE | Salve, messaggera dai molti colori, che mai<br>disobbedisci alla sposa di Giove;<br>tu che con le tue ali di zafferano sui miei [[motifs/flowers\|fiori]]<br>spargi gocce di miele, piogge ristoratrici,<br>e con ciascun capo del tuo arco azzurro [[motifs/crown\|incoroni]]<br>i miei acri boscosi e la mia landa senza arbusti,<br>ricca sciarpa alla mia terra superba. Perché la tua [[characters/queen\|regina]]<br>m’ha chiamata quaggiù su questo verde d’erba corta? |
+| IRIDE | Un patto di vero [[motifs/love\|amore]] da celebrare,<br>e qualche dono da conferire liberamente<br>ai benedetti amanti. |
+| CERERE | Dimmi, arco celeste,<br>se [[characters/venus\|Venere]] o suo figlio, per quanto tu ne sai,<br>siano ora al seguito della [[characters/queen\|Regina]]. Da quando tramarono<br>il modo con cui il fosco Dite ebbe mia figlia,<br>la scandalosa compagnia di lei e del suo cieco fanciullo<br>ho abiurato. |
+| IRIDE | Della sua compagnia<br>non temere. Ho incontrato la sua deità<br>fendere le nubi verso Pafo, e suo figlio<br>tratto con lei dalle colombe. Qui pensavano d’aver<br>compiuto<br>qualche lascivo incanto su quest’uomo e questa fanciulla,<br>i cui voti sono che nessun diritto di letto sia pagato<br>finché la torcia d’Imene non sia accesa—ma invano.<br>L’ardente favorita di Marte se n’è tornata indietro.<br>Il suo figliolo dal capo di vespa ha spezzato le frecce,<br>giura che non tirerà più, ma giocherà con i<br>passeri,<br>e sarà un fanciullo e basta. |
+| *(didascalia)* | Musica. Giunone scende sulla scena |
+| CERERE | Altissima [[characters/queen\|regina]] in maestà,<br>la grande Giunone, viene; la riconosco dall’incedere. |
+| GIUNONE | Come sta la mia munifica sorella? Vieni con me<br>a benedire questi due, che possano esser prosperi<br>e onorati nella loro prole. |
+| *(didascalia)* | Cerere si unisce a Giunone, e cantano |
+| [[characters/ferdinand\|FERDINAND]] | Questa è una visione maestosissima, e<br>armoniosa in modo incantevole. Posso osare<br>di crederli spiriti? |
+| PROSPERO | Spiriti, che con la mia arte<br>ho chiamato dalle loro dimore a rappresentare<br>le mie presenti fantasie. |
+| [[characters/ferdinand\|FERDINAND]] | Ch’io possa viver qui per sempre!<br>Un padre così raro e prodigioso e saggio<br>fa di questo luogo un paradiso.<br>Giunone e Cerere bisbigliano, e mandano Iride in commissione |
+| PROSPERO | Dolcezza, ora [[motifs/silence\|silenzio]].<br>Giunone e Cerere bisbigliano gravemente.<br>C’è dell’altro da fare. Zitti, e muti,<br>o il nostro incanto è guastato. |
+| IRIDE | Voi ninfe dette naiadi dei ruscelli [[motifs/wind\|erranti]],<br>con le vostre corone di giunchi e gli sguardi sempre innocenti,<br>lasciate i vostri canali increspati, e su questa verde terra<br>rispondete alla chiamata; Giunone lo comanda.<br>Venite, temperate ninfe, e aiutate a celebrare<br>un patto di vero [[motifs/love\|amore]]. Non tardate troppo. |
+| *(didascalia)* | Entrano alcune ninfe |
+| IRIDE | Voi mietitori arsi dal sole, stanchi d’agosto,<br>venite qui dal solco e state allegri;<br>fate festa, mettetevi i cappelli di paglia di segale,<br>e ciascuno incontri queste fresche ninfe<br>in una danza campagnola. |
+| *(didascalia)* | Entrano alcuni mietitori, acconciamente vestiti. Si uniscono alle ninfe in una graziosa [[motifs/dance\|danza]]; verso la fine della quale Prospero trasale improvvisamente, e parla |
+| PROSPERO | (a parte)<br>Avevo scordato quella turpe congiura<br>della bestia [[characters/caliban\|Caliban]] e dei suoi complici<br>contro la mia vita. Il minuto della loro trama<br>è quasi giunto. (Agli spiriti) [[motifs/well\|Ben]] fatto! Via; basta<br>così! |
+| *(didascalia)* | A uno strano rumore, cupo e confuso, gli spiriti della mascherata svaniscono pesantemente. [[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]] si alzano |
+| [[characters/ferdinand\|FERDINAND]] | (a [[characters/miranda\|Miranda]])<br>Questo è strano. Vostro padre è in preda a una passione<br>che lo scuote fortemente. |
+| [[characters/miranda\|MIRANDA]] | Mai fino a questo giorno<br>l’ho visto toccato da un’ira così sconvolta. |
+| PROSPERO | Avete l’aria, figlio mio, d’essere turbato,<br>come se foste sgomento. Fatevi animo, signore.<br>I nostri svaghi ora sono finiti. Questi nostri attori,<br>come vi predissi, erano tutti spiriti, e<br>si sono dissolti nell’aria, nell’aria sottile;<br>e come l’edificio senza fondamenta di questa visione,<br>le torri incoronate di nubi, i palazzi sfarzosi,<br>i templi solenni, lo stesso gran globo,<br>sì, e quanto esso contiene, si dissolverà;<br>e, come questo spettacolo inconsistente svanito,<br>non lascerà dietro di sé una traccia. Noi siamo fatti<br>della materia dei [[motifs/dreams\|sogni]], e la nostra breve vita<br>è cinta da un [[motifs/sleep\|sonno]]. Signore, sono turbato.<br>Compatite la mia debolezza. Il mio vecchio cervello è confuso.<br>Non vi crucci la mia infermità.<br>Se vi piace, ritiratevi nella mia cella,<br>e là riposate. Un giro o due andrò facendo<br>per acquietare la mente che mi batte. |
+| [[characters/ferdinand\|FERDINAND]] | e [[characters/miranda\|MIRANDA]]<br>Vi auguriamo pace. |
+| *(didascalia)* | Escono [[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]] |
+| PROSPERO | Vieni col pensiero! Ti ringrazio, [[characters/ariel\|Ariel]]. Vieni! |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]] |
+| [[characters/ariel\|ARIEL]] | Ai tuoi pensieri m’attengo. Qual è il tuo piacere? |
+| PROSPERO | Spirito,<br>dobbiamo prepararci a incontrare [[characters/caliban\|Caliban]]. |
+| [[characters/ariel\|ARIEL]] | Sì, mio comandante. Quando impersonavo Cerere<br>pensai di dirtene, ma temetti<br>di farti adirare. |
+| PROSPERO | Ripeti: dove hai lasciato quei furfanti? |
+| [[characters/ariel\|ARIEL]] | Ve l’ho detto, signore, erano roventi dal bere;<br>così pieni di valore che percossero l’aria<br>perché soffiava sui loro volti, batterono il suolo<br>perché baciava i loro piedi; eppure sempre volti<br>al loro disegno. Allora battei il mio tamburello,<br>al che come puledri indomiti drizzarono le orecchie,<br>alzarono le palpebre, levarono i nasi<br>come fiutassero la musica. Così incantai le loro orecchie<br>che al par di vitelli seguirono il mio muggito, attraverso<br>rovi dentati, ginestre aguzze, pungenti sterpi e<br>spine,<br>che entrarono nei loro fragili stinchi. Alla fine li lasciai<br>nello stagno dal manto immondo di là dalla vostra cella,<br>là a danzare fino al mento, tanto che il lago fetido<br>puzzava più dei loro piedi. |
+| PROSPERO | Questo fu [[motifs/well\|ben]] fatto, uccellino mio.<br>Serba ancora invisibile la tua forma.<br>La paccottiglia nella mia casa, va’ a portarla qui<br>come esca per prendere questi ladri. |
+| [[characters/ariel\|ARIEL]] | Vado, vado. |
+| *(didascalia)* | Esce |
+| PROSPERO | Un diavolo, un diavolo nato, alla cui [[concepts/nature\|natura]]<br>l’educazione non può mai attaccarsi; su cui le mie pene,<br>umanamente prese, tutte, tutte perdute, del tutto perdute,<br>e, come con l’età il suo [[concepts/body\|corpo]] si fa più brutto,<br>così la sua mente incancrenisce. Li tormenterò tutti,<br>fino a farli ruggire. |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], carico di vesti scintillanti, ecc. |
+| PROSPERO | Vieni, appendile a questo tiglio. |
+| *(didascalia)* | [[characters/ariel\|Ariel]] appende le vesti. Escono Prospero e |
+| *(didascalia)* | [[characters/ariel\|Ariel]]. |
+| *(didascalia)* | Entrano [[characters/caliban\|Caliban]], Stefano e [[characters/trinculo\|Trinculo]], tutti bagnati |
+| [[characters/caliban\|CALIBAN]] | Vi prego, camminate piano, che la talpa cieca non<br>oda cadere un passo. Ora siamo presso la sua cella. |
+| STEFANO | [[archetypes/monster\|Mostro]], la tua fata, che dici essere una fata innocua, non ha fatto molto di meglio che giocarci un brutto tiro. |
+| [[characters/trinculo\|TRINCULO]] | [[archetypes/monster\|Mostro]], io puzzo tutto di piscio di [[motifs/horse\|cavallo]], al che il mio naso è in grande indignazione. |
+| STEFANO | Anche il mio. Senti un po’, [[archetypes/monster\|mostro]]? Se mi venisse in uggia di prendermela con te, guarda un po’— |
+| [[characters/trinculo\|TRINCULO]] | Non saresti che un [[archetypes/monster\|mostro]] perduto. |
+| [[characters/caliban\|CALIBAN]] | Mio buon signore, concedimi ancora il tuo favore.<br>Sii paziente, ché il premio a cui ti condurrò<br>bendarà gli occhi a questa disgrazia. Perciò parla piano.<br>Tutto è ancora muto come a mezzanotte. |
+| [[characters/trinculo\|TRINCULO]] | Sì, ma perdere le nostre bottiglie nello stagno! |
+| STEFANO | In ciò non c’è solo disgrazia e disonore, [[archetypes/monster\|mostro]], ma una perdita infinita. |
+| [[characters/trinculo\|TRINCULO]] | Per me conta più della bagnata che ho preso. Eppure questa è la tua fata innocua, [[archetypes/monster\|mostro]]. |
+| STEFANO | Andrò a ripescare la mia bottiglia, dovessi immergermi fin sopra le orecchie per la fatica. |
+| [[characters/caliban\|CALIBAN]] | Ti prego, mio [[archetypes/king\|re]], sta’ quieto. Vedi qui;<br>questa è la bocca della cella. Nessun rumore, ed entra.<br>Compi quel buon misfatto che può far quest’isola<br>tua per sempre, e io tuo [[characters/caliban\|Caliban]]<br>per sempre leccapiedi. |
+| STEFANO | Dammi la mano.<br>Comincio ad avere pensieri sanguinari. |
+| [[characters/trinculo\|TRINCULO]] | (vedendo le vesti) O [[archetypes/king\|Re]] Stefano, o pari del regno! O degno Stefano, guarda che guardaroba c’è qui per te! |
+| [[characters/caliban\|CALIBAN]] | Lascialo stare, [[archetypes/fool\|sciocco]], non è che ciarpame. |
+| [[characters/trinculo\|TRINCULO]] | (indossando una veste) Oh oh, [[archetypes/monster\|mostro]], sappiamo bene noi che cosa spetta a un rigattiere! O [[archetypes/king\|Re]] Stefano! |
+| STEFANO | Togliti quella veste, [[characters/trinculo\|Trinculo]]. Per questa mano, quella veste l’avrò io. |
+| [[characters/trinculo\|TRINCULO]] | Vostra grazia l’avrà. |
+| [[characters/caliban\|CALIBAN]] | L’idropisia affoghi questo [[archetypes/fool\|sciocco]]! Che intendete<br>invaghirvi così di simili bagagli? Lasciatelo stare,<br>e fate prima l’omicidio. Se si sveglia,<br>dalla punta dei piedi alla [[motifs/crown\|corona]] del capo ci riempirà la pelle di pizzicotti,<br>farà di noi strana roba. |
+| STEFANO | Sta’ quieto tu, [[archetypes/monster\|mostro]].—Signora tiglio, non è questo il mio giubbetto? Ora il giubbetto è sotto la linea. Ora, giubbetto, sei sul punto di perdere il pelo e di diventare un giubbetto calvo.<br>Stefano e [[characters/trinculo\|Trinculo]] prendono gli indumenti |
+| [[characters/trinculo\|TRINCULO]] | Fate, fate! Noi rubiamo a filo e a livella, se piace a vostra grazia. |
+| STEFANO | Ti ringrazio per quel motto. Ecco un capo per ricompensa. L’arguzia non resterà senza premio finché sarò [[archetypes/king\|re]] di questo paese. ‘Rubare a filo e a livella’ è un eccellente colpo d’ingegno. Ecco un altro capo per ricompensa. |
+| [[characters/trinculo\|TRINCULO]] | [[archetypes/monster\|Mostro]], vieni, mettiti un po’ di vischio sulle dita, e via col resto. |
+| [[characters/caliban\|CALIBAN]] | Non ne voglio niente. Perderemo il nostro [[motifs/time\|tempo]],<br>e saremo tutti mutati in oche marine, o in scimmie<br>dalla fronte vilmente bassa. |
+| STEFANO | [[archetypes/monster\|Mostro]], metti mano. Aiuta a portar via tutto questo dov’è la mia botte di vino, o ti caccio fuori dal mio regno. Su, porta questo. |
+| [[characters/trinculo\|TRINCULO]] | E questo. |
+| STEFANO | Sì, e questo.<br>Caricano [[characters/caliban\|Caliban]] di vesti. Si ode un rumore di cacciatori. Entrano vari spiriti in forma di cani e di segugi, che li inseguono all’intorno; Prospero e [[characters/ariel\|Ariel]] li aizzano |
+| PROSPERO | Ehi, Montagna, ehi! |
+| [[characters/ariel\|ARIEL]] | Argento! Ecco che va, Argento! |
+| PROSPERO | Furia, Furia! Là, [[archetypes/tyrant\|Tiranno]], là! Ascolta, ascolta! |
+| *(didascalia)* | Escono Stefano, [[characters/trinculo\|Trinculo]] e [[characters/caliban\|Caliban]], inseguiti dagli spiriti |
+| PROSPERO | (A [[characters/ariel\|Ariel]]) Va’, ordina ai miei folletti che macinino le loro<br>giunture<br>con secche convulsioni, che accorcino i loro nervi<br>con crampi senili, e più chiazzati di pizzichi facciano<br>loro<br>di quanto sia il pardo o il gatto selvatico.<br>Grida dall’interno |
+| [[characters/ariel\|ARIEL]] | Ascolta, ruggiscono! |
+| PROSPERO | Siano cacciati a dovere. In quest’ora<br>giacciono alla mia [[concepts/mercy\|mercé]] tutti i miei nemici.<br>Fra poco tutte le mie fatiche avranno fine, e tu<br>avrai l’aria in [[concepts/freedom\|libertà]]. Per un poco ancora,<br>seguimi, e rendimi servizio. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra Prospero, nelle sue vesti magiche, e [[characters/ariel\|Ariel]] |
+| PROSPERO | Ora il mio disegno giunge al suo colmo.<br>I miei incanti non falliscono, i miei spiriti obbediscono, e il [[motifs/time\|tempo]]<br>procede eretto sotto il suo carico. A che punto è il giorno? |
+| [[characters/ariel\|ARIEL]] | Sulla sesta ora; al qual [[motifs/time\|tempo]], mio signore,<br>dicesti che la nostra opera sarebbe cessata. |
+| PROSPERO | Così dissi<br>quando per la prima volta levai la tempesta. Dimmi, mio spirito,<br>come stanno il [[archetypes/king\|Re]] e il suo seguito? |
+| [[characters/ariel\|ARIEL]] | Rinchiusi insieme<br>nella stessa foggia che tu ordinasti,<br>proprio come li lasciasti; tutti prigionieri, signore,<br>nel boschetto di tigli che ripara dal tempo la tua cella.<br>Non possono muoversi finché tu non li liberi. Il [[archetypes/king\|Re]],<br>suo fratello e il tuo, restano tutti e tre stravolti,<br>e gli altri in pianto sopra di loro,<br>colmi di dolore e di sgomento; ma soprattutto<br>colui che tu chiamasti, signore, il buon vecchio [[characters/gonzalo\|Gonzalo]]:<br>le sue [[motifs/tears\|lacrime]] gli scendono per la barba come gocce d'[[motifs/winter\|inverno]]<br>da una gronda di canne. Il tuo incanto opera in loro sì forte<br>che se ora li vedessi il tuo affetto<br>si farebbe tenero. |
+| PROSPERO | Lo credi tu, spirito? |
+| [[characters/ariel\|ARIEL]] | Il mio lo sarebbe, signore, fossi io umano. |
+| PROSPERO | E il mio lo sarà.<br>Se tu, che non sei che aria, hai un tocco, un sentimento<br>delle loro afflizioni, e non dovrò io stesso,<br>uno della loro specie, che gusto ogni passione<br>altrettanto acuta di loro, commuovermi più di te?<br>Benché dai loro gravi torti io sia colpito nel<br>vivo,<br>pure con la mia più nobile ragione contro la mia furia<br>prendo partito. Più rara è l'azione<br>nella virtù che nella vendetta. Essendo essi pentiti,<br>il solo corso del mio proposito non si estende<br>d'un cipiglio più oltre. Va' a liberarli, [[characters/ariel\|Ariel]].<br>Spezzerò i miei incanti, restituirò loro i sensi,<br>ed essi torneranno se stessi. |
+| [[characters/ariel\|ARIEL]] | Andrò a prenderli, signore. |
+| *(didascalia)* | Esce |
+| *(didascalia)* | Prospero traccia un cerchio con la sua verga |
+| PROSPERO | Voi elfi dei colli, dei ruscelli, dei laghi immoti e dei boschi,<br>e voi che sulle sabbie con piede che non lascia orma<br>inseguite Nettuno che rifluisce, e da lui fuggite<br>quando ritorna; voi mezze marionette che<br>al chiaro di luna fate quei verdi cerchi acri<br>che la pecora non bruca; e voi il cui diletto<br>è far spuntare i funghi di mezzanotte, che godete<br>d'udire il solenne coprifuoco; col cui aiuto,<br>per deboli maestri che siate, ho oscurato<br>il sole del meriggio, chiamato a raccolta i venti ammutinati,<br>e fra il verde mare e la volta azzurra<br>ho scatenato guerra ruggente—al tremendo tuono rombante<br>ho dato il [[motifs/fire\|fuoco]], e ho squarciato la salda quercia di Giove<br>con la sua stessa folgore; il promontorio dalle salde basi<br>ho fatto tremare, e dalle radici ho divelto<br>il pino e il cedro; le tombe al mio comando<br>hanno destato i loro dormienti, si sono aperte e li hanno lasciati uscire<br>per la mia arte sì potente. Ma questa rozza magia<br>qui abiuro. E quando avrò richiesto<br>una musica celeste—come or ora faccio—<br>per operare il mio fine sui sensi di coloro<br>cui questo aereo incanto è rivolto, spezzerò la mia verga,<br>la seppellirò molte braccia dentro la terra,<br>e più fondo di quanto mai scandaglio abbia toccato<br>affogherò il mio libro.<br>Musica solenne. Entra per primo [[characters/ariel\|Ariel]], invisibile; poi [[characters/alonso\|Alonso]], con gesto frenetico, accompagnato da [[characters/gonzalo\|Gonzalo]]; [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]], allo stesso modo, accompagnati da Adrian e Francisco. Entrano tutti nel cerchio che Prospero aveva tracciato, e vi restano incantati; e Prospero, osservandoli, dice<br>(Ad [[characters/alonso\|Alonso]]) Un'aria solenne, il miglior conforto<br>a una fantasia sconvolta, sani il tuo cervello,<br>ora inutile, ribollito dentro il tuo cranio.<br>(A [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]]) Restate là,<br>ché siete arrestati dall'incanto.—<br>Santo [[characters/gonzalo\|Gonzalo]], uomo d'onore,<br>i miei occhi, solidali con lo spettacolo dei tuoi,<br>versano gocce fraterne. (A parte) L'incanto si dissolve rapido,<br>e come il mattino s'insinua sulla [[motifs/night\|notte]],<br>sciogliendo le tenebre, così i loro sensi che risorgono<br>cominciano a scacciare i fumi ottusi che ammantano<br>la loro più chiara ragione.—O buon [[characters/gonzalo\|Gonzalo]],<br>mio vero salvatore, e signore leale<br>a colui che tu segui, ricompenserò le tue grazie<br>[[motifs/home\|appieno]], in parola e in atto.—Assai crudelmente<br>trattasti me e mia figlia, [[characters/alonso\|Alonso]].<br>Tuo fratello fu complice nell'atto.—<br>Ora ne sei punzecchiato, [[characters/sebastian\|Sebastian]].<br>(Ad [[characters/antonio\|Antonio]]) Carne e [[motifs/blood\|sangue]],<br>tu, fratello mio, che accogliesti l'[[concepts/ambition\|ambizione]],<br>scacciasti il rimorso e la [[concepts/nature\|natura]], tu che, con [[characters/sebastian\|Sebastian]]—<br>le cui punture interiori sono perciò fortissime,—<br>avresti qui ucciso il tuo [[archetypes/king\|re]], io ti perdono,<br>snaturato quale sei. (A parte) Il loro intelletto<br>comincia a gonfiarsi, e la marea che s'appressa<br>colmerà tra poco le rive della ragione<br>che ora giacciono lorde e fangose. Non uno di loro<br>che ancora mi guardi, o mi riconosca.—[[characters/ariel\|Ariel]],<br>portami il cappello e lo spadino nella mia cella.<br>Mi spoglierò di quest'abito, e mi mostrerò<br>quale fui un tempo il Duca di Milano. Presto, spirito!<br>Fra non molto sarai libero.<br>[[characters/ariel\|Ariel]] canta e lo aiuta a vestirsi da [[characters/duke-of-milan\|Duca di Milano]] |
+| [[characters/ariel\|ARIEL]] | Dove sugge l'ape, suggo anch'io: nel calice d'una primula mi corico;<br>là mi rannicchio quando gridano i gufi.<br>Sul dorso del pipistrello volo<br>dietro all'[[motifs/summer\|estate]], allegramente.<br>Allegro, allegro vivrò d'ora innanzi<br>sotto il fiore che pende dal ramo.<br>Allegro, allegro vivrò d'ora innanzi<br>sotto il fiore che pende dal ramo. |
+| PROSPERO | Ecco il mio grazioso [[characters/ariel\|Ariel]]! Mi mancherai,<br>eppure avrai la tua [[concepts/freedom\|libertà]].—Così, così, così.—<br>Alla [[motifs/ship\|nave]] del [[archetypes/king\|Re]], invisibile come sei!<br>Là troverai i marinai addormentati<br>sotto i boccaporti. Il Capitano e il Nostromo,<br>appena svegli, costringili a venire in questo luogo,<br>e sull'istante, ti prego. |
+| [[characters/ariel\|ARIEL]] | Bevo l'aria davanti a me, e ritorno<br>prima che il tuo polso batta due volte. |
+| *(didascalia)* | Esce |
+| [[characters/gonzalo\|GONZALO]] | Ogni tormento, travaglio, [[concepts/wonder\|meraviglia]] e stupore<br>abita qui. Qualche potenza celeste ci guidi<br>fuori da questo paese pauroso! |
+| PROSPERO | Guarda, signor [[archetypes/king\|Re]],<br>l'oltraggiato [[characters/duke-of-milan\|Duca di Milano]], Prospero.<br>Per maggior certezza che un principe vivo<br>ora ti parla, abbraccio il tuo [[concepts/body\|corpo]];<br>e a te e alla tua compagnia porgo<br>un cordiale benvenuto.<br>Abbraccia [[characters/alonso\|Alonso]] |
+| [[characters/alonso\|ALONSO]] | Se tu sia lui o no,<br>o qualche inganno incantato per illudermi,<br>come di recente sono stato, non so. Il tuo polso<br>batte come di carne e [[motifs/blood\|sangue]]; e da quando t'ho visto<br>l'afflizione della mia mente si placa, per la quale<br>[[concepts/fear\|temo]] che una [[concepts/madness\|follia]] mi tenesse. Questo esige—<br>se pure tutto ciò è vero—una storia stranissima.<br>Rinuncio al tuo ducato, e ti supplico<br>di perdonarmi i miei torti. Ma come può<br>Prospero<br>essere vivo ed essere qui? |
+| PROSPERO | (a [[characters/gonzalo\|Gonzalo]])<br>Prima, nobile amico,<br>lascia ch'io abbracci la tua vecchiezza, il cui [[concepts/honour\|onore]] non può<br>essere misurato né circoscritto.<br>Abbraccia [[characters/gonzalo\|Gonzalo]] |
+| [[characters/gonzalo\|GONZALO]] | Se questo sia<br>o non sia, non lo giurerò. |
+| PROSPERO | Gustate ancora<br>certe sottigliezze dell'isola che non vi lasciano<br>credere alle cose certe.—Benvenuti, amici miei tutti.<br>(A parte, a [[characters/sebastian\|Sebastian]] e [[characters/antonio\|Antonio]])<br><br>Ma voi, mia coppia di signori, se ne avessi voglia,<br>potrei qui attirarvi addosso il cipiglio di sua altezza<br>e provarvi traditori. Per questa [[motifs/time\|volta]]<br>non racconterò nulla. |
+| [[characters/sebastian\|SEBASTIAN]] | (ad [[characters/antonio\|Antonio]]) Parla in lui il diavolo. |
+| PROSPERO | No.<br>(Ad [[characters/antonio\|Antonio]]) Quanto a te, uomo scelleratissimo, che chiamare<br>fratello<br>m'infetterebbe la bocca, io perdono<br>la tua colpa più fetida, tutte quante, e ti richiedo<br>il mio ducato, che per forza so<br>che devi restituire. |
+| [[characters/alonso\|ALONSO]] | Se tu sei Prospero,<br>dacci i particolari del tuo scampo,<br>come ci hai incontrati qui, noi che tre ore fa<br>naufragammo su questa riva, dove ho perduto—<br>quanto è acuta la punta di questo ricordo!—<br>il mio caro figlio [[characters/ferdinand\|Ferdinand]]. |
+| PROSPERO | Me ne duole, signore. |
+| [[characters/alonso\|ALONSO]] | Irreparabile è la perdita, e la pazienza<br>dice che è oltre il suo rimedio. |
+| PROSPERO | Piuttosto io credo<br>che non ne abbiate cercato l'aiuto: della sua dolce grazia,<br>per simile perdita, ho avuto il sovrano soccorso,<br>e me ne resto contento. |
+| [[characters/alonso\|ALONSO]] | Voi, simile perdita? |
+| PROSPERO | Per me altrettanto grande e altrettanto recente; e per rendere<br>sopportabile la cara perdita ho mezzi assai più deboli<br>di quelli che voi potete chiamare a confortarvi, ché io<br>ho perduto mia figlia. |
+| [[characters/alonso\|ALONSO]] | Una figlia?<br>O cieli, fossero vivi entrambi a Napoli,<br>[[archetypes/king\|re]] e [[characters/queen\|regina]] laggiù! Se lo fossero, vorrei<br>essere io stesso affondato nel fango di quel letto limaccioso<br>dove giace mio figlio. Quando perdeste vostra figlia? |
+| PROSPERO | In quest'ultima tempesta. M'avvedo che questi signori<br>a tale incontro tanto si stupiscono<br>da divorare la propria ragione, e a stento credono<br>che i loro occhi facciano ufficio di [[concepts/truth\|verità]], che queste parole<br>siano fiato naturale. Ma per quanto siate<br>stati scossi fuori dei vostri sensi, sappiate per certo<br>che io sono Prospero, e quello stesso Duca<br>che fu cacciato da Milano, e che stranissimamente,<br>su questa riva dove naufragaste, approdò<br>per esserne il signore. Basta per ora di questo,<br>ché è cronaca di giorno in giorno,<br>non racconto per una colazione, né<br>cosa che convenga a questo primo incontro. Benvenuto, signore.<br>Questa cella è la mia [[settings/court\|corte]]. Qui ho pochi servitori,<br>e nessun suddito fuori. Vi prego, guardate dentro.<br>Poiché mi avete reso il mio ducato,<br>vi ricambierò con cosa altrettanto buona;<br>o almeno vi mostrerò una [[concepts/wonder\|meraviglia]] che vi appaghi<br>quanto me il mio ducato.<br>Qui Prospero scopre [[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]], che giocano a scacchi |
+| [[characters/miranda\|MIRANDA]] | Dolce signore, mi giocate falso. |
+| [[characters/ferdinand\|FERDINAND]] | No, mio carissimo [[motifs/love\|amore]],<br>non lo farei per tutto il mondo. |
+| [[characters/miranda\|MIRANDA]] | Sì, per una ventina di regni voi litighereste,<br>e io lo chiamerei gioco leale. |
+| [[characters/alonso\|ALONSO]] | Se questa si rivela<br>una visione dell'isola, un caro figlio<br>perderò due volte. |
+| [[characters/sebastian\|SEBASTIAN]] | Un altissimo miracolo. |
+| [[characters/ferdinand\|FERDINAND]] | (facendosi avanti)<br>Benché i mari minaccino, sono misericordiosi.<br>Li ho maledetti senza ragione.<br>S'inginocchia |
+| [[characters/alonso\|ALONSO]] | Ora tutte le benedizioni<br>d'un padre lieto ti circondino.<br>Alzati e di' come sei giunto qui.<br>[[characters/ferdinand\|Ferdinand]] si alza |
+| [[characters/miranda\|MIRANDA]] | (facendosi avanti)<br>O [[concepts/wonder\|meraviglia]]!<br>Quante belle creature ci sono qui!<br>Com'è bella l'umanità! O mirabile mondo nuovo<br>che ha in sé tal gente! |
+| PROSPERO | È nuovo per te. |
+| [[characters/alonso\|ALONSO]] | (a [[characters/ferdinand\|Ferdinand]])<br>Chi è questa fanciulla con cui stavi giocando?<br>La vostra più antica conoscenza non può essere di tre ore.<br>È lei la dea che ci ha separati,<br>e che così ci ha riuniti? |
+| [[characters/ferdinand\|FERDINAND]] | Signore, è mortale;<br>ma per immortale [[concepts/providence\|provvidenza]] è mia.<br>La scelsi quando non potevo chiedere a mio padre<br>il suo consiglio, né credevo d'averne uno. Ella<br>è figlia di questo famoso [[characters/duke-of-milan\|Duca di Milano]],<br>della cui fama ho tanto spesso udito,<br>ma che mai prima vidi; da lui ho<br>ricevuto una seconda vita; e secondo padre<br>me lo rende questa dama. |
+| [[characters/alonso\|ALONSO]] | Io sono suo.<br>Ma oh, come suonerà strano, che io<br>debba chiedere [[concepts/forgiveness\|perdono]] a mia [[archetypes/child\|figlia]]! |
+| PROSPERO | Qui, signore, fermatevi.<br>Non graviamo la nostra memoria d'un<br>peso che è passato. |
+| [[characters/gonzalo\|GONZALO]] | Ho pianto dentro di me,<br>o avrei parlato prima d'ora. Guardate quaggiù, o dèi,<br>e su questa coppia calate una benedetta [[motifs/crown\|corona]],<br>ché siete voi che avete segnato col gesso la via<br>che ci ha condotti qui. |
+| [[characters/alonso\|ALONSO]] | Io dico amen, [[characters/gonzalo\|Gonzalo]]. |
+| [[characters/gonzalo\|GONZALO]] | Fu il Duca cacciato da Milano, perché la sua progenie<br>divenisse re di Napoli? Oh, gioite<br>oltre ogni gioia comune! E incidetelo<br>in oro su colonne durature: in un solo viaggio<br>Claribel trovò a Tunisi il suo sposo,<br>e [[characters/ferdinand\|Ferdinand]] suo fratello trovò una sposa<br>là dove egli stesso era perduto; Prospero il suo ducato<br>in una povera isola; e tutti noi noi stessi,<br>quando nessuno era più suo. |
+| [[characters/alonso\|ALONSO]] | (a [[characters/ferdinand\|Ferdinand]] e [[characters/miranda\|Miranda]]) Datemi le vostre mani.<br>Che affanno e dolore stringano per sempre il cuore<br>di chi non vi augura gioia. |
+| [[characters/gonzalo\|GONZALO]] | Così sia! Amen! |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], seguito dal Capitano e dal Nostromo, stupefatti |
+| [[characters/gonzalo\|GONZALO]] | Oh guardate, signore, guardate, ecco altri dei nostri!<br>Profetizzai che se ci fosse stata una forca in terra<br>costui non poteva annegare. (Al Nostromo) Ebbene,<br><br>bestemmia,<br>tu che getti la grazia fuori bordo: non un giuramento a riva?<br>Non hai bocca in terraferma? Che notizie ci sono? |
+| NOSTROMO | La miglior notizia è che abbiamo ritrovato salvi<br>il nostro [[archetypes/king\|Re]] e la compagnia. Poi, la nostra [[motifs/ship\|nave]],<br>che tre clessidre fa davamo per sfasciata,<br>è stagna e agile e bravamente attrezzata, come quando<br>prendemmo il mare la prima volta. |
+| [[characters/ariel\|ARIEL]] | (a parte, a Prospero) Signore, tutto questo servigio<br>ho compiuto da quando partii. |
+| PROSPERO | (a parte, ad [[characters/ariel\|Ariel]])<br>Mio spirito ingegnoso! |
+| [[characters/alonso\|ALONSO]] | Questi non sono eventi naturali; si rafforzano<br>di strano in più strano. Dite, come siete giunti qui? |
+| NOSTROMO | Se credessi, signore, d'essere [[motifs/well\|ben]] desto<br>mi sforzerei di dirvelo. Eravamo morti di [[motifs/sleep\|sonno]],<br>e—non sappiamo come—tutti cacciati sotto i boccaporti,<br>dove poco fa, con strani e vari rumori<br>di ruggiti, strida, ululati, tintinnio di [[motifs/chains\|catene]],<br>e altra diversità di suoni, tutti orribili,<br>fummo svegliati; e subito in libertà;<br>dove in tutto il suo assetto vedemmo di nuovo<br>la nostra regale, buona e gagliarda [[motifs/ship\|nave]], e il nostro Capitano<br>saltellare a mirarla. In un attimo, con vostra licenza,<br>come in un sogno, fummo separati da loro,<br>e portati qui intontiti. |
+| [[characters/ariel\|ARIEL]] | (a parte, a Prospero)<br>È stato fatto [[motifs/well\|bene]]? |
+| PROSPERO | (a parte, ad [[characters/ariel\|Ariel]])<br>Egregiamente, mia diligenza. Sarai libero. |
+| [[characters/alonso\|ALONSO]] | Questo è il labirinto più strano che uomini abbian mai calcato,<br>e c'è in questa faccenda più di quanto la [[concepts/nature\|natura]]<br>abbia mai guidato. Qualche oracolo<br>deve raddrizzare il nostro sapere. |
+| PROSPERO | Signore, mio sovrano,<br>non tormentate la mente battendo<br>sulla stranezza di questa faccenda. In un'ora scelta,<br>che sarà presto, a voi solo spiegherò,<br>e vi parrà verosimile, ognuno<br>di questi casi accaduti; fino allora siate lieto,<br>e pensate [[motifs/well\|bene]] d'ogni cosa. (A parte, ad [[characters/ariel\|Ariel]]) Vieni<br>qui, spirito.<br>Libera [[characters/caliban\|Caliban]] e i suoi compagni.<br>Sciogli l'incantesimo. |
+| *(didascalia)* | Esce [[characters/ariel\|Ariel]] |
+| PROSPERO | (Ad [[characters/alonso\|Alonso]]) Come sta il mio grazioso signore?<br>Mancano ancora della vostra compagnia<br>alcuni strani compari che voi non ricordate. |
+| *(didascalia)* | Entra [[characters/ariel\|Ariel]], sospingendo [[characters/caliban\|Caliban]], Stefano e [[characters/trinculo\|Trinculo]], nei loro abiti rubati |
+| STEFANO | Ognuno s'arrangi per tutti gli altri, e nessuno badi a se stesso, ché tutto non è che fortuna. Coragio, bel [[archetypes/monster\|mostro]], coragio! |
+| [[characters/trinculo\|TRINCULO]] | Se queste che porto in testa sono spie fedeli, ecco un bello spettacolo. |
+| [[characters/caliban\|CALIBAN]] | O Setebos, questi sì che sono spiriti magnifici!<br>Com'è bello il mio padrone! Ho paura<br>che mi castighi. |
+| [[characters/sebastian\|SEBASTIAN]] | Ah, ah! Che cose son queste, mio signor [[characters/antonio\|Antonio]]?<br>Si comprano col denaro? |
+| [[characters/antonio\|ANTONIO]] | Molto probabile; uno di loro<br>è un pesce bell'e buono, e senza [[concepts/doubt\|dubbio]] vendibile. |
+| PROSPERO | Osservate soltanto le livree di questi uomini, signori,<br>poi dite se sono fedeli. Questo furfante deforme:<br>sua madre era una [[characters/witch\|strega]], e tanto potente<br>da governare la [[motifs/moon\|luna]], fare flussi e riflussi,<br>e agire in suo comando senza il suo potere.<br>Questi tre mi hanno derubato, e questo mezzo demonio,<br>ché è un bastardo, aveva congiurato con loro<br>per togliermi la vita. Due di questi tipi voi<br>dovete conoscerli e riconoscerli per vostri. Questa cosa di tenebra io<br>la riconosco mia. |
+| [[characters/caliban\|CALIBAN]] | Sarò punzecchiato a [[motifs/death\|morte]]. |
+| [[characters/alonso\|ALONSO]] | Non è questo Stefano, il mio coppiere ubriacone? |
+| [[characters/sebastian\|SEBASTIAN]] | È ubriaco anche adesso. Dove ha trovato il vino? |
+| [[characters/alonso\|ALONSO]] | E [[characters/trinculo\|Trinculo]] barcolla che è un piacere. Dove mai avranno<br>trovato questo gran liquore che li ha indorati?<br>(A [[characters/trinculo\|Trinculo]]) Come sei finito in questa salamoia? |
+| [[characters/trinculo\|TRINCULO]] | Sono stato in una tal salamoia da quando vi vidi l'ultima volta che, [[concepts/fear\|temo]], non mi uscirà mai più dalle ossa. Non avrò da [[concepts/fear\|temere]] le mosche. |
+| [[characters/sebastian\|SEBASTIAN]] | Ebbene, come va, Stefano? |
+| STEFANO | Oh, non toccarmi! Non sono Stefano, ma un crampo. |
+| PROSPERO | Volevi essere [[archetypes/king\|re]] dell'isola, messere? |
+| STEFANO | Sarei stato un re dolente, allora. |
+| [[characters/alonso\|ALONSO]] | (indicando [[characters/caliban\|Caliban]]) Questa è la cosa più strana su cui abbia mai posato gli occhi. |
+| PROSPERO | È tanto sproporzionato nei modi<br>quanto nella figura. (A [[characters/caliban\|Caliban]]) Va', messere, alla mia cella.<br>Porta con te i tuoi compagni. Se speri<br>d'ottenere il mio perdono, mettila bene in ordine. |
+| [[characters/caliban\|CALIBAN]] | Sì, lo farò; e sarò savio d'ora innanzi,<br>e cercherò la grazia. Che asino tre volte [[topoi/double\|doppio]]<br>fui io a prendere questo ubriacone per un dio,<br>e ad adorare questo stolido sciocco! |
+| PROSPERO | Via, andate! |
+| *(didascalia)* | Esce [[characters/caliban\|Caliban]] |
+| [[characters/alonso\|ALONSO]] | (a Stefano e [[characters/trinculo\|Trinculo]])<br>Via di qui, e riponete il vostro bagaglio dove lo trovaste. |
+| [[characters/sebastian\|SEBASTIAN]] | O piuttosto dove lo rubaste. |
+| *(didascalia)* | Escono Stefano e [[characters/trinculo\|Trinculo]] |
+| PROSPERO | (ad [[characters/alonso\|Alonso]])<br>Signore, invito vostra altezza e il vostro seguito<br>nella mia povera cella, dove prenderete riposo<br>per questa sola [[motifs/night\|notte]]; e parte di essa la spenderò<br>con tali discorsi che non [[concepts/doubt\|dubito]] la faranno<br>trascorrere veloce: la storia della mia vita,<br>e i particolari casi trascorsi<br>da quando venni a quest'isola. E al mattino<br>vi condurrò alla vostra [[motifs/ship\|nave]], e poi a Napoli,<br>dove ho [[concepts/hope\|speranza]] di veder solennizzate le nozze<br>di questi nostri diletti;<br>e di là mi ritirerò nella mia Milano, dove<br>ogni terzo pensiero sarà la mia [[motifs/grave\|tomba]]. |
+| [[characters/alonso\|ALONSO]] | Ardo dal desiderio<br>d'udire la storia della vostra vita, che deve<br>prendere l'orecchio in modo strano. |
+| PROSPERO | Narrerò ogni cosa,<br>e vi prometto mari calmi, brezze propizie,<br>e navigazione così spedita da raggiungere<br>la vostra flotta regale, per lontana che sia. (A parte, ad [[characters/ariel\|Ariel]]) Mio [[characters/ariel\|Ariel]], pulcino,<br>questo è il tuo incarico. Poi agli elementi<br>sii libero, e sta' [[motifs/well\|bene]]. |
+| *(didascalia)* | Esce [[characters/ariel\|Ariel]] |
+| PROSPERO | Vi prego, avvicinatevi. |
+| *(didascalia)* | Escono tutti tranne Prospero |
+| PROSPERO | Epilogo |
+| PROSPERO | Or sono infranti tutti i miei incanti,<br>e la forza che ho è la mia soltanto,<br>ch'è debolissima. Ora è ben vero<br>ch'io debba qui restar da voi confinato<br>o mandato a Napoli. Non permettete,<br>poiché ho riavuto il ducato mio<br>e perdonato l'ingannatore, ch'io dimori<br>in quest'isola nuda per vostro incanto;<br>ma scioglietemi voi dai miei legami<br>con l'aiuto delle vostre buone mani.<br>Il vostro gentile fiato le mie vele<br>deve gonfiare, o il mio disegno fallisce,<br>ch'era di piacere. Ora mi mancano<br>spiriti che costringano, arte che incanti;<br>e la mia fine è [[concepts/despair\|disperazione]]<br>se non mi soccorre la [[motifs/prayer\|preghiera]],<br>che tanto trafigge da dare l'assalto<br>alla [[concepts/mercy\|Pietà]] stessa, e ogni colpa assolve.<br>Come voi dai delitti vorreste esser perdonati,<br>così la vostra indulgenza mi renda libero.<br>Attende l'applauso, poi esce |
 
 
 
@@ -1492,68 +2342,6 @@ The Tempest
 | *(didascalia)* | Exeunt all but [[characters/ariel\|Ariel]] |
 | [[characters/ariel\|ARIEL]] | Prospero my lord shall know what I have done.<br>So, [[archetypes/king\|King]], go safely on to seek thy son. |
 | *(didascalia)* | Exit |
-| [[characters/ariel\|ARIEL]] | 2.2 Enter [[characters/caliban\|Caliban]], wearing a gaberdine, and with a<br>burden of wood |
-| *(didascalia)* | [[characters/caliban\|CALIBAN]] throwing down his burden |
-| [[characters/ariel\|ARIEL]] | All the infections that the sun sucks up<br>From bogs, fens, flats, on Prosper fall, and make him<br>By inch-meal a disease! |
-| *(didascalia)* | A noise of thunder heard |
-| [[characters/ariel\|ARIEL]] | His spirits hear me,<br>And yet I needs must curse. But they’ll nor pinch,<br>Fright me with urchin-shows, pitch me i’th’ mire,<br>Nor lead me like a [[motifs/fire\|fire]]-brand in the dark<br>Out of my way, unless he bid ’em. But<br>For every trifle are they set upon me;<br>Sometime like apes, that mow and chatter at me<br>And after bite me; then like hedgehogs, which<br>Lie tumbling in my barefoot way and mount<br>Their pricks at my footfall; sometime am I<br>All wound with adders, who with cloven tongues<br>Do hiss me into [[concepts/madness\|madness]]. |
-| *(didascalia)* | Enter [[characters/trinculo\|Trinculo]] |
-| [[characters/ariel\|ARIEL]] | Lo now, lo!<br>Here comes a spirit of his, and to torment me<br>For bringing wood in slowly. I’ll fall flat.<br>Perchance he will not mind me.<br>He lies down |
-| [[characters/trinculo\|TRINCULO]] | Here’s neither bush nor shrub to bear off any weather at all, and another [[motifs/storm\|storm]] brewing. I hear it sing i‘th’ [[motifs/wind\|wind]]. Yon same black cloud, yon huge one, looks like a foul bombard that would shed his liquor. If it should thunder as it did before, I know not where to hide my head. Yon same cloud cannot choose but fall by pailfuls. (Seeing [[characters/caliban\|Caliban]]) What have we here, a man or a fish? Dead or alive?—A fish, he smells like a fish; a very ancient and fish-like smell; a kind of not-of-the-newest poor-john. A strange fish! Were I in England now, as once I was, and had but this fish painted, not a holiday-[[archetypes/fool\|fool]] there but would give a piece of silver. There would this [[archetypes/monster\|monster]] make a man. Any strange beast there makes a man. When they will not give a doit to relieve a lame beggar, they will lay out ten to see a dead Indian. Legged like a man, and his fins like arms! Warm, o’my troth! I do now let loose my opinion, hold it no longer. This is no fish, but an islander that hath lately suffered by a thunderbolt. |
-| *(didascalia)* | Thunder |
-| [[characters/trinculo\|TRINCULO]] | Alas, the [[motifs/storm\|storm]] is come again. My best way is to creep under his gaberdine; there is no other shelter hereabout. Misery acquaints a man with strange bedfellows. I will here shroud till the dregs of the [[motifs/storm\|storm]] be past.<br>He hides under [[characters/caliban\|Caliban]]’s gaberdine. Enter Stefano, singing, with a wooden bottle in his hand |
-| STEFANO | I shall no more to sea, to sea,<br>Here shall I die ashore—<br>This is a very scurvy tune to sing at a man’s funeral.<br>[[motifs/well\|Well]], here’s my comfort.<br>He drinks, then sings<br>The master, the swabber, the boatswain, and I, 45<br>The gunner and his mate,<br>Loved Mall, Meg, and Marian, and Margery,<br>But none of us cared for Kate.<br>For she had a tongue with a tang,<br>Would cry to a sailor ‘Go hang!’<br>She loved not the savour of tar nor of pitch,<br>Yet a tailor might scratch her where’er she did itch.<br>Then to sea, boys, and let her go hang!<br>Then to sea, etc.<br>This is a scurvy tune, too. But here’s my comfort.<br>He drinks |
-| [[characters/caliban\|CALIBAN]] | (to [[characters/trinculo\|Trinculo]]) Do not torment me! O! |
-| STEFANO | What’s the matter? Have we devils here? Do you put tricks upon’s with savages and men of Ind, ha? I have not scaped drowning to be afeard now of your four legs. For it hath been said: ‘As proper a man as ever went on four legs cannot make him give ground.’ And it shall be said so again, while Stefano breathes at’ nostrils. |
-| [[characters/caliban\|CALIBAN]] | The spirit torments me. O! |
-| STEFANO | This is some [[archetypes/monster\|monster]] of the isle with four legs, who hath got, as I take it, an ague. Where the devil should he learn our language? I will give him some relief, if it be but for that. If I can recover him and keep him tame and get to Naples with him, he’s a present for any emperor that ever trod on neat’s leather. |
-| [[characters/caliban\|CALIBAN]] | (to [[characters/trinculo\|Trinculo]]) Do not torment me, prithee! I’ll bring my wood [[motifs/home\|home]] faster. |
-| STEFANO | He’s in his fit now, and does not talk after the wisest. He shall taste of my bottle. If he have never drunk wine afore, it will go near to remove his fit. If I can recover him and keep him tame, I will not take too much for him. He shall pay for him that hath him, and that soundly. |
-| [[characters/caliban\|CALIBAN]] | (to [[characters/trinculo\|Trinculo]]) Thou dost me yet but little hurt. Thou wilt anon, I know it by thy trembling. Now Prosper works upon thee. |
-| STEFANO | Come on your ways. Open your mouth. Here is that which will give language to you, cat. Open your mouth. This will shake your shaking, I can tell you, and that soundly. You cannot tell who’s your friend. Open your chaps again.<br>[[characters/caliban\|Caliban]] drinks |
-| [[characters/trinculo\|TRINCULO]] | I should know that voice. It should be—but he is drowned, and these are devils. O, defend me! |
-| STEFANO | Four legs and two voices—a most delicate [[archetypes/monster\|monster]]! His forward voice now is to speak [[motifs/well\|well]] of his friend; his backward voice is to utter foul speeches and to detract. If all the wine in my bottle will recover him, I will help his ague. Come.<br>[[characters/caliban\|Caliban]]<br>drinks<br>Amen. I will pour some in thy other mouth. |
-| [[characters/trinculo\|TRINCULO]] | Stefano! |
-| STEFANO | Doth thy other mouth call me? [[concepts/mercy\|Mercy]], [[concepts/mercy\|mercy]]! This is a devil, and no [[archetypes/monster\|monster]]. I will leave him. I have no long spoon. |
-| [[characters/trinculo\|TRINCULO]] | Stefano! If thou beest Stefano, touch me and speak to me, for I am [[characters/trinculo\|Trinculo]]. Be not afeard. Thy good friend [[characters/trinculo\|Trinculo]]. |
-| STEFANO | If thou beest [[characters/trinculo\|Trinculo]], come forth. I’ll pull thee by the lesser legs. If any be [[characters/trinculo\|Trinculo]]’s legs, these are they. He pulls out [[characters/trinculo\|Trinculo]] by the legs Thou art very [[characters/trinculo\|Trinculo]] indeed! How cam’st thou to be the siege of this [[motifs/moon\|moon]]-calf? Can he vent Trinculos? |
-| [[characters/trinculo\|TRINCULO]] | (rising) I took him to be killed with a thunderstroke. But art thou not drowned, Stefano? I [[concepts/hope\|hope]] now thou art not drowned. Is the [[motifs/storm\|storm]] overblown? I hid me under the dead [[motifs/moon\|moon]]-calf’s gaberdine for [[concepts/fear\|fear]] of the [[motifs/storm\|storm]]. And art thou living, Stefano? O Stefano, two Neapolitans scaped! |
-| *(didascalia)* | He dances Stefano round |
-| STEFANO | Prithee, do not turn me about. My stomach is not constant. |
-| [[characters/caliban\|CALIBAN]] | These be fine things, an if they be not spirits.<br>That’s a brave god, and bears celestial liquor.<br>I will kneel to him. |
-| *(didascalia)* | He kneels |
-| STEFANO | (to [[characters/trinculo\|Trinculo]]) How didst thou scape? How cam’st thou hither? Swear by this bottle how thou cam’st hither. I escaped upon a butt of sack which the sailors heaved o’erboard, by this bottle—which I made of the bark of a tree with mine own hands since I was cast ashore. |
-| [[characters/caliban\|CALIBAN]] | I’ll swear upon that bottle to be thy true subject, for the liquor is not earthly. |
-| STEFANO | (offering [[characters/trinculo\|Trinculo]] the bottle) Here. Swear then how thou escapedst. |
-| [[characters/trinculo\|TRINCULO]] | Swum ashore, man, like a duck. I can swim like a duck, I’ll be sworn. |
-| STEFANO | Here, kiss the book.<br>[[characters/trinculo\|Trinculo]] drinks<br>Though thou canst swim like a duck, thou art made<br>like a goose. |
-| [[characters/trinculo\|TRINCULO]] | O Stefano, hast any more of this? |
-| STEFANO | The whole butt, man. My cellar is in a rock by th’ seaside, where my wine is hid. |
-| *(didascalia)* | [[characters/caliban\|Caliban]] rises |
-| STEFANO | How now, [[motifs/moon\|moon]]-calf? How does thine ague? |
-| [[characters/caliban\|CALIBAN]] | Hast thou not dropped from heaven? |
-| STEFANO | Out o’th’ [[motifs/moon\|moon]], I do assure thee. I was the man i’th’ [[motifs/moon\|moon]] when [[motifs/time\|time]] was. |
-| [[characters/caliban\|CALIBAN]] | I have seen thee in her, and I do adore thee.<br>My mistress showed me thee, and thy dog and thy bush. |
-| STEFANO | Come, swear to that. Kiss the book. I will furnish it anon with new contents. Swear.<br>[[characters/caliban\|Caliban]] drinks |
-| [[characters/trinculo\|TRINCULO]] | By this good light, this is a very shallow [[archetypes/monster\|monster]]! I afeard of him? A very weak [[archetypes/monster\|monster]]! The man i’th’ [[motifs/moon\|moon]]? A most poor, credulous [[archetypes/monster\|monster]]! [[motifs/well\|Well]] drawn, [[archetypes/monster\|monster]], in good sooth! |
-| [[characters/caliban\|CALIBAN]] | (to Stefano)<br>I’ll show thee every fertile inch o’th’ island,<br>And I will kiss thy foot. I prithee, be my god. |
-| [[characters/trinculo\|TRINCULO]] | By this light, a most perfidious and drunken [[archetypes/monster\|monster]]! When’s god’s asleep, he’ll rob his bottle. |
-| [[characters/caliban\|CALIBAN]] | (to Stefano)<br>I’ll kiss thy foot. I’ll swear myself thy subject. |
-| STEFANO | Come on then; down, and swear. |
-| *(didascalia)* | [[characters/caliban\|Caliban]] kneels |
-| [[characters/trinculo\|TRINCULO]] | I shall laugh myself to [[motifs/death\|death]] at this puppy-headed [[archetypes/monster\|monster]]. A most scurvy [[archetypes/monster\|monster]]! I could find in my heart to beat him— |
-| STEFANO | (to [[characters/caliban\|Caliban]]) Come, kiss. |
-| *(didascalia)* | [[characters/caliban\|Caliban]] kisses his foot |
-| [[characters/trinculo\|TRINCULO]] | But that the poor [[archetypes/monster\|monster]]’s in drink. An abominable [[archetypes/monster\|monster]]! |
-| [[characters/caliban\|CALIBAN]] | I’ll show thee the best springs; I’ll pluck thee berries;<br>I’ll fish for thee, and get thee wood enough.<br>A plague upon the [[archetypes/tyrant\|tyrant]] that I serve!<br>I’ll bear him no more sticks, but follow thee,<br>Thou wondrous man. |
-| [[characters/trinculo\|TRINCULO]] | A most ridiculous [[archetypes/monster\|monster]], to make a [[concepts/wonder\|wonder]] of a poor drunkard! |
-| [[characters/caliban\|CALIBAN]] | (to Stefano)<br>I prithee, let me bring thee where crabs grow,<br>And I with my long nails will dig thee pig-nuts,<br>Show thee a jay’s nest, and instruct thee how<br>To snare the nimble marmoset. I’ll bring thee<br>To clust’ring filberts, and sometimes I’ll get thee<br>Young seamews from the rock. Wilt thou go with<br>me? |
-| STEFANO | I prithee now, lead the way without any more talking.—[[characters/trinculo\|Trinculo]], the [[archetypes/king\|King]] and all our company else being drowned, we will inherit here.—Here, bear my bottte.—Fettow [[characters/trinculo\|Trinculo]], we’ll fill him by and by again. |
-| [[characters/caliban\|CALIBAN]] | (sings drunkenly) Farewell, master, farewell, farewell! |
-| [[characters/trinculo\|TRINCULO]] | A howling [[archetypes/monster\|monster]], a drunken [[archetypes/monster\|monster]]! |
-| [[characters/caliban\|CALIBAN]] | (sings)<br>No more dams I’ll make for fish,<br>Nor fetch in firing<br>At requiring,<br>Nor scrape trenchering, nor wash dish.<br>’Ban, ’ban, Cacaliban<br>Has a new master.—Get a new man!<br>[[concepts/freedom\|Freedom]], high-day! High-day, [[concepts/freedom\|freedom]]! [[concepts/freedom\|Freedom]], highday,<br>[[concepts/freedom\|freedom]]! |
-| STEFANO | O brave [[archetypes/monster\|monster]]! Lead the way. |
-| *(didascalia)* | Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2501,8 +3289,6 @@ The Tempest
 | *(didascalia)* | Exeunt all but Prospero |
 | PROSPERO | Epilogue |
 | PROSPERO | Now my charms are all o’erthrown,<br>And what strength I have’s mine own,<br>Which is most faint. Now ’tis true<br>I must be here confined by you<br>Or sent to Naples. Let me not,<br>Since I have my dukedom got,<br>And pardoned the deceiver, dwell<br>In this bare island by your spell;<br>But release me from my bands<br>With the help of your good hands.<br>Gentle breath of yours my sails<br>Must fill, or else my project fails,<br>Which was to please. Now I want<br>Spirits to enforce, art to enchant;<br>And my ending is [[concepts/despair\|despair]]<br>Unless I be relieved by [[motifs/prayer\|prayer]],<br>Which pierces so, that it assaults<br>[[concepts/mercy\|Mercy]] itself, and frees all faults.<br>As you from crimes would pardoned be,<br>Let your indulgence set me free.<br>He awaits applause, then exit |
-| CARDENIO | A BRIEF ACCOUNT |
-| MANY | plays acted in Shakespeare’s [[motifs/time\|time]] have failed to survive; they may easily include some that he wrote. The mystery of [[motifs/love\|Love]]’s Labour’s Won is discussed elsewhere (pp. xxxvii, 337). Certain manuscript records of the seventeenth century suggest that at least one other play in which he had a hand may have disappeared. On 9 September 1653 the [[settings/london\|London]] publisher Humphrey Moseley entered in the Stationers’ Register a batch of plays including ‘The [[concepts/history\|History]] of Cardenio, by Mr Fletcher and Shakespeare’. Cardenio is a character in Part One of Cervantes’ [[characters/don-quixote\|Don Quixote]], published in English [[forms/translation\|translation]] in 1612. Two earlier allusions suggest that the [[archetypes/king\|King]]’s Men owned a play on this subject at the [[motifs/time\|time]] that Shakespeare was collaborating with John Fletcher (1579-1625). On 20 May 1613 the Privy Council authorized payment of £20 to John Heminges, as leader of the [[archetypes/king\|King]]’s Men, for the presentation at [[settings/court\|court]] of six plays, one listed as ‘Cardenno’. On 9 July of the same year Heminges received £6 13s. 4d. for his company’s performance of a play ‘called Cardenna’ before the ambassador of the Duke of Savoy.<br>No more information about this play survives from the seventeenth century, but in 1728 Lewis Theobald published a play based on the story of Cardenio and called [[topoi/double\|Double]] Falsehood, or The Distrest Lovers, which he claimed to have ‘revised and adapted’ from one ‘written originally by W. Shakespeare’. It had been successfully produced at Drury Lane on 13 December 1727, and was given thirteen times up to 1 May 1728. Other performances are recorded in 1740, 1741, 1767 (when it was reprinted), 1770, and 1847. In 1770 a newspaper stated that ‘the original manuscript’ was ‘treasured up in the Museum of Covent [[motifs/garden\|Garden]] Playhouse’; [[motifs/fire\|fire]] destroyed the theatre, including its library, in 1808.<br>Theobald claimed to own several manuscripts of an original play by Shakespeare, and remarked that some of his contemporaries thought the style was Fletcher’s, not Shakespeare’s. When he himself came to edit Shakespeare’s plays he did not include either [[topoi/double\|Double]] Falsehood or the play on which he claimed to have based it; he simply edited the plays of the First Folio, not adding either [[characters/pericles\|Pericles]] or The Two Noble Kinsmen, though he believed they were partly by Shakespeare. It is quite possible that [[topoi/double\|Double]] Falsehood is based (however distantly) on a play of Shakespeare’s [[motifs/time\|time]]; if so, the play is likely to have been the one performed by the [[archetypes/king\|King]]’s Men and ascribed by Moseley in 1653 to Fletcher and Shakespeare.<br>[[topoi/double\|Double]] Falsehood is a [[forms/tragicomedy\|tragicomedy]]; the characters’ names differ from those in [[characters/don-quixote\|Don Quixote]], and the story is varied. Henriquez rapes Violante, then falls in [[motifs/love\|love]] with Leonora, loved by his friend Julio. Her parents agree to the [[motifs/marriage\|marriage]], but Julio interrupts the ceremony. Leonora (who had intended to kill herself) swoons and later takes sanctuary in a nunnery. Julio goes mad with [[motifs/desire\|desire]] for vengeance on his false friend; and the wronged Violante, disguised as a boy, joins a group of shepherds, and is almost raped by one of them. Henriquez’s virtuous brother, Roderick, ignorant of his villainy, helps him to abduct Leonora. Leonora and Violante both denounce Henriquez to Roderick. Finally Henriquez repents and marries Violante, while Julio (now sane) marries Leonora.<br>Some of the motifs of [[topoi/double\|Double]] Falsehood, such as the disguised heroine wronged by her [[archetypes/lover\|lover]] and, particularly, the reuniting and [[concepts/reconciliation\|reconciliation]] of parents with children, recall Shakespeare’s late plays. But most of the dialogue seems un-Shakespearian. Though the play deserved its limited success, it is now no more than an interesting curiosity. |
 
 
 <span class="qlang-split" data-lang="it"></span>

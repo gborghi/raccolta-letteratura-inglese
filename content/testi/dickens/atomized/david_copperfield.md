@@ -43079,6 +43079,94 @@ I said, ‘Near [[settings/london|London]],’ which was all I knew.
 ‘Oh! my eye!’ he said, looking very low-spirited, ‘I am sorry for that.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La carrozza era nel cortile, luccicante in ogni sua parte, ma ancora senza cavalli; e in quella condizione sembrava che nulla fosse più improbabile che potesse mai andare a [[settings/london|Londra]]. Stavo pensando questo, e chiedendomi che fine avrebbe fatto alla fine la mia scatola, che il signor Barkis aveva messo giù sul selciato del cortile vicino al palo (avendo lui guidato nel cortile per girare la sua carretta), e anche che fine avrei fatto alla fine io, quando una signora si affacciò a una finestra a bovindo dove erano appesi alcuni volatili e pezzi di carne, e disse:
+
+'È il piccolo gentiluomo di Blunderstone?'
+
+«Sì, signora», dissi.
+
+«Che nome?» chiese la signora.
+
+«Copperfield, signora», dissi.
+
+"Non va bene", rispose la signora. "Nessun pranzo è pagato qui a quel nome."
+
+«È Murdstone, signora?» dissi.
+
+"Se sei il signor Murdstone," disse la signora, "perché ti presenti con un altro nome?"
+
+Spiegai alla signora com'era la situazione, che poi suonò il campanello e chiamò: «William! Mostra la sala da caffè!», al che un cameriere uscì correndo da una cucina sull'altro lato del cortile per mostrarmela, e sembrò piuttosto sorpreso quando scoprì che doveva mostrarla solo a me.
+
+Era una grande stanza lunga con alcune grandi mappe. [[concepts/doubt|Dubito]] che avrei potuto sentirmi più strano se le mappe fossero state dei veri paesi stranieri e io fossi stato abbandonato in mezzo a loro. Sentivo che era una presa di libertà sedermi, con il cappello in mano, sul bordo della sedia più vicina alla porta; e quando il cameriere stese un tovagliolo appositamente per me e vi mise sopra un set di castori, credo di essere arrossito per tutta la modestia.
+
+Mi portò delle costolette e delle verdure, e tolse le coperture in
+modo così vivace che temetti di averlo offeso in qualche modo. Ma mi
+tranquillizzò molto mettendo una sedia per me a tavola e dicendo,
+molto affabilmente, «Ora, ragazzo di sei piedi! vieni!»
+
+Lo ringraziai e mi sedetti a tavola; ma trovai estremamente difficile maneggiare coltello e forchetta con una qualsiasi abilità, o evitare di sporcarmi con la salsa, mentre lui stava in piedi di fronte a me, fissandomi così intensamente e facendomi arrossire in modo terribile ogni [[motifs/time|volta]] che incrociavo il suo sguardo. Dopo avermi osservato mangiare il secondo boccone, disse:
+
+'Ci sono mezzo boccale di birra per te. Vuoi berlo ora?'
+
+Lo ringraziai e dissi: «Sì». Allora lo versò da una brocca in un grande bicchiere, lo sollevò contro la luce e lo fece apparire bellissimo.
+
+'Che occhio!' disse. 'Sembra un bel po', vero?'
+
+«Mi sembra davvero molto», risposi con un sorriso. Perché mi faceva davvero piacere trovarlo così piacevole. Era un uomo con gli occhi scintillanti, il viso pieno di brufoli, con i capelli dritti in testa; e mentre stava lì con un braccio a cavalcioni, tenendo il bicchiere alla luce con l'altra mano, aveva un'aria molto amichevole.
+
+«C'era un signore qui, ieri», disse, «un signore robusto, di nome Topsawyer, forse lo conosce?»
+
+'No', dissi, 'non credo.
+
+«In pantaloni e gaiters, cappello a larghe tese, soprabito grigio, cravatta a pois», disse il cameriere.
+
+'No', dissi timidamente, 'non ho il piacere, '
+
+«Entrò qui», disse il cameriere, guardando la luce attraverso il bicchiere, «ordinò un bicchiere di questa birra--VOLLE ordinarla--gli dissi di no--la bevve, e cadde morto. Era troppo vecchia per lui. Non avrebbe dovuto essere servita; è la verità».
+
+Fui molto turbato nell'apprendere di questo [[concepts/melancholy|triste]] incidente e dissi che pensavo fosse meglio che bevessi un po' di [[motifs/water|acqua]].
+
+«Vedete,» disse il cameriere, continuando a guardare la luce attraverso il bicchiere, con un occhio chiuso, «la nostra gente non ama che le cose vengano ordinate e poi lasciate. La cosa li offende. Ma lo berrò io, se volete. Ci sono abituato, e l'abitudine è tutto. Non credo che mi farà male, se mi butto all'indietro e lo butto giù in fretta. Lo faccio?»
+
+Risposi che mi avrebbe fatto molto piacere se l'avesse bevuto, se pensava di poterlo fare in sicurezza, ma assolutamente no altrimenti. Quando si gettò indietro la testa e lo bevve in fretta, confesso che ebbi una terribile [[concepts/fear|paura]] di vederlo subire la sorte del povero signor Topsawyer e cadere senza vita sul tappeto. Ma non gli fece male. Al contrario, mi parve che ne uscisse più fresco.
+
+'Che cosa abbiamo qui?' disse, mettendo una forchetta nel mio piatto. 'Non sono costolette?'
+
+«Chops», dissi.
+
+«Dio benedica la mia [[motifs/soul|anima]]!» esclamò «Non sapevo che fossero bistecca. Perbacco,
+la bistecca è proprio la cosa giusta per togliere gli effetti negativi di quella birra! Non è
+una fortuna?»
+
+Così prese uno scricciolo per l'osso in una mano e una patata nell'altra,
+e mangiò con ottimo appetito, a mia estrema soddisfazione.
+Poi prese un altro scricciolo e un'altra patata; e dopo,
+un altro scricciolo e un'altra patata. Quando ebbimo finito, mi portò
+uno zabaione, e dopo averlo messo davanti a me, sembrò rimuginare, e assentarsi
+con la mente per qualche istante.
+
+«Come è la torta?» disse, risvegliandosi.
+
+«È un pudding», risposi.
+
+«Pudding!» esclamò. «Perbacco, è proprio così! Che cosa?» guardandolo più da vicino. «Non vorrete dirmi che è un pudding di pastella!»
+
+'Sì, è proprio così.'
+
+«Ebbene, un budino di pastella», disse, prendendo un cucchiaio da tavola, «è il mio
+budino preferito! Non è che fortuna? Vieni, piccolo, e vediamo
+chi ne prenderà di più.»
+
+Il cameriere ne ebbe certamente la maggior parte. Mi pregò più di una volta di entrare e vincere, ma con il suo cucchiaio da tavola contro il mio cucchiaino da tè, la sua velocità contro la mia, e il suo appetito contro il mio, fui lasciato ben indietro già al primo boccone, e non avevo alcuna possibilità con lui. Non ho mai visto nessuno godersi un budino così tanto, credo; e rise, quando fu tutto finito, come se il suo piacere durasse ancora.
+
+Trovandolo così amichevole e socievole, fu allora che chiesi la penna, l'inchiostro e la carta per scrivere a Peggotty. Non solo me li portò immediatamente, ma fu così gentile da supervisionarmi mentre scrivevo la lettera. Quando ebbi finito, mi chiese dove sarei andato a scuola.
+
+Dissi: «Vicino a [[settings/london|Londra]]», che era tutto ciò che sapevo.
+
+"Oh! mio Dio!" disse, guardando molto abbattuto, "mi dispiace per questo."
+
 
 
 <span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_03" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 3)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/home,motif/night,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/courage,concept/doubt,concept/humility,setting/london,character/david_copperfield"></span>
@@ -65348,6 +65436,72 @@ Mrs. Crupp with particular directions to leave the windows open, that my
 sitting-room might be aired, and purged of his presence.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Perché, Master Copperfield», disse Uriah, «è, in effetti, la fiducia
+che mi prendo la libertà di riporre. Umile come sono», si asciugò le mani più forte, e le guardò a turno insieme al [[motifs/fire|fuoco]],
+«umile come è mia madre, e umile come è sempre stato il nostro povero ma onesto tetto, l'immagine di Miss Agnes (non mi preoccupo di affidarti il mio segreto,
+Master Copperfield, perché ho sempre provato un'ammirazione travolgente per te fin dal primo momento in cui ho avuto il piacere di vederti in una carrozza a cavalli) è stata nel mio cuore per anni. Oh, Master Copperfield, con quale puro
+affetto io [[motifs/love|amo]] il terreno su cui cammina la mia Agnes!»
+
+Credo di aver avuto l'idea delirante di afferrare il [[motifs/fire|poker]] incandescente dal
+fuoco e di trapassarlo con quello. L'idea mi passò per la mente con un sussulto,
+come un proiettile sparato da un fucile: ma l'immagine di Agnes, oltraggiata anche solo
+da un pensiero su questo animale dai capelli rossi, rimase nella mia mente quando
+lo guardai, seduto tutto storto come se la sua meschina [[motifs/soul|anima]] stringesse il suo [[concepts/body|corpo]],
+e mi fece girare la testa. Sembrava gonfiarsi e crescere davanti ai miei occhi; la stanza
+sembrava piena degli echi della sua voce; e la strana sensazione (a cui, forse, nessuno è del tutto estraneo) che tutto ciò fosse già accaduto
+prima, in un [[motifs/time|momento]] indefinito, e che io sapessi cosa stava per dire dopo, mi invase.
+
+Un'osservazione tempestiva del senso di potere che traspariva dal suo volto
+contribuì più di qualsiasi sforzo che avrei potuto fare a farmi ricordare la supplica di Agnes
+in tutta la sua forza. Gli chiesi, con un'apparenza di calma che non avrei mai creduto possibile un
+minuto prima, se avesse rivelato i suoi sentimenti ad Agnes.
+
+«Oh no, signor Copperfield!» rispose lui; «per niente! Non a nessuno
+se non a voi. Vedete, sto appena uscendo dalla mia umile condizione. Ripongo
+molte [[concepts/hope|speranze]] nel fatto che lei noti quanto sono utile a suo padre (perché
+confido di essere davvero molto utile a lui, signor Copperfield), e quanto
+io gli prepari la strada e lo tenga sulla retta via. È così affezionata
+a suo padre, signor Copperfield (oh, che cosa meravigliosa in una
+figlia!), che penso che per suo padre possa venire a volermi bene.»
+
+Comprendevo la profondità di tutto il piano del furfante e capivo perché lo aveva svelato.
+
+«Se vorrà avere la bontà di mantenere il mio segreto, signorino Copperfield», continuò, «e di non andare contro di me in generale, lo considererò un favore particolare. Non vorrà creare spiacevoli situazioni. So quanto lei abbia un cuore amichevole; ma avendomi conosciuto solo nella mia condizione umile (dovrei dire nella mia condizione più umile, perché sono ancora molto umile), potrebbe, senza volerlo, andare contro di me piuttosto, con la mia Agnes. La chiamo mia, vede, signorino Copperfield. C'è una canzone che dice: "Rinuncerei alle corone, pur di chiamarla mia!" Spero di riuscirci, un giorno o l'altro.»
+
+Cara Agnes! Troppo amorevole e troppo buona per chiunque io potessi
+pensare, era possibile che fosse destinata ad essere la moglie di un
+miserabile come quello!
+
+«Non c’è fretta al momento, sapete, Master Copperfield», continuò Uriah, nel suo modo viscido, mentre io lo fissavo con questo pensiero in testa. «La mia Agnes è ancora molto giovane; e a mia madre e a me ci vorrà del tempo per migliorare la nostra posizione e fare molti nuovi cambiamenti, prima che sia tutto del tutto comodo. Così avrò [[motifs/time|tempo]] gradualmente di renderla familiare con le mie speranze, man mano che si presenteranno le occasioni. Oh, vi ringrazio tanto per questa confidenza! Oh, è un tale sollievo, non potete immaginare, sapere che capite la nostra situazione e che siete certo (perché non vorreste creare spiacevoli situazioni in famiglia) di non andare contro di me!»
+
+Egli prese la mano che non osavo ritirare, e dopo averla stretta con una pressione umida, consultò il suo pallido orologio.
+
+«Dio mio!» disse «è già passato l’una. I momenti scivolano via così, nella confidenza dei vecchi tempi, signorino Copperfield, che è quasi mezz’ora passata l’una!»
+
+Risposi che avevo pensato che fosse più tardi. Non che lo avessi davvero
+pensato, ma perché le mie capacità conversazionali erano effettivamente
+disperse.
+
+«Dio mio!» disse, riflettendo. «La casa in cui sto alloggiando -- una specie di albergo privato e pensione, piccolo Copperfield, vicino al nuovo corso del [[motifs/river|fiume]] -- sarà andata a letto da due ore.»
+
+Mi dispiace che ci sia solo un letto qui, e che io.
+
+«Oh, non pensi di menzionare i letti, Master Copperfield!» rispose estasiato, tirando su una gamba. «Ma avresti qualche obiezione se mi sdraio davanti al [[motifs/fire|fuoco]]?»
+
+«Se è così,» dissi «la prego, prenda il mio letto, e io mi sdraierò davanti al [[motifs/fire|fuoco]].»
+
+Il suo rifiuto di questa offerta fu quasi acuto abbastanza, nell'eccesso della sua sorpresa e [[concepts/humility|umiltà]], da penetrare fino alle orecchie della signora Crupp, che dormiva allora, immagino, in una camera lontana, situata a circa il livello del segno di bassa [[motifs/water|marea]], cullata nel sonno dal ticchettio di un [[motifs/clock|orologio]] incorreggibile, al quale mi rimandava sempre quando avevamo qualche piccola divergenza sulla puntualità, e che era sempre almeno tre quarti d'ora in ritardo, e che era sempre stato regolato al mattino dalle migliori autorità. Poiché nessun argomento che potessi addurre, nella mia condizione di confusione, aveva il minimo effetto sulla sua modestia nel convincerlo ad accettare la mia camera da letto, fui costretto a fare i migliori arrangiamenti possibili per il suo riposo davanti al [[motifs/fire|fuoco]]. Il materasso del divano (che era molto troppo corto per la sua figura magra), i cuscini del divano, una coperta, la tovaglia del tavolo, un tovagliolo da colazione pulito e un pastrano gli fecero da letto e coperta, per i quali fu più che grato. Dopo avergli prestato un [[motifs/night|notturno]], che si mise subito, e in cui faceva una figura così terribile, che da allora non ne ho più indossato uno, lo lasciai al suo riposo.
+
+Non dimenticherò mai quella [[motifs/night|notte]]. Non dimenticherò mai come mi agitassi e rigirassi; come mi stancassi di pensare ad Agnes e a questa creatura; come riflettessi su cosa potessi fare e cosa dovessi fare; come non potessi giungere ad altra conclusione se non che il miglior modo per la sua pace era di non fare nulla e di tenere per me ciò che avevo sentito. Se riuscivo a [[motifs/sleep|dormire]] per qualche momento, l'immagine di Agnes con i suoi teneri occhi, e di suo padre che la guardava con affetto, come l'avevo visto fare così spesso, mi appariva con volti supplichevoli, e mi riempiva di vaghi terrori. Quando mi svegliavo, il ricordo che Uriah era disteso nella stanza accanto, mi gravava addosso come un incubo da svegli; e mi opprimeva con una paura piombo, come se avessi avuto per inquilino qualche diavolo di qualità inferiore.
+
+Il pizzico di carbone si insinuò nei miei pensieri assopiti e non voleva andarsene. Tra il sonno e la veglia, pensavo che fosse ancora rovente, e che l'avessi strappato dal [[motifs/fire|fuoco]] e glielo avessi conficcato nel [[concepts/body|corpo]]. Alla fine l'idea mi ossessionava, anche se sapevo che non c'era nulla di vero, tanto che mi avventurai nella stanza accanto per guardarlo. Lo vidi lì, disteso sulla schiena, con le gambe che si estendevano chissà dove, gorgoglii nella gola, ostruzioni nel naso e la bocca aperta come un ufficio postale. Era così peggio nella realtà che nella mia fantasia febbricitante, che in seguito fui attratto da lui proprio per la repulsione, e non potevo fare a meno di andare e venire ogni mezz'ora circa, e dargli un'occhiata. Tuttavia, la lunga, lunga [[motifs/night|notte]] sembrava pesante e senza speranza come sempre, e non c'era alcuna promessa di giorno nel cielo torbido.
+
+Quando lo vidi scendere le scale la mattina presto (perché, grazie al cielo,
+non volle restare a colazione), mi parve che la [[motifs/night|notte]] se ne andasse insieme a lui. Quando uscii per andare al parco, raccomandai
+alla signora Crupp di lasciare aperte le finestre, affinché la mia stanza da lavoro si arieggiasse e si liberasse della sua presenza.
+
 
 
 <span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_01" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 1)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/fire,motif/home,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/education,concept/hope,concept/nature,concept/self,concept/truth,setting/london,setting/oxford,setting/paris,character/david_copperfield,character/uriah_heep"></span>
@@ -68682,6 +68836,72 @@ you only to tell me, is it anger, is it hatred, is it [[concepts/pride|pride]], 
 restlessness, is it some wild fancy, is it [[motifs/love|love]], what is it, that is
 leading him?’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO 29. VISITO DI NUOVO STEERFORTH NELLA SUA [[motifs/home|CASA]]
+
+
+Ho detto al signor Spenlow la mattina che desideravo un permesso per un breve [[motifs/time|periodo]]; e dato che non ricevevo alcuno stipendio, e di conseguenza non ero soggetto all'implacabile Jorkins, non ci furono difficoltà. Ho colto l'occasione, con la voce che mi si strozzava in gola e la vista che mi si offuscava mentre pronunciavo le parole, per esprimere la mia [[concepts/hope|speranza]] che la signorina Spenlow stesse benissimo; a cui il signor Spenlow ha risposto, senza più emozione di quanto ne avrebbe mostrata parlando di un essere umano qualunque, che gliene era molto grato e che lei stava benissimo.
+
+Noi praticanti, come germi dell'ordine patrizio dei proctori, eravamo trattati con tanta considerazione che ero quasi il mio padrone in ogni momento. Tuttavia, dato che non mi premeva arrivare a Highgate prima di mezzogiorno o [[motifs/clock|mezzogiorno]] e dato che quella mattina avevamo un altro piccolo caso di scomunica in [[settings/court|tribunale]], che si chiamava L'ufficio del giudice promosso da Tipkins contro Bullock per la correzione della sua [[motifs/soul|anima]], ho trascorso un'ora o due in attesa con il signor Spenlow in modo molto piacevole. Era nato da una rissa tra due chierichetti, uno dei quali era accusato di aver spinto l'altro contro una pompa; il manico di tale pompa sporgeva in un edificio scolastico, che si trovava sotto uno spiovente del tetto della chiesa, il che rendeva la spinta un reato ecclesiastico. Era un caso divertente; e mi ha portato su a Highgate, sulla pedana del carrozza pubblica, pensando ai Comuni e a quello che aveva detto il signor Spenlow a proposito di toccare i Comuni e di far scendere la campagna.
+
+La signora Steerforth fu lieta di vedermi, e così fu Rosa Dartle. Fui
+piacevolmente sorpreso nel constatare che Littimer non c'era, e che
+ci serviva una modesta cameriera, con nastri azzurri sul cappello, il cui sguardo era molto più piacevole, e molto meno sconcertante,
+da incontrare per caso, rispetto a quello di quell'uomo rispettabile. Ma ciò che
+osservai in particolare, prima che fossi in quella casa da mezz'ora, fu
+la stretta e attenta sorveglianza che la signorina Dartle manteneva su di me; e il modo furtivo in cui sembrava confrontare il mio viso con quello di Steerforth, e quello di Steerforth con il mio, e di tendere un'imboscata per far emergere qualcosa tra i due. Ogni volta che la guardavo, vedevo quel viso ansioso, con i suoi occhi neri e scavati e la fronte scrutatrice, concentrato sul mio; o passare improvvisamente dal mio a quello di Steerforth; o comprendere entrambi in una volta. In questo esame da lince, era così lontana dal vacillare quando si accorse che la osservavo, che in un [[motifs/time|momento]] come quello fissava il suo sguardo penetrante su di me con un'espressione ancora più intensa. Pur essendo innocente, e sapendo di esserlo, rispetto a qualsiasi torto lei potesse sospettarmi di aver commesso, mi ritraevo davanti ai suoi strani occhi, del tutto incapace di sopportare il loro luccichio famelico.
+
+Tutto il giorno, sembrava pervadere tutta la casa. Se parlavo con Steerforth nella sua stanza, sentivo il fruscio del suo vestito nella piccola galleria fuori. Quando lui ed io ci dedicavamo ad alcuni dei nostri vecchi esercizi sul prato dietro la casa, vedevo il suo viso passare da una [[motifs/window|finestra]] all'altra, come una luce errante, finché si fermava su una e ci osservava. Quando tutti e quattro uscimmo a passeggio nel pomeriggio, lei chiuse la sua mano magra sul mio braccio come una [[motifs/spring|molla]], per trattenermi, mentre Steerforth e sua madre proseguivano fuori portata d'orecchio: e poi mi parlò.
+
+«Sei stato via a lungo», disse, «senza venire qui. La tua professione è davvero così avvincente e interessante da assorbire tutta la tua attenzione? Lo chiedo perché voglio sempre essere informata, quando sono ignorante. È davvero così, però?»
+
+Risposi che mi piaceva abbastanza, ma che certamente non potevo
+asserire tanto in suo favore.
+
+«Oh! Sono contenta di saperlo, perché mi piace sempre essere corretta quando ho torto», disse Rosa Dartle. «Volete dire che è un po' secco, forse?»
+
+«[[motifs/well|Beh]],» risposi; «forse era un po' secco.»
+
+«Oh! e questa è una ragione per cui desideri sollievo e cambiamento, eccitazione e tutto il resto?» disse lei. «Ah! molto vero! Ma non è un po'. Ehm?, per lui, non intendo per te?»
+
+Uno sguardo rapido del suo occhio verso il punto dove Steerforth stava camminando,
+con sua madre appoggiata al suo braccio, mi mostrò chi intendesse; ma oltre
+a questo, ero completamente perso. E lo guardavo così, non ho [[concepts/doubt|dubbio]].
+
+«Non lo--non dico che lo faccia, bada, voglio solo sapere--non lo
+assorbe troppo? Non lo rende, forse, un po' più negligente
+del solito nelle sue visite alla sua cieca e adorante--eh?» Con un'altra
+rapida occhiata a loro, e una tale occhiata a me che sembrava scrutare i
+miei pensieri più intimi.
+
+"Signorina Dartle," risposi, "la prego, non pensi.
+
+«Non lo faccio!» disse. «Oh, per l'amor del cielo, non pensate che io pensi qualcosa!
+Non sono sospettosa. Faccio solo una domanda. Non esprimo alcuna opinione. Voglio
+fondare un'opinione su quello che mi dite. Allora, non è così? [[motifs/well|Bene]]! Sono
+molto contenta di saperlo.»
+
+«Certamente non è il fatto», dissi, perplesso, «che io sia responsabile del fatto che Steerforth sia stato lontano da [[motifs/home|casa]] più a lungo del solito -- se lo è stato: il che in questo momento non so davvero, a meno che non lo capisca da te. Non l'ho visto per tutto questo tempo, fino a ieri [[motifs/night|sera]].»
+
+‘No?’
+
+'Infatti, signorina Dartle, no!'
+
+Mentre mi guardava dritto negli occhi, vidi il suo viso farsi più affilato e pallido, e le cicatrici della vecchia ferita allungarsi fino a tagliare il labbro sfigurato, e penetrare profondamente nel labbro inferiore, e scendere obliquamente lungo il viso. C'era qualcosa di veramente terribile in questo, e nella luminosità dei suoi occhi, mentre diceva, fissandomi:
+
+'Che cosa sta facendo?'
+
+Ripetei le parole, più a me stesso che a lei, tanto ero stupito.
+
+«Che cosa sta facendo?» disse, con un'impazienza che sembrava sufficiente a
+consumarla come un [[motifs/fire|fuoco]]. «In che cosa sta assistendo quell'uomo, che non
+mi guarda mai senza una falsità insondabile nei suoi occhi? Se sei
+onorevole e fedele, non ti chiedo di tradire il tuo amico. Ti
+chiedo solo di dirmi, è rabbia, è odio, è [[concepts/pride|orgoglio]], è irrequietezza, è
+qualche fantasia selvaggia, è [[motifs/love|amore]], che cosa è,
+che lo sta spingendo?»
 
 
 
@@ -85763,6 +85983,75 @@ more; neither, of course, will you mention it to anybody else. This is
 my grumpy, frumpy story, and we’ll keep it to ourselves, Trot!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La seguimmo a breve distanza, procedendo nella stessa direzione, fino a quando non rientrammo nelle strade illuminate e affollate. Avevo una tale fiducia cieca nelle sue parole che ne parlai subito con il signor Peggotty, chiedendogli se seguitarla ulteriormente potesse sembrare, all’inizio, un segno di diffidenza verso di lei. Essendo d’accordo su questo e affidandoci entrambi ciecamente a lei, le lasciammo prendere la sua strada, mentre noi proseguimmo verso Highgate. Lui mi accompagnò per una buona parte del cammino; quando ci separammo, pregando per il successo di questo nuovo tentativo, nei suoi occhi c’era un’espressione di compassione nuova e profonda che non ebbe difficoltà a interpretare.
+
+Era mezzanotte quando arrivai a [[motifs/home|>casa]]. Ero già arrivato al mio cancello e stavo ascoltando il suono profondo della campana di St. Paul; pensavo che quel suono mi raggiungesse tra i numerosi orologi che battevano, quando fui piuttosto sorpreso nel vedere che la porta della capanna di mia zia era aperta e che una debole luce filtrava nell’ingresso, illuminando la [[motifs/road|strada]] al di là.
+
+Pensando che mia zia potesse essere ricaduta in uno dei suoi vecchi attacchi di allarme e che forse stesse osservando lo svolgersi di qualche immaginaria calamità in lontananza, andai a parlarle. Con grande sorpresa vidi un uomo fermo nel suo piccolo [[motifs/garden|giardino]].
+
+Aveva un bicchiere e una bottiglia in mano e stava per bere. Mi fermai di colpo, tra la fitta vegetazione all’esterno: la [[motifs/moon|luna]] era già alta nel cielo, anche se parzialmente oscurata; riconobbi quell’uomo che un tempo avevo pensato fosse solo un’illusione dovuta al signor Dick, e che avevo incontrato una volta insieme a mia zia per le strade della [[motifs/city|città]].
+
+Mangiava e beveva con grande appetito, sembrava davvero affamato. Sembrava anche molto curioso riguardo alla capanna, come se fosse la prima volta che la vedeva. Dopo essersi chinato per posare la bottiglia a terra, alzò lo sguardo verso le finestre e si guardò intorno; tuttavia, con un’aria furtiva e impaziente, come se desiderasse andarsene il prima possibile.
+
+La luce nel corridoio si oscurò per un momento, e mia zia uscì. Era agitata e gli diede del denaro; sentii il rumore delle monete che tintinnavano.
+
+“Di che utilità è questo?”, chiese.
+
+“Non posso permettermelo più,” rispose mia zia.
+
+“Allora non posso andare,” disse lui. “Ecco! Puoi riprenderlo!”
+
+“Tu malvagio,” rispose mia zia con grande emozione; “come puoi trattarmi in questo modo? Ma perché me lo chiedo? È perché sai quanto sono debole. Cosa posso fare per liberarmi per sempre dalle tue visite, se non abbandonarti al tuo destino?”
+
+“E perché non mi lasci solo nei miei deserti?” disse lui.
+
+“Me lo chiedi?”, rispose mia zia. “Che cuore devi avere!”
+
+#Rimase lì, con aria cupa, a far tintinnare i soldi e scuotere la testa, fino a quando alla fine disse.
+
+“È davvero tutto ciò che hai intenzione di darmi?”
+
+“È tutto ciò che posso darti,” disse mia zia. “Sai che ho subito delle perdite e ora sono più povera di prima. Te l’ho detto. Ora che te l’ho dato, perché dovrei sopportare il [[motifs/pain|dolore]] di guardarti ancora un momento e vedere in che stato sei diventata?”
+
+“Sono diventato abbastanza trasandato, se è questo che intendi,” disse. “Conduco una vita da gufo.”
+
+“Mi hai privato della maggior parte di tutto ciò che ho mai avuto,” disse mia zia.  
+“Per anni e anni hai chiuso il mio cuore verso il resto del mondo. Mi hai trattata in modo ingiusto, ingrato e crudele. Vai, e pentiti. Non aggiungere altre ferite alla lunga lista di dolori che mi hai causato!”
+
+“Sì!” rispose. “Tutto va molto bene. Devo fare del mio meglio, per il momento, suppongo.”
+
+Nonostante se stesso, sembrava imbarazzato dalle lacrime indignate di mia zia; uscì con passi affrettati dal [[motifs/garden|giardino]]. Facendo due o tre passi veloci, come se fossi appena arrivata anch'io, lo incontrai al cancello e entrammo insieme mentre lui usciva. Ci scambiammo sguardi ostili mentre ci superavamo a vicenda.
+
+“Zia,” dissi in fretta, “quest’uomo la sta di nuovo spaventando! Lasciate che parli con lui. Chi è?”
+
+“[[archetypes/child|Bambino]],” mi rispose mia zia, prendendomi per il braccio, “vieni dentro e non parlarmi per dieci minuti.”
+
+Ci sedemmo nel suo piccolo salotto. Mia zia si ritirò dietro quel vecchio ventaglio verde e rotondo, che era fissato sul dorso di una sedia, e di tanto in tanto si asciugava gli occhi. Per circa un quarto d’ora. Poi uscì e si sedette accanto a me.
+
+“Corri,” disse mia zia con calma, “è mio marito.”
+
+“Tuo marito, tua zia? Pensavo fosse morto!”
+
+“Per me è morto”, rispose mia zia, “ma in realtà è ancora vivo”.
+
+Rimasi seduto, in silenzio e sbalordito.
+
+“‘[[characters/betsey-trotwood|Betsey Trotwood]]’ non sembra certo il tipo di persona che possa provare passioni profonde,” disse mia zia con calma, “ma allora, Trot, lei credeva in quell’uomo con tutto il cuore. Lo amava davvero, Trot. Non esisteva alcuna prova d’affetto o attaccamento che lei non fosse disposta a offrirgli. Lui le ricambiò distruggendo la sua fortuna e quasi spezzandole il cuore. Così, per sempre, lei seppellì tutti quei sentimenti in un [[motifs/grave|sepolcro]]. E li riempì fino in fondo, schiacciandoli completamente.”
+
+“Mia cara, gentile zia!”
+
+“Lo ho lasciato,” proseguì mia zia, posando come al solito la sua mano sulla mia schiena, “generosamente. Posso dire, a questo distanza di [[motifs/time|tempo]], che lo ho lasciato generosamente. Era stato così crudele con me che avrei potuto ottenere una separazione in termini facili per me stessa; ma non l’ho fatto. Presto ha trasformato tutto ciò che gli avevo dato in qualcosa di negativo, è andato sempre peggio, si è sposato un’altra donna, credo, è diventato un avventuriero, un giocatore d’azzardo e un truffatore. Ora vedi com’è. Ma quando l’ho sposato, era un uomo molto attraente,” disse mia zia, nel suo tono ancora pervaso da un residuo di vecchia [[concepts/pride|orgoglio]] e ammirazione; “e io credevo, ero una [[archetypes/fool|stupida]], che fosse l’incarnazione stessa dell’[[motifs/soul|onore]]!”
+
+Lei strinse la mia mano e scosse la testa.
+
+“Ora non significa nulla per me, Trot, meno di nulla. Ma piuttosto che farlo punire per i suoi errori (come sicuramente accadrebbe se continuasse a girovagare in questa regione), gli do più denaro di quanto possa permettermi, ogni volta che ricompare, solo perché se ne vada. Sono stata una [[archetypes/fool|stupida]] quando l’ho sposato. E su questo argomento sono ancora una [[archetypes/fool|stupida]] incurabile: per il bene di ciò che un tempo credevo fosse verità, non vorrei nemmeno affrontare questa assurda situazione. Perché ero davvero seria, Trot, se mai una donna lo è stata.”
+
+Mia zia liquidò la questione con un profondo sospiro e sistemò il suo abito.
+
+“Ecco, caro mio!” disse lei. “Ora conosci l’inizio, la metà e la fine, tutto ciò che c’è da sapere su questa storia. Non ne parleremo più tra di noi; né, ovviamente, tu ne parlerai con nessun altro. Questa è la mia storia triste e malinconica, la terremo per noi, Trot!”
+
 
 
 <span class="atom-split" data-atom="chapter_48_domestic--part_01" data-title="David Copperfield — Chapter 48: DOMESTIC (part 1)" data-chapter="DOMESTIC" data-kind="excerpt" data-tags="motif/journey,motif/memory,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/doubt,concept/history,concept/nature,concept/self,form/history,histref/america,setting/america,setting/london,character/david_copperfield,character/lord_mayor"></span>
@@ -97457,6 +97746,46 @@ gather a tuft of grass from the [[motifs/grave|grave]] and a little earth.
 ‘For Em’ly,’ he said, as he put it in his breast. ‘I promised, Mas’r
 Davy.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Stavo ripensando al nome del Dottor Mell, felice di aver scoperto, in queste circostanze più serene, che il signor Mell era in realtà l’ex povero usciere del mio magistrato di Middlesex. Quando il signor Peggotty indicò un’altra parte del foglio, i miei occhi si posarono sul mio stesso nome e lessi quanto segue:
+
+
+“A [[characters/david-copperfield|David Copperfield]], signore, ”
+
+“L’eminente autore.”
+
+“Mio caro signore,”
+
+Sono trascorsi molti anni da quando ho avuto l’opportunità di osservare personalmente quei tratti, ormai noti alla fantasia di una buona parte del mondo civile.
+
+“Ma, mio caro Signore, anche se separato (a causa di circostanze su cui non ho avuto alcun controllo) dalla compagnia personale dell’amico e compagno della mia giovinezza, non ho mai smesso di seguire i suoi successi e le sue imprese. E nemmeno mi è stato impedito, ”
+
+# Nonostante i mari che ci separano abbiano ruggito.
+
+([BRUCIATURE]) causate dall’aver partecipato a quelle celebrazioni intellettuali che ci ha presentato.
+
+Pertanto, non posso permettere che una persona che entrambi rispettiamo e apprezziamo lasci questo luogo, senza cogliere questa opportunità pubblica per ringraziarvi, a nome mio e, posso aggiungere, a nome di tutti gli abitanti di Port Middlebay, per il piacere che voi state contribuendo a realizzare.
+
+“Continui, mio caro Signore! Qui non siete sconosciuti, né ignorati. Anche se “distanti”, non siamo certo “senza amici”, “[[concepts/melancholy|melancholici]]”, né (posso aggiungere) “lenti”. Continui, mio caro Signore, nel vostro corso verso il successo! Gli abitanti di Port Middlebay potranno almeno aspirare a osservarlo con piacere, divertimento e anche con profitto intellettuale!”
+
+“Tra quegli occhi che si alzano verso di te da questa parte del mondo,  
+si troverà sempre, finché avranno luce e vita.
+
+# L'Occhio Appartente
+
+‘[[characters/wilkins-micawber|WILKINS MICAWBER]],’  
+‘Giudice.’
+
+
+Dopo aver dato un'occhiata ai restanti contenuti del giornale, ho scoperto che il signor Micawber era un corrispondente diligente e stimato di quella pubblicazione. C'era un'altra sua lettera nello stesso giornale, riguardante un ponte; inoltre, c'era un annuncio di una raccolta delle sue lettere, che sarebbe stata presto ripubblicata in un volume ordinato, “con importanti aggiunte”. E, a meno che non mi sbagli di molto, anche l’articolo di apertura era suo.
+
+Abbiamo parlato molto di Mr. Micawber in molte altre serate, mentre Mr. Peggotty rimaneva con noi. Ha vissuto con noi per tutto il periodo della sua permanenza, che credo sia stato inferiore a un mese; sua sorella e mia zia sono venute a [[settings/london|Londra]] per vederlo. Agnes ed io ci siamo separate da lui a bordo della [[motifs/ship|>nave]], quando è partito; e non ci separeremo mai più da lui, in questa vita.
+
+Ma prima di andarsene, venne con me a Yarmouth per vedere una piccola targa che avevo messo nel cimitero in memoria di Ham. Mentre copiavo l’iscrizione semplice su sua richiesta, lo vidi chinarsi e raccogliere un ciuffetto d’erba dalla tomba e un po’ di terra.
+
+“Per Em’ly”, disse, mettendoselo sul petto. “L’avevo promesso, signor Davy.”
 
 
 

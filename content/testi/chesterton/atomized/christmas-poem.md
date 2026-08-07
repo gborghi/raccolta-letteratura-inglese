@@ -71,7 +71,7 @@ And all men are at [[motifs/home|home]].
 
 Poesia di Natale  
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 Andò una madre cacciata via  
 da un'osteria, a vagare;  

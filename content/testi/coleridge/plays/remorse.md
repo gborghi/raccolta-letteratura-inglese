@@ -57,6 +57,42 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | *(didascalia)* | Exeunt. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | La riva del mare sulla costa di Granada. |  
+| *(didascalia)* | DON ALVAR, avvolto in un mantello da barca, e ZULIMEZ (un Moresco), entrambi come appena sbarcati. |  
+| ZULIMEZ | Non un suono, non un volto lieto ad accoglierci! |  
+| ALVAR | Mio fedele Zulimez, per un breve istante<br>lascia ch'io scordi la mia angoscia e i loro delitti.<br>Se qualcosa sulla terra esige un sentimento puro,<br>è certo questo — dopo lunghi anni d'[[concepts/exile\|esilio]],<br>porre il piede su terra ferma, e guardandoci intorno,<br>salutare a un tempo la patria e il luogo natale.<br>Salve, Spagna! Granada, salve! ancora una volta premo<br>le tue sabbie con filiale reverenza, terra dei padri miei! |  
+| ZULIMEZ | Rivendicate dunque in essa i vostri diritti! O venerato Don Alvar,<br>ancora, ancora abbandonate il vostro troppo mite proposito.<br>È troppo rischioso! rivelatevi,<br>e il colpevole incontri la condanna della [[concepts/guilt\|colpa]]! |  
+| ALVAR | Rammenta, Zulimez! io sono suo fratello,<br>offeso, sì! oh, profondamente offeso! eppure<br>fratello d'Ordonio. |  
+| ZULIMEZ | Alvar dal nobile animo!<br>Questo di certo non fa che dare alla sua [[concepts/guilt\|colpa]] più nera tinta. |  
+| ALVAR | Tanto più mi conviene destare in lui<br>il Rimorso! e salvarlo da se stesso. |  
+| ZULIMEZ | Il rimorso è come il cuore in cui germoglia:<br>se quello è mite, stilla balsamiche rugiade<br>di vero pentimento; ma se è superbo e tetro,<br>è un albero di [[motifs/poison\|veleno]], che trafitto fino al midollo<br>piange soltanto [[motifs/tears\|lacrime]] di [[motifs/poison\|veleno]]! |  
+| ALVAR | E d'un fratello<br>oso io tenerlo per fermo, non provato? né tentare uno sforzo<br>per salvarlo? — Ascoltami, amico! ho ancora da dirti<br>che questa stessa vita, ch'egli congiurò di togliermi,<br>egli stesso una volta la strappò all'onda irata,<br>e a imminente rischio della propria.<br>Aggiungi poi il mio giuramento — |  
+| ZULIMEZ | Tre volte già avete narrato<br>gli anni d'assenza e di segretezza<br>cui vi legò un giuramento estorto; se in [[concepts/truth\|verità]]<br>un sicario prezzolato ha il potere di dettare<br>un giuramento che obblighi — |  
+| ALVAR | La mia lunga prigionia<br>non mi lasciò scelta: lo stesso desiderio languiva<br>con la tenera [[concepts/hope\|speranza]] che lo nutriva; l'infante malato<br>si piegò al seno della madre affamata.<br>Ma (più d'ogni cosa) la perfidia di Teresa;<br>la ferma asseveranza dell'assassino, quando nessun interesse,<br>nessun motivo poteva tentarlo alla menzogna:<br>nelle prime fitte della sua [[concepts/conscience\|coscienza]] ridesta,<br>quando per orrore del proprio nero proposito<br>l'arma micidiale, puntata al mio petto,<br>gli cadde dalla mano tremante — |  
+| ZULIMEZ | Grave presunzione! |  
+| ALVAR | Non pesò su me — Odi! ti dirò tutto;<br>mentre passavamo, ti dissi di notare la base<br>di quella rupe laggiù — |  
+| ZULIMEZ | Quel sedile di roccia intendete,<br>foggiato dai flutti? — |  
+| ALVAR | Là Teresa m'incontrò<br>il mattino del giorno della mia partenza.<br>Eravamo soli: il purpureo colore dell'[[motifs/dawn\|alba]]<br>cadeva obliquo su noi dall'oriente che s'accendeva,<br>e fondendosi col rossore sulla sua guancia,<br>soffondeva di rosea luce le lacrime là sospese.<br>Pareva una gloria intorno a noi, e Teresa<br>l'angelo della visione!<br>Avessi tu veduto<br>come in ogni suo moto la sua [[archetypes/innocent\|innocentissima]] [[motifs/soul\|anima]]<br>raggiava e risplendeva, tu stesso mi diresti:<br>la [[concepts/guilt\|colpa]] è cosa impossibile in lei!<br>Dev'essere [[archetypes/innocent\|innocente]]! |  
+| ZULIMEZ | Proseguite, signore! |  
+| ALVAR | Un ritratto ch'ella s'era procurato di nascosto,<br>(ché già allora pare il suo cuore presentisse<br>o sapesse la cupa rivalità d'Ordonio)<br>un ritratto di sé, con mano tremante<br>mi legò intorno al collo, scongiurandomi,<br>con ferventi preghiere, ch'io lo serbassi sacro<br>alla mia sola conoscenza: né desistette,<br>finché non ebbe da me una solenne promessa,<br>che (salvo il mio) nessun occhio mai lo vedesse<br>fino al mio ritorno. Pure questo l'assassino sapeva,<br>sapeva ciò che nessuno fuorché lei poteva svelare. |  
+| ZULIMEZ | Una prova schiacciante! |  
+| ALVAR | La mia stessa vita mi stancava!<br>E se non fosse per l'imperiosa voce di dentro,<br>con la mia propria mano avrei gettato via il fardello.<br>Quella voce, che mi domò, mi calmò: e cercai<br>gli stati del Belgio: là m'unii alla causa migliore;<br>e là pure combattei come chi corteggia la [[motifs/death\|morte]]!<br>Ferito, caddi fra i morti e i moribondi,<br>in un letargo simile alla [[motifs/death\|morte]]: seguì una lunga [[concepts/imprisonment\|prigionia]].<br>La pienezza della mia angoscia a grado a grado<br>scemò in una meditativa [[concepts/melancholy\|malinconia]];<br>e quanto più meditavo, la mia [[motifs/soul\|anima]] si faceva<br>più dubbiosa, più perplessa; e sempre Teresa,<br>[[motifs/night\|notte]] dopo [[motifs/night\|notte]], visitava il mio [[motifs/sleep\|sonno]],<br>ora come santa che patisce, smorta e lacrimosa,<br>ora come santa in gloria che m'accenna!<br>Sì, sempre come a dispetto di prova e di ragione,<br>nutro la tenera [[concepts/faith\|fede]] ch'ella sia senza colpa!<br>Odi dunque il mio fermo proposito: indugerò qui<br>sotto le spoglie d'un capo Moresco. —<br>Le vesti moresche? — |  
+| ZULIMEZ | Tutte, tutte sono nella [[motifs/cave\|grotta]] marina,<br>un tratto di qui. Dissi ai nostri marinai<br>di nascondervi la barca. |  
+| ALVAR | Sopra tutto, il quadro<br>dell'assassinio — |  
+| ZULIMEZ | Siatene certo:<br>rimane intatto. |  
+| ALVAR | Così travestito<br>cercherò dapprima d'incontrare la — moglie d'Ordonio!<br>Se possibile, anche sola. Questa era la sua consueta passeggiata,<br>e questa l'ora; le sue parole, i suoi sguardi stessi<br>l'assolveranno o la condanneranno. |  
+| ZULIMEZ | Non vi riconosceranno? |  
+| ALVAR | Col tuo aiuto, amico, senza timore<br>mi fiderò del travestimento; e quanto al mio colorito,<br>la mia lunga [[concepts/imprisonment\|prigionia]], lo scarso cibo,<br>questa cicatrice — e la fatica sotto un sole ardente,<br>hanno già fatto per noi metà dell'opera.<br>Aggiungi poi la mia giovinezza, da quando ci vedemmo l'ultima volta.<br>La virilità m'ha gonfiato il petto, e insegnato alla mia voce<br>una nota più roca — Inoltre, mi credono morto:<br>e ciò che la mente crede impossibile,<br>il senso del corpo è lento a riconoscerlo. |  
+| ZULIMEZ | A voi, signore, il comandare, a me l'obbedire.<br>Ora alla [[motifs/cave\|grotta]] sotto la roccia a volta,<br>dove, foggiatovi a capo moresco,<br>cercherò i nostri marinai; e nel crepuscolo<br>trasporterò quanto ci occorre alla piccola valletta<br>nelle Alpujarras — là dove visse Zagri. |  
+| ALVAR | La conosco [[motifs/well\|bene]]: è il più oscuro ricetto<br>di tutte le [[settings/mountains\|montagne]] — |  
+| *(didascalia)* | Entrambi restano in ascolto. |  
+| ALVAR | Voci in lontananza!<br>Via di qui! |  
+| *(didascalia)* | Escono. |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_2" data-title="REMORSE — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/innocent,archetype/lover,archetype/rebel,archetype/shadow,motif/blood,motif/childhood,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/leaves,motif/lightning,motif/lion,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/prison,motif/rose,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/doubt,concept/endurance,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/imprisonment,concept/jealousy,concept/mercy,concept/nature,concept/revenge,concept/self,concept/truth,histref/inquisition,setting/castle,setting/mountains"></span>
@@ -181,6 +217,126 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | *(didascalia)* | alone. Exit. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Entrano TERESA e VALDEZ. |  
+| TERESA | Caro m'è Ordonio; egli è vostro figlio<br>e fratello d'Alvar. |  
+| VALDEZ | [[motifs/love\|Amalo]] per sé stesso,<br>né render mesto il vivo per amore del morto. |  
+| TERESA | Mi duole che invano preghiate, signor Valdez,<br>ma il cielo ha udito il mio voto, e io rimango<br>fedele ad Alvar, sia egli morto o vivo. |  
+| VALDEZ | Sa il cielo con che gioia vidi i vostri amori,<br>e se il [[motifs/blood\|sangue]] del mio cuore potesse rendertelo<br>morrei sorridendo. Ma son vani pensieri!<br>Il tuo padre morente mi risale nell'[[motifs/soul\|anima]]<br>con quello stesso sguardo con cui a me ti diede;<br>ti tenevo fra le braccia, inerme pargoletta,<br>mentre la tua povera madre con muta preghiera<br>fissava in me i suoi occhi spenti. Ah, non per questo,<br>ch'io lasciassi la tua [[motifs/soul\|anima]] pascersi d'ombra,<br>e con lenta angoscia consumarti la vita,<br>vittima d'una inutile costanza.<br>Non devo vederti misera. |  
+| TERESA | Vi sono affanni<br>mal barattati con lo sfarzo della gioia!<br>Se è misero con occhio non mai stanco<br>mirare quelle tinte del cielo, e questo verde oceano;<br>o nell'ora afosa sotto qualche rupe,<br>i capelli scomposti dalla dolce brezza marina,<br>foggiare dolci visioni, e rivivere ancora<br>tutte le ore trascorse di delizia! Se è misero<br>spiare qualche vela, e fingervi Alvar,<br>percorrere ogni minima circostanza<br>del beato incontro, e ordire avventure<br>terribili e strane, e udirgliele narrare;<br>(come un tempo conobbi una folle fanciulla mora<br>che si vestì dei panni del suo [[archetypes/lover\|amante]] sepolto,<br>e sulla liscia [[motifs/spring\|fonte]] nella fenditura del monte<br>stette col liuto, e suonò quella stessa aria<br>ch'egli soleva suonare, e ascoltava l'[[archetypes/shadow\|ombra]]<br>che lei stessa aveva fatto) — se questo è miseria,<br>e se davvero è misera cosa<br>addobbare il mio proprio letto di [[motifs/death\|morte]], e immaginare<br>ch'io fossi morta, morta appena prima del suo ritorno!<br>poi vederlo in ascolto della mia costanza,<br>o aleggiargli intorno, mentre a mezzanotte spesso<br>siede sulla mia [[motifs/grave\|tomba]] e guarda la [[motifs/moon\|luna]];<br>o forse in un umore più fantastico ancora,<br>essere in Paradiso, e con eletti [[motifs/flowers\|fiori]]<br>innalzare un pergolato dove lui ed io vivessimo,<br>e là attendere il suo venire! O padre mio!<br>padre del mio Alvar! se questa è la miseria<br>che rode la vita, che sarebbe, pensate,<br>se in una realtà del tutto certa<br>egli tornasse, e vedesse il figlio d'un fratello<br>sorridergli fra le mie braccia?<br>Oh che pensiero! |  
+| VALDEZ | Un pensiero? proprio così! puro pensiero! un vuoto pensiero.<br>La settimana stessa in cui promise il ritorno —— |  
+| TERESA | Non fu allora un'operosa gioia? vederlo,<br>dopo quei tre anni di viaggi! non avevamo timori —<br>le frequenti novelle, la lettera che mai mancava<br>quasi ci rendevano cara l'assenza! Eppure la letizia,<br>il tumulto della nostra gioia! E che, se ora —— |  
+| VALDEZ | O potere di giovinezza, pascersi di dolci pensieri<br>a dispetto d'ogni prova! Io son vecchio e senza cuore!<br>Sì, son vecchio — non ho dolci fantasie —<br>febbrile e non ristorato dal riposo — |  
+| TERESA | Padre mio! |  
+| VALDEZ | La sobria [[concepts/truth\|verità]] è troppo, troppo per me!<br>Non vedo vela che non mi richiami alla mente<br>il legno diretto a [[motifs/home\|casa]] su cui mio figlio fu preso<br>dall'algerino — per perire coi suoi predatori! |  
+| TERESA | Oh no! non perì! |  
+| VALDEZ | Preso in vista di terra!<br>Da quel punto del [[motifs/hill\|colle]], anzi, dalla vedetta del nostro [[settings/castle\|castello]]<br>avremmo potuto vedere —— |  
+| TERESA | La sua cattura, non la sua [[motifs/death\|morte]]. |  
+| VALDEZ | Ahimè! con che destrezza dimentichi una storia<br>che mai volesti apprendere! il mio prode Ordonio<br>vide affondare il pirata insieme alla sua preda,<br>nella [[motifs/storm\|tempesta]] stessa che sventò il suo valore,<br>e due volte così gli fu strappato un fratello dalle speranze:<br>valoroso Ordonio! O diletta Teresa,<br>se vuoi meglio provare la tua [[concepts/faith\|fede]] al generoso Alvar,<br>e più allietarne lo spirito, va', rendi<br>felice suo fratello, fa' che il vecchio padre<br>scenda nella [[motifs/grave\|tomba]] con gioia. |  
+| TERESA | Per [[concepts/mercy\|pietà]]<br>non insistete più! non ho potere d'[[motifs/love\|amarlo]].<br>Il suo occhio altero e vietante, e la fronte oscura,<br>m'agghiacciano come rugiada d'insalubre [[motifs/night\|notte]]:<br>il mio [[motifs/love\|amore]], timido e tenero fiore,<br>si chiude sotto il suo tocco. |  
+| VALDEZ | Gli fai torto, fanciulla!<br>gli fai torto, sull'[[motifs/soul\|anima]] mia! Né fu [[motifs/well\|bene]]<br>improntare di frasi così scortesi<br>il moto e il travaglio di quell'[[motifs/love\|amore]] per te<br>che a stento ha soffocato. Non fu [[motifs/well\|bene]],<br>né è grato in te scordare<br>le sue ferite e i perigliosi viaggi, e come<br>con eroica noncuranza del pericolo<br>batté la costa d'Africa per il tuo Alvar.<br>Non fu [[motifs/well\|bene]] — m'hai commosso fino alle [[motifs/tears\|lacrime]]. |  
+| TERESA | Oh perdonatemi, signor Valdez! perdonatemi!<br>Fu un discorso sciocco e ingrato,<br>un discorso ingratissimo! Ma son trascinata<br>fuori di me stessa, se pure odo d'alcuno<br>che aspiri a rivaleggiare con Alvar. Non nascemmo<br>in un sol giorno, come gemelli d'un solo padre?<br>nutriti in una sola culla? Perdonatemi, padre mio!<br>Un'assenza di sei anni è cosa grave,<br>pure ancora sopravvive la [[concepts/hope\|speranza]] —— |  
+| VALDEZ | Zitta! è Monviedro. |  
+| *(didascalia)* | Valdez guardando innanzi. |  
+| TERESA | L'Inquisitore! a quale nuova traccia di [[motifs/blood\|sangue]]? |  
+| *(didascalia)* | Entrano MONVIEDRO con ALHADRA. |  
+| MONVIEDRO | Pace e [[concepts/truth\|verità]] siano con voi! Mio buon signore,<br>il mio presente bisogno riguarda vostro figlio.<br>Abbiamo colto il [[motifs/time\|momento]]. Eccolo che viene! Sì, è lui. |  
+| *(didascalia)* | Entra dal lato opposto DON ORDONIO. |  
+| MONVIEDRO | Signor Ordonio, questa donna moresca<br>(Alhadra è il suo nome) chiede udienza da voi. |  
+| ORDONIO | Salve, reverendo padre! quale può esser l'affare? |  
+| MONVIEDRO | Signore, per forte sospetto di ricaduta<br>nella sua falsa fede, or ora abiurata,<br>i servi segreti dell'[[historical-references/inquisition\|Inquisizione]]<br>hanno preso suo marito, e a un mio comando<br>l'avrebbero condotto al supremo tribunale,<br>se non che egli s'appellò a voi, signore,<br>come garante della sua saldezza nella [[concepts/faith\|fede]].<br>Benché ammaestrato dall'esperienza di quanto poca fede<br>meritino le asseverazioni di questi Mori,<br>pure il riguardo al nome d'Ordonio,<br>e non meno il desiderio di provare con quale alto [[concepts/honour\|onore]]<br>la Santa Chiesa guardi i suoi fedeli soldati,<br>tanto han potuto su me, che —— |  
+| ORDONIO | Reverendo padre,<br>molto vi devo per l'alta vostra stima,<br>che sopravvaluta i miei lievi servigi. |  
+| *(didascalia)* | Poi ad ALHADRA. |  
+| ORDONIO | Vorrei potervi servire; ma in [[concepts/truth\|verità]]<br>il vostro volto m'è nuovo. |  
+| MONVIEDRO | Me lo diceva l'animo<br>che tale sarebbe stato l'esito. In [[concepts/truth\|verità]], signor Valdez,<br>era poco probabile che don Ordonio,<br>che il vostro illustre figlio, il quale sì prode combatté<br>quattro anni or sono per domare questi Mori [[archetypes/rebel\|ribelli]],<br>si facesse patrono di questo infedele!<br>garante della [[concepts/faith\|fede]] d'un moresco!<br>Ora me ne torno. |  
+| ALHADRA | Signore, il nome di mio marito<br>è Isidoro. (ORDONIO trasale.) Forse lo ricordate:<br>tre anni fa, tre anni questa stessa settimana,<br>lo lasciaste ad Almeria. |  
+| MONVIEDRO | Palese menzogna!<br>Questa stessa settimana, tre anni or sono, signore,<br>(per la ferita ben dovete rammentarlo)<br>eravate in mare, e là ingaggiaste i pirati,<br>gli uccisori senza dubbio di vostro fratello Alvar!<br>Che, sta male, signore? come strano ha lo sguardo! |  
+| VALDEZ | Troppo bruscamente l'incalzaste, padre!<br>La sorte d'uno che, sapete, egli adorava. |  
+| ORDONIO | O cieli! Io? — io l'adoravo?<br>Sì! l'adoravo. |  
+| *(didascalia)* | ORDONIO va in fondo alla scena, VALDEZ lo segue. |  
+| TERESA | Non l'[[motifs/love\|amo]], non posso amarlo. È duro il mio cuore?<br>È duro il mio cuore? che pure adesso il pensiero<br>debba impormisi? — Eppure lo sento! |  
+| MONVIEDRO | Le gocce gli spuntarono e stettero sulla fronte!<br>Me ne torno. In tutta [[concepts/truth\|verità]], mi duole<br>d'esserne stato l'occasione. Olà! seguimi, donna! |  
+| ALHADRA | O gentile signora! fate che il padre resti,<br>finché il mio signore non si riabbia. Son certa<br>che dirà d'essere amico di mio marito. |  
+| TERESA | Restate, padre! restate! il mio signore presto si riavrà. |  
+| ORDONIO | Strano, che questo Monviedro<br>abbia il potere di sconvolgermi così! |  
+| *(didascalia)* | Mentre tornano, a Valdez. |  
+| VALDEZ | Suvvia, fu un'amabile debolezza, figlio! |  
+| MONVIEDRO | Signore, davvero mi duole —— |  
+| ORDONIO | Bah! non ne parlate.<br>Un accesso improvviso, padre! non ci pensate.<br>Quanto al marito di questa donna, io lo conosco.<br>Lo conosco [[motifs/well\|bene]], e so ch'è cristiano. |  
+| MONVIEDRO | [[concepts/hope\|Spero]], signore, che la vostra pietà solo umana<br>non prevalga —— |  
+| ORDONIO | È certo ch'egli fu cattolico;<br>quali mutamenti siano accaduti in tre anni<br>non so dire; ma concedetemi questo, buon padre:<br>io stesso lo vaglierò: se lo trovo saldo,<br>mi darete la vostra autorità e il vostro nome<br>per liberargli la casa. |  
+| MONVIEDRO | Il vostro zelo, signore,<br>e i recenti meriti in questa santa guerra<br>autorizzerebbero fiducia più ampia — l'avete. |  
+| ORDONIO | Vi raggiungerò a [[motifs/home\|casa]] entro un'ora. |  
+| VALDEZ | Intanto tornate con noi e prendete ristoro. |  
+| ALHADRA | Non prima che mio marito sia libero! non posso.<br>Resterò qui. |  
+| TERESA | Chi è questo Isidoro? |  
+| *(didascalia)* | A parte. |  
+| VALDEZ | Figlia! |  
+| TERESA | Col vostro permesso, mio caro signore,<br>indugerò ancora un poco a godere la brezza marina. |  
+| *(didascalia)* | Escono VALDEZ, MONVIEDRO e ORDONIO. |  
+| ALHADRA | Ah! eccolo che va! l'accompagni un'amara maledizione,<br>una maledizione che bruci!<br>Voi l'odiate, non è vero, signora? |  
+| TERESA | Oh non [[concepts/fear\|temete]] di me! il mio cuore è triste per voi. |  
+| ALHADRA | Questi crudeli inquisitori! questi figli del [[motifs/blood\|sangue]]!<br>Mentre venivo, il suo volto tanto m'infuriò<br>che a ogni tratto stringevo il mio pugnale<br>e a mezzo lo sguainavo —— |  
+| TERESA | Siate più calma, ve ne prego. |  
+| ALHADRA | E mentre andava lungo l'angusto sentiero<br>proprio sull'orlo del monte, l'[[motifs/soul\|anima]] mia s'accese;<br>a dura fatica mi costrinsi a ricordare<br>che i suoi Familiari tenevano i miei figli e mio marito.<br>Balzargli addosso col guizzo d'una tigre,<br>e scagliarlo giù per l'aspro precipizio,<br>oh, sarebbe stato dolcissimo! |  
+| TERESA | Zitta! zitta, per vergogna!<br>Dov'è il vostro cuore di donna? |  
+| ALHADRA | O gentile signora!<br>non avete arte per indovinare i miei molti torti,<br>molti e strani! E poi, io sono cristiana,<br>e i cristiani mai perdonano—è la loro [[concepts/faith\|fede]]! |  
+| TERESA | Vergogna su chi tale te l'ha mostrata! |  
+| ALHADRA | Conosco quell'uomo; è [[motifs/well\|bene]] ch'egli non conosca me.<br>Cinque anni fa (ed egli ne fu il primo agente),<br>cinque anni fa i santi fratelli mi presero. |  
+| TERESA | Quale poteva essere il vostro delitto? |  
+| ALHADRA | Ero una moresca!<br>Mi gettarono, allora giovane madre che allattava,<br>in una segreta della loro [[motifs/prison\|prigione]], casa di pena,<br>dove non v'era letto, né [[motifs/fire\|fuoco]], né raggio di luce,<br>non tocco, non suono di conforto! L'aria nera,<br>era fatica respirarla! quando la porta,<br>aprendosi lenta all'ora stabilita, scopriva<br>un solo volto umano, la rossa fiamma della lampada<br>si rannicchiava all'entrare, e subito moriva.<br>Oh misera! a quella lampada vedere<br>il mio bimbo contendere col pane rozzo e duro<br>portato ogni giorno; ché il povero piccolo era malato —<br>la mia rabbia gli aveva inaridito il cibo naturale.<br>Al buio restavo — contando la campana sorda,<br>che forse mi diceva che il sole, letizia d'ognuno,<br>sorgeva sul nostro [[motifs/garden\|giardino]]. Quando sonnecchiavo,<br>i gemiti del mio bimbo si mescolavano al sonno<br>e mi destavano. — Se foste madre, signora,<br>appena oserei dirvi che i suoi rumori<br>e le grida stizzose così mi rodevano il cervello<br>che ho percosso in ira l'[[archetypes/innocent\|innocente]] creatura. |  
+| TERESA | O cielo! è troppo orribile da udire. |  
+| ALHADRA | E che fu allora patirlo? È giustissimo<br>che chi è come voi l'oda. — Non sapete<br>che ciò che [[concepts/nature\|natura]] vi fa piangere, vi comanda di sanare?<br>I grandi mali chiedono grandi passioni che li emendino,<br>e i turbini meglio d'ogni cosa disperdono la peste. |  
+| TERESA | Alla fine foste liberata? |  
+| ALHADRA | Sì, alla fine<br>vidi la benedetta volta di tutto il cielo!<br>Fu la prima [[motifs/time\|volta]] che il mio bimbo sorrise. Basta —<br>ché se m'indugio su quell'attimo, signora,<br>mi viene un rapimento che mi rifà daccapo<br>tutto quel ch'ero allora — le ginocchia mi cedono e strascicano,<br>e il labbro mi cade in un tal riso da idiota<br>che voi trasalireste e rabbrividireste! |  
+| TERESA | Ma vostro marito — |  
+| ALHADRA | Un mese di [[concepts/imprisonment\|prigionia]] l'ucciderebbe, signora.<br>Egli ha d'un [[motifs/lion\|leone]] il [[concepts/courage\|coraggio]],<br>intrepido nell'atto, ma fiacco nella [[concepts/endurance\|sopportazione]];<br>inadatto ai tempi turbolenti, con cuore gentile<br>adora la [[concepts/nature\|natura]] nel [[motifs/hill\|colle]] e nella valle,<br>non sapendo che cosa ami, ma tutto amando — |  
+| *(didascalia)* | Entra ALVAR travestito da moresco, e in vesti moresche. |  
+| TERESA | Conoscete quel maestoso Moro? |  
+| ALHADRA | Non lo conosco:<br>ma non [[concepts/doubt\|dubito]] che sia qualche capo moresco<br>che si cela fra le Alpujarras. |  
+| TERESA | Le Alpujarras? Conosce il suo pericolo,<br>così presso a questa dimora? |  
+| ALHADRA | Porta anche le vesti moresche,<br>quasi a sfida dell'editto regio. |  
+| *(didascalia)* | ALHADRA s'avanza verso ALVAR, che è andato in fondo alla scena, presso le rocce. TERESA cala il velo. |  
+| ALHADRA | Prode moresco! Un inquisitore,<br>Monviedro, di noto odio alla nostra razza —— |  
+| ALVAR | M'avete scambiato per altri. Io sono cristiano. |  
+| ALHADRA | Crede che noi tramiamo per irretirlo:<br>parlategli, signora — nessuno può udirvi parlare<br>e non credervi [[archetypes/innocent\|innocente]] d'inganno. |  
+| TERESA | Se qualcosa vi costringe a celarvi, signore — |  
+| ALHADRA | Trema stranamente. |  
+| *(didascalia)* | ALVAR si accascia e nasconde il volto nella veste. |  
+| TERESA | Vedete, l'abbiamo turbato. |  
+| *(didascalia)* | Gli si avvicina di più. |  
+| TERESA | Vi prego, credeteci amiche — scoprite il volto,<br>ché sembrate venir meno, e la brezza [[motifs/night\|notturna]] spira salute.<br>Vi prego, credeteci amiche! |  
+| ALVAR | Calma, calmissima!<br>Tutto è troppo tranquillo per esser realtà!<br>E m'ha parlato con la sua voce [[archetypes/innocent\|innocente]],<br>quella voce, quella voce [[archetypes/innocent\|innocente]]! Non è traditrice! |  
+| TERESA | Ritiriamoci |  
+| *(didascalia)* | Altezzosamente ad Alhadra. |  
+| ALHADRA | È davvero un cristiano. |  
+| ALVAR | Mi crede morto, e non porta veste di lutto!<br>Perché mai la — moglie — di mio fratello dovrebbe portar vesti di lutto? |  
+| *(didascalia)* | A parte. Poi a TERESA. |  
+| ALVAR | Perdono, nobile dama, se v'ho turbata:<br>ero appena balzato fuori da un sogno spaventoso. |  
+| TERESA | I [[motifs/dreams\|sogni]] narrano solo il passato, eppure, si dice,<br>profetano — |  
+| ALVAR | Il Passato rivive daccapo<br>nei suoi effetti, e allo spirito colpevole<br>il Presente, sempre accigliato, ne è l'immagine. |  
+| TERESA | Traditrice! |  
+| *(didascalia)* | Poi a parte. |  
+| TERESA | Quale incanto improvviso mi soggioga?<br>Perché cerca me, schivando la donna mora? |  
+| ALVAR | Sognai d'avere un amico, cui m'appoggiavo<br>con cieca fiducia, e una fanciulla promessa,<br>ch'io solevo chiamare non mia, ma me:<br>ché il mio [[concepts/self\|io]] pareva nulla, mancando lei.<br>Questa fanciulla tanto idolatrata, quell'amico fidato<br>la disonorò in mia assenza, nell'[[motifs/soul\|anima]] e nel [[concepts/body\|corpo]]!<br>La [[concepts/fear\|paura]], seguendo la [[concepts/guilt\|colpa]], tentò più nera [[concepts/guilt\|colpa]],<br>e sicari furono subornati contro la mia vita.<br>Ma con gli sguardi, e con parole appassionate,<br>destai le virtù che in nessun uomo son morte,<br>pure nel cuore degli assassini! posero i loro patti,<br>e mi ringraziarono d'averli riscattati dal delitto. |  
+| ALHADRA | Siete persa nei pensieri: non l'udite più, dolce signora! |  
+| TERESA | Da mattina a [[motifs/night\|notte]] io stessa son sognatrice,<br>e piccole cose mi portano l'umore ozioso!<br>[[motifs/well\|Ebbene]], signore, che accadde poi? |  
+| ALVAR | Su una rupe scabra,<br>una rupe, mi parve, accanto a un bosco d'abeti,<br>le cui [[motifs/leaves\|foglie]] filiformi al vento che appena spirava<br>facevano un suono molle, simile all'oceano lontano,<br>sostai, come se l'ora della [[motifs/death\|morte]] fosse passata<br>e io sedessi nel mondo degli spiriti —<br>ché tutto pareva irreale! Là sedevo —<br>cadevano rugiade viscide, e scendeva la [[motifs/night\|notte]],<br>nera, afosa, greve! e prima dell'ora di mezzanotte<br>venne una [[motifs/storm\|tempesta]], mescendo ogni suono di [[concepts/fear\|paura]],<br>sì che boschi, cielo e [[settings/mountains\|monti]] parvero una sola rovina.<br>Il secondo lampo di [[motifs/lightning\|folgore]] mostrò un albero<br>presso di me, arso di fresco. Mi [[motifs/rose\|levai]] tumultuoso:<br>l'[[motifs/soul\|anima]] mia lavorava alta, scoprii il capo alla [[motifs/storm\|tempesta]],<br>e con alta voce e clamorosa agonia,<br>in ginocchio pregai il grande Spirito che mi fece,<br>pregai che il Rimorso s'attaccasse ai loro cuori,<br>e s'avvinghiasse con dente venefico, inestricabile<br>come il morso del [[motifs/lion\|leone]] ferito! |  
+| TERESA | Terribile maledizione! |  
+| ALHADRA | Ma non sognaste di tornare e ucciderli?<br>Non sognaste [[concepts/revenge\|vendetta]]? |  
+| ALVAR | Ella sarebbe morta,<br>morta nella sua [[concepts/guilt\|colpa]] — forse per sua propria mano!<br>e chino sulle ferite ch'ella [[concepts/self\|stessa]] s'era inflitte,<br>avrei potuto incontrare il maligno sguardo del delirio<br>e balzare io stesso in una [[motifs/grave\|tomba]] senza benedizione!<br>Pregai per la pena che monda i cuori:<br>ché ancora l'amavo! |  
+| ALHADRA | E sognaste tutto questo? |  
+| TERESA | L'[[motifs/soul\|anima]] mia è piena di visioni altrettanto folli! |  
+| ALHADRA | Non c'è posto in questo cuore per piagnucolose storie d'[[motifs/love\|amore]]. |  
+| *(didascalia)* | Teresa solleva il velo, e s'avanza verso Alvar. |  
+| TERESA | Straniero, addio! non indovino chi voi siate,<br>né perché così rivolgeste a me il vostro racconto.<br>Nobile è il vostro aspetto, e, lo confesso, m'ha turbata<br>con oscura [[motifs/memory\|memoria]] di qualcosa di trascorso<br>che pure sfuggiva ai miei sforzi, o mi porgeva<br>inganni d'una fantasia viziata da un lungo desiderio.<br>Se, come talvolta accade, il nostro rude turbarvi,<br>mentre il vostro cuore colmo foggiava il suo sogno,<br>v'ha spinto a questo vostro, non scortese, smarrimento —<br>avete la mia pietà, e dunque addio!<br>Ma se torti non ancora svelati vi opprimono,<br>e vi occorre forza per trarli alla luce,<br>il generoso Valdez, e il mio signore Ordonio,<br>hanno braccio e volontà per soccorrere un nobile sofferente,<br>né vi mancherà il mio favorevole intercedere. |  
+| *(didascalia)* | Escono TERESA e ALHADRA. |  
+| ALVAR | È strano! non può essere! il mio signore Ordonio!<br>Il suo signore Ordonio! No, non lo farò!<br>Una volta l'ho maledetto — e una maledizione basta!<br>Com'era triste, e pallida! ma non come la [[concepts/guilt\|colpa]] —<br>e i suoi toni calmi — dolci come un canto di [[concepts/mercy\|misericordia]]!<br>Se il cattivo spirito serbasse la sua voce d'angelo,<br>l'Inferno appena sarebbe Inferno. E perché non [[archetypes/innocent\|innocente]]?<br>Chi voleva uccidermi, non poteva [[motifs/well\|bene]] ingannare anche lei?<br>Ma prima ch'ella lo sposasse, egli ne macchiò l'[[concepts/honour\|onore]];<br>ah! qui son legato. E se questa fosse una menzogna<br>ordita dall'assassino? Chi gliel'avrebbe detta,<br>se fosse [[concepts/truth\|verità]]? Ordonio non gliel'avrebbe detta.<br>Pure, perché una sola menzogna? tutto il resto, lo so, era [[concepts/truth\|verità]].<br>Nessun trasalire, nessuna [[concepts/jealousy\|gelosia]] di [[concepts/conscience\|coscienza]] che si desti!<br>E parlò di me — con tenerezza, mi parve!<br>Potrebbe camminare qui, se fosse stata traditrice?<br>qui dove giocammo insieme nella nostra [[motifs/childhood\|infanzia]]?<br>qui dove ci scambiammo i voti? dove la sua fredda guancia<br>ricevette il mio ultimo bacio, quando con sentimenti repressi<br>era svenuta fra le mie braccia? Non può essere!<br>Non è nella [[concepts/nature\|natura]]! Morrò credendo<br>ch'io la ritroverò dove non v'è male,<br>né tradimento, né coppa strappata alle labbra.<br>Non infesterò più questo luogo! viva ella in pace!<br>Suo marito — sì, suo marito! Possa quest'angelo<br>rifondere il suo cuore incancrenito! Assistimi, cielo,<br>ch'io possa pregare per il mio povero fratello colpevole! |  
+| *(didascalia)* | solo. Esce. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1" data-title="REMORSE — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/shadow,archetype/villain,motif/blood,motif/death,motif/flowers,motif/hill,motif/love,motif/nature,motif/night,motif/road,motif/silence,motif/soul,motif/tears,motif/water,motif/well,motif/wind,concept/faith,concept/guilt,concept/honour,concept/nature,concept/suicide,concept/truth"></span>
@@ -261,6 +417,82 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | *(didascalia)* | [Exeunt ORDONIO and ISIDORE. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Un paese selvaggio e montuoso. Si scoprono ORDONIO e ISIDORE, che si suppongono a poca distanza dalla casa d'ISIDORE. |  
+| ORDONIO | Qui possiamo fermarci: la tua casa ben visibile,<br>e noi al sicuro da orecchi indiscreti. |  
+| ISIDORE | Ora sì davvero<br>la mia casa! e par lieta come i grappoli<br>che si crogiolano al sole su quella rupe vestita di viti<br>che le sovrasta! Patrono! Amico! Salvatore!<br>Tre volte m'avete salvato la vita. Una in battaglia<br>me la deste: poi mi strappaste al [[concepts/suicide\|suicidio]]<br>quando per le mie follie fui costretto a errare<br>con bocche da nutrire, e non un boccone per loro:<br>ora, se non fosse per voi, le pietre viscide d'una segreta<br>sarebbero il mio letto e il mio guanciale. |  
+| ORDONIO | Buon Isidoro!<br>perché questo a me? Basta così, tu lo sai. |  
+| ISIDORE | Un comune vezzo della gratitudine, signore,<br>che cerca di sgravare il proprio cuore colmo —— |  
+| ORDONIO | Basta!<br>Un debito pagato cessa d'esser debito.<br>Tu hai in tuo potere di servirmi grandemente. |  
+| ISIDORE | E come, signore? vi prego, nominatemi la cosa.<br>Scalerei un precipizio vetrato di ghiaccio<br>per cogliere un'erbaccia che vi piacesse! |  
+| ORDONIO | Ecco — quella — dama — |  
+| ISIDORE | Son tre anni ormai, signore, dall'ultima volta che vi vidi:<br>avete un figlio, signore? |  
+| ORDONIO | O misero —     [A parte.<br>Isidoro! tu sei uomo, e conosci gli uomini.<br>T'ho detto ciò che desideravo — ora la [[concepts/truth\|verità]] —<br>ella amava l'uomo che uccidesti. |  
+| ISIDORE | Scherzate, signore? |  
+| ORDONIO | E finché la sua [[motifs/death\|morte]] non sia provata, non mi sposerà. |  
+| ISIDORE | Vi burlate di me, signore? |  
+| ORDONIO | Su, su! questa buffoneria<br>vive solo nel tuo sguardo, il tuo cuore la rinnega! |  
+| ISIDORE | Posso sopportar questo, e cosa ancor più grave<br>da voi, signore — ma come posso qui servirvi? |  
+| ORDONIO | Ebbene, tu puoi proferire con solenne gesto<br>sentenze oracolari di profondo nulla,<br>vestire una foggia bizzarra, far misteriose smorfie — |  
+| ISIDORE | Son tardo, signore! non vi comprendo. |  
+| ORDONIO | In termini schietti, tu puoi fare il mago.<br>Ella non ha [[concepts/faith\|fede]] nella Santa Chiesa, è vero:<br>il suo [[archetypes/lover\|amante]] l'ammaestrò in qualche più nuova stoltezza!<br>Pure un racconto di spiriti ancora opera su lei.<br>È una solitaria esaltata, sensitiva,<br>rabbrividisce, e non sa trattener le [[motifs/tears\|lacrime]] negli occhi:<br>e costoro [[motifs/love\|amano]] troppo [[motifs/well\|bene]] il meraviglioso<br>per non crederlo. Le [[motifs/wind\|caricheremo]] la fantasia<br>con una strana musica, ch'ella non conosce —<br>con fumi d'incenso, e con mascherate,<br>poi lasceremo, come sicuro segno della sua [[motifs/death\|morte]],<br>quel ritratto che dal collo dell'ucciso<br>t'ordinai di prendere, trofeo della tua conquista. |  
+| ISIDORE | Sarà quello un segno certo? |  
+| ORDONIO | Fuori d'ogni sospetto.<br>Carezzando teneramente lui, il suo [[archetypes/lover\|amante]] prediletto,<br>(con qualche vile incanto le aveva stregato i sensi)<br>ella sussurrava di me tali oscuri timori<br>che questo cuore versò fiele nelle mie vene.<br>E mentre schiva glielo legava intorno al collo<br>gli fece promettere [[motifs/silence\|silenzio]]; e ora custodisce<br>il segreto dell'esistenza di questo ritratto<br>noto solo al suo [[archetypes/lover\|amante]] e a lei stessa.<br>Ma io l'avevo seguita, mi ero accostato a loro non veduto,<br>e non sospettato vidi e udii ogni cosa. |  
+| ISIDORE | Fino ad ora avrei maledetto chi m'avesse detto<br>che voi potevate chiedermi alcunché, signore, e io rifiutare —<br>ma questo non posso farlo. |  
+| ORDONIO | Dove sta il tuo scrupolo? |  
+| ISIDORE | Ecco — ecco, signore!<br>Sapete che mi diceste che la dama v'amava,<br>v'aveva amato con incauta tenerezza;<br>che se il giovane, il suo promesso sposo,<br>tornasse, voi stesso, e lei, e l'[[concepts/honour\|onore]] d'entrambi<br>dovreste perire. Ora, benché con scrupoli non più teneri<br>di quelli che, essendo nativi del cuore,<br>di quelli, signore, che il solo esser uomo — |  
+| ORDONIO | Costui è un Uomo — uccise a pagamento<br>uno che non conosceva, e pure ha teneri scrupoli! |  
+| *(didascalia)* | [Poi volgendosi a ISIDORE. |  
+| ORDONIO | Questi dubbi, questi timori, il tuo piagnucolare, il tuo balbettare —<br>puah, [[archetypes/fool\|sciocco]]! tu vai inciampando per il libro della [[concepts/guilt\|colpa]],<br>compitando la tua scelleratezza. |  
+| ISIDORE | Signore — signore,<br>posso sopportar molto — sì, moltissimo da voi!<br>ma v'è un punto in cui la pazienza è viltà:<br>io non sono uno [[archetypes/villain\|scellerato]] — mai uccisi a pagamento —<br>la mia gratitudine —— |  
+| ORDONIO | Oh sì — la tua gratitudine!<br>Era una parola dal [[motifs/well\|bel]] suono — che ne hai fatto? |  
+| ISIDORE | Chi offre i suoi favori passati in cambio della mia virtù — |  
+| ORDONIO | Virtù —— |  
+| ISIDORE | cerca di raggirarmi — è un vero baro,<br>e non dovrebbe parlar di gratitudine, signore.<br>Non sapevo che fosse vostro fratello! |  
+| ORDONIO | E chi te l'ha detto? |  
+| ISIDORE | Egli stesso me lo disse. |  
+| ORDONIO | Ah! parlasti con lui!<br>E quelli, i due moreschi ch'erano con te? |  
+| ISIDORE | Caddero entrambi in una rissa [[motifs/night\|notturna]] a Malaga. |  
+| ORDONIO | *(a bassa voce)* Mio fratello — |  
+| ISIDORE | Sì, signore, non potevo dirvelo!<br>Respingevo il pensiero — mi faceva impazzire.<br>Ma ora ascoltatemi — vi prego, ascoltate —— |  
+| ORDONIO | [[archetypes/villain\|Scellerato]]! basta. Non ne udrò più nulla. |  
+| ISIDORE | Signore, molto importa alla vostra sicurezza futura<br>che voi l'udiate. |  
+| ORDONIO | *(voltandosi via da Isidoro)* Non sono forse un uomo!<br>È come dev'essere! bah — l'atto stesso<br>fu vano, e questi spasimi tardivi ancor più vani! |  
+| ISIDORE | Lo incontrammo nel luogo stesso che nominaste.<br>Proprio accanto a un bosco d'abeti — |  
+| ORDONIO | Basta — basta — |  
+| ISIDORE | Ci combatté valorosamente, e ci ferì tutti;<br>infine ci costrinse a parlamentare. |  
+| ORDONIO | Alvar! fratello! |  
+| ISIDORE | M'offrì la sua borsa — |  
+| ORDONIO | E dunque? |  
+| ISIDORE | Sì — io la respinsi. —<br>Ci promise non so che — invano!<br>Poi con uno sguardo e una voce che m'incussero soggezione<br>disse: Che intendete, amici? La mia vita m'è cara:<br>ho un fratello e una sposa promessa<br>che me la rendon cara — e se io cado,<br>quel fratello batterà terra e inferno per vendetta.<br>V'era nel suo volto una somiglianza col vostro;<br>chiesi il nome del fratello: disse — Ordonio,<br>figlio di don Valdez! [[motifs/well\|ben]] poco mancò ch'io svenissi.<br>Alla fine dissi (se pur davvero fui io a dirlo,<br>e nessuno Spirito fece della mia lingua il suo organo,)<br>quella donna è disonorata da quel fratello,<br>ed è lui l'uomo che ci mandò a distruggerti.<br>Mi vibrò una stoccata nell'ira. Gli dissi<br>che portava il ritratto di lei al collo. Guardò<br>come fosse fatto della roccia che gli reggeva le spalle —<br>sì, proprio come guardate voi ora — solo men spettrale!<br>Alla fine, riavutosi dal suo torpore, gettò<br>via la spada, e ci disse di prendergli la vita,<br>ché non valeva la pena di serbarla. |  
+| ORDONIO | E tu l'uccidesti?<br>Oh segugi di [[motifs/blood\|sangue]]! v'arda intorno l'ira eterna!<br>Egli era l'Immagine del suo Fattore, non deturpata!<br>Mi afferra — per l'Inferno, andrò innanzi!<br>Che — vorresti fermarti, uomo? il tuo pallore non ti salverà!<br>Oh freddo — freddo — freddo! trafitto da un freddo di ghiaccio! |  
+| ISIDORE | *(a parte)* Se fosse vivo, sarebbe tornato ormai.<br>La conseguenza è la stessa — morto per il suo tramare! |  
+| ORDONIO | Oh questo indicibile venir meno — qui —<br>questo male del cuore!<br>E se andassi<br>a vivere in una tomba cava, e a nutrirmi d'erbe?<br>Sì! ecco la [[motifs/road\|via]] del cielo! O [[archetypes/fool\|folle]]! [[archetypes/fool\|folle]]! [[archetypes/fool\|folle]]!<br>Che ho fatto se non ciò che la [[concepts/nature\|natura]] destinò,<br>o i ciechi elementi suscitarono dentro di me?<br>Se il bene era voluto, perché fummo fatti tali esseri?<br>E se non era voluto — |  
+| ISIDORE | Siete turbato, signore! |  
+| ORDONIO | *(trasale)* Una raffica dell'[[motifs/soul\|anima]]! in [[concepts/faith\|fede]] mia, mi sconvolse.<br>Oh, fu tutta follia — tutta! vana come una risata!<br>Ora, Isidoro! giuro che tu m'aiuterai. |  
+| ISIDORE | *(a bassa voce)* Prima perirò! |  
+| ORDONIO | Che vai borbottando? |  
+| ISIDORE | Alcuni dei vostri servi mi conoscono, ne son certo. |  
+| ORDONIO | V'è del senno in quello scrupolo; ma ti maschereremo. |  
+| ISIDORE | Conosceranno il mio passo: ma aspettate! la scorsa [[motifs/night\|notte]] spiai<br>uno straniero presso la rovina nel bosco,<br>che pareva raccogliere erbe e [[motifs/flowers\|fiori]] selvatici.<br>L'avevo seguito a distanza, l'avevo visto scalare<br>il muro di ponente, e per un ingresso più agevole<br>gli scivolai dietro non veduto. Là notai<br>che, in mezzo allo scacchiere di luce e d'ombra,<br>con curiosa scelta non coglieva altri [[motifs/flowers\|fiori]]<br>se non quelli su cui cadeva il lume di luna: e una volta<br>l'udii mormorare sopra la pianta. Un mago —<br>qualche smunto schiavo che qui s'aggira per oscuro mestiere. |  
+| ORDONIO | Senza dubbio l'interrogasti? |  
+| ISIDORE | Era mia intenzione,<br>dopo averlo prima seguito fino al suo covo.<br>Ma ecco! il severo domenicano, le cui spie<br>stanno in agguato dovunque, già (a quanto pareva)<br>aveva dato incarico al suo pronto familiare<br>di cercare e sondare il Moro; il quale, tornando,<br>fu da questo fido agente fermato a mezza via.<br>Io, temendo nuovo sospetto se trovato presso di lui<br>in quel luogo solitario, di nuovo mi celai:<br>pure a portata d'udito. Così il Moro fu interrogato,<br>e nel vostro nome, come signore di questo dominio,<br>orgogliosamente rispose: «Dite al signor Ordonio,<br>colui che può ridare la vita ai morti!» |  
+| ORDONIO | Strana risposta! |  
+| ISIDORE | Sì, tutto in lui è strano.<br>Si disse cristiano, eppure porta<br>le vesti moresche, quasi corteggiasse la [[motifs/death\|morte]]. |  
+| ORDONIO | Dove vive questo mago? |  
+| ISIDORE | *(indicando in lontananza)* Vedete quel ruscelletto?<br>Risalitene il corso: per una stretta apertura<br>vi conduce al luogo. |  
+| ORDONIO | Come lo riconoscerò? |  
+| ISIDORE | Non potete errare. È una piccola valletta verde<br>tutt'intorno murata d'alti colli digradanti,<br>e per la sua forma i nostri contadini a ragione la chiamano<br>la Culla del Gigante. V'è un lago nel mezzo,<br>e intorno alle sue rive alto bosco che vi si sporge,<br>e fa crescere una sorta di foresta fatata<br>giù nell'[[motifs/water\|acqua]]. All'estremità più lontana<br>una gracile cascata precipita sul lago;<br>e là, curioso spettacolo! ne vedete l'[[archetypes/shadow\|ombra]]<br>attorcersi per sempre, come una ghirlanda di fumo,<br>su per il fogliame di quegli alberi fatati.<br>La sua capanna sta di fronte. Non potete mancarla. |  
+| ORDONIO | *(ritirandosi si ferma d'un tratto sul limitare della scena, poi volgendosi a Isidoro)* Ah! — chi sta là in agguato! siamo stati ascoltati?<br>Là dove riluce il liscio alto muro di roccia d'ardesia —— |  
+| ISIDORE | Sotto quelle alte pietre che, reggendosi l'una l'altra,<br>formano un finto portale col loro arco acuto?<br>Perdonate il mio sorriso! è un povero ragazzo idiota<br>che siede al sole, e rigira un ramo fra le mani,<br>i deboli occhi cotti in [[motifs/tears\|lacrime]] senza alcun senso.<br>E così siede, dondolando il capo conico,<br>e fissando il suo ramo da mattina a tramonto,<br>altalena la voce in rumori inarticolati. |  
+| ORDONIO | Sta [[motifs/well\|bene]], e ora alla tana di questo stesso mago. |  
+| ISIDORE | Tre passi su per il [[motifs/hill\|colle]], un sorbo montano<br>stende i suoi rami più bassi e i grappoli scarlatti<br>sul vecchio tetto di paglia. |  
+| ORDONIO | Non mancherò di trovarla. |  
+| *(didascalia)* | [Escono ORDONIO e ISIDORE. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_2" data-title="REMORSE — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/avenger,archetype/fool,archetype/lover,archetype/villain,motif/blood,motif/death,motif/dust,motif/flowers,motif/grave,motif/love,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/conscience,concept/faith,concept/forgiveness,concept/guilt,concept/poverty,concept/truth,histref/inquisition,character/lucifer"></span>
@@ -340,6 +572,81 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | ALVAR | (alone, indignantly flings the purse away and gazes passionately at the portrait) And I did curse thee!<br>At midnight! on my knees! and I believed<br>Thee perjur'd, thee a traitress! thee dishonour'd!<br>O blind and credulous [[archetypes/fool\|fool]]! O [[concepts/guilt\|guilt]] of folly!<br>Should not thy inarticulate fondnesses,<br>Thy infant loves — should not thy maiden vows<br>Have come upon my heart? And this sweet Image<br>Tied round my neck with many a chaste endearment,<br>And thrilling hands, that made me weep and tremble —<br>Ah, coward dupe! to yield it to the miscreant,<br>Who spake pollution of thee! barter for life<br>This farewell pledge, which with impassioned vow<br>I had sworn that I would grasp — ev'n in my [[motifs/death\|Death]]-pang!<br>I am unworthy of thy [[motifs/love\|love]], Teresa,<br>Of that unearthly smile upon those lips,<br>Which ever smiled on me! Yet do not scorn me —<br>I lisp'd thy name, ere I had learnt my mother's.<br>Dear portrait! rescued from a traitor's keeping,<br>I will not now profane thee, holy image,<br>To a dark trick. That worst bad man shall find<br>A picture, which will wake the hell within him,<br>And rouse a fiery whirlwind in his [[concepts/conscience\|conscience]]. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | L'interno d'una capanna, intorno alla quale si vedono [[motifs/flowers\|fiori]] e piante di varie specie. Si scoprono ALVAR, ZULIMEZ e ALHADRA, come sul punto di partire. |  
+| ALHADRA | Addio, dunque! e benché molti pensieri mi turbino,<br>nulla di malvagio o d'ignobile mai potrò<br>sospettare di te! Se sei ciò che sembri,<br>gli oppressi fratelli del tuo [[motifs/blood\|sangue]] han bisogno<br>d'un tale condottiero. |  
+| ALVAR | Donna d'animo nobile!<br>Lungo [[motifs/time\|tempo]] contro l'oppressione ho combattuto,<br>e per la nativa libertà della [[concepts/faith\|fede]]<br>ho sanguinato e patito catene. Di questo sii certa:<br>il [[motifs/time\|Tempo]], mentre corre innanzi, va srotolando<br>il volume del celamento. Nel futuro,<br>come nel vitreo cilindro dell'ottico,<br>le macchie e i colori indistinguibili<br>del fosco passato s'adunano e prendon forma,<br>balzando su nella propria immagine compiuta<br>a spaventare o a premiare.<br>Cercai il colpevole,<br>e ciò che cercavo trovai: ma prima che l'asta<br>volasse dalla mia mano, [[motifs/rose\|sorse]] una forma d'angelo<br>fra me e il mio bersaglio. Sventato il proposito,<br>al [[archetypes/avenger\|Vendicatore]] lascio la vendetta, e parto!<br>Che che avvenga, se in nulla il mio braccio possa aiutare,<br>o il mio potere proteggere, la mia parola t'è impegnata:<br>ché molti sono i tuoi torti, e nobile l'[[motifs/soul\|anima]] tua.<br>Ancora una volta, addio. |  
+| *(didascalia)* | Esce ALHADRA. |  
+| ALVAR | Sì, agli stati del Belgio<br>faremo ritorno. Queste vesti, questa tinta posticcia,<br>affini alla menzogna, mi gravano sullo spirito.<br>Che che ci accada, l'eroico Maurizio<br>ci concederà asilo, in ricordo<br>dei nostri passati servigi. |  
+| ZULIMEZ | E tutta la ricchezza, il potere, l'influenza che son vostri,<br>lascerete che li tenga un assassino? |  
+| ALVAR | O fedele Zulimez!<br>Che il mio ritorno comportasse la [[motifs/death\|morte]] d'Ordonio,<br>credo, mi darebbe una fitta schietta,<br>ma sopportabile: ma quando vedo mio padre<br>spargere i suoi radi capelli grigi financo sulla terra<br>che presto dev'esser la sua [[motifs/grave\|tomba]], e la mia Teresa —<br>il marito di lei rivelato assassino, e i suoi bambini<br>i bambini di lui — povera Teresa! — tutto perirebbe,<br>tutto perirebbe — tutto! e io (via, abbi pazienza con me)<br>non potrei sopravvivere all'intricata rovina! |  
+| ZULIMEZ | Suvvia! v'ho afflitto — voi [[motifs/well\|bene]] sapete<br>ch'io mai lascerò le vostre sorti. È vero, è tedioso!<br>Voi siete pittore, uomo di molte fantasie!<br>Sapete richiamare gesta passate, e farle vivere<br>sulla tela nuda! e ogni erbetta<br>che cresce su monte brullo, o in selva intricata,<br>avete imparato a nominare ——<br>Ascoltate! non udiste dei passi? |  
+| ALVAR | E se fosse mio fratello che s'avanza?<br>Gli mandai un messaggio misteriosissimo. |  
+| *(didascalia)* | Entra ORDONIO |  
+| ALVAR | È lui! |  
+| ORDONIO | (fra sé mentre entra) Se ben distinsi il suo passo e la statura,<br>era la donna mora, la moglie d'Isidoro,<br>quella che mi passò accanto mentre entravo. Una candela accesa,<br>nell'aria della [[motifs/night\|notte]], non attira più naturalmente<br>intorno a sé le farfalle [[motifs/night\|notturne]], di quanto un mago<br>non tragga intorno a sé tutto il vicinato femminile. |  
+| *(didascalia)* | Rivolgendosi ad ALVAR. |  
+| ORDONIO | Conosci il mio nome, immagino, se non la mia persona.<br>Io sono Ordonio, figlio di don Valdez. |  
+| ALVAR | Il figlio di Valdez! |  
+| *(didascalia)* | ORDONIO gira con calma per la stanza, e osserva attentamente le piante. |  
+| ZULIMEZ | Ma che avete ora?<br>Come vi trema la mano! Alvar, parlate! che volete? |  
+| ALVAR | Gettarmi al suo collo e piangere [[concepts/forgiveness\|perdono]]! |  
+| ORDONIO | (tornando, e ad alta voce) Colte al lume di luna da un'abbazia in rovina —<br>quelle sole che i pallidi raggi visitarono!<br>Oh l'inintelligibile potere delle erbacce,<br>quando poche strane preghiere vi si son mormorate sopra:<br>allora fanno miracoli! Ve lo garantisco,<br>non v'è foglia sotto cui non s'annidi<br>qualche servizievole demonietto.<br>Uno di voi<br>m'ha mandato uno strano messaggio. |  
+| ALVAR | Son io. |  
+| ORDONIO | Con te, dunque, devo parlare: |  
+| *(didascalia)* | Facendo altezzosamente cenno con la mano a ZULIMEZ. |  
+| ORDONIO | E bada, solo. |  
+| *(didascalia)* | Esce ZULIMEZ. |  
+| ORDONIO | «Colui che può ridare la vita ai morti!» —<br>tale fu il tuo messaggio, signore! Non sei un tardo di mente,<br>ma uno che scortica la buccia esteriore delle cose! |  
+| ALVAR | Si favoleggia che vi siano frutti dalla buccia allettante<br>che dentro son tutti [[motifs/dust\|polvere]] e putredine.<br>Vorresti ch'io ne scorticassi di tali? |  
+| ORDONIO | Cavilloso [[archetypes/fool\|sciocco]],<br>che intendi? Credi ch'io sia venuto fin qui<br>a scherzare con te? |  
+| ALVAR | Oh no, signore! lo scherzo<br>meglio s'addice alla letizia dell'innocenza. |  
+| ORDONIO | (a parte) Oh che cosa è mai l'uomo! il cuore più saggio<br>è uno [[archetypes/fool\|stolto]]! uno [[archetypes/fool\|stolto]] che ride della propria follia,<br>e pure sempre uno [[archetypes/fool\|stolto]]! |  
+| *(didascalia)* | Guarda intorno per la capanna. |  
+| ORDONIO | Tu sei povero! |  
+| ALVAR | E che ne segue? |  
+| ORDONIO | Che volentieri saresti più ricco.<br>E poi l'[[historical-references/inquisition\|inquisizione]] — mi comprendi?<br>Sei povero, e in pericolo. Io ho ricchezza e potere,<br>posso spegnere le fiamme, e sanare la tua [[concepts/poverty\|povertà]]:<br>e in cambio del dono ti chiedo solo questo:<br>che tu mi serva — una volta — per poche ore. |  
+| ALVAR | Tu sei il figlio di Valdez! volesse il Cielo<br>ch'io potessi veramente e per sempre servirti. |  
+| ORDONIO | (a parte) Lo schiavo comincia a piegarsi.<br>Tu sei mio amico,<br>«colui che può ridare la vita ai morti»,<br>no, con me nessuna difesa! I santi fratelli<br>credono a queste calunnie — io ti conosco meglio.<br>Tu sei un uomo, e come uomo mi fiderò di te! |  
+| ALVAR | (a parte) Ahimè! questa vuota allegria — Dichiarate il vostro affare. |  
+| ORDONIO | [[motifs/love\|Amo]] una dama, ed ella m'[[motifs/love\|amerebbe]]<br>se non fosse per un vano e fantastico scrupolo.<br>Non hai servi qui, non orecchi in ascolto? |  
+| *(didascalia)* | ORDONIO s'accosta alla porta. |  
+| ALVAR | Che, anche infedele? Falso alla sua angelica sposa?<br>A una tale sposa? [[motifs/well\|Bene]] potevi apparire così smorta,<br>sventurata Teresa! —— Miserabile! la mia [[motifs/soul\|anima]] più mite<br>è dileguata, e io sonderò la sua [[concepts/conscience\|coscienza]]! |  
+| ORDONIO | In [[concepts/truth\|verità]] questa dama amava un altro uomo,<br>ma egli è perito. |  
+| ALVAR | Come! l'uccideste voi? eh? |  
+| ORDONIO | Ti scaglierò a terra, se solo lo pensi!<br>Schiavo insolente! come osasti — |  
+| *(didascalia)* | Si volge bruscamente via da ALVAR, e poi fra sé. |  
+| ORDONIO | Ma come! che è questo?<br>Fu idiozia! mi legherò a un pioppo tremulo,<br>e porterò il berretto da [[archetypes/fool\|matto]] — |  
+| ALVAR | Sta' [[motifs/well\|bene]] —<br>ti compiango, Ordonio, fino all'angoscia. |  
+| *(didascalia)* | ALVAR sta ritirandosi. |  
+| ORDONIO | Olà! |  
+| *(didascalia)* | Chiamando ALVAR. |  
+| ALVAR | Sii breve, che vuoi? |  
+| ORDONIO | Sei profondo nel mercanteggiare — ti valuti<br>a tonda somma. Su, su, parlai senza senno. |  
+| ALVAR | Ti ascolto. |  
+| ORDONIO | In una tempesta improvvisa<br>perì Alvar — lui, intendo — l'[[archetypes/lover\|amante]] —<br>quell'individuo —— |  
+| ALVAR | Su, parla chiaro! t'alleggerirà il cuore<br>chiamarlo [[archetypes/villain\|scellerato]]! — Perché stai inorridito?<br>Gli uomini stiman naturale odiare i propri rivali. |  
+| ORDONIO | Ora, finché non lo sappia morto, ella non mi sposerà. |  
+| ALVAR | Non siete dunque sposato? Cielo misericordioso!<br>Non sposato a Teresa? |  
+| ORDONIO | Ma che t'accade?<br>Che, sei pazzo? perché guardi in alto a quel modo?<br>Preghi [[characters/lucifer\|Lucifero]], Principe dell'Aria? |  
+| ALVAR | Procedi. Starò in silenzio. |  
+| ORDONIO | A Teresa?<br>Astuto mago! prima di mandare quel messaggio<br>t'eri studiato la lezione, t'eri fatto esperto<br>di tutte le mie sorti. Ah! profetavi<br>un raccolto d'oro! [[motifs/well\|Bene]], non ti sei ingannato —<br>siimi fedele e ti pagherò nobilmente. |  
+| ALVAR | [[motifs/well\|Bene]]! e questa dama! |  
+| ORDONIO | Se potessimo renderla certa della sua [[motifs/death\|morte]],<br>dovrebbe per forza sposarmi. Prima che il suo [[archetypes/lover\|amante]] la lasciasse,<br>ella gli legò al collo un piccolo ritratto,<br>supplicandolo di portarlo. |  
+| ALVAR | Sì! così egli fece! |  
+| ORDONIO | Ma no: temeva gli incidenti,<br>le rapine, i naufragi, e cose simili.<br>In segreto lo diede a me perché lo custodissi<br>fino al suo ritorno. |  
+| ALVAR | Come! era dunque vostro amico? |  
+| ORDONIO | Io ero amico suo. —<br>Ora, che me l'abbia dato,<br>questa dama non lo sa. Tu sei un mago potente —<br>puoi evocare il morto — egli non verrà. —<br>È dunque in cielo — là tu non hai influenza.<br>Pure vi sono pegni — e i tuoi demonietti possono portarti<br>qualcosa ch'egli aveva addosso quando morì.<br>E quando il fumo dell'incenso sull'altare<br>sia svanito, i tuoi spiriti avranno lasciato questo ritratto.<br>Che dici ora? |  
+| ALVAR | Ordonio, lo farò. |  
+| ORDONIO | Non rischieremo indugi. Sia questa [[motifs/night\|notte]],<br>sul primo della sera. Chiedi di don Valdez.<br>Io lo preparerò. Anche musica, e incenso,<br>(ché ho disposto ogni cosa — musica, altare, incenso)<br>tutto sarà pronto. Ecco questo stesso ritratto,<br>ed ecco, ciò che apprezzerai di più, una borsa.<br>Vieni per tempo per le tue cerimonie magiche. |  
+| ALVAR | Non mancherò all'incontro. |  
+| ORDONIO | Fino al prossimo incontro, addio! |  
+| *(didascalia)* | Esce ORDONIO. |  
+| ALVAR | (solo, getta via sdegnato la borsa e contempla appassionatamente il ritratto) E io ti maledissi!<br>A mezzanotte! in ginocchio! e ti credevo<br>spergiura, traditrice! ti credevo disonorata!<br>O cieco e credulo [[archetypes/fool\|folle]]! O [[concepts/guilt\|colpa]] di follia!<br>Non dovevano le tue inarticolate tenerezze,<br>i tuoi amori infantili — non dovevano i tuoi voti di fanciulla<br>tornarmi sopra il cuore? E questa dolce Immagine<br>legatami al collo con tante caste carezze,<br>e con mani fremebonde, che mi facevano piangere e tremare —<br>ah, vile ingannato! cederla al miscredente<br>che di te parlava contaminazione! barattare per la vita<br>questo pegno d'addio, che con voto appassionato<br>avevo giurato che avrei stretto — anche nello spasimo della [[motifs/death\|Morte]]!<br>Non son degno del tuo [[motifs/love\|amore]], Teresa,<br>di quel sorriso ultraterreno su quelle labbra<br>che sempre a me sorrisero! Pure non sdegnarmi —<br>balbettai il tuo nome, prima d'aver appreso quello di mia madre.<br>Caro ritratto! sottratto alla custodia d'un traditore,<br>non ti profanerò ora, santa immagine,<br>per un oscuro inganno. Quel pessimo uomo troverà<br>un dipinto che gli desterà l'inferno dentro,<br>e susciterà un turbine di fuoco nella sua [[concepts/conscience\|coscienza]]. |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1" data-title="REMORSE — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/innocent,motif/dance,motif/death,motif/fire,motif/love,motif/memory,motif/night,motif/soul,motif/tears,motif/wheel,concept/conscience,concept/doubt,concept/faith,concept/guilt,concept/hope,concept/melancholy,concept/pride,concept/self,histref/inquisition,setting/castle,character/chorus,character/witch"></span>
@@ -384,6 +691,47 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | ORDONIO | (recovering himself as from stupor, to Servants) Why haste you not? Off with him to the dungeon! |
 | *(didascalia)* | All rush out in tumult. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Una sala d'armi, con un altare in fondo alla scena. Musica soave da uno strumento di vetro o d'acciaio. |  
+| *(didascalia)* | Si scoprono VALDEZ, ORDONIO e ALVAR in veste di mago. |  
+| ORDONIO | Questa era troppo [[concepts/melancholy\|malinconica]], padre. |  
+| VALDEZ | No,<br>il mio Alvar amava la musica triste fin da [[archetypes/child\|bambino]].<br>Una volta si smarrì; e dopo lunga e stanca ricerca<br>lo trovammo in una radura del bosco.<br>Fin là aveva seguito un ragazzo cieco<br>che soffiava in una zampogna di sicomoro<br>note stranamente commoventi: e queste, diceva,<br>gli erano state insegnate in sogno. Lui vedemmo per primo<br>disteso sull'ampia cima d'un soleggiato ciglio d'erica:<br>e più in basso il povero Alvar, profondamente addormentato,<br>il capo sul cane del ragazzo cieco. Mi piacque<br>notare come avesse legato intorno alla zampogna<br>un balocco d'argento che l'ava gli aveva poco prima donato.<br>Mi par di vederlo ora com'era allora —<br>proprio così! — Era cresciuto oltre l'abito di bimbo,<br>e pure ancora lo portava. |  
+| ALVAR | (a parte) Le mie [[motifs/tears\|lacrime]] non devono scorrere!<br>Non devo stringergli le ginocchia, e gridare: Padre mio! |  
+| *(didascalia)* | Entrano TERESA e il séguito. |  
+| TERESA | Signor Valdez, avete chiesto la mia presenza qui,<br>e io mi sottometto; ma (il Cielo mi sia testimone)<br>il mio cuore non l'approva! è una beffa. |  
+| ORDONIO | Non credete dunque ad alcun influsso soprannaturale?<br>Non credete che gli spiriti s'affollino intorno a noi? |  
+| TERESA | Dite piuttosto che l'ho immaginata<br>cosa possibile: e ha lenito la mia [[motifs/soul\|anima]]<br>come altre fantasie; ma mai m'ha sedotta<br>a trafficare con la nera e forsennata [[concepts/hope\|speranza]]<br>che i morti odano la voce di [[characters/witch\|strega]] o di mago. [Ad ALVAR.]<br>Straniero, mi duole e arrossisco di vedervi qui,<br>in tale ufficio! Con ben altri pensieri<br>vi lasciai. |  
+| ORDONIO | (a parte) Ah! ha macchinato con lei? |  
+| ALVAR | O Fanciulla d'alta [[motifs/soul\|anima]]! e a me più cara<br>di quanto convenga al nome di straniero! —<br>Io ti giuro<br>che scoprirò ogni [[concepts/guilt\|colpa]] celata.<br>[[concepts/doubt\|Dubita]], ma non decidere! Scostatevi dall'altare. |  
+| *(didascalia)* | Qui s'ode una melodia di musica da dietro la scena. |  
+| ALVAR | Con voce non irriverente né con rozzo incanto<br>io chiamo su i trapassati!<br>[[motifs/soul\|Anima]] d'Alvar!<br>Odi la nostra mite supplica, e ascolta il mio più dolce scongiuro:<br>così le porte del Paradiso, disserrate,<br>pongan fine alle tue rapide fatiche! Ché forse tu sei uno<br>di quell'innumerevole compagnia<br>che in largo cerchio, più bella dell'arcobaleno,<br>cinge questa terra rotonda in vertiginoso moto,<br>con fragore troppo vasto e costante per essere udito:<br>e meglio non udito! Ché oh, voi innumeri<br>e rapidi viaggiatori! quale orecchio non stordito,<br>quale senso non impazzito, potrebbe reggere<br>al precipitare delle vostre ali congregate? [Musica.]<br>Anche ora la vostra viva [[motifs/wheel\|ruota]] gira sopra il mio capo!<br>Voi, passando, sollevate in alto le sabbie del deserto,<br>che ruggiscono e biancheggiano, come uno scroscio d'acque,<br>dolce apparenza, ma tremenda illusione<br>per l'arsa carovana che erra di [[motifs/night\|notte]]!<br>E voi innalzate sulle onde placate<br>quella colonna turbinante che da terra a cielo<br>sta vasta, e si muove nella tenebra! Voi pure spezzate<br>il monte di ghiaccio! e con frammenti molti e immani<br>tempestate il mare appena disgelato, i cui gorghi improvvisi<br>inghiottono, forse, la barca di qualche mago di Lapponia!<br>Poi intorno intorno al margine del vortice [[motifs/dance\|danzate]],<br>finché dal livido corpo gonfio l'[[motifs/soul\|anima]] a stento esca fuori,<br>e s'unisca al vostro possente esercito. |  
+| *(didascalia)* | Qui, dietro le scene, una voce canta le tre parole: «Odi, dolce Spirito». |  
+| ALVAR | [[motifs/soul\|Anima]] d'Alvar!<br>Odi il mite scongiuro, e non tentare incanto più nero!<br>Per i sospiri inquieti, e per lo spasimo malato<br>d'una [[concepts/hope\|speranza]] mezzo morta, e pure non morente,<br>passa visibile davanti al nostro senso mortale!<br>Così saranno tuoi i riti mondatori della Chiesa,<br>i suoi rintocchi e le sue messe che riscattano i morti! |  
+| *(didascalia)* | CANTO — dietro le scene, accompagnato dallo stesso strumento di prima. |  
+| *(didascalia)* | Odi, dolce spirito, odi lo scongiuro,<br>ché non ti stringa un incanto più oscuro!<br>Così gonfieranno le brezze di mezzanotte<br>col tuo rintocco cupo e lungamente indugiante.<br>E alla sera, per sempre e ancora,<br>in una cappella sulla riva,<br>il cantore, mesto e santo,<br>con gialle candele che ardono fioche,<br>dolenti messe canterà per te,<br>Miserere Domine!<br>Odi! la cadenza si spegne<br>sul quieto mare di luna:<br>i barcaioli posano i remi e dicono,<br>Miserere Domine! [Lunga pausa.] |  
+| ORDONIO | L'[[archetypes/innocent\|innocente]] non obbedisce né a incanto né a scongiuro!<br>Mio fratello è in cielo. Tu, spirito santificato,<br>irrompi alla nostra vista, ospite di passaggio!<br>Udire ancora una volta la tua voce, ancora una volta vederti,<br>oh, sarebbe una gioia per me! |  
+| ALVAR | Una gioia per te!<br>E se ora tu l'udissi? E se il suo spirito<br>rientrasse nel suo freddo corpo, e ti venisse incontro<br>con molte pugnalate di molti pugnali d'assassino?<br>E se (l'occhio fermo ancora raggiante di pietà<br>e d'[[motifs/love\|amore]] fraterno) volgesse il capo da un lato,<br>per non guardarti, e con un solo sguardo<br>scagliarti al di là d'ogni potere di penitenza? |  
+| VALDEZ | Queste son fantasie empie! |  
+| ORDONIO | Sì, padre mio,<br>egli è in Cielo! |  
+| ALVAR | (ancora a Ordonio) Ma e se avesse avuto un fratello<br>vissuto in modo tale che, nell'ora della sua morte,<br>il nome del Cielo gli convulserebbe il volto<br>più dello spasimo della [[motifs/death\|morte]]? |  
+| VALDEZ | Uomo che ciarli a vuoto!<br>Hai indovinato male: l'unico fratello di don Alvar<br>sta qui davanti a te — sopra di lui la benedizione d'un padre!<br>Egli è virtuosissimo. |  
+| ALVAR | (ancora a Ordonio) E se le sue virtù stesse<br>gli avessero viziato il cuore gonfio e reso superbo?<br>E se la [[concepts/pride\|superbia]] l'avesse ingannato fino alla [[concepts/guilt\|colpa]]?<br>E pure incedesse come un dio creato da sé [[concepts/self\|stesso]],<br>non molto ardito, ma squisitamente astuto;<br>e tale che allo specchio di sua madre<br>forzasse i lineamenti a un'accigliata severità?<br>Giovane signore! ti dico che tali esseri esistono —<br>sì, e dà feroce allegria ai dannati<br>vedere questi uomini superbissimi, che aborrono gli uomini,<br>a ogni fremito e ronzio di vile [[concepts/conscience\|coscienza]],<br>fingere, blaterare e mentire, ipocriti piagnucolosi!<br>Via, via! Ora fatemi udire ancora musica. [Musica di nuovo.] |  
+| TERESA | È strano, tremo alle mie stesse congetture!<br>Ma checché ciò significhi, non oso più a lungo<br>essere presente a questi misteri senza legge,<br>a questo oscuro provocare le Potenze nascoste!<br>Già offendo — se non l'alto Cielo —<br>pure la [[motifs/memory\|memoria]] d'Alvar! — Udite! io faccio appello<br>contro l'empio rito, e m'affretto via di qui<br>a piegarmi davanti a un altare legittimo, e a cercare<br>quella voce che sussurra, quando il cuore quieto ascolta,<br>conforto e fedele [[concepts/hope\|speranza]]! Ritiriamoci. |  
+| ALVAR | (a Teresa) O piena di [[concepts/faith\|fede]] e d'[[motifs/love\|amore]] senza inganno, il tuo Spirito<br>sempre ti suggerisce con saggezza. Colgano gli spasimi della [[concepts/guilt\|colpa]]<br>i colpevoli: tu sei [[archetypes/innocent\|innocente]]! |  
+| *(didascalia)* | Escono TERESA e il séguito. Musica come prima. |  
+| ALVAR | Lo scongiuro è mormorato — Vieni, forma errante,<br>che non riconosci padrone in occhio umano,<br>qualunque sia la sorte di quest'uomo, bella o turpe,<br>se egli è morto, oh vieni! e reca con te<br>ciò ch'egli strinse nella [[motifs/death\|morte]]! Ma se vive,<br>qualche pegno della sua oscura e perigliosa vita. |  
+| *(didascalia)* | Tutta la musica prorompe in un [[characters/chorus\|Coro]]. |  
+| *(didascalia)* | [[characters/chorus\|CORO]]<br>Demoni erranti, udite lo scongiuro!<br>ché non vi stringa un incanto più oscuro — |  
+| *(didascalia)* | L'incenso sull'altare prende [[motifs/fire\|fuoco]] all'improvviso, e si scopre un dipinto illuminato dell'assassinio d'ALVAR, che, rimasto pochi secondi, è poi nascosto dalle fiamme che salgono. |  
+| ORDONIO | (trasalendo) Ingannato! ingannato! ingannato! — il traditore Isidoro! |  
+| *(didascalia)* | In questo istante le porte sono sfondate; MONVIEDRO e i Familiari dell'[[historical-references/inquisition\|Inquisizione]], servi, ecc., entrano e riempiono la scena. |  
+| MONVIEDRO | Prima afferrate il mago! non lasciate che parli!<br>I santi giudici dell'[[historical-references/inquisition\|Inquisizione]]<br>udranno le sue prime parole. — Impallidite, signor Valdez?<br>Prova palese abbiamo qui di turpissima stregoneria.<br>V'è una segreta sotto questo [[settings/castle\|castello]],<br>e se [[concepts/hope\|sperate]] in una mite interpretazione,<br>consegnatene all'istante le chiavi e la custodia. |  
+| ORDONIO | (riavendosi come da uno stupore, ai servi) Perché non v'affrettate? Via con lui nella segreta! |  
+| *(didascalia)* | Tutti escono precipitosamente in tumulto. |
 
 
 
@@ -469,6 +817,86 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | *(didascalia)* | Exit. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Interno d'una cappella, con vetrate dipinte. |  
+| *(didascalia)* | Entra TERESA. |  
+| TERESA | Quando entrai la prima volta in questo puro luogo, presagi<br>mi premevano greve sul cuore: ma come m'inginocchiai,<br>tale calma insolita beatitudine possedette il mio spirito,<br>un rapimento così senza nubi, che quei suoni, qui presso,<br>d'un tumulto calpestante caddero al mio orecchio<br>estranei e inavvertiti come la [[motifs/storm\|tempesta]] di pioggia<br>batte sul tetto di qualche bella sala di banchetto,<br>mentre dolcissime melodie gorgheggiano —— |  
+| *(didascalia)* | Entra VALDEZ. |  
+| VALDEZ | Voi santi pietosi, perdonate la cecità d'un padre,<br>e traeteci fuori da questa rete di pericolo! |  
+| TERESA | Chi ridesta i miei timori, e parla di pericolo? |  
+| VALDEZ | O ottima Teresa, saggiamente fosti ispirata!<br>Questa non fu impresa d'opera mortale!<br>Quel dipinto — oh, quel dipinto mi dice tutto!<br>Con un lampo di luce venne, in fiamme svanì,<br>acceso da sé [[concepts/self\|stesso]], da sé [[concepts/self\|stesso]] consumato: fulgido come la tua vita,<br>improvviso e inatteso come la tua sorte,<br>Alvar! Figlio mio! Figlio mio! — L'Inquisitore — |  
+| TERESA | Non torturatemi! Ma Alvar — oh, che d'Alvar? |  
+| VALDEZ | Quante volte perorava per questi moreschi!<br>Stirpe maledetta! spietati, vili assassini! |  
+| TERESA | Così? così? — Vi comprendo — Egli è —— |  
+| VALDEZ | Egli non è più! |  
+| TERESA | O dolore! che una voce di padre debba dir questo,<br>e un Cuore di Padre crederlo! |  
+| VALDEZ | Dolore peggiore<br>son le folli speranze della fantasia a un cuore che dispera! |  
+| TERESA | Questi raggi che obliqui entrano per quelle vetrate splendide<br>da quel fulgido astro — benché colorati nel passare,<br>non sono forse luce? — Così quella voce, signor Valdez!<br>che sussurra alla mia [[motifs/soul\|anima]], per quanto forse variata<br>da molte fantasie, da molte desiderose [[concepts/hope\|speranze]],<br>dice pur la [[concepts/truth\|verità]]: e Alvar vive per me! |  
+| VALDEZ | Sì, per tre anni consumanti, così e non altrimenti,<br>egli è vissuto per te — uno spirito per il tuo spirito!<br>[[archetypes/child\|Figlia]] mia, non dobbiamo dare religiosa [[concepts/faith\|fede]]<br>a ogni voce che fa del cuore un ascoltatore<br>del proprio desiderio. |  
+| TERESA | Io esalai all'Infallibile<br>preghiere lecite. Quelle devono restare senza risposta,<br>e l'empia stregoneria, che non ha commercio<br>se non con lo spirito menzognero, pretendere fede? |  
+| VALDEZ | Oh non oggi, non ora per la prima [[motifs/time\|volta]]<br>Alvar t'è stato perduto —<br>Maledetti assassini!<br>Disarmato, sopraffatto, disperando d'ogni difesa,<br>sul petto scoperto pareva stringere qualche reliquia<br>più cara della sua stessa vita —— |  
+| TERESA | O cieli! il mio ritratto!<br>E lo strinse davvero nello spasimo della [[motifs/death\|morte]]!<br>Via, falso demonio,<br>che batti le tue nere ali proprio sopra il mio capo! |  
+| *(didascalia)* | Entra ORDONIO con in mano le chiavi della segreta. |  
+| TERESA | Zitti! chi viene qui? Colui che assoldò il Moro mago!<br>Mori furono i suoi uccisori, dite? I santi ci scudino<br>dai pensieri malvagi —— |  
+| *(didascalia)* | VALDEZ si porta in fondo alla scena per incontrare ORDONIO, e durante gli ultimi versi della battuta di TERESA appare in animato colloquio con lui. |  
+| TERESA | Alvar è morto? e allora?<br>Le nozze e il funerale saranno una cosa sola!<br>Qui non v'è dimora per te, Teresa. —<br>Via! non mi vedono — Tu mi vedi, Alvar!<br>A te volgo il mio cammino. — Ma prima una domanda,<br>una domanda a Ordonio. — Le membra mi tremano —<br>là posso sedere non notata — un attimo mi rimetterà. |  
+| *(didascalia)* | Si ritira fuori di vista. |  
+| ORDONIO | Ecco le chiavi della segreta.<br>Monviedro non sapeva<br>che anch'io avevo ricevuto il messaggio del mago,<br>«colui che può ridare la vita ai morti».<br>Ma ora è persuaso ch'io ordii questo disegno<br>per ottenere piena convinzione sul colpevole,<br>e me lo affida interamente in custodia. |  
+| VALDEZ | Sta [[motifs/well\|bene]], figlio mio! Ma hai già scoperto<br>(dov'è Teresa?) che cosa significassero quei discorsi —<br>[[concepts/pride\|superbia]], e ipocrisia, e [[concepts/guilt\|colpa]], e astuzia?<br>Poi, quando il mago fissò l'occhio su di te,<br>e tu, non so perché, impallidisti e tremasti —<br>Ma — ma che t'accade ora? — |  
+| ORDONIO | Me? che m'accade?<br>Un pungere del [[motifs/blood\|sangue]] — poteva accadere<br>in qualunque altro [[motifs/time\|momento]]. — Perché mi scrutate? |  
+| VALDEZ | Il suo discorso sul cadavere, e le pugnalate e gli uccisori,<br>alludeva agli assassini —— |  
+| ORDONIO | Ingannato! ingannato! ingannato!<br>Il traditore, Isidoro! |  
+| *(didascalia)* | Una pausa, poi con foga. |  
+| ORDONIO | Ti dico, mio caro padre,<br>che di questo son lietissimo. |  
+| VALDEZ | È vero — la stregoneria<br>merita la sua condanna; e questo forse ci guiderà<br>alla scoperta degli uccisori.<br>Ho le loro stature e i loro diversi volti<br>così presenti, che incontrarli una sola volta<br>sarebbe riconoscerli. |  
+| ORDONIO | Sì! sì! li riconosceremo.<br>Ero intorpidito, e barcollavo su e giù<br>per una tenebra senza luce — buio — buio — buio!<br>La carne mi si raggelava, le membra mi parevano in ceppi<br>come se un serpe vi si fosse avvolto! — Ora è sole,<br>e il [[motifs/blood\|sangue]] danza libero per i suoi canali! |  
+| *(didascalia)* | Poi fra sé. |  
+| ORDONIO | Ecco il mio virtuoso, grato Isidoro! |  
+| *(didascalia)* | Poi imitando i modi e la voce d'ISIDORE. |  
+| ORDONIO | «Un comune vezzo della gratitudine, signore!»<br>Vecchia Gratitudine! un pugnale sezionerebbe<br>il suo «proprio cuore colmo»—sarebbe bene vederne il colore. |  
+| VALDEZ | Queste visioni magiche! Oh non avessi mai ceduto<br>alle tue preghiere! Né avrei ceduto,<br>se non che, a dispetto della tua stessa apparente [[concepts/faith\|fede]],<br>la tenni per qualche [[archetypes/innocent\|innocente]] stratagemma<br>che l'[[motifs/love\|amore]] aveva suggerito, per togliere i dubbi<br>della fervida Teresa — domando fantasie con fantasie! |  
+| ORDONIO | [[motifs/love\|Amore]]! [[motifs/love\|amore]]! e poi odiamo! e che? e perché?<br>Odio e [[motifs/love\|amore]]! fantasie opposte a fantasie!<br>Che? se un rettile punge un altro rettile?<br>Dov'è il delitto? Il bel volto della [[concepts/nature\|natura]]<br>ha una macchia sfigurante di meno addosso.<br>Non siamo tutti predestinata caducità,<br>e freddo disonore? Concediamo che questa mano<br>abbia dato un boccone ai vermi affamati<br>un po' troppo presto — dov'è il delitto in questo?<br>Che ciò debba per forza portar seco l'idiozia<br>d'una penitenza dagli occhi umidi—è come un sogno! |  
+| VALDEZ | Discorso folle, figlio mio! Ma il tuo eccesso di sentire ——<br>quasi [[concepts/fear\|temo]] che gli abbia scardinato il cervello. |  
+| ORDONIO | Poni ch'io avessi disteso un [[concepts/body\|corpo]] al sole!<br>[[motifs/well\|Ebbene]]! in un mese sciamano fuori dal cadavere<br>mille, anzi diecimila esseri senzienti<br>in luogo di quell'unico uomo. — Poni ch'io l'avessi ucciso! |  
+| *(didascalia)* | TERESA si ferma, in ascolto. |  
+| ORDONIO | Eppure chi mi dirà che ciascuna e tutte<br>queste diecimila vite non siano felici<br>quanto quell'unica vita che, spinta da parte,<br>fece luogo a queste innumerevoli —— |  
+| VALDEZ | O pura [[concepts/madness\|follia]]! |  
+| *(didascalia)* | TERESA s'avanza in fretta, e si pone dritta davanti a ORDONIO. |  
+| ORDONIO | Teresa? o il [[characters/phantom\|fantasma]] di Teresa? |  
+| TERESA | Ahimè! solo il [[characters/phantom\|fantasma]], se in [[concepts/truth\|verità]]<br>la sostanza del suo essere, la vita della sua vita,<br>ha preso il volo per la ferita di [[motifs/death\|morte]] d'Alvar — |  
+| *(didascalia)* | Una pausa. |  
+| TERESA | Dove —<br>(persino il vile assassinio concede ai morti una [[motifs/grave\|tomba]])<br>oh ditemi, Valdez! — rispondetemi, Ordonio!<br>dove giace il corpo del mio promesso sposo? |  
+| ORDONIO | Là, dove Ordonio pure vorrebbe giacere!<br>Nella terra che costringe al [[motifs/sleep\|sonno]], nella tenebra non trafitta!<br>Ché finché viviamo —<br>un giorno interiore che mai, mai tramonta<br>abbaglia intorno all'[[motifs/soul\|anima]], e schernisce le palpebre che si chiudono!<br>Sulla sua [[motifs/grave\|tomba]] di roccia il bosco d'abeti sospira<br>un cullante, incessante [[forms/dirge\|lamento]]! Per lui va [[motifs/well\|bene]]. |  
+| *(didascalia)* | S'allontana a gran passi verso l'altare, ma torna mentre VALDEZ parla. |  
+| TERESA | La roccia! il bosco d'abeti! L'hai udito dirlo?<br>Zitto! glielo chiederò! |  
+| VALDEZ | Non incalzarlo — non ora!<br>Questo vedemmo. Né lui né io sappiamo più<br>di quanto rivelò l'immagine magica.<br>L'assassino che premeva primo dei tre —— |  
+| ORDONIO | Uno [[archetypes/villain\|scellerato]] dal cuore tenero, scrupoloso, grato,<br>che io strangolerò! |  
+| VALDEZ | Mentre i suoi due compagni —— |  
+| ORDONIO | Morti! già morti! che c'importa dei morti? |  
+| VALDEZ | Abbiate pietà di lui! placatelo! disincantategli lo spirito!<br>Questi spettacoli [[motifs/supernatural\|soprannaturali]], questa strana rivelazione,<br>e questo affetto troppo tenero, che ancora cova<br>sulla sorte d'Alvar, e ancora arde di vendicarla —<br>questi, in lotta col suo disperato [[motifs/love\|amore]] per voi,<br>lo sconvolgono, e danno realtà<br>alle creature della sua fantasia. |  
+| ORDONIO | È così?<br>Sì! sì! proprio come un [[archetypes/child\|bambino]] che, troppo bruscamente<br>destato da un bagliore di luce dal [[motifs/sleep\|sonno]] più profondo,<br>balza su smarrito e ciarla a vuoto.<br>Padre!<br>E se i Mori che scavarono la [[motifs/grave\|tomba]] di mio fratello<br>stessero anche ora scavando la nostra? E se il dardo,<br>pur mirato, non ne [[concepts/doubt\|dubito]], al figlio di Valdez,<br>mancò tuttavia il suo vero bersaglio cadendo su Alvar? |  
+| VALDEZ | Alvar mai combatté contro i Mori, — di' piuttosto<br>ch'egli era il loro avvocato; ma tu avevi marciato<br>con [[motifs/fire\|fuoco]] e desolazione per i loro villaggi. —<br>Eppure fu lui, per caso, a esser catturato. |  
+| ORDONIO | Ignoto, forse,<br>catturato, e pure come figlio di Valdez, ucciso.<br>Lasciate tutto a me. Ma dove, gentile dama? |  
+| VALDEZ | Che cercate ora? |  
+| TERESA | Una luce migliore, più sicura,<br>che mi guidi —— |  
+| VALDEZ | Dove? |  
+| ORDONIO | Dove mai? |  
+| TERESA | Al solo luogo<br>dove ancora dimora per me la vita, e la pace del cuore.<br>Queste mura par minaccino di crollarmi addosso!<br>Non trattenetemi! un'oscura potenza mi caccia di qui,<br>e quella sarà la mia guida. |  
+| VALDEZ | A cercare un [[archetypes/lover\|amante]]!<br>S'addice ciò al pudore d'una fanciulla d'alto sangue?<br>O follia e vergogna! Non tentare la mia ira, Teresa! |  
+| TERESA | Senza speranza, non [[concepts/fear\|temo]] l'ira d'alcun essere umano.<br>E m'affretto io alle braccia —— O cielo!<br>m'affretto solo alla [[motifs/grave\|tomba]] del mio diletto! |  
+| *(didascalia)* | Esce, VALDEZ seguendola. |  
+| ORDONIO | Questa, dunque, è la mia ricompensa! e devo [[motifs/love\|amarla]]?<br>Sdegnato! e n'hanno ribrezzo! e pure [[motifs/love\|amarla]] ancora? sì! sì!<br>Per i sentimenti profondi della [[concepts/revenge\|vendetta]] e dell'odio<br>ancora l'[[motifs/love\|amerò]] — la corteggerò — e la conquisterò! |  
+| *(didascalia)* | Una pausa. |  
+| ORDONIO | Isidoro al sicuro e muto, e il ritratto<br>trovato addosso al mago — lui, probabilmente, [[concepts/self\|auto]]-[[motifs/poison\|avvelenato]]<br>per sfuggire alle fiamme più crudeli —— La mia [[motifs/soul\|anima]] grida trionfo!<br>La mina è minata! [[motifs/blood\|sangue]]! [[motifs/blood\|sangue]]! [[motifs/blood\|sangue]]!<br>Hanno sete del tuo [[motifs/blood\|sangue]]! del tuo [[motifs/blood\|sangue]], Ordonio! |  
+| *(didascalia)* | Una pausa. |  
+| ORDONIO | La caccia è aperta! e nel bosco di mezzanotte<br>con lumi che abbagliano e con reti cercano<br>una timida preda: ed ecco! l'occhio della tigre<br>sfolgora nella rossa fiamma della torcia del cacciatore!<br>A Isidoro spedirò un messaggio,<br>e lo attirerò alla caverna! sì, quella caverna!<br>Non può mancare di trovarla. Là lo attirerò,<br>donde mai, mai più tornerà! |  
+| *(didascalia)* | Guarda attraverso la [[motifs/window\|finestra]] laterale. |  
+| ORDONIO | Un orlo di sole giace ancora sul mare,<br>e ora è sparito! Tutto sarà compiuto questa [[motifs/night\|notte]]. |  
+| *(didascalia)* | Esce. |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1" data-title="REMORSE — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/monster,archetype/pilgrim,archetype/villain,motif/blood,motif/death,motif/fire,motif/frost,motif/lightning,motif/moon,motif/nature,motif/night,motif/prison,motif/silence,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/guilt,concept/honour,concept/nature,concept/self,concept/truth,character/phantom"></span>
@@ -539,6 +967,72 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | *(didascalia)* | Exit ORDONIO. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Una caverna, buia, tranne dove si scorge un barlume di luce lunare da un lato, in fondo; che si suppone vi cada da una fessura in una parte della caverna fuori di vista. ISIDORE solo, una torcia spenta in mano. |  
+| ISIDORE | In [[concepts/faith\|fede]] mia, era una lettera commovente — assai commovente!<br>«La sua vita in pericolo, nessun luogo sicuro fuor che questo!<br>Ora tocca a lui parlar di gratitudine.»<br>Eppure — ma no! non può esistere simile [[archetypes/villain\|scellerato]].<br>Non può essere!<br>Grazie a quella piccola fessura,<br>che lascia entrare la luna! Andrò a sedermi lì presso.<br>Per sbirciare un albero, o veder la barba d'un becco,<br>o udire una vacca o due respirar forte nel [[motifs/sleep\|sonno]] —<br>qualunque cosa fuor che questo fragore di gocce d'[[motifs/water\|acqua]]!<br>Questi suoni sordi e abortiti che rodono il [[motifs/silence\|silenzio]]<br>con meschini contrasti e finta opposizione!<br>Così batte l'orologio della [[motifs/death\|morte]] all'orecchio d'un malato. |  
+| *(didascalia)* | Esce di vista, dal lato opposto alla chiazza di luna: e ritorna. |  
+| ISIDORE | Una fossa infernale! Proprio quella che sognai!<br>C'ero appena dentro — e quelle maledette dita di ghiaccio<br>che m'afferrarono per i capelli! Ah! — che è là — s'è mosso. |  
+| *(didascalia)* | ISIDORE resta a fissare un altro anfratto della caverna. Nel [[motifs/time\|frattempo]] ORDONIO entra con una torcia, e chiama forte ISIDORE. |  
+| ISIDORE | Giuro che vidi qualcosa muoversi là!<br>Il chiaro di luna andò e venne come un lampo di [[motifs/lightning\|folgore]] ——<br>Giuro, l'ho visto muoversi. |  
+| *(didascalia)* | Ordonio entra nell'anfratto, poi ritorna. |  
+| ORDONIO | Una pietra d'argilla sporgente<br>gocciola sull'erbaccia lunga e floscia che cresce sotto:<br>e l'erbaccia annuisce e stilla. |  
+| ISIDORE | Una burla da riderci sopra!<br>Non fu quello a spaventarmi, mio buon signore. |  
+| ORDONIO | Che vi spaventò, dunque? |  
+| ISIDORE | Vedete quella piccola fenditura?<br>Ma prima permettetemi! |  
+| *(didascalia)* | Accende la sua torcia a quella d'ORDONIO, e mentre l'accende. |  
+| ISIDORE | (Una torcia accesa nella mano<br>non è oggetto sgradito qui — il fiato<br>aleggia intorno alla fiamma, e fa altrettanti colori<br>quante le nubi sottili che viaggiano presso la [[motifs/moon\|luna]].)<br>Vedete là quella fessura?<br>Spenta la mia torcia da queste gocce d'[[motifs/water\|acqua]],<br>e notando che di là veniva il chiaro di luna,<br>v'entrai, volendo sedermi colà;<br>ma appena ebbi misurato venti passi —<br>il mio [[concepts/body\|corpo]] piegato in avanti, anzi sbilanciato<br>quasi oltre ogni ritegno, sull'orlo fosco<br>d'un vasto abisso posai il piede. L'ombroso lume lunare,<br>colmando il vuoto, così contraffece sostanza<br>che il mio piede penzolò obliquo giù dal ciglio.<br>Fu la mia stessa [[concepts/fear\|paura]]?<br>Anche la [[concepts/fear\|paura]] ha i suoi istinti!<br>(Eppure di tane come queste si narrano cose selvagge,<br>e vi sono esseri che vivono, ma non per l'occhio)<br>Un braccio di [[motifs/frost\|gelo]] dall'alto e da dietro le spalle<br>mi strappò su e mi trasse all'indietro. Cielo pietoso!<br>Voi sorridete! ahimè, persino i sorrisi paion spettrali qui!<br>Signore, vi prego, andate voi stesso a vederlo. |  
+| ORDONIO | Deve avervi trafitto con sensazioni piacevoli. |  
+| ISIDORE | Se ogni atomo della carne d'un morto<br>strisciasse, ciascuno con vita propria,<br>e pur tutti freddi come sempre—fu proprio così!<br>O come se piovigginassero punte d'ago di [[motifs/frost\|gelo]]<br>sopra un capo febbricitante fatto d'un tratto calvo — |  
+| ORDONIO | Ebbene, Isidoro,<br>arrossisco della tua viltà. Poteva sgomentare,<br>l'ammetto, anche un uomo prode per un istante —<br>ma un tal panico — |  
+| ISIDORE | Da ragazzo, signore!<br>sarei potuto stare ore intere presso quell'abisso,<br>spingervi dentro pietre enormi e udirle urtare e rimbalzare<br>contro i suoi orridi fianchi: poi chinare il capo<br>giù in basso, e ascoltare finché i pesanti frammenti<br>sprofondassero con fioco tonfo in quel [[motifs/well\|pozzo]] sempre gemente,<br>che mai [[archetypes/pilgrim\|pellegrino]] assetato benedisse, cui mai<br>cosa vivente s'accostò — se non, per avventura,<br>qualche orbettino s'ingrassa sulla muffa viscida<br>proprio al suo orlo. |  
+| ORDONIO | Sei più codardo adesso? |  
+| ISIDORE | Chiamate codardo chi teme il suo simile!<br>Io non [[concepts/fear\|temo]] l'uomo — ma questa caverna disumana,<br>sarebbe troppo trista [[motifs/prison\|prigione]], casa di pena per i folletti.<br>Inoltre, (sorriderete, signore) ma è pur vero,<br>la scorsa [[motifs/night\|notte]] il mio [[motifs/sleep\|sonno]] fu duramente ossessionato<br>da ciò ch'era passato fra noi al mattino.<br>Oh [[motifs/sleep\|sonno]] d'orrori! Ora inseguito e fissato<br>da forme sì orrende che sfidano il ricordo —<br>ora nulla vedendo e nulla immaginando,<br>ma solo avendo timore — soffocato di [[concepts/fear\|paura]]!<br>Mentre ogni forma bella o familiare<br>aveva strano potere di spirar terrore intorno a me!<br>Vi vidi in mille forme paurose;<br>e, supplico vostra signoria di credermi,<br>nel mio ultimo sogno —— |  
+| ORDONIO | [[motifs/well\|Ebbene]]? |  
+| ISIDORE | Ero nell'atto<br>di precipitare in quell'abisso, quando Alhadra<br>mi destò: udì battermi il cuore. |  
+| ORDONIO | Assai strano!<br>Eri stato qui prima? |  
+| ISIDORE | Mai, signore!<br>Ma i miei occhi non lo vedono ora più chiaro<br>di quanto in sogno lo vidi — proprio quell'abisso. |  
+| ORDONIO | Non so perché sia così! eppure è — |  
+| ISIDORE | Che cosa è, signore? |  
+| ORDONIO | Aborrente dalla nostra [[concepts/nature\|natura]]<br>uccidere un uomo. — |  
+| ISIDORE | Salvo in [[concepts/self\|propria]] difesa. |  
+| ORDONIO | Ebbene, è il mio caso; eppure l'[[motifs/soul\|anima]] ne rifugge —<br>così è con me, almeno. Ma voi, forse,<br>avete sentimenti più duri? |  
+| ISIDORE | Qualcosa vi turba.<br>Come potrò servirvi? Per la vita che mi deste,<br>per tutto ciò che rende quella vita preziosa a me,<br>mia moglie, i miei bimbi, il mio [[concepts/honour\|onore]], vi giuro,<br>nominatela, e mi affannerò a compier la cosa,<br>se è [[archetypes/innocent\|innocente]]! Ma questo, signore!<br>non è luogo dove potreste perpetrare,<br>no, né proporre una cosa malvagia. La tenebra,<br>quando a dieci passi sappiamo che v'è lieta luce di luna,<br>raccoglie la [[concepts/guilt\|colpa]], e l'accalca intorno al cuore.<br>Dev'essere [[archetypes/innocent\|innocente]]. |  
+| ORDONIO | Sii tu stesso giudice.<br>Uno di nostra famiglia conosceva [[motifs/well\|bene]] questo luogo. |  
+| ISIDORE | Chi? quando? signore? |  
+| ORDONIO | Che importa, chi o quando?<br>Appendi la tua torcia — ti narrerò la sua storia. |  
+| *(didascalia)* | Appendono le loro torce a qualche sporgenza della caverna. |  
+| ORDONIO | Era un uomo diverso dagli altri uomini,<br>e li disprezzava, pur riverendo sé stesso. |  
+| ISIDORE | *(a parte)* Lui? Lui disprezzava? Tu parli di te stesso!<br>Sto in guardia, però: nessuna sorpresa. |  
+| *(didascalia)* | Poi a ORDONIO. |  
+| ISIDORE | Come, era pazzo? |  
+| ORDONIO | Tutti gli uomini gli parevan pazzi!<br>La [[concepts/nature\|natura]] l'aveva fatto per qualche altro pianeta,<br>e n'aveva pigiato l'[[motifs/soul\|anima]] in forma umana<br>per caso o per malizia. In questo mondo<br>non trovò compagno degno. |  
+| ISIDORE | *(a parte)* Di sé stesso egli parla.<br>Ahimè! povero misero!<br>I pazzi son per lo più superbi. |  
+| ORDONIO | Camminava solo,<br>e pensieri [[characters/phantom\|fantasmi]] non cercati lo turbavano.<br>Qualcosa dentro adombrava di continuo<br>tutte le possibilità; e con queste ombre<br>la sua mente amoreggiava. Una volta, così accadde,<br>una fantasia lo traversò più selvaggia dell'altre:<br>a questa in cupo mormorio e a voce bassa<br>diede parola, come taluni parlano nel [[motifs/sleep\|sonno]]:<br>l'uomo che l'udì. —<br>Perché ti sei voltato intorno? |  
+| ISIDORE | Ho un ciarliero di tre anni, signore!<br>In [[concepts/truth\|verità]] è il mio tesoro. Mentre uscivo<br>fuor dalla mia porta, gemette nel [[motifs/sleep\|sonno]] —<br>ma sto ciarlando a vuoto — vi prego, proseguite!<br>E che fece quest'uomo? |  
+| ORDONIO | Con questa mano umana<br>diede sostanza e realtà<br>a quella selvaggia fantasia d'una cosa possibile. —<br>[[motifs/well\|Bene]] fu fatto!<br>Perché ciarli di [[concepts/guilt\|colpa]]?<br>L'atto fu compiuto, e passò via liscio.<br>E colui la cui storia ti narro — mi ascolti tu? |  
+| ISIDORE | Vorrei, signore, che foste presso il mio [[motifs/fire\|fuoco]] domestico,<br>vi ascolterei con occhio bramoso,<br>benché cominciaste questa fosca storia a mezzanotte,<br>ma io ascolto davvero — proseguite, vi prego, signore. |  
+| ORDONIO | Dov'ero rimasto? |  
+| ISIDORE | Colui di cui narrate la storia — |  
+| ORDONIO | Contemplando ogni cosa con quieto disprezzo,<br>si domò a scopi di vita,<br>alle occupazioni e alle sembianze<br>degli uomini comuni — e tale sembrava!<br>Ma quello stesso agente troppo pronto — lui — |  
+| ISIDORE | Ah! che ne fu di lui, signore? |  
+| ORDONIO | Si rivelò un traditore,<br>tradì il segreto a un fratello-traditore,<br>e insieme ordirono una dannata trama<br>per braccarlo fino all'infamia e alla [[motifs/death\|morte]].<br>Che fece il Valdez? Sono fiero del nome<br>poiché egli osò farlo. — |  
+| *(didascalia)* | ORDONIO afferra la sua spada, e si scosta da ISIDORE, poi dopo una pausa ritorna. |  
+| ORDONIO | Le nostre torce ardono fiocamente. |  
+| ISIDORE | Una fosca storia oscuramente conclusa! No, signore!<br>Dite ciò ch'egli fece. |  
+| ORDONIO | Ciò che la sua saggezza gli suggerì —<br>fece che il traditore l'incontrasse in questa caverna,<br>e qui uccise il traditore. |  
+| ISIDORE | No! lo [[archetypes/fool\|stolto]]!<br>Non aveva senno bastante per esser traditore.<br>Povero scarafaggio dagli occhi ottusi! non aver previsto<br>che chi t'ingannò con una menzogna piagnucolata<br>per far uccidere il proprio fratello, non si sarebbe fatto scrupolo<br>d'uccider te, se mai la sua [[concepts/guilt\|colpa]] si facesse gelosa,<br>e potesse assalirti di soppiatto nel buio! |  
+| ORDONIO | Tu allora non saresti venuto, se — |  
+| ISIDORE | Oh sì, signore!<br>L'avrei affrontato armato, e sgomentato il codardo. |  
+| *(didascalia)* | ISIDORE getta via il mantello; si mostra armato, e sguaina la spada. |  
+| ORDONIO | Ora questo è eccellente e scalda il [[motifs/blood\|sangue]]!<br>Il mio cuore si ritraeva, mi ritraeva indietro<br>con deboli e femminei scrupoli. Ora la mia vendetta<br>m'accenna avanti con piglio di guerriero,<br>e reclama quella vita, di cui la mia pietà la derubò —<br>Ora t'ucciderò, ingrato servo, e lo conterò<br>d'ora innanzi fra i miei pensieri consolanti. |  
+| ISIDORE | E tutti i miei piccoli orfani di padre —<br>Muori tu per primo. |  
+| *(didascalia)* | Combattono, ORDONIO disarma ISIDORE, e nel disarmarlo ne scaglia la spada su per quell'anfratto davanti al quale stavano. ISIDORE si precipita nell'anfratto con la sua torcia, ORDONIO lo segue; un alto grido di «Traditore! [[archetypes/monster\|Mostro]]!» s'ode dalla caverna, e in un attimo ORDONIO ritorna solo. |  
+| ORDONIO | L'ho scagliato giù nell'abisso! tradimento per tradimento.<br>Ne aveva sognato: d'ora innanzi ch'egli [[motifs/sleep\|dorma]],<br>un [[motifs/sleep\|sonno]] senza sogni, dal quale nessuna moglie può destarlo.<br>Anche il suo sogno s'è avverato — Ora tocca al suo amico. |  
+| *(didascalia)* | Esce ORDONIO. |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_2" data-title="REMORSE — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/childhood,motif/dawn,motif/love,motif/moon,motif/nature,motif/night,motif/rose,motif/sleep,motif/tears,motif/well,concept/beauty,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/madness,concept/nature,concept/revenge,concept/truth,concept/wonder,histref/inquisition,setting/castle,setting/court,character/nurse"></span>
@@ -569,6 +1063,33 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | TERESA | And this majestic Moor, seems he not one<br>Who oft and long communing with my Alvar<br>Hath drunk in kindred lustre from his presence,<br>And guides me to him with reflected light?<br>What if in yon dark dungeon coward treachery<br>Be groping for him with envenomed poniard —<br>Hence, womanish fears, traitors to [[motifs/love\|love]] and duty —<br>I'll free him. |
 | *(didascalia)* | [Exit TERESA. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Il [[settings/court\|cortile]] interno d'un [[settings/castle\|castello]] saraceno o gotico, con visibile il cancello di ferro d'una segreta. |  
+| TERESA | Superstizione che agghiacci il cuore! tu sai velare<br>persino l'occhio della pietà con la sua stessa lacrima gelata.<br>Invano insisto sulle torture che l'attendono;<br>persino Selma, venerata custode della mia [[motifs/childhood\|infanzia]],<br>mia seconda madre, mi chiude il cuore in faccia!<br>[[motifs/well\|Bene]], le ho strappato ciò che più importa<br>al bisogno presente, questo segreto della segreta<br>noto a lei sola. — Un Moro! un Mago!<br>No, io ho [[concepts/faith\|fede]] che la [[concepts/nature\|natura]] mai permise<br>a viltà di portare forma sì nobile. È vero,<br>non [[concepts/doubt\|dubito]] che Ordonio l'avesse subornato<br>a recitar qualche parte in qualche empia frode;<br>altrettanto poco [[concepts/doubt\|dubito]] che per non so quale scopo<br>egli abbia beffato il suo subornatore, l'abbia atterrito,<br>e che Ordonio mediti [[concepts/revenge\|vendetta]]!<br>Ma la mia risoluzione è ferma! io stessa lo salverò,<br>e saprò se per avventura sapesse qualcosa d'Alvar. |  
+| *(didascalia)* | Entra VALDEZ. |  
+| VALDEZ | Ancora triste? — e fissi la porta massiccia<br>di quella truce segreta che mai vedesti,<br>se non come, forse, la tua fantasia infantile la foggiò<br>quando la [[characters/nurse\|nutrice]] acquetava i tuoi pianti con vane minacce.<br>Ora in mia [[concepts/faith\|fede]], fanciulla! questo mago t'ossessiona!<br>Uomo maestoso, ed eloquente e tenero —<br>chi dunque dee [[concepts/wonder\|stupirsi]] se una dama sospira<br>al solo pensiero di ciò che questi arcigni domenicani — |  
+| TERESA | L'orrore dei loro spettrali supplizi<br>sovrasta a tal segno l'altezza d'ogni compassione,<br>che troppo poco sentirei per il mio nemico,<br>se fosse possibile ch'io sentissi di più,<br>anche se i più cari abitatori della nostra casa<br>fossero dannati a patirli. Che tali cose esistano — |  
+| VALDEZ | Taci, donna sconsiderata! |  
+| TERESA | No, ciò desta in me<br>più che spirito di donna. |  
+| VALDEZ | Basta con questo —<br>e se Monviedro o le sue creature ci udissero!<br>Non oso ascoltarti. |  
+| TERESA | Mio onorato signore,<br>queste eran le lezioni del mio Alvar, e ogni volta<br>che mi chino sul suo ritratto, le ripeto,<br>quasi a dar voce alla muta immagine. |  
+| VALDEZ | —— Abbiamo pianto Alvar.<br>Della sua trista sorte non resta ormai [[concepts/doubt\|dubbio]].<br>Non ho io altro figlio? |  
+| TERESA | Non parlate di lui!<br>Quella vile impostura! Quel dipinto misterioso!<br>Se questa è [[concepts/madness\|follia]], devo sposare un pazzo?<br>E se non [[concepts/madness\|follia]], v'è mistero,<br>e [[concepts/guilt\|colpa]] s'appiatta dietro di esso. |  
+| VALDEZ | È questo [[motifs/well\|bene]]? |  
+| TERESA | Sì, è la [[concepts/truth\|verità]]: vedeste il suo volto?<br>Come rabbia, rimorso, e sdegno, e stupida [[concepts/fear\|paura]]<br>si scacciavano a vicenda con rapidi scambi?<br>Oh avessi davvero il potere del mago. ——<br>Evocherei davanti ai tuoi occhi l'immagine<br>del mio promesso Alvar, del tuo primogenito!<br>Il suo bel volto, la sua fronte regale,<br>i suoi teneri sorrisi, l'[[motifs/love\|amore]] in [[motifs/dawn\|aurora]] sulle labbra!<br>quella luce spirituale e quasi celeste<br>nel suo occhio imperioso — il suo piglio eroico,<br>araldica nativa della Virtù stessa! all'uomo<br>geniale, e caro al suo angelo custode.<br>Ogni volta ch'egli gioiva, come la gioia si spandeva<br>largamente intorno! e quando spesso con [[motifs/tears\|lacrime]] gonfie,<br>trapassate da lampi d'indignazione, egli piangeva<br>i torti dei martiri patrioti del Belgio,<br>oh, che dolore era quello — da esser invidiato dalla gioia,<br>o da contemplarsi innamorati!<br>O padre mio!<br>Rammenta quel mattino in cui c'inginocchiammo insieme,<br>e tu benedicesti i nostri amori! Oh anche ora,<br>anche ora, padre mio! all'occhio della mente presentalo,<br>come in quel momento egli si [[motifs/rose\|levò]] davanti a te,<br>maestoso, con sguardo raggiante! Poni, poni accanto a lui<br>il fosco turbato volto d'Ordonio!<br>Poi comandami (oh tu non potresti) comandami di volgermi<br>via da lui, gioia e trionfo della nostra specie!<br>per prendere in cambio quell'uomo tetro, che mai<br>solleva l'occhio da terra, se non per aggrottarsi. |  
+| VALDEZ | Donna ingrata! Ho cercato di soffocare<br>la collera d'un vecchio! non bastava<br>che tu abbia reso mio figlio un uomo senza pace,<br>bandita la sua salute, e mezzo scardinata la ragione;<br>ma vuoi anche insultarlo col sospetto?<br>e affannarti a distruggerne l'[[concepts/honour\|onore]]? Sono vecchio,<br>un vecchio senza conforto! |  
+| TERESA | O dolore! udire<br>odiose preghiere da una voce che s'[[motifs/love\|ama]]! |  
+| *(didascalia)* | Entra un contadino e presenta una lettera a VALDEZ. |  
+| VALDEZ | (leggendola). «Non osa avventurarsi fin qui!» Ebbene, che può significare?<br>«per timore che i Familiari dell'[[historical-references/inquisition\|Inquisizione]],<br>che vigilano intorno alle mie porte, non l'intercettino;<br>ma mi scongiura che senza indugio<br>io m'affretti da lui — per il mio stesso bene mi supplica<br>di guardar dal pericolo colui che tengo prigioniero —<br>rivelerà un segreto, la cui gioia<br>supererà persino il dolore.» — Ebbene, che può essere?<br>Forse è qualche stratagemma moresco,<br>per aver in me un ostaggio della sua salvezza.<br>No, tanto non osano! Olà! si radunino i miei servi!<br>Andrò colà — che s'armino. |  
+| *(didascalia)* | [Esce VALDEZ. |  
+| TERESA (sola) | La [[motifs/moon\|luna]] è alta in cielo, e tutto tace.<br>Pure, ascoltatrice ansiosa! m'è parso d'udire<br>un basso tuono sordo brontolare per la [[motifs/night\|notte]],<br>come fosse un gigante adirato nel suo [[motifs/sleep\|sonno]].<br>O Alvar! Alvar! potessero tornare<br>quei giorni beati che imitavano il cielo,<br>quando noi due solevamo passeggiare a sera;<br>quando non vedevamo che [[concepts/beauty\|bellezza]]; quando udivamo<br>la voce di quell'Onnipotente che ci amava<br>in ogni brezza che spirava, e onda che mormorava!<br>Oh noi ascoltammo, finché il piacere sublimato<br>mezzo assunse il volto del dolore,<br>e il profondo sospiro parve sollevare un peso<br>di beatitudine, che premeva troppo grave sul cuore. |  
+| *(didascalia)* | [Una pausa. |  
+| TERESA | E questo maestoso Moro, non par egli uno<br>che spesso e a lungo conversando col mio Alvar<br>n'abbia bevuto dalla presenza un affine splendore,<br>e mi guidi a lui con luce riflessa?<br>E se in quella buia segreta vile tradimento<br>lo va cercando a tastoni con pugnale avvelenato —<br>Via, femminei timori, traditori dell'[[motifs/love\|amore]] e del dovere —<br>Lo libererò. |  
+| *(didascalia)* | [Esce TERESA. |
 
 
 
@@ -609,6 +1130,42 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | ALL | Away! away! |
 | *(didascalia)* | She rushes off, all following her. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Le [[settings/mountains\|montagne]] al chiaro di luna. ALHADRA sola, in veste moresca. |  
+| ALHADRA | Quei boschi a picco, che [[motifs/autumn\|l'autunno]] tocca<br>e paion fiorire in tinte di [[motifs/fire\|fuoco]] e d'oro,<br>i boschi simili a fiori, bellissimi nel [[motifs/decay\|disfarsi]],<br>le molte nubi, il mare, la roccia, le sabbie<br>giacciono nel tacito lunare: e il gufo,<br>(strano! stranissimo!) solo l'assiuolo veglia!<br>Sola voce, solo occhio di tanta [[concepts/beauty\|bellezza]]!<br>Se pure non stride il suo stridulo canto<br>a un branco di lupi in agguato, assetati di [[motifs/blood\|sangue]].<br>Perché son tale anch'io? — Dove sono quegli uomini?<br>Ho bisogno del volto umano e del suo affetto,<br>per scacciare da me questo disprezzo d'ogni cosa,<br>che spegne la mia [[concepts/revenge\|vendetta]]. Oh, volesse Allah<br>che il corvo o il gabbiano fossero eletti<br>a portarmi il cibo! o piuttosto che l'[[motifs/soul\|anima]] mia<br>bevesse la vita dall'aria universale!<br>Sarebbe sorte divina, su un piccolo schifo,<br>lungo di qualche Oceano la sconfinata [[concepts/solitude\|solitudine]],<br>galleggiare per sempre con incurante rotta<br>e credersi il solo essere vivo al mondo!<br>I miei figli! — I figli d'Isidoro! — Figlio di Valdez,<br>questo ha rinervato il mio braccio. Vile [[archetypes/tyrant\|tiranno]]!<br>Stordire d'angoscia il cuore d'una donna<br>finché scordasse — perfino d'essere madre! |  
+| *(didascalia)* | Fissa gli occhi a terra. Poi scendono a uno a uno, da diverse parti della scena, numerosi Moreschi, tutti in vesti e armature moresche. Formano un cerchio a distanza intorno ad ALHADRA, e restano in silenzio finché entra NAOMI. |  
+| NAOMI | Donna! Allah e il [[archetypes/prophet\|Profeta]] ti benedicano!<br>Al tuo richiamo abbiamo obbedito. Dov'è il nostro capo?<br>E perché imponesti queste vesti moresche? |  
+| ALHADRA | *(alzando gli occhi e girando lo sguardo sul cerchio)*<br>Guerrieri di Maometto! fedeli nella battaglia!<br>Miei compatrioti! Venite pronti a compiere<br>un'opera d'onore? E vorreste compierla<br>in abito di schiavi? Maledette quelle vesti cristiane!<br>Sono stregate: e chiunque le indossi,<br>gli inaridisce il braccio, gli si strugge il cuore,<br>e gli si ammolliscono le ossa. |  
+| NAOMI | Dov'è Isidoro? |  
+| ALHADRA | Questa [[motifs/night\|notte]] uscii dalla mia casa, e lasciai<br>i suoi figli tutti addormentati: ed egli viveva!<br>E tornai, e li trovai ancora addormentati,<br>ma egli era perito —— |  
+| TUTTI I MORESCHI | Perito? |  
+| ALHADRA | Era perito!<br>[[motifs/sleep\|Dormite]] pure, poveri bimbi! nessuno di voi sa<br>d'essere senza padre — desolato [[archetypes/orphan\|orfano]]!<br>Perché svegliarli? Può il braccio d'un infante<br>[[concepts/revenge\|vendicare]] il suo assassinio? |  
+| UN MORESCO | *(a un altro)* Ha detto: assassinio? |  
+| NAOMI | Assassinio? Non è morto ucciso? |  
+| ALHADRA | Ucciso da un cristiano! |  
+| *(didascalia)* | Tutti insieme sguainano le sciabole. |  
+| ALHADRA | *(a Naomi, che avanza dal cerchio)* Fratello di Zagri! getta via la tua spada;<br>questa è quella del tuo capo! |  
+| *(didascalia)* | Egli si fa avanti per prenderla. |  
+| ALHADRA | Osi tu riceverla?<br>Poiché ho giurato per Allah e per il [[archetypes/prophet\|Profeta]],<br>nessuna lacrima velerà questi occhi, né il cuore<br>di questa donna gemerà, finché non vegga quella spada<br>bagnata del vivo [[motifs/blood\|sangue]] del figlio di Valdez! |  
+| *(didascalia)* | Una pausa. |  
+| ALHADRA | Ordonio fu l'assassino del vostro capo! |  
+| NAOMI | Egli muore, per Allah! |  
+| TUTTI | *(inginocchiandosi)* Per Allah! |  
+| ALHADRA | Questa [[motifs/night\|notte]] il vostro capo si armò,<br>e via da me s'affrettò. Ma io lo seguii<br>a distanza, finché lo vidi entrare — là! |  
+| NAOMI | La caverna? |  
+| ALHADRA | Sì, la bocca di quella caverna.<br>Dopo un poco vidi il figlio di Valdez<br>passare di corsa con fiaccola fiammante; anch'egli entrò.<br>Vi fu un'altra e più lunga pausa;<br>e una volta mi parve d'udire un cozzare di spade!<br>E presto il figlio di Valdez riapparve:<br>scagliò la sua fiaccola verso la [[motifs/moon\|luna]] per gioco,<br>e sembrava lieto! Io stavo in ascolto,<br>impaziente del passo di mio marito! |  
+| NAOMI | Tu lo chiamasti? |  
+| ALHADRA | Strisciai dentro la caverna —<br>era buia e assai silente.<br>Che dicesti tu?<br>No! no! non osai chiamare, Isidoro,<br>per timore di non udire risposta! Per un breve tratto,<br>forse, perdetti ogni pensiero e [[motifs/memory\|memoria]]<br>di ciò per cui venivo! Dopo quella pausa,<br>o Cielo! udii un gemito, e lo seguii:<br>e ancora un altro gemito, che mi guidò<br>in uno strano recesso — e là c'era luce,<br>una luce orrenda! la sua fiaccola giaceva al suolo;<br>fioca ardeva la fiamma sull'orlo d'un abisso:<br>parlai; e mentre parlavo, un fioco gemito<br>venne da quell'abisso! era l'ultimo! il rantolo della sua [[motifs/death\|morte]]! |  
+| NAOMI | Confortala, Allah! |  
+| ALHADRA | Rimasi in un rapimento inimmaginabile<br>e in un'agonia che non si può ricordare,<br>ascoltando con orrida [[concepts/hope\|speranza]] d'udire un gemito!<br>Ma avevo udito l'ultimo: il rantolo della [[motifs/death\|morte]] di mio marito! |  
+| NAOMI | Presto! andiamo avanti. |  
+| ALHADRA | Guardai giù in fondo al baratro —<br>la vista m'era arrestata da uno sporgente [[forms/fragment\|frammento]]:<br>ed era macchiato di [[motifs/blood\|sangue]]. Allora per la prima volta gridai,<br>mi bruciarono le pupille, il cervello m'arse come [[motifs/fire\|fuoco]],<br>e tutte le gocce pendenti dalla volta madida<br>si mutarono in [[motifs/blood\|sangue]] — le vidi mutarsi in [[motifs/blood\|sangue]]!<br>E già mi gettavo furiosa giù nell'abisso,<br>quando sull'orlo opposto vidi la sua spada,<br>e diceva: Vendetta! — Maledetta la mia lingua!<br>La [[motifs/moon\|luna]] s'è mossa in Cielo, e io son qui,<br>ed egli non ha avuto vendetta! Isidoro!<br>Spirito d'Isidoro! il tuo assassino vive!<br>Via! via! |  
+| TUTTI | Via! via! |  
+| *(didascalia)* | Esce di corsa, tutti la seguono. |
 
 
 
@@ -752,3 +1309,144 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 | SELMA | My husband's father told it me,<br>Poor old Sesina — angels rest his [[motifs/soul\|soul]];<br>He was a woodman, and could fell and saw<br>With lusty arm. You know that huge round beam<br>Which props the hanging wall of the old chapel?<br>Beneath that tree, while yet it was a tree,<br>He found a baby wrapt in mosses, lined<br>With thistle-beards, and such small locks of wool<br>As hang on brambles. [[motifs/well\|Well]], he brought him [[motifs/home\|home]],<br>And reared him at the then Lord Valdez' cost.<br>And so the babe grew up a pretty boy,<br>A pretty boy, but most unteachable ——<br>And never learn'd a [[motifs/prayer\|prayer]], nor told a bead,<br>But knew the names of [[motifs/birds\|birds]], and mocked their notes,<br>And whistled, as he were a bird himself.<br>And all the [[motifs/autumn\|autumn]] 'twas his only play<br>To gather seeds of wild [[motifs/flowers\|flowers]], and to plant them<br>With earth and [[motifs/water\|water]] on the stumps of trees.<br>A Friar, who gathered simples in the wood,<br>A grey-haired man, he loved this little boy:<br>The boy loved him, and, when the friar taught him,<br>He soon could write with the pen; and from that [[motifs/time\|time]]<br>Lived chiefly at the convent or the [[settings/castle\|castle]].<br>So he became a rare and learned youth:<br>But O! poor wretch! he read, and read, and read,<br>Till his brain turned; and ere his twentieth year<br>He had unlawful thoughts of many things:<br>And though he prayed, he never loved to pray<br>With holy men, nor in a holy place.<br>But yet his speech, it was so soft and sweet,<br>The late Lord Valdez ne'er was wearied with him.<br>And once, as by the north side of the chapel<br>They stood together chained in deep discourse,<br>The earth heaved under them with such a groan,<br>That the wall tottered, and had [[motifs/well\|well]] nigh fallen<br>Right on their heads. My Lord was sorely frightened;<br>A fever seized him, and he made confession<br>Of all the heretical and lawless talk<br>Which brought this judgment: so the youth was seized,<br>And cast into that hole. My husband's father<br>Sobbed like a [[archetypes/child\|child]] — it almost broke his heart:<br>And once he was working near this dungeon,<br>He heard a voice distinctly; 'twas the youth's,<br>Who sung a doleful song about green fields,<br>How sweet it were on lake or wide savanna<br>To hunt for food, and be a naked man,<br>And wander up and down at liberty.<br>He always doted on the youth, and now<br>His [[motifs/love\|love]] grew desperate; and defying [[motifs/death\|death]],<br>He made that cunning entrance I described,<br>And the young man escaped. |
 | TERESA | 'Tis a sweet tale:<br>Such as would lull a listening [[archetypes/child\|child]] to [[motifs/sleep\|sleep]],<br>His rosy face besoiled with unwiped [[motifs/tears\|tears]].<br>And what became of him? |
 | SELMA | He went on shipboard<br>With those bold voyagers who made discovery<br>Of golden lands. Sesina's younger brother<br>Went likewise, and when he returned to Spain,<br>He told Sesina, that the poor mad youth,<br>Soon after they arrived in that new world,<br>In spite of his dissuasion, seized a boat,<br>And all alone set sail by silent moonlight<br>Up a great [[motifs/river\|river]], great as any sea,<br>And ne'er was heard of more: but 'tis supposed,<br>He lived and died among the savage men. |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |  
+|---|---|  
+| *(didascalia)* | Una segreta. |  
+| *(didascalia)* | ALVAR (solo) si leva lentamente da un giaciglio di giunchi. |  
+| ALVAR | E questo luogo i miei avi lo fecero per l'uomo!<br>Questo è il metodo del nostro [[motifs/love\|amore]] e del nostro senno<br>verso ogni povero fratello che ci offende —<br>forse [[archetypes/innocent\|innocente]] — e se pure fosse reo?<br>È questa l'unica cura? Dio misericordioso!<br>Ogni poro, ogni naturale sfogo inaridito<br>dall'ignoranza e dall'arida [[concepts/poverty\|povertà]],<br>le sue energie rifluiscono sopra il suo cuore,<br>e ristagnano e imputridiscono, finché, mutate in [[motifs/poison\|veleno]],<br>gli erompono addosso come immonda piaga di peste!<br>Allora chiamiamo i nostri viziati ciarlatani:<br>ed ecco la loro cura migliore! sconsolata<br>e derelitta [[concepts/solitude\|solitudine]], gemiti e [[motifs/tears\|lacrime]],<br>e volti selvaggi, all'ora dei catenacci,<br>visti tra il fumo e i vapori della sua segreta<br>al lugubre crepuscolo della lampada! Così egli giace<br>cinto dal male, finché la sua stessa [[motifs/soul\|anima]]<br>si sforma dell'essenza, senza speranza deforme<br>per la vista di sempre nuova deformità!<br>Con altri uffici tu, o [[concepts/nature\|Natura]],<br>risani il tuo errante e infermo [[archetypes/child\|figlio]]:<br>tu riversi su lui i tuoi molli influssi,<br>le tinte solari, le belle forme, i dolci respiri;<br>le tue melodie di boschi, di venti e d'acque!<br>Finché egli s'intenerisce, e più non sa patire<br>d'essere una cosa stridula e dissonante<br>in mezzo a questa universale [[motifs/dance\|danza]] e cantilena;<br>ma, prorompendo in [[motifs/tears\|lacrime]], ritrova la sua via,<br>lo spirito adirato risanato e accordato<br>dal benigno tocco dell'[[motifs/love\|amore]] e della [[concepts/beauty\|bellezza]].<br>Ho freddo e sono stanco! Quel rozzo banco di pietra,<br>in quell'angolo buio, è l'unico riposo!<br>Ma la mente che approva [[concepts/self\|sé]] è luce di sé medesima,<br>e il miglior calore della vita irraggia dal cuore<br>dove cova l'[[motifs/love\|amore]], e un onesto proposito. |  
+| *(didascalia)* | [Si ritira fuori di vista. |  
+| *(didascalia)* | Entra TERESA con una candela. |  
+| TERESA | M'ha agghiacciato la vita stessa —— la mia stessa voce mi spaura;<br>eppure, quando non l'odo, mi par di perdere<br>la sostanza del mio essere — la stretta più salda<br>manda al di dentro fioca prova ch'io sono.<br>Cerco d'ingannare l'eco. — Come i mezzi suoni<br>si fondono con questa luce strozzata! Non è qui — |  
+| *(didascalia)* | [Guardandosi attorno. |  
+| TERESA | Oh, un volto umano qui — solo vedere<br>un volto umano qui che mi sostenga. — [[concepts/courage\|Coraggio]]!<br>Non è che la mia [[concepts/fear\|paura]]! La vita che è in me<br>cala e vacilla come questo cono di fiamma,<br>oltre il quale a stento oso guardare! Oh!<br>E se svengo? Se questa tana disumana fosse<br>a un tempo il mio letto di [[motifs/death\|morte]] e il mio sepolcro? |  
+| *(didascalia)* | [Manda un debole grido mentre ALVAR esce dal recesso. |  
+| *(didascalia)* | Alvar (si precipita verso di lei e la sorregge mentre sta cadendo). |  
+| ALVAR | O cielo pietoso! è lei, è Teresa!<br>Mi rivelerò? L'urto improvviso<br>del rapimento spegnerà questa scintilla di vita,<br>e la gioia compirà ciò che il terrore ha iniziato.<br>O voi, battiti impetuosi qui dentro, quietatevi!<br>Teresa, dilettissima! pallida, pallida, e fredda!<br>Il suo polso trema! Teresa! mia Teresa! |  
+| TERESA | *(riprendendosi)* Udii una voce; ma spesso nei miei [[motifs/dreams\|sogni]]<br>odo quella voce! e mi desto e tento — e tento —<br>d'udirla desta! ma non l'ho mai potuto —<br>ed è così anche ora — proprio così! [[motifs/well\|Ebbene]]! egli è morto —<br>ucciso, forse! e io mi sento mancare, e sento<br>come se non fosse cosa penosa morire! |  
+| ALVAR | Non lo credere, dolce fanciulla! Non lo credere,<br>donna amata! Fu una vile impostura<br>ordita da un miserabile colpevole. |  
+| TERESA | Ah! Chi sei tu? |  
+| ALVAR | Subornato da suo fratello — |  
+| TERESA | L'hai ucciso tu?<br>E ora te ne penti? Povero uomo turbato,<br>io ti perdono, e il Cielo ti perdoni! |  
+| ALVAR | Ordonio — egli — |  
+| TERESA | Se tu l'uccidesti —<br>il suo spirito, sempre al trono di Dio,<br>chiede [[concepts/mercy\|pietà]] per te: prega [[concepts/mercy\|pietà]] per te,<br>con [[motifs/tears\|lacrime]] in Cielo! |  
+| ALVAR | Alvar non fu ucciso.<br>Calmati! Calmati, dolce fanciulla! |  
+| TERESA | No, no, ma dimmi!      [Una pausa.<br>Oh, di nuovo l'ho perduto!<br>Questo sordo confuso [[motifs/pain\|dolore]] —  [Una pausa.<br>Uomo misterioso!<br>Mi pare di non poterti [[concepts/fear\|temere]]: ché il tuo occhio<br>nuota d'[[motifs/love\|amore]] e di pietà — [[motifs/well\|Ebbene]]! Ordonio —<br>Oh, cuore mio presago! Ed egli ti subornò,<br>e tu gli risparmiasti la vita? Piovano su te benedizioni<br>tante quante le gocce due volte contate<br>nel tenero fedele cuore della sua Teresa! |  
+| ALVAR | Non posso più reggere. Il mago moresco<br>non esiste che nella tinta sul suo volto.<br>Quel ritratto — |  
+| TERESA | Ah! parla, parla! |  
+| ALVAR | Amata Teresa!<br>Diceva solo metà della [[concepts/truth\|verità]]. Oh, questo ritratto<br>dica tutto — che Alvar vive — che egli è qui!<br>Il tuo tanto ingannato ma sempre fedele Alvar. |  
+| *(didascalia)* | [Si toglie dal collo il ritratto di lei e glielo porge. |  
+| TERESA | *(ricevendo il ritratto)* Lo stesso — è lo stesso! Ah!<br>Chi sei tu?<br>No, io ti chiamerò Alvar!    [Gli si getta al collo. |  
+| ALVAR | O gioia ineffabile!<br>Ma odi! un suono come di sbarre rimosse<br>alla porta esterna della segreta. Per un breve, breve tratto<br>nasconditi, [[motifs/love\|amore]] mio! È Ordonio.<br>Per l'[[concepts/honour\|onore]] della nostra stirpe, per il nostro caro padre;<br>oh, e per lui stesso (è pur sempre mio fratello)<br>lascia ch'io lo richiami alla sua più nobile [[concepts/nature\|natura]],<br>ch'egli si desti come da un sogno d'assassinio!<br>Oh, lascia ch'io lo riconcilii con se stesso,<br>apra la sacra sorgente delle [[motifs/tears\|lacrime]] penitenti,<br>e sia ancora una volta il suo amato Alvar. |  
+| TERESA | O mio tutto virtuoso [[motifs/love\|amore]]! [[concepts/fear\|Temo]] di lasciarti<br>con quell'uomo ostinato. |  
+| ALVAR | Tu non mi lasci!<br>Solo per poco ritirati nel buio:<br>oh, potesse la mia gioia spandere il suo sole intorno a te! |  
+| TERESA | Il suono della tua voce sarà la mia musica!<br>Alvar! mio Alvar! son certa di tenerti?<br>Non è un sogno? te fra le mie braccia, mio Alvar!    [Esce. |  
+| *(didascalia)* | [Un rumore alla porta della segreta. Si apre, ed entra ORDONIO, con un calice in mano. |  
+| ORDONIO | Salve, potente mago! nel mio umore più gaio<br>versai una libagione al vecchio Plutone,<br>e mentre colmavo la coppa, pensai a te.<br>Hai cospirato contro la mia vita e il mio [[concepts/honour\|onore]],<br>m'hai turpemente ingannato; eppure non ti odio.<br>Perché dovrei odiarti? questo nostro mondo<br>non è che una pozza in una [[motifs/storm\|tempesta]] di pioggia,<br>e noi le bolle d'aria che corrono su e giù,<br>e giostrano e s'affrontano in lieto torneo;<br>e quando una bolla urta contro un'altra,<br>la più debole per forza si rompe. |  
+| ALVAR | Io vedo il tuo cuore!<br>C'è un lampo spaventoso nel tuo occhio<br>che ti tradisce. Uomo torturato di dentro,<br>questa è la gozzoviglia d'un'angoscia ubriaca,<br>che vorrebbe deridere via la fitta della [[concepts/guilt\|colpa]],<br>e soffocare ogni umano sentire. |  
+| ORDONIO | Sentire! sentire!<br>La [[motifs/death\|morte]] d'un uomo — lo scoppio d'una bolla —<br>è vero, non so singhiozzare per tali sventure;<br>ma il languore, il freddo e la fame — maledetto io sia<br>se mai volontariamente li inflissi!<br>Su, prendi la bevanda; questo luogo gelido la esige. |  
+| *(didascalia)* | [ORDONIO porge il calice. |  
+| ALVAR | Quell'insetto sul muro,<br>che muove in qua e in là le sue cento membra,<br>fosse pure un balocco di mera arte meccanica,<br>sarebbe cosa infinitamente curiosa!<br>Ma ha vita, Ordonio! vita, godimento!<br>e per la potenza della sua miracolosa volontà<br>regge tutti i moti complessi del suo corpo<br>infallibilmente verso fini di piacere!<br>Vedessi quell'insetto sull'orlo di questo calice,<br>lo toglierei di là con ansiosa pietà! |  
+| ORDONIO | Che vuoi dire? |  
+| ALVAR | C'è del [[motifs/poison\|veleno]] nel vino. |  
+| ORDONIO | Hai indovinato; c'è del [[motifs/poison\|veleno]] nel vino.<br>C'è del [[motifs/poison\|veleno]] — chi di noi due lo berrà?<br>Ché uno di noi deve morire! |  
+| ALVAR | Chi credi ch'io sia? |  
+| ORDONIO | Il complice e l'amico giurato d'Isidoro. |  
+| ALVAR | Non lo conosco.<br>Eppure mi pare d'aver udito il nome poco fa.<br>Intende il marito della donna moresca?<br>Isidoro? Isidoro? |  
+| ORDONIO | Bene! bene! quella menzogna! per il cielo, m'ha ridato forza.<br>Ora sono il tuo padrone! — [[archetypes/villain\|Furfante]]! tu lo berrai,<br>o morrai d'una [[motifs/death\|morte]] più amara. |  
+| ALVAR | Quale strana pozione<br>hai trovato per appagare le tue paure,<br>e narcotizzarle in un [[motifs/sleep\|sonno]] innaturale? |  
+| *(didascalia)* | [ALVAR prende il calice e lo getta a terra. |  
+| ALVAR | Il mio padrone! |  
+| ORDONIO | Tu, ciarlatano! |  
+| ALVAR | Ciarlatano e [[archetypes/villain\|furfante]]!<br>E tu che sei, dunque? Vergogna, rinfodera la spada!<br>A che giova un'arma in un braccio inaridito?<br>Fisso l'occhio su te, e tu tremi!<br>Parlo, e la [[concepts/fear\|paura]] e lo [[concepts/wonder\|stupore]] schiacciano la tua rabbia,<br>e la mutano in immobile smarrimento!<br>Cieco adoratore di [[concepts/self\|te stesso]]! il tuo [[concepts/pride\|orgoglio]], la tua astuzia,<br>la tua [[concepts/faith\|fede]] nell'universale scelleraggine,<br>i tuoi vacui sofismi, il tuo finto disprezzo<br>per tutti i tuoi fratelli umani — vergogna su di essi!<br>Che hanno fatto per te? t'hanno dato la pace?<br>T'hanno guarito dal sussultare nel [[motifs/sleep\|sonno]]? o reso<br>gradito il buio quando ti desti a mezzanotte?<br>Sei felice quando sei solo? Sai camminare da te<br>con passo uguale e quieta serenità?<br>Eppure, eppure puoi ancora salvarti —— |  
+| ORDONIO | Salvarmi? salvarmi? |  
+| ALVAR | Una fitta!<br>Potessi suscitare una fitta di vero rimorso! |  
+| ORDONIO | Mi parlò dei bimbi che cinguettavano con lui.<br>I suoi piccoli orfani di padre! rimorso! rimorso!<br>Dove hai preso quella parola da [[archetypes/fool\|stolto]]? Maledetto il rimorso!<br>Può restituire i morti, o ricomporre<br>un [[concepts/body\|corpo]] straziato? straziato — sfracellato in atomi!<br>Non tutte le benedizioni d'una schiera d'angeli<br>possono spazzar via la maledizione d'una vedova desolata!<br>E se pure versassi il [[motifs/blood\|sangue]] del tuo cuore in espiazione,<br>non peserebbe contro la lacrima d'un [[archetypes/orphan\|orfano]]! |  
+| ALVAR | Ma Alvar —— |  
+| ORDONIO | Ah! ti si strozza in gola,<br>persino a te; eppure ti prego, dillo per intero.<br>Ancora Alvar! — Alvar! — urlalo nel mio orecchio!<br>Ammucchialo come carboni di [[motifs/fire\|fuoco]] sul mio cuore,<br>e scagliamelo sibilante attraverso il cervello! |  
+| ALVAR | Ahimè!<br>Quel giorno in cui balzasti dalla roccia<br>tra le onde, e afferrasti il fratello che affondava,<br>e lo portasti a riva; allora, figlio di Valdez,<br>com'era dolce e musicale il nome di Alvar!<br>Allora, allora, Ordonio, egli t'era caro,<br>e tu gli eri caro: solo il cielo sa<br>quanto caro tu gli fossi! Perché l'odiasti!<br>O cielo! come ti cadrebbe al collo,<br>piangendo [[concepts/forgiveness\|perdono]]! |  
+| ORDONIO | Spirito del morto!<br>Mi pare di conoscerti! ah! il cervello m'impazza<br>dei suoi stessi [[motifs/dreams\|sogni]]! — via — via, fantastica [[archetypes/shadow\|ombra]]! |  
+| ALVAR | Vorrei dirti ciò che sono, ma non oso! |  
+| ORDONIO | Impostore! [[archetypes/villain\|furfante]]! traditore! chiunque tu sia —<br>io ti [[concepts/fear\|temo]], uomo! |  
+| TERESA | *(precipitandosi fuori e gettandosi al collo di Alvar)* Ordonio! è<br>tuo fratello! |  
+| *(didascalia)* | [ORDONIO si avventa su ALVAR con la spada. TERESA si getta su ORDONIO e gli ferma il braccio. |  
+| TERESA | Fermati, folle, fermati! |  
+| ALVAR | Dunque questo sottile travestimento nasconde<br>Alvar ai tuoi occhi impenetrabilmente? La fatica, le ferite dolorose<br>e la lunga [[concepts/imprisonment\|prigionia]] in segrete malsane<br>hanno forse guastato ogni tratto e lineamento<br>di ciò che fui! Ma soprattutto, soprattutto, fratello,<br>la mia angoscia per la tua [[concepts/guilt\|colpa]]!<br>Ordonio — Fratello!<br>No, no, tu mi abbraccerai. |  
+| ORDONIO | *(indietreggiando e fissando Alvar)* Non mi toccare!<br>Non toccare l'immondezza, Alvar! Io voglio morire. |  
+| *(didascalia)* | [Tenta di gettarsi sulla propria spada, ALVAR e TERESA glielo impediscono. |  
+| ALVAR | Troveremo modo di salvare il tuo [[concepts/honour\|onore]]. Vivi,<br>oh vivi, Ordonio! per amore di nostro padre!<br>Risparmia i suoi capelli bianchi! |  
+| TERESA | E tu puoi ancora essere felice. |  
+| ORDONIO | O orrore! neppure mille anni in cielo<br>potrebbero ricomporre questo cuore miserabile,<br>o renderlo capace d'una sola breve gioia!<br>Vivere! vivere! Ma sì! Sarebbe [[motifs/well\|bene]] vivere con voi:<br>ché conviene forse che un [[archetypes/villain\|furfante]] sia superbo?<br>Fratello mio! m'inginocchierò a te, fratello mio!       [Inginocchiandosi.<br>Perdonami, Alvar! —— Maledicimi col [[concepts/forgiveness\|perdono]]! |  
+| ALVAR | Richiama la tua [[motifs/soul\|anima]], Ordonio, e guardati intorno!<br>Ora è il [[motifs/time\|tempo]] della [[concepts/greatness\|grandezza]]! Pensa che il cielo — |  
+| TERESA | Oh, guarda il suo occhio! non ode ciò che dici. |  
+| ORDONIO | Sì, guarda il suo occhio! c'è un incanto in esso!<br>Dicevi di non conoscerlo — Eccolo, è lui!<br>Mi viene addosso! |  
+| ALVAR | Risana, oh risanalo, cielo! |  
+| ORDONIO | Sempre più vicino! e io non posso muovermi!<br>Nessuno udrà questi gemiti soffocati, e mi desterà?<br>Sarebbe morto per salvarmi, e io l'ho ucciso —<br>un marito e un padre! — |  
+| TERESA | Qualche segreto [[motifs/poison\|veleno]]<br>gli beve gli spiriti! |  
+| ORDONIO | Che l'eterna giustizia<br>prepari il mio castigo nel mondo oscuro —<br>non sopporterò di vivere — di vivere — o agonia!<br>ed essere io solo il mio proprio aspro tormento! |  
+| *(didascalia)* | [Le porte della segreta vengono sfondate, e irrompono ALHADRA e la schiera dei Moreschi. |  
+| ALHADRA | Afferrate per primo quell'uomo! |  
+| *(didascalia)* | [ALVAR si fa avanti per difendere ORDONIO. |  
+| ORDONIO | Via, manigoldi! Ho gettato via la mia spada.<br>Donna, la mia vita è tua! a te la dono!<br>Via! chi mi tocca con la sua mano di carne,<br>gli strapperò le membra a brani! Ho la forza<br>di disperdervi come cenere con questo nudo braccio. |  
+| ALHADRA | Mio marito — |  
+| ORDONIO | Sì, l'ho ucciso nel modo più turpe. |  
+| ALVAR E TERESA | Oh, orrore! |  
+| ALHADRA | Perché lasciasti vivi i suoi figli?<br>Demonio, dovevi mandare i tuoi cani d'inferno<br>a lambire il loro [[motifs/blood\|sangue]]. Allora, allora avrei indurito<br>l'[[motifs/soul\|anima]] mia nella miseria, e avuto conforto.<br>Sarei stata in disparte, quieta benché oscura,<br>e avrei chiamato la stirpe degli uomini a un lutto<br>per un profondo orrore di desolazione,<br>troppo grande per essere la sorte d'una sola [[motifs/soul\|anima]]!<br>Fratello di Zagri! lascia ch'io m'appoggi a te.<br>Non è ancor giunto il [[motifs/time\|tempo]] dell'angoscia di donna,<br>non ho veduto il suo [[motifs/blood\|sangue]] — Entro un'ora<br>quei piccoli mi si affolleranno intorno a chiedermi:<br>dov'è nostro padre? Allora ti maledirò!<br>Fossi tu in cielo, la mia maledizione ti strapperebbe di là! |  
+| TERESA | Egli si pente! Vedi, vedi, m'inginocchio a te!<br>Oh, lascialo vivere! Quel vecchio, suo padre —— |  
+| ALHADRA | Perché ebbe un tale figlio? |  
+| *(didascalia)* | [Grida in lontananza: Soccorso! Soccorso! Alvar! Alvar! e s'ode la voce di VALDEZ. |  
+| ALHADRA | Soccorso? — e lo spirito d'Isidoro invendicato? —<br>Sia mio l'atto!      [Pugnala improvvisamente ORDONIO.<br>Ora prendete la mia vita! |  
+| ORDONIO | *(barcollando per la ferita)* Espiazione! |  
+| ALVAR | *(mentre con Teresa sorregge Ordonio)* Braccio del Cielo<br>vendicatore,<br>tu m'hai strappato la mia più cara [[concepts/hope\|speranza]] —<br>Ma va'! la mia parola t'era pegno. |  
+| ORDONIO | Via!<br>Non sfidare l'ira di mio Padre! Ti ringrazio! Tu — |  
+| *(didascalia)* | [Poi volgendo languidamente gli occhi ad ALVAR. |  
+| ORDONIO | Ella ha vendicato il [[motifs/blood\|sangue]] d'Isidoro!<br>Stetti in [[motifs/silence\|silenzio]] come uno schiavo davanti a lei<br>per gustare l'assenzio e il fiele,<br>e saziare questo cuore che accusa [[concepts/self\|sé stesso]]<br>con agonie più amare di quante la [[motifs/death\|morte]] ne dia.<br>Perdonami, Alvar!<br>Oh! — potessi tu dimenticarmi!       [Muore. |  
+| *(didascalia)* | [ALVAR e TERESA si chinano sul [[concepts/body\|corpo]] di ORDONIO. |  
+| ALHADRA | *(ai Mori)* Ti ringrazio, Cielo! saggiamente hai ordinato<br>che sempre gli estremi rechino la propria cura. Quel punto<br>nella miseria, che rende l'Uomo oppresso<br>incurante della propria vita, lo fa anche<br>padrone di quella dell'Oppressore — Conoscessi io cento uomini<br>disperati, ma non paralizzati dalla [[concepts/despair\|disperazione]],<br>questo braccio scuoterebbe i regni del mondo;<br>le profonde fondamenta dell'iniquità<br>sprofonderebbero, gemendo la terra sotto di esse;<br>cadrebbero le rocche degli uomini crudeli,<br>cadrebbero i loro templi e le loro torri montuose;<br>finché la desolazione parrebbe cosa bella,<br>e tutto ciò che era e aveva spirito di vita<br>canterebbe un nuovo canto a colei ch'era uscita<br>vincendo e ancora per vincere! |  
+| *(didascalia)* | [ALHADRA si allontana in fretta coi Mori; la scena si riempie di Contadini armati e di Servi, ZULIMEZ e VALDEZ alla loro testa. VALDEZ si getta fra le braccia di ALVAR. |  
+| ALVAR | Non volgere il viso da quella parte, padre mio! nascondilo,<br>oh nascondilo al suo sguardo! Oh, la tua gioia<br>scorra in limpida corrente nella tua prima benedizione. |  
+| *(didascalia)* | [Entrambi s'inginocchiano davanti a VALDEZ. |  
+| VALDEZ | Figlio mio! Mio Alvar! benedicilo, oh benedicilo, cielo! |  
+| TERESA | Anche me, padre mio? |  
+| VALDEZ | Benedici, oh benedici i miei figli! |  
+| *(didascalia)* | [Entrambi si alzano. |  
+| ALVAR | Delizie così piene, se non miste a dolore,<br>sarebbero infauste. In questi strani, tremendi eventi<br>il giusto Cielo c'istruisce con voce solenne:<br>che la [[concepts/conscience\|Coscienza]] ci regge anche contro il nostro volere.<br>Nostra interiore Monitrice, per guidare o ammonire,<br>se ascoltata; ma se respinta con dispregio,<br>alfine come tetro Rimorso ella riappare,<br>opera nelle colpevoli speranze e nei timori egoisti!<br>Sempre comanda: Ricorda! e sempre grida: Troppo tardi!<br>e mentre ci atterrisce, ci sospinge al nostro fato. |  
+| *(didascalia)* | [Dopo il v. 41] Come in un sogno io chiedo; se sia un sogno Edizione 1. |  
+| *(didascalia)* | [Dopo il v. 46] [Rabbrividendo. Edizioni 2, 3, 1829. |  
+| *(didascalia)* | [Dopo il v. 48] [Debolmente . . . recesso, e si muove in fretta verso di lei. Edizione 1. |  
+| *(didascalia)* | [Dopo il v. 55] Teresa (riprendendosi, si guarda attorno smarrita). Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | Teresa (si ritrae da lui, e debolmente si sorregge a un pilastro della segreta). Ah! chi sei tu?<br>Alvar (profondamente commosso). Subornato, ecc.<br>Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | Teresa (smarrita). No, no, ma dimmi!<br>[Una pausa, poi si preme la fronte.<br>Oh, di nuovo l'ho perduto!<br>Questo sordo confuso [[motifs/pain\|dolore]].      [Una pausa, ella fissa ALVAR.<br>Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | [Dopo il v. 103] [Ritirandosi, ella torna in fretta e abbraccia ALVAR. Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | [Prima del v. 106] Ordonio (con affettata gravità). Edizione 1 (c) (?). |  
+| *(didascalia)* | [Dopo il v. 115] [Facendo un cenno della mano ad ALVAR. Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | Edizione 1. [ALVAR . . . e gettandolo a terra, ecc. Edizioni 2, 3, 1829. |  
+| *(didascalia)* | 1, 2, 3, 1829. |  
+| *(didascalia)* | [Dopo il v. 195] [ORDONIO con frenetica furia corre, ecc. Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | insieme di reverenza e terrore). Non mi toccare! Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | il vuoto). Edizioni 2, 3, 1829. |  
+| *(didascalia)* | [Dopo il v. 229] (Alvar si fa avanti come per difendere Ordonio.) Edizione 1. |  
+| *(didascalia)* | [Dopo il v. 244] [Sforzandosi di reprimere i propri sentimenti. Edizioni 1, 2, 3, 1829. |  
+| *(didascalia)* | Sia mio l'atto! (Pugnala improvvisamente ORDONIO.) Ora prendete la mia vita!<br>Alv. (mentre con TERESA sorregge ORDONIO). Braccio del Cielo vendicatore!<br>Tu m'hai strappato la mia più cara [[concepts/hope\|speranza]]<br>Ma va'! la mia parola t'era pegno. Via!<br>Non sfidare la vendetta di mio Padre!       [I Mori portano via in fretta ALHADRA.<br>Ord. Ella ha vendicato il [[motifs/blood\|sangue]] d'Isidoro.<br>Edizione 1. |  
+| *(didascalia)* | te stessa, o Donna! Edizione 1 (b). |  
+| *(didascalia)* | [Nota. — Nella sua collazione di Rimorso con Osorio, il curatore di P. W. 1877-1880, iv. 154 appone ai versi 289-303 dell'Atto Quinto di Osorio la variante seguente, che si dice derivata dalla Prima Edizione di Rimorso: — Dopo il grido di 'Nessuna [[concepts/mercy\|pietà]]' (Osorio, Atto V, v. 300), 'NAOMI si fa avanti con la spada e ALHADRA gliela strappa e pugnala improvvisamente ORDONIO. ALVAR si apre il varco tra i Mori e lo raccoglie fra le braccia.' Dopo la battuta morente di Ordonio [vv. 304-307], vi sono 'grida di Alvar! Alvar! dietro le quinte. Un Moro irrompe' — |  
+| *(didascalia)* | Entrano Teresa e Selma. |  
+| MORO | Siamo sorpresi! via! via! all'istante!<br>Il paese è in armi! Il signor Valdez li guida,<br>e grida senza posa: 'Mio figlio! il mio Alvar vive!'<br>Presto alla riva! vengono per la [[motifs/road\|strada]] opposta.<br>Le vostre mogli e i vostri figli sono già in salvo.<br>La barca è sulla riva — il vascello attende. |  
+| ALHADRA | Tu dunque sei Alvar! al mio soccorso e alla mia salvezza<br>la tua parola sta impegnata. |  
+| ALVAR | Braccio del Cielo vendicatore!<br>Avevo due care speranze — l'una rimane,<br>l'altra tu me l'hai strappata: ma la mia parola<br>t'è pegno; né sarà ritrattata —<br>Edizione 1 (c) (?). |  
+| *(didascalia)* | [Dopo il v. 259] (ORDONIO segue ALHADRA con l'occhio, che poi alzando languidamente ad ALVAR compie il suo senso, ma sostituendo 'il' a 'Te'). Didascalia marginale inserita nel MS. R.] |  
+| *(didascalia)* | Didascalia che precede il v. 265 e vv. 265-79: om. Edizione 1. |  
+| *(didascalia)* | [Prima del v. 280] [La scena si riempie di contadini armati . . . le braccia di ALVAR. Edizione 1. |  
+| *(didascalia)* | APPENDICE<br>La Scena seguente, come inadatta al teatro, fu tolta dalla [[forms/tragedy\|tragedia]], nell'anno 1797, e pubblicata nelle Lyrical Ballads. [1798, pp. 28-31: vide ante, pp. 182-4.] |  
+| *(didascalia)* | Entrano Teresa e Selma. |  
+| TERESA | Si dice ch'egli parlasse di voi con familiarità,<br>come della nutrice comune, mia e di Alvar. |  
+| SELMA | Ora benedizioni sull'uomo, chiunque egli sia,<br>che unì i vostri nomi col mio! O mia dolce Signora,<br>ogni volta che penso a quei cari tempi,<br>quando voi due piccini stavate, la sera,<br>l'uno per lato della mia seggiola, e mi facevate imparare<br>tutto ciò che avevate imparato nel giorno; e come parlare<br>con gentile frase; poi mi chiedevate di cantarvi ——<br>somiglia più al cielo che verrà, che a ciò che è stato! |  
+| TERESA | Ma quell'entrata, Selma? |  
+| SELMA | Nessuno può udire? È un racconto pericoloso! |  
+| TERESA | Nessuno. |  
+| SELMA | Me lo raccontò il padre di mio marito,<br>il povero vecchio Sesina — gli angeli riposino la sua [[motifs/soul\|anima]];<br>era un boscaiolo, e sapeva abbattere e segare<br>con braccio gagliardo. Conoscete quell'enorme trave rotonda<br>che puntella il muro pendente della vecchia cappella?<br>Sotto quell'albero, quand'era ancora un albero,<br>trovò un bimbo avvolto nei muschi, foderato<br>di barbe di cardo, e di quei fiocchetti di lana<br>che restano ai rovi. [[motifs/well\|Ebbene]], se lo portò a [[motifs/home\|casa]],<br>e lo allevò a spese dell'allora signore Valdez.<br>E così il bimbo crebbe, un bel fanciullo,<br>un bel fanciullo, ma indocile all'estremo ——<br>e mai imparò una [[motifs/prayer\|preghiera]], né sgranò un rosario,<br>ma sapeva i nomi degli [[motifs/birds\|uccelli]], e ne imitava le note,<br>e fischiava, come fosse un uccello egli stesso.<br>E per tutto l'[[motifs/autumn\|autunno]] era il suo unico gioco<br>raccogliere semi di [[motifs/flowers\|fiori]] selvatici, e piantarli<br>con terra e [[motifs/water\|acqua]] sui ceppi degli alberi.<br>Un Frate, che raccoglieva erbe semplici nel bosco,<br>un uomo dai capelli grigi, amò questo piccolo:<br>il fanciullo amò lui, e, quando il frate gl'insegnò,<br>seppe presto scrivere con la penna; e da quel [[motifs/time\|tempo]]<br>visse per lo più al convento o al [[settings/castle\|castello]].<br>Così divenne un giovane raro e dotto:<br>ma oh! poveretto! lesse, e lesse, e lesse,<br>finché il cervello gli si volse; e prima del ventesimo anno<br>aveva pensieri illeciti intorno a molte cose:<br>e benché pregasse, mai gli piacque pregare<br>con uomini santi, né in un luogo santo.<br>Eppure il suo parlare era tanto molle e dolce,<br>che il defunto signore Valdez mai se ne stancava.<br>E una volta, mentre presso il lato nord della cappella<br>stavano insieme avvinti in profondo discorso,<br>la terra si sollevò sotto di loro con tal gemito,<br>che il muro vacillò, e per [[motifs/well\|poco]] non cadde<br>proprio sulle loro teste. Il mio Signore n'ebbe gran spavento;<br>una febbre lo prese, ed egli fece confessione<br>di tutti i discorsi eretici e senza legge<br>che avevano tratto quel giudizio: così il giovane fu preso<br>e gettato in quella buca. Il padre di mio marito<br>singhiozzò come un [[archetypes/child\|bambino]] — quasi gli si spezzò il cuore:<br>e una volta che lavorava presso questa segreta,<br>udì distintamente una voce; era quella del giovane,<br>che cantava un dolente canto di verdi campagne,<br>e come fosse dolce su un lago o su ampia savana<br>cacciare per cibo, ed essere un uomo nudo,<br>e vagare su e giù in libertà.<br>Egli aveva sempre stravisto per quel giovane, e ora<br>il suo [[motifs/love\|amore]] si fece disperato; e sfidando la [[motifs/death\|morte]],<br>praticò quell'accorta entrata che ho descritto,<br>e il giovane fuggì. |  
+| TERESA | È un dolce racconto:<br>tale da cullare un [[archetypes/child\|bambino]] in ascolto fino al [[motifs/sleep\|sonno]],<br>il roseo viso sporco di [[motifs/tears\|lacrime]] non asciugate.<br>E che ne fu di lui? |  
+| SELMA | S'imbarcò<br>con quegli arditi navigatori che scoprirono<br>le terre d'oro. Il fratello minore di Sesina<br>andò anch'egli, e quando tornò in Spagna<br>disse a Sesina che il povero giovane folle,<br>poco dopo il loro arrivo in quel nuovo mondo,<br>malgrado le sue dissuasioni, prese una barca,<br>e tutto solo salpò al silenzioso chiaro di luna<br>su per un gran [[motifs/river\|fiume]], grande quanto un mare,<br>e mai più se ne seppe: ma si suppone<br>che sia vissuto e morto fra gli uomini selvaggi. |

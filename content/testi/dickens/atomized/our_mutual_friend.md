@@ -46201,6 +46201,77 @@ gate. ‘Please to walk in,’ said Miss [[characters/lavinia|Lavinia]], haughti
 out.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La signora Milvey, con la grazia più naturale del mondo, li congratulò e fu felice di vederli. Tuttavia, il suo viso attraente, aperto e perspicace, non poteva nascondere il sorriso nascosto di suo marito.
+
+“La signora Boffin desidera adottare un bambino piccolo, caro mio.”
+
+#Mrs Milvey, con un’aria piuttosto allarmata.
+
+“Un orfano, caro mio.”
+
+“Oh!” disse la signora Milvey, rassicurata riguardo ai suoi piccoli ragazzi.
+
+“E pensavo, Margaretta, che forse il nipote della vecchia signora Goody potrebbe essere la persona adatta.”
+
+“Oh mio caro Frank! Non credo che sarebbe appropriato!”
+
+‘No?’
+
+‘Oh NO!’
+
+La sorridente signora Boffin, sentendo di dover partecipare alla conversazione e affascinata dalla vivace e interessata giovane donna, esprimeva il suo apprezzamento e chiedeva quale fosse il problema che riguardava quell’uomo.
+
+“Non credo,” disse la signora Milvey, lanciando un’occhiata al reverendo Frank, “e penso che anche mio marito sarà d’accordo se ci penserà bene. Che si possa davvero tenere quel [[archetypes/orphan|orfano]] lontano dal tabacco. Dopotutto, sua nonna ne fuma tantissime once e spesso ne lascia cadere delle briciole su di lui.”
+
+“Ma in quel caso non avrebbe vissuto con sua nonna, Margaretta,” disse il signor Milvey.
+
+“No, Frank, ma sarebbe impossibile impedirle di andare a casa della signora Boffin; inoltre, più c’era da mangiare e da bere lì, più spesso ci andava. E lei è davvero una donna scomoda. Spero che non sia ingiusto ricordare che la vigilia di Natale scorsa ha bevuto undici tazze di tè e si è lamentata tutto il tempo. Inoltre, Frank, non è affatto una donna riconoscente: ti ricordi quando si rivolgeva a una folla fuori da questa casa parlando dei suoi torti? Una notte, dopo che eravamo andati a letto, ha riportato indietro la sottoveste di flanella nuova che le era stata data, perché le risultava troppo corta, ”
+
+“È vero,” disse il signor Milvey. “Non credo che funzionerebbe. E il piccolo Harrison, ”
+
+“Oh, FRANK!” protestò con forza sua moglie.
+
+“Non ha nessuna nonna, cara mia.”
+
+“No, ma non credo che la signora Boffin desideri un [[archetypes/orphan|orfano]] che strizza gli occhi in quel modo.”
+
+“È vero davvero,” disse il signor Milvey, con un’espressione di perplessità sul viso. “Se anche una bambina potesse farlo, ”
+
+“Ma, caro Frank, la signora Boffin vuole un maschio.”
+
+“È vero davvero,” disse il signor Milvey. “Tom Bocker è un bravo ragazzo.”  
+(pensieroso).
+
+“Ma io [[concepts/doubt|DOBBIAMO dubitare]], Frank,” suggerì la signora Milvey, dopo un breve esitare, “se la signora Boffin voglia davvero un’[[archetypes/orphan|orfana]] di ben diciannove anni, che guidi un carretto e si occupi di irrigare le strade, ”
+
+Il signor Milvey fece cenno alla signora Boffin con uno sguardo; vedendo quella donna sorridente scuotere il suo cappello di velluto nero e inchinarsi, commentò, con tono più serio: “È davvero vero.”
+
+“Sono sicura,” disse la signora Boffin, preoccupata per aver causato tanti problemi, “che se avessi saputo che vi sareste presi tanto disturbo, signore, e anche voi, signora, non credo che sarei venuta.”
+
+“Per favore, non dirlo!” esortò la signora Milvey.
+
+“No, non dite così,” acconsentì il signor Milvey, “perché siamo davvero molto in debito con voi per averci dato questa opportunità.” Anche la signora Milvey confermò; e davvero quella coppia gentile e coscienziosa parlava come se gestisse un’importante istituzione benefica e ricevesse personalmente il loro sostegno. “Ma si tratta di una responsabilità importante,” aggiunse il signor Milvey, “e non facile da assolvere. Allo stesso tempo, naturalmente non vorremmo perdere l’opportunità che ci offrite con tanta gentilezza; se poteste concederci uno o due giorni per rifletterci, beh, Margaretta, potremmo esaminare attentamente l’ospizio, la scuola materna e il vostro distretto.”
+
+“Devo esserne SICURA!”, disse con decisione la piccola moglie.
+
+“Abbiamo degli orfani, lo so,” continuò il signor Milvey, con un tono che sembrava voler aggiungere “disponibili in magazzino”, e con la stessa ansia di chi temesse di perdere un ordine a causa della forte concorrenza nel settore: “Quegli orfani sono affidati a parenti o amici, ma temo che alla fine si finisca per effettuare scambi in natura. E anche se si scambiassero coperte con il [[archetypes/child|>bambino]], o libri e carbone, sarebbe comunque impossibile impedire che vengano utilizzati per produrre alcol.”
+
+Di conseguenza, si decise che il signor e la signora Milvey dovessero cercare un [[archetypes/orphan|orfano]] che fosse adatto e il più possibile privo delle suddette obiezioni, e poi contattare di nuovo la signora Boffin. A quel punto, il signor Boffin osò suggerire al signor Milvey che, se questi avesse avuto la gentilezza di continuare a essere il suo banchiere, fornendogli una somma di “circa venti sterline” da utilizzare a piacimento senza dovergli rendere conto, ne sarebbe stato molto grato. A queste parole, sia il signor che la signora Milvey furono estremamente soddisfatti, come se non avessero alcun bisogno personale e conoscessero la [[concepts/poverty|povertà]] soltanto attraverso le esperienze altrui; così l’incontro si concluse con reciproca soddisfazione e buone impressioni da entrambe le parti.
+
+“Ora, signora,” disse il signor Boffin mentre riprendevano i loro posti dietro il cavallo dal muso tosto e l’uomo che lo guidava, “dopo aver fatto una visita molto piacevole laggiù, proveremo da Wilfer.”
+
+Quando si avvicinarono al cancello di casa, sembrò che tentare di entrare nell’edificio fosse qualcosa che si poteva facilmente progettare, ma molto più difficile da realizzare a causa delle estreme difficoltà per accedervi: tre tentativi di suonare il campanello non produssero alcun risultato; tuttavia, ad ogni tentativo si udirono rumori di persone che correvano all’interno. Al quarto tentativo – eseguito con particolare violenza dal giovane dall’aspetto robusto – apparve la signorina [[characters/lavinia|Lavinia]], uscendo dall’edificio in modo casuale, con cappello e ombrello, come se avesse intenzione di fare una passeggiata. La giovane fu sorpresa di trovare visiteatori al cancello e esprimebbe i suoi sentimenti con gesti appropriati.
+
+“Ecco il signor e la signora Boffin!” ringhiò il giovane dall’aspetto robusto attraverso le sbarre del cancello, scuotendole contemporaneamente, come se fossero in mostra in un giardino zoologico; “sono qui da mezz’ora.”
+
+“Chi hai detto?” chiese la signorina [[characters/lavinia|Lavinia]].
+
+“Il signor e la signora Boffin” ricondussero il giovane uomo, esplodendo in un urlo.
+
+La signorina [[characters/lavinia|Lavinia]] inciampò sulle scale che conducevano alla porta di casa, inciampò anche con la chiave, poi attraversò il piccolo [[motifs/garden|giardino]] e aprì il cancello. “Prego, entrate,” disse la signorina [[characters/lavinia|Lavinia]] con aria sprezzante. “Il nostro servitore non c’è.”
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city,motif/home,motif/road,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/poverty,concept/self,concept/suffering,form/history,character/lavinia"></span>
@@ -70229,6 +70300,57 @@ degrees is intrusted with the charge of supporting her father’s head
 upon her arm.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Capitolo 3
+
+Lo stesso stimato amico, sotto più aspetti.
+
+In realtà, è proprio Riderhood, e nessun altro, o meglio, l’involucro esterno di Riderhood, che viene portato nella camera da letto al primo piano della signorina Abbey. Flessibile come sempre, è ora abbastanza rigido; tuttavia, per farlo salire le scale, è necessario spostare più volte i piedi dei presenti, inclinare il suo “letto” in tutte le direzioni, e c’è persino il rischio che scivoli giù e cada a mucchi oltre la balaustra.
+
+“Chiamate un dottore,” disse la signorina Abbey. E poi: “Portate qui anche sua figlia.” Per entrambe le commissioni, messaggeri veloci si allontanarono immediatamente.
+
+Il messaggero che cercava il dottore lo incontrò a metà strada, sotto scorta di polizia. Il dottore esaminò quel corpo umido e decaduto e dichiarò, con scarso ottimismo, che valeva la pena provare a rianimarlo. Tutti i mezzi disponibili furono immediatamente utilizzati; tutti coloro presenti offrirono il loro aiuto, il loro cuore, e la loro [[motifs/soul|'anima]]. Nessuno provava la minima simpatia per quell’uomo: per tutti loro era stato oggetto di evitamento, sospetto e avversione; ma la scintilla di vita che ancora possedeva sembrava ora separabile da lui stesso, e quindi suscitava in loro un profondo interesse. Probabilmente perché quella scintilla rappresentava davvero la vita, e perché anche loro erano vivi, e dovevano morire.
+
+In risposta alle domande del dottore su come fosse accaduto l’incidente e se ci fosse qualcuno da incolpare, Tom Tootle emette la sua sentenza: “Un incidente inevitabile, e nessuno da biasimare se non la vittima”. “Stava strisciando nella sua barca”, dice Tom, “il che, senza voler insultare i morti, era proprio il modo in cui quell’uomo si muoveva. Quando è arrivato proprio di fronte alla prua della nave, questa lo ha tagliato a metà”. Mr Tootle usa un linguaggio metaforico per descrivere l’accaduto, intendendo ovviamente la barca e non l’uomo stesso. Poiché quest’ultimo, dopotutto, è ancora intero davanti ai loro occhi.
+
+Il Capitano Joey, quel cliente abituale con il naso a bottiglia e il cappello di vetro, è un allievo della rispettata vecchia scuola; ed essendo riuscito a infiltrarsi nella stanza per svolgere l’importante compito di portare il fazzoletto del uomo annegato, offre al dottore un suggerimento sagace, tipico dello stile antico: il [[concepts/body|corpo]] dovrebbe essere appeso per i talloni, “proprio come” la carne nel negozio del macellaio, e poi rotolato su dei barili, una manovra particolarmente efficace per favorire la respirazione. Questi frammenti di saggezza trasmessi dagli antenati del Capitano vengono accolti da Miss Abbey con indignazione tale che lei afferra immediatamente il Capitano per il colletto e lo caccia via senza dire una parola, senza nemmeno osare protestare.
+
+Quindi rimangono, per aiutare il dottore e Tom, soltanto quei tre altri clienti abituali: Bob Glamour, William Williams e Jonathan (il cognome di quest’ultimo, se mai esiste, è sconosciuto a tutti). Questi sono più che sufficienti. Dopo essersi assicurata che non ci fosse nulla di necessario, la signorina Abbey scende al bar e lì aspetta il risultato insieme al gentile ebreo e alla signorina [[characters/jenny-wren|Jenny Wren]].
+
+Se non se n’è andato per sempre, signor Riderhood, sarebbe utile sapere dove si nasconde attualmente. Questo debole e fragile “grumo di [[concepts/mortality|mortalità]]” su cui lavoriamo con tanta pazienza e perseveranza non dà alcun segno della sua presenza. Se se n’è andato per sempre, Rogue, la situazione è davvero solenne; ma se dovesse tornare, non sarebbe certo meno grave. Anzi, nell’incertezza e nel mistero legati a questa possibilità – che riguarda anche il luogo in cui potrebbe trovarsi ora – c’è una solennità addirittura maggiore di quella della [[motifs/death|morte]] stessa. Una solennità tale da farci, coloro che siamo qui presenti, temere sia di guardarlo che di distoglierci lo sguardo da lui; e fa sì che anche coloro che sono al di sotto del pavimento sobbalzino al minimo rumore prodotto da una tavola che scricchiola.
+
+Fermati! Quel sopracciglio ha tremato? Il dottore, respirando lentamente e osservando attentamente, si chiede.
+
+No.
+
+Quella narice si è mossa?
+
+No.
+
+Quando questa respirazione artificiale si interrompe, percepisco qualche debole movimento sotto la mia mano sul petto?
+
+No.
+
+Ancora e ancora. No. No. Ma provaci comunque, ancora e ancora.
+
+Ecco! Un segno di vita, un indubbio segno di vita! Quella scintilla può spegnersi o può continuare ad ardere e crescere, ma guardate: quei quattro uomini rozzi, vedendola, versarono [[motifs/tears|lacrime]]. Né la cavalleria di questo mondo, né quella dell’altro avrebbero potuto farli piangere; solo un’anima umana che lotta tra i due mondi può riuscirci facilmente.
+
+Sta lottando per tornare indietro. Ora è quasi arrivato, ora si trova di nuovo lontano. Sta facendo ancora più sforzi per riuscirci. Eppure – proprio come noi tutti, quando perdiamo i sensi; proprio come noi, ogni giorno della nostra vita, al risveglio – lui, istintivamente, non vuole tornare in coscienza di questa esistenza e preferirebbe rimanere “addormentato”, se potesse.
+
+Bob Gliddery torna con Pleasant Riderhood, che era sparita quando veniva cercata e risultava difficile da trovare. Ha uno scialle in testa; la prima cosa che fa, dopo averlo tolto mentre piange e aver fatto un inchino a Miss Abbey, è [[motifs/wind|raccogliere]] i suoi capelli.
+
+“Grazie, signorina Abbey, per aver fatto venire mio padre qui.”
+
+“Devo dire, ragazza, che non sapevo chi fosse,” risponde la signorina Abbey; “ma spero che sarebbe stato più o meno lo stesso anche se l’avessi saputo.”
+
+Povera Pleasant. Confortata da un sorso di brandy, viene fatta entrare nella stanza al primo piano. Non sarebbe stata in grado di esprimere grandi sentimenti per suo padre se le fosse stato chiesto di tenere il discorso funebre, ma provava per lui una tenerezza molto maggiore di quanta lui avesse mai provato per lei. Vedendolo privo di sensi, pianse amaramente e chiese al dottore, con le mani giunte: “Non c’è alcuna [[concepts/hope|>speranza]], signore? Povero padre. È davvero morto?”
+
+Al che il dottore, inginocchiato accanto al [[concepts/body|corpo]], impegnato e attento,
+risponde soltanto senza guardarsi intorno: “Ora, mia cara, a meno che tu non abbia la forza di volontà necessaria per rimanere completamente tranquilla, non posso permetterti di restare in questa stanza.”
+
+Pleasant, quindi, si asciuga gli occhi con i propri capelli, che hanno urgentemente bisogno di essere pettinati; una volta fatto ciò, osserva con grande interesse tutto ciò che accade intorno a lei. La sua naturale predisposizione femminile le permette presto di offrire un piccolo aiuto. Anticipando i bisogni del dottore, prepara silenziosamente ciò di cui potrebbe aver bisogno, e gradualmente le viene affidato il compito di sostenere la testa di suo padre sul proprio braccio.
+
 
 
 <span class="atom-split" data-atom="chapter_41--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/home,motif/journey,motif/river,motif/road,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/hope,concept/pride"></span>
@@ -75459,6 +75581,78 @@ enough in this world.’
 
 ‘Oh, but I mean that,’ said Bella, raising her eyebrows.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre questo dialogo proseguiva, sia Bella che il Segretario osservavano attentamente [[characters/lizzie-hexam|Lizzie Hexam]]. Trovandosi per la prima volta di fronte alla figlia del presunto assassino di suo padre, era naturale che [[characters/john-harmon|John Harmon]] avesse i suoi motivi personali per esaminare con attenzione il suo volto e i suoi modi. Bella sapeva che il padre di Lizzie era stato falsamente accusato di un crimine che aveva avuto un impatto enorme sulla sua vita e sulle sue fortune; quindi il suo interesse, sebbene non nascondesse motivi segreti come quello del Segretario, era altrettanto naturale. Entrambi si aspettavano di vedere qualcosa di molto diverso dalla vera [[characters/lizzie-hexam|Lizzie Hexam]], e così fu proprio lei a diventare il mezzo inconsapevole che li fece incontrare.
+
+Poiché, quando l’avevano accompagnata fino alla piccola casa nel pulito villaggio vicino alla cartiera, dove Lizzie alloggiava con una coppia anziana che lavorava in quell’azienda, e dopo che la signora Milvey e Bella erano andate a vedere la sua stanza e poi erano scese di nuovo, suonò la campana della cartiera. Questo richiamò Lizzie via per l’[[motifs/time|orario]] previsto, lasciando il segretario e Bella in piedi in quella piccola strada in una situazione piuttosto imbarazzante: la signora Milvey era impegnata a inseguire i bambini del villaggio, cercando di capire se rischiassero di diventare “figli di Israele”; mentre il reverendo Frank, beh, per dire la [[concepts/truth|verità]], stava cercando in tutti i modi di evitare quella parte delle sue funzioni spirituali e di scomparire silenziosamente dalla scena.
+
+“Finalmente, Bella disse, ”
+
+“Non sarebbe meglio parlare della commissione che abbiamo assunto, signor Rokesmith?”
+
+“Certamente,” disse il Segretario.
+
+“Suppongo, ”, balbettò Bella, “che entrambe siamo state incaricate di questo compito, altrimenti non dovremmo essere qui entrambe, vero?”
+
+“Immagino di sì,” fu la risposta del Segretario.
+
+“Quando proposi di venire con il signor e la signora Milvey,” disse Bella, “la signora Boffin mi esortò ad andare, affinché potessi darle il mio piccolo rapporto. Non ha alcun valore, signor Rokesmith, tranne per il fatto che sia stato scritto da una donna. Il che, con voi, forse rappresenta addirittura un motivo ulteriore per cui non abbia alcun valore, ”
+
+“Il signor Boffin,” disse il segretario, “mi ha incaricato di venire per lo stesso motivo.”
+
+Mentre parlavano, stavano lasciando quel piccolo vicolo ed emergendo nel paesaggio boschivo vicino al [[motifs/river|>fiume]].
+
+“La pensate davvero bene, signor Rokesmith?”, insistette Bella, consapevole di stare facendo progressi considerevoli nella loro conversazione.
+
+“La penso molto bene.”
+
+“Sono davvero felice per questo! C’è qualcosa di davvero raffinato nella sua [[concepts/beauty|bellezza]], non credi?”
+
+“Il suo aspetto è davvero notevole.”
+
+“C’è un velo di tristezza in lei che è davvero commovente. Almeno, io non sto esprimendo la mia opinione personale, capisce, signor Rokesmith,” disse Bella, scusandosi e spiegandosi in modo piuttosto timido; “sto semplicemente chiedendole il suo parere.”
+
+“Ho notato quella tristezza. Spero che non sia dovuta all’accusa falsa che è stata ritratta,” disse il Segretario a voce bassa.
+
+Dopo aver continuato il cammino in silenzio per un po’, Bella, dopo aver gettato uno o due sguardi furtivi al Segretario, disse all’improvviso:
+
+“Oh, signor Rokesmith, non essere duro con me, non essere severo con me; sia generoso! Voglio parlare con te su un piano di parità.”
+
+Il Segretario si illuminò improvvisamente in volto e rispose: “Per la mia [[concepts/honour|onore]], non ho pensato ad altro che a te. Mi sono imposto di comportarmi in modo controllato, per evitare che tu potessi fraintendere il mio comportamento naturale. Ecco, è sparito.”
+
+“Grazie,” disse Bella, tendendo la sua manina. “Perdonami.”
+
+“No!” gridò la Segretaria con impazienza. “Perdona ME!” Nei suoi occhi c'erano [[motifs/tears|lacrime]], e a lui sembravano più belle di qualsiasi altra luce brillante al mondo (sebbene lo colpissero nel cuore con un senso di rimprovero).
+
+# Quando ebbero camminato un po’ di più.
+
+“Volevi parlarmi,” disse il Segretario, con l’[[archetypes/shadow|ombra]] che lo avvolgeva ormai completamente dissipata e gettata via; “di [[characters/lizzie-hexam|)Lizzie Hexam]]. Anch’io volevo parlarti, se solo fossi riuscito a iniziare.”
+
+“Ora che potete iniziare, signore,” rispose Bella, con un’espressione come se stesse mettendo l’accento su quella parola posizionando una delle sue fossette sotto di essa, “cosa stavate per dire?”
+
+“Certo che vi ricordate: nella sua breve lettera alla signora Boffin – breve, ma contenente tutto ciò che era necessario – lei stabilì chiaramente che sia il suo nome che il suo indirizzo di residenza dovessero essere tenuti rigorosamente segreti tra di noi.”
+
+Bella annuì, dicendo di sì.
+
+‘È mio dovere scoprire il motivo per cui ha fatto quella richiesta. Il signor Boffin mi ha incaricato di indagare, e io desidero ardentemente scoprire se quell’accusa ritratta lasci ancora qualche macchia sulla sua reputazione. Voglio dire, se possa metterla in svantaggio nei confronti di qualcuno, anche solo di sé stessa.’
+
+“Sì,” disse Bella, annuendo pensierosamente; “Capisco. Sembra saggio e premuroso.”
+
+“Forse non se ne è accorta, signorina Wilfer, ma lei prova nei suoi confronti lo stesso tipo di interesse che lei prova per lei. Proprio come lei è attratta dalla sua bellezza – dal suo aspetto e dal suo modo di comportarsi – allo stesso modo lei è attratta dal suo.”
+
+“Certo che non me ne sono accorta,” rispose Bella, accentuando di nuovo le parole con quel sorriso incantevole, “e avrei dovuto riconoscere i suoi sforzi, ”
+
+Il Segretario, sorridendo, alzò la mano e intervenne con estrema chiarezza dicendo “non per motivi di buon gusto”, tanto che il viso di Bella si imporporì per quel piccolo gesto di civetteria che le era stato impedito di compiere.
+
+“E così,” proseguì il Segretario, “se voleste parlare con lei da soli prima che ce ne andiamo da qui, sono sicuro che nascerà tra voi una fiducia naturale e spontanea. Ovviamente non vi verrà chiesto di tradirla; e ovviamente non lo fareste nemmeno se vi venisse proposto. Ma se non avete obiezioni a porle questa domanda, per scoprire quali siano i suoi veri sentimenti su questo argomento, potete farlo con un vantaggio molto maggiore di quanto io o chiunque altro possa offrirvi. Il signor Boffin è molto preoccupato al riguardo. E anch’io,” aggiunse dopo un momento il Segretario, “per una ragione particolare, sono davvero molto preoccupato.”
+
+“Sarò felice, signor Rokesmith,” rispose Bella, “di poter essere di la minima utilità; perché, dopo l’episodio grave di oggi, sento di essere davvero inutile in questo mondo.”
+
+“Non dire così,” lo esortò il Segretario.
+
+“Ah, ma intendo proprio quello,” disse Bella, alzando le sopracciglia.
 
 
 

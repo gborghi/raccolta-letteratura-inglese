@@ -468,6 +468,161 @@ latter portion of his discourse, been addressing me from out the
 region of the shadows?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qualunque [[concepts/doubt|dubbio]] possa ancora avvolgere la _logica_ del [[concepts/mesmerism|mesmerismo]], i suoi fatti sorprendenti sono ormai quasi universalmente riconosciuti. Tra questi ultimi, coloro che ne dubitano appartengono soltanto a quella categoria di persone il cui mestiere è il dubbio stesso: un gruppo inutile e disonorevole. Non esiste spreco più assoluto di [[motifs/time|tempo]] del tentativo di dimostrare, ai giorni nostri, che l’uomo, semplicemente esercitando la propria volontà, possa influenzare al punto di far cadere un altro essere in uno stato anormale i cui fenomeni assomigliano molto a quelli della _morte_, o quanto meno più di quelli di qualsiasi altra condizione normale conosciuta; che, mentre si trova in questo stato, la persona influenzata utilizzi soltanto con difficoltà, e poi in modo debole, gli organi di senso esterni, percependo tuttavia, attraverso canali ritenuti sconosciuti, cose al di là dell’ambito delle capacità fisiche; che inoltre le sue facoltà intellettive siano straordinariamente potenziate e rinvigorite; che la sua empatia verso colui che la influenza sia profonda; e infine che la sua suscettibilità a tale influenza aumenti con la sua frequenza, mentre i fenomeni particolari che ne derivano diventino sempre più estesi e evidenti.
+
+Dico che queste leggi del [[concepts/mesmerism|mesmerismo]], nelle loro caratteristiche generali, sarebbe superfluo dimostrarle; né intendo infliggere ai miei lettori una dimostrazione così inutile, almeno oggi. Il mio scopo attuale è molto diverso: nonostante viviamo in un mondo pieno di pregiudizi, sono costretto a descrivere, senza commenti, il contenuto davvero notevole di un colloquio avvenuto tra una persona che si è svegliata dal [[motifs/sleep|sonno]] e me stesso.
+
+Ero da tempo abituato a ipnotizzare la persona in questione (il signor Vankirk), e si erano manifestate le solite reazioni di sensibilità acuta ed eccitazione tipiche di una percezione ipnotica. Da molti mesi soffriva di tubercolosi avanzata, e gli effetti più dolorosi di questa malattia erano stati alleviati dalle mie manipolazioni; quindi, nella [[motifs/night|sera]] di mercoledì, il quindicesimo giorno del mese, fui chiamato al suo capezzale.
+
+Il malato soffriva di acute [[motifs/pain|dolori]] nella zona del cuore e respirava con grande difficoltà, presentando tutti i sintomi tipici dell’asma. In occasioni del genere, applicare senape sui centri nervosi gli procurava solitamente sollievo, ma quella notte tale tentativo si rivelò inutile.
+
+Non appena entrai nella sua stanza, mi salutò con un sorriso allegro; e sebbene evidentemente soffrisse molto fisicamente, sembrava essere mentalmente molto tranquillo.
+
+“Ti ho chiamato stasera,” disse, “non tanto per curare la mia malattia fisica, quanto piuttosto per ricevere spiegazioni su alcune impressioni spirituali che ultimamente mi hanno causato grande ansia e sorpresa. Non c’è bisogno che ti dica quanto sia stato scettico finora riguardo all’[[motifs/soul|'anima]] e alla sua [[concepts/immortality|immortalità]]. Devo ammettere che, sin dall’inizio, esisteva in me una vaga percezione dell’esistenza di tale entità. Ma questa percezione non è mai diventata una convinzione; la ragione non aveva nulla a che fare con essa, e ogni tentativo di indagine logica finiva soltanto per rafforzare il mio scetticismo. Mi è stato consigliato di studiare Cousin: l’ho analizzato sia nelle sue opere originali che in quelle dei suoi seguaci europei e americani. Ad esempio, ho letto ‘Charles Elwood’ di Mr. Brownson con grande attenzione; tutto ciò che vi era scritto mi sembrava logico. Ma le parti che andavano oltre il semplice ambito logico erano in realtà gli stessi argomenti utilizzati dal protagonista incredulo del libro per sostenere la sua posizione. Alla fine, mi è parso evidente che lo stesso autore non era riuscito a convincersi delle sue tesi. In breve: se l’uomo vuole essere convinto intellettualmente dell’immortalità della propria anima, non potrà mai farlo attraverso semplici astrazioni, tipiche dei moralisti inglesi, francesi e tedeschi. Le astrazioni possono divertire e stimolare la mente, ma non riescono a penetrarvi veramente. Almeno su questa terra, la filosofia non potrà mai convincerci di considerare certe qualità come realtà concrethe. La volontà può acconsentire, l’[[motifs/soul|anima]] forse sì, ma il ragionamento no.”
+
+“Allora ripeto che ho provato queste sensazioni solo in parte e mai le ho credute intellettualmente. Tuttavia, in seguito, tali sentimenti si sono approfonditi fino a somigliare quasi alla convinzione derivante dalla ragione; per questo trovo difficile distinguerli tra loro. Inoltre, posso chiaramente attribuire questo effetto all’influenza ipnotica. Non posso spiegare meglio il mio pensiero se non ipotizzando che l’elevazione mentale indotta dall’ipnosi mi permetta di percepire un processo di ragionamento che, nella mia condizione anormale, mi convince; ma che, in piena armonia con i fenomeni ipnotici, non si estende, se non attraverso il suo effetto, alla mia condizione normale. Nello stato intermedio tra sonno e veglia, il ragionamento e la sua conclusione – cioè la causa e l’effetto – sono entrambi presenti. Nella mia condizione naturale, invece, la causa scompare e rimane soltanto l’effetto, forse solo in parte.”
+
+“Queste considerazioni mi hanno portato a pensare che alcuni buoni risultati potrebbero derivare da una serie di [[motifs/well|ben]] indirizzate domande poste mentre si è in stato di ipnosi. Avete spesso osservato la profonda [[concepts/self|auto-cognizione]] dimostrata dalle persone che si risvegliano dall’ipnosi: la vasta conoscenza che mostrano su tutti gli aspetti legati allo stesso stato ipnotico; ed è proprio da questa [[concepts/self|auto-cognizione]] che si possono trarre indicazioni utili per condurre correttamente un catechismo.”
+
+Naturalmente acconsentii a fare questo esperimento. Dopo alcune tentativi, il signor Vankirk cadde in uno stato di ipnosi. Il suo respiro divenne immediatamente più regolare e non sembrava provare alcun disagio fisico. Successivamente ebbe luogo la seguente conversazione: V., nel ruolo del paziente, e io stesso.
+
+_P._ Sei addormentato?
+
+_Sì, no; preferirei dormire più profondamente_.
+
+_Dopo ancora qualche passaggio,, dormi adesso?_
+
+_Sì._ Sì, davvero.
+
+_Q._ In che modo pensi che possa finire la tua attuale malattia?
+
+_Dopo un lungo esitare, parlando come se ci fosse costretto,_  
+_devo morire._
+
+_P._ L’idea della [[motifs/death|morte]] ti angoscia?
+
+_V._ _Molto velocemente_. No, no!
+
+_P._ Sei soddisfatto di questa prospettiva?
+
+_V._ Se fossi sveglio vorrei morire, ma ora non importa più. Questo stato di incoscienza è così vicino alla [[motifs/death|morte]] da rendermi soddisfatto._
+
+_P._ Vorrei che si spiegasse, signor Vankirk.
+
+_V._ Sono disposto a farlo, ma richiede più sforzi di quelli che sono in grado di dedicare. Non mi stai ponendo le domande giuste.
+
+_Q._ Allora, cosa dovrei chiedere?
+
+Devi iniziare dal principio.
+
+_L._ Il principio! Ma dove si trova il principio?_
+
+_V._ Sai che l’inizio è Dio. _Queste parole furono pronunciate con un tono basso e incerto, accompagnate da ogni segno di profonda venerazione_.
+
+_D._ Allora, che cos’è Dio?
+
+_V._ [_Esito da molti minuti._] Non riesco a deciderlo.
+
+_D._ Non è forse lo Spirito Dio?_
+
+_V._ Mentre ero sveglio capivo cosa intendevi per “spirito”, ma ora sembra soltanto una parola, come ad esempio [[concepts/truth|verità]], [[concepts/beauty|bellezza]]: insomma, una qualità.
+
+_D._ Non è forse Dio qualcosa di immateriale?_
+
+Non esiste nulla di immateriale; è solo un termine vuoto. Ciò che non è materia, semplicemente non esiste affatto, a meno che le qualità non siano considerate entità reali.
+
+_D._ Quindi Dio è materiale?
+
+_V._ N. _[Questa risposta mi ha molto sorpreso.]_
+
+_D._ Allora, chi è lui?
+
+_Dopo una lunga pausa, mormorando:_ Capisco, ma è qualcosa di difficile da spiegare. _Altra lunga pausa._ Non è spirito, perché esiste; né materia, come la si intende comunemente. Esistono però delle _gradazioni_ della materia di cui l’uomo non sa nulla: quelle più dense spingono quelle più sottili, mentre queste ultime permeano le prime. L’atmosfera, ad esempio, spinge il principio elettrico, che a sua volta permea l’atmosfera. Queste gradazioni della materia diventano sempre più rare e sottili, fino a raggiungere una materia _imparticellata_ – senza particelle, indivisibile – e in questo caso la legge di spinta e permeazione subisce modifiche. La materia ultima, o imparticellata, non solo permea tutte le cose, ma le spinge anche; ed è proprio per questo che _è_ tutte le cose in sé stessa. Questa materia, è Dio. Quello che gli uomini cercano di esprimere con la parola “pensiero”, è proprio questa materia in movimento._
+
+_I metafisici sostengono che ogni azione possa essere ridotta a movimento e pensiero, e che il secondo sia l’origine del primo._
+
+_Sì_; e ora comprendo la confusione di idee. Il movimento è l’azione della _mente_, non del _pensiero_. La materia informe, o Dio, nella sua quiete, è (quanto possiamo concepirlo) ciò che gli uomini chiamano mente. E il potere del _movimento autonomo_ (equivalente, in effetto, alla volontà umana) è, nella materia informe, il risultato della sua unità e onnipresenza; _come_ ciò avvenga, non lo so, e ora capisco chiaramente che non lo saprò mai. Ma la materia informe, messa in movimento da una legge o qualità esistente al suo interno, è, pensiero.
+
+_P._ Può darmi un'idea più precisa di ciò che lei definisce “materia priva di particelle”?
+
+_V._ Le cose di cui l’uomo ha conoscenza sfuggono ai sensi in modo graduale. Ad esempio, abbiamo un metallo, un pezzo di legno, una goccia d’[[motifs/water|acqua]], l’atmosfera, un gas, il calore, l’elettricità, l’etere luminoso. Ora chiamiamo tutte queste cose “materia” e le includiamo in una definizione generale; ma nonostante ciò, non esistono due concetti più essenzialmente diversi di quelli che attribuiamo al metallo e all’etere luminoso. Quando arriviamo all’ultimo, proviamo quasi un’inclinazione irresistibile a classificarlo come “spirito” o come “nullità”. L’unica considerazione che ci trattiene è la nostra concezione della sua struttura atomica; anche in questo caso, dobbiamo ricorrere al concetto di atomo, inteso come qualcosa che possiede solidità, tangibilità e peso, anche se in misura infinitesimale. Se distruggessimo l’idea della struttura atomica, non potremmo più considerare l’etere come un ente reale, o almeno come materia. Per mancanza di un termine migliore, potremmo chiamarlo “spirito”. Ora, facciamo un ulteriore passo avanti: immaginiamo una materia ancora più rara dell’etere, e arriveremo immediatamente (nonostante tutti i dogmi accademici) a un’entità unica, una materia senza parti. Anche se possiamo ammettere che gli atomi stessi siano infinitesimamente piccoli, l’infinità degli spazi tra di loro sarebbe assurda; esisterebbe quindi un punto, un grado di rarità tale che, se gli atomi fossero sufficientemente numerosi, gli spazi intermedi svanirebbero e l’intera massa si fonderebbe completamente. Ma se eliminiamo la considerazione della struttura atomica, la natura di questa massa tende inevitabilmente verso ciò che consideriamo “spirito”. Tuttavia è chiaro che si tratta comunque di materia, proprio come prima. La verità è che non possiamo concepire il “spirito”, poiché non possiamo immaginare nulla che non esista realmente. Quando ci illudiamo di averne compreso la natura, in realtà stiamo semplicemente ingannando la nostra mente, considerando materia infinitamente rarefatta._
+
+_P._ A mio parere, esiste un ostacolo insormontabile all’idea di una coalescenza assoluta; tale ostacolo è rappresentato dalla leggerissima resistenza che i corpi celesti incontrano nel loro movimento nello spazio. Questa resistenza, è vero, è stata dimostrata esistere in qualche misura, ma è così lieve da essere completamente trascurata persino dall’intelligenza di Newton. Sappiamo infatti che la resistenza dei corpi è proporzionale alla loro densità; una coalescenza assoluta significherebbe quindi una densità assoluta. Laddove non ci siano spazi intermedi, non può esserci alcun cedimento. Un etere di densità assoluta ostacolerebbe in modo infinitamente più efficace il movimento di una stella rispetto a un etere composto da materiale solido come l’adamanto o il ferro._
+
+_V._ La vostra obiezione viene risposta con tale facilità che questa facilità è quasi proporzionale alla sua apparente irrisolvibilità. Per quanto riguarda il movimento delle stelle, non fa alcuna differenza se la stella attraversi l’etere _o se sia l’etere a passare attraverso di essa_. Non esiste errore astronomico più inspiegabile di quello che riesce a conciliare il noto ritardo delle comete con l’idea del loro passaggio attraverso un’etere: infatti, per quanto raro si possa considerare questo etere, esso dovrebbe fermare completamente ogni movimento celeste in un periodo molto più breve di quello ammesso dagli astronomi che hanno cercato di eludere una questione che ritenevano impossibile da comprendere. Il ritardo effettivamente osservato, d’altra parte, è più o meno quello che ci si potrebbe aspettare a causa della _frizione_ dell’etere durante il passaggio istantaneo attraverso l’orbita delle stelle. Nel primo caso, la forza che provoca il ritardo è momentanea e completa in sé stessa; nel secondo caso, invece, essa si accumula continuamente nel tempo._
+
+_M._ Ma in tutto questo, in questa identificazione della semplice materia con Dio, non c’è nulla di irriverente? _Sono stato costretto a ripetere questa domanda finché il “risvegliatore del sonno” non ha compreso appieno il mio significato_._
+
+_V._ Puoi spiegare perché la materia debba essere meno rispettata dell’intelletto? Ma dimentichi che quella materia di cui parlo è, sotto tutti gli aspetti, lo stesso “intelletto” o “spirito” delle scuole, per quanto riguarda le loro elevate capacità; inoltre, è proprio questa “materia” che costituisce il cuore stesso di queste scuole. Dio, con tutte le potenze attribuite allo spirito, non è altro che la perfezione della materia._
+
+_D._ Quindi affermi che la materia priva di parti, quando è in movimento, è considerata “pensiero”?
+
+In generale, questo movimento rappresenta il pensiero universale dell’intelligenza universale. Questo pensiero crea; tutte le cose create non sono altro che i pensieri di Dio.
+
+_P._ Dici “in generale”.
+
+_Sì_. La mente universale è Dio. Per la nascita di nuove individualità, la _materia_ è necessaria.
+
+_M._ Ma ora parli di “mente” e “materia” proprio come fanno i metafisici.
+
+_Sì,_ per evitare confusione. Quando dico “mente”, intendo la materia impersonale o ultima; con “materia”, invece, mi riferisco a tutto il resto.
+
+Per nuove individualità, la materia è necessaria.
+
+_Sì_; infatti, la mente, in quanto entità non incarnata, è semplicemente Dio. Per creare esseri pensanti individuali, fu necessario incarnare parti di questa mente divina. Così l’uomo diventa individuale. Se privato di queste incarnazioni, l’uomo stesso sarebbe Dio. Ora, il movimento particolare delle parti della materia non incarnata che costituiscono l’uomo è il pensiero umano; mentre il movimento dell’intera realtà divina è quello di Dio stesso.
+
+_D._ Dici che, privato del [[concepts/body|corpo]], l’uomo diventerà Dio?
+
+_Dopo molta esitazione, non sarei mai riuscito a dirlo; è un’assurdità._
+
+_P._ (_Riferendomi alle mie note._) Hai davvero detto che “l’uomo, privato delle vesti corporative, è Dio”.
+
+_V._ E questo è vero. L’uomo, privato di tutto ciò che lo rende individuale, diventerebbe Dio, ma non può mai essere privato in questo modo, almeno non _diventerà_ mai così; altrimenti dovremmo immaginare un atto di Dio che si ripeta su se stesso, un atto senza scopo e futile. L’uomo è una creatura; le creature sono pensieri di Dio. E la natura del pensiero è quella di essere irrevocabile._
+
+_P._ Non capisco. Vuoi dire che quell’uomo non si libererà mai del [[concepts/body|corpo]]?
+
+_Dico che lui non diventerà mai senza corpo._ _V._ Dico che lui non diventerà mai senza corpo._
+
+_P._ Spiegami.
+
+_V._ Esistono due forme di esistenza: la rudimentale e quella completa; esse corrispondono alle due fasi dello sviluppo di un verme e di una farfalla. Quello che chiamiamo “[[motifs/death|morte]]” non è altro che una dolorosa metamorfosi. La nostra attuale incarnazione è progressiva, preparatoria, temporanea; il nostro futuro sarà perfetto, definitivo, immortale. La vita definitiva rappresenta il completamento del disegno divino originario._
+
+_P._ Ma della metamorfosi del verme ne siamo consapevoli in modo evidente.
+
+_Lui_, certamente – ma non il verme. La materia di cui è composto il nostro rudimentale [[concepts/body|-corpo]] è accessibile ai sensi di quel [[concepts/body|-corpo]]; o, per dirla in modo più chiaro, i nostri organi rudimentali sono adattati alla materia che costituisce il corpo rudimentare; ma non a quella di cui è formato il corpo definitivo. Il corpo definitivo, pertanto, sfugge ai nostri sensi rudimentari; percepiamo soltanto la “scorza” che, decadendo, si stacca dalla forma interna; non quella forma interna in sé. Ma questa forma interna, così come la scorza, può essere compresa da coloro che hanno già raggiunto lo stato di vita definitivo._
+
+_P._ Hai spesso detto che lo stato di ipnosi assomiglia molto alla [[motifs/death|morte]]. Come mai?
+
+_V._ Quando dico che assomiglia alla [[motifs/death|morte]], intendo dire che assomiglia alla vita ultima; perché quando sono in estasi, i sensi della mia vita rudimentale vengono messi da parte, e percepisco le cose esterne direttamente, senza l’ausilio di organi, attraverso un mezzo che utilizzerò nella vita ultima, quella disorganizzata.
+
+_P._ Senza organizzazione?
+
+_Sì; gli organi sono strumenti grazie ai quali l’individuo entra in relazione con determinate classi e forme di materia, escludendo altre classi e forme. Gli organi dell’uomo sono adattati soltanto alla sua condizione primordiale; la sua condizione finale, essendo priva di organizzazione, è di comprensione illimitata in tutti gli aspetti, tranne uno: la [[concepts/nature|natura]] della volontà di Dio, cioè il movimento della materia informe. Potrete avere un’idea chiara del [[concepts/body|-corpo]] finale immaginandolo come un cervello intero. Ma non è così; piuttosto, comprendere questa [[concepts/nature|natura]] vi avvicinerà alla vera essenza di ciò che esso _è_. Un [[concepts/body|-corpo]] luminoso trasmette vibrazioni all’etere luminoso; queste vibrazioni vengono generate nella retina e successivamente inviate al nervo ottico, dal quale raggiungono il cervello, che a sua volta le trasmette alla materia informe che lo permea. Il movimento di questa materia è ciò che costituisce il pensiero; la percezione ne rappresenta soltanto l’onda iniziale. È così che la mente delle forme di vita primordiali comunica con il mondo esterno. Ma per queste forme, il mondo esterno è limitato dalle caratteristiche specifiche dei loro organi. Nella vita finale, invece, priva di organizzazione, il mondo esterno raggiunge l’intero [[concepts/body|-corpo]] (formato da una sostanza affine al cervello), senza alcun intermediario. Solo un’etere ancora più rara di quella luminosa interviene in questo processo; e all’unisono con essa, l’intero [[concepts/body|-corpo]] vibra, mettendo in movimento la materia informe che lo permea. È proprio l’assenza di organi specifici a permettere alla vita finale una percezione quasi illimitata del mondo esterno._
+
+_P._ Parli di esseri pensanti primitivi. Esistono altri esseri pensanti primitivi oltre all’uomo?
+
+_La massa enorme di materia rara che si aggrega in nebulose, pianeti, soli e altri corpi, che né sono nebulose né soli né pianeti, ha lo scopo unico di fornire il “nutrimento” necessario alle caratteristiche specifiche degli organi di un’infinità di esseri rudimentali. Ma se non ci fosse stata la necessità di questi esseri rudimentali, prima dell’esistenza della vita definitiva, non esisterebbero corpi del genere. Ogni uno di questi corpi è abitato da una diversa specie di creature organiche, rudimentali e pensanti. In generale, gli organi di queste creature variano in base alle caratteristiche del luogo in cui vivono. Alla [[motifs/death|morte]] o durante la metamorfosi, queste creature, che godono della vita definitiva – l’[[concepts/immortality|immortalità]] – e conoscono tutti gli [[motifs/secrets|segreti]] tranne quello fondamentale, compiono qualsiasi azione e si spostano ovunque semplicemente per volontà propria. Non abitano le [[motifs/stars|stelle]], che a noi sembrano l’unica realtà tangibile e per cui riteniamo che lo spazio sia stato creato in modo cieco. Ma abitano lo SPAZIO stesso, quell’infinità la cui vastità sostanziale inghiotte le ombre delle stelle, cancellandole dalla percezione degli angeli._
+
+_Dici che “senza la _necessità_ di una vita elementare” non ci sarebbero state le [[motifs/stars|stelle]]. Ma perché questa necessità?_
+
+_V._ Nella vita inorganica, così come nella materia inorganica in generale, non esiste nulla che possa ostacolare l’azione di una legge semplice e _unica_: la Volontà Divina. Al fine di creare degli ostacoli, sono stati creati la vita e la materia organiche, complesse, sostanziali e soggette a molteplici leggi.
+
+_P._ Ma ancora una volta: perché mai è stato necessario creare questo ostacolo?
+
+_V._ Il risultato dell’osservanza delle leggi inviolabili è la perfezione, il bene, la felicità negativa. Il risultato della loro violazione è l’imperfezione, il male, il dolore positivo. Grazie agli ostacoli creati dal numero, dalla complessità e dalla sostanzialità delle leggi della vita organica e della materia, la violazione di tali leggi diventa, in certa misura, possibile. Pertanto, il dolore – che nell’essere inorganico è impossibile – diventa possibile nell’essere organico._
+
+_M._ Ma a quale scopo utile viene reso possibile il [[motifs/pain|dolore]] in questo modo?_
+
+_V._ Tutto è buono o cattivo solo in relazione a qualcos'altro. Un'analisi approfondita dimostrerà che il piacere, in ogni caso, non è altro che il contrasto con la [[motifs/pain|dolore]]. Il “piacere positivo” non è altro che un’idea. Per essere felici in qualsiasi momento, dobbiamo aver sofferto in precedenza; non soffrire mai significherebbe non essere mai stati benedetti. Tuttavia, si è dimostrato che, nella vita inorganica, la [[motifs/pain|dolore]] non può rappresentare una necessità per quella organica. La [[motifs/pain|dolore]] della vita primordiale sulla Terra è l’unica base della beatitudine della vita ultima in Cielo._
+
+_P._ Tuttavia, c’è un’espressione tua che trovo impossibile da comprendere: “la vera e propria vastità sostanziale dell’infinito”.
+
+_V._ Probabilmente questo accade perché non si possiede una concezione sufficientemente generale del termine “_sostanza_” stesso. Non dobbiamo considerarlo una qualità, ma un sentimento: è la percezione, negli esseri pensanti, dell’adattamento della materia alla loro organizzazione. Ci sono molte cose sulla Terra che per gli abitanti di [[characters/venus|Venus]] sarebbero semplicemente nulla; molte cose visibili e tangibili su [[characters/venus|Venus]] che noi non riusciremmo nemmeno a considerare esistenti. Ma per gli esseri inorganici, per gli angeli, l’intera materia priva di particelle rappresenta la vera sostanza; in altre parole, tutto ciò che chiamiamo “spazio” è per loro la realtà sostanziale più autentica. Le [[motifs/stars|stelle]], invece], attraverso quella che consideriamo la loro materialità, sfuggono alla percezione angelica, proprio come la materia priva di particelle, attraverso ciò che riteniamo la sua immaterialità, elude la comprensione degli esseri organici._
+
+Mentre il risvegliatore del sonno pronunciava queste ultime parole con un tono debole, notai sul suo volto un'espressione strana che mi allarmò un po', e così decisi di svegliarlo immediatamente. Non appena lo feci, con un sorriso radioso che illuminava tutto il suo viso, si abbandonò nuovamente sul cuscino ed esalò l'ultimo respiro. Notai che in meno di un minuto il suo corpo assunse una rigidità totale, simile a quella della pietra; la sua fronte era fredda come il ghiaccio. In genere, una tale condizione si manifesta soltanto dopo una lunga pressione da parte della mano di Azrael. Forse il risvegliatore del sonno, in realtà, durante le ultime parole che aveva detto, mi stava parlando dall’aldilà?
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="Mesmeric Revelation (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/night,motif/pain,motif/sleep,motif/soul,motif/time,motif/well,concept/doubt,concept/immortality,concept/mesmerism,concept/self,concept/suffering,setting/germany,character/trinculo"></span>

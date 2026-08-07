@@ -28,6 +28,12 @@ tags:
 > [!abstract] 
 > Eliot's last verse drama: the retired public man Lord Claverton is confronted at a rest-home by ghosts of his guilty past (Gomez, Mrs. Carghill) and, through confession and his daughter's love, finds contrition, self-knowledge and peace before death.
 
+## Capitoli / Chapters
+
+- [Act I](/testi/eliot/plays/the_elder_statesman#act_1--scene_1)
+- [Act II](/testi/eliot/plays/the_elder_statesman#act_2--scene_1)
+- [Act III](/testi/eliot/plays/the_elder_statesman#act_3--scene_1)
+
 ## Connections
 
 **Archetypes:** [[archetypes/ghost|Ghost]]

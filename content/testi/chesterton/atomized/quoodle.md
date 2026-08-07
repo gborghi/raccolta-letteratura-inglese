@@ -60,7 +60,7 @@ The Noselessness of Man.
 
 IL CANTO DI [[characters/quoodle|QUOODLE]]  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 Non hanno naso alcuno,  
 i figli caduti d'Eva;  

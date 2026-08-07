@@ -212,6 +212,123 @@ the restaurant withdrew.
 ------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# storia improbabile
+
+Una Storia Alquanto Improbabile
+
+di G. K. Chesterton
+da Tremendous Trifles (1909)
+
+Non riesco a ricordare se questo racconto sia vero o no.  Se lo rileggessi
+con molta attenzione, ho il sospetto che giungerei
+alla conclusione che non lo è.  Ma, purtroppo, non posso rileggerlo
+con molta attenzione perché, vedete, non è ancora scritto.
+L'immagine e l'idea di esso mi si aggrapparono addosso per gran parte
+della mia fanciullezza; forse lo sognai prima di saper parlare; o me lo raccontai
+prima di saper leggere; o lo lessi prima di saper ricordare.
+Nel complesso, tuttavia, sono certo di non averlo letto,
+perché i bambini hanno ricordi molto nitidi di cose simili;
+e dei libri di cui ero davvero ghiotto rammento ancora,
+non solo la forma, la mole e la rilegatura, ma perfino la posizione
+delle parole stampate su molte delle pagine.  Nel complesso,
+propendo per l'opinione che mi sia accaduto prima di nascere.
+
+* * * * *
+
+A ogni modo, raccontiamo ora la storia con tutti i vantaggi
+dell'atmosfera che le è rimasta attaccata.  Potete immaginarmi,
+per amor di discussione, seduto a pranzo in uno di quei ristoranti
+a pasto rapido nella [[motifs/city|Città]] dove gli uomini consumano il cibo così in fretta che esso
+perde ogni qualità di cibo, e si prendono la loro mezz'ora
+di svago così in fretta che essa perde ogni qualità di svago;
+affrettarsi durante il proprio svago è la più poco pratica delle azioni.
+Portavano tutti alti cilindri lucenti, come se non potessero perdere un istante
+nemmeno per appenderli a un gancio, e avevano tutti un occhio un po' sviato,
+ipnotizzato dall'enorme occhio dell'[[motifs/clock|orologio]].  Insomma, erano gli schiavi
+della schiavitù moderna, se ne udivano tintinnare le catene.
+Ciascuno era, di fatto, legato da una catena; la catena più pesante mai legata
+a un uomo — si chiama catena da orologio.
+
+Ora, tra costoro, ne entrò e si sedette di fronte a me uno
+che quasi subito diede avvio a un monologo ininterrotto.
+Nell'abito era come tutti gli altri uomini, eppure ne era sorprendentemente
+l'opposto in ogni modo.  Portava un alto cilindro lucente
+e una lunga finanziera, ma li portava come tali cose solenni
+erano fatte per essere portate; portava il cappello di seta come se fosse una mitra,
+e la finanziera come se fosse l'efod di un sommo sacerdote.
+Non solo appese il cappello al gancio, ma sembrava
+(tale era la sua maestosità) quasi chiedere permesso al cappello
+per farlo, e scusarsi col gancio per servirsene.
+Quando si fu seduto su una sedia di legno con l'aria di chi
+ne considera i sentimenti, e ebbe rivolto una sorta di lieve inchino
+o riverenza al tavolo di legno stesso, come se fosse un altare,
+non potei fare a meno di lasciarmi sfuggire qualche commento.
+Perché l'uomo era un uomo grande, dal volto sanguigno e dall'aria prospera,
+eppure trattava ogni cosa con una cura che rasentava quasi
+il nervosismo.
+
+Per dire qualcosa che esprimesse il mio interesse dissi:
+"Questo mobilio è piuttosto solido; ma, certo, la gente lo tratta
+con troppa noncuranza."
+
+Mentre alzavo lo sguardo dubbioso, il mio occhio incontrò il suo, e vi restò fisso
+com'era fisso il suo in uno sguardo apocalittico.  L'avevo creduto
+ordinario quando era entrato, salvo per i suoi modi strani e guardinghi;
+ma se le altre persone l'avessero visto allora, avrebbero strillato
+e svuotato la stanza.  Non lo videro, e continuarono a fare
+un fracasso con le forchette, e un mormorio con la loro conversazione.
+Ma il volto dell'uomo era il volto di un maniaco.
+
+"Intendeva qualcosa di particolare con quell'osservazione?" chiese infine,
+e il [[motifs/blood|sangue]] rifluì lentamente nel suo volto.
+
+"Assolutamente nulla," risposi.  "Qui non si intende mai nulla;
+rovina la digestione alla gente."
+
+Si ritrasse zoppicando e si asciugò l'ampia fronte con un gran fazzoletto;
+eppure pareva esserci una sorta di rammarico nel suo sollievo.
+
+"Temevo forse," disse a voce bassa, "che un altro di loro
+fosse andato storto."
+
+"Se intende un'altra digestione andata storta," dissi, "non ne ho mai sentita
+una, qui, che sia andata per il verso giusto.  Questo è il cuore dell'Impero,
+e gli altri organi sono messi altrettanto male."
+
+«No, intendo un'altra strada andata a male», e disse, pesante e tranquillo, «ma poiché suppongo che ciò non vi spieghi gran che, credo che dovrò raccontarvi la storia. Lo faccio con tanta minore responsabilità in quanto so che non mi crederete. Per quarant'anni della mia vita ho invariabilmente lasciato il mio ufficio, che è in Leadenhall Street, alle cinque e mezza del pomeriggio, portando con me un ombrello nella mano destra e una borsa nella sinistra. Per quarant'anni, due mesi e quattro giorni sono uscito dalla porta laterale dell'ufficio, ho percorso la strada sul lato sinistro, ho preso la prima svolta a sinistra e la terza a destra, di là dove compravo un giornale della sera, ho seguito la [[motifs/road|via]] sul lato destro attorno a due angoli ottusi, e sono sbucato proprio fuori da una stazione della Metropolitana, dove prendevo un treno per [[motifs/home|casa]]. Per quarant'anni, due mesi e quattro giorni ho compiuto questo tragitto per abitudine accumulata: non era una strada lunga quella che percorrevo, e mi ci volevano circa quattro minuti e mezzo a farla. Dopo quarant'anni, due mesi e quattro giorni, il quinto giorno uscii nel medesimo modo, con l'ombrello nella mano destra e la borsa nella sinistra, e cominciai ad accorgermi che il camminare lungo la strada familiare mi stancava un po' più del solito; e quando la svoltai fui convinto d'aver imboccato quella sbagliata. Poiché ora la strada saliva con una pendenza assai ripida, come se ne vedono soltanto nelle parti collinose di [[settings/london|Londra]], e in quel quartiere non v'erano colline affatto. Eppure non era la strada sbagliata; il nome scritto su di essa era il medesimo; le botteghe con le imposte chiuse erano le medesime; i lampioni e l'intero aspetto della prospettiva erano i medesimi; solo che era inclinata all'insù come un coperchio sollevato. Dimenticando ogni fastidio d'affanno o di fatica corsi furiosamente in avanti, e raggiunsi la seconda delle mie svolte consuete, che avrebbe dovuto portarmi quasi in vista della stazione. E come svoltai quell'angolo per poco non caddi sul marciapiede. Poiché ora la strada saliva dritta davanti alla mia faccia come una ripida scalinata o il fianco di una piramide. Non v'era, per miglia all'intorno di quel luogo, tanto quanto una salita simile a quella di Ludgate [[motifs/hill|Hill]]. E questa era una salita come quella del Cervino. L'intera strada si era sollevata come una singola onda, eppure ogni granello e ogni particolare di essa era il medesimo, e vidi in alto, in lontananza, come alla sommità di un passo alpino, spiccare in lettere rosa il nome sopra la mia edicola.
+
+«Corsi avanti e avanti, ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[motifs/road|via]] dove v'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione d'essere su un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando giù attraverso di essa vidi lo spazio vuoto e le stelle.
+
+«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[motifs/garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua casa; era appoggiato alla ringhiera e mi fissava. Eravamo tutti soli su quella [[motifs/road|strada]] da incubo; il suo volto era nell'[[archetypes/shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
+
+«"Se sei un angelo benigno", dissi, "o un diavolo saggio, o hai qualcosa in comune col genere umano, dimmi che cos'è questa strada posseduta dai demoni".
+
+«Dopo un lungo [[motifs/silence|silenzio]] disse: "Che cosa dici tu che sia?".
+
+«"È Bumpton Street, naturalmente", scattai. "Va alla stazione di Oldgate".
+
+«"Sì", ammise con gravità; "va là qualche volta. Proprio ora, però, sta andando in cielo".
+
+«"In cielo?", dissi. "Perché?".
+
+«"Sta andando in cielo per ottenere giustizia", rispose. «Devi averla trattata male. Ricòrdati sempre che c'è una cosa che nessuno e niente può sopportare. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare le donne di lavoro: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Al [[motifs/time|tempo]] stesso, puoi trascurare i vagabondi e gli zingari e tutto l'apparente rifiuto dello Stato, purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[motifs/horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e insieme di avere meno del suo [[concepts/honour|onore]]. Lo stesso vale per le strade. Tu hai sfruttato questa strada fino alla [[motifs/death|morte]], eppure non ti sei mai ricordato della sua esistenza. Se tu avessi una sana [[concepts/democracy|democrazia]], anche solo di pagani, avrebbero adornato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora sarebbe andata via quieta. Ma almeno la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non sei mai stato in sella a un [[motifs/horse|cavallo]] che s'impenna?".
+
+«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia ragione ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
+
+«"Perché la pensi così di una strada?", chiese, restando immobilissimo.
+
+«"Perché l'ho sempre vista fare la medesima cosa", risposi, in ragionevole collera. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo...".
+
+«Mi fermai, perché egli aveva levato il capo con la furia della [[motifs/road|strada]] in rivolta.
+
+«"E tu?", gridò terribilmente. "Che cosa pensi che la [[motifs/road|strada]] pensi di te? Pensa forse la [[motifs/road|strada]] che tu sia vivo? Sei tu vivo? Giorno dopo giorno, anno dopo anno, sei andato alla stazione di Oldgate...". Da allora ho rispettato le cose dette inanimate».
+
+E inchinandosi leggermente al vasetto della senape, l'uomo nel ristorante si ritirò.
+
+------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="improbable_story (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock"></span>

@@ -76,7 +76,7 @@ _________________________________________________________________
 
 L'Ultimo [[archetypes/hero|Eroe]]  
 
-G.K. Chesterton
+G.K. Chesterton  
 
 Il [[motifs/wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 Vi fu strage d'alberi e crollo di torri a venti miglia di distanza,  

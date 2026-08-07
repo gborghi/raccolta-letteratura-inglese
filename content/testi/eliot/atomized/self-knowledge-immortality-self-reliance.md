@@ -53,45 +53,6 @@ And that one who went his own way.
 Pray for Floret, by the boarhound slain between the yew trees,  
 Pray for us now and at the hour of our birth.  
 
-[[characters/marina|Marina]]  
-Quis hic locus, quae  
-regio, quae mundi plaga?  
-    What seas what shores what grey rocks and what islands  
-What [[motifs/water|water]] lapping the bow  
-And scent of pine and the woodthrush singing through the fog  
-What images return  
-O my daughter.  
-    Those who sharpen the tooth of the dog, meaning  
-[[motifs/death|Death]]  
-Those who glitter with the glory of the hummingbird, meaning  
-[[motifs/death|Death]]  
-Those who sit in the sty of contentment, meaning  
-[[motifs/death|Death]]  
-Those who suffer the ecstasy of the [[motifs/animals|animals]], meaning  
-[[motifs/death|Death]]  
-    Are become unsubstantial, reduced by a [[motifs/wind|wind]],  
-A breath of pine, and the woodsong fog  
-By this grace dissolved in place  
-    What is this face, less clear and clearer  
-The pulse in the arm, less strong and stronger —  
-Given or lent? more distant than [[motifs/stars|stars]] and nearer than the eye  
-    Whispers and small laughter between [[motifs/leaves|leaves]] and hurrying feet  
-Under [[motifs/sleep|sleep]], where all the waters meet.  
-    Bowsprit cracked with ice and paint cracked with heat.  
-I made this, I have forgotten  
-And remember.  
-The rigging weak and the canvas rotten  
-Between one June and another September.  
-Made this unknowing, half conscious, unknown, my own.  
-The garboard strake leaks, the seams need caulking.  
-This form, this face, this life  
-Living to live in a world of [[motifs/time|time]] beyond me; let me  
-Resign my life for this life, my speech for that unspoken,  
-The awakened, lips parted, the [[concepts/hope|hope]], the new ships.  
-    What seas what shores what granite islands towards my timbers  
-And woodthrush calling through the fog  
-My daughter.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -132,46 +93,7 @@ per Boudin, fatto a pezzi,
 per questo che fece una grande fortuna,  
 e per quello che andò per la sua strada.  
 Pregate per Floret, ucciso dal cane da caccia fra i tassi,  
-pregate per noi ora e nell’ora della nostra nascita.  
-
-[[characters/marina|Marina]]  
-Quis hic locus, quae  
-regio, quae mundi plaga?  
-    Quali mari quali rive quali rocce grigie e quali isole  
-quale [[motifs/water|acqua]] che lambisce la prua  
-e odore di pino e il tordo dei boschi che canta attraverso la nebbia  
-quali immagini ritornano  
-o figlia mia.  
-    Quelli che affilano il dente del cane, cioè  
-[[motifs/death|Morte]]  
-quelli che sfolgorano della gloria del colibrì, cioè  
-[[motifs/death|Morte]]  
-quelli che siedono nel porcile dell’appagamento, cioè  
-[[motifs/death|Morte]]  
-quelli che patiscono l’estasi degli [[motifs/animals|animali]], cioè  
-[[motifs/death|Morte]]  
-    sono divenuti inconsistenti, ridotti da un [[motifs/wind|vento]],  
-un respiro di pino, e la nebbia del canto dei boschi  
-per questa grazia disciolti nel luogo  
-    Che cos’è questo volto, meno chiaro e più chiaro  
-il polso nel braccio, meno forte e più forte —  
-dato o prestato? più lontano delle [[motifs/stars|stelle]] e più vicino dell’occhio  
-    Sussurri e piccole risa fra le [[motifs/leaves|foglie]] e piedi frettolosi  
-sotto il [[motifs/sleep|sonno]], dove tutte le acque s’incontrano.  
-    Bompresso incrinato dal ghiaccio e vernice screpolata dal calore.  
-Io feci questo, ho dimenticato  
-e ricordo.  
-Il sartiame debole e la tela marcia  
-fra un giugno e un altro settembre.  
-Feci questo inconsapevole, semicosciente, ignoto, mio.  
-Il torello fa acqua, i comenti vanno calafatati.  
-Questa forma, questo volto, questa vita  
-che vive per vivere in un mondo di [[motifs/time|tempo]] oltre me; lascia ch’io  
-rinunci alla mia vita per questa vita, alla mia parola per quella non detta,  
-il risvegliato, le labbra dischiuse, la [[concepts/hope|speranza]], le navi nuove.  
-    Quali mari quali rive quali isole di granito verso le mie travature  
-e il tordo dei boschi che chiama attraverso la nebbia  
-figlia mia.
+pregate per noi ora e nell’ora della nostra nascita.
 
 
 
@@ -214,8 +136,6 @@ When [[concepts/fear|fear]] came upon every [[motifs/soul|soul]]:
 Because the beginning shall remind us of the end  
 And the first coming of the second coming.  
 
-UNFINISHED POEMS  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -253,9 +173,7 @@ possano concentrarsi in una grande gioia
 che sarà anche un grande [[concepts/fear|timore]], come nell’occasione  
 in cui il [[concepts/fear|timore]] scese su ogni [[motifs/soul|anima]]:  
 perché il principio ci ricorderà la fine  
-e la prima venuta la seconda venuta.  
-
-POESIE INCOMPIUTE
+e la prima venuta la seconda venuta.
 
 
 
@@ -400,109 +318,6 @@ A Church for all
 And a job for each  
 Each man to his work.  
 
-II Thus your fathers were made  
-Thus your fathers were made  
-Fellow citizens of the saints, of the household of GOD, being built upon the foundation  
-
-
-Of apostles and prophets, [[characters/christ|Christ]] Jesus Himself the chief cornerstone.  
-But you, have you built [[motifs/well|well]], that you now sit helpless in a ruined house?  
-
-
-Where many are born to idleness, to frittered lives and squalid deaths, embittered scorn in honeyless hives,  
-
-
-And those who would build and restore turn out the palms of their hands, or look in vain towards foreign lands for alms to be more or the urn to be filled.  
-
-
-Your building not fitly framed together, you sit ashamed and [[concepts/wonder|wonder]] whether and how you may be builded together for a habitation of GOD in the Spirit, the Spirit which moved on the face of the waters like a lantern set on the back of a tortoise.  
-
-
-And some say: ‘How can we [[motifs/love|love]] our neighbour? For [[motifs/love|love]] must be made real in act, as [[motifs/desire|desire]] unites with desired; we have only our labour to give and our labour is not required.  
-
-
-We wait on corners, with nothing to bring but the songs we can sing which nobody wants to hear sung;  
-
-
-Waiting to be flung in the end, on a heap less useful than dung’.  
-You, have you built [[motifs/well|well]], have you forgotten the cornerstone?  
-Talking of right relations of men, but not of relations of men to GOD.  
-
-
-‘Our citizenship is in Heaven’; yes, but that is the model and type for your citizenship upon earth.  
-
-
-When your fathers fixed the place of GOD,  
-
-
-And settled all the inconvenient saints.  
-Apostles, martyrs, in a kind of Whipsnade,  
-Then they could set about imperial expansion  
-Accompanied by industrial development.  
-Exporting iron, coal and cotton goods  
-And intellectual enlightenment  
-And everything, including capital  
-And several versions of the Word of GOD:  
-
-
-The British race assured of a mission  
-Performed it, but left much at [[motifs/home|home]] unsure.  
-Of all that was done in the past, you eat the fruit, either rotten or ripe.  
-
-
-And the Church must be forever building, and always decaying, and always being restored.  
-
-
-For every ill deed in the past we suffer the consequence:  
-For sloth, for avarice, gluttony, neglect of the Word of GOD,  
-
-
-For [[concepts/pride|pride]], for lechery, treachery, for every act of sin.  
-And of all that was done that was good, you have the inheritance.  
-For good and ill deeds belong to a man alone, when he stands alone on the other side of [[motifs/death|death]],  
-
-
-But here upon earth you have the reward of the good and ill that was done by those who have gone before you.  
-
-
-And all that is ill you may repair if you walk together in humble repentance, expiating the sins of your fathers;  
-
-
-And all that was good you must fight to keep with hearts as devoted as those of your fathers who fought to gain it.  
-
-
-The Church must be forever building, for it is forever decaying within and attacked from without;  
-
-
-For this is the law of life; and you must remember that while there is [[motifs/time|time]] of prosperity  
-
-
-The people will neglect the Temple, and in [[motifs/time|time]] of adversity they will decry it.  
-
-
-What life have you if you have not life together?  
-There is no life that is not in community,  
-And no community not lived in praise of GOD.  
-
-
-Even the anchorite who meditates alone,  
-For whom the days and nights repeat the praise of GOD,  
-
-
-Prays for the Church, the [[concepts/body|Body]] of [[characters/christ|Christ]] incarnate.  
-And now you live dispersed on ribbon roads,  
-And no man knows or cares who is his neighbour  
-Unless his neighbour makes too much disturbance,  
-But all dash to and fro in motor cars,  
-Familiar with the roads and settled nowhere.  
-Nor does the family even move about together,  
-But every son would have his motor cycle,  
-And daughters ride away on casual pillions.  
-Much to cast down, much to build, much to restore;  
-Let the work not delay, [[motifs/time|time]] and the arm not waste;  
-Let the clay be dug from the pit, let the saw cut the stone,  
-Let the [[motifs/fire|fire]] not be quenched in the forge.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -642,110 +457,7 @@ costruiremmo il principio e la fine di questa strada.
 Costruiamo il significato:  
 una Chiesa per tutti  
 e un impiego per ciascuno  
-ciascun uomo al suo lavoro.  
-
-II Così i vostri padri furono fatti  
-Così i vostri padri furono fatti  
-concittadini dei santi, familiari di DIO, edificati sopra il fondamento  
-
-
-degli apostoli e dei profeti, essendo [[characters/christ|Cristo]] Gesù stesso la pietra angolare.  
-Ma voi, avete costruito [[motifs/well|bene]], se ora sedete inermi in una casa in rovina?  
-
-
-Dove molti nascono all’ozio, a vite sperperate e a morti squallide, a scherno inasprito in alveari senza miele,  
-
-
-E quelli che vorrebbero costruire e restaurare tendono le palme delle mani, o guardano invano verso terre straniere perché l’elemosina sia maggiore o l’urna sia riempita.  
-
-
-Il vostro edificio non ben connesso insieme, sedete vergognosi e vi [[concepts/wonder|chiedete]] se e come possiate essere edificati insieme per un’abitazione di DIO nello Spirito, lo Spirito che si moveva sulla faccia delle acque come una lanterna posata sul dorso d’una tartaruga.  
-
-
-E alcuni dicono: ‘Come possiamo [[motifs/love|amare]] il nostro prossimo? Ché l’[[motifs/love|amore]] dev’essere reso reale nell’atto, come il [[motifs/desire|desiderio]] s’unisce al desiderato; non abbiamo che il nostro lavoro da dare e il nostro lavoro non è richiesto.  
-
-
-Aspettiamo agli angoli, senza nulla da portare se non i canti che sappiamo cantare e che nessuno vuole sentir cantare;  
-
-
-aspettando d’essere gettati alla fine su un mucchio meno utile del letame’.  
-Voi, avete costruito [[motifs/well|bene]], avete dimenticato la pietra angolare?  
-Parlate di giuste relazioni fra gli uomini, ma non delle relazioni degli uomini con DIO.  
-
-
-‘La nostra cittadinanza è nei Cieli’; sì, ma quello è il modello e il tipo della vostra cittadinanza sulla terra.  
-
-
-Quando i vostri padri fissarono il luogo di DIO,  
-
-
-e sistemarono tutti i santi scomodi.  
-Apostoli, martiri, in una specie di Whipsnade,  
-allora poterono darsi all’espansione imperiale  
-accompagnata dallo sviluppo industriale.  
-Esportando ferro, carbone e cotonate  
-e illuminazione intellettuale  
-e ogni cosa, compreso il capitale  
-e parecchie versioni della Parola di DIO:  
-
-
-La razza britannica, certa d’una missione,  
-la compì, ma lasciò molto di incerto in [[motifs/home|patria]].  
-Di tutto ciò che fu fatto nel passato, voi mangiate il frutto, marcio o maturo che sia.  
-
-
-E la Chiesa dev’essere in eterno in costruzione, e sempre in rovina, e sempre restaurata.  
-
-
-Per ogni azione malvagia del passato noi ne patiamo la conseguenza:  
-per l’accidia, per l’avarizia, la gola, l’oblio della Parola di DIO,  
-
-
-per la [[concepts/pride|superbia]], per la lussuria, il tradimento, per ogni atto di peccato.  
-E di tutto ciò che fu fatto di buono, voi avete l’eredità.  
-Ché le azioni buone e le malvagie appartengono all’uomo solo, quando egli sta solo dall’altra parte della [[motifs/death|morte]],  
-
-
-ma qui sulla terra voi avete la ricompensa del bene e del male che fu fatto da coloro che vi hanno preceduto.  
-
-
-E tutto ciò che è male voi potete ripararlo se camminate insieme in umile penitenza, espiando i peccati dei vostri padri;  
-
-
-e tutto ciò che fu buono dovete lottare per conservarlo con cuori devoti quanto quelli dei vostri padri che lottarono per acquistarlo.  
-
-
-La Chiesa dev’essere in eterno in costruzione, ché in eterno si sfascia dall’interno ed è attaccata dall’esterno;  
-
-
-ché questa è la legge della vita; e dovete ricordare che mentre c’è [[motifs/time|tempo]] di prosperità  
-
-
-il popolo trascurerà il Tempio, e nel [[motifs/time|tempo]] dell’avversità lo denigrerà.  
-
-
-Quale vita avete se non avete vita insieme?  
-Non c’è vita che non sia in comunità,  
-e nessuna comunità che non sia vissuta in lode di DIO.  
-
-
-Perfino l’anacoreta che medita solo,  
-per il quale i giorni e le notti ripetono la lode di DIO,  
-
-
-prega per la Chiesa, il [[concepts/body|Corpo]] di [[characters/christ|Cristo]] incarnato.  
-E ora vivete dispersi lungo strade a nastro,  
-e nessuno sa né si cura di chi sia il suo vicino  
-se non quando il vicino fa troppo chiasso,  
-ma tutti corrono qua e là in automobile,  
-pratici delle strade e stabiliti in nessun luogo.  
-Né la famiglia si muove nemmeno insieme,  
-ma ogni figlio vuole la sua motocicletta,  
-e le figlie se ne vanno su selle occasionali.  
-Molto da abbattere, molto da costruire, molto da restaurare;  
-che l’opera non tardi, il [[motifs/time|tempo]] e il braccio non si sprechino;  
-che l’argilla sia cavata dalla fossa, che la sega tagli la pietra,  
-che il [[motifs/fire|fuoco]] non si spenga nella forgia.
+ciascun uomo al suo lavoro.
 
 
 
@@ -782,33 +494,6 @@ Of private experience at its greatest intensity
 Becoming universal, which we call ‘poetry’,  
 May be affirmed in verse.  
 
-To the Indians who Died in Africa  
-To the Indians who Died in Africa was written at the request of Miss Cornelia Sorabji for [[characters/queen|Queen]] Mary’s Book for India (Harrap & Co. Ltd., 1943). I dedicate it now to Bonamy Dobree, because he liked it and urged me to preserve it.  
-
-
-A man’s destination is his own village,  
-His own [[motifs/fire|fire]], and his wife’s cooking;  
-To sit in front of his own door at sunset  
-And see his grandson, and his neighbour’s grandson  
-      Playing in the [[motifs/dust|dust]] together.  
-Scarred but secure, he has many memories  
-Which return at the hour of conversation,  
-(The warm or the cool hour, according to the climate)  
-Of foreign men, who fought in foreign places,  
-      Foreign to each other.  
-A man’s destination is not his destiny  
-Every country is [[motifs/home|home]] to one man  
-And [[concepts/exile|exile]] to another. Where a man dies bravely  
-At one with his destiny, that soil is his.  
-      Let his village remember.  
-This was not your land, or ours: but a village in the Midlands,  
-And one in the Five Rivers, may have the same graveyard.  
-Let those who go [[motifs/home|home]] tell the same story of you:  
-Of action with a common purpose, action  
-None the less fruitful if neither you nor we  
-Know, until the judgment after [[motifs/death|death]],  
-      What is the fruit of action.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -840,34 +525,7 @@ Ciò che dura non è un sostituto del transitorio,
 né l’uno dell’altro. Ma la concezione astratta  
 dell’esperienza privata alla sua massima intensità  
 che si fa universale, e che chiamiamo ‘poesia’,  
-può essere affermata in versi.  
-
-Agli indiani che morirono in Africa  
-Agli indiani che morirono in Africa fu scritta su richiesta di Miss Cornelia Sorabji per il [[characters/queen|Queen]] Mary’s Book for India (Harrap & Co. Ltd., 1943). Ora la dedico a Bonamy Dobrée, perché gli piacque e mi esortò a conservarla.  
-
-
-La destinazione d’un uomo è il suo villaggio,  
-il suo [[motifs/fire|focolare]], e la cucina di sua moglie;  
-sedere davanti alla propria porta al tramonto  
-e vedere suo nipote, e il nipote del vicino  
-      giocare insieme nella [[motifs/dust|polvere]].  
-Sfregiato ma sicuro, ha molti ricordi  
-che tornano nell’ora della conversazione,  
-(l’ora calda o l’ora fresca, secondo il clima)  
-d’uomini stranieri, che combatterono in luoghi stranieri,  
-      stranieri l’uno all’altro.  
-La destinazione d’un uomo non è il suo destino  
-ogni paese è [[motifs/home|patria]] per un uomo  
-ed [[concepts/exile|esilio]] per un altro. Dove un uomo muore con coraggio  
-in armonia col suo destino, quella terra è sua.  
-      Che il suo villaggio lo ricordi.  
-Questa non era la vostra terra, né la nostra: ma un villaggio delle Midlands,  
-e uno nella terra dei Cinque Fiumi, possono avere lo stesso cimitero.  
-Che quelli che tornano a [[motifs/home|casa]] raccontino di voi la stessa storia:  
-d’un’azione con uno scopo comune, un’azione  
-non meno fruttuosa se né voi né noi  
-sappiamo, fino al giudizio dopo la [[motifs/death|morte]],  
-      qual è il frutto dell’azione.
+può essere affermata in versi.
 
 
 
@@ -974,16 +632,6 @@ And one that we are ever loth to say.
 But ’tis a call we cannot disobey,  
 Exeunt omnes‚ with a last ‘farewell’.  
 
-[[works/song-(poe)|Song]]: ‘When we came [[motifs/home|home]] across the [[motifs/hill|hill]]’  
-When we came [[motifs/home|home]] across the [[motifs/hill|hill]]  
-   No [[motifs/leaves|leaves]] were fallen from the trees;  
-   The gentle fingers of the breeze  
-Had torn no quivering cobweb down.  
-The hedgerow bloomed with [[motifs/flowers|flowers]] still,  
-   No withered petals lay beneath;  
-   But the wild roses in your wreath  
-Were faded, and the [[motifs/leaves|leaves]] were brown.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1085,17 +733,7 @@ questa è la fine d’ogni racconto: ‘Addio’,
 una parola che echeggia come una campana funebre  
 e che siamo sempre restii a dire.  
 Ma è un richiamo cui non possiamo disobbedire,  
-Exeunt omnes, con un ultimo ‘addio’.  
-
-Canto: ‘Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]’  
-Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]  
-   nessuna [[motifs/leaves|foglia]] era caduta dagli alberi;  
-   le dita gentili della brezza  
-non avevano strappato nessuna tela di ragno tremante.  
-La siepe fioriva ancora di [[motifs/flowers|fiori]],  
-   nessun petalo appassito giaceva sotto;  
-   ma le rose selvatiche nella tua ghirlanda  
-erano sfiorite, e le [[motifs/leaves|foglie]] erano brune.
+Exeunt omnes, con un ultimo ‘addio’.
 
 
 
@@ -1118,9 +756,6 @@ Bustopher [[characters/jones|Jones]] is not skin and bones 1
 Children’s voices in the orchard 1  
 Come under the [[archetypes/shadow|shadow]] of this gray rock 1  
 
-En Amérique, professeur 1  
-Eyes that last I saw in [[motifs/tears|tears]] 1  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1138,10 +773,7 @@ Burbank attraversò un piccolo ponte 1
 Bustopher [[characters/jones|Jones]] non è pelle e ossa 1  
 
 Voci di bambini nel frutteto 1  
-Vieni sotto l’[[archetypes/shadow|ombra]] di questa roccia grigia 1  
-
-In America, professore 1  
-Occhi che vidi per l’ultima volta in [[motifs/tears|lacrime]] 1
+Vieni sotto l’[[archetypes/shadow|ombra]] di questa roccia grigia 1
 
 
 
@@ -1163,8 +795,6 @@ In England, long before that royal Mormon 1
 In my beginning is my end. In succession 1  
 ‘Issues from the hand of God, the simple [[motifs/soul|soul]]’ 1  
 
-Jellicle Cats are black and white 1  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1181,9 +811,7 @@ Se il [[motifs/time|Tempo]] e lo Spazio, come dicono i Saggi 1
 Hanno visto i Paesi Bassi, tornano a Terre Haute 1  
 In Inghilterra, molto prima di quel regale Mormone 1  
 Nel mio principio è la mia fine. In successione 1  
-‘Esce dalla mano di Dio, la semplice [[motifs/soul|anima]]’ 1  
-
-I Gatti Jellicle sono bianchi e neri 1
+‘Esce dalla mano di Dio, la semplice [[motifs/soul|anima]]’ 1
 
 
 
@@ -1197,13 +825,6 @@ Let these memorials of built stone — music’s 1
 Let us go then, you and I 1  
 Lord, the Roman hyacinths are blooming in bowls and 1  
 
-[[characters/macavity|Macavity]]’s a Mystery Cat: he’s called the Hidden Paw 1  
-Malheur à la malheureuse Tamise  1  
-Midwinter [[motifs/spring|spring]] is its own season 1  
-Miss [[characters/helen|Helen]] Slingsby was my maiden aunt 1  
-Miss [[characters/nancy|Nancy]] Ellicott 1  
-Mungojerrie and Rumpelteazer were a very notorious couple of cats 1  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1212,14 +833,7 @@ I Gatti Jellicle sono bianchi e neri 1
 Il cameriere malandato che non ha nulla da fare 1  
 Siano questi memoriali di pietra costruita — strumento 1  
 Andiamo dunque, tu ed io 1  
-Signore, i giacinti romani fioriscono nelle ciotole e 1  
-
-[[characters/macavity|Macavity]] è un Gatto Mistero: lo chiamano la Zampa Nascosta 1  
-Sventura allo sventurato Tamigi  1  
-La [[motifs/spring|primavera]] di mezzo inverno è la sua propria stagione 1  
-La signorina [[characters/helen|Helen]] Slingsby era la mia zia zitella 1  
-La signorina [[characters/nancy|Nancy]] Ellicott 1  
-Mungojerrie e Rumpelteazer erano una coppia di gatti assai famigerata 1
+Signore, i giacinti romani fioriscono nelle ciotole e 1
 
 
 
@@ -1238,10 +852,6 @@ Not the expression of collective emotion 1
 Old Deuteronomy’s lived a long [[motifs/time|time]] 1  
 One of my marionettes is dead 1  
 
-Paint me a cavernous waste shore 1  
-Pipit sate upright in her chair 1  
-Polyphiloprogenitive 1  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1255,11 +865,7 @@ Mungojerrie e Rumpelteazer erano una coppia di gatti assai famigerata 1
 Non l’espressione d’un’emozione collettiva 1  
 
 Il Vecchio Deuteronomio è vissuto per molto [[motifs/time|tempo]] 1  
-Una delle mie marionette è morta 1  
-
-Dipingimi una riva deserta e cavernosa 1  
-Pipit sedeva eretta sulla sua sedia 1  
-Polifiloprogenitivo 1
+Una delle mie marionette è morta 1
 
 
 
@@ -1272,10 +878,6 @@ Polyphiloprogenitive 1
 
 [[characters/romeo|Romeo]], grand sérieux, to importune 1  
 
-Standing upon the shore of all we know 1  
-Stone, bronze, stone, steel, stone, oakleaves, horses’ heels 1  
-[[characters/sunday|Sunday]]: this satisfied procession 1  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1283,11 +885,7 @@ Dipingimi una riva deserta e cavernosa 1
 Pipit sedeva eretta sulla sua sedia 1  
 Polifiloprogenitivo 1  
 
-[[characters/romeo|Romeo]], grand sérieux, a importunare 1  
-
-Ritti sulla riva di tutto ciò che sappiamo 1  
-Pietra, bronzo, pietra, acciaio, pietra, foglie di quercia, zoccoli di cavalli 1  
-[[characters/sunday|Domenica]]: questa processione soddisfatta 1
+[[characters/romeo|Romeo]], grand sérieux, a importunare 1
 
 
 
@@ -1317,13 +915,6 @@ They are rattling breakfast plates in basement kitchens 1
 To whom I owe the leaping delight 1  
 Twelve o’[[motifs/clock|clock]] 1  
 
-We are the hollow men 1  
-Webster was much possessed by [[motifs/death|death]] 1  
-What seas what shores what grey rocks and what islands 1  
-When Mr. Apollinax visited the United States 1  
-When we came [[motifs/home|home]] across the [[motifs/hill|hill]] 1  
-While all the East was weaving red with gray 1  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1348,11 +939,4 @@ C’è un sussurro lungo la linea all’1.2 3
 Stanno sbattendo i piatti della colazione nelle cucine dei seminterrati 1  
 [[motifs/time|Tempo]] presente e [[motifs/time|tempo]] passato 1  
 A cui devo la gioia balzante 1  
-Le dodici in [[motifs/clock|punto]] 1  
-
-Noi siamo gli uomini vuoti 1  
-Webster era molto posseduto dalla [[motifs/death|morte]] 1  
-Quali mari quali rive quali rocce grigie e quali isole 1  
-Quando Mr. Apollinax visitò gli Stati Uniti 1  
-Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]] 1  
-Mentre tutto l’Oriente tesseva rosso con grigio 1
+Le dodici in [[motifs/clock|punto]] 1

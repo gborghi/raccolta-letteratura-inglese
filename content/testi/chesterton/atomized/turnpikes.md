@@ -138,6 +138,70 @@ published in 1933.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sui caselli e sul medievalismo
+
+di G.K. Chesterton
+
+Da: All I Survey, 1933.
+
+----------------------------------------------------------------------------
+
+Aprendo il giornale l'altro giorno, ho visto un breve ma enfatico trafiletto intitolato «Una reliquia del medievalismo». Esprimeva una profonda indignazione per il fatto che in qualche luogo, in un angolo abbastanza remoto di questo paese, vi è una barriera daziaria, con un pedaggio. Insisteva sul fatto che questa antiquata tirannia è insopportabile, perché è di suprema importanza che il nostro traffico [[motifs/road|stradale]] proceda assai velocemente; presumibilmente un po' più veloce di quanto già faccia. Così descriveva il momentaneo ritardo in quel luogo come una reliquia del medievalismo. [[concepts/fear|Temo]] che il futuro guarderà a quella frase, con una certa tristezza e un po' di disprezzo, come a una reliquia quanto mai tipica del modernismo. Voglio dire che sarà una [[concepts/melancholy|malinconica]] reliquia dell'unico periodo in tutta la [[concepts/history|storia]] umana in cui gli uomini furono fieri di essere moderni. Poiché, benché l'oggi sia sempre oggi e il momento sia sempre moderno, noi siamo gli unici uomini in tutta la [[concepts/history|storia]] che si siano ridotti a vantarsi del mero fatto che oggi non è ieri. [[concepts/fear|Temo]] che taluni, in futuro, lo spiegheranno dicendo che avevamo ben poco altro di cui vantarci. Poiché, quali che fossero i difetti medievali, essi si accompagnavano a un merito. Gli uomini medievali non si preoccupavano mai di essere medievali; e gli uomini moderni si preoccupano orribilmente di essere moderni.
+
+Per cominciare, si noti la bizzarra, automatica supposizione che chiamare una cosa reliquia del medievalismo debba sempre significare gettarle addosso del fango. Il mondo moderno contiene parecchie reliquie del medievalismo, e la maggior parte di noi resterebbe sorpresa se l'argomento fosse applicato con coerenza logica persino contro le cose che si dicono comunemente medievali. Proveremmo un certo rammarico se qualcuno facesse saltare in aria l'Abbazia di Westminster, perché è una reliquia del medievalismo. Ci turberebbero dei dubbi se il Governo bruciasse tutte le copie esistenti della Divina [[forms/comedy|Commedia]] di [[historical-references/dante|Dante]] e dei Racconti di Canterbury di Chaucer, perché sono con tutta certezza reliquie del medievalismo. Non potremmo abbandonarci a una gioia incondizionata ed entusiasta neppure se la Torre di Giotto venisse distrutta in quanto reliquia del medievalismo. E proprio di recente, a [[settings/oxford|Oxford]] e a [[settings/paris|Parigi]] (esse stesse, ahimè! reliquie del medievalismo), vi è stata una perversa e pedante rinascita della Filosofia tomista e del metodo logico degli Scolastici medievali. Similmente, menti curiose e inquiete, tra i più giovani artisti e critici d'arte, sono inspiegabilmente risalite ancora più addietro nel periodo barbarico, oltre il limite della Torre di Giotto, e già ora ci esortano a volgerci all'austerità di Cimabue e agli schemi bizantini dell'Alto Medioevo. Queste reliquie devono essere ancor più medievali del medievalismo stesso.
+
+Ma, in realtà, questa bizzarra espressione non coprirebbe soltanto ciò che si chiama comunemente medievalismo. Se una reliquia del medievalismo significa soltanto qualcosa che ci è giunto dai tempi medievali, tali scrittori sarebbero probabilmente sorpresi dalla dimensione e dalla solidità delle reliquie. Se dicessi a questi onesti giornalisti che la Stampa è una reliquia del medievalismo, essi darebbero probabilmente prova del loro [[motifs/love|amore]] per i luoghi comuni accusandomi di un [[concepts/paradox|paradosso]]. Ma è quantomeno certo che il torchio da stampa è una reliquia del medievalismo. Fu scoperto e affermato da uomini interamente medievali, imbevuti d'idee medievali, colmi della religione e dello spirito sociale del Medioevo. Non vi sono parole più tipicamente medievali di quelle nobili parole dell'elogio pronunciato dal grande tipografo inglese sul grande poeta inglese; le parole di Caxton su Chaucer. Se dicessi che il Parlamento è una reliquia del medievalismo, avrei un fondamento ancor più solido; poiché, mentre la Stampa venne almeno alla fine del Medioevo, i Parlamenti vennero assai più vicino al principio del Medioevo. Ebbero inizio, credo, in Spagna e nelle province dei Pirenei; ma la nostra data tradizionale, che li collega alla rivolta di Simon de Montfort, se non rigorosamente esatta, rappresenta all'incirca l'[[motifs/time|epoca]]. Non occorre dire che metà delle grandi fondazioni educative, non solo [[settings/oxford|Oxford]] e Cambridge, ma Glasgow e [[settings/paris|Parigi]], sono reliquie del medievalismo. Parrebbe piuttosto duro, per il povero riformatore giornalistico, che non gli si permetta di abbattere una piccola barriera daziaria finché non abbia provato il suo diritto di abbattere tutte queste reliquie del medievalismo.
+
+Poi c'è, naturalmente, il notevolissimo [[concepts/doubt|dubbio]] storico
+sul fatto che il casello daziario sia una reliquia del medioevo.
+Non so quale fosse la data di questo particolare casello; ma i caselli
+e i pedaggi di quel genere furono forse più diffusi,
+più concretamente applicati, o almeno più generalmente notati, nel
+Settecento.  Quando Pitt e Dundas, entrambi ubriachi fradici,
+scavalcarono un casello e furono presi a schioppettate con un archibugio,
+[[concepts/hope|spero]] che nessuno vorrà insinuare che quei due grandi politici fossero
+reliquie del medioevo.  Nessuno di sicuro potrebbe essere più moderno di
+Pitt e Dundas, giacché uno di loro era un grande statista finanziario,
+dipendente interamente dai banchieri, e l'altro era un imbroglione.
+È possibile, certo, che qualche pedaggio locale simile fosse davvero medievale,
+ma [[concepts/doubt|dubito]] piuttosto che il giornalista si sia perfino informato se
+fosse medievale.  Con ogni probabilità considera medievale tutto ciò che accadde
+prima dell'[[motifs/time|epoca]] del Jazz e della stampa scandalistica.
+Per lui medievale significa solo vecchio, e vecchio significa cattivo; così che giungiamo
+all'ultima domanda, che avrebbe dovuto essere la prima,
+se cioè un casello sia davvero per forza cattivo.  Se fossimo davvero
+reliquie del medioevo—vale a dire, se ci avessero davvero insegnato a pensare—
+avremmo posto quella domanda per prima, e discusso se una cosa
+sia cattiva o buona prima di discutere se sia moderna o medievale.
+Non c'è spazio per discuterne qui a lungo, ma si può fare una prova
+molto semplice in materia.  Lo scopo e l'effetto dei pedaggi è semplicemente questo:
+che chi usa le strade paghi per le strade.  Così com'è,
+i poveri di un distretto, compresi coloro che non si muovono mai
+dai loro villaggi, e a stento dal loro focolare, pagano per mantenere strade
+arate e fatte a pezzi dalle automobili e dai camion dei ricchi
+e delle grandi imprese, che vengono da [[settings/london|Londra]] e dalle città lontane.
+Non è [[concepts/self|di per sé]] evidente che questo sia un ordinamento più giusto
+di quello per cui i viandanti pagano per mantenere la via, anche se quell'
+ordinamento fosse una reliquia del medioevo.  Da ultimo, potremmo [[motifs/well|bene]] chiederci:
+è davvero tanto certo che le nostre strade soffrano per la lentezza
+del traffico a benzina; e che, se solo riuscissimo a far andare ogni sorta
+di motore sempre più veloce, saremo tutti salvati alla fine?
+Che i motori siano più importanti degli uomini è senza dubbio un principio
+ammesso di una filosofia veramente moderna; nondimeno, sarebbe [[motifs/well|bene]]
+mantenere una qualche ragionevole proporzione tra loro, e decidere esattamente
+quanti esseri umani debbano essere uccisi da ciascuna automobile nel corso
+di ciascun anno.  E [[concepts/fear|temo]] che una mera politica di accelerazione
+del traffico possa portarci oltre il normale riconoscimento moderno
+dell'omicidio, in qualcosa che somiglia al riconoscimento del massacro.
+E su questo, io per primo ho ancora uno scrupolo; il che è probabilmente
+una reliquia del medioevo.
+
+Questa rubrica giornalistica fu raccolta nel libro All I Survey,
+pubblicato nel 1933.
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="turnpikes (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/road,motif/time,concept/fear,concept/history,concept/melancholy,concept/paradox,form/comedy,form/history,histref/dante,setting/oxford,setting/paris"></span>

@@ -41,7 +41,7 @@ Rotarians by rote.
 
 Rotariani - (1927)  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 Il Simbolo  
 Il parlare al Rotary è Lode priva di Prova  

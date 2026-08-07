@@ -831,6 +831,844 @@ the following Blackwood article, in the tone heterogeneous, is
 the substance and result.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Nel nome del [[archetypes/prophet|Profeta]], fichi!!”
+
+Il grido del venditore di fichi turco
+
+
+
+Titolo:  
+Immagino che tutti abbiano sentito parlare di me… Il mio nome è la Signora.
+
+Psyche Zenobia… Questo lo so per certo: nessuno tranne i miei nemici.
+
+Chiunque mi chiami Suky Snobbs… Mi è stato assicurato che Suky non sia altro che…
+
+La corruzione volgare di Psiche
+
+“[[motifs/soul|'anima]]”, io sono tutto questo, interamente “[[motifs/soul|'anima]]”; a volte, però, mi vedo anche come una “farfalla”.
+
+Titolo:  
+Il cui significato successivo allude senza dubbio al mio aspetto…
+
+Gonna di seta cremisi nuova, con il mantellino arabo blu cielo…
+
+I resti delle agraffe verdi e i sette volantini…
+
+Arancioni come i fiori di auricola… Per quanto riguarda Snobbs, beh… chiunque sia davvero tale.
+
+Se qualcuno mi guardasse, capirebbe immediatamente che il mio nome non è Snobbs.
+
+La signorina Tabitha Turnip diffuse quella notizia solo per invidia.
+
+Tabitha Turnip… Che poverina! Ma cosa possiamo fare?
+
+Aspettarsi questo da un ravanello. Che strano! Chissà se si ricorda quel vecchio detto.
+
+“[[motifs/blood|sangue]] come quello di un ravanello,” ecc.? [Il ricordo le venne in mente in quel momento.]
+
+Prima opportunità. Ricordo ancora: tirarle il naso. Dove ero? Ah!
+
+“Mi è stato assicurato che Snobbs non sia altro che una corruzione di Zenobia.”
+
+E che Zenobia era una [[characters/queen|regina]], (Lo sono anch’io. La dottoressa Moneypenny lo dice sempre, )
+
+Mi chiama la [[characters/queen|Regina]] dei Cuori. E quella Zenobia, come è ovvio.
+
+“Psyche”: un bel nome greco… E mio padre era davvero “un greco”.
+
+Di conseguenza, ho il diritto di utilizzare il nostro cognome, che è Zenobia.
+
+E per niente Snobbs… Solo Tabitha Turnip mi chiama così.
+
+Suky Snobbs. Io sono la Signora Psyche Zenobia.
+
+
+
+Come ho detto prima, tutti mi conoscono. Sono proprio io…
+
+Signora Psyche Zenobia, così giustamente celebrata come corrispondente
+
+Segretario dell’“Philadelphia, Regular, Exchange, Tea, Total”
+
+Letteratura giovane, belle lettere, universale, sperimentale, bibliografica
+
+“Associazione per la civilizzazione dell’umanità”. Il dottor Moneypenny lo disse così.
+
+Un titolo che suona imponente…
+
+Un vuoto rum-puncheon. Un uomo volgare, a volte, ma in realtà molto profondo.
+
+Tutti scriviamo le nostre iniziali dopo il nome, nella società…
+
+Moda della R.S.A., Royal Society of Arts del Regno Unito
+
+Società per la Diffusione della Conoscenza Utile, ecc., ecc. Dottore.
+
+Moneypenny dice che “S.” sta per “stale”, e che “D. U. K.” significa Regno Unito.
+
+Spella “anatra”, ma non lo fa… Quel S.D.U.K. sta per “Stale”.
+
+“Duck… e non certo per partecipare alla società di Lord Brougham… ma allora, il dottor Moneypenny…”
+
+Un uomo così strano che non so mai quando sta dicendo la verità…
+
+La [[concepts/truth|verità]]. Comunque, aggiungiamo sempre alle nostre nomi le iniziali P.
+
+R.E.T.T.Y.B.L.U.E.B.A.T.C.H. – cioè…
+
+Philadelphia, Regolare, Scambio, Tè, Totale, Giovani, Belle
+
+Lettere, universali, sperimentali, bibliografiche, associative
+
+Per civilizzare l’umanità: una lettera per ogni parola…
+
+Un miglioramento decisivo rispetto al signor Brougham… Il dottor Moneypenny lo dimostrerà.
+
+“Che le nostre iniziali rivelino il nostro vero carattere… ma per la mia vita che no!”
+
+Non riesco a capire cosa intenda.
+
+
+
+Nonostante gli sforzi del Dottore e le sue buone intenzioni…
+
+Le iniziative dell’associazione per attirare l’attenzione…
+
+Senza molto grande successo, fino a quando non ci ho messo io stesso mano. La [[concepts/truth|verità]] è che.
+
+I membri si lasciarono andare a un tono di discussione troppo superficiale. I documenti…
+
+I libri che si leggevano ogni sabato sera erano caratterizzati meno dalla profondità che…
+
+Buffonerie… Tutte sciocchezze senza senso. Non c’era nulla di serio in tutto ciò.
+
+Indagine sulle cause prime, sui principi fondamentali. Non esisteva nulla…
+
+Indagine su qualsiasi cosa… Non venne prestata alcuna attenzione.
+
+“Quel punto fondamentale: la ‘adeguatezza delle cose’… In breve, non esisteva nulla del genere.”
+
+“Scrittura davvero eccellente… Ma tutto era troppo superficiale: nessuna profondità, nulla di significativo.”
+
+Lettura, senza metafisica… niente di ciò che gli studiosi definiscono…
+
+Spiritualità… e quella che gli ignoranti scelgono di stigmatizzare come tale
+
+Cant. [Il dottor M. dice che dovrei scrivere “cant” con la “K” maiuscola… ma io]
+
+Dovresti saperlo meglio.
+
+
+
+Quando mi sono unito a quella società, il mio obiettivo era quello di introdurre…
+
+Un modo migliore di pensare e scrivere… lo sanno tutti.
+
+Beh, ci sono riuscito. Ora pubblichiamo articoli davvero buoni sulla rivista P.R.
+
+E. T. T. Y. B. L. U. E. B. A. T. C. H. come qualsiasi altro si possa trovare
+
+Blackwood… Dico “Blackwood” perché mi è stato assicurato che…
+
+La migliore scrittura, su qualsiasi argomento, si trova nelle…
+
+“Pagine di quella rivista così ampiamente lodata… Ora la consideriamo nostra.”
+
+Titolo:  
+Modello per tutti i temi, e stanno attirando molta attenzione.
+
+Di conseguenza… E, dopotutto, non è davvero una questione così difficile.
+
+Comporre un articolo con l’autenticità tipica di Blackwood… se solo fosse possibile.
+
+Si occupa della questione nel modo giusto. Ovviamente, non mi riferisco al contesto politico…
+
+Gli articoli. Tutti sanno come vengono gestiti, da quando il dottore.
+
+Moneypenny lo spiegò: il signor Blackwood possiede una coppia di…
+
+forbide-me-to-mention-it
+
+Ordini… Uno gli porge il “Times”, un altro l’“Examiner”.
+
+“Terzo volume di ‘Il nuovo compendio del gergo e dei termini volgari di Culley’… Il signor B., semplicemente…”
+
+Taglia e inserisci… È presto fatto: nient’altro che…
+
+“Esaminatore”, “Gergo e Stronzate”, e poi “I Tempi”… infine “I Tempi”.
+
+“Slang-Whang”, “Esaminatore”… e poi ancora “Times”, “Esaminatore”.
+
+“Slang-Whang”.
+
+
+
+Ma il principale pregio di questa rivista risiede nella sua varietà di contenuti.
+
+Gli articoli; e i migliori tra questi rientrano nella categoria di ciò che il dottore definisce.
+
+Le stranezze di Moneypenny
+
+Quello che tutti chiamano “intensità”. Una sorta di…
+
+Scrittura che da tempo so apprezzare, anche se…
+
+Solo dopo la mia recente visita al signor Blackwood…
+
+Titolo:  
+La società… di cui sono venuto a conoscenza il metodo esatto per…
+
+Composizione. Questo metodo è molto semplice, ma non proprio così tanto…
+
+Titolo:  
+Le dinamiche politiche… Al mio arrivo da parte del signor B., e dopo avergli comunicato…
+
+Con grande ospitalità, accolse i desideri della società e mi ricevette con grande cordialità.
+
+Cortesia e gentilezza mi portarono nel suo studio, dove ricevetti una spiegazione chiara e dettagliata.
+
+Di tutto il processo.
+
+
+
+“Mia cara signora,” disse lui, chiaramente colpito dalla mia maestosità…
+
+Titolo:  
+Apparenza… poiché indossavo un abito di raso cremisi, con dettagli verdi…
+
+“Aggraffi e auricla di colore arancione… ‘Mia cara signora,’ disse lui.”
+
+“Siediti. La situazione è la seguente: innanzitutto, il tuo autore…”
+
+Titolo:  
+Per rappresentare le intensità, è necessario utilizzare inchiostro molto nero e una penna molto grande…
+
+“Una punta molto spessa… E, ascoltami bene, signorina Psyche Zenobia!”
+
+Continuò, dopo una pausa, con la massima energia espressiva…
+
+Un modo di fare solenne, “Notate bene: quella penna, non deve mai essere riparata!”
+
+Ecco, signora, il segreto, l’[[motifs/soul|'anima]] stessa dell’intensità. Lo presumo.
+
+“Per quanto riguarda me, posso dire che nessun individuo, per quanto geniale possa essere…”
+
+“Mai aver scritto un buon articolo usando una bella penna… Mi capite?”
+
+Titolo:  
+Considerare scontato che quando un manoscritto è leggibile…
+
+Non vale mai la pena leggerlo. Questo è un principio fondamentale nella nostra [[concepts/faith|fede]], ovvero.
+
+“Se non siete in grado di accordarvi immediatamente, la nostra conferenza termina qui.”
+
+
+
+Si fermò. Ma, naturalmente, poiché non avevo alcun desiderio di porre fine a…
+
+Conferenza: Ho accettato una proposta così ovvia…
+
+Anche lui, della cui [[concepts/truth|verità]] ero sempre stato pienamente consapevole. Lui.
+
+Sembrava soddisfatto e continuò con le sue istruzioni.
+
+
+
+“Potrebbe sembrare meschino da parte mia, signorina Psyche Zenobia, farvi riferimento in questo modo…”
+
+Come modello o studio per qualsiasi articolo o insieme di articoli.
+
+Forse potrei comunque attirare la vostra attenzione su alcuni casi. Lasciate che.
+
+Me ne ricordo… C’era “The Dead Alive”, un vero capolavoro! Quel disco…
+
+Le sensazioni di un gentiluomo sepolto prima ancora che esalasse l’ultimo respiro
+
+Al di fuori del suo [[concepts/body|corpo]], pieno di sapori, terrore, sentimenti, metafisica.
+
+Erudizione e cultura… Si sarebbe potuti giurare che lo scrittore fosse nato proprio in quel contesto.
+
+E cresciuto in un feretro… Poi abbiamo avuto le “Confessioni di…”
+
+“Mangiatore di oppio”, eccellente, davvero eccellente! Una gloriosa [[concepts/imagination|immaginazione]], profonda e potente.
+
+La filosofia consiste in speculazioni acute; c’è molta [[motifs/fire|fiamma]] e furia, ma anche molto.
+
+“La speziatura di ciò che è decisamente incomprensibile… È stato davvero un bel tocco.”
+
+Cose frivole e inutili, che venivano inghiottite con piacere dalle persone.
+
+Si diceva che fosse stato Coleridge a scrivere quel saggio… ma non era così.
+
+Il titolo è stato composto dal mio papagallo domestico, Juniper, dopo aver bevuto un po’ di rum olandese…
+
+E l’[[motifs/water|acqua]], “calda, senza zucchero.” [Questo quasi non riuscivo a credere, ]
+
+Si credeva che fosse stato chiunque tranne il signor Blackwood, il quale mi assicurò…
+
+“Poi c’è stato ‘L’esperimentatore involontario’, tutto su…”
+
+Un gentiluomo che finì in forno… e ne uscì vivo.
+
+Beh, sicuramente fatto con cura. E poi c’era “The”.
+
+“Diario di un medico defunto”, dove il valore risiedeva nelle sue appassionate dichiarazioni…
+
+Greci indifferenti… entrambi che affrontano le cose con distacco, senza coinvolgimento emotivo. E…
+
+“Allora c’era ‘L’Uomo nella Campana’, un saggio del tutto casuale, signorina…”
+
+Zenobia, una lettura che non posso fare abbastanza raccomandare alla vostra attenzione.
+
+È la [[concepts/history|storia]] di un giovane che va a [[motifs/sleep|dormire]] sotto.
+
+“Il suono delle campane della chiesa lo sveglia…”
+
+Funerale. Il suono lo fa impazzire… e così decide di andarsene.
+
+Le sue tavolette: un resoconto delle sue sensazioni. Le sensazioni…
+
+Le grandi cose, in fondo… Se mai dovessi annegare o essere impiccato…
+
+Prendi nota delle tue sensazioni: saranno molto utili.
+
+“Dieci ghinee a foglio… Se desiderate scrivere con forza, signorina…”
+
+“Zenobia, presta molta attenzione alle sensazioni che provi.”
+
+
+
+“Certo che lo farò, signor Blackwood,” dissi io.
+
+
+
+“Bene!”, rispose. “Vedo che sei uno studente a mio piacimento.”
+
+Ma devo informarvi dei dettagli necessari per comporre…
+
+Titolo:  
+Ciò che può essere definito un vero e proprio articolo di Blackwood…
+
+Titolo:  
+“Stempo sensazionale… il tipo di cosa che, ne sono certo, capirete perfettamente”.
+
+Considerare ciò che è migliore per tutti gli scopi.
+
+
+
+“La prima cosa necessaria è mettersi in una situazione difficile…”
+
+Nessuno era mai entrato lì prima… Il forno, ad esempio, – quello sì che…
+
+Un ottimo risultato… Ma se non si dispone di forno o di un campanello grande a portata di mano, allora…
+
+Non si può semplicemente uscire da un pallone o essere inghiottiti in modo così facile…
+
+In caso di terremoto, o se rimani intrappolato in un camino…
+
+Doversi accontentare di immaginare soltanto qualcosa di simile
+
+Misavventura… Tuttavia, preferirei che aveste l’originale.
+
+Un fatto che può confermarlo. Niente aiuta tanto l’immaginazione quanto.
+
+Conoscenza empirica sulla materia in questione. “La [[concepts/truth|verità]] è strana, ”
+
+“Strano più della finzione… oltre ad essere qualcosa di ancora più reale.”
+
+Scopo e finalità
+
+
+
+Qui gli assicurai di possedere un paio di giarrettiere eccellenti… e che li avrei usati.
+
+Vai e impiccati immediatamente.
+
+
+
+“Bene!”, rispose, “fai pure; anche se impiccare è una cosa piuttosto…”
+
+Hacknied… Forse potresti riuscire meglio. Prova con una dose di Brandreth’s.
+
+“Pillole… e poi raccontateci le vostre sensazioni. Comunque, seguite attentamente le mie istruzioni.”
+
+Si applicherà altrettanto bene a qualsiasi tipo di sfortuna o disavventura.
+
+Camminando verso casa a quel modo, potresti facilmente ricevere un colpo in testa o essere investito.
+
+Perché investito da un autobus, morso da un cane randagio o annegato in una grondaia.
+
+Ma per continuare.
+
+
+
+Determinato l’argomento su cui lavorare, è necessario ora prendere in considerazione…
+
+Il tono, o lo stile di narrazione, è fondamentale: esiste infatti un tono didattico…
+
+Il tono entusiasta, il tono naturale, tutto abbastanza comune.
+
+Ma poi c’è quel tono laconico, o conciso, che ultimamente…
+
+Non viene utilizzato molto. È composto da frasi brevi… Più o meno così.
+
+Non può essere troppo breve, né troppo brusco. Sempre un punto finale.
+
+E mai un paragrafo.
+
+
+
+“Poi c’è il tono elevato, diffuso e costituito da esclamazioni.”
+
+Alcuni dei nostri migliori romanziere adottano questo tono nelle loro opere. Le parole devono…
+
+“Tutto in un vortice, come una trottola che gira vorticosamente, producendo un rumore assai intenso…”
+
+Simile, e risponde in modo sorprendentemente [[motifs/well|bene]], anche se non ha davvero senso. Questo.
+
+“È il miglior di tutti i possibili stili… quando lo scrittore si trova nel giusto stato d’animo.”
+
+C’è troppa fretta nel pensare.
+
+
+
+“Un tono metafisico può risultare davvero efficace… Se conosci qualche grande…”
+
+Parole: questa è la tua opportunità per loro… Di ionici ed eleatici.
+
+Scuole di Archita, Gorgia e Alcmeone: qualcosa su di esse…
+
+Obiettività e soggettività… Assicurati di abusare di un certo uomo chiamato…
+
+Titolo:  
+“Locke: alzate il naso di fronte alle cose in generale… e quando lo fate…”
+
+Se qualcosa diventa anche solo un po’ troppo assurdo, non c’è bisogno di…
+
+“Una scocciatura da risolvere… basta aggiungere una nota a piè di pagina e spiegarlo.”
+
+Grazie alla tua profonda osservazione…
+
+“Critica della ragione pura”, ovvero alla “Metafisica…”
+
+Fondamenti dell'epistemologia della necessità: un approccio erudito
+
+E, e, e onesto.
+
+
+
+“Esistono altri toni altrettanto noti, ma io…
+
+Solo altri due toni… il tono trascendentale e il tono…
+
+Heterogeneo… Nel primo caso, il merito risiede nella capacità di “vedere oltre” le apparenze.
+
+La natura delle cose va molto più in là di quanto chiunque possa immaginare.
+
+Altrimenti. Questo secondo tipo di percezione è molto efficace se gestito correttamente.
+
+Leggere un po’ il “Dial” ti aiuterà molto.
+
+Evita, in questo caso, parole troppo lunghe e complicate; usa quelle il più semplici possibili.
+
+E scrivile al contrario. Leggi attentamente i poemi di Channing e citali.
+
+Titolo:  
+Ciò che dice su un “omino grassoccio con un’illusoria apparenza…”
+
+Non dire mai…
+
+Sillaba riguardante la “Doppiezza Infernale”. Soprattutto, studiare l’innuendo.
+
+Indica tutto, ma non afferma nulla… Se ti senti incline a dire qualcosa…
+
+“Pane e burro… ma per nessun motivo dirlo apertamente.”
+
+Qualsiasi cosa, anche quelle legate alla sussistenza quotidiana.
+
+Titolo:  
+Puoi fare allusioni alla torta di grano saraceno, o addirittura puoi spingerti oltre…
+
+Insinuare la pappa di avena, ma se pane e burro sono ciò che desideri veramente…
+
+Attenzione, cara signorina Psyche… assolutamente no
+
+"Dite 'pane e burro'!"
+
+
+
+Gli assicurai che non l’avrei mai più detto, finché fossi vissuta…
+
+Viveva… Mi baciò e continuò:
+
+
+
+“Per quanto riguarda il tono eterogeneo, si tratta semplicemente di una miscela sapiente…”
+
+In proporzioni uguali, rispetto a tutti gli altri toni esistenti nel mondo… e così è.
+
+Di conseguenza, è composto da tutto ciò che è profondo, grande, strano, piccante…
+
+Rilevante, e anche piuttosto carina.
+
+
+
+Supponiamo ora che tu abbia deciso quali eventi includere nel tuo racconto…
+
+Il tono. La parte più importante, in realtà, l’[[motifs/soul|’anima]] stessa di tutto il resto.
+
+“Gli affari, ancora da sistemare… Mi riferisco alla necessità di completarli.”
+
+Non si deve mai pensare che una signora, né tantomeno un gentiluomo, possa aver fatto qualcosa del genere.
+
+Una vita da bibliofilo… Eppure, soprattutto, è…
+
+È necessario che il vostro articolo abbia un tono erudito, o almeno…
+
+Dimostra una vasta cultura generale… Ora ti metterò di fronte a…
+
+“Il modo per raggiungere questo obiettivo… Guardate qui!” (facendo scorrere verso il basso)
+
+Tre o quattro volumi dall’aspetto ordinario… e aprirli…
+
+“Basta sfogliare qualsiasi pagina di un libro qualsiasi…”
+
+Il mondo, allora, ti permetterà di percepire immediatamente una miriade di piccoli dettagli…
+
+Frammenti di apprendimento o di spirito brillante… che sono proprio queste cose
+
+Qualcosa che possa aggiungere sapore agli articoli di Blackwood. Potresti benissimo farlo.
+
+Appunta qualche cosa mentre te le leggo ad alta voce… Ne farò due.
+
+Titolo:  
+“Divisioni: prima parte – Fatti interessanti per la creazione di similitudini”
+
+E, in secondo luogo, espressioni pungenti da utilizzare al momento opportuno…
+
+“Richiedilo. Scrivi ora!” – e io scrissi mentre lui dettava.
+
+
+
+“Fatti piccanti per le metafore… In origine ce n’erano soltanto tre.”
+
+Le Muse – Melete, Mneme, Aede – meditazione, [[motifs/memory|memoria]] e canto. Tu.
+
+“Potreste ottenere grandi risultati da quel piccolo dettaglio, se lo utilizzate nel modo giusto.”
+
+Non è generalmente conosciuto, e ha un aspetto davvero “raffinato”. Devi essere…
+
+Con attenzione, e con un’aria davvero improvvisata.
+
+
+
+Di nuovo: “Il [[motifs/river|fiume]] Alfeo attraversò il mare e ne emerse, ”
+
+“Senza intaccare la purezza delle sue acque.” Piuttosto banale, in realtà…
+
+"Certo, ma se vestito e presentato in modo appropriato, sembrerà davvero così."
+
+Tanto fresco quanto sempre.
+
+
+
+“Ecco qualcosa di ancora meglio: ‘L’Iris persiana appare a alcuni…”
+
+Titolo: Persone che possiedono un profumo dolce e molto intenso…
+
+Negli altri casi è completamente privo di profumo. Bene così, davvero molto delicato!
+
+Giralo un po’, e farà miracoli… Ne avremo bisogno.
+
+Altra cosa nel campo botanico… Non c’è nulla di più interessante.
+
+Beh, soprattutto con l’aiuto di un po’ di latino. Scrivi!
+
+
+
+“L’Epidendrum Flos Aeris della Giava presenta fiori davvero bellissimi.”
+
+Fiore… e sopravviverà anche se viene strappato via dalla radice. Gli indigeni…
+
+Appenderlo a un cordo dal soffitto e goditi il suo profumo
+
+“Per anni… Questo è davvero notevole! Basta con le metafore, ora passiamo al…”
+
+Le espressioni pungenti.
+
+
+
+“Espressioni piene di vigore. ‘Il venerabile romanzo cinese [[forms/novel|Ju-Kiao-Li]].’”
+
+Buono! Introducendo queste poche parole con abilità…
+
+Dimostra la tua profonda conoscenza della lingua
+
+Letteratura cinese. Con il suo aiuto si potrà…
+
+Senza arabo, sanscrito o chickasaw… si può farcela lo stesso.
+
+“Tuttavia, non è sufficiente senza spagnolo, italiano, tedesco…”
+
+Latino e greco. Devo trovarvi un piccolo esempio di ciascuno di questi linguaggi.
+
+Qualsiasi frammento andrà bene, perché devi affidarti soltanto a te stesso.
+
+Inventiva sufficiente per farlo adattare al vostro articolo. Ora scrivete!
+
+
+
+“‘Aussi tendre que Zaire’ – tanto tenero quanto il francese parlato in Zaire. Fa riferimento a…”
+
+Il frequente ripetere della frase “la tenera Zaire” nel…
+
+La tragedia francese di quel nome. Presentata nel modo giusto, mostrerà che.
+
+Solo la tua conoscenza della lingua, ma anche la tua lettura generale…
+
+Intelligenza… Si potrebbe dire, ad esempio, che la gallina che stavate mangiando…
+
+Scrivere un articolo su come morire soffocati da un osso di pollo.
+
+Non era affatto _così tenero come il Zaire_. Scrivi!
+
+
+
+“Una morte così nascosta…”
+
+"Che non ti senta venire..."
+
+Perché il piacere di morire
+
+“Nessun mezzo per donare la vita.”
+
+
+
+“È spagnolo, di Miguel de Cervantes: ‘Vieni presto, o [[motifs/death|morte]]!’”
+
+“Ma fai attenzione a non farti vedere arrivare… altrimenti mi rovineresti tutto il piacere.”
+
+Titolo:  
+“Al vostro arrivo, temo che il dolore mi riporti indietro…”
+
+“Riportato in vita…”. Una frase che può essere inserita molto opportunamente quando si…
+
+Lottando nelle ultime agoniai con quella costola di pollo. Scrivi!
+
+
+
+“L’uomo povero che non se n’era accorto”
+
+Era andato a combattere… ed è morto.
+
+
+
+“È italiano, capisci… tratto da Ariosto. Significa che qualcosa di grande…”
+
+[[archetypes/hero|eroe]], nel bel mezzo dello scontro, senza rendersi conto di essere stato.
+
+Morto ma ancora combattente con coraggio
+
+L’applicazione di ciò al proprio caso è ovvia… poiché credo, signorina…
+
+Psyche… che tu non dimentichi di “calciare” per almeno un’ora!
+
+E mezzo minuto dopo essere stato soffocato fino alla [[motifs/death|morte]] da quella.
+
+“Chicken-bone”. Per favore, scrivilo!
+
+
+
+“Eppure morirò…”
+
+“Attraverso di lei… attraverso di lei!”
+
+
+
+“È tedesco… di Schiller. ‘E se muoio, almeno muoio per…’”
+
+“Per te… solo per te!” È chiaro che in questo caso si sta utilizzando l’apostrofo per indicare chi riceve il regalo o la dichiarazione d’amore.
+
+La gallina, causa della tua rovina… Che gentiluomo davvero…
+
+Una donna dotata di buon senso, non morirebbe per una cosa del genere, vorrei saperlo…
+
+Un cappone ben ingrassato della giusta razza delle Molucche, ripieno di.
+
+Capperi e funghi, serviti in una ciotola di insalata, con…
+
+Arance-gelatine in mosaico… Scrivete! (È possibile ottenerle così)
+
+da Tortoni’s) – Scrivete, per favore!
+
+
+
+“Ecco una bella e rara frase latina… Non si può…”
+
+Troppo ricercato o troppo breve nel proprio latino… diventa davvero un problema.
+
+Titolo:  
+“Comune… l’ignoratio elenchi. Ha commesso un errore tipico dell’ignoratio elenchi.”
+
+Elenco… cioè, ha compreso il significato delle tue parole.
+
+Una proposta, ma non l’idea stessa. Quell’uomo era un [[archetypes/fool|idiota]], capisci? Qualcuno.
+
+Povero diavolo a cui ti rivolgi mentre soffochi per…
+
+Osso di pollo… e quindi non capiva esattamente cosa significasse
+
+"Get back to what you were actually talking about – e smetta di usare quegli argomenti confusi e irrilevanti!"
+
+E in un attimo lo annienti… Se osa rispondere, tu…
+
+“Puoi distinguerlo da Lucan: in questo caso, i discorsi non sono altro che…”
+
+Anemonae Verborum: le parole come anemoni… L’anemone, con la sua forza silenziosa
+
+Brillantezza… ma senza odore. O, se inizia a minacciare, potresti…
+
+"Giù su di lui l’insonnia… le fantasticherie di Giove" – una frase…"
+
+“Which Silius Italicus (vedi qui!) applica ai pensieri pomposi e…”
+
+“Ridotto a dimensioni esagerate… Questo lo colpirà sicuramente nel profondo del cuore. Lui può farlo…”
+
+Nient'altro che girarsi sulla schiena e morire. Sarà così gentile da scriverlo?
+
+
+
+"In greco dobbiamo utilizzare qualcosa di piacevole… Da Demostene, per esempio."
+
+Ancora una volta combatte e vola.
+
+Ci sono delle traduzioni abbastanza buone di esso.
+
+Hudibras
+
+
+
+“Per chi vola, c’è ancora la possibilità di combattere.”
+
+“Quello che non potrà mai fare… è essere ucciso.”
+
+
+
+Titolo:  
+Nell’articolo di Blackwood, nulla offre uno spettacolo più affascinante del tuo…
+
+Greco. Stesse le lettere sembrano trasmettere un senso di profondità.
+
+“Notate solo, signora, lo sguardo astuto di quel Epsilon… E di quel Phi…”
+
+“Di certo dovrebbe diventare vescovo! Esiste davvero qualcuno più intelligente di lui?”
+
+Niente di paragonabile a quell’Omicron… Solo il Tau può reggere il confronto! In breve, non c’è nulla di meglio.
+
+“Come un vero e proprio giornale sensazionalistico… Nel caso specifico”
+
+La tua applicazione è la cosa più ovvia al mondo… Recitala ad alta voce!
+
+Titolo:  
+“La frase, pronunciata con un enorme giuramento e come ultimatum…”
+
+Un inutile e stupido [[archetypes/villain|antagonista]] che non riusciva a capire nulla.
+
+Titolo:  
+Il tuo semplice inglese riguardo alla “costola di pollo”. Lui accetterà.
+
+“Segui la pista e vattene subito, puoi starne certo.”
+
+
+
+Queste erano tutte le istruzioni che il signor B. poteva permettersi di darmi
+
+Il tema in questione, ma pensavo che fossero più che sufficienti.
+
+Finalmente riuscii a scrivere un vero e proprio articolo per il Blackwood’s Magazine.
+
+Deciso ad agire immediatamente. Prima di congedarsi da me, il signor B. disse…
+
+Una proposta per l’acquisto del giornale, quando è scritto… ma così com’è.
+
+“Mi offriva soltanto cinquanta ghinee per foglio… Ho pensato fosse meglio così.”
+
+“Meglio lasciare che la nostra società ne subisca le conseguenze, piuttosto che sacrificarla per qualcosa di così insignificante…”
+
+Titolo:  
+Nonostante questo spirito avaro…
+
+Il gentiluomo dimostrò di tenermi in grande considerazione sotto tutti gli altri aspetti.
+
+E infatti mi trattò con la massima cortesia. Il suo addio…
+
+Quelle parole hanno lasciato un profondo impatto nel mio cuore, e spero che io.
+
+Ricordali sempre con gratitudine.
+
+
+
+“Mia cara signorina Zenobia,” disse lui, mentre le [[motifs/tears|lacrime]] gli riempivano gli occhi.
+
+Gli occhi, “C’è qualcos’altro che posso fare per promuovere il successo di, ”
+
+Qual è questa tua lodevole iniziativa? Lasciami riflettere… È davvero possibile.
+
+Che forse non sarai in grado, non appena ne avrai l’opportunità, di… ottenere.
+
+Annegato da solo… o soffocato da un osso di pollo… o forse qualcos’altro ancora?
+
+Morto… o morso da qualcosa… Ma aspetta! Ora che ci penso… ci sono…
+
+Ci sono un paio di ottimi cani da combattimento nel cortile, bei ragazzi davvero.
+
+“Vi assicuriamo: selvaggio… e tutto il resto… davvero l’ideale per voi.”
+
+Denaro… ti consumerà completamente, auricula e tutto il resto, in meno di…
+
+Cinque minuti… e poi pensa solo a questo.
+
+Sensazioni! Ecco. Dico io: Tom! Peter! Dick, tu maledetto [[archetypes/villain|villano]]. Lascia andare!
+
+“Quei…”, ma poiché ero davvero molto di fretta e non ne avevo altri…
+
+Un attimo libero… mi trovai costretto, contro voglia, ad accelerare i miei movimenti.
+
+Partenza immediata, e di conseguenza si congedò subito… in modo un po’ più deciso.
+
+Improvvisamente, devo ammetterlo, più di quanto richiedesse la semplice cortesia…
+
+Permettuto.
+
+
+
+Il mio obiettivo principale quando ho lasciato il signor Blackwood era quello di entrare…
+
+Dopo aver seguito il suo consiglio, si sono verificate alcune difficoltà immediate… e con questo…
+
+Titolo: Ho trascorso la maggior parte della giornata girovagando senza meta
+
+Edimburgo alla ricerca di avventure disperate… avventure degne di tale nome
+
+Alla intensità dei miei sentimenti… e adattata al vasto mondo intorno
+
+Carattere dell’articolo che intendevo scrivere. In questa escursione…
+
+Era accompagnato da un servitore nero, [[characters/pompey|Pompeo]], e dal mio piccolo cagnolino.
+
+[[characters/diana|Diana]], che avevo portato con me da Filadelfia. Non era.
+
+Tuttavia, solo verso tarda sera riuscii completamente nel mio intento
+
+Un compito arduo… In quel momento accadde un evento importante che…
+
+L’articolo di Blackwood che segue, dal tono eterogeneo…
+
+La sostanza e il risultato.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="How to Write a Blackwood Article (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/soul,motif/well,concept/truth,concept/wonder,character/queen"></span>

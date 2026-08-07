@@ -1605,6 +1605,1617 @@ I have, up to the present day, utterly failed in my endeavors at
 procuring an edition.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Durante l’[[motifs/autumn|autunno]] del 18—, mentre si trovava in tournée nelle regioni più remote.
+
+Le province meridionali della Francia: il mio itinerario mi ha portato entro pochi chilometri da esse.
+
+Di una certa _Maison de Santé_ o di un istituto privato per malati mentali, riguardo al quale.
+
+Avevo sentito molte cose, a [[settings/paris|Parigi]], dai miei amici medici. Poiché avevo.
+
+Non avevo mai visitato un posto del genere… Pensai che fosse un’ottima opportunità.
+
+“Bene essersi persi… E così glielo proposi al mio compagno di viaggio.”
+
+Un gentiluomo che avevo conosciuto casualmente qualche giorno prima…
+
+Prima di proseguire, dovremmo deviare per un’ora o giù di lì e dare un’occhiata…
+
+“Attraverso l’intera struttura organizzativa… A questo obiettò, sostenendo la necessità di agire con urgenza.”
+
+Titolo:  
+In primo luogo, e soprattutto, un orrore molto comune…
+
+“Una visione da pazzo… Tuttavia, mi pregò di non permettere che qualcuno semplicemente…”
+
+“La cortesia verso se stesso non deve interferire con la soddisfazione dei miei desideri.”
+
+Curiosità… e disse che avrebbe viaggiato con calma, così che io…
+
+“Potrebbe raggiungerlo durante il giorno, o comunque, in qualsiasi momento…”
+
+Successivamente… Mentre mi diceva addio, pensai che forse…
+
+Difficoltà nell’ottenere l’accesso alle strutture
+
+Ha menzionato le mie paure su questo punto. Ha risposto che, in realtà…
+
+A meno che non conoscessi personalmente il sovrintendente, Monsieur…
+
+Maillard… o qualche tipo di certificato, una difficoltà…
+
+Potrebbe essere rilevato che esista, così come previsto dalle normative di queste organizzazioni private
+
+Le case di cura per malati mentali erano più rigide delle leggi che regolavano gli ospedali pubblici. Per
+
+“Lui stesso,” aggiunse, “aveva, alcuni anni prima, fatto…”
+
+Conoscenza di Maillard… e questo mi aiuterebbe a proseguire il mio viaggio.
+
+Fino alla porta e presentami… anche se i suoi sentimenti al riguardo…
+
+Una persona considerata pazzo non avrebbe potuto essere ammessa nella casa.
+
+
+
+Gli ringraziai, e lasciando la principale [[motifs/road|strada]], entrammo in.
+
+Sentiero erboso e poco frequentato, che in mezz’ora rischiava quasi di scomparire…
+
+Nella fitta foresta che ricopre le pendici di una montagna…
+
+Selva umida e cupa  
+Percorremmo circa due miglia in quella foresta buia e umida, quando arrivammo alla _Maison de…_
+
+Il fantastico castello di Santé apparve all’orizzonte…
+
+In rovina, e davvero quasi impossibile da abitare a causa dell’età…
+
+Negligenza… Il suo aspetto suscitò in me un terrore assoluto.
+
+Controllando il mio [[motifs/horse|cavallo]], pensai per un attimo di tornare indietro. Ma presto, invece.
+
+Incominciai a vergognarmi della mia debolezza e proseguii.
+
+
+
+Mentre ci avvicinavamo al cancello, notai che era leggermente aperto…
+
+Il volto di un uomo che sbircia attraverso… Un istante dopo…
+
+Quest’uomo si avvicinò, chiamò per nome il mio compagno e gli strinse la mano
+
+Con sincera cordialità, gli tese la mano e lo pregò di scendere; era il signor…
+
+Maillard stesso. Era un gentiluomo robusto e di bell’aspetto…
+
+Vecchio stile, con modi raffinati e un certo senso di gravità…
+
+Dignità e autorità davvero impressionanti.
+
+
+
+Il mio amico, dopo avermi presentato, menzionò il mio desiderio di esaminare.
+
+Il potere costituito, e ricevette le assicurazioni di Monsieur Maillard
+
+Si congedò immediatamente, dimostrandomi tutta la sua attenzione… e io lo vidi andarsene.
+
+Non più lui.
+
+
+
+Quando se ne fu andato, il sovrintendente mi fece entrare in una stanza piccola e…
+
+Una sala estremamente ordinata, che presenta, tra le altre caratteristiche…
+
+Gusto raffinato, molti libri, disegni, vasi pieni di [[motifs/flowers|fiori]] e musica.
+
+Strumenti musicali. Un allegro [[motifs/fire|fuoco]] ardeva nel camino; accanto al pianoforte.
+
+Cantando un’aria di Bellini, sedeva una giovane e molto bella…
+
+Una donna che, al mio arrivo, si fermò nel suo canto e mi accolse.
+
+Con grazia e cortesia. La sua voce era bassa, e tutto il suo comportamento denotava eleganza.
+
+Sottomesso… Pensai anche di aver notato tracce di dolore in lui.
+
+Il suo volto… che, sebbene secondo i miei gusti, era eccessivamente…
+
+Pallida e sgradevole all’aspetto… Indossava abiti di lutto e appariva agitata.
+
+Nel mio petto c’è un sentimento misto di rispetto, interesse e…
+
+ammirazione.
+
+
+
+Avevo sentito, a [[settings/paris|Parigi]], che l’istituto del signor Maillard.
+
+Il titolo era gestito secondo ciò che comunemente viene definito il “sistema di”.
+
+Un sollievo… che tutte le punizioni potessero essere evitate… persino la reclusione.
+
+Si ricorreva raramente a tale metodo: i pazienti, infatti, venivano osservati di nascosto…
+
+Vi era lasciata una grande libertà di azione, e la maggior parte di loro ne approfittava.
+
+Gli era permesso girovagare per la casa e i terreni circostanti, in modo normale.
+
+Abbigliamento tipico di persone con mente sana.
+
+
+
+Tenendo queste considerazioni a mente, fui cauto nel ciò che dissi.
+
+Davanti alla giovane signora… perché non potevo essere certo che fosse sana di mente.
+
+E, in effetti, c’era una certa vivacità irrequieta in lei.
+
+Occhi che, in parte, mi facevano pensare che lei non fosse davvero quella… Mi limitai a…
+
+Commenti su argomenti generali e su quelli che ritenevo importanti
+
+Non sarebbe né sgradevole né eccitante nemmeno per un pazzo… Lei.
+
+Rispose in modo del tutto razionale a tutto ciò che dissi; e…
+
+Anche le sue osservazioni iniziali erano caratterizzate dalla massima accuratezza e affidabilità.
+
+Una lunga familiarità con la metafisica della mania…
+
+Mi insegnò a non fidarmi affatto di prove del genere che dimostrassero la sanità di una persona, e io.
+
+Continuò ad essere cauto per tutta la durata dell’intervista.
+
+E così lo iniziai.
+
+
+
+In quel momento, un servitore elegante in divisa portò dentro un vassoio con della frutta.
+
+Vino e altre bevande rinfrescanti: ne ho assaporato alcuni, e la signora…
+
+Dopo che se ne andò dalla stanza… mentre lei usciva, io voltai lo sguardo verso di lei.
+
+Con un atteggiamento curioso nei confronti del mio ospite.
+
+
+
+“Mai,” disse, “oh, mai… Un membro della mia famiglia… Mia nipote… E una persona davvero…”
+
+Donna di successo.
+
+
+
+“Chiedo mille scuse per questo sospetto,” risposi, “ma…”
+
+Certo, capirà come scusarmi… L’eccellente.
+
+L’amministrazione dei tuoi affari qui è ben compresa a [[settings/paris|Parigi]].
+
+“E pensavo davvero che fosse possibile…”
+
+
+
+“Sì, sì… non dite altro… anzi, sono io che dovrei ringraziarvi.”
+
+Per la commendevole prudenza che avete dimostrato… Raramente ci capita di incontrare qualcuno così cauto.
+
+Tanta previdenza nei giovani… E, più di una volta, alcuni di loro…
+
+Si è verificato un imprevisto sfortunato a causa di…
+
+“La leggerezza dei nostri visitatori… Mentre il mio precedente…”
+
+Il sistema era attivo, e ai miei pazienti veniva permesso di utilizzarlo.
+
+Libertà di muoversi liberamente avanti e indietro… spesso li eccitava molto.
+
+Verso una follia pericolosa da parte di persone incaute che hanno invocato…
+
+Ispezionare la casa. Per questo motivo sono stato costretto ad attuare un sistema rigoroso.
+
+Titolo:  
+Di esclusione; e nessuno ottenne l’accesso alle strutture su cui…
+
+“Una discrezione di cui non potevo fidarmi.”
+
+
+
+“Mentre il vostro vecchio sistema era ancora in funzione!”, dissi, ripetendo quelle parole.
+
+Le sue parole: “Allora, devo capire che state dicendo che…”
+
+“Quel sistema di cui ho sentito parlare così tanto… non è più in vigore, vero?”
+
+
+
+“Ormai sono passate diverse settimane da quando abbiamo concluso”, rispose.
+
+“Rinunciarvi per sempre.”
+
+
+
+"Caspita! Mi lasci davvero senza parole!"
+
+
+
+“L’abbiamo trovato, signore,” disse, con un sospiro, “è assolutamente necessario.”
+
+"Tornare alle vecchie abitudini: il pericolo del sistema di conforto"
+
+Il titolo originale è piuttosto lungo e complesso, ma possiamo cercare di tradurlo in modo che mantenga lo stesso significato e la stessa struttura. Ecco una possibile traduzione
+
+Sopravalutato. Credo, signore, che in questa casa sia stato dato un valore eccessivo.
+
+“Un processo equo… se mai ne esiste uno davvero. Abbiamo fatto tutto ciò che era ragionevole.”
+
+Una scusa che l’umanità non potrebbe mai offrire… Mi dispiace che tu non abbia potuto pagare.
+
+Se ci avessi fatto visita in un periodo precedente, forse avresti potuto giudicare meglio…
+
+Il conforto che solo tu puoi offrire
+
+“Pratica… e i suoi dettagli.”
+
+
+
+"Non del tutto. Quello che ho sentito è stato solo una versione parziale o distorta delle cose."
+
+“Mano.”
+
+
+
+Titolo:  
+“Posso quindi descrivere il sistema, in termini generali, come uno in cui…”
+
+I pazienti venivano trattati con gentilezza e comprensione; non contraddicevamo mai le loro fantasie o desideri.
+
+“Quello che entrò nella mente dei pazzi… Al contrario, noi non solo…”
+
+Li ha viziati, ma anche incoraggiati; e molti dei nostri elementi più stabili…
+
+Cure sono state ottenute in questo modo. Non esiste argomento che possa contraddirlo.
+
+Titolo:  
+Colpisce la debole ragione del pazzo, come un argomento persuasivo…
+
+Assurdità. Abbiamo avuto uomini, ad esempio, che si credevano…
+
+Polli… La soluzione consisteva nell’insistere sul fatto che fosse davvero così.
+
+Accusare il paziente di stupidità per non esserne sufficientemente consapevole
+
+“Per essere un fatto… e quindi rifiutargli qualsiasi altra alimentazione per una settimana”
+
+Più di quanto sia appropriato per una gallina… In questo modo.
+
+“Un po’ di mais e ghiaia riuscivano a compiere miracoli.”
+
+
+
+“Ma era davvero tutto qui il significato di questo tipo di accettazione?”
+
+
+
+“Assolutamente no. Poniamo molta [[concepts/faith|fiducia]] in divertimenti di tipo semplice.”
+
+Come la musica, la danza, gli esercizi ginnici in generale, e i giochi di carte.
+
+Alcuni tipi di libri, e così via… Fingevamo di trattarli tutti allo stesso modo.
+
+Individuale come se si trattasse di un ordinario disturbo fisico; e il…
+
+Mai fu utilizzata la parola “lunaticità”. Un aspetto importante era quello di impostare ogni cosa in modo chiaro e preciso.
+
+Il pazzo incaricato di vigilare sulle azioni degli altri… Per riposare in pace.
+
+Confidare nella comprensione o nella discrezione di un pazzo è come…
+
+Ottenere il suo [[concepts/body|-corpo]] e la sua [[motifs/soul|-anima]]. In questo modo fummo in grado di agire.
+
+Con un costoso corpo formato da guardiani.
+
+
+
+“E non hai ricevuto alcuna punizione di sorta?”
+
+
+
+"Nessuno."
+
+
+
+“E non hai mai limitato le libertà dei tuoi pazienti?”
+
+
+
+“Molto raramente. Di tanto in tanto, si verifica che alcuni individui sviluppino questa patologia…”
+
+In un momento di crisi o di improvvisa furia, lo portammo via…
+
+Una cella segreta, affinché il suo disordine non contagiasse gli altri…
+
+Lo tennero lì fino a quando non potemmo mandarlo dai suoi amici… perché infatti…
+
+Il pazzo furioso: non abbiamo nulla da fare con lui. Di solito viene portato via…
+
+“I ospedali pubblici”.
+
+
+
+“E ora hai cambiato tutto questo… e pensi che sia per il meglio?”
+
+
+
+Decisamente… Il sistema presentava i suoi svantaggi, e anche…
+
+Pericoli… Ora, fortunatamente, si sono diffusi in tutte le “Maison”.
+
+La salute della Francia
+
+
+
+“Sono davvero molto sorpreso”, dissi, “di ciò che mi state raccontando; perché…”
+
+Si è assicurato che, in questo momento, nessun altro metodo di trattamento fosse disponibile.
+
+“La mania era diffusa in ogni parte del paese.”
+
+
+
+“Sei ancora giovane, mio amico,” rispose il mio ospite, “ma il [[motifs/time|tempo]], ”
+
+Arriverà quando imparerai a giudicare da solo ciò che è…
+
+Ciò che accade nel mondo, senza fidarsi delle chiacchiere altrui.
+
+Non credere a nulla di ciò che senti, e solo alla metà di ciò che vedi. Ora.
+
+Titolo:  
+Riguardo alle nostre “Maisons de Santé”, è evidente che qualcuno ignorante…
+
+Ti ha ingannato… Dopo cena, però, quando avrai riposato a sufficienza…
+
+"Riposato dallo sforzo del viaggio, sarò felice di accettare..."
+
+Tu sei nella casa e ti vengo a presentare un sistema che, secondo me.
+
+Opinione… e quella di chiunque ne abbia testimoniato l’atto.
+
+“L’operazione in questione è senza dubbio la più efficace mai concepita fino ad oggi.”
+
+
+
+“Di tua invenzione?” chiesi. “Qualcosa che hai creato tu stesso?”
+
+
+
+“Sono orgoglioso”, rispose, “di ammettere che è… almeno in questo senso”.
+
+“Una qualche misura…”
+
+
+
+In questo modo ho conversato con il signor Maillard per un’ora o più.
+
+Titolo:  
+Due… durante i quali mi mostrò i giardini e le serra.
+
+Il posto.
+
+
+
+“Non posso permetterti di vedere i miei pazienti, almeno per il momento…”, disse.
+
+Una mente sensibile… c’è sempre, più o meno, qualcosa di scioccante in essa
+
+Tali esposizioni… e non voglio rovinarvi l’appetito per…
+
+"Cena… Mangieremo insieme. Posso offrirti del vitello alla Menehoult."
+
+Titolo:  
+Cavolfiori in salsa velutata… seguiti da un bicchiere di Clos.
+
+“De Vougeot… allora i tuoi nervi saranno sufficientemente tranquilli.”
+
+
+
+Alle sei fu annunciato l’ora di cena; e il mio ospite mi accompagnò in…
+
+Grande sala da pranzo, dove era riunita un’ampia compagnia
+
+Assemblati: venti-cinque o trenta in totale. Apparentemente…
+
+Personaggi di rango… certamente di alta estrazione sociale… anche se…
+
+Abbigliamento, pensai, estremamente lussuoso…
+
+Un eccesso di sfarzo ostentato nella viella
+
+Almeno due terzi di questi ospiti…
+
+Donne… e alcune di queste ultime certamente non erano vestite in modo appropriato…
+
+Un parigino considererebbe buon gusto ciò che oggi molti ritengono tale.
+
+Ad esempio, femmine il cui età non poteva essere inferiore a…
+
+Settantuno di loro erano adornati con una grande quantità di gioielli, come anelli.
+
+Braccialetti, orecchini… e i loro seni, le loro braccia… erano esposti in modo evidente.
+
+“Shamefully bare… Molto poche di quelle vesti, inoltre, sembravano adeguatamente decorate.”
+
+Erano ben fatti, o, almeno, molto pochi di loro non soddisfacevano i requisiti richiesti.
+
+Titolo:  
+Tra la folla, ho notato quella ragazza interessante…
+
+Chi era quella persona che il signor Maillard mi aveva presentato nel piccolo salotto… ma…
+
+La mia sorpresa fu enorme quando la vidi indossare un cerchio e un farthingale.
+
+Con scarpe con i tacchi alti e un cappello sporco di pizzo di Bruxelles… tanto.
+
+“Troppo grande per lei… al punto che il suo viso sembrava ridicolmente piccolo…”
+
+Espressione… Quando l’ho vista per la prima volta, era vestita in modo molto…
+
+“In modo appropriato, nel profondo lutto… C’era qualcosa di strano nell’atmosfera…”
+
+Titolo:  
+Breve descrizione dell’abito indossato da tutti i partecipanti alla festa, che, all’inizio…
+
+Mi ha portato a riprendere in considerazione l’idea originale del “sistema lenitivo”.
+
+E immaginare che il signor Maillard fosse stato disposto a ingannare…
+
+Fino a dopo cena… per evitare qualsiasi disagio.
+
+Titolo:  
+I sentimenti durante il pasto, quando mi ritrovo a mangiare con…
+
+Pazzi. Ma ricordavo di essere stato informato, a [[settings/paris|Parigi]], che.
+
+I provincialisti del sud erano un popolo particolarmente eccentrico.
+
+Con un gran numero di concezioni obsolete; e poi, anche su…
+
+Conversando con diversi membri dell’azienda, le mie preoccupazioni…
+
+furono immediatamente e completamente dissipate.
+
+
+
+La sala da pranzo stessa, sebbene forse abbastanza confortevole…
+
+Di buone dimensioni, ma senza eccessiva eleganza…
+
+Ad esempio, il pavimento non era rivestito di moquette; in Francia, invece…
+
+Il tappeto viene spesso eliminato; anche le finestre…
+
+Senza tende; le persiane, chiuse, erano ben serrate.
+
+Chiuso con sbarre di ferro, posizionate in modo diagonale, secondo quella tecnica…
+
+Le solite tende dei negozi… L’appartamento, osservai, era formato da…
+
+Una parte integrante del castello… e quindi le finestre si trovavano su tre lati
+
+Le parti del parallelogramma… la porta si trova dall’altra parte.
+
+In totale, c'erano non meno di dieci finestre.
+
+
+
+La tavola era splendidamente imbandita; era piena di piatti e…
+
+Più che ricco di delizie… La abbondanza era davvero inverosimile.
+
+Barbarico. C’erano abbastanza carne per sfamare tutti gli Anakim.
+
+Mai, in tutta la mia vita, avevo assistito a qualcosa di così sfarzoso e sprezzante…
+
+Spese per le cose belle della vita… Sembrava davvero molto poco.
+
+“Tuttavia, apprezzai molto le disposizioni fatte; e i miei occhi, abituati…”
+
+Lumi tranquille, offese dal bagliore intenso di…
+
+"Moltissime candele di cera, disposte in candelabri d’argento..."
+
+Posato sul tavolo, e dappertutto nella stanza, ovunque si trovasse…
+
+È possibile trovare un posto… C’erano diversi servitori impegnati in quel momento.
+
+Partecipazione; e, su un grande tavolo, all’estremità più lontana…
+
+Appartamento: sette o otto persone sedute, con violini, flauti…
+
+Tromboni e un tamburo… Questi individui mi hanno davvero infastidito molto.
+
+Durante il pasto, un’infinita varietà di rumori interrompeva il silenzio…
+
+Musica destinata alla musica…
+
+intrattenimento per tutti i presenti, tranne che per me.
+
+
+
+In definitiva, non potevo fare a meno di pensare che ci fosse molto di vero in…
+
+La stranezza di tutto ciò che vedevo… ma dopotutto il mondo è fatto così.
+
+Di ogni sorta di persone, con tutti i modi di pensare e tutte le caratteristiche possibili…
+
+Al di là delle consuetudini convenzionali… Avevo viaggiato così tanto da…
+
+“Piuttosto abile nell’arte di non suscitare ammirazione… Quindi mi sono seduto con estrema calma.”
+
+A destra del mio ospite, e avendo un ottimo appetito…
+
+Riuscì a rendere giustizia all’allegra atmosfera che mi circondava.
+
+
+
+La conversazione, nel frattempo, era vivace e generale.
+
+Come al solito, le signore parlavano molto… Presto mi resi conto che quasi tutte…
+
+Tutta la compagnia era ben istruita; inoltre, il mio ospite rappresentava un mondo di.
+
+Aneddoto divertente e allegra… Sembrava davvero disposto a raccontarlo.
+
+Parlare della sua posizione di sovrintendente di una Maison de Santé _
+
+E, in effetti, l’argomento della follia fu, a mio grande stupore,…
+
+Il preferito di tutti i presenti… Molte storie divertenti furono raccontate.
+
+Disse questo, facendo riferimento ai _capricci* dei pazienti.
+
+
+
+“Una volta abbiamo avuto qui un certo individuo…”, disse un piccolo signore grassoccio che sedeva lì.
+
+A destra mia… un individuo che si considerava una teiera; e accanto a lui…
+
+In modo davvero singolare… quanto spesso si verifica questo particolare fenomeno.
+
+“Crotchet è entrato nel cervello di quel pazzo? A malapena…”
+
+Un manicomio in Francia che non è nemmeno in grado di fornire una teiera umana.
+
+Il nostro gentiluomo era una teiera in porcellana Britannia, e si prendeva grande cura di…
+
+“Si pulisce ogni mattina con pelle di cervo e crema bianca.”
+
+
+
+“E poi,” disse un uomo alto proprio di fronte a me, “poco tempo fa ci trovavamo qui…”
+
+Un uomo che si era convinto di essere…
+
+Asino, che, in senso allegorico, si potrebbe dire fosse davvero così.
+
+Un paziente difficile…
+
+Tenendolo entro certi limiti. Per un lungo [[motifs/time|tempo]], non mangiò altro che.
+
+“Cardi”… Ma di questa idea lo convincemmo presto a desistere, insistendo sul fatto che…
+
+Non mangiava altro… Poi continuava a calciare incessantemente tutto intorno a sé.
+
+“High heels…”
+
+
+
+“Signor De Kock… Le chiedo di comportarsi in modo appropriato!”
+
+“Per favore…” interruppe una vecchia signora seduta accanto al parlante.
+
+"#Tenete i piedi a posto! Avete rovinato il mio broccato… Che disastro!"
+
+È davvero necessario, per favore, illustrare un commento in uno stile così pratico?
+
+Il nostro amico qui sicuramente sarà in grado di capirvi senza tutto questo. Dovete solo…
+
+Mio Dio, sei quasi un altrettanto grande asino quanto quel povero sfortunato.
+
+“Mi sono immaginato di essere te… La tua recitazione è davvero naturale, proprio come la mia vita.”
+
+“Mille scuse! Signorina!” rispose il signor De Kock.
+
+Disse: “Mille scuse! Non avevo alcuna intenzione di offendere.”
+
+Ma’m’selle Laplace—Monsieur De Kock si prenderà la libertà di…
+
+“Portare il vino con te.”
+
+
+
+Qui Monsieur De Kock si inchinò profondamente e baciò la sua mano con grande…
+
+Durante la cerimonia, bevve vino insieme a Madame Laplace.
+
+
+
+“Permettetemelo, caro amico”, disse il signor Maillard.
+
+A me stesso: “Permettimi di inviarti un pezzetto di questa vitella preparata alla stile di Saint, ”
+
+“Menehoult… lo troverete davvero particolarmente bello.”
+
+
+
+In quell’istante, tre robusti camerieri erano appena riusciti a…
+
+"Deposito con cura sul tavolo un enorme piatto o vassoio..."
+
+Titolo:  
+Contenente ciò che ritenevo fosse il “mostro orribile…”
+
+“Un rapporto incompleto e incomprensibile… Un’attenta analisi rivela…”
+
+Io, invece, pensavo che si trattasse soltanto di un piccolo vitello arrosto intero…
+
+In ginocchio, con una mela in bocca… proprio come fanno gli inglesi.
+
+Modalità di vestire un coniglio.
+
+
+
+“Grazie, no,” risposi; “per dire la [[concepts/truth|verità]], non lo sono.”
+
+Particolarmente incline alla vitella alla St… Ma cosa è esattamente? Non me lo ricordo…
+
+“Trovo che sia completamente d’accordo con me. Cambierò il mio piatto.”
+
+“Comunque… provate anche voi con i conigli.”
+
+
+
+C’erano diversi contorni sul tavolo, contenenti…
+
+Sembrava essere un comune coniglio francese… davvero delizioso.
+
+Un brano musicale che posso sicuramente consigliare.
+
+
+
+“Pierre,” gridò il padrone di casa, “cambia il piatto di questo signore…”
+
+“Dategli un assaggio di questo coniglio al vino bianco…”
+
+
+
+“Questo cosa è?” dissi io.
+
+
+
+“Questo coniglio… o gatto?”
+
+
+
+"Perché, grazie… ma dopo averci pensato meglio, no. Me la caverò da solo."
+
+“Per alcuni degli sciocchi…”
+
+
+
+“Non si sa mai cosa si mangia…”, pensai tra me.
+
+“Tabelle relative a queste persone della provincia… Non ne voglio sapere nulla.”
+
+Coneggi e gatti… e, in fondo, nessuno dei due
+
+Né cat-au-rabbit.
+
+
+
+“E poi,” disse una figura dall’aspetto cadaveroso, vicino alla base…
+
+Il tavolo, riprendendo il filo della conversazione dove si era interrotta…
+
+Interrotto… – “E poi, tra altre stranezze, abbiamo avuto…”
+
+Un paziente, una volta, molto ostinatamente sosteneva.
+
+Si autodefiniva un formaggio di Cordova, e andava in giro con un coltello.
+
+"#La sua mano: invita gli amici a provare un piccolo pezzo..."
+
+“Nella parte centrale della sua gamba.”
+
+
+
+“Era davvero un grande [[archetypes/fool|idiota]], senza alcun dubbio,” intervenne qualcuno, “ma, ”
+
+Non paragonabile a una certa persona che tutti conosciamo.
+
+“Ad eccezione di questo strano gentiluomo… Intendo dire quell’uomo…”
+
+Si considerava una bottiglia di champagne… e se ne andava sempre così.
+
+“Un pop e una schiumetta… proprio in questo modo.”
+
+
+
+Qui il parlante, in modo molto scortese, a mio parere, mise il suo pollice destro…
+
+Nel suo guancio sinistro… lo estrasse con un suono simile a…
+
+“Lo scoppio di un tappo… e poi, con un movimento abile…”
+
+“La lingua contro i denti produceva un sibilo e uno sciabordio acuti…”
+
+Durò diversi minuti, in imitazione del rumore prodotto dalla schiuma.
+
+Champagne… Un comportamento che, chiaramente, non risultava molto gradito.
+
+Monsieur Maillard; ma quel signore non disse nulla…
+
+La conversazione fu ripresa da un uomo molto magro, con un grande parrucchio.
+
+
+
+“E poi c’era un ignorante”, disse, “che si sbagliava su se stesso…”
+
+Per un rospo, che, tra l’altro, assomigliava a lui in maniera notevole.
+
+“Vorrei tanto che lei lo avesse visto, signore”, – disse l’interlocutore.
+
+Me stesso – “Sarebbe stato bello per il tuo cuore vedere ciò che è naturale…”
+
+Le pose che assume… Signore, se quell’uomo non fosse una rana, allora non so proprio cosa dire…
+
+Che peccato che non lo fosse… Il suo rantolo.
+
+Così… ah… ah… ah…! era la nota più bella del mondo… B
+
+Titolo:  
+“Piatto… e quando appoggiò i gomiti sul tavolo, in questo modo…”
+
+“Un bicchiere o due di vino… e così allargò la bocca, rotolandola in quel modo.”
+
+Con gli occhi al cielo e battendo le palpebre con estrema velocità…
+
+Perché allora, signore, mi assumo il compito di dirlo con certezza: che voi…
+
+Sarebbe stato perduto nell’ammirazione per il genio di quell’uomo.
+
+
+
+“Non ne ho alcun [[concepts/doubt|dubbio]]”, dissi.
+
+
+
+“E poi,” disse qualcun altro, “ci fu anche Petit Gaillard.”
+
+Chi si considerava una briciola di tabacco… e in realtà era profondamente angosciato
+
+Perché non riusciva a prendersi tra il proprio dito indice e…
+
+“Dito mignolo”.
+
+
+
+E poi c’era Jules Desoulières, un uomo davvero singolare
+
+Un vero genio, ma impazzì all’idea di essere una zucca.
+
+Perseguitò il cuoco fino a costringerlo a preparare delle torte… una cosa che…
+
+“La cuoca rifiutò con indignazione di farlo. Per quanto mi riguarda, io di certo non lo farò.”
+
+“Sure that a pumpkin pie ‘à la Desoulières’ wouldn’t have been…”
+
+“Davvero un consumo eccessivo di risorse…”
+
+
+
+“Mi stupite davvero!”, dissi, guardando con curiosità il signor…
+
+Maillard.
+
+
+
+“Ahahah! Ahahah!” disse quel gentiluomo, “Hehehe! Hihihi! Ho!”
+
+“Ho! ho!—Hu! hu! hu!—Molto bene davvero! Non dovete meravigliarvi…”
+
+Il nostro amico… è davvero un buffone… Non dovreste sottovalutarlo.
+
+“Comprendilo alla lettera.”
+
+
+
+“E poi,” disse qualcun altro del gruppo, “poi ci fu…”
+
+Bouffon Le Grand: un altro personaggio straordinario a suo modo. Lui…
+
+Diventò pazzo a causa dell’[[motifs/love|amore]] e si convinse di possedere due.
+
+Testa di Cicero
+
+Titolo:  
+Un altro immaginò una versione composta, quella di Demostene…
+
+Titolo:  
+Dalla parte superiore della fronte alla bocca… e quella di Lord Brougham…
+
+Da un orecchio all’altro… Non è impossibile che avesse torto; ma…
+
+Avrebbe convinto chiunque della sua ragione; perché era davvero nel giusto.
+
+Uomo di grande eloquenza: provava una passione assoluta per l’oratoria.
+
+E non riusciva a trattenersi dal mostrarlo… Ad esempio, aveva l’abitudine di saltare in aria per farlo vedere.
+
+“Sul tavolo da pranzo, dunque, e… e…”
+
+
+
+Qui, un amico, accanto al relatore, gli mise una mano sulla spalla
+
+Gli sussurrò alcune parole all’orecchio; e lui…
+
+Smise di parlare all’improvviso e si ritirò nel suo silenzio
+
+sedile.
+
+
+
+“E poi,” disse l’amico che aveva sussurrato, “ci fu…”
+
+Boullard, il “tee-totum”. Lo chiamo così perché…
+
+In realtà, fu assalito da una sensazione di divertimento… ma non del tutto.
+
+Irrazionale e bizzarro… trasformato in qualcosa di…
+
+Tee-totum. Avreste riso a crepapelle vedendolo girare in quel modo.
+
+Lui si girava su un tacco ogni ora, in questo…
+
+Modo… così…
+
+
+
+Qui l’amico che aveva appena interrotto con un sussurro…
+
+svolse un compito esattamente simile per sé stesso.
+
+
+
+“Ma allora,” gridò la vecchia signora a voce alta, “il tuo…”
+
+Monsieur Boullard era un pazzo, e per di più un pazzo molto sciocco.
+
+Per chi, permettetemi di chiedervi, ha mai sentito parlare di un “tee-totum umano”?
+
+La situazione è assurda. Madame Joyeuse era una persona molto più sensata…
+
+Come è noto, aveva una certa passione per queste cose… ma era più un istinto naturale che qualcosa di deliberato.
+
+Sensazione e piacere per tutti coloro che ebbero l’onore di conoscerla
+
+Conoscenza… Dopo matura riflessione, concluse che, in un certo senso…
+
+In un incidente, era stata trasformata in un gallo… ma, come tale…
+
+Si comportò con decoro… E agitò le ali con grande energia.
+
+Effetto, sì, sì, sì. E poi, per quanto riguarda il suo canto, era davvero delizioso!
+
+Cock-a-doodle-doo!—cock-a-doodle-doo!—cock-a-doodle-de-doo
+
+“Dooo-do-o-o-o-o-o-o!”
+
+
+
+“Madame Joyeuse, vi prego di comportarvi in modo appropriato!”
+
+Interruppe il nostro ospite con molta rabbia: “Puoi o bien condurre…”
+
+"Comportati come si addice a una signora, altrimenti puoi anche andartene da tavola."
+
+“Subito… scegli tu stesso.”
+
+
+
+La signora… di cui fui molto sorpreso quando sentii che veniva chiamata “Madame”.
+
+Joyeuse… dopo la descrizione di Madame Joyeuse che aveva appena letto…
+
+Il viso le si arrossì fino alle sopracciglia; sembrava estremamente imbarazzata.
+
+Alla rimprovera… Abbassò la testa e non disse una parola.
+
+In risposta… Ma un’altra signora, più giovane, riprese l’argomento.
+
+La mia bellissima ragazza del piccolo salotto.
+
+
+
+“Oh, Madame Joyeuse era una [[archetypes/fool|stupida]]!” esclamò, “ma c'era, ”
+
+“Dopo tutto, un notevole senso del buon gusto, secondo Eugénie”
+
+“Salsafette… Una giovane molto bella, ma dolorosamente modesta.”
+
+Signora che riteneva il modo normale di vestirsi indecente…
+
+Voleva sempre vestirsi uscendo di casa, invece di…
+
+Dentro i suoi vestiti. Dopo tutto, è qualcosa che si può fare molto facilmente.
+
+Devi solo fare così… e poi così… e poi ancora così…
+
+“Allora… così… e poi…”
+
+
+
+“Mio Dio! Signorina Salsafette!”, gridarono una dozzina di voci all’unisono.
+
+“Una volta… ‘Cosa stai facendo?… Fermati!… Basta così… Lo vediamo.’”
+
+“Molto chiaramente, ecco come si fa! — Fermatevi, fermatevi!” e diverse persone…
+
+Già si alzavano in piedi per impedire che Ma’m’selle…
+
+"Salsafette da aver cercato di mettersi al pari dei Medici"
+
+[Venere, quando il momento fu davvero efficace e improvviso.
+
+Intitolato: “Realizzato attraverso una serie di urla e grida sonore da parte di qualcuno…”
+
+Una parte della struttura principale del _castello_.
+
+
+
+I miei nervi ne furono davvero molto influenzati da questi urla…
+
+Il resto della compagnia… mi faceva davvero pena. Non ho mai visto nulla di simile in loro.
+
+Persone perbene, così profondamente spaventate nella mia vita… Tutte loro.
+
+Il viso divenne pallido come quello di tanti cadaveri; si ritirò, rimpicciolendosi all’interno di loro…
+
+Titolo:  
+Seduti, tremanti e balbettanti per il terrore, in ascolto…
+
+La ripetizione di quel suono… Arrivò di nuovo: più forte, e sembrava…
+
+Una volta ancora più vicino. E poi per la terza [[motifs/time|volta]] molto forte; infine, per la quarta [[motifs/time|volta]].
+
+Con un vigore evidentemente diminuito… In questo apparente spegnersi…
+
+Il rumore… Lo spirito della compagnia fu immediatamente ristabilito.
+
+E tutto tornò alla normalità, come prima… Ora osai provare di nuovo.
+
+Indagare sulla causa del disturbo.
+
+
+
+“Una semplice _bagatella_“, disse Monsieur Maillard. “Siamo abituati…”
+
+Queste cose… e non ci importa davvero nulla di esse.
+
+Di tanto in tanto, i pazzi scatenano urla all’unisono… uno di loro.
+
+Iniziando un altro, come talvolta succede con un branco di cani.
+
+[[motifs/night|di notte]]. Tuttavia, a volte succede che il _concerto_.
+
+Grida che vengono seguite da un tentativo simultaneo di liberarsi…
+
+“Quando, naturalmente, si possa prevedere la presenza di un piccolo pericolo…”
+
+
+
+“E quanti ne avete sotto la vostra responsabilità?”
+
+
+
+Attualmente ne abbiamo non più di dieci in totale.
+
+
+
+“Per lo più donne, presumo…”
+
+
+
+“Oh, no… tutti uomini, e per di più tipi robusti, posso dirlo con certezza.”
+
+“Tu, davvero.”
+
+
+
+"Certo! Ho sempre pensato che la maggior parte dei pazzi..."
+
+“Appartenevano al sesso più gentile.”
+
+
+
+“Di solito è così, ma non sempre. Qualche tempo fa, c'erano, ”
+
+Circa ventisette pazienti qui; e, tra questi, nessuno meno…
+
+Più della metà erano donne; ma ultimamente le cose sono cambiate molto.
+
+“Molto, come potete vedere.”
+
+
+
+“Sì… sono cambiato molto, come potete vedere,” interruppe lui.
+
+Il gentiluomo che aveva rotto le tibie di Madame Laplace.
+
+
+
+“Sì… sono cambiato molto, come potete vedere!” intervenne tutti insieme.
+
+Vieni con me subito.
+
+
+
+“Tutti voi, tenete la bocca chiusa!”, disse il mio ospite con tono autoritario.
+
+Rabbia. Allora l’intero gruppo osservò un silenzio mortale.
+
+Quasi un minuto… Per quanto riguarda una certa signora, lei obbedì alle istruzioni di Monsieur Maillard.
+
+La lettera… e lei, con la lingua fuori…
+
+Una lunghezza eccessiva… che lo tenevo, con rassegnazione, tra entrambe le mani.
+
+fino alla fine dello spettacolo.
+
+
+
+“E questa gentildonna,” dissi a Monsieur Maillard, chinandomi…
+
+“Questa gentile signora che è appena…” sussurrò, rivolgendosi a lui.
+
+“Chi parla, e chi ci dà quel canto del gallo… Immagino sia lei.”
+
+“È innocuo… davvero innocuo, vero?”
+
+
+
+“Inoffensivo!”, esclamò con sincera sorpresa, “perché… perché?”
+
+“Puoi davvero intendere questo?”
+
+
+
+“Solo leggermente toccato?”, dissi, toccandomi la testa. “Immagino che…”
+
+Ammesso che non sia particolarmente o pericolosamente colpita…
+
+eh?”
+
+
+
+“#Mio Dio! A cosa stai pensando? Questa signora… la mia vecchia amica…”
+
+Amica mia, Madame Joyeuse, è altrettanto sana di mente quanto me. Lei…
+
+Le sue piccole eccentricità, certo… ma poi, sai com’è, tutte cose tipiche degli anziani.
+
+Donne… donne molto anziane… sono più o meno tutte un po’ strane!
+
+
+
+“Certamente,” dissi, “certamente… e poi il resto di queste cose.”
+
+Signore e signori…
+
+
+
+“Sono i miei amici e protettori”, intervenne il signor Maillard.
+
+Con aria di superiorità, disse: “I miei molto buoni amici…”
+
+“Assistenti”.
+
+
+
+“Cosa? Tutte loro?” chiesi, “le donne e tutte le altre?”
+
+
+
+“Certamente”, disse, “non potremmo assolutamente farcela senza le donne”.
+
+“Sono le migliori infermiere pazze al mondo… hanno un modo tutto loro di fare le cose.”
+
+I loro occhi luminosi, sai… hanno qualcosa di meraviglioso.
+
+“Un effetto simile alla fascinazione che esercita un serpente, capisci…”
+
+
+
+“Certamente,” dissi, “certamente! Si comportano in modo un po’ strano…”
+
+“Eh? Sono un po’ strani, vero? Non pensi anche tu?”
+
+
+
+“Strano… curioso… davvero lo pensi così? Non siamo affatto…”
+
+“Certo, nel Sud si è piuttosto prudenti… ma in fondo facciamo più o meno ciò che vogliamo.”
+
+“Per favore… goditi la vita, e tutte quelle cose del genere, capisci?”
+
+
+
+“Certamente,” dissi, “certamente.”
+
+
+
+"E poi, forse, questo Clos de Vougeot è un po’ troppo inebriante..."
+
+“Conoscere… forse è un po’ eccessivo, capisci?”
+
+
+
+“Certamente,” dissi, “certamente. A proposito, signore, ho…?”
+
+Capisco che il sistema che avete adottato sia efficace…
+
+Il famoso sistema di rilassamento… era uno dei più rigorosi in assoluto.
+
+“Gravità?”
+
+
+
+"Assolutamente no. La nostra reclusione potrebbe essere forzata, ma..."
+
+Titolo:  
+Il trattamento medico, intendo dire, è piuttosto gradevole…
+
+“I pazienti, più di qualsiasi altra cosa…”
+
+
+
+“E il nuovo sistema è frutto della tua stessa invenzione?”
+
+
+
+“Non del tutto. Alcune parti di esso riguardano il Professore…”
+
+Tarr, di cui sicuramente avrete già sentito parlare… e poi, ci sono ancora altri…
+
+Modifiche al mio piano che sono felice di riconoscere come tali
+
+Titolo:  
+Il diritto di appartenenza al celebre Fether… con il quale, se io…
+
+Un’intima conoscenza… un onore per voi.
+
+
+
+“Mi vergogno molto ad ammetterlo,” risposi, “ma non l’ho mai fatto.”
+
+“Non ho mai nemmeno sentito i nomi di quei due signori prima d’ora.”
+
+
+
+“Mio Dio!”, esclamò il mio ospite, tirandosi indietro la sedia.
+
+“Improvvisamente, alzando le mani… ‘Certo che non ti sento.’”
+
+Ahià! Non volevi davvero dire, vero?, che non l’avevi mai sentito…
+
+Uno dei dotti Dottor Tarr o del celebre Professore
+
+“Piuma?”
+
+
+
+“Sono costretto ad ammettere la mia ignoranza”, risposi; “ma…”
+
+La [[concepts/truth|.verità]] deve essere considerata inviolabile sopra ogni cosa. Tuttavia, io.
+
+Sentirsi umiliato fino alla [[motifs/dust|polvere]], non conoscere nemmeno le opere di.
+
+Questi uomini, senza alcun [[concepts/doubt|dubbio]], sono straordinari. Cercherò di contattarli.
+
+Scrisse immediatamente quei testi e li lesse con attenzione e cura.
+
+Monsieur Maillard, davvero… devo ammetterlo, lei ha…
+
+“Davvero… mi ha fatto vergognare di me stesso!”
+
+
+
+E questo era il fatto.
+
+
+
+“Non dire altro, mio caro giovane amico“, disse gentilmente, stringendomi la mano.
+
+"Un bicchiere di Sauterne, ora… unisciti a me."
+
+
+
+Bevemmo… E anche gli altri seguirono il nostro esempio senza riserve.
+
+Chiacchierarono, scherzarono, risero… e fecero mille altre cose.
+
+“Assurdità: le violini strillavano, la fila di tamburi rimbombava…”
+
+I tromboni ruggivano come tanti tori di bronzo di Falaride… e il resto del testo proseguiva.
+
+L’intera scena diventa gradualmente sempre più drammatica, man mano che i vini…
+
+Prese il sopravvento e, alla fine, si trasformò in una sorta di caos totale.
+
+“Petto… Nel frattempo, io e Monsieur Maillard, insieme ad alcuni altri…”
+
+“Bottiglie di Sauterne e Vougeot tra di noi… continuammo così.”
+
+Conversazione a voce alta. Una parola pronunciata ad alta voce…
+
+Il normale suono non aveva alcuna possibilità di essere udito, proprio come la voce stessa.
+
+Di un pesce che vive sul [[characters/bottom|fondo]] delle cascate del Niagara.
+
+
+
+“E poi, signore,” dissi gridando nel suo orecchio, “lei ha menzionato…”
+
+Qualcosa prima di cena sul pericolo insito negli antichi…
+
+“Un sistema di conforto… Che idea interessante.”
+
+
+
+“Sì”, rispose, “a volte c’era davvero un pericolo molto grande”.
+
+Certo… Non si possono spiegare i capricci dei pazzi; e…
+
+A mio parere, tanto quanto quello del Dottor Tarr e del Professore.
+
+“Fether, non è mai sicuro lasciarli liberi di muoversi liberamente…”
+
+Senza sorveglianza… Un pazzo può essere “calmato”, per così dire…
+
+[[motifs/time|tempo]], ma alla fine è molto propenso a diventare ribelle. Lui.
+
+“Cunning, anche, è proverbialmente qualcosa di grande e importante. Se ha un progetto…”
+
+"#Con astuzia meravigliosa, nasconde i propri piani..."
+
+L’abilità con cui falsifica la sanità, presenta, davanti agli altri.
+
+Metafisico: uno dei problemi più complessi nello studio della…
+
+Mente… Quando un pazzo sembra del tutto sano di mente, in effetti, è davvero sorprendente.
+
+“È arrivato il momento di metterlo in una camicia di forza.”
+
+
+
+“Ma il pericolo, mio caro signore, di cui stavate parlando…”
+
+Sulla base della tua esperienza personale, durante il periodo in cui hai controllato questa casa, hai mai avuto.
+
+Una ragione pratica per ritenere la libertà pericolosa nel caso di…
+
+“Pazzo?”
+
+
+
+“Qui? Nella mia stessa esperienza? Beh, si potrebbe dire di sì… Ad esempio…”
+
+Molto tempo fa, in questo luogo accadde un evento particolare…
+
+In tutta la casa. Il “sistema di rilassamento”, sai, era già attivo all’epoca.
+
+Operazione… e i pazienti erano liberi. Si sono comportati bene.
+
+In modo straordinariamente [[motifs/well|buono]], soprattutto in quel contesto, chiunque dotato di buon senso avrebbe potuto capirlo.
+
+Che da quel particolare fatto stesse prendendo forma qualche diabolico piano…
+
+Il fatto che quei ragazzi si siano comportati in modo così straordinariamente [[motifs/well|bene]]. E, infatti, è stato proprio così.
+
+Una bella mattina, i custodi si ritrovarono con le mani legate…
+
+Gettati in prigione, venivano curati lì dentro, come se…
+
+Erano i pazzi stessi, a definire i propri simili come pazzi…
+
+“Ha usurpato le cariche dei custodi.”
+
+
+
+“Ma davvero? Non ho mai sentito parlare di nulla di così assurdo in tutta la mia vita…”
+
+“Vita!”
+
+
+
+“Fatto: tutto è accaduto grazie a un idiota…”
+
+Il pazzo che, per qualche motivo, aveva deciso di…
+
+Aveva inventato un sistema di governo migliore di qualsiasi altro mai esistito.
+
+Prima, dell’assurda governanza di quei pazzi, intendo. Voleva donare il proprio.
+
+“Un’invenzione… una sorta di prova, suppongo… E così riuscì a convincere gli altri.”
+
+Pazienti che si uniscono a lui in una cospirazione per rovesciare…
+
+“I poteri dominanti”.
+
+
+
+“E davvero ci è riuscito?”
+
+
+
+“Nessun [[concepts/doubt|dubbio]] al riguardo. Presto, i guardiani e le creature custodite furono costretti a scambiarsi di posto.”
+
+Luoghi… Anche questo non è del tutto esatto: quei pazzi erano infatti liberi, ma…
+
+I guardiani furono immediatamente rinchiusi in cella e trattati…
+
+“Purtroppo, si è espresso in modo molto superficiale.”
+
+
+
+“Ma presumo che ben presto si sia verificata una controrivoluzione… Questo.”
+
+La situazione attuale non potrà durare a lungo… Il paese…
+
+Gente del quartiere… e visitatori che vengono a vedere…
+
+L’istituzione avrebbe dovuto lanciare l’allarme.
+
+
+
+Eccoti fuori. Il capo dei ribelli era troppo astuto per farsi prendere in quel modo. Lui.
+
+Non ammise visite in assoluto… tranne che un giorno, quando…
+
+Un giovane gentiluomo dall’aspetto molto stupido, per il quale non aveva alcun motivo…
+
+Non aver paura. Gli ha permesso di entrare per fargli vedere il posto… solo per curiosità.
+
+Varietà… per divertirmi un po’ con lui. Non appena lo fece…
+
+Lo aveva intrappolato a dovere; quindi lo lasciò andare e lo mandò per la sua strada.
+
+“Affari”.
+
+
+
+“E per quanto tempo, dunque, regnarono questi pazzi?”
+
+
+
+“Oh, molto tempo fa, davvero, di certo un mese. Quanto altro tempo passerà ancora, ”
+
+Non posso dirlo con precisione… Nel frattempo, quei pazzi se la spassavano un mondo.
+
+La stagione di… che potreste giurarlo. Si tolsero i propri abiti logori…
+
+“Vestiti… e liberata con l’armadio della famiglia e i gioielli.”
+
+Le cantine del castello erano ben fornite di vino; e queste.
+
+“Il pazzo è semplicemente il diavolo che sa come bere… Hanno vissuto.”
+
+Beh, posso dirtelo.
+
+
+
+E il trattamento… di che tipo specifico si trattava?
+
+“Quello che il capo dei ribelli mise in atto?”
+
+
+
+“Beh, in merito a questo, un pazzo non è necessariamente uno [[archetypes/fool|idiota]], come ho già detto, ”
+
+Già osservato in precedenza; ed è la mia sincera opinione che il suo trattamento…
+
+“Era un trattamento molto migliore rispetto a quello che sostituiva.”
+
+Un sistema davvero eccezionale: semplice, ordinato, senza alcun problema…
+
+“Davvero delizioso… lo era davvero.”
+
+
+
+Qui le osservazioni del mio ospite furono interrotte da un’altra serie di…
+
+Titolo: Grida dello stesso carattere di quelle che avevano preceduto…
+
+Ci ha disorientato. Tuttavia, questa volta sembravano procedere in modo diverso.
+
+Persone che si avvicinano rapidamente.
+
+
+
+“Per tutti i cieli!” esclamai “quei pazzi hanno vinto…”
+
+“Senza dubbio, è scappato libero…”
+
+
+
+“Temo molto che sia così,” rispose il signor Maillard.
+
+Il viso gli divenne estremamente pallido. Appena aveva finito di dire quella frase…
+
+Prima che si udissero grida e imprecazioni dal basso…
+
+Finestre; e subito dopo divenne evidente che qualcosa…
+
+Persone esterne stavano cercando di entrare nella stanza.
+
+La porta venne colpita con qualcosa che sembrava un martello da incudine…
+
+Le persiane furono strappate via e scosse con una violenza incredibile.
+
+
+
+Una scena di terribile confusione seguì… Monsieur Maillard
+
+A mia grande sorpresa, si gettò sotto il mobile laterale.
+
+Mi aspettavo una risoluzione più decisa da parte sua… I membri del…
+
+Orchestra, che negli ultimi quindici minuti sembrava…
+
+“Troppo ubriachi per svolgere il loro dovere… ora si sono tutti alzati di scatto.”
+
+“Fianchi e strumenti… e, arrampicandosi sul loro tavolo…”
+
+Scattarono tutti insieme a cantare “Yankee Doodle”.
+
+Esecutato, se non proprio in sintonia perfetta, almeno con grande energia.
+
+Superumano, per tutto il corso di quel trambusto.
+
+
+
+Intanto, al grande tavolo da pranzo, tra le bottiglie…
+
+"Gli occhiali… l’uomo che, con tanta difficoltà, li aveva indossati…"
+
+Trattenuto dal non saltare lì prima… Non appena ne ebbe la possibilità.
+
+Si sistemò e iniziò un discorso che, senza alcun [[concepts/doubt|dubbio]], doveva essere.
+
+Un suono fortissimo… se solo fosse stato possibile udirlo.
+
+Titolo:  
+Nel momento in cui quell’uomo, con la sua particolare preferenza per il teetotum, si mise all’opera…
+
+Girando vorticosamente per l’appartamento, con immensa energia e con le braccia…
+
+Teso ad angoli retti rispetto al suo [[concepts/body|-corpo]], in modo che potesse utilizzare completamente.
+
+L’atmosfera di un vero e proprio pandemonio… e infatti fece cadere tutti quanti.
+
+Si trovava per caso nel suo cammino… E ora, ancora una volta, ascoltando qualcosa di incredibile…
+
+“Con il rumore prodotto dallo scoppio e dal frizzolio dello champagne, ho finalmente scoperto…”
+
+Proveniva dalla persona che aveva aperto quella bottiglia…
+
+Bevanda delicata durante la cena… E poi, ancora, l’uomo-rana.
+
+Morì rantando, come se la salvezza della sua [[motifs/soul|'anima]] dipendesse da ogni singola parola che pronunciava.
+
+“Note che egli pronunciò… E, nel mezzo di tutto ciò…”
+
+Il continuo raglio di un asino risuonava ovunque. Per quanto riguarda il mio vecchio.
+
+Amico mio, Madame Joyeuse… Avrei davvero potuto piangere per quella povera persona.
+
+“Signora… sembrava davvero terribilmente perplessa. Tuttavia, tutto ciò che fece…”
+
+Doveva alzarsi in un angolo, vicino al caminetto, e cantare ad alta voce
+
+“Cock-a-doodle-de-dooooooh!”, gridava senza sosta alzando la voce il più possibile.
+
+
+
+E ora arrivò il culmine: la catastrofe di tutta quella vicenda. Come nessuno avrebbe potuto prevedere…
+
+Resistenza… al di là di urla e strepiti inutili.
+
+Offerto alle invasioni del partito… senza i dieci.
+
+Le finestre furono rotte molto rapidamente, e quasi contemporaneamente.
+
+Ma non dimenticherò mai le emozioni di [[concepts/wonder|stupore]] e orrore che ho provato.
+
+Che fissavo, mentre quelle figure saltavano attraverso queste finestre e giù…
+
+Tra di noi, a casaccio: lottando, calpestando, graffiandosi…
+
+urlante, si precipitò un esercito perfetto di quelle che ritenevo fossero…
+
+Scimmie antropomorfe, oranghi e grandi babbuini neri del Capo
+
+Buona [[concepts/hope|Speranza]].
+
+
+
+Ho ricevuto una terribile battuta… dopo di che mi sono rannicchiato sotto un divano.
+
+E rimani fermo. Dopo essere rimasto lì per circa quindici minuti…
+
+In quel momento ascoltai attentamente tutto ciò che stava accadendo.
+
+La stanza… giunsi anch’io a una conclusione altrettanto soddisfacente di questa storia.
+
+[[forms/tragedy|tragedia]]. A quanto pare, monsieur Maillard, nel raccontarmi l'evento.
+
+Il titolo del libro è: “Di quel pazzo che aveva incitato i suoi compagni alla ribellione”.
+
+Raccontando soltanto le proprie imprese… Questo signore, infatti, aveva…
+
+Titolo:  
+Circa due o tre anni prima, era stato il sovrintendente…
+
+L’istituzione stessa, ma lui stesso impazzì, e così divenne un paziente.
+
+Questo fatto era sconosciuto al compagno di viaggio che lo aveva presentato…
+
+“Io… I dieci custodi, colti di sorpresa e sopraffatti…”
+
+Prima venivano ben impregnati di catrame, poi accuratamente rivestiti con piume, e infine chiusi.
+
+Nelle prigioni sotterranee… Erano stati rinchiusi lì per così tanto tempo…
+
+Più di un mese, durante il quale il signor Maillard…
+
+Li permise generosamente non solo di subire quelle punizioni severe…
+
+Costituiva il suo “sistema”, ma anche del pane e abbondante [[motifs/water|acqua]].
+
+L’ultimo veniva somministrato loro quotidianamente. Alla fine, uno di loro riuscì a fuggire.
+
+Attraverso un canale fognario, diede [[concepts/freedom|libertà]] a tutti gli altri.
+
+
+
+Il “sistema calmante”, dopo importanti modifiche, è stato…
+
+Ripreso al castello… ma non posso fare a meno di concordare
+
+Monsieur Maillard: il suo stesso “trattamento” si rivelò estremamente grave
+
+Unico nel suo genere. Come osservò giustamente qualcuno, era “semplice, pulito e…”
+
+Non causò alcun problema, assolutamente nessuno.
+
+
+
+Devo solo aggiungere che, nonostante abbia cercato in tutte le biblioteche…
+
+In Europa per le opere del Dottor Tarr e del Professore Fether
+
+Titolo:  
+Fino ad oggi, ho fallito completamente nei miei tentativi di…
+
+Procurare un'edizione.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The System of Doctor Tarr and Professor Fether (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/fire,motif/flowers,motif/horse,motif/road,motif/well,concept/faith,setting/paris"></span>

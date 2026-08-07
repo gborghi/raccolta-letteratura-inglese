@@ -221,6 +221,84 @@ that secret throne of contemplation, from which he never [[motifs/rose|rose]] ag
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'Abate Fuggiasco
+
+G. K. CHESTERSTON
+
+A qualche miglio dal monastero di Montecassino si ergeva una grande rupe, o falesia, che si levava come un pilastro degli Appennini. Era coronata da un [[settings/castle|castello]] che portava il nome di La Roccasecca, ed era il nido d'aquila in cui gli aquilotti del ramo di Aquino della famiglia imperiale venivano allevati per spiccare il volo. Qui viveva il conte Landolfo d'Aquino, che era il padre di Tommaso d'[[characters/aquinas|Aquino]] e di altri sette figli. In fatto di guerra egli cavalcava senza dubbio con la sua famiglia, alla maniera feudale; e a quanto pare ebbe qualcosa a che fare con la distruzione del monastero. Ma era tipico dell'intrico del [[motifs/time|tempo]] che il conte Landolfo sembri aver poi pensato che sarebbe stato un atto tattico e delicato collocare suo figlio Tommaso come Abate del monastero. Ciò sarebbe stato una sorta di graziosa scusa alla Chiesa, e insieme, a quanto pare, la soluzione di una difficoltà familiare.
+
+Poiché era da tempo apparso chiaro al conte Landolfo che nulla si poteva fare del suo settimo figlio Tommaso, se non farne un Abate o qualcosa del genere. Nato nel 1226, egli aveva fin dall'[[motifs/childhood|infanzia]] una misteriosa avversione a diventare un'aquila predatrice, o anche solo a prendere un ordinario interesse per la falconeria, per la giostra o per qualsiasi altra occupazione da gentiluomo. Era un ragazzo grande, pesante e quieto, e fenomenalmente silenzioso, che a stento apriva bocca se non per dire improvvisamente al suo maestro, in maniera esplosiva: «Che cos'è Dio?» La risposta non è registrata, ma è probabile che colui che chiedeva continuasse a scervellarsi da sé per trovare le risposte. L'unico posto per una persona di questa specie era la Chiesa e presumibilmente il chiostro; e per quel che riguardava ciò, non c'era particolare difficoltà. Era abbastanza facile per un uomo nella posizione del conte Landolfo accordarsi con qualche monastero affinché suo figlio vi fosse accolto; e in questo caso particolare egli pensò che sarebbe stata una buona idea che vi fosse accolto in qualche veste ufficiale, degna del suo rango mondano. Così tutto fu agevolmente predisposto perché Tommaso d'[[characters/aquinas|Aquino]] diventasse monaco, il che sembrava essere quanto egli stesso desiderava; e prima o poi diventasse Abate di Montecassino. E poi accadde la cosa curiosa.
+
+Per quanto possiamo seguire eventi piuttosto oscuri e controversi, sembrerebbe che il giovane Tommaso d'[[characters/aquinas|Aquino]] entrasse un giorno nel [[settings/castle|castello]] di suo padre e annunciasse con calma di essere diventato uno dei Frati Mendicanti, del nuovo ordine fondato da Domenico lo spagnolo; press'a poco come il figlio maggiore dello scudiero potrebbe tornare a [[motifs/home|casa]] e informare con disinvoltura la famiglia di aver sposato una zingara; o l'erede di un Duca Tory dichiarare che l'indomani avrebbe marciato con i Marciatori della Fame organizzati da presunti comunisti. Da questo, come si è già notato, possiamo misurare piuttosto [[motifs/well|bene]] l'abisso tra il vecchio monachesimo e il nuovo, e il terremoto della rivoluzione domenicana e francescana. Tommaso aveva mostrato di voler essere Monaco; e le porte gli furono aperte in silenzio e i lunghi viali dell'abbazia, il tappeto stesso, per così dire, steso davanti a lui fino al trono dell'abate mitrato. Egli disse di voler essere Frate, e la sua famiglia gli si avventò addosso come belve; i suoi fratelli lo inseguirono lungo le pubbliche strade, gli strapparono a metà il saio di frate di dosso e infine lo rinchiusero in una torre come un pazzo.
+
+Non è molto facile ricostruire il corso di questa furiosa lite familiare, e come alla fine essa si esaurì contro la tenacia del giovane Frate; secondo alcune storie, la disapprovazione di sua madre fu di breve durata ed ella passò dalla sua parte; ma non erano soltanto i suoi parenti a essere coinvolti. Potremmo dire che la classe dirigente centrale d'Europa, che in parte era costituita dalla sua famiglia, era in subbuglio per il deplorevole giovane; persino al Papa fu chiesto un tattico intervento, e a un certo [[motifs/time|momento]] fu proposto che a Tommaso si permettesse di indossare l'abito domenicano pur agendo da Abate nell'Abbazia benedettina. A molti questo parrebbe un tattico compromesso; ma non si raccomandò alla ristretta mente medievale di Tommaso d'[[characters/aquinas|Aquino]]. Egli fece capire seccamente che desiderava essere un domenicano nell'Ordine domenicano, e non a un ballo in maschera; e la proposta diplomatica sembra essere stata lasciata cadere.
+
+Tommaso d'Aquino voleva essere un Frate. Era un fatto sbalorditivo
+per i suoi contemporanei; ed è un fatto piuttosto intrigante
+anche per noi; poiché questo [[motifs/desire|desiderio]], limitato alla lettera e in senso stretto
+a questa affermazione, fu l'unica cosa concreta cui la sua
+volontà restò avvinta con adamantina ostinazione fino alla [[motifs/death|morte]].
+Non voleva essere Abate; non voleva essere Monaco; non voleva
+nemmeno essere Priore o superiore nella propria fraternità; non voleva essere
+un Frate eminente e importante; voleva essere un Frate. È come se
+Napoleone avesse insistito per rimanere soldato semplice tutta la vita.
+Qualcosa in questo gentiluomo pesante, quieto, coltivato, piuttosto
+accademico, non si sarebbe acquietato finché non fosse stato, per fissa e autorevole
+proclamazione e ufficiale pronunciamento, stabilito e nominato
+Mendicante. È tanto più interessante perché, pur facendo
+mille volte più del proprio dovere, non aveva nulla che somigliasse
+a un Mendicante; né era affatto probabile che fosse un buon Mendicante. Non aveva nulla
+del vagabondo di natura, come l'ebbero i suoi grandi precursori;
+non era nato con qualcosa del menestrello errante,
+come san Francesco; o con qualcosa del missionario girovago,
+come san Domenico. Ma insistette per porsi sotto
+ordini militari, per fare queste cose secondo la volontà d'altri,
+ove fosse richiesto. Lo si può paragonare ad alcuni tra i più magnanimi
+aristocratici che si sono arruolati negli eserciti rivoluzionari;
+o ad alcuni tra i migliori poeti e studiosi che si offrirono volontari
+come soldati semplici nella Grande Guerra. Qualcosa nel [[concepts/courage|coraggio]]
+e nella coerenza di Domenico e di Francesco aveva sfidato il suo profondo
+senso della giustizia; e, pur restando persona molto ragionevole,
+e persino diplomatica, non lasciò mai che nulla scuotesse la ferrea
+immobilità di quest'unica decisione della giovinezza; né si sarebbe lasciato distogliere
+dalla sua alta e torreggiante [[concepts/ambition|ambizione]] di occupare l'ultimo posto.
+
+Il primo effetto della sua decisione, come abbiamo visto, fu ben più
+stimolante e persino sorprendente. Il Generale dei Domenicani, sotto il quale
+Tommaso si era arruolato, era probabilmente [[motifs/well|ben]] consapevole dei tentativi diplomatici
+di scalzarlo e delle mondane difficoltà nel resistervi.
+Il suo espediente fu di portare il giovane seguace fuori dall'[[settings/italy|Italia]] del tutto,
+ordinandogli di recarsi con pochi altri frati a [[settings/paris|Parigi]]. C'era
+qualcosa di profetico persino in questo primo cammino del maestro
+itinerante delle nazioni; poiché [[settings/paris|Parigi]] era davvero destinata a essere in
+un certo senso la meta del suo [[motifs/journey|viaggio]] spirituale; giacché fu lì
+che avrebbe pronunciato tanto la sua grande difesa dei Frati quanto la sua
+grande sfida agli avversari di Aristotele. Ma questo suo primo
+[[motifs/journey|viaggio]] a [[settings/paris|Parigi]] era destinato a essere interrotto assai bruscamente.
+I frati avevano raggiunto una svolta della [[motifs/road|strada]] presso una fontana lungo la via,
+un poco a nord di Roma, quando furono raggiunti da una selvaggia
+cavalcata di rapitori, che si avventarono su Tommaso come briganti,
+ma che in realtà erano soltanto fratelli inutilmente agitati.
+Egli aveva un gran numero di fratelli: forse qui ne erano coinvolti soltanto due.
+In effetti egli era il settimo; e gli amici del Controllo delle Nascite potranno rammaricarsi
+che questo filosofo fosse stato aggiunto senza necessità alla nobile schiera
+di manigoldi che lo rapirono. Fu, tutto sommato, una faccenda bizzarra.
+C'è qualcosa di curioso e pittoresco nell'idea di rapire
+un frate mendicante, che in un certo senso si potrebbe chiamare un abate fuggiasco.
+C'è un groviglio comico e tragico nelle motivazioni e negli intenti di un simile
+terzetto di strani parenti. C'è una sorta di cristiano [[motifs/cross|contro]]senso
+nel contrasto tra la febbrile illusione dell'importanza
+delle cose, che sempre contrassegna gli uomini detti pratici; e la ben
+più pratica pertinacia dell'uomo che vien detto teorico.
+
+Così, dunque, quei tre strani fratelli barcollarono o si trascinarono lungo la loro tragica [[motifs/road|strada]], legati insieme, per così dire, come il malfattore e la guardia; con la sola differenza che erano i malfattori a compiere l'arresto. Così le loro figure si stagliano per un istante contro l'orizzonte della [[concepts/history|storia]]; fratelli sinistri quanto nessun altro dai tempi di [[characters/cain|Caino]] e Abele. Poiché questo bizzarro oltraggio nella grande famiglia d'Aquino spicca davvero in modo simbolico, come rappresentazione di qualcosa che renderà per sempre il Medioevo un mistero e uno sconcerto; suscettibile di interpretazioni nettamente contrapposte come le tenebre e la luce. Poiché in due di quegli uomini ardeva, potremmo dire strillava, un selvaggio [[concepts/pride|orgoglio]] di [[motifs/blood|sangue]] e di blasone, benché fossero principi del mondo più raffinato del loro [[motifs/time|tempo]], un orgoglio che parrebbe più consono a una tribù che danza attorno a un totem. In quel momento avevano dimenticato ogni cosa tranne il nome di una famiglia, che è più angusto di una tribù, e assai più angusto di una nazione. E la terza figura di quel trio, nata dalla stessa madre e forse visibilmente affine agli altri nel volto o nella persona, aveva una concezione della fratellanza più ampia di gran parte della moderna [[concepts/democracy|democrazia]], poiché non era nazionale ma internazionale; una [[concepts/faith|fede]] nella [[concepts/mercy|misericordia]] e nella modestia assai più profonda di ogni mera dolcezza di modi del mondo moderno; e un drastico voto di [[concepts/poverty|povertà]], che oggi verrebbe considerato addirittura una folle esagerazione della rivolta contro la plutocrazia e l'[[concepts/pride|orgoglio]]. Dallo stesso [[settings/castle|castello]] italiano uscirono due selvaggi e un saggio; o meglio un santo più pacifico della maggior parte dei saggi moderni. È questo il [[topoi/double|duplice]] aspetto che confonde cento controversie. È questo che costituisce l'[[forms/riddle|enigma]] dell'età medievale; che non fu un'epoca sola ma due epoche. Scrutiamo gli umori di certi uomini, e potrebbe essere l'Età della Pietra; scrutiamo le menti di altri uomini, e potrebbero vivere nell'[[topoi/golden-age|Età dell'oro]]; nella più moderna sorta di Utopia. Vi furono sempre uomini buoni e uomini malvagi; ma in questo [[motifs/time|tempo]] uomini buoni che erano sottili convivevano con uomini malvagi che erano semplici. Vivevano nella stessa famiglia; erano cresciuti nella stessa culla; e uscirono a lottare, come i fratelli d'Aquino lottarono lungo il ciglio della via, quando trascinarono il novello frate lungo la [[motifs/road|strada]] e lo rinchiusero nel [[settings/castle|castello]] sulla [[motifs/hill|collina]].
+
+Quando i suoi parenti tentarono di spogliarlo del saio da frate, pare che egli menasse le mani contro di loro alla maniera guerresca dei suoi avi, e a quanto sembra con successo, poiché quel tentativo fu abbandonato. La [[concepts/imprisonment|prigionia]] stessa l'accettò con la consueta compostezza, e probabilmente non gl'importava granché se lo si lasciava a filosofare in un sotterraneo o in una cella. Anzi, vi è qualcosa nel modo in cui l'intera vicenda è narrata che suggerisce come, per gran parte di quello strano rapimento, egli fosse stato trasportato come una pesante statua di pietra. Un solo racconto della sua prigionia ce lo mostra semplicemente adirato; e ce lo mostra più adirato di quanto fosse mai stato prima o dopo. Esso colpì l'[[concepts/imagination|immaginazione]] del suo [[motifs/time|tempo]] per ragioni più importanti; ma ha un interesse tanto psicologico quanto [[motifs/well|ben]] morale. Per una volta nella vita, per la prima [[motifs/time|volta]] e l'ultima, Tommaso d'Aquino fu davvero hors de lui; travolto da una [[motifs/storm|tempesta]] fuori da quella torre d'intelletto e di contemplazione in cui abitualmente dimorava. E ciò avvenne quando i suoi fratelli introdussero nella sua stanza una cortigiana particolarmente sfarzosa e imbellettata, con l'idea di sorprenderlo con un'improvvisa [[concepts/temptation|tentazione]], o almeno di coinvolgerlo in uno scandalo. La sua ira era giustificata, anche secondo criteri morali meno rigorosi dei suoi; poiché la meschinità era ancora peggiore della turpitudine dell'espediente. Anche sul piano più basso, egli sapeva che i suoi fratelli sapevano, ed essi sapevano che egli sapeva, che era un insulto a lui come gentiluomo supporre che avrebbe infranto il proprio voto per una provocazione tanto vile; e aveva dietro di sé una sensibilità assai più terribile; tutta quella immensa [[concepts/ambition|ambizione]] di [[concepts/humility|umiltà]] che era per lui la voce di Dio dal cielo. In quest'unico lampo soltanto vediamo quella figura enorme e goffa in un atteggiamento di attività, o addirittura di animazione; ed era davvero assai animato. Balzò dal suo seggio e afferrò un tizzone dal [[motifs/fire|fuoco]], e restò a brandirlo come una fiammeggiante spada. La donna, non innaturalmente, urlò e fuggì, il che era tutto ciò che egli voleva; ma è curioso pensare a ciò che ella dovette pensare di quel folle di mostruosa statura che giocolava con le fiamme e minacciava, a quanto pareva, d'incendiare la casa. Tutto ciò che egli fece, però, fu di avanzare a grandi passi dietro di lei fino alla porta e sbatterla e sbarrarla alle sue spalle; e poi, con una sorta d'impulso di violento rituale, conficcò il tizzone ardente nella porta, annerendola e scorticandola con un grande nero segno della [[motifs/cross|croce]]. Poi tornò, e lo lasciò cadere di nuovo nel [[motifs/fire|fuoco]]; e sedette su quel seggio di sedentaria erudizione, quella cattedra di filosofia, quel segreto trono di contemplazione, dal quale mai più si [[motifs/rose|levò]]....
+
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="runabbot (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/nature,motif/time,motif/well,concept/nature,setting/castle,character/aquinas"></span>

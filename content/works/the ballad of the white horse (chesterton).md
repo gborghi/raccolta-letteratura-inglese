@@ -67,6 +67,7 @@ tags:
 ## Capitoli / Chapters
 
 - [Dedication](/testi/chesterton/long/the_ballad_of_the_white_horse#section_00_dedication)
+- [Prefatory Note](/testi/chesterton/long/the_ballad_of_the_white_horse#section_00a_prefatory_note)
 - [Book I](/testi/chesterton/long/the_ballad_of_the_white_horse#section_01_book_i)
 - [Book II](/testi/chesterton/long/the_ballad_of_the_white_horse#section_02_book_ii)
 - [Book III](/testi/chesterton/long/the_ballad_of_the_white_horse#section_03_book_iii)

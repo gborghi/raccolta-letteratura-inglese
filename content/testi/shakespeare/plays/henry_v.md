@@ -1077,9 +1077,1073 @@ Gently to hear, kindly to judge, our play. Exit
 | *(didascalia)* | BOURBON Come, come along. |
 | CONSTABLE | Let’s die with [[concepts/honour\|honour]], our shame doth last too long. |
 | *(didascalia)* | Exeunt |
-| ON | 21 September 1599 a Swiss doctor, Thomas Platter, saw what can only have been Shakespeare’s [[characters/julius-caesar\|Julius Caesar]] ‘very pleasingly performed’ in the newly built Globe Theatre—‘the straw-thatched house’—on the south side of the Thames. Francis Meres does not mention the play in Palladis Tamia of 1598, and minor resemblances with works printed in the early part of 1599 suggest that Shakespeare wrote it during that year. It was first printed in the 1623 Folio.<br>[[characters/julius-caesar\|Julius Caesar]] shows Shakespeare turning from English to [[historical-references/roman-history\|Roman history]], which he had last used in [[characters/titus-andronicus\|Titus Andronicus]] and The Rape of [[characters/lucrece\|Lucrece]]. Caesar was regarded as perhaps the greatest ruler in the [[concepts/history\|history]] of the world, and his murder by [[characters/brutus\|Brutus]] as one of the foulest crimes: but it was also recognized that Caesar had faults and [[characters/brutus\|Brutus]] virtues. Other plays, some now lost, had been written about Caesar and may have influenced Shakespeare; but there is no question that he made extensive use (for the first [[motifs/time\|time]] in this play) of Sir Thomas North’s great [[forms/translation\|translation]] (based on Jacques Amyot’s French version and published in 1579) of Lives of the Noble Grecians and Romans by the Greek historian Plutarch, who lived from about AD 50 to 130.<br>Shakespeare was interested in the aftermath of Caesar’s [[motifs/death\|death]] as [[motifs/well\|well]] as in the events leading up to it, and in the public and private motives of those responsible for it. So, although the Folio calls the play The [[forms/tragedy\|Tragedy]] of [[characters/julius-caesar\|Julius Caesar]], Caesar is dead before the play is half over; [[characters/brutus\|Brutus]], [[characters/cassius\|Cassius]], and Antony have considerably longer roles, and [[characters/brutus\|Brutus]] is portrayed with a degree of introspection which links him more closely to Shakespeare’s other tragic heroes. Shakespeare draws mainly on the last quarter of Plutarch’s Life of Caesar, showing his fall; he also uses the Lives of Antony and [[characters/brutus\|Brutus]] for the play’s first sweep of action, showing the rise of the conspiracy against Caesar, its leaders’ efforts to persuade [[characters/brutus\|Brutus]] to join them, the assassination itself, and its immediate aftermath as Antony incites the citizens to [[concepts/revenge\|revenge]]. The second part, showing the formation of the triumvirate of Antony, [[characters/lepidus\|Lepidus]], and [[characters/octavius-caesar\|Octavius Caesar]], the uneasy alliance of [[characters/brutus\|Brutus]] and [[characters/cassius\|Cassius]], and the battles in which Caesar’s spirit revenges itself, depends mainly on the Life of [[characters/brutus\|Brutus]]. Facts are often altered and rearranged in the interests of dramatic economy and effectiveness.<br>Although Shakespeare wrote the play at a point in his career at which he was tending to use a high proportion of prose, [[characters/julius-caesar\|Julius Caesar]] is written mainly in verse; as if to suit the subject matter, the style is classical in its lucidity and eloquence, reaching a climax of rhetorical effectiveness in the speeches over Caesar’s [[concepts/body\|body]] (3.2). The play’s stage-worthiness has been repeatedly demonstrated; it offers excellent opportunities in all its main roles, and the quarrel between [[characters/brutus\|Brutus]] and [[characters/cassius\|Cassius]] (4.2) has been admired ever since Leonard Digges, a contemporary of Shakespeare, praised it at the expense of Ben Jonson:<br>So have I seen, when Caesar would appear,<br>And on the stage at half-sword parley were<br>[[characters/brutus\|Brutus]] and [[characters/cassius\|Cassius]]; O, how the audience<br>Were ravished, with what [[concepts/wonder\|wonder]] they went thence,<br>When some new day they would not brook a line<br>Of tedious though [[motifs/well\|well]]-laboured Catiline. |
-| THE PERSONS OF THE | PLAY |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[characters/henry-v|HENRY V]]
+THE [[characters/chorus|Chorus]] to Act 5 of [[characters/henry-v|Henry V]] contains an uncharacteristic, direct topical reference:
+Were now the General of our gracious Empress—
+As in good [[motifs/time|time]] he may—from Ireland coming,
+Bringing rebellion broached on his sword,
+How many would the peaceful [[motifs/city|city]] quit
+To welcome him!
+‘The General’ must be the Earl of Essex, whose ‘Empress’—[[characters/queen-elizabeth|Queen Elizabeth]]—had sent him on an Irish campaign on 27 March 1599; he returned, disgraced, on 28 September. Plans for his campaign had been known at least since the previous November; the idea that he might return in triumph would have been meaningless after September 1599, and it seems likely that Shakespeare completed his play during 1599, probably in the [[motifs/spring|spring]]. It appeared in print, in a short and debased text, in (probably) August 1600, when it was said to have ‘been sundry times played by the Right Honourable the Lord Chamberlain his servants’. Although this text (which omits the Choruses) seems to have been put together from [[motifs/memory|memory]] by actors playing in an abbreviated adaptation, the Shakespearian text behind it appears to have been in a later state than the generally superior text printed from Shakespeare’s own papers in the 1623 Folio. Our edition draws on the 1600 quarto in the attempt to represent the play as acted by Shakespeare’s company. The principal difference is the reversion to historical authenticity in the substitution at Agincourt of the Duke of Bourbon for the [[characters/dauphin|Dauphin]].
+As in the two plays about [[characters/henry-iv|Henry IV]], Shakespeare is indebted to The Famous Victories of Henry the Fifth (printed 1598). Other Elizabethan plays about [[characters/henry-v|Henry V]], now lost, may have influenced him; he certainly used the chronicle histories of Edward Hall (1542) and Holinshed (1577, revised and enlarged in 1587).
+From the ‘civil broils’ of the earlier [[concepts/history|history]] plays, Shakespeare turns to portray a country united in war against France. Each act is prefaced by a [[characters/chorus|Chorus]], speaking some of the play’s finest poetry, and giving it an [[forms/epic|epic]] quality. [[characters/henry-v|Henry V]], ‘star of England’, is Shakespeare’s most heroic warrior [[archetypes/king|king]], but (like his predecessors) has an introspective side, and is aware of the crime by which his father came to the throne. We are reminded of his ‘wilder days’, and see that the transition from ‘madcap prince’ to the ‘[[motifs/mirror|mirror]] of all Christian kings’ involves loss: although the epilogue to 2 [[characters/henry-iv|Henry IV]] had suggested that Sir John would reappear, he is only, though poignantly, an off-stage presence. Yet Shakespeare’s infusion of comic form into historical narrative reaches its natural conclusion in this play. Sir John’s cronies, [[characters/pistol|Pistol]], Bardolph, Nim, and [[characters/mistress-quickly|Mistress Quickly]], reappear to provide a counterpart to the heroic action, and Shakespeare invents comic episodes involving an Englishman ([[characters/gower|Gower]]), a Welshman ([[characters/fluellen|Fluellen]]), an Irishman (MacMorris), and a Scot (Jamy). The play also has romance elements, in the almost incredible extent of the English victory over the French and in the disguised Henry’s comradely mingling with his soldiers, as [[motifs/well|well]] as in his courtship of the French princess. The play’s romantic and heroic aspects have made it popular especially in times of war and have aroused accusations of jingoism, but the horrors of war are vividly depicted, and the [[characters/chorus|Chorus]]’s closing speech reminds us that Henry died young, and that his son’s protector ‘lost France and made his England bleed’.
+
+THE PERSONS OF THE PLAY
+
+The Life of Henry the Fifth
+Prologue
+Enter [[characters/chorus|Chorus]] as Prologue [[characters/chorus|CHORUS]]
+O for a muse of [[motifs/fire|fire]], that would ascend
+The brightest heaven of invention:
+A kingdom for a stage, princes to act,
+And monarchs to behold the swelling scene.
+Then should the warlike Harry, like himself,
+Assume the port of Mars, and at his heels,
+Leashed in like hounds, should famine, sword, and [[motifs/fire|fire]]
+Crouch for employment. But pardon, gentles all,
+The flat unraisèd spirits that hath dared
+On this unworthy scaffold to bring forth
+So great an object. Can this cock-pit hold
+The vasty fields of France? Or may we cram
+Within this wooden O the very casques
+That did affright the air at Agincourt?
+O pardon: since a crooked figure may
+Attest in little place a million,
+And let us, ciphers to this great account,
+On your imaginary forces work.
+Suppose within the girdle of these walls
+Are now confined two mighty monarchies,
+Whose high uprearèd and abutting fronts
+The perilous narrow ocean parts asunder.
+Piece out our imperfections with your thoughts:
+Into a thousand parts divide one man,
+And make imaginary puissance.
+Think, when we talk of horses, that you see them,
+Printing their proud hoofs i‘th’ receiving earth;
+For ’tis your thoughts that now must deck our kings,
+Carry them here and there, jumping o’er times,
+Turning th’accomplishment of many years
+Into an hourglass—for the which supply,
+Admit me [[characters/chorus|Chorus]] to this [[concepts/history|history]],
+Who Prologue-like your humble patience pray
+Gently to hear, kindly to judge, our play. Exit
+
+### Atto 1, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano l’Arcivescovo di Canterbury e il Vescovo di Ely |
+| CANTERBURY | Mio signore, ve lo dirò. Quel [[concepts/self\|medesimo]] decreto si ripropone<br>che nell’undicesimo anno del regno dell’ultimo [[archetypes/king\|re]]<br>stava per passare, e in verità passò contro di noi,<br>se non che il tumultuoso e inquieto [[motifs/time\|tempo]]<br>lo respinse fuori da ogni ulteriore dibattito. |
+| ELY | Ma come, mio signore, potremo resistervi ora? |
+| CANTERBURY | Bisogna pensarci. Se passa contro di noi,<br>perdiamo la miglior metà dei nostri beni,<br>ché tutte le terre temporali che uomini devoti<br>per testamento hanno donato alla Chiesa<br>ci verrebbero strappate—e sono stimate così:<br>quanto basterebbe a mantenere, ad [[concepts/honour\|onore]] del [[archetypes/king\|Re]],<br>ben quindici conti e millecinquecento cavalieri,<br>seimiladuecento buoni scudieri;<br>e, a sollievo dei lebbrosi e della debole vecchiaia,<br>di anime indigenti e fiacche, incapaci d’ogni fatica del corpo,<br>cento ospizi assai [[motifs/well\|ben]] provveduti;<br>e alle casse del [[archetypes/king\|Re]] per giunta<br>mille sterline all’anno. Così recita il decreto. |
+| ELY | Sarebbe un lungo sorso. |
+| CANTERBURY | Berrebbe la coppa e tutto quanto. |
+| ELY | Ma quale rimedio? |
+| CANTERBURY | Il [[archetypes/king\|Re]] è pieno di grazia e di giusto riguardo. |
+| ELY | E vero [[archetypes/lover\|amante]] della santa Chiesa. |
+| CANTERBURY | Il corso della sua giovinezza non lo prometteva.<br>Non appena il respiro lasciò il [[concepts/body\|corpo]] di suo padre,<br>la sua sfrenatezza, mortificata in lui,<br>parve morire anch’essa. Sì, in quel medesimo istante<br>la Riflessione venne come un angelo<br>e flagellò fuori di lui l’Adamo peccatore,<br>lasciando il suo [[concepts/body\|corpo]] come un paradiso<br>ad avvolgere e contenere spiriti celesti.<br>Mai si fece dotto uno così d’un tratto;<br>mai venne [[historical-references/reformation\|riforma]] in tale piena<br>con corrente sì impetuosa a lavare le colpe;<br>né mai ostinazione dalle teste d’Idra<br>perdette così presto il proprio seggio—e tutto in una volta—<br>come in questo [[archetypes/king\|re]]. |
+| ELY | Siamo benedetti nel mutamento. |
+| CANTERBURY | Udite solo il suo ragionare di teologia<br>e, pieni d’ammirazione, con intimo voto<br>[[motifs/desire\|desidereresti]] che il [[archetypes/king\|Re]] fosse fatto prelato;<br>uditelo discutere d’affari di stato,<br>direste che sono stati il suo unico studio;<br>ascoltate il suo discorso di guerra, e udirete<br>una tremenda battaglia resa in musica;<br>volgetelo a qualsiasi questione di governo,<br>e ne scioglierà il nodo gordiano,<br>familiare come la sua giarrettiera—sicché quando parla<br>l’aria, libertina senza legge, si fa immobile,<br>e la muta [[concepts/wonder\|meraviglia]] s’annida negli orecchi degli uomini<br>per rubare le sue dolci e mielate sentenze:<br>tanto che l’arte e la parte pratica della vita<br>dev’essere maestra a questa teoria.<br>Il che è una [[concepts/wonder\|meraviglia]]: come mai sua grazia l’abbia colta,<br>poiché la sua inclinazione era a vane occupazioni,<br>le sue compagnie illetterate, rozze e superficiali,<br>le sue ore colme di baldorie, banchetti, giochi,<br>e mai gli si notò studio alcuno,<br>alcun ritiro, alcuna separazione<br>dai luoghi aperti e dalla folla. |
+| ELY | La fragola cresce sotto l’ortica,<br>e le bacche salubri prosperano e maturano meglio<br>vicine a frutti di più bassa qualità;<br>e così il Principe oscurò la sua contemplazione<br>sotto il velo della sfrenatezza—la quale, senza [[concepts/doubt\|dubbio]],<br>crebbe come l’erba d’[[motifs/summer\|estate]], più rapida di [[motifs/night\|notte]],<br>inosservata, eppure crescente nella sua virtù. |
+| CANTERBURY | Dev’essere così, ché i miracoli sono cessati,<br>e perciò ci tocca ammettere i mezzi<br>per cui le cose si compiono. |
+| ELY | Ma, mio buon signore,<br>che ne è ora della mitigazione di questo decreto<br>sollecitato dai Comuni? Sua maestà<br>vi propende, o no? |
+| CANTERBURY | Sembra indifferente,<br>o piuttosto piegare più dalla nostra parte<br>che favorire i proponenti contro di noi;<br>ché io ho fatto un’offerta a sua maestà,<br>in nome della nostra convocazione spirituale<br>e in riguardo alle cause ora in corso,<br>che ho esposto ampiamente a sua grazia:<br>quanto alla Francia, di dare una somma maggiore<br>di quanta mai in una sola [[motifs/time\|volta]] il clero finora<br>abbia ceduto ai suoi predecessori. |
+| ELY | Come parve accolta quest’offerta, mio signore? |
+| CANTERBURY | Con buon gradimento di sua maestà,<br>se non che non vi fu [[motifs/time\|tempo]] bastante per udire,<br>come mi accorsi che sua grazia avrebbe volentieri fatto,<br>i particolari e i passaggi manifesti<br>dei suoi veri titoli a certi ducati,<br>e in generale alla [[motifs/crown\|corona]] e al seggio di Francia,<br>derivati da Edoardo, suo bisavolo. |
+| ELY | Quale fu l’impedimento che troncò tutto questo? |
+| CANTERBURY | L’ambasciatore di Francia in quell’istante<br>chiese udienza—e l’ora credo sia giunta<br>di dargli ascolto. Sono le quattro all’[[motifs/clock\|orologio]]? |
+| ELY | Lo sono. 95 |
+| CANTERBURY | Andiamo dunque dentro, a conoscere la sua ambasciata—<br>che io potrei con pronta congettura dichiarare<br>prima che il Francese ne dica una parola. |
+| ELY | Vi accompagnerò, e ardo dal desiderio di udirla. Escono |
+
+### Atto 1, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|Re]] Harry, i Duchi di [[characters/gloucester\|Gloucester]], [[characters/clarence\|Clarence]] ed Exeter, e i Conti di Warwick e di Westmorland |
+| [[archetypes/king\|RE]] HARRY | Dov’è il mio grazioso signore di Canterbury? |
+| EXETER | Non è qui presente. |
+| [[archetypes/king\|RE]] HARRY | Mandate a chiamarlo, buon zio. |
+| WESTMORLAND | Facciamo entrare l’ambasciatore, mio sovrano? |
+| [[archetypes/king\|RE]] HARRY | Non ancora, cugino. Vogliamo essere risolti,<br>prima di udirlo, su certe cose di peso<br>che occupano il nostro pensiero, riguardo a noi e alla Francia. |
+| *(didascalia)* | Entrano l’Arcivescovo di Canterbury e il Vescovo di Ely |
+| CANTERBURY | Dio e i suoi angeli custodiscano il vostro sacro trono,<br>e a lungo ve ne facciano degno. |
+| [[archetypes/king\|RE]] HARRY | Certo, vi ringraziamo.<br>Mio dotto signore, vi preghiamo di procedere,<br>e con giustizia e religione spiegare<br>perché la legge Salica che vigono in Francia<br>debba o non debba sbarrarci nella nostra pretesa.<br>E Dio non voglia, mio caro e fedele signore,<br>che voi foggiate, torciate o pieghiate la vostra lettura,<br>o gravaste con sottigliezza la vostra [[motifs/soul\|anima]] consapevole<br>esponendo titoli malnati, il cui diritto<br>non s’accorda nei colori nativi con la [[concepts/truth\|verità]];<br>ché Dio sa quanti ora in salute<br>verseranno il loro [[motifs/blood\|sangue]] a conferma<br>di ciò a cui la vostra reverenza ci spingerà.<br>Perciò badate a come impegnate la nostra persona,<br>a come destate la nostra spada dormiente di guerra;<br>vi ingiungiamo nel nome di Dio: badate.<br>Ché mai due tali regni contesero<br>senza gran caduta di [[motifs/blood\|sangue]], le cui gocce innocenti<br>sono ognuna un lutto, un’aspra querela<br>contro colui i cui torti danno filo alle spade<br>che fanno tale strage nella breve [[concepts/mortality\|mortalità]].<br>Sotto questo scongiuro parlate, mio signore,<br>ché udiremo, noteremo e crederemo in cuore<br>che quanto dite è nella vostra [[concepts/conscience\|coscienza]] lavato<br>puro come il peccato dal battesimo. |
+| CANTERBURY | Uditemi dunque, grazioso sovrano, e voi pari<br>che dovete voi stessi, le vostre vite e i vostri servigi<br>a questo trono imperiale. Non v’è ostacolo<br>da opporre alla pretesa di vostra altezza sulla Francia<br>se non questo, che essi traggono da Faramondo:<br>‘In terram Salicam mulieres ne succedant’—<br><br>’Nessuna donna succeda in terra Salica’—<br>e quella ‘terra Salica’ i Francesi ingiustamente chiosano<br>essere il regno di Francia, e Faramondo<br>il fondatore di questa legge e dell’esclusione femminile.<br>Eppure i loro stessi autori fedelmente affermano<br>che la terra Salica è in [[settings/germany\|Germania]],<br>tra i fiumi Saale ed Elba,<br>dove, avendo Carlo Magno soggiogato i Sassoni,<br>vi lasciò indietro e vi stabilì certi Franchi<br>i quali, tenendo a sdegno le donne germaniche<br>per certi disonesti costumi della loro vita,<br>vi stabilirono questa legge: cioè, nessuna femmina<br>fosse erede in terra Salica—<br>e quella Salica, come dissi, tra Elba e Saale,<br>è oggidì chiamata in [[settings/germany\|Germania]] Meissen.<br>Appare dunque [[motifs/well\|bene]] che la Legge Salica<br>non fu concepita per il regno di Francia.<br>Né i Francesi possedettero la terra Salica<br>se non quattrocentoventun anni<br>dopo la morte di [[archetypes/king\|Re]] Faramondo,<br>oziosamente supposto il fondatore di questa legge,<br>il quale morì nell’anno della nostra redenzione<br>quattrocentoventisei; e Carlo Magno<br>soggiogò i Sassoni, e insediò i Franchi<br>oltre il [[motifs/river\|fiume]] Saale, nell’anno<br>ottocentocinque. Inoltre, i loro scrittori dicono,<br>[[archetypes/king\|Re]] Pipino, che depose Childerico,<br>fece, come erede generale—essendo disceso<br>da Blitilde, che era figlia di [[archetypes/king\|Re]] Clotario—<br>pretesa e titolo alla [[motifs/crown\|corona]] di Francia.<br>Anche Ugo Capeto—che usurpò la [[motifs/crown\|corona]]<br>di Carlo Duca di Lorena, unico erede maschio<br>della vera linea e stirpe di Carlo Magno—<br>per raffinare il suo titolo con qualche parvenza di [[concepts/truth\|verità]],<br>benché in pura [[concepts/truth\|verità]] fosse corrotto e nullo,<br>si spacciò per erede di Madonna Lingarda,<br>figlia di Carlomanno, che era figlio<br>di Luigi l’Imperatore, e Luigi figlio<br>di Carlo Magno. Anche [[archetypes/king\|Re]] Luigi Nono,<br>che era unico erede dell’[[archetypes/usurper\|usurpatore]] Capeto,<br>non poté quietarsi nella sua [[concepts/conscience\|coscienza]],<br>portando la [[motifs/crown\|corona]] di Francia, finché non fu certo<br>che la bella [[characters/queen-isabel\|Regina Isabella]], sua nonna,<br>discendeva per retta linea da Madonna Ermengarda,<br>figlia di Carlo, il predetto Duca di Lorena;<br>per il quale [[motifs/marriage\|matrimonio]], la linea di Carlo Magno<br>fu riunita alla [[motifs/crown\|corona]] di Francia.<br>Sicché, chiaro come il sole d’[[motifs/summer\|estate]],<br>il titolo di [[archetypes/king\|Re]] Pipino e la pretesa di Ugo Capeto,<br>e la soddisfazione di [[archetypes/king\|Re]] Luigi, tutti appaiono<br>reggersi sul diritto e sul titolo della femmina;<br>e così fanno i re di Francia fino a questo giorno,<br>per quanto vogliano innalzare questa Legge Salica<br>per sbarrare a vostra altezza il pretendere dalla femmina,<br>e scelgano piuttosto di nascondersi in una rete<br>che di sbarrare apertamente i loro storti titoli,<br>usurpati a voi e ai vostri progenitori. |
+| [[archetypes/king\|RE]] HARRY | Posso con diritto e [[concepts/conscience\|coscienza]] avanzare questa pretesa? |
+| CANTERBURY | Il peccato sul mio capo, temuto sovrano.<br>Ché nel Libro dei Numeri sta scritto:<br>‘Quando il figlio muore, che l’eredità<br>discenda alla figlia.’ Grazioso signore,<br>fatevi valere per il vostro; spiegate il vostro [[motifs/flag\|vessillo]] sanguigno;<br>volgete lo sguardo ai vostri possenti antenati.<br>Andate, mio temuto signore, alla tomba del vostro bisavolo,<br>da cui traete la pretesa; invocate il suo spirito guerriero,<br>e quello del vostro prozio, [[characters/edward-the-black-prince\|Edoardo il Principe Nero]],<br>che sul suolo francese recitò una [[forms/tragedy\|tragedia]],<br>facendo scempio di tutta la potenza di Francia,<br>mentre il suo possentissimo padre su una [[motifs/hill\|collina]]<br>stava sorridendo a veder il cucciolo del suo [[motifs/lion\|leone]]<br>far preda nel [[motifs/blood\|sangue]] della nobiltà francese. no<br>O nobili Inglesi, che poterono trattenere<br>con metà delle loro forze tutta la [[concepts/pride\|superbia]] di Francia,<br>e lasciar l’altra metà starsene lì a ridere,<br>senza far nulla, e fredda per mancanza d’azione. |
+| ELY | Destate la memoria di quei valorosi morti,<br>e col vostro braccio possente rinnovate le loro imprese.<br>Voi siete il loro erede, sedete sul loro trono,<br>il [[motifs/blood\|sangue]] e il [[concepts/courage\|coraggio]] che li resero famosi<br>scorrono nelle vostre vene—e il mio tre volte possente sovrano<br>è nel mattino stesso di maggio della sua giovinezza,<br>maturo per imprese e poderose gesta. |
+| EXETER | I vostri fratelli re e i monarchi della terra<br>tutti s’attendono che vi destiate<br>come fecero i leoni antichi del vostro [[motifs/blood\|sangue]]. |
+| WESTMORLAND | Sanno che vostra grazia ha ragione; e mezzi e<br>forza,<br>li ha pure vostra altezza. Mai [[archetypes/king\|re]] d’Inghilterra<br>ebbe nobili più ricchi e sudditi più leali,<br>i cui cuori hanno lasciato i loro corpi qui in Inghilterra<br>e stanno attendati nei campi di Francia. |
+| CANTERBURY | Oh, che i loro corpi seguano, mio caro sovrano,<br>con [[motifs/blood\|sangue]] e spada e [[motifs/fire\|fuoco]], a conquistare il vostro diritto.<br>In aiuto di che, noi della spiritualità<br>leveremo a vostra altezza una somma sì poderosa<br>quale mai il clero in una sola [[motifs/time\|volta]]<br>portò ad alcuno dei vostri antenati. |
+| [[archetypes/king\|RE]] HARRY | Non solo dobbiamo armarci per invadere i Francesi,<br>ma disporre le nostre forze a difenderci<br>contro lo Scozzese, che ci piomberà addosso<br>con ogni vantaggio. |
+| CANTERBURY | Quelli delle marche, grazioso sovrano,<br>saranno muro bastante a difendere<br>il nostro interno dai predoni di confine. |
+| [[archetypes/king\|RE]] HARRY | Non intendiamo i soli ladruncoli scorridori,<br>ma [[concepts/fear\|temiamo]] il disegno principale dello Scozzese,<br>che ci fu sempre vicino incostante.<br>Ché leggerete che il mio bisavolo<br>mai scoprì la sua potenza verso la Francia<br>senza che lo Scozzese sul suo regno sguarnito<br>venisse riversandosi come la marea in una breccia<br>con ampia e traboccante pienezza della sua forza<br>tormentando la terra spogliata con caldi assalti,<br>stringendo di grave assedio castelli e città,<br>sicché l’Inghilterra, vuota di difesa,<br>tremò e vacillò al rumore di ciò. |
+| CANTERBURY | Fu allora più temuta che danneggiata, mio<br>sovrano. 155<br>Ché udite solo l’esempio ch’ella diede di sé:<br>quando tutta la sua cavalleria era in Francia<br>ed ella vedova in lutto dei suoi nobili,<br>non solo si difese [[motifs/well\|bene]] da sé<br>ma prese e chiuse in stalla come bestia randagia<br>il [[archetypes/king\|Re]] di Scozia, che mandò in Francia<br>a colmar la fama di [[archetypes/king\|Re]] Edoardo di re prigionieri<br>e a far la vostra cronaca ricca di lode<br>quanto è la melma e il [[characters/bottom\|fondo]] del mare<br>di relitti affondati e tesori innumerevoli. |
+| *(didascalia)* | A LORD |
+| CANTERBURY | Ma c’è un detto assai antico e vero:<br>‘Se vuoi la Francia conquistare, dalla Scozia devi cominciare.’<br>Ché una volta che l’aquila Inghilterra è a caccia,<br>al suo nido incustodito la donnola Scozzese<br>viene di soppiatto, e così le succhia le uova regali,<br>facendo il topo in assenza del gatto,<br>a manomettere e sciupare più di quanto possa mangiare. |
+| EXETER | Ne segue dunque che il gatto deve restare a [[motifs/home\|casa]].<br>Ma questa è necessità forzata,<br>giacché abbiamo serrature a custodire il necessario<br>e graziose trappole a prender i piccoli ladri.<br>Mentre la mano armata combatte all’estero,<br>la testa avveduta si difende a [[motifs/home\|casa]].<br>Ché il governo, per quanto in alto, in basso e più in basso,<br>diviso in parti, si mantiene in un solo accordo,<br>concordando in una cadenza piena e naturale,<br>come musica. |
+| CANTERBURY | Vero. Perciò il cielo divide<br>lo stato dell’uomo in diverse funzioni,<br>ponendo l’operare in moto continuo;<br>e ad esse è fissata, come mira o bersaglio,<br>l’obbedienza. Così infatti operano le [[motifs/bees\|api]] del miele,<br>creature che per una regola di [[concepts/nature\|natura]] insegnano<br>l’atto dell’ordine a un regno popoloso.<br>Hanno un [[archetypes/king\|re]], e ufficiali d’ogni sorta,<br>dove alcuni come magistrati correggono in [[motifs/home\|casa]];<br>altri come mercanti avventurano il commercio all’estero;<br>altri come soldati, armati dei loro pungiglioni,<br>fanno bottino sui vellutati boccioli d’[[motifs/summer\|estate]],<br>e tale preda con lieta marcia recano a [[motifs/home\|casa]]<br>alla tenda regale del loro imperatore,<br>che, affaccendato nella sua maestà, sorveglia<br>i muratori canterini che costruiscono tetti d’oro,<br>i cittadini civili che stivano il miele,<br>i poveri portatori artigiani che ammassano<br>i loro pesanti carichi alla sua stretta porta,<br>il giudice dall’occhio triste col suo arcigno ronzio<br>consegnando a pallidi carnefici<br>il pigro fuco sbadigliante. Io ne inferisco questo:<br>che molte cose, avendo pieno riferimento<br>a un solo accordo, possono operare per vie contrarie.<br>Come molte frecce, scoccate per diverse vie,<br>volano a un solo bersaglio, come molte strade s’incontrano in una città,<br>come molte fresche correnti s’incontrano in un solo mare salato,<br>come molte linee si chiudono nel centro della meridiana,<br>così mille azioni una volta avviate<br>possono finire in un solo scopo, ed essere tutte [[motifs/well\|ben]] condotte<br>senza difetto. Perciò in Francia, mio sovrano.<br>Dividete in quattro la vostra felice Inghilterra,<br>e di essa portate un quarto in Francia,<br>e con ciò farete tremare tutta la Gallia.<br>Se noi con tre volte tali forze lasciate a [[motifs/home\|casa]]<br>non sappiamo difendere le nostre porte dal cane,<br>che siamo azzannati, e la nostra nazione perda<br>il nome di ardimento e di accortezza. |
+| [[archetypes/king\|RE]] HARRY | Fate entrare i messaggeri mandati dal [[characters/dauphin\|Delfino]]. |
+| *(didascalia)* | Esce uno o più |
+| [[archetypes/king\|RE]] HARRY | Ora siamo [[motifs/well\|ben]] risoluti, e con l’aiuto di Dio<br>e il vostro, nobili nervi della nostra potenza,<br>essendo nostra la Francia la pieghremo al nostro timore,<br>o la spezzeremo tutta in pezzi. O là siederemo,<br>regnando in largo e ampio impero<br>sulla Francia e su tutti i suoi ducati quasi regali,<br>o deporremo queste ossa in un’urna indegna,<br>senza tomba, senza memoria sopra di esse.<br>O la nostra [[concepts/history\|storia]] a piena bocca<br>parlerà liberamente dei nostri atti, oppure la nostra [[motifs/grave\|tomba]],<br>come muto turco, avrà bocca senza lingua,<br>non onorata neppure d’un epitaffio di cera. |
+| *(didascalia)* | Entrano gli Ambasciatori di Francia, con una botte |
+| [[archetypes/king\|RE]] HARRY | Ora siamo [[motifs/well\|ben]] preparati a conoscere il piacere<br>del nostro bel cugino [[characters/dauphin\|Delfino]], ché udiamo<br>che il vostro saluto viene da lui, non dal [[archetypes/king\|Re]]. |
+| AMBASCIATORE | Piaccia a vostra maestà darci licenza<br>di riferire liberamente ciò che abbiamo in carico,<br>o dovremo con parsimonia mostrarvi da lontano<br>l’intendimento del [[characters/dauphin\|Delfino]] e la nostra ambasciata? |
+| [[archetypes/king\|RE]] HARRY | Non siamo un [[archetypes/tyrant\|tiranno]], ma un [[archetypes/king\|re]] cristiano,<br>alla cui grazia la nostra passione è soggetta<br>quanto i nostri miserabili incatenati nelle nostre prigioni.<br>Perciò con franca e sfrenata schiettezza<br>diteci la mente del [[characters/dauphin\|Delfino]]. |
+| AMBASCIATORE | Dunque, in breve:<br>vostra altezza, mandando di recente in Francia,<br>reclamò certi ducati, in nome del diritto<br>del vostro gran predecessore, [[archetypes/king\|Re]] Edoardo Terzo.<br>In risposta a tale pretesa, il Principe nostro signore<br>dice che sapete troppo della vostra giovinezza,<br>e vi consiglia di considerare che nulla v’è in Francia<br>che si possa vincere con un’agile gagliarda:<br>non potete danzando entrare in possesso di ducati là.<br>Vi manda perciò, più conveniente al vostro spirito,<br>questa botte di tesoro, e in cambio di ciò<br>desidera che lasciate i ducati che pretendete<br>non udir più nulla di voi. Questo dice il [[characters/dauphin\|Delfino]]. |
+| [[archetypes/king\|RE]] HARRY | Quale tesoro, zio? |
+| EXETER | (aprendo la botte) Palle da tennis, mio sovrano. |
+| [[archetypes/king\|RE]] HARRY | Siamo lieti che il [[characters/dauphin\|Delfino]] sia così faceto con noi.<br>Del suo dono e della vostra fatica vi ringraziamo.<br>Quando avremo accordato le nostre racchette a queste palle,<br>giocheremo in Francia, per grazia di Dio, una partita<br>che scaglierà la [[motifs/crown\|corona]] di suo padre nel rischio.<br>Ditegli che ha fatto partita con un tale attaccabrighe<br>che tutte le corti di Francia saranno sconvolte<br>dai rimbalzi. E lo comprendiamo [[motifs/well\|bene]],<br>come ci rinfaccia i nostri giorni più sfrenati,<br>senza misurare quale uso ne facemmo.<br>Non demmo mai valore a questo povero seggio d’Inghilterra,<br>e perciò, vivendo lontano di qui, ci abbandonammo<br>a barbara licenza—come è sempre comune<br>che gli uomini sono più allegri quando sono fuori [[motifs/home\|casa]].<br>Ma dite al [[characters/dauphin\|Delfino]] che manterrò il mio stato,<br>sarò come un [[archetypes/king\|re]], e spiegherò la vela della mia [[concepts/greatness\|grandezza]]<br>quando mi leverò sul mio trono di Francia.<br>Per questo ho deposto la mia maestà<br>e ho arrancato come un uomo dei giorni feriali,<br>ma là mi leverò con sì piena gloria<br>che abbaglierò tutti gli occhi di Francia,<br>sì, accecherò il [[characters/dauphin\|Delfino]] a guardarci.<br>E dite al faceto Principe che questa sua beffa<br>ha mutato le sue palle in palle da cannone, e la sua [[motifs/soul\|anima]]<br>starà gravemente accusata per la rovinosa vendetta<br>che da esse volerà—ché molte migliaia di<br>vedove<br>questa sua beffa beffando priverà dei loro cari mariti,<br>beffando madri dei loro figli, beffando giù castelli;<br>sì, alcuni non sono ancora concepiti né nati<br>che avranno ragione di maledire lo scherno del [[characters/dauphin\|Delfino]].<br>Ma tutto questo sta nella volontà di Dio,<br>al quale mi appello, e nel cui nome<br>dite voi al [[characters/dauphin\|Delfino]] che io sto venendo<br>a vendicarmi come posso, e a stendere<br>la mia mano legittima in una causa [[motifs/well\|ben]] santificata.<br>Andatevene dunque in pace. E dite al [[characters/dauphin\|Delfino]]<br>che il suo motto saprà solo di povero ingegno<br>quando migliaia piangeranno più di quanti ne risero.—<br>Scortateli con salvacondotto.—State [[motifs/well\|bene]]. |
+| *(didascalia)* | Escono gli Ambasciatori |
+| EXETER | Questo fu un allegro messaggio. |
+| [[archetypes/king\|RE]] HARRY | [[concepts/hope\|Speriamo]] di farne arrossire il mittente.<br>Perciò, miei signori, non tralasciate ora propizia<br>che possa dare impulso alla nostra spedizione;<br>ché ora non abbiamo in noi altro pensiero che la Francia,<br>salvo quelli a Dio, che precedono i nostri affari.<br>Perciò le nostre forze per queste guerre<br>siano presto raccolte, e ogni cosa considerata<br>che possa con ragionevole rapidità aggiungere<br>più penne alle nostre ali; ché, con Dio innanzi,<br>rimprovereremo questo [[characters/dauphin\|Delfino]] alla porta di suo padre.<br>Perciò ogni uomo ora impegni il suo pensiero,<br>affinché questa bella impresa sia messa in cammino. |
+| *(didascalia)* | Squilli di tromba. Escono |
+
+### Atto 2, Scena 0
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il [[characters/chorus\|Coro]] |
+| [[characters/chorus\|CORO]] | Ora tutta la gioventù d’Inghilterra è in [[motifs/fire\|fiamme]],<br>e i molli trastulli di seta giacciono nel guardaroba;<br>ora prosperano gli armaioli, e il pensiero dell’[[concepts/honour\|onore]]<br>regna solo nel petto d’ogni uomo.<br>Vendono ora il pascolo per comprare il [[motifs/horse\|cavallo]],<br>seguendo lo [[motifs/mirror\|specchio]] di tutti i re cristiani<br>con talloni alati, come Mercuri inglesi.<br>Ché ora siede l’attesa nell’aria<br>e nasconde una spada dall’elsa fino alla punta<br>con corone imperiali, corone e coroncine,<br>promesse ad Harry e ai suoi seguaci.<br>I Francesi, avvertiti da buone spie<br>di questo terribilissimo apparato,<br>tremano nel loro [[concepts/fear\|timore]], e con pallida astuzia<br>cercano di sviare i disegni inglesi.<br>O Inghilterra!—modello alla tua interiore [[concepts/greatness\|grandezza]],<br>come piccolo [[concepts/body\|corpo]] con possente cuore,<br>che potresti fare, che l’[[concepts/honour\|onore]] ti farebbe fare,<br>se tutti i tuoi figli fossero buoni e naturali?<br>Ma vedi, la Francia ha scoperto in te il tuo difetto:<br>un nido di petti vuoti, che essa riempie<br>di corone traditrici; e tre uomini corrotti—<br>uno, [[characters/richard\|Riccardo]], Conte di Cambridge; e il secondo<br>Enrico, Lord Scrope di Masham; e il terzo<br>Sir Thomas Grey, cavaliere, del Northumberland—<br>hanno, per l’oro di Francia—oh [[concepts/guilt\|colpa]] davvero!—<br>concluso congiura con la Francia paurosa;<br>e per le loro mani questa grazia dei re deve morire,<br>se inferno e tradimento manterranno le loro promesse,<br>prima ch’egli prenda la [[motifs/ship\|nave]] per la Francia, e a Southampton.<br>Protraete la vostra pazienza, e noi digeriremo<br>l’abuso della distanza, forzando—per forza—una scena.<br>La somma è pagata, i traditori sono d’accordo,<br>il [[archetypes/king\|Re]] è partito da [[settings/london\|Londra]], e la scena<br>ora è trasportata, gentili signori, a Southampton.<br>Là è ora il teatro, là dovete sedere,<br>e di là in Francia vi condurremo salvi,<br>e vi riporteremo indietro, incantando gli stretti mari<br>a darvi dolce passaggio—ché se possiamo<br>non offenderemo alcuno stomaco col nostro spettacolo.<br>Ma finché il [[archetypes/king\|Re]] non venga innanzi, e non prima,<br>a Southampton spostiamo la nostra scena. Esce |
+
+### Atto 2, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Caporale Nim e il Luogotenente Bardolph |
+| BARDOLPH | Ben trovato, Caporale Nim. [[motifs/well\|Well]] |
+| NIM | Buon giorno, Luogotenente Bardolph. |
+| BARDOLPH | Ebbene, siete già amici, voi e l’Alfiere [[characters/pistol\|Pistola]]? |
+| NIM | Per parte mia, non me ne curo. Dico poco, ma quando il [[motifs/time\|tempo]] sarà propizio, ci saranno sorrisi—ma sarà come sarà. Non oso battermi, ma strizzerò gli occhi e sguainerò il mio ferro. È un ferro semplice, ma che importa? Servirà ad abbrustolire il formaggio, e sopporterà il freddo come la spada di qualunque altro—e basta così. |
+| BARDOLPH | Offrirò io una colazione per farvi amici, e saremo tutti e tre fratelli giurati verso la Francia. Che sia così, buon Caporale Nim. |
+| NIM | In [[concepts/faith\|fede]] mia, vivrò finché potrò, questo è certo, e quando non potrò più vivere, farò come potrò. Questa è la mia posta, questo è il mio appuntamento. |
+| BARDOLPH | È certo, caporale, che egli ha sposato Nell Quickly, e certamente essa vi ha fatto torto, ché eravate a lei promesso con giuramento. |
+| NIM | Non so dire. Le cose devono essere come possono. Gli uomini possono [[motifs/sleep\|dormire]], e possono avere addosso la loro gola in quel [[motifs/time\|momento]], e alcuni dicono che i coltelli hanno il filo. Dev’essere come può. Benché la Pazienza sia una giumenta stanca, pure arranca. Ci devono essere conclusioni. [[motifs/well\|Insomma]], non so dire. Entrano l’Alfiere [[characters/pistol\|Pistola]] e l’Ostessa Quickly |
+| BARDOLPH | Buon giorno, Alfiere [[characters/pistol\|Pistola]]. (A Nim) Ecco che vengono l’Alfiere [[characters/pistol\|Pistola]] e sua moglie. Buon Caporale, siate paziente ora. |
+| *(didascalia)* | NIM Ebbene, mio oste [[characters/pistol\|Pistola]]? |
+| [[characters/pistol\|PISTOLA]] | Vile zecca, mi chiami tu oste? Ora per le orecchie di Dio<br>giuro che sdegno il titolo. Né la mia Nell terrà<br>pensionanti. |
+| *(didascalia)* | OSTESSA No, in fede mia, non a lungo, ché non possiamo alloggiare e nutrire una dozzina o quattordici gentildonne che vivono onestamente della punta dei loro aghi, senza che si pensi subito che teniamo un postribolo. Nim sguaina la spada Oh [[motifs/well\|povera]] me, Signora! Se non viene fatto a pezzi ora, vedremo commettere adulterio volontario e omicidio. 36 [[characters/pistol\|Pistola]] sguaina la spada |
+| BARDOLPH | Buon luogotenente, buon caporale, non tentate nulla qui. |
+| NIM | Puah. |
+| [[characters/pistol\|PISTOLA]] | Puah a te, cane d’Islanda. Tu botolo dalle orecchie aguzze<br>d’Islanda. |
+| OSTESSA | Buon Caporale Nim, mostra il tuo valore, e riponi<br>la tua spada.<br>Rinfoderano le spade |
+| NIM | Volete scostarvi? Vi vorrei solus. |
+| [[characters/pistol\|PISTOLA]] | ‘Solus’, cane egregio? O vipera vile!<br>Il solus nella tua meravigliosissima faccia,<br>il solus nei tuoi denti, e nella tua gola,<br>e nei tuoi odiosi polmoni, sì, nel tuo ventre pardie—<br>e, ciò ch’è peggio, dentro la tua sozza bocca.<br>Io ti ritorco il solus nelle budella,<br>ché so infiammarmi, e il cane di [[characters/pistol\|Pistola]] è alzato,<br>e [[motifs/fire\|fuoco]] lampeggiante seguirà. |
+| NIM | Non sono Barbason, non potete scongiurarmi. Ho l’umore di bastonarvi discretamente [[motifs/well\|bene]]. Se vi guastate con me, [[characters/pistol\|Pistola]], vi ripulirò con la mia spada, come potrò, in buoni termini. Se voleste allontanarvi, vi pungerei un poco le budella, in buoni termini, come potrò, e questo è l’umore della faccenda. |
+| [[characters/pistol\|PISTOLA]] | O vile spaccone, e dannato furioso essere!<br>La [[motifs/grave\|tomba]] spalanca la bocca e la [[motifs/death\|morte]] rimbambita è vicina.<br>Perciò esala.<br>[[characters/pistol\|Pistola]] e Nim sguainano le spade |
+| BARDOLPH | Ascoltatemi, ascoltate ciò che dico. |
+| *(didascalia)* | Sguaina la spada |
+| BARDOLPH | Chi vibra il primo colpo, lo infilzerò fino<br>all’elsa, com’è vero che sono un soldato. |
+| [[characters/pistol\|PISTOLA]] | Giuramento di gran potenza, e il furore si placherà. |
+| *(didascalia)* | Rinfoderano le spade |
+| [[characters/pistol\|PISTOLA]] | (A Nim) Dammi il tuo pugno, la tua zampa anteriore dammi. 65<br>I tuoi spiriti sono altissimi. |
+| NIM | Ti taglierò la gola una [[motifs/time\|volta]] o l’altra, in buoni termini, questo è l’umore della faccenda. |
+| [[characters/pistol\|PISTOLA]] | Couple a gorge,<br>questa è la parola. Ti sfido di nuovo.<br>O segugio di Creta, pensi tu d’aver la mia sposa?<br>No, all’ospedale va’,<br>e dalla tinozza dell’infamia<br>tira fuori il nibbio lebbroso della razza di Cressida,<br>[[characters/doll-tearsheet\|Doll Tearsheet]] di nome, e sposala.<br>Io ho, e terrò, la già Quickly<br>per la sola donna, e—pauca, basta così. Suvvia. |
+| *(didascalia)* | Entra il Ragazzo di corsa |
+| RAGAZZO | Mio oste [[characters/pistol\|Pistola]], dovete venire dal mio padrone, e voi pure, ostessa. È molto malato, e vorrebbe andare a letto.—Buon Bardolph, metti la tua faccia fra le sue lenzuola, e fa’ l’ufficio dello scaldaletto.—In [[concepts/faith\|fede]] mia, sta molto male. |
+| BARDOLPH | Via, furfante! |
+| *(didascalia)* | OSTESSA In fede mia, darà da mangiare al corvo uno di questi giorni. Il [[archetypes/king\|Re]] gli ha ucciso il cuore. Buon marito, vieni subito a [[motifs/home\|casa]]. Esce col Ragazzo |
+| BARDOLPE | Su, volete che vi faccia amici voi due? Dobbiamo andare in Francia insieme. Perché diavolo dovremmo tenere coltelli per tagliarci la gola l’un l’altro? |
+| [[characters/pistol\|PISTOLA]] | Straripino i diluvi, e i demoni ululino per il cibo! |
+| NIM | Mi pagherete gli otto scellini che vi ho vinto alla scommessa? |
+| [[characters/pistol\|PISTOLA]] | Vile è lo schiavo che paga. |
+| NIM | Ora li voglio. Questo è l’umore della faccenda. |
+| [[characters/pistol\|PISTOLA]] | Come la virilità deciderà. Spingi a [[motifs/home\|fondo]].<br>[[characters/pistol\|Pistola]] e Nim sguainano le spade |
+| *(didascalia)* | BARDOLPH sguainando la spada Per questa spada, chi porta la prima stoccata, lo uccido. Per questa spada, lo farò. |
+| [[characters/pistol\|PISTOLA]] | Spada è un giuramento, e i giuramenti devono avere il loro corso. |
+| *(didascalia)* | Rinfodera la spada |
+| BARDOLPH | Caporale Nim, se vuoi essere amico, sii amico. Se non vuoi, ebbene, sii nemico anche mio. Ti prego, riponi. |
+| NIM | Avrò i miei otto scellini? |
+| [[characters/pistol\|PISTOLA]] | Un nobile avrai, e pagamento immediato,<br>e liquore parimenti ti darò,<br>e l’[[concepts/friendship\|amicizia]] ci unirà, e la fratellanza.<br>Io vivrò di Nim, e Nim vivrà di me.<br>Non è giusto questo? Ché io sarò vivandiere<br>del campo, e i profitti verranno.<br>Dammi la mano. |
+| NIM | Avrò il mio nobile? |
+| [[characters/pistol\|PISTOLA]] | In contanti, pagato giustissimamente. |
+| *(didascalia)* | NIM Sta bene allora, questo è l’umore della faccenda. [[motifs/well\|Well]] Nim e Bardolph rinfoderano le spade. Entra l’Ostessa Quickly |
+| *(didascalia)* | OSTESSA Se mai siete nati da donna, venite presto da Sir John. Ah, povero cuore, è così scosso da una febbre quotidiana-terzana ardente, che è cosa lamentevolissima a vedersi. Cari uomini, andate da lui. Esce |
+| NIM | Il [[archetypes/king\|Re]] ha riversato cattivi umori sul cavaliere, questo è il netto della faccenda. |
+| [[characters/pistol\|PISTOLA]] | Nim, hai detto giusto. Il suo cuore è fratturato e corroborato. |
+| NIM | Il [[archetypes/king\|Re]] è un buon [[archetypes/king\|re]], ma dev’essere come può. Ha certi umori e certe corse. |
+| [[characters/pistol\|PISTOLA]] | Compiangiamo il cavaliere—ché, agnellini, noi vivremo. Escono |
+
+### Atto 2, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Duchi di Exeter e di [[characters/gloucester\|Gloucester]], e il Conte di Westmorland |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] |
+| *(didascalia)* | Davanti a Dio, sua grazia è ardito a fidarsi di questi traditori. |
+| EXETER | Saranno arrestati fra poco. |
+| WESTMORLAND | Come lisci e composti si portano,<br>quasi che la fedeltà sedesse nei loro petti,<br>coronata di [[concepts/faith\|fede]] e di costante lealtà. |
+| *(didascalia)* | [[characters/gloucester\|GLOUCESTER]] |
+| WESTMORLAND | Il [[archetypes/king\|Re]] ha notizia di tutto ciò che tramano,<br>per intercettazione che essi non sognano nemmeno. |
+| EXETER | Anzi, ma l’uomo che gli fu compagno di letto,<br>che egli ha saziato e stuccato di graziosi<br>favori—<br>che costui per una borsa straniera così venda<br>la vita del suo sovrano alla [[motifs/death\|morte]] e al tradimento. |
+| *(didascalia)* | Squillo di trombe. Entrano [[archetypes/king\|Re]] Harry, Lord Scrope, il |
+| EXETER | Conte di Cambridge, e Sir Thomas Grey |
+| [[archetypes/king\|RE]] HARRY | Ora il [[motifs/wind\|vento]] si fa propizio, e noi c’imbarcheremo.<br>Mio signore di Cambridge, e mio caro signore di Masham,<br>e voi, mio gentile cavaliere, datemi i vostri pensieri.<br>Non credete voi che le forze che portiamo con noi<br>si apriranno il passo attraverso la potenza di Francia,<br>compiendo l’esecuzione e l’atto<br>per cui le abbiamo radunate sotto un solo capo? |
+| SCROPE | Nessun [[concepts/doubt\|dubbio]], mio sovrano, se ognuno farà del suo meglio. |
+| [[archetypes/king\|RE]] HARRY | Non ne [[concepts/doubt\|dubito]], poiché siamo [[motifs/well\|ben]] persuasi<br>di non portare con noi di qui un solo cuore<br>che non cresca in giusto accordo col nostro,<br>né di lasciarne dietro alcuno che non auguri<br>successo e conquista ad accompagnarci. |
+| CAMBRIDGE | Mai monarca fu meglio temuto e amato<br>di vostra maestà. Non v’è, io credo, suddito<br>che sieda in pena di cuore e in inquietudine<br>sotto la dolce ombra del vostro governo. |
+| GREY | Vero. Quelli che furono nemici di vostro padre<br>hanno intinto nel miele il loro fiele, e vi servono<br>con cuori creati di dovere e di zelo. |
+| [[archetypes/king\|RE]] HARRY | Abbiamo dunque gran motivo di gratitudine,<br>e dimenticheremo l’ufficio della nostra mano<br>prima che il compenso al [[motifs/desert\|merito]] e al valore,<br>secondo il loro peso e la loro degnità. |
+| SCROPE | Così il servizio si affaticherà con nervi d’acciaio,<br>e la fatica si ristorerà con la [[concepts/hope\|speranza]],<br>per rendere a vostra grazia incessanti servigi. |
+| [[archetypes/king\|RE]] HARRY | Non giudichiamo di meno.—Zio di Exeter,<br>liberate l’uomo imprigionato ieri<br>che inveì contro la nostra persona. Riteniamo<br>che fu eccesso di vino a spingerlo,<br>e ora che è tornato in sé lo perdoniamo. |
+| SCROPE | Questa è [[concepts/mercy\|misericordia]], ma troppa sicurezza.<br>Sia punito, sovrano, che l’esempio<br>non generi, per la sua impunità, altri di tal razza. |
+| [[archetypes/king\|RE]] HARRY | Oh, lasciateci pur essere misericordiosi. |
+| CAMBRIDGE | Può esserlo vostra altezza, e pur tuttavia punire. |
+| GREY | Signore, mostrate gran [[concepts/mercy\|misericordia]] se gli lasciate la vita,<br>dopo il gusto di molta correzione. |
+| [[archetypes/king\|RE]] HARRY | Ahimè, il vostro troppo [[motifs/love\|amore]] e la cura di me<br>sono preghiere pesanti contro questo povero disgraziato.<br>Se piccole colpe che vengono da intemperanza<br>non si dovranno chiudere gli occhi, come apriremo lo sguardo<br>quando delitti capitali, masticati, inghiottiti e digeriti,<br>ci appariranno innanzi? Libereremo pur quell’uomo,<br>benché Cambridge, Scrope e Grey, nella loro cara cura<br>e tenera conservazione della nostra persona,<br>lo vorrebbero punito. E ora alle nostre cause francesi.<br>Chi sono i commissari ultimamente nominati? |
+| CAMBRIDGE | Io per uno, mio signore.<br>Vostra altezza mi ordinò di chiederlo oggi. |
+| SCROPE | Così faceste con me, mio sovrano. |
+| GREY | E con me, mio regale sovrano. |
+| [[archetypes/king\|RE]] HARRY | Allora [[characters/richard\|Riccardo]], Conte di Cambridge, ecco il vostro;<br>ecco il vostro, Lord Scrope di Masham, e voi, signor cavaliere,<br>Grey del Northumberland, questo stesso è il vostro.<br>Leggeteli, e sappiate che io conosco il vostro valore.—<br>Mio signore di Westmorland, e zio Exeter,<br>c’imbarcheremo stanotte.—Ebbene, che c’è, signori?<br>Che vedete in quelle carte, che perdete<br>tanto colore?—Guardate come mutano:<br>le loro guance son carta.—Ebbene, che leggete là<br>che ha così impaurito e cacciato il vostro [[motifs/blood\|sangue]]<br>fuori dall’apparenza? |
+| CAMBRIDGE | Confesso la mia colpa,<br>e mi rimetto alla [[concepts/mercy\|misericordia]] di vostra altezza. |
+| GREY | e SCROPE Alla quale tutti ci appelliamo. |
+| [[archetypes/king\|RE]] HARRY | La [[concepts/mercy\|misericordia]] che poc’anzi era viva in noi<br>dal vostro stesso consiglio è soppressa e uccisa.<br>Non dovete osare, per vergogna, di parlar di [[concepts/mercy\|misericordia]],<br>ché le vostre stesse ragioni si volgono contro i vostri petti,<br>come cani contro i loro padroni, azzannandovi.—<br>Vedete, miei principi e miei nobili pari,<br>questi mostri inglesi? Il mio signore di Cambridge qui,<br>sapete quanto pronto fu il nostro [[motifs/love\|amore]] ad accordarsi<br>a fornirlo di tutto ciò che spettava<br>al suo [[concepts/honour\|onore]]; e quest’uomo vile<br>ha per poche leggere corone leggermente congiurato<br>e giurato alle macchinazioni di Francia<br>di ucciderci qui in Hampton. Al che<br>questo cavaliere, non meno per generosità a noi legato<br>di quanto lo sia Cambridge, ha parimenti giurato. Ma oh,<br>che dirò a te, Lord Scrope, tu crudele,<br>ingrata, selvaggia e inumana creatura?<br>Tu che portavi la chiave di tutti i miei consigli,<br>che conoscevi il [[characters/bottom\|fondo]] stesso della mia [[motifs/soul\|anima]],<br>che quasi avresti potuto coniarmi in oro<br>se avessi voluto servirti di me a tuo uso:<br>può esser possibile che un soldo straniero<br>potesse estrarre da te una sola scintilla di male<br>capace di offendere il mio dito? È così strano<br>che, benché la [[concepts/truth\|verità]] di ciò risalti grossolana<br>come nero su bianco, il mio occhio a stento la vede.<br>Tradimento e omicidio sempre stettero insieme,<br>come due demoni aggiogati e giurati al fine l’uno dell’altro,<br>operando così grossolanamente in una causa naturale<br>che l’ammirazione non gridava loro dietro;<br>ma tu, contro ogni proporzione, hai fatto entrare<br>la [[concepts/wonder\|Meraviglia]] a servire il tradimento e l’omicidio.<br>E qualunque astuto demonio sia stato<br>che ha operato su di te così mostruosamente<br>ha in inferno il vanto dell’eccellenza.<br>E gli altri diavoli che suggeriscono tradimenti<br>rattoppano e raffazzonano la dannazione<br>con pezze, colori e forme, tratte<br>da luccicanti apparenze di pietà;<br>ma colui che temprò te, ti disse d’alzarti,<br>non ti diede alcun pretesto per tradire,<br>se non per fregiarti del nome di traditore.<br>Se quel medesimo demone che t’ha così gabbato<br>dovesse col suo passo di [[motifs/lion\|leone]] percorrere il mondo intero,<br>potrebbe tornare al vasto Tartaro<br>e dire alle legioni: ‘Non potrò mai guadagnare<br>un’[[motifs/soul\|anima]] così facile come quella dell’Inglese.’<br>Oh come hai tu con la [[concepts/jealousy\|gelosia]] infettato<br>la dolcezza della fiducia. Si mostrano uomini fedeli?<br>Anche tu lo fosti. Sembrano [[motifs/grave\|gravi]] e dotti?<br>Anche tu lo fosti. Vengono da nobile famiglia?<br>Anche tu. Sembrano religiosi?<br>Anche tu. O sono sobri nel cibo,<br>liberi da grossolane passioni, di allegria o d’ira,<br>costanti nello spirito, non travolti dal [[motifs/blood\|sangue]],<br>ornati e adorni di modesta compostezza,<br>non operando con l’occhio senza l’orecchio,<br>e non fidando di nessuno dei due se non con giudizio purgato?<br>Tale, e così finemente vagliato, tu sembravi.<br>E così la tua caduta ha lasciato una specie di macchia<br>a segnare l’uomo più compiuto, e meglio dotato,<br>con qualche sospetto. Io piangerò per te,<br>ché questa tua rivolta mi pare simile<br>a un’altra caduta dell’uomo.—Le loro colpe sono manifeste.<br>Arrestateli perché rispondano alla legge,<br>e Dio li assolva delle loro macchinazioni. |
+| EXETER | Ti arresto per alto tradimento, in nome di [[characters/richard\|Riccardo]], Conte di Cambridge.—Ti arresto per alto tradimento, in nome di Enrico, Lord Scrope di Masham.—Ti arresto per alto tradimento, in nome di Thomas Grey, cavaliere, del Northumberland. |
+| SCROPE | I nostri disegni Dio giustamente ha svelato,<br>e mi pento della mia colpa più che della mia [[motifs/death\|morte]],<br>che supplico vostra altezza di perdonare<br>benché il mio [[concepts/body\|corpo]] ne paghi il prezzo. |
+| CAMBRIDGE | Quanto a me, l’oro di Francia non mi sedusse,<br>benché l’abbia accolto come un motivo<br>per effettuare più presto ciò che intendevo.<br>Ma sia ringraziato Dio d’averlo impedito,<br>del che di cuore gioirò nel patire,<br>supplicando Dio e voi di perdonarmi. |
+| GREY | Mai suddito fedele più gioì<br>alla scoperta d’un pericolosissimo tradimento<br>di quanto io in quest’ora gioisca di me stesso,<br>salvato da un’impresa dannata.<br>La mia colpa, ma non il mio [[concepts/body\|corpo]], perdonate, sovrano. |
+| [[archetypes/king\|RE]] HARRY | Dio vi assolva nella sua [[concepts/mercy\|misericordia]]. Udite la vostra sentenza.<br>Avete congiurato contro la nostra regale persona,<br>uniti a un nemico proclamato e dichiarato,<br>e dai suoi forzieri<br>avete ricevuto la caparra d’oro della nostra [[motifs/death\|morte]],<br>con la quale avreste venduto il vostro [[archetypes/king\|re]] al macello,<br>i suoi principi e i suoi pari alla servitù,<br>i suoi sudditi all’oppressione e al disprezzo,<br>e tutto il suo regno alla desolazione.<br>Quanto alla nostra persona non cerchiamo [[concepts/revenge\|vendetta]],<br>ma dobbiamo così proteggere la salvezza del nostro regno,<br>la cui rovina avete cercato, che alle sue leggi<br>vi consegniamo. Andatevene dunque di qui,<br>poveri miserabili sciagurati, alla vostra [[motifs/death\|morte]];<br>il cui gusto, Dio nella sua [[concepts/mercy\|misericordia]] vi dia<br>pazienza a sopportare, e vero pentimento<br>di tutte le vostre gravi offese.—Portateli via. |
+| *(didascalia)* | Escono i traditori, sotto scorta |
+| [[archetypes/king\|RE]] HARRY | Ora, signori, in Francia, la cui impresa<br>sarà a voi, come a noi, ugualmente gloriosa.<br>Non [[concepts/doubt\|dubitiamo]] d’una guerra bella e fortunata,<br>poiché Dio così graziosamente ha portato alla luce<br>questo pericoloso tradimento appiattato sul nostro cammino<br>per impedire i nostri inizi. Non [[concepts/doubt\|dubitiamo]] ora<br>che ogni intoppo sia spianato sulla nostra via.<br>Dunque avanti, cari compatrioti. Consegniamo<br>la nostra potenza nella mano di Dio,<br>ponendola subito in movimento.<br>Allegramente al mare, si levino le insegne di guerra:<br>nessun [[archetypes/king\|re]] d’Inghilterra, se non [[characters/king-of-france\|re di Francia]]. |
+| *(didascalia)* | Squilli di tromba. Escono |
+
+### Atto 2, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano l’Alfiere [[characters/pistol\|Pistola]], il Caporale Nim, il Luogotenente Bardolph, il Ragazzo e l’Ostessa Quickly |
+| OSTESSA | Ti prego, mio dolce, caro marito, lascia che t’accompagni fino a Staines. |
+| [[characters/pistol\|PISTOLA]] | No, ché il mio virile cuore si strugge. Bardolph,<br>sii lieto; Nim, ridesta le tue vene millantatrici; ragazzo, rizza<br>il tuo [[concepts/courage\|coraggio]]. Ché [[characters/falstaff\|Falstaff]] è morto,<br>e dobbiamo perciò lagnarci. |
+| BARDOLPH | Vorrei essere con lui, dovunque egli sia, o in cielo o all’inferno. |
+| OSTESSA | No, di certo non è all’inferno. È nel seno d’[[characters/arthur\|Artù]], se mai uomo andò nel seno d’[[characters/arthur\|Artù]]. Fece una fine più bella, e se ne andò come fosse stato un [[archetypes/child\|bambino]] appena battezzato. Se ne partì proprio tra le dodici e l’una, proprio al volgere della marea—ché quando lo vidi armeggiare con le lenzuola, e giocare coi [[motifs/flowers\|fiori]], e sorridere alla punta delle dita, seppi che non c’era che una via. Ché il suo naso era aguzzo come una penna, e farfugliava di verdi prati. ‘Ebbene, Sir John?’ dico io. ‘Suvvia, uomo! Fatevi coraggio.’ E lui gridò: ‘Dio, Dio, Dio’, tre o quattro volte. Allora io, per confortarlo, gli dissi che non doveva pensare a Dio; speravo non ci fosse ancora bisogno di darsi pena di simili pensieri. Allora mi disse di mettergli più panni sui piedi. Cacciai la mano nel letto e glieli toccai, ed erano freddi come pietra. Poi tastai fino alle ginocchia, e su e su, e tutto era freddo come pietra. |
+| NIM | Dicono che gridasse contro il vino di Spagna. |
+| OSTESSA | Sì, questo lo fece. |
+| BARDOLPH | E contro le donne. |
+| OSTESSA | No, questo non lo fece. |
+| RAGAZZO | Sì, lo fece, e disse che erano diavoli incarnati. |
+| OSTESSA | Non poté mai soffrire l’incarnato, era un colore che non gli piacque mai. |
+| RAGAZZO | Disse una volta che il diavolo l’avrebbe avuto a causa delle donne. |
+| OSTESSA | Trattò in un certo senso, davvero, le donne—ma allora era reumatico, e parlava della Meretrice di Babilonia. |
+| RAGAZZO | Non ricordate, vide una pulce posarsi sul naso di Bardolph, e disse che era un’[[motifs/soul\|anima]] nera che bruciava nel [[motifs/fire\|fuoco]] dell’inferno. |
+| BARDOLPH | [[motifs/well\|Ebbene]], se n’è andato il combustibile che manteneva quel [[motifs/fire\|fuoco]]. Ecco tutta la ricchezza che ho tratto dal suo servizio. |
+| NIM | Ce ne andiamo? Il [[archetypes/king\|Re]] sarà partito da Southampton. |
+| [[characters/pistol\|PISTOLA]] | Su, andiamo.—[[motifs/love\|Amore]] mio, dammi le tue labbra.<br>La bacia<br>Bada ai miei beni e alle mie masserizie.<br>Regni il buon senso. La parola d’ordine è ‘Sborsa e paga’.<br>Non fidarti di nessuno, ché i giuramenti son paglia, le fedi degli uomini son<br>cialde,<br>e Tienstretto è il solo cane, anatrella mia.<br>Perciò caveto ti sia consigliere.<br>Va’, asciuga i tuoi cristalli.—Compagni d’arme aggiogati,<br>andiamo in Francia, come sanguisughe, ragazzi miei,<br>a succhiare, a succhiare, il [[motifs/blood\|sangue]] stesso a succhiare! |
+| RAGAZZO | (a parte) E quello è cibo malsano, dicono. |
+| [[characters/pistol\|PISTOLA]] | Tocca la sua morbida bocca, e marcia. |
+| BARDOLPH | Addio, ostessa. La bacia |
+| NIM | Io non so baciare, questo è l’umore della faccenda, ma addio. |
+| [[characters/pistol\|PISTOLA]] | (all’Ostessa) Si mostri la buona massaia. Statti chiusa in casa, te lo comando. |
+| OSTESSA | Addio! Adieu! Escono separatamente |
+
+### Atto 2, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Squilli di tromba. Entrano [[archetypes/king\|Re]] Carlo Sesto di Francia, il [[characters/dauphin\|Delfino]], il Conestabile, e i Duchi di Berry e di Borbone |
+| [[archetypes/king\|RE]] CARLO | Così viene l’Inglese con piena forza contro di noi,<br>e più che accuratamente ci riguarda<br>rispondere regalmente nelle nostre difese.<br>Perciò i Duchi di Berry e di Borbone,<br>di Brabante e d’Orléans si mettano in marcia,<br>e voi Principe [[characters/dauphin\|Delfino]], con ogni rapida sollecitudine,<br>a presidiare e riparare a nuovo le nostre piazzeforti<br>con uomini di [[concepts/courage\|coraggio]] e con mezzi di difesa.<br>Ché l’Inghilterra fa i suoi approcci feroci<br>come le acque al risucchio d’un gorgo.<br>Ci conviene dunque essere previdenti<br>quanto la [[concepts/fear\|paura]] può insegnarci, dai recenti esempi<br>lasciati dai fatali e trascurati Inglesi<br>sui nostri campi. |
+| [[characters/dauphin\|DELFINO]] | Mio temutissimo padre,<br>è convenientissimo che ci armiamo contro il nemico,<br>ché la pace stessa non dovrebbe così intorpidire un regno—<br>anche se guerra, o alcuna nota contesa, non fosse in<br>questione—<br>senza che difese, leve, apparecchi<br>siano mantenuti, radunati e raccolti<br>come se una guerra fosse attesa.<br>Perciò, dico, è conveniente che tutti muoviamo<br>a ispezionare le parti malate e deboli di Francia.<br>E facciamolo senza mostra di [[concepts/fear\|paura]],<br>no, con non più che se udissimo che l’Inghilterra<br>fosse occupata in una morisca di Pentecoste. [[motifs/dance\|Danza]]<br>Ché, mio buon sovrano, essa ha un re così ozioso,<br>il suo scettro è portato così stravagantemente<br>da un giovane vano, sventato, superficiale e capriccioso,<br>che nessuna [[concepts/fear\|paura]] l’accompagna. |
+| CONESTABILE | Oh, tacete, Principe [[characters/dauphin\|Delfino]].<br>Vi ingannate troppo su questo [[archetypes/king\|re]].<br>Interroghi vostra grazia gli ultimi ambasciatori<br>con quale gran contegno egli udì la loro ambasciata,<br>quanto [[motifs/well\|ben]] fornito di anziani consiglieri,<br>quanto modesto nell’obiettare, e insieme<br>quanto terribile in ferma risoluzione,<br>e troverete che le sue vanità passate<br>erano solo l’esteriorità del romano [[characters/brutus\|Bruto]],<br>che copre la prudenza con un manto di follia,<br>come i giardinieri col letame nascondono quelle radici<br>che per prime [[motifs/spring\|germoglieranno]] e saranno più delicate. |
+| [[characters/dauphin\|DELFINO]] | [[motifs/well\|Ebbene]], non è così, mio Lord Gran Conestabile.<br>Ma anche se lo pensiamo, non importa.<br>Nei casi di difesa è meglio stimare<br>il nemico più potente di quanto appaia.<br>Così le proporzioni della difesa sono colmate—<br>ché, con una previsione debole e spilorcia,<br>si fa come l’avaro che rovina il proprio abito lesinando<br>un po’ di stoffa. |
+| [[archetypes/king\|RE]] CARLO | Riteniamo forte [[archetypes/king\|Re]] Harry.<br>E voi, principi, armatevi forte per affrontarlo.<br>La sua stirpe s’è già insanguinata su di noi,<br>ed egli è generato da quel sangue sanguinario<br>che ci perseguitò nei nostri sentieri familiari.<br>Ne fa fede la nostra troppo memorabile vergogna<br>quando la battaglia di Crécy fu fatalmente combattuta,<br>e tutti i nostri principi furono catturati dalla mano<br>di quel nero nome, Edoardo, Principe Nero di Galles,<br>mentre il suo padre torreggiante, ritto su un monte,<br>lassù nell’aria, coronato dal sole d’oro,<br>vide il suo eroico germoglio e sorrise a vederlo<br>straziare l’opera della [[concepts/nature\|natura]] e sfigurare<br>i modelli che da Dio e da padri francesi<br>erano stati fatti in vent’anni. Questo è un ramo<br>di quel ceppo vittorioso, e [[concepts/fear\|temiamo]]<br>la nativa possanza e il destino di lui. |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | Ambasciatori di Harry, [[archetypes/king\|Re]] d’Inghilterra,<br>chiedono d’essere ammessi da vostra maestà. |
+| [[archetypes/king\|RE]] CARLO | Daremo loro immediata udienza. Andate e conduceteli. |
+| *(didascalia)* | Esce il Messaggero |
+| [[archetypes/king\|RE]] CARLO | Vedete che questa caccia è incalzata a caldo, amici. |
+| [[characters/dauphin\|DELFINO]] | Voltate la testa e fermate l’inseguimento. Ché i cani vigliacchi<br>più abbaiano quando ciò che sembrano<br>minacciare<br>corre assai lontano davanti a loro. Mio buon sovrano,<br>tenete corto l’Inglese, e fategli sapere<br>di quale monarchia siete il capo.<br>L’amor di [[concepts/self\|Self]] proprio, mio sovrano, non è peccato così vile [[motifs/love\|amore]]<br>quanto il trascurare [[concepts/self\|sé stessi]]. |
+| *(didascalia)* | Entra il [[characters/duke-of-exeter\|Duca di Exeter]], col seguito |
+| [[archetypes/king\|RE]] CARLO | Da parte di nostro fratello d’Inghilterra? |
+| EXETER | Da lui, e così saluta vostra maestà:<br>vi vuole, nel nome di Dio Onnipotente,<br>spogliarvi e deporre da parte<br>le glorie prese a prestito che per dono del cielo,<br>per legge di [[concepts/nature\|natura]] e delle genti, spettano<br>a lui e ai suoi eredi, cioè la [[motifs/crown\|corona]],<br>e tutti i vasti onori che appartengono<br>per consuetudine e per ordinamento dei tempi<br>alla [[motifs/crown\|corona]] di Francia. Perché sappiate<br>che non è pretesa sinistra né malfondata,<br>raccolta dai fori dei tarli di giorni da lungo svaniti,<br>né rastrellata dalla [[motifs/dust\|polvere]] d’antica dimenticanza,<br>vi manda questa memorabilissima genealogia,<br>in ogni ramo veramente dimostrativa,<br>volendo che scorriate questo albero,<br>e quando lo troviate discendere per retta linea<br>dal più famoso dei suoi famosi antenati,<br>Edoardo Terzo, allora v’ingiunge di rinunciare<br>alla vostra [[motifs/crown\|corona]] e al regno, indirettamente tenuti<br>da lui, il nativo e vero rivendicatore. |
+| [[archetypes/king\|RE]] CARLO | E se no, che segue? |
+| EXETER | Sanguinosa costrizione. Ché se nascondete la [[motifs/crown\|corona]]<br>perfino nei vostri cuori, là egli la cercherà rastrellando.<br>Perciò in fiera tempesta egli viene,<br>fra tuoni e terremoti, come un Giove,<br>sicché se il chiedere fallisce, egli costringerà;<br>e v’ingiunge, per le viscere del Signore,<br>di consegnare la [[motifs/crown\|corona]], e d’aver [[concepts/mercy\|misericordia]]<br>delle povere anime per cui questa guerra affamata<br>apre le sue vaste fauci; e sul vostro capo<br>egli volge le [[motifs/tears\|lacrime]] delle vedove, le grida degli orfani,<br>il [[motifs/blood\|sangue]] dei morti, i gemiti delle fanciulle che si struggono<br>per mariti, padri e amanti promessi<br>che saranno inghiottiti in questa contesa.<br>Questa è la sua pretesa, la sua minaccia, e il mio messaggio—<br>a meno che il [[characters/dauphin\|Delfino]] non sia qui presente,<br>al quale espressamente reco anche un saluto. |
+| [[archetypes/king\|RE]] CARLO | Quanto a noi, considereremo oltre la cosa.<br>Domani porterete la nostra piena intenzione<br>a nostro fratello d’Inghilterra. |
+| [[characters/dauphin\|DELFINO]] | Quanto al [[characters/dauphin\|Delfino]],<br>io sto qui per lui. Che c’è per lui dall’Inghilterra? |
+| EXETER | Scherno e sfida, poco riguardo, disprezzo;<br>e tutto ciò che non sconvenga<br>al possente mittente, tanto egli vi stima.<br>Così dice il mio [[archetypes/king\|re]]: se l’altezza di vostro padre<br>non addolcisce, concedendo per intero ogni domanda,<br>l’amara beffa che mandaste a sua maestà,<br>egli ve ne chiederà conto così ardentemente<br>che caverne e ventrute volte di Francia<br>rimprovereranno il vostro fallo e vi renderanno la beffa<br>nel secondo accento delle sue artiglierie. |
+| [[characters/dauphin\|DELFINO]] | Dite che se mio padre rende bella risposta<br>è contro la mia volontà, ché io [[motifs/desire\|desidero]]<br>null’altro che discordia con l’Inghilterra. A tal fine,<br>come cosa adatta alla sua giovinezza e [[concepts/vanity\|vanità]],<br>gli feci dono delle palle di [[settings/paris\|Parigi]]. |
+| EXETER | Ne farà tremare il vostro Louvre di [[settings/paris\|Parigi]],<br>fosse pure la [[settings/court\|corte]] sovrana della possente Europa.<br>E siatene certo, troverete una differenza,<br>quale noi suoi sudditi con [[concepts/wonder\|meraviglia]] abbiamo trovato,<br>fra la promessa dei suoi giorni più verdi<br>e questi ch’egli ora padroneggia: ora pesa il [[motifs/time\|tempo]]<br>fino all’ultimo granello. Il che leggerete<br>nelle vostre stesse perdite, s’egli resta in Francia. |
+| *(didascalia)* | [[archetypes/king\|RE]] CARLO alzandosi |
+| EXETER | Domani conoscerete appieno la nostra mente. |
+| *(didascalia)* | Squilli di tromba |
+| EXETER | Congedateci con ogni [[characters/speed\|prestezza]], che il nostro [[archetypes/king\|re]]<br>non venga qui in persona a chieder conto del nostro indugio—<br>ché egli ha già posto piede in questa terra. |
+| [[archetypes/king\|RE]] CARLO | Sarete presto congedati con eque condizioni.<br>Una [[motifs/night\|notte]] è ben poco respiro e breve pausa<br>per rispondere a cose di tale conseguenza. |
+| *(didascalia)* | Squilli di tromba. Escono |
+| [[archetypes/king\|KING]] CHARLES | Entra il [[characters/chorus\|Coro]] |
+| [[characters/chorus\|CORO]] | Così con ala immaginata la nostra rapida scena vola<br>con moto di non minore celerità<br>di quello del pensiero. Supponete d’aver visto<br>il [[motifs/well\|ben]] equipaggiato [[archetypes/king\|re]] al molo di Dover<br>imbarcare la sua regalità, e la sua prode flotta<br>coi vessilli di seta che ventilano il giovane Febo.<br>Giocate con le vostre fantasie, e in esse mirate<br>sul sartiame di canapa i mozzi arrampicarsi; [[motifs/ship\|nave]]<br>udite il fischio acuto, che dà ordine<br>a suoni confusi; mirate le vele di tela,<br>portate dall’invisibile e strisciante [[motifs/wind\|vento]],<br>trascinare le enormi carene per il mare solcato,<br>fendendo l’alto flutto. Oh, pensate soltanto<br>di stare sulla riva e di mirare<br>una [[motifs/city\|città]] danzare sui flutti incostanti—<br>ché tale appare questa flotta maestosa,<br>che tiene la rotta verso Harfleur. Seguite, seguite!<br>Aggrappate le vostre menti alla poppa di questa armata,<br>e lasciate la vostra Inghilterra, immobile come mezzanotte,<br>custodita da nonni, da bimbi e da vecchie,<br>o passati o non giunti a midollo e vigore.<br>Ché chi è colui, il cui mento è appena arricchito<br>da un solo pelo spuntato, che non voglia seguire<br>questi scelti e selezionati cavalieri in Francia?<br>Lavorate, lavorate i vostri pensieri, e in essi vedete un assedio.<br>Mirate le artiglierie sui loro affusti,<br>con fatali bocche spalancate sulla cinta di Harfleur.<br>Supponete che l’ambasciatore torni dai Francesi,<br>e dica a Harry che il [[archetypes/king\|Re]] gli offre<br>Caterina sua figlia, e con lei, in dote,<br>alcuni meschini e improduttivi ducati.<br>L’offerta non piace, e l’agile artigliere<br>col miccione ora tocca il diabolico cannone, |
+| *(didascalia)* | Allarme, e sparano i mortaretti |
+| [[characters/chorus\|CORO]] | E tutto crolla davanti a loro. Siate ancora benigni,<br>e supplite alla nostra recita con la vostra mente. Esce |
+
+### Atto 3, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme. Entrano [[archetypes/king\|Re]] Harry e l’esercito inglese, con scale d’assalto |
+| [[archetypes/king\|RE]] HARRY | Ancora una volta alla breccia, cari amici, ancora una volta,<br>o chiudete il muro coi nostri morti inglesi.<br>In pace nulla si addice tanto a un uomo<br>quanto la modesta quiete e l’[[concepts/humility\|umiltà]],<br>ma quando il soffio della guerra ci rugge negli orecchi,<br>allora imitate l’azione della tigre.<br>Irrigidite i nervi, evocate il [[motifs/blood\|sangue]],<br>travestite la bella [[concepts/nature\|natura]] con truce furore.<br>Poi date all’occhio un aspetto terribile,<br>che scruti attraverso le feritoie del capo<br>come il cannone di bronzo, e la fronte lo sovrasti<br>tremendamente come una rupe corrosa<br>sporge e strapiomba sulla sua base sconvolta,<br>flagellata dall’oceano selvaggio e devastatore.<br>Ora serrate i denti e dilatate le narici,<br>trattenete forte il fiato, e tendete ogni spirito<br>alla sua piena altezza. Avanti, avanti, nobilissimi Inglesi,<br>il cui [[motifs/blood\|sangue]] viene da padri provati in guerra,<br>padri che come tanti Alessandri<br>hanno in queste terre dal mattino alla sera combattuto,<br>e rinfoderato le spade per mancanza d’avversari.<br>Non disonorate le vostre madri; ora attestate<br>che coloro che chiamaste padri vi generarono.<br>Siate ora modello a uomini di [[motifs/blood\|sangue]] più grossolano,<br>e insegnate loro a guerreggiare. E voi, buoni fantaccini,<br>le cui membra furono fatte in Inghilterra, mostrateci qui<br>la tempra del vostro pascolo; lasciateci giurare<br>che siete degni della vostra stirpe—del che non [[concepts/doubt\|dubito]],<br>ché non ve n’è alcuno fra voi tanto meschino e vile<br>che non abbia nobile lucentezza negli occhi.<br>Vi vedo stare come levrieri al guinzaglio,<br>tesi allo scatto. La caccia è aperta.<br>Seguite il vostro spirito, e a questo assalto<br>gridate: ‘Dio per Harry! Inghilterra e San Giorgio!’ |
+| *(didascalia)* | Allarme, e sparano i mortaretti. Escono |
+
+### Atto 3, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano Nim, Bardolph, l’Alfiere [[characters/pistol\|Pistola]] e il Ragazzo |
+| BARDOLPH | Avanti, avanti, avanti, avanti, oh! Alla breccia, alla breccia! |
+| NIM | Ti prego, caporale, fermati. Le botte sono troppo calde, e per parte mia non ho una custodia piena di vite. L’umore della faccenda è troppo caldo, questo è il canto piano della faccenda. 6 |
+| [[characters/pistol\|PISTOLA]] | ’Il canto piano’ è giustissimo, ché gli umori abbondano.<br>Le botte vanno e vengono, i vassalli di Dio cadono e muoiono, |
+| *(didascalia)* | canta E la spada e lo scudo |
+| [[characters/pistol\|PISTOLA]] | Nel campo insanguinato<br>si guadagnano fama immortale. |
+| RAGAZZO | Vorrei essere in una birreria a [[settings/london\|Londra]]. Darei tutta la mia fama per un boccale di birra, e per la salvezza. |
+| *(didascalia)* | [[characters/pistol\|PISTOLA]] canta E io pure. |
+| RAGAZZO | Se i desideri valessero con me<br>il mio proposito non mancherebbe con me<br>ma là mi affretterei. |
+| *(didascalia)* | Il RAGAZZO canta Con altrettanta puntualità |
+| RAGAZZO | Ma non con altrettanta verità<br>di quanta ne canta l’uccello sul ramo. |
+| *(didascalia)* | Entra il Capitano [[characters/fluellen\|Fluellen]] e li caccia dentro a bastonate |
+| [[characters/fluellen\|FLUELLEN]] | Sancue di Dio! Su alle precce, cani! Via di qui, canaglie! |
+| [[characters/pistol\|PISTOLA]] | Sii misericordioso, gran duca, con uomini di creta.<br>Modera la tua rabbia, modera la tua virile rabbia,<br>modera la tua rabbia, gran duca. Bel galletto, modera<br>la tua rabbia. Usa clemenza, dolce pulcino. |
+| *(didascalia)* | NIM Questi sì che sono buoni umori! [[characters/fluellen\|Fluellen]] comincia a bastonare Nim Il vostro [[concepts/honour\|onore]] riversa cattivi umori. |
+| *(didascalia)* | Escono tutti tranne il Ragazzo |
+| RAGAZZO | Per giovane che io sia, ho osservato questi tre spacconi. Sono ragazzo di tutti e tre, ma tutti e tre, quand’anche servissero me, non basterebbero a farmi un uomo, ché in verità tre tali buffoni non sommano a un uomo solo. Quanto a Bardolph, ha il fegato bianco e la faccia rossa—per cui fa il gradasso, ma non combatte. Quanto a [[characters/pistol\|Pistola]], ha lingua che uccide e spada che tace—per cui spezza le parole, e serba intatte le armi. Quanto a Nim, ha sentito dire che gli uomini di poche parole sono i migliori, e perciò sdegna di dire le sue preghiere, per non essere creduto un vigliacco. Ma alle sue poche cattive parole s’accompagnano altrettante poche buone azioni—ché non ha mai rotto la testa a nessuno se non a sé stesso, e fu contro un palo, quand’era ubriaco. Ruberebbero qualunque cosa, e la chiamano ‘acquisto’. Bardolph rubò una custodia di liuto, la portò per dodici leghe, e la vendette per tre mezzi penny. Nim e Bardolph sono fratelli giurati nel rubacchiare, e a Calais rubarono una paletta da [[motifs/fire\|fuoco]]. Da quel servigio capii che quegli uomini avrebbero portato carboni. Vorrebbero che io fossi familiare con le tasche altrui quanto lo sono i loro guanti o i loro fazzoletti—il che va molto contro la mia virilità, se dovessi prendere dalla tasca d’un altro per mettere nella mia, ché è puro intascare torti. Devo lasciarli, e cercare qualche miglior servizio. La loro villania va contro il mio debole stomaco, e perciò devo vomitarla. Esce |
+
+### Atto 3, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Capitano [[characters/gower\|Gower]] e il Capitano [[characters/fluellen\|Fluellen]], incontrandosi |
+| [[characters/gower\|GOWER]] | Capitano [[characters/fluellen\|Fluellen]], dovete venire subito alle mine. Il [[characters/duke-of-gloucester\|Duca di Gloucester]] vuole parlarvi. |
+| [[characters/fluellen\|FLUELLEN]] | Alle mine? Ditelo voi al Duca che non è tanto pene venire alle mine. Perché, vedete, le mine non sono secondo le discipline della guerra. Le concavità non sono sufficienti. Perché, vedete, l’avversario, potete esporlo al Duca, vedete, s’è scavato lui stesso, quattro iarde sotto, le contromine. Per Cesù, credo che farà saltare tutto, se non ci sono migliori direzioni. |
+| [[characters/gower\|GOWER]] | Il [[characters/duke-of-gloucester\|Duca di Gloucester]], cui è affidata la direzione dell’assedio, è del tutto guidato da un Irlandese, un gentiluomo assai valoroso, in [[concepts/faith\|fede]] mia. |
+| [[characters/fluellen\|FLUELLEN]] | È il Capitano MacMorris, non è vero? |
+| [[characters/gower\|GOWER]] | Credo di sì. |
+| [[characters/fluellen\|FLUELLEN]] | Per Cesù, è un asino, come non ce n’è al mondo. Glielo verificherò sulla parpa. Non ha più direzioni nelle vere discipline delle guerre, vedete—delle discipline romane—di quante ne abbia un cucciolo di cane. |
+| *(didascalia)* | Entrano il Capitano MacMorris e il Capitano Jamy |
+| [[characters/gower\|GOWER]] | Eccolo che viene, e con lui il capitano scozzese, il Capitano Jamy. |
+| [[characters/fluellen\|FLUELLEN]] | Il Capitano Jamy è un gentiluomo meravigliosamente faloroso, questo è certo, e di grande spedizione e conoscenza nelle guerre antiche, per mia particolare conoscenza delle sue direzioni. Per Cesù, sosterrà il suo argomento [[motifs/well\|bene]] quanto qualsiasi uomo d’arme al mondo, nelle discipline delle guerre pristine dei Romani. |
+| JAMY | Ve dico pon dì, Capitano [[characters/fluellen\|Fluellen]]. |
+| [[characters/fluellen\|FLUELLEN]] | Puona sera a vossignoria, buon Capitano James. |
+| [[characters/gower\|GOWER]] | Ebbene, Capitano MacMorris, avete abbandonato le mine? I guastatori hanno smesso? |
+| MACMORRIS | Per la lecce di Cristo, l’è mal fatto. Il lavoro l’è abbandonato, la tromba suona la ritirata. Per questa mano lo giuro, e per l’[[motifs/soul\|anima]] di mio padre, il lavoro l’è mal fatto, l’è abbandonato. Avrei fatto saltare la città, che Cristo mi salvi la lecce, in un’ora. Oh, l’è mal fatto, l’è mal fatto, per questa mano l’è mal fatto. |
+| [[characters/fluellen\|FLUELLEN]] | Capitano MacMorris, vi supplico ora, volete concedermi, vedete, qualche disputazione con voi, in parte toccante o concernente le discipline della guerra, le guerre romane, per via d’argomento, vedete, e di amichevole comunicazione? In parte per soddisfare la mia opinione e in parte per la soddisfazione, vedete, della mia mente. Quanto alla direzione della disciplina militare, questo è il punto. |
+| JAMY | Sarrà molto puono, puona fede, puoni capitani tuttidue, e vi ricamperò con puona licenza, appena me ne colga l’occasione. Questo lo farrò, perdinci. |
+| MACMORRIS | Non l’è [[motifs/time\|tempo]] di discorrere, che Cristo mi salvi. La giornata l’è calda, e il tempo e le guerre e il [[archetypes/king\|Re]] e i duchi. Non l’è [[motifs/time\|tempo]] di discorrere. La città l’è assediata. E la tromba ci chiama alla breccia, e noi chiacchieriamo e, per Cristo, non facciamo nulla, l’è vergogna per tutti noi. Che Dio mi salvi, l’è vergogna star fermi, l’è vergogna per questa mano. E ci son gole da tagliare, e lavori da fare, e non si fa nulla, che Cristo mi salvi la lecce. |
+| JAMY | Per la messa, prima che questi miei occhi si mettano a sonnecchiare, farrò puon servizio, o ci resterrò sotto terra. Devo a Tio una [[motifs/death\|morte]], e la pagherò più valorosamente che potrò, questo lo farrò di sicuro, questo è il corto e il lungo. Perdinci, avrei ben volentieri sentito qualche questione fra voi tue. |
+| [[characters/fluellen\|FLUELLEN]] | Capitano MacMorris, credo, vedete, salva la vostra correzione, che non ci siano molti della vostra nazione— |
+| MACMORRIS | Della mia nazione? Cos’è la mia nazione? È forse un [[archetypes/villain\|furfante]] e un bastardo e un mascalzone e un briccone? Cos’è la mia nazione? Chi parla della mia nazione? |
+| [[characters/fluellen\|FLUELLEN]] | Vedete, se prendete la cosa altrimenti da come è intesa, Capitano MacMorris, per avventura penserò che non mi trattiate con quell’affabilità con cui in discrezione dovreste trattarmi, vedete, essendo io uomo buono quanto voi, sia nelle discipline della guerra sia nella derivazione della mia nascita, e in altre particolarità. |
+| MACMORRIS | Non vi conosco uomo puono quanto me. Che Cristo mi salvi, vi taglierò la testa. |
+| [[characters/gower\|GOWER]] | Signori miei, vi fraintenderete l’un l’altro. |
+| JAMY | Ah, questo è un brutto difetto.<br>Si suona a parlamento |
+| [[characters/gower\|GOWER]] | La città suona a parlamento. |
+| [[characters/fluellen\|FLUELLEN]] | Capitano MacMorris, quando ci sarà da chiedere occasione più migliore, vedete, sarò tanto ardito da dirvi che io conosco le discipline della guerra. E basta così. |
+| *(didascalia)* | Esce |
+| [[characters/fluellen\|FLUELLEN]] | [Squilli di tromba.] Entrano [[archetypes/king\|Re]] Harry e tutto il suo seguito davanti alle porte |
+| [[archetypes/king\|RE]] HARRY | Come si risolve infine il Governatore della città?<br>Questo è l’ultimo parlamento che ammetteremo.<br>Perciò datevi alla nostra migliore [[concepts/mercy\|misericordia]],<br>o, come uomini superbi della distruzione,<br>sfidateci al nostro peggio. Ché, com’è vero che son soldato,<br>nome che nei miei pensieri più mi si addice,<br>se ricomincio una volta ancora la batteria<br>non lascerò Harfleur mezzo conquistata<br>finché non giaccia sepolta nelle sue ceneri.<br>Le porte della [[concepts/mercy\|misericordia]] saranno tutte serrate,<br>e il soldato assetato di sangue, rude e duro di cuore,<br>in libertà di mano sanguinaria scorrazzerà<br>con [[concepts/conscience\|coscienza]] larga come l’inferno, falciando come erba<br>le vostre fresche belle vergini e i vostri infanti in fiore.<br>Che m’importa allora se l’empia guerra<br>vestita di fiamme come il principe dei demoni<br>compia col suo volto affumicato tutte le crudeli imprese<br>congiunte alla rovina e alla desolazione?<br>Che m’importa, quando voi stessi ne siete causa,<br>se le vostre pure fanciulle cadranno in mano<br>di ardente e forzata violenza?<br>Quale briglia può trattenere la licenziosa malvagità<br>quando giù per la [[motifs/hill\|collina]] tiene la sua feroce corsa?<br>Tanto varrebbe spendere invano il nostro comando<br>sui soldati infuriati nel loro saccheggio<br>quanto mandare precetti al leviatano<br>perché venga a riva. Perciò, uomini di Harfleur,<br>abbiate pietà della vostra città e della vostra gente<br>mentre ancora i miei soldati sono ai miei ordini,<br>mentre ancora il fresco e temperato [[motifs/wind\|vento]] della grazia<br>disperde le sozze e contagiose nubi<br>d’impetuoso assassinio, saccheggio e villania.<br>Se no—ebbene, in un momento aspettatevi di vedere<br>il soldato cieco e sanguinario con lorda mano<br>profanare le chiome delle vostre figlie che stridono;<br>i vostri padri presi per le barbe d’argento,<br>e le loro venerabili teste sfracellate contro i muri;<br>i vostri infanti nudi infilzati sulle picche,<br>mentre le madri impazzite coi loro ululati confusi<br>squarciano le nubi, come fecero le donne di Giudea<br>ai sicari di Erode a caccia di sangue.<br>Che dite? Vi arrendete, ed evitate tutto questo?<br>O, colpevoli nel difendervi, sarete così distrutti? |
+| *(didascalia)* | Entra il Governatore [sulle mura] |
+| GOVERNATORE | La nostra attesa ha oggi fine.<br>Il [[characters/dauphin\|Delfino]], al quale chiedemmo soccorsi,<br>ci risponde che le sue forze non sono ancora pronte<br>a levare un assedio così grande. Perciò, temuto [[archetypes/king\|Re]],<br>cediamo la nostra città e le nostre vite alla tua dolce [[concepts/mercy\|misericordia]]. |
+| *(didascalia)* | Entrate per le nostre porte, disponete di noi e del nostro, |
+| GOVERNATORE | Ché non siamo più in grado di difenderci. |
+| [[archetypes/king\|RE]] HARRY | Aprite le vostre porte.<br>[Esce il Governatore]<br>Venite, zio Exeter,<br>andate voi ed entrate in Harfleur. Là restate,<br>e fortificatela fortemente contro i Francesi.<br>Usate [[concepts/mercy\|misericordia]] con tutti loro. Quanto a noi, caro zio,<br>venendo l’[[motifs/winter\|inverno]], e crescendo la malattia<br>fra i nostri soldati, ci ritireremo a Calais.<br>Stanotte in Harfleur saremo vostro ospite;<br>domani siamo pronti per la marcia.<br>[Le porte vengono aperte.] Squilli di tromba, ed entrano nella città |
+
+### Atto 3, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[characters/princess-catherine\|la Principessa Caterina]] e Alice, una vecchia gentildonna |
+| CATERINA | Alice, tu as été en Angleterre, et tu bien parles le langage. |
+| ALICE | Un peu, madame. |
+| CATERINA | Je te prie, m‘enseignez. Il faut que j’apprenne à parler. Comment appelez-vous la main en anglais? |
+| ALICE | La main? Elle est appelée de hand. |
+| CATERINA | De hand. Et les doigts? |
+| ALICE | Les doigts? Ma foi, j‘oublie les doigts, mais je me souviendrai. Les doigts—je pense qu’ils sont appelés de fingres. Oui, de fingres. |
+| CATERINA | La main, de hand; les doigts, de fingres. Je pense que je suis la bonne écolière; j‘ai gagné deux mots d’anglais vitement. Comment appelez-vous les ongles? ALICE Les ongles? Nous les appelons de nails. |
+| CATERINA | De nails. Écoutez—dites-moi si je parle bien: de hand, de fingres, et de nails. |
+| ALICE | C’est bien dit, madame. Il est fort bon anglais. |
+| CATERINA | Dites-moi l’anglais pour le bras. |
+| ALICE | De arma, madame. |
+| CATERINA | Et le coude? |
+| ALICE | D’elbow. |
+| CATERINA | D‘elbow. Je m’en fais la repetition de tous les mots que vous m’avez appris dès a present. |
+| ALICE | Il est trop difficile, madame, comme je pense. |
+| CATERINA | Excusez-moi, Alice. Écoutez: d‘hand, de fingre, de nails, d’arma, de bilbow. |
+| ALICE | D’elbow, madame. |
+| CATERINA | O Seigneur Dieu, je m‘en oublie! D’elbow. Comment appelez-vous le col? |
+| ALICE | De nick, madame. |
+| CATERINA | De nick. Et le menton? |
+| ALICE | De chin. |
+| CATERINA | De sin. Le col, de nick; le menton, de sin. |
+| ALICE | Oui. Sauf votre honneur, en vérité vous prononcez les mots aussi droit que les natifs d’Angleterre. |
+| CATERINA | Je ne doute point d’apprendre, par la grace de Dieu, et en peu de temps. |
+| ALICE | N’avez-vous y déjà oublié ce que je vous ai enseigné? |
+| CATERINA | Non, et je réciterai à vous promptement: d’hand, de fingre, de mailès— |
+| ALICE | De nails, madame. |
+| CATERINA | De nails, de arma, de ilbow— |
+| ALICE | Sauf votre honneur, d’elbow. |
+| CATERINA | Ainsi dis-je. D’elbow, de nick, et de sin. Comment appelez-vous les pieds et la robe? |
+| ALICE | De foot, madame, et de cown. |
+| CATERINA | De foot et de cown? O Seigneur Dieu! Ils sont les mots de son mauvais, corruptible, gros, et impudique, et non pour les dames d‘honneur d’user. Je ne voudrais prononcer ces mots devant les seigneurs de France pour tout le monde. Foh! De foot et de cown! Néanmoins, je réciterai une autre fois ma leçon ensemble. D‘hand, de fingre, de nails, d’arma, d’elbow, de nick, de sin, de foot, de cown. |
+| ALICE | Excellent, madame! |
+| CATERINA | C’est assez pour une fois. Allons-nous à diner. |
+| *(didascalia)* | Escono |
+
+### Atto 3, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|Re]] Carlo Sesto di Francia, il [[characters/dauphin\|Delfino]], il Conestabile, il Duca di Borbone e altri |
+| [[archetypes/king\|RE]] CARLO | È certo, ha passato il [[motifs/river\|fiume]] Somme. |
+| CONESTABILE | E se non gli si dà battaglia, mio signore,<br>non viviamo più in Francia; abbandoniamo tutto<br>e diamo le nostre vigne a un popolo barbaro. |
+| [[characters/dauphin\|DELFINO]] | O Dieu vivant! Dovranno pochi rampolli nostri,<br>lo scolo della lussuria dei nostri padri,<br>i nostri innesti, posti in ceppo selvatico e rozzo,<br>schizzare così d’un tratto fino alle nubi<br>e sovrastare chi li innestò? |
+| *(didascalia)* | BOURBON |
+| [[characters/dauphin\|DELFINO]] | Normanni, ma Normanni bastardi, bastardi Normanni!<br>Mort de ma vie, se marciano oltre<br>senza che si combatta, venderò il mio ducato<br>per comprare una fattoria fangosa e sudicia<br>in quell’isola tutta seni e insenature d’Albione. |
+| CONESTABILE | Dieu de batailles! Donde viene loro questa tempra?<br>Non è il loro clima nebbioso, crudo e greve,<br>su cui, quasi per dispetto, il sole guarda pallido,<br>uccidendo i loro frutti coi suoi cipigli? Può l’[[motifs/water\|acqua]] bollita,<br>beveraggio per rozze sfiancate—il loro brodo d’orzo—<br>decuocere il loro freddo [[motifs/blood\|sangue]] a tale calore di valore?<br>E il nostro vivo [[motifs/blood\|sangue]], animato dal vino,<br>parrà gelato? Oh, per l’[[concepts/honour\|onore]] della nostra terra,<br>non pendiamo come ghiaccioli allungati<br>sui tetti di paglia delle nostre case, mentre un popolo più gelido<br>suda gocce di gagliarda gioventù nei nostri ricchi campi—<br>‘poveri’ possiamo chiamarli, quanto ai loro signori nativi. |
+| [[characters/dauphin\|DELFINO]] | Per la [[concepts/faith\|fede]] e per l’[[concepts/honour\|onore]],<br>le nostre dame ci schernisco e apertamente dicono<br>che la nostra tempra è esaurita, e daranno<br>i loro corpi alla libidine della gioventù inglese,<br>per rifornire la Francia di guerrieri bastardi. |
+| *(didascalia)* | BOURBON |
+| [[characters/dauphin\|DELFINO]] | Ci mandano: ‘Alle scuole di ballo inglesi,<br>e insegnate le volte alte e le rapide correnti’—<br>dicendo che la nostra grazia è tutta nei calcagni,<br>e che siamo altissimi maestri di fuga. |
+| [[archetypes/king\|RE]] CARLO | Dov’è Montjoy l’araldo? [[characters/speed\|Affrettatelo]] via di qui.<br>Che saluti l’Inghilterra con la nostra aspra sfida.<br>Su, principi, e con spirito d’[[concepts/honour\|onore]] affilato<br>più aguzzo delle vostre spade, correte al campo.<br>Charles Delabret, Gran Conestabile di Francia,<br>voi Duchi d’Orléans, di Borbone e di Berry,<br>Alençon, Brabante, Bar e Borgogna,<br>[[characters/jaques\|Jaques]] Châtillion, Rambures, Vaudemont,<br>Beaumont, Grandpré, Roussi e Fauconbridge,<br>Foix, Lestrelles, Boucicault e Charolais,<br>alti duchi, gran principi, baroni, signori e cavalieri,<br>per i vostri gran seggi liberatevi ora da gran vergogne.<br>Sbarrate Harry d’Inghilterra, che spazza per la nostra terra<br>con pennoni dipinti nel [[motifs/blood\|sangue]] di Harfleur;<br>piombate sulla sua schiera, come la [[motifs/snow\|neve]] disciolta<br>sulle valli, sul cui basso seggio vassallo<br>le Alpi sputano e vuotano il loro catarro.<br>Scendete su di lui, avete forze bastanti,<br>e in un carro da prigioniero, dentro Rouen,<br>portatecelo nostro prigioniero. |
+| CONESTABILE | Questo si addice ai grandi.<br>Mi dispiace che i suoi numeri siano così scarsi,<br>i suoi soldati malati e affamati nella marcia,<br>ché son sicuro che quando vedrà il nostro esercito<br>lascerà cadere il cuore nel pozzo della [[concepts/fear\|paura]]<br>e, prima d’ogni impresa, ci offrirà il suo riscatto. |
+| [[archetypes/king\|RE]] CARLO | Perciò, Lord Conestabile, sollecitate Montjoy,<br>e ditegli di dire all’Inghilterra che mandiamo<br>a sapere quale riscatto vorrà dare di buon grado.—<br>Principe [[characters/dauphin\|Delfino]], voi resterete con noi a Rouen. |
+| [[characters/dauphin\|DELFINO]] | Non così, supplico vostra maestà. |
+| [[archetypes/king\|RE]] CARLO | Siate paziente, ché resterete con noi.—<br>Ora avanti, Lord Conestabile, e voi tutti principi,<br>e presto recateci notizia della caduta d’Inghilterra. |
+| *(didascalia)* | Escono separatamente |
+
+### Atto 3, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Capitani [[characters/gower\|Gower]] e [[characters/fluellen\|Fluellen]], incontrandosi |
+| [[characters/gower\|GOWER]] | Ebbene, Capitano [[characters/fluellen\|Fluellen]], venite dal ponte? |
+| [[characters/fluellen\|FLUELLEN]] | Vi assicuro che al ponte si sono compiuti servigi eccellentissimi. |
+| [[characters/gower\|GOWER]] | Il [[characters/duke-of-exeter\|Duca di Exeter]] è salvo? |
+| [[characters/fluellen\|FLUELLEN]] | Il [[characters/duke-of-exeter\|Duca di Exeter]] è magnanimo quanto [[characters/agamemnon\|Agamennone]], e un uomo che io [[motifs/love\|amo]] e [[concepts/honour\|onoro]] con l’[[motifs/soul\|anima]] mia e col mio cuore e col mio dovere e con la mia vita e col mio vivere e con tutto il mio potere. Non ha, sia Dio lodato e benedetto, alcun male al mondo, ma tiene il ponte valorosissimamente, con eccellente disciplina. C’è là al ponte un alfiere luogotenente, e credo nella mia stessa [[concepts/conscience\|coscienza]] che sia uomo valoroso quanto [[characters/mark-antony\|Marco Antonio]], ed è uomo di nessuna stima al mondo, ma io l’ho visto compiere un servizio gagliardissimo. |
+| [[characters/gower\|GOWER]] | Come lo chiamate? |
+| [[characters/fluellen\|FLUELLEN]] | Si chiama l’Alfiere [[characters/pistol\|Pistola]]. |
+| [[characters/gower\|GOWER]] | Non lo conosco. |
+| *(didascalia)* | Entra l’Alfiere [[characters/pistol\|Pistola]] |
+| [[characters/fluellen\|FLUELLEN]] | Ecco l’uomo. |
+| [[characters/pistol\|PISTOLA]] | Capitano, ti supplico di farmi un favore.<br>Il [[characters/duke-of-exeter\|Duca di Exeter]] ti [[motifs/love\|ama]] [[motifs/well\|assai]]. |
+| [[characters/fluellen\|FLUELLEN]] | Sì, lodo Dio, e ho meritato qualche [[motifs/love\|amore]] dalle sue mani. |
+| [[characters/pistol\|PISTOLA]] | Bardolph, soldato fermo e sano di cuore,<br>di prospero valore, per crudele destino<br>e per la furiosa e volubile [[motifs/wheel\|ruota]] della sventata Fortuna,<br>quella dea cieca che sta sulla pietra<br>rotolante e senza posa— |
+| [[characters/fluellen\|FLUELLEN]] | Con vostra pazienza, Alfiere [[characters/pistol\|Pistola]]: la Fortuna è dipinta cieca, con una benda davanti agli occhi, per significarvi che la Fortuna è cieca. Ed è dipinta anche con una [[motifs/wheel\|ruota]], per significarvi—e questa è la morale—che essa è girevole e incostante e [[motifs/mutability\|mutevolezza]] e variazione. E il suo piede, vedete, è posato su una pietra sferica, che rotola e rotola e rotola. In buona [[concepts/truth\|verità]], il poeta ne fa una descrizione eccellentissima; la Fortuna è un’eccellente morale. |
+| [[characters/pistol\|PISTOLA]] | La Fortuna è nemica di Bardolph e lo guarda torva,<br>ché ha rubato una pace, e impiccato dev’essere.<br>Una [[motifs/death\|morte]] dannata—<br>si spalanchi la forca per il cane, e vada libero l’uomo,<br>e la canapa non gli soffochi la gola.<br>Ma Exeter ha dato la condanna a [[motifs/death\|morte]]<br>per una pace di poco prezzo.<br>Perciò va’ a parlare, il Duca ascolterà la tua voce,<br>e non lasciare che il filo vitale di Bardolph sia reciso<br>dal taglio d’una corda da un soldo e da vile onta.<br>Parla, capitano, per la sua vita, e io ti ricompenserò. |
+| [[characters/fluellen\|FLUELLEN]] | Alfiere [[characters/pistol\|Pistola]], comprendo in parte il vostro intento. |
+| [[characters/pistol\|PISTOLA]] | E allora rallegratene. |
+| [[characters/fluellen\|FLUELLEN]] | Certamente, alfiere, non è cosa di cui rallegrarsi. Ché se, vedete, fosse mio fratello, io [[motifs/desire\|desidererei]] che il Duca facesse il suo buon piacere, e lo mandasse alle esecuzioni. Ché la disciplina dev’essere usata. |
+| [[characters/pistol\|PISTOLA]] | Muori e sii dannato! e un fico per la tua [[concepts/friendship\|amicizia]]. |
+| [[characters/fluellen\|FLUELLEN]] | Sta [[motifs/well\|bene]]. |
+| [[characters/pistol\|PISTOLA]] | Il fico di Spagna. |
+| [[characters/fluellen\|FLUELLEN]] | Molto bene. |
+| [[characters/pistol\|PISTOLA]] | Dico il fico dentro le tue budella e nel tuo sudicio ventre. |
+| *(didascalia)* | Esce |
+| [[characters/fluellen\|FLUELLEN]] | Capitano [[characters/gower\|Gower]], non lo sentite lampeggiare e tuonare? |
+| [[characters/gower\|GOWER]] | Ebbene, è questo l’alfiere di cui mi parlavate? Ora me ne ricordo. Un ruffiano, un tagliaborse. |
+| [[characters/fluellen\|FLUELLEN]] | V’assicuro che ha pronunciato parole prave al ponte quante ne vedrete in un giorno d’[[motifs/summer\|estate]]. Ma sta molto [[motifs/well\|bene]]. Ciò che m’ha detto, sta [[motifs/well\|bene]], ve lo garantisco, quando sarà [[motifs/time\|tempo]]. |
+| [[characters/gower\|GOWER]] | Ebbene, è un gonzo, uno [[archetypes/fool\|sciocco]], un furfante, che di tanto in tanto va alle guerre, per farsi bello al suo ritorno a [[settings/london\|Londra]] sotto le sembianze d’un soldato. E simili tipi sono perfetti nei nomi dei grandi comandanti, e v’impareranno a memoria dove si compirono i servigi—a tale e tal ridotta, a tale breccia, a tale convoglio, chi se la cavò bravamente, chi fu colpito, chi svergognato, a quali condizioni stesse il nemico—e questo sanno perfettamente nel gergo di guerra, che infiorano con giuramenti di nuovo conio. E quel che una barba tagliata alla moda del Generale e un’orrida divisa da campo possano fare tra bottiglie spumeggianti e cervelli lavati dalla birra è meraviglioso a pensarsi. Ma dovete imparare a conoscere simili vergogne del secolo, altrimenti potreste ingannarvi mirabilmente. |
+| [[characters/fluellen\|FLUELLEN]] | Vi dico una cosa, Capitano [[characters/gower\|Gower]], mi accorgo che non è l’uomo che volentieri vorrebbe mostrare al mondo d’essere. Se trovo un buco nel suo abito, gli dirò il fatto mio.<br>Si ode un tamburo<br>Udite, il [[archetypes/king\|Re]] sta venendo, e devo parlargli del ponte. |
+| *(didascalia)* | Entrano [[archetypes/king\|Re]] Harry e i suoi poveri soldati, con tamburo e insegne |
+| [[characters/fluellen\|FLUELLEN]] | Dio penedica vostra maestà. |
+| [[archetypes/king\|RE]] HARRY | Ebbene, [[characters/fluellen\|Fluellen]], vieni dal ponte? |
+| [[characters/fluellen\|FLUELLEN]] | Sì, se piace a vostra maestà. Il [[characters/duke-of-exeter\|Duca di Exeter]] ha tenuto il ponte gagliardissimamente. Il Francese s’è ritirato, vedete, e ci sono stati passaggi gagliardi e pravissimi. Perdinci, l’avversario aveva possesso del ponte, ma è stato costretto a ritirarsi, e il [[characters/duke-of-exeter\|Duca di Exeter]] è padrone del ponte. Posso dire a vostra maestà, il Duca è un pravo uomo. |
+| [[archetypes/king\|RE]] HARRY | Che uomini avete perduto, [[characters/fluellen\|Fluellen]]? |
+| [[characters/fluellen\|FLUELLEN]] | La perdizione dell’avversario è stata grandissima, ragionevolmente grande. Perdinci, per parte mia credo che il Duca non abbia perduto un uomo solo, salvo uno che sta per essere giustiziato per aver derubato una chiesa, un certo Bardolph, se vostra maestà conosce l’uomo. La sua faccia è tutta pustole e bolle e bitorzoli e fiamme di [[motifs/fire\|fuoco]], e le sue labbra soffiano sul suo naso, ed esso è come un carbone di [[motifs/fire\|fuoco]], talora plu e talora rosso. Ma il suo naso è giustiziato, e il suo [[motifs/fire\|fuoco]] è spento. |
+| [[archetypes/king\|RE]] HARRY | Vorremmo che tutti simili delinquenti fossero così recisi, e diamo qui espresso ordine che nelle nostre marce attraverso il paese nulla sia estorto ai villaggi, nulla preso senza pagarlo, nessuno dei Francesi rimproverato o maltrattato con parole sdegnose. Ché quando la clemenza e la crudeltà giocano per un regno, il giocatore più mite è il primo a vincere. Squillo di tromba. Entra Montjoy |
+| MONTJOY | Mi conoscete dalla mia divisa. |
+| [[archetypes/king\|RE]] HARRY | [[motifs/well\|Ebbene]], allora ti conosco. Che cosa saprò da te? |
+| MONTJOY | La mente del mio signore. |
+| [[archetypes/king\|RE]] HARRY | Esponila. |
+| MONTJOY | Così dice il mio [[archetypes/king\|Re]]: ‘Di’ tu a Harry d’Inghilterra che, sebbene sembrassimo morti, non facevamo che [[motifs/sleep\|dormire]]. Il vantaggio è soldato migliore dell’avventatezza. Digli che avremmo potuto respingerlo a Harfleur, se non che non stimammo bene schiacciare un livido finché non fosse ben maturo. Ora parliamo alla nostra battuta, e la nostra voce è imperiale. L’Inghilterra si pentirà della sua follia, vedrà la sua debolezza, e ammirerà la nostra tolleranza. Digli dunque di considerare il suo riscatto, che dovrà essere proporzionato alle perdite che abbiamo sostenuto, ai sudditi che abbiamo perduto, all’onta che abbiamo ingoiato—alla quale, se dovesse rispondere per intero, la sua piccolezza si piegherebbe. Per le nostre perdite, il suo erario è troppo povero; per l’effusione del nostro [[motifs/blood\|sangue]], la leva del suo regno è numero troppo esiguo; e per la nostra onta, la sua stessa persona inginocchiata ai nostri piedi non è che debole e indegna soddisfazione. A ciò aggiungi la sfida, e digli per conclusione che ha tradito i suoi seguaci, la cui condanna è pronunciata.’ Fin qui il mio [[archetypes/king\|Re]] e signore; questo il mio ufficio. |
+| [[archetypes/king\|RE]] HARRY | Qual è il tuo nome? Conosco il tuo grado. |
+| MONTJOY | Montjoy. |
+| [[archetypes/king\|RE]] HARRY | Fai il tuo ufficio onestamente. Torna indietro<br>e di’ al tuo [[archetypes/king\|re]] che ora non lo cerco,<br>ma sarei ben disposto a marciare fino a Calais<br>senza impedimento, ché a dire il vero—<br>benché non sia saggezza confessare tanto<br>a un nemico d’astuzia e di vantaggio—<br>la mia gente è molto indebolita dalla malattia,<br>ridotti i miei numeri, e quei pochi che ho<br>quasi non migliori d’altrettanti Francesi;<br>i quali quando erano in salute—te lo dico, araldo,<br>pensavo che un solo paio di gambe inglesi<br>ne portasse tre di Francesi. Pure perdonami, Dio,<br>che io mi vanti così. Quest’aria di Francia<br>m’ha soffiato dentro tale vizio. Devo pentirmene.<br>Va’, dunque, di’ al tuo signore che io sono qui;<br>il mio riscatto è questo fragile e indegno tronco,<br>il mio esercito solo una debole e malata guardia.<br>Pure, con Dio innanzi, digli che verremo avanti,<br>anche se la Francia stessa e un altro simile vicino<br>ci stessero sulla via. Ecco per la tua fatica, Montjoy.<br>Va’, di’ al tuo signore che [[motifs/well\|ben]] consideri sé stesso.<br>Se possiamo passare, passeremo; se saremo ostacolati,<br>tingeremo il vostro suolo fulvo col vostro rosso [[motifs/blood\|sangue]].<br>E così, Montjoy, state [[motifs/well\|bene]].<br>La somma di tutta la nostra risposta è solo questa:<br>non cercheremmo battaglia come siamo,<br>né, come siamo, diciamo che la sfuggiremo.<br>Così di’ al tuo signore. |
+| MONTJOY | Riferirò così. Grazie a vostra altezza. Esce |
+| [[characters/gloucester\|GLOUCESTER]] | [[concepts/hope\|Spero]] che non ci piombino addosso ora. |
+| [[archetypes/king\|RE]] HARRY | Siamo nella mano di Dio, fratello, non nella loro.<br>Marciate verso il ponte. Ora volge alla [[motifs/night\|notte]].<br>Oltre il [[motifs/river\|fiume]] ci accamperemo,<br>e domani ordineremo loro di marciare via. Escono |
+
+### Atto 3, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Conestabile, Lord Rambures, i Duchi d’Orléans e di Borbone, con altri |
+| CONESTABILE | Puah, io ho la migliore armatura del mondo. Fosse già giorno. |
+| ORLÉANS | Avete un’armatura eccellente. Ma si renda al mio [[motifs/horse\|cavallo]] il suo dovuto. |
+| CONESTABILE | È il miglior [[motifs/horse\|cavallo]] d’Europa.<br>ORLÉANS Non sarà mai mattino? |
+| *(didascalia)* | BOURBON Mio signore d’Orléans e mio Lord Gran Conestabile, parlate di [[motifs/horse\|cavalli]] e d’armature? |
+| CONESTABILE | ORLÉANS Siete [[motifs/well\|ben]] provvisti d’entrambi quanto qualsiasi principe al mondo. |
+| *(didascalia)* | BOURBON Che [[motifs/night\|notte]] lunga è questa! Non cambierei il mio [[motifs/horse\|cavallo]] con nessuno che cammini su quattro pasturali. Ah ah! Balza da terra come se le sue viscere fossero di lepre—le cheval volant, il Pegaso, qui a les narines de feu! Quando lo inforco, io volo, sono un falco; trotta nell’aria, la terra canta quando la tocca, il corno più vile del suo zoccolo è più musicale del flauto d’Ermete. |
+| CONESTABILE | ORLÉANS È del colore della noce moscata. |
+| *(didascalia)* | BOURBON E del calore dello zenzero. È una bestia per Perseo. È puro aria e [[motifs/fire\|fuoco]], e i greggi elementi della terra e dell’[[motifs/water\|acqua]] non appaiono mai in lui, se non nella paziente immobilità mentre il cavaliere lo monta. Egli è davvero un [[motifs/horse\|cavallo]], e tutte le altre rozze potete chiamarle bestie. |
+| CONESTABILE | In verità, mio signore, è un [[motifs/horse\|cavallo]] assolutissimo ed eccellente. |
+| *(didascalia)* | BOURBON È il principe dei palafreni. Il suo nitrito è come il comando d’un monarca, e il suo aspetto impone omaggio. |
+| CONESTABILE | ORLÉANS Basta così, cugino. |
+| *(didascalia)* | BOURBON Anzi, non ha ingegno l’uomo che non sappia, dal levarsi dell’allodola al ricovero dell’[[motifs/lamb\|agnello]], variare la meritata lode del mio palafreno. È un tema fluente come il mare. Mutate le sabbie in lingue eloquenti, e il mio [[motifs/horse\|cavallo]] è argomento per tutte. È soggetto su cui un sovrano può ragionare, e su cui il sovrano d’un sovrano può cavalcare, e per cui il mondo, a noi familiare e ignoto, deporrebbe le sue funzioni particolari, e ne farebbe [[concepts/wonder\|meraviglia]]. Una volta scrissi un [[forms/sonnet\|sonetto]] in sua lode, e cominciava così: ‘[[concepts/wonder\|Meraviglia]] della [[concepts/nature\|natura]]!—’ |
+| CONESTABILE | ORLÉANS Ho udito un [[forms/sonnet\|sonetto]] cominciare così per una dama. |
+| *(didascalia)* | BOURBON Allora imitavano ciò che io composi al mio corsiero, ché il mio [[motifs/horse\|cavallo]] è la mia dama. |
+| CONESTABILE | ORLÉANS La vostra dama porta [[motifs/well\|bene]]. |
+| *(didascalia)* | BOURBON Porta me [[motifs/well\|bene]], che è la lode prescritta e la perfezione d’una buona e particolare dama. |
+| CONESTABILE | Anzi, ché mi parve ieri che la vostra dama vi scuotesse malamente la schiena. |
+| *(didascalia)* | BOURBON Così forse fece la vostra. |
+| CONESTABILE | La mia non era imbrigliata. |
+| *(didascalia)* | BOURBON Oh, allora forse era vecchia e docile, e voi cavalcavate come un fante d’Irlanda, senza le vostre brache francesi, e nei vostri stretti calzoni. |
+| CONESTABILE | Avete buon giudizio in fatto d’equitazione. |
+| *(didascalia)* | BOURBON Prendete allora avviso da me: chi cavalca così, e non cavalca con cautela, cade in sozze paludi. Preferirei avere il mio [[motifs/horse\|cavallo]] per dama. |
+| CONESTABILE | Preferirei altrettanto avere per dama una rozza. |
+| *(didascalia)* | BOURBON Ti dico, Conestabile, che la mia dama porta i suoi propri capelli. |
+| CONESTABILE | Potrei fare un vanto altrettanto vero, se avessi per dama una scrofa. |
+| *(didascalia)* | BOURBON ‛Le chien est retourné à son propre vomissement, et la truie lavée au bourbier.’ Tu ti servi di qualunque cosa. |
+| CONESTABILE | Eppure io non mi servo del mio [[motifs/horse\|cavallo]] per dama, né d’alcun proverbio così poco imparentato con lo scopo. |
+| RAMBURES | Mio Lord Conestabile, l’armatura che ho visto stanotte nella vostra tenda, sono [[motifs/stars\|stelle]] o soli quelli che porta? |
+| CONESTABILE | [[motifs/stars\|Stelle]], mio signore. |
+| *(didascalia)* | BOURBON Alcune di esse cadranno domani, [[concepts/hope\|spero]]. |
+| CONESTABILE | E pure il mio cielo non ne mancherà. |
+| *(didascalia)* | BOURBON Può darsi, ché ne portate molte superflue, e sarebbe più [[concepts/honour\|onore]] che alcune fossero tolte. |
+| CONESTABILE | Proprio come il vostro [[motifs/horse\|cavallo]] porta le vostre lodi, il quale trotterebbe altrettanto [[motifs/well\|bene]] se qualcuna delle vostre vanterie fosse smontata. |
+| *(didascalia)* | BOURBON Potessi caricarlo del suo [[motifs/desert\|merito]]! Non sarà mai giorno? Domani trotterò per un miglio, e la mia via sarà lastricata di facce inglesi. |
+| CONESTABILE | Io non lo dirò, per [[concepts/fear\|paura]] d’essere affrontato e sviato dalla mia strada. Ma vorrei che fosse mattino, ché volentieri sarei alle orecchie degli Inglesi. |
+| RAMBURES | Chi vuol giocare ai dadi con me per venti prigionieri? |
+| CONESTABILE | Dovete prima andare voi stesso a rischio, prima d’averli. |
+| *(didascalia)* | BOURBON È mezzanotte. Vado ad armarmi. Esce |
+| CONESTABILE | ORLÉANS Il Duca di Borbone anela al mattino. |
+| RAMBURES | Anela a mangiare gli Inglesi. |
+| CONESTABILE | Credo che mangerà tutti quelli che ucciderà.<br>ORLÉANS Per la bianca mano della mia dama, è un gagliardo principe. |
+| CONESTABILE | Giurate per il suo piede, ché possa calpestare il giuramento.<br>ORLÉANS È semplicemente il gentiluomo più attivo di Francia. |
+| CONESTABILE | Fare è attività, ed egli sarà sempre in faccende.<br>ORLÉANS Non fece mai male alcuno, ch’io abbia udito. |
+| CONESTABILE | Né ne farà domani. Manterrà sempre quel buon nome.<br>ORLÉANS So che è valoroso. |
+| CONESTABILE | Me lo disse uno che lo conosce meglio di voi.<br>ORLÉANS Chi è costui? |
+| CONESTABILE | Perdinci, me lo disse lui stesso, e disse che non gl’importava chi lo sapesse.<br>ORLÉANS Non ne ha bisogno; non è virtù nascosta in lui. |
+| CONESTABILE | Per la mia [[concepts/faith\|fede]], signore, ma lo è. Nessuno mai la vide se non il suo lacchè. È un valore incappucciato, e quando apparirà si abbatterà.<br>ORLÉANS ‘Il malanimo non disse mai [[motifs/well\|bene]].’ no |
+| CONESTABILE | Coronerò quel proverbio con ‘C’è adulazione nell’[[concepts/friendship\|amicizia]].’<br>ORLÉANS E io ribatterò con ‘Al diavolo il suo dovuto.’ |
+| CONESTABILE | [[motifs/well\|Ben]] messo! Ecco che il vostro amico sta per il diavolo. All’occhio stesso di quel proverbio con ‘Un accidente al diavolo!’<br>ORLÉANS Siete migliore nei proverbi tanto quanto ‘il dardo dello [[archetypes/fool\|sciocco]] è presto scoccato’. |
+| CONESTABILE | Avete tirato troppo lungo.<br>ORLÉANS Non è la prima [[motifs/time\|volta]] che siete stato sopravanzato. Entra un Messaggero |
+| MESSAGGERO | Mio Lord Gran Conestabile, gli Inglesi stanno a millecinquecento passi dalle vostre tende. |
+| CONESTABILE | Chi ha misurato il terreno? |
+| MESSAGGERO | Il Signore di Grandpré. |
+| CONESTABILE | Un valoroso ed espertissimo gentiluomo. |
+| *(didascalia)* | Esce il Messaggero |
+| CONESTABILE | Fosse già giorno! Ahimè, povero Harry d’Inghilterra. Egli<br>non anela all’alba come noi.<br>ORLÉANS Che uomo miserabile e stizzoso è questo [[archetypes/king\|Re]] d’Inghilterra, a incupirsi coi suoi seguaci di grasso cervello così lontano dalla sua conoscenza. |
+| CONESTABILE | Se gli Inglesi avessero un po’ di comprendonio, scapperebbero.<br>ORLÉANS È quel che manca loro—ché se le loro teste avessero una qualche armatura intellettuale, non potrebbero mai portare elmi così pesanti. |
+| RAMBURES | Quell’isola d’Inghilterra genera creature valorosissime. I loro mastini sono d’ineguagliabile [[concepts/courage\|coraggio]].<br>ORLÉANS Cani sciocchi, che corrono a occhi chiusi nelle fauci d’un orso russo, e si fanno schiacciare la testa come mele marce. Potreste altrettanto [[motifs/well\|bene]] dire: ‘Ecco una pulce valorosa che osa fare colazione sul labbro d’un [[motifs/lion\|leone]].’ |
+| CONESTABILE | Giusto, giusto. E gli uomini sono affini ai mastini nell’avanzare robusto e rude, lasciando il cervello con le mogli. E poi, dategli grandi pasti di manzo, e ferro e acciaio, e mangeranno come lupi e combatteranno come diavoli.<br>ORLÉANS Sì, ma questi Inglesi sono maledettamente a corto di manzo. |
+| CONESTABILE | Allora troveremo domani che hanno stomaco solo per mangiare, e nessuno per combattere. Ora è [[motifs/time\|tempo]] d’armarsi. Su, ci mettiamo?<br>ORLÉANS<br>Ora sono le due all’[[motifs/clock\|orologio]]. Ma vediamo—per le dieci<br>ne avremo ciascuno cento di Inglesi. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 0
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il [[characters/chorus\|Coro]] |
+| [[characters/chorus\|CORO]] | Ora accogliete la congettura d’un [[motifs/time\|tempo]]<br>in cui strisciante mormorio e tenebra scrutante<br>colmano l’ampio vaso dell’universo.<br>Da campo a campo, per il sozzo grembo della [[motifs/night\|notte]],<br>il ronzio dell’uno e dell’altro esercito sommesso risuona,<br>sì che le sentinelle fisse quasi ricevono<br>i segreti bisbigli della guardia avversa.<br>[[motifs/fire\|Fuoco]] risponde a [[motifs/fire\|fuoco]], e per le loro pallide fiamme<br>ogni schiera vede dell’altra il volto ombrato.<br>Destriero minaccia destriero, con alti e millantatori nitriti<br>che trafiggono l’orecchio sordo della [[motifs/night\|notte]], e dalle tende<br>gli armaioli, compiendo l’armatura ai cavalieri,<br>con martelli affaccendati serrando i ribattini,<br>danno tremenda nota dell’apparecchio.<br>I galli di campagna cantano, gli orologi rintoccano<br>e nominano la terza ora del sonnolento mattino.<br>Superbi del loro numero e sicuri nell’[[motifs/soul\|anima]],<br>i Francesi fiduciosi e troppo baldanzosi<br>giocano ai dadi gli Inglesi stimati poco,<br>e rimproverano la [[motifs/night\|notte]] zoppa dal passo tardo,<br>che come una sozza e brutta [[characters/witch\|strega]] arranca<br>via così tediosamente. I poveri Inglesi condannati,<br>come vittime sacrificali, presso i loro fuochi di guardia<br>siedono pazienti e dentro ruminano<br>il pericolo del mattino; e il loro gesto triste,<br>vestendo guance scarne e smunte e casacche logore di guerra,<br>li presentava alla [[motifs/moon\|luna]] che li mirava<br>come tanti orridi [[motifs/ghosts\|fantasmi]]. Oh, ora, chi mirerà<br>il regale capitano di questa schiera in rovina<br>andare di posto in posto, di tenda in tenda,<br>gridi: ‘Lode e gloria sul suo capo!’<br>Ché egli va innanzi e visita tutto il suo esercito,<br>dà loro il buongiorno con un modesto sorriso<br>e li chiama fratelli, amici e compatrioti.<br>Sul suo volto regale non v’è segno<br>di quale terribile esercito l’abbia circondato;<br>né dedica un solo grano del suo colore<br>alla [[motifs/night\|notte]] stanca e vegliata tutta intera,<br>ma appare fresco e vince il suo languore<br>con sembiante lieto e dolce maestà,<br>sì che ogni sciagurato, prima languente e pallido,<br>mirandolo, trae conforto dal suo sguardo.<br>Una larghezza universale, come il sole,<br>il suo occhio generoso dona a ciascuno,<br>sciogliendo la fredda [[concepts/fear\|paura]], sicché umili e gentili tutti<br>mirano, per quanto l’indegnità possa definirlo,<br>un piccolo tocco di Harry nella [[motifs/night\|notte]].<br>E così la nostra scena deve volare alla battaglia,<br>dove, oh, per pietà, molto svergogneremo,<br>con quattro o cinque fioretti vilissimi e sbrecciati,<br>assai mal disposti in ridicola zuffa,<br>il nome di Azincourt. Pure sedete e guardate,<br>intendendo le cose vere da quel che ne sono le parodie. Esce |
+
+### Atto 4, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano [[archetypes/king\|Re]] Harry e il [[characters/duke-of-gloucester\|Duca di Gloucester]], poi il Duca di [[characters/clarence\|Clarence]] |
+| [[archetypes/king\|RE]] HARRY | [[characters/gloucester\|Gloucester]], è vero che siamo in gran pericolo;<br>tanto maggiore perciò dev’essere il nostro [[concepts/courage\|coraggio]].<br>Buon giorno, fratello [[characters/clarence\|Clarence]]. Dio Onnipotente!<br>V’è qualche [[motifs/soul\|anima]] di bene nelle cose cattive,<br>se gli uomini con attenzione la sapessero distillare—<br>ché il nostro cattivo vicino ci fa alzare per tempo,<br>il che è insieme salutare e buona economia.<br>Inoltre, essi sono le nostre coscienze esteriori,<br>e predicatori a noi tutti, ammonendoci<br>che dobbiamo vestirci degnamente per la nostra fine.<br>Così possiamo cogliere miele dall’erbaccia<br>e trarre una morale dal diavolo stesso. |
+| *(didascalia)* | Entra Sir Thomas Erpingham |
+| [[archetypes/king\|RE]] HARRY | Buon giorno, vecchio Sir Thomas Erpingham.<br>Un buon morbido guanciale per quel buon capo bianco<br>sarebbe meglio d’una zolla scortese di Francia. |
+| ERPINGHAM | Non così, mio sovrano. Quest’alloggio mi piace di più,<br>poiché posso dire: ‘Ora giaccio come un [[archetypes/king\|re]].’ |
+| [[archetypes/king\|RE]] HARRY | È bene per gli uomini [[motifs/love\|amare]] le presenti pene<br>sull’esempio altrui. Così lo spirito è alleviato,<br>e quando la mente si ravviva, senza [[concepts/doubt\|dubbio]]<br>gli organi, prima defunti e morti,<br>rompono la loro sonnolenta [[motifs/grave\|tomba]] e di nuovo si muovono<br>con la spoglia gettata e fresca agilità.<br>Prestami il tuo mantello, Sir Thomas.<br>Indossa il mantello di Erpingham<br>Fratelli entrambi,<br>raccomandatemi ai principi del nostro campo.<br>Date loro il mio buongiorno, e fra poco<br>[[motifs/desire\|invitateli]] tutti al mio padiglione. |
+| [[characters/gloucester\|GLOUCESTER]] | Lo faremo, mio sovrano. |
+| ERPINGHAM | Debbo accompagnare vostra grazia? |
+| [[archetypes/king\|RE]] HARRY | No, mio buon cavaliere. Andate coi miei fratelli dai miei signori d’Inghilterra. Io e il mio petto dobbiamo discutere un poco, e poi non vorrei altra compagnia. |
+| ERPINGHAM | Il Signore in cielo ti benedica, nobile Harry. |
+| [[archetypes/king\|RE]] HARRY | Dio ti renda [[concepts/mercy\|grazia]], vecchio cuore, parli con animo lieto. |
+| *(didascalia)* | Escono tutti tranne [[archetypes/king\|Re]] Harry |
+| *(didascalia)* | Entra [[characters/pistol\|Pistola]] verso di lui |
+| [[characters/pistol\|PISTOLA]] | Qui vous là? |
+| [[archetypes/king\|RE]] HARRY | Un amico. |
+| [[characters/pistol\|PISTOLA]] | Esponimi: sei tu ufficiale,<br>o sei tu vile, comune e popolano? |
+| [[archetypes/king\|RE]] HARRY | Sono un gentiluomo d’una compagnia. |
+| [[characters/pistol\|PISTOLA]] | Trascini tu la possente picca? |
+| [[archetypes/king\|RE]] HARRY | Proprio così. E voi chi siete? |
+| [[characters/pistol\|PISTOLA]] | Gentiluomo buono quanto l’Imperatore. |
+| [[archetypes/king\|RE]] HARRY | Allora siete migliore del [[archetypes/king\|Re]]. |
+| [[characters/pistol\|PISTOLA]] | Il [[archetypes/king\|Re]] è un bel galletto e un cuor d’oro,<br>un ragazzo pieno di vita, un rampollo di fama,<br>di buoni genitori, di pugno valorosissimo.<br>Io bacio la sua scarpa sudicia, e con le corde del cuore<br>[[motifs/love\|amo]] quell’amabile bullo. Qual è il tuo nome? |
+| [[archetypes/king\|RE]] HARRY | Harry le roi. |
+| [[characters/pistol\|PISTOLA]] | Leroi? Nome di Cornovaglia. Sei tu della ciurma di Cornovaglia? |
+| [[archetypes/king\|RE]] HARRY | No, sono un Gallese. |
+| [[characters/pistol\|PISTOLA]] | Conosci [[characters/fluellen\|Fluellen]]? |
+| [[archetypes/king\|RE]] HARRY | Sì. |
+| [[characters/pistol\|PISTOLA]] | Digli che gli sbatterò il suo porro sulla zucca<br>il giorno di San Davide. |
+| [[archetypes/king\|RE]] HARRY | Non portate voi il vostro pugnale in berretto quel giorno, che non ve lo sbatta sulla vostra. |
+| [[characters/pistol\|PISTOLA]] | Sei tu suo amico? |
+| [[archetypes/king\|RE]] HARRY | E anche suo parente. |
+| [[characters/pistol\|PISTOLA]] | Allora un fico per te. |
+| [[archetypes/king\|RE]] HARRY | Vi ringrazio. Dio sia con voi. |
+| [[characters/pistol\|PISTOLA]] | Il mio nome si chiama [[characters/pistol\|Pistola]]. |
+| [[archetypes/king\|RE]] HARRY | Si accorda [[motifs/well\|bene]] con la vostra ferocia. |
+| *(didascalia)* | Esce [[characters/pistol\|Pistola]] Entrano i Capitani [[characters/fluellen\|Fluellen]] e [[characters/gower\|Gower]] separatamente. [[archetypes/king\|Re]] Harry si tiene in disparte |
+| [[characters/gower\|GOWER]] | Capitano [[characters/fluellen\|Fluellen]]! |
+| [[characters/fluellen\|FLUELLEN]] | Insomma! Nel nome di Gesù [[characters/christ\|Cristo]], parlate più piano. È la più grande ammirazione dell’universo mondo, quando le vere e antiche prerogatife e leggi delle guerre non sono osservate. Se voleste prendervi la pena d’esaminare le guerre di [[characters/pompey\|Pompeo]] Magno, troverete, ve lo garantisco, che non c’è nessun ciarlare né chiacchiericcio nel campo di [[characters/pompey\|Pompeo]]. Ve lo garantisco, troverete che le cerimonie delle guerre, e le cure di esse, e le forme di esse, e la sobrietà di esse, e la modestia di esse, sono altrimenti. |
+| [[characters/gower\|GOWER]] | Ebbene, il nemico è rumoroso. Lo sentite tutta la [[motifs/night\|notte]]. |
+| [[characters/fluellen\|FLUELLEN]] | Se il nemico è un asino e uno [[archetypes/fool\|sciocco]] e un ciarliero zerbinotto, è conveniente, credete voi, che anche noi, vedete, siamo un asino e uno [[archetypes/fool\|sciocco]] e un ciarliero zerbinotto? Nella vostra stessa [[concepts/conscience\|coscienza]], ora? |
+| [[characters/gower\|GOWER]] | Parlerò più basso. |
+| [[characters/fluellen\|FLUELLEN]] | Ve ne prego e vi supplico. |
+| *(didascalia)* | Escono [[characters/fluellen\|Fluellen]] e [[characters/gower\|Gower]] |
+| [[archetypes/king\|RE]] HARRY | Benché appaia un po’ fuori moda,<br>v’è molta cura e valore in questo Gallese. |
+| *(didascalia)* | Entrano tre soldati: John Bates, Alexander [[settings/court\|Court]] e [[characters/michael\|Michele]] Williams |
+| [[settings/court\|COURT]] | Fratello John Bates, non è quello il mattino che spunta laggiù? |
+| BATES | Credo di sì. Ma non abbiamo gran motivo di [[motifs/desire\|desiderare]] l’avvicinarsi del giorno. |
+| WILLIAM | Vediamo laggiù il principio del giorno, ma credo che non ne vedremo mai la fine.—Chi va là? |
+| [[archetypes/king\|RE]] HARRY | Un amico. |
+| WILLIAM | Sotto quale capitano servite? |
+| [[archetypes/king\|RE]] HARRY | Sotto Sir Thomas Erpingham. |
+| WILLIAM | Un buon vecchio comandante e un gentiluomo assai cortese. Vi prego, che pensa egli della nostra condizione? |
+| [[archetypes/king\|RE]] HARRY | Proprio come uomini naufragati su un banco di sabbia, che si aspettano d’essere spazzati via dalla prossima marea. |
+| BATES | Non ha detto il suo pensiero al [[archetypes/king\|Re]]? |
+| [[archetypes/king\|RE]] HARRY | No, né è conveniente che lo faccia. Ché, benché io lo dica a voi, penso che il [[archetypes/king\|Re]] non sia che un uomo, come sono io. La violetta odora per lui come odora per me; il cielo gli appare come appare a me. Tutti i suoi sensi hanno solo condizioni umane. Deposte le sue cerimonie, nella sua [[motifs/nakedness\|nudità]] non appare che un uomo, e benché i suoi affetti volino più alti dei nostri, pure quando calano, calano con simile ala. Perciò, quando egli vede ragione di temere, come la vediamo noi, i suoi timori, senza [[concepts/doubt\|dubbio]], sono dello stesso sapore dei nostri. Pure, a ragione, nessuno dovrebbe riempirlo d’alcuna apparenza di [[concepts/fear\|paura]], perché egli, mostrandola, non scoraggi il suo esercito. |
+| BATES | Può mostrare tutto il [[concepts/courage\|coraggio]] esteriore che vuole, ma io credo che, per fredda che sia questa [[motifs/night\|notte]], vorrebbe trovarsi nel Tamigi fino al collo. E così vorrei che vi fosse, e io accanto a lui, a ogni rischio, purché fossimo fuori di qui. |
+| [[archetypes/king\|RE]] HARRY | In fede mia, dirò la mia [[concepts/conscience\|coscienza]] riguardo al [[archetypes/king\|Re]]. Credo che non vorrebbe trovarsi in nessun luogo se non dov’è. |
+| BATES | Allora vorrei che fosse qui solo. Così sarebbe sicuro d’essere riscattato, e si salverebbero le vite di molti poveri uomini. |
+| [[archetypes/king\|RE]] HARRY | Oso dire che non lo [[motifs/love\|amate]] così poco da desiderarlo qui solo, comunque diciate questo per sondare le menti altrui. Mi pare che non potrei morire in alcun luogo così contento come in compagnia del [[archetypes/king\|Re]], essendo giusta la sua causa e onorevole la sua contesa. |
+| WILLIAMS | Questo è più di quanto sappiamo. |
+| BATES | Sì, o più di quanto dovremmo cercare. Ché sappiamo abbastanza se sappiamo d’essere sudditi del [[archetypes/king\|Re]]. Se la sua causa è ingiusta, la nostra obbedienza al [[archetypes/king\|Re]] cancella da noi il delitto. |
+| WILLIAMS | Ma se la causa non è buona, il [[archetypes/king\|Re]] stesso ha un pesante conto da rendere, quando tutte quelle gambe e braccia e teste mozzate in battaglia si riuniranno insieme all’ultimo giorno, e grideranno tutte: ‘Siamo morti in tal luogo’—alcuni bestemmiando, alcuni gridando per un chirurgo, alcuni per le mogli lasciate povere dietro di loro, alcuni per i debiti che devono, alcuni per i figli lasciati acerbi. Temo che pochi muoiano [[motifs/well\|bene]] fra quanti muoiono in battaglia, ché come possono disporre caritatevolmente di qualcosa, quando il [[motifs/blood\|sangue]] è il loro argomento? Ora, se questi uomini non muoiono [[motifs/well\|bene]], sarà nera faccenda per il [[archetypes/king\|Re]] che ve li condusse—al quale disobbedire sarebbe contro ogni proporzione di sudditanza. |
+| [[archetypes/king\|RE]] HARRY | Così, se un figlio mandato da suo padre per traffici perisse peccaminosamente sul mare, l’imputazione della sua malvagità, secondo la vostra regola, dovrebbe essere imposta al padre che lo mandò. O se un servo, trasportando per comando del suo padrone una somma di denaro, fosse assalito da ladroni e morisse in molte iniquità non riconciliate, potreste chiamare l’affare del padrone l’autore della dannazione del servo. Ma non è così. Il [[archetypes/king\|Re]] non è tenuto a rispondere delle fini particolari dei suoi soldati, né il padre di quella del figlio, né il padrone di quella del servo, ché essi non si propongono la loro morte quando propongono i loro servigi. Inoltre, non v’è [[archetypes/king\|re]], per immacolata che sia la sua causa, che, se si viene all’arbitrato delle spade, possa deciderla con soldati tutti immacolati. Alcuni, per avventura, hanno su di sé la [[concepts/guilt\|colpa]] d’un omicidio premeditato e macchinato; alcuni d’aver ingannato vergini coi sigilli infranti dello spergiuro; alcuni, che fanno delle guerre il loro baluardo, avevano prima squarciato il gentile seno della pace col saccheggio e la rapina. Ora, se questi uomini hanno eluso la legge e sfuggito al castigo nativo, benché possano correre più veloci degli uomini, non hanno ali per fuggire da Dio. La guerra è il suo messo. La guerra è la sua vendetta. Sicché qui gli uomini sono puniti per la precedente violazione delle leggi del [[archetypes/king\|Re]], nell’attuale contesa del [[archetypes/king\|Re]]. Là dove temettero la [[motifs/death\|morte]], hanno portato via la vita; e là dove vorrebbero essere salvi, periscono. Se dunque muoiono impreparati, il [[archetypes/king\|Re]] non è più colpevole della loro dannazione di quanto fosse prima colpevole di quelle empietà per le quali ora sono visitati. Il dovere d’ogni suddito è del [[archetypes/king\|Re]], ma l’[[motifs/soul\|anima]] d’ogni suddito è sua propria. Perciò ogni soldato in guerra dovrebbe fare come ogni malato nel suo letto: lavar via ogni bruscolo dalla sua [[concepts/conscience\|coscienza]]. E morendo così, la [[motifs/death\|morte]] è per lui un vantaggio; o non morendo, fu beatamente perduto il [[motifs/time\|tempo]] in cui si guadagnò tale preparazione. E in colui che scampa, non sarebbe peccato pensare che, avendo fatto a Dio un’offerta così libera, Egli l’abbia lasciato sopravvivere a quel giorno per vedere la sua [[concepts/greatness\|grandezza]] e per insegnare agli altri come debbano prepararsi. |
+| *(didascalia)* | BATES È certo, ogni uomo che muore male, il male ricada sul suo proprio capo. Il [[archetypes/king\|Re]] non ne deve rispondere. Non [[motifs/desire\|desidero]] che risponda per me, eppure son deciso a battermi gagliardamente per lui. |
+| [[archetypes/king\|RE]] HARRY | Io stesso ho udito il [[archetypes/king\|Re]] dire che non si lascerà riscattare. |
+| WILLIAMS | Sì, l’ha detto per farci combattere allegramente, ma quando le nostre gole saranno tagliate potrà farsi riscattare, e noi non ne sapremo nulla. |
+| [[archetypes/king\|RE]] HARRY | Se vivrò per vederlo, non mi fiderò mai più della sua parola. |
+| WILLIAMS | Bel modo di fargliela pagare! È un tiro pericoloso da uno schioppetto di sambuco, quello che un povero e privato dispiacere può fare contro un monarca. Potreste altrettanto [[motifs/well\|bene]] tentare di mutare il sole in ghiaccio sventolandogli in faccia una penna di pavone. Non vi fiderete mai più della sua parola! Suvvia, è un detto sciocco. |
+| [[archetypes/king\|RE]] HARRY | Il vostro rimprovero è alquanto troppo rude. Dovrei adirarmi con voi, se il [[motifs/time\|tempo]] fosse opportuno. |
+| WILLIAMS | Sia una contesa fra noi, se vivete. |
+| [[archetypes/king\|RE]] HARRY | L’accolgo. |
+| WILLIAM | Come ti riconoscerò di nuovo? |
+| [[archetypes/king\|RE]] HARRY | Dammi un tuo pegno qualunque, e lo porterò nel mio berretto. Poi, se mai oserai riconoscerlo, ne farò la mia contesa. |
+| WILLIAMS | Ecco il mio guanto. Dammene un altro del tuo. |
+| [[archetypes/king\|RE]] HARRY | Ecco. Si scambiano i guanti |
+| WILLIAM | Anch’io porterò questo nel mio berretto. Se mai vieni da me e dici, dopo domani, ‘Questo è il mio guanto’, per questa mano ti darò un ceffone. |
+| [[archetypes/king\|RE]] HARRY | Se mai vivrò per vederlo, lo rivendicherò. |
+| WILLIAM | Tanto varrebbe [[motifs/well\|bene]] che tu osassi farti impiccare. |
+| [[archetypes/king\|RE]] HARRY | [[motifs/well\|Ebbene]], lo farò, anche se ti trovassi in compagnia del [[archetypes/king\|Re]]. |
+| WILLIAMS | Mantieni la parola. Sta’ [[motifs/well\|bene]]. |
+| BATES | Fate pace, sciocchi Inglesi, fate pace. Abbiamo contese francesi abbastanza, se sapeste far di conto. |
+| [[archetypes/king\|RE]] HARRY | Davvero, i Francesi possono scommettere venti corone francesi contro una che ci batteranno, ché le portano sulle spalle. Ma non è tradimento inglese tosare corone francesi, e domani il [[archetypes/king\|Re]] stesso sarà un tosatore. Escono i soldati Sul [[archetypes/king\|Re]]. ‘Le nostre vite, le nostre anime, i nostri debiti, le nostre mogli piene d’affanno, i nostri figli e i nostri peccati, tutto poniamo sul [[archetypes/king\|Re]].’ Noi dobbiamo portare tutto. O dura condizione, gemella della [[concepts/greatness\|grandezza]]: soggetta al fiato d’ogni [[archetypes/fool\|sciocco]], il cui senso non può sentire altro che il proprio tormento. Quale infinita quiete del cuore devono i re trascurare, che gli uomini privati godono? E che hanno i re, che non abbiano anche i privati, salvo la cerimonia, salvo la generale cerimonia? E che sei tu, tu idolo cerimonia? Che sorta di dio sei tu, che soffri più dolori mortali dei tuoi adoratori? Quali sono le tue rendite? Quali i tuoi proventi? O cerimonia, mostrami soltanto il tuo valore. Qual è l’[[motifs/soul\|anima]] della tua adorazione? Sei tu altro che luogo, grado e forma, che generi soggezione e [[concepts/fear\|paura]] negli altri uomini? E in ciò sei meno felice, essendo temuta, di quanto lo siano essi nel temere. Che bevi tu spesso, invece di dolce omaggio, se non avvelenata adulazione? Oh, ammalati, gran [[concepts/greatness\|grandezza]], e ordina alla tua cerimonia di guarirti. Credi tu che la febbre ardente si spegnerà con titoli soffiati dall’adulazione? Cederà essa alle riverenze e ai bassi inchini? Puoi tu, quando comandi il ginocchio del mendicante, comandarne la salute? No, tu sogno superbo che giochi così sottilmente col riposo d’un [[archetypes/king\|re]]; io sono un [[archetypes/king\|re]] che ti scopre, e so che non è il balsamo, lo scettro, il globo, la spada, la mazza, la [[motifs/crown\|corona]] imperiale, la veste intessuta d’oro e di perle, il gonfio titolo che corre innanzi al [[archetypes/king\|re]], il trono su cui siede, né la marea di pompa che batte sull’alta riva di questo mondo—no, non tutte queste cose, tre volte fastosa cerimonia, non tutte queste, poste in letto maestoso, possono [[motifs/sleep\|dormire]] così profondamente come il misero schiavo che, col [[concepts/body\|corpo]] pieno e la mente vuota, si mette a riposare, rimpinzato di pane affannoso; mai vede l’orrida [[motifs/night\|notte]], [[archetypes/child\|figlia]] dell’inferno, ma come un lacchè dal sorgere al tramonto suda nell’occhio di Febo, e tutta la [[motifs/night\|notte]] dorme nell’Eliso; il giorno dopo, all’[[motifs/dawn\|alba]], si leva e aiuta [[characters/hyperion\|Iperione]] a montare il suo [[motifs/horse\|cavallo]], e così segue l’anno che sempre corre con fruttuosa fatica fino alla sua [[motifs/grave\|tomba]]. E se non fosse per la cerimonia, un tale sciagurato, avvolgendo i giorni nel travaglio e le notti nel [[motifs/sleep\|sonno]], avrebbe il vantaggio e la precedenza su un [[archetypes/king\|re]]. Lo schiavo, membro della pace del paese, ne gode, ma nel suo grosso cervello poco sa quale veglia il [[archetypes/king\|Re]] mantenga per conservare quella pace, delle cui ore il contadino trae il maggior profitto. Entra Sir Thomas Erpingham |
+| ERPINGHAM | Mio signore, i vostri nobili, inquieti per la vostra assenza,<br>vi cercano per tutto il campo. |
+| [[archetypes/king\|RE]] HARRY | Buon vecchio cavaliere,<br>radunateli tutti alla mia tenda.<br>Vi sarò prima di te. |
+| ERPINGHAM | Lo farò, mio signore. Esce |
+| [[archetypes/king\|RE]] HARRY | O Dio delle battaglie, tempra i cuori dei miei soldati.<br>Non riempirli di [[concepts/fear\|paura]]. Togli loro ora<br>il senso del contare, prima che i numeri avversi<br>strappino loro il cuore. Non oggi, o Signore,<br>oh, non oggi, non pensare alla colpa<br>che mio padre commise nel conquistare la [[motifs/crown\|corona]].<br>Io ho sepolto di nuovo il [[concepts/body\|corpo]] di [[characters/richard\|Riccardo]],<br>e su di esso ho versato più [[motifs/tears\|lacrime]] contrite<br>di quante gocce di [[motifs/blood\|sangue]] forzate ne uscirono.<br>Cinquecento poveri ho a paga annuale<br>che due volte al giorno levano le mani avvizzite<br>verso il cielo perché sia perdonato il [[motifs/blood\|sangue]]. E ho costruito<br>due cappellanie, dove tristi e solenni sacerdoti<br>cantano ancora per l’[[motifs/soul\|anima]] di [[characters/richard\|Riccardo]]. Più farò,<br>benché tutto ciò che posso fare non valga nulla,<br>poiché la mia penitenza viene dopo il male,<br>implorando perdono. |
+| *(didascalia)* | Entra il [[characters/duke-of-gloucester\|Duca di Gloucester]] |
+| [[characters/gloucester\|GLOUCESTER]] | Mio sovrano. |
+| [[archetypes/king\|RE]] HARRY | La voce di mio fratello [[characters/gloucester\|Gloucester]]? Sì.<br>Conosco la tua missione, verrò con te.<br>Il giorno, amici miei, e ogni cosa mi attendono. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Duchi di Borbone e Orléans, e Lord |
+| *(didascalia)* | Rambures<br>ORLÉANS Il sole indora la nostra armatura. Su, miei signori! |
+| *(didascalia)* | BOURBONMonte cheval! Il mio [[motifs/horse\|cavallo]]! Varlet, lacquais! Ah! |
+| *(didascalia)* | ORLÉANS Oh, spirito valoroso! |
+| *(didascalia)* | BOURBON Via les eaux et terre! |
+| *(didascalia)* | ORLÉANS Rien plus? L’air et feu! |
+| *(didascalia)* | BOURBON Cieux, cousin Orléans! |
+| *(didascalia)* | Entra il Conestabile |
+| *(didascalia)* | Ora, mio Lord Conestabile! |
+| CONESTABILE | Udite come i nostri destrieri nitriscono per il servizio imminente. |
+| *(didascalia)* | BOURBON |
+| CONESTABILE | Montateli e fate incisione nelle loro pelli,<br>sì che il loro caldo [[motifs/blood\|sangue]] schizzi negli occhi inglesi<br>e li spenga con [[concepts/courage\|coraggio]] superfluo. Ah! |
+| RAMBURES | Come, volete farli piangere il [[motifs/blood\|sangue]] dei nostri cavalli?<br>Come vedremo allora le loro [[motifs/tears\|lacrime]] naturali? |
+| *(didascalia)* | Entra un Messaggero |
+| MESSAGGERO | Gli Inglesi sono schierati, voi pari di Francia. |
+| CONESTABILE | A [[motifs/horse\|cavallo]], gagliardi principi, subito a [[motifs/horse\|cavallo]]!<br>Non dovete che mirare quella povera e affamata schiera,<br>e la vostra bella apparenza succhierà via le loro anime,<br>lasciando loro solo i gusci e le bucce d’uomini.<br>Non v’è lavoro bastante per tutte le nostre mani,<br>appena [[motifs/blood\|sangue]] bastante in tutte le loro vene malate<br>per dare a ogni nuda scure una macchia<br>che i nostri gagliardi francesi trarranno oggi<br>e rinfodereranno per mancanza di sollazzo. Non dobbiamo che soffiare su<br>di loro,<br>e il vapore del nostro valore li rovescerà.<br>È certo, contro ogni eccezione, signori,<br>che i nostri lacchè superflui e i nostri contadini,<br>che in azione non necessaria brulicano<br>attorno ai nostri quadrati di battaglia, basterebbero<br>a purgare questo campo di sì spregevole nemico,<br>anche se noi, alla base di questo monte qui presso,<br>prendessimo posto per oziosa contemplazione;<br>senonché i nostri onori non lo permettono. Che c’è da dire?<br>Facciamo un pochino, un pochino appena,<br>e tutto è fatto. Suonino dunque le trombe<br>il segnale a raccolta e la nota di montare,<br>ché il nostro avvicinarsi sfiderà tanto il campo<br>che l’Inghilterra si accuccerà nella [[concepts/fear\|paura]] e cederà. |
+| *(didascalia)* | Entra Lord Grandpré |
+| CONESTABILE | GRANDPRÉ<br>Perché indugiate tanto, miei signori di Francia?<br>Quelle carogne d’isola, disperate delle proprie ossa,<br>malamente si addicono al campo mattutino.<br>Le loro cortine lacere son lasciate cadere miseramente<br>e la nostra aria le scuote oltremodo sprezzante.<br>Il gran Marte pare fallito nella loro schiera mendica<br>e fiocamente sbircia da una visiera arrugginita.<br>I cavalieri siedono come candelabri fissi<br>con aste di torcia in mano, e le loro povere rozze<br>ciondolano le teste, spiovendo le pelli e le anche,<br>la cispa colando dai loro pallidi occhi morti,<br>e nelle loro smorte bocche spente il morso snodato<br>giace sozzo d’erba masticata, fermo e immobile.<br>E i loro esecutori, i corvi furfanti,<br>volano su tutti loro impazienti dell’ora.<br>La descrizione non sa vestirsi di parole<br>per mostrare la vita d’una tal battaglia<br>in vita così esanime come essa si mostra. |
+| CONESTABILE | Hanno detto le loro preghiere, e attendono la [[motifs/death\|morte]]. |
+| *(didascalia)* | BOURBON |
+| CONESTABILE | Andremo a mandar loro pranzi e vesti fresche<br>e a dare foraggio ai loro cavalli digiuni,<br>e poi a combatterli? |
+| CONESTABILE | Non attendo che il mio guidone. Al campo!<br>Prenderò il vessillo da una tromba<br>e me ne servirò per la mia fretta. Su, su, via!<br>Il sole è alto, e noi consumiamo il giorno. Escono |
+
+### Atto 4, Scena 3
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Duchi di [[characters/gloucester\|Gloucester]], [[characters/clarence\|Clarence]] ed Exeter, i Conti di Salisbury e di Warwick, e Sir Thomas Erpingham, con tutta la schiera |
+| [[characters/gloucester\|GLOUCESTER]] | Dov’è il [[archetypes/king\|Re]]? |
+| *(didascalia)* | [[characters/clarence\|CLARENCE]] |
+| [[characters/gloucester\|GLOUCESTER]] | Il [[archetypes/king\|Re]] stesso è andato a cavallo a osservare il loro schieramento.<br>[WARWICK]<br>Di uomini d’arme ne hanno ben sessantamila. |
+| EXETER | Sono cinque contro uno. E per giunta son tutti freschi. |
+| SALISBURY | Il braccio di Dio colpisca con noi! È una sorte spaventosa.<br>Dio sia con voi, principi tutti. Io vado al mio posto.<br>Se non ci incontriamo più finché non ci incontriamo in cielo,<br>allora lietamente, mio nobile Lord di [[characters/clarence\|Clarence]],<br>mio caro Lord [[characters/gloucester\|Gloucester]], e mio buon Lord Exeter,<br>e (a Warwick) mio gentile congiunto, guerrieri tutti,<br>addio. |
+| *(didascalia)* | [[characters/clarence\|CLARENCE]] |
+| SALISBURY | Addio, buon Salisbury, e la buona fortuna vada con te. |
+| EXETER | Addio, gentile signore. Combatti valorosamente oggi—<br>eppure ti faccio torto a rammentartelo,<br>ché sei plasmato della salda [[concepts/truth\|verità]] del valore. |
+| *(didascalia)* | Esce Salisbury |
+| *(didascalia)* | [[characters/clarence\|CLARENCE]] |
+| EXETER | Egli è tanto pieno di valore quanto di gentilezza,<br>principesco in entrambi. |
+| *(didascalia)* | Entra [[archetypes/king\|Re]] Harry, in disparte |
+| *(didascalia)* | WARWICK |
+| EXETER | Oh, avessimo ora qui<br>anche solo diecimila di quegli uomini in Inghilterra<br>che oggi non fanno nulla. |
+| [[archetypes/king\|RE]] HARRY | Chi è colui che così desidera?<br>Mio cugino Warwick? No, mio bel cugino.<br>Se siamo segnati per morire, siamo abbastanza<br>a far perdita al nostro paese; e se per vivere,<br>meno uomini siamo, maggiore la parte d’[[concepts/honour\|onore]].<br>Per la volontà di Dio, ti prego, non desiderare un uomo di più.<br>Per Giove, non sono avido d’oro,<br>né mi cale chi si nutra a mie spese;<br>non mi affligge se gli uomini portano le mie vesti;<br>tali cose esteriori non albergano nei miei desideri.<br>Ma se è peccato bramare l’[[concepts/honour\|onore]],<br>io sono l’[[motifs/soul\|anima]] più colpevole che viva.<br>No, in [[concepts/faith\|fede]], cugino mio, non desiderare un uomo dall’Inghilterra.<br>Per la pace di Dio, non vorrei perdere un [[concepts/honour\|onore]] così grande<br>quanto un uomo di più, credo, mi toglierebbe,<br>per la migliore [[concepts/hope\|speranza]] che ho. Oh, non desiderarne uno di più.<br>Piuttosto proclamalo subito per la mia schiera<br>che chi non ha stomaco per questa battaglia<br>se ne parta. Gli sarà fatto il salvacondotto<br>e corone per il viaggio messe nella sua borsa.<br>Non vorremmo morire in compagnia di quell’uomo<br>che teme il nostro sodalizio nel morire con noi.<br>Questo giorno si chiama la Festa di Crispiano.<br>Chi sopravvive a questo giorno e torna salvo a [[motifs/home\|casa]]<br>si drizzerà in punta di piedi quando questo giorno sarà nominato<br>e si desterà al nome di Crispiano.<br>Chi vedrà questo giorno e vivrà fino a vecchiaia<br>ogni anno alla vigilia banchetterà coi vicini<br>e dirà: ‘Domani è San Crispiano.’<br>Poi si rimboccherà la manica e mostrerà le sue cicatrici<br>e dirà: ‘Queste ferite le ebbi il giorno di Crispino.’<br>I vecchi dimenticano; e tutto sarà dimenticato,<br>ma egli ricorderà, con vantaggi,<br>quali imprese fece quel giorno. Allora i nostri nomi,<br>familiari sulla sua bocca come parole di casa—<br>Harry il [[archetypes/king\|Re]], Bedford ed Exeter,<br>Warwick e Talbot, Salisbury e [[characters/gloucester\|Gloucester]]—<br>saranno freschi ricordati nelle loro coppe traboccanti.<br>Questa storia il buon uomo insegnerà a suo figlio,<br>e Crispino Crispiano non passerà mai<br>da questo giorno fino alla fine del mondo<br>senza che noi in esso siamo ricordati,<br>noi pochi, noi felici pochi, noi schiera di fratelli.<br>Ché chi oggi versa il suo [[motifs/blood\|sangue]] con me<br>sarà mio fratello; per vile che egli sia,<br>questo giorno nobiliterà la sua condizione.<br>E i gentiluomini in Inghilterra ora a letto<br>si crederanno maledetti di non essere stati qui,<br>e terranno a vile la loro virilità mentre parla chiunque<br>abbia combattuto con noi il giorno di San Crispino. |
+| *(didascalia)* | Entra il [[characters/earl-of-salisbury\|Conte di Salisbury]] |
+| SALISBURY | Mio sovrano signore, disponetevi con [[characters/speed\|prestezza]].<br>I Francesi sono schierati bravamente in ordine di battaglia<br>e con ogni sollecitudine caricheranno su di noi. |
+| [[archetypes/king\|RE]] HARRY | Ogni cosa è pronta, se le nostre menti lo sono. |
+| *(didascalia)* | WARWICK Perisca l’uomo la cui mente ora indietreggia. |
+| [[archetypes/king\|RE]] HARRY | Non desideri più aiuto dall’Inghilterra, cugino? |
+| *(didascalia)* | WARWICK |
+| [[archetypes/king\|RE]] HARRY | Per la volontà di Dio, mio sovrano, potessimo voi e io soli,<br>senz’altro aiuto, combattere questa regale battaglia. |
+| [[archetypes/king\|RE]] HARRY | Ecco che ora hai disdetto cinquemila uomini,<br>il che mi piace più che desiderarcene uno.—<br>Conoscete i vostri posti. Dio sia con voi tutti. |
+| *(didascalia)* | Squillo di tromba. Entra Montjoy |
+| MONTJOY | Ancora una volta vengo a sapere da te, [[archetypes/king\|Re]] Harry,<br>se per il tuo riscatto vorrai ora patteggiare<br>prima della tua rovina assicuratissima.<br>Ché certamente sei così vicino al gorgo<br>che devi per forza esserne inghiottito. Inoltre, per [[concepts/mercy\|misericordia]]<br>il Conestabile ti prega che tu voglia rammentare<br>ai tuoi seguaci il pentimento, affinché le loro anime<br>possano fare una pacifica e dolce ritirata<br>da questi campi dove, sciagurati, i loro poveri<br>corpi<br>dovranno giacere e imputridire. |
+| [[archetypes/king\|RE]] HARRY | Chi ti ha mandato ora? |
+| MONTJOY | Il Conestabile di Francia. |
+| [[archetypes/king\|RE]] HARRY | Ti prego, riporta indietro la mia prima risposta.<br>Di’ loro che mi conquistino, e poi vendano le mie ossa.<br>Buon Dio, perché dovrebbero così schernire poveri diavoli?<br>L’uomo che una volta vendette la pelle del [[motifs/lion\|leone]]<br>mentre la bestia viveva, fu ucciso mentre la cacciava. 95<br>Molti dei nostri corpi senza [[concepts/doubt\|dubbio]]<br>troveranno tombe native, sulle quali, confido,<br>vivrà testimonianza in bronzo dell’opera di questo giorno.<br>E quelli che lasciano le loro valorose ossa in Francia,<br>morendo da uomini, benché sepolti nei vostri letamai<br>saranno famosi. Ché là il sole li saluterà<br>e trarrà i loro onori fumanti fino al cielo,<br>lasciando le loro parti terrene a soffocare il vostro clima,<br>il cui odore genererà una peste in Francia.<br>Notate dunque il valore sovrabbondante nei nostri Inglesi,<br>che, essendo morti, come le pallottole di rimbalzo<br>prorompono in un secondo corso di danno,<br>uccidendo in ricaduta di [[concepts/mortality\|mortalità]].<br>Lasciate ch’io parli con fierezza. Dite al Conestabile<br>che noi non siamo che guerrieri da giorno di lavoro.<br>La nostra galanteria e la nostra doratura sono tutte imbrattate<br>dal marciare sotto la pioggia nel campo penoso.<br>Non v’è un pezzo di piuma nella nostra schiera—<br>buon argomento, [[concepts/hope\|spero]], che non fuggiremo—<br>e il [[motifs/time\|tempo]] ci ha logorati nella trascuratezza.<br>Ma per la messa, i nostri cuori sono in assetto.<br>E i miei poveri soldati mi dicono che, prima di [[motifs/night\|notte]],<br>saranno in vesti più fresche, ché strapperanno<br>le allegre casacche nuove dalle teste dei vostri soldati francesi,<br>e li cacceranno di servizio. Se faranno questo—<br>e se a Dio piace, lo faranno—il mio riscatto allora<br>sarà presto riscosso. Araldo, risparmia la tua fatica.<br>Non venire più per il riscatto, gentile araldo.<br>Non ne avranno alcuno, lo giuro, se non queste mie membra—<br>le quali, se le avranno come io intendo lasciargliele,<br>renderanno loro ben poco. Dillo al Conestabile. |
+| MONTJOY | Lo farò, [[archetypes/king\|Re]] Harry. E così sta’ [[motifs/well\|bene]].<br>Non udrai mai più un araldo. |
+| [[archetypes/king\|RE]] HARRY | [[concepts/fear\|Temo]] che verrai ancora una volta per un riscatto. |
+| *(didascalia)* | Esce Montjoy |
+| *(didascalia)* | Entra il [[characters/duke-of-york\|Duca di York]] |
+| YORK | Mio signore, umilissimamente in ginocchio vi chiedo<br>il comando dell’avanguardia. |
+| [[archetypes/king\|RE]] HARRY | Prendilo, prode York.—Ora soldati, marciate via,<br>e come ti piace, o Dio, disponi del giorno. Escono |
+
+### Atto 4, Scena 4
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme. Scaramucce. Entrano [[characters/pistol\|Pistola]], un soldato francese e il Ragazzo |
+| [[characters/pistol\|PISTOLA]] | Arrenditi, cane. |
+| SOLDATO FRANCESE | je pense que vous êtes le gentilhomme de bon qualité. |
+| [[characters/pistol\|PISTOLA]] | Qualité? ‘Calin o custure me!’<br><br>Sei tu un gentiluomo? Qual è il tuo nome? Esponi. |
+| SOLDATO FRANCESE | O Seigneur Dieu! |
+| *(didascalia)* | [[characters/pistol\|PISTOLA]] a parte |
+| SOLDATO FRANCESE | O Seigneur Dew dev’essere un gentiluomo.—<br>Pondera le mie parole, o Seigneur Dew, e nota:<br>o Seigneur Dew, tu muori, sulla punta della lama,<br>a meno che, o Seigneur, tu non mi dia<br>egregio riscatto. |
+| SOLDATO FRANCESE | O prenez miséricorde! Ayez pitie de moi! |
+| [[characters/pistol\|PISTOLA]] | ‘Moy’ non basterà, ne voglio quaranta di ‘moys’,<br>o ti tirerò fuori le budella dalla gola<br>in gocce di [[motifs/blood\|sangue]] cremisi. |
+| SOLDATO FRANCESE | Est-il impossible d’échapper la force de ton bras? |
+| [[characters/pistol\|PISTOLA]] | Ottone, cane? Tu dannato e lussurioso capro di<br>montagna,<br>mi offri ottone? |
+| SOLDATO FRANCESE | O pardonne-moi! |
+| [[characters/pistol\|PISTOLA]] | Così mi dici? È quella una tonnellata di moys?—<br>Vieni qua, ragazzo. Chiedi a questo schiavo in francese<br>qual è il suo nome. |
+| RAGAZZO | Écoutez: comment êtes-vous appelé? |
+| SOLDATO FRANCESE | Monsieur le Fer. |
+| RAGAZZO | Dice che il suo nome è Messer Fer. |
+| [[characters/pistol\|PISTOLA]] | Messer Fer? Io lo ferrerò, e lo frusterò, e lo furetterò.<br>Espongli lo stesso in francese. |
+| RAGAZZO | Non so come si dica in francese ferrare e furettare e frustare. |
+| [[characters/pistol\|PISTOLA]] | Digli di prepararsi, ché gli taglierò la gola. |
+| SOLDATO FRANCESE | Que dit-il, monsieur? |
+| RAGAZZO | Il me commande à vous dire que vous faites vous prêt, car ce soldat ici est dispose tout à cette heure de couper votre gorge. 35 |
+| [[characters/pistol\|PISTOLA]] | Oui, couper la gorge, par ma foi,<br><br>Villano, a meno che tu non mi dia corone, belle corone;<br>o sarai fatto a pezzi da questa mia spada. |
+| SOLDATO FRANCESE | O je vous supplie, pour l’amour de Dieu, me pardonner. Je suis le gentilhomme de bonne maison. Gardez ma vie, et je vous donnerai deux cents écus. |
+| [[characters/pistol\|PISTOLA]] | Quali sono le sue parole? |
+| RAGAZZO | Vi prega di salvargli la vita. È un gentiluomo di buona casata, e per il suo riscatto vi darà duecento corone. |
+| [[characters/pistol\|PISTOLA]] | Digli che la mia furia si placherà, e le corone prenderò. |
+| SOLDATO FRANCESE | Petit monsieur, que dit-il? |
+| RAGAZZO | Encore qu’il est centre son jurement de pardonner aucun prisonnier; neanmoins, pour les ecus que vous lui ci promettez, il est content à vous donner la liberté, le franchisement. |
+| SOLDATO FRANCESE | (inginocchiandosi davanti a [[characters/pistol\|Pistola]]) Sur mes genoux je vous donne mille remerciements, et je m‘estime heureux que j’ai tombe entre les mains d‘un chevalier, comme je pense, le plus brave, vaillant, et treis-distingué seigneur d’Angleterre. [[characters/pistol\|PISTOLA]] Spiegami, ragazzo. |
+| RAGAZZO | Vi dà in ginocchio mille ringraziamenti, e si stima felice d’essere caduto nelle mani di uno che, come egli pensa, è il più prode, valoroso e tre volte degno signore d’Inghilterra. |
+| [[characters/pistol\|PISTOLA]] | Com’è vero che succhio [[motifs/blood\|sangue]], mostrerò un po’ di [[concepts/mercy\|misericordia]].<br>Seguimi. |
+| RAGAZZO | Suivez-vous le grand capitaine. |
+| *(didascalia)* | Escono [[characters/pistol\|Pistola]] e il Soldato Francese |
+| RAGAZZO | Non ho mai conosciuto voce così piena uscire da un cuore così<br>vuoto. Ma il detto è vero: ‘Il vaso vuoto fa<br>il maggior suono.’ Bardolph e Nim avevano dieci volte<br>più valore di questo diavolo ruggente della vecchia commedia, a cui<br>chiunque può tagliare le unghie con un pugnale di legno,<br>e sono stati impiccati entrambi, e così sarebbe di costui, se<br>osasse rubare qualcosa avventurosamente. Devo restare coi<br>lacchè col bagaglio del nostro campo. I Francesi<br>potrebbero fare buona preda di noi, se lo sapessero, ché non<br>c’è nessuno a guardarlo se non ragazzi. Esce |
+
+### Atto 4, Scena 5
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Conestabile, i Duchi di |
+| *(didascalia)* | Orléans e di Borbone, e Lord Rambures |
+| CONESTABILE | O diable!<br>ORLÉANS O Seigneur! Le jour est perdu, tout est perdu! |
+| *(didascalia)* | BOURBON |
+| CONESTABILE | Mort de ma vie! Tutto è perduto, tutto.<br>Il rimprovero e la vergogna eterna<br>siedono a schernirci fra i nostri pennacchi.<br>Un breve allarme<br>O mechante fortune!– (A Rambures) Non fuggite. |
+| *(didascalia)* | ORLÉANS |
+| CONESTABILE | Siamo ancora abbastanza vivi sul campo<br>da soffocare gli Inglesi nelle nostre calche,<br>se si potesse pensare a qualche ordine. |
+| BOURBON | Il diavolo si porti l’ordine. Ancora una volta indietro!<br>E chi non vorrà seguire Borbone adesso,<br>se ne vada a [[motifs/home\|casa]], e col berretto in mano<br>come un vile ruffiano tenga la porta della camera<br>mentre da uno schiavo non più gentile del mio cane<br>la sua più bella figlia è contaminata. |
+| CONESTABILE | Il disordine che ci ha rovinati ci sia ora amico.<br>Andiamo a mucchi a offrire le nostre vite. |
+| BOURBON | Io vado nella calca.<br>Sia breve la vita, o troppo lunga sarà la vergogna. Escono |
+
+### Atto 4, Scena 6
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Allarme. Entrano [[archetypes/king\|Re]] Harry e il suo seguito, con prigionieri |
+| [[archetypes/king\|RE]] HARRY | [[motifs/well\|Bene]] abbiamo operato, tre volte valorosi compatrioti.<br>Ma non tutto è finito; i Francesi tengono ancora il campo.<br>[Entra il [[characters/duke-of-exeter\|Duca di Exeter]]] |
+| EXETER | Il [[characters/duke-of-york\|Duca di York]] si raccomanda a vostra maestà. |
+| [[archetypes/king\|RE]] HARRY | Vive egli, buon zio? Tre volte entro quest’ora<br>l’ho visto a terra, tre volte rialzarsi e combattere.<br>Dall’elmo allo sprone, era tutto [[motifs/blood\|sangue]]. |
+| EXETER | In tale assetto, prode soldato, egli giace,<br>ingrassando la piana. E al suo fianco insanguinato,<br>compagno di giogo alle sue ferite portatrici d’[[concepts/honour\|onore]],<br>giace pure il nobile [[characters/earl-of-suffolk\|Conte di Suffolk]].<br>Suffolk morì per primo, e York, tutto squarciato,<br>gli va vicino, là dove nel sangue giaceva immerso,<br>e lo prende per la barba, bacia gli squarci<br>che sanguinosi si aprivano sul suo volto,<br>e grida forte: ‘Attendi, caro cugino Suffolk.<br>La mia [[motifs/soul\|anima]] terrà compagnia alla tua verso il cielo.<br>Attendi, dolce [[motifs/soul\|anima]], la mia, e poi voliamo appaiati,<br>come in questo glorioso campo [[motifs/well\|ben]] combattuto<br>restammo uniti nella nostra cavalleria.’<br>A queste parole io venni e lo confortai.<br>Mi sorrise in viso, mi porse la mano,<br>e con debole stretta dice: ‘Caro mio signore,<br>raccomanda il mio servigio al mio sovrano.’<br>Così si volse, e sul collo di Suffolk<br>gettò il braccio ferito, e ne baciò le labbra,<br>e così sposato alla [[motifs/death\|morte]], col [[motifs/blood\|sangue]] suggellò<br>un testamento d’[[motifs/love\|amore]] che nobilmente finisce.<br>La bella e dolce maniera di ciò trasse<br>da me quelle acque che avrei voluto trattenere.<br>Ma non avevo tanto d’uomo in me,<br>e tutta mia madre mi venne agli occhi<br>e mi consegnò alle [[motifs/tears\|lacrime]]. |
+| [[archetypes/king\|RE]] HARRY | Non vi biasimo,<br>ché udendo questo devo per forza patteggiare<br>con occhi appannati, o anch’essi trabocceranno. |
+| *(didascalia)* | Allarme |
+| [[archetypes/king\|RE]] HARRY | Ma udite, che nuovo allarme è mai questo?<br>I Francesi hanno rinforzato i loro uomini sbandati.<br>Ogni soldato dunque uccida i suoi prigionieri.<br>[I soldati uccidono i loro prigionieri]<br>Passate l’ordine. |
+| *(didascalia)* | [[characters/pistol\|PISTOLA]] Coup’ la gorge. |
+| *(didascalia)* | Escono |
+
+### Atto 4, Scena 7
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano i Capitani [[characters/fluellen\|Fluellen]] e [[characters/gower\|Gower]] |
+| [[characters/fluellen\|FLUELLEN]] | Uccidere i racazzi e il bagaglio! È espressamente contro la lecce delle armi. È una porcheria patente, notate ora, quanto se ne possa offrire. Nella vostra [[concepts/conscience\|coscienza]], ora, non è così? |
+| [[characters/gower\|GOWER]] | È certo che non è rimasto un ragazzo vivo. E i vigliacchi furfanti che fuggirono dalla battaglia hanno fatto questa strage. Inoltre, hanno bruciato e portato via tutto quel che era nella tenda del [[archetypes/king\|Re]]; per la qual cosa il [[archetypes/king\|Re]] degnissimamente ha ordinato a ogni soldato di tagliare la gola al suo prigioniero. Oh, è un [[archetypes/king\|re]] gagliardo. |
+| [[characters/fluellen\|FLUELLEN]] | Sì, egli fu nato a Monmouth. Capitano [[characters/gower\|Gower]], come chiamate voi il nome della città dove nacque Alessandro il Porco? |
+| GLOWER | Alessandro il Grande. |
+| [[characters/fluellen\|FLUELLEN]] | Ebbene, di grazia, non è ‘porco’ grande? Il porco o il grande o il possente o l’enorme o il magnanimo sono tutti un solo conto, salvo che la frase è un pochino variazioni. |
+| [[characters/gower\|GOWER]] | Credo che Alessandro il Grande nascesse in Macedonia. Suo padre si chiamava Filippo di Macedonia, per quanto io sappia. |
+| [[characters/fluellen\|FLUELLEN]] | Credo che sia proprio la Macedonia dove Alessandro è nato. Vi dico, capitano, se guardate nelle mappe del mondo vi garantisco che troverete, nei confronti fra Macedonia e Monmouth, che le situazioni, vedete, sono entrambe simili. C’è un [[motifs/river\|fiume]] in Macedonia, e c’è anche inoltre un [[motifs/river\|fiume]] a Monmouth. È chiamato Wye a Monmouth, ma m’è uscito dalle cerfella qual è il nome dell’altro [[motifs/river\|fiume]]—ma è tutt’uno, è simile come le mie dita sono alle mie dita, e ci sono salmoni in entrambi. Se notate [[motifs/well\|bene]] la vita d’Alessandro, la vita di Harry di Monmouth le è venuta dietro discretamente [[motifs/well\|bene]]. Ché ci sono figure in tutte le cose. Alessandro, Dio lo sa, e voi lo sapete, nelle sue rabbie e nelle sue furie e nelle sue ire e nelle sue collere e nei suoi umori e nei suoi dispiaceri e nelle sue indignazioni, ed essendo anche un poco intossicato nelle cerfella, fece nelle sue birre e nelle sue collere, vedete, uccidere il suo migliore amico Clito— |
+| [[characters/gower\|GOWER]] | Il nostro [[archetypes/king\|Re]] non gli somiglia in questo. Non ha mai ucciso nessuno dei suoi amici. |
+| [[characters/fluellen\|FLUELLEN]] | Non è [[motifs/well\|ben]] fatto, notate ora, togliere i racconti dalla mia bocca prima che sia condotto a termine e finito. Io parlo solo nelle figure e nei confronti della cosa. Come Alessandro uccise il suo amico Clito, essendo nelle sue birre e nelle sue coppe, così anche Harry Monmouth, essendo nel suo retto senno e nei suoi buoni giudizi, cacciò via il grasso cavaliere col farsetto dal gran ventre—era pieno di facezie e di frizzi e di furfanterie e di scherni—ho scordato il suo nome. |
+| [[characters/gower\|GOWER]] | Sir John [[characters/falstaff\|Falstaff]]. |
+| [[characters/fluellen\|FLUELLEN]] | Quello è lui. Vi dico, ci sono buoni uomini nati a Monmouth. |
+| [[characters/gower\|GOWER]] | Ecco che viene sua maestà. |
+| *(didascalia)* | Allarme. Entrano [[archetypes/king\|Re]] Harry e l’esercito inglese, col Duca di Borbone, il Duca d’Orléans e altri prigionieri. Squilli di tromba |
+| [[archetypes/king\|RE]] HARRY | Non mi sono adirato da quando venni in Francia<br>fino a quest’istante. Prendi una tromba, araldo;<br>cavalca fino ai cavalieri su quel [[motifs/hill\|colle]].<br>Se vorranno combattere con noi, di’ loro di scendere,<br>o di sgombrare il campo: offendono la nostra vista.<br>Se non faranno né l’uno né l’altro, verremo noi da loro,<br>e li faremo schizzar via veloci come pietre<br>scagliate dalle antiche fionde assire.<br>Inoltre, taglieremo le gole a quelli che abbiamo,<br>e non un uomo dei loro che prenderemo<br>gusterà la nostra [[concepts/mercy\|misericordia]]. Va’ e dillo loro. |
+| *(didascalia)* | Entra Montjoy |
+| EXETER | Ecco che viene l’araldo dei Francesi, mio sovrano. |
+| [[characters/gloucester\|GLOUCESTER]] | I suoi occhi sono più umili di quanto solevano essere. |
+| [[archetypes/king\|RE]] HARRY | Ebbene, che significa questo, araldo? Non sai<br>tu<br>che ho tassato queste mie ossa per riscatto?<br>Vieni di nuovo per il riscatto? |
+| MONTJOY | No, gran [[archetypes/king\|Re]].<br>Vengo a te per caritatevole licenza,<br>affinché possiamo aggirarci per questo campo insanguinato<br>a registrare i nostri morti e poi seppellirli,<br>a separare i nostri nobili dai nostri uomini comuni—<br>ché molti dei nostri principi, ahi quest’ora,<br>giacciono annegati e inzuppati in [[motifs/blood\|sangue]] mercenario.<br>Così il nostro volgo bagna le sue membra contadine<br>nel [[motifs/blood\|sangue]] dei principi, e i nostri destrieri feriti<br>fremono immersi fino al pastorale nel sangue, e con selvaggia rabbia<br>scagliano i loro calcagni ferrati contro i padroni morti,<br>uccidendoli due volte. Oh, concedici, gran [[archetypes/king\|Re]],<br>di osservare il campo in sicurezza, e di disporre<br>dei loro corpi morti. |
+| [[archetypes/king\|RE]] HARRY | Ti dico il vero, araldo,<br>non so se il giorno sia nostro o no,<br>ché ancora molti dei vostri cavalieri fanno capolino<br>e galoppano per il campo. |
+| MONTJOY | Il giorno è vostro. |
+| [[archetypes/king\|RE]] HARRY | Sia lodato Dio, e non la nostra forza, per questo.<br>Come si chiama questo [[settings/castle\|castello]] che sta qui presso? |
+| MONTJOY | Lo chiamano Azincourt. |
+| [[archetypes/king\|RE]] HARRY | Allora chiamiamo questo il campo d’Azincourt,<br>combattuto il giorno di Crispino Crispiano. |
+| [[characters/fluellen\|FLUELLEN]] | Vostro nonno di famosa [[motifs/memory\|memoria]], se piace a vostra maestà, e vostro prozio Edoardo il Principe Pero di Galles, come ho letto nelle cronache, combatterono una pravissima pattaglia qui in Francia. |
+| [[archetypes/king\|RE]] HARRY | Lo fecero, [[characters/fluellen\|Fluellen]]. |
+| [[characters/fluellen\|FLUELLEN]] | Vostra maestà dice verissimo. Se le vostre maestà se ne ricordano, i Gallesi fecero buon servigio in un [[motifs/garden\|orto]] dove crescevano porri, portando porri nei loro berretti di Monmouth, il che vostra maestà sa che fino a quest’ora è un onorevole distintivo del servigio. E credo che vostra maestà non sdegni di portare il porro il giorno di San Tavy. |
+| [[archetypes/king\|RE]] HARRY | Lo porto per un memorabile [[concepts/honour\|onore]],<br>ché sono Gallese, sapete, buon compatriota. |
+| [[characters/fluellen\|FLUELLEN]] | Tutta l’[[motifs/water\|acqua]] del Wye non può lavare il sangue gallese di vostra maestà fuori dal vostro corpo, questo posso dirvelo. Dio lo penedica e lo preservi, finché piace alla sua grazia, e anche a sua maestà. |
+| [[archetypes/king\|RE]] HARRY | Grazie, mio buon compatriota. |
+| [[characters/fluellen\|FLUELLEN]] | Per Cesù, io sono compatriota di vostra maestà. Non m’importa chi lo sappia, lo confesserò a tutto il mondo. Non ho bisogno di vergognarmi di vostra maestà, sia lodato Dio, finché vostra maestà è un uomo onesto. |
+| [[archetypes/king\|RE]] HARRY | Dio mi mantenga tale. |
+| *(didascalia)* | Entra Williams con un guanto nel berretto |
+| [[archetypes/king\|RE]] HARRY | I nostri araldi vadano con lui.<br>Portatemi giusta notizia del numero dei morti da entrambe le parti. |
+| *(didascalia)* | Escono Montjoy, [[characters/gower\|Gower]] e un araldo inglese |
+| [[archetypes/king\|RE]] HARRY | Chiamate qua quel tale laggiù. |
+| EXETER | (a Williams) Soldato, dovete venire dal [[archetypes/king\|Re]]. |
+| [[archetypes/king\|RE]] HARRY | Soldato, perché porti quel guanto nel berretto? |
+| WILLIAM | Se piace a vostra maestà, è il pegno d’uno con cui dovrei battermi, se è vivo. |
+| [[archetypes/king\|RE]] HARRY | Un Inglese? |
+| WILLIAMS | Se piace a vostra maestà, un furfante, che ha fatto lo spaccone con me la scorsa [[motifs/night\|notte]]—il quale, se vive, e osa mai rivendicare questo guanto, ho giurato di dargli un ceffone; o se posso vedere il mio guanto nel suo berretto—il quale giurò, com’era soldato, che l’avrebbe portato se viveva—glielo strapperò di netto. |
+| [[archetypes/king\|RE]] HARRY | Che ne pensate, Capitano [[characters/fluellen\|Fluellen]]? È giusto che questo soldato mantenga il suo giuramento? |
+| [[characters/fluellen\|FLUELLEN]] | Altrimenti è un vigliacco e un [[archetypes/villain\|farabutto]], se piace a vostra maestà, nella mia [[concepts/conscience\|coscienza]]. |
+| [[archetypes/king\|RE]] HARRY | Può darsi che il suo nemico sia un gentiluomo di gran condizione, del tutto fuori dalla risposta del suo grado. |
+| [[characters/fluellen\|FLUELLEN]] | Fosse egli buon gentiluomo quanto il diavolo, quanto [[characters/lucifer\|Lucifero]] e Belzebù in persona, è necessario, vedete vostra grazia, che egli mantenga il suo voto e il suo giuramento. Se è spergiuro, vedete ora, la sua reputazione è quella d’un [[archetypes/villain\|farabutto]] patente e d’un impertinente quanto mai la sua scarpa nera calpestò il suolo di Dio e la sua terra, nella mia [[concepts/conscience\|coscienza]], sì. |
+| [[archetypes/king\|RE]] HARRY | Mantieni dunque il tuo voto, tu, quando incontrerai quel tale. |
+| WILLIAMS | Lo farò, mio sovrano, com’è vero che vivo. |
+| [[archetypes/king\|RE]] HARRY | Sotto chi servi? |
+| WILLIAM | Sotto il Capitano [[characters/gower\|Gower]], mio sovrano. |
+| [[characters/fluellen\|FLUELLEN]] | [[characters/gower\|Gower]] è un buon capitano, ed è buona conoscenza e letterato nelle guerre. |
+| [[archetypes/king\|RE]] HARRY | Chiamalo qua da me, soldato. |
+| WILLIAM | Lo farò, mio sovrano. Esce |
+| [[archetypes/king\|RE]] HARRY | (dandogli l’altro guanto di Williams) Ecco, [[characters/fluellen\|Fluellen]], porta tu questo favore per me e ficcalo nel tuo berretto. Quando Alençon e io fummo a terra insieme, strappai questo guanto dal suo elmo. Se qualcuno rivendica questo, egli è amico d’Alençon e nemico della nostra persona. Se ne incontri uno tale, arrestalo, se mi porti [[motifs/love\|amore]]. |
+| [[characters/fluellen\|FLUELLEN]] | Vostra grazia mi fa onori grandi quanto se ne possano desiderare nei cuori dei suoi sudditi. Vorrei proprio vedere l’uomo che ha solo due gambe che si trovi offeso da questo guanto, ecco tutto; ma vorrei proprio vederlo una volta. Se piace a Dio nella sua grazia, questo vorrei vedere. |
+| [[archetypes/king\|RE]] HARRY | Conosci [[characters/gower\|Gower]]? |
+| [[characters/fluellen\|FLUELLEN]] | È il mio caro amico, se vi piace. |
+| [[archetypes/king\|RE]] HARRY | Ti prego, va’ a cercarlo e portalo alla mia tenda. 165 |
+| [[characters/fluellen\|FLUELLEN]] | Andrò a prenderlo. Esce |
+| [[archetypes/king\|RE]] HARRY | Mio signore di Warwick e mio fratello [[characters/gloucester\|Gloucester]],<br>seguite [[characters/fluellen\|Fluellen]] da presso, alle calcagna.<br>Il guanto che gli ho dato per favore<br>può forse procurargli un ceffone.<br>È del soldato. Per patto io dovrei<br>portarlo io stesso. Seguite, buon cugino Warwick.<br>Se il soldato lo colpisce, come giudico<br>dal suo rude contegno che manterrà la parola,<br>può nascerne qualche improvviso danno,<br>ché so che [[characters/fluellen\|Fluellen]] è valoroso<br>e toccato dalla collera, caldo come polvere da sparo,<br>e presto renderà un’offesa.<br>Seguite, e badate che non vi sia male fra loro.<br>Venite voi con me, zio d’Exeter. |
+| *(didascalia)* | Escono separatamente |
+
+### Atto 4, Scena 8
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Capitano [[characters/gower\|Gower]] e Williams |
+| WILLIAMS | Vi garantisco che è per farvi cavaliere, capitano. Entra il Capitano [[characters/fluellen\|Fluellen]] |
+| [[characters/fluellen\|FLUELLEN]] | Per la volontà di Dio e il suo piacere, capitano, vi supplico ora, venite in fretta dal [[archetypes/king\|Re]]. C’è più bene che vi attende, forse, di quanto la vostra conoscenza sappia sognare. |
+| WILLIAM | Signore, conoscete questo guanto? |
+| [[characters/fluellen\|FLUELLEN]] | Conoscere il guanto? So che il guanto è un guanto. |
+| WILLIAM | Fstrappando il guanto dal berretto di [[characters/fluellen\|Fluellen]]] Io conosco questo, e così lo rivendico. Colpisce [[characters/fluellen\|Fluellen]] |
+| [[characters/fluellen\|FLUELLEN]] | Sancue di Dio, e suo! Un traditore patente quanto ne esiste nell’universo mondo, o in Francia, o in Inghilterra. |
+| [[characters/gower\|GOWER]] | (a Williams) Ebbene, signore? Voi [[archetypes/villain\|furfante]]! |
+| WILLIAM | Credete che sarò spergiuro? |
+| [[characters/fluellen\|FLUELLEN]] | State in disparte, Capitano [[characters/gower\|Gower]]. Darò al tradimento la sua paga in potte, ve lo garantisco.<br>Williams Non sono un traditore. |
+| [[characters/fluellen\|FLUELLEN]] | Questa è menzogna in gola tua. Vi ordino nel nome di sua maestà, arrestatelo. È amico del Duca d’Alençon. |
+| *(didascalia)* | Entrano il [[characters/earl-of-warwick\|Conte di Warwick]] e il [[characters/duke-of-gloucester\|Duca di Gloucester]] |
+| WARWICK | Ebbene, ebbene, che succede? |
+| [[characters/fluellen\|FLUELLEN]] | Mio signore di Warwick, ecco—sia lodato Dio per questo—un tradimento contagiosissimo venuto alla luce, vedete, quanto potreste [[motifs/desire\|desiderare]] in un giorno d’[[motifs/summer\|estate]]. |
+| *(didascalia)* | Entrano [[archetypes/king\|Re]] Harry e il [[characters/duke-of-exeter\|Duca di Exeter]] Ecco sua maestà. |
+| [[archetypes/king\|RE]] HARRY | Ebbene, che succede? |
+| [[characters/fluellen\|FLUELLEN]] | Mio sovrano, ecco un [[archetypes/villain\|furfante]] e un traditore che, vedete vostra grazia, ha colpito il guanto che vostra maestà ha tolto dall’elmo d’Alençon. |
+| WILLIAMS | Mio sovrano, questo era il mio guanto—ecco il suo compagno—e colui a cui lo diedi in cambio promise di portarlo nel berretto. Io promisi di colpirlo, se l’avesse fatto. Ho incontrato quest’uomo col mio guanto nel berretto, e sono stato di parola. |
+| [[characters/fluellen\|FLUELLEN]] | Vostra maestà oda ora, salva la virilità di vostra maestà, che patente furfante pezzente e pidocchioso manigoldo egli sia. [[concepts/hope\|Spero]] che vostra maestà mi porti testimonianza e prova, e attesterà che questo è il guanto d’Alençon che vostra maestà mi ha dato, nella vostra [[concepts/conscience\|coscienza]] ora. |
+| [[archetypes/king\|RE]] HARRY | Dammi il tuo guanto, soldato. Guarda, ecco il suo compagno.<br>Ero io in verità colui che promettesti di colpire,<br>e mi hai rivolto parole assai amare. |
+| [[characters/fluellen\|FLUELLEN]] | Se piace a vostra maestà, ne risponda il suo collo, se c’è qualche legge marziale al mondo. |
+| [[archetypes/king\|RE]] HARRY | Come puoi darmi soddisfazione? |
+| WILLIAMS | Tutte le offese, mio signore, vengono dal cuore. Non ne venne mai alcuna dal mio che potesse offendere vostra maestà. |
+| [[archetypes/king\|RE]] HARRY | Fu noi stessi che oltraggiasti. |
+| WILLIAMS | Vostra maestà non venne come se stessa. Mi appariste solo come un [[concepts/common-man\|uomo comune]]. Testimoni la [[motifs/night\|notte]], le vostre vesti, la vostra umiltà. E ciò che vostra altezza patì sotto quell’aspetto, vi supplico di prenderlo per vostra colpa, e non mia, ché se foste stato quale vi presi, non commisi offesa. Perciò supplico vostra altezza di perdonarmi. |
+| [[archetypes/king\|RE]] HARRY | Ecco, zio Exeter, riempi questo guanto di corone<br>e dallo a costui.—Tienilo, amico,<br>e portalo per [[concepts/honour\|onore]] nel tuo berretto<br>finché io lo rivendichi.—Dategli le corone.<br>—E capitano, dovete proprio far pace con lui. |
+| [[characters/fluellen\|FLUELLEN]] | Per questo giorno e questa luce, costui ha abbastanza fegato nella sua pancia.—Te[i, ecco dodici pence per voi, e vi prego di servire Dio, e di tenervi fuori da paruffe e pattibecchi e liti e dissensi, e vi garantisco che è meglio per voi. |
+| WILLIAMS | Non voglio nulla del vostro denaro. |
+| [[characters/fluellen\|FLUELLEN]] | È di buon grado. Posso dirvi che vi<br>servirà a rappezzare le scarpe. Su, perché dovreste<br>essere così pudibondo? Le vostre scarpe non sono così buone. È un<br>buono scellino, ve lo garantisco, o ve lo cambierò. |
+| *(didascalia)* | Entra un Araldo inglese |
+| [[archetypes/king\|RE]] HARRY | Ora, araldo, sono contati i morti? |
+| ARALDO | Ecco il numero dei Francesi massacrati. |
+| [[archetypes/king\|RE]] HARRY | Quali prigionieri di buona condizione sono stati presi, zio? |
+| EXETER | Carlo, Duca d’Orléans, nipote del [[archetypes/king\|Re]];<br>Jean, Duca di Borbone, e Lord Boucicault;<br>d’altri signori e baroni, cavalieri e scudieri,<br>ben millecinquecento, oltre agli uomini comuni. |
+| [[archetypes/king\|RE]] HARRY | Questa nota mi dice di diecimila Francesi<br>che giacciono uccisi sul campo. Di principi in questo numero<br>e nobili portatori di stendardi, giacciono morti<br>centoventisei; aggiunti a questi,<br>di cavalieri, scudieri e gagliardi gentiluomini,<br>ottomilaquattrocento, dei quali<br>cinquecento erano stati addobbati cavalieri appena ieri.<br>Sicché in questi diecimila che hanno perduto<br>non vi sono che milleseicento mercenari;<br>il resto son principi, baroni, signori, cavalieri, scudieri,<br>e gentiluomini di [[motifs/blood\|sangue]] e qualità.<br>I nomi di quei loro nobili che giacciono morti:<br>Charles Delabret, Gran Conestabile di Francia;<br>[[characters/jaques\|Jaques]] di Châtillon, Ammiraglio di Francia;<br>il Maestro delle Balestre, Lord Rambures;<br>Gran Maestro di Francia, il prode Sir Guiscard<br>[[characters/dauphin\|Delfino]];<br>Jean, Duca d’Alençon; Antonio, Duca di Brabante,<br>fratello del Duca di Borgogna;<br>ed Édouard, Duca di Bar; di gagliardi conti,<br>Grandpré e Roussi, Fauconbridge e Foix,<br>Beaumont e Marle, Vaudemont e Lestrelles.<br>Qui fu una regale compagnia di [[motifs/death\|morte]].<br>Dov’è il numero dei nostri morti inglesi?<br>Gli si dà un altro foglio<br>Edoardo, [[characters/duke-of-york\|Duca di York]], il [[characters/earl-of-suffolk\|Conte di Suffolk]],<br>Sir [[characters/richard\|Riccardo]] Keighley, Davy Gam scudiero;<br>nessun altro di nome, e di tutti gli altri uomini<br>solo venticinque. O Dio, il tuo braccio fu qui,<br>e non a noi, ma al tuo braccio soltanto<br>ascriviamo tutto. Quando mai, senza stratagemma,<br>ma in aperto scontro e pari gioco di battaglia,<br>si conobbe perdita così grande e così piccola<br>da una parte e dall’altra? Prendilo, o Dio,<br>ché non è d’altri che tuo. |
+| EXETER | È meraviglioso. |
+| [[archetypes/king\|RE]] HARRY | Su, andiamo in processione al villaggio,<br>e sia proclamata pena di [[motifs/death\|morte]] per tutta la nostra schiera<br>vantarsi di questo, o togliere a Dio quella lode<br>che è soltanto sua. |
+| [[characters/fluellen\|FLUELLEN]] | Non è lecito, se piace a vostra maestà, dire quanti sono stati uccisi? |
+| [[archetypes/king\|RE]] HARRY | Sì, capitano, ma con questo riconoscimento,<br>che Dio combatté per noi. |
+| [[characters/fluellen\|FLUELLEN]] | Sì, nella mia [[concepts/conscience\|coscienza]], ci fece gran bene. |
+| [[archetypes/king\|RE]] HARRY | Compiamo tutti i santi riti:<br>si cantino il Non nobis e il Te Deum,<br><br>i morti con [[concepts/charity\|carità]] racchiusi nell’argilla;<br>e poi a Calais, e in Inghilterra poi,<br>dove mai dalla Francia giunsero uomini più felici. |
+| *(didascalia)* | Escono |
+
+### Atto 5, Scena 0
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entra il [[characters/chorus\|Coro]] |
+| [[characters/chorus\|CORO]] | Concedete a quanti non hanno letto la storia<br>ch’io possa suggerirla loro—e a quanti l’hanno letta,<br>umilmente chiedo che ammettano la scusa<br>del [[motifs/time\|tempo]], dei numeri e del debito corso delle cose,<br>che non possono nella loro enorme e propria vita<br>essere qui rappresentate. Ora portiamo il [[archetypes/king\|Re]]<br>verso Calais. Concedetelo là; là veduto,<br>sollevatelo via sui vostri pensieri alati<br>attraverso il mare. Ecco, la spiaggia inglese<br>recinge il flutto d’uomini, fanciulle, mogli e ragazzi,<br>le cui grida e i cui applausi sovrastano la voce del profondo<br>mare,<br>che come un possente battistrada innanzi al [[archetypes/king\|Re]]<br>par preparargli la via. Così lasciatelo sbarcare,<br>e solennemente vedetelo avviarsi a [[settings/london\|Londra]].<br>Così rapido è il passo del pensiero, che già ora<br>potete immaginarlo su Blackheath,<br>dove i suoi signori [[motifs/desire\|desiderano]] ch’egli faccia portare<br>il suo elmo ammaccato e la sua spada piegata<br>innanzi a lui per la [[motifs/city\|città]]; egli lo vieta,<br>essendo libero da vanità e da [[concepts/pride\|orgoglio]] di [[concepts/self\|sé]] glorioso,<br>rendendo interi il trofeo, l’insegna e la mostra<br>del tutto lontani da sé, a Dio. Ma ora guardate,<br>nella rapida fucina e nell’officina del pensiero,<br>come [[settings/london\|Londra]] riversi fuori i suoi cittadini.<br>Il Sindaco e tutti i suoi confratelli, nella miglior foggia,<br>simili ai senatori dell’antica Roma<br>coi plebei brulicanti alle loro calcagna,<br>escono a introdurre il loro Cesare vittorioso—<br>come, con minore ma altamente affettuosa somiglianza,<br>se ora il Generale della nostra graziosa Imperatrice—<br>come a buon [[motifs/time\|tempo]] può accadere—venisse dall’Irlanda,<br>portando la ribellione infilzata sulla sua spada,<br>quanti lascerebbero la pacifica [[motifs/city\|città]]<br>per accoglierlo! Molto di più, e con molto maggior ragione,<br>fecero costoro per questo Harry. Ora ponetelo in [[settings/london\|Londra]];<br>ché ancora il lamento dei Francesi<br>invita il [[archetypes/king\|Re]] d’Inghilterra a restare a [[motifs/home\|casa]].<br>L’Imperatore giunge in favore della Francia, |
+| *(didascalia)* | Per ordinare la pace fra loro |
+| *(didascalia)* |  e tralasciate |
+| [[characters/chorus\|CORO]] | Tutti gli avvenimenti, qualunque cosa sia accaduta,<br>fino al ritorno di Harry di nuovo in Francia.<br>Là dobbiamo condurlo, e io stesso ho recitato<br>l’intervallo rammentandovi ch’è passato.<br>Sopportate dunque l’abbreviazione, e portate i vostri occhi,<br>dietro i vostri pensieri, dritti indietro in Francia. |
+| *(didascalia)* | Esce |
+
+### Atto 5, Scena 1
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano il Capitano [[characters/gower\|Gower]] e il Capitano [[characters/fluellen\|Fluellen]], con un porro nel berretto e un randello |
+| [[characters/gower\|GOWER]] | Già, è così. Ma perché portate il vostro porro oggi? Il giorno di San Davy è passato. |
+| [[characters/fluellen\|FLUELLEN]] | Ci sono occasioni e cause del perché e del percome in tutte le cose. Ve lo dirò, come mio amico, Capitano [[characters/gower\|Gower]]. Quel furfante rognoso pezzente pidocchioso spaccone manigoldo di Pistot—che voi e voi stesso e tutto il mondo sapete non essere miclio d’un tale, vedete ora, senza alcun merito—è venuto da me, e mi porta pane e sale ieri, vedete, e mi dice di mangiare il mio porro. Fu in un luogo dove non potevo generare contesa con lui, ma sarò così ardito da portarlo nel berretto finché non lo rivedo, e allora gli dirò un pezzettino dei miei desideri. |
+| *(didascalia)* | Entra l’Alfiere [[characters/pistol\|Pistola]] |
+| [[characters/gower\|GOWER]] | Ecco, eccolo che viene, gonfiandosi come un tacchino. |
+| [[characters/fluellen\|FLUELLEN]] | Non importa dei suoi gonfiori né dei suoi tacchini. —Dio vi penedica, Alfiere [[characters/pistol\|Pistola]], voi scorbutico pidocchioso manigoldo, Dio vi penedica. |
+| [[characters/pistol\|PISTOLA]] | Ah, sei tu pazzo da manicomio? Hai tu sete, vile Troiano,<br>che io ripieghi la fatale tela di Parca?<br>Via! Mi vien la nausea all’odore del porro. |
+| [[characters/fluellen\|FLUELLEN]] | Vi supplico di cuore, scorbutico pidocchioso manigoldo, per i miei desideri e le mie richieste e le mie petizioni, di mangiare, vedete, questo porro. Perché, vedete, voi non l’[[motifs/love\|amate]], né i vostri affetti e i vostri appetiti e le vostre digestioni si accordano con esso, [[motifs/desire\|desidererei]] che lo mangiaste. 26 |
+| [[characters/pistol\|PISTOLA]] | Neanche per Cadwallader e tutte le sue capre. |
+| [[characters/fluellen\|FLUELLEN]] | Ecco una capra per voi. (Colpisce [[characters/pistol\|Pistola]]) Sarete così buono, rognoso manigoldo, da mangiarlo? |
+| [[characters/pistol\|PISTOLA]] | Vile Troiano, tu morirai. |
+| [[characters/fluellen\|FLUELLEN]] | Dite verissimo, rognoso manigoldo, quando sarà volontà di Dio. Io [[motifs/desire\|desidererò]] che voi viviate nel [[motifs/time\|frattempo]], e mangiate le vostre vettovaglie. Su, ecco la salsa per esso. (Lo colpisce) Ieri mi chiamaste ‘scudiero di montagna’, ma oggi farò di voi uno ‘scudiero di basso grado’. Vi prego, mettetevi sotto. Se potete schernire un porro, potete mangiare un porro. |
+| *(didascalia)* | Lo colpisce |
+| [[characters/gower\|GOWER]] | Basta, capitano, l’avete stordito. |
+| [[characters/fluellen\|FLUELLEN]] | Per Cesù, gli farò mangiare qualche parte del mio porro, o gli pesterò la zucca quattro giorni e quattro notti.—Mordete, vi prego. Fa bene alla vostra ferita fresca e alla vostra cresta insancuinata. |
+| [[characters/pistol\|PISTOLA]] | Devo mordere? |
+| [[characters/fluellen\|FLUELLEN]] | Sì, certamente, e fuor di [[concepts/doubt\|dubbio]] e fuor di questione pure, e d’ambiguità. |
+| [[characters/pistol\|PISTOLA]] | Per questo porro, mi [[concepts/revenge\|vendicherò]] orribilmente— |
+| *(didascalia)* | [[characters/fluellen\|Fluellen]] lo minaccia Mangio e mangio—giuro— |
+| [[characters/fluellen\|FLUELLEN]] | Mangiate, vi prego. Volete ancora un po’ di salsa per il vostro porro? Non c’è porro abbastanza per giurarci sopra. |
+| [[characters/pistol\|PISTOLA]] | Quieta il tuo randello, vedi bene che mangio. |
+| [[characters/fluellen\|FLUELLEN]] | Buon pro vi faccia, rognoso manigoldo, di cuore. Anzi, vi prego, non buttatene via nulla. La buccia fa bene alla vostra cresta rotta. Quando avrete occasione di vedere porri d’ora in avanti, vi prego di schernirli, ecco tutto. |
+| [[characters/pistol\|PISTOLA]] | Bene. |
+| [[characters/fluellen\|FLUELLEN]] | Sì, i porri son buoni. Tenete, ecco un grosso per guarirvi la zucca. |
+| [[characters/pistol\|PISTOLA]] | A me, un grosso? |
+| [[characters/fluellen\|FLUELLEN]] | Sì, veramente, e in [[concepts/truth\|verità]] lo prenderete, o ho un altro porro in tasca che dovrete mangiare. |
+| [[characters/pistol\|PISTOLA]] | Prendo il tuo grosso a caparra di [[concepts/revenge\|vendetta]]. |
+| [[characters/fluellen\|FLUELLEN]] | Se vi devo qualcosa, vi pagherò in randellate. Diventerete un legnaiolo, e non comprerete da me altro che randelli. Dio sia con voi, e vi protegga, e vi guarisca la zucca. Esce |
+| [[characters/pistol\|PISTOLA]] | Tutto l’inferno si muoverà per questo. |
+| [[characters/gower\|GOWER]] | Andate, andate, siete un vigliacco manigoldo contraffatto. Volete schernire un’antica tradizione, cominciata per un onorevole riguardo e portata come memorabile trofeo di valore trapassato, e non osate confermare coi fatti nessuna delle vostre parole? Vi ho visto motteggiare e pungere questo gentiluomo due o tre volte. Pensavate che, poiché non sapeva parlare inglese nella foggia nativa, non sapesse perciò maneggiare un randello inglese. Vedete che è altrimenti. E d’ora innanzi una correzione gallese v’insegni una buona condotta inglese. State [[motifs/well\|bene]]. |
+| *(didascalia)* | Esce |
+| [[characters/pistol\|PISTOLA]] | La Fortuna fa ora con me la sgualdrina?<br>Ho notizia che la mia Nell è morta<br>nell’ospizio d’un male di Francia,<br>e là il mio ritrovo è del tutto tagliato.<br>Vecchio divento, e dalle mie stanche membra<br>l’[[concepts/honour\|onore]] è randellato via. [[motifs/well\|Ebbene]], mi farò ruffiano,<br>e piegherò un poco al tagliaborse di mano lesta.<br>In Inghilterra sgattaiolerò, e là ruberò,<br>e cerotti mi metterò su queste cicatrici di randello,<br>e giurerò d’averle prese nelle guerre di Gallia. |
+| *(didascalia)* | Esce |
+
+### Atto 5, Scena 2
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Entrano da una porta [[archetypes/king\|Re]] Harry, i Duchi di Exeter e di [[characters/clarence\|Clarence]], il [[characters/earl-of-warwick\|Conte di Warwick]] e altri signori; dall’altra, [[archetypes/king\|Re]] Carlo Sesto di Francia, la [[characters/queen-isabel\|Regina Isabella]], il Duca di Borgogna e altri Francesi, fra loro la [[characters/princess-catherine\|Principessa Caterina]] e Alice |
+| [[archetypes/king\|RE]] HARRY | Pace a questo incontro, per cui ci siamo riuniti.<br>Al nostro fratello di Francia e alla nostra sorella,<br>salute e bel [[motifs/time\|tempo]] del giorno. Gioia e buoni auguri<br>alla nostra bellissima e principesca cugina Caterina;<br>e come ramo e membro di questa regalità,<br>per cui questa grande assemblea è stata combinata,<br>vi salutiamo, Duca di Borgogna.<br>E principi francesi, e pari, salute a voi tutti. |
+| [[archetypes/king\|RE]] CARLO | Ben lieti siamo di mirare il vostro volto.<br>Degnissimo fratello d’Inghilterra, ben trovato.<br>E così voi, principi inglesi, ciascuno di voi. |
+| [[characters/queen-isabel\|REGINA ISABELLA]] | Sia così felice l’esito, fratello d’Inghilterra,<br>di questo buon giorno e di questo grazioso incontro,<br>come noi ora siamo lieti di mirare i vostri occhi—<br>i vostri occhi che finora hanno portato in sé,<br>contro i Francesi che li incontravano nel loro sguardo,<br>le sfere fatali di basilischi omicidi.<br>Il veleno di tali sguardi noi bellamente [[concepts/hope\|speriamo]]<br>abbia perduto la sua qualità, e che questo giorno<br>muti tutti i dolori e le contese in [[motifs/love\|amore]]. |
+| [[archetypes/king\|RE]] HARRY | Per dire amen a ciò, così ci presentiamo. |
+| [[characters/queen-isabel\|REGINA ISABELLA]] | Voi tutti principi inglesi, io vi saluto. |
+| BURGUNDY | Il mio dovere a voi entrambi, con pari [[motifs/love\|amore]],<br>grandi Re di Francia e d’Inghilterra. Che io mi sia<br>adoperato<br>con tutto il mio ingegno, le mie pene e i forti sforzi,<br>per condurre le vostre imperialissime maestà<br>a questa sbarra e regale colloquio,<br>la vostra potenza da entrambe le parti può meglio attestarlo.<br>Poiché dunque il mio ufficio ha tanto prevalso<br>che faccia a faccia e regale occhio a occhio<br>vi siete incontrati, non mi sia di disonore<br>se domando, davanti a questa regale adunanza,<br>quale intoppo o quale impedimento vi sia<br>perché la pace nuda, povera e straziata,<br>cara [[characters/nurse\|nutrice]] delle arti, delle abbondanze e delle liete nascite,<br>non debba in questo miglior [[motifs/garden\|giardino]] del mondo,<br>la nostra fertile Francia, alzare il suo amabile volto?<br>Ahimè, ella è stata troppo a lungo cacciata dalla Francia,<br>e tutta la sua agricoltura giace a mucchi,<br>corrompendosi nella sua stessa fertilità.<br>La sua vite, allegra rallegratrice del cuore,<br>non potata muore; le sue siepi ben intrecciate<br>come prigionieri selvaggiamente coperti di capelli<br>mettono fuori ramoscelli disordinati; i suoi maggesi<br>il loglio, la cicuta e la rigogliosa fumaria<br>vi radicano sopra, mentre arrugginisce il vomere<br>che dovrebbe sradicare tale selvatichezza.<br>Il piano prato—che un tempo dolcemente produceva<br>la primula screziata, la pimpinella e il verde trifoglio—<br>mancando della falce, tutto incorretto, lussureggiante,<br>concepisce per ozio, e nulla genera<br>se non odiosi romici, ruvidi cardi, cicute, lappole,<br>perdendo insieme la [[concepts/beauty\|bellezza]] e l’utilità.<br>E come tutte le nostre vigne, i maggesi, i prati e le siepi,<br>difettosi nelle loro nature, crescono in selvatichezza,<br>così le nostre case e noi stessi e i figli<br>abbiamo perduto, o non impariamo per mancanza di [[motifs/time\|tempo]],<br>le scienze che dovrebbero addirsi al nostro paese,<br>ma cresciamo come selvaggi—come fanno i soldati<br>che nulla fanno se non meditare sul [[motifs/blood\|sangue]]—<br>verso il bestemmiare e gli sguardi torvi, l’abito scomposto,<br>e ogni cosa che pare innaturale.<br>Per ricondurre ciò al nostro antico favore<br>siete radunati, e il mio discorso implora<br>ch’io possa sapere l’ostacolo per cui la gentile pace<br>non debba scacciare questi inconvenienti<br>e benedirci con le sue antiche qualità. |
+| [[archetypes/king\|RE]] HARRY | Se, Duca di Borgogna, volete la pace<br>la cui mancanza dà crescita alle imperfezioni<br>che avete citato, dovete comprare quella pace<br>con pieno accordo a tutte le nostre giuste domande,<br>i cui tenori ed effetti particolari<br>avete in breve elencati nelle vostre mani. |
+| BURGUNDY | Il [[archetypes/king\|Re]] li ha uditi, ai quali finora<br>non è stata data risposta. |
+| [[archetypes/king\|RE]] HARRY | [[motifs/well\|Ebbene]] allora, la pace,<br>che voi prima tanto sollecitaste, sta nella sua risposta. |
+| [[archetypes/king\|RE]] CARLO | Non ho che con occhio corsivo<br>scorso gli articoli. Piaccia a vostra grazia<br>designare subito alcuni del vostro consiglio<br>perché siedano con noi ancora una volta, con miglior cura<br>a riesaminarli, e noi d’un tratto<br>daremo la nostra accettazione e perentoria risposta. |
+| [[archetypes/king\|RE]] HARRY | Fratello, lo faremo.—Andate, zio Exeter<br>e fratello [[characters/clarence\|Clarence]], e voi, fratello [[characters/gloucester\|Gloucester]];<br>Warwick e Huntingdon, andate col [[archetypes/king\|Re]],<br>e prendete con voi pieno potere di ratificare,<br>accrescere o alterare, come le vostre saggezze meglio<br>vedranno vantaggioso per la nostra dignità,<br>qualunque cosa dentro o fuori dalle nostre domande,<br>e noi vi consentiremo.—Volete voi, bella sorella,<br>andare coi principi, o restare qui con noi? |
+| [[characters/queen\|REGINA]] | Nostro grazioso fratello, andrò con loro.<br>Forse una voce di donna può fare qualche bene<br>quando si insiste su articoli troppo sottilmente sollecitati. |
+| [[archetypes/king\|RE]] HARRY | Lasciate però qui con noi nostra cugina Caterina.<br>Ella è la nostra domanda capitale, compresa |
+| *(didascalia)* | Nella prima fila dei nostri articoli. |
+| [[characters/queen\|REGINA]] | Ella ne ha buon permesso. |
+| *(didascalia)* | Escono tutti tranne [[archetypes/king\|Re]] Harry, Caterina e Alice |
+| [[archetypes/king\|RE]] HARRY | Bella Caterina, e bellissima,<br>vorrete voi degnarvi d’insegnare a un soldato parole<br>tali che entrino nell’orecchio d’una dama<br>e perorino la sua causa d’[[motifs/love\|amore]] al suo gentile cuore? |
+| CATERINA | Vostra maestà si burlerà di me. Non so parlare il vostro inglese. |
+| [[archetypes/king\|RE]] HARRY | O bella Caterina, se vorrete [[motifs/love\|amarmi]] di cuore col vostro cuore francese, sarò lieto d’udirvelo confessare a pezzi con la vostra lingua inglese. Vi piaccio io, Kate? |
+| CATERINA | Pardonnez-moi, non so cosa sia ‘vi piaccio’. |
+| [[archetypes/king\|RE]] HARRY | Un angelo vi somiglia, Kate, e voi somigliate a un angelo. |
+| CATERINA | (ad Alice) Que dit-il?—que je suis semblable à les anges? |
+| ALICE | Oui, vraiment—sauf votre grâce—ainsi dit-il. |
+| [[archetypes/king\|RE]] HARRY | L’ho detto, cara Caterina, e non devo arrossire d’affermarlo. |
+| CATERINA | O bon Dieu! Les langues des hommes sont pleines de tromperies. |
+| [[archetypes/king\|RE]] HARRY | Che dice ella, bella creatura? Che le lingue degli uomini sono piene d’inganni? |
+| ALICE | Oui, che le lingue degli uomini son piene d’inganni—così dice la Principessa. |
+| [[archetypes/king\|RE]] HARRY | La Principessa è la migliore inglese. In [[concepts/faith\|fede]] mia, Kate, il mio corteggiamento è adatto al tuo intendimento. Sono lieto che tu non sappia parlare meglio l’inglese, ché se lo sapessi, mi troveresti un [[archetypes/king\|re]] così alla buona che penseresti che io abbia venduto la mia fattoria per comprarmi la [[motifs/crown\|corona]]. Non conosco maniere per lisciarla in [[motifs/love\|amore]], ma solo per dire dritto: ‘Vi [[motifs/love\|amo]]’; poi, se mi spingi oltre il dire ‘Davvero, in [[concepts/faith\|fede]]?’, esaurisco la mia causa. Dammi la tua risposta, in [[concepts/faith\|fede]] mia, dalla, e così battiamo le mani e affare fatto. Che dite, signora? |
+| CATERINA | Sauf votre honneur, io capisco [[motifs/well\|bene]]. |
+| [[archetypes/king\|RE]] HARRY | Perdinci, se voleste mettermi a fare versi, o a [[motifs/dance\|danzare]] per amor vostro, Kate, ebbene, mi rovinereste. Ché per l’uno non ho né parole né misura, e per l’altra non ho forza nella misura—benché una ragionevole misura di forza. Se potessi conquistare una dama al gioco della cavallina, o balzando in sella con l’armatura sulla schiena, sia detto sotto la correzione della vanteria, balzerei presto dentro una moglie. O se potessi menar le mani per il mio [[motifs/love\|amore]], o far balzare il mio [[motifs/horse\|cavallo]] per i suoi favori, potrei picchiare come un macellaio, e stare in sella come una scimmia, senza mai cadere. Ma davanti a Dio, Kate, io non so guardare con occhio languido, né sospirare fuori la mia eloquenza, né ho astuzia nelle proteste—solo giuramenti schietti, che non uso mai se non sollecitato, né mai rompo per sollecitazione. Se puoi [[motifs/love\|amare]] un tale di questa tempra, Kate, il cui volto non merita d’essere abbronzato, che non si guarda mai nello specchio per [[motifs/love\|amore]] di ciò che vi vede, sia il tuo occhio il tuo cuoco. Ti parlo da schietto soldato: se puoi [[motifs/love\|amarmi]] per questo, prendimi. Se no, dirti che morirò è vero—ma per il tuo [[motifs/love\|amore]], per il Signore, no. Eppure ti [[motifs/love\|amo]] anch’io. E finché vivi, cara Kate, prendi un tale di schietta e non coniata costanza, ché per forza deve renderti giustizia, poiché non ha il dono di corteggiare altrove. Ché questi tali di lingua infinita, che sanno rimare fino a entrare nei favori delle dame, sempre poi ragionano fino a uscirne. Suvvia! Un oratore non è che un ciarlone, una rima non è che una ballata; una bella gamba si affloscerà, una schiena diritta si curverà, una barba nera diverrà bianca, una testa riccia diverrà calva, un bel viso appassirà, un occhio pieno si farà incavato, ma un buon cuore, Kate, è il sole e la [[motifs/moon\|luna]]—o piuttosto il sole e non la [[motifs/moon\|luna]], ché brilla luminoso e non muta mai, ma tiene fedelmente il suo corso. Se vuoi averne uno tale, prendi me; e prendendo me, prendi un soldato; prendendo un soldato, prendi un [[archetypes/king\|re]]. E che dici allora al mio [[motifs/love\|amore]]? Parla, mia bella—e bellamente, ti prego. |
+| CATERINA | È possibile che io [[motifs/love\|ami]] il nemico di Francia? |
+| [[archetypes/king\|RE]] HARRY | No, non è possibile che voi [[motifs/love\|amiate]] il nemico di Francia, Kate. Ma amando me, dovreste [[motifs/love\|amare]] l’amico di Francia, ché io [[motifs/love\|amo]] la Francia così [[motifs/well\|bene]] che non me ne separerò d’un villaggio, la voglio tutta mia; e Kate, quando la Francia sarà mia, e io sarò vostro, allora vostra sarà la Francia, e voi sarete mia. |
+| CATERINA | Non so cosa sia questo. |
+| [[archetypes/king\|RE]] HARRY | No, Kate? Te lo dirò in francese—il che son certo mi si appenderà alla lingua come una sposa novella al collo del marito, difficile a scrollarsi. Je quand suis le possesseur de France, et quand vous avez le possession de moi—vediamo, e poi? San Dionigi mi sia di [[characters/speed\|soccorso]]!—donc vôtre est France, et vous êtes mienne. Mi è tanto facile, Kate, conquistare il regno quanto dire tanto altro francese. Non ti commuoverò mai in francese, se non per farti ridere di me. |
+| CATERINA | Sauf votre honneur, le français que vous parlez, il est meilleur que l’anglais lequel je parle. |
+| [[archetypes/king\|RE]] HARRY | No, in [[concepts/faith\|fede]] mia, non è così, Kate. Ma il mio parlare la tua lingua, e tu la mia, verissimamente-falsamente, deve pur concedersi che siano molto pari. Ma Kate, capisci tu tanto d’inglese? Puoi tu [[motifs/love\|amarmi]]? |
+| CATERINA | Non saprei dire. |
+| [[archetypes/king\|RE]] HARRY | Qualcuno dei vostri vicini saprebbe dirlo, Kate? Glielo chiederò. Su, so che mi ami, e di [[motifs/night\|notte]] quando entrerai nella tua stanza interrogherai questa gentildonna sul mio conto, e so, Kate, che biasimerai con lei quelle parti di me che [[motifs/love\|ami]] col cuore. Ma buona Kate, schernitemi misericordiosamente—tanto più, gentile principessa, perché io ti [[motifs/love\|amo]] crudelmente. Se mai sarai mia, Kate—come ho dentro una [[concepts/faith\|fede]] salvifica che mi dice che sarai—ti conquisto con l’arrembaggio, e devi dunque per forza dimostrarti buona generatrice di soldati. Non comporremo, tu e io, fra San Dionigi e San Giorgio, un maschietto mezzo francese e mezzo inglese, che andrà a Costantinopoli e prenderà il Turco per la barba? Non è vero? Che dici, mio bel giglio di Francia? |
+| CATERINA | Questo non lo so. |
+| [[archetypes/king\|RE]] HARRY | No, è cosa da sapersi in avvenire, ma da promettersi ora. Prometti solo ora, Kate, che ti adoprerai per la tua parte francese di un tal maschietto, e per la mia metà inglese prendi la parola d’un [[archetypes/king\|re]] e d’uno scapolo. Come rispondete, la plus belle Catherine du monde, mon très chere et divine deésse? |
+| CATERINA | Vostra maestà ha francese falso abbastanza da ingannare la più saggia demoiselle che sia in Francia. |
+| [[archetypes/king\|RE]] HARRY | Ora vergogna al mio falso francese! Per il mio [[concepts/honour\|onore]], in vero inglese, io ti [[motifs/love\|amo]], Kate. Per quel medesimo [[concepts/honour\|onore]] non oso giurare che tu ami me, eppure il mio [[motifs/blood\|sangue]] comincia a lusingarmi che sia così, malgrado il povero e poco temperante effetto del mio viso. Ora sia maledetta l’[[concepts/ambition\|ambizione]] di mio padre! Pensava alle guerre civili quando mi generò; perciò fui creato con un esteriore ostinato, con un aspetto di ferro, sicché quando vengo a corteggiare le dame le spavento. Ma in [[concepts/faith\|fede]], Kate, più invecchio meglio apparirò. Il mio conforto è che la vecchiaia, quella cattiva conservatrice della [[concepts/beauty\|bellezza]], non può fare più guasto sul mio viso. Tu mi hai, se mi hai, al peggio, e mi porterai, se mi porterai, sempre meglio; e perciò dimmi, bellissima Caterina, mi volete? Deponete i vostri rossori verginali, dichiarate i pensieri del vostro cuore con gli sguardi d’un’imperatrice, prendetemi per mano e dite: ‘Harry d’Inghilterra, io sono tua’—e non appena avrai benedetto il mio orecchio con quella parola, io ti dirò ad alta voce: ‘L’Inghilterra è tua, l’Irlanda è tua, la Francia è tua, e Enrico Plantageneto è tuo’—il quale, benché io lo dica in sua faccia, se non è pari al miglior [[archetypes/king\|re]], lo troverai il miglior [[archetypes/king\|re]] dei buoni compagni. Su, la vostra risposta in musica rotta—ché la tua voce è musica e il tuo inglese rotto. Perciò, [[characters/queen\|regina]] di tutte, Caterina, spezzami la tua mente in inglese rotto: mi vuoi? |
+| CATERINA | Questo sarà come piacerà al roi mon père. |
+| [[archetypes/king\|RE]] HARRY | Anzi, gli piacerà [[motifs/well\|bene]], Kate. Gli piacerà, Kate. |
+| CATERINA | Allora contenterà anche me. |
+| [[archetypes/king\|RE]] HARRY | Su questo vi bacio la mano, e vi chiamo mia [[characters/queen\|regina]]. |
+| CATERINA | Laissez, mon seigneur, laissez, laissez! Ma foi, je ne veux point que vous abbaissez votre grandeur en baisant la main d’une de votre seigneurie indigne serviteur. Excusezmoi, je vous supplie, mon treis-puissant seigneur. |
+| [[archetypes/king\|RE]] HARRY | Allora vi bacerò le labbra, Kate. 255 |
+| CATERINA | Les dames et demoiselles pour être baisées devant leurs noces, il n’est pas la coutume de France. |
+| [[archetypes/king\|RE]] HARRY | (ad Alice) Madama mia interprete, che dice ella? |
+| ALICE | Che non è la façon per le dame di Francia—non so cosa sia baiser in inglese. |
+| [[archetypes/king\|RE]] HARRY | Baciare. |
+| ALICE | Vostra maestà entend bettre que moi. |
+| [[archetypes/king\|RE]] HARRY | Non è usanza per le fanciulle di Francia baciarsi prima d’essere sposate, questo vorrebbe dire? 265 ALICE Oui, vraiment. |
+| [[archetypes/king\|RE]] HARRY | O Kate, le usanze schizzinose fanno riverenza ai grandi re. Cara Kate, voi e io non possiamo essere confinati dentro il debole recinto della moda d’un paese. Noi siamo i creatori dei costumi, Kate, e la libertà che segue i nostri posti chiude la bocca a tutti i cercatori di difetti, come io farò con la vostra, per aver sostenuto la moda schizzinosa del vostro paese negandomi un bacio. Perciò, pazientemente e cedendo. (La bacia) Voi avete stregoneria sulle labbra, Kate. C’è più eloquenza in un loro tocco di zucchero che nelle lingue del Consiglio di Francia, ed esse persuaderebbero più presto Harry d’Inghilterra d’una generale petizione di monarchi. Ecco che viene vostro padre. Entrano [[archetypes/king\|Re]] Carlo, la [[characters/queen-isabel\|Regina Isabella]], il Duca di Borgogna, e i signori francesi e inglesi |
+| BURGUNDY | Dio salvi vostra maestà. Mio regale cugino, insegnate voi l’inglese alla nostra principessa? |
+| [[archetypes/king\|RE]] HARRY | Vorrei che ella imparasse, mio bel cugino, quanto perfettamente io l’[[motifs/love\|ami]], e questo è buon inglese. |
+| BURGUNDY | Non è ella pronta a imparare? |
+| [[archetypes/king\|RE]] HARRY | La nostra lingua è ruvida, cugino, e la mia indole non è liscia, sicché non avendo in me né la voce né il cuore dell’adulazione non posso evocare in lei lo spirito dell’[[motifs/love\|amore]] in modo che egli appaia nella sua vera sembianza. |
+| BURGUNDY | Perdonate la franchezza della mia allegria, se vi rispondo su ciò. Se voleste evocare in lei, dovete tracciare un cerchio; se evocare in lei l’[[motifs/love\|amore]] nella sua vera sembianza, egli deve apparire nudo e cieco. Potete allora biasimarla, essendo ella una fanciulla ancora tinta del cremisi verginale della modestia, se rifiuta l’apparizione d’un nudo fanciullo cieco nel suo nudo e veggente [[concepts/self\|sé]]? Sarebbe, mio signore, una dura condizione a cui una fanciulla dovesse consentire. |
+| [[archetypes/king\|RE]] HARRY | Eppure esse chiudono gli occhi e cedono, poiché l’[[motifs/love\|amore]] è cieco e costringe. |
+| BURGUNDY | Sono dunque scusate, mio signore, quando non vedono ciò che fanno. |
+| [[archetypes/king\|RE]] HARRY | Allora, mio buon signore, insegnate a vostra cugina a consentire a occhi chiusi. |
+| BURGUNDY | Le farò l’occhiolino perché consenta, mio signore, se voi le insegnerete a capire il mio significato. Ché le fanciulle, [[motifs/well\|ben]] estivate e tenute al caldo, sono come mosche al tempo di San Bartolomeo: cieche, benché abbiano gli occhi. E allora sopportano d’essere maneggiate, mentre prima non tolleravano d’essere guardate. |
+| [[archetypes/king\|RE]] HARRY | Questa morale mi rimanda al [[motifs/time\|tempo]] e a una calda [[motifs/summer\|estate]], e così acchiapperò la mosca, vostra cugina, verso la fine, e anch’ella dovrà essere cieca. |
+| BURGUNDY | Come lo è l’[[motifs/love\|amore]], mio signore, prima ch’egli ami. |
+| [[archetypes/king\|RE]] HARRY | È così. E qualcuno di voi può ringraziare l’[[motifs/love\|amore]] della mia cecità, che non mi lascia vedere più d’una bella [[motifs/city\|città]] francese per una bella fanciulla francese che mi sta sulla strada. |
+| [[archetypes/king\|RE]] CARLO | Sì, mio signore, voi le vedete in prospettiva, le città mutate in una fanciulla—ché sono tutte cinte di mura verginali in cui la guerra non è mai entrata. |
+| [[archetypes/king\|RE]] HARRY | Sarà Kate mia moglie? |
+| [[archetypes/king\|RE]] CARLO | Come vi piace. |
+| [[archetypes/king\|RE]] HARRY | Ne son contento, purché le città verginali di cui parlate le facciano corteo: sicché la fanciulla che stava sulla via del mio desiderio mi mostri la via alla mia volontà. |
+| [[archetypes/king\|RE]] CARLO | Abbiamo consentito a tutti i termini di ragione. |
+| [[archetypes/king\|RE]] HARRY | È così, miei signori d’Inghilterra? |
+| *(didascalia)* | WARWICKI |
+| [[archetypes/king\|RE]] HARRY | Il [[archetypes/king\|Re]] ha concesso ogni articolo:<br>sua figlia per prima, e così in seguito tutti,<br>secondo le loro nature saldamente proposte. |
+| EXETER | Solo non ha ancora sottoscritto questo:<br>là dove vostra maestà domanda che il [[characters/king-of-france\|Re di Francia]],<br>avendo occasione di scrivere in materia di concessione, debba<br>nominare vostra altezza in questa forma e con questa aggiunta: |
+| *(didascalia)* | legge in francese, Notre très |
+| EXETER | cher fils Henri, Roi<br><br>d’Angleterre, Heritier de France, e così in latino,<br>Praeclarissimus filius noster Henricus, Rex Angliae et<br><br>Haeres Franciae. |
+| [[archetypes/king\|RE]] CARLO | Né questo io ho, fratello, così negato,<br>ma la vostra richiesta me lo farà lasciar passare. |
+| [[archetypes/king\|RE]] HARRY | Vi prego allora, in [[motifs/love\|amore]] e cara alleanza,<br>che quell’unico articolo si annoveri con gli altri,<br>e su ciò datemi vostra figlia. |
+| [[archetypes/king\|RE]] CARLO | Prendetela, bel figlio, e dal suo [[motifs/blood\|sangue]] suscitate<br>discendenza per me, affinché i contendenti regni<br>di Francia e d’Inghilterra, le cui stesse rive impallidiscono<br>d’invidia per la felicità l’una dell’altra,<br>cessino il loro odio, e questa cara congiunzione<br>pianti vicinato e cristiano accordo<br>nei loro dolci seni, sì che mai la guerra levi<br>la sua spada sanguinante fra l’Inghilterra e la bella Francia. |
+| *(didascalia)* | TUTTI Amen. |
+| [[archetypes/king\|RE]] HARRY | Ora benvenuta, Kate, e siatemi tutti testimoni<br>che qui io la bacio come mia sovrana [[characters/queen\|Regina]]. |
+| *(didascalia)* | Squilli di tromba |
+| [[characters/queen-isabel\|REGINA ISABELLA]] | Dio, il miglior artefice di tutti i matrimoni,<br>congiunga i vostri cuori in uno, i vostri regni in uno.<br>Come marito e moglie, essendo due, sono uno nell’[[motifs/love\|amore]],<br>così vi sia fra i vostri regni tale sposalizio<br>che mai maligno ufficio o crudele [[concepts/jealousy\|gelosia]],<br>che spesso turba il letto del benedetto [[motifs/marriage\|matrimonio]],<br>s’intrometta fra il patto di questi regni<br>a fare divorzio della loro lega incorporata;<br>affinché gli Inglesi come Francesi, i Francesi come Inglesi,<br>si ricevano a vicenda, Dio dica a ciò ‘Amen’. |
+| TUTTI | Amen. |
+| [[archetypes/king\|RE]] HARRY | Prepariamoci per il nostro [[motifs/marriage\|matrimonio]]. Nel qual giorno,<br>mio signore di Borgogna, prenderemo il vostro giuramento,<br>e quello di tutti i pari, a garanzia delle nostre leghe.<br>Allora giurerò io a Kate, e voi a me,<br>e i nostri giuramenti siano [[motifs/well\|ben]] mantenuti e prosperi. |
+| *(didascalia)* | Sennet. Escono |
+| [[archetypes/king\|RE]] HARRY | Epilogo |
+| *(didascalia)* | Entra il [[characters/chorus\|Coro]] |
+| [[characters/chorus\|CORO]] | Fin qui con rozza e del tutto inetta penna<br>il nostro autore chino ha inseguito la storia,<br>in piccolo spazio confinando uomini possenti,<br>straziando a scatti il pieno corso della loro gloria.<br>Poco [[motifs/time\|tempo]], ma in quel poco grandissimamente visse<br>questa stella d’Inghilterra. La Fortuna forgiò la sua spada,<br>con la quale conquistò il miglior [[motifs/garden\|giardino]] del mondo, e di esso lasciò suo figlio imperiale signore.<br>Enrico Sesto, in fasce d’infante incoronato [[characters/king-of-france\|re di Francia]] e d’Inghilterra, succedette a questo [[archetypes/king\|re]],<br>il cui stato tanti ebbero a governare che perdettero la Francia e fecero sanguinare la sua Inghilterra,<br>il che spesso la nostra scena ha mostrato—e, per amor loro,<br>nelle vostre belle menti trovi questo accoglienza. Esce |
+| PASSAGGI AGGIUNTIVI | La variante [[characters/dauphin\|Delfino]]/Borbone, che di solito comporta solo l’alterazione dei nomi dei parlanti, ha diverse conseguenze per il dialogo e la struttura di 4.5. Seguono i testi curati delle versioni in-folio e in-quarto di questa scena. |
+| *(didascalia)* | Entrano il Conestabile, Orléans, Borbone, il [[characters/dauphin\|Delfino]] e Rambures |
+| CONESTABILE | O diable!<br>ORLÉANS O Seigneur! Le jour est perdu, tout est perdu. |
+| [[characters/dauphin\|DELFINO]] | Mort de ma vie! Tutto è perduto, tutto.<br>Il rimprovero e la vergogna eterna<br>siedono a schernirci fra i nostri pennacchi.<br>Un breve allarme<br><br>O méchante fortune! Non fuggite. |
+| *(didascalia)* | Esce Rambures |
+| CONESTABILE | Ecco, tutti i nostri ranghi sono rotti. |
+| [[characters/dauphin\|DELFINO]] | Oh, vergogna imperitura! Pugnaliamoci:<br>sono questi gli sciagurati per cui giocavamo ai dadi?<br>ORLÉANS<br>È questo il [[archetypes/king\|re]] a cui mandammo per il suo riscatto? |
+| BOURBON | Vergogna, un’eterna vergogna, nient’altro che vergogna!<br>Moriamo con [[concepts/pride\|orgoglio]]. Dentro ancora una volta, indietro!<br>E chi non vorrà seguire Borbone adesso,<br>se ne vada a [[motifs/home\|casa]], e col berretto in mano<br>come un vile ruffiano tenga la porta della camera,<br>mentre da uno schiavo non più gentile del mio cane<br>la sua più bella figlia è contaminata. |
+| CONESTABILE | Il disordine che ci ha rovinati ci sia ora amico,<br>andiamo a mucchi a offrire le nostre vite.<br>ORLÉANS<br>Siamo ancora abbastanza vivi sul campo<br>da soffocare gli Inglesi nelle nostre calche,<br>se si potesse pensare a qualche ordine. |
+| BOURBON | Il diavolo si porti ora l’ordine. Io vado nella calca.<br>Sia breve la vita, o troppo lunga sarà la vergogna. |
+| *(didascalia)* | Escono |
+| *(didascalia)* | Entrano i quattro signori francesi: il Conestabile, Orléans, Borbone e Gebon |
+| GEBON | O diabello! |
+| CONESTABILE | Mort de ma vie!<br>ORLÉANS Oh, che giornata è questa! |
+| BOURBON | O jour de honte, tutto è andato, tutto è perduto. |
+| CONESTABILE | Siamo ancora abbastanza vivi sul campo<br>da soffocare gli Inglesi,<br>se si potesse pensare a qualche ordine. |
+| BOURBON | Un accidente all’ordine! Ancora una volta al campo!<br>E chi non vorrà seguire Borbone adesso,<br>se ne vada a [[motifs/home\|casa]], e col berretto in mano,<br>come un vile ruffiano tenga la porta della camera,<br>mentre da uno schiavo non più gentile del mio cane<br>la sua più bella figlia è contaminata. |
+| CONESTABILE | Il disordine che ci ha rovinati ci raddrizzi ora.<br>Veniamo a mucchi, offriremo le nostre vite<br>a questi Inglesi, o altrimenti moriremo con fama. |
+| *(didascalia)* | BOURBON Su, su, andiamo. |
+| CONESTABILE | Moriamo con [[concepts/honour\|onore]], la nostra vergogna dura troppo a lungo. |
+| *(didascalia)* | Escono |
 
 
 
@@ -1556,10 +2620,6 @@ Gently to hear, kindly to judge, our play. Exit
 | EXETER | Dispatch us with all [[characters/speed\|speed]], lest that our [[archetypes/king\|king]]<br>Come here himself to question our delay—<br>For he is footed in this land already. |
 | [[archetypes/king\|KING]] CHARLES | You shall be soon dispatched with fair conditions.<br>A [[motifs/night\|night]] is but small breath and little pause<br>To answer matters of this consequence. |
 | *(didascalia)* | Flourish. Exeunt |
-| [[archetypes/king\|KING]] CHARLES | 3.0 Enter [[characters/chorus\|Chorus]] |
-| [[characters/chorus\|CHORUS]] | Thus with imagined wing our swift scene flies<br>In motion of no less celerity<br>Than that of thought. Suppose that you have seen<br>The [[motifs/well\|well]]-appointed [[archetypes/king\|king]] at Dover pier<br>Embark his royalty, and his brave fleet<br>With silken streamers the young Phoebus fanning.<br>Play with your fancies, and in them behold<br>Upon the hempen tackle [[motifs/ship\|ship]]-boys climbing;<br>Hear the shrill whistle, which doth order give<br>To sounds confused; behold the threaden sails,<br>Borne with th‘invisible and creeping [[motifs/wind\|wind]],<br>Draw the huge bottoms through the furrowed sea,<br>Breasting the lofty surge. O do but think<br>You stand upon the rivage and behold<br>A [[motifs/city\|city]] on th’inconstant billows dancing—<br>For so appears this fleet majestical,<br>Holding due course to Harfleur. Follow, follow!<br>Grapple your minds to sternage of this navy,<br>And leave your England, as dead midnight still,<br>Guarded with grandsires, babies, and old women,<br>Either past or not arrived to pith and puissance.<br>For who is he, whose chin is but enriched<br>With one appearing hair, that will not follow<br>These culled and choice-drawn cavaliers to France?<br>Work, work your thoughts, and therein see a siege.<br>Behold the ordnance on their carriages,<br>With fatal mouths gaping on girded Harfleur.<br>Suppose th’ambassador from the French comes back,<br>Tells Harry that the [[archetypes/king\|King]] doth offer him<br>Catherine his daughter, and with her, to dowry,<br>Some petty and unprofitable dukedoms.<br>The offer likes not, and the nimble gunner<br>With linstock now the devilish cannon touches, |
-| *(didascalia)* | Alarum, and chambers go off |
-| [[characters/chorus\|CHORUS]] | And down goes all before them. Still be kind,<br>And eke out our performance with your mind. Exit |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3109,8 +4169,6 @@ Gently to hear, kindly to judge, our play. Exit
 | *(didascalia)* | BOURBON Come, come along. |
 | CONSTABLE | Let’s die with [[concepts/honour\|honour]], our shame doth last too long. |
 | *(didascalia)* | Exeunt |
-| ON | 21 September 1599 a Swiss doctor, Thomas Platter, saw what can only have been Shakespeare’s [[characters/julius-caesar\|Julius Caesar]] ‘very pleasingly performed’ in the newly built Globe Theatre—‘the straw-thatched house’—on the south side of the Thames. Francis Meres does not mention the play in Palladis Tamia of 1598, and minor resemblances with works printed in the early part of 1599 suggest that Shakespeare wrote it during that year. It was first printed in the 1623 Folio.<br>[[characters/julius-caesar\|Julius Caesar]] shows Shakespeare turning from English to [[historical-references/roman-history\|Roman history]], which he had last used in [[characters/titus-andronicus\|Titus Andronicus]] and The Rape of [[characters/lucrece\|Lucrece]]. Caesar was regarded as perhaps the greatest ruler in the [[concepts/history\|history]] of the world, and his murder by [[characters/brutus\|Brutus]] as one of the foulest crimes: but it was also recognized that Caesar had faults and [[characters/brutus\|Brutus]] virtues. Other plays, some now lost, had been written about Caesar and may have influenced Shakespeare; but there is no question that he made extensive use (for the first [[motifs/time\|time]] in this play) of Sir Thomas North’s great [[forms/translation\|translation]] (based on Jacques Amyot’s French version and published in 1579) of Lives of the Noble Grecians and Romans by the Greek historian Plutarch, who lived from about AD 50 to 130.<br>Shakespeare was interested in the aftermath of Caesar’s [[motifs/death\|death]] as [[motifs/well\|well]] as in the events leading up to it, and in the public and private motives of those responsible for it. So, although the Folio calls the play The [[forms/tragedy\|Tragedy]] of [[characters/julius-caesar\|Julius Caesar]], Caesar is dead before the play is half over; [[characters/brutus\|Brutus]], [[characters/cassius\|Cassius]], and Antony have considerably longer roles, and [[characters/brutus\|Brutus]] is portrayed with a degree of introspection which links him more closely to Shakespeare’s other tragic heroes. Shakespeare draws mainly on the last quarter of Plutarch’s Life of Caesar, showing his fall; he also uses the Lives of Antony and [[characters/brutus\|Brutus]] for the play’s first sweep of action, showing the rise of the conspiracy against Caesar, its leaders’ efforts to persuade [[characters/brutus\|Brutus]] to join them, the assassination itself, and its immediate aftermath as Antony incites the citizens to [[concepts/revenge\|revenge]]. The second part, showing the formation of the triumvirate of Antony, [[characters/lepidus\|Lepidus]], and [[characters/octavius-caesar\|Octavius Caesar]], the uneasy alliance of [[characters/brutus\|Brutus]] and [[characters/cassius\|Cassius]], and the battles in which Caesar’s spirit revenges itself, depends mainly on the Life of [[characters/brutus\|Brutus]]. Facts are often altered and rearranged in the interests of dramatic economy and effectiveness.<br>Although Shakespeare wrote the play at a point in his career at which he was tending to use a high proportion of prose, [[characters/julius-caesar\|Julius Caesar]] is written mainly in verse; as if to suit the subject matter, the style is classical in its lucidity and eloquence, reaching a climax of rhetorical effectiveness in the speeches over Caesar’s [[concepts/body\|body]] (3.2). The play’s stage-worthiness has been repeatedly demonstrated; it offers excellent opportunities in all its main roles, and the quarrel between [[characters/brutus\|Brutus]] and [[characters/cassius\|Cassius]] (4.2) has been admired ever since Leonard Digges, a contemporary of Shakespeare, praised it at the expense of Ben Jonson:<br>So have I seen, when Caesar would appear,<br>And on the stage at half-sword parley were<br>[[characters/brutus\|Brutus]] and [[characters/cassius\|Cassius]]; O, how the audience<br>Were ravished, with what [[concepts/wonder\|wonder]] they went thence,<br>When some new day they would not brook a line<br>Of tedious though [[motifs/well\|well]]-laboured Catiline. |
-| THE PERSONS OF THE | PLAY |
 
 
 <span class="qlang-split" data-lang="it"></span>

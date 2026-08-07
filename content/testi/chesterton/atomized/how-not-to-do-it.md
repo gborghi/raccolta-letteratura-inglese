@@ -88,6 +88,81 @@ to a man merely boasting of [[concepts/self|self]]-righteousness or a man merely
 boasting of avarice.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Come Non Farlo
+
+G.K.'s Weekly
+16 maggio 1935
+
+G.K.C.
+
+Ci sono due modi riconosciuti di discutere con un comunista; ed
+entrambi sono sbagliati.  Ce n'è anche un terzo, che è giusto ma che
+non è riconosciuto.  Ora, ho la sensazione che, per una ragione o per l'altra,
+buona parte del nostro [[motifs/time|tempo]] sarà presto occupata a discutere
+con i comunisti.  E vorrei [[forms/sketch|abbozzare]] molto sommariamente questa mia idea
+sul modo giusto di farlo.  Curiosamente, i due
+modi più comuni di contraddire il comunismo si contraddicono anche a vicenda.
+Il primo consiste nel convincere il bolscevico di tutti i vizi.  Il secondo,
+per quanto strano, consiste nel convincerlo di tutte le virtù.
+Consiste in realtà nell'opporre tutti i nostri vizi alle sue virtù;
+o alle sue presunte virtù.
+
+Questo è di gran lunga il più pericoloso e perfino suicida trucco
+dei due; ma la sua [[concepts/nature|natura]] richiede qualche spiegazione.
+Il primo metodo, comune o convenzionale, è almeno abbastanza semplice.
+Il capitalista dice al comunista: "Non entrerai nella mia casa,
+perché so che la daresti alle fiamme; non parlerai alla mia famiglia,
+perché so che la faresti saltare in aria; sei un volgare ladro e
+assassino, e io sono una persona altamente rispettabile e morale; e non come
+questo russo."  Ora, a me non piace parlare così a un bolscevico;
+perché non mi piacerebbe parlare così a uno scassinatore.
+È farisaico; e il fariseo è un nemico più antico
+del cristiano di quanto lo sia il marxista.
+
+Ma lo preferisco piuttosto all'altro metodo, che trovo
+estremamente comune tra coloro che pretendono di difendere la proprietà
+o l'[[concepts/individualism|individualismo]] contro l'eresia marxista.  Consiste in realtà
+nel dire al comunista che è un idealista, ovvero, in altre parole,
+che deve avere torto perché ha degli ideali.  In questo secondo caso,
+il capitalista dice al comunista: "Tu credi a un mucchio
+di sciocchezze sulla fratellanza degli uomini; ma io ti dico,
+da uomo pratico, che ogni uomo vuole ottenere quanto più può
+per sé, e batterà il proprio fratello negli affari se ci riesce.
+Ogni uomo deve obbedire al proprio istinto acquisitivo."  (Ho letto queste
+parole precise, di recente, in un attacco alla teoria bolscevica.)
+"Non si possono tenere le cose in fermento e in movimento senza l'iniziativa privata;
+e non si può produrre iniziativa privata se non la si corrompe
+o ricompensa con gli scintillanti premi della proprietà privata."
+La gente usa questi argomenti contro il comunismo, come se fossero gli unici
+argomenti contro il comunismo; e poi si stupisce che un certo numero
+di giovani più generosi e animosi diventino comunisti.
+
+Non sembrano accorgersi che, a questi giovani, il capitalista
+in questione pare solo dire: "Sono un vecchio farabutto avido,
+e ti proibisco di essere qualcosa di diverso."
+
+Ora, il vero, pieno e definitivo argomento contro il comunismo è che
+la proprietà privata è molto più importante dell'iniziativa privata.
+Un borseggiatore rappresenta l'iniziativa privata, ma difficilmente
+diremmo che sostiene la proprietà privata.  La proprietà privata non è
+una ricompensa che esiste per il bene dell'iniziativa privata.
+Al contrario, l'iniziativa privata è soltanto uno strumento o un'arma,
+che può talvolta essere utile a preservare la proprietà privata.
+Ed è necessario preservare la proprietà privata; semplicemente perché
+il suo altro nome è libertà.  Da un lato, non è una mera
+rispettabilità convenzionale; al contrario, è solo l'uomo
+che possiede un po' di proprietà e di riservatezza che può vivere liberamente la propria vita.
+Dall'altro, non è una mera licenza di commerciare, e ancor meno
+una mera licenza di truffare; al contrario, tutto il senso
+della proprietà è che in essa soltanto può nutrirsi naturalmente
+il sentimento dell'[[concepts/honour|onore]].  Servirebbe un certo spazio per esporlo
+qui, e potrebbe volerci un po' di [[motifs/time|tempo]] per esporlo al comunista.
+Ma il comunista ascolterebbe almeno più a lungo di quanto ascolterebbe
+un uomo che si limiti a vantare la propria [[concepts/self|superiorità morale]] o un uomo che si limiti a
+vantare la propria avarizia.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="how-not-to-do-it (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/nature,motif/time,concept/honour,concept/individualism,concept/nature,concept/self,form/sketch"></span>

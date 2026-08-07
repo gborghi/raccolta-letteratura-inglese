@@ -25,21 +25,6 @@ Wearily, as one would turn to nod good-bye to La Rochefoucauld,
 If the street were [[motifs/time|time]] and he at the end of the street,  
 And I say, ‘Cousin Harriet, here is the Boston Evening Transcript.’  
 
-Aunt [[characters/helen|Helen]]  
-Miss [[characters/helen|Helen]] Slingsby was my maiden aunt,  
-And lived in a small house near a fashionable square  
-Cared for by servants to the number of four.  
-Now when she died there was [[motifs/silence|silence]] in heaven  
-And [[motifs/silence|silence]] at her end of the street.  
-The shutters were drawn and the undertaker wiped his feet —  
-He was aware that this sort of thing had occurred before.  
-The dogs were handsomely provided for,  
-But shortly afterwards the parrot died too.  
-The Dresden [[motifs/clock|clock]] continued ticking on the mantelpiece,  
-And the footman sat upon the dining-table  
-Holding the second housemaid on his knees —  
-Who had always been so careful while her mistress lived.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -52,22 +37,7 @@ e ad altri portando il Boston Evening Transcript,
 salgo i gradini e suono il campanello, voltandomi  
 stancamente, come ci si volterebbe a fare un cenno d’addio a La Rochefoucauld,  
 se la strada fosse il [[motifs/time|tempo]] e lui in fondo alla strada,  
-e dico: ‘Cugina Harriet, ecco il Boston Evening Transcript.’  
-
-Zia [[characters/helen|Helen]]  
-Miss [[characters/helen|Helen]] Slingsby era la mia zia zitella,  
-e viveva in una piccola casa presso una piazza alla moda  
-accudita da servitori in numero di quattro.  
-Ora, quando morì, ci fu [[motifs/silence|silenzio]] in cielo  
-e [[motifs/silence|silenzio]] al suo capo della strada.  
-Le imposte furono chiuse e l’impresario di pompe funebri si pulì i piedi —  
-sapeva bene che cose simili erano già accadute.  
-Ai cani fu provveduto lautamente,  
-ma poco dopo morì anche il pappagallo.  
-L’[[motifs/clock|orologio]] di Dresda continuò a ticchettare sulla mensola del camino,  
-e il valletto sedeva sul tavolo da pranzo  
-tenendo la seconda cameriera sulle ginocchia —  
-lei che era sempre stata così attenta finché viveva la padrona.
+e dico: ‘Cugina Harriet, ecco il Boston Evening Transcript.’
 
 
 
@@ -89,31 +59,6 @@ Upon the glazen shelves kept watch
 Matthew and Waldo, guardians of the [[concepts/faith|faith]],  
 The army of unalterable law.  
 
-Mr. Apollinax  
-LUCIAN  
-When Mr. Apollinax visited the United States  
-His laughter tinkled among the teacups.  
-I thought of Fragilion, that shy figure among the birch-trees,  
-And of Priapus in the shrubbery  
-Gaping at the lady in the swing.  
-In the palace of Mrs. Phlaccus, at Professor Charming-Cheetah’s  
-He laughed like an irresponsible fœtus.  
-His laughter was submarine and profound  
-Like the old man of the sea’s  
-Hidden under coral islands  
-Where worried bodies of drowned men drift down in the green [[motifs/silence|silence]],  
-Dropping from fingers of surf.  
-I looked for the head of Mr. Apollinax rolling under a chair  
-Or grinning over a screen  
-With seaweed in its hair.  
-I heard the beat of centaur’s hoofs over the hard turf  
-As his dry and passionate talk devoured the afternoon.  
-‘He is a charming man’ — ‘But after all what did he mean?’ —  
-‘His pointed ears…. He must be unbalanced.’ —  
-‘There was something he said that I might have challenged.’  
-Of dowager Mrs. Phlaccus, and Professor and Mrs. Cheetah  
-I remember a slice of lemon, and a bitten macaroon.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -130,32 +75,7 @@ e le sue zie non erano ben sicure di cosa pensarne,
 ma sapevano che era moderno.  
 Sui ripiani a vetri vegliavano  
 Matthew e Waldo, guardiani della [[concepts/faith|fede]],  
-l’esercito dell’inalterabile legge.  
-
-Mr. Apollinax  
-LUCIANO  
-Quando Mr. Apollinax visitò gli Stati Uniti  
-la sua risata tintinnò fra le tazze da tè.  
-Pensai a Fragilion, quella timida figura fra le betulle,  
-e a Priapo nel boschetto  
-che sbircia a bocca aperta la signora sull’altalena.  
-Nel palazzo della signora Phlaccus, dal professor Charming-Cheetah  
-rise come un feto irresponsabile.  
-La sua risata era sottomarina e profonda  
-come quella del vecchio del mare  
-nascosto sotto isole di corallo  
-dove i corpi angosciati degli annegati vanno alla deriva giù nel verde [[motifs/silence|silenzio]],  
-cadendo dalle dita della risacca.  
-Cercai la testa di Mr. Apollinax che rotolava sotto una sedia  
-o ghignava sopra un paravento  
-con le alghe fra i capelli.  
-Udii il battito degli zoccoli del centauro sul duro tappeto erboso  
-mentre il suo discorso arido e appassionato divorava il pomeriggio.  
-‘È un uomo affascinante’ — ‘Ma dopotutto che cosa voleva dire?’ —  
-‘Quelle sue orecchie a punta…. Dev’essere squilibrato.’ —  
-‘C’era qualcosa che ha detto che avrei potuto contestare.’  
-Della vedova signora Phlaccus, e del professore e della signora Cheetah  
-ricordo una fetta di limone, e un amaretto morsicato.
+l’esercito dell’inalterabile legge.
 
 
 
@@ -187,9 +107,6 @@ As his dry and passionate talk devoured the afternoon.
 Of dowager Mrs. Phlaccus, and Professor and Mrs. Cheetah
 I remember a slice of lemon, and a bitten macaroon.
 
-Hysteria
-As she laughed I was aware of becoming involved in her laughter and being part of it, until her teeth were only accidental [[motifs/stars|stars]] with a talent for squad-drill. I was drawn in by short gasps, inhaled at each momentary recovery, lost finally in the dark caverns of her throat, bruised by the ripple of unseen muscles. An elderly waiter with trembling hands was hurriedly spreading a pink and white checked cloth over the rusty green iron table, saying: ‘If the lady and gentleman wish to take their tea in the [[motifs/garden|garden]], if the lady and gentleman wish to take their tea in the [[motifs/garden|garden]]…’ I decided that if the shaking of her breasts could be stopped, some of the fragments of the afternoon might be collected, and I concentrated my attention with careful subtlety to this end.
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -217,9 +134,6 @@ mentre il suo discorso arido e appassionato divorava il pomeriggio.
 ‘C’era qualcosa che ha detto che avrei potuto contestare.’
 Della vedova signora Phlaccus, e del professore e della signora Cheetah
 ricordo una fetta di limone, e un amaretto morsicato.
-
-Isteria
-Mentre lei rideva mi accorsi di essere coinvolto nella sua risata e di farne parte, finché i suoi denti non furono che [[motifs/stars|stelle]] accidentali con un talento per l’ordine chiuso. Fui risucchiato da brevi rantoli, inalato a ogni momentanea ripresa, perduto infine nelle caverne buie della sua gola, ammaccato dall’ondeggiare di muscoli invisibili. Un cameriere anziano dalle mani tremanti stava frettolosamente stendendo una tovaglia a quadri rosa e bianchi sul tavolo di ferro verde arrugginito, dicendo: ‘Se la signora e il signore desiderano prendere il tè in [[motifs/garden|giardino]], se la signora e il signore desiderano prendere il tè in [[motifs/garden|giardino]]…’ Decisi che se si fosse potuto arrestare lo scuotimento dei suoi seni, si sarebbe potuto raccogliere qualche frammento del pomeriggio, e concentrai la mia attenzione con attenta sottigliezza a questo fine.
 
 
 
@@ -269,30 +183,6 @@ Over buttered scones and crumpets
     Weeping, weeping multitudes  
 Droop in a hundred A.B.C.’s.  
 
-Le Directeur  
-Malheur à la malheureuse Tamise  
-Qui coule si près du Spectateur.  
-Le directeur  
-Conservateur  
-Du Spectateur  
-Empeste la brise.  
-Les actionnaires  
-Réactionnaires  
-Du Spectateur  
-Conservateur  
-Bras dessus bras dessous  
-Font des tours  
-A pas de loup.  
-Dans un égout  
-Une petite fille  
-En guenilles  
-Camarde  
-Regarde  
-Le directeur  
-Du Spectateur  
-Conservateur  
-Et crève d’amour.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -337,31 +227,7 @@ dove sono le aquile e le trombe?
     Sepolte sotto Alpi profonde di [[motifs/snow|neve]].  
 Su focaccine imburrate e crumpets  
     piangendo, piangendo, moltitudini  
-si accasciano in cento A.B.C.  
-
-Il Direttore  
-Sventura allo sventurato Tamigi  
-che scorre così presso lo Spectateur.  
-Il direttore  
-conservatore  
-dello Spectateur  
-appesta la brezza.  
-Gli azionisti  
-reazionari  
-dello Spectateur  
-conservatore  
-a braccetto  
-fanno giri  
-a passo di lupo.  
-In una fogna  
-una bambina  
-in stracci  
-camusa  
-guarda  
-il direttore  
-dello Spectateur  
-conservatore  
-e crepa d’amore.
+si accasciano in cento A.B.C.
 
 
 
@@ -392,28 +258,6 @@ Du Spectateur
 Conservateur  
 Et crève d’amour.  
 
-Mélange Adultère de Tout  
-En Amérique, professeur;  
-En Angleterre, journaliste;  
-C’est à grands pas et en sueur  
-Que vous suivrez à peine ma piste.  
-En Yorkshire, conférencier;  
-A Londres, un peu banquier,  
-Vous me paierez bien la tête.  
-C’est à [[settings/paris|Paris]] que je me coiffe  
-Casque noir de jemenfoutiste.  
-En Allemagne, philosophe  
-Surexcité par Emporheben  
-Au grand air de Bergsteigleben;  
-J’erre toujours de-ci de-là  
-A divers coups de tra là là  
-De Damas jusqu’ à Omaha.  
-Je célébrai mon jour de fête  
-Dans une oasis d’Afrique  
-Vêtu d’une peau de girafe.  
-On montrera mon cénotaphe  
-Aux côtes brûlantes de Mozambique.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -439,29 +283,7 @@ guarda
 il direttore  
 dello Spectateur  
 conservatore  
-e crepa d’amore.  
-
-Miscuglio Adultero di Tutto  
-In America, professore;  
-in Inghilterra, giornalista;  
-è a gran passi e in sudore  
-che a stento seguirete la mia pista.  
-Nello Yorkshire, conferenziere;  
-a Londra, un po’ banchiere,  
-mi prenderete bene in giro.  
-È a [[settings/paris|Parigi]] che mi acconcio il capo  
-d’un casco nero da menefreghista.  
-In Germania, filosofo  
-sovreccitato dall’Emporheben  
-all’aria aperta del Bergsteigleben;  
-erro sempre di qua e di là  
-a vari colpi di tra là là  
-da Damasco fino a Omaha.  
-Celebrai il mio giorno onomastico  
-in un’oasi d’Africa  
-vestito d’una pelle di giraffa.  
-Mostreranno il mio cenotafio  
-sulle coste ardenti del Mozambico.
+e crepa d’amore.
 
 
 
@@ -600,39 +422,6 @@ By all the martyr’d virgins kist,
 While the True Church remains below  
 Wrapt in the old miasmal mist.  
 
-Dans le Restaurant  
-Le garçon délabré qui n’a rien à faire  
-Que de se gratter les doigts et se pencher sur mon épaule:  
-    ‘Dans mon pays il fera temps pluvieux,  
-    Du vent, du grand soleil, et de la pluie;  
-    C’est ce qu’on appelle le jour de lessive des gueux.’  
-(Bavard, baveux, à la croupe arrondie,  
-Je te prie, au moins, ne bave pas dans la soupe).  
-    ‘Les saules trempés, et des bourgeons sur les ronces —  
-    C’est là, dans une averse, qu’on s’abrite.  
-J’avais sept ans, elle était plus petite.  
-    Ellé était toute mouillée, je lui ai donné des primevères.’  
-Les taches de son gilet montent au chiffre de trente-huit.  
-    ‘Je la chatouillais, pour la faire rire.  
-    J’éprouvais un instant de puissance et de délire.’  
-    Mais alors, vieux lubrique, à cet âge …  
-‘Monsieur, le fait est dur.  
-    Il est venu, nous peloter, un gros chien;  
-    Moi j’avais peur, je l’ai quittée à mi-chemin.  
-    C’est dommage.’  
-         Mais alors, tu as ton vautour!  
-Va t’en te décrotter les rides du visage;  
-Tiens, ma fourchette, décrasse-toi le crâne.  
-De quel droit payes-tu des expériences comme moi?  
-Tiens, voilà dix sous, pour la salle-de-bains.  
-Phlébas, le Phénicien, pendant quinze jours noyé,  
-Oubliait les cris des mouettes et la houle de Cornouaille,  
-Et les profits et les pertes, et la cargaison d’étain:  
-Un courant de sous-mer l’emporta très loin,  
-Le repassant aux étapes de sa vie antérieure.  
-Figurez-vous done, c’était un sort pénible;  
-Cependant, ce fut jadis un bel homme, de haute taille.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -674,40 +463,7 @@ sonare un’arpa d’oro.
 Sarà lavato bianco come [[motifs/snow|neve]],  
 baciato da tutte le vergini martiri,  
 mentre la Vera Chiesa resta quaggiù  
-avvolta nell’antica nebbia miasmatica.  
-
-Nel Ristorante  
-Il cameriere malandato che non ha nulla da fare  
-se non grattarsi le dita e chinarsi sulla mia spalla:  
-    ‘Al mio paese farà tempo piovoso,  
-    vento, gran sole, e pioggia;  
-    è quello che si chiama il giorno di bucato dei pezzenti.’  
-(Chiacchierone, bavoso, dalla groppa arrotondata,  
-ti prego, almeno, non sbavare nella minestra).  
-    ‘I salici zuppi, e le gemme sui rovi —  
-    è là, in un acquazzone, che ci si ripara.  
-Avevo sette anni, lei era più piccola.  
-    Era tutta bagnata, le diedi delle primule.’  
-Le macchie del suo panciotto salgono alla cifra di trentotto.  
-    ‘La solleticavo, per farla ridere.  
-    Provai un istante di potenza e di delirio.’  
-    Ma allora, vecchio libidinoso, a quell’età …  
-‘Signore, il fatto è duro.  
-    È venuto, a palparci, un grosso cane;  
-    io avevo paura, l’ho lasciata a metà strada.  
-    È un peccato.’  
-         Ma allora, hai il tuo avvoltoio!  
-Vattene a ripulirti le rughe del viso;  
-tieni, la mia forchetta, sgrossati il cranio.  
-Con che diritto paghi esperienze come le mie?  
-Tieni, ecco dieci soldi, per il bagno pubblico.  
-Flebas, il Fenicio, per quindici giorni annegato,  
-dimenticava i gridi dei gabbiani e la risacca di Cornovaglia,  
-e i profitti e le perdite, e il carico di stagno:  
-una corrente sottomarina lo portò assai lontano,  
-ripassandolo per le tappe della sua vita anteriore.  
-Figuratevi dunque, era una sorte penosa;  
-eppure, fu un tempo un bell’uomo, d’alta statura.
+avvolta nell’antica nebbia miasmatica.
 
 
 
@@ -846,8 +602,6 @@ We demand a committee, a representative committee, a committee of investigation
 
 RESIGN RESIGN RESIGN
 
-MINOR POEMS
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -983,8 +737,6 @@ Chiediamo un comitato, un comitato rappresentativo, un comitato d’inchiesta
 
 DIMETTITI DIMETTITI DIMETTITI
 
-POESIE MINORI
-
 
 
 <span class="atom-split" data-atom="055_landscapes" data-title="Landscapes" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/nature,motif/birds,motif/seasons,motif/river,motif/decay,concept/memory_and_time,concept/faith,form/lyric,histref/new_england,setting/new_england,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
@@ -1059,22 +811,6 @@ But resign this land at the end, resign it
 To its true owner, the tough one, the sea-gull.  
 The palaver is finished.  
 
-Lines for an Old Man  
-The tiger in the tiger-pit  
-Is not more irritable than I.  
-The whipping tail is not more still  
-Than when I smell the enemy  
-Writhing in the essential [[motifs/blood|blood]]  
-Or dangling from the friendly tree.  
-When I lay bare the tooth of wit  
-The hissing over the archèd tongue  
-Is more affectionate than hate,  
-More bitter than the [[motifs/love|love]] of youth,  
-And inaccessible by the young.  
-Reflected from my golden eye  
-The dullard knows that he is mad.  
-Tell me if I am not glad!  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1145,23 +881,7 @@ della freccia danzante, la rondine purpurea. Saluta
 in [[motifs/silence|silenzio]] il succiacapre. Tutti son deliziosi. Dolce dolce dolce  
 ma cedi infine questa terra, cedila  
 al suo vero padrone, il duro, il gabbiano.  
-La chiacchierata è finita.  
-
-Versi per un vecchio  
-La tigre nella fossa della tigre  
-non è più irritabile di me.  
-La coda che frusta non è più immobile  
-di quando fiuto il nemico  
-che si contorce nel [[motifs/blood|sangue]] essenziale  
-o penzola dall’albero amico.  
-Quando snudo il dente dell’arguzia  
-il sibilo sopra la lingua inarcata  
-è più affettuoso dell’odio,  
-più amaro dell’[[motifs/love|amore]] dei giovani,  
-e ai giovani inaccessibile.  
-Riflesso dal mio occhio d’oro  
-l’ottuso sa d’esser pazzo.  
-Ditemi se non sono contento!
+La chiacchierata è finita.
 
 
 
@@ -1195,36 +915,6 @@ to say, to the past and the future generations
 of our kin and of our speech, that we took up  
 our positions, in obedience to instructions.  
 
-A Note on War Poetry  
-A Note on War Poetry was written at the request of Miss [[motifs/storm|Storm]] Jameson‚ to be included in a book entitled [[settings/london|London]] Calling (Harper Brothers, [[settings/new-york|New York]], 1942).  
-
-
-Not the expression of collective emotion  
-Imperfectly reflected in the daily papers.  
-Where is the point at which the merely individual  
-Explosion breaks  
-In the path of an action merely typical  
-To create the universal, originate a symbol  
-Out of the impact? This is a meeting  
-On which we attend  
-Of forces beyond control by experiment —  
-Of [[concepts/nature|Nature]] and the Spirit. Mostly the individual  
-Experience is too large, or too small. Our emotions  
-Are only ‘incidents’  
-In the effort to keep day and [[motifs/night|night]] together.  
-It seems just possible that a poem might happen  
-To a very young man: but a poem is not poetry —  
-That is a life.  
-War is not a life: it is a situation,  
-One which may neither be ignored nor accepted,  
-A problem to be met with ambush and stratagem,  
-Enveloped or scattered.  
-The enduring is not a substitute for the transient,  
-Neither one for the other. But the abstract conception  
-Of private experience at its greatest intensity  
-Becoming universal, which we call ‘poetry’,  
-May be affirmed in verse.  
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1253,37 +943,7 @@ e di quelli ancora per cui i sentieri della gloria sono
 i vicoli e le vie della Britannia:  
 per dire, alle generazioni passate e future  
 del nostro sangue e della nostra lingua, che prendemmo  
-le nostre posizioni, in obbedienza agli ordini.  
-
-Una nota sulla poesia di guerra  
-Una nota sulla poesia di guerra fu scritta su richiesta di Miss [[motifs/storm|Storm]] Jameson, per essere inclusa in un libro intitolato [[settings/london|London]] Calling (Harper Brothers, [[settings/new-york|New York]], 1942).  
-
-
-Non l’espressione d’un’emozione collettiva  
-imperfettamente riflessa nei giornali quotidiani.  
-Dov’è il punto in cui la meramente individuale  
-esplosione irrompe  
-nel percorso d’un’azione meramente tipica  
-a creare l’universale, a originare un simbolo  
-dall’urto? Questo è un incontro  
-cui assistiamo  
-di forze che l’esperimento non controlla —  
-della [[concepts/nature|Natura]] e dello Spirito. Per lo più l’individuale  
-esperienza è troppo grande, o troppo piccola. Le nostre emozioni  
-sono soltanto ‘incidenti’  
-nello sforzo di tenere insieme il giorno e la [[motifs/night|notte]].  
-Sembra appena possibile che una poesia accada  
-a un uomo molto giovane: ma una poesia non è poesia —  
-quella è una vita.  
-La guerra non è una vita: è una situazione,  
-una che non si può né ignorare né accettare,  
-un problema da affrontare con agguato e stratagemma,  
-da accerchiare o disperdere.  
-Ciò che dura non è un sostituto del transitorio,  
-né l’uno dell’altro. Ma la concezione astratta  
-dell’esperienza privata alla sua massima intensità  
-che si fa universale, e che chiamiamo ‘poesia’,  
-può essere affermata in versi.
+le nostre posizioni, in obbedienza agli ordini.
 
 
 
@@ -1296,51 +956,6 @@ You’ve read of several kinds of Cat 1
 About the Author
 Thomas Stearns Eliot was born in St Louis, Missouri, in 1888. He came to England in 1914 and published his first book of poems in 1917. He received the Nobel Prize in Literature in 1948. Eliot died in 1965.
 
-Also by T. S. Eliot
-COLLECTED POEMS 1909–1962
-
-
-FOUR QUARTETS
-THE WASTE LAND and OTHER POEMS
-THE WASTE LAND
-A facsimile and transcript of the original drafts
-Edited by Valerie Eliot
-SELECTED POEMS
-INVENTIONS OF THE MARCH HARE
-[[works/poems-(chesterton)|Poems]] 1909–1917
-Edited by Christopher Ricks
-OLD POSSUM’S BOOK OF PRACTICAL CATS
-correspondence
-THE LETTERS OF T. S. ELIOT
-Volume 1 – 1898–1922
-Edited by Valerie Eliot
-plays
-MURDER IN THE [[settings/cathedral|CATHEDRAL]]
-THE FAMILY REUNION
-THE COCKTAIL PARTY
-THE CONFIDENTIAL CLERK
-THE ELDER STATESMAN
-[[forms/literary-criticism|literary criticism]]
-SELECTED ESSAYS
-THE USE OF POETRY and THE USE OF CRITICISM
-THE VARIETIES OF METAPHYSICAL POETRY
-Edited by Ronald Schuchard
-TO CRITICIZE THE CRITIC
-ON POETRY AND POETS
-FOR LANCELOT ANDREWES
-SELECTED PROSE OF T. S. ELIOT
-social criticism
-THE IDEA OF CHRISTIAN SOCIETY
-Edited by David Edwards
-NOTES TOWARDS THE DEFINITION OF CULTURE
-for students
-A CONCORDANCE TO THE COMPLETE
-POEMS AND PLAYS OF T. S. ELIOT
-Edited by John Dawson, Peter Holland and David McKitterick
-A STUDENT’S GUIDE TO THE SELECTED POEMS
-OF T. S. ELIOT
-By B. C. Southam
-
 
 <span class="qlang-split" data-lang="it"></span>
 
@@ -1349,48 +964,3 @@ Avete letto di parecchie specie di Gatto 1
 
 L’autore
 Thomas Stearns Eliot nacque a St Louis, Missouri, nel 1888. Venne in Inghilterra nel 1914 e pubblicò il suo primo libro di poesie nel 1917. Ricevette il Premio Nobel per la Letteratura nel 1948. Eliot morì nel 1965.
-
-Dello stesso autore
-POESIE RACCOLTE 1909–1962
-
-
-QUATTRO QUARTETTI
-LA TERRA DESOLATA e ALTRE POESIE
-LA TERRA DESOLATA
-Facsimile e trascrizione delle stesure originali
-A cura di Valerie Eliot
-POESIE SCELTE
-INVENZIONI DELLA LEPRE MARZOLINA
-Poesie 1909–1917
-A cura di Christopher Ricks
-IL LIBRO DEL VECCHIO OPOSSUM SUI GATTI TUTTOFARE
-epistolario
-LE LETTERE DI T. S. ELIOT
-Volume 1 – 1898–1922
-A cura di Valerie Eliot
-teatro
-ASSASSINIO NELLA [[settings/cathedral|CATTEDRALE]]
-LA RIUNIONE DI FAMIGLIA
-IL COCKTAIL PARTY
-IL SEGRETARIO PARTICOLARE
-L’ANZIANO STATISTA
-[[forms/literary-criticism|critica letteraria]]
-SAGGI SCELTI
-L’USO DELLA POESIA e L’USO DELLA CRITICA
-LE VARIETÀ DELLA POESIA METAFISICA
-A cura di Ronald Schuchard
-CRITICARE IL CRITICO
-SULLA POESIA E SUI POETI
-PER LANCELOT ANDREWES
-PROSE SCELTE DI T. S. ELIOT
-critica sociale
-L’IDEA DI UNA SOCIETÀ CRISTIANA
-A cura di David Edwards
-APPUNTI PER UNA DEFINIZIONE DELLA CULTURA
-per gli studenti
-UNA CONCORDANZA ALLE POESIE E ALLE OPERE
-TEATRALI COMPLETE DI T. S. ELIOT
-A cura di John Dawson, Peter Holland e David McKitterick
-UNA GUIDA PER LO STUDENTE ALLE POESIE SCELTE
-DI T. S. ELIOT
-Di B. C. Southam

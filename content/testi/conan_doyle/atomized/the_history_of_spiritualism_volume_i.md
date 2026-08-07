@@ -1049,33 +1049,6 @@ As Mr. Houdini has seemed to question whether the Davenports themselves ever ass
 It is singular that any individual, sceptic or Spiritualist, could believe such statements after fourteen years of the most bitter persecution and violent opposition, culminating in the riots of Liverpool, Huddersfield, and Leeds, where our lives were placed in imminent peril by the fury of brutal mobs, our property destroyed, and where we suffered a loss of seventy-five thousand dollars, and all because we would not renounce Spiritualism, and declare ourselves jugglers, when threatened by the mob, and urged to do so. In conclusion, we have only to say that we denounce all such statements as base falsehoods.
 END OF VOL. I
 
-THE HISTORY OF SPIRITUALISM VOLUME
-II
-CONTENTS
-CHAPTER I
-THE CAREER OF EUSAPIA PALLADINO
-CHAPTER II
-GREAT MEDIUMS FROM 1870 TO 1900: CHARLES H. FOSTER-MADAME D’ESPERANCE-WILLIAM EGLINTON-STAINTON MOSES
-CHAPTER III
-THE SOCIETY FOR PSYCHICAL RESEARCH
-CHAPTER IV
-ECTOPLASM
-CHAPTER V
-SPIRIT PHOTOGRAPHY
-CHAPTER VI
-VOICE MEDIUMSHIP AND MOULDS
-CHAPTER VII
-FRENCH, GERMAN, AND ITALIAN SPIRITUALISM
-CHAPTER VIII
-SOME GREAT MODERN MEDIUMS
-CHAPTER IX
-SPIRITUALISM AND THE WAR
-CHAPTER X
-THE RELIGIOUS ASPECT OF SPIRITUALISM
-CHAPTER XI
-THE AFTER-LIFE AS SEEN BY SPIRITUALISTS
-APPENDIX
-
 
 
 

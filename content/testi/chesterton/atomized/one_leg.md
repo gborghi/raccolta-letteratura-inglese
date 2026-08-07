@@ -146,6 +146,61 @@ If you want to realize the splendid vision of all visible things--
 wink the other eye.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# una gamba
+
+I Vantaggi dell'Avere una Sola Gamba
+
+G.K.Chesterton
+
+[Da: Tremendous Trifles, 1909]
+
+Un mio amico che stava visitando una povera donna in lutto, e andava cercando qualche frase di conforto che non fosse né insolente né fiacca, disse infine: «Credo che si possa attraversare questi grandi dolori e persino uscirne migliori. Ciò che logora sono le piccole preoccupazioni». «Verissimo, signore», rispose la vecchia con enfasi, «e me ne intendo, dato che ne ho avute dieci». È forse in questo senso che è più vero dire che le piccole preoccupazioni sono le più logoranti. Nel suo significato più vago la frase, per quanto contenga una [[concepts/truth|verità]], contiene anche qualche possibilità di [[concepts/self-deception|autoinganno]] e di errore. Chi ha insieme piccoli guai e grandi ha il diritto di dire che trova i piccoli i più amari; ed è indubbiamente vero che la schiena curva sotto pesi incredibili può avvertire una lieve aggiunta a quei pesi: un gigante che regge la terra e tutta la sua creazione animale potrebbe ancora trovare un peso la cavalletta. Ma temo che la massima secondo cui le più piccole preoccupazioni sono le peggiori venga talvolta usata, o abusata, da persone che non hanno altro che le più piccole preoccupazioni. La dama può scusarsi d'imprecare contro la [[motifs/rose|rosa]] sgualcita riflettendo con quale straordinaria dignità porterebbe la [[motifs/crown|corona]] di spine — se dovesse. Il gentiluomo può permettersi di maledire il pranzo e dirsi che si comporterebbe molto meglio se si trattasse di pura e semplice fame. Non occorre negare che la cavalletta sulla spalla dell'uomo sia un peso; ma non occorre nutrire troppo rispetto per un gentiluomo che va sempre gridando che preferirebbe un elefante quando sa bene che nel paese non ci sono elefanti. Possiamo concedere che una pagliuzza possa spezzare la schiena del cammello, ma ci piace sapere che è davvero l'ultima pagliuzza e non la prima.
+
+Ammetto che chi ha torti gravi ha un vero diritto di brontolare, purché brontoli di qualcos'altro. È un fatto singolare che, se sono sani di mente, quasi sempre brontolino di qualcos'altro. Parlare con perfetta ragionevolezza dei propri torti realissimi è il modo più spiccio per uscir di senno. Ma le persone dai grandi guai parlano dei piccoli, e l'uomo che si lamenta della [[motifs/rose|rosa]] sgualcita ha spessissimo la carne piena di spine. Ma se un uomo ha di solito una vita quotidiana molto serena e felice, allora penso che siamo autorizzati a chiedergli di non fare [[settings/mountains|montagne]] di nonnulla. Non nego che i nonnulla possano talvolta essere importanti. I piccoli fastidi hanno questo di malvagio, che possono essere più repentini perché più invisibili; non proiettano innanzi alcuna [[archetypes/shadow|ombra]], non hanno atmosfera. Nessuno ha mai avuto una mistica premonizione di stare per inciampare in uno sgabello. Guglielmo III morì cadendo su una talpaia; non suppongo che, con tutte le sue varie capacità, sarebbe riuscito a cadere da una montagna. Ma, fatta la tara di tutto ciò, ripeto che possiamo chiedere a un uomo felice (non a Guglielmo III) di sopportare puri inconvenienti, e persino di farne parte della sua felicità. Del [[motifs/pain|dolore]] positivo o della [[concepts/poverty|povertà]] positiva non parlo qui. Parlo di quelle innumerevoli limitazioni accidentali che continuamente ci attraversano il cammino: il maltempo, la costrizione a questa o a quella casa o stanza, il fallimento di appuntamenti o accordi, l'attesa alle stazioni ferroviarie, la posta persa, il trovare impuntualità quando vogliamo puntualità, o, ciò che è peggio, il trovare puntualità quando non la vogliamo. È dei poetici piaceri che si possono trarre da tutto questo che io canto — canto con fiducia perché ho di recente sperimentato i poetici piaceri che nascono dal dover stare seduto su una sola sedia con un piede slogato, con l'unica alternativa di stare ritto su una gamba sola come una cicogna. La cicogna è una similitudine poetica; perciò l'ho adottata con entusiasmo.
+
+Per apprezzare qualcosa dobbiamo sempre isolarla, anche se la cosa stessa simboleggia qualcosa di diverso dall'isolamento. Se vogliamo vedere che cos'è una casa, dev'essere una casa in un paesaggio disabitato. Se vogliamo raffigurare ciò che un uomo è davvero, dobbiamo raffigurare un uomo solo in un [[motifs/desert|deserto]] o sulla scura sabbia di un mare. Finché è una figura sola, egli significa tutto ciò che significa l'umanità; finché è solitario, egli significa socievolezza e [[concepts/comradeship|cameratismo]]. Aggiungi un'altra figura e il quadro è meno umano, non più. Uno fa compagnia, due nessuna. Se vuoi simboleggiare l'edificare umano, disegna una sola torre scura all'orizzonte; se vuoi simboleggiare la luce, non vi sia stella nel cielo. Anzi, per tutta quella stagione stranamente illuminata che chiamiamo il nostro giorno non v'è che una sola stella nel cielo — una stella grande e fiera che chiamiamo il sole. Un solo sole è splendido; sei soli sarebbero soltanto volgari. Una sola Torre di Giotto è [[concepts/sublime|sublime]]; una fila di Torri di Giotto sarebbe soltanto come una fila di pali bianchi. La poesia dell'arte sta nel contemplare la torre unica; la poesia della [[concepts/nature|natura]] nel vedere l'albero unico; la poesia dell'[[motifs/love|amore]] nel seguire la donna unica; la poesia della religione nell'adorare la stella unica. E così, nella medesima pensosa lucidità, trovo la poesia di tutta l'anatomia umana nello stare ritto su una gamba sola. Per esprimere completa e perfetta gambaggine, la gamba deve stare in [[concepts/sublime|sublime]] isolamento, come la torre nel deserto. Come dice così finemente Ibsen, la gamba più forte è quella che sta più da sola.
+
+Questa gamba solitaria su cui mi reggo ha tutta la semplicità di una
+colonna dorica. Gli studiosi di architettura ci dicono che l'unico
+uso legittimo di una colonna è sostenere un peso. Questa mia colonna
+adempie alla sua funzione legittima. Sostiene un peso.
+Essendo di sostanza animale e organica, può persino migliorare con
+il processo, e in questi pochi giorni in cui mi trovo così iniquamente in bilico
+l'impotenza o la dislocazione dell'una gamba può trovare compenso
+nella prodigiosa forza e nella classica [[concepts/beauty|bellezza]] dell'altra.
+La signora Mountstuart Jenkinson, nel [[forms/novel|romanzo]] del signor George Meredith,
+potrebbe passare da un momento all'altro, e vedendomi nell'atteggiamento della cicogna
+esclamerebbe, con pari ammirazione e più letterale esattezza:
+«Che gamba ha!» Si noti come questa celebre frase letteraria sostiene
+la mia tesi sull'isolamento di ogni cosa ammirevole.
+La signora Mountstuart Jenkinson, volendo comporre un quadro chiaro e perfetto
+della grazia umana, disse che Sir Willoughby Patterne aveva una gamba.
+Sorvolò con delicatezza e nascose il fatto goffo e sconveniente
+che ne aveva in realtà due. Due gambe erano superflue
+e irrilevanti, una riflessione e una confusione. Due gambe avrebbero
+confuso la signora Mountstuart Jenkinson come due Monumenti a [[settings/london|Londra]].
+Che, avendo avuto una buona gamba, dovesse averne un'altra: sarebbe stato
+usare vane ripetizioni come fanno i pagani. Ne sarebbe rimasta
+tanto sconcertata quanto se egli fosse stato un centopiedi.
+
+Ogni pessimismo ha per suo oggetto un segreto ottimismo.
+Ogni rinuncia alla vita, ogni diniego del piacere, ogni tenebra,
+ogni austerità, ogni desolazione ha per suo vero scopo questa separazione
+di qualcosa, affinché possa essere goduto acutamente e perfettamente.
+Sono grato alla lieve slogatura che ha introdotto questa misteriosa
+e affascinante divisione fra uno dei miei piedi e l'altro.
+Il modo di [[motifs/love|amare]] qualcosa è rendersi conto di quanto diversamente
+avrebbe potuto essere. La morale della cosa è del tutto esilarante.
+Questo mondo e tutte le nostre facoltà in esso sono assai più terribili e
+belli di quanto mai sappiamo, finché qualche accidente non ce lo rammenta.
+Se vuoi percepire quella felicità sconfinata, limita te stesso,
+foss'anche per un solo istante. Se vuoi capire quanto tremendamente
+e mirabilmente sia fatta l'immagine di Dio, reggiti su una gamba sola.
+Se vuoi cogliere la splendida visione di tutte le cose visibili:
+chiudi l'altro occhio.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="one_leg (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/desert,motif/love,motif/nature,motif/pain,motif/rose,concept/comradeship,concept/nature,concept/poverty,concept/self_deception,concept/sublime,concept/truth,setting/desert,setting/mountains"></span>

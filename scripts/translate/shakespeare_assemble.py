@@ -26,13 +26,31 @@ import os, sys, re, json, difflib
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import dickens_tower as dt
 
-PLAYS_ABS = os.path.join(dt.VAULT_ROOT, "Authors", "Shakespeare", "Plays")
+AUTHOR = "Shakespeare"
+PLAYS_ABS = os.path.join(dt.VAULT_ROOT, "Authors", AUTHOR, "Plays")
 
 # The preamble - title, editorial introduction, dramatis personae - is the one part of <Play>.md
 # with no scene to draw from. It is translated separately into this store, keyed by play, as a list
 # of lines the same length as the English preamble, and injected at assembly time.
 PREAMBLES_EN = os.path.join(dt.ROOT, "data", "shakespeare_preambles_en.json")
 PREAMBLES_IT = os.path.join(dt.ROOT, "data", "shakespeare_preambles_it.json")
+
+
+def set_author(name):
+    """Point the module at another author's Plays/ subtree.
+
+    Nothing below Shakespeare's name in this file is Shakespeare-specific: the shape it
+    assembles - `Plays/<Play>/Act_N/Scene_M.md` atoms under a `<Play>/<Play>.md` book file
+    whose scenes are reproduced under `### Atto N, Scena M` - is the vault's convention for
+    a play, and Eliot's five verse plays were atomized into exactly that shape so they would
+    go through this same pipeline rather than grow a parallel one.
+    """
+    global AUTHOR, PLAYS_ABS, PREAMBLES_EN, PREAMBLES_IT
+    AUTHOR = name
+    PLAYS_ABS = os.path.join(dt.VAULT_ROOT, "Authors", AUTHOR, "Plays")
+    slug = AUTHOR.lower()
+    PREAMBLES_EN = os.path.join(dt.ROOT, "data", "%s_preambles_en.json" % slug)
+    PREAMBLES_IT = os.path.join(dt.ROOT, "data", "%s_preambles_it.json" % slug)
 
 # Fraction of non-blank lines allowed to remain English before assembly refuses to write.
 MAX_UNTRANSLATED = 0.25
@@ -423,10 +441,15 @@ def assemble(play):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "extract-preambles":
+    argv = sys.argv[1:]
+    if "--author" in argv:
+        i = argv.index("--author")
+        set_author(argv[i + 1])
+        del argv[i:i + 2]
+    if argv and argv[0] == "extract-preambles":
         cmd_extract_preambles()
         sys.exit(0)
-    args = [a for a in sys.argv[1:] if a != "--all"]
+    args = [a for a in argv if a != "--all"]
     plays = args or sorted(d for d in os.listdir(PLAYS_ABS)
                            if os.path.isdir(os.path.join(PLAYS_ABS, d)))
     for p in plays:

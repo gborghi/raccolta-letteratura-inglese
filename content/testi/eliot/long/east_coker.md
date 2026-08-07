@@ -236,6 +236,228 @@ The wave cry, the [[motifs/wind|wind]] cry, the vast waters
 Of the petrel and the porpoise. In my end is my beginning.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+    Nel mio principio è la mia fine. In successione  
+Le case sorgono e cadono, crollano, sono ampliate,  
+Sono rimosse, distrutte, restaurate, o al loro posto  
+C'è un campo aperto, o una fabbrica, o una circonvallazione.  
+Vecchia pietra a nuovo edificio, vecchio legname a nuovi fuochi,  
+Vecchi fuochi a cenere, e cenere alla terra  
+Che è già carne, pelo ed escrementi,  
+Osso d'uomo e di bestia, stelo di grano e foglia.  
+Le case vivono e muoiono: c'è un [[motifs/time|tempo]] per costruire  
+E un [[motifs/time|tempo]] per vivere e per generare  
+E un [[motifs/time|tempo]] perché il [[motifs/wind|vento]] rompa il vetro allentato  
+E scuota il rivestimento dove trotta il topo campagnolo  
+E scuota l'arazzo lacero tessuto con un motto silenzioso.  
+    Nel mio principio è la mia fine. Ora la luce cade  
+Attraverso il campo aperto, lasciando la strada incassata  
+Serrata di rami, buia nel pomeriggio,  
+Dove t'appoggi a una scarpata mentre passa un furgone,  
+E la strada incassata insiste nella direzione  
+Verso il villaggio, nel calore elettrico  
+Ipnotizzata. In una calda foschia la luce afosa  
+È assorbita, non rifratta, dalla pietra grigia.  
+Le dalie [[motifs/sleep|dormono]] nel vuoto [[motifs/silence|silenzio]].  
+Aspetta il gufo precoce.  
+                                                       In quel campo aperto  
+Se non t'avvicini troppo, se non t'avvicini troppo,  
+In una mezzanotte d'[[motifs/summer|estate]], puoi udire la musica  
+Del debole flauto e del piccolo tamburo  
+E vederli danzare intorno al falò  
+L'unione d'uomo e di donna  
+In daunsinge, significante matrimonio —  
+Un sacramento dignitoso e commodo.  
+A due a due, necessarye coniunctione,  
+Tenendosi l'un l'altro per la mano o per il braccio  
+Il che significa concordia. Intorno e intorno al [[motifs/fire|fuoco]]  
+Saltando fra le fiamme, o uniti in cerchi,  
+Rusticamente solenni o in rustico riso  
+Alzando piedi pesanti in scarpe goffe,  
+Piedi di terra, piedi d'argilla, alzati in allegria campestre  
+Allegria di quelli da tempo sotto terra  
+Che nutrono il grano. Tenendo il [[motifs/time|tempo]],  
+Tenendo il ritmo nella loro danza  
+Come nel loro vivere nelle vive [[motifs/seasons|stagioni]]  
+Il [[motifs/time|tempo]] delle [[motifs/seasons|stagioni]] e delle costellazioni  
+Il [[motifs/time|tempo]] della mungitura e il [[motifs/time|tempo]] della mietitura  
+Il [[motifs/time|tempo]] dell'accoppiarsi d'uomo e di donna  
+E quello delle bestie. Piedi che si levano e ricadono.  
+Mangiare e bere. Sterco e [[motifs/death|morte]].  
+    L'[[motifs/dawn|alba]] indica, e un altro giorno  
+Si prepara al calore e al [[motifs/silence|silenzio]]. Al largo, all'[[motifs/dawn|alba]], il [[motifs/wind|vento]]  
+Increspa e scivola. Io sono qui  
+O là, o altrove. Nel mio principio.  
+II  
+Che fa il tardo novembre  
+Con lo scompiglio della [[motifs/spring|primavera]]  
+E le creature del caldo dell'[[motifs/summer|estate]],  
+E i bucaneve contorti sotto i piedi  
+E le malvarose che mirano troppo in alto  
+Dal rosso al grigio e rovinano a terra  
+Rose tardive colme di [[motifs/snow|neve]] precoce?  
+Il tuono rotolato dalle rotanti [[motifs/stars|stelle]]  
+Simula carri trionfali  
+Schierati in guerre costellate  
+Lo Scorpione lotta contro il Sole  
+Finché il Sole e la [[motifs/moon|Luna]] tramontano  
+Piangono le comete e volano le Leonidi  
+Cacciano i cieli e le pianure  
+Turbinati in un vortice che porterà  
+Il mondo a quel [[motifs/fire|fuoco]] distruttore  
+Che arde prima che regni la calotta di ghiaccio.  
+    Era un modo di dirlo — non molto soddisfacente:  
+Uno studio perifrastico in una foggia poetica logora,  
+Che ti lascia ancora con l'intollerabile lotta  
+Con le parole e i significati. La poesia non conta.  
+Non era (per ricominciare) ciò che ci si aspettava.  
+Quale doveva essere il valore della a lungo attesa,  
+A lungo sperata calma, la serenità autunnale  
+E la saggezza dell'età? Ci avevano ingannati,  
+O ingannato se stessi, gli anziani dalla voce quieta,  
+Lasciandoci in eredità solo una ricetta per l'inganno?  
+La serenità solo una deliberata ebetudine,  
+La saggezza solo la conoscenza di [[motifs/secrets|segreti]] morti  
+Inutili nel buio in cui scrutavano  
+O da cui distoglievano gli occhi. C'è, ci sembra,  
+Al massimo, solo un valore limitato  
+Nella conoscenza derivata dall'esperienza.  
+La conoscenza impone uno schema, e falsifica,  
+Perché lo schema è nuovo in ogni istante  
+E ogni istante è una nuova e sconvolgente  
+Valutazione di tutto ciò che siamo stati. Siamo disingannati solo  
+Di ciò che, ingannando, non poteva più nuocere.  
+Nel mezzo, non solo nel mezzo del cammino  
+Ma per tutto il cammino, in una selva oscura, in un rovo,  
+Sull'orlo di un grimpen, dove non c'è appiglio sicuro,  
+E minacciati da mostri, luci fatue,  
+Rischiando l'incantesimo. Non fatemi sentire  
+Della saggezza dei vecchi, ma piuttosto della loro follia,  
+La loro [[concepts/fear|paura]] della [[concepts/fear|paura]] e della frenesia, la loro [[concepts/fear|paura]] del possesso,  
+Dell'appartenere a un altro, o ad altri, o a Dio.  
+L'unica saggezza che possiamo [[concepts/hope|sperare]] di acquisire  
+È la saggezza dell'[[concepts/humility|umiltà]]: l'[[concepts/humility|umiltà]] è senza fine.  
+Le case se ne sono andate tutte sotto il mare.  
+I danzatori se ne sono andati tutti sotto la [[motifs/hill|collina]].  
+
+III  
+Oh buio buio buio. Vanno tutti nel buio,  
+Gli spazi interstellari vuoti, il vuoto dentro il vuoto,  
+I capitani, i banchieri d'affari, gli eminenti uomini di lettere.  
+I generosi mecenati dell'arte, gli statisti e i governanti,  
+Illustri funzionari pubblici, presidenti di molti comitati,  
+Signori dell'industria e piccoli appaltatori, vanno tutti nel buio,  
+E buio il Sole e la [[motifs/moon|Luna]], e l'Almanach de Gotha  
+E la Stock Exchange Gazette, il Directory of Directors,  
+E freddo il senso e perduto il movente dell'azione.  
+E tutti andiamo con loro, nel funerale silenzioso,  
+Il funerale di nessuno, ché non c'è nessuno da seppellire.  
+Dissi all'[[motifs/soul|anima]] mia, sta' ferma, e lascia che il buio ti scenda addosso  
+Che sarà il buio di Dio. Come, in un teatro,  
+Le luci si spengono, perché la scena sia cambiata  
+Con un cupo rimbombo di quinte, con un moto di buio sul buio,  
+E sappiamo che le colline e gli alberi, il panorama lontano  
+E l'ardita imponente facciata vengono tutti portati via —  
+O come, quando un treno sotterraneo, nel tube, si ferma troppo a lungo tra due stazioni  
+E la conversazione si alza e lentamente sfuma nel [[motifs/silence|silenzio]]  
+E vedi dietro ogni volto approfondirsi il vuoto mentale  
+Lasciando solo il crescente terrore di non avere nulla a cui pensare;  
+O quando, sotto etere, la mente è cosciente ma cosciente di nulla—  
+Dissi all'[[motifs/soul|anima]] mia, sta' ferma, e attendi senza [[concepts/hope|speranza]]  
+Ché la [[concepts/hope|speranza]] sarebbe [[concepts/hope|speranza]] della cosa sbagliata; attendi senza [[motifs/love|amore]]  
+Ché l'[[motifs/love|amore]] sarebbe [[motifs/love|amore]] della cosa sbagliata; c'è ancora la [[concepts/faith|fede]]  
+Ma la [[concepts/faith|fede]] e l'[[motifs/love|amore]] e la [[concepts/hope|speranza]] sono tutti nell'attesa.  
+Attendi senza pensiero, ché non sei pronto per il pensiero:  
+Così il buio sarà la luce, e l'immobilità la danza.  
+Sussurro di ruscelli correnti, e il [[motifs/winter|invernale]] [[motifs/lightning|lampo]].  
+Il timo selvatico non visto e la fragola selvatica,  
+Il riso nel [[motifs/garden|giardino]], estasi riecheggiata  
+Non perduta, ma esigente, che addita l'agonia  
+Della [[motifs/death|morte]] e della nascita.  
+                                  Dici che sto ripetendo  
+Qualcosa che ho già detto. Lo dirò di nuovo.  
+Devo dirlo di nuovo? Per arrivare là,  
+Per arrivare dove sei, per venire da dove non sei,  
+   Devi andare per una via in cui non c'è estasi.  
+Per arrivare a ciò che non sai  
+   Devi andare per una via che è la via dell'ignoranza.  
+Per possedere ciò che non possiedi  
+   Devi andare per la via della spossessione.  
+Per arrivare a ciò che non sei  
+   Devi passare per la via in cui non sei.  
+E ciò che non sai è l'unica cosa che sai  
+E ciò che possiedi è ciò che non possiedi  
+E dove sei è dove non sei.
+IV  
+Il chirurgo ferito adopra l'acciaio  
+Che interroga la parte malata;  
+Sotto le mani sanguinanti sentiamo  
+L'acuta compassione dell'arte del guaritore  
+Che scioglie l'enigma della curva della febbre.  
+La nostra sola salute è la malattia  
+Se obbediamo all'[[characters/nurse|infermiera]] morente  
+La cui cura costante non è di piacere  
+Ma di ricordare la nostra maledizione, e quella di Adamo,  
+E che, per essere guariti, il nostro male deve peggiorare.  
+L'intera terra è il nostro ospedale  
+Dotato dal milionario rovinato,  
+Dove, se facciamo [[motifs/well|bene]], dovremo  
+Morire dell'assoluta cura paterna  
+Che non ci lascerà, ma ovunque ci previene.  
+Il gelo sale dai piedi alle ginocchia,  
+La febbre canta nei fili della mente.  
+Se voglio scaldarmi, allora devo gelare  
+E tremare in gelidi fuochi purgatoriali  
+La cui fiamma è rose, e il cui fumo è rovi.  
+Il [[motifs/blood|sangue]] stillante la nostra sola bevanda,  
+La carne sanguinosa il nostro solo cibo:  
+Malgrado ciò ci piace pensare  
+Che siamo sana, sostanziale carne e [[motifs/blood|sangue]] —  
+E ancora, malgrado ciò, chiamiamo buono questo Venerdì.  
+V  
+Eccomi dunque, a metà del cammino, avendo avuto vent'anni —  
+Vent'anni in gran parte sprecati, gli anni de l'entre deux guerres —
+
+
+Cercando di imparare a usare le parole, e ogni tentativo  
+È un inizio del tutto nuovo, e un diverso genere di fallimento  
+Perché si è solo imparato ad aver ragione delle parole  
+Per la cosa che non si ha più da dire, o il modo in cui  
+Non si è più disposti a dirla. E così ogni impresa  
+È un nuovo inizio, un'incursione nell'inarticolato  
+Con un equipaggiamento logoro che sempre più si guasta  
+Nel disordine generale dell'imprecisione del sentire,  
+Squadre indisciplinate d'emozione. E ciò che c'è da conquistare  
+Con la forza e la sottomissione, è già stato scoperto  
+Una o due volte, o più volte, da uomini che non si può [[concepts/hope|sperare]]  
+Di emulare — ma non c'è competizione —  
+C'è solo la lotta per recuperare ciò che è stato perduto  
+E trovato e perduto ancora e ancora: e ora, in condizioni  
+Che paiono non propizie. Ma forse né guadagno né perdita.  
+Per noi, c'è solo il tentare. Il resto non è affar nostro.  
+La [[motifs/home|casa]] è il luogo da cui si parte. Man mano che invecchiamo  
+Il mondo si fa più strano, lo schema più complicato  
+Di morti e vivi. Non l'istante intenso  
+Isolato, senza prima né dopo,  
+Ma una vita intera che arde in ogni istante  
+E non la vita di un uomo soltanto  
+Ma di antiche pietre che non si possono decifrare.  
+C'è un [[motifs/time|tempo]] per la sera sotto la luce delle stelle,  
+Un [[motifs/time|tempo]] per la sera sotto la luce della lampada  
+(La sera con l'album delle fotografie).  
+L'[[motifs/love|amore]] è più che mai se stesso  
+Quando il qui e l'ora cessano di contare.  
+I vecchi dovrebbero essere esploratori  
+Qui e là non ha importanza  
+Dobbiamo essere immobili e pur sempre in moto  
+Verso un'altra intensità  
+Per un'ulteriore [[concepts/union|unione]], una comunione più profonda  
+Attraverso il freddo buio e la vuota desolazione,  
+Il grido dell'onda, il grido del [[motifs/wind|vento]], le acque vaste  
+Della procellaria e della focena. Nella mia fine è il mio principio.
+
 
 
 <span class="atom-split" data-atom="section_01_part_i" data-title="East Coker — I" data-chapter="part i" data-kind="section" data-tags="motif/dawn,motif/death,motif/fire,motif/seasons,motif/silence,motif/sleep,motif/summer,motif/time,motif/wind"></span>
@@ -295,6 +517,61 @@ Wrinkles and slides. I am here
 Or there, or elsewhere. In my beginning.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+    Nel mio principio è la mia fine. In successione  
+Le case sorgono e cadono, crollano, sono ampliate,  
+Sono rimosse, distrutte, restaurate, o al loro posto  
+C'è un campo aperto, o una fabbrica, o una circonvallazione.  
+Vecchia pietra a nuovo edificio, vecchio legname a nuovi fuochi,  
+Vecchi fuochi a cenere, e cenere alla terra  
+Che è già carne, pelo ed escrementi,  
+Osso d'uomo e di bestia, stelo di grano e foglia.  
+Le case vivono e muoiono: c'è un [[motifs/time|tempo]] per costruire  
+E un [[motifs/time|tempo]] per vivere e per generare  
+E un [[motifs/time|tempo]] perché il [[motifs/wind|vento]] rompa il vetro allentato  
+E scuota il rivestimento dove trotta il topo campagnolo  
+E scuota l'arazzo lacero tessuto con un motto silenzioso.  
+    Nel mio principio è la mia fine. Ora la luce cade  
+Attraverso il campo aperto, lasciando la strada incassata  
+Serrata di rami, buia nel pomeriggio,  
+Dove t'appoggi a una scarpata mentre passa un furgone,  
+E la strada incassata insiste nella direzione  
+Verso il villaggio, nel calore elettrico  
+Ipnotizzata. In una calda foschia la luce afosa  
+È assorbita, non rifratta, dalla pietra grigia.  
+Le dalie [[motifs/sleep|dormono]] nel vuoto [[motifs/silence|silenzio]].  
+Aspetta il gufo precoce.  
+                                                       In quel campo aperto  
+Se non t'avvicini troppo, se non t'avvicini troppo,  
+In una mezzanotte d'[[motifs/summer|estate]], puoi udire la musica  
+Del debole flauto e del piccolo tamburo  
+E vederli danzare intorno al falò  
+L'unione d'uomo e di donna  
+In daunsinge, significante matrimonio —  
+Un sacramento dignitoso e commodo.  
+A due a due, necessarye coniunctione,  
+Tenendosi l'un l'altro per la mano o per il braccio  
+Il che significa concordia. Intorno e intorno al [[motifs/fire|fuoco]]  
+Saltando fra le fiamme, o uniti in cerchi,  
+Rusticamente solenni o in rustico riso  
+Alzando piedi pesanti in scarpe goffe,  
+Piedi di terra, piedi d'argilla, alzati in allegria campestre  
+Allegria di quelli da tempo sotto terra  
+Che nutrono il grano. Tenendo il [[motifs/time|tempo]],  
+Tenendo il ritmo nella loro danza  
+Come nel loro vivere nelle vive [[motifs/seasons|stagioni]]  
+Il [[motifs/time|tempo]] delle [[motifs/seasons|stagioni]] e delle costellazioni  
+Il [[motifs/time|tempo]] della mungitura e il [[motifs/time|tempo]] della mietitura  
+Il [[motifs/time|tempo]] dell'accoppiarsi d'uomo e di donna  
+E quello delle bestie. Piedi che si levano e ricadono.  
+Mangiare e bere. Sterco e [[motifs/death|morte]].  
+    L'[[motifs/dawn|alba]] indica, e un altro giorno  
+Si prepara al calore e al [[motifs/silence|silenzio]]. Al largo, all'[[motifs/dawn|alba]], il [[motifs/wind|vento]]  
+Increspa e scivola. Io sono qui  
+O là, o altrove. Nel mio principio.
+
 
 
 <span class="atom-split" data-atom="section_02_part_ii" data-title="East Coker — II" data-chapter="part II" data-kind="section" data-tags="motif/fire,motif/hill,motif/moon,motif/secrets,motif/snow,motif/spring,motif/stars,motif/summer,concept/fear,concept/hope,concept/humility"></span>
@@ -353,6 +630,60 @@ The houses are all gone under the sea.
 The dancers are all gone under the [[motifs/hill|hill]].  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II  
+Che fa il tardo novembre  
+Con lo scompiglio della [[motifs/spring|primavera]]  
+E le creature del caldo dell'[[motifs/summer|estate]],  
+E i bucaneve contorti sotto i piedi  
+E le malvarose che mirano troppo in alto  
+Dal rosso al grigio e rovinano a terra  
+Rose tardive colme di [[motifs/snow|neve]] precoce?  
+Il tuono rotolato dalle rotanti [[motifs/stars|stelle]]  
+Simula carri trionfali  
+Schierati in guerre costellate  
+Lo Scorpione lotta contro il Sole  
+Finché il Sole e la [[motifs/moon|Luna]] tramontano  
+Piangono le comete e volano le Leonidi  
+Cacciano i cieli e le pianure  
+Turbinati in un vortice che porterà  
+Il mondo a quel [[motifs/fire|fuoco]] distruttore  
+Che arde prima che regni la calotta di ghiaccio.  
+    Era un modo di dirlo — non molto soddisfacente:  
+Uno studio perifrastico in una foggia poetica logora,  
+Che ti lascia ancora con l'intollerabile lotta  
+Con le parole e i significati. La poesia non conta.  
+Non era (per ricominciare) ciò che ci si aspettava.  
+Quale doveva essere il valore della a lungo attesa,  
+A lungo sperata calma, la serenità autunnale  
+E la saggezza dell'età? Ci avevano ingannati,  
+O ingannato se stessi, gli anziani dalla voce quieta,  
+Lasciandoci in eredità solo una ricetta per l'inganno?  
+La serenità solo una deliberata ebetudine,  
+La saggezza solo la conoscenza di [[motifs/secrets|segreti]] morti  
+Inutili nel buio in cui scrutavano  
+O da cui distoglievano gli occhi. C'è, ci sembra,  
+Al massimo, solo un valore limitato  
+Nella conoscenza derivata dall'esperienza.  
+La conoscenza impone uno schema, e falsifica,  
+Perché lo schema è nuovo in ogni istante  
+E ogni istante è una nuova e sconvolgente  
+Valutazione di tutto ciò che siamo stati. Siamo disingannati solo  
+Di ciò che, ingannando, non poteva più nuocere.  
+Nel mezzo, non solo nel mezzo del cammino  
+Ma per tutto il cammino, in una selva oscura, in un rovo,  
+Sull'orlo di un grimpen, dove non c'è appiglio sicuro,  
+E minacciati da mostri, luci fatue,  
+Rischiando l'incantesimo. Non fatemi sentire  
+Della saggezza dei vecchi, ma piuttosto della loro follia,  
+La loro [[concepts/fear|paura]] della [[concepts/fear|paura]] e della frenesia, la loro [[concepts/fear|paura]] del possesso,  
+Dell'appartenere a un altro, o ad altri, o a Dio.  
+L'unica saggezza che possiamo [[concepts/hope|sperare]] di acquisire  
+È la saggezza dell'[[concepts/humility|umiltà]]: l'[[concepts/humility|umiltà]] è senza fine.  
+Le case se ne sono andate tutte sotto il mare.  
+I danzatori se ne sono andati tutti sotto la [[motifs/hill|collina]].
+
 
 
 <span class="atom-split" data-atom="section_03_part_iii" data-title="East Coker — III" data-chapter="part III" data-kind="section" data-tags="motif/death,motif/garden,motif/lightning,motif/love,motif/moon,motif/silence,motif/soul,motif/winter,concept/faith,concept/hope"></span>
@@ -408,6 +739,57 @@ And what you own is what you do not own
 And where you are is where you are not.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III  
+Oh buio buio buio. Vanno tutti nel buio,  
+Gli spazi interstellari vuoti, il vuoto dentro il vuoto,  
+I capitani, i banchieri d'affari, gli eminenti uomini di lettere.  
+I generosi mecenati dell'arte, gli statisti e i governanti,  
+Illustri funzionari pubblici, presidenti di molti comitati,  
+Signori dell'industria e piccoli appaltatori, vanno tutti nel buio,  
+E buio il Sole e la [[motifs/moon|Luna]], e l'Almanach de Gotha  
+E la Stock Exchange Gazette, il Directory of Directors,  
+E freddo il senso e perduto il movente dell'azione.  
+E tutti andiamo con loro, nel funerale silenzioso,  
+Il funerale di nessuno, ché non c'è nessuno da seppellire.  
+Dissi all'[[motifs/soul|anima]] mia, sta' ferma, e lascia che il buio ti scenda addosso  
+Che sarà il buio di Dio. Come, in un teatro,  
+Le luci si spengono, perché la scena sia cambiata  
+Con un cupo rimbombo di quinte, con un moto di buio sul buio,  
+E sappiamo che le colline e gli alberi, il panorama lontano  
+E l'ardita imponente facciata vengono tutti portati via —  
+O come, quando un treno sotterraneo, nel tube, si ferma troppo a lungo tra due stazioni  
+E la conversazione si alza e lentamente sfuma nel [[motifs/silence|silenzio]]  
+E vedi dietro ogni volto approfondirsi il vuoto mentale  
+Lasciando solo il crescente terrore di non avere nulla a cui pensare;  
+O quando, sotto etere, la mente è cosciente ma cosciente di nulla—  
+Dissi all'[[motifs/soul|anima]] mia, sta' ferma, e attendi senza [[concepts/hope|speranza]]  
+Ché la [[concepts/hope|speranza]] sarebbe [[concepts/hope|speranza]] della cosa sbagliata; attendi senza [[motifs/love|amore]]  
+Ché l'[[motifs/love|amore]] sarebbe [[motifs/love|amore]] della cosa sbagliata; c'è ancora la [[concepts/faith|fede]]  
+Ma la [[concepts/faith|fede]] e l'[[motifs/love|amore]] e la [[concepts/hope|speranza]] sono tutti nell'attesa.  
+Attendi senza pensiero, ché non sei pronto per il pensiero:  
+Così il buio sarà la luce, e l'immobilità la danza.  
+Sussurro di ruscelli correnti, e il [[motifs/winter|invernale]] [[motifs/lightning|lampo]].  
+Il timo selvatico non visto e la fragola selvatica,  
+Il riso nel [[motifs/garden|giardino]], estasi riecheggiata  
+Non perduta, ma esigente, che addita l'agonia  
+Della [[motifs/death|morte]] e della nascita.  
+                                  Dici che sto ripetendo  
+Qualcosa che ho già detto. Lo dirò di nuovo.  
+Devo dirlo di nuovo? Per arrivare là,  
+Per arrivare dove sei, per venire da dove non sei,  
+   Devi andare per una via in cui non c'è estasi.  
+Per arrivare a ciò che non sai  
+   Devi andare per una via che è la via dell'ignoranza.  
+Per possedere ciò che non possiedi  
+   Devi andare per la via della spossessione.  
+Per arrivare a ciò che non sei  
+   Devi passare per la via in cui non sei.  
+E ciò che non sai è l'unica cosa che sai  
+E ciò che possiedi è ciò che non possiedi  
+E dove sei è dove non sei.
+
 
 
 <span class="atom-split" data-atom="section_04_part_iv" data-title="East Coker — IV" data-chapter="part IV" data-kind="section" data-tags="motif/blood,motif/well,character/nurse"></span>
@@ -440,6 +822,35 @@ In spite of which we like to think
 That we are sound, substantial flesh and [[motifs/blood|blood]] —  
 Again, in spite of that, we call this Friday good.  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV  
+Il chirurgo ferito adopra l'acciaio  
+Che interroga la parte malata;  
+Sotto le mani sanguinanti sentiamo  
+L'acuta compassione dell'arte del guaritore  
+Che scioglie l'enigma della curva della febbre.  
+La nostra sola salute è la malattia  
+Se obbediamo all'[[characters/nurse|infermiera]] morente  
+La cui cura costante non è di piacere  
+Ma di ricordare la nostra maledizione, e quella di Adamo,  
+E che, per essere guariti, il nostro male deve peggiorare.  
+L'intera terra è il nostro ospedale  
+Dotato dal milionario rovinato,  
+Dove, se facciamo [[motifs/well|bene]], dovremo  
+Morire dell'assoluta cura paterna  
+Che non ci lascerà, ma ovunque ci previene.  
+Il gelo sale dai piedi alle ginocchia,  
+La febbre canta nei fili della mente.  
+Se voglio scaldarmi, allora devo gelare  
+E tremare in gelidi fuochi purgatoriali  
+La cui fiamma è rose, e il cui fumo è rovi.  
+Il [[motifs/blood|sangue]] stillante la nostra sola bevanda,  
+La carne sanguinosa il nostro solo cibo:  
+Malgrado ciò ci piace pensare  
+Che siamo sana, sostanziale carne e [[motifs/blood|sangue]] —  
+E ancora, malgrado ciò, chiamiamo buono questo Venerdì.
 
 
 
@@ -487,3 +898,48 @@ For a further [[concepts/union|union]], a deeper communion
 Through the dark cold and the empty desolation,
 The wave cry, the [[motifs/wind|wind]] cry, the vast waters
 Of the petrel and the porpoise. In my end is my beginning.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+V  
+Eccomi dunque, a metà del cammino, avendo avuto vent'anni —  
+Vent'anni in gran parte sprecati, gli anni de l'entre deux guerres —
+
+
+Cercando di imparare a usare le parole, e ogni tentativo  
+È un inizio del tutto nuovo, e un diverso genere di fallimento  
+Perché si è solo imparato ad aver ragione delle parole  
+Per la cosa che non si ha più da dire, o il modo in cui  
+Non si è più disposti a dirla. E così ogni impresa  
+È un nuovo inizio, un'incursione nell'inarticolato  
+Con un equipaggiamento logoro che sempre più si guasta  
+Nel disordine generale dell'imprecisione del sentire,  
+Squadre indisciplinate d'emozione. E ciò che c'è da conquistare  
+Con la forza e la sottomissione, è già stato scoperto  
+Una o due volte, o più volte, da uomini che non si può [[concepts/hope|sperare]]  
+Di emulare — ma non c'è competizione —  
+C'è solo la lotta per recuperare ciò che è stato perduto  
+E trovato e perduto ancora e ancora: e ora, in condizioni  
+Che paiono non propizie. Ma forse né guadagno né perdita.  
+Per noi, c'è solo il tentare. Il resto non è affar nostro.  
+La [[motifs/home|casa]] è il luogo da cui si parte. Man mano che invecchiamo  
+Il mondo si fa più strano, lo schema più complicato  
+Di morti e vivi. Non l'istante intenso  
+Isolato, senza prima né dopo,  
+Ma una vita intera che arde in ogni istante  
+E non la vita di un uomo soltanto  
+Ma di antiche pietre che non si possono decifrare.  
+C'è un [[motifs/time|tempo]] per la sera sotto la luce delle stelle,  
+Un [[motifs/time|tempo]] per la sera sotto la luce della lampada  
+(La sera con l'album delle fotografie).  
+L'[[motifs/love|amore]] è più che mai se stesso  
+Quando il qui e l'ora cessano di contare.  
+I vecchi dovrebbero essere esploratori  
+Qui e là non ha importanza  
+Dobbiamo essere immobili e pur sempre in moto  
+Verso un'altra intensità  
+Per un'ulteriore [[concepts/union|unione]], una comunione più profonda  
+Attraverso il freddo buio e la vuota desolazione,  
+Il grido dell'onda, il grido del [[motifs/wind|vento]], le acque vaste  
+Della procellaria e della focena. Nella mia fine è il mio principio.

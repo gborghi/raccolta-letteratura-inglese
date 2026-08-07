@@ -211,6 +211,168 @@ a mob to rise.
 ----------------------------------------------------------------------------
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il negozio di [[motifs/ghosts|fantasmi]]
+
+G.K. Chesterton
+
+La bottega dei [[motifs/ghosts|fantasmi]] fu pubblicata per la prima volta sul Daily News di [[settings/london|Londra]]. In seguito venne raccolta nel libro di saggi Tremendous Trifles.
+
+Quasi tutte le cose migliori e più preziose dell'universo si possono avere per mezzo penny.
+Faccio un'eccezione, naturalmente, per il sole, la [[motifs/moon|luna]], la terra, gli uomini,
+le [[motifs/stars|stelle]], i temporali e simili bagattelle. Si possono ottenere gratis.
+Faccio anche un'altra eccezione per una cosa che non mi è permesso menzionare in questo articolo
+e il cui prezzo minimo è di un penny mezzo. Ma il principio generale appare subito evidente.
+Nella strada dietro di me, ad esempio, si può fare un giro su un tram elettrico per mezzo penny.
+Essere su un tram elettrico equivale a essere su un [[settings/castle|castello]] volante in una fiaba.
+Si possono ottenere parecchie caramelle colorate per mezzo penny. Si può anche avere la possibilità
+di leggere questo articolo per mezzo penny; insieme, naturalmente, ad altre cose irrilevanti.
+
+Ma se volete vedere quale vasta e sconcertante varietà di cose preziose si possono ottenere al prezzo di mezzo penny l'una, dovreste fare come facevo io la [[motifs/night|scorsa notte]].  Stavo incollando il naso contro il vetro di un negozio di giocattoli molto piccolo e debolmente illuminato in una delle strade più grigie e squallide di Battersea.  Ma fioco come era quel quadrato di luce, era pieno (come mi disse una [[archetypes/child|bambina]]) di tutti i colori che Dio abbia mai creato.  Quei giocattoli dei poveri erano come i bambini che li compravano; erano tutti sporchi; ma erano tutti luminosi.
+Per quanto mi riguarda, ritengo la luminosità più importante della pulizia;
+poiché la prima è dell'[[motifs/soul|anima]], e la seconda del [[concepts/body|corpo]].
+Dovete scusarmi; sono un democratico; so di essere fuori moda
+nel mondo moderno.
+
+Mentre guardavo quel palazzo di meraviglie pigmee, gli omnibus verdi,
+gli elefanti blu, le bambole nere e le arche di Noè rosse, devo essere caduto in una specie di trance innaturale.
+Quella vetrina illuminata divenne come il palcoscenico brillantemente illuminato
+quando si sta guardando una [[forms/comedy|commedia]] dai colori vivaci.
+Dimenticai le case grigie e la gente sudicia alle mie spalle, così come si
+dimenticano i corridoi bui e le folle indistinte in un teatro.
+Sembrava che gli oggetti dietro il vetro fossero piccoli,
+non perché erano giocattoli, ma perché erano oggetti lontani.
+L'omnibus verde era davvero un omnibus verde, un omnibus verde
+di Bayswater, che passava attraverso qualche enorme [[motifs/desert|deserto]] sulla sua
+strada ordinaria verso Bayswater. L'elefante blu non era più
+blu di vernice; era blu per la distanza. La bambola nera
+era davvero un negro in risalto contro il fogliame tropicale appassionato
+nella terra dove ogni erba è fiammeggiante e solo l'uomo è nero.
+L'arca di Noè rossa era davvero la enorme [[motifs/ship|nave]] della salvezza terrena
+che naviga sul mare gonfio di pioggia, rosso nella prima
+mattina di [[concepts/hope|speranza]].
+
+Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di sanità alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[motifs/soul|anima]].
+
+Per scuotermi da questa sensazione pericolosa e sognante sono entrato nel negozio
+e ho cercato di comprare dei soldatini di legno.  L'uomo del negozio era molto vecchio
+e malandato, con i capelli bianchi confusi che gli coprivano la testa e metà
+del viso, capelli così sbalorditivamente bianchi da sembrare quasi artificiali.
+Eppure, sebbene fosse senile e persino malato, non c'era nulla di [[concepts/suffering|sofferenza]]
+nei suoi occhi; sembrava piuttosto che stesse gradualmente addormentandosi
+in un [[motifs/decay|declino]] non del tutto ostile.  Mi ha dato i soldatini di legno,
+ma quando ho posato il denaro lui all'inizio non sembrava vederlo;
+poi lo ha fissato debolmente, e poi l'ha spinto debolmente via.
+
+«No, no», disse vagamente. «Non l'ho mai fatto. Non l'ho mai fatto.
+Qui siamo piuttosto vecchio stile».
+
+«Non prendere denaro», risposi «mi sembra più una moda insolitamente nuova che antica.»
+
+«Non l'ho mai fatto», disse il vecchio, sbattendo le palpebre e soffiandosi il naso,
+«Ho sempre dato regali. Sono troppo vecchio per smettere».
+
+«Buon Dio!» dissi «Cosa vuoi dire? Ma potresti essere Babbo Natale».
+
+«Sono Babbo Natale», disse scusandosi e si soffiò di nuovo il naso.
+
+Le lampade non potevano essere ancora accese nella strada esterna.
+In ogni caso, non riuscivo a vedere nulla contro l'oscurità se non la [[motifs/window|vetrina]] luminosa. Non c'erano suoni di passi o voci per la strada;
+avrei potuto vagare in un mondo nuovo e senza sole.
+Ma qualcosa aveva reciso i legami del senso comune, e non potevo
+provare nemmeno sorpresa se non con sonnolenza. Qualcosa mi fece dire:
+"Sembri malato, Babbo Natale."
+
+«Sto morendo», disse.
+
+Non parlai e fu lui a riprendere la parola.
+
+"Tutta la gente nuova ha abbandonato la mia bottega.  Non riesco a spiegarmelo.
+Sembrano avercela con me per motivi tanto curiosi e contraddittori,
+questi uomini di scienza, questi innovatori.
+Dicono che riempio la gente di superstizioni e la rendo troppo visionaria;
+dicono che riempio la gente di salsicce e la rendo troppo grossolana.
+Dicono che le mie parti celesti sono troppo celesti; dicono che le mie parti
+terrene sono troppo terrene; non so proprio che cosa vogliano, davvero.
+Come possono le cose celesti essere troppo celesti, o le cose terrene
+troppo terrene?  Come si può essere troppo buoni, o troppo allegri?
+Non capisco.  Ma una cosa la capisco [[motifs/well|bene]] abbastanza.
+Questa gente moderna vive, e io sono morto."
+
+"Sarai anche morto," risposi.  "Dovresti saperlo tu.
+Ma quanto a ciò che fanno loro, non chiamarlo vivere."
+
+Un [[motifs/silence|silenzio]] cadde d'improvviso fra noi, che in qualche modo mi aspettavo
+restasse ininterrotto.  Ma non era caduto da più di pochi secondi quando,
+nell'assoluta quiete, udii distintamente un passo rapidissimo avvicinarsi
+sempre più lungo la strada.  Un istante dopo una figura
+si precipitò nella bottega e restò incorniciata sulla soglia.
+Portava un grande cappello bianco spinto all'indietro come per impazienza;
+aveva attillati calzoni neri all'antica, un vistoso sparato
+e panciotto d'altri tempi, e una vecchia giacca stravagante.  Aveva occhi grandi,
+spalancati, luminosi come quelli di un attore che avvince;
+aveva un volto pallido, nervoso, e una frangia di barba.
+Abbracciò la bottega e il vecchio in uno sguardo che parve letteralmente
+un lampo e proferì l'esclamazione di un uomo del tutto sbalordito.
+
+"Santo cielo!" gridò; "non può essere lei!  Non è lei!
+Ero venuto a chiedere dov'era la sua [[motifs/grave|tomba]]."
+
+"Non sono ancora morto, signor Dickens," disse il vecchio gentiluomo, con un
+debole sorriso; "ma sto morendo," si affrettò ad aggiungere per rassicurarlo.
+
+"Ma, diamine, lei stava morendo già ai miei [[motifs/time|tempi]]," disse il signor Charles Dickens
+con vivacità; "e non è invecchiato di un giorno."
+
+"Mi sento così da molto [[motifs/time|tempo]]," disse Babbo Natale.
+
+Il signor Dickens si voltò e sporse la testa dalla porta
+nel buio.
+
+"Dick," ruggì a squarciagola; "è ancora vivo."
+
+Un'altra [[archetypes/shadow|ombra]] oscurò la soglia, ed entrò un gentiluomo assai più grande e
+più sanguigno, con un'enorme parrucca, sventolandosi il volto acceso
+con un cappello militare del taglio della [[characters/queen|regina]] Anna.  Portava la testa [[motifs/well|ben]] eretta come un soldato,
+e il suo volto infuocato aveva persino un'aria di arroganza, subito
+smentita dagli occhi, che erano letteralmente umili
+come quelli di un cane.  La sua spada faceva un gran fracasso, come se la bottega
+fosse troppo piccola per essa.
+
+"In verità," disse Sir [[characters/richard|Richard]] Steele, "è cosa quanto mai prodigiosa,
+giacché quell'uomo stava morendo quando scrissi di Sir Roger de Coverley
+e del suo giorno di Natale."
+
+I miei sensi si facevano più fiochi e la stanza più buia.
+Pareva riempirsi di nuovi venuti.
+
+"È sempre stato inteso," disse un uomo robusto, che portava
+la testa con umorismo e ostinazione un po' inclinata da un lato (credo
+fosse Ben Jonson) "è sempre stato inteso, consule Jacobo,
+sotto il nostro [[archetypes/king|re]] Giacomo e la sua defunta Maestà, che tali buone e cordiali
+usanze fossero cadute inferme, e prossime a scomparire dal mondo.
+Questa barba grigia di certo non era più gagliarda quando lo conobbi di quanto lo sia adesso."
+
+E mi parve anche di udire un uomo vestito di verde, come [[characters/robin-hood|Robin Hood]],
+dire in un francese normanno un po' confuso: "Ma io vidi quell'uomo morire."
+
+"Mi sento così da molto [[motifs/time|tempo]]," disse Babbo Natale,
+di nuovo nel suo modo fievole.
+
+Il signor Charles Dickens d'improvviso si sporse verso di lui.
+
+"Da quando?" chiese.  "Da quando è nato?"
+
+"Sì," disse il vecchio, e sprofondò tremante in una sedia.
+"Sono sempre stato morente."
+
+Il signor Dickens si tolse il cappello con un ampio gesto come chi chiama
+una folla a insorgere.
+
+"Ora capisco," gridò, "lei non morirà mai."
+----------------------------------------------------------------------------
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="shop-of-ghosts (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/desert,motif/ghosts,motif/moon,motif/night,motif/ship,motif/soul,motif/stars,motif/window,concept/body,concept/hope,concept/suffering,form/comedy,setting/castle,setting/desert,setting/london,setting/ship"></span>

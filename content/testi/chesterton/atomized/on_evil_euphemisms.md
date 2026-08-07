@@ -158,6 +158,151 @@ and I for one prefer the coarse language of our fathers.
 [Transcribed by Anthony Caetano]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# sui malvagi eufemismi
+
+SUI MALVAGI EUFEMISMI
+
+G. K. Chesterton
+
+Pubblicato in "G. K. Chesterton:  Stories, Essays, & [[works/poems-(chesterton)|Poems]]",
+(Everyman's Library - 913), J. M. Dent & Sons Ltd., [[settings/london|London]], ristampa 1946
+dell'edizione 1935, pp208-211. Apparso originariamente in "Come to think
+of It", 1930.
+
+Qualcuno mi ha mandato un libro sul [[motifs/marriage|Matrimonio]] Compagnesco;
+così chiamato perché le persone coinvolte non sono sposate e assai
+rapidamente cesseranno di essere compagni.  Non ho intenzione
+di discutere qui quel progetto coloniale alquanto rozzo.
+Dirò soltanto che qui è accompagnato da sottotitoli e altre
+dichiarazioni sulla generazione che avanza e la rivolta della gioventù.
+E mi sembra straordinariamente buffo che, proprio quando la generazione
+che avanza si vanta di non essere sentimentale, quando parla di essere
+molto scientifica e sociologica—proprio in quel momento tutti
+sembrano aver dimenticato del tutto quale fosse l'uso sociale del
+[[motifs/marriage|matrimonio]] e pensare unicamente ed esclusivamente al sentimentale.
+Gli scopi pratici menzionati come le prime due ragioni del [[motifs/marriage|matrimonio]],
+nel rito [[motifs/marriage|matrimoniale]] anglicano, sembrano essere del tutto usciti di
+vista per certune persone, che ne parlano come se non vi fosse nulla se non una versione
+piuttosto sfrenata della terza, che si può relativamente dire romantica.
+E questo, per favore, si suppone sia un'emancipazione dal
+sentimentalismo vittoriano e dal Romanticismo.
+
+Ma menziono questa faccenda soltanto come una fra molte, e come una che
+illustra una contraddizione ancora più curiosa in questa pretesa moderna.
+Ci viene perpetuamente detto che questa generazione che avanza è molto franca
+e libera, e che il suo intero ideale sociale è la franchezza e la [[concepts/freedom|Libertà]].
+Ora, io non ho affatto paura della franchezza.  Ciò di cui ho paura
+è la volubilità.  E c'è una [[concepts/truth|verità]] nell'antico nesso proverbiale
+fra ciò che è volubile e ciò che è falso.  Vi è nei titoli stessi
+e nella terminologia di tutta questa sorta di cose un elemento pervasivo
+di falsità.  Ogni cosa va chiamata con qualcosa che essa non è;
+come nell'esempio caratteristico del [[motifs/marriage|Matrimonio]] Compagnesco.
+Ogni cosa va raccomandata al pubblico con una sorta di sinonimo
+che è in realtà uno pseudonimo.  È un talento che va di pari passo col [[motifs/time|tempo]]
+delle campagne elettorali e della pubblicità e dei titoli di giornale;
+ma qualunque altra cosa un simile [[motifs/time|tempo]] possa essere, di certo non è specialmente
+un [[motifs/time|tempo]] di [[concepts/truth|verità]].
+
+In breve, questi amici della franchezza dipendono quasi interamente dall'Eufemismo.
+Introducono le loro orribili eresie sotto nomi nuovi e accuratamente
+lusinghieri; come le Furie erano chiamate le Eumenidi.
+I nomi sono sempre adulazione; i nomi sono anche insensatezza.
+Il nome di Controllo delle Nascite, per esempio, è pura insensatezza.
+Tutti hanno sempre esercitato il controllo delle nascite; anche quando
+erano tanto paradossali da permettere che il processo si concludesse in una nascita.
+Tutti hanno sempre conosciuto il controllo delle nascite, anche se prese la forma selvaggia
+e impensabile dell'[[concepts/self|autocontrollo]]. La questione in gioco riguarda
+differenti forme di prevenzione delle nascite; e non ho intenzione di dibatterne
+qui.  Ma se la dibattessi, la chiamerei col suo nome.
+Lo stesso vale per un più antico pezzo di sentimentalismo cui indulgono i franchi
+e liberi:  l'espressione 'Libero [[motifs/love|Amore]].'  Anche quello è un Eufemismo;
+vale a dire, è un rifiuto della gente di dire ciò che intende.
+In quel senso, è impossibile impedire all'[[motifs/love|AMORE]] di essere libero, ma il
+problema morale posto in causa riguarda non le passioni, ma la volontà.
+Vi è un gran numero di altri esempi di questa sorta di finzione garbata;
+questi rispettabili travestimenti adottati da chi si scaglia sempre
+contro la rispettabilità.  Nell'immediato futuro ve ne saranno probabilmente
+ancora di più.  Non sembra esservi in realtà limite necessario al processo;
+e per quanto lontano possa spingersi l'anarchia dell'etica, essa potrà sempre
+essere accompagnata da questo curioso e pomposo cerimoniale.
+Il sensibile giovane del futuro non sarà mai chiamato ad accettare
+la Falsificazione come Falsificazione.  Sarà facile abbastanza chiamarla Omeografia
+o Assimilazione della Scrittura o qualcos'altro che suggerisca,
+al semplice o al superficiale, che nulla vi è in gioco se non
+una sorta di socializzazione o unificazione della grafia individuale.
+Non dovremmo, come il più onesto signor [[characters/fagin|Fagin]], insegnare ai ragazzini
+a borseggiare; poiché il signor [[characters/fagin|Fagin]] diventa assai meno onesto quando diventa
+il professor Faginski, il grande sociologo, dell'Università di Jena.
+Ma dovremmo chiamarlo con qualche nome che implichi il trasferimento di qualcosa;
+non riesco al momento a ricordare il greco né per tasca
+né per fazzoletto da tasca. Quanto alla giustificazione sociale dell'omicidio,
+essa è già cominciata; e i pensatori seri farebbero meglio a cominciare subito
+a pensare a un bel nome inoffensivo per esso.  Il caso a favore dell'omicidio,
+secondo l'etica moderna, relativista ed evoluzionista, è del tutto schiacciante.
+Non c'è quasi uno di noi che non riconosca, guardandosi attorno nella propria
+cerchia sociale, qualche persona chiacchierona o qualche energico carattere
+mondano la cui scomparsa, senza troppo trambusto o congedo,
+sarebbe un lieto evento per tutti noi.  Né è vero che una simile persona
+sia pericolosa soltanto perché brandisce ingiusti poteri legali o sociali.
+Il problema è spesso puramente psicologico, e per nulla legale;
+e nessuna emancipazione legale lo risolverebbe.  Nulla lo risolverebbe
+se non l'introduzione di quella nuova forma di libertà che potremo convenire
+di chiamare, forse, la pratica della Sottrazione Sociale.  Oppure, se ci piace,
+possiamo modellare il nuovo nome sugli altri nomi che ho menzionato.
+Possiamo chiamarlo Controllo della Vita o Libera [[motifs/death|Morte]]; o qualunque altra cosa che abbia
+tanto poco a che fare col suo punto quanto il [[motifs/marriage|Matrimonio]] Compagnesco ha
+a che fare col [[motifs/marriage|matrimonio]] o con la compagnia.
+
+Comunque sia, mi rifiuto rispettosamente di lasciarmi impressionare dalla pretesa di candore
+e di realismo avanzata proprio ora per uomini, donne e movimenti.
+Mi pare evidente che questa non sia davvero l'epoca dell'audacia
+ma soltanto della pubblicità; che si potrebbe piuttosto descrivere come la prudenza
+che fa un gran baccano. Gran parte dell'equivoco nasce dal [[topoi/double|doppio]] senso
+della parola pubblicità. Poiché anche la pubblicità è un eufemismo affatto tipico,
+un termine elusivo. Pubblicità non significa svelare la vita
+pubblica nell'interesse dello spirito pubblico. Significa soltanto adulare
+imprese private nell'interesse di persone private. Significa
+fare complimenti in pubblico; ma non muovere critiche in pubblico.
+Resteremmo tutti assai sorpresi se, uscendo dalla porta di
+casa una mattina, vedessimo un cartellone su un lato della [[motifs/road|strada]] che dice:
+‘Usate il Latte di Miggle; È Tutta Panna', e un cartellone sull'altro lato
+della strada con su scritto: ‘Non Usate il Latte di Miggle; È Quasi Tutt'[[motifs/water|Acqua]].'
+Il mondo moderno resterebbe assai turbato se mi si permettesse
+di erigere un'insegna luminosa fiammeggiante che proclami la mia precisa opinione
+sul Vino di Porto Coloniale lodato nell'insegna fiammeggiante di fronte.
+Tutta questa pubblicità potrà avere qualcosa a che fare con la [[concepts/freedom|libertà]]
+di commercio; ma non ha nulla a che fare con la [[concepts/freedom|libertà]] della [[concepts/truth|verità]].
+La pubblicità dev'essere lode, e la lode dev'essere in qualche misura eufemismo.
+Deve porre la cosa in una forma più mite e più inoffensiva
+di quanto si potrebbe, per quanto quella mitezza possa
+sembrare gridare a megafoni o divampare in titoloni.
+E proprio come questa sorta di rumorosa evasione è impiegata a favore del cattivo
+vino e del cattivo latte, così è impiegata a favore della cattiva morale.
+Quando qualcuno vuol muovere una guerra sociale contro ciò che tutte le persone
+normali hanno considerato come una decenza sociale, la primissima cosa che fa
+è trovare qualche termine artificiale che suoni relativamente decente.
+Egli non ha del vero [[concepts/courage|coraggio]] che opporrebbe il vizio alla
+virtù più di quanto l'inserzionista comune abbia il [[concepts/courage|coraggio]] di reclamizzare
+la birra come arsenico. La sua intelligenza, tale quale è, è interamente
+un'intelligenza commerciale e in tal misura del tutto convenzionale.
+Egli è un bottegaio che allestisce la [[motifs/window|vetrina]]; è di certo
+tutto il contrario di un [[archetypes/rebel|ribelle]] o di un rivoltoso che infrange la [[motifs/window|vetrina]].
+Se non altro per questa ragione, resto freddo e rifiuto la debita riverenza
+al [[motifs/marriage|Matrimonio]] di Prova e al libro che parla con tanta reverenza
+della Rivolta della Gioventù. Poiché questa sorta di rivolta mi colpisce come
+nient'altro che rivoltante; e di certo non particolarmente realistica.
+Con le passioni che sono naturali alla gioventù noi tutti simpatizziamo;
+col [[motifs/pain|dolore]] che spesso nasce dalla lealtà e dal dovere simpatizziamo
+ancor di più; ma nessuno ha da simpatizzare con gli esperti di pubblicità
+che scelgono espressioni piacevoli per cose spiacevoli;
+e io, per parte mia, preferisco il linguaggio ruvido dei nostri padri.
+
+------------------
+
+[Trascritto da Anthony Caetano]
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="on_evil_euphemisms (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/love,motif/marriage,motif/time,concept/freedom,concept/self,concept/truth,setting/london,character/fagin"></span>

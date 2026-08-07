@@ -147,6 +147,140 @@ we may be perfectly certain that some sort of humanitarian will want
 to destroy it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sull'abolire la [[characters/sunday|domenica]]
+
+Da Come to Think of It di G.K. Chesterton
+
+XXXIV.  Sull'abolire la [[characters/sunday|domenica]]
+
+LA notizia che il Governo bolscevico avesse abolito la [[characters/sunday|domenica]]
+poteva essere letta in vari modi.  Alcuni bolscevichi erano
+di quella stirpe da cui ci si sarebbe potuto aspettare la sostituzione col sabato.
+Altri hanno una marcata affinità intellettuale con la grande religione che,
+per quanto strano, sceglie il venerdì.  Il giorno di riposo dei musulmani è il venerdì;
+e, quando mi trovavo a Gerusalemme, dal cadere delle tre festività religiose nei tre giorni successivi
+scaturivano talvolta esiti assai bizzarri.
+Ci si lamentava che gli Ebrei traessero un vantaggio sleale dal fatto
+che il loro Sabato cessa al tramonto; ma, comunque sia, era altamente
+significativo di un bisogno umano universale che le tre grandi
+comunioni cosmopolite, che pur non concordavano affatto sulla scelta di un
+giorno sacro, concordassero tutte nell'averne uno.  Si erano combattute e perseguitate
+e oppresse e sfruttate a vicenda in ogni sorta di modi.
+Ma tutte possedevano il profondo istinto umano di una Tregua di Dio,
+in cui gli uomini dovessero, se possibile, cessare di combattere, e persino
+(se il pensiero è concepibile) cessare di sfruttare.
+
+Se i bolscevichi hanno davvero dichiarato guerra all'idea intrinseca di un
+comune Giorno di Riposo, non è forse il primo punto in cui si sono
+dimostrati assai più stupidi di Ebrei, Turchi, infedeli ed eretici.
+Tutti tendiamo a parlare con naturalezza di pedanteria antiquata.  Ma il più
+pedante fra i pedanti è colui che è troppo limitato per essere antiquato.
+Egli è tagliato fuori dall'antichità e perciò dall'umanità; nulla imparerà
+dalle cose, ma solo dalle teorie; e, proprio nell'atto
+di pretendere di insegnare per mezzo dell'esperimento, rifiuta di imparare per mezzo dell'esperienza.
+Difficilmente vi potrebbe essere esempio più forte di questa sorta di sorda e ottusa
+insofferenza che un atteggiamento meramente distruttivo verso i Sabati
+e i giorni speciali.  Il fatto che gli uomini li abbiano sempre sentiti necessari
+non fa che rendere questo genere di saccente più certo che siano superflui.
+La loro universalità, pur nella varietà, dovrebbe avvertirlo che ha
+a che fare con qualcosa di profondo e delicato: qualcosa insieme sottile
+e ostinato.  Non dico che egli sia tenuto a considerarli giusti;
+ma è tenuto a considerarli.  E non li considera mai,
+perché trova che condannarli sia la via di minor resistenza.
+Gli basta quasi che l'umanità abbia sempre desiderato qualcosa;
+si metterà all'istante all'opera per liberare l'umanità da tutto ciò che essa
+ha sempre desiderato.  Prima o poi, non ne [[concepts/doubt|dubiteremo]] meno, vedremo un movimento
+per liberare gli uomini dall'antica e barbara usanza di mangiare il cibo.
+Del resto abbiamo già visto qualcosa di simile a un movimento
+per liberarli dalla fantastica abitudine di bere le bevande.
+Vedremo rivoluzionari denunciare la degradante necessità
+di andare a letto la [[motifs/night|notte]].  In fondo, la postura prostrata potrebbe
+essere considerata servile o toccata dalle superstizioni del supplice.
+Dal cittadino davvero attivo, vigile e rispettoso di [[concepts/self|sé]] ci si può ragionevolmente
+aspettare che se ne stia ritto in piedi per ventiquattro ore di fila.
+Al filosofo progressista si potrà richiedere di camminare nel [[motifs/sleep|sonno]],
+e persino di parlare nel [[motifs/sleep|sonno]]; e, considerando ciò che dice e
+dove cammina, la cosa pare abbastanza probabile.  Comunque, lo stesso genere
+di filosofia disumanizzata che distrugge il ricorrere di un giorno
+ogni sette può [[motifs/well|ben]] disprezzare il ricorrere di sei ore ogni ventiquattro.
+Potremo vedere una vasta rivolta intellettuale contro la [[concepts/slavery|Schiavitù]] del [[motifs/sleep|Sonno]].
+Riesco a immaginare vividamente gli opuscoli e i manifesti; le elaborate
+statistiche che mostrano come, se la gente non smettesse mai di lavorare, produrrebbe
+più di quanto produca al presente; i lucidi diagrammi che espongono
+la perdita per il lavoro dovuta al fatto che pochi uomini sono effettivamente
+al lavoro nelle loro fabbriche mentre dormono nei loro letti.
+Queste dimostrazioni scientifiche sono sempre così serrate e stringenti.
+Riesco quasi a vedere le file di cifre che mostrano via via, nel
+caso del carbone, del cotone, del burro, dei lacci da scarpe, del maiale e della ghisa,
+che in ogni singolo esempio si compirebbe più lavoro se ogni
+[[concepts/body|corpo]] potesse solo continuare a lavorare.  È vero che questo genere
+di argomentazione torna generalmente di massima utilità ultima al Capitalismo.
+Ma così è anche del Bolscevismo.
+
+Ma questi veri amici del Capitalismo, che ancora si dicono
+Comunisti, non intendono affatto, si capisce, che nessuno debba avere
+alcun tempo libero, così come non intendono che nessuno debba avere [[motifs/sleep|sonno]].
+I Comunisti direbbero che dovrebbero esserci turni di lavoro,
+e frequenti ricorrenze di riposo; ma così direbbero anche i capitalisti.
+Direbbero che il lavoro dovrebbe essere organizzato per tutti,
+e il riposo concesso a turno a ciascun individuo; ma così
+direbbero anche i Capitalisti.  Non vi è in realtà gran differenza
+nel piano generale del sistema di fabbrica presieduto
+dal collettivismo di Mosca e dall'[[concepts/individualism|individualismo]] di Detroit.
+È giusto dire che il signor Ford ha dimenticato che cosa mai qualcuno abbia
+inteso con [[concepts/individualism|Individualismo]], tanto completamente quanto i capi bolscevichi
+hanno dimenticato che cosa essi stessi intendessero in origine con Bolscevismo.
+La vacanza è concessa all'individuo, ma non vi è nulla
+di individuale in essa.  È concessa da un potere impersonale mediante una
+rotazione meccanica, sulla quale l'individuo stesso non ha alcun potere.
+Non gli è concessa nel giorno del suo compleanno, o nel giorno del suo santo patrono,
+o nemmeno nel giorno che egli personalmente preferirebbe; Dio non voglia!—
+o, piuttosto (come direbbero i bolscevichi), l'assenza di Dio non voglia!
+
+Ma, anche a prescindere dal fallimento della vacanza solitaria nel farsi
+vacanza personale, vi è un'obiezione più profonda alla scomparsa
+di una festa sociale.  Essa giace nel profondo dei misteri della [[concepts/nature|natura]] umana,
+l'unica cosa che il rivoluzionario pedante è sempre troppo impaziente
+per comprendere.  Egli studierà la matematica in una settimana e la metafisica
+in una quindicina; e quanto all'economia, ne ha colto l'intera
+[[concepts/truth|verità]] dando un'occhiata a un opuscoletto nell'ora di pranzo.
+Ma non studierà l'Uomo; schiva quella scienza semplicemente
+liquidando come superstizioni tutti gli elementi che non riesce a comprendere.
+Ora, una cosa essenziale per l'uomo è il ritmo; e non soltanto
+un ritmo nella sua propria vita, ma in certa misura anche nel mondo
+vivente attorno a lui.  Osserverò persino, soprattutto per il piacere
+di irritare il sociologo scientifico, che la [[concepts/truth|verità]] più profonda
+e pratica della questione si trova nell'affermazione che
+Dio fece il mondo in sei giorni e riposò il settimo giorno.
+In altre parole, c'è un ritmo dietro le cose, e nel
+principio e nella [[concepts/nature|natura]] dell'universo; e dev'esserci qualcosa
+del medesimo genere nelle manifestazioni sociali e secolari del mondo.
+Gli uomini non sono felici se le cose hanno sempre lo stesso aspetto; lo si riconosce
+in pratica nel comune caso medico di ciò che si chiama 'un cambiamento'.
+Il mero fatto che un uomo non debba svolgere lui stesso alcun lavoro
+di martedì è una piccolissima parte del generale senso di sollievo
+o ristoro che esisteva in un'istituzione come la [[characters/sunday|domenica]].
+Una volta osai usare l'espressione (per quanto la ponessi in
+bocca a un bull-terrier), 'l'odore della mattina di [[characters/sunday|domenica]]'.
+E sono pronto a dire che una cosa simile esiste, benché il mio
+olfatto sia assai carente rispetto a quello d'un bull-terrier.  C'è
+qualcosa nella luce e nell'aria stesse di un mondo in cui la maggior parte della gente
+non lavora, o non lavora tanto o nel modo consueto,
+che soddisfaceva il subconscio anelito alla crisi e all'adempimento.
+Se gli uomini non avessero che una serie senza fine di giorni tutti uguali,
+poco importerebbe se fossero giorni d'ozio o di lavoro.
+Non darebbero quel particolare senso di qualcosa di compiuto,
+o, almeno, di qualcosa di misurato; dell'immagine di Dio che riposa
+nel settimo giorno.  È un fatto psicologico che tale
+monotonia assumerebbe un carattere di follia matematica.
+Sarebbe come gli interminabili corridoi di un incubo.
+Gli uomini l'hanno sempre saputo per istinto, i pagani [[motifs/well|non meno]] dei cristiani.
+E quando tutta l'umanità si è accordata sulla necessità di qualcosa,
+possiamo essere perfettamente certi che qualche sorta di umanitarista vorrà
+distruggerla.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="On_Abolishing_Sunday (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/sleep,motif/well,concept/body,concept/doubt,concept/individualism,concept/self,concept/slavery,character/sunday"></span>

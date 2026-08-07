@@ -870,6 +870,528 @@ Thus weepe and poling crye,
 Our business is like men to fight.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Parlando del principio poetico, non ho alcuna intenzione di essere né esaustivo né profondo. Mentre discuto, in modo molto casuale, dell’essenza di ciò che chiamiamo Poesia, il mio scopo principale sarà quello di citare, a titolo di riflessione, alcuni di quei poemi inglesi o americani di minore lunghezza che meglio corrispondono al mio gusto personale, o che, a mio parere, hanno lasciato l’impressione più profonda. Con “poemi di minore lunghezza” intendo, naturalmente, opere di breve durata. E qui, all’inizio, permettetemi di dire alcune parole riguardo a un principio piuttosto particolare che, giustamente o ingiustamente, ha sempre avuto influenza sulla mia valutazione critica della poesia. Ritengo che una poesia lunga non esista; sostengo infatti che l’espressione “una poesia lunga” sia semplicemente una contraddizione in termini.
+
+Non occorre quasi sottolineare che una poesia meriti davvero il proprio titolo solo nella misura in cui suscita emozioni positive, elevando l’[[motifs/soul|'anima]] del lettore. Il valore di una poesia è proporzionale all’intensità di queste emozioni positive. Tuttavia, tutte le emozioni, per una necessità psicologica intrinseca, sono effimere. Quell’intensità emotiva che renderebbe una poesia degna di tale nome non può essere mantenuta per tutta la durata di un’opera di notevole lunghezza. Al massimo, dopo mezz’ora, tale intensità diminuisce; segue una reazione negativa, e in realtà la poesia, a quel punto, non è più ciò che era.
+
+Non c’è alcun [[concepts/doubt|dubbio]] che molte persone abbiano difficoltà ad armonizzare l’affermazione critica secondo cui “[[topoi/paradise-lost|Paradiso Perduto]]” debba essere ammirato con profonda devozione in ogni sua parte, con l’assoluta impossibilità di provare, durante la lettura, lo stesso entusiasmo che tale affermazione richiederebbe. Quest’opera grandiosa, infatti, può essere considerata poetica soltanto quando, trascurando quel requisito fondamentale in tutte le opere d’arte, ovvero l’Unità, la si considera semplicemente come una serie di piccoli poemi. Se, per preservarne l’Unità – cioè il suo effetto complessivo – la si leggesse tutta d’un fiato (come sarebbe necessario), il risultato sarebbe soltanto un alternarsi continuo di emozioni intense e momenti di depressione. Dopo aver letto una parte che riteniamo vera poesia, segue inevitabilmente una parte di banalità che nessun giudizio critico potrebbe farci ammirare; ma se, dopo aver completato l’opera, la rileggessimo omettendo il primo libro – cioè iniziando dal secondo – saremmo sorpresi nel scoprire che ciò che prima avevamo condannato ora ci sembra ammirevole, e ciò che avevamo tanto apprezzato diventa invece qualcosa di disprezzabile. Da tutto questo si deduce che l’effetto complessivo, totale o assoluto anche della migliore [[forms/epic|epopea]] esistente al mondo è in realtà nullo: ed è proprio questo il fatto.
+
+Per quanto riguarda l’Iliade, abbiamo, se non prove definitive, almeno motivi molto validi per ritenere che fosse destinata a essere una serie di versi; tuttavia, anche ammettendo un intento [[forms/epic|epico]], posso dire soltanto che quest’opera si basa su una concezione dell’arte imperfetta. L’[[forms/epic|epopeia]] moderna è, rispetto al presunto modello antico, un’imitazione superficiale e cieca. Ma il tempo di queste anomalie artistiche è ormai finito. Se mai, in futuro, qualche poema molto lungo dovesse diventare popolare, il che dubito fortemente, è almeno certo che nessun altro poema del genere riuscirà mai più a ottenere tale successo.
+
+Il fatto che l’entità di un’opera poetica sia, _a parità di altre condizioni_, la misura del suo merito sembra senza dubbio una proposizione abbastanza assurda quando viene enunciata in questo modo. Eppure dobbiamo questa idea proprio alle Quarterly Reviews. Sicuramente non può esserci nulla, in termini puramente di _dimensione_ o di _volumenzo_, che possa suscitare continuamente ammirazione da parte di questi periodici. Una montagna, certamente, per il semplice senso di grandezza fisica che trasmette, ci colpisce con un’impressione di [[concepts/sublime|sublimità]]. Ma nessuno rimane colpito in questo modo dalla grandiosità materiale anche della “Columbiade”; anzi, nemmeno le Quarterly Reviews ci hanno mai suggerito di considerarla in questo modo. Fino ad ora non hanno mai insistito affinché valutassimo un’opera d’arte in base al suo volume o alla quantità di “sforzo sostenuto” necessario per crearla. Se qualche gentiluomo, attraverso uno “sforzo sostenuto”, è riuscito a comporre un’opera epica, lodiamolo sinceramente per lo sforzo stesso, se davvero si tratta di qualcosa che possa essere apprezzato. Ma evitiamo di lodare l’opera stessa in base allo sforzo impiegato. Si spera che, in futuro, il buon senso preferirà giudicare un’opera d’arte in base all’impressione che suscita, all’effetto che produce, piuttosto che in base al tempo necessario per produrre quell’effetto o alla quantità di “sforzo sostenuto” richiesto. La verità è che la perseveranza è una cosa, il genio un’altra. E nessun numero delle Quarterly Reviews potrà mai confonderli. Col tempo, questa proposizione, come molte altre che ho appena sollevato, verrà riconosciuta come ovvia. Nel frattempo, essendo generalmente condannata come falsità, non subirà danni sostanziali se considerata come verità.
+
+D'altra parte, è chiaro che una poesia possa risultare eccessivamente breve. Una brevità eccessiva degenera in semplice epigrammatismo. Una poesia molto corta, sebbene a volte produca effetti brillanti o vividi, non riesce mai a generare un impatto profondo o duraturo. È necessario che il “sigillo” venga impresso con decisione sulla “cera”. De Beranger ha scritto innumerevoli opere pungenti e stimolanti, ma nel complesso queste sono risultate troppo effimere per imprimersi profondamente nell’attenzione del pubblico; quindi, come tante altre creazioni fantasiose, sono state soltanto portate via dal vento.
+
+Un esempio notevole di come una eccessiva brevità possa rendere un poema deprimente e impedirne la diffusione tra il pubblico è offerto dalla seguente squisita piccola serenata.
+
+
+Sorgo dai [[motifs/dreams|sogni]] di te,
+Nel primo dolce [[motifs/sleep|)sogno]] della [[motifs/night|notte]],
+Quando i venti sussurrano piano,
+E le [[motifs/stars|stelle]] brillano intensamente.
+Sorgo dai [[motifs/dreams|sogni]] di te,
+E uno spirito, nei miei passi,
+Mi guida, chi sa come?.
+Verso la tua finestra, dolce!
+
+Gli ari dolci e erranti svaniscono
+sul corso oscuro e silenzioso del fiume;
+i profumi del champak si affievoliscono,
+come pensieri dolci in un sogno;
+il lamento della [[motifs/nightingale|usignola]]
+si spegne nel suo cuore.
+Così anch’io dovrò morire,
+oh, amata come sei tu!
+
+Oh, sollevami da quest'erba!  
+Morisco, sveno, fallisco.
+Lascia che il tuo [[motifs/love|amore]] piova in baci  
+sulle mie labbra e sulle mie palpebre pallide.  
+La mia guancia è fredda e bianca.
+Il mio cuore batte forte e veloce.
+Oh, stringilo a te affinché possa brillare di nuovo.
+Prima che finalmente si spezzi.
+
+
+Poche persone forse conoscono queste righe, eppure il loro autore è uno poeta non meno grande di Shelley. La loro immaginazione calda, delicata ed eterea sarà apprezzata da tutti, ma nessuno più di colui che stesso è emerso dai dolci sogni di una persona amata per immergersi nell’aria profumata di una notte estiva meridionale.
+
+Uno dei migliori poesie di Willis – a mio parere il migliore che abbia mai scritto – è stato, senza dubbio, a causa dello stesso difetto di eccessiva brevità, privato della posizione che gli spettava. Non meno in questo caso.
+
+Le ombre si stendevano lungo Broadway;  
+era quasi l’ora del crepuscolo.
+E lentamente, una donna bellissima  
+camminava, piena di orgoglio.  
+Camminava da sola; ma, invisibili,  
+alcuni spiriti la accompagnavano.
+La pace avvolgeva la strada sotto i suoi piedi,  
+l’onore riempiva l’aria intorno a lei.
+Tutto sembrava guardarla con benevolenza,  
+chiamandola bella e virtuosa.
+Perché tutto ciò che Dio le aveva dato,  
+lo custodiva con grande cura.  
+Proteggeva con attenzione la sua rara bellezza  
+da amanti appassionati e fedeli.
+Il suo cuore era freddo verso tutti, tranne che verso l’oro;  
+i ricchi non venivano a cercare il suo amore,  
+ma rispettavano soltanto i suoi pregi.
+Se mai ci fossero stati preti disposti a venderli.
+Lì, camminava anche un’altra donna bellissima:  
+una ragazza snella, pallida come un giglio.
+E aveva compagnie invisibili.
+Compagnie che avrebbero potuto spaventarla.
+Camminava tra la povertà e il disprezzo, sola e abbandonata.
+Niente poteva aiutarla.
+Nessuna misericordia poteva cancellare le ombre dal suo viso.
+Perché la preghiera selvaggia d’amore si era dissolta nell’aria.
+Il suo cuore di donna aveva ceduto.
+Ma il peccato, perdonato da Cristo in cielo,  
+è sempre maledetto dagli uomini.
+
+In questa composizione ci è difficile riconoscere il Willis che ha scritto così tanti semplici “versi sulla società”. Le righe non sono solo ricche di ideali, ma anche piene di energia; inoltre trasmettono una serietà, un’ovvia sincerità di sentimenti, qualcosa che cerchiamo invano in tutte le altre opere di questo autore.
+
+Mentre la mania epica, l’idea che nella poesia la prolissità sia indispensabile per essere significativa, negli ultimi anni sta gradualmente scomparendo dalla mente del pubblico, a causa della sua stessa assurdità, vediamo che al suo posto è subentrata un’eresia palesemente falsa e impossibile da tollerare a lungo. Tuttavia, in questo breve periodo in cui ha avuto luogo, questa eresia può essere considerata responsabile di aver corrotto la nostra letteratura poetica più di tutti gli altri nemici che l’hanno attaccata. Mi riferisco all’eresia del “didattismo”. Si è preso per scontato, sia in modo esplicito che implicito, diretto o indiretto, che lo scopo finale di tutta la poesia sia la [[concepts/truth|verità]]. Si sostiene infatti che ogni poesia debba insegnare una morale, e che il valore poetico di un’opera venga giudicato in base a tale morale. Noi americani, in particolare, abbiamo favorito questa idea; noi bostoniani l’abbiamo addirittura sviluppata al massimo. Ci siamo convinti che scrivere una poesia soltanto per il suo valore intrinseco significherebbe ammettere di essere radicalmente privi della vera dignità e forza poetica. Ma in realtà, se solo ci permettessimo di guardare dentro noi stessi, scopriremmo immediatamente che sotto il sole non esiste, né può esistere, alcuna opera più degna, più nobile di questa poesia, proprio questa poesia, semplicemente una poesia, scritta soltanto per il suo stesso piacere.
+
+Con una reverenza per la Verità tanto profonda quanto mai abbia ispirato il cuore dell’uomo, vorrei tuttavia limitare, in qualche misura, i modi con cui essa viene insegnata. Vorrei che tali metodi venissero applicati con rigore, senza indebolirli attraverso distrazioni o eccessi. Le richieste della Verità sono severe; essa non ha alcuna simpatia per le cose frivole o superficiali. Tutto ciò che è indispensabile nella poesia è proprio ciò di cui la Verità non ha assolutamente nulla a che fare. Avvolgerla in gemme e fiori significherebbe trasformarla in un paradosso ridicolo. Nell’insegnare la verità, abbiamo bisogno di rigore piuttosto che di espressioni floreali o retoriche; dobbiamo essere semplici, precisi, concisi, e soprattutto calmi, impassibili. In altre parole, dobbiamo adottare un approccio il più possibile opposto a quello poetico. Chi non percepisce la differenza radicale tra i modi di insegnare basati sulla verità e quelli legati alla poesia è davvero cieco; chi, nonostante queste differenze, insiste nel tentativo di conciliare la poesia con la verità, è perso nella teoria senza speranza di redenzione.
+
+Dividendo il mondo della mente nelle sue tre distinzioni più immediatamente evidenti, abbiamo l’Intelligenza Pura, il Gusto e il Senso Morale. Colloco il Gusto al centro, perché è proprio questa posizione che occupa nella mente; esso intrattiene rapporti stretti con entrambi gli estremi, ma dalla differenza rispetto al Senso Morale è così lieve che Aristotele non ha esitato a considerare alcune delle sue funzioni tra le stesse virtù. Tuttavia, i compiti di questi tre elementi presentano distinzioni sufficientemente chiare: proprio come l’Intelligenza si occupa della [[concepts/truth|Verità]], il Gusto ci informa su ciò che è Bello, mentre il Senso Morale tiene conto del Dovere. Per quanto riguarda quest’ultimo, sebbene la [[concepts/conscience|Conscienza]] insegni l’obbligo e la Ragione ne spieghi l’utilità, il Gusto si limita a mostrare i suoi pregi: combatte il Vizio esclusivamente sulla base della sua deformità, della sua disproporzione, della sua ostilità verso ciò che è appropriato, armonioso, in altre parole, verso la [[concepts/beauty|Bellezza]].
+
+Un istinto immortale, profondamente radicato nell’animo umano, è senza dubbio il senso del Bello. È proprio questo istinto a procurare all’uomo piacere nelle molteplici forme, suoni, odori e sentimenti che lo circondano. Proprio come il giglio si ripete nel lago o gli occhi dell’amarillide nello [[motifs/mirror|specchio]], anche la semplice ripetizione orale o scritta di queste forme, suoni, colori, odori e sentimenti rappresenta una fonte ulteriore di bellezza. Ma questa semplice ripetizione non è poesia. Chi si limita a cantare, per quanto con entusiasmo o descrizioni vivide, le cose, i suoni, gli odori, i colori e i sentimenti che ci circondano, non ha ancora dimostrato di possedere un titolo divino; c’è ancora qualcosa lontano da raggiungere. Abbiamo ancora una sete inestinguibile, ma egli non ci ha mostrato le sorgenti capaci di placarla. Questa sete appartiene all’[[concepts/immortality|immortalità]] dell’Uomo; è al contempo conseguenza e segno della sua esistenza eterna. È il desiderio ardente di raggiungere una bellezza che forse appartiene soltanto all’[[concepts/eternity|eternità]]. E così, quando la poesia o la musica ci fanno provare emozioni estatiche, piangiamo non per eccesso di gioia, ma per un dolore impaziente e frustrato nel rendersi conto di non essere in grado, qui sulla terra, di afferrare completamente, immediatamente e per sempre, quelle gioie divine di cui possiamo solo intravedere brevi e vaghe immagini attraverso la poesia o la musica.
+
+Lo sforzo per comprendere quella bellezza celestiale – uno sforzo compiuto da anime adeguatamente strutturate – ha donato al mondo tutto ciò che esso è mai stato in grado di comprendere e percepire come qualcosa di poetico.
+
+Il Sentimento Lirico, naturalmente, può manifestarsi in modi diversi: nella Pittura, nella Scultura, nell’Architettura, nella [[motifs/dance|Danza]] – soprattutto nella Musica – e in modo particolare e con ampi margini di espressione nella composizione dei giardini paesaggistici. Tuttavia, il nostro argomento attuale riguarda soltanto la sua manifestazione attraverso le parole. Qui permettetemi di parlare brevemente del ritmo. Ritenendo certamente che la Musica, con i suoi diversi metri, ritmi e rime, abbia un’importanza fondamentale nella Poesia, tale da non poter mai essere saggiamente ignorata; riconoscendo inoltre che sia un complemento essenziale per la sua espressione, non mi soffermerò ora a dimostrare la sua assoluta necessità. Forse è proprio nella Musica che l’[[motifs/soul|'anima]] riesce più vicinamente ad alcanzare lo scopo supremo per cui, ispirata dal Sentimento Lirico, si sforza: la creazione di una [[concepts/beauty|bellezza]] sublime. È davvero possibile che, in alcuni casi, questo scopo venga effettivamente raggiunto. Spesso ci capita di provare un piacere profondo nell’ascoltare suoni che sembrano provenire da un’arpa terrena e che certamente non possono essere sconosciuti agli angeli. Pertanto, non c’è dubbio che nell’unione tra Poesia e Musica, nel loro senso più popolare, possiamo trovare il campo più ampio per lo sviluppo poetico. Gli antichi bardi e menestrelli disponevano di vantaggi che noi oggi non abbiamo; Thomas Moore, cantando le proprie canzoni, le perfezionava in modo del tutto legittimo, trasformandole in veri e propri poemi.
+
+Per riassumere: definirei, in breve, la Poesia delle parole come “la creazione ritmica della [[concepts/beauty|bellezza]]”. L’unico giudice di essa è il Gusto; l’Intelligenza o la [[concepts/conscience|Conscienza]] hanno con essa soltanto relazioni secondarie. A meno che non si tratti di casi particolari, essa non ha alcuna attinenza né con il Dovere né con la [[concepts/truth|Verità]].
+
+Alcune parole, tuttavia, a chiarimento. Quel piacere che è al contempo il più puro, il più elevato e il più intenso deriva, a mio parere, dalla contemplazione della Bellezza. Solo nella contemplazione della [[concepts/beauty|Bellezza]] possiamo raggiungere quell’elevamento piacevole, quella tensione dell’[[motifs/soul|'anima]] che riconosciamo come Sentimento poetico, e che si distingue facilmente dalla [Vero, che è la soddisfazione della Ragione, o dalla Passione, che è l’eccitazione del cuore. Pertanto, considero la [[concepts/beauty|Bellezza]] – usando questo termine nel suo senso più ampio, che include anche ciò che è sublime – come l’elemento fondamentale della poesia; infatti, è una regola ovvia dell’arte che gli effetti artistici debbano derivare il più direttamente possibile dalle loro cause. Nessuno, finora, ha avuto la debolezza di negare che tale tipo di elevamento possa essere raggiunto con particolare facilità attraverso la poesia. Tuttavia, ciò non significa affatto che gli stimoli della Passione, i precetti del Dovere o le lezioni della [Vero non possano essere introdotti in una poesia e utilizzati a vantaggio dell’opera stessa; anzi, possono servire, in modi diversi, agli scopi generali di quest’ultima. Ma il vero [[archetypes/artist|artista]] farà sempre in modo che tali elementi siano subordinati a quella Bellezza che costituisce l’essenza stessa della poesia.
+
+Non posso introdurre in modo migliore i pochi poemi che presenterò alla vostra attenzione, se non citando il Proem di “Waif” di Longfellow:—
+
+La giornata è finita, e l’oscurità  
+scende dalle ali della [[motifs/night|Notte]],  
+come una piuma che discende  
+da un’aquila nel suo volo.  
+Vedo le luci del villaggio  
+brillare tra la pioggia e la nebbia;  
+un senso di tristezza mi assale,  
+che la mia [[motifs/soul|'anima]] non può resistere.
+Un sentimento di tristezza e [[concepts/longing|nostalgia]],  
+che non assomiglia alla [[motifs/pain|dolore]],  
+ma ricorda solo il dolore,  
+come la nebbia ricorda la pioggia.  
+Leggi per me qualche poesia,  
+qualcosa di semplice e sincero,  
+che possa calmare questo stato d’animo inquieto  
+e allontanare i pensieri della giornata.
+Non quelle dei grandi maestri del passato,  
+né delle barde [[concepts/sublime|sublimi]],  
+le cui voci echeggiano nei corridoi del [[motifs/time|Tempo]].
+Perché, come suoni di musica marziale,  
+i loro pensieri potenti ricordano  
+la fatica e lo sforzo incessanti della vita.
+E verso la [[motifs/night|notte]] anelo al riposo.  
+Leggi invece qualcosa di un poeta più umile,  
+le cui canzoni sgorgano dal suo cuore,  
+come piogge dai nuvoli dell’[[motifs/summer|estate]],  
+o lacrime che scendono dalle palpebre.
+Un poeta che, nonostante giorni di fatica  
+e notti prive di pace,  
+ha sempre sentito nella sua [[motifs/soul|anima]]  
+la musica di meravigliose melodie.
+Tali canzoni hanno il potere di calmare  
+il battito inquieto del cuore;  
+sono come una benedizione  
+che segue la [[motifs/prayer|preghiera]].
+Allora leggi, dal volume che ti è caro,  
+la poesia che hai scelto tu stesso,  
+e dona alle parole del poeta  
+la bellezza della tua voce.
+E la [[motifs/night|notte]] sarà piena di musica;  
+i pensieri angosciosi della giornata  
+si allontaneranno silenziosamente.
+
+Senza un grande spettro di [[concepts/imagination|immaginazione]], queste righe sono state giustamente ammirate per la loro delicatezza espressiva. Alcune delle immagini descritte sono davvero molto efficaci. Non c’è nulla di meglio di.
+
+———————I bardi [[concepts/sublime|sublimi]],  
+Il cui eco lontano risuona  
+Nei corridoi del [[motifs/time|Tempo]].
+
+L’idea della quarta strofa è anch’essa molto efficace. Tuttavia, il poema nel suo complesso merita ammirazione soprattutto per la grazia e l’indifferenza del suo metro, che si adatta perfettamente al carattere dei sentimenti espressi, nonché per la naturalezza e la disinvoltura con cui è scritto. Questa “naturalezza”, in uno stile letterario, da tempo viene considerata soltanto un aspetto esteriore – qualcosa di davvero difficile da raggiungere. Ma non è così: una forma espressiva naturale è difficile soltanto per chi non si impegna mai a migliorarla, cioè per coloro che cercano di alterare la propria spontaneità. In realtà, essa deriva semplicemente dal comprendere – o dall’istinto – che il tono delle proprie opere debba sempre essere quello che la maggior parte delle persone sceglierebbe; inoltre, tale tono deve variare naturalmente a seconda dell’occasione. Un autore che, seguendo lo stile della “North American Review”, cercasse di mantenere un tono “calmo” in ogni situazione, finirebbe inevitabilmente per apparire sciocco o stupido in molte occasioni; e non avrebbe certo più diritto di essere considerato “naturale” o disinvolto di un individuo del quartiere dei cockney, o della bella statua di cera addormentata nei musei.
+
+Tra i più brevi poemi di Bryant, nessuno mi ha colpito tanto quanto quello intitolato “Giugno”. Cito solo una sua parte:—
+
+Lì, per tutta la lunga durata delle ore estive,  
+la luce dorata dovrebbe risplendere;  
+erbe giovani e fiori dovrebbero crescere nella loro bellezza.
+L’oriolo dovrebbe cantare le sue storie d’amore, proprio accanto alla mia tomba;  
+la farfalla pigra dovrebbe riposarvi, e si dovrebbero sentire il ronzio delle api e il canto degli uccelli.
+E che dire se, a mezzogiorno, giungessero grida gioiose dal villaggio, o canzoni di ragazze sotto la luna.
+E se, nella luce del tramonto, fidanzati passeggiassero davanti al mio modesto monumento?  
+Vorrei che questa bella scena non conoscesse mai tristezza né suono doloroso.
+So bene che non dovrei assistere a tutto questo splendore stagionale;  
+che la sua luce non dovrebbe risplendere per me, né la sua musica echeggiare intorno a me.
+Ma se, accanto al mio luogo di riposo, gli amici che amo venissero a piangere, forse non avrebbero fretta di andarsene.
+Arii dolci, canzoni, luce e fiori, li tratterrebbero lì, vicino alla mia tomba.
+Queste cose porterebbero nei loro cuori teneri i ricordi di ciò che è stato.
+E parlerebbero di colui che non può condividere la gioia di questa scena.
+Di colui il cui ruolo, in tutta questa magnificenza estiva, è soltanto quello di avere una tomba verde.
+I loro cuori si rallegrerebbero profondamente, se potessero ascoltare di nuovo la sua voce.
+
+Il flusso ritmico qui è davvero delizioso; non c’è nulla di più melodioso. Questo poema mi ha sempre colpito in modo straordinario. Quella intensa [[concepts/melancholy|melancolia]] che, inevitabilmente, emerge dalla superficie di tutte le parole gioiose del poeta riguardo alla sua [[motifs/grave|morte]], ci commuove fino all’[[motifs/soul|'anima]]. E in questo senso, si tratta davvero di un’espressione poetica di altissimo livello. L’impressione che lascia è quella di una tristezza piacevole. E se, nelle altre composizioni che vi presenterò, risulterà sempre evidente un tono simile, permettetemi di ricordarvi che (perché e come non lo sappiamo) questa particolare nota di tristezza è strettamente legata a tutte le manifestazioni più elevate della vera [[concepts/beauty|bellezza]].
+
+Un senso di tristezza e [[concepts/longing|desiderio]]  
+che non è simile a [[motifs/pain|dolore]],  
+e assomiglia al dolore solo  
+come la nebbia assomiglia alla pioggia.
+
+La macchia di cui parlo è chiaramente percepibile anche in una poesia così ricca di brillantezza e spirito come “The Health” di Edward Coate Pinckney.
+
+Riempio questa coppa con qualcosa di creato esclusivamente dalla bellezza,  
+da una donna del suo gentile sesso,  
+l’apparente paragone di tutte le altre.
+A lei gli elementi più belli e le stelle benevole hanno donato  
+una forma così incantevole che, come l’aria,  
+sembra meno terrena che celestiale.  
+Ogni suo suono è musica pura,  
+simile a quello degli uccellini del mattino;  
+le sue parole racchiudono qualcosa di più della semplice melodia.
+Sono il frutto del suo cuore, e dalle sue labbra sgorgano  
+come il miele da un fiore.  
+I suoi sentimenti sono come i suoi pensieri,  
+la misura delle sue ore.
+Le sue emozioni hanno la vivacità,  
+la freschezza dei fiori giovani.
+E passioni incantevoli, sempre in mutamento,  
+la riempiono completamente; sembra quindi  
+l’immagine stessa di queste passioni, l’idolo degli anni passati!  
+Un solo sguardo al suo viso luminoso basta  
+per lasciare nella mente un’impressione indelebile;  
+il suono della sua voce, nelle nostre anime,  
+rimane a lungo.  
+Ma la memoria, come la mia di lei.
+la rende ancora più preziosa.
+Quando la morte sarà vicina, il mio ultimo sospiro  
+non sarà per me, ma per lei.  
+Riempio questa coppa con qualcosa di creato esclusivamente dalla bellezza.
+da una donna del suo gentile sesso, l’apparente paragone di tutte le altre.
+La sua salute! Se solo esistesse al mondo  
+un’altra persona con un corpo così perfetto.
+Allora la vita sarebbe tutta poesia,  
+e la stessa fatica sembrerebbe una gioia.
+
+Fu sfortuna del signor Pinckney essere nato troppo a sud. Se fosse stato un new englese, è probabile che sarebbe stato considerato il primo dei lirici americani da quella magnanima cerchia che da tempo controlla i destini della letteratura americana, attraverso la pubblicazione di “The North American Review”. La poesia appena citata è particolarmente bella; tuttavia, l’effetto poetico che suscita dipende soprattutto dalla nostra empatia per l’entusiasmo del poeta. Perdoniamo le sue esagerazioni, data la evidente sincerità con cui vengono espresse.
+
+Tuttavia, non era affatto mia intenzione dilungarmi sui _pregi_ di ciò che dovrei leggervi adesso; questi pregi parleranno certamente da soli. Boccalini, nelle sue “Aggiunte dal Parnasso”, racconta che un certo Zoilus presentò un giorno a [[characters/apollo|Apollo]] una critica molto tagliente su un libro assai ammirevole; allora il dio gli chiese quali fossero i pregi di quell’opera. Zoilus rispose che si era occupato soltanto degli errori presenti nel testo. Sentendo ciò, [[characters/apollo|Apollo]] gli diede un sacco di grano non ancora setacciato e gli ordinò di selezionare _tutto il logoro_ come ricompensa.
+
+Ora, questa [[forms/fable|fable]] risponde molto bene come critica ai critici, ma non sono affatto certo che il dio avesse ragione. Non sono affatto certo che i veri limiti del dovere critico non siano profondamente fraintesi. L’eccellenza, soprattutto in una poesia, può essere considerata alla luce di un assioma che, se espresso correttamente, diventa di per sé evidente. Non si può parlare di eccellenza quando essa richiede di essere dimostrata come tale. E quindi, sottolineare troppo specificatamente i meriti di un’opera d’arte significa ammettere che tali meriti non siano affatto così evidenti come si potrebbe pensare.
+
+Tra le “Melodie” di Thomas Moore ce n’è una la cui caratteristica distintiva, come poesia a tutti gli effetti, sembra essere stata stranamente trascurata. Mi riferisco alle sue strofe che iniziano con: “Vieni, riposati in questo seno”. L’intensa forza espressiva di queste parole non è eguagliata da nulla nelle opere di Byron. In quelle due strofe viene trasmesso un sentimento che incarna in sé l’essenza stessa della passione divina dell’[[motifs/love|Amore]]; un sentimento che, forse, ha trovato riscontro in molti più cuori umani, e in cuori più appassionati, di qualsiasi altro sentimento mai espresso a parole.
+
+Come, riposati in questo rifugio, mio povero cervo colpito;
+sebbene il branco ti abbia abbandonato, la tua [[motifs/home|casa]] è ancora qui;
+qui c’è ancora quel sorriso che nessuna nuvola può offuscare,
+e un cuore e una mano che appartengono esclusivamente a te, fino alla fine.
+Oh! A cosa serve l’[[motifs/love|amore]], se non per condividere gioie e dolori, gloria e vergogna?
+Non so, non chiedo, se in quel cuore ci sia [[concepts/guilt|colpa]];
+so solo che ti amo, qualunque tu sia.
+In momenti di felicità mi hai chiamato il tuo Angelo;
+sarò il tuo Angelo anche nelle ore più terribili. Ti seguirò senza esitare attraverso ogni pericolo,
+ti proteggerò e ti salverò, o morirò con te!
+
+Negli ultimi tempi è diventata moda negare a Moore la sua [[concepts/imagination|immaginazione]], attribuendogli invece il carattere di un uomo “fancioso” – una distinzione che ha origine da Coleridge, il quale meglio di chiunque altro comprese le grandi capacità creative di Moore. In realtà, l’immaginazione di questo poeta prevale così nettamente su tutte le sue altre facoltà, e su quella di tutti gli altri uomini, da far sì che si possa facilmente pensare che sia soltanto un creatore di fantasie. Ma non c’è stato mai errore più grave: non è mai stata commessa una ingiustizia più grave nei confronti della reputazione di un vero poeta. Nell’ambito della lingua inglese, non riesco a ricordare alcun poema più profondamente e straordinariamente “immaginativo”, nel senso migliore del termine, di quelle righe che iniziano con “I would I were by that dim lake”: esse costituiscono il culmine della produzione poetica di Thomas Moore. Mi dispiace di non riuscire a ricordarle.
+
+Uno dei poeti più nobiletti – e, parlando di fantasia, uno dei più straordinariamente fantasiosi tra i poeti moderni – era Thomas Hood. La sua poesia “Fair Ines” ha sempre esercitato su di me un fascino indescrivibile.
+
+O non avete visto la bella Ines?  
+È partita verso l’Occidente,  
+Per abbagliare il mondo al tramonto,  
+E privarlo del suo riposo.
+Ha portato via con sé la nostra luce del giorno,  
+I sorrisi che amiamo di più,  
+Le rossori mattutini sulle sue guance,  
+Le perle sul suo petto.
+O torna indietro, bella Ines,  
+Prima che cali la notte.
+Perché temo che la luna splenda da sola,  
+E le stelle brillino in modo incomparabile.
+Il giovane innamorato sarà benedetto  
+Se potrà camminare sotto quella luce,  
+E respirare il tuo amore sulle tue guance.
+Non oso nemmeno scriverlo!  
+Ah, se solo fossi stato io quel cavaliere valoroso,  
+Che cavalcava al tuo fianco con tanta gioia,  
+E ti sussurrava parole d’amore così vicino a te.
+Se non ci fossero altre belle dame in patria,  
+Né altri veri amanti qui.
+Perché avrebbe attraversato i mari per conquistarti?  
+Ti ho vista, bella Ines.
+Scendere lungo la riva,  
+Accompagnata da nobili gentiluomini,  
+Con bandiere sventolate davanti a te.
+Giovani e ragazze felici, con piume bianche addosso.
+Sarebbe stato un bellissimo sogno.
+Se solo non fosse stato altro che un sogno.
+Ahimè, bella Ines.
+È partita con la musica,  
+Con canti di addio.
+Ma alcuni erano tristi, senza gioia.
+Solo il suono della musica.
+Canti d’addio.
+Addio alla donna che hai amato per tanto tempo.
+Addio, bella Ines.
+Quel vascello non ha mai portato  
+Una signora così bella sul suo ponte.
+Né l’ha vista danzare con tanta leggerezza.
+Ahimè, la gioia in mare, e il dolore sulla riva.
+Il sorriso che rendeva felice il cuore di un innamorato.
+Ha spezzato i cuori di molti altri.
+
+“La Casa Infestata”, dello stesso autore, è uno dei poemi più veri mai scritti: uno dei più sinceri, dei più impeccabili, dei più completamente artistici, sia per il tema che per l’esecuzione. È inoltre profondamente idealistico e ricco di immaginazione. Purtroppo la sua lunghezza lo rende inadatto agli scopi di questa lezione; permettetemi quindi di proporvi il universalmente apprezzato “Ponte dei Sospiri”.
+
+Un’altra sfortunata.
+Stancha di respirare,  
+Inquieta e insistente.
+È andata verso la sua [[motifs/death|morte]]!  
+Prendila con tenerezza,  
+Sollevala con cura.
+Così snella, così giovane, così bella.
+Guarda i suoi abiti.
+Attaccati a lei come cerotti.
+Mentre l’acqua continua a gocciolare.
+Prendila subito.
+Con amore, non con disprezzo.
+Non toccarla con sprezzamento.
+Pensa a lei con tristezza.
+Con gentilezza e umanità.
+Non pensare alle sue macchie.
+Tutto ciò che le è rimasto.
+È ormai solo la bellezza di una donna.
+Non esaminarla troppo attentamente.
+Nel suo comportamento sconsiderato.
+Oltre ogni disonore.
+La [[motifs/death|morte]] le ha lasciato solo la bellezza.
+Là, dove le lampade tremolano.
+Nella profondità del [[motifs/river|fiume]].
+Con molte luci.
+Dalle finestre, dai tetti.
+Dai sottotetti.
+Stava lì, stupita.
+Senza casa, nella notte.
+Il freddo vento di marzo.
+La faceva tremare.
+Ma non l’oscura arcata.
+Né il nero fiume che scorreva.
+Pazzia per la storia della vita.
+Felice nel mistero della morte.
+Pronta ad essere gettata via.
+Ovunque. Lontano dal mondo.
+Si gettò dentro, con coraggio.
+Non importava quanto fosse freddo il fiume.
+Sopra il suo bordo.
+Immaginalo. Pensaci.
+Uomo dissoluto.
+Lavati in quel fiume. Bevi da esso.
+Se puoi.
+Comunque, nonostante tutti i suoi errori.
+È ancora della famiglia di Eva.
+Asciuga quelle sue labbra pallide.
+Che stillano acqua.
+Raccogli i suoi capelli.
+Scappati dalla pettine.
+I suoi bei capelli castani.
+Mentre la meraviglia cerca.
+Dove fosse la sua casa.
+Chi fosse suo padre.
+Chi fosse sua madre.
+Aveva sorelle? Fratelli?  
+O qualcuno ancora più caro.
+Più vicino di tutti gli altri?  
+Ahimè. Per la rarità della cristiana [[concepts/charity|carità]].
+Sotto il sole.
+Oh. Era davvero triste.
+Vicina a un’intera città.
+Non aveva una casa.
+Sentimenti fraterni, paterni, materni.
+Erano cambiati.
+L’amore, di fronte alle prove dure.
+È stato spinto giù dal suo trono.
+Anche la provvidenza di Dio.
+Sembrava essersi allontanata.
+Prendila con tenerezza.
+Sollevala con cura.
+Così snella, così giovane, così bella.
+Prima che le sue membra diventino rigide.
+Con gentilezza. Lisciandole.
+E chiudile gli occhi.
+Che fissavano nel vuoto.
+Con uno sguardo pieno di disperazione.
+Verso il futuro.
+Morta nella tristezza. Spinta dall’indifferenza.
+Dalla freddezza umana. Dalla follia ardente.
+Nel suo riposo eterno.
+Incrocia le mani in umiltà.
+Come se pregasse in silenzio.
+Sopra il suo petto.
+Riconoscendo la propria debolezza.
+Il proprio cattivo comportamento.
+E lasciando, con umiltà.
+I propri peccati al Suo Salvatore.
+
+La forza vitale di questo poema non è affatto inferiore al suo lato patetico. La versificazione, sebbene porti il fantastico sull’orlo del vero delirio, si adatta comunque in modo eccellente alla follia selvaggia che costituisce il tema principale del poema.
+
+Tra i più brevi poemi di Lord Byron c'è uno che, senza dubbio, merita grandi lodi da parte dei critici, ma che tuttavia non le ha mai ricevute.
+
+Anche se il giorno del mio destino è finito,  
+e la stella della mia sorte ha perso splendore,  
+il tuo cuore gentile si rifiutò di scoprire  
+quei difetti che tanti altri potevano vedere;  
+anche se la tua anima conosceva la mia tristezza,  
+non si ritrasse dal condividerla con me;  
+l’amore che il mio spirito aveva dipinto,  
+lo trovò soltanto in te.  
+Quando la natura intorno a me sorride,  
+quel ultimo sorriso che risponde al mio,  
+non credo sia ingannevole,  
+perché mi ricorda di te;  
+e quando i venti combattono contro l’oceano,  
+come i cuori in cui credevo,  
+se le loro onde suscitano emozioni,  
+è perché mi portano lontano da te.  
+Anche se la roccia della mia ultima speranza è infranta,  
+e i suoi frammenti affondano nelle onde,  
+anche se sento che la mia anima è consegnata al dolore,  
+non diventerà sua schiava.
+Ci sono molte sofferenze che mi inseguono:  
+possono distruggermi, ma non possono disprezzarmi;  
+possono tormentarmi, ma non possono sottomettermi.
+Penso a te, non a loro.  
+Anche se umana, non mi hai ingannata;  
+anche se donna, non mi hai abbandonata;  
+anche se amata, non hai permesso che soffrissi;  
+anche se diffamata, non sei mai riuscita a scuotermi.
+Anche se affidata a te, non mi hai rifiutata;  
+anche se separate, non è stato per fuggire.
+Anche se attenta, non è stato per diffamarmi.
+Né silenziosa, affinché il mondo potesse mentirmi.
+Eppure non biasimo il mondo, né lo disprezzo;  
+né la lotta di molti contro uno.
+Se la mia anima non era destinata ad apprezzarlo,  
+sarebbe stato folle evitarlo fin dall’inizio.
+E se quel errore mi è costato tanto,  
+e più di quanto avessi potuto immaginare.
+ho scoperto che tutto ciò che mi ha perso,  
+non è riuscito a privarmi di te.
+Dai resti del passato, che sono andati perduti,  
+posso ricordare almeno questo:  
+mi ha insegnato ciò che più amavo.
+che meritava davvero di essere il mio tesoro più prezioso.
+Nel deserto, una sorgente scorre ancora;  
+nella vasta distesa, c’è ancora un albero.
+E un uccello, nella solitudine, canta.
+e con il suo canto parla al mio spirito di te.
+
+Benché il ritmo qui sia dei più difficili, la versificazione
+non potrebbe quasi essere migliorata. Nessun _tema_ più nobile impegnò mai la penna di un
+poeta. È l’idea che eleva l’[[motifs/soul|anima]]: che nessun uomo può ritenersi
+autorizzato a lagnarsi del Fato finché, nell’avversità, conserva ancora l’
+incrollabile [[motifs/love|amore]] di una donna.
+
+Di Alfred Tennyson, benché in perfetta sincerità io lo consideri il
+più nobile poeta che sia mai vissuto, mi sono lasciato il [[motifs/time|tempo]] di citare solo un
+brevissimo saggio. Lo chiamo, e lo _reputo_, il più nobile dei poeti, _non_
+perché le impressioni che produce siano in _ogni_ tempo le più
+profonde, _non_ perché l’eccitazione poetica che induce
+sia in _ogni_ tempo la più intensa, ma perché è in ogni
+tempo la più eterea: in altre parole, la più elevante e la più
+pura. Nessun poeta è così poco terreno, di terra. Ciò che sto per leggere
+è tratto dal suo ultimo lungo poema, «La Principessa»:
+
+[[motifs/tears|Lacrime]], vane [[motifs/tears|lacrime]], non so che cosa significhino,
+[[motifs/tears|lacrime]] dal fondo di qualche divina [[concepts/despair|disperazione]]
+salgono al cuore, e s’adunano negli occhi,
+guardando i felici campi d’[[motifs/autumn|autunno]],
+e pensando ai giorni che non sono più.
+Freschi come il primo raggio che scintilla su una vela
+che ci riporta gli amici dagli inferi,
+tristi come l’ultimo che arrossa sopra una
+che affonda con tutto ciò che [[motifs/love|amiamo]] oltre il ciglio;
+così tristi, così freschi, i giorni che non sono più.
+Ah, tristi e strani come nelle buie albe d’[[motifs/summer|estate]]
+il primo zufolo degli [[motifs/birds|uccelli]] mezzo desti
+a orecchi morenti, quando a occhi morenti
+la finestra lentamente si fa quadrato che albeggia;
+così tristi, così strani, i giorni che non sono più.
+Cari come baci ricordati dopo la [[motifs/death|morte]],
+e dolci come quelli che una fantasia senza speranza finge
+su labbra che sono d’altri; profondi come l’[[motifs/love|amore]],
+profondi come il primo [[motifs/love|amore]], e folli d’ogni rimpianto;
+o [[motifs/death|Morte]] nella Vita, i giorni che non sono più.
+
+Così, benché in maniera molto sommaria e imperfetta, mi sono sforzato
+di trasmettervi la mia concezione del principio poetico. Mio
+proposito è stato di suggerire che, mentre questo principio in sé è strettamente e
+semplicemente l’[[concepts/aspiration|Aspirazione]] Umana alla [[concepts/beauty|Bellezza]] Superna, la manifestazione del
+Principio si trova sempre in _un’eccitazione elevante dell’[[motifs/soul|anima]],_ del tutto
+indipendente da quella passione che è l’ebbrezza del Cuore, o da
+quella [[concepts/truth|verità]] che è la soddisfazione della Ragione. Perché, quanto alla
+passione, ahimè! la sua tendenza è di degradare piuttosto che di elevare l’[[motifs/soul|Anima]].
+L’[[motifs/love|Amore]], al contrario — l’[[motifs/love|Amore]] — il vero, il divino Eros — l’
+Uranio in quanto distinto dalla [[characters/venus|Venere]] Dionea — è indiscutibilmente
+il più puro e il più vero di tutti i temi poetici. E quanto alla [[concepts/truth|Verità]], se,
+certo, mediante il conseguimento di una [[concepts/truth|verità]] siamo condotti a percepire un’
+armonia dove prima nessuna era manifesta, proviamo all’istante il vero
+effetto poetico; ma questo effetto è riferibile alla sola armonia, e
+non nel minimo grado alla [[concepts/truth|verità]] che è servita soltanto a rendere l’
+armonia manifesta.
+
+Giungeremo però più immediatamente a una concezione distinta di ciò
+che è la vera Poesia con il semplice richiamo a pochi dei semplici elementi
+che inducono nel Poeta stesso l’effetto poetico. Egli riconosce l’
+ambrosia che nutre la sua [[motifs/soul|anima]] nei globi lucenti che splendono in Cielo, nelle
+volute del fiore, nel raggrupparsi dei bassi arbusti, nell’
+ondeggiare dei campi di grano, nell’inclinarsi degli alti alberi d’oriente, nella
+lontananza azzurra dei [[settings/mountains|monti]], nell’aggrupparsi delle nubi, nel
+luccichio dei ruscelli mezzo nascosti, nel brillare dei fiumi d’argento, nel
+riposo dei laghi appartati, nelle profondità che specchiano le stelle
+di pozzi solitari. Lo percepisce nei canti degli [[motifs/birds|uccelli]], nell’arpa di
+Eolo, nel sospirare del [[motifs/wind|vento]] [[motifs/night|notturno]], nella voce querula
+della foresta, nella risacca che si lagna alla riva, nel
+fresco respiro dei boschi, nel profumo della violetta, nel
+voluttuoso profumo del giacinto, nell’odore suggestivo che
+gli giunge sul far della sera da isole lontanissime e non scoperte, sopra oscuri
+oceani, illimitati e inesplorati. Lo riconosce in tutti i nobili pensieri, in
+tutti i moventi non mondani, in tutti gli impulsi santi, in tutte le azioni cavalleresche,
+generose e di [[concepts/self|abnegazione]]. Lo sente nella [[concepts/beauty|bellezza]] della donna, nella
+grazia del suo passo, nel lustro del suo occhio, nella melodia
+della sua voce, nel suo riso sommesso, nel suo sospiro, nell’armonia
+del fruscio delle sue vesti. Lo sente profondamente nelle sue avvincenti
+carezze, nei suoi ardenti entusiasmi, nelle sue miti carità, nelle
+sue mansuete e devote sopportazioni; ma soprattutto — ah, ben al di sopra
+di tutto, egli s’inginocchia davanti a esso, lo adora nella [[concepts/faith|fede]], nella purezza, nella
+forza, nella del tutto divina maestà del suo [[motifs/love|amore]].
+
+Permettetemi di concludere con la recitazione di un’altra breve poesia: una
+di carattere assai diverso da tutte quelle che ho citato prima. È di
+Motherwell, e s’intitola «Il Canto del Cavaliere». Con le nostre moderne e
+del tutto razionali idee sull’assurdità e l’empietà della guerra, non siamo
+precisamente in quella disposizione d’animo più adatta a simpatizzare con i
+sentimenti, e quindi ad apprezzare la reale eccellenza del poemetto. Per farlo
+pienamente dobbiamo immedesimarci con la fantasia nell’[[motifs/soul|anima]] del vecchio
+cavaliere:
+
+Dunque in sella! in sella, prodi galanti tutti,
+e allacciate gli elmi in fretta:
+i corrieri della Morte, la Fama e l’Onore chiamano
+Nessuna lacrima bisbetica v’empirà l’occhio
+quando l’elsa della spada è nella nostra mano:
+col cuore intero partiremo, e non un sospiro
+per la più bella del paese;
+lasciate che il pastorello zufolante e il codardo
+così piangano e con lagni gridino,
+l’affar nostro è battersi da uomini.
+
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="The Poetic Principle (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/paradise_lost,motif/soul,motif/time,motif/wind,concept/doubt,concept/self,concept/sublime,form/epic"></span>

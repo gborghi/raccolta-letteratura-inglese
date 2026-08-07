@@ -2784,13 +2784,13 @@ La Ballata di Santa Barbara
 
 E ALTRI VERSI  
 
-BY  
+DI  
 
 GILBERT KEITH CHESTERTON  
 
-[[settings/london|LONDRA]]
+[[settings/london|LONDRA]]  
 
-CECIL PALMER
+CECIL PALMER  
 
 OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
 
@@ -2868,9 +2868,9 @@ siamo divenuti più saggi senza perdere lo [[concepts/wonder|stupore]];
 
 e abbiamo veduto Gerusalemme.  
 
-INDICE
+INDICE  
 
-PAGINA
+PAG.  
 
 A F. C. In Memoriam Palestina, '19             vii  
 
@@ -3974,7 +3974,7 @@ Ma quando il Nuovo Diluvio del mondo ribollirà
 
 dalla vigna del Nuovo Noè,  
 
-Le nostre anime saranno Leviatani  
+le nostre anime saranno Leviatani  
 
 in sanguigni mari di vino.  
 

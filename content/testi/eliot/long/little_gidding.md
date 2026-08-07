@@ -348,6 +348,65 @@ Here, the intersection of the timeless moment
 Is England and nowhere. Never and always.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I  
+La [[motifs/spring|primavera]] di mezzo inverno è una stagione a sé  
+Sempiterna benché fradicia verso il tramonto,  
+Sospesa nel [[motifs/time|tempo]], tra il polo e il tropico.  
+Quando il giorno breve è più luminoso, di [[motifs/frost|gelo]] e di [[motifs/fire|fuoco]],  
+Il sole breve infiamma il ghiaccio, sullo stagno e sui fossi,  
+Nel freddo senza vento che è il calore del cuore,  
+Riflettendo in uno [[motifs/mirror|specchio]] d'acqua  
+Un bagliore che è cecità nel primo pomeriggio.  
+E un ardore più intenso della vampa di un ramo, o di un braciere,  
+Scuote lo spirito muto: non [[motifs/wind|vento]], ma [[motifs/fire|fuoco]] pentecostale  
+Nel [[motifs/time|tempo]] buio dell'anno. Tra il disgelo e il gelo  
+La linfa dell'[[motifs/soul|anima]] freme. Non c'è odore di terra  
+Né odore di cosa viva. Questo è il [[motifs/spring|primaverile]] [[motifs/time|tempo]]  
+Ma non nel patto del [[motifs/time|tempo]]. Ora la siepe  
+È imbiancata per un'ora da un fiore transitorio  
+Di [[motifs/snow|neve]], una fioritura più improvvisa  
+Di quella dell'[[motifs/summer|estate]], che non germoglia né appassisce,  
+Fuori dallo schema della generazione.  
+Dov'è l'[[motifs/summer|estate]], l'inimmaginabile  
+[[motifs/summer|Estate]] zero?  
+                         Se venissi per di qua,  
+Prendendo la via che probabilmente prenderesti  
+Dal luogo da cui probabilmente verresti,  
+Se venissi per di qua al [[motifs/time|tempo]] di maggio, troveresti le siepi  
+Di nuovo bianche, in maggio, di voluttuosa dolcezza.  
+Sarebbe lo stesso alla fine del [[motifs/journey|viaggio]],  
+Se venissi di [[motifs/night|notte]] come un [[archetypes/king|re]] disfatto,  
+Se venissi di giorno senza sapere per che cosa sei venuto,  
+Sarebbe lo stesso, quando lasci la [[motifs/road|strada]] sconnessa  
+E giri dietro il porcile verso la facciata spenta  
+E la lapide. E ciò per cui credevi d'esser venuto  
+È solo un guscio, una scorza di significato  
+Da cui lo scopo erompe solo quando è compiuto  
+Ammesso che accada. O non avevi scopo  
+O lo scopo è oltre il fine che immaginavi  
+Ed è alterato nel compimento. Ci sono altri luoghi  
+Che pure sono la fine del mondo, alcuni alle fauci del mare,  
+O sopra un lago oscuro, in un [[motifs/desert|deserto]] o in una [[motifs/city|città]] —  
+Ma questo è il più vicino, nel luogo e nel [[motifs/time|tempo]],  
+Ora e in Inghilterra.  
+                                     Se venissi per di qua,  
+Prendendo una via qualunque, partendo da un luogo qualunque,  
+In un [[motifs/time|tempo]] qualunque o in una stagione qualunque,  
+Sarebbe sempre lo stesso: dovresti deporre  
+Il senso e la nozione. Non sei qui per verificare,  
+Per istruirti, o per informare la curiosità  
+O per portare notizia. Sei qui per inginocchiarti  
+Dove la [[motifs/prayer|preghiera]] è stata valida. E la [[motifs/prayer|preghiera]] è più  
+Di un ordine di parole, dell'occupazione cosciente  
+Della mente che prega, o del suono della voce che prega.  
+E ciò per cui i morti non ebbero parola, da vivi,  
+Te lo possono dire, da morti: la comunicazione  
+Dei morti ha lingue di [[motifs/fire|fuoco]] oltre il linguaggio dei vivi.  
+Qui, l'intersezione del momento senza tempo  
+È l'Inghilterra e nessun luogo. Mai e sempre.
+
 
 
 <span class="atom-split" data-atom="section_02_part_ii" data-title="Little Gidding — II" data-chapter="part II" data-kind="section" data-tags="topos/double,archetype/ghost,archetype/shadow,motif/crown,motif/dawn,motif/death,motif/dust,motif/fire,motif/leaves,motif/night,motif/pain,motif/soul,motif/time,motif/water,motif/wind,concept/body,concept/despair,concept/honour,concept/hope,concept/vanity,concept/wonder"></span>
@@ -454,6 +513,108 @@ The day was breaking. In the disfigured street
    And faded on the blowing of the horn.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+II  
+Cenere sulla manica di un vecchio  
+È tutta la cenere che le rose bruciate lasciano.  
+[[motifs/dust|Polvere]] sospesa nell'aria  
+Segna il luogo dove una storia è finita.  
+[[motifs/dust|Polvere]] respirata fu una casa —  
+Il muro, il rivestimento e il topo.  
+La [[motifs/death|morte]] della [[concepts/hope|speranza]] e della [[concepts/despair|disperazione]],  
+        Questa è la [[motifs/death|morte]] dell'aria.  
+Ci sono diluvio e siccità  
+Sugli occhi e dentro la bocca,  
+[[motifs/water|Acqua]] morta e sabbia morta  
+Che si contendono il sopravvento.  
+Il suolo riarso e sviscerato  
+Spalanca la bocca alla [[concepts/vanity|vanità]] della fatica,  
+Ride senza allegria.  
+        Questa è la [[motifs/death|morte]] della terra.  
+[[motifs/water|Acqua]] e [[motifs/fire|fuoco]] succedono  
+Alla città, al pascolo e all'erbaccia.  
+[[motifs/water|Acqua]] e [[motifs/fire|fuoco]] deridono  
+Il sacrificio che abbiamo negato.  
+[[motifs/water|Acqua]] e [[motifs/fire|fuoco]] faranno marcire  
+Le fondamenta guaste che dimenticammo,  
+Del santuario e del coro.  
+        Questa è la [[motifs/death|morte]] dell'[[motifs/water|acqua]] e del [[motifs/fire|fuoco]].  
+Nell'ora incerta prima del mattino  
+   Presso la fine dell'interminabile [[motifs/night|notte]]  
+   Al ricorrente termine di ciò che non ha termine  
+Dopo che la colomba scura dalla lingua guizzante  
+   Era passata sotto l'orizzonte del suo ritorno  
+   Mentre le [[motifs/leaves|foglie]] morte ancora crepitavano come latta  
+Sull'asfalto dove non c'era altro suono  
+   Tra tre quartieri donde saliva il fumo  
+   Incontrai uno che camminava, indugiante e frettoloso  
+Come sospinto verso di me come le [[motifs/leaves|foglie]] di metallo  
+   Davanti all'[[motifs/dawn|aurorale]] [[motifs/wind|vento]] urbano senza resistere.  
+   E come fissai sul volto chinato  
+Quello scrutinio acuto con cui sfidiamo  
+   Il primo sconosciuto incontrato nel crepuscolo calante  
+   Colsi lo sguardo improvviso di qualche maestro morto  
+Che avevo conosciuto, dimenticato, mezzo rammentato  
+   Insieme uno e molti; nei lineamenti bruni e cotti  
+Gli occhi di un familiare [[archetypes/ghost|fantasma]] composito  
+   Insieme intimo e non identificabile.  
+   Così assunsi una [[topoi/double|doppia]] parte, e gridai  
+   E udii la voce di un altro gridare: “Come! sei tu qui?”  
+
+
+Benché non lo fossimo. Io ero ancora lo stesso,  
+   Conoscendo me stesso eppure essendo un altro —  
+   Ed egli un volto ancora in formazione; eppure le parole bastarono  
+A imporre il riconoscimento che precedettero.  
+   E così, arrendevoli al [[motifs/wind|vento]] comune,  
+   Troppo estranei l'uno all'altro per fraintenderci,  
+In accordo in questo [[motifs/time|tempo]] d'intersezione  
+   D'incontro in nessun luogo, senza prima né dopo,  
+   Battemmo il selciato in una ronda morta.  
+Dissi: “La [[concepts/wonder|meraviglia]] che provo è facile,  
+   Eppure la facilità è causa di [[concepts/wonder|meraviglia]]. Perciò parla:  
+   Potrei non comprendere, potrei non ricordare.”  
+Ed egli: “Non ho voglia di ripetere  
+   I miei pensieri e la mia teoria che hai dimenticato.  
+   Queste cose hanno servito al loro scopo: lasciale stare.  
+Così le tue, e prega che siano perdonate  
+   Dagli altri, come io prego te di perdonare  
+   Il male e il bene. Il frutto della scorsa stagione è mangiato  
+E la bestia satolla darà un calcio al secchio vuoto.  
+   Ché le parole dell'anno scorso appartengono alla lingua dell'anno scorso  
+   E le parole dell'anno venturo attendono un'altra voce.  
+Ma, poiché il passaggio ora non presenta ostacolo  
+   Allo spirito inappagato e peregrino  
+   Fra due mondi divenuti assai simili tra loro,  
+Così trovo parole che non pensai mai di dire  
+   In strade che non pensai mai di rivedere  
+   Quando lasciai il mio [[concepts/body|corpo]] su una riva lontana.  
+Poiché la nostra cura fu la parola, e la parola ci spinse  
+   A purificare il dialetto della tribù  
+   E a sospingere la mente alla retrovisione e alla previsione,  
+Lascia che ti riveli i doni riservati alla vecchiaia  
+   Per porre una [[motifs/crown|corona]] sulla fatica di tutta una vita.  
+   Primo, il freddo attrito dei sensi che si spengono  
+Senza incanto, che non offre promessa  
+   Ma l'amara insipidezza del frutto d'[[archetypes/shadow|ombra]]  
+   Mentre [[concepts/body|corpo]] e [[motifs/soul|anima]] cominciano a separarsi.  
+Secondo, l'impotenza cosciente della rabbia  
+   Per la follia umana, e la lacerazione  
+   Del riso per ciò che cessa di divertire.  
+E ultimo, il [[motifs/pain|dolore]] lacerante del rivivere  
+   Tutto ciò che hai fatto, e che sei stato; la vergogna  
+   Dei motivi rivelati tardi, e la consapevolezza  
+   Di cose mal fatte e fatte a danno altrui.  
+   Che un tempo prendesti per esercizio di virtù.  
+   Allora l'approvazione degli sciocchi punge, e l'[[concepts/honour|onore]] macchia.  
+Di torto in torto lo spirito esasperato  
+   Procede, se non è restaurato da quel [[motifs/fire|fuoco]] che raffina  
+   Dove devi muoverti a misura, come un danzatore.”  
+Il giorno spuntava. Nella strada sfigurata  
+   Mi lasciò, con una sorta di commiato,  
+   E svanì al suono del corno.
+
 
 
 <span class="atom-split" data-atom="section_03_part_iii" data-title="Little Gidding — III" data-chapter="part III" data-kind="section" data-tags="archetype/king,motif/death,motif/desire,motif/love,motif/memory,motif/rose,motif/silence,motif/well,concept/freedom,concept/history,concept/purification,concept/self,form/history"></span>
@@ -512,6 +673,60 @@ By the [[concepts/purification|purification]] of the motive
 In the ground of our beseeching.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III  
+Ci sono tre condizioni che spesso si somigliano  
+Eppure differiscono del tutto, fioriscono nella stessa siepe:  
+L'attaccamento al [[concepts/self|sé]] e alle cose e alle persone, il distacco  
+Dal [[concepts/self|sé]] e dalle cose e dalle persone; e, che cresce tra loro, l'indifferenza  
+Che somiglia alle altre come la [[motifs/death|morte]] somiglia alla vita,  
+Stando fra due vite — senza fiore, fra  
+L'ortica viva e l'ortica morta. Questo è l'uso della [[motifs/memory|memoria]]:  
+Per la liberazione — non meno [[motifs/love|amore]] ma un dilatarsi  
+Dell'[[motifs/love|amore]] oltre il [[motifs/desire|desiderio]], e così liberazione  
+Dal futuro [[motifs/well|quanto]] dal passato. Così, l'[[motifs/love|amore]] di un paese  
+Comincia come attaccamento al nostro proprio campo d'azione  
+E arriva a trovare quell'azione di poca importanza  
+Benché mai indifferente. La [[concepts/history|storia]] può essere servitù,  
+La [[concepts/history|storia]] può essere [[concepts/freedom|libertà]]. Guarda, ora svaniscono,  
+I volti e i luoghi, col [[concepts/self|sé]] che, come poté, li amò,  
+Per farsi rinnovati, trasfigurati, in un altro schema.  
+Il peccato è Conveniente, ma  
+Tutto andrà [[motifs/well|bene]], e  
+Ogni sorta di cosa andrà [[motifs/well|bene]].  
+Se penso, di nuovo, a questo luogo,  
+E a persone, non del tutto lodevoli,  
+Non congiunte da parentela né da benevolenza immediata,  
+Ma alcune di peculiare genio,  
+Tutte toccate da un genio comune,  
+Unite nella contesa che le divideva;  
+Se penso a un [[archetypes/king|re]] sul far della notte,  
+A tre uomini, e più, sul patibolo  
+E a pochi che morirono dimenticati  
+In altri luoghi, qui e all'estero,  
+E a uno che morì cieco e quieto,  
+Perché dovremmo celebrare  
+Questi morti più dei morenti?  
+Non è per suonare la campana all'indietro  
+Né è un incantesimo  
+Per evocare lo spettro di una [[motifs/rose|Rosa]].  
+Non possiamo far rivivere vecchie fazioni  
+Non possiamo restaurare vecchie politiche  
+O seguire un antico tamburo.  
+Questi uomini, e quelli che li avversarono  
+E quelli che essi avversarono  
+Accettano la costituzione del [[motifs/silence|silenzio]]  
+E sono raccolti in un solo partito.  
+Qualunque cosa ereditiamo dai fortunati  
+L'abbiamo presa dai vinti  
+Ciò che dovettero lasciarci — un simbolo:  
+Un simbolo perfezionato nella [[motifs/death|morte]].  
+E tutto andrà [[motifs/well|bene]] e  
+Ogni sorta di cosa andrà [[motifs/well|bene]]  
+Per la [[concepts/purification|purificazione]] del movente  
+Nel fondo del nostro supplicare.
+
 
 
 <span class="atom-split" data-atom="section_04_part_iv" data-title="Little Gidding — IV" data-chapter="part IV" data-kind="section" data-tags="motif/fire,motif/love,concept/despair,concept/hope"></span>
@@ -533,6 +748,24 @@ Which human power cannot remove.
    We only live, only suspire  
    Consumed by either [[motifs/fire|fire]] or [[motifs/fire|fire]].  
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV  
+La colomba discendente squarcia l'aria  
+Con fiamma d'incandescente terrore  
+Di cui le lingue dichiarano  
+L'unico scioglimento dal peccato e dall'errore.  
+L'unica [[concepts/hope|speranza]], o altrimenti la [[concepts/despair|disperazione]]  
+   Sta nella scelta fra pira e pira —  
+   Essere redenti dal [[motifs/fire|fuoco]] col [[motifs/fire|fuoco]].  
+Chi dunque escogitò il tormento? L'[[motifs/love|Amore]].  
+L'[[motifs/love|Amore]] è il Nome ignoto  
+Dietro le mani che tessero  
+L'intollerabile camicia di fiamma  
+Che potere umano non può togliere.  
+   Noi solo viviamo, solo sospiriamo  
+   Consumati o da [[motifs/fire|fuoco]] o da [[motifs/fire|fuoco]].
 
 
 
@@ -586,3 +819,54 @@ All manner of thing shall be [[motifs/well|well]]
 When the tongues of flame are in-folded  
 Into the crowned knot of [[motifs/fire|fire]]  
 And the [[motifs/fire|fire]] and the [[motifs/rose|rose]] are one.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+V  
+Ciò che chiamiamo il principio è spesso la fine  
+E fare una fine è fare un principio.  
+La fine è il luogo da cui partiamo. E ogni frase  
+E ogni periodo che sia giusto (dove ogni parola è a [[motifs/home|casa]] sua,  
+Prende il suo posto per sostenere le altre,  
+La parola né timida né ostentata,  
+Un facile commercio del vecchio e del nuovo,  
+La parola comune esatta senza volgarità,  
+La parola formale precisa ma non pedante,  
+L'intero concento che danza insieme)  
+Ogni frase e ogni periodo è una fine e un principio,  
+Ogni poesia un epitaffio. E ogni azione  
+È un passo verso il ceppo, verso il [[motifs/fire|fuoco]], giù per la gola del mare  
+O verso una pietra illeggibile: ed è di lì che partiamo.  
+Moriamo con i morenti:  
+Guarda, partono, e noi andiamo con loro.  
+Nasciamo con i morti:  
+Guarda, tornano, e ci portano con loro.  
+Il momento della [[motifs/rose|rosa]] e il momento del tasso  
+Hanno uguale durata. Un popolo senza [[concepts/history|storia]]  
+Non è redento dal [[motifs/time|tempo]], ché la [[concepts/history|storia]] è uno schema  
+Di momenti senza tempo. Così, mentre la luce viene meno  
+In un pomeriggio d'[[motifs/winter|inverno]], in una cappella appartata  
+La [[concepts/history|storia]] è ora e l'Inghilterra.  
+Con l'attrazione di questo [[motifs/love|Amore]] e la voce di questa Chiamata  
+Non cesseremo di esplorare  
+E la fine di tutto il nostro esplorare  
+Sarà arrivare dove siamo partiti  
+E conoscere il luogo per la prima [[motifs/time|volta]].  
+Attraverso il cancello ignoto, ricordato  
+Quando l'ultimo lembo di terra da scoprire  
+È quello che fu il principio;  
+Alla sorgente del [[motifs/river|fiume]] più lungo  
+La voce della cascata nascosta  
+E i bambini sul melo  
+Non conosciuti, perché non cercati  
+Ma uditi, mezzo uditi, nella quiete  
+Fra due onde del mare.  
+Presto ora, qui, ora, sempre —  
+Una condizione di completa semplicità  
+(Che non costa meno di tutto)  
+E tutto andrà [[motifs/well|bene]] e  
+Ogni sorta di cosa andrà [[motifs/well|bene]]  
+Quando le lingue di fiamma saranno ripiegate  
+Nel nodo coronato di [[motifs/fire|fuoco]]  
+E il [[motifs/fire|fuoco]] e la [[motifs/rose|rosa]] sono uno.
