@@ -14,19 +14,6 @@ tags:
 <span class="atom-split" data-atom="skeleton" data-title="skeleton" data-chapter="" data-kind="intro"></span>
 
 
-The Skeleton  
-
-Chattering finch and [[motifs/water|water]]-fly  
-Are not merrier than I;  
-Here among the [[motifs/flowers|flowers]] I lie  
-Laughing everlastingly.  
-No; I may not tell the best;  
-Surely, friends, I might have guessed  
-[[motifs/death|Death]] was but the good [[archetypes/king|King]]'s jest,  
-It was hid so carefully.  
-
-G.K. CHESTERTON
-
 
 <span class="qlang-split" data-lang="it"></span>
 

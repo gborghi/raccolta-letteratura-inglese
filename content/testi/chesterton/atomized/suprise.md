@@ -14,28 +14,6 @@ tags:
 <span class="atom-split" data-atom="suprise" data-title="suprise" data-chapter="" data-kind="intro"></span>
 
 
-The [[works/sword-(chesterton)|Sword]] of Surprise  
-
-Sunder me from my bones, O sword of God  
-Till they stand stark and strange as do the trees;  
-That I whose heart goes up with the soaring woods  
-May marvel as much at these.  
-
-Sunder me from my [[motifs/blood|blood]] that in the dark  
-I hear that red ancestral [[motifs/river|river]] run  
-Like branching buried floods that find the sea  
-But never see the sun.  
-
-Give me miraculous eyes to see my eyes  
-Those rolling mirrors made alive in me  
-Terrible crystals more incredible  
-Than all the things they see  
-
-Sunder me from my [[motifs/soul|soul]], that I may see  
-The sins like streaming wounds, the life's brave beat  
-Till I shall save myself as I would save  
-A stranger in the street.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

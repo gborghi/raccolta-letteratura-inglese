@@ -14,38 +14,6 @@ tags:
 <span class="atom-split" data-atom="femina" data-title="femina" data-chapter="" data-kind="intro"></span>
 
 
-Femina Contra Mundum  
-====================  
-
-G K Chesterton  
-
-The sun was black with judgment, and the [[motifs/moon|moon]]  
-[[motifs/blood|Blood]]: but between  
-I saw a man stand, saying: 'To me at least  
-The grass is green.  
-
-'There was no star that I forgot to [[concepts/fear|fear]]  
-With [[motifs/love|love]] and [[concepts/wonder|wonder]].  
-The [[motifs/birds|birds]] have loved me'; but no answer came --  
-Only the thunder.  
-
-.     .     .     .     .     .     .     .  
-
-Once more the man stood, saying: 'A cottage door,  
-Wherethrough I gazed  
-That instant as I turned -- yea, I am vile;  
-Yet my eyes blazed.  
-
-'For I had weighed the [[settings/mountains|mountains]] in a balance,  
-And the skies in a scale,  
-I come to sell the [[motifs/stars|stars]] -- old lamps for new --  
-Old [[motifs/stars|stars]] for sale.'  
-
-Then a calm voice fell all the thunder through,  
-A tone less rough:  
-'Thou hast begun to [[motifs/love|love]] one of my works  
-Almost enough.'
-
 
 <span class="qlang-split" data-lang="it"></span>
 

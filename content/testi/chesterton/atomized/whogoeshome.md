@@ -14,24 +14,6 @@ tags:
 <span class="atom-split" data-atom="whogoeshome" data-title="WhoGoesHome" data-chapter="" data-kind="intro"></span>
 
 
-Who Goes [[motifs/home|Home]]?  
-
-In the [[motifs/city|city]] set upon slime and loam  
-They cry in their parliament 'Who goes [[motifs/home|home]]?'  
-And there comes no answer in arch or dome,  
-For none in the [[motifs/city|city]] of graves goes [[motifs/home|home]].  
-Yet these shall perish and understand,  
-For God has pity on this great land.  
-
-Men that are men again; who goes [[motifs/home|home]]?  
-Tocsin and trumpeter! Who goes [[motifs/home|home]]?  
-For there's [[motifs/blood|blood]] on the field and [[motifs/blood|blood]] on the foam  
-And [[motifs/blood|blood]] on the [[concepts/body|body]] when Man goes [[motifs/home|home]].  
-And a voice valedictory . . . Who is for Victory?  
-Who is for Liberty? Who goes [[motifs/home|home]]?  
-
-G. K. Chesterton
-
 
 <span class="qlang-split" data-lang="it"></span>
 

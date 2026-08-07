@@ -13,31 +13,6 @@ tags:
 <span class="atom-split" data-atom="wine-and-water" data-title="wine-and-water" data-chapter="" data-kind="intro"></span>
 
 
-Wine and [[motifs/water|Water]]
-
-by G.K.Chesterton
-
-Old Noah he had an ostrich farm and fowls on the largest scale,
-He ate his egg with a ladle in a egg-cup big as a pail,
-And the soup he took was Elephant Soup and fish he took was Whale,
-But they all were small to the cellar he took when he set out to sail,
-And Noah he often said to his wife when he sat down to dine,
-"I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine."
-
-The cataract of the cliff of heaven fell blinding off the brink
-As if it would wash the [[motifs/stars|stars]] away as suds go down a sink,
-The seven heavens came roaring down for the throats of hell to drink,
-And Noah he cocked his eye and said, "It looks like rain, I think,
-The [[motifs/water|water]] has drowned the Matterhorn as deep as a Mendip mine,
-But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine."
-
-But Noah he sinned, and we have sinned; on tipsy feet we trod,
-Till a great big black teetotaller was sent to us for a rod,
-And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
-For the Curse of [[motifs/water|Water]] has come again because of the wrath of God,
-And [[motifs/water|water]] is on the Bishop's board and the Higher Thinker's shrine,
-But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

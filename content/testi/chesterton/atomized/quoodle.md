@@ -14,47 +14,6 @@ tags:
 <span class="atom-split" data-atom="quoodle" data-title="quoodle" data-chapter="" data-kind="intro"></span>
 
 
-THE SONG OF [[characters/quoodle|QUOODLE]]  
-
-G.K.Chesterton  
-
-They haven't got no noses,  
-The fallen sons of Eve;  
-Even the smell of roses  
-Is not what they supposes;  
-But more than mind discloses  
-And more than men believe.  
-
-They haven't got no noses,  
-They cannot even tell  
-When door and darkness closes  
-The park a Jew encloses,  
-Where even the law of Moses  
-Will let you steal a smell.  
-
-The brilliant smell of [[motifs/water|water]],  
-The brave smell of a stone,  
-The smell of dew and thunder,  
-The old bones buried under,  
-Are things in which they blunder  
-And err, if left alone.  
-
-The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,  
-The scent of scentless [[motifs/flowers|flowers]],  
-The breath of brides' adorning,  
-The smell of snare and warning,  
-The smell of [[characters/sunday|Sunday]] morning,  
-God gave to us for ours  
-
-*    *    *    *    *
-
-And [[characters/quoodle|Quoodle]] here discloses  
-All things that [[characters/quoodle|Quoodle]] can,  
-They haven't got no noses,  
-They haven't got no noses,  
-And goodness only knowses  
-The Noselessness of Man.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

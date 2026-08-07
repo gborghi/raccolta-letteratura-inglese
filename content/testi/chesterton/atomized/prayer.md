@@ -14,30 +14,6 @@ tags:
 <span class="atom-split" data-atom="prayer" data-title="prayer" data-chapter="" data-kind="intro"></span>
 
 
-A [[motifs/prayer|Prayer]] in Darkness  
-
-G.K.Chesterton  
-
-This much, O heaven--if I should brood or rave,  
-Pity me not; but let the world be fed,  
-Yea, in my [[concepts/madness|madness]] if I strike me dead,  
-Heed you the grass that grows upon my [[motifs/grave|grave]].  
-
-If I dare snarl between this sun and sod,  
-Whimper and clamour, give me grace to own,  
-In sun and rain and fruit in season shown,  
-The shining [[motifs/silence|silence]] of the scorn of God.  
-
-Thank God the [[motifs/stars|stars]] are set beyond my power,  
-If I must travail in a [[motifs/night|night]] of wrath,  
-Thank God my [[motifs/tears|tears]] will never vex a moth,  
-Nor any curse of mine cut down a flower.  
-
-Men say the sun was darkened: yet I had  
-Thought it beat brightly, even on--Calvary:  
-And He that hung upon the Torturing Tree  
-Heard all the crickets singing, and was glad.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

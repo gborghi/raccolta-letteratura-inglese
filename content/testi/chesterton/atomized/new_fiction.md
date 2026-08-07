@@ -14,25 +14,6 @@ tags:
 <span class="atom-split" data-atom="new_fiction" data-title="New_Fiction" data-chapter="" data-kind="intro"></span>
 
 
-# New Fiction
-
-THE NEW FICTION  
-
-by G.K.Chesterton  
-
-("Leave them alone", we seem to hear Mr. Galsworthy say of his Young People.  
----From a Review by Mr. Bettany)  
-
-Little Blue-Fits has lost his wits,  
-And doesn't know where to find them;  
-Leave them alone and they'll come [[motifs/home|home]],  
-And leave their tales behind them.  
-
-The remarkable tales, with remarkable sales,  
-And Bonnets and [[motifs/bees|Bees]] in disorder;  
-For the Bonnets we view are exceedingly Blue,  
-And decidedly over the Border.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

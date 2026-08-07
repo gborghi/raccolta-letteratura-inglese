@@ -14,30 +14,6 @@ tags:
 <span class="atom-split" data-atom="gold-leaves" data-title="gold-leaves" data-chapter="" data-kind="intro"></span>
 
 
-Gold [[motifs/leaves|Leaves]]  
-
-by G.K.Chesterton  
-
-Lo! I am come to [[motifs/autumn|autumn]],  
-When all the [[motifs/leaves|leaves]] are gold;  
-Grey hairs and golden [[motifs/leaves|leaves]] cry out  
-The year and I are old.  
-
-In youth I sought the prince of men,  
-Captain in cosmic wars,  
-Our Titan, even the weeds would show  
-Defiant, to the [[motifs/stars|stars]].  
-
-But now a great thing in the street  
-Seems any human nod,  
-Where shift in strange [[concepts/democracy|democracy]]  
-The million masks of God.  
-
-In youth I sought the golden flower  
-Hidden in wood or wold,  
-But I am come to [[motifs/autumn|autumn]],  
-When all the [[motifs/leaves|leaves]] are gold.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

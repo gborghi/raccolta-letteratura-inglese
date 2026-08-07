@@ -14,34 +14,6 @@ tags:
 <span class="atom-split" data-atom="unknown-warrior" data-title="unknown-warrior" data-chapter="" data-kind="intro"></span>
 
 
-TO THE UNKNOWN WARRIOR  
-by G.K.Chesterton  
-
-You whom the kings saluted; who refused not  
-The one great pleasure of ignoble days,  
-Fame without name and glory without gossip,  
-Whom no biographer befouls with praise.  
-
-Who said of you "Defeated"? In the darkness  
-The dug-out where the limelight never comes,  
-Nor the big drum of Barnum's show can shatter  
-That vibrant stillness after all the drums.  
-
-Though the [[motifs/time|time]] comes when every Yankee circus  
-Can use our soldiers for its sandwich-men,  
-When those that pay the piper call the tune,  
-You will not [[motifs/dance|dance]]. You will not move again.  
-
-You will not march for Fatty Arbuckle,  
-Though he have yet a favourable press,  
-Tender as San Francisco to St. Francis  
-Or all the angels of Los Angeles.  
-
-They shall not [[motifs/storm|storm]] the last unfallen fortress,  
-The lonely [[settings/castle|castle]] where uncowed and free,  
-Dwells the unknown and undefeated warrior  
-That did alone defeat Publicity.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

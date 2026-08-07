@@ -14,31 +14,6 @@ tags:
 <span class="atom-split" data-atom="carol" data-title="carol" data-chapter="" data-kind="intro"></span>
 
 
-A Christmas Carol  
-
-The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's lap,  
-His hair was like a light.  
-(O weary, weary were the world,  
-But here is all aright.)  
-
-The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's breast,  
-His hair was like a star.  
-(O stern and cunning are the kings,  
-But here the true hearts are.)  
-
-The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's heart,  
-His hair was like a [[motifs/fire|fire]].  
-(O weary, weary is the world,  
-But here the world's [[motifs/desire|desire]].)  
-
-The [[characters/christ|Christ]]-[[archetypes/child|child]] stood at Mary's knee,  
-His hair was like a [[motifs/crown|crown]].  
-And all the [[motifs/flowers|flowers]] looked up at Him,  
-And all the [[motifs/stars|stars]] looked down.  
-
-(From "The Wild Knight", first published 1900.  
-Also published in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Chesterton")
-
 
 <span class="qlang-split" data-lang="it"></span>
 

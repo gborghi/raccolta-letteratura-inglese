@@ -14,30 +14,6 @@ tags:
 <span class="atom-split" data-atom="strange-music" data-title="strange-music" data-chapter="" data-kind="intro"></span>
 
 
-The Strange Music  
-
-Other loves may sink and settle, other loves may loose and slack,  
-But I wander like a minstrel with a harp upon my back,  
-Though the harp be on my bosom, though I finger and I fret,  
-Still, my [[concepts/hope|hope]] is all before me; for I cannot play it yet.  
-
-In your strings is hid a music that no hand hath e'er let fall,  
-In your [[motifs/soul|soul]] is sealed a pleasure that you have not known at all;  
-Pleasure subtle as your spirit, strange and slender as your frame,  
-Fiercer than the [[motifs/pain|pain]] that folds you, softer than your sorrow's name.  
-
-Not as mine, my [[motifs/soul|soul]]'s annointed, not as mine the rude and light  
-Easy mirth of many faces, swaggering [[concepts/pride|pride]] of song and fight;  
-Something stranger, something sweeter, something waiting you afar,  
-Secret as your stricken senses, magic as your sorrows are.  
-
-But on this, God's harp supernal, stretched but to be stricken once,  
-Hoary [[motifs/time|time]] is a beginner, Life a bungler, [[motifs/death|Death]] a dunce.  
-But I will not [[concepts/fear|fear]] to match them - no by God, I will not [[concepts/fear|fear]],  
-I will learn you, I will play you and the [[motifs/stars|stars]] stand still to hear.  
-
---G.K.Chesterton
-
 
 <span class="qlang-split" data-lang="it"></span>
 

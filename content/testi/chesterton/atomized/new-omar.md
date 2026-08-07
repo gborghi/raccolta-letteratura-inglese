@@ -14,18 +14,6 @@ tags:
 <span class="atom-split" data-atom="new-omar" data-title="new-omar" data-chapter="" data-kind="intro"></span>
 
 
-THE NEW OMAR  
-
-A Book of verses underneath the bough,  
-Provided that the verses do not scan,  
-A loaf of bread, a jug of wine and Thou,  
-Short-haired, all angles, looking like a man.  
-
-But let the wine be unfermented, Pale,  
-Of chemicals compounded, God knows how--  
-This were indeed the [[archetypes/prophet|Prophet]]'s Paradise,  
-O Paradise were Wilderness enow.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

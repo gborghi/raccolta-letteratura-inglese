@@ -14,21 +14,6 @@ tags:
 <span class="atom-split" data-atom="the_judgment_of_england" data-title="The_Judgment_of_England" data-chapter="" data-kind="intro"></span>
 
 
-# The Judgment of England
-
-The Judgment Of England  
-
-"Ill fares the land, to hastening ills a prey  
-Where Wealth accumulates and Men [[motifs/decay|decay]]."  
-So rang of old the noble voice in vain  
-O'er the Last Peasants wandering on the plain,  
-Doom has reversed the [[forms/riddle|riddle]] and the rhyme,  
-While sinks the commerce reared upon that crime,  
-The thriftless towns litter with lives undone,  
-To whom our [[concepts/madness|madness]] left no joy but one;  
-And irony that glares like Judgment Day  
-Sees Men accumulate and Wealth [[motifs/decay|decay]].
-
 
 <span class="qlang-split" data-lang="it"></span>
 

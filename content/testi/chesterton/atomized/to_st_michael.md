@@ -14,69 +14,6 @@ tags:
 <span class="atom-split" data-atom="to_st_michael" data-title="to_st_michael" data-chapter="" data-kind="intro"></span>
 
 
-# to st [[characters/michael|michael]]
-
-To St. [[characters/michael|Michael]] in [[motifs/time|Time]] of Peace  
-
-[[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the Morning,  
-[[characters/michael|Michael]] of the Army of the Lord,  
-Stiffen thou the hand upon the still sword, [[characters/michael|Michael]],  
-Folded and shut upon the sheathed sword, [[characters/michael|Michael]],  
-Under the fullness of the white robes falling,  
-Gird us with the secret of the sword.  
-
-When the world cracked because of a sneer in heaven,  
-Leaving out for all [[motifs/time|time]] a scar upon the sky,  
-Thou didst rise up against the Horror in the highest,  
-Dragging down the highest that looked down on the Most High:  
-Rending from the seventh heaven the hell of exaltation  
-Down the seven heavens till the dark seas burn:  
-Thou that in thunder threwest down the Dragon  
-Knowest in what [[motifs/silence|silence]] the Serpent can return.  
-
-Down through the universe the vast [[motifs/night|night]] falling  
-([[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the Morning!)  
-Far down the universe the deep calms calling  
-([[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the [[works/sword-(chesterton)|Sword]]!)  
-Bid us not forget in the baths of all forgetfulness,  
-In the sigh long drawn from the frenzy and the fretfulness  
-In the huge holy sempiternal [[motifs/silence|silence]]  
-In the beginning was the Word.  
-
-When from the deeps of dying God astounded  
-Angels and devils who do all but die  
-Seeing Him fallen where thou couldst not follow,  
-Seeing Him mounted where thou couldst not fly,  
-Hand on the hilt, thou hast halted all thy legions  
-Waiting the Tetelestai and the acclaim,  
-Swords that salute Him dead and everlasting  
-God beyond God and greater than His Name.  
-
-Round us and over us the cold thoughts creeping  
-([[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the battle-cry!)  
-Round us and under us the thronged world sleeping  
-([[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the Charge!)  
-Guard us the Word; the trysting and the trusting  
-Edge upon the [[concepts/honour|honour]] and the blade unrusting  
-Fine as the hair and tauter than the harpstring  
-Ready as when it rang upon the targe.  
-
-He that giveth peace unto us; not as the world giveth:  
-He that giveth law unto us; not as the scribes:  
-Shall he be softened for the softening of the cities  
-Patient in usury; delicate in bribes?  
-They that come to quiet us, saying the sword is broken,  
-Break man with famine, fetter them with gold,  
-Sell them as sheep; and He shall know the selling  
-For He was more than murdered. He was sold.  
-
-[[characters/michael|Michael]], [[characters/michael|Michael]]: [[characters/michael|Michael]] of the Mustering,  
-[[characters/michael|Michael]] of the marching on the [[settings/mountains|mountains]] of the Lord,  
-Marshal the world and purge of rot and riot  
-Rule through the world till all the world be quiet:  
-Only establish when the world is broken  
-What is unbroken is the word.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

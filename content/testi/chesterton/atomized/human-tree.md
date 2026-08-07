@@ -14,42 +14,6 @@ tags:
 <span class="atom-split" data-atom="human-tree" data-title="human-tree" data-chapter="" data-kind="intro"></span>
 
 
-The Human Tree  
-
-Many have Earth's lovers been,  
-Tried in seas and wars, I ween;  
-Yet the mightiest have I seen:  
-Yea, the best saw I.  
-One that in a field alone  
-Stood up stiller than a stone  
-Lest a moth should fly.  
-
-[[motifs/birds|Birds]] had nested in his hair,  
-On his shoon were mosses rare,  
-Insect empires flourished there,  
-Worms in ancient wars;  
-But his eyes burn like a glass,  
-Hearing a great sea of grass  
-Roar towards the [[motifs/stars|stars]].  
-
-From them to the human tree  
-[[motifs/rose|Rose]] a cry continually:  
-‘Thou art still, our Father, we  
-Fain would have thee nod.  
-Make the skies as blood below thee,  
-Though thou slay us, we shall know thee.  
-Answer us, O God!  
-
-‘Show thine ancient fame and thunder,  
-Split the stillness once asunder,  
-Lest we whisper, lest we [[concepts/wonder|wonder]]  
-Art thou there at all?'  
-But I saw him there alone,  
-Standing stiller than a stone  
-Lest a moth should fall.  
-
-G.K. CHESTERTON
-
 
 <span class="qlang-split" data-lang="it"></span>
 

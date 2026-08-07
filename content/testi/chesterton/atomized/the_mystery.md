@@ -14,32 +14,6 @@ tags:
 <span class="atom-split" data-atom="the_mystery" data-title="the_mystery" data-chapter="" data-kind="intro"></span>
 
 
-# the mystery
-
-The Mystery  
-
-G. K. Chesterton  
-
-If sunset clouds could grow on trees  
-It would but match the may in flower;  
-And skies be underneath the seas  
-No topsyturvier than a shower.  
-
-If [[settings/mountains|mountains]] [[motifs/rose|rose]] on wings to wander  
-They were no wilder than a cloud;  
-Yet all my praise is mean as slander,  
-Mean as these mean words spoken aloud.  
-
-And never more than now I know  
-That man's first heaven is far behind;  
-Unless the blazing seraph's blow  
-Has left him in the [[motifs/garden|garden]] blind.  
-
-Witness, O Sun that blinds our eyes,  
-Unthinkable and unthankable [[archetypes/king|King]],  
-That though all other [[concepts/wonder|wonder]] dies  
-I [[concepts/wonder|wonder]] at not wondering.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

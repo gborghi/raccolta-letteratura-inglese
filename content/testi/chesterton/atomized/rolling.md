@@ -14,36 +14,6 @@ tags:
 <span class="atom-split" data-atom="rolling" data-title="rolling" data-chapter="" data-kind="intro"></span>
 
 
-The Rolling English [[motifs/road|Road]]  
-
-Before the Roman came to Rye or out to Severn strode,  
-The rolling English drunkard made the rolling English [[motifs/road|road]].  
-A reeling [[motifs/road|road]], a rolling [[motifs/road|road]], that rambles round the shire,  
-And after him the parson ran, the sexton and the squire;  
-A merry [[motifs/road|road]], a mazy [[motifs/road|road]], and such as we did tread  
-The [[motifs/night|night]] we went to Birmingham by way of Beachy Head.  
-
-I knew no harm of Bonaparte and plenty of the Squire,  
-And for to fight the Frenchman I did not much [[motifs/desire|desire]];  
-But I did bash their baggonets because they came arrayed  
-To straighten out the crooked [[motifs/road|road]] an English drunkard made,  
-Where you and I went down the lane with ale-mugs in our hands,  
-The [[motifs/night|night]] we went to Glastonbury by way of Goodwin Sands.  
-
-His sins they were forgiven him; or why do [[motifs/flowers|flowers]] run  
-Behind him; and the hedges all strengthening in the sun?  
-The wild thing went from left to right and knew not which was which,  
-But the wild [[motifs/rose|rose]] was above him when they found him in the ditch.  
-God pardon us, nor harden us; we did not see so clear  
-The [[motifs/night|night]] we went to Bannockburn by way of Brighton Pier.  
-
-My friends, we will not go again or ape an ancient rage,  
-Or stretch the folly of our youth to be the shame of age,  
-But walk with clearer eyes and ears this path that wandereth,  
-And see undrugged in evening light the decent inn of [[motifs/death|death]];  
-For there is good news yet to hear and fine things to be seen,  
-Before we go to Paradise by way of Kensal Green.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

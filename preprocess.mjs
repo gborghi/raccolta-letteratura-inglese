@@ -613,6 +613,7 @@ async function publishUnits(
   const atomSourceToFrag = new Map() // "Authors/<Author>/<sub>/<relU>" -> "workSlug#atomId" (subwork href resolution)
   const atomSearch = {} // SPA: frag (or bare reading slug for atomless works) -> { title, work, text }, corpus-wide search
   const unitPlainText = new Map() // SPA: reading slug (workSlug) -> plain text of its intro unit, for atomless works
+  const introTrim = { trimmed: 0, empty: 0, missed: 0, saved: 0 } // intro atom cut back to the container's head
   const leafAtoms = [] // SPA: one entry per emitted leaf atom -> data/leaf_atoms.json (tagging-run manifest)
   const leafFragRows = [] // SPA: synthetic works-index rows for tagged leaf atoms not already covered by a subwork rec
   let copied = 0
@@ -716,6 +717,52 @@ async function publishUnits(
           let pageTitle = workLabel
           const atomIdOf = (it) =>
             it.slug.slice(workSlug.length + 1).replace(/\//g, "--") || "intro"
+          // The work-level file <W>/<W>.md is the concatenation of its leaves PLUS the
+          // edition's front matter (title page, illustration list, CONTENTS with the paper
+          // edition's page numbers) that no leaf carries. Emitted whole as the "intro" atom
+          // it shipped every book a second time on its own reading page — 39% of the reading
+          // pages' bytes — and that second copy had no Italian, because the vault translates
+          // leaves, not containers. Keep only the head: what precedes the first leaf's first
+          // line, which is exactly the part that is NOT already in the leaves.
+          // A work with no top-level sections at all (an unatomized essay or poem) IS its
+          // work-level file: there is nothing to trim, and headLines stays null.
+          //
+          // Anchoring on the first section's opening line alone is not enough — "CHAPTER I"
+          // occurs three times in Hard_Times (twice in the CONTENTS) and the first hit would
+          // cut in the wrong place. So: take every occurrence of that line, keep the one that
+          // leaves a tail as long as the sections, and accept it only when the arithmetic is
+          // exact or the container's last 30 lines really are the sections' last 30. Anything
+          // else keeps the container whole — 230 of 234 are identified, 4 are left alone.
+          // splitUnit keeps each section's own "# H1", which the container does not carry:
+          // strip it, or the tails can never line up.
+          const topSections = items.filter((x) => x.unitType !== "work" && !x.parentItem)
+          let headLines = null
+          if (topSections.length) {
+            const nonBlank = (t) => t.split("\n").map((l) => l.trim()).filter(Boolean)
+            const secLines = []
+            for (const s of topSections) {
+              const abs = path.join(subRoot, s.relU.split("/").join(path.sep))
+              const sBody = splitUnit(await fs.readFile(abs, "utf8")).body.replace(/^\s*#[^\n]*\n/, "")
+              secLines.push(...nonBlank(sBody))
+            }
+            const contAbs = path.join(subRoot, `${workDir}/${workDir}.md`.split("/").join(path.sep))
+            const contBody = await fs.readFile(contAbs, "utf8").catch(() => null)
+            if (contBody !== null && secLines.length) {
+              const cont = nonBlank(splitUnit(contBody).body)
+              const k = Math.min(30, secLines.length)
+              const tailOk =
+                cont.length >= k && cont.slice(-k).every((l, i) => l === secLines[secLines.length - k + i])
+              let best = -1
+              let bestErr = Infinity
+              for (let p = 0; p < cont.length; p++) {
+                if (cont[p] !== secLines[0]) continue
+                const err = Math.abs(cont.length - p - secLines.length)
+                if (err < bestErr) { bestErr = err; best = p }
+              }
+              if (best > 0 && (bestErr === 0 || (tailOk && bestErr <= Math.max(3, 0.02 * secLines.length))))
+                headLines = best
+            }
+          }
           const blocks = []
           const workDirFrags = [] // atomSearch keys emitted for THIS workDir, so a
           // single-unit work (exactly one leaf atom = the whole work) can be
@@ -738,7 +785,24 @@ async function publishUnits(
 
             const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
             const raw = await fs.readFile(srcAbs, "utf8")
-            const { body, title: h1Title } = splitUnit(raw)
+            let { body, title: h1Title } = splitUnit(raw)
+            if (isIntro) {
+              if (headLines === null) introTrim.missed++ // container is not head + sections: leave it whole
+              else {
+                // cut at the raw line that holds the (headLines+1)-th non-blank line
+                const lines = body.split("\n")
+                let seen = 0
+                let at = lines.length
+                for (let i = 0; i < lines.length; i++) {
+                  if (!lines[i].trim()) continue
+                  if (seen++ === headLines) { at = i; break }
+                }
+                const head = lines.slice(0, at).join("\n").replace(/\n+$/, "")
+                introTrim.saved += body.length - head.length
+                introTrim.trimmed++
+                body = head
+              }
+            }
             const title = fixRoman(
               (wt ? applyWorkTitle(h1Title, wt) : cleanWikilinks(h1Title)) ||
                 prettyFromFilename(it.fileName),
@@ -1037,6 +1101,10 @@ async function publishUnits(
   if (SPA) {
     await fs.mkdir(DATA, { recursive: true })
     await fs.writeFile(path.join(DATA, "leaf_atoms.json"), JSON.stringify(leafAtoms))
+    console.log(
+      `intro atoms: ${introTrim.trimmed} trimmed to the container head, ${introTrim.missed} kept whole ` +
+        `(container is not head + sections); ${(introTrim.saved / 1e6).toFixed(1)}MB of duplicated body dropped`,
+    )
   }
 
   return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText, leafFragRows }

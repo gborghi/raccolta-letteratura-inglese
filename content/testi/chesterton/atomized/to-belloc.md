@@ -14,59 +14,6 @@ tags:
 <span class="atom-split" data-atom="to-belloc" data-title="to-belloc" data-chapter="" data-kind="intro"></span>
 
 
-TO HILAIRE BELLOC  
-
-by G.K. Chesterton  
-
-For every tiny town or place  
-God made the [[motifs/stars|stars]] especially;  
-Babies look up with owlish face  
-And see them tangled in a tree;  
-You saw a [[motifs/moon|moon]] from Sussex Downs,  
-A Sussex [[motifs/moon|moon]], untravelled still,  
-I saw a [[motifs/moon|moon]] that was the town's,  
-The largest lamp on Campden [[motifs/hill|Hill]].  
-
-Yea; Heaven is everywhere at [[motifs/home|home]]  
-The big blue cap that always fits,  
-And so it is (be calm; they come  
-To goal at last, my wandering wits),  
-So is it with the heroic thing;  
-This shall not end for the world's end  
-And though the sullen engines swing,  
-Be you not much afraid, my friend.  
-
-This did not end by Nelson's urn  
-Where an immortal England sits--  
-Nor where your tall young men in turn  
-Drank [[motifs/death|death]] like wine at Austerlitz.  
-And when the pedants bade us mark  
-What cold mechanic happenings  
-Must come; our souls said in the dark,  
-"Belike; but there are likelier things."  
-
-Likelier across these flats afar  
-These sulky levels smooth and free  
-The drums shall crash a waltz of war  
-And [[motifs/death|Death]] shall [[motifs/dance|dance]] with Liberty;  
-Likelier the barricades shall blare  
-Slaughter below and smoke above,  
-And [[motifs/death|death]] and hate and hell declare  
-That men have found a thing to [[motifs/love|love]].  
-
-Far from your sunny uplands set  
-I saw the dream; the streets I trod  
-The lit straight streets shot out and met  
-The starry streets that point to God.  
-This legend of an [[forms/epic|epic]] hour  
-A [[archetypes/child|child]] I dreamed, and dream it still,  
-Under the great grey [[motifs/water|water]]-tower  
-That strikes the [[motifs/stars|stars]] on Campden [[motifs/hill|Hill]]  
-
-G.K.C.  
-
-(Preface to Chesterton's "The Napoleon of Notting [[motifs/hill|Hill]]").
-
 
 <span class="qlang-split" data-lang="it"></span>
 

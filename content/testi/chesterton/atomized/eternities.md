@@ -14,25 +14,6 @@ tags:
 <span class="atom-split" data-atom="eternities" data-title="eternities" data-chapter="" data-kind="intro"></span>
 
 
-Eternities  
-
-G.K.Chesterton  
-
-I cannot count the pebbles in the brook.  
-[[motifs/well|Well]] hath He spoken: "Swear not by thy head.  
-Thou knowest not the hairs," though He, we read,  
-Writes that wild number in His own strange book.  
-
-I cannot count the sands or search the seas,  
-[[motifs/death|Death]] cometh, and I leave so much untrod.  
-Grant my immortal aureole, O my God,  
-And I will name the [[motifs/leaves|leaves]] upon the trees,  
-
-In heaven I shall stand on gold and glass,  
-Still brooding earth's arithmetic to spell;  
-Or see the fading of the fires of hell  
-Ere I have thanked my God for all the grass.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

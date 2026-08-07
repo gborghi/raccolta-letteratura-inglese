@@ -14,48 +14,6 @@ tags:
 <span class="atom-split" data-atom="gloria_in_profundis" data-title="Gloria_in_Profundis" data-chapter="" data-kind="intro"></span>
 
 
-# Gloria in Profundis
-
-GLORIA IN PROFUNDIS  
-
-There has fallen on earth for a token  
-A god too great for the sky.  
-He has burst out of all things and broken  
-The bounds of [[concepts/eternity|eternity]]:  
-Into [[motifs/time|time]] and the terminal land  
-He has strayed like a thief or a [[archetypes/lover|lover]],  
-For the wine of the world brims over,  
-Its splendour is spilt on the sand.  
-
-Who is proud when the heavens are humble,  
-Who mounts if the [[settings/mountains|mountains]] fall,  
-If the fixed [[motifs/stars|stars]] topple and tumble  
-And a deluge of [[motifs/love|love]] drowns all-  
-Who rears up his head for a [[motifs/crown|crown]],  
-Who holds up his will for a warrant,  
-Who strives with the starry torrent,  
-When all that is good goes down?  
-
-For in dread of such falling and failing  
-The fallen angels fell  
-Inverted in insolence, scaling  
-The hanging mountain of hell:  
-But unmeasured of plummet and rod  
-Too deep for their sight to scan,  
-Outrushing the fall of man  
-Is the height of the fall of God.  
-
-Glory to God in the Lowest  
-The spout of the [[motifs/stars|stars]] in spate-  
-Where thunderbolt thinks to be slowest  
-And the [[motifs/lightning|lightning]] fears to be late:  
-As men dive for sunken gem  
-Pursuing, we hunt and hound it,  
-The fallen star has found it  
-In the cavern of Bethlehem.  
-
-Gilbert Keith Chesterton
-
 
 <span class="qlang-split" data-lang="it"></span>
 

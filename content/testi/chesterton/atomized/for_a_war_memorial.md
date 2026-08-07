@@ -14,34 +14,6 @@ tags:
 <span class="atom-split" data-atom="for_a_war_memorial" data-title="For_a_War_Memorial" data-chapter="" data-kind="intro"></span>
 
 
-# For a War Memorial
-
-For a War Memorial  
-
-[Suggested [[forms/inscription|inscription]] probably not selected by the Committee.]  
-
-The hucksters haggle in the mart  
-The cars and carts go by;  
-Senates and schools go droning on;  
-For dead things cannot die.  
-
-A [[motifs/storm|storm]] stooped on the place of tombs  
-With bolts to blast and rive;  
-But these be names of many men  
-The [[motifs/lightning|lightning]] found alive.  
-
-If usurers rule and rights [[motifs/decay|decay]]  
-And visions view once more  
-Great Carthage like a golden shell  
-Gape hollow on the shore,  
-
-Still to the last of crumbling [[motifs/time|time]]  
-Upon this stone be read  
-How many men of England died  
-To prove they were not dead.  
-
-G.K. Chesterton
-
 
 <span class="qlang-split" data-lang="it"></span>
 

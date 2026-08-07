@@ -14,15 +14,6 @@ tags:
 <span class="atom-split" data-atom="broad_minded_bishop" data-title="Broad_Minded_Bishop" data-chapter="" data-kind="intro"></span>
 
 
-# Broad Minded Bishop
-
-A Broad Minded Bishop Rebukes The Verminous St. Francis  
-
-If Brother Francis pardoned Brother Flea,  
-There still seems need of such strange [[concepts/charity|charity]],  
-Seeing he is, for all his gay goodwill,  
-Bitten by funny little creatures still.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

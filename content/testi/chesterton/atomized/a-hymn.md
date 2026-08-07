@@ -14,37 +14,6 @@ tags:
 <span class="atom-split" data-atom="a-hymn" data-title="a-hymn" data-chapter="" data-kind="intro"></span>
 
 
-A [[forms/hymn|Hymn]]  
-
-by G.K.Chesterton  
-
-O God of earth and altar,  
-Bow down and hear our cry,  
-Our earthly rulers falter,  
-Our people drift and die;  
-The walls of gold entomb us,  
-The swords of scorn divide,  
-Take not thy thunder from us,  
-But take away our [[concepts/pride|pride]].  
-
-From all that terror teaches,  
-From lies of tongue and pen,  
-From all the easy speeches  
-That comfort cruel men,  
-From sale and profanation  
-Of [[concepts/honour|honour]] and the sword,  
-From [[motifs/sleep|sleep]] and from damnation,  
-Deliver us, good Lord.  
-
-Tie in a living tether  
-The prince and priest and thrall,  
-Bind all our lives together,  
-Smite us and save us all;  
-In ire and exultation  
-Aflame with [[concepts/faith|faith]], and free,  
-Lift up a living nation,  
-A single sword to thee.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

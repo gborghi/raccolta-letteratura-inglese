@@ -14,61 +14,6 @@ tags:
 <span class="atom-split" data-atom="last_hero" data-title="last_hero" data-chapter="" data-kind="intro"></span>
 
 
-# last [[archetypes/hero|hero]]
-
-The Last [[archetypes/hero|Hero]]  
-
-G.K. Chesterton  
-
-The [[motifs/wind|wind]] blew out from Bergen from the dawning to the day,  
-There was a wreck of trees and fall of towers a score of miles away,  
-And drifted like a livid leaf I go before its tide,  
-Spewed out of house and stable, beggared of [[motifs/flag|flag]] and bride.  
-The heavens are bowed about my head, shouting like seraph wars,  
-With rains that might put out the sun and clean the sky of [[motifs/stars|stars]],  
-Rains like the fall of ruined seas from secret worlds above,  
-The roaring of the rains of God none but the lonely [[motifs/love|love]].  
-Feast in my hall, O foemen, and eat and drink and drain,  
-You never loved the sun in heaven as I have loved the rain.  
-
-The chance of battle changes -- so may all battle be;  
-I stole my lady bride from them, they stole her back from me.  
-I rent her from her red-roofed hall, I rode and saw arise,  
-More lovely than the living [[motifs/flowers|flowers]] the hatred in her eyes.  
-She never loved me, never bent, never was less divine;  
-The sunset never loved me, the [[motifs/wind|wind]] was never mine.  
-Was it all nothing that she stood imperial in duresse?  
-[[motifs/silence|Silence]] itself made softer with the sweeping of her dress.  
-O you who drain the cup of life, O you who wear the [[motifs/crown|crown]],  
-You never loved a woman's smile as I have loved her frown.  
-
-The [[motifs/wind|wind]] blew out from Bergen to the dawning of the day,  
-They ride and run with fifty spears to break and bar my way,  
-I shall not die alone, alone, but kin to all the powers,  
-As merry as the ancient sun and fighting like the [[motifs/flowers|flowers]].  
-How white their steel, how bright their eyes! I [[motifs/love|love]] each laughing knave,  
-Cry high and bid him welcome to the banquet of the brave.  
-Yea, I will bless them as they bend and [[motifs/love|love]] them where they lie,  
-When on their skulls the sword I swing falls shattering from the sky.  
-The hour when [[motifs/death|death]] is like a light and [[motifs/blood|blood]] is like a [[motifs/rose|rose]], --  
-You never loved your friends, my friends, as I shall [[motifs/love|love]] my foes.  
-
-Know you what earth shall lose to-[[motifs/night|night]], what rich uncounted loans,  
-What heavy gold of tales untold you bury with my bones?  
-My loves in deep dim meadows, my ships that rode at ease,  
-Ruffling the purple plumage of strange and secret seas.  
-To see this fair earth as it is to me alone was given,  
-The blow that breaks my brow to-[[motifs/night|night]] shall break the dome of heaven.  
-The skies I saw, the trees I saw after no eyes shall see,  
-To-[[motifs/night|night]] I die the [[motifs/death|death]] of God; the [[motifs/stars|stars]] shall die with me;  
-One sound shall sunder all the spears and break the trumpet's breath:  
-You never laughed in all your life as I shall laugh in [[motifs/death|death]].  
-
-(Written in 1901)  
-
-Note: this poem has been set to music by [[characters/michael|Michael]] Longcor.  
-_________________________________________________________________
-
 
 <span class="qlang-split" data-lang="it"></span>
 

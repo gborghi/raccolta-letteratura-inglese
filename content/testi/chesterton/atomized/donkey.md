@@ -14,30 +14,6 @@ tags:
 <span class="atom-split" data-atom="donkey" data-title="donkey" data-chapter="" data-kind="intro"></span>
 
 
-The Donkey  
-
-G.K.Chesterton  
-
-When fishes flew and forests walked  
-And figs grew upon thorn,  
-Some moment when the [[motifs/moon|moon]] was [[motifs/blood|blood]]  
-Then surely I was born.  
-
-With monstrous head and sickening cry  
-And ears like errant wings,  
-The devil's walking [[forms/parody|parody]]  
-On all four-footed things.  
-
-The tattered outlaw of the earth,  
-Of ancient crooked will;  
-Starve, scourge, deride me: I am dumb,  
-I keep my secret still.  
-
-Fools! For I also had my hour;  
-One far fierce hour and sweet:  
-There was a shout about my ears,  
-And palms before my feet.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

@@ -14,28 +14,6 @@ tags:
 <span class="atom-split" data-atom="arthur" data-title="arthur" data-chapter="" data-kind="intro"></span>
 
 
-"The Myth of [[characters/arthur|Arthur]]"  
-By G. K. Chesterton  
-
-O learned man who never learned to learn,  
-Save to deduce, by timid steps and small,  
-From towering smoke that [[motifs/fire|fire]] can never burn  
-And from tall tales that men were never tall.  
-Say, have you thought what manner of man it is  
-Of who men say "He could strike giants down" ?  
-Or what strong memories over [[motifs/time|time]]'s abyss  
-Bore up the pomp of Camelot and the [[motifs/crown|crown]].  
-And why one banner all the background fills,  
-Beyond the pageants of so many spears,  
-And by what witchery in the western hills  
-A throne stands empty for a thousand years.  
-Who hold, unheeding this immense impact,  
-Immortal story for a mortal sin;  
-Lest human [[forms/fable|fable]] touch historic fact,  
-Chase myths like moths, and fight them with a pin.  
-Take comfort; rest--there needs not this ado.  
-You shall not be a myth, I promise you.
-
 
 <span class="qlang-split" data-lang="it"></span>
 

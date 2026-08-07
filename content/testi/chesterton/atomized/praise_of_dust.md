@@ -14,47 +14,6 @@ tags:
 <span class="atom-split" data-atom="praise_of_dust" data-title="praise_of_dust" data-chapter="" data-kind="intro"></span>
 
 
-# praise of [[motifs/dust|dust]]
-
-The Praise Of [[motifs/dust|Dust]]  
-
-G. K. Chesterton  
-
-"What of vile [[motifs/dust|dust]]?" the preacher said.  
-Methought the whole world woke,  
-The dead stone lived beneath my foot,  
-And my whole [[concepts/body|body]] spoke.  
-
-"You, that play [[archetypes/tyrant|tyrant]] to the [[motifs/dust|dust]],  
-And stamp its wrinkled face,  
-This patient star that flings you not  
-Far into homeless space.  
-
-"Come down out of your dusty shrine  
-The living [[motifs/dust|dust]] to see,  
-The [[motifs/flowers|flowers]] that at your sermon's end  
-Stand blazing silently.  
-
-"Rich white and [[motifs/blood|blood]]-red blossom; stones,  
-Lichens like [[motifs/fire|fire]] encrust;  
-A gleam of blue, a glare of gold,  
-The vision of the [[motifs/dust|dust]].  
-
-"Pass them all by: till, as you come  
-Where, at a [[motifs/city|city]]'s edge,  
-Under a tree--I know it [[motifs/well|well]]--  
-Under a lattice ledge,  
-
-"The sunshine falls on one brown head.  
-You, too, O cold of clay,  
-Eater of stones, may haply hear  
-The trumpets of that day  
-
-"When God to all his paladins  
-By his own splendour swore  
-To make a fairer face than heaven,  
-Of [[motifs/dust|dust]] and nothing more."
-
 
 <span class="qlang-split" data-lang="it"></span>
 

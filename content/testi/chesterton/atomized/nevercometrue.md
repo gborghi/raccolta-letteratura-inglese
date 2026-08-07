@@ -14,30 +14,6 @@ tags:
 <span class="atom-split" data-atom="nevercometrue" data-title="Nevercometrue" data-chapter="" data-kind="intro"></span>
 
 
-[[works/song-(poe)|Song]]  
-
-There's a sound of the flutes and the lutes tonight  
-In the island of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
-In a [[motifs/fire|fire]]-lit isle in the seas of [[motifs/night|night]]  
-Black with depth of blue;  
-And the man that might have been I shall [[motifs/dance|dance]]  
-With woman that might have been you:  
-Under the world where a man remembers  
-More than he ever knew.  
-
-There's a noise of songs in the gongs tonight,  
-In the [[motifs/garden|garden]] of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
-Under the trees of the terrible [[motifs/flowers|flowers]]  
-That bloom when the [[motifs/moon|moon]] is blue;  
-And the man that never was I is wed  
-To the woman that never was you--  
-O nothing nearer than all that is,  
-In [[works/nevercometrue-(chesterton)|Nevercometrue]] come true.  
-
-G.K. Chesterton  
-
-[Published in G.K.'s Weekly, 28th March, 1925]
-
 
 <span class="qlang-split" data-lang="it"></span>
 

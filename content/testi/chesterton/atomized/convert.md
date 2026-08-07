@@ -14,26 +14,6 @@ tags:
 <span class="atom-split" data-atom="convert" data-title="convert" data-chapter="" data-kind="intro"></span>
 
 
-THE CONVERT  
-
-After one moment when I bowed my head  
-And the whole world turned over and came upright,  
-And I came out where the old [[motifs/road|road]] shone white,  
-I walked the ways and heard what all men said,  
-Forests of tongues, like [[motifs/autumn|autumn]] [[motifs/leaves|leaves]] unshed,  
-Being not unlovable but strange and light;  
-Old riddles and new creeds, not in despite  
-But softly, as men smile about the dead.  
-
-The sages have a hundred maps to give  
-That trace their crawling cosmos like a tree,  
-They rattle reason out through many a sieve  
-That stores the sand and lets the gold go free:  
-And all these things are less than [[motifs/dust|dust]] to me  
-Because my name is Lazarus and I live.  
-
---G. K. Chesterton
-
 
 <span class="qlang-split" data-lang="it"></span>
 
